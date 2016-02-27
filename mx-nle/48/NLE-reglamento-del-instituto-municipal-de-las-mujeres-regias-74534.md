@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-las-mujeres-regias-74534"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-01"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de marzo de 2010.
 
@@ -35,9 +35,11 @@ A C U E R D O S:
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-El presente reglamento es de orden público e interés social y se expide con fundamento en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 118 y 130 de la Constitución Política del Estado de Nuevo León y 26 inciso b) fracción IX, 83, 84, 85 y 86 de la Ley Orgánica de la Administración Pública Municipal.
+El presente reglamento es de orden público e interés social y se expide con fundamento en los artículos 115 fracciones II de la Constitución Política de los Estados Unidos Mexicanos; 118 y 130 de la Constitución Política del Estado de Nuevo León y 115 de la Ley de Gobierno Municipal del Estado de Nuevo León.
 
 ###### ARTÍCULO 2.
 
@@ -63,9 +65,11 @@ Plan Municipal de las Mujeres.- Al conjunto de programas y acciones con definici
 
 El Instituto tendrá autonomía técnica y de gestión para el pleno cumplimiento de sus atribuciones y objetivos.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 5.
 
-El Instituto se regirá por la Ley Orgánica de la Administración Pública Municipal, el Reglamento Orgánico del Gobierno Municipal de Monterrey, el presente ordenamiento y las demás leyes, reglamentos municipales y disposiciones que le sean aplicables.
+El Instituto se regirá por la Ley de Gobierno Municipal del Estado de Nuevo León, el Reglamento de la Administración Pública del Municipio de Monterrey, el presente ordenamiento y las demás leyes, reglamentos municipales y disposiciones que le sean aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -175,7 +179,9 @@ XXXVII. Fomentar mediante programas y acciones, cambios culturales en la psicolo
 
 XXXVIII. Presentar iniciativas y propuestas para la educación en la igualdad y equidad de género en los planes de estudio de instituciones educativas públicas o privadas de cualquier nivel escolar.
 
-XXXIX. Establecer Comités y Consejos que coadyuven con el objeto y atribuciones del Instituto de la Mujer con el fin de lograr una mejor vinculación con la comunidad en la ejecución de los programas o acciones que realice el Instituto.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+XXXIX. Establecer Comités y Consejos que coadyuven con el objeto y atribuciones del Instituto con el fin de lograr una mejor vinculación con la comunidad en la ejecución de los programas o acciones que realice el Instituto.
 
 XL. Prestar todos aquellos servicios e implementar los demás programas que estén encaminados al cumplimiento de sus objetivos.
 
@@ -235,6 +241,8 @@ XIV. Aprobar, y modificar en su caso, los manuales de procedimientos del Institu
 
 XV. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto para el pleno cumplimiento de sus objetivos y acordar programas o acciones que deba realizar la Dirección General.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 14.
 
 El Consejo Directivo del Instituto se integrará de la siguiente manera:
@@ -243,11 +251,9 @@ I. Una o un Presidente, que será la o el Presidente Municipal.
 
 II. Una Secretaria Técnica, que será la Directora General del Instituto.
 
-III. Seis Consejeras nombradas por el R. Ayuntamiento a propuesta de la o el Presidente Municipal, que serán distinguidas mujeres integrantes de organismos públicos o de la sociedad civil, que se hayan destacado por su labor de investigación, social, política, cultural, educativa, académica, profesional o laboral.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
 
-Las Consejeras durarán en su cargo un período de tres años, el cual deberá coincidir con el del ejercicio del Ayuntamiento, pudiendo ser ratificadas. En el caso que el nombramiento de Consejeras recaiga en integrantes de organismos públicos; si duraren en su cargo por un tiempo menor a los tres años en la función que desempeñen en los organismos públicos correspondientes, deberán ser sustituidas.
-
-Las Consejeras permanecerán en su cargo hasta que el Ayuntamiento realice nuevo nombramiento.
+III. Seis Consejeras nombradas por el Ayuntamiento a propuesta de la o el Presidente Municipal, que serán distinguidas mujeres integrantes de organismos públicos o de la sociedad civil, que se hayan destacado por su labor de investigación, social, política, cultural, educativa, académica, profesional o laboral.
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
@@ -265,7 +271,9 @@ III. Las sesiones se celebrarán con la asistencia de la mayoría de sus integra
 
 IV. De cada sesión se formulará un acta que contenga los pormenores de los acuerdos tomados y que deberá ser firmada por los asistentes o al menos por quien la haya presidido y por la Secretaria Técnica del Consejo Directivo quién será responsable de la formulación y custodia de las actas.
 
-V. Las ausencias de la o el Presidente Municipal serán suplidas por la o en su defecto, por la o el Secretario de Desarrollo Humano y Social.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+V. Las ausencias de la o el Presidente Municipal serán suplidas por la o en su defecto, por la o el Secretario de Desarrollo Social.
 
 ###### ARTÍCULO 16.
 
@@ -303,7 +311,9 @@ III. Administrar y dirigir las actividades del Instituto, así como ejercer el p
 
 IV. Proponer al Consejo Directivo programas de financiamiento del Instituto.
 
-V. Representar legalmente al Instituto con el carácter de mandatario general para actos de administración y para pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial en los términos del artículo 2448 del Código Civil y con poder cambiario para suscribir, endosar y negociar títulos de crédito; dichos poderes podrán ser trasmitidos, sustituidos o revocados en forma general o especial en servidor público del Instituto o del Gobierno Municipal mediante la protocolización respectiva. Tendrá poder general para actos de dominio; éste lo ejercerá solo para la adquisición de bienes muebles o inmuebles para el Instituto, pero tratándose de enajenación o gravamen de bienes muebles o inmuebles, previo acuerdo del Consejo Directivo, ejercerá la representación legal del Instituto sujetándose a las restricciones y acatando las disposiciones de la Ley Orgánica de la Administración Pública Municipal y las demás leyes.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+V. Representar legalmente al Instituto con el carácter de mandatario general para actos de administración y para pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial en los términos del artículo 2448 del Código Civil y con poder cambiario para suscribir, endosar y negociar títulos de crédito; dichos poderes podrán ser trasmitidos, sustituidos o revocados en forma general o especial en servidor público del Instituto o del Gobierno Municipal mediante la protocolización respectiva. Tendrá poder general para actos de dominio; éste lo ejercerá solo para la adquisición de bienes muebles o inmuebles para el instituto, pero tratándose de enajenación o gravamen de bienes muebles o inmuebles, previo acuerdo del Consejo Directivo, ejercerá la representación legal del Instituto sujetándose a las restricciones y acatando las disposiciones de la Ley de Gobierno Municipal del Estado de Nuevo León y las demás leyes.
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
@@ -327,17 +337,21 @@ XIV. Las demás que le confiera el Consejo Directivo para alcanzar los objetivos
 
 ### CAPÍTULO SEXTO. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 22.
 
-El órgano de vigilancia del Instituto será una o un Comisario que será designado por el Ayuntamiento a propuesta del Presidente Municipal. Dicha designación deberá recaer preferentemente en la o el titular de la Secretaría de la Contraloría Municipal o uno de sus subordinados directos. El Comisario ejercerá sus funciones hasta que el Ayuntamiento realice nueva designación.
+El órgano de vigilancia del Instituto será una o un Comisario que será designado por el Ayuntamiento a propuesta del Presidente Municipal. Dicha designación deberá recaer preferentemente en la o Contralor Municipal o uno de sus subordinados directos. El Comisario ejercerá sus funciones hasta que el Ayuntamiento realice nueva designación.
 
 ###### ARTÍCULO 23.
 
 Para el cumplimiento de las funciones del Comisario, la Dirección General estará obligada a proporcionarle oportunamente la información y documentación que le sea requerida. El Comisario, sin ser miembro del mismo, asistirá a las sesiones ordinarias y extraordinarias del Consejo Directivo con voz pero sin voto.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-El Comisario informará anualmente al Consejo Directivo, al Presidente Municipal y al R. Ayuntamiento sobre el resultado del ejercicio de sus facultades de vigilancia, pero presentará informe cuando le sea requerido por el Presidente Municipal o por el Ayuntamiento; sobre la situación financiera, sobre la aplicación de los recursos o sobre el estado de la administración del Instituto.
+El Comisario informará anualmente al Consejo Directivo, al Presidente Municipal y al Ayuntamiento sobre el resultado del ejercicio de sus facultades de vigilancia, pero presentará informe cuando le sea requerido por el Presidente Municipal o por el Ayuntamiento, sobre la situación financiera, sobre la aplicación de los recursos o sobre el estado de la administración del Instituto.
 
 ###### ARTÍCULO 25.
 
@@ -381,9 +395,11 @@ VI. Formulación de las recomendaciones que sean procedentes.
 
 VII. Conclusiones.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 28.
 
-Las facultades de la o el Comisario se disponen sin perjuicio de las facultades de la Secretaría de la Contraloría Municipal de ejercer sus atribuciones establecidas en el Reglamento Orgánico del Gobierno Municipal.
+Las facultades de la o el Comisario se disponen sin perjuicio de las facultades de la Contraloría Municipal de ejercer sus atribuciones establecidas en el Reglamento da la Administración Pública del Municipio de Monterrey.
 
 ### CAPÍTULO SÉPTIMO. DEL PATRIMONIO Y DEL PRESUPUESTO DEL INSTITUTO
 
@@ -403,17 +419,23 @@ V. Los derechos, productos o ingresos que adquiera por cualquier título legal.
 
 VI. Los demás bienes, servicios, derechos, productos y aprovechamientos que fijen las leyes y reglamentos o que provengan de otros fondos o aportaciones.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 30.
 
-En la disposición sobre sus bienes muebles e inmuebles, el Instituto se regirá por lo establecido para los bienes municipales en la Ley Orgánica de la Administración Pública Municipal y las demás leyes.
+En la disposición sobre sus bienes muebles e inmuebles, el Instituto se regirá por lo establecido para los bienes municipales en la Ley de Gobierno Municipal del estado de Nuevo León y las demás leyes.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 31.
 
-En el Presupuesto de Egresos del municipio, que anualmente apruebe el R. Ayuntamiento, se fijará el monto anual que como transferencia corresponderá al Instituto, sin perjuicio de que le sean asignados recursos adicionales.
+En el Presupuesto de Egresos del municipio, que anualmente apruebe el Ayuntamiento, se fijará el monto anual que como transferencia corresponderá al Instituto, sin perjuicio de que le sean asignados recursos adicionales.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 32.
 
-La Secretaría de Finanzas y Tesorería realizará ministraciones iguales trimestrales cuatro veces al año a la cuenta del Instituto dentro de los primeros diez días de los meses de enero, abril, julio y octubre.
+La Tesorería Municipal realizará las ministraciones a la cuenta del Instituto en forma mensual o como así lo designe la misma.
 
 ###### ARTÍCULO 33.
 
@@ -455,15 +477,33 @@ Los servidores públicos del Instituto tendrán las obligaciones e incurrirán e
 
 ### CAPÍTULO DÉCIMO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 40.
 
-En la medida que se modifiquen las condiciones sociales y económicas del Municipio, en virtud de su crecimiento demográfico, cambio social, modificación de sus actividades productivas y demás aspectos de la vida comunitaria, el presente reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad en forma directa o a través de organizaciones sociales representativas.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobierno, Reglamentación y Mejora Regulatoria, quién recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-El Presidente Municipal, el Secretario del Ayuntamiento, los Regidores y Síndicos, deberán recibir y atender cualquier sugerencia, ponencia o queja que presenten los ciudadanos en relación con el contenido normativo del presente reglamento.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 41.
 
-El Consejo Directivo del Instituto podrá sugerir modificaciones a este ordenamiento a través de propuesta por escrito que, por medio de la o el Presidente Municipal, remitirá al R. Ayuntamiento.
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DEL RECURSO ÚNICO DE INCONFORMIDAD
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTÍCULO 42.
+
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento este regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTÍCULO 43.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ## TRANSITORIOS
 
@@ -512,3 +552,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL CUAL "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS".]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
