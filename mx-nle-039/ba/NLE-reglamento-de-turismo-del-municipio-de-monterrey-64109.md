@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-turismo-del-municipio-de-monterrey-64109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-29"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TURISMO DEL MUNICIPIO DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 29 de agosto del 2008.
 
@@ -165,21 +165,29 @@ d) Sugerirán diversas opciones para la creación de festivales y desfiles que a
 
 e) Las demás que así considere el Consejo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ### CAPÍTULO V
 
-DE LA SECRETARÍA DE VIALIDAD Y TRÁNSITO Y LA SECRETARÍA DE POLICÍA PREVENTIVA DE MONTERREY.
+DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 10.
 
-La Secretaría de Vialidad y Tránsito a través de la Dirección de Ingeniería Vial, mantendrá actualizados los señalamientos viales necesarios a fin de que los turistas, de una forma sencilla, puedan saber la manera de llegar a los lugares turísticos de la ciudad.
+La Secretaría de Seguridad Pública y Vialidad a través de la Dirección de Ingeniería Vial, mantendrá actualizados los señalamientos viales necesarios a fin de que los turistas, de una forma sencilla, puedan saber la manera de llegar a los lugares turísticos de la ciudad.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 11.
 
-Los oficiales de la Secretaría de Vialidad y Tránsito, deberán conocer los lugares de importancia para los turistas en la ciudad, a fin de que estén en condiciones de informar de manera amable y cierta la dirección o la ruta para llegar a ellos.
+Los oficiales de la Secretaría de Seguridad Pública y Vialidad, deberán conocer los lugares de importancia para los turistas en la ciudad, a fin de que estén en condiciones de informar de manera amable y cierta la dirección o la ruta para llegar a ellos.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 12.
 
-La Secretaría de Policía Preventiva de Monterrey, tendrá la obligación de cuidar la seguridad del turista en las zonas de su competencia, y en caso de así requerirlo o de emergencia, llevarlo con el Director de Relaciones Interinstitucionales y de Turismo o cualquier otro servidor público a fin de que éste lo ponga en contacto con sus embajadas y consulados.
+La Secretaría de Seguridad Pública y Vialidad, tendrá la obligación de cuidar la seguridad del turista en las zonas de su competencia, y en caso de así requerirlo o de emergencia, trasladarlo con el Director de Relaciones Interinstitucionales y Turismo, o con cualquier otro servidor público competente a fin de que éste lo ponga en contacto con sus embajadas y consulados.
 
 ### CAPÍTULO VI
 
@@ -189,23 +197,41 @@ DEL CONTROL, VIGILANCIA Y SANCIONES.
 
 El incumplimiento de las disposiciones contenidas en el presente reglamento será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León vigente y demás ordenamientos aplicables en la materia.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ### CAPÍTULO VII
 
-DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA.
+DEL RECURSO ÚNICO DE INCONFORMIDAD.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 14.
 
-Contra cualquier acto de la Autoridad Municipal que viole el presente reglamento, procederá el recurso de inconformidad, de acuerdo a lo establecido en el Reglamento que Regula el Procedimiento Único del Recurso de Inconformidad del Municipio de Monterrey.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento este regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 14 Bis.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO VIII
+
+DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 15.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 16.
 
-La Comisión deberá analizar, estudiar y dictaminar sobre las propuestas planteadas en un plazo no mayor de treinta días hábiles. De resultar fundadas las propuestas planteadas, se hará del conocimiento del Republicano Ayuntamiento para su consideración. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ## Transitorios
 
@@ -238,3 +264,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE TURISMO DEL MUNICIPIO DE MONTERREY”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
