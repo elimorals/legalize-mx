@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-recepcion-estacionamiento-y-guarda-de-13934"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-08-18"
-last_updated: "1991-12-02"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE RECEPCION, ESTACIONAMIENTO Y GUARDA DE VEHICULOS EN EDIFICIOS O LOCALES PUBLICOS O PRIVADOS DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE RECEPCION, ESTACIONAMIENTO Y GUARDA DE VEHICULOS EN EDIFICIOS O LOCALES PUBLICOS O PRIVADOS
+REGLAMENTO DE RECEPCIÓN, ESTACIONAMIENTO Y GUARDA DE VEHÍCULOS EN EDIFICIOS O LOCALES PÚBLICOS O PRIVADOS DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de agosto de 1976.
 
@@ -48,7 +48,9 @@ GENERALIDADES.
 
 5o. Se denominan estacionamientos de servicio público los construidos y que se construyan por particulares en propiedades particulares como predios, adaptación de locales y edificios especialmente acondicionados para la recepción, guarda y devolución de vehículos, con fines lucrativos y que funcionan con el permiso correspondiente de la Autoridad Municipal.
 
-6o. Se consideran estacionamientos particulares, los creados y mantenidos por particulares sin fines de lucro, en terrenos, edificios y construcciones utilizadas como centros de reunión social, comercial, industrial, etc., y que en áreas parciales de los mismos se realiza la guarda, recepción y entrega de vehículos pues la mayor parte del área se destina a una actividad principal distinta del servicio de estacionamiento, y que obedece su existencia a lo preceptuado por los Artículos 2o. Fracción III inciso b), 4o., 22, Fracción II inciso g), 76 y demás relativos de la Ley de Urbanismo y Planificación para el Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+6o. Se consideran estacionamientos particulares, los creados y mantenidos por particulares sin fines de lucro, en terrenos, edificios y construcciones utilizadas como centros de reunión social, comercial, industrial, etc., y que en áreas parciales de los mismos se realiza la guarda, recepción y entrega de vehículos pues la mayor parte del área se destina a una actividad principal distinta del servicio de estacionamiento.
 
 7o. No obstante el carácter de particular el estacionamiento está sujeto a la vigilancia y aplicación de normas de la Autoridad excluyéndose sólo los de casas unifamiliares y de edificios de departamentos, destinadas exclusivamente para casa-habitación.
 
@@ -78,7 +80,7 @@ V.- Proyecto arquitectónico con las especificaciones indispensables del edifici
 
 12. Cuando por cualquier causa exista necesidad para el permisionario de suspender el servicio de estacionamiento, deberá hacerlo del conocimiento de la Autoridad Municipal y del público usuario con quince días de anticipación, haciendo notar el tiempo aproximado que requiera la ejecución de las obras de acondicionamiento o demás circunstancias que hayan motivado la suspensión, cuando ésta sea provisional, o que se trata (sic) de suspensión definitiva, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 1991)</small>
 
 13. Ya sea que el servicio de estacionamiento se realice en Edificios total ó parcialmente destinados a tal fin, ó en predios no edificados, se requiere que tengan las condiciones mínimas para la prestación del servicio, contándose entre ellas, las siguientes instalaciones:
 
@@ -120,7 +122,7 @@ X.- Las demás que exigen los Reglamentos Administrativos aplicables.
 
 DE LAS OBLIGACIONES DEL PERMISIONARIO EN LA PRESTACION DEL SERVICIO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 1990)</small>
 
 16. Atendiendo a que los bienes jurídicamente protegidos en el presente ordenamiento son de interés público, y a que la sociedad se encuentra interesada en la funcionalidad eficaz del servicio público de estacionamientos, el permisionario deberá cumplir especialmente con las siguientes obligaciones:
 
@@ -172,15 +174,15 @@ DEL ESTACIONAMIENTO EN INMUEBLES PARTICULARES DESTINADOS A CENTROS DE REUNION, C
 
 25. Los estacionamientos de servicio particular de carácter gratuito para los usuarios que tengan relación con la actividad del negocio, industria o unidad habitacional serán exclusivos, pero si reciben vehículos de particulares que no tengan nexos con dichas negociaciones y cobren por ello, se sujetarán a las prescripciones correspondientes a los de servicio público, con sus obligaciones respectivas.
 
-26 En los casos de estacionamiento establecidos con el fin principal de proporcionar continuamente espacio disponible para vehículo de clientes, colaboradores y beneficiarios de otra actividad mercantil, cultural o institucional diferente a la del servicio público de estacionamiento y que simultáneamente se encuentran abiertos al público, los permisionarios, con el fin de asegurar la disponibilidad continua de espacio a sus favorecedores, podrán incrementar la tarifa autorizada que les corresponda hasta en un 50% para el público en general. Para poder gozar de esta facilidad, el área de estacionamiento deberá estar dentro de o contiguo al edificio de la actividad principal; o en su defecto, deberá comprobar el permisionario que tanto la actividad principal como el estacionamiento pertenecen a la misma persona física o moral.
+26. En los casos de estacionamiento establecidos con el fin principal de proporcionar continuamente espacio disponible para vehículo de clientes, colaboradores y beneficiarios de otra actividad mercantil, cultural o institucional diferente a la del servicio público de estacionamiento y que simultáneamente se encuentran abiertos al público, los permisionarios, con el fin de asegurar la disponibilidad continua de espacio a sus favorecedores, podrán incrementar la tarifa autorizada que les corresponda hasta en un 50% para el público en general. Para poder gozar de esta facilidad, el área de estacionamiento deberá estar dentro de o contiguo al edificio de la actividad principal; o en su defecto, deberá comprobar el permisionario que tanto la actividad principal como el estacionamiento pertenecen a la misma persona física o moral.
 
 ### CAPITULO QUINTO
 
 DE LAS VISITAS DOMICILIARIAS DE INSPECCION DE LOS ESTABLECIMIENTOS.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-27. La inspección de los estacionamientos de servicio público o privado, a fin de supervisar las instalaciones y condiciones de funcionamiento estará a cargo de las Direcciones de Tránsito y Obras Públicas del Municipio, con personal comisionado para tal fin. Estas inspecciones se harán mensualmente.
+27. La inspección de los estacionamientos de servicio público o privado, a fin de supervisar las instalaciones y condiciones de funcionamiento estará a cargo de la Dirección de Tránsito y la Secretaría de Obras Públicas del Municipio, con personal comisionado para tal fin. Estas inspecciones se harán mensualmente.
 
 28. Al practicarse la visita domiciliaria de inspección, el Inspector se identificará previamente y mostrará la orden escrita de la Autoridad Municipal, la que expresará el lugar que ha de inspeccionarse y el objeto y alcance de la diligencia a realizar, levantándose al concluirla, una acta circunstanciada en presencia de dos testigos propuestos por el propietario del estacionamiento o encargado del mismo, y ante la ausencia o negativa de estos últimos para proponerlos, por el Inspector que practique la diligencia.
 
@@ -192,11 +194,13 @@ DE LAS VISITAS DOMICILIARIAS DE INSPECCION DE LOS ESTABLECIMIENTOS.
 
 DE LAS SANCIONES.
 
-31. Las sanciones a imponer por infracciones al presente Reglamento, son:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1983)</small>
+31. Las sanciones a imponer por infracciones al presente Reglamento son:
 
-I.- Multa, en los términos de la Disposición General emitida por el R. Ayuntamiento de Monterrey, N.L.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+I.- Multa, en los términos de la Disposición General emitida por el Ayuntamiento;
 
 II.- Suspensión del permiso, que podrá ser temporal o definitiva, según la gravedad de la falta, a juicio de la Autoridad, en este caso se procederá a la clausura del estacionamiento, previa resolución administrativa fundada y motivada.
 
@@ -204,17 +208,17 @@ III.- Ambas, a criterio de la Autoridad.
 
 32. Atendiendo las condiciones del establecimiento podrá ordenarse al permisionario la realización, en el plazo otorgado, de las obras necesarias para el eficaz funcionamiento del servicio, con apercibimiento de imposición de multa o suspensión en caso de incumplimiento.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-33. La negativa o rebeldía continuada del infractor a la observancia del presente Reglamento, se calificará de reincidencia, y en consecuencia se le impondrá multa en los términos de la Disposición General emitida por el R. Ayuntamiento de Monterrey, N.L., o bien la suspensión definitiva del permiso si ya se le hubiere impuesto antes la suspensión temporal como sanción.
+33. La negativa o rebeldía continuada del infractor a la observancia del presente Reglamento, se calificará de reincidencia, y en consecuencia se le impondrá multa en los términos de la Disposición General emitida por el Ayuntamiento, o bien, la suspensión definitiva del permiso si ya se le hubiere impuesto antes la suspensión temporal como sanción.
 
 34. En los casos que así lo amerite, y visto el interés público que involucra, la Autoridad Municipal está facultada para intervenir el servicio de estacionamiento y hacer las adaptaciones, reparaciones y demás obras necesarias a fin de garantiza la continuidad del servicio; los gastos erogados por dicho concepto serán a cargo del permisionario moroso o incumplido.
 
 35. Toda imposición de sanción debe ser debidamente fundada y motivada, haciendo mención del o de los artículos infringidos y de los hechos de que se desprende su aplicación, haciéndose una relación sucinta del acta de inspección, declaraciones y demás datos en el cuerpo de la resolución.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1983)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-36. Las sanciones por infracciones a este Reglamento pueden consistir en multa en los términos de la Disposición General emitida por el R. Ayuntamiento de Monterrey, N. L., en suspensión temporal de 3 días a un mes, o en suspensión definitiva mediante la cancelación o revocación del permiso.
+36. Las sanciones por infracciones a este Reglamento pueden consistir en multa en los términos de la Disposición General emitida por el Ayuntamiento de Monterrey, en suspensión temporal de 3 días a un mes, o en suspensión definitiva mediante la cancelación o revocación del permiso.
 
 ### CAPITULO SEPTIMO
 
@@ -227,6 +231,34 @@ DEL PROCEDIMIENTO PARA LA APLICACION DE SANCIONES.
 39. Si la sanción tiene el carácter de multa, se remitirá a la Tesorería Municipal para su cobro, y si consiste en suspensión del permiso, se comisionará personal específico para colocar los sellos de clausura en el establecimiento.
 
 40. El afectado tiene derecho a interponer ante el C. Presidente Municipal de Monterrey, recurso de revisión de la resolución pronunciada por los funcionarios municipales a que se refiere el artículo 37 de este Reglamento y que no le fuera favorable, debiendo interponer el recurso mediante escrito que contenga los conceptos de agravio que se pretendan hacer valer, dentro del término improrrogable de tres días a partir de aquel en que le fue notificada la resolución recurrida.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPITULO OCTAVO
+
+DEL RECURSO UNICO DE INCONFORMIDAD.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+41. El Procedimiento Administrativo único de recurso de inconformidad procederá en contra de los actos emitidos por las autoridades del municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+42. El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPITULO NOVENO
+
+DEL PROCEDIMIENTO DE REVISION Y CONSULTA.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+43. Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobierno, Reglamentación y Mejora Regulatoria, quién recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+44. La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ## TRANSITORIOS
 
@@ -246,7 +278,7 @@ La Autoridad Municipal autorizará las tarifas del servicio de estacionamiento q
 
 Se derogan las disposiciones municipales vigentes que se relacionan con la materia en cuanto se opongan a lo dispuesto por el presente Reglamento.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE AGOSTO DE 1983.
 
@@ -261,3 +293,9 @@ SEGUNDO:- Para los efectos del Artículo 11 que se modifica, los actuales permis
 P.O. 2 DE DICIEMBRE DE 1991.
 
 UNICO:- Esta modificación entrará en vigor al día siguiente de su publicación.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE RECEPCIÓN, ESTACIONAMIENTO Y GUARDA DE VEHÍCULOS EN EDIFICIOS O LOCALES PÚBLICOS O PRIVADOS”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
