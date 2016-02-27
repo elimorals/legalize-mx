@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-del-municipio-de-monterrey-antes-41904"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-27"
-last_updated: "2014-08-20"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 27 de octubre de 1997
 
@@ -121,7 +121,9 @@ XXIV.- Temporalidad Máxima: Doce años de permanencia de los restos humanos en 
 
 Para la apertura de un Cementerio en el Municipio de Monterrey se requiere:
 
-I.- Tratándose de los Cementerios Oficiales contar con la aprobación del Republicano Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+I.- Tratándose de los Cementerios Oficiales contar con la aprobación del Ayuntamiento.
 
 II.- En caso de particulares:
 
@@ -287,11 +289,11 @@ El personal encargado de realizar las cremaciones utilizará el vestuario y equi
 
 El servicio de cremación se prestará por los Panteones Municipales directamente a los particulares o a las funerarias privadas cuando éstas así lo soliciten, previo pago de la tarifa autorizada.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 22.
 
-Se dará servicio de cremación sin costo a las personas de escasos recursos económicos cuando así lo solicite la autoridad denominada Desarrollo Integral de la Familia del Municipio de Monterrey, quien realizará la valoración mediante el estudio socioeconómico correspondiente.
+Se dará servicio de cremación sin costo a las personas de escasos recursos económicos cuando así lo solicite la Dirección General del Desarrollo Integral de la Familia, quien realizará la valoración mediante el estudio socioeconómico correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
@@ -387,11 +389,11 @@ I. Cuando hubiere transcurrido el plazo de seis años contados a partir de la ú
 
 II.- Que esté al corriente en los pagos correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 34.
 
-La autoridad municipal, podrá prestar servicio funerario gratuito a las personas de escasos recursos económicos, cuando así lo solicite la autoridad denominada Desarrollo Integral de la Familia del Municipio de Monterrey, quien realizará la valoración mediante el estudio socioeconómico correspondiente y de acuerdo a las necesidades podrá consistir en:
+La autoridad municipal, podrá prestar servicio funerario gratuito a las personas de escasos recursos económicos, cuando así lo solicite la Dirección General del Desarrollo Integral de la Familia, quien realizará la valoración mediante el estudio socioeconómico correspondiente y de acuerdo a las necesidades podrá consistir en:
 
 I.- Ataúd.
 
@@ -477,23 +479,31 @@ VIII. Construir gavetas en las fosas de los panteones municipales, sin el permis
 
 ### CAPÍTULO PRIMERO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 40.
 
-Las Autoridades competentes para aplicar el presente Reglamento en el ámbito de sus respectivas competencias son:
+Las autoridades competentes para aplicar el presente Reglamento son:
 
-I.- R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+I.- Ayuntamiento.
 
 II.- Presidente Municipal.
 
-III.- Secretario del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+III.- Secretario del Ayuntamiento
 
 > <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
 
 IV.- Secretario de Servicios Públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 41.
 
-Compete al R. Ayuntamiento:
+Compete al Ayuntamiento:
 
 I.- Modificar, reformar, adicionar, derogar y abrogar las disposiciones del presente Reglamento.
 
@@ -511,9 +521,11 @@ II.- Expedir acuerdos referentes a este Reglamento.
 
 III.- Y las demás atribuciones que le otorguen otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 43.
 
-Corresponde al C. Secretario del R. Ayuntamiento:
+Corresponde al C. Secretario del Ayuntamiento:
 
 I.- Participar o dar fe de los acuerdos y convenios que se realicen en relación con este Reglamento.
 
@@ -607,11 +619,41 @@ II.- La gravedad de la infracción.
 
 III.- Las condiciones socio económicas del infractor.
 
-### CAPÍTULO SEGUNDO. DE LOS RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO SEGUNDO. DEL RECURSO ÚNICO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 49.
 
-Contra las resoluciones definitivas de la Autoridad Municipal derivadas de la aplicación de este Reglamento, los interesados podrán interponer el recurso de inconformidad, por escrito, dentro de los 15-quince días siguientes a la notificación, ante la autoridad que haya emitido el acto, expresando agravios y ofreciendo pruebas dentro de las cuales se exceptúan la confesional por posiciones y las que sean contrarias a la moral y orden público. Dentro de los treinta días siguientes deberá dictarse la resolución correspondiente, este recurso es optativo al Juicio Contencioso Administrativo que se sigue ante el Tribunal de lo Contencioso Administrativo.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTÍCULO 50.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+## TÍTULO OCTAVO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTÍCULO 51.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobierno, Reglamentación y Mejora Regulatoria, quién recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTÍCULO 52.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente: la procedencia o improcedencia de sus propuestas.
 
 ## TRANSITORIOS
 
@@ -646,3 +688,9 @@ TERCERO.- Los títulos de uso a perpetuidad de los panteones Municipales, expedi
 P.O. 20 DE AGOSTO DE 2014.
 
 Artículo Único. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial
