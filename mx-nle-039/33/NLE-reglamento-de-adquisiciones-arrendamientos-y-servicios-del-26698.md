@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-2669
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-08"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL GOBIERNO MUNICIPAL DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes el 8 de noviembre de 2002.
 
@@ -73,11 +73,13 @@ Lo dispuesto en el párrafo anterior no será aplicable cuando por razón de la 
 
 El gasto para las adquisiciones, arrendamientos y servicios se sujetará, en su caso, a las disposiciones específicas del Presupuesto de Egresos, y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 5.
 
-El Comité de Adquisiciones, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar este ordenamiento para efectos administrativos.
+El Comité de Adquisiciones, en el ámbito de sus respectivas competencias, estará facultado para interpretar este ordenamiento para efectos administrativos.
 
-La Secretaría de la Contraloría dictará las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de este ordenamiento, tomando en cuenta la opinión de la Secretaría de Administración.
+La Contraloría dictará las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de este ordenamiento, tomando en cuenta la opinión de la Secretaría de Administración.
 
 ###### Artículo 6.
 
@@ -95,9 +97,11 @@ El Gobierno Municipal no podrá financiar a proveedores la adquisición o arrend
 
 En los procedimientos de contratación de carácter internacional, el Gobierno Municipal optará, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el País.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 10.
 
-La Secretaría de Administración, mediante disposiciones de carácter general, oyendo la opinión de la Secretaría de la Contraloría, determinará, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo.
+La Secretaría de Administración, mediante disposiciones de carácter general, oyendo la opinión de la Contraloría, determinará, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo
 
 ###### Artículo 11.
 
@@ -147,9 +151,11 @@ Para efectos informativos, la Secretaría de Administración integrará y difund
 
 El Comité de Adquisiciones es un órgano auxiliar del Municipio, de consulta, análisis, opinión y orientación, que tiene por objeto intervenir en el proceso de adquisiciones, arrendamientos y prestación de servicios, a fin de optimizar los recursos que se destinen a las operaciones que regula este Reglamento, coadyuvando a la observancia del mismo.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-Artículo 15 BIS. El Comité de Adquisiciones se integra por:
+###### Artículo 15 Bis.
+
+El Comité de Adquisiciones se integra por:
 
 I. El Síndico Primero, con derecho a voz y voto;
 
@@ -159,27 +165,27 @@ III. Un Regidor de mayoría, con derecho a voz y voto;
 
 IV. Un Regidor de la primera minoría, con derecho a voz y voto;
 
-V. Un Representante de la Secretaría de la Tesorería, con derecho a voz y voto;
+V. Un representante de la Secretaría de la Tesorería, con derecho a voz y voto;
 
-VI. Un Representante de la Secretaría de Administración, con derecho a voz y voto;
+VI. Un representante de la Secretaria de Administración, con derecho a voz y voto;
 
-VII. Un Representante de la Secretaría del Ayuntamiento, con derecho a voz y voto;
+VII. Un representante de la Secretaría del Ayuntamiento, con derecho a voz y voto;
 
-VIII. Tres representantes ciudadanos, con derecho a voz y voto.
+VIII. Tres representantes ciudadanos, con derecho a voz y voto;
 
 IX. Un representante de la dependencia directamente involucrada con la adquisición o arrendamiento del bien o contratación del servicio respectivo, en su caso, con derecho a voz;
 
-X. Un Representante de la Secretaría de la Contraloría, con derecho a voz;
+X. Un representante de la Contraloría, con derecho a voz;
 
 Los Regidores serán designados a propuesta del Presidente Municipal, y aprobados por el Ayuntamiento.
 
-La persona facultada para convocar y presidir las sesiones es el Representante de la Secretaría de la Administración.
+La persona facultada para convocar y presidir las sesiones es el representante de la Secretaría de Administración.
 
-Los representantes ciudadanos ejercerán su función de manera honorífica y su designación será por un período de tres años.
+Los representantes ciudadanos ejercerán su función de manera honorífica y su designación será por un periodo de tres años.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
 
-Artículo 15 BIS I. Para que las sesiones del Comité sean válidas, se requiere que sean citados por escrito o·en forma indubitable todos los miembros del Comité y (sic) se constituya el quórum por lo menos con la mitad más uno de sus integrantes.
+Artículo 15 BIS I. Para que las sesiones del Comité sean válidas, se requiere que sean citados por escrito o en forma indubitable todos los miembros del Comité y (sic) se constituya el quórum por lo menos con la mitad más uno de sus integrantes.
 
 Los acuerdos se tomarán por mayoría de los presentes en sesión, teniendo el representante de la Secretaría de Administración voto de calidad en caso de empate.
 
@@ -237,7 +243,9 @@ I. Revisar los programas y presupuestos de adquisiciones, arrendamientos y servi
 
 II. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 33 de este ordenamiento, salvo en los casos de las fracciones II, V y XII del propio precepto, siempre y cuando el Comité no pueda funcionar, en cuyo caso se deberá informar al propio comité una vez concluida la contratación respectiva. Dicha función también podrá ser ejercida directamente por el titular de la dependencia o entidad;
 
-III. Proponer las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios, así como autorizar los supuestos no previstos en éstos ante la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+III. Proponer las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios, así como autorizar los supuestos no previstos en éstos ante la Contraloría;
 
 IV. Analizar trimestralmente el informe de la conclusión de los casos dictaminados conforme a la fracción II anterior, así como de las licitaciones públicas que se realicen y, los resultados generales de las adquisiciones, arrendamientos y servicios y, en su caso, recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica o administrativa;
 
@@ -731,11 +739,15 @@ III. La gravedad de la infracción, y
 
 IV. Las condiciones del infractor.
 
-La Secretaría de la Contraloría impondrá las sanciones administrativas de que trata este Título, con estado de Nuevo León.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+La Contraloría impondrá las sanciones administrativas de que trata este Título, con base en las disposiciones relativas de la Ley de Justicia Administrativa para el estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 54.
 
-La Secretaría de la Contraloría aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Nuevo León, a los servidores públicos que infrinjan las disposiciones de este ordenamiento.
+La Contraloría aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Nuevo León, a los servidores públicos que infrinjan las disposiciones de este ordenamiento.
 
 ###### Artículo 55.
 
@@ -745,63 +757,53 @@ Las responsabilidades a que se refiere el presente ordenamiento serán independi
 
 No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
 
-### Capítulo VIII. De las inconformidades
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### Capítulo VIII. Del Recurso Único de Inconformidad
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 57.
 
-Las personas interesadas podrán inconformarse ante la Secretaría de la Contraloría por cualquier acto del procedimiento de contratación que contravenga las disposiciones que rigen las materias objeto de este ordenamiento.
+El Procedimiento Administrativo único de recurso de inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
 
-La inconformidad será presentada, a elección del promovente, por escrito o a través de medios remotos de comunicación electrónica que al efecto establezca la Secretaría de la Contraloría, dentro de los cinco días hábiles siguientes a aquél en que ocurra el acto o el inconforme tenga conocimiento de éste.
-
-Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Secretaría de la Contraloría pueda actuar en cualquier tiempo en términos de ley.
-
-Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten a la Secretaría de la Contraloría las irregularidades que a su juicio se hayan cometido en el procedimiento de contratación, a fin de que las mismas se corrijan.
-
-La falta de acreditamiento de la personalidad del promovente será causa de desechamiento.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 58.
 
-En la inconformidad que se presente en los términos a que se refiere este Capítulo, el promovente deberá manifestar, bajo protesta de decir verdad, los hechos que le consten relativos al acto o actos que aduce son irregulares y acompañar la documentación que sustente su petición. La falta de protesta indicada será causa de desechamiento de la inconformidad.
-
-La manifestación de hechos falsos se sancionará conforme a las disposiciones de este ordenamiento y a las demás que resulten aplicables.
-
-Cuando una inconformidad se resuelva como no favorable al promovente por resultar notoriamente improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación; se le impondrá multa conforme a este ordenamiento.
+El recurso de inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ###### Artículo 59.
 
-En las inconformidades que se presenten a través de medios remotos de comunicación electrónica deberán utilizarse medios de identificación electrónica en sustitución de la firma autógrafa.
-
-Dichas inconformidades, la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para efectos de la transmisión expida la Secretaría de la Contraloría, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### Artículo 60.
 
-La Secretaría de la Contraloría podrá de oficio o en atención a las inconformidades a que se refiere el artículo 57 del presente ordenamiento, realizar las investigaciones que resulten pertinentes, a fin de verificar que los actos de cualquier procedimiento de contratación se ajustan a las disposiciones de este ordenamiento, dentro de un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la fecha en que tenga conocimiento del acto irregular. Transcurrido dicho plazo, deberá emitir la resolución correspondiente dentro de los treinta días hábiles siguientes.
-
-La Secretaría de la Contraloría podrá requerir información a las dependencias o entidades correspondientes, quienes deberán remitirla dentro de los diez días naturales siguientes a la recepción del requerimiento respectivo.
-
-Una vez admitida la inconformidad o iniciadas las investigaciones, la Secretaría de la Contraloría deberá hacerlo del conocimiento de terceros que pudieran resultar perjudicados, para que dentro del término a que alude el párrafo anterior manifiesten lo que a su interés convenga. Transcurrido dicho plazo sin que el tercero perjudicado haga manifestación alguna, se tendrá por precluido su derecho.
-
-Durante la investigación de los hechos a que se refiere este artículo, la Secretaría de la Contraloría podrá suspender el procedimiento de contratación, cuando:
-
-I. Se advierta que existan o pudieren existir actos contrarios a las disposiciones de este ordenamiento o a las que de ella deriven, o bien, que de continuarse con el procedimiento de contratación pudiera producirse daños o perjuicios a la dependencia o entidad de que se trate, y
-
-II. Con la suspensión no se cause perjuicio al interés social y no se contravengan disposiciones de orden público. La dependencia o entidad deberá informar dentro de los tres días hábiles siguientes a la notificación de la suspensión, aportando la justificación del caso, si con la misma no se causa perjuicio al interés social o bien, se contravienen disposiciones de orden público, para que la Secretaría de la Contraloría resuelva lo que proceda.
-
-Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar, mediante fianza por el monto que fije la Secretaría de la Contraloría, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### Artículo 61.
 
-La resolución que emita la Secretaría de la Contraloría tendrá por consecuencia:
-
-I. La nulidad del acto o actos irregulares estableciendo, cuando proceda, las directrices necesarias para que el mismo se reponga conforme a este ordenamiento;
-
-II. La nulidad total del procedimiento, o
-
-III. La declaración relativa a lo infundado de la inconformidad.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### Artículo 62.
 
-En contra de la resolución de inconformidad que dicte la Secretaría de la Contraloría, se podrá impugnarla ante las instancias jurisdiccionales competentes.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### Capítulo IX. Del Procedimiento de Revisión y Consulta
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 63.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 64.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ## TRANSITORIOS
 
@@ -844,3 +846,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEÓN".]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
