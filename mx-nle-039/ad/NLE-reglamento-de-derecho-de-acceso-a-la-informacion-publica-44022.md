@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-derecho-de-acceso-a-la-informacion-publica-44022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-04"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Monterrey, el viernes 4 de marzo de 2005.
 
@@ -47,7 +47,7 @@ CONSIDERANDO:
 
 I. Que el presente dictamen busca simplificar el ejercicio del derecho de los ciudadanos para acceder a la información pública adecuándose a la "Ley de Acceso a la Información Pública" vigente en el Estado de Nuevo León, publicada según Decreto 305 en el Periódico Oficial del Estado número 25, de fecha 21 de febrero de 2003.
 
-II. Que el R. Ayuntamiento de Monterrey, dentro de sus atribuciones, conforme a la Constitución Política de los Estados Unidos Mexicanos en sus artículos 21 Y 115, fracción III, la Constitución Política del Estado de Nuevo León, en sus artículos 130, así corno en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, tiene la facultad de expedir disposiciones jurídicas reglamentarias, a fin de brindar al ciudadano condiciones de tranquilidad social, seguridad y certidumbre jurídica.
+II. Que el R. Ayuntamiento de Monterrey, dentro de sus atribuciones, conforme a la Constitución Política de los Estados Unidos Mexicanos en sus artículos 21 Y 115, fracción III, la Constitución Política del Estado de Nuevo León, en sus artículos 130, así como en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, tiene la facultad de expedir disposiciones jurídicas reglamentarias, a fin de brindar al ciudadano condiciones de tranquilidad social, seguridad y certidumbre jurídica.
 
 III. Que toda reforma, modificación o adición, en el caso del Reglamento de Derecho a la Información del Municipio de Monterrey, Nuevo León, debe tener como objetivos fundamentales su simplificación y adecuación con la "Ley de Acceso a la Información Pública", así como garantizar a toda persona el ejercicio del derecho de acceso a la información en posesión de las dependencias y entidades del Gobierno Municipal de Monterrey, sustentándose en los principios democráticos de publicidad de los actos de gobierno; de rendición de cuentas de los servidores públicos, y en el derecho a la información y de petición, garantías consagradas en los artículos 6 y 8 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -59,9 +59,11 @@ REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONT
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de orden público e interés social. Se fundamenta en los artículos 6, 8 Y 115 fracción 11 de la Constitución Política de los Estados Unidos Mexicanos; 8 de la Constitución Política del Estado de Nuevo León; 160, 161, 162, 163, 164 y 165 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León; y 3 de la Ley de Acceso a la Información Pública, del Estado de Nuevo León.
+El presente Reglamento es de orden público e interés social. Se fundamenta en los artículos 6, 8 y 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 8 de la Constitución Política del Estado de Nuevo León; 33, fracción I, inciso s), 104, fracción XXIII, de la Ley de Gobierno Municipal del Estado de Nuevo León; y 3 de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 Este Reglamento se sustenta además en los principios democráticos de publicidad de los actos de gobierno; de rendición de cuentas de los servidores públicos, y de libre acceso a la Información pública.
 
@@ -207,7 +209,7 @@ El Comisionado, de conformidad con el presente Reglamento, dictará las recomend
 
 Los Sujetos Obligados elaborarán semestralmente y por categorías un índice, de los expedientes clasificados como reservados, quienes deberán adoptar su custodia y conservación, lo cual será su responsabilidad.
 
-El Comisionado podrá solicitar los índices de los expedientes que hayan sido determinados corno reservados o restringidos por las dependencias y entidades, pero no podrá hacerlos del dominio público, antes del término del periodo de reserva. Asimismo, podrá tener acceso a la información Reservada o Restringida para verificar si su clasificación o desclasificación ha sido conforme al Reglamento o la Ley, a fin de determinar la procedencia para otorgar su acceso.
+El Comisionado podrá solicitar los índices de los expedientes que hayan sido determinados como reservados o restringidos por las dependencias y entidades, pero no podrá hacerlos del dominio público, antes del término del periodo de reserva. Asimismo, podrá tener acceso a la información Reservada o Restringida para verificar si su clasificación o desclasificación ha sido conforme al Reglamento o la Ley, a fin de determinar la procedencia para otorgar su acceso.
 
 ### CAPÍTULO IV. DE LA PROTECCIÓN DE DATOS PERSONALES
 
@@ -349,11 +351,11 @@ Los solicitantes estarán obligados a pagar por concepto de derechos, los gastos
 
 ### CAPÍTULO VI. DEL COMISIONADO PARA LA TRANSPARENCIA MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 25.
 
-El Comisionado para la Transparencia Municipal es el servidor público dependiente del R. Ayuntamiento responsable de vigilar que el presente Reglamento sea aplicado y observado por los Sujetos Obligados, las Dependencias y Entidades de la
-
-Administración Pública Municipal.
+El Comisionado para la Transparencia Municipal es el servidor público dependiente del Ayuntamiento responsable de vigilar que el presente Reglamento sea aplicado y observado por los Sujetos Obligados, las Dependencias y Entidades de la Administración Pública Municipal.
 
 El comisionado es un mediador entre la Autoridad y los gobernados titulares del Derecho de Acceso a la Información Pública. Su función es facilitar la comunicación eficiente y eficaz entre gobernados y Autoridades para el pleno ejercicio del derecho Constitucional objeto de este Reglamento.
 
@@ -375,11 +377,15 @@ VI. No haber sido dirigente de ningún Partido Político a nivel Nacional, Estat
 
 VII. No ser ministro o dirigente de algún culto o asociación religiosa; y
 
-VIII. Que no se trate del cónyuge, hijos, parientes por consanguinidad en línea recta sin limitación de grado, a los colaterales dentro del cuarto; y los afines dentro del segundo grado, o bien haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre, respecto del Presidente Municipal o los miembros del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+VIII. Que no se trate del cónyuge, hijos, parientes por consanguinidad en línea recta sin limitación de grado, a los colaterales dentro del cuarto; y los afines dentro del segundo grado, o bien haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre, respecto del Presidente Municipal o los miembros del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 26.
 
-Corresponde al R. Ayuntamiento conforme a lo dispuesto en este Reglamento, la elección de quien haya de ocupar el cargo de Comisionado de entre una terna propuesta por el Presidente Municipal. El Comisionado durará en su cargo cuatro años.
+Corresponde al Ayuntamiento conforme a lo dispuesto en este Reglamento, la elección de quien haya de ocupar el cargo de Comisionado de entre una terna propuesta por el Presidente Municipal. El Comisionado durará en su cargo cuatro años.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
@@ -387,13 +393,17 @@ Corresponde al R. Ayuntamiento conforme a lo dispuesto en este Reglamento, la el
 
 Los integrantes de la terna propuesta por el Presidente Municipal comparecerán públicamente ante los integrantes de las Comisiones Unidas de Gobernación, Reglamentación y Mejora Regulatoria y de Derechos Humanos y Asuntos Indígenas, ante quienes expondrán los motivos que los impulsan para ocupar el cargo de Comisionado, y responderán a las preguntas que las comisiones les planteen.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 28.
 
-Las Comisiones Unidas a que se refiere el artículo anterior dictaminarán sobre el resultado de la comparecencia de los propuestos al cargo y someterán al R. Ayuntamiento el resultado de las comparecencias, a fin de que éste determine lo conducente.
+Las Comisiones Unidas a que se refiere el artículo anterior dictaminarán sobre el resultado de la comparecencia de los propuestos al cargo y someterán al Ayuntamiento el resultado de las comparecencias, a fin de que éste determine lo conducente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 29.
 
-El cargo de Comisionado es inamovible y quien lo ocupe sólo podrá ser removido por causa grave que calificará el R. Ayuntamiento, en una audiencia pública en donde el titular Comisionado pueda ser oído y vencido.
+El cargo de Comisionado es inamovible y quien lo ocupe sólo podrá ser removido por causa grave que calificará el Ayuntamiento, en una audiencia pública en donde el titular Comisionado pueda ser oído y vencido.
 
 En caso de falta absoluta del Comisionado se nombrará nuevo Comisionado de acuerdo al procedimiento establecido en los artículos 26, 27 y 28 del presente Reglamento para que el nuevo Comisionado termine el período de quien sustituye.
 
@@ -431,7 +441,9 @@ VIII. Elaborar los formatos de solicitudes de acceso a la información, así com
 
 IX. Establecer los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los Datos Personales, que estén en posesión de las Dependencias y Entidades.
 
-X. Notificar a la Secretaria de la Contraloría Municipal, las infracciones a este Reglamento, así como de las recomendaciones para que las Dependencias o Entidades cumplan con el mismo.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+X. Notificar a la Contraloría Municipal, las infracciones a este Reglamento, así como de las recomendaciones para que las Dependencias o Entidades cumplan con el mismo.
 
 XI. Elaborar el instructivo a fin de promover el acceso a la información pública.
 
@@ -441,9 +453,11 @@ XIII. Promover e impulsar entre la ciudadanía el ejercicio del Derecho a la Inf
 
 XIV. Las demás que le confieran este Reglamento y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 32.
 
-El Comisionado rendirá semestralmente un informe al. R. Ayuntamiento sobre su actuación; el cumplimiento del presente reglamento y el ejercicio del Derecho a la Información Pública. Los Sujetos Obligados deberán de rendir un informe bimestral al Comisionado sobre el cumplimiento del Presente ordenamiento.
+El Comisionado rendirá semestralmente un informe al Ayuntamiento sobre su actuación; el cumplimiento del presente Reglamento y el ejercicio del Derecho a la Información Pública. Los Sujetos Obligados deberán de rendir un informe bimestral al Comisionado sobre el cumplimiento del presente ordenamiento.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2014)</small>
 
@@ -503,79 +517,37 @@ IV. Promocionar los programas de la Dirección de Transparencia, y
 
 V. Fortalecer la cultura de transparencia entre los ciudadanos y servidores públicos.
 
-### CAPÍTULO VII. DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO VII. DEL RECURSO ÚNICO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 34.
 
-El solicitante a quien se le haya notificado, mediante resolución de una Dependencia o Entidad, la negativa de acceso a la información, la inexistencia de los documentos administrativos solicitados o bien, no esté conforme con la clasificación de la información, el costo o la modalidad de entrega, podrá interponer, por si mismo o a través de un representante, el Recurso de Inconformidad ante el Comisionado, dentro de los diez días hábiles contados a partir del día siguiente al de la notificación. El Recurso de Inconformidad deberá resolverse dentro de1os siguientes diez días hábiles al de la fecha de su presentación, señalando si es procedente entregar o negar la información. En este caso, para efectos de las fracciones III y IV del artículo 35 del presente Reglamento, bastará presentar copia de la solicitud en la que conste la fecha de su presentación ante la Dependencia o Entidad.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
 
-Las Autoridades o Sujetos Obligados deberán de rendir al Comisionado, un informe circunstanciado sobre el motivo, causa o razón en que funden su negativa, en un plazo que no deberá exceder de tres días hábiles a aquel en que se les haya notificado la interposición del Recurso de Inconformidad.
-
-En caso de que la Resolución Emitida en el Recurso de Inconformidad confirme la Resolución impugnada, el solicitante podrá recurrir ante la Comisión conforme a la Ley o ante los Tribunales Administrativos de acuerdo a la Ley de Justicia Administrativa y demás leyes aplicables.
-
-El Comisionado encontrando fundado el Recurso de Inconformidad hará las recomendaciones necesarias para que el sujeto o sujetos entreguen la información. En su defecto pondrá los hechos en conocimiento de la Secretaria de la Contraloría Municipal e informará a la Comisión para lo conducente conforme a la Ley y demás disposiciones aplicables.
-
-El Recurso de Inconformidad podrá interponerse también cuando la Autoridad no otorgue respuesta alguna a la solicitud planteada por el solicitante, dentro de los términos establecidos en el presente Reglamento.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 35.
 
-El escrito de interposición del Recurso de Inconformidad deberá contener:
-
-I. La Dependencia o Entidad ante la cual se presentó la solicitud.
-
-II. El nombre del recurrente y del tercero interesado si lo hay, así como el domicilio o medio que señale para recibir notificaciones.
-
-III. La fecha en que se le notificó o tuvo conocimiento del acto reclamado.
-
-IV. La copia de la resolución que se impugna y, en su caso, de la notificación correspondiente.
-
-V. Los demás elementos que considere procedentes someter a juicio del Comisionado.
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa de Nuevo León o el derecho común.
 
 ###### Artículo 36.
 
-El Comisionado deberá, dentro de los cinco días hábiles siguientes a la interposición del Recurso de Inconformidad, radicar e integrar el expediente.
-
-Antes de emitir la Resolución final, el Comisionado podrá determinar la celebración de audiencias con las partes en la que las mismas puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones.
-
-Mediante solicitud del interesado podrán recibirse, por vía electrónica, las promociones y escritos.
-
-Las Resoluciones del Comisionado serán en forma de recomendaciones, no definitivas ni irrevocables y se harán del conocimiento público.
-
-La información Reservada o Restringida que, en su caso, sea solicitada por el Comisionado por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### Artículo 37.
 
-Las Resoluciones del Comisionado podrán:
-
-I. Desechar el Recurso de Inconformidad por improcedente o bien, sobreseerlo.
-
-II. Confirmar la decisión de la Dependencia o Entidad.
-
-III. Recomendar a los Sujetos Obligados que permitan al particular el acceso a la información solicitada o a los Datos Personales; que reclasifique la información o bien, que modifique tales datos.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### Artículo 38.
 
-El Recurso de Inconformidad será desechado por improcedente cuando:
-
-I. Sea presentado, una vez transcurrido el plazo señalado en el artículo 34 del presente ordenamiento.
-
-II. El Comisionado haya conocido ya el recurso respectivo y resuelto en definitiva.
-
-III. Se recurra una Resolución que no haya sido emitida por una Dependencia o Entidad.
-
-IV. Ante los Tribunales jurisdiccionales se esté tramitando algún recurso o medio de defensa interpuesto por el recurrente.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### Artículo 39.
 
-El Recurso de Inconformidad será sobreseerlo cuando:
-
-I. El recurrente expresamente se desista del Recurso de Inconformidad.
-
-II. El recurrente fallezca o, tratándose de personas morales, se disuelva.
-
-III. Durante el procedimiento aparezca o sobrevenga alguna de las causas de improcedencia.
-
-IV. La Dependencia o Entidad cumpla o acuerde cumplir con la petición del recurrente y éste manifieste su conformidad.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### Artículo 40.
 
@@ -599,25 +571,37 @@ III. Multa de 101 a 150 cuotas a la Autoridad o Sujeto Obligado que incumpla una
 
 IV. Multa de 151 a 200 cuotas a la Autoridad o Sujeto Obligado que incumpla una Resolución de un Recurso de Inconformidad.
 
-Sin perjuicio de lo anterior, la Secretaría de la Contraloría Municipal a petición del Comisionado o por denuncia de cualquier ciudadano, impondrá las sanciones que correspondan conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León a los Servidores Públicos que incurran en violación al presente Reglamento u oculten, alteren o destruyan información existente en las Dependencias o Entidades.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+Sin perjuicio de lo anterior, la Contraloría Municipal a petición del Comisionado o por denuncia de cualquier ciudadano, impondrá las sanciones que correspondan conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León a los Servidores Públicos que incurran en violación al presente Reglamento u oculten, alteren o destruyan información existente en las Dependencias o Entidades.
 
 ###### Artículo 42.
 
 El uso de la información proporcionada por la Autoridad Municipal, es responsabilidad exclusiva del solicitante. El mal uso de la misma que pueda ser imputable al particular que la solicitó, se sujetará a la legislación aplicable.
 
-### CAPÍTULO IX. DE LA PARTICIPACIÓN CIUDADANA
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO IX. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 43.
 
-El presente Reglamento puede ser reformado y adicionado. Para que las reformas o adiciones tengan valor deberán ser votadas cuando menos por las dos terceras partes de los miembros del R. Ayuntamiento.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quién recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-En los procesos de reforma y adición deberá considerarse la consulta pública. El R. Ayuntamiento establecerá las reglas y procedimientos para la participación ciudadana.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 43 Bis.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ### CAPÍTULO X. DE LA PREVENCIÓN
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 44.
 
-Lo no previsto en el presente Reglamento, será resuelto de acuerdo a las reglas que dicte el R. Ayuntamiento y en su defecto conforme a lo establecido en la Ley.
+Lo no previsto en el presente Reglamento, será resuelto de acuerdo a las reglas que dicte el Ayuntamiento y en su defecto conforme a lo establecido en la Ley.
 
 ## TRANSITORIOS
 
@@ -674,3 +658,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
