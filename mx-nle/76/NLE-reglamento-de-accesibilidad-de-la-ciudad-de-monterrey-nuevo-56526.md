@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-accesibilidad-de-la-ciudad-de-monterrey-nuevo-565
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-20"
-last_updated: "2007-07-20"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ACCESIBILIDAD DE LA CIUDAD DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE ACCESIBILIDAD DE LA CIUDAD DE MONTERREY, NUEVO LEON
+REGLAMENTO DE ACCESIBILIDAD DE LA CIUDAD DE MONTERREY, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de julio de 2007.
 
@@ -261,7 +261,7 @@ s).- Áreas de trabajo;
 
 t).- Industria;
 
-u).- Edificios públicos estatales y municipales; y (sic)
+u).- Edificios públicos estatales y municipales; y
 
 ###### Artículo 13.
 
@@ -379,23 +379,23 @@ Los símbolos que se utilizarán en la señalización serán los siguientes:
 
 I.- Símbolo de accesibilidad a personas con discapacidad. Una persona sentada sobre silla de ruedas de perfil, estilizada con la cara hacia la derecha.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 II.- Símbolo de accesibilidad a personas con discapacidad visual. Una persona de pie con bastón de perfil, estilizada con la cara hacia la derecha.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 III.- Símbolo internacional de accesibilidad a personas con perro guía. Una persona de pie con perro guía de perfil, estilizada con la cara hacia la derecha, en caso de indicar una dirección utilizando dicho símbolo, éste debe estar con la cara hacia la dirección a indicar (derecha o izquierda).
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 IV.- Símbolo internacional de accesibilidad a personas con discapacidad auditiva, consiste en una oreja estilizada.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 V.- Símbolo de accesibilidad a personas con discapacidad intelectual, consiste en una cabeza con línea punteada.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 #### SECCIÓN IV
 
@@ -1609,6 +1609,38 @@ III.- Deberán estar señalizados dichos asientos.
 
 Este apartado deberá cumplir con el capítulo de circulaciones exteriores de este Reglamento.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO XII. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 203.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 204.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO XIII. DEL RECURSO ÚNICO DE INCONFORMIDAD
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 205.
+
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 206.
+
+El recurso de inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
+
 ## TRANSITORIOS.
 
 ###### ARTÍCULO PRIMERO.
@@ -1640,3 +1672,11 @@ LIC. ADALBERTO ARTURO MADERO QUIROGA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. MARCO HERIBERTO OROZCO RUIZ VELAZCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE ACCESIBILIDAD DE LA CIUDAD DE MONTERREY”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
