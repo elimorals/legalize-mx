@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-dif-del-municipio-de-monterrey-62474"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL DIF DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 7 de julio de 2008.
 
@@ -51,7 +51,9 @@ El presente reglamento tiene como fin regular la organización y el funcionamien
 
 La Dirección General del Desarrollo Integral de la Familia depende directamente del Presidente Municipal, quien también nombrará a la Presidenta de la Dirección, cuyo cargo será honorífico.
 
-La misión de esta dependencia será prestar asistencia social, implementar programas orientados a fortalecer el núcleo familiar y prevenir problemas sociales procurando la participación de la comunidad.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+La Dirección General del Desarrollo Integral de la Familia tiene como misión brindar atención oportuna con personal capacitado, implementando programas orientados a fortalecer el núcleo familiar, así como la prevención de problemas sociales procurando la participación de la comunidad.
 
 ###### Artículo 3.
 
@@ -163,15 +165,35 @@ Contra cualquier acto de la autoridad municipal que viole el presente reglamento
 
 DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 19.
 
-Para la revisión y consulta del presente reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 20.
 
-La Comisión deberá analizar, estudiar y dictaminar sobre las propuestas planteadas en un plazo no mayor de treinta días hábiles. De resultar fundadas las propuestas planteadas, se hará del conocimiento del Republicano Ayuntamiento para su consideración. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO V
+
+DEL RECURSO ÚNICO DE INCONFORMIDAD.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 21.
+
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 22.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ## ARTÍCULOS TRANSITORIOS.
 
@@ -204,3 +226,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL A CUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO INTERIOR DEL DIF”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
