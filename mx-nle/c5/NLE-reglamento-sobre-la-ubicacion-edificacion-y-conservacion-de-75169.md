@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-sobre-la-ubicacion-edificacion-y-conservacion-de-751
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-18"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO SOBRE LA UBICACIÓN, EDIFICACIÓN Y CONSERVACIÓN DE MONUMENTOS Y ESCULTURAS URBANAS EN LA CIUDAD DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 18 de agosto 1997.
 
@@ -159,9 +159,11 @@ La solicitud deberá ser presentada directamente a la Comisión de Educación y 
 
 Para el trámite de la solicitud deberá oírse al Colegio de Arquitectos de Nuevo León, al Instituto Nacional de Antropología e Historia, Delegación Nuevo León; Comisión Estatal de Monumentos; Consejo para la Cultura de N. L., Cronista de la Ciudad, a la Sociedad Nuevoleonesa de Historia, Geografía y Estadística y Críticos de Arte, comisionados por especialidad a sugerencia de Conarte. Dándose un lapso no mayor de 10 días hábiles para recibir por escrito sus observaciones.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 11.
 
-Al resolver el R. Ayuntamiento se turnará a la Sub Dirección de Cultura la autorización de la edificación, ubicación o reubicación de monumento o escultura, quién deberá ordenar se forme el expediente, aplicándole un número y clave e integrándolo al archivo y al inventario del patrimonio inmueble de la Ciudad.
+Al resolver el Ayuntamiento se turnará a la Subdirección de Cultura la autorización de la edificación, ubicación o reubicación de monumento o escultura, la cual deberá ordenar se forme el expediente, aplicándole un número y clave e integrándolo al archivo y al inventario del patrimonio inmueble de la ciudad.
 
 ### Capítulo III
 
@@ -195,7 +197,9 @@ Para la edificación de toda escultura o monumento, deberán tomarse en cuenta l
 
 a).- Visto bueno de las dependencias competentes de la Secretaría de Desarrollo Urbano y Ecología.
 
-b).- Autorización del R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+b).- Autorización del Ayuntamiento.
 
 c).- Utilización de materiales resistentes, de buena apariencia y de fácil mantenimiento y que no se intempericen.
 
@@ -207,9 +211,11 @@ d).- En edificaciones mayores de 60 m2 de construcción o por su complejidad req
 
 Toda escultura o monumento deberá ser recibido por el Ayuntamiento por conducto de las Comisiones de Educación y Cultura, y de Desarrollo Urbano, Obra Públicas y Nomenclatura.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 15.
 
-En la autorización que expida el R. Ayuntamiento, además de la descripción de la obra, relato de los motivos y acontecimientos inherentes, se deberá expresar con claridad el nombre del autor y del donante para que, en su caso, se establezcan los datos más relevantes en la placa de identificación que al efecto se coloque en el monumento o escultura.
+En la autorización que expida el Ayuntamiento, además de la descripción de la obra y el relato de los motivos y acontecimientos inherentes, se deberá expresar con claridad el nombre del autor y del donante para que, en su caso, se establezcan los datos más relevantes en la placa de identificación que al efecto se coloque en el monumento o escultura.
 
 ###### Artículo 16.
 
@@ -223,9 +229,11 @@ Conservación y mantenimiento.
 
 La edificación de monumento o escultura, deberá contener los elementos necesarios para el logro de la mayor posible protección contra inclemencias del tiempo, actos vandálicos y accidentes.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 18.
 
-Una vez recibida la obra por el R. Ayuntamiento, la Administración será responsable de la conservación y mantenimiento si ésta se ubica en parques o en la vía pública.
+Una vez recibida la obra por el Ayuntamiento, la Administración será responsable de la conservación y mantenimiento si ésta se ubica en parques o en la vía pública.
 
 ###### Artículo 19.
 
@@ -247,53 +255,47 @@ Las infracciones a las disposiciones de este reglamento por parte de particulare
 
 Las infracciones cometidas por servidores públicos municipales darán lugar a la aplicación de la sanción pecuniaria señalada en el artículo anterior, independientemente de las sanciones administrativas de suspensión temporal o definitiva de sus cargos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los municipios de Nuevo León.
 
+Artículo 24 (SIC).- (DEROGADO, P.O. 27 DE FEBRERO DE 2016)
+
 ###### Artículo 25.
 
-Los solicitantes y servidores públicos a quienes se les impongan sanciones pecuniarias, tendrán derecho de presentar ante la autoridad administrativa que haya emitido la resolución correspondiente el recurso de revisión. Este recurso se interpondrá por escrito en el cual se expresen con claridad los agravios que se les hubieren causado y ofrezcan las pruebas conducentes. La Sub Dirección de Cultura autoridad receptora lo remitirá a su superior jerárquico, quien dictará el acuerdo que corresponda respecto a la admisión o desechamiento del recurso. En el primer caso fijará fecha para la celebración de una audiencia que será de pruebas, alegatos y resolución.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
+
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 27 DE FEBRERO DE 2016)</small>
 
 ### Capítulo VI
 
-De los recursos.
+Del procedimiento de revisión y consulta.
 
-Artículo 24 (SIC).- Los solicitantes tendrán el derecho de interponer el recurso de revocación en contra de las decisiones que rechacen la solicitud o propuesta de edificación, ubicación o reubicación de monumento o escultura.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-###### ARTÍCULO 26.
+###### Artículo 26.
 
-En los casos en que se considere necesario, la Procuraduría de la Defensa del Menor y la Familia dará vista al Ministerio Público y solicitará que se dicten las medidas precautorias pertinentes para salvaguardar el interés superior del menor.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-(REPUBLICADO [N. DE E. REUBICADO], P.O. 10 DE MARZO DE 2008)
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-###### ARTÍCULO 27.
+###### Artículo 27.
 
-El Director Administrativo es el encargado de vigilar el patrimonio del Sistema, así como su correcto destino y aplicación.
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
 
-### CAPITULO VII. DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
+### Capítulo VII
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+Del recurso único de inconformidad.
 
-###### ARTÍCULO 28.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-Independientemente de lo dispuesto en el artículo 16 fracción VI de la presente Ley, el Director Administrativo será designado y removido por el C. Gobernador Constitucional del Estado, a propuesta del Director General del Sistema Estatal.
+###### Artículo 28.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2008)</small>
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
 
-###### ARTÍCULO 29.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-Son facultades y obligaciones del Director Administrativo:
+###### Artículo 29.
 
-I.- Vigilar la Administración de los recursos financieros y que el funcionamiento del Sistema se realice de acuerdo con esta Ley y las demás que resulten aplicables;
-
-II.- Proponer a la Junta Directiva y al Director General las políticas y procedimientos de contabilidad más adecuados a las necesidades del Sistema;
-
-III.- Recomendar a la Junta Directiva y al Director General del Sistema las medidas que estime convenientes para el mejor uso y destino de los bienes del mismo;
-
-IV.- Asistir a las sesiones del Patronato y Junta Directiva; y
-
-V.- Las demás que le asigne la Ley.
-
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REUBICADO], P.O. 10 DE MARZO DE 2008)</small>
+El recurso de inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, en primer término, o el derecho común, en segundo término.
 
 ## TRANSITORIOS
 
@@ -324,3 +326,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO SOBRE LA UBICACIÓN, EDIFICACIÓN Y CONSERVACIÓN DE MONUMENTOS Y ESCULTURAS URBANAS EN LA CIUDAD DE MONTERREY”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
