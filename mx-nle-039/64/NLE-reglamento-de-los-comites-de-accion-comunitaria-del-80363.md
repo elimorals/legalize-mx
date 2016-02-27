@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-los-comites-de-accion-comunitaria-del-80363"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-18"
-last_updated: "2011-03-18"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA DEL MUNICIPIO DE MONTERREY DEL ESTADO DE NUEVO LEON
+REGLAMENTO DE LOS COMITÉS DE ACCIÓN COMUNITARIA DEL MUNICIPIO DE MONTERREY DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LOS ORGANISMOS DE COLABORACIÓN DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de marzo de 2011.
 
@@ -351,7 +353,7 @@ SEGUNDO: Publíquese el REGLAMENTO DE LOS COMITÉS DE ACCIÓN COMUNITARIA en el 
 
 TERCERO: La Secretaría del Ayuntamiento distribuirá ejemplares del siguiente Reglamento entre la comunidad, con el objeto de informar a los habitantes del Municipio de lo establecido por esta normatividad.
 
-Atentamente Monterrey, Nuevo León, a 08 de marzo de 2011. COMISIÓN DE GOBERNACIÓN Y REGLAMENTACIÓN DEL AYUNTAMIENTO: REGIDORA CLAUDIA GABRIELA CABALLERO CHÁVEZ, Presidente/ REGIDOR LUIS SERVANDO FARÍAS GONZÁLEZ, Secretario/ SÍNDICO SEGUNDO JUAN JOSÉ BUJAIDAR MONSIVÁIS, Vocal/ REGIDOR WlLBUR JARÍM VlLLARREAL BARBARÍN, Vocal/ REGIDORA ISIS AYDEÉ CABRERA ÁLVAREZ, Vocal/ (rúbricas).
+Atentamente Monterrey, Nuevo León, a 08 de marzo de 2011. COMISIÓN DE GOBERNACIÓN Y REGLAMENTACIÓN DEL AYUNTAMIENTO: REGIDORA CLAUDIA GABRIELA CABALLERO CHÁVEZ, Presidente/ REGIDOR LUIS SERVANDO FARÍAS GONZÁLEZ, Secretario/ SÍNDICO SEGUNDO JUAN JOSÉ BUJAIDAR MONSIVÁIS, Vocal/ REGIDOR WILBUR JARÍM VILLARREAL BARBARÍN, Vocal/ REGIDORA ISIS AYDEÉ CABRERA ÁLVAREZ, Vocal/ (rúbricas).
 
 Dado en la Sala de Sesiones del Ayuntamiento, a los 10-diez días del mes de marzo de 2011-dos mil once.- Doy fe.
 
@@ -362,3 +364,13 @@ PRESIDENTE MUNICIPAL
 C. JUAN CARLOS RUIZ GARCÍA
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS POR LOS QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO PARA LOS ORGANISMOS DE COLABORACIÓN DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]</small>
+
+PRIMERO. El presente reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de los Comités de Acción Comunitaria, publicado en el Periódico Oficial del Estado en fecha 18 de marzo de 2011, y las demás disposiciones que contravengan el presente reglamento.
