@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2014-11-29"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -45,9 +45,13 @@ Se expide la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, para
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 1.
 
-La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo encargada de las áreas de Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas y Ofendidos del Delito; y, Ejecución de Penas y Medidas Judiciales.
+La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo encargada de las áreas de Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; y Ejecución de Penas y Medidas Judiciales.
 
 ###### Artículo 2.
 
@@ -117,15 +121,27 @@ XII. Aplicar los mecanismos legales para el Ingreso, Promoción, Permanencia, Re
 
 El Fiscal General intervendrá por sí o por conducto de las Fiscalías Especializadas, o de los Agentes del Ministerio Público, en el ejercicio de las atribuciones a que se refiere este apartado, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo local o el propio Fiscal General. El Reglamento prevendrá la distribución de los asuntos entre las Unidades Técnicas y Administrativas de la Dependencia.
 
-C.- En materia de Atención a Víctimas y Ofendidos del Delito:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-I. A través de programas específicos, otorgar atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público, privado y social;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-II. Proporcionar orientación y asesoría jurídica a las víctimas u ofendidos por delitos, y vigilar que se garantice o se cubra la reparación del daño, de conformidad con las disposiciones legales aplicables;
+C.- En materia de Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos: Las previstas para las entidades federativas en la Ley General de Víctimas, así como las que le correspondan directamente o por conducto de su órgano desconcentrado Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua, de conformidad con la Ley estatal en la materia.
 
-III. Canalizar a las víctimas u ofendidos por delitos, a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV. Las demás que le confieran la presente Ley y otros ordenamientos legales.
+I. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+II. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+III. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+IV. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
 
 D.- En materia de Ejecución de Penas y Medidas Judiciales:
 
@@ -153,7 +169,9 @@ II. Las Fiscalías Especializadas en Investigación y Persecución del Delito;
 
 III. La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género;
 
-IV. La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+IV. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
 
 V. La Fiscalía Especializada en Control, Análisis y Evaluación;
 
@@ -166,6 +184,12 @@ VII. Los agentes del Ministerio Público.
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2012)</small>
 
 El Fiscal General del Estado y los Fiscales Especializados en la Investigación y Persecución del Delito; en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación, y en la Ejecución de Penas y Medidas Judiciales, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+Para cumplir con las obligaciones dispuestas en la Ley General de Víctimas, así como en la legislación estatal en la materia, la Fiscalía General del Estado cuenta con la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua, como órgano desconcentrado con autonomía técnica y de gestión.
 
 ###### Artículo 4.
 
@@ -279,13 +303,11 @@ C. La canalización a víctimas u ofendidos, en los casos de los apartados anter
 
 Este órgano estará a cargo de un Fiscal Especializado, quien contará con el apoyo de cuatro Coordinaciones Regionales de Ministerio Público y Policía Ministerial de Investigación del Delito, de las unidades administrativas necesarias y demás personal que requiera para el cumplimiento de sus funciones. En todo caso, el personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
 ###### Artículo 9.
 
-La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito contará con cuatro coordinaciones regionales y las casas de atención a víctimas y ofendidos del delito que se establezcan, y ejercerá las atribuciones señaladas en el apartado C del artículo 2 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2014)</small>
-
-La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito establecerá albergues, refugios y casas de medio camino especializados para las víctimas, ofendidos y testigos, en los términos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, donde se garantice un alojamiento digno por el tiempo necesario, asistencia material, médica, psiquiátrica, psicológica, social, alimentación y cuidados atendiendo a sus necesidades y a su evolución.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### Artículo 10.
 
@@ -383,7 +405,11 @@ Para ser Fiscal General del Estado se requiere cumplir con los requisitos que es
 
 Los Fiscales Especializados serán designados por el Fiscal General del Estado. El Gobernador les extenderá su nombramiento, pudiendo removerlos libremente.
 
-Los Fiscales Especializados deberán cumplir con los mismos requisitos que la Constitución del Estado exige para ser Fiscal General. Tratándose de las Fiscalías Especializadas en Seguridad Pública y Prevención del Delito y en Atención a Víctimas y Ofendidos del Delito, podrán tener Licenciatura distinta a la de Derecho.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+Los Fiscales Especializados deberán cumplir con los mismos requisitos que la Constitución del Estado exige para ser Fiscal General. Tratándose de la Fiscalía Especializada en Seguridad Pública y Prevención del Delito, podrá tener Licenciatura distinta a la de Derecho. En el caso del Coordinador Ejecutivo de la Comisión Ejecutiva de Atención a Víctimas del Estado, este deberá contar con Licenciatura en Derecho, en Psicología, en Trabajo Social o cualquier otra afín a la naturaleza del cargo.
 
 ###### Artículo 20.
 
@@ -654,3 +680,27 @@ SEGUNDO.- Derogación tácita de preceptos incompatibles.
 Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
 
 TERCERO.- Cuando en cualquier disposición legal se haga referencia al Código de Procedimientos Penales del Estado de Chihuahua, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 915/2015 II P.O. LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al mismo tiempo que lo haga el Código Nacional de Procedimientos Penales en todo el territorio del Estado, según la declaratoria de inicio de vigencia contenida en el Decreto No. 852/2015 VII P.E., es decir, a partir de las cero horas del día 13 de junio de 2016, después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el lapso que transcurra entre la publicación y la entrada en vigor del presente Decreto, la Secretaría de Hacienda y la Fiscalía General del Estado deberán tomar las medidas que sean necesarias para que el personal administrativo, así como el especializado a que se refiere el artículo 15 de la Ley de Atención y Protección a Víctimas u Ofendidos del Delito del Estado, de 2006, además de todos los recursos económicos, técnicos y materiales y demás activos con los que actualmente cuenta la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, pasen a formar parte íntegra del órgano desconcentrado Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, será continuado ante las áreas correspondientes de la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua.
