@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2013-03-20"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "CHH"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -1704,3 +1706,17 @@ P.O. 8 DE DICIEMBRE DE 2012.
 P.O. 20 DE MARZO DE 2013.
 
 ÚNICO.- Las presentes reformas al Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. DE 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. 033 DEL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE CHIHUAHUA, POR EL QUE SE ORDENA LA PUBLICACIÓN DEL ACUERDO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE JUÁREZ, CHIH., MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA.”]
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO.- Queda abrogado el Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, aprobado por el Honorable Ayuntamiento en Sesión número 11, de fecha 23 de diciembre del año 2004 y publicado en el Periódico Oficial del Estado de Chihuahua, número 12 de fecha 09 de febrero del año 2005
+
+TERCERO.- Queda sin efectos el organigrama aprobado en Sesión del Honorable Ayuntamiento número 10, de fecha 6 de diciembre del año 2013, realizándose las modificaciones necesarias para que la Administración opere con la estructura que se contiene en el presente Reglamento.
+
+CUARTO.- En tanto se modifican, adaptan y aprueban los ordenamientos municipales aplicables, el Secretario de Seguridad Pública Municipal, así como los Jefes de Distrito y el Director de Tránsito, ejercerán las atribuciones que las leyes y los reglamentos de la materia le confieren.
+
+QUINTO.- El Ayuntamiento, dentro de los límites del presupuesto autorizado para el ejercicio fiscal de 2016, autorizará las modificaciones necesarias para que la Administración opere con la estructura que se contiene en el presente Reglamento.
