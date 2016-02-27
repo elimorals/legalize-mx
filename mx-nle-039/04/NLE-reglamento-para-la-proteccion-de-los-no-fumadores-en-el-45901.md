@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-45901"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-15"
-last_updated: "2005-08-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA PROTECCION DE LOS NO FUMADORES EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO PARA LA PROTECCION DE LOS NO FUMADORES EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
+REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de agosto de 2005.
 
@@ -49,9 +49,11 @@ REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL MUNICIPIO DE MONTERREY,
 
 ### Capítulo I. De los objetos y sujetos
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de orden público e interés general y se expide con fundamento en lo dispuesto en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado de Nuevo León, 160, 161 y 162 de la Ley Orgánica de la Administración Pública Municipal y en la Ley de Protección de los No Fumadores del Estado de Nuevo León.
+El presente Reglamento es de orden público e interés general y se expide con fundamento en lo dispuesto en los artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado Libre y Soberano de Nuevo León, 227 y 228 de la Ley de Gobierno Municipal para el Estado de Nuevo León y en la Ley de Protección de los No Fumadores del Estado de Nuevo León.
 
 ###### ARTÍCULO 2.
 
@@ -277,35 +279,49 @@ Las notificaciones se harán en días y horas hábiles, conforme a lo dispuesto 
 
 En lo no previsto en el presente Capítulo, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Nuevo León.
 
-### Capítulo VIII. Del recurso de inconformidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### Capítulo VIII. Del recurso único de inconformidad
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 32.
 
-El recurso de inconformidad tiene por objeto que el Director de Salud Pública Municipal revoque o modifique las resoluciones administrativas que se reclaman, sin perjuicio de los de otros recursos legales que determinen las leyes.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 33.
 
-La inconformidad deberá presentarse por escrito ante el Director de Salud Pública Municipal, dentro de los diez días hábiles siguientes a partir de la notificación del acto que se reclama y se suspenderán los efectos de la resolución, cuando éstos no se hayan consumado, siempre que no se altere el orden público o el interés social.
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ###### ARTÍCULO 34.
 
-En el escrito de inconformidad se expresarán: nombre, domicilio de quien promueve, los agravios que se considere que le causan, la resolución que motiva el recurso y la autoridad que hayan dictado el acto reclamado. En el mismo escrito deberán ofrecerse las pruebas y alegatos, especificando los puntos sobre los que deban versar, mismos que en ningún caso serán extraños a la cuestión debatida.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### ARTÍCULO 35.
 
-Admitido el recurso interpuesto se señalará el día y hora para la celebración de una audiencia en la que se oirá en defensa al interesado, y se desahogarán las pruebas ofrecidas, levantándose al término de las mismas, acta suscrita por los que en ella hayan intervenido.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ###### ARTÍCULO 36.
 
-El Director de Salud Pública Municipal dictará y notificará la resolución que corresponda, debidamente fundada y motivada, en un plazo de tres días hábiles, misma que deberá notificar al interesado personalmente en los términos del Código de Procedimientos Civiles para el Estado de Nuevo León. Si transcurrido el plazo no se ha notificado la resolución que corresponda, se entenderá que el recurso ha sido resuelto en sentido favorable al recurrente.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
-### Capítulo IX. De la Participación Ciudadana
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### Capítulo IX. Del Procedimiento de Revisión y Consulta
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 37.
 
-El presente Reglamento puede ser reformado y adicionado. Para que las reformas o adiciones tengan valor deberán ser votadas cuando menos por las dos terceras partes de los miembros del R. Ayuntamiento.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-En los procesos de reforma y adición deberá considerarse la consulta pública. El R. Ayuntamiento establecerá las reglas y procedimientos para la participación ciudadana.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTÍCULO 38.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -338,3 +354,11 @@ EL SECRETARIO DEL R. AYUNTAMIENTO
 C. EDGAR RODOLFO OLAIZ ORTIZ
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN".]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
