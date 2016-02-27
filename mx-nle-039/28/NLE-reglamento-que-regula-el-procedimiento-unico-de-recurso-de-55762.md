@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-el-procedimiento-unico-de-recurso-de-5576
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-21"
-last_updated: "2007-05-21"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO QUE REGULA EL PROCEDIMIENTO UNICO DE RECURSO DE INCONFORMIDAD EN EL MUNICIPIO DE MONTERREY
 
-REGLAMENTO QUE REGULA EL PROCEDIMIENTO UNICO DE RECURSO DE INCONFORMIDAD EN EL MUNICIPIO DE MONTERREY
+REGLAMENTO QUE REGULA EL PROCEDIMIENTO ÚNICO DE RECURSO DE INCONFORMIDAD EN EL MUNICIPIO DE MONTERREY
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 21 de mayo de 2007.
 
@@ -57,7 +57,9 @@ El recurso deberá formularse por escrito, y deberá cumplir con los siguientes 
 
 I. El nombre del promovente o, en su caso, de quien promueva en su nombre;
 
-II. Señalar domicilio para recibir notificaciones dentro del Municipio de Monterrey, y en su caso, a quien en su nombre las pueda oír y recibir;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+II. Señalar domicilio para recibir notificaciones dentro del municipio de Monterrey y, en su caso, quien en su nombre las pueda oír o recibir; así mismo, si no tuviere domicilio dentro del municipio de Monterrey, señalará correo electrónico para recibir notificaciones;
 
 III. Acompañar el o los documentos que sean necesarios para acreditar la personería del promovente;
 
@@ -76,6 +78,10 @@ IX. Las normas jurídicas que el quejoso estime que fueron violadas u omitidas, 
 X. Ofrecer y aportar las pruebas dentro del plazo previsto para la presentación del recurso, así como las que deban requerirse cuando el promovente justifique que oportunamente las solicitó por escrito a la autoridad competente y éstas no le hubieren sido entregadas; mencionando qué pretende demostrar con cada una de ellas; y
 
 XI. La firma autógrafa del promovente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2016)</small>
+
+XII. Señalar si está de acuerdo o no, a que se publiquen datos personales a través de internet o medios electrónicos respecto a las resoluciones que se ventilen ante la autoridad. Por lo que la Dirección Jurídica substanciará la información de datos personales conforme a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 Cuando se omitan estos requisitos, a excepción de lo dispuesto en las fracciones VIII y XI, se requerirá mediante notificación personal al recurrente para que los proporcione en un plazo de tres días hábiles, apercibiéndolo de que de no hacerlo, se tendrá por no presentado el recurso. Cuando no obstante el apercibimiento omitiere ofrecer o acompañar pruebas, solamente se le tendrá por perdido el derecho de ofrecerlas.
 
@@ -113,7 +119,9 @@ V. Los acuerdos o resoluciones que pongan fin al recurso de inconformidad, o que
 
 VI. Se notificará con acuse de recibo a las autoridades, los acuerdos que resuelven sobre la suspensión del procedimiento administrativo de ejecución.
 
-Si el recurrente o tercero perjudicado no señalan domicilio dentro del Municipio de Monterrey, las notificaciones se efectuarán por lista de acuerdos que se fijará en la Dirección Jurídica de la Secretaría del Republicano Ayuntamiento del Municipio de Monterrey.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+Si el recurrente o tercero perjudicado no señala domicilio dentro del municipio de Monterrey, las notificaciones se harán mediante correo electrónico.
 
 Todas las notificaciones de carácter personal se harán dentro de las veinticuatro horas siguientes a la emisión del acuerdo respectivo.
 
@@ -353,6 +361,22 @@ En ningún caso las autoridades podrán dispensar el otorgamiento de la garantí
 
 En caso de negativa o de violación a la suspensión, los interesados podrán recurrir en queja ante el Secretario del Ayuntamiento, acompañando los documentos en que conste el recurso de inconformidad y el ofrecimiento u otorgamiento de la garantía correspondiente. El Secretario del Ayuntamiento aplicará las reglas indicadas en artículos precedentes para resolver lo que corresponda a la suspensión.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO IX. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 37.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 38.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -378,3 +402,11 @@ LIC. ADALBERTO ARTURO MADERO QUIROGA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. MARCO HERIBERTO OROZCO RUIZ VELAZCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO QUE REGULA EL PROCEDIMIENTO ÚNICO DEL RECURSO DE INCONFORMIDAD EN EL MUNICIPIO DE MONTERREY".]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
