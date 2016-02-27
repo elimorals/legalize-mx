@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-gobierno-municipal-de-monterrey-71253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016 (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -1910,3 +1912,215 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY”.]
+
+PRIMERO. El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Orgánico de la Administración Pública del Municipio de Monterrey aprobado el 24 de noviembre del 2009 y publicado en el Periódico Oficial del Estado núm. 160, el 30 de Noviembre del 2009, así como sus reformas.
+
+TERCERO. Para la debida consecución de sus actos y trámites que llevaban a cabo las dependencias o unidades administrativas a que se refiere el Reglamento abrogado y que aparecen en el siguiente cuadro en la columna de la izquierda titulada DENOMINACIÓN EN EL REGLAMENTO ABROGRADO (SIC), sus funciones serán llevadas a cabo por las dependencias o unidades administrativas que en la misma fila aparecen en la columna de la derecha titulada DENOMINACIÓN EN EL PRESENTE REGLAMENTO, de la manera siguiente:
+
+DENOMINACIÓN EN EL DENOMINACIÓN EN EL PRESENTE
+
+REGLAMENTO ABROGADO REGLAMENTO
+
+SECRETARÍA DE LA CONTRALORÍA CONTRALORÍA MUNICIPAL
+
+SECRETARÍA DE PLANEACIÓN Y OFICINA EJECUTIVA DEL
+
+COMUNICACIÓN PRESIDENTE MUNICIPAL
+
+SECRETARÍA DE DESARROLLO SECRETARÍA DE DESARROLLO
+
+HUMANO Y SOCIAL SOCIAL
+
+Dirección de Atención Ciudadana de Dirección de Atención Ciudadana de
+
+la Secretaría de Planeación y la Secretaría del Ayuntamiento
+
+Comunicación
+
+Dirección de Auditoría de la Secretaría Dirección de Auditoría de la
+
+de la Contraloría Contraloría Municipal
+
+Dirección de Normatividad de la Dirección de Régimen Interno de la
+
+Secretaría de la Contraloría Contraloría Municipal
+
+Dirección de Transparencia de la Dirección de Transparencia de la
+
+Secretaría de la Contraloría Contraloría Municipal
+
+DENOMINACIÓN EN EL DENOMINACIÓN EN EL PRESENTE
+
+REGLAMENTO ABROGADO REGLAMENTO
+
+Dirección de Planeación de la Dirección de Planeación de la
+
+Secretaría de Planeación y Contraloría Municipal
+
+Comunicación
+
+Coordinación General de Inspección Dirección General de Inspección de la
+
+de la Secretaría de Seguridad Pública Secretaría de Seguridad Pública y
+
+y Vialidad Vialidad
+
+Centro de Comando, Control, Dirección de Comando, Control,
+
+Comunicaciones y Cómputo de la Comunicaciones y Cómputo de la
+
+Secretaría de Seguridad Pública y Secretaría de Seguridad Pública y
+
+Vialidad Vialidad
+
+Rectoría de la Academia y Centro de Dirección de la Academia y Centro de
+
+Capacitación Continua de la Capacitación Continua de la
+
+Secretaría de Seguridad Pública y Secretaría de Seguridad Pública y
+
+Vialidad Vialidad
+
+Dirección de Reclusorios y Prevención Dirección de Prevención Social del
+
+Social del Delito de la Secretaría de Delito de la Secretaría de Seguridad
+
+Seguridad Pública y Vialidad Pública y Vialidad
+
+Dirección de Tecnología, Análisis y Dirección de Análisis, Información y
+
+Proyectos de la Secretaría de Tecnología de la Secretaría de
+
+Seguridad Pública y Vialidad Seguridad Pública y Vialidad
+
+Dirección de Comunicación Social Dirección de Comunicación Social de la
+
+de la Secretaría de Planeación y Oficina Ejecutiva del Presidente
+
+Comunicación Municipal
+
+DENOMINACIÓN EN EL DENOMINACIÓN EN EL PRESENTE
+
+REGLAMENTO ABROGADO REGLAMENTO
+
+Dirección de Relaciones Públicas Dirección de Relaciones Públicas de
+
+de la Secretaría de Planeación y la Oficina Ejecutiva del Presidente
+
+Comunicación Municipal
+
+Dirección de Recreación y Eventos Dirección de Eventos y Logística de la
+
+de la Secretaría de Desarrollo Oficina Ejecutiva del Presidente
+
+Humano y Social Municipal
+
+Dirección de Servicios Públicos Dirección de Servicios Médicos de la
+
+Municipales de la Secretaría de Secretaría de Administración
+
+Administración
+
+Dirección de Mantenimiento de la Dirección de Mantenimiento y
+
+Secretaría de Administración Equipamiento de Edificios de la
+
+Secretaría de Administración
+
+Dirección Técnica de la Secretaría Dirección de Servicios Técnicos de la
+
+de Servicios Públicos Secretaría de Servicios Públicos
+
+Dirección de Promoción y Gestión Dirección de Promoción y Fomento de
+
+Social de la Secretaría de Obras Obras de la Secretaría de Obras
+
+Públicas Públicas
+
+Dirección de Planeación y Dirección de Planeación de Obras y
+
+Contratación de la Secretaría de Contratación de la Secretaría de
+
+Obras Públicas Obras Públicas
+
+Dirección de Proyectos de la Dirección de Proyectos de Obras
+
+Secretaría de Obras Públicas Públicas de la Secretaría de Obras
+
+Públicas
+
+DENOMINACIÓN EN EL DENOMINACIÓN EN EL PRESENTE
+
+REGLAMENTO ABROGADO REGLAMENTO
+
+Dirección de Construcción y Control Dirección de Control de Obra de la
+
+de Obra de la Secretaría de Obras Secretaría de Obras Públicas
+
+Públicas
+
+Dirección Técnica de Desarrollo Dirección Proyectos Técnicos de
+
+Urbano de la Secretaría de Desarrollo Urbano de la Secretaría de
+
+Desarrollo Urbano y Ecología Desarrollo Urbano y Ecología
+
+Dirección de Acción Comunitaria de Dirección de Atención y Vinculación
+
+la Secretaria de Desarrollo Humano Comunitaria de la Secretaría de
+
+y Social Desarrollo Social
+
+Dirección de Administración de la Dirección Administrativa de la
+
+Secretaría de Desarrollo Humano y Secretaría de Desarrollo Social
+
+Desarrollo Social
+
+Dirección de Cultura y Expresión Dirección de Cultura de la Secretaría
+
+Artística de la Secretaría de de Desarrollo Social
+
+Desarrollo Humano y Social
+
+Dirección de Cultura Física y Deporte Dirección de Cultura Física y Deporte
+
+de la Secretaría de Desarrollo de la Secretaría de Desarrollo Social
+
+Humano y Social
+
+Dirección de Educación Dirección de Educación de la
+
+Secretaría de Desarrollo Humano Secretaría de Desarrollo Social
+
+y Social
+
+Dirección de Parques Públicos de Dirección de Parques Públicos de la
+
+Secretaría de Desarrollo Humano y Secretaría de Desarrollo Social
+
+Social
+
+DENOMINACIÓN EN EL DENOMINACIÓN EN EL PRESENTE'
+
+REGLAMENTO ABROGADO REGLAMENTO
+
+Dirección de Salud Pública de la Dirección de Salud Pública de la
+
+Secretaría de Desarrollo Humano y Secretaría de Desarrollo Social
+
+Social
+
+Dirección de Desarrollo Social de la Dirección General de Desarrollo
+
+Secretaría de Desarrollo Humano y Social de la Secretaría de Desarrollo
+
+Social Social
+
+CUARTO. Los trámites administrativos iniciados antes de la publicación del presente Reglamento se regirán según las disposiciones vigentes al momento de emitirse el acto de autoridad impugnado.
