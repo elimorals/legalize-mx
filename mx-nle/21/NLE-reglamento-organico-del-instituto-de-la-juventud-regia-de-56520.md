@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-instituto-de-la-juventud-regia-de-56520
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-01"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DEL INSTITUTO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de agosto de 2007.
 
@@ -161,9 +161,13 @@ I.- El Presidente Municipal, quien presidirá las sesiones;
 
 II.- El Director General del Instituto, quien fungirá como secretario general;
 
-III.- El Secretario del Republicano Ayuntamiento;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
 
-IV.- El Secretario de Desarrollo Humano;
+III. El Secretario del Ayuntamiento;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE FEBRERO DE 2016)</small>
+
+IV. El Secretario de Desarrollo Humano;
 
 V.- El Tesorero Municipal;
 
@@ -235,9 +239,13 @@ II.- Un Secretario General, que será el Director General del Instituto;
 
 III.- Cuantos consejeros sean necesarios para su correcto funcionamiento, pero entre los cuales no podrán faltar los siguientes:
 
-a) El Presidente de la Comisión de Juventud del R. Ayuntamiento de Monterrey, cuyo cargo será permanente y exoficio;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-b) El Regidor o Síndico integrante de la Comisión de Juventud del R. Ayuntamiento de Monterrey que sea designado por acuerdo de ésta, cuyo cargo será permanente;
+a) El Presidente de la Comisión de Juventud del Ayuntamiento de Monterrey, cuyo cargo será permanente y exoficio;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+b) El Regidor o Síndico integrante de la Comisión de Juventud del Ayuntamiento de Monterrey que sea designado por acuerdo de ésta, cuyo cargo será permanente;
 
 c) Tres representantes de universidades o instituciones de educación superior en el Municipio, públicas o privadas, designados por la Junta de Gobierno;
 
@@ -245,7 +253,9 @@ d) Tres jóvenes líderes fundadores de Asociaciones Civiles, quienes serán des
 
 e) Un joven destacado en cada una de las siguientes áreas: desarrollo comunitario, fomento empresarial, deportes, y artes o cultura, quienes serán designados discrecionalmente por la Junta de Gobierno;
 
-f) Un joven involucrado en el desarrollo integral de la juventud, quien será designado por acuerdo de la Comisión de Juventud del R. Ayuntamiento de Monterrey; y,
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+f) Un joven involucrado en el desarrollo integral de la juventud, quien será designado por acuerdo de la Comisión de Juventud del Ayuntamiento de Monterrey; y,
 
 g) Los demás miembros que estime necesario la Junta de Gobierno.
 
@@ -423,27 +433,41 @@ El Instituto estará sujeto a las normas de contabilidad, presupuesto, hacendari
 
 Las relaciones laborales del Instituto para con el personal que tenga carácter de servidor público, se regularán conforme a la Ley del Servicio Civil del Estado de Nuevo León, el manual de recursos humanos que expida la Junta de Gobierno y las demás disposiciones jurídicas aplicables.
 
-### Capítulo IV. Del procedimiento de revisión y consulta
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+### Capítulo IV. Del recurso único de inconformidad
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 36.
 
-Contra los actos definitivos emitidos por los titulares de los órganos del Instituto, procederá el Recurso de Inconformidad, para lo cual se estará a lo dispuesto en el Reglamento que Regula el Procedimiento Único de Recurso de Inconformidad en el Municipio de Monterrey, Nuevo León.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 36 Bis.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### Capítulo V. Del procedimiento de revisión y consulta
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 37.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 38.
 
-La Comisión de Gobernación, Reglamentación y Mejora Regulatoria al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ###### Artículo 39.
 
-La Comisión ante la cual se presentaron las propuestas, deberá informar al promovente la procedencia o improcedencia de las mismas.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ## Artículos Transitorios
 
@@ -498,3 +522,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO ORGÁNICO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
