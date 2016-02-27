@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-taurinos-para-el-municipio-de-11032"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-10"
-last_updated: "1997-10-10"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ESPECTACULOS TAURINOS PARA EL MUNICIPIO DE MONTERREY, DE NUEVO LEON
 
-REGLAMENTO DE ESPECTACULOS TAURINOS PARA EL MUNICIPIO DE MONTERREY, NUEVO LEON
+REGLAMENTO DE ESPECTÁCULOS TAURINOS PARA EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 10 de octubre de 1997.
 
@@ -833,7 +833,39 @@ Si la infracción cometida al Reglamento constituye, además algún delito previ
 
 ###### ARTICULO 113.
 
-Las sanciones que se impongan por el Juez de Plaza podrán ser recurridas dentro del término de 15 (QUINCE) días a través del recurso de inconformidad ante el C. Presidente Municipal, conforme al Reglamento de la Administración Pública Municipal de la Ciudad de Monterrey. En todo lo no previsto, se estará a lo dispuesto por los ordenamientos de Policía y Buen Gobierno.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO XVI. Del Procedimiento de Revisión y Consulta
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTICULO 114.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTICULO 115.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO XVII. Del Recurso Único de Inconformidad
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTICULO 116.
+
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### ARTICULO 117.
+
+El recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ## TRANSITORIOS
 
@@ -854,3 +886,11 @@ PRESIDENTE MUNICIPAL
 ABOG. CARLOS FRANCISCO CISNEROS RAMOS
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE ESPECTÁCULOS TAURINOS PARA EL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
