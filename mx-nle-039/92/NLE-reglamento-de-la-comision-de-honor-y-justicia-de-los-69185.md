@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-de-honor-y-justicia-de-los-69185"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-20"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de febrero de 2009.
 
@@ -63,7 +63,9 @@ Para los efectos del presente Reglamento se entenderá por:
 
 I. Comisión: La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Vialidad del Municipio de Monterrey,
 
-II. Contraloría: Secretaría de la Contraloría Municipal de Monterrey;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+II. Contraloría: La Contraloría Municipal de Monterrey;
 
 III. Delegado: Funcionario Público designado por la Comisión de Honor y Justicia con las atribuciones establecidas en el presente Reglamento;
 
@@ -85,7 +87,7 @@ Para lo no previsto en este Reglamento, así como para lo no previsto en la subs
 
 ### CAPITULO II. DE LA INTEGRACIÓN DE LA COMISIÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE MONTERREY, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2013, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE MONTERREY, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2013, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
 ###### ARTÍCULO 5.
 
@@ -93,7 +95,9 @@ La Comisión estará integrada por:
 
 I. Presidente.- Será el Director de Normatividad de la Contraloría.
 
-II. Secretario.- Será el Director Jurídico de la Secretaría del R. Ayuntamiento de Monterrey.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+II. Secretario.- Será el Director Jurídico de la Secretaría del Ayuntamiento de Monterrey;
 
 III. Vocal.- Será un Regidor de la fracción mayoritaria.
 
@@ -175,7 +179,9 @@ II.- Por faltas graves a la ética o a la legalidad en el ejercicio de sus funci
 
 III.- Por no asistir en forma consecutiva a más de tres sesiones de la Comisión, sin causa justificada; y
 
-IV.- Por causas que se estimen graves a juicio del R. Ayuntamiento de Monterrey.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+IV.- Por causas que se estimen graves a juicio del Ayuntamiento de Monterrey.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -435,41 +441,39 @@ IV. Inhabilitación: Que consiste en el impedimento para desempeñar cualquier c
 
 La suspensión cautelar subsistirá hasta que el asunto de que se trate quede definitivamente resuelto en la instancia final del procedimiento correspondiente, de conformidad con lo establecido en la Ley de Responsabilidades o Ley de Seguridad. En caso de que el elemento resulte declarado sin responsabilidad, se le pagaran los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, por motivo de la suspensión cautelar, y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
 
-### CAPITULO VII. DE LOS RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO VII. DEL RECURSO ÚNICO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 27.
 
-Las resoluciones absolutorias que dicte la Comisión, podrán ser impugnadas en los términos del presente Reglamento, por el quejoso o denunciante.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 28.
 
-Si la resolución impone sanciones administrativas el servidor público sancionado podrá interponer recurso de revocación ante la autoridad que hubiese emitido la resolución, o acudir ante el Tribunal de Justicia Administrativa correspondiente.
+El recurso de inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, en primer término, o el derecho común, en segundo término.
 
-El Recurso de Revocación se tramitará de la siguiente forma:
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 27 DE FEBRERO DE 2016)</small>
 
-I. Se interpondrá dentro de los 3-tres días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida, mediante escrito en el que se expresarán los agravios; y,
+### CAPÍTULO VIII. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
-II. La autoridad acordará sobre la admisibilidad del recurso y citará a una audiencia que tendrá verificativo dentro de los 10-diez días hábiles siguientes, en la cual el servidor público podrá alegar lo que a su derecho convenga. En un plazo igual, la autoridad resolverá el recurso.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
-
-### CAPITULO VIII. REVISIÓN Y CONSULTA
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 29.
 
-Al interponer el recurso se podrá solicitar la suspensión de la ejecución de la resolución, la cual se decretará conforme a las siguientes reglas:
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-I. Que la ejecución de la resolución recurrida produzca daños o perjuicios de imposible reparación en contra del recurrente; y,
-
-II. Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicio al interés social o al servicio público.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 30.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. EL 27 DE FEBRERO DE 2016, SE ADVIERTE QUE EL PRESENTE ARTÍCULO 31 FORMA PARTE DEL ACTUAL ARTÍCULO 30.]</small>
 
 ###### ARTÍCULO 31.
 
@@ -503,7 +507,7 @@ C. SECRETARIO DEL R. AYUNTAMIENTO
 
 DR. ARTURO CAVAZOS LEAL
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 8 DE AGOSTO DE 2012.
 
@@ -530,3 +534,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA Y VIALIDAD DE MONTERREY”.]</small>
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
