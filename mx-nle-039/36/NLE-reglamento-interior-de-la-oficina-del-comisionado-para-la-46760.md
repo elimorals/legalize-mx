@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-oficina-del-comisionado-para-la-46760
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-21"
-last_updated: "2005-10-21"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA OFICINA DEL COMISIONADO PARA LA TRANSPARENCIA MUNICIPAL DE MONTERREY
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de octubre de 2005.
 
@@ -39,9 +39,11 @@ QUE EL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE MONTERREY, EN SESIÓN ORDINARIA
 
 REGLAMENTO INTERIOR DE LA OFICINA DEL COMISIONADO PARA LA TRANSPARENCIA MUNICIPAL DE MONTERREY
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de orden público e interés social; se expide con fundamento en los artículos 160, 161 y 162 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León; y de conformidad con el Tercero Transitorio y demás relativos del Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey.
+El presente Reglamento es de orden público e interés social; se expide con fundamento en los artículos 227 y 228, de la Ley de Gobierno Municipal del Estado de Nuevo León; y de conformidad con el Tercero Transitorio y demás relativos del Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey.
 
 ###### Artículo 2.
 
@@ -49,9 +51,11 @@ El presente ordenamiento tiene por objeto establecer reglas y procedimientos par
 
 Del Comisionado para la Transparencia Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 3.
 
-El comisionado para la Transparencia Municipal es el servidor público dependiente del R. Ayuntamiento, responsable de vigilar la aplicación y observancia del Reglamento de Derecho de Acceso a la Información Pública por parte de los sujetos obligados, así como garantizar las condiciones para el mejor ejercicio del derecho de acceso a la información pública municipal.
+El Comisionado para la Transparencia Municipal es el servidor público dependiente del Ayuntamiento, responsable de vigilar la aplicación y observancia del Reglamento de Derecho de Acceso a la Información Pública por parte de los sujetos obligados, así como garantizar las condiciones para el mejor ejercicio del derecho de acceso a la información pública municipal.
 
 Para efecto de lo anterior, el Comisionado actuará como un mediador entre él o los solicitantes de información y los sujetos obligados, en los términos de lo establecido en el Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey.
 
@@ -73,9 +77,11 @@ VI. Dirigir y coordinar el funcionamiento de las Unidades de Enlace.
 
 VII. Las demás que le confieran los reglamentos y disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 5.
 
-El Comisionado para la Transparencia Municipal deberá rendir un informe semestral al R. Ayuntamiento sobre el ejercicio de su función, el cumplimiento del Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey y el ejercicio del derecho de acceso a la información.
+El Comisionado para la Transparencia Municipal deberá rendir un informe semestral al Ayuntamiento sobre el ejercicio de su función, el cumplimiento del Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey y el ejercicio del derecho de acceso a la información.
 
 ###### Artículo 6.
 
@@ -95,9 +101,11 @@ El Comisionado podrá ausentarse temporalmente de sus funciones por causas perso
 
 De los Consejeros
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 7.
 
-Para el mejor desempeño de sus funciones, el Comisionado contará con cuatro Consejeros, de los cuales tres serán representantes ciudadanos y el Síndico Segundo del R. Ayuntamiento, quienes actuarán como Consejo conjuntamente con el Comisionado, quien presidirá sus sesiones. Los Consejeros no tienen facultades de decisión ni funciones ejecutivas.
+Para el mejor desempeño de sus funciones, el Comisionado contará con cuatro Consejeros, de los cuales tres serán representantes ciudadanos y el Síndico Segundo del Ayuntamiento, quienes actuarán como Consejo conjuntamente con el Comisionado, quien presidirá sus sesiones. Los Consejeros no tienen facultades de decisión ni funciones ejecutivas.
 
 ###### Artículo 8.
 
@@ -173,9 +181,37 @@ VIII. Las demás que les confieran las disposiciones legales y administrativas q
 
 En todo lo no previsto por el presente ordenamiento se atenderá a lo establecido en el Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 17.
 
-El presente Reglamento puede ser reformado y adicionado. Para que las reformas o adiciones tengan valor deberán ser aprobadas cuando menos por las dos terceras partes de los miembros presentes del R. Ayuntamiento.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quién recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 18.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+DEL RECURSO ÚNICO DE INCONFORMIDAD
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 19.
+
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 20.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -204,3 +240,11 @@ C. JESÚS RICARDO CANAVATI TAFICH
 EL SECRETARIO DEL R. AYUNTAMIENTO
 
 C. EDGAR OLAIZ ORTIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO INTERIOR DE LA OFICINA DEL COMISIONADO PARA LA TRANSPARENCIA MUNICIPAL".]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
