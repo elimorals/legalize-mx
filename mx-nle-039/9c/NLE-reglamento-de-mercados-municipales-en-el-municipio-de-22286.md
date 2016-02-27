@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-mercados-municipales-en-el-municipio-de-22286"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-05-13"
-last_updated: "2001-09-07"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE MERCADOS MUNICIPALES, EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE MERCADOS MUNICIPALES
+REGLAMENTO DE MERCADOS MUNICIPALES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 13 de mayo de
 
@@ -45,15 +45,17 @@ Disposiciones Generales.
 
 El funcionamiento de los mercados en el Municipio de Monterrey, N. L. constituye un servicio público conforme a lo establecido por los artículos 115 fracción III inciso d) de la Constitución Política de los Estados Unidos Mexicanos; 131 fracción II inciso d) de la Constitución Política de Nuevo León y sus disposiciones son de orden público e interés social.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Art. 2.
 
-El funcionamiento de los mercados municipales será operado y vigilado por conducto de la Dirección de Comercio dependiente de la Secretaría del R. Ayuntamiento o la dependencia que de acuerdo con el Reglamento de la Administración Pública del Municipio de Monterrey, tenga las atribuciones mencionadas. El servicio de los mercados municipales podrá ser prestado por particulares, previo acuerdo del R. Ayuntamiento por el cual se otorgue la concesión respectiva.
+El funcionamiento de los mercados municipales será operado y vigilado por conducto de la Dirección de Comercio, dependencia de la Secretaría del Ayuntamiento o la dependencia que, de acuerdo con el Reglamento de la Administración Pública del Municipio de Monterrey, tenga las atribuciones mencionadas. El servicio de los mercados municipales podrá ser prestado por particulares, previo acuerdo del Ayuntamiento por el cual se otorgue la concesión respectiva.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Art. 3.
 
-Las concesiones que se otorguen a particulares en relación a los mercados municipales se regularán por las disposiciones de la Ley Orgánica de la Administración Pública Municipal.
+Las concesiones que se otorguen a particulares en relación a los mercados municipales se regularán por las disposiciones de la Ley de Gobierno Municipal del Estado de Nuevo León.
 
 ###### Art. 4.
 
@@ -149,7 +151,9 @@ d) Tesorero Municipal.
 
 e) Coordinador de Mercados Municipales.
 
-f) Síndico Segundo en ejercicio de las atribuciones que se señalan en la Ley Orgánica de la Administración Pública Municipal, o como representante legal del Municipio.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+f) Síndico Segundo en ejercicio de las atribuciones que se señalan en la Ley de Gobierno Municipal del Estado de Nuevo León, o como representante del Ayuntamiento, la cual será ejercida de manera mancomunada con el Presidente Municipal.
 
 ###### Art. 15.
 
@@ -161,11 +165,15 @@ II.- Someter a la aprobación del Ayuntamiento las disposiciones de carácter ge
 
 III.- Cumplir y hacer cumplir las disposiciones legales, reglamentarias y las emanadas del R. Ayuntamiento en relación al servicio público de mercados municipales.
 
-IV.- Todas las demás que se desprendan de este reglamento y las que deriven de la Ley Orgánica de la Administración Pública Municipal y demás disposiciones relacionadas con el servicio público de mercados municipales.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+IV.- Todas las demás que se desprendan de este reglamento y las que deriven de la Ley de Gobierno Municipal del Estado de Nuevo León y demás disposiciones relacionadas con el servicio público de mercados municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Art. 16.
 
-El Secretario del R. Ayuntamiento tendrá las siguientes atribuciones:
+El Secretario del Ayuntamiento tendrá las siguientes atribuciones:
 
 I.- Firmar los actos, acuerdos, disposiciones y comunicaciones que el Presidente Municipal expida en relación al funcionamiento y organización del servicio público de mercados municipales.
 
@@ -183,9 +191,9 @@ IV.- Acordar con el Presidente Municipal las disposiciones de carácter general 
 
 V.- Llevar el inventario de los mercados municipales así como administrar y asegurarse de la conservación de los mismos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
 
-VI.- Las demás que se desprendan de la Ley Orgánica de la Administración Pública Municipal, del Reglamento de la Administración Pública en el Municipio de Monterrey, de este Reglamento y demás disposiciones relacionadas con el funcionamiento de los mercados municipales.
+VI.- Las demás que se desprendan de la Ley de Gobierno Municipal del Estado de Nuevo León, del Reglamento de la Administración Pública del Municipio de Monterrey, de este Reglamento y demás disposiciones relacionadas con el funcionamiento de los mercados municipales.
 
 ###### Art. 17.
 
@@ -203,7 +211,9 @@ III.- Requerir de pago e iniciar y continuar el procedimiento administrativo de 
 
 IV.- Expedir la cédula de empadronamiento o número de cuenta a los locatarios u ocupantes de los mercados municipales.
 
-V.- Las demás que se desprendan de la Ley Orgánica de la Administración Pública Municipal del Reglamento para la Administración Pública de Monterrey y del presente Reglamento.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+V.- Las demás que se desprendan de la Ley de Gobierno Municipal del Estado de Nuevo León, del Reglamento para la Administración Pública de Monterrey y del presente Reglamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
 
@@ -507,6 +517,38 @@ La resolución que se dicte será para cancelar el permiso o con motivo de la re
 
 Contra la resolución procederán los recursos administrativos señalados en el Reglamento de la Administración Pública para el Municipio de Monterrey o en forma optativa el juicio contencioso ante el Tribunal de lo Contencioso Administrativo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO VII. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Art. 49.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Art. 50.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO VIII. DEL RECURSO ÚNICO DE INCONFORMIDAD
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Art. 51.
+
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Art. 52.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
+
 T R AN S I T O R I O S:
 
 PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial y en la Gaceta Municipal, cualquiera que sea el último.
@@ -529,10 +571,16 @@ Secretario del R. Ayuntamiento
 
 C. José Martínez González.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 7 DE SEPTIEMBRE DE 2001.
 
 PRIMERO. La Secretaría del R. Ayuntamiento deberá turnar para su publicación del presente acuerdo, tanto a la Gaceta Municipal como al Periódico Oficial del Estado, de conformidad con lo establecido en el Artículo 27, fracción IV y 167 de la Ley Orgánica de la Administración Pública Municipal, y 76, fracción IV del Reglamento Interior del Republicano Ayuntamiento de la Ciudad.
 
 SEGUNDO. La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Monterrey, Nuevo León, a agosto del 2001.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE MERCADOS MUNICIPALES”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
