@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2015-03-26"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -283,9 +283,11 @@ XIV. Las demás que les confiera la ley.
 
 ### CAPITULO II. De la Presidencia del Supremo Tribunal de Justicia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 15.
 
-El Presidente del Supremo Tribunal de Justicia, será el Magistrado que se elija en la sesión de Pleno Extraordinario que al efecto se realice, de acuerdo con las formalidades señaladas en el Reglamento Interior. Durará en su encargo un año, pudiendo ser reelecto hasta por una sola vez y no formará parte de las salas.
+El Presidente del Supremo Tribunal de Justicia, será el Magistrado que se elija en la sesión de Pleno Extraordinario que al efecto se realice, de acuerdo con las formalidades señaladas en el Reglamento Interior. Durará en su encargo dos años, pudiendo ser reelecto por una sola vez hasta por un año más, y no formará parte de las salas.
 
 El cargo de Presidente es renunciable y corresponderá al Supremo Tribunal de Justicia constituido en Pleno, calificar la renuncia.
 
@@ -395,7 +397,7 @@ Cada Sala, de acuerdo con su competencia, conocerá:
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-l. De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de Primera Instancia, y de los Jueces Menores, y
+I. De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de Primera Instancia, y de los Jueces Menores, y
 
 II. De los demás asuntos que expresamente les encomiende la ley.
 
@@ -715,7 +717,7 @@ XXII. Las demás que otros ordenamientos le confieran.
 
 ARTICULO 54 TER. Los jueces que operen el sistema penal acusatorio y oral podrán ejercer como:
 
-l. Jueces de Control, y
+I. Jueces de Control, y
 
 II. Jueces del tribunal de juicio oral.
 
@@ -1397,8 +1399,6 @@ El Secretariado Ejecutivo de Administración se auxiliará por el personal que a
 
 Los asuntos concernientes a la vigilancia y disciplina del Poder Judicial, estarán al cargo del Secretariado Ejecutivo de Vigilancia y Disciplina, del que dependerán la Contraloría y la Visitaduría Judicial.
 
-+
-
 El Secretariado Ejecutivo de Vigilancia y Disciplina se auxiliará para su mejor desempeño, del personal que autorice el Consejo de la Judicatura, de acuerdo a su presupuesto.
 
 ###### ARTICULO 106.
@@ -1703,7 +1703,7 @@ ARTICULO 146 BIS. El Centro Estatal de Mediación y Conciliación es un órgano 
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
-ARTICULO 148 TER. Al Centro Estatal de Mediación y Conciliación corresponde la aplicación de la mediación y la conciliación, como formas de solución de controversias en sede judicial, y contará con el personal de apoyo que determine el Consejo de la Judicatura.
+ARTICULO 146 TER. Al Centro Estatal de Mediación y Conciliación corresponde la aplicación de la mediación y la conciliación, como formas de solución de controversias en sede judicial, y contará con el personal de apoyo que determine el Consejo de la Judicatura.
 
 ## TITULO QUINTO. DE LA CARRERA JUDICIAL
 
@@ -2271,7 +2271,7 @@ SEGUNDO. Con la entrada en vigor de este Decreto, se abrogan, tanto la Ley Elect
 
 TERCERO. Respecto del artículo Segundo de este Decreto, por el que se expide la Ley Electoral del Estado de San Luis Potosí, se habrán de observar las previsiones siguientes:
 
-l. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulten electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente periodo, acorde con el dispositivo 63 antes citado;
+I. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulten electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente periodo, acorde con el dispositivo 63 antes citado;
 
 II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
 
@@ -2387,7 +2387,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE MARZO DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2404,3 +2404,11 @@ SEGUNDO. Lo establecido en la fracción II del artículo 17 del presente Decreto
 TERCERO. El Supremo Tribunal de Justicia del Estado instruirá las acciones necesarias al Consejo de la Judicatura para que, en aquellos casos en que se actualicen los supuestos materia del presente Decreto, tramite y pague el haber de retiro correspondiente.
 
 CUARTO. Se derogan todas aquellas disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0172.- SE REFORMA EL ARTÍCULO 15 EN SU PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
