@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-57673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de Noviembre de 2007.
 
@@ -1193,7 +1193,9 @@ El Consejo Municipal del Presupuesto Participativo se integrará de la siguiente
 
 I. Con derecho a voz y voto:
 
-a. El Presidente Municipal;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+a. El Contralor Municipal, y;
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
@@ -1517,17 +1519,13 @@ Los bienes muebles adquiridos con recursos del Programa de Presupuesto Participa
 
 La dependencia municipal contratante de la obra o adquiriente del bien o servicio será responsable de vigilar que se realicen correctamente las obras e inversiones. Las dependencias municipales solicitantes, la Secretaría del Ayuntamiento y los beneficiarios coadyuvarán en esta función.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-###### Artículo 61 Bis 76.
+Artículo 61 BIS 76. Al concluir la ejecución de los proyectos se elaborará y firmará un Acta de Entrega-Recepción del mismo, la cual será firmada por la dependencia ejecutora del proyecto, la dependencia coordinadora, la Contrataría Municipal y por el Contralor Ciudadano del Consejo Sectorial respectivo.
 
-Al concluir la ejecución de los proyectos se elaborará y firmará un Acta de Entrega-Recepción del mismo, la cual será firmada por la dependencia ejecutora del proyecto, la dependencia coordinadora, la Secretaría de la Contraloría y por el Contralor Ciudadano del Consejo Sectorial respectivo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-###### Artículo 61 Bis 77.
-
-El formato del Acta de Entrega-Recepción será elaborado por la Secretaría de la Contraloría. En su caso se seguirán los lineamientos o formatos que marquen las leyes, reglamentos o que se requieran en materia de obra pública y de adquisiciones.
+Artículo 61 BIS 77. El formato del Acta de Entrega-Recepción será elaborado por la Contraloría Municipal. En su caso se seguirán los lineamientos o formatos que marquen las leyes, reglamentos o que se requieran en materia de obra pública y de adquisiciones.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
@@ -1701,33 +1699,37 @@ En supletoriedad de este Reglamento serán aplicables la Ley de Métodos Alterno
 
 ### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 70.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 71.
 
-La Comisión de Gobernación, Reglamentación y Mejora Regulatoria al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ###### Artículo 72.
 
-La Comisión ante la cual se presentaron las propuestas, deberá informar al promovente la procedencia o improcedencia de las mismas.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, 27 DE FEBRERO DE 2016)</small>
 
-### CAPÍTULO DÉCIMO. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO DÉCIMO. DEL RECURSO ÚNICO DE INCONFORMIDAD
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 73.
 
-Contra cualquier acto de la Autoridad Municipal que viole el presente Reglamento, procederá el recurso de inconformidad, de acuerdo a lo establecido en el Reglamento que Regula el Procedimiento Único del Recurso de Inconformidad del Municipio de Monterrey
+El Procedimiento Administrativo único de recurso de inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 74.
+
+El recurso de inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ## Artículos transitorios
 
@@ -1808,3 +1810,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN".]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
