@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-ambiental-e-imagen-urbana-de-41803"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-02"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCIÓN AMBIENTAL E IMAGEN URBANA DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 2 de septiembre de 1998.
 
@@ -235,13 +235,15 @@ En concordancia con este reglamento, se aplicará en lo conducente la Ley Ambien
 
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 6.
 
-La aplicación de este Reglamento corresponderá a las siguientes Autoridades:
+La aplicación de este Reglamento corresponderá a las siguientes autoridades:
 
-I. R. Ayuntamiento;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+I. Ayuntamiento;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -315,9 +317,11 @@ entretenimiento
 
 Dicho reporte se remitirá a la Secretaría para la instauración del procedimiento administrativo correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 7.
 
-Corresponden al R. Ayuntamiento las siguientes atribuciones:
+Corresponden al Ayuntamiento las siguientes atribuciones:
 
 I. Aprobar los Programas de Ordenamiento Ecológico Municipales;
 
@@ -579,7 +583,7 @@ La Secretaría deberá tomar en consideración el Ordenamiento Ecológico Munici
 
 En las zonas de expansión urbana, la Secretaría identificará y determinará las áreas que deberán protegerse, estableciendo a su vez las bases y condiciones de usos del suelo urbano. Para ello solicitará a los responsables de las obras públicas y/o privadas los estudios pertinentes de carácter ambiental que correspondan.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO IV. DE LAS AREAS VERDES
 
@@ -1133,7 +1137,7 @@ Las emisiones de ruido de baja frecuencia emanadas de fuentes fijas no deberán 
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
-###### ARTICULO 82.
+###### ARTÍCULO 82.
 
 La Secretaría condicionará y/o negará la instalación y el funcionamiento de establecimientos que pretendan ubicarse cerca de zonas habitacionales, instituciones escolares, hospitalarias y recreativas; que por las características de sus procesos emitan olor, ruido, vibraciones, energía térmica o lumínica y que ocasionen molestias graves a la calidad de vida y a la salud de la población.
 
@@ -1737,9 +1741,7 @@ Cuando la notificación deba de efectuarse personalmente y el personal comisiona
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 150 Bis.
-
-Quienes comparezcan o deban comparecer a algún procedimiento administrativo, deberán acreditar su interés jurídico, debiendo designar domicilio para oír y recibir notificaciones dentro del Área Metropolitana de Monterrey, Nuevo León.
+ARTÍCULO 150 BIS.- Quienes comparezcan o deban comparecer a algún procedimiento administrativo, deberán acreditar su interés jurídico, debiendo designar domicilio para oír y recibir notificaciones dentro del Área Metropolitana de Monterrey, Nuevo León.
 
 Cuando no se cumpla con la prevención referida en el párrafo que antecede, o para el caso en el que el domicilio que se designe para efectos de oír y recibir notificaciones no exista, no se encuentre persona alguna que atienda la diligencia; o el inmueble se encuentre desocupado, la notificación y en su caso las ulteriores notificaciones, serán efectuadas por medio de instructivo que se fijará en la tabla de avisos o en lugar visible del recinto oficial de la Secretaría.
 
@@ -1747,33 +1749,39 @@ En el instructivo a que se refiere este artículo, se hará constar el número d
 
 En los casos de notificaciones, donde la persona con quien se atiende el asunto se negare a recibir o a firmar cualquier tipo de notificación, el inspector o notificador dará razón de ello, en presencia de dos testigos, entregando copia a la persona con quien entendió la diligencia, aunque se hubiere negado a firmar, lo cual no afectará la validez de la diligencia, ni del documento de que se trate, siempre y cuando el inspector o notificador haga constar tal circunstancia en el instructivo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
 
-### CAPÍTULO XVI. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XVI. DEL RECURSO ÚNICO DE INCONFORMIDAD
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 151.
 
-Las resoluciones de la autoridad municipal dictadas con base en este reglamento, podrán ser impugnados por los particulares afectados mediante el recurso de inconformidad de conformidad con lo establecido en el Reglamento que Regula el Procedimiento Único de Recurso de Inconformidad en el Municipio de Monterrey.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 151 BIS.- El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO XVII. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 152.
 
-Para la revisión y consulta del presente reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+Para la revisión y consulta del presente Reglamento, la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 153.
 
-La Comisión de Gobernación, Reglamentación y Mejora Regulatoria al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
-
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ###### ARTÍCULO 154.
 
-La Comisión ante la cual se presentaron las propuestas, deberá informar al promovente la procedencia o improcedencia de las mismas.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
 ## TRANSITORIOS
 
@@ -1818,3 +1826,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE PROTECCIÓN AMBIENTAL E IMAGEN URBANA”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
