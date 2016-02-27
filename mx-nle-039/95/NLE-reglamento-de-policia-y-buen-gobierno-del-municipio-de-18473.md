@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-18473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-14"
-last_updated: "2014-11-05"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016 (ABROGADO)
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de julio de 2000.
 
@@ -748,3 +750,15 @@ PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publi
 SEGUNDO. Las disposiciones sobre el trabajo comunitario entrarán en vigor 30 días naturales posteriores a su publicación en el Periódico Oficial del Estado, plazo en el cual la Secretaría del Ayuntamiento, a través de la Dirección Jurídica realizará el listado de actividades que podrán incluirse en la aplicación de esta sanción.
 
 TERCERO. Publíquense las presentes reformas en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se da un término de 90 días a partir de la publicación del presente reglamento para que se definan las bases y los enlaces con las diversas Dependencias del Municipio, para la aplicación del beneficio de la conmutación de penas por trabajo comunitario.
+
+TERCERO. Queda abrogado el Reglamento de Policía y Buen Gobierno publicado en el Periódico Oficial del Estado en fecha 14 de julio del año 2000.
+
+CUARTO. Por única vez y dentro de los 30 días hábiles siguientes a la publicación del presente reglamento, la Dirección Jurídica de este municipio, acordará el tabulador de multas correspondiente, a que se refiere el artículo (sic) el cual podrá ser modificado anualmente en el mes de enero.
