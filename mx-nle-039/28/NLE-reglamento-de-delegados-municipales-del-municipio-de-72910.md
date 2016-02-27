@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-delegados-municipales-del-municipio-de-72910"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-22"
-last_updated: "2010-01-22"
+last_updated: "2016-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE MONTERREY, NUEVO LEON
+REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE JUECES AUXILIARES DEL MUNICIPIO DE MONTERREY, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de enero de 2010.
 
@@ -366,3 +368,13 @@ FERNANDO ALEJANDRO LARRAZÁBAL BRETÓN
 C. SECRETARIO DEL R. AYUNTAMIENTO
 
 JUAN CARLOS RUIZ GARCÍA
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE JUECES AUXILIARES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]
+
+PRIMERO. El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Queda abrogado el Reglamento de Delegados Municipales del Municipio de Monterrey, publicado en el Periódico Oficial del Estado el 22 de enero de 2010, así como todas las reformas y adiciones que fueron aprobadas en años posteriores que se opongan al presente Reglamento.
+
+TERCERO: Los Delegados Municipales actualmente en funciones concluirán su servicio, una vez nombrado el juez auxiliar respectivo, en los términos del presente Reglamento de Jueces Auxiliares del Municipio de Monterrey.
