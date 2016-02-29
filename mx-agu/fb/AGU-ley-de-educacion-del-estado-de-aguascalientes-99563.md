@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2015-06-22"
+last_updated: "2016-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -589,7 +589,11 @@ El Ayuntamiento de cada municipio, sin perjuicio de la concurrencia de las Autor
 
 Las autoridades educativas municipales podrán celebrar convenios entre sí o con la Autoridad Educativa estatal, y esta podrá, a su vez, hacerlo con la Autoridad Educativa federal, para el mejor desarrollo del servicio educativo de acuerdo a las competencias que les otorga la Ley General de Educación y el presente ordenamiento jurídico.
 
-### CAPÍTULO IV. De la Equidad y las Orientaciones Educativas Fundamentales
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO IV. De la Equidad, Inclusión y Orientaciones Educativas Fundamentales
 
 ###### Artículo 26.
 
@@ -609,11 +613,19 @@ IV. Contribuirá a la mejor convivencia humana tanto por los elementos que aport
 
 V. Será de calidad, entendiéndose por ésta, la congruencia entre los objetivos, resultados y procesos del Sistema Educativo conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 28.
 
-El Ejecutivo y la Autoridad Educativa Estatal realizarán acciones y tomarán las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo y garantizarán una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos al prestar especial atención a los individuos, planteles, comunidades y municipios que se encuentren en situación de rezago o que enfrenten condiciones económicas y sociales de desventaja, ofreciéndoles apoyos específicos.
+El Ejecutivo y la Autoridad Educativa Estatal realizarán acciones y tomarán las medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, garantizarán una mayor inclusión y equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos al prestar especial atención a los individuos, planteles, comunidades y municipios que se encuentren en situación de rezago o que enfrenten condiciones económicas y sociales de desventaja, ofreciéndoles apoyos específicos.
 
 Programarán e instrumentarán acciones específicas dirigidas a combatir el rezago y/o la inequidad, la ineficacia e ineficiencia educativa.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 29.
 
@@ -627,43 +639,51 @@ III. Desarrollar programas de apoyo a los maestros que realicen su labor en loca
 
 IV. Promover centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-V. Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia en los servicios educativos;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-VI. Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
+V. Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso y permanencia con especial atención a las mujeres;
 
-VII. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
+VI. Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad, formándolas para que participen efectivamente en una sociedad libre y plural;
 
-VIII. Establecer y fortalecer sistemas de educación a distancia;
+VII. Promoverán la inclusión de alumnos con discapacidad en el sistema de enseñanza general, facilitando las condiciones adecuadas de acceso y servicios de apoyo concebidos en función de sus necesidades;
 
-IX. Realizar campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
+VIII. Promoverán programas de sensibilización sobre el respeto a los derechos y dignidad humana para asegurar la participación e inclusión plena de los alumnos con necesidades educativas especiales;
 
-X. Desarrollar programas para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+IX. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
-XI. Impulsarán programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-XII. Otorgar estímulos a las organizaciones de la sociedad civil y a las cooperativas de maestros que se dediquen a la enseñanza;
+X. Desarrollar programas con perspectiva de género, para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
-XIII. Promover mayor participación de los padres de familia y de los diferentes sectores sociales en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Artículo;
+XI. Realizar campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-XIV. Conceder reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos y fines de la educación;
+XII. Desarrollar programas para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
-XV. Realizarán las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos y fines de la educación;
+XIII. Impulsarán programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+XIV. Otorgar estímulos a las organizaciones de la sociedad civil y a las cooperativas de maestros que se dediquen a la enseñanza;
 
-XVI. Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos; divulgarán el protocolo de actuación sobre situaciones de violencia escolar para los educadores, las autoridades educativas y los padres o tutores, establecido en términos de la Ley para Prevenir, Atender y Erradicar la Violencia Escolar en el Estado de Aguascalientes, y asimismo serán responsables de realizar las acciones para la detección temprana, prevención y erradicación del acoso y la violencia escolar contempladas en la ley de la materia;
+XV. Promover mayor participación de los padres de familia y de los diferentes sectores sociales en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Artículo;
 
-XVII. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural, dando preferencia a los hijos de madres trabajadoras;
+XVI. Conceder reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos y fines de la educación;
 
-XVIII. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
+XVII. Realizarán las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos y fines de la educación;
 
-XIX. Establecer mecanismos propios de inscripción que respondan a las necesidades y aspiraciones específicas de cada comunidad y faciliten la incorporación de los niños y jóvenes al Sistema Educativo;
+XVIII. Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros;
 
-XX. Proporcionar materiales educativos, individuales y colectivos, para los alumnos de educación básica;
+XIX. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural, dando preferencia a los hijos de madres trabajadoras;
 
-XXI. Proporcionar apoyos económicos y asistenciales, tales como desayunos, transportes escolares, y becas para alumnos que pertenezcan a familias de escasos recursos, en coordinación con las diversas dependencias de Gobierno que apoyen tales fines;
+XX Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
 
-XXII. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran.
+XXI. Establecer mecanismos propios de inscripción que respondan a las necesidades y aspiraciones específicas de cada comunidad y faciliten la incorporación de los niños y jóvenes al Sistema Educativo;
+
+XXII. Proporcionar materiales educativos, individuales y colectivos, para los alumnos de educación básica;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE FEBRERO DE 2016)</small>
+
+XXIII. Establecer mecanismos para otorgar facilidades a estudiantes embarazadas para que reciban los cuidados médicos adecuados hasta la conclusión del puerperio, y de ser posible, para que concluyan el ciclo escolar que cursen, o bien, puedan permanecer o reingresar a la institución educativa de que se trate.
+
+XXIV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran.
 
 El Gobierno del Estado, en concurrencia con la Federación y los municipios, llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -1293,13 +1313,19 @@ Tienen derecho a la integración, a través de la Educación Especial, las perso
 
 Asimismo, se crearán programas y materiales didácticos específicos para aquellos que por su situación no se encuentren en posibilidad de acceder a la educación básica, a quienes se ofrecerá una educación que satisfaga sus necesidades para el logro de su autonomía social y productiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 99.
 
-Tratándose de niñas, niños y adolescentes con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la convivencia social autónoma y productiva en instituciones especiales, para ese fin:
+Tratándose de estudiantes con discapacidad, esta educación propiciará prioritariamente su integración a los planteles de educación básica y media superior regular mediante la aplicación de métodos, técnicas y materiales específicos, la entrega de los libros de texto gratuitos correspondientes, la prestación del apoyo adicional necesario, así como la adecuación de infraestructura física básica y equipamiento conforme a la ley correspondiente. Para los educandos que, por su tipo de discapacidad no logren esa integración, la autoridad educativa procurará la satisfacción de necesidades básicas de aprendizaje para la convivencia social autónoma y productiva, enseñándoles habilidades funcionales que respondan a las demandas sociales y expectativas de la vida adulta en instituciones especiales, para ese fin:
 
-I. Ofrecerá orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren alumnos con necesidades especiales de educación;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+I. Ofrecerá formación y orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren alumnos con necesidades especiales de educación;
 
 II. En coordinación con instituciones, ofrecerá programas de formación profesional y de educación continua a los maestros, a fin de disponer del personal idóneo; y
 
@@ -2300,3 +2326,19 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 El Instituto de Educación de Aguascalientes, dentro de los 90 días siguientes a la entrada en vigencia del presente Decreto, deberá elaborar y publicar en el Periódico Oficial del Estado, el Programa de Uniformes Escolares Gratuitos, para los alumnos que cursen educación básica en las escuelas públicas del Estado, así como realizar las acciones que corresponda para que al inicio del ciclo escolar 2015 - 2016, éstos puedan ser entregados oportunamente a los alumnos que correspondan.
 
 Las reglas de operación referidas en el Artículo 17, Fracción XXV del presente Decreto, preverán mecanismos para que en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, se brinden facilidades a micro empresas o talleres comunitarios en la elaboración de los uniformes escolares.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 287.- REFORMAS A LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a partir de la fecha de Inicio del Ciclo Escolar 2016-2017.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 305.- SE REFORMA Y ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
