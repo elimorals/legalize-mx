@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-servicio-de-transporte-turistico-denominado-8257
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-23"
-last_updated: "2013-10-09"
+last_updated: "2016-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO DEL SERVICIO DE TRANSPORTE TURÍSTICO DENOMINADO, "TRANVÍA EN EL MUNICIPIO DE MORELIA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE TURÍSTICO EN LA MODALIDAD DE TRANVÍA DEL MUNICIPIO DE MORELIA, MICHOACÁN, PUBLICADO EN EL P.O. DE 29 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE FEBRERO DE 2016. (ABROGADO).
 
 Reglamento publicado en la tercera sección del Periódico Oficial del Estado de Michoacán, el martes 23 de agosto de 2011.
 
@@ -197,7 +199,7 @@ e) Proporcionar a la Secretaría todo tipo de información que se les requiera r
 
 f) Contar con el equipo de sonido adecuado para que los usuarios disfruten el recorrido;
 
-g) Todas las unidades concesionadas deberán contar con una póliza vigente del seguro de responsabilidad civil para ocupantes y de daños a terceros; y, (sic)
+g) Todas las unidades concesionadas deberán contar con una póliza vigente del seguro de responsabilidad civil para ocupantes y de daños a terceros; y,
 
 h) Estandarizar la información histórica cultural ofrecida a los usuarios, misma que será autorizada por el Consejo Municipal del Transporte Turístico; así como la duración de los recorridos que en cualquier temporada deberá ser de 50 minutos como mínimo
 
@@ -384,3 +386,31 @@ Se expide la presente, para los fines legales a que haya lugar, en la ciudad de 
 P.O. 9 DE OCTUBRE DE 2013.
 
 ÚNICO.- Las presentes reformas y adiciones al Reglamento del Servicio de Transporte Turístico denominado, "Tranvía en el Municipio de Morelia", entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y, para el conocimiento ciudadano, publíquese en los estrados del Palacio Municipal y en los medios de información que determine el Ayuntamiento, en términos de lo dispuesto por los artículos 145 párrafo tercero y 147 párrafo primero de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo; 3° del Código Civil para el Estado de Michoacán de Ocampo y 54 del Bando de Gobierno Municipal de Morelia.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE TURÍSTICO EN LA MODALIDAD DE TRANVÍA DEL MUNICIPIO DE MORELIA, MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Reglamento en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; y, para el conocimiento ciudadano, publíquese en los estrados del Palacio Municipal y en los medios de información que determine el Ayuntamiento, en términos de lo dispuesto por los artículos 145, 147 de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo; 3° del Código Civil para el Estado de Michoacán de Ocampo y 54 del Bando de Gobierno Municipal de Morelia.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Reglamento entrará en vigor a partir del día 1° de enero del afto 2016.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento del Servicio de Transporte Turístico denominado «Tranvía en el Municipio de Morelia», publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo con fecha 23 de agosto de 2011.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo se deberá instalar formalmente en su nueva integración, en sesión extraordinaria, dentro de un plazo no mayor de treinta días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo, en un plazo de noventa días naturales siguientes a su instalación, procederá a la revisión y práctica de las diligencias que sean necesarias, para conocer la situación legal y administrativa en que actualmente se encuentra operando el servicio público de transporte turístico en la modalidad de tranvía, en la ciudad de Morelia, Michoacán; lo anterior, para el efecto de emitir la autorización de bases, sitios de comercialización de productos turísticos, así como definir horarios y rutas a los que obligatoriamente se sujetarán los concesionarios.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo, en un plazo de ciento ochenta días naturales siguientes a su instalación, emitirá su Manual de Procedimientos.
