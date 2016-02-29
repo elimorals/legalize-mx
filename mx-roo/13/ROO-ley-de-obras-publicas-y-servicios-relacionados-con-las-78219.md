@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-obras-publicas-y-servicios-relacionados-con-las-78219"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2010-12-10"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
 
@@ -579,7 +579,9 @@ Si resultare que dos o más proposiciones son solventes porque satisfacen la tot
 
 La convocante emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
 
-En caso de empate técnico entre las empresas licitantes, la instancia convocante adjudicará la obra, en igualdad de condiciones, a las empresas que tengan en su planta laboral un cinco por ciento de personas con discapacidad, cuya alta en el Instituto Mexicano del Seguro Social se haya dado con seis meses de antelación al momento del cierre de la Licitación Pública y en caso de no contar con esta condición se adjudicará la obra a la empresa que haya relacionado en la propuesta técnica el mayor número de profesionistas.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+En caso de empate técnico entre las empresas licitantes, la instancia convocante adjudicará el contrato, en igualdad de condiciones, a las empresas que tengan en su planta laboral un cinco por ciento de personas con discapacidad, cuya alta en el Instituto Mexicano del Seguro Social se haya dado con seis meses de antelación al momento del cierre de la Licitación Pública; en caso de no contar con esta condición se adjudicará a la empresa que cuente con el Distintivo Quintana Roo Verde que otorga el Gobierno del Estado o con otra certificación similar otorgada por institución legalmente autorizada para ello en las demás entidades federativas; y en defecto de ambas, se adjudicará a la empresa que haya relacionado en la propuesta técnica el mayor número de profesionistas.
 
 ###### ARTÍCULO 35.
 
@@ -1392,3 +1394,13 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 392 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales que contravengan al presente decreto.
