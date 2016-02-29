@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2013-del-pleno-del-consejo-de-la-96784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-06"
-last_updated: "2015-12-01"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-28"
 
 ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE FEBRERO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de diciembre de 2013.
 
@@ -151,7 +151,9 @@ Asistirán como invitados permanentes con voz pero sin voto los titulares de la 
 
 Podrá invitarse a participar en las sesiones del Comité Técnico con voz pero sin voto a los servidores públicos del Consejo cuyas atribuciones se encuentren relacionadas con los fines del Fideicomiso.
 
-El Fiduciario tendrá un representante permanente en las sesiones del Comité Técnico, quien tendrá voz pero no voto. El representante del Fiduciario podrá designar un suplente.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
+
+El Fiduciario podrá asistir por conducto del representante previamente designado a las sesiones del Comité Técnico, quien tendrá voz pero no voto. El representante del Fiduciario podrá designar un suplente.
 
 La participación en el Comité Técnico será de carácter honorífico.
 
@@ -165,9 +167,9 @@ I. Emitir y, en su caso, modificar las Reglas de Operación que regirán el func
 
 II. Instruir al Fiduciario, previa opinión favorable de la Unidad, los pagos que deriven del cumplimiento de los fines del Fideicomiso;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
 
-III. Aprobar los estados financieros del Fideicomiso que el Fiduciario le presente por conducto de la Secretaría Ejecutiva de Administración y, en su caso, realizar las observaciones a las que haya lugar;
+III. Tomar conocimiento de la información contenida en los estados financieros del fideicomiso que el Fiduciario le presente por conducto de la Secretaría Ejecutiva de Administración, aprobados previamente por la Dirección General de Programación y Presupuesto y, en su caso, realizar las observaciones a las que haya lugar;
 
 IV. Aprobar, y en su caso modificar, previa opinión del Comité de Inversión, la política de inversión del patrimonio fideicomitido, y
 
@@ -211,9 +213,19 @@ IV. Opinar, rendir informe y proporcionar asesoría en los asuntos de su especia
 
 V. Las demás que determine el Comité Técnico.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 11.
 
-Las sesiones del Comité Técnico, serán ordinarias o extraordinarias y se desarrollarán conforme al calendario que el mismo determine en su primera sesión ordinaria, la cual se celebrará durante los primeros quince días de cada ejercicio fiscal. Para que sesione válidamente se requerirá que estén presentes la totalidad de sus integrantes. Las decisiones se tomarán por mayoría calificada de cinco votos.
+Las sesiones del Comité Técnico, serán ordinarias o extraordinarias, las decisiones se tomarán por mayoría calificada de cinco votos.
+
+Las sesiones ordinarias se realizarán al menos una vez al mes.
+
+Con independencia de los demás asuntos que integren el orden del día correspondiente, el Secretario de Actas presentará un informe mensual con el seguimiento de los acuerdos previamente adoptados.
+
+El Comité Técnico podrá sesionar válidamente en términos de lo dispuesto por el artículo 74 de la Ley Orgánica del Poder Judicial de la Federación.
+
+Las sesiones extraordinarias se celebrarán cuando así se requiera, sin sujetarse a la periodicidad establecida para las sesiones ordinarias.
 
 ###### Artículo 12.
 
@@ -273,11 +285,11 @@ En cada sesión de la Unidad, se levantará acta que contendrá los mismos requi
 
 El Fiduciario invertirá el patrimonio del Fideicomiso siguiendo la política de inversión que establezca el Comité Técnico, previa opinión favorable del Comité de Inversión, buscando la mayor seguridad y rendimiento posibles, así como la liquidez que requiera el cumplimiento de los fines del Fideicomiso.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 14.
 
-El Fiduciario deberá presentar al Comité Técnico informes detallados del destino del patrimonio fideicomitido, así como, por conducto de la Secretaría Ejecutiva de Administración, los estados financieros del Fideicomiso.
+El Fiduciario deberá presentar al Comité Técnico informes detallados del destino del patrimonio fideicomitido, así como, por conducto de la Secretaría Ejecutiva de Administración, los estados financieros del fideicomiso previamente aprobados por la Dirección General de Programación y Presupuesto.
 
 ### Capítulo V. Del ejercicio de recursos
 
@@ -315,13 +327,25 @@ V. Mecanismos de supervisión y transparencia del ejercicio del gasto.
 
 La planeación, programación, ejecución y control de los proyectos que se realicen con el patrimonio del Fideicomiso, son responsabilidad de la Secretaría Ejecutiva de Administración y de sus unidades administrativas, en el ámbito de sus respectivas competencias.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
+
+Artículo 18 bis. El Director General de Programación y Presupuesto, podrá llevar a cabo ampliaciones de recursos a los proyectos autorizados para financiarse con el Fideicomiso, sin contar con la autorización previa del Comité Técnico, siempre que se verifique la suficiencia presupuestal y que en su conjunto, no se rebase el 20% del presupuesto autorizado para cada proyecto, ni se trate de incrementos superiores a $1´000,000.00 (Un millón de pesos 00/100 M.N.).
+
+El Director General de Programación y Presupuesto, podrá también llevar a cabo reducciones de recursos a los proyectos autorizados para financiarse con el Fideicomiso, sin contar con la autorización del Comité Técnico.
+
+Las ampliaciones o reducciones de recursos se realizarán a petición expresa y justificada por parte de las áreas administrativas respecto de los proyectos que les hayan autorizado, lo cual se informará al Fiduciario para su actualización y, al Comité Técnico en su siguiente sesión, a través del Secretario.
+
 ### Capítulo VI. De la transparencia y rendición de cuentas
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 19.
 
-La Secretaría Ejecutiva de Administración será la responsable de presentar para aprobación, al Comité Técnico, la información y el documento para la publicación en el Diario Oficial de la Federación en términos del artículo 772 del Acuerdo General en materia administrativa; así como de todo informe que se requiera conforme a las disposiciones aplicables. Adicionalmente deberá difundirlo a través de la página de Internet del Consejo.
+La Secretaría Ejecutiva de Administración será la responsable de presentar ante el Comité Técnico para su conocimiento la información y documentos a que se refiere el artículo 772 del Acuerdo General en materia administrativa; previa publicación en el Diario Oficial de la Federación. Adicionalmente deberá difundirlo a través de la página de Internet del Consejo.
+
+La Dirección General de Programación y Presupuesto en auxilio del Comité Técnico, recibirá los estados financieros que presente la Fiduciaria, analizará su información, y en su caso, los aprobará para su presentación al Comité Técnico.
+
+En caso de que no sean aprobados los regresará a la Fiduciaria con las observaciones para que vuelvan a ser formulados.
 
 ### Capítulo VII. Disposiciones finales
 
@@ -384,6 +408,16 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para 
 TERCERO. Los certificados de necesidad que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite ante la Unidad de Evaluación de Proyectos, deberán ser remitidos por ésta al grupo a que se refiere este Acuerdo para su análisis y, en su caso, aprobación.
 
 D.O.F. 1 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
