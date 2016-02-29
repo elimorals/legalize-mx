@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-adquisiciones-arrendamientos-y-prestacion-de-11023"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-15"
-last_updated: "1998-12-18"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "ROO"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DICIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 15 de Febrero de 1995.
 
-DECRETO NUMERO : 88
+DECRETO NUMERO: 88
 
 POR EL QUE SE APRUEBA LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO.
 
@@ -67,7 +67,7 @@ II.- Oficialía Mayor: La Secretaría de Administración y/o las correspondiente
 
 III.- Organo de Control: La Unidad de Programas Coordinados Federación - Estado.
 
-IV - DEPENDENCIAS: Las Unidades del Ejecutivo, las Secretarias del Despacho y Departamentos Administrativos de Ios otros dos poderes, y la Procuraduría General de Justicia del Estado;
+IV - DEPENDENCIAS: Las Unidades del Ejecutivo, las Secretarias del Despacho y Departamentos Administrativos de los otros dos poderes, y la Procuraduría General de Justicia del Estado;
 
 V - ENTIDADES: Los organismos descentralizados, las empresas de participación estatal mayoritaria, y los fideicomisos en los que el fideicomitente sea el Gobierno del Estado y órganos desconcentrados;
 
@@ -141,7 +141,7 @@ ARTICULO 11 BIS.- Todas las dependencias y entidades mencionadas en el Artículo
 
 Las adquisiciones, arrendamientos y servicios que realicen las dependencias y entidades, se sujetarán a:
 
-I.- Los objetivos, prioridades y políticas del Plan Estatal de Desarrollo y de Ios programas sectoriales, institucionales, regionales y especiales, en su caso;
+I.- Los objetivos, prioridades y políticas del Plan Estatal de Desarrollo y de los programas sectoriales, institucionales, regionales y especiales, en su caso;
 
 II.- Las previsiones contenidas en los programas anuales que elaboren las propias dependencias y entidades para la ejecución del plan y los programas a que se refiere la fracción anterior;
 
@@ -181,7 +181,7 @@ Las dependencias coordinadoras de sector y en su caso, las entidades que no se e
 
 Las dependencias y entidades deberán establecer comités de adquisiciones, arrendamientos y servicios que tendrán las siguientes funciones:
 
-I.- Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular Ias observaciones y recomendaciones convenientes;
+I.- Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular las observaciones y recomendaciones convenientes;
 
 II.- Dictaminar sobre la procedencia de celebrar licitaciones públicas, así como en los casos en que no se celebren por encontrarse en alguno de los supuestos de excepción previstos en el Artículo 33, salvo en los casos de la fracción XIII y en el Artículo 35;
 
@@ -339,7 +339,7 @@ La reducción de los plazos, serán autorizados por el comité de adquisiciones,
 
 ###### ARTICULO 24.
 
-Las dependencias y entidades, siempre que ello no tenga por objeto Iimitar eI número de participantes, podrán modificar Ios plazos u otros aspectos establecidos en la convocatoria o en Ias bases de Ia licitación, cuando menos con siete días naturales de anticipación a la fecha señalada para la presentación y la apertura de proposiciones, siempre que:
+Las dependencias y entidades, siempre que ello no tenga por objeto limitar el número de participantes, podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de la licitación, cuando menos con siete días naturales de anticipación a la fecha señalada para la presentación y la apertura de proposiciones, siempre que:
 
 I.- Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
 
@@ -357,7 +357,7 @@ El acto de presentación de apertura de proposiciones, en el que podrán partici
 
 I.- Los licitantes entregarán sus proposiciones en sobre cerrado, en forma inviolable, se procederá a la apertura de la propuesta, se desecharán los que hubieren omitido alguno de los requisitos exigidos, las que serán devueltas por la dependencia o entidad transcurridos quince días naturales, contados a partir de la fecha en que se dé a conocer el fallo de la licitación, y se dirá en voz alta el importe de las propuestas que cubran los requisitos;
 
-II.- En caso de que el fallo de Ia licitación no se realice en la misma fecha, dos proveedores por lo menos, y los servidores públicos de la convocante presentes firmarán las proposiciones aceptadas, la dependencia o entidad, señalará fecha, lugar y hora en que se dará a conocer el fallo de la licitación en que deberá quedar comprendido dentro de los cuarenta días naturales contados a partir de la fecha de inicio y podrá diferirse por una sola vez, siempre que el nuevo plazo no exceda de 20 días naturales contados a partir del plazo establecido originalmente;
+II.- En caso de que el fallo de la licitación no se realice en la misma fecha, dos proveedores por lo menos, y los servidores públicos de la convocante presentes firmarán las proposiciones aceptadas, la dependencia o entidad, señalará fecha, lugar y hora en que se dará a conocer el fallo de la licitación en que deberá quedar comprendido dentro de los cuarenta días naturales contados a partir de la fecha de inicio y podrá diferirse por una sola vez, siempre que el nuevo plazo no exceda de 20 días naturales contados a partir del plazo establecido originalmente;
 
 III.- En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, las dependencias y entidades podrán optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes.
 
@@ -409,7 +409,9 @@ II.- Las entidades, cuando los actos o contratos se celebren con ellas; y la Tes
 
 La dependencia o entidad convocante, con base en el análisis comparativo de las proposiciones admitidas, emitirá un dictamen que servirá para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que entre los proponentes reúna las condiciones legales, técnicas y económicas requeridas por el convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-Si resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el pedido o contrato se le adjudicará a quien presente la postura más baja.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+Si resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el pedido o contrato se le adjudicará a quien presente la postura más baja. En caso de continuar el empate técnico, la instancia convocante adjudicará el pedido o contrato, en igualdad de condiciones, a las empresas que tengan en su planta laboral un cinco por ciento de personas con discapacidad, cuya alta en el Instituto Mexicano del Seguro Social se haya dado con seis meses de antelación al momento del cierre de la Licitación Pública; en caso de no contar con esta condición se adjudicará a la empresa que cuente con el Distintivo Quintana Roo Verde que otorga el Gobierno del Estado o con otra certificación similar otorgada por institución legalmente autorizada para ello en las demás entidades federativas; y en defecto de ambas, se adjudicará a la empresa que haya relacionado en la propuesta técnica el mayor número de profesionistas.
 
 El fallo de la licitación se le hará saber a cada uno de los participantes en el acto de apertura de ofertas, y salvo que éste no fuere factible dentro de un término, que no podrá exceder de diez días naturales contados a partir de la fecha de celebración del acto de apertura de ofertas.
 
@@ -797,8 +799,16 @@ PROFRA. MARIA CRISTINA SANGRI C.C.P. ENRIQUE ALONSO ALCOCER
 
 AGUILAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE DICIEMBRE DE 1998.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 392 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales que contravengan al presente decreto.
