@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2015-10-01"
+last_updated: "2016-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -4167,13 +4167,13 @@ I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álv
 
 II. El 1 de septiembre del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-III. El 29 de septiembre del año 2015, en el Municipio de Manzanillo, correspondiente al tercer partido judicial; y
+III. El 20 de mayo del año 2016, en el Municipio de Manzanillo, correspondiente al tercer partido judicial; y
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-IV. El 29 de septiembre del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+IV. El 20 de mayo del año 2016, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 
 Así como de conformidad con lo dispuesto por el artículo SEGUNDO TRANSITORIO del Código Nacional de Procedimientos Penales, debiendo atenderse en los términos del Código Penal para el Estado de Colima; por lo que no podrán suspenderse ni prorrogarse las acciones tendientes a los nombramientos de los operadores y demás personal necesario para su debida implementación.
 
@@ -4228,3 +4228,9 @@ Así como de conformidad con lo dispuesto por el artículo SEGUNDO TRANSITORIO d
 ## TRANSITORIO
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65 POR EL QUE SE REFORMAN: EL ARTÍCULO SEGUNDO, FRACCIONES III Y VI, DEL DECRETO 575, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTGADO (SIC) DE COLIMA", EL DÍA 1° DE OCTUBRE DE 2015, POR EL QUE SE EMITE LA "DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO"; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, LAS FRACCIONES IV Y V, DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V, DE LA LEY PARA LA PROTECCIÓN A TESTIGOS Y SUJETOS INTERVINIENTES EN EL PROCEDIMIENTOS (SIC) PENAL; Y EL ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO, FRACCIONES III Y IV, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
