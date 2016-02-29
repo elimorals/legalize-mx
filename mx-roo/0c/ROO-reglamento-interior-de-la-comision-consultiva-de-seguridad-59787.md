@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-comision-consultiva-de-seguridad-5978
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-30"
-last_updated: "2008-01-30"
+last_updated: "2016-02-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO, PUBLICADO EN EL P.O. DE 29 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS A PARTIR DEL 16 DE ABRIL DE 2015.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016 (SIN EFECTOS).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 30 de enero de 2008.
 
 EXPOSICIÓN DE MOTIVOS
 
-La Seguridad e Higiene aplicadas en los Centros de Trabajo buscan un fin común, siendo éste, salvaguardar la vida y salud de los trabajadores, propiciando de esa forma estabilidad y productividad en el empleo para beneficio de todos Ios sectores de nuestra sociedad; y para lograrlo es necesario, conjugar la aplicación de normas vigentes que atiendan la responsabilidad encomendada por la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
+La Seguridad e Higiene aplicadas en los Centros de Trabajo buscan un fin común, siendo éste, salvaguardar la vida y salud de los trabajadores, propiciando de esa forma estabilidad y productividad en el empleo para beneficio de todos los sectores de nuestra sociedad; y para lograrlo es necesario, conjugar la aplicación de normas vigentes que atiendan la responsabilidad encomendada por la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
 
 En virtud de lo anterior, la Comisión Consultiva de Seguridad e Higiene en el Trabajo del Estado, con el propósito de elaborar estudios y proponer la adopción de las medidas preventivas que se consideren necesarias para la prevención de riesgos y accidentes de trabajo, a fin de consolidar su integración y funcionamiento, en aras de cumplir los objetivos que el marco jurídico le encomienda, en tal razón tiene a bien expedir el siguiente:
 
@@ -219,7 +221,7 @@ III. Que coadyuven en los criterios de las políticas públicas del Gobierno, (s
 
 PRIMERO. El presente Reglamento Interior entrará en vigor el día siguiente al de su aprobación por la Comisión Consultiva de Seguridad e Higiene en el Trabajo del Estado de Quintana Roo, y para su difusión publíquese en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO. Los firmantes de este Reglamento Interior, convienen en ratificar el contendido del mismo, para su debida observancia y cumplimiento por lo que se convalidan los actos jurídicos celebrados desde la fecha de su aprobación hasta la vigencia del mismo.
+SEGUNDO. Los firmantes de este Reglamento Interior, convienen en ratificar el contenido del mismo, para su debida observancia y cumplimiento por lo que se convalidan los actos jurídicos celebrados desde la fecha de su aprobación hasta la vigencia del mismo.
 
 EL PRESENTE REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE QUINTANA ROO, FUE APROBADO POR LOS MIEMBROS INTEGRANTES DE LA MISMA, EN LA SESIÓN DEL DÍA TRES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
 
@@ -272,3 +274,13 @@ PRESIDENTE DEL COMITÉ DIRECTIVO DE LA CMIC, DELEGACIÓN QUINTANA ROO
 2.- MAHMUD CHNAID NOVELO
 
 PRESIDENTE DE LA COPARMEX, CHETUMAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL ESTADO DE QUINTANA ROO”.]
+
+Artículo primero.- El presente Reglamento surtirá sus efectos a partir del 16 de abril de 2015.
+
+Artículo segundo.- Queda sin efectos el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, aprobado el 03 de diciembre de 2007 y todas aquellas disposiciones relativas a la integración y funcionamiento de la Comisión que se contrapongan al presente Reglamento.
