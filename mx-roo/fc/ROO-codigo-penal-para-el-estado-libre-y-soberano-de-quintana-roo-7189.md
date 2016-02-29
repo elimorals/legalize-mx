@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2015-07-24"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -2107,13 +2107,13 @@ Si resultan hijos a consecuencia de la comisión de este delito, la reparación 
 
 TER.- Comete el delito de violencia familiar el que realice cualquier acto u omisión de los señalados en el artículo anterior y ocurra en agravio de:
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-I.- Su cónyuge;
+I.- Su cónyuge o con quien mantenga relación de concubinato.
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-II.- La pareja a la que esté unida fuera de matrimonio;
+II.- Con quien mantenga una relación de hecho;
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2006)</small>
 
@@ -2139,9 +2139,13 @@ VII.- Sus parientes civiles, ya sea que se trate del adoptante o del adoptado;
 
 VIII.- Cualquier menor de edad, incapaz, discapacitado o anciano, que esté sujeto a su patria potestad, custodia, guarda, protección, educación, instrucción o cuidado; y
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-IX.- La persona con la que tuvo relación conyugal, de concubinato o de pareja unida fuera del matrimonio en época anterior.
+IX.- La persona con la que tuvo relación conyugal, de concubinato o haya mantenido una relación de hecho en época anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+Para efectos del presente artículo, se entenderá por relación de hecho aquélla entre dos o más personas unidas por relación sentimental, de afectividad, intimidad, reciprocidad, dependencia, solidaridad y/o ayuda mutua, cuya convivencia es constante y estable, aunque no vivan en el mismo domicilio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3740,3 +3744,9 @@ P.O. 24 DE JULIO DE 2015.
 DECRETO NÚMERO 274, POR EL QUE SE REFORMA EL ARTÍCULO 145-TER Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 145-BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 389 POR EL QUE SE REFORMAN LAS FRACCIONES I, II Y IX DEL ARTÍCULO 176-TER; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 176-TER, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
