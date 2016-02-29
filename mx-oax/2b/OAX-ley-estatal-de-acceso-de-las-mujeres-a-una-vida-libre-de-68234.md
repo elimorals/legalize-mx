@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2015-11-02"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -151,7 +151,13 @@ V. Violencia sexual: Es cualquier acto que degrade o dañe el cuerpo o la sexual
 
 VI. Violencia feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres; y
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la integridad, dignidad, libertad y derechos de las mujeres.
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+VII. Violencia política.- Es cualquier acción u omisión cometida por una o varias personas o servidores públicos por si o a través de terceros, que causen daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de su familia, para acotar, restringir, suspender o impedir el ejercicio de sus derechos ciudadanos y político-electorales o inducirla a tomar decisiones en contra de su voluntad.
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la integridad, dignidad, libertad y los derechos de las mujeres.
 
 ## TÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -179,7 +185,9 @@ VI. Ordenar la separación y alejamiento del agresor con respecto a la víctima;
 
 VII. Favorecer la instalación y el mantenimiento de Unidades de Atención Integral para las víctimas y Refugios para ellas, sus hijas e hijos, así como centros reeducativos para agresores.
 
-### Capítulo Segundo. En el Ámbito Institucional
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE FEBRERO DE 2016)</small>
+
+### Capítulo Segundo. En el Ámbito Institucional y Político
 
 ###### Artículo 10.
 
@@ -188,6 +196,42 @@ Violencia en el ámbito institucional, son los actos u omisiones de las y los se
 ###### Artículo 11.
 
 El gobierno del Estado y los Ayuntamientos, implementaran las acciones procedentes para garantizar el derecho de las mujeres a una vida libre de violencia de género, como también para la prevención, atención, sanción y reparación del daño a las víctimas.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+###### Artículo 11 Bis.
+
+Se consideran actos de violencia política, entre otros, aquellos que:
+
+a) Impongan por estereotipos de género la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+
+b) Asignen responsabilidades que tengan como resultado la limitación del ejercicio de la función político-pública.
+
+c) Proporcionen a las mujeres candidatas o autoridades electas o designadas información falsa, errada o imprecisa que ocasione una competencia desigual o induzca al inadecuado ejercicio de sus funciones político- públicas.
+
+d) Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a una función pública, asistan a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+
+e) Proporcionen al instituto electoral datos falsos o información incompleta de la identidad o sexo de la persona candidata.
+
+f) Impidan o restrinjan su reincorporación al cargo cuando hagan uso de una licencia justificada.
+
+g) Restrinjan el uso de la palabra en las asambleas, sesiones u otras reuniones, así como su participación en comisiones, comités y otras instancias de toma de decisiones conforme a la reglamentación establecida.
+
+h) Restringir o impedir el uso de las acciones constitucionales y legales para proteger sus derechos frente a los actos o eviten el cumplimiento de las resoluciones correspondientes;
+
+i) Impongan sanciones injustificadas; impidiendo o restringiendo el ejercicio de sus derechos políticos.
+
+j) Aplicar sanciones pecuniarias, descuentos arbitrarios e ilegales y/o retención de salarios.
+
+k) Discriminar por razones de sexo, color, edad, orientación, sexual, cultura, origen, idioma, credo religioso, ideología, afiliación política o filosófica, estado civil, condición económica, social o de salud, profesión, ocupación u oficio, grado de instrucción, condición de discapacidad, procedencia, apariencia física, vestimenta, apellidos u otras que tengan por objeto o resultado anular o menoscabar el reconocimiento o ejercicio en condiciones de igualdad de derechos humanos y libertades fundamentales reconocidas por la ley;
+
+l) Divulgar información falsa relativa a las funciones político-público, con el objetivo de desprestigiar su gestión y/o obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o se postulan;
+
+m) Obligar mediante la fuerza o intimidación a las autoridades electas o designadas en el ejercicio de sus funciones político-públicas, a suscribir todo tipo de documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general.
+
+n) Discriminen a la autoridad electa designada o en el ejercicio de la función político-pública, por razón de su género o por encontrarse en la etapa de embarazo, parto y puerperio; y,
+
+o) Divulguen o revelen información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y o licencia al cargo que ejercen o postulan.
 
 ### Capítulo Tercero. En el Ámbito Laboral y Docente
 
@@ -497,23 +541,29 @@ X. Contribuir a la difusión de la legislación en materia de violencia contra l
 
 XI. Promover la cultura de denuncia de la violencia contra las mujeres;
 
-XII. Promover estrategias para la obtención de recursos destinados al cumplimiento de los objetivos de esta Ley;
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-XIII. Aprobar su Reglamento Interior y demás normas que dirijan sus actividades;
+XII. Promover la participación política de las mujeres y vigilar el respeto a sus derechos políticos electorales;
 
-XIV. Promover la celebración de convenios de cooperación, coordinación y concertación en la materia entre los integrantes del Sistema, así como entre estos y otros organismos relacionados;
+XIII. Promover estrategias para la obtención de recursos destinados al cumplimiento de los objetivos de esta Ley;
 
-XV. Suscribir convenios de colaboración con los Consejos Municipales del Estado, para que, conforme a sus atribuciones, participen en la realización de acciones dirigidas al cumplimiento de los objetivos de esta Ley;
+XIV. Aprobar su Reglamento Interior y demás normas que dirijan sus actividades;
 
-XVI. Aprobar el informe anual que rinda la Secretaría Ejecutiva del Consejo;
+XV. Promover la celebración de convenios de cooperación, coordinación y concertación en la materia entre los integrantes del Sistema, así como entre estos y otros organismos relacionados;
 
-XVII. Promover la instalación de Unidades de Atención Integral, Refugios, Centros Reeducativos y módulos de información en las principales cabeceras distritales del Estado;
+XVI. Suscribir convenios de colaboración con los Consejos Municipales del Estado, para que, conforme a sus atribuciones, participen en la realización de acciones dirigidas al cumplimiento de los objetivos de esta Ley;
 
-XVIII. Evaluar los procedimientos de atención a víctimas en las Unidades de Atención Integral y los Refugios;
+XVII. Aprobar el informe anual que rinda la Secretaría Ejecutiva del Consejo;
 
-XIX. Reconocer el desempeño de las instituciones públicas y privadas que se distingan por el cumplimiento de sus políticas de prevención y atención a la violencia contra las mujeres; y
+XVIII. Promover la instalación de Unidades de Atención Integral, Refugios, Centros Reeducativos y módulos de información en las principales cabeceras distritales del Estado;
 
-XX. Las demás que esta Ley y otros ordenamientos aplicables le señalen.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XIX. Evaluar los procedimientos de atención a víctimas en las Unidades de Atención Integral y los refugios;
+
+XX. Reconocer el desempeño de las instituciones públicas y privadas que se distingan por el cumplimiento de sus políticas de prevención y atención a la violencia contra las mujeres; y
+
+XXI. Las demás que esta Ley y otros ordenamientos aplicables le señalen.
 
 ###### Artículo 43.
 
@@ -1358,3 +1408,9 @@ ING. JORGE TOLEDO LUIS.
 P.O. 2 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1721.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
