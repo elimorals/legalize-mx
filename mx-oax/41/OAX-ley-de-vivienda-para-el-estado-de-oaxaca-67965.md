@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2009-03-28"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -147,7 +147,9 @@ Son autoridades para los efectos de esta Ley y demás disposiciones en materia d
 
 I. El Gobernador del Estado;
 
-II. La Secretaría de Obras Públicas:
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+II. La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
 
 III. La Comisión Estatal de Vivienda; y
 
@@ -177,9 +179,11 @@ IX. Proveer al cumplimiento de las disposiciones de esta Ley, expidiendo los reg
 
 X. Las demás, que en el rubro de vivienda le asigne la Constitución Política del Estado, la Ley de Desarrollo Urbano y esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 7.
 
-La Secretaría de Obras Públicas y la Comisión Estatal de Vivienda, en el ámbito de sus respectivas competencias, serán las responsables de diseñar, proponer y coadyuvar a la integración, coordinación, análisis y ejecución de la política de vivienda y de los programas de vivienda del Estado de Oaxaca.
+La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y la Comisión Estatal de Vivienda, en el ámbito de sus respectivas competencias, serán las responsables de diseñar, proponer y coadyuvar a la integración, coordinación, análisis y ejecución de la política de vivienda y de los programas de vivienda del Estado de Oaxaca.
 
 ###### Artículo 8.
 
@@ -237,37 +241,57 @@ I. Un Consejo de Administración; y
 
 II. Un Director General.
 
+> <small>[N. DE E. DEL ANÁLISIS A LA REFORMA PUBLICADA EN EL P.O. DE 29 DE FEBRERO DE 2016 SE ADVIERTE LA REESTRUCTURA AL CONTENIDO DE LAS FRACCIONES, ASÍ COMO DEL ÚLTIMO PÁRRAFO QUE ACTUALMENTE FORMA PARTE DEL ARTÍCULO 11 BIS.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 11.
 
-El Consejo de Administración es la autoridad suprema de la Comisión y estará integrada por:
+El Consejo de Administración es la máxima autoridad de la Comisión y estará integrada por:
 
-I. Un Presidente;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+I. Un Presidente, que será el Titular de la Secretaría coordinadora del Sector;
 
 II. Un Secretario Técnico, que será el Director General de la Comisión Estatal de Vivienda;
 
-III. Vocales; y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-IV. Un Comisario que será el Secretario de la Contraloría, en términos de la Ley de Entidades Paraestatales de Oaxaca.
+III. Los siguientes Vocales:
 
-El Presidente del Consejo de Administración será el Gobernador del Estado o la persona que él designe, quien en su ausencia será suplido por la persona que éste designe.
+a). El Secretario de Administración;
 
-Serán Vocales del Consejo de Administración, los titulares de las siguientes dependencias del Poder Ejecutivo:
+b). El Secretario de Finanzas;
 
-I. Secretaría de Obras Públicas;
+c). El Secretario de Turismo y Desarrollo Económico;
 
-II. Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+d). El Secretario de Desarrollo Social y Humano;
 
-III. Secretaría de Finanzas;
+e). El Coordinador General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, y
 
-IV. Secretaría de Economía; y
+f). Las demás que determine el Consejo de Administración.
 
-V. Las demás que determine el Consejo de Administración.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-Cada miembro propietario del órgano de gobierno tendrá un suplente que será nombrado en términos que establece la Ley de Entidades Paraestatales del Estado de Oaxaca.
+IV. Un Comisario, que será el Secretario de la Contraloría y Transparencia Gubernamental.
 
-El Consejo de Administración programará y aprobará las operaciones y trabajos de la Comisión Estatal de Vivienda con las facultades más amplias de gestión y podrá realizar todos los actos que fueren necesarios, dada su naturaleza. De manera enunciativa no limitativa, tendrá las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
-I. Aprobar el Reglamento Interior de la Comisión Estatal de Vivienda;
+Cada integrante propietario, designará a su respectivo suplente mediante oficio respectivo dirigido al Presidente del Consejo de Administración. El cargo de suplente será indelegable, por lo que no se podrán acreditar representantes de éste en las sesiones del Consejo de Administración.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+Los suplentes tendrán las mismas facultades que los titulares propietarios.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+###### Artículo 11 Bis.
+
+El Consejo de Administración programará y aprobará las operaciones y trabajos de la Comisión Estatal de Vivienda con las facultades más amplias de gestión y podrá realizar todos los actos que fueren necesarios, dada su naturaleza.
+
+El Consejo de Administración tendrá las siguientes atribuciones, de manera enunciativa, más no limitativa:
+
+I. Aprobar el Reglamento Interno de la Comisión Estatal de Vivienda;
 
 II. Aprobar los Presupuestos Anuales para su remisión al Ejecutivo del Estado;
 
@@ -275,19 +299,21 @@ III. Aprobar la Inversión y reinversión de fondos;
 
 IV. Aprobar los planes para la creación de sus organismos auxiliares en todo el Estado;
 
-V. Autorizar los programas, estados financieros e informes del Director General,
+V. Autorizar los programas, estados financieros e informes del Director General;
 
 VI. Conocer y resolver los asuntos que se sometan a su consideración por el Director General;
 
 VII. Ordenar auditorías a la Comisión Estatal de Vivienda;
 
-VIII. Autorizar los nombramientos, sueldos, salarios y demás prestaciones que deban cubrirse al personal técnico y administrativo de la Comisión Estatal de Vivienda, observando para ello los lineamientos emitidos por la autoridad competente; y
+VIII. Autorizar los nombramientos, sueldos, salarios y demás prestaciones que deban cubrirse al personal técnico y administrativo de la Comisión Estatal de Vivienda, observando para ello los lineamientos emitidos por la autoridad competente, y
 
-IX. Las demás que señalen esta Ley y su Reglamento.
+IX. Las demás que señalen esta Ley, su Reglamento y disposiciones normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 12.
 
-El Director General será nombrado y removido libremente por el Presidente del Consejo de Administración y tendrá las siguientes facultades y obligaciones:
+El Director General será nombrado y removido libremente por el Titular del Poder Ejecutivo, y tendrá las siguientes facultades y obligaciones:
 
 a) Ejecutar los acuerdos del Consejo;
 
@@ -357,7 +383,9 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Administración;
 
-IV. El Secretario de Obras Públicas;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+IV. El Secretario de las Infraestructuras y del Ordenamiento Territorial Sustentable;
 
 V. El Secretario de Finanzas;
 
@@ -1106,3 +1134,21 @@ Tlalixtac de Cabrera, Centro, Oax., a 12 de febrero de 2009.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. JORGE TOLEDO LUIS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1720.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMAN, DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se faculta a las Secretarías de Administración, de Finanzas, y de la Contraloría y Transparencia Gubernamental, en coordinación con las entidades paraestatales que sufren modificación en la integración de su órgano de gobierno para llevar a cabo las adecuaciones correspondientes, en el ámbito de sus respectivas competencias, para dar cumplimiento al presente Decreto.
+
+TERCERO. Los órganos de gobierno de las Entidades Paraestatales que sufren modificación en su integración y funcionamiento, contarán con noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que resulten necesarias al marco jurídico, a fin de hacer efectivas las disposiciones del mismo.
+
+CUARTO. Los Presidentes de los Órganos de Gobierno, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto, convocarán para la presentación de nuevos integrantes y toma de protesta de los mismos, que conforman los órganos de gobierno que sufren modificación en su integración y funcionamiento, conforme a este Decreto.
+
+QUINTO. El Consejo de Administración, en un plazo no mayor a noventa días hábiles posteriores a la publicación del presente Decreto, deberá expedir o, en su caso, reformar el reglamento interno, manuales y demás instrumentos administrativos de Caminos y Aeropistas de Oaxaca.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
