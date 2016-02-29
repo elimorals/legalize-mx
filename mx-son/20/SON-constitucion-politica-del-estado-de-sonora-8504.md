@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2015-07-16"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE FEBRERO DE 2016.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -129,21 +129,57 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
 
+> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 2.
 
-En Sonora la investidura de los funcionarios públicos emana de la ley y está sujeta a ella. Las prescripciones legales constituyen el único límite a la libertad individual. En este concepto, las autoridades sólo pueden obrar ejercitando facultades expresas de la ley y los particulares pueden hacer todo lo que ésta no les prohíba.
+En Sonora la investidura de los funcionarios públicos emana de la Ley y está sujeta a ella. Las prescripciones legales constituyen el único límite a la libertad individual. En este concepto, las autoridades sólo pueden obrar ejercitando facultades expresas de la Ley y los particulares pueden hacer todo lo que ésta no les prohíba.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+En materia de información pública:
 
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+APARTADO A.- El Estado de Sonora reconoce el derecho humano de toda persona al libre acceso a la información veraz, verificable, confiable, actualizada, accesible, comprensible y oportuna. Comprende su facultad para solicitar, buscar, difundir, investigar y recibir información. Es obligación de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, para garantizar el libre ejercicio de este derecho, para difundir y hacer del conocimiento público la información que se le solicite así como poner a disposición las obligaciones de transparencia y toda aquella información que se considere de interés público que fijen las leyes.
 
-El Estado garantizará el derecho de acceso a la información pública, sin más limitación que el respeto a la privacidad de los individuos, la seguridad pública y la seguridad nacional. La información pública sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley. El deber público concomitante con este derecho será cumplido directamente por las autoridades obligadas y en la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad. La vigilancia de este cumplimiento quedará a cargo del Instituto de Transparencia Informativa del Estado de Sonora, que resolverá con fuerza de imperio todas las controversias que se susciten al efecto. La ley establecerá procedimientos sencillos y plazos cortos para la respuesta de la autoridad a los peticionarios particulares de información pública, así como procedimientos de revisión expeditos; asimismo, definirá los conceptos relacionados con el derecho de acceso a la información pública, sobre la base de que el deber publico respectivo se extiende a los tres poderes del Estado, a los ayuntamientos, entidades paraestatales y paramunicipales, organismos autónomos y, en general, a todos los entes públicos, cualquiera sea su denominación o estructura, así como a los partidos políticos y las personas privadas, físicas o morales, que por cualquier motivo y de cualquier modo, reciban recursos públicos para su ejercicio con ese carácter, en los términos que establezca la ley.
+La información que se refiere a la vida privada y los datos personales serán protegida en los términos y con las excepciones que fijen las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+Para el (sic) garantizar el derecho humano a la información, los sujetos obligados que se aluden en el párrafo anterior, se regirán por los siguientes principios y bases:
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal es pública y sólo podrá ser considerada reservada de forma temporal por razones de interés público y seguridad nacional. La ley de la materia determinará los criterios con base en los cuales la información podrá ser considerada reservada o confidencial.
 
-El Instituto de Transparencia Informativa del Estado de Sonora, es un órgano autónomo con personalidad jurídica y patrimonio propio, especializado e imparcial en materia de transparencia, acceso a la información pública y protección de datos personales, dotado de autonomía presupuestal, operativa, de gestión y de decisión; se integra con tres vocales que ejercerán las funciones del órgano de modo colegiado y ejecutarán sus decisiones por conducto de su presidente, quien fungirá como su representante legal y será designado de entre y por ellos mismos para durar en el cargo dos años. La Presidencia del Instituto será rotativa entre sus tres miembros. A su vez, los vocales durarán en su encargo 6 años y podrán ser reelectos hasta por un periodo similar adicional, previa ratificación que en dicho sentido emita expresamente el Congreso del Estado. La designación de los vocales así como su ratificación, deberá ser aprobada por el Congreso del Estado mediante el voto de las dos terceras partes de sus diputados integrantes. En la integración del Instituto de Transparencia Informativa del Estado de Sonora será obligatorio conformarlo por ambos géneros.
+II.- Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. Para ello, deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+III.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso a la información pública, a sus datos personales o a la rectificación de éstos. Para ello se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución. En la interpretación del derecho a la Información, deberá prevalecer el principio de máxima publicidad.
+
+IV.- La inobservancia a las disposiciones en materia de acceso a la información pública por parte de los sujetos obligados, será sancionada en los términos que dispongan las leyes.
+
+V.- El Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, es un organismo público autónomo, especializado, imparcial, colegiado e independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, que será responsable de garantizar el ejercicio de los derechos de acceso a la información pública y la protección de datos personales en posesión de los sujetos obligados en los términos de la legislación vigente.
+
+En su funcionamiento el organismo garante se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en el ámbito de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, sin perjuicio de las demás atribuciones que fijen las leyes. También conocerá de los recursos que interpongan los particulares respecto de los actos de autoridad que determinen la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezcan las leyes en la materia.
+
+Las resoluciones del organismo serán vinculatorias, definitivas e inatacables para los sujetos obligados y contra ellas sólo procederán los mecanismos de impugnación expresamente señalados en la ley de la materia.
+
+El organismo garante estará conformado por tres comisionados que serán nombrados por las dos terceras partes de los integrantes del Congreso del Estado de Sonora.
+
+Los comisionados durarán en su cargo siete años, serán sustituidos de manera escalonada para asegurar la autonomía del organismo, y en el proceso de su designación se procurará una amplia participación de la sociedad, máxima publicidad y se garantizará la igualdad de género. Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia sólo podrán ser removidos de su cargo en los términos del Título Sexto de la presente Constitución y serán sujetos de juicio político.
+
+El comisionado presidente ejecutará las decisiones del organismo garante y será su representante legal, será designado por el voto de la mayoría de los comisionados, durará en ese cargo un período de dos años que no será renovable.
+
+El organismo garante contará con facultades para imponer medidas de apremio a los sujetos obligados para asegurar el cumplimiento de sus decisiones, en los términos de lo que establezca la ley de la materia.
+
+APARTADO B.- En la designación de los comisionados del organismo garante, el Congreso del Estado deberá asegurar la participación ciudadana y su realización conforme al siguiente procedimiento:
+
+I.- El Congreso del Estado emitirá y difundirá en los medios de comunicación una convocatoria pública para que cualquier ciudadano que aspire al cargo de comisionado, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma;
+
+II.- Concluido el plazo para el registro, la Mesa Directiva del Congreso del Estado, dentro de los cinco días naturales siguientes, hará público un listado de la misma manera en que se hizo pública la convocatoria, en el que señale el número de aspirantes registrados y determine quiénes cumplieron con los requisitos exigidos en la convocatoria. De la misma manera, en la citada lista se establecerá y hará pública la posibilidad de que dentro de los cinco días naturales siguientes a la publicación de la lista, cualquier persona interesada, con apoyo en pruebas suficientes, pueda presentar comentarios y objeciones a la candidatura de cualquiera de los aspirantes;
+
+III.- Los aspirantes señalados en la lista a que se refiere la fracción anterior, dentro de los diez días siguientes a la fecha de vencimiento del plazo para la recepción de comentarios y objeciones serán convocados a comparecer en audiencia ante la comisión legislativa correspondiente;
+
+IV.- Concluido el período de comparecencias, la comisión correspondiente, tomando en consideración la opinión de la sociedad expresada en los términos de la fracción III que antecede, realizará la propuesta de designación de comisionados, mediante el dictamen correspondiente, y lo presentará al Pleno del Congreso del Estado para su discusión y, en su caso, aprobación; y
+
+V.- El dictamen que presente la comisión correspondiente se aprobará cuando obtenga el voto favorable de las dos terceras partes de los diputados presentes en la sesión convocada para tal efecto. En caso de que el dictamen no hubiera obtenido la votación requerida para su aprobación, la comisión deberá presentará (sic) otra propuesta a consideración del Pleno del Congreso del Estado hasta obtener la aprobación correspondiente.
+
+En todo caso, el dictamen que presente la comisión correspondiente en los términos antes señalados, deberá hacerse público 24 horas antes de la Sesión de Pleno del Congreso en la que se discuta y vote.
 
 ## TITULO PRIMERO.
 
@@ -997,9 +1033,9 @@ XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de
 
 También podrá instituir Tribunales de Conciliación y Arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del Servicio Civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
 
-> <small>(ADICIONADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2016)</small>
 
-XLIII Bis A. Para promover y difundir en el Estado la cultura de la apertura informativa y del ejercicio del derecho de acceso a la información pública y establecer criterios generales para la catalogación y conservación de documentos.
+XLIII Bis-A.- Para designar a los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, los miembros del consejo consultivo del mismo, legislar en materia de transparencia, acceso a la información pública y protección a datos personales en Sonora, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la legislación general en la materia y esta Constitución, y promover y difundir en el Estado la cultura de la apertura informativa y del ejercicio de esos derechos, así como establecer criterios generales para la catalogación y conservación de documentos.
 
 XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
@@ -1291,9 +1327,9 @@ VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos
 
 Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos Gubernativos se señalen en los mismos, cuando en tales Ordenamientos no se especifique qué Autoridad debe imponerlas.
 
-> <small>(REFORMADA, B.O. 4 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2016)</small>
 
-VII. Presentar cada año ante el Congreso del Estado, durante la primera quincena del mes de noviembre, los proyectos de presupuesto de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y, en la primera quincena del segundo período de sesiones ordinarias, la cuenta de gastos del año anterior.
+VII. Presentar cada año ante el Congreso, durante la primera quincena del mes de noviembre, los proyectos de presupuesto de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y el día 15 de abril de cada año, la cuenta de gastos del año anterior.
 
 > <small>(REFORMADA, B.O. 24 DE SEPTIEMBRE DE 1969)</small>
 
@@ -2037,7 +2073,9 @@ XXII. Aprobar, con base en las contribuciones y demás ingresos que determine an
 
 XXIII. Enviar trimestralmente al Congreso, los estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de Ingresos y Egresos que se lleve a la fecha.
 
-XXIV. Someter al examen y aprobación del Congreso, anualmente, en la primera quincena del segundo período de sesiones ordinarias, sus cuentas públicas del año anterior.
+> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2016)</small>
+
+XXIV. Someter al examen y aprobación del Congreso, anualmente, el día 15 de abril de cada año, sus cuentas públicas del año anterior.
 
 XXV. Glosar las cuentas del Ayuntamiento saliente, en un término de noventa días contados a partir de la fecha de toma de posesión. Si de la glosa resultaren diferencias con las cuentas públicas aprobadas por el Congreso, será éste quién decida lo conducente.
 
@@ -2213,11 +2251,11 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 143.
 
-Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Instituto Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto de Transparencia Informativa del Estado de Sonora.
+Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Instituto Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2231,9 +2269,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2016)</small>
 
-Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Instituto Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los vocales del Instituto de Transparencia Informativa del Estado de Sonora, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
+Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Instituto Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -3089,7 +3127,7 @@ B).- De igual manera, en virtud de la nueva estructura del Tribunal Estatal Elec
 
 C).- En virtud de la nueva estructura del Tribunal Estatal Electoral que plantea la presente reforma, continuará en el ejercicio de su encargo como Magistrado Propietario el C. Lic. Luis Enrique Pérez Alvidres, por un período de tres años, contados a partir de la toma de protesta en el cargo. Asimismo, derivado del imperativo que previene garantizar la representación de género, se designa a la actual Magistrada Supernumeraria C. Lic. María Teresa González Saavedra como Magistrada Propietaria del Tribunal Estatal Electoral, por un período de seis años, contados a partir de la toma de protesta del cargo.
 
-Los ciudadanos Luis Enrique Pérez Alvidrez y María Teresa González Saavedra, deberán rendir protesta del cargo a la entrada en vigor de esta Ley, ante el Pleno o la Diputación Permanenete de este Congreso, según sea el caso.
+Los ciudadanos Luis Enrique Pérez Alvidrez y María Teresa González Saavedra, deberán rendir protesta del cargo a la entrada en vigor de esta Ley, ante el Pleno o la Diputación Permanente de este Congreso, según sea el caso.
 
 A fin de culminar la integración del Tribunal Estatal Electoral, el Congreso del Estado emitirá convocatoria pública para designar al tercer Magistrado Propietario y a los dos Magistrados Suplentes Comunes, cuyos períodos para el ejercicio de su encargo será de nueve años. En la designación de los Magistrados Suplentes Comunes se respetará el principio de equidad y paridad de género.
 
@@ -3377,29 +3415,43 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 Al entrar en vigor la presente Ley, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Poder Legislativo del Estado de Sonora y demás disposiciones legales aplicables a la materia.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
+B.O. 29 DE FEBRERO DE 2016.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 85, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA".]
 
-SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado por el INEGI en el Diario Oficial de la Federación en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+###### ARTÍCULO PRIMERO.
 
-TERCERO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
 
-CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en caso de resultar aprobada la presente Ley por, cuando menos, la mitad más uno de los ayuntamientos de los Municipios de la Entidad, se remita a la Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
 
-P.O. 15 DE OCTUBRE DE 2019.
+###### ARTÍCULO SEGUNDO.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 144.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+El Congreso del Estado de Sonora deberá expedir la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, regulatoria de las disposiciones de esta Ley, en armonía al contenido del artículo 6º de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Transparencia y Acceso a la Información Pública, en un plazo no mayor a 90 días naturales contados a partir de la fecha de publicación de esta Ley.
 
-PRIMERO.- El presente Decreto entrará en vigor al siguiente día al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+###### ARTÍCULO TERCERO.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+Los recursos humanos, financieros y materiales del Instituto de Transparencia Informativa del Estado de Sonora se transferirán al nuevo organismo público autónomo garante creado mediante este decreto.
 
-TERCERO. Las Autoridades Municipales promoverán, en un plazo no mayor a 120 días a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
+###### ARTÍCULO CUARTO.
 
-CUARTO. En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán las adecuaciones pertinentes al Reglamento que permitan la exacta observancia de la Ley, en las materias de su competencia.
+La Ley secundaria determinará, en su caso, sobre la permanencia de los Vocales que actualmente conforman el Instituto de Transparencia Informativa del Estado de Sonora
 
-P.O. 26 DE DICIEMBRE DE 2021.
+Una vez integrado el Instituto Sonorense de Transparencia, Acceso a la información Pública y Protección de Datos Personales, los asuntos que se encuentren en trámite a la fecha de posesión del cargo de los Comisionados, que se hayan interpuesto conforme a la normatividad anterior a la vigencia de esta Ley, serán resueltos conforma (sic) a dichas normas por los nuevos comisionados.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto la LXI Legislatura del Congreso del Estado lleve a cabo la armonización a que se refiere el artículo segundo transitorio de esta Ley, se continuará aplicando la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora.
+
+B.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 87, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado Libre y Soberano de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el computo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 062.- POR EL QUE SE ADICIONA UN ARTÍCULO 16 BIS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
 
