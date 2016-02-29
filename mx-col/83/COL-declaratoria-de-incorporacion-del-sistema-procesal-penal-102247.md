@@ -4,7 +4,7 @@ identifier: "COL-declaratoria-de-incorporacion-del-sistema-procesal-penal-102247
 country: "mx"
 rank: "otro"
 publication_date: "2014-08-30"
-last_updated: "2015-10-01"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Declaratoria publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de agosto de 2014.
 
@@ -305,13 +305,13 @@ I. El 31 de diciembre del año 2014 en los Municipios de: Colima y Villa de Álv
 
 II. El 1 de septiembre del año 2015, en los municipios de: Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al Primer Partido Judicial;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-III. El 1 de marzo del año 2016, En el Municipio de Manzanillo, correspondiente al tercer Partido Judicial; y
+III. El 20 de mayo del año 2016, En el municipio de Manzanillo, correspondiente al tercer partido judicial; y
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-IV. El 1 de marzo del año 2016, en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+IV. El 20 de mayo del año 2016, en los municipios de: Tecomán, Armería e lxtlahuacán, correspondientes al segundo partido judicial.
 
 En consecuencia, comenzarán a regular la forma y términos en que se substanciarán los procedimientos penales en la Entidad Federativa.
 
@@ -376,3 +376,9 @@ SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al pres
 P.O. 1 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65 POR EL QUE SE REFORMAN: EL ARTÍCULO SEGUNDO, FRACCIONES III Y VI, DEL DECRETO 575, PUBLICADO EN EL PERIÓDICO OFICIAL “EL ESTGADO (SIC) DE COLIMA”, EL DÍA 1° DE OCTUBRE DE 2015, POR EL QUE SE EMITE LA “DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO”; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, LAS FRACCIONES IV Y V, DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V, DE LA LEY PARA LA PROTECCIÓN A TESTIGOS Y SUJETOS INTERVINIENTES EN EL PROCEDIMIENTOS (SIC) PENAL; Y EL ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO, FRACCIONES III Y IV, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
