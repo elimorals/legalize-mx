@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-universidad-tecnologica-cadereyta-nuevo-leon-11
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-02"
-last_updated: "2010-06-02"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIVERSIDAD TECNOLÓGICA CADEREYTA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 2 de junio de 2010.
 
@@ -95,9 +95,17 @@ V. Desarrollar programas de apoyo técnico en beneficio de la comunidad;
 
 VI. Promover la cultura científica y tecnológica en el Estado mediante la investigación aplicada y el intercambio académico con otras instituciones educativas nacionales o extranjeras;
 
-VII. Desarrollar programas de vinculación con los sectores públicos, privado y social para contribuir con el desarrollo tecnológico, económico y social de la comunidad; y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-VIII. Realizar todo género de actividades académicas, por sí o en coordinación con otras instituciones públicas o privadas.
+VII. Desarrollar programas de vinculación con los sectores públicos, privado y social para contribuir con el desarrollo tecnológico, económico y social de la comunidad;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+VIII. Realizar todo género de actividades académicas, por sí o en coordinación con otras instituciones públicas o privadas; y
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+IX. Planear, formular, desarrollar y operar programas y acciones de investigación tecnológica y servicios tecnológicos, prestar servicios de asesorías, apoyo administrativo y técnico, capacitación técnica, elaboración y desarrollo de proyectos de ingeniería, supervisión, estudios y actividades en materia de seguridad, salud y medio ambiente, estudios y desarrollo de proyectos geológicos, exploración, explotación y producción de hidrocarburos y demás áreas del sector energético y servicios diversos al sector público, social y privado.
 
 ###### Artículo 7.
 
@@ -408,3 +416,11 @@ ALFREDO GERARDO GARZA DE LA GARZA
 EL C. SECRETARIO DE EDUCACIÓN DEL ESTADO
 
 JOSÉ ANTONIO GONZÁLEZ TREVIÑO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 076. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES VII Y VIII; Y POR ADICIÓN DE UNA FRACCIÓN IX (SIC) ARTÍCULO 6 DE LA LEY QUE CREA LA UNIVERSIDAD TECNOLÓGICA DE CADEREYTA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
