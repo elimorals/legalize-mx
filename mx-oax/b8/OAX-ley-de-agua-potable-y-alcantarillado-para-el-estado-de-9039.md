@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2012-12-15"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -631,7 +631,7 @@ III.- El Comisario será designado por la Comisión Estatal del Agua.
 
 Lo dispuesto en este capítulo será independiente de que la Comisión Estatal del Agua resuelva lo conducente cuando por causa de interés público o para la más eficiente prestación del servicio se requiera que se cree un organismo intermunicipal, estableciendo su estructura y operación, en los términos de la presente ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO III. Comisión Estatal del Agua
 
@@ -641,7 +641,7 @@ Lo dispuesto en este capítulo será independiente de que la Comisión Estatal d
 
 Se crea la Comisión Estatal del Agua como órgano con ámbito competencial en toda la entidad federativa y con atribuciones en materia de prestación de servicios de agua potable y alcantarillado para el saneamiento de los asentamientos humanos del Estado, así como entidad normativa, de organización y regulación de los organismos operadores de los sistemas propios de tales servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 48.
 
@@ -661,7 +661,7 @@ IV.- Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica o adm
 
 V.- Efectuar, previo acuerdo con el Ayuntamiento Municipal, con carácter transitorio, los servicios de agua potable y alcantarillado, incluyendo saneamiento, en aquellos municipios en donde no existan organismos operadores que los presten, o el municipio no tenga todavía la capacidad para hacerse cargo de ellos, realizando en este caso funciones de autoridad administrativa, mediante el ejercicio de las atribuciones que le confiere la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 49.
 
@@ -725,7 +725,7 @@ XXIV.- Cuidar que todos los ingresos que recaude, y los que obtenga y reciba, se
 
 XXV.- Las demás que le señale esta ley, y la reglamentación respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 50.
 
@@ -753,7 +753,7 @@ Los bienes de la Comisión Estatal del Agua, afectos directamente en la prestaci
 
 Los bienes muebles del organismo destinados directamente a la prestación de los servicios se considerarán bienes del dominio público del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 53.
 
@@ -767,19 +767,31 @@ II.- Un Director General; y
 
 III.- Un Comisario Público, designado por la Secretaría de la Contraloría Estatal en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y del Municipio.
 
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 54.
 
-El Presidente del consejo de administración será el Gobernador del Estado o la persona que él designe.
+El Consejo de Administración será la autoridad máxima de la Comisión Estatal del Agua y se integrará por:
 
-El Consejo contará con un Secretario que será designado por el Presidente.
+I. Un Presidente, que será el Titular de la Secretaría coordinadora de sector a la que pertenezca la Comisión Estatal del Agua;
 
-Los vocales del Consejo de Administración, cuyo número será establecido por acuerdo del Presidente, podrán ser los titulares de las dependencias del poder ejecutivo del estado cuyos ámbitos competenciales tengan incidencia en la prestación, programación, presupuestación y vigilancia de los servicios de agua potable y alcantarillado, fundamentalmente los relacionados con la planeación, finanzas, desarrollo urbano y ecología, salud y la Comisión Nacional del Agua. Por cada representante propietario se designará un suplente.
+II. Un Secretario Técnico, que será el Director General de la Comisión Estatal del Agua;
+
+III. Vocales, que serán:
+
+a) El Secretario de Administración;
+
+b) El Secretario de Finanzas;
+
+IV. Un Comisario, que será el Secretario de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+Los suplentes entrarán en funciones solo ante la falta o ausencia de los titulares. El cargo de integrante del Consejo de Administración tendrá el carácter de honorífico.
 
 ###### ARTÍCULO 55.
 
 Se podrán invitar a formar parte del Consejo de Administración a representantes de las Dependencias Federales, Estatales o Municipales, cuando se trate de algún asunto que por su competencia o jurisdicción, deban de participar, así como a representantes de los usuarios que formen parte del Consejo Consultivo; con voz pero sin voto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 56.
 
@@ -829,7 +841,7 @@ XIII.- Las demás necesarias para cumplir su objeto, en los términos de la pres
 
 XIV.- Expedir su reglamento interior para regular su funcionamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 57.
 
@@ -911,7 +923,7 @@ V.- El servicio de conducción, potabilización, suministro, distribución o tra
 
 VI.- Las demás que se convengan con los organismos operadores, o la Comisión Estatal del Agua, o que se concesionen en los términos de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 61.
 
@@ -1171,7 +1183,7 @@ La Junta de Gobierno del organismo operador respectivo o la Comisión Estatal de
 
 ###### ARTÍCULO 105.
 
-Las cuotas y tarifas por los servicios incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas (sic) la recuperación del valor actualizado de las inversiones del organismo operador y el servicio de su deuda. Dicho fondo se constituirá y operará de conformidad con las reglas técnicas que aprueba la Junta de Gobierno del organismo operador respectivo.
+Las cuotas y tarifas por los servicios incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas la recuperación del valor actualizado de las inversiones del organismo operador y el servicio de su deuda. Dicho fondo se constituirá y operará de conformidad con las reglas técnicas que aprueba la Junta de Gobierno del organismo operador respectivo.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -1231,7 +1243,7 @@ e) Por servicios a gobierno y organismos públicos;
 
 f) Por otros usos;
 
-g) Por servicios de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de usos doméstico (sic);
+g) Por servicios de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de usos (sic) doméstico ;
 
 h) Por servicios de drenaje o alcantarillado y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y condiciones particulares de descarga vigentes, en los términos de la legislación de equilibrio ecológico y protección del ambiente;
 
@@ -1289,7 +1301,7 @@ Los notarios públicos y jueces no autorizarán o certificarán los actos trasla
 
 Los organismos operadores municipales, intermunicipales o, en su defecto, la Comisión Estatal del Agua, contarán con el número de inspectores que se requiera, en base a su propio presupuesto, para la verificación de los servicios que prestan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 119.
 
@@ -1489,7 +1501,7 @@ XVII.- El que conecte un servicio suspendido sin autorización del organismo; y
 
 XVIII.- El que en cualquier forma transgreda o incumpla lo dispuesto en esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 146.
 
@@ -1609,7 +1621,7 @@ Los asuntos que con motivo de esta ley deben pasar al Instituto Estatal del Agua
 
 ###### ARTÍCULO QUINTO.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1386 POR EL QUE SE REFORMA LA LEY ESTATAL DE DERECHOS, PUBLICADO EN EL P.O.15 DE DICIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1386 POR EL QUE SE REFORMA LA LEY ESTATAL DE DERECHOS, PUBLICADO EN EL P.O. 15 DE DICIEMBRE DE 2012)
 
 ###### ARTÍCULO SEXTO.
 
@@ -1671,7 +1683,7 @@ LIC. AGUSTIN MARQUEZ URIBE.
 
 Al C......
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE DICIEMBRE DE 2004.
 
@@ -1694,3 +1706,19 @@ PRIMERO: El presente Decreto entrará en vigor a partir del día uno de enero de
 SEGUNDO: Se deroga el Artículo quinto transitorio del decreto número 92 por el que se expidió la Ley de Agua Potable y Alcantarillado del Estado de Oaxaca publicado en el Periódico Oficial del Estado, en la sección número 7 del día 13 de febrero de 1993, y las demás disposiciones que señalen cuotas o tarifas en materia de agua potable y saneamiento.
 
 TERCERO: El Ejecutivo Estatal a través de la Dirección del Registro Público de la Propiedad y del Comercio deberá establecer un programa de capacitación y lineamientos para la aplicación de los conceptos y cuotas relacionadas con los servicios públicos que presta, a fin de definir criterios uniformes en todos y cada uno de los servidores públicos que laboran en dicha dependencia y con esto garantizar los principios de certeza jurídica a favor de los oaxaqueños.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1720.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMAN, DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se faculta a las Secretarías de Administración, de Finanzas, y de la Contraloría y Transparencia Gubernamental, en coordinación con las entidades paraestatales que sufren modificación en la integración de su órgano de gobierno para llevar a cabo las adecuaciones correspondientes, en el ámbito de sus respectivas competencias, para dar cumplimiento al presente Decreto.
+
+TERCERO. Los órganos de gobierno de las Entidades Paraestatales que sufren modificación en su integración y funcionamiento, contarán con noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que resulten necesarias al marco jurídico, a fin de hacer efectivas las disposiciones del mismo.
+
+CUARTO. Los Presidentes de los Órganos de Gobierno, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto, convocarán para la presentación de nuevos integrantes y toma de protesta de los mismos, que conforman los órganos de gobierno que sufren modificación en su integración y funcionamiento, conforme a este Decreto.
+
+QUINTO. El Consejo de Administración, en un plazo no mayor a noventa días hábiles posteriores a la publicación del presente Decreto, deberá expedir o, en su caso, reformar el reglamento interno, manuales y demás instrumentos administrativos de Caminos y Aeropistas de Oaxaca.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
