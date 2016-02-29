@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2015-11-17"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -3713,7 +3713,7 @@ El adoptante, los ascendientes y los descendientes de éste no pueden contraer m
 
 ###### Artículo 702.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo o demuestre plenamente por dictamen médico que no está embarazada. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+(DEROGADO, P.O. 29 DE FEBRERO DE 2016)
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2009)</small>
 
@@ -4217,7 +4217,7 @@ I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que
 
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 703;
 
-III.- Cuando se celebre sin que hayan transcurrido los plazos fijados en el artículo 702.
+III.- (DEROGADA, P.O. 29 DE FEBRERO DE 2016)
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -4935,9 +4935,11 @@ Los herederos del marido no podrán contradecir la paternidad de un hijo de ést
 
 Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique esa paternidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 876.
 
-Si la viuda, la divorciada o la señora cuyo matrimonio fue declarado nulo, contrajera segundas nupcias dentro del período prohibido por el artículo 702, la filiación del hijo que naciere, celebrado el segundo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la viuda, la divorciada o la señora cuyo matrimonio fuere declarado nulo, contrajera segundas nupcias dentro de los trescientos días siguientes de la disolución de su anterior matrimonio, la filiación del hijo que naciere, celebrado el segundo matrimonio, se establecerá conforme a las reglas siguientes:
 
 I.- Se presume que el hijo es del primer marido, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio, y antes de ciento ochenta días de la celebración del segundo;
 
@@ -17474,3 +17476,11 @@ P.O. 17 DE NOVIEMBRE DE 2015.
 PRIMERO: El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO: Se derogan todas aquellas disposiciones legales que contravengan el presente decreto.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 388 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 876; Y SE DEROGA EL ARTÍCULO 702 Y LA FRACCIÓN III DEL ARTÍCULO 796, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
