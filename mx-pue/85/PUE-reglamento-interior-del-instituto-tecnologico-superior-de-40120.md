@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-tecnologico-superior-de-40120
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-25"
-last_updated: "2004-06-25"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE TEPEXI DE RODRIGUEZ
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE TEPEXI DE RODRIGUEZ
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE TEPEXI DE RODRÍGUEZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 25 de junio de 2004.
 
@@ -53,11 +53,15 @@ I.- Junta Directiva: Al Órgano de Gobierno del Instituto Tecnológico Superior 
 
 II.- Instituto: Al Instituto Tecnológico Superior de Tepexi de Rodríguez;
 
-III.- Decreto: Al instrumento jurídico que crea al Instituto como Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, denominado Instituto Tecnológico Superior de Tepexi de Rodríguez, publicado en el Periódico Oficial del Estado en fecha cuatro de agosto de mil novecientos noventa y siete;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+III. Decreto: Al Decreto que Crea al Instituto Tecnológico Superior de Tepexi de Rodríguez, publicado en el Periódico Oficial del Estado el cuatro de agosto de mil novecientos noventa y siete;
 
 IV.- Director General: Al Director General del Instituto, y
 
-V.- Reglamento: Al presente Reglamento Interior del Instituto.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+V. Reglamento: Al Reglamento Interior del Instituto.
 
 ###### ARTÍCULO 3.
 
@@ -101,17 +105,31 @@ II.- Despachar los asuntos propios del Instituto;
 
 III.- Autorizar con su firma las asignaciones, licencias y permisos del personal del Instituto en materia administrativa, en el ámbito de su competencia;
 
-IV.- Evaluar periódicamente las actividades realizadas por la estructura administrativa del Instituto;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-V.- Publicar en el órgano informativo del Instituto o, en su caso, remitir a la Secretaría de Gobernación, para su publicación en el Periódico Oficial del Estado de Puebla, los reglamentos, lineamientos, acuerdos u otros documentos de observancia general que expida la Junta Directiva;
+IV. Evaluar periódicamente las actividades realizadas por las unidades administrativas que conforman la estructura orgánica del Instituto;
 
-VI. Resolver, en el ámbito de su competencia y con fines administrativos, las dudas que se susciten con motivo de la aplicación de este Reglamento, así como los casos no previstos en el mismo y en las disposiciones que resulten aplicables;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+V. Publicar en el órgano informativo del Instituto o, en su caso, remitir a la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Puebla, los reglamentos, lineamientos, acuerdos u otros documentos de observancia general que expida la Junta Directiva;
+
+VI.- Resolver, en el ámbito de su competencia y con fines administrativos, las dudas que se susciten con motivo de la aplicación de este Reglamento, así como los casos no previstos en el mismo y en las disposiciones que resulten aplicables;
 
 VII.- Integrar la Comisión Dictaminadora Interna, para el ingreso y promoción del personal del Instituto;
 
 VIII.- Presidir la Comisión Académica del Instituto, y
 
-IX.- Las que le encomiende o delegue la Junta Directiva, así como las demás que expresamente le confiera la normatividad aplicable.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+IX. Sistematizar, compilar y difundir las normas jurídicas que regulen el funcionamiento del Instituto, así como las circulares y órdenes que expidan los titulares de las unidades administrativas fijando los criterios de aplicación de las mismas;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+X. Expedir copias certificadas de las constancias que obran en los archivos del Instituto, cuando deban ser exhibidas en procesos judiciales o contencioso-administrativos y, en general, para cualquier proceso o averiguación, así como a petición debidamente fundada y motivada del interesado, en los casos que proceda y en términos de lo estipulado en la normatividad legal aplicable en el Estado, y
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XI. Las que le encomiende o delegue la Junta Directiva, así como las demás que expresamente le confiera la normatividad aplicable.
 
 ### CAPÍTULO III. DE LAS SUBDIRECCIONES
 
@@ -155,7 +173,9 @@ V.- Integrar las propuestas de modificaciones a la estructura administrativa del
 
 VI.- Establecer un sistema estadístico que permita la toma de decisiones estratégicas, así como su respectiva difusión, sometiéndolo a la autorización del Director General;
 
-VII.- Difundir los manuales administrativos autorizados por la Junta Directiva y verificar su cumplimiento;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+VII. Someter a consideración del Director General, los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo; así como coordinar la elaboración de los mismos con las demás unidades administrativas del Organismo y una vez aprobados, promover su análisis y autorización ante la autoridad competente;
 
 VIII.- Coordinar las acciones de comunicación y difusión del Instituto, de acuerdo a los procedimientos establecidos por la autoridad competente;
 
@@ -167,9 +187,21 @@ XI.- Supervisar y evaluar el funcionamiento de la Subdirección y áreas adminis
 
 XII.- Programar, de acuerdo a los lineamientos emitidos por la Dirección General de Institutos Tecnológicos, las reuniones de planeación y vinculación del Instituto;
 
-XIII.- Coordinar las actividades de la Subdirección a su cargo, con las demás unidades administrativas, para el cumplimiento de los objetivos del Instituto; y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-XIV.- Las que le encomiende o delegue el Director General, así como las demás que expresamente le confiera la normatividad aplicable.
+XIII. Coordinar las actividades de la Subdirección a su cargo, con las demás unidades administrativas, para el cumplimiento de los objetivos del Instituto;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XIV. Coadyuvar con la Subdirección de Servicios Administrativos en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XV. Elaborar y llevar el seguimiento de los programas semestrales y anuales de servicio social, prácticas profesionales y visitas de campo relacionados con los alumnos del Instituto, y
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XVI. Las que le encomiende o delegue el Director General, así como las demás que expresamente le confiera la normatividad aplicable.
 
 ### CAPÍTULO V. DE LA SUBDIRECCIÓN ACADÉMICA
 
@@ -205,9 +237,21 @@ XIII.- Mantener mecanismos de coordinación con la Subdirección de Planeación 
 
 XIV.- Tramitar, con el apoyo de las áreas administrativas competentes, la titulación de los egresados del Instituto;
 
-XV.- Coordinar, con las áreas administrativas competentes, el proceso de selección de alumnos de nuevo ingreso del Instituto, y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-XVI.- Las que le encomiende o delegue el Director General, así como las demás que expresamente le confiera la normatividad aplicable.
+XV. Coordinar, con las áreas administrativas competentes, el proceso de selección de alumnos de nuevo ingreso del Instituto;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XVI. Elaborar, en coordinación con la Subdirección de Planeación y Vinculación los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo, previo acuerdo con su superior jerárquico;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XVII. Coadyuvar con la Subdirección de Servicios Administrativos en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo, y
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XVIII. Las que le encomiende o delegue el Director General, así como las demás que expresamente le confiera la normatividad aplicable.
 
 ### CAPÍTULO VI. DE LA SUBDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS
 
@@ -233,9 +277,21 @@ VIII.- Dirigir y controlar, en coordinación con las áreas administrativas comp
 
 IX.- Controlar el presupuesto y contabilidad de las operaciones del Instituto;
 
-X.- Organizar el registro y control de bienes muebles e inmuebles, patrimonio del Instituto, y
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-XI.- Las que le encomiende o delegue el Director General, así como las demás que expresamente le confiera la normatividad aplicable.
+X. Organizar el registro y control de bienes muebles e inmuebles, patrimonio del Instituto;
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XI. Intervenir en las actas de entrega-recepción de las distintas unidades administrativas del Instituto.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XII. Elaborar en coordinación con la Subdirección de Planeación y Vinculación, los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo, previo acuerdo con su superior jerárquico; y
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XIII. Las que le encomiende o delegue el Director General, así como las demás que expresamente le confiera la normatividad aplicable.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
 
@@ -260,3 +316,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan el mismo.
 
 Dado en las instalaciones del Instituto Tecnológico Superior de Tepeaca, a los diez días del mes de junio del año dos mil cuatro. Miembros del Órgano de Gobierno: Presidente Suplente.- CONTADOR PÚBLICO APOLONIO HERNÁNDEZ VERA.- Rúbrica.- Vocales Suplentes: LICENCIADO RODOLFO FLORES ROJAS.- Rúbrica.- DOCTOR SAMUEL HIDALGO ORELLANA.- Rúbrica.- INGENIERO FERNANDO VELAZQUEZ VALDEZ.- Rúbrica.- LICENCIADO PASIELIO RAMOS CONTRERAS.- Rúbrica.- Vocales: CIUDADANO JOSE DE JESUS MENDOZA CENTENO.- Rúbrica.- CIUDADANO CELSO DOMÍNGUEZ GONZÁLEZ.- Rúbrica.- De conocimiento y observancia: Suplente del Comisario Público en el Organismo.- LICENCIADO RAUL LOPEZ ROLDAN.- Rúbrica.- Director del Instituto Tecnológico Superior de Tepexi.- INGENIERO JUVENTINO AMECA ALDUCIN.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE TEPEXI DE RODRÍGUEZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Reglamento.
