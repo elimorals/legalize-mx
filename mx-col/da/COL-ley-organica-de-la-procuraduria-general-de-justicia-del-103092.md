@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-procuraduria-general-de-justicia-del-103092"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-25"
-last_updated: "2015-10-01"
+last_updated: "2016-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR DE MANERA PROGRESIVA Y GRADUAL EN LA FECHA, EN LAS REGIONES Y MEDIANTE LAS MODALIDADES QUE SEÑALA EL CITADO ARTÍCULO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima el sábado 25 de octubre de 2014.
 
@@ -2023,13 +2023,13 @@ II. El 1 de septiembre del año 2015, en los municipios de: Cuauhtémoc, Cómala
 
 III. En materia de Justicia Penal para Adolescentes entrará en vigor en los términos y condiciones señaladas en el Segundo Transitorio, del Decreto por el que se reforman los párrafos cuarto y sexto del artículo 18 y el inciso c) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 02 de febrero del año en curso, el cual establece el compromiso y obligación legal para que el Congreso de la Unión, dentro de los 180 días naturales siguientes a la publicación del Decreto ya mencionado en el Diario Oficial de la Federación, para expedir la legislación nacional en materia de justicia para adolescentes, previendo las disposiciones transitorias necesarias para diferenciar el inicio de su vigencia, en función de la etapa del proceso de implementación del Sistema Procesal Penal Acusatorio en que se encuentren y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-IV. El 1 de marzo del año 2016, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+IV. El 20 de mayo del año 2016, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-V. El 1 de marzo del año 2016, en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+V. El 20 de mayo del año 2016, en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 
 En consecuencia, comenzará a regular la forma y términos en que se substanciará (sic) los procedimientos penales en la Entidad.
 
@@ -2106,3 +2106,9 @@ P.O. 4 DE JULIO DE 2015.
 P.O. 1 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de (sic) publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65 POR EL QUE SE REFORMAN: EL ARTÍCULO SEGUNDO, FRACCIONES III Y VI, DEL DECRETO 575, PUBLICADO EN EL PERIÓDICO OFICIAL “EL ESTGADO (SIC) DE COLIMA”, EL DÍA 1° DE OCTUBRE DE 2015, POR EL QUE SE EMITE LA “DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO”; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, LAS FRACCIONES IV Y V, DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V, DE LA LEY PARA LA PROTECCIÓN A TESTIGOS Y SUJETOS INTERVINIENTES EN EL PROCEDIMIENTOS (SIC) PENAL; Y EL ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO, FRACCIONES III Y IV, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
