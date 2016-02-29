@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-la-contraloria-47692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-08"
-last_updated: "2014-08-21"
+last_updated: "2016-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 2005.
 
@@ -207,6 +207,10 @@ XXXV. Resolver las dudas que se susciten con motivo de la interpretación de est
 
 XXXVI. Las demás que las disposiciones legales le confieran expresamente, así como aquellas otras que le confiera el Gobernador del Estado.
 
+> <small>(ADICIONADA, B.O. 29 DE FEBRERO DE 2016)</small>
+
+XXXVII. Designar a los titulares de los Órganos Internos de Control en las dependencias, que tendrán a su cargo las funciones de control, evaluación y vigilancia, en las Dependencias de la Administración Pública Estatal y en la Procuraduría General de Justicia del Estado;
+
 B).- Delegables:
 
 I. Participar, en el ámbito de competencia de la Secretaría, en la elaboración de estudios de carácter global, especial y regional que se requieran, referentes al Sistema Estatal de Planeación Democrática;
@@ -215,7 +219,7 @@ II. Designar, en los casos que se requiera, al auditor externo de la cuenta púb
 
 III. Emitir los lineamientos para la designación y contratación de consultores y casas certificadoras de calidad;
 
-IV. Designar a los Enlaces de Control en las dependencias;
+IV. (DEROGADA, B.O. 29 DE FEBRERO DE 2016)
 
 V. Diseñar e instrumentar la política y directrices para la innovación y calidad en la Administración Pública Estatal;
 
@@ -255,7 +259,7 @@ XV.- Coordinar la implementación de mecanismos que contribuyan a garantizar a l
 
 Al frente de la Subsecretaría habrá un Subsecretario, quien siendo técnica y administrativamente responsable del funcionamiento de la Unidad Administrativa a su cargo, tendrá las siguientes atribuciones genéricas:
 
-I.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas que se le adscriban, de a cuerdo con los lineamientos que fije el Titular de la Secretaría;
+I.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas que se le adscriban, de acuerdo con los lineamientos que fije el Titular de la Secretaría;
 
 II.- Acordar con el Titular de la Secretaría, el despacho de los asuntos encomendados a las unidades administrativas adscritas a la Subsecretaría a su cargo, e informarle oportunamente sobre el estado que guardan los mismos;
 
@@ -495,13 +499,17 @@ XX.- Supervisar la operación de la cuenta bancaria de tipo referenciada para el
 
 XXI. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el titular de la Secretaría.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 10.
 
-La Dirección General de Auditoría Gubernamental estará adscrita al Titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
+La Dirección General de Auditoría Gubernamental estará adscrita al titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 I.- Elaborar y proponer al Secretario un programa anual general de auditorías a las dependencias y entidades de la Administración Pública Estatal con base en las políticas y prioridades que dicte el Ejecutivo del Estado;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 II.- Efectuar, ya sea directamente o a través de la contratación de Auditores Externos, visitas, inspecciones, fiscalizaciones, auditorías, revisiones y verificaciones a las dependencias y entidades de la Administración Pública Estatal, con objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, y tendentes a:
 
@@ -519,37 +527,71 @@ f. Recomendar, con base en los resultados determinados en las auditorías realiz
 
 En el caso de las entidades, el ejercicio de las atribuciones, contenidas en esta fracción por parte de la Dirección General, se llevará a cabo únicamente en aquellas entidades que no tengan asignado Órgano de Control y Desarrollo Administrativo, o en casos especiales, así determinados por el Secretario;
 
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
 III.- Proponer e impulsar la aplicación de medidas y acciones de carácter preventivo a cargo de las dependencias y entidades de la Administración Pública Estatal, con el objeto de evitar incurrir en actuaciones irregulares en su desempeño; así mismo fomentar la implementación de medidas de autocontrol en el desarrollo de sus procedimientos y operaciones;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 IV.- Verificar y comprobar el cumplimiento de las normas de control gubernamental. En su caso, discrecionalmente, podrá requerir de las dependencias y entidades de la Administración Pública Estatal, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control de los recursos que administran;
 
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
 V.- Formular y proponer a su superior jerárquico, con la participación de las demás unidades administrativas competentes de la Secretaría, las normas de carácter general, lineamientos y políticas que rijan el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y someter a la consideración de las dependencias y entidades los elementos de juicio que resulten necesarios para la instrumentación de normas complementarias para asegurar dicho control;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 VI.- Proponer al Secretario los lineamientos para llevar a cabo el ejercicio de los ingresos propios de las entidades de la Administración Pública Paraestatal;
 
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
 VII.- Recibir de la Dirección General de Órganos de Control y Vigilancia, copia de los informes de resultados de las auditorias que lleven a cabo los Órganos de Control y Desarrollo Administrativo, de las entidades de la Administración Pública Paraestatal, y sugerir en su caso, previo acuerdo con el Secretario, las acciones y medidas preventivas, correctivas y seguimiento correspondiente;
 
-VIII.- Coordinar a los Enlaces de Control designados en las dependencias;
+> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2016)</small>
+
+VIII.- Coordinar a los Órganos Internos de Control de las dependencias;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 IX.- Establecer comunicación con los órganos de control correlativos de los Poderes Legislativo y Judicial del Estado, de los Poderes de la Federación, y con los Municipios del Estado, dentro del marco de los convenios establecidos para el eficaz cumplimiento de sus atribuciones de control;
 
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
 X.- Solicitar y obtener de los servidores públicos de las dependencias y entidades de la Administración Pública Estatal que no tengan asignado Órgano de Control y Desarrollo Administrativo, así como, en su caso, de los proveedores o contratistas, todos los datos e informes relacionados con el ejercicio del gasto público, y hacer las compulsas que se requieran de los documentos que obren en los archivos de las personas físicas o morales señaladas en esta fracción;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 XI.- Establecer y someter a la consideración del Secretario las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública Estatal;
 
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
 XII.- Dar seguimiento, a través de los programas de solventación, a las observaciones, acciones y medidas correctivas derivadas de las auditorías y verificaciones realizadas por esta unidad administrativa, los Despachos de Auditores Externos, Órganos de Fiscalización Superior; dándoles el seguimiento correspondiente hasta su total atención;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 XIII.- Turnar a la Dirección General de Responsabilidades y Situación Patrimonial la probable responsabilidad de servidores públicos, cuando de los expedientes relativos a las revisiones, investigaciones o auditorías que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso de que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido, y presentar la denuncia correspondiente ante el Ministerio Público;
 
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
 XIV.- Ser el conducto de la Secretaría para encauzar las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, para fines de congruencia global con los lineamientos generales en materia de control y evaluación de la Administración Pública Paraestatal;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 XV.- Llevar a cabo, de conformidad con los lineamientos y políticas que emita el Titular de la Secretaría, los procedimientos que permitan la coordinación que se requiera con el Instituto Superior de Auditoría y Fiscalización;
 
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
 XVI.- Proponer al Secretario los proyectos que establezcan las bases, así como las modificaciones que éstas requieran, para la designación de los Auditores Externos;
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 XVII.- Integrar los informes que formulen los Auditores Externos que designe la Secretaría, y con base en ellos proponer objetivos y acciones inmediatas de control, de conformidad con las sugerencias de dichos Auditores;
 
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
 XVIII.- Elaborar y mantener permanentemente actualizado el Catálogo de Auditores Externos; y
+
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
 XIX.- Las demás que le confieran las disposiciones legales aplicables y las que les atribuya expresamente el Titular de la Secretaría.
 
@@ -917,79 +959,67 @@ XVIII. Las demás que le confieran las disposiciones legales aplicables y las qu
 
 ### CAPÍTULO V. DE LOS INSTRUMENTOS DE CONTROL DE LA SECRETARÍA
 
-#### SECCIÓN I. DE LOS ENLACES DE CONTROL
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE FEBRERO DE 2016)</small>
+
+#### SECCIÓN I. DE LOS ÓRGANOS INTERNOS DE CONTROL
+
+> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 18.
 
-Los Enlaces de Control son auditores dependientes de la Dirección General de Auditoría Gubernamental que se asignarán a las dependencias de la Administración Pública Estatal con el objeto de examinar y verificar permanentemente los movimientos que tengan relación con el manejo y aplicación del gasto público estatal y su congruencia con los presupuestos aprobados, así como del cumplimiento de los objetivos y metas contenidas en sus programas operativos, vigilando que los recursos públicos que se utilicen en la realización de las acciones previstas en dichos programas, se ejecuten con transparencia, oportunidad y eficiencia.
+Los Órganos Internos de Control, son órganos desconcentrados de la Secretaría de la Contraloría General, quienes dependiendo jerárquica, administrativa y funcionalmente de ésta, son responsables de las funciones de control y desarrollo administrativo, control gubernamental, participación social, vinculación, transparencia y combate a la corrupción en las dependencias de la Administración Pública Estatal, de conformidad con las normas generales y demás instrucciones, políticas y lineamientos que emita el titular de la Contraloría. Estarán ubicados físicamente en las instalaciones de las dependencias a las que se encuentren adscritos, y serán coordinados por la Dirección General de Auditoría Gubernamental.
+
+Los titulares de los Órganos Internos de Control en dependencias, así como el personal adscrito a estos, serán designados y removidos libremente por el Secretario de la Contraloría General.
+
+> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 19.
 
-Para el cumplimiento de su objeto, los Enlaces de Control tendrán las siguientes atribuciones:
+Para el cumplimiento de su objeto, los Órganos Internos de Control tendrán las siguientes atribuciones:
 
-I. Verificar que la asignación del ejercicio presupuestal se encuentre registrado correcta y oportunamente en el Sistema Integral de Información Financiera (SIIAF);
+I. Efectuar, así como comisionar y supervisar al personal auditor adscrito al Órgano Interno de Control, la práctica de visitas, inspecciones, fiscalizaciones, auditorías, revisiones, verificaciones e investigaciones a la dependencia en que se encuentren asignados, conforme a las bases generales que emita la Secretaría, con objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, y tendientes a:
 
-II. Comprobar que en la preparación de los avances financieros del Sistema Integral de Información Financiera (SIIAF), se cumpla con las normas y lineamientos establecidos, y en general que las dependencias cumplan con los requerimientos de información que demande el referido Sistema;
+a) Verificar que sus actos, tanto sustantivos como de apoyo administrativo inherentes a su competencia, se lleven a cabo de acuerdo con las disposiciones legales aplicables en el ámbito de sus respectivas competencias;
 
-III. Comprobar a través del flujo de las operaciones la vigencia y corrección de los procedimientos, documentos y registros, el cumplimiento de la normatividad, la oportunidad de las transacciones para su registro, el manejo de archivos y documentación, y la preparación de la información contable y financiera;
+b) Controlar, verificar, fiscalizar y evaluar el cumplimiento por parte de la dependencia de las normas y disposiciones en materia de sistemas de registro y contabilidad gubernamental; contratación y pago de personal; contratación de servicios de cualquier naturaleza y obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; concesiones; almacenes y demás activos y recursos materiales; así como de las obligaciones derivadas en materia de planeación, programación, presupuestación, ingresos, egresos, financiamientos, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Poder Ejecutivo;
 
-IV. Ser el interlocutor entre la dependencia y la Secretaría en todos aquellos asuntos que tengan que resolver ambas partes;
+c) Comprobar la razonabilidad de la información financiera que formule la dependencia;
 
-V. Comprobar que se utilice adecuadamente el Clasificador por Objeto del Gasto autorizado por la Secretaría de Hacienda;
+d) Evaluar trimestralmente el avance en la ejecución de los Programas Operativos Anuales de la dependencia;
 
-VI. Determinar si existen retrasos significativos en el registro de las operaciones o en la preparación de la información, investigando las causas y verificando el establecimiento de un programa de regularización;
+e) Comprobar el cumplimiento de las obligaciones a su cargo, derivadas de los convenios o acuerdos de coordinación celebrados entre la federación, el estado y los municipios, en materia de inversión en programas y acciones que se realicen con recursos federales; y
 
-VII. Comprobar que en la celebración de compromisos por las dependencias que signifiquen obligaciones con cargo a sus presupuestos aprobados, observen lo siguiente:
+f) Formular las observaciones con base en los resultados determinados en las auditorías realizadas, así como en la información obtenida y ordenar a la dependencia la realización de las medidas preventivas y correctivas que se requieran, de conformidad con las disposiciones que regulan su marco de actuación; para la corrección de situaciones anómalas o el mejoramiento de la eficiencia y el logro de sus objetivos.
 
-a).- Que se realicen de acuerdo con las partidas y los calendarios financieros y de metas autorizados.
+II. Rendir informes parciales de las auditorías realizadas cuando se trate de asuntos especiales, así como de los informes trimestrales de los avances de los programas de trabajo;
 
-b).- Que no impliquen obligaciones anteriores a la fecha en que se suscriben.
+III. Verificar y comprobar el cumplimiento de las normas de control gubernamental. En su caso, discrecionalmente podrá requerir a la dependencia a la cual esté asignado, la instrumentación de las normas complementarias para el ejercicio de las facultades que aseguren el control de los recursos que administren;
 
-c).- Que no impliquen obligaciones con cargo a presupuestos de años anteriores.
+IV. Vigilar que el ejercicio de los recursos asignados a la dependencia se lleve a cabo conforme a los lineamientos que emita la Secretaría de Hacienda;
 
-VIII. Verificar que las ministraciones de fondos se realicen dentro de los límites de los calendarios financieros autorizados, y de acuerdo con las disponibilidades financieras;
+V. Solicitar y obtener de los servidores públicos de la dependencia, así como, en su caso, de los proveedores o contratistas, todos los datos e informes relacionados con el ejercicio del gasto público, y hacer las compulsas que se requieran de los documentos que obren en los archivos de las personas físicas o morales señaladas en esta fracción;
 
-IX. Verificar que los instrumentos y mecanismos del ejercicio presupuestal sean ágiles y oportunos, y que comprendan decisiones y operaciones que permitan concretar los objetivos y metas determinados;
+VI. Solicitar al Secretario, a través de la Dirección General de Auditoria Gubernamental, la realización de auditorías especiales en la dependencia a la cual esta asignado;
 
-X. Comprobar que las adecuaciones y modificaciones presupuestarias estén debidamente autorizadas en base a justificaciones reales y necesarias;
+VII. Verificar el cumplimiento por parte de las dependencias en la elaboración, formalización y actualización de los documentos de organización general, operación, prestación de servicios y trámites, tales como reglamento interior, manuales de organización, manuales de procedimientos, manuales de trámites y de servicios, cartas compromiso al ciudadano, registro estatal de trámites empresariales, directorio de la Administración Pública Estatal y demás documentos administrativos de la gestión pública;
 
-XI. Verificar que no se den ampliaciones, cancelaciones o traspasos de recursos en los proyectos que se incluyen como prioritarios, salvo aquellos en que exista la autorización expresa de la autoridad que corresponda;
+VIII. Promover y evaluar la ejecución por parte de las dependencias, de los programas y acciones para la innovación y calidad;
 
-XII. Verificar que los pagos que realicen las dependencias con cargo a sus presupuestos aprobados, por concepto de obligaciones derivadas de los compromisos contraídos, se observen los siguientes requisitos:
+IX. Evaluar el desempeño de la dependencia y dar seguimiento a sus resultados;
 
-a).- Que correspondan a compromisos efectivamente devengados.
+X. Establecer medidas preventivas que tiendan a garantizar la efectividad y transparencia de las operaciones de la dependencia;
 
-b).- Que se efectúen dentro de los límites de los calendarios financieros autorizados.
+XI. Denunciar ante la Dirección General de Responsabilidades y Situación Patrimonial la probable responsabilidad de servidores públicos, cuando de los expedientes relativos a las revisiones, investigaciones o auditorías que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso en que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido, presentar la denuncia correspondiente ante el Ministerio Publico;
 
-c).- Que se encuentren debidamente justificados y comprobados con los documentos originales respectivos.
+XII. Recibir las quejas y denuncias que se formulen en contra de servidores públicos de la Dependencia a la que se encuentren adscritos, por hechos que pudieran constituir incumplimiento de las obligaciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, y en su caso, recabar las pruebas y elementos de convicción suficientes para turnarlas ante la Dirección General de Responsabilidades y Situación Patrimonial de esta Dependencia o ante la autoridad que se estime competente;
 
-XIII. Verificar la contabilización oportuna y adecuada de las operaciones presupuestales, vinculadas con los resultados de la gestión administrativa, para efectos de consolidación y presentación en la cuenta pública;
+XIII. Solicitar y obtener para el ejercicio cabal de sus atribuciones legales, todos los documentos, datos, declaraciones e informes necesarios que obren en poder de los servidores públicos de la Dependencia a la que se encuentre adscrito, así como solicitar las compulsas que se requieran de los archivos que obren en poder de ésta y de las personas físicas o morales que hayan tenido alguna participación en los hechos que se investiguen;
 
-XIV. Dar seguimiento a los procedimientos de licitación para adquisiciones y obras públicas, vigilando el cumplimiento de la normatividad aplicable;
+XIV. Solicitar y desahogar las comparecencias y declaraciones de los servidores públicos que resulten necesarias para el ejercicio de las funciones a que se refieren las fracciones XII y XIII de este artículo;
 
-XV. Realizar análisis sistemáticos de desviaciones entre lo presupuestado y lo ejercido, determinando que las variaciones estén plenamente justificadas y autorizadas;
+XV. Cotejar y certificar, los papeles de trabajo que se generen por los actos de investigaciones a su cargo, con los documentos originales que obren en la dependencia correspondiente haciendo constarla (sic) autenticidad de dichos documentos; y
 
-XVI. Verificar que la afectación presupuestaria se realice precisamente en función del objeto del gasto;
-
-XVII. Verificar que el ejercicio del presupuesto atienda los lineamientos establecidos;
-
-XVIII. Verificar que el ejercicio de recursos federales se apegue a las normas y lineamientos aprobados para los programas a los que se destinen;
-
-XIX. Verificar que los montos asignados a los programas que integran el Presupuesto de Egresos, establezcan el límite máximo de su ejercicio y que no se suministren recursos presupuestales mayores, salvo que de conformidad con las disposiciones aplicables, se efectúen transferencias o se otorguen ampliaciones, autorizadas por el Ejecutivo del Estado;
-
-XX. Verificar que una vez concluida la vigencia del Presupuesto de Egresos del Estado, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se encuentren debidamente contabilizados como pasivos presupuestales al 31 de diciembre del ejercicio correspondiente. De no cumplirse con el requisito antes señalado, dichos compromisos se cubrirán con cargo al presupuesto del año siguiente;
-
-XXI. Verificar que no se realicen transferencias de recursos de otros capítulos presupuestales al capítulo de servicios personales y viceversa;
-
-XXII. Verificar que las dependencias cuenten con el registro electrónico para el trámite del pago de los compromisos presupuestales, mismo que debe ser solicitado a través del Sistema de Control Presupuestal implementado por la Secretaría de Hacienda, toda vez que éste es un requisito indispensable para el pago de todas las operaciones presupuestales que efectúen las dependencias;
-
-XXIII. Verificar que los recursos propios que generen las dependencias, se apliquen de acuerdo a la autorización previa del Gobernador del Estado, a través de la Secretaría de Hacienda, en función de las necesidades de los servicios que le sean solicitados y no conforme a fines específicos de las dependencias;
-
-XXIV. Vigilar que los titulares de las dependencias en el ejercicio de sus presupuestos aprobados, cumplan estrictamente con las disposiciones de racionalidad, austeridad y disciplina presupuestal, contenidas en el Decreto del Presupuesto de Egresos del ejercicio fiscal correspondiente, así como las previstas en los lineamientos que para tal efecto se emitan;
-
-XXV. Evaluar el grado de cumplimiento de los objetivos y metas de los programas operativos aprobados a las dependencias; y
-
-XXVI. Las demás que les asigne el Secretario.
+XVI. Las demás que les asigne el Secretario, y las disposiciones legales que se emitan.
 
 #### SECCIÓN II. DE LOS ÓRGANOS DE CONTROL Y DESARROLLO ADMINISTRATIVO
 
@@ -1168,3 +1198,9 @@ B.O. 21 DE AGOSTO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA FRACCIÓN XXXVII, INCISO A, ARTÍCULO 6°; REFORMA EL ARTÍCULO 10, 18 Y 19; Y DEROGA FRACCIÓN IV, INCISO B, ARTÍCULO 6°; DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
