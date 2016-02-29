@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-caminos-y-aeropistas-de-oaxaca-6912"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-27"
-last_updated: "2005-04-02"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMINOS Y AEROPISTAS DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de mayo de 1989.
 
@@ -83,9 +83,17 @@ III.- Los legados, donaciones y demás liberalidades que por cualquier título r
 
 IV.- Los bienes o recursos que adquiera por cualquier otro título legal.
 
-###### ARTICULO 4o.
+###### ARTICULO 4°.
 
 "Caminos y Aeropistas de Oaxaca", administrará su patrimonio con apego a las disposiciones legales respectivas destinándolo al cumplimiento del objeto para el cual fue creada.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+ARTICULO 4° BIS.- Los bienes mueble e inmuebles de Caminos y Aeropistas de Oaxaca, forman parte del patrimonio del Estado, por tanto, son inembargables, consecuentemente, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectiva las sentencias dictadas a favor de particulares, en contra de Caminos y Aeropistas de Oaxaca del Gobierno del Estado o de su hacienda.
+
+Tales sentencias se comunicaran al Titular del Poder Ejecutivo, a fin de que si no hubiere partida en el Presupuesto de Egresos, se solicite a la Legislatura del Estado, la expedición de un decreto especial que autorice la erogación para el siguiente ejercicio fiscal.
+
+De igual forma, son inembargables las cuentas bancarias, depósitos en efectivo, todo tipo de valores, fondos y recursos presupuestales y todo derecho de crédito pertenecientes a Caminos y Aeropistas de Oaxaca.
 
 ### CAPÍTULO III. De los Organos de Gobierno
 
@@ -99,13 +107,15 @@ I.- El Consejo de Administración; y
 
 II.- El Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 6°.
 
-El Consejo de Administración, es la Autoridad Suprema de "Caminos y Aeropistas de Oaxaca", y estará integrado en forma honorífica por:
+El Consejo de Administración, es la autoridad máxima de "Caminos y Aeropistas de Oaxaca"; y estará integrado por:
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-I.- Un Presidente, que será el titular del Poder Ejecutivo;
+I.- Un Presidente, que será el titular de la Secretaría coordinadora de sector.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
@@ -115,25 +125,33 @@ II.- Un Secretario Técnico, que será el Director General de Caminos y Aeropist
 
 III.- Cuatro Vocales, que serán los titulares de las siguientes dependencias del Poder Ejecutivo:
 
-a) Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+a) Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
 b) Secretaría de Finanzas;
 
-c) Secretaría de Economía; y
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
-d) Secretaría de Desarrollo Rural.
+c) Secretaría de Turismo y Desarrollo Económico, y
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
-IV. Un Comisario, que será el Delegado Contralor o el representante que designe la Secretaría de la Contraloría.
+d) Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
+
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+IV.- Un Comisario, que será el titular del órgano de control interno del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+###### ARTÍCULO 7°.
+
+Los integrantes del Órgano de Gobierno desempeñarán su cargo de manera honorifica por lo que no recibirán retribución alguna, los cuales podrán designar a sus respectivos suplentes mediante oficio dirigido al Presidente del Consejo de Administración.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
-
-###### ARTICULO 7°.
-
-El Presidente del Consejo de Administración será el Gobernador del Estado y como Suplente, el Titular de la Secretaría de Obras Públicas del Gobierno del Estado en su calidad de Coordinador Sectorial.
-
-Los demás miembros propietarios del Consejo de Administración tendrán un suplente, quien será designado por el titular del Poder Ejecutivo. El cargo de suplente es indelegable.
 
 En ningún caso podrán ser miembros del Consejo de Administración:
 
@@ -237,11 +255,11 @@ IV.- Coadyuvar en apoyo de Caminos y Aeropistas de Oaxaca, dentro de sus respect
 
 V.- Las demás que le concede esta Ley, el Reglamento Interior de Caminos y Aeropistas de Oaxaca, y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 16.
 
-El Director General tendrá las siguientes facultades y obligaciones:
+El Director General será nombrado y removido por el Gobernador del Estado, y tendrá las siguientes facultades y obligaciones.
 
 I.- Cumplir y hacer cumplir los acuerdos y disposiciones del Consejo de Administración, así como asistir a todas las sesiones del mismo, con voz pero sin voto;
 
@@ -299,13 +317,35 @@ XVII. Proporcionar la información y dar acceso a la documentación que le solic
 
 XVIII. Presentar, dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público y ratificar las mismas en su caso, sin perjuicio del patrimonio del Organismo, otorgar el perdón cuando proceda.
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
-XIX. Otorgar los poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula espacial, previa autorización del Consejo de Administración. Los poderes generales deberán inscribirse conforme a la ley respectiva, así como en el Registro de Entidades Paraestatales de la Administración Pública Estatal; y
+XIX. Otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran de autorización o cláusula especial;
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2005)</small>
+Sólo se requerirá autorización del Consejo de Administración cuando se trate de poderes para actos de administración o dominio.
 
-XX.- Las demás que le confieran otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XX. Autorizar al titular del área jurídica de Caminos y Aeropistas de Oaxaca, y sus abogados adscritos, el desistimiento de las acciones civiles y a otorgar el perdón o desistimiento en las denuncias o querellas de carácter penal, y
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+XXI. Las que le confieran el Consejo de Administración y le señalen las demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+###### ARTICULO 16 Bis.
+
+El titular del área jurídica de Caminos y Aeropistas de Oaxaca y sus abogados adscritos, no requerirán poder general o especial para comparecer ante las autoridades jurisdiccionales, administrativas o del trabajo, ya sean federales, estatales o municipales; bastara para acreditar su representación legal, su nombramiento respectivo.
+
+Los servidores públicos indicados, en el ejercicio de su representación legal, tendrán las siguientes facultades:
+
+I. Representar legalmente tanto a Caminos y Aeropistas de Oaxaca, como al Director General. Está representación tendrá los efectos de mandato judicial, cuando en el proceso así sea necesario y se entiende conferida sin perjuicio de que, en su caso, el Director General asuma por sí mismo la intervención que en dichos actos le corresponda;
+
+II. Ejercitar cualquier acción civil, presentar denuncias o querellas, desistirse del trámite de las acciones civiles, otorgar el perdón o desistirse de las denuncias o querellas penales; previa autorización del Director general; así como ratificar cualquier demanda o promoción, absolver posiciones, transar o celebrar convenios que den fin a los procesos, ofrecer y acudir al desahogo de cualquier prueba, alegar, recurrir, cualquier resolución o inconformarse ante autoridades de alzada o amparo, y en general todo acto que permita una defensa adecuada de sus representados;
+
+III. Realizar todo tipo de actos o tramite relacionado con la defensa del patrimonio de Caminos y Aeropistas de Oaxaca, ante cualquier persona del derecho público o privado, así como ejercitar las acciones vinculadas con la materia, y
+
+IV. Las demás que le confieran las Leyes y reglamentos vigentes en el Estado o las que le sean delegadas por el Director General de Caminos y Aeropistas de Oaxaca.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
 
@@ -336,6 +376,22 @@ Las relaciones laborales entre Caminos y Aeropistas de Oaxaca, se regirán por l
 ###### ARTICULO 19.
 
 La Secretaría de la Contraloría, ejercer las facultades que le otorgan las leyes respectivas en lo que corresponde a la verificación, inspección fiscalización y responsabilidades de los servidores públicos del Organismo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO V. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+###### ARTICULO 20.
+
+Los actos administrativos que realicen los servidores públicos facultados de Caminos y Aeropistas de Oaxaca, estarán sujetos en esencia, especie y forma a los requisitos que establece la Ley de Justicia Administrativa para el Estado de Oaxaca, la que se aplicará supletoriamente al presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+###### ARTICULO 21.
+
+Los ciudadanos podrán, si a sus intereses conviene, ejercer contra las resoluciones emanadas de Caminos y Aeropistas de Oaxaca los recursos legales que procedan, así como ejercitar las acciones que previene la propia Ley de Justicia Administrativa para el Estado de Oaxaca.
 
 T R A N S I T O R I O S
 
@@ -373,10 +429,26 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ILDEFONSO ZORRILLA CUEVAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 2 DE ABRIL DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1720.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMAN, DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se faculta a las Secretarías de Administración, de Finanzas, y de la Contraloría y Transparencia Gubernamental, en coordinación con las entidades paraestatales que sufren modificación en la integración de su órgano de gobierno para llevar a cabo las adecuaciones correspondientes, en el ámbito de sus respectivas competencias, para dar cumplimiento al presente Decreto.
+
+TERCERO. Los órganos de gobierno de las Entidades Paraestatales que sufren modificación en su integración y funcionamiento, contarán con noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que resulten necesarias al marco jurídico, a fin de hacer efectivas las disposiciones del mismo.
+
+CUARTO. Los Presidentes de los Órganos de Gobierno, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto, convocarán para la presentación de nuevos integrantes y toma de protesta de los mismos, que conforman los órganos de gobierno que sufren modificación en su integración y funcionamiento, conforme a este Decreto.
+
+QUINTO. El Consejo de Administración, en un plazo no mayor a noventa días hábiles posteriores a la publicación del presente Decreto, deberá expedir o, en su caso, reformar el reglamento interno, manuales y demás instrumentos administrativos de Caminos y Aeropistas de Oaxaca.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
