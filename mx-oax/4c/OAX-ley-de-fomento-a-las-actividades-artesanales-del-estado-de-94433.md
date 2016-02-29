@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2013-04-27"
+last_updated: "2016-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -129,9 +129,11 @@ VIII. Las demás que le confieran esta Ley u otros ordenamientos.
 
 El Titular del Poder Ejecutivo, aplicará y vigilará el cumplimiento de la presente Ley, por conducto del Instituto, con la participación de las Dependencias y Entidades de la Administración Pública Estatal, que por su propia naturaleza y objeto coincidan con la del presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 8.
 
-Para el cumplimiento de los objetivos de la presente Ley, el Instituto contará, además de las enmarcadas en el decreto de su creación con las siguientes funciones y atribuciones:
+Para el cumplimiento de los objetivos de la presente Ley, el Instituto contará, además de las enmarcadas en el Decreto de su creación, con las siguientes funciones y atribuciones:
 
 I. Procurar que se establezcan normas de calidad estatal en los productos artesanales, en coordinación con las autoridades competentes;
 
@@ -139,7 +141,21 @@ II. Procurar la participación de organismos especializados en los programas que
 
 III. Programar en su proyecto de presupuesto de egresos, la partida presupuestal anual que integrará el Fondo Artesanal; y
 
-IV. Las demás que le confieran esta Ley, u otros ordenamientos.
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
+IV. Brindar asistencia técnica al Sector Artesanal en cuanto a:
+
+a) Acceso a financiamiento;
+
+b) Abasto de materias primas, control de calidad, empaques, embalaje y comercialización;
+
+c) Diseño, tecnología, herramientas y equipos;
+
+d) Registro de derechos de autor, patentes y marcas;
+
+e) Funcionamiento de las figuras asociativas formales previstas en la Legislación Mexicana y todo cuanto se requiere para su adecuado desarrollo.
+
+V. Las demás que le confieran esta Ley, u otros ordenamientos.
 
 ###### Artículo 9
 
@@ -231,7 +247,7 @@ Con el objeto de promover el conocimiento, ensayo y rescate de técnicas tradici
 
 ### CAPÍTULO VI. DEL REGISTRO ESTATAL DE ARTESANOS Y DE LOS COMERCIANTES DE LA ARTESANÍA
 
-###### Articulo 20.
+###### Artículo 20.
 
 El Instituto promoverá e integrará el Registro Estatal de Artesanos, como procedimiento de carácter público el cual tiene por objeto inscribir, actualizar y difundir la información relacionada con el sector artesanal.
 
@@ -239,7 +255,7 @@ El Instituto promoverá e integrará el Registro Estatal de Artesanos, como proc
 
 El Registro Estatal de Artesanos será un instrumento auxiliar del Instituto para la integración y ejecución de políticas públicas en beneficio del sector y en general, para el cumplimiento de sus objetivos.
 
-###### Articulo 22.
+###### Artículo 22.
 
 El Instituto elaborará y operará el Registro Estatal de Artesanos, el cual contendrá, como mínimo, la siguiente información:
 
@@ -270,6 +286,10 @@ La información consignada en el Registro Estatal de Artesanos, servirá de base
 ###### Artículo 25.
 
 La presente Ley, fomentará la libre organización de los artesanos, a través del apoyo en la constitución de las figuras jurídicas que estos elijan, con la finalidad de impulsar la creación de microempresas.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+
+Además impulsará el desarrollo de la microindustria y de la actividad artesanal, mediante la gestión de apoyos fiscales, financieros, de mercado y de asistencia técnica, promoviendo la coordinación de las autoridades locales y municipales con el objeto de apoyar los trámites administrativos ante las autoridades federales.
 
 ###### Artículo 26.
 
@@ -341,7 +361,7 @@ El Instituto proporcionará la asesoría, capacitación y apoyo logistico necesa
 
 La presente Ley fomentará el rechazo a todas las expresiones de discriminación dentro de la actividad artesanal por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen étnico, posición social y económica, carácter físico, discapacidad o estado de salud.
 
-###### Articulo 37.
+###### Artículo 37.
 
 La Secretaria de Turismo y Desarrollo Económico Oaxaca con apoyo del Instituto, propiciará que en cada evento de promoción turística en que participe, se promocionen y enaltezcan las tradiciones con respeto absoluto a los derechos fundamentales de libertad de expresión y creativa, de autoría y protección de sus obras, de participación, a la información y a la libre asociación.
 
@@ -414,3 +434,11 @@ Tlalixtac de Cabrera, Centro, Oax. a 24 de abril del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
