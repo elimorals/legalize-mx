@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2015-11-25"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -651,9 +651,13 @@ LI.- Diseñar el sistema de evaluación del desempeño a nivel municipal, a trav
 
 LII.- Cumplir con las atribuciones que le confieren a los municipios la Ley General de Víctimas, así como la Ley de Protección a las Víctimas para el Estado de Tamaulipas.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
 
-LIII.- Las demás que determine este Código o cualquier otra ley y sus Reglamentos.
+LIII. Fomentar la solidaridad familiar, los valores, el respeto, la convivencia y el sano esparcimiento de las familias, así como la integración de los adultos mayores en actividades que contribuyan a su mejor desarrollo.
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+LIV.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -1955,7 +1959,7 @@ Este impuesto es aplicable como gravamen real sobre los predios que sean benefic
 
 ###### ARTICULO 134.
 
-Son sujetos del impuesto con responsabilidad directa los propietarios, copropietarios, condóminos, poseedores, ocupantes, detentadores, fideicomitentes o los que por cualquier título o causa se beneficien con la obra respectiva. Son responsables solidarios los promitentes compradores y los adquirentes en las operaciones con reserva de dominio y las instituciones fiduciarias si el predio estuviere afectado en fideicomiso; estas instituciones cubrirán el impuesto con cargo a quien resulte propietario del predio beneficiado, una vez liberado el fideicomiso.
+Son sujetos del impuesto con responsabilidad directa los propietarios, copropietarios, condóminios, poseedores, ocupantes, detentadores, fideicomitentes o los que por cualquier título o causa se beneficien con la obra respectiva. Son responsables solidarios los promitentes compradores y los adquirentes en las operaciones con reserva de dominio y las instituciones fiduciarias si el predio estuviere afectado en fideicomiso; estas instituciones cubrirán el impuesto con cargo a quien resulte propietario del predio beneficiado, una vez liberado el fideicomiso.
 
 Cuando sean personas distintas el propietario o detentador por cualquier título o causa, del terreno y de las construcciones, el impuesto recaerá sobre aquél.
 
@@ -2379,7 +2383,7 @@ I.- Expiración del plazo.
 
 II.- Cancelación.
 
-II.- Caducidad.
+III.- Caducidad.
 
 > <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
 
@@ -3067,7 +3071,7 @@ Son obligaciones de los sindicatos:
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-l.- Proporcionar los informes que le solicite el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios;
+I.- Proporcionar los informes que le solicite el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3633,7 +3637,7 @@ A).- Multa hasta por el importe de cincuenta veces el salario mínimo diario vig
 
 B).- Cancelación y caducidad de la concesión.
 
-VIII.- Indemnización al Ayuntamiento por daños y perjuicios que se causen, independientemente de las demás sanciones que procedan.
+VII.- Indemnización al Ayuntamiento por daños y perjuicios que se causen, independientemente de las demás sanciones que procedan.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -5157,7 +5161,7 @@ El Tribunal de Arbitraje para los Trabajadores al Servicio de los Municipios de 
 
 ###### ARTICULO DECIMO.
 
-Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y de la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
+Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -5169,7 +5173,7 @@ Cd. Victoria, Tam., a 2 de febrero de 1984.- Diputado Presidente, LIC. TITO RESE
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General del Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
@@ -5844,6 +5848,14 @@ P.O. 20 DE OCTUBRE DE 2015.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 25 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-926 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN LIII DEL ARTÍCULO 49, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN LIII PARA PASAR A SER FRACCIÓN LIV DEL NUMERAL CITADO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
