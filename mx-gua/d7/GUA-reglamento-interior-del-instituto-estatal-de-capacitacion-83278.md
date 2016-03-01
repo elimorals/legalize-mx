@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-estatal-de-capacitacion-83278
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-11"
-last_updated: "2011-10-11"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CAPACITACION DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CAPACITACION DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CAPACITACIÓN DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de octubre de 2011.
 
@@ -111,7 +111,7 @@ Atribuciones del Secretario
 
 El Secretario tendrá las siguientes atribuciones:
 
-l. Formular la orden del día para cada sesión y someterla a la consideración del Presidente;
+I. Formular la orden del día para cada sesión y someterla a la consideración del Presidente;
 
 II. Notificar por escrito a los miembros e invitados a las sesiones de la Junta Directiva, la convocatoria para la celebración de las mismas, al menos 10 diez días hábiles antes cuando se trata (sic) de sesiones ordinarias;
 
@@ -245,19 +245,25 @@ a. Coordinación de Informática y Telecomunicaciones; y
 
 b. Coordinación de Asuntos Jurídicos;
 
-II. Dirección de Administración y Finanzas;
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
 
-III. Dirección de Planeación y Evaluación;
+II. Coordinación de Operaciones:
 
-IV. Dirección de Vinculación y Comunicación;
+a) Unidades de capacitación.
 
-V. Dirección Técnica-Académica:
+III. Dirección de Administración y Finanzas;
 
-VI. Unidades de Capacitación;
+IV. Dirección de Planeación y Evaluación;
 
-VII. Contraloría Interna; y
+V. Dirección de Vinculación y Comunicación;
 
-VIII. Comisiones, Comités y Subcomités.
+VI. Dirección Técnica-Académica:
+
+VII. Unidades de Capacitación;
+
+VIII. Contraloría Interna; y
+
+IX. Comisiones, Comités y Subcomités.
 
 Para el cumplimiento de sus atribuciones, cada una de las unidades administrativas del IECA contará con el personal que sea necesario para el desempeño de sus funciones y que permita su presupuesto.
 
@@ -283,7 +289,9 @@ II. Proponer a la Junta Directiva la creación de organismos desconcentrados, co
 
 III. Difundir los reglamentos, lineamientos, estatutos, acuerdos y otros documentos de observancia general que apruebe la Junta Directiva; y
 
-IV. Delegar por escrito sus atribuciones en los subalternos que designe para tal efecto.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+IV. Delegar mediante oficio sus atribuciones en los subalternos que designe para tal afecto; y conferir y revocar, con la autorización de la Junta Directiva, poderes generales para pleitos y cobranzas y actos de administración, así como los especiales que se requieran.
 
 ### Capítulo II. Unidades administrativas adscritas al despacho del Director General
 
@@ -295,7 +303,7 @@ El despacho del Director General contará con las siguientes unidades administra
 
 I. Coordinación de Informática y Telecomunicaciones; y
 
-II. Coordinación de Asuntos Jurídicos; (sic)
+II. Coordinación de Asuntos Jurídicos;
 
 #### Sección Primera. Coordinación de Informática y Telecomunicaciones
 
@@ -305,7 +313,7 @@ Atribuciones del Coordinador de Informática y Telecomunicaciones
 
 El Coordinador de Informática y Telecomunicaciones tendrá, además de las atribuciones genéricas, las siguientes:
 
-l. Desarrollar, programar y operar el sistema informático integral del IECA y dar seguimiento a la implantación de éste;
+I. Desarrollar, programar y operar el sistema informático integral del IECA y dar seguimiento a la implantación de éste;
 
 II. Desarrollar, implementar y operar la infraestructura de las redes de telecomunicaciones;
 
@@ -335,35 +343,55 @@ I. Asesorar jurídicamente al Director General y a las unidades administrativas 
 
 II. Analizar, revisar y coadyuvar a que los diferentes actos y procedimientos jurídicos en que intervenga el IECA se encuentren ajustados al marco legal;
 
-III. Coordinar la elaboración de los contratos, convenios o cualquier otro tipo de instrumento jurídico en que intervenga el IECA, de conformidad con los acuerdos que se emitan para tal efecto por la Junta Directiva y el Director General;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-IV. Representar al IECA en aquellos asuntos jurídicos que le sean delegados por el Director General;
+III. Proponer, elaborar o coordinar la elaboración de los contratos, convenios o cualquier otro tipo de instrumento jurídico en que intervenga el IECA;
 
-V. Elaborar y presentar las denuncias y querellas respecto de los asuntos de la competencia del IECA o de sus unidades administrativas;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+IV. Representar jurídicamente al IECA y, en su caso, al Director General, por delegación o apoderamiento que realice en su favor el Director General, en los asuntos judiciales, laborales y administrativos con facultades de apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y las que requieran mandato o cláusula especial conforme a la ley, inclusive para presentar, contestar y ratificar demandas; para presentar o ratificar denuncias y querellas ante el Ministerio Público por hechos u omisiones presumiblemente constitutivos de delitos, respecto de los asuntos de la competencia del IECA, de sus unidades administrativas o de su patrimonio y, en su caso, fungir como coadyuvante; así como desistirse y otorgar el perdón, cuando así se lo autorice expresamente el Director General quien lo informará a la Junta Directiva; para presentar quejas, ejercitar acciones, defensas, oponer excepciones y reconvenir; ofrecer y desahogar cualquier tipo de pruebas; interponer todo tipo de juicios o recursos; así como para celebrar todo tipo de contratos, convenios y finiquitos;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+V. Coordinar la atención y seguimiento hasta su conclusión, de los juicios, procesos y procedimientos jurisdiccionales o administrativos en los que el IECA, el Director General o el personal sean partes, con motivo o en ocasión del cumplimiento de sus atribuciones;
 
 VI. Compilar y difundir las leyes, decretos, reglamentos y todo tipo de disposiciones normativas, relacionadas con el objeto del IECA;
 
 VII. Fungir como Unidad de Enlace ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo, de conformidad con la normatividad aplicable;
 
-VIII. Proponer a la Junta Directiva por conducto del Director General, la creación o modificación del marco normativo del IECA de conformidad a la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VIII. Formular y revisar los anteproyectos de leyes, reglamentos, acuerdos, decretos y demás disposiciones jurídicas y proponer a la Junta Directiva por conducto del Director General, la creación, modificación o actualización de los ordenamientos jurídicos relacionados con la competencia del IECA; y
 
 IX. Expedir la certificación de los documentos que obran en los archivos del IECA, cuando sea procedente en términos de la normatividad respectiva.
 
-## Título Quinto. Direcciones de Área y Coordinaciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2016)</small>
 
-### Capítulo I. Atribuciones Genéricas de los Directores de Área
+## Título Quinto. Coordinación de Operaciones y Direcciones de Área
 
-Integración de las Direcciones de Área
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2016)</small>
+
+### Capítulo I. Atribuciones genéricas del Coordinador de Operaciones y de los Directores de Área
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Titulares de la Coordinación de Operaciones y de las Direcciones de Área
 
 ###### Artículo 21.
 
-Al frente de las Direcciones de Área, habrá un Director y las mismas tendrán entre sí la misma jerarquía, por lo que, entre ellas no habrá preeminencia alguna.
+Al frente de la Coordinación de Operaciones habrá un Coordinador y al frente de las Direcciones de Área, un Director.
 
-Atribuciones genéricas de los Directores de Área
+La Coordinación de Operaciones y las Direcciones de Área tendrán entre sí la misma jerarquía, por lo que entre ellas no habrá preeminencia alguna.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 1 DE MARZO DE 2016)</small>
+
+Atribuciones genéricas del Coordinador de Operaciones y de los Directores de Área
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### Artículo 22.
 
-Los Directores de Área tendrán las siguientes atribuciones genéricas:
+El Coordinador de Operaciones y los Directores de Área tendrán las siguientes atribuciones genéricas:
 
 I. Auxiliar y acordar con su superior los asuntos cuya tramitación y despacho sean de su competencia;
 
@@ -409,19 +437,111 @@ XXI. Las demás que las disposiciones legales y reglamentarias les atribuyan, as
 
 Los coordinadores adscritos a la Dirección General tendrán las atribuciones genéricas previstas en este artículo.
 
-### Capítulo II. Dirección de Administración y finanzas
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE MARZO DE 2016)</small>
+
+### Capítulo II. Coordinación de Operaciones
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE MARZO DE 2016)</small>
+
+#### Sección Primera. Atribuciones
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Atribuciones del Coordinador de Operaciones
+
+###### Artículo 22 Bis.
+
+El Coordinador de Operaciones, además de las atribuciones genéricas, tendrá las siguientes:
+
+I. Coordinar, evaluar y dar seguimiento al programa operativo anual en las unidades y centros de capacitación del IECA;
+
+II. Promover y coordinar la investigación de nuevas tendencias y necesidades de capacitación en el Estado en congruencia con el Programa de Gobierno, el plan de desarrollo del IECA y con el programa operativo anual;
+
+III. Poner a consideración de la Dirección General la celebración de acuerdos y convenios con organizaciones públicas y privadas que potencien los servicios de capacitación del IECA;
+
+IV. Diseñar estrategias de capacitación que atiendan a las necesidades en el estado de Guanajuato, con base en el estudio de mercado realizado por la Dirección de Vinculación y Comunicación;
+
+V. Dar seguimiento al cumplimiento de los acuerdos que deriven de las sesiones de la Junta Directiva para el logro de objetivos y estrategias del IECA, y que sean competencia de la Coordinación de Operaciones o de las unidades de capacitación;
+
+VI. Proponer a la Dirección General, la adquisición de nuevas tecnologías y equipamiento acordes a la demanda y requerimientos de la industria en el Estado, y que contribuyan al desarrollo del Estado;
+
+VII. Coordinar la operación y administración de los centros de capacitación, cuando así se estipule en los convenios que celebre el IECA con las empresas, organismos o instituciones de los sectores público y privado;
+
+VIII. Proponer a la Dirección General, los modelos y las metodologías de capacitación para su implementación en el IECA;
+
+IX. Coordinar, dar seguimiento y asegurar la correcta implementación en las unidades de capacitación del programa de seguridad e higiene interno así como del Programa de Autogestión en Seguridad y Salud en el Trabajo (PASST), de la Secretaría del Trabajo y Previsión Social, para que operen en el esquema de Institución Segura;
+
+X. Garantizar que los procesos y procedimientos de capacitación a cargo de las unidades de capacitación se efectúen conforme a las disposiciones establecidas por el IECA;
+
+XI. Propiciar la colaboración entre las diferentes unidades administrativas y las unidades de capacitación, para asegurar el cumplimiento de los compromisos del IECA en materia de capacitación;
+
+XII. Coordinar y dar seguimiento a las acciones derivadas de las revisiones gubernamentales, así como las que realicen despachos externos o cualquier instancia que tenga facultades de revisión sobre los programas de atención y unidades de la Coordinación de Operaciones, para solventar las observaciones recibidas en su caso; y
+
+XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Director General.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. REFORMADA Y REUBICADA, ANTES CAPÍTULO VI], P.O. 1 DE MARZO DE 2016)</small>
+
+#### Sección Segunda. Unidades de capacitación
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Definición
+
+###### Artículo 22 Ter.
+
+Las unidades de capacitación son los planteles donde se imparten los programas de capacitación, basados en normas técnicas laborales susceptibles de ser evaluadas en conocimiento, habilidades y destrezas.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Atribuciones de los Directores de plantel
+
+###### Artículo 22 Quáter.
+
+Al frente de cada unidad de capacitación estará un Director de plantel, el cual tendrá las siguientes atribuciones:
+
+I. Dirigir y coordinador (sic) las actividades de la unidad de capacitación que tiene a su cargo;
+
+II. Coordinar los programas y cursos de capacitación;
+
+III. Aplicar y difundir en su unidad de capacitación los lineamientos, políticas y normas en materia de capacitación;
+
+IV. Detectar y atender las necesidades de capacitación en su zona de influencia;
+
+V. Vigilar la ejecución de los programas de capacitación, e integrar la información de los servicios que ofrecen;
+
+VI. Diseñar e integrar guías de estudio de los programas de capacitación, como material de apoyo didáctico;
+
+VII. Resguardar los bienes muebles e inmuebles que tiene la unidad de capacitación y vigilar que su uso se realice conforme a las normas y lineamientos vigentes; y
+
+VIII. Administrar los procesos de control escolar.
+
+La creación y número de las unidades de capacitación existentes en el Estado, atenderá a los requisitos establecidos en el artículo 21 del Decreto de Creación.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE MARZO DE 2016)</small>
+
+#### Sección Tercera. Centros de capacitación
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Administración y operación
+
+###### Artículo 22 Quinquies.
+
+El IECA podrá utilizar espacios o recintos específicos, distintos a los de sus unidades de capacitación, para impartir la capacitación convenida con las empresas, organismos o instituciones de los sectores público y privado.
+
+La administración y operación de estos centros de capacitación será determinada de común acuerdo por las partes, en los instrumentos contractuales que celebren al efecto, y con autorización previa de la Junta Directiva. Cuando se estipule que estas actividades le corresponderán al IECA, será por conducto de la Coordinación de Operaciones.
+
+(REUBICADO Y REFORMADO [N. DE E. ANTES CAPÍTULO II], P.O. 1 DE MARZO DE 2016)
+
+### Capítulo III. Dirección de Administración y Finanzas
 
 Atribuciones del Director de Administración y Finanzas
-
-### Capítulo III. Dirección de Planeación y Evaluación
-
-Atribuciones del Director de Planeación y Evaluación
 
 ###### Artículo 23.
 
 El Director de Administración y Finanzas, además de las atribuciones genéricas, tendrá las siguientes:
 
-l. Planear y dirigir el desarrollo de las actividades relativas al manejo de recursos humanos, materiales, financieros y los servicios generales;
+I. Planear y dirigir el desarrollo de las actividades relativas al manejo de recursos humanos, materiales, financieros y los servicios generales;
 
 II. Coordinar la información que contendrá el anteproyecto del presupuesto de egresos;
 
@@ -433,15 +553,21 @@ V. Instrumentar sistemas de control presupuestal y contabilidad de las operacion
 
 VI. Proponer nuevas fuentes de financiamiento que apoyen el desarrollo de los programas y proyectos estratégicos;
 
-VII. Formular el Programa de Adquisición de Bienes y Contratación de Servicios, así como organizar y dirigir la contratación de los mismos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VII. Formular el programa de adquisición de bienes y contratación de servicios, así como organizar y dirigir la contratación de los mismos, en los términos de la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 VIII. Controlar, mantener y actualizar el inventario de los bienes muebles e inmuebles patrimonio del IECA; y
 
-IX. Elaborar el programa de mantenimiento a los bienes muebles e inmuebles, propiedad del IECA en coordinación con los directores de las Unidades de Capacitación.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-### Capítulo IV. Dirección de Vinculación y Comunicación
+IX. Elaborar el programa de mantenimiento de los bienes muebles e inmuebles, patrimonio del IECA, en acuerdo con el Coordinador de Operaciones y los directores de las unidades de capacitación.
 
-Atribuciones del Director de Vinculación y Comunicación
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 1 DE MARZO DE 2016)
+
+### Capítulo IV. Dirección de Planeación y Evaluación
+
+Atribuciones del Director de Planeación y Evaluación
 
 ###### Artículo 24.
 
@@ -449,11 +575,13 @@ El Director de Planeación y Evaluación, además de las atribuciones genéricas
 
 I. Formular la planeación, programación y evaluación para el crecimiento del IECA;
 
-II. Coordinar el desarrollo de estudios de factibilidad tendientes a instrumentar programas de capacitación para el trabajo;
+II. (DEROGADA, P.O. 1 DE MARZO DE 2016)
 
 III. Integrar el Programa Operativo Anual;
 
-IV. Proponer lineamientos para la formulación e implantación del Plan de Desarrollo Institucional conforme al Plan Nacional de Desarrollo y al Plan de Gobierno del Estado, así como evaluar los resultados;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+IV. Proponer lineamientos para la formulación e implantación del plan de desarrollo institucional conforme al Plan Nacional de Desarrollo y el Programa de Gobierno del Estado, así como evaluar los resultados;
 
 V. Administrar el sistema de control escolar y de información estadística;
 
@@ -461,11 +589,15 @@ VI. Promover, difundir e instrumentar programas de simplificación administrativ
 
 VII. Evaluar los planes, programas y proyectos estratégicos y dar seguimiento a las metas; y
 
-VIII. Elaborar con las demás direcciones cuando corresponda, el diagnóstico de necesidades de construcción y equipamiento de espacios de capacitación.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-### Capítulo V. Dirección Técnica Académica
+VIII. Elaborar con la Coordinación de Operaciones y las demás direcciones cuando corresponda, el diagnóstico de necesidades de construcción y equipamiento de espacios de capacitación.
 
-Atribuciones del Director Técnico Académico
+(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 1 DE MARZO DE 2016)
+
+### Capítulo V. Dirección de Vinculación y Comunicación
+
+Atribuciones del Director de Vinculación y Comunicación
 
 ###### Artículo 25.
 
@@ -481,29 +613,41 @@ IV. Vincular la integración de los egresados del IECA a las bolsas de trabajo;
 
 V. Diseñar y operar el Programa de imagen y promoción institucional;
 
-VI. Difundir los programas, campañas y eventos que se implementen;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VI. Difundir los programas, campañas y eventos que se implementen, con apego a las directrices y políticas emitidas por la Coordinación General de Comunicación Social del Gobierno del Estado;
 
 VII. Establecer, coordinar y mantener relaciones con los representantes de los medios de comunicación;
 
 VIII. Validar la información que contendrá la página web del IECA y las redes sociales en las cuales se difundan los servicios que ofrezca el IECA; y
 
-IX. Realizar sondeos de opinión para conocer las expectativas y necesidades de los usuarios sobre la capacitación laboral.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-### Capítulo VI. Unidades de Capacitación
+IX. Realizar los procesos de encuestas, sondeos de opinión o estudios de mercado para conocer las expectativas y necesidades de los usuarios sobre la capacitación laboral.
 
-Atribuciones de los Directores de Planteles de las Unidades de Capacitación
+(REUBICADO [N. DE E. ANTES CAPÍTULO V], P.O. 1 DE MARZO DE 2016)
+
+### Capítulo VI. Dirección Técnica Académica
+
+Atribuciones del Director Técnico Académico
 
 ###### Artículo 26.
 
 El Director Técnico Académico, además de las atribuciones genéricas, tendrá las siguientes:
 
-l. Dirigir y administrar los planes, programas y proyectos de capacitación con los que cuenta el IECA;
+I. Dirigir y administrar los planes, programas y proyectos de capacitación con los que cuenta el IECA;
 
-II. Desarrollar programas de capacitación que se demanden en el Estado;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-III. Autorizar los cursos que se imparten en las unidades de capacitación;
+II. Desarrollar programas de capacitación, con base en las estrategias diseñadas por la Coordinación de Operaciones;
 
-IV. Supervisar a las Unidades de Capacitación en el desarrollo de los programas, métodos, materiales didácticos y normas pedagógicas, con base en las normas establecidas;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+III. Autorizar los cursos que se imparten en las unidades y los centros de capacitación;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+IV. Supervisar a las unidades y centros de capacitación en el desarrollo de los programas, métodos, materiales didácticos y normas pedagógicas, con base en las normas establecidas;
 
 V. Promover en coordinación con los Directores de las Unidades de Capacitación la integración y funcionamiento de Academias;
 
@@ -513,27 +657,7 @@ VII. Integrar cuando así se requiera, los Subcomités Mixtos de Planeación y E
 
 ###### Artículo 27.
 
-Las unidades de capacitación son los planteles donde se imparten los programas de capacitación basados en normas técnicas laborales susceptibles de ser evaluadas, en conocimiento, habilidades y destrezas.
-
-Al frente de cada Unidad de Capacitación estará un Director de Plantel, el cual tendrá las siguientes atribuciones:
-
-I. Dirigir y coordinador (sic) las actividades de la unidad de capacitación que tiene a su cargo;
-
-II. Coordinar los programas y cursos de capacitación;
-
-III. Aplicar y difundir los lineamientos, políticas y normas en materia de capacitación en su unidad de capacitación;
-
-IV. Detectar y atender las necesidades de capacitación en la zona de influencia de la unidad de capacitación;
-
-V. Vigilar la ejecución de los programas de capacitación, e integrar la información de los servicios que ofrecen;
-
-VI. Diseñar e integrar guías de estudio de los programas de capacitación como material de apoyo didáctico;
-
-VII. Resguardar los bienes muebles e inmuebles que tiene la unidad de capacitación y vigilar que su uso se realice conforme a las normas y lineamientos vigentes; y
-
-VIII. Administrar los procesos de control escolar.
-
-La creación y número de las Unidades de Capacitación existentes en el Estado, atenderá a los requisitos establecidos en el artículo 21 del Decreto de Creación.
+(DEROGADO, P.O. 1 DE MARZO DE 2016)
 
 ### Capítulo VII. Contraloría Interna
 
@@ -549,11 +673,17 @@ Atribuciones de la Contraloría Interna
 
 El Contralor Interno tendrá, además de las atribuciones previstas en el artículo 18 del Decreto de Creación, las siguientes:
 
-I. Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación, informando de tal circunstancia a la Junta Directiva;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-II. Ejecutar el programa anual de auditoría aprobado por el Titular de la Secretaría de la Gestión Pública;
+I. Elaborar el programa anual de auditoría y remitirlo al titular de la Secretaría de la Transparencia y Rendición de Cuentas para su aprobación, informando de ello a la Junta Directiva;
 
-III. Coordinar la ejecución de sus operaciones con las unidades administrativas del IECA, de acuerdo a los lineamientos que emita la Secretaría de la Gestión Pública;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+II. Ejecutar el programa anual de auditoría aprobado por el titular de la Secretaría de la Transparencia y Rendición de Cuentas;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+III. Coordinar la ejecución de sus operaciones con las unidades administrativas del IECA, de acuerdo a los lineamientos que emita la Secretaría de la Transparencia y Rendición de Cuentas;
 
 IV. Vigilar que las unidades administrativas se apeguen a las disposiciones legales aplicables en el desarrollo de sus funciones;
 
@@ -561,15 +691,31 @@ V. Practicar auditorías a las unidades administrativas, con el fin de verificar
 
 VI. Revisar, analizar y verificar los estados financieros, así como evaluar el ejercicio de su presupuesto asignado, para establecer indicadores de eficiencia, efectividad y economía con relación a sus programas, metas y objetivos;
 
-VII. Recibir las quejas y denuncias que se interpongan en contra de los servidores públicos del IECA y turnar las mismas ante las autoridades competentes, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-VIII. Brindar asesoría en los procesos de adjudicación en materia de adquisiciones, en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
+VII. Recibir las quejas y denuncias que se interpongan en contra de los servidores públicos del IECA y en su caso, turnarlas a la Secretaría de la Transparencia y Rendición de Cuentas, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
 
-IX. Informar trimestralmente a la Junta Directiva y a la Secretaría de la Gestión Pública del desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-X. Desarrollar los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones practicadas a la gestión del IECA; y
+VIII. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos de la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
-XI. Fiscalizar la aplicación de los recursos del IECA derivados de los acuerdos y convenios respectivos.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+IX. Informar trimestralmente sobre el desarrollo de sus funciones a la Junta Directiva y a la Secretaría de la Transparencia y Rendición de Cuentas;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+X. Desarrollar los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones practicadas a la gestión del IECA;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+
+XI. Participar en los procesos de entrega recepción internos del IECA, de conformidad con los ordenamientos jurídicos aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+
+XII. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad de los servicios que preste el IECA; y
+
+XIII. Fiscalizar la aplicación de los recursos del IECA derivados de los acuerdos y convenios respectivos.
 
 ## Título Sexto. Comisiones, Comités y Subcomités
 
@@ -609,11 +755,13 @@ La organización, funcionamiento y cargos de quienes participen en las comisione
 
 ### Capítulo I. Suplencias y Licencias
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
 Suplencias del Director General
 
 ###### Artículo 35.
 
-El Director General será suplido en sus ausencias temporales menores a 30 treinta días por el Director de Área que designe, en ausencias mayores a este término, el Presidente designará al sustituto en tanto se nombra al Director General, de acuerdo a lo establecido en el Decreto de Creación y el artículo 13 del Reglamento.
+El Director General será suplido en sus ausencias temporales menores a treinta días por el Coordinador de Operaciones o el Director de Área que designe. En ausencias mayores a este término, el Presidente designará al sustituto en tanto se nombra al Director General, de acuerdo a lo establecido en el Decreto de Creación y el artículo 13 del Reglamento.
 
 Suplencias de los servidores públicos del IECA
 
@@ -652,3 +800,13 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 RAMÓN ALFARO GÓMEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 145, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CAPACITACIÓN”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
