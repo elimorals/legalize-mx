@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2015-07-07"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -399,11 +399,11 @@ SUJETOS DE RESPONSABILIDADES Y OBLIGACIONES DEL SERVIDOR PUBLICO.
 
 Incurren en responsabilidad administrativa los servidores públicos a que se refiere el Artículo 2o. de ésta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 47.
 
-Todo servidor público tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficacia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que se incurra, y sin perjuicio de sus derechos laborales:
+Todo servidor público tendrá las siguientes obligaciones para salvaguardar los Derechos Humanos, la legalidad, honradez, lealtad, imparcialidad y eficacia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que se incurra, y sin perjuicio de sus derechos laborales:
 
 I.- Cumplir con la máxima diligencia, el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
 
@@ -469,13 +469,17 @@ XXIII.- Atender a los llamados del Congreso del Estado para comparecer a explica
 
 XXIV.- Cumplir en tiempo y forma los mandatos del Instituto Nacional Electoral y cualquiera de sus órganos, conforme lo establezca la legislación electoral aplicable, proporcionarles de manera oportuna y veraz la información que les sea solicitada y prestarles el auxilio y colaboración que les sea requerido por dichas autoridades electorales;
 
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+XXV.- Aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+
+XXVI.- Capacitarse en materia de Derechos Humanos; y
+
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-XXV.- Aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos; y
-
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
-
-XXVI.- Las demás que le impongan las leyes y reglamentos.
+XXVII.- Las demás que le impongan las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -1028,3 +1032,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-925, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN XXV Y SE ADICIONA UNA FRACCIÓN XXVI, RECORRIÉNDOSE EN SU ORDEN NATURAL LA CONSECUTIVA DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
