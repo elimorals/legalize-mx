@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-88981"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2013-04-08"
+last_updated: "2016-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "COL"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO, DEL DECRETO 372, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL DÉCIMO PRIMERO TRANSITORIO DE LA PRESENTE LEY, TODO LO QUE SE REFIERA AL NUEVO SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL, ENTRARÁ EN VIGOR A PARTIR DEL 03 DE DICIEMBRE DEL 2012.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 11 de agosto de 2012.
 
@@ -318,6 +320,10 @@ XXXIII. Decretar las correcciones disciplinarias y medidas de apremio previstas 
 XXXIV. Imponer las medidas de apremio que procedan para hacer cumplir sus determinaciones; y
 
 XXXV. Las demás atribuciones que ésta Ley y otros ordenamientos le asignen.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Para el cumplimiento de lo señalado en el presente artículo, el Juez de Ejecución tendrá la obligación de verificar, de manera periódica o cuando menos cada seis meses, que las instituciones designadas para la ejecución material de las penas y medidas de seguridad se sujeten y cumplan con los contenidos de esta Ley y demás disposiciones jurídicas en la materia.
 
 ###### Artículo 15.
 
@@ -661,19 +667,23 @@ I. Si el sentenciado obtuvo durante el trámite del procedimiento el beneficio d
 
 Si fuese garantía hipotecaría, se realizará el trámite correspondiente de remate, en términos de lo previsto por el Código de Procedimientos Civiles en el Estado, corriendo los gastos de los trámites a cargo de la víctima o beneficiarios según proceda, los que le serán cubiertos en caso de que el remate arroje remanente de dinero, previa comprobación de los mismos. El resto le será entregado al garante.
 
-Si se otorgó póliza de garantía de compañía autorizada para ello, iniciará el trámite previsto por la Ley Federal de Instituciones de Fianzas;
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
 
 II. Si se ordenó el embargo precautorio de bienes durante el procedimiento, se procederá a su remate en términos de lo previsto por el Código de Procedimientos Civiles en el Estado, en la inteligencia de que los gastos del trámite correrán por parte de los beneficiarios de esta pena, los que le serán cubiertos en caso de que el remate arroje remanente de dinero, previo acreditamiento de los mismos. El resto le será entregado al ejecutado; también podrá realizarse embargo de bienes durante la ejecución para lograr el pago, y realizar su remate en los términos establecidos en esta fracción;
 
-III. En caso de que no se haya iniciado el incidente de reparación del daño para lograr la garantía a que se refiere la Fracción anterior, se procederá en términos de lo previsto por el Código Fiscal del Estado, en lo relativo al procedimiento administrativo de ejecución (económico coactivo), quedando su trámite a cargo del personal de la Secretaría de Finanzas y Administración del Estado en los términos de la legislación aplicable; dependencia que entregará lo recaudado al Juez de Ejecución para que éste a su vez haga entrega de los montos a la víctima u ofendido.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+III. Si se otorgó garantía a través de una póliza de fianza expedida por compañía autorizada, el juez de ejecución solicitará a la Secretaria de Planeación y Finanzas, que proceda a requerir de pago a la institución de fianzas correspondiente, en los términos de las disposiciones que resulten aplicables; dependencia que entregará lo recaudado a la víctima u ofendido, previa autorización del juez de ejecución;
 
 IV. Tratándose del delito de Despojo, cuando la autoridad judicial haya ordenado la restitución del bien inmueble a favor de la víctima u ofendido, el Juez de Ejecución, una vez que reciba la sentencia ejecutoriada, ordenará la comparecencia del sentenciado y lo apercibirá para que en un plazo de tres días, haga entrega voluntaria del inmueble.
 
 En caso de negativa a devolverlo o incomparecencia injustificada habiendo sido legalmente notificado, el Juez de Ejecución ordenará se ponga en posesión material al ofendido o su representante, utilizando la fuerza pública necesaria para el cumplimiento de la sentencia.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
 ###### Artículo 52.
 
-Si quienes tengan derecho a la reparación del daño renunciaren a la misma, el importe de ésta quedará a favor del Estado, depositándose en el Fondo Auxiliar para la Administración de Justicia del Poder Judicial del Estado.
+Si quienes tengan derecho a la reparación del daño renunciaren al mismo, el importe de ésta quedará a favor del Estado, depositándose al erario dentro del fondo destinado para la Atención a Víctimas, siempre y cuando no existan otros ofendidos.
 
 ###### Artículo 53.
 
@@ -727,7 +737,9 @@ Las autoridades a que se refiere el artículo anterior durante la ejecución de 
 
 Si de la sentencia que ha causado estado se advierte que se impuso amonestación pública o privada y, de las constancias no se advierta que ya se haya efectuado la misma al reo al momento de notificársele el fallo definitivo por el actuario del juzgado de la causa, el Juez de Ejecución, convocará a una audiencia, citando a los intervinientes del proceso de ejecución, en la que amonestará al sentenciado explicándole las consecuencias del delito que cometió, exhortándolo a la enmienda y advirtiéndole que se le impondrá una sanción mayor si reincidiere.
 
-#### SECCIÓN OCTAVA. TRABAJO A FAVOR DE LA COMUNIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2016)</small>
+
+#### SECCIÓN OCTAVA. TRABAJO A FAVOR DE LA VÍCTIMA, DEL OFENDIDO O DE LA COMUNIDAD
 
 ###### Artículo 60.
 
@@ -760,6 +772,28 @@ Bajo ningún motivo el trabajo a favor de la comunidad atentará contra la digni
 ###### Artículo 66.
 
 El Ministerio público, la víctima u ofendido o toda persona que tenga interés jurídico, podrá acudir ante los jueces de ejecución para denunciar cualquier incumplimiento o forma de simulación que favorezca la impunidad del sentenciado, así como las desviaciones respecto de la ejecución del trabajo a favor de la comunidad.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+###### Artículo 66 Bis.
+
+Si se impone el trabajo obligatorio como pena para la reparación del daño, recibida la copia de la sentencia firme, el Juez de Ejecución procederá de la siguiente forma:
+
+I. Girará oficio al lugar en que labore el sentenciado, ordenando la realización de descuentos a su salario, suficientes para cubrir la reparación del daño a favor de la víctima u ofendido;
+
+II. Si la vía de descuentos resulta inviable, ordenará al sentenciado realizar los pagos en efectivo, depósitos bancarios o certificados de depósito ante la Autoridad Recaudadora.
+
+En este último caso, el juez ordenará la inmediata comparecencia de la víctima, ofendido o su representante, para hacerle entrega del certificado de ingresos, dejando constancia de ello en el expediente;
+
+III. El Juez de Ejecución determinará el tiempo y forma en que deban cubrirse los pagos parciales.
+
+En todos los casos, la entrega se constituirá a favor del beneficiario;
+
+IV. Las cantidades que no sean reclamadas en el plazo de un año, contado a partir de la fecha en que se le haya notificado personalmente al ofendido o víctima del depósito realizado, se integrarán directamente al Fondo para la atención a Víctimas del Delito; y
+
+V. Una vez cubierta en su totalidad la reparación del daño, concluirá el procedimiento de ejecución.
+
+El incumplimiento injustificado tendrá como efecto la ejecución de la pena de prisión.
 
 #### SECCIÓN NOVENA. SANCIONES A LAS PERSONAS MORALES
 
@@ -827,7 +861,7 @@ El sentenciado que haya sido diagnosticado como enfermo psiquiátrico, será ubi
 
 Los enfermos psiquiátricos podrán ser externados provisionalmente bajo supervisión de la autoridad ejecutora siempre que cuente con:
 
-I. La valoración psiquiátrica que establezca un adecuado nivel de rehabilitación y la existencia de un control psicofarmocológico;
+I. La valoración psiquiátrica que establezca un adecuado nivel de rehabilitación y la existencia de un control psicofarmocológico (sic);
 
 II. La valoración técnica que determine una adecuada vigilancia y contención familiar, así como un bajo riesgo social; y
 
@@ -937,9 +971,9 @@ Para el otorgamiento de esa figura, se requiere que el sentenciado acredite ante
 
 La de la pena por pago de la multa impuesta será por 1% de la pena de prisión fijada al sentenciado. Pago que de igual manera deberá acreditar ante el Juez de Ejecución, previo al otorgamiento de este beneficio.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
-Excepcionalmente, cuando la sentencia se trate de los delitos contra el patrimonio, contenidos en el Título Séptimo del Código Penal, la reducción de la pena por reparación del daño consistirá en la disminución de un tercio de la pena de prisión impuesta al sentenciado. Este beneficio se otorgará siempre que la reparación del daño se cumpla dentro de los seis meses siguientes a partir de que se haya dictado la ejecutoria de la sentencia.
+Quedan exceptuados a estos beneficios, las personas sentenciadas por los delitos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la Ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de salud. Asimismo, cuando la sentencia se trate de diverso delito distinto a los ya exceptuados, la reducción de la pena por reparación del daño consistirá en la disminución de un tercio de la pena de prisión impuesta al sentenciado, siempre y cuando la reparación del daño se cumpla dentro de los seis meses siguientes a partir de que se haya dictado la ejecutoria de la sentencia, de conformidad con el procedimiento para la concesión de beneficios que establece la presente Ley.
 
 ### CAPÍTULO III. DE LA LIBERTAD ANTICIPADA
 
@@ -1171,7 +1205,7 @@ La libertad definitiva que se otorgue conforme a este título, será comunicada 
 
 Al quedar el sentenciado en libertad definitiva, el Juez de Ejecución le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de su aptitud para el trabajo, en relación con la información proporcionada por la Dirección.
 
-###### Articulo 109.
+###### Artículo 109.
 
 Obtenida la libertad definitiva, el liberado podrá exigir que sean rehabilitados sus derechos civiles, políticos o de familia suspendidos con motivo del procedimiento penal y la sanción impuesta.
 
@@ -2213,7 +2247,7 @@ XV. A no ser objeto de violencia física o moral por parte de funcionarios o per
 
 XVI. A que las decisiones que se le apliquen referentes al régimen de tratamiento y beneficios penitenciarios se fundamenten en criterios técnicos y científicos; y
 
-XVII. A recibir un tratamiento individualizado que permita su reinserción a la sociedad; (sic)
+XVII. A recibir un tratamiento individualizado que permita su reinserción a la sociedad;
 
 ###### Artículo 206.
 
@@ -3040,3 +3074,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. R
 P.O. 8 DE ABRIL DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 59 POR EL QUE SE REFORMA EL ARTÍCULO 45; SE REFORMA EL SEGUNDO PÁRRAFO Y LAS FRACCIONES VII Y VIII, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y LA FRACCIÓN IX DEL ARTÍCULO 46; SE REFORMAN LA (SIC) FRACCIONES IV Y V, Y SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 47; SE ADICIONA UN CUARTO PÁRRAFO DEL ARTÍCULO 239; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA", EL 11 DE OCTUBRE DE 2014 MEDIANTE DECRETO 394, Y POR EL QUE SE REFORMA LA FRACCIÓN III DEL INCISO A) DEL ARTÍCULO 25; SE REFORMAN LOS ARTÍCULOS 32, 33, 34; SE REFORMAN EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 35; SE REFORMAN LOS ARTÍCULOS 36, 37, 38; SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 39; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 41; SE REFORMAN LOS ARTÍCULOS 43, 50, 52; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 55; Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 133, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 27 DE JULIO DE 1985”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
