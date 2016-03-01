@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2014-11-18"
+last_updated: "2016-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE ACUERDO AL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO SE ABROGA GRADUALMENTE, DE CONFORMIDAD A LAS FECHAS EN QUE SE VAYA INCORPORANDO EL NUEVO SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL EN EL PARTIDO JUDICIAL CORRESPONDIENTE, ACORDE A LAS REGIONES Y MODALIDADES REFERIDAS EN EL TRANSITORIO PRIMERO DE DICHO PERIÓDICO OFICIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -77,9 +77,11 @@ Igual se procederá cuando después de cometido el delito, entre en vigor una nu
 
 Si pronunciada la sentencia irrevocable entra en vigor una nueva Ley que dejando subsistente el tipo disminuya la sanción, se reducirá ésta en la proporción que guarden las establecidas en ambas leyes. Si cambia la naturaleza de la sanción y el condenado lo solicita, se substituirá la impuesta, por la señalada en la nueva Ley.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 5.
 
-Cuando una nueva Ley deje insubsistente un tipo, se ordenará la libertad de los procesados o sentenciados, sobreseyendo el procedimiento o dejando sin efectos la sentencia, con excepción de la reparación del daño, cuando se haya hecho efectiva. En caso contrario se dejarán a salvo los derechos del ofendido.
+Cuando una nueva Ley deje insubsistente un tipo, se ordenará la libertad de los procesados o sentenciados, sobreseyendo el procedimiento o dejando sin efectos la sentencia, con excepción de la reparación del daño, cuando se haya hecho efectiva y de forma integral. En caso contrario se dejarán a salvo los derechos del ofendido.
 
 ###### ARTICULO 6.
 
@@ -305,7 +307,9 @@ I.- Prisión;
 
 II.- Multa;
 
-III.- Reparación del daño;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+III.- Reparación del daño; que deberá ser de forma integral conforme al artículo 32 de este ordenamiento;
 
 IV.- Inhabilitación de derechos o funciones;
 
@@ -391,69 +395,129 @@ En caso de que el sentenciado no pudiere pagar la multa o solamente pudiese paga
 
 REPARACION DEL DAÑO.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 32.
 
-La reparación del daño comprende:
+La reparación del daño deberá ser plena, efectiva, adecuada y proporcional a la gravedad del daño causado, y a la afectación sufrida en su integridad de la víctima u ofendido y, según la naturaleza del delito de que se trate, comprenderá:
 
-I.- La restitución de la cosa obtenida por el delito con sus frutos y accesiones, y el pago, en su caso, de deterioros. Si la restitución no fuere posible, el pago del precio correspondiente en el momento de la comisión del delito, más los intereses legales hasta su total liquidación; y
+I.- En términos generales:
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+a).- El restablecimiento de las cosas al estado en que se encontraban antes de cometerse el delito;
 
-II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y la seguridad sexual, así como de violencia intrafamiliar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y en general el resarcimiento de los perjuicios ocasionados.
+b).- La restitución de la cosa obtenida como consecuencia de la comisión del delito, incluyendo sus frutos, accesorios e interés legal correspondiente y, si esto no fuese posible, el pago de su valor actualizado. Si se trata de bienes fungibles, el juzgador podrá condenar a la entrega de un objeto igual al que fuese materia del delito;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2013)</small>
+c).- La reparación del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito.
 
-III.- Tratándose del delito de Incumplimiento de las Obligaciones de Asistencia Familiar, y siempre que no se tenga otro medio para acreditar el daño causado, el deudor alimentista deberá pagar por concepto de reparación del daño por lo menos el equivalente a una unidad de salario mínimo vigente por día, desde el momento del incumplimiento y hasta que haya causado ejecutoria la sentencia definitiva, el cual se actualizará conforme al incremente de salario mínimo anual en la región.
+El monto de la indemnización será el suficiente para cubrir los gastos a que se refiere esta fracción, y será fijado considerando las circunstancias objetivas del delito, las subjetivas del delincuente y las repercusiones del delito sobre la víctima u ofendido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
+II. Tratándose de los delitos de violencia familiar, delitos contra la libertad sexual, homicidios y lesiones que sean con violencia de género, así como el de feminicidio, se incluirá además:
+
+a) El restablecimiento de su honor, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
+
+b) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento, ante la imposibilidad de éste, la indemnización correspondiente, en términos del Código Nacional de Procedimientos Penales.
+
+La indemnización a que se refiere el párrafo anterior se cuantificará con base en diversos factores, como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, y demás datos relevantes que permitan realizar la cuantificación correspondiente, y
+
+c) El pago de la pérdida del ingreso económico o de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos menores de edad o discapacitados, cuando como consecuencia del delito sufrido, se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
+
+III.- Tratándose del delito de Incumplimiento de las Obligaciones de Asistencia Familiar, y siempre que no se tenga otro medio para acreditar el daño causado, el deudor alimentista deberá pagar por concepto de reparación del daño por lo menos el equivalente a una unidad de salario mínimo vigente por día, desde el momento del incumplimiento y hasta que haya causado ejecutoria la sentencia definitiva, el cual se actualizará conforme al incremento de salario mínimo anual en la región.
+
+Salvaguardando el interés superior del niño, la niña y los adolescentes, bajo el principio de máxima protección y compensación, la autoridad ministerial o judicial que conozca de la causa, deberá entregar provisionalmente al o la denunciante, previa solicitud, la caución que se haya depositado como garantía de reparación de daño con el objeto de cubrir las necesidades alimentarias en lato sensu de los menores ofendidos, hasta en tanto se dicte sentencia.
+
+De resultar sentencia condenatoria, la cantidad entregada al ofendido se tomará a cuenta del pago de reparación del daño integral.
+
+Si la sentencia es absolutoria se le requerirá al ofendido o denunciante para que realice la devolución del dinero que se le entregó como pago de reparación del daño.
+
+Si la condena de reparación del daño fijada por el juez es menor a la cantidad que se haya entregado al ofendido o la denunciante, al sentenciado se le requerirá para que cumpla con la cantidad total que le fue fijada por el juez, para cubrir en su totalidad el pago de la reparación del daño.
+
+Si en la condena es por una cantidad mayor a la entregada, se tendrá previamente como pago parcial del pago de la reparación del daño.
+
+IV. Cuando el delito sea cometido por servidores públicos, en ejercicio de sus funciones, se deberá manifestar una disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición.
+
+Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 33.
 
-La reparación del daño que deba ser hecha por el delincuente tiene el carácter de pena pública y será exigida de oficio por el Ministerio Público. Cuando no pueda o no quiera recibirla la víctima, no existan otros ofendidos ni pagos exigibles por juicios de otra materia por los mismos hechos, se condenará a pagar la cantidad de reparación del daño a cubrir al erario, dentro de un fondo destinado a la prevención del delito.
+La reparación del daño que deba ser hecha por el sentenciado tiene el carácter de pena pública y será exigida de oficio por el Ministerio Público, quien deberá acreditar su procedencia y monto de la reparación de forma integral. Cuando no pueda o no quiera recibirla la víctima, no existan otros ofendidos ni pagos exigibles por juicios de otra materia por los mismos hechos, se condenará a pagar la cantidad de reparación del daño a cubrir al erario, dentro de un fondo destinado a la atención a víctimas.
+
+Si el indiciado o procesado se sustrae de la acción de la justicia, la autoridad Judicial una vez que haya agotado todos y cada una de los mecanismos para hacer comparecer al mismo, ordenará de Oficio y sin demora la entrega de la garantía depositada por concepto del pago de la reparación del daño al ofendido o la víctima.
 
 Cuando la reparación del daño sea exigible a terceros, tendrá el carácter de responsabilidad civil, y se podrá reclamar en forma conexa a la responsabilidad penal o por la vía civil.
 
+Quien se considere con derecho a la reparación del daño y no pueda obtenerla ante el órgano jurisdiccional penal en virtud de sobreseimiento o sentencia absolutoria, o del no ejercicio de la acción penal por el Ministerio Público, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 34.
 
-Los responsables del delito están obligados mancomunada y solidariamente a cubrir el importe de la reparación del daño.
+Los responsables del delito están obligados mancomunada y solidariamente a cubrir el importe de la reparación del daño de forma integral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 35.
 
-La reparación del daño será fijada de oficio por el juzgador atendiendo a las pruebas obtenidas en el proceso.
+La reparación del daño será fijada de oficio por el juzgador atendiendo a las pruebas obtenidas en el proceso para su reparación integral.
 
 En caso de lesiones y homicidio la cuantía de la reparación se determinará atendiendo a las disposiciones que sobre riesgos establece la Ley Federal del Trabajo.
 
-Si el ofendido no percibía utilidad o salario, o no pudiere determinarse éste, el monto de la reparación se fijará atendiendo al salario mínimo vigente en el lugar de residencia del mismo, en la fecha de comisión del delito, más los intereses del mismo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Si la víctima o el ofendido, no percibían utilidad o salario, o no pudiere determinarse éste, el monto de la reparación se fijará atendiendo al salario mínimo vigente en el lugar de residencia del mismo, en la fecha de comisión del delito, más los intereses del mismo.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 36.
 
-La indemnización del daño moral será fijada por el Juez a su prudente arbitrio, atendiendo a las pruebas aportadas en el proceso y tomando en cuenta la naturaleza del delito, las posibilidades económicas del obligado, y las demás circunstancias útiles para ello.
+La reparación del daño moral será fijada por la autoridad judicial, por la cantidad de cien unidades del salario que el obligado perciba o percibía hasta antes de su detención, en caso de no acreditarse el mismo, será de acuerdo al salario mínimo vigente en la fecha que cause ejecutoria la sentencia; tratándose de delitos cometidos por razón de género, la condena se aumentará a 200 unidades de salario, dicha condena anterior será independiente de la cuantía por la rehabilitación de las víctimas del delito, tomando en consideración las pruebas aportadas en el proceso, la naturaleza del delito y demás circunstancias útiles para ello, así como la afectación moral sufrida por la víctima incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de su salud.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 37.
 
 En orden de preferencia, tienen derecho a la reparación del daño:
 
-I.- El ofendido;
+I. La víctima;
 
-II.- El cónyuge o concubino y los hijos del ofendido;
+II. El ofendido;
 
-III.- Las personas que dependen o hayan dependido económicamente de él; y
+III. A falta o en ausencia de la víctima o del ofendido, tendrán derecho a que se les repare el daño, en ese orden, las siguientes personas:
 
-IV.- Los herederos del ofendido.
+a) El cónyuge o concubino y los hijos de la víctima;
+
+b) Las personas que dependen o hayan dependido económicamente de la víctima;
+
+c) Los ascendientes en primer grado o en su ausencia los de segundo grado; y
+
+d) Los herederos de la víctima.
+
+IV. Las agrupaciones, en los delitos que afectan intereses colectivos o difusos, siempre que su objeto se vincule directamente con esos intereses;
+
+V. Las comunidades y pueblos indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de sus miembros o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural; y
+
+VI. El Estado en los términos de la Ley para la Protección de Víctimas en el Estado de Colima.
+
+Se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva.
+
+Así mismo, se considera ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista como delito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 38.
 
-Están obligados a reparar el daño como terceros:
+Están obligados a reparar el daño como terceros los siguientes:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-I.- Los ascendientes, por los delitos de sus descendientes que se hallaren bajo su patria potestad. Los tutores y los custodios, por los delitos de los incapacitados bajo su autoridad o guarda;
+I.- Los tutores, Curadores o custodios por los ilícitos cometidos por los inimputables que estén bajo su autoridad;
 
 II.- Las personas físicas, las jurídicas y las que se ostenten con este último carácter, por los delitos que cometa cualquier persona vinculada con aquéllas por una relación laboral, con motivo y en el desempeño de sus servicios;
 
-III.- Las personas morales, o que se ostenten como tales, por los delitos de sus socios, gerentes o administradores y en general por quienes actúen en su representación, en los términos en que conforme a las leyes sean responsables por las obligaciones que los segundos contraigan.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
+
+III.- Las sociedades o agrupaciones, por los delitos que sus integrantes o representantes legales cometan en el ejercicio y con motivo de sus funciones y en cualquier caso.
 
 Se exceptúa de esta regla a la sociedad conyugal, pues cada cónyuge responderá con sus bienes propios, de la reparación del daño que origine su conducta delictiva;
 
@@ -473,15 +537,23 @@ VI.- Cualquier institución, asociación, organización o agrupación de caráct
 
 La obligación de pagar el importe de la reparación del daño es preferente a cualesquier otra de las obligaciones personales que se hubiesen contraído con posterioridad a la comisión del delito.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Para garantizar la reparación del daño, si no estuviera asegurada por otros medios, el Juez a solicitud de la víctima, del ofendido o del Ministerio Público, puede ordenar, además del embargo precautorio de bienes, la entrega de los mismos, a favor de la víctima u ofendido, siempre que se haya demostrado la propiedad o posesión, quedando como depositario bajo apercibimiento de restitución en caso de que se dicte sentencia absolutoria.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, podrá subsidiariamente proporcionar a la víctima la atención integral, en los términos de la Ley para la Protección de Víctimas en el Estado de Colima, y demás ordenamientos aplicables.
+
 ###### ARTICULO 40.
 
 La reparación del daño será hecha sin afectar los derechos sobre alimentos de las personas que dependan económicamente del obligado.
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 41.
 
-El ejercicio de la acción penal lleva implícito el pedimento de aseguramiento de bienes. La formulación de conclusiones acusatorias también lleva implícita solicitud de condena al pago de la reparación del daño.
+El ejercicio de la acción penal lleva implícito el pedimento de aseguramiento de bienes. La formulación de conclusiones acusatorias también lleva implícita la solicitud de condena al pago de la reparación del daño de forma integral.
 
 Tratándose de los daños causados culposamente, por vehículos de cualquier clase, éstos quedarán afectos a la reparación.
 
@@ -493,9 +565,11 @@ Si no se logra hacer efectivo el importe de la reparación del daño y el de la 
 
 La reparación del daño se cubrirá con los bienes del responsable y subsidiariamente con el importe de la caución que otorgue para obtener su libertad provisional, o el beneficio de la suspensión condicional. En tratándose de cauciones otorgadas por terceros, éstas serán afectadas en la forma antes dicha, sólo en el caso de que procediere su pérdida en favor del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 43.
 
-La reparación del daño se hará efectiva por el Juez, conforme a las disposiciones que para la ejecución de la sentencia señale el Código de Procedimientos Penales.
+La reparación del daño se hará efectiva por el Juez, conforme a las disposiciones que para la ejecución de la sentencia señale el Código de Procedimientos Penales, la Ley de Ejecución de Penas y medidas de seguridad para el Estado de Colima y la ley de atención y protección a víctimas del Estado de Colima.
 
 ### CAPITULO V.
 
@@ -541,11 +615,11 @@ En los casos que así se establezca, se podrá decretar el aseguramiento de bien
 
 Se entenderá por créditos preferentes, los constituidos con anterioridad al aseguramiento.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 50.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán cuando el delito sea doloso o preterintencional; y si pertenecen a un tercero, se decomisarán siempre que éste tenga conocimiento de su utilización para la realización del delito.
+Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito y sean propiedad del inculpado o de un tercero obligado a la reparación, se asegurarán de oficio por el Ministerio Público o por la autoridad judicial para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento si los propietarios otorgan garantía en cualquiera de las modalidades que la ley señala para cubrir ese pago. En el caso de vehículos automotores únicamente se asegurarán los vehículos que se encuentren relacionados en delitos graves que ameriten prisión preventiva oficiosa establecida en la Constitución Política de los Estados Unidos Mexicanos y los destinados al transporte público.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1995)</small>
 
@@ -557,11 +631,11 @@ Cuando no conste el nombre o domicilio cierto del interesado, se le notificará 
 
 En el caso de bienes perecederos o de costosa conservación que se encuentren a disposición de la autoridad competente, se procederá a su venta inmediata, al precio que rija en el mercado y el producto se depositará a disposición de quien tenga derecho al mismo, actuándose en la forma indicada en los párrafos anteriores respecto a la notificación y plazos señalados, y si transcurridos éstos, el producto no ha sido recogido, se aplicará para los fines señalados en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 52.
 
-Respecto de los instrumentos, bienes, objetos y productos a que se refieren los artículos anteriores, el Ejecutivo del Estado determinará su destino, según su utilidad para la atención terapéutica individual o familiar de las víctimas de los delitos, especialmente de los de violencia intrafamiliar, fondo que será administrado por el Sistema Estatal para el Desarrollo Integral de la Familia, D.I.F.
+Respecto de los instrumentos, bienes, objetos y productos a que se refieren los artículos anteriores, el Ejecutivo del Estado determinará su destino, según su utilidad, para la atención terapéutica individual o familiar de las víctimas de los delitos depositándose al erario dentro del fondo destinado para la Atención a Víctimas.
 
 ### CAPITULO VIII.
 
@@ -603,7 +677,9 @@ I.- La prohibición de realizar determinados negocios y operaciones, mismos que 
 
 II.- La extinción que consistirá en la disolución y liquidación de la persona moral, que no podrá volverse a constituir aún en forma encubierta. En este caso, el juez ordenará que se anote la parte pertinente de la sentencia en los registros en que la persona moral se encuentre inscrita, y el registrador, procederá a cancelar su inscripción;
 
-III.- Reparación del daño, publicación de sentencia y decomiso, para los cuales se observarán las prescripciones ya establecidas respecto a las personas físicas en lo que sea posible aplicarlas.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+III.- Reparación del daño de forma integral, publicación de sentencia y decomiso, para los cuales se observarán las prescripciones ya establecidas respecto a las personas físicas en lo que sea posible aplicarlas.
 
 ### CAPITULO XI.
 
@@ -1440,6 +1516,10 @@ Comete el delito de enriquecimiento ilegítimo el servidor público que no acred
 Al autor de este delito se le impondrá de uno a nueve años de prisión, multa hasta por cien unidades e inhabilitación hasta por el mismo término de la sanción corporal.
 
 Se requerirá la declaración previa de la contraloría Estatal, sobre la existencia del enriquecimiento ilegítimo como un requisito de procedibilidad.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Sin perjuicio de las sanciones anteriores, al servidor público que incurra en enriquecimiento ilícito ilegítimo, se le impondrán además el decomiso de los instrumentos, objetos o productos del delito.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -4140,3 +4220,9 @@ Respecto a las disposiciones contenidas en el presente Decreto, en caso de que n
 P.O. 18 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 59 POR EL QUE SE REFORMA EL ARTÍCULO 45; SE REFORMA EL SEGUNDO PÁRRAFO Y LAS FRACCIONES VII Y VIII, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y LA FRACCIÓN IX DEL ARTÍCULO 46; SE REFORMAN LA FRACCIONES IV Y V, Y SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 47; SE ADICIONA UN CUARTO PÁRRAFO DEL ARTÍCULO 239; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA", EL 11 DE OCTUBRE DE 2014 MEDIANTE DECRETO 394, Y POR EL QUE SE REFORMA LA FRACCIÓN III DEL INCISO A) DEL ARTÍCULO 25; SE REFORMAN LOS ARTÍCULOS 32, 33, 34; SE REFORMAN EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 35; SE REFORMAN LOS ARTÍCULOS 36, 37, 38; SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 39; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 41; SE REFORMAN LOS ARTÍCULOS 43, 50, 52; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 55; Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 133, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 27 DE JULIO DE 1985”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
