@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2016-02-29"
+last_updated: "2016-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -431,7 +431,9 @@ Publicidad
 
 Las actas de las Sesiones del Pleno del Tribunal serán públicas en los términos de las leyes de la materia.
 
-Las sesiones del Pleno del Tribunal y del Pleno de las Salas se videograbrarán, para lo cual se utilizarán las tecnologías necesarias para ello.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Las sesiones del Pleno del Tribunal y del Pleno de las Salas serán públicas, se videograbrarán (sic), y se trasmitirán (sic) en vivo, para lo cual se utilizarán las tecnologías necesarias. Con excepción de las sesiones donde se ventilen información y asuntos cuya publicidad prohíba las leyes respectivas.
 
 ###### Artículo 25.
 
@@ -651,13 +653,17 @@ La emisión de votos particulares deberá hacerse durante el engrose correspondi
 
 Atribuciones en materia Civil, Familiar y Mercantil
 
-Corresponde a los Magistrados que conozcan de las materias Civil, Familiar y Mercantil:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
+
+Corresponde a los Magistrados que conozcan de las materias Civil, Familiar y Mercantil de manera colegiada:
 
 I. Resolver los recursos de apelación, queja, revisión y cualquier otro que la Ley conceda contra los autos, sentencias y demás resoluciones dictadas por los Jueces, conforme a las leyes procesales aplicables;
 
 II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
 
-III. Conocer de las recusaciones de los Jueces y demás servidores públicos de la Sala, en el ámbito de su competencia, de las inconformidades derivadas de las excusas planteadas por los Jueces de la materia e integrantes de la Sala; o cuando dos o más Jueces se nieguen a conocer de determinado asunto;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+III. Conocer de las recusaciones de los Jueces y demás servidores públicos de la Sala, en el ámbito de su competencia;
 
 IV. Conocer de los asuntos en los que la Ley establezca la revisión de oficio;
 
@@ -693,7 +699,13 @@ V. Apercibir, amonestar o imponer multas de uno hasta doscientos días de salari
 
 VI. Remitir los asuntos que sean competencia del Pleno del Tribunal; y
 
-VII. Conocer de los demás asuntos que le encomienden las leyes, los reglamentos y Acuerdos Generales del Pleno del Tribunal.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VII. Conocer de los conflictos competenciales entre los órganos jurisdiccionales del fuero común del Estado, en términos de la legislación procesal de la materia; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VIII. Conocer de los demás asuntos que le encomienden las leyes, los reglamentos y acuerdos generales del Pleno del Tribunal.
 
 B. En el Sistema Tradicional conocer de:
 
@@ -709,19 +721,27 @@ V. Las apelaciones derivadas de los asuntos de su competencia en términos de lo
 
 C. En el Sistema Acusatorio conocer de:
 
-I. La apelación contra sentencias definitivas y aquellas que versen sobre el desistimiento de la acción penal por el Ministerio Público;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+I. La apelación contra sentencias definitivas en relación a aquellas consideraciones contenidas en la misma, distintas a la valoración de la prueba siempre y cuando no comprometan el principio de inmediación o bien, aquellos que impliquen una violación grave del debido proceso; las que pongan término al procedimiento o lo suspendan; la sentencia definitiva dictada en el procedimiento abreviado; y las que versen sobre desistimiento de la acción penal por el Ministerio Público;
 
 II. Los procedimientos de reconocimiento de inocencia y anulación de sentencia;
 
-III. Los recursos de apelación respecto de las hipótesis previstas en el Código Nacional de Procedimientos Penales;
+III. (DEROGADA, P.O. 1 DE MARZO DE 2016)
 
-IV. Las impugnaciones que se deriven de la Ley que establece el Sistema Integral de Justicia para Adolescentes;
+IV. (DEROGADA, P.O. 1 DE MARZO DE 2016)
 
-V. Las apelaciones derivadas de los asuntos de su competencia seguidos por delitos contra la salud, en los términos previstos por la Ley General de Salud;
+V. (DEROGADA, P.O. 1 DE MARZO DE 2016)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MARZO DE 2016)</small>
 
 VI. Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables; y
 
-VII. Las demás resoluciones penales, deberán resolverse de manera Unitaria al interior de las Salas en los términos de Ley.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VII. Los recursos de apelación respecto de las hipótesis previstas en el Código Nacional de Procedimientos Penales, distintas a las mencionadas en las fracciones I y II de este artículo, deberán resolverse de manera unitaria al interior de las Salas en los términos de Ley.
+
+Las mismas reglas para el conocimiento de los magistrados de manera colegiada o unitaria, se aplicarán, en el caso de impugnaciones que se deriven de la Ley que establece el Sistema Integral de Justicia para Adolescentes y de los asuntos de la competencia de las Salas, seguidos por delitos contra la salud, en los términos previstos por la Ley General de Salud.
 
 ###### Artículo 43.
 
@@ -2203,9 +2223,19 @@ XXI. Dar trámite a las promociones, exhortos, requisitorias, que ingresen a la 
 
 XXII. Tramitar los medios de impugnación que se hagan valer;
 
-XXIII. Atender los juicios de amparo que se promuevan en contra de las resoluciones emitidas por los Juzgados y Tribunales de Enjuiciamiento; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-XXIV. Ejercer las demás funciones que determine el Reglamento o le sean asignadas por el Jefe de Causas y Atención.
+XXIII. Atender los juicios de amparo que se promuevan en contra de las resoluciones emitidas por los Juzgados y Tribunales de Enjuiciamiento;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+
+XXIV. Elaborar los mandatos judiciales que se generan y ordenan en las audiencias, y expedir copias de las actuaciones escritas u orales en las correspondientes unidades de almacenamiento informático;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+
+XXV. Entregar los mandatos judiciales firmados por los Jueces Orales del sistema penal acusatorio, al notificador para su cumplimiento; y
+
+XXVI. Ejercer las demás funciones que determine el Reglamento o le sean asignadas por el Jefe de Causas y Atención.
 
 ###### Artículo 132.
 
@@ -2239,9 +2269,9 @@ II. Elaborar proyectos de acta mínima y auxiliar al Juez en la elaboración de 
 
 III. Capturar la información que se genera en audiencias, en el Sistema Informático de Gestión Judicial;
 
-IV. Elaborar los mandatos judiciales que se generan y ordenan en las audiencias;
+IV. (DEROGADA, P.O. 1 DE MARZO DE 2016)
 
-V. Entregar los mandatos judiciales firmados por los Jueces orales del Sistema Penal Acusatorio, al Auxiliar administrativo de Sala para su cumplimiento; y
+V. (DEROGADA, P.O. 1 DE MARZO DE 2016)
 
 VI. Las demás que determine el Reglamento y le encomienden el Coordinador Administrativo y los Jueces.
 
@@ -2283,7 +2313,9 @@ VI. Entregar al jefe inmediato la documentación relativa a las notificaciones, 
 
 VII. Entregar una relación diaria de audiencias a la Policía Procesal, a efecto de que dispongan los elementos necesarios para la seguridad del recinto y las salas, así como para el traslado de los detenidos;
 
-VIII. Dar aviso oportunamente a los intervinientes en un proceso penal sobre las determinaciones judiciales que se emitan dentro de los asuntos que les atañen; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VIII. Dar aviso oportunamente a los intervinientes en un proceso penal sobre las determinaciones judiciales que se emitan dentro de los asuntos que les atañen; así como entregar los mandatos judiciales firmados por los Jueces Orales del sistema penal acusatorio, que le sean turnados por el Secretario de Causas y Atención; y
 
 IX. Las demás que determinen los reglamentos o encomiende el Jefe de Causas y Atención.
 
@@ -2491,7 +2523,9 @@ El Auxiliar Administrativo de Sala cuenta con las siguientes atribuciones:
 
 I. Revisar que la Sala de Audiencias reúna las condiciones para el desarrollo de la misma;
 
-II. Corroborar la asistencia de las partes intervinientes en audiencia;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+II. Corroborar la asistencia de las partes intervinientes en audiencia; y recabar los datos generales de los presentes;
 
 III. Verificar que los intervinientes en la audiencia se encuentren ubicados en sus respectivos lugares;
 
@@ -2631,7 +2665,7 @@ VIII. Proporcionar información, con respecto a la celebración de las audiencia
 
 IX. Apoyar en las labores de notificación que se realicen dentro de la Sede Judicial;
 
-X. Recibir y entregar las unidades de almacenamiento informático de audiencias; y
+X. (DEROGADA, P.O. 1 DE MARZO DE 2016)
 
 XI. Las demás que establezca la presente Ley, los reglamentos, o determine el Pleno del Tribunal.
 
@@ -2739,7 +2773,9 @@ III. Muebles y valores depositados por cualquier motivo ante los tribunales Judi
 
 IV. El monto de la reparación del daño cuando la parte ofendida no lo reclame en los términos que fije la Ley de la materia;
 
-V. Los recursos autogenerables por concepto de Derechos por la expedición de las copias certificadas de las constancias o audiencias solicitadas por las partes;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+V. Los recursos autogenerables por concepto de Derechos;
 
 VI. Los recursos provenientes de los decomisos y de la extinción de dominio;
 
@@ -3555,7 +3591,9 @@ II. Los Jueces de Primera Instancia o Jueces de Menor Cuantía, respecto del per
 
 Denuncia
 
-En contra del probable infractor, se procederá de oficio o en virtud de queja o denuncia presentada por escrito ante el órgano instructor, en términos de lo que determine la presente Ley o los reglamentos.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
+En contra del probable infractor, se procederá de oficio o en virtud de queja o denuncia presentada por escrito por quienes funjan como partes dentro del juicio natural del que deriva la actuación que dio lugar a la falta administrativa, ante el órgano instructor, en términos de lo que determine la presente Ley o los reglamentos.
 
 Las denuncias que se formulen, deberán presentarse con elementos probatorios suficientes que permitan presumir la existencia de la infracción y la responsabilidad del servidor público denunciado.
 
@@ -4234,3 +4272,11 @@ P.O. 29 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65 POR EL QUE SE REFORMAN: EL ARTÍCULO SEGUNDO, FRACCIONES III Y VI, DEL DECRETO 575, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTGADO (SIC) DE COLIMA", EL DÍA 1° DE OCTUBRE DE 2015, POR EL QUE SE EMITE LA "DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO"; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, LAS FRACCIONES IV Y V, DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V, DE LA LEY PARA LA PROTECCIÓN A TESTIGOS Y SUJETOS INTERVINIENTES EN EL PROCEDIMIENTOS (SIC) PENAL; Y EL ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO, FRACCIONES III Y IV, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 57 POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 24; EL ARTÍCULO 41 PÁRRAFO SEGUNDO Y SU FRACCIÓN III; LA FRACCIÓN VII DEL APARTADO A DEL ARTÍCULO 42; LAS FRACCIONES I, VI Y VII DEL APARTADO C DEL ARTÍCULO 42; Y SE DEROGAN LAS FRACCIONES III A V DEL APARTADO C) DEL ARTÍCULO 42, Y SE ADICIONA UNA FRACCIÓN VIII DEL APARTADO A DEL ARTÍCULO 42; SE ADICIONAN DOS FRACCIONES, PASANDO LA ACTUAL FRACCIÓN XXIV, A SER LA XXVI, DEL ARTÍCULO 131; SE DEROGAN LAS FRACCIONES IV Y V DEL ARTÍCULO 133; SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 135; LA FRACCIÓN II DEL ARTÍCULO 143; SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 149; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 155; Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 217, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO.- El Poder Judicial del Estado de Colima deberá cumplir con el presente decreto dentro del plazo de 30 días a partir de su entrada en vigor.
