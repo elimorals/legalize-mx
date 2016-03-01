@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2016-02-29"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -597,29 +597,63 @@ En atención a las características del caso, el juez de ejecución podrá fijar
 
 El importe de la multa y la sanción económica impuestas se destinará, en primer lugar, a la reparación del daño ocasionado por el delito. En el caso de que ésta se haya cubierto o garantizado, el importe se destinará equitativamente al Fondo para la Atención a Víctimas del Delito y al Fondo Auxiliar para la Administración de la Justicia.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 45.
 
 Reparación del daño.
 
-La reparación del daño comprende, según la naturaleza del delito, lo siguiente:
+La reparación del daño deberá ser plena, efectiva, adecuada y proporcional a la gravedad del daño causado y a la afectación sufrida en su integridad de la víctima u ofendido y, según la naturaleza del delito de que se trate, comprenderá:
 
-I. El restablecimiento de las cosas al estado en que se encontraban antes de cometer el delito;
+I.- En términos generales:
 
-II. La restitución de la cosa obtenida por el delito, incluyendo sus frutos, accesorios e interés legal correspondiente y, si no fuese posible, el pago de su valor actualizado. Si se trata de bienes fungibles, el juzgador podrá condenar a la entrega de un objeto igual al que fuese materia del delito;
+a) El restablecimiento de las cosas al estado en que se encontraban antes de cometerse el delito;
 
-III. La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud psíquica y física de la víctima;
+b) La restitución de la cosa obtenida como consecuencia de la comisión del delito, incluyendo sus frutos, accesorios e interés legal correspondiente y, si esto no fuese posible, el pago de su valor actualizado. Si se trata de bienes fungibles, el juzgador podrá condenar a la entrega de un objeto igual al que fuese materia del delito;
 
-IV. El pago de salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión; y
+c) La reparación del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito.
 
-V. Tratándose del delito de incumplimiento de las obligaciones de asistencia familiar, y siempre que no se tenga otro medio para acreditar el daño causado, el deudor alimentista deberá pagar por concepto de reparación del daño por lo menos el equivalente a un día de salario mínimo vigente por día, desde el momento del incumplimiento y hasta que haya causado ejecutoria la sentencia definitiva, el cual se actualizará conforme al incremento de salario mínimo anual en la región.
+El monto de la indemnización será el suficiente para cubrir los gastos a que se refiere esta fracción, y será fijado considerando las circunstancias objetivas del delito, las subjetivas del delincuente y las repercusiones del delito sobre la víctima u ofendido.
+
+II.- Tratándose de los delitos de violencia familiar, delitos contra la libertad sexual, homicidios y lesiones que sean con violencia de género, así como el de feminicidio, se incluirá además:
+
+a) El restablecimiento de su honor, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
+
+b) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento, ante la imposibilidad de este, la indemnización correspondiente, en términos del Código Nacional de Procedimientos Penales.
+
+La indemnización a que se refiere el párrafo anterior se cuantificará con base en diversos factores como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, y demás datos relevantes que permitan realizar la cuantificación correspondiente, y
+
+c) El pago de la pérdida del ingreso económico o de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos menores de edad o discapacitados, cuando como consecuencia del delito sufrido, se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
+
+III.- Tratándose del delito de incumplimiento de las obligaciones de asistencia familiar, y siempre que no se tenga otro medio para acreditar el daño causado, el deudor alimentista deberá pagar por concepto de reparación del daño por lo menos el equivalente a un día de salario mínimo vigente por día, desde el momento del incumplimiento y hasta que haya causado ejecutoria la sentencia definitiva, el cual se actualizará conforme al incremento de salario mínimo anual en la región.
+
+Salvaguardando el interés superior del niño, la niña y los adolescentes, bajo el principio de máxima protección y compensación, la autoridad judicial que conozca de la causa, deberá entregar provisionalmente al o la denunciante, previa solicitud, la caución que se haya depositado como garantía de reparación de daño con el objeto de cubrir las necesidades alimentarias en lato sensu de los menores ofendidos, hasta en tanto se dicte sentencia.
+
+De resultar sentencia condenatoria, la cantidad entregada al ofendido se tomará a cuenta del pago de reparación del daño integral; en caso de que la misma, fuese absolutoria, se le requerirá al denunciante para que realice la devolución del dinero que se le entregó.
+
+Si la condena de reparación del daño fijada por el juez es menor a la cantidad que se haya entregado al o a la denunciante, al sentenciado se le requerirá a cumplir con la cantidad que le fue fijada por el juez, para cubrir en su totalidad el pago de la reparación del daño.
+
+Si la condena de reparación del daño es por una cantidad mayor a la entregada, se tendrá como pago parcial del pago de la reparación del daño.
+
+IV.- Cuando el delito sea cometido por servidores públicos, en ejercicio de sus funciones, se deberá manifestar una disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición.
+
+Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
 ###### ARTÍCULO 46.
 
 Reglas generales para su determinación.
 
-Para la debida reparación del daño se estará a lo dispuesto en las siguientes reglas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
+
+Para la debida reparación del daño se estará a lo dispuesto en el artículo anterior y en las siguientes reglas:
 
 I. La reparación del daño será fijada por el juez según el daño que sea preciso reparar y de acuerdo con los elementos obtenidos durante el proceso;
+
+(NOTA: EL 26 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE MARZO DE 2016, FECHA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+PARA GARANTIZAR LA REPARACIÓN DEL DAÑO, SI NO ESTUVIERA ASEGURADA POR OTROS MEDIOS, EL JUEZ A SOLICITUD DE LA VÍCTIMA, DEL OFENDIDO O DEL MINISTERIO PÚBLICO, PUEDE ORDENAR, ADEMÁS DEL EMBARGO PRECAUTORIO DE BIENES, A ENTREGA DE LOS MISMOS, A FAVOR DE LA VÍCTIMA U OFENDIDO, SIEMPRE QUE SE HAYA DEMOSTRADO LA PROPIEDAD O POSESIÓN, QUEDANDO COMO DEPOSITARIO BAJO APERCIBIMIENTO DE RESTITUCIÓN EN CASO DE QUE SE DICTE SENTENCIA ABSOLUTORIA;
 
 II. La obligación de reparar el daño es preferente al pago de cualquiera otra sanción pecuniaria u obligación contraída con posterioridad a la comisión del delito, salvo las referentes a alimentos y relaciones laborales;
 
@@ -631,9 +665,17 @@ V. Cuando la reparación del daño sea exigible a terceros, tendrá el carácter
 
 VI. Cuando el imputado se sustraiga a la acción de la justicia la garantía económica exhibida como medida cautelar se aplicaran al pago de la reparación del daño, en los términos de la legislación procesal. Al ordenarse que se hagan efectivas esas garantías, el Juez prevendrá a la autoridad ejecutora que ponga su importe a disposición del tribunal, para los efectos de este artículo;
 
-VII. Así mismo, quien se considere con derecho a la reparación del daño, que no pueda obtener ante la autoridad judicial en virtud del no ejercicio de la acción penal por parte del Ministerio Público, sobreseimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-VIII. Cuando sean varios los responsables del delito, éstos están obligados mancomunada y solidariamente a cubrir el importe de la reparación del daño.
+VII. Así mismo, quien se considere con derecho a la reparación del daño, que no pueda obtener ante la autoridad judicial en virtud del no ejercicio de la acción penal por parte del Ministerio Público, sobreseimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VIII. Cuando sean varios los responsables del delito, éstos están obligados mancomunada y solidariamente a cubrir el importe de la reparación del daño; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+
+IX. Cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, podrá subsidiariamente proporcionar a la víctima la atención integral en los términos de la Ley de Atención y Protección a Víctimas, y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 47.
 
@@ -655,9 +697,17 @@ c) Los ascendientes en primer grado o en su ausencia los de segundo grado;
 
 d) Los herederos de la víctima;
 
-IV. Las agrupaciones, en los delitos que afectan intereses colectivos o difusos, siempre que su objeto se vincule directamente con esos intereses; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-V. Las comunidades y pueblos indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de sus miembros o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
+IV. Las agrupaciones, en los delitos que afectan intereses colectivos o difusos, siempre que su objeto se vincule directamente con esos intereses;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+V. Las comunidades y pueblos indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de sus miembros o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+
+VI. El Estado en los términos de la Ley para la Protección de Víctimas en el Estado de Colima.
 
 Se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva.
 
@@ -2689,6 +2739,10 @@ Para determinar el enriquecimiento del servidor público, se tomarán en cuenta 
 
 Al autor de este delito se le impondrán de uno a nueve años de prisión, y multa por un importe equivalente de seiscientos a mil doscientos días de salario mínimo, y privación para desempeñar cualquier otro empleo o función pública si el monto a que ascienda el enriquecimiento ilícito no excede del equivalente a cuatro mil días de salarios mínimos. Cuando tal monto exceda de dicha cantidad se deberá imponer una pena de prisión de cinco a doce años, multa por un importe equivalente de mil a mil quinientos días de salario mínimos, y privación para desempeñar cualquier otro empleo o función pública.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Sin perjuicio de las sanciones anteriores, al servidor público que incurra en enriquecimiento ilícito, se le impondrá además el decomiso de los instrumentos, objetos o productos del delito.
+
 ### CAPÍTULO III. USO INDEBIDO DE CONDECORACIONES O UNIFORMES O USURPACIÓN DE PROFESIÓN
 
 ###### ARTÍCULO 240.
@@ -3310,3 +3364,9 @@ P.O. 29 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65 POR EL QUE SE REFORMAN: EL ARTÍCULO SEGUNDO, FRACCIONES III Y VI, DEL DECRETO 575, PUBLICADO EN EL PERIÓDICO OFICIAL “EL ESTGADO (SIC) DE COLIMA”, EL DÍA 1° DE OCTUBRE DE 2015, POR EL QUE SE EMITE LA “DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO”; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA; EL ARTÍCULO PRIMERO TRANSITORIO, LAS FRACCIONES IV Y V, DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES; EL ARTÍCULO PRIMERO TRANSITORIO, FRACCIONES IV Y V, DE LA LEY PARA LA PROTECCIÓN A TESTIGOS Y SUJETOS INTERVINIENTES EN EL PROCEDIMIENTOS (SIC) PENAL; Y EL ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO, FRACCIONES III Y IV, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA.”]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 59 POR EL QUE SE REFORMA EL ARTÍCULO 45; SE REFORMA EL SEGUNDO PÁRRAFO Y LAS FRACCIONES VII Y VIII, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I Y LA FRACCIÓN IX DEL ARTÍCULO 46; SE REFORMAN LA FRACCIONES IV Y V, Y SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 47; SE ADICIONA UN CUARTO PÁRRAFO DEL ARTÍCULO 239; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA", EL 11 DE OCTUBRE DE 2014 MEDIANTE DECRETO 394, Y POR EL QUE SE REFORMA LA FRACCIÓN III DEL INCISO A) DEL ARTÍCULO 25; SE REFORMAN LOS ARTÍCULOS 32, 33, 34; SE REFORMAN EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 35; SE REFORMAN LOS ARTÍCULOS 36, 37, 38; SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 39; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 41; SE REFORMAN LOS ARTÍCULOS 43, 50, 52; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 55; Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 133, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 27 DE JULIO DE 1985”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
