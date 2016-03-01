@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-comision-interinstitucional-estatal-para-93468
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-26"
-last_updated: "2013-03-26"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,230 +21,206 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA COMISION INTERINSTITUCIONAL ESTATAL PARA LA PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE JALISCO
 
-REGLAMENTO DE LAS COMISIONES MUNICIPALES TRIPARTITAS DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE LA COMISIÓN INTERINSTITUCIONAL ESTATAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
-Reglamento publicado en el Periódico Oficial del Estad de Baja California, el jueves 20 de septiembre de 1973.
+Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 26 de marzo de 2013.
 
-Milton Castellanos Everardo Gobernador Constitucional del Estado Libre y Soberano de Baja California a sus habitantes sabed:
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-R E G L A M E N T O :
+ACUERDO DEL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO.
 
-###### ARTICULO I.
+Guadalajara, Jalisco, a veintiuno de marzo de dos mil trece.
 
-Las Comisiones Municipales Tripartitas estarán integradas por:
+JORGE ARISTÓTELES SANDOVAL DÍAZ, Gobernador Constitucional del Estado de Jalisco, con fundamento en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; así como los artículos 36, 46, 50 fracciones I, X, XI, XX, XXII, y XXIV, de la Constitución Política del Estado; 1, 2, 3, 4 fracciones I, IV, V, VI, 6 fracciones I y VI, y 46 de la Ley Orgánica del Poder Ejecutivo; todos los ordenamientos del Estado de Jalisco y con base en las siguientes:
 
-a).- El Presidente Municipal, el Secretario General, Tesorero y Jefe de la Policía y Tránsito, pertenecientes a los Ayuntamientos de Mexicali, Tecate, Tijuana y Ensenada.
+CONSIDERACIONES .
 
-b).- Los representantes de los sectores empresarial, obrero y campesino, serán nombrados por las organizaciones que en los Municipios estén legalmente constituídas.
+Por lo anteriormente expuesto y fundado, tengo a bien expedir el presente
 
-###### ARTICULO II.
+ACUERDO
 
-Por cada representante propietario se nombrará un suplente, quien actuará en ausencia del representante propietario.
+ÚNICO. Se crea la Comisión Interinstitucional Estatal para la Prevención Social de la Violencia y la Delincuencia del Estado de Jalisco, como organismo estatal coordinador entre las dependencias federales, estatales y municipales en el diseño y ejecución de políticas públicas, programas y acciones en materia de prevención social de la violencia y la delincuencia, la cual se regirá conforme al siguiente:
 
-###### ARTICULO III.
+REGLAMENTO DE LA COMISIÓN INTERINSTITUCIONAL ESTATAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE JALISCO
 
-Los miembros de las Comisiones durarán en sus funciones por todo el tiempo que subsista su designación. Sus nombramientos podrán ser revocados libremente por quienes los hayan designado.
+###### Artículo 1°.
 
-###### ARTICULO IV.
+La Comisión Interinstitucional Estatal para la Prevención Social de la Violencia y la Delincuencia del Estado de Jalisco, será el organismo estatal coordinador entre las dependencias federales, estatales y municipales en el diseño y la ejecución de políticas, programas y acciones en materia de prevención social de la violencia y la delincuencia.
 
-Las Comisiones Municipales Tripartitas se abocarán al estudio de los siguientes temas:
+Para efectos del presente reglamento, por “Comisión” se entenderá la Comisión Interinstitucional Estatal para la Prevención Social de la Violencia y la Delincuencia del Estado de Jalisco.
 
-Inversiones.
+###### Artículo 2°.
 
-Productividad.
+La Comisión se integrará por:
 
-Localización de áreas industriales.
+I. Secretaría General de Gobierno, que la presidirá;
 
-Desempleo.
+II. Secretaría de Planeación, Administración y Finanzas;
 
-Capacitación de recursos humanos.
+III. Fiscalía General;
 
-Industrias maquiladoras.
+IV. Secretaría de Desarrollo e Integración Social;
 
-Industrias de exportación.
+V. Secretaría de Desarrollo Económico;
 
-Carestía de la vida.
+VI. Secretaría de Movilidad;
 
-Vivienda popular.
+VII. Secretaría de Educación;
 
-Contaminación ambiental.
+VIII. Secretaría del Trabajo y Previsión Social;
 
-Turismo.
+IX. Secretaría de Salud;
 
-Cualquier otro tema que se considere de interés y esté relacionado con el objeto de la Comisión.
+X. Secretaría de Desarrollo Rural;
 
-Los trabajos relativos a los temas anteriores, se distribuirán en subcomisiones de estudio en la siguiente forma:
+XI. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-Inversiones, productividad y localización de áreas industriales.
+XII. Presidentes Municipales de la Zona Metropolitana de Guadalajara; y
 
-Desempleo y capacitación de los recursos humanos.
+XIII. Las Delegaciones en Jalisco, de las dependencias del Gobierno Federal que forman parte de la Comisión Intersecretarial para la Prevención Social de la Violencia y la Delincuencia, que acepten la invitación de la Secretaría General de Gobierno, en funciones de Presidente, les formule al respecto.
 
-Industrias maquiladoras e industrias de exportación.
+Las instituciones públicas integrantes de la Comisión estarán representadas por su titular, quien podrá designar un suplente con nivel jerárquico inmediato inferior.
 
-Carestía de la vida.
+###### Artículo 3°.
 
-Vivienda popular.
+La Comisión contará con una Secretaría Ejecutiva designada por el Presidente.
 
-Contaminación ambiental y Turismo.
+###### Artículo 4°.
 
-Las Comisiones integrarán tantas subcomisiones como sean necesarios.
+La Comisión, a través de su Presidente, podrá invitar a participar en las sesiones, con voz pero sin voto, a los titulares de los organismos constitucionales autónomos, así como a representantes de organizaciones de la sociedad civil o personas de reconocido prestigio en el ámbito de las materias objeto de la Comisión, en el Estado.
 
-###### ARTICULO V.
+###### Artículo 5°.
 
-Los representantes que integran las Comisiones Municipales Tripartitas podrán nombrar un asesor general y el número de asesores técnicos que se requieran para las subcomisiones de estudio.
+La Comisión hará las recomendaciones pertinentes para que las políticas, programas y acciones de las dependencias que la integran, relacionadas con la prevención social de la violencia y delincuencia, se orienten de manera coordinada, prioritariamente, a:
 
-###### ARTICULO VI.
+I. La construcción de una ciudadanía responsable;
 
-Los organismos de las Comisiones Municipales Tripartitas serán:
+II. La promoción de una cultura social de legalidad y tolerancia;
 
-a).- La Comisión funcionando en pleno.
+III. La corresponsabilidad social;
 
-b).- El Presidente de la Comisión y
+IV. El mejoramiento del entorno social y el acceso a servicios básicos;
 
-c).- Las sub-comisiones de estudio.
+V. La activación y apropiación sociales de los espacios públicos;
 
-###### ARTICULO VII.
+VI. La generación de oportunidades de desarrollo;
 
-Las Comisiones Municipales Tripartitas celebrarán reuniones ordinarias, cuando menos una vez al mes y convocarán a sesiones extraordinarias cuando lo estimen necesario o a petición de alguno de los representantes.
+VII. El apoyo económico para la creación de empresas sociales;
 
-Las subcomisiones de estudio, sesionarán las veces que sea necesario para el mejor cumplimiento de su tarea.
+VIII. La atención prioritaria de grupos vulnerables;
 
-###### ARTICULO VIII.
+IX. La orientación y formación educativas para combatir las causas psicosociales del delito;
 
-Las sesiones serán plenarias y de subcomisiones, las primeras, serán dirigidas por el Presidente de la Comisión quien fungirá como Presidente de la Asamblea y las segundas, por la persona que designen las propias subcomisiones.
+X. Las demás que estimen convenientes para disminuir las conductas antisociales que generan violencia y delincuencia.
 
-###### ARTICULO IX.
+###### Artículo 6°.
 
-En las votaciones cada sector representa un voto que será emitido por la mayoría de los presentes del sector de que se trate. Los asesores solamente tendrán voz en el seno de las reuniones de las Comisiones Municipales Tripartitas y de la comisiones de estudio.
+La Comisión realizará las funciones siguientes:
 
-###### ARTICULO X.
+I. Emitir sus reglas de organización y funcionamiento, plan de trabajo y calendario de sesiones ordinarias;
 
-Si se da el caso de empate en las votaciones, los Presidentes de las Comisiones y, en su caso, los de las subcomisiones respectivas tendrán voto de calidad.
+II. Participar en la definición de las prioridades institucionales en materia de prevención social de la violencia y la delincuencia;
 
-###### ARTICULO XI.
+III. Propiciar que el gasto que ejerzan las dependencias que la integran se encuentre alineado a la planeación nacional y estatal en materia de prevención social de la violencia y la delincuencia, en los términos de los instrumentos programáticos aplicables;
 
-Participarán en las sesiones plenarias y de subcomisiones:
+IV. Participar en el diseño de políticas, programas y acciones en materia de prevención social de la violencia y la delincuencia y coordinar su ejecución, considerando la participación interinstitucional con enfoque multidisciplinario y propiciando su articulación, homologación y complementariedad;
 
-a).- Los representantes de los organismos que integran las Comisiones Municipales Tripartitas.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-b).- Los invitados y asesores que hayan sido exhortados y que concurran a la sesión.
+V. Dar seguimiento a los apoyos económicos otorgados por parte del Gobierno Federal, de conformidad con las disposiciones aplicables;
 
-###### ARTICULO XII.
+VI. Participar en el diseño de esquemas de capacitación laboral y de competencias para empresas sociales y coordinar su implementación;
 
-Las subcomisiones formularán respecto de cada asunto que les sea turnado, las recomendaciones que se consideren correctas, con las cuales darán cuenta a la plenaria.
+VII. Analizar la incidencia del gasto de las políticas públicas coordinadas para la prevención social de la violencia y la delincuencia en la reducción de los índices delictivos;
 
-###### ARTICULO XIII.
+VIII. Analizar la conveniencia de reorientar recursos hacia acciones que permitan reducir los factores que generan violencia o delincuencia en la población y, en su caso, recomendar los ajustes presupuestales y programáticos pertinentes;
 
-Los presidentes de las subcomisiones, serán los relatores en la plenaria, respecto a los trabajos analizados por aquellas, resumirán el pliego de recomendaciones aprobado por las subcomisiones respectivas y harán las aclaraciones que la asamblea les solicita y las que se crean necesarias.
+IX. Impulsar el establecimiento de esquemas de participación ciudadana y comunitaria;
 
-###### ARTICULO XIV.
+X. Analizar el marco normativo estatal aplicable en materia de prevención social de la violencia y la delincuencia y, en su caso, realizar las propuestas conducentes;
 
-Las recomendaciones que por mayoría aprueben las plenarias, se comunicarán a las autoridades correspondientes de conformidad con su competencia.
+XI. Supervisar el cumplimiento del objeto del presente Acuerdo y emitir recomendaciones al respecto, y
 
-###### ARTICULO XV.
+XII. Resolver sobre las circunstancias no previstas en el presente Acuerdo, relacionadas con el cumplimiento de su objeto.
 
-Las Comisiones Municipales Tripartitas y cada subcomisión de estudio, tendrán un Secretario, cuyas funciones serán:
+###### Artículo 7°.
 
-a).- Levantar las actas de las reuniones.
+La Comisión podrá crear las subcomisiones, comités técnicos y grupos de trabajo que estime convenientes, tanto de carácter permanente como transitorio, para realizar tareas específicas relacionadas con su objeto.
 
-b).- Dar cuenta de los documentos en cartera.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
 
-c).- Formar el Orden del Día, según acuerdo del Presidente.
+###### Artículo 8°.
 
-d).- Pasar lista para comprobar el quórum.
+La Comisión sesionará válidamente con la presencia de la mayoría de sus integrantes, una vez por mes de forma ordinaria cuando existan asuntos a tratar, y extraordinariamente, las veces que sea necesario según disponga su Presidente.
 
-e).- Computar votos.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
-f).- Confeccionar la documentación y correspondencia de las subcomisiones o de sus presidentes.
+Las convocatorias para las sesiones y el orden del día se notificarán por conducto del Secretario Ejecutivo de la Comisión con por lo menos tres días hábiles de anticipación a la fecha en que se prevea desarrollar las (sic) sesión ordinaria, y cuando menos veinticuatro horas de anticipación en tratándose de sesiones extraordinarias.
 
-g).- Registrar las iniciativas que se sometan a discusión.
+Las resoluciones de la Comisión se adoptarán por mayoría de votos de sus integrantes presentes. El Presidente tendrá voto de calidad en caso de empate.
 
-h).- Llevar lista de oradores para cada caso.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
-i).- Las que les asigne la Comisión y su Presidente.
+###### Artículo 9°.
 
-###### ARTICULO XVI.
+La Comisión, en la atención de los asuntos sometidos a su consideración priorizará, con un enfoque preventivo, el tratamiento de la violencia y la delincuencia a través de las acciones previstas en los lineamientos estatales y federales, en el marco de los programas de prevención del delito.
 
-Cuando alguno de los representantes no concurra a dos reuniones consecutivas tanto las Comisiones Municipales Tripartitas, como en las subcomisiones de estudio, se dará cuenta a los organismos respectivos para que tomen las medidas pertinentes o los sustituyan.
+###### Artículo 10°.
 
-###### ARTICULO XVII.
+El Secretario Ejecutivo de la Comisión tendrá las siguientes funciones:
 
-Las actas de las sesiones ordinarias y extraordinarias una vez que se aprueben, deberán ser firmadas por los Presidentes y por los Secretarios de las Comisiones Municipales Tripartitas, en los Libros de Actas respectivos.
+I. Organizar las sesiones de la Comisión y participar en las mismas, con derecho a voz pero no a voto, y proporcionar el apoyo administrativo que se requiera;
 
-###### ARTICULO XVIII.
+II. Convocar a sesiones ordinarias, de acuerdo con el calendario correspondiente, y extraordinarias, cuando así lo determine el Presidente de la Comisión;
 
-Las sesiones ordinarias o extraordinarias, serán presididas por los Presidentes Municipales en funciones.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
-###### ARTICULO XIX.
+III. Verificar que se cumple con el quórum para que tengan lugar las sesiones de la Comisión, llevar la lista de asistencia y elaborar y suscribir las actas correspondientes, mismas que incorporarán los acuerdos que en su caso se adopten, y para el caso en que las actas contengan solicitudes de reprogramaciones por parte de municipios beneficiarios, las mismas serán suscritas además por los integrantes de la Comisión que cuenten con voto;
 
-Planteado un problema o para el debate, se le dará lectura y los Presidentes, lo someterán a discusión pudiendo intervenir en ésta, hasta tres oradores en favor y tres en contra, limitando su intervención a quince minutos como máximo. Después que hayan hablado se preguntará al pleno si se considera suficientemente discutido el asunto, el cual, aprobado, se pasará a votación. En caso necesario se abrirá un nuevo registro con el mismo procedimiento hasta agotar el tema.
+IV. Llevar el control y seguimiento de los asuntos que se someten a consideración de la Comisión, así como de los acuerdos que al efecto se adopten, y realizar reportes periódicos sobre el grado de avance en el cumplimiento de los mismos;
 
-Toda recomendación de las Comisiones Municipales Tripartitas, de cualquier tipo, deberán ser aprobadas por más de la mitad de los representantes que asistan a las sesiones.
+V. Realizar los análisis, estudios, proyectos y demás trabajos que le encomiende la Comisión o resulten necesarios para la realización de las funciones de la misma y el cumplimiento del objeto del presente Acuerdo;
 
-###### ARTICULO XX.
+VI. Proponer a la Comisión la creación de subcomisiones, comités técnicos y grupos de trabajo y coordinar el desempeño de los mismos;
 
-Los representantes no registrados como oradores podrán hacer uso de la palabra para aclarar situaciones o hechos que les conciernan.
+VII. Informar periódicamente al Presidente de la Comisión respecto de las actividades de las subcomisiones, comités técnicos y grupos de trabajo;
 
-###### ARTICULO XXI.
+VIII. Representar a la Comisión ante las instancias del Sistema Estatal de Seguridad Pública;
 
-Cuando el problema planteado abarque distintos aspectos o materiales, se discutirá y aprobará primero en lo general y luego en lo particular, siendo el sistema antes establecido.
+IX. Expedir certificaciones de los acuerdos o de la documentación que obre en los expedientes de la Secretaría Ejecutiva, y
 
-###### ARTICULO XXII.
+X. Las demás que le encomiende la Comisión o su Presidente.
 
-El mismo procedimiento se seguirá respecto a las proposiciones que se generen en las subcomisiones de estudio.
+Para el adecuado cumplimiento de sus funciones, el Secretario Ejecutivo podrá auxiliarse del personal y recursos materiales que para tales efectos asigne la Secretaría General de Gobierno.
 
-###### ARTICULO XXIII.
+## TRANSITORIOS
 
-No se permitirán discusiones en forma de diálogo ni los oradores podrán ser interrumpidos a menos que se trata de una moción de orden autorizada por los Presidentes.
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-###### ARTICULO XXIV.
+SEGUNDO. La Comisión Interinstitucional Estatal para la Prevención Social de la Violencia y la Delincuencia del Estado de Jalisco deberá sesionar para su instalación dentro de los ocho días hábiles posteriores a la fecha de entrada en vigor del presente Acuerdo.
 
-Para cumplir con sus atribuciones y lograr sus objetivos las Comisiones deberán:
+De conformidad con la fracción XIII del artículo 2° del Reglamento contenido en este Acuerdo, para la sesión de instalación de la Comisión Interinstitucional Estatal para la Prevención Social de la Violencia y la Delincuencia del Estado de Jalisco, el Presidente de la misma invitará a participar, con la calidad de integrantes permanentes, a los titulares de las delegaciones federales en Jalisco, de las dependencias participantes en la Comisión Intersecretarial para la Prevención Social de la Violencia y la Delincuencia del Gobierno Federal.
 
-1.- Practicar las investigaciones y estudios apropiados para determinar por lo menos:
+Así lo resolvió y acordó el Ciudadano Gobernador Constitucional del Estado de Jalisco, Jorge Aristóteles Sandoval Díaz, ante el Ciudadano Secretario General de Gobierno, Arturo Zamora Jiménez, quien lo refrenda.
 
-a).- Las causas de los problemas que afecten cualquier renglón económico social de los Municipios y sus posibles soluciones.
+JORGE ARISTÓTELES SANDOVAL DÍAZ
 
-b).- Las condiciones socio-económicas generales de los Municipios.
+Gobernador Constitucional del Estado
 
-2.- Solicitar toda clase de información y estudios de las instituciones oficiales, federales o estatales y de otro tipo de organismos que es (sic) ocupen de problemas sujetos o estudios por las Comisiones con la prohibición de utilizar dicha información en asuntos ajenos a los trabajos para que fue solicitada.
+(RÚBRICA)
 
-3.- Recibir y considerar los estudios, informes, problemas y sugerencias que le presenten los trabajadores, tanto obreros como del campo, los empresarios y el Gobierno.
+ARTURO ZAMORA JIMÉNEZ
 
-4.- Asesorar en términos generales a las subcomisiones.
+Secretario General de Gobierno
 
-5.- Asesorar al Gobierno Federal, Estatal y Municipales, en los problemas que sean puestos a su revisión y estudio.
+(RÚBRICA)
 
-###### ARTICULO XXV.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-El presente reglamento estará en vigor desde la fecha de su aprobación.
+P.O. 1 DE MARZO DE 2016.
 
-###### ARTICULO XXVI.
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL GOBERNADOR DEL ESTADO DE JALISCO QUE REFORMA EL REGLAMENTO DE LA COMISIÓN INTERINSTITUCIONAL ESTATAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE JALISCO”.]
 
-Las Comisiones Municipales Tripartitas, podrán modificar el presente reglamento, cuando lo estimen necesario.
-
-ARTICULOS TRANSITORIOS:
-
-I.- Este Reglamento entrará en vigor en la fecha de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
-
-II.- Mando se imprima, publique, circule y se le dé el debido cumplimiento al presente Reglamento.
-
-Mexicali, B.C., a 5 de septiembre de 1973.
-
-A T E N T A M E N T E
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
-
-LIC. MILTON CASTELLANOS EVERARDO.
-
-(Firmado)
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-FRANCISCO SANTANA PERALTA.
-
-(Firmado)
+ÚNICO. El presente acuerdo iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
