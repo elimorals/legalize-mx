@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-sistema-para-el-desarrollo-integral-886
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-13"
-last_updated: "2013-07-12"
+last_updated: "2016-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 12 DE JULIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de julio de 2012.
 
@@ -451,7 +451,7 @@ I. Coordinación de Recursos Financieros;
 
 II, Coordinación de Recursos Materiales;
 
-III. Coordinación Comercial; y (sic)
+III. Coordinación Comercial; y
 
 IV. (DEROGADA, P.O. 21 DE JUNIO DE 2013)
 
@@ -491,7 +491,7 @@ X. Vigilar y tomar las medidas correctivas adecuadas a fin de que se efectúen e
 
 XI. Representar al Sistema ante organismos e instituciones públicas y privadas, por instrucciones de la Dirección General, a fin de sumar esfuerzos en la consecución de los fines del organismo, en el ámbito de sus atribuciones;
 
-XII. Autorizar las erogaciones, el control del ejercicio del presupuesto y su contabilidad; y (sic)
+XII. Autorizar las erogaciones, el control del ejercicio del presupuesto y su contabilidad; y
 
 XIII. Implementar sistemas de registros contables y de control de todas las operaciones administrativas, con base en las políticas establecidas por la Secretaría de Finanzas y Administración.
 
@@ -767,7 +767,7 @@ V. Supervisar y controlar el sistema de seguimiento de los instrumentos del Sist
 
 VI. Coordinar la integración de información del Sistema en el Informe de Gobierno;
 
-VII. Representar al Director General, cuando éste así lo determine, en los consejos, comisiones, comités y demás espacios de trabajo en materia de estadística, inversión y planeación; y (sic)
+VII. Representar al Director General, cuando éste así lo determine, en los consejos, comisiones, comités y demás espacios de trabajo en materia de estadística, inversión y planeación; y
 
 VIII. Colaborar en la integración y elaboración del Informe de la Presidencia del Sistema.
 
@@ -1061,7 +1061,7 @@ El Director de Acciones en Favor de la Infancia se auxiliará para el mejor desp
 
 I. Coordinación de Prevención de Riesgos Psicosociales;
 
-II. Coordinación de Atención a Niños en Situación Extraordinaria; y (sic)
+II. Coordinación de Atención a Niños en Situación Extraordinaria; y
 
 III. Coordinación de Desarrollo Integral de la Primera Infancia.
 
@@ -1195,7 +1195,7 @@ El Director de Protección Jurídica Familiar se auxiliará para el mejor despac
 
 I. Procuraduría en Materia de Asistencia Social;
 
-II. Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescentes en Conflicto con la Ley Penal; y (sic)
+II. Coordinación de Rehabilitación y Asistencia Social para Niños y Adolescentes en Conflicto con la Ley Penal; y
 
 III. Coordinación de Servicios Asistenciales.
 
@@ -1517,7 +1517,7 @@ XI. Asesorar a la Dirección General y a los titulares de las unidades administr
 
 XII. Proponer a la Dirección General mecanismos de control operativo y de recursos;
 
-XIII. Participar en las sesiones del comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios; y (sic)
+XIII. Participar en las sesiones del comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios; y
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -1592,3 +1592,89 @@ JUAN LUIS MOSQUEDA GÓMEZ
 P.O. 21 DE JUNIO DE 2013.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 146, MEDIANTE EL CUAL, SE EXPIDE EL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, expedido mediante el Decreto Gubernativo 215, publicado en el Periódico Oficial del Gobierno del Estado número 112, Segunda Parte, el 13 de julio de 2012.
+
+Referencia a las nuevas denominaciones de las unidades administrativas
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderán hechas a su nueva denominación:
+
+Unidades administrativas Unidades administrativas
+
+conforme al conforme al
+
+Reglamento Interior abrogado presente Reglamento
+
+Procuraduría en Materia de Procuraduría Estatal de Protección de
+
+Asistencia Social Niñas, Niños y Adolescentes
+
+Coordinación de Fortalecimiento a Subprocuraduría de Servicios Jurídicos
+
+Organizaciones de la Sociedad y Atención a Centros y
+
+Civil Organizaciones de Asistencia Social
+
+Dirección de Acciones en Favor de Dirección de Acciones en Favor de
+
+la Infancia Niñas, Niños y Adolescentes
+
+Coordinación de Atención a Niños Coordinación de Atención a Niñas,
+
+en Situación Extraordinaria Niños y Adolescentes en Situación
+
+Extraordinaria
+
+Dirección de Protección Jurídica Dirección de Fortalecimiento Familiar
+
+Familiar
+
+Coordinación de Rehabilitación y Coordinación de Rehabilitación y
+
+Asistencia Social para niños y Asistencia Social para Niñas, Niños y
+
+Adolescentes en conflicto con la Ley Adolescentes en Conflicto con la Ley
+
+Penal Penal
+
+Dirección de Atención para Adultos Dirección de Atención para Personas
+
+Mayores Adultas Mayores
+
+Coordinación de Atención al Coordinación de Atención para
+
+Adulto Mayor Personas Adultas Mayores
+
+Coordinación de Centros de Coordinación de Construcción y
+
+Desarrollo Gerontológico Mejoramiento de Centros de
+
+Desarrollo Gerontológico
+
+Coordinación Comercial Coordinación de Unidades
+
+Productivas
+
+Coordinación General de Asuntos Coordinación de Asuntos Jurídicos
+
+Jurídicos
+
+Coordinación de Comunicación Coordinación de Comunicación
+
+Social Social y Relaciones Públicas
+
+Asuntos en Trámite
+
+Artículo Cuarto. Los asuntos que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite, serán resueltos hasta su conclusión en los términos del presente Decreto Gubernativo.
+
+Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la fecha de inicio de vigencia de las disposiciones de este Decreto, que deba ser ejercida por otra u otras unidades que en el mismo se establecen, corresponderá a la unidad administrativa competente conforme al presente instrumento, terminar la sustanciación de los asuntos que se encuentren en trámite en la fecha señalada en el artículo transitorio primero de este Decreto.
