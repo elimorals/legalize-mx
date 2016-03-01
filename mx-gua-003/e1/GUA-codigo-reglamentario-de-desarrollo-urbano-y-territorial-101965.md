@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-y-territorial-101965"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-22"
-last_updated: "2014-07-22"
+last_updated: "2016-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO Y TERRITORIAL PARA EL MUNICIPIO DE SAN MIGUEL DE ALLENDE, GUANAJUATO.
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CÓDIGO TERRITORIAL PARA EL MUNICIPIO DE SAN MIGUEL DE ALLENDE, GTO., PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016 (ABROGADO).
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de julio de 2014.
 
@@ -4797,7 +4799,7 @@ c. Carpeta: Ésta será de un espesor mínimo de 5 cms. Elaborado en caliente en
 
 El concreto asfáltico deberá tenderse con máquina especial de propulsión propia, con dispositivos que permitan ajustar el espesor y el ancho de la mezcla tendida. La temperatura de la mezcla deberá ser de 100 c, mínimo, y
 
-d. Riego de sello: Éste deberá ser con asfalto fr-3 en proporción de 0.8 a1 (sic)litros por m2 y material pétreo 3-e, la permeabilidad máxima de la carpeta deberá ser del 10%.
+d. Riego de sello: Éste deberá ser con asfalto fr-3 en proporción de 0.8 a1 (sic) litros por m2 y material pétreo 3-e, la permeabilidad máxima de la carpeta deberá ser del 10%.
 
 IV. Superficies de rodamiento con adoquín de concreto se procederá en la forma siguiente:
 
@@ -5832,3 +5834,31 @@ LIC. RAMON GERARDO MEDELLÍN AGUIRRE.
 SECRETARIO DEL AYUNTAMIENTO.
 
 > <small>N. DE E. VÉASE ANEXOS EN EL P.O. DE 22 DE JULIO DE 2014, DE LA PÁGINA 205 A LA 226.</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL CÓDIGO TERRITORIAL PARA EL MUNICIPIO DE SAN MIGUEL DE ALLENDE, GTO., ASÍ COMO SUS ANEXOS A, B, C, D, E, F Y G”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Reglamentos que se abrogan
+
+Artículo Segundo. Se abroga el Código Reglamentario de Desarrollo Urbano y Territorial para el Municipio de San Miguel de Allende, Gto., publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 116, segunda parte, del 22 de julio de 2014.
+
+Sustanciación de procedimientos en trámite
+
+Artículo Tercero. Los procedimientos regulados al amparo del Reglamento que se abrogan (sic) en el artículo Segundo Transitorio, que a la fecha de la entrada en vigor del presente reglamento se encuentren en trámite, seguirán sustanciándose observando las normas contenidas en el Reglamento vigente al momento de iniciar su procedimiento respectivo, hasta su conclusión.
+
+Derogación de disposiciones
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan al contenido del presente reglamento.
+
+Reconocimiento de Derechos, registros, permisos y licencias previos
+
+Artículo Quinto. Las medidas de seguridad, sanciones, autorizaciones, licencias y permisos previamente otorgados conservarán su vigencia con la entrada en vigor del presente Reglamento. Su vigencia estará sujeta a la temporalidad prevista en el reglamento que se abroga.
+
+Artículo Sexto. Los peritos y directores responsables de obra, conservarán su registro, estando obligada la Dirección de Desarrollo Urbano a compartir su base de datos y archivos que consigan esos registros con la Dirección de Patrimonio y su vigencia estará sujeta a la temporalidad prevista en el reglamento que se abroga.
