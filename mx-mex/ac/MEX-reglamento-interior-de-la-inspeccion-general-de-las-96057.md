@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-inspeccion-general-de-las-96057"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-24"
-last_updated: "2013-09-24"
+last_updated: "2016-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE MARZO DE 2016.
 
 Reglamento publicado en Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 24 de septiembre de 2013.
 
@@ -71,7 +71,9 @@ VII. Ley de Responsabilidades, a la Ley de Responsabilidades de los Servidores P
 
 VIII. Procuraduría, a la Procuraduría General de Justicia del Estado de México.
 
-IX. Secretaría, a la Secretaría de Seguridad Ciudadana.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+IX. Comisión, a la Comisión Estatal de Seguridad Ciudadana del Estado de México.
 
 ###### Artículo 5.
 
@@ -99,6 +101,10 @@ Las determinaciones del Consejo Directivo serán obligatorias para el Inspector 
 
 El Consejo Directivo se integrará de acuerdo con lo dispuesto por la Ley y funcionará de conformidad con las disposiciones aplicables.
 
+> <small>(ADICIONADO, G.G. 1 DE MARZO DE 2016)</small>
+
+Artículo 8 bis. El Consejo Directivo podrá invitar, cuando así lo considere necesario, a representantes de otras unidades administrativas o técnicos especializados, quienes acudirán con voz pero sin voto.
+
 ###### Artículo 9.
 
 El Presidente del Consejo Directivo invitará a un representante de la sociedad civil para que participe en el Consejo Directivo por un periodo de dos años. Al término de este plazo, el representante podrá ser invitado a continuar participando por un periodo igual, a cuya conclusión se invitará a un nuevo representante.
@@ -119,13 +125,17 @@ I. Fijar, dirigir y controlar las políticas públicas de la Inspección General
 
 II. Representar legalmente a la Inspección General con facultades de un apoderado general, para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia, así como sustituir y delegar esta representación en uno o más apoderados o subalternos para que la ejerzan individual o conjuntamente. Para actos de dominio requerirá la autorización expresa de la Secretaría de Finanzas, de acuerdo con la legislación en la materia.
 
-III. Establecer los lineamientos y políticas que orienten las acciones de coordinación de la Inspección General con la Secretaría y la Procuraduría y, en su caso, con los municipios del Estado, así como, con las instancias públicas que se requieran, para el mejor cumplimiento de sus atribuciones.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+III. Establecer los lineamientos y políticas que orienten las acciones de coordinación de la Inspección General con la Comisión y la Procuraduría y, en su caso, con los municipios del Estado, así como, con las instancias públicas que se requieran, para el mejor cumplimiento de sus atribuciones.
 
 IV. Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera e informarle sobre el desarrollo de las mismas.
 
 V. Someter a la consideración y aprobación del Consejo Directivo, los programas prioritarios y estratégicos a cargo de la Inspección General, los asuntos que requieran de su atención, así como encomendar su ejecución a las unidades administrativas de ésta, con el auxilio que corresponda, en su caso, de otras dependencias.
 
-VI. Solicitar a los titulares de la Secretaría, de la Procuraduría o de cualquier otra instancia pública de la que se requiera, el apoyo y auxilio complementarios para el ejercicio de las atribuciones de la Inspección General.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+VI. Solicitar a los titulares de la Comisión, de la Procuraduría o cualquier otra instancia pública, el apoyo y auxilio complementarios para el ejercicio de las atribuciones de la Inspección General.
 
 VII. Aprobar los programas de corto, mediano y largo plazo de la Inspección General.
 
@@ -155,7 +165,13 @@ XIX. Autorizar técnicas de verificación y de usuario, con la finalidad de comp
 
 XX. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-XXI. Las demás que le confieren otras disposiciones legales y las que le encomiende el Gobernador del Estado.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+XXI. Emitir recomendaciones de carácter preventivo a los titulares de la Comisión y Procuraduría.
+
+> <small>(ADICIONADA, G.G. 1 DE MARZO DE 2016)</small>
+
+XXII. Las demás que le confieran otras disposiciones legales y el titular del Poder Ejecutivo Estatal.
 
 ### Capítulo II. De las unidades administrativas de la Inspección General
 
@@ -267,11 +283,15 @@ XIX. Concentrar, registrar y mantener actualizada una base de datos sobre las in
 
 XX. Conocer de quejas y denuncias que pudieran traducirse en conductas ilícitas de los agentes del ministerio público, sus auxiliares y apoyos, así como peritos y servidores públicos de la Procuraduría, y darles trámite, conforme a la normatividad institucional.
 
-XXI. Emitir, por escrito, las medidas preventivas y correctivas con relación a las irregularidades, incidencias, problemática o deficiencias detectadas durante las visitas que practique a la Procuraduría y establecer el sistema de registro y seguimiento de su cumplimiento.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+XXI. Proponer por escrito para autorización del Inspector General, las recomendaciones preventivas y medidas correctivas en relación con las irregularidades, incidencias, problemática o deficiencias detectadas en las visitas realizadas a la Comisión y Procuraduría.
 
 XXII. Establecer y fortalecer canales de comunicación con los titulares de las áreas, unidades administrativas, incluso órganos desconcentrados de la Procuraduría, a fin de conocer y dar respuesta adecuada sobre cualquier irregularidad, incidencias, problemática o deficiencias que en el transcurso de las mismas se susciten.
 
-XXIII. Acceder a los sistemas de inspección interna, de supervisión y de investigación de la actuación de los servidores públicos de la Procuraduría y de la Secretaría.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+XXIII. Acceder a los sistemas de inspección interna, supervisión e investigación de la actuación de los servidores públicos de la Procuraduría y de la Comisión.
 
 XXIV. Vigilar que en el desarrollo de la investigación y de los procedimientos jurisdiccionales, incluyendo los especializados en justicia para adolescentes, donde tengan participación servidores públicos de la Procuraduría, se cumplan las disposiciones legales y reglamentarias, así como los lineamientos de procuración de justicia.
 
@@ -281,7 +301,13 @@ XXVI. Practicar visitas a las áreas y a las unidades de retención o cualquier 
 
 XXVII. Formular opinión sobre acuerdos, circulares, manuales y demás documentos normativos que incidan en su ámbito competencial.
 
-XXVIII. Las demás que les confieren otras disposiciones legales y aquellas que le encomiende el Inspector General.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+XXVIII. Solicitar a la Procuraduría, la evaluación técnica jurídica de la actuación sustantiva de los Agentes del Ministerio Público, la Policía de Investigación y los Peritos en caso de queja o denuncia en su contra.
+
+> <small>(ADICIONADA, G.G. 1 DE MARZO DE 2016)</small>
+
+XXIX. Las demás que les confieran otras disposiciones legales y el Inspector General.
 
 ### Capítulo IV. De las atribuciones de la Dirección de Información, Planeación, Programación y Evaluación
 
@@ -347,7 +373,9 @@ VI. Establecer criterios en el periodo de información previa y, en su caso, ins
 
 VII. Acordar el periodo de información previa para el inicio del procedimiento administrativo.
 
-VIII. Iniciar y substanciar los procedimientos administrativos, de acuerdo con la Ley de Responsabilidades, el Código de Procedimientos Administrativos del Estado de México y la Ley de Seguridad del Estado de México, así como ejercer la facultad de atracción de los procedimientos iniciados en contra de los servidores públicos de la Procuraduría y de la Secretaría.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+VIII. Iniciar y substanciar los procedimientos administrativos, de acuerdo con la Ley de Responsabilidades, el Código de Procedimientos Administrativos del Estado de México y la Ley de Seguridad del Estado de México, así como ejercer la facultad de atracción de los procedimientos iniciados en contra de los servidores públicos de la Procuraduría y la Comisión.
 
 IX. Emitir bases y criterios específicos relacionados con sus atribuciones, previa consideración del Inspector General.
 
@@ -429,7 +457,9 @@ XIV. Suscribir los contratos y convenios relativos a la adquisición o contratac
 
 XV. Conducir la administración de personal de la Inspección General, en materia laboral y de seguridad social, de acuerdo con las leyes aplicables, las condiciones generales de trabajo y los lineamientos y políticas laborales que emitan las instancias competentes del Gobierno del Estado.
 
-XVI. Cumplir y hacer cumplir las normas y políticas que en materia de protección civil emita la Secretaría.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2016)</small>
+
+XVI. Cumplir y hacer cumplir las normas y políticas que en materia de protección civil emita la Comisión.
 
 XVII. Programar, organizar y coordinar las acciones de actualización y capacitación general y técnica especializada del personal de la Inspección General, así como la evaluación de su desempeño, y proponer los perfiles profesionales conforme a las necesidades institucionales, en coordinación con las diversas unidades administrativas de la Inspección General.
 
@@ -528,3 +558,15 @@ SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN T. ROJAS DÁVILA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
+
+G.G. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO.”]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. - Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
