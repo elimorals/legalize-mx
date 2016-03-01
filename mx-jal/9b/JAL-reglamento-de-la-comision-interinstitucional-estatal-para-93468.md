@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-comision-interinstitucional-estatal-para-93468
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-26"
-last_updated: "2013-03-26"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA COMISIÓN INTERINSTITUCIONAL ESTATAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 26 de marzo de 2013.
 
@@ -127,7 +127,9 @@ III. Propiciar que el gasto que ejerzan las dependencias que la integran se encu
 
 IV. Participar en el diseño de políticas, programas y acciones en materia de prevención social de la violencia y la delincuencia y coordinar su ejecución, considerando la participación interinstitucional con enfoque multidisciplinario y propiciando su articulación, homologación y complementariedad;
 
-V. Dar seguimiento a los apoyos económicos otorgados por parte del Gobierno Federal a empresas sociales, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+V. Dar seguimiento a los apoyos económicos otorgados por parte del Gobierno Federal, de conformidad con las disposiciones aplicables;
 
 VI. Participar en el diseño de esquemas de capacitación laboral y de competencias para empresas sociales y coordinar su implementación;
 
@@ -147,17 +149,23 @@ XII. Resolver sobre las circunstancias no previstas en el presente Acuerdo, rela
 
 La Comisión podrá crear las subcomisiones, comités técnicos y grupos de trabajo que estime convenientes, tanto de carácter permanente como transitorio, para realizar tareas específicas relacionadas con su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
+
 ###### Artículo 8°.
 
-La Comisión sesionará válidamente con la presencia de la mayoría de sus integrantes, una vez por mes de forma ordinaria, y extraordinariamente, las veces que sea necesario según lo disponga su Presidente.
+La Comisión sesionará válidamente con la presencia de la mayoría de sus integrantes, una vez por mes de forma ordinaria cuando existan asuntos a tratar, y extraordinariamente, las veces que sea necesario según disponga su Presidente.
 
-Las convocatorias para las sesiones y el orden del día se notificarán por conducto del Secretario Ejecutivo de la Comisión con por lo menos cinco días hábiles de anticipación a la fecha en que se prevea desarrollar la sesión ordinaria, y con cuando menos dos días hábiles de anticipación en tratándose de sesiones extraordinarias.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
+Las convocatorias para las sesiones y el orden del día se notificarán por conducto del Secretario Ejecutivo de la Comisión con por lo menos tres días hábiles de anticipación a la fecha en que se prevea desarrollar las (sic) sesión ordinaria, y cuando menos veinticuatro horas de anticipación en tratándose de sesiones extraordinarias.
 
 Las resoluciones de la Comisión se adoptarán por mayoría de votos de sus integrantes presentes. El Presidente tendrá voto de calidad en caso de empate.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+
 ###### Artículo 9°.
 
-La Comisión, en la atención de los asuntos sometidos a su consideración, priorizará con un enfoque preventivo el tratamiento de la violencia y la delincuencia a través de las acciones previstas en el artículo 3º del “ACUERDO POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA EL OTORGAMIENTO DE APOYOS A LAS ENTIDADES FEDERATIVAS EN EL MARCO DEL PROGRAMA NACIONAL DE PREVENCIÓN DEL DELITO”, publicado en el Diario Oficial de la Federación el día quince de febrero del año dos mil trece.
+La Comisión, en la atención de los asuntos sometidos a su consideración priorizará, con un enfoque preventivo, el tratamiento de la violencia y la delincuencia a través de las acciones previstas en los lineamientos estatales y federales, en el marco de los programas de prevención del delito.
 
 ###### Artículo 10°.
 
@@ -167,7 +175,9 @@ I. Organizar las sesiones de la Comisión y participar en las mismas, con derech
 
 II. Convocar a sesiones ordinarias, de acuerdo con el calendario correspondiente, y extraordinarias, cuando así lo determine el Presidente de la Comisión;
 
-III. Verificar que se cumple con el quórum para que tengan lugar las sesiones de la Comisión, llevar la lista de asistencia y elaborar y suscribir las actas correspondientes, mismas que incorporarán los acuerdos que en su caso se adopten;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+
+III. Verificar que se cumple con el quórum para que tengan lugar las sesiones de la Comisión, llevar la lista de asistencia y elaborar y suscribir las actas correspondientes, mismas que incorporarán los acuerdos que en su caso se adopten, y para el caso en que las actas contengan solicitudes de reprogramaciones por parte de municipios beneficiarios, las mismas serán suscritas además por los integrantes de la Comisión que cuenten con voto;
 
 IV. Llevar el control y seguimiento de los asuntos que se someten a consideración de la Comisión, así como de los acuerdos que al efecto se adopten, y realizar reportes periódicos sobre el grado de avance en el cumplimiento de los mismos;
 
@@ -206,3 +216,11 @@ ARTURO ZAMORA JIMÉNEZ
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL GOBERNADOR DEL ESTADO DE JALISCO QUE REFORMA EL REGLAMENTO DE LA COMISIÓN INTERINSTITUCIONAL ESTATAL PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente acuerdo iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
