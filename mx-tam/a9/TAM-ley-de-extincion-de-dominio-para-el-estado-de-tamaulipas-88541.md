@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-extincion-de-dominio-para-el-estado-de-tamaulipas-88541"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2012-07-04"
+last_updated: "2016-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAM"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 1 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 13 DE JUNIO DE 2016.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016 (ABROGADA).
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -572,3 +576,27 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de junio del año dos mil doce.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No.LXII-923 MEDIANTE EL CUAL SE EXPIDE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el 13 de junio del 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, quedará abrogada la Ley de Extinción de Dominio para el Estado de Tamaulipas, publicada en el Periódico Oficial del Estado anexo al No. 80 de fecha 4 de julio de 2012.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado deberá designar Agentes del Ministerio Público Investigadores para conocer del procedimiento de extinción de dominio. A su vez, el Consejo de la Judicatura del Poder Judicial del Estado, en atención de los asuntos a tratar y si las necesidades del servicio lo exigieren, creará mediante los acuerdos correspondientes, los Juzgados Especializados en Extinción de Dominio.
+
+En tanto, serán competentes los jueces en materia civil, de conformidad con los Acuerdos que para tal efecto determine el Consejo de la Judicatura del Poder Judicial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
