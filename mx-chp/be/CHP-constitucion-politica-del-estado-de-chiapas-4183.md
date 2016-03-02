@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2015-12-31"
+last_updated: "2016-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2016.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -2651,9 +2651,19 @@ XII. De los juicios que promuevan las autoridades para que sean nulificadas las 
 
 XIII. De los demás que expresamente señalen ésta u otras Leyes.
 
-###### ARTICULO 104.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2016)</small>
 
-Esta Constitución es la Ley Fundamental para el régimen interior del Estado y nadie podrá estar dispensado de acatar sus preceptos, los cuales no perderán su fuerza y vigor aun cuando por la violencia se interrumpa su observancia.
+## TÍTULO DÉCIMO SÉPTIMO. DE LA MEJORA REGULATORIA
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2016)</small>
+
+###### Artículo 104.
+
+De la Mejora Regulatoria es una política pública obligatoria para el Estado y sus municipios, en sus respectivos ámbitos de competencia, que busca promover la eficacia y eficiencia de su gobierno, fomentar la transparencia y el desarrollo socioeconómico, así como la competitividad del Estado, a través de la implementación de normas claras, trámites y servicios simplificados.
+
+La ley de la materia establecerá el Sistema Estatal de Mejora Regulatoria, así como los instrumentos necesarios para vigilar que las normas de carácter general que emita cualquier autoridad en la entidad, garanticen beneficios superiores a sus costos; así mismo se creará un catálogo estatal que contendrá trámites y servicios a cargo del Estado y sus municipios, fomentando el uso de tecnologías de la información.
+
+La inscripción en el catálogo estatal y su actualización será obligatoria para todas las dependencias y entidades de la administración pública estatal y municipal, en los términos que la ley de la materia establezca.
 
 ###### ARTICULO 105.
 
@@ -4582,3 +4592,13 @@ El presente Decreto entrará en vigor, al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 167 POR EL QUE SE ESTABLECE LA VIGÉSIMA OCTAVA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberán llevarse a cabo las reformas a los ordenamientos legales aplicables, a fin de adecuarlas a lo previsto en este Decreto; así como expedirse la Ley orgánica respectiva.
