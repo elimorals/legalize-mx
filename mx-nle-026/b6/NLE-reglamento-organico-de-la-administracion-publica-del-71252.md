@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-71252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2016-02-10"
+last_updated: "2016-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE GOBIERNO MUNICIPAL DEL AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 2 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -1986,3 +1988,13 @@ CUARTO: Se instruye a la titular de la Secretaría del Ayuntamiento para que rem
 P.O. 10 DE FEBRERO DE 2016.
 
 > <small>[N. DE E. EL “REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LÉON.]</small>
+
+P.O. 2 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 25 DE FEBRERO DE 2016, REGLAMENTO DE GOBIERNO MUNICIPAL DEL AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN”.]
+
+PRIMERO: Se abroga el Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León, publicado en el Periódico Oficial del Estado consignado el Tomo CXLVI, Número 160, Páginas de la 8 a la 44 de fecha 30 de noviembre del 2009, junto con sus reformas, adiciones; y en consecuencia se emite un nuevo reglamento Municipal, denominado Reglamento de Gobierno Municipal del Ayuntamiento de Guadalupe, Nuevo León.
+
+SEGUNDO: El presente Reglamento entrara en vigencia el día de su publicación en el Periódico Oficial en el Estado de Nuevo León.
+
+TERCERO: Instrúyase al Secretario del Ayuntamiento para que en cumplimiento de lo establecido en el artículo 64, 65 y 66 de la Ley de Gobierno Municipal del Estado de Nuevo León, se publique el presente acuerdo en el Periódico Oficial del Estado de Nuevo León.
