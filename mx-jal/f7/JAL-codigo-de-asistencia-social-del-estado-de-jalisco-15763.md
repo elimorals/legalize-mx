@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2015-09-24"
+last_updated: "2016-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -1867,9 +1867,11 @@ El Estado, por conducto de la Procuraduría Social, en los términos que determi
 
 Cuando la Procuraduría Social desempeñe las funciones a que se refiere el artículo anterior, deberá realizar, en los términos que establezca su ley orgánica, las gestiones necesarias para lograr la conciliación de las partes en conflicto, sin que los actos de mediación que realice la Procuraduría Social, impliquen instancia alguna, ni la suspensión o interrupción de términos judiciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
+
 ###### Artículo 128.
 
-Para el desempeño de las funciones que le atribuye este libro, la Procuraduría Social podrá celebrar convenios de colaboración con la Dirección de Profesiones del Estado, la Procuraduría General de Justicia del Estado, la defensoría de oficio federal, las universidades públicas y privadas, colegios y barras de abogados, así como con otras instituciones, dependencias o asociaciones afines, con el propósito de que éstas faciliten a la Procuraduría Social apoyos técnicos y humanos para el mejor desempeño de sus atribuciones.
+Para el desempeño de las funciones que le atribuye este libro, la Procuraduría Social podrá celebrar convenios de colaboración con la Dirección de Profesiones del Estado, Fiscalía General del Estado, la defensoría de oficio federal, las universidades públicas y privadas, colegios y barras de abogados, así como con otras instituciones, dependencias o asociaciones afines, con el propósito de que éstas faciliten a la Procuraduría Social apoyos técnicos y humanos para el mejor desempeño de sus atribuciones.
 
 Los convenios a que se refiere el presente artículo, en ningún momento implicarán la substitución, en las facultades de la Procuraduría Social, por parte de las entidades con las que hubiere celebrado convenios. Cuando por virtud de dichos convenios, intervengan prestadores del servicio social o pasantes, se entiende que éstos actúan como auxiliares de los servidores públicos de la Procuraduría Social.
 
@@ -3396,3 +3398,11 @@ DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez p
 P.O. 24 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25794/LXI/16 QUE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 128 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN VI, 29, FRACCIÓN II DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN II, FRACCIÓN IV, INCISO B) Y C), 21, FRACCIÓN IX, DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO; LOS ARTÍCULOS 18, FRACCIÓN V, 62, FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; EL ARTÍCULO 70, FRACCIÓN II, INCISOS B), C), D), G), H) Y K), DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
