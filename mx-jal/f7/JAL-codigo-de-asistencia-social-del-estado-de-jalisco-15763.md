@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2015-09-24"
+last_updated: "2016-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -1867,9 +1867,11 @@ El Estado, por conducto de la Procuraduría Social, en los términos que determi
 
 Cuando la Procuraduría Social desempeñe las funciones a que se refiere el artículo anterior, deberá realizar, en los términos que establezca su ley orgánica, las gestiones necesarias para lograr la conciliación de las partes en conflicto, sin que los actos de mediación que realice la Procuraduría Social, impliquen instancia alguna, ni la suspensión o interrupción de términos judiciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
+
 ###### Artículo 128.
 
-Para el desempeño de las funciones que le atribuye este libro, la Procuraduría Social podrá celebrar convenios de colaboración con la Dirección de Profesiones del Estado, la Procuraduría General de Justicia del Estado, la defensoría de oficio federal, las universidades públicas y privadas, colegios y barras de abogados, así como con otras instituciones, dependencias o asociaciones afines, con el propósito de que éstas faciliten a la Procuraduría Social apoyos técnicos y humanos para el mejor desempeño de sus atribuciones.
+Para el desempeño de las funciones que le atribuye este libro, la Procuraduría Social podrá celebrar convenios de colaboración con la Dirección de Profesiones del Estado, Fiscalía General del Estado, la defensoría de oficio federal, las universidades públicas y privadas, colegios y barras de abogados, así como con otras instituciones, dependencias o asociaciones afines, con el propósito de que éstas faciliten a la Procuraduría Social apoyos técnicos y humanos para el mejor desempeño de sus atribuciones.
 
 Los convenios a que se refiere el presente artículo, en ningún momento implicarán la substitución, en las facultades de la Procuraduría Social, por parte de las entidades con las que hubiere celebrado convenios. Cuando por virtud de dichos convenios, intervengan prestadores del servicio social o pasantes, se entiende que éstos actúan como auxiliares de los servidores públicos de la Procuraduría Social.
 
@@ -3399,25 +3401,13 @@ P.O. 24 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 572 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL CAPÍTULO TERCERO BIS, QUE COMPRENDE LOS ARTÍCULOS 212 BIS Y 212 BIS 1 A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
+P.O. 3 DE MARZO DE 2016.
 
-ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO 25794/LXI/16 QUE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 128 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN VI, 29, FRACCIÓN II DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN II, FRACCIÓN IV, INCISO B) Y C), 21, FRACCIÓN IX, DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO; LOS ARTÍCULOS 18, FRACCIÓN V, 62, FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; EL ARTÍCULO 70, FRACCIÓN II, INCISOS B), C), D), G), H) Y K), DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
 
-P.O. 13 DE JULIO DE 2018.
+###### ARTÍCULO ÚNICO.
 
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
-
-P.O. 17 DE AGOSTO DE 2001.
-
-PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- El Poder Ejecutivo del Estado, adecuará la reglamentación en materia de Fraccionamientos a fin de incorporar las medidas normativas establecidas por el presente decreto.
-
-TERCERO.- Los gobiernos Municipales del Estado, en sus respectivos ámbitos de competencias, concertarán con los fraccionadores o promotores inmobiliarios de viviendas de interés social o popular, en sus jurisdicciones territoriales, sobre la previsión de viviendas destinadas para discapacitados en los términos de este decreto, de acuerdo a los mínimos o máximos que acuerde la autoridad municipal.
-
-P.O. 28 DE FEBRERO DE 2003.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 248 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 10, 12, 117, 140, 150, 200, 240 Y SE ADICIONAN LOS ARTÍCULOS 117 BIS, 150 BIS, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULO (SIC) 2, 60 Y SE ADICIONAN LOS ARTÍCULOS 66 BIS, 66 TER, 66 QUATER, 66 QUINQUIES, 66 SEXIES, 66 SEPTIES Y 66 OCTIES, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LOS ARTÍCULOS 2, 28, 74, 80, 129 Y SE ADICIONAN LOS ARTÍCULOS 80 BIS, 80 TER, 80 QUATER Y 80 QUINQUIES, DE LA LEY DE PROTECCIÓN Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA".]
 
