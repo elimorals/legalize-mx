@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2015-09-05"
+last_updated: "2016-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -351,7 +351,9 @@ IV. Lo dispuesto en los Códigos Civil y de Procedimientos Civiles del Estado de
 
 V. Lo dispuesto en los Códigos Penal y de Procedimientos Penales del Estado de Jalisco, con respecto a los asuntos del orden penal;
 
-VI. Ley Orgánica de la Procuraduría General de Justicia del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+
+VI. Ley Orgánica de la Fiscalía General del Estado de Jalisco;
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -689,9 +691,9 @@ El Consejo estará integrado de la siguiente manera:
 
 I. El Director General, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-II. Dos representantes del Poder Ejecutivo, que serán designados por el Gobernador, preferentemente de la Procuraduría General de Justicia del Estado o de la Procuraduría Social del Estado;
+II. Dos representantes del Poder Ejecutivo, que serán designados por el Gobernador, preferentemente de la Fiscalía General del Estado o de la Procuraduría Social del Estado;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1474,3 +1476,11 @@ Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales 
 DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
 
 DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25794/LXI/16 QUE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 128 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN VI, 29, FRACCIÓN II DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN II, FRACCIÓN IV, INCISO B) Y C), 21, FRACCIÓN IX, DE LA LEY DEL CENTRO DE ATENCIÓN PARA VÍCTIMAS DEL DELITO; LOS ARTÍCULOS 18, FRACCIÓN V, 62, FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; EL ARTÍCULO 70, FRACCIÓN II, INCISOS B), C), D), G), H) Y K), DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
