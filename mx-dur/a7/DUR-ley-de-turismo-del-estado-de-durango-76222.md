@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-76222"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-22"
-last_updated: "2014-07-06"
+last_updated: "2016-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 3 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 22 de julio de 2010.
 
@@ -1240,3 +1242,17 @@ P.O. 6 DE JULIO DE 2014.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 538.- QUE CONTIENE LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de Turismo, aprobada en fecha 15 de junio de 2010, mediante Decreto 498 y publicado en el Periódico Oficial del Gobierno del Estado de Durango, número 7 de fecha 22 de julio de 2010.
+
+TERCERO. El Titular del Gobierno del Estado, en un plazo de 90 días deberá emitir el Reglamento correspondiente a la presente Ley, a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. En aquellos conceptos en donde esta Ley contempla el cobro en salarios mínimos, las obligaciones a cargo del infractor serán cubiertas al valor que determine el presente Decreto, hasta en tanto no se expida la Ley que establezca una Unidad de Medida y Actualización, de cuenta, o cualquiera que sea su denominación.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
