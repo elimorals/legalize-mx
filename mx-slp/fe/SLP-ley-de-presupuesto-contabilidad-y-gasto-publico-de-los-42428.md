@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-de-los-42428"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2013-06-29"
+last_updated: "2016-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 3 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 4 de diciembre de 2004.
 
@@ -404,3 +406,25 @@ P.O. 29 DE JUNIO DE 2013.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0181.- SE REFORMA EL ARTÍCULO 80 EN SU FRACCIÓN VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE EXPIDE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS, 3° EN SU FRACCIÓN V, 22 EN SU PÁRRAFO PRIMERO, Y EN SUS FRACCIONES, III, IX Y X, Y 29 EN SU PÁRRAFO SEGUNDO, SE ADICIONA AL ARTÍCULO 22 LAS FRACCIONES, XI, Y XII; Y SE DEROGA EN EL ARTÍCULO 22 SU FRACCIÓN V, DE Y A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA EL ARTÍCULO 31 EN SU INCISO B) LA FRACCIÓN VI DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El artículo PRIMERO de este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los artículos, SEGUNDO; TERCERO; Y CUARTO del presente Decreto, serán vigentes el día de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado.
+
+TERCERO. A la entrada en vigor del (sic) este Decreto, se abrogan, la Ley de Presupuesto Contabilidad y Gasto Público del Estado de San Luis Potosí, expedida mediante Decreto Legislativo No. 17, publicado en el Periódico Oficial del Estado el 21 de diciembre del 2006; y la Ley de Presupuesto, Contabilidad y Gasto Público de los Municipios del Estado de San Luis Potosí, expedida mediante Decreto Legislativo No. 194, publicado en el Periódico Oficial del Estado el 4 de diciembre de 2004.
+
+CUARTO. Los ejecutores del gasto deberán contar con los sistemas y firmas electrónicas a que se refiere el artículo 14 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor a dos años a partir de la entrada en vigor de la presente Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más.
+
+QUINTO. El sistema a que se refiere el artículo 15 de la Ley que se expide en el artículo Segundo de este Decreto, deberá quedar concluido en un periodo no mayor a dos años a partir de la entrada en vigor de dicha Ley.
+
+SEXTO. Las reglas de operación a que se refiere el artículo 44 de la Ley que se expide en el artículo Segundo de este Decreto, deberán emitirse a más tardar dentro de los ciento veinte días siguientes a la publicación de la Ley.
+
+SÉPTIMO. Los lineamientos a que se refiere el artículo 72 de la Ley que se expide en el artículo Segundo de este Decreto, deberán emitirse a más tardar dentro de los ciento veinte días siguientes a la publicación de la multicitada Ley.
+
+OCTAVO. Los ejecutores del gasto deberán contar con el sistema de evaluación del desempeño a que se refiere el artículo 79 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor de un año a partir de la entrada en vigor de la Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más. Las disposiciones a que se refiere el párrafo tercero del citado artículo deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a la publicación de la Ley.
+
+NOVENO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
