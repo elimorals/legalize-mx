@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-81582
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2013-06-22"
+last_updated: "2016-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 25 de Mayo de 2011.
 
@@ -633,9 +633,17 @@ VII. Promover y fomentar la actividad acuícola, en armonía con la preservació
 
 VIII. Fomentar mediante instrumentos y medios de difusión, el consumo de los productos pesqueros y acuícolas en el Municipio;
 
-IX. Coadyuvar con el Estado en la organización y desarrollo de exposiciones, ferias y demás actividades de promoción y difusión para del (sic) sector pesquero y acuícola, y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-X. Las demás disposiciones que se prevean en el reglamento.
+IX. Coadyuvar con el Estado en la organización y desarrollo de exposiciones, ferias y demás actividades de promoción y difusión para el sector pesquero y acuícola;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+
+X. Certificar en términos del artículo 22 Ter, a través de la dependencia municipal competente en la materia, la legal posesión de embarcaciones, equipos y artes de pesca de personas y organizaciones que cuenten con permiso de pesca comercial, y
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2016)</small>
+
+XI. Las demás disposiciones que se prevean en el reglamento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -891,7 +899,39 @@ V. Las personas físicas y morales que cuenten con certificados de sanidad, inoc
 
 La organización y funcionamiento del Registro Estatal se determinarán en el reglamento de esta ley.
 
-Los municipios contribuirán a la integración, actualización y funcionamiento del Registro Estatal, en la forma y términos que establezca el reglamento de esta ley.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2016)</small>
+
+###### Artículo 22 Bis.
+
+Los municipios contribuirán a la integración, actualización y funcionamiento del Registro Estatal, para lo cual formularán un Padrón que contenga como mínimo la siguiente información:
+
+I. Las personas físicas y morales que se dediquen a la pesca comercial y a la acuacultura dentro del municipio, así como la información respectiva del permiso que los ampara;
+
+II. Las embarcaciones menores, así como los equipos y artes de pesca, con la identificación de sus legítimos dueños o posesionarios, y
+
+III. Las unidades de producción acuícola, parques, granjas y laboratorios que operen dentro del territorio del municipio.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2016)</small>
+
+###### Artículo 22 Ter.
+
+Para efectos de integrar la información referida en la fracción II del artículo anterior, cuando el particular no cuente con documento idóneo que ampare la propiedad, los municipios certificarán únicamente la legal posesión de las embarcaciones, equipos y artes de pesca que el permiso respectivo ampare, conforme al procedimiento siguiente:
+
+I. Sólo procederá la certificación a solicitud del pescador u organización que se encuentre en posesión pacífica de la embarcación, equipo o arte de pesca correspondiente, debiendo presentar escrito bajo protesta de decir verdad en el que señale la descripción detallada de la embarcación, equipo o arte de pesca de que se trate, de forma tal que permita su plena identificación, así como la forma en que se hizo con la posesión del mismo y en su caso, el motivo que le impide acreditar mediante documento idóneo su propiedad;
+
+II. Se deberá presentar documento expedido por la organización de pescadores a la que pertenece en la que esta última manifieste que sabe y le consta que el interesado esta en legítima posesión de la embarcación, equipo o arte de pesca de que se trate. En caso de que el pescador no pertenezca a alguna organización dicho documento podrá ser expedido por la autoridad ejidal, juez auxiliar, delegado o comité de acción ciudadana correspondiente;
+
+III. Cuando las dimensiones físicas de la embarcación, equipo o arte de pesca lo permitan se deberán presentar estas ante la autoridad, en caso contrario, bastará un respaldo fotográfico que permita identificar plenamente el bien de que se trate, y
+
+IV. Se deberá adjuntar copia certificada de la identificación oficial del solicitante, y en tratándose de personas morales del documento que lo acredite como representante legal o del mandato especial idóneo para realizar dicho trámite. No obstante, también podrá presentarse copia simple de los documentos referidos en esta fracción siempre y cuando se muestre el original para su cotejo.
+
+Cuando la solicitud presentada cumpla con los requisitos descritos en el presente artículo, la autoridad procederá a analizar la información proporcionada y notificará al solicitante su determinación en un plazo no mayor a cinco días hábiles contados a partir del día siguiente a su recepción.
+
+Transcurrido el plazo a que refiere el párrafo anterior sin que se notifique la resolución expresa, el silencio de la autoridad se considerará como resolución afirmativa ficta, por lo que el particular podrá solicitarla en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
+El certificado que en su caso se expida en términos del presente artículo únicamente tendrá efectos para acreditar la legítima posesión del bien de que se trate, mas no prejuzga sobre la propiedad del mismo, quedando a salvo los derechos de terceros para hacerlos valer ante las instancias correspondientes.
 
 ###### Artículo 23.
 
@@ -2504,3 +2544,11 @@ P.O. 22 DE JUNIO DE 2013.
 Artículo Primero.- El presente decreto, entrará en vigor a los sesenta días siguientes a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- El reglamento de la presente ley, deberá ser actualizado de conformidad a las disposiciones contenidas en el presente decreto, dentro de los treinta días siguientes a su entrada en vigor.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Dentro de un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, los municipios deberán integrar el Padrón a que refiere el artículo 22 Bis.
