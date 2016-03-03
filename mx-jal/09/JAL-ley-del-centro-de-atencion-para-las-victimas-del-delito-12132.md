@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-centro-de-atencion-para-las-victimas-del-delito-12132"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "2016-02-16"
+last_updated: "2016-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -123,7 +123,7 @@ El Consejo de Administración será el órgano máximo de gobierno, y se integra
 
 I.- Un Presidente que será el Gobernador del Estado o quien él designe;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2016)</small>
+(REFORMADA, P.O. 16 DE FEBRERO DE 2016) (REPUBLICADA, P.O. 3 DE MARZO DE 2016)
 
 II.- Un Vicepresidente que será el Fiscal General del Estado de Jalisco o la persona que él designe;
 
@@ -133,11 +133,11 @@ IV.- Un vocal que represente a cada una de las siguientes dependencias:
 
 a) Al Supremo Tribunal de Justicia;
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2016)</small>
+(REFORMADO, P.O. 16 DE FEBRERO DE 2016) (REPUBLICADO, P.O. 3 DE MARZO DE 2016)
 
 b) La Secretaría de Planeación, Administración y Finanzas;
 
-c) (DEROGADO, P.O. 16 DE FEBRERO DE 2016)
+c) (DEROGADO, P.O. 16 DE FEBRERO DE 2016) (REPUBLICADO, P.O. 3 DE MARZO DE 2016)
 
 d) La Comisión Estatal de Derechos Humanos;
 
@@ -335,7 +335,7 @@ VII.- A comparecer por sí o a través de su representante a las audiencias y al
 
 VIII.- A participar en la diligencia de identificación del probable responsable, en un lugar en donde no pueda ser vista por éste, si así lo solicita, cuando se trate de delitos contra la libertad sexual y normal desarrollo psicosexual, así como por delitos graves calificados por el Código Penal;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2016)</small>
+(REFORMADA, P.O. 16 DE FEBRERO DE 2016) (REPUBLICADA, P.O. 3 DE MARZO DE 2016)
 
 IX.- A impugnar por vía judicial, en los términos que la legislación señale, las resoluciones que nieguen el ejercicio de la acción penal, el desistimiento de la misma, y las conclusiones no acusatorias, ratificadas por el Fiscal General del Estado; y
 
@@ -522,3 +522,11 @@ P.O. 16 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25792/LXI/16 QUE REFORMA LOS ARTÍCULOS 8° Y 21 DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco".
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25794/LXI/16 QUE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 128 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN VI, 29, FRACCIÓN II DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN II, FRACCIÓN IV, INCISO B) Y C), 21, FRACCIÓN IX, DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO; LOS ARTÍCULOS 18, FRACCIÓN V, 62, FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; EL ARTÍCULO 70, FRACCIÓN II, INCISOS B), C), D), G), Y K), DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
