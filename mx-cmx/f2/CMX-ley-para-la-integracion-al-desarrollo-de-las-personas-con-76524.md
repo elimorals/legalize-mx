@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2014-12-18"
+last_updated: "2016-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-09-09"
 
 LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -500,7 +500,9 @@ Son requisitos para obtener el derecho al apoyo económico, los siguientes:
 
 I. Acreditar su discapacidad con documento expedido por alguna institución pública de salud del Distrito Federal, avalado y ratificado por el DIF-DF.
 
-II. Ser residente y nacido en el Distrito Federal.
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2016)</small>
+
+II. Contar con la calidad de habitante o vecino del Distrito Federal en los términos del Artículo 5º del Estatuto de Gobierno del Distrito Federal. Se dará prioridad a aquellas personas con mayor necesidad de apoyo, en términos del máximo de los recursos disponibles, y demás requisitos necesarios para asegurar la adecuada asignación del apoyo.
 
 III. Tener menos de sesenta y ocho años de edad.
 
@@ -795,3 +797,15 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 43 DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1º de enero de 2016.
+
+TERCERO.- El DIF-DF tomará las medidas necesarias para actualizar el padrón de beneficiarios conforme a esta modificación a fin de que se pueda solicitar oportunamente la suficiencia presupuestal para el Ejercicio Fiscal 2016.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal solicitará en el Proyecto de Presupuesto la asignación correspondiente al padrón de beneficiarios que integre el DIF-DF.
