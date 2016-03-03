@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2013-06-11"
+last_updated: "2016-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -69,7 +69,9 @@ III. LEY: a la Ley de Coordinación Fiscal del Estado de San Luis Potosí;
 
 IV. LEY DE COORDINACION FISCAL: a la Ley Federal en esa materia;
 
-V. PARTICIPACIONES: a las transferencias federales o estatales que se le participan a los municipios;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+
+V. PARTICIPACIONES: las ministraciones de recursos que reciben el Estado y los municipios, por concepto de la proporción que corresponde a sus haciendas públicas de los ingresos federales de libre disposición, y que se contemplan en el Ramo 28 del Presupuesto de Egresos de la Federación;
 
 VI. SECRETARIA: a la Secretaría de Finanzas, y
 
@@ -231,19 +233,23 @@ El Estado podrá otorgar apoyos especiales o extraordinarios a los municipios cu
 
 ### CAPITULO IV. De los Organismos de Colaboración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 22.
 
-El Ejecutivo del Estado, por medio de la Secretaría, y los municipios, podrán celebrar convenio de colaboración administrativa en las siguientes materias:
+El Ejecutivo del Estado, por medio de la Secretaría, y los municipios, celebrarán convenio de colaboración administrativa en las siguientes materias:
 
 I. Registro de contribuyentes;
 
 II. Recaudación, notificación y cobranza;
 
-III. Informática;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+
+III. Tecnologías de la información;
 
 IV. Asistencia al contribuyente;
 
-V. Consultas y autorizaciones;
+V. (DEROGADA, P.O. 3 DE MARZO DE 2016)
 
 VI. Comprobación del cumplimiento de las disposiciones fiscales;
 
@@ -251,9 +257,21 @@ VII. Determinación de impuestos y sus accesorios;
 
 VIII. Imposición y condonación de multas;
 
-IX. Recursos administrativos, y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-X. Intervención en juicio.
+IX. Recursos administrativos;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+
+X. Asesoría en juicios de carácter administrativo y fiscal;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2016)</small>
+
+XI. Disciplina financiera, y
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2016)</small>
+
+XII. Transparencia y acceso a la información pública, para los efectos del artículo 57 de la Ley General de Contabilidad Gubernamental.
 
 El ejercicio de las facultades que se convengan, será respecto de los impuestos federales coordinados que al Estado correspondan, gravámenes estatales y municipales.
 
@@ -311,7 +329,9 @@ III. Efectuar en forma permanente estudios de legislación fiscal, así como est
 
 La Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales se integrará por:
 
-El Secretario de Finanzas; el Presidente de la Comisión de Vigilancia del Poder Legislativo; y por cuatro municipios representados por sus tesoreros, elegidos anualmente por los ayuntamientos en el número que para cada grupo se indica, así como por un suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en su ausencia.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+
+El Secretario de Finanzas; el Presidente de la Comisión de Vigilancia del Poder Legislativo; el titular de la Auditoría Superior del Estado, y por un municipio de cada zona del Estado representados por sus tesoreros, elegidos anualmente por los ayuntamientos en el número que para cada grupo se indica, así como por un suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en su ausencia.
 
 ###### ARTICULO 30.
 
@@ -398,3 +418,25 @@ P.O. 11 DE JUNIO DE 2013.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0181.- SE REFORMA EL ARTÍCULO 8o EN SU FRACCIÓN VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE EXPIDE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS, 3° EN SU FRACCIÓN V, 22 EN SU PÁRRAFO PRIMERO, Y EN SUS FRACCIONES, III, IX Y X, Y 29 EN SU PÁRRAFO SEGUNDO, SE ADICIONA AL ARTÍCULO 22 LAS FRACCIONES, XI, Y XII; Y SE DEROGA EN EL ARTÍCULO 22 SU FRACCIÓN V, DE Y A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA EL ARTÍCULO 31 EN SU INCISO B) LA FRACCIÓN VI DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El artículo PRIMERO de este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los artículos, SEGUNDO; TERCERO; Y CUARTO del presente Decreto, serán vigentes el día de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado.
+
+TERCERO. A la entrada en vigor del (sic) este Decreto, se abrogan, la Ley de Presupuesto Contabilidad y Gasto Público del Estado de San Luis Potosí, expedida mediante Decreto Legislativo No. 17, publicado en el Periódico Oficial del Estado el 21 de diciembre del 2006; y la Ley de Presupuesto, Contabilidad y Gasto Público de los Municipios del Estado de San Luis Potosí, expedida mediante Decreto Legislativo No. 194, publicado en el Periódico Oficial del Estado el 4 de diciembre de 2004.
+
+CUARTO. Los ejecutores del gasto deberán contar con los sistemas y firmas electrónicas a que se refiere el artículo 14 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor a dos años a partir de la entrada en vigor de la presente Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más.
+
+QUINTO. El sistema a que se refiere el artículo 15 de la Ley que se expide en el artículo Segundo de este Decreto, deberá quedar concluido en un periodo no mayor a dos años a partir de la entrada en vigor de dicha Ley.
+
+SEXTO. Las reglas de operación a que se refiere el artículo 44 de la Ley que se expide en el artículo Segundo de este Decreto, deberán emitirse a más tardar dentro de los ciento veinte días siguientes a la publicación de la Ley.
+
+SÉPTIMO. Los lineamientos a que se refiere el artículo 72 de la Ley que se expide en el artículo Segundo de este Decreto, deberán emitirse a más tardar dentro de los ciento veinte días siguientes a la publicación de la multicitada Ley.
+
+OCTAVO. Los ejecutores del gasto deberán contar con el sistema de evaluación del desempeño a que se refiere el artículo 79 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor de un año a partir de la entrada en vigor de la Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más. Las disposiciones a que se refiere el párrafo tercero del citado artículo deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a la publicación de la Ley.
+
+NOVENO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
