@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-los-derechos-y-el-desarrollo-de-los-pueblos-y-las-545
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-11"
-last_updated: "2012-09-25"
+last_updated: "2016-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 11 de enero de 2007.
 
@@ -557,25 +557,35 @@ II. El titular de cada una de las siguientes Secretarías y dependencias del Gob
 
 a) General de Gobierno;
 
-b) Desarrollo Humano;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
-c) Finanzas;
+b) Desarrollo e Integración Social;
 
-d) Promoción Económica;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+
+c) Planeación, Administración y Finanzas;
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+
+d) Desarrollo Económico;
 
 e) Educación;
 
 f) Cultura;
 
-g) Medio Ambiente para el Desarrollo Sustentable;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
-h) Seguridad Pública, Prevención y Readaptación Social;
+g) Medio Ambiente y Desarrollo Territorial;
+
+h) (DEROGADO, P.O. 3 DE MARZO DE 2016)
 
 i) Desarrollo Rural;
 
 j) Desarrollo Urbano;
 
-k) Procuraduría General de Justicia;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+
+k) Fiscalía General del Estado;
 
 l) Trabajo y Previsión Social;
 
@@ -898,3 +908,11 @@ P.O. 22 DE DICIEMBRE DE 2007.
 P.O. 25 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25794/LXI/16 QUE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 128 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN VI, 29, FRACCIÓN II DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN II, FRACCIÓN IV, INCISO B) Y C), 21, FRACCIÓN IX, DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO; LOS ARTÍCULOS 18, FRACCIÓN V, 62, FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; EL ARTÍCULO 70, FRACCIÓN II, INCISOS B), C), D), G), H) Y K), DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
