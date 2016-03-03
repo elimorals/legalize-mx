@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2016-02-29"
+last_updated: "2016-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "SON"
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 3 DE MARZO DE 2016.]</small>
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -143,7 +145,9 @@ La información que se refiere a la vida privada y los datos personales serán p
 
 Para el (sic) garantizar el derecho humano a la información, los sujetos obligados que se aluden en el párrafo anterior, se regirán por los siguientes principios y bases:
 
-I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal es pública y sólo podrá ser considerada reservada de forma temporal por razones de interés público y seguridad nacional. La ley de la materia determinará los criterios con base en los cuales la información podrá ser considerada reservada o confidencial.
+> <small>(F. DE E., B.O. 3 DE MARZO DE 2016)</small>
+
+I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal es pública y sólo podrá ser considerada reservada de forma temporal por razones de interés público. La ley de la materia determinará los criterios con base en los cuales la información podrá ser considerada reservada o confidencial.
 
 II.- Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. Para ello, deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
