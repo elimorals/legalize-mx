@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2015-08-22"
+last_updated: "2016-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -339,9 +339,9 @@ III. Poseer el día de la elección, con una antigüedad mínima de diez años, 
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día del nombramiento, y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día del nombramiento, y
 
 VI. No haber sido secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día que tenga verificativo el nombramiento.
 
@@ -909,9 +909,9 @@ III. Poseer el día de la elección, con antigüedad mínima de diez años, tít
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día de la elección, y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día de la elección, y
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes del día que tenga verificativo la elección.
 
@@ -3494,3 +3494,11 @@ P.O. 18 DE DICIEMBRE DE 2014.
 P.O. 22 DE AGOSTO DE 2015.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25794/LXI/16 QUE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 128 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN VI, 29, FRACCIÓN II DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LOS ARTÍCULOS 8°, FRACCIÓN II, FRACCIÓN IV, INCISO B) Y C), 21, FRACCIÓN IX, DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO; LOS ARTÍCULOS 18, FRACCIÓN V, 62, FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; EL ARTÍCULO 70, FRACCIÓN II, INCISOS B), C), D), G), Y K), DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
