@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2015-07-14"
+last_updated: "2016-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 4 Y 5 DE MARZO DE 2016 [AMBAS EN SUS EDICIONES EXTRAORDINARIAS, PÁGINA 2] EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -229,9 +231,9 @@ El Estado protegerá y promoverá el derecho fundamental a la salud de sus habit
 
 El Estado en la medida de sus posibilidades presupuestales, proveerá la salud de los niños y las niñas, las personas con discapacidad y los adultos mayores.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
-Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de salud, educación y sano esparcimiento para su desarrollo integral. Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. Las autoridades proveerán lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos, y otorgarán facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+En todas las decisiones y actuaciones del Estado, se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, seguimiento, ejecución, y evaluación de las políticas públicas dirigidas a la niñez. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de salud, educación y sano esparcimiento para su desarrollo integral. Los ascendientes, tutores y custodios tienen el deber de preservar y exigir el cumplimiento de estos derechos y principios. Las autoridades proveerán lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos, y otorgarán facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
 
@@ -263,7 +265,9 @@ El dominio de los bienes se extinguirá por declaración judicial a petición de
 
 I. Será jurisdiccional y autónomo del de materia penal;
 
-II. Procederá en los casos de, secuestro, robo de vehículos, y trata de personas, respecto de los bienes siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
+
+II. Procederá en los casos de secuestro, robo de vehículos, trata de personas, y enriquecimiento ilícito, respecto de los bienes siguientes:
 
 a) Aquéllos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
@@ -325,27 +329,19 @@ Los jueces de ejecución de sentencias controlarán y vigilarán la legalidad y 
 
 Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño, y establecerán los casos en los que se requerirá supervisión judicial, y
 
-III. El sistema para garantizar el acceso a la información pública. En el Estado de San Luis Potosí es prerrogativa de todas las personas, conocer y acceder a la información pública, con las excepciones previstas en esta Constitución, y en la ley de la materia.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-Toda persona tiene el derecho a acceder a la información sobre sí misma o sus bienes, asentada en archivos, bases de datos y registros públicos o privados de quienes tengan el carácter de entes obligados conforme a la ley, así como a actualizar, rectificar, suprimir o mantener en reserva dicha información, en los términos de la ley. En cualquier caso, la ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
+III. El sistema para garantizar el acceso a la información pública. En el Estado de San Luis Potosí es derecho humano de todas las personas, conocer y acceder a la información pública, con las excepciones previstas en esta Constitución, y en la ley de la materia.
 
-El sistema de protección especializada tendrá asiento en la Comisión Estatal de Garantía de Acceso a la Información Pública, CEGAIP, que es un organismo público con autonomía presupuestaria, operativa, de gestión y de decisión; encargado de:
+Toda persona tiene el derecho de acceder a la información sobre sí misma o sus bienes, asentada en archivos, bases de datos, y registros públicos o privados de quienes tengan el carácter de entes obligados conforme a la ley; así como a actualizar, rectificar, suprimir o mantener en reserva dicha información en los términos de la ley. En cualquier caso, la ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
 
-a) Garantizar el ejercicio de las prerrogativas asentadas en este precepto.
+La Comisión Estatal de Garantía de Acceso a la Información Pública es un organismo especializado, imparcial, y colegiado, responsable de garantizar el derecho de acceso a la información, y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6° de la Constitución Política de los Estados Unidos Mexicanos; y la Ley General que establece las bases, principios generales, y procedimientos del ejercicio de este derecho.
 
-b) Vigilar la aplicación y cumplimiento de la ley de la materia, resolviendo sobre actos u omisiones de naturaleza administrativa que incumplan el derecho de acceso a la información pública, por parte de los Poderes del Estado, los municipios y sus entidades, concesionarios de bienes y servicios, organismos constitucionales autónomos, partidos políticos y demás entes obligados.
+Dependiente de la Comisión Estatal de Garantía de Acceso a la Información Pública habrá un Sistema Estatal de Documentación y Archivos, responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información en posesión de las entidades públicas.
 
-c) Imponer a los servidores públicos sanciones pecuniarias por infracciones a la ley, y por incumplimiento de las resoluciones que dicte en la materia.
+La Comisión Estatal de Garantía de Acceso a la Información Pública estará integrada por tres comisionados numerarios; y tres supernumerarios, que serán electos por cuando menos el voto de las dos terceras partes de los miembros del Congreso del Estado, previo procedimiento que iniciará con una convocatoria abierta para la presentación de solicitudes y propuestas.
 
-d) Promover ante las autoridades competentes, las responsabilidades y las sanciones administrativas que correspondan.
-
-e) Presentar denuncias ante los órganos de autoridad que correspondan.
-
-Dependiente de la CEGAIP habrá un sistema estatal de documentación y archivos, responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información, en posesión de las entidades públicas.
-
-La CEGAIP estará integrada por tres comisionados numerarios, y tres supernumerarios, que serán electos por cuando menos el voto de las dos terceras partes de los miembros del Congreso del Estado, previo procedimiento que iniciará con una convocatoria abierta para la presentación de solicitudes y propuestas.
-
-Los comisionados durarán en su cargo cuatro años y, en ese tiempo, no podrán ser removidos sino por las causas y a través de los procedimientos previstos por el Titulo Décimo Segundo de esta Constitución.
+Los comisionados durarán en su cargo cuatro años y, en ese tiempo, sólo podrán ser removidos de éste en los términos del Título Duodécimo de esta Constitución, así como del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MARZO DE 2015)</small>
 
@@ -565,11 +561,11 @@ Los consejeros electorales integrantes del Consejo Estatal Electoral y de Partic
 
 Los consejeros electorales y demás servidores públicos del Consejo Estatal Electoral y de Participación Ciudadana, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
-ARTÍCULO 31 BIS.- La Contraloría Interna es el órgano del Consejo Estatal Electoral y de Participación Ciudadana, con autonomía técnica y de gestión, para decidir sobre su funcionamiento; que tiene encomendada la fiscalización de los ingresos y egresos del Consejo; así como las funciones de control y vigilancia de los servidores públicos del mismo, excepción hecha de los consejeros ciudadanos.
+ARTÍCULO 31 BIS.- El órgano interno de control del Consejo Estatal Electoral y de Participación Ciudadana, contará con autonomía técnica y de gestión, para decidir sobre su funcionamiento; tiene encomendada la fiscalización de los ingresos y egresos del Consejo; así como las funciones de control y vigilancia de los servidores públicos del mismo, excepción hecha de los consejeros ciudadanos.
 
-El titular de la Contraloría será electo, previa convocatoria pública, por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, y sólo podrá ser removido por las causas y en la forma que establezca la Ley Electoral del Estado.
+El titular del órgano interno de control será electo, previa convocatoria pública, por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes; y sólo podrá ser removido por las causas y en la forma que establezca la Ley Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -857,35 +853,31 @@ Las cuentas públicas municipales, previo conocimiento de los cabildos respectiv
 
 Los demás entes auditables deberán entregar al Congreso sus respectivas cuentas públicas, a más tardar el quince de febrero del año siguiente a su ejercicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 54.
 
-Corresponde al Congreso del Estado, a través de la Auditoría Superior del Estado, el examen y la revisión de las cuentas públicas de los poderes del Estado, los municipios y sus entidades, así como de los organismos constitucionales autónomos y demás entes auditables; que tendrá por objeto conocer los resultados de la gestión financiera, y comprobar si están ajustadas a las normas y criterios señalados por las leyes y los presupuestos respectivos, así como el cumplimiento de los objetivos contenidos en los programas de gobierno, estatales y municipales.
+Corresponde al Congreso del Estado, a través de la Auditoría Superior del Estado, la revisión de las cuentas públicas de los poderes del Estado y demás entes auditables, con el fin de comprobar que se cumplan las normas, presupuestos, obras, metas, acciones y programas.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+La Auditoría Superior del Estado gozará de autonomía para desarrollar sus facultades de fiscalización, así como para decidir sobre su funcionamiento y organización interna en los términos que disponga la ley. La función de fiscalización se regirá por los principios de, legalidad, prosecución del interés público, imparcialidad, confiabilidad, y eficacia.
 
-La Auditoría Superior del Estado contará con autonomía administrativa, técnica y de gestión, para llevar a cabo la función de fiscalización superior, así como para decidir sobre su organización interna, para lo cual contará con las atribuciones que la ley señale. La Auditoría Superior del Estado desarrollará sus funciones de fiscalización conforme a los principios de posterioridad, anualidad, legalidad, prosecución del interés público, imparcialidad, confiabilidad y eficacia.
+La Auditoría Superior del Estado deberá entregar al Congreso del Estado, el informe final de auditoría correspondiente a las cuentas públicas de los poderes del Estado, a más tardar el quince de junio del año en que éstas hayan sido presentadas; y los informes relativos a las cuentas públicas de los demás entes auditables, a más tardar el treinta y uno de mayo del año de su presentación, a efecto de que éste revise que los informes se realizaron apegados a las disposiciones legales aplicables y emita, en su caso, las observaciones correspondientes. Dichos informes incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
 
-La Auditoría Superior del Estado deberá entregar al Congreso del Estado, el informe final de auditoría correspondiente a las cuentas públicas de los poderes del Estado, a más tardar el quince de junio del año en que éstas hayan sido presentadas; y los informes relativos a las cuentas públicas de los demás entes auditables, a más tardar el último día de mayo del año de su presentación, a efecto de que éste revise que los informes se realizaron apegados a las disposiciones legales aplicables y emita, en su caso, las observaciones correspondientes. Dentro de dichos informes se incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
+La ley garantizará y dispondrá las formas en que el Auditor Superior del Estado tenga y ejerza las siguientes atribuciones:
 
-Si del examen que se realice aparecieren discrepancias entre las cantidades presupuestadas y las ejercidas, o no existiera exactitud o justificación de los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley.
+I. Determinar daños y perjuicios;
 
-Corresponde a la Auditoría Superior del Estado, determinar conforme al procedimiento señalado en la ley, los daños y perjuicios que afecten a la Hacienda Pública Estatal o de los municipios, o al patrimonio de otros sujetos de fiscalización; y fincar directamente a los servidores públicos la responsabilidad que proceda, determinando la reparación del daño o indemnización que corresponda, e imponer las sanciones pecuniarias por irregularidades administrativas; así como promover ante las autoridades competentes, el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Décimo Segundo de esta Constitución; y presentar denuncias y querellas penales, en términos de la legislación aplicable.
+II. Promover acciones y responsabilidades, incluidas las referidas en el Título Décimo Segundo de esta Constitución, ante el Tribunal Estatal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción, o ante las autoridades que competa, y
 
-La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+III. Presentar denuncias y querellas.
 
-Al frente de la Auditoría Superior del Estado estará el Auditor Superior del Estado, quien será nombrado por el Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes.
+La Auditoría Superior del Estado debe guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+El Auditor Superior del Estado estará al frente de la Auditoría Superior del Estado, y será nombrado por el Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes.
 
-El Auditor Superior del Estado durará en su cargo siete años y podrá ser nombrado nuevamente por el Congreso para un periodo inmediato por igual término; y no será removido sino exclusivamente por las causas graves a que se refiere la ley y con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo Segundo de la presente Constitución.
+El Auditor Superior del Estado durará en su encargo siete años; podrá ser ratificado bajo las mismas reglas de votación por un periodo inmediato y por igual término; deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
-Para ser titular de la Auditoría Superior del Estado, se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV, V y VI del artículo 99 de esta Constitución, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
-
-El Auditor Superior del Estado tendrá la facultad de nombrar, promover, suspender y remover al personal a su cargo, conforme a la ley.
+Para ser titular de la Auditoría Superior del Estado se requiere cumplir con los mismos requisitos previstos en las fracciones, I, II, IV, V, y VI del artículo 99, de esta Constitución, y los que al efecto se señalen en la ley.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -935,11 +927,9 @@ X.- Elaborar su respectivo presupuesto de egresos; el cual deberá incluir los t
 
 XI.- Fijar los ingresos y egresos del Estado con base en los presupuestos anuales que el Ejecutivo deberá presentar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
-
-XII.- Revisar y examinar, por conducto de la Auditoría Superior del Estado y, en su caso, señalar las irregularidades en las cuentas y actos relativos a la administración, inversión y aplicación de fondos públicos del Estado, de los municipios y sus entidades, así como de los organismos constitucionales autónomos, y proceder en los términos de ley;
+XII. Expedir las leyes que regulen la organización y facultades de la Auditoría Superior del Estado; así como revisar y examinar, y, en su caso, señalar las irregularidades en las cuentas y actos relativos a la administración, inversión y aplicación de fondos públicos del Estado, de los municipios y sus entidades, así como de los organismos constitucionales autónomos, y proceder en los términos de ley;
 
 XIII.- Crear y suprimir empleos públicos del Estado. Al aprobar el presupuesto general no podrá dejar de fijar la remuneración que corresponda a un empleo que esté establecido por la ley; y en el caso de que por cualquier circunstancia omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo;
 
@@ -995,9 +985,9 @@ XXXI.- AUTORIZAR LA ENAJENACIÓN DE LOS BIENES MUNICIPALES Y TAMBIÉN SU GRAVAME
 
 XXXII.- AUTORIZAR LAS CONCESIONES QUE OTORGUEN LOS AYUNTAMIENTOS, CUANDO SU VIGENCIA EXCEDA EL TÉRMINO DE SU ADMINISTRACIÓN;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-XXXIII.- Elegir, en los términos de esta Constitución, a los magistrados del Supremo Tribunal de Justicia, así como a los magistrados del Tribunal Estatal de lo Contencioso Administrativo;
+XXXIII. Elegir, en los términos de esta Constitución, a los magistrados del Supremo Tribunal de Justicia, así como a los magistrados del Tribunal Estatal de Justicia Administrativa;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1095,9 +1085,9 @@ XII.- Cumplir con las obligaciones que le impongan la Legislatura y las disposic
 
 El derecho de iniciar leyes corresponde a los diputados, al Gobernador, al Supremo Tribunal de Justicia, y a los ayuntamientos, así como a los ciudadanos del Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
-El día de la apertura del primer periodo ordinario de sesiones, el Gobernador del Estado podrá presentar hasta una iniciativa para trámite preferente, o señalar con tal carácter hasta una que hubiere presentado en periodos anteriores, cuando esté pendiente de dictamen. La iniciativa deberá ser discutida y votada por el Pleno del Congreso del Estado, en un plazo máximo de cuarenta y cinco días naturales. Si no fuere así, en sus términos y sin mayor trámite, la iniciativa será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.
+Dentro de los primeros quince días de cada periodo ordinario de sesiones, el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Las iniciativas deberán ser dictaminadas, discutidas y votadas por el Pleno del Congreso del Estado, en un plazo máximo de cuarenta y cinco días naturales. Si no fuere así, en sus términos y sin mayor trámite, las iniciativas serán los primeros asuntos que deberán ser discutidos y votados en la siguiente sesión del Pleno.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2014)</small>
 
@@ -1281,7 +1271,9 @@ Son atribuciones del Gobernador del Estado las siguientes:
 
 I.- Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, las leyes del Congreso de la Unión, los tratados internacionales, la presente Constitución y las leyes, reglamentos y demás disposiciones de carácter general que de ellas emanen;
 
-II.- Promulgar y publicar en el Periódico Oficial del Estado las leyes, decretos y acuerdos que expida la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia. La publicación deberá darse dentro de un plazo que no exceda de veinte días hábiles contados a partir de aquél en que venza el término para ejercer el derecho de veto;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+
+II.- Promulgar y publicar en el Periódico Oficial del Estado, las leyes, decretos y acuerdos que expida la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia. El Gobernador del Estado podrá ejercer su facultad de veto ante el Congreso del Estado dentro de los diez días naturales siguientes a aquél en el que haya recibido la ley o decreto. Pasado el término señalado, si el Ejecutivo no tuviere observaciones que hacer, o transcurrido el plazo sin haberlas hecho, lo publicará dentro de los diez días hábiles siguientes. En caso de que el Gobernador del Estado no cumpliera con esta obligación, la ley o decreto se tendrá por sancionando (sic) y, el Congreso del Estado, deberá ordenar su publicación;
 
 III.- Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos del Congreso; así como expedir y publicar decretos y acuerdos de carácter administrativo;
 
@@ -1293,9 +1285,9 @@ V.- Presentar ante el Congreso del Estado, durante la segunda quincena de septie
 
 VI.- Rendir ante el Congreso del Estado, en forma trimestral y por escrito, a más tardar el día quince del mes siguiente al periodo de que se trate, un estado de información financiera que refleje la situación que guarda la hacienda pública del Estado y, en forma anual, su cuenta pública, la que presentará a más tardar el último día de febrero del año siguiente al que corresponda su ejercicio. Asimismo, deberá rendir en forma trimestral y por escrito, informe y documentación de respaldo sobre el avance programático y presupuestal por cada una de las secretarías y dependencias de la administración pública estatal, a más tardar dentro de los diez días hábiles siguientes al periodo que concluya;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-VII.- Presentar al Congreso del Estado, a más tardar el día quince de noviembre de cada año, las correspondientes iniciativas de leyes de, Ingresos, y del Presupuesto de Egresos, para el siguiente año el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los poderes, Ejecutivo, Legislativo, y Judicial, así como de los organismos constitucionalmente autónomos;
+VII. Presentar al Congreso del Estado, a más tardar el día veinte de noviembre de cada año, las correspondientes iniciativas de, Ley de Ingresos; y del Presupuesto de Egresos, para el siguiente año el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los poderes, Ejecutivo, Legislativo, y Judicial, así como de los organismos constitucionalmente autónomos;
 
 VIII.- Concurrir al Congreso, cuando éste se lo solicite, a informar sobre alguna iniciativa o a responder a las observaciones que los Diputados le presenten sobre actos de gobierno u otros asuntos de su competencia; o autorizar, en su caso, a algún funcionario del mismo para dichos efectos;
 
@@ -1309,9 +1301,9 @@ XI.- Designar y remover libremente a los Secretarios de Despacho, así como a lo
 
 XII.- Designar, con la ratificación de cuando menos la mayoría de los integrantes del Congreso del Estado al Procurador General de Justicia y removerlo libremente;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-XIII.- Proponer al Congreso, a los candidatos a ocupar los cargos de magistrados del Supremo Tribunal de Justicia; del Tribunal de lo Contencioso Administrativo; y designar a un integrante del Consejo de la Judicatura del Estado, de conformidad con la presente Constitución;
+XIII. Proponer al Congreso, a los candidatos a ocupar los cargos de magistrados del Supremo Tribunal de Justicia; del Tribunal Estatal de Justicia Administrativa; y designar a un integrante del Consejo de la Judicatura del Estado, de conformidad con la presente Constitución;
 
 XIV.- Prestar apoyo a los Poderes Legislativo y Judicial y a los Ayuntamientos, cuando le sea solicitado por los mismos para el mejor ejercicio de sus funciones;
 
@@ -1443,9 +1435,13 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 Los particulares, en su caso, podrán ejercer la acción penal ante la autoridad judicial en los casos previstos en la ley.
 
-El Procurador General de Justicia intervendrá personalmente en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, cuando se vea afectado el interés del Estado o de alguno de sus municipios.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
-El Procurador General de Justicia intervendrá en todos los negocios en que el Estado fuera parte, o en los que se vea afectado el interés público. En los demás casos en que deba intervenir el Ministerio Público, podrá hacerlo por sí o por medio de sus agentes.
+Cuando se trate de materia penal, el Procurador General de Justicia intervendrá personalmente en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+
+En los casos en que deba intervenir el Ministerio Público, podrá hacerlo por sí o por medio de sus agentes.
 
 El Procurador General de Justicia y sus agentes se someterán estrictamente a las disposiciones de la ley; y serán responsables de toda falta, omisión, o violación en que incurran con motivo de sus funciones.
 
@@ -1455,15 +1451,17 @@ En la investigación de los delitos que practique el Ministerio Público y la po
 
 ### CAPÍTULO V. De la Consejería Jurídica del Estado
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 87.
 
-La Consejería Jurídica del Estado estará a cargo de un Consejero que dependerá del Ejecutivo, y deberá cumplir con los requisitos exigidos para ser Magistrado del Supremo Tribunal de Justicia.
+La Consejería Jurídica del Estado estará a cargo de un Consejero que dependerá directamente del titular del Ejecutivo, quien para serlo deberá cumplir con los requisitos que se exigen para ser Magistrado del Supremo Tribunal de Justicia.
 
-La ley orgánica establecerá las atribuciones del Consejero Jurídico del Estado.
+El Consejero intervendrá en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, cuando se vea afectado el interés del Estado o de alguno de sus municipios.
 
-A solicitud de los Ayuntamientos y sus entidades, el Consejero Jurídico prestará la asesoría que requieran.
+El Consejero intervendrá en todos los negocios en que el Estado sea parte, o en los que sea vea afectado el interés público. A solicitud de los ayuntamientos y sus entidades, también podrá prestarles la asesoría que requieran.
+
+La ley y los reglamentos establecerán la organización y las atribuciones de la Consejería Jurídica del Estado; las atribuciones del Consejero, de las consejerías adjuntas, así como los requisitos para ocupar la titularidad de las mismas.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2101,9 +2099,11 @@ En las Delegaciones Municipales la autoridad será ejercida por un Delegado Muni
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
-### CAPÍTULO ÚNICO. Del Tribunal de lo Contencioso Administrativo
+### CAPÍTULO ÚNICO. Del Tribunal Estatal de Justicia Administrativa
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 121.
 
@@ -2159,6 +2159,10 @@ TÍTULO DECIMOPRIMERO
 
 DE LA JUSTICIA ADMINISTRATIVA
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2016)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. DE LAS RESPONSABILIDADES, JUICIO POLÍTICO, Y SISTEMA ANTICORRUPCIÓN
+
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPÍTULO ÚNICO
@@ -2171,19 +2175,13 @@ DE LA JUSTICIA ADMINISTRATIVA
 
 ###### ARTÍCULO 123.
 
-La justicia administrativa se deposita en un Tribunal de lo Contencioso Administrativo, que conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la administración pública estatal o municipal y sus organismos descentralizados, estatales y municipales e intermunicipales y los particulares, dotado de plena jurisdicción y autonomía para dictar sus fallos, con competencia en todo el territorio estatal.
+La justicia administrativa se deposita en el Tribunal Estatal de Justicia Administrativa, que conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la administración pública estatal o municipal y sus organismos descentralizados, estatales y municipales e intermunicipales y los particulares, dotado de plena jurisdicción y autonomía para dictar sus fallos, con competencia en todo el territorio estatal. La ley establecerá su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones.
 
-La ley establecerá su organización, funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+El Tribunal Estatal de Justicia Administrativa es el órgano competente para imponer las sanciones a los servidores públicos locales y municipales por las responsabilidades administrativas que la ley determine como graves, y a los particulares que incurran en actos vinculados con faltas administrativas graves, así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública Estatal o municipal, o al patrimonio de los entes públicos estatales o municipales.
 
-Los Magistrados deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado en la misma forma y términos que establece el artículo 96 de la presente Constitución. Durarán en su cargo seis años, durante los cuales podrán ser separados libremente del mismo por el Congreso del Estado a propuesta del Ejecutivo. Si son ratificados para otro período igual, sólo podrán ser privados de sus cargos por causa grave y previo juicio de responsabilidad.
+Los Magistrados deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado en la misma forma y términos que establece el artículo 96 de la presente Constitución. Los Magistrados durarán en su cargo diez años y no podrán ser ratificados; y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley, con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2004)</small>
-
-TÍTULO DECIMOSEGUNDO
-
-DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO, Y DEL JUICIO POLÍTICO
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2016)</small>
 
 ### CAPÍTULO I. De las Reformas
 
@@ -2201,19 +2199,61 @@ El Gobernador del Estado, mientras permanezca en el desempeño de su encargo, s�
 
 La responsabilidad del estado por los daños que con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezca la ley.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2016)</small>
+
+Los servidores públicos que establezca la ley, estarán obligados a presentar, bajo protesta de decir verdad, su declaración, patrimonial, y de intereses, ante las autoridades competentes, y en los términos que determine la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2016)</small>
+
+ARTÍCULO 124 BIS.- El Sistema Estatal Anticorrupción es el conjunto de autoridades, elementos, programas y acciones, que interactúan entre sí, para el diseño, evaluación de políticas de educación, concientización, prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la promoción de la integridad pública. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I. El Sistema contará con un Comité Coordinador integrado por los titulares de, la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; del órgano interno de control del Gobierno del Estado; por el presidente del Tribunal Estatal de Justicia Administrativa; y el presidente del organismo garante que establece el artículo 31 de esta Constitución; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado, y otro del Comité de Participación Ciudadana, y
+
+II. El Sistema contará, a su vez, con un Comité de Participación Ciudadana integrado por el número de ciudadanos que establezca la normatividad aplicable, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, y serán designados en términos de la legislación correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 125.
 
-El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos de conformidad con las siguientes bases:
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 I.- Cuando, en el ejercicio de sus funciones, los servidores públicos a que alude el artículo 126 de esta Constitución incurran en actos u omisiones que perjudiquen el buen despacho o los intereses públicos fundamentales, se les impondrán, mediante juicio político, las sanciones a que alude el propio precepto;
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Las leyes determinarán los casos y las circunstancias en las que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Se sancionará con el decomiso y la privación de la propiedad de dichos bienes, además de las otras penas que correspondan; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, sancionada en los términos de la legislación aplicable.
+
+Las leyes determinarán los casos y las circunstancias en las que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Se sancionará con el decomiso y la privación de la propiedad de dichos bienes, además de las otras penas que correspondan;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+
+III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, en los términos que establezca la ley.
+
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, o por sus homólogos en los municipios, según corresponda; y serán sancionadas por el Tribunal Estatal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán del conocimiento y sancionadas por los órganos internos de control.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 90 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización, sobre el manejo, la custodia y aplicación de recursos públicos.
+
+Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2016)</small>
+
+IV. El Tribunal Estatal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos. Las personas morales serán sancionadas en los términos de esta fracción, cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre, o en representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, intervención o disolución de la sociedad respectiva, cuando se trate de faltas administrativas graves que causen perjuicio a la hacienda pública o a los entes públicos, siempre que la sociedad obtenga un beneficio económico y se acredite la participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos, la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Se concede acción popular para denunciar los supuestos anteriores.
 
@@ -3062,3 +3102,71 @@ P.O. 14 DE JULIO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0181.- SE REFORMA EL ARTÍCULO 80 EN SU FRACCIÓN VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE EXPIDE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SE REFORMA LOS ARTÍCULOS, 3° EN SU FRACCIÓN V, 22 EN SU PÁRRAFO PRIMERO, Y EN SUS FRACCIONES, III, IX Y X, Y 29 EN SU PÁRRAFO SEGUNDO, SE ADICIONA AL ARTÍCULO 22 LAS FRACCIONES, XI, Y XII; Y SE DEROGA EN EL ARTÍCULO 22 SU FRACCIÓN V, DE Y A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA EL ARTÍCULO 31 EN SU INCISO B) LA FRACCIÓN VI DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El artículo PRIMERO de este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los artículos, SEGUNDO; TERCERO; Y CUARTO del presente Decreto, serán vigentes el día de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado.
+
+TERCERO. A la entrada en vigor del (sic) este Decreto, se abrogan, la Ley de Presupuesto Contabilidad y Gasto Público del Estado de San Luis Potosí, expedida mediante Decreto Legislativo No. 17, publicado en el Periódico Oficial del Estado el 21 de diciembre del 2006; y la Ley de Presupuesto, Contabilidad y Gasto Público de los Municipios del Estado de San Luis Potosí, expedida mediante Decreto Legislativo No. 194, publicado en el Periódico Oficial del Estado el 4 de diciembre de 2004.
+
+CUARTO. Los ejecutores del gasto deberán contar con los sistemas y firmas electrónicas a que se refiere el artículo 14 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor a dos años a partir de la entrada en vigor de la presente Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más.
+
+QUINTO. El sistema a que se refiere el artículo 15 de la Ley que se expide en el artículo Segundo de este Decreto, deberá quedar concluido en un periodo no mayor a dos años a partir de la entrada en vigor de dicha Ley.
+
+SEXTO. Las reglas de operación a que se refiere el artículo 44 de la Ley que se expide en el artículo Segundo de este Decreto, deberán emitirse a más tardar dentro de los ciento veinte días siguientes a la publicación de la Ley.
+
+SÉPTIMO. Los lineamientos a que se refiere el artículo 72 de la Ley que se expide en el artículo Segundo de este Decreto, deberán emitirse a más tardar dentro de los ciento veinte días siguientes a la publicación de la multicitada Ley.
+
+OCTAVO. Los ejecutores del gasto deberán contar con el sistema de evaluación del desempeño a que se refiere el artículo 79 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor de un año a partir de la entrada en vigor de la Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más. Las disposiciones a que se refiere el párrafo tercero del citado artículo deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a la publicación de la Ley.
+
+NOVENO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0182.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 80, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0183.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUÍS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0184.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 61, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0185.- SE REFORMA EL ARTÍCULO 12 EN SU PÁRRAFO CUARTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0186.- SE REFORMA (SIC) LOS ARTÍCULOS, 13 EN SU FRACCIÓN II, 31 BIS, 54, 57 EN SUS FRACCIONES, XII, Y XXXIII, 8o EN SU FRACCIÓN XIII, 86 EN SUS PÁRRAFOS, QUINTO, Y SEXTO, 87, 123, 125 EN SU PÁRRAFO PRIMERO, Y FRACCIONES, II, Y III, Y EN LOS TÍTULOS, DÉCIMO PRIMERO, Y DÉCIMO SEGUNDO, LA DENOMINACIÓN DE SUS CAPÍTULOS ÚNICOS; Y ADICIONA, EL PÁRRAFO CUARTO AL ARTÍCULO 124, EL ARTÍCULO 124 BIS, Y LA FRACCIÓN IV AL ARTÍCULO 125, DE Y A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las adiciones, y reformas, que por virtud de este Decreto se hacen a los artículos, 123, 124, 124 BIS, y 125, entrarán en vigor en la misma fecha en que lo hagan las leyes a que se refiere el transitorio Segundo de la reforma Constitucional Federal de fecha 27 de mayo de 2015.
+
+TERCERO. Los magistrados del actual Tribunal de lo Contencioso Administrativo del Estado, que hayan sido nombrados con antelación a la fecha de entrada en vigor de las leyes a que se refiere el transitorio Segundo de la reforma Constitucional Federal de fecha 27 de mayo de 2015, continuarán como magistrados del Tribunal Estatal de Justicia Administrativa, por el tiempo que fueron nombrados.
+
+CUARTO. Los recursos humanos, materiales, financieros, y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo de San Luis Potosí, incluyendo todos sus bienes, pasarán a formar parte del Tribunal Estatal de Justicia Administrativa, en los términos que determine la ley correspondiente.
+
+QUINTO. Los trabajadores de base sindicalizable que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo de San Luis Potosí, seguirán conservando su misma calidad y derechos laborales que les corresponden, ante el Tribunal Estatal de Justicia Administrativa.
