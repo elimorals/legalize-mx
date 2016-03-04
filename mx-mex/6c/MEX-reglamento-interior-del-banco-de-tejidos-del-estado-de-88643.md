@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-banco-de-tejidos-del-estado-de-88643"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-13"
-last_updated: "2015-05-22"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,488 +21,498 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL BANCO DE TEJIDOS DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE COMONFORT GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MAYO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE COMONFORT, GTO, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 13 de julio de 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015 (ABROGADO).
 
-LA JUNTA DE GOBIERNO DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTÍCULO 11 FRACCIÓN IV DE LA LEY QUE CREA EL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO; Y
+Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de marzo de 2005.
 
-C O N S I D E R A N D O.
+PRESIDENCIA MUNICIPAL - COMONFORT, GTO.
 
-En razón de lo anterior, se expide el siguiente:
+EL CIUDADANO LIC. MOISÉS ARNULFO LÓPEZ PORTILLO RODRÍGUEZ, PRESIDENTE DEL H. AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE COMONFORT, ESTADO DE GUANAJUATO, A LOS HABITANTES DEL MISMO HACE SABER:
 
-REGLAMENTO INTERIOR DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO
+QUE EL HONORABLE AYUNTAMIENTO CONSTITUCIONAL QUE PRESIDO, EN EJERCICIO DE LAS ATRIBUCIONES QUE LE CONFIEREN LOS ARTÍCULOS 115 FRACCIÓN I, II Y III, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 106, 107, 108 Y 117 FRACCIÓN I Y III DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE GUANAJUATO; 2, 4, 5, 69 FRACCIÓN I INCISO B), 70 FRACCIONES II, V, VI, 202, 203, 204 FRACCIÓN III Y 205 DE. LA LEY ORGÁNICA MUNICIPAL VIGENTE EN EL ESTADO DE GUANAJUATO, EN LA DECIMANOVENA SESIÓN ORDINARIA DEL AYUNTAMIENTO DE FECHA 17 DE AGOSTO DE DOS MIL CUATRO HA TENIDO A BIEN APROBAR EL SIGUIENTE:
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE COMONFORT, GTO.
 
-###### Artículo 1.
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-El presente Reglamento tiene por objeto regular la organización y el funcionamiento del Banco de Tejidos del Estado de México.
+###### ARTICULO 1°.
 
-###### Artículo 2.
+El presente Reglamento tiene por objeto regular la estructura y el funcionamiento de la Unidad de Acceso a la Información Pública del Municipio de Comonfort, Gto.
 
-Para efectos del presente Reglamento, se entiende por:
+###### ARTICULO 2°.
 
-I. Ley, a la Ley que crea el Banco de Tejidos del Estado de México.
+Para los efectos de éste Reglamento se entenderá por:
 
-II. Banco u Organismo, al Banco de Tejidos del Estado de México.
+I. LEY.- La Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
 
-III. Junta de Gobierno, a la Junta de Gobierno del Banco de Tejidos del Estado de México.
+II. REGLAMENTO.- Reglamento de la Unidad de Acceso a la Información Pública;
 
-IV. Director General, al Director General del Banco de Tejidos del Estado de México.
+III. INSTITUTO.- El Instituto de Acceso a la Información Pública del Estado de Guanajuato;
 
-###### Artículo 3.
+IV. UNIDAD DE ACCESO.- Unidad de Acceso a la Información Pública;
 
-El Banco tiene a su cargo el despacho de los asuntos que le confieren la Ley, el Código Administrativo del Estado de México, el Reglamento de Salud del Estado de México, el presente Reglamento y otras disposiciones legales.
+V. DEPENDENCIA.- Órgano de la administración pública municipal centralizada; y
 
-###### Artículo 4.
+VI. ENTIDAD.- Órgano de la administración pública paramunicipal.
 
-El Banco se sujetará a lo dispuesto por la Ley, por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, así como por lo que establecen otros ordenamientos legales.
+###### ARTICULO 3°.
 
-###### Artículo 5.
+La Unidad de Acceso será el vínculo entre los sujetos obligados o la Administración Publica Municipal, y el solicitante de la información, ya que es la responsable de entregar o negar información.
 
-El Banco conducirá sus actividades en forma programada y coordinada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales y especiales que estén a su cargo o en los que participe, de acuerdo con su ámbito de competencia.
+###### ARTICULO 4°.
 
-###### Artículo 6.
+Para los efectos del presente Reglamento, es información pública toda aquella que no se encuentre clasificada como reservada o confidencial.
 
-La dirección y administración del Banco corresponden a:
+###### ARTICULO 5°.
 
-I. La Junta de Gobierno; y
+La Unidad de Acceso hará pública de oficio la siguiente información:
 
-II. Al Director General.
+I. Las leyes, reglamentos, decretos administrativos, circulares y demás normas que, le resulten aplicables;
 
-#### SECCIÓN PRIMERA. DE LA JUNTA DE GOBIERNO
+II. La estructura orgánica de la administración municipal;
 
-###### Artículo 7.
+III. El directorio de servidores públicos, desde el nivel de jefe de departamento o sus equivalentes hasta el nivel del funcionario de mayor jerarquía;
 
-La Junta de Gobierno es el órgano máximo del Banco, sus determinaciones serán obligatorias para el Director General y las unidades administrativas que integran al Organismo.
+IV. El tabulador de dietas, sueldos y salarios; el sistema de premios, estímulos y recompensas; gastos de representación, costos de viaje, viáticos y otro tipo de gastos realizados por los servidores públicos en ejercicio o con motivo de sus funciones;
 
-###### Artículo 8.
+V El domicilio, número telefónico y la dirección electrónica de la unidad de acceso a la información pública donde podrán recibirse las solicitudes para obtener la información pública;
 
-La Junta de Gobierno se integrará por:
+VI. Las metas y objetivos de sus programas;
 
-I. Un Presidente, quien será el Secretario de Salud.
+VII. Los servicios que ofrecen, los trámites, requisitos y formatos, y en su caso, el monto de los derechos para acceder a los mismos;
 
-II. Un Secretario, quien será el Director General del Banco.
+VIII. El monto del presupuesto asignado, así como los informes sobre su ejecución;
 
-III. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
+IX. Los destinatarios y el uso autorizado de toda entrega de recursos públicos, cualquiera que sea su destino, así como los informes que dichas personas deben entregar sobre su uso y destino de éstos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE MAYO DE 2013)</small>
+X. Las enajenaciones de bienes que realicen por cualquier título o acto, indicando los motivos, beneficiarios o adquirientes y los montos de operaciones;
 
-IV. Seis Vocales, quienes serán los representantes de:
+XI. Los montos asignados y criterios de acceso a los programas de subsidio;
 
-a) El Instituto de Salud del Estado de México.
+XII. Los resultados finales de las auditorias que se practiquen al sujeto obligado;
 
-b) El Centro Estatal de Trasplantes.
+XIII. Las reglas para otorgar concesiones, licencias, permisos o autorizaciones;
 
-c) La Coordinación de Hospitales Regionales de Alta Especialidad.
+XIV. El padrón inmobiliario;
 
-> <small>(REFORMADO, G.G. 2 DE MAYO DE 2013)</small>
+XV. Los contratos de obra pública, su monto y a quien le fueron asignados;
 
-d) La Coordinación de Salud del Instituto de Salud del Estado de México.
+XVI. Los informes que por disposición legal genere el sujeto obligado;
 
-> <small>(REFORMADO, G.G. 2 DE MAYO DE 2013)</small>
+XVII. Los documentos en que consten las cuentas públicas, empréstitos y deudas contraídas;
 
-e) El Instituto Materno Infantil del Estado de México.
+XVIII. La aplicación de fondos auxiliares especiales y el origen de los ingresos; y
 
-> <small>(ADICIONADO, G.G. 2 DE MAYO DE 2013)</small>
+XIX. La relación de solicitudes de acceso a la información pública y las respuestas que se les den.
 
-f) La Secretaría de Finanzas del Gobierno del Estado de México.
+###### ARTICULO 6°.
 
-V. Un representante del Patronato del Organismo.
+Se considera información reservada:
 
-A invitación del Presidente:
+I. La que comprometa la seguridad del Estado o del Municipio;
 
-VI. Un representante de una institución educativa de la Administración Pública Estatal.
+II. La que ponga en riesgo la seguridad pública;
 
-### CAPÍTULO II. DE LA DIRECCIÓN Y ADMINISTRACIÓN DEL BANCO
+III. La que ponga en riesgo la privacidad o la seguridad de los particulares;
 
-###### Artículo 9.
+IV La que dañe la estabilidad financiera o económica del Estado o los Municipios;
 
-Corresponde a la Junta de Gobierno el ejercicio de las atribuciones señaladas en la Ley, así como el cumplimiento de las obligaciones establecidas en otros ordenamientos legales.
+V. La que lesione los procesos de negociación de los sujetos obligados en cumplimiento de su función pública y pueda ser perjudicial del interés público;
 
-#### SECCIÓN SEGUNDA. DEL DIRECTOR GENERAL
+VI. La información de estudios y proyectos cuya divulgación pueda causar daño al interés del Estado o del Municipio, o suponga un riesgo para su realización;
 
-###### Artículo 10.
+VII. Los expedientes administrativos;
 
-El Banco estará a cargo de un Director General, quien tendrá, además de las atribuciones que le establece la Ley, las siguientes:
+VIII. Los procedimientos de responsabilidad de los servidores públicos. Será pública la resolución definitiva;
 
-I. Administrar y representar legalmente al Banco.
+IX. La que contenga las opiniones, estudios, recomendaciones o punto de vista que formen parte del proceso deliberativo de los servidores públicos y pueda ser perjudicial del interés público hasta en tanto no sea adoptada la decisión definitiva;
 
-II. Dirigir técnica y administrativamente las actividades del Banco.
+X. La contenida en las auditorias realizadas por los órganos de fiscalización o control, así como las realizadas por particulares a su solicitud, hasta en tanto se presenten las conclusiones de auditorias;
 
-III. Proponer a la Junta de Gobierno y aplicar, en su caso, políticas generales del Banco.
+XI. La que cause un perjuicio a las actividades de verificación del cumplimiento de las leyes y reglamentos y a la prevención de los delitos;
 
-IV. Conducir el funcionamiento del Banco, vigilando el cumplimiento de su objeto, planes y programas, así como la correcta operación de sus unidades administrativas.
+XII. La referente a las posturas, ofertas, propuestas o presupuestos generados con motivo de los concursos o licitaciones en proceso que las autoridades lleven acabo para adquirir, enajenar, arrendar, concesionar o contratar bienes o servicios. Una vez adjudicados los contratos, la información ya no será reservada;
 
-V. Promover políticas, lineamientos y criterios en materia de donación y trasplantes, a las instituciones del sector salud de la entidad.
+XIII. Los exámenes, evaluaciones o pruebas que para la obtención de grados, reconocimientos, permisos, licencias o autorizaciones, por disposición de Ley deban ser sustentados, así como la información que éstos hayan proporcionado con este motivo;
 
-VI. Impulsar los programas de capacitación, actualización y desarrollo de los servidores públicos del Banco y unidades médicas en materia de donación y trasplantes.
+XIV. La que genere una ventaja personal indebida en perjuicio de alguien;
 
-VII. Concurrir a las sesiones de la Junta de Gobierno, con voz pero sin voto.
+XV. La que por mandato expreso de una Ley sea considerada reservada; y
 
-VIII. Presentar a la Junta de Gobierno para su autorización, los proyectos del presupuesto anual de ingresos y egresos.
+XVI. Los expedientes y la discusión de los asuntos materia de sesión secreta del Ayuntamiento. La resolución final, con su fundamentación y motivación, es pública siempre y cuando no contravenga otras disposiciones legales.
 
-IX. Presentar anualmente a la Junta de Gobierno el programa de actividades del Banco.
+###### ARTICULO 7°.
 
-X. Proponer a la Junta de Gobierno modificaciones a su organización, cuando sea necesario, para el buen funcionamiento del Banco.
+Se clasifica como información confidencial:
 
-XI. Celebrar convenios, contratos y acuerdos con dependencias o entidades de la administración pública federal, estatal o municipal, organismos del sector privado o social, nacionales o extranjeros, dando cuenta de ello a la Junta de Gobierno.
+l. Los datos personales;
 
-XII. Promover y vigilar el cumplimiento de las disposiciones establecidas por las Secretarías de Salud Federal y Estatal, en materia de procuración, procesamiento, conservación y distribución de órganos y tejidos.
+II. La entregada por los particulares a los sujetos obligados para la integración de censos, para efectos estadísticos u otros similares, misma que sólo podrá usarse para los fines que proporcionó;
 
-XIII. Administrar el patrimonio del Banco.
+III. La información patrimonial que los servidores públicos declaren en los términos de la Ley de la materia, salvo que los declarantes autoricen su divulgación;
 
-XIV. Supervisar y vigilar la organización y el funcionamiento del Banco.
+IV. La que ponga en riesgo la vida, la integridad, el patrimonio, la seguridad o la salud de cualquier persona; o afecte directamente el ámbito de la vida privada de las personas; y
 
-XV. Presentar a la Junta de Gobierno, propuestas de modificación a los ordenamientos jurídicos y administrativos, a efecto de mejorar el funcionamiento del Banco.
+V. La que por mandato expreso de una Ley sea considerada como confidencial o secreta.
 
-XVI. Proponer a la Junta de Gobierno, para su aprobación, los nombramientos, renuncias y remociones del personal de confianza del Banco.
+###### ARTICULO 8°.
 
-XVII. Aprobar en el ámbito de su competencia el ingreso y remoción de los servidores públicos del Banco.
+La información confidencial no estará sujeta a plazos de vencimiento, teniendo esa clasificación indefinidamente. En caso de datos personales sólo podrán darse a conocer con autorización del titular.
 
-XVIII. Someter a la consideración de la Junta de Gobierno, acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta el Banco.
+### CAPITULO SEGUNDO. DE LA ESTRUCTURA ADMINISTRATIVA
 
-XIX. Conocer del incumplimiento a las disposiciones del Banco y aplicar, en el ámbito de su competencia, las sanciones correspondientes.
+###### ARTICULO 9°.
 
-XX. Someter a la aprobación de la Junta de Gobierno, la creación de comisiones o grupos de trabajo necesarios para el cumplimiento del objeto del Banco.
+La Unidad de Acceso a la Información Publica residirá en la cabecera municipal y estará a cargo de un Titular, el cuál será designado por el Ayuntamiento, a propuesta del Presidente Municipal.
 
-XXI. Delegar las facultades conferidas previo acuerdo de la Junta de Gobierno sin perjuicio de su ejercicio directo.
+###### ARTICULO 10.
 
-XXII. Emitir constancias o expedir copias certificadas de documentos existentes en sus archivos.
+El titular de la Unidad de Acceso, deberá reunirlos siguientes requisitos:
 
-XXIII. Resolver en el ámbito administrativo las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
+I. Tener grado de licenciatura, titulado y tener conocimiento en la materia de la Ley de Acceso;
 
-XXIV. Las demás que le confieran otras disposiciones legales.
+II. Tener por lo menos 25 años de edad al momento de la designación;
 
-###### Artículo 11.
+III. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas básicas siguientes:
+IV. Ser de reconocida honorabilidad y actitud para desempeñar el cargo; y
 
-I. Departamento de Procuración.
+V. Reunir en su caso, los requisitos del servicio civil de carrera.
 
-II. Departamento de Procesamiento y Conservación.
+###### ARTICULO 11.
 
-III. Departamento de Investigación y Enseñanza.
+El titular de la Unidad de Acceso, podrá ser removido por las siguientes causas:
 
-IV. Unidad de Apoyo Administrativo.
+I. Cuando incurran en falta de probidad;
 
-> <small>(REFORMADA, G.G. 22 DE MAYO DE 2015)</small>
+II. Notoria ineficiencia; y
 
-V. Unidad Jurídica.
+III. Por la comisión de faltas administrativas o delitos, o por incumplimiento grave de sus atribuciones, conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato.
 
-> <small>(ADICIONADA, G.G. 22 DE MAYO DE 2015)</small>
+###### ARTICULO 12.
 
-VI. Contraloría Interna.
+La Unidad de Acceso contará con la estructura administrativa, espacio físico y medios informáticos suficientes que requieran las necesidades del servicio y que permita el presupuesto para la prestación del servicio oportunamente. El ayuntamiento incluirá en el presupuesto de egresos la partida correspondiente.
 
-El Banco contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
+### CAPITULO TERCERO. DE LAS OBLIGACIONES DE LA UNIDAD DE ACCESO
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE MAYO DE 2015)</small>
+###### ARTICULO 13.
 
-###### Artículo 12.
+La Unidad de Acceso, además de las atribuciones previstas en la Ley de Acceso a la Información Publica para el Estado y los Municipios, tendrá las siguientes obligaciones:
 
-Al frente de cada Departamento y Unidad habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran.
+I. Recabar y difundir la información clasificada como pública a que se refiere el Artículo 10 de la Ley;
 
-### CAPÍTULO III. DE LOS JEFES DE DEPARTAMENTO Y DE LOS JEFES DE UNIDAD
+II. Recibir y despachar las solicitudes de acceso a la información pública;
 
-###### Artículo 13.
+III. Localizar, y en su caso entregar la información pública solicitada;
 
-Corresponde a los Jefes de Departamento y de Unidad:
+IV. Notificar al particular sobre la resolución que recaiga a su solicitud de acceso a la información;
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar la ejecución de las funciones encomendadas a la unidad administrativa a su cargo.
+V. Orientar en su caso, al solicitante respecto de la Unidad de Acceso de la Dependencia o Entidad Gubernamental que posiblemente posea la información pública requerida, cuando la misma no se encuentre dentro del ámbito de este reglamento;
 
-II. Formular y ejecutar, en el ámbito de su competencia, los programas anuales de actividades y anteproyectos de presupuesto del Banco.
+VI. Realizar las gestiones necesarias y coordinarse con la Dependencia o Entidad, para localizar y obtener los documentos administrativos en los que conste la información solicitada.
 
-III. Elaborar, actualizar y aplicar, en el ámbito de su competencia, los reglamentos, manuales administrativos y demás disposiciones que regulen la organización y el funcionamiento del Banco.
+VII. Llevar un registro respecto de los asuntos que se tramiten en la Unidad de Acceso correspondiente mismo que deberá contener:
 
-IV. Formular y proponer al Director General la suscripción de acuerdos, convenios y contratos que contribuyan al cumplimiento del objeto del Banco y ejecutar las acciones que les correspondan.
+a). Datos de él o los solicitantes;
 
-V. Vigilar la aplicación de las disposiciones legales y administrativas que rigen la procuración, procesamiento, conservación y distribución, así como la realización de proyectos de investigación y enseñanza en materia de tejidos de seres humanos.
+b). Número de solicitudes de información;
 
-VI. Formular los dictámenes, estudios, opiniones e informes que les sean solicitados por el Director General o aquellos que les correspondan en razón de sus atribuciones.
+c). Resultado y costo de las solicitudes;
 
-VII. Proponer al Director General el ingreso, licencia, promoción y remoción del personal adscrito a la unidad administrativa a su cargo, de conformidad con las disposiciones aplicables.
+d). Tiempo de respuesta de las mismas.
 
-VIII. Acordar con el Director General el despacho de los asuntos a su cargo que requieran de su intervención.
+VIII. Elaborar los formatos de solicitud de Acceso a la Información;
 
-IX. Coordinar sus actividades con los titulares de las demás unidades administrativas del Banco, cuando la ejecución de sus programas y acciones así lo requieran.
+IX. Realizar los formatos de solicitud de acceso y corrección de datos personales;
 
-X. Proponer al Director General modificaciones jurídicas y administrativas, que tiendan a eficientar el cumplimiento de sus funciones y programas.
+X. Elaborar un manual de procedimientos del sistema de acceso a la información pública;
 
-XI. Someter a la consideración del Director General acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la unidad administrativa a su cargo, y llevar a cabo su ejecución y cumplimiento.
+XI. Capacitar a las Dependencias y Entidades respecto de la organización y conservación de tal manera que le facilite la clasificación de la misma;
 
-XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia.
+XII. Elaborar semestralmente un índice, por rubros temáticos de la información clasificada como reservada; que deberá contener:
 
-XIII. Desempeñar las comisiones que les encomiende el Director General e informarle sobre el cumplimiento de las mismas.
+a) La Dependencia o Entidad que generó la información;
 
-XIV. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten.
+b) La fecha de clasificación de la información;
 
-XV. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
+c) El fundamento legal; y
 
-XVI. Cumplir, en el ámbito de su competencia, las disposiciones en materia de transparencia y acceso a la información pública.
+d) El plazo de reserva;
 
-XVII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
+A fin de facilitar lo anterior, la información que genere cada unidad administrativa y sea clasificada con el carácter de reservada por la Unidad de Acceso, será inscrita en el índice en un término de cinco días hábiles.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE MAYO DE 2015)</small>
+Para los mismos efectos, cuando la información clasificada como reservada deje de serlo, se pondrá a disposición del público a partir del momento en que se venza el plazo de se clasificación o cese la causa que originó la misma;
 
-###### Artículo 14.
+XIII. Vigilar que no se distribuya, difunda o comercialicen los datos personales contenidos en los sistemas (sic) Acceso a la Información Publica.
 
-Corresponde al Departamento de Procuración:
+Si la Dependencia o Entidad transmite a la Unidad de Acceso información confidencial o reservada como parte de tos documentos solicitados, esta elaborará la presentación para que pueda ser entregada en cumplimiento de lo que señala la Ley;
 
-I. Integrar y analizar la información sobre donaciones, así como proponer programas, estrategias y acciones en materia de tejidos enfocadas a la población en general sobre la donación voluntaria.
+XIV. Proporcionar los datos personales en los supuestos y bajo las condiciones previstas en el artículo 24 de la Ley, previa petición fundada y motivada del sujeto obligado solicitante;
 
-II. Diseñar e impartir cursos de capacitación al personal de salud que participe en donaciones y trasplantes de tejidos y a la sociedad en general.
+XV. Integrar un catálogo de la información con que cuenta cada Dependencia o Entidad y mantenerlo actualizado; y
 
-III. Dar a conocer los programas de donación de tejidos a las unidades médicas, a través de protocolos de evaluación de donantes, su preservación, obtención y traslado de órganos y tejidos.
+XVI. Emitir los lineamientos para la organización y función de los archivos de la Administración Publica Municipal;
 
-IV. Definir e implantar procesos para que las unidades médicas detecten donadores potenciales.
+XVII. Las demás contenidas en él articulo 37 de la Ley de Acceso a la Información.
 
-V. Vigilar la aplicación de técnicas y mecanismos en el manejo y disposición de residuos biológicos infecciosos, de conformidad con la normatividad vigente.
+###### ARTICULO 14.
 
-VI. Establecer estrategias que permitan promover una cultura para la donación de órganos y tejidos.
+El Titular de la Unidad de Acceso a la Información, tendrá las siguientes atribuciones:
 
-VII. Implementar sistemas o procesos que permitan garantizar la calidad y seguridad en la procuración de órganos y tejidos.
+I. Emitir el acuerdo respectivo cuando se trate de información clasificada como reservada a confidencial, así como en el caso de inexistencia de la información solicitada, debidamente fundado y motivado conforme a la Ley;
 
-VIII. Supervisar el cumplimiento y aplicación de la normatividad en materia de control sanitario de tejidos de seres humanos, así como de las medidas de bioseguridad dentro de las unidades administrativas del Banco y de las unidades médicas.
+II. Requerir a la Dependencia o Entidad correspondiente la información que se solicite, a fin de dar trámite a la petición formulada;
 
-IX. Vigilar que las prácticas médico quirúrgicas, se realicen con el equipo especializado para la recuperación del tejido, de conformidad con la normatividad aplicable.
+III. Abstenerse de tramitar solicitudes de acceso a la información ofensivas o anónimas, o cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona;
 
-X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
+IV. Proponer al Ayuntamiento las disposiciones complementarias en cuanto al trámite de las solicitudes de acceso a la Información Publica Municipal;
 
-### CAPÍTULO IV. DE LOS DEPARTAMENTOS Y UNIDADES
+V. Clasificar la información que posea cada Dependencia o Entidad, en reservada o confidencial y actualizar la información;
 
-###### Artículo 15.
+VI. Clasificar en reservada o confidencial, en su caso, la información que se genere o se adquiera en cada una de las Dependencias o Entidades;
 
-Corresponde al Departamento de Procesamiento y Conservación:
+VII. Llevar a cabo la reclasificación de la información cuando se cumpla él término previsto para su reserva o bien en el caso de que cese la causa motivo de reserva;
 
-I. Implementar medidas de bioseguridad para la protección del personal de las unidades médicas y del Banco.
+VIII. Verificar si la Dependencia o Entidad a la que pretende remitir la información es competente para darle trámite, de acuerdo a la información que maneja;
 
-II. Supervisar el cumplimiento y aplicación de la normatividad en materia de procesamiento y conservación de tejidos.
+IX. Requerir antes del vencimiento del plazo señalado para tramitar una solicitud de Acceso a la Información Publica, la remisión de la información;
 
-III. Elaborar registros de las unidades médicas que realicen actos de disposición de tejidos con fines de trasplantes.
+X. Solicitar la información a las Unidades de Enlace;
 
-IV. Vigilar la aplicación de técnicas y mecanismos para el manejo y disposición de residuos biológicos infecciosos, de acuerdo con la normatividad vigente.
+XI. Solicitar a la Contraloría Municipal que finque el procedimiento disciplinario respectivo en caso de que la Unidad de Enlace incurra en incumplimiento de la entrega de la información en el plazo señalado legalmente para ello o se niegue a su entrega;
 
-V. Vigilar que las prácticas médico quirúrgicas y las valoraciones clínicas, se realicen con el equipo habilitado, de conformidad con la normatividad aplicable.
+XII. Conocer en su caso, el contenido de la información preclasificada como reservada o confidencial, para efecto de fundar y motivar adecuadamente el acuerdo que corresponde.
 
-VI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
+### CAPITULO CUARTO. DE LAS UNIDADES DE ENLACE
 
-###### Artículo 16.
+###### ARTICULO 15.
 
-Corresponde al Departamento de Investigación y Enseñanza
+La Unidad de Enlace es la Unidad Administrativa designada en cada dependencia o entidad como responsable de atender las solicitudes y requerimientos de la Unidad de Acceso en el trámite de las solicitudes de acceso a la Información.
 
-I. Diseñar programas de enseñanza, capacitación y desarrollo del personal del Banco y en las unidades médicas.
+###### ARTICULO 16.
 
-II. Establecer y coordinar el desarrollo de las líneas de investigación en materia de disposición, procesamiento y trasplantes de tejidos.
+El Titular de cada Dependencia, deberá designar a la Unidad Administrativa que llevará a cabo las funciones de Unidad de Enlace ante la Unidad de Acceso. En las entidades de la Administración paramunicipal, el órgano de gobierno aprobará la designación de la unidad de enlace de la propuesta que presente el Director General.
 
-III. Vigilar y promover investigaciones en las que se utilicen cadáveres de seres humanos, órganos y tejidos o células para impulsar la práctica de trasplantes.
+###### ARTICULO 17.
 
-IV. Fomentar la formación y capacitación del personal de salud en materia de trasplantes de tejidos, así como en la procuración de los mismos.
+Las Unidades de enlace tendrán las siguientes obligaciones y facultades en materia de Acceso a la Información:
 
-V. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
+I. Llevar un registro de los asuntos que tramita, respecto a esta materia, en la Dependencia o Entidad que le corresponda;
 
-###### Artículo 17.
+II. Sugerir al titular de la Unidad de Acceso la clasificación de la información que posea la Dependencia o Entidad, esto es, el considerar la información como reservada;
 
-Corresponde a la Unidad de Apoyo Administrativo:
+III. Informar a los individuos el propósito por el cual se recaban los datos personales, en su caso;
 
-I. Planear, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales y financieros, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas del Banco, en términos de la normatividad en la materia.
+IV. Habilitar personal calificado a fin de que se de seguimiento al tramite de Acceso a la Información iniciado ante la Unidad de Acceso, ya que la Unidad de Enlace de cada Dependencia o Entidad, será la encargada de tramitar la solicitud de Acceso a la Información al interior de la Dependencia o Entidad;
 
-II. Establecer, en el ámbito de su competencia, políticas y procedimientos para la administración de los recursos humanos, materiales y financieros, así como llevar a cabo su seguimiento y control, de acuerdo con los objetivos y estrategias definidas en los programas del Banco.
+V Realizar las gestiones necesarias y coordinarse con las Unidades Administrativas de la propia Dependencia o Entidad, para localizar y obtener los documentos administrativos en los que conste la información solicitada;
 
-III. Integrar el anteproyecto de presupuesto anual de ingresos y egresos del Banco y someterlo a la consideración del Director General, así como realizar la calendarización de los recursos del presupuesto autorizado y tramitar las modificaciones y ampliaciones presupuestales.
+VI. Elaborar el proyecto de acuerdo cuando se trate de información clasificada como reservada o confidencial o bien cuando se contengan partes o secciones de esta información y someterlo a consideración de la Unidad de Acceso a la Información;
 
-IV. Elaborar los estados financieros del Banco y realizar el registro de la contabilidad patrimonial y presupuestaria.
+VII. Ordenar sus archivos en base a las consideraciones de Información pública, información clasificada e información reservada. Con la obligación de ponerlo a la vista del Titular de la Unidad de Acceso, quien finalmente determinar (sic) si la información es apegada a la Ley;
 
-V. Controlar el gasto de inversión y gasto corriente a nivel presupuestal, con el propósito de evitar dispendios y desviaciones en su ejercicio.
+VIII. Entregar a tiempo la información requerida en el lapso señalado o en caso de no tenerla a su disposición, informar a la Unidad de Acceso; y
 
-VI. Adquirir oportunamente los bienes y servicios que le soliciten las diferentes unidades administrativas del Banco, con base en las disposiciones jurídicas en la materia.
+IX. Las demás que señale el Titular de la Unidad de Acceso a la Información Pública.
 
-VII. Presidir los Comités de Adquisiciones y Servicios y de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones del Banco, de conformidad con la normatividad aplicable.
+###### ARTICULO 18.
 
-VIII. Ejecutar los procedimientos de adquisiciones y servicios, arrendamientos, enajenaciones, obra pública y servicios relacionados con la misma que requiera el Banco, de acuerdo con la normatividad aplicable.
+Los servidores públicos integrantes de cada una de las Dependencias o Entidades, en todos los niveles jerárquicos, tendrán la responsabilidad de dar buen uso y conservar la información de que obre en su unidad, dependencia, oficina o área de trabajo, observando los criterios específicos para el archivo elaborados por el Archivo General del Estado.
 
-IX. Suscribir los contratos y convenios derivados de los procedimientos adquisitivos de bienes, arrendamientos, servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable, previo acuerdo del Director General.
+###### ARTICULO 19.
 
-X. Rescindir administrativamente los contratos de adquisición de bienes y de prestación de servicios que haya celebrado el Banco, e imponer las sanciones que prevé la legislación en la materia a los proveedores que incurran en el incumplimiento de dichos contratos.
+Cada una de las áreas que integren la Dependencia o Entidad, deberán elaborar un catálogo de la información que obre en la misma, la cual será presentada al Titular de la misma, a efecto de que verifique su contenido y existencia.
 
-XI. Tramitar los movimientos de ingreso, contratación, cambios, permisos, licencias, incidencias, remuneraciones y demás movimientos del personal del Banco, en términos de las disposiciones legales.
+###### ARTICULO 20.
 
-XII. Conducir y coordinar las relaciones laborales entre el personal y las autoridades del Banco, conforme a los ordenamientos legales aplicables en materia de trabajo.
+En cada área de la Dependencia o Entidad se acondicionará el espacio adecuado para el debido archivo, conservación y resguardo de la información, a fin de que sea accesible la consulta por parte del personal habilitado de dicha Unidad para dar trámite al requerimiento de información por parte de la Unidad de Acceso.
 
-XIII. Promover la capacitación y desarrollo del personal administrativo del Banco.
+### CAPITULO QUINTO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACION PUBLICA EN LA ADMINISTRACION PUBLICA MUNICIPAL
 
-XIV. Realizar el registro, control, mantenimiento y conservación de los bienes muebles e inmuebles asignados a las unidades administrativas del Organismo.
+###### ARTICULO 21.
 
-XV. Establecer políticas y procedimientos para la administración y funcionamiento de los almacenes del Banco, así como para el control de inventarios.
+La solicitud de Acceso a la Información Pública deberá formularse mediante formato que para el efecto proporcione la Unidad de Acceso correspondiente.
 
-XVI. Gestionar los contratos de seguros y fianzas para garantizar los actos relacionados con bienes y derechos patrimoniales del Banco.
+###### ARTICULO 22.
 
-XVII. Determinar y controlar las medidas de seguridad y vigilancia de las instalaciones y bienes del Banco, así como instrumentar mecanismos preventivos y dispositivos de emergencia en caso de desastre.
+El Formato deberá contener:
 
-XVIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+l. Número de Folio;
 
-> <small>(ADICIONADO, G.G. 22 DE MAYO DE 2015)</small>
+II. Datos del solicitante;
 
-###### Artículo 17 Bis.
+III. Dependencia o. Entidad de la que se requiera la información;
 
-Corresponde a la Unidad Jurídica:
+IV. Descripción de la información solicitada;
 
-I Representar legalmente al Organismo y al Director ante las autoridades jurisdiccionales estatales y federales procedimientos en que sea actor o demandado, tengan interés jurídico o se le designe como parte, en los términos de los poderes que le otorgue el Director General, así como a sus servidores públicos sujetos a investigación que sean parte en juicios penales o civiles, por actos derivados del servicio y no impliquen conflicto de intereses con el Banco, ejercitando toda clase de acciones, defensas y excepciones.
+V. Forma en que desea le sea notificado el trámite de la solicitud, y
 
-II Gestionar la suscripción de Convenios y/o Acuerdos de colaboración con instituciones públicas y privadas a favor de la donación y trasplantes de órganos y tejidos dentro y fuera del Estado de México.
+VI. Fecha de solicitud.
 
-III Establecer, sistematizar, unificar y difundir entre las unidades administrativas del Organismo los criterios de interpretación y aplicación de las disposiciones legales, reglamentarias y administrativas que sean de su competencia.
+###### ARTICULO 23.
 
-IV Elaborar, revisar y emitir opinión sobre los anteproyectos de leyes, reglamentos, decretos y acuerdos relativos a los asuntos de la competencia del Organismo.
+Los solicitantes de la información pública deberán señalar el mecanismo por el cual les sea notificado el tramite de solicitud. Tal modificación podrá ser:
 
-V Coadyuvar con la Procuraduría General de Justicia en la integración de las carpetas de investigación y en el trámite de los procesos que afecten al Organismo, o bien en los que éste tenga interés jurídico.
+I. Personalmente en el domicilio de la Unidad de Acceso;
 
-VI Vigilar la continuidad de los juicios, procedimientos y diligencias respectivas; así como formular y suscribir las demandas, contestaciones y en general todas las promociones que se requieran para la continuación de los juicios, recursos o cualquier procedimiento interpuesto ante dichas autoridades y vigilar el cumplimiento que a dichos juicios se refieran, formular dictámenes, contestar demandas laborales, formular y absolver posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones que a dichos juicios se refieran.
+II. Por medio electrónico.
 
-VII Participar en el Comité de Adquisiciones y Servicios del Organismo y demás comités donde sea requerida su presencia.
+###### ARTICULO 24.
 
-VIII Revisar los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma, se celebren en las mejores condiciones para el Banco y en apego a la normatividad aplicable.
+La información publicada en el portal de Internet de cada sujeto obligado, podrá ser consultada libremente sin previo requisito.
 
-IX Asesorar jurídicamente al Director General y a las Unidades Administrativas del Banco, respecto de las atribuciones que les compete ejercer.
+###### ARTICULO 25
 
-X Elaborar un registro de los convenios, acuerdos, contratos y bases de coordinación que celebre el Organismo.
+Una vez recibido el formato de solicitud respectivo en la Unidad de Acceso a la Información Publica, ésta procederá al análisis del mismo, y en su caso:
 
-XI Formular denuncias de hechos, querellas y desistimientos, así como otorgar los perdones legales que procedan.
+I. Si del análisis del formato de solicitud se determina que los datos proporcionados por el mismo no son suficientes para localizar los documentos o son erróneos, procederá en los términos señalados en el articulo 39 de la Ley, dentro de los 2 dos días hábiles siguientes al de la recepción de la solicitud.
 
-XII Dictaminar las actas administrativas que se instrumenten a los servidores públicos del Organismo por transgredir las disposiciones laborales aplicables.
+El término de 20 veinte días, de acuerdo con la Ley, para proporcionar la información, se interrumpe, hasta en tanto el solicitante satisfaga el requerimiento de aclaración, por parte de la Unidad de Acceso.
 
-XIII Las demás que le confieren otras disposiciones legales.
+En caso de modificación sustancial de la solicitud de Acceso presentada como respuesta al requerimiento comenzará a correr un nuevo plazo de 20 veinte días.
 
-###### Artículo 18.
+II. Cuando la solicitud de información contenga los datos necesarios para darle tramite, se requerirá a la Unidad de Enlace de la Dependencia o Entidad que corresponda dentro de los 2 dos días hábiles siguientes al que haya recibido la solicitud, la información respectiva.
 
-Corresponde a la Contraloría Interna:
+###### ARTICULO 26.
 
-I. Recibir, tramitar y resolver las quejas y denuncias que se interpongan en contra de los servidores públicos del Banco.
+La Unidad de Enlace de la Dependencia o Entidad procederá a revisar la solicitud, a efecto de determinar si la Dependencia o Entidad cuenta con la información; si ésta es pública deberá notificarla a la Unidad de Acceso dentro de los 10 diez días hábiles siguientes, a aquel en que haya recibido la solicitud, a fin de determinar cómo se proporcionará la información.
 
-II. Elaborar el Programa Anual de Control y Evaluación, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan; y someterlo a la consideración de la Dirección General de Control y Evaluación que corresponda.
+Si en este plazo no existe respuesta de la Unidad de Enlace de la Dependencia o Entidad, el Titular de la Unidad de Acceso, le requerirá a fin de que dé respuesta a la solicitud remitida, en un plazo no mayor de 2 dos días hábiles.
 
-III. Cumplir el Programa Anual de Control y Evaluación autorizado, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan.
+En caso de incumplimiento, la Unidad de Acceso lo hará del conocimiento de la Instancias Competentes en término de la Ley para fijar las sanciones respectivas.
 
-IV. Iniciar, substanciar y resolver los procedimientos administrativos, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+###### ARTICULO 27.
 
-V. Acordar la suspensión temporal de servidores públicos durante la substanciación del procedimiento administrativo, de acuerdo con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, dando aviso a la autoridad correspondiente.
+Si la información solicitada no se encuentra en los archivos de la Dependencia o Entidad, la Unidad de Enlace deberá notificar a la Unidad de Acceso dentro de los 5 cinco días hábiles siguientes a aquél en que haya recibido la solicitud, a fin de que se apliquen las medidas pertinentes para localizar la información solicitada y se culmine el trámite correspondiente.
 
-VI. Fincar pliegos preventivos de responsabilidad y calificar la responsabilidad administrativa resarcitoria, pudiendo confirmarla, modificarla o cancelarla, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+En caso de que no se encuentre la información el Titular de la Unidad de Acceso fundará y motivará la resolución que conforme a la inexistencia de la misma y notificará al solicitante.
 
-VII. Conocer, tramitar y resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones aplicables, sin menoscabo de lo dispuesto en el artículo 21 fracción XIV del Reglamento Interior de la Secretaría de la Contraloría.
+###### ARTICULO 28.
 
-VIII. Realizar las acciones de control y evaluación a los ingresos, gastos, recursos y obligaciones del Banco.
+En caso de que la información solicitada por el particular ya este disponible al público por otros medios, tales como libros, compendios, trípticos, en formatos magnéticos o electrónicos, u otros disponibles en Internet, podrá proporcionarla por ese medio.
 
-IX. Proponer y acordar con la unidad administrativa auditada, las acciones de mejora derivadas de las acciones de control y evaluación practicadas, tendentes a fortalecer el control interno y la gestión del Banco, así como vigilar su implementación.
+###### ARTICULO 29.
 
-X. Dar seguimiento a la solventación de las observaciones derivadas de las acciones de control y evaluación, así como de las realizadas por auditores externos y, en su caso, por otras instancias de fiscalización.
+Cuando la Unidad de Enlace determina que la información solicitada se encuentra clasificada como reservada o confidencial, deberá remitir a la Unidad de Acceso a la Información Pública tanto la solicitud de acceso como el acuerdo en el que funde y motive la clasificación correspondiente dentro de 3 tres días hábiles siguiente a aquel en que se haya recibido la solicitud.
 
-XI. Vigilar que las unidades administrativas del Banco cumplan con las disposiciones jurídicas y administrativas aplicables en sus diferentes ámbitos.
+###### ARTICULO 30.
 
-XII. Elaborar diagnósticos del Banco, con base en las acciones de control y evaluación realizadas.
+Cuando la información solicitada se detecte que existen datos personales, la Unidad de Acceso comunicará al titular de los mismos, a fin de que exprese sí no tiene inconveniente en que se proporcionen los datos, dentro de los 3 tres días hábiles. Si el titular de los datos no da contestación dentro 5 cinco días hábiles al requerimiento, se entenderá que no desea que se conozca la información.
 
-XIII. Participar en los procesos de entrega y recepción de las unidades administrativas del Banco, verificando su apego a la normatividad correspondiente.
+###### ARTICULO 31.
 
-XIV. Promover el fortalecimiento de mecanismos de control de la gestión del Banco e impulsar el autocontrol y la autoevaluación en el cumplimiento de planes, programas, objetivos y metas, así como la mejora continua de los procesos y servicios públicos.
+Cuando la información solicitada contenga datos clasificados como reservados o confidenciales, se eliminarán las partes o secciones que contengan dichos datos, siempre y cuando se puedan eliminar del documento sin alterarlo en su totalidad, señalando las partes o secciones que fueron eliminadas, dicha información se proporcionará dentro de los 20 veinte días hábiles siguientes al de recepción de la solicitud.
 
-XV. Expedir constancias o certificar copias de documentos existentes en sus archivos, así como de la impresión documental de datos contenidos en los sistemas informáticos del Banco, y otros que operen con relación a los asuntos de su competencia.
+La Unidad de Acceso procederá a la revisión de los documentos remitidos, a fin de verificar la información adecuada de los datos clasificados como reservados o confidenciales.
 
-XVI. Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delitos: e instar al área facultada del Banco para formular, cuando así se requiera, las querellas a que hubiere lugar.
+### CAPITULO SEXTO. DE LA AMPLIACION DEL PLAZO PARA LA ENTREGA DE INFORMACION
 
-XVII. Realizar, ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emitan.
+###### ARTICULO 32.
 
-XVIII. Proponer a la Dirección General de Control y Evaluación que corresponda, y a la de Responsabilidades, las políticas, normas, lineamientos, procedimientos y demás disposiciones que mejoren las acciones de control y evaluación, y de responsabilidades.
+La Unidad de Enlace dentro de los 5 cinco días hábiles siguientes a la recepción de la solicitud, solicitará a la Unidad de Acceso la ampliación del término para la entrega de la misma, exponiendo los motivos para dicha ampliación.
 
-XIX. Brindar apoyo en la realización de las funciones que tienen encomendadas las unidades administrativas del Banco.
+###### ARTICULO 33.
 
-XX. Solicitar a las unidades administrativas del Banco, la información necesaria para cumplir con sus atribuciones.
+La Unidad de Acceso a la Información Pública resolverá dentro de los 3 tres días hábiles siguientes a la solicitud de ampliación del plazo, si procede o no, informando al solicitante la ampliación del plazo señalado el término de ampliación el cual no excederá de lo previsto en él artículo 42 de, la Ley de Acceso a la Información Pública para el Estado y los Municipios del Estado de Guanajuato.
 
-XXI. Proporcionar, en el ámbito de su competencia, la información que le sea solicitada por las unidades administrativas de la Secretaría de la Contraloría para el cumplimiento de sus funciones;
+###### ARTICULO 34.
 
-XXII. Verificar el adecuado ejercicio del presupuesto del Banco, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
+No podrán invocarse como causales de ampliación del plazo, los motivos que supongan negligencia o descuido de la Dependencia o Entidad en el desahogo de la solicitud.
 
-XXIII. Solicitar el apoyo de las unidades administrativas del Banco, cuando así se requiera.
+###### ARTICULO 35.
 
-XXIV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
+Podrán ser causas de ampliación del término para la entrega de información:
 
-###### Artículo 19.
+I. Cuando el sujeto obligado tenga la información solicitada, pero sea materialmente imposible tenerla en el lapso de término previsto por la Ley;
 
-El Consejo Técnico Consultivo es una instancia permanente de coordinación, apoyo y asesoría en la renovación y progreso científico del Banco.
+II. Cuando exista el requerimiento de aclaración a que se refiere el artículo 39 de la Ley; o
 
-###### Artículo 20.
+III. Por causa de fuerza mayor.
 
-El Consejo estará integrado por:
+###### ARTICULO 36.
 
-I. Un Presidente, quien será el Director General.
+Podrán ser causas de negativa de información:
 
-II. Un Secretario Técnico, designado por el Director General.
+I. Cuando una Dependencia o Entidad, notifique a la Unidad de Acceso que no tiene la información solicitada y sé inicie el análisis respectivo para localizar la información;
 
-III. Siete Vocales, quienes serán los representantes de:
+II. Cuando la información solicitada esté clasificada como reservada o confidencial.
 
-a. El Instituto de Salud del Estado de México.
+### CAPITULO SEPTIMO. DEL PROCEDIMIENTO PARA LA CORRECCION DE DATOS
 
-b. La Facultad de Medicina de la Universidad Autónoma del Estado de México.
+###### ARTICULO 37.
 
-C. El Centro Estatal de Trasplantes.
+Se procederá a la rectificación de datos personales cuando exista solicitud por parte del interesado, dirigida a la Unidad de Acceso a la Información Pública.
 
-d. El Instituto Mexicano del Seguro Social Delegación Oriente.
+###### ARTICULO 38.
 
-e. El Centro Nacional de Trasplantes.
+La solicitud de corrección de datos deberá contener:
 
-f. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+I. Los datos que se pretenden corregir haciendo referencia en dónde constan los mismos;
 
-g. El Consejo de Medicina General del Estado de México.
+II. Indicar los datos correctos y si es posible acreditar la exactitud de los que se proporcionan; y
 
-### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
+III. En caso de que pretendan complementar los datos personales, indicar la información faltante. A efecto de lo anterior, deberá acreditar los particulares su personalidad como titulares de los datos personales a que hacen referencia, o su representante respectivamente, en el caso de éstos últimos la representación será de carácter legal en los términos de los normatividad correspondiente.
 
-###### Artículo 21.
+###### ARTICULO 39.
 
-Corresponde al Consejo el ejercicio de las facultades señaladas en la Ley, así como en otras disposiciones legales.
+La Unidad de Acceso a la Información Pública solicitará en un plazo de 3 tres días hábiles siguientes al de recepción de la solicitud respectiva, a la Unidad de Enlace correspondiente, la remisión del expediente o documentos que contengan los datos personales del solicitante; indicando se señale cómo se obtuvieron los datos personales que en dicha documentación constan.
 
-###### Artículo 22.
+###### ARTICULO 40.
 
-El Director General será suplido en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que aquél designe. En las mayores de 15 días hábiles, por quien designe el Presidente de la Junta de Gobierno.
+La Unidad de Acceso con el apoyo de la Unidad de Enlace respectiva, analizará la procedencia de dicha modificación dicho análisis se realizará en un término de 15 quince días hábiles a partir de la recepción de la solicitud.
 
-###### Artículo 23.
+Asimismo, se podrá requerir al solicitante la información que se considere pertinente a efecto de verificar la exactitud de los datos.
 
-Los Jefes de Departamento y de Unidad serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que aquéllos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
+###### ARTICULO 41.
 
-T R A N S I T O R I O S
+Si resulta procedente la modificación, se emitirá un acuerdo en el cual se instruya a la Unidad de Enlace correspondiente, a realizar la modificación de los datos respectivos, señalando lo datos correctos e indicando que se anexe a la corrección del documento el acuerdo de modificación de los mismos.
 
-PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+Asimismo, la Unidad de Acceso a la Información Pública, notificará al solicitante en un plazo que no excederá los 30 treinta días hábiles siguientes al de la determinación de procedencia de las modificaciones, que las mismas fueron conducentes.
 
-SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTICULO 42.
 
-Aprobado por la Junta de Gobierno del Banco de Tejidos del Estado de México, según consta en acta de su Primera Sesión Ordinaria, celebrada en la ciudad de Toluca de Lerdo, México, a los diez y nueve días del mes de abril de dos mil doce.
+En caso de que se determine que no es procedente la modificación, la Unidad de Acceso notificará al interesando (sic) expresando las razones y fundamento que tomó en consideración para determinar la no procedencia de la corrección de los datos, dicho plazo no excederá de 30 treinta días hábiles siguientes a la presentación de la solicitud conforme a lo previsto en el artículo 26 de la Ley de Acceso a la Información.
 
-DR. GABRIEL JAIME O'SHEA CUEVAS
+###### ARTICULO 43.
 
-SECRETARIO DE SALUD Y PRESIDENTE DE LA JUNTA DE GOBIERNO
+Las comisiones que conforman el H. Ayuntamiento proporcionarán la información en los términos previstos en el presente Reglamento a través del Presidente de dicha comisión; en los Consejos las (sic) información se proporcionará a través del Presidente del mismo y en las delegaciones a través de la Secretaria del H. Ayuntamiento, proporcionando esta la información a la Unidad de Acceso a la Información.
 
-(RUBRICA).
+### CAPITULO OCTAVO. DE LAS RESPONSABILIDADES
 
-M.C. INEZ DIAZ MUÑOZ
+###### ARTICULO 44.
 
-DIRECTORA GENERAL DEL BANCO DE TEJIDOS DEL ESTADO DE MEXICO Y SECRETARIA DE LA JUNTA DE GOBIERNO
+A quienes incurran en responsabilidad por incumplimiento de lo previsto en el presente ordenamiento, se les aplicarán las sanciones y los procedimientos previstos en la Ley de Acceso a la Información Pública del Estado y los Municipios de Guanajuato, así como, en su caso, la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato y demás disposiciones legales aplicables.
 
-(RUBRICA).
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+El presente reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Unidad de Acceso a la Información Publica contará con el presupuesto y estructura necesarios para el ejercicio de sus funciones.
+
+Por lo tanto, con fundamento en tos artículos 70 tracción VI y 205 de la Ley Orgánica Municipal para el Estado de Guanajuato, mando se imprima, publique, circule y se le de el debido cumplimiento.
+
+Dado en el Salón de Cabildos del H. Ayuntamiento del Municipio de Comonfort, Gto., a los 17 días del mes de Agosto del año 2004.
+
+Lic. Moisés Arnulfo López Portillo Rodríguez
+
+Presidente Municipal
+
+Lic. Martín Jaramillo Cervantes
+
+Secretario del H. Ayuntamiento
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-G.G. 2 DE MAYO DE 2013.
+P.O. 28 DE AGOSTO DE 2015.
 
-LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
+PRIMERO. Se abroga el Reglamento de la Unidad de Acceso a la Información Pública, para el Municipio de Comonfort, Gto., publicada en el periódico Oficial del Gobierno del Estado de Guanajuato, Gto. Número 40 de fecha 11 de marzo de 2005.
 
-G.G. 22 DE MAYO DE 2015.
-
-PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
-
-### CAPÍTULO VI. DEL CONSEJO TÉCNICO CONSULTIVO
-
-### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
+SEGUNDO. El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
