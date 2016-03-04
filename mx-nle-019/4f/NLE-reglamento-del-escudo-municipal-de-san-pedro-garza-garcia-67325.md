@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-escudo-municipal-de-san-pedro-garza-garcia-67325
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-25"
-last_updated: "2009-02-25"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL ESCUDO MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DEL ESCUDO MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DEL ESCUDO MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de febrero de 2009.
 
@@ -155,9 +155,11 @@ La sanción a la infracción cometida por cualquier ciudadano al presente Reglam
 
 Procederá la sanción de decomiso para los artículos que reproduzcan ilícitamente el escudo municipal.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-Si la infracción es cometida por un servidor público, o éste consiente o interviene en la ejecución de la misma, se sancionará conforme a la Ley de Responsabilidad de los Servidores Públicos del Estado de Nuevo León.
+Si la infracción es cometida por un servidor público, o éste consiente o interviene en la ejecución de la misma, se sancionará conforme a la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 ###### ARTÍCULO 16.
 
@@ -165,7 +167,7 @@ Las sanciones económicas que se impongan constituyen créditos fiscales a favor
 
 ### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
 
-###### ARTICULO 17.
+###### ARTÍCULO 17.
 
 Contra los actos y resoluciones de la Autoridad Municipal, dictados con motivo de la aplicación de este Reglamento, los interesados podrán interponer el recurso de inconformidad.
 
@@ -211,9 +213,11 @@ Para lo no previsto en el presente reglamento, se aplicará supletoriamente lo e
 
 ### CAPITULO V. DE LA REVISIÓN Y CONSULTA
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 23.
 
-En los términos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, el presente Reglamento será sometido a revisión y consulta cuando así lo permitan las condiciones políticas y sociales del Municipio
+En los términos de la Ley de Gobierno Municipal del Estado de Nuevo León, el presente Reglamento será sometido a revisión y consulta cuando así lo permitan las condiciones políticas y sociales del Municipio.
 
 ## TRANSITORIOS
 
@@ -246,3 +250,11 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
