@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-ambiental-y-desarrollo-65915"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-17"
-last_updated: "2012-11-05"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2008.
 
@@ -135,7 +135,9 @@ IV. LDU: Ley de Desarrollo Urbano del estado de Nuevo León;
 
 V. Reglamento: Reglamento para la Protección Ambiental y Desarrollo Sustentable para el Municipio de San Pedro Garza García, Nuevo León;
 
-VI. Secretaría: La Secretaría de Medio Ambiente y Desarrollo Sustentable de este Municipio;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. Secretaría: La Secretaría de Servicios Públicos y Medio Ambiente;
 
 VII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;
 
@@ -323,9 +325,9 @@ II. El Presidente Municipal.
 
 III. El Secretario del Republicano Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-IV. La Secretaría del Medio Ambiente y Desarrollo Sustentable, y;
+IV. La Secretaría de Servicios Públicos y Medio Ambiente a través de la Dirección de Medio Ambiente, y;
 
 V. Las dependencias municipales de la administración pública que al efecto sean designadas por el Republicano Ayuntamiento, previo acuerdo del mismo.
 
@@ -751,9 +753,11 @@ Los establecimientos que hagan uso intensivo de agua como auto lavados y otros s
 
 Los panteones, funerarias, establecimientos de atención médica o cualquier otro tipo de establecimientos que cuenten con hornos crematorios, deberán instalar sistemas de prevención y control de la contaminación que cumplan con la Norma Oficial Mexicana NOM-043-SEMARNAT-1993.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 44.
 
-Las emisiones de contaminantes a la atmósfera generadas por fuentes fijas de competencia local, deberán canalizarse a través de ductos o chimeneas de descarga; cuando esto no sea posible, por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Dirección de Ecología municipal, a fin de que se dicten las medidas que correspondan.
+Las emisiones de contaminantes a la atmósfera, generadas por fuentes fijas de competencia local, deberán canalizarse a través de ductos o chimeneas de descarga; cuando esto no sea posible, por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Dirección de Medio Ambiente, a fin de que se dicten las medidas que correspondan.
 
 #### SECCIÓN II. FUENTES MÓVILES
 
@@ -935,9 +939,11 @@ V. Las demás que sean necesarias para el cumplimiento de las anteriores.
 
 Los responsables de la generación, recolección, almacenamiento, manejo, transporte, aprovechamiento o disposición final de los residuos sólidos urbanos se sujetarán a lo dispuesto en el presente Reglamento y demás disposiciones aplicables. Asimismo deberán restaurar los daños al ambiente o al paisaje ocasionados por el inadecuado manejo de sus residuos sólidos. Se solicitará a los concesionarios de la recolección de basura la implementación de tecnologías para su separación. Así mismo fomentar la implementación de centros de acopio de materiales reciclables.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 72.
 
-Toda persona física, moral, organismo público o privado que realice actividades donde se generen residuos sólidos, sin perjuicio de lo que al efecto se establezca en el Reglamento de Limpia Municipal, serán responsables de su manejo, el cual efectuarán por sí mismos, por empresas prestadoras de servicios o mediante el servicio municipal de reelección y transporte cuando así proceda.
+Toda persona física, moral, organismo público o privado que realice actividades donde se generen residuos sólidos, sin perjuicio de lo que al efecto se establezca en el Reglamento de Limpia para el Municipio de San Pedro Garza García, Nuevo León, serán responsables de su manejo, el cual efectuarán por si mismos, por empresas prestadoras de servicios o mediante el servicio municipal de recolección y transporte cuando así proceda.
 
 ###### Artículo 73.
 
@@ -1045,9 +1051,11 @@ Los programas de contingencia ambiental establecerán las condiciones bajo las c
 
 Los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes, en situación de contingencia ambiental.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 91.
 
-Cuando los desequilibrios sobrepasen el territorio del Municipio o se haga necesaria la acción exclusiva de la Federación o del Estado, la Secretaría de Desarrollo Urbano y Ecología aplicará las medidas necesarias, entre tanto interviene la autoridad competente.
+Cuando los desequilibrios sobrepasen el territorio del Municipio o se haga necesaria la acción exclusiva de la Federación o del Estado, la Dirección de Medio Ambiente aplicará las medidas necesarias, entre tanto interviene la autoridad competente.
 
 ### CAPÍTULO I. DE LA CONSERVACIÓN Y PROTECCIÓN DE LA FLORA Y FAUNA SILVESTRES Y LA DASONOMÍA URBANA
 
@@ -1319,7 +1327,9 @@ III. En el caso de que no sea factible o conveniente técnicamente plantar los �
 
 Los taludes que se corten al construir calles o avenidas deberán tener una altura menor a tres metros y sesenta centímetros (3.60 m.), con pendientes que propicien la mayor conservación y regeneración de las capas vegetales afectadas. Se autorizarán solo si se garantiza plenamente su estabilidad, soportada con el estudio técnico correspondiente.
 
-En el caso de rellenos o cortes para nivelación de terrenos o terracerías, el propietario deberá ajustarse a la normatividad vigente, solicitar la autorización correspondiente ante la Secretaría de Desarrollo Urbano y Ecología y cumplir con los lineamientos relativos a mecánica de suelos, cimentación, remetimientos y estabilidad que se le indique.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+En el caso de rellenos o cortes para nivelación de terrenos o terracerías, el propietario deberá ajustarse a la normatividad vigente, solicitar la autorización correspondiente ante la Secretaría de Ordenamiento y Desarrollo Urbano y cumplir con los lineamientos relativos a mecánica de suelos, cimentación, remetimientos y estabilidad que se le indique.
 
 ###### Artículo 115.
 
@@ -1383,6 +1393,8 @@ Los árboles que sean entregados en reposición deberán estar sanos, instalados
 
 ### CAPÍTULO II. DE LA CONFORMACIÓN DEL CONSEJO CIUDADANO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 121.
 
 El Consejo Ciudadano para la Protección Ambiental y Desarrollo Sustentable es un órgano de consulta, asesoría, opinión y proposición de medidas para el mejoramiento ambiental y desarrollo sustentable de este Municipio.
@@ -1405,7 +1417,7 @@ III. Opinar respecto a los programas de protección ambiental y desarrollo suste
 
 ###### Artículo 124.
 
-El Consejo Ciudadano para la Protección Ambiental y Desarrollo Sustentable estará conformado por un Presidente, un Secretario Ejecutivo, hasta seis Vocales y por los integrantes de la Comisión de Medio Ambiente e Imagen Urbana de este Municipio.
+El Consejo Ciudadano para la Protección Ambiental y Desarrollo Sustentable estará conformado por un Presidente, un Secretario Ejecutivo, hasta seis Vocales.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
@@ -1477,9 +1489,11 @@ Las reuniones del Consejo serán públicas.
 
 Los asuntos tratados en las sesiones del Consejo deberán quedar registrados en un acta a fin de realizar un control de éstas con puntos de carácter resolutivo e informativo de cada reunión. Será el Secretario Ejecutivo o un Vocal quien lleve la administración de estos documentos.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 138.
 
-Para celebrar las reuniones de éste Consejo se requiere de la presencia de la mitad, más uno de sus integrantes, además deberá estar presente el Presidente o Secretario Ejecutivo, y un representante de la Comisión del Medio Ambiente e Imagen Urbana de este Municipio.
+Para celebrar las reuniones de este Consejo se requiere de la presencia de la mitad, más uno de sus integrantes, además deberá estar presente el Presidente o Secretario Ejecutivo.
 
 ###### Artículo 139.
 
@@ -1489,9 +1503,11 @@ Las discusiones y liberaciones a tratar en dicha reunión se aprobarán por mayo
 
 Los asuntos a tratar serán propuestos por el Presidente del Consejo o en su defecto por el Secretario Ejecutivo; cualquiera de los integrantes presentes podrá ampliar la Orden del Día en asuntos generales.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 141.
 
-En caso de haber algún asunto de importancia que amerite ser tratado en las sesiones del Republicano Ayuntamiento, se realizará un comunicado a los Regidores de la Comisión de Medio Ambiente e Imagen Urbana, quienes procederán a realizar los trámites conducentes.
+En caso de haber algún asunto de importancia en materia de atribuciones del Consejo, que amerite ser tratado en las sesiones del Republicano Ayuntamiento, se realizará un comunicado a la Comisión correspondiente, quienes procederán a realizar los trámites conducentes.
 
 ###### Artículo 142.
 
@@ -1751,7 +1767,7 @@ XLVI. Cuando se provoque la muerte de alguno o algunos árboles;
 
 XLVII. Cuando no se efectúe el riego, o este sea insuficiente, de los árboles que se plantaron o se deben plantar en las áreas abiertas destinadas a estacionamientos, o no se protejan para evitar que sean dañados;
 
-XLVIII. Cuando no se efectúe el área radicular para la plantación de los árboles que deban ubicarse en el estacionamiento, en las banquetas o en el área de parques o jardines que se cederán al Municipio, o esas áreas radiculares no tengan las medidas que establece este Reglamento y; (sic)
+XLVIII. Cuando no se efectúe el área radicular para la plantación de los árboles que deban ubicarse en el estacionamiento, en las banquetas o en el área de parques o jardines que se cederán al Municipio, o esas áreas radiculares no tengan las medidas que establece este Reglamento y;
 
 XLIX. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2012)
 
@@ -1783,7 +1799,7 @@ LV. Cualquier acción u omisión que contravengan lo dispuesto en este Reglament
 
 Para las sanciones aplicables por las infracciones o conductas violatorias establecidas en el artículo 163 de este Reglamento, se aplicará la siguiente matriz de sanciones. La sanción no dispensa del cumplimiento de la obligación de reponer el arbolado en los términos del artículo 118 del presente Reglamento.
 
-> <small>N. DE E. VÉASE LA TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2008, PAGINAS DE LA 122 A LA 127.</small>
+> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PÁGINAS DE LA 122 A LA 127.</small>
 
 > <small>N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 14 DE OCTUBRE DE 2009, PÁGINA 37; P.O. DE 5 DE NOVIEMBRE DE 2012, PÁGINAS DE LA 35 A LA 37.</small>
 
@@ -2018,3 +2034,9 @@ Las reformas por derogación, adición y modificación al Reglamento para la Pro
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga cualquier disposición que contravenga el presente Reglamento.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
