@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-en-materia-de-seguridad-publica-municipal-de-san-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2012-10-29"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON -- ANTES REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON --
 
-REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
+REGLAMENTO EN MATERIA DE SEGURIDAD PÚBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2009.
 
@@ -41,7 +41,9 @@ A los integrantes de la Comisión de Gobierno y Reglamentación de este Republic
 
 RESULTANDOS.
 
-En consecuencia se transcribe el texto de la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO DE LOS GARZA GARCÍA, NUEVO LEÓN, siendo el contenido del citado reglamento que se propone, el siguiente:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+En consecuencia se transcribe el texto de la INICIATIVA DE REGLAMENTO EN MATERIA DE SEGURIDAD PÚBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, siendo el contenido del citado reglamento que se propone, el siguiente:
 
 # LIBRO PRIMERO. DEL OBJETO DEL REGLAMENTO Y DE LAS DISPOSICIONES GENERALES
 
@@ -49,9 +51,11 @@ En consecuencia se transcribe el texto de la INICIATIVA DE REGLAMENTO EN MATERIA
 
 ### CAPITULO UNICO. DISPOSICONES (SIC) GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de orden público e interés social y tiene por objeto establecer las bases de la formación, organización, estructura, y funcionamiento de la Policía Preventiva, el esquema de la Policía Metropolitana, la sistematización de la información, los procesos de evaluación, el régimen laboral, la seguridad de los servidores públicos, los Consejos Ciudadanos, los Comités Comunitarios y la prevención del delito, el órgano competente para resolver los conflictos que se presenten entre el personal adscrito y la autoridad municipal, el procedimiento a seguir y los recursos procedentes dentro del sistema de seguridad municipal.
+El presente Reglamento es de orden público e interés social y tiene por objeto establecer las bases de la formación, organización, estructura, y funcionamiento de la Policía Preventiva, el esquema de la Policía Metropolitana, la sistematización de la información, los procesos de evaluación, el régimen laboral, la seguridad de los servidores públicos, los Consejos Ciudadanos, los Comités Comunitarios y la prevención del delito, el órgano competente para resolver los conflictos que se presenten entre el personal adscrito y la autoridad municipal, el procedimiento a seguir y los recursos procedentes dentro del Sistema de Seguridad Pública Municipal.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2012)</small>
 
@@ -67,37 +71,53 @@ Para los efectos del presente Reglamento se entiende por:
 
 ARMAMENTOS Y EQUIPOS OFICIALES: Comprenden la pistola reglamentaria y el fusil de fuego en el calibre de uso permitido; la fornitura con sus accesorios de funda de pistola, cartuchera, porta-esposas, porta-gas, juego de esposas metálicas, cilindro de gas lacrimógeno, dotación de cartuchos de fuego hábiles, el tolete.
 
-BASES DE DATOS CRIMINALÍSTICAS Y DE PERSONAL: Las bases de datos de un registro y la información contenidas en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema, cuyo propósito es clasificar, ordenar, registrar, resguardar, utilizar y compartir la información recabada y relacionada con dicho servicio.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+BASES DE DATOS CRIMINALÍSTICAS Y DE PERSONAL: Las bases de datos de un registro y la información contenidas en ellas, en materia de detenciones, información criminal, personal de seguridad pública municipal, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema, cuyo propósito es clasificar, ordenar, registrar, resguardar, utilizar y compartir la información recabada y relacionada con dicho servicio.
 
 CAMBIO DE ADSCRIPCIÓN: Cambio de área de prestación del servicio, respetando la jerarquía.
 
-CENTRO: Centro de Comando, Control y Comunicaciones en materia de seguridad municipal.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+CENTRO: Centro de Comando, Control y Comunicaciones en materia de seguridad pública municipal.
 
 CLAVES: Directorio de señales designado para la comunicación confidencial, utilizando el código mil y el alfabeto fonético internacional.
 
 COLONIA Y COMUNIDAD: El conjunto de ciudadanos que habitan en un lugar determinado del municipio; con intereses o fines comunes y que se constituyen en la división administrativa o territorial del municipio.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-COMISION: La Comisión de Honor y Justicia de la Secretaría de Seguridad Municipal
+COMISIÓN: La Comisión de Honor y Justicia en materia de Seguridad Pública Municipal.
 
-COMITÉS CIUDADANOS: Los Comités Ciudadanos Municipales de Seguridad Municipal.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+COMITÉS CIUDADANOS: Los Comités Ciudadanos Municipales de Seguridad Pública Municipal;
 
 CONSEJO DE COORDINACIÓN: Consejo de Coordinación del Sistema Integral de Seguridad Publica del Estado.
 
-CONSEJOS CIUDADANOS: Consejos Ciudadanos Municipales de Seguridad.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-CUERPOS DE SEGURIDAD MUNICIPAL: La Policía Preventiva, la Policía de Tránsito, los Grupos Tácticos de Intervención o de Reacción y el personal adscrito a las áreas de reclusión y de información.
+CONSEJOS CIUDADANOS: Consejos Ciudadanos Municipales de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+CUERPOS DE SEGURIDAD PÚBLICA MUNICIPAL: La Policía Preventiva, la Policía de Tránsito, los Grupos Tácticos de Intervención o de Reacción y el personal adscrito a las áreas de reclusión y de información.
 
 ENLACE: Servidor Público designado por la administración municipal a través de quién se podrá intercambiar información.
 
-EQUIPO MÓVIL: Vehículos, asignados al personal integrante de los Cuerpos de Seguridad Municipal.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+EQUIPO MÓVIL: Vehículos, asignados al personal integrante de los Cuerpos de Seguridad Pública Municipal.
 
 ESCALA DE RANGOS POLICIALES: Relación que contiene a todos los integrantes de las Instituciones Policiales y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
 
-INFORMACIÓN EN MATERIA DE SEGURIDAD MUNICIPAL: Datos contenidos en los documentos que el personal genera, obtiene, adquiere, transforma o conserva por cualquier título o aquélla que por disposición legal deban generar.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-INTERCAMBIO DE INFORMACIÓN: Intercambio de datos entre las dependencias Federales, Estatales y Municipales en materia de seguridad municipal.
+INFORMACIÓN EN MATERIA DE SEGURIDAD PÚBLICA MUNICIPAL: Datos contenidos en los documentos que el personal genera, obtiene, adquiere, transforma o conserva por cualquier título o aquélla que por disposición legal deban generar.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+INTERCAMBIO DE INFORMACIÓN: Intercambio de datos entre las dependencias Federales, Estatales y Municipales en materia de seguridad pública municipal.
 
 KARDEX: Al conjunto de datos de identificación del personal policial que comprende: huellas digitales, fotografía, escolaridad, antecedentes en el servicio, trayectoria en la seguridad pública, historial académico, laboral y disciplinario, estímulos, reconocimientos y sanciones a que se haya hecho acreedor y cualquier cambio de adscripción, actividad o rango.
 
@@ -119,7 +139,9 @@ PROGRAMA PREVENTIVO: Las acciones, principios, normas, políticas y procedimient
 
 SECRETARÍA: Secretaría de Seguridad Pública del Estado de Nuevo León.
 
-SECRETARÍA DE SEGURIDAD: Secretaría de Seguridad Municipal.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+SECRETARÍA DE SEGURIDAD: Secretaría de Seguridad Pública Municipal.
 
 SEGURIDAD PÚBLICA: Servicio público cuyo propósito es preservar y garantizar la tranquilidad, el orden y la paz de la comunidad.
 
@@ -127,7 +149,9 @@ SERVICIO: Horario durante el cual el personal adscrito debe desempeñar su funci
 
 SISTEMATIZACIÓN: Creación de una base de datos para registrar la información.
 
-SUJETOS OBLIGADOS EN MATERIA DE SEGURIDAD PÚBLICA: Las dependencias y áreas administrativas competentes para aplicar el presente reglamento.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+SUJETOS OBLIGADOS EN MATERIA DE SEGURIDAD PÚBLICA MUNICIPAL: Las dependencias y áreas administrativas competentes para aplicar el presente reglamento.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -137,15 +161,33 @@ Son autoridades competentes para aplicar el presente Reglamento, las siguientes:
 
 I. El C. Presidente Municipal;
 
-II. El Secretario de Seguridad Municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-III. El Director General de Policía;
+II. El Secretario de Seguridad Pública Municipal;
 
-IV. El Director General de Tránsito y Vialidad;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-V. El Coordinador de las Áreas de información; y
+III. El Director de Policía;
 
-VI. La Comisión de Honor y Justicia.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+IV. El Director de Tránsito;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+V. El Director del Centro de Control, Comando y Comunicaciones;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. El Director de Prevención del Delito;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. El Coordinador de las Áreas de información; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VIII. La Comisión de Honor y Justicia.
 
 # LIBRO SEGUNDO. DE LA REGULACION DEL FUNCIONAMIENTO DE LA POLICIA PREVENTIVA MUNICIPAL
 
@@ -153,13 +195,17 @@ VI. La Comisión de Honor y Justicia.
 
 ### CAPITULO UNICO. DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA POLICIA PREVENTIVA
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 5.
 
-Las atribuciones conferidas a los integrantes de los Cuerpos de Seguridad Municipal deberán ejercerse con estricto apego a los principios de legalidad, objetividad, eficacia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
+Las atribuciones conferidas a los integrantes de los Cuerpos de Seguridad Pública Municipal deberán ejercerse con estricto apego a los principios de legalidad, objetividad, eficacia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 6.
 
-En el cumplimiento de sus atribuciones, el personal integrante de los Cuerpos de Seguridad Municipal quedará sujeto a los principios de territorialidad, proximidad, proactividad y promoción.
+En el cumplimiento de sus atribuciones, el personal integrante de los Cuerpos de Seguridad Pública Municipal quedará sujeto a los principios de territorialidad, proximidad, proactividad y promoción.
 
 ###### ARTÍCULO 7.
 
@@ -185,7 +231,9 @@ d) Brindar la orientación e información necesaria a las víctimas de cualquier
 
 e) Servir como una instancia auxiliar para el conocimiento de la problemática social de la comunidad y canalizar sus planeamientos e inquietudes ante las dependencias u organismos que correspondan; y
 
-f) Rendir cuentas periódicamente a la comunidad, a través de los Consejos Ciudadanos sobre la evaluación de las actividades que se realizan y sobre la problemática delictiva que se genera en su entorno o sector, estableciendo compromisos de acción que tiendan a su mejoramiento escuchando en todo momento las opiniones y experiencias de la comunidad, lo anterior a través del Secretario de Seguridad.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+f) Rendir cuentas periódicamente a la comunidad, a través de los Consejos Ciudadanos sobre la evaluación de las actividades que se realizan y sobre la problemática delictiva que se genera en su entorno o sector, estableciendo compromisos de acción que tiendan a su mejoramiento escuchando en todo momento las opiniones y experiencias de la comunidad, lo anterior a través del Secretario de Seguridad Pública Municipal.
 
 ###### ARTÍCULO 9.
 
@@ -209,25 +257,39 @@ b) Promover una cultura de legalidad, de la denuncia ciudadana y de la prevenci�
 
 ### CAPITULO I. ESTRUCTURA JERARQUICA
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 11.
 
-Los Cuerpos de Seguridad Municipal, tendrán la siguiente estructura jerárquica:
+Los Cuerpos de Seguridad Pública Municipal, tendrán la siguiente estructura jerárquica:
 
-I. El Secretario de Seguridad Municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-II. El Director General de Policía; y
+I. El Secretario de Seguridad Pública Municipal;
 
-III. El Director General de Tránsito y Vialidad.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+II. El Director de Policía;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+III. El Director de Tránsito;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+IV. El Director del Centro de Control, Comando y Comunicaciones; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+V. El Director de Prevención del Delito.
 
 ### CAPITULO II. ESTRUCTURA OPERATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-La Dirección General de Policía, tendrá la siguiente estructura operativa:
+La Dirección de Policía, tendrá la siguiente estructura operativa:
 
 I. Coordinador General Operativo, quién tendrá el grado de Inspector;
 
@@ -255,11 +317,11 @@ e) Policía Tercero; y
 
 f) Policía Raso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-La Dirección General de Tránsito Municipal y Vialidad, tendrá la siguiente estructura operativa:
+La Dirección (sic) Tránsito tendrá la siguiente estructura operativa:
 
 I. Coordinador General, quién tendrá el grado de Inspector;
 
@@ -279,9 +341,11 @@ c) Crucero
 
 ### CAPITULO UNICO. ESQUEMA DE METROPOL
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 14.
 
-El presente apartado establece la forma en que la Policía Preventiva, la Policía de Tránsito y los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción del Municipio, pueden colaborar y coordinarse con los Cuerpos de Seguridad de los Municipios de Apodaca, N.L., Cadereyta Jiménez, N.L., General Escobedo, N.L., García, N. L., Guadalupe, N.L., Benito Juárez, N.L., Monterrey, N.L., San Nicolás de los Garza, N.L., Santa Catarina, N.L. y Santiago, N.L., para atender el servicio de seguridad pública en sus territorios.
+El presente apartado establece la forma en que la Policía Preventiva, la Policía de Tránsito y los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción del Municipio, pueden colaborar y coordinarse con los Cuerpos de Seguridad Pública de los Municipios de Apodaca, Cadereyta Jiménez, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, Santa Catarina, y Santiago, Nuevo León, para atender el servicio de seguridad pública en sus territorios.
 
 ###### ARTÍCULO 15.
 
@@ -297,41 +361,59 @@ III. El intercambio de información estratégica que permita desarrollar accione
 
 Las unidades policíacas de los Municipios a que se refiere el artículo 14 del presente Reglamento tienen autorización para ingresar al territorio de otro Municipio para atender los casos a que se refiere la fracción II del artículo 15 anterior.
 
-###### ARTICULO 17.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-Los acuerdos para llevar a cabo acciones específicas, se tomarán por los Secretarios de Seguridad de los municipios señalados en el artículo 14 a través de sus mandos, involucrados en ellas.
+###### ARTÍCULO 17.
+
+Los acuerdos para llevar a cabo acciones específicas, se tomarán por los Secretarios de Seguridad Pública de los municipios señalados en el artículo 14 a través de sus mandos, involucrados en ellas.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 18.
 
-El intercambio de información estratégica se obsequiará mediante solicitud entre los Secretarios de Seguridad de los municipios interesados.
+El intercambio de información estratégica se obsequiará mediante solicitud entre los Secretarios de Seguridad Pública de los municipios interesados.
 
-# LIBRO CUARTO. DE LA REGULACION DE LOS PROCESOS PARA LA SISTEMATIZACION DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+# LIBRO CUARTO. DE LA REGULACION DE LOS PROCESOS PARA LA SISTEMATIZACION DE LA INFORMACIÓN EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
 
 ## TITULO PRIMERO. DEL REGISTRO DE LA INFORMACION
 
 ### CAPITULO UNICO. DE LA INFORMACION
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-El presente Libro establece las atribuciones de las autoridades administrativas municipales encargadas de prestar el servicio de seguridad municipal, con el fin de instaurar las reglas para la creación de una base de datos en materia de seguridad municipal que clasifique, ordene, registre, resguarde y utilice la información y la forma de operar la misma.
+El presente Libro establece las atribuciones de las autoridades administrativas municipales encargadas de prestar el servicio de seguridad pública municipal, con el fin de instaurar las reglas para la creación de una base de datos en materia de seguridad pública municipal que clasifique, ordene, registre, resguarde y utilice la información y la forma de operar la misma.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 20.
 
-La Secretaría de Seguridad en el ámbito de su competencia, suministrará, intercambiará, sistematizará, consultará, analizará y actualizará, la información que diariamente se genere sobre seguridad municipal, mediante los sistemas e instrumentos tecnológicos respectivos.
+La Secretaría de Seguridad en el ámbito de su competencia, suministrará, intercambiará, sistematizará, consultará, analizará y actualizará, la información que diariamente se genere sobre seguridad pública municipal, mediante los sistemas e instrumentos tecnológicos respectivos.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 21.
 
-La Secretaría de Seguridad municipal establecerá políticas, programas, lineamientos, mecanismos, instrumentos, servicios y acciones para la administración de la información que deba incorporarse a la base de datos.
+La Secretaría establecerá políticas, programas, lineamientos, mecanismos, instrumentos, servicios y acciones para la administración de la información que deba incorporarse a la base de datos.
 
-## TITULO SEGUNDO. DEL CENTRO DE CONTROL MUNICIPAL DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+## TITULO SEGUNDO. DEL CENTRO DE CONTROL MUNICIPAL DE LA INFORMACION EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
 
 ### CAPITULO I. DEL CENTRO DE CONTROL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 22.
 
-Para la aplicación del presente Titulo, el Centro dependerá directamente del Presidente Municipal y en forma delegada del Secretario de Seguridad con las siguientes atribuciones:
+Para la aplicación del presente Titulo, el Centro dependerá directamente del Presidente Municipal y en forma delegada del Secretario de Seguridad Pública Municipal con las siguientes atribuciones:
 
-I. Establecer, controlar, administrar y resguardar las bases de datos criminalísticos y de personal que tenga a cargo atribuciones o maneje información en materia de seguridad;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+I. Establecer, controlar, administrar y resguardar las bases de datos criminalísticos y de personal que tenga a cargo atribuciones o maneje información en materia de seguridad pública municipal;
 
 II. Administrar al personal del Centro;
 
@@ -343,9 +425,11 @@ V. Vigilar el cumplimiento de los criterios de acceso a la información y hacer 
 
 VI. Brindar asesoría a las Instituciones de Seguridad para la integración de información, interconexión, acceso, uso, intercambio y establecimiento de medidas de seguridad para las bases de datos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 23.
 
-La administración de la información para la operación del Centro, en materia de Seguridad Municipal, consiste en:
+La administración de la información para la operación del Centro, en materia de Seguridad Pública Municipal, consiste en:
 
 I. El servicio de registro, atención y despacho de llamadas de emergencia;
 
@@ -359,11 +443,15 @@ V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la 
 
 VI. Los registros que en los términos de ésta y otras Leyes resguarda la Secretaría.
 
-### CAPITULO II. DE LA CLASIFICACION DE LA INFORMACION EN MATERIA DE SEGURIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+### CAPITULO II. DE LA CLASIFICACION DE LA INFORMACION EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 24.
 
-De conformidad con lo señalado en la Ley General, toda información relacionada a la materia de seguridad pública, tendrá la categoría de reservada. A está información sólo podrán tener acceso:
+De conformidad con lo señalado en la Ley General, toda información relacionada a la materia de seguridad pública municipal, tendrá la categoría de reservada. A está información sólo podrán tener acceso:
 
 I. Las autoridades municipales competentes para la aplicación de este Reglamento;
 
@@ -386,6 +474,8 @@ La consulta de la base de datos se realizará única y exclusivamente en el ejer
 ###### ARTÍCULO 27.
 
 La Secretaría de Seguridad, implementará el sistema o subsistemas de base de datos criminalístico y de personal, utilizando para tal fin los medios tecnológicos idóneos que permitan la concentración única de la información generada que pueden ser objeto de consulta mediante la utilización del equipo y tecnología compatible y conforme al manual de operación que para tal efecto se expida por la Secretaría de Seguridad.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 28.
 
@@ -441,7 +531,9 @@ En el caso necesario se asignará una clave confidencial a las personas autoriza
 
 Al personal adscrito que quebrante la reserva de las bases de datos o proporcione información sobre las mismas, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
 
-### CAPITULO II. DE LA ASIGNACION DE CLAVES DE IDENTIFICACION DE LOS INTEGRANTES DE LOS CUERPOS DE SEGURIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+### CAPITULO II. DE LA ASIGNACION DE CLAVES DE IDENTIFICACION DE LOS INTEGRANTES DE LOS CUERPOS DE SEGURIDAD PUBLICA MUNICIPAL
 
 ###### ARTÍCULO 35.
 
@@ -449,7 +541,9 @@ A las autoridades Municipales competentes para aplicar el presente Reglamento y 
 
 Las claves o alias asignados serán homologadas en los Municipios de Apodaca, Cadereyta Jiménez, Benito Juárez, Escobedo, García, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y Santiago, Nuevo León.
 
-# LIBRO QUINTO. DE LA FORMA PARA REGULAR LOS PROCESOS DE EVALUACION EN MATERIA DE SEGURIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+# LIBRO QUINTO. DE LA FORMA PARA REGULAR LOS PROCESOS DE EVALUACION EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
 
 ## TITULO UNICO. DEL PROCEDIMIENTO DE EVALUACION
 
@@ -529,9 +623,11 @@ Las instrucciones que el titular de la Secretaría de Seguridad emita para la pr
 
 ### CAPITULO I. DEL PERSONAL ADSCRITO
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 46.
 
-El Presente Libro establece las normas que regulan la relación de trabajo del personal adscrito a los Cuerpos de Seguridad Municipal, determinan la prescripción de las acciones, las prestaciones de seguridad social, sus derechos y obligaciones, estímulos, condecoraciones y sanciones.
+El Presente Libro establece las normas que regulan la relación de trabajo del personal adscrito a los Cuerpos de Seguridad Pública Municipal, determinan la prescripción de las acciones, las prestaciones de seguridad social, sus derechos y obligaciones, estímulos, condecoraciones y sanciones.
 
 ### CAPITULO II. DE LA PRESCRIPCION
 
@@ -857,15 +953,25 @@ I. La Administración Municipal deberá consultar los antecedentes de cualquier 
 
 II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el centro de control de confianza respectivo;
 
-III. Ninguna persona podrá ingresar a los Cuerpos de Seguridad si no ha sido debidamente certificado y registrado en el Sistema;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-IV. Sólo ingresarán y permanecerán en los Cuerpos de Seguridad, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación, profesionalización y certificación;
+III. Ninguna persona podrá ingresar a los Cuerpos de Seguridad Pública Municipal si no ha sido debidamente certificado y registrado en el Sistema;
 
-V. La permanencia de los integrantes en los Cuerpos de Seguridad está condicionada al cumplimiento de los requisitos que determine la Ley y el presente Reglamento;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VI. Los méritos de los integrantes de los Cuerpos de Seguridad serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
+IV. Sólo ingresarán y permanecerán en los Cuerpos de Seguridad Pública Municipal, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación, profesionalización y certificación;
 
-VII. Para la promoción de los integrantes de los Cuerpos de Seguridad se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+V. La permanencia de los integrantes en los Cuerpos de Seguridad Pública Municipal está condicionada al cumplimiento de los requisitos que determine la Ley y el presente Reglamento;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. Los méritos de los integrantes de los Cuerpos de Seguridad Pública Municipal serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. Para la promoción de los integrantes de los Cuerpos de Seguridad Pública Municipal se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo; y
 
 VIII. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio.
 
@@ -987,9 +1093,11 @@ La Secretaría de Seguridad como responsable del Servicio de Carrera Policial fo
 
 ### CAPITULO III. DE LAS PROMOCIONES
 
-###### ARTICULO 73.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
-La promoción es el acto mediante el cual se otorga a los integrantes de los Cuerpos de Seguridad, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
+###### ARTÍCULO 73.
+
+La promoción es el acto mediante el cual se otorga a los integrantes de los Cuerpos de Seguridad Pública Municipal, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
 
 Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
 
@@ -1001,21 +1109,27 @@ Para ocupar un grado dentro de las Instituciones Policiales, se deberán reunir 
 
 La antigüedad del personal adscrito se clasificará y computará de la siguiente forma:
 
-I. Antigüedad en el servicio, a partir de la fecha de su ingreso a los Cuerpos de Seguridad, y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+I. Antigüedad en el servicio, a partir de la fecha de su ingreso a los Cuerpos de Seguridad Pública Municipal, y
 
 II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
 
 La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 75.
 
-El personal adscrito a los Cuerpos de Seguridad que haya alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+El personal adscrito a los Cuerpos de Seguridad Pública Municipal que haya alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
 
 ### CAPITULO IV. DE LA CERTIFICACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 76.
 
-La certificación es el proceso mediante el cual los integrantes de los Cuerpos de Seguridad se someten a las evaluaciones periódicas establecidas por el Centro de Control de Confianza correspondiente, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+La certificación es el proceso mediante el cual los integrantes de los Cuerpos de Seguridad Pública Municipal se someten a las evaluaciones periódicas establecidas por el Centro de Control de Confianza correspondiente, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
 El Municipio mantendrá en servicio únicamente al personal adscrito que cuente con el requisito de certificación expedido por su centro de control de confianza respectivo.
 
@@ -1025,7 +1139,9 @@ La certificación tiene por objeto:
 
 A.- Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional;
 
-B.- Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos del personal adscrito a los Cuerpos de Seguridad:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
+B.- Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos del personal adscrito a los Cuerpos de Seguridad Pública Municipal:
 
 I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
@@ -1041,9 +1157,11 @@ VI. Cumplimiento de los deberes establecidos en la Ley y en éste Reglamento
 
 ### CAPITULO V. DE LA PROFESIONALIZACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 78.
 
-La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de los Cuerpos de Seguridad.
+La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de los Cuerpos de Seguridad Pública Municipal.
 
 Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que se aprueben conforme a las disposiciones legales aplicables.
 
@@ -1153,25 +1271,31 @@ Todo estímulo otorgado será acompañado de una constancia que lo acredite, la 
 
 ### CAPITULO UNICO. SEGURIDAD Y PROTECCION DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 88.
 
-El Presidente Municipal y el Secretario de Seguridad gozarán de protección tres años a partir de la conclusión de su encargo, acorde con lo que prescribe el segundo párrafo del artículo 57 de la Ley.
+El Presidente Municipal y el Secretario de Seguridad Pública Municipal gozarán de protección tres años a partir de la conclusión de su encargo, acorde con lo que prescribe el segundo párrafo del artículo 57 de la Ley.
 
 ###### ARTÍCULO 89.
 
 El derecho de la protección se perderá en el caso de que el beneficiario asuma un cargo público con motivo del cual le sea asignada protección o sea sujeto a proceso por el delito de delincuencia organizada.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 90.
 
-Al Presidente Municipal y al Secretario de Seguridad, se les asignarán cuando menos dos custodios.
+Al Presidente Municipal y al Secretario de Seguridad Pública Municipal, se les asignarán cuando menos dos custodios.
 
 ###### ARTÍCULO 91.
 
 El R. Ayuntamiento autorizará la protección que deben de recibir los servidores públicos a los que se refiere el artículo 56 de la Ley.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 92.
 
-Corresponde al Republicano Ayuntamiento establecer el número de custodios que corresponde asignar al o los servidores públicos, a excepción de los asignados al Presidente y Secretario de Seguridad.
+Corresponde al Republicano Ayuntamiento establecer el número de custodios que corresponde asignar al o los servidores públicos, a excepción de los asignados al Presidente y Secretario de Seguridad Pública Municipal.
 
 ###### ARTÍCULO 93.
 
@@ -1187,23 +1311,31 @@ Previa a la designación de custodios, el Republicano Ayuntamiento deberá escuc
 
 ARTÍCULO 96 La Secretaría de Seguridad proporcionará el personal y el equipo necesario para la protección de los servidores públicos, previa aprobación del Republicano Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 97.
 
-Los custodios asignados al Ex Presidente Municipal y al Ex Secretario de Seguridad deberán ser cambiados a solicitud de éstos.
+Los custodios asignados al Ex Presidente Municipal y al Ex Secretario de Seguridad Pública Municipal deberán ser cambiados a solicitud de éstos.
 
-# LIBRO OCTAVO. DEL CONSEJO CIUDADANO DE SEGURIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+# LIBRO OCTAVO. DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA MUNICIPAL
 
 ## TITULO PRIMERO. DEL CONSEJO CIUDADANO
 
 ### CAPITULO UNICO. OBJETO Y DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 98.
 
-El presente apartado tiene por objeto regular la creación, estructura, atribuciones y funcionamiento del Consejo Ciudadano Municipal de Seguridad.
+El presente apartado tiene por objeto regular la creación, estructura, atribuciones y funcionamiento del Consejo Ciudadano Municipal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 99.
 
-El Consejo Ciudadano de Seguridad Pública Municipal, es el órgano encargado de vigilar el seguimiento de las acciones en materia de Seguridad Pública Municipal; proponer los lineamientos necesarios para el mejoramiento del área, promover la participación ciudadana, coadyuvar con las autoridades de Seguridad Pública Municipal y las instancias auxiliares, en el análisis del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas, generando propuestas de planes, programas y acciones en materia de seguridad municipal.
+El Consejo Ciudadano de Seguridad Pública Municipal, es el órgano encargado de vigilar el seguimiento de las acciones en materia de Seguridad Pública Municipal; proponer los lineamientos necesarios para el mejoramiento del área, promover la participación ciudadana, coadyuvar con las autoridades de Seguridad Pública Municipal y las instancias auxiliares, en el análisis del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas, generando propuestas de planes, programas y acciones en materia de seguridad pública municipal.
 
 ## TITULO SEGUNDO. DE LA INTEGRACION, FUNCIONES Y ATRIBUCIONES DEL CONSEJO CIUDADANO
 
@@ -1215,37 +1347,55 @@ El Pleno del Consejo Ciudadano se integrará, se reunirá y tendrá las atribuci
 
 ### CAPITULO II. ATRIBUCIONES DEL CONSEJO CIUDADANO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 101.
 
-El Consejo Ciudadano de Seguridad Municipal, además de las atribuciones que señala el Titulo II del Reglamento de Participación Ciudadana, tendrá las siguientes:
+El Consejo Ciudadano de Seguridad Pública Municipal, además de las atribuciones que señala el Título II del Reglamento de Participación y Atención Ciudadana del Municipio de San Pedro Garza García Nuevo León, tendrá las siguientes:
 
 I. Proponer al Presidente Municipal el diseño, implementación y evaluación de planes, programas, políticas y directrices para mejorar la seguridad publica en el municipio;
 
 II. Observar que la Secretaría de Seguridad cumpla con los objetivos y metas establecidas en lo correspondiente al Plan Municipal de Desarrollo y en los programas o proyectos específicos que se relacionen con los objetivos y fines del presente Reglamento;
 
-III. Ser órgano de consulta, análisis y opinión en materia de Seguridad Municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-IV. Proponer proyectos o emitir opinión sobre las iniciativas de ley o reglamentos en materia de Seguridad Municipal;
+III. Ser órgano de consulta, análisis y opinión en materia de Seguridad Pública Municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+IV. Proponer proyectos o emitir opinión sobre las iniciativas de ley o reglamentos en materia de Seguridad Pública Municipal;
 
 V. Emitir los lineamientos necesarios para el funcionamiento del Consejo, así como fijar las políticas y programas de éste;
 
-VI. Fomentar la participación ciudadana a través de los Comités de Participación Comunitaria en materia de Seguridad Municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VII. Elaborar proyectos y estudios en materia de Seguridad Municipal, para la prevención de delito, sus causas, efectos y consecuencias;
+VI. Fomentar la participación ciudadana a través de los Comités de Participación Comunitaria en materia de Seguridad Pública Municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. Elaborar proyectos y estudios en materia de Seguridad Pública Municipal, para la prevención de delito, sus causas, efectos y consecuencias;
 
 VIII. Solicitar a las dependencias municipales competentes a través del Presidente Municipal, la información que le sea necesaria para el cumplimiento de sus atribuciones;
 
-IX. Emitir opiniones, para la actualización, elaboración y evaluación del Plan de Desarrollo Municipal en materia de Seguridad Municipal, así como evaluar periódicamente la ejecución del mismo y proponer medidas para que se guarde estrecha relación con el Consejo de Coordinación del Sistema Integral de Seguridad Publica del Estado;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-X. Difundir información en materia de Seguridad Municipal con la finalidad de promover una cultura de la legalidad, de la denuncia ciudadana, de la prevención o autoprotección al delito y de la solución pacífica de conflictos mediante la mediación y conciliación;
+IX. Emitir opiniones, para la actualización, elaboración y evaluación del Plan de Desarrollo Municipal en materia de Seguridad Pública Municipal, así como evaluar periódicamente la ejecución del mismo y proponer medidas para que se guarde estrecha relación con el Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+X. Difundir información en materia de Seguridad Pública Municipal con la finalidad de promover una cultura de la legalidad, de la denuncia ciudadana, de la prevención o autoprotección al delito y de la solución pacífica de conflictos mediante la mediación y conciliación;
 
 XI. Proponer al Presidente Municipal, estrategias para hacer mas eficiente el funcionamiento de la policía preventiva municipal;
 
 XII. Proponer a la instancia correspondiente, la entrega de estímulos a los elementos policiales que se hayan distinguido por su desempeño a favor de la comunidad;
 
-XIII. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención de las quejas que formule la ciudadanía contra abusos y actuaciones en que incurran los elementos de Seguridad Municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-XIV. Asistir, previa invitación, a las sesiones de trabajo de los comités técnicos u órganos de la administración, con los elementos de Seguridad Municipal, así como a los eventos que realice la Administración Municipal en materia de Seguridad Municipal;
+XIII. Proponer modificaciones a normas y procedimientos, que permitan mejorar la atención de las quejas que formule la ciudadanía contra abusos y actuaciones en que incurran los elementos de Seguridad Pública Municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+XIV. Asistir, previa invitación, a las sesiones de trabajo de los comités técnicos u órganos de la administración, con los elementos de Seguridad Pública Municipal, así como a los eventos que realice la Administración Municipal en materia de Seguridad Pública Municipal.
 
 XV. Las demás emanadas de la Ley de Seguridad Pública del Estado de Nuevo León.
 
@@ -1255,7 +1405,9 @@ XV. Las demás emanadas de la Ley de Seguridad Pública del Estado de Nuevo Leó
 
 El Consejo deberá instalarse y durar en su encargo en los términos que se establecen en el Titulo II del Reglamento de Participación Ciudadana.
 
-# LIBRO NOVENO. DE LA REGULACION DE LOS COMITES COMUNITARIOS EN MATERIA DE SEGURIDAD MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+# LIBRO NOVENO. DE LA REGULACION DE LOS COMITES COMUNITARIOS EN MATERIA DE SEGURIDAD PUBLICA MUNICIPAL
 
 ## TITULO PRIMERO. OBJETO Y PARTICIPACION CIUDADANA
 
@@ -1295,23 +1447,35 @@ La supervisión, validación y registro de los Comités Comunitarios, será acor
 
 Durante el periodo de actividades de los Comités Comunitarios en el caso prioritario de un mejoramiento para beneficio de la comunidad, la dependencia encargada de la participación ciudadana tendrá facultades de indicar o aceptar la renuncia de los miembros de la mesa directiva y proceder a su sustitución, así como a formar nuevos Comités y ratificar a los ya existentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 110.
 
-Los Comités Comunitarios además de las atribuciones que les confiere a las Juntas de Vecinos el Reglamento de Participación Ciudadana, tendrá las siguientes:
+Los Comités Comunitarios además de las atribuciones que les confiere a las Juntas de Vecinos el Reglamento de Participación y Atención Ciudadana del Municipio de San Pedro Garza García Nuevo León, tendrá las siguientes:
 
 I. Promover la participación ciudadana en su entorno;
 
-II. Representar los intereses de los vecinos de su colonia en materia de seguridad, municipal coordinando acciones con la Secretaría de Seguridad;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-III. Recabar y dar a conocer periódicamente a los habitantes de su colonia, sobre avances en materia de seguridad municipal, en coordinación con la Secretaría de Seguridad;
+II. Representar los intereses de los vecinos de su colonia en materia de seguridad pública municipal, coordinando acciones con la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+III. Recabar y dar a conocer periódicamente a los habitantes de su colonia, sobre avances en materia de seguridad pública municipal, en coordinación con la Secretaría;
 
 IV. Informar a los vecinos que existen los Comités Comunitarios y quiénes son las personas que lo integran;
 
-V. Conocer y emitir opinión sobre los programas en materia de seguridad municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VI. Brindar información a los vecinos respecto a las dependencias a las que pueden acudir para la solución y reporte de los programas en materia de seguridad municipal;
+V. Conocer y emitir opinión sobre los programas en materia de seguridad pública municipal;
 
-VII. Organizar y distribuir el material informativo sobre programas de participación ciudadana en materia de seguridad municipal; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. Brindar información a los vecinos respecto a las dependencias a las que pueden acudir para la solución y reporte de los programas en materia de seguridad pública municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. Organizar y distribuir el material informativo sobre programas de participación ciudadana en materia de seguridad pública municipal; y
 
 VIII. Las demás que la Ley y este Reglamento le otorgue.
 
@@ -1335,13 +1499,29 @@ I. El C. Presidente Municipal;
 
 II. El Secretario del R. Ayuntamiento;
 
-III. El Secretario de Seguridad Municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-IV. El Director General de Policía;
+III. El Secretario de Seguridad Pública Municipal;
 
-V. El Director General de Tránsito y Vialidad;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VI.- El Coordinador de Programas de Atención Social y Prevención.
+IV. El Director de Policía;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+V. El Director de Tránsito;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. El Director del Centro de Control, Comando y Comunicaciones
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. El Director de Prevención del Delito; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VIII. El Coordinador de Programas de Atención Social y Prevención.
 
 ###### ARTÍCULO 113.
 
@@ -1413,11 +1593,11 @@ La Secretaría de Seguridad atenderá en el ámbito de su competencia a las víc
 
 ### CAPITULO I. DE SU COMPETENCIA
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 125.
 
-La Comisión de Honor y Justicia en materia de Seguridad Municipal tendrá competencia para conocer y sustanciar los procedimientos de responsabilidad administrativa derivados del incumplimiento a los deberes u obligaciones profesionales del personal adscrito, de las quejas y denuncias que en su contra se presenten, la aplicación de sanciones y los acuerdos necesarios para su funcionamiento, preservando el derecho a la garantía de audiencia; dicho Órgano estará adscrito a la Secretaría de la Contraloría y Transparencia Municipal, y su actuación se regulará de conformidad a lo contemplado en el Reglamento Interior de dicha Secretaría.
+La Comisión tendrá competencia para conocer y sustanciar los procedimientos de responsabilidad administrativa derivados del incumplimiento a los deberes u obligaciones profesionales del personal adscrito, de las quejas y denuncias que en su contra se presenten, la aplicación de sanciones y los acuerdos necesarios para su funcionamiento, preservando el derecho a la garantía de audiencia; dicho Órgano estará adscrito a la Secretaría de la Contraloría y Transparencia, y su actuación se regulará de conformidad a lo contemplado en el Reglamento Interior de dicha Secretaría.
 
 > <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
 
@@ -1592,3 +1772,9 @@ P.O. 29 DE OCTUBRE DE 2012.
 Artículo Primero. Las reformas al presente Reglamento, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ...
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
