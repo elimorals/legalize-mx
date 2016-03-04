@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-102296"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2015-09-10"
+last_updated: "2016-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 26 de agosto de 2014.
 
@@ -469,7 +469,9 @@ XXVIII. El padrón de proveedores y contratistas, identificando el nombre de la 
 
 XXIX. Los nombres de los inspectores o visitadores;
 
-XXX. Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación de cualquier naturaleza, incluyendo el o los contratos celebrados. En el caso que contengan información reservada o confidencial, sobre ellos se difundirá una versión pública que deberá contener, de manera enunciativa más no limitativa, lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
+XXX. Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación de cualquier naturaleza, incluyendo el o los contratos celebrados, así como los manifiestos de no conflicto de intereses. En el caso que contengan información reservada o confidencial, sobre ellos se difundirá una versión pública que deberá contener, de manera enunciativa más no limitativa, lo siguiente:
 
 1. De licitaciones públicas o procedimientos de invitación a cuando menos tres personas:
 
@@ -3550,3 +3552,13 @@ OCTAVO. Los comisionados del Instituto Coahuilense de Acceso a la Información P
 El procedimiento de ratificación previsto en el párrafo anterior, procederá siempre y cuando lo solicite el Consejo General del Instituto ante el Congreso del Estado, por medio del acuerdo correspondiente. En caso de que este procedimiento no sea solicitado hasta un día antes de la fecha en que deba iniciar el mismo, se procederá al trámite de designación previsto en este Decreto.
 
 De ser ratificados los comisionados del Instituto Coahuilense de Acceso a la Información Pública, estarán sujetos a lo establecido por el presente Decreto.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 387.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, ASÍ COMODEL (SIC) CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Dentro de un plazo de quince días los Órganos de Control Interno de la Administración Pública del Estado y de los Municipios en el ámbito de sus respectivas competencias, deberán expedir el Código de Conducta y en su caso, los formatos de Manifiesto de No Conflicto de Intereses de acuerdo con el presente Decreto.
+
+TERCERO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
