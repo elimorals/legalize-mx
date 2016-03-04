@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-los-propietarios-o-poseedores-de-animales-44802
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-13"
-last_updated: "2010-11-01"
+last_updated: "2016-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LOS PROPIETARIOS O POSEEDORES DE ANIMALES DOMESTICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO PARA LOS PROPIETARIOS O POSEEDORES DE ANIMALES DOMESTICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO PARA LOS PROPIETARIOS O POSEEDORES DE ANIMALES DOMÉSTICOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de abril de 2005.
 
@@ -105,7 +105,9 @@ Esterilización de animales: Cirugía que incapacita a un animal para reproducir
 
 Herida: Lesión en la que se presenta pérdida de la solución de continuidad de las partes blandas del cuerpo.
 
-Infección: Situación en al (sic) cual un virus o bacteria penetra a un organismo sea una persona o un animal.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+Infección: Situación en el cual un virus o bacteria penetra a un organismo sea una persona o un animal.
 
 Lesión: Daño o alteración física o psicológica.
 
@@ -123,9 +125,9 @@ Perro aullador: Aquel que tiene por costumbre aullar infatigablemente, causando 
 
 Perro casero: Animal doméstico que porta una identificación.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluído su adiestramiento en el Comité Estatal para la Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en la Ley de Personas con Discapacidad del Estado de Nuevo León.
+Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en el Comité Estatal para la Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en la Ley para la Protección de los Derechos de las Personas con Discapacidad.
 
 Perro de combate: El que se ha adiestrado para combatir a otros animales.
 
@@ -175,11 +177,11 @@ Zoonosis: Enfermedades que de una manera natural se transmiten entre animales ve
 
 (DEROGADO, P.O. 1 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-La Ley Estatal de Salud, la Ley Estatal de Protección a los Animales, Ley Ganadera del Estado de Nuevo León, Ley de Personas con Discapacidad, el Código de Procedimientos Civiles Vigente en el Estado de Nuevo León, y el Reglamento para Personas con Discapacidad del Municipio de San Pedro Garza García, Nuevo León, serán aplicados supletoriamente en lo conducente, en ese orden respectivamente y en todo aquello que no se encuentre previsto en el presente Reglamento.
+La Ley Estatal de Salud, la Ley de Protección a los Animales para el Estado de Nuevo León, Ley Ganadera del Estado de Nuevo León, Ley para la Protección de los Derechos de las Personas con Discapacidad, el Código de Procedimientos Civiles Vigente en el Estado de Nuevo León, y el Reglamento para Personas con Discapacidad del Municipio de San Pedro Garza García, Nuevo León, serán aplicados supletoriamente en lo conducente, en ese orden respectivamente y en todo aquello que no se encuentre previsto en el presente Reglamento.
 
 (REUBICADO, P.O. 22 DE JUNIO DE 2009)
 
@@ -213,15 +215,19 @@ A) Verificar el cumplimiento del presente Reglamento.
 
 B) Aplicar las sanciones derivadas del incumplimiento del presente Reglamento.
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
-II. Secretaría de Desarrollo Social o aquella a la que competa conocer los asuntos de Municipio Saludable, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León;
+II. Secretaría de Desarrollo Social y Humano aquella a la que competa conocer los asuntos de Municipio Saludable, de conformidad con lo dispuesto por el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 A) Verificar el cumplimiento del presente Reglamento.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 B) Aplicar las sanciones derivadas del incumplimiento del presente Reglamento.
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 C) Atender y resolver los recursos de inconformidad que se interpongan de conformidad con lo previsto por este Reglamento.
 
@@ -445,21 +451,19 @@ De los perros de asistencia para las personas con discapacidad.
 
 El perro de asistencia será acreditado por el Comité Estatal para la Certificación de Perros de Asistencia, una vez que reúna las condiciones higiénico-sanitarias, de adiestramiento y de aptitud para auxiliar a personas con discapacidad. En caso de que la acreditación deviniere de otras entidades o países, deberá ser revalidada por dicho Comité.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-###### Artículo 20 Bis 1.
+Artículo 20 BIS 1.- Para reconocer la condición de perro de asistencia, deberá cumplirse con lo establecido en el Capítulo XIII de la Ley para la Protección de los Derechos de las Personas con Discapacidad.
 
-Para reconocer la condición de perro de asistencia, deberá cumplirse con lo establecido en el Capítulo XII la Ley de Personas con Discapacidad en el Estado.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+Artículo 20 BIS 2.- Los perros de asistencia se identificarán mediante la colocación, en lugar visible, del distintivo que le otorgue el Comité Estatal para la Certificación de Perros de Asistencia.
 
-Artículo 20 Bis 1 (SIC).- Los perros de asistencia se identificarán mediante la colocación, en lugar visible, del distintivo que le otorgue el Comité Estatal para la Certificación de Perros de Asistencia. También deberán estar identificados permanentemente mediante microchip, según acuerde el Comité
+También deberán estar identificados permanentemente mediante microchip, según acuerde el Comité.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-###### Artículo 20 Bis 2.
-
-Además de cumplir con las obligaciones sanitarias que se deben satisfacer como animales domésticos, los poseedores de perros de asistencia deberán cumplir con relación al perro, las siguientes obligaciones:
+Artículo 20 BIS 3.- Además de cumplir con las obligaciones sanitarias que se deben satisfacer como animales domésticos, los poseedores de perros de asistencia deberán cumplir con relación al perro, las siguientes obligaciones:
 
 I. Una inspección veterinaria donde se demuestre que no padece ninguna enfermedad transmisible al hombre;
 
@@ -471,13 +475,11 @@ III. Todas aquellas que reglamentariamente se determinen.
 
 De la Cría y Reproducción de Animales.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 21.
 
-Para la instalación de lugares destinados a la cría, reproducción y exhibición de cualquier especie animal, se deberá de cumplir con los lineamientos que establece la Secretaría de Desarrollo Urbano y Ecología, en materia de uso de suelo y edificación, de conformidad con el Plan de Desarrollo Urbano Municipal.
-
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
-
-La cría, enajenación y exhibición de animales deberá desarrollarse en instalaciones cuyo uso de suelo no sea de uso habitacional. El establecimiento o local donde se realicen dichas actividades, deberá contar con la autorización de uso de suelo o uso de la edificación, según corresponda, así como con los demás permisos y autorizaciones que resulten aplicables.
+Para la instalación de lugares destinados a la cría, reproducción y exhibición de cualquier especie animal, se deberá de cumplir con los lineamientos que establece la Secretaría de Ordenamiento y Desarrollo Urbano, en materia de uso de suelo y edificación, de conformidad con el Plan de Desarrollo Urbano Municipal.
 
 ###### Artículo 22.
 
@@ -493,7 +495,9 @@ II. Deberán de contar con un espacio exclusivo para la crianza, que cuente con 
 
 III. Cada criadero deberá contar con un control de producción; y,
 
-IV. En el caso de reproducción de Cánidos, se aplicará lo dispuesto por los artículos 9, fracción I, inciso B y C, fracciones II, III y artículo 10 del presente Reglamento. Para las demás especies, se aplicará lo dispuesto por la Ley Ganadera del Estado, la Ley Estatal de Salud, la Ley Estatal de Protección a los Animales, así como sus respectivos Reglamentos.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+IV. En el caso de reproducción de Cánidos, se aplicará lo dispuesto por los artículos 9, fracción I, inciso B y C, fracciones II, III y artículo 10 del presente Reglamento. Para las demás especies, se aplicará lo dispuesto por la Ley Ganadera del Estado, la Ley Estatal de Salud, la Ley de Protección a los Animales para el Estado de Nuevo León, así como sus respectivos Reglamentos.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
@@ -593,19 +597,21 @@ C) En los casos de reincidencia, si el animal no es considerado como peligroso, 
 
 D) Cuando fuese capturado en la vía pública un animal considerado peligroso, se procederá a su traslado al Centro de Control Canino y de Zoonosis, y en su caso, la entrega respectiva se ajustará a lo establecido en los artículos 14, 15 y 16 del presente Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 30.
 
 Del sacrificio:
 
-I. Los animales capturados que no sean reclamados dentro de los siguientes 5-cinco días a su captura, así como los agresores que permanezcan en observación, y no sean reclamados después del período establecido para tal efecto, o bien no sean objeto de devolución en términos de lo establecido por el artículo 37 de este Reglamento, e incluso aquellos animales donados de forma espontánea por particulares, en caso de no ser adoptados por algún ciudadano o miembro de la Asociación Protectora de Animales, se les practicará la eutanasia, ajustándose a lo previstos (sic) por la Ley Estatal de Protección a los Animales, y en su caso por los Convenios de Colaboración celebrados con la Secretaría Estatal de Salud o cualquier otro Organismo Público;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+I. Los animales capturados que no sean reclamados dentro de los siguientes 5-cinco días a su captura, así como los agresores que permanezcan en observación, y no sean reclamados después del período establecido para tal efecto, o bien no sean objeto de devolución en términos de lo establecido por el artículo 37 de este Reglamento, e incluso aquellos animales donados de forma espontánea por particulares, en caso de no ser adoptados por algún ciudadano o miembro de la Asociación Protectora de Animales, se les practicará la eutanasia, ajustándose a lo previstos (sic) por la Ley de Protección a los Animales para el Estado de Nuevo León, y en su caso por los Convenios de Colaboración celebrados con la Secretaría Estatal de Salud o cualquier otro Organismo Público;
 
-II. El sacrificio de los perros y gatos se realizará conforme a lo establecido por la Ley Estatal de Protección a los Animales o los Convenios de Colaboración celebrados con la Secretaría Estatal de Salud o cualquier otro Organismo Público competente;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-III. Las fechas de eliminación serán programadas por el Coordinador del Centro de Control Canino y de Zoonosis; y, (sic)
+II. El sacrificio de los perros y gatos se realizará conforme a lo establecido por la Ley de Protección a los Animales para el Estado de Nuevo León o los Convenios de Colaboración celebrados con la Secretaría Estatal de Salud o cualquier otro Organismo Público competente;
+
+III. Las fechas de eliminación serán programadas por el Coordinador del Centro de Control Canino y de Zoonosis; y,
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
@@ -1042,3 +1048,9 @@ Se deroga cualquier disposición Municipal que contravenga lo dispuesto en las p
 P.O. 1 DE NOVIEMBRE DE 2010.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
