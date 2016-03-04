@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2016-03-03"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 4 Y 5 DE MARZO DE 2016 [AMBAS EN SUS EDICIONES EXTRAORDINARIAS, PÁGINA 2] EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADAS EN EL P.O. EL 4 DE MARZO DE 2016 NO APLICA AL ARTICULADO DE LOS DECRETOS NÚMERO 182, 183, 184, 185 Y 186 PUBLICADOS EN EL P.O. DE 3 DE MARZO DE 2016.]</small>
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
