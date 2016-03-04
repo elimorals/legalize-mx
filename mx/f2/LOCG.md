@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2015-05-18"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -950,6 +950,10 @@ Los proyectos de dictamen de la Sección Instructora y los de las comisiones enc
 
 2. La Cámara tendrá una Unidad de Capacitación y Formación Permanente de los integrantes de los servicios parlamentarios, administrativos y financieros.
 
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+
+3. En el ámbito de la Secretaría General la Cámara tendrá una Unidad para la Igualdad de Género.
+
 #### Sección Primera. De la Secretaría General de la Cámara
 
 ###### ARTICULO 48.
@@ -1083,6 +1087,26 @@ c) A la Dirección General de Quejas, Denuncias e Inconformidades le corresponde
 ###### ARTICULO 55.
 
 1. La Unidad de Capacitación y Formación Permanente de los integrantes de los servicios parlamentario y administrativo y financiero de la Cámara de Diputados es el órgano técnico responsable de la formación, actualización y especialización de los candidatos a ingresar y de los funcionarios de carrera en ambas ramas, de conformidad con el Estatuto respectivo. La Unidad está a cargo de un Coordinador nombrado en los términos que establezca el Estatuto del Servicio de Carrera y se estructura con las oficinas que se requieran.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+
+2. La Unidad para la Igualdad de Género de la Cámara de Diputados es el órgano técnico responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional, de conformidad con el Estatuto respectivo y con las siguientes funciones:
+
+a) Proponer acciones orientadas a la igualdad sustantiva en la Cámara de Diputados;
+
+b) Coadyuvar con las instancias competentes para promover ambientes libres de acoso laboral, así como de acoso y hostigamiento sexual en la Cámara de Diputados;
+
+c) Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, imparcialidad, disposición y compromiso institucional;
+
+d) Colaborar con el centro de estudios para el logro de la igualdad de género en la elaboración de publicaciones y contenidos editoriales que consoliden el proceso de institucionalización e implementación de la perspectiva de género;
+
+e) Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva, y
+
+f) Coadyuvar con el centro de estudios para el logro de la igualdad de género en la producción y sistematización de información con perspectiva de género.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+
+3. La Unidad estará a cargo de un Coordinador nombrado en los términos que establezca el Estatuto para la Organización Técnica y Administrativa del Servicio de Carrera de la Cámara de Diputados y contará con el personal suficiente para su eficaz desempeño, así como con la infraestructura adecuada para su funcionamiento.
 
 #### Sección Quinta. Disposiciones Generales
 
@@ -2579,3 +2603,11 @@ Tercero.- Las Cámaras del Congreso a través de la oficina de atención ciudada
 D.O.F. 18 DE MAYO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 47 Y 55 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Cámara de Diputados, dentro de los 60 días siguientes a la publicación del presente Decreto, hará las modificaciones correspondientes al Estatuto de la Organización Técnica y Administrativa y del Servicio de Carrera de la Cámara de Diputados.
