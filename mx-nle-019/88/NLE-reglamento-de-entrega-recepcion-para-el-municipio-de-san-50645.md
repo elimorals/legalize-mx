@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-entrega-recepcion-para-el-municipio-de-san-50645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-22"
-last_updated: "2011-07-18"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ENTREGA-RECEPCION PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE ENTREGA-RECEPCION PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE ENTREGA-RECEPCIÓN PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de mayo de 2006.
 
@@ -47,11 +47,13 @@ El presente Reglamento tiene por objeto fijar las normas generales para la Entre
 
 Para los efectos del presente Reglamento se entenderá por:
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-l. Contraloría.- La Secretaría de la Contraloría y Transparencia Municipal;
+I. Contraloría.- La Secretaría de la Contraloría y Transparencia;
 
-II. Dependencias.- Las señaladas en el artículo 23 del Reglamento Orgánico de la Administración Pública Municipal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+II. Dependencias.- Las señaladas en el Reglamento Orgánico de la Administración Pública Municipal;
 
 III. Entrega-Recepción General.- Aquélla que realizan al término del período constitucional del Republicano Ayuntamiento, los Servidores Públicos obligados;
 
@@ -129,11 +131,11 @@ La información a que se refiere este artículo deberá detallarse de tal manera
 
 Los Servidores Públicos involucrados en la ejecución de los trabajos de la Entrega-Recepción deberán atender los principios de legalidad, honradez, transparencia, lealtad, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones, debiendo mantener permanentemente actualizados sus registros, controles y demás documentación relativa a su empleo, cargo o comisión.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 9.
 
-Para integrar los libros de Anexos del Acta de Entrega-Recepción, los Titulares de las Dependencias, Unidades Administrativas y Organismos, de la Administración Pública Municipal, serán los directamente responsables de preparar y revisar los anexos descritos en el artículo 7 de este Reglamento, mismos que serán consignados en dispositivos de almacenamiento magnético, óptico, magneto-óptico, tarjetas de memoria u otro análogo permitido por la Contraloría, con los datos generados por el sistema electrónico de Información autorizado por la Contraloría y éstos serán rubricados por el servidor público entrante, el saliente y un representante de la Secretaría de la Contraloría y Transparencia Municipal.
+Para integrar los libros de Anexos del Acta de Entrega-Recepción, los Titulares de las Dependencias, Unidades Administrativas y Organismos, de la Administración Pública Municipal, serán los directamente responsables de preparar y revisar los anexos descritos en el artículo 7 de este Reglamento, mismos que serán consignados en dispositivos de almacenamiento magnético, óptico, magneto-óptico, tarjetas de memoria u otro análogo permitido por la Contraloría, con los datos generados por el sistema electrónico de información autorizado por la Contraloría y éstos serán rubricados por el servidor público entrante, el saliente y un representante de la Secretaría de la Contraloría y Transparencia.
 
 ###### Artículo 10.
 
@@ -201,9 +203,11 @@ II. Los Síndicos Primero y Segundo, salientes y entrantes respectivamente; y,
 
 III. El Contralor Municipal, en calidad de testigo.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 15.
 
-En el caso que el Presidente Municipal saliente no asista al Acto de Entrega-Recepción se estará a lo dispuesto por lo señalado en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León. Tratándose de la inasistencia de los Síndicos Primero y/o Segundo saliente y/o entrante respectivamente o del Contralor Municipal, únicamente se anotará en el Acta de la leyenda "No asistió".
+En el caso que el Presidente Municipal saliente no asista al Acto de Entrega-Recepción se estará a lo dispuesto por lo señalado en la Ley de Gobierno Municipal del Estado de Nuevo León. Tratándose de la inasistencia de los Síndicos Primero y/o Segundo saliente y/o entrante respectivamente o del Contralor Municipal, únicamente se anotará en el Acta de la leyenda "No asistió".
 
 ###### Artículo 16.
 
@@ -229,9 +233,11 @@ En el caso de que un Titular de la Dependencia, Unidad Administrativa u Organism
 
 Los Titulares salientes de las Dependencias, Unidades Administrativas y Organismos deberán elaborar un Acta Circunstanciada en la que se detalle la situación de los asuntos y recursos descritos en el artículo 7 de este Reglamento que hayan presentado movimientos entre la fecha oficial de corte de información y el día del Acto protocolario de Entrega-Recepción, en presencia de los testigos y la representación de la Contraloría.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 22.
 
-El contenido del Acta Administrativa de Entrega-Recepción y del Acta Circunstanciada referida en el artículo anterior, deberá ser verificada y validada física y documentalmente por parte de los Servidores Públicos entrantes en un término no mayor de 90-noventa días contados a partir de la fecha en que se llevó a cabo el acto de Entrega-Recepción, sujetándose a lo establecido en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+El contenido del Acta Administrativa de Entrega-Recepción y del Acta Circunstanciada referida en el artículo anterior, deberá ser verificada y validada física y documentalmente por parte de los Servidores Públicos entrantes en un término no mayor de noventa días contados a partir de la fecha en que se llevó a cabo el acto de Entrega-Recepción, sujetándose a lo establecido en la Ley de Gobierno Municipal del Estado de Nuevo León.
 
 ###### Artículo 23.
 
@@ -305,7 +311,7 @@ En el caso que no exista nombramiento o designación del Titular entrante, la En
 
 El acto de Entrega-Recepción del Titular de una Dependencia, Unidad Administrativa u Organismo deberá formalizarse a más tardar a los 3-tres días hábiles siguientes en que el Titular Saliente sea removido o se separe del cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2011)</small>
 
 ###### Artículo 34.
 
@@ -331,9 +337,11 @@ Los Servidores Públicos que no ocupen el cargo de Titular de las Dependencias, 
 
 El mencionado Responsable Administrativo deberá turnar junto con el oficio de Baja a la Dirección de Recursos Humanos, la Entrega-Recepción del Servidor Público que halla (sic) causado baja para su resguardo en el expediente de personal correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 37.
 
-En caso que el Titular saliente o entrante se negase a firmar el Acta Administrativa de Entrega-Recepción se asentarán los hechos sucedidos en el Acta en presencia de un representante de la Contraloría, de la Dirección Jurídica de la Secretaría del Ayuntamiento y 2-dos personas en calidad de testigos.
+En caso que el Titular saliente o entrante se negase a firmar el Acta Administrativa de Entrega-Recepción se asentarán los hechos sucedidos en el Acta en presencia de un representante de la Contraloría, de la Dirección General de Asuntos Jurídicos de la Secretaría del Ayuntamiento y 2-dos personas en calidad de testigos.
 
 ###### Artículo 38.
 
@@ -415,7 +423,7 @@ LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 23 DE SEPTIEMBRE DE 2009.
 
@@ -434,3 +442,9 @@ Primero.- Las presentes reformas y adiciones entrarán en vigor al día siguient
 Segundo.- La Secretaría de la Contraloría y Transparencia Municipal deberá instaurar el sistema electrónico de entrega recepción en un término que no exceda de 90 días naturales, contados a partir de la fecha de publicación de las presentes reformas.
 
 Tercero.- Los servidores públicos que realicen el acto de entrega recepción, dentro del término de 90 días naturales referido en el artículo anterior, lo realizarán con apego a las disposiciones aplicables con anterioridad a la entrada en vigor de las presentes reformas y adiciones.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
