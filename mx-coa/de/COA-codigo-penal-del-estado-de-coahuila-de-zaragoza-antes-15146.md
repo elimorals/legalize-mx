@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2016-02-05"
+last_updated: "2016-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3375,11 +3375,17 @@ SANCIONES Y FIGURA TÍPICA DE APROVECHAMIENTO INDEBIDO DE INFORMACIÓN RESERVADA
 
 Al servidor público que por sí o por interpósita persona, obtenga para sí o para otro algún beneficio indebido aprovechando la información que la ley estime como reservada, de alguna entidad pública; siempre y cuando aquella no se haya ya divulgado y la consiga por razón de su cargo o medios de ley.
 
-#### SECCIÓN PRIMERA. USO INDEBIDO DE INFORMACIÓN RESERVADA
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE MARZO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA (SIC). MANIFESTACIÓN FALSA DE NO CONFLICTO DE INTERESES ANTE AUTORIDAD ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+ARTÍCULO 205 BIS. SANCIONES Y FIGURA TÍPICA DE MANIFESTACIÓN FALSA DE NO CONFLICTO DE INTERESES ANTE AUTORIDAD ADMINISTRATIVA. Se aplicará prisión de seis meses a seis años y multa a quien con conocimiento y para participar en procedimientos de contratación de obra pública, adquisiciones, arrendamientos y prestación de servicios de la administración pública estatal o municipal, manifieste falsamente ante la autoridad administrativa competente, no tener conflicto de intereses en los términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza o la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Coahuila de Zaragoza.
 
 ### CAPÍTULO TERCERO. DELITOS DE SERVIDORES PÚBLICOS CONTRA OTROS BIENES JURÍDICOS
 
-#### SECCIÓN SEGUNDA. CONCUSIÓN
+#### SECCIÓN PRIMERA. USO INDEBIDO DE INFORMACIÓN RESERVADA
 
 ###### ARTÍCULO 206.
 
@@ -3387,7 +3393,7 @@ SANCIONES Y FIGURA TÍPICA DE USO INDEBIDO DE INFORMACIÓN RESERVADA. Se aplicar
 
 Al servidor público que por sí o por interpósita persona y sin causa justificada, difunda o dé a conocer información que la ley estime como reservada de cualquier entidad pública; siempre y cuando la tenga o consiga por razón de su cargo o medios de ley y con ello dañe o ponga en peligro la seguridad de personas o a otros bienes jurídicos.
 
-#### SECCIÓN TERCERA. COHECHO
+#### SECCIÓN SEGUNDA. CONCUSIÓN
 
 ###### ARTÍCULO 207.
 
@@ -3395,7 +3401,7 @@ SANCIONES Y FIGURA TÍPICA DE CONCUSIÓN. Se aplicará prisión de seis meses a 
 
 Si lo que reclamó o exigió aprovecha a quién intervino o a un tercero; la pena de prisión será de uno a nueve años y la multa de la mitad a tres tantos del provecho que obtuvo; sin perjuicio de las otras sanciones que prevé el párrafo anterior.
 
-#### SECCIÓN CUARTA. ABUSO CONTRA SUBALTERNO
+#### SECCIÓN TERCERA. COHECHO
 
 ###### ARTÍCULO 208.
 
@@ -3407,7 +3413,7 @@ II. COHECHO POR PARTICULAR. A quien de manera espontánea dé u ofrezca dinero o
 
 Cuando el particular cometa el delito por la exigencia del servidor público, la sanción será de tres días a dos años y la multa de una cuarta parte a un tanto del beneficio que obtuvo.
 
-#### SECCIÓN QUINTA. OTORGAMIENTO INDEBIDO DE IDENTIFICACIONES
+#### SECCIÓN CUARTA. ABUSO CONTRA SUBALTERNO
 
 ###### ARTÍCULO 209.
 
@@ -3415,7 +3421,7 @@ SANCIONES Y FIGURA TÍPICA DE ABUSO CONTRA SUBALTERNO. Se aplicará prisión de 
 
 Al servidor público que con cualquier pretexto, obtenga de un subalterno parte de su sueldo, dádivas u otro servicio ajeno a las funciones del subalterno.
 
-#### SECCIÓN SEXTA. OBSTRUCCIÓN A LA EJECUCIÓN DE IMPUESTOS O RESOLUCIONES
+#### SECCIÓN QUINTA. OTORGAMIENTO INDEBIDO DE IDENTIFICACIONES
 
 ###### ARTÍCULO 210.
 
@@ -3423,7 +3429,7 @@ SANCIONES Y FIGURA TÍPICA DE OTORGAMIENTO INDEBIDO DE IDENTIFICACIONES. Se apli
 
 Al servidor público, sea cual fuese su categoría, que otorgue cualquier identificación en la que se acredite como servidor público a cualquier persona que no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
 
-#### SECCIÓN SÉPTIMA. DELITOS COMETIDOS POR AUTORIDADES QUE LESIONAN LA LIBERTAD, SALUD O SEGURIDAD DE LAS PERSONAS
+#### SECCIÓN SEXTA. OBSTRUCCIÓN A LA EJECUCIÓN DE IMPUESTOS O RESOLUCIONES
 
 ###### ARTÍCULO 211.
 
@@ -3435,7 +3441,7 @@ Se aplicarán las mismas sanciones: Al encargado de una fuerza pública, que req
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
-#### SECCIÓN OCTAVA. EJERCICIO INDEBIDO, INCUMPLIMIENTO Y ABANDONO DE FUNCIONES
+#### SECCIÓN SÉPTIMA. DELITOS COMETIDOS POR AUTORIDADES QUE LESIONAN LA LIBERTAD, SALUD O SEGURIDAD DE LAS PERSONAS
 
 ###### ARTÍCULO 212.
 
@@ -3529,7 +3535,7 @@ ARTÍCULO 212 BIS 5. EXCLUYENTES DEL DELITO DE DESAPARICIÓN DE PERSONAS. No pod
 
 ARTÍCULO 212 BIS 6. SANCIONES PARA LOS SERVIDORES PÚBLICOS QUE OBSTRUYAN LA INVESTIGACIÓN. Los servidores públicos que teniendo a su cargo la investigación del delito de desaparición de persona o sus auxiliares, evidentemente la obstruyan o eviten hacerla, se les aplicará una pena de cinco a diez años de prisión además de la inhabilitación vitalicia para el desempeño de cualquier cargo, empleo o comisión públicos.
 
-#### SECCIÓN NOVENA. COALICIÓN DE SERVIDORES PÚBLICOS
+#### SECCIÓN OCTAVA. EJERCICIO INDEBIDO, INCUMPLIMIENTO Y ABANDONO DE FUNCIONES
 
 ###### ARTÍCULO 213.
 
@@ -3553,7 +3559,7 @@ ARTÍCULO 213 BIS. SANCIONES Y FIGURA TÍPICA DE NOMBRAMIENTO O DESIGNACIÓN IND
 
 La misma pena se aplicará al servidor público que sabiendo que un elemento de las fuerzas de seguridad pública en funciones o personal administrativo de los mencionados en el párrafo que antecede, no haya aprobado los exámenes de control de confianza a los que fuere sometido para efectos de su permanencia en el cargo, omita realizar los trámites necesarios en el ámbito de su competencia para proceder a su destitución.
 
-#### SECCIÓN DÉCIMA. USURPACIÓN DE FUNCIONES PÚBLICAS
+#### SECCIÓN NOVENA. COALICIÓN DE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 214.
 
@@ -3561,7 +3567,7 @@ SANCIONES Y FIGURA TÍPICA DE COALICIÓN DE SERVIDORES PÚBLICOS. Se aplicará p
 
 A los servidores públicos que se coliguen para tomar medidas contrarias a una ley, decreto o reglamento; o para impedir su ejecución; o para dimitir de sus cargos o empleos y con ello se impida, retarde o suspenda la administración de justicia; o la administración o servicios de cualquier entidad pública o de sus dependencias.
 
-#### SECCIÓN PRIMERA. DESACATO
+#### SECCIÓN DÉCIMA. USURPACIÓN DE FUNCIONES PÚBLICAS
 
 ###### ARTÍCULO 215.
 
@@ -3569,7 +3575,7 @@ SANCIONES Y FIGURA TÍPICA DE USURPACIÓN DE FUNCIONES PÚBLICAS. Se aplicará p
 
 ### CAPÍTULO CUARTO. DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA, PROCURACIÓN O ADMINISTRACIÓN DE JUSTICIA
 
-#### SECCIÓN SEGUNDA. RESISTENCIA DE PARTICULARES
+#### SECCIÓN PRIMERA. DESACATO
 
 ###### ARTÍCULO 216.
 
@@ -3595,13 +3601,13 @@ DISPOSICIONES COMUNES AL DESACATO. Al configurarse un desacato dentro de un proc
 
 Si el desacato deriva de un procedimiento, proceso o juicio civil, familiar o laboral, sólo se perseguirá por querella de la parte a la que perjudique la desobediencia. Sin que sea necesaria comunicación de la autoridad ante la cual se incurrió en desacato. Pero aquella informará al Ministerio Público al respecto, cuando éste se lo pida y le facilitará copia de las constancias que pida.
 
-#### SECCIÓN TERCERA. COACCIÓN, ULTRAJES Y DELITOS CONTRA LA AUTORIDAD
+#### SECCIÓN SEGUNDA. RESISTENCIA DE PARTICULARES
 
 ###### ARTÍCULO 219.
 
 SANCIONES Y FIGURA TÍPICA DE RESISTENCIA DE PARTICULARES. Se aplicará prisión de seis meses a cinco años y multa: A quien emplee la violencia física o moral al oponerse indebidamente a que la autoridad o sus agentes ejerzan alguna de sus funciones; o se resista al cumplimiento de una orden legítima, cuya ejecución se lleve a cabo en forma legal.
 
-#### SECCIÓN CUARTA. OPOSICIÓN A LA EJECUCIÓN DE OBRAS O TRABAJOS PÚBLICOS
+#### SECCIÓN TERCERA. COACCIÓN, ULTRAJES Y DELITOS CONTRA LA AUTORIDAD
 
 ###### ARTÍCULO 220.
 
@@ -3615,19 +3621,19 @@ SANCIONES Y FIGURA TÍPICA DE ULTRAJES A LA AUTORIDAD. Se aplicarán de seis mes
 
 SANCIÓN AGRAVADA PARA DELITOS COMETIDOS CONTRA LA AUTORIDAD. Además de las sanciones que le correspondan por cualquiera de los delitos enumerados en este capítulo: A quién cometa otro delito en contra de un servidor público o agente de la autoridad cuando ejerza sus funciones, se le podrá aumentar hasta tres años la pena de prisión que se le imponga.
 
-#### SECCIÓN QUINTA. QUEBRANTAMIENTO DE SELLOS
+#### SECCIÓN CUARTA. OPOSICIÓN A LA EJECUCIÓN DE OBRAS O TRABAJOS PÚBLICOS
 
 ###### ARTÍCULO 223.
 
 SANCIONES Y FIGURA TÍPICA DE OPOSICIÓN A LA EJECUCIÓN DE OBRAS O TRABAJOS PÚBLICOS. Se aplicará prisión de tres meses a tres años y multa: A quien entorpezca o se oponga con actos materiales a que se ejecuten obras o trabajos públicos que la autoridad ordene legalmente.
 
-#### SECCIÓN SEXTA. ULTRAJES A LAS INSTITUCIONES E INSIGNIAS PÚBLICAS
+#### SECCIÓN QUINTA. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTÍCULO 224.
 
 SANCIONES Y FIGURA TÍPICA DE QUEBRANTAMIENTO DE SELLOS. Se aplicará prisión de tres meses a dos años y multa: A quien quebrante los sellos que se pongan por orden legítima de autoridad competente.
 
-#### SECCIÓN SÉPTIMA. USO INDEBIDO DE INSIGNIAS
+#### SECCIÓN SEXTA. ULTRAJES A LAS INSTITUCIONES E INSIGNIAS PÚBLICAS
 
 ###### ARTÍCULO 225.
 
@@ -3637,13 +3643,13 @@ SANCIONES Y FIGURA TÍPICA DE ULTRAJES A LAS INSTITUCIONES. Se aplicará prisió
 
 SANCIONES Y FIGURA TÍPICA DE ULTRAJE A INSIGNIAS. Se aplicará prisión de tres días a dos años y multa: A quien ultraje de obra al escudo del estado o al de municipios.
 
-#### SECCIÓN OCTAVA. VARIACIÓN DE NOMBRE O DOMICILIO
+#### SECCIÓN SÉPTIMA. USO INDEBIDO DE INSIGNIAS
 
 ###### ARTÍCULO 227.
 
 SANCIONES Y FIGURA TÍPICA DE USO INDEBIDO DE INSIGNIAS. Se aplicará prisión de tres días a tres años y multa: A quien haga uso indebido del escudo del estado o de sus municipios, con perjuicio de estos o de un particular.
 
-#### SECCIÓN PRIMERA. DELITOS COMETIDOS POR PARTICULARES
+#### SECCIÓN OCTAVA. VARIACIÓN DE NOMBRE O DOMICILIO
 
 ###### ARTÍCULO 228.
 
@@ -3969,7 +3975,7 @@ Todos los ilícitos que prevé este título se perseguirán de oficio.
 
 ### CAPÍTULO SEGUNDO. DELITOS EN MATERIA ELECTORAL
 
-#### SECCIÓN SEGUNDA. DELITOS COMETIDOS POR FUNCIONARIOS ELECTORALES
+#### SECCIÓN PRIMERA. DELITOS COMETIDOS POR PARTICULARES
 
 ###### ARTÍCULO 264.
 
@@ -4011,7 +4017,7 @@ SANCIONES Y FIGURAS TÍPICAS DE PROPICIAR LA INSTALACIÓN ILEGAL DE CASILLA O US
 
 ARTÍCULO 266 BIS. Se aplicará prisión de tres a cinco años y multa a quienes, para ejercer un derecho o con pretexto de ejercerlo, o para evitar que se cumpla una ley, se reúnan tumultuariamente en el interior o en el exterior del local de una autoridad, empleen violencia física o psicológica en las personas o con daño sobre las cosas, o amenacen con actos violentos e inmediatos de igual clase a la autoridad electoral para obligarla a tomar una determinación o evitar que la autoridad electoral cumpla con las obligaciones que le impone la ley.
 
-#### SECCIÓN TERCERA. DELITOS COMETIDOS POR CANDIDATOS
+#### SECCIÓN SEGUNDA. DELITOS COMETIDOS POR FUNCIONARIOS ELECTORALES
 
 ###### ARTÍCULO 267.
 
@@ -4085,9 +4091,7 @@ La misma penalidad se aplicará a los funcionarios partidistas, o a los organiza
 
 IV. OBSTRUCCIÓN AL DERECHO DE REUNIÓN. Impida indebidamente la reunión de una asamblea, una manifestación pública o cualquier otro acto legal de propaganda electoral que se esté realizando pacíficamente.
 
-#### SECCIÓN PRIMERA. ASOCIACIÓN DELICTUOSA
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+#### SECCIÓN TERCERA. DELITOS COMETIDOS POR CANDIDATOS
 
 ###### ARTÍCULO 271.
 
@@ -4101,7 +4105,9 @@ El partido político que lo hubiere postulado, se le sancionará con la afectaci
 
 ### CAPÍTULO PRIMERO. DELITOS CONTRA LA TRANQUILIDAD PÚBLICA
 
-#### SECCIÓN SEGUNDA. CONSPIRACIÓN CRIMINAL
+#### SECCIÓN PRIMERA. ASOCIACIÓN DELICTUOSA
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 272.
 
@@ -4133,7 +4139,7 @@ VIII. Que se porten o posean, al momento de la comisión del delito, instrumento
 
 IX. Que porten tatuajes indicativos de pertenencia a reconocidas bandas o grupos criminales.
 
-#### SECCIÓN TERCERA. BANDA O PANDILLA CRIMINAL
+#### SECCIÓN SEGUNDA. CONSPIRACIÓN CRIMINAL
 
 ###### ARTÍCULO 273.
 
@@ -4142,6 +4148,14 @@ SANCIONES Y FIGURA TÍPICA DE CONSPIRACIÓN CRIMINAL. Cometen conspiración crim
 A quien incurra en conspiración criminal se le aplicará de una tercera parte del mínimo a una tercera parte del máximo de las penas que la ley señale para el delito objeto de la conspiración.
 
 Si los delitos objeto de la conspiración son varios, se atenderá al de la pena más grave y la que se imponga se podrá aumentar hasta en un tercio más.
+
+#### SECCIÓN TERCERA. BANDA O PANDILLA CRIMINAL
+
+###### ARTÍCULO 274.
+
+SANCIONES Y FIGURA TÍPICA DE BANDA O PANDILLA CRIMINAL. Se aplicará prisión de uno a siete años y multa: A quienes sin estar organizados con fines delictuosos formen parte de banda o pandilla de tres o más personas y actúen con propósito de delinquir.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN CUARTA. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA
 
@@ -4161,17 +4175,9 @@ ARTÍCULO 274 BIS 2.- Cuando el reporte sea realizado por un menor de edad se sa
 
 Los delitos señalados en el presente Título se perseguirán de oficio.
 
-###### ARTÍCULO 274.
-
-SANCIONES Y FIGURA TÍPICA DE BANDA O PANDILLA CRIMINAL. Se aplicará prisión de uno a siete años y multa: A quienes sin estar organizados con fines delictuosos formen parte de banda o pandilla de tres o más personas y actúen con propósito de delinquir.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2013)</small>
-
-#### SECCIÓN PRIMERA. PANDILLERISMO
-
 ### CAPÍTULO SEGUNDO. OTROS DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-#### SECCIÓN SEGUNDA. USURPACIÓN DE PROFESIÓN
+#### SECCIÓN PRIMERA. PANDILLERISMO
 
 ###### ARTÍCULO 275.
 
@@ -4187,13 +4193,13 @@ Si aparece que se comete algún otro delito, se estará a las reglas del concurs
 
 ARTICULO 275 BIS. SANCIONES Y FIGURA TÍPICA DE INSTALACIÓN U OPERACIÓN DE CENTROS DE JUEGOS Y APUESTAS SIN LA AUTORIZACIÓN DE LA AUTORIDAD COMPETENTE. Se aplicará pena de cuatro a diez años de prisión y multa, a quien destine o aproveche un local en forma habitual, temporal o permanente para la instalación u operación de casinos, centros de apuestas, salas de sorteos, casas de juego y similares sin la autorización de la autoridad competente.
 
-#### SECCIÓN TERCERA. RESPONSABILIDAD PROFESIONAL
+#### SECCIÓN SEGUNDA. USURPACIÓN DE PROFESIÓN
 
 ###### ARTÍCULO 276.
 
 SANCIONES Y FIGURA TÍPICA DE USURPACIÓN DE PROFESIÓN. Se aplicará prisión de uno a tres años y multa: A quien ejerza los actos propios de una profesión, sin tener título ni autorización legal.
 
-#### SECCIÓN CUARTA. INCITACIÓN A LA COMISIÓN DE UN DELITO
+#### SECCIÓN TERCERA. RESPONSABILIDAD PROFESIONAL
 
 ###### ARTÍCULO 277.
 
@@ -4205,11 +4211,27 @@ PENALIDAD Y FIGURA TÍPICA DE OMISIÓN DE AUXILIO MÉDICO EN CASO URGENTE. Se ap
 
 Si se produce la muerte que pudo evitarse con la intervención, se aplicará prisión de tres días a seis años y multa.
 
-#### SECCIÓN QUINTA. ARMAS PROHIBIDAS
+#### SECCIÓN CUARTA. INCITACIÓN A LA COMISIÓN DE UN DELITO
 
 ###### ARTÍCULO 279.
 
 PENALIDAD Y FIGURA TÍPICA DE INCITACIÓN A LA COMISIÓN DE UN DELITO. Se aplicará prisión de tres días a tres años y multa: A quien incite públicamente a cometer uno o más delitos determinados.
+
+#### SECCIÓN QUINTA. ARMAS PROHIBIDAS
+
+###### ARTÍCULO 280.
+
+SANCIONES Y FIGURAS TÍPICAS DE CONDUCTAS PROHIBIDAS CON RELACIÓN A CIERTAS ARMAS. Se aplicará prisión de tres días a seis meses y multa:
+
+I. COMERCIALIZACIÓN O PORTACIÓN. A quien fabrique, transmita o porte armas prohibidas.
+
+II. ACOPIO. A quien sin un fin lícito, acopie armas prohibidas.
+
+Son armas prohibidas: los puñales dagas y verdugillos (sic); o los instrumentos con o sin filo y con punta sin uso laboral, doméstico o deportivo; o los instrumentos con punta que se oculten disimulados en bastón u otros objetos; los boxers, manoplas, macanas y correas con balas, pesas o puntas.
+
+Se aplicarán iguales penas: A quien porte cuchillo o navaja en lugar de reunión pública o privada con acceso al público, salvo que trabaje en ese lugar y los porte con tal objeto.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCION SEXTA. FACILITACION DELICTIVA
 
@@ -4232,20 +4254,6 @@ Además de las penas previstas en el párrafo anterior, se impondrá hasta una m
 Las penas señaladas en este artículo se aumentarán hasta un tanto más y se impondrá además destitución del cargo o comisión e inhabilitación de tres a diez años para ocupar otro, cuando el delito sea cometido por servidores públicos o ex servidores públicos de las fuerzas armadas, instituciones de seguridad pública o de procuración de justicia.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2012)</small>
-
-###### ARTÍCULO 280.
-
-SANCIONES Y FIGURAS TÍPICAS DE CONDUCTAS PROHIBIDAS CON RELACIÓN A CIERTAS ARMAS. Se aplicará prisión de tres días a seis meses y multa:
-
-I. COMERCIALIZACIÓN O PORTACIÓN. A quien fabrique, transmita o porte armas prohibidas.
-
-II. ACOPIO. A quien sin un fin lícito, acopie armas prohibidas.
-
-Son armas prohibidas: los puñales dagas y verdugillos (sic); o los instrumentos con o sin filo y con punta sin uso laboral, doméstico o deportivo; o los instrumentos con punta que se oculten disimulados en bastón u otros objetos; los boxers, manoplas, macanas y correas con balas, pesas o puntas.
-
-Se aplicarán iguales penas: A quien porte cuchillo o navaja en lugar de reunión pública o privada con acceso al público, salvo que trabaje en ese lugar y los porte con tal objeto.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN SÉPTIMA. CIRCULACIÓN CON PLACAS SOBREPUESTAS
 
@@ -4312,8 +4320,6 @@ En el caso de que el delito se cometa por funcionarios públicos, además de la 
 #### SECCIÓN DECIMA PRIMERA. VENTA INDEBIDA DE BEBIDAS ALCOHÓLICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
-
-#### SECCIÓN TERCERA. COHECHO
 
 ###### ARTÍCULO 281.
 
@@ -6990,3 +6996,13 @@ SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno 
 P.O. 5 DE FEBRERO DE 2016.
 
 ÚNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 387.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ACCESO A INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, ASÍ COMO DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Dentro de un plazo de quince días los Órganos de Control Interno de la Administración Pública del Estado y de los Municipios en el ámbito de sus respectivas competencias, deberán expedir el Código de Conducta y en su caso, los formatos de Manifiesto de No Conflicto de Intereses de acuerdo con el presente Decreto.
+
+TERCERO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
