@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-servicio-municipal-de-bomberos-de-san-pedro-2148
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2001-05-16"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL SERVICIO MUNICIPAL DE BOMBEROS DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DEL SERVICIO MUNICIPAL DE BOMBEROS DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DEL SERVICIO MUNICIPAL DE BOMBEROS DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de mayo de 2001.
 
@@ -69,17 +69,27 @@ Los demás que se desprendan de la Ley de Protección contra Incendios y Materia
 
 ### Capitulo II. DE LAS AUTORIDADES COMPETENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E., REPUBLICADO], P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 4.
 
 La aplicación de este reglamento corresponde a las siguientes autoridades:
 
-Ayuntamiento;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-Presidente Municipal; y, (sic)
+I.- Republicano Ayuntamiento;
 
-Secretaría de Desarrollo Urbano; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-Secretario de Finanzas y Tesorero Municipal.
+II.- Presidente Municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+III.- Secretaría de Ordenamiento y Desarrollo Urbano; y
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+IV.- Secretario de Finanzas y Tesorería.
 
 El Patronato de Bomberos de Nuevo León, A.C., será el órgano encargado por el gobierno municipal para aplicar, en lo conducente, las disposiciones del reglamento, figurando como asesor para la realización del objeto de éste, así como en lo relativo a la creación, requerimientos y funcionamiento, en su caso, del cuerpo de bomberos municipal, de acuerdo con lo que disponga el reglamento correspondiente.
 
@@ -113,15 +123,19 @@ III.- Establecer y operar, en colaboración con los municipios del área metropo
 
 IV.- Promover los programas de prevención, protección, combate, y extinción de incendios y otros siniestros entre los habitantes del municipio;
 
-V.- Promover las medidas necesarias para la coordinación de las diferentes unidades administrativas municipales en apoyo a la Secretaría de Desarrollo Urbano y al Patronato de Bomberos de Nuevo León, en la aplicación del presente reglamento;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+V.- Promover las medidas necesarias para la coordinación de las diferentes unidades administrativas municipales en apoyo a la Secretaría de Ordenamiento y Desarrollo Urbano y al Patronato de Bomberos de Nuevo León, en la aplicación del presente reglamento;
 
 VI.- Celebrar todos los actos, convenios necesarios para la prestación de servicios encaminados a la seguridad en lo referente a la prevención, protección, combate y extinción de incendios y otros siniestros;
 
 VII.- Las demás que se establezcan en este Reglamento u otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 7.
 
-Corresponde a la Secretaría de Desarrollo Urbano las siguientes atribuciones:
+Corresponde a la Secretaría de Ordenamiento y Desarrollo Urbano las siguientes atribuciones:
 
 I.- Proponer al Ayuntamiento la celebración de convenios de cooperación y colaboración con los demás municipios, para establecer los requisitos necesarios a exigir para la debida seguridad en cuanto a la prevención, protección, combate y extinción de incendios y otros siniestros;
 
@@ -179,7 +193,9 @@ VIII.- Auxiliar a la autoridad administrativa competente en la ejecución de ins
 
 IX.- Emitir las recomendaciones técnicas en la materia relativa a la prestación de servicios encaminados a la seguridad en lo referente a la prevención, protección, combate y extinción de incendios, aplicando las normas técnicas correspondientes;
 
-X.- Revisar los proyectos y planos que muestren el cumplimiento de las medidas de seguridad contra incendios que para cada caso se deban cumplir; y resolver por escrito su procedencia, improcedencia o modificación, en un plazo no mayor de 15 días hábiles, contados a partir del día de su recepción, a petición de la Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+X.- Revisar los proyectos y planos que muestren el cumplimiento de las medidas de seguridad contra incendios que para cada caso se deban cumplir; y resolver por escrito su procedencia, improcedencia o modificación, en un plazo no mayor de 15 días hábiles, contados a partir del día de su recepción, a petición de la Secretaría de Ordenamiento y Desarrollo Urbano;
 
 XI.- Notificar a la autoridad municipal de manera inmediata, las violaciones que a este reglamento detecte, a fin de que la misma aplique las acciones pertinentes;
 
@@ -195,9 +211,11 @@ XVI.- Las demás que se establezcan en el presente reglamento.
 
 ### Capitulo III. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 10.
 
-Se consideran medidas de seguridad, las disposiciones de inmediata ejecución que dicte la Secretaría de Desarrollo Urbano de conformidad con este reglamento para la prevención, protección, combate y extinción de incendios en las distintas edificaciones del municipio, entre las cuales se podrán ordenar las siguientes:
+Se consideran medidas de seguridad, las disposiciones de inmediata ejecución que dicte la Secretaría de Ordenamiento y Desarrollo Urbano de conformidad con este reglamento para la prevención, protección, combate y extinción de incendios en las distintas edificaciones del municipio, entre las cuales se podrán ordenar las siguientes:
 
 I.- La suspensión temporal o definitiva, parcial o total de trabajos, procesos, servicios u otras actividades;
 
@@ -233,9 +251,11 @@ Los propietarios y/o poseedores de las edificaciones existentes en el municipio,
 
 Es obligación de los propietarios, y/o poseedores de las edificaciones, construcciones e instalaciones existentes en el municipio, elaborar planes de emergencia coordinados con el Patronato de Bomberos de Nuevo León, A.C. y realizar prácticas de evacuación mínimo dos veces al año en los Centros de Salud, Centros Comerciales y de Hospedaje. Estas prácticas deberán aplicarse a los ocupantes habituales.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 17.
 
-Es obligación de los propietarios y poseedores de construcciones y edificaciones, dar cabal cumplimiento a todas las medidas de seguridad que para la prevención de incendios, le sean señaladas por la Secretaría de Desarrollo Urbano en coordinación con el Patronato de Bomberos de Nuevo León, A.C.
+Es obligación de los propietarios y poseedores de construcciones y edificaciones, dar cabal cumplimiento a todas las medidas de seguridad que para la prevención de incendios, le sean señaladas por la Secretaría de Ordenamiento y Desarrollo Urbano en coordinación con el Patronato de Bomberos de Nuevo León, A.C.
 
 ###### ARTICULO 18.
 
@@ -315,7 +335,9 @@ Son autoridades competentes para calificar y cuantificar el monto de las sancion
 
 I.- Presidente Municipal.
 
-II.- Secretario de Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+II.- Secretario de Ordenamiento y Desarrollo Urbano; y
 
 III.- Secretario de Finanzas y Tesorería Municipal.
 
@@ -451,9 +473,11 @@ La Autoridad Municipal citará al inconforme, por notificación personal, a una 
 
 ### Capitulo XI. DE LA REVISIÓN Y CONSULTA
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 53.
 
-Para la revisión y actualización del presente reglamento deberá tomarse en cuenta la opinión de la comunidad. Para tal efecto, la Secretaría de Desarrollo Urbano y el Patronato de Bomberos de Nuevo León, A.C., elaborará el anteproyecto, mismo que será presentado y entregado a los interesados en una reunión especial convocada previamente a través de los medios de comunicación.
+Para la revisión y actualización del presente reglamento deberá tomarse en cuenta la opinión de la comunidad. Para tal efecto, la Secretaría de Ordenamiento y Desarrollo Urbano y el Patronato de Bomberos de Nuevo León, A.C., elaborará el anteproyecto, mismo que será presentado y entregado a los interesados en una reunión especial convocada previamente a través de los medios de comunicación.
 
 ###### ARTICULO 54.
 
@@ -484,3 +508,11 @@ PRESIDENTE MUNICIPAL
 LIC. ISRAEL HURTADO ACOSTA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
