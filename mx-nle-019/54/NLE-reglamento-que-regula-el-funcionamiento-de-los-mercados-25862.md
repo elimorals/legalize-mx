@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-el-funcionamiento-de-los-mercados-25862"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-25"
-last_updated: "1992-11-25"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES Y EL EJERCICIO DEL COMERCIO AMBULANTE EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES Y EL EJERCICIO DEL COMERCIO AMBULANTE
+REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS MERCADOS RODANTES Y EL EJERCICIO DEL COMERCIO AMBULANTE DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de noviembre de 1992.
 
@@ -51,9 +51,11 @@ Así mismo, se considera vendedor ambulante aquella persona física que transita
 
 Se considera vía pública toda calle, banqueta o camino de cualquier tipo abierto al libre tránsito de personas o vehículos, en los términos de este Reglamento y de las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 4.
 
-Para dedicarse al comercio en mercados rodantes o al comercio ambulante, deberá obtenerse previamente el permiso municipal correspondiente, el cual será expedido por la Secretaría del Ayuntamiento.
+Para dedicarse al comercio en mercados rodantes o al comercio ambulante, deber (sic) obtenerse previamente el permiso municipal correspondiente, el cual será expedido por la Dirección de Ordenamiento e Inspección.
 
 ###### ARTICULO 5.
 
@@ -181,15 +183,23 @@ Son Autoridades competentes para la aplicación de este Reglamento:
 
 I.- El Presidente Municipal.
 
-II.- El Secretario del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+II.- El Secretario del Republicano Ayuntamiento.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2016)</small>
 
 III.- El Secretario de Tesorería y Finanzas del Municipio.
 
-IV.- La Unidad Administrativa encargada del control e inspección de Mercados sobre Ruedas y Comercio Ambulante.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+IV.- El Director de Ordenamiento e Inspección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 22.
 
-Son atribuciones del Secretario del Ayuntamiento en materia de Mercados Rodantes y Comercio Ambulante, las siguientes:
+Son atribuciones del Secretario del Republicano Ayuntamiento en materia de Mercados Rodantes y Comercio Ambulante, las siguientes:
 
 I.- Resolver, en un plazo no mayor de 30 días, las solicitudes de permisos a mercados rodantes; y dentro de los quince días siguientes, a las presentadas para el ejercicio del comercio ambulante a que se refiere el presente Reglamento.
 
@@ -229,7 +239,9 @@ D) Mantener perfectamente aseado el lugar donde ejerzan su actividad.
 
 E) Tener los recipientes necesarios para la colocación de la basura y retirarlos al final de la jornada.
 
-F) Poner una báscula de comprobación, previamente autorizada por la Secretaría de Comercio y Fomento Industrial, que esté a disposición del público consumidor para verificar el peso exacto de los productos expendidos.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+F) Poner una báscula de comprobación, previamente autorizada por la Secretaría de Desarrollo Económico, que esté a disposición del público consumidor para verificar el peso exacto de los productos expendidos.
 
 G) Contar con los sanitarios portátiles que se requieran en la ubicación.
 
@@ -454,3 +466,11 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 FIRMA
 
 LIC. JOSE G. ABRAHAM SALINAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
