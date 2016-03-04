@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2008-09-12"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -61,17 +61,17 @@ Para los efectos de esta ley se entenderá por:
 
 I. Programa Estatal. El programa estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
-Il. Sistema Estatal. El sistema estatal de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+II. Sistema Estatal. El sistema estatal de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 III. Violencia contra las mujeres. Cualquier acción u omisión, que por razón de su género, les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
 
-lV. Modalidades de violencia. Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+IV. Modalidades de violencia. Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
 
 V. Víctima. La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
-VI, Agresor. La persona física o moral que inflige cualquier tipo de violencia contra las mujeres;
+VI. Agresor. La persona física o moral que inflige cualquier tipo de violencia contra las mujeres;
 
-VIl. Derechos humanos de las mujeres. Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belém Do Pará) y demás instrumentos internacionales en la materia signados por el Estado Mexicano;
+VII. Derechos humanos de las mujeres. Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belém Do Pará) y demás instrumentos internacionales en la materia signados por el Estado Mexicano;
 
 VIII. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
@@ -85,9 +85,11 @@ XII. Empoderamiento de las mujeres. Es un proceso por medio del cual las mujeres
 
 XIII. Misoginia. Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 6.
 
-Los tipos de violencia contra las mujeres son:
+Los Tipos de Violencia contra las mujeres son:
 
 I. Violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, insultos, humillaciones, intimidación, coacción, condicionamiento, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
@@ -99,7 +101,31 @@ IV. Violencia económica. Es toda acción u omisión del agresor que afecta la s
 
 V. Violencia sexual. Es cualquier acción mediante la violencia física o moral que atenta contra la libertad, dignidad sexual e integridad psicofísica, que genera daño y limita el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales, y
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. Violencia política. Es toda acción u omisión y conducta agresiva, por si o a través de terceros, que causen daño en contra de una mujer, en ejercicio de sus derechos político-electoral (sic). Se consideran actos de violencia política, entre otros, aquellos que:
+
+a) Impongan por estereotipos de género la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+
+b) Asignen responsabilidades de género que tengan como resultado la limitación del ejercicio de la función político-pública.
+
+c) Eviten por cualquier medio que las mujeres electas, titulares, o designadas a una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+
+d) Impidan o restrinjan su reincorporación al cargo cuando hagan uso de licencia justificada.
+
+e) Impongan sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos.
+
+f) Discriminen a la autoridad electa designada o en el ejercicio de su función político-pública, por encontrarse en estado de embarazo.
+
+g) Divulguen o revelen información personal y privada, de las mujeres candidatas, electas, designadas, o en el ejercicio de funciones político-públicas, con el objeto de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia o licencia al cargo que ejercen o postulan.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. Violencia contra los Derechos Reproductivos. Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo, a servicios de atención prenatal, así como a servicios obstétricos de emergencia; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 7.
 
@@ -133,7 +159,7 @@ V. El derecho a ser respetada en los ámbitos tanto sociales, culturales y labor
 
 VI. El derecho a no ser sometida a torturas;
 
-VIl. El derecho a que se respete la dignidad inherente a su persona, así como sus opiniones e ideas;
+VII. El derecho a que se respete la dignidad inherente a su persona, así como sus opiniones e ideas;
 
 VIII. El derecho de contar con un sistema garante de sus derechos humanos;
 
@@ -157,11 +183,41 @@ II. El derecho de recibir asesoría jurídica, psicoterapéutica, médica y soci
 
 III. El derecho a denunciar las situaciones de violencia que vivan, a través de un sistema a seguir y confidencial, que garantice su protección contra cualquier posible acto de represión;
 
-IV. El derecho a recibir un trato digno, de privacidad y respeto por parte de todos lo servidores públicos del Estado, a quienes corresponda su atención;
+IV. El derecho a recibir un trato digno, de privacidad y respeto por parte de todos lo (sic) servidores públicos del Estado, a quienes corresponda su atención;
 
 V. El derecho a la reparación de los daños sufridos; y a la garantía de no repetición y prevención, y
 
-VI. Los demás que prevea la normatividad aplicable.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. Contar con protección inmediata y efectiva por parte de las autoridades;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VIII. En los casos de violencia familiar, las mujeres que tengan hijas o hijos podrán acudir a los refugios con estos; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+IX. Los demás que prevea la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 10
+
+Bis. Las autoridades en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
+
+I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+
+II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto pública como privada;
+
+III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
+
+IV. Proporcionar un refugio seguro a las víctimas; y
+
+V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos.
 
 ### CAPÍTULO III. DE LOS PRINCIPIOS RECTORES
 
@@ -273,7 +329,7 @@ V. La precaución razonable de seguridad pública que requieran las mujeres.
 
 ###### Artículo 22.
 
-Se considera como violencia institucional, a las acciones, prácticas u omisiones de las personas que tengan el carácter de servidores públicos de conformidad con lo que establece el articulo 107 de la Constitución Política del Estado Libre y Soberano de Tlaxcala y los que así determine la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, que discriminen o tengan como fin retrasar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+Se considera como violencia institucional, a las acciones, prácticas u omisiones de las personas que tengan el carácter de servidores públicos de conformidad con lo que establece el artículo 107 de la Constitución Política del Estado Libre y Soberano de Tlaxcala y los que así determine la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, que discriminen o tengan como fin retrasar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 ###### Artículo 23.
 
@@ -289,7 +345,7 @@ II. Disposiciones procesales o normativas que permitan el acceso a la justicia, 
 
 III. Mecanismos públicos para evitar la violencia contra las mujeres en las instituciones, incluyendo la evaluación anual de la política pública y de los servicios institucionales que se presten a las mujeres, independientemente del sector de que se trate;
 
-lV. Programas de capacitación para el personal adscrito a las dependencias de procuración y administración de la justicia;
+IV. Programas de capacitación para el personal adscrito a las dependencias de procuración y administración de la justicia;
 
 V. Celebración de bases de coordinación entre los poderes del Estado y de los municipios para los cambios conductuales y de percepción e interpretación de la ley, de quienes colaboran para dichos poderes.
 
@@ -299,19 +355,99 @@ V. Celebración de bases de coordinación entre los poderes del Estado y de los 
 
 Se considera violencia feminicida, la forma extrema de violencia contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad y culminar en homicidio provocado en ocasiones de manera violenta.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE MARZO DE 2016)</small>
+
+#### SECCIÓN SEXTA. VIOLENCIA EN EL NOVIAZGO
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Bis.
+
+La violencia en el noviazgo son todos los actos realizados por una de las partes en contra de la mujer, dentro de una relación afectiva, en los cuales se inflijan ataques intencionales de tipo sexual, físico o psicológico, de manera forzada en la relación de romance, enamoramiento o noviazgo, con el objeto de ejercer presión, manipulación.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Ter.
+
+Son actos obligados, los no consentidos por alguna de las partes, orientados a satisfacer necesidades o deseos sexuales, mismos que atentan contra la integridad física, psicológica y moral de la mujer.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Quater.
+
+Las acciones orientadas a controlar, restringir, vigilar a la mujer, con la intención de aislarla socialmente, desvalorizarla, denigrarla, humillarla, o hacerla sentir mal consigo misma, destruir su confianza en sí mismo (sic) o en la pareja, es considerado también violencia en el noviazgo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Quinquies.
+
+El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias en el respectivo ámbito de su competencia, llevarán a cabo, mediante la aplicación de políticas públicas, las acciones necesarias tendientes a identificar, prevenir, atender y disminuir los factores que propician los fenómenos de violencia de pareja, en contra de la mujer, en cualquiera de sus tipos y en consecuencia, erradicar los roles discriminatorios, los estereotipos sexistas, la resolución violenta de conflictos y la misoginia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE MARZO DE 2016)</small>
+
+#### SECCIÓN SÉPTIMA. VIOLENCIA OBSTÉTRICA
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Sexies.
+
+La violencia obstétrica se configura por parte del personal médico, paramédico, de enfermería y administrativo de las instituciones de salud cuando se dañe o denigre a la mujer durante el embarazo, el parto, post parto o en emergencias obstétricas, vulnerando sus derechos mediante tratos crueles, inhumanos o degradantes.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Septies.
+
+Son actos u omisiones constitutivos de violencia obstétrica, de manera enunciativa, pero no limitativa, los siguientes:
+
+I. No atender o no brindar atención oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas;
+
+II. Presionar psicológica u ofensivamente a una parturienta;
+
+III. Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+IV. Practicar el parto por vía de cesárea, sin obtener el consentimiento voluntario, expreso e informado de la mujer, no obstante de existir condiciones para el parto natural;
+
+V. Obstaculizar, sin causa médica justificada, el apego de la niña o el niño con su madre, mediante la negación a ésta de la posibilidad de cargarle o de amamantarle inmediatamente después de nacer;
+
+VI. Intervenir quirúrgicamente sin consentimiento o autorización de la paciente, en términos de las disposiciones aplicables;
+
+VII. Realizar la esterilización sin el consentimiento voluntario, expreso e informado de la mujer, así como las consecuencias físicas y psicológicas de dicha intervención; y
+
+VIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Octies.
+
+El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencias obstétricas, e instrumentará políticas públicas transversales para prevenir, erradicar y sancionar la violencia obstétrica.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE MARZO DE 2016)</small>
+
+#### SECCIÓN OCTAVA. VIOLENCIA DOCENTE
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Nonies.
+
+Violencia Docente. Es aquella que puede ocurrir cuando se daña la autoestima de las alumnas o maestras con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros;
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE MARZO DE 2016)</small>
+
+#### SECCIÓN NOVENA. VIOLENCIA MEDIÁTICA
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25 Decies.
+
+Violencia mediática. Es aquella producida por los medios masivos de comunicación Local, a través de mensajes e imágenes estereotipados, que de manera directa o indirecta, se promueva la explotación de mujeres o de sus imágenes, o que injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mismas.
+
+Así también la utilización de adolescentes y niñas en mensajes e imágenes, que legitimen la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
+
 #### SECCIÓN PRIMERA. MODELOS
-
-#### SECCIÓN SEGUNDA. MODELOS DE ATENCIÓN
-
-#### SECCIÓN TERCERA. MODELOS DE PREVENCIÓN
-
-#### SECCIÓN CUARTA. MODELOS DE SANCIÓN
-
-#### SECCIÓN QUINTA. MODELOS DE ERRADICACIÓN
 
 ### CAPÍTULO V. MODELOS Y EJES DE ACCIÓN
 
-#### SECCIÓN PRIMERA. ALERTA DE GÉNERO Y AGRAVIO COMPARADO
+#### SECCIÓN SEGUNDA. MODELOS DE ATENCIÓN
 
 ###### Artículo 26.
 
@@ -361,7 +497,7 @@ VII. Mecanismos de evaluación, y
 
 VIII. Medición de la efectividad.
 
-#### SECCIÓN SEGUNDA. ORDENES DE PROTECCIÓN
+#### SECCIÓN TERCERA. MODELOS DE PREVENCIÓN
 
 ###### Artículo 30.
 
@@ -467,7 +603,7 @@ II. Acciones específicas para el hostigamiento sexual en el ámbito laboral y d
 
 III. El acoso como práctica discriminatoria y de ejercicio de poder en ausencia de jerarquía, y con una igualdad aparente entre las partes.
 
-#### SECCIÓN ÚNICA. SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+#### SECCIÓN CUARTA. MODELOS DE SANCIÓN
 
 ###### Artículo 39.
 
@@ -485,7 +621,7 @@ IV. Capacitación psicojurídica transversal de los servidores públicos del Est
 
 La identificación de los factores protectores por cada uno de los tipos de victimización, a partir del impacto que genera la violencia contra las mujeres, se integrarán a los modelos preventivos de detección que se efectúen. Sin perjuicio de las estrategias de difusión y visibilización de la violencia contra las mujeres y sus consecuencias individuales y colectivas.
 
-#### SECCIÓN PRIMERA. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA
+#### SECCIÓN QUINTA. MODELOS DE ERRADICACIÓN
 
 ###### Artículo 41.
 
@@ -499,7 +635,7 @@ III. Procedimientos ágiles, que no mermen el empoderamiento de las mujeres, y
 
 IV. El registro de los modelos ante la Secretaría Técnica del Sistema Estatal.
 
-#### SECCIÓN PRIMERA. TITULAR DEL EJECUTIVO DEL ESTADO
+#### SECCIÓN PRIMERA. ALERTA DE GÉNERO Y AGRAVIO COMPARADO
 
 ###### Artículo 42.
 
@@ -509,9 +645,9 @@ I. Preparación comunitaria;
 
 II. Acción ofensiva para la ejecución;
 
-Ill. Consolidación de los objetivos alcanzados, y
+III. Consolidación de los objetivos alcanzados, y
 
-lV. Conservación del estado obtenido.
+IV. Conservación del estado obtenido.
 
 ###### Artículo 43.
 
@@ -519,13 +655,13 @@ Son estrategias fundamentales de la erradicación, las acciones siguientes:
 
 I. El monitoreo de las zonas donde exista violencia contra las mujeres arraigada o violencia feminicida;
 
-Il. La evaluación anual de actitud de servidores públicos adscritos a cuerpos de seguridad, procuración de justicia y los dedicados a la atención de la violencia contra las mujeres, y
+II. La evaluación anual de actitud de servidores públicos adscritos a cuerpos de seguridad, procuración de justicia y los dedicados a la atención de la violencia contra las mujeres, y
 
 III. La armonización normativa y judicial en su completitud y la interpretación hermenéutica con perspectiva de género de éstas.
 
 ### CAPÍTULO VI. MECANISMOS GARANTES
 
-#### SECCIÓN SEGUNDA. SECRETARÍA DE GOBIERNO
+#### SECCIÓN SEGUNDA. ORDENES DE PROTECCIÓN
 
 ###### Artículo 44.
 
@@ -549,7 +685,7 @@ Esta mesa de armonización legislativa procurará la coordinación de los tres n
 
 El agravio comparado, implica un trato desigual a las mujeres dentro del marco jurídico del Estado en relación con otro Estado, incluso de procedimientos y trámites de índole administrativa.
 
-#### SECCIÓN TERCERA. COORDINACIÓN DE DESARROLLO SOCIAL
+#### SECCIÓN ÚNICA. SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 47.
 
@@ -563,7 +699,7 @@ En virtud de la notoria urgencia en los municipios la aplicación de las órdene
 
 ### CAPÍTULO VII. SISTEMA ESTATAL
 
-#### SECCIÓN CUARTA. SUBSECRETARIA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
+#### SECCIÓN PRIMERA. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA
 
 ###### Artículo 49.
 
@@ -583,7 +719,7 @@ I. Un Presidente que será el Secretario de Gobierno o la persona que éste desi
 
 II. Una Secretaria Técnica que será la Titular del Instituto Estatal de la Mujer, y
 
-lll. Diez vocales que serán los representantes de las dependencias y entidades siguientes:
+III. Diez vocales que serán los representantes de las dependencias y entidades siguientes:
 
 a) Procuraduría General de Justicia del Estado;
 
@@ -617,9 +753,9 @@ El Sistema Estatal tendrá las facultades siguientes:
 
 I. Proponer al Ejecutivo del Estado el Programa Estatal;
 
-Il. Establecer los programas de detección de violencia hacia las mujeres de atención a los receptores y generadores de la misma en las instituciones públicas del Estado;
+II. Establecer los programas de detección de violencia hacia las mujeres de atención a los receptores y generadores de la misma en las instituciones públicas del Estado;
 
-lll. Fomentar y fortalecer la coordinación, colaboración e información entre las instituciones públicas o privadas que se ocupen o estén interesadas en esta materia;
+III. Fomentar y fortalecer la coordinación, colaboración e información entre las instituciones públicas o privadas que se ocupen o estén interesadas en esta materia;
 
 IV. Evaluar trimestralmente, cuando menos, los logros y avances del Programa Estatal;
 
@@ -637,7 +773,7 @@ X. Proponer estrategias para la obtención de recursos que se destinen al cumpli
 
 ### CAPÍTULO VIII. PROGRAMA ESTATAL
 
-#### SECCIÓN QUINTA. SECRETARÍA DE EDUCACIÓN PÚBLICA
+#### SECCIÓN PRIMERA. TITULAR DEL EJECUTIVO DEL ESTADO
 
 ###### Artículo 54.
 
@@ -691,7 +827,7 @@ El Ejecutivo del Estado considerará en el Presupuesto de Egresos del Estado, un
 
 ### CAPÍTULO IX. DISTRIBUCIÓN DE COMPETENCIAS
 
-#### SECCIÓN SEXTA. SECRETARÍA DE SALUD
+#### SECCIÓN SEGUNDA. SECRETARÍA DE GOBIERNO
 
 ###### Artículo 58.
 
@@ -709,7 +845,7 @@ V. Favorecer la creación de programas de reeducación con perspectiva de géner
 
 VI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes dependencias y entidades de la Administración Pública del Estado, para lograr la atención integral de las mujeres víctimas de violencia;
 
-VIl. Establecer y garantizar una adecuada coordinación entre el Estado, y sus municipios,
+VII. Establecer y garantizar una adecuada coordinación entre el Estado, y sus municipios,
 
 VIII. Celebrar convenios de cooperación, coordinación y concertación así como adherirse a protocolos y acuerdos en la materia de discriminación y violencia contra las mujeres;
 
@@ -735,7 +871,7 @@ XVIII. Difundir por todos los medios de comunicación del Estado el contenido de
 
 Las facultades antes señaladas podrán ser desempeñadas a través de las dependencias o entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias. Debiendo en todo momento ser supervisadas por el Titular del Ejecutivo del Estado.
 
-#### SECCIÓN SÉPTIMA. PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+#### SECCIÓN TERCERA. COORDINACIÓN DE DESARROLLO SOCIAL
 
 ###### Artículo 59.
 
@@ -777,7 +913,7 @@ XVII. Garantizar la evaluación anual de los servicios y servidores públicos qu
 
 XVIII. Las demás que le señale esta ley y otras disposiciones legales.
 
-#### SECCIÓN OCTAVA. INSTITUTO ESTATAL DE LA MUJER
+#### SECCIÓN CUARTA. SUBSECRETARIA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
 
 ###### Artículo 60.
 
@@ -803,7 +939,7 @@ IX. Brindar la asesoría que requieran los municipios a fin de suscribir conveni
 
 X. Las demás previstas en esta ley y demás ordenamientos legales.
 
-#### SECCIÓN NOVENA. SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN QUINTA. SECRETARÍA DE EDUCACIÓN PÚBLICA
 
 ###### Artículo 61.
 
@@ -837,7 +973,7 @@ XIII. Realizar un subprograma de monitoreo de zonas de violencia contra las muje
 
 XIV. Cumplir con cada una de las atribuciones que le confiere la normatividad aplicable.
 
-#### SECCIÓN DÉCIMA. MUNICIPIOS
+#### SECCIÓN SEXTA. SECRETARÍA DE SALUD
 
 ###### Artículo 62.
 
@@ -869,7 +1005,7 @@ XII. Proporcionar formación y capacitación anualmente a todo el personal de lo
 
 XIII. Las demás que señale esta ley y otras disposiciones legales aplicables.
 
-#### SECCIÓN PRIMERA. PROCEDIMIENTO
+#### SECCIÓN SÉPTIMA. PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### Artículo 63.
 
@@ -911,7 +1047,7 @@ X. Establecer programas temáticos sobre discriminación y violencia contra las 
 
 XI. Las demás que señale esta ley y demás disposiciones legales.
 
-#### SECCIÓN SEGUNDA. SANCIONES
+#### SECCIÓN OCTAVA. INSTITUTO ESTATAL DE LA MUJER
 
 ###### Artículo 64.
 
@@ -937,11 +1073,13 @@ IX. Proporcionar capacitación anual sobre discriminación, violencia contra las
 
 X. Establecer fondos de compensación para las víctimas de la violencia contra las mujeres;
 
-Xl. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+XI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
 XII. Proporcionar semestralmente contención del estrés al personal especializado que atiende a víctimas de violencia contra las mujeres, a efecto de disminuir el impacto de esta, y
 
 XIII. Las demás que le señale esta ley y demás disposiciones legales aplicables.
+
+#### SECCIÓN NOVENA. SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 65.
 
@@ -959,7 +1097,7 @@ V. Representar al Estado en el Sistema Nacional;
 
 VI. Integrar el Banco Estatal de Datos sobre casos de violencia contra las mujeres, el cual se organizará por tipo y modalidad de violencia contra las mujeres, en los casos que constituyan quejas, faltas administrativas e indagatorias. Debiendo incluirse como mínimo los datos siguientes: fecha del evento; modalidad de la violencia; tipo de violencia; lugar de los hechos; sexo del probable responsable de la violencia; duración del evento; tipo de orden de protección; eje de acción que intervino: edad de la mujer, estado civil, y escolaridad de la mujer y probable agresor, así como las resoluciones que recaigan sobre procedimientos administrativos, indagatorias y sentencias en materia penal y familiar;
 
-VIl. Solicitar a la Administración Pública Estatal y Municipal la información estadística correspondiente;
+VII. Solicitar a la Administración Pública Estatal y Municipal la información estadística correspondiente;
 
 VIII. Impulsar la armonización normativa y judicial en materia de violencia contra las mujeres, en concordancia con los instrumentos internacionales y nacionales;
 
@@ -967,15 +1105,17 @@ IX. Evaluar la aplicación de la legislación sobre violencia contra las mujeres
 
 X. Integrar las investigaciones de las dependencias y entidades de la Administración Pública Estatal sobre causas, características y consecuencias de la violencia contra las mujeres publicando los resultados de las mismas;
 
-Xl. Establecer los indicadores para la evaluación de la Administración Pública Estatal y sus servidores públicos en materia de discriminación y violencia contra las mujeres;
+XI. Establecer los indicadores para la evaluación de la Administración Pública Estatal y sus servidores públicos en materia de discriminación y violencia contra las mujeres;
 
 XII. Impulsar la creación de unidades especializadas en la atención y protección a niñas y mujeres víctimas de violencia, así como refugios;
 
-Xlll. Substanciar el procedimiento administrativo a que se refiere esta ley, y en su caso, imponer las sanciones que correspondan;
+XIII. Substanciar el procedimiento administrativo a que se refiere esta ley, y en su caso, imponer las sanciones que correspondan;
 
 XIV. Realizar campañas de información, movimientos en pro de la mujer para que se preste más atención a la naturaleza, gravedad y magnitud del problema de la violencia contra la mujer, así como hacer de su conocimiento las leyes, derechos, medidas y programas que la protegen, así como los recursos jurídicos que la asisten, y
 
 XV. Las demás que le señale esta ley y demás disposiciones legales aplicables.
+
+#### SECCIÓN DÉCIMA. MUNICIPIOS
 
 ###### Artículo 66.
 
@@ -983,7 +1123,7 @@ Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
 
 I. Diseñar la política en materia de protección de las niñas y la familia para la prevención, atención y erradicación de la violencia contra las mujeres con perspectiva de género;
 
-lI. Participar en la elaboración del Programa Estatal en coordinación con las demás autoridades integrantes del Sistema Estatal;
+II. Participar en la elaboración del Programa Estatal en coordinación con las demás autoridades integrantes del Sistema Estatal;
 
 III. Proporcionar la asistencia y protección social a las mujeres y niñas víctimas de violencia, en todos los centros que se encuentren a su cargo;
 
@@ -996,6 +1136,8 @@ VI. Capacitar anualmente al personal a su cargo sobre la igualdad de oportunidad
 VII. Capacitar y sensibilizar al personal para proporcionar una atención con perspectiva de género, en especial la atención urgente a las mujeres y niñas víctimas de la violencia, y
 
 VIII. Las demás que le señale esta ley y demás disposiciones legales.
+
+#### SECCIÓN PRIMERA. PROCEDIMIENTO
 
 ###### Artículo 67.
 
@@ -1033,6 +1175,8 @@ XV. La atención de los demás asuntos que en materia de violencia contra las mu
 
 ### CAPÍTULO X. PROCEDIMIENTO Y SANCIONES
 
+#### SECCIÓN SEGUNDA. SANCIONES
+
 ###### Artículo 68.
 
 El procedimiento para la imposición de sanciones se ajustará a las siguientes reglas:
@@ -1065,7 +1209,7 @@ El Instituto Estatal de la Mujer considerará para la individualización de la s
 
 I. La gravedad de la conducta discriminatoria contra la mujer;
 
-Il. Las condiciones socio-económicas del infractor, y
+II. Las condiciones socio-económicas del infractor, y
 
 III. Si se trata de reincidencia.
 
@@ -1083,7 +1227,7 @@ Esta ley entrará en vigor el día siguiente al de su publicación en el Periód
 
 Los Poderes Ejecutivo y Judicial, en el ámbito de sus respectivas competencias, establecerán, mediante reglamentos o acuerdos de carácter general, los órganos, criterios y procedimientos institucionales para garantizar a las mujeres el acceso a una vida libre de violencia, de conformidad con esta Ley. Estos reglamentos o acuerdos de carácter general deberán ser expedidos dentro de los sesenta días siguientes a la entrada en vigor de este Decreto.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
 El Sistema Estatal a que se refiere esta Ley, se integrará dentro de los noventa días siguientes a la entrada en vigor de este Decreto.
 
@@ -1099,11 +1243,11 @@ En el Presupuesto del Gobierno del Estado, se deberá considerar las asignacione
 
 El Banco Estatal de Datos sobre Casos de Violencia contra las Mujeres a que refiere esta Ley, deberá integrarse dentro de los trescientos sesenta y cinco días siguientes a la conformación del Sistema Estatal.
 
-###### ARTICULO SÉPTIMO.
+###### ARTÍCULO SÉPTIMO.
 
 Para los efectos de la evaluación y seguimiento de la aplicación de esta Ley, se podrá adherir el Sistema Estatal a los protocolos y acuerdos sobre la materia de discriminación y violencia de género.
 
-###### ARTICULO OCTAVO.
+###### ARTÍCULO OCTAVO.
 
 El sistema de órdenes de protección, preventivas y emergentes que serán aplicadas por lo (sic) órganos ministerial, jurisdiccional o administrativa en su respectivo ámbito de competencia, serán ejecutados previa armonización de su respectivo marco jurídico interno.
 
@@ -1123,10 +1267,22 @@ Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de X
 
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTIZ ORTIZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- SERGIO GONZALEZ HERNANDEZ.- Firma Autógrafa.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 212.- POR LO QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones a la Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala, contenidas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan esta Ley.
