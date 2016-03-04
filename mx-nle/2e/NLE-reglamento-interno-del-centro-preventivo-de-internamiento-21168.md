@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-centro-preventivo-de-internamiento-21168
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-16"
-last_updated: "2012-02-24"
+last_updated: "2016-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de marzo de 2001.
 
@@ -105,11 +105,11 @@ El Centro es la Institución donde se interna a las personas que se encuentran c
 
 El Centro podrá recibir a las personas que remitan en calidad de internos, por haber cometido faltas al Reglamento de Policía y Buen Gobierno de San Pedro Garza García, Nuevo León; o en su defecto que se encuentren bajo la presunción de la comisión de un hecho delictuoso dentro del cuarto Distrito Judicial en el Estado.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 5.
 
-El Centro estará bajo la Dirección Administrativa de un Comandante de Policía con facultades de supervisor; tendrá como jefes superiores el Director General de Policía y el Secretario de Seguridad Municipal.
+El Centro estará bajo la Dirección Administrativa de un Comandante de Policía con facultades de supervisor; tendrá como jefes superiores el Director de Policía y el Secretario de Seguridad Pública Municipal.
 
 ### CAPITULO II. COMPETENCIA, RESPONSABILIDADES Y FUNCIONES
 
@@ -133,9 +133,9 @@ V. Los Jueces Calificadores.
 
 VI. El Comandante de Barandilla.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-VII. Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaría de Seguridad Municipal.
+VII. Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaría de Seguridad Pública Municipal.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -143,11 +143,11 @@ VII. Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áre
 
 Las autoridades señaladas en el artículo que antecede, con excepción de las mencionadas en los incisos VI) y VII), tienen atribuciones para delegar sus funciones en el personal del municipio a que se hace alusión en el artículo anterior, con el propósito de que se cumpla con los objetivos del presente Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 8.
 
-El Secretario de Seguridad Municipal, además de las facultades y obligaciones que tiene por su cargo, le corresponderá:
+El Secretario de Seguridad Pública Municipal, además de las facultades y obligaciones que tiene por su cargo, le corresponderá:
 
 I. Organizar, dirigir y administrar los establecimientos carcelarios de este municipio.
 
@@ -181,43 +181,67 @@ VIII. Informar a la Comisión de Regidores correspondiente de las recomendacione
 
 El municipio podrá llevar a cabo toda clase de convenios con las autoridades federales, estatales y municipales, así como con diversas instituciones públicas o privadas, a fin de capacitar profesionalmente al personal encargado del Centro.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 10.
 
-El personal que en desempeño de sus funciones esté relacionado con las actividades propias del Centro, estará obligado a asistir a los cursos de formación y actualización que organice y disponga el Secretario de Seguridad Municipal.
+El personal que en desempeño de sus funciones esté relacionado con las actividades propias del Centro, estará obligado a asistir a los cursos de formación y actualización que organice y disponga el Secretario de Seguridad Pública Municipal.
 
-> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 2012, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DEL INCISO L) AL M).]</small>
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 11.
 
-El Director de Jueces Calificadores, quien depende del Secretario del R. Ayuntamiento de este municipio, además de las facultades y obligaciones previstos (sic) en otros Reglamentos, tendrá las siguientes atribuciones:
+El Director de Jueces Calificadores, quien depende del Secretario del Republicano Ayuntamiento de este municipio, además de las facultades y obligaciones previstos (sic) en otros Reglamentos, tendrá las siguientes atribuciones:
 
-a) Establecer, en coordinación con el Secretario de Seguridad Municipal de esta ciudad, reglas o normas de seguridad del Centro.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+a) Establecer, en coordinación con el Secretario de Seguridad Pública Municipal de esta ciudad, reglas o normas de seguridad del Centro.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 b) Lo referente a las funciones del personal de barandilla y custodia de los internos en el Centro.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 c) Determinar los horarios, trámites y reglas que deben observarse en el proceso de visita para los internos.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 d) Colaborar para establecer las normas que regirán, para la atención médica de los internos, así como los requisitos que deberán contener los dictámenes médicos que se les practique (sic) a las personas que vayan a ser internadas en el Centro.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 e) Establecer los horarios en que se debe proporcionar los alimentos a los detenidos.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 f) Autorizar en casos especiales las visitas fuera del horario establecido, de acuerdo a su amplio criterio y tomando en consideración la situación jurídica del interno, así como las demás condiciones y elementos existentes.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 g) Ordenar las normas de higiene que deberán existir y prevalecer en el Centro.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 h) Establecer y llevar a cabo un sistema de identificación y control de registro de los internos del Centro.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 i) Vigilar en todo momento que el Juez Calificador en turno, cumpla cabalmente con las obligaciones inherentes a su cargo.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 j) Vigilar que se respeten los derechos humanos de los detenidos.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 k) Vigilar que las normas de seguridad sean cumplidas y observadas por el personal de barandilla y demás personal municipal relacionadas con las tareas propias del Centro.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 l) Vigilar se lleve a cabo el buen funcionamiento del Centro.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 m) Solicitar se sancione administrativamente o disciplinariamente a cualquier elemento de policía o personal municipal que no cumplan o violen cualquier disposición del presente Reglamento.
 
@@ -225,9 +249,9 @@ m) Solicitar se sancione administrativamente o disciplinariamente a cualquier el
 
 Los Jueces Calificadores, además de las establecidas en el Reglamento de Policía y Buen Gobierno u otras disposiciones, tienen las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-I. Llevar diariamente el control de los detenidos que ingresen al Centro, notificando mediante oficio al Secretario del R. Ayuntamiento y al Secretario de Seguridad Municipal.
+I. Llevar diariamente el control de los detenidos que ingresen al Centro, notificando mediante oficio al Secretario del Republicano Ayuntamiento y al Secretario de Seguridad Pública Municipal.
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -243,11 +267,11 @@ V. Ordenar se realicen las diligencias necesarias a fin que se cumpla estrictame
 
 VI. Dar conocimiento al Director de Jueces Calificadores, de cualquier anomalía o contradicción que se realice con lo estipulado en el presente Reglamento, con el propósito de que se corrija o se sancione al responsable de dicha arbitrariedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 13.
 
-Son facultades y obligaciones del Comandante de Barandilla y de los oficiales de policía a su mando, además de las que señale el Reglamento de Policía y Buen Gobierno, las siguientes:
+Son facultades y obligaciones del Comandante de Barandilla y de los oficiales de policía a su mando, además de las que señale el Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, las siguientes:
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -255,13 +279,13 @@ I. Dar al público en general, con esmero y buen trato, la información que les 
 
 II. Recibir, trasladar, custodia, vigilar y disponer el tratamiento de toda persona detenida y remitida por los oficiales de policía o transito adscritos a la vigilancia de esta ciudad.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-III. Llevar un registro de las personas que se internen en su turno, en las que se fijarán todos los datos pertinentes a su identidad, falta administrativa o delito cometido, así como la autoridad ante la cual se encuentra a disposición, notificándolo mediante oficio al Secretario de Seguridad Municipal y al Director de Jueces Calificadores.
+III. Llevar un registro de las personas que se internen en su turno, en las que se fijarán todos los datos pertinentes a su identidad, falta administrativa o delito cometido, así como la autoridad ante la cual se encuentra a disposición, notificándolo mediante oficio al Secretario de Seguridad Pública Municipal y al Director de Jueces Calificadores.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-IV. Realizar las remisiones correspondientes de los detenidos, así como la captura de las mismas bajo el sistema implementado por la Secretaría de Seguridad Municipal.
+IV. Realizar las remisiones correspondientes de los detenidos, así como la captura de las mismas bajo el sistema implementado por la Secretaría de Seguridad Pública Municipal.
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -299,9 +323,9 @@ XVII. Vigilar que las personas visitantes no introduzcan objetos o sustancias il
 
 XVIII. Acompañar por seguridad a cada persona visitante al área de detención de la persona a visitar, hasta el momento de su retiro.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-XIX. Vigilar que en el Edificio de la Secretaría de Seguridad Municipal se efectúen rondas, cuando menos, cada 30 minutos.
+XIX. Vigilar que en el Edificio de la Secretaría de Seguridad Pública Municipal se efectúen rondas, cuando menos, cada 30 minutos.
 
 XX. Vigilar el área de celdas, por lapsos breves periódicamente, para salvaguardar la integridad física de los detenidos o internos, manteniendo custodia permanente en los casos de personas agresivas o en estado depresivo.
 
@@ -521,11 +545,11 @@ e) Los detenidos que forman parte de una corporación policial deberán ser inte
 
 f) Se tendrán las consideraciones del caso a las personas de la tercera edad, así como a las personas discapacitados y a los detenidos por delitos culposos.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 41.
 
-Por ningún motivo se internará en el Centro a persona alguna que sea remitida por alguna autoridad administrativa o judicial, si no se presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Secretaría de Seguridad Municipal, al Director General de Policía Municipal o al Comandante de Policía responsable del Centro debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
+Por ningún motivo se internará en el Centro a persona alguna que sea remitida por alguna autoridad administrativa o judicial, si no se presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Secretaría de Seguridad Pública Municipal, al Director de Policía o al Comandante de Policía responsable del Centro debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -547,11 +571,11 @@ Como medida de seguridad y con el objeto de salvaguardar la integridad y los der
 
 ### CAPITULO VII. INFORMÁTICA
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 45.
 
-La Dirección de Jueces Calificadores mantendrá actualizados los informes estadísticos relacionados con las personas que se encuentran internas en el Centro, debiéndose rendir un informe diario y mensual sobre los índices de internamientos, el cual será entregado a la Secretaría del R. Ayuntamiento, quedando a disposición de la Secretaría de Seguridad Municipal la información citada, cuando así sea requerida por el titular de la mencionada institución.
+La Dirección de Jueces Calificadores mantendrá actualizados los informes estadísticos relacionados con las personas que se encuentran internas en el Centro, debiéndose rendir un informe diario y mensual sobre los índices de internamientos, el cual será entregado a la Secretaría del Republicano Ayuntamiento, quedando a disposición de la Secretaría de Seguridad Pública Municipal la información citada, cuando así sea requerida por el titular de la mencionada institución.
 
 ### CAPITULO VIII. CONTROL DE VISITAS
 
@@ -655,11 +679,11 @@ El personal de barandilla al prestar sus servicios deberá realizarlo con la deb
 
 Como medida de seguridad entre los cambios de turno del personal de barandilla, deberán realizar una revisión en el área de celdas, a fin de contabilizar todos (sic) y cada una de las personas que se encuentren internas y a disposición de las diversas autoridades. De igual forma se realizará una revisión a las instalaciones del área de celdas para verificar los objetos personales del interno que no sean de los prohibidos y verificar los accesos a dichas celdas y lugares de ventilación para evitar en todo momento que algún interno se evada de la justicia.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 58.
 
-Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada al Secretario de Seguridad Municipal, al Director de Policía y al Director de Jueces Calificadores mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinentes.
+Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada al Secretario de Seguridad Pública Municipal, al Director de Policía y al Director de Jueces Calificadores mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinentes.
 
 ### CAPITULO X. DE LOS TRASLADOS Y EL PERSONAL
 
@@ -685,11 +709,11 @@ El Centro deberá contar con el personal directivo, técnico, administrativo, de
 
 ### CAPITULO XI. MANTENIMIENTO AL ÁREA DE CELDAS
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 63.
 
-El Secretario de Seguridad Municipal de esta ciudad, deberá contar con el personal necesario para llevar a cabo el aseo en el Centro y mantenerlo en óptimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Nuevo León.
+El Secretario de Seguridad Pública Municipal de esta ciudad, deberá contar con el personal necesario para llevar a cabo el aseo en el Centro y mantenerlo en óptimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -776,3 +800,9 @@ P.O. 24 DE FEBRERO DE 2012.
 PRIMERO.- Las presentes reformas por modificación, adición y derogación a este reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 SEGUNDO.- (sic)
+
+P.O. 4 DE MARZO DE 2016.
+
+[N. DE TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
