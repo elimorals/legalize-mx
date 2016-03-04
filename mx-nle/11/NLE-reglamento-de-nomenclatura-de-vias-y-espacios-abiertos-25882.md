@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-nomenclatura-de-vias-y-espacios-abiertos-25882"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-25"
-last_updated: "2010-11-22"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE NOMENCLATURA DE VIAS Y ESPACIOS ABIERTOS PUBLICOS DE SAN PEDRO GARZA GARCIA, N. L
 
-REGLAMENTO DE NOMENCLATURA DE VIAS Y ESPACIOS ABIERTOS PUBLICOS DE SAN PEDRO GARZA GARCIA, N. L
+REGLAMENTO DE NOMENCLATURA DE VÍAS Y ESPACIOS ABIERTOS PÚBLICOS DE SAN PEDRO GARZA GARCÍA, N. L
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de octubre de 1996.
 
@@ -53,13 +53,19 @@ d) ESPACIOS ABIERTOS PÚBLICOS: Cualquier construcción o área realizada con fo
 
 e) VÍAS PÚBLICAS: Espacios públicos destinados para el transito de personas, vehículos o animales.
 
-f) COMISIÓN: La Comisión de Nomenclatura del Ayuntamiento de San Pedro Garza García.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-### CAPÍTULO II. DE LA COMISIÓN DE NOMENCLATURA
+f) COMISIÓN: La Comisión de Seguridad Pública Municipal y Nomenclatura del Republicano Ayuntamiento de San Pedro Garza García.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2016)</small>
+
+### CAPÍTULO II. DE LA COMISIÓN DE SEGURIDAD PÚBLICA MUNICIPAL Y NOMENCLATURA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 3.
 
-La Comisión de Nomenclatura será designada por el R. Ayuntamiento a propuesta del Presidente Municipal y se integrará cuando menos tres (sic) Regidores.
+La Comisión de Seguridad Pública Municipal y Nomenclatura será designada por el Republicano Ayuntamiento a propuesta del Presidente Municipal y se integrará cuando menos (sic) tres Regidores.
 
 La Comisión podrá invitar a autoridades y ciudadanos a colaborar en sus actividades.
 
@@ -79,7 +85,7 @@ V. Las demás que le confiera el presente Reglamento y otras disposiciones legal
 
 ### CAPÍTULO III. DE LA NOMENCLATURA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 5.
 
@@ -113,7 +119,7 @@ I. Que sirva como un reconocimiento u homenaje Post-Mortem; y
 
 II. Que sea una persona de solvencia moral reconocida y que haya realizado acciones en beneficio de la comunidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 7.
 
@@ -133,9 +139,11 @@ III. La comisión emitirá un dictamen el cual será presentado en la siguiente 
 
 IV. Una vez aprobado el dictamen al menos por las dos terceras partes de los integrantes del Republicano Ayuntamiento, se mandará publicar en el Periódico Oficial del Estado de Nuevo León para su vigencia y para los efectos de difusión la resolución correspondiente en la Gaceta Municipal, dando los avisos respectivos a todas las oficinas federales, estatales y municipales correspondientes, así como organismos autónomos que requieren de ésta información.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 8.
 
-En el caso de nuevos fraccionamientos, los fraccionadores deberán solicitar en forma anticipada la aprobación de la nomenclatura que será utilizada en las vías públicas creadas en el fraccionamiento. Si la Comisión no hace observaciones a la propuesta de los fraccionadores, dentro de los 45 días siguientes a que tuvo conocimiento de ésta, se dará por aprobada la nomenclatura solicitada. Correrá a cargo de los fraccionadores la instalación de los señalamientos correspondientes, mismos que deberán cumplir con las especificaciones que al efecto señale la Secretaría de Desarrollo Urbano y Ecología y la Secretaría de Seguridad Pública y Vialidad.
+En el caso de nuevos fraccionamientos, los fraccionadores deberán solicitar en forma anticipada la aprobación de la nomenclatura que será utilizada en las vías públicas creadas en el fraccionamiento. Si la Comisión no hace observaciones a la propuesta de los fraccionadores, dentro de los 45 días siguientes a que tuvo conocimiento de ésta, se dará por aprobada la nomenclatura solicitada. Correrá a cargo de los fraccionadores la instalación de los señalamientos correspondientes, mismos que deberán cumplir con las especificaciones que al efecto señale la Secretaría de Ordenamiento y Desarrollo Urbano y la Secretaría de Seguridad Pública Municipal.
 
 ###### ARTÍCULO 9.
 
@@ -145,17 +153,23 @@ Para la adecuada identificación de las calles, la placa o signo correspondiente
 
 Las placas que contengan la nomenclatura de las vías públicas, además de la denominación de la vía pública, contendrán por lo menos el nombre de la colonia, el código postal y el punto cardinal correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 11.
 
-Las personas físicas o morales podrán donar placas para la nomenclatura, debiendo sujetarse a las especificaciones que al respecto emita la Secretaría de Desarrollo Urbano y Ecología. El R. Ayuntamiento aprobará la donación, previa consulta a los vecinos del lugar donde se pretendan colocar.
+Las personas físicas o morales podrán donar placas para la nomenclatura, debiendo sujetarse a las especificaciones que al respecto emita la Secretaría de Ordenamiento y Desarrollo Urbano. El Republicano Ayuntamiento aprobará la donación, previa consulta a los vecinos del lugar donde se pretendan colocar.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-La Secretaría de Desarrollo Urbano y Ecología conjuntamente con la Secretaría de Seguridad Pública y Vialidad determinaran las características y procedimientos para la colocación de las placas o señalamientos de identificación.
+La Secretaría de Ordenamiento y Desarrollo Urbano conjuntamente con la Secretaría de Seguridad Pública Municipal, determinarán las características y procedimientos para la colocación de las placas o señalamientos de identificación.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponde a la Secretaría de Desarrollo Urbano y Ecología ejecutar los procedimientos para la revisión, actualización, modificación y fijación de nueva numeración, así como la adecuada ordenación de las propiedades.
+Corresponde a la Secretaría de Ordenamiento y Desarrollo Urbano ejecutar los procedimientos para la revisión, actualización, modificación y fijación de nueva numeración, así como la adecuada ordenación de las propiedades.
 
 ### CAPÍTULO IV. DE LAS INFRACCIONES Y APLICACIÓN DE SANCIONES
 
@@ -175,9 +189,11 @@ V. Cambiar la numeración que se le haya asignado a un inmueble, sin la autoriza
 
 VI. No solicitar para los nuevos fraccionamientos la aprobación de la nomenclatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-Será competente para la aplicación de las sanciones la Secretaría del R. Ayuntamiento y en todo caso deberá tomar en cuenta la gravedad de la falta, las circunstancias del caso, las condiciones socioeconómicas del infractor, así como la reincidencia. Las sanciones que se aplicarán a los infractores del presente Reglamento serán:
+Será competente para la aplicación de las sanciones la Secretaría del Republicano Ayuntamiento y en todo caso deberá tomar en cuenta la gravedad de la falta, las circunstancias del caso, las condiciones socioeconómicas del infractor, así como la reincidencia. Las sanciones que se aplicarán a los infractores del presente Reglamento serán:
 
 I. Si la infracción cometida es la prevista en la fracción I. del artículo anterior, se sancionará con una multa de 10 a 50 veces el salario mínimo general vigente en la zona y la reposición del señalamiento.
 
@@ -195,17 +211,21 @@ V. Si la infracción cometida es la prevista en la fracción VI del artículo an
 
 Los actos de autoridad municipal dictados en base a este Reglamento, podrán ser impugnados por los particulares afectados mediante el recurso de inconformidad.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-El afectado podrá presentar el recurso de Inconformidad dentro de los 5 días hábiles siguientes a la fecha en que tuvo conocimiento del acto u omisión que motiva la inconformidad, y deberá interponerlo ante la Comisión de Nomenclatura.
+El afectado podrá presentar el recurso de Inconformidad dentro de los 5 días hábiles siguientes a la fecha en que tuvo conocimiento del acto u omisión que motiva la inconformidad, y deberá interponerlo ante la Comisión.
 
 ###### ARTÍCULO 18.
 
 El Recurso deberá presentarse por escrito, expresando claramente el motivo del mismo y señalando domicilio en el Municipio para oír y recibir notificaciones, a él se anexarán las pruebas de intención del promovente, las que sólo podrán ser documentales o inspecciones.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-La Comisión de Nomenclatura dictará resolución en un término no mayor de 30 días. Contra la resolución dictada no se admitirá recurso alguno.
+La Comisión dictará resolución en un término no mayor de treinta días. Contra la resolución dictada no se admitirá recurso alguno.
 
 ## TRANSITORIOS
 
@@ -227,7 +247,7 @@ MA. TERESA GARCIA DE MADERO
 
 SECRETARIA DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 22 DE NOVIEMBRE DE 2010.
 
@@ -238,3 +258,9 @@ SEGUNDO.- En caso de cambio de denominación de una vía pública la nomenclatur
 TERCERO.- La Secretaría del Republicano Ayuntamiento distribuirá ejemplares del presente, a través de las Juntas de Vecinos y de las oficinas públicas municipales, con el objeto, de facilitar a los habitantes del Municipio el conocimiento del mismo.
 
 CUARTO.- Para todos los efectos de este Reglamento se entiende como supletoria la Ley de Desarrollo Urbano del Estado de Nuevo León.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
