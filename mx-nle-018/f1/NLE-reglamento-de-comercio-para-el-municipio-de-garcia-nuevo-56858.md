@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-comercio-para-el-municipio-de-garcia-nuevo-56858"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-03"
-last_updated: "2007-08-03"
+last_updated: "2016-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE GARCIA, NUEVO LEON
+REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE COMERCIO DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 4 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de agosto de 2007.
 
@@ -724,3 +726,21 @@ LIC. ARNULFO TELLEZ ZAVALA
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de García, Nuevo León, a los 26-veintiséis días del mes de Julio del 2007-dos mil siete.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE COMERCIO DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Comercio para el Municipio de García, N.L. publicado en el Periódico Oficial del Estado de fecha 03 de Agosto de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
