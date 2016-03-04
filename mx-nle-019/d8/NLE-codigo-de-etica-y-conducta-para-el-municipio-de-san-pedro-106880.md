@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-etica-y-conducta-para-el-municipio-de-san-pedro-10688
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-27"
-last_updated: "2015-03-27"
+last_updated: "2016-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE ÉTICA Y CONDUCTA PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 27 de marzo de 2015.
 
@@ -73,7 +73,9 @@ León.
 
 e) Ley Federal para Prevenir y Eliminar la Discriminación.
 
-f) Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+f) Ley de Gobierno Municipal del Estado de Nuevo León.
 
 g) Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León.
 
@@ -338,3 +340,11 @@ SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
 HOJA DE FIRMAS PUBLICACIÓN PERIÓDICO OFICIAL DEL ESTADO.
 
 CÓDIGO DE ÉTICA Y CONDUCTA PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
