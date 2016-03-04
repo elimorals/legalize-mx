@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-personas-con-discapacidad-en-el-62217"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-30"
-last_updated: "2009-06-22"
+last_updated: "2016-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LAS PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO PARA LAS PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO PARA LAS PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 30 de junio de 2008.
 
@@ -53,7 +53,9 @@ REGLAMENTO PARA LAS PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE SAN PEDRO GARZA
 
 Las disposiciones de este Reglamento son de orden público, de interés social y de observancia general en el Municipio de San Pedro Garza García, Nuevo León. Su objeto es establecer las bases que permitan la plena inclusión de las personas con discapacidad, en un marco de igualdad y de equiparación de oportunidades. De manera enunciativa y no limitativa, este Reglamento reconoce a las personas con discapacidad sus derechos humanos y el establecimiento de las políticas públicas municipales necesarias para su ejercicio.
 
-Se emite este reglamento con base y fundamento en las Garantías establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado, así como en la Ley de Personas con Discapacidad del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+Se emite este reglamento con base y fundamento en las Garantías establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado, así como en la Ley para la Protección de los Derechos de las Personas con Discapacidad.
 
 En los términos de este reglamento, gozarán de sus beneficios, los individuos disminuidos en sus capacidades físicas, psíquicas o sociales necesarias para su integración en la sociedad.
 
@@ -71,13 +73,17 @@ IV. Ayudas Técnicas: Dispositivos tecnológicos y materiales que permiten habil
 
 V. Ceguera Legal: Debilidad visual equivalente a 20/200 (pies) de agudeza visual de distancia en el mejor ojo y con un campo visual no mayor a 20°;
 
-VI. Comunidad de Sordos: Todo aquel grupo social cuyos miembros tienen como característica fundamental no poseer el sentido auditivo para sostener una comunicación y socialización natural y fluída en lengua oral alguna;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. Comunidad de Sordos: Todo aquel grupo social cuyos miembros tienen como característica fundamental no poseer el sentido auditivo para sostener una comunicación y socialización natural y fluida en lengua oral alguna;
 
 VII. Consejo: Órgano encargado de planear y promover las políticas públicas que impulsen el desarrollo y plena integración social de las personas con discapacidad y demás atribuciones que el presente ordenamiento le confiera;
 
 VIII. Deficiencia: Toda pérdida total o parcial, temporal o permanente o anormalidad de naturaleza orgánica, psicológica o fisiológica;
 
-IX. DIF Municipal: Sistema Nacional para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+IX. DIF Municipal: Dirección del Desarrollo Integral de la Familia;
 
 X. Discapacidad Visual: La disminución o pérdida de la percepción y agudeza visual;
 
@@ -95,9 +101,9 @@ XV. Equiparación de Oportunidades: Proceso de adecuaciones, ajustes y mejoras n
 
 XVI. Estimulación Temprana: Atención brindada al niño de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-XVII. Ley: Ley de Personas con Discapacidad en el Estado de Nuevo León;
+XVII. Ley: Ley para la Protección de los Derechos de las Personas con Discapacidad;
 
 XVIII. Municipio: Municipio de San Pedro Garza García, Nuevo León;
 
@@ -113,9 +119,9 @@ XXII. Sociedad Civil Organizada: Todas aquellas personas jurídicas que promueve
 
 XXIII. Vida Independiente: La capacidad del individuo para ejercer decisiones sobre su propia existencia y participación en el entorno social; y
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-XXIV. Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en el Comité Estatal para la Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en la Ley de Personas con Discapacidad del Estado de Nuevo León.
+XXIV. Perro de asistencia: Aquel que habiendo pasado pruebas de selección física, genética y sanitaria, ha concluido su adiestramiento en el Comité Estatal para la Certificación de Perros de Asistencia, y adquirido las aptitudes y destrezas necesarias para la compañía, conducción y auxilio de personas con discapacidad, debiendo estar acreditados e identificados de la forma establecida en la Ley para la Protección de los Derechos de las Personas con Discapacidad.
 
 ###### Artículo 3.
 
@@ -127,7 +133,9 @@ La vigilancia de este Reglamento, también estará a cargo de:
 
 I. El Consejo;
 
-II. El DIF municipal;
+> <small>(REFORMADA , P.O. 4 DE MARZO DE 2016)</small>
+
+II. El DIF Municipal;
 
 III. La familia de las personas con discapacidad; y;
 
@@ -163,9 +171,11 @@ VIII. La accesibilidad universal; y
 
 IX. El fomento a la vida independiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 8.
 
-Son facultades del Presidente Municipal y de las Secretarías, en materia de este Reglamento, las siguientes:
+Son facultades del Presidente Municipal, de las Secretarías y demás unidades administrativas del Municipio, en materia de este Reglamento, las siguientes:
 
 I. El establecimiento de las políticas públicas en materia de personas con discapacidad, para prever el cumplimiento del objeto del presente reglamento, en coordinación con las políticas y leyes estatales en la materia, así como leyes federales y tratados internacionales de derechos humanos;
 
@@ -221,9 +231,11 @@ III. Que las personas con discapacidad en su calidad de pacientes, sus represent
 
 ### Capítulo II. Del trabajo y la Capacitación
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 13.
 
-Las personas físicas o morales que apoyen o promuevan la integración en el ámbito laboral, social, cultural y deportivo de personas con discapacidad, serán sujetos a recibir la medalla al mérito cuidadano (sic), conforme lo establece el Reglamento que crea la medalla al mérito ciudadano "Mónica Rodríguez" del Municipio de San Pedro Garza García, Nuevo León.
+Las personas físicas o morales que apoyen o promuevan la integración en el ámbito laboral, social, cultural y deportivo de personas con discapacidad, serán sujetos a recibir la medalla al mérito ciudadano, conforme lo establece el Reglamento de Participación y Atención Ciudadana del Municipio de San Pedro Garza García, Nuevo León.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2009)</small>
 
@@ -587,10 +599,16 @@ LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE JUNIO DE 2009.
 
 Artículo Primero.- Las presentes Reformas por Modificación y Adición al Reglamento para Personas con Discapacidad en el Municipio de San Pedro Garza García, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 4 DE MARZO DE 2016.
+
+> <small>[N. DE E. ARTÍCULO TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]</small>
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
