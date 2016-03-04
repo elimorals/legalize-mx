@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-99
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2014-02-28"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de febrero de 2014.
 
@@ -225,7 +225,9 @@ XIX. Expedir su reglamento interno, así como su normatividad interna y modifica
 
 XX. Solicitar al Congreso y, en su caso, a la Diputación Permanente, la comparecencia de las autoridades o servidores públicos responsables, cuando se hayan negado a aceptar o cumplir alguna recomendación emitida por dicho organismo autónomo, a efecto de que expliquen el motivo de su negativa.
 
-XXI. Vigilar el cumplimiento de los derechos humanos en materia de equidad de género.
+> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+
+XXI. Vigilar el cumplimiento de los derechos humanos en materia de igualdad entre mujeres y hombres.
 
 XXII. Las demás que le otorga esta ley, el reglamento interno y otras disposiciones legales y normativas aplicables.
 
@@ -485,7 +487,7 @@ De no haberse logrado la designación de los cuatro consejeros, con la mayoría 
 
 V. Los consejeros podrán ser ratificados para un período más, a propuesta de la comisión permanente, con el voto de las dos terceras partes de los miembros del Congreso.
 
-VI. En caso de renuncia o vacante de algún consejero, el presidente del consejo consultivo se dirigirá al Congreso a fin solicitar (sic) el inicio del procedimiento de elección previsto en este artículo.
+VI. En caso de renuncia o vacante de algún consejero, el presidente del consejo consultivo se dirigirá al Congreso a fin (sic) solicitar el inicio del procedimiento de elección previsto en este artículo.
 
 #### Sección segunda. Atribuciones del consejo consultivo
 
@@ -1468,3 +1470,81 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 353/2016 POR EL QUE SE EMITE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, Y SE EXTINGUE Y LIQUIDA EL INSTITUTO PARA LA EQUIDAD DE GÉNERO EN YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de ley
+
+Se abroga la Ley para la Igualdad entre Mujeres y Hombres del Estado de Yucatán, publicada en el diario oficial del estado, el 7 de julio de 2010.
+
+Tercero. Abrogación de decreto
+
+Se abroga el Decreto 125/2002 por el que se crea el Instituto para la Equidad de Género en Yucatán, publicado en el diario oficial del estado, el 28 de mayo de 2002.
+
+Cuarto. Nombramiento del Titular de la Dirección general
+
+El Gobernador deberá nombrar al Titular de la Dirección General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación de la junta de gobierno
+
+La Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán deberá instalarse dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición del estatuto orgánico
+
+El Titular de la dirección general deberá presentar a la Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, para su aprobación, el proyecto de su estatuto orgánico dentro de un plazo de noventa días naturales contado a partir de la instalación de la junta de gobierno.
+
+Séptimo. Referencia
+
+En lo sucesivo, cuando en alguna norma se haga referencia al Instituto para la Equidad de Género en Yucatán, se entenderá hecha al Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+
+Octavo. Obligación normativa de la junta de gobierno
+
+La Junta de Gobierno del Instituto para la Equidad de Género en Yucatán deberá publicar, en el diario oficial del estado, los Lineamientos para llevar a cabo la Liquidación del Instituto para la Equidad de Género en Yucatán, dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Obligación de la dependencia coordinadora de sector
+
+La Secretaría General de Gobierno, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Instituto para la Equidad de Género en Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Décimo. Trámite de asuntos
+
+Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite, que se encuentren bajo cualquier concepto en el Instituto para (sic) Equidad de Género en Yucatán, se transferirán y quedarán a cargo del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Derechos laborales
+
+Quedarán a salvo los derechos laborales de los servidores públicos y empleados del entonces Instituto para la Equidad de Género en Yucatán, con motivo de la entrada en vigor de este decreto. El personal que preste sus servicios en el Instituto para la Equidad de Género en Yucatán pasará a formar parte del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, y se estará a lo establecido en las disposiciones legales aplicables.
+
+Décimo segundo. Transferencia de recursos
+
+A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Instituto para Equidad de Género en Yucatán pasarán al dominio y uso del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+
+Décimo tercero. Exención
+
+El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, queda exento, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados en el proceso de regulación de los bienes o servicios relacionados con motivo de la entrada en vigor de este decreto.
+
+Décimo cuarto. Inscripción
+
+El Titular de la dirección General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán deberá actualizar la inscripción de la entidad paraestatal a su cargo, en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo quinto. Instalación del consejo estatal
+
+El Consejo Estatal para la Igualdad entre Mujeres y Hombres deberá instalarse dentro un plazo de sesenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo sexto. Expedición del reglamento interno
+
+El Consejo Estatal para la Igualdad entre Mujeres y Hombres de (sic) expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo séptimo. Expedición de acuerdo
+
+La Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, deberá expedir el acuerdo que regule el funcionamiento y organización del Consejo Consultivo del Sistema Estatal para la Igualdad entre Mujeres y Hombres dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo octavo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
