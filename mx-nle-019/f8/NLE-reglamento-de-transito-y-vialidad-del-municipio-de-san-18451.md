@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2015-04-29"
+last_updated: "2016-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -761,7 +761,9 @@ IV Presentar examen médico con un máximo de 5 (cinco) días de haberse expedid
 
 V Presentar y aprobar examen teórico y práctico de manejo y conocimiento de dispositivos de tránsito y del presente Reglamento ante la Autoridad Municipal encargada de la vialidad;
 
-VI Ser residente de este municipio, por lo que deberá presentar comprobante de domicilio e identificación;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI Ser residente de este municipio, por lo que deberá presentar comprobante de domicilio e identificación y a falta de los documentos, una certificación del Secretario del Republicano Ayuntamiento del Municipio, quien podrá delegar esta función;
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -1441,7 +1443,9 @@ ARTÍCULO 73 BIS 2.- En las vías de circulación en las que el Municipio establ
 
 ARTÍCULO 73 BIS 3.- Los ciclistas, quienes son los conductores de un vehículo de tracción humana a pedales, deberán observar las siguientes disposiciones:
 
-I.- Registrar de manera voluntaria ante la Secretaría de Seguridad Municipal su vehículo en el padrón que para el efecto levantará la misma, una vez realizado lo anterior se le entregará una calcomanía misma que deberá adherir en una parte visible y que deberá refrendarse anualmente y no excederá su costo de un día de salario mínimo.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+I. Registrar de manera voluntaria ante la Secretaría de Seguridad Municipal su vehículo en el padrón que para el efecto levantará la misma, una vez realizado lo anterior se le entregará una calcomanía misma que deberá adherir en una parte visible y que deberá refrendarse anualmente y no excederá su costo de un día de salario mínimo.
 
 II. Todas las bicicletas, bicimotos y triciclos deberán contar con luces intermitentes, permanentes preferentemente color rojo y accesorios reflejantes de la luz, estos deberán colocarse en la parte posterior del vehículo en un lugar visible, además de conservarse limpio para evitar se opaquen y debiliten sus efectos reflejantes, Circularán a la extrema derecha de la vía sobre la que transiten.
 
@@ -1583,13 +1587,19 @@ ARTÍCULO 73 BIS 15.- El infractor que pague la multa dentro de las setenta y do
 
 ARTÍCULO 73 BIS 16.- La persona que al conducir cualquier tipo de vehículo en estado de ebriedad o bajo la influencia de estupefacientes, sicotrópicos u otras sustancias tóxicas, cometa alguna infracción a las disposiciones de este capítulo, será sancionado con la multa correspondiente, sin los beneficios que se establecen en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2016)</small>
 
-ARTÍCULO 73 BIS 17.- Tratándose de menores que hayan cometido alguna infracción en estado de ebriedad o bajo influjo de estupefacientes, sicotrópicos u otras sustancias tóxicas, el Oficial de Tránsito deberá impedir que continúe en circulación, poniéndolo a disposición de la Secretaría de Seguridad Municipal, la que deberá observar las siguientes prevenciones.
+ARTÍCULO 73 BIS 17.- Tratándose de menores que hayan cometido alguna infracción en estado de ebriedad o bajo influjo de estupefacientes, sicotrópicos u otras sustancias tóxicas, el Oficial de Tránsito deberá impedir que continúe en circulación, poniéndolo a disposición de la Secretaría de Seguridad Pública Municipal, la que deberá observar las siguientes prevenciones.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 I. Notificar de inmediato a los padres del menor, o a quien tenga su representación legal.
 
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 II. Imponer las sanciones que en su caso proceden, sin perjuicio de la responsabilidad legal.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 En caso de reincidencia en la conducta sancionada se impondrá al infractor una sanción más severa
 
@@ -2639,7 +2649,9 @@ c) Prestar servicios públicos de transporte de pasajeros con itinerario fijo fu
 
 d) Por falta de taxímetro, no usarlo, o traerlo en mal estado; y
 
-e) Exclusivamente en Taxis Seguros, por no contar o no funcionar adecuadamente los equipos de radiofrecuencia, el botón de pánico, el sistema de posicionamiento global GPS comunicado con la Secretaría de Seguridad Municipal o cualquier otro equipamiento acordado para estas unidades en los convenios respectivos celebrados al efecto entre la Administración Pública del Municipio y los concesionarios.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+e. Exclusivamente en Taxis Seguros, por no contar o no funcionar adecuadamente los equipos de radiofrecuencia, el botón de pánico, el sistema de posicionamiento global GPS comunicado con la Secretaría de Seguridad Pública Municipal o cualquier otro equipamiento acordado para estas unidades en los convenios respectivos celebrados al efecto entre la Administración Pública del Municipio y los consesionarios.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 12 DE NOVIEMBRE DE 2004)
 
@@ -2697,9 +2709,9 @@ En todos los casos de infracción, con motivo de conducción en estado de volunt
 
 Tratándose de menores no emancipados que hayan cometido infracciones con motivo de conducción de vehículos, en alguna de las condiciones señaladas en el cuarto y quinto párrafo de este artículo, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y en su caso, el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, quienes deberán de acompañar al infractor a dicho tratamiento o curso.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-La Dirección General de Tránsito retendrá la licencia de conducir al infractor, por el término que dure el procedimiento que se lleve a cabo ante la Secretaría de Finanzas y Tesorería General del Estado, debiendo devolverla al titular en caso de resolución favorable a éste, o retenerla por el término que dicte la Secretaría de Finanzas y Tesorería General del Estado, según sea el caso o hasta que se cumplan la sanción.
+La Dirección de Tránsito retendrá la licencia de conducir al infractor, por el término que dure el procedimiento que se lleve a cabo ante la Secretaría de Finanzas y Tesorería General del Estado, debiendo devolverla al titular en caso de resolución favorable a éste, o retenerla por el término que dicte la Secretaría de Finanzas y Tesorería General del Estado, según sea el caso o hasta que se cumplan (sic) la sanción.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
 
@@ -3109,11 +3121,11 @@ ARTICULO 148 BIS-4.- La Autoridad podrá dejar sin efectos una sanción de ofici
 
 En la medida que se modifiquen las condiciones socio-económicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 145], P.O. 12 DE NOVIEMBRE DE 2004)
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 150.
 
-Para garantizar la participación ciudadana en la revisión para la modificación o actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al Secretario del Ayuntamiento a fin de que el Presidente Municipal dé cuenta de una síntesis de tales propuestas en sesión ordinaria del Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+Para garantizar la participación ciudadana en la revisión para la modificación o actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al Secretario del Ayuntamiento a fin de que el Presidente Municipal dé cuenta de una síntesis de tales propuestas en sesión ordinaria del Republicano Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
 
 ## TRANSITORIOS
 
@@ -3198,3 +3210,9 @@ PRIMERO.- Envíese para su publicación al Periódico Oficial del Estado y la Ga
 SEGUNDO.- La entrada en vigor del presente Acuerdo comenzará a partir del día 2 de febrero del 2015.
 
 TERCERO.- Los procedimientos administrativos que se encuentren en trámite a la entrada en vigor del presente Acuerdo, serán resueltos conforme a lo dispuesto a lo establecido en los Reglamentos de Policía y Buen Gobierno y el Reglamento de Tránsito y Vialidad vigentes.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN]
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
