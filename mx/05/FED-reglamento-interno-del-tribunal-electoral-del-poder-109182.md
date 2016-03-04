@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2015-08-07"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -51,49 +51,55 @@ VI. Consejo: El Consejo de la Judicatura Federal;
 
 VII. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-VIII. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman el procedimiento de un medio de impugnación en materia electoral o un procedimiento administrativo, independientemente de que sea texto, imagen, audio o video, identificado por una clave específica;
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2016)</small>
 
-IX. FIREL: Firma Electrónica Certificada del Poder Judicial de la Federación;
+VIII. Defensoría Electoral: La Defensoría Pública Electoral para Pueblos y Comunidades Indígenas del Tribunal;
 
-X. Grupos en situación de vulnerabilidad: Aquellos núcleos de población, grupos y/o personas que por diferentes factores o en conjunción de ellos, enfrentan situaciones que las colocan en riesgo, desventaja o discriminación que impide acceder y ejercer sus derechos en condiciones de igualdad;
+IX. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman el procedimiento de un medio de impugnación en materia electoral o un procedimiento administrativo, independientemente de que sea texto, imagen, audio o video, identificado por una clave específica;
 
-XI. Instituto: El Instituto Nacional Electoral;
+X. FIREL: Firma Electrónica Certificada del Poder Judicial de la Federación;
 
-XII. Ley de Transparencia: La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental -vigente, hasta en tanto se establezcan los lineamientos a que se refieren los artículos cuarto y octavo Transitorios de la Ley General de Transparencia-.
+XI. Grupos en situación de vulnerabilidad: Aquellos núcleos de población, grupos y/o personas que por diferentes factores o en conjunción de ellos, enfrentan situaciones que las colocan en riesgo, desventaja o discriminación que impide acceder y ejercer sus derechos en condiciones de igualdad;
 
-XIII. Ley Federal de los Trabajadores: La Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado b) del artículo 123 de la Constitución;
+XII. Instituto: El Instituto Nacional Electoral;
 
-XIV. Ley General: La Ley General del Sistema de Medios de Impugnación en Materia Electoral;
+XIII. Ley de Transparencia: La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental -vigente, hasta en tanto se establezcan los lineamientos a que se refieren los artículos cuarto y octavo Transitorios de la Ley General de Transparencia-.
 
-XV. Ley General de Instituciones: Ley General de Instituciones y Procedimientos Electorales;
+XIV. Ley Federal de los Trabajadores: La Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado b) del artículo 123 de la Constitución;
 
-XVI. Ley General de Transparencia: La Ley General de Transparencia y Acceso a la Información Pública -publicada en el Diario Oficial de la Federación el cuatro de mayo de dos mil quince-.
+XV. Ley General: La Ley General del Sistema de Medios de Impugnación en Materia Electoral;
 
-XVII. Ley Orgánica: La Ley Orgánica del Poder Judicial de la Federación;
+XVI. Ley General de Instituciones: Ley General de Instituciones y Procedimientos Electorales;
 
-XVIII. Órganos de Transparencia: Los Órganos de Transparencia, Acceso a la Información y Protección de Datos Personales del Tribunal Electoral del Poder Judicial de la Federación;
+XVII. Ley General de Transparencia: La Ley General de Transparencia y Acceso a la Información Pública -publicada en el Diario Oficial de la Federación el cuatro de mayo de dos mil quince-.
 
-XIX. Personal: Las y los servidores públicos o empleados definidos en la Ley Orgánica, que laboran en el Tribunal Electoral del Poder Judicial de la Federación;
+XVIII. Ley Orgánica: La Ley Orgánica del Poder Judicial de la Federación;
 
-XX. Reglamento: El Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación;
+XIX. Órganos de Transparencia: Los Órganos de Transparencia, Acceso a la Información y Protección de Datos Personales del Tribunal Electoral del Poder Judicial de la Federación;
 
-XXI. Sala Especializada: La Sala Regional Especializada del Tribunal Electoral del Poder Judicial de la Federación;
+XX. Personal: Las y los servidores públicos o empleados definidos en la Ley Orgánica, que laboran en el Tribunal Electoral del Poder Judicial de la Federación;
 
-XXII. Sala Superior: La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación;
+XXI. Reglamento: El Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación;
 
-XXIII. Salas Regionales: Las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación;
+XXII. Sala Especializada: La Sala Regional Especializada del Tribunal Electoral del Poder Judicial de la Federación;
 
-XXIV. Secretaría General: La Secretaría General de Acuerdos de la Sala Superior;
+XXIII. Sala Superior: La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación;
 
-XXV. Sistema de Justicia en Línea: El sistema informático establecido por el Tribunal Electoral para registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar, notificar e integrar el respectivo expediente electrónico de los procedimientos de los medios de impugnación en materia electoral competencia del Tribunal Electoral, al cual se tendrá acceso a través del portal de Internet y con la FIREL, atendiendo a los principios de seguridad y garantía, salvaguardando al máximo los derechos humanos de las personas, incluidos, entre otros, los derechos de acceso a la justicia, defensa e intimidad;
+XXIV. Salas Regionales: Las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación;
 
-XXVI. Suprema Corte: La Suprema Corte de Justicia de la Nación;
+XXV. Secretaría General: La Secretaría General de Acuerdos de la Sala Superior;
 
-XXVII. Tribunal Electoral: El Tribunal Electoral del Poder Judicial de la Federación;
+XXVI. Sistema de Justicia en Línea: El sistema informático establecido por el Tribunal Electoral para registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar, notificar e integrar el respectivo expediente electrónico de los procedimientos de los medios de impugnación en materia electoral competencia del Tribunal Electoral, al cual se tendrá acceso a través del portal de Internet y con la FIREL, atendiendo a los principios de seguridad y garantía, salvaguardando al máximo los derechos humanos de las personas, incluidos, entre otros, los derechos de acceso a la justicia, defensa e intimidad;
 
-XXVIII. Unidad de Enlace: La Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales; y
+XXVII. Suprema Corte: La Suprema Corte de Justicia de la Nación;
 
-XXIX. Visitaduría Judicial: La Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación.
+XXVIII. Tribunal Electoral: El Tribunal Electoral del Poder Judicial de la Federación;
+
+XXIX. Unidad de Enlace: La Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales; y
+
+(REPUBLICADA, D.O.F. 4 DE MARZO DE 2016)
+
+XXX. Visitaduría Judicial: La Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación.
 
 ###### Artículo 3.
 
@@ -2071,9 +2077,17 @@ I. Visitaduría Judicial;
 
 II. Contraloría Interna;
 
-III. Centro de Capacitación Judicial Electoral; y
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2016)</small>
 
-IV. Delegaciones Administrativas.
+III. Centro de Capacitación Judicial Electoral;
+
+> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2016)</small>
+
+IV. Delegaciones Administrativas; y
+
+> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2016)</small>
+
+V. Defensoría Electoral.
 
 Los órganos auxiliares contarán con el personal necesario para el adecuado desempeño de sus funciones, de conformidad con el presupuesto autorizado.
 
@@ -2356,6 +2370,92 @@ XI. Atender los requerimientos necesarios en materia de Transparencia, acceso a 
 XII. Supervisar que la administración de los recursos humanos y materiales a su cargo se lleve a cabo en los términos de la Política Institucional de la tutela al derecho de la no discriminación de conformidad con la normativa aplicable; y
 
 XIII. Las demás que les confieran las disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 4 DE MARZO DE 2016)</small>
+
+SECCIÓN 5ª
+
+De la Defensoría Electoral
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 188 Bis.
+
+La Defensoría Electoral es el órgano auxiliar de la Comisión de Administración con independencia técnica y autonomía operativa, encargado de prestar gratuitamente los servicios de defensa y asesoría electorales en favor de los pueblos, comunidades indígenas y personas que los integren, ante las Salas del Tribunal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 188 Ter.
+
+La Defensoría Electoral se integra por el personal siguiente:
+
+I. Una persona titular de la Defensoría Electoral, nombrada por la Comisión de Administración a propuesta de su Presidencia, quien durará en su encargo cuatro años, con la posibilidad de prorrogarse en igual tiempo por una sola ocasión por acuerdo de la Comisión de Administración.
+
+La designación se hará sobre la persona que, además de cumplir los requisitos señalados en el artículo 188 Quintus del presente Reglamento, acredite satisfactoriamente los exámenes de ingreso y los cursos que al efecto se implementen, de conformidad con las bases establecidas por el Centro.
+
+II. Defensoras y Defensores, nombrados por la Comisión de Administración, de entre las y los aspirantes que obtengan los mejores resultados en los exámenes de ingreso y los concursos de oposición que al efecto se realicen, de conformidad con las bases y convocatorias establecidas por el Centro. Para ello se deberá observar, en lo que resulte aplicable, lo dispuesto en el artículo 65 del presente Reglamento.
+
+La designación de Defensora o Defensor se hará sobre las personas que, además de satisfacer lo señalado en el párrafo anterior, cumplan los requisitos establecidos en el artículo 188 Quintus del presente Reglamento.
+
+III. La Defensoría Electoral contará con el personal necesario para el adecuado desempeño de sus funciones, de conformidad con el presupuesto de egresos autorizado.
+
+La integración de la Defensoría Electoral se orientará por el principio de paridad de género.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 188 Quáter.
+
+La persona titular de la Defensoría Electoral tendrá las facultades siguientes:
+
+I. Administrar, coordinar, vigilar y dar seguimiento a los asuntos y servicios de la Defensoría Electoral;
+
+II. Diseñar e implementar, en conjunto con la Coordinación de Comunicación Social, el programa anual de difusión de los servicios;
+
+III. Elaborar y difundir, con el apoyo de la Coordinación de Información, Documentación y Transparencia, estudios y documentos que brinden a los pueblos, comunidades indígenas o alguna de las personas que los integren, información sobre sus derechos político-electorales;
+
+IV. Emitir dictámenes fundados y motivados en los que se justifique la prestación o no de los servicios;
+
+V. Emitir opiniones sobre los temas que se le formulen en el ámbito de su competencia;
+
+VI. Gestionar y solicitar el apoyo de peritos, intérpretes, traductores y profesionales bilingües que contribuyan al cumplimiento de las funciones de la Defensoría Electoral y proponer a la Comisión de Administración, para su autorización, la lista de personas que pueden fungir como tales;
+
+VII. Implementar programas de formación, capacitación y sensibilización dirigidos al personal de la Defensoría Electoral;
+
+VIII. Organizar y participar en foros académicos, conferencias, seminarios y reuniones, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales de los pueblos, comunidades indígenas y las personas que los integren;
+
+IX. Organizar, controlar y dirigir los servicios que presta la Defensoría Electoral;
+
+X. Promover y gestionar la celebración de convenios con instituciones públicas, sociales y privadas, que puedan contribuir al correcto cumplimiento de las funciones de la Defensoría Electoral;
+
+XI. Autorizar las adscripciones y readscripciones de las Defensoras y los Defensores en las Salas del Tribunal Electoral, de acuerdo con las necesidades del servicio;
+
+XII. Proponer ante las instancias competentes la creación o modificación de acuerdos generales u otros instrumentos normativos relacionados con las atribuciones de la Defensoría Electoral;
+
+XIII. Proponer a la Comisión de Administración las medidas que estime convenientes para lograr el cumplimiento y mejoramiento de las funciones de la Defensoría Electoral;
+
+XIV. Realizar visitas periódicas a los pueblos y comunidades indígenas para llevar a cabo análisis y diagnósticos sobre sus sistemas normativos internos y la situación que impera en relación con el respeto de los derechos político-electorales de sus integrantes, previa autorización de la Comisión de Administración, y
+
+XV. Rendir informes semestrales ante la Comisión de Administración sobre el funcionamiento, resultados y servicios que presta la Defensoría Electoral.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+
+Artículo 188 Quintus.
+
+Sin perjuicio de lo establecido en el artículo 174 del presente Reglamento, la persona titular de la Defensoría Electoral deberá cumplir con los siguientes requisitos para ocupar el cargo correspondiente:
+
+I. Contar con título y cédula profesionales de Licenciatura en Derecho, expedidos legalmente con una antigüedad de cinco años y tener, preferentemente, algún grado académico de especialista, maestría o doctorado en área afín a los derechos humanos;
+
+II. No desempeñar ni haber desempeñado algún cargo de dirección, mando o representación reconocido en los sistemas normativos internos, en los tres años inmediatos anteriores a la designación; y
+
+III. Contar con experiencia probada de cuando menos cinco años en el desempeño de actividades propias del cargo.
+
+Para ser Defensora o Defensor se requiere, además de los requisitos señalados en las fracciones I, II, III, V y VI del artículo 174 del presente Reglamento, contar con título y cédula profesionales de Licenciatura en Derecho expedidos legalmente con una antigüedad mínima de tres años y con experiencia comprobable en cargos similares por igual plazo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+
+Artículo 188 Sextus.
+
+La organización y funcionamiento de la Defensoría Electoral se regularán por los Acuerdos Generales que al efecto emita la Comisión de Administración.
 
 ### CAPÍTULO IV. De los Comités de la Comisión de Administración
 
@@ -3288,3 +3388,15 @@ El Magistrado Presidente, Constancio Carrasco Daza.- Rúbrica.- La Magistrada: M
 LA SUSCRITA, CLAUDIA VALLE AGUILASOCHO, SECRETARIA GENERAL DE ACUERDOS DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, CERTIFICA que el presente documento, en ochenta y siete folios, debidamente cotejados y sellados, corresponden al original del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, aprobado por esta Sala Superior en sesión de veintinueve de julio del año en curso.
 
 Lo que certifico en ejercicio de las facultades previstas en el artículo 201, fracción X, de la Ley Orgánica del Poder Judicial de la Federación y en cumplimiento a las instrucciones del Magistrado Presidente Constancio Carrasco Daza.- Doy Fe.- México, Distrito Federal, a tres de agosto de dos mil quince.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+D.O.F. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS Y ADICIONES AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a las presentes reformas y adiciones.
+
+TERCERO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
