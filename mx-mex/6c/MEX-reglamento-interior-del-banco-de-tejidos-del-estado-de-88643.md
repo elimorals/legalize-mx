@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-banco-de-tejidos-del-estado-de-88643"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-13"
-last_updated: "2015-05-22"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 13 de julio de 2012.
 
@@ -181,11 +181,17 @@ XXIV. Las demás que le confieran otras disposiciones legales.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Departamento de Procuración.
+> <small>(REFORMADA, G.G. 4 DE MARZO DE 2016)</small>
 
-II. Departamento de Procesamiento y Conservación.
+I. Subdirección de Procuración.
 
-III. Departamento de Investigación y Enseñanza.
+> <small>(REFORMADA, G.G. 4 DE MARZO DE 2016)</small>
+
+II. Subdirección de Procesamiento y Conservación.
+
+> <small>(REFORMADA, G.G. 4 DE MARZO DE 2016)</small>
+
+III. Subdirección de Investigación y Enseñanza
 
 IV. Unidad de Apoyo Administrativo.
 
@@ -199,17 +205,23 @@ VI. Contraloría Interna.
 
 El Banco contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.G. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 12.
 
-Al frente de cada Departamento y Unidad habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran.
+Al frente de cada Subdirección, Jefatura de Unidad y Jefatura de Departamento habrá un titular, quien se auxiliara de los servidores públicos que las necesidades del servicio requieran.
 
-### CAPÍTULO III. DE LOS JEFES DE DEPARTAMENTO Y DE LOS JEFES DE UNIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE MARZO DE 2016)</small>
+
+### CAPITULO III
+
+DE LOS SUBDIRECTORES Y DE LOS JEFES DE UNIDAD.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 13.
 
-Corresponde a los Jefes de Departamento y de Unidad:
+Corresponde a los Subdirectores, Jefes de Unidad y Departamento:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar la ejecución de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -245,13 +257,17 @@ XVI. Cumplir, en el ámbito de su competencia, las disposiciones en materia de t
 
 XVII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE MARZO DE 2016)</small>
 
-### CAPÍTULO IV. DE LOS DEPARTAMENTOS Y UNIDADES
+### CAPITULO IV
+
+DE LAS SUBDIRECCIONES Y UNIDADES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 14.
 
-Corresponde al Departamento de Procuración:
+Corresponde a la Subdirección de Procuración:
 
 I. Integrar y analizar la información sobre donaciones, así como proponer programas, estrategias y acciones en materia de tejidos enfocadas a la población en general sobre la donación voluntaria.
 
@@ -273,9 +289,11 @@ IX. Vigilar que las prácticas médico quirúrgicas, se realicen con el equipo e
 
 X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 15.
 
-Corresponde al Departamento de Procesamiento y Conservación:
+Corresponde a la Subdirección de Procesamiento y Conservación:
 
 I. Implementar medidas de bioseguridad para la protección del personal de las unidades médicas y del Banco.
 
@@ -289,9 +307,11 @@ V. Vigilar que las prácticas médico quirúrgicas y las valoraciones clínicas,
 
 VI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 16.
 
-Corresponde al Departamento de Investigación y Enseñanza
+Corresponde a la Subdirección de Investigación y Enseñanza:
 
 I. Diseñar programas de enseñanza, capacitación y desarrollo del personal del Banco y en las unidades médicas.
 
@@ -469,9 +489,11 @@ Corresponde al Consejo el ejercicio de las facultades señaladas en la Ley, así
 
 El Director General será suplido en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que aquél designe. En las mayores de 15 días hábiles, por quien designe el Presidente de la Junta de Gobierno.
 
+> <small>(REFORMADO, G.G. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 23.
 
-Los Jefes de Departamento y de Unidad serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que aquéllos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
+Los Subdirectores, Jefes de Unidad y Departamento serán suplidos en sus ausencias temporales hasta por 15 de (sic) días hábiles, por el servidor público de la jerarquía inmediata inferior que aquellos designen. En las mayores a 15 días, por el servidor público que designe el Director General.
 
 T R A N S I T O R I O S
 
@@ -500,6 +522,16 @@ G.G. 2 DE MAYO DE 2013.
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
 
 G.G. 22 DE MAYO DE 2015.
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
+
+G.G. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO".]
 
 PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
