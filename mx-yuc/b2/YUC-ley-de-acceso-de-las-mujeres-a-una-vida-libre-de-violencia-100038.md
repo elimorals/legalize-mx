@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2014-04-01"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de Abril de 2014.
 
@@ -197,7 +197,9 @@ f) La Fiscalía General del Estado.
 
 g) La Secretaría del Trabajo y Previsión Social.
 
-h) El Instituto para la Equidad de Género en Yucatán.
+> <small>(REFORMADO, D.O. 4 DE MARZO DE 2016)</small>
+
+h) El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
 
 i) El Sistema para el Desarrollo Integral de la Familia.
 
@@ -227,7 +229,9 @@ III. Mantener en estricta confidencialidad la identidad de las víctimas, así c
 
 IV. Llevar un registro estadístico de los casos de violencia que sean de su conocimiento y de las medidas de atención aplicadas.
 
-V. Proporcionar la información y los datos estadísticos que requieran las autoridades e instituciones encargadas de efectuar investigaciones en materia de violencia contra las mujeres, particularmente la requerida por el Instituto de Equidad de Género en Yucatán para la integración del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+
+V. Proporcionar la información y los datos estadísticos que requieran las autoridades e instituciones encargadas de efectuar investigaciones en materia de violencia contra las mujeres, particularmente la requerida por el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán para la integración del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 VI. Canalizar a las víctimas a los servicios de atención prestados por otras autoridades, a los refugios temporales o a cualquier institución que preste asistencia y protección.
 
@@ -283,7 +287,9 @@ La Secretaría de Salud, en el ámbito de su competencia, tendrá las atribucion
 
 I. Otorgar, a través de las instituciones del sector salud, atención médica y psicológica con perspectiva de género a las víctimas.
 
-II. Colaborar con el Instituto para la Equidad de Género en Yucatán en la prestación de servicios reeducativos integrales para las víctimas y los agresores.
+> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+
+II. Colaborar con el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán en la prestación de servicios reeducativos integrales para las víctimas y los agresores.
 
 III. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
@@ -361,17 +367,23 @@ II. Otorgar asesoría jurídica a las víctimas de violencia laboral, para la pr
 
 III. Establecer mecanismos que favorezcan la erradicación de conductas de hostigamiento y acoso sexual en centros laborales públicos y privados.
 
-IV. Promover, en coordinación con el Instituto para la Equidad de Género en Yucatán, la realización de cursos y talleres en los centros de trabajo para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+
+IV. Promover, en coordinación con el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, la realización de cursos y talleres en los centros de trabajo para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
 
 V. Diseñar campañas de difusión para impulsar la igualdad de género salarial y prevenir que las empresas exijan certificados de no gravidez para otorgar empleos.
 
 VI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 21.
 
-Instituto para la Equidad de Género en Yucatán
+Instituto para la Igualdad entre Mujeres y Hombres en Yucatán
 
-El Instituto para la Equidad de Género en Yucatán, en el ámbito de su competencia, tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MARZO DE 2016)</small>
+
+El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, en el ámbito de su competencia, tendrá las atribuciones siguientes:
 
 I. Implementar y, en su caso, proponer a las autoridades encargadas de la aplicación de esta ley, las políticas, los programas y las acciones que consideren pertinentes, con la finalidad de prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
 
@@ -405,7 +417,9 @@ El Sistema para el Desarrollo Integral de la Familia en Yucatán, en el ámbito 
 
 I. Proporcionar atención psicológica y legal, especializada y gratuita, a las mujeres que sean víctimas de violencia familiar.
 
-II. Colaborar con el Instituto para la Equidad de Género en Yucatán en el diseño e implementación de programas y acciones para la reeducación de los agresores.
+> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+
+II. Colaborar con el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán en el diseño e implementación de programas y acciones para la reeducación de los agresores.
 
 III. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
@@ -507,11 +521,13 @@ VIII. El Director General del Sistema para el Desarrollo Integral de la Familia 
 
 IX. El Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 28.
 
 Secretaria ejecutiva
 
-El consejo estatal contará con una secretaria ejecutiva, con derecho a voz y voto, que será la Directora General del Instituto para la Equidad y Género en Yucatán.
+El consejo estatal contará con una secretaria ejecutiva, con derecho a voz y voto, que será la Directora General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
 
 ###### Artículo 29.
 
@@ -563,13 +579,15 @@ Objeto del programa especial
 
 El programa especial tiene por objeto establecer las acciones que, en forma planeada y coordinada, deberán realizar las dependencias y entidades de la Administración Pública del estado.
 
+> <small>(REFORMADO, D.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 35.
 
 Elaboración del programa especial
 
-La elaboración del anteproyecto del programa especial estará a cargo del Instituto para la Equidad de Género en Yucatán, quien lo presentará al Gobernador del estado para su aprobación y emisión.
+La elaboración del anteproyecto del programa especial estará a cargo del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, quien lo presentará al Gobernador del estado para su aprobación y emisión.
 
-El Instituto para la Equidad de Género en Yucatán procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana en la formulación, ejecución, evaluación y modificación del programa especial.
+El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana en la formulación, ejecución, evaluación y modificación del programa especial.
 
 ###### Artículo 36.
 
@@ -988,3 +1006,81 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 353/2016 POR EL QUE SE EMITE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, Y SE EXTINGUE Y LIQUIDA EL INSTITUTO PARA LA EQUIDAD DE GÉNERO EN YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de ley
+
+Se abroga la Ley para la Igualdad entre Mujeres y Hombres del Estado de Yucatán, publicada en el diario oficial del estado, el 7 de julio de 2010.
+
+Tercero. Abrogación de decreto
+
+Se abroga el Decreto 125/2002 por el que se crea el Instituto para la Equidad de Género en Yucatán, publicado en el diario oficial del estado, el 28 de mayo de 2002.
+
+Cuarto. Nombramiento del Titular de la Dirección general
+
+El Gobernador deberá nombrar al Titular de la Dirección General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación de la junta de gobierno
+
+La Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán deberá instalarse dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición del estatuto orgánico
+
+El Titular de la dirección general deberá presentar a la Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, para su aprobación, el proyecto de su estatuto orgánico dentro de un plazo de noventa días naturales contado a partir de la instalación de la junta de gobierno.
+
+Séptimo. Referencia
+
+En lo sucesivo, cuando en alguna norma se haga referencia al Instituto para la Equidad de Género en Yucatán, se entenderá hecha al Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+
+Octavo. Obligación normativa de la junta de gobierno
+
+La Junta de Gobierno del Instituto para la Equidad de Género en Yucatán deberá publicar, en el diario oficial del estado, los Lineamientos para llevar a cabo la Liquidación del Instituto para la Equidad de Género en Yucatán, dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Obligación de la dependencia coordinadora de sector
+
+La Secretaría General de Gobierno, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Instituto para la Equidad de Género en Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Décimo. Trámite de asuntos
+
+Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite, que se encuentren bajo cualquier concepto en el Instituto para Equidad de Género en Yucatán, se transferirán y quedarán a cargo del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, a partir de la entrada en vigor de este decreto.
+
+Décimo primero. Derechos laborales
+
+Quedarán a salvo los derechos laborales de los servidores públicos y empleados del entonces Instituto para la Equidad de Género en Yucatán, con motivo de la entrada en vigor de este decreto. El personal que preste sus servicios en el Instituto para la Equidad de Género en Yucatán pasará a formar parte del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, y se estará a lo establecido en las disposiciones legales aplicables.
+
+Décimo segundo. Transferencia de recursos
+
+A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Instituto para Equidad de Género en Yucatán pasarán al dominio y uso del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+
+Décimo tercero. Exención
+
+El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, queda exento, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados en el proceso de regulación de los bienes o servicios relacionados con motivo de la entrada en vigor de este decreto.
+
+Décimo cuarto. Inscripción
+
+El Titular de la dirección General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán deberá actualizar la inscripción de la entidad paraestatal a su cargo, en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo quinto. Instalación del consejo estatal
+
+El Consejo Estatal para la Igualdad entre Mujeres y Hombres deberá instalarse dentro un plazo de sesenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo sexto. Expedición del reglamento interno
+
+El Consejo Estatal para la Igualdad entre Mujeres y Hombres de (sic) expedir su reglamento interno dentro de un plazo de noventa días naturales contado a partir de su instalación.
+
+Décimo séptimo. Expedición de acuerdo
+
+La Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, deberá expedir el acuerdo que regule el funcionamiento y organización del Consejo Consultivo del Sistema Estatal para la Igualdad entre Mujeres y Hombres dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Décimo octavo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
