@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-y-servicios-relacionados-con-las-66144"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2015-09-25"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -377,15 +377,71 @@ III. Adjudicación directa.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos de ejecución, normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo los Órganos Ejecutores proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
+Los contratistas o proveedores que deseen participar en algún procedimiento de contratación, deberán de presentar el manifiesto de no conflicto de intereses y dar cumplimiento al Código de Conducta en los términos de los artículos siguientes.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 La licitación pública se inicia con la publicación de la convocatoria y, en el caso de la invitación a cuando menos tres personas, con la entrega de la primera invitación; ambos procedimientos concluyen con la firma del contrato, o en su caso, con la cancelación del procedimiento respectivo.
 
-La Secretaría, mediante reglas de carácter general y tomando en cuenta la opinión del Órgano de Control, determinará los criterios para la aplicación de las reservas, mecanismos de transición u otros supuestos establecidos en la propia ley.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+La Secretaría, mediante reglas de carácter general y tomando en cuenta la opinión del Órgano de Control, determinará los criterios para la aplicación de las reservas, mecanismos de transición u otros supuestos establecidos en la propia Ley.
 
-Las dependencias y entidades pondrán a disposición pública, a través de los medios de difusión electrónica que establezca el Órgano de Control para tal efecto, la información que obre en su base de datos relacionada con las convocatorias y bases de las licitaciones así como sus modificaciones en su caso; las actas de las juntas de aclaraciones y de visita a instalaciones; los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados; así como otra información relativa a las materias que regula esta Ley, con excepción de aquella que sea de naturaleza reservada, en los términos establecidos en la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza.
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+Las dependencias y entidades pondrán a disposición pública, a través de los medios de difusión electrónica que establezca el Órgano de Control para tal efecto, la información que obre en su base de datos relacionada con las convocatorias, bases de las licitaciones y el manifiesto de no conflicto de intereses, así como sus modificaciones en su caso; las actas de las juntas de aclaraciones y de visita a instalaciones; los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados; así como otra información relativa a las materias que regula esta Ley, con excepción de aquella que sea de naturaleza reservada, en los términos establecidos en la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25-A.
+
+Los contratistas o proveedores, con independencia de otros requisitos que establezcan las disposiciones aplicables, deberán de presentar por duplicado el manifiesto de no conflicto de intereses, que deberá de contener por lo menos las siguientes declaraciones:
+
+I. Si tiene relación personal con algún servidor público de la dependencia o entidad contratante de la cual pueda obtener un beneficio.
+
+II. Si tiene relación familiar por consanguinidad hasta el cuarto grado, afinidad o civil, con algún servidor público que labore para la dependencia o entidad contratante.
+
+III. Si tiene relaciones profesionales, laborales o de negocios formales o informales con algún servidor público que labore para la dependencia o entidad contratante, o con sus familiares por consanguinidad hasta el cuarto grado, afinidad o civiles, durante los últimos dos años anteriores a la fecha de celebración del procedimiento de contratación.
+
+IV. Si es socio o ha formado parte de una sociedad con algún servidor público que labore para la dependencia o entidad contratante, o con sus familiares por consanguinidad hasta el cuarto grado, afinidad o civiles, durante los últimos dos años anteriores a la fecha de celebración del procedimiento de contratación.
+
+V. Si es empleada o empleado actual de la dependencia o entidad contratante.
+
+VI. Si cuenta con poder o mandato público o privado que implique la participación de algún servidor público que labore en la dependencia o entidad contratante.
+
+VII. Si ha realizado, directa o indirectamente, algún tipo de transferencia económica o de bienes, favores, gratificaciones, donaciones, servicios o cualquier otra dádiva derivadas del ejercicio de las funciones de algún servidor público que labore en la dependencia o entidad contratante, para obtener la asignación de un contrato o algún otro beneficio.
+
+VIII. Si está sujeta o sujeto a alguna influencia directa por algún servidor público.
+
+IX. Si tiene relación familiar con algún servidor público que labore en alguna dependencia o entidad distinta a la contratante.
+
+X. Si tiene relación personal con algún servidor público que labore en alguna dependencia o entidad distinta a la contratante.
+
+XI. Si tiene relación laboral, profesional o de negocios formales o informales con algún servidor público que labore en alguna dependencia o entidad distinta a la contratante.
+
+XII. Si es empleada o empleado actual en alguna dependencia o entidad distinta a la contratante.
+
+XIII. Si tiene conocimiento del contenido y alcance de las leyes aplicables en la materia, debiendo conocer el significado de conflicto de interés en la celebración de cualquier procedimiento de contratación.
+
+XIV. Que en caso de existir un conflicto de interés a futuro debo (sic) informar a las autoridades correspondientes a efecto de que se tomen las medidas pertinentes.
+
+XV. Si se conduce conforme a los principios de legalidad, honradez, imparcialidad y transparencia.
+
+XVI. El nombre y firma de los contratistas o proveedores que lo suscriban.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+###### Artículo 25-B.
+
+Además de lo establecido en el artículo anterior, los contratistas o proveedores deberán de observar el Código de Conducta que para tal efecto expida el Órgano de Control o su equivalente en los municipios, el cual deberá de contener por lo menos:
+
+I. Objeto y ámbito de aplicación.
+
+II. Requisitos básicos relativos a las responsabilidades que deben de cumplir los contratistas o proveedores.
+
+III. Sanciones en caso de incumplimiento.
 
 ###### Artículo 26.
 
@@ -451,7 +507,7 @@ a) Cuando resulte obligatorio conforme a lo establecido en los convenios o trata
 
 b) Cuando, previa investigación que realicen los órganos ejecutores convocantes, los contratistas nacionales no cuenten con la capacidad para la ejecución de los trabajos o sea conveniente en términos de precio, y
 
-e) Cuando habiéndose realizado una de carácter nacional, no se presenten propuestas.
+c) Cuando habiéndose realizado una de carácter nacional, no se presenten propuestas.
 
 Podrá negarse la participación a extranjeros en licitaciones internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un tratado y ese país no conceda un trato recíproco a los licitantes, contratistas, bienes o servicios mexicanos.
 
@@ -1003,7 +1059,9 @@ Los Órganos Ejecutores se abstendrán de recibir propuestas o celebrar contrato
 
 I. Aquellas que no cuenten con su registro vigente en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas, conforme a lo dispuesto por este ordenamiento;
 
-II. Aquéllas en que el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+II. Aquéllas en que el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios formales o informales, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios formales o informales, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
 
 III. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del Órgano de Control;
 
@@ -1029,9 +1087,21 @@ XIII. Los que por causas imputables al mismo contratista la dependencia haya sus
 
 XIV. Los que tengan contratos vigentes que estén retrasados en un veinte por ciento o más de acuerdo al programa presentado, por causas imputables al contratista. Lo cual deberá estar documentado por la dependencia o entidad ejecutora y notificado el contratista;
 
-XV. Aquellos contratistas que no comprueben experiencia en obras similares a las licitadas, y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-XVI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
+XV. Aquellos contratistas que no comprueben experiencia en obras similares a las licitadas;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+XVI. Que no otorguen el manifiesto de no conflicto de intereses o lo otorguen sin cumplir con los requisitos establecidos en esta Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+XVII. Que no cumplan con el Código de Conducta a que se refiere esta Ley, y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+XVIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
 ### CAPÍTULO SEGUNDO. DE LA EJECUCIÓN
 
@@ -1355,11 +1425,19 @@ I. Los licitantes que injustificadamente y por causas imputables a los mismos no
 
 II. Los contratistas que se encuentren en la fracción IV del artículo 50 de este ordenamiento, respecto de dos o más dependencias o entidades;
 
-III. Los contratistas que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, corno consecuencia, causen daños o perjuicios graves a la dependencia o entidad de que se trate;
+III. Los contratistas que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios graves a la dependencia o entidad de que se trate;
 
-IV. Las que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una queja en una audiencia de conciliación o de una inconformidad, y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-V. Los contratistas que se encuentren en el supuesto de la fracción XI del artículo 50 de este ordenamiento. La suspensión o cancelación que imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que el Órgano de Control la haga del conocimiento de los órganos ejecutores mediante la publicación en la página de internet www.sfpcoahuila.gob.mx del listado de proveedores y contratistas suspendidos o inhabilitados para contratar con el Gobierno del Estado y municipios.
+IV. Las que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una queja en una audiencia de conciliación o de una inconformidad;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+V. Los contratistas que se encuentren en el supuesto de la fracción XI del artículo 50 de este ordenamiento, y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2016)</small>
+
+VI. Cuando declaren información falsa en su manifiesto de no conflicto de intereses.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -1836,3 +1914,13 @@ QUINTO.- Las disposiciones correspondientes a la Unidad de Cuenta serán aplicab
 SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 SÉPTIMO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 387.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, ASÍ COMODEL (SIC) CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Dentro de un plazo de quince días los Órganos de Control Interno de la Administración Pública del Estado y de los Municipios en el ámbito de sus respectivas competencias, deberán expedir el Código de Conducta y en su caso, los formatos de Manifiesto de No Conflicto de Intereses de acuerdo con el presente Decreto.
+
+TERCERO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
