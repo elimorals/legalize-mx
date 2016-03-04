@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-en-el-municipio-de-san-pedro-622
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-30"
-last_updated: "2010-10-06"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE PROTECCIÓN CIVIL EN EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de junio de 2008.
 
@@ -139,7 +139,9 @@ I.- Consejo Municipal de Protección Civil;
 
 II.- Las Dependencias Municipales; y;
 
-II.- Grupos Voluntarios.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
+
+III.- Grupos Voluntarios.
 
 ###### Artículo 7.
 
@@ -167,13 +169,13 @@ El Consejo Municipal de Protección Civil, es la institución de coordinación, 
 
 El Consejo Municipal de Protección Civil, estará integrado por:
 
-l. Como Presidente del Consejo, el Presidente Municipal en funciones;
+I. Como Presidente del Consejo, el Presidente Municipal en funciones;
 
 II. Como Secretario Ejecutivo, el Secretario del Republicano Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-III. Como Coordinador General, el Secretario de Seguridad Municipal; y;
+III. Como Coordinador General, el Secretario de Seguridad Pública Municipal; y;
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
@@ -223,7 +225,7 @@ Para la aprobación de los asuntos planteados al Consejo, se requiere el voto de
 
 Las convocatorias para las sesiones se sujetarán a lo siguiente:
 
-l. Fecha; lugar y hora de la sesión;
+I. Fecha; lugar y hora de la sesión;
 
 II. Naturaleza de la misma; y;
 
@@ -335,31 +337,31 @@ XII.- Llevar el registro de los recursos disponibles para casos de emergencia y 
 
 XIII.- Lo demás que le confieran las Leyes, el presente reglamento, o el Republicano Ayuntamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO IV. DE LA DIRECCIÓN DE PROTECCION CIVIL MUNICIPAL
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
 ###### Artículo 20.
 
-La Dirección de Protección Civil Municipal, dependiente del Presidente Municipal, dentro de la Secretaria de Seguridad Municipal, tendrá como función, proponer, dirigir, presupuestar y vigilar la protección civil en el Municipio, así como el control operativo de las acciones que en la materia se efectúen, en coordinación con los sectores público, social, privado, grupos voluntarios y la población en general, en apoyo a las resoluciones que dicte el Consejo Municipal de Protección Civil.
+La Dirección de Protección Civil, dependiente de la Secretaría del Republicano Ayuntamiento, tendrá como función, proponer, dirigir, presupuestar y vigilar la protección civil en el Municipio, así como el control operativo de las acciones que en la materia se efectúen, en coordinación con los sectores público, social, privado, grupos voluntarios y la población en general, en apoyo a las resoluciones que dicte el Consejo Municipal de Protección Civil
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 21.
 
 La Dirección de Protección Civil Municipal se integrará por:
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2016)</small>
 
-I.- Un Director que será nombrado por el Presidente Municipal y que estará dentro de la Secretaria de Seguridad Municipal;
+I.- Un Director que será nombrado por el Secretario del Republicano Ayuntamiento;
 
 II.- Las unidades o departamentos técnicos u operativos que sean necesarios; y;
 
 III.- El personal técnico, administrativo y operativo que, sea necesario y autorice el presupuesto respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 22.
 
@@ -389,7 +391,7 @@ XI.- En coordinación con la Dirección Estatal, contar con el registro, validar
 
 XII.- Establecer el subsistema de información de cobertura municipal en la materia, el cual deberá contar con mapas de riesgos y archivos históricos sobre emergencias y desastres ocurridos en el Municipio;
 
-XIII.· En caso de alto riesgo, emergencia o desastre, formular la evaluación inicial de la magnitud de la contingencia, presentando de inmediato esta información al Presidente del Consejo Municipal de Protección Civil, al Secretario Ejecutivo y al Coordinador General, según sea necesario;
+XIII.- En caso de alto riesgo, emergencia o desastre, formular la evaluación inicial de la magnitud de la contingencia, presentando de inmediato esta información al Presidente del Consejo Municipal de Protección Civil, al Secretario Ejecutivo y al Coordinador General, según sea necesario;
 
 XIV.- Proponer un programa de premios y estímulos a ciudadanos u organizaciones gubernamentales, sociales, privadas y grupos voluntarios que realicen acciones relevantes en materia de protección civil;
 
@@ -425,7 +427,7 @@ j) Equipamientos urbanos, puentes peatonales, paraderos y señalamientos;
 
 k) Anuncios panorámicos; y
 
-I) Edificaciones para almacenamiento, distribución o expendio de hidrocarburos y/o otros materiales peligrosos, así como las instalaciones para estos fines.
+l) Edificaciones para almacenamiento, distribución o expendio de hidrocarburos y/o otros materiales peligrosos, así como las instalaciones para estos fines.
 
 XX.- Así mismo, podrá conjunta o separadamente con el auxilio y coordinación de la Dirección Estatal de Protección Civil, ejercer control y vigilancia de los siguientes establecimientos:
 
@@ -451,7 +453,7 @@ j) Oficinas de la administración publica estatal, incluyendo a las correspondie
 
 k) Centrales y delegaciones de policía, penitenciarias y demás edificios e instalaciones destinadas a proporcionar y preservar la seguridad publica;
 
-I) Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a mil metros cuadrados;
+l) Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a mil metros cuadrados;
 
 m) Destino final de deshechos (sic) sólidos;
 
@@ -481,7 +483,7 @@ La Dirección promoverá que los establecimientos a que se refiere este reglamen
 
 Los establecimientos deberán realizar, asistidos por la Dirección, cuando menos dos veces al año, simulacros para hacer frente a altos riesgos, emergencias o desastres.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 24.
 
@@ -497,7 +499,7 @@ b) El transporte y/o almacenamiento de material peligroso o inflamable que ponga
 
 Cuando debido a la magnitud de los altos riesgos, emergencias o desastres, sea necesaria la concurrencia simultánea de las Autoridades Municipales y Estatales de Protección Civil y en su caso de la Federación, la Dirección será quien coordine los trabajos de respuesta ante la contingencia, en el lugar de los hechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -533,7 +535,7 @@ Las personas que deseen desempeñar labores de rescate y auxilio, deberán const
 
 Corresponde a los grupos voluntarios:
 
-l. Solicitar el auxilio de las Autoridades de Protección Civil, para el desarrollo de sus actividades;
+I. Solicitar el auxilio de las Autoridades de Protección Civil, para el desarrollo de sus actividades;
 
 II.- Coordinarse, bajo el mando de las Autoridades de Protección Civil, ante la presencia de un riesgo, alto riesgo, emergencia o desastre;
 
@@ -551,7 +553,7 @@ VII.- Las demás que les confiera el Consejo Municipal de Protección Civil.
 
 ### CAPITULO VI. DE LAS UNIDADES DE RESPUESTA EN LOS ESTABLECIMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 30.
 
@@ -631,7 +633,7 @@ Los promotores, organizadores, o responsables de la realización de eventos espe
 
 Sin perjuicio de otras disposiciones aplicables, la celebración de los eventos o espectáculos públicos masivos de que trata el artículo anterior, estará sujeta a lo siguiente:
 
-l. El organizador está obligado a implementar, a su costa, las medidas de Protección Civil dentro de los Subprogramas de Prevención y auxilio, además de contar con cuerpos de seguridad emergencia;
+I. El organizador está obligado a implementar, a su costa, las medidas de Protección Civil dentro de los Subprogramas de Prevención y auxilio, además de contar con cuerpos de seguridad emergencia;
 
 II. Los dispositivos de protección civil comprenderán el sitio y el perímetro donde se desarrolle el evento, incluyendo rutas de acceso y estacionamiento, para salvaguardar a los asistentes y vecinos del lugar, así como sus bienes y entorno;
 
@@ -965,7 +967,7 @@ VII.- El auxilio de la fuerza pública; y
 
 VIII.- La emisión de mensajes de alerta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 74.
 
@@ -1057,7 +1059,7 @@ La quema de juegos pirotécnicos sólo se podrá realizar cuando la persona que 
 
 No se permitirá la quema de juegos pirotécnicos y pólvora en recintos cerrados ni en lugares que por sus características o su ubicación en una zona de riesgo, conforme al Atlas Municipal de Riesgos o al dictamen que emita la Dirección al respecto, representen un peligro para las personas o sus bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 80.
 
@@ -1081,7 +1083,7 @@ En caso de que el interesado cumpla con los requisitos señalados en el artícul
 
 La Dirección tendrá un término de siete días hábiles, a partir de la práctica de la inspección para emitir la autorización correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 82.
 
@@ -1103,7 +1105,7 @@ VI. Estudio de impacto ambiental emitido por perito legalmente autorizado en la 
 
 VII. Estudio de impacto de riesgo/vulnerabilidad emitido por perito legalmente autorizado en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 83.
 
@@ -1409,7 +1411,7 @@ LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE OCTUBRE DE 2010.
 
@@ -1418,3 +1420,9 @@ Artículo Primero.- Las presentes Reformas por Modificación, Derogación y Adic
 Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
 
 Artículo Tercero. Para lo no previsto por este Reglamento, se seguirá el procedimiento y se aplicará supletoriamente lo establecido en la Ley de Protección Civil para el Estado de Nuevo León y en el Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
