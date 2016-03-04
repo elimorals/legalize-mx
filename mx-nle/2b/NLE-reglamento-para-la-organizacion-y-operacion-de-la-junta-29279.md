@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-organizacion-y-operacion-de-la-junta-29279"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-28"
-last_updated: "2003-02-28"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA ORGANIZACION Y OPERACION DE LA JUNTA MUNICIPAL DE PROTECCION Y CONSERVACION DE AREAS, PREDIOS Y EDIFICACIONES CON VALOR ECOLOGICO-HISTORICO-PAISAJISTICO DE SAN PEDRO GARZA GARCIA, N.L
 
-REGLAMENTO PARA LA ORGANIZACION Y OPERACION DE LA JUNTA MUNICIPAL DE PROTECCION Y CONSERVACION DE ÁREAS, PREDIOS Y EDIFICACIONES CON VALOR ECOLOGICO-HISTORICO-PAISAJISTICO DE SAN PEDRO GARZA GARCIA, N.L.
+REGLAMENTO PARA LA ORGANIZACIÓN Y OPERACIÓN DE LA JUNTA MUNICIPAL DE PROTECCIÓN Y CONSERVACIÓN DE ÁREAS, PREDIOS Y EDIFICACIONES CON VALOR ECOLÓGICO-HISTÓRICO-PAISAJÍSTICO DE SAN PEDRO GARZA GARCÍA, N.L.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 28 de febrero de 2003.
 
@@ -35,9 +35,11 @@ PRIMERO.- Se aprueba EL REGLAMENTO PARA LA ORGANIZACIÓN Y OPERACIÓN DE LA JUNT
 
 Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 1.
 
-La Junta Municipal de Protección y Conservación de áreas, predios y edificaciones con valor Ecológico, Histórico y/o Paisajistico, denominada en el resto de este documento solo como “la Junta”, es un órgano desconcentrado de consulta, opinión, y vigilancia, adscrito a la Secretaría de Obras Públicas y Desarrollo Urbano de la Administración Municipal.
+La Junta Municipal de Protección y Conservación de áreas, predios y edificaciones con valor Ecológico, Histórico y/o Paisajístico, denominada en el resto de este documento solo como "la Junta", es un órgano desconcentrado de consulta, opinión, y vigilancia, adscrito a la Secretaría de Servicios Públicos y Medio Ambiente.
 
 ###### Artículo 2.
 
@@ -63,9 +65,11 @@ De la Composición, Funciones y Requisitos para formar parte de la Junta
 
 La Junta estará integrada por un Presidente, un Secretario Ejecutivo y ocho Vocales, uno por cada una de las áreas protegidas. Cada una de las anteriores posiciones deberán contar con un suplente.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+
 ###### Artículo 6.
 
-El cargo de Presidente de la Junta recaerá en el Secretario de Obras Públicas y Desarrollo Urbano del Municipio. Su suplente será nombrado por el propio Secretario.
+El cargo de Presidente de la Junta recaerá en el Secretario de Servicios Públicos y Medio Ambiente del Municipio. Su suplente será nombrado por el propio Secretario.
 
 ###### Artículo 7.
 
@@ -210,3 +214,11 @@ PRESIDENTE MUNICIPAL
 LIC. RICARDO MARTINEZ ELIZONDO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
