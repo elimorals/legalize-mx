@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-02-05"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -125,7 +125,7 @@ La ley garantizará que los partidos políticos, cuenten de manera equitativa co
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-El financiamiento para los partidos políticos que conserven su registro después de cada elección, se compondrá de financiamiento público permanente para el sostenimiento de sus actividades ordinarias, las de campaña electoral tendientes a la obtención del voto y las de carácter específico, relativas a la educación, capacitación, investigación socioeconómica y política, así como las tareas editoriales en los términos de la Ley.
+El financiamiento para los partidos políticos, que conserven su registro después de cada elección, se compondrá de financiamiento público permanente para el sostenimiento de sus actividades ordinarias, las de campaña electoral tendientes a la obtención del voto y las de carácter específico, relativas a la educación, capacitación, investigación socioeconómica y política, así como las tareas editoriales en los términos de la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -2473,6 +2473,10 @@ Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean
 
 El Estado alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico estatal, promoviendo la competitividad e implementando políticas para el desarrollo industrial y sustentable, mediante el establecimiento de las bases y requisitos de realización de proyectos bajo el esquema de asociaciones público privadas, mismas que se regirán exclusivamente por la ley de asociaciones público privadas que al efecto se emita, a fin de lograr el cumplimiento de los fines que sean competencia del Estado y Municipios.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+
+Los Poderes del Estado y los Ayuntamientos, sus dependencias y entidades, implementarán de manera permanente, continua y coordinada sus normas, actos, procedimientos y resoluciones, ajustándose a las disposiciones que establece la ley reglamentaria en materia de Mejora Regulatoria, a fin de impulsar la competitividad y promover el desarrollo económico del Estado de Baja California.
+
 Respecto a los bienes muebles del Estado deben implementarse y ejercerse estrictos sistemas de control para garantizar su uso racional y esmerada conservación, así como para operar las bajas, venta, permuta o donación de los mismos, cuando por su estado físico o cualidades técnicas ya no sean útiles o funcionales. Así también, cuando se hubieren extraviado, robado, accidentado o destruido, deberá darse debido cumplimiento a las disposiciones legales que resulten aplicables.
 
 > <small>N. DE E. EL DECRETO No. 132 APROBADO EL 16 DE OCTUBRE DE 2014 Y PUBLICADO EL 28 DE NOVIEMBRE DE 2014, SEÑALA QUE REFORMA EL PÁRRAFO QUINTO, SIN EMBARGO, SE ADVIERTE UNA DIFERENCIA EN LA NUMERACIÓN DE LOS PÁRRAFOS, EN VIRTUD DE QUE EL CUARTO PÁRRAFO FUE ADICIONADO MEDIANTE DECRETO No. 113 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014.</small>
@@ -4130,3 +4134,9 @@ P.O. 5 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 434 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 437 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN PÁRRAFO QUINTO AL ARTÍCULO 100 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
