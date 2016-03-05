@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2016-03-04"
+last_updated: "2016-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADAS EN EL P.O. EL 4 DE MARZO DE 2016 NO APLICA AL ARTICULADO DE LOS DECRETOS NÚMERO 182, 183, 184, 185 Y 186 PUBLICADOS EN EL P.O. DE 3 DE MARZO DE 2016.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE MARZO DE 2016.]</small>
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -2211,7 +2211,9 @@ Los servidores públicos que establezca la ley, estarán obligados a presentar, 
 
 ARTÍCULO 124 BIS.- El Sistema Estatal Anticorrupción es el conjunto de autoridades, elementos, programas y acciones, que interactúan entre sí, para el diseño, evaluación de políticas de educación, concientización, prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la promoción de la integridad pública. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador integrado por los titulares de, la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; del órgano interno de control del Gobierno del Estado; por el presidente del Tribunal Estatal de Justicia Administrativa; y el presidente del organismo garante que establece el artículo 31 de esta Constitución; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado, y otro del Comité de Participación Ciudadana, y
+> <small>(F. DE E., P.O. 5 DE MARZO DE 2016)</small>
+
+I. El Sistema contará con un Comité Coordinador integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; del órgano interno de Control del Gobierno del Estado; por el Presidente del Tribunal Estatal de Justicia Administrativa; y el Presidente del Organismo Garante que establece el artículo 17 fracción III de esta Constitución; así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado, y otro del Comité de Participación Ciudadana, y
 
 II. El Sistema contará, a su vez, con un Comité de Participación Ciudadana integrado por el número de ciudadanos que establezca la normatividad aplicable, que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, y serán designados en términos de la legislación correspondiente.
 
