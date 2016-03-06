@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2013-04-21"
+last_updated: "2016-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -51,11 +51,11 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
 Los Municipios del Estado de Durango percibirán en cada ejercicio fiscal para cubrir los gastos públicos de la Hacienda Pública a su cargo, los ingresos que autoricen las leyes respectivas, así como los que les correspondan de conformidad con los convenios de coordinación y las leyes en que se fundamenten.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2016)</small>
 
 ###### Artículo 2.
 
-Los ingresos que percibirá el municipio serán ordinarios o extraordinarios.
+Los ingresos que percibirá el municipio, sin contravención de lo establecido en el artículo 150 de la Constitución Política del Estado Libre y Soberano de Durango, serán ordinarios o extraordinarios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
@@ -865,7 +865,9 @@ La falta de cumplimiento de esa obligación será motivo de suspensión de las o
 
 Los fraccionadores o urbanizadores tienen las siguientes obligaciones:
 
-I.- Destinar la superficie en los términos de la Sección Tercera del Título V Capítulo I del Código de Desarrollo Urbano para el Estado de Durango;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
+
+I.- Destinar la superficie en los términos de lo dispuesto en la Ley General de Desarrollo Urbano para el Estado de Durango;
 
 II.- Señalar con toda precisión a la dependencia competente, la superficie afectable del 15% a que se refiere el punto anterior, localizándose ésta gráficamente en los planos respectivos de los cuales se reservará un ejemplar para la autoridad municipal correspondiente;
 
@@ -879,9 +881,11 @@ VI.- Acreditar debidamente que cumplió con el pago de los gravámenes estatales
 
 #### SECCIÓN SEXTA. POR COOPERACIÓN PARA OBRAS PÚBLICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2016)</small>
+
 ###### Artículo 111.
 
-Los propietarios o poseedores de predios, en su caso, estarán obligados a pagar los derechos de cooperación que establezca la Ley de Ingresos municipales correspondiente, por la ejecución de las obras públicas siguientes:
+Los propietarios o poseedores de predios, en su caso, estarán obligados a pagar los derechos de cooperación que establezca la Ley de Ingresos Municipales correspondiente, por la ejecución de las obras públicas siguientes:
 
 I.- Tubería de distribución de agua potable;
 
@@ -897,7 +901,9 @@ VI.- Alumbrado público y su conservación o reposición, y
 
 VII.- Tomas de agua potable domiciliaria y drenaje sanitario.
 
-En los casos de la ejecución de las obras a que se refieren las fracciones I, II y VII, mencionadas anteriormente el municipio se ajustará a las medidas y supervisión que en relación a dichas obras tiene establecidas por la Comisión Estatal del Agua.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2016)</small>
+
+En los casos de la ejecución de las obras a que se refieren las fracciones I, II y VII, mencionadas anteriormente el Municipio se ajustará a las medidas y supervisión que en relación a dichas obras tiene establecidas por la Comisión del Agua del Estado de Durango.
 
 ###### Artículo 112.
 
@@ -1621,7 +1627,7 @@ TERCERO.- Por encontrarse vigente el Decreto No. 142, de fecha 18 de Diciembre d
 
 En caso de ser derogado, abrogado o reformado el decreto referido en el primer párrafo de este artículo, el cobro de los impuestos se efectuará en los términos que establezca el ordenamiento que contenga dicha reforma.
 
-CUARTO.- En tanto siga vigente la Declaratoria de Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Durango y por encontrarse en vigor los Decretos Números 73, publicado en el Periódico Oficial del Estado Número 9 de fecha 31 de enero de 1982; 77, publicado en el Periódico Oficial del Estado Número 1 Bis., de fecha 3 de enero de 1993 y 285, publicado en el Periódico Oficial del Estado Número 51 de fecha 23 del diciembre de 1993, continúa suspendido el cobro de los siguientes Derechos Municipales:
+CUARTO.- En tanto siga vigente la Declaratoria de Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Durango y por encontrarse en vigor los Decretos Números 73, publicado en el Periódico Oficial del Estado Número 9 de fecha 31 de enero de 1982; 77, publicado en el Periódico Oficial del Estado Número 1 Bis., de fecha 3 de enero de 1993 y 285, publicado en el Periódico Oficial del Estado Número 51 de fecha 23 de diciembre de 1993, continúa suspendido el cobro de los siguientes Derechos Municipales:
 
 3.- Por Servicio de Alienación de Predios y Fijación de Números Oficiales.
 
@@ -1668,3 +1674,15 @@ P.O. 21 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 2014.
 
 SEGUNDO.- Se derogan todas la disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 6 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 480.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
