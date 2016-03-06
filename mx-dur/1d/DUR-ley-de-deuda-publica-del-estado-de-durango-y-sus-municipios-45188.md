@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-deuda-publica-del-estado-de-durango-y-sus-municipios-451
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-19"
-last_updated: "2014-02-16"
+last_updated: "2016-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 19 de mayo de 2005.
 
@@ -35,9 +35,11 @@ LEY DE DEUDA PÚBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y tiene por objeto establecer las bases para la contratación y administración de la deuda pública en términos de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos a cargo de las siguientes entidades:
+La presente Ley es de orden público y tiene por objeto establecer las bases para la contratación y administración de la deuda publica en términos de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con el artículo 160 de la Constitución Política del Estado Libre y Soberano de Durango, a cargo de las siguientes entidades:
 
 I. El Estado Libre y Soberano de Durango por conducto del Poder Ejecutivo;
 
@@ -85,13 +87,15 @@ IX. Estado: el Estado Libre y Soberano de Durango;
 
 X. Ingresos Ordinarios: los ingresos que perciban cada una de las entidades por concepto de impuestos, derechos, contribuciones por mejoras, productos, aprovechamientos, participaciones y aportaciones federales o estatales, según sea el caso, y por otros conceptos que recurrentemente perciba la entidad que corresponda;
 
-XI. Municipios: los Municipios en que se divide el territorio del Estado y que se señalan en el artículo 26 de la Constitución Política del Estado Libre y Soberano de Durango;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
+
+XI. Municipios: los Municipios en que se divide el territorio del Estado y que se señalan en el artículo 51 de la Constitución Política del Estado Libre y Soberano de Durango;
 
 XII. Reestructuración: modificación de tasas de interés, plazos, forma de pago u otros términos de una deuda existente;
 
 XIII. Refinanciamiento: contratación de una deuda para pagar total o parcialmente otra existente;
 
-XIV. Registro: el Registro Estatal de Deuda Pública; y (sic)
+XIV. Registro: el Registro Estatal de Deuda Pública; y
 
 XV. Secretaría: la Secretaría de Finanzas y de Administración del Gobierno del Estado;
 
@@ -498,3 +502,11 @@ P.O. 16 DE FEBRERO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 479.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
