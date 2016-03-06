@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-de-las-aportaciones-federales-13886"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-04"
-last_updated: "2007-12-20"
+last_updated: "2016-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY PARA LA ADMINISTRACION DE LAS APORTACIONES FEDERALES TRANSFERIDAS AL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-LEY PARA LA ADMINISTRACION DE LAS APORTACIONES FEDERALES TRANSFERIDAS AL ESTADO DE DURANGO Y SUS MUNICIPIOS
+LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES FEDERALES TRANSFERIDAS AL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 4 de marzo de 1999.
 
@@ -111,7 +111,7 @@ Las aportaciones federales a que se refiere el artículo anterior, para efectos 
 
 Los recursos a los que se refiere el artículo anterior, se registrarán como ingresos propios en las Leyes de Ingresos y de Egresos del Estado, y en las Leyes de Ingresos y Presupuestos de Egresos de los Municipios, en su caso, distribuyéndolos en los Fondos considerados en el artículo primero de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 7.
 
@@ -161,7 +161,7 @@ Los proyectos financiados con el Fondo Estatal para la Infraestructura Social, p
 
 ###### Artículo 10.
 
-En el ejercicio de los recursos del Fondo para la lnfraestructura Social, el Estado y los Ayuntamientos podrán acordar el porcentaje que por concepto de los gastos indirectos a que se refiere la Ley de Coordinación Fiscal les correspondan, debiendo aplicarse en las siguientes acciones:
+En el ejercicio de los recursos del Fondo para la Infraestructura Social, el Estado y los Ayuntamientos podrán acordar el porcentaje que por concepto de los gastos indirectos a que se refiere la Ley de Coordinación Fiscal les correspondan, debiendo aplicarse en las siguientes acciones:
 
 a) Planeación y programación de obras y acciones;
 
@@ -171,7 +171,11 @@ c) Elaboración de proyectos; y
 
 d) Gastos administrativos relacionados con la ejecución de las obras.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2016)</small>
+
 ###### Artículo 11.
+
+El manejo de los recursos públicos a que se hace referencia en esta Ley, se ajustará a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad, honradez y responsabilidad social, de conformidad con el artículo 160 de la Constitución Política del Estado Libre y Soberano de Durango, sin menoscabo de lo que determinen las demás leyes aplicables.
 
 Las obras, acciones e inversiones a que se destinen los recursos de los Fondos Estatales, deberán ser compatibles con la preservación y protección del medio ambiente, además de impulsar el desarrollo sustentable del Estado.
 
@@ -713,7 +717,7 @@ LIC. JESÚS FLORES LÓPEZ.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 24 DE DICIEMBRE DE 2000.
 
@@ -724,3 +728,11 @@ P.O. 20 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a la presente.
+
+P.O. 6 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 477.- POR EL QUE SE ADICIONA UN PRIMER PÁRRAFO AL ARTÍCULO 11 DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES FEDERALES TRANSFERIDAS AL ESTADO DE DURANGO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente.
