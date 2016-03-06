@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-prevencion-y-eliminacion-de-la-72123"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2015-09-06"
+last_updated: "2016-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -55,11 +55,11 @@ Las disposiciones de esta Ley son de orden público, interés social y observanc
 
 Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los poderes públicos estatales deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas así como su efectiva participación en la vida política, económica, cultural social del país y promoverán la participación de las autoridades de los demás órdenes de Gobierno y de los particulares en la eliminación de dichos obstáculo (sic).
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2016)</small>
 
 ###### Artículo 2.
 
-La presente Ley tiene por objeto proteger y promover el derecho constitucional a la no discriminación, garantizar la igualdad de oportunidades y de trato; prevenir y eliminar todas las formas de discriminación, establecer y promover los criterios y bases para modificar las circunstancias de carácter social que lesionen los derechos fundamentales de las personas, minorías, grupos, que se encuentren en la entidad, conforme a lo establecido en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que México es parte y en el artículo 5° de la Constitución Política del Estado Libre y Soberano de Durango y en las leyes que de ellas emanen.
+La presente Ley tiene por objeto proteger y promover el derecho constitucional a la no discriminación, garantizar la igualdad de oportunidades y de trato; prevenir y eliminar todas las formas de discriminación por cualquier motivo, establecer y promover los criterios y bases para modificar las circunstancias de carácter social que lesionen los derechos humanos especialmente de las, niñas, niños y adolescentes, minorías, y grupos que se encuentren en la entidad, conforme a lo establecido en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que México es parte y en el artículo 5° de la Constitución Política del Estado Libre y Soberano de Durango y en las leyes que de ellas emanen.
 
 ###### Artículo 3.
 
@@ -89,9 +89,13 @@ Las entidades de los poderes públicos adoptarán las medidas necesarias, por s�
 
 El derecho a la no discriminación, es fundamental de las personas, minorías y grupos que se encuentran en el territorio del Estado de Durango, a recibir un trato de igualdad en cualquier circunstancia, salvo motivo o causa que sea racionalmente justificable.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2016)</small>
+
 ###### Artículo 9.
 
-Discriminación es la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos de las personas, minorías y grupos, por la comisión de hechos jurídicos ilícitos, de particulares, con intención o sin ella, por acción u omisión, sin motivo o causa que sea racionalmente justificable, igualmente queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opinión, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. Asimismo, se consideran como discriminación, la homofobia, xenofobia, antiarabismo y la islamofobia.
+Discriminación es toda distinción, exclusión o restricción que, por acción u omisión, con intensión o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades especialmente de niñas, niños y adolescentes, cuando se base en uno o más de los siguientes motivos: el origen étnico, o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o la filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2014)</small>
 
@@ -103,13 +107,15 @@ Discriminar se considera un hecho jurídico ilícito cometido por particulares o
 
 Fenómeno discriminatorio es la concurrencia permanente o temporal, de circunstancias de carácter social, educativas, económicas, de salud, trabajo, de acceso a la justicia, culturales o políticas, en referencia a lo que establecen los artículos 1 y 5 de esta Ley.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2016)</small>
+
 ###### Artículo 12.
 
-El Estado diseñará, ejecutará y promoverá las acciones correctoras de las desigualdades de hecho, para garantizar la libertad y la igualdad de las personas, minorías, grupos, colectivos o cualquier otro análogo.
+El Estado diseñará, ejecutará y promoverá las acciones correctoras de las desigualdades de hecho, para garantizar la libertad y la igualdad de las personas, minorías, grupos, colectivos, o cualquier otro análogo.
 
-Las entidades y los poderes públicos estatales y municipales eliminarán los obstáculos que limiten en los hechos, el ejercicio y disfrute pleno del derecho a la no discriminación e impidan el pleno desarrollo de aquéllos, así como su efectiva participación en la vida política, económica, cultural y social del Estado.
+Las entidades y los poderes públicos estatales y municipales eliminaran los obstáculos que limiten en los hechos, el ejercicio y disfrute pleno del derecho a la no discriminación e impidan el pleno desarrollo de aquellos, así como su efectiva participación en la vida política, económica, cultural y social del Estado.
 
-Con este propósito, se establecerán los mecanismos de participación de las autoridades estatales y municipales, así como de los particulares, en el diseño y aplicación de las políticas públicas.
+Con este propósito, se establecerán los mecanismos de participación de las autoridades estatales y municipales, así como de los particulares, en el diseño y aplicación de las políticas públicas considerando en ellas el fortalecimiento familiar, a fin de que todas las niñas, niños y adolescentes logren un desarrollo integral y accedan a las mismas oportunidades a lo largo de su vida.
 
 ###### Artículo 13.
 
@@ -155,7 +161,7 @@ Se prohíben las conductas que impliquen hechos, acciones, omisiones o práctica
 
 ###### Artículo 18.
 
-Se considera violación del derecho de igualdad de las personas consagrado en la Constitución Política de los Estados Unidos Mexicanos, entre otros, los hechos, acciones; omisiones o prácticas que, de manera enunciativa produzcan el efecto de:
+Se considera violación del derecho de igualdad de las personas consagrado en la Constitución Política de los Estados Unidos Mexicanos, entre otros, los hechos, acciones, omisiones o prácticas que, de manera enunciativa produzcan el efecto de:
 
 I. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones legales aplicables;
 
@@ -187,7 +193,9 @@ XIV. Impedir, evadir, negar u obstaculizar la procuración e impartición de jus
 
 XV. Negar la atención a las víctimas del delito;
 
-XVI. Impedir, negar, evadir o restringir que se les escuche en todo procedimiento jurisdiccional o administrativo en que se vean involucrados, incluyendo a las niñas, niños, adolescentes y jóvenes; observando lo que establecen diversos ordenamientos relativos a la asistencia legal;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
+
+XVI. Impedir, negar, evadir, o restringir que se les escuche en todo procedimiento jurisdiccional o administrativo en que se vean involucrados, incluyendo a las niñas, niños y adolescentes; observando lo que establecen diversos ordenamientos relativos a las (sic) asistencia legal;
 
 XVII. Negar, evadir o restringir el derecho a la defensa, así como de la asistencia de intérpretes o tutores en procedimientos de averiguación previa, jurisdiccionales, o administrativos;
 
@@ -257,9 +265,11 @@ V. Procurar la creación de centros de desarrollo infantil y guarderías, asegur
 
 VI. Otorgar reconocimiento público a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2016)</small>
+
 ###### Artículo 23.
 
-Los órganos públicos y las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades de las niñas y los niños:
+Los órganos públicos y las autoridades estatales y municipales, en el ámbito de su competencia, llevaran a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades de las niñas, niños y adolescentes:
 
 I. Instrumentar programas de atención médica y sanitaria para combatir la mortalidad y la desnutrición infantil;
 
@@ -271,7 +281,9 @@ IV. Promover las condiciones necesarias para que los menores puedan convivir con
 
 V. Preferir en igualdad de circunstancias, a las personas que tengan a su cargo menores de edad en el otorgamiento de becas, créditos u otros beneficios;
 
-VI. Alentar la producción y difusión de libros para niños y niñas;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
+
+VI. Alentar la producción y difusión de libros para niñas, niños y adolescentes;
 
 VII. Promover la creación de instituciones que tutelen a los menores privados de su medio familiar, incluyendo hogares de guarda y albergues para estancias temporales; en los que se garantice el respeto a un trato digno y humano;
 
@@ -279,11 +291,29 @@ VIII. Promover la recuperación física, psicológica y la integración social d
 
 IX. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita e intérprete en los procedimientos judiciales o administrativos, cuando así se requiera;
 
-X. Crear espacios públicos de calidad para la recreación y esparcimiento infantil, así como instalaciones para la práctica deportiva; para lo cual, los establecimientos públicos deberán acondicionarse para el uso de cualquier infante aún con discapacidad, para que su acceso a las instalaciones sea libre y cómodo;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
 
-XI. Promover la cultura de protección para las niñas y niños a través de los distintos medios con los que cuenta el Estado; y
+X. Crear espacios públicos de calidad para la recreación y esparcimiento de las niñas, niños y adolescentes, así como instalaciones para la práctica deportiva; para lo cual, los establecimientos públicos deberán acondicionarse para el uso de cualquier niña, niño y adolescentes aun con discapacidad, para que su acceso a las instalaciones sea libre y cómodo;
 
-XII. Promover campañas de información en los medios de comunicación y demás medios pertinentes, para sensibilizar a la sociedad en la prevención y eliminación de toda forma de discriminación.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
+
+XI. Promover la cultura de protección de las niñas, niños y adolescentes a través de los distintos medios con los que cuenta el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
+
+XII. Promover campañas de información en los medios de comunicación y demás medios pertinentes, para sensibilizar a la sociedad en la prevención y eliminación de toda forma de discriminación;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2016)</small>
+
+XIII. Realizar acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, cualquier forma de trabajo infantil o condición de marginalidad;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2016)</small>
+
+XIV. Promover y realizar acciones afirmativas, cuando sean necesarias, para garantizar que niñas, niños y adolescentes tengan igualdad de trato y oportunidades, y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2016)</small>
+
+XV. Establecer la obligación de todas las autoridades estatales de reportar semestralmente a la instancia en materia de discriminación local las medidas de nivelación, medidas de inclusión y acciones afirmativas que adopten, para su registro y monitoreo.
 
 ###### Artículo 24.
 
@@ -333,6 +363,8 @@ XI. Promover que en las unidades del sistema nacional de salud y de seguridad so
 
 XII. Promover campañas de información en los medios de comunicación y otros, para sensibilizar a la sociedad en la prevención y eliminación de toda forma de discriminación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2016)</small>
+
 ###### Artículo 26.
 
 Los órganos públicos y las autoridades estatales y municipales, en el ámbito de su competencia, llevaran a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades para la población étnica:
@@ -355,9 +387,17 @@ VII. En el marco de las leyes aplicables, cuando se fijen sanciones penales a in
 
 VIII. Garantizar que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se tomen en cuenta sus costumbres y especificidades culturales, respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado;
 
-IX. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
 
-X. Llevar acabo (sic) campañas permanentes de información en los medios de comunicación y en los que se estimen pertinentes y que promuevan el respeto a las culturas étnicas, para prevenir y eliminar toda forma de discriminación.
+IX. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2016)</small>
+
+X. Llevar a cabo campañas permanentes de información en los medios de comunicación y en los que se estimen pertinentes y que promuevan el respeto a las culturas étnicas, para prevenir y eliminar toda forma de discriminación, y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2016)</small>
+
+XI. Promover la erradicación de usos, costumbres o prácticas culturales que promuevan cualquier tipo de discriminación.
 
 ###### Artículo 27.
 
@@ -592,3 +632,11 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 6 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 537.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
