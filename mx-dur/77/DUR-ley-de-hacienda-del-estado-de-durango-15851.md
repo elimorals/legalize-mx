@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2015-12-20"
+last_updated: "2016-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -69,13 +69,15 @@ LEY DE HACIENDA DEL ESTADO DE DURANGO
 
 ###### ARTICULO 1.
 
-La Hacienda Pública del Estado de Durango, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios, participaciones en ingresos federales y Fondos de Aportación, se autoricen la Ley de Ingresos que anualmente aprueba el Congreso del Estado.
+La Hacienda Pública del Estado de Durango, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios, participaciones en ingresos federales y Fondos de Aportación, se autoricen en la Ley de Ingresos que anualmente aprueba el Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 El Titular del Poder Ejecutivo del Estado podrá conceder exenciones de impuestos o derechos, conservando los elementos de la relación y del tributo fijados en esta Ley de Hacienda, como lo son el sujeto, objeto, cuota, tasa, base o tarifa, eliminando de la regla general de causación, ciertos hechos gravables o sujetos obligados por razón de equidad o política económica, de conformidad con lo establecido en la Ley de Desarrollo Económico, en su Reglamento, y en las disposiciones administrativas de carácter general que expidan las autoridades fiscales estatales.
 
-La Hacienda Pública del Estado de Durango se compone:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2016)</small>
+
+La Hacienda Pública del Estado de Durango se compone, de conformidad con en (sic) el artículo 158 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1715,9 +1717,9 @@ d) Por la revalidación anual: 60
 
 e) Por su cancelación: 5
 
-(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2016)</small>
 
-ARTICULO 57 BIS.- Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a días de salario o fracción del mismo, conforme a lo siguiente:
+ARTICULO 57 BIS.- Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a días de salario o fracción del mismo, conforme a lo siguiente:
 
 DÍAS DE PORCENTAJE
 
@@ -1773,7 +1775,9 @@ En el caso de la fracción II de éste artículo, después de las primeras 100 h
 
 ARTICULO 69 BIS. Los servicios que la Secretaría de Recursos Naturales y Medio Ambiente proporcione, causarán derechos, conforme a días de salario mínimo o fracción del mismo de acuerdo a lo siguiente:
 
-I. Las personas físicas y morales a las que se les presten servicios por concepto de prevención y control de la contaminación correspondientes a obras y actividades que causen impacto ambiental en los términos de la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente y de sus reglamentos, causarán derechos conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MARZO DE 2016)</small>
+
+I. Las personas físicas y morales a las que se les presten servicios por concepto de prevención y control de la contaminación correspondientes a obras y actividades que causen impacto ambiental en los términos de la Ley de Gestión Ambiental Sustentable para el Estado de Durango y de sus reglamentos, causarán derechos conforme a lo siguiente:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -1891,15 +1895,9 @@ ambiental en su modalidad regional,
 
 para su Evaluación.
 
-II. Se causarán derechos por concepto de
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MARZO DE 2016)</small>
 
-control de flora y fauna, en concordancia
-
-con la Ley Estatal del Equilibrio Ecológico
-
-y Protección al Ambiente y sus
-
-Reglamentos, como sigue:
+II. Se causarán derechos por concepto de control de flora y fauna, en concordancia con la Ley de Gestión Ambiental Sustentable para el Estado de Durango y sus Reglamentos, como sigue:
 
 1. Por la expedición de cada certificado 14
 
@@ -1917,19 +1915,9 @@ cinegéticos:
 
 A propietarios de predios (por hectárea). 3
 
-III. Los derechos que se causarán por
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MARZO DE 2016)</small>
 
-concepto de control y prevención de la
-
-contaminación del aire, se dividen en
-
-fuentes fijas y fuentes móviles en los
-
-términos de la Ley Estatal del Equilibrio
-
-Ecológico y Protección al Ambiente y sus
-
-reglamentos.
+III. Los derechos que se causarán por concepto de control y prevención de la contaminación del aire, se dividen en fuentes fijas y fuentes móviles en los términos de la Ley de Gestión Ambiental Sustentable para el Estado de Durango y sus reglamentos.
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -3702,5 +3690,13 @@ P.O. 20 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 507.- QUE CONTIENE REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor el día 1 de Enero del año 2016.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO NO. 478.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
