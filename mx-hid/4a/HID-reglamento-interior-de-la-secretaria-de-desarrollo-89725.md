@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-desarrollo-89725"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-08"
-last_updated: "2012-10-08"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de octubre de 2012.
 
@@ -99,7 +99,13 @@ a).- Despacho del Secretario;
 
 3.- Dirección Jurídica; y
 
-4.- Contraloría Interna.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+4. Órgano de control interno; y
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+5. Coordinación de Seguimiento Técnico
 
 b).- Subsecretaría de Desarrollo Agropecuario;
 
@@ -107,7 +113,13 @@ b).- Subsecretaría de Desarrollo Agropecuario;
 
 2.- Dirección General de Ganadería; y
 
-3.- Dirección General para la Huasteca Hidalguense.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+3. Dirección General para el Desarrollo Agropecuario y Maquinaria; y
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+4. Dirección General de Fomento Lechero
 
 c).- Subsecretaría de Desarrollo Rural;
 
@@ -115,7 +127,9 @@ c).- Subsecretaría de Desarrollo Rural;
 
 2.- Dirección General de Silvicultura y Acuacultura; y
 
-3.- Dirección General para el Valle del Mezquital.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+3. Dirección General para la Huasteca Hidalguense.
 
 d).- Subsecretaría de Agronegocios;
 
@@ -163,7 +177,7 @@ III.- Establecer mecanismos de planeación para el diseño, desarrollo, seguimie
 
 IV.- Someter a la consideración y aprobación del Gobernador, los programas sectoriales, regionales y especiales, el Programa Operativo Anual de Financiamiento, el Programa del Gasto Público y el Presupuesto de Egresos, correspondientes, así como formular los programas anuales respectivos en los términos de la Legislación aplicable y dirigir la ejecución de los mismos para cumplir con el Plan Estatal de Desarrollo y evaluar los resultados, de conformidad con las disposiciones aplicables;
 
-V.- Proponer al Ejecutivo Estatal los proyectos de iniciativas de Leyes, así como los proyectos de Reglamentos, Decretos, Acuerdos y órdenes relativos a los asuntos.de la competencia de la Secretaría y del Sector Paraestatal coordinado por ella;
+V.- Proponer al Ejecutivo Estatal los proyectos de iniciativas de Leyes, así como los proyectos de Reglamentos, Decretos, Acuerdos y órdenes relativos a los asuntos de la competencia de la Secretaría y del Sector Paraestatal coordinado por ella;
 
 VI.- Promover la creación y consolidación de organizaciones de productores agrícolas, ganaderos, forestales y pesqueros que participen e inviertan en las actividades agropecuarias, silvícolas y acuícolas;
 
@@ -303,6 +317,22 @@ X.- Proponer y coordinar la elaboración de proyectos de iniciativas de Leyes, R
 
 XI.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+###### Artículo 16 Bis.
+
+Corresponden a la Coordinación de Seguimiento Técnico las siguientes funciones:
+
+I. Apoyar al Secretario y las unidades Administrativas en el monitoreo e implementación de las actividades programadas relacionadas con la ejecución de los programas que tienen a su cargo, y en la articulación de las mismas a las metas y objetivos de cada programa;
+
+II. Coadyuvar al Secretario y las unidades Administrativas en la elaboración, integración y seguimiento de las actividades administrativas e informes;
+
+III. Vigilar y evaluar el cumplimiento de la normatividad expedida por el órgano rector para regular la organización, clasificación, transferencia, conservación o eliminación de los documentos que integren los archivos con motivo de la gestión administrativa;
+
+IV. Realizar las gestiones necesarias para localizar los documentos que contenga a información requerida en cada una de las solicitudes de acceso y remitirla a la Unidad en los plazos establecidos por la misma, en forma impresa o digital incluyendo los documentos anexos, privilegiando el principio de máxima publicidad, corrección de datos personales y el ejercicio de la acción de protección de datos personales, ó en su defecto hagan de su conocimiento la imposibilidad de su entrega, fundamentando y motivando las causas que la impiden; y
+
+V. Las demás que le confieran las disposiciones normativas aplicables y el Secretario.
+
 ### CAPÍTULO III. DE LAS FUNCIONES GENÉRICAS DE LAS SUBSECRETARÍAS
 
 ###### Artículo 17.
@@ -403,11 +433,19 @@ XXI.- Elaborar y aplicar programas de capacitación y actualización técnica en
 
 XXII.- Promover la sanidad animal, vegetal y acuícola en las Unidades de Producción del Estado; y
 
-XXIII.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIII. Apoyar el desarrollo del sector agropecuario y agroindustrial en el Estado mediante la centralización de maquinaria pesada y equipo, propiedad o arrendamiento del Gobierno del estado que ha sido asignada a la Secretaria de Desarrollo Agropecuario, a fin de que permita eficientar y simplificar las labores agrícolas, con el propósito de incrementar la productividad; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIV. Las demás que le confieran las disposiciones normativas vigentes y el Secretario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2016)</small>
 
 ###### Artículo 20.
 
-Corresponden a la Subsecretaría de Desarrollo Rural, las siguientes funciones:
+Corresponde a la Subsecretaria de Desarrollo Rural, Silvicultura y Acuacultura, las siguientes funciones:
 
 I.- Promover y coadyuvar en el desarrollo de las comunidades rurales, sujetándose al Plan Estatal de Desarrollo, así como vigilar que se generen y remitan oportunamente los informes de avance por programa y subprogramas de desarrollo rural;
 
@@ -483,7 +521,25 @@ X.- Definir las directrices y prioridades para el establecimiento de mecanismos 
 
 XI.- Impulsar la sociedad del conocimiento en el sector rural a través de la capacitación, el extensionismo, el uso intensivo de las tecnologías de información y comunicaciones y el aumento gradual de capital social; y
 
-XII.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XII. Proponer estrategias orientadas a garantizar el cumplimiento de los objetivos y metas sectoriales planteadas en el mediano y corto plazo;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIII. Coadyuvar en el diseño de modelos de prospección relacionados con el campo hidalguense que contribuyan a prevenir, programar y ejecutar acciones que cambien paulatinamente las condiciones actuales de desarrollo;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIV. Propiciar la creación de conocimiento sobre temas agroalimentarios;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XV. Fomentar la capacitación y el extensionismo rural; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVI. Las demás que le confieran las disposiciones normativas vigentes y el Secretario.
 
 ### CAPÍTULO V. DE LAS FUNCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES
 
@@ -609,23 +665,45 @@ XV.- Coadyuvar en el ámbito de su competencia, con las instancias operativas re
 
 XVI.- Las demás que le confieran las disposiciones legales vigentes en el Estado y el Subsecretario de Desarrollo Agropecuario, en el ámbito de su competencia.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+###### Artículo 26 Bis.
+
+Corresponden a la Dirección General de Fomento Lechero las siguientes funciones:
+
+I. Formular y ejecutar proyectos que impulsen la producción y comercialización de leche en el Estado;
+
+II. Promover la operación y desarrollo de los centros de acopio de leche en el Estado, para el cumplimiento de los estándares requeridos, de acuerdo a la normatividad aplicable;
+
+III. Proporcionar, dentro del ámbito de su competencia, asistencia técnica y capacitación a los productores en cuanto refiere a calidad e inocuidad del producto y subproductos, manejo de ganado, rutina y cuidados en la ordeña, transporte e infraestructura;
+
+IV. Promover y fortalecer los vínculos de cooperación y asistencia con centros de investigación, organismos públicos, sociales y privados, Nacionales y Extranjeros, a fin de impulsar la producción y productividad lechera; y
+
+V. Coordinar y supervisar las acciones que permitan el adecuado desarrollo de los programas a su cargo y que cumplan con las metas y objetivos.
+
 ###### Artículo 27.
 
 Corresponde a la Dirección General para la Huasteca Hidalguense, dentro de su ámbito de competencia en los Municipios de Atlapexco, Huautla, Huazalingo, Huejutla, Jaltocán, San Felipe Orizatlán, Yahualica y Xochiatipan, el ejercicio de las siguientes funciones:
 
-I.- Representar a la Secretaría en los municipios de su ámbito de competencia, así como, rendirlos informes correspondientes a la Subsecretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+I. Representar a la Secretaría en los municipios de su ámbito de competencia, así como, rendir los informes correspondientes a la Subsecretaría de Desarrollo Rural, Silvicultura y Acuacultura;
 
 II.- Coadyuvar en la ejecución de los programas y acciones, en el ámbito de su competencia, del sector agrícola, pecuario, silvícola y acuícola con apego a las normas y lineamientos que determinen el Secretario y las unidades administrativas centrales competentes e informarles de los avances y resultados de su ejercicio;
 
 III.- Promover la ejecución de acciones relacionadas con el fortalecimiento de los programas de desarrollo del sector en los Municipios;
 
-IV.- Mantener informado al Subsecretario de Desarrollo Agropecuario, sobre el avance de los programas y proyectos en materia del sector, de coordinación regional y Municipal;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+IV. Mantener informado al Subsecretario de Desarrollo Rural, Silvicultura y Acuacultura, sobre el avance de los programas y proyectos en materia del sector, de coordinación regional y Municipal;
 
 V.- Elaborar diagnósticos relativos a la problemática regional y local, en las materias competencia de la Secretaría;
 
 VI.- Supervisar la aplicación de los recursos autorizados a los programas y acciones del sector agropecuario, agrícola, silvícola y acuícola de conformidad con los acuerdos y la normatividad aplicable;
 
-VII.- Suscribir por mandato expreso del Subsecretario de Desarrollo Agropecuario, los documentos administrativos que impliquen la ejecución de programas a su cargo;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VII.- Suscribir por mandato expreso del Subsecretario de Desarrollo Rural, Silvicultura y Acuacultura, los documentos administrativos que impliquen la ejecución de programas a su cargo;
 
 VIII.- Participar en la elaboración y evaluación de los programas regionales y municipales de desarrollo agropecuario, acuícola, silvícola y de desarrollo rural;
 
@@ -647,9 +725,13 @@ XVI.- Colaborar en la integración de los registros y padrones de la producción
 
 XVII.- Proporcionar, con el apoyo de las demás unidades administrativas competentes de la Secretaría, asistencia técnica para el desarrollo de proyectos agropecuarios, acuícolas, hidroagrícolas, de desarrollo rural y comercialización;
 
-XVIII.- Acordar con el Subsecretario de Desarrollo Agropecuario la atención de los asuntos a su cargo que requieran de su intervención; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XIX.- Las demás que le confieran las disposiciones legales vigentes en el Estado y el Subsecretario de Desarrollo Agropecuario, en el ámbito de su competencia.
+XVIII. Acordar con el Subsecretario de Desarrollo Rural, Silvicultura y Acuacultura, la atención de los asuntos a su cargo que requieran de su intervención; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIX. Las demás que le confieran las disposiciones legales vigentes en el Estado y el Subsecretario de Desarrollo Rural, Silvicultura y Acuacultura, en el ámbito de su competencia.
 
 ###### Artículo 28.
 
@@ -697,43 +779,51 @@ IX.- Promover la participación de la sociedad en el desarrollo silvícola y acu
 
 X.- Las demás que le confieran las disposiciones legales vigentes en el Estado y el Subsecretario de Desarrollo Rural, en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
 ###### Artículo 30.
 
-Corresponden a la Dirección General para el Valle del Mezquital, dentro del ámbito de su competencia en los Municipios de Actopan, Ajacuba, Alfajayucan, El Arenal, Atitalaquia, Atotonilco de Tula, Chapantongo, Chilcuautla, Francisco I. Madero, Huichapan, Ixmiquilpan, Mixquiahuala, Nopala, Progreso, San Agustín Tlaxiaca, San Salvador, Tasquillo, Tecozautla, Tepejí del Río, Tepetitlán, Tetepango, Tezontepec, Tlahuelilpan, Tlaxcoapan y Tula de Allende, las siguientes funciones:
+Corresponden a la Dirección General para el Desarrollo Agropecuario y Maquinaria, dentro del ámbito de su competencia, las siguientes funciones:
 
-I.- Coadyuvar en la ejecución de los programas y acciones, en el ámbito de su competencia, de desarrollo rural, pecuario y agrícola con apego a las normas y lineamientos que determinen el Subsecretario de Desarrollo Rural, las unidades administrativas centrales competentes e informarles de los avances y resultados de su ejercicio;
+I. Coadyuvar en la ejecución de los programas y acciones, en el ámbito de su competencia, de desarrollo rural, pecuario y agrícola con apego a las normas y lineamientos que determinen el Subsecretario de Desarrollo Agropecuario, las unidades administrativas centrales competentes e informarles de los avances y resultados de su ejercicio;
 
-II.- Representar a la Secretaría en las instancias que competen al sector agrícola, pecuario, silvícola, acuícola y desarrollo rural, así como, rendir los informes correspondientes a la Subsecretaría de Desarrollo Rural;
+II. Representar a la Secretaría en las instancias que competen al sector agrícola, pecuario, silvícola, acuícola y desarrollo Agropecuario, así como, rendir los informes correspondientes a la Subsecretaría de Desarrollo Agropecuario;
 
-III.- Promover la ejecución de acciones relacionadas con el fortalecimiento de los programas de desarrollo del sector en los municipios;
+III. Promover la ejecución de acciones relacionadas con el fortalecimiento de los programas de desarrollo del sector en los municipios;
 
-IV.- Mantener informado al Subsecretario de Desarrollo Rural, sobre el avance de los programas y proyectos en materia de desarrollo rural, agrícola, pecuario, silvícola y acuícola, de coordinación regional y Municipal;
+IV. Mantener informado al Subsecretario de Desarrollo Agropecuario, sobre el avance de los programas y proyectos en materia de desarrollo rural, agrícola, pecuario, silvícola y acuícola, de coordinación regional y municipal;
 
-V.- Elaborar diagnósticos relativos a la problemática regional y local, en las materias competencia de la Secretaría;
+V. Elaborar diagnósticos relativos a la problemática regional y local, en las materias de competencia de la Secretaría;
 
-VI.- Supervisar la aplicación de los recursos autorizados a los programas y acciones del sector de conformidad con los acuerdos y la normatividad aplicable;
+VI. Supervisar la aplicación de los recursos autorizados a los programas y acciones del sector de conformidad con los acuerdos y la normatividad aplicable;
 
-VII.- Suscribir por mandato expreso del Subsecretario de Desarrollo Rural, los documentos administrativos que impliquen la ejecución de programas a su cargo;
+VII. Suscribir por mandato expreso del Subsecretario de Desarrollo Agropecuario, los documentos administrativos que impliquen la ejecución de programas a su cargo;
 
-VIII.- Participar en la elaboración y evaluación de los Programas Regionales y Municipales de Desarrollo Rural;
+VIII. Participar en la elaboración y evaluación de los programas regionales y municipales de desarrollo agropecuario;
 
-IX.- Elaborar la propuesta de su programa operativo anual, conforme a los lineamientos y procedimientos establecidos al respecto;
+IX. Elaborar la propuesta de su programa operativo anual, conforme a los lineamientos y procedimientos establecidos al respecto;
 
-X.- Promover en coordinación con los Municipios, la ejecución y supervisión los programas de la Secretaría, conforme a las normas, políticas públicas, procedimientos y mecanismos vigentes;
+X. Promover en coordinación con los Municipios, la ejecución y supervisión los programas de la Secretaría, conforme a las normas, políticas públicas, procedimientos y mecanismos vigentes;
 
-XI.- Impulsar el desarrollo de proyectos productivos y sociales de desarrollo rural, agrícola y fomento agropecuario;
+XI. Impulsar el desarrollo de proyectos productivos y sociales de desarrollo rural, agrícola y fomento agropecuario;
 
-XII.- Coadyuvar, en el ámbito de su competencia con los Municipios, en el desarrollo de las actividades de desarrollo rural, agrícola y pecuario;
+XII. Coadyuvar en el ámbito de su competencia con los Municipios, en el desarrollo de las actividades de desarrollo rural, agrícola y pecuario;
 
-XIII.- Promover y apoyar la organización y capacitación de productores y de la población rural;
+XIII. Promover y apoyar la organización y capacitación de productores y de la población rural;
 
-XIV.- Fomentar la participación de los sectores público, social y privado en acciones que contribuyan al desarrollo rural;
+XIV. Fomentar la participación de los sectores público, social y privado en acciones que contribuyan al desarrollo agropecuario;
 
-XV.- Proporcionar, con el apoyo de las demás unidades administrativas competentes de la Secretaría, asistencia técnica para el desarrollo de proyectos en el sector rural;
+XV. Fomentar la participación de los sectores público, social y privado en acciones que contribuyan al desarrollo agropecuario;
 
-XVI.- Acordar con el Subsecretario de Desarrollo Rural, la atención de los asuntos a su cargo que requieran de su intervención; y
+XVI. Acordar con el Subsecretario de Desarrollo Agropecuario, la atención de los asuntos a su cargo que requieran de su intervención;
 
-XVII.- Las demás que le confieran las disposiciones legales vigentes en el Estado y el Subsecretario de Desarrollo Rural, en el ámbito de su competencia.
+XVII. Regular la operación y administración del parque de maquinaria pesada y equipo para el desarrollo agropecuario, enfocando acciones para fortalecer el campo hidalguense, en beneficio de los productores y sus familias;
+
+XVIII. Determinar el tipo de maquinaria pesada y equipo a utilizar y los periodos de ejecución en función de los trabajos a realizar, del mismo modo supervisar en campo el desarrollo y rendimientos de los equipos, así como la programación de servicios y mantenimientos de la maquinaria y la coordinación de los operadores;
+
+XIX. Realizar las acciones y actividades inherentes a la utilización (sic) maquinaria pesada y equipo con la participación de los productores agropecuarios, organizaciones de productores agropecuarios, presidencias municipales, comisarias ejidales y dependencias gubernamentales estatales cuando los programas así lo requieran; y
+
+XX. Las demás que le confieran las disposiciones legales vigentes en (sic) Estado y el Subsecretario de Desarrollo Agropecuario.
 
 ###### Artículo 31.
 
@@ -793,15 +883,47 @@ X.- Instrumentar esquemas y modelos de prospección para el desarrollo del secto
 
 XI.- Diseñar, instrumentar y operar un sistema de evaluación sectorial basado en indicadores; y
 
-XII.- Las demás que le confieran las disposiciones legales vigentes en el Estado, y el Subsecretario de Planeación y Evaluación Sectorial, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-### CAPÍTULO VI (SIC). DE LA CONTRALORÍA INTERNA
+XII. Realizar estudios del sector agropecuario, forestal y pesquero que suministren elementos para el diseño de políticas públicas, planes, programas y proyectos estratégicos;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIII. Llevar a cabo análisis y estudios específicos regionales sobre las potencialidades y vocaciones y sus posibilidades de desarrollo integral, a través de la concurrencia de acciones;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIV. Establecer vínculos para la gestión de apoyos en investigación, transferencia de tecnología e innovación, con los productores, empresas e incubadoras de empresa de las IES;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XV. Realizar un programa de difusión de las actividades y potenciales de los actores involucrados en la Innovación agroalimentaria;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVI. Crear Redes de conocimiento sobre temas agroalimentarios con destacados profesionales del ramo, que permitan abordar problemáticas agroalimentarias con una base científica que permita la generación de nuevos productos, servicios, procesos, metodologías y aplicaciones de modelos, y por ende, genera oportunidades para contribuir a la equidad, la productividad, competitividad y sustentabilidad;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVII. Formular y desarrollar un programa continuo de capacitación y extensionismo integral en el sector agroalimentario que relacione a todos los actores de las cadenas agroalimentarias; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVIII. Las demás que le confieran las disposiciones legales vigentes en el Estado, y el Subsecretario de Planeación y Evaluación Sectorial, en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+### CAPÍTULO VII. DEL ÓRGANO DE CONTROL INTERNO
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
 
 ###### Artículo 33.
 
-Corresponde a la Contraloría Interna llevar a cabo las labores de control y evaluación que realicen las unidades administrativas de la Secretaría, conforme a las normas y lineamientos que determine la Secretaría de Contraloría y Transparencia Gubernamental del Gobierno del Estado, de conformidad con lo establecido en el Artículo 33 de la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y las demás tareas que le sean encomendadas.
+Corresponde al Órgano de Control Interno llevar a cabo las labores de control y evaluación que realicen las unidades administrativas de la Secretaría, conforme a las normas y lineamientos que determine la Secretaría de Contraloría y Transparencia Gubernamental del Gobierno del Estado, de conformidad con lo establecido en el artículo 33 de la Ley Orgánica de la Administración Pública para el Estado de Hidalgo y las demás tareas que le sean encomendadas.
 
-### CAPÍTULO VII. DE LOS ÓRGANOS DESCONCENTRADOS
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 7 DE MARZO DE 2016)</small>
+
+### CAPÍTULO VIII. DE LOS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 34.
 
@@ -848,3 +970,13 @@ Dado en la residencia del Poder Ejecutivo del Estado de Hidalgo, en la ciudad de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE MODIFICA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
