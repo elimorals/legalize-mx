@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-servicio-publico-de-cementerios-del-29738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-17"
-last_updated: "2003-03-17"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DEL SERVICIO PUBLICO DE CEMENTERIOS, DEL MUNICIPIO DE ABASOLO, NUEVO LEON
 
-REGLAMENTO DEL SERVICIO PUBLICO DE CEMENTERIOS DEL MUNICIPIO DE ABASOLO, NUEVO LEON
+REGLAMENTO DEL SERVICIO PÚBLICO DE CEMENTERIOS DEL MUNICIPIO DE ABASOLO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PÚBLICO DE CEMENTERIOS, PUBLICADO EN EL P.O. DE 7 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de marzo de 2003.
 
@@ -426,3 +428,15 @@ PRESIDENTE MUNICIPAL
 C. ROBERTO CORDERO MORALES.
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SERVICIO PÚBLICO DE CEMENTERIOS DEL MUNICIPIO DE ABASOLO, NUEVO LEÓN”.]
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado,
+
+SEGUNDO.- Se abroga el Reglamento de Servicio Público de Cementerio (sic) Publicado en el Periódico Oficial del 17 de Marzo del 2003.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
