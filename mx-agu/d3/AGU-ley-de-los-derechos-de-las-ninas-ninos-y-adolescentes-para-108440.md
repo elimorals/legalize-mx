@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2015-11-23"
+last_updated: "2016-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -563,9 +563,11 @@ Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de 
 
 Las autoridades estatales y municipales, estarán obligadas, en el ámbito de sus respectivas competencias, a establecer políticas públicas, programas y acciones que ayuden a generar las condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada y con ello asegurar los derechos de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
 ###### Artículo 45.
 
-La legislación Civil del Estado establecerá como edad mínima para contraer matrimonio los 18 años y los supuestos en que podrá exceptuarse ese límite de edad.
+La legislación Civil del Estado establecerá como edad mínima para contraer matrimonio los 18 años.
 
 ### CAPÍTULO IX. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
@@ -1906,3 +1908,11 @@ P.O. 23 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 317.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
