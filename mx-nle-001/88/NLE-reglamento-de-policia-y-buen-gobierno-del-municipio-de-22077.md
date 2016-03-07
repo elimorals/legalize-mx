@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-22077"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-23"
-last_updated: "2001-09-03"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE ABASOLO, N . L
 
-REGLAMENTO DE POLICÍA Y BUEN GOBIERNO
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE ABASOLO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2001.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE POLICÍA, BUEN GOBIERNO Y ORDEN SOCIAL DEL MUNICIPIO DE ABASOLO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 7 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de julio de 1993.
 
@@ -555,3 +557,13 @@ P.O. 3 DE SEPTIEMBRE DE 2001.
 Artículo Primero. La Secretaría del R. Ayuntamiento deberá turnar para su publicación el presente acuerdo, tanto en la Gaceta como en el Periódico Oficial del Estado. De conformidad con lo establecido en el artículo 27 fracción IV 167 de la Ley Orgánica de la Administración Pública Municipal y 45 del Reglamento de Policía y Buen Gobierno de este municipio.
 
 Artículo segundo. La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE POLICÍA, BUEN GOBIERNO Y ORDEN SOCIAL DEL MUNICIPIO DE ABASOLO, NUEVO LEÓN”.]
+
+PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abroga el Reglamento de Policía y Buen Gobierno Publicado en (sic) Periódico Oficial del 23 de julio de 1993.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
