@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-obras-publicas-y-89838"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-01"
-last_updated: "2012-10-01"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
 
 Reglamento publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 1 de octubre de 2012.
 
@@ -35,9 +35,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITOR
 
 ### CAPÍTULO I. DE LA COMPETENCIA DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto fijar y regular la organización y funcionamiento de la Secretaría de Obras Públicas y Ordenamiento Territorial del Gobierno del Estado.
+El presente reglamento tiene por objeto normar la estructura, organización y funcionamiento de la Secretaría de Obras Públicas y Ordenamiento Territorial, como dependencia del Poder Ejecutivo del Estado de Hidalgo, así como detallar y distribuir sus atribuciones.
 
 ###### Artículo 2.
 
@@ -97,11 +99,15 @@ a).- Despacho del Secretario:
 
 2.- Dirección General de Administración de Programas de Obra;
 
-3.- Dirección General de Procedimientos y Asistencia de Obra;
+3.- (DEROGADO, P.O. 7 DE MARZO DE 2016)
 
 4.- Dirección General de Gestión y Acuerdos; y
 
 5.- Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+6.- Coordinación de la Unidad de Proyectos;
 
 b).- Subsecretaría de Obras Públicas:
 
@@ -215,11 +221,17 @@ XXX.- Proponer al Gobernador la celebración de convenios de coordinación y col
 
 XXXI.- Autorizar las políticas generales del uso de suelo y emitir normas técnicas en materia de ordenamiento territorial y desarrollo urbano;
 
-XXXII.- Proyectar, construir, reconstruir, ampliar, modernizar, operar, administrar, explotar, rehabilitar y conservar por sí o por terceros, mediante financiamiento del Estado o de particulares, a través de contratos, permisos o autorizaciones según sea el caso, en términos de las disposiciones aplicables, los caminos y puentes de competencia Estatal;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXXII.- Proyectar, construir, reconstruir, ampliar, modernizar, operar, administrar, explotar, rehabilitar y conservar por sí o por terceros, mediante financiamiento del Estado o de particulares, a través de contratos, permisos o autorizaciones según sea el caso, en términos de las disposiciones aplicables, los caminos y puentes de competencia estatal.
+
+Suscribir los contratos y convenios de las Obras Públicas y Servicios relacionados con las mismas, así como adquisiciones y arrendamientos, autorizadas a esta Secretaría para su ejecución y delegar esta facultad cuando lo considere necesario;
 
 XXXIII.- Instrumentar políticas y acciones, tendientes a la creación y funcionamiento de Organismos Descentralizados Estatales y Municipales, para la prestación de servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, conforme a las Leyes en la materia, para cuyos efectos corresponderá prestar asesoría y asistencia técnica a los Municipios, cuando estos lo soliciten;
 
-XXXIV.- Presidir la Junta de Gobierno de los Organismos Descentralizados sectorizados a la Secretaría;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXXIV.- Presidir la Junta de Gobierno de los organismos descentralizados sectorizados a la Secretaría, empresas de participación estatal mayoritaria y Fideicomisos Públicos, debidamente inscritos en el Registro Público de Organismos Descentralizados;
 
 XXXV.- Planear, coordinar y evaluar la operación de los organismos descentralizados sectorizados a la Secretaría; y
 
@@ -329,13 +341,23 @@ XV.- Proporcionar asesoría a los Ayuntamientos y, en su caso, convenir la elabo
 
 XVI.- Formular y emitir los dictámenes de congruencia de los Programas de Desarrollo Urbano Municipal, de centros de población y parciales, así como de aquellas acciones que impacten el territorio;
 
-XVII.- Coordinar con las Dependencias y Entidades de la Administración Pública Estatal y Municipal, la instrumentación del desarrollo y equipamiento urbano, así como coadyuvar con la Secretaría de Finanzas y Administración, en la conformación del catastro, bajo un enfoque de desarrollo sustentable;
+XVII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
 XVIII.- Coordinar la participación de la Secretaría en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo metropolitano, conjuntamente con las instituciones responsables, en el ámbito regional e Intermunicipal que establezca el Plan Estatal de Desarrollo;
 
 XIX.- Dirigir, en coordinación con las autoridades competentes y conforme a las Leyes aplicables en ordenamiento territorial, la regularización de la tenencia de la tierra, independientemente de su régimen y de los asentamientos humanos existentes; y,
 
-XX.- Las demás que le encomienden expresamente las Leyes y Reglamentos vigentes en el Estado y el Secretario.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE MARZO DE 2016)</small>
+
+XX.- Formular, emitir y vigilar las autorizaciones de protocolización, venta de lotes y la constitución y cambio de Régimen de Propiedad en Condominio, de conformidad con la legislación vigente en la materia y a las normas y lineamientos establecidos en los Programas de Desarrollo Urbano y Ordenamiento Territorial, a efecto de garantizar su cumplimiento por parte de los desarrolladores;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXI.- Coadyuvar con los municipios, de conformidad con la legislación vigente en la materia y en los Programas de Desarrollo Urbano y Ordenamiento Territorial, a fin de emitir las constancias de viabilidad para acciones urbanas, que se pretendan desarrollar por parte de los municipios y que éstas sean de impacto significativo, así como para la formulación y emisión de autorizaciones de uso de suelo para fraccionar, lotificaciones, re lotificaciones, fusiones, subdivisiones y fraccionamientos de áreas o predios en el territorio del estado, tanto de obra pública como privada; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXII.- Las demás que le encomienden expresamente las Leyes y Reglamentos vigentes en el Estado y el Secretario.
 
 ###### Artículo 19.
 
@@ -351,7 +373,9 @@ IV.- Coordinar la planeación de los recursos a ejercer por la Secretaría, en m
 
 V.- Proponer al Secretario, la planeación, presupuestación y programación de los recursos para obra, asignados para el ejercicio;
 
-VI.- Elaborar y coordinar los programas de planeación, que contribuyan a mantener, expandir y construir obra pública, en observancia de la normatividad en la materia, así como formular, elaborar y actualizar, en coordinación con las autoridades competentes, la propuesta sectorial del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VI.- Diseñar, conducir y supervisar las modificaciones necesarias para el cumplimiento de la planeación, objetivos y metas de los programas que son responsabilidad de la Secretaría, así como normar técnicamente en materia de comunicaciones y obras públicas a las Entidades, Dependencias y Municipios;
 
 VII.- Diseñar, conducir y supervisar las modificaciones necesarias para el cumplimiento de la planeación, objetivos y metas de los programas que son responsabilidad de la Secretaría;
 
@@ -361,7 +385,9 @@ IX.- Integrar conjuntamente con la Dirección General de Administración de Prog
 
 X.- Coordinar y supervisar la integración de la información de la Secretaría para los informes anuales de Gobierno, conforme a los lineamientos establecidos;
 
-XI.- Coordinar conjuntamente con las áreas de planeación a nivel Federal y Estatal, los requerimientos de la ciudadanía;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XI.- Instrumentar los esquemas que permitan llevar la planeación, evaluación, control y seguimiento, de la obra pública ejecutada por la Secretaría, en estrecha relación con los organismos descentralizados sectorizados;
 
 XII.- Instrumentar los esquemas que permitan llevar el control de la obra ejecutada por la Secretaría, en estrecha relación con los organismos descentralizados sectorizados;
 
@@ -385,15 +411,25 @@ XXI.- Coordinar la elaboración de los estudios y proyectos que contribuyan a de
 
 XXII.- Coordinar y vigilar la realización de las visitas técnicas de campo para evaluar e integrar las propuestas para la selección de proyectos de impacto social y económico;
 
-XXIII.- Coordinar y revisar la elaboración de los términos de referencia, que permitan garantizar los objetivos y alcances de los proyectos en materia de infraestructura productiva y básica;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIII.- Coordinar y vigilar que se cumpla con la normativa y calidad de materiales que se utilizan para la construcción de obras de infraestructura productiva y básica, en apego a las características y condiciones indicadas en los proyectos, de acuerdo con los lineamientos y criterios establecidos en las normas vigentes expedidas por la Secretaría de Comunicaciones y Transportes;
 
 XXIV.- Coordinar y vigilar que se cumpla con la calidad de materiales que se utilizan para la construcción de obras de infraestructura productiva y básica, en apego a las características y condiciones indicadas en los proyectos, de acuerdo con los lineamientos y criterios establecidos en las normas vigentes expedidas por la Secretaría de Comunicaciones y Transportes Federal;
 
 XXV.- Coordinar y supervisar que las obras sean construidas con apego al proyecto ejecutivo validado por las Dependencias normativas;
 
-XXVI.- Supervisar que realicen las pruebas de laboratorio necesarias para llevar el control de calidad de los materiales utilizados en las obras en proceso de construcción; y,
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XXVII.-Las demás que le encomienden expresamente las Leyes y Reglamentos vigentes en el Estado y el Secretario.
+XXVI.- Proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas planteadas en los programas, a cargo de esta Secretaría a través de los manuales, normas técnicas y administrativas, que para dicho fin se emitan;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE MARZO DE 2016)</small>
+
+XXVII.- Asistir en Representación del Secretario, a las sesiones de trabajo de los Órganos de Gobierno, Juntas o su equivalente, de las Entidades Paraestatales, Empresas de Participación Estatal Mayoritaria y Fideicomisos Públicos, debidamente inscritos en el Registro Público de Organismos Descentralizados; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXVIII.- Las demás que le encomienden expresamente las Leyes y Reglamentos vigentes en el Estado y el Secretario.
 
 ### CAPÍTULO IV. DE LAS FUNCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES
 
@@ -445,7 +481,9 @@ XV.- Las demás que les confieran las disposiciones legales vigentes en la Entid
 
 Corresponden al Director General de Control y Enlace Normativo las siguientes funciones:
 
-I.- Representar legalmente a la Secretaría, Secretario y unidades administrativas que la conforman ante personas físicas y morales, autoridades administrativas, judiciales, legislativas, militares y Organismos Autónomos del Fuero Federal, Estatal y Municipal; así como presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos en los que tenga interés o injerencia la Secretaría y suscribirlas en ausencia del Secretario;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+I.- Representar legalmente a la Secretaría, Secretario y unidades administrativas que la conforman, ante personas físicas y morales, autoridades administrativas, judiciales, legislativas, militares y organismos autónomos del fuero federal, estatal y municipal; así como presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos en los que tenga interés o injerencia la Secretaría y suscribirlas;
 
 II.- Otorgar, sustituir y revocar poder general para pleitos y cobranzas en favor de los servidores públicos designados por el Secretario, a efecto de que representen al Estado Libre y Soberano de Hidalgo en cualquier proceso o procedimiento en que se encuentre involucrada la Secretaría;
 
@@ -453,97 +491,149 @@ III.- Supervisar las autorizaciones que se otorguen respecto al derecho de vía 
 
 IV.- Supervisar la elaboración y cumplimiento de los convenios que en su caso, se suscriban con los municipios, de conformidad con las Leyes aplicables en materia de asentamientos humanos, desarrollo urbano y ordenamiento territorial;
 
-V.- Supervisar y coordinar las respuestas que la Secretaría emita en los asuntos relativos al ejercicio o no del derecho de preferencia sobre inmuebles en términos de las Leyes de la materia;
+V.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-VI.- Supervisar el seguimiento y cumplimiento de las observaciones realizadas por la Secretaría de la Contraloría y Transparencia Gubernamental, la Auditoría Superior del Estado de Hidalgo y los órganos de fiscalización Federales;
+VI.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-VII.- Fungir como enlace ejecutivo con los organismos descentralizados sectorizados a la Secretaría;
+VII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
 VIII.- Otorgar asesoría jurídica a los organismos descentralizados sectorizados a la Secretaría;
 
 IX.- Coordinar las acciones necesarias con las diferentes unidades administrativas de la Secretaría y organismos sectorizados para el trámite de los asuntos que le encomiende el Secretario;
 
-X.- Supervisar los asuntos y documentos enviados por los organismos sectorizados, para trámite, gestión y firma del Secretario;
+X.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-XI.- Supervisar las actuaciones en los procedimientos administrativos radicados en la Dirección General de Ordenamiento Territorial;
+XI.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-XII.- Supervisar la emisión de las autorizaciones, licencias o permisos que la Secretaría emita en los uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios, que se expidan en el Estado; así como en la autorización de lotificaciones, relotificaciones, fusiones, subdivisiones y fraccionamientos de áreas o predios en el Territorio del Estado; y en la constitución y cambios de régimen de propiedad en condominio, tanto de obra pública como privada;
+XII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
 XIII.- Supervisar las actas de las sesiones de los Comités de Obra Pública Federal y Estatal;
 
-XIV.- Supervisar las etapas de los procedimientos de contratación de obras públicas, servicios relacionados con las mismas, adquisiciones y arrendamientos;
+XIV.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-XV.- Supervisar el cumplimiento de los contratos en materia de obra pública y servicios relacionados con la misma, celebrados por la Secretaría, y, en su caso, instar a las áreas ejecutoras para iniciar los procedimientos administrativos y jurisdiccionales que correspondan;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XVI.- Supervisar el cumplimiento de los convenios de coordinación con la Administración Pública Federal, Estatal y Municipal, tendientes a la construcción de obras y la prestación de servicios públicos de beneficio social;
+XV.- Dar inicio a los procedimientos administrativos y/o jurisdiccionales que correspondan, previo aviso por escrito que realicen las áreas ejecutoras por el incumplimiento de los contratos en materia de obra pública, adquisiciones, arrendamientos y servicios relacionados con las mismas, celebrados por la Secretaría;
 
-XVII.- Supervisar y coordinar los asuntos competencia de la Subdirección de Gestión Jurídica;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XVIII.- Proponer, desarrollar, coordinar, ejecutar y evaluar los programas, proyectos, acciones y demás asuntos que les sean asignados por el Secretario; y
+XVI.- Asesorar en la elaboración de los convenios de coordinación con la Administración Pública Federal, Estatal y Municipal, tendientes a la construcción de obras y la prestación de servicios públicos de beneficio social;
 
-XIX.- Las demás que le confieran las disposiciones legales vigentes y el Secretario, en el ámbito de su competencia.
+XVII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XVIII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIX.- Tramitar, elaborar, concertar, negociar, suscribir, gestionar, la liberación de los terrenos que se requiera adquirir como derecho de vía en los términos de la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XX.- Las demás que le confieran las disposiciones legales vigentes y el Secretario, en el ámbito de su competencia.
 
 ###### Artículo 24.
 
 Corresponden al Director General de Administración de Programas de Obra, las siguientes funciones:
 
-I.- Aplicar y vigilar el cumplimiento de las normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales que deba observar la Secretaría, establecidas por las Dependencias competentes;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-II.- Establecer y vigilar la aplicación de las normas y lineamientos relativos a la organización, funcionamiento, calidad y mejoramiento de las unidades administrativas de la Secretaría;
+I.- Aplicar y vigilar el cumplimiento de las normas, lineamientos, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales que corresponda observar la Secretaría, establecidos por las dependencias competentes;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+II.- Establecer y vigilar la aplicación de las normas y lineamientos administrativos relativos a la organización, funcionamiento, calidad y mejoramiento de las unidades presupuestales de la Secretaría;
 
 III.- Garantizar que las unidades administrativas de la Secretaría cuenten con los equipos y materiales necesarios para el cumplimiento de las funciones encomendadas;
 
 IV.- Integrar conjuntamente con la Subsecretaría Técnica y someter a la consideración del Secretario, el Programa Operativo Anual, con base en las propuestas presentadas por los titulares de las unidades administrativas;
 
-V.- Integrar anualmente el anteproyecto de Presupuesto de Egresos de la Secretaría;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-VI.- Llevar el control y registro del presupuesto aprobado, modificado, comprometido, devengado, ejercido, comprobado y pagado;
+V.- Integrar anualmente el anteproyecto de Presupuesto de Egresos correspondiente al gasto de operación de la Secretaría;
 
-VII.- Diseñar, normar y coordinar la operación del Sistema de Contabilidad por programa, de las distintas obras ejecutadas por la Secretaría y de los servicios relacionados con las mismas, conforme a los lineamientos y normas que establezcan las autoridades competentes;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-VIII.- Integrar la información de la Secretaría, para la elaboración de la cuenta de la Hacienda Pública Estatal, y la que le sea requerida por las autoridades competentes;
+VI.- Llevar el control y registro del presupuesto aprobado, modificado, comprometido, devengado, ejercido y pagado, de las obras públicas y servicios relacionados con las mismas, que son autorizadas a esta Secretaría;
 
-IX.- Llevar a cabo los procedimientos de licitación pública, invitación a cuando menos tres personas y adjudicación directa, de las obras públicas, adquisiciones, arrendamientos y servicios relacionados con las mismas, autorizadas a esta Secretaría para su ejecución, de conformidad con lo establecido por la normatividad aplicable en la materia;
+VII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-X.- Expedir las convocatorias, bases y términos de referencia a que se deberán sujetar los procesos descritos en el numeral anterior de las obras públicas y servicios relacionados con las mismas autorizados a esta Secretaría para su ejecución, de conformidad con lo establecido por la normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XI.- Elaborar y formalizar los contratos y convenios de las obras públicas, adquisiciones, arrendamientos y servicios relacionados con las mismas, autorizadas a esta Secretaría para su ejecución;
+VIII.- Integrar la información de la Secretaría, para la elaboración de la cuenta de la Hacienda Pública Estatal, así como realizar los informes trimestrales a la Secretaria de Hacienda y Crédito Público, a la Auditoria Superior del Estado y la que le sea requerida por las autoridades competentes;
 
-XII.- Desarrollar las actividades necesarias para el correcto desempeño de las funciones de los Comités de Obra Pública y Servicios Relacionados con las Mismas en virtud de lo que prevén la Ley de Obras Públicas y Servicios Relacionados con las Mismas, la Ley de Obras Públicas del Estado de Hidalgo y lo aplicable de sus respectivos Reglamentos, así mismo tener a su cargo el archivo documental de dichos comités debiendo conservarlos en custodia;
+IX.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-XIII.- Proponer al Secretario las altas, bajas, licencias, promociones y todo lo referente a recursos humanos;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XIV.- Coordinar los programas de desarrollo de personal, instrumentados por la Dependencia competente, que conlleven al fortalecimiento de la profesionalización de los servidores públicos de la Secretaría;
+X.- Diseñar y expedir las convocatorias, bases y términos de referencia a los que se deberán sujetar los procedimientos de licitación pública, invitación a cuando menos tres personas y de adjudicación directa de las obras publicas y servicios relacionados con las mismas autorizados a esta Secretaría para su ejecución, de conformidad con lo establecido por la normatividad aplicable;
 
-XV.- Coordinar las actividades relativas a la elaboración de manuales de organización, de procedimientos, de servicios al público y de políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas, así como presentar las propuestas de cambios a la organización y funcionamiento de las unidades administrativas que le presenten sus Titulares;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XVI.- Integrar los expedientes unitarios de obra con toda la documentación generada desde los procesos de planeación, programación y presupuestación de la obra hasta su conclusión, incluyendo su entrega-recepción y cancelación de garantías para cubrir defectos, vicios ocultos y alguna otra responsabilidad no cumplida, en su caso;
+XI.- Elaborar, formalizar y firmar los contratos y convenios de las obras públicas, adquisiciones, arrendamientos y servicios relacionados con las mismas, autorizadas a esta Secretaría para su ejecución;
 
-XVII.- Establecer los mecanismos necesarios para la presentación, conformación, organización y custodia de los expedientes unitarios de obra de la Secretaría;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XVIII.- Operar y controlar el Sistema de Bitácora Electrónica de Obra Pública, a efecto de facilitar el acceso a la información, apoyar la transparencia, el control y seguimiento en la ejecución de la obra pública;
+XII.- Coordinar las actividades necesarias para el correcto desempeño de las funciones de los Comités de Obra Pública y Servicios Relacionados con las Mismas, de conformidad con lo que prevé la normatividad federal y estatal, así mismo tener a su cargo el archivo documental de dichos comités debiendo conservarlos en custodia;
 
-XIX.- Establecer los mecanismos de atención y seguimiento de auditorías que practiquen las autoridades fiscalizadoras a la Secretaría, así como coordinar la solventación de observaciones y recomendaciones derivadas de las mismas; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XX.- Las demás que le confieran las disposiciones legales vigentes en la Entidad y el Secretario, en el ámbito de su competencia.
+XIII.- Proponer al Secretario las altas, bajas, promociones y todo lo referente a la administración de los recursos humanos;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIV.- Coordinar los programas de desarrollo de personal, instrumentados por las Dependencias competentes, que conlleven al fortalecimiento de la profesionalización de los servidores públicos de la Secretaría;
+
+XV.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XVI.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XVII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XVIII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XIX.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XX.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXI.- Participar en la elaboración de las propuestas de cambios a la organización y funcionamiento de las unidades administrativas que presenten los Titulares;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXII.- Participar en las actividades relativas a la elaboración de procedimientos, de servicios al público en general;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIII.- Analizar y en su caso validar que los precios unitarios para la programación y presupuestación de obra pública se apeguen a la normatividad, lineamientos, políticas y bases correspondientes;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIV.- Elaborar políticas, bases y lineamientos en materia de procedimientos de contratación de obras públicas y servicios relacionados con las mismas de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXV.- Llevar a cabo los procedimientos de licitación pública, invitación a cuando menos tres personas, adjudicación directa de las obras públicas, adquisiciones, arrendamientos y servicios relacionados con las mismas, autorizadas a esta Secretaría para su ejecución, de conformidad con la normatividad aplicable en la materia;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXVI.- Revisar, analizar y validar las pólizas de fianzas de anticipo, cumplimiento y vicios ocultos, así como dar trámite a la solicitud de cancelación de las mismas de parte de los contratistas o proveedores, previa autorización del área ejecutora;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXVII.- Brindar el apoyo que sea solicitado por otras dependencias, organismos públicos o municipios para asesoría o llevar a cabo procedimientos de adjudicación y contratación según sea el caso, previo acuerdo de coordinación entre las partes;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXVIII.- Proveer, distribuir y controlar de acuerdo a la disponibilidad, mobiliario, parque vehicular, equipos y materiales necesarios para el cumplimiento de las funciones de las unidades presupuestales de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIX.- Las demás que le confieran las disposiciones legales vigentes en la Entidad y el Secretario, en el ámbito de su competencia.
 
 ###### Artículo 25.
 
-Corresponden al Director General de Procedimientos y Asistencia de Obra las siguientes funciones:
-
-I.- Coadyuvar en la realización de los diagnósticos de operatividad administrativa y establecer los mecanismos necesarios para la evaluación permanente de las unidades administrativas de la Secretaría;
-
-II.- Apoyar a las unidades administrativas de la Secretaría en lo que le soliciten para la debida integración de los expedientes de obra pública;
-
-III.- Proporcionar la información, documentación e informes de las diferentes obras que se ejecuten por la Secretaría que le sea requerida por otras Dependencias;
-
-IV.- Coordinar y verificar el flujo de información entre las diversas unidades administrativas;
-
-V.- Revisar y modernizar los procedimientos de simplificación administrativa de la obra pública y servicios relacionados con la misma;
-
-VI.- Apoyar al Secretario en la vigilancia y cumplimiento de las disposiciones administrativas, acuerdos, circulares y demás disposiciones relacionadas con la competencia de la Secretaría; y
-
-VII.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario, en el ámbito de su competencia.
+(DEROGADO, P.O. 7 DE MARZO DE 2016)
 
 ###### Artículo 26.
 
@@ -559,9 +649,63 @@ IV.- Estructurar los acuerdos que el Secretario proponga al Gobernador, para la 
 
 V.- Realizar el seguimiento de los planes y programas estacionales para aprovechar la mano de obra y materiales regionales, así como aquellas organizaciones de sociedades cooperativas, que se constituyan, con el fomento de la Secretaría;
 
-VI.- Recibir y registrar la documentación oficial de la Secretaría, así como las quejas y solicitudes que se presenten, y canalizarlas a las unidades administrativas correspondientes; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-VII.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario, en el ámbito de su competencia.
+VI.- Coordinar la difusión institucional, metas, alcances y acciones de la Secretaría, así como mantener informados a la sociedad en general y a los medios de comunicación nacionales y locales en particular, sobre proyectos, inicios, avances, conclusiones, cierres y afectaciones viales de obras;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VII.- Atender las solicitudes de acceso a la información pública gubernamental para su respuesta, así como la correspondencia recibida por el Despacho del Secretario, con apego a la transparencia;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VIII.- Coordinar el desarrollo e Implementación, de tecnologías y sistemas de información y comunicación, mejorando la transparencia, los objetivos, actividades, seguimiento, evaluación y difusión de obra, así como optimizar el correcto empleo del parque computacional;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+IX.- Coordinar las actividades relativas a la elaboración, modificación y actualización del Reglamento Interior, de manuales de organización, de procedimientos, de servicios al público y de políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas, así como presentar a la Dirección General de Administración de Programas de Obra, las propuestas de cambios a la organización y funcionamiento de las unidades administrativas que le presenten sus Titulares;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+X.- Vigilar el cumplimiento de las disposiciones administrativas, para el registro y administración de archivos, instrumentos, catálogos documentales y demás actividades relacionadas, competencia de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XI.- Coordinar el desarrollo e implementación de herramientas metodológicas para la mejora, mediante innovación en la generación y manejo de la información, con base en el uso de las tecnologías de la información y comunicación al servicio del personal de la Secretaría, que permitan generar resultados de obra, de manera, eficaz, eficiente, confiable, consolidada y actualizada; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XII.- Las demás que le confieran las disposiciones normativas vigentes y el Secretario, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+###### Artículo 26 Bis.
+
+Corresponden al Coordinador de la Unidad de Proyectos las siguientes funciones de carácter específico:
+
+I. Proponer las políticas públicas, para el desarrollo de proyectos, con apego al Plan Estatal de Desarrollo;
+
+II. Elaborar las investigaciones necesarias, para generar y ejecutar los proyectos, en coordinación con las dependencias federales, estatales, municipales y áreas ejecutoras de la Secretaría, de naturaleza especial o estratégica;
+
+III. Efectuar de acuerdo con el Presupuesto de Egresos del Estado, en forma directa o por contrato con particulares, los proyectos de Gobierno del Estado o de los municipios que le sean encomendados y de los servicios relacionados con aquella;
+
+IV. Proponer al Titular de la Secretaría, la celebración de acuerdos de coordinación con dependencias y entidades de la administración pública Federal, Estatal y Municipal, para proporcionar apoyo técnico y asesoría, en la realización de proyectos de obra;
+
+V. Brindar atención y seguimiento a los compromisos derivados de los convenios firmados por el Gobernador o por el Titular de la Secretaría, con el Estado, la Federación, las Entidades Federativas y los Municipios, en materia de proyectos;
+
+VI. Fundar, motivar y justificar, que los proyectos de carácter estratégico, que le sean encomendados, cumplan con las especificaciones técnicas requeridas, con estricto apego a la normatividad vigente;
+
+VII. Integrar con carácter de estratégico, cualquier proyecto que emprenda la Coordinación, integrando la debida justificación social, técnica y presupuestal, para su planeación, desarrollo y ejecución, cumpliendo con los estándares de calidad en normas de construcción publicadas por las autoridades Federales, Estatales, Municipales y Colegios de Profesionistas del ramo;
+
+VIII. Implementar las acciones de coordinación institucional que propicien el mejoramiento, operación y uso eficiente de los recursos, en la elaboración y ejecución de estudios y proyectos, de carreteras, caminos, edificios, centrales de autotransporte, sistemas de agua potable, alcantarillado y saneamiento en zonas urbanas y rurales de carácter normal o estratégico;
+
+IX. Someter a revisión de viabilidad y validación por parte de la Secretaría de Planeación, Desarrollo Regional y Metropolitano, todos los proyectos estratégicos, de cualquier Línea de Acción que tiene contemplado el Plan Estatal de Desarrollo o el Presupuesto de Egresos correspondiente, solicitando, la identificación de la fuente de financiamiento, por la Secretaría de Finanzas y Administración y en su caso, ser programado dentro del Proyecto de Presupuesto de Egresos del siguiente Ejercicio Fiscal;
+
+X. Elaborar e instrumentar las herramientas, procesos, modelos y recursos necesarios para la ejecución (sic) proyectos de carácter público-privado o auto-financiable, que sean necesarios para el desarrollo estratégico de una área, zona, región o en todo el Estado;
+
+XI. Coordinar y vigilar que se cumpla con la normativa y calidad de materiales que se utilizan para la construcción de obras de infraestructura productiva y básica, en apego a las características y condiciones indicadas en los proyectos, de acuerdo con los lineamientos y criterios establecidos en las normas vigentes expedidas por las autoridades en la materia; y
+
+XII. Las demás que le encomienden expresamente las Leyes y Reglamentos vigentes en el Estado y el Secretario.
 
 ###### Artículo 27.
 
@@ -655,7 +799,9 @@ III.- Promover, ante los municipios del Estado, que la planeación del uso del s
 
 IV.- Formular y proponer a su superior jerárquico para el respectivo acuerdo con el Secretario, la celebración de convenios de coordinación y colaboración con la Administración Pública en los tres niveles de Gobierno, tendientes a la planeación, operación y control del desarrollo urbano, de los asentamientos humanos y de su equipamiento;
 
-V.- Coadyuvar con los municipios, mediante la suscripción de convenios y de conformidad con las leyes de la materia, en la planeación, control, administración del uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios, que se expidan en el Estado, así como en la autorización de lotificaciones, relotificaciones, fusiones, subdivisiones y fraccionamientos de áreas o predios en el Territorio del Estado; y en la constitución y cambios de régimen de propiedad en condominio, tanto de obra pública como privada;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+V.- Coadyuvar con los municipios, mediante la suscripción de convenios y de conformidad con las leyes de la materia, en la planeación, control, administración del uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios, que expida en el Estado; así como participar en la autorización de lotificaciones, relotificaciones, fusiones, subdivisiones y fraccionamientos de áreas o predios en el Territorio del Estado; y en la constitución y cambios de régimen de propiedad en condominio, tanto de obra pública como privada;
 
 VI.- Instrumentar mecanismos, intervenir y participar, conforme a las leyes aplicables, en el ordenamiento territorial y en la regularización de la tenencia de la tierra, independientemente de su régimen y de los asentamientos humanos existentes;
 
@@ -691,7 +837,13 @@ XXI.- Tramitar los procedimientos administrativos que se deriven de la aplicaci�
 
 XXII.- Formular y evaluar los proyectos de declaratorias sobre provisiones, reservas, destinos y usos del suelo; y
 
-XXIII.- Las demás que le confieran las disposiciones normativas vigentes y su superior jerárquico inmediato, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIII.- Coordinar con las Dependencias y Entidades de la Administración Pública Estatal y Municipal, la instrumentación del desarrollo y equipamiento urbano, así como coadyuvar con la Secretaría de Finanzas y Administración, en la conformación del catastro, bajo un enfoque de desarrollo sustentable; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIV.- Las demás que le confieran las disposiciones normativas vigentes y su superior jerárquico inmediato, en el ámbito de su competencia.
 
 ###### Artículo 31.
 
@@ -709,7 +861,9 @@ V.- Realizar visitas técnicas de campo, para la recopilación de información b
 
 VI.- Elaborar los términos de referencia, que permitan garantizar los objetivos y los alcances del proyecto en materia de infraestructura productiva y básica, tales como: caminos, carreteras, puentes, drenaje, agua potable, en el ámbito urbano y rural, de entre otros;
 
-VII.- Brindar asesoría, supervisión, consultoría en control de calidad de materiales y obras, estudios y proyectos a Dependencias, Entidades, Municipios e iniciativa privada, para lo que podrá convenirse el pago de estos servicios;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VII.- Brindar asesoría, supervisión, consultoría en control de calidad de materiales y obras, estudios y proyectos a Dependencias, Entidades, Municipios, iniciativa privada y sector social, para lo que podrá convenirse el pago de estos servicios;
 
 VIII.- Elaborar y coadyuvar en los estudios y proyectos para sustentar los programas de la obra pública, asentamientos humanos, desarrollo urbano y comunicaciones, de acuerdo a los lineamientos y directrices de la Planeación Estatal, para someterlos al acuerdo del Subsecretario Técnico;
 
@@ -719,7 +873,7 @@ X.- Realizar pruebas de laboratorio que permitan llevar el control de calidad de
 
 XI.- Formular y gestionar los programas y acciones para el desarrollo de la infraestructura en materia de obra pública y comunicaciones;
 
-XII.- Normar técnicamente en materia de comunicaciones y obras públicas a las Entidades, Dependencias y Municipios;
+XII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
 XIII.- Realizar a corto, mediano y largo plazo, los estudios y proyectos estratégicos de los programas sectoriales específicos en coordinación con las áreas ejecutoras de la Dependencia, tomando en cuenta las propuestas de los diversos sectores de la sociedad, plasmadas en el Plan Estatal de Desarrollo;
 
@@ -729,7 +883,7 @@ XV.- Elaborar y coadyuvar en los programas y proyectos regionales y sectoriales,
 
 XVI.- Promover y concertar la participación de los municipios y de los sectores social y privado, definiendo las bases y procedimientos para la integración, en su caso, de las propuestas en la formulación de los programas y acciones de desarrollo en materia de comunicaciones y obra pública;
 
-XVII.- Proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas planteadas en los programas, a cargo de esta Secretaría a través de los manuales, normas técnicas y administrativas, que para dicho fin se emitan;
+XVII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
 XVIII.- Coadyuvar con los órganos competentes, en los programas o acciones en materia de equipamiento urbano y conservación de edificios de carácter público o social;
 
@@ -745,15 +899,69 @@ Corresponden al Director General de Evaluación y Seguimiento las siguientes fun
 
 I.- Analizar, evaluar e informar al Subsecretario Técnico lo referente a la problemática y situación que guardan los programas, acciones y proyectos a cargo de la Secretaría;
 
-II.- Atender y llevar el control de gestión respecto a las demandas ciudadanas tramitadas ante la Secretaría y cuando se realice audiencia pública;
+II.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
 III.- Establecer mecanismos de recopilación, almacenamiento y recuperación de información de los diferentes programas, acciones y proyectos para contar con bases estadísticas;
 
-IV.- Establecer los procedimientos para la evaluación y seguimiento de los programas, acciones y proyectos a cargo de la Secretaría;
+IV.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-V.- Establecer los mecanismos de evaluación, de los indicadores de gestión internos de la Secretaría, así como la integración de los resultados para los informes de Gobierno; y
+V.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-VI.- Las demás que le confieran las disposiciones normativas vigentes y su superior jerárquico inmediato, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VI.- Apoyar en la toma de decisiones, mediante el diseño de estrategias, políticas, proyectos y acciones, en función de la visión, misión, objetivos y prioridades de los programas, acciones y proyectos a cargo de la Secretaría, por medio de la implementación de procedimientos metodológicos de evaluación y seguimiento;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VII.- Generar y difundir información estadística confiable, oportuna y relevante, sobre el desarrollo de las obras y acciones, que sean responsabilidad de la Secretaría y sus entidades sectorizadas;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VIII.- Dar seguimiento y evaluar los planes, programas y proyectos, que permitan mejorar el desempeño de la Secretaría y emitir los informes necesarios para la toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+IX.- Proponer a las unidades administrativas de la Secretaría, el desarrollo de indicadores de gestión y fomentar la cultura de la evaluación, seguimiento y manejo de información estadística de obras y acciones;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+X.- Integrar la estrategia de evaluación y seguimiento para la secretaría, mediante el manejo de información, así como atender a las necesidades de las unidades administrativas y llevar el control de avance de gestión respecto a los planes y programas de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XI.- Conocer y aplicar los lineamientos de planeación, seguimiento, evaluación y manejo de información estadística, para el desarrollo institucional emitidos por instancias gubernamentales;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XII.- Conformar, actualizar, validar, controlar, evaluar y proporcionar la información requerida por la Secretaría, para llevar a cabo los procesos para la planeación del desarrollo institucional;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIII.- Determinar el grado de cumplimiento de metas y objetivos establecidos en los planes y programas institucionales, por medio del análisis de los resultados alcanzados, para la generación de información oportuna;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIV.- Establecer los mecanismos de coordinación, con las Entidades Sectorizadas de la Administración Pública Paraestatal, para dotar a la Secretaría de la información de los programas acciones y proyectos, bajo su responsabilidad;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XV.- Construir los indicadores de gestión internos de la Secretaría, que permitan planear y valorar el desarrollo institucional, formalizando el análisis de comparativos, históricos y prospectivos, así como la integración de los resultados;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVI.- Asistir en Representación del Secretario o del Subsecretario, mediante Acuerdo Delegatorio del Titular de la Secretaría, a las sesiones de trabajo de los Órganos de Gobierno, Juntas o su equivalente, de las Entidades Paraestatales, Empresas de Participación Estatal Mayoritaria y Fideicomisos Públicos, debidamente inscritos en el Registro Público de Organismos Descentralizados;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVII.- Diseñar, coordinar y realizar, un programa de supervisión física de las obras que esté ejecutando la Secretaría, para conocer el estado que guardan, con base en inconsistencias detectadas;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVIII.- Establecer los mecanismos y fungir como responsable de integrar, convocar, coordinar, evaluar, dar seguimiento y emitir resultados, de Comités Interdisciplinarios para la atención de complicaciones en la ejecución de obra pública, que requieran la necesaria intervención del Secretario, Subsecretarios y en los que deberán participar, la Dirección General de Control y Enlace normativo, Órgano Interno de Control y Dirección General de Administración de Programas de Obra; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+IX (SIC). Las demás que le confieran las disposiciones normativas vigentes y su superior jerárquico inmediato, en el ámbito de su competencia.
 
 ### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
 
@@ -796,3 +1004,11 @@ Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LICENCIADO JOSÉ FRANCISCO OLVERA RUIZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
