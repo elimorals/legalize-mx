@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2016-02-08"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -203,9 +203,9 @@ II.- Llevar el archivo de la Dirección.
 
 III.- Llevar el registro de las concesiones de servicio público tanto de pasajeros como de carga, comprobando los datos proporcionados en las solicitudes.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-IV.- Expedir tarjetas de circulación, permisos para circular sin placas ni tarjeta de circulación, placas para demostración de vehículos nuevos en el territorio del Estado y licencias para conducir vehículos de motor.
+IV.- Expedir tarjetas de circulación, permisos para circular sin placas ni tarjeta de circulación, placas para demostración de vehículos nuevos en el territorio del Estado, licencias para conducir vehículos de motor y permisos temporales de estacionamiento para personas con discapacidad temporal o en estado de gravidez avanzada;
 
 V.- Mantener actualizado el registro de altas, bajas y traslación de dominio de los vehículos, así como de canje de placas de circulación y calcomanía respectiva.
 
@@ -222,6 +222,14 @@ X.- Llevar el registro y control de la expedición, suspensión y cancelación d
 XI.- Establecer un control y registro de las infracciones de tránsito en el Estado, para los efectos de suspensión y cancelación de licencias; y
 
 XII.- Las demás que establece la presente Ley y otras disposiciones jurídicas aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+Los permisos temporales de estacionamiento previstos por la fracción IV del presente artículo, tienen por objeto que las personas con alguna discapacidad temporal o en estado de gravidez avanzada, puedan estacionarse en espacios para uso de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+El permiso temporal de estacionamiento se otorgará previa solicitud presentada ante la Dirección, misma que deberá ser acompañada de certificado médico expedido por una autoridad federal o estatal de salud, que compruebe el estado físico del solicitante, y la temporalidad de su condición. Dicho permiso tendrá una vigencia máxima de hasta noventa días naturales y no podrá solicitarse en más de dos ocasiones.
 
 ###### ARTICULO 10.
 
@@ -2099,7 +2107,9 @@ I.- De vehículos matriculados;
 
 II.- De licencias de manejo y permisos de conducción expedidos;
 
-III.- De permisos provisionales para circular sin placas;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+III.- De permisos provisionales para circular sin placas y permisos temporales de estacionamiento para personas con discapacidad temporal o en estado de gravidez avanzada;
 
 IV.- De los conductores:
 
@@ -3144,3 +3154,15 @@ P.O. 8 DE FEBRERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 316.- SE REFORMA Y ADICIONA LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 60 días hábiles contados a partir del inicio de vigencia del presente Decreto se deberán realizar las adecuaciones reglamentarias.
