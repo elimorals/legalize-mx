@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-tribunal-de-fiscalizacion-del-poder-1045
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-29"
-last_updated: "2014-11-29"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL TRIBUNAL DE FISCALIZACION DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO INTERNO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DE CUENTAS DEL PODER JUDICIAL DEL ESTADO DE OAXACA, PUBLICADO EN EL B.J. DE 7 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERNO DEL TRIBUNAL DE FISCALIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN JUDICIAL: 7 DE MARZO DE 2016 (DEROGADO).
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Oaxaca, el sábado 29 de noviembre de 2014.
 
@@ -215,7 +217,7 @@ Si no se aprueba el proyecto del instructor, se designará a uno de la mayoría 
 
 Las votaciones podrán ser: económicas o nominales. Económicas, por el acto de levantar la mano, ya que aprueben o no la propuesta, ponencia o dictamen. Nominales, por la expresión individual por parte de cada magistrado.
 
-Cuando el asunto no amerite discusión o (sic) debate, el Presidente tomará la votación de manera económica, debiendo el Secretario General de Acuerdos tomar nota del sentido del voto de cada magistrado, y así se asentará en el acta correspondiente.
+Cuando el asunto no amerite discusión o debate, el Presidente tomará la votación de manera económica, debiendo el Secretario General de Acuerdos tomar nota del sentido del voto de cada magistrado, y así se asentará en el acta correspondiente.
 
 ###### Artículo 17.
 
@@ -1041,7 +1043,7 @@ Son correcciones disciplinarias:
 
 I. La amonestación;
 
-II. La multa de cincuenta hasta mil veces el salario mínimo dirario general vigente en el Estado de Oaxaca. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada.
+II. La multa de cincuenta hasta mil veces el salario mínimo diario general vigente en el Estado de Oaxaca. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada.
 
 El Pleno, el Presidente, o los Instructores, de ser el caso y lo consideren pertinente, darán vista al Consejo de la Judicatura.
 
@@ -1132,3 +1134,25 @@ Licenciado Julián Hernández Carrillo
 Secretaria General de Acuerdos
 
 Lic. Sandra Pérez Cruz.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.J. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DE CUENTAS DEL PODER JUDICIAL DEL ESTADO DE OAXACA".]
+
+Artículo Primero.
+
+El presente Reglamento entrará en vigor, al día siguiente de su aprobación.
+
+Artículo Segundo.
+
+Una vez aprobado el Reglamento, deberá publicarse en términos del último párrafo del artículo 4 de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+
+Artículo Tercero.
+
+Se derogan los Reglamentos Internos, del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, del nueve de abril de dos mil diez; y del Tribunal de Fiscalización del Poder Judicial del Estado, publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, de fecha veintinueve de noviembre de dos mil catorce.
+
+Artículo Cuarto.
+
+Los titulares de las Áreas Administrativas, establecidas en el artículo 8 de este Reglamento, en atención a lo dispuesto en el mismo, dentro de los sesenta días siguientes a la entrada en vigor del mismo, elaborarán los manuales internos de sus respectivas áreas, que deberán ser aprobados por la Sala Superior en los términos de la fracción XIII del artículo 152 de la Ley Orgánica; debiéndose publicar los mismos en términos del último párrafo del artículo 4 de la Ley de Justicia Administrativa, señalándose en sus respectivos transitorios el inicio de su vigencia.
