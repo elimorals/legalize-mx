@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2015-07-27"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -10847,6 +10847,10 @@ Deberá instalarse la infraestructura adecuada para brindar servicio de preferen
 
 Los ayuntamientos promoverán la construcción o habilitación de espacios para estacionamientos, procurando su ubicación en lugares estratégicos, tomando en consideración lo indicado en los programas aplicables.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+Tratándose de actividades comerciales, el uso de los cajones de estacionamiento, deberá ser sin costo para el usuario, en los términos previstos por la Ley de Estacionamientos de Vehículos para los Municipios del Estado de Aguascalientes.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2015)</small>
 
 ### CAPÍTULO III. De los Principios del Uso de la Bicicleta
@@ -13058,3 +13062,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 315.- ADICIONES AL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES Y A LA LEY DE ESTACIONAMIENTOS DE VEHÍCULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
