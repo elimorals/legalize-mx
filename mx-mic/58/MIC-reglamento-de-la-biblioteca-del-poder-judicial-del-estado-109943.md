@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-biblioteca-del-poder-judicial-del-estado-10994
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-09-14"
-last_updated: "2015-09-14"
+last_updated: "2016-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA BIBLIOTECA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA BIBLIOTECA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE MARZO DE 2016.]</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 14 de septiembre de 2015.
 
@@ -129,9 +129,21 @@ I. El presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judici
 
 II. El consejero presidente de la Comisión de Carrera Judicial;
 
-III. El director de (sic) Instituto de la Judicatura del Consejo del Poder Judicial del Estado de Michoacán; y,
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2016)</small>
 
-IV. El auxiliar del Acervo Bibliográfico y Hemerográfico.
+III. El director de Instituto de la Judicatura del Consejo del Poder Judicial del Estado de Michoacán;
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2016)</small>
+
+IV. Un magistrado;
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2016)</small>
+
+V. Un juez de primera instancia; y,
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2016)</small>
+
+VI. El auxiliar del Acervo Bibliográfico y Hemerográfico.
 
 ###### Artículo 9.
 
