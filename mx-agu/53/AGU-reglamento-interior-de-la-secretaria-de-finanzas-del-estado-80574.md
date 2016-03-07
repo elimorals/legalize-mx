@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-805
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-04"
-last_updated: "2015-01-16"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2011.
 
@@ -75,21 +75,33 @@ II.- Subsecretaría de Egresos;
 
 A) Dirección General de Administración Financiera;
 
-1.- Dirección de Área de Tesorería y Medios de Pago
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
 
-2.- Dirección de Área de Financiamiento
+1.- Dirección de Área de Tesorería
 
-B) Dirección General de Programación, Presupuesto y Cuenta Pública;
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
 
-1.- Dirección de Área de Programación y Presupuesto
+2.- Dirección de Área de Deuda Pública y Fondos Municipales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2016)</small>
+
+B) Dirección General de Presupuestación y Cuenta Pública;
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+1.- Dirección de Área de Presupuestación
 
 2.- Dirección de Área de Contabilidad Gubernamental y Cuenta Pública
 
-3.- Dirección de Área de Análisis y Evaluación Económica y del Gasto Público
+3.- (DEROGADO, P.O. 7 DE MARZO DE 2016)
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+4.- Dirección de Área de Coordinación Operativa
 
 C) (DEROGADO, P.O. 16 DE ENERO DE 2015)
 
-D) Dirección de Área de Coordinación Operativa;
+D) (DEROGADO, P.O. 7 DE MARZO DE 2016)
 
 III.- Dirección General Jurídica;
 
@@ -121,6 +133,10 @@ D) Secretaría Particular.
 
 E) Dirección de Comunicación Social.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+F) Asesores.
+
 Asimismo la Secretaría contará con el órgano desconcentrado denominado Instituto Catastral del estado de Aguascalientes.
 
 ###### Artículo 4°.
@@ -129,9 +145,11 @@ Los Subsecretarios de Ingresos y Egresos; así como los Directores Generales, ti
 
 ### CAPITULO SEGUNDO. De las Atribuciones del Secretario de Finanzas
 
-###### Artículo 5°.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
 
-Corresponde al Secretario de Finanzas, dirigir, coordinar, controlar y evaluar en la esfera de su competencia y por acuerdo con el Jefe de Gabinete, la política gubernamental en materia económica, fiscal, administrativa, presupuestaria y de deuda pública, así como ejercer sus atribuciones en términos de los (sic) dispuesto por la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado, las leyes, reglamentos, convenios, decretos y otras disposiciones legales le asignen, así como representar legalmente a la Dependencia a su cargo, y además, en los asuntos que así determine el Titular del Poder Ejecutivo del Estado.
+###### ARTÍCULO 5°.
+
+Corresponde al Secretario de Finanzas, dirigir, coordinar, controlar y evaluar en la esfera de su competencia la política gubernamental en materia económica, fiscal, administrativa, financiera, presupuestaria y de deuda pública, así como ejercer sus atribuciones en términos de lo dispuesto por la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado, las leyes, reglamentos, convenios, decretos y otras disposiciones legales (sic) le asignen, así como representar legalmente a la Dependencia a su cargo, y además, en los asuntos que así determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 6°.
 
@@ -139,35 +157,55 @@ Son facultades del Secretario de Finanzas, las siguientes:
 
 I.- Administrar, planear, dirigir, coordinar, ejecutar y controlar la política presupuestaria, financiera, tributaria, crediticia y de administración patrimonial de la Hacienda Pública;
 
-II.- Formular y presentar al Gobernador del Estado a través del Jefe de Gabinete los proyectos de leyes, reglamentos, y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación del gasto público, así como de la actividad económica, financiera administrativa, fiscal y de deuda pública del Estado; de administración catastral y políticas de ingresos;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+II.- Formular y presentar al Gobernador del Estado a través del Secretario General de Gobierno los proyectos de leyes, reglamentos, y demás disposiciones de carácter general que se requieran para la planeación, presupuestación y evaluación del gasto público, así como de la actividad económica, financiera administrativa, fiscal y de deuda pública del Estado; de administración catastral y políticas de ingresos;
 
 III.- Refrendar, para su validez y observancia Constitucional, reglamentos, decretos, convenios y acuerdos de observancia general, que promulgue o expida el Gobernador del Estado relacionados con la Hacienda Pública;
 
 IV.- Interpretar las leyes y demás ordenamientos fiscales, en los casos de duda que se sometan a su consideración y expedir las circulares para señalar a las diferentes dependencias y entidades de la Administración Pública del Estado, el criterio único que deberán seguir en cuanto a su aplicación, y ser el órgano de consulta externa respecto a la interpretación de este Reglamento;
 
-V.- Intervenir en la elaboración y proponer para su firma al Gobernador del Estado, a través del Jefe de Gabinete, los Convenios de Colaboración Administrativa o Coordinación Fiscal, incluyendo sus anexos o reformas, con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, así como con otras Dependencias y Entidades de cualquier nivel de gobierno;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-VI.- Establecer las políticas, lineamientos, normas, criterios y reglas generales de operación a que se sujetarán las Dependencias y Entidades de la Administración Pública del Estado para la programación y ejercicio de los Presupuestos anuales de Ingresos y Egresos;
+V.- Intervenir en la elaboración y proponer para firma del Gobernador del Estado, a través del Secretario General de Gobierno, los Convenios de Colaboración Administrativa o Coordinación Fiscal, incluyendo sus anexos o reformas, con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, así como con otras Dependencias y Entidades de cualquier nivel de gobierno;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VI.- Establecer las políticas, lineamientos, normas, criterios y reglas generales de operación a que se sujetarán las Dependencias y Entidades de la Administración Pública del Estado para la presupuestación y ejercicio de los Presupuestos anuales de Ingresos y Egresos;
 
 VII.- Proponer el Anteproyecto de Presupuesto de Egresos de la Dependencia a su cargo y los de las Entidades Paraestatales del Sector correspondiente, remitiéndolos a la Coordinación Estatal de Planeación y Proyectos con la oportunidad que se le solicite;
 
-VIII.- Elaborar y presentar al Gobernador del Estado, conjuntamente con el Jefe de Gabinete, los proyectos anuales de Ley de Ingresos y Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-IX.- Definir y presentar al Gobernador del Estado, por conducto del Jefe de Gabinete, para su aprobación, los criterios y montos de los estímulos fiscales, subsidios, apoyos y ayudas, en coordinación con las Dependencias y Entidades competentes, en materia de fomento de actividades productivas y de interés público, así como la promoción del crédito para el desarrollo rural, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, participando con ella, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros, necesarios para el fomento de la producción;
+VIII.- Elaborar y presentar al Gobernador del Estado, conjuntamente con el Secretario General de Gobierno, los proyectos anuales de Ley de Ingresos y Presupuesto de Egresos del Estado;
 
-X.- Negociar en nombre y para firma del Ejecutivo Estatal, los financiamientos a cargo del Gobierno del Estado, previo acuerdo con el Jefe de Gabinete;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XI.- Rendir la cuenta pública de las Dependencias del Poder Ejecutivo del Estado y coordinar a las dependencias y entidades paraestatales para la oportuna y correcta solventación a las observaciones y recomendaciones que, en su caso, formule El Órgano Superior de Fiscalización del Congreso del Estado;
+IX.- Definir y presentar al Gobernador del Estado, por conducto del Secretario General de Gobierno, para su aprobación, los criterios y montos de los estímulos fiscales, subsidios, apoyos y ayudas, en coordinación con las Dependencias y Entidades competentes, en materia de fomento de actividades productivas y de interés público, así como la promoción del crédito para el desarrollo rural, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, participando con ella, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros, necesarios para el fomento de la producción;
 
-XII.- Acudir conjuntamente con el Jefe de Gabinete a las Comparecencias ante el Congreso del Estado que deban realizarse, a convocatoria expresa de éste para dar cuenta del estado que guarda "La Secretaría"; o por instrucción del Gobernador del Estado cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo, de conformidad con la fracción VIII del artículo 24 de la Ley Orgánica de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+X.- Negociar en nombre y para firma del Ejecutivo Estatal, los financiamientos a cargo del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XI.- Rendir la cuenta pública de las Dependencias del Poder Ejecutivo del Estado y coordinarlas para la oportuna y correcta solventación a las observaciones y recomendaciones que, en su caso, formule el Órgano Superior de Fiscalización del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XII.- Acudir conjuntamente con el Secretario General de Gobierno a las Comparecencias ante el Congreso del Estado que deban realizarse, a convocatoria expresa de éste para dar cuenta del estado que guarda "La Secretaría"; o por instrucción del Gobernador del Estado cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo, de conformidad con la fracción VIII del artículo 24 de la Ley Orgánica de la Administración Pública del Estado;
 
 XIII.- Comparecer ante el Congreso del Estado en los términos de lo dispuesto en la fracción II del artículo 46 de la Constitución Política del Estado;
 
-XIV.- Autorizar a los Ayuntamientos, anticipos a cuenta de las participaciones federales, previo acuerdo con el Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIV.- Autorizar a los Ayuntamientos, apoyos especiales o extraordinarios, así como anticipos o adelantos a cuenta de las participaciones federales, previo acuerdo con el Ejecutivo Estatal;
 
 XV.- Celebrar convenios con las instituciones de crédito u otros organismos públicos o privados para la recaudación de ingresos estatales o federales coordinados;
 
-XVI.- Determinar las instituciones bancarias en que operarán las cuentas de "La Secretaría", y proporcionar o revocar los nombres y firmas de los funcionarios autorizados para el manejo de dichas cuentas;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVI.- Determinar las instituciones bancarias en que operarán las cuentas y contratos de inversión de "La Secretaría", y autorizar o revocar a los funcionarios encargados de su manejo;
 
 XVII.- Designar miembros suplentes ante los fideicomisos, comités, subcomités, consejos, juntas de gobierno de entidades paraestatales y grupos de trabajo interinstitucionales en los que la Secretaría sea parte;
 
@@ -183,7 +221,13 @@ XXII.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisi
 
 XXIII.- Celebrar convenios con las personas de derecho público o privado sobre cualquier materia de su competencia;
 
-XXIV.- Las demás que le confiera la Constitución Política del Estado y demás ordenamientos;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIV.- Presentar al Gobernador del Estado para su acuerdo, la cancelación de cuentas incobrables o incosteables a favor del Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXV.- Las demás que le confiera la Constitución Política del Estado y demás ordenamientos;
 
 ###### Artículo 7°.
 
@@ -263,7 +307,7 @@ XXIX.- Vigilar el cumplimento de las leyes, reglamentos y demás disposiciones d
 
 XXX.- Las demás que le señale el Secretario de Finanzas, o las que le sean conferidas por las leyes u otros ordenamientos jurídicos vigentes;
 
-El Subsecretario de Ingresos además de las facultades anteriores, podrá ejercer las que se refieren los (sic) artículos 10, 12 y 13 de este reglamento.
+El Subsecretario de Ingresos además de las facultades anteriores, podrá ejercer las que se refieren (sic) los artículos 10, 12 y 13 de este reglamento.
 
 ### CAPITULO SEGUNDO. De la Dirección General de Auditoría Fiscal
 
@@ -289,7 +333,9 @@ IV.- En materia de ingresos ordinarios estatales y de contribuciones federales c
 
 2.- Expedir las credenciales y constancias de identificación del personal adscrito a su cargo.
 
-3.- Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones y demás actos que establezcan las disposiciones fiscales, a los contribuyentes, particulares, sujetos pasivos, responsables solidarios, terceros y demás obligados, para comprobar el cumplimiento de sus obligaciones fiscales, y en su caso proceder al aseguramiento de la documentación relacionada con el cumplimiento de sus obligaciones fiscales o la colocación de sellos y marcas; así como prorrogar los plazos en que se deban concluir las visitas domiciliarias o revisiones que se efectúen en las oficinas de las propias autoridades.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+3.- Ordenar y practicar visitas domiciliarias, revisiones electrónicas, auditorías, inspecciones, actos de vigilancia, verificaciones y demás actos que establezcan las disposiciones fiscales, a los contribuyentes, particulares, sujetos pasivos, responsables solidarios, terceros y demás obligados, para comprobar el cumplimiento de sus obligaciones fiscales, y en su caso proceder al aseguramiento de la documentación relacionada con el cumplimiento de sus obligaciones fiscales o la colocación de sellos y marcas; así como prorrogar los plazos en que se deban concluir las visitas domiciliarias o revisiones que se efectúen en las oficinas de las propias autoridades.
 
 4.- Ordenar y requerir a los contribuyentes, particulares, sujetos pasivos, responsables solidarios, Contadores Públicos Registrados ante el Servicio de Administración Tributaria y/o la Secretaría de Hacienda y Crédito Público que hayan formulado dictámenes o declaratorias para efectos fiscales, terceros y demás obligados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades; y en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos e informes para proceder a su revisión, a efecto de comprobar el cumplimiento de las disposiciones fiscales, así como autorizar prorrogas para su presentación.
 
@@ -297,7 +343,9 @@ IV.- En materia de ingresos ordinarios estatales y de contribuciones federales c
 
 6.- Ordenar y practicar revisiones a los contribuyentes, particulares, sujetos pasivos, responsables solidarios, terceros y demás obligados, la información alternativa al dictamen, que presenten los contribuyentes que hayan ejercido la opción de no presentar el dictamen sobre los estados financieros que establece el artículo 32-A del Código Fiscal de la Federación.
 
-7.- Ordenar y practicar visitas domiciliarias y verificaciones a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales y uso de maquinas registradoras, con la presentación de las solicitudes o avisos en materia del Registro Federal de Contribuyentes, así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de las mercancías.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+7.- Ordenar y practicar visitas domiciliarias y de inspección, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales digitales por internet y de presentación de solicitudes o avisos en materia de registro federal de contribuyentes; el uso y operación de equipos y sistemas electrónicos de registro fiscal y, en su caso, máquinas registradoras de comprobación fiscal; la adhesión en los envases o recipientes de bebidas alcohólicas del marbete o precinto correspondiente y, en su caso, verificar que los envases o recipientes que contenían dichas bebidas hayan sido destruidos; la impresión del código de seguridad en las cajetillas de cigarros para su venta y, en su caso que éste sea auténtico; así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de las mercancías.
 
 8.- Requerir y recibir, de los contribuyentes, particulares, sujetos pasivos, responsables solidarios, terceros y demás obligados, los avisos, declaraciones, informes, datos y demás documentos necesarios para el cumplimiento de sus funciones.
 
@@ -313,9 +361,13 @@ IV.- En materia de ingresos ordinarios estatales y de contribuciones federales c
 
 14.- Continuar con la práctica de los actos de fiscalización que hayan iniciado otras autoridades fiscales.
 
-15.- Dejar sin efectos las órdenes de visita domiciliaria, los requerimientos de información que se formulen a los contribuyentes, así como la revisión de papeles de trabajo que se haga a los contadores públicos registrados y en su caso, concluir anticipadamente la visita domiciliaria en los términos del artículo 47 del Código Fiscal de la Federación.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
 
-16.- Determinar presuntivamente la utilidad fiscal de los contribuyentes, aplicando los procedimientos presuntivos que establezcan las leyes Locales y Federales de su competencia.
+15.- Dejar sin efectos las órdenes de visita domiciliaria, revisiones electrónicas, los requerimientos de información y documentación que se formulen a los contribuyentes, responsables solidarios o terceros relacionados, así como la revisión de papeles de trabajo que se haga a los contadores públicos registrados y, cuando así proceda, los actos que de ellos deriven; así como reponer dichos actos y concluir anticipadamente las visitas domiciliarias en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+16.- Determinar estimativa o presuntivamente la utilidad fiscal de los contribuyentes, aplicando los procedimientos que establezcan las leyes Locales y Federales de su competencia.
 
 17.- Dar a conocer a los contribuyentes, particulares, sujetos pasivos, responsables solidarios, terceros y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus facultades de comprobación y hacer constar dichos hechos u omisiones en actas parciales o complementarias, en el oficio de observaciones, la última acta parcial o acta final que se levante.
 
@@ -337,7 +389,9 @@ IV.- En materia de ingresos ordinarios estatales y de contribuciones federales c
 
 Para estos efectos, Podrá efectuar visitas domiciliarias y verificar vehículos incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta.
 
-Podrá negar el otorgamiento de tarjeta, placas de circulación o cualquier otro documento que permita la circulación vehicular; y no aceptar el pago del impuesto sobre tenencia o uso de vehículos, en los casos en que no se acredite la legal importación, estancia o tenencia, transporte o manejo en el país de los mismos vehículos en régimen de importación definitiva.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
+
+Podrá ordenar que se niegue el otorgamiento de tarjeta, placas de circulación o cualquier otro documento que permita la circulación vehicular; y ordenar que no se acepte el pago del impuesto sobre tenencia ante las autoridades correspondientes, en los casos en que no se acredite la legal importación, estancia o tenencia, transporte o manejo en el país de los mismos vehículos en régimen de importación definitiva.
 
 En los casos en que con motivo de la verificación de la legal importación, estancia o tenencia, transporte o manejo en territorio nacional de los vehículos en circulación, aun cuando no se encuentren en movimiento, o derivada de una visita domiciliaria en que proceda la determinación de contribuciones omitidas o cuotas compensatorias y, en su caso, la imposición de sanciones, y no sea aplicable lo dispuesto en el artículo 151 de la Ley Aduanera o el que lo sustituya, procederá a su determinación, sin necesidad de sustanciar el procedimiento administrativo en materia aduanera y al efecto aplicará el procedimiento establecido en el artículo 152 de la Ley Aduanera o el que lo sustituya, levantará el acta circunstanciada procedente y dictará la resolución que corresponda.
 
@@ -365,7 +419,29 @@ b).- Notificar al interesado el inicio del procedimiento administrativo en mater
 
 35.- Resolver las promociones presentadas por los contribuyentes, particulares, sujetos pasivos, responsables solidarios, terceros y demás obligados, durante el ejercicio de las facultades de comprobación que estén efectuando sobre el mismo las autoridades, en los términos de las disposiciones fiscales estatales y federales aplicables;
 
-V.- Ordenar y practicar las clausuras preventivas de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades; que los expedidos no reúnan requisitos fiscales; o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o el uso de servicios, en los términos de la legislación fiscal Federal y Estatal aplicable;
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+36.- Dar a conocer a los contribuyentes, su representante legal y en el caso de las personas morales a sus órganos de dirección, los hechos u omisiones que se conozcan en el desarrollo del procedimiento de fiscalización.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+37.- Suscribir y dar atención a los acuerdos conclusivos de los actos o resoluciones emitidos en el ejercicio de las facultades que se confieren a través del Convenio de Colaboración Administrativa en Materia Fiscal Federal, de acuerdo con lo dispuesto en el Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+38.- Verificar la procedencia de las compensaciones efectuadas por los contribuyentes.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+39.- Dejar sin efectos los certificados de sello digital, cuando los contribuyentes se ubiquen en alguno de los supuestos previstos en el artículo 17- H, fracción X, incisos a), c) y d) del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+40.- Llevar a cabo el procedimiento establecido en el Código Fiscal de la Federación, en aquellos casos en que se detecte que un contribuyente ha emitido comprobantes sin contar con los activos, personal, infraestructura o capacidad material, directa o indirectamente, para prestar los servicios o producir, comercializar o entregar bienes que amparan tales comprobantes, o bien, que dichos contribuyentes se encuentren no localizados y se presuma la inexistencia de las operaciones amparadas en tales comprobantes.
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+V.- Ordenar y practicar las clausuras preventivas de los establecimientos de los contribuyentes por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por internet de sus actividades; o que los expedidos no reúnan requisitos fiscales; o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o el uso de servicios, y cuando el contribuyente no cuente con controles volumétricos, en los términos de las disposiciones federales o estatales de su competencia;
 
 VI.- Proporcionar, por acuerdo de la superioridad, la información, los datos o la cooperación que les sean requeridos por otras Dependencias o Entidades de la Administración Pública del Estado;
 
@@ -391,7 +467,17 @@ XV.- Acordar con los servidores públicos subalternos los asuntos que tengan asi
 
 XVI.- Rendir a su superior, por escrito los informes mensual y anual de las actividades realizadas;
 
-XVII.- Las demás que le asigne el Subsecretario de Ingresos o las que le confieran las leyes, códigos, ordenamientos de carácter general, convenios, contratos, acuerdos, decretos y reglamentos vigentes.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVII.- Verificar el domicilio fiscal de los contribuyentes en apego a las disposiciones locales y federales aplicables.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XVIII.- Informar a la Secretaría de Hacienda y Crédito Público por conducto del Servicio de Administración Tributaria, sobre la probable comisión de los delitos de defraudación fiscal y sus equiparables de que se tenga conocimiento con motivo de las actuaciones derivadas del Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIX.- Las demás que le asigne el Subsecretario de Ingresos o las que le confieran las leyes, códigos, ordenamientos de carácter general, convenios, contratos, acuerdos, decretos y reglamentos vigentes.
 
 ### CAPITULO TERCERO. De la Dirección General de Recaudación
 
@@ -499,15 +585,23 @@ c) Hacer efectiva al contribuyente, sujeto pasivo, particulares, o responsable s
 
 22.- Verificar el saldo a favor a compensar, determinar y cobrar las cantidades compensadas indebidamente, incluida la actualización y recargos a que haya lugar y, en su caso, imponer las multas correspondientes, así como efectuar la compensación de oficio de cantidades a favor de los contribuyentes, en materia Estatal.
 
-23.- Llevar a cabo los procedimientos presuntivos que establezcan las leyes Locales y Federales de su competencia.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-24.- Registrar la condonación de multas o recargos autorizados por autoridad competente.
+23.- Llevar a cabo los procedimientos estimativos o presuntivos que establezcan las leyes Locales y Federales de su competencia, según corresponda.
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+24.- Otorgar los descuentos que establezcan las diversas disposiciones y decretos sobre descuentos y estímulos en contribuciones y sus accesorios.
 
 25.- Ordenar y practicar avalúos en los términos de la legislación fiscal Federal y Estatal aplicable; y
 
 26.- Recabar los conceptos del Fondo que establece la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes; y
 
 27.- Verificar y autorizar las solicitudes de devolución presentadas por concepto de saldo a favor, pago de lo indebido o pago en exceso y en su caso ordenar el pago correspondiente; requiriendo la documentación, datos o informes necesarios para determinar su procedencia; así como determinar las diferencias por devoluciones improcedentes en materia federal de conformidad con el convenio de coordinación administrativa en materia fiscal así como aquellas que versen sobre contribuciones estatales;
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+28.- Dejar sin efectos los certificados de sello digital, cuando los contribuyentes se ubiquen en el supuesto previsto en el artículo 17-H, fracción X, inciso a), b) y d) del Código Fiscal de la Federación.
 
 XXIII.- Acordar con la autoridad superior que corresponda por razones de adscripción, la resolución de los asuntos de su competencia y proponer las medidas de desarrollo administrativo necesarias para el mejor funcionamiento de la Dirección General a su cargo;
 
@@ -607,7 +701,9 @@ Corresponde a la Subsecretaria de Egresos a través de su titular, ejecutar, dir
 
 I.- Proponer al Secretario los Criterios Generales de Política Económica, el anteproyecto de Presupuesto de Egresos y la Política de Deuda Pública del ejercicio fiscal correspondiente, elaborados mediante un proceso de coordinación con las áreas de la Secretaría de Finanzas y las dependencias y entidades de la Administración Pública Estatal legalmente facultadas al efecto;
 
-II.- Establecer mediante circulares, oficios o acuerdos, disposiciones administrativas tendientes a evitar en la medida de lo previsible, menoscabo en la Hacienda Pública Estatal y en el patrimonio de las entidades de la Administración Pública Paraestatal, así como participar en la elaboración del Presupuesto de Egresos, Ley de Ingresos, políticas y lineamientos del control presupuestal y la contabilidad;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+II.- Establecer mediante circulares, oficios o acuerdos, disposiciones administrativas tendientes a evitar en la medida de lo previsible, menoscabo en la Hacienda Pública Estatal y en el patrimonio de las entidades de la Administración Pública Paraestatal, así como participar en la elaboración del Presupuesto de Egresos, Ley de Ingresos, políticas y lineamientos del control presupuestal;
 
 III.- Participar en el establecimiento de los criterios y montos de estímulos fiscales en coordinación con las dependencias de la administración pública estatal a quienes corresponda el fomento y desarrollo de las actividades productivas;
 
@@ -615,7 +711,9 @@ IV.- Otorgar y suscribir títulos de crédito en representación del Gobierno de
 
 V.- Suscribir los documentos relativos al ejercicio de sus funciones, los que le sean señalados por delegación expresa del Secretario o le correspondan por suplencia;
 
-VI.- Celebrar convenios con las personas de derecho privado sobre cualquier materia de su competencia, siempre y cuando dichos convenios se deriven y sean congruentes con los compromisos efectuados por el Titular del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VI.- Proponer al Secretario para su aprobación, la celebración de convenios con las personas de derecho privado sobre cualquier materia de su competencia, siempre y cuando dichos convenios deriven y sean congruentes con los compromisos efectuados por el Titular del Ejecutivo del Estado;
 
 VII.- Establecer mecanismos de Coordinación con las Dependencias y Entidades de la Administración Pública Estatal, y estudiar la viabilidad presupuestaria para la celebración de Contratos o Convenios con otras Dependencias, Entidades e Instituciones públicas o privadas, que impliquen aportaciones financieras por parte del Gobierno del Estado, para la ejecución de programas obras y acciones institucionales;
 
@@ -629,7 +727,9 @@ XI.- Formular y proponer los proyectos de planes y programas que les corresponda
 
 XII.- Expedir certificados de constancias de expedientes relativos a asuntos de su competencia;
 
-XIII.- Informar a la Dirección General Jurídica y a la Coordinación de Evaluación y Seguimiento, sobre aquellas conductas del personal a su cargo, que puedan constituir responsabilidades administrativas;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIII.- Informar a la Dirección General Jurídica, sobre aquellas conductas del personal a su cargo, que puedan constituir responsabilidades administrativas;
 
 XIV.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, previo acuerdo con la superioridad, a los servidores públicos, verificadores notificadores y ejecutores que conforman las unidades administrativas a su cargo;
 
@@ -645,9 +745,11 @@ El Subsecretario de Egresos además de las facultades anteriores, podrá ejercer
 
 ### CAPITULO SEGUNDO. De la Dirección General de Administración Financiera
 
-###### Artículo 15.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2016)</small>
 
-La Dirección General de Administración Financiera estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por la Dirección de Tesorería y Medios de Pago, Dirección de Financiamiento, Subdirecciones, Jefaturas de Departamento, y demás personal que se requiriera.
+###### ARTÍCULO 15.
+
+La Dirección General de Administración Financiera estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por la Dirección de Tesorería, Dirección de Deuda Pública y Fondos Municipales, Jefaturas de Departamento, y demás personal que se requiera.
 
 La Dirección General de Administración Financiera para el desempeño de sus funciones tendrá las siguientes atribuciones:
 
@@ -655,91 +757,161 @@ I.- Proponer al Subsecretario de Egresos, los Criterios Generales de Política E
 
 II.- Proponer al Subsecretario de Egresos la política de Deuda Pública del Estado en apego a la normatividad aplicable;
 
-III.- En coordinación con la Dirección General de Programación, Presupuesto y Cuenta Pública proponer al Subsecretario de Egresos las políticas de austeridad, racionalidad y disciplina relativas al ejercicio del gasto público;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-IV.- Proponer al Subsecretario de Egresos la política de administración de los recursos financieros compatible con los criterios de sustentabilidad, solvencia y rentabilidad de los valores del Gobierno del Estado;
+III.- Proponer al Subsecretario de Egresos la política de administración de los recursos financieros de acuerdo con los criterios de sustentabilidad, solvencia y rentabilidad;
 
-V.- Participar en la configuración de la Ley de Ingresos y el Presupuesto de Egresos para asegurar que las metas establecidas de las políticas de deuda pública y administración de los recursos financieros, estén alineadas con dichos ordenamientos;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-VI.- En coordinación con la Dirección General de Programación, Presupuesto y Cuenta Pública, proponer al Subsecretario de Egresos, la política de pago a proveedores, acreedores, y transferencias, de conformidad con los criterios de oportunidad, optimización de recursos, control, seguridad y transparencia;
+IV.- Proponer al Subsecretario de Egresos, las bases de negociación de los convenios relativos a los servicios bancarios que utiliza "La Secretaría";
 
-VII.- Establecer y operar, a través de un conjunto de indicadores, un sistema de alerta temprana y monitoreo de volatilidad de los mercados financieros y del entorno macroeconómico, que pongan en riesgo la política de ingresos y gasto del Estado y genere contingencias de liquidez;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-VIII.- Derivado de lo previsto en la fracción anterior, establecer las medidas de política fiscal, financiera y administrativa que permitan mitigar los efectos de las contingencias mencionadas sobre el ejercicio del gasto público;
+V.- Proponer y aperturar las cuentas bancarias, contratos de inversión y prestación de servicios, en las instituciones financieras autorizadas, en que operarán las cuentas de “La Secretaría” y proporcionar los nombres y firmas de los funcionarios autorizados para la firma de cheques y firmas electrónicas de los sistemas bancarios;
 
-IX.- Efectuar los análisis y estudios necesarios para determinar y proponer la contratación de financiamientos bajo las mejores condiciones del mercado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-X.- Programar y efectuar los pagos que correspondan a las amortizaciones y pago de intereses por financiamientos contratados directamente por el Gobierno del Estado;
+VI.- Elaborar y actualizar, el flujo de efectivo del Gobierno del Estado, con base en la Ley de Ingresos y Presupuesto de Egresos aprobados, así como con las estimaciones pertinentes;
 
-XI.- Llevar el registro de las obligaciones de deuda pública, derivadas de la contratación de financiamientos en términos de lo dispuesto por la Ley de Deuda Pública del Estado de Aguascalientes y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XII.- Elaborar el Informe de la situación de la Deuda Pública Estatal, para que previa firma del Secretario y conocimiento del H. Congreso del Estado, se proceda a su publicación en el Periódico Oficial del Estado;
+VII.- Administrar de conformidad con la política financiera instruida por el Secretario, los recursos financieros, fondos y valores propiedad del Gobierno del Estado y aquellos que siendo de terceros, estén transitoriamente bajo la custodia y control de "La Secretaría";
 
-XIII.- Analizar, evaluar y dar seguimiento a la situación económica y financiera de las entidades del sector paraestatal que hayan contratado financiamiento y, de manera especial, en aquellos casos donde el Gobierno del Estado haya asumido obligaciones mediante el otorgamiento de aval;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XIV.- Suministrar la información pertinente a las Empresas contratadas para la emisión de la calificación de la calidad crediticia del Gobierno del Estado así como coordinar todas las actividades relacionadas con este proceso;
+VIII.- Programar, controlar y efectuar los pagos y transferencias correspondientes al cumplimiento de compromisos autorizados, en los que corresponda su pago a “La Secretaría”, previa liberación de pago que realice la Dirección General de Presupuestación y Cuenta Pública, en los términos de las disposiciones legales y administrativas de la materia;
 
-XV.- Administrar los recursos financieros, fondos y valores propiedad del Gobierno del Estado y aquellos que siendo de terceros, estén transitoriamente bajo la custodia y control de "La Secretaría";
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XVI.- Programar, controlar y efectuar los pagos correspondientes al cumplimiento de compromisos establecidos dentro del Presupuesto de Egresos del Gobierno del Estado;
+IX.- Realizar el pago de la nómina de los servidores públicos de las Dependencias de la Administración Pública Estatal, en los términos de lo dispuesto en la fracción VI del artículo 42 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
 
-XVII.- Analizar y proponer las bases de negociación de los convenios relativos a los servicios bancarios que utiliza "La Secretaría";
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XVIII.- Diseñar, elaborar y actualizar en coordinación con la Dirección General de Programación, Presupuesto y Cuenta Pública, el flujo de efectivo del Gobierno del Estado, con base en la Ley de Ingresos y Presupuesto de Egresos y Deuda Pública aprobados;
+X.- Efectuar los pagos que correspondan a las amortizaciones, intereses y gastos por financiamientos contratados directamente por el Gobierno del Estado;
 
-XIX.- Proponer las instituciones financieras en que operarán las cuentas bancarias y de inversiones de la Secretaría y proporcionar los nombres y firmas de los funcionarios autorizados para la firma de cheques y firmas electrónicas de los sistemas bancarios;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XX.- Capacitar a funcionarios municipales sobre la distribución y determinación de Participaciones y Aportaciones Federales a municipios;
+XI.- Distribuir y entregar el monto de las aportaciones federales que correspondan a las entidades del Estado, de acuerdo a la normatividad aplicable, así como emitir los informes respectivos a las autoridades competentes;
 
-XXI.- Elaborar de las estimaciones anuales de las Participaciones y Aportaciones Federales que les corresponde a los municipios para incluirlas en el Proyecto de Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XXII.- Distribuir y entregar el monto de las aportaciones federales que correspondan a las dependencias, entidades paraestatales y órganos autónomos del Estado, de acuerdo a la normatividad aplicable, así como emitir los informes respectivos a las autoridades competentes;
+XII.- Elaborar las estimaciones anuales de las Participaciones y Aportaciones Federales que les corresponde a los municipios para incluirlas en el anteproyecto de Presupuesto de Egresos, con base a la información proporcionada por la Subsecretaria de Ingresos;
 
-XXIII.- Distribuir y entregar el monto de las participaciones y aportaciones federales que correspondan a los Municipios, de acuerdo a la normatividad aplicable, así como emitir los informes respectivos a las autoridades competentes;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XXIV.- Capacitar a funcionarios municipales respecto al uso del Sistema de Formato Único de la Secretaría de Hacienda y Crédito Público, en el cual se reporta a (sic) el ejercicio de los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal (FISM) y el Fondo de Aportaciones para el Fortalecimiento Municipal (FORTAMUN);
+XIII.- Distribuir y entregar el monto de las participaciones y aportaciones federales que correspondan a los Municipios, de acuerdo a la normatividad aplicable, así como emitir los informes respectivos a las autoridades competentes;
 
-XXV.- Participar en todo lo relacionado con las actualizaciones, reformas y cambios en materia de fondos municipales establecidos en la Ley de Coordinación Fiscal Estatal, que tengan impacto en la distribución de recursos a los municipios realizados por la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XXVI.- Proponer a la Subsecretaría de Egresos los temas a tratar en la Asamblea Fiscal Estatal;
+XIV.- Participar en todo lo relacionado con las actualizaciones, reformas y cambios en materia de fondos municipales establecidos en la Ley de Coordinación Fiscal del Estado de Aguascalientes;
 
-XXVII.- Formular y proponer los proyectos de planes, programas, manuales en materia de administración financiera;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XXVIII.- Expedir constancias de los documentos relativos a asuntos de su competencia;
+XV.- Elaborar el presupuesto de la deuda pública por concepto de amortizaciones, intereses y gastos, para someterlo a consideración del Subsecretario de Egresos;
 
-XXIX.- Suscribir los documentos relativos al ejercicio de sus funciones, los que le sean señalados por delegación expresa de su superior jerárquico, o le correspondan por suplencia;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XXX.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, previo acuerdo con la superioridad, a los servidores públicos, que conforman las unidades administrativas a su cargo;
+XVI.- Efectuar los análisis y estudios necesarios que le sean solicitados, referentes a la contratación de financiamientos bajo las mejores condiciones del mercado y con base en las disposiciones aplicables;
 
-XXXI.- Realizar el pago de la nómina de los servidores públicos de las Dependencias de la Administración Pública Estatal, en los términos de lo dispuesto en la fracción VI del artículo 42 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XXXII.- Las demás que le señale su superior jerárquico o le confieran otras disposiciones legales.
+XVII.- Llevar el registro de las obligaciones de la deuda pública, derivadas de la contratación de financiamientos en términos de lo dispuesto por la Ley de Deuda Pública del Estado de Aguascalientes y demás disposiciones aplicables;
 
-### CAPITULO TERCERO. De la Dirección General de Programación, Presupuesto y Cuenta Pública
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-###### Artículo 16.
+XVIII.- Dar seguimiento a la situación financiera de las entidades del sector paraestatal que hayan contratado financiamiento y, de manera especial, en aquellos casos donde el Gobierno del Estado haya asumido obligaciones mediante el otorgamiento de aval;
 
-La Dirección General de Programación, Presupuesto y Cuenta Pública, estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por la Dirección de Contabilidad Gubernamental y Cuenta Pública, Dirección de Programación y Presupuesto, Dirección de Análisis y Evaluación Económica y del Gasto Público, Subdirecciones, Jefaturas de Departamento, y demás personal que se requiriera.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-La Dirección General de Programación y Presupuesto y Cuenta Pública, para el desempeño de sus funciones tendrá las siguientes atribuciones:
+XIX.- Elaborar los informes de la deuda pública estatal de conformidad con la normatividad aplicable y realizar su envío a las autoridades correspondientes;
 
-I.- Proponer al Subsecretario de Egresos los techos financieros y calendarios autorizados, para el ejercicio del presupuesto y sus modificaciones;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-II.- Participar en la elaboración del anteproyecto anual de presupuesto de egresos del Estado mediante la coordinación de acciones con la Coordinación Estatal de Planeación y Proyectos en materia de planeación, y con todas las dependencias y entidades de la Administración Pública en materia de programación y presupuesto;
+XX.- Suministrar la información pertinente a las Empresas contratadas para la emisión de la calificación de la calidad crediticia del Gobierno del Estado, así como coordinar todas las actividades relacionadas con este proceso;
 
-III.- Establecer conjuntamente con la Oficialía Mayor, los mecanismos para incorporar en el Presupuesto de Egresos del Estado, las remuneraciones al personal adscrito al sector central de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXI.- Integrar y analizar la información relacionada a las acciones de calificación crediticia, emitidas por las diferentes empresas calificadoras respecto de las finanzas públicas del Estado y sus municipios;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXII.- Establecer y operar, a través de un conjunto de indicadores, un sistema de alerta temprana y monitoreo de los mercados financieros y del entorno macroeconómico, con el fin de prever cualquier impacto posible sobre los ingresos y egresos del Estado, y en su caso establecer las medidas necesarias dentro del ámbito de su competencia, en caso de un impacto desfavorable;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIII.- Proponer a la Subsecretaría de Egresos los temas a tratar en la Asamblea Fiscal Estatal, dentro de la materia de su competencia;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXIV.- Formular y proponer los proyectos de planes, programas y manuales en materia de administración financiera;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXV.- Expedir constancias de los documentos relativos a asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXVI.- Suscribir los documentos relativos al ejercicio de sus funciones, los que le sean señalados por delegación expresa de su superior jerárquico, o le correspondan por suplencia;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXVII.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, previo acuerdo con la superioridad, a los servidores públicos, que conforman las unidades administrativas a su cargo;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXVIII.- Las demás que le señale su superior jerárquico o le confieran otras disposiciones legales.
+
+XXIX.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XXX.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XXXI.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XXXII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2016)</small>
+
+### CAPITULO TERCERO. De la Dirección General de Presupuestación y Cuenta Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2016)</small>
+
+###### ARTÍCULO 16.
+
+La Dirección General de Presupuestación y Cuenta Pública, estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por la Dirección de Presupuestación, Dirección de Contabilidad Gubernamental y Cuenta Pública y la Dirección de Coordinación Operativa, Jefaturas de Departamento, y demás personal que se requiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2016)</small>
+
+La Dirección General de Presupuestación y Cuenta Pública, para el desempeño de sus funciones tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+I.- Proponer al Subsecretario de Egresos los techos presupuestales y calendarios autorizados, para el ejercicio del presupuesto y sus modificaciones;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+II.- Participar en la elaboración del anteproyecto anual de Presupuesto de Egresos del Estado, mediante la armonización de acciones con la Coordinación Estatal de Planeación y Proyectos en los términos señalados por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+III.- Establecer conjuntamente con la Oficialía Mayor del Ejecutivo Estatal, los mecanismos para incorporar en el Anteproyecto de Presupuesto de Egresos del Estado, las remuneraciones al personal adscrito al sector central de la Administración Pública del Estado;
 
 IV.- Proponer para la Aprobación del Subsecretario de Egresos los lineamientos generales y procedimientos a que se sujetarán las Dependencias y Entidades en el ejercicio del Presupuesto de Egresos del Estado;
 
-V.- Validar la disponibilidad del techo financiero, respecto a los procesos de licitación o compromisos que impliquen pago con cargo al presupuesto de egresos; en cumplimiento a las disposiciones legales administrativas de la materia;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-VI.- Validar la documentación y justificación que sirva de base para el ejercicio del gasto y registrar las aplicaciones que afecten el presupuesto en cumplimiento a las disposiciones legales y administrativas de la materia;
+V.- Validar la disponibilidad del techo presupuestal, respecto a los procesos de licitación o compromisos que impliquen pago con cargo al Presupuesto de Egresos, en cumplimiento a las disposiciones legales y administrativas de la materia;
 
-VII.- Realizar periódicamente en coordinación con la Coordinación Estatal de Planeación y Proyectos y la Secretaría de Fiscalización y Rendición de Cuentas la evaluación del gasto público, en función de los objetivos generales y metas de los programas autorizados a través del seguimiento de los avances físicos y financieros, a efecto de medir su grado de cumplimiento;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-VIII.- Clasificar y registrar las operaciones financieras que constituyen la Contabilidad Gubernamental, en los términos de la Ley de Presupuesto Contabilidad y Gasto Público, y demás disposiciones aplicables;
+VI.- Validar la disponibilidad del techo presupuestal, respecto del resto de los trámites de las Dependencias que impliquen afectación al Presupuesto de Egresos, en cumplimiento a las disposiciones legales y administrativas de la materia;
 
-IX.- Solicitar a la Secretaría de Fiscalización y Rendición de Cuentas la información necesaria para registrar en la contabilidad gubernamental los valores actualizados de los activos fijos propiedad de la Hacienda Pública;
+VII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VIII.- Incorporar en el Sistema Integral de Información Financiera los registros contables que emanen de cada uno de los módulos o áreas responsables de clasificar y registrar las operaciones financieras que constituyen la Contabilidad Gubernamental, en los términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria, y demás disposiciones aplicables;
+
+IX.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
 X.- Integrar los informes que reflejen la situación financiera del Gobierno del Estado y los resultados de su gestión para la oportuna toma de decisiones;
 
@@ -761,7 +933,9 @@ XVIII.- Formular y proponer los proyectos de planes y programas que le correspon
 
 XIX.- Suscribir los documentos relativos al ejercicio de sus funciones, los que le sean señalados por delegación expresa de su superior jerárquico, o le correspondan por suplencia;
 
-XX.- Coordinar conjuntamente con la Secretaría de Fiscalización y Rendición de Cuentas a las dependencias y entidades paraestatales para realizar la oportuna solventación a las observaciones y recomendaciones que, en su caso, formule la Auditoria Superior de la Federación y el Órgano Superior de Fiscalización en el Estado de Aguascalientes u ente análogo;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XX.- Solventar las observaciones que le competan a la Dirección General de Presupuestación y Cuenta Pública que directamente realicen las autoridades fiscalizadoras federales, así como coordinar e integrar la solventación de las observaciones que directamente realicen las autoridades fiscalizadoras estatales a “La Secretaría”.
 
 XXI.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, previo acuerdo con la superioridad, a los servidores públicos que conforman las unidades administrativas a su cargo;
 
@@ -931,47 +1105,75 @@ XXVI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, a
 
 ### CAPITULO UNICO. De la Dirección General de Evaluación y Seguimiento
 
-###### Artículo 20.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2016)</small>
 
-La Dirección General de Evaluación y Seguimiento estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones las (sic) Jefaturas de Departamento, y demás personal que se requiriera.
+###### ARTÍCULO 20.
+
+La Dirección General de Evaluación y Seguimiento estará a cargo de un Director General, quien será auxiliado en el ejercicio de sus funciones por las Jefaturas de Departamento, y demás personal que se requiera.
 
 Corresponde a la Dirección General de Evaluación y Seguimiento, por conducto de su titular, el despacho y atención de las siguientes facultades delegadas:
 
-I.- Participar en la elaboración y presentación del informe ejecutivo mensual al Gobernador y al Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-II.- Participar en la integración de la información proporcionada por las áreas operativas para la elaboración de los proyectos anuales de Ley de Ingresos y Presupuesto de Egresos del Estado;
+I.- Participar en la integración del informe ejecutivo mensual y en su remisión a las áreas de “La Secretaría” encargadas de su publicación;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+II.- Participar en la integración de la información proporcionada por las áreas de “La Secretaría” para la elaboración de los Anteproyectos anuales de Ley de Ingresos y Presupuesto de Egresos del Estado;
 
 III.- (DEROGADA, P.O. 4 DE ABRIL DE 2011)
 
-IV.- Planear, diagnosticar, evaluar y diseñar el modelo contable para el Estado, ante las instancias legales correspondientes;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-V.- Coordinar la planeación, levantamiento de información, diagnostico, evaluación, diseño de prototipo y preparación de mapeo de eventos en las dependencias del sector central de gobierno, entidades paraestatales y en los municipios, para su implementación;
+IV.- Coordinar la instrumentación del proceso de armonización contable en el Estado, de acuerdo con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+V.- Coordinar la planeación, levantamiento de información, diagnostico, diseño de prototipo y preparación de mapeo de eventos en las dependencias del Poder Ejecutivo del Estado, para su implementación;
 
 VI.- Planear, diagnosticar y evaluar la posible herramienta informática a utilizar en el Estado;
 
-VII.- Coordinar con las áreas involucradas las acciones necesarias para el desarrollo de la herramienta informática de los sistemas de registro e integración de información financiera, sistematizándola en el módulo contable, modulo de formulación del presupuesto y el módulo de ejercicio del gasto y medios de pago;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+VII.- Coordinar con las áreas involucradas las acciones necesarias para la adopción de la herramienta informática de los sistemas de registro e integración de información financiera.
 
 VIII.- Coordinar la capacitación para la utilización de la herramienta informática de los sistemas de registro e integración de información financiera, a que se refiere la fracción VII;
 
-IX.- Implementación de las herramientas informáticas de los sistemas de registro e integración de información financiera en las dependencias del sector central, entidades paraestatales, municipios, poderes legislativo y judicial así como en los organismos públicos autónomos;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+IX.- Coordinar la implementación de las herramientas informáticas de los sistemas de registro e integración de información financiera en las dependencias, entidades, municipios, poderes Legislativo y Judicial, así como en los organismos públicos autónomos;
 
 X.- Coordinar la capacitación en los temas generados por la Ley General de Contabilidad Gubernamental, derivados de la normatividad aprobada por el Consejo Nacional de Armonización Contable, dirigida a los entes públicos del Estado;
 
 XI.- Asistir y participar en las reuniones del Comité Consultivo del Consejo Nacional de Armonización Contable, del grupo de gasto, contabilidad y transparencia del Sistema Nacional de Coordinación Fiscal, de la Secretaría de Hacienda y Crédito Público, del Banco Mundial y de otros organismos relacionados con el tema de armonización contable;
 
-XII.- Coordinar y dar seguimiento a las disposiciones relativas al tema de presupuesto basado en resultados y el sistema de evaluación del desempeño emitidos por el Consejo Nacional de Armonización Contable;
+XII.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-XIII.- Controlar, administrar y operar los donativos de las Organizaciones Nacionales y/o Internacionales relativas al proyecto de armonización contable en coordinación con las áreas correspondientes;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
 
-XIV.- Atender y dar seguimiento a las misiones de supervisión del Banco Mundial y cualquier otro auditor que este designe;
+XIII.- Controlar, administrar y operar los recursos autorizados en el Presupuesto de Egresos de la Federación para la implementación de proyectos de armonización contable en el Estado, que se destinen de forma directa a “La Secretaría”.
 
-XV.- Nombrar, designar, remover, cambiar de adscripción o radicación, comisionar, reasignar o trasladar y demás acciones previstas en los ordenamientos aplicables, previo acuerdo con la superioridad, a los servidores públicos, verificadores, notificadores, y ejecutores que conforman las unidades administrativas a su cargo;
+XIV.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
-XVI.- Las demás que las disposiciones legales y reglamentarias le atribuyen, así como aquellas que le confiera el Secretario;
+XV.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
+
+XVI.- (DEROGADA, P.O. 7 DE MARZO DE 2016)
 
 XVII.- (DEROGADA, P.O. 4 DE ABRIL DE 2011)
 
 XVIII.- (DEROGADA, P.O. 4 DE ABRIL DE 2011)
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIX.- Ejercer las facultades inherentes al cargo de Secretario Técnico dentro del Consejo de Armonización Contable del Estado, que se establecen en las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XX.- Proveer lo conducente para que el Consejo de Armonización Contable del Estado lleve a cabo sus sesiones y demás atribuciones de su competencia.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XXI.- Las demás que las disposiciones legales y reglamentarias le atribuyen, así como aquellas que le confiera el titular de “La Secretaría”.
 
 ## TITULO VIII
 
@@ -1019,7 +1221,9 @@ XVII.- Recabar y presentar a la Oficialía Mayor la documentación requerida par
 
 XVIII.- Notificar la obligación de presentar declaración patrimonial al personal de nuevo ingreso;
 
-XIX.- Realizar los contratos de personal eventual y tramitar ante la Oficialía Mayor, previo acuerdo del Secretario con el Jefe de Gabinete;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2016)</small>
+
+XIX.- Tramitar los contratos de personal eventual ante la Oficialía Mayor, previo acuerdo del Titular de “La Secretaría”;
 
 XX.- Notificar al personal de nuevo ingreso las fechas en que deberá de presentarse al curso obligatorio de inducción al Gobierno del Estado;
 
@@ -1121,11 +1325,13 @@ Corresponde a los titulares de las unidades administrativas y unidades de apoyo:
 
 ### CAPITULO UNICO. De las Suplencias del Secretario
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2016)</small>
 
-El Secretario de Finanzas será suplido en sus ausencias, por el Subsecretario de Egresos, y en la ausencia de ambos por el Subsecretario de Ingresos. Los Subsecretarios y Directores Generales, serán suplidos, indistintamente y atendiendo a la materia de su competencia por los Directores de área, y éstos serán suplidos por el servidor público inmediato inferior que de ellos dependa.
+###### ARTÍCULO 24.
 
-Todos los servidores públicos serán suplidos en sus ausencias por sus inmediatos inferiores que de ellos dependan, salvo que se trate de personal de base.
+El Secretario de Finanzas será suplido en sus ausencias, por el Subsecretario de Egresos, y en la ausencia de ambos por el Subsecretario de Ingresos. Los Subsecretarios serán suplidos en sus ausencias, por los Directores Generales atendiendo a la materia de su competencia, los Directores Generales serán suplidos en forma indistinta, por los Directores de Área considerando su adscripción.
+
+En los casos no previstos en el párrafo anterior, la suplencia de los servidores públicos podrá hacerse a través de los inmediatos inferiores que de ellos dependan, salvo que se trate de personal de base.
 
 T R A N S I T O R I O S :
 
@@ -1162,3 +1368,11 @@ P.O. 16 DE ENERO DE 2015.
 PRIMERO.- Publíquese las presentes Reformas en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación.
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS”.]
+
+PRIMERO.- Publíquese la presente reforma en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El presente decreto entrarán en vigor el día siguiente al de su publicación.
