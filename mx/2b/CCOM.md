@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2015-12-24"
+last_updated: "2016-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO DE COMERCIO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
 
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2015.
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2016.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -7910,9 +7910,9 @@ Art. 1,338. La apelación puede admitirse en el efecto devolutivo y en el suspen
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2015)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 7 DE MARZO DE 2016)
 
-Art. 1,339. Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $574,690.47 (Quinientos sesenta (sic) y cuatro mil seiscientos noventa pesos 47/100 M.N.) por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
+Art. 1,339. Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $574,690.47 (Quinientos setenta y cuatro mil seiscientos noventa pesos 47/100 M.N.) por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7958,9 +7958,9 @@ Art. 1,339 Bis. Los asuntos de cuantía indeterminada siempre serán apelables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 24 DE DICIEMBRE DE 2015)
+(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 7 DE MARZO DE 2016)
 
-Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $574,690.47 (Quinientos sesenta (sic) y cuatro mil seiscientos noventa pesos 47/100 M.N.) por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $574,690.47 (Quinientos setenta y cuatro mil seiscientos noventa pesos 47/100 M.N.) por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 Art. 1,341. Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
@@ -10555,3 +10555,11 @@ D.O.F. 26 DE DICIEMBRE DE 2014.
 D.O.F. 24 DE DICIEMBRE DE 2015.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE MODIFICA AL DIVERSO PARA LA ACTUALIZACIÓN DE LOS MONTOS ESTABLECIDOS EN LOS ARTÍCULOS 1067 BIS FRACCIÓN II; 1253 FRACCIÓN VI; 1339, 1340 Y 1390 BIS 33 DEL CÓDIGO DE COMERCIO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para el caso de los asuntos que hayan sido tramitados en el lapso de tiempo contado a partir de la entrada en vigor del Acuerdo publicado el 24 de diciembre de 2015 y la entrada en vigor del presente Acuerdo, para la determinación del monto se deberá tener por considerado el señalado en letra.
