@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-economico-54
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-19"
-last_updated: "2014-02-17"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 7 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -133,7 +135,7 @@ XX.- Resolver las dudas que se susciten con motivo de la interpretación de este
 
 XXI.- Ejercer las atribuciones y facultades que señalen las leyes, convenios, acuerdos, demás reglamentos y ordenamientos de carácter general;
 
-XXII.- Realizar los actos y resoluciones que sean necesarias para el cumplimiento de sus funciones, así como para impulsar y promover en el Estado un desarrollo sostenido y sustentable de la economía estatal; y (sic)
+XXII.- Realizar los actos y resoluciones que sean necesarias para el cumplimiento de sus funciones, así como para impulsar y promover en el Estado un desarrollo sostenido y sustentable de la economía estatal; y
 
 XXIII.- Ejercer las demás atribuciones que le otorgue el Gobernador del Estado;
 
@@ -303,7 +305,7 @@ IX.- Operar el programa de actividades encaminado a impulsar la creación de mic
 
 X.- Impulsar la especialización de los procesos productivos y de los productos con ventajas competitivas;
 
-XI.- Fomentar el desarrollo del sector artesanal del Estado; y (sic)
+XI.- Fomentar el desarrollo del sector artesanal del Estado; y
 
 XII.- Planear, organizar y controlar el Premio Estatal al Emprendedor;
 
@@ -329,7 +331,7 @@ VII.- Promover el desarrollo de proveedores de productos locales en las grandes 
 
 VIII.- Apoyar a los comerciantes en los trámites ante las diferentes instancias de Gobierno;
 
-IX.- Promover apoyos de instituciones financieras al sector comercial; y (sic)
+IX.- Promover apoyos de instituciones financieras al sector comercial; y
 
 X.- Promover la formación empresarial integral;
 
@@ -353,7 +355,7 @@ VI.- Coordinar y asesorar las ventanillas únicas establecidas en los diversos M
 
 VII.- Elaborar el reporte estadístico de todas las ventanillas;
 
-VIII.- Asesorar a las empresas para la constitución de sociedades mercantiles y cooperativas; y (sic)
+VIII.- Asesorar a las empresas para la constitución de sociedades mercantiles y cooperativas; y
 
 IX.- Promover el uso del formato único de apertura para la instalación, la operación y el funcionamiento de una empresa por medio de la Ventanilla Única de Gestión Empresarial que coordina;
 
@@ -579,7 +581,7 @@ V.- Generar proyectos de desarrollo con ciudadanos de los municipios, promoviend
 
 VI.- Atender a los ciudadanos, en cualesquier de las actividades económicas, en las que participen en su comunidad;
 
-VII.- Atender las situaciones que en general, de las pasadas acciones se generen; y (sic)
+VII.- Atender las situaciones que en general, de las pasadas acciones se generen; y
 
 VIII.- Atención al sector industrial de los alimentos;
 
@@ -670,3 +672,13 @@ Para la transmisión de la Dirección General del Servicio Nacional de Empleo en
 ###### ARTÍCULO TERCERO.
 
 Los trabajadores de la Dirección General del Servicio Nacional de Empleo en Aguascalientes, contemplados en el acta de transferencia de recursos humanos respectiva, pasarán con todos sus derechos y prerrogativas laborales y sociales a la Secretaría de Gobierno sin modificación o alteración alguna.
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO ECONÓMICO”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Reglamento Interior de la Secretaría de Desarrollo Económico surtirá efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Presente Reglamento Interior de la Secretaría de Desarrollo Económico abroga al anterior publicado en la primera sección del Periódico Oficial del Estado de fecha marzo 19 de 2007 y sus reformas posteriores.
