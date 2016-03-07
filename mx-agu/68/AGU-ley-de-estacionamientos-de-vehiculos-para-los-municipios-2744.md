@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-estacionamientos-de-vehiculos-para-los-municipios-2744"
 country: "mx"
 rank: "ley"
 publication_date: "1989-04-09"
-last_updated: "1989-04-09"
+last_updated: "2016-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE ESTACIONAMIENTOS DE VEHICULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES
 
-LEY DE ESTACIONAMIENTOS DE VEHICULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES
+LEY DE ESTACIONAMIENTOS DE VEHÍCULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 9 de abril de 1989.
 
@@ -124,6 +124,14 @@ III.- Privados, los establecidos en áreas, inmuebles, edificaciones o instalaci
 En estos casos, no se requiere licencia o permiso para su establecimiento y funcionamiento ; y
 
 IV.- De vía pública, que son las áreas de la misma que la autoridad municipal determine utilizadas para el estacionamiento pagado o gratuito de vehículos, salvo disposiciones o señalamientos en contrario.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+Tratándose de estacionamientos señalados en la Fracción II de este Artículo, el uso de los cajones de estacionamiento será gratuito por dos horas, siempre que se acredite un consumo o el pago de un servicio en alguno de sus establecimientos.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
+
+Se exceptúan de lo establecido en el párrafo anterior, aquellos estacionamientos que sean administrados por personas cuya actividad sea exclusivamente brindar ese servicio, sin que los locatarios o condóminos reciban un beneficio económico directo o indirecto de ello. La autoridad municipal competente tomará las medidas necesarias para verificar este último supuesto; en estos casos la seguridad quedará a cargo del administrador.
 
 ###### ARTICULO 12.
 
@@ -307,7 +315,7 @@ No se podrá modificar el tipo de estacionamiento para vehículos que se haya au
 
 Los estacionamientos públicos de paga deberán reunir los siguientes requisitos:
 
-I.- Estar pavimentados, drenados adecuadamente y bardeados en sus colidancias (sic) con los predios vecinos;
+I.- Estar pavimentados, drenados adecuadamente y bardeados en sus colidancias con los predios vecinos;
 
 II.- Tener carriles de entrada y salida de vehículos por separado, para que los vehículos en ningún caso utilicen un mismo carril y entren o salgan en reversa;
 
@@ -698,3 +706,13 @@ Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 315.- ADICIONES AL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES Y A LA LEY DE ESTACIONAMIENTOS DE VEHÍCULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
