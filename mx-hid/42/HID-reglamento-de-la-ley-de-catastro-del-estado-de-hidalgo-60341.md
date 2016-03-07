@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-de-catastro-del-estado-de-hidalgo-60341"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-03"
-last_updated: "2008-03-03"
+last_updated: "2016-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 7 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 3 de marzo de 2008.
 
@@ -486,3 +488,15 @@ Dado en la Residencia del Poder Ejecutivo del Estado Libre y Soberano de Hidalgo
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado, Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Catastro del Estado de Hidalgo, publicado en el Periódico Oficial del Estado el 26 de febrero del 2008.
+
+TERCERO. Se derogan las demás disposiciones que se opongan al presente Reglamento.
