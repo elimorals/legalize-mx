@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2015-05-01"
+last_updated: "2016-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -431,7 +431,7 @@ XXXIV.- Difundir los proyectos de educación ambiental y de conservación y desa
 
 XXXV.- Las demás que las disposiciones legales le atribuyan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 11.
 
@@ -511,7 +511,7 @@ XXVI.- Atender los demás asuntos que en materia de preservación del equilibrio
 
 #### SECCION II. De la Coordinación de Competencias entre el Estado y los Municipios
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 12.
 
@@ -555,7 +555,7 @@ En todo caso, el proceso deberá ir acompañada (sic) de la asignación de los r
 
 El Ejecutivo del Estado podrá suscribir con otros estados de la República convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables. Las mismas facultades podrán ejercer los ayuntamientos entre sí o con otros de entidades federativas diferentes, de conformidad con lo que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 17.
 
@@ -895,7 +895,7 @@ VIII.- La delimitación del crecimiento urbano mediante la creación de áreas v
 
 #### SECCION VI. De la Evaluación del Impacto Ambiental
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 38.
 
@@ -1021,7 +1021,7 @@ La Secretaría podrá solicitar asistencia técnica a la Secretaria de Medio Amb
 
 Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y cuando se comprometan a superar o cumplir estrictos niveles, metas o beneficios en materia de protección ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 La Secretaría en el ámbito de su competencia, inducirá o concertará:
 
@@ -1075,7 +1075,7 @@ La Secretaría y los ayuntamientos propiciarán el fortalecimiento de la concien
 
 La Secretaría y los ayuntamientos, en sus correspondientes ámbitos de competencia, fomentarán la realización de investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, así como propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 54.
 
@@ -1101,7 +1101,9 @@ III.- Promover en coordinación, en su caso, con las dependencias del Gobierno F
 
 Las zonas del territorio estatal y aquellas sobre las que el estado ejerce jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieren ser preservadas y restauradas, quedarán sujetas al régimen previsto en esta ley y en los demás ordenamientos aplicables.
 
-Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas deberán sujetarse a las modalidades que de conformidad con la presente ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
+
+Los propietarios, poseedores o titulares de otros derechos sobre tierras y aguas comprendidas dentro de áreas naturales protegidas deberán sujetarse a las modalidades que de conformidad con la presente ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
 
 ARTICULO. 56.- El establecimiento de áreas naturales protegidas en el estado y los municipios, tiene por objeto:
 
@@ -1115,9 +1117,19 @@ IV.- Proporcionar un campo propicio para la investigación científica, el estud
 
 V.- Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas que permitan la preservación y el aprovechamiento sustentable de la biodiversidad del territorio estatal;
 
-VI.- Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, mediante zonas forestales en montañas donde se originen torrentes; el ciclo hidrológico en cuencas, así como las demás que tiendan a la protección de elementos circundantes con los que se relacione ecológicamente el área; y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
+
+VI.- Proteger poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas y ganaderos, mediante el mantenimiento de la funcionalidad de ecosistemas forestales en montañas donde se originen torrentes; el ciclo hidrológico en cuencas, así como las demás que tiendan a la protección de elementos circundantes con los que se relacione ecológicamente el área;
 
 VII.- Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otra áreas de importancia para la recreación, la cultura e identidad estatal.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2016)</small>
+
+VIII.- Recuperar los ecosistemas y sus elementos biológicos en áreas degradadas debido a factores naturales o antropogénicos.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2016)</small>
+
+Los planes y programas de desarrollo urbano estatales y municipales, de ordenamiento territorial y ordenamiento ecológico y demás instrumentos que tengan por objeto imponer modalidades de uso de suelo y aprovechamiento de la tierra y de los recursos naturales, deberán observar lo previsto en las declaratorias de áreas naturales protegidas y zonas de restauración que se ubiquen dentro del territorio del Estado.
 
 #### SECCION II. De los Tipos y Características de las Areas Naturales Protegidas Estatales y Municipales
 
@@ -1127,19 +1139,45 @@ Se consideran áreas naturales protegidas:
 
 I.- De Competencia Estatal:
 
-a) Las reservas; y
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
 
-b) Los parques.
+a) Las reservas naturales;
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
+
+b) Los parques estatales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2016)</small>
+
+c) Los entornos de conservación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2016)</small>
+
+d) Los sitios de protección de usos primarios;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2016)</small>
+
+e) Las reservas naturales voluntarias; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2016)</small>
+
+f) Los monumentos naturales estatales.
 
 II.- De Competencia Municipal:
 
-a) Las zonas de preservación ecológica de los centros de población.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
 
-Para efectos de lo establecido en el presente capítulo, el Ejecutivo del Estado, en los términos que prevenga la presente ley, podrá establecer parques y reservas en áreas relevantes a nivel Estatal, siempre y cuando reúnan las características señaladas en esta ley. Dichos parques y reservas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas de competencia de la Federación, salvo que se trate de áreas de protección de recursos naturales.
+a) Las zonas de conservación ecológica municipal; y
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2016)</small>
 
-En las áreas naturales protegidas queda prohibida la fundación de nuevos centros de población, fraccionamientos, acciones de notificación o cualquier otra actividad de naturaleza análoga que pudiera poner en riesgo el equilibrio de los elementos que conforman el área.
+b) Los parques urbanos municipales.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 8 DE MARZO DE 2016, PÁGINA 35.]</small>
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
+
+Para efectos de lo establecido en el presente capítulo, el Ejecutivo del Estado, en los términos que prevenga la presente ley, podrá establecer áreas naturales protegidas en sitios relevantes a nivel Estatal, siempre y cuando reúnan las características señaladas en esta ley. Dichas áreas no podrán establecerse en zonas previamente declaradas como áreas naturales protegidas de competencia de la Federación, salvo que se trate de áreas de protección de recursos naturales. En caso de que se emita una declaratoria sobre un área previamente declarada de protección de recursos naturales, deberá existir una coordinación entre el Estado y la Federación, respecto a las acciones a llevar a cabo y a los contenidos de los programas de manejo que para tal efecto se emitan.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -1147,31 +1185,97 @@ En las áreas naturales protegidas queda prohibida la fundación de nuevos centr
 
 En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere el artículo anterior, la Secretaría o las autoridades municipales, en sus respectivos ámbitos de competencia promoverán la participación de los propietarios o poseedores de dichas áreas y demás organizaciones sociales públicas y privadas con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 59.
 
-En las zonas núcleo de las áreas naturales protegidas quedará expresamente prohibido:
+En las áreas naturales protegidas quedará expresamente prohibido:
 
 I.- Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
 
-II.- Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
 
-III.- Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestres; y
+II.- Interrumpir, rellenar, desecar o desviar los flujos hidráulicos o los cauces y cuerpos de agua naturales;
 
-IV.- Ejecutar acciones que contravengan lo dispuesto por esta ley, la declaratoria respectiva y demás disposiciones que de ellas se deriven.
+III.- (DEROGADA, P.O. 8 DE MARZO DE 2016)
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
+
+IV.- Llevar a cabo acciones que tengan como resultado la afectación o alteración del paisaje, de los recursos naturales y de los procesos biológicos;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2016)</small>
+
+V.- Llevar a cabo la fundación de nuevos centros de población, fraccionamientos, acciones de lotificación, subdivisión o cualquier otra actividad que pudiera poner en riesgo el equilibrio de los elementos que conforman el área; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2016)</small>
+
+VI.- Ejecutar acciones que contravengan lo dispuesto por esta ley, así como aquellas prohibiciones que expresamente establezca la declaratoria respectiva, los planes de manejo y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 60.
 
-Las reservas estatales se constituirán en áreas biogeográficas relevantes a nivel estatal, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados y en las cuales habiten especies representativas de la biodiversidad estatal, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.
+Las reservas naturales se constituirán en áreas biogeográficas relevantes a nivel estatal, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser conservados y restaurados, por los servicios ambientales que pudieran proveer y en las cuales habiten especies endémicas, amenazadas, de protección especial o en peligro de extinción.
 
-En tales reservas podrá determinarse la existencia de la superficie o superficies mejor conservadas, o no alteradas, que alojen ecosistemas, o fenómenos naturales de especial importancia, o especies de flora y fauna que requieran protección especial, y que serán conceptuadas como zona o zonas núcleo. En ellas podrá autorizarse la realización de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ambiental y, en su caso, limitarse o prohibirse aprovechamientos que alteren los ecosistemas.
+En ellas podrán realizarse actividades de protección, manejo, conservación y recuperación de sus recursos naturales, el incremento de su flora y fauna nativa, y autorizarse actividades relativas a la investigación científica, recreación, turismo de naturaleza sustentable, educación y cultura ambiental, de conformidad con lo que disponga la declaratoria respectiva, su programa de manejo y las demás disposiciones aplicables. Así mismo, podrá autorizarse el aprovechamiento de los recursos naturales que no alteren los ecosistemas presentes y no afecten los propósitos de conservación, sujetándose a las leyes y reglamentos aplicables, a las normas oficiales mexicanas, normas técnicas estatales, programas de ordenamiento territorial, ecológico y usos del suelo que al efecto se establezcan en la propia declaratoria.
 
-En las propias reservas deberá determinarse la superficie o superficies que protejan la zona núcleo del impacto exterior, que serán conceptuadas como zonas de amortiguamiento, en donde sólo podrán realizarse actividades productivas emprendidas por las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, siempre que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 61.
 
-Los parques estatales se constituirán, tratándose de representaciones biogeográficas, a nivel estatal, de uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, así como por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.
+Los parques estatales podrán ser ubicados dentro y fuera de las manchas urbanas y se constituirán de uno o más sitios valorados por su belleza escénica, valor científico, de recreo, histórico, de servicios ambientales, por la existencia de flora y fauna, y que además tengan aptitud para el desarrollo de actividades de educación y cultura ambiental, recreativas, de esparcimiento y otras actividades análogas.
 
-En los parques estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y, en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo y educación ambiental.
+En los parques estatales podrá permitirse la realización de actividades relacionadas con la protección y recuperación de recursos naturales y servicios ambientales, así como con la investigación, recreación, turismo de naturaleza sustentable, educación y cultura ambiental y, en general aquellas actividades que promuevan el bienestar social, el desarrollo sustentable, sin que pongan en riesgo las condiciones ambientales del sitio.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2016)</small>
+
+ARTICULO 61 BIS.- Los entornos de conservación se establecerán en áreas que contengan uno o varios elementos naturales, que por su carácter único o excepcional, interés estético, valor histórico, cultural, antropológico o científico, se resuelva incorporar a un régimen de conservación, cuyo objeto sea el de proteger los bienes naturales, históricos, culturales, de infraestructura, de usos y costumbres y demás características de naturaleza análoga.
+
+En los entornos de conservación pueden realizarse actividades de carácter doméstico, comercial, económico, recreativo, social, educativo, cultural, de usos y costumbres y cualquier otra relacionada con el desarrollo social de las comunidades presentes en el sitio. Así mismo, se promoverán las actividades relacionadas a la conservación y recuperación de los recursos naturales, investigación científica, recreación, turismo de naturaleza sustentable, actividades de educación y cultura ambiental y demás de naturaleza análoga. Las actividades que se lleven a cabo, deberán observar lo previsto en la propia declaratoria, los planes y programas de desarrollo urbano estatales y municipales, de ordenamiento territorial, ordenamiento ecológico y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2016)</small>
+
+ARTICULO 61 BIS 1.- Los sitios de protección de usos primarios se constituirán en aquellas zonas en las que se lleven a cabo actividades de carácter primario, tales como la ganadería extensiva, agricultura tradicional, aprovechamiento de recursos forestales y actividades cinegéticas relacionadas a valores ambientales, culturales, tradicionales o históricos, en las que se aprovechen recursos naturales de manera sustentable y continua, sin ocasionar alteraciones en los ecosistemas presentes.
+
+En los sitios de protección de usos primarios, se promoverá la continuidad de las actividades primarias que se lleven a cabo dentro de la misma, siempre y cuando sean esenciales para el desarrollo social, se promueva la permanencia de las prácticas tradicionales, culturales e históricas, además de que se lleven a cabo sin deteriorar los ecosistemas, modificar el paisaje de forma sustancial, ni causar impactos ambientales irreversibles en los elementos naturales que los conforman.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2016)</small>
+
+ARTICULO 61 BIS 2.- Las reservas naturales voluntarias se constituirán en aquellas zonas en las que los propietarios promuevan esquemas de manejo, conservación y recuperación de los recursos naturales presentes.
+
+Los interesados en constituir una reserva natural voluntaria, deberán presentar ante la Secretaría, una solicitud por escrito que contenga:
+
+I. Nombre del propietario;
+
+II. Documento legal que acredite la propiedad del predio;
+
+III. La resolución, en su caso, de la asamblea ejidal o comunal en la que se manifieste la voluntad de destinar los predios a conservación; y
+
+IV. Nombre de las personas autorizadas para realizar actos de administración en el área.
+
+En las reservas naturales voluntarias podrá autorizarse, en coordinación con los propietarios, la realización de actividades de conservación de los ecosistemas y sus elementos, la protección, manejo, preservación y recuperación de sus recursos naturales, el incremento de su flora y fauna nativa, así como la investigación científica, recreación, turismo de naturaleza sustentable, educación y cultura ambiental, de conformidad con lo que disponga la declaratoria respectiva, su programa de manejo y las demás disposiciones aplicables.
+
+Podrá autorizarse el aprovechamiento de los recursos naturales que no alteren los ecosistemas presentes y no afecten los propósitos de conservación, sujetándose a las leyes y reglamentos aplicables, a las normas oficiales mexicanas, normas técnicas estatales, programas de ordenamiento territorial, ecológico y usos del suelo que al efecto se establezcan en la propia declaratoria.
+
+Se permitirá delimitar dentro de estas áreas, zonas de sacrificio en donde se desarrollen actividades extractivas o de uso de alto impacto.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2016)</small>
+
+ARTICULO 61 BIS 3.- Los monumentos naturales estatales, se constituyen por uno o varios elementos naturales de singular valor paisajístico, histórico o geológico, que representen un símbolo de identidad o se considere emblemático para el Estado, razones por las cuales se resuelva incorporarlos a un régimen de protección especial.
+
+En los monumentos naturales estatales, podrán permitirse acciones de investigación, conservación, recuperación, recreación y turismo de naturaleza sustentable, en los casos que así se determine dentro del programa de manejo correspondiente y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2016)</small>
+
+ARTICULO 61 BIS 4.- Las zonas de conservación ecológica municipal, se constituirán en áreas biogeográficas relevantes a nivel municipal, fuera de las áreas urbanas, representativas de uno o más ecosistemas que requieran ser conservados y restaurados, por los servicios ambientales que pudieran proveer y en las cuales habiten especies de flora y fauna nativa de interés para la región.
+
+En ellas podrán realizarse las actividades que para tal efecto determinen las disposiciones de carácter local.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2016)</small>
+
+ARTICULO 61 BIS 5.- Los parques urbanos municipales se ubicarán dentro de las manchas urbanas y se constituirán de uno o más sitios valorados por su belleza escénica, valor científico, de recreo, histórico, de servicios ambientales, por la existencia de flora y fauna, y que además tengan aptitud para el desarrollo de actividades de educación y cultura ambiental, recreativas, de esparcimiento y otras actividades análogas.
+
+En los parques urbanos municipales podrán realizarse las actividades que para tal efecto determinen las disposiciones de carácter local.
 
 ###### ARTICULO 62.
 
@@ -1203,21 +1307,29 @@ I.- Los gobiernos municipales en cuyas circunscripciones territoriales se locali
 
 II.- Las dependencias y entidades de las Administraciones Pública Federal y Estatal que deban intervenir, de conformidad con sus atribuciones;
 
-III.- Las organizaciones sociales públicas o privadas y demás personas físicas o morales interesadas; y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
 
-IV.- Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado interesados en el establecimiento, administración y vigilancia de áreas naturales protegidas.
+III.- Organizaciones sociales públicas o privadas y demás personas físicas o morales interesadas que tengan por objeto la conservación o el manejo de las áreas naturales protegidas; y
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
+
+IV.- Universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado interesados en el establecimiento, administración y vigilancia de áreas naturales protegidas.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 66.
 
-Las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante el Ejecutivo del Estado, el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría, en su caso, promoverá ante el Ejecutivo Estatal la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de dicha Secretaría conforme a sus atribuciones.
+Las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante el Ejecutivo del Estado, el establecimiento, en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la conservación, protección y restauración de la biodiversidad bajo el esquema de reservas naturales voluntarias, en los términos del artículo 61 BIS 2. La Secretaría, en su caso, promoverá ante el Ejecutivo Estatal, la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de dicha Secretaría conforme a sus atribuciones.
 
-Así mismo, los sujetos señalados en el párrafo anterior, podrán destinar voluntariamente los predios que les pertenezcan a acciones de preservación de los ecosistemas y su biodiversidad. Para tal efecto, podrán solicitar al Ejecutivo del Estado el reconocimiento respectivo. El certificado que emita dicha autoridad, deberá contener, por lo menos, el nombre del promovente, la denominación del área respectiva, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público.
+Así mismo, los sujetos señalados en el párrafo anterior, podrán destinar voluntariamente los predios que les pertenezcan a acciones de conservación de los ecosistemas. Para tal efecto, podrán solicitar al Ejecutivo del Estado el reconocimiento respectivo. La declaratoria que emita dicha autoridad, deberá contener, por lo menos, el nombre del promovente, la denominación del área respectiva, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público.
 
 ###### ARTICULO 67.
 
 Las declaratorias para el establecimiento de las áreas naturales protegidas señaladas en el Artículo 57 de esta ley deberán contener, por lo menos, los siguientes aspectos:
 
-I.- La delimitación precisa del área, señalando la superficie, ubicación, deslinde y, en su caso, la zonificación correspondiente;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
+
+I.- La delimitación precisa del área, señalando la superficie, ubicación y, en su caso zonificación;
 
 II.- Las modalidades a que se sujetará dentro del área, el uso o aprovechamiento de los recursos naturales en general o específicamente de aquellos sujetos a protección;
 
@@ -1225,19 +1337,39 @@ III.- La descripción de actividades que podrán llevarse a cabo en el área cor
 
 IV.- La causa de utilidad pública que, en su caso, fundamente la expropiación de terrenos, para que el estado adquiera su dominio, cuando al establecerse un área natural protegida se requiera dicha resolución; en estos casos, deberán observarse las previsiones de las leyes de Expropiación, Agraria y los demás ordenamientos aplicables;
 
-V.- Los lineamientos generales para la administración, el establecimiento de órganos colegiados representativos, la creación de fondos o fideicomisos y la elaboración del programa de manejo del área; y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
 
-VI.- Los lineamientos para la realización de las acciones de preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva, conforme a lo dispuesto en esta Ley, la Ley del Servicio Forestal Estatal de Coahuila de Zaragoza, otras leyes y reglamentos aplicables.
+V.- Los lineamientos generales para la administración, el establecimiento de órganos colegiados representativos, la elaboración del programa de manejo del área y, en su caso, la creación de fondos o fideicomisos; y
 
-Tratándose de la conservación, prevención, restauración, manejo y vigilancia de las áreas naturales protegidas de competencia estatal, se estará a lo dispuesto por esta Ley, así como por lo establecido en la Ley del Servicio Forestal Estatal de Coahuila de Zaragoza, y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
 
-Las medidas que el Ejecutivo estatal podrá imponer para la preservación y protección de las áreas naturales protegidas, serán únicamente las que se establecen, según las materias respectivas, en la presente Ley, en la Ley del Servicio Forestal Estatal de Coahuila de Zaragoza, en las Leyes Forestal Federal, de Aguas Nacionales, de Pesca, Federal de Caza, y las demás que resulten aplicables.
+VI.- Los lineamientos para la realización de las acciones de conservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva, conforme a lo dispuesto en esta Ley, la Ley Forestal del Estado de Coahuila de Zaragoza, otras leyes y reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
+
+Tratándose de la conservación, prevención, restauración, manejo y vigilancia de las áreas naturales protegidas de competencia estatal, se estará a lo dispuesto por esta Ley, así como por lo establecido en la Ley Forestal del Estado de Coahuila de Zaragoza, y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
+
+Las medidas que el Ejecutivo estatal podrá imponer para la conservación y protección de las áreas naturales protegidas, serán únicamente las que se establecen, según las materias respectivas, en la presente Ley, en la Ley Forestal del Estado de Coahuila de Zaragoza, en las Leyes Forestal Federal, de Aguas Nacionales, de Pesca, de Vida Silvestre, y las demás que resulten aplicables.
 
 El Ejecutivo del Estado promoverá la elaboración de los programas de ordenamiento ecológico del territorio dentro y en las zonas de influencia de las áreas naturales protegidas, con el propósito de generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 68.
 
-Las declaratorias deberán publicarse en el Periódico Oficial del Gobierno del Estado y se notificarán previamente a los propietarios o poseedores de los predios afectados, en forma personal cuando se conocieren sus domicilios; en caso contrario se hará una segunda publicación, la que surtirá efectos de notificación. Las declaratorias se inscribirán en la o las oficinas del Registro Público de la Propiedad que correspondan.
+Las declaratorias de las áreas naturales protegidas deberán publicarse en el Periódico Oficial del Gobierno del Estado, y deberán observarse los siguientes lineamientos:
+
+I. Tratándose de reservas estatales, deberá notificarse, previamente a la publicación de la declaratoria, un aviso a los propietarios o poseedores de los predios afectados en forma personal cuando se conocieren sus domicilios, este aviso deberá publicarse además en el Periódico Oficial del Gobierno del Estado. En caso de desconocerse el domicilio de los propietarios o poseedores, se hará una segunda publicación del aviso, la que surtirá efectos de notificación personal;
+
+II. Tratándose de parques estatales, sitios de protección de usos primarios, reservas naturales voluntarias y monumentos naturales estatales, deberá contarse previo a la publicación de la declaratoria con el consentimiento expreso de los propietarios o de aquellos que tengan derechos sobre el sitio;
+
+III. Tratándose de entornos de conservación, deberá enviarse a los municipios donde se ubique el sitio, a fin de que de manera coordinada se emitan de manera previa a la publicación de la declaratoria, los avisos a la ciudadanía e interesados, en el Periódico Oficial del Gobierno del Estado, en la gaceta municipal correspondiente, así como en uno de los periódicos de mayor circulación en la región que corresponda, con el fin de que los propietarios, poseedores y quienes tengan derecho sobre bienes ubicados en el sitio susceptible de protección, manifiesten, en su caso, su inconformidad con la declaratoria, en un plazo que no exceda de noventa días naturales contados a partir de la publicación; y
+
+IV. En el caso de las áreas naturales protegidas de competencia municipal, se deberán observar las disposiciones locales que para tal efecto se emitan.
+
+Las declaratorias se inscribirán en la o las oficinas del Registro Público que correspondan.
 
 ###### ARTICULO 69.
 
@@ -1261,9 +1393,13 @@ Los terrenos de propiedad estatal ubicados dentro de áreas naturales protegidas
 
 En el otorgamiento o expedición de permisos, licencias, concesiones, o en general de autorizaciones a que se sujetaren la exploración, explotación o aprovechamiento de recursos en áreas naturales protegidas, se observarán las disposiciones de la presente ley, y lo que al respecto establezcan las declaratorias correspondientes y los programas de manejo.
 
-Los interesados en tales aprovechamientos deberán en tales casos demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate, sin causar deterioro al equilibrio ecológico.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
 
-El Ejecutivo del Estado y los municipios, tomando como base los estudios técnicos y socioeconómicos practicados, podrán solicitar a la autoridad competente la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico.
+Los interesados en estos aprovechamientos deberán, en tales casos demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate, sin causar deterioro al equilibrio ecológico, ni afectar las condiciones ambientales, paisajísticas y los procesos evolutivos. En caso de afectarse el paisaje o el entorno natural deberá implementar un programa de restauración, el cual se someterá a aprobación de la Secretaría y demás autoridades que procedan.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
+
+El Ejecutivo del Estado, a través de las autoridades ambientales correspondientes y los municipios, tomando como base los estudios técnicos y socioeconómicos practicados, podrán solicitar a la autoridad competente la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de recursos naturales ocasione o pueda ocasionar deterioro al equilibrio ecológico, o pudieran afectar las condiciones ambientales, paisajísticas y los procesos evolutivos del área.
 
 ###### ARTICULO 72.
 
@@ -1297,7 +1433,9 @@ El programa de manejo de las áreas naturales protegidas deberá contener, por l
 
 I.- La descripción de las características físicas, biológicas, sociales, culturales e históricas del área natural protegida, en el contexto nacional, regional y local, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
 
-II.- Las acciones a realizar a corto, mediano y largo plazo, estableciendo su vinculación con el Plan Estatal de Desarrollo, así como con los programas sectoriales correspondientes. Dichas acciones comprenderán, entre otras las siguientes: de investigación y educación ambientales, de protección y aprovechamiento sustentable de los recursos naturales, la flora y la fauna; para el desarrollo de actividades recreativas, turísticas, obras de infraestructura y demás actividades productivas; de financiamiento para la administración del área; de prevención y control de contingencias; de vigilancia y las demás que por las características propias del área natural protegida se requieran;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
+
+II.- Las acciones a realizar a corto, mediano y largo plazo, estableciendo su vinculación con el Plan Estatal de Desarrollo y su Programa Sectorial de Medio Ambiente que se encuentren vigentes. Dichas acciones comprenderán, entre otras las siguientes: de investigación, educación y cultura ambiental, de protección y aprovechamiento sustentable de los recursos naturales; para el desarrollo de actividades recreativas, turismo de naturaleza sustentable, obras de infraestructura y demás actividades productivas; de financiamiento para la administración del área; de prevención y control de contingencias; de vigilancia y las demás que por las características propias del área natural protegida se requieran;
 
 III.- La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
 
@@ -1313,7 +1451,7 @@ VII.- Las reglas de carácter administrativo a que se sujetarán las actividades
 
 El Ejecutivo del Estado deberá publicar en el Periódico Oficial del Gobierno del Estado un resumen del programa de manejo respectivo y el plano de localización del área.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 77.
 
@@ -1323,15 +1461,15 @@ El Ejecutivo del Estado podrá, una vez que se cuente con el programa de manejo 
 
 Quienes en virtud de lo dispuesto en este artículo adquieran la responsabilidad de administrar las áreas naturales protegidas, estarán obligados a sujetarse a las previsiones contenidas en la presente ley, los reglamentos, normas oficiales mexicanas así como de las normas técnicas estatales que se emitan que se expidan en la materia; así como a cumplir los decretos por los que se establezcan dichas áreas y los programas de manejo respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 78.
 
-El Ejecutivo del Estado integrará el Registro Estatal de Áreas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés estatal y los instrumentos que los modifiquen. Deberán consignarse en dicho Registro los datos de la inscripción de los decretos respectivos en las oficinas del Registro Público que correspondan. Así mismo, se deberá integrar el registro de los certificados a que se refiere el Artículo 66 de esta ley.
+El Ejecutivo del Estado, por conducto de la Secretaría, integrará el Registro Estatal de Áreas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés estatal y los instrumentos que los modifiquen. Deberán consignarse en dicho Registro, los datos de la inscripción de los decretos respectivos en las oficinas del Registro Público que correspondan.
 
 Cualquier persona podrá consultar el Registro Estatal de Areas Naturales Protegidas, el cual deberá ser integrado al Sistema Nacional de Información Ambiental y de Recursos Naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 79.
 
@@ -1341,7 +1479,7 @@ Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar l
 
 #### SECCION IV. Del Sistema Estatal de Areas Naturales Protegidas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 80.
 
@@ -1357,29 +1495,53 @@ Las dependencias y entidades de la administración pública estatal y los munici
 
 ### CAPITULO II. DE LAS ZONAS DE RESTAURACION
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 82.
 
-El Ejecutivo del Estado, por conducto de la Secretaría, en coordinación con los municipios y, en su caso, con las universidades y sociedad civil podrá emitir la declaratoria de Zona de Restauración en aquellas áreas en las que se presenten procesos acelerados de degradación o desertificación que impliquen la pérdida de recursos de difícil regeneración, recuperación o restablecimiento, afectaciones irreversibles a los ecosistemas o sus elementos, o graves desequilibrios ecológicos, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ella se desarrollaban.
+El Ejecutivo del Estado, por conducto de la Secretaría, y en su caso, en coordinación con municipios, universidades y sociedad civil, podrá emitir la declaratoria de Zona de Restauración, en aquellas áreas en las que:
+
+I. Se presenten procesos acelerados de degradación o desertificación que impliquen la pérdida de recursos de difícil regeneración, recuperación o restablecimiento;
+
+II. Tengan afectaciones graves a los ecosistemas o sus elementos;
+
+III. Se presenten daños ambientales severos o graves desequilibrios ecológicos debido a eventos meteorológicos o catastróficos por causas naturales o antropogénicas; y
+
+IV. Se presente cualquier otra actividad que implique una afectación grave a los ecosistemas presentes en el área.
+
+La declaratoria de las zonas de restauración, se emitirá con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ella se desarrollaban, y provean de servicios ambientales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2016)</small>
+
+ARTICULO 82 BIS.- El Ejecutivo del Estado, por conducto de la Secretaría, emitirá la declaratoria para el establecimiento de zonas de restauración, debiendo elaborar previamente los estudios que justifiquen dicha solicitud.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2016)</small>
+
+Las declaratorias deberán publicarse en el Periódico Oficial del Gobierno del Estado. Así mismo, deberán ser inscritas, en el Registro Público que corresponda.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 82 BIS.- El Ejecutivo del Estado, por conducto de la Secretaría emitirá la declaratoria para el establecimiento de zonas de restauración ecológica, debiendo elaborar previamente los estudios que justifiquen dicha solicitud.
-
-Las declaratorias deberán publicarse en el Periódico Oficial del Estado. Así mismo, deberán ser inscritas en el Registro Público de la Propiedad que corresponda.
-
 Las declaratorias podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad, y expresarán:
 
-I. La delimitación de la zona sujeta a restauración ecológica, precisando superficie, ubicación y deslinde;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
+
+I. La delimitación de la zona sujeta a restauración, precisando superficie y ubicación;
 
 II. Las acciones necesarias para regenerar, recuperar o restablecer las condiciones naturales de la zona;
 
 III. Las condiciones a que se sujetarán, dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad;
 
-IV. Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, gobiernos locales y demás personas interesadas, y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
 
-V. Los plazos para la ejecución del programa de restauración ecológica respectivo.
+IV. Los lineamientos para la elaboración y ejecución del programa de restauración correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, gobiernos locales y demás personas interesadas; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2016)</small>
+
+V. Los plazos para la ejecución del programa de restauración respectivo.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2016)</small>
+
+Para el establecimiento de zonas de restauración deberán observarse lo previsto en los artículos 64, 65, 67, 68 fracción I, 69, 70, 71, 72, 73, 74, 75, 76 y 77 de esta ley y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -1807,7 +1969,7 @@ III.- Que el aprovechamiento del agua en actividades productivas, que impliquen 
 
 IV.- Que las aguas residuales, no domésticas, deberán recibir tratamiento previo a su descarga a los sistemas de alcantarillado. Todas las aguas residuales que se indican en el artículo 133 de esta ley, y que sobrepasen los limites de contaminantes establecidos en las normas oficiales mexicanas, así como de las normas técnicas estatales que se emitan, deberán recibir tratamiento previo a su descarga a los cuerpos de agua.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 128.
 
@@ -2091,7 +2253,7 @@ Los municipios promoverán ante la Secretaría la atención de los asuntos relac
 
 La Secretaría y los municipios deberán promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental y de los recursos naturales; en la aplicación de sus instrumentos en actividades de información y vigilancia y en general en las acciones de conservación y desarrolle (sic) ecológico y protección al ambiente que lleven a cabo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 158.
 
@@ -2141,7 +2303,7 @@ Toda persona tendrá derecho a que la Secretaría o, en su caso, los municipios,
 
 Para los efectos de lo dispuesto en el presente ordenamiento, se considera información ambiental, cualquier información escrita, visual o en forma de base de datos, de que disponga la Secretaría en materia de recursos naturales en general, así como sobre las actividades o medidas que les afectan o puedan afectarlos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 162.
 
@@ -2816,3 +2978,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Secretaría de Medio Ambiente, dentro de los diez días naturales siguientes contados a partir de la entrada en vigor del presente decreto, deberá de realizar las modificaciones que resulten necesarias al Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza en Materia de Impacto Ambiental.
 
 TERCERO.- Los procedimientos relativos a la evaluación del impacto ambiental que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán sustanciándose de acuerdo a la legislación vigente al momento de su inicio.
+
+P.O. 8 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 380.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- El Ejecutivo del Estado, mediante decreto que se publicará en el Periódico Oficial del Gobierno del Estado, deberá determinar la categoría de área natural protegida que, conforme a lo dispuesto en este decreto, corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor del mismo, cuya caracterización sea análoga o similar a la descripción de alguna de las áreas naturales protegidas de competencia estatal previstas en este decreto.
+
+TERCERO.- Los municipios, mediante el instrumento legal que para tal efecto determinen, deberán solicitar la publicación en el Periódico Oficial del Gobierno del Estado, y publicar en la Gaceta municipal correspondiente, la categoría de área natural protegida que, conforme a lo dispuesto en este decreto, corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor del mismo, cuya caracterización sea análoga o similar a la descripción de alguna de las áreas naturales protegidas de competencia municipal previstas en este decreto.
+
+CUARTO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
