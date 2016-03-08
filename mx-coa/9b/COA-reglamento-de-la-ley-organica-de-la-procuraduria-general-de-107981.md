@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-107
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-05-12"
-last_updated: "2015-05-12"
+last_updated: "2016-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 15 DÍAS HÁBILES SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 8 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 15 DÍAS HÁBILES SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 12 de mayo de 2015.
 
@@ -6500,3 +6500,21 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente reglamento entrará en vigor a los 15 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Con la entrada en vigor del presente Reglamento se abroga el Reglamento de la Ley Orgánica de la Procuraduría General del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado, en fecha 12 de mayo de 2015.
+
+TERCERO.- Todas las disposiciones contenidas en este reglamento que se relacionen con el Sistema de Justicia Penal Acusatorio Adversarial, tendrán aplicación una vez que éste se implemente en los diversos Distritos Judiciales del Estado, de acuerdo al orden de gradualidad que determine el Consejo de la Judicatura del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+CUARTO.- Todas las disposiciones, menciones y referencias que se hagan en este reglamento respecto al término "Código de Procedimientos Penales", se entenderán hechas al Código Nacional de Procedimientos Penales, el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 17 de febrero de 2012, y el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, de acuerdo a la gradualidad de la implementación del Sistema Penal Acusatorio Adversarial.
+
+QUINTO.- Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta en tanto se expidan los nuevos, con todos los efectos legales y responsabilidades en ellos conferidos.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
