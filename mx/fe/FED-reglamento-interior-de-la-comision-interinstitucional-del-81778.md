@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-del-81778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-22"
-last_updated: "2016-02-23"
+last_updated: "2016-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-06-14"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MARZO DE 2016 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA COMISIÓN INTERINSTITUCIONAL DEL CUADRO BÁSICO Y CATÁLOGO DE INSUMOS DEL SECTOR SALUD
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2016.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 8 DE MARZO DE 2016.]
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 22 de junio de 2011.
 
@@ -263,11 +263,21 @@ III. De Auxiliares de Diagnóstico;
 
 IV. De Instrumental y Equipo Médico;
 
-V. De Remedios Herbolarios;
+> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2016)</small>
 
-VI. De Medicamentos Homeopáticos;
+V. De Osteosíntesis y Endoprótesis;
 
-VII. De Insumos de Acupuntura.
+> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2016)</small>
+
+VI. De Remedios Herbolarios;
+
+> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2016)</small>
+
+VII. De Medicamentos Homeopáticos;
+
+> <small>(F. DE E., D.O.F. 8 DE MARZO DE 2016)</small>
+
+VIII. De Insumos de Acupuntura.
 
 > <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
