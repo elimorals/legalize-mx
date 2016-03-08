@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-tecnologica-de-la-zona-36499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-30"
-last_updated: "2003-12-30"
+last_updated: "2016-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE LA ZONA METROPOLITANA DE GUADALAJARA
+LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2016.
 
 Ley publicada en la Sección Décimo Novena del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 2003.
 
@@ -141,7 +141,9 @@ El Consejo Directivo, será el órgano máximo de gobierno de la Universidad y s
 
 I. Tres representantes del Poder Ejecutivo Federal, designados por el Secretario de Educación Pública; contando entre ellos con un representante de la Coordinación de Universidades Tecnológicas;
 
-II. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, designados por el Ejecutivo Estatal, entre los cuales se encontrará el titular de la Secretaría de Educación o su representante y un representante de la Secretaría de Promoción Económica;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
+
+II. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, designados por el Ejecutivo Estatal, entre los cuales se encontrará el titular de la Secretaría de Educación o su representante y un representante de la Secretaría de Desarrollo Económico;
 
 III. Tres representantes del Sector productivo del Estado de Jalisco, a invitación del titular del Poder Ejecutivo Estatal;
 
@@ -456,3 +458,11 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25800/LXI/16 QUE REFORMA EL ARTÍCULO 8° DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA ZONA METROPOLITANA DE GUADALAJARA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
