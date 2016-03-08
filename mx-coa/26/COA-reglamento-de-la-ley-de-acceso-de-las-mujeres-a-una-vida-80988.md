@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-de-acceso-de-las-mujeres-a-una-vida-80988"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-12"
-last_updated: "2011-04-12"
+last_updated: "2016-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 8 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2016 (DEROGADO)
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 12 de abril de 2011.
 
@@ -764,3 +766,23 @@ EL SECRETARIO DE SALUD
 DR. RAYMUNDO S. VERDUZCO ROSAN
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 379.- LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado.
+
+SEGUNDO. El Reglamento de esta Ley deberá ser expedido dentro de los 180 días naturales posteriores a su publicación.
+
+TERCERO. Las dependencias, entidades y municipios del Estado, encargadas del cumplimiento del objeto de la presente Ley, deberán requerir como prioritarios, en su Presupuesto Operativo Anual, las partidas y recursos necesarios para su cumplimiento.
+
+CUARTO. El Proyecto de Presupuesto de Egresos Anual, deberá incluir como prioritarios, con base en los presupuestos operativos anuales enviados por las dependencias, las partidas y recursos necesarios para la aplicación y cumplimiento de la presente Ley.
+
+Asimismo, el Tribunal Superior de Justicia, deberá integrar en su presupuesto los recursos necesarios para el cumplimiento de las atribuciones que le otorga esta Ley.
+
+QUINTO. Se deroga la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza del 11 de julio de 2008 y su Reglamento.
+
+SEXTO. Se derogan todas aquellas disposiciones que se opongan al contenido de la presente ley.
