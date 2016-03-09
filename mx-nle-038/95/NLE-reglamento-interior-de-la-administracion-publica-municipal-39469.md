@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-administracion-publica-municipal-3946
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-30"
-last_updated: "2004-04-30"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA MUNICIPAL DE MONTEMORELOS, NUEVO LEON
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA MUNICIPAL DE MONTEMORELOS, NUEVO LEON
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE MONTEMORELOS, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTEMORELOS, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de abril de 2004.
 
@@ -838,3 +840,19 @@ SÍNDICO PRIMERO
 PROFR. JOEL TÉLLEZ GUZMÁN
 
 SINDICO SEGUNDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTEMORELOS, NUEVO LEÓN”.]
+
+PRIMERO.- Se abroga el Reglamento Interior de la Administración Pública Municipal de Montemorelos, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León en fecha 30-treinta de abril de 2004-dos mil cuatro.
+
+SEGUNDO.- El presente Reglamento Orgánico del Gobierno Municipal de Montemorelos, Nuevo León, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Al momento de entrar en vigor el presente Reglamento las Secretarías y Dependencias municipales que son reguladas en él, gozarán de las atribuciones que les confieren las normativas en vigor, en cuanto no se opongan a lo dispuesto en éste ordenamiento, asimismo los demás reglamentos municipales que invoquen a una dependencia que por este reglamento se hubiese modificado de nombre, deberán de ajustarse a lo prescrito por este ordenamiento.
+
+CUARTO.- Se deja sin efecto legal alguno, cualquier disposición que contravenga el presente Reglamento.
+
+QUINTO.- Envíese el presente Reglamento al Secretario General de Gobierno para que por su conducto sea publicado en el Periódico Oficial del Estado; así también deberá de ser publicado en la Página de Internet del Municipio de Montemorelos, Nuevo León. Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la Presidencia Municipal de Montemorelos, Nuevo León, a los 25-veinticinco días del mes de febrero del 2016-dos mil dieciséis.
