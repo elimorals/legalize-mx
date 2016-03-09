@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-del-servicio-profesional-de-carrera-de-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-13"
-last_updated: "2015-10-30"
+last_updated: "2016-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 junio de 2012.
 
@@ -333,6 +333,10 @@ II. Los servidores públicos que ocupen puestos no comprendidos en los niveles d
 
 III. Los servidores públicos que presten sus servicios profesionales independientes en favor de la Auditoría, que podrán ser contratados siempre y cuando se justifique que dicha modalidad es exigida por normas o reglas oficiales.
 
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+IV. Los servidores públicos que ocupen los puestos contemplados en los niveles de operación establecidos en el artículo 5 de la Ley que presten sus servicios en forma temporal, en los términos del Reglamento.
+
 Los servidores públicos mencionados en las fracciones I y II deberán cumplir con los requisitos de ingreso a la Auditoría que marca el artículo 19 de la Ley, exceptuando con lo establecido en la fracción IV cuando el perfil del puesto no lo exija, con la fracción VIII y podrán entregar el testimonio establecido en el último párrafo del mencionado artículo sin el requisito que esté certificado ante fedatario público. Para ser seleccionados para su ingreso, estarán exceptuados del examen de conocimientos establecido en la fracción I del artículo 21 de la Ley, cuando el perfil del puesto no lo exija.
 
 Los servidores públicos mencionados en la fracción I deberán cumplir con todos los requisitos establecidos en el artículo 19 de la Ley, exceptuando sólo con lo establecido en la fracción VIII.
@@ -410,6 +414,16 @@ c) Cambio de adscripción;
 d) Renuncia, cese de los efectos del Nombramiento, pensión o jubilación; y
 
 II. Por creación de plazas.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+Artículo 33 bis. El Auditor General podrá autorizar el nombramiento temporal hasta por seis meses para ocupar una vacante del Servicio Profesional de Carrera, sin necesidad de sujetarse al procedimiento de ingreso al Servicio Profesional de Carrera a que se refieren la Ley y el Reglamento, siempre y cuando la persona a quien se designe reúna el perfil del puesto y los requisitos establecidos en el artículo 19 de la Ley, con excepción del enunciado en su fracción VIII. Lo anterior, sin perjuicio de que durante dicho periodo, se lleve a cabo el proceso de ingreso al Servicio Profesional de Carrera para ocupar la vacante en definitiva.
+
+La persona que haya sido nombrada temporalmente en los términos del presente artículo, no creará derechos respecto al ingreso al Servicio Profesional de Carrera y no podrá al vencimiento de su nombramiento ocupar temporalmente el mismo puesto, por lo que cesará en sus funciones sin dilación.
+
+Una misma persona no podrá ser nombrada conforme a lo previsto en el presente artículo, en distintos puestos dentro del periodo de un año, contado a partir del inicio de su primer nombramiento.
+
+El servidor público con nombramiento temporal podrá participar en la convocatoria pública y abierta para ocupar el puesto de que se trate, siempre y cuando reúna los requisitos previstos en la Ley, el Reglamento y demás disposiciones aplicables.
 
 #### SECCIÓN CUARTA. DEL REGISTRO ÚNICO
 
@@ -569,6 +583,10 @@ En caso de que ninguno de los aspirantes entrevistado sea considerado como idón
 
 En la etapa de resolución, el Comité elegirá al ganador, tomando en cuenta los resultados obtenidos por los aspirantes en todas las etapas del proceso de selección.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+El Presidente del Comité podrá emitir voto de disenso respecto del finalista seleccionado por la mayoría de los integrantes del Comité para ocupar una vacante con el objeto de que se elija a la persona que la ocupará de entre los demás finalistas o en un nuevo proceso. Lo anterior se hará constar en el acta correspondiente, incluyendo las razones expuestas por el Presidente del Comité para la emisión de dicho voto.
+
 ###### Artículo 56.
 
 En la etapa de resolución el Comité considerará que, habiendo empate entre aspirantes el resultado del concurso de oposición se decidirá considerando el orden de prelación siguiente:
@@ -661,9 +679,11 @@ El Comité determinará la modalidad de la convocatoria pública, así como las 
 
 Las bases, condiciones y requisitos a los que se sujetará el concurso de oposición no podrán modificarse durante el desarrollo del concurso salvo en los casos en que por causa justificada se vean interrumpidos los términos y plazos previstos en la misma, se reprogramarán las fechas en que continuarán los plazos o términos previstos en la convocatoria y se comunicarán a los aspirantes por el Comité a través del portal de internet de la Auditoría y los medios de comunicación señalados en éstas.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 64.
 
-Cuando la convocatoria esté dirigida a servidores públicos de la Auditoría, se deberá considerar a quienes acrediten ese carácter en la fecha de su registro como aspirantes a la vacante de que se trate. No se considerarán para este solo efecto como servidores públicos a aquellos que presten servicios profesionales independientes a la Auditoría.
+Cuando la convocatoria esté dirigida a servidores públicos de la Auditoría, se deberá considerar a quienes acrediten ese carácter en la fecha de su registro como aspirantes a la vacante de que se trate. No se considerarán para este solo efecto como servidores públicos a aquellos que presten servicios profesionales independientes a la Auditoría o quienes desempeñen en ésta un empleo, cargo o comisión en virtud de un nombramiento temporal.
 
 ###### Artículo 65.
 
@@ -1081,9 +1101,11 @@ El Comité decidirá respecto del otorgamiento de las licencias señaladas en es
 
 Los datos de las licencias que se otorguen, así como de los cursos, eventos, prácticas y estudios correspondientes, deberán inscribirse en el Registro Único.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 116.
 
-El cargo del Servidor Público de Carrera que obtenga licencia sin goce de sueldo, podrá ser ocupado interinamente por el Servidor Público de Carrera que designe el Auditor General.
+El cargo del Servidor Público de Carrera que obtenga licencia o incapacidad, con o sin goce de sueldo, podrá ser ocupado interinamente por el Servidor Público de Carrera que designe el Auditor General o por nombramiento temporal en los términos del Reglamento.
 
 T R A N S I T O R I O S
 
@@ -1098,5 +1120,11 @@ C.P. SERGIO MARENCO SÁNCHEZ
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE OCTUBRE DE 2015.
+
+ÚNICO. Las presentes reformas al Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. Las presentes reformas al Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
