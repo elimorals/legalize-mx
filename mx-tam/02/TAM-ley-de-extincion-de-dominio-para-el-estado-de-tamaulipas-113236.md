@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-extincion-de-dominio-para-el-estado-de-tamaulipas-113236
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-01"
-last_updated: "2016-03-01"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "TAM"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 13 DE JUNIO DE 2016.]</small>
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE MARZO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 1 de marzo de 2016.
 
@@ -297,7 +297,9 @@ X.- Las pruebas que se ofrecen, debiendo en ese momento exhibir las documentales
 
 5. En el auto admisorio deberá señalarse la fecha programada para la celebración de la audiencia de desahogo de pruebas, la cual se realizará dentro de un plazo que no podrá exceder de treinta días naturales improrrogables.
 
-4 (SIC). Contra el auto que niegue la admisión de la demanda procederá recurso de apelación, el cual se admitirá en el efecto devolutivo.
+> <small>(F. DE E., P.O. 9 DE MARZO DE 2016)</small>
+
+6. Contra el auto que niegue la admisión de la demanda procederá recurso de apelación, el cual se admitirá en el efecto devolutivo.
 
 ###### ARTÍCULO 27.
 
