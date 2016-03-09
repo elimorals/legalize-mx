@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-sobre-el-funcionamiento-de-establecimientos-que-4166
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-23"
-last_updated: "1993-07-23"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO SOBRE EL FUNCIONAMIENTO DE ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE ABASOLO, N.L
 
-REGLAMENTO SOBRE EL FUNCIONAMIENTO DE ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE ABASOLO, NUEVO LEON
+REGLAMENTO SOBRE EL FUNCIONAMIENTO DE ESTABLECIMIENTOS QUE EXPENDEN BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE ABASOLO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DE VENTA, EXPENDIO O CONSUMO DE BEBIDAS ALCOHÓLICAS, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de julio de 1993.
 
@@ -520,3 +522,13 @@ CUARTO REGIDOR
 C. LAURA SAN JUANA CORONADO MARTINEZ
 
 REGIDOR DE REP. PROP.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DE VENTA, EXPENDIO O CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE ABASOLO, NUEVO LEÓN”.]
+
+Primero.- Este Reglamento entrara en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Sobre el Funcionamiento de Establecimientos que Expenden Bebidas Alcohólicas publicado en el Periódico Oficial de fecha 23 de Julio del (sic) 1993.
