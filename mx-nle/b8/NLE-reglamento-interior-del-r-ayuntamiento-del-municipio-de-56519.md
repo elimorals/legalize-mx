@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-56519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-01"
-last_updated: "2007-08-01"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GARCIA, NUEVO LEON
+REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016 (ABROGADO).
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de agosto de 2007.
 
@@ -792,3 +794,21 @@ C. PRESIDENTE MUNICIPAL
 LIC. ARNULFO TELLEZ ZAVALA
 
 C. SECRETARIO DEL AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del R. Ayuntamiento del Municipio de García, Nuevo León, Publicado en el Periódico Oficial del Estado de fecha 01 de agosto de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
