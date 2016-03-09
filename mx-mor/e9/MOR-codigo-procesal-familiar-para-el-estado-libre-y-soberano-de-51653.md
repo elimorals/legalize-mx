@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2015-12-09"
+last_updated: "2016-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3601,105 +3603,57 @@ POSIBILIDAD DE MODIFICACIÓN DE CUSTODIA DE LOS HIJOS. El Juez en todo tiempo po
 
 REVISIÓN DE OFICIO DE SENTENCIAS SOBRE NULIDAD DE MATRIMONIO. La sentencia recaída en los juicios de nulidad de matrimonio por la no dispensa del parentesco consanguíneo; por la existencia de matrimonio anterior o por falta de forma, será revisable de oficio y se abrirá la segunda instancia aunque las partes no apelen, ni expresen agravios. El Tribunal Superior examinará la legalidad de la resolución de primer grado, quedando entretanto sin ejecutarse ésta.
 
-### CAPÍTULO III. DEL DIVORCIO NECESARIO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2016)</small>
+
+### CAPÍTULO III
 
 ###### ARTÍCULO 431.
 
-LEGITIMACIÓN EN EL DIVORCIO NECESARIO. El divorcio necesario sólo puede ser demandado por el cónyuge que no haya dado causa a él. La pretensión de divorcio sólo podrá ejercitarse por los consortes.
-
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 432.
 
-MANDATO ESPECIAL EN EL DIVORCIO NECESARIO. Los cónyuges pueden hacerse representar por apoderados, pero el mandato deberá ser especial y expreso.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 433.
 
-REPRESENTACIÓN LEGAL Y VOLUNTARIA EN LOS JUICIOS DE DIVORCIO NECESARIO. Los cónyuges menores de edad necesitan de un tutor o mandatario con poder especial y expreso para litigar en asuntos de divorcio. La demanda y la contestación en su caso, serán suscritas también por el tutor y por el menor, quien estampará su huella dígito pulgar derecha; ambos la ratificarán ante la presencia judicial.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 434.
 
-MEDIDAS DE ASEGURAMIENTO DE CARÁCTER PERSONAL. Al admitir la demanda de divorcio, el Juez, de oficio, dictará las medidas provisionales urgentes, que serán obligatorias mientras dure el juicio. El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos, no podrá demorarse por el hecho de no tener el Juez datos para hacer la fijación del monto de la pensión, sino que se decretará de oficio o tan pronto como se pida. La cuantía de la pensión puede ser modificada durante el juicio cuando cambien las circunstancias o el Juez tenga mayores datos sobre las posibilidades económicas y posición de los cónyuges. A petición del Ministerio Público; de los abuelos, tíos o hermanos mayores de los consortes, el Juez, en cualquier tiempo durante el juicio, puede dictar las providencias que se consideren benéficas para los hijos menores.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 435.
 
-REGLAS GENERALES APLICABLES EN LA TRAMITACIÓN DE LOS JUICIOS DE DIVORCIO NECESARIO. El divorcio necesario se tramitará de acuerdo con las reglas de la controversia familiar, con las siguientes modalidades:
-
-I. Cuando medie confesión o allanamiento, se requerirá de ratificación y en todo caso se abrirá el juicio a prueba;
-
-II. El demandado rebelde, se estimará que contesta negativamente la demanda;
-
-III. El Juez exigirá la identificación de las partes;
-
-IV. Los cónyuges no podrán celebrar transacción sobre la pretensión de divorcio;
-
-V. La muerte de uno de los cónyuges pone fin al juicio de divorcio, sin que puedan continuarlo los herederos;
-
-VI. Durante el juicio se admitirán pruebas sobre nuevas causas de divorcio o motivos de culpa, mismas que se estimarán en la sentencia. Terminado el juicio, las causales pasadas no podrán alegarse;
-
-VII. La contrademanda sobre nulidad del matrimonio o divorcio, será admisible;
-
-VIII. El divorcio únicamente podrá demandarse dentro de los seis meses siguientes al día en que hayan sido de su conocimiento los hechos en que se funde la demanda, con excepción de las causales de tracto sucesivo;
-
-IX. Ninguna de las causales de divorcio señaladas en el Código Familiar puede alegarse para pedir divorcio cuando haya mediado perdón expreso o tácito;
-
-X. El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; mas, no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón, pero sí por otros nuevos, aunque sean de la misma especie, o por hechos distintos que legalmente constituyan causa legal para el divorcio;
-
-XI. La reconciliación de los cónyuges, produce la caducidad de la instancia.
-
-XII. El cónyuge que diera causa al divorcio perderá todo lo que se le hubiera dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho; y,
-
-XIII. Cuando por el divorcio se originen daños o perjuicios a los intereses del consorte inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 436.
 
-DE LA ACUMULACIÓN DE PRETENSIONES DE NULIDAD DE MATRIMONIO Y DIVORCIO. Las pretensiones sobre nulidad de matrimonio y divorcio pueden acumularse. Si se declara la nulidad, la sentencia se abstendrá de resolver sobre el divorcio.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 437.
 
-PLAZO ESPECIAL DE CADUCIDAD Y OTRAS CAUSAS DE TERMINACIÓN DE LA INSTANCIA. En el divorcio necesario la instancia concluirá sin sentencia:
-
-I. Si hubiere inactividad total de las partes en el proceso por más de tres meses naturales;
-
-II. Si se demostrare la reconciliación de los cónyuges en cualquier estado del juicio, mientras no hubiere sentencia ejecutoria; y,
-
-III. Porque el cónyuge que no haya dado causa al divorcio prescinda de sus derechos y obligue al otro cónyuge a reunirse con él. En estos casos no se admitirá nuevo divorcio por los mismos hechos que motivaron el juicio anterior.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 438.
 
-DE LAS FACULTADES DE SUPLENCIA DEL JUEZ DE LO FAMILIAR. La sentencia, en los juicios de divorcio necesario, hecha la indagatoria necesaria, resolverá de oficio lo relativo al cuidado de los hijos, patria potestad, disolución de la sociedad conyugal y división de los bienes comunes, alimentos de los cónyuges, cuidado y subsistencia de los hijos, derecho de visita y todo aquello que el Juez considere urgente y necesario para salvaguardar los intereses de los incapaces, aunque las partes no lo hayan pedido.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 439.
 
-PUNTOS RESOLUTIVOS DE LA SENTENCIA DE DIVORCIO SOBRE LA SITUACIÓN DE LOS HIJOS. La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
-
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
-
-I. En los casos comprendidos en las fracciones XI, XIII, XIV, XVI, XVII y XX del Artículo 175 del Código Familiar, el juez previo los estudios que estime necesarios decretará al cuidado de cual de los progenitores deberán quedar los hijos menores atendiendo al interés primordial de estos. Ambos cónyuges conservarán el ejercicio de la patria potestad. En el caso de la fracción XIV por la comisión del delito que afecte la integridad física y moral de los hijos, hipótesis en la que perdura la patria potestad al cónyuge que dio causa al divorcio, el Juez resolverá a su criterio de acuerdo con las circunstancias la forma y términos del cuidado y custodia de los hijos menores;
-
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
-
-II. Cuando la causa del divorcio estuviere comprendida en las fracciones II III, IV, V, VIII, X, XII y XV del artículo 175 del Código Familiar, los hijos permanecerán al cuidado del cónyuge que no dio causa al divorcio, pero a la muerte de este, el otro progenitor podrá recuperarla en los casos de la fracción I del citado artículo; si los dos cónyuges hubieren dado causa al divorcio se les suspenderá en el ejercicio de la patria potestad; pero a la muerte de uno de ellos la recuperará el otro, salvo los casos a que se refiere las fracciones III, IV, V y XXI del artículo 175 del Código Familiar en que no podrán volver a ejercerla. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente o descendiente que determine el juez, y si no hay quien la ejerza se les nombrará tutor. En los casos de las fracciones VIII y XII del artículo 175 del Código Familiar el cónyuge privado del ejercicio de la patria potestad podrá recuperarla si a criterio del juez conviniera a los menores, decidiendo respecto del cuidado y custodia de los mismos. Si la causa del divorcio estuviere comprendida dentro de las fracciones VII y XV del artículo 175 del Código Familiar el cónyuge que hubiere sido privado de la patria potestad podrá recuperarla si comprueba ante el juez encontrarse rehabilitado previo el pronunciamiento respectivo;
-
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2007)</small>
-
-III. En el caso de la fracción II del Articulo 175 del Código Familiar el menor quedara a lado de la madre;
-
-IV. (DEROGADA, P.O. 15 DE AGOSTO DE 2007)
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 440.
 
-MEDIDAS DE EJECUCIÓN DE LA SENTENCIA DE DIVORCIO. Ejecutoriada la sentencia de divorcio se procederá a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los divorciados tendrán obligación de contribuir en proporción a sus bienes e ingresos a la satisfacción de las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta que lleguen a la mayoría de edad, salvo los casos en que subsista la incapacidad física o mental o por continuación de los estudios del acreedor alimentario, en término de lo dispuesto por el Código Familiar para el Estado de Morelos.
-
-El Juez ordenará al ascendiente que no ejerza la custodia de los incapaces, que se abstenga de sustraer sin orden judicial, a los menores del lugar donde se encuentren depositados, en caso del incumplimiento, el Juez dará vista al Ministerio Público para que proceda en los términos que marca la ley.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 441.
 
-REGISTRO DE LA SENTENCIA EJECUTORIADA. Ejecutoriada la sentencia de divorcio, el Juez remitirá copia al Oficial del Registro Civil ante quién se celebró el matrimonio para que levante el acta correspondiente, anote en la partida de matrimonio la disolución del vínculo y para que publique un extracto de la resolución, durante quince días en las tablas destinadas al efecto.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ###### ARTÍCULO 442.
 
-IMPUGNACIÓN DE LAS SENTENCIAS. La sentencia de fondo es apelable en el efecto suspensivo pero podrá ejecutarse en lo que se refiera a pensión alimentaría.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ### CAPÍTULO IV. DE LOS JUICIOS SOBRE PATERNIDAD, FILIACIÓN Y PATRIA POTESTAD
 
@@ -4305,7 +4259,9 @@ El divorcio así obtenido, no surtirá efectos legales si se comprueba que los c
 
 PETICIÓN DE SEPARACIÓN DE CÓNYUGES. El consorte que no queriendo pedir el divorcio, solicite que se suspenda la obligación de cohabitar con el otro cónyuge, por padecer éste, cualquier enfermedad crónica incurable y que sea además contagiosa, o por alteraciones de la conducta en la práctica sexual que sobrevengan durante el matrimonio; o encontrarse afectado por enfermedad mental incurable, exhibirá con su demanda la justificación de que se está en alguno de esos casos o solicitará que se admitan las pruebas conducentes sobre los hechos. El Juez recibirá las pruebas, oyendo en audiencia verbal al cónyuge enfermo o a su tutor o representante legítimo y decidirá sin más trámite lo que proceda. Asimismo se decretará, como medida provisional, y mientras se dicta sentencia, la separación de los cónyuges.
 
-Los cónyuges de común acuerdo podrán solicitar su separación temporal por un periodo que no exceda de dos años, mediante un escrito que contenga sus firmas y huella digito pulgar derecha y que sea ratificado personalmente ante la presencia judicial. Bajo el entendido de que en caso de no lograrse una reconciliación, pasados dos años cualquiera de los cónyuges podrá solicitar el divorcio de acuerdo con la fracción XIX del artículo 175 del Código Familiar para el estado de Morelos.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
+Los cónyuges de común acuerdo podrán solicitar su separación temporal por un periodo que no exceda de dos años, mediante un escrito que contenga sus firmas y huella digito pulgar derecha y que sea ratificado personalmente ante la presencia judicial.
 
 ## TÍTULO OCTAVO. REGLAS PARA DIRIMIR CONTROVERSIAS ENTRE CÓNYUGES
 
@@ -4707,11 +4663,69 @@ Una copia de la resolución se enviará al Oficial del Registro Civil, en la que
 
 FACULTADES DEL MINISTERIO PÚBLICO. El Ministerio Público velará por los intereses del ausente; será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
 
-## TÍTULO PRIMERO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2016)</small>
+
+## TÍTULO QUINTO. DIVORCIO INCAUSADO
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 BIS.- LEGITIMACIÓN EN EL DIVORCIO INCAUSADO. El divorcio Incausado puede ser solicitado por cualquiera de los cónyuges, debiendo señalar en su escrito inicial su deseo de no continuar con el vínculo matrimonial. La pretensión de divorcio sólo podrá ejercitarse por los consortes.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 TER.- PRESENTACIÓN DEL CONVENIO. El cónyuge que presente la solicitud de divorcio incausado, debe acompañar la propuesta de convenio que contenga los documentos y requisitos exigidos en el artículo 489 del presente código.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 QUATER.- NOTIFICACIÓN AL OTRO CÓNYUGE. Admitida la solicitud de divorcio incausado, el juez debe notificar personalmente al otro cónyuge sobre la propuesta de convenio, en un plazo de tres días hábiles.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 QUINQUIES.- SOLICITUD DE DIVORCIO INCAUSADO CUANDO SE IGNORA EL DOMICILIO. En los casos de solicitudes de divorcio incausado, cuando se ignore el domicilio del otro cónyuge, el procedimiento es el siguiente:
+
+I. Admitida la solicitud se debe notificar por edictos el auto correspondiente, de acuerdo con lo establecido en el artículo 134 fracción VI de este Código, y
+
+II. Cuando el otro cónyuge notificado en los términos de la fracción anterior comparezca ante el juez, se debe seguir el procedimiento en la forma establecida en este Capítulo, y si no comparece dentro del plazo correspondiente, el juez, luego de analizar la solicitud y la propuesta de convenio, debe dictar la resolución que disuelva el matrimonio y apruebe, con las consideraciones procedentes, el convenio presentado.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 SEXIES.- CONTRA PROPUESTA DEL CONVENIO. En caso de que el cónyuge a quien se le haya notificado la solicitud de divorcio Incausado y la propuesta de convenio, no estuviere de acuerdo con esta última, podrá presentar su contrapropuesta en un plazo de cinco días, y cumplir con los mismos requisitos establecidos por la Legislación Familiar vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 SEPTIES.- AUTO DE CITACIÓN A LOS CÓNYUGES. Una vez transcurrido el plazo al que se refiere el artículo anterior, haya o no contrapropuesta, el juez éste (sic) debe fijar un auto en el que fije fecha y hora para celebrar la audiencia de divorcio incausado.
+
+El Juez podrá dictar las medidas provisionales que procedan.
+
+El Juez tendrá las más amplias facultades para requerir a las partes la aclaración de su propuesta de convenio y la exhibición de cualquier otro elemento necesario para dicho propósito, pudiendo solicitar a cualquier persona o institución la información que estime idónea.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 OCTIES.- FORMALIDADES PAR LA AUDIENCIA DE DIVORCIO INCAUSADO. En la audiencia de divorcio incausado, el juez exhortará a los cónyuges para continuar con el matrimonio, de persistir el solicitante en su intención de divorciarse, se deberá proceder de acuerdo a lo siguiente:
+
+I. En caso de que el juez se percate que no existe controversia alguna entre las propuestas presentadas, debe proceder a leer los puntos del convenio, explicar los alcances jurídicos de éste y de la solicitud de divorcio; dictar la resolución en la que se decrete la aprobación del convenio y la disolución del vínculo matrimonial. Finalmente, mandar girar los oficios al Registro Civil correspondiente al lugar donde se haya celebrado el matrimonio y a las oficinas o dependencias que correspondan;
+
+II. En caso de que existan controversias en las propuestas del convenio, debe proceder a leer los puntos controvertidos, seguidamente debe dar uso de la palabra a los cónyuges para que manifiesten lo que a su derecho convenga; si los cónyuges, en esta audiencia, llegan a un acuerdo respecto de los puntos controvertidos, el juez debe proceder en los mismos términos que lo establecido en la fracción I de este artículo, y
+
+III. Cuando subsista la controversia por el convenio o en algún punto del mismo, procederá a declarar disuelto el matrimonio; girar el oficio respectivo al Registro Civil que corresponda.
+
+El juez ordenará la apertura del incidente de conformidad con lo dispuesto en los artículos 552 al 555 de este Código, señalando los puntos en controversia.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 NONIES.- IRRECURRIBILIDAD DE LA SENTENCIA DE DIVORCIO INCAUSADO. La resolución en la que el juez decrete la disolución del vínculo de matrimonio por divorcio incausado, no admite recurso alguno.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 551 DECIES.- PLAZO ESPECIAL DE CADUCIDAD Y OTRAS CAUSAS DE TERMINACIÓN DE LA INSTANCIA. En el divorcio la instancia concluirá:
+
+I. Si hubiere inactividad total de las partes en el proceso por más de tres meses naturales, o
+
+II. Si se demostrare la reconciliación de los cónyuges en cualquier estado del juicio, mientras no hubiere sentencia ejecutoria.
 
 # LIBRO SÉPTIMO. TRAMITACIÓN DE INCIDENTES E IMPUGNACIÓN DE SENTENCIAS
 
-## TÍTULO SEGUNDO. IMPUGNACIÓN DE LAS RESOLUCIONES JUDICIALES
+## TÍTULO PRIMERO
 
 ### CAPÍTULO ÚNICO. TRAMITACIÓN DE INCIDENTES
 
@@ -4743,7 +4757,7 @@ Cuando el Juez lo estime oportuno, la resolución de los incidentes se dejará p
 
 AUDIENCIA EN EL INCIDENTE. En los casos urgentes podrá oírse a las partes, recibirse pruebas y decidirse el incidente en una sola audiencia verbal que se celebrará dentro de los tres días siguientes.
 
-## TÍTULO PRIMERO. DE LA EJECUCIÓN FORZOSA
+## TÍTULO SEGUNDO. IMPUGNACIÓN DE LAS RESOLUCIONES JUDICIALES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -5079,7 +5093,7 @@ FALTA O DEFICIENCIA EN LOS INFORMES DEL FUNCIONARIO. La falta o deficiencia en l
 
 # LIBRO OCTAVO. VÍAS DE APREMIO Y EJECUCIÓN DE SENTENCIAS
 
-## TÍTULO SEGUNDO. DE LA EJECUCIÓN DE LAS SENTENCIAS FORÁNEAS
+## TÍTULO PRIMERO. DE LA EJECUCIÓN FORZOSA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -5129,7 +5143,7 @@ II. El juez que conozca del negocio principal respecto a la ejecución de los au
 
 III. El juez que conozca del negocio en que tuvieren lugar, respecto de la ejecución de los convenios aprobados judicialmente;
 
-VI. La ejecución de la sentencia extranjera corresponderá al juez que declaró su validez.
+VI (SIC). La ejecución de la sentencia extranjera corresponderá al juez que declaró su validez.
 
 ###### ARTÍCULO 602.
 
@@ -5867,7 +5881,7 @@ d) Los demás acreedores no privilegiados intervienientes (sic) se sujetarán a 
 
 HIPÓTESIS PARA PEDIR UNA NUEVA EJECUCIÓN FORZOSA. Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO SEGUNDO. DE LA EJECUCIÓN DE LAS SENTENCIAS FORÁNEAS
 
 ### CAPÍTULO I. SENTENCIAS DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS
 
@@ -5983,7 +5997,7 @@ V. Si una sentencia, resolución, o laudo juridisccional (sic) no pudiera tener 
 
 # LIBRO NOVENO. DE LAS SUCESIONES
 
-## TÍTULO SEGUNDO. TESTAMENTARIAS
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 684.
 
@@ -6183,7 +6197,7 @@ RADICADO EL JUICIO SUCESORIO SE DARÁ INFORMACIÓN PÚBLICA DE ÉL. Una vez radi
 
 Si el valor del activo de la sucesión no excediere de mil veces el salario mínimo general diario vigente en la región, no se hará publicación de edictos y sólo se fijarán éstos en los estrados del Juzgado.
 
-## TÍTULO TERCERO. INTESTAMENTARIAS
+## TÍTULO SEGUNDO. TESTAMENTARIAS
 
 ###### ARTÍCULO 703.
 
@@ -6301,7 +6315,7 @@ Las cuestiones que no afectan la validez del testamento o la capacidad para here
 
 Una vez celebrada la audiencia y dictadas las resoluciones que corresponda, los trámites del juicio testamentario serán los mismos que los establecidos por los artículos de este Código respecto a las secciones de inventarios, administración y partición.
 
-## TÍTULO CUARTO. INVENTARIO Y AVALÚO
+## TÍTULO TERCERO. INTESTAMENTARIAS
 
 ###### ARTÍCULO 719.
 
@@ -6397,7 +6411,7 @@ En la misma sentencia se resolverá quién es el albacea, que será nombrado por
 
 La sentencia será apelable en el efecto suspensivo.
 
-## TÍTULO QUINTO. ADMINISTRACIÓN
+## TÍTULO CUARTO. INVENTARIO Y AVALÚO
 
 ###### ARTÍCULO 728.
 
@@ -6499,7 +6513,7 @@ PRÁCTICA SIMULTÁNEA DE INVENTARIO Y AVALÚO. El inventario y avalúo se harán
 
 OPOSICIÓN A LOS AVALÚOS. La oposición a los avalúos se tramitará de acuerdo con las reglas establecidas en este Capítulo.
 
-## TÍTULO SEXTO. LIQUIDACIÓN Y PARTICIÓN
+## TÍTULO QUINTO. ADMINISTRACIÓN
 
 ###### ARTÍCULO 741.
 
@@ -6585,7 +6599,7 @@ VIII. Si todos los interesados aprobaren la cuenta, o no la objetaren, el Juez l
 
 IX. El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
 
-## TÍTULO SÉPTIMO. TRANSMISIÓN HEREDITARIA DEL PATRIMONIO FAMILIAR
+## TÍTULO SEXTO. LIQUIDACIÓN Y PARTICIÓN
 
 ###### ARTÍCULO 746.
 
@@ -6693,7 +6707,7 @@ Respecto a la partición y sus efectos, se estará a lo dispuesto por el Código
 
 SENTENCIA DE ADJUDICACIÓN. La sentencia que apruebe o repruebe la partición es apelable en el efecto suspensivo.
 
-## TÍTULO OCTAVO. TRAMITACIÓN ANTE NOTARIOS
+## TÍTULO SÉPTIMO. TRANSMISIÓN HEREDITARIA DEL PATRIMONIO FAMILIAR
 
 ###### ARTÍCULO 756.
 
@@ -6716,6 +6730,8 @@ V. Todas las resoluciones se harán constar en actas y no se requieren peticione
 VI. El acta o actas en que consten las adjudicaciones servirán de título a los interesados y deberán registrarse; y,
 
 VII. La transmisión de los bienes del patrimonio familiar estará exenta de impuestos en la medida que dispongan las leyes.
+
+## TÍTULO OCTAVO. TRAMITACIÓN ANTE NOTARIOS
 
 ###### ARTÍCULO 758.
 
@@ -6905,7 +6921,7 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 
 P.O. 29 DE ABRIL DE 2015.
 
-DECRETO NUMERO DOS MIL CIENTO OCHENTA POR EL QUE SE REFORMA EL ARTÍCULO 314, DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO DOS MIL CIENTO OCHENTA POR EL QUE SE REFORMA EL ARTÍCULO 314, DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -6928,3 +6944,13 @@ P.O. 9 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Una vez publicada la presente reforma en el Periódico Oficial “Tierra y Libertad", infórmese a la Honorable Cámara de Diputados del Congreso de la Unión, que se ha dado debido cumplimiento al exhorto descrito en el proemio del presente Dictamen.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS VEINTICINCO.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, RESPECTO DEL DIVORCIO ENCAUSADO (SIC)”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas y normativas de igual o menor rango jerárquico, que se opongan al presente Decreto.
