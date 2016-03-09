@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-de-bienes-y-servicios-para-la-29737
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-17"
-last_updated: "2003-03-17"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACION MUNICIPAL, PARA EL MUNICIPIO DE ABASOLO, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACION MUNICIPAL, PARA EL MUNICIPIO DE ABASOLO, NUEVO LEON
+REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACIÓN MUNICIPAL, PARA EL MUNICIPIO DE ABASOLO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE ABASOLO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 17 de marzo de 2003
 
@@ -476,3 +478,15 @@ PRESIDENTE MUNICIPAL
 C. ROBERTO CORDERO MORALES
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE ABASOLO, NUEVO LEÓN”.]
+
+Primero.- Este Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procesos de adquisiciones que se encuentren en trámite al entrar en vigencia el presente Reglamento, se regirán por las normas vigentes en el momento en que inició su trámite.
+
+Tercero.- Se abroga el Reglamento de Adquisiciones de Bienes y Servicios para la Administración Municipal, publicado en el Periódico Oficial del Estado de fecha 17 de marzo del 2003 y todas aquellas disposiciones que contravengan el presente Reglamento.
