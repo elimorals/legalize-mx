@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2015-12-09"
+last_updated: "2016-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -359,11 +359,11 @@ CAPACIDAD DE GOCE Y SU PROTECCIÓN. La capacidad de goce de las personas jurídi
 
 Para los efectos legales, sólo se reputa viable el producto de la concepción que desprendido enteramente del seno materno, respire o dé cualquier otra señal de vida. Faltando alguna de estas circunstancias nunca podrá entablarse demanda sobre la paternidad o maternidad.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
-DE LA MINORÍA DE EDAD. La minoría de edad comprende desde el nacimiento de la persona jurídica individual, hasta que ésta cumpla dieciocho años de edad.
+DE LA MINORÍA DE EDAD. La minoría de edad comprende desde el nacimiento de la persona jurídica individual, hasta que ésta cumpla dieciocho años de edad. Cuando exista duda de si se trata de una persona mayor de dieciocho años, se presumirá menor de edad.
 
 ###### ARTÍCULO 5.
 
@@ -613,11 +613,11 @@ OBLIGACIÓN ALIMENTARIA DE LOS PARIENTES COLATERALES CON RELACIÓN A INCAPACES. 
 
 OBLIGACIÓN ALIMENTARIA EN ADOPCIÓN. El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 43.
 
-ALIMENTOS.- Los alimentos comprenden la casa, la comida, el vestido, asistencia en caso de enfermedad, los gastos de embarazo y parto en cuanto no estén cubiertos de otra forma, los gastos necesarios para la educación básica del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
+ALIMENTOS. Los alimentos comprenden la casa, la comida, el vestido, atención médica y psicológica preventiva integrada a la salud, asistencia en caso de enfermedad, el esparcimiento, los gastos de embarazo y parto en cuanto no estén cubiertos de otra forma, los gastos necesarios para la educación básica del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -723,9 +723,9 @@ V.- Si el acreedor alimentario, sin conocimiento del que deba dar los alimentos,
 
 VI.- Por muerte del acreedor alimentario.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
-No obstante lo establecido en las fracciones III, IV y V, la obligación alimentaría subsiste hasta los quince años.
+No obstante lo establecido en las fracciones III, IV y V la obligación alimentaría subsiste hasta los dieciocho años.
 
 ###### ARTÍCULO 56.
 
@@ -770,6 +770,10 @@ DEFINITIVIDAD DE LA EMANCIPACIÓN. Hecha la emancipación no podrá ser revocada
 ###### ARTÍCULO 62.
 
 LIBRE ADMINISTRACIÓN DE LOS BIENES DEL EMANCIPADO. El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad de autorización judicial para la enajenación, gravamen o hipoteca de sus bienes raíces y de un tutor especialmente nombrado para estos casos.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+ARTÍCULO 62 BIS.- APTITUD PARA PROMOVER CUESTIONES DE DIVORCIO. El emancipado podrá solicitar la disolución de su vínculo matrimonial y comparecer por su propio derecho a las actuaciones inherentes a la misma.
 
 ### CAPÍTULO V. DE LA MAYORÍA DE EDAD
 
@@ -1293,11 +1297,11 @@ DONACIONES COMUNES Y ANTENUPCIALES. Son aplicables a las donaciones antenupciale
 
 CONFIRMACIÓN DE LAS DONACIONES HECHAS ENTRE CONSORTES. Los consortes pueden hacerse donaciones si están casados bajo el régimen de separación de bienes, las que sólo se confirmarán con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, no sean mayores del cincuenta por ciento del patrimonio del donante al momento de hacer la donación, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 134.
 
-REVOCACIÓN DE LAS DONACIONES ENTRE CONYUGES. Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello que calificará el Juez, o por ingratitud del donatario, si el matrimonio hubiera sido disuelto por divorcio necesario y el donatario fuere declarado culpable en los casos de las fracciones I II, III, IV, VIII, IX, X, XI, XII, XIII, XIV, XV, XXIII Y XXIV del artículo 175 de este ordenamiento.
+REVOCACIÓN DE LAS DONACIONES ENTRE CÓNYUGES. Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello que calificará el Juez, o por ingratitud del donatario.
 
 ###### ARTÍCULO 135.
 
@@ -1469,13 +1473,15 @@ PRETENSIÓN DE NULIDAD POR ERROR EN LA PERSONA DEL CÓNYUGE. La pretensión de n
 
 FALTA DE NULIDAD POR MINORIA DE EDAD. La menor edad de dieciocho años en el hombre y en la mujer dejará de ser causa de nulidad cuando:
 
-I.- Haya hijos;
+I.- (DEROGADA, P.O. 9 DE MARZO DE 2016)
 
-II.- Aunque no los hubiere, el menor haya cumplido los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+II.- El menor haya cumplido los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad; y
 
-III.- Antes de declararse ejecutoriada la resolución de nulidad se obtuviese la dispensa de edad conforme a lo establecido en este código o la esposa se halle encinta.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+III.- Antes de declararse ejecutoriada la resolución de nulidad se obtuviese la dispensa de edad conforme a lo establecido en este código.
 
 ###### ARTÍCULO 158.
 
@@ -1575,113 +1581,51 @@ Los que infrinjan este artículo, así como los que siendo mayores de edad contr
 
 ### CAPÍTULO II. DEL DIVORCIO
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 174.
 
-RUPTURA DE LA UNIÓN MATRIMONIAL. El divorcio disuelve el vínculo matrimonial, a petición de uno o de ambos cónyuges, fundada en disposición legal, promovida ante autoridad de acuerdo con lo que dispone el Código Procesal Familiar.
+DEL DIVORCIO. El divorcio disuelve el vínculo matrimonial.
 
-Los divorciados quedarán en aptitud para contraer nuevo matrimonio, con las restricciones que este ordenamiento establece.
+DIVORCIO INCAUSADO. Es la disolución del vínculo matrimonial, solicitada por cualquiera de los cónyuges a la autoridad judicial, manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
+
+DIVORCIO VOLUNTARIO. Es la disolución del vínculo matrimonial, solicitada por ambos cónyuges a la autoridad judicial, manifestando su voluntad de no querer continuar con el matrimonio.
+
+DIVORCIO ADMINISTRATIVO. Es la disolución del vínculo matrimonial, solicitada por ambos cónyuges al Oficial del Registro Civil, manifestando su voluntad de no querer continuar con el matrimonio, debiendo acreditar los requisitos exigidos por la Ley.
 
 ###### ARTÍCULO 175.
 
-CAUSALES DE DIVORCIO. Son causales de divorcio:
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
-
-II.- La propuesta de un cónyuge para prostituir al otro, no sólo cuando lo haya hecho directamente sino cuando se pruebe que ha recibido dinero o cualquier remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su consorte;
-
-III.- La incitación a la violencia o este mismo hecho por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
-
-IV.- Los actos inmorales ejecutados por el marido o por la mujer con el objeto de corromper a los hijos, de explotarlos o exponerlos al trabajo indigno, a riesgos urbanos, circenses o que generen la inducción a vivencias callejeras, así como la tolerancia en su corrupción y el ejercicio reiterado de la violencia familiar cometida contra los menores de edad por cualquiera de los cónyuges;
-
-V.- Padecer cualquier enfermedad de tipo crónico, incurable y además contagiosa;
-
-VI.- Las alteraciones conductuales en la práctica sexual que sobrevengan después de celebrado el matrimonio;
-
-VII.- Encontrarse afectado por enfermedad mental incurable, que ponga en riesgo a su cónyuge e hijos:
-
-VIII.- La separación injustificada del domicilio conyugal por más de seis meses;
-
-IX.- El incumplimiento grave y continuado de las obligaciones derivadas del matrimonio;
-
-X.- La presunción de muerte, hecha conforme a la Ley;
-
-XI.- La violencia familiar, las amenazas, la crueldad o las injurias de un cónyuge contra el otro;
-
-XII.- La acusación formal hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XIII.- Haber cometido uno de los cónyuges un delito intencional que no sea político, por el cual tenga que sufrir una pena de prisión mayor de tres años;
-
-XIV.- Los hábitos de juego o de embriaguez o el uso persistente e ilegal de drogas estupefacientes o psicotrópicas.
-
-XV.- Haber cometido uno de los cónyuges contra la persona o bienes del otro, un delito intencional por el cual tenga que sufrir una pena privativa de libertad mayor de un año;
-
-XVI.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio durante el plazo de 3 meses, una vez que haya causado ejecutoria la sentencia.
-
-Durante esos tres meses a que hace referencia el párrafo anterior, los cónyuges no están obligados a vivir juntos;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
-
-XVII.- La inseminación artificial o las técnicas de reproducción asistida en la mujer, sin el consentimiento de alguno de los cónyuges;
-
-XVIII.- La separación del hogar conyugal por una causa que sea bastante para solicitar el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó hubiese entablado la demanda de divorcio, aunque para hacerlo debe acreditar haber cumplido con sus obligaciones alimentarias;
-
-XIX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
-
-XX.- Cuando uno de los cónyuges, por tratamiento médico o quirúrgico, intente cambiar o cambie de sexo; y
-
-XXI.- Cuando uno de los cónyuges cometa un delito intencional en agravio de sus hijos;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
-
-XXII.- El mutuo consentimiento, vía divorcio voluntario o divorcio administrativo, una vez que se cumplan los requisitos señalados en el artículo 489 ó 503 del Código Procesal Familiar respectivamente;
-
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
-
-XXIII.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse el mismo, con persona distinta al cónyuge y que judicialmente así sea declarado;
-
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2007)</small>
-
-XXIV.- El hecho que el cónyuge varón tenga conocimiento del nacimiento de un hijo suyo procreado antes del matrimonio y nacido dentro de él, con mujer distinta a su cónyuge y que judicialmente así sea declarado o que voluntariamente lo haya reconocido.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 176.
 
-PERDÓN EN EL DIVORCIO. Ninguna de las causas enumeradas en el artículo 175 de este Código, puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+RECONCILIACIÓN EN EL DIVORCIO. La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre. Para tal efecto los interesados deberán comunicar su reconciliación al Juez de lo Familiar.
 
 ###### ARTÍCULO 177.
 
 PÉRDIDA DE LA PATRIA POTESTAD. El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todos los deberes jurídicos que tienen para con sus hijos.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 178.
 
-EFECTOS EN CONTRA DEL CÓNYUGE CAUSANTE DEL DIVORCIO. El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+INDEMNIZACIÓN. En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse una indemnización, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
 
-El cónyuge inocente tendrá derecho a una indemnización de hasta el 50% del valor de los bienes que hubieren adquirido durante el matrimonio, siempre que:
-
-I.- Hubieran estado bajo el régimen de separación de bienes;
-
-II.- El demandante se hubiere dedicado durante el lapso en que duró el matrimonio, al desempeño del trabajo en el hogar y al cuidado de los hijos; y
-
-III.- Durante el matrimonio el demandante no haya adquirido bienes propios.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 179.
 
-PENSIÓN ALIMENTICIA DERIVADA DEL DIVORCIO. En los casos de divorcio necesario, el Juez tomando en cuenta las circunstancias del caso, entre ellas la capacidad para trabajar de los cónyuges, y su situación económica, sentenciará al culpable al pago de los alimentos en favor del inocente.
+PENSIÓN ALIMENTICIA DERIVADA DEL DIVORCIO. En los casos de divorcio, el Juez deberá tomar en cuenta las circunstancias de cada caso, entre ellas la capacidad para trabajar de los cónyuges y su situación económica para el efecto de decretar pensión alimenticia a favor de estos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2014)</small>
+En los casos de divorcio por mutuo consentimiento se respetará la voluntad de las partes expresada en el convenio, salvo que el mismo sea considerado lesivo a alguno de ellos, en cuyo caso se oirá la opinión del Ministerio Público.
 
-Tratándose de demandas de divorcio necesario y patria potestad, dentro del auto de admisión el juez podrá decretar las convivencias de los menores con el progenitor que no ejerza la guarda y custodia al momento de presentarse la demanda.
-
-En los casos de divorcio por mutuo consentimiento se respetará la voluntad de las partes expresada en el convenio, salvo que el mismo sea lesivo a alguno de ellos, en cuyo caso se oirá la opinión del Ministerio Público.
-
-Cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 180.
 
-POSIBILIDAD DE LOS DIVORCIADOS PARA CONTRAER NUEVAS NUPCIAS. El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que se declaró el divorcio.
-
-Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer matrimonio es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+POSIBILIDAD DE LOS DIVORCIADOS PARA CONTRAER NUEVAS NUPCIAS. Una vez que haya causado ejecutoria la sentencia, los divorciados adquirirán plenamente su capacidad para contraer matrimonio.
 
 # LIBRO CUARTO. DE LAS RELACIONES PATERNO FILIALES
 
@@ -1699,9 +1643,45 @@ II.- Una educación en los términos del artículo 43 de este ordenamiento;
 
 III.- Una conducta positiva y respetable que sirva de ejemplo a éstos y coadyuve a realizar las finalidades de la paternidad y de la maternidad;
 
-IV. -Los alimentos, conforme a lo dispuesto en el Capítulo III, Título Único, Libro Segundo de este Código; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
 
-V.- Una familia estable y solidaria de manera que constituya un medio adecuado para el desarrollo del amor y atenciones que requiere el desenvolvimiento de la personalidad de los hijos.
+IV.- Los alimentos, conforme a lo dispuesto en el Capítulo III, Título Único, Libro Segundo de este Código;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+V.- Una familia estable y solidaria de manera que constituya un medio adecuado para el desarrollo del amor y atenciones que requiere el desenvolvimiento de la personalidad de los hijos;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+VI.- Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+VII.- Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+VIII.- Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+IX.- Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+X.- Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XI.- Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XII.- Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XIII.- Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
 ### CAPÍTULO II. DE LOS HIJOS DE MATRIMONIO
 
@@ -1715,11 +1695,11 @@ II.- Los hijos nacidos dentro de los trescientos días siguientes a la disoluci�
 
 Este plazo se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 183.
 
-DESCONOCIMIENTO DE LOS HIJOS POR ADULTERIO DE LA MADRE. El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre fehacientemente que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa o no podía engendrar hijos.
+DESCONOCIMIENTO DE LOS HIJOS POR EL MARIDO. El marido no podrá desconocer a los hijos, a menos que demuestre judicialmente con prueba pericial genética que no es el padre.
 
 ###### ARTÍCULO 184.
 
@@ -1745,17 +1725,13 @@ El que negare las presunciones establecidas en las dos fracciones que preceden, 
 
 III.- El hijo se presume nacido fuera del matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 187.
 
-CONTRADICCIÓN DE LA PATERNIDAD POR EL MARIDO Y ARBITRAJE Y TRANSACCIÓN EN MATERIA DE FILIACIÓN. En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su pretensión dentro de trescientos sesenta y cinco días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude.
+CONTRADICCIÓN DE LA PATERNIDAD POR EL MARIDO. En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su pretensión dentro de sesenta días contados desde el nacimiento, si está presente o desde el día en que se enteró del mismo, transcurrido ese plazo opera la caducidad de su derecho.
 
-Si el marido está bajo tutela por disminución o perturbación en su inteligencia, u otro motivo que le impida gobernarse por sí mismo, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento. Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
-
-Los herederos del marido, excepto en el caso del párrafo segundo de este artículo, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, trescientos sesenta y cinco días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
-
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
-
-Sobre la filiación no puede haber compromiso en árbitros, cláusula compromisoria ni transacción.
+Si el marido está bajo tutela por disminución o perturbación en su inteligencia, u otro motivo que le impida gobernarse por sí mismo, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ### CAPÍTULO III. DE LAS PRUEBAS DE LA FILIACIÓN DE LOS HIJOS NACIDOS DE MATRIMONIO
 
@@ -1867,11 +1843,13 @@ V.- Por confesión judicial directa y expresa.
 
 RECONOCIMIENTO O ADMISIÓN POR UNO SOLO DE LOS PADRES Y PROHIBICIÓN DE REVELAR LA IDENTIDAD DEL OTRO. Cuando el padre reconozca o la madre admita separadamente a un hijo, no podrán revelar en el acto del reconocimiento o admisión el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por la que aquélla pueda ser identificada. Las palabras que contengan la revelación se testarán de oficio, de modo que queden absolutamente ilegibles.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 205.
 
-ADMISIÓN DEL HIJO PREVIO AL MATRIMONIO. La mujer casada podrá admitir al hijo habido antes de su matrimonio sin el consentimiento del otro consorte; pero no tendrá derecho a llevarlo a vivir al domicilio conyugal si no es con el consentimiento expreso del otro cónyuge.
+ADMISIÓN DEL HIJO PREVIO AL MATRIMONIO. La mujer casada tendrá derecho a llevar a sus hijos nacidos fuera de su matrimonio a vivir al domicilio conyugal.
 
-También el marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso de la esposa.
+El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste y tendrá derecho a llevarlo a vivir al domicilio conyugal.
 
 ###### ARTÍCULO 206.
 
@@ -3399,9 +3377,11 @@ Cuando por causas de fuerza mayor, de conformidad con lo que establezca el Regla
 
 Una vez realizado el registro, el certificado de nacimiento o la constancia de parto, serán cancelados para evitar la duplicidad de registros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 439.
 
-PERSONAS OBLIGADAS A DECLARAR EL NACIMIENTO. Tienen obligación de declarar el nacimiento ante Oficial del Registro Civil de su elección, el padre y la madre, o cualquiera de ellos; a falta de éstos, los ascendientes en línea recta, colaterales iguales en segundo grado y colaterales desiguales ascendientes en tercer grado dentro de los seis meses siguientes a la fecha que ocurrió aquél.
+PERSONAS OBLIGADAS A DECLARAR EL NACIMIENTO. Tienen obligación de declarar el nacimiento ante Oficial del Registro Civil de su elección, el padre y la madre, o cualquiera de ellos; a falta de éstos, los ascendientes en línea recta, colaterales iguales en segundo grado y colaterales desiguales ascendientes en tercer grado dentro de los sesenta días siguientes a la fecha que ocurrió aquel.
 
 En caso de registro extemporáneo de nacimiento, deberá asentarse a lo que disponga el Reglamento del Registro Civil.
 
@@ -3413,9 +3393,11 @@ PROHIBICIÓN A LOS OFICIALES DEL REGISTRO CIVIL DE INSCRIBIR EL NACIMIENTO DE MA
 
 El Ejecutivo del Estado podrá instrumentar campañas especiales de registro extemporáneo de nacimiento, en las cuales los interesados deberán cumplir los requisitos que para el caso establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 441.
 
-CONTENIDO DEL ACTA DE NACIMIENTO. El acta de nacimiento contendrá: día, mes, año, hora y lugar del nacimiento; el sexo y la impresión digital del presentado; el nombre y apellidos que le correspondan; sin que por motivo alguno puedan omitirse, ya que si se trata de hijo de matrimonio o en el caso de que ambos padres concurran al registro, se impondrá el primer apellido del padre seguido del primer apellido de la madre, y cuando se trate del registro de un menor de padre desconocido se le pondrá el primero y segundo apellidos de la madre, la expresión de si es presentado vivo o muerto; nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos; y si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes. En el acta de nacimiento invariablemente deberá asentarse la Clave Única de Registro de Población.
+CONTENIDO DEL ACTA DE NACIMIENTO. El acta de nacimiento se levantará con asistencia de dos testigos. Contendrá: día, mes, año, hora y lugar del nacimiento; el sexo y la impresión digital del presentado; el nombre y apellidos que le correspondan; sin que por motivo alguno puedan omitirse, ya que si se trata de hijo de matrimonio o en el caso de que ambos padres concurran al registro, se impondrá el primer apellido del padre y el primer apellido de la madre, en el orden que de común acuerdo y por escrito determinen, el orden elegido deberá mantenerse para todos los hijos de la misma filiación, en caso de no existir acuerdo, el primer apellido del padre seguido del primer apellido de la madre, y cuando se trate del registro de un menor de padre desconocido se le pondrá el primero y segundo apellidos de la madre, la expresión de si es presentado vivo o muerto; nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos; y si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes. En el acta de nacimiento invariablemente deberá asentarse la Clave Única de Registro de Población.
 
 Si se desconoce el nombre de los padres, el Oficial del Registro Civil le pondrá nombre y apellidos, haciéndose constar esta circunstancia en acta por separado que se anexará al Apéndice. Queda prohibido mostrar esta última acta, salvo que medie orden judicial. Bajo su estricta y personal responsabilidad, dará parte al Ministerio Público, si éste no tuviere conocimiento del hecho; el Oficial entregará de inmediato para su custodia al infante presentado a una Institución de Asistencia Familiar.
 
@@ -6304,3 +6286,33 @@ P.O. 9 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Una vez publicada la presente reforma en el Periódico Oficial “Tierra y Libertad”, infórmese a la Honorable Cámara de Diputados del Congreso de la Unión, que se ha dado debido cumplimiento al exhorto descrito en el proemio del presente Dictamen.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS VEINTICUATRO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas y normativas de igual o menor rango jerárquico, que se opongan al presente Decreto.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRECIENTOS VEINTICINCO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, RESPECTO DEL DIVORCIO INCAUSADO”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas y normativas de igual o menor rango jerárquico, que se opongan al presente Decreto.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRESCIENTOS VEINTISÉIS POR EL QUE SE REFORMA EL PRIMER PÁRRAFO AL ARTÍCULO 441 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas y normativas de igual o menor rango jerárquico, que se opongan al presente Decreto.
