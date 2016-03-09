@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2016-02-08"
+last_updated: "2016-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1233,9 +1233,11 @@ IX. Patrocinar a particulares en asuntos que se relacionen con el gobierno munic
 
 Para el cumplimiento de sus funciones, el Presidente Municipal se auxiliará de los demás integrantes del Ayuntamiento, así como de los órganos administrativos y comisiones que ésta Ley establece.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 44.
 
-El Presidente Municipal asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuere parte cuando el Síndico esté impedido física o legalmente para ello, o cuando éste se niegue a asumirla; en este último caso se obtendrá la autorización del Ayuntamiento, pero es este supuesto deberá dar cuenta inmediata de su actuación al Cabildo.
+El Presidente Municipal asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuere parte cuando el Síndico esté impedido física o legalmente para ello, o cuando éste se niegue a asumirla; sin que sea necesario en este último caso, la autorización del Ayuntamiento, pero en este supuesto y con la finalidad de no dejar en estado de indefensión Jurídica al Ayuntamiento, deberá dar cuenta de su actuación al Cabildo.
 
 ### CAPÍTULO III. DE LOS SÍNDICOS
 
@@ -3854,6 +3856,22 @@ PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO. Los Municipios del Estado, a través de sus Ayuntamientos emitirán las disposiciones reglamentarias correspondientes en un término no mayor a 90 días hábiles, contados a partir de la fecha en que entre en vigor la presente reforma.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO CINCUENTA Y OCHO POR EL QUE SE MODIFICA EL ARTÍCULO 44, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+###### ARTICULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al titular del Poder Ejecutivo del Estado de Morelos, para su publicación en el Periódico Oficial “Tierra y Libertad” Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El decreto que al efecto se expida, entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
 ###### ARTÍCULO CUARTO.
 
