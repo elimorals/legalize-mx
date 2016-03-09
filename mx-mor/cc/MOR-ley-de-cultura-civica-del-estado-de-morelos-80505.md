@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2015-04-22"
+last_updated: "2016-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -473,17 +473,25 @@ XI. Cubrir, borrar, pintar, alterar o desprender los letreros, señales, número
 
 XII. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello;
 
-XIII. Colocar transitoriamente o fijar sin autorización para ello, elementos destinados a la venta de productos o prestación de servicios, y
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
 
-XIV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio, o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
+XIII. Realizar inscripciones, leyendas, consignas, anuncios, pintas, letras, grabados, marcas, signos, símbolos, rayas, nombres, palabras o dibujos en la vía pública, en bienes inmuebles o muebles de propiedad privada o pública, utilizando elementos que dañen su apariencia o estado normal u original, sin que cuenten previamente con la autorización de la persona que deba otorgarlo;
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XIV. Colocar transitoriamente o fijar, sin autorización para ello, elementos destinados a la venta de productos o prestación de servicios, y
+
+XV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio, o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### Artículo 23.
 
-Las infracciones contra el entorno urbano a que se refiere el artículo anterior se sancionarán de la siguiente manera: fracciones I, II, III, V, VI y VII: multa por el equivalente de 11 a 20 días de Salario Mínimo o con arresto de 13 a 24 horas; fracciones VIII a XIV: multa por el equivalente de 21 a 30 días de Salario Mínimo o con arresto de 25 a 36 horas.
+Las infracciones contra el entorno urbano a que se refiere el artículo anterior se sancionará de la siguiente manera: fracciones I, II, III, V, VI y VII: multa por el equivalente de 11 a 20 días de Salario Mínimo o con arresto de 13 a 24 horas; fracciones VIII a la XV: multa por el equivalente de 21 a 30 días de Salario Mínimo o con arresto de 25 a 36 horas. Lo referente a la fracción IV, se sancionará con multa de 5 a 99 días de Salario Mínimo.
 
-Lo referente a la fracción IV, se sancionará con multa de 5 a 99 días de salario mínimo.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE MARZO DE 2016)</small>
+
+En el caso de la fracción XIII del artículo anterior, además de la multa o arresto y reparación del daño respectiva, el infractor deberá cubrir de cien a doscientos días de trabajo comunitario, dependiendo la gravedad y monto del daño causado al bien.
 
 ###### Artículo 24.
 
@@ -934,3 +942,13 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS VEINTITRÉS POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS, RESPECTO DE LA IMAGEN URBANA”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan todas las disposiciones jurídicas y normativas de igual o menor rango jerárquico, que se opongan al presente Decreto.
