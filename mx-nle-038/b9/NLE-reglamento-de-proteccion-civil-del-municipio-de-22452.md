@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-del-municipio-de-22452"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-24"
-last_updated: "2001-10-24"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL DEL MUNICIPIO DE MONTEMORELOS, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL DEL MUNICIPIO DE MONTEMORELOS, NUEVO LEON
+REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de octubre de 2001
 
@@ -327,7 +329,7 @@ Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente d
 
 Artículo Segundo.- Envíese al Ejecutivo para su publicación en el Periódico Oficial del Estado.
 
-Montemorelos, Nuevo León a 28 de septiembre del 2001 EL PRESIDENTE MUNICIPAL C. DR. HÉCTOR M. GARZA DE ALEJANDRO, EL SECRETARIO DEL AYUNTAMIENTO C. PROFR. RICARDO A. DE LEON GARCÍA, EL PRIMER REGIDOR C. MARIA CRISTINA PARAS SALDIVAR, EL SEGUNDO REGIDOR C. ZACARÍAS TORRES LUNA, EL TERCER REGIDOR C. ARMANDO ZÚÑIGA CEPEDA, EL CUARTO REGIDOR C. PROFR. MATÍAS GARCÍA SALAZAR, EL QUINTO REGIDOR C. PROFRA. BLANCA ARREDONDO CABALLERO, EL SEXTO REGIDOR C. PROFRA. IRMA ELVIRA TAMEZ GARCÍA, EL SÉPTIMO REGIDOR C. MTRO. JOSÉ DE JESÚS MARTÍNEZ PERALES, EL OCTAVO REGIDOR C. C.P. HELIODORO PLATA SALAZAR, EL NOVENO REGIDOR C. JESÚS MARIO MONCADA ALANÍS, EL SÍNDICO RIMERO (SIC) C. LIC. JUAN IGNACIO CANTÚ DE OCHOA, EL SÍNDICO SEGUNDO C. JOSÉ LUIS AGUIRRE SILVA. Rúbricas" (sic).
+Montemorelos, Nuevo León a 28 de septiembre del 2001 EL PRESIDENTE MUNICIPAL C. DR. HÉCTOR M. GARZA DE ALEJANDRO, EL SECRETARIO DEL AYUNTAMIENTO C. PROFR. RICARDO A. DE LEON GARCÍA, EL PRIMER REGIDOR C. MARIA CRISTINA PARAS SALDIVAR, EL SEGUNDO REGIDOR C. ZACARÍAS TORRES LUNA, EL TERCER REGIDOR C. ARMANDO ZÚÑIGA CEPEDA, EL CUARTO REGIDOR C. PROFR. MATÍAS GARCÍA SALAZAR, EL QUINTO REGIDOR C. PROFRA. BLANCA ARREDONDO CABALLERO, EL SEXTO REGIDOR C. PROFRA. IRMA ELVIRA TAMEZ GARCÍA, EL SÉPTIMO REGIDOR C. MTRO. JOSÉ DE JESÚS MARTÍNEZ PERALES, EL OCTAVO REGIDOR C. C.P. HELIODORO PLATA SALAZAR, EL NOVENO REGIDOR C. JESÚS MARIO MONCADA ALANÍS, EL SÍNDICO RIMERO (SIC) C. LIC. JUAN IGNACIO CANTÚ DE OCHOA, EL SÍNDICO SEGUNDO C. JOSÉ LUIS AGUIRRE SILVA. Rúbricas".
 
 Asentado en Acta de Cabildo Número 39 en Sesión Extraordinaria del R. Ayuntamiento celebrada en la Sala de Sesiones el día 28 del mes de septiembre del 2001.
 
@@ -342,3 +344,19 @@ DR. HÉCTOR M. GARZA DE ALEJANDRO
 EL C. SECRETARIO DEL AYUNTAMIENTO
 
 PROFR. RICARDO A. DE LEÓN GARCÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN”.]
+
+PRIMERO.- Se abroga el Reglamento Municipal de Protección Civil, publicado en el Periódico Oficial del Estado de Nuevo León en fecha 24-veinticuatro de octubre de 2001-dos mil uno.
+
+SEGUNDO.- El presente REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Al momento de entrar en vigor el presente Reglamento las Secretarías y Dependencias municipales que son reguladas en él, gozarán de las atribuciones que les confieren las normativas en vigor, en cuanto no se opongan a lo dispuesto en éste ordenamiento, asimismo los demás reglamentos municipales que invoquen a una dependencia que por este reglamento se hubiese modificado de nombre, deberán de ajustarse a lo prescrito por este ordenamiento.
+
+CUARTO.- Se deja sin efecto legal alguno, cualquier disposición que contravenga el presente Reglamento.
+
+QUINTO.- Envíese el presente Reglamento al Secretario General de Gobierno para que por su conducto sea publicado en el Periódico Oficial del Estado; así también deberá de ser publicado en la Página de Internet del Municipio de Montemorelos, Nuevo León. Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la Presidencia Municipal de Montemorelos, Nuevo León, a los 25-veinticinco días del mes de febrero del 2016-dos mil dieciséis.
