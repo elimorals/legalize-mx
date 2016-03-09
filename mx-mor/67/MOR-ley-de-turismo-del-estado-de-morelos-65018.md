@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2015-12-09"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -61,7 +61,9 @@ Secretaría Federal: Secretaría de Turismo de la Administración Pública Feder
 
 Secretaría: Secretaría de Turismo del Poder Ejecutivo del Estado de Morelos.
 
-Secretario: Secretario de Turismo del Estado.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
+Secretario o Secretaria: El o la Titular de la Secretaría de Turismo del Poder Ejecutivo del Estado de Morelos.
 
 Prestador de servicios turísticos: La Persona física o moral que habitualmente proporciona, intermedia o contrata con el turista en cualquier momento la prestación remunerada de alguno de los servicios a que se refiere esta Ley.
 
@@ -1144,3 +1146,11 @@ Iniciando vigencia el presente Decreto, el titular del Poder Ejecutivo del Estad
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS TRECE POR EL QUE SE REFORMA EL TERCER CONCEPTO DEL ARTÍCULO 2 DE LA LEY DE TURISMO DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano del Gobierno del Estado de Morelos.
