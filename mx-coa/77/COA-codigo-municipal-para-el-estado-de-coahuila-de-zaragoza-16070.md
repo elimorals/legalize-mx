@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2015-11-13"
+last_updated: "2016-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -2371,21 +2371,49 @@ Los cuerpos de seguridad pública municipales deberán acatar las órdenes que l
 
 Los Ayuntamientos, en ejercicio de su facultad reglamentaria, expedirán el reglamento interior de la policía preventiva municipal en sus respectivos municipios.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 213.
 
-Los Municipios, dentro de sus respectivas jurisdicciones, contarán con un Consejo Municipal de Seguridad Pública como órgano normativo y de consulta que se encargará del buen desarrollo y seguimiento del programa de seguridad pública municipal.
+Los Municipios, dentro de sus respectivas jurisdicciones, contarán con un Consejo de Seguridad Pública como instancia de deliberación, consulta y definición de políticas públicas en la materia, así como para dar seguimiento al cumplimiento de los acuerdos del Consejo Estatal y del programa de seguridad pública municipal.
+
+El Consejo de Seguridad Pública del Municipio tendrá las facultades descritas en la Ley del Sistema de Seguridad Pública del Estado; y se reunirá en forma ordinaria a más tardar cada dos meses, y de manera extraordinaria en cualquier tiempo, a juicio de su Presidente; debiendo convocarse por escrito a sus integrantes al menos tres días hábiles antes de la celebración de las sesiones tomarán por mayoría simple de votos. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 214.
 
-El Consejo Municipal de Seguridad Pública estará integrado por el presidente municipal, por el Secretario del Ayuntamiento, el Tesorero, el Director de Policía Preventiva Municipal, un miembro del Consejo Ciudadano Regional de Seguridad Pública, un miembro del Consejo Ciudadano Municipal y por todos aquellos funcionarios de la administración pública municipal que, a juicio de los integrantes mencionados, deban participar.
+El Consejo de Seguridad Pública del Municipio estará integrado por:
+
+I. El o la titular de la Presidencia Municipal, quien lo presidirá;
+
+II. El o la titular de la Secretaría del Ayuntamiento, quien fungirá como secretario técnico;
+
+III. El o la titular de la Regiduría de Seguridad Pública;
+
+IV. El o la titular de la Tesorería;
+
+V. El o la titular de la Dirección de Seguridad Pública Municipal u órgano equivalente; y
+
+VI. Cinco representantes de la sociedad civil de la comunidad de que se trate.
+
+Los representantes de la sociedad civil, serán electos por el Cabildo del Municipio; por un periodo de 4 años, mismo que deberá de ejercerse en dos periodos constitucionales inmediatos, de tal manera que se permita la continuidad de las acciones. Los requisitos para ser representante de la sociedad civil, son los previstos por las fracciones I, II, V y VIII del artículo 30 de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza. La participación de los representantes de la sociedad civil es de carácter honorífico.
+
+A las sesiones del Consejo de Seguridad Pública del Municipio se podrán invitar a representantes de las instituciones de seguridad pública de la entidad y de la federación o de otras dependencias estatales o federales relacionadas con la seguridad pública, así como a personas, instituciones y representantes de la sociedad civil que por sus conocimientos y experiencia puedan contribuir al cumplimiento de los objetivos y fines de la seguridad pública. Su participación será con carácter honorífico.
+
+El Secretario Técnico del Consejo de Seguridad Pública del Municipio contará con las facultades previstas en la Ley del Sistema de Seguridad Pública del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 215.
 
-El Consejo Municipal de Seguridad Pública deberá aprobar el Programa Municipal de Seguridad Pública dentro de los primeros tres meses en que inicie la administración y revisará su funcionamiento cada seis meses; así mismo, dará seguimiento a los acuerdos y convenios que en materia de seguridad pública se celebren con el Gobierno del Estado, otros municipios, la Federación, o con los sectores público, social y privado.
+El Consejo de Seguridad Pública del Municipio deberá aprobar el Programa Municipal de Seguridad Pública dentro de los primeros tres meses en que inicie la administración y revisará su funcionamiento cada seis meses; así mismo, dará seguimiento a los acuerdos y convenios que en materia de seguridad pública se celebren con el Gobierno del Estado, otros municipios, la Federación, o con los sectores público, social y privado.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 216.
 
-El Programa de Seguridad Pública, es el documento que contiene las acciones que en forma planeada y coordinada deberá realizar la Policía Preventiva Municipal y deberá ser elaborado e implementado por el director de la Policía Preventiva Municipal.
+El Programa de Seguridad Pública, es el documento que contiene las acciones que en forma planeada y coordinada deberá realizar la Policía Preventiva Municipal y deberá ser elaborado por el Consejo de Seguridad Pública del Municipio e implementado por el director de la Policía Preventiva Municipal.
 
 ###### ARTÍCULO 217.
 
@@ -2401,25 +2429,33 @@ IV. Los subprogramas que contengan planes de coordinación con dependencias u or
 
 V. La mención de los departamentos responsables de su ejecución.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 218.
 
-El Programa de Seguridad Pública Municipal, dentro de los subprogramas específicos contendrá un plan integral en materia de Prevención Social del Delito que involucre una amplia participación de los sectores social, público y privado, dirigido a disminuir las causas sociales de la desintegración familiar, la violencia, la drogadicción, y el alcoholismo.
+El Programa de Seguridad Pública Municipal, dentro de los subprogramas específicos contendrá un plan integral en materia de Prevención Social de la Violencia y la Delincuencia, que involucre una amplia participación de los sectores social, público y privado, dirigido a disminuir las causas sociales de la desintegración familiar, la violencia, la drogadicción, y el alcoholismo.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 219.
 
-Los Ayuntamientos, promoverán la profesionalización de sus policías municipales, mediante la instauración de la carrera policial, atendiendo a lo dispuesto en la Ley de Seguridad Pública del Estado y el Reglamento del Servicio Policial de Carrera.
+Los Ayuntamientos, promoverán la profesionalización de sus policías municipales, mediante la instauración de la carrera policial, atendiendo a lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado y el Reglamento del Servicio Policial de Carrera.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 220.
 
-El Sistema de Profesionalización del Servidor Público de la Policía Preventiva Municipal contendrá por lo menos, los requisitos y parámetros para el ingreso, capacitación permanente, reglas de evaluación, sistema de promociones y ascensos, prestaciones laborales dignas, así como condiciones para el retiro de los elementos de las corporaciones policiales de sus respectivos municipios.
+El Servicio Profesional de Carrera de los Servidores Públicos de la Policía Preventiva Municipal contendrá por lo menos, los requisitos y parámetros para el ingreso, capacitación permanente, reglas de evaluación, sistema de promociones y ascensos, prestaciones laborales dignas, así como condiciones para el retiro de los elementos de las corporaciones policiales de sus respectivos municipios y se regirá conforme a las bases que marque la Ley del Sistema de Seguridad Pública del Estado.
 
 ###### ARTÍCULO 221.
 
 Los Ayuntamientos, a través de sus respectivas áreas de policía preventiva municipal, deberán contar con mecanismos de comunicación de respuesta inmediata a la ciudadanía para la atención de emergencias, así como mecanismos de atención para quejas y sugerencias.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 222.
 
-Los Ayuntamientos podrán celebrar convenios de coordinación entre sí, con el Gobierno del Estado de acuerdo con la Ley de Seguridad Pública del Estado y con los ayuntamientos de otros Estados en los términos que señala la ley que establece las bases de coordinación del Sistema Nacional de Seguridad Pública, para lograr un mejor desempeño en su función, teniendo, en todo tiempo, la obligación de auxiliarse en el desempeño de sus labores.
+Los Ayuntamientos podrán celebrar convenios de coordinación entre sí, con el Gobierno del Estado de acuerdo con la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y con los ayuntamientos de otros Estados en los términos que señala la Ley General del Sistema Nacional de Seguridad Pública, para lograr un mejor desempeño en su función, teniendo, en todo tiempo, la obligación de auxiliarse en el desempeño de sus labores.
 
 ###### ARTÍCULO 223.
 
@@ -2433,7 +2469,9 @@ I. Proporcionar la información necesaria para el desarrollo de la base de datos
 
 II. Consultar al registro estatal policial, previamente a la contratación de los elementos de seguridad pública, con el propósito de conocer información sobre sus antecedentes y, a la vez, registrar a los elementos policiales que presten servicio en sus municipios.
 
-III. Colaborar de conformidad con lo dispuesto en la Ley de Seguridad Pública, en la regulación del funcionamiento de las empresas de seguridad privada.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+III. Colaborar de conformidad con lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado, en la regulación del funcionamiento de las empresas de seguridad privada.
 
 IV. Coordinar esfuerzos para el desarrollo y funcionamiento de los demás programas y acciones que se implementen en los ámbitos estatal y federal.
 
@@ -2441,9 +2479,11 @@ IV. Coordinar esfuerzos para el desarrollo y funcionamiento de los demás progra
 
 Los municipios de la Entidad promoverán y fomentarán la participación social organizada en barrios y colonias, que tenga como función principal establecer la coordinación necesaria con las autoridades municipales, a efecto de coadyuvar en el mantenimiento del orden público y la tranquilidad de sus respectivas colonias o barrios.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 226.
 
-Para lo no previsto en el presente capítulo, en materia de seguridad pública, se atenderá a lo dispuesto en la Ley de Seguridad Pública del Estado de Coahuila de Zaragoza, sus reglamentos y la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+Para lo no previsto en el presente capítulo, en materia de seguridad pública, se atenderá a lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza, sus reglamentos y la Ley General del Sistema Nacional de Seguridad Pública.
 
 ### CAPÍTULO V. DE LA PROTECCIÓN CIVIL
 
@@ -3727,9 +3767,11 @@ II. De Capacitación y Evaluación, que se encargará de la capacitación y eval
 
 El Comité del Servicio Profesional de Carrera Municipal llevará registro de cada uno de los procesos que componen la carrera profesional de los Servidores Públicos Municipales; para esto, estará facultado para solicitar información a la Administración Pública Municipal en todo lo relacionado con este capítulo. Asimismo, implementará un sistema de informática que permita el control, el buen desarrollo y seguimiento del Servicio Profesional de Carrera.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 377.
 
-En lo que se refiere a la Profesionalización del personal de la Policía Preventiva Municipal, ésta se regirá por lo dispuesto en la Ley de Seguridad Pública del Estado, la cual contendrá su propio sistema de Profesionalización del Servidor Público Policial.
+En lo que se refiere al Servicio Profesional de Carrera de los servidores públicos de la Policía Preventiva Municipal se regirá por lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado.
 
 ## TÍTULO DÉCIMO. DE LA JUSTICIA MUNICIPAL Y LOS RECURSOS ADMINISTRATIVOS
 
@@ -4248,3 +4290,29 @@ P.O. 13 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 186.- SE ADICIONA UN SEGUNDO PÁRRAFO AL NUMERAL 14 DE LA FRACCIÓN I DEL ARTÍCULO 102, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA."]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 385.- SE MODIFICAN LOS ARTÍCULOS 213, 214, 215, 216, 218, 219, 220, 222, LA FRACCIÓN III DEL 224, 226 Y 377, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones reglamentarias de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza, deberán expedirse dentro de los 180 días naturales siguientes a su entrada en vigor, entre tanto, seguirán vigentes las aplicables a las instituciones de seguridad pública, en los que no se opongan a este Decreto.
+
+TERCERO. De manera progresiva y en un plazo de un año a partir de la entrada en vigor de este Decreto, los integrantes de las instituciones de seguridad pública, deberán obtener el certificado emitido por el Centro de Profesionalización.
+
+CUARTO. Los servicios profesionales de carrera vigentes en las instituciones de seguridad pública a la fecha de entrada en vigor de este decreto, deberán ajustarse a los lineamientos establecidos en la ley que se crea, emitiendo para tal efecto la reglamentación correspondiente, en un plazo no mayor a un año.
+
+QUINTO. Los servidores públicos que obtengan el certificado y que satisfagan los requisitos de permanencia que se establecen en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y los ordenamientos legales federales y estatales aplicables, serán homologados al servicio profesional de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en el presente decreto.
+
+SEXTO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública se entenderán hechas al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, de acuerdo a las atribuciones que se otorgan a éste último en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza.
+
+SÉPTIMO. Los consejos, conferencia y demás órganos contemplados por la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza deberán instalarse dentro de 60 días naturales contados a partir de la entrada en vigor del presente decreto, o adecuar su estructura en los casos que así lo requieran, tratándose de aquellos que ya se encuentren en funciones.
+
+OCTAVO. Se abroga la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 19 de junio de 2009, y se derogan las demás disposiciones que se opongan al presente decreto.
+
+NOVENO. Los órganos colegiados contemplados solo en la ley que se abroga deberán realizar entrega recepción en términos de las disposiciones aplicables, al Secretariado Ejecutivo en un término de 60 días hábiles posteriores a la entrada en vigor del presente decreto, una vez realizado esto operará su extinción.
+
+DÉCIMO. Las unidades administrativas establecidas en la ley abrogada y que al inicio de la vigencia de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza se encuentren en funcionamiento, se regirán conforme a ella y las leyes y reglamentos aplicables.
+
+UNDÉCIMO. Para el ejercicio fiscal del año 2016, la Secretaría de Finanzas con base en la disponibilidad presupuestal, dotará de los recursos financieros necesarios a las instituciones de seguridad pública estatales para el adecuado cumplimiento de las disposiciones del presente decreto.
