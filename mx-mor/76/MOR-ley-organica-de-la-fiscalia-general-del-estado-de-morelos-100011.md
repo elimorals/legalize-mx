@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2014-12-10"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -43,9 +43,11 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público y de interés social, y tiene por objeto establecer, organizar y regular las atribuciones de la Fiscalía General del Estado de Morelos, así como de las Unidades Administrativas que la integran, para el despacho de los asuntos que al Ministerio Público le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y demás normas aplicables.
+Esta Ley es de orden público y de interés social, y tiene por objeto establecer, organizar y regular las atribuciones de la Fiscalía General del Estado de Morelos, de la Fiscalía Especializada para la Investigación de Hechos de Corrupción, así como de las Unidades Administrativas que las integran, para el despacho de los asuntos que al Ministerio Público le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y demás normas aplicables.
 
 ###### Artículo 2.
 
@@ -111,9 +113,15 @@ XIV. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia
 
 La Fiscalía General, es una Institución perteneciente al Poder Ejecutivo del Estado, dotada de autonomía de gestión, técnica, de ejercicio y de aplicación del gasto público que le asigne el Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+Además, se establece la Fiscalía Especializada para la investigación de hechos de corrupción, integrante del Sistema Estatal Anticorrupción, que tendrá las mismas características de autonomía para sí.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 4.
 
-Por su autonomía de gestión, la Fiscalía General goza de la administración, dirección, organización, disposición, distribución y suministro de recursos humanos, materiales y financieros; así como de la capacidad de decidir responsablemente sobre la adquisición de productos y servicios, en los términos previstos por las disposiciones jurídicas aplicables, el ejercicio de sus recursos propios, su estructura administrativa, así como proponer los niveles remunerativos para el personal que la integra, de conformidad con el presupuesto autorizado para ello y en términos de lo dispuesto por la legislación Federal y Estatal que resulte aplicable.
+Por su autonomía de gestión, la Fiscalía General y la Fiscalía Especializada para Investigación de Hechos de Corrupción gozan de la administración, dirección, organización, disposición, distribución y suministro de recursos humanos, materiales y financieros; así como de la capacidad de decidir responsablemente sobre la adquisición de productos y servicios, en los términos previstos por las disposiciones jurídicas aplicables, el ejercicio de sus recursos propios, su estructura administrativa, así como proponer los niveles remunerativos para el personal que la integra, de conformidad con el presupuesto autorizado para ello y en términos de lo dispuesto por la legislación Federal y Estatal que resulte aplicable.
 
 ###### Artículo 5.
 
@@ -237,7 +245,11 @@ XXV. Activar y dar cumplimiento a los protocolos en metería de personas desapar
 
 XXVI. Autorizar la dispensa de la necropsia, cuando de la investigación no resulten datos relacionados con la existencia de un delito; y
 
-XXVII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XXVII. Son Funciones del Ministerio Público adscrito a la Fiscalía Especializada para la Investigación de Hechos de Corrupción, combatir, investigar y perseguir hechos de corrupción, conforme a las normativas aplicables, y
+
+XXVIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
 ###### Artículo 12.
 
@@ -302,6 +314,52 @@ Para los fines del presente artículo, se contará con la unidad especializada e
 El personal de la unidad especializada en combate al secuestro, deberá capacitarse en materia de planeación de investigación, manejo de crisis, negociación, táctica e inteligencia.
 
 Para ingresar al servicio de esta unidad especializada, los aspirantes deberán asumir el compromiso de sujetarse a vigilancia no intrusiva, por la autoridad competente, en cualquier tiempo de su servicio y dentro de los cinco años posteriores a la terminación del mismo, así como rendir y mantener actualizada la información en materia de secuestro y la realización de exámenes de control de confianza cuando sean requeridos, mismos que deberán acreditar para continuar en el servicio.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+Artículo 13 BIS. Con estricto cumplimiento y respecto de los derechos que le asisten a cualquier persona, son funciones del Fiscal Especializado para la Investigación de Hechos de Corrupción:
+
+I. Conocer e investigar los delitos derivados de hechos conocidos o identificados como de corrupción en contra de la administración pública, aquellos casos en que la función, cargo o comisión de los servidores públicos se realice en contra de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, así como demás delitos relacionados con los tipos penales que se desprendan de las investigaciones;
+
+II. Ejercitar acción penal en contra de los imputados de los delitos a que se refiere la fracción anterior;
+
+III. Perseguir y conocer de aquellos delitos previstos por la normativa federal o local, según sea el caso, que se expida en la materia;
+
+IV. Detallar la investigación correspondiente precisando las constancias o las actuaciones realizadas;
+
+V. Dar aviso al Ministerio Público competente, por razón de fuero o materia, cuando de las diligencias practicadas en la investigación de los delitos de su competencia se desprenda la comisión de alguno diferente;
+
+VI. Solicitar atención y reparación para las víctimas de las conductas previstas en la normativa aplicable en la materia;
+
+VII. Recibir, por cualquier medio autorizado por la Ley, las denuncias sobre los delitos e iniciar la investigación correspondiente;
+
+VIII. Utilizar las técnicas de investigación previstas en la normativa aplicable;
+
+IX. Vigilar, con absoluto respeto a los derechos constitucionales, a las personas respecto de las cuales se tengan indicios de que pudieran estar involucradas en hechos de corrupción;
+
+X. Sistematizar la información obtenida para la detención de los imputados;
+
+XI. Solicitar a personas físicas o morales la entrega inmediata de información que pueda ser relevante para la investigación de los delitos de que conozca;
+
+XII. Proponer, en coordinación con el Sistema Estatal Anticorrupción, políticas y programas para la prevención e investigación de hechos de corrupción, y
+
+XIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+
+Para los fines del presente artículo y conforme a lo previsto por el artículo 79-B de la Constitución Política del Estado Libre y Soberano de Morelos, se establece la Fiscalía Especializada para la Investigación de Hechos de Corrupción, que gozará de la misma autonomía que la Fiscalía General en términos de los artículos 4 y 5 de esta Ley, incluso respecto de ésta última, a fin de salvaguardar toda imparcialidad en el desempeño de sus actividades, de conformidad con las disposiciones presupuestales asignadas para ello.
+
+La Fiscalía Especializada para la Investigación de Hechos de Corrupción estará a cargo de una persona titular, quien además de cumplir con los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Morelos, gozará de nivel equivalente al del Fiscal General, y no le resultan aplicables los requisitos a que se refiere el artículo 37 de esta Ley.
+
+La designación y permanencia en el cargo de dicho Fiscal Especializado se regirán por lo previsto en la Constitución Política del Estado Libre y Soberano de Morelos, así como por la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+Artículo 13 TER. A la Fiscalía Especializada para la Investigación de Hechos de Corrupción solo le resultarán aplicables las disposiciones previstas en los artículos 24 y 25 de esta Ley, en lo conducente, considerando lo dispuesto por el artículo anterior y su previsión constitucional, como integrante del Sistema Estatal Anticorrupción, y sin perjuicio de otras disposiciones jurídicas de este y otros ordenamientos que deba observar.
+
+Para el cumplimiento de su objeto, tendrá a su cargo Fiscales, Agentes del Ministerio Púbico, Peritos y Policías de Investigación Criminal y técnicos especializados así como el demás personal que resulte necesario conforme a la suficiencia presupuestaria autorizada para ello, de conformidad con su Reglamento Interior y las disposiciones jurídicas y administrativas aplicables.
+
+El personal de la Fiscalía Especializada, en coordinación con el Sistema Estatal Anticorrupción, deberá capacitarse en la materia, así como desempeñar sus funciones, empleos, cargos y comisiones en el marco de los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia y secrecía.
+
+Para ingresar al servicio de esta unidad especializada, los aspirantes deberán asumir el compromiso de sujetarse a vigilancia no intrusiva, por la autoridad competente, en cualquier tiempo de su servicio y dentro de los cinco años posteriores a la terminación del mismo, así como rendir y mantener actualizada la información en materia de corrupción.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -429,9 +487,11 @@ El incumplimiento de estas obligaciones dará lugar a la sanción correspondient
 
 ### CAPÍTULO III. DE LA ESTRUCTURA Y ORGANIZACIÓN DE LA FISCALÍA GENERAL
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 19.
 
-La Fiscalía General está a cargo de un Fiscal General, quien es el titular de la Institución del Ministerio Público, y ejerce la autoridad jerárquica sobre todo el personal de la misma.
+La Fiscalía General está a cargo de un Fiscal General, quien es el Titular de la Institución del Ministerio Público, y ejerce la autoridad jerárquica sobre todo el personal de la misma, con excepción del Fiscal Especializado en la Investigación de Hechos de Corrupción, conforme a lo dispuesto por el artículo 13 BIS de esta Ley.
 
 ###### Artículo 20.
 
@@ -465,9 +525,15 @@ XI. Visitaduría General, y
 
 XII. Las demás que resulten necesarias para su funcionamiento y las que disponga la normativa aplicable y reglamentaria, de conformidad con el presupuesto autorizado para ello.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+Con independencia de ello, cuenta con la Fiscalía Especializada para la Investigación de Hechos de Corrupción conforme a lo previsto en la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley y demás normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 22.
 
-El Reglamento establecerá la integración, funciones y atribuciones de cada una de las Unidades Administrativas, así como de los titulares que las integran.
+El Reglamento establecerá la integración, funciones y atribuciones de cada una de las Unidades Administrativas, así como de los titulares que las integran. La Fiscalía Especializada para la Investigación de Hechos de Corrupción se regirá por su propio Reglamento Interior.
 
 Cada Unidad Administrativa, contará con los Directores, Coordinadores, Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, operadores de justicia alternativa, asesores jurídicos y demás personal que sea necesario para el cumplimiento de sus funciones, conforme a la disponibilidad presupuestaria y lo previsto en el Reglamento.
 
@@ -1061,7 +1127,9 @@ IV. Abstenerse de ejercer empleo, cargo o comisión y demás actividades a que s
 
 V. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la ciudadanía;
 
-VI. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular, se opondrán a cualquier acto de corrupción;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+VI. Desempeñar su función sin solicitar o aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente; en particular, se opondrán a cualquier acto de corrupción. La Fiscalía Especializada para la Investigación de Hechos de corrupción vigilará el cumplimiento de esta obligación;
 
 VII. Abstenerse de ordenar o ejecutar la detención o retención de persona alguna sin cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y en las disposiciones jurídicas aplicables;
 
@@ -1250,3 +1318,13 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos “Tierra y Libertad”, número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS VEINTICINCO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS PARA LA ARMONIZACIÓN, RESPECTO DE LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN DE HECHOS DE CORRUPCIÓN”.]
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico, que se opongan al presente Decreto.
