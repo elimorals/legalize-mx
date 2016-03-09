@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-19"
-last_updated: "2015-03-10"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 9 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de junio de 2009.
 
@@ -4072,3 +4074,35 @@ P.O. 10 DE MARZO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 384.- LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones reglamentarias de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza, deberán expedirse dentro de los 180 días naturales siguientes a su entrada en vigor, entre tanto, seguirán vigentes las aplicables a las instituciones de seguridad pública, en los que no se opongan a este Decreto.
+
+TERCERO. De manera progresiva y en un plazo de un año a partir de la entrada en vigor de este Decreto, los integrantes de las instituciones de seguridad pública, deberán obtener el certificado emitido por el Centro de Profesionalización.
+
+CUARTO. Los servicios profesionales de carrera vigentes en las instituciones de seguridad pública a la fecha de entrada en vigor de este decreto, deberán ajustarse a los lineamientos establecidos en la ley que se crea, emitiendo para tal efecto la reglamentación correspondiente, en un plazo no mayor a un año.
+
+QUINTO. Los servidores públicos que obtengan el certificado y que satisfagan los requisitos de permanencia que se establecen en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y los ordenamientos legales federales y estatales aplicables, serán homologados al servicio profesional de carrera, en las ramas ministerial, policial y pericial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad con lo previsto en el presente decreto.
+
+SEXTO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos o cualquier otra disposición al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública se entenderán hecha al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, de acuerdo a las atribuciones que se otorgan a éste último en la Ley del Sistema de Seguridad Pública del Estado de Coahuila Zaragoza.
+
+El Secretariado Ejecutivo del Consejo Estatal de Seguridad Publica asumirá las atribuciones que le corresponden al Secretariado Ejecutivo del Sistema Estatal de Seguridad Publica, hasta en tanto no se actualice su nombramiento de conformidad con esta ley.
+
+SÉPTIMO. Los consejos, conferencia (sic) y demás órganos contemplados por la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza deberán instalarse dentro de 60 días naturales contados a partir de la entrada en vigor del presente decreto, o adecuar su estructura en los casos que así lo requieran, tratándose de aquellos que ya se encuentren en funciones.
+
+OCTAVO. Se abroga la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 19 de junio de 2009, y se derogan las demás disposiciones que se opongan al presente decreto.
+
+NOVENO. Los órganos colegiados contemplados solo en la ley que se abroga deberán realizar entrega recepción en términos de las disposiciones aplicables, al Secretariado Ejecutivo en un término de 60 días hábiles posteriores a la entrada en vigor del presente decreto, una vez realizado esto operará su extinción.
+
+DÉCIMO. Las unidades administrativas establecidas en la ley abrogada y que al inicio de la vigencia de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza se encuentren en funcionamiento, se regirán conforme a ella y las leyes y reglamentos aplicables.
+
+UNDÉCIMO. Para el ejercicio fiscal del año 2016, la Secretaría de Finanzas con base en la disponibilidad presupuestal, dotará de los recursos financieros necesarios a las instituciones de seguridad pública estatales para el adecuado cumplimiento de las disposiciones del presente decreto.
+
+Para los ejercicios fiscales subsecuentes se deberá incluir en los proyectos de Presupuesto de Egresos del Estado, las previsiones presupuestales que correspondan.
+
+DUODÉCIMO. Los convenios de coordinación en materia de seguridad pública celebrados entre los municipios y el Estado, continuarán vigentes en los términos en que fueron suscritos, sin perjuicio de que puedan ser modificados conforme a las disposiciones del presente decreto.
