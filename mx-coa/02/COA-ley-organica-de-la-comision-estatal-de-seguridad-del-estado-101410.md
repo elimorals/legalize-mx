@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-comision-estatal-de-seguridad-del-estado-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-10"
-last_updated: "2014-11-18"
+last_updated: "2016-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de junio de 2014.
 
@@ -71,7 +71,9 @@ X. Ley Orgánica: Ley Orgánica de la Administración Pública del Estado de Coa
 
 XI. Ley: La presente Ley;
 
-XII. Policía: La Policía Estatal de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XII. Fuerza Coahuila: El cuerpo policial del Gobierno del Estado de Coahuila de Zaragoza;
 
 XIII. Reglamento Interior: El Reglamento Interior de la Comisión Estatal de Seguridad;
 
@@ -87,7 +89,9 @@ Corresponde a la Comisión, auxiliar a la Secretaría en las siguientes atribuci
 
 I. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública del Estado y de sus habitantes; proponer al Gobernador la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública de acuerdo al Plan Estatal de Desarrollo; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
 
-II. Organizar, dirigir y supervisar bajo su adscripción a la Policía Estatal, garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, con el objeto de salvaguardar la integridad y el patrimonio de las personas y prevenir la comisión de delitos del orden común;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+II. Organizar, dirigir y supervisar bajo su adscripción a Fuerza Coahuila, garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, con el objeto de salvaguardar la integridad y el patrimonio de las personas y prevenir la comisión de delitos del orden común;
 
 III. Proponer en el seno del Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el territorio del Estado y efectuar, en coordinación con la Procuraduría General de Justicia del Estado, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
@@ -129,7 +133,9 @@ XXI. Supervisar que se dé cabal cumplimiento en el Estado a los acuerdos del Co
 
 XXII. Presidir el Consejo Estatal de Seguridad Pública en ausencia del Gobernador y supervisar que se instrumenten y de cumplimiento a sus acuerdos;
 
-XXIII. Dirigir, organizar y evaluar a la Policía Estatal;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XXIII. Dirigir, organizar y evaluar a Fuerza Coahuila;
 
 XXIV. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre los cuerpos de seguridad pública que existen en el Estado;
 
@@ -167,15 +173,19 @@ XXXVI. Asumir el mando único de la policía preventiva de los municipios, en lo
 
 XXXVII. Las demás que le atribuyan las leyes así como los reglamentos, decretos, acuerdos y órdenes del Secretario, en el ámbito de su respectiva competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 4.
 
-La Comisión estará a cargo del Comisionado, quien ejerce autoridad jerárquica sobre todo el personal de la misma y tiene el mando directo de la Policía.
+La Comisión estará a cargo del Comisionado, quien ejerce autoridad jerárquica sobre todo el personal de la misma y tiene el mando directo de Fuerza Coahuila.
 
 La Comisión, para el despacho de los asuntos que la Constitución General, la Constitución Local, las leyes, los reglamentos y demás ordenamientos aplicables establecen, y de conformidad con el presupuesto que se le asigne, contará con unidades administrativas, unidades administrativas policiales y con elementos de policía y, el personal de apoyo administrativo que sean necesarios.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 5.
 
-La Policía, institución armada, disciplinada y jerarquizada de naturaleza civil y profesional, garante de los derechos y de la integridad física y patrimonial de los habitantes del Estado de Coahuila de Zaragoza, dependiente de la Comisión Estatal de Seguridad en el desempeño de sus funciones y sus elementos, están sujetos al régimen que esta Ley y demás legislación aplicable dispone.
+Fuerza Coahuila, institución armada, disciplinada y jerarquizada de naturaleza civil y profesional, garante de los derechos y de la integridad física y patrimonial de los habitantes del Estado de Coahuila de Zaragoza, dependiente de la Comisión Estatal de Seguridad en el desempeño de sus funciones y sus elementos, están sujetos al régimen que esta Ley y demás legislación aplicable.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN DE LA COMISIÓN ESTATAL DE SEGURIDAD
 
@@ -205,19 +215,39 @@ h) Dirección General del Centro Estatal de Inteligencia e Información Policial
 
 i) Unidad de Derechos Humanos
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+j) Unidad de Transparencia
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+k) Unidad de Enlace Interinstitucional
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+l) Unidad del Sistema Estatal de Información
+
 II. Unidades Administrativas que Integran la Comisión:
 
 a) Dirección General de los Institutos Superiores de Estudios de Seguridad Pública
 
 b) Dirección General de Políticas Públicas, Preventivas y Elaboración de Proyectos
 
-c) Dirección de Registro y Control de los Servicios de Seguridad Privada
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
+c) Dirección General de Registro y Control de los Servicios de Seguridad Privada
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+d) Dirección General del Centro de Comunicaciones, Cómputo, Control y Comando
 
 III. Órganos Desconcentrados
 
 a) Unidad Desconcentrada de Ejecución de Penas y Reinserción Social
 
-b) Coordinación General de la Policía Estatal
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
+b) Coordinación General de Fuerza Coahuila
 
 ###### Artículo 7.
 
@@ -263,7 +293,9 @@ IV. Administrar y resguardar las bases de datos criminalísticos y del personal 
 
 V. Proponer al Secretario las medidas necesarias que permitan coordinar la vigilancia y protección de las instalaciones estratégicas;
 
-VI. Establecer mecanismos de coordinación con las autoridades federales, estatales y municipales cuyas atribuciones se relacionen con el órgano administrativo desconcentrado Policía Estatal;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+VI. Establecer mecanismos de coordinación con las autoridades federales, estatales y municipales cuyas atribuciones se relacionen con el órgano administrativo desconcentrado Fuerza Coahuila;
 
 VII. Someter a la aprobación del Secretario, la propuesta de las políticas, criterios y lineamientos para la distribución del gasto, asignado a las unidades administrativas y órganos administrativos desconcentrados adscritos a la Comisión y, una vez aprobados, proceder a su distribución y consolidar la información reportada por las mismas sobre su ejercicio, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -311,15 +343,21 @@ XXV. Aprobar, las acciones y lineamientos en materia de sistemas informáticos, 
 
 XXVI. Proveer, en el ámbito de competencia de la Secretaría, lo necesario para que se brinde la colaboración o auxilio con las autoridades policiales de otros estados y de la federación, conforme a lo establecido en los convenios y acuerdos en la materia;
 
-XXVII. Recibir en acuerdo a los jefes de unidad, directores generales, a los titulares de los órganos administrativos desconcentrados adscritos a la Comisión, así como al titular de la Unidad de Asuntos Internos de la Policía Estatal, para el despacho de los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XXVII. Recibir en acuerdo a los jefes de unidad, directores generales, a los titulares de los órganos administrativos desconcentrados adscritos a la Comisión, para el despacho de los asuntos de su competencia;
 
 XXVIII. Cumplir y hacer cumplir al interior de la Comisión las disposiciones en materia de acceso a la información pública y protección de datos personales;
 
 XXIX. Ser el Titular de la Licencia Oficial Colectiva de Portación de Armas de Fuego número 200, expedida por la Secretaría de la Defensa Nacional y en su caso, delegar en sus subordinados parte de su autoridad pero en ningún caso delegar parte alguna de su responsabilidad;
 
-XXX. Las demás que determinen las leyes, reglamentos y demás disposiciones aplicables, así como las que le encomiende el Gobernador y el Secretario;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
 
-XXXI. Promover la capacitación y profesionalización de la Policía, enfocadas a la investigación de los delitos;
+XXX. Diseñar y establecer, en el ámbito de su competencia, los procedimientos de intercambio de información policial, entre la Comisión y las agencias policiales de otras entidades federativas o extranjeras, con base en los instrumentos internacionales cuyos datos sean materia de investigación y persecución de delitos ordenados por las autoridades competentes.
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XXXI. Promover la capacitación y profesionalización de Fuerza Coahuila, enfocadas a la investigación de los delitos;
 
 XXXII. Vigilar, en el área de su competencia, el cumplimiento de las disposiciones legales y administrativas en materia de protección de derechos humanos;
 
@@ -333,7 +371,9 @@ XXXVI. Coadyuvar en la coordinación de las autoridades competentes con los orga
 
 XXXVII. Solicitar al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación; y
 
-XXXVIII. Diseñar y establecer, en el ámbito de su competencia, los procedimientos de intercambio de información policial, entre la Comisión y las agencias policiales de otras entidades federativas o extranjeras, con base en los instrumentos internacionales cuyos datos sean materia de investigación y persecución de delitos ordenados por las autoridades competentes.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XXXVIII. Las demás que determinen las leyes, reglamentos y demás disposiciones aplicables, así como las que le encomiende el Gobernador y el Secretario.
 
 ### CAPÍTULO III. DE LAS DISPOSICIONES COMUNES PARA LAS DIRECCIONES GENERALES Y COORDINACIONES GENERALES
 
@@ -465,6 +505,18 @@ h) Dirección General del Centro Estatal de Inteligencia e Información Policial
 
 i) Unidad de Derechos Humanos
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+j) Unidad de Transparencia
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+k) Unidad de Enlace Interinstitucional
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+l) Unidad del Sistema Estatal de Información
+
 ### CAPÍTULO I. DE LA JEFATURA DE OFICINA
 
 ###### Artículo 18.
@@ -531,7 +583,7 @@ III. Llevar a cabo el trámite de los juicios de amparo en los cuales el Comisio
 
 IV. Realizar con anuencia del Comisionado, acciones de coordinación con dependencias federales, estatales, municipales, del sector público o privado, organismos no gubernamentales, para intercambio de información relacionada con evaluación de personal, investigaciones internas o marco legal;
 
-V. Conocer, analizar y tramitar las quejas y recomendaciones emitidas por la Comisión Nacional de los Derechos Humanos y la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza, emitidas respecto al personal de la Comisión;
+V. (DEROGADA, P.O. 9 DE MARZO DE 2016)
 
 VI. Requerir a las unidades de la Comisión, la documentación e información necesaria para el cumplimiento de sus atribuciones;
 
@@ -541,7 +593,9 @@ VIII. Supervisar que el personal adscrito a la Dirección General, cumplan (sic)
 
 IX. Asesorar y procurar asistencia jurídica adecuada al personal de la Comisión en los juicios que se promuevan en su contra derivados de actos en el servicio;
 
-X. Llevar a cabo visitas ordinarias y extraordinarias a las diversas unidades de la Comisión, así como solicitarles los informes que sean necesarios;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+X. Llevar a cabo auditorías ordinarias y extraordinarias a las diversas unidades de la Comisión, así como solicitarles los informes que sean necesarios;
 
 XI. Vigilar el estricto control de la Licencia Oficial Colectiva de Portación de Armas de Fuego y los trámites de su renovación ante la Secretaría de la Defensa Nacional, para mantener permanentemente actualizado el Registro Nacional de Armamento y Equipo;
 
@@ -569,7 +623,9 @@ XXII. Demandar ante el Tribunal de Conciliación y Arbitraje del Poder Judicial 
 
 XXIII. Integrar, coordinar y supervisar el banco de armas y municiones de la Licencia Oficial Colectiva otorgada a la Comisión por la Secretaría de la Defensa Nacional, así como verificar en los municipios el uso adecuado del equipo, armamento y municiones que operan bajo dicha Licencia;
 
-XXIV. Integrar, coordinar y supervisar el banco de armas y municiones de la Licencia Oficial Colectiva a su cargo, llevando el control de altas y bajas de armamento y municiones del personal de la Policía Estatal, elementos de Seguridad y Custodia de los Centros de Reinserción Social y Policías Preventivas Municipales, autorizados para portarlas;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XXIV. Integrar, coordinar y supervisar el banco de armas y municiones de la Licencia Oficial Colectiva a su cargo, llevando el control de altas y bajas de armamento y municiones del personal de Fuerza Coahuila, elementos de Seguridad y Custodia de los Centros de Reinserción Social y Policías Preventivas Municipales, autorizados para portarlas;
 
 XXV. Facilitar las revisiones periódicas que practica la Secretaría de la Defensa Nacional, relacionada con la Licencia Oficial Colectiva afecta a la Comisión;
 
@@ -587,35 +643,7 @@ La Dirección General Jurídica, para el desempeño de sus funciones contará co
 
 ###### Artículo 22.
 
-En materia de transparencia, se contará con una Unidad de Atención y Acceso a la Información Pública, la cual estará adscrita a la Dirección General Jurídica; que tendrá las siguientes atribuciones:
-
-I. Recibir, tramitar y resolver las solicitudes de acceso a la información pública;
-
-II. Difundir en coordinación con las unidades administrativas de la Comisión, la información pública mínima;
-
-III. Organizar y coordinar los recursos humanos y materiales proporcionados, para las actividades en materia de acceso a la información;
-
-IV. Administrar, sistematizar, archivar y resguardar la información clasificada como reservada y confidencial en coordinación con las unidades administrativas de la Comisión;
-
-V. Promover y coordinar la actualización periódica de la información que genere la Comisión y no tenga el carácter de reservada;
-
-VI. Orientar y auxiliar a los usuarios en la elaboración de las solicitudes de acceso a la información;
-
-VII. Realizar los trámites y gestiones en la Comisión para entregar la información solicitada y efectuar las notificaciones correspondientes;
-
-VIII. Promover la capacitación, actualización y habilitación oficial de los servidores públicos que se encargarán de recibir las solicitudes presentadas;
-
-IX. Administrar y actualizar mensualmente el registro de las solicitudes, respuestas, trámites y costos que implique el cumplimiento de sus funciones;
-
-X. Requerir a las unidades administrativas de la Comisión, la información que considere necesaria para cumplir con las funciones de acceso a la información;
-
-XI. Solicitar al Órgano de Control Interno previo acuerdo con la Dirección General Jurídica, instruya los procedimientos administrativos de responsabilidad, en contra de aquellos funcionarios que incumplan con las disposiciones en materia de acceso a la información;
-
-XII. Rendir al Instituto Coahuilense de Acceso a la Información Pública todos aquellos informes, oficios, promociones y requerimientos que le solicite y aquellos que estime convenientes para garantizar el acceso a la información pública;
-
-XIII. Elaborar el catálogo de firmas de los servidores públicos de la Comisión; y,
-
-XIV. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
+(DEROGADO, P.O. 9 DE MARZO DE 2016)
 
 ### CAPÍTULO IV. DE LA COORDINACIÓN GENERAL Y ENLACE ADMINISTRATIVO
 
@@ -691,7 +719,9 @@ Corresponde a la Dirección de Recursos Financieros, las siguientes atribuciones
 
 I. Ejercer en los términos de las disposiciones aplicables, el presupuesto autorizado así como llevar a cabo su registro y control;
 
-II. Tramitar ante la Secretaría de Finanzas lo pertinente para el ejercicio del presupuesto asignado a la Comisión;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+II. Tramitar ante la Secretaría lo pertinente para el ejercicio del presupuesto asignado a la Comisión;
 
 III. Difundir y aplicar en la esfera de su competencia, las leyes y normas en materia presupuestal y ejercicio del gasto, así como vigilar su cumplimiento;
 
@@ -709,7 +739,9 @@ La Dirección de Recursos Financieros, para el desempeño de sus funciones conta
 
 Corresponde a la Dirección de Recursos Materiales y Servicios Generales, las siguientes atribuciones:
 
-I. Adquirir los bienes destinados a satisfacer las necesidades de la Comisión, a través de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+I. Adquirir los bienes destinados a satisfacer las necesidades de la Comisión, a través de la Secretaría;
 
 II. Elaborar los programas anuales de adquisiciones;
 
@@ -719,7 +751,9 @@ IV. Controlar el almacén central, los inventarios de bienes de activo fijo y ma
 
 V. Controlar y registrar los arrendamientos de bienes inmuebles;
 
-VI. Tramitar ante la Secretaría de Finanzas la baja de bienes muebles;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+VI. Tramitar ante la Secretaría la baja de bienes muebles;
 
 VII. Intervenir en los procesos de licitaciones públicas, invitaciones restringidas o adjudicaciones directas, respecto de los contratos de adquisiciones y servicios, previa autorización del subcomité de adquisiciones de la Secretaría de Finanzas;
 
@@ -743,7 +777,9 @@ Corresponde a la Dirección de Mantenimiento y Control Vehicular, las siguientes
 
 I. Administrar y supervisar la prestación de servicios de mantenimiento vehicular;
 
-II. Controlar el suministro y consumo de combustible de los vehículos asignados a la Comisión;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+II. Gestionar el suministro y consumo de combustible de los vehículos asignados a la Comisión;
 
 III. Verificar que cada vehículo asignado a la Comisión cuente con un expediente que contenga el registro de mantenimiento preventivo y correctivo, consumo de combustible y póliza de seguro;
 
@@ -805,7 +841,9 @@ La Dirección General del Órgano de Control Interno, a su vez para el despacho 
 
 a) Dirección de Asuntos Internos; y
 
-b) Dirección de Ejecución y Seguimiento de Procedimientos Administrativos y Disciplinarios.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
+b) Dirección de Ejecución y Seguimiento de Procedimientos Administrativos.
 
 ###### Artículo 36.
 
@@ -833,9 +871,11 @@ X. Observar y cumplir las normas, políticas y procedimientos ordenados por el C
 
 XI. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 37.
 
-Corresponde a la Dirección de Ejecución y Seguimiento de Procesos Administrativos y Disciplinarios, las siguientes atribuciones:
+Corresponde a la Dirección de Ejecución y Seguimiento de Procesos Administrativos, las siguientes atribuciones:
 
 I. Reportar e informar a la Dirección General del Órgano de Control Interno las actividades que realice la Dirección;
 
@@ -1029,7 +1069,9 @@ Al frente de la Unidad de Derechos Humanos habrá un Director General, a quien l
 
 I. Acordar con el Comisionado, los asuntos de su competencia;
 
-II. Recibir las quejas por violaciones a los Derechos Humanos que se instauren en contra de la Comisión o del personal con motivo de sus funciones, a efecto de dar el trámite que corresponda de conformidad con la ley respectiva;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+II. Conocer, analizar y tramitar las quejas y recomendaciones emitidas por la Comisión Nacional de los Derechos Humanos y la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza, emitidas respecto al personal de la Comisión;
 
 III. Proponer al Comisionado, los diferentes medios alternos aplicables para la solución conciliada de las quejas presentadas en contra de la Comisión o de los servidores públicos de la misma;
 
@@ -1063,11 +1105,97 @@ XVI. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones 
 
 La Unidad de Derechos Humanos, para el desempeño de sus funciones contará con las Direcciones, Subdirecciones y el personal técnico y operativo que se requiera, y el presupuesto lo permita. El personal adscrito desempeñará los deberes y atribuciones señalados en el artículo que antecede.
 
-### CAPÍTULO I. DE LA DIRECCIÓN GENERAL DE LOS INSTITUTOS SUPERIORES DE ESTUDIOS DE SEGURIDAD PÚBLICA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE MARZO DE 2016)</small>
 
-### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE POLÍTICAS PÚBLICAS Y ELABORACIÓN DE PROYECTOS
+### CAPÍTULO X. DE LA UNIDAD DE TRANSPARENCIA
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE REGISTRO Y CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+###### Artículo 46-A.
+
+La Unidad de Transparencia, tendrá las siguientes atribuciones:
+
+I. Recibir, tramitar y resolver las solicitudes de acceso a la información pública;
+
+II. Difundir en coordinación con las unidades administrativas de la Comisión, la información pública de oficio;
+
+III. Organizar y coordinar los recursos humanos y materiales proporcionados para las actividades en materia de acceso a la información;
+
+IV. Administrar, sistematizar, archivar y resguardar la información clasificada como reservada y confidencial en coordinación con las unidades administrativas de la Comisión;
+
+V. Promover y coordinar la actualización periódica de la información que genere la Comisión y no tenga el carácter de reservada;
+
+VI. Orientar y auxiliar a los usuarios en la elaboración de las solicitudes de acceso a la información;
+
+VII. Realizar los trámites y gestiones en la Comisión para entregar la información solicitada y efectuar las notificaciones correspondientes;
+
+VIII. Promover la capacitación, actualización y habilitación oficial de los servidores públicos que se encargarán de recibir las solicitudes presentadas;
+
+IX. Administrar y actualizar mensualmente el registro de las solicitudes, respuestas, trámites y costos que implique el cumplimiento de sus funciones;
+
+X. Requerir a las unidades administrativas de la Comisión, la información que considere necesaria para cumplir con las funciones de acceso a la información;
+
+XI. Solicitar al Órgano de Control Interno previo acuerdo con el Comisionado, se instruya los procedimientos administrativos de responsabilidad, en contra de aquellos funcionarios que incumplan con las disposiciones en materia de acceso a la información;
+
+XII. Rendir al Instituto Coahuilense de Acceso a la Información Pública todos aquellos informes, oficios, promociones y requerimientos que le solicite y aquellos que estime convenientes para garantizar el acceso a la información pública;
+
+XIII. Elaborar el catálogo de firmas de los servidores públicos de la Comisión; y
+
+XIV. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE MARZO DE 2016)</small>
+
+### CAPÍTULO XI. DE LA UNIDAD DE ENLACE INTERINSTITUCIONAL
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+###### Artículo 46-B.
+
+La Unidad de Enlace Interinstitucional, tendrá las siguientes atribuciones:
+
+I. Gestionar los convenios de colaboración entre las diversas dependencias municipales, estatales y federales que contribuyan a la mejora del desarrollo y calidad de vida de los integrantes de Fuerza Coahuila;
+
+II. Gestionar ante los sectores privados los convenios de colaboración necesarios para mejorar los beneficios y servicios de los integrantes de Fuerza Coahuila;
+
+III. Desarrollar y promover programas orientados al fortalecimiento de la identidad y dignificación de la labor policial, tanto en los sectores público, privado y social;
+
+IV. Atender y gestionar los requerimientos de la Secretaría de Fiscalización y Rendición de Cuentas;
+
+V. Realizar el registro, seguimiento y evaluación de los convenios de colaboración; y
+
+VI. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE MARZO DE 2016)</small>
+
+### CAPÍTULO XII. DE LA UNIDAD DEL SISTEMA ESTATAL DE INFORMACIÓN
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+###### Artículo 46-C.
+
+La Unidad del Sistema Estatal de Información, tendrá las siguientes atribuciones:
+
+I. Acordar con el Comisionado, los asuntos de su competencia;
+
+II. Registrar, almacenar, suministrar, actualizar y ser el medio de consulta de información en materia de seguridad pública, de las siguientes bases de información:
+
+a) Información criminal para la prevención, la persecución y la sanción de las infracciones y los delitos y la reinserción social del delincuente, que incluye: el informe policial homologado, investigaciones, imputados, indiciados, mandamientos judiciales, detenidos, procesados, sentenciados, ejecución de penas, y de la población penitenciaria;
+
+b) Personal de seguridad pública, que incluya información relativa a los elementos de los prestadores de servicios de seguridad privada de protección personal;
+
+c) Armamento y equipo, que comprenda los equipos de comunicación y las frecuencias autorizadas para su uso, huellas balísticas, colores oficiales de los uniformes que utilicen los integrantes de las corporaciones policiales, vehículos, caninos, drones, y demás equipo; y
+
+d) Demás información y bases de datos que determinen los lineamientos del Centro Nacional y por acuerdo del Consejo Estatal.
+
+III. Requerir la información a las autoridades correspondientes, para la actualización de las bases de datos mencionadas en la fracción anterior;
+
+IV. Emitir los resultados de las consultas realizadas en Plataforma México, de acuerdo a lo establecido en la Ley del Sistema;
+
+VI (SIC). Guardar reserva de la información a la que tiene acceso con motivo de sus atribuciones;
+
+VII. Proporcionar bajo su más estricta responsabilidad, la información que le sea solicitada por la autoridad competente; y
+
+VIII. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
 
 ## TÍTULO CUARTO. DE LAS UNIDADES ADMINISTRATIVAS QUE INTEGRAN LA COMISIÓN
 
@@ -1083,15 +1211,25 @@ b) Dirección General de Políticas Públicas, Preventivas y Elaboración de Pro
 
 c) Dirección de Registro y Control de los Servicios de Seguridad Privada.
 
-### CAPÍTULO I. DE LA UNIDAD DESCONCENTRADA DE EJECUCIÓN D E (SIC) PENAS Y REINSERCIÓN SOCIAL
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+d) Dirección General del Centro de Comunicaciones, Cómputo, Control y Comando.
+
+### CAPÍTULO I. DE LA DIRECCIÓN GENERAL DE LOS INSTITUTOS SUPERIORES DE ESTUDIOS DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### Artículo 48.
 
-Conformarán la Dirección General de los Institutos Superiores de Estudios de Seguridad Pública y estarán bajo el mando directo e inmediato del Director General, las siguientes unidades:
+La Dirección General de los Institutos Superiores de Estudios de Seguridad Pública, será la encargada del Centro de Profesionalización, Certificación, Acreditación y Carrera, el cual contará con las siguientes unidades, bajo el mando directo e inmediato del Director General:
 
 a) Dirección del Instituto Superior de Estudios de Seguridad Pública Región Sureste
 
 b) Dirección del Instituto Superior de Estudios de Seguridad Pública Región Laguna
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+c) Dirección del Servicio Profesional de Carrera Policial
 
 ###### Artículo 49.
 
@@ -1109,7 +1247,9 @@ V. Supervisar el cumplimiento de los programas académicos;
 
 VI. Establecer, previo acuerdo con el Comisionado las normas de conducta a observarse al interior de los Institutos;
 
-VII. Participar en el proceso de reclutamiento, selección y evaluación, de aspirantes a Policía Estatal en coordinación con el Comité de Admisión, Evaluación y Disciplina;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+VII. Participar en el proceso de reclutamiento, selección y evaluación, de aspirantes a Fuerza Coahuila; en coordinación con la Comisión del Servicio Profesional de Carrera, Honor y Justicia Policial;
 
 VIII. Fungir como enlace de la Comisión ante la Secretaría de Educación y demás instancias públicas o privadas involucradas en los procesos de enseñanza;
 
@@ -1151,7 +1291,9 @@ VIII. Introducción a las ciencias penales;
 
 IX. Capacitación específica en el Sistema de Justicia Penal Acusatorio; y
 
-X. Los demás previstos en esta ley, la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+X. Los demás previstos en esta ley, la Ley del Sistema y demás disposiciones aplicables.
 
 #### SECCIÓN PRIMERA. DE LAS DIRECCIONES DEL INSTITUTO SUPERIOR DE ESTUDIOS DE SEGURIDAD PÚBLICA REGIÓN SURESTE Y REGIÓN LAGUNA
 
@@ -1175,11 +1317,67 @@ VII. Implementar reuniones de programación y evaluación de actividades con la 
 
 VIII. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
 
-### CAPÍTULO II. DE LA COORDINACIÓN GENERAL DE LA POLICÍA ESTATAL
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE MARZO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+###### Artículo 51-A.
+
+Corresponden a la Dirección del Servicio Profesional de Carrera Policial, las siguientes atribuciones:
+
+I. Acordar con el Director General, los asuntos de su competencia;
+
+II. Garantizar que el ingreso, desarrollo y permanencia de los elementos de Fuerza Coahuila, sea en estricto apego a la normatividad establecida por la Federación y los criterios establecidos por la Ley Estatal de Seguridad Pública;
+
+III. Diseñar e Implementar los sistemas necesarios para lograr fomentar la identidad, permanencia y dignificación de la labor policial, así como, promover la responsabilidad, honradez, diligencia y eficiencia en el desempeño de las funciones y la óptima utilización de los recursos de la institución;
+
+IV. Administrar y operar el servicio profesional de carrera policial;
+
+V. Formular propuestas de reglamentos, manuales y aquéllos ordenamientos normativos al servicio profesional de carrera;
+
+VI. Inscribir a los elementos que integran Fuerza Coahuila, en el servicio profesional de carrera policial, cuando cumplan las condiciones para tal efecto, de acuerdo a los ordenamientos aplicables;
+
+VII. Registrar y mantener actualizada la información de servidores públicos de la Comisión, en la plataforma de servicio profesional de carrera, en materia académica, laboral, disciplinaria y aquella necesaria que sirva como base para la creación de fichas técnicas y el monitoreo de desarrollo del personal;
+
+VIII. Operar con base a la normatividad vigente, los manuales de organización y procedimientos para el ingreso, desarrollo y terminación del servicio profesional de carrera policial de los elementos de Fuerza Coahuila;
+
+IX. Dar seguimiento a los procesos de reclutamiento, selección, ingreso, profesionalización, certificación, permanencia, evaluación, reconocimiento, así como la separación o baja del servicio de carrera;
+
+X. Solicitar al Centro de Evaluación y Control de Confianza, la programación y aplicación de exámenes de aspirantes a ingresar y reingresar a la Comisión en e l (sic) área policial; así como, en la evaluación para promociones y ascensos;
+
+XI. Gestionar los informes del Centro de Evaluación y Control de Confianza, respecto a resultados de evaluaciones, a fin de adoptar las acciones correspondientes al ingreso, permanencia, promociones y ascensos del personal incorporado al servicio profesional de carrera, y de incorporar esta información a la base de datos de dicho personal;
+
+XII. Presentar al Comisionado a través de la Dirección General de los Institutos Superiores de Estudios de Seguridad Pública, las propuestas del personal policial de carrera, que cumplan las condiciones o requisitos para recibir promociones, ascensos, profesionalización, reconocimientos, estímulos y retiro;
+
+XIII. Presentar ante la Comisión del Servicio Profesional de Carrera, Honor y Justicia, previa autorización del Director General de los Institutos Superiores de Estudios de Seguridad Pública, las propuestas de ingreso, reingreso, promoción, ascenso, estímulos y de retiro de los elementos de Fuerza Coahuila;
+
+XIV. Proponer al Director General de los Institutos Superiores de Estudios de Seguridad Pública, con base a la evaluación del desempeño y del desarrollo laboral de los elementos policiales, la rotación de los mismos;
+
+XV. Recibir y dar trámite a las solicitudes de ingreso y reingreso a Fuerza Coahuila;
+
+XVI. Solicitar a las distintas unidades administrativas de la Comisión; así como, instituciones externas, información necesaria en materia académica, laboral y personal para la integración de expedientes sobre el ingreso, reingreso, promoción, ascensos, estímulos y terminación del servicio profesional de carrera;
+
+XVII. Recibir mensualmente los movimientos realizados por la Dirección de Recursos Humanos, para la actualización de la base de datos sobre altas y bajas de los servidores públicos;
+
+XVIII. Planear, diseñar, publicar y dar seguimiento a las convocatorias para ingresar a los programas de formación inicial para agentes de Fuerza Coahuila;
+
+XIX. Dirigir, operar y supervisar las evaluaciones del desempeño;
+
+XX. Elaborar los nombramientos iniciales y definitivos del personal policial de carrera, que signará el Secretario; y
+
+XXI. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2016)</small>
+
+### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE POLÍTICAS PÚBLICAS, PREVENTIVAS Y ELABORACIÓN DE PROYECTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### Artículo 52.
 
-Conformarán la Dirección General de Políticas Públicas y Elaboración de Proyectos y estarán bajo el mando directo e inmediato del Director General, las siguientes unidades:
+Conformarán la Dirección General de Políticas Públicas, Preventivas y Elaboración de Proyectos y estarán bajo el mando directo e inmediato del Director General, las siguientes unidades:
 
 a) Dirección de Información
 
@@ -1187,9 +1385,11 @@ b) Dirección de Análisis y Prospectiva
 
 c) Dirección de Proyectos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 53.
 
-Corresponde a la Dirección General de Políticas Públicas y Elaboración de Proyectos, las siguientes atribuciones:
+Corresponde a la Dirección General de Políticas Públicas, Preventivas y Elaboración de Proyectos, las siguientes atribuciones:
 
 I. Proponer políticas públicas integrales que incidan en mejores índices de seguridad ciudadana en el Estado;
 
@@ -1217,11 +1417,19 @@ XI. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones a
 
 El Director General y el personal adscrito a las unidades administrativas de ésta, desempeñarán los deberes y atribuciones señalados en el artículo que antecede.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2016)</small>
+
+### CAPÍTULO III. DE LA DIRECCIÓN GENERAL DE REGISTRO Y CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 55.
 
-Corresponde a la Dirección de Registro y Control de los Servicios de Seguridad Privada, las siguientes atribuciones:
+Corresponde a la Dirección General de Registro y Control de los Servicios de Seguridad Privada, las siguientes atribuciones:
 
-I. Realizar el trámite de obtención de la autorización para prestar servicios de seguridad privada a que hace referencia la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y el Reglamento que regula la prestación de los servicios de seguridad privada que sean solicitados a la Comisión por parte de personas físicas o morales; así como revocación o suspensión temporal de la misma;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+I. Realizar el trámite de obtención de la autorización para prestar servicios de seguridad privada a que hace referencia la Ley del Sistema y el Reglamento que Regula la Prestación de los Servicios Privados de Seguridad en el Estado de Coahuila de Zaragoza, que sean solicitados a la Comisión por parte de personas físicas o morales; así como revocación o suspensión temporal de la misma;
 
 II. Elaborar diagnósticos de procedencia o improcedencia de las solicitudes a que se refiere la fracción anterior de conformidad a los requisitos legales establecidos;
 
@@ -1245,6 +1453,36 @@ XI. Vigilar la correcta aplicación de la Ley del Sistema y el Reglamento que re
 
 XII. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2016)</small>
+
+### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DEL CENTRO DE COMUNICACIONES, CÓMPUTO, CONTROL Y COMANDO
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+###### Artículo 55-A.
+
+Corresponde a la Dirección General del Centro de Comunicaciones, Cómputo, Control y Comando, las siguientes atribuciones:
+
+I. Acordar con el Comisionado, los asuntos de su competencia;
+
+II. Implementar, administrar y desarrollar las herramientas tecnológicas aplicadas a la seguridad pública;
+
+III. Proveer el uso de las herramientas tecnológicas aplicadas a la seguridad pública, a favor de las instituciones y corporaciones autorizadas en beneficio de la comunidad;
+
+IV. Implementar, administrar y desarrollar, el registro, atención y despacho de las llamadas al Sistema de Emergencia y Denuncia Anónima;
+
+V. Coordinar la ejecución de sus funciones con las instituciones de seguridad pública, protección civil, y demás autoridades que intervienen en la atención de emergencias;
+
+VI. Administrar y suministrar los equipos de radio comunicación de la Red de Telecomunicaciones Estatal; y
+
+VII. Las demás que le encomiende esta Ley, el Comisionado, otras disposiciones aplicables, los manuales de procedimientos y circulares.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
+
+###### Artículo 55-B.
+
+La Dirección General del Centro de Comunicaciones, Cómputo, Control y Comando, para el desempeño de sus funciones contará con las unidades administrativas y el personal técnico y operativo que se requiera, y el presupuesto lo permita. El personal adscrito desempeñará los deberes y atribuciones señalados en el artículo que antecede.
+
 ## TÍTULO QUINTO. DE LOS ÓRGANOS DESCONCENTRADOS DE LA COMISIÓN
 
 ###### Artículo 56.
@@ -1253,7 +1491,11 @@ Estarán bajo el mando directo e inmediato del Comisionado, los siguientes órga
 
 a) Unidad Desconcentrada de Ejecución de Penas y Reinserción Social
 
-b) Coordinación General de la Policía Estatal
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
+b) Coordinación General de Fuerza Coahuila
+
+### CAPÍTULO I. DE LA UNIDAD DESCONCENTRADA DE EJECUCIÓN D E (SIC) PENAS Y REINSERCIÓN SOCIAL
 
 ###### Artículo 57.
 
@@ -1317,55 +1559,21 @@ La Unidad Desconcentrada, para el desempeño de sus funciones contará con las u
 
 Las atribuciones de las unidades señaladas en el artículo que antecede serán las establecidas específicamente en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2016)</small>
+
+### CAPÍTULO II. DE LA COORDINACIÓN GENERAL DE FUERZA COAHUILA
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 61.
 
-La Policía Estatal para el desempeño de sus funciones contará con las unidades administrativas que a continuación se describen, mismas que estarán bajo el mando directo e inmediato de un Coordinador General, así como con el personal que se requiera y el presupuesto lo permita:
+Fuerza Coahuila para el desempeño de las funciones de prevención, inteligencia, reacción, procesal y seguridad penitenciaria, contará con las unidades administrativas y el personal que requiera y el presupuesto lo permita, de acuerdo a la regionalización que se establezca, mismas que estarán bajo el mando directo e inmediato de un Coordinador General.
 
-I. Unidades adscritas al despacho del Coordinador General de la Policía Estatal
-
-1. Secretaría Particular.
-
-2. Dirección de Administración Policial.
-
-a) Subdirección de Equipo Policial.
-
-b) Subdirección de Planeación y Estadística.
-
-c) Subdirección de Recursos Humanos.
-
-d) Subdirección de Estrategia Policial.
-
-II. Dirección de la Policía Estatal Acreditable
-
-1. Subdirección de Análisis Táctico.
-
-2. Subdirección de Información.
-
-3. Subdirección de Investigaciones.
-
-4. Subdirección de Seguimientos y Manejo de Fuentes.
-
-5. Subdirección de Operaciones.
-
-6. Subdirección de Evaluación y Operaciones.
-
-III. Dirección de la Policía Estatal
-
-1. Subdirección Operativa.
-
-2. Comisarías Regionales.
-
-3. Estaciones de Policía.
-
-IV. Dirección del Grupo de Armas y Tácticas Especiales
-
-1. Subdirección Operativa.
-
-V. Dirección de la Policía Procesal
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### Artículo 62.
 
-Son facultades de la Coordinación General de la Policía Estatal, las siguientes:
+Son facultades de la Coordinación General de Fuerza Coahuila, las siguientes:
 
 I. Dar cumplimiento a las disposiciones emanadas del Comisionado, para que los integrantes de las instituciones de seguridad pública estatales a su mando, participen en operativos propios y en coordinación con otras instituciones policiales, federales, estatales y municipales, tendientes a salvaguardar la integridad de los derechos de las personas, así como preservar, las libertades, el orden y la paz públicos, y en caso de accidentes y desastres apoyar a las autoridades de protección civil;
 
@@ -1385,9 +1593,13 @@ VIII. Supervisar que los integrantes de las instituciones de seguridad pública 
 
 IX. Supervisar que los integrantes de las instituciones de seguridad pública estatales bajo su mando, cumplan con los requisitos de permanencia, establecidos en la Ley del Sistema de Seguridad Pública del Estado;
 
-X. Coadyuvar con las autoridades de prevención y reinserción social del Estado, en la vigilancia externa, ejecución de operativos de revisión, cateos, restauración del orden, traslados de internos, dentro del marco de la legalidad, conforme a lo previsto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; así como a los Centros de Reintegración para Adolescentes, cuando lo requieran;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
 
-XI. Establecer mecanismos de coordinación con el titular de la Unidad Desconcentrada de Reinserción Social y demás instituciones policiales, para el funcionamiento de la red de telecomunicaciones de Plataforma México y de los servicios que éste presta;
+X. Coadyuvar con la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social, en la vigilancia, ejecución de operativos de revisión, cateos, restauración del orden, traslados de internos, dentro del marco de la legalidad, conforme a lo previsto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XI. Supervisar la protección de los Centros Penitenciarios y de los Centros de Internación, Diagnóstico y Tratamiento para Adolescentes;
 
 XII. Diseñar e instruir estrategias operativas para la prevención del delito y combate a la delincuencia común y organizada con base en los insumos de inteligencia policial;
 
@@ -1411,9 +1623,13 @@ XXI. Vigilar el buen uso de las centrales de radio y telefonía de las Unidades 
 
 XXII. Auxiliar a los Tribunales Judiciales, a la Procuraduría General de Justicia del Estado, Procuraduría General de la República, a la Policía Federal y a los Ayuntamientos, cuando así lo soliciten;
 
-XXIII. Coordinar las actividades de las Direcciones Generales y de Área adscritas a la Coordinación General de la Policía Estatal, de conformidad con las disposiciones legales, lineamientos, normas, políticas, manuales de organización y procedimientos aplicables;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
 
-XXIV. Gestionar que las áreas adscritas a la Coordinación General de la Policía Estatal, cuenten con el equipo, material, instalaciones y los recursos necesario (sic) para el mejor desempeño de sus funciones, mediante la actualización de un inventario de los mismos, evaluando sus condiciones y requerimientos;
+XXIII. Coordinar las actividades de las unidades administrativas adscritas a la Coordinación General de Fuerza Coahuila, de conformidad con las disposiciones legales, lineamientos, normas, políticas, manuales de organización y procedimientos aplicables;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XXIV. Gestionar que las áreas adscritas a la Coordinación General de Fuerza Coahuila, cuenten con el equipo, material, instalaciones y los recursos necesario (sic) para el mejor desempeño de sus funciones, mediante la actualización de un inventario de los mismos, evaluando sus condiciones y requerimientos;
 
 XXV. Apoyar la modernización de las diferentes unidades de policía, fomentando la especialización mediante su reestructuración orgánica, técnica y administrativa, e instrumentar mecanismos de coordinación, a fin de impulsar su desarrollo científico y tecnológico;
 
@@ -1423,17 +1639,23 @@ XXVII. Coadyuvar en la supervisión de las políticas y estrategias que garantic
 
 XXVIII. Coordinar, controlar, supervisar y evaluar el servicio de tránsito y vialidad Estatales;
 
-XXIX. Dar parte al Comisionado, cuando algún integrante adscrito a la Coordinación General incurra en faltas a los principios de actuación, así como a las normas disciplinarias de la institución;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
 
-XXX. Verificar el cumplimiento de las resoluciones emitidas por el Comisionado, en relación a las faltas cometidas por los integrantes adscritos a la Coordinación General de la Policía del (sic) Estatal;
+XXIX. Dar parte al Comisionado, y en su caso, realizar el trámite que corresponda ante la Comisión del Servicio Profesional de Carrera, Honor y Justicia Policial o ante la Dirección General del Órgano de Control Interno de la Comisión, cuando algún integrante adscrito a la Coordinación General incurra en faltas a los principios de actuación, así como a las normas disciplinarias de la institución;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+XXX. Verificar el cumplimiento de las resoluciones emitidas por el Comisionado, en relación a las faltas cometidas por los integrantes adscritos a la Coordinación General de Fuerza Coahuila;
 
 XXXI. Informar al Comisionado del ejercicio de sus atribuciones, y en su caso, de las decisiones urgentes que hubiere adoptado, acordando lo conducente; y
 
 XXXII. Las demás que le encomiende esta Ley, el Comisionado, su Reglamento Interior, otras disposiciones aplicables, los manuales de procedimientos y circulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 63.
 
-La Coordinación General de la Policía Estatal tendrá, además de lo previsto en el artículo anterior, las atribuciones siguientes en materia de investigación:
+La Coordinación General de Fuerza Coahuila tendrá, además de lo previsto en el artículo anterior, las atribuciones siguientes en materia de investigación:
 
 I. Crear, dirigir y aplicar técnicas, métodos y estrategias de investigación de los hechos y recopilación de los indicios, de conformidad con las disposiciones legales aplicables;
 
@@ -1461,7 +1683,9 @@ XII. Proporcionar la información que requieran las autoridades competentes, a f
 
 XIII. Preservar el lugar de los hechos o del hallazgo, procesar, en su caso y, en general, realizar todos los actos necesarios para garantizar la integridad de los indicios, su traslado, así como dar aviso al Ministerio Público conforme a las disposiciones aplicables;
 
-XIV. En caso de que los elementos de la Policía descubran indicios relacionados con la investigación de un delito, deberá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+
+XIV. En caso de que los elementos de Fuerza Coahuila descubran indicios relacionados con la investigación de un delito, deberá:
 
 a) Informar de inmediato, por cualquier medio eficaz y sin demora alguna, al Ministerio Público competente, a efecto de que inicie las diligencias correspondientes para el esclarecimiento de los hechos;
 
@@ -1487,29 +1711,41 @@ d) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo 
 
 XVII. Realizar el informe policial homologado, así como el parte informativo y la denuncia de hechos cuando proceda.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 64.
 
-La Coordinación General de la Policía Estatal y sus elementos, no podrán informar a los medios de comunicación social, ni a persona alguna, acerca de la identidad de los detenidos, imputados, víctimas u ofendidos, testigos, ni de otras personas que se encontraren o pudieren resultar vinculadas a la investigación de un hecho punible, en protección de sus derechos y de la función investigadora.
+La Coordinación General de Fuerza Coahuila y sus elementos, no podrán informar a los medios de comunicación social, ni a persona alguna, acerca de la identidad de los detenidos, imputados, víctimas u ofendidos, testigos, ni de otras personas que se encontraren o pudieren resultar vinculadas a la investigación de un hecho punible, en protección de sus derechos y de la función investigadora.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### Artículo 65.
 
-Las atribuciones de las unidades administrativas, serán las establecidas en el Reglamento Interior de la Policía Estatal que para los efectos sea publicado en el Periódico Oficial del Gobierno del Estado y demás ordenamientos jurídicos aplicables.
+Las atribuciones de las unidades administrativas, serán las establecidas en el Reglamento Interior de Fuerza Coahuila que para los efectos sea publicado en el Periódico Oficial del Gobierno del Estado y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### Artículo 66.
 
-Sin perjuicio de lo dispuesto en el artículo anterior, la Dirección de la Policía Procesal tendrá a su cargo las siguientes atribuciones:
+La Coordinación General de Fuerza Coahuila, tendrá además de lo previsto en los artículos anteriores, las atribuciones siguientes en materia procesal:
 
-I. Previa autorización del Coordinador General, ejecutar mediante el uso de la fuerza pública las resoluciones, medios de apremio o actuaciones que ordene el Ministerio Público, las autoridades judiciales o administrativas de carácter estatal o federal informando sobre el desahogo de las mismas;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+I. Ejecutar mediante el uso de la fuerza pública las resoluciones, medios de apremio o actuaciones que ordene el Ministerio Público, las autoridades judiciales o administrativas de carácter estatal o federal informando sobre el desahogo de las mismas;
 
 II. En términos de las disposiciones jurídicas aplicables, realizar las labores de apoyo a las autoridades ministeriales, judiciales y jurisdiccionales de carácter federal, estatal o militar cuando así lo soliciten;
 
 III. Bajo las órdenes del Juez de la causa, vigilar y proteger el orden y la seguridad en las salas y recintos de la autoridad judicial en donde se desahoguen las audiencias y actuaciones judiciales;
 
-IV. Previa autorización del Coordinador General, auxiliar a las autoridades penitenciarias para llevar a cabo el traslado de reos entre los Centros Penitenciarios, así como del Centro de Internación, Tratamiento y Adaptación de Adolescentes;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
 
-V. Previa autorización del Coordinador General, auxiliar a las autoridades penitenciarias para el traslado de reos de los Centros Penitenciarios y del Centro de Internación, Tratamiento y Adaptación de Adolescentes a las salas de audiencia de los juzgados federales y estatales que así lo soliciten;
+IV. Auxiliar a las autoridades penitenciarias para llevar a cabo el traslado de reos entre los Centros Penitenciarios, así como del Centro de Internación, Tratamiento y Adaptación de Adolescentes;
 
-VI. Informar de manera permanente al Coordinador General sobre el avance, implementación y novedades sobre el desarrollo de sus actividades;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2016)</small>
+
+V. Auxiliar a las autoridades penitenciarias para el traslado de reos de los Centros Penitenciarios y del Centro de Internación, Tratamiento y Adaptación de Adolescentes a las salas de audiencia de los juzgados federales y estatales que así lo soliciten;
+
+VI. (DEROGADA, P.O. 9 DE MARZO DE 2016)
 
 VII. Llevar a cabo la conducción de los sujetos procesales intervinientes en procesos penales o de justicia para adolescentes, a las salas de audiencia de los juzgados;
 
@@ -1527,9 +1763,11 @@ XIII. Mantener la secrecía de los datos o información personalísima de la ví
 
 XIV. Las demás que establezca esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
+
 ###### Artículo 67.
 
-Para la integración y funciones del Servicio Policial de Carrera se observará lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza, el Reglamento Interior del Comité de Admisión, Evaluación y Disciplina de las Fuerzas de Seguridad Pública del Estado de Coahuila y demás disposiciones aplicables.
+Para la integración y funciones del Servicio Policial de Carrera se observará lo dispuesto en la Ley del Sistema, el Reglamento del Servicio Profesional de Carrera de la Comisión Estatal de Seguridad del Estado de Coahuila y demás disposiciones legales aplicables.
 
 ## TÍTULO SEXTO. DE LAS AUSENCIAS Y LAS SUPLENCIAS
 
@@ -1634,3 +1872,15 @@ ARMANDO LUNA CANALES
 P.O. 18 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 386.- SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Hasta en tanto no se constituya el Órgano de Control Interno de la Comisión Estatal de Seguridad, la Dirección General Jurídica de la misma será la encargada de atender sus atribuciones y asuntos.
+
+TERCERO. Hasta en tanto no se constituya la Dirección del Servicio Profesional de Carrera Policial en la Comisión Estatal de Seguridad, la Dirección General de los Institutos Superiores de Estudios de Seguridad Pública, será la encargada de atender sus atribuciones y asuntos.
+
+CUARTO. Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
