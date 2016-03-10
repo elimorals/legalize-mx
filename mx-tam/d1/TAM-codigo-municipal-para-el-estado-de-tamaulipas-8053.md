@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2016-03-01"
+last_updated: "2016-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
-EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTUO, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
 Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
 
@@ -1127,9 +1127,13 @@ IX.- Informar al Ayuntamiento de sus programas de trabajo anuales, y trimestralm
 
 X.- Asistir y participar en los procesos de adjudicación de las obras públicas, así como en las actas entrega-recepción, por parte del contratista al Municipio y en su caso del Municipio al organismo operador.
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2016)</small>
+
+XI.- Prever lo conducente para salvaguardar, al término del período de una administración, la información relativa a los recursos humanos, materiales y financieros del Ayuntamiento, así como la información pública de oficio que deba archivarse, difundirse y actualizarse en términos de las leyes de transparencia y contabilidad gubernamental, con el objeto de garantizar la existencia de la misma en el proceso de entrega-recepción.
+
 > <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XI.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
+XII.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -1959,7 +1963,7 @@ Este impuesto es aplicable como gravamen real sobre los predios que sean benefic
 
 ###### ARTICULO 134.
 
-Son sujetos del impuesto con responsabilidad directa los propietarios, copropietarios, condóminios, poseedores, ocupantes, detentadores, fideicomitentes o los que por cualquier título o causa se beneficien con la obra respectiva. Son responsables solidarios los promitentes compradores y los adquirentes en las operaciones con reserva de dominio y las instituciones fiduciarias si el predio estuviere afectado en fideicomiso; estas instituciones cubrirán el impuesto con cargo a quien resulte propietario del predio beneficiado, una vez liberado el fideicomiso.
+Son sujetos del impuesto con responsabilidad directa los propietarios, copropietarios, condóminos, poseedores, ocupantes, detentadores, fideicomitentes o los que por cualquier título o causa se beneficien con la obra respectiva. Son responsables solidarios los promitentes compradores y los adquirentes en las operaciones con reserva de dominio y las instituciones fiduciarias si el predio estuviere afectado en fideicomiso; estas instituciones cubrirán el impuesto con cargo a quien resulte propietario del predio beneficiado, una vez liberado el fideicomiso.
 
 Cuando sean personas distintas el propietario o detentador por cualquier título o causa, del terreno y de las construcciones, el impuesto recaerá sobre aquél.
 
@@ -5161,7 +5165,7 @@ El Tribunal de Arbitraje para los Trabajadores al Servicio de los Municipios de 
 
 ###### ARTICULO DECIMO.
 
-Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
+Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y de la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -5173,7 +5177,7 @@ Cd. Victoria, Tam., a 2 de febrero de 1984.- Diputado Presidente, LIC. TITO RESE
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General del Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
@@ -5856,6 +5860,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-926 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN LIII DEL ARTÍCULO 49, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN LIII PARA PASAR A SER FRACCIÓN LIV DEL NUMERAL CITADO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-920 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 72 QUATER, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XI PARA PASAR A SER XII DEL NUMERAL CITADO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
