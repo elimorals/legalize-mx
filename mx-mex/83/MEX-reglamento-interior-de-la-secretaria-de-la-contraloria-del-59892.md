@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-la-contraloria-del-5989
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-12"
-last_updated: "2015-08-07"
+last_updated: "2016-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE JUNIO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 7 DE AGOSTO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno, el martes 12 de febrero de 2008.
 
@@ -479,6 +477,10 @@ VI. Iniciar, substanciar y resolver los procedimientos administrativos, de acuer
 
 VII. Instruir y resolver los recursos administrativos que le corresponda conocer a la Secretaría, de acuerdo con las disposiciones aplicables;
 
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2016)</small>
+
+VII bis. Iniciar, substanciar y resolver los procedimientos administrativos sancionadores, en términos del libro décimo segundo del Código Administrativo del Estado de México, su Reglamento y demás disposiciones aplicables.
+
 VIII. Coordinar los procedimientos de los órganos de control interno en materia de responsabilidades administrativas; así como la atención del sistema de quejas y denuncias, sugerencias o reconocimientos ciudadanos, en términos de las disposiciones aplicables;
 
 IX. Administrar y ejecutar el sistema de atención de quejas y denuncias, sugerencias o reconocimientos ciudadanos, respecto a los servidores públicos, trámites y servicios públicos estatales, en términos de las disposiciones aplicables;
@@ -677,6 +679,10 @@ IV. Cumplir el Programa Anual de Control y Evaluación autorizado, conforme a la
 
 V. Iniciar, substanciar y resolver los procedimientos administrativos, de acuerdo con la Ley de Responsabilidades;
 
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2016)</small>
+
+V bis. Iniciar, substanciar y resolver los procedimientos administrativos sancionadores, en términos del Libro Décimo Segundo del Código Administrativo del Estado de México, su Reglamento y demás disposiciones aplicables.
+
 VI. Remitir a la Dirección General de Responsabilidades de la Secretaría, los expedientes en los que el interesado solicite la abstención de ser sancionado;
 
 VII. Acordar la suspensión temporal de servidores públicos durante la substanciación del procedimiento administrativo, de acuerdo con lo establecido en la Ley de Responsabilidades, dando aviso a la autoridad correspondiente;
@@ -816,3 +822,13 @@ SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 TERCERO. La Secretaría de Finanzas dispondrá los recursos necesarios para el funcionamiento de la Unidad Especializada de Conflictos de Intereses, Manifestación de Bienes y Sanciones.
 
 CUARTO. La Secretaría de la Contraloría implementará lo necesario para el cumplimiento del presente Acuerdo.
+
+G.G. 10 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO DE MÉXICO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de la Contraloría implementará lo necesario para el cumplimiento del presente Acuerdo.
