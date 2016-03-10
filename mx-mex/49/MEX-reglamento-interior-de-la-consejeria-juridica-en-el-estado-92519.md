@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-consejeria-juridica-en-el-estado-9251
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2015-09-21"
+last_updated: "2016-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 18 de febrero de 2013.
 
@@ -69,7 +69,13 @@ VII. Coordinación General de Limites.
 
 VIII. Coordinación Administrativa.
 
-IX. Contraloría Interna.
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2016)</small>
+
+IX. Unidad de Información, Planeación, Programación y Evaluación.
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2016)</small>
+
+X. Contraloría Interna.
 
 La Consejería contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de esta dependencia. Asimismo, contará con los órganos técnicos y con los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura orgánica, presupuesto y normatividad aplicable.
 
@@ -429,9 +435,53 @@ XVII. Gestionar ante la Secretaría de Finanzas, los dictámenes de licitación 
 
 XVIII. Las demás que le confieren las disposiciones legales y aquellas que le encomiende el o la titular de la Consejería.
 
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2016)</small>
+
 ###### Artículo 17.
 
-Corresponden a la Contraloría Interna, las atribuciones siguientes:
+Corresponde a la Unidad de Información, Planeación, Programación y Evaluación, las atribuciones siguientes:
+
+I. Coordinar la integración del presupuesto por programas de las Unidades Administrativas de la Consejería, observando las estrategias establecidas en el Plan de Desarrollo del Estado de México.
+
+II. Coordinar la integración de los programas sectoriales, regionales, especiales y anuales así como el anteproyecto de presupuesto de gasto corriente en congruencia con el Plan Nacional de Desarrollo y el Plan de Desarrollo del Estado de México.
+
+III. Coordinar la integración, actualización y en su caso, la reconducción de los programas anuales de la Consejería conjuntamente con la Coordinación Administrativa.
+
+IV. Integrar y enviar a la instancia correspondiente la información para la elaboración del Plan de Desarrollo del Estado de México y de los programas sectoriales, regionales y especiales de la Consejería.
+
+V. Recopilar y procesar la información para la integración de los informes y la memoria de gobierno así como la que le solicite el Comité de Planeación para el Desarrollo del Estado de México.
+
+VI. Recopilar la información programática y presupuestal y la requerida para la integración de la Cuenta Pública del Gobierno del Estado de México para validarla y remitirla a las instancias respectivas.
+
+VII. Coordinar la operación del Módulo de Acceso de la Unidad de Información de la Consejería y verificar el cumplimiento de las atribuciones que tiene encomendadas.
+
+VIII. Dar trámite y atención a las solicitudes de acceso a la información pública y de derecho de acceso, rectificación, cancelación y oposición de datos personales, presentadas a través del Módulo de Acceso a la Información de la Consejería o a través del Sistema que el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de México y Municipios que disponga para tal efecto.
+
+IX. Verificar que la información remitida por las y los servidores públicos habilitados, derivada de las solicitudes de acceso a la información pública y en materia de datos personales, cumpla con los requerimientos establecidos en las leyes aplicables en la materia.
+
+X. Analizar, actualizar, validar y difundir la información pública de oficio que remitan los servidores públicos habilitados de las unidades administrativas de la Consejería, en el sistema que el Instituto de Transparencia y Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, establezca para tal efecto.
+
+XI. Realizar el seguimiento de las quejas, sugerencias y reconocimientos que emite el Sistema de Atención Mexiquense en el ámbito de su competencia.
+
+XII. Revisar la calendarización del gasto, el ejercicio y avance de las metas programáticas de la Consejería para enviarlas a la Dirección de Evaluación del Desempeño de la Subsecretaría de Planeación y Presupuesto.
+
+XIII. Reportar a la instancia respectiva las desviaciones detectadas en el ejercicio de los recursos así como el cumplimiento de las metas, proyectos y programas de la Consejería.
+
+XIV. Reportar periódicamente a la Dirección de Evaluación del Desempeño de la Subsecretaría de Planeación y Presupuesto, el informe del avance de las metas físicas por proyecto y por unidad ejecutora, indicados en el Sistema de Planeación y Presupuesto.
+
+XV. Reportar a la Dirección de Evaluación del Desempeño de la Subsecretaría de Planeación y Presupuesto, el avance de los indicadores estratégicos y de gestión de las Unidades Administrativas establecidos en el Sistema de Planeación y Presupuesto.
+
+XVI. Supervisar que los recursos asignados a las unidades administrativas y organismos auxiliares de la Consejería, sean congruentes con los objetivos y metas de los programas gubernamentales.
+
+XVII. Informar, según sea el caso a la Contraloría Interna las desviaciones detectadas en el cumplimiento del Programa Operativo Anual de la Consejería.
+
+XVIII. Verificar que las actividades que realizan las unidades administrativas de la Consejería sean congruentes con los objetivos, metas y prioridades de los planes y programas gubernamentales.
+
+XIX. Las demás que le señalen otros ordenamientos legales y las qué le encomiende el o la titular de la Consejería.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2016)</small>
+
+Artículo 17 bis. Corresponde a la Contraloría Interna, las atribuciones siguientes:
 
 I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas de la Consejería y elaborar los reportes correspondientes.
 
@@ -518,3 +568,13 @@ PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 10 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
