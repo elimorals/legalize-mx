@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2015-05-26"
+last_updated: "2016-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2016.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -563,19 +563,25 @@ I. Ser mexicano o acreditar su legal estancia en el país y domicilio en el Esta
 
 II. Haber cumplido la mayoría de edad;
 
-III. Presentar certificado de salud que lo faculte apto para conducir;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2016)</small>
 
-IV. Sustentar y aprobar examen pericial de manejo para una conducción responsable y segura, conforme a las especificaciones técnicas establecidas por la Dirección;
+III. Presentar certificado de manejo expedido por la autoridad correspondiente o firma de carta compromiso;
 
-V. Sustentar y aprobar el examen teórico de las disposiciones reglamentarias en materia de vialidad y tránsito;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2016)</small>
 
-VI. Sustentar y aprobar el curso de educación vial;
+IV. No estar imposibilitado para conducir vehículos por resolución judicial, y
 
-VII. No estar imposibilitado para conducir vehículos por resolución judicial;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2016)</small>
 
-VIII. Pagar los derechos correspondientes, y
+V. Pagar los derechos correspondientes.
 
-IX. A juicio de la autoridad, los requisitos indicados en las fracciones IV y V precedentes, podrán ser satisfechos mediante el certificado de capacitación expedido por alguna escuela de manejo reconocida por la Secretaría, el que tendrá una vigencia de un año previo al trámite de la licencia.
+VI. (DEROGADA, P.O. 10 DE MARZO DE 2016)
+
+VII. (DEROGADA, P.O. 10 DE MARZO DE 2016)
+
+VIII. (DEROGADA, P.O. 10 DE MARZO DE 2016)
+
+IX. (DEROGADA, P.O. 10 DE MARZO DE 2016)
 
 ###### ARTICULO 37.
 
@@ -1458,3 +1464,11 @@ P.O. 26 DE MAYO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0180.- SE REFORMA EL ARTÍCULO 36 EN SUS FRACCIONES III, IV, Y V; Y SE DEROGA DEL MISMO ARTÍCULO 36, LAS FRACCIONES VI, VII, VIII, Y IX, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
