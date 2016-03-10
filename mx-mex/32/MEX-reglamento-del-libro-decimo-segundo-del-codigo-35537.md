@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-decimo-segundo-del-codigo-35537"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-15"
-last_updated: "2013-04-23"
+last_updated: "2016-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL LIBRO DÉCIMO SEGUNDO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 15 de diciembre de 2003.
 
@@ -3593,11 +3593,31 @@ En todos los casos, la suspensión se otorgará sólo cuando no se perjudique el
 
 La inconformidad administrativa en lo no previsto en el Libro y este Reglamento se substanciará en los términos del recurso administrativo establecido en el Código de Procedimientos Administrativos del Estado de México.
 
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2016)</small>
+
 ###### Artículo 285.
 
-Los licitantes o contratistas que infrinjan las disposiciones contenidas en el Libro y en el presente Reglamento serán sancionados por la Contraloría con multa equivalente a la cantidad de treinta a tres mil veces el salario mínimo general vigente en la Capital del Estado de México, en la fecha de la infracción.
+Los licitantes o contratistas que infrinjan las disposiciones contenidas en el Libro y en el presente Reglamento, serán sancionados por la Contraloría con multa equivalente a la cantidad de trecientos a tres mil veces el salario mínimo general, cuando se actualice cualquiera de los supuestos siguientes:
 
-Lo anterior, sin perjuicio de las penas convencionales pactadas en los contratos y, en su caso, del pago de daños y perjuicios que se ocasionen a los convocantes.
+I. Prometa, ofrezca o entregue dinero o cualquier otra dádiva a un servidor público o a un tercero, a cambio de realizar o abstenerse de hacer, cualquier acción relacionada con sus funciones o con las de otro servidor público, con el propósito de obtener o mantener un beneficio o ventaja, con independencia de la aceptación o recepción del dinero o de la dádiva o del resultado obtenido.
+
+Asimismo, incurrirá en responsabilidad cuando la promesa u ofrecimiento de dinero o cualquier dádiva se haga a un tercero que intervenga en el diseño o elaboración de la convocatoria de la licitación pública o de cualquier otro acto relativo al procedimiento de contratación de obra pública o servicios relacionados con las mismas.
+
+II. Ejecute acciones que impliquen o tengan por objeto o efecto obtener un beneficio o ventaja indebida en las contrataciones de obra pública o servicios relacionados con la misma.
+
+III. Realice actos u omisiones que tengan por objeto o efecto participar en el procedimiento de contrataciones de obra pública o servicios relacionados con la misma, no obstante, que por disposición de Ley o resolución administrativa se encuentre impedido para ello.
+
+IV. Realice actos u omisiones que tengan por objeto o efecto evadir los requisitos o reglas establecidas en las contrataciones de obra pública o servicios relacionados con la misma o simule el cumplimiento de estos.
+
+V. Intervenga en nombre propio pero en interés de otra u otras personas que se encuentren impedidas para participar en contrataciones de obra pública o servicios relacionados con la misma, con la finalidad que aquélla o aquéllas obtengan, total o parcialmente, los beneficios derivados de la contratación.
+
+VI. Obligue sin tener derecho a ello, a través de cualquier medio, a un servidor público a dar, suscribir, otorgar, destruir o entregar un documento o algún bien, con el fin de obtener para sí o un tercero una ventaja o beneficio.
+
+VII. Promueva o use su influencia, poder económico o político, real o ficticio, sobre cualquier servidor público, con el propósito de obtener para sí o un tercero un beneficio o ventaja, con independencia de la aceptación de los servidores públicos o del resultado obtenido.
+
+VIII. Presente documentación o información falsa o alterada, durante el procedimiento de contratación de obra pública o servicios relacionados con la misma, con el propósito de lograr un beneficio o ventaja.
+
+Lo anterior, sin perjuicio de las penas convencionales pactadas en los contratos y en su caso, del pago de daños y perjuicios que se ocasionen a los convocantes y con independencia de las responsabilidades de orden civil, penal o de cualquier otra índole que puedan derivar de los mismos hechos.
 
 ###### Artículo 286.
 
@@ -3616,6 +3636,22 @@ V. Los contratistas que no cumplan con sus obligaciones contractuales por causas
 La inhabilitación a que se refiere este artículo no será menor de tres meses ni mayor a cinco años, plazo que se computará a partir del día siguiente a la fecha en que la Contraloría la haga del conocimiento de las dependencias, entidades y ayuntamientos, mediante, la publicación de la circular respectiva en el periódico oficial "Gaceta del Gobierno".
 
 Las dependencias, entidades y ayuntamientos, dentro de los quince días hábiles siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones del Libro y el presente Reglamento, remitirán a la Contraloría la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2016)</small>
+
+Artículo 286 bis. Para la imposición de las sanciones del libro décimo segundo del Código Administrativo del Estado de México, la Contraloría tramitará y resolverá el procedimiento administrativo sancionador, en lo no previsto en el presente Reglamento, en términos del procedimiento administrativo común establecido en el Código de Procedimientos Administrativos del Estado de México.
+
+El procedimiento administrativo sancionador iniciará derivado de los supuestos siguientes:
+
+I. Acciones de Control y Evaluación que deriven de la auditoría, vigilancia, verificación, fiscalización, inspección, testificación, asesoría, autocontrol y evaluación de la gestión pública de las dependencias y organismos auxiliares y demás acciones de la misma naturaleza a cargo de la Contraloría.
+
+II. Instancia de inconformidad.
+
+III. Denuncia de las dependencias y entidades contratantes, en términos de lo establecido en el Libro.
+
+IV. Vista de cualquier otra autoridad por la cual informe de actos o hechos, agregando la documentación comprobatoria con que cuente para acreditar la conducta irregular.
+
+V. Denuncia de particulares, en la que señalen bajo protesta de decir verdad los actos o hechos presuntamente sancionables. La manifestación de actos o hechos falsos será sancionada en términos de la legislación penal aplicable.
 
 ###### Artículo 287.
 
@@ -3639,7 +3675,9 @@ IV. Las condiciones del infractor.
 
 En las materias reguladas en el Libro y en este Reglamento no procederá el recurso administrativo de inconformidad previsto en el Código de Procedimientos Administrativos del Estado de México.
 
-Contra la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones derivados de los contratos y convenios regulados por el Libro y este Reglamento procede juicio ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2016)</small>
+
+Contra la resolución que se dicte en el procedimiento administrativo sancionador, la inconformidad administrativa, así como de los demás actos y resoluciones derivados de los contratos y convenios regulados por el libro y este Reglamento procede juicio ante el Tribunal de lo Contencioso Administrativo.
 
 ## TRANSITORIOS
 
@@ -3690,3 +3728,13 @@ Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO DE MÉXICO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLMENTO DEL LIBRO DÉCIMO SEGUNDO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de la Contraloría implementará lo necesario para el cumplimiento del presente Acuerdo.
