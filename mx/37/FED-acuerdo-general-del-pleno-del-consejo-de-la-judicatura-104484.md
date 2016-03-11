@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2015-09-07"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,15 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno y de la Presidencia.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2015, LAS REFERENCIAS QUE SE HAGAN EN CUALQUIER DISPOSICIÓN A LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN COMO SUPERIOR JERÁRQUICO DE LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL SE ENTENDERÁN HECHAS A LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS.</small>
+
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTICULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
@@ -83,6 +85,10 @@ I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que e
 
 II. Áreas administrativas: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
 
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+
+II Bis. SISE CB: SISE Control Biométrico;
+
 III. Comisiones: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
 
 IV. Consejo: Consejo de la Judicatura Federal;
@@ -109,7 +115,7 @@ XIV. Poder Judicial de la Federación: Los órganos señalados en el artículo 9
 
 XV. Requisitoria: Comunicación de la misma naturaleza que el despacho, pero que se utiliza únicamente en un proceso penal;
 
-XVI. SIBAP: Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional;
+XVI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)
 
 XVII. SISE: Sistema Integral de Seguimiento de Expedientes; y
 
@@ -1221,9 +1227,9 @@ I. Brindará apoyo al órgano jurisdiccional en la operación y supervisión de 
 
 II. Servirá de enlace entre el propio órgano jurisdiccional al que está adscrito y las áreas administrativas en la gestión y desahogo de trámites administrativos, estadísticos e informáticos;
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
-III. Atenderá las instrucciones que le encomiende el titular del órgano jurisdiccional que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SIBAP, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información; y
+III. Atenderá las instrucciones que le encomiende el titular del órgano jurisdiccional que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información; y
 
 > <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
@@ -2071,7 +2077,7 @@ e) Juzgado remitente: se indicará la denominación de la autoridad que hubiese 
 
 f) Nombres: se dividirá en dos subrubros, Actor o promovente y Demandado, que se utilizarán de la siguiente manera:
 
-1. Actor o promovente. se asentará el nombre precisamente de esta parte, independientemente de que tenga algún representante y, en el caso de que se trate de un asunto no contencioso, se utilizará esta misma columna para anotar al promovente; y
+1. Actor o promovente: se asentará el nombre precisamente de esta parte, independientemente de que tenga algún representante y, en el caso de que se trate de un asunto no contencioso, se utilizará esta misma columna para anotar al promovente; y
 
 2. Demandado: que solamente se utilizará en el caso de que se trate de un asunto contencioso, se anotará el nombre de la parte demandada;
 
@@ -2699,7 +2705,9 @@ La Visitaduría Judicial, con motivo de las visitas de inspección que realice a
 
 Corresponde a la Dirección General de Tecnologías de la Información solucionar los problemas técnicos que surjan con motivo de la operación del SISE, de la red de comunicaciones y del equipo de cómputo destinado a la captura de datos y, en caso de estimar que se trata de un asunto que no es de su competencia, lo comunicará a la Dirección General de Estadística Judicial, con independencia de que promueva lo conducente, en el área administrativa respectiva, para resolverlo.
 
-### CAPÍTULO QUINTO. SISTEMA BIOMÉTRICO DE REGISTRO DE ASISTENCIA DE PROCESADOS EN LIBERTAD PROVISIONAL
+### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 180.
 
@@ -2819,65 +2827,101 @@ En el módulo de Tesis del SISE, deberá continuarse con la captura de las tesis
 
 La Dirección General de Estadística Judicial será la responsable de vigilar el correcto funcionamiento del SISE y del cumplimiento de lo establecido en este Capítulo.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+
 ### CAPÍTULO OCTAVO. INFORMACIÓN ESTADÍSTICA JUDICIAL Y GEOREFERENCIADA
 
 ###### Artículo 197.
 
-Es obligatorio el uso del módulo denominado SIBAP, contenido en el SISE, como programa automatizado para el control de presentaciones de procesados en libertad provisional bajo caución, por parte de los juzgados de Distrito no especializados, los especializados en la materia penal y de procesos penales federales, así como los tribunales Unitarios de Circuito, con excepción de los especializados en materias civil y administrativa.
+Es obligatorio el uso del módulo denominado SISE CB, contenido en el SISE, como programa automatizado para el control de presentaciones de procesados en libertad provisional bajo caución, por parte de los juzgados de Distrito no especializados, los especializados en la materia penal, y de procesos penales federales, así como los tribunales Unitarios de Circuito, con excepción de los especializados en materias civil y administrativa.
+
+También será obligatorio para los otros órganos jurisdiccionales, en aquellos casos en que lo determine el Pleno.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 198.
 
-La Dirección General de Estadística Judicial será la encargada de coordinar las tareas tendentes al desarrollo y mantenimiento del SIBAP.
+La Dirección General de Estadística Judicial será la encargada de coordinar las tareas tendientes al desarrollo y mantenimiento del SISE CB.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 199.
 
-El SIBAP se desarrollará bajo los más altos estándares de calidad y seguridad que las tecnologías de la información permitan, en el que se considerarán los aspectos siguientes:
+El SISE CB se desarrollará bajo los más altos estándares de calidad y seguridad que las tecnologías de la información permitan, en el que se considerarán los aspectos siguientes:
 
-I. Índice: se anotarán por orden alfabético los nombres de los procesados que disfruten del beneficio de libertad provisional; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+
+I. Índice: se anotarán por orden alfabético los nombres de los procesados que disfruten del beneficio de libertad provisional, y de aquellas personas que determine el Pleno; y
 
 II. Control de identificación personal: contendrá, entre otros, los rubros siguientes:
 
 a) Nombre del órgano jurisdiccional correspondiente;
 
-b) Número de causa, juicio o toca penal;
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
-c) Nombre del procesado, quejoso o recurrente;
+b) Número de causa, juicio, proceso, procedimiento, o toca penal;
 
-d) Digitalización, codificación y almacenamiento de las características físicas únicas del procesado;
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
-e) Periodicidad con la que debe acudir al órgano jurisdiccional a registrar su asistencia en forma automatizada; y
+c) Nombre del procesado, quejoso, recurrente o de las personas que determine el Pleno;
 
-f) Observaciones: podrán anotarse todas aquellas circunstancias o incidencias relativas al cumplimiento del registro de asistencia del procesado.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+
+d) Digitalización, codificación y almacenamiento de las características físicas únicas de la persona inscrita en el SISE CB;
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+
+e) En su caso, periodicidad con la que debe acudir al órgano jurisdiccional a registrar su asistencia en forma automatizada la persona inscrita en el SISE CB; y
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+
+f) Observaciones: podrán anotarse todas aquellas circunstancias o incidencias relativas al cumplimiento del registro de asistencia de la persona inscrita en el SISE CB, y demás que determine el Pleno.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 200.
 
-El secretario que designe el titular del órgano jurisdiccional de que se trate, ingresará los datos respectivos y certificará con su nombre de usuario y contraseña, que la información que se incorpora al SIBAP corresponde al procesado.
+El secretario que designe el titular del órgano jurisdiccional de que se trate, ingresará los datos respectivos y certificará con su nombre de usuario y contraseña, que la información que se incorpora al SISE CB corresponde a la persona inscrita en éste.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 201.
 
-Los titulares de los tribunales Unitarios de Circuito y juzgados de Distrito competentes, designarán al servidor público de su adscripción encargado de operar el SIBAP para los subsecuentes registros de asistencia de procesados que gocen de libertad provisional.
+Los titulares de los tribunales de Circuito y juzgados de Distrito competentes, así como de los Centros de Justicia Penal Federal, designarán al servidor público de su adscripción encargado de operar el SISE CB para los subsecuentes registros de asistencia de las personas inscritas en éste.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 202.
 
-Cuando por algún motivo justificado se interrumpa el SIBAP, el registro de asistencia de los procesados se llevará a cabo de manera manual en una Bitácora de Registro Temporal de Control de Firmas de Procesados, la que deberá estar autorizada con firma del secretario responsable designado por el titular, a fin de que en ella se realicen las anotaciones a que haya lugar. En la bitácora se hará constar la fecha, hora y motivos por los que se haya interrumpido el uso del SIBAP; así como la fecha y hora de reanudación del mismo.
+Cuando por algún motivo justificado se interrumpa el SISE CB, el registro de asistencia de los procesados se llevará a cabo de manera manual en una Bitácora de Registro Temporal de Control de Firmas, la que deberá estar autorizada con firma del secretario responsable designado por el titular, a fin de que en ella se realicen las anotaciones a que haya lugar. En la bitácora se hará constar la fecha, hora y motivos por los que se haya interrumpido el uso del SISE CB; así como la fecha y hora de reanudación del mismo.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 203.
 
-El titular del órgano jurisdiccional en que se siga el proceso podrá autorizar que el procesado se presente en diverso órgano jurisdiccional en los periodos que determine, para lo cual deberá informar correspondiente la determinación adoptada en ese sentido.
+El titular del órgano jurisdiccional en que se siga el proceso podrá autorizar que la persona inscrita en el SISE CB se presente en diverso órgano jurisdiccional en los periodos que determine, para lo cual deberá informar la determinación adoptada en ese sentido.
 
 ###### Artículo 204.
 
 En las visitas físicas de inspección que la Visitaduría Judicial practique en la sede de los órganos jurisdiccionales, deberá verificar, cuando menos, lo siguiente:
 
-I. Que el SIBAP funcione correctamente;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
-II. Que los datos de los procesados que gocen del beneficio de libertad provisional se hayan incorporado correcta y oportunamente; y
+I. Que el SISE CB funcione correctamente;
 
-III. Que el servidor público encargado de operar el SIBAP, lleve un control efectivo del registro de las identificaciones personales automáticas que se han realizado en el periodo que comprende la visita.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+
+II. Que los datos de la persona inscrita en el SISE CB se hayan incorporado correcta y oportunamente; y
+
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+
+III. Que el servidor público encargado de operar el SISE CB lleve un control efectivo del registro de las identificaciones personales automáticas que se han realizado en el periodo que comprende la visita.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 205.
 
-La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, en el ámbito de su competencia, verificará el debido cumplimiento de este Capítulo, para lo cual podrá acceder a la información contenida tanto en la base de datos, como en los reportes que el SIBAP emita.
+La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, en el ámbito de su competencia, verificará el debido cumplimiento de este Capítulo, para lo cual podrá acceder a la información contenida tanto en la base de datos, como en los reportes que el SISE CB emita.
 
 ###### Artículo 206.
 
@@ -3264,3 +3308,21 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Administración como superior jerárquico de la Dirección General de Estadística Judicial se entenderán hechas a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos.
+
+D.O.F. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El SISE CB iniciará operaciones el catorce de marzo de dos mil dieciséis en los Juzgados de Distrito y Tribunales Unitarios de Circuito que deban operarlo.
+
+En los Centros de Justicia Penal Federal la operación del SISE Control Biométrico iniciará conforme la Dirección General de Tecnologías de la Información dote de los equipos necesarios.
+
+CUARTO. A partir del trece de marzo de dos mil dieciséis dejará de funcionar en los órganos jurisdiccionales el Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional (SIBAP), por lo que, toda la información contenida y generada en ese sistema deberá transferirse al SISE Control Biométrico (SISE CB) antes de que inicie operaciones, con excepción de las incidencias reflejadas en la lista de tareas del SIBAP, las cuales deberán ser atendidas por el personal responsable en cada órgano jurisdiccional.
+
+QUINTO. Las Direcciones Generales de Estadística Administrativa y Judicial; y de Tecnologías de la Información, de conformidad con sus atribuciones, deberán realizar todas las acciones necesarias para el inicio de operaciones del SISE Control Biométrico.
+
+SEXTO. Las referencias que cualquier disposición haga al Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional (SIBAP), se entenderán hechas al SISE Control Biométrico (SISE CB).
