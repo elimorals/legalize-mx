@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2015-12-31"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4343,7 +4343,7 @@ Son simples los golpes y las violencias físicas que no causen lesión en el ofe
 
 #### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 357.
 
@@ -4691,7 +4691,17 @@ Al que se le imputare el hecho de haber tomado una cosa ajena y acredite haberla
 
 ###### Artículo 390.
 
-Comete el delito de robo de ganado, el que se apodere de ganado bovino, caballar, mular, cabrío, ovino, porcino, asnal o de colmenas.
+Comete el delito de robo de ganado, el que se apodere de ganado bovino, equino, caprino, ovino, porcino, de aves, conejos, fauna acuática, colmenas y otros animales que sean motivo de aprovechamiento zootécnico.
+
+Al responsable de este delito se le impondrán las sanciones siguientes:
+
+I. De dos a doce años de prisión y multa de cuatrocientos a quinientos días de salario, cuando el monto del ganado robado no exceda de seiscientos días de salario;
+
+II. De cuatro a doce años de prisión y multa de quinientos a setecientos días de salario, cuando el monto del ganado robado exceda de seiscientos días de salario pero no de novecientos; y
+
+III. De seis a doce años de prisión y multa de setecientos a novecientos días de salario, cuando el monto del ganado robado exceda de novecientos días de salario.
+
+En cualquier caso, se aumentará en dos terceras partes la sanción cuando el sujeto activo ejecute la acción con violencia.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
@@ -4699,29 +4709,45 @@ Comete el delito de robo de ganado, el que se apodere de ganado bovino, caballar
 
 Comete el delito de robo de instrumentos de labranza o de equipo apícola o de frutos, quien se apodere de cualquiera de ellos, en el lugar en que respectivamente se empleen los dos primeros o se produzcan los últimos, estén pendientes o ya recolectados.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 392.
 
-Tratándose del delito tipificado en el artículo 390, se aplicarán las siguientes disposiciones:
+Tratándose del delito de robo de ganado, al que se apodere por primera vez de una sola cabeza de ganado y la emplee para su alimentación o la de su familia, se le impondrá una multa de cinco a cien días de salario, o en su caso, el equivalente al valor comercial del bien.
 
-I.- Se sancionará con prisión de dos a doce años, cualquiera que sea el número y la especie de las cabezas de ganado robado, salvo lo dispuesto en la siguiente fracción;
-
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
-
-II.- Al que se apodere por primera vez de una sola cabeza de ganado y la emplee para su alimentación o la de su familia, se le impondrán una multa de cinco a cien días de salario, o en su caso, el equivalente al valor comercial del bien.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 393.
 
-Se sancionará como lo establece la fracción I del artículo 392, a quien sabiendo que se trata de ganado robado, ejecute con relación a éste, uno o más de los siguientes hechos:
+Se equipara al robo de ganado y se aplican las mismas sanciones, al que ejecute uno o más de los siguientes hechos:
 
 I.- Herrar, señalar o marcar animales ajenos, destruir o modificar los fierros, marcas o señales que sirvan para acreditar la propiedad del ganado;
 
-II.- Comerciar, servir de intermediario, poseer, transportar, ministrar, aprovechar o adquirir uno o más animales en pie o sacrificados, de las especies mencionadas en el artículo 390; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-III.- A las autoridades o a quienes intervengan en la indebida legalización de documentos, con el objeto de acreditar la propiedad de uno o varios semovientes, si no tomaron las medidas indispensables para cerciorarse de la procedencia legítima del ganado.
+II.- Sacrificar ganado ajeno sin consentimiento de su propietario;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+III.- Comerciar, servir de intermediario, poseer, transportar, ministrar, aprovechar o adquirir uno o más animales en pie o sacrificados, de especie bovino, equino, caprino, ovino, porcino, de aves, conejos, fauna acuática o colmenas;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IV.- Intervenir en la indebida expedición o legalización de documentos, con el objeto de acreditar la propiedad de uno o varios semovientes, si no se tomaron las medidas indispensables para cerciorarse de la procedencia legitima del ganado; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+V.- Esconder o resguardar dolosamente ganado robado o con documentación falsa;
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
+
+Si en el supuesto que se describe en la fracción IV del presente artículo, se ven involucradas autoridades, además de la sanción impuesta se les destituirá del cargo y se les inhabilitará hasta por cinco años para el desempeño de cualquier cargo, empleo o comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 394.
 
-El delito tipificado en el artículo 391, se sancionará:
+El delito de robo de instrumentos de labranza o de equipo apícola o de frutos, se sancionará:
 
 > <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
@@ -6322,5 +6348,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 267 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 272, AMBOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
