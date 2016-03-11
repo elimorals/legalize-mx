@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-instituto-metropolitano-de-80646"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-11"
-last_updated: "2011-02-11"
+last_updated: "2016-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO METROPOLITANO DE PLANEACION DE TIJUANA, BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR INSTITUTO METROPOLITANO DE PLANEACION DE TIJUANA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERIOR INSTITUTO METROPOLITANO DE PLANEACIÓN DE TIJUANA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de febrero de 2011.
 
@@ -99,11 +99,17 @@ XXIV. Formular, promover y convenir programas de estudios para la formación y c
 
 XXV. Suscribir acuerdos de colaboración y celebrar convenios y contratos con entidades públicas y privadas o con personas físicas especializadas, para la realización de investigaciones, estudios y acciones conjuntas en materia de administración pública, fenómenos socioeconómicos, de planeación urbana, o alguna otra que sea de interés para el Municipio.
 
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XXV BIS. Apoyarse, en todo momento, para el buen funcionamiento de las Unidades Administrativas que conforman el Instituto Metropolitano de Planeación de Tijuana; de asesores, consultores y prestadores de servicios profesionales, para llevar a cabo el cumplimiento de sus proyectos, objetivos y atribuciones. Lo anterior, previa justificación por escrito que elabore el propio Instituto Metropolitano de Planeación de Tijuana, para dichos efectos, mismo que será validado por la Junta de Gobierno del propio Instituto;
+
 XXVI. Proporcionar al Municipio el sustento técnico para la implementación de acciones en materia de desarrollo urbano, en los términos de las leyes en la materia.
 
 XXVII. Difundir y comercializar información, estudios, planes, proyectos, ensayos, servicios y demás productos derivados de su actividad, que sean de interés general, susceptibles de ser publicados.
 
-XXVIII. Todas aquellas que, en apoyo a las dependencias de la administración pública municipal centralizada, le encomiende el Ayuntamiento o el Ejecutivo Municipal y sean inherentes a su objeto.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XXVIII. Todas aquellas que, en apoyo a las dependencias de la administración pública municipal centralizada, le encomiende el Ayuntamiento o el Ejecutivo Municipal a través de la Secretaría de Desarrollo Urbano y Ecología y sean inherentes a su objeto.
 
 DE SU ESTRUCTURA ORGANICA
 
@@ -113,55 +119,61 @@ Para su funcionamiento y operación, el Instituto Metropolitano de Planeación s
 
 DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 6.
 
 La Junta de Gobierno del Instituto se integrará de la siguiente manera:
 
-I. El Presidente Municipal, quien la (sic) presidirá la Junta de Gobierno.
+I. El Ejecutivo Municipal, quien presidirá la Junta de Gobierno;
 
-II. El Coordinador de Gabinete
+II. Cuatro Regidores o Regidoras Presidentes/as de las Comisiones siguientes y relacionadas a la actividad del organismo:
 
-III. El Regidor Presidente de la Comisión de Desarrollo Urbano, Obras y Servicios Públicos
+a) Comisión de Desarrollo Urbano, Obras y Servicios Públicos;
 
-IV. Regidor Presidente de la Comisión de Medio Ambiente y Desarrollo Sustentable.
+b) Comisión de Medio Ambiente y Desarrollo Sustentable;
 
-V. El Regidor Presidente de la Comisión de Planeación del Desarrollo Municipal.
+c) Comisión de Planeación del Desarrollo Municipal;
 
-VI. El Regidor Presidente de la Comisión de Desarrollo Económico y Vialidad y Transporte.
+d) Comisión de Desarrollo Económico;
 
-VII. Un representante del sector académico (Universidades)
+III. Un representante del sector académico (Universidades);
 
-VIII. Un representante del sector Empresarial
+IV. Un representante del sector Empresarial;
 
-IX. Un representante del sector social (ONGS)
+V. Un representante del sector social (OSC’S)
 
 Los integrantes de la Junta de Gobierno pertenecientes a la Administración Pública, serán nombrados al inicio de la Administración Municipal, durante el tiempo que estén en el cargo.
 
-Con el fin de asegurar la continuidad de las acciones de planeación, y lograr el equilibrio en materia de decisiones, así como definir un proceso de renovación escalonado, cada representante de los sectores académico, empresarial y de los organismos sociales de la ciudad será elegido durante el ultimo año de cada administración municipal y duraran en su encargo tres años, sin posibilidad de reelección.
+Con el fin de asegurar la continuidad de las acciones de planeación, y lograr el equilibrio en materia de decisiones, así como definir un proceso de renovación escalonado, cada (sic)
 
-El Coordinador de Gabinete fungirá como representante del Presidente Municipal en la Junta de Gobierno, con derecho a voz y voto en ausencia de éste.
+Representante de los sectores académico, empresarial y de los organismos sociales de la ciudad será elegido durante el mes decimoctavo de la administración municipal y durarán en su encargo tres años, sin posibilidad de reelección.
 
-Los Regidores podrán designar al Regidor Secretario de la Comisión que presiden como su suplente en las sesiones de la Junta de Gobierno, quien tendrá derecho a voz y a voto en su ausencia.
+El o la Secretario(a) de Desarrollo Urbano y Ecología del Ayuntamiento fungirá como representante del Ejecutivo Municipal en la Junta de Gobierno, con derecho a voz y voto en ausencia de éste.
 
-Los representantes de los sectores académico, empresarial y de los organismos sociales de la ciudad, podrán designar suplentes para cubrir sus ausencias temporales, los que tendrán derecho a voz pero no a voto.
+Los Regidores y las Regidoras podrán designar suplente que los represente en las sesiones de la Junta de Gobierno, quien tendrá derecho a voz y a voto en su ausencia.
+
+Los representantes de los sectores académico, empresarial y de los organismos sociales de la ciudad, podrán designar suplentes para cubrir sus ausencias temporales, los que tendrán derecho a voz, pero no a voto.
 
 Los integrantes propietarios y suplentes de la Junta de Gobierno desempeñarán el cargo de manera honorífica.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 7.
 
-Las sesiones de la Junta de Gobierno serán presididas por el Presidente Municipal o por su representante, y el Director General Ejecutivo fungirá como Secretario Técnico.
+Las sesiones de la Junta de Gobierno serán presididas por el Ejecutivo Municipal o por su representante, y el o la Director(a) General Ejecutivo(a) fungirá como Secretario(a) Técnico(a).
 
-La Junta de Gobierno sesionará trimestralmente en sesión ordinaria, y en sesión extraordinaria cuantas veces sean convocados los integrantes por el Presidente de la Junta de Gobierno. La convocatoria para la celebración de sesión ordinaria se deberá emitir con un mínimo de tres días hábiles de anticipación, en caso de sesión extraordinaria, el término mínimo será de 24 horas de anticipación.
+La Junta de Gobierno sesionará trimestralmente en sesión ordinaria, y en sesión extraordinaria cuantas veces sean convocados los integrantes por el o la Presidente(a) de la Junta de Gobierno. La convocatoria para la celebración de sesión ordinaria se deberá emitir con un mínimo de tres días hábiles de anticipación, en caso de sesión extraordinaria, el término mínimo será de 24 horas de anticipación; en ambos casos la convocatoria contendrá el orden del día y en su caso, la información necesaria para el desarrollo del mismo.
 
-Los acuerdos de la Junta de Gobierno serán válidos cuando se tomen por mayoría simple en votación abierta y directa, teniendo todos y cada uno de sus integrantes derecho de voz y voto. El Presidente de la Junta de Gobierno podrá emitir voto de calidad en caso de ser necesario.
-
-Las sesiones tanto ordinarias como extraordinarias serán válidas con la asistencia de la mitad más uno de sus integrantes.
+Las sesiones tanto ordinarias como extraordinarias serán válidas y se consideraran legalmente reunidas, con la asistencia de la mitad más uno de sus integrantes. Una vez cumplidos los requisitos mencionados, se declarará que existe quórum legal, se iniciará la sesión tratando los asuntos que establezca el orden del día propuesto y aprobado. Los acuerdos de la Junta de Gobierno serán válidos cuando se tomen por mayoría simple en votación abierta y directa, teniendo todos y cada uno de sus integrantes derecho de voz y votocon (sic) la excepción de lo establecido en el párrafo sexto del artículo 6. El o la Presidente(a) de la Junta de Gobierno podrá emitir voto de calidad en caso de ser necesario.
 
 ###### Artículo 8.
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-I. Actuar como Representante Legal y Administrativo del Instituto, por conducto del Director General y del o los apoderados que designe otorgándoles poder general para pleitos y cobranzas, actos de administración y actos de dominio;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+I. Actuar como Representante Legal y Administrativo del Instituto, por conducto del o (la) Director(a) General Ejecutivo(a) y del o los apoderados que designe otorgándoles conforme se apruebe por la Junta, poder general para pleitos y cobranzas, actos de administración y actos de dominio, así como poder para suscribir títulos y operaciones de crédito;
 
 II. Aprobar los planes y programas de trabajo, presupuestos, informes de actividades y estados financieros del Instituto;
 
@@ -173,7 +185,9 @@ V. Conocer de los informes, dictámenes y recomendaciones del Comisario;
 
 VI. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
 
-VII. Conocer y aprobar los convenios que haya de celebrar el Instituto con dependencias y entidades públicas o privadas, pudiendo delegar esa facultad en el Director General.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VII. Conocer y aprobar los convenios que haya de celebrar el Instituto con dependencias y entidades públicas o privadas, pudiendo delegar esa facultad en el o la Director(a) General Ejecutivo(a);
 
 VIII. Proponer la admisión de nuevos integrantes a la Junta de Gobierno del Instituto, los cuales serán admitidos mediante la aprobación de las dos terceras partes de la Junta de Gobierno.
 
@@ -197,31 +211,49 @@ IV. Percibir el salario u honorarios que se le designen por sus servicios, con c
 
 V. Las demás que sean necesarias para el ejercicio de las anteriores.
 
-DEL DIRECTOR GENERAL EJECUTIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2016)</small>
+
+DEL (LA) DIRECTOR(A) GENERAL EJECUTIVO(A)
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 11.
 
-El Director General Ejecutivo deberá ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles; acreditar estudios a nivel de Licenciatura y experiencia en materia de Administración Pública, será nombrado por la Junta de Gobierno de una terna que habrá de someter a su consideración el Presidente Municipal; en el mes de Julio del sexto semestre de la administración municipal y entrará en funciones el mes de septiembre de (sic) último semestre de la administración municipal. Durará en el cargo por un período de tres años, pudiendo ser reelecto.
+El o la Director(a) General Ejecutivo(a) deberá ser ciudadano mexicano en pleno uso de sus derechos políticos y civiles; acreditar estudios a nivel de Licenciatura y experiencia en materia de Administración Pública, será nombrado por la Junta de Gobierno de una terna que habrá de someter a su consideración el Ejecutivo Municipal; al inicio de la Administración Municipal o cuando el Ejecutivo lo proponga. Durará en el cargo por un período de tres años, pudiendo ser reelecto.
 
-Las ausencias temporales del Director General Ejecutivo serán cubiertas por el funcionario que el propio Director General Ejecutivo designe, quien en el desempeño de su encargo, quedará investido de las atribuciones y facultades que le sean conferidas en su designación.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
-Cuando por causas de fuerza mayor el Director General Ejecutivo se encuentre impedido para cumplir con sus funciones por un período mayor a dos meses, el Presidente de la Junta de Gobierno convocará a sesión extraordinaria en un término no mayor de 10 días a partir de la fecha en que tenga conocimiento del impedimento, para que se proceda a nombrar un nuevo Director General Ejecutivo.
+Las ausencias temporales del o la Director(a) General Ejecutivo(a) serán cubiertas por el funcionario que el o la propio(a) Director(a) General Ejecutivo(a) designe, quien en el desempeño de su encargo, quedará investido de las atribuciones y facultades que le sean conferidas en su designación.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+Cuando por causas de fuerza mayor el o la Director(a) General Ejecutivo(a) se encuentre impedido para cumplir con sus funciones por un período mayor a dos meses, el o la Presidente(a) de la Junta de Gobierno convocará a sesión extraordinaria en un término no mayor de 10 días a partir de la fecha en que tenga conocimiento del impedimento, para que se proceda a nombrar un(a) nuevo(a) Director(a) General Ejecutivo(a).
 
 Para el adecuado cumplimiento de sus atribuciones la Dirección General Ejecutiva contara con la siguiente estructura:
 
-I. Dirección de Planeación Socioeconómica
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-II. Dirección de Planeación Territorial
+I. Dirección de Proyectos Estratégicos;
 
-III. Dirección de Inversión y Proyectos Estratégicos
+II. Dirección de Planeación Territorial;
 
-IV. Dirección de Control y Evaluación
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-V. Dirección de Enlace
+III. Dirección de Inversión;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IV. Dirección de Enlace;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+V. Coordinación Administrativa y Financiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 12.
 
-El Director General Ejecutivo tendrá las siguientes facultades:
+El o la Director(a) General Ejecutivo(a) tendrá las siguientes facultades:
 
 I. Ejecutar por sí o a través de personal a su cargo, los acuerdos y disposiciones de la Junta de Gobierno;
 
@@ -233,17 +265,37 @@ IV. Presentar a la Junta de Gobierno informes y estados financieros trimestrales
 
 V. Designar y remover libremente a los funcionarios y empleados del Instituto, en los términos y formas establecidas en las leyes y reglamentos laborales que correspondan;
 
-VI. Desarrollar las funciones administrativas que requiera la operación del Instituto. Realizar la evaluación del desempeño de los servidores públicos adscritos al Instituto y realizar la evaluación del desempeño de los servidores públicos adscritos al propio Instituto.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-VII. Celebrar los convenios, contratos y actos jurídicos necesarios para el cumplimiento de los objetivos y atribuciones del Instituto, incluidos el pago de comisiones por logros económicos, previa aprobación de la Junta de Gobierno;
+VI. Desarrollar las funciones administrativas que requiera la operación del Instituto;
 
-VIII. Representar al Instituto como apoderado para actos de dominio cuando así lo determine la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-IX. Representar al Instituto como mandatario general para actos de administración, pleitos, cobranzas y actos de dominio, con todas las facultades inherentes al mandato y las especiales que conforme a la ley requieran de tal naturaleza, otorgándosele enunciativa más no limitativamente las siguientes: promover y contestar demandas, denuncias y querellas, así como desistirse de las mismas; otorgar el perdón y realizar convenios que beneficien y salvaguarden el interés del Instituto; ocurrir y desistirse del juicio de amparo; substituir el presente mandato, todo o en parte, en la persona que al efecto designe la Junta de Gobierno;
+VII. Realizar la evaluación del desempeño de los servidores públicos adscritos al Instituto,
 
-X. Expedir copias certificadas de los documentos que obren en sus archivos.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-XI. Las demás que previo acuerdo de la Junta de Gobierno, le sean delegadas o encomendadas.
+VIII. Celebrar los convenios, contratos y actos jurídicos necesarios para el cumplimiento de los objetivos y atribuciones del Instituto, incluidos el pago de comisiones por logros económicos, previa aprobación de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IX. Apoyarse, en todo momento, para el buen funcionamiento de las Unidades Administrativas que conforman el Instituto Metropolitano de Planeación de Tijuana; de asesores, consultores y prestadores de servicios profesionales, para llevar a cabo el cumplimiento de sus proyectos, objetivos y atribuciones;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+X. El o la Director(a) representará al Organismo con facultades para Pleitos y Cobranzas y Actos de Administración, incluyendo las que requieran cláusula especial conforme a la ley, así como suscribir títulos y operaciones de crédito; pudiendo designar Apoderado Legal por sí mismo, única y exclusivamente en lo que se refiere al otorgamiento de facultades de representación de manera especial para pleitos y cobranzas. Además, contará con facultades para Actos de dominio, pero limitadas a los términos aprobados por el Ayuntamiento, para el caso particular;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XI. Expedir copias certificadas de los documentos que obren en sus archivos internos;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XII. Implementar y ejecutar las políticas y mecanismos para la obtención de recursos externos del sector público y privado;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XIII. Las demás que previo acuerdo de la Junta de Gobierno, le sean delegadas o encomendadas.
 
 DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -251,75 +303,117 @@ DE LAS UNIDADES ADMINISTRATIVAS
 
 Corresponde a los titulares de las Direcciones enunciadas en el último párrafo del artículo 11 de este ordenamiento, el ejercicio de las siguientes facultades y obligaciones:
 
-A. Participar en la elaboración del proyecto del programa anual de actividades del área a su cargo, incluidos los objetivos y políticas a seguir.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-B. Participar en la elaboración del anteproyecto de presupuesto anual de egresos conforme las normas establecidas.
+I. Participar en la elaboración del proyecto del programa anual de actividades del área a su cargo, incluidos los objetivos y políticas a seguir;
 
-C. Planear, programar, organizar, conducir y controlar las actividades encomendadas a su área, cumpliendo con las disposiciones jurídicas y administrativas correspondientes.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-D. Acordar con el Director los asuntos relacionados a su responsabilidad, sometiendo a su consideración para su aprobación los estudios, proyectos e informes respectivos.
+II. Participar en la elaboración del anteproyecto de presupuesto anual de egresos conforme las normas establecidas;
 
-E. Rendir informes periódicos del avance de los programas a su cargo.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-F. Las demás que el Director o las disposiciones legales y administrativas les confieran.
+III. Planear, programar, organizar, conducir y controlar las actividades encomendadas a su área, cumpliendo con las disposiciones jurídicas y administrativas correspondientes;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IV. Acordar con el o la Director(a) los asuntos relacionados a su responsabilidad, sometiendo a su consideración para su aprobación los estudios, proyectos e informes respectivos;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+V. Rendir informes periódicos del avance de los programas a su cargo;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VI. Formular, promover y convenir programas de estudios para la formación y capacitación del personal del Instituto y personas en general en disciplinas afines a la administración pública y a la planeación, en coordinación con instituciones educativas, e impartir y recibir cursos en dichas materias;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VII. Suscribir acuerdos de colaboración y celebrar convenios y contratos con entidades públicas y privadas o con personas físicas especializadas, para la realización de investigaciones, estudios y acciones conjuntas en materia de administración pública, fenómenos socioeconómicos, de planeación urbana, o alguna otra que sea de interés para el Municipio;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VIII. Proporcionar al Municipio el sustento técnico para la implementación de acciones en materia de planeación, en los términos de las leyes en la materia;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IX. Difundir y comercializar información, estudios, planes, proyectos, ensayos, servicios y demás productos derivados de su actividad, que sean de interés general, susceptibles de ser publicados;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+X. Las demás que el o la Director(a) o las disposiciones legales y administrativas les confieran.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 14.
 
-Corresponde a la Dirección de Planeación Socioeconómica las siguientes atribuciones:
+Corresponden a la Dirección de Proyectos Estratégicos las siguientes atribuciones:
 
-1.- Recopilar, organizar y sistematizar las demandas y necesidades sociales de la población del municipio, considerando la diversidad regional, cultural, económica, social, ambiental e institucional, a través de foros, consultas y eventos. La información será comunicada a las entidades de la Administración Municipal correspondiente a través de la Presidencia, con copia al Sistema Estatal de Información, Documentación, Estadística y Cartografía de Baja California, para su integración en la base de datos Estatal;
+I. Elaborar y evaluar los proyectos estratégicos de infraestructura urbana, estructura vial, transporte, equipamiento proyectos de; creación, regeneración, remodelación, rehabilitación y revitalización urbana; proyectos de edificación y servicios públicos que requiera el Municipio, así como promover y dar seguimiento a la ejecución de los mismos; para lo cual se apoyará en las Jefaturas de Proyectos Arquitectónicos y de Proyectos Urbanos;
 
-2.- Elaborar el Plan Estratégico Municipal y el Plan Municipal de Desarrollo, asegurando la congruencia conceptual y técnica entre ambos planes y sus horizontes temporales, con el predominio del primero; y congruencia y coordinación con la planeación Estatal y Federal.
+II. Elaborar los proyectos ejecutivos estratégicos, estudios de ingeniería, planos y demás elementos necesarios para el desarrollo de las obras públicas, aprobadas por la Junta de gobierno;
 
-3.- Levantar un inventario y elaborar un registro continuo de la obra pública que se ejecute en el Municipio, como información básica para la planeación, así como recopilar la documentación e información sobre los programas e iniciativas de los gobiernos Federal y Estatal relacionados con el Municipio o potencialmente de interés Municipal; la información será compartida con el Sistema Estatal de Información, Documentación, Estadística y Cartografía de Baja California;
+III. Previo acuerdo con la Secretaría de Desarrollo Urbano y Ecología, proporcionar la asesoría técnica que solicite la Dirección de Obras e Infraestructura Urbana Municipal, para la elaboración y ejecución de los planes y programas relativos al desarrollo urbano municipal en materia de obras públicas y servicios relacionados con las mismas, asignados y aprobados por la Junta de Gobierno;
 
-4.- Evaluar desde una perspectiva ciudadana, los Planes Municipales tomando en cuenta las propuestas de las dependencias y entidades de la administración pública Municipal, Estatal y Federal, organismos sociales y privados e instituciones educativas;
+IV. Realizar los levantamientos topográficos y pruebas de laboratorios que se requieran para la elaboración de proyectos estratégicos de obra pública, aprobados por la Junta de Gobierno;
 
-5.- Promover la concertación de acuerdos de cooperación y colaboración entre los sectores público, social y privado, tendientes a orientar los esfuerzos al logro de los objetivos del Plan Municipal de Desarrollo y del Plan Estratégico Municipal,
+V. Realizar los estudios, dictámenes y proyectos ejecutivos estratégicos relativos a obras de infraestructura, redes de servicios públicos y demás que sean de su competencia, y las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el o la Director(a) General Ejecutivo(a) del Instituto Metropolitano de Planeación de Tijuana;
 
-6.- Organizar los foros de consulta ciudadana.
+VI. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
-7.- Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 15.
 
-La Dirección de Planeación Socioeconómica, para el ejercicio de sus atribuciones contará con el apoyo de:
+La Dirección de Proyectos Estratégicos, para el ejercicio de sus atribuciones contará con el apoyo de:
 
-El Departamento de Análisis Socioeconómico,
+I.- A la Jefatura de Proyectos Arquitectónicos le corresponde:
 
-El Departamento de Participación Sectorial,
+1. Desarrollar investigación para localización de proyectos estratégicos;
 
-El Departamento de Edición y Divulgación
+2. Desarrollar proyectos arquitectónicos;
 
-El Departamento de Enlace con las OSC's.
+3. Desarrollar proyectos de espacios públicos;
 
-Al Departamento de Análisis Socioeconómico le corresponde:
+4. Desarrollar proyectos de prevención y protección al aire urbano;
 
-I. Realizar la interpretación de las cifras y estadísticas de los campos sociales y económicos para las decisiones en materia de planeación territorial. Se apoyará en los observatorios para generar información.
+5. Diseñar mobiliario urbano;
 
-II. Coordinar, revisar y ejecutar acciones de planeación territorial.
+6. Diseñar puentes peatonales;
 
-III. Coordinar los observatorios.
+7. Proyectar espacios peatonales;
 
-Al Departamento de Participación Sectorial le corresponde:
+8. Generar y dar seguimiento a la autorización de los proyectos elaborados;
 
-I. Determinar los lineamientos de operación de los subcomités sectoriales.
+9. Colaborar con la Jefatura de Proyectos Urbanos;
 
-II. Concentrar los acuerdos alcanzados en los subcomités.
+10. Las demás funciones que le correspondan y se le requieran para el cumplimiento de objetivos.
 
-III. Identificar otros sectores sociales y alentar y facilitar su participación en la planeación democrática.
+II.- A la Jefatura de Proyectos Urbanos le corresponde:
 
-Al departamento de Edición y Divulgación le corresponde:
+1. Formular, evaluar y analizar proyectos de Infraestructura urbana, transporte, estructura vial, equipamiento; proyectos de creación, regeneración, remodelación, rehabilitación y revitalización urbana; proyectos de edificación;
 
-I. Sistematizar, procesar, redactar, homologar y editar la información de documentos temáticos municipales: Plan Municipal de Desarrollo, Plan Estratégico de Tijuana, Informes de Gobierno, Programas y Proyectos.
+2. Valorar y considerar los estudios de impacto vial, para la elaboración de sus proyectos;
 
-II. Recopilar y divulgar en medios impresos y electrónicos información de temas municipales y los que se generen en el Instituto.
+3. Coordinarse con las áreas que corresponda, para allegarse de la información y documentación necesarias para el adecuado cumplimiento de sus funciones;
 
-Al Departamento de Enlace con las OSC's le corresponde:
+4. Generar y dar seguimiento a la autorización de los proyectos elaborados;
 
-I. Promover y facilitar la participación de los organismos de la sociedad civil en la elaboración de políticas públicas integradas en el Plan Municipal de Desarrollo y Planes y Programas de Gobierno.
+5. Realizar los proyectos del sistema de transporte público, sistema de vialidades, sistema de ciclo vías, para la movilidad sustentable;
 
-II. Alentar la participación de los organismos de la sociedad civil en el seguimiento al Plan Municipal de Desarrollo y Planes y Programas de Gobierno.
+6. Promover proyectos de inversión que den solución a necesidades de la ciudadanía;
+
+7. Dar continuidad a programas definidos en planes y/o programas de mejoramiento urbano;
+
+8. Promover la construcción de edificios públicos por medio de asociaciones público-privada;
+
+9. Promover el rescate de espacios públicos;
+
+10. Crear enlace con dependencias de gobierno municipal que tienen injerencia en determinados proyectos;
+
+11. Colaborar con la Jefatura de Proyectos Arquitectónicos;
+
+12. Las demás que le correspondan y encomienden para el logro de objetivos.
 
 ###### Artículo 16.
 
@@ -333,7 +427,9 @@ III. Formular y proponer al Ayuntamiento los planes, programas y normas técnica
 
 IV. Formular, evaluar y actualizar los Programas de Desarrollo Urbano de Centro de Población; los Programas Parciales de Desarrollo Urbano y del Mejoramiento del Equilibrio Ecológico, sometiéndolos a la consideración del Ayuntamiento para su revisión y aprobación, así como los que sean expedidos con apego a la normatividad.
 
-V. Formular las propuestas de zonificación urbana así como las declaratorias de provisiones, usos, destinos y reservas de áreas y predios, para ser sometidos a la consideración del Ayuntamiento y, en su caso, de la Comisión Coordinadora de Desarrollo Urbano del Estado, para su revisión y aprobación.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+V. Formular, evaluar y actualizar los Programas de Desarrollo Urbano de Centro de Población; los Programas Parciales de Desarrollo Urbano y del Mejoramiento del Equilibrio Ecológico, sometiéndolos a la consideración del Ayuntamiento para su revisión y aprobación, así como los que sean expedidos con apego a la normatividad;
 
 VI. Realizar los estudios y gestiones necesarios que le sean solicitados por el Ayuntamiento dentro de los procesos de elaboración, ejecución, control, evaluación y revisión de los programas regionales de desarrollo urbano y de los convenios de coordinación que de ellos se deriven.
 
@@ -347,191 +443,279 @@ X. Realizar estudios, ensayos e investigación de los fenómenos físicos, socia
 
 XI. Realizar los estudios técnicos que se requieran para determinar y establecer las causas de utilidad pública conforme lo establecen las Leyes vigentes en la materia.
 
-XII. Elaborar, evaluar y aprobar los proyectos de infraestructura urbana, estructura vial, transporte, equipamiento y servicios públicos que requiera el Municipio, así como promover y dar seguimiento a la ejecución de los mismos.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-XIII. Formular, promover y convenir programas de estudios para la formación y capacitación del personal del Instituto y personas en general, en disciplinas afines a la administración pública y a la planeación, en coordinación con instituciones educativas, e impartir y recibir cursos en dichas materias.
+XII. Todas aquellas que, en apoyo a las dependencias de la administración pública municipal centralizada, le encomiende el Ayuntamiento o el Ejecutivo Municipal y sean inherentes a su objeto;
 
-XIV. Suscribir acuerdos de colaboración y celebrar convenios y contratos con entidades públicas y privadas o con personas físicas especializadas, para la realización de investigaciones, estudios y acciones conjuntas en materia de administración pública, fenómenos socioeconómicos, de planeación urbana, o alguna otra que sea de interés para el Municipio.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-XV. Proporcionar al Municipio el sustento técnico para la implementación de acciones en materia de desarrollo urbano, en los términos de las leyes en la materia.
+XIII. Recopilar, organizar y sistematizar las demandas y necesidades sociales de la población del municipio, en relación con los programas relativos al desarrollo urbano, considerando la diversidad regional, cultural, económica, social, ambiental e institucional, a través de foros, consultas y eventos. La información será comunicada a las entidades de la Administración Municipal correspondiente a través de la Presidencia, con copia al Sistema Estatal de Información, Documentación, Estadística y Cartografía de Baja California, para su integración en la base de datos Estatal;
 
-XVI. Difundir y comercializar información, estudios, planes, proyectos, ensayos, servicios y demás productos derivados de su actividad, que sean de interés general, susceptibles de ser publicados.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-XVII. Todas aquellas que, en apoyo a las dependencias de la administración pública municipal centralizada, le encomiende el Director General Ejecutivo, el Ayuntamiento o el Ejecutivo Municipal y sean inherentes a su objeto.
+XIV. Elaborar el Plan Estratégico Municipal y el Plan Municipal de Desarrollo, asegurando la congruencia conceptual y técnica entre ambos planes y sus horizontes temporales, con el predominio del primero; y congruencia y coordinación con la planeación Estatal y Federal;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XV. Levantar un inventario y elaborar un registro continuo de la obra pública que se ejecute en el Municipio, como información básica para la planeación, así como recopilar la documentación e información sobre los programas e iniciativas de los gobiernos Federal y Estatal relacionados con el Municipio o potencialmente de interés Municipal; la información será compartida con el Sistema Estatal de Información, Documentación, Estadística y Cartografía de Baja California;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XVI. Evaluar los Planes Municipales tomando en cuenta las propuestas de las dependencias y entidades de la administración pública Municipal, Estatal y Federal, organismos sociales y privados e instituciones educativas;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XVII. Promover la concertación de acuerdos de cooperación y colaboración entre los sectores público, social y privado, tendientes a orientar los esfuerzos al logro de los objetivos del Plan Municipal de Desarrollo y del Plan Estratégico Municipal;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XVIII. Realizar la interpretación de las cifras y estadísticas de los campos sociales y económicos para las decisiones en materia de planeación territorial. Se apoyará en los observatorios que se instalen para generar información;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XIX. Coordinar, revisar y ejecutar acciones de planeación territorial;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XX. Coordinar los observatorios urbanos que en su caso se instalen;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XXI. Las demás que por su naturaleza, sean de su competencia.
 
 ###### Artículo 17.
 
 La Dirección de Planeación Territorial, para el ejercicio de sus atribuciones contara con el apoyo de:
 
-El Departamento de Planeación Urbana,
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-Formular y proponer al Ayuntamiento políticas en materia de desarrollo urbano mediante la elaboración de planes, programas y normas técnicas necesarias respecto de infraestructura urbana, estructura vial, transporte, equipamiento y servicios públicos, para instrumentar la zonificación urbana, la preservación y restauración del equilibrio ecológico y la protección del ambiente de los centros de población, y definir los criterios de desarrollo urbano en la materia.
+I.- El Departamento de Planeación Urbana:
 
-Formular y proponer al Ayuntamiento las políticas y normas específicas de utilización del suelo y para la regularización de la tenencia de la tierra.
+1. Formular y proponer al Ayuntamiento políticas en materia de desarrollo urbano mediante la elaboración de planes, programas y normas técnicas necesarias respecto de infraestructura urbana, estructura vial, transporte, equipamiento y servicios públicos, para instrumentar la zonificación urbana, la preservación y restauración del equilibrio ecológico y la protección del ambiente de los centros de población, y definir los criterios de desarrollo urbano en la materia.
 
-Formular y proponer al Ayuntamiento los planes, programas y normas técnicas necesarias para la creación de reservas territoriales para el crecimiento, desarrollo y promoción de vivienda, así como de zonas sujetas a conservación y áreas de preservación ecológica.
+2. Formular y proponer al Ayuntamiento las políticas y normas específicas de utilización del suelo y para la regularización de la tenencia de la tierra.
 
-Formular, evaluar y actualizar los Programas de Desarrollo Urbano de Centro de Población; los Programas y Estudios Sectoriales, los Programas Parciales de Desarrollo Urbano y de Conservación y Mejoramiento del Equilibrio Ecológico, sometiéndolos a la consideración del Ayuntamiento para su revisión y aprobación, así como los que sean expedidos con apego a la normatividad.
+3. Formular y proponer al Ayuntamiento los planes, programas y normas técnicas necesarias para la creación de reservas territoriales para el crecimiento, desarrollo y promoción de vivienda, así como de zonas sujetas a conservación y áreas de preservación ecológica.
 
-Formular las propuestas de zonificación urbana así como las declaratorias de provisiones, usos, destinos y reservas de áreas y predios, para ser sometidos a la consideración del Ayuntamiento y, en su caso, de la Comisión Coordinadora de Desarrollo Urbano del Estado, para su revisión y aprobación.
+4. Formular, evaluar y actualizar los Programas de Desarrollo Urbano de Centro de Población; los Programas y Estudios Sectoriales, los Programas Parciales de Desarrollo Urbano y de Conservación y Mejoramiento del Equilibrio Ecológico, sometiéndolos a la consideración del Ayuntamiento para su revisión y aprobación, así como los que sean expedidos con apego a la normatividad.
 
-El Departamento de Sistemas de Información Geográfica,
+5. Formular las propuestas de zonificación urbana así como las declaratorias de provisiones, usos, destinos y reservas de áreas y predios, para ser sometidos a la consideración del Ayuntamiento y, en su caso, de la Comisión Coordinadora de Desarrollo Urbano del Estado, para su revisión y aprobación.
 
-Crear, actualizar, administrar y mantener los mecanismos para la operación del Sistema Municipal de Información Geográfica para la recopilación, concentración, procesamiento, resguardo, intercambio y difusión en su caso, de información con todos los sectores del municipio.
+6. Formular y actualizar el sistema normativo del desarrollo urbano; generar y proponer al Ayuntamiento, para su discusión y aprobación, instrumentos de planeación tales como reglamentos y normas técnicas en materia de desarrollo urbano, equilibrio ecológico y protección del ambiente, para la implementación de edificaciones y acciones de urbanización;
 
-El Departamento de Proyectos Urbanos
+7. Atender a desarrolladores, público en general y a los peritos urbanos en relación con los trámites que se realizan en el departamento;
 
-Elaborar, evaluar y aprobar los proyectos de infraestructura urbana, estructura vial, transporte, equipamiento y servicios públicos que requiera el Municipio, así como promover y dar seguimiento a la ejecución de los mismos.
+8. Analizar la información y documentación que se anexen a las solicitudes de opiniones técnicas;
 
-El Departamento de Ecología y Medio Ambiente
+9. Llevar a cabo inspecciones físicas, elaboración de las imágenes y documentos necesarios para posteriormente elaborar oficios de observaciones, dictámenes y opiniones técnicas;
 
-Formular y proponer al Ayuntamiento los planes, programas y normas técnicas necesarias para la creación de reservas territoriales para el crecimiento, desarrollo y promoción de vivienda, así como de zonas sujetas a conservación y áreas de preservación ecológica.
+10. Evaluar el contenido de estudios de impacto urbano;
 
-Formular, evaluar y actualizar los Programas de Desarrollo Urbano de Centro de Población; los Programas y Estudios Sectoriales, los Programas Parciales de Desarrollo Urbano y de Conservación y Mejoramiento del Equilibrio Ecológico, sometiéndolos a la consideración del Ayuntamiento para su revisión y aprobación, así como los que sean expedidos con apego a la normatividad.
+11. Coordinarse con los demás departamentos del Instituto o con personal de las dependencias de los ámbitos Municipales y Estatales, para el cumplimiento de objetivos;
 
-Formular y actualizar el sistema normativo del desarrollo urbano; generar y proponer al Ayuntamiento, para su discusión y aprobación, instrumentos de planeación tales como reglamentos y normas técnicas en materia de desarrollo urbano, equilibrio ecológico y protección del ambiente, para la implementación de edificaciones y acciones de urbanización.
+12. Realizar otras actividades en apoyo a la Dirección de Planeación Territorial.
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+II.- El Departamento de Sistemas de Información Geográfica:
+
+1. Crear, actualizar, administrar y mantener los mecanismos para la operación del Sistema Municipal de Información Geográfica para la recopilación, concentración, procesamiento, resguardo, intercambio y difusión en su caso, de información con todos los sectores del municipio;
+
+2. Levantar un inventario y elaborar un registro continuo de la obra pública que se ejecute en el Municipio, como información básica para la planeación, así como recopilar la documentación e información sobre los programas e iniciativas de los gobiernos Federal y Estatal relacionados con el Municipio o potencialmente de interés Municipal; la información será compartida con el Sistema Estatal de Información, Documentación, Estadística y Cartografía de Baja California.
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+III.- El Departamento de Ecología y Medio Ambiente:
+
+1. Formular y proponer al Ayuntamiento los planes, programas y normas técnicas necesarias para la creación de reservas territoriales para el crecimiento, desarrollo y (sic)
+
+promoción de vivienda, así como de zonas sujetas a conservación y áreas de preservación ecológica;
+
+2. Formular, evaluar y actualizar los Programas de Desarrollo Urbano de (sic) Centro de Población; los Programas y Estudios Sectoriales, los Programas Parciales de Desarrollo Urbano y de Conservación y Mejoramiento del Equilibrio Ecológico, sometiéndolos a consideración del Ayuntamiento para su revisión y aprobación, así como los que sean expedidos con apego a la normatividad.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IV.- El Departamento de Análisis Socioeconómico:
+
+1. Evaluar los Planes Municipales tomando en cuenta las propuestas de las dependencias y entidades de la administración pública Municipal, Estatal y Federal, organismos sociales y privados e instituciones educativas;
+
+2. Recopilar, organizar y sistematizar las demandas y necesidades sociales de la población del municipio, en relación con programas relativos al desarrollo urbano a cargo del IMPLAN, considerando la diversidad regional, cultural, económica, social, ambiental e institucional, a través de foros, consultas y eventos. La información será comunicada a las entidades de la Administración Municipal correspondiente a través de la Presidencia, con copia al Sistema Estatal de Información, Documentación, Estadística y Cartografía de Baja California, para su integración en la base de datos Estatal;
+
+3. Elaborar el Plan Estratégico Municipal y el Plan Municipal de Desarrollo, asegurando la congruencia conceptual y técnica entre ambos planes y sus horizontes temporales, con el predominio del primero; y congruencia y coordinación con la planeación Estatal y Federal;
+
+4. Realizar la interpretación de las cifras y estadísticas de los campos sociales y económicos para las decisiones en materia de planeación territorial. Se apoyará en los observatorios para generar información;
+
+5. Promover la concertación de acuerdos de cooperación y colaboración entre los sectores público, social y privado, tendientes a orientar los esfuerzos al logro de los objetivos del Plan Municipal de Desarrollo y del Plan Estratégico Municipal;
+
+6. Coordinar, revisar y ejecutar acciones de planeación territorial;
+
+7. Coordinar los observatorios urbanos que en su caso se instalen;
+
+8. Promover y facilitar la participación de los organismos de la sociedad civil en la elaboración de políticas públicas integradas en los Programas de Desarrollo Urbano de la ciudad;
+
+9. Las demás que se le confieran en apoyo de la Dirección de Planeación Territorial.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+V.- El Departamento de Movilidad:
+
+1. Analizar corredores urbanos, así como los comportamientos viales;
+
+2. Realizar análisis y Estudios para proponer modificaciones a la Estructura Vial;
+
+3. Realizar análisis, estudios y proyectos hasta el nivel conceptual de nuevas rutas ciclistas, ciclo vías, ciclo rutas o ciclo pistas;
+
+4. Realizar análisis para ubicación de zonas de ascenso y descenso de Transporte Público Análisis y Proyectos conceptuales de vías alternas por desviaciones de tránsito por obras o eventos en la vía pública;
+
+5. Proponer en base a estudios y el crecimiento de la ciudad las nuevas rutas de transporte que esta requiera;
+
+6. Revisar y valorar estudios de impacto vial;
+
+7. Generar información de parámetros de movilidad urbana;
+
+8. Colaborar con los otros Departamentos, y las demás que correspondan en apoyo de la Dirección de Planeación Territorial.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 18.
 
-Corresponden a la Dirección de Inversión y Proyectos Estratégicos, las siguientes atribuciones:
+Corresponden a la Dirección de Inversión, las siguientes atribuciones:
 
-1. Participar en la elaboración del Plan Fiscal, Financiero y de Inversiones y del Plan Operativo Anual de Inversiones en colaboración de la Secretaria de Administración y Finanzas.
+I. Asegurar los Fondos de Inversión e integrar y operar un Banco de Proyectos para la incorporación y funcionamiento del sistema de planeación municipal;
 
-2. Gestionar y concertar la asignación de fondos suficientes, tanto públicos como privados, para que el Municipio y sus entidades paramunicipales puedan ejecutar los programas y proyectos que se han trazado, en especial los que tienen que ver con la obra pública.
+II. Promover y vincular la elaboración de proyectos conforme a los principios y lineamientos establecidos en el Plan Municipal de Desarrollo, el Plan Estratégico Municipal, y los demás planes y programas que inciden en el territorio municipal y regional, así como el Plan Operativo Municipal;
 
-3. Asegurar los Fondos de Inversión e integrar y operar un Banco de Proyectos para la incorporación y funcionamiento del sistema de planeación municipal;
+III. Colaborar en la coordinación de la planeación y evaluación del desarrollo, en la integración y seguimiento de los programas operativos anuales en materia de inversión, y en el seguimiento de los proyectos de inversión estratégica;
 
-4. Definir los fundamentos y las bases para coordinar y hacer congruentes las actividades municipales con base a los lineamientos y planes nacional, estatal, regional y municipal;
+IV. Realizar por si o a través de terceros y presentar los estudios y justificación de las fuentes de financiamiento para la obtención de recursos destinados a la obra pública y proyectos estratégicos financieros;
 
-5. Promover y vincular la elaboración de proyectos conforme a los principios y lineamientos establecidos en el Plan Municipal de Desarrollo, el Plan Estratégico Municipal, y los demás planes y programas que intervienen en el territorio municipal y regional, así como el Plan Operativo Municipal;
+V. Coordinar, con los titulares de las Dependencias involucradas, la elaboración de la propuesta de inversión de los programas operativos anuales;
 
-6. Colaborar en la coordinación de la planeación y evaluación del desarrollo, en la integración y seguimiento de los programas operativos anuales en materia de inversión, y en el seguimiento de los proyectos de inversión estratégica.
+VI. Proponer a las dependencias encargadas de sector, aquellos proyectos que puedan considerarse estratégicos;
 
-7. Evaluar el presupuesto del Instituto por resultados.
+VII. Generar y mantener la base de datos que integran el Banco de Proyectos que asegure la gestión de recursos públicos y privados, nacionales e internacionales;
+
+VIII. Mantener la vinculación con las áreas de proyectos de los Gobiernos Estatales, Federales y organismos que tienen por objetivo fundamental generar la concurrencia de los recursos financieros para la realización de los diferentes proyectos que permiten el desarrollo económico y social del Municipio de Tijuana.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 19.
 
-La Dirección de Inversión y Proyectos Estratégicos, para el ejercicio de sus atribuciones contara con el apoyo de:
+La Dirección de Enlace, tiene a su cargo las siguientes atribuciones:
 
-El Departamento de Financiamiento,
+I. Asistir a el o la Director(a) General Ejecutivo(a) en los asuntos que le competen cuando le sea requerido, brindándole la asesoría que demande y coordinándose con élo (sic) ella en términos de tiempo y forma para la atención de los asuntos que le encomiende;
 
-El Departamento de Banco de Proyectos.
+II. Auxiliar a el o la Director(a) General Ejecutivo(a) en la implementación y fortalecimiento de las relaciones institucionales con organismos gubernamentales y no gubernamentales, promoviendo los acuerdos de colaboración que resulten necesarios;
 
-Al Departamento de Financiamiento corresponde:
+III. Coordinar actividades relacionadas a la integración y difusión de los programas del Instituto y de relaciones institucionales del mismo;
 
-1. Realizar por si o a través de terceros y presentar los estudios y justificación de las fuentes de financiamiento para la obtención de recursos destinados a la obra pública y proyectos estratégicos financieros;
+IV. Apoyar los procesos de vinculación que el o la Director(a) General Ejecutivo(a) llevará a cabo con la Junta de Gobierno, Consejo y autoridades públicas y privadas, generando los espacios favorables para el mejor desempeño de sus facultades;
 
-2. Coordinar, con los titulares de las Dependencias involucradas, la elaboración de la propuesta de inversión de los programas operativos anuales.
+V. Auxiliar a el o la Director(a) General Ejecutivo(a) en la instrumentación de convenios de promoción de programas de estudio para la formación y capacitación del personal del Instituto y personas en general, en disciplinas afines a la Administración pública y a la planeación, en coordinación con instituciones educativas;
 
-3. Elaborar la prospectiva de los requerimientos de inversión pública municipal.
+VI. Promover la Impartición y recepción de cursos en materias afines a los programas que desarrolla el Instituto;
 
-4. Proponer los esquemas para la contratación de endeudamiento de acuerdo a las leyes respectivas;
+VII. Auxiliar al Instituto en la difusión y desarrollo de programas de asesoría con Universidades locales, nacionales y extranjeras;
 
-5. Proponer convenios de colaboración, gestionando con las distintas instancias federales, estatales y municipales, así como organismos públicos y privados, recursos que coadyuven al logro de las metas y acciones de gobierno;
+VIII. Auxiliar a el o la Director(a) General Ejecutivo(a) en el diseño de las estrategias de promoción del Instituto, que demanden la ejecución de programas;
 
-Al Departamento de Banco de Proyectos corresponde:
+IX. Participar en la revisión de los convenios, contratos y demás instrumentos jurídicos que se requieran, en mérito de las funciones encomendadas al Instituto;
 
-1. Integrar, administrar y validar la cartera de programas y proyectos de inversión conforme a las prioridades señaladas en los planes y programas municipales, estatales y federales.
+X. Supervisar que el personal a su cargo cumpla adecuadamente con el proceso de sistematización, procesamiento, redacción, homologación y edición de la información de documentos temáticos municipales: Plan Municipal de Desarrollo, Plan Estratégico de Tijuana, Informes de Gobierno, Programas y Proyectos;
 
-2. Proponer a las dependencias encargadas de sector, aquellos proyectos que puedan considerarse estratégicos;
+XI. Supervisar las actividades relacionadas el (sic) proceso de recopilación y divulgación en medios impresos y electrónicos de la información de temas municipales y los que se generen en el Instituto.
 
-3. Generar y mantener la base de datos que integran el Banco de Proyectos que asegure la gestión de recursos públicos y privados, nacionales e internacionales.
-
-4. Mantener la vinculación con las áreas de proyectos de los Gobiernos Estatales, Federales y organismos que tienen por objetivo fundamental generar la concurrencia de los recursos financieros para la realización de los diferentes proyectos que permiten el desarrollo económico y social del Municipio de Tijuana.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 20.
 
-Corresponden a la Dirección de Evaluación y Control las siguientes atribuciones:
+La Dirección de Enlace, para el ejercicio de sus atribuciones contará con el apoyo de la Jefatura de Edición y Divulgación, a la cual le corresponde:
 
-1. Integrar, administrar y actualizar un sistema de evaluación e indicadores para la planeación, en conjunto con la Coordinación de Gabinete.
+1. Sistematizar, procesar, redactar, homologar y editar la información de documentos temáticos municipales: Plan Municipal de Desarrollo, Plan Estratégico de Tijuana, Informes de Gobierno, Programas y Proyectos;
 
-2. Determinar los indicadores de gestión, que nos permitirán dar seguimiento a los diferentes planes y programas.
+2. Recopilar y divulgar en medios impresos y electrónicos información de temas municipales y los que se generen en el Instituto.
 
-3. Evaluar la ejecución e impacto social del Plan Municipal de Desarrollo y de los programas municipales.
-
-4. Evaluar el desempeño de las diferentes instancias que conforman el Municipio sobre acciones específicas relacionadas con su apertura programática en coordinación con la Secretaria de Administración y Finanzas.
-
-5. Realizar trimestralmente la evaluación presupuestal y estratégica de gobierno
-
-6. Integrar un inventario y registro continuo de la obra pública que se ejecute en el municipio.
-
-7. Recopilar y evaluar trimestralmente la información para la evaluación de los avances de los planes, programas y proyectos
-
-8. Recopilar, procesar, evaluar y generar los resultados de los principales indicadores estadísticos del Ayuntamiento y el seguimiento de los proyectos prioritarios de gobierno
-
-9. Dar seguimiento a los proyectos estratégicos considerados prioritarios del ayuntamiento
-
-10. Apoyar en la elaboración del Informe Anual de Gobierno
-
-11. Difundir los resultados de la evaluación e indicadores
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 21.
 
-La Dirección de Evaluación y Control, para el ejercicio de sus atribuciones contara con el apoyo de:
+La Coordinación Administrativa y Financiera tiene a su cargo la Contabilidad, la Administración de los Recursos Humanos, Materiales y Financieros y las Licitaciones, ejerciendo las siguientes:
 
-El Departamento de Análisis
+I. Coordinar y supervisar la elaboración del presupuesto de egresos del Instituto, a partir de los lineamientos establecidos por sus órganos de Gobierno con base en los estados financieros del instituto;
 
-El Departamento de Control y Seguimiento.
+II. Supervisar el cumplimiento del presupuesto por programas;
 
-Corresponde al Departamento de Análisis
+III. Planea las solicitudes de aportaciones de fondos de la iniciativa privada, organismos municipales, estatales, federales y no gubernamentales, con base en el análisis del desarrollo de las diversas actividades y programas del Instituto;
 
-1. Coordinar el diseño de los indicadores que permitirán dar seguimiento a los diferentes planes y programas
+IV. Promover convenios y contratos con los proveedores autorizados por La Dirección General Ejecutiva, para el suministro de bienes y servicios que satisfagan las necesidades del Instituto, con base en la normatividad y reglamentación vigente;
 
-2. Instruir a las diferentes dependencias del Ayuntamiento, sobre el sistema de evaluación e indicadores
+V. Revisa la ejecución de obras y trabajo de mantenimiento de equipos y activos fijos, de acuerdo con el presupuesto y a partir de las necesidades aprobadas;
 
-3. Coordinar la integración de la información del Ayuntamiento para el registro de obra pública ejecutada en el municipio
+VI. Revisar los documentos de control de asistencia, base de la elaboración de la nómina del personal del Instituto, a partir de los reportes turnados por el Titular del Área Administrativa, con el fin de autorizar el pago por nómina de cada uno;
 
-4. Revisar y sistematizar la información estadística y geográfica relativa al Municipio y coordinar su integración
+VII. Supervisar la realización de inventarios de los bienes muebles, inmuebles y de consumo, verificando su actualización en el padrón respectivo;
 
-5. Coordinar estudios estratégicos que demanden las dependencias del Ayuntamiento, apoyando con metodologías y obtención de información
+VIII. Mantener contacto permanente con las dependencias gubernamentales que se requieran para la coordinación y resolución de situaciones administrativas diversas.
 
-6. Recopilar y evaluar trimestralmente la información para la evaluación del desempeño de las dependencias y los servidores públicos
+IX. Realizar proyectos especiales que le sean encargados por la Dirección General Ejecutiva del Instituto;
 
-7. Coordinar la elaboración de mapas temáticos por indicadores y promover su publicación
+X. Preparar y presentar a la Dirección General Ejecutiva, la documentación contable y financiera para las sesiones de la junta de gobierno;
 
-8. Divulgar los resultados de la evaluación e indicadores por medios digitales y facilitar su acceso y distribución
+XI. Colaborar con el o la directora(a) General Ejecutivo(a) y los o las Directores(as) de Área en la elaboración del proyecto anual de inversión, para ser presentado a la Junta de Gobierno;
 
-Corresponde al Departamento de Control y Seguimiento
+XII. Elaboración y control del presupuesto de Ingresos y Egresos del Instituto, en coordinación con todos los departamentos;
 
-1. Seguir y evaluar los resultados de los principales indicadores de avances del ayuntamiento y el seguimiento de los proyectos prioritarios de gobierno y el informe anual del Ejecutivo Municipal.
+XIII. Instrumentar periodos de revisión de los presupuestos de ingresos y egresos del Instituto;
 
-2. Evaluar los avances de los objetivos, estrategias y metas del Plan Municipal de Desarrollo, así como proponer modificaciones pertinentes
+XIV. Ejecutar las acciones de carácter presupuestal dadas a conocer por las direcciones en base a los programas autorizados;
 
-3. Presentar propuestas para el mejoramiento de los procesos administrativos y del control de las actividades de la administración municipal
+XV. Elaborar los análisis comparativos en función al gasto ejercido autorizado, con la finalidad de controlar excedentes;
 
-4. Coordinar enlaces en cada dependencia para la captura y recopilación de los avances
+XVI. Proporcionar información del presupuesto autorizado, gastos ejercidos, remanente presupuestal, o en su caso sobregiro, con la finalidad de proponer transferencias o incremento de recursos;
 
-5. Promover trimestralmente la información para la evaluación del desempeño de las dependencias y los servidores públicos
+XVII. Vigilar el adecuado comportamiento del gasto por unidades y programas;
 
-6. Promover trimestralmente la información para la evaluación de los avances de los planes, programas y proyectos
+XVIII. Instrumentar procedimientos de control interno para el correcto análisis e interpretación de la información financiera;
 
-7. Coordinar la consulta ciudadana y técnica de las diferentes instancias de gobierno.
+XIX. Evaluar el presupuesto del Instituto por resultados;
 
-DEL CONSEJO CIUDADANO CONSULTIVO
+XX. Apoyar a las dependencias fiscalizadoras en proporcionar información contable, así como la documentación que requieran tanto Sindicatura como la Contaduría Mayor de Haciendapor (sic) medio del Órgano de Fiscalización Superior del Estado de Baja California;
+
+XXI. Vigilar que se elaboren a sus tiempos establecidos los cheques para su pago correspondiente;
+
+XXII. Diseñar el sistema para el desarrollo del personal, en los términos de la normatividad vigente;
+
+XXIII. Instrumentar procedimientos de control y seguimiento para la implementación de un programa de bonos a empleados.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2016)</small>
+
+DEL CONSEJO CONSULTIVO CIUDADANO PARA EL DESARROLLO URBANO.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 22.
 
-El Consejo Ciudadano Consultivo tendrá como objetivos principales el opinar sobre los Planes, Programas de Planeación y Acuerdos de Coordinación encargado de su promoción, difusión, así como de gestionar su cumplimiento; será integrado en forma enunciativa pero no limitativa, como sigue:
+El Consejo Consultivo Ciudadano para el Desarrollo Urbano, tendrá como objetivos principales el opinar sobre los Planes, Programas de Planeación y Acuerdos de Coordinación encargado de su promoción, difusión, así como de gestionar su cumplimiento; será integrado en forma enunciativa pero no limitativa, como sigue:
 
-El Presidente Municipal y los titulares de las Secretarias de Desarrollo Urbano, de Desarrollo Social, de Desarrollo Económico, de Seguridad Publica; de Administración y Finanzas y del Instituto Metropolitano de Planeación.
+I. El Ejecutivo Municipal y los titulares de las Secretarías de Desarrollo Urbano, de Desarrollo Social, de Desarrollo Económico, de Seguridad Pública; de Administración y Finanzas y del Instituto Metropolitano de Planeación;
 
-Un representante de las siguientes dependencias, organismos, instituciones y organizaciones:
+II. Un representante de las siguientes dependencias, organismos, instituciones y organizaciones:
 
 Del Gobierno Federal.- representantes de los sectores de Desarrollo Social; de Economía; de Agricultura: de la Comisión Nacional del Agua, del INFONAVIT y de la Comisión Federal de Electricidad.
 
-Del Gobierno del Estado.- representantes de los sectores de Planeación; de Desarrollo Urbano, de Desarrollo Social, de Salud, de Educación, de Ecología y de Medio Ambiente.
+Del Gobierno del Estado.- representantes de los sectores de Planeación; de Desarrollo Urbano, de Desarrollo Social, de Salud, de Educación, de Seguridad Publica; de Ecología y de Medio Ambiente;
 
-Del Cabildo.- Los Regidores Presidentes de las Comisiones de Planeación; de Desarrollo Urbano; de Desarrollo Social; de Desarrollo Económico y de Seguridad Publica.
+Del Cabildo.- Los o las Regidores(as) Presidentes (as) de las Comisiones de Planeación; de Desarrollo Urbano; de Desarrollo Social; de Desarrollo Económico y de Seguridad Publica;
 
-De las Instituciones de Educación Superior.- De la Universidad Autónoma de Baja California, de la Universidad Iberoamericana. Cetys Universidad y del Colegio de la Frontera Norte.
+De las Instituciones de Educación Superior.- De la Universidad Autónoma de Baja California, de la Universidad Iberoamericana, Cetys Universidad y del Colegio de la Frontera Norte;
 
 De agrupaciones y colegios de profesionistas.- De Contadores, de Abogados, de Economistas, de Médicos; de Ingenieros Civiles y de Arquitectos; que serán invitados de acuerdo a la temática de la reunión.
 
-Del sector empresarial.- Del Consejo Coordinador Empresarial, del Consejo de Desarrollo Económico de Tijuana, del Comité de Turismo., (sic) los que serán invitados de acuerdo a la temática de la reunión.
+Del sector empresarial.- Del Consejo Coordinador Empresarial, del Consejo de Desarrollo Económico de Tijuana, del Comité de Turismo., los que serán invitados de acuerdo a la temática de la reunión;
 
 De las Organizaciones No Gubernamentales.- Invitadas según la temática de la reunión.
 
-Será el Presidente Municipal en su carácter de Presidente de la Junta de Gobierno del Instituto quien nombrara por primera vez de manera directa a los miembros del Consejo Ciudadano Consultivo.
+Será el Ejecutivo Municipal en su carácter de Presidente(a) de la Junta de Gobierno del Instituto quien nombrará por primera vez de manera directa a los miembros del Consejo Consultivo de la Ciudad.
 
 ###### Artículo 23.
 
@@ -539,13 +723,17 @@ La creación de los Comités Sectoriales y Comunitarios será llevada a cabo por
 
 GENERALIDADES
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 24.
 
-Las ausencias temporales de los titulares de las Unidades Administrativas serán cubiertas por el funcionario que designe el Director General Ejecutivo.
+Las ausencias temporales de los titulares de las Unidades Administrativas serán cubiertas por el o la funcionario(a) que designe el o la Director(a) General Ejecutivo(a).
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 25.
 
-Las relaciones laborales de los empleados y funcionarios del Instituto, se regirán por lo dispuesto en la Ley de Servicio Civil del Estado de Baja California y deberán observar la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Las relaciones laborales de los empleados y funcionarios del Instituto, se regirán por lo dispuesto en la Ley Federal del Trabajo y deberán observar la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 TRANSITORIOS:
 
@@ -566,3 +754,15 @@ Para todos los efectos legales a que haya lugar, se extiende la presente CERTIFI
 EL SECRETARIO DE GOBIERNO MUNICIPAL DEL H. XX AYUNTAMIENTO DE TIJUANA
 
 ALCIDE ROBERTO BELTRONES RIVERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DEL INSTITUTO METROPOLITANO DE PLANEACIÓN DE TIJUANA, BAJA CALIFORNIA, ASÍ COMO LA REFORMA AL ARTÍCULO 21 Y LA ADICIÓN DEL ARTÍCULO 13 QUATER DEL REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, MEDIANTE DICTAMEN XXI-CDPM-02/2015".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal, órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a la presente reforma.
