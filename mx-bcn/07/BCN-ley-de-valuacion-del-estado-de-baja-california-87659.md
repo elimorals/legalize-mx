@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-valuacion-del-estado-de-baja-california-87659"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-28"
-last_updated: "2011-10-28"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE VALUACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 28 de octubre de 2011.
 
@@ -39,9 +39,11 @@ LEY DE VALUACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley y sus normas reglamentarias son de interés público y social y de observancia general en todo el territorio del Estado de Baja California. Su aplicación compete al titular del Ejecutivo del Estado por conducto de la Secretaría General de Gobierno.
+Las disposiciones de esta Ley y sus normas reglamentarias son de interés público y social y de observancia general en todo el territorio del Estado de Baja California. Su aplicación compete al titular del Ejecutivo del Estado por conducto de la Dirección de Control y Evaluación Gubernamental.
 
 ###### Artículo 2.
 
@@ -55,7 +57,13 @@ III. Valuador: La persona autorizada como tal por el Consejo Estatal de Valuaci�
 
 IV. Registro: Al Registro Estatal de Valuadores; y
 
-V. Secretaría: Secretaria General de Gobierno.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+V. Dirección: Dirección de Control y Evaluación Gubernamental; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2016)</small>
+
+VI. Comisión: A la Comisión Estatal de Avalúos.
 
 ###### Artículo 3.
 
@@ -71,7 +79,9 @@ IV. Establecer el Registro Estatal de Valuadores;
 
 V. Definir los derechos y obligaciones de los Valuadores;
 
-VI. Establecer el Consejo Estatal de Valuación y la Comisión Estatal de Avalúos; así como definir las bases para su integración, organización y funcionamiento;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+VI. Establecer el Consejo Estatal de Valuación y la Comisión; así como definir las bases para su integración, organización y funcionamiento;
 
 VII. Establecer los lineamientos técnicos y jurídicos mínimos que deberán observar los Valuadores al emitir avalúos en los que intervengan, los cuales deberán determinar de manera óptima e integral el valor de los bienes o derechos objeto de la valuación; y
 
@@ -123,51 +133,71 @@ III. Las condiciones y normas para realizar avalúos en las diferentes especiali
 
 ### CAPÍTULO III. DEL REGISTRO ESTATAL DE VALUADORES
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 12.
 
-Se establece el Registro Estatal de Valuadores, como un medio de consulta y control del ejercicio de la valuación como actividad profesional en el Estado, que estará a cargo de la Secretaría.
+Se establece el Registro Estatal de Valuadores, como un medio de consulta y control del ejercicio de la valuación como actividad profesional en el Estado, que estará a cargo de la Dirección.
 
 ###### Artículo 13.
 
 Para ser considerado como Valuador en el Estado, los interesados deberán inscribirse en el Registro Estatal de Valuadores.
 
-Para lograr lo anterior, se deberá presentar solicitud por escrito ante la Secretaría, la petición deberá estar acompañada de los documentos que acrediten el cumplimiento de los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
+Para lograr lo anterior, se deberá presentar solicitud por escrito ante la Dirección, la petición deberá estar acompañada de los documentos que acrediten el cumplimiento de los siguientes requisitos:
 
 I. Tener título profesional en cualquiera de las profesiones que el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social del Estado de Baja California reconozcan como afín a la valuación profesional, en los términos que precisen los Reglamentos de esta Ley;
 
 II. Tener cédula personal con efectos de patente para el ejercicio profesional expedido por la Secretaría de Educación Pública de la Federación, del título profesional señalado en la fracción anterior;
 
-III. Tener cédula personal de estudios de posgrado en Valuación, expedida por la Secretaría de Educación Pública de la Federación;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+III. Tener cédula personal de estudios de posgrado en Valuación afín a la Licenciatura o carrera de la cédula profesional expedida al efecto por la Secretaría de Educación Pública de la Federación;
 
 IV. Contar con el Registro Profesional Estatal, conforme a la Ley de Ejercicio de las Profesiones para el Estado de Baja California;
 
 V. Tener residencia en el Estado;
 
-VI. Tener oficina para el desempeño de la actividad de Valuador en el Estado;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-VII. Cubrir los derechos correspondientes, y
+VI. Tener oficina para el desempeño de la actividad de Valuador en el Estado; y
 
-VIII. En el caso de los Corredores Públicos, además de los requisitos establecidos en las fracciones anteriores, deberán contar con Título de habilitación que los autoriza a fungir como perito valuador, expedido por el Ejecutivo Federal a través de la Dependencia Federal facultada para ello, registrado ante la Dirección de Registro Público de la Propiedad y de Comercio del Estado de Baja California.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+VII. Cubrir los derechos correspondientes.
+
+VIII. (REFORMADA [N. DE. DEROGADA, VÉASE PÁGINA 17 DE LA PUBLICACIÓN OFICIAL], P.O. 11 DE MARZO DE 2016)
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 14.
 
-La Secretaría, recibirá la solicitud acompañada de los documentos a que se refiere el artículo anterior, debiendo turnarlos de inmediato al Consejo, quien examinará si el solicitante cumple con los requisitos señalados por esta Ley. En caso de que algún requisito quede sin satisfacer, la Secretaría se lo hará saber al interesado, otorgándole un plazo de cinco días hábiles para cubrirlo, contados a partir de la fecha de notificación del requerimiento respectivo; apercibiéndolo que de no satisfacerlo en el plazo señalado, será desechada su solicitud.
+La Dirección, recibirá la solicitud acompañada de los documentos a que se refiere el artículo anterior, debiendo turnarlos de inmediato al Consejo, quien examinará si el solicitante cumple con los requisitos señalados por esta Ley. En caso de que algún requisito quede sin satisfacer, la Dirección se lo hará saber al interesado, otorgándole un plazo de cinco días hábiles para cubrirlo, contados a partir de la fecha de notificación del requerimiento respectivo; apercibiéndolo que de no satisfacerlo en el plazo señalado, será desechada su solicitud.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 15.
 
-El Consejo, examinará la solicitud y documentos anexos y emitirá su dictamen de resolución, el que enviará a la Secretaría para que ésta resuelva en definitiva lo procedente.
+El Consejo, examinará la solicitud y documentos anexos y emitirá su dictamen de resolución, el que enviará a la Dirección para que ésta resuelva en definitiva lo procedente.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 16.
 
-En caso de que la Secretaría conceda la inscripción, en un plazo de que no excederá de veinte días hábiles, contados a partir de la fecha en que el Consejo le haya turnado su dictamen de resolución, la asentará en el Registro y procederá a expedir a favor del interesado la autorización correspondiente, asignándole su número de registro respectivo, para que pueda ejercer la valuación como actividad profesional en el Estado, en la especialidad que haya acreditado de acuerdo a la clasificación establecida en el artículo 18 de esta Ley.
+En caso de que la Dirección conceda la inscripción, en un plazo de que no excederá de veinte días hábiles, contados a partir de la fecha en que el Consejo le haya turnado su dictamen de resolución, la asentará en el Registro y procederá a expedir a favor del interesado la autorización correspondiente, asignándole su número de registro respectivo, para que pueda ejercer la valuación como actividad profesional en el Estado, en la especialidad que haya acreditado de acuerdo a la clasificación establecida en el artículo 18 de esta Ley.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 17.
 
-En caso de que la Secretaría niegue la inscripción en el Registro, deberá notificarlo por escrito al solicitante, fundando y motivando debidamente las causas de tal resolución.
+En caso de que la Dirección niegue la inscripción en el Registro, deberá notificarlo por escrito al solicitante, fundando y motivando debidamente las causas de tal resolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 18.
 
-La autorización para ser inscrito en el Registro que otorgue la Secretaría, de acuerdo a la naturaleza de los bienes a valuar, se clasifica en las siguientes especialidades:
+La autorización para ser inscrito en el Registro que otorgue la Dirección, de acuerdo a la naturaleza de los bienes a valuar, se clasifica en las siguientes especialidades:
 
 I. Valuador en Bienes Inmuebles, tanto en Terrenos como Construcciones;
 
@@ -189,21 +219,27 @@ IX. Valuador de Monedas y Sellos Postales; y
 
 X. Valuador en otras Especialidades Específicas.
 
-Al otorgarse al Valuador su inscripción en el Registro, se otorgará la categoría: “A” a aquellos que comprueben haber acreditado, como mínimo cuarenta horas de educación continua impartida por una asociación profesional de valuadores o institución académica con reconocimiento oficial. Los Valuadores que demuestren menor tiempo de capacitación tendrán la categoría: "B".
+> <small>[N. DE E. VÉASE LITERALIDAD EN LA PÁGINA 18 DE LA PUBLICACIÓN OFICIAL]</small>
 
-Las categorías indicadas en el párrafo anterior, sólo son para indicar horas de capacitación adicional a la formación profesional, por lo que no se pueden restringir con base a esta clasificación ninguno de los derechos otorgados por esta Ley a los Valuadores.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+Al otorgarse al Valuador su inscripción en el Registro, se otorgará la especialidad y categoría, a aquellos que comprueben haber cumplido con el reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 19.
 
-La Secretaría, expedirá anualmente a todos los Valuadores inscritos en el Registro, una credencial oficial que los acredite como tal. Las características de esta identificación se especificarán en los reglamentos de esta Ley.
+La Dirección, expedirá anualmente a todos los Valuadores inscritos en el Registro, una credencial oficial que los acredite como tal. Las características de esta identificación se especificarán en los reglamentos de esta Ley.
 
 ###### Artículo 20.
 
 Los Valuadores a quienes se les haya otorgado su inscripción en el Registro, sólo podrán ser privados del mismo cuando hayan sido sancionados en términos de las disposiciones de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 21.
 
-En el mes de enero de cada año, la Secretaría publicará en el Periódico Oficial del Gobierno del Estado de Baja California, el Padrón de Valuadores inscritos en el Registro, expresando sus nombres, direcciones, número de registro, especialidad y datos profesionales.
+En el mes de enero de cada año, la Dirección publicará en el Periódico Oficial del Gobierno del Estado de Baja California, el Padrón de Valuadores inscritos en el Registro, expresando sus nombres, direcciones, número de registro, especialidad y datos profesionales.
 
 El Consejo, mantendrá en funcionamiento permanente una página institucional de internet, que permita la consulta pública de la información señalada en el párrafo anterior.
 
@@ -239,11 +275,15 @@ III. Establecer su oficina, en el lugar de su domicilio legal registrado para el
 
 IV. Abstenerse de intervenir en los asuntos en que tenga un interés directo o indirecto, así como en aquellos en que tenga interés cualquiera de sus parientes consanguíneos en línea recta sin limitación de grado, o colateral dentro del cuarto grado, o afín dentro del segundo; así como en los asuntos en que tenga pública amistad o enemistad con las partes o relación civil o mercantil entre ellas;
 
-V. Solicitar anualmente el refrendo de su registro ante la Secretaría;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+V. Solicitar anualmente el refrendo de su registro ante la Dirección;
 
 VI. Proporcionar al Consejo, la información que se le requiera en los términos de esta Ley y sus reglamentos;
 
-VII. Proporcionar a la Secretaría los datos que permitan mantener actualizado el Registro;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VII. Proporcionar a la Dirección los datos que permitan mantener actualizado el Registro;
 
 VIII. Respetar las normas reglamentarias que regulen la realización de avalúos;
 
@@ -263,25 +303,37 @@ Los Valuadores inscritos en el Registro, no podrán emitir avalúos, ni ejercer 
 
 ### CAPÍTULO V. DEL CONSEJO ESTATAL DE VALUACIÓN
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 25.
 
-La Secretaría se auxiliará para los efectos de la administración, control y manejo del Registro, del Consejo.
+La Dirección se auxiliará para los efectos de la administración, control y manejo del Registro, del Consejo.
 
 ###### Artículo 26.
 
 El Consejo estará integrado de la siguiente manera:
 
-I. Un Presidente, que será un representante de la Secretaría de General de Gobierno;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-II. Un Vicepresidente, que será un representante de la Secretaría de Planeación y Finanzas;
+l. Un Presidente, que será un representante de la Dirección;
 
-III. Un Secretario Técnico, que será el Director de la Comisión Estatal de Avalúos; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-IV. Siete Vocales, que serán: Un representante de la Secretaría de Infraestructura y Desarrollo Urbano, el Titular del Departamento de Profesiones de la Secretaría de Educación Pública y Bienestar Social del Estado, un representante de la Universidad Autónoma del Estado de Baja California, el presidente de la asociación de Corredores Públicos con mayor número de integrantes en el Estado y los tres presidentes de las asociaciones de profesionistas dedicados a la Valuación con mayor número de miembros, que se constituyan en la Entidad, conforme a la Ley de Ejercicio de las Profesiones para el Estado.
+II. Un Vicepresidente, que será un representante de la Secretaría de Infraestructura y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+III. Un Secretario Técnico, que será el Jefe del Área técnica de la Comisión; y
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IV.- Cinco Vocales, que serán: Un representante por cada uno de los Ayuntamientos de Baja California nombrados por el Ejecutivo del Estado, a partir de ternas propuestas por cada ayuntamiento.
 
 Cada uno de los integrantes del Consejo podrá nombrar a su respectivo suplente.
 
-Los funcionarios designados para la conformación del Consejo, deberán contar con los requisitos previstos por el artículo 13, fracciones I, II, y IV de esta Ley.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+Los funcionarios designados para la conformación del Consejo, deberán contar con los requisitos previstos por el artículo 13, fracciones I, II y IV de esta Ley y desempeñarán su encargo sin derecho a la percepción de honorario o emolumento alguno por tales servicios.
 
 El Presidente del Consejo, por sí o a propuesta de sus integrantes, podrá convocar a las sesiones del Consejo como invitados, a otros funcionarios públicos de los tres órdenes de Gobierno, a representantes de instituciones educativas, académicas, especialistas y otras que, por la naturaleza de los asuntos a tratar, puedan aportar conocimientos o experiencia en materia de valuación que ilustre al Consejo.
 
@@ -379,7 +431,9 @@ VII. Promover y coordinar acciones y programas de capacitación y actualización
 
 VIII. Coordinar trabajos técnicos y de investigación científica relacionados con la materia de la valuación;
 
-IX. Examinar las solicitudes de inscripción en el Registro, que le envíe la Secretaría, emitiendo su dictamen de resolución al respecto y someterlo a la consideración y valoración definitiva de dicha dependencia;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IX. Examinar las solicitudes de inscripción en el Registro, que le envíe la Dirección, emitiendo su dictamen de resolución al respecto y someterlo a la consideración y valoración definitiva de dicha dependencia;
 
 X. Solicitar a los Valuadores la información adicional que requiera con relación a un avalúo en particular, en la investigación de una situación de controversia;
 
@@ -395,9 +449,11 @@ XV. Las demás que le confiera esta Ley y demás disposiciones legales aplicable
 
 ### CAPÍTULO VI. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 35.
 
-Todo acto u omisión de los Valuadores que contravengan lo dispuesto por esta Ley y sus reglamentos, será sancionado por la Secretaría previa opinión del Consejo, previo el otorgamiento del derecho de audiencia al Valuador, señalado como presunto infractor.
+Todo acto u omisión de los Valuadores que contravengan lo dispuesto por esta Ley y sus reglamentos, será sancionado por la Dirección previa opinión del Consejo, previo el otorgamiento del derecho de audiencia al Valuador, señalado como presunto infractor.
 
 ###### Artículo 36.
 
@@ -443,15 +499,19 @@ La aplicación del presente capítulo así como las impugnaciones en contra de l
 
 ### CAPÍTULO VII. DE LA COMISIÓN ESTATAL DE AVALÚOS
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 38.
 
-La Comisión Estatal de Avalúos será la encargada de practicar los avalúos de bienes o derechos, cuando el Gobierno del Estado o alguna de las dependencias o entidades de la Administración Pública Estatal sean parte en las operaciones que se realicen. Dichos avalúos se realizarán en forma gratuita.
+La Comisión será la encargada de practicar los avalúos de bienes o derechos, cuando el Gobierno del Estado o alguna de las dependencias o entidades de la Administración Pública Estatal sean parte en las operaciones que se realicen. Dichos avalúos se realizarán en forma gratuita.
 
-La Comisión Estatal de Avalúos, además de practicar los avalúos que le soliciten, podrá verificar los que le sean sometidos a su consideración y dictamen.
+La Comisión, además de practicar los avalúos que le soliciten, podrá verificar los que le sean sometidos a su consideración y dictamen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 39.
 
-La Comisión Estatal de Avalúos funcionará como cuerpo colegiado y se integrará de la siguiente forma:
+La Comisión funcionará como cuerpo colegiado y se integrará de la siguiente forma:
 
 I. Un Director, que será designado y removido por el Ejecutivo del Estado quien lo presidirá;
 
@@ -463,13 +523,21 @@ IV. Un representante de los Colegios de Valuadores constituidos en la Entidad co
 
 Cada representante tendrá un suplente, que será designado en la misma forma que los titulares.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
+
+Cuando así lo considere necesario, la Comisión podrá invitar a formar parte de la misma con derecho a voz pero sin voto, a otros funcionarios públicos de los tres órdenes de gobierno a representantes de instituciones educativas, académicas, especialistas y otras que, por la naturaleza de los asuntos a tratar, puedan aportar conocimientos o experiencia en materia de valuación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 40.
 
-Los integrantes de la Comisión Estatal de Avalúos, a que se refieren las fracciones III y IV del artículo anterior, serán designados por el Ejecutivo del Estado, a partir de ternas que deberán presentarle, por una parte, los colegios de arquitectos y de ingenieros civiles registrados ante el Departamento de Profesiones y por la otra los colegios o asociaciones de valuadores que cuenten con registro ante el Departamento de Profesiones. Las personas propuestas deberán cumplir con los siguientes requisitos:
+Los integrantes de la Comisión, a que se refieren las fracciones III y IV del artículo anterior, serán designados por el Ejecutivo del Estado, a partir de ternas que deberán presentarle, por una parte, los colegios de arquitectos y de ingenieros civiles registrados ante el Departamento de Profesiones y por la otra los colegios o asociaciones de valuadores que cuenten con registro ante el Departamento de Profesiones. Las personas propuestas deberán cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Tener por lo menos 30 años cumplidos al momento de su designación;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+II. Tener 5 años mínimos de experiencia como perito valuador al momento de su designación;
 
 III. Ser ingeniero civil o arquitecto en los términos que precisen los Reglamentos de esta Ley;
 
@@ -487,9 +555,11 @@ IX. No encontrarse inhabilitado para ejercer el comercio; y
 
 X. Tener residencia en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 41.
 
-La Comisión Estatal de Avalúos tendrá las siguientes atribuciones:
+La Comisión tendrá las siguientes atribuciones:
 
 I. Practicar los avalúos que sean sometidos a su dictamen, respecto de bienes, derechos o justipreciaciones de rentas, que sean sometidos a su dictamen, cuando el Gobierno del Estado o alguna de las dependencias o entidades de la Administración Pública Estatal sean parte en las operaciones que se realicen.
 
@@ -505,9 +575,11 @@ VI. Proponer al Ejecutivo del Estado, los proyectos de normas, políticas, linea
 
 VII. Las demás que le confieran las disposiciones legales y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 42.
 
-No podrá efectuarse ninguna enajenación de bienes del Gobierno del Estado o donde participe alguna de las dependencias o entidades de la Administración Pública Estatal, a un precio inferior al fijado por la Comisión Estatal de Avalúos.
+No podrá efectuarse ninguna enajenación de bienes del Gobierno del Estado o donde participe alguna de las dependencias o entidades de la Administración Pública Estatal, a un precio inferior al fijado por la Comisión.
 
 Tratándose de adquisiciones, el precio de los bienes que se adquieran por las dependencias o entidades de la Administración Pública Estatal no podrá ser superior al establecido en el avalúo que emita la Comisión.
 
@@ -515,13 +587,17 @@ Tratándose de adquisiciones, el precio de los bienes que se adquieran por las d
 
 La vigencia de un avalúo no podrá exceder de un año contado a partir de la fecha de su aprobación.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 44.
 
-La organización y funcionamiento de la Comisión Estatal de Avalúos, así como las unidades auxiliares, las remociones y sanciones administrativas quedarán previstas en el Reglamento.
+La organización y funcionamiento de la Comisión, así como las unidades auxiliares, las remociones y sanciones administrativas quedarán previstas en el Reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 45.
 
-La Comisión Estatal de Avalúos llevará a cabo sus trabajos valuatorios, conforme a las bases, metodología y criterios de carácter técnico que para tal efecto expida el Ejecutivo del Estado.
+La Comisión llevará a cabo sus trabajos valuatorios, conforme a las bases, metodología y criterios de carácter técnico que para tal efecto expida el Ejecutivo del Estado
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -543,7 +619,7 @@ PROFR. ALFONSO GARZÓN ZATARAIN
 
 DIPUTADO SECRETARIO
 
-DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, IMPRÍMASE Y PUBLíQUESE.
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, IMPRÍMASE Y PUBLÍQUESE.
 
 MEXICALI, BAJA CALIFORNIA, A LOS VEINTIUN DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL ONCE.
 
@@ -554,3 +630,11 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 451 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 1, 2, 3, 12, 13, 14, 15, 16, 17, 18, 19, 21, 23, 25, 26, 34, 35, 38, 39, 40, 41, 42, 44 Y 45 DE LA LEY DE VALUACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Baja California.
