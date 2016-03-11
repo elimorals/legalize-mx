@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-limpia-para-el-municipio-de-tijuana-baja-3143"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-11-20"
-last_updated: "2013-04-19"
+last_updated: "2016-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el miércoles 20 de noviembre de 1991.
 
@@ -548,3 +550,13 @@ PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MIS
 SEGUNDO: SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
 
 TERCERO.- UNA VEZ DEBIDAMENTE PUBLICADO NOTIFIQUESE POR MEDIO DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL, A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINISTRACION, PARA LA IMPLEMENTACIÓN INMEDIATA DE LAS REFORMAS APROBADAS.
+
+P.O. 11 DE MARZO DE 2016.
+
+> <small>[N. DE E. SE TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, MEDIANTE DICTAMEN XXI-GL-23/2016”.]</small>
+
+PRIMERO.- Publíquese el Reglamento que se aprueba, en el Periódico Oficial del Gobierno del Estado y/o Gaceta Municipal órgano de difusión del Ayuntamiento de Tijuana, Baja California, para el conocimiento de los ciudadanos.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Una vez debidamente publicado, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta Administración, para la implementación inmediata de las reformas aprobadas.
