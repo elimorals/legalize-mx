@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2015-07-31"
+last_updated: "2016-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -128,6 +128,14 @@ VII.- Atenderá de manera especial, las escuelas en las que se imparta educació
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE ENERO DE 2012)</small>
 
 VIII.- Dará acceso a uniformes escolares gratuitos por ciclo escolar a alumnos de escasos recursos inscritos en las escuelas públicas del Estado, en los niveles de preescolar, primaria y secundaria.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IX.- Establecerá los criterios para recomendar y autorizar a través de la Secretaría de Educación y Bienestar Social, el color y las características de los uniformes escolares en escuelas públicas y particulares de los niveles de educación básica y media superior, tomando en consideración:
+
+a).- Las autoridades escolares no condicionarán el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes con distintivos especiales y demás objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos comerciales específicos.
+
+b).- Los padres de familia o tutores adquirirán los materiales educativos y uniformes en donde más les convenga, sin que se les pueda obligar a comprarlos en establecimientos o marcas determinados.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -2024,3 +2032,9 @@ P.O. 31 DE JULIO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado realizará las modificaciones a los Reglamentos correspondientes en los ciento veinte días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 448 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5, POR LA QUE SE ADICIONA UNA FRACCIÓN IX, Y LOS INCISOS A) Y B), A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
