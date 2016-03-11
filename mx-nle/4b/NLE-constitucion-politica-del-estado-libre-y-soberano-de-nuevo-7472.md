@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2016-02-22"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -863,19 +863,15 @@ En los períodos extraordinarios a que se convoque a la Legislatura, ésta sólo
 
 Si el período extraordinario de sesiones se prolonga hasta el tiempo en que deba comenzar el ordinario, cesará aquél y durante éste se despacharán preferentemente los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Art. 62.
 
-Los Secretarios del Despacho del Ejecutivo, así como el Procurador General de Justicia del Estado, podrán ocurrir al Congreso, previa autorización del Gobernador del Estado, para informar sobre los asuntos de su ramo.
+Los Secretarios del Despacho del Ejecutivo, así como el Procurador General de Justicia del Estado, el Coordinador Ejecutivo, los titulares de organismos descentralizados, fideicomisos públicos del Estado, así como los titulares de organismos autónomos, ocurrirán al Congreso para informar sobre asuntos de su competencia cuando sean requeridos por éste.
 
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+Igualmente, el Congreso podrá hacer comparecer a cualquiera de dichos servidores públicos para que expongan sus puntos de vista sobre asuntos de importancia sustancial y de la materia de su competencia, cuando se discuta una iniciativa de ley o decreto que les concierna.
 
-Siguiendo el mismo procedimiento, el Congreso podrá citar a cualquiera de dichos Funcionarios para que exponga sus puntos de vista sobre asuntos de importancia substancial y de la materia de su competencia, cuando se discuta una iniciativa de ley o decreto que les concierna.
-
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
-
-Los Magistrados del Tribunal Superior de Justicia del Estado únicamente ocurrirán para los casos a que se refieren las fracciones XVI y XXVIII del artículo 63 de esta Constitución.
+Los Magistrados del Tribunal Superior de Justicia del Estado y los Magistrados del Tribunal de Justicia Administrativa del Estado, únicamente ocurrirán para los casos a que se refieren las fracciones XVI, XXII, XXVIII y XLV del artículo 63 y del Artículo 99 de esta Constitución, según corresponda en cada caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -14947,7 +14943,7 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 20 DE NOVIEMBRE DE 1992.
 
-UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE MARZO DE 1993.
 
@@ -15498,3 +15494,9 @@ P.O. 22 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 079. SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 078. SE REFORMA EL ARTICULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
