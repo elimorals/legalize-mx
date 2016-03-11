@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-regular-las-actividades-que-realizan-los-2774"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-10"
-last_updated: "2014-10-31"
+last_updated: "2016-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES, DE PUESTOS FIJOS Y SEMI-FIJOS, Y LOS DE MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de octubre de 1992.
 
@@ -49,6 +49,20 @@ El presente Reglamento se encuentra normado por la Ley Organica de la Administra
 
 Las disposiciones contenidas en este Reglamento tendran como materia dentro de la circunscripcion del Municipio de Tijuana, B. C., la organizacion y regulacion de la actividad mercantil o de prestacion de servicios licitos con relacion a las personas fisicas que hagan del comercio ambulante, comercio en puestos fijos o semifijos, y el comercio en los Mercados sobre Ruedas su ocupacion transitoria o habitual, sin que del resultado del desarrollo de tales actividades se puedan contravenir disposiciones legales que regulen el Desarrollo Urbano, la Salubridad General y la Ecologia y Proteccion al Ambiente, correspondiendo la aplicacion y vigilancia en la esfera administrativa de las disposiciones a que se refiere el presente Reglamento, a la Autoridad Municipal conforme a su ambito competencial y atribuciones que le son conferidas por las Constituciones Federal y Local, y la Ley Organica de la Administracion Publica Municipal en vigor.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
+
+ARTICULO 2o BIS.- Para efectos de este Reglamento se entenderá:
+
+I.- Ayuntamiento: Ayuntamiento de Tijuana, Baja California.
+
+II.- Gobierno Estatal: Gobierno del Estado de Baja California.
+
+III.- Municipio: Municipio de Tijuana, Baja California.
+
+IV.- Reglamento: Reglamento Para Regularlas (sic) Actividades Que Realizan Los Comercian (sic) Ambulantes, De Puestos Fijos y Semifijos, Y Los De Mercados Sobre ruedas Para El Munici (sic) De Tijuana.
+
+V.- Reincidencia: reiteración de una misma falta.
+
 ###### ARTICULO 3o.
 
 A efecto de la debida aplicacion del presente Reglamento, se consideraran como actividades comerciales o prestacion de servicios de cualquier genero, todos aquellos actos que esten permitidos por la Ley y no vayan contra la moral y las buenas costumbres, o en detrimento de la salud publica, los ecosistemas, y la seguridad publica, que ejecuten dentro de los limites del Municipio, las personas fisicas que, con establecimiento semifijo o sin el, de una manera habitual o accidental, realicen actos de comercio o explotacion de algun giro, u obtengan de algun modo ingresos por el Ejercicio de Actividades Comerciales.
@@ -61,49 +75,59 @@ I.- VENDEDOR AMBULANTE: Es el comerciante debidamente autorizado, que transita p
 
 II.- VENDEDOR AMBULANTE CON VEHICULO: Es el comerciante debidamente autorizado, que utiliza en su actividad muebles rodantes de cualquier tipo, no se estaciona en forma permanente en un solo lugar, sino que solo lo hace para brindar atencion a quien le solicita el producto o mercancia que expende o el servicio que presta;
 
-III.- VENDEDOR CON PUESTO SEMIFIJO: Es el comerciante debidamente autorizado, que ejerce su actividad instalando muebles en la via publica, los cuales retira al concluir sus labores del dia, para instalarlos nuevamente en la jornada siguiente de acuerdo a la ubicacion y horario establecido en su permiso;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
+III.- VENDEDOR CON PUESTO SEMIFIJO: Es el comerciante debidamente autorizado, que ejerce su actividad sobre un vehículo de motor, remolque, lonchera rodante o cualquier otra estructura mueble que permanezca fija en la vía pública, durante el periodo de la jornada autorizada, retirándola al concluir sus labores del día, para colocarlos nuevamente en la jornada siguiente de acuerdo a la ubicación y horario establecido en su permiso;
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
+
+En caso de que el vendedor con puesto semi-fijo se encontrare realizando sus actividades de comercio dentro de un terreno privado o público que cuente con los permisos de operación para dicho fin, permitiendo que el mueble no tenga que ser removido al final de la jornada, para efecto de este reglamento se considerara como comercio establecido, de conformidad con l (sic) establecido en los términos del artículo 27 del Reglamento para el Funcionamientos (sic) de giros comerciales, industriales y de prestación de servicios para el municipio de Tijuana, Baja California. En caso de que el puesto semifijo bajo esta modalidad sea trasladado a la vía pública para acudir a algún evento, deberá de cumplir con todas y cada una de las disposiciones establecidas por este Reglamento.
 
 IV.- VENDEDOR EN MERCADO SOBRE RUEDAS: Es el comerciante debidamente autorizado, que participando con un grupo de comerciantes, se estaciona en un lugar especifico de la via publica un determinado dia de la semana, con sujecion a las condiciones fijadas en su permiso y bajo los condicionantes y regulaciones que en lo especifico establece el presente Reglamento, para el expendio de mercancias o prestacion de servicios al publico.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 5o.
 
-Los permisos otorgados por la Autoridad Municipal para el ejercicio del Comercio Ambulante, Comercio en puestos fijos o semifijos, y comercio de los Mercados sobre Ruedas, son personalismos, no negociables y por tanto intransferibles, únicamente en el periodo de renovación el beneficiario del permiso podrá proponer a la autoridad lo substituya el cónyuge o en su caso un familiar con parentesco en primer grado que cumplan los requisitos a que se refiere el artículo 8 del ordenamiento, en tal situación o de fallecer el beneficiario, la autoridad si expide el permiso lo otorgará en ese orden, cualquier otra conducta distinta que entrañe su transferencia, negociación, incumplimiento con las Leyes que le sean aplicables o violación a este Reglamento producirá su revocación inmediata.
+Los permisos otorgados por la Autoridad Municipal para el ejercicio de (sic) Comercio Ambulante, Comercio en puestos fijos o semifijos, y comercio de los Mercados sobre Ruedas, son personalismos, no negociables y por tanto intransferibles, únicamente en el periodo de renovación el beneficiario del permiso podrá proponer a la autoridad lo substituya cualquie (sic) persona que cumpla con los requisitos a que se refiere el artículo 8 del presente ordenamiento En caso de fallecer el beneficiario, la autoridad si expide el permiso lo otorgará al cónyuge o en su caso un familiar con parentesco en primer grado en ese orden, cualquier otra conducta distinta que extrañe su transferencia, negociación, incumplimiento con las Leyes que le sea (sic) aplicables o violación a este Reglamento producirá su revocación inmediata
 
 ###### ARTICULO 6o.
 
 Las personas fisicas afectos al presente Reglamento, por cuanto a las licencias y autorizaciones que permitan el ejercicio de las actividades referidas, quedan sujetos a las disposiciones enmarcadas en la Ley de Ingresos para el Municipio de Tijuana de cada Ejercicio Fiscal que corresponda, y a la Ley de Hacienda Municipal en vigor.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 7o.
 
-Los permisos y licencias que expida la Autoridad Municipal a los vendedores sujetos a este Reglamento, tendrán el carácter de temporales y su duración no podrá exceder de un año, cuyo vencimiento cada año es en el mes de Enero, mismo que podrá prorrogarse a Juicio del propio Ayuntamiento al cumplirse con la normatividad vigente, y cumplimiento con las obligaciones fiscales, siempre y cuando las condiciones de vialidad, tránsito, prestación de los servicios públicos Municipales y el Desarrollo Urbano de Tijuana lo permitan.
+Los permisos y licencias que expida el H. Ayuntamiento de Tijuana a los vendedores sujetos a este Reglamento, tendrá (sic) una vigencia que no excederá de un año fiscal, debiendo renovarse en el mes de Enero de Cada año posterior de su expedición, siempre y cuando se cumpla con la normatividad vigente y con las obligaciones fiscales.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2014)</small>
-
-###### ARTICULO 8o.
-
-Únicamente podrán otorgarse los permisos a las personas que mediante estudio socioeconómico que practique Desarrollo Social Municipal o DIF, en el que arroje como resultado que se trata de una persona adulta mayor de 60 años y no asalariada; madre soltera que no tenga una fuente de empleo o de una persona con discapacidad que carezca de otros ingresos que le permitan sobrevivir.
-
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 8o.
 
-BIS.- Si de los estudios socioeconómicos descritos en el artículo anterior se desprende que el solicitante no se encuentra en posibilidades de cubrir el costo total del permiso podrá prorrogarse el otorgamiento del mismo hasta por 30 días.
+Únicamente podrán otorgarse los permisos a las personas que mediante un estudio socioeconómico que emita Desarrollo Social Municipal o DIF Municipal, en el que arroje como resultado que se trata de una persona mayor a 18 años, no asalariada que carezca de otros ingresos que le permitan subsistir.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+###### ARTICULO 8o.
+
+BIS.- Si de los estudios socioeconómicos descritos en el artículo anterior se desprende que el solicitante no se encuentra en posibilidades de cubrir el costo total del permiso podrá prorrogarse el pago del mismo hasta por 30 días.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 9o.
 
-Los vendedores en la Via Publica enmarcados por este Reglamento tendran derecho unica y exclusivamente a un solo permiso, consecuentemente a quien se le compruebe que tiene dos o mas, o cuente con licencia para comercio establecido, se le revocaran en forma inmediata todos los permisos, sin perjuicio de las sanciones administrativas que prevee este Reglamento.
+Los vendedores en la vía pública enmarcados por este Reglamento tendrán derecho única y exclusivamente a un solo permiso, consecuentemente a quien se le compruebe que tiene dos o más, o cuente con licencia para comercio establecido, se le revocarán en forma inmediata los permisos previstos por este Reglamento, sin perjuicio de las sanciones administrativas que prevé este Reglamento.
 
 ###### ARTICULO 10o.
 
 Los comerciantes ambulantes, en puestos fijos o semifijos, y de los Mercados sobre Ruedas, podran ejercer el comercio en las areas que a juicio del H. Ayuntamiento de Tijuana se determinen, siempre y cuando no se afecte el interes turistico, histórico, el orden publico, la moral y las buenas costumbres, la ecologia o la salubridad.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 11.
 
-El Ayuntamiento ampliara o modificara las areas a que se refiere el articulo anterior, cuando lo requiera el interes publico.
+El Ayuntamiento ampliará o modificará las áreas a que se refiere el artículo anterior, cuando lo requiera el interés público, siempre y cuando dicho decreto se encuentro (sic) debidamente justificado y sustentado en estudios de impacto social que deberá realizar previamente el propio Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -121,19 +145,37 @@ Asimismo se consideran como ZONAS PROHIBIDAS, con respecto a la expedición de n
 
 Toda licencia o permiso que conceda la Autoridad Municipal con relacion a la actividad que regula el presente Reglamento, siendo personal e intransferible, una vez que le sea concedida al comerciante, queda obligado a portar permanentemente y exhibirla a la Autoridad Municipal tantas veces como sea requerido para ello; manteniendose la vigencia de los permisos o licencias con independencia del estado que guarde el comerciante en correlacion a las organizacion (sic) de comerciantes a las que pertenezca y aun cuando deje de pertenecer a ellas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 14.
 
-Todo comerciante que desempene (sic) actividad en la via publica de conformidad a las modalidades de comercio que especifica este Reglamento. para estar debidamente autorizado para el ejercicio de sus actividades comerciales, debera obtener de la Autoridad Municipal la licencia o permiso correspondiente, con independencia de cumplir con los requisitos y disposiciones que le imponga el Gobierno Federal y del Estado, siguiendo las siguientes reglas para su obtencion:
+Todo comerciante que desempeñe actividad en la vía pública de conformidad a las modalidades de comercio que específica este Reglamento, para estar debidamente autorizado para el ejercicio de sus actividades comerciales, deberá obtener de la Autoridad Municipal la licencia o permiso correspondiente, con independencia de cumplir con los requisitos y disposiciones que le imponga el Gobierno Federal y Estatal, de conformidad con las siguientes reglas para su obtención:
 
-A.- Llenar y presentar solicitud de licencia o permiso ante el Departamento de Reglamentos, segun la zona de la que se solicite permiso, solicitud la cual debera contener LA PROTESTA POR PARTE DEL SOLICITANTE DE QUE TODOS LOS DATOS PROPORCIONADOS SON VERDADEROS O AUTENTICOS, SO PENA EN CASO CONTRARIO Y DE RESULTAR FALSOS CUALQUIERA DE ELLOS DE QUE LE SEA REVOCADA LA LICENCIA O PERMISO;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
-B.- Pago de inicio de tramite ante Tesoreria, sin que el mismo le confiera al solicitante derecho alguno con el que pueda asumir el que le hubiese sido otorgada la licencia o permiso;
+A.- Llenar y presentar en original y copia para acuse de recibido, el formato correspondiente de solicitud de licencia o permiso ante la Dirección de Inspección y Verificación Municipal, la cual deberá contener LA PROTESTA POR PARTE DEL SOLICITANTE DE QUE TODOS LOS DATOS PROPORCIONADOS SON VERDADEROS O AUTENTICOS, SO PENA EN CASO CONTRARIO Y DE RESULTAR FALSOS CUALQUIERA DE ELLOS SE NEGARA SIN MAYOR TRAMITE LA LICENCIA O PERMISO SOLICITADO;
 
-C.- La solicitud puede ser rechazada de plano en el instante mismo de su presentacion;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
-D.- Una vez que la solicitud hubiese sido declarada procedente por el Departamento de Reglamentos se turnara a la Secretaria del Ayuntamiento para la autorizacion de tramite o en su caso podra solicitarse el dictamen de la Direccion de Planeacion del Desarrollo Urbano y Ecologia o de la Direccion de Obras y Servicios Publicos Municipales;
+B.- Pago de inicio de trámite ante Tesorería, sin que el mismo le confiera al solicitante derecho alguno con el que pueda asumir el que le hubiese sido otorgada la licencia o permiso;
 
-E.- Otorgamiento o negativa definitiva del permiso o licencia.
+Los comerciantes que requieran el uso de gas Lp, para realizar sus actividades comerciales, deberán de pagar anuencia a la Dirección de Bomberos Municipal para que esta haga los estudios correspondientes de factibilidad y asegure que cumple con todos los requisitos que se enumeran en el Reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+C.- En caso de que el solicitante no cumpliere con todos los requisitos, la solicitud puede ser rechazada de plano, por escrito, debiendo la autoridad motivar y fundamentar su determinación, o bien, si la falta fuere subsanable, se le dará el término de 5 días hábiles para cumplimentar la observación.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+D.- Una vez que la solicitud cumpliere con todos los requisitos, la Dirección de inspección y verificación deberá solicitar el dictamen de la Dirección de Planeación del Desarrollo Urbano y Ecología o de la Dirección de Obras y Servicios Públicos Municipales, donde se manifieste la factibilidad del otorgamiento del permiso en sus respectivas competencias, quienes deberán dar respuesta en un término no mayor a 10 días hábiles contados a partir del día siguiente a la presentación de la solicitud.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+E.- En el caso de los comerciantes con vehículo, los inspectores adscritos a la Dirección de Inspección y verificación deberán acudir a revisar la unidad de que se trate para cerciorarse de que cumpla con la legal estancia y propiedad.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
+
+F.- Una vez que la solicitud se encuentre debidamente integrada se turnará a la Secretaría del Ayuntamiento para que un (sic) término de 72 horas contadas a partir del día siguiente a la recepción del expediente, resuelva respecto al otorgamiento o negativa definitiva del permiso o licencia debidamente justificada por la autoridad.
 
 Independientemente de que las Delegaciones Municipales puedan dar tramite de permisos nuevos, quedando limitadas unica y exclusivamente a permisos nuevos sobre comercio ambulante y puestos semifijos bajo los mismos requisitos que establece este Reglamento, y en ningun momento daran curso a tramites nuevos de Mercados sobre Ruedas o prorrogas de comercio en la via publica en general, sin que sea impedimento el hecho de que con relacion a un permiso nuevo que se pretenda obtener en alguna Delegacion Municipal se le de tramite por parte de la Jefatura del Departamento de Reglamentos de la Administracion Central, quien en todo caso debera solicitar la opinion del Delegado Municipal acerca del otorgamiento del permiso en cuestion.
 
@@ -147,13 +189,19 @@ II.- Tener una residencia minima de tres anos (sic) en el Municipio de Tijuana c
 
 III.- No tener antecedentes penales;
 
-IV.- Si el solicitante es menor de edad, debera contar por lo menos con 15 anos (sic) de edad, y estar autorizado por el padre o tutor para realizar la actividad materia de este ordenamiento;
+IV.- (DEROGADA, P.O. 11 DE MARZO DE 2016)
 
 V.- Contar con tarjeta de salud vigente;
 
 VI.- Usar vestimenta adecuada;
 
-VII.- Acreditar que se encuentra inscrito en el Registro Federal de Causantes, ante la Secretaria de Finanzas del Estado, y haber hecho el tramite con el correspondiente pago de tramite para la obtencion del permiso.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VII.- Acreditar que se encuentra inscrito en el Registro Federal de Causantes, ante la Secretaría de Finanzas del Estado, y haber hecho el trámite con el correspondiente pago de derechos de tramite para la obtención del permiso.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VIII.- En el caso de los comerciantes que utilicen para el desempeño de sus actividades un vehículo de motor, remolque o lonchera, deberán acreditar la legal propiedad de dicho vehículo y su legal estancia en el país.
 
 En algunos casos la Autoridad Municipal por conducto del Jefe del Departamento de Reglamentos o encargado de esta en cada Delegacion Municipal, podra requerir del solicitante la opinion de la Direccion de Planeacion del Desarrollo Urbano y Ecologia, cuando se estime que la solicitud del area que se pretende obtener permiso o prorroga pueda repercutir en detrimento del Desarrollo, salubridad, ecologia o seguridad publica y vial de la zona.
 
@@ -165,25 +213,43 @@ B.- Carta de Residencia que expide la Autoridad Municipal;
 
 C.- Carta de NO ANTECEDENTES PENALES que expide la Autoridad Municipal;
 
-D.- Carta de Autorizacion que presente el menor de edad comprendida entre los 15 a los 18 anos (sic) de edad, que expida el Departamento de Reglamentos, la cual ratifique en comparecencia personal ante dicha dependencia municipal el Padre o Tutor;
+D.- (DEROGADO, P.O. 11 DE MARZO DE 2016)
 
-F (SIC).- Recibo de pago de derechos por tramite de la solicitud de permiso expedida por la Tesoreria Municipal;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
-G.- Solicitud del Registro Federal de Causantes, solicitud de registro ante la Secretaria de Finanzas del Estado (copias);
+E.- Recibo de pago de derechos por trámite de la solicitud de permiso expedida por la Tesorería Municipal;
 
-H.- Licencia para uso de un vehiculo de locomocion, que por la actividad a realizar sea necesario su uso;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
-Quedan exceptuados de los requisitos a que se refieren las fracciones IV, V, Y VII primera parte de este precepto normativo a los voceadores y aseadores de calzado, quienes podran satisfacer los requisitos para obtencion de su permiso a una edad minima de 12 anos (sic) cumplidos, siempre y cuando acompanen (sic) constancia con la que se acredite que asisten a un Centro Escolar, debiendo presentar en ese caso la solicitud quien ejerza la patria potestad o la tutela sobre el menor, quedando como responsable de este por cuanto al ejercicio de la actividad.
+F.- Inscripción del Registro Federal de Causantes o en caso de encontrarse en trámite, su solicitud de Registro.
+
+(copias);
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+G.- Licencia para uso de un vehículo de locomoción, que por la actividad a realizar sea necesario su uso;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
+
+H.- Registro ante la secretaria de planeación y finanzas del estado de baja california para los comerciantes que utilicen en el ejercicio de sus labores vehículos de motor.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
 ### CAPITULO TERCERO. DE LAS PROHIBICIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 16.
 
-Resulta prohibitivo para los comerciantes ambulantes incurrir en cualquiera de las conductas que a continuacion se mencionan, por lo cual daran motivo a la revocacion de la licencia o permiso otorgado, y son las siguientes:
+Resulta prohibitivo para los comerciantes ambulantes incurrir en cualquiera de las conductas que a continuación se mencionan, por lo cual darán motivo a la revocación de la licencia o permiso otorgado, y son las siguientes:
 
-A.- Ejercer la actividad comercial en la via publica sin contar con el debido permiso de la Autoridad Municipal y con la clasificacion de la actividad comercial y zonal;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
-B.- Ejercer el comercio toda clase de articulos que representen figuras, dibujos, fotografías o grabados deshonestos, pornograficos, que atenten contra la moral y las buenas costumbres;
+A.- Ejercer la actividad comercial en la vía pública sin portar debidamente el permiso expedido por la Autoridad Municipal.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+B.- Ejercer el comercio de toda clase de artículos que representen palabras, frases, objetos, dibujos o imágenes de contenido pornográfico para la promoción de cualquier tipo de productos o servicios que atenten contra la dignidad humana;
 
 C.- Ejercer el comercio en la via publica con la distribucion o venta de objetos o reproducciones de cualquier genero que no sean originales y atenten contra los Derechos de Autor o las Patentes y Marcas Registradas, tales como discos, casettes, videos, etc., o que sean articulos de contrabando;
 
@@ -207,7 +273,9 @@ L.- Establecer permanencia en las calles o banquetas de la zona urbana en el cas
 
 M.- Instalar carros o vehiculos que sirvan de almacen en la via publica;
 
-N.- Instalar muebles o vehiculos que produzcan sonido intenso o musica estruendosa y que sean utilizados para expender su mercancía, en contravencion con el Bando de Policia y Buen Gobierno;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+N.- Instalar muebles o vehículos que produzcan sonido intenso o música estruendosa y que sean utilizados para expender su mercancía, en contravención con el Bando de Policía y Gobierno;
 
 O.- Obstruir la libre circulacion de vehiculos y peatones en la via publica en cualquier forma que esto ocurra, con perjuicio de la prestacion de los servicios publicos municipales;
 
@@ -219,13 +287,23 @@ R.- Extender o colocar mercancias en las banquetas y vias publicas;
 
 S.- Formar carrillos de mas de dos vendedores ambulantes;
 
-T.- Tener asalariados a sus servicios;
+T.- (DEROGADO, P.O. 11 DE MARZO DE 2016)
 
 U.- Utilizar a menores de edad para que ejerzan su actividad, salvo lo dispuesto por la Ley Federal del Trabajo y con la salvedad que establece al respecto el presente Reglamento;
 
-V.- Incumplir con las disposiciones a que deben sujetarse en lo genérico o en lo especifico los comerciantes regulados por este Reglamento;
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+V.- Incumplir con las disposiciones a que deben sujetarse en lo genérico o en lo específico los comerciantes regulados por este Reglamento;
 
 W.- Reincidir en la comision de cualquiera de las conductas prohibitivas a que se refiere este Reglamento en un periodo de tiempo de seis meses a partir de la fecha en que ocurrio la primera infraccion por la que fue sancionado.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
+
+X.- Por ningún motivo, los comerciantes ambulantes en cualquiera de sus modalidades, podrán ocupar más de 7 metros de la vía pública.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
+
+Z (sic).- Los comerciantes semi-fijos por ningún motivo podrán ocupar de la vía publica más de lo que su vehículo de motor, remolque, lonchera rodante o cualquier otra estructura mueble que utilice para el desempeño de sus actividades abarque, la cual no deberá rebasar los 7 metros de largo establecidos en el inciso anterior, es decir que resulta prohibitivo instalar en vía pública muebles adicionales a la estructura utilizada para el desempeño de sus labores.
 
 ### CAPITULO CUARTO. DE LAS DISPOSICIONES A QUE DEBEN SUJETARSE LOS COMERCIANTES
 
@@ -239,17 +317,61 @@ II.- Presentarse a realizar su actividad debidamente aseado en su persona;
 
 III.- Ejercer la actividad autorizada conforme al permiso que le fue concedido, de acuerdo a la zona y modalidades fijadas por las Autoridades Municipales;
 
-IV.- Mantener en perfecto estado de asepsia o limpieza los objetos que utilice para el desarrollo de su actividad, y procurar que los clientes depositen los desperdicios o residuos de la mercancia enajenada, en recipientes colocados para tal efecto, los cuales deberan ser retirados por los mismos comerciantes al termino de sus labores;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+IV.- Mantener en perfecto estado de asepsia o limpieza los objetos que utilice para el desarrollo de su actividad, y vigilar que los clientes depositen los desperdicios o residuos de la mercancía enajenada, en recipientes colocados para tal efecto, los cuales deberán ser retirados por los mismos comerciantes al término de sus labores.
 
 V.- Dar aviso a la Autoridad Municipal sobre la clausura de su actividad comercial en el caso de darse esta, y simultaneamente hacer la entrega del permiso o licencia correspondiente;
 
-VI.- Dar aviso en forma oportuna a la Tesoreria Municipal en caso del cambio de domicilio;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VI.- Dar aviso en forma oportuna a la Tesorería Municipal en caso del cambio de domicilio de su vivienda;
 
 VII.- Cubrir oportunamente el pago de sus impuestos y derechos que al efecto le fije la Ley de Hacienda Municipal en correlacion con la Ley de Ingresos del Municipio para el Ejercicio Fiscal de que se trate;
 
-VIII.- Cumplir estrictamente con el Bando de Policia y Buen Gobierno, Transito, las disposiciones sanitarias y los demas Reglamentos Municipales que le sean aplicables;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+VIII.- Cumplir estrictamente con el Bando de Policía y Gobierno, Tránsito (sic), las disposiciones sanitarias y los demás Reglamentos Municipales que le sean aplicables;
 
 IX.- Efectuar en forma voluntaria el retiro transitorio o momentaneo del puesto fijo, semifijo o mercado sobre ruedas materia del permiso o licencia otorgada, en el evento de hacerse necesario dicho retiro por motivos de urgencia o de necesidad de hacer uso inmediato del area donde se encuentra ubicado el mismo a efecto de prestar un servicio publico, realizacion de operaciones de emergencia o a peticion de una Autoridad por motivos de utilidad publica y beneficio comunitario;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+X.- Los comerciantes que requieran el uso de gas Lp, para realizar sus actividades comerciales, deberán de contar con las siguientes especificaciones mínimas:
+
+a) Deberán instalar depósito de gas lp, por lo menos a 2 metros con 75 centímetros de distancia del artefacto que utilicen para calentar alimentos, asimismo deberá de estar al exterior, la cual estará sujeta y con señalamiento.
+
+b) Instalar tubería de alta presión para instalación de gas lp de conformidad con las indicaciones que establezca bomberos dentro de la inspección.
+
+c) Instalar llave de cierre de emergencia, de conformidad con las indicaciones que establezca bomberos dentro de la inspección.
+
+d) Instalar extintor tipo ABC o tipo K de 10 Lbs con señalamiento; debiendo cumplir con las disposiciones enunciadas en el Reglamento Para La Prevención, Control De Los Incendios Y Siniestros Para La Seguridad Civil En El Municipio De Tijuana, Baja California.
+
+e) Contar con constancia de capacitación para el uso de extintores y primeros auxilios, expedida por la Dirección de Bomberos;
+
+f) Instalar botiquín de primeros auxilios, de conformidad con las especificaciones que establezca la Dirección de bomberos;
+
+g) Instalar lámparas en interior, respetando las indicaciones que establezca la Dirección de bomberos;
+
+h) Deberá cumplir con las especificaciones de bomberos para el buen estado de las instalaciones eléctricas;
+
+i) Instalar depósito para aceite comestible usado, así como trampa de grasa, de conformidad con lo que establezca la Dirección de Bomberos;
+
+k) (sic) Deberá dar un adecuado manejo de residuos, de conformidad con las especificaciones que establezca la Dirección de Bomberos.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XI.- Los comerciantes con vehículo, deberán de entregar al consumidor un recibo o nota de la transacción realizada, donde consten, Nombre, domicilio, desglose de los servicios y productos comercializados.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XII.- Aquellos terrenos que sean rentados por un asentamiento de comerciantes con vehículos, deberán de contar un (sic) programa interno de protección civil, tener señalamientos de salidas de emergencia y ruta de evacuación así como cumplir con las normas establecidas en la Ley de Edificaciones del Estado de Baja California y (sic)
+
+Reglamento de Zonificación y usos del suelo del centro de población de Tijuana, Baja California.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XIII.- Todo puesto semi-fijo que tenga como principal actividad el expendio de comida deberá contar con gel antibacterial para el uso de los comensales.
 
 ###### ARTICULO 18.
 
@@ -271,9 +393,11 @@ VII.- En el caso de quienes se dedican al expendio de pescado o mariscos. debera
 
 IX (SIC).- Cumplir con las normas y disposiciones que tengan correlacion con esta materia y se encuentren previstos por las Leyes, el presente Reglamento y los demas Reglamentos Municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 19.
 
-Los comerciantes que al expender sus mercancias, o prestar sus servicios lo hagan en la forma de Mercados sobre Ruedas o Tianguis rotativos, ademas de ajustarse a las disposiciones generales deberan sujetarse de conformidad a las siguientes disposiciones:
+Los comerciantes que al expender sus mercancías, o prestar sus servicios lo hagan en la forma de Mercados sobre Ruedas o Tianguis rotativos, además de ajustarse a las disposiciones generales deberán sujetarse de conformidad a las siguientes disposiciones:
 
 I.- Cada puesto debera ocupar un espacio que no exceda de tres metros de frente por dos metros de fondo;
 
@@ -281,7 +405,7 @@ II.- Los puestos tendran una estructura uniforme, siendo del mismo color los sop
 
 III.- Los puestos se alinearan de conformidad con el plano previamente autorizado, conservando en forma permanente el mismo orden, sin invadir pasillos peatonales y espacios entre uno y otro;
 
-lV.- Cada puesto debera mostrar visible sobre su estructura su identificacion, es decir: el nombre del comerciante, numero de cuenta, y organizacion de comerciantes de Mercados sobre Ruedas de la cual sea miembro integrante;
+IV.- Cada puesto debera mostrar visible sobre su estructura su identificacion, es decir: el nombre del comerciante, numero de cuenta, y organizacion de comerciantes de Mercados sobre Ruedas de la cual sea miembro integrante;
 
 V.- Evitara cada puesto obstruir en forma alguna el acceso a los domicilios o locales comerciales que tengan puerta de acceso para sus vehículos o la entrada que sirva de acceso a los cajones de estacionamiento;
 
@@ -289,19 +413,33 @@ Vl.- Estacionar sus vehiculos en sitios no circunvecinos o inmediatos a cada uno
 
 VII.- Los integrantes del Mercado sobre Ruedas o Tianguis Rotativos, tienen la obligacion de conservar limpia el area del puesto en torno que a cada uno le corresponda, colocando a distancias prudentes los depositos para la recoleccion de basura, y contando con sanitarios portatiles para uso de los propios comerciantes deel (sic) Mercado sobre Ruedas en cuestión;
 
-VI (SIC).- No se permitiran objetos que obstruyan el paso de peatones, tanto en los pasillos como frente a los puestos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-VII.- El personal de seguridad y vigilancia sera contratado por los propios vendedores o prestadores de servicios organizados en los Mercados sobre Ruedas:
+VIII.- No se permitirán objetos que obstruyan el paso de peatones, tanto en los pasillos como frente a los puestos;
 
-VIII.- Los Mercados sobre ruedas funcionaran de Lunes a Viernes a partir de las 7:00 horas a las 16:00 horas, y los Sabados y Domingos de las 8:00 horas a las 16:00 horas;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-IX.- Queda estrictamente prohibido para fines publicitarios, la utilizacion de aparatos y equipos que produzcan sonidos estridentes;
+IX.- El personal de seguridad y vigilancia será contratado por los propios vendedores o prestadores de servicios organizados en los Mercados sobre Ruedas;
 
-X.- Deberan ajustarse a las disposiciones que rigen el Desarrollo Urbano, la ecologia, la salubridad general y el transito vehicular;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-XI.- Una vez finalizadas las actividades, deberan limpiar el area utilizada en el ejercicio de sus labores.
+X.- Los Mercados sobre ruedas funcionarán de Lunes a Viernes a partir de las 7:00 horas a las 16:00 horas, y los Sábados y Domingos de las 8:00 horas a las 16:00 horas;
 
-XII.- Antes de finalizar cada ano (sic), deberan facilitar al Departamento de Reglamentos de la Administracion Municipal central, una lista actualizada de los comerciantes que conforman cada Mercado sobre Ruedas y que integran cada organizacion de comerciantes en dicha actividad, de los sitios y dias en que cada Mercado opera debidamente autorizado por la Autoridad Municipal.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XI.- Queda estrictamente prohibido para fines publicitarios, la utilización de aparatos y equipos que produzcan sonidos estridentes;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XII.- Deberán ajustarse a las disposiciones que rigen el Desarrollo Urbano, la ecología, la salubridad general y el tránsito vehicular;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XIII.- Una vez finalizadas las actividades, deberán limpiar el área utilizada en el ejercicio de sus labores.
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+XIV.- Antes de finalizar cada año, deberán facilitar al Departamento de Reglamentos de la Administración Municipal Central, una lista actualizada de los comerciantes que conforman cada Mercado sobre Ruedas y que integran cada organización de comerciantes en dicha actividad, de los sitios y días en que cada Mercado opera debidamente por la Autoridad Municipal.
 
 ###### ARTICULO 20.
 
@@ -415,13 +553,19 @@ IV.- Establecer estrategias, y emitir recomendaciones para la regulacion y contr
 
 ### CAPITULO SEGUNDO (SIC). SANCIONES Y RECURSOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 30.
 
-La violacion al presente Reglamento, dara lugar segun la gravedad de la falta, la capacidad economica, y el giro comercial del infractor a las siguientes sanciones:
+La violación al presente Reglamento, dará lugar según la gravedad de la falta, la capacidad Económica, y el giro comercial del infractor a las siguientes sanciones:
 
-I.- Con multa de 5 a 50 veces el salario minimo mensual vigente en la zona o arresto administrativo hasta por 36 horas, a quienes incurran en los supuestos a que se refieren los articulos 13o., 16o. incisos: A, F, H, I, J, K, L, M, N, 0, P, Q, S, T, V, del presente Reglamento.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-II.- La revocacion del permiso a quienes incurran en los supuestos a que se refieren los articulos 5o., 9o., 14o. inciso: A, 16o. incisos: B, C, D, E, G, U, W del presente Reglamento.
+I. Con multa de 5 a 50 veces el salario diario vigente en la zona a quienes incurran en los supuestos a que se refieren los artículos 13o., 16o., incisos: A, F, J, K, L, M, N, O, P, Q, R, S, T, V, del presente Reglamento, en caso de reincidencia se aplicara una sanción de arresto administrativo hasta por 36 horas, sin perjuicio de la multa que se establece para dicho efecto.
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+II. La revocación del permiso a quienes incurran en los supuestos a que se refieren los artículos 5o., 9o., 14o., incisos: A, 16o. incisos: B, C, D, E, G, H, I, U, W, del presente Reglamento.
 
 ###### ARTICULO 31.
 
@@ -570,5 +714,11 @@ P.O. 27 DE DICIEMBRE DE 2010.
 QUINTO.- El presente acuerdo entrara en vigor al momento de su aprobación.
 
 P.O. 31 DE OCTUBRE DE 2014.
+
+PRIMERO: El presente acuerdo una vez aprobado, entrara en vigor a partir del momento de su publicación en el Periódico Oficial del Estado de Baja California, y se publicara en la Gaceta Municipal, Órgano de difusión del Ayuntamiento de Tijuana, Baja California, para conocimiento de la ciudadanía.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES DE PUESTOS FIJOS Y SEMIFIJOS, Y LOS MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA".]
 
 PRIMERO: El presente acuerdo una vez aprobado, entrara en vigor a partir del momento de su publicación en el Periódico Oficial del Estado de Baja California, y se publicara en la Gaceta Municipal, Órgano de difusión del Ayuntamiento de Tijuana, Baja California, para conocimiento de la ciudadanía.
