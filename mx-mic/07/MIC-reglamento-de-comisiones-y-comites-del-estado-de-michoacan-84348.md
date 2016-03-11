@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-comisiones-y-comites-del-estado-de-michoacan-8434
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-27"
-last_updated: "2011-12-27"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE COMISIONES Y COMITÉS DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 27 de diciembre de 2011.
 
@@ -45,9 +45,11 @@ El Reglamento de Comisiones y Comités integrará y complementará las disposici
 
 El presente Reglamento norma en lo general la integración, funcionamiento y atribuciones de las comisiones y análogamente, en lo que proceda, a los Comités.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 2.
 
-Se entiende por Comisión el grupo de tres a cinco diputados aprobados por el Pleno a quienes, por especial encargo de la misma, analizan y estudian con amplitud y detalle los asuntos para preparar los trabajos, informes o dictámenes que servirán de base al Pleno para resolver en forma definitiva.
+Se entiende por Comisión el grupo de dos a cinco diputados aprobados por el Pleno a quienes, por especial encargo de la misma, analizan y estudian con amplitud y detalle los asuntos para preparar los trabajos, informes o dictámenes que servirán de base al Pleno para resolver en forma definitiva.
 
 ### CAPÍTULO II. DE LAS COMISIONES
 
@@ -193,7 +195,7 @@ Las comisiones, por conducto de su Presidente, a efecto de obtener información 
 
 I. Solicitar la comparecencia de peritos o personas competentes en la materia, a efectos de obtener elementos necesarios para el trabajo de la Comisión;
 
-Il. Realizar encuestas o estudios en cuestiones de su competencia, siempre que no esté ya constituida una Comisión de investigación; y,
+II. Realizar encuestas o estudios en cuestiones de su competencia, siempre que no esté ya constituida una Comisión de investigación; y,
 
 III. Solicitar la comparecencia de particulares cuando sea necesario.
 
@@ -398,3 +400,13 @@ SEGUNDO. Envíese el presente Acuerdo al Ejecutivo del Estado para su publicaci�
 Palacio del Poder Legislativo, Morelia, Michoacán de Ocampo, a los 08 ocho días del mes de diciembre de 2011 dos mil once.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. IVÁN MADERO NARANJO.- PRIMER SECRETARIO.- DIP. MARTÍN CARDONA MENDOZA.- SEGUNDO SECRETARIO.- DIP. LIBRADO MARTÍNEZ CARRANZA.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 129 POR EL QUE “SE REFORMA EL ARTÍCULO 2 DEL REGLAMENTO DE COMISIONES Y COMITÉS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
