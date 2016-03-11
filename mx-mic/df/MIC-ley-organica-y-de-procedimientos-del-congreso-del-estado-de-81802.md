@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2016-02-23"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -769,9 +769,11 @@ III. De protocolo.
 
 Las Comisiones deberán contar para el desempeño de sus funciones, con los elementos humanos, materiales y financieros necesarios.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 53.
 
-Todas las Comisiones son colegiadas y se integrarán procurando reflejar la pluralidad del Congreso con un mínimo de tres y un máximo de cinco Diputados, presididas por el primero de los nombrados a propuesta de la Junta.
+Todas las Comisiones son colegiadas y se integrarán procurando reflejar la pluralidad del Congreso hasta con un máximo de cinco Diputados, presididas por el primero de los nombrados a propuesta de la Junta. Las comisiones especiales se integrarán por el número de diputados que disponga su acuerdo de creación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -785,9 +787,11 @@ Las comisiones podrán ser reestructuradas total o parcialmente, siguiendo el mi
 
 En caso de que algún Diputado se separe del Grupo parlamentario al que pertenecía en el momento de integrarse las Comisiones, el Coordinador del Grupo parlamentario podrá proponer su sustitución a la Junta.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 55.
 
-Ningún Diputado puede presidir más de una comisión o comité, ni integrar más de tres comisiones o comités. El Presidente del Congreso podrá suspender su participación en las comisiones, en tanto dure su encargo.
+Ningún Diputado puede presidir más de una comisión o comité, ni integrar más de tres comisiones o comités. Para efectos de esta regla, no se computará la participación en comisiones especiales. El Presidente del Congreso podrá suspender su participación en las comisiones, en tanto dure su encargo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -3872,3 +3876,11 @@ En relación al ejercicio 2014-2015, cuyo Informe presentó el Titular del Poder
 ###### ARTÍCULO TERCERO.
 
 Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 129 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 53 Y 55 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
