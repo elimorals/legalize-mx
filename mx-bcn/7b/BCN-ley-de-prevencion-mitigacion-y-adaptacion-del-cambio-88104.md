@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-88104"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-01"
-last_updated: "2015-03-27"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -37,9 +37,11 @@ DECRETO No. 203
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social; sus disposiciones son de observancia obligatoria en el territorio del Estado de Baja California y tienen por objeto establecer la concurrencia del Estado y de los Municipios en la formulación e instrumentación de las políticas públicas para la adaptación al cambio climático, la mitigación de sus efectos adversos, para proteger a la población y coadyuvar al desarrollo sustentable.
+La presente Ley es de orden público e interés social; sus disposiciones son de observancia obligatoria en el territorio del Estado de Baja California y tienen por objeto establecer la concurrencia del Estado y de los Municipios en la formulación e instrumentación de la política estatal y municipal de cambio climático para prevenir y mitigar sus efectos adversos con el fin de proteger a la población y coadyuvar al desarrollo sustentable.
 
 En lo no previsto por esta Ley, se aplicarán de manera supletoria y complementaria los ordenamientos estatales en materia ambiental.
 
@@ -47,7 +49,9 @@ En lo no previsto por esta Ley, se aplicarán de manera supletoria y complementa
 
 Son objetivos específicos de esta Ley:
 
-I. Definir los criterios de la política estatal en materia de prevención y adaptación al cambio climático.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+I. Definir los criterios para la formulación de la política estatal y municipal de cambio climático;
 
 II. Desarrollar indicadores en materia de prevención, adaptación y mitigación ante el cambio climático y evaluar de manera periódica los resultados de las acciones realizadas.
 
@@ -231,13 +235,35 @@ XIII. Establecer las normas técnicas ambientales estatales en materia de cambio
 
 XIV. Las demás que sean necesarias para el cumplimiento de sus fines, conforme a las bases y disposiciones de esta Ley.
 
-### CAPÍTULO III. DE LOS CRITERIOS GENERALES PARA LA DEFINICIÓN DE POLÍTICAS DE MITIGACIÓN Y ADAPTACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2016)</small>
+
+### CAPÍTULO III. DE LOS CRITERIOS GENERALES PARA LA DEFINICIÓN DE LA POLÍTICA ESTATAL Y MUNICIPAL DE CAMBIO CLIMÁTICO
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
+
+###### Artículo 10 Bis.
+
+Son principios rectores de la política estatal de cambio climático:
+
+I. Compromiso: obligación del Estado con el desarrollo económico, social y humano, como una forma de reducir la vulnerabilidad de sectores desprotegidos ante los efectos adversos del cambio climático;
+
+II. Conservación: acción y efecto de conservar los ecosistemas y su biodiversidad, dando prioridad a las zonas forestales del Estado, fundamentales para reducir la vulnerabilidad social y ambiental ante los efectos adversos del cambio climático;
+
+III. Corresponsabilidad: responsabilidad compartida del gobierno con la sociedad, en la realización de acciones para la mitigación y adaptación a los efectos adversos causados por el cambio climático;
+
+IV. Prevención: medio más eficaz para evitar los daños al medio ambiente y preservar el equilibrio ecológico ante los efectos del cambio climático;
+
+V. Responsabilidad ambiental: obligación para quien realice obras o actividades que afecten o puedan afectar al medio ambiente de, prevenir, minimizar, mitigar, reparar, restaurar y, en última instancia, compensar los daños que cause;
+
+VI. Transparencia y acceso a la información: herramienta para facilitar y fomentar la concientización de la población, poniendo a su disposición la información relativa al cambio climático, y proporcionando acceso efectivo a los procedimientos judiciales y administrativos pertinentes, atendiendo a las disposiciones jurídicas aplicables, y
+
+VII. Transversalidad: enfoque de coordinación, cooperación y articulación en el diseño, ejecución e instrumentación de los programas y la política pública entre todas las dependencias y los distintos niveles de gobierno, a fin de cumplir con los objetivos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 11.
 
-Los habitantes del Estado deberán participar, de manera ordenada y activa, en la mitigación y prevención de la vulnerabilidad ante el cambio climático.
-
-Para el cumplimiento de los objetivos establecidos en esta Ley, los programas sectoriales y la Estrategia Estatal deberán fijar metas y objetivos específicos de mitigación y adaptación, e indicadores de sustentabilidad de las acciones.
+Los habitantes del Estado deberán participar, de manera ordenada y activa, en la mitigación y prevención de la vulnerabilidad ante el cambio climático. Para el cumplimiento de los objetivos establecidos en esta Ley, la política estatal y municipal de cambio climático, los programas sectoriales y la Estrategia Estatal deberán fijar metas y objetivos específicos de mitigación y adaptación, e indicadores de sustentabilidad de las acciones.
 
 ###### Artículo 12.
 
@@ -247,9 +273,11 @@ En la definición de los objetivos y metas de adaptación, las autoridades estat
 
 Quienes realicen programas de investigación y de desarrollo tecnológico y social deberán considerar temas relacionados al cambio climático, así como la creación de fondos concurrentes para financiar la realización de proyectos relativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 14.
 
-Para enfrentar los retos del cambio climático, se atenderán de manera prioritaria las necesidades de adaptación en el corto, mediano y largo plazos, conforme a las directrices siguientes:
+Para enfrentar los retos del cambio climático, la política estatal y municipal de cambio climático atenderá de manera prioritaria las necesidades de adaptación en el corto, mediano y largo plazos, con forme a las directrices siguientes.
 
 I. En materia de protección civil, en los mapas de riesgo, se considerarán los escenarios de vulnerabilidad;
 
@@ -329,9 +357,11 @@ V. Difundir permanentemente la aplicación de los planes o programas de desarrol
 
 VI. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 19.
 
-Para la prevención, mitigación y adaptación de los efectos del cambio climático, la Secretaría, propondrá la Estrategia Estatal al Consejo, que estará facultado para:
+Para la prevención, mitigación y adaptación de los efectos del cambio climático, la Secretaría, propondrá la política estatal y municipal de cambio climático así como la Estrategia Estatal al Consejo, que estará facultado para:
 
 I. Promover la orientación del Plan Estatal de Desarrollo con visión integral y sustentable en cumplimiento de la presente Ley;
 
@@ -387,9 +417,11 @@ Para el ejercicio de las atribuciones previstas en el Plan Estatal de Desarrollo
 
 Los objetivos, metas y prioridades para fomentar, promover, regular, restringir, orientar, prohibir y, en general, para inducir las acciones para la adaptación al cambio climático y la mitigación de sus efectos estarán contenidas en la Estrategia Estatal.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 27.
 
-La Estrategia Estatal es el instrumento rector, que precisará las posibilidades e intervalos de reducción de emisores de gases de efecto invernadero, los estudios necesarios para definir metas de mitigación y las necesidades del Estado para construir capacidades de adaptación. Su actualización es responsabilidad de las autoridades señaladas por esta Ley.
+La Estrategia Estatal es el instrumento rector de la política estatal y municipal de cambio climático, que precisará las posibilidades e intervalos de reducción de emisores de gases de efecto invernadero, los estudios necesarios para definir metas de mitigación y las necesidades del Estado para construir capacidades de adaptación. Su actualización es responsabilidad de las autoridades señaladas por esta Ley.
 
 ###### Artículo 28.
 
@@ -656,3 +688,9 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 27 DE MARZO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 459 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2 FRACCIÓN I, LA DENOMINACIÓN DEL CAPITULO III Y LA CREACIÓN DE UN ARTÍCULO 10 BIS, LOS ARTÍCULOS 11, 14, 19, Y 27 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
