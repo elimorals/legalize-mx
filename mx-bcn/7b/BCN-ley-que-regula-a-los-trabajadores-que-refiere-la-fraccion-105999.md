@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-a-los-trabajadores-que-refiere-la-fraccion-10599
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-17"
-last_updated: "2015-02-17"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA A LOS TRABAJADORES QUE REFIERE LA FRACCIÓN II, APARTADO B, DEL ARTÍCULO 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN MATERIA DE SEGURIDAD SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 17 de febrero de 2015.
 
@@ -261,27 +261,35 @@ Generación Actual
 
 Requisito: 30 años de servicio e igual tiempo de contribución al Instituto y al menos contar con la edad mínima que se señala en la siguiente tabla de gradualidad:
 
-AÑO DE JUBILACIÓN EDAD MÍNIMA REQUERIDA
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
-2014 y 2015 No Aplica
+AÑO DE JUBILACIÓN EDAD MÍNIMA
 
-2016-2017 52 años
+REQUERIDA
 
-2018-2019 53 años
+2016 51 años
 
-2020-2021 54 años
+2017-2018 52 años
 
-2022-2023 55 años
+2019-2020 53 años
 
-2024-2025 56 años
+2021-2022 54 años
 
-2026-2027 57 años
+2023-2024 55 años
 
-2028-2029 58 años
+2025-2026 56 años
 
-2030-2031 59 años
+2027-2028 57 años
 
-2032 en adelante 60 años
+2029-2030 58 años
+
+2031-2032 59 años
+
+2033 en adelante 60 años
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
+
+El trabajador que en el año de jubilación cumpla con el requisito de 30 años de servicio e igual tiempo de contribución al Instituto, la edad mínima requerida que le marca el año de jubilación quedará fija para tales efectos.
 
 Monto: 100% del salario regulador.
 
@@ -434,3 +442,11 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 449 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO TERCERO TRANSITORIO DE LA LEY QUE REGULA A LOS TRABAJADORES QUE REFIERE LA FRACCIÓN II, APARTADO B, DEL ARTÍCULO 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
