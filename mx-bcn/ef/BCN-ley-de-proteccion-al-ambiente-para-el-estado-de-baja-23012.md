@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2015-10-09"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -537,7 +537,9 @@ El Consejo, quedará integrado de la siguiente forma:
 
 I. El Gobernador del Estado, que fungirá como presidente;
 
-II. El titular de la Secretaría, que fungirá como Secretario;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+
+II. El titular de la Secretaría, quien fungirá como suplente del presidente en ausencia;
 
 III. El titular de la Secretaría de Planeación y Finanzas;
 
@@ -567,15 +569,29 @@ X. Un ciudadano por cada uno de los municipios, electos mediante procedimientos 
 
 XI. El titular del área de Protección al Ambiente de cada uno de los gobiernos municipales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
+
+EI subsecretario de Protección al Ambiente fungirá como Secretario del Consejo Estatal, con voz, y sin voto, cuando el titular de la Secretaría funja como presidente del Consejo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
+
+Los integrantes del Consejo designarán por escrito a un suplente con funciones de propietario para que cubra sus ausencias temporales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)</small>
+
+Para el mejor desempeño de sus funciones, el Secretario de Protección al Ambiente designará y removerá libremente a un Secretario Técnico, cuyas funciones estarán establecidas en el reglamento.
+
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
 
 Los puestos ocupados por los integrantes ciudadanos del Consejo serán honoríficos. Los apoyos que sus integrantes ciudadanos deban recibir para el mejor ejercicio de sus funciones, serán establecidos en el reglamento.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-El Consejo, sesionará en forma ordinaria cada tres meses y, extraordinariamente, cuantas veces sea necesario, a juicio de su Presidente, quien emitirá la convocatoria respectiva. El quórum para celebrar sesiones legalmente válidas, se establece a partir de la asistencia de la mayoría de sus integrantes, pero deberá incluir la presencia del Presidente o su suplente. Las sesiones del Consejo serán públicas pero sólo sus titulares asistirán con voz.
+El Consejo, sesionará en forma ordinaria cada tres meses y, extraordinariamente, cuantas veces sea necesario, a juicio de su Presidente o del Secretario, previa convocatoria respectiva. Cuando no se haya convocado por parte del Gobernador en su calidad de presidente del Consejo en el término previsto por la Ley, el Secretario de Protección al Ambiente estará facultado para convocar. El quórum para celebrar sesiones legalmente válidas, se establece a partir de la asistencia de la mayoría de sus integrantes, deberá incluir la presencia del Presidente o del Secretario, o en su caso sus respectivos suplentes. Las sesiones del Consejo serán públicas pero sólo sus titulares asistirán con voz.
 
-Por acuerdo previo del Consejo o decisión de su presidente, se podrá invitar a las sesiones que lo ameriten, a funcionarios de las dependencias de los gobiernos federal, estatal y Municipal y representantes de sectores de la sociedad, que tengan relación directa o indirecta con los asuntos que se vayan a tratar. Los invitados asistirán únicamente con voz y para intervenir únicamente en los asuntos para los que fueron convocados.
+Por acuerdo previo del Consejo o decisión de su presidente, se podrá invitar a las sesiones que lo ameriten, a funcionarios de las dependencias de los gobiernos federal, estatal y municipal y representantes de sectores de la sociedad, que tengan relación directa o indirecta con los asuntos que se vayan a tratar. Los invitados asistirán únicamente con voz y para intervenir únicamente en los asuntos para los que fueron convocados.
 
 ###### ARTÍCULO 20.
 
@@ -2045,11 +2061,27 @@ IV. Tramitar y obtener las autorizaciones correspondientes a que se refiere esta
 
 Las autoridades que tengan a su cargo la promoción y el fomento de las actividades agropecuarias, vigilarán y regularán que en la aplicación y empleo de plaguicidas, fertilizantes o sustancias tóxicas, no se provoque contaminación del suelo y así evitar daños a los seres humanos, al ambiente, cultivos y áreas circunvecinas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 141.
 
-Dentro del ámbito territorial del Estado, los establecimientos de servicios comerciales que tengan por actividad la utilización, facilitación y obsequio de bolsas de plástico para fines de envoltura y carga, deberán de utilizar aquellos fabricados solamente con materiales que faciliten su reuso, reciclado o de pronta biodegradación.
+Dentro del ámbito territorial del Estado queda prohibido que se entregue al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, bolsas de plástico que no cumplan con las normas oficiales mexicanas que determinen los criterios en materia de eficiencia ambiental y tecnológica, y en materia de generación, manejo y disposición final; así como con los Criterios y Normas de Producción Sustentable que al efecto emita la Secretaría.
+
+Los Criterios y Normas de Producción Sustentable tendrán por objeto establecer y describir los criterios y buenas prácticas de producción sustentable que los fabricantes de bolsas de plástico pueden implementar con el propósito de minimizar el impacto ambiental de sus procesos, operaciones y productos a lo largo de su vida.
+
+Entre los Criterios y Normas de Producción Sustentable se comprenderá:
+
+1. Conservación de recursos naturales y no renovables;
+
+2. Minimización de las emisiones y la generación de residuos;
+
+3. Procesos de fabricación atóxicos, y
+
+4. Los demás que la Secretaría determine para favorecer la producción sustentable de las bolsas de plástico.
+
+En todo momento se buscará que el fin de vida de las bolsas de plástico no sea mayor al de diez años.
+
+En el caso de que en la producción de bolsas se utilice un aditivo que sea incompatible con el reciclaje, se procurará que estas tengan un fin de vida menor al de cinco años.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -2914,3 +2946,19 @@ P.O. 9 DE OCTUBRE DE 2015.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los Poderes Legislativo, Judicial y Ejecutivo, así como los Municipios del Estado, contarán con 120 días contados a partir de la entrada en vigor de la reforma, para expedir sus manuales de sistemas de manejo ambiental.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 456 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 18 Y 19 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado dispondrá de un término de 180 días hábiles a efecto de que realice las adecuaciones pertinentes al Reglamento Interno del Consejo Estatal de Protección al Ambiente de Baja California.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 457 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 141 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor dentro de dieciocho meses, contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
