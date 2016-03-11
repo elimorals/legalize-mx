@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-01-29"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,17 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, PUBLICADO EN EL D.O.F. DE 11 DE MARZO DE 2016, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA AL SISTEMA BIOMÉTRICO DE REGISTRO DE ASISTENCIA DE PROCESADOS EN LIBERTAD PROVISIONAL (SIBAP), SE ENTENDERÁN HECHAS AL SISE CONTROL BIOMÉTRICO (SISE CB).]</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES.
 
@@ -2797,9 +2801,9 @@ XIX. Fungir como unidad productora de información estadística judicial y geore
 
 XX. Revisar el contenido y alcance de la información, documentación, análisis y propuestas de los asuntos que someta a consideración del superior jerárquico al cual esté adscrito, y mantenerlo informado de aquellos relevantes que conozca en el ámbito de su competencia;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
-XXI. Coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional;
+XXI. Coordinar las tareas tendientes al establecimiento, desarrollo y mantenimiento del SISE Control Biométrico;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5398,3 +5402,21 @@ D.O.F. 29 DE ENERO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El SISE CB iniciará operaciones el catorce de marzo de dos mil dieciséis en los Juzgados de Distrito y Tribunales Unitarios de Circuito que deban operarlo.
+
+En los Centros de Justicia Penal Federal la operación del SISE Control Biométrico iniciará conforme la Dirección General de Tecnologías de la Información dote de los equipos necesarios.
+
+CUARTO. A partir del trece de marzo de dos mil dieciséis dejará de funcionar en los órganos jurisdiccionales el Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional (SIBAP), por lo que, toda la información contenida y generada en ese sistema deberá transferirse al SISE Control Biométrico (SISE CB) antes de que inicie operaciones, con excepción de las incidencias reflejadas en la lista de tareas del SIBAP, las cuales deberán ser atendidas por el personal responsable en cada órgano jurisdiccional.
+
+QUINTO. Las Direcciones Generales de Estadística Administrativa y Judicial; y de Tecnologías de la Información, de conformidad con sus atribuciones, deberán realizar todas las acciones necesarias para el inicio de operaciones del SISE Control Biométrico.
+
+SEXTO. Las referencias que cualquier disposición haga al Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional (SIBAP), se entenderán hechas al SISE Control Biométrico (SISE CB).
