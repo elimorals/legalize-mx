@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-la-procuraduria-general-de-la-100374"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-04-17"
-last_updated: "2014-04-17"
+last_updated: "2016-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100374&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-12-10"
 
 CÓDIGO DE CONDUCTA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO A/024/16 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, PUBLICADO EN EL D.O.F. DE 11 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2016 (ABROGADO).
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 17 de abril de 2014.
 
@@ -320,3 +322,15 @@ SEGUNDO.- Se abrogan los Acuerdos A/217/05 por el que se expide el Código de Co
 Sufragio Efectivo. No Reelección.
 
 México, Distrito Federal, a 10 de diciembre de 2013.- El Procurador General de la República, Jesús Murillo Karam.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO A/024/16 ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan el Acuerdo A/114/13 por el que se expide el Código de Conducta de la Procuraduría General de la República, así como todas las disposiciones normativas que se opongan a lo previsto en el presente Acuerdo.
+
+TERCERO.- Se instruye a los titulares de las unidades administrativas y órganos desconcentrados de la Procuraduría General de la República, a efecto de que pongan en práctica las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
