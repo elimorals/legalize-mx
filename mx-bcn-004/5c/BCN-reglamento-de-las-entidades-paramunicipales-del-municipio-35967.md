@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2015-03-13"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
@@ -207,6 +207,28 @@ d) Comisión de Medio ambiente y Desarrollo sustentable.
 
 Cuatro integrantes de organismos representativos de la sociedad, cuyo perfil se identifique o relacione con los objetivos del Sistema Municipal de Parques Temáticos de Tijuana, Baja California.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2016)</small>
+
+ARTICULO 13 QUATER.- Con excepción a lo dispuesto por los artículos 12 y 13 de este Reglamento, la Junta de Gobierno del Instituto Metropolitano de Planeación de Tijuana, se integrará de la siguiente manera:
+
+I.- El Ejecutivo Municipal, quien presidirá la Junta de Gobierno;
+
+II.- Cuatro Regidores o Regidoras Presidentes/as de las Comisiones siguientes y relacionadas a la actividad del organismo:
+
+a) Comisión de Desarrollo Urbano, Obras y Servicios Públicos;
+
+b) Comisión de Medio Ambiente y Desarrollo Sustentable;
+
+c) Comisión de Planeación del Desarrollo Municipal;
+
+d) Comisión de Desarrollo Económico;
+
+III.- Un representante del sector académico (Universidades);
+
+IV.- Un representante del sector Empresarial;
+
+V.- Un representante del sector social (OSC'S).
+
 ###### ARTICULO 14.
 
 Los integrantes propietarios pertenecientes a la Administración Pública, serán nombrados al inicio de la Administración Municipal, durante el tiempo que estén en el cargo, y los representantes de la sociedad serán elegidos por el Ayuntamiento de una terna propuesta por el Presidente, durante el mes decimoctavo de la Administración Municipal quienes durarán en su comisión tres años y no podrán ser reelectos.
@@ -253,15 +275,21 @@ El quórum para sesionar en las sesiones del Órgano de Gobierno se dará con la
 
 Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el presidente voto de calidad en caso de empate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 21.
 
-El titular del organismo descentralizado será nombrado por el órgano de Gobierno de una terna propuesta por el Presidente quien podrá removerlo si existe causa justificada. Para ser nombrado titular del organismo descentralizado se deberán cumplir los siguientes requisitos:
+El titular del organismo descentralizado será nombrado por el órgan (sic) de Gobierno de una terna propuesta por el Ejecutivo Municipal quien podrá removerlo (sic) existe causa justificada. Para ser nombrado titular del organismo descentralizado s (sic) deberán cumplir los siguientes requisitos:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- Contar con un perfil profesional acorde al objeto o fines del organismo y con experiencia en materia administrativa;
 
 III.- No encontrarse en alguno de los impedimentos que para ser miembro del órgano de gobierno señalan las fracciones II, III, IV y V del artículo 18 de este Reglamento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2016)</small>
+
+IV.- Los demás que indique el Reglamento Interno de la Entidad Paramunicipal qu (sic) corresponda.
 
 ###### ARTICULO 22.
 
@@ -818,3 +846,13 @@ PRIMERO.- Las presentes reformas entrarán en vigor al el (sic) día siguiente d
 SEGUNDO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
 
 TERCERO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta administración municipal, para la implementación inmediata de las reformas aprobadas.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DEL INSTITUTO METROPOLITANO DE PLANEACIÓN DE TIJUANA, BAJA CALIFORNIA, ASÍ COMO LA REFORMA AL ARTÍCULO 21 Y LA ADICIÓN DEL ARTÍCULO 13 QUATER DEL REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, MEDIANTE DICTAMEN XXI-CDPM-02/2015”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal, órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a la presente reforma.
