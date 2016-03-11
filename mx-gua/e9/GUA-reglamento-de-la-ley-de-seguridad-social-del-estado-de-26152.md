@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-social-del-estado-de-26152"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-01"
-last_updated: "2009-01-27"
+last_updated: "2016-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DEL SISTEMA DE AHORRO VOLUNTARIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2009.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE AHORRO VOLUNTARIO DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de octubre de 2002.
 
@@ -234,3 +236,15 @@ P.O. 27 DE ENERO DE 2009.
 Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Articulo Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al contenido del presente Decreto Gubernativo.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 147, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO EN MATERIA DE AHORRO VOLUNTARIO DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Seguridad Social del Estado de Guanajuato en Materia del Sistema de Ahorro Voluntario, contenido en el Decreto Gubernativo número 131, publicado en el Periódico Oficial del Gobierno del Estado, Segunda Parte, número 117, de fecha 1 de octubre del 2002.
