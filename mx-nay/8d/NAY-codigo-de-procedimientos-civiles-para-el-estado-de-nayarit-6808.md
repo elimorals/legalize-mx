@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2015-05-27"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -3557,21 +3557,15 @@ La sentencia se pronunciará de manera breve y concisa, en el mismo momento de l
 
 ###### ARTICULO 471.
 
-En los casos del artículo 147 del Código Civil, cuando se solicite que el Juez supla el consentimiento para que menores de edad puedan contraer matrimonio, se aplicarán las siguientes disposiciones:
-
-I.- Declarará el estado de minoridad disponiendo la designación de un tutor dativo especial;
-
-II.- Oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución levantándose una sola acta con las diligencias; y
-
-III.- Si la resolución fuere favorable, se expedirá desde luego copia certificada para su presentación en el Registro Civil; en caso contrario se remitirá de oficio el expediente a la Sala Civil del Tribunal Superior de Justicia, la que, oyendo a los interesados dentro de tres días, resolverá lo que en derecho proceda.
+(DEROGADO, P.O. 11 DE MARZO DE 2016)
 
 ###### ARTICULO 472.
 
-El menor que tenga la edad requerida para contraer matrimonio y que necesite acudir a la autoridad competente, para suplir el consentimiento de quienes corresponda darlo, puede solicitar que se suspenda temporalmente la obligación a su cargo de habitar con el que se opusiere.
+(DEROGADO, P.O. 11 DE MARZO DE 2016)
 
 ###### ARTICULO 473.
 
-El Juez, sin formalidades especiales, decretará o negará la suspensión a que se refiere el artículo anterior, oyendo previamente a los interesados.
+(DEROGADO, P.O. 11 DE MARZO DE 2016)
 
 ### CAPITULO III. CALIFICACION DE IMPEDIMENTOS Y OBTENCION DE DISPENSA PARA EL MATRIMONIO
 
@@ -3601,7 +3595,7 @@ Para que se conceda dispensa de impedimento para contraer matrimonio, en los cas
 
 ###### ARTICULO 478.
 
-Cuando se solicite la autorización judicial a que se refieren los artículos 167 al 169 del Código Civil, citará el Juez a las partes a una audiencia en la que éstas podrán probar que el acto que pretenden realizar, es necesario o conveniente para la familia.
+(DEROGADO, P.O. 11 DE MARZO DE 2016)
 
 ###### ARTICULO 479.
 
@@ -5326,3 +5320,13 @@ DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 514 DEL CÓDIGO DE PROCEDIMIENTOS CIV
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto serán concluidos conforme a las disposiciones vigentes al momento en que se solicitó el proceso de divorcio.
+
+P.O. 11 DE MARZO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO QUE DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT”.]</small>
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero.- Comuníquese la presente resolución a las Direcciones de Registro Civil en el Estado.
