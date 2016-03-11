@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-para-el-estado-de-michoacan-85639
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-24"
-last_updated: "2013-12-09"
+last_updated: "2016-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 24 de enero del 2012.
 
@@ -231,7 +231,9 @@ III. Fiscalización Municipal.
 
 El Auditor Superior durará en su encargo siete años. Será nombrado y podrá ser removido en los términos y por las causas previstas en la Constitución, en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán y en la presente Ley.
 
-Los Auditores Especiales durarán en su encargo cinco años y serán designados de forma escalonada.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+
+Los Auditores Especiales durarán en su encargo cinco años.
 
 El Director de la Unidad General de Asuntos Jurídicos, durará en su encargo cinco años.
 
@@ -879,11 +881,11 @@ En el caso del artículo 31 de la presente Ley, entrará en vigor, al tiempo del
 
 ###### ARTÍCULO CUARTO.
 
-Para dar cumplimiento a lo dispuesto en el segundo párrafo del artículo 9 de la presente Ley, el Congreso del Estado designará a los Auditores Especiales quienes, por esta única ocasión, durarán en sus cargos, por su orden de elección, el primero, tres años; el segundo, cuatro años; y, el tercero, cinco años.
+(DEROGADO, P.O. 11 DE MARZO DE 2016)
 
 ###### ARTÍCULO QUINTO.
 
-Se abroga la Ley de Fiscalización Superior del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 28 veintiocho de marzo del año 2033 dos mil tres (sic).
+Se abroga la Ley de Fiscalización Superior del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 28 veintiocho de marzo del año 2033 (sic) dos mil tres.
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
@@ -918,3 +920,11 @@ Toda referencia a la Ley de Fiscalización Superior para el Estado de Michoacán
 ###### ARTÍCULO QUINTO.
 
 Todas aquellas referencias a la Contaduría General de Glosa, Contaduría General o Contaduría, descrita en cualquier ordenamiento del Estado de Michoacán de Ocampo, entendiéndose la referencia a la Auditoría Superior de Michoacán.
+
+P.O. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 128 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 9, Y SE DEROGA EL ARTÍCULO CUARTO TRANSITORIO, AMBOS DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
