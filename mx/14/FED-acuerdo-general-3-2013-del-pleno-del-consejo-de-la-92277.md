@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-02-26"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -361,7 +361,9 @@ XX. VIGESIMO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
 
-3. Nueve juzgados de Distrito en el Estado de Chiapas: dos especializados de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito mixtos: cinco con sede en Tuxtla Gutiérrez y dos con residencia en Tapachula.
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 16/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2016)</small>
+
+3. Nueve juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; cinco juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
 
 XXI. VIGESIMO PRIMER CIRCUITO:
 
@@ -377,9 +379,9 @@ XXI. VIGESIMO PRIMER CIRCUITO:
 
 XXII. VIGESIMO SEGUNDO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 29/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 13/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MARZO DE 2016)</small>
 
-1. Cuatro tribunales colegiados con residencia en Querétaro.
+1. Cuatro tribunales colegiados semiespecializados: uno en materias penal y administrativa; uno en materias administrativa y de trabajo; y dos en materias administrativa y civil, todos con residencia en Querétaro, Querétaro.
 
 2. Un tribunal unitario con sede en Querétaro.
 
@@ -2302,3 +2304,103 @@ D.O.F. 26 DE FEBRERO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor el veintinueve de febrero de dos mil dieciséis.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 11 DE MARZO DE 2016.
+
+[TRANSITORIOS DEL “ACUERDO GENERAL 13/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA SEMIESPECIALIZACIÓN Y CAMBIO DE DENOMINACIÓN DE LOS TRIBUNALES COLEGIADOS DEL VIGÉSIMO SEGUNDO CIRCUITO CON SEDE EN QUERÉTARO, QUERÉTARO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el catorce de marzo de dos mil dieciséis, con excepción de lo dispuesto en el TERCERO y CUARTO transitorios, los cuales entrarán en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo de la Judicatura Federal.
+
+TERCERO. Dese vista a la Comisión de Adscripción para efecto de la integración de los órganos colegiados conforme a las materias de la semiespecialización que se ordena.
+
+CUARTO. La Coordinación de Administración Regional, deberá proveer a los tribunales colegiados que cambian de denominación y competencia de los recursos materiales necesarios (entre otros, letreros de identificación, actualización de placas de directorios de edificios, sellos oficiales, papelería), conforme a su nueva denominación, para que a la brevedad posible cuenten con ellos.
+
+QUINTO. El Pleno del Vigésimo Segundo Circuito continuará con su conformación, competencia y denominación actual. Lo anterior, de conformidad con lo dispuesto en el artículo 9, en relación con el artículo 2, fracciones XV y XVI, del Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
+
+SEXTO. Se reforma el numeral SEGUNDO, fracción XXII, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XXI. …
+
+XXII. …
+
+1. Cuatro tribunales colegiados semiespecializados: uno en materias penal y administrativa; uno en materias administrativa y de trabajo; y dos en materias administrativa y civil, todos con residencia en Querétaro, Querétaro.
+
+2. a 3. …
+
+XXIII. a XXXII. …”
+
+D.O.F. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 16/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CONOCIMIENTO POR PARTE DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN CINTALAPA DE FIGUEROA, DE LAS CAUSAS PENALES QUE ACTUALMENTE SON COMPETENCIA DE LOS JUZGADOS DE DISTRITO EN EL REFERIDO ESTADO, CON SEDE EN TUXTLA GUTIÉRREZ; ASÍ COMO AL CAMBIO DE DENOMINACIÓN Y COMPETENCIA DE ESTOS ÚLTIMOS, Y A LA NUEVA DENOMINACIÓN DE LOS JUZGADOS DE DISTRITO EN LA CITADA ENTIDAD FEDERATIVA, CON SEDE EN TAPACHULA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el catorce de marzo de dos mil dieciséis, salvo lo dispuesto en el CUARTO transitorio que entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo, para los Juzgados de Distrito de Procesos Penales Federales en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, y de los Juzgados de Distrito de Amparo y Juicios Federales en el mismo Estado, con residencia en Tuxtla Gutiérrez, iniciará el día lunes a las ocho horas con treinta minutos, y finalizará el siguiente lunes a las ocho horas con veintinueve minutos, quedando de la siguiente manera:
+
+SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
+
+CORRESPONDE LA GUARDIA
+
+Del 14 al 21 de Juzgado Primero de Distrito de Procesos Penales
+
+marzo de 2016 Federales y Juzgado Tercero de Distrito de Amparo
+
+y Juicios Federales.
+
+Del 21 al 28 de Juzgado Segundo de Distrito de Procesos Penales
+
+marzo de 2016 Federales y Juzgado Cuarto de Distrito de Amparo
+
+y Juicios Federales.
+
+Del 28 de marzo Juzgado Primero de Distrito de Procesos Penales
+
+al 4 de abril de 2016 Federales y Juzgado Quinto de Distrito de Amparo
+
+y Juicios Federales.
+
+Del 4 al 11 de abril Juzgado Segundo de Distrito de Procesos Penales
+
+de 2016 Federales y Juzgado Primero de Distrito de Amparo
+
+y Juicios Federales.
+
+Del 11 al 18 de abril Juzgado Primero de Distrito de Procesos Penales
+
+de 2016 Federales y Juzgado Segundo de Distrito de Amparo
+
+y Juicios Federales.
+
+Del 18 al 25 de abril Juzgado Segundo de Distrito de Procesos Penales
+
+de 2016 Federales y Juzgado Tercero de Distrito de Amparo
+
+y Juicios Federales.
+
+Y así sucesivamente, de forma semanal.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales materia del presente Acuerdo, de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+QUINTO. Los titulares de los órganos jurisdiccionales que cambian de denominación, deberán colocar letreros en un lugar visible de la puerta de entrada, estrados, reja de prácticas y demás que consideren necesarios del local que cada uno ocupa, tanto para el público como para los que en su caso se encuentren tras las rejas de la ventanilla de prácticas judiciales, en los que se informe que en atención al presente Acuerdo General del Pleno del Consejo de la Judicatura Federal, relativo al conocimiento por parte de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, de las causas penales que actualmente son competencia de los juzgados de Distrito en el referido estado, con sede en Tuxtla Gutiérrez, así como al cambio de denominación y competencia de estos últimos, y a la nueva denominación de los juzgados de Distrito en la citada entidad federativa, con sede en Tapachula, a partir del catorce de marzo de dos mil dieciséis, se instruyó el cambio de denominación y competencia de los Juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, a Juzgados de Distrito de Amparo y Juicios Federales, así como al cambio de denominación de los Juzgados de Distrito con sede en Tapachula. La colocación de avisos se hará también en las oficinas de correspondencia común correspondientes.
+
+SEXTO. Se reforma el numeral SEGUNDO, fracción XX, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. a XIX. …
+
+XX. …
+
+1. …
+
+2. …
+
+3. Nueve juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; cinco juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
+
+XXI. a XXXII. …"
