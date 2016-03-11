@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-fomento-y-desarrollo-agropecuario-acuicola-y-252
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2008-05-23"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DEL FOMENTO Y DESARROLLO AGROPECUARIO, ACUICOLA Y FORESTAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL FOMENTO Y DESARROLLO AGROPECUARIO, ACUICOLA Y FORESTAL DEL ESTADO DE MEXICO
+REGLAMENTO DEL FOMENTO Y DESARROLLO AGROPECUARIO, DE LA ACUACULTURA, APICULTURA Y EL AGAVE DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -33,7 +33,9 @@ C O N S I D E R A N D O...
 
 Por lo anterior, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DEL FOMENTO Y DESARROLLO AGROPECUARIO, ACUICOLA Y FORESTAL DEL ESTADO DE MEXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
+
+REGLAMENTO DEL FOMENTO Y DESARROLLO AGROPECUARIO, DE LA ACUACULTURA, APICULTURA Y EL AGAVE DEL ESTADO DE MÉXICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -41,165 +43,281 @@ REGLAMENTO DEL FOMENTO Y DESARROLLO AGROPECUARIO, ACUICOLA Y FORESTAL DEL ESTADO
 
 Las disposiciones de este Reglamento son de orden público e interés social y tienen por objeto reglamentar las disposiciones contenidas en el Libro Noveno del Código Administrativo del Estado de México, para:
 
-I. Promover el desarrollo y fomento de las actividades agropecuarias, acuícolas y forestales en la entidad.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+I. Promover el desarrollo y fomento de las actividades agropecuarias, de la acuacultura, apicultura y el agave en la Entidad.
 
-II. Lograr el mejoramiento de las condiciones de la producción agropecuaria, acuícola y forestal, mediante el aprovechamiento racional de los recursos naturales; promover proyectos de investigación científica y desarrollo tecnológico en la materia, la transferencia de tecnología, la organización y capacitación de los productores, el desarrollo de esquemas de comercialización, el otorgamiento de apoyos y estímulos para la producción; aplicación de la sanidad e inocuidad agroalimentaria y la promoción y ejecución de obras de infraestructura y de inversiones.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-III. Determinar las acciones de coordinación entre las autoridades federales, estatales, municipales, las organizaciones y los productores, en el proceso agropecuario, acuícola y forestal.
+II. Mejorar las condiciones de producción, protección, aprovechamiento racional de los recursos naturales, promover proyectos de investigación científica y desarrollo tecnológico en la materia, la transferencia de tecnología, la aplicación de tecnologías de la información y comunicaciones, la organización y capacitación de las y los productores, el desarrollo de esquemas de comercialización, el otorgamiento de apoyos y estímulos para la producción, la aplicación de la sanidad e inocuidad agroalimentaria, el control de la movilización y la implementación de la trazabilidad en la agricultura, pecuaria, la acuacultura, apicultura y el agave, la promoción y ejecución de obras de infraestructura e inversiones.
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+III. Determinar las acciones de coordinación entre las demás dependencias y entidades de la Administración Pública Estatal, así como con las autoridades federales y municipales en el ámbito de sus atribuciones, las personas jurídicas colectivas, las y los productores en las actividades agropecuarias, de la acuacultura, apicultura y el agave, así como en la debida aplicación del presente Reglamento.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+IV. Celebrar acuerdos y convenios en materia de sanidad vegetal, animal, acuícola, apícola y del agave con las dependencias o entidades de la administración pública federal, estatal y municipal.
+
+Los acuerdos y convenios que suscriba la Secretaría con los municipios con el objeto de coadyuvar en el desempeño de sus atribuciones para la ejecución y operación de obras y prestación de servicios públicos, deberán publicarse en el periódico oficial “Gaceta del Gobierno” del Estado de México.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+V. Concertar acciones con los organismos auxiliares y particulares vinculados con la materia de sanidad vegetal, animal, agrícola, acuícola, apícola y el agave.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+VI. Celebrar y promover la suscripción de acuerdos y convenios con instituciones académicas y científicas estatales y nacionales, orientados a desarrollar proyectos conjuntos de investigación científica, capacitación e intercambio de tecnología en materia de sanidad vegetal, animal, agrícola, acuícola, apícola y el agave.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+VII. Prevenir la introducción al Estado de plagas y agentes causales de problemas sanitarios que afecten a los vegetales, animales, acuícolas, apícolas, el agave, sus productos, subproductos y ejercer el control sanitario en la movilización regional, estatal, así como en la importación y exportación.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+VIII. Controlar los aspectos sanitarios de la producción, industrialización, comercialización y movilización de vegetales, animales, acuícolas, apícolas, el agave, sus productos y subproductos, vehículos de transporte, materiales, maquinaria y equipos cuando impliquen un riesgo sanitario.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+IX. Ordenar en el ámbito de su competencia la retención, disposición o destrucción de vegetales, animales, acuícolas, apícolas, el agave, sus productos y subproductos, en los términos y supuestos indicados en este Reglamento, las normas oficiales mexicanas y demás disposiciones jurídicas aplicables en la materia.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+X. Atender las denuncias populares que se presenten, imponer medidas sanitarias y las sanciones correspondientes, así como resolver los recursos de revisión en materia de desarrollo agropecuario, acuacultura, apicultura y el agave.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XI. Presentar denuncias ante la autoridad competente por la probable existencia de un delito en materia de desarrollo agropecuario, en la acuacultura, apicultura y el agave, en términos del presente Reglamento y demás disposiciones jurídicas aplicables en la materia.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XII. Autorizar y regular el uso, movilización, importación y reproducción de agentes vivos de control biológico que se utilicen en el control de plagas y enfermedades que afectan a los vegetales, animales, acuícolas, apícolas, los agaves, sus productos y subproductos.
 
 ###### Artículo 2.
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. Acopio: al mecanismo mediante el cual se recibe, clasifica, guarda y consolidan mercancías diversas.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-II. Agregamiento parcelario: a la unión de varias parcelas.
+I. Acopio. Al lugar donde se recibe, clasifica y concentran mercancías vegetales, animales, acuícolas, apícolas y de agaves con fines de comercialización.
 
-III. Apoyo: corresponde a bienes y servicios que incentivan a productores avanzar tecnológicamente, aumentando producción y productividad.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+II. Acta Circunstanciada. Al documento oficial en el que se hace constar los resultados de la inspección que realiza personal oficial de la Secretaría, para verificar el cumplimiento de las disposiciones establecidas en este Reglamento y demás disposiciones jurídicas aplicables en la materia.
 
-IV. Arete oficial: Arete autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para la identificación individual de animales.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+III. Acuacultura. Al conjunto de actividades dirigidas a la reproducción controlada, pre engorda y engorda de especies de la fauna y flora realizadas en instalaciones ubicadas en aguas dulces, marinas o salobres, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa.
 
-V. Auxiliares: los organismos auxiliares y fideicomisos de la administración pública estatal, vinculados con actividades agropecuarias, acuícolas y forestales; las asociaciones de productores agropecuarias, acuícolas y forestales; el Centro Inteligente de Soluciones para la Acuacultura (CISAMEX); las instituciones de enseñanza superior o de investigación agropecuaria, acuícola y forestal en materia de tecnología y asistencia técnica; el Comité Estatal de Sanidad Vegetal del Estado de México; el Comité de Sanidad Acuícola del Estado de México; el Comité de Fomento y Protección Pecuaria del Estado de México; y el Consejo Técnico Consultivo Forestal del Estado de México.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+IV. Acuícola. Al cultivo de organismos acuáticos, en particular peces, moluscos, crustáceos y plantas acuáticas. La actividad de cultivo implica la intervención del hombre en el proceso de cría para aumentar la producción, en operaciones como la siembra, la alimentación, la protección de depredadores, etc.
 
-VI. Asociación Ganadera de Registro: organización que agrupa a ganaderos criadores de una especie animal determinada, en un Municipio.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+V. Agave. Al vegetal de la familia Agavaceae, que deriva del griego ayaun, "noble" o "admirable" y es considerada en todos sus subgéneros, grupos, especies, subespecies, variedades y formas dentro de las cuales se encuentra el maguey.
 
-VII. Buenas Prácticas: Son el conjunto de procedimientos, condiciones y controles que se aplican en las unidades de producción o de manufactura, los cuales incluyen limpieza de las instalaciones físicas, equipos y utensilios de higiene y salud del personal para minimizar el riesgo de contaminación física, química y biológica durante la cría, manejo, salud del hato o en la planta de manufacturación.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+VI. Agricultura. Al conjunto de actividades y conocimientos desarrollados por el hombre destinadas a cultivar la tierra y cuya finalidad es obtener productos vegetales (como verduras, frutos, granos y pastos) o subproductos (como el pulque, mezcal y otros que se obtienen del agave) para la alimentación del ser humano y del ganado.
 
-VIII. Campañas: Conjunto de medidas fitosanitarias o zoosanitarias que se aplican en una fase y un área geográfica determinada, para la prevención, control o erradicación de enfermedades o plagas de los animales o vegetales, según corresponda.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+VII. Agrícola. Al conjunto de técnicas y conocimientos para cultivar la tierra y es parte de la agricultura.
 
-IX. Certificado zoosanitario: Documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o los organismos de certificación acreditados y aprobados en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización, en el que se hace constar el cumplimiento de las disposiciones de sanidad animal.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+VIII. Animal. A todas las especies de animales vivos conforme a este Reglamento, con excepción de las provenientes del medio acuático ya sea marítimo, fluvial, lacustre o de cualquier cuerpo de agua natural o artificial.
 
-X. Código: al Código Administrativo del Estado de México.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+IX. Apicultura. A la actividad que comprende la cría, mejoramiento y explotación racional de las abejas en forma fija o migratoria.
 
-XI. Comercialización: la herramienta o instrumento mediante el cual se intercambian bienes y/o servicios por dinero.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+X. Apoyo. A las acciones, bienes o servicios que ayudan a la o el productor para el sostenimiento de su actividad.
 
-XII. Constancia de Propiedad: documento mediante el cual se corrobora la propiedad de los animales o sus productos, pudiendo ser por medio de factura o documento expedido por alguna Autoridad Municipal Ganadera.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+XI. Arete oficial. A los aretes de campañas y de Sistema Nacional de Identificación Individual de Ganado (SINIIGA) autorizados por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA) para la identificación individual de animales.
 
-XIII. Elemento electromagnético: al que se implanta por vía subcutánea o intramuscular en el animal, y que contiene los datos de identidad del mismo y de su propietario.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+XII. Buenas Prácticas. Al conjunto de procedimientos, actividades, condiciones y controles que se aplican en las unidades de producción o de manufactura de vegetales, animales, acuícolas, apícolas y el agave en los establecimientos, con el objeto de disminuir los peligros asociados a agentes físicos, químicos o biológicos, así como los riesgos sanitarios en los bienes de origen vegetal, animal, acuícola, apícola y el agave para consumo animal o del ser humano, sin perjuicio de otras disposiciones legales aplicables en materia de salud pública.
 
-XIV. Estímulo: corresponde a bienes o servicios que coadyuvan en los sistemas de producción.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+XIII. Campañas. Al conjunto de medidas sanitarias que se aplican en una fase y área geográfica determinada para la prevención, control y erradicación de enfermedades o plagas de los vegetales, animales, organismos acuáticos, apícolas y el agave, según corresponda.
 
-XV. Ganadero: persona física o moral que directa o indirectamente realiza actividades dedicadas a la explotación de especies animales.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+XIV. Clembuterol. Al fármaco beta agonista al cual se le considera un potente bronco dilatador, anabólico y agente lipolítico. También se le denomina agente de reparto, pues fomenta la producción de proteína y reduce la grasa, prohibido por la Secretaría para el uso o consumo animal.
 
-XVI. Guía Zoosanitaria de Movilización Intraestatal: Documento expedido por el Comité de Fomento y Protección Pecuaria del Estado de México o los centros expeditores, aprobados por este.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+XV. Código. Al Código Administrativo del Estado de México.
 
-XVII. Identificaciones Permanentes: Es el medio a través del cual se reconoce un animal, de forma legible y para toda la vida.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+XVI. Comercialización. A la acción a través de la cual se intercambian bienes y/o servicios por dinero.
 
-XVIII. Infraestructura: las obras y acciones ejecutadas a través de los programas relativos a la construcción, mantenimiento, rehabilitación, asistencia técnica, suministro de materiales y operación de obras en las áreas agropecuarias, acuícolas, hidrológicas, forestales, de producción, acopio, transformación y comercialización.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+XVII. Constancia de Propiedad. Al documento por el cual se acredita la propiedad de vegetales, animales, acuícolas, apícolas y agaves, sus productos y subproductos siendo éste la factura electrónica.
 
-XIX. Inocuidad: Conjunto de procedimientos orientados a evitar que los alimentos causen daño a la salud de los consumidores.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+XVIII. Comprobante Fiscal Digital. Al documento emitido por la Secretaría de Hacienda y Crédito Público que acredita la propiedad del maguey en todas sus variedades.
 
-XX. Marca de fierro: a la que se imprime en el cuarto trasero izquierdo del animal, por medio de hierro candente o substancias químicas, y que sirve para relacionar al animal con su propietario.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+XIX. Criador. A la persona que tiene a su cargo o por oficio criar animales.
 
-XXI. Mostrenco: Ganado sin marca de propiedad (identificación permanente).
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+XX. Cuarentena. A las restricciones sobre la movilización de mercancías que se establecen en las disposiciones legales aplicables en la materia de sanidad vegetal, animal, organismos acuáticos, apícolas y el agave, con el propósito de prevenir o retardar la introducción de plagas en áreas donde no se sabe que existan. Por sus objetivos podrán ser exteriores, si previenen la introducción y presencia de plagas exóticas o, interiores, si retardan la propagación, controlan o erradican cualquier plaga que se haya introducido.
 
-XXII. Normatividad: A las Leyes, Normas Oficiales Mexicanas y disposiciones aplicables en materia fitozoosanitaria, acuícola y forestal.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+XXI. Establecimiento. A la instalación en la que se sacrifican, procesan y/o almacenan con fines industriales, vegetales, animales, acuícolas, apícolas y agaves destinados al consumo humano para el comercio nacional e internacional.
 
-XXIII. Normas Oficiales: Es la regulación técnica de observancia obligatoria nacional o estatal, expedida por las dependencias competentes, conforme a las finalidades establecidas por la Federación o el Gobierno del Estado, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema o actividad.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-Las Normas Oficiales Estatales y Nacional que expida la autoridad competente en materia de sanidad animal y vegetal de carácter obligatorio.
+XXII. Estímulo. A los bienes o servicios que coadyuvan en los sistemas de producción.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXIV. Organismos auxiliares: Aquellos autorizados por la Secretaría y que están legalmente constituidos y que coadyuvan con ésta en la sanidad y en las actividades asociadas a las buenas prácticas pecuarias de los bienes de origen animal y vegetal, incluidos el Comité de Fomento y Protección Pecuaria del Estado de México S.C., Comité Estatal de Sanidad Vegetal del Estado de México y el Comité de Sanidad Acuícola del Estado de México.
+XXIII. Fierro. Al instrumento de herrar a fuego o en frío en el cuerpo del animal que identifica de manera permanente al propietario del mismo, en el caso de abejas se realizará con fierro a fuego en la parte frontal de las colmenas.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXV. Producto: Bien que resulta de un proceso productivo, y consiste en la obtención del fin principal de la explotación de animales y vegetales.
+XXIV. Guía de Tránsito y Control Estadístico. Al documento electrónico oficial emitido por personal oficial de la Secretaría para la movilización y trazabilidad de vegetales, animales, acuícolas, apícolas y agaves, sus productos y subproductos dentro del Estado de México.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXVI. Producto vegetal: a las partes útiles de los vegetales.
+XXV. Identificación permanente. Al medio a través del cual se reconoce un animal o colmena, de forma legible y para toda la vida como el fierro, marca o tatuaje.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXVII. PVI: Punto de Verificación e Inspección Zoosanitaria o Fitosanitaria.
+XXVI. Infraestructura. A las obras y acciones ejecutadas a través de los programas relativos a la construcción, mantenimiento, rehabilitación, asistencia técnica, suministro de materiales y operación de obras en las áreas agropecuarias, acuícolas, apícolas, del agave e hidrológicas de producción, acopio, transformación y comercialización.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXVIII. Reglamento: al presente Reglamento del Fomento y Desarrollo Agropecuario, Acuícola y Forestal del Estado de México.
+XXVII. Inocuidad. Al conjunto de procedimientos orientados a evitar que los alimentos de origen vegetal, animal, acuícola, apícola y el agave causen daño a la salud de los consumidores por contaminantes físicos, químicos o biológicos.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXIX. Riesgo: Es la evaluación del impacto zoosanitario, fitosanitario o agroecológico que se determina ante el supuesto de la introducción o establecimiento de un organismo en un lugar del cual no es nativo o no está establecido.
+XXVIII. Inspección. Al acto practicado por personal de la Secretaría para constatar a través de verificación, el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal, animal, acuícola, apícola y el agave en sistemas de reducción de riesgos de contaminación en la producción primaria para que en caso de incumplimiento, se apliquen las medidas sanitarias e impongan las sanciones administrativas correspondientes a través de un acta circunstanciada de carácter administrativo.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXX. Sanidad: La que tiene por objeto preservar la salud, así como prevenir, controlar y erradicar las enfermedades o plagas de los animales y vegetales, sus productos y subproductos.
+XXIX. Marca. A la muestra en las orejas del animal que lo identifica y señala a su propietario.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXXI. Secretaría: a la Secretaría de Desarrollo Agropecuario.
+XXX. Medida sanitaria. A la disposición para prevenir, controlar o erradicar la introducción, radicación, propagación de una plaga o enfermedad y de los riesgos provenientes de aditivos, contaminantes, toxinas u organismos causantes de enfermedades y daños que afecten a los vegetales, animales, acuícolas, apícolas y agaves.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXXII. Señal de sangre: A los cortes verificados en las orejas de los animales, no mayores a la superficie de media oreja y que dejan huella inconfundible y permanente durante la vida del animal.
+XXXI. Mostrenco. Al ganado sin fierro, marca, tatuaje o cualquier otra identificación permanente autorizada.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXXIII. Subproducto: Obtención de un bien procedente de un fin principal, el cual puede ser procesado o un desecho de la explotación de animales y vegetales.
+XXXII. Normatividad. A las leyes federales, estatales y municipales, normas oficiales mexicanas y disposiciones aplicables en materia de sanidad vegetal, animal, acuícola, apícola y el agave.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-XXXIV. Subproducto Vegetal: al que se deriva de un producto vegetal bajo cualquier proceso de producción o transformación.
+XXXIII. Normas oficiales. A la regulación técnica de observancia obligatoria nacional o estatal expedida por las dependencias competentes, conforme a las finalidades establecidas por la Federación o el Gobierno del Estado, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema o actividad.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+Las Normas Oficiales Estatales y Nacionales que expida la autoridad competente en materia de sanidad vegetal, animal, acuícola, apícola y el agave de carácter obligatorio.
 
-XXXV. Tatuaje: A la figura con tinta indeleble que se estampa en la piel de los animales.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+XXXIV. Organismos auxiliares. A los autorizados por la Secretaría, que están legalmente constituidos y que coadyuvan con ésta en la sanidad y en las actividades asociadas a las buenas prácticas de los bienes de origen vegetal, animal, acuícola, apícola y el agave, incluidos el Comité Estatal de Sanidad Vegetal del Estado de México, el Comité de Sanidad Acuícola del Estado de México A.C., así como el Comité de Fomento y Protección Pecuaria del Estado de México S.C.
 
-XXXVI. Unidad productiva: A la integrada por productores en lo individual o colectivo, con el objeto de llevar a cabo actividades de producción agropecuaria, acuícola y forestal, mediante el uso de espacios comunes, construcción de obras de provecho común, utilización de equipos y prestación de servicios en mutuo beneficio.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+XXXV. Padrón Ganadero Nacional (PGN). Al registro de las Unidades de Producción Pecuarias (UPP) de todas las especies de interés zootécnico, así como el de los Prestadores de Servicios Ganaderos (PSG) existentes en el territorio nacional.
 
-XXXVII. Vegetales: a las especies agrícolas, forestales y silvestres.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+XXXVI. Patente. Al documento oficial otorgado por la Secretaría que permite conjuntar información de la Unidad de Producción agropecuaria, de la acuacultura, apicultura y el agave.
 
-XXXVIII. Vocación natural: características propias de una región para una producción determinada.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XXXVII. Personal Oficial. A las y los servidores públicos de la Secretaría, facultados para realizar actividades que el Libro Noveno del Código, el presente Reglamento y las disposiciones jurídicas derivadas de éstos establecen como atribuciones de la Secretaría.
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XXXVIII. Producto. Al bien que resulta de un proceso productivo consistente en la obtención de un fin principal de la explotación de vegetales, animales, acuícolas, apícolas y agaves.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XXXIX. Puntos de Verificación e Inspección Interna (PVII). A los autorizados por la Secretaría, instalados en lugares específicos del territorio estatal, en las vías terrestres de comunicación, límite estatal y sitios estratégicos, que permiten controlar la entrada o salida de mercancías reguladas a zonas de producción, que de acuerdo a las disposiciones de sanidad aplicables a bienes de origen vegetal, animal, acuícola, apícola y el agave deban inspeccionarse o verificarse.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XL. Reglamento. Al Reglamento del Fomento y Desarrollo Agropecuario, de la Acuacultura, Apicultura y el Agave del Estado de México.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLI. Riesgo sanitario. A la probabilidad de introducción, establecimiento, diseminación de una enfermedad o plaga, así como de contaminación de bienes de origen agrícola, pecuario, acuícola, apícola y el agave, para uso o consumo animal que puedan ocasionar daño a los consumidores.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLII. Retención. Al acto que ordena la Secretaría con el objeto de asegurar temporalmente bienes de origen agrícola, pecuario, acuícola, apícola y el agave, desechos, despojos, productos químicos, farmacéuticos, biológicos o alimenticios para uso en animales o consumo por éstos, considerados como de riesgo sanitario.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLIII. Sanidad. Al conjunto de prácticas y medidas establecidas en normas oficiales, acuerdos y reglamentos encaminados a la prevención, diagnóstico y control de las plagas y enfermedades de los vegetales, animales, acuícolas, apícolas y agaves.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLIV. SAGARPA. A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLV. Secretaría. A la Secretaría de Desarrollo Agropecuario.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLVI. Subproducto. Al derivado del proceso de bienes de origen vegetal, animal, acuícola, apícola y el agave que generalmente se utilizan en la industria de alimentos para animales y/o farmacéuticos, capaz de ser empleado para consumo humano, el cual deberá ser procesado bajo condiciones higiénicas.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLVII. SINIGA. Sistema Nacional de Identificación Individual de Ganado.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLVIII. Sistema Único de Registro Agropecuario (SURA). Al Registro Agropecuario Estatal emitido por la Secretaría por medio de una credencial para identificar a las y los productores de los bienes agrícolas, pecuarios, acuícolas, apícolas y los agaves que han cumplido con los requisitos establecidos por el presente Reglamento.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+XLIX. Sitio. Al lugar asignado por la Secretaría para realizar la verificación e inspección sanitaria.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+L. Tatuaje. A la identificación permanente por medio de tinción cutánea en las orejas o belfos u otras partes del animal, correspondiente a la o el propietario o al número del animal.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+LI. Trazabilidad. A las actividades técnicas y administrativas sistematizadas que permiten registrar los procesos relacionados con la producción, procesamiento y transformación hasta el consumo final de los bienes de origen agrícola, pecuario, acuícola, apícola y el agave, así como de los productos químicos, farmacéuticos, biológicos y alimenticios para uso, consumo o aplicación en ellos, identificando en cada etapa su ubicación espacial y en su caso los factores de riesgo sanitario de la contaminación que pueden estar presentes en cada una de las actividades.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+LII. Tratamiento. Al procedimiento de naturaleza química, física o de otra índole para eliminar, remover o inactivar a los agentes que causan las enfermedades o plagas que afectan a los vegetales, animales, acuícolas, apícolas y a los agaves, para erradicar cualquier fuente de contaminación alimentaria.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+LIII. Unidad de Producción Pecuaria (UPP). Al término utilizado por el Padrón Ganadero Nacional al espacio físico e instalaciones en las que se alojan especies animales para su crianza, reproducción y engorda con el propósito de utilizarlas para el autoconsumo, abasto o comercialización.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+LIV. Vegetales. A las especies que pertenecen al reino vegetal como el agave y sus derivados, nopal, café, aguacate, considerándose en las especies agrícolas además de sus productos o subproductos que conservan sus cualidades originales y no han sufrido transformación alguna.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+LV. Verificación. A la constatación ocular, revisión de documentos o comprobación por muestreo y análisis de laboratorio oficial, aprobado o autorizado, que compruebe el cumplimiento de lo establecido en el presente Reglamento y demás disposiciones jurídicas aplicables en la Entidad.
 
 ###### Artículo 3.
 
@@ -213,13 +331,19 @@ II. Los ayuntamientos.
 
 Serán auxiliares en la aplicación de este Reglamento:
 
-I. Los organismos auxiliares y fideicomisos de la administración pública estatal, vinculados con actividades agropecuarias, acuícolas y forestales.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-II. Las asociaciones de productores agropecuarias, acuícolas y forestales.
+I. Los organismos auxiliares y fideicomisos de la Administración Pública Estatal, vinculados con actividades agropecuarias, acuícolas, apícolas y el agave.
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+II. Las asociaciones de productores agropecuarios, acuícolas, apícolas y del agave o maguey.
 
 III. El Centro Inteligente de Soluciones para la Acuacultura (CISAMEX).
 
-IV. Las instituciones de enseñanza superior o de investigación agropecuaria, acuícola y forestal en materia de tecnología y asistencia técnica.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+IV. Las instituciones de enseñanza superior o de investigación agropecuaria, acuícola, apícola y el agave en materia de tecnología y asistencia técnica.
 
 V. El Comité de Sanidad Vegetal del Estado de México.
 
@@ -229,13 +353,19 @@ VI. El Comité de Sanidad Acuícola del Estado de México.
 
 VII. El Comité de Fomento y Protección Pecuaria del Estado de México.
 
-VIII. El Consejo Técnico Consultivo Forestal del Estado de México.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-### CAPITULO II. DE LA REGIONALIZACION PARA EL FOMENTO AGROPECUARIO, ACUICOLA Y FORESTAL
+VIII. Los Consejos Apícola y del Maguey del Estado de México.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
+
+### CAPITULO II. DE LA REGIONALIZACIÓN PARA EL FOMENTO AGROPECUARIO, DE LA ACUACULTURA, APICULTURA Y EL AGAVE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 5.
 
-La Secretaría para la eficiente y eficaz coordinación y ejecución de las actividades agropecuarias, acuícolas y forestales, en el territorio del-Estado, se sujetará a la regionalización siguiente
+La Secretaría para la eficiente y eficaz coordinación y ejecución de las actividades agropecuarias, acuícolas, apícolas y el agave en el territorio del Estado, se sujetará a la regionalización siguiente:
 
 > <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
 
@@ -281,27 +411,43 @@ X. Delegación Regional de Desarrollo Agropecuario Ixtapan de la Sal, integrada 
 
 XI. Delegación Regional de Desarrollo Agropecuario Tejupilco, integrada por los municipios de: Amatepec, Luvianos, San Simón de Guerrero, Tejupilco, Temascaltepec y Tlatlaya.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 6.
 
-La determinación de las regiones económico-agropecuarias, acuícolas y forestales, tendrá por objeto:
+La determinación de las regiones económico-agropecuarias, acuícolas, apícolas y el agave tendrán por objeto:
 
-I. Aprovechar integralmente los recursos del suelo, del agua y de las especies agropecuarias, acuícolas y forestales.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-II. Elaborar programas para el desarrollo y fomento de la actividad agropecuaria, acuícola y forestal con base en el uso y explotación sustentable de los recursos naturales de la entidad.
+I. Aprovechar integralmente los recursos del suelo, agua y de las especies agropecuarias, acuícolas, apícolas y el agave.
 
-III. Inducir a los productores agropecuarios, acuícolas y forestales al empleo de prácticas que incrementen la eficiencia, productividad, sustentabilidad y competitividad de sus actividades.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-IV. Fortalecer los procesos de desconcentración administrativa para dar celeridad a los trámites y gestiones relacionados con las actividades agropecuarias, acuícolas y forestales.
+II. Elaborar programas para el desarrollo y fomento de la actividad agropecuaria, acuícola, apícola y el agave con base en el uso y explotación sustentable de los recursos naturales de la Entidad.
 
-V. Estimular el desarrollo de las actividades agropecuarias, acuícolas y forestales, a través de la elaboración de programas estratégicos municipales y regionales.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-VI. Optimizar los recursos destinados a las actividades agropecuarias, acuícolas y forestales.
+III. Inducir a las y los productores agropecuarios acuícolas, apícolas y del agave al empleo de prácticas que incrementen la eficiencia, productividad, sustentabilidad y competitividad de sus actividades.
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+IV. Fortalecer los procesos de desconcentración administrativa para dar celeridad a los trámites y gestiones relacionadas con las actividades agropecuarias, acuícolas, apícolas y del agave.
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+V. Estimular el desarrollo de las actividades agropecuarias, acuícolas, apícolas y del agave a través de la elaboración de programas estratégicos municipales y regionales.
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+VI. Optimizar los recursos destinados a las actividades agropecuarias, acuícolas, apícolas y del agave.
 
 VII. Facilitar la operación de los programas en la materia y propiciar mayor participación de productores y autoridades municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 7.
 
-La Secretaría propondrá al Gobernador del Estado la modificación a la regionalización económico-agropecuaria, acuícola y forestal, con base en estudios técnicos.
+La Secretaría propondrá al Gobernador del Estado la modificación a la regionalización económico-agropecuaria, acuícola, apícola y del agave con base en estudios técnicos.
 
 Para la modificación de la regionalización, se podrán valorar las propuestas que hagan los gobiernos federal y municipales, siempre y cuando, se sustenten técnicamente y sean acordes a las necesidades de la entidad.
 
@@ -405,15 +551,25 @@ I. En el orden de producción:
 
 a) Mejorar las técnicas de organización y explotación de las unidades de producción de los asociados, fomentando el agregamiento parcelario y la compactación de superficies para constituir unidades de mayor rentabilidad.
 
-b) Adoptar prácticas o servicios adecuados para el combate de plagas y enfermedades de plantas y animales.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
-c) Adoptar técnicas que permitan mejorar el hato ganadero y su actividad agrícola.
+b) Adoptar prácticas o servicios adecuados para el combate de enfermedades y plagas de animales, vegetales, acuícolas, apícolas y los agaves.
 
-d) Construir o rehabilitar en forma asociada, obras de infraestructura rural; utilizar equipos, implementos e instrumentos de trabajo, y llevar a cabo prácticas de protección y conservación de suelos, agua y bosques, en congruencia con los planes de desarrollo estatal y municipales.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
-e) Establecer empresas de producción agrícola, ganadera, acuícola y forestal o agroindustrial, con los bienes que previamente posean o con los que adquieran para ese objeto.
+c) Adoptar técnicas que permitan la calidad genética, productividad reproductiva y sanitaria de la actividad agrícola, pecuaria, el hato ganadero, acuícola, apícola y del agave.
 
-f) Apoyar las actividades de investigación agropecuaria, acuícola y forestal, así como las de transferencia de tecnología.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
+d) Construir o rehabilitar en forma asociada obras de infraestructura rural, utilizar equipos, implementos e instrumentos de trabajo y llevar a cabo prácticas de protección y conservación de suelos y agua en congruencia con los planes de desarrollo estatal y municipal.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
+e) Establecer empresas de producción agropecuaria, acuícola, apícola, del agave y agroindustriales, con los bienes que previamente posean o con los que adquieran para ese objeto.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
+f) Apoyar las actividades de investigación agropecuaria, la acuacultura, apicultura y el agave, así como las de transferencia de tecnología.
 
 II. En el orden de comercialización:
 
@@ -423,13 +579,19 @@ b) Fomentar la vinculación entre los asociados y las empresas comerciales e ind
 
 III. En el orden de industrialización de productos:
 
-a) Establecer y explotar centros de transformación de productos agropecuarios, acuícolas y forestales e integrar eficientemente el proceso productivo.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
+a) Establecer y explotar centros de transformación de productos agropecuarios, acuícolas, apícolas y el agave e integrar eficientemente el proceso productivo.
 
 IV. En el orden financiero:
 
-a) Establecer, mediante aportaciones, secciones de ahorro y préstamo, como base para otorgar crédito preferencial directo a sus asociados, o para obtenerlo de otras instituciones de manera oportuna y distribuirlo entre aquellos o aplicarlo a inversiones productivas en materia agropecuaria, acuícola y forestal.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
-b) Establecer fondos de autoaseguramiento agropecuario, acuícola y forestal, con recursos de mutualidades constituidas por los propios asociados u obteniéndolos de otras instituciones especializadas, en beneficio de sus integrantes.
+a) Establecer a través de aportaciones, secciones de ahorro y préstamo, como base para otorgar crédito preferencial directo a sus asociados o para obtenerlo de otras instituciones de manera oportuna y distribuirlo entre aquellos o aplicarlo a inversiones productivas en materia agropecuaria, acuícola, apícola y el agave.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
+b) Establecer fondos de auto aseguramiento agropecuario, acuícola, apícola y del agave con recursos de mutualidades constituidas por los propios asociados u obteniéndolos de otras instituciones especializadas en beneficio de sus integrantes.
 
 c) Organizar Uniones de Crédito, emitir o aceptar obligaciones y cooperar en otras modalidades crediticias permitidas a esta clase de asociaciones por las leyes de la materia, con garantía conjunta de los bienes muebles e inmuebles de la asociación.
 
@@ -555,9 +717,11 @@ En cada Asociación Local podrán crearse tantas secciones especializadas como s
 
 Cuando en un municipio funcionen tres o más Asociaciones Locales con objetivos o ramas de producción similares, podrán constituir una Asociación Municipal de Productores Rurales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 32.
 
-Cuando en una región económico-agropecuaria, acuícola y forestal funcionen tres o más Asociaciones Municipales, podrán constituir una Unión Regional de Productores Rurales.
+Cuando en una región económico-agropecuaria, acuícola, apícola y del agave funcionen tres o más asociaciones municipales podrán constituir una Unión Regional de Productores Rurales.
 
 Cuando en tres o más municipios sólo existan Asociaciones Locales de la misma naturaleza, podrán constituir una Unión Regional.
 
@@ -583,7 +747,9 @@ II. Gestionar apoyos y estímulos ante los sectores público y privado, según s
 
 III. Establecer sistemas de coordinación de actividades productivas, de asistencia mutua, de comercialización, de funcionamiento y de integración de la cadena productiva entre sus asociadas.
 
-IV. Proponer acciones dentro de los programas estatales, regionales y municipales de fomento y desarrollo agropecuario, acuícola y forestal.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+IV. Proponer acciones dentro de los programas estatales, regionales y municipales de fomento y desarrollo agropecuario, acuícola, apícola y del agave.
 
 V. Emprender actividades económicas de beneficio común para las asociaciones integrantes y los asociados de éstas.
 
@@ -609,23 +775,29 @@ La elección, integración y funcionamiento de los Consejos de Administración y
 
 En cada Asociación Municipal de Productores Rurales, Unión Regional de Productores Rurales o Federación Estatal de Productores Rurales, podrán formarse secciones especializadas, previa aprobación de la Asamblea de Delegados, las cuales estarán a cargo de comisionados propuestos por el Consejo de Administración, que podrán ser miembros de la asociación o especialistas no afiliados a las mismas, cuando por la naturaleza de las operaciones así se requiera.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 41.
 
-Las organizaciones de productores agropecuarios, acuícolas y forestales constituidas en términos de otros ordenamientos, podrán recibir los apoyos y estímulos que señalan el Código, este reglamento y los que otorguen los organismos auxiliares de la administración pública estatal en materia agropecuaria, acuícola y forestal.
+Las organizaciones de productores agropecuarios, acuícolas, apícolas y del agave constituidas en términos de otros ordenamientos, podrán recibir los apoyos y estímulos que señalan el Código, este Reglamento y los que otorguen los organismos auxiliares de la administración pública estatal en materia agropecuaria, acuícola, apícola y el agave.
 
-### CAPITULO IV. DEL FOMENTO Y DESARROLLO DE LAS ACTIVIDADES AGROPECUARIAS, ACUICOLAS Y FORESTALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
+
+### CAPITULO IV. DEL FOMENTO Y DESARROLLO DE LAS ACTIVIDADES AGROPECUARIAS, DE LA ACUACULTURA, APICULTURA Y EL AGAVE
 
 #### SECCION PRIMERA. DE LOS APOYOS Y ESTIMULOS
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 42.
 
-Los apoyos y estímulos que se otorguen a los productores se orientarán preferentemente a aquellos que se ubiquen en zonas que por su vocación natural, tengan potencial productivo, participen en las actividades de sanidad e inocuidad agroalimentaria y que fomenten y consoliden la actividad agropecuaria, acuícola y forestal.
+Los apoyos y estímulos que se otorguen a las y los productores se orientarán preferentemente a aquellos que se ubiquen en zonas que por su vocación natural tengan potencial productivo, participen en las actividades de sanidad, inocuidad agroalimentaria y trazabilidad que fomenten y consoliden la actividad agropecuaria, acuícola, apícola y el agave.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 43.
 
-Son sujetos de apoyos y estímulos, los productores que realicen o pretendan realizar actividades agropecuarias, acuícolas, forestales y agroindustriales, así como aquellas que incrementen, modernicen y tecnifiquen la infraestructura rural y fomenten el desarrollo rural, en territorio del Estado de México.
+Son sujetos de apoyos y estímulos las y los productores que realicen o pretendan realizar actividades agropecuarias, acuícolas, apícolas, del agave y agroindustriales, así como aquellas que incrementen, modernicen, tecnifiquen la infraestructura rural y fomenten el desarrollo rural en territorio del Estado de México.
 
 ###### Artículo 44.
 
@@ -657,7 +829,9 @@ II. Que cumpla con los lineamientos del programa, normatividad y con los objetiv
 
 III. Que sea congruente con las características productivas de la región y del productor.
 
-IV. Las políticas municipales de fomento y desarrollo agropecuario, acuícola, forestal y agroindustrial, conforme a los programas institucionales.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+IV. Las políticas municipales de fomento y desarrollo agropecuario, acuícola, apícola, del agave, así como agroindustriales, conforme a los programas institucionales.
 
 V. Que se orienten a proyectos productivos integrales, que permitan la consolidación de la unidad productiva.
 
@@ -669,7 +843,9 @@ Para la expansión, modernización y tecnificación de la infraestructura y equi
 
 I. Planear, promover y dirigir la operación, mantenimiento, rehabilitación y asistencia técnica para el aprovechamiento pleno de las obras de infraestructura rural.
 
-II. Realizar y promover estudios y proyectos ejecutivos que prevean el fomento del desarrollo agropecuario, acuícola, forestal, hidrológico y de producción del sector rural.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+II. Realizar así como promover estudios y proyectos ejecutivos que prevean el fomento del desarrollo agropecuario, acuícola, apícola, del agave, hidrológico y de producción del sector rural.
 
 III. Ejecutar y evaluar los estudios y proyectos ejecutivos, así como la construcción, operación, mantenimiento y rehabilitación de las obras y los programas de fomento para el desarrollo rural del sector.
 
@@ -695,11 +871,11 @@ VIII. Asesorará y supervisará la operación de las unidades y distritos de rie
 
 IX. Las demás que se deriven de los instrumentos de coordinación celebrados con los gobiernos federal, de otras entidades federativas y municipales.
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 48.
 
-La Secretaría impulsará obras de infraestructura y equipamiento para el aprovechamiento sustentable de los recursos naturales que permitan la diversificación de la actividad agropecuaria, acuícola, forestal y agroindustrial con apego a la normatividad.
+La Secretaría impulsará obras de infraestructura y equipamiento para el aprovechamiento sustentable de los recursos naturales que permitan la diversificación de la actividad agropecuaria, acuícola, apícola, el agave e industrial con apego a la normatividad.
 
 ###### Artículo 49.
 
@@ -737,9 +913,11 @@ Los programas de desarrollo rural, comprenderán acciones de organización de pr
 
 Los programas se orientarán preferentemente a productores de bajos ingresos, con o sin acceso a la tierra, que participen en actividades de sanidad e inocuidad agroalimentaria, para incorporarlos al proceso productivo. Asimismo, la Secretaría impulsará aquellas acciones que promuevan la capitalización de unidades productivas.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 53.
 
-Los programas y acciones de capacitación que implemente la Secretaría, podrán ser proporcionados de manera directa por la dependencia, o bien, orientar al productor para la contratación de despachos de asesoría y asistencia técnica, consultores y técnicos especializados en las diversas ramas de la actividad agropecuaria, acuícola y forestal, con el propósito de consolidar sus proyectos productivos.
+Los programas y acciones de capacitación que implemente la Secretaría podrán ser proporcionados de manera directa por la dependencia o bien, orientar al productor para la contratación de despachos de asesoría y asistencia técnica, consultores y técnicos especializados en las diversas ramas de la actividad agropecuaria, la acuacultura, apicultura y el agave con el propósito de consolidar sus proyectos productivos.
 
 ###### Artículo 54.
 
@@ -753,17 +931,19 @@ El proyecto productivo deberá propiciar el autoempleo de los productores, y de 
 
 La Secretaría impulsará el establecimiento o consolidación de empresas agroindustriales que propicien la transformación de la producción primaria, mediante las acciones contenidas en los programas de desarrollo rural.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 57.
 
-La Secretaría fomentará el establecimiento de explotaciones agropecuarias y acuícolas familiares o de traspatio, para autoconsumo.
+La Secretaría fomentará el establecimiento de explotaciones familiares o de traspatio para autoconsumo en materia agropecuaria, acuícola, apícola y el agave.
 
 #### SECCION CUARTA. DE LA COMERCIALIZACION
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 58.
 
-La Secretaría promoverá acciones de capacitación y asesoría a productores en las operaciones de acopio, empaque y envío de animales y vegetales, sus productos y subproductos; con apego a la normatividad, así como brindar información para la ubicación de mercados nacional e internacional, atendiendo a los registros de la Secretaría, a través de:
+La Secretaría promoverá acciones de capacitación y asesoría a las y los productores en las operaciones de acopio, empaque y envío de animales, vegetales, acuícolas, apícolas, agaves, sus productos y subproductos con apego a la normatividad, así como brindar información para la ubicación del mercado nacional e internacional atendiendo a los registros de la Secretaría a través de:
 
 a) La operación de centros de acopio de productores organizados, la rehabilitación y modernización de las bodegas existentes, para que sirvan de apoyo al desarrollo de esquemas modernos de comercialización.
 
@@ -773,19 +953,21 @@ b) Difundir a través de publicaciones periódicas información de mercados esta
 
 c) Asesorar a los productores en la aplicación de la normatividad.
 
-d) Identificar y orientar a los productores mexiquenses que cuenten con un producto que cumpla con las características mínimas para obtener una "Denominación de Origen", emitiendo una recomendación ante el Instituto Mexicano de la Propiedad Industrial.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
+d) Identificar y orientar a las y los mexiquenses que cuenten con un producto que cumpla con las características mínimas requeridas para obtener su trazabilidad emitiendo para tal fin una recomendación ante el Instituto Mexicano de la Propiedad Industrial.
 
 e) Orientar las actividades de producción de acuerdo a la demanda del mercado.
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
-f) Fomentar la asistencia de los productores cumpliendo con la normatividad a las ferias y exposiciones para la obtención de enlaces comerciales y la promoción de animales y vegetales, sus productos agropecuarios, acuícolas y forestales.
+f) Fomentar la asistencia de las y los productores a las ferias y exposiciones para la obtención de enlaces comerciales y la promoción de animales, vegetales, la acuacultura, apicultura, los agaves, sus productos y subproductos cumpliendo con la normatividad correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 59.
 
-La Secretaría podrá coordinarse con las instancias federales, estatales, municipales y organismos auxiliares para potenciar el desarrollo agropecuario, acuícola y forestal en el Estado, mediante proyectos estratégicos, teniendo como objetivos:
+La Secretaría podrá coordinarse con las instancias federales, estatales, municipales y organismos auxiliares para potenciar el desarrollo agropecuario, acuícola, apícola y del agave en el Estado, a través de proyectos estratégicos, teniendo como objetivos:
 
 a) La aplicación de normalización, verificación, certificación y sellos de calidad.
 
@@ -793,15 +975,17 @@ b) La adecuación y mejora a las instancias sanitarias.
 
 c) El procurar la inocuidad y calidad alimentaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 60.
 
-La Secretaría en términos de las disposiciones legales, podrá coordinarse con instancias nacionales e internacionales para potenciar el desarrollo agropecuario, acuícola y forestal en el Estado, mediante proyectos estratégicos, teniendo como objetivos:
+La Secretaría en términos de las disposiciones legales podrá coordinarse con instancias nacionales e internacionales para potenciar el desarrollo agropecuario, acuícola, apícola y del agave en el Estado, por medio de proyectos estratégicos, teniendo como objetivos:
 
 a) La identificación de la oferta para la exportación.
 
-b) La organización de foros de comercio exterior agropecuario y acuícola.
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
+b) La organización de foros de comercio exterior agropecuario, acuícola, apícola y el agave.
 
 c) La procuración de la inteligencia de mercados.
 
@@ -813,9 +997,11 @@ f) La promoción de misiones de negocios, ferias y exposiciones.
 
 g) La promoción de inversión en proyectos productivos.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 61.
 
-La Secretaría asesorará a los productores agropecuarios, acuícolas y forestales en la gestión ante las Instituciones crediticias, para obtener financiamientos con tasas preferenciales para ser destinados a la comercialización nacional e internacional.
+La Secretaría asesorará a las y los productores agropecuarios, acuícolas, apícolas y del agave en la gestión ante las instituciones crediticias, para obtener financiamientos con tasas preferenciales para ser destinados a la comercialización nacional e internacional.
 
 ### CAPITULO V. DE LA FORMACION Y CAPACITACION DE ARBITROS
 
@@ -823,9 +1009,11 @@ La Secretaría asesorará a los productores agropecuarios, acuícolas y forestal
 
 La Secretaría impulsará la constitución de unidades de arbitraje en las que podrán participar los titulares de las áreas administrativas de dicha dependencia que tengan a su cargo actividades relacionadas con la normalización, calidad, inocuidad y sanidad.
 
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
+
 ###### Artículo 63.
 
-La Secretaría integrará un registro de árbitros, que acrediten su formación y capacitación en materia agropecuaria, acuícola y forestal, con la participación de instituciones educativas y de investigación.
+La Secretaría integrará un registro de árbitros, que acrediten su formación y capacitación en materia agropecuaria, la acuacultura, apicultura y el agave con la participación de instituciones educativas y de investigación.
 
 ###### Artículo 64.
 
@@ -857,13 +1045,15 @@ Los documentos listados deberán presentarse en original y copia para su cotejo.
 
 Los árbitros emitirán opinión a efecto de dirimir controversias suscitadas por diferencias en el cumplimiento de los términos convenidos.
 
-### CAPITULO VI. DEL REGISTRO AGROPECUARIO, ACUICOLA Y FORESTAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+### CAPITULO VI. DEL REGISTRO AGROPECUARIO, DE LA ACUACULTURA, APICULTURA Y EL AGAVE
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 66.
 
-La Secretaría integrará y llevará el registro de los productores agropecuarios, acuícolas y forestales y de los profesionistas que apoyen a los productores en la contratación de servicios técnicos y de asesoría en la materia. Asimismo, podrá coordinarse con los gobiernos federal, estatales, municipales y organismos auxiliares para obtener y generar información en estas actividades.
+La Secretaría integrará y llevará el registro de las y los productores agropecuarios, los acuicultores, apicultores, el agave, establecimientos, centros de acopio, tianguis y de las y los profesionistas que apoyen a las y los productores en la contratación de servicios técnicos y de asesoría en la materia. Asimismo, podrá coordinarse con los gobiernos federal, estatal, municipal y organismos auxiliares para obtener y generar información en estas actividades.
 
 ###### Artículo 67.
 
@@ -873,17 +1063,17 @@ I. Autoridad a la que se dirige.
 
 II. Lugar y fecha.
 
-III Nombre completo o razón social de la asociación o productor.
+III. Nombre completo o razón social de la asociación o productor.
 
 IV. Domicilio particular o social de la asociación, del productor, que deberá estar ubicado en el territorio del Estado.
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-V. Animales y vegetales, sus productos y subproductos que comercialicen preponderantemente.
+V. Vegetales, animales, acuícolas, apícolas, agaves, sus productos y subproductos que comercialicen preponderantemente.
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-VI. Volúmenes aproximados de los Animales y vegetales, sus productos y subproductos que oferten.
+VI. Volúmenes aproximados de los vegetales, animales, acuícolas, apícolas, agaves, sus productos y subproductos que oferten.
 
 VII. Establecimientos o bodegas con que cuenten.
 
@@ -927,9 +1117,9 @@ III. Mejorar genéticamente las especies ganaderas.
 
 IV. Propagar las especies ganaderas de registro.
 
-> <small>(ADICIONADA, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-V. Cumplir y promover la normatividad zoosanitaria.
+V. Cumplir y promover la normatividad zoosanitaria, la trazabilidad y la inocuidad.
 
 > <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
 
@@ -937,77 +1127,97 @@ V. Cumplir y promover la normatividad zoosanitaria.
 
 Las asociaciones de criadores de ganado podrán establecer comunicación permanente con los centros de investigación científica ganadera, para determinar los mecanismos de coordinación, intercambio de información e interacción con los programas de mejoramiento genético y bancos de semen.
 
-### CAPITULO VII. DE LA PROPIEDAD E IDENTIFICACION DEL GANADO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+### CAPITULO VII. DE LA PROPIEDAD E IDENTIFICACIÓN AGROPECUARIA, DE LA ACUACULTURA, APICULTURA Y EL AGAVE
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 72.
 
-La Secretaría coordinará sus acciones con las dependencias y entidades de la administración pública federal y municipal en el ámbito de sus correspondientes atribuciones, para la debida aplicación de la Ley de Organizaciones Ganaderas y su reglamento, quedan sujetos a este reglamento los productores, comercializadores y transportistas del sector agropecuario, acuícola y forestal y toda persona física o moral que efectúe actos relacionados con el sector.
+La Secretaría coordinará sus acciones con las dependencias y entidades de la administración pública federal y municipal en el ámbito de sus atribuciones para la debida aplicación de la legislación federal, quedan sujetos a este Reglamento las y los productores, comercializadores y transportistas del sector agrícola, pecuario, de la acuacultura, apicultura, el agave y toda persona física o jurídica colectiva que efectúe actos relacionados con el sector.
 
-> <small>(REFORMADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 73.
 
-En el Estado de México la propiedad de los animales y vegetales, sus productos y subproductos se acreditara legalmente por cualquiera de los siguientes medios:
+En el Estado de México la propiedad de los animales, vegetales, acuícolas, apícolas, agaves, sus productos y subproductos se acreditarán legalmente con alguno de los siguientes medios probatorios:
 
-a) la factura de compra-venta
+I. La factura de la compraventa correspondiente.
 
-b) constancia de propiedad.
+II. Los fierros, marcas o tatuajes debidamente registrados ante la Secretaría.
 
-> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+III. La resolución judicial ejecutoriada que así lo determine.
+
+IV. Los demás medios de prueba establecidos por el derecho común.
+
+Los comprobantes fiscales digitales que acrediten la propiedad deberán presentarse en original y observar las especificaciones que al efecto emita la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 74.
 
-La Secretaría coadyuvará con las autoridades federales para dar operatividad al registro de identificaciones permanentes, en donde todo ganadero esta obligado a identificar sus animales y acreditar la propiedad de los mismos. En el caso de ganado bovino se marcará a partir de los 6 meses de edad.
+En el comprobante fiscal digital que acredite la propiedad del ganado bovino, caballar, mular y asnal deberá ir dibujado el fierro, marca o tatuaje de la o el propietario que corresponda con el que lleva el animal en su cuerpo.
 
-> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+Artículo 74 bis.- El ganado bovino, caballar, mular y asnal, al momento de la movilización deberá tener el fierro, marca o tatuaje que acredite la propiedad perfectamente cicatrizado, en caso que el fierro no esté cicatrizado se asentará esta circunstancia en la patente que haga la Secretaría, sin contravenir la legislación estatal correspondiente y en el caso de la apicultura se marcará en la parte frontal de la colmena.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 75.
 
-Todo ganadero contará con una identificación permanente, debidamente registrado ante el Ayuntamiento, para acreditar la propiedad de sus animales.
+Todos los fierros, marcas y tatuajes deberán contar con su registro ante la Secretaría en base al presente Reglamento. Los fierros, marcas y tatuajes no registrados carecerán de validez.
 
-> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 76.
 
-La identificación permanente (marca de fierro), deberá tener como máximo 15 centímetros de largo, 10 de ancho y un centímetro de grueso en las líneas de sus figuras.
+Todo ganadero tiene la obligación de identificar sus animales y acreditar la propiedad de los mismos debiendo aplicar alguno de los métodos citados en el presente Reglamento.
 
-> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 77.
 
-Todas las identificaciones permanentes deberán contar con registro ante el Ayuntamiento con aviso a la Secretaría; para la emisión de la patente de uso de identificaciones permanentes deberá hacerse ante la Secretaría.
+Las personas que obtengan el registro de un fierro, marca o tatuaje ante la Secretaría tendrán el derecho exclusivo de uso sobre el mismo en el municipio o demarcación territorial respectiva. La titularidad de este derecho se acreditará a través de la patente y credencial de identificación en base al Sistema Único de Registro Agropecuario (SURA) que al efecto expida la Secretaría, en términos de este Reglamento.
 
-> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+I. El titular de la patente podrá ser una persona física o jurídica colectiva. No podrán existir dos fierros, marcas o tatuajes iguales, registrados en la misma región ganadera o en la Entidad.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+II. Si varias personas solicitan el registro del mismo fierro, marca o tatuaje tendrá derecho a obtener el registro, aquella que primero haya presentado la solicitud.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 78.
 
-Ninguna identificación permanente podrá usarse sin haber sido registrada.
+La Secretaría será la responsable de integrar y operar un Registro Estatal Agropecuario, Acuícola, Apícola y del Agave solicitando al productor como requisitos indispensables la patente y credencial de identificación en base al Sistema Único de Registro Agropecuario (SURA) y en caso pecuario estar inscrito en el Padrón Ganadero Nacional y tener identificado su ganado a través de identificadores del Sistema Nacional de Identificación Individual del Ganado (SINIIGA).
 
-> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 79.
 
-La Secretaría integrará el registro estatal de identificaciones permanentes y propiedad ganadera y emitirá patentes de uso de identificaciones permanentes y credenciales de identificación a los ganaderos que lo soliciten.
+El Registro Estatal de referencia comprenderá las y los productores de vegetales, pecuarios, acuícolas, apícolas, de agaves y contará con información de cada uno de ellos, de identificadores permanentes y la emisión de credenciales de identificación, de guías de tránsito y control estadístico.
 
-> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 80.
 
-Los Ayuntamientos tienen la función de integrar, depurar y actualizar el padrón ganadero del municipio, mismo que turnará anualmente a la Secretaría.
+La Secretaría será la encargada de operar el Registro Estatal Agropecuario, Acuícola, Apícola y el Agave para la emisión de guías de tránsito y control estadístico con la finalidad de garantizar que las movilizaciones agropecuarias, acuícolas, apícolas y de agaves cuenten con trazabilidad coordinando acciones con los organismos auxiliares y organizaciones ganaderas.
 
-> <small>(REFORMADO Y REUBICADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 81.
 
-Los Ayuntamientos que así lo determinen, podrán auxiliarse de la Asociación Ganadera Local para la integración y actualización del registro ganadero municipal.
+La Secretaría podrá auxiliarse de los ayuntamientos o de las asociaciones que determine para integrar, depurar y actualizar el Registro Estatal referido en base a la patente y a la credencial del Sistema Único de Registro Agropecuario (SURA), mismos que turnarán anualmente a la Secretaría.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 82.
 
-La patente de identificación permanente se hará gratuitamente por la Secretaría, la renovación de las credenciales de identificación de los ganaderos se realizará cada tres años por la Secretaría y causará el pago de los derechos correspondientes. El registro es obligatorio para todos los ganaderos del Estado.
+La Secretaría expedirá la patente y credencial de identificación del Sistema Único de Registro Agropecuario (SURA) a las y los productores agrícolas, pecuarios, acuícolas, apícolas y el agave que hayan cumplido su alta en el Registro Estatal.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 23 DE MAYO DE 2008)</small>
 
@@ -1049,169 +1259,209 @@ En caso de muerte de algún animal durante su encierro, se procederá a la necro
 
 En caso de que los animales permanezcan siete días naturales a partir del día de la consignación en el encierro sin ser reclamados por su propietario, se procederá a su envío a sacrificio con inspección sanitaria. Los ingresos por venta del canal y vísceras se utilizarán para pago de los gastos generados.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
 
-### CAPITULO IX. DE LA MOVILIZACION DE ANIMALES Y VEGETALES, SUS PRODUCTOS Y SUBPRODUCTOS
+### CAPITULO IX. DE LA MOVILIZACIÓN AGROPECUARIA, DE LA ACUACULTURA, APICULTURA Y EL AGAVE
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 89.
 
-Los animales y vegetales, sus productos y subproductos en general en los términos del artículo 72, pueden transitar libremente por el territorio del Estado, previo cumplimiento de la normatividad vigente en esta materia y de los requisitos establecidos en este reglamento.
+Las movilizaciones agropecuarias, acuícolas, apícolas, el agave, sus productos y subproductos en general, en los términos del artículo 72 pueden transitar libremente por el territorio del Estado, previo cumplimiento de la normatividad vigente en la materia y de los requisitos establecidos en este Reglamento.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 90.
 
-Toda persona que pretenda movilizar animales y vegetales, sus productos y subproductos, deberán contar con documentos que ampare su propiedad y los documentos sanitarios de movilización que a continuación se mencionan:
+Toda persona que pretenda movilizar vegetales, animales, acuícolas, apícolas, agaves, sus productos y subproductos deberán acreditar la propiedad de los mismos con el comprobante fiscal digital de compraventa correspondiente y el documento sanitario de movilización que a continuación se menciona:
 
-I. En toda movilización de animales, sus productos y subproductos deberá de contar con certificado zoosanitario de movilización y en el caso de movilizaciones intraestatales podrá utilizar la guía zoosanitaria de movilización intraestatal.
+I. La Guía de Tránsito y Control Estadístico.
 
-II. En toda movilización de vegetales, sus productos y subproductos deberá contar con certificado de origen, guía fitosanitaria y en caso de frutales, tarjeta de manejo integrado de plagas.
+II. (DEROGADA, G.G. 11 DE MARZO DE 2016)
 
-III. En toda movilización acuícola, sus productos y subproductos deberá contar con certificado de sanidad acuícola.
+III. DEROGADA, G.G. 11 DE MARZO DE 2016)
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+Artículo 90 bis.- El trámite para la expedición de la Guía de Tránsito y Control Estadístico se sujetará al procedimiento siguiente:
+
+I. Las y los interesados podrán obtener el formato en las tecnologías de la información de la Secretaría o en cualquiera de las oficinas que la Secretaría determine.
+
+II. Complementar los requisitos sanitarios de propiedad con la identificación correspondiente para su expedición y demás que establezca la Secretaría en el presente Reglamento.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 91.
 
-Quienes movilicen animales y vegetales, sus productos y subproductos tendrán la obligación de:
+Quienes movilicen animales, vegetales, acuícolas, apícolas, agaves, sus productos y subproductos tendrán la obligación de:
 
-I. Hacer alto total en los puntos de verificación e inspección fitozoosanitaria. Los datos asentados en los documentos fitozoosanitarios deberán coincidir con el documento de propiedad exhibido.
+I. Hacer alto total en los Puntos de Verificación e Inspección Interna y Sitios de Verificación e Inspección autorizados por la Secretaría. Los datos asentados en los documentos sanitarios deberán coincidir con el documento de propiedad exhibido.
 
-II. En el caso de plagas y enfermedades de los animales y vegetales que no estén considerados dentro de las campañas fitozoosanitarias, solo podrán ser movilizados con la autorización de la Secretaría.
+II. En el caso de enfermedades y plagas de los animales, vegetales, acuícolas, apícolas y agaves que no estén considerados dentro de las campañas, sólo podrán ser movilizados con la autorización de la Secretaría.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 92.
 
-Cuando no se de cumplimiento a los artículos 89, 90 y 91 de este reglamento serán retenidos los animales y vegetales, sus productos y subproductos según corresponda, hasta que se practiquen las investigaciones para verificar su propiedad y situación sanitaria.
+La inspección será documental y podrá realizarse en forma física o electrónica y cuando exista un riesgo inminente en la movilización de vegetales, animales, acuícolas, apícolas y agaves, la Secretaría dejará sin efecto las guías de tránsito y control estadístico por notificación oficial, diagnóstico u otro mecanismo científicamente sustentado y asimismo podrá adoptar cualquiera de las medidas sanitarias siguientes:
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+I. Restringir la movilización de cadáveres, despojos de animales, vegetales, animales, acuícolas, apícolas, agaves, productos y subproductos para uso o consumo animal y cualquier otra mercancía en una zona, región o en la Entidad.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+II. Asegurar y en su caso ordenar la destrucción de bienes de origen vegetal, animal, acuícola, apícola, el agave, productos y subproductos.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+III. En general, establecer todas aquellas medidas tendientes a controlar la diseminación de plagas y enfermedades que representen un riesgo sanitario para los vegetales, animales, acuícolas, apícolas, agaves, sus productos y subproductos.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+IV. Todos los gastos que en su caso se generen por la ejecución de las medidas sanitarias serán por cuenta de la y el propietario o poseedor de las mercancías de vegetales, animales, acuícolas, apícolas, agaves, sus productos y subproductos.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 93.
 
-Toda persona que transite con animales y vegetales, sus productos y subproductos incumpliendo lo dispuesto en los artículos 89, 90 y 91 de este reglamento, será sancionado con multa de 60 salarios mínimos, además de las sanciones penales a que den lugar.
+Si representan un riesgo sanitario los vegetales, animales, acuícolas, apícolas, agaves, sus productos y subproductos, la Secretaría deberá ordenar la aplicación de las medidas sanitarias que resulten de la verificación por parte de las y los oficiales estatales, tales como: retención, retorno, guarda custodia, tratamiento, cuarentena, destrucción y sacrificio, eliminación y/o transformación y en todos los casos anteriores se levantará el acta circunstanciada correspondiente.
 
-Si representan un riesgo sanitario los animales y vegetales, sus productos y subproductos, deberán ordenarse la aplicación de medidas sanitarias que resulten de la verificación, tales como: retenciones, retornos, sacrificio, destrucciones, tratamiento y levantamiento de actas administrativas.
+Queda estrictamente prohibido movilizar animales alimentados con clembuterol para cualquier motivo de movilización.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 94.
 
-La movilización de maquinaria agrícola Interestatal o intraestatal, deberá contar con un tratamiento químico, lavado a alta presión u otros amparados con un documento emitido por un organismo auxiliar.
+La movilización de vehículos que transporten o transportaron vegetales, animales, acuícolas, apícolas, agaves, productos y subproductos deberán contar con un tratamiento químico, lavado y desinfección a alta presión u otro en origen o destino amparados con un documento emitido por el Organismo Auxiliar en base a la normatividad vigente.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 95.
 
-Queda prohibida la movilización de animales, sus productos y subproductos, procedentes de lugares que se encuentren declarados en cuarentena, salvo el análisis de riesgo y el cumplimiento de los requisitos establecidos en este documento, para el caso de vegetales, sus productos y subproductos queda prohibida su movilización.
+Queda prohibida la movilización de animales, acuícolas, apícolas, agaves, sus productos y subproductos procedentes de lugares que se encuentren declarados en cuarentena, salvo el análisis de riesgo y el cumplimiento de los requisitos establecidos en el presente Reglamento, para el caso de vegetales incluyendo el agave, sus productos y subproductos queda prohibida su movilización.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 96.
 
-Todo animal que entre al rastro deberá contar con documentos sanitarios de movilización y de propiedad que entregará a responsables del rastro que corresponda, quien los resguardará por lo menos un año.
+Las y los propietarios o administradores de todos los establecimientos ya sea de sacrificio, centros de acopio, tianguis o donde procesan y/o almacenan con fines industriales los vegetales, animales, acuícolas, apícolas y el agave, deberán requerir los documentos que amparan la movilización y la identificación de todos los animales que entren en su proceso, además deberán llevar una bitácora diaria de ingresos y egresos en donde se hará el registro de los documentos de propiedad, guía de tránsito y control estadístico, los cuales quedarán en su resguardo por lo menos tres años y serán supervisados por personal oficial de la Secretaría.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 97.
 
-Se instalarán Puntos de Verificación e Inspección Fitozoosanitaria, en los lugares que determine la Secretaría, las que podrán contar con áreas de cuarentena y retención.
+Se instalarán Puntos de Verificación e Inspección Interna y Sitios de Verificación e Inspección en los lugares que determine la Secretaría que podrán contar con áreas de cuarentena y retención.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 98.
 
-Si en la movilización de animales y vegetales, sus productos y subproductos, los inspectores zoosanitarios o cualquier autoridad, advierten irregularidades que hagan presumir la existencia de algún delito, se procederá a la detención del conductor y del medio de transporte, así como al aseguramiento de la carga poniéndose a disposición del Ministerio Público, mediante la denuncia respectiva.
+Las y los propietarios o poseedores de vegetales, animales, acuícolas, apícolas, agaves, sus productos o subproductos de embarques o establecimientos están obligados a proporcionar al personal de la Secretaría las facilidades necesarias para llevar a cabo los servicios de Inspección, Verificación o Certificación.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 99.
 
-Todos los lugares donde se concentren animales para ferias, exposiciones, subastas, tianguis y eventos similares deberán cumplir con lo establecido en este reglamento y la normatividad vigente en la materia.
+Todos los lugares en donde se concentren animales para ferias, exposiciones, subastas, tianguis y eventos similares, así como establecimientos de sacrificio animal deberán cumplir con lo establecido en este Reglamento y la normatividad vigente en la materia.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
 
-### CAPITULO X. DE LA SANIDAD VEGETAL Y ANIMAL, ACUICOLA Y FORESTAL
+### CAPITULO X. DE LA SANIDAD AGROPECUARIA, DE LA ACUACULTURA, APICULTURA Y EL AGAVE
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 100.
 
-La Secretaría, promoverá, en coordinación con las dependencias federales, otras entidades federativas, municipios, organizaciones sociales, particulares y organismos auxiliares, la difusión, vigilancia y el control de aspectos sanitarios en la producción, industrialización, comercialización y movilización del sector agropecuario, acuícola y forestal.
+La Secretaría promoverá en coordinación con las dependencias federales, municipales, organizaciones sociales, agropecuarias, acuícolas, apícolas y de los agaves, con las y los particulares y organismos auxiliares la difusión, vigilancia y el control de aspectos sanitarios en la producción, industrialización, comercialización y movilización del sector.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 101.
 
-Se declara de interés público y obligatorio la prevención, control y erradicación de las enfermedades y plagas que afecten a los animales y vegetales, sin perjuicio de lo que al respecto establecerá la normatividad vigente.
+Se declara de interés público y obligatorio la prevención, control y erradicación de las enfermedades y plagas que afecten a los vegetales, animales, acuícolas, apícolas y agaves, sin perjuicio de lo que al respecto establezca la normatividad vigente.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 102.
 
-En la Entidad se llevarán a cabo campañas fitozoosanitarias que sean determinadas por la Autoridad Federal, así como las que determine la Secretaría.
+En la Entidad se llevarán a cabo campañas sanitarias de origen vegetal, animal, acuícola, apícolas y del agave que sean determinadas por la autoridad estatal, así como los programas y acciones necesarias y obligatorias de vacunación, desinfección, tratamiento y otras medidas sanitarias o de bioseguridad cuando así lo determine la Secretaría.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 103.
 
-La operación de las campañas fitozoosanitarias y acuícolas será responsabilidad de la Secretaría en coordinación con las Autoridades Federales y los Organismos Auxiliares.
+La operación de las campañas sanitarias de origen vegetal, animal, acuícola, apícola y el agave será responsabilidad de la Secretaría en coordinación con las autoridades federales, municipales y los organismos auxiliares.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 104.
 
-Es obligatoria la participación en las campañas fitozoosanitarias y acuícolas de toda persona física y moral relacionada con los animales y vegetales, sus productos y subproductos que se establezcan en la entidad.
+Es obligatoria la participación en las campañas sanitarias de origen vegetal, animal, acuícola, apícola y el agave, sus productos y subproductos de toda persona física y jurídica colectiva relacionados con el sector y establecidas por la Secretaría.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 105.
 
-Queda prohibido introducir al Estado animales y vegetales, sus productos y subproductos, que procedan de zonas que se sospeche o compruebe la existencia de una plaga o enfermedad contagiosa; de igual forma queda prohibido arrojar a cualquier cuerpo de agua, así como a la orilla de caminos, animales muertos o partes de ellos.
+Queda prohibido introducir al Estado vegetales, animales, acuícolas, apícolas y agaves, sus productos y subproductos que procedan de zonas con cuarentena o con restricción de movilización en las que se sospeche o compruebe la existencia de una enfermedad o plaga contagiosa, así como arrojar a cuerpos de agua, a la orilla de caminos y cualquier otro lugar no autorizado por la Secretaría, vegetales, animales muertos, acuícolas, apícolas, agaves o partes de ellos.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+Queda estrictamente prohibido introducir a la Entidad, zona o región el clembuterol para procesarlo o distribuirlo para uso o consumo animal.
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 106.
 
-La Secretaría determinará cuando sea necesario, las zonas de emergencia fitozoosanitaria y acuícola, en coordinación con las Autoridades Federales se aplicarán las medidas correspondientes de control y cuarentena.
+La Secretaría determinará cuando sea necesario, las zonas de emergencia sanitaria vegetal, animal, acuícola, apícola y del agave en coordinación con las autoridades federales y municipales. Asimismo aplicará las medidas sanitarias correspondientes de conformidad con el Libro Noveno del Código y el presente Reglamento.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 107.
 
-Mientras dure la declaratoria de emergencia fitozoosanitaria y acuícola, no se expedirán documentos de movilización sin la autorización de la Secretaría, para la salida de la zona contaminada.
+Mientras dure la declaratoria de emergencia sanitaria vegetal, animal, acuícola, apícola y del agave, no se expedirán documentos de movilización sin la autorización de la Secretaría, para la salida de la zona contaminada sin importar el destino.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
 
-### CAPITULO XI. DE LA INOCUIDAD AGROALIMENTARIA
+### CAPITULO XI. DE LA INOCUIDAD Y CALIDAD AGROPECUARIA, DE LA ACUACULTURA, APICULTURA Y EL AGAVE
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 108.
 
-Se declara de interés público la aplicación de las actividades de Inocuidad Agroalimentaria, para disminuir los riesgos de contaminación en los alimentos de consumo humano.
+Se declara de interés público la aplicación de las actividades de inocuidad y calidad agrícola, pecuaria, acuícola, apícola y del agave para disminuir los riegos de contaminación de los alimentos de consumo humano.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 109.
 
-Proponer las normas y regulaciones estatales en términos de inocuidad de los alimentos para la producción, captura, transporte, almacén, conservación, distribución y expendio, así como la introducción de productos acuícolas y pesqueros.
+La Secretaría propondrá regulaciones estatales en términos de inocuidad y calidad de los alimentos para la producción, captura, transporte, almacén, conservación, distribución y expendio, así como la introducción de alimentos, farmacéuticos, químicos, biológicos u otro tipo de productos regulados para uso o consumo vegetal, animal, acuícola, apícola, el agave, sus productos y subproductos.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 110.
 
-Son atribuciones de la Secretaría en materia de reducción de riesgos de contaminación en la producción agropecuaria:
+Son atribuciones de la Secretaría en materia de reducción de riesgos de contaminantes en la producción agropecuaria, acuícola, apícola y del agave:
 
-I. Coordinar y vigilar a través del área que corresponda la ejecución de las buenas prácticas agrícolas, pecuarias, acuícolas, de manejo, de producción y manufactura acuícola.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-II. Organizar la certificación, inspección y vigilancia de las unidades de producción.
+I. Coordinar y vigilar a través del área que corresponda el buen uso y manejo de agroquímicos, la ejecución de las buenas prácticas de manejo, de producción y manufactura agrícola, pecuaria, acuícola, apícola y del agave.
 
-III. Promover la capacitación a través de los Organismos Auxiliares para la aplicación de sistemas de reducción de riesgos de contaminación en la producción primaria agropecuaria.
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
 
-IV. Promover y orientar la investigación en materia de inocuidad agroalimentaria.
+II. Organizar y promover la certificación, inspección y vigilancia de las unidades de producción, así como la elaboración de los instrumentos jurídicos necesarios para realizar estas atribuciones y con ello salvaguardar la salud humana, agropecuaria, acuícola, apícola y del agave.
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+III. Promover directamente o a través de los organismos auxiliares la capacitación para la aplicación de sistemas de reducción de riesgos de contaminación en la producción primaria y manufactura agropecuaria, acuícola, apícola y el agave.
+
+> <small>(REFORMADA, G.G. 11 DE MARZO DE 2016)</small>
+
+IV. Promover y orientar la investigación en materia de inocuidad y calidad agropecuaria, acuícola, apícola y el agave.
+
+> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2016)</small>
+
+V. Establecer directamente o de manera coordinada con otras instancias los límites máximos de residuos y contaminantes para el caso de riesgos sanitarios permitidos en bienes agropecuarios, acuícolas, apícolas y el agave, tales como los antibióticos, compuestos hormonales, agroquímicos y otros productos. El tiempo de retiro de éstas sustancias se establecerá tomando como base los riesgos a la salud pública, las investigaciones científicas, los resultados de laboratorio y las regulaciones que para tal efecto se establezcan a nivel nacional e internacional.
 
 > <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
 
@@ -1219,33 +1469,145 @@ IV. Promover y orientar la investigación en materia de inocuidad agroalimentari
 
 La Secretaría promoverá la profesionalización de los Organismos Auxiliares, la estandarización de su operación y vigilará que los recursos humanos, materiales y financieros que sean proporcionados por el Estado, sean utilizados con trasparencia y para los fines por los que fueron autorizados. En caso contrario a lo anterior, podrán ser sancionados.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 112.
 
-La Secretaria deberá coordinarse con la SAGARPA y el ISEM para el control de la importación de vegetales, animales, organismos y ovas acuícolas que pudieran constituir un riesgo para la salud humana y agropecuaria.
+La Secretaría deberá coordinarse con la SAGARPA y el ISEM para el control de la importación de animales, vegetales, animales (sic), ovas acuícolas, apícolas y agaves que pudieran constituir un riesgo para la salud humana.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 113.
 
-Las Unidades de producción agropecuaria y acuícola que cuenten con un certificado de Buenas Prácticas Agrícolas, Pecuarias y Acuícolas deberán establecer medidas de control preventivo y de corrección cuando detecten una posible fuente de contaminación primaria.
+Las unidades de producción que cuenten con un certificado de Buenas Prácticas agropecuarias, acuícolas, apícolas y del agave deberán establecer medidas de control preventivo y de corrección cuando detecten una posible fuente de contaminación primaria.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2016)</small>
 
-### CAPITULO XII. DEL SISTEMA ESTATAL DE INFORMACION DE DESARROLLO AGROPECUARIO, ACUICOLA Y FORESTAL
+### CAPITULO XII. DE LA TRAZABILIDAD, DEL SISTEMA ESTATAL DE INFORMACIÓN DE DESARROLLO AGROPECUARIO, DE LA ACUACULTURA, APICULTURA Y EL AGAVE
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 114.
 
-La Secretaría a través de la unidad administrativa correspondiente, organizará y coordinará el Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal.
+La Secretaría a través de la unidad administrativa correspondiente organizará y coordinará el Sistema Estatal de Información de Desarrollo Agropecuario.
 
-> <small>(ADICIONADO, G.G. 23 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2016)</small>
 
 ###### Artículo 115.
 
-La Secretaría en la operación y funcionamiento del Sistema Estatal de Información de Desarrollo Agropecuario, Acuícola y Forestal utilizará nuevas tecnologías como herramienta estratégica, apegándose a los lineamientos, normas, políticas emitidas por el Sistema Estatal de Informática, el Reglamento de Informática del Poder Ejecutivo del Estado de México y el Manual de Normas y Procedimientos de Informática.
+La organización y coordinación del Sistema Estatal de Información de Desarrollo Agropecuario incluirá las nuevas tecnologías como herramienta estratégica apegándose a los lineamientos, normas, políticas emitidas por el Sistema Estatal de Informática, el Reglamento de Informática del Poder Ejecutivo del Estado de México y el Manual de Normas y Procedimientos de Informática.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+Asimismo, establecerá las bases para la implementación de sistemas de trazabilidad en bienes de origen vegetal, animal, acuícola, apícola, del agave y además, emitirá las disposiciones necesarias para que cada eslabón de la cadena de valor implemente y mantenga un sistema de trazabilidad documentado en las etapas correspondientes.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+###### Artículo 116.
+
+Será parte del sistema de trazabilidad de los vegetales, animales, acuícolas, apícolas, los agaves, sus productos y subproductos para uso o consumo animal o humano y la información siguiente:
+
+I. El origen.
+
+II. La procedencia.
+
+III. El destino.
+
+IV. El lote.
+
+V. La fecha de producción o sacrificio de empaque, proceso o elaboración, caducidad o fecha de consumo preferente.
+
+VI. La identificación individual o en grupo de acuerdo a la especie de los vegetales, animales, acuícolas apícolas y el agave.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 11 DE MARZO DE 2016)</small>
+
+### CAPITULO XIII. DE LAS MEDIDAS SANITARIAS, INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+###### Artículo 117.
+
+En caso de riesgo sanitario la Secretaría por medio de personal oficial podrá aplicar las medidas sanitarias establecidas en el Libro Noveno del Código sobre los vegetales, animales, acuícolas, apícolas, agaves, sus productos y subproductos en puntos de verificación e inspección interna y sitios que determine la Secretaría, así como en las unidades de producción. En todos los casos, los gastos que se generen serán pagados por el infractor.
+
+Toda persona que se relacione con la actividad agropecuaria, la acuacultura, apicultura, el agave, sus productos y subproductos deberá proporcionar todas las facilidades a la Secretaría en función de sus atribuciones para la verificación e inspección.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+###### Artículo 118.
+
+Las infracciones a lo dispuesto en el presente Reglamento y demás disposiciones jurídicas que emanen del mismo serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas a que dieran lugar cuando sean constitutivas de delitos.
+
+Son infracciones administrativas:
+
+I. No acreditar la propiedad de los animales, vegetales, acuícolas, apícolas, agaves, sus productos y subproductos.
+
+II. No cumplir con los requisitos de movilización.
+
+III. Utilizar o comercializar el clembuterol.
+
+IV. No cumplir con el lavado y desinfección del medio de transporte de los animales, vegetales, acuícolas, apícolas, agaves, sus productos y subproductos.
+
+V. Movilizar animales, vegetales, acuícolas, apícolas, agaves, sus productos y subproductos cuando exista riesgo sanitario.
+
+VI. No solicitar y resguardar los documentos de movilización de animales, vegetales, acuícolas, apícolas, agaves, sus productos y subproductos, en el caso de las y los propietarios o poseedores de establecimientos.
+
+VII. No proporcionar las facilidades al personal oficial de la Secretaría para realizar la verificación e inspección de los animales, vegetales, acuícolas, apícolas, agaves, sus productos y subproductos, en el caso de las y los propietarios o poseedores de establecimientos.
+
+VIII. No cumplir con la trazabilidad de vegetales, animales, acuícolas, apícolas, agaves, sus productos y subproductos en el Estado.
+
+Dichas infracciones tendrán lugar cuando se incumpla lo establecido en el Libro Noveno del Código y el presente Reglamento.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+###### Artículo 119.
+
+La Secretaría, previo al cumplimiento de la garantía de audiencia que establece el Código de Procedimientos Administrativos del Estado de México aplicará las sanciones que establece el Libro Noveno del Código apegándose en todo momento al dictamen que emita su personal técnico.
+
+Lo anterior, se realizará tomando en cuenta la gravedad de la infracción, los daños y perjuicios causados, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor en los términos que establezca el Libro Noveno del Código, este Reglamento y demás disposiciones jurídicas aplicables en la materia.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+###### Artículo 120.
+
+La Secretaría aplicará las sanciones correspondientes, en base a lo siguiente:
+
+I. En caso que la persona beneficiada incumpla con cualquiera de los compromisos a los que se haya obligado, se niegue a proporcionar información que se le requiera o la proporcione falsamente, deberá devolver los apoyos y estímulos recibidos o su equivalente y no volverá a ser sujeto a los mismos por el plazo que determine la Secretaría. Dicho plazo contará a partir de la devolución (sic) los apoyos y estímulos correspondientes.
+
+II. En caso que la persona beneficiada destine los apoyos y estímulos recibidos a un uso distinto al previsto para su otorgamiento deberá devolverlos y no volverá a ser sujeto de los mismos.
+
+III. Se impondrá multa de veinte a cincuenta días de salario mínimo general vigente a quien incumpla las disposiciones en materia del registro agropecuario, acuícola, apícola y del agave en términos del presente Reglamento.
+
+IV. Se impondrá multa de cincuenta a cien días de salario mínimo general vigente a quien incumpla las disposiciones en materia de movilización de productos y subproductos agropecuarios, acuícolas, apícolas, de los agaves y cuando los datos asentados en los documentos sanitarios no coincidan con el documento de propiedad señalado en el presente Reglamento.
+
+V. Se impondrá multa de cien a doscientos días de salario mínimo general vigente a quien por cualquier medio evada un Punto de Verificación e Inspección Interna y Sitios de Verificación e Inspección, ingrese a la región o Estado, vegetales, animales, acuícolas, apícolas y agaves, productos y subproductos para uso o consumo animal y ponga en peligro o en riesgo sanitario la región o Estado.
+
+VI. Se impondrá multa de doscientos a quinientos días de salario mínimo general vigente a quien introduzca al Estado, vegetales, animales, acuícolas, apícolas y agaves, sus productos y subproductos que procedan de zonas que se sospeche o compruebe la existencia de una enfermedad o plaga contagiosa.
+
+VII. Se impondrá multa de trescientos a quinientos días de salario mínimo general vigente al momento de cometer la infracción a quien para identificar su ganado o abejas utilice fierros, marcas o tatuajes sin contar con el registro respectivo. A los directivos o empleados de la organización que hagan mal uso de la documentación relacionada con la acreditación de la propiedad de los mismos.
+
+VIII. Se impondrá multa de quinientos a ochocientos días de salario mínimo general vigente a quien introduzca a la región o Estado y/o dentro de ésta importe, posea, transporte, almacene, comercialice o realice cualquier otro acto con animales vivos, sus productos o subproductos utilizando cualquier sustancia cuyo uso esté prohibida por el Código y el presente Reglamento.
+
+Siempre y cuando esos actos sean con la finalidad de adicionar las sustancias a los alimentos o bebidas de animales cuyos productos o subproductos estén destinados al consumo humano.
+
+Se presumirá que existe esa finalidad, cuando las sustancias a que se refiere ese artículo se encuentren en el interior de establecimientos dedicados a la producción animal o a la fabricación y expendio de alimentos para ganado.
+
+IX. Se procederá a la clausura temporal o en su caso, definitiva a la unidad productiva o de producción pecuaria, agrícola, acuícola, apícola y del agave en la que se sospeche o compruebe de la existencia de una enfermedad o plaga contagiosa.
+
+X. En caso de reincidencia de cualquiera de las conductas señaladas con anterioridad se duplicará la multa y se procederá a la suspensión temporal del registro, autorización o permiso y en su caso, a la revocación del mismo.
+
+XI. Las y los servidores públicos de la Secretaría que infrinjan las disposiciones de este Reglamento serán sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+
+X. A la persona física o jurídica colectiva que no solicite documentos de movilización en los establecimientos de sacrificio, centros de acopio, tianguis, industrialización y demás que se encuentran establecidas en la fracción VII del artículo 118 del presente Reglamento.
+
+Toda persona podrá denunciar ante la Secretaría, la existencia de hechos que puedan constituir cualquiera de las infracciones administrativas previstas en este Reglamento. La o el denunciante procurará señalarlos por escrito, acompañando las pruebas que pudiere ofrecer.
+
+Las y los interesados afectados por los actos y resoluciones de la Secretaría que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente podrán interponer dentro del plazo de quince días el recurso de revisión en términos del Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 11 DE MARZO DE 2016)</small>
+
+###### Artículo 121.
+
+En contra de las resoluciones que emita la Secretaría procederá el recurso de inconformidad ante la propia autoridad o juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México.
 
 ## TRANSITORIOS
 
@@ -1280,3 +1642,15 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Decreto.
+
+G.G. 11 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE MODIFICA EL DIVERSO REGLAMENTO DEL FOMENTO Y DESARROLLO AGROPECUARIO, ACUÍCOLA Y FORESTAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de Desarrollo Agropecuario dispondrá lo necesario para dar cumplimiento al presente Acuerdo.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
