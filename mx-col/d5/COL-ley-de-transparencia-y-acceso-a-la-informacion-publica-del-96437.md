@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9643
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-26"
-last_updated: "2015-05-16"
+last_updated: "2016-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de octubre de 2013.
 
@@ -305,13 +305,17 @@ XXVI. Si resultan aplicables, los mecanismos de participación ciudadana con que
 
 XXVII. La información completa y actualizada sobre sus indicadores de gestión;
 
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2016)</small>
 
-XXVIII. Una lista completa de los subsidios, las becas y los descuentos otorgados, así como el origen de esos recursos, sus beneficiarios y los montos otorgados; y
+XXVIII. Una lista completa de los subsidios, las becas y los descuentos otorgados, así como el origen de esos recursos, sus beneficiarios y los montos otorgados;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2016)</small>
 
-XXIX. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones y políticas públicas responsabilidad del sujeto obligado
+XXIX. La grabación de las sesiones del Comité de Adquisiciones, Servicios y Arrendamientos, así como las etapas de los procedimientos de licitaciones que se realicen; y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2016)</small>
+
+XXX. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones y políticas públicas responsabilidad del sujeto obligado.
 
 Los sujetos obligados deberán hacer mención expresa en su Página Web, respecto de las obligaciones de publicación que no les fueren aplicables, en razón de la naturaleza de sus actividades.
 
@@ -1794,3 +1798,15 @@ La presente Reforma entrará en vigor al día siguiente al de su publicación en
 P.O. 16 DE MAYO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 72 POR EL QUE SE ADICIONA EL ARTÍCULO 26 BIS, A LA LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA Y SE REFORMAN LAS FRACCIONES XXVIII Y XXIX, Y SE ADICIONA LA FRACCIÓN XXX AL ARTÍCULO 13 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+###### ARTICULO PRIMERO.
+
+Las dependencias y entidades obligadas contaran con un plazo de 60 días naturales para realizar los preparativos técnicos y ajustes presupuestarios necesarios para cumplimentar la presente reforma.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
