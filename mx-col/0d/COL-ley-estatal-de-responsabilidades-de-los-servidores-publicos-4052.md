@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-responsabilidades-de-los-servidores-publicos-405
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-08"
-last_updated: "2015-08-15"
+last_updated: "2016-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 1984.
 
@@ -409,7 +409,13 @@ XXVI.- Abstenerse de aprovechar la posición que su empleo, cargo o comisión le
 
 XXVII.- Abstenerse de adquirir para sí o para las personas a que se refiere la fracción XIII, bienes inmuebles que pudieren incrementar su valor o, en general, que mejoren sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su empleo, cargo o comisión. Esta restricción será aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión; y
 
-XXVIII.- Las demás que le impongan las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2016)</small>
+
+XXVIII.- Disponer y efectuar, de manera puntual y completa, los pagos de salarios, prestaciones, becas, pensiones y cualquier otro beneficio legalmente presupuestado, cuya administración, manejo o entrega tenga a su cargo, absteniéndose de entorpecer en modo alguno el tiempo y el procedimiento de pago de este tipo de recursos; De omitirse lo dispuesto en esta fracción, el servidor público responsable será objeto de sanciones por parte de la auditoría correspondiente hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión; y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2016)</small>
+
+XXIX.- Las demás que le impongan las Leyes y Reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Contraloría General, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Contraloría General, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
@@ -794,3 +800,9 @@ P.O. 10 DE AGOSTO DE 2013.
 P.O. 15 DE AGOSTO DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 69 POR EL QUE SE REFORMA LA FRACCIÓN XXVIII Y SE ADICIONA LA FRACCIÓN XXIX, DEL ARTÍCULO 44 DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
