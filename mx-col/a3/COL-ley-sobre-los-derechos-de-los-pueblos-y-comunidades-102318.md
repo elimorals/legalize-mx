@@ -4,7 +4,7 @@ identifier: "COL-ley-sobre-los-derechos-de-los-pueblos-y-comunidades-102318"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-30"
-last_updated: "2014-08-30"
+last_updated: "2016-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY SOBRE LOS DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de agosto de 2014.
 
@@ -327,6 +327,10 @@ XX. Usos y Costumbres: A la base fundamental de los sistemas normativos internos
 
 El Estado deberá asegurar que los integrantes de los pueblos y comunidades indígenas gocen de todos los derechos y oportunidades que la legislación vigente otorga al resto de la población de la entidad, y velará por el estricto cumplimiento de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2016)</small>
+
+Será responsabilidad del Estado emprender acciones de difusión, sensibilización y capacitación dirigidas a los servidores públicos de los diversos órdenes de gobierno sobre los derechos de los pueblos y comunidades indígenas establecidos en la Constitución Federal, la Constitución Local, los tratados internacionales de los que México es parte, está Ley y demás legislación aplicable.
+
 ###### Artículo 7.
 
 Ninguna persona indígena será discriminada en razón de su condición y origen. La ley sancionará cualquier acción o práctica tendiente a denigrar a los integrantes de las comunidades y pueblos indígenas en el Estado por cualquier causa.
@@ -479,7 +483,11 @@ II. Analizar y, en su caso, aprobar el Programa de Desarrollo Integral de los Pu
 
 III. Aprobar la celebración de contratos, convenios y acuerdos de colaboración con instituciones y organismos del sector público, social y privado del ámbito, estatal y nacional, para llevar a cabo acciones conjuntas que incidan en el desarrollo de los pueblos indígenas del Estado;
 
-IV. Generar la participación integral de los sectores públicos y social del Estado y la Federación para impulsar el desarrollo de los pueblos indígenas;
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2016)</small>
+
+IV. Generar la participación integral de los sectores público y social del Estado y la Federación para impulsar el desarrollo de los pueblos indígenas.
+
+Asimismo, emprender acciones de difusión, sensibilización y capacitación, dirigidas a los servidores públicos de los diversos órdenes de gobierno sobre los derechos de los pueblos y comunidades indígenas establecidos en la Constitución Federal, la Constitución Local, los tratados internacionales de los que México es parte, esta Ley y demás legislación aplicable;
 
 V. Gestionar ante las instancias públicas correspondientes el financiamiento de programas, proyectos y acciones que fomenten la organización social y coadyuven al desarrollo autosostenido de los pueblos indígenas del Estado;
 
@@ -884,3 +892,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 07 siete del mes de agosto del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE DESARROLLO SOCIAL, C. RIGOBERTO SALAZAR VELASCO. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, C.P. CLEMENTE MENDOZA MARTÍNEZ. Rúbrica. EL SECRETARIO DE FOMENTO ECONÓMICO, C. RAFAEL GUTIÉRREZ VILLALOBOS. Rúbrica. EL SECRETARIO DE PLANEACIÓN, C.P. FRANCISCO MANUEL OSORIO CRUZ. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ARQ. JOSÉ FERNANDO MORÁN RODRÍGUEZ. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, ING. ADALBERTO ZAMARRONI CISNEROS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 64 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 6, Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19, DE LA LEY SOBRE LOS DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Colima".
