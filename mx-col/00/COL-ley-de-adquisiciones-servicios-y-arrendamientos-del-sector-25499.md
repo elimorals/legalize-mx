@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-servicios-y-arrendamientos-del-sector-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2015-08-01"
+last_updated: "2016-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 15 de junio del 2002.
 
@@ -171,7 +171,7 @@ En los casos de adquisiciones, servicios o arrendamientos financiados con crédi
 
 ###### ARTICULO 11.
 
-En la adjudicación de las adquisiciones, servicios y arrendamientos se preferirá, en igualdad de circunstancias, a las personas físicas o morales que cuenten con el Certificado de Empresa Colimense, en los términos de la Ley de Fomento Económico para el Estado. Al efecto, las bases de la licitación podrán establecer porcentajes diferenciales de precio a favor de las mismas, los cuales nunca podrán ser superiores al siete por ciento. La aplicación del derecho de preferencia, estará condicionado a que no se exceda de la disponibilidad prespuestal correspondiente.
+En la adjudicación de las adquisiciones, servicios y arrendamientos se preferirá, en igualdad de circunstancias, a las personas físicas o morales que cuenten con el Certificado de Empresa Colimense, en los términos de la Ley de Fomento Económico para el Estado. Al efecto, las bases de la licitación podrán establecer porcentajes diferenciales de precio a favor de las mismas, los cuales nunca podrán ser superiores al siete por ciento. La aplicación del derecho de preferencia, estará condicionado a que no se exceda de la disponibilidad presupuestal correspondiente.
 
 ###### ARTICULO 12.
 
@@ -310,6 +310,10 @@ En los procedimientos de contratación deberán establecerse los mismos requisit
 La Oficialía Mayor o el órgano administrativo correspondiente, en su caso, tomando en cuenta la opinión de la Contraloría o del órgano de control correspondiente, en su caso, y de conformidad con lo establecido en el artículo 28 de esta Ley, determinarán el carácter nacional o internacional de los procedimientos de contratación y los criterios para establecer el contenido nacional de los bienes a ofertar, en razón de las reservas, medidas de transición u otros supuestos establecidos en los tratados.
 
 Las dependencias convocantes pondrán a disposición pública, a través de los medios de difusión electrónica que se establezcan, la información que obre en sus bases de datos correspondientes a las convocatorias y bases de las licitaciones y, en su caso, sus modificaciones; las actas de las juntas de aclaraciones y de visita a instalaciones; los fallos de dichas licitaciones o las cancelaciones de éstas; y los datos relevantes de los contratos adjudicados, ya sea por licitación, invitación o adjudicación directa.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2016)</small>
+
+ARTICULO 26 BIS.- A fin de proveer de mayor transparencia a las operaciones reguladas en la presente Ley, las entidades y dependencias deberán transmitir vía internet, en vivo, las sesiones de sus comités de adquisiciones, servicios y arrendamientos, así como las etapas de los procedimientos de licitaciones que realicen.
 
 ###### ARTICULO 27.
 
@@ -974,3 +978,15 @@ P.O. 1 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima"; sin perjuicio de los presupuestos y gastos que se hayan aprobado con anterioridad a la vigencia del mismo.
 
 SEGUNDO. En cumplimiento a las reformas y adiciones de este Decreto, para el ejercicio fiscal 2015, la previsión de recursos para gastos de operación de los sujetos de la Ley deberá reflejar las reducciones y supresión de partidas presupuestarias correspondientes.
+
+P.O. 12 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 72 POR EL QUE SE ADICIONA EL ARTÍCULO 26 BIS, A LA LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA Y SE REFORMAN LAS FRACCIONES XXVIII Y XXIX, Y SE ADICIONA LA FRACCIÓN XXX AL ARTÍCULO 13 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+###### ARTICULO PRIMERO.
+
+Las dependencias y entidades obligadas contaran con un plazo de 60 días naturales para realizar los preparativos técnicos y ajustes presupuestarios necesarios para cumplimentar la presente reforma.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
