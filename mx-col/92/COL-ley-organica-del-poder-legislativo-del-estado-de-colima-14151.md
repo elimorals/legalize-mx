@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2015-10-13"
+last_updated: "2016-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -401,11 +401,11 @@ g).- Finalmente, el Presidente de la Directiva Provisional entregará la documen
 
 De conformidad con lo previsto por el párrafo primero del artículo 28 de la Constitución, el día 1° de octubre del año de la elección, a las 11:00 horas, se reunirán en sesión solemne y en el Recinto Legislativo del Congreso, los Diputados electos. Este acto será presidido por la Directiva Provisional.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 31.
 
-Enseguida el Presidente de la Directiva Provisional pedirá a los secretarios pasen lista de presentes, si estos certifican la existencia del quórum, el Presidente lo declarará así e instará a los Diputados a que escojan entre sí en escrutinio secreto y por mayoría simple, a los integrantes de la Directiva que habrán de fungir durante el primer período ordinario de sesiones. En caso que no se lograre la mayoría simple para elegir la Directiva, después de tres rondas de votación, fungirán como Presidente, Vicepresidente, Secretarios y suplente los Diputados de mayoría relativa que hayan obtenido del primero al quinto lugares, respectivamente, en cuanto al porcentaje de votos, en la elección correspondiente.
+Enseguida el Presidente de la Directiva Provisional pedirá a los secretarios pasen lista de presentes, si estos certifican la existencia del quórum, el Presidente lo declarará así e instará a los Diputados a que escojan entre sí en escrutinio secreto y por mayoría simple, a los integrantes de la Directiva que habrán de fungir durante el primer período ordinario de sesiones. En caso que no se lograre la mayoría simple para elegir la Directiva, después de tres rondas de votación, fungirán como Presidente, Vicepresidente, Secretarios y Suplentes, los Diputados de mayoría relativa que hayan obtenido del primero al quinto lugares, respectivamente, en cuanto al porcentaje de votos, en la elección correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2005)</small>
 
@@ -461,9 +461,11 @@ El 30 de septiembre del último año de ejercicio de la Legislatura, en sesión 
 
 DE LA DIRECTIVA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 37.
 
-El órgano de dirección y representación del Poder Legislativo será la Directiva del Congreso, que se integrará por un Presidente, un Vicepresidente, dos Secretarios y un suplente, electos por mayoría simple mediante votación secreta.
+El órgano de dirección y representación del Poder Legislativo será la Directiva del Congreso, que se integrará por un Presidente, un Vicepresidente, dos Secretarios y dos Suplentes de estos, electos por mayoría simple mediante votación secreta.
 
 La elección de los integrantes de la Directiva se comunicará a los titulares de los Poderes Ejecutivo y Judicial, a los Ayuntamientos, a la Secretaría de Gobernación, a las Cámaras del Congreso de la Unión y a los Congresos de los Estados.
 
@@ -495,11 +497,11 @@ En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, e
 
 De igual manera en ausencia justificada del Presidente, tendrá la representación legal del Congreso en los términos de la fracción II del artículo 42 de esta Ley.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 40.
 
-Los Secretarios y suplente designados ejercerán sus funciones por todo el período para el que hubiesen sido nombrados, sin que puedan ser reelectos para el período inmediato de sesiones, ni ser electos Presidentes durante el tiempo de su ejercicio. El suplente cubrirá la falta temporal de un Secretario a una sesión o cuando alguno debiere abandonar el Recinto por causa justificada; si en esta última hipótesis no se encontrare presente el suplente, el Congreso nombrará un Secretario para dicha sesión.
+Los Secretarios y Suplentes designados ejercerán sus funciones por todo el período para el que hubiesen sido nombrados, sin que puedan ser reelectos para el período inmediato de sesiones, ni ser electos Presidentes durante el tiempo de su ejercicio. Alguno de los Suplentes cubrirán la falta temporal de cualquiera de los Secretarios a una sesión o cuando alguno debiere abandonar el Recinto por causa justificada; si en esta última hipótesis no se encontrare presente alguno de los dos Suplentes, el Congreso nombrará un Secretario para dicha sesión.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -587,11 +589,11 @@ El Presidente de la Directiva podrá ser removido por el Congreso cuando de mane
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría es el órgano auxiliar de la directiva y se integrará con dos Secretarios que al igual que el Presidente y el Vicepresidente serán electos por mayoría, en votación secreta.
+La Secretaría es el órgano auxiliar de la directiva y se integrará con dos Secretarios y dos Suplentes de éstos, que al igual que el Presidente y Vicepresidente serán electos por mayoría, en votación secreta.
 
 ###### ARTICULO 45.
 
@@ -1506,3 +1508,9 @@ P.O. 13 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor en el momento de su aprobación. Deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Al momento de la aprobación del presente, se deberán nombrar a los integrantes de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento, en atención y en los términos de este Decreto.
+
+P.O. 12 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 71 POR EL QUE SE REFORMAN LOS ARTÍCULOS 31, 37, 40 Y 44 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, ASÍ COMO, EN INCISO E) DEL ARTÍCULO 24, ASÍ MISMO LOS ARTÍCULOS 28, TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 29, 33 Y 189 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
