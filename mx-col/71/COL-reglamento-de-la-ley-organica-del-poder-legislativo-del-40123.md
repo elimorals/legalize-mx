@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2015-10-31"
+last_updated: "2016-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -323,7 +323,9 @@ c).- En caso de no lograrse la mayoría simple para elegir a la Directiva, en la
 
 d).- Reanudada la sesión, se efectuará una segunda ronda de votación y de no obtenerse la mayoría simple, se declarará otro receso de veinte minutos y si después de una tercera ronda no se puede elegir a la Mesa Directiva se declarará un último receso;
 
-e).- Al reanudarse la sesión, el Presidente declarará quiénes, en los términos del segundo párrafo del artículo 31 de la Ley, ocuparán los cargos de Presidente, Vicepresidente, Secretarios y Suplente, respectivamente, durante el primer período ordinario de sesiones, invitándolos a que pasen a ocupar sus lugares y haciéndoles entrega de la documentación recibida de la Comisión Instaladora;
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
+
+e).- Al reanudarse la sesión, el Presidente declarará quiénes, en los términos del segundo párrafo del artículo 31 de la Ley, ocuparán los cargos de Presidente, Vicepresidente, Secretarios y Suplentes de estos, respectivamente, durante el primer período ordinario de sesiones, invitándolos a que pasen a ocupar sus lugares y haciéndoles entrega de la documentación recibida de la Comisión Instaladora;
 
 f).- Continuando con la sesión y puestos de pié los integrantes de la Legislatura, invitados y público en general, el Presidente rendirá protesta en los términos del tercer párrafo del artículo 33 de la Ley y a continuación les tomará la protesta a los demás integrantes del Congreso;
 
@@ -369,13 +371,11 @@ Una vez efectuada la elección de los integrantes de la Directiva, el Oficial Ma
 
 Si no se logra la mayoría simple para elegir a los miembros de la Directiva, se procederá en los términos del artículo 41 de la Ley.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
+
 ###### Artículo 28.
 
-El Presidente y el Vicepresidente del Congreso se renovarán mensualmente dentro de un período ordinario pudiendo ser reelectos para esos cargos durante el mismo período de sesiones; por lo tanto; en la última sesión de cada mes, deberán elegirse a los Diputados que ocuparán la Presidencia y la Vicepresidencia, o en su caso, serán reelectos los que estén en funciones. La elección se efectuará en los términos señalados por el artículo anterior.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
-
-Los Secretarios y el Suplente durarán en su cargo todo el período de sesiones para el que fueron electos.
+El Presidente y el Vicepresidente del Congreso se renovarán mensualmente dentro de un período ordinario pudiendo ser reelectos para esos cargos durante el mismo período de sesiones; por lo tanto; en la última sesión de cada mes, deberán elegirse a los Diputados que ocuparán la Presidencia y la Vicepresidencia, o en su caso, serán reelectos los que estén en funciones. La elección se efectuará en los términos señalados por el artículo anterior. Los Secretarios y Suplentes de estos durarán en su cargo todo el período de sesiones para el que fueron electos.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2007) (F. DE E., P.O. 7 DE MARZO DE 2009)
 
@@ -387,9 +387,9 @@ Las funciones del Vicepresidente serán las de suplir al Presidente en sus ausen
 
 De igual manera en ausencia justificada del Presidente, tendrá la representación legal del Congreso en los términos de la fracción II del artículo 42 de la Ley.
 
-En caso de ausencia de uno de los Secretarios a una sesión, entrará en su lugar el Suplente y en ausencia también de éste, la Asamblea, designará de entre los Diputados presentes, a quien deba desempeñar esa función, durante el desarrollo de la misma.
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
 
-Si la ausencia es de ambos Secretarios, el Suplente ocupará el lugar de uno de ellos y el del otro, será ocupado por quien designe la Asamblea.
+En caso de ausencia de uno o los dos Secretarios a una sesión, entrarán en su lugar alguno de los Suplentes, o ambos según sea el caso y en ausencia también de éstos, la Asamblea, designará de entre los Diputados presentes, a quien deba desempeñar esa función, durante el desarrollo de la misma.
 
 ###### Artículo 30.
 
@@ -403,9 +403,11 @@ Si la ausencia del Presidente y del Vicepresidente se presentare en la primera s
 
 Si durante el desarrollo de una sesión, el Presidente hubiere de abandonarla por cualquier motivo y el Vicepresidente estuviere ausente, la Asamblea le otorgará autorización para su retiro y elegirá, siguiendo el procedimiento del artículo 27 de este Reglamento, a quien deba suplirlo por el término de la sesión.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
+
 ###### Artículo 33.
 
-Los Secretarios y el Suplente designados no podrán ser electos para los cargos de Presidente o Vicepresidente durante el tiempo de su ejercicio, ni tampoco reelectos para el período inmediato de sesiones.
+Los Secretarios y Suplentes designados no podrán ser electos para los cargos de Presidente o Vicepresidente durante el tiempo de su ejercicio, ni tampoco reelectos para el período inmediato de sesiones.
 
 ###### Artículo 34.
 
@@ -2217,11 +2219,11 @@ Si no asiste el titular del Poder Ejecutivo Federal, el Gobernador del Estado o 
 
 Cuando, además, asistan representantes de los demás Poderes de la Unión, de otras entidades federativas, de otros países y servidores públicos de los Poderes del Estado, se les destinará un lugar especial en el Recinto Legislativo.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
 
 ###### Artículo 189.
 
-Los Secretarios deberán dejar vacantes los lugares que les corresponden en el Presídium, cuando deban ser ocupados por otros servidores públicos, y ocuparán las curules junto a los demás Diputados.
+Los Secretarios se situarán a los costados del servidor o servidores públicos que se encuentren por cualquier motivo en el Presídium.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2832,3 +2834,9 @@ P.O. 31 DE OCTUBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 4 POR EL QUE SE REFORMA LA FRACCIÓN I Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA MISMA, DEL ARTÍCULO 204 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor en el momento de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 71 POR EL QUE SE REFORMAN LOS ARTÍCULOS 31, 37, 40 Y 44 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, ASÍ COMO, EL INCISO E) DEL ARTÍCULO 24, ASÍ MISMO LOS ARTÍCULOS 28, TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 29, 33 Y 189 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
