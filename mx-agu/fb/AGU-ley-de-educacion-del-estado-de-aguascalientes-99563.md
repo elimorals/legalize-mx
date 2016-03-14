@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2016-02-29"
+last_updated: "2016-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -343,13 +343,29 @@ XXIII. Participar con la Autoridad Educativa Federal en la operación de los mec
 
 XXIV. Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y diversidad educativa; y
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXV. Establecer las reglas de operación y llevar a cabo un Programa de Uniformes, que permita dotar gratuitamente de los mismos, a los niños, niñas y adolescentes que cursen la educación básica en las escuelas públicas del Estado; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2015)</small>
+XXV. Establecer las reglas de operación y llevar a cabo un Programa de Uniformes, que permita dotar gratuitamente de los mismos, a los niños, niñas y adolescentes que cursen la educación básica en las escuelas públicas del Estado;
 
-XXVI. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
+
+XXVI. Impulsar políticas públicas a fin de garantizar la entrega de útiles escolares a los niños, niñas y adolescentes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2016)</small>
+
+XXVII. Impulsar políticas públicas a fin de garantizar el acceso a centros de uso de tecnologías digitales a estudiantes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2016)</small>
+
+XXVIII. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -697,9 +713,13 @@ El individuo es el titular del derecho a la educación y será el beneficiario d
 
 ### CAPÍTULO V. De la Atención Especial de Víctimas
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 32.
 
-De conformidad con lo dispuesto en la Ley General de Víctimas, las políticas y acciones establecidas en este Capítulo, tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo cuando como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios, para lo cual se tomarán medidas para superar esta condición provocada por el hecho victimizante. La educación deberá contar con enfoque transversal de género y diferencial, de inclusión social y con perspectiva de derechos. Se buscará garantizar la exención para las víctimas de todo tipo de costos académicos en las instituciones públicas de educación preescolar, primaria, secundaria y media superior.
+De conformidad con lo dispuesto en la Ley General de Víctimas, las políticas y acciones establecidas en este Capítulo, tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo cuando como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios, para lo cual se tomarán medidas para superar esta condición provocada por el hecho victimizante. La educación deberá contar con enfoque transversal de género y diferencial, de inclusión social y con perspectiva de derechos. Se garantizará la exención para las víctimas de todo tipo de costos académicos en las instituciones públicas de educación preescolar, primaria, secundaria, media superior y superior.
 
 ###### Artículo 33.
 
@@ -2342,3 +2362,15 @@ P.O. 29 DE FEBRERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 322.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas y adiciones al Artículo 17 de la Ley de educación del Estado de Aguascalientes iniciarán su vigencia el 1° de enero de 2017, por lo que el Programa para la implementación para el acceso al uso de tecnologías digitales, así como la entrega de útiles escolares, será previsto por el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2017; implementándose progresivamente a partir del ciclo escolar 2017- 2018.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma al Artículo 32 estará a lo dispuesto por la Ley General de Víctimas.
