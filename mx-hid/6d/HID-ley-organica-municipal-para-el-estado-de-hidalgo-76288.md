@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2015-12-31"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MARZO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015.]</small>
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -3013,8 +3013,8 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 31 DE DICIEMBRE DE 2015.
+P.O. 31 DE DICIEMBRE DE 2015 Y F. DE E. P.O. 14 DE MARZO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 542, QUE REFORMA LOS INCISOS II) Y JJ) Y SE ADICIONA EL INCISO KK), A LA FRACCIÓN I DEL ARTÍCULO 4 (SIC) DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 542, QUE REFORMA LOS INCISOS II) Y JJ) Y SE ADICIONA EL INCISO KK), A LA FRACCIÓN I DEL ARTÍCULO 60 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
