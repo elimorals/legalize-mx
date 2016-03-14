@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "2014-06-13"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO LAS DISPOSICIONES PREVISTAS EN LOS ARTÍCULOS 163, 199 Y 201 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, ENTRARÁN EN VIGOR, EN LO RELATIVO A LOS DERECHOS DE MINORÍAS, A PARTIR DEL DÉCIMO DÍA HÁBIL POSTERIOR A LA FECHA DE PUBLICACIÓN DEL PRESENTE DECRETO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2016.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -52,13 +50,29 @@ III.- Sociedad de responsabilidad limitada;
 
 IV.- Sociedad anónima;
 
-V.- Sociedad en comandita por acciones, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VI.- Sociedad cooperativa.
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2016)</small>
 
-> <small>(F. DE E., D.O.F. 28 DE AGOSTO DE 1934)</small>
+V.- Sociedad en comandita por acciones;
 
-Cualquiera de las sociedades a que se refieren las fracciones I a V de este artículo podrá constituirse como sociedad de capital variable, observándose entonces las disposiciones del Capítulo VIII de esta Ley.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2016)</small>
+
+VI.- Sociedad cooperativa, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2016)</small>
+
+VII.- Sociedad por acciones simplificada.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+Cualquiera de las sociedades a que se refieren las fracciones I a V, y VII de este artículo podrá constituirse como sociedad de capital variable, observándose entonces las disposiciones del Capítulo VIII de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 1943)</small>
 
@@ -71,6 +85,12 @@ Salvo el caso previsto en el artículo siguiente, no podrán ser declaradas nula
 Las sociedades no inscritas en el Registro Público de Comercio que se hayan exteriorizado como tales, frente a terceros consten o no en escritura pública, tendrán personalidad jurídica.
 
 Las relaciones internas de las sociedades irregulares se regirán por el contrato social respectivo, y, en su defecto, por las disposiciones generales y por las especiales de esta ley, según la clase de sociedad de que se trate.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+Tratándose de la sociedad por acciones simplificada, para que surta efectos ante terceros deberá inscribirse en el registro mencionado.
 
 Los que realicen actos jurídicos como representantes o mandatarios de una sociedad irregular, responderán del cumplimiento de los mismos frente a terceros, subsidiaria, solitaria (sic) e ilimitadamente, sin perjuicio de la responsabilidad penal, en que hubiere incurrido, cuando los terceros resultaren perjudicados.
 
@@ -95,6 +115,12 @@ Las sociedades mercantiles podrán realizar todos los actos de comercio necesari
 ###### ARTICULO 5°.
 
 Las sociedades se constituirán ante fedatario público y en la misma forma se harán constar con sus modificaciones. El fedatario público no autorizará la escritura o póliza cuando los estatutos o sus modificaciones contravengan lo dispuesto por esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+La sociedad por acciones simplificada se constituirá a través del procedimiento establecido en el Capítulo XIV de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
@@ -236,11 +262,13 @@ Si hubiere pérdida del capital social, éste deberá ser reintegrado o reducido
 
 La distribución de utilidades sólo podrá hacerse después de que hayan sido debidamente aprobados por la asamblea de socios o accionistas los estados financieros que las arrojen. Tampoco podrá hacerse distribución de utilidades mientras no hayan sido restituidas o absorbidas mediante aplicación de otras partidas del patrimonio, las pérdidas sufridas en uno o varios ejercicios anteriores, o haya sido reducido el capital social. Cualquiera estipulación en contrario no producirá efecto legal, y tanto la sociedad como sus acreedores podrán repetir por los anticipos o reparticiones de utilidades hechas en contravención de este artículo, contra las personas que las hayan recibido, o exigir su reembolso a los administradores que las hayan pagado, siendo unas y otros mancomunada y solidariamente responsables de dichos anticipos y reparticiones.
 
-> <small>(F. DE E., D.O.F. 28 DE AGOSTO DE 1934)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 20.
 
-De las utilidades netas de toda sociedad, deberá separarse anualmente el cinco por ciento, como mínimo, para formar el fondo de reserva, hasta que importe la quinta parte del capital social.
+Salvo por la sociedad por acciones simplificada, de las utilidades netas de toda sociedad, deberá separarse anualmente el cinco por ciento, como mínimo, para formar el fondo de reserva, hasta que importe la quinta parte del capital social.
 
 El fondo de reserva deberá ser reconstituído de la misma manera cuando disminuya por cualquier motivo.
 
@@ -464,7 +492,7 @@ Ninguna sociedad de responsabilidad limitada tendrá más de cincuenta socios.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 62.
+###### ARTICULO 62.
 
 El capital social será el que se establezca en el contrato social; se dividirá en partes sociales que podrán ser de valor y categoría desiguales, pero que en todo caso serán de un múltiplo de un peso.
 
@@ -1910,29 +1938,217 @@ Salvo pacto en contrario, para la distribución de las utilidades y de las pérd
 
 Las asociaciones en participación funcionan, se disuelven y liquidan, a falta de estipulaciones especiales, por las reglas establecidas para las sociedades en nombre colectivo, en cuanto no pugnen con las disposiciones de este capítulo.
 
-> <small>(DEROGADO EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 11 DE JUNIO DE 1992)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO XIV. Del registro de las sociedades mercantiles
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE. E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO XIV. De la sociedad por acciones simplificada
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 260.
 
-(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
+La sociedad por acciones simplificada es aquella que se constituye con una o más personas físicas que solamente están obligadas al pago de sus aportaciones representadas en acciones. En ningún caso las personas físicas podrán ser simultáneamente accionistas de otro tipo de sociedad mercantil a que se refieren las fracciones I a VII, del artículo 1o. de esta Ley, si su participación en dichas sociedades mercantiles les permite tener el control de la sociedad o de su administración, en términos del artículo 2, fracción III de la Ley del Mercado de Valores.
+
+Los ingresos totales anuales de una sociedad por acciones simplificada no podrá (sic) rebasar de 5 millones de pesos. En caso de rebasar el monto respectivo, la sociedad por acciones simplificada deberá transformarse en otro régimen societario contemplado en esta Ley, en los términos en que se establezca en las reglas señaladas en el artículo 263 de la misma. El monto establecido en este párrafo se actualizará anualmente el primero de enero de cada año, considerando el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el que se efectúa la actualización, misma que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Economía publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año.
+
+En caso que los accionistas no lleven a cabo la transformación de la sociedad a que se refiere el párrafo anterior responderán frente a terceros, subsidiaria, solidaria e ilimitadamente, sin perjuicio de cualquier otra responsabilidad en que hubieren incurrido.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 261.
 
-(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
+La denominación se formará libremente, pero distinta de la de cualquier otra sociedad y siempre seguida de las palabras “Sociedad por Acciones Simplificada” o de su abreviatura “S.A.S.”.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 262.
 
-(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
+Para proceder a la constitución de una sociedad por acciones simplificada únicamente se requerirá:
+
+I. Que haya uno o más accionistas;
+
+II. Que el o los accionistas externen su consentimiento para constituir una sociedad por acciones simplificada bajo los estatutos sociales que la Secretaría de Economía ponga a disposición mediante el sistema electrónico de constitución;
+
+III. Que alguno de los accionistas cuente con la autorización para el uso de denominación emitida por la Secretaría de Economía, y
+
+IV. Que todos los accionistas cuenten con certificado de firma electrónica avanzada vigente reconocido en las reglas generales que emita la Secretaría de Economía conforme a lo dispuesto en el artículo 263 de esta Ley.
+
+En ningún caso se exigirá el requisito de escritura pública, póliza o cualquier otra formalidad adicional, para la constitución de la sociedad por acciones simplificada.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 263.
 
-(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
+Para efectos de lo dispuesto en el artículo 262 de esta Ley, el sistema electrónico de constitución estará a cargo de la Secretaría de Economía y se llevará por medios digitales mediante el programa informático establecido para tal efecto, cuyo funcionamiento y operación se regirá por las reglas generales que para tal efecto emita la propia Secretaría.
+
+El procedimiento de constitución se llevará a cabo de acuerdo con las siguientes bases:
+
+I. Se abrirá un folio por cada constitución;
+
+II. El o los accionistas seleccionarán las cláusulas de los estatutos sociales que ponga a disposición la Secretaría de Economía a través del sistema;
+
+III. Se generará un contrato social de la constitución de la sociedad por acciones simplificada firmado electrónicamente por todos los accionistas, usando el certificado de firma electrónica vigente a que se refiere la fracción IV del artículo 262 de esta Ley, que se entregará de manera digital;
+
+IV. La Secretaría de Economía verificará que el contrato social de la constitución de la sociedad cumpla con lo dispuesto en el artículo 264 de esta Ley, y de ser procedente lo enviará electrónicamente para su inscripción en el Registro Público de Comercio;
+
+V. El sistema generará de manera digital la boleta de inscripción de la sociedad por acciones simplificada en el Registro Público de Comercio;
+
+VI. La utilización de fedatarios públicos es optativa;
+
+VII. La existencia de la sociedad por acciones simplificada se probará con el contrato social de la constitución de la sociedad y la boleta de inscripción en el Registro Público de Comercio;
+
+VIII. Los accionistas que soliciten la constitución de una sociedad por acciones simplificada serán responsables de la existencia y veracidad de la información proporcionada en el sistema. De lo contrario responden por los daños y perjuicios que se pudieran originar, sin perjuicio de las sanciones administrativas o penales a que hubiere lugar, y
+
+IX. Las demás que se establezcan en las reglas del sistema electrónico de constitución.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 264.
 
-(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
+Los estatutos sociales a que se refiere el artículo anterior únicamente deberán contener los siguientes requisitos:
+
+I. Denominación;
+
+II. Nombre de los accionistas;
+
+III. Domicilio de los accionistas;
+
+IV. Registro Federal de Contribuyentes de los accionistas;
+
+V. Correo electrónico de cada uno de los accionistas;
+
+VI. Domicilio de la sociedad;
+
+VII. Duración de la sociedad;
+
+VIII. La forma y términos en que los accionistas se obliguen a suscribir y pagar sus acciones;
+
+IX. El número, valor nominal y naturaleza de las acciones en que se divide el capital social;
+
+X. El número de votos que tendrá cada uno de los accionistas en virtud de sus acciones;
+
+XI. El objeto de la sociedad, y
+
+XII. La forma de administración de la sociedad.
+
+El o los accionistas serán subsidiariamente o solidariamente responsables, según corresponda, con la sociedad, por la comisión de conductas sancionadas como delitos.
+
+Los contratos celebrados entre el accionista único y la sociedad deberán inscribirse por la sociedad en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 265.
+
+Todas las acciones señaladas en la fracción IX del artículo 264 deberán pagarse dentro del término de un año contado desde la fecha en que la sociedad quede inscrita en el Registro Público de Comercio.
+
+Cuando se haya suscrito y pagado la totalidad del capital social, la sociedad deberá publicar un aviso en el sistema electrónico establecido por la Secretaría de Economía en términos de lo dispuesto en el artículo 50 Bis del Código de Comercio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 266.
+
+La Asamblea de Accionistas es el órgano supremo de la sociedad por acciones simplificada y está integrada por todos los accionistas.
+
+Las resoluciones de la Asamblea de Accionistas se tomarán por mayoría de votos y podrá acordarse que las reuniones se celebren de manera presencial o por medios electrónicos si se establece un sistema de información en términos de lo dispuesto en el artículo 89 del Código de Comercio. En todo caso deberá llevarse un libro de registro de resoluciones.
+
+Cuando la sociedad por acciones simplificada esté integrada por un solo accionista, éste será el órgano supremo de la sociedad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 267.
+
+La representación de la sociedad por acciones simplificada estará a cargo de un administrador, función que desempeñará un accionista.
+
+Cuando la sociedad por acciones simplificada esté integrada por un solo accionista, éste ejercerá las atribuciones de representación y tendrá el cargo de administrador.
+
+Se entiende que el administrador, por su sola designación, podrá celebrar o ejecutar todos los actos y contratos comprendidos en el objeto social o que se relacionen directamente con la existencia y el funcionamiento de la sociedad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 268.
+
+La toma de decisiones de la Asamblea de Accionistas se regirá únicamente conforme a las siguientes reglas:
+
+I. Todo accionista tendrá derecho a participar en las decisiones de la sociedad;
+
+II. Los accionistas tendrán voz y voto, las acciones serán de igual valor y conferirán los mismos derechos;
+
+III. Cualquier accionista podrá someter asuntos a consideración de la Asamblea, para que sean incluidos en el orden del día, siempre y cuando lo solicite al administrador por escrito o por medios electrónicos, si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo 89 del Código de Comercio;
+
+IV. El administrador enviará a todos los accionistas el asunto sujeto a votación por escrito o por cualquier medio electrónico si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo 89 del Código de Comercio, señalando la fecha para emitir el voto respectivo;
+
+V. Los accionistas manifestarán su voto sobre los asuntos por escrito o por medios electrónicos si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo 89 del Código de Comercio, ya sea de manera presencial o fuera de asamblea.
+
+La Asamblea de Accionistas será convocada por el administrador de la sociedad, mediante la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía con una antelación mínima de cinco días hábiles. En la convocatoria se insertará el orden del día con los asuntos que se someterán a consideración de la Asamblea, así como los documentos que correspondan.
+
+Si el administrador se rehúsa a hacer la convocatoria, o no lo hiciere dentro del término de quince días siguientes a la recepción de la solicitud de algún accionista, la convocatoria podrá ser hecha por la autoridad judicial del domicilio de la sociedad, a solicitud de cualquier accionista.
+
+Agotado el procedimiento establecido en el presente artículo las resoluciones de la Asamblea de Accionistas se consideran válidas y serán obligatorias para todos los accionistas si la votación se emitió por la mayoría de los mismos, salvo que se ejercite el derecho de oposición previsto en esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 269.
+
+Las modificaciones a los estatutos sociales se decidirán por mayoría de votos.
+
+En cualquier momento los accionistas podrán acordar formas de organización y administración distintas a la contemplada en este Capítulo; siempre y cuando los accionistas celebren ante fedatario público la transformación de la sociedad por acciones simplificada a cualquier otro tipo de sociedad mercantil, conforme a las disposiciones de esta Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 270.
+
+Salvo pacto en contrario, deberán privilegiarse los mecanismos alternativos de solución de controversias previstos en el Código de Comercio para sustanciar controversias que surjan entre los accionistas, así como de éstos con terceros.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 271.
+
+Salvo pacto en contrario, las utilidades se distribuirán en proporción a las acciones de cada accionista.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 272.
+
+El administrador publicará en el sistema electrónico de la Secretaría de Economía, el informe anual sobre la situación financiera de la sociedad conforme a las reglas que emita la Secretaría de Economía de acuerdo con lo dispuesto en el artículo 263 de esta Ley.
+
+La falta de presentación de la situación financiera durante dos ejercicios consecutivos dará lugar a la disolución de la sociedad, sin perjuicio de las responsabilidades en que incurran los accionistas de manera individual. Para efectos de lo dispuesto en este párrafo, la Secretaría de Economía emitirá la declaratoria de incumplimiento correspondiente conforme al procedimiento establecido en las reglas mencionadas en el párrafo anterior.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2016)</small>
+
+###### ARTICULO 273.
+
+En lo que no contradiga el presente Capítulo son aplicables a la sociedad por acciones simplificada las disposiciones que en esta Ley regulan a la sociedad anónima así como lo relativo a la fusión, la transformación, escisión, disolución y liquidación de sociedades.
+
+Para los casos de la sociedad por acciones simplificada que se integre por un solo accionista, todas las disposiciones que hacen referencia a “accionistas”, se entenderán aplicables respecto del accionista único. Asimismo, aquellas disposiciones que hagan referencia a “contrato social”, se entenderán referidas al “acto constitutivo”.
 
 TRANSITORIOS:
 
@@ -2077,3 +2293,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente al de su public
 Segundo. La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
 
 Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
+
+D.O.F. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
+
+Único.- El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
