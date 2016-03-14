@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2016-02-03"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -363,7 +361,11 @@ Personas físicas con domicilio legal
 
 20.- Es domicilio legal:
 
-I. Del menor de edad no emancipado, el de la persona a cuya patria potestad y custodia esté sujeto;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+I. De las niñas, los niños y los adolescentes, el de la persona a cuya patria potestad y custodia esté sujeto.
 
 II. Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
@@ -699,7 +701,9 @@ II. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
 III. Los datos generales de los padres.
 
-IV. El consentimiento de quienes deban suplirlo, tratándose de menores de edad;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+IV. (DEROGADA, G.G. 14 DE MARZO DE 2016)
 
 V. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
@@ -717,17 +721,19 @@ Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 Falsedad de declaración en la celebración de matrimonio
 
-> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 3.
 
-27.- Los contrayentes, sus padres o quienes suplan el consentimiento que declaren un hecho falso, serán denunciados ante el Ministerio Público.
+27. Los contrayentes que declaren un hecho falso, serán denunciados ante el Ministerio Público.
 
-De la emancipación
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 3.
 
-28.- En los casos de emancipación, será suficiente para acreditarla el acta de matrimonio.
+28. (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 ### CAPITULO V. De las Actas de Defunción
 
@@ -779,7 +785,11 @@ Aviso al Ministerio Público de muerte violenta
 
 Cuando éste conozca de un fallecimiento, dará parte al oficial del Registro Civil para que asiente el acta respectiva. Si se ignora la identidad del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a su identificación.
 
-Si el Ministerio Público tuviese conocimiento superviniente de datos que conduzcan a la identificación del cadáver, los hará saber desde luego al oficial del Registro Civil para su anotación marginal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Si se determina que hubiere muerte por violencia familiar o de género, la o el Juez lo hará del conocimiento del Registro Civil para la anotación marginal correspondiente y lo informará al Consejo para Prevenir y Erradicar la Violencia Familiar del Estado de México.
 
 Acta de defunción de quien no aparece su cadáver
 
@@ -1049,27 +1059,23 @@ Edad para contraer matrimonio
 
 4.- Para contraer matrimonio, la mujer y el hombre necesitan haber cumplido dieciocho años.
 
-Los Jueces de Primera Instancia pueden conceder dispensas de edad por causas graves y justificadas.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
-Personas que deben consentir el matrimonio de menores
-
-(REUBICADO, G.G. 6 DE MARZO DE 2010)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-5.- Los que no hayan cumplido dieciocho años, requieren para contraer matrimonio el consentimiento de alguno de los que ejerzan sobre ellos la patria potestad. Faltando éstos, se requiere el consentimiento del tutor; y a falta de éste, el Juez de Primera Instancia, suplirá o no el consentimiento.
+5.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
-El mismo procedimiento se seguirá en caso de negativa o revocación del consentimiento.
-
-Causa para justificar el consentimiento expreso
-
-(REUBICADO, G.G. 6 DE MARZO DE 2010)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-6.- Quienes hayan otorgado el consentimiento de manera fehaciente, no podrán revocarlo, a menos que haya causa justificada para ello.
+6.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Impedimentos para contraer matrimonio
 
@@ -1079,9 +1085,15 @@ Impedimentos para contraer matrimonio
 
 7.- Son impedimentos para contraer matrimonio:
 
-I. La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. La falta de consentimiento de quienes legalmente deben otorgarlo;
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+I. La falta de edad requerida por la Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+II. (DEROGADA, G.G. 14 DE MARZO DE 2016)
 
 III. El parentesco por consanguinidad sin limitación de grado en línea recta, ascendente o descendente; en segundo grado en línea colateral y el del tercer grado colateral, siempre que no se haya obtenido dispensa;
 
@@ -1231,11 +1243,11 @@ Libertad entre los cónyuges para elegir su actividad
 
 20.- Los cónyuges podrán desempeñar la actividad, ocupación, profesión u oficio que elijan, siendo lícitos.
 
-Administración de bienes por el cónyuge menor
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-21.- Los cónyuges menores de edad, tendrán la libre administración de sus bienes, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+21.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Compraventa entre cónyuges
 
@@ -1289,11 +1301,11 @@ III. Los bienes que se adquieran durante el matrimonio, con el producto de la ve
 
 IV. Objetos de uso personal.
 
-Otorgamiento de capitulación por el menor
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-28.- El menor para celebrar capitulaciones matrimoniales requiere del consentimiento de su representante.
+28.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 ###### Artículo 4.
 
@@ -1321,7 +1333,11 @@ Terminación de la sociedad conyugal
 
 I. La conclusión del matrimonio;
 
-II. La voluntad de los cónyuges; si éstos son menores de edad, deben intervenir en la disolución de la sociedad, sus representantes;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+II. La voluntad de los cónyuges.
 
 III. Resolución judicial que declare que el cónyuge administrador ha actuado con dolo, negligencia, torpe administración que amenace arruinar a su cónyuge o disminuir considerablemente los bienes comunes; cuando uno de los cónyuges haga cesión de los bienes pertenecientes a la sociedad a sus acreedores personales o, sea declarado en concurso o quiebra.
 
@@ -1493,9 +1509,13 @@ Ingratitud en las donaciones antenupciales
 
 Revocación de las donaciones antenupciales
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 4.
 
-56.- Las donaciones antenupciales son revocables. Las realizadas entre pretendientes se tienen por revocadas cuando el donatario cometa adulterio, abandone injustificadamente el domicilio conyugal por más de seis meses o incumpla sus obligaciones inherentes a la familia.
+56.- Las donaciones antenupciales son revocables. Las realizadas entre pretendientes se tienen por revocadas cuando el donatario abandone injustificadamente el domicilio conyugal por más de seis meses o incumpla sus obligaciones inherentes a la familia.
 
 Donaciones antenupciales sin efecto
 
@@ -1543,23 +1563,17 @@ Derecho a la procreación
 
 62.- La acción de nulidad que nace del error o la impotencia, sólo puede ejercitarse por el cónyuge engañado; pero si no lo denuncia dentro del plazo de treinta días de conocerlo, se tiene por ratificado el consentimiento.
 
-Casos en que la falta de edad no es causa de nulidad de matrimonio
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-63.- La falta de edad para contraer matrimonio dejará de ser causa de nulidad cuando:
+63.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
-I. Haya hijos o la cónyuge se encuentre embarazada;
-
-II. Se alcance la mayoría de edad y no se hubiere demandado la nulidad;
-
-III. Se obtuviere dispensa de edad.
-
-Plazo para pedir la nulidad por falta de consentimiento de los ascendientes
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-64.- La nulidad por falta de consentimiento de los ascendientes o de quienes deban suplirlo, se pedirá por éstos dentro de los treinta días desde que tengan conocimiento del matrimonio.
+64.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Improcedencia de la nulidad por falta de consentimiento de los ascendientes
 
@@ -1585,11 +1599,11 @@ Legitimación para demandar la nulidad por parentesco
 
 67.- La nulidad por parentesco puede demandarse por cualquiera de los cónyuges, por sus ascendientes o por el Ministerio Público.
 
-Plazo para ejercitar la acción de nulidad por adulterio
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-68.- La acción de nulidad por impedimento de adulterio, se ejercitará dentro de seis meses, contados a partir de la celebración del matrimonio, por el cónyuge ofendido o por el Ministerio Público, en caso de muerte de aquél.
+68.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Legitimación y plazo para deducir contra la vida
 
@@ -1745,13 +1759,15 @@ Efectos jurídicos del divorcio
 
 90.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
-
 Legitimación y plazo para solicitar el divorcio incausado
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-91.- El divorcio podrá pedirse por uno de los cónyuges, con la sola manifestación de la voluntad de no querer continuar con el matrimonio, después de un año de haberse celebrado.
+91.- El divorcio podrá pedirse por uno de los cónyuges, con la sola manifestación de la voluntad de no querer continuar con el matrimonio.
 
 ###### Artículo 4.
 
@@ -1781,19 +1797,21 @@ I. Separar a los cónyuges, tomando siempre en cuenta las circunstancias persona
 
 II. Fijar y asegurar los alimentos que debe dar el cónyuge alimentario al acreedor y a los hijos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
-III. A falta de acuerdo entre los cónyuges, la guarda y custodia provisional de los hijos se decretará por el Juez debiendo escuchar a ambos progenitores, a las hijas o hijos y a cualquier otro interesado, en función del interés superior de niñas, niños y adolescentes y de los sujetos a tutela. El Juez actuará de la misma manera para determinar el régimen de convivencia;
+III. A falta de acuerdo entre los cónyuges, la guarda y custodia provisional de las y los hijos se decretará por el Juez quedando preferentemente al cuidado de la madre, debiendo escuchar a ambos progenitores, a las hijas o hijos y a cualquier otro interesado, en función del interés superior de las niñas, niños y adolescentes y de los sujetos a tutela. El Juez actuará de la misma manera para determinar el régimen de convivencia.
 
 IV. Dictar las medidas convenientes respecto a la mujer que esté embarazada;
 
 V. Las necesarias para que los cónyuges no se causen daños en su persona, en sus bienes, en los de la sociedad conyugal o en los bienes de los hijos.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El otorgamiento de la guarda y custodia de un menor no estará sustentado en prejuicios de género, por lo cual deberá atenderse al interés superior del menor.
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+El otorgamiento de la guarda y custodia de las niñas, los niños y los adolescentes o incapaces quedará preferentemente al cuidado de la madre, atendiendo al interés superior de las niñas, niños y adolescentes, a menos que exista una causa justificada a criterio del Juez. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO Y EPÍGRAFE, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -1835,9 +1853,13 @@ IV. Otras obligaciones que tenga el cónyuge deudor; y
 
 V. Las demás que el Juez estime necesarias y pertinentes.
 
-En todos los casos, el cónyuge que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la repartición equitativa de bienes.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-En la resolución que se dicte con respecto a los alimentos, se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1845,11 +1867,11 @@ En la resolución que se dicte con respecto a los alimentos, se fijarán las bas
 
 100.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
-Plazo para solicitar divorcio voluntario
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-101.- El divorcio voluntario judicial o administrativo no podrá pedirse sino pasado un año de la celebración del matrimonio.
+101.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Convenio en el divorcio voluntario
 
@@ -1893,17 +1915,23 @@ Separación provisional de los cónyuges y alimentos de los hijos
 
 Avenimiento de los cónyuges
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 4.
 
-104.- Los cónyuges que hayan solicitado el divorcio voluntario, podrán avenirse en cualquier tiempo, con tal de que éste no haya sido decretado. No podrán volverlo a solicitar sino pasado un año desde su reconciliación.
+104.- Los cónyuges que hayan solicitado el divorcio voluntario podrán avenirse en cualquier tiempo, con tal de que éste no haya sido decretado.
 
 Divorcio administrativo
 
-> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-105.- Cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos menores de edad o mayores sujetos a tutela y hubieren liquidado la sociedad conyugal, si la había, deberán ocurrir personalmente ante el Oficial del Registro Civil del lugar de su domicilio o donde fue celebrado el matrimonio, siempre y cuando se encuentre inscrito en el territorio estatal.
+105.- Cuando ambos cónyuges convengan en divorciarse, no tengan hijos menores de edad o mayores sujetos a tutela y hubieren liquidado la sociedad conyugal, si la había, deberán ocurrir personalmente ante el Oficial del Registro Civil del lugar de su domicilio o donde fue celebrado el matrimonio, siempre y cuando se encuentre inscrito en el territorio estatal.
 
 Ratificación de solicitud y exhortación
 
@@ -1931,9 +1959,17 @@ Alimentos de los cónyuges en el divorcio voluntario
 
 109.- En el divorcio voluntario se tendrá derecho a recibir alimentos por el mismo lapso de duración del matrimonio, sólo cuando se esté en cualquiera de los siguientes supuestos:
 
-I. Quien haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia de manera cotidiana durante el matrimonio; o
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. El que por su condición o circunstancia no pueda allegarse sus alimentos.
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+I. La cónyuge que haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de la familia de manera cotidiana, durante el matrimonio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+II. La cónyuge que, por su condición o circunstancia, no pueda allegarse sus alimentos.
 
 Este derecho se disfrutará mientras no contraiga matrimonio o se una en concubinato.
 
@@ -2051,17 +2087,25 @@ Grados de parentesco en línea transversal
 
 126.- Las disposiciones de este capítulo son de orden público.
 
-Obligación recíproca de dar alimentos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Derecho de recibir alimentos
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-127.- La obligación de dar alimentos es recíproca. El que los da, tiene a su vez el derecho de pedirlos.
-
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-Gozan de la presunción de necesitar alimentos los hijos menores de edad o que siendo mayores de edad, se dediquen al estudio; los discapacitados; los adultos mayores; así como el cónyuge o concubina o concubinario que se haya dedicado preponderantemente a las labores del hogar.
+127.- Tienen derecho a recibir alimentos las y los hijos menores de edad o mayores de edad que se dediquen al estudio, los discapacitados, los adultos mayores, la cónyuge o concubina que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de la familia y el cónyuge o concubina que se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud.
 
 Alimentos entre cónyuges
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
 
@@ -2071,35 +2115,65 @@ De la naturaleza del Registro de Deudores Alimentarios Morosos
 
 ###### Artículo 4.
 
-128.- Los cónyuges deben darse alimentos.
+128.- Los cónyuges se darán alimentos en los términos que establezca este Código.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Reglas para que los concubinos se den alimentos
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Reglas sobre alimentos entre concubinos y los hijos
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-129.- Los concubinos están obligados a darse alimentos, conforme a las siguientes reglas:
+129. Los concubinos están obligados a dar alimentos, conforme a las siguientes reglas y acciones afirmativas:
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 l. Que acrediten haber hecho vida común por al menos un año o haber procreado algún hijo en común;
 
-ll. Que el concubinario o la concubina se hubiera dedicado al cuidado de los hijos o del hogar; o que carezca de ingresos o bienes propios para su sostenimiento; o que padezca de alguna incapacidad o condición que le impida trabajar;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+II. Que la concubina carezca de bienes y que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de las y los hijos, tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que los hijos cumplan la mayoría de edad o que se dediquen al estudio.
+
+Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de la concubina, el concubino deberá proporcionarlos de por vida.
+
+Cuando el concubino se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud, tendrá derecho a alimentos, el cual no será inferior al veinte por ciento del total del sueldo, por el tiempo que haya durado el concubinato.
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 III. Que no haya contraído nuevas nupcias o viva en concubinato;
 
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 IV. Que se reclame dentro del año siguiente de haber cesado el concubinato.
 
-> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Al cesar la convivencia, la concubina o concubino que haya procreado hijos, se hubiera dedicado al cuidado de éstos y del hogar, y que además carezca de ingresos o bienes propios para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo no mayor al que haya durado el concubinato, según lo fije el juez tomando en cuenta sus posibilidades para que pueda proveerse de un empleo o actividad remunerada, según su edad, instrucción y aptitud laboral.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-No podrá reclamar alimentos y en su caso cesarán si se une en concubinato o contrae matrimonio o bien adquiere bienes propios o realiza alguna actividad remunerada que le permitan su subsistencia.
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2015)</small>
+En el caso de que la concubina trabaje u obtenga una actividad remunerada, la obligación del concubino para dar alimentos será en los términos que establezca este Código.
 
-El derecho que otorga este artículo podrá ejercitarse sólo durante el año siguiente a la cesación del concubinato.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+La concubina que no tenga hijas o hijos, que carezca de bienes y que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección y atención, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el concubinato.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+No podrán reclamar alimentos y en su caso cesarán si se une en concubinato o contrae matrimonio.
 
 Obligación alimentaria de los padres
 
@@ -2131,17 +2205,29 @@ Obligación alimentaria de colaterales hasta el cuarto grado
 
 Aspectos que comprenden los alimentos
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-135.- Los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica, hospitalaria y psicológica preventiva integrada a la salud y recreación. Tratándose de niñas, niños y adolescentes y tutelados comprenden, además, los gastos necesarios para la educación básica, descanso, esparcimiento y que se le proporcione en su caso, algún oficio, arte o profesión adecuados a sus circunstancias personales.
+135.- Los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica, hospitalaria y psicológica preventiva integrada a la salud y recreación, y en su caso, los gastos de embarazo y parto. Tratándose de niñas, niños y adolescentes y tutelados comprenden, además, los gastos necesarios para la educación básica, descanso, esparcimiento y que se le proporcione en su caso, algún oficio, arte o profesión adecuados a sus circunstancias personales.
 
 Forma de cumplir la obligación alimentaria
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 4.
 
-136.- El obligado a dar alimentos cumple la obligación asignando una pensión suficiente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, el Juez decidirá la manera de ministrar los alimentos.
+136.- El obligado a dar alimentos cumple la obligación asignando al acreedor alimentario una pensión, la cual no será inferior al cuarenta por ciento del sueldo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+En el caso de que la guarda y la custodia de las y los hijos estén al cuidado del cónyuge o concubino, la o el Juez determinará la pensión en proporción a los haberes y posibilidades de ambos.
 
 > <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
 
@@ -2151,41 +2237,55 @@ Quien incumpla con la obligación alimentaria ordenada por mandato judicial o es
 
 El deudor alimentario moroso que acredite ante el Juez que se encuentra al corriente del pago de alimentos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción con dicho carácter.
 
-Improcedencia de incorporación a la familia para recibir alimentos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-137.- El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, o cuando haya inconveniente para hacer esa incorporación.
+137.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
-Alimentos en proporción a las posibilidades y necesidades
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Alimentos de los cónyuges
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-138.- Los alimentos han de ser proporcionados de acuerdo a la capacidad económica del deudor alimentario y de las necesidades de quien deba recibirlos.
+138.- Los cónyuges están obligados a dar alimentos, conforme a las siguientes reglas y acciones afirmativas:
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+La cónyuge que carezca de bienes y que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de las y los hijos tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que las y los hijos cumplan la mayoría de edad o que se dediquen al estudio, sin menoscabo de la repartición equitativa de bienes.
 
-Cuando no sean comprobables el salario o ingresos del deudor alimentario, el juez resolverá tomando como referencia la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en el último año, la cantidad correspondiente no podrá ser inferior a un salario mínimo diario.
+Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de la cónyuge, el cónyuge deberá proporcionarlos de por vida.
 
-Los alimentos determinados por convenio o sentencia, se modificarán de manera proporcional a las modificaciones de los ingresos del deudor alimentario. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+La cónyuge que no tenga hijas o hijos y que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar, consistente en tareas de administración, dirección y atención, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+
+El cónyuge que se encuentre imposibilitado física y mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud, tendrá derecho a alimentos, el cual no será inferior al veinte por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+
+En la resolución que se dicte con respecto a los alimentos, se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+
+Los alimentos determinados por convenio o sentencia, se modificarán de acuerdo a los ingresos del deudor alimentario. En este caso, el incremento en los alimentos se ajustará a lo que obtenga el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+Cuando no sean comprobables el salario o ingresos del deudor alimentario, la o el juez resolverá tomando como referencia la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en el último año, la cantidad correspondiente no podrá ser inferior a una unidad de medida y actualización por cada acreedor alimentario.
 
 Reparto de la obligación alimentaria
 
-###### Artículo 4.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-139.- Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el Juez repartirá el importe entre ellos, en proporción a sus haberes.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Si fuesen varios los acreedores alimentarios, el Juez repartirá el importe de la pensión, atendiendo a las necesidades e interés superior de las niñas, niños o aquellos discapacitados sobre los adolescentes.
-
-Posibilidad económica de algunos para dar alimentos
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-140.- Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno sólo la tuviere, él cumplirá únicamente la obligación.
+139.- Si fuesen varios los acreedores alimentarios, la o el Juez repartirá el importe de la pensión, en proporción a sus haberes, atendiendo el interés superior de las niñas, niños o discapacitados sobre los adolescentes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+###### Artículo 4.
+
+140.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Legitimación para pedir el aseguramiento de alimentos
 
@@ -2227,11 +2327,15 @@ Cesación de la obligación alimentaria
 
 I. Cuando el acreedor deja de necesitar los alimentos;
 
-II. En caso de injuria, falta o daño graves inferidos por el acreedor contra el que debe proporcionarlos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
-III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del acreedor, mientras subsistan estas causas;
+II. En caso de daño grave, violencia o conducta viciosa inferidos por el acreedor contra el que debe proporcionarlos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+III. (DEROGADA, G.G. 14 DE MARZO DE 2016)
 
 IV. Si el acreedor, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
 
@@ -2357,11 +2461,11 @@ II. Los nacidos dentro de los trescientos días siguientes a la disolución del 
 
 Si al celebrarse el matrimonio el contrayente declara que reconoce como hijo suyo al hijo o hijos de quien la contrayente está encinta, el Oficial lo hará constar vía anotación en el acta de matrimonio.
 
-Excepción a la presunción de ser hijo de matrimonio
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-148.- Contra la presunción a que se refiere el artículo anterior, sólo puede alegarse por el esposo que le fue imposible fecundar a su cónyuge, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+148.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Improcedencia de desconocimiento de hijo de matrimonio
 
@@ -2725,6 +2829,10 @@ XI. Educar en el conocimiento y uso responsable de las tecnologías de la inform
 
 Personas sobre las que se ejerce la patria potestad
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
 ## TITULO SEXTO BIS. Disposiciones comunes de la Patria Potestad y Tutela
 
 > <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
@@ -2733,7 +2841,7 @@ Obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia
 
 ###### Artículo 4.
 
-202.- La patria potestad se ejerce sobre los hijos menores no emancipados.
+202.- La patria potestad se ejerce sobre las niñas, los niños y los adolescentes.
 
 Aspectos que comprende la patria potestad
 
@@ -2771,9 +2879,13 @@ Tratándose de controversia, el Juez decidirá, tomando en cuenta los intereses 
 
 La patria potestad en caso de separación de la pareja que la ejerce
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 4.
 
-205.- En caso de separación de quienes ejerzan la patria potestad y no exista acuerdo sobre la custodia, el Juez resolverá, teniendo siempre en cuenta los intereses del hijo.
+205.- En caso de separación de quienes ejerzan la patria potestad y no exista acuerdo sobre la custodia, la o el Juez resolverá, quedando preferentemente al cuidado de la madre y atendiendo al interés superior de las niñas, niños y adolescentes.
 
 Quien no tenga la custodia le asiste el derecho de visita.
 
@@ -2891,15 +3003,21 @@ Medidas para la administración de bienes del sometido a patria potestad
 
 Estas medidas se tomarán a instancia de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público, en su caso.
 
-Entrega de bienes y cuentas al emancipado
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Entrega de bienes y cuentas por las personas que ejerzan la patria potestad
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-222.- Las personas que ejerzan la patria potestad deben entregar a los que a ella estuvieron sujetos, luego que se emancipen o adquieran la mayoría de edad, todos los bienes y frutos que le pertenecen y tienen obligación de darles cuenta de su administración.
+222.- Las personas que ejerzan la patria potestad deben entregar a los que a ella estuvieron sujetos, luego que adquieran la mayoría de edad, todos los bienes y frutos que le pertenecen y tienen obligación de darles cuenta de su administración.
 
-> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
-
-Si existe disminución de los bienes del menor emancipado, por mala administración de la persona de quien ejerció sus derechos, ésta deberá restituir el importe en su totalidad de los daños ocasionados.
+Si existe disminución de los bienes de las niñas, los niños y los adolescentes, por mala administración de la persona de quien ejerció sus derechos, ésta deberá restituir el importe en su totalidad de los daños ocasionados.
 
 ###### Artículo 4.
 
@@ -2907,7 +3025,9 @@ Si existe disminución de los bienes del menor emancipado, por mala administraci
 
 I. Con la muerte del que la ejerce;
 
-II. Con la emancipación derivada del matrimonio;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+II. (DEROGADA, G.G. 14 DE MARZO DE 2016)
 
 III. Por la mayoría de edad;
 
@@ -3007,15 +3127,21 @@ I. Los que ejerzan la patria potestad convendrán quién de ellos se hará cargo
 
 II. Si no llegan a algún acuerdo, el Juez atendiendo a los elementos de prueba que obren en el sumario, con base en el resultado de las pruebas periciales en materia de psicología familiar que oficiosamente habrán de practicárseles y habiendo escuchado a la niña, niño o adolescente determinará:
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-a) El otorgamiento de la guarda y custodia de un menor no estará sustentado en prejuicios de género, por lo cual deberá atenderse al interés superior del menor;
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2012)</small>
+a) El otorgamiento de la guarda y custodia de menores de doce años quedará preferentemente al cuidado de la madre y atendiendo al interés superior de las niñas, niños y adolescentes.
 
-b) Después de oír a los interesados, quien se hará cargo de los mayores de diez años, pero menores de catorce;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-c). Los mayores de catorce años elegirán cual de sus padres deberá hacerse cargo de ellos, si éstos no eligen el Juez decidirá.
+b) (DEROGADO, G.G. 14 DE MARZO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+c) Los mayores de doce años elegirán cuál de sus padres deberá hacerse cargo de ellos, si éstos no eligen el Juez decidirá.
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3043,7 +3169,7 @@ IV. Los ebrios consuetudinarios, y los que habitualmente hacen uso inadecuado de
 
 V. Las personas que por cualquier causa física o mental no puedan manifestar su voluntad por algún medio.
 
-Incapacidad legal del menor emancipado por matrimonio
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ## TITULO OCTAVO. De la Tutela y Curatela
 
@@ -3053,7 +3179,7 @@ Procedencia de la tutela legítima
 
 ###### Artículo 4.
 
-231.- Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para ejecutar actos de dominio respecto a sus bienes para lo cual requieren de autorización judicial; tampoco podrán comparecer a juicio, sino a través de tutor.
+231.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Características del cargo del tutor
 
@@ -3287,11 +3413,11 @@ Personas que no pueden desempeñar la tutela
 
 264.- Si el menor no ha cumplido doce años, el nombramiento de tutor lo hará el Juez, debiendo recaer en persona idónea para su desempeño.
 
-Tutela dativa de menor emancipado
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
-265.- Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+265.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 Nombramiento de tutor dativo aunque el pupilo carezca de bienes
 
@@ -3727,9 +3853,13 @@ Cancelación de la garantía por aprobación de cuentas
 
 Nulidad de convenio entre tutor y pupilo
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 4.
 
-321.- Es nulo todo convenio entre el tutor y el pupilo, ya mayor de edad o emancipado, relativo a la administración de la tutela o a las cuentas, que se celebre dentro del primer mes de que se rindan las mismas.
+321.- Es nulo todo convenio entre el tutor y el pupilo mayor de edad relativo a la administración de la tutela o a las cuentas, que se celebre dentro del primer mes de que se rindan las mismas.
 
 ###### Artículo 4.
 
@@ -3755,9 +3885,9 @@ Curador en caso de administración de bienes
 
 Obligación del nuevo tutor
 
-### CAPITULO I. De la Emancipación
+### CAPITULO I
 
-Emancipación por matrimonio
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 4.
 
@@ -3847,9 +3977,13 @@ Remuneración al curador
 
 337.- El curador percibirá la remuneración que determine el Juez, si realizare gastos en el desempeño de su cargo le serán cubiertos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 4.
 
-338.- El matrimonio del menor produce su emancipación, aunque éste se disuelva. El emancipado que sea menor no quedará sujeto a la patria potestad.
+338.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 ###### Artículo 4.
 
@@ -3857,7 +3991,11 @@ Remuneración al curador
 
 Efectos legales de la mayoría de edad
 
-## TITULO NOVENO. De la Emancipación y de la Mayoría de Edad
+## TITULO NOVENO. De la Mayoría de Edad
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
 
@@ -4183,7 +4321,11 @@ Requisitos para constituir patrimonio familiar
 
 383.- La persona que quiera constituir un patrimonio familiar, lo manifestará por escrito en documento físico o en su caso electrónico al Juez de la ubicación del inmueble precisando las características del mismo y comprobando:
 
-I. Que es mayor de edad o emancipado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+I. Que es mayor de edad.
 
 II. La existencia de la familia a cuyo favor se va a constituir el patrimonio;
 
@@ -4323,11 +4465,31 @@ IV. Generador de violencia: Persona que a través de su acción, omisión o abus
 
 V. (DEROGADA, G.G. 6 DE MARZO DE 2010)
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Medidas de protección contra la violencia familiar
+
 ## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
 
 Denuncia de violencia familiar
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 4.
+
+397 Bis.- Las medidas de protección constituyen un derecho para quienes sufran de cualquiera de los tipos de violencia descritos en el artículo anterior, se otorgarán de oficio y conforme a la ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 4.
+
+397 Ter.- Las medidas de protección son personalísimas e intransferibles y serán las previstas en el Código de Procedimientos Civiles del Estado de México.
+
+La duración de las medidas de protección será de acuerdo con las necesidades del caso concreto.
 
 ###### Artículo 4.
 
@@ -9549,7 +9711,11 @@ Reparación del daño moral
 
 155.- La obligación de reparar el daño moral, solo será exigible si el mismo se produce como consecuencia de un hecho ilícito extracontractual, independientemente de que se hubiere causado daño material y de la reparación que por el mismo procediera.
 
-Elementos del daño moral, sujeto a prueba
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+De la reparación del daño y los perjuicios
 
 ###### Artículo 7.
 
@@ -9564,6 +9730,12 @@ l. Comunicar a una o más personas, la imputación que se hace a otra de un hech
 II. Ejecutar una acción o proferir una expresión que, por su naturaleza, ocasión o circunstancia, pueda perjudicar la reputación del agraviado, fuera de una contienda de obra o palabra y con ánimo de ofender.
 
 III. Imputar a otro falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se imputa.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 14 DE MARZO DE 2016)</small>
+
+IV. Las derivadas de la controversia familiar.
 
 Ejercicio del derecho de opinión, crítica, expresión o información
 
@@ -9580,6 +9752,12 @@ Cuando aquélla se haya hecho a un funcionario o persona que haya obrado con car
 II. En el contexto de un proceso contencioso, presente escrito o discurso, con las salvedades de las responsabilidades que de acuerdo con otras disposiciones legales puedan acreditarse.
 
 III. Goce de fuero constitucional.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 14 DE MARZO DE 2016)</small>
+
+IV. En caso de simulación de juicio.
 
 La acción de reparación no es transmisible
 
@@ -18270,3 +18448,17 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 68.- POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2.20, EL ARTÍCULO 3.27, EL PÁRRAFO TERCERO DEL ARTÍCULO 3.30, LA FRACCIÓN I DEL ARTÍCULO 4.7, LA FRACCIÓN II DEL ARTÍCULO 4.31, LOS ARTÍCULOS 4.56 Y 4.91, EL PÁRRAFO SEGUNDO Y LA FRACCIÓN III DEL ARTÍCULO 4.95, LOS ARTÍCULOS 4.104 Y 4.105, LAS FRACCIONES I Y II DEL ARTÍCULO 4.109, EL EPÍGRAFE Y EL ARTÍCULO 4.127, EL ARTÍCULO 4.128, EL EPÍGRAFE, EL PÁRRAFO PRIMERO, LA FRACCIÓN II, LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 4.129, LOS ARTÍCULOS 4.135 Y 4.136, EL EPÍGRAFE Y EL ARTÍCULO 4.138, EL ARTÍCULO 4.139, LA FRACCIÓN II DEL ARTÍCULO 4.144, EL ARTÍCULO 4.202, EL PÁRRAFO PRIMERO DEL ARTÍCULO 4.205, EL EPÍGRAFE Y EL ARTÍCULO 4.222, LOS INCISOS A) Y C) DE LA FRACCIÓN II DEL ARTÍCULO 4.228, EL ARTÍCULO 4.321, LA FRACCIÓN I DEL ARTÍCULO 4.383, SE ADICIONAN EL PÁRRAFO QUINTO AL ARTÍCULO 4.129, LOS ARTÍCULOS 4.397 BIS Y 4.397 TER, LA FRACCIÓN IV AL ARTÍCULO 7.156, LA FRACCIÓN IV AL ARTÍCULO 7.157 Y SE DEROGAN LA FRACCIÓN IV DEL ARTÍCULO 3.26, EL EPÍGRAFE Y EL ARTÍCULO 3.28, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4.4, LOS EPÍGRAFES Y LOS ARTÍCULOS 4.5 Y 4.6, LA FRACCIÓN II DEL ARTÍCULO 4.7, LOS EPÍGRAFES Y ARTÍCULOS 4.21, 4.28, 4.63, 4.64, 4.68, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 4.99, EL EPÍGRAFE Y EL ARTÍCULOS (SIC) 4.101, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 4.129, LOS EPÍGRAFES Y LOS ARTÍCULOS 4.137, 4.140, LA FRACCIÓN III DEL ARTÍCULO 4.144 Y 4.148, LA FRACCIÓN II DEL ARTÍCULO 4.223, EL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 4.228, LOS ARTÍCULOS 4.231, 4.265, EL CAPÍTULO I "DE LA EMANCIPACIÓN" DEL TÍTULO NOVENO "DE LA EMANCIPACIÓN Y DE LA MAYORÍA DE EDAD" DEL LIBRO CUARTO "DEL DERECHO FAMILIAR", EL ARTÍCULO 4.338 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los matrimonios celebrados entre menores de edad, a la entrada en vigor del presente Decreto, se regirán de conformidad con las leyes vigentes al momento de la celebración del matrimonio.
+
+CUARTO. Los procedimientos de mediación y conciliación relativos a la violencia familiar que se encuentren en trámite a la entrada en vigor del presente Decreto, se regirán de conformidad con las leyes vigentes al momento en que se iniciaron.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
