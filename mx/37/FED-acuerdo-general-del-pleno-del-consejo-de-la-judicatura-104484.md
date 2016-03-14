@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2016-03-11"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -347,19 +347,25 @@ Con el fin de evitar poner en riesgo la integridad física de los servidores pú
 
 #### SECCIÓN SEGUNDA. AUXILIO A LOS ÓRGANOS JURISDICCIONALES EN LA RECEPCIÓN DE ESCRITOS DE TÉRMINO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 29.
 
-Las oficinas de correspondencia común, auxiliarán a las oficialías de partes de cada uno de los órganos jurisdiccionales a los que prestan servicio en la recepción de los documentos dirigidos de manera concreta a cada uno de ellos fuera del horario de atención al público, de conformidad con lo dispuesto en el artículo 21 de la Ley de Amparo.
+Las oficinas de correspondencia común, auxiliarán a las oficialías de partes de cada uno de los órganos jurisdiccionales a los que prestan servicio en la recepción de los asuntos de término, relativos a todas las materias, que estén dirigidos de manera concreta a cada uno de ellos fuera del horario de atención al público esto es, de las ocho horas con treinta minutos a las nueve horas y de las quince a las veinticuatro horas del día del vencimiento del plazo para su presentación, ello, en su caso, de conformidad con lo dispuesto en el artículo 21 de la Ley de Amparo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Con el fin de facilitar la recepción de los asuntos de término señalados en dicho precepto, en las localidades donde coincidan, por un lado, órganos jurisdiccionales únicos que operen con sus oficialías de partes y, por otro, oficinas de correspondencia común, éstas las apoyarán en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas.
 
 (REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015).
 
 La Comisión de Creación de Nuevos Órganos, a propuesta que haga la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 El apoyo se limitará a la recepción del documento y su entrega al órgano jurisdiccional de inmediato o bien, a primera hora del día hábil siguiente a través del personal asignado, quien debe acudir a la oficina de correspondencia común respectiva para recibir las promociones. El control de estos documentos se realizará en un registro de promociones distinto del que corresponda al de turno de asuntos.
 
@@ -617,7 +623,9 @@ I. La demanda de amparo adhesivo, que debe turnarse al órgano jurisdiccional qu
 
 II. El juicio de amparo directo o indirecto, promovido contra actos provenientes de un expediente administrativo o jurisdiccional, averiguación previa o ejercicio de la acción penal, se turnará al órgano jurisdiccional que haya conocido de otro amparo promovido contra actos derivados de esos mismos asuntos;
 
-III. Los recursos de revisión, queja y reclamación relacionados con un juicio de amparo, al que tenga el antecedente del que derivan, conocido por cualquier vía;
+> <small>(REFORMADA POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
+
+III. Los recursos de revisión, queja y reclamación relacionados con un juicio de amparo, al que tenga el antecedente del que derivan, conocido por cualquier vía; con excepción de la queja prevista en el artículo 97, fracción I, inciso b), de la Ley de Amparo;
 
 IV. Cuando se promuevan demandas de amparo o interpongan recursos, que se refieran a una misma averiguación previa o ejercicio de la acción penal o acto de autoridad, al que tenga el último antecedente del asunto, aunque las partes no sean las mismas;
 
@@ -655,9 +663,13 @@ La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos debe
 
 Quedan exentas de crear algún antecedente para la relación con posteriores asuntos las medidas precautorias de arraigo, aseguramiento, embargo, así como las órdenes de cateo que resulten indispensables para las averiguaciones previas, ello para los órganos jurisdiccionales que las dictan, y no así para los que conocen del amparo.
 
-Los acuerdos internos respecto del turno de los asuntos, emitidos por los titulares de los órganos jurisdiccionales, carecen de validez.
+> <small>(REFORMADO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
 
-Cualquier cuestión no prevista se resolverá de plano por la Comisión de Creación de Nuevos Órganos mediante consulta, sin suspender el trámite ni generar conflicto por razón del turno asignado. Para su solución deberá remitirse únicamente copia certificada de las constancias que se estimen indispensables; así como la propuesta que se plantee y, de resultar procedente, se realizarán las adecuaciones en el sistema computarizado para los casos subsecuentes.
+Cuando se turne un asunto al órgano jurisdiccional y éste estime que es a otro al que corresponde conocer del asunto por razón de turno, lo remitirá con sus anexos, al juzgado o tribunal que considere debe conocer; recibido dicho asunto por el órgano requerido éste decidirá si acepta o no el conocimiento del mismo. Si acepta, comunicará su resolución al requirente, previa notificación a las partes y dará aviso a la oficina de correspondencia común a fin de equilibrar las cargas de trabajo.
+
+> <small>(REFORMADO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN, D.O.F. 14 DE MARZO DE 2016)</small>
+
+En caso contrario, de no aceptar, devolverá el asunto al requirente, quien resolverá si insiste en no conocer del asunto por razón de turno, si no insiste, se limitará a comunicar su resolución al requerido. Si persiste en ello, sin suspender el trámite y únicamente con copia certificada de las constancias que acrediten lo argumentado; así como, la propuesta que se plantee, formulará consulta a la Comisión de Creación de Nuevos Órganos, la que resolverá de plano.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3326,3 +3338,11 @@ CUARTO. A partir del trece de marzo de dos mil dieciséis dejará de funcionar e
 QUINTO. Las Direcciones Generales de Estadística Administrativa y Judicial; y de Tecnologías de la Información, de conformidad con sus atribuciones, deberán realizar todas las acciones necesarias para el inicio de operaciones del SISE Control Biométrico.
 
 SEXTO. Las referencias que cualquier disposición haga al Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional (SIBAP), se entenderán hechas al SISE Control Biométrico (SISE CB).
+
+D.O.F. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
