@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2014-06-26"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MARZO DE 2016.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -172,6 +172,14 @@ IV.- Tener título profesional, con una práctica no menor de tres años en el e
 V.- Someterse previamente a los cursos de capacitación que imparta la Dirección General, y
 
 VI.- En el caso de los Oficiales del Registro Civil que sean nombrados en localidades o municipios donde existan grupos étnicos, tendrán que dominar la lengua en la que estos grupos se expresen.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2016)</small>
+
+El Titular del Ejecutivo del Estado podrá dispensar en los casos que estime necesario, el título profesional a que se refiere la fracción IV de este artículo.
+
+> <small>(ADICIONADO, B.O. 14 DE MARZO DE 2016)</small>
+
+En caso de que se actualice el supuesto de dispensa señalado en el párrafo anterior, el Subsecretario competente en la Secretaría de Gobierno, será el responsable de supervisar y verificar los actos del Oficial del Registro Civil al que se le haya otorgado la dispensa, así como del desempeño del mismo.
 
 ###### Artículo 21.
 
@@ -875,7 +883,7 @@ III. Recibida la documentación a la que se refiere la fracción anterior, el Di
 
 IV. La resolución que se dicte podrá ser impugnada por el interesado, mediante la interposición del recurso de inconformidad ante la Dirección General. El término para interponer el recurso de inconformidad será de quince días hábiles, contados a partir del día siguiente en que surta sus efectos la notificación respectiva.
 
-La resolución que recaiga al recurso de inconformidad, podrá ser impugnada por el interesado ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora; (sic)
+La resolución que recaiga al recurso de inconformidad, podrá ser impugnada por el interesado ante el Tribunal de lo Contencioso Administrativo del Estado de Sonora;
 
 ###### Artículo 117.
 
@@ -1059,10 +1067,18 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 
 Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Hermosillo, Sonora, a los ocho días del mes de enero del año dos mil catorce. - SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO. - GUILLERMO PADRÉS ELÍAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LÓPEZ. – RUBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 26 DE JUNIO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 48 "QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 20 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
