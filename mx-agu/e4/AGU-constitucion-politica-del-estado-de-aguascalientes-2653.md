@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2015-08-17"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1195,7 +1195,9 @@ III.- Declarar si ha lugar a formación de causa en contra de los jueces, por il
 
 IV.- Conocer del nombramiento y remoción de los servidores públicos del Poder Judicial en los términos señalados por los Artículos 55 y 56 de esta Constitución y del Reglamento del Consejo de la Judicatura Estatal.
 
-V.- Conceder licencia a sus Magistrados en funciones para separarse de sus cargos, y llamar de entre los Supernumerarios, al suplente respectivo.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
+
+V.- Conceder licencia a sus Magistrados en funciones para separarse de sus cargos, en términos de lo previsto en (sic) Ley Orgánica del Poder Judicial del Estado de Aguascalientes;
 
 VI.- Formular su Reglamento Interior y de los Juzgados, los cuales deberán ser sancionados por dicho Consejo.
 
@@ -2894,6 +2896,14 @@ P.O. 6 DE JULIO DE 2015.
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE REFORMA EL DECRETO NÚMERO 290”.]</small>
 
 ###### ARTÍCULO ÚNICO.
 
