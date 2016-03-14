@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2015-12-21"
+last_updated: "2016-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1.- DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTI
 
 NOTA 2.- DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA Y SEGUNDO TRANSITORIO DEL DECRETO No. 392, DE LA G.G. DE 21 DE ENERO DE 2015, POR EL QUE SE APRUEBA LA INCORPORACIÓN A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS 18 DE JUNIO DE 2016, EN EL ESTADO DE MÉXICO, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO, SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -2125,7 +2125,11 @@ Ejecución de medidas cautelares, providencias precautorias y medidas de protecc
 
 El incumplimiento de las órdenes que dicten el ministerio público o la autoridad judicial será sancionado en términos de las disposiciones aplicables, sin perjuicio de la responsabilidad penal a que haya lugar.
 
-Procedencia de la prisión preventiva
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
+
+Procedencia de la Prisión Preventiva
 
 ###### Artículo 194.
 
@@ -2137,7 +2141,11 @@ I. Cuando se trate de los delitos de homicidio doloso, violación y secuestro, y
 
 II. Los delitos cometidos con medios violentos, siempre que se ocasionen daños graves en la integridad física de las personas, así como los cometidos con armas, explosivos u otros que por su naturaleza puedan generar peligro; y
 
-III. En los siguientes delitos contra el libre desarrollo de la personalidad previstos en el Código Penal del Estado:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+
+III. En los siguientes delitos contra el pleno desarrollo y la dignidad de la personalidad previstos en el Código Penal del Estado:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2160,6 +2168,12 @@ c) Trata de personas.
 > <small>(ADICIONADA, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 IV. Los previstos como graves en las Leyes Generales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.G. 14 DE MARZO DE 2016)</small>
+
+V. Los delitos de violencia de género.
 
 B. A petición justificada del ministerio público en los restantes delitos, cuando otras medidas cautelares no sean suficientes para garantizar:
 
@@ -5832,3 +5846,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NÚMERO 69.- POR EL QUE SE REFORMA EL ARTÍCULO 9, PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 26, LA FRACCIÓN IV DEL ARTÍCULO 57, EL PRIMER PÁRRAFO DEL ARTÍCULO 71, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 91, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 94, EL TERCER PÁRRAFO DEL ARTÍCULO 149, EL PRIMER Y ÚLTIMO PÁRRAFOS DEL ARTÍCULO 166, LA FRACCIÓN II DEL ARTÍCULO 182, LA FRACCIÓN V DEL ARTÍCULO 202, EL PRIMER PÁRRAFO DEL ARTÍCULO 211, EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 243, EL SUBTÍTULO QUINTO DEL TÍTULO TERCERO INTITULADO "DELITOS DE VIOLENCIA DE GÉNERO", DEL LIBRO SEGUNDO Y SUS ARTÍCULOS DEL 275 AL 286 BIS, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 71, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 83 BIS, EL TERCER PÁRRAFO AL ARTÍCULO 90, EL TERCER PÁRRAFO AL ARTÍCULO 106 BIS, LA FRACCIÓN XIII AL ARTÍCULO 166 Y EL ARTÍCULO 307 BIS, SE DEROGA EL CAPÍTULO II BIS "FEMINICIDIO" DEL SUBTÍTULO PRIMERO DENOMINADO "DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL", DEL TÍTULO TERCERO DENOMINADO "DELITOS CONTRA LAS PERSONAS", DEL LIBRO SEGUNDO, EL ARTÍCULO 242 BIS Y LA FRACCIÓN XVII DEL ARTÍCULO 306 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN V DEL APARTADO A DEL ARTÍCULO 194 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
