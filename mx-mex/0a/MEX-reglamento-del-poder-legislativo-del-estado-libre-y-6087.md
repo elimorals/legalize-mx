@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2015-12-04"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -251,7 +251,9 @@ c) Los relacionados con la producción y comercialización de los productos del 
 
 d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-X. La Comisión de Protección Ambiental, conocerá de los temas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+
+X. La Comisión de Protección Ambiental y Cambio Climático, conocerá de los temas siguientes:
 
 a) Sobre la protección, preservación, mejoramiento y renovación del equilibrio ecológico;
 
@@ -265,7 +267,13 @@ e) Relacionados con los bienes y servicios ambientales para el mantenimiento de 
 
 f) Los relacionados con el desarrollo sustentable, como la educación ambiental, ecoeficiencia, salud ocupacional, ecoturismo, transporte alternativo, vivienda ecológica; y
 
-g) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+g) Los relacionados con el cambio climático;
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+h) Los asuntos que le asigne la Legislatura, la Diputación Permanente o la Junta de Coordinación Política.
 
 XI. La Comisión de Desarrollo Económico, Industrial, Comercial y Minero, conocerá de los temas siguientes:
 
@@ -789,7 +797,7 @@ VII.- Discusión y resolución;
 
 VIII.- Otros asuntos;
 
-IX.- Clausura de la sesión.
+IX.- Clausura de la sesion.
 
 Atendiendo a la importancia de los asuntos, el presidente podrá proponer su tratamiento en orden diverso.
 
@@ -1797,7 +1805,7 @@ Artículo 152 BIS.- El titular de la Biblioteca Legislativa "Dr. José María Lu
 
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
-Artículo 152 TER.- La Biblioteca Legislativa "Dr. José María Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
+Artículo 152 TER.- La Biblioteca Legislativa "Dr. José Maria Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
@@ -5557,7 +5565,15 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su public
 
 TERCERO. La integración de la comisión para la protección al desarrollo de las personas con discapacidad, así como los asuntos que le hayan sido turnados, corresponderán a la comisión para la atención de grupos vulnerables.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 254 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+G.G. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 70.- POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA EL PRIMER PÁRRAFO Y SU INCISO G) Y SE ADICIONA EL INCISO H) A LA FRACCIÓN X DEL ARTÍCULO 13 A, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La integración de la Comisión de Protección Ambiental, así como los asuntos que le hayan sido turnados, corresponderán a la Comisión de Protección Ambiental y Cambio Climático.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 416 POR EL QUE SE ADICIONA EL ARTÍCULO 223 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
 
