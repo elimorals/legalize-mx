@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-comision-del-agua-del-estado-de-22223
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-05"
-last_updated: "2011-09-07"
+last_updated: "2016-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DEL AGUA DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DE LA COMISION DEL AGUA DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DE LA COMISIÓN DEL AGUA DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2011.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DEL AGUA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 14 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de septiembre de 2001.
 
@@ -213,7 +215,7 @@ XI. Proporcionar, previo acuerdo del Vocal Ejecutivo, la información, datos o e
 
 XII. Rendir por escrito al Vocal Ejecutivo los informes diario, semanal, mensual y anual de las actividades realizadas por la dirección general a su cargo;
 
-XIII. Atender, en el ámbito de su competencia, todas aquellas disposiciones que emita el Consejo, por conducto del Vocal Ejecutivo; y (sic)
+XIII. Atender, en el ámbito de su competencia, todas aquellas disposiciones que emita el Consejo, por conducto del Vocal Ejecutivo; y
 
 > <small>(REFORMADA, G.G. 24 DE OCTUBRE DE 2007)</small>
 
@@ -493,7 +495,7 @@ Para la eficaz atención y eficiente despacho de los asuntos de su competencia, 
 
 Las residencias de construcción, gerencias regionales y unidades de apoyo administrativo, regirán su funcionamiento conforme a las disposiciones aplicables en la materia y en los manuales de organización y de procedimientos aprobados, debiendo conducir sus actividades de manera coordinada y supeditada a la normatividad que rige a todas las unidades administrativas de la Comisión.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 24 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE OCTUBRE DE 2007)</small>
 
 ### CAPÍTULO VIII. DE LA COMISIÓN INTERNA DE MODERNIZACIÓN Y MEJORAMIENTO INTEGRAL DE LA ADMINISTRACIÓN DE LA COMISIÓN
 
@@ -553,7 +555,7 @@ SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 24 DE OCTUBRE DE 2007.
 
@@ -578,3 +580,15 @@ CUARTO.- Los trámites, procesos y demás asuntos que venía atendiendo la Direc
 QUINTO.- Con la entrada en vigor del presente Acuerdo, cuando en otros ordenamientos legales y administrativos se haga referencia a los asuntos en materia de operación y al mantenimiento de la infraestructura hidráulica, se entenderá que éstos corresponden al ámbito de competencia de la Dirección General de Operaciones y Atención a Emergencias.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN DEL AGUA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se abroga el Reglamento Interior de la Comisión del Agua del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 5 de septiembre de 2001.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Reglamento.
