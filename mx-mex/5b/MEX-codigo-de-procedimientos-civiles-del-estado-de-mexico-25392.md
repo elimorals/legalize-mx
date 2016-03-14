@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2016-02-03"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -521,7 +519,11 @@ VIII. En los procedimientos no contenciosos, el del domicilio del que promueve, 
 
 IX. En los asuntos relativos a la tutela, el de la residencia de los menores o incapacitados, para la designación del tutor, y en los demás casos el del domicilio de éste;
 
-X. En lo relativo a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del domicilio de los pretendientes;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+X. En lo relativo a los impedimentos para contraer matrimonio, el del domicilio de los pretendientes.
 
 XI. Para lo relativo al matrimonio y cuestiones familiares, el del domicilio conyugal o familiar;
 
@@ -5967,21 +5969,23 @@ Revocación de la interdicción
 
 344.1.- La interdicción se revocará cuando cese la causa que la motivó. Para decretar la revocación se observarán las mismas disposiciones que para declararla.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 2.
 
-345.- Las parte de un conflicto de violencia familiar podrán resolver sus diferencias mediante los procedimientos de:
+345.- Las partes de un conflicto de violencia familiar podrán resolver sus diferencias mediante el procedimiento de controversia de violencia familiar.
 
-I. Conciliación; y
+En los casos de violencia familiar, quedan prohibidos todo tipo de procedimientos de conciliación y mediación para su resolución.
 
-II. Controversia de violencia familiar.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 2.
 
-346.- Los procedimientos a los que se refiere este capítulo, se llevarán a cabo en forma sumarísima sin omitir allegarse todos los elementos de convicción necesarios para apoyar las propuestas de las partes.
+346.- El procedimiento que se refiere en este capítulo, se llevará a cabo en forma sumarísima, sin omitir allegarse todos los elementos de convicción necesarios para resolver la controversia.
 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -5993,11 +5997,13 @@ II. Controversia de violencia familiar.
 
 Procedimientos escritos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 2.
 
-348.- Los procedimientos que señala este capítulo se iniciarán por escrito. El Poder Judicial del Estado instrumentará un formato de demanda que será distribuido en las oficialías del Registro Civil, oficialías calificadoras y las mediadora-conciliadoras en los municipios, coordinaciones municipales de derechos Humanos, sistemas municipales de Desarrollo Integral de la Familia, Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, procuradurías de protección municipales y juzgados de lo familiar.
+348.- El procedimiento que señala este capítulo se iniciará por escrito. El Poder Judicial del Estado instrumentará un formato de demanda que será distribuido en las oficialías del Registro Civil, oficialías calificadoras y las mediadora-conciliadoras en los municipios, coordinaciones municipales de derechos humanos, sistemas municipales de Desarrollo Integral de la Familia, Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, procuradurías de protección municipales y juzgados de lo familiar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -6063,35 +6069,37 @@ VIII. El ofrecimiento de las pruebas conducentes a acreditar su demanda; y
 
 IX. Protesta y firma del que interpone la demanda o del receptor de la violencia.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
 
 ###### Artículo 2.
 
-350.- Recibida la demanda, la autoridad integrará el expediente respectivo y citará dentro de los nueve días siguientes al generador de la violencia y al receptor de violencia familiar para que acudan a una audiencia de avenencia.
+350.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO VII. De los Procedimientos de Violencia Familiar
+### CAPITULO VII. Del Procedimientos de Violencia Familiar
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-###### Artículo 2.
-
-351.- La citación contendrá fecha, hora y lugar para la celebración de la audiencia la que deberá practicarse con las formalidades del emplazamiento, la citación sólo podrá practicarse en dos ocasiones.
-
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 2.
 
-352.- En la audiencia de conciliación, el juez después de oír a las partes, procurará obtener la avenencia entre éstas y las invitará para que se sometan a terapia médica y psicológica, de ser necesario, les proporcionará alternativas de solución y las exhortará para que lleguen a un acuerdo, y en caso de no lograrlo, les dará a conocer las consecuencias e inconvenientes que ello representa para el grupo familiar.
+351.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
-Si las partes llegan a un acuerdo se elaborará el convenio correspondiente que será firmado por quiénes intervengan en el mismo; en caso contrario se dará por concluido el procedimiento de conciliación, al igual que agotadas las dos citaciones no concurra alguno de los interesados.
-
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 2.
 
-353.- Los convenios que den por concluido el procedimiento serán vinculatorios y exigibles para las partes en vía de apremio.
+352.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+###### Artículo 2.
+
+353.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
 
@@ -6103,41 +6111,95 @@ Si las partes llegan a un acuerdo se elaborará el convenio correspondiente que 
 
 Medidas de protección
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 2.
 
-355.- Al admitirse la demanda de violencia familiar o durante el proceso, a juicio del juez podrán dictarse las medidas de protección siguientes:
+355.- Al admitirse la demanda de violencia familiar o durante el proceso, a su juicio, el juez dictará las medidas de protección que podrán ser:
 
-> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+l. De emergencia.
 
-I. Ordenar al presunto generador de violencia que salga inmediatamente del domicilio común, aunque fuera propietario del inmueble. Si se resiste se utilizará la fuerza pública;
+II. De protección preventiva.
 
-> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+III. De naturaleza civil.
 
-II. Autorizar al receptor o agredido un domicilio diferente de aquél en el que se genera la violencia, si así lo solicita;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-III. Prohibir al presunto generador de violencia el acceso al domicilio del grupo familiar, así como a los lugares de trabajo o de estudio de la víctima;
+###### Artículo 2.
 
-> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+355 Bis. Son medidas de protección de emergencia las siguientes:
 
-IV. Prohibir al presunto generador de violencia familiar y a aquellas personas que estén de acuerdo con él, acercarse a una distancia determinada de cualquier lugar donde se encuentre la víctima u otro miembro del grupo familiar; y cualquier contacto físico, verbal, telefónico o de otra índole;
+l. Desocupación por el agresor o probable responsable del domicilio conyugal o del que habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento o comodato del mismo.
 
-> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+II. Prohibición al probable responsable y a aquellas personas que estén de acuerdo con él, de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y de los ascendientes y descendientes, o cualquier otro que frecuente la víctima.
 
-V. Ordenar la exclusión del agresor y el reingreso de la víctima al domicilio del grupo familiar, cuando ésta, por razones de seguridad personal ha debido salir del mismo;
+III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad.
 
-> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+IV. Autorizar al receptor de violencia o víctima un domicilio diferente de aquél en el que se genera la violencia, si así lo solicita.
 
-VI. Fijar una pensión alimenticia provisional a favor de la víctima (s) y los menores; y
+V. Prohibición de intimidar o molestar a la víctima, así como a cualquier integrante de su núcleo familiar.
 
-> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VII. Emitir una orden de protección y auxilio policial, dirigida a las autoridades de seguridad pública de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión fuera de su domicilio.
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 2.
+
+355 Ter. Son medidas de protección preventiva las siguientes:
+
+I. Retención y guarda de armas de fuego en posesión del agresor. Es aplicable lo anterior a las armas punzantes, cortantes y contundentes y cualquier combinación de las anteriores que, independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima.
+
+II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima.
+
+III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio a la víctima.
+
+IV. Acceso de autoridades policíacas o de personas que auxilien a la víctima, al domicilio en común de esta última con el agresor, para tomar las pertenencias personales y familiares de la o de las víctimas que vivan en el domicilio.
+
+V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus familiares que vivan en el domicilio.
+
+VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 2.
+
+355 Quáter. Corresponderá a la autoridad competente otorgar las medidas emergentes y preventivas, tomando en consideración:
+
+I. El riesgo o peligro existente.
+
+II. La seguridad de la víctima.
+
+III. Los elementos con que se cuente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 2.
+
+355 Quinquies. Son medidas de protección de naturaleza civil, las siguientes:
+
+I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes, resolviendo inmediatamente lo relativo a la custodia provisional tratándose de niñas, niños y adolescentes.
+
+II. Prohibición al agresor de enajenar, dar en prenda o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y, en cualquier caso, cuando se trate de bienes de la sociedad conyugal, ordenando la inscripción de esta medida en el Instituto de la Función Registral del Estado de México en cada caso.
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio, por el tiempo que dure el procedimiento.
+
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Instituto de la Función Registral del Estado de México y en los lugares en los que se conozca que tienen bienes, a efecto de garantizar las obligaciones alimenticias.
+
+V. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado.
+
+VI. Orden de pago de la obligación alimenticia, en forma provisional e inmediata, a cargo del agresor a favor de la víctima y las y los hijos, en caso de existir.
+
+VII. Emitir una orden de protección y auxilio policial, dirigida a la autoridad de seguridad pública de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión fuera de su domicilio.
+
+VIII. Las demás que considere necesarias.
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -6151,9 +6213,13 @@ VII. Emitir una orden de protección y auxilio policial, dirigida a las autorida
 
 Señalamiento de la audiencia inicial
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 2.
 
-357.- Contestada la demanda o transcurrido el término para ello, el juez señalará día y hora para que, dentro de los cinco días siguientes, tenga verificativo la audiencia inicial de conciliación, depuración procesal, admisión y preparación de pruebas.
+357.- Contestada la demanda o transcurrido el término para ello, la o el juez señalará día y hora para que, dentro de los cinco días hábiles siguientes, tenga verificativo la audiencia inicial, enunciación de la litis, depuración procesal, admisión y preparación de pruebas.
 
 En la audiencia inicial podrán revisarse las medidas provisionales.
 
@@ -6184,6 +6250,16 @@ Efectos de la sentencia
 ###### Artículo 2.
 
 360.- Son apelables, sin efecto suspensivo, las resoluciones que decreten una de las medidas de protección previstas en el artículo 2.355 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Reparación de los daños y perjuicios
+
+###### Artículo 2.
+
+360 Bis.- Los integrantes de la familia que incurran en violencia familiar, deberán reparar los daños y perjuicios que se ocasionen con la conducta, con independencia de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6271,6 +6347,14 @@ El Juez resolverá en la audiencia o dentro de los tres días siguientes, si pro
 
 Restitución voluntaria
 
+### CAPITULO VIII. Restitución Internacional de Menores
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Objeto
+
 ###### Artículo 2.
 
 367.- Si comparece el requerido y accediere a la restitución voluntaria del menor, el juez dará por concluido el procedimiento y ordenará su entrega a la persona o institución que acredite tener la guarda y custodia.
@@ -6335,13 +6419,9 @@ Supletoriedad
 
 Medios de impugnación
 
-### CAPITULO VIII. Restitución Internacional de Menores
+#### SECCION PRIMERA. De la Conciliación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Objeto
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 2.
 
@@ -6359,13 +6439,59 @@ II. Acta de nacimiento de los hijos, en copia certificada; y
 
 III. Propuesta de convenio que habrá de regular las consecuencias de la disolución del vínculo matrimonial, debiendo contener:
 
-a) La designación sobre la guarda y custodia de los hijos menores o incapaces y, el domicilio donde vivirán;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+a) La designación sobre la guarda y custodia de las niñas, los niños y los adolescentes o incapaces quedará preferentemente al cuidado de la madre y el domicilio donde vivirán.
 
 b) El régimen de visita y convivencia respecto del progenitor que no ejercerá la guarda y custodia de los menores;
 
 c) La designación del cónyuge que seguirá habitando, en su caso, el domicilio donde se haga vida en común;
 
 d) La cantidad que por concepto de alimentos se propone, para atender las necesidades de los hijos y en su caso del cónyuge a quien deba darse alimentos, la forma, lugar y temporalidad para hacerlo, los elementos que permitan al Juez fijar la pensión propuesta, así como la garantía para asegurar su cumplimiento;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+La cónyuge que carezca de bienes y que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de las y los hijos tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que las y los hijos cumplan la mayoría de edad o que se dediquen al estudio, sin menoscabo de la repartición equitativa de bienes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de la cónyuge, el cónyuge deberá proporcionarlos de por vida.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+La cónyuge que no tenga hijas o hijos y que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar, consistente en tareas de administración, dirección y atención, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+El cónyuge que se encuentre imposibilitado física y mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud, tendrá derecho a alimentos, el cual no será inferior al veinte por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+En la resolución que se dicte con respecto a los alimentos, se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Los alimentos determinados por convenio o sentencia, se modificarán de acuerdo a los ingresos del deudor alimentario. En este caso, el incremento en los alimentos se ajustará a lo que obtenga el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+Cuando no sean comprobables el salario o ingresos del deudor alimentario, la o el juez resolverá tomando como referencia la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en el último año, la cantidad correspondiente no podrá ser inferior a una unidad de medida y actualización por cada acreedor alimentario.
 
 e) La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, después de decretado el divorcio; y
 
@@ -6397,6 +6523,14 @@ Vista por edictos
 
 Audiencia de Avenencia
 
+#### SECCION SEGUNDA. De la Controversia de Violencia Familiar
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Traslado de la demanda
+
 ###### Artículo 2.
 
 376.- En la audiencia de avenencia el juez tratará de conciliar a las partes, para continuar con el matrimonio, no habiéndose obtenido la conciliación, citará a una segunda audiencia con el mismo propósito, en un término de tres días, y si en esta segunda audiencia de conciliación no se logra avenir a las partes, continuará la misma y el juez las escuchará sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados.
@@ -6408,10 +6542,6 @@ La aprobación del convenio podrá ser sólo sobre los puntos en que haya consen
 > <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
 
 Falta de consenso en el convenio
-
-#### SECCION PRIMERA. De la Conciliación
-
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 2.
 
@@ -6440,14 +6570,6 @@ Irrecurribilidad
 ###### Artículo 2.
 
 379.- La resolución que decrete el divorcio será irrecurrible.
-
-#### SECCION SEGUNDA. De la Controversia de Violencia Familiar
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Traslado de la demanda
 
 ### CAPÍTULO IX. Del Divorcio Incausado
 
@@ -7659,9 +7781,13 @@ Suspensión de la audiencia
 
 Conciliación
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 5.
 
-6.- En cualquier etapa del proceso, inclusive en segunda instancia hasta antes de dictar sentencia, las partes podrán conciliar sus intereses si la naturaleza del asunto lo permite, se someterá el convenio a la aprobación del juez o sala.
+6.- En cualquier etapa del proceso, inclusive en segunda instancia hasta antes de dictar sentencia, las partes podrán conciliar sus intereses si la naturaleza del asunto lo permite, se someterá el convenio a la aprobación de la o el juez o sala, se exceptúa de lo anterior lo relativo al procedimiento de violencia familiar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -8988,3 +9114,17 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 14 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 68.- “POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 1.42, LA DENOMINACIÓN DEL CAPÍTULO VII "DE LOS PROCEDIMIENTOS DE VIOLENCIA FAMILIAR" DEL TÍTULO SEXTO "PROCEDIMIENTOS ESPECIALES" DEL LIBRO SEGUNDO "FUNCIÓN JURISDICCIONAL", LOS ARTÍCULOS 2.345, 2.346, EL PRIMER PÁRRAFO DEL ARTÍCULO 2.348, EL ARTÍCULO 2.355, EL PRIMER PÁRRAFO DEL ARTÍCULO 2.357, EL INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 2.373, EL ARTÍCULO 5.6, SE ADICIONAN LOS ARTÍCULOS 2.355 BIS, 2.355 TER, 2.355 QUÁTER, 2.355 QUINQUIES, EL ARTÍCULO 2.360 BIS, LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO AL INCISO D) DE LA FRACCIÓN III DEL ARTÍCULO 2.373 Y SE DEROGAN LA SECCIÓN PRIMERA "DE LA CONCILIACIÓN" DEL CAPÍTULO VII "DE LOS PROCEDIMIENTOS DE VIOLENCIA FAMILIAR" DEL TÍTULO SEXTO "PROCEDIMIENTOS ESPECIALES" DEL LIBRO SEGUNDO "FUNCIÓN JURISDICCIONAL" Y SUS ARTÍCULOS 2.350, 2.351, 2.352 Y 2.353 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los matrimonios celebrados entre menores de edad, a la entrada en vigor del presente Decreto, se regirán de conformidad con las leyes vigentes al momento de la celebración del matrimonio.
+
+CUARTO. Los procedimientos de mediación y conciliación relativos a la violencia familiar que se encuentren en trámite a la entrada en vigor del presente Decreto, se regirán de conformidad con las leyes vigentes al momento en que se iniciaron.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
