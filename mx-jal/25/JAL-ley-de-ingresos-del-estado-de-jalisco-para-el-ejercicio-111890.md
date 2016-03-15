@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-111890"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-19"
-last_updated: "2015-12-19"
+last_updated: "2016-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2016.
 
 Ley publicada en la Sección LIX del Periódico Oficial del Estado de Jalisco, el sábado 19 de diciembre de 2015.
 
@@ -667,7 +667,9 @@ SÉPTIMO. En caso de que el Gobierno del Estado de Jalisco perciba durante el 20
 
 OCTAVO.- Durante el ejercicio fiscal 2016, el Poder Ejecutivo podrá ejercer las autorizaciones conferidas en los Decretos 24996/LX/2014 y 24997/LX/2014, publicados en el Periódico Oficial “El Estado de Jalisco” el día 22 de noviembre de 2014, ambos aprobados por el H. Congreso del Estado.
 
-NOVENO. En caso de que el Gobierno del Estado de Jalisco perciba durante el 2016, provenientes de Instituciones Financieras, recursos adicionales a los dispuestos en la fracción VII del artículo 1º de ésta Ley, por el Financiamiento del Programa de Abastecimiento de Agua para la zona conurbada de Guadalajara, éstos serán ingresados a la Hacienda Pública Estatal, como Financiamiento y se destinarán exclusivamente, al referido programa, para lo cual el Gobierno del Estado los considerará como parte del monto total del Financiamiento al Proyecto.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2016)</small>
+
+NOVENO. Durante el ejercicio fiscal 2016 el Poder Ejecutivo del Estado de Jalisco y el Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado, podrán ejercer las autorizaciones a que se refiere el decreto número 19985 y sus modificatorios, así como el decreto número 25528/LX/2015 y sus modificatorios. En dicho supuesto, los recursos extraordinarios que efectivamente se perciban serán registrados como financiamiento y se ajustará proporcionalmente el presupuesto de ingresos y egresos respectivo.
 
 DÉCIMO. No se aplicarán las disposiciones del artículo 40 bis a las multas que se impongan por infracciones al patrimonio cultural mueble e inmaterial, las cuales se calcularán de conformidad con el dictamen que al efecto emita la Secretaría de Cultura y con los criterios dispuestos en el Reglamento de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios.
 
@@ -716,3 +718,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25801/LXI/16 QUE REFORMA EL ARTÍCULO CUARTO Y ADICIONA LOS ARTÍCULOS NOVENO Y SEXTO TRANSITORIO AL DECRETO 25528/LX/15, EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, DEL 9 DE OCTUBRE DE 2015, NÚMERO 30 BIS, EDICIÓN ESPECIAL; ADICIONA UN ARTÍCULO SÉPTIMO AL DECRETO 19985, EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, DEL 22 DE MAYO DE 2003, NÚMERO 37, SECCIÓN IV, Y SE MODIFICA EL ARTÍCULO NOVENO TRANSITORIO AL DECRETO 25786/LX/15, EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, DEL 19 DE DICIEMBRE DE 2015, NÚMERO 11, SECCIÓN LIX”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
