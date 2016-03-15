@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-01-25"
+last_updated: "2016-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.O. DE 25 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MARZO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -546,19 +544,21 @@ XIII. A la Oficialía Mayor:
 
 3. Dirección General de Patrimonio Inmobiliario;
 
-4. Coordinación General de Apoyo Administrativo;
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2016)</small>
 
-4.1 Dirección Ejecutiva de Información Pública;
+4. Coordinación General de Control y Profesionalización de las Unidades Responsables de la Administración;
 
-4.2 Dirección Ejecutiva de Apoyo en Adquisiciones y Servicios Generales;
+4.1 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-4.3 Dirección Ejecutiva de Apoyo en Recursos Humanos;
+4.2 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-4.4 Dirección Ejecutiva de Apoyo en Protección Civil del Patrimonio Inmobiliario;
+4.3 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-4.5 Dirección Ejecutiva de Apoyo Jurídico;
+4.4 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-4.6 Dirección Ejecutiva de Apoyo Técnico y Tecnológico;
+4.5 (DEROGADO, G.O. 15 DE MARZO DE 2016)
+
+4.6 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
 5. Las Direcciones Generales, Ejecutivas o de área encargadas de la administración en las dependencias de la Administración Publica Central;
 
@@ -938,15 +938,15 @@ En el Manual de Organización General de la Administración Pública, se contemp
 
 Los Manuales Administrativos serán elaborados y aprobados por los titulares de las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Órganos Político-Administrativos.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2016)</small>
 
-La adscripción y atribuciones de las unidades administrativas de apoyo técnico-operativo, que no se establecen en este Reglamento, quedan establecidas en dichos manuales. Estos manuales deberán ser remitidos a la Contraloría General para su revisión, dictamen y registro; cuando la Contraloría General estime que en los citados manuales se establecen atribuciones que afecten la esfera jurídica de terceros, los mismos se sancionarán previa y adicionalmente por la Consejería Jurídica y de Servicios Legales.
+La adscripción y atribuciones de las unidades administrativas de apoyo técnico-operativo, que no se establecen en este Reglamento, quedan establecidas en dichos manuales. Estos manuales deberán ser remitidos a la Oficialía Mayor para su revisión, dictamen y registro; cuando la Oficialía Mayor estime que en los citados manuales se establecen atribuciones que afecten la esfera jurídica de terceros, los mismos se sancionarán previa y adicionalmente por la Consejería Jurídica y de Servicios Legales.
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2016)</small>
 
 ###### Artículo 19.
 
-Los titulares de las comisiones, comités, institutos y cualquier otro órgano administrativo colegiado o unitario, deberán elaborar manuales específicos de operación, que contengan su estructura, funciones, organización y procedimientos. Estos manuales deberán remitirse a la Contraloría General para su revisión, dictamen y registro. Cuando la Contraloría General estime que en los citados manuales se establezcan atribuciones que puedan incidir en la esfera de terceros, estos manuales deberán ser sancionados previa y adicionalmente por la Consejería Jurídica y de Servicios Legales, en ejercicio de sus atribuciones.
+Los titulares de las comisiones, comités, institutos y cualquier otro órgano administrativo colegiado o unitario, deberán elaborar manuales específicos de operación, que contengan su estructura, funciones, organización y procedimientos. Estos manuales deberán remitirse a la Oficialía Mayor para su revisión, dictamen y registro. Cuando la Oficialía Mayor estime que en los citados manuales se establezcan atribuciones que puedan incidir en la esfera de terceros, estos manuales deberán ser sancionados previa y adicionalmente por la Consejería Jurídica y de Servicios Legales, en ejercicio de sus atribuciones.
 
 ### Capítulo VI. Del Servicio Público de Carrera, del Sistema de Información y de la Desconcentración Administrativa
 
@@ -1140,7 +1140,9 @@ XX. Formalizar, salvo que el Jefe de Gobierno establezca disposición distinta, 
 
 XXI. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central;
 
-XXII. Coordinar las acciones y programas de protección civil en los inmuebles del patrimonio inmobiliario de la Administración Pública del Distrito Federal ciudad (sic) a fin de privilegiar la protección de la vida humana y la salvaguarda del patrimonio; y
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+
+XXII. Coordinar las acciones y programas de protección civil en los inmuebles del patrimonio inmobiliario de la Administración Pública del Distrito Federal, a fin de privilegiar la protección de la vida humana y la salvaguarda del patrimonio;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -1186,17 +1188,17 @@ XXXII. Coordinar a las unidades administrativas y unidades administrativas de ap
 
 XXXIII. Establecer y difundir las políticas, lineamientos y estándares de tecnologías de la información y comunicaciones y de bienes y servicios informáticos;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XXXIV. Determinar y expedir las políticas de portales y sistemas de comunicación de la Administración Pública del Distrito Federal, y
+XXXIV. Impulsar, revisar y registrar los Manuales Administrativos y Específicos de Operación de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XXXV. Dirigir y operar el sitio web del Gobierno del Distrito Federal, y
+XXXV. Diseñar, impulsar e implementar Manuales Únicos de la Administración Pública del Distrito Federal en materia de adquisiciones arrendamientos y prestación de servicios, obra pública, transparencia, administración de documentos, operación archivística, en coordinación con las dependencias competentes, en su caso, en la materia así como aquéllos que promuevan la simplificación y modernización administrativa en el Gobierno del Distrito Federal, y
 
-> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 15 DE MARZO DE 2016)</small>
 
-XXXIV. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
+XXXVI. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo III. De las atribuciones generales del titular de la Contraloría General
 
@@ -4582,6 +4584,10 @@ VII. Diseñar, promover y ejecutar programas y acciones en materia de diversidad
 
 (DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
+###### Artículo 64 Ter.
+
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
+
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
 Artículo 64 Cuater.- Corresponde a la Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal:
@@ -4601,10 +4607,6 @@ VI. Promover la creación de diversos mecanismos de financiamiento público y pr
 VII. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
 
 VIII. Prestar asistencia jurídica y orientación social a los sujetos de la asistencia social.
-
-###### Artículo 64 Ter.
-
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
 
 #### SECCION VIII
 
@@ -7470,223 +7472,125 @@ XXXVII (SIC). Suscribir los documentos relativos al ejercicio de sus atribucione
 
 XXXVIII. Certificar, por sí o a través de sus Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
 
-> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XXXIX. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XXXIX. Supervisar la elaboración del programa interno de protección civil de los inmuebles del patrimonio inmobiliario de la ciudad, asignados a los órganos de la Administración Pública del Distrito Federal, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE MAYO DE 2013)</small>
+> <small>(ADICIONADA, G.O. 15 DE MARZO DE 2016)</small>
+
+XL. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2016)</small>
 
 ###### Artículo 101.
 
-Corresponde a la Coordinación General de Apoyo Administrativo:
+Corresponde a la Coordinación General de Control y Profesionalización de las Unidades Responsables de la Administración:
 
-I. Dirigir la atención de las solicitudes de información pública y de acceso, rectificación, cancelación y oposición de datos personales que ingresan a la Oficialía Mayor, el tratamiento de la información pública, la capacitación en materia de transparencia y datos personales, así como impugnaciones e informes requeridos por el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-II. Coadyuvar con las instancias de la Administración Pública del Distrito Federal, en la ejecución del Programa Anual de Adquisiciones, a efecto de emitir opiniones técnicas, propuestas de actualización normativa y de mejora;
+I. Coordinar las estrategias de operación, evaluación y control de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal basados en la evaluación de su desempeño, los riesgos operativos y su avance en el fortalecimiento de sus capacidades y emitir recomendaciones en ese sentido en el caso de los órganos político-administrativos;
 
-III. Analizar los métodos, técnicas y resultados de la detección de necesidades en materia de bienes y servicios de la Administración Pública del Distrito Federal, para sustentar la dinámica administrativa y prestación de servicios;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-IV. Analizar la correspondencia entre los bienes y servicios a adquirir, sus requerimientos de mantenimiento y operación, con el Programa Nacional de Desarrollo, Programa General de Desarrollo del Distrito Federal, Programa Sectorial, Especial y Operativo que se ejecuten en la Administración Pública Local, y en su caso proponer las medidas que adecuen su congruencia;
+II. Proponer y establecer métodos de trabajo que procuren la eficiencia y la eficacia en la ejecución de sus actividades de las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
 
-V. Analizar los sistemas de almacenamiento y distribución de abasto de los insumos de las instancias de la Administración Pública del Distrito Federal, para que en su caso se propongan las medidas tendientes a garantizar la idoneidad en su operación;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-VI. Proponer proyectos procedimentales, normativos, instrumentales o sistémicos que favorezcan la mejora de las adquisiciones, con la finalidad de emitir propuestas para mejorar la aplicación de la Ley de Adquisiciones del Distrito Federal, de los entes que integran la Administración Pública del Distrito Federal;
+III. Impulsar la profesionalización de los servidores públicos adscritos a las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
 
-VII. Diagnosticar la ejecución de los programas en materia de servicios generales a instalaciones apoyando a las instancias de la Administración Pública del Distrito Federal y emitir las opiniones técnicas que correspondan;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-VIII. Dirigir los estudios para proponer mejoras o líneas de acción específicas para optimizar el otorgamiento de servicios generales, acorde a la funcionalidad de las instancias de la Administración Pública del Distrito Federal;
+IV. Evaluar el cumplimiento de los indicadores y metas de las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal, en relación a los lineamientos de trabajo establecidos por la Oficialía Mayor;
 
-IX. Dirigir los estudios de apoyo a las áreas, sobre los programas de contratación de prestadores de servicios profesionales de las instancias de la Administración Pública del Distrito Federal, a efecto de emitir opiniones técnicas, para el mejoramiento del proceso, detección de necesidades y mecanismos de contratación;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-X. Implementar mecanismos que permitan capacitar y actualizar en las materias competencia de la Oficialía Mayor, a los servidores públicos adscritos a las áreas administrativas en instancias de la Administración Pública del Distrito Federal;
+V. Establecer los procesos de selección, reclutamiento e ingreso para la ocupación de los puestos de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
 
-XI. Coordinar los estudios que se determinen sobre el uso, aprovechamiento y explotación del patrimonio inmobiliario del Distrito Federal asignados a las instancias de la Administración Pública, y personas físicas y morales, y en su caso emitir opinión técnica sobre el cumplimiento del título otorgado, a la Dirección General de Patrimonio Inmobiliario;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XII. Dirigir las acciones y programas de protección civil de todos los inmuebles de la Administración Pública del Distrito
+VI. Promover e implementar los esquemas de rotación lateral, ascendente, descendente y la separación del cargo del personal de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, basados en la evaluación de su desempeño, los riesgos operativos y su avance en el fortalecimiento de sus capacidades y emitir recomendaciones en ese sentido en el caso de los órganos político-administrativos;
 
-Federal;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XIII. Dirigir y coordinar las acciones necesarias para la defensa jurídica de los intereses de la Oficialía Mayor;
+VII. Aprobar las técnicas y métodos de evaluación de conocimientos del personal de las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
 
-XIV. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas competencia de la Oficialía Mayor;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XV. Preparar los análisis que presente el Oficial Mayor al Jefe de Gobierno, respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
+VIII. Acordar con los titulares de las áreas encargadas de administración en las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal el trámite, la solución y el despacho de los asuntos competencia de éstos y proponer a los órganos político-administrativos recomendaciones en tal sentido;
 
-XVI. Solicitar información y documentos a las instancias de la Administración Pública del Distrito Federal, cuando sea necesario para resolver los asuntos de su competencia;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XVII. Coordinar el trámite de las solicitudes de pasajes y viáticos nacionales o internacionales que presenten las Dependencias Órganos Desconcentrados o Entidades al Oficial Mayor;
+IX. Conocer, proponer, evaluar y opinar las modificaciones de estructura orgánica de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal y para el caso de los órganos político administrativos emitir las recomendaciones que estime pertinentes;
 
-XVIII. Coordinar la planeación de los estudios de análisis de la información y documentación relacionada con la elaboración y ejecución de los planes y programas, así como de la evaluación de objetivos institucionales, en el ámbito de competencia de la Oficialía Mayor;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XIX. Coordinar la planeación del desarrollo informático de la oficina del Oficial Mayor del Gobierno del Distrito Federal, así como la Coordinación General de Apoyo Administrativo;
+X. Emitir los lineamientos, reglas, circulares y demás disposiciones jurídico-administrativas para la operación de las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
 
-XX. Coordinar la gestión de actualización, adecuación, autorización y registro de manuales administrativos, de áreas sustantivas y encargadas de administración en dependencias y órganos desconcentrados, adscritas a la Oficialía Mayor, para su ulterior autorización del área competente;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XXI. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+XI. Requerir información para la realización de estudios y análisis que permitan la identificación de riesgos en la operación de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
 
-XXII. Certificar, por sí o a través de las Direcciones Ejecutivas, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-XXIII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XII. Promover el cumplimiento de las disposiciones jurídicas y administrativas aplicables a las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-###### Artículo 101-A.
+XIII. Preparar los análisis que presente el Oficial Mayor al Jefe de Gobierno, respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
 
-Corresponde a la Dirección Ejecutiva de Información Pública:
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-I. Recibir, capturar, ordenar y procesar las solicitudes de información pública y de acceso, rectificación, cancelación y oposición de datos personales que ingresen a la Oficialía Mayor, y darles seguimiento hasta la entrega de la respuesta correspondiente;
+XIV. Solicitar información y documentos a las instancias de la Administración Pública del Distrito Federal, cuando sea necesario para resolver los asuntos de su competencia;
 
-II. Recabar y publicar la información pública de oficio de la Oficialía Mayor de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y los criterios que al efecto emita el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-III. Coordinar las actividades referentes a la utilización del Sistema INFOMEXDF, informes de solicitudes de información pública y de acceso, rectificación, cancelación y oposición de datos personales, capacitación en materia de transparencia y datos personales al personal de la Oficialía Mayor; así como dar seguimiento a los medios de impugnación que se interpongan ante el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+XV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
 
-IV. Formar parte de los Órganos Colegiados de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-V. Integrar y formular los informes requeridos por el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+XVI. Certificar, por sí o a través de las Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
 
-VI. Definir estrategias de capacitación con la finalidad de mantener actualizado al personal de la Oficialía Mayor en materia de transparencia y acceso a la información pública, así como protección de datos personales;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-VII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+XVII. Revisar las solicitudes de pasajes y viáticos nacionales o internacionales que presenten las dependencias órganos desconcentrados y entidades al Oficial Mayor, para su autorización, y en las internacionales para que éste gestione su autorización ante el Jefe de Gobierno, y
 
-VIII. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables, así como el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
+XVIII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-###### Artículo 101-B.
+XIX.- (DEROGADA, G.O. 15 DE MARZO DE 2016)
 
-Corresponde a la Dirección Ejecutiva de Apoyo en Adquisiciones y Servicios Generales:
+XX. (DEROGADA, G.O. 15 DE MARZO DE 2016)
 
-I. Examinar con las instancias de la Administración Pública del Distrito Federal, la ejecución del Programa Anual de Adquisiciones, a efecto de emitir opiniones técnicas, propuestas de actualización normativa y de mejora;
+XXI. (DEROGADA, G.O. 15 DE MARZO DE 2016)
 
-II. Revisar los métodos, técnicas y resultados de la detección de necesidades en materia de bienes y servicios de la Administración Pública del Distrito Federal, para sustentar la dinámica administrativa y prestación de servicios;
+XXII. (DEROGADA, G.O. 15 DE MARZO DE 2016)
 
-III. Verificar la correspondencia entre los bienes y servicios a adquirir, sus requerimientos de mantenimiento y operación, con el Programa Nacional de Desarrollo, Programa General de Desarrollo del Distrito Federal, Programa Sectorial, Especial y Operativo que se ejecuten en la Administración Pública Local, y en su caso proponer las medidas que adecuen su congruencia;
+XXIII. (DEROGADA, G.O. 15 DE MARZO DE 2016)
 
-IV. Revisar el uso adecuado en los procesos de adquisición, de los conceptos de los catálogos de bienes y servicios y de proveedores, precios de referencia y cuadros básicos por las diferentes instancias de la Administración Pública del Distrito Federal, a fin de emitir propuestas de mejora en su uso;
+###### Artículo 101 -A.
 
-V. Realizar estudios de mercado que permitan complementar la actualización de los catálogos de bienes y servicios y precios de referencia de bienes de uso generalizado, que sirvan de apoyo a los procesos de adquisición que realicen las diferentes instancias de la Administración Pública del Distrito Federal;
+(DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-IV (SIC). Revisar los sistemas de almacenamiento y distribución de abasto de los insumos de las instancias de la Administración Pública del Distrito Federal, para que en su caso se propongan las medidas tendientes a garantizar la idoneidad en su operación;
+###### Artículo 101 -B.
 
-V. Efectuar el análisis sobre proyectos procedimentales, normativos, instrumentales o sistémicos que favorezcan los procesos de adquisiciones, con la finalidad de emitir propuestas para mejorar la aplicación de la Ley de Adquisiciones del Distrito Federal, de los entes que integran la Administración Pública del Distrito Federal;
+(DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-VI. Verificar la integración y ejecución de los programas en materia de servicios generales a instalaciones apoyando a las instancias de la Administración Pública del Distrito Federal y emitir las opiniones técnicas que correspondan;
+###### Artículo 101 -C.
 
-VII. Realizar los estudios para proponer mejoras o líneas de acción específicas para optimizar el otorgamiento de servicios generales, acorde a la funcionalidad de las instancias de la Administración Pública del Distrito Federal;
+(DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+###### Artículo 101 -D.
 
-IX. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables, así como el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
+(DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
+###### Artículo 101 -E.
 
-###### Artículo 101-C.
+(DEROGADO, G.O. 15 DE MARZO DE 2016)
 
-Corresponde a la Dirección Ejecutiva de Apoyo en Recursos Humanos:
+###### Artículo 101 -F.
 
-I. Realizar los estudios de apoyo a las áreas, sobre los programas de contratación de servidores públicos de las instancias de la Administración Pública del Distrito Federal, a efecto de emitir opiniones técnicas, para el mejoramiento del proceso, detección de necesidades y mecanismos de contratación, así como el análisis de la fuerza laboral acorde a las necesidades funcionales y orgánicas;
-
-II. Revisar la adecuada aplicación del ejercicio presupuestal en sus diferentes conceptos y partidas de gasto para servicios personales de las diferentes instancias de la Administración Pública del Distrito Federal, a fin de emitir propuestas de mejora;
-
-III. Realizar estudios que permitan monitorear los informes de actividades de la prestación del servicio profesional contratado por el Gobierno del Distrito Federal, en las instancias de la Administración Pública del Distrito Federal, a efecto de emitir propuestas de mejora;
-
-IV. Elaborar estudios mediante muestreo, con la información que hayan remitido para la justificación de la prestación de servicios profesionales las instancias de la Administración Pública del Distrito Federal, abarcando visitas de campo, para verificar el cumplimiento contractual, pudiendo emitir una opinión técnica sobre la necesidad de continuidad de la contratación y/o el folio de honorarios;
-
-V. Dar seguimiento al proceso de diagnóstico para el desarrollo del recurso humano, dentro del ámbito de competencia de la Oficialía Mayor;
-
-VI. Capacitar y actualizar en las materias competencia de la Oficialía Mayor, a los servidores públicos adscritos a las áreas administrativas en instancias de la Administración Pública del Distrito Federal;
-
-VII. Generar y aplicar técnicas y métodos de evaluación de conocimientos acorde a la normatividad vigente, con el propósito de que se practiquen al personal de la Oficialía Mayor;
-
-VIII. Revisar que la información que detenta sobre la capacitación del personal de la Oficialía Mayor esté conforme a lo establecido en las disposiciones aplicables, con la finalidad de cumplir los propósitos organizacionales y funcionales;
-
-IX. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
-
-X. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables, así como el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
-
-> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
-
-###### Artículo 101-D.
-
-Corresponde a la Dirección Ejecutiva de Apoyo en Protección Civil del Patrimonio Inmobiliario:
-
-I. Ejecutar las acciones y administrar los programas de protección civil de todos los inmuebles del patrimonio inmobiliario de la ciudad, asignados a las instancias de la Administración Pública del Distrito Federal;
-
-II. Coordinar la elaboración del Programa Interno de Protección Civil de los inmuebles del patrimonio inmobiliario de la ciudad, asignados a las instancias de la Administración Pública del Distrito Federal;
-
-III. Coordinar el establecimiento de las brigadas de protección civil en los inmuebles del patrimonio inmobiliario de la ciudad, asignados a las instancias de la Administración Pública del Distrito Federal y procurar su capacitación en la materia;
-
-IV. Coordinar la participación de los trabajadores del Gobierno del Distrito Federal en la elaboración del plan familiar de protección civil, asegurando óptimas condiciones de potencial uso, para procurar la adecuada comunicación, integración y reintegración del núcleo familiar en caso de un siniestro;
-
-V. Coordinar, dirigir y supervisar a los equipos especializados de Protección Civil de la Oficialía Mayor, en caso de contingencias;
-
-VI. Apoyar al Oficial Mayor en sus funciones como integrante del Consejo de Protección Civil del Distrito Federal, y en las del en el (sic) Gabinete de Crisis y Reacción Inmediata;
-
-VII. Realizar los estudios sobre el destino del uso, aprovechamiento y explotación del patrimonio inmobiliario de la ciudad, que haya sido otorgado a personas físicas, morales o entidades de la Administración Pública del Distrito Federal a través de Permisos Administrativos Temporales Revocables (PATR) y Concesiones, pudiendo emitir una opinión técnica sobre el cumplimiento del título otorgado, a la Dirección General de Patrimonio Inmobiliario;
-
-VIII. Coadyuvar con información recolectada, que permita actualizar el listado de inmuebles del patrimonio inmobiliario asignado a instancias de la Administración Pública del Distrito Federal;
-
-IX. Realizar estudios para constatar el uso óptimo de los espacios de los inmuebles, propios o rentados a las instancias de la Administración Pública del Distrito Federal, a efecto de emitir acciones de mejora en su uso;
-
-IX. Realizar estudios para constatar el uso óptimo de los espacios físicos de los inmuebles, propios, asignados o rentados a las instancias de la Administración Pública del Distrito Federal, a efecto de emitir recomendaciones de mejora en su uso;
-
-X. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
-
-XI. Las demás que le asignen el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
-
-> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
-
-###### Artículo 101-E.
-
-Corresponde a la Dirección Ejecutiva de Apoyo Jurídico:
-
-I. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Oficialía Mayor, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio del Distrito Federal, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas; contestar las demandas que se tramiten ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse a las demandas, así como presentar denuncias ante las autoridades competentes;
-
-II. Efectuar el seguimiento y defensa en las diferentes materias, civil, penal, administrativa, amparo y de cualquier otra índole, competencia de la Oficialía Mayor, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo, en apego a las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas aplicables;
-
-III. Elaborar los análisis que presente el Oficial Mayor al Jefe de Gobierno, respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
-
-IV. Solicitar información y documentos a las instancias de la Administración Pública del Distrito Federal, cuando sea necesario para resolver los asuntos de su competencia;
-
-V. Analizar los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Oficialía Mayor a fin de que se (sic) éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes;
-
-VI. Integrar los elementos necesarios para que se elaboren o ejecuten las escrituras públicas, convenios, contratos, permisos administrativos temporales revocables, títulos, actas de asignación, y todos aquellos instrumentos legales que deban ser suscritos por el Oficial Mayor;
-
-VII. Fungir como Apoderado General en la defensa Jurídica de los asuntos que competen a la Oficialía Mayor, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo;
-
-VIII. Notificar que se realicen las notificaciones de los actos jurídicos que le correspondan de acuerdo a sus atribuciones;
-
-IX. Establecer programas de trabajo en materia jurídica orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo de la Oficialía Mayor;
-
-X. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
-
-XI. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
-
-XII. Las demás que le instruya el Oficial Mayor del Gobierno del Distrito Federal, el Coordinador General de Apoyo Administrativo y las que les correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo que le adscriban, así como las que expresamente le atribuyan este reglamento y le otorguen otros ordenamientos jurídicos o administrativos.
-
-> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
-
-###### Artículo 101-F.
-
-Corresponde a la Dirección Ejecutiva de Apoyo Técnico y Tecnológico:
-
-I. Atender, gestionar y establecer controles sobre las solicitudes de pasajes y viáticos nacionales o internacionales que presenten las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, al Oficial Mayor;
-
-II. Integrar, y en su caso formular y proponer los proyectos normativos en materia de pasajes, viáticos y para la administración de los recursos humanos, materiales y el patrimonio inmobiliario del Distrito Federal competencia del Oficial Mayor;
-
-III. Llevar a cabo en el ámbito de competencia de la Oficialía Mayor, el análisis de la información y documentos relacionados con los planes, programas y evaluación de objetivos institucionales;
-
-IV. Operar esquemas para recopilar, organizar, analizar y presentar los datos cuantitativos y cualitativos generados por las distintas unidades administrativas de la Oficialía Mayor;
-
-V. Desarrollar aplicaciones tecnológicas atendiendo las disposiciones aplicables en la materia, y prestar apoyo informático a la Oficina del Oficial Mayor y a la Coordinación General de Apoyo Administrativo;
-
-VI. Administrar la red e Intranet de la oficina del Oficial Mayor del Gobierno del Distrito Federal y de la Coordinación General de Apoyo Administrativo atendiendo las disposiciones aplicables en la materia;
-
-VII. Dar seguimiento y emitir diagnóstico de las actividades relacionadas con la actualización, adecuación, autorización y registro de manuales administrativos, responsabilidad de las áreas sustantivas y áreas encargadas de la administración en las dependencias y órganos desconcentrados, adscritas a la Oficialía Mayor, para su estandarización y simplificación atendiendo las disposiciones aplicables en la materia;
-
-VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
-
-IX. Las demás que le asignen el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
+(DEROGADO, G.O. 15 DE MARZO DE 2016)
 
 > <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
 
@@ -7730,7 +7634,13 @@ XVII. Participar en la planeación y coordinar la prestación de servicios de ap
 
 XVIII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
 
-XIX. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas.
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+
+XIX. Elaborar el programa interno de protección civil de los inmuebles del patrimonio inmobiliario de la ciudad que ocupan las unidades administrativas de las dependencias que administran;
+
+> <small>(ADICIONADA, G.O. 15 DE MARZO DE 2016)</small>
+
+XX. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas.
 
 > <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -7948,15 +7858,21 @@ XLIV. Establecer los lineamientos para la elaboración, presentación, estudio y
 
 XLV. Impulsar y dirigir la instrumentación y operación de una plataforma integral de trámites y servicios en línea en el Distrito Federal;
 
-XLVI. Promover y coordinar la participación y colaboración con la Federación, Estados, sector social, privado, académico y especialistas, nacionales e internacionales, en materia de mejora regulatoria, simplificación administrativa, funcionamiento integral de las organizaciones, la atención ciudadana, áreas de atención al público, sistemas de comunicación, medición y evaluación del desempeño gubernamental e innovación y proponer la celebración de convenios e instrumentos de colaboración en esas materias, y
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 14 DE MARZO DE 2014)</small>
+XLVI. Promover y coordinar la participación y colaboración con la Federación, Estados, sector social, privado, académico y especialistas, nacionales e internacionales, en materia de mejora regulatoria, simplificación administrativa, funcionamiento integral de las organizaciones, la atención ciudadana, áreas de atención al público, sistemas de comunicación, medición y evaluación del desempeño gubernamental e innovación y proponer la celebración de convenios e instrumentos de colaboración en esas materias,
 
-XLVII. Fomentar una cultura de innovación, emprendimiento y colaboración entre las dependencias, órganos desconcentrados, órganos político-administrativos, entidades de la Administración Pública del Distrito Federal, sector académico y otros sectores de la sociedad civil, con la finalidad de impulsar y difundir casos de éxito y las mejores prácticas de innovación y modernización de la Administración Pública del Distrito Federal, y
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+XLVII. Fomentar una cultura de innovación, emprendimiento y colaboración entre las dependencias, órganos desconcentrados, órganos político-administrativos, entidades de la Administración Pública del Distrito Federal, sector académico y otros sectores de la sociedad civil, con la finalidad de impulsar y difundir casos de éxito y las mejores prácticas de innovación y modernización de la Administración Pública del Distrito Federal,
 
-XLVIII. Las demás que instruya el titular de la Oficialía Mayor y las que se le confieran en otros instrumentos jurídicos o administrativos.
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+
+XLVIII. Coordinar las actividades en materia de servicio público de carrera de la Administración Pública del Distrito Federal que le confieren las disposiciones jurídicas en la materia a la Oficialía Mayor; y
+
+> <small>(ADICIONADA, G.O. 15 DE MARZO DE 2016)</small>
+
+XLIX. Las demás que instruya el titular de la Oficialía Mayor y las que se le confieran en otros instrumentos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -11928,9 +11844,9 @@ Las anteriores Direcciones Generales podrán fusionarse o dividirse de acuerdo a
 
 Los Órganos Políticos Administrativos, podrán de acuerdo a sus características, adicionar atribuciones a las Direcciones Generales de carácter común.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2016)</small>
 
-Además, los órganos político-administrativos podrán contar con las Direcciones Generales, Ejecutivas y demás unidades administrativas específicas que determine su Jefe Delegacional, según las necesidades propias de cada una de ellas, para el ejercicio de las atribuciones que de manera expresa establece el artículo 39 de la Ley Orgánica de la Administración Pública del Distrito Federal y demás ordenamientos jurídicos; siempre que exista suficiencia presupuestal y cuenten con dictamen previo de la Contraloría General.
+Además, los órganos político-administrativos podrán contar con las Direcciones Generales, Ejecutivas y demás unidades administrativas específicas que determine su Jefe Delegacional, según las necesidades propias de cada una de ellas, para el ejercicio de las atribuciones que de manera expresa establece el artículo 39 de la Ley Orgánica de la Administración Pública del Distrito Federal y demás ordenamientos jurídicos; siempre que exista suficiencia presupuestal y cuenten con dictamen previo de la Oficialía Mayor.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
 
@@ -17280,9 +17196,9 @@ II. Formular los dictámenes, opiniones e informes que le sean solicitados por o
 
 III. Proporcionar a la Dependencia de su adscripción la información que les corresponda, para la elaboración de los anteproyectos de presupuesto, debidamente validada por el Órgano Colegiado de Dirección y con el apoyo de las Direcciones Generales, Ejecutivas o de Áreas encargadas de la administración en sus respectivos sectores;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
-IV. Proporcionar a la Dirección General, Ejecutiva o de Área encargada de la administración en su sector, la información y demás elementos necesarios para elaborar los proyectos de modificación y de reorganización de sus estructuras y presentarlos a la consideración del órgano colegiado de dirección, para que con su autorización se presenten a la dictaminación de la Contraloría General;
+IV. Proporcionar a la Dirección General, Ejecutiva o de Área encargada de la administración en su sector, la información y demás elementos necesarios para elaborar los proyectos de modificación y de reorganización de sus estructuras y presentarlos a la consideración del órgano colegiado de dirección, para que con su autorización se presenten a la dictaminación de la Oficialía Mayor;
 
 > <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -19075,3 +18991,11 @@ G.O. 18 DE ENERO DE 2016.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 15 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
