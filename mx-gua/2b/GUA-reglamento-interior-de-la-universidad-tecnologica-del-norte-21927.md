@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-tecnologica-del-norte-219
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2016-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE GUANAJUATO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -554,3 +556,33 @@ GERARDO LUIS RODRIGUEZ OROZCO.
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 150, MEDIANTE EL CUAL, SE EXPIDE EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. Este Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno (sic) Estado.
+
+Abrogación del Reglamento Interior
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 62 publicado en el Periódico Oficial de Gobierno del Estado número 52-B. Segunda Parte, de fecha 30 de junio de 2001, mediante e (sic) cual se expidió el Reglamento Interior de la Universidad Tecnológica del Norte de Guanajuato. Así mismo se dejan sin efectos otras disposiciones jurídicas que se opongan al presente Estatuto Orgánico.
+
+Expedición del Manual General de Organización
+
+Artículo Tercero. El Consejo aprobará, a propuesta de la Rectoría, el Manual General de Organización de la Universidad, en un plazo no mayor de seis meses contados a partir de la entrada en vigencia del presente Decreto Gubernativo.
+
+Sustitución de quienes actualmente son integrantes actuales del Consejo
+
+Artículo Cuarto. Quienes sean actualmente integrantes del Consejo que hayan cumplido el tiempo estipulado en el presente Estatuto para su gestión de consejería, deberán ser sustituidos en un plazo máximo de seis meses.
+
+Sustitución de quienes actualmente sean titulares de las secretarías, direcciones y subdirecciones
+
+Artículo Quinto. Quienes sean actualmente titulares de las Secretarías, de las Direcciones de Área y de las Subdirecciones con menos de cuatro años, iniciarán sus períodos de conformidad con lo establecido en este Estatuto. Quienes rebasen los cuatro años podrán ser ratificados en máximo seis meses para un periodo más, de acuerdo a lo establecido en el mismo.
+
+Estructura y tabuladores conforme a Convenios con la Coordinación General de Universidades Tecnológicas y Politécnicas
+
+Artículo Sexto. La estructura y tabuladores que regirán en la Universidad serán los autorizados por la Coordinación General de Universidades Tecnológicas y Politécnicas y no deben rebasar el techo presupuestal autorizado por la federación. Si fueran superiores serán cubiertos con recurso diferente a lo pactado en el Convenio de Apoyo financiero; lo anterior de conformidad con el Convenio de Coordinación para la Creación, Operación y Apoyo Financiero de la Universidad.
