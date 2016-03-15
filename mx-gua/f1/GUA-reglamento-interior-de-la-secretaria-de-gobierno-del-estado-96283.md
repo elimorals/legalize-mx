@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2013-10-15"
+last_updated: "2016-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2016.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -167,6 +167,16 @@ b.1) Dirección de Atención a Municipios; y
 
 b.2) Dirección de Vinculación Institucional.
 
+> <small>(ADICIONADO [N. DE E. CON SUS SUBINCISOS], P.O. 15 DE MARZO DE 2016)</small>
+
+c) Dirección General de Derechos Humanos;
+
+c.1) Dirección de Políticas Públicas y estrategias para la atención de Derechos Humanos;
+
+c.2) Dirección de Asuntos Jurídicos en materia de Derechos Humanos; y
+
+c.3) Dirección de Vinculación Institucional en materia de Derechos Humanos
+
 IV. Subsecretaría del Trabajo y Previsión Social:
 
 a) Dirección General del Trabajo:
@@ -255,9 +265,23 @@ XVII. Desempeñar las comisiones y funciones especiales que el Gobernador del Es
 
 XVIII. Aprobar la estructura orgánica de la Secretaría, atendiendo a la normatividad aplicable;
 
-XIX. Aprobar el anteproyecto del presupuesto de egresos de la Secretaría y remitirlo a la Secretaría de Finanzas, Inversión y Administración para su revisión correspondiente; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
 
-XX. Las demás que con tal carácter le atribuyan expresamente las disposiciones jurídicas aplicables o le encomiende el Gobernador del Estado.
+XIX. Aprobar el anteproyecto del presupuesto de egresos de la Secretaría y remitirlo a la Secretaría de Finanzas, Inversión y Administración para su revisión correspondiente;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2016)</small>
+
+XX. Dictar los acuerdos y medidas administrativas conducentes para la promoción, vigilancia y respeto de los derechos humanos y sus garantías por parte de las dependencias y entidades del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2016)</small>
+
+XXI. Coordinar el cumplimiento de las recomendaciones y peticiones de información derivadas de las quejas e investigaciones que emitan los Organismos Públicos defensores de los derechos humanos, federales y locales que involucren a diversas entidades o dependencias del Poder Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2016)</small>
+
+XXII. Coordinar el diseño y ejecución de políticas públicas, en materia de derechos humanos con especial énfasis en igualdad, no discriminación e inclusión social; y
+
+XXIII. Las demás que con tal carácter le atribuyan expresamente las disposiciones jurídicas aplicables o le encomiende el Gobernador del Estado.
 
 ## Título Tercero. Facultades genéricas de los Subsecretarios, Directores Generales, Directores de Gestión Administrativa y Coordinadores Administrativos
 
@@ -739,7 +763,9 @@ I. Asesorar al Secretario y a los subsecretarios y demás unidades administrativ
 
 II. Representar a la Secretaría y a las unidades administrativas en todos los juicios en que sean parte o intervengan con cualquier otro carácter, y podrá delegar dicha representación en los servidores públicos adscritos a ella, así como otorgar poderes;
 
-III. Emitir criterios de interpretación respecto de la normatividad cuya aplicación corresponda a la Secretaría, llevando a cabo acciones de coordinación y unificación de dichos criterios entre las diferentes áreas de asistencia jurídica adscritas a las unidades administrativas de la Secretaría;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
+
+III. Emitir criterios de interpretación respecto de la normatividad cuya aplicación corresponda a la Secretaría, cuando así se lo solicite alguna de sus unidades administrativas y sirva para orientar el correcto ejercicio de sus atribuciones.
 
 IV. Intervenir y coadyuvar en el trámite de los recursos administrativos que se interpongan contra los actos y resoluciones que emitan las diversas autoridades de la Secretaría;
 
@@ -779,7 +805,9 @@ II. Asesorar y resolver las consultas que en materia jurídica soliciten los mun
 
 III. Proporcionar, promover e impartir asesoría a los ayuntamientos de la Entidad, cuando así lo soliciten en la elaboración de los ordenamientos jurídicos municipales;
 
-IV. Proponer al Director General de Asuntos Jurídicos los criterios de interpretación para efectos internos, sobre la normatividad cuya aplicación corresponda a la Secretaría;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
+
+IV. Elaborar y presentar a quien sea titular de la Dirección General de Asuntos Jurídicos los criterios de interpretación a que se refiere la fracción III del artículo 25.
 
 V. Revisar jurídicamente o, en su caso, elaborar los convenios, acuerdos y contratos, en los que tenga intervención la Secretaría y llevar el registro y control de los mismos;
 
@@ -1893,9 +1921,17 @@ Facultades de la Dirección de Atención a Municipios
 
 La Subsecretaría de Vinculación y Desarrollo Político debe planear, coordinar, supervisar y evaluar el trabajo de las siguientes direcciones generales:
 
-I. Dirección General de Concertación Política; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
 
-II. Dirección General de Enlace Gubernamental.
+I. Dirección General de Concertación Política;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
+
+II. Dirección General de Enlace Gubernamental; y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2016)</small>
+
+III. Dirección General de Derechos Humanos.
 
 Facultades de la Subsecretaría de Vinculación y Desarrollo Político
 
@@ -1919,9 +1955,25 @@ VII. Aprobar, previo acuerdo con el Secretario, los mecanismos de coordinación,
 
 VIII. Analizar y evaluar la situación política en la Entidad con el objeto de establecer mecanismos y acciones que fortalezcan la estabilidad e integración social;
 
-IX. Colaborar, con el apoyo de la Subsecretaría del Trabajo y Previsión Social, con la Secretaría de Desarrollo Social y Humano en la conducción de las relaciones con los diferentes Poderes de la Federación, de los Estados o de los municipios para la implementación de la política de respeto a los derechos humanos de los trabajadores migrantes guanajuatenses y sus familias; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
 
-X. Coordinarse con las dependencias y entidades de la Administración Pública Estatal para diseñar políticas que permitan generar una cultura de respeto a los derechos humanos.
+IX. Colaborar, con el apoyo de la Subsecretaría del Trabajo y Previsión Social, con la Secretaría de Desarrollo Social y Humano en la conducción de las relaciones con los diferentes Poderes de la Federación, de los Estados o de los municipios para la implementación de la política de respeto a los derechos humanos de los trabajadores migrantes guanajuatenses y sus familias;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
+
+X. Coordinar y diseñar políticas que permitan generar una cultura de respeto a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2016)</small>
+
+XI. Elaborar e implementar el Programa Estatal de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2016)</small>
+
+XII. Participar en la celebración de convenios, acuerdos y demás instrumentos jurídicos, en los que sea parte el Gobierno del Estado o la Secretaría con instituciones públicas federales o locales, así como con organismos e instituciones de carácter social o privado en materia de derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2016)</small>
+
+XIII. Representar al Estado en los consejos y mecanismos de protección de los derechos humanos en los que participe el Estado, por instrucciones del Secretario, dando seguimiento a los acuerdos respectivos.
 
 ### Capítulo III. Dirección General de Enlace Gubernamental
 
@@ -1947,7 +1999,7 @@ I. Planear los mecanismos y acciones políticas que contribuyan a promover la es
 
 II. Coordinar la comunicación con los demás poderes y organismos autónomos de la Entidad para la atención de asuntos de interés común;
 
-III. Coordinar la implementación y ejecución de las acciones derivadas de los convenios que en materia de derechos humanos celebre la Secretaría;
+III. (DEROGADA, P.O. 15 DE MARZO DE 2016)
 
 IV. Coordinar la comunicación con los partidos y agrupaciones políticas, así como con los organismos electorales para propiciar la gobernabilidad y democracia del Estado;
 
@@ -1957,25 +2009,35 @@ VI. Prevenir el surgimiento de conflictos sociales en la Entidad.
 
 #### Sección Primera. Integración y Facultades
 
-Unidades adscritas a la Dirección General del Trabajo
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
+
+Unidades adscritas a la Dirección General de Derechos Humanos
 
 ###### Artículo 74.
 
 La Dirección de Desarrollo Político tiene las siguientes facultades:
 
-I. Establecer mecanismos de comunicación con los poderes Legislativo y Judicial para generar consensos y la implementación de acciones en atención a los asuntos de interés común;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
 
-II. Ejecutar las acciones que en materia de derechos humanos se deriven de la coordinación con dependencias y entidades de la Administración Pública Estatal, así como de los convenios de coordinación que en esta materia celebre la Secretaría;
+I. Establecer mecanismos de comunicación y desarrollar vínculos políticos institucionales con el Poder Legislativo, con sus órganos y con los grupos parlamentarios y representaciones que lo integran;
 
-III. Diseñar y ejecutar los mecanismos que determine el Subsecretario de Vinculación y Desarrollo Político con el Subsecretario del Trabajo y Previsión Social, a fin de colaborar con la Secretaría de Desarrollo Social y Humano en la conducción de las relaciones con los diferentes Poderes de la Federación, de los Estados o de los municipios para la implementación de la política de respeto a los derechos humanos de los trabajadores migrantes guanajuatenses y sus familias;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
 
-IV. Establecer mecanismos de coordinación permanente con los partidos, agrupaciones políticas y organismos electorales para propiciar la gobernabilidad y democracia mediante un ambiente de armonía, civilidad y respeto en la Entidad; y
+II. Establecer mecanismos de comunicación con el Poder Judicial para la implementación de acciones en atención a los asuntos de interés común;
 
-V. Las demás que le confiera el Director General de Concertación Política.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
 
-#### Sección Segunda. Juntas Locales y Especiales de Conciliación y Arbitraje y del Tribunal de Conciliación y Arbitraje del Estado
+III. Establecer mecanismos de comunicación con los partidos políticos y agrupaciones políticas para propiciar la construcción de acuerdos y consensos para mantener las condiciones de gobernabilidad democrática;
 
-Facultades de las Juntas Locales y Especiales de Conciliación y Arbitraje y del Tribunal de Conciliación y Arbitraje del Estado
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2016)</small>
+
+IV. Establecer mecanismos de coordinación con organismos electorales para coadyuvar a la gobernabilidad y democracia mediante un ambiente de armonía, civilidad y respeto en la Entidad; y
+
+#### Sección Segunda. Dirección de Políticas Públicas y estrategias para la atención de Derechos Humanos
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
+
+Facultades de la Dirección de Políticas Públicas y estrategias para la atención de Derechos Humanos
 
 ###### Artículo 75.
 
@@ -1995,13 +2057,15 @@ VI. Coadyuvar en la promoción de los programas sociales que generen las depende
 
 VII. Las demás que le confiera el Director General de Concertación Política.
 
-### Capítulo I. Organización y Facultades de la Subsecretaría del Trabajo y Previsión Social
+### Capítulo IV. Dirección General de Derechos Humanos
 
-Unidades adscritas a la Subsecretaría del Trabajo y Previsión Social
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
 
-#### Sección Tercera. Procuraduría de la Defensa del Trabajo
+#### Sección Tercera. Dirección de Asuntos Jurídicos en materia de Derechos Humanos
 
-Facultades de la Procuraduría de la Defensa del Trabajo
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
+
+Facultades de la Dirección de Asuntos Jurídicos en materia de Derechos Humanos
 
 ###### Artículo 76.
 
@@ -2025,9 +2089,11 @@ III. Planear las acciones de coordinación entre Estado y la Federación a trav�
 
 IV. Impulsar la cooperación internacional con gobiernos locales.
 
-#### Sección Primera. Integración y Facultades
+#### Sección Cuarta. Dirección de Vinculación Institucional en materia de Derechos Humanos
 
-Unidades adscritas a la Dirección General de Promoción y Desarrollo Laboral
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
+
+Facultades de la Dirección de Vinculación Institucional en materia de Derechos Humanos
 
 ###### Artículo 78.
 
@@ -2043,9 +2109,9 @@ IV. Promover la capacitación y profesionalización de los servidores públicos 
 
 V. Las demás que le confiera el Director General de Enlace Gubernamental.
 
-#### Sección Segunda. Dirección de Inspección del Trabajo
+#### Sección Primera. Integración y Facultades
 
-Facultades de la Dirección de Inspección del Trabajo
+Unidades adscritas a la Dirección General del Trabajo
 
 ###### Artículo 79.
 
@@ -2063,19 +2129,147 @@ V. Ejecutar acciones en coordinación con el Gobierno Federal y otros organismos
 
 VI. Las demás que le confiera el Director General de Enlace Gubernamental.
 
-### Capítulo II. Dirección General del Trabajo
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
 
-#### Sección Tercera. Dirección de Desarrollo para el Trabajo Productivo
+### Capítulo I. Organización y Facultades de la Subsecretaría del Trabajo y Previsión Social
 
-Facultades de la Dirección de Desarrollo para el Trabajo Productivo
+Unidades adscritas a la Subsecretaría del Trabajo y Previsión Social
 
-#### Sección Cuarta. Dirección para el Desarrollo Sindical
+#### Sección Segunda. Juntas Locales y Especiales de Conciliación y Arbitraje y del Tribunal de Conciliación y Arbitraje del Estado
 
-Facultades de la Dirección para el Desarrollo Sindical
+Facultades de las Juntas Locales y Especiales de Conciliación y Arbitraje y del Tribunal de Conciliación y Arbitraje del Estado
+
+###### Artículo 79 Bis.
+
+La Dirección General de Derechos Humanos, debe planear, coordinar, supervisar y evaluar el trabajo de las siguientes direcciones de área:
+
+I. Dirección de Políticas Públicas y Estrategias para la Atención de Derechos Humanos;
+
+II. Dirección de Asuntos Jurídicos en materia de Derechos Humanos; y
+
+III. Dirección de Vinculación Institucional en materia de Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2016)</small>
+
+Facultades de la Dirección General de Derechos Humanos
+
+###### Artículo 79 Ter.
+
+La Dirección General de Derechos Humanos, tiene además de las facultades genéricas, las siguientes:
+
+I. Establecer e instrumentar los mecanismos y acciones que contribuyan al fortalecimiento del respeto, cultura y promoción de los Derechos Humanos al interior del Poder Ejecutivo;
+
+II. Coordinar la atención y seguimiento de los asuntos que se le turnen en materia de Derechos Humanos;
+
+III. Coordinar la implementación de las acciones para el cumplimiento de los compromisos derivados de los convenios que en materia de Derechos Humanos celebre el Gobierno del Estado;
+
+IV. Coordinar el desarrollo e implementación de las políticas públicas y estrategias que impulsen y difundan la cultura de los Derechos Humanos con las dependencias y entidades del Poder Ejecutivo;
+
+V. Conformar una red estatal de Derechos Humanos con enlaces de las dependencias y entidades del Poder Ejecutivo, quienes serán los responsables al interior de las mismas de recabar información e implementar las acciones que en la materia se generen;
+
+VI. Coordinar los mecanismos de vinculación institucional con instancias en materia de Derechos Humanos;
+
+VII. Asesorar, cuando se someta a su consideración a las dependencias y entidades del Poder Ejecutivo, en la forma de atención de las recomendaciones o sentencias que en materia de Derechos Humanos les sean formuladas por las autoridades competentes;
+
+VIII. Coordinar la intervención de la Secretaría en los programas transversales en materia de Derechos Humanos del Estado;
+
+IX. Apoyar al subsecretario en los consejos y mecanismos de protección de los Derechos Humanos que coordine o en que participe en representación del Estado, dando seguimiento a los acuerdos respectivos;
+
+X. Implementar un registro de quejas, recomendaciones y cualquier procedimiento o acto relacionado con las dependencias y entidades del Poder Ejecutivo ante los organismos públicos defensores de los derechos humanos, federales y locales y ante la Comisión Interamericana de Derechos Humanos, para verificar su oportuno seguimiento;
+
+XI. Coordinar, cuando le sea turnada, la atención, registro y respuesta de las solicitudes de medidas precautorias o cautelares necesarias para prevenir la violación de Derechos Humanos dictadas a las dependencias y entidades del Poder Ejecutivo por jueces, consejos y organismos públicos defensores de los derechos humanos nacionales e internacionales, llevando a cabo el seguimiento correspondiente;
+
+XII. Ejercer las atribuciones que le correspondan a la Secretaría previstas en la Ley para Prevenir, A tender y Erradicar la Discriminación en el Estado de Guanajuato; y
+
+XIII. Establecer y coordinar los mecanismos de atención de las atribuciones, compromisos y obligaciones en materia de Derechos Humanos a cargo de la Secretaría, previstas en la normatividad estatal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
+
+#### Sección Tercera. Procuraduría de la Defensa del Trabajo
+
+Facultades de la Procuraduría de la Defensa del Trabajo
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2016)</small>
+
+###### Artículo 79 Quáter.
+
+La Dirección de Políticas Públicas y Estrategias para la Atención de Derechos Humanos tiene las siguientes facultades:
+
+I. Implementar y dar seguimiento a políticas públicas, estrategias, trabajos y tareas de impulso y fortalecimiento de la cultura de los derechos humanos entre los servidores públicos del Poder Ejecutivo;
+
+II. Diseñar, administrar y mantener actualizado el registro de las recomendaciones que la Comisión Nacional de los Derechos Humanos y la Procuraduría de los Derechos Humanos del Estado de Guanajuato emitan a las dependencias y entidades de la Administración Pública Estatal; así como coordinar y supervisar el cumplimiento de aquellas a que hubiere lugar;
+
+III. Asistir, previa invitación, a las sesiones y mesas de trabajo de la Secretaría Técnica de la Comisión de Derechos Humanos de la Conferencia Nacional de Gobernadores, a fin de conocer los temas y puntos de acuerdo aprobados en las mismas para dar la atención y seguimiento correspondiente;
+
+IV. Identificar y compilar los compromisos que en materia de derechos humanos asuma el estado de Guanajuato, así como promover su cumplimiento con las dependencias y entidades de la Administración Pública Estatal y Federal;
+
+V. Registrar y dar seguimiento a los asuntos de su competencia, a través de la red estatal de Derechos Humanos, administrando la información que se genere;
+
+VI. Proponer a la Subsecretaría de Vinculación y Desarrollo Político y a la Dirección General de Derechos Humanos, estrategias para consolidar una política transversal en materia de derechos humanos, congruente con el Programa de Gobierno;
+
+VII. Participar en la elaboración e implementación de acciones y proyectos con perspectiva de género y de respeto y difusión de los derechos humanos principalmente a favor de grupos en situación de vulnerabilidad; y
+
+VIII. Las demás que le confiera la Dirección General de Derechos Humanos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
+
+#### Sección Primera. Integración y Facultades
+
+Unidades adscritas a la Dirección General de Promoción y Desarrollo Laboral
+
+###### Artículo 79 Quinquies.
+
+La Dirección de Asuntos Jurídicos en materia de Derechos Humanos tiene las siguientes facultades:
+
+I. Dar trámite a los asuntos que le sean turnados por las autoridades de la administración pública federal y estatal sobre las medidas que procuren el pleno respeto y cumplimiento de las disposiciones jurídicas que se refieran a los derechos humanos y las garantías para su protección, promoción y defensa;
+
+II. Asesorar, por conducto de la Dirección General de Derechos Humanos, a las autoridades de las dependencias y entidades del Poder Ejecutivo en la celebración de convenios, acuerdos y demás instrumentos jurídicos, con instituciones públicas para el fortalecimiento de la cultura de los derechos humanos;
+
+III. Conocer de las recomendaciones o sentencias que en materia de Derechos Humanos, les sean turnadas a las dependencias y entidades de Poder Ejecutivo por las autoridades competentes, a efecto de proponer a la Dirección General la forma de atenderlas;
+
+IV. Atender en tiempo y forma los compromisos devenidos de la suscripción de convenios realizados por el Poder Ejecutivo en materia de Derechos Humanos, entre otros la atención y seguimiento a las solicitudes de informes;
+
+V. Coordinar la atención de las solicitudes de medidas precautorias o cautelares necesarias para prevenir la violación de los derechos humanos con las dependencias del Poder Ejecutivo, emanadas de instancias competentes;
+
+VI. Promover la coordinación de acciones en materia de atención a víctimas, entre la Procuraduría General de la Justicia del Estado y las demás dependencias y entidades competentes de la administración pública estatal;
+
+VII. Registrar y dar seguimiento a los asuntos de su competencia, a través de la red estatal de Derechos Humanos, administrando la información que se genere;
+
+VIII. Apoyar al Subsecretario de Vinculación y Desarrollo Político en su función de enlace ante la Junta de Gobierno del Mecanismo para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, así como dar seguimiento a las tareas y acciones derivadas de su representación;
+
+IX. Proponer a la Dirección General de Derechos Humanos la respuesta a las quejas y requerimientos formulados por los organismos nacionales e internacionales protectores de derechos humanos contra actos de la Secretaría de Gobierno y de las unidades administrativas de la Secretaría, dando seguimiento a los acuerdos relativos;
+
+X. Recibir y desahogar las quejas y procedimientos previstos en los diversos ordenamientos jurídicos del ámbito estatal en materia de derechos humanos, cuya atención y competencia corresponda a la Secretaría de Gobierno;
+
+XI. Actualizar el registro de quejas promovidas en contra de las dependencias y entidades del Poder Ejecutivo ante los organismos públicos defensores de los derechos humanos, federales y locales y ante la Comisión Interamericana de Derechos Humanos, incluyendo el debido cumplimiento de las recomendaciones que se hayan aceptado; y
+
+XII. Las demás que le confiera la Dirección General de Derechos Humanos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MARZO DE 2016)</small>
+
+#### Sección Segunda. Dirección de Inspección del Trabajo
+
+Facultades de la Dirección de Inspección del Trabajo
+
+###### Artículo 79 Sexies.
+
+La Dirección de Vinculación Institucional en materia de Derechos Humanos tiene las siguientes facultades:
+
+I. Vincular acciones con organismos estatales, nacionales e internacionales en la materia para la atención, promoción y difusión de la cultura de respeto a los derechos humanos;
+
+II. Fungir como vínculo entre la Dirección General y las demás instancias públicas para atender temas de interés común en materia de derechos humanos, así como remitir a las instancias competentes las peticiones que éstas les formulen;
+
+III. Promover acciones de capacitación en materia de derechos humanos dirigidas a servidores públicos del Poder Ejecutivo a través del mecanismo de coordinación de la Red Estatal en materia de Derechos Humanos, así como el resto de las acciones que se deriven para el fortalecimiento de la cultura de los Derechos Humanos en las dependencias del Poder Ejecutivo Estatal y en su caso en los municipios del Estado u organismos no gubernamentales, cuando así lo soliciten;
+
+IV. Coadyuvar, proporcionando la información que se encuentre en su poder, para los sistemas de información del Poder Ejecutivo respecto a la atención a las víctimas y ofendidos de delitos, así como de violaciones a los derechos humanos;
+
+V. Registrar y dar seguimiento a los asuntos de su competencia, a través de la red estatal de Derechos Humanos, administrando la información que se genere, y
+
+VI. Las demás que le confiera la Dirección General de Derechos Humanos.
 
 ## Título Séptimo. Subsecretaría del Trabajo y Previsión Social
 
-### Capítulo III. Dirección General de Promoción y Desarrollo Laboral
+### Capítulo II. Dirección General del Trabajo
 
 ###### Artículo 80.
 
@@ -2109,9 +2303,11 @@ VI. Establecer mecanismos para facilitar el cumplimiento de la normatividad labo
 
 VII. Fomentar una cultura laboral y empresarial para la adopción de modelos de relaciones laborales y de responsabilidad social, basados en el respeto a la dignidad de la persona, la productividad, la competitividad y el desarrollo de la comunidad, a través del diálogo y la búsqueda de consensos.
 
-### Capítulo IV. Dirección de Gestión Administrativa del Trabajo y Previsión Social
+### Capítulo III. Dirección General de Promoción y Desarrollo Laboral
 
-Facultades de la Dirección de Gestión Administrativa del Trabajo y Previsión Social
+#### Sección Tercera. Dirección de Desarrollo para el Trabajo Productivo
+
+Facultades de la Dirección de Desarrollo para el Trabajo Productivo
 
 ###### Artículo 82.
 
@@ -2149,6 +2345,10 @@ IX. Formar un archivo con los informes de actividades de los Tribunales de Traba
 
 X. Coordinar y realizar visitas de supervisión a las unidades administrativas de la Dirección General del Trabajo, a fin de verificar el seguimiento de los programas implementados.
 
+#### Sección Cuarta. Dirección para el Desarrollo Sindical
+
+Facultades de la Dirección para el Desarrollo Sindical
+
 ###### Artículo 84.
 
 Las juntas locales y especiales de Conciliación y Arbitraje, así como el Tribunal de Conciliación y Arbitraje del Estado, tienen las facultades y obligaciones que les establezcan respectivamente la Ley Federal del Trabajo, la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, los demás ordenamientos jurídicos aplicables o el Director General del Trabajo.
@@ -2169,11 +2369,11 @@ El Director General del Trabajo dará cuenta al Gobernador del Estado, de las qu
 
 ###### Artículo 87.
 
-La Procuraduría de la Defensa del Trabajo tiene las facultades y obligaciones que le establezcan la Ley Federal del Trabajo, la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, los demás ordenamientos jurídicos aplicables o el Director General del Trabajo.
+La Procuraduría de la Defensa del Trabajo tiene las facultades y obligaciones que le establezcan la Ley Federal del Trabajo, la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, el Reglamento de la Procuraduría de la Defensa del Trabajo y los demás ordenamientos jurídicos aplicables o que le asigne la Dirección General del Trabajo.
 
-### Capítulo V. Dirección de Gestión de Proyectos y Procesamiento de Información del Trabajo y Previsión Social
+### Capítulo IV. Dirección de Gestión Administrativa del Trabajo y Previsión Social
 
-Facultades de la Dirección de Gestión de Proyectos y Procesamiento de Información del Trabajo y Previsión Social
+Facultades de la Dirección de Gestión Administrativa del Trabajo y Previsión Social
 
 ###### Artículo 88.
 
@@ -2291,17 +2491,17 @@ VII. Fomentar la cultura de la negociación de los contratos colectivos como pre
 
 VIII. Las demás que le señalen las disposiciones legales y reglamentarias aplicables, o le confiera el Director General de Promoción y Desarrollo Laboral.
 
-### Capítulo Único. Órganos Desconcentrados
+### Capítulo V. Dirección de Gestión de Proyectos y Procesamiento de Información del Trabajo y Previsión Social
 
-Órganos desconcentrados
+Facultades de la Dirección de Gestión de Proyectos y Procesamiento de Información del Trabajo y Previsión Social
 
 ###### Artículo 93.
 
 La Dirección de Gestión Administrativa del Trabajo y Previsión Social tiene las facultades señaladas en el artículo 9 del presente Reglamento.
 
-### Capítulo I. Suplencias
+### Capítulo Único. Órganos Desconcentrados
 
-Suplencia del Secretario
+Órganos desconcentrados
 
 ###### Artículo 94.
 
@@ -2329,9 +2529,9 @@ X. Las demás que le señale el Subsecretario del Trabajo y Previsión Social.
 
 ## Título Octavo. Órganos Desconcentrados
 
-### Capítulo II. Relaciones de Trabajo entre la Secretaría y sus Trabajadores
+### Capítulo I. Suplencias
 
-Normatividad aplicable a las relaciones de trabajo de la Secretaría
+Suplencia del Secretario
 
 ###### Artículo 95.
 
@@ -2340,6 +2540,10 @@ Para la más eficaz atención y eficiente despacho de los asuntos de su competen
 Los órganos desconcentrados y sus titulares tendrán las competencias y facultades que les señale el instrumento jurídico que los cree o regule y los acuerdos de delegación de facultades del Secretario.
 
 ## Título Noveno. Suplencias y Relaciones de Trabajo entre la Secretaría y sus Trabajadores
+
+### Capítulo II. Relaciones de Trabajo entre la Secretaría y sus Trabajadores
+
+Normatividad aplicable a las relaciones de trabajo de la Secretaría
 
 ###### Artículo 96.
 
@@ -2452,3 +2656,21 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NUMERO 149, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Operación de la Dirección General de Derechos Humanos
+
+Artículo Segundo. La Secretaría de Finanzas, Inversión y Administración, deberá realizar los ajustes presupuestales y administrativos que correspondan para proveer a la Secretaría de Gobierno de los recursos financieros, humanos y materiales necesarios para la operación y funcionamiento de la Dirección General de Derechos Humanos prevista en este Decreto.
+
+Transferencia de Expedientes
+
+Artículo Tercero. Los expedientes que en materia de derechos humanos a la fecha se encuentren en trámite en las unidades administrativas de la Secretaría de Gobierno, se transferirán a la Dirección General de Derechos Humanos.
