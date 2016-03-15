@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-99956"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-27"
-last_updated: "2015-02-26"
+last_updated: "2016-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-19"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de marzo de 2014.
 
@@ -145,6 +145,10 @@ i. Dirección General Adjunta de Análisis e Inspección “A”
 
 ii. Dirección General Adjunta de Análisis e Inspección “B”
 
+> <small>(ADICIONADO, D.O.F. 15 DE MARZO DE 2016)</small>
+
+iii. Dirección General Adjunta de Análisis e Inspección “C”
+
 E. Dirección General de Administración y Seguimiento de Activos
 
 i. Dirección General Adjunta de Administración de Activos
@@ -239,7 +243,9 @@ El Director General de Seguimiento de Instituciones y Análisis será suplido en
 
 El Director General de Resoluciones Bancarias será suplido en sus ausencias por el titular de la Dirección General Adjunta de Métodos de Resolución, o por el titular de la Dirección General Adjunta de Seguimiento de Resoluciones Bancarias, en el orden indicado.
 
-El Director General de Visitas de Inspección será suplido en sus ausencias por el titular de la Dirección General Adjunta de Análisis e Inspección “A”, o por el titular de la Dirección General Adjunta de Análisis e Inspección “B”, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 15 DE MARZO DE 2016)</small>
+
+El Director General de Visitas de Inspección será suplido en sus ausencias por el titular de la Dirección General Adjunta de Análisis e Inspección “A”, por el titular de la Dirección General Adjunta de Análisis e Inspección “B”, o por el titular de la Dirección General Adjunta de Análisis e Inspección “C”, en el orden indicado.
 
 El Director General de Administración y Seguimiento de Activos será suplido en sus ausencias por el titular de la Dirección General Adjunta de Administración de Activos, o por el titular de la Dirección General Adjunta de Análisis y Seguimiento de Activos, en el orden indicado.
 
@@ -1219,9 +1225,11 @@ Las reglas, disposiciones, resoluciones o acuerdos que conforme a la Ley o la Le
 
 ## TÍTULO TERCERO. Del Control y Evaluación
 
+> <small>(REFORMADO, D.O.F. 15 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-El Instituto cuenta con un Órgano Interno de Control, integrado por su titular y los titulares de las Áreas de Auditoría Interna; Responsabilidades y Quejas, y Auditoría para Desarrollo y Mejora de la Gestión Pública, quienes serán designados en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, para ejercer sus facultades, en el ámbito de sus respectivas competencias, previstas en el Reglamento Interior de la Secretaría de la Función Pública y en los demás ordenamientos legales y administrativos aplicables. Dichos titulares se auxiliarán, para el ejercicio de sus atribuciones, con el personal asignado al Órgano Interno de Control.
+El Instituto cuenta con un Órgano Interno de Control, integrado por su titular y los titulares de las Áreas que determine el Reglamento Interior de la Secretaría de la Función Pública y los demás ordenamientos legales y administrativos aplicables. Dichos titulares se auxiliarán, para el ejercicio de sus atribuciones, con el personal asignado al Órgano Interno de Control.
 
 ## TRANSITORIOS
 
@@ -1258,3 +1266,13 @@ CUARTO.- El personal, expedientes en trámite, archivo, mobiliario y, en general
 QUINTO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas o áreas que cambian de denominación o ajustan sus atribuciones, por virtud de la expedición del presente Acuerdo, se entenderán hechas o conferidas a las unidades administrativas o áreas que asuman dichas atribuciones conforme a lo establecido en este ordenamiento. Sin perjuicio de lo anterior, los lineamientos, acuerdos, reglas y demás disposiciones expedidas por el Instituto deberán ajustarse, en lo conducente, a lo dispuesto en el presente Acuerdo.
 
 SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
+
+D.O.F. 15 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO”.]
+
+PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las unidades administrativas a que se refiere el presente Acuerdo, deberán relizar (sic) los ajustes que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
