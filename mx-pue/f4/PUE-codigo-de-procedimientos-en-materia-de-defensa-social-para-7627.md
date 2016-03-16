@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2016-03-11"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SO
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1101,9 +1101,9 @@ T.- Falsificación de acciones, obligaciones y otros documentos de crédito púb
 
 U.- Falsificación de sellos, marcas y punzones, previsto en el artículo 248;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
-V.- Falsificación de documentos públicos previstos en el artículo 198 Bis fracción I, 252 segundo párrafo y 253 fracciones I y II en relación con los artículos 250, 251, 253 Bis primer párrafo, 442 fracción XI, 443 fracción VIII y 445 fracción II, así como falsedad en declaraciones e informes dados a una autoridad, previstos en el artículo 255 fracción II, cuando se encuentre en el supuesto previsto en el párrafo tercero;
+V.- Falsificación de documentos públicos previstos en el artículo 198 Bis fracción I, 252 segundo párrafo, 253 fracciones I y II en relación con los artículos 250, 251, 253 Bis primer párrafo y 253 fracción II bis, así como falsedad en declaraciones e informes dados a una autoridad, previstos en el artículo 255 fracción II, cuando se encuentre en el supuesto previsto en el párrafo tercero;
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -4400,3 +4400,15 @@ P.O. 11 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 829 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 91, LAS FRACCIONES VIII Y IX DEL 231, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 231, TODOS DE LA LEY ORGÁNICA MUNICIPAL, ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 253 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA LETRA V DEL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglamentarias para la aplicación del presente Decreto.
+
+TERCERO. Las autoridades municipales que coadyuven con la prestación del servicio a que se refiere este Decreto, deberán acreditar la capacitación necesaria en términos de los lineamientos que emita la Secretaría General de Gobierno, así como de la convocatoria y demás disposiciones administrativas aplicables.
+
+CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
