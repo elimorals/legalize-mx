@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2016-03-11"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3044,6 +3044,10 @@ Incurrirán también en las sanciones señaladas en el artículo que antecede:
 I.- El que, por engaño o sorpresa, hiciere que algún funcionario o empleado firme un documento público, que no habría firmado sabiendo su contenido;
 
 II.- El Notario o cualquier funcionario público que, en ejercicio de sus funciones, expida una certificación de hechos que no sean ciertos, o dé fe de lo que no consta en autos, registros, protocolos o documentos;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+II Bis.- Cualquier autoridad en ejercicio de funciones del Registro del Estado Civil de las Personas que expida una certificación de hechos que no sean ciertos, o dé fe de lo que no consta en registros o documentos;
 
 III.- El que, para eximirse de una obligación o de un servicio impuesto por la Ley, suponga una certificación de impedimento que no tenga, sea que haga parecer dicha certificación como expedida por un médico o un cirujano real o supuesto, sea que tome el nombre de una persona real atribuyéndole falsamente la calidad de médico o cirujano;
 
@@ -6358,3 +6362,15 @@ P.O. 11 DE MARZO DE 2016.
 PRIMERO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 829 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 91, LAS FRACCIONES VIII Y IX DEL 231, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 231, TODOS DE LA LEY ORGÁNICA MUNICIPAL, ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 253 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA LETRA V DEL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglamentarias para la aplicación del presente Decreto.
+
+TERCERO. Las autoridades municipales que coadyuven con la prestación del servicio a que se refiere este Decreto, deberán acreditar la capacitación necesaria en términos de los lineamientos que emita la Secretaría General de Gobierno, así como de la convocatoria y demás disposiciones administrativas aplicables.
+
+CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
