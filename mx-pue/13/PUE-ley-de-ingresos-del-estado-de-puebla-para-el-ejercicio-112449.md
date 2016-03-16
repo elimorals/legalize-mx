@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-112449"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-21"
-last_updated: "2015-12-23"
+last_updated: "2016-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2016
 
 > <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO EL PRESENTE ORDENAMIENTO REGIRÁ DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DEL AÑO DOS MIL DIECISÉIS, O HASTA EN TANTO ENTRE EN VIGOR LA QUE REGIRÁ PARA EL SIGUIENTE EJERCICIO FISCAL.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el lunes 21 de diciembre de 2015.
 
@@ -5081,7 +5081,7 @@ I.- Los actos por los que se soliciten los servicios mencionados se refieran a i
 
 II.- El valor comercial del inmueble no exceda de $550,060.00;
 
-III.- El propietario, poseedor o su cónyuge no tenga otro u otros inmuebles registrados a su nombre en el Estado de Puebla;
+III.- (DEROGADA, P.O. 16 DE MARZO DE 2016)
 
 IV.- La persona física o moral podrá ser beneficiaria del estímulo fiscal una sola vez; y
 
@@ -5160,3 +5160,11 @@ PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Es
 SEGUNDO.- El estímulo fiscal al que se refiere el artículo 96 de la Ley de Ingresos del Estado de Puebla para el ejercicio fiscal dos mil dieciséis, será aplicable para todos los asuntos cuyo trámite se inicie durante el mencionado ejercicio fiscal hasta su conclusión.
 
 TERCERO.- Por ser el presente asunto de urgente y obvia resolución en términos de lo establecido por los artículos 69 de la Constitución Política del Estado Libre y Soberano de Puebla; 151 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; y 121 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se solicita la dispensa del trámite correspondiente.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LOS INCISOS B) Y C) DEL ARTÍCULO 8 DE LA LEY PARA LA REGULARIZACIÓN DE LA PROPIEDAD INMOBILIARIA DEL ESTADO DE PUEBLA, Y DEROGA LA FRACCIÓN III DEL ARTÍCULO 96 DE LA LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2016”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
