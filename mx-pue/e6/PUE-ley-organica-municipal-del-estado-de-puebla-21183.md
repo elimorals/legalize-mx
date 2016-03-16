@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2015-10-19"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1427,7 +1427,7 @@ XLIX.- Nombrar, a propuesta del Presidente, al Cronista Municipal;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-L.- Impulsar en el Municipio los programas que en favor de las personas con discapacidad, niñas y niños, mujeres y personas adultas mayores promuevan organismos nacionales e internacionales y diseñar y aplicar los propios, así corno llevar a cabo campañas de concientización, sensibilización y cultura de la denuncia de la población para fomentar el respeto hacia los mismos.
+L.- Impulsar en el Municipio los programas que en favor de las personas con discapacidad, niñas y niños, mujeres y personas adultas mayores promuevan organismos nacionales e internacionales y diseñar y aplicar los propios, así como llevar a cabo campañas de concientización, sensibilización y cultura de la denuncia de la población para fomentar el respeto hacia los mismos.
 
 De igual forma instalar en las oficinas de atención al público la simbología de los distintos tipos de discapacidad, a fin de informar, que en dicha oficina se otorga un servicio diferencial a las personas con discapacidad;
 
@@ -1671,7 +1671,9 @@ XV.- Reunir oportunamente los datos estadísticos de la Municipalidad y difundir
 
 XVI.- Exigir de los encargados de las oficinas respectivas, las noticias que periódicamente y por disposición de Ley tienen obligación de rendir;
 
-XVII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2016)</small>
+
+XVII.- Coadyuvar con las autoridades del Registro del Estado Civil de las Personas en términos de las disposiciones aplicables;
 
 XVIII.- Suplir a los menores de edad el consentimiento que necesiten para contraer matrimonio, excepto en la Capital del Estado, en los casos de irracional negativa de los ascendientes o tutores. En estos casos oirán a los que hayan negado el consentimiento y al Ministerio Público;
 
@@ -2325,7 +2327,7 @@ II.- Ningún servidor público del Municipio o de las Entidades Paramunicipales,
 
 III.- Ningún servidor público del Municipio o de las Entidades Paramunicipales podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, en los casos previstos por la Constitución Política del Estado, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dicha remuneración no podrá exceder la mitad de la remuneración establecida para el Gobernador del Estado o para el Presidente Municipal, en la Ley o en el Presupuesto de Egresos correspondiente;
 
-IV- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la legislación aplicable en la materia, Decreto Legislativo, Contrato Colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración.
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la legislación aplicable en la materia, Decreto Legislativo, Contrato Colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración.
 
 Quedan excluidos o condicionados los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y
 
@@ -3297,9 +3299,19 @@ VI.- Con relación a las servidumbres legales, solicitar al Ayuntamiento que se 
 
 VII.- Coadyuvar con el Ayuntamiento respecto a la conservación de los bosques, arboledas, puentes, calzadas, monumentos, antigüedades y demás objetos de propiedad pública, dentro su pueblo;
 
-VIII.- Gestionar ante el Ayuntamiento, la construcción y conservación de las fuentes y surtidores públicos de agua y que haya abundancia de este líquido tanto para el consumo de las personas como para abrevadero de los ganados; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
-IX.- Los demás que les impongan o confieran las leyes.
+VIII.- Gestionar ante el Ayuntamiento, la construcción y conservación de las fuentes y surtidores públicos de agua y que haya abundancia de este líquido tanto para el consumo de las personas como para abrevadero de los ganados;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+
+IX.- Coadyuvar con las autoridades del Registro del Estado Civil de las Personas en términos de las disposiciones aplicables.
+
+Los Presidentes Auxiliares serán responsables penal y administrativamente por las faltas en las que incurran en la prestación de este servicio; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+X.- Los demás que les impongan o confieran las leyes.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -3852,3 +3864,15 @@ P.O. 19 DE OCTUBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 829 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 91, LAS FRACCIONES VIII Y IX DEL 231, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 231, TODOS DE LA LEY ORGÁNICA MUNICIPAL, ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 253 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA LETRA V DEL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglamentarias para la aplicación del presente Decreto.
+
+TERCERO. Las autoridades municipales que coadyuven con la prestación del servicio a que se refiere este Decreto, deberán acreditar la capacitación necesaria en términos de los lineamientos que emita la Secretaría General de Gobierno, así como de la convocatoria y demás disposiciones administrativas aplicables.
+
+CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
