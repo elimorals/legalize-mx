@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-deuda-publica-para-el-estado-de-morelos-62071"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2015-12-08"
+last_updated: "2016-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -139,6 +139,10 @@ XXVII.- Órganos de Gobierno: Los consejos, juntas directivas, comités técnico
 
 XXVIII.- Registro: El Registro de Obligaciones y Empréstitos del Estado de Morelos.
 
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+XXIX.- Gasto corriente: Erogación que no tiene como contrapartida la creación de un activo, sino que constituye un acto de consumo y se utiliza para el pago de remuneraciones, sueldos o salarios, seguridad social de los trabajadores, la compra de insumos, bienes y servicios, prestación de subsidios y transferencias, servicios de la deuda, deuda, así como pago de laudos laborales.
+
 ###### Artículo 4.
 
 Los recursos obtenidos por las entidades mediante operaciones de deuda pública, únicamente podrán ser destinados a inversiones públicas productivas.
@@ -148,6 +152,10 @@ La aplicación de los recursos derivados de operaciones de deuda pública, podr�
 ###### Artículo 5.
 
 Queda prohibido a las entidades contraer obligaciones de pasivo, que constituyan deuda pública, para financiar gasto corriente.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+
+En ningún caso y bajo ninguna circunstancia el monto de la deuda podrá destinarse para gasto corriente; en caso de que se utilice para gasto corriente, el funcionario público pagara de su propio peculio el monto erogado por este concepto.
 
 ###### Artículo 6.
 
@@ -1050,3 +1058,11 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRECIENTOS VEINTINUEVE POR EL QUE SE ADICIONA LA FRACCIÓN XXIX AL ARTICULO 3 Y SE ADICIONA EN UN SEGUNDO PÁRRAFO AL ARTICULO 5, AMBOS DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
