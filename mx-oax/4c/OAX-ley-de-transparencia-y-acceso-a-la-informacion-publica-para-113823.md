@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2016-03-11"
+last_updated: "2016-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "OAX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE NO VETADA, HASTA EN TANTO EL CONGRESO DEL ESTADO RESUELVA LAS OBSERVACIONES PENDIENTES, EN CONSECUENCIA SE PUBLICA EL DECRETO NÚMERO 1690 POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA EN EL P.O. DE 11 DE MARZO DE 2016”.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -43,9 +45,21 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXAC
 
 [El artículo 1, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
 ## TÍTULO SEGUNDO (SIC). DE LA CULTURA Y OBLIGACIONES DE LA TRANSPARENCIA
 
 ### CAPÍTULO II. CATÁLOGO DE DEFINICIONES
+
+###### Artículo 1.
+
+...
+
+...
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+
+Todos los plazos establecidos en días en la presente Ley, se entenderá que se refieren a días hábiles, exceptuándose de este precepto los que específicamente se establezcan en días naturales.
 
 ###### Artículo 2.
 
@@ -157,7 +171,9 @@ XXIII. Instituto Nacional: Instituto Nacional de Transparencia, Acceso a la Info
 
 XXIV. Instituciones de Beneficencia: Toda institución, asociación, fundación o ente económico que realice actos de beneficencia, en términos de la ley de la materia;
 
-XXV. [Esta fracción fue observada por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+
+XXV. Ley: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
 
 XXVI. Ley Federal: Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
@@ -177,7 +193,9 @@ XXXIII. Protección de Datos Personales: La garantía que tutela la privacidad d
 
 XXXIV. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla, de conformidad con las disposiciones normativas aplicables;
 
-XXXV. [Esta fracción fue observada por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+
+XXXV. Reglamento: Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
 
 XXXVI. Servidor público: Los señalados en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
 
@@ -719,6 +737,66 @@ Los Sujetos Obligados podrán establecer comunicación con los ciudadanos, a tra
 
 [El artículo 49, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por el artículo 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
+###### Artículo 49.
+
+...
+
+...
+
+I. ...;
+
+II. ...;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+III. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+IV. Se entregue al Estado mexicano expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+V. Dañe la estabilidad económica y financiera del Estado y Municipios;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+VI. Obstruya las actividades de prevención o persecución de los delitos;
+
+VII. ...;
+
+VIII. ...;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+IX. Contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto se adoptada la decisión definitiva, la cual deberá estar documentada. Se considera que se ha adoptado la decisión definitiva cuando el o los servidores públicos responsables de tomar la resolución resuelvan de manera concluyente una etapa, sea o no susceptible de ejecución;
+
+X. ...;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+XI. Contienen los expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio en tanto la sentencia no haya causado ejecutoria.
+
+Una vez que dicha resolución cause ejecutoria los expedientes serán públicos, salvo la información reservada o confidencial que pudieran contener;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+XII. Afecte los derechos del debido proceso;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+XIII. Se contiene en los expedientes de las denuncias y procedimientos de juicio político, que se lleven a cabo, ante el Congreso del Estado, de conformidad con lo dispuesto por los artículos 59 fracción XLVI, 117 y 118 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+XIV. Obstruya los procedimientos para fincar responsabilidad a servidores públicos, en tanto no se haya dictado la resolución administrativa; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+XV. Por disposición expresa de una Ley tenga tal carácter, siempre que sea acorde con las bases, principios y disposiciones establecidos en la Ley General, en esta Ley y no las contravengan; así como las previstas en Instrumentos Internacionales.
+
 ###### Artículo 50.
 
 La información clasificada como reservada en los términos de la Ley General o de la presente ley, podrá permanecer con tal carácter hasta por un periodo de cinco años.
@@ -941,7 +1019,15 @@ El Instituto tiene la facultad de establecer su funcionamiento interno, en los t
 
 El Congreso del Estado, a través del Presupuesto de Egresos del Estado, analizará y, en su caso, aprobará los recursos que el Instituto solicite para el cumplimiento de sus funciones. Los recursos previstos para el Instituto no podrán ser inferiores en términos reales a los asignados en el ejercicio fiscal anterior, excepto cuando corresponda a una reducción generalizada del gasto para todas las dependencias y entidades públicas, o cuando el Instituto no presente los informes del ejercicio presupuestal que correspondan o si habiéndolos presentado existieran insuficiencias en su ejecución.
 
-[El artículo 74, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+
+###### Artículo 74.
+
+El Consejo General del Instituto administrará su patrimonio conforme a la presente Ley y su reglamento interior, tomando en consideración lo siguiente:
+
+I. El ejercicio del presupuesto deberá ajustarse a los principios de austeridad, honestidad, legalidad, racionalidad, transparencia y optimización de recursos, y
+
+II. De manera supletoria, podrán aplicarse en la materia, los ordenamientos jurídicos estatales en tanto no se opongan a la autonomía, naturaleza y funciones propias del Instituto.
 
 ###### Artículo 75.
 
@@ -972,8 +1058,6 @@ Las relaciones laborales generadas entre el Instituto y su personal se regirán 
 ### CAPÍTULO III. DEL ACCESO A LA INFORMACIÓN PÚBLICA EN EL ESTADO
 
 [El artículo 109, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
-
-Artículo 110 (SIC). Toda persona, sin necesidad de acreditar interés alguno, por sí o a través de su representante legal, tendrá acceso gratuito a la información pública y a sus datos personales en poder de los sujetos obligados, salvo los casos de excepción contemplados por esta ley.
 
 ###### Artículo 81.
 
@@ -1177,7 +1261,9 @@ VII. En materia de participación comunitaria y ciudadana:
 
 a) Diseñar e instrumentar políticas de gobierno abierto, participación ciudadana y comunitaria en la materia;
 
-[El inciso b), fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+
+b) Establecer la organización y el funcionamiento del Consejo Consultivo Ciudadano;
 
 c) Fomentar, promover e incentivar los principios de gobierno abierto y la participación ciudadana y comunitaria en la materia, y
 
@@ -1259,7 +1345,9 @@ VII. Vigilar, con auxilio de la Secretaría General, el cumplimiento de los acue
 
 VIII. Proponer anualmente al Consejo General, el proyecto de presupuesto de egresos del instituto para su aprobación;
 
-IX. Remitir al titular del Poder Ejecutivo del Estado, el proyecto de presupuesto de egresos del instituto aprobado por el Consejo General, en los términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+
+IX. Remitir al Congreso del Estado, el proyecto de presupuesto de egresos del instituto aprobado por el Consejo General, en los términos de la ley de la materia;
 
 X. Ejercer las partidas presupuestales aprobadas;
 
@@ -1409,7 +1497,45 @@ IX. Participar en el Secretariado Técnico Local, y
 
 X. Las demás que le señalen las disposiciones normativas aplicables.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
+###### Artículo 107.
+
+...
+
+I. ...
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+II. Convocar al menos dos días antes de su celebración y conducir las sesiones ordinarias. Al menos diez días naturales antes de su celebración, el Presidente del Consejo Consultivo Ciudadano deberá solicitar al Presidente del Consejo General, una lista de temas de interés para el Instituto, debiendo responder éste último, en un plazo máximo de cinco días naturales;
+
+III. a la VIII. ...
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+
+###### Artículo 108.
+
+El Secretario Técnico del Consejo Consultivo Ciudadano tiene las siguientes atribuciones y obligaciones:
+
+I. Convocar por instrucciones del Presidente a sesiones ordinarias y extraordinarias del Consejo Consultivo Ciudadano y auxiliar al Presidente en la conducción de las mismas;
+
+II. Elaborar el orden del día de las sesiones ordinarias con al menos tres días de antelación y de las extraordinarias con al menos un día;
+
+III. Elaborar las actas de las sesiones y presentarlas para su aprobación;
+
+IV. Llevar un registro de la duración del cargo de los Consejeros;
+
+V. Notificar por acuerdo del Consejo Consultivo Ciudadano, el vencimiento del nombramiento de sus integrantes al Presidente del Consejo General.
+
+VI. Presentar un informe de su gestión anual y realizar la entrega recepción formalmente al Secretario Técnico que lo sustituya, y
+
+VII. Las demás que establezca el Reglamento Interno del Consejo Consultivo Ciudadano.
+
 ### CAPÍTULO IV. EL RECURSO DE REVISIÓN
+
+###### Artículo 110.
+
+Toda persona, sin necesidad de acreditar interés alguno, por sí o a través de su representante legal, tendrá acceso gratuito a la información pública y a sus datos personales en poder de los sujetos obligados, salvo los casos de excepción contemplados por esta ley.
 
 ###### Artículo 111.
 
@@ -1447,7 +1573,11 @@ Cuando las Unidades de Transparencia determinen la notoria incompetencia por par
 
 Si los sujetos obligados son competentes para atender parcialmente la solicitud de acceso a la información, deberán de dar respuesta respecto de dicha parte. Respecto de la información sobre la cual es incompetente se procederá conforme a lo señalado en el párrafo anterior.
 
-[El artículo 115, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+
+###### Artículo 115.
+
+Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con alguno de los requisitos señalados en el artículo 113 de esta Ley, el sujeto obligado dentro de los cinco días siguientes a la recepción de la solicitud, mandará requerir al solicitante en el medio señalado por éste para recibir notificaciones, a efecto de que en un plazo de cinco días contados, a partir del día siguiente a la notificación del requerimiento, aclare, precise o complemente su solicitud de acceso a la información. En caso de que el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo establecido en el artículo 124 de esta Ley. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir al solicitante para que subsane su solicitud.
 
 ###### Artículo 116.
 
@@ -1499,7 +1629,13 @@ II. El acceso suponga el pago de una contraprestación en los términos de los o
 
 III. No se requiera acreditar interés alguno.
 
-[El artículo 123, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por el artículo 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+
+###### Artículo 123.
+
+La respuesta a una solicitud de acceso a la información, deberá ser notificada al interesado en el menor tiempo posible, dicho plazo no podrá exceder de quince días, contados a partir del día siguiente a la presentación de aquella, precisando la modalidad en que será entregada la información, además del costo que en su caso pueda generarse.
+
+Excepcionalmente, el plazo a que se refiere el párrafo anterior, podrá ampliarse hasta por diez días más cuando existan razones que lo motiven. La ampliación del plazo se notificará al solicitante a más tardar el octavo día del plazo descrito. No podrán invocarse como causales de ampliación del plazo aquellos motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
 
 ###### Artículo 124.
 
@@ -1579,7 +1715,7 @@ II. El vencimiento del plazo para la entrega de la respuesta de la solicitud de 
 
 #### SECCIÓN TERCERA. LA SUBSTANCIACIÓN DEL RECURSO DE REVISIÓN
 
-[El artículo 134, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por el artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
 ###### Artículo 131.
 
@@ -1601,7 +1737,11 @@ VII. La copia de la respuesta que se impugna, salvo en caso de falta de respuest
 
 Adicionalmente se podrán anexar las pruebas y demás elementos que se consideren procedentes hacer del conocimiento del Instituto.
 
-[El artículo 132, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por el artículo 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+
+###### Artículo 132.
+
+En el caso de que se omita alguno de los requisitos previstos en las fracciones I, IV y V del artículo anterior, el Comisionado Ponente tendrá un plazo de tres días para prevenir al recurrente, a fin de que subsane las deficiencias del recurso de revisión. El recurrente tendrá un plazo de diez días contados a partir de la notificación del requerimiento que se le formule, para subsanar las deficiencias del Recurso referido. Transcurrido el plazo concedido al recurrente, sin que se hubiese cumplido la prevención, el recurso se desechará en términos de la presente Ley. La prevención suspende los plazos previstos en este Capítulo.
 
 ###### Artículo 133.
 
@@ -1610,6 +1750,14 @@ El comisionado ponente deberá suplir las deficiencias que presente el recurso d
 En ningún caso será necesario que el particular ratifique el recurso de revisión interpuesto.
 
 #### SECCIÓN CUARTA. LA RESOLUCIÓN DEL RECURSO DE REVISIÓN
+
+###### Artículo 134.
+
+El Instituto resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días, contados a partir de la admisión del mismo, en los términos que establezca la ley respectiva, plazo que podrá ampliarse por una sola vez y hasta por un periodo de veinte días.
+
+En el caso de existir tercero interesado se le hará la notificación para que en el plazo a que se refiere la fracción II acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes.
+
+Excepcionalmente, previa fundamentación y motivación, el Comisionado ponente podrá ampliar los plazos hasta por cinco días más, cuando la importancia y trascendencia del asunto así lo amerite.
 
 ###### Artículo 135.
 
@@ -1755,6 +1903,8 @@ Los recursos de inconformidad que se presenten ante este instituto en términos 
 
 [El artículo 156, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
+
 ###### Artículo 152.
 
 Cualquier persona podrá denunciar ante el Instituto, la falta de publicación en los portales electrónicos de los sujetos obligados, de las obligaciones de transparencia comunes y específicas que prevén la presente Ley, la Ley General y demás disposiciones aplicables.
@@ -1821,11 +1971,29 @@ En caso de que el Instituto considere que subsiste el incumplimiento total o par
 
 ### CAPÍTULO III. DE LAS SANCIONES
 
+###### Artículo 156.
+
+...
+
+I. ...
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+II. Multa, de veinte hasta trescientas veces el salario mínimo.
+
+...
+
+...
+
+...
+
 ###### Artículo 157.
 
 Si a pesar de la ejecución de las medidas de apremio previstas en el artículo anterior no se cumple con la determinación, se requerirá el cumplimiento al superior jerárquico para que en un plazo de cinco días lo instruya a cumplir sin demora. De persistir el incumplimiento, se aplicarán sobre el superior jerárquico las medidas de apremio establecidas en el artículo anterior.
 
 Transcurrido el plazo, sin que se haya dado cumplimiento, se determinarán las sanciones que correspondan.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE MARZO DE 2016)</small>
 
 ###### Artículo 158.
 
@@ -1907,15 +2075,27 @@ Cuando haya causa justificada por acuerdo indelegable del Instituto, podrá ampl
 
 En las normas respectivas del Instituto, se precisará toda circunstancia relativa a la forma, términos y cumplimiento de los plazos a que se refiere el procedimiento sancionatorio previsto en esta Ley, incluyendo la presentación de pruebas y alegatos, la celebración de audiencias, el cierre de instrucción y la ejecución de sanciones. En todo caso, será supletorio a este procedimiento sancionador lo dispuesto en las leyes en materia de procedimiento administrativo del orden jurídico que corresponda.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
 [El artículo 167, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
 
-Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien días de salario vigente en el Estado;
+I. ...
 
-II. (sic) Multa de cincuenta a doscientos días de salario vigente en el Estado, en los casos previstos en las fracciones II y IV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
-III. Multa de cien a trescientos días de salario vigente en el Estado, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
+Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien días de salario mínimo;
 
-Se aplicará multa adicional de cinco días de salario vigente en el Estado, por día, a quien persista en las infracciones citadas en los incisos anteriores.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+
+II. Multa de cincuenta a doscientos días de salario mínimo, en los casos previstos en las fracciones II y IV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+
+III. Multa de cien a trescientos días de salario mínimo, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+
+Se aplicará multa adicional de cinco días de salario mínimo, por día, a quien persista en las infracciones citadas en los incisos anteriores.
 
 ###### Artículo 168.
 
@@ -1931,7 +2111,9 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado, con fecha quince de marzo de dos mil ocho.
 
-[El artículo Tercero Transitorio, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2016)</small>
+
+TERCERO. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan a la presente Ley.
 
 Los procedimientos iniciados en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado, con fecha quince de marzo de dos mil ocho, seguirán rigiéndose por la misma, hasta su conclusión.
 
@@ -1970,3 +2152,13 @@ Tlalixtac de Cabrera, Centro, Oax. Febrero 26 de 2016
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. CARLOS SANTIAGO CARRASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1806.- MEDIANTE EL CUAL REALIZA MODIFICACIONES AL DECRETO NÚMERO 1690, MISMO QUE FUE VETADO DE FORMA PARCIAL POR EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, RELATIVO A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Comuníquese al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
