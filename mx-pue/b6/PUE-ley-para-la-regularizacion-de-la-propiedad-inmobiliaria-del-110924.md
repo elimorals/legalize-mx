@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-regularizacion-de-la-propiedad-inmobiliaria-del-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-23"
-last_updated: "2015-12-23"
+last_updated: "2016-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA REGULARIZACIÓN DE LA PROPIEDAD INMOBILIARIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Ley publicada en la Trigésima Primera Sección del Periódico Oficial del Estado de Puebla, el miércoles 23 de diciembre de 2015.
 
@@ -105,9 +105,9 @@ Para ello se requiere además:
 
 a) Que el inmueble que posea no se encuentre inscrito en el Registro Público de la Propiedad a favor de alguien;
 
-b) Que no sea propietaria de otro bien inmueble;
+b) (DEROGADO, P.O. 16 DE MARZO DE 2016)
 
-c) Que esa persona o su cónyuge no hayan adquirido, ni adquieran, más inmuebles a través del procedimiento de que trata esta Ley; y
+c) (DEROGADO, P.O. 16 DE MARZO DE 2016)
 
 d) Que el bien no esté sujeto al régimen agrario.
 
@@ -194,3 +194,13 @@ QUINTO.- Los trámites que se realicen al amparo de los programas a que se refie
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil quince. Diputado Presidente. SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. Diputado Vicepresidente. FRANCISCO RODRÍGUEZ ÁLVAREZ. Rúbrica. Diputado Secretario. CUPERTINO ALEJO DOMÍNGUEZ. Rúbrica. Diputada Secretaria. MA. EVELIA RODRÍGUEZ GARCÍA. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de (sic) Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica. El Secretario de Finanzas y Administración. C. GUILLERMO EDMUNDO BERNAL MIRANDA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LOS INCISOS B) Y C) DEL ARTÍCULO 8 DE LA LEY PARA LA REGULARIZACIÓN DE LA PROPIEDAD INMOBILIARIA DEL ESTADO DE PUEBLA, Y DEROGA LA FRACCIÓN III DEL ARTÍCULO 96 DE LA LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2016”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
