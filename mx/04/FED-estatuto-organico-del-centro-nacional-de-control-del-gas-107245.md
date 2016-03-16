@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-del-gas-107245
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-04-13"
-last_updated: "2015-04-13"
+last_updated: "2016-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107245&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-03-17"
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 13 de abril de 2015.
 
@@ -137,11 +137,15 @@ b. Dirección Ejecutiva de Recursos Materiales;
 
 c. Dirección Ejecutiva de Recursos Humanos.
 
-V. Unidad de Tecnologías de la Información.
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2016)</small>
 
-a. Dirección Ejecutiva de Sistemas;
+V. Unidad de Tecnologías Operacionales y de Información.
 
-b. Dirección Ejecutiva de Tecnologías de la Información y Comunicaciones.
+a. Dirección Ejecutiva de Tecnologías Operacionales;
+
+b. Dirección Ejecutiva de Sistemas de Información, y
+
+c. Dirección Ejecutiva de Infraestructura Tecnológica.
 
 VI. Órgano Interno de Control.
 
@@ -427,7 +431,9 @@ XI. Gestionar la aprobación y ejecución de los proyectos a su cargo, así como
 
 XII. Formular, de manera conjunta con la Unidad de Finanzas y Administración, la propuesta que se presentará al Director General, de la estructura organizacional de las Unidades Administrativas que le estén adscritas;
 
-XIII. Intervenir en la selección, nombramiento, desarrollo, capacitación, promoción y adscripción del personal a su cargo, así como autorizar los movimientos de éste al interior de su Unidad Administrativa;
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2016)</small>
+
+XIII. Intervenir en la selección, nombramiento, remoción, desarrollo, capacitación, promoción y adscripción del personal a su cargo, así como autorizar los movimientos de éste al interior de su Unidad Administrativa;
 
 XIV. Coordinar la formulación de los requerimientos presupuestarios de las Unidades Administrativas que le estén adscritas;
 
@@ -491,7 +497,9 @@ I. Instruir las acciones necesarias para que tanto el balance diario como la ope
 
 II. Proponer al Director General el plan quinquenal de expansión del Sistema con los requisitos que enumeren las disposiciones en la materia;
 
-III. Administrar y determinar la capacidad de Transporte y Almacenamiento disponible del Sistema y asignarla en los términos que apruebe la Comisión, de conformidad con la normativa aplicable, asimismo conjuntamente con la Unidad de Tecnologías de la Información mantener actualizado el sistema que permita a los usuarios interesados estar en igualdad de circunstancias;
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2016)</small>
+
+III. Administrar y determinar la capacidad de Transporte y Almacenamiento disponible del Sistema y asignarla en los términos que apruebe la Comisión, de conformidad con la normativa aplicable, asimismo conjuntamente con la Unidad de Tecnologías Operacionales y de Información, mantener actualizado el sistema que permita a los usuarios interesados estar en igualdad de circunstancias;
 
 IV. Gestionar la capacidad disponible del Sistema, incluida aquella que no sea de su propiedad, a efecto de verificar que la misma sea puesta a disposición de los usuarios interesados o en caso de una emergencia, caso fortuito o fuerza mayor de conformidad con los términos establecidos por la Comisión;
 
@@ -965,85 +973,159 @@ XVI. Las demás que le señalan otra normativa jurídica y las que le confiera d
 
 DE LA UNIDAD DE TECNOLOGÍAS DE LA INFORMACIÓN
 
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2016)</small>
+
 ###### Artículo 46.
 
-Le corresponde a la Unidad de Tecnologías de la Información, el ejercicio de las siguientes atribuciones:
+Le corresponde a la Unidad de Tecnologías Operacionales y de Información, el ejercicio de las siguientes atribuciones:
 
-I. Proponer al Director General los programas de tecnologías de la información y comunicaciones del Centro así como coordinar su elaboración, instrumentación y seguimiento;
+I. Planear y definir los programas de tecnologías operacionales y de información del Centro, así como coordinar su elaboración, instrumentación, seguimiento y evaluación;
 
-II. Proponer al Director General los mecanismos de simplificación, modernización, automatización y reingeniería de procesos, para el mejor uso y aprovechamiento de las tecnologías de información y comunicaciones;
+II. Dirigir los mecanismos de simplificación, modernización y automatización de procesos de negocio, para el mejor uso y aprovechamiento de las tecnologías operacionales y de información;
 
-III. Coordinar el desarrollo del portafolio de proyectos y servicios en materia de tecnologías de la información y comunicaciones;
+III. Dirigir la estrategia de innovación en materia de procesos de negocio y tecnologías operacionales y de información, así como de seguridad de la información;
 
-IV. Coadyuvar con la Unidad de Gestión Técnica y Planeación para mantener actualizado un sistema de información en línea con los elementos que determine la Comisión;
+IV. Establecer un modelo de gobierno que facilite la alineación de los procesos a los objetivos del Centro;
 
-V. Supervisar las actividades de mantenimiento y operación de tecnologías de la información y comunicaciones;
+V. Dirigir el proceso de implementación, integración, seguimiento y evaluación del portafolio de proyectos y servicios de tecnologías operacionales y de información;
 
-VI. Proponer al Director General el programa de adquisiciones de bienes y servicios en materia de tecnologías de la información y comunicaciones;
+VI. Establecer la arquitectura empresarial y estándares de tecnologías operacionales y de información, que habiliten la operación y mejora de los procesos del Centro;
 
-VII. Proponer al Director General los esquemas de seguridad, gestión de riesgos, planes de contingencia, acceso y uso de la información del Centro, transmitida o contenida mediante el uso de tecnologías de la información y comunicaciones, así como supervisar su implementación;
+VII. Dirigir la incorporación de nuevas tecnologías para la optimización de la gestoría, transporte y almacenamiento de gas, asegurando la seguridad y la protección al medio ambiente bajo estándares internacionales;
 
-VIII. Establecer los estándares del Centro en materia de seguridad, autentificación, privacidad y operación de los servicios de tecnologías de información y comunicaciones, así como los relacionados con el desarrollo de aplicaciones, infraestructura y arquitectura en las materias señaladas;
+VIII. Asegurar que el sistema de información del Centro, se mantenga actualizado y en línea con los elementos que determine la Comisión;
 
-IX. Determinar las actividades de control para la transición de las soluciones tecnológicas desarrolladas en los ambientes de operación y asegurar la gestión del cambio, su mantenimiento y soporte;
+IX. Dirigir la prestación de servicios de tecnologías operacionales y de información, así como autorizar, en su caso, la prestación de dichos servicios cuando sean proporcionados por terceros;
 
-X. Asignar los recursos de tecnologías de la información y comunicaciones, así como los servicios asociados a éstos, de acuerdo a los criterios institucionales;
+X. Coordinar el plan de recuperación en caso de desastre a efecto de dar continuidad a los servicios operativos nodales del Centro, así como dirigir los simulacros de recuperación respectivos;
 
-XI. Administrar los repositorios de conocimiento de los dominios tecnológicos, en términos de la normativa aplicable;
+XI. Asegurar la aplicación de los manuales, guías y estándares en materia de tecnologías operacionales y de información que se emitan, a fin de contribuir eficazmente al logro de la misión y objetivos del Centro;
 
-XII. Coordinar el plan de recuperación en caso de desastre a efecto de dar continuidad a los servicios operativos nodales del Centro, así como realizar los simulacros de recuperación respectivos;
+XII. Autorizar el uso y la asignación de recursos de tecnologías operacionales y de información;
 
-XIII. Coordinar la aplicación de las políticas de seguridad a efecto de cubrir las necesidades de protección informática del Centro;
+XIII. Dirigir el proceso para la integración de los requerimientos presupuestales en materia de tecnologías operacionales y de información;
 
-XIV. Asegurar la gobernabilidad aplicando los manuales, guías y estándares que para tal efecto se emitan, a fin de contribuir eficazmente al logro de la misión y objetivos del Centro;
+XIV. Dirigir los esquemas de seguridad, gestión de riesgos, planes de contingencia, acceso y uso de la información del Centro, transmitida o contenida mediante el uso de tecnologías operacionales y de información, así como organizar su implementación;
 
-XV. Aplicar las políticas de la Estrategia Digital Nacional, que fomente servicios transparentes y de mayor calidad con posibilidad de interoperabilidad a través de conexiones rápidas y seguras;
+XV. Establecer los estándares del Centro en materia de seguridad, autentificación, privacidad y operación de los servicios de tecnologías operacionales y de información, así como los relacionados con el desarrollo de soluciones, infraestructura y arquitectura en las materias señaladas, y
 
-XVI. Coordinar el monitoreo a los componentes de telecomunicaciones y seguridad informática a efecto de garantizar la funcionalidad de los mismos, y
+XVI. Las demás que le señalan otra normativa jurídica y las que le confiera directamente el Director General.
 
-XVII. Las demás que le señalan otra normativa jurídica y las que le confiera directamente el Director General.
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2016)</small>
 
 ###### Artículo 47.
 
-Le corresponde a la Dirección Ejecutiva de Sistemas, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
+Le corresponde a la Dirección Ejecutiva de Sistemas de Información, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
 
-I. Proponer a la Unidad de Tecnologías de la Información las medidas de implementación de tecnologías de información y comunicaciones;
+I. Proponer a la Unidad de Tecnologías Operacionales y de Información las estrategias, proyectos y medidas de implementación de soluciones de negocio;
 
-II. Gestionar el desarrollo o adquisición de sistemas informáticos institucionales, sus componentes y productos, así como las aplicaciones y servicios asociados a los mismos;
+II. Coordinar el establecimiento de la arquitectura empresarial del Centro;
 
-III. Proponer adecuaciones a los sistemas de información y bases de datos del Centro, cuando así lo requiera;
+III. Desarrollar e implementar la estrategia de innovación en materia de procesos de negocio y sistemas de información;
 
-IV. Colaborar en la elaboración de planes de trabajo de los proyectos de desarrollo informático;
+IV. Promover la alineación y vinculación de las soluciones de negocio con los objetivos del Centro;
 
-V. Determinar y proponer respecto a los proyectos de desarrollo informático, los recursos del personal, componentes tecnológicos y tiempo que estén asociados a cada uno de ellos;
+V. Coordinar la integración de la cartera institucional de iniciativas de mejora de soluciones de negocio;
 
-VI. Gestionar la seguridad informática, alineada a los procesos de administración de riesgos de tecnologías de la información en materia de sistemas informáticos, y
+VI. Gestionar el desarrollo y/o adquisición de sistemas empresariales, sus componentes y productos, así como las aplicaciones y servicios asociados a los mismos;
 
-VII. Las demás que le señalan otra normativa jurídica y las que le confiera directamente el Jefe de la Unidad de Tecnologías de la Información.
+VII. Diseñar, desarrollar, mantener, actualizar e integrar las soluciones de negocio que habilitan los procesos de negocio y complementan a los sistemas industriales del Centro;
+
+VIII. Colaborar en la elaboración de planes de trabajo de los proyectos de desarrollo de soluciones de negocio;
+
+IX. Determinar las actividades de control para la transición de las soluciones tecnológicas desarrolladas a los ambientes de operación y asegurar la gestión del cambio, su mantenimiento y soporte;
+
+X. Gestionar y administrar el catálogo de servicios de los sistemas de información, aplicando los criterios de asignación, seguimiento y uso, así como las aplicaciones y servicios asociados a éstos;
+
+XI. Coordinar la instrumentación de los mecanismos de seguridad en los sistemas de información;
+
+XII. Gestionar la seguridad informática, alineada a los procesos de administración de riesgos en materia de sistemas de información,
+
+XIII. Determinar y proponer respecto a los proyectos de desarrollo de sistemas de información, los recursos del personal, componentes tecnológicos y tiempo que estén asociados a cada uno de ellos;
+
+XIV. Gestionar soluciones integrales de infraestructura y comunicaciones para los sistemas de información, y
+
+XV. Las demás que le señalan otra normativa jurídica y las que le confiera directamente el Titular de la Unidad de Tecnologías Operacionales y de Información.
+
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2016)</small>
 
 ###### Artículo 48.
 
-Le corresponde a la Dirección Ejecutiva de Tecnologías de la Información y Comunicaciones, el ejercicio de las siguientes atribuciones:
+Le corresponde a la Dirección Ejecutiva de Infraestructura Tecnológica, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
 
-I. Gestionar la entrega de servicios informáticos institucionales, aplicando los criterios de asignación, seguimiento y uso de los equipos de cómputo y comunicaciones, así como las aplicaciones y servicios asociados a éstos;
+I. Proponer a la Unidad de Tecnologías Operacionales y de Información soluciones integrales de infraestructura y comunicaciones;
 
-II. Gestionar la seguridad informática, alineada a los procesos de administración de la seguridad informática y de administración de riesgos de tecnologías de la información y comunicaciones;
+II. Desarrollar e implementar la estrategia de innovación en materia de infraestructura tecnológica;
 
-III. Prestar los servicios informáticos, de telecomunicaciones y asistencia técnica;
+III. Gestionar el desarrollo y/o adquisición de los proyectos de modernización y habilitación de la infraestructura tecnológica y de comunicaciones para proveer los servicios en materia de tecnologías operacionales y de información del Centro;
 
-IV. Administrar la infraestructura y los servicios de tecnologías de la información y comunicaciones que se proporcionen a las Unidades Administrativas;
+IV. Administrar la información y datos técnicos de los procesos sustantivos y adjetivos, durante su ciclo de vida;
 
-V. Supervisar la ejecución de las pruebas sobre los sistemas informáticos utilizados en la administración y atención de procesos, de conformidad con las solicitudes de las Unidades Administrativas;
+V. Colaborar en la elaboración de planes de trabajo de los proyectos de desarrollo de soluciones de negocio y sistemas industriales;
 
-VI. Coordinar y revisar la información que se genere de los sistemas operativos y supervisar la administración de la base de datos;
+VI. Gestionar e instrumentar soluciones tecnológicas para integrar información de terceros al Centro;
 
-VII. Verificar la disponibilidad, mantenimiento y uso de los equipos de cómputo con los que cuenta el Centro;
+VII. Coordinar la entrega, cumplimiento y calidad de los procesos de gestión de servicios tecnológicos que habilitan los procesos de negocio;
 
-VIII. Implementar el monitoreo automatizado de los equipos de cómputo para su óptimo desempeño en el Centro;
+VIII. Administrar y supervisar los servicios en materia de tecnologías de información y comunicaciones, aun cuando sean proporcionados por terceros;
 
-IX. Supervisar el funcionamiento de los servidores informáticos requeridos para la operación del Centro, y
+IX. Administrar los ambientes no productivos de las tecnologías operacionales, soluciones de negocio y tecnologías de información y comunicaciones del Centro;
 
-X. Las demás que le señalan otra normativa jurídica y las que le confiera directamente el Jefe de la Unidad de Tecnologías de la Información.
+X. Administrar y controlar los ambientes productivos de las tecnologías operacionales, soluciones de negocio y tecnologías de información y comunicaciones del Centro;
+
+XI. Administrar el esquema funcional de asignación de roles y perfiles a usuarios de las soluciones de tecnologías operacionales y de información;
+
+XII. Coordinar la instrumentación de los mecanismos y controles de seguridad en las tecnologías operacionales, de información y comunicaciones;
+
+XIII. Administrar, operar, mantener, monitorear y restablecer en caso de incidentes la operación de la infraestructura de procesamiento, almacenamiento, base de datos y comunicaciones que soportan los procesos de negocio del Centro;
+
+XIV. Supervisar los planes de recuperación y restablecimiento de servicios de tecnologías de información y comunicaciones y verificar su cumplimiento, así como apoyar en la respuesta a incidentes;
+
+XV. Determinar y proponer respecto a los proyectos de tecnologías de información y comunicaciones, los recursos del personal, componentes tecnológicos y tiempo que estén asociados a cada uno de ellos;
+
+XVI. Gestionar la autorización para realizar la adquisición de bienes o contratación de servicios de tecnología de información y comunicaciones, y
+
+XVII. Las demás que le señalan otra normativa jurídica y las que le confiera directamente el Titular de la Unidad de Tecnologías Operacionales y de Información.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2016)</small>
+
+Artículo 48 bis.- Le corresponde a la Dirección Ejecutiva de Tecnologías Operacionales, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
+
+I. Proponer a la Unidad de Tecnologías Operacionales y de Información las estrategias, proyectos y medidas de implementación de tecnologías operacionales;
+
+II. Desarrollar e implementar la estrategia de innovación en materia de procesos de negocio y tecnologías operacionales;
+
+III. Coordinar la especificación y definición de estándares de los procesos industriales, de Supervisión, Control y Adquisición de Datos, denominado como sistemas SCADA, y de tecnologías operacionales, que habiliten los procesos sustantivos del Centro;
+
+IV. Gestionar el desarrollo y/o adquisición de los sistemas SCADA e industriales, así como las aplicaciones y servicios asociados a los mismos para operar, controlar y administrar el transporte de gas natural por ducto;
+
+V. Investigar e integrar nuevas tecnologías en el área de automatización de sistemas e infraestructura de los sistemas SCADA, para la optimización de la adquisición de datos y su integración a los procesos del Centro;
+
+VI. Diseñar, desarrollar, mantener, actualizar e integrar los sistemas industriales que habiliten los procesos de negocio y complementen a los sistemas de información del Centro;
+
+VII. Colaborar en la elaboración de planes de trabajo de los proyectos de desarrollo de sistemas industriales;
+
+VIII. Determinar y proponer, respecto a los proyectos de desarrollo de sistemas industriales, los recursos del personal, componentes tecnológicos y tiempo que estén asociados a cada uno de ellos;
+
+IX. Gestionar soluciones integrales de infraestructura y comunicaciones para los sistemas industriales;
+
+X. Administrar la información recolectada por los sistemas industriales y los sistemas SCADA, mediante medios electrónicos, para dar cumplimiento a los requerimientos de calidad de gas natural establecidos por la Comisión;
+
+XI. Gestionar e instrumentar soluciones tecnológicas para integrar información de terceros al Sistema de Transporte del Centro;
+
+XII. Gestionar y administrar el catálogo de servicios de los sistemas industriales, aplicando los criterios de asignación, seguimiento y uso, así como las aplicaciones y servicios asociados a éstos;
+
+XIII. Supervisar la instrumentación de los planes de recuperación y restablecimiento en la infraestructura de los sistemas SCADA y sistemas industriales del Centro;
+
+XIV. Gestionar mecanismos y controles de seguridad, confiabilidad y redundancia para los servicios digitales de monitoreo y control de los procesos industriales y de los sistemas SCADA y sistemas industriales;
+
+XV. Asegurar la confiabilidad y la disponibilidad de la infraestructura de los sistemas SCADA y de sistemas industriales del Centro;
+
+XVI. Formular el análisis de compatibilidad de protocolos y sistemas de comunicación entre los sistemas del Centro y de terceros;
+
+XVII. Gestionar la autorización para realizar la adquisición de bienes o contratación de servicios de Tecnologías Operacionales, y
+
+XVIII. Las demás que le señalan otra normativa jurídica y las que le confiera directamente el Titular de la Unidad de Tecnologías Operacionales y de Información.
 
 ## TÍTULO CUARTO. DE LA VIGILANCIA DEL CENTRO
 
@@ -1093,9 +1175,11 @@ Cuando sea necesario, los Jefes de Unidad, Directores Ejecutivos, Directores, Ge
 
 ### CAPÍTULO SEGUNDO. DE LOS ENCARGADOS DE DESPACHO POR SUPLENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MARZO DE 2016)</small>
+
 ###### Artículo 55.
 
-En sus ausencias, el Director General será suplido por el Jefe de la Unidad de Asuntos Jurídicos; por el Jefe de la Unidad de Finanzas y Administración; por el Jefe de la Unidad de Gestión Técnica y Planeación; por el Jefe de la Unidad de Transporte y Almacenamiento o por el Jefe de la Unidad de Tecnologías de la Información, en ese orden.
+En sus ausencias, el Director General será suplido por el Jefe de la Unidad de Asuntos Jurídicos; por el Jefe de la Unidad de Finanzas y Administración; por el Jefe de la Unidad de Gestión Técnica y Planeación; por el Jefe de la Unidad de Transporte y Almacenamiento o por el Jefe de la Unidad de Tecnologías Operacionales y de Información, en ese orden.
 
 En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será suplido por el Jefe de la Unidad de Asuntos Jurídicos o, en su defecto, por el Director Ejecutivo de lo Contencioso.
 
@@ -1103,7 +1187,9 @@ En toda clase de juicios y procedimientos en que deba intervenir el Director Gen
 
 La ausencia temporal de los Jefes de las Unidades será suplida por los titulares de las Direcciones Ejecutivas adscritas a su respectiva Unidad, en el orden en el que se enumeran en el artículo 10 de este Estatuto.
 
-La ausencia temporal de los titulares de las Direcciones Ejecutivas será suplida por servidores públicos de igual jerarquía en la Unidad que se encuentren adscritos, en el orden que establece el artículo 10 de este Estatuto.
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2016)</small>
+
+La ausencia temporal de los titulares de las Direcciones Ejecutivas será suplida por servidores públicos del nivel inmediato inferior, de acuerdo a la naturaleza de las funciones de la Unidad a la que se encuentren adscritos.
 
 Los demás servidores públicos serán suplidos en ausencias por los inmediatos inferiores que de ellos dependan, en el ámbito de su competencia, salvo que se trate de personal operativo.
 
@@ -1124,3 +1210,11 @@ SEGUNDO. La estructura orgánica autorizada del Centro deberá presentarse para 
 Este Estatuto fue expedido y aprobado por el Consejo de Administración del Centro Nacional de Control del Gas Natural, Organismo Público Descentralizado de la Administración Pública Federal, en su sesión 2 ordinaria, celebrada el día 8 de diciembre de 2014, mediante acuerdo número CA-009/2014, con fundamento en lo dispuesto en los artículos 15 segundo párrafo y 58, fracción VIII, de la Ley Federal de Entidades Paraestatales y en cumplimiento del Cuarto Transitorio del Decreto de su creación. Dicho Consejo encomendó a la Administración realizar las gestiones necesarias para su publicación en el Diario Oficial de la Federación.
 
 México, Distrito Federal, a 17 de marzo de 2015.- Con fundamento en el artículo 59, fracción XII, de la Ley Federal de las Entidades Paraestatales y en cumplimiento al Acuerdo número CA-009/2014, emitido por el Consejo de Administración en su sesión 2 ordinaria, celebrada el día 8 de diciembre de 2014, firma el Director General del Centro Nacional de Control del Gas Natural, David Madero Suárez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL”.]
+
+ÚNICO.- La presente modificación al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
