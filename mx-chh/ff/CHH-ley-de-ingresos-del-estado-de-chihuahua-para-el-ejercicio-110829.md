@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-11082
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-23"
-last_updated: "2015-12-23"
+last_updated: "2016-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 23 de diciembre de 2015.
 
@@ -125,7 +125,9 @@ De 11 a 30 empleados 20%
 
 De 31 a 50 empleados 10%
 
-Los contribuyentes interesados en la obtención de este estímulo fiscal a más tardar el 29 de enero de 2016, deberán presentar ante la recaudación de rentas, en original y copia, la siguiente documentación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2016)</small>
+
+Los contribuyentes interesados en la obtención de este estímulo fiscal deberán presentar, ante la recaudación de rentas, a más tardar el 31 de marzo de 2016, en original y copia, la siguiente documentación:
 
 l. Escrito libre mediante el cual solicitan la aplicación del estímulo fiscal.
 
@@ -135,7 +137,9 @@ l. Escrito libre mediante el cual solicitan la aplicación del estímulo fiscal.
 
 4. Poder del representante legal en caso de personas morales.
 
-El estímulo fiscal aplicará respecto a cada uno de los periodos de pago correspondientes al ejercicio fiscal 2016, que sean cubiertos en tiempo o dentro del plazo establecido para su declaración y entero, siempre y cuando los contribuyentes hayan presentado al 29 de enero de 2016, la documentación a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+
+El estímulo fiscal aplicará respecto a cada uno de los periodos de pago correspondientes al ejercicio fiscal 2016, que sean cubiertos en tiempo o dentro del plazo establecido para su declaración y entero, siempre y cuando los contribuyentes hayan presentado al 31 de marzo de 2016, la documentación a que se refiere este artículo y se encuentren al corriente en el pago del Impuesto sobre Nóminas.
 
 ARTÍCULO DECIMOTERCERO.- Cuando la información que solicite la ciudadanía, y que deba entregarse de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, esté disponible en medios distintos a los señalados en la tarifa de derechos anexa a esta Ley, se cobrará por concepto de derecho, el valor comercial que dicho medio tenga en el lugar en que se emita la información.
 
@@ -216,3 +220,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ.
 Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
 
 > <small>[N. DE E. VÉASE TARIFA PARA EL COBRO DE DERECHOS PARA EL EJERCICIO FISCAL 2016, EN EL P.O. DE 23 DE DICIEMBRE DE 2015, PÁGINAS DE LA 24 A 55.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1347/2016 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO DUODÉCIMO DE LA LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA, PARA EL EJERCICIO FISCAL 2016".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
