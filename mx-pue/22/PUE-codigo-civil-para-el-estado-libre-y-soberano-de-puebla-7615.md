@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2015-12-31"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -5268,6 +5268,10 @@ El Titular del Poder Ejecutivo establecerá los planes, programas y políticas b
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 En las poblaciones donde no haya Juez del Registro del Estado Civil, la Dirección del Registro del Estado Civil de las Personas, determinará y coordinará las acciones conducentes a efecto de que se verifique el servicio de manera eficiente y permanente.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+
+La Secretaría General de Gobierno podrá, para efectos de este artículo, auxiliarse de la autoridad municipal correspondiente.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
 
@@ -20264,3 +20268,15 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 829 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 91, LAS FRACCIONES VIII Y IX DEL 231, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 231, TODOS DE LA LEY ORGÁNICA MUNICIPAL, ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 253 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA LETRA V DEL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglamentarias para la aplicación del presente Decreto.
+
+TERCERO. Las autoridades municipales que coadyuven con la prestación del servicio a que se refiere este Decreto, deberán acreditar la capacitación necesaria en términos de los lineamientos que emita la Secretaría General de Gobierno, así como de la convocatoria y demás disposiciones administrativas aplicables.
+
+CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
