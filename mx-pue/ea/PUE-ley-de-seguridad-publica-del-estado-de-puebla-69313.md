@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2014-11-27"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -361,9 +361,17 @@ I.- Presidir el Comité Interno de Seguridad Pública;
 
 II.- Diseñar y dirigir las políticas públicas en materia de protección civil y participación ciudadana;
 
-III.- Establecer las políticas en materia de comunicación social con respecto al Comité Interno de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
-IV.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
+III.- Establecer las políticas en materia de comunicación social con respecto al Comité Interno de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+
+IV.- Coordinar y ejecutar la política, programas y acciones relativas a la cohesión social, a la prevención del delito y a la prevención social de la violencia y la delincuencia; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+V.- Las demás que las leyes, reglamentos, decretos, acuerdos y convenios le atribuyan, así como las que le designe o delegue el Titular del Ejecutivo o el Sistema.
 
 ###### Artículo 19.
 
@@ -1888,3 +1896,11 @@ P.O. 27 DE NOVIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y IV Y ADICIONA LA FRACCIÓN V, TODAS DEL ARTÍCULO 18 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
