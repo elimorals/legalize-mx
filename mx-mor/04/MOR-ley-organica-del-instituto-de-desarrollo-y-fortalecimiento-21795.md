@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-2179
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-07-20"
-last_updated: "2014-11-19"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MOR"
 
 LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 20 de julio de 2001.
 
 Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajen con sus manos.- Poder Ejecutivo del Estado de Morelos.
 
-SERGIO ALBERTO ESTRADA CAJIGAL RÁMIREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
+SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED.
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
@@ -127,13 +127,13 @@ XVIII. Todas aquellas que le permitan cumplir con el objetivo fundamental del In
 
 XIX. Las demás que le otorguen otras Leyes y las que acuerde la Junta de Gobierno.
 
-Los casos no previstos por le presente Ley se resolverán por la Junta de Gobierno de acuerdo con las leyes aplicables; y
+Los casos no previstos por le (sic) presente Ley se resolverán por la Junta de Gobierno de acuerdo con las leyes aplicables; y
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN DEL INSTITUTO
 
 ### CAPÍTULO I. DE LOS ÓRGANOS DEL INSTITUTO
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
 ###### Artículo 7.
 
@@ -141,11 +141,9 @@ El Instituto para el cumplimiento de sus atribuciones se integrará con:
 
 I. Una Junta de Gobierno;
 
-II. Un Director General;
+II. Un Director General; y
 
-III. Un Consejo Consultivo; y
-
-IV. La estructura orgánica que requiera para su funcionamiento.
+III. La estructura orgánica que requiera para su funcionamiento.
 
 ###### Artículo 8.
 
@@ -279,71 +277,29 @@ I. Ser ciudadano morelense por nacimiento o residencia, en este último caso, de
 
 II. Ser mayor de treinta años, a la fecha de su designación;
 
-III. Haber obtenido título y cédula profesional de licenciatura o su equivalente, cuando menos cinco años antes del día de su designación;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+
+III. Contar con título y cédula profesional de licenciatura o su equivalente;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito intencional; y
 
 V. Tener reconocido prestigio en el estudio e investigación de la administración pública municipal;
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2016)</small>
 
 ### CAPÍTULO V. DEL CONSEJO CONSULTIVO
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
-
 ###### Artículo 13 Bis.
 
-El Instituto contará con un Consejo Consultivo, cuya función será de asesoría, análisis y propuesta, el cual se integrará de la siguiente manera:
-
-I. El titular de la Dirección General del Instituto, quien lo presidirá;
-
-II. Un representante designado por la Dirección General del Instituto, en calidad de Secretario Técnico, y
-
-III. Por cinco representantes de la sociedad civil, en calidad de vocales, correspondiente a los siguientes sectores:
-
-a) Un representante del sector académico;
-
-b) Un representante de la región norte del Estado;
-
-c) Un representante de la región sur del Estado;
-
-d) Un representante de la región oriente del Estado; y
-
-e) Un representante de la región poniente del Estado.
-
-Será criterio de selección de los representantes de la sociedad civil su especialización o amplia experiencia en materia de desarrollo municipal.
-
-Los miembros del Consejo Consultivo tendrán derecho a voz y voto, y ocuparán dicho cargo de manera honorífica.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2016)
 
 ###### Artículo 13 Ter.
 
-Los miembros del Consejo Consultivo pertenecientes a la sociedad civil serán electos por la Dirección General, la cual para el proceso de selección deberá publicar en el Periódico Oficial "Tierra y Libertad" y en un diario de amplia circulación en el Estado, previamente y con oportunidad, la correspondiente convocatoria, a fin de que los interesados procedan a inscribirse.
-
-El Consejo Consultivo podrá invitar, con voz pero sin voto, a los representantes del sector público, privado o social, que tengan relación o injerencia en la materia o puedan aportar información en el asunto que se vaya a desahogar en la sesión de que se trate.
-
-El Consejo Consultivo sesionará ordinariamente cuatro veces al año y podrá celebrar cuantas sesiones extraordinarias se requieran.
-
-Las decisiones del Consejo Consultivo se tomarán por mayoría de votos, teniendo quien lo preside voto de calidad, en caso de empate.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2016)
 
 ###### Artículo 13 Quáter.
 
-El Consejo Consultivo tendrá las atribuciones siguientes:
-
-I. Proponer al Instituto la realización de cursos o seminarios en materia de desarrollo municipal;
-
-II. Proponer al Instituto los planes y programas de capacitación municipal;
-
-III. Elaborar trabajos de investigación científica, estudio, análisis, encuestas y recopilación de información sobre desarrollo municipal;
-
-IV. Recabar la opinión de los vecinos de la comunidad en las acciones de relevancia social efectuadas por los Ayuntamientos, para hacerlas llegar al Instituto;
-
-V. Coadyuvar en la promoción de una cultura de participación ciudadana activa, dinámica y corresponsable, y
-
-VI. Contribuir en la realización de foros y talleres de consulta popular, que motiven el debate y análisis de propuestas, ideas e inquietudes de la ciudadanía y que se relacionen con el desarrollo municipal.
+(DEROGADO, P.O. 16 DE MARZO DE 2016)
 
 ## TÍTULO CUARTO
 
@@ -471,7 +427,7 @@ EDUARDO BECERRA PÉREZ
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 1 DE MAYO DE 2013.
 
@@ -522,3 +478,13 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO CINCUENTA Y NUEVE POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
