@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-03-09"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ABRIL DE 2016 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -327,7 +329,7 @@ Es obligación del Estado proveer a la justicia al través del proceso y la ejec
 
 Si bien es cierto que el sentenciado está sujeto al poder ejecutivo del Estado, bajo el título jurídico de la sentencia, y que por eso el poder público dispone de una facultad y el condenado se halla sometido a un deber preciso, también lo es que tradicionalmente se ha considerado improcedente sancionar al sentenciado que se sustrae a la acción de la justicia, movido por el impulso, tan humano y natural, de recuperar su libertad. Por ende, sólo se sancionan aquellos delitos de incumplimiento cuando el sujeto obre en concierto con otros, que también se sustraen a la justicia, o haga violencia sobre las personas o las cosas para eludir la ejecución de la condena (artículos 305, 306 y 309).
 
-En el propio Título Vigésimoprimero figura un Capítulo destinado a los delitos cometidos por abogados, defensores y litigantes (artículo 310), tanto particulares como servidores públicos. Se trata de ilícitos de profesionistas, que pudieron agruparse con las restantes conductas delictuosas en que pueden incurrir los profesionistas, artistas y técnicos. Sin embargo, se estimó conveniente reunir aquí estos ilícitos, para destacar la importancia social que reviste la administración de justicia, de la que depende la paz pública y la seguridad privada.
+En el propio Título Vigésimo primero figura un Capítulo destinado a los delitos cometidos por abogados, defensores y litigantes (artículo 310), tanto particulares como servidores públicos. Se trata de ilícitos de profesionistas, que pudieron agruparse con las restantes conductas delictuosas en que pueden incurrir los profesionistas, artistas y técnicos. Sin embargo, se estimó conveniente reunir aquí estos ilícitos, para destacar la importancia social que reviste la administración de justicia, de la que depende la paz pública y la seguridad privada.
 
 El Libro Segundo aborda el régimen penal del encubrimiento por favorecimiento (artículos 311 y 312). Ya se vio que el encubrimiento, como género delictuoso, abarca dos especies. Por una parte, el encubrimiento por receptación, que tiene un contenido esencialmente patrimonial. Quien lo comete pretende obtener un lucro ilícito a partir del delito encubierto, que también implica apoderamiento o aprovechamiento ilícito de carácter patrimonial. En cambio, la otra expresión del encubrimiento, que se denomina por favorecimiento, no apareja un propósito de codicia, sino sólo el designio de favorecer o ayudar al autor del delito encubierto para que se sustraiga a la acción de la justicia. Aquí operan, como ha sido tradicional, las excusas absolutorias sustentadas en la relación estrecha entre el encubridor y el autor o partícipe del delito encubierto. Sin embargo, la excusa no favorece a quien obre por motivos reprobables o emplee, con el objetivo de realizar el encubrimiento, medios de carácter delictivo.
 
@@ -863,7 +865,7 @@ El aseguramiento de bienes recuperados con motivo de la investigación del delit
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2008)</small>
 
-Se decretará el abandono por parte del Ministerio Público o de la autoridad judicial, respecto de los bienes cuya devolución proceda y que no sean reclamados o recogidos dentro del plazo de 1 año a. partir de que dicho bien fue puesto a disposición de la autoridad judicial o del Ministerio Público, según sea el caso.
+Se decretará el abandono por parte del Ministerio Público o de la autoridad judicial, respecto de los bienes cuya devolución proceda y que no sean reclamados o recogidos dentro del plazo de 1 año a partir de que dicho bien fue puesto a disposición de la autoridad judicial o del Ministerio Público, según sea el caso.
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2008)</small>
 
@@ -2125,7 +2127,7 @@ Al que sin propósito de llegar a la cópula ejecute un acto erótico sexual en 
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
 
-Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de sus actividad docente, como autoridad o empleado administrativo en algún centro educativo o de asistencia social, se le impondrá una pena de ocho a doce años de prisión y además, en el caso de prestar sus servicios en alguna institución pública, se le destituirá e inhabilitará en el cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
+Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo o de asistencia social, se le impondrá una pena de ocho a doce años de prisión y además, en el caso de prestar sus servicios en alguna institución pública, se le destituirá e inhabilitará en el cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -3703,6 +3705,10 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
+### CAPITULO UNICO. DELITOS COMETIDOS POR ACTOS DE CRUELDAD EN CONTRA DE ANIMALES DOMESTICOS
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 279.
 
 Comete el delito de peculado:
@@ -4061,6 +4067,10 @@ El juez, teniendo en cuenta la naturaleza del hecho, las circunstancias personal
 
 (DEROGADO, P.O. 29 DE JULIO DE 2009)
 
+## TITULO VIGESIMO TERCERO. DELITOS CONTRA LAINTEGRIDAD (SIC) Y DIGNIDAD DE LOS ANIMALES DOMÉSTICOS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 314.
 
 Para los efectos de este Título se entiende por:
@@ -4234,6 +4244,22 @@ II. Altere en cualquier forma, sustituya, destruya o haga un uso indebido de la 
 ###### ARTICULO 326.
 
 Se impondrá de setenta a doscientos días de multa y prisión de tres a siete años, a quien por cualquier medio participe en la alteración del registro de electores, el padrón electoral y los listados nominales o en la expedición ilícita de credenciales para votar.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2016)</small>
+
+###### ARTICULO 327.
+
+Al que cometa actos de maltrato o crueldad en contra de cualquier especie de animal doméstico provocándole la muerte, se le impondrán de seis meses a un año de semilibertad.
+
+En caso de reincidencia o que concurra alguna de las circunstancias siguientes, se le impondrán de seis meses a un año de prisión, al sujeto activo:
+
+I. Si se prolonga innecesariamente la agonía o el sufrimiento del animal doméstico, y
+
+II. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para hacerlos públicos por cualquier medio.
+
+Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal doméstico, ya sea por las lesiones que provoca o el detrimento de su salud.
+
+No procederá la denuncia, en caso de que se trate de espectáculos donde se empleen animales domésticos y que la autoridad correspondiente haya otorgado permiso de acuerdo con lo dispuesto por la Ley Estatal de Fauna.
 
 ## TRANSITORIOS
 
@@ -4712,3 +4738,11 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas y normativas de igual o menor rango jerárquico, que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRECIENTOS TREINTA Y DOS POR EL QUE SE ADICIONA UN TÍTULO VIGÉSIMO TERCERO AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y SE REFORMA Y ADICIONA LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS, PARA ESTABLECER SANCIONES AL MALTRATO ANIMAL”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
