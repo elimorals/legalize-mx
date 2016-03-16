@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2015-12-18"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -146,6 +146,10 @@ VII. El Estado adoptará las medidas necesarias con el fin de que toda persona p
 VIII. El Estado adoptará las medidas especiales de carácter temporal encaminadas a acelerar la igualdad entre mujeres y hombres, siempre y cuando no entrañen el mantenimiento indefinido de normas desiguales o separadas. Entre otras, aplicará la perspectiva de género en el diseño, ejecución, seguimiento y evaluación de las políticas públicas que se implementen.
 
 Dichas medidas cesarán cuando se hayan alcanzado los objetivos de igualdad en la oportunidad y en el trato entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+
+IX. Todo individuo tiene derecho a recibir educación. El Estado y los Municipios garantizarán que la educación preescolar, primaria, secundaria y media superior que impartan sea obligatoria y gratuita.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -1535,11 +1539,11 @@ En las escuelas que lo requieran, se definirán e impulsarán políticas públic
 
 Para la regulación de la educación dentro de la esfera de competencia del Estado, se expedirá la Ley correspondiente, cuya ejecución y vigilancia de su cumplimiento estará a cargo del Gobierno del Estado a través de la dependencia competente y de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2016)</small>
 
 ###### Art. 91.
 
-Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato, normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación preescolar, primaria y secundaria conforman la educación básica, ésta y la media superior serán obligatorias.
+Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato, normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación preescolar, primaria, secundaria y media superior serán además obligatorias.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DEL 2000)</small>
 
@@ -2779,9 +2783,9 @@ Son obligaciones del Sinaloense:
 
 I. Inscribirse en el catastro de la Municipalidad, manifestando la propiedad que tenga y la industria, profesión o trabajo de que subsista.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
-II. Instruirse y cuidar de que sus hijos y pupilos menores de quince años, concurran a las escuelas oficiales o particulares para recibir la enseñanza primaria y secundaria, de conformidad con las leyes respectivas.
+II. Instruirse y cuidar de que sus hijos y pupilos menores de edad, concurran a las escuelas oficiales o particulares para recibir la enseñanza preescolar, primaria, secundaria y media superior, de conformidad con las leyes respectivas.
 
 III. Contribuir a los gastos públicos en la forma que las leyes lo dispongan.
 
@@ -3786,3 +3790,17 @@ DECRETO NO. 427 POR EL QUE SE DEROGAN EL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL A
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo. El Congreso del Estado expedirá la ley reglamentaria correspondiente dentro de los ciento ochenta días siguientes a la publicación del presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 440 QUE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 4° BIS B, Y REFORMA LA FRACCIÓN II DEL ARTÍCULO 6°, ASÍ COMO EL PÁRRAFO PRIMERO DEL ARTÍCULO 91, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. La implementación de las medidas tendentes a extender la obligatoriedad de la educación en los niveles preescolar, primaria, secundaria y media superior se realizará de manera gradual y ascendente conforme a las disponibilidades presupuestales del Estado y de los municipios.
+
+Deberá iniciar en el ciclo escolar inmediato siguiente a la entrada en vigor del presente Decreto, y el Estado procurará lograr la cobertura total a más tardar en el ciclo escolar 2021-2022. Para tal efecto el Estado gestionará ante la Federación los recursos que fueran necesarios, en los términos establecidos en los instrumentos del Sistema Nacional de Planeación Democrática del Desarrollo y el correspondiente Sistema Estatal.
+
+TERCERO. Para dar cumplimiento al principio de obligatoriedad de la educación en los niveles a que se refiere el presente Decreto, los poderes Ejecutivo y Legislativo y los Ayuntamientos procurarán que en los presupuestos anuales de egresos del Estado y de los municipios que se elaboren a partir del ejercicio siguiente a la entrada en vigor del Decreto, se incluyan las partidas y recursos necesarios y se establezcan los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos que se destinarán a infraestructura educativa en los cuatro niveles obligatorios.
+
+CUARTO. Se derogan todas las disposiciones que contravengan al presente Decreto.
