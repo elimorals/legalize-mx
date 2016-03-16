@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2016-03-09"
+last_updated: "2016-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE CULTURA CIVICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -87,7 +89,7 @@ Cuando la aplicación de esta Ley, comprenda o incida en otro ámbito de compete
 
 Para los efectos de la presente Ley se entienden por:
 
-l. Ley: a la presente Ley;
+I. Ley: a la presente Ley;
 
 II. Gobernador: al titular del Poder Ejecutivo en el Estado;
 
@@ -203,7 +205,7 @@ X. Implementar y ejecutar programas preventivos relacionados con la comisión de
 
 Corresponde a los Ayuntamientos:
 
-l. Dotar de espacios físicos, recursos materiales y financieros para la eficaz operación de los Juzgados, de acuerdo a los lineamientos que al efecto dicte el Cabildo;
+I. Dotar de espacios físicos, recursos materiales y financieros para la eficaz operación de los Juzgados, de acuerdo a los lineamientos que al efecto dicte el Cabildo;
 
 II. Conservar los Juzgados en óptimas condiciones de uso;
 
@@ -377,23 +379,31 @@ Son infracciones contra la tranquilidad de las personas:
 
 I. Poseer animales sin adoptar las medidas de higiene necesarias que impidan hedores o la presencia de plagas que ocasionen cualquier molestia a los vecinos;
 
-II. Producir o causar ruidos por cualquier medio que notoriamente atenten contra la tranquilidad o la salud de las personas;
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
-III. Impedir el uso de los bienes del dominio público de uso común;
+II. Cometer actos de maltrato en contra de cualquier especie de animal doméstico, causándole lesiones de cualquier tipo;
 
-IV. Obstruir con cualquier objeto entradas o salidas de inmuebles sin autorización del propietario o poseedor del mismo;
+III. Producir o causar ruidos por cualquier medio que notoriamente atenten contra la tranquilidad o la salud de las personas;
 
-V. Incitar o provocar a reñir a una o más personas;
+IV. Impedir el uso de los bienes del dominio público de uso común;
 
-VI. Invitar a la prostitución o ejercerla, así como solicitar dicho servicio. En todo caso sólo procederá la presentación del probable infractor cuando exista queja vecinal, y
+V. Obstruir con cualquier objeto entradas o salidas de inmuebles sin autorización del propietario o poseedor del mismo;
 
-VII. Ocupar los accesos de oficinas públicas o sus inmediaciones ofreciendo la realización de trámites que en la misma se proporcionen, sin tener autorización para ello.
+VI. Incitar o provocar a reñir a una o más personas;
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+VII. Invitar a la prostitución o ejercerla, así como solicitar dicho servicio. En todo caso sólo procederá la presentación del probable infractor cuando exista queja vecinal, y
+
+VIII. Ocupar los accesos de oficinas públicas o sus inmediaciones ofreciendo la realización de trámites que en la misma se proporcionen, sin tener autorización para ello.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+
+No procederá la infracción a que se refiere la fracción III, en caso de que se trate de espectáculos donde se empleen animales domésticos y que la autoridad correspondiente haya otorgado permiso de acuerdo con lo dispuesto por la Ley Estatal de Fauna.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
 ###### Artículo 19.
 
-Las infracciones contra la tranquilidad de las personas establecidas en el artículo anterior se sancionarán: fracción I: multa por el equivalente de 1 a 10 días de Salario Mínimo o con arresto de 6 a 12 horas; fracciones II a VI, multa por el equivalente de 11 a 20 días de Salario Mínimo o con arresto de 13 a 24 horas; y la fracción VII con arresto de 20 a 36 horas.
+Las infracciones contra la tranquilidad de las personas establecidas en el artículo anterior se sancionarán: fracción I: multa por el equivalente de 1 a 10 días de Salario Mínimo o con arresto de 6 a 12 horas; fracción II: multa por el equivalente de 21 a 30 días de Salario Mínimo o con arresto de 25 a 36 horas; fracciones III a VII, multa por el equivalente de 11 a 20 días de Salario Mínimo o con arresto de 13 a 24 horas; y la fracción VIII con arresto de 20 a 36 horas.
 
 ###### Artículo 20.
 
@@ -451,7 +461,7 @@ I. Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un 
 
 II. Orinar o defecar en los lugares a que se refiere el artículo 7 de la presente Ley;
 
-II. Arrojar, tirar o abandonar en la vía pública animales muertos, desechos, objetos o sustancias;
+III. Arrojar, tirar o abandonar en la vía pública animales muertos, desechos, objetos o sustancias;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -952,3 +962,11 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO. Se derogan todas las disposiciones jurídicas y normativas de igual o menor rango jerárquico, que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS TREINTA Y DOS POR EL QUE SE ADICIONA UN TÍTULO VIGÉSIMO TERCERO AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y SE REFORMA Y ADICIONA LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS, PARA ESTABLECER SANCIONES AL MALTRATO ANIMAL”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
