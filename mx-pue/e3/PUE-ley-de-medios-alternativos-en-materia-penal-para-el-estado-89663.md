@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-medios-alternativos-en-materia-penal-para-el-estado-8966
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2012-09-14"
+last_updated: "2016-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE MEDIOS ALTERNATIVOS EN MATERIA PENAL PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de septiembre de 2012.
 
@@ -115,9 +115,11 @@ Los medios alternativos serán aplicables solamente en los asuntos que sean susc
 
 Información sobre medios alternativos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2016)</small>
+
 ###### Artículo 6.
 
-En los conflictos del orden penal que puedan resolverse a través de algún medio alternativo, el agente del Ministerio Público, desde el momento en que tenga conocimiento de los hechos, o la autoridad judicial, desde su primera intervención, en su caso, desde el momento en que tenga conocimiento de los hechos, harán saber a los intervinientes sobre los beneficios y bondades que les brindan estos medios, exhortándoles a avenirse. No serán utilizados estos medios en aquellos casos que impliquen un desequilibrio entre los intervinientes, por estar alguno de ellos en una situación de especial vulnerabilidad.
+En los conflictos del orden penal que puedan resolverse a través de algún medio alternativo, el agente del Ministerio Público, desde el momento en que tenga conocimiento de los hechos, o la autoridad judicial, desde su primera intervención, en su caso, desde el momento en que tenga conocimiento de los hechos, harán saber a los intervinientes sobre los beneficios y bondades que les brindan estos medios, exhortándoles a avenirse. No serán utilizados estos medios en aquellos casos que impliquen la existencia de elementos que presuman violencia de género o cualquier otro que represente un desequilibrio entre los intervinientes, por estar alguno de ellos en una situación de especial vulnerabilidad.
 
 En caso de que los intervinientes manifiesten su conformidad en someterse a algún medio alternativo, se procederá al trámite del mismo, en caso contrario, continuará el proceso penal correspondiente.
 
@@ -504,3 +506,13 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente ordenamie
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil doce.- Diputado Presidente.- MARIO GERARDO RIESTRA PIÑA.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR EDUARDO ALONSO GRANADOS.- Rúbrica.- Diputado Secretario.- JORGE LUIS CORICHE AVILÉS.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.
 
 Por lo tanto mando de imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintisiete de (sic) días del mes de julio de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 395 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA LA FRACCIÓN I Y EL CUARTO PÁRRAFO DEL ARTÍCULO 165 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS EN MATERIA PENAL PARA EL ESTADO DE PUEBLA, Y REFORMA LAS FRACCIONES IV Y V, Y ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 12 DE LA LEY PARA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
