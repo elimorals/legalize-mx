@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2015-12-31"
+last_updated: "2016-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2016.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -189,9 +189,17 @@ II.- Brindar servicios integrales, especializados y gratuitos al presunta o pres
 
 III.- La atención que reciban la ofendida y la presunta o presunto generador de violencia será proporcionada por persona distinta y en lugar diferente. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-IV.- Favorecer la separación y distanciamiento del presunto o presunta generador de violencia con respecto a la ofendida, protegiendo necesariamente a ésta ya sus hijas e hijos; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2016)</small>
 
-V.- Favorecer la instalación y mantenimiento de Instituciones públicas o privadas encargadas de la atención para mujeres ofendidas por violencia, así como para sus hijas e hijos; la información sobre su ubicación será secreta. Las personas que laboren en éstas Instituciones deberán contar con la preparación y experiencia profesional en la materia en que desarrollen su trabajo. No podrán laborar en los mismos las personas que hayan sido sancionadas por haber cometido algún tipo de violencia.
+IV.- Favorecer la separación y distanciamiento del presunto o presunta generador de violencia con respecto a la ofendida, protegiendo necesariamente a ésta y a sus hijas e hijos;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2016)</small>
+
+V.- Favorecer la instalación y mantenimiento de Instituciones públicas o privadas encargadas de la atención para mujeres ofendidas por violencia, así como para sus hijas e hijos; la información sobre su ubicación será secreta. Las personas que laboren en éstas Instituciones deberán contar con la preparación y experiencia profesional en la materia en que desarrollen su trabajo. No podrán laborar en los mismos las personas que hayan sido sancionadas por haber cometido algún tipo de violencia; y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2016)</small>
+
+VI.- Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el generador de violencia y la ofendida.
 
 #### SECCIÓN SEGUNDA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO LABORAL O DOCENTE
 
@@ -898,3 +906,11 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 395 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA LA FRACCIÓN I Y EL CUARTO PÁRRAFO DEL ARTÍCULO 165 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS EN MATERIA PENAL PARA EL ESTADO DE PUEBLA, Y REFORMA LAS FRACCIONES IV Y V, Y ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 12 DE LA LEY PARA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
