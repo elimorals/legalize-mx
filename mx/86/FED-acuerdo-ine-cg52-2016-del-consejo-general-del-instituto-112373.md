@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg52-2016-del-consejo-general-del-instituto-112373"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-05"
-last_updated: "2016-02-05"
+last_updated: "2016-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-02-04"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITE CONVOCATORIA PARA LA ELECCIÓN DE SESENTA DIPUTADOS, PARA INTEGRAR LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2016.
 
 Acuerdo publicado en la Edición Vespertina del Diario Oficial de la Federación, el viernes 5 de febrero de 2016.
 
@@ -62,3 +62,17 @@ Se aprobó en lo particular la Base Tercera, fracción III, de la Convocatoria e
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 > <small>[N. DE E. VÉASE CONVOCATORIA PARA LA ELECCIÓN DE SESENTA DIPUTADAS Y DIPUTADOS PARA INTEGRAR LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO, EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 5 DE FEBRERO DE 2016, PÁGINAS DE LA 8 A LA 26.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS DE LA CONVOCATORIA EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE MARZO DE 2016, PÁGINAS DE LA 1 A LA 4.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE MARZO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS TERCERO, CUARTO Y QUINTO DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, QUE MODIFICA LOS DIVERSOS INE/CG52/2016 E INE/CG53/2016, DE CUATRO DE FEBRERO DE DOS MIL DIECISÉIS, EN CUMPLIMIENTO A LA SENTENCIA EMITIDA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, EN EL RECURSO DE APELACIÓN SUP-RAP-71/2016 Y ACUMULADOS”.]</small>
+
+Tercero. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+Cuarto. Publíquese de inmediato los Puntos de Acuerdo del presente instrumento en el Diario Oficial de la Federación, publicítense en al menos 3 diarios de circulación nacional, así como su contenido íntegro en la página de internet del Instituto.
+
+Quinto. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, sobre el cumplimiento dado a la sentencia emitida en el expediente SUP-RAP-71/2016 y acumulados.
