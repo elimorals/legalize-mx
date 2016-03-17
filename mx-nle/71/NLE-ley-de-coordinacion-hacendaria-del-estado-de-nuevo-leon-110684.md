@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-coordinacion-hacendaria-del-estado-de-nuevo-leon-110684"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-03"
-last_updated: "2015-12-03"
+last_updated: "2016-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2016.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de diciembre de 2015.
 
@@ -77,7 +75,9 @@ VI. Ley de Coordinación Fiscal: Ley de Coordinación Fiscal, de carácter feder
 
 VII. Participaciones Estatales: Participaciones que los Municipios perciben por parte del Gobierno del Estado con respecto a los Ingresos de carácter estatal;
 
-VIII. Participaciones Federales: Participaciones que el Estado y los Municipios perciben de la Federación;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2016)</small>
+
+VIII. Participaciones Federales: Participaciones que el Estado percibe de la Federación y se encuentran contempladas bajo el rubro denominado participaciones en la Ley de Ingresos del Estado; siendo las siguientes: el Fondo General Participaciones, Fondo de Fiscalización, Fondo de Extracción de Hidrocarburos, Impuesto Especial sobre Producción y Servicios, Impuesto sobre venta de Gasolinas e Impuesto sobre Automóviles Nuevos;
 
 IX. Reunión: Reunión Estatal de Funcionarios Fiscales;
 
@@ -425,6 +425,10 @@ Una vez asignado los montos referidos en el párrafo anterior, la distribución 
 
 En todo caso, las ministraciones serán de un 40% para anticipo de la obra a otorgarse a más tardar durante el mes de abril, un 30% por el primer avance de obra a más tardar durante el mes de julio, y un 15% por el segundo avance de obra durante el mes de septiembre y el restante 15% por el finiquito de la misma a más tardar durante el mes de noviembre, en su caso se deberá de dar prioridad a liquidar los montos que correspondan a más tardar 10 días naturales después de la presentación de los avances y finiquito respectivo.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2016)</small>
+
+Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
+
 Los Municipios, una vez aprobados los proyectos de inversión por parte del respectivo Ayuntamiento deberán:
 
 a) Hacer del conocimiento de sus habitantes los recursos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios.
@@ -449,6 +453,10 @@ III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondien
 
 Los recursos de este fondo serán distribuidos entre los Municipios que conforman la zona de crecimiento de la mancha urbana de la Ciudad de Monterrey siendo estos: Apodaca, Ciénega de Flores, Cadereyta Jiménez, El Carmen, García, General Escobedo, General Zuazua, Juárez, Pesquería, Santa Catarina, Santiago y Salinas Victoria.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2016)</small>
+
+Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
+
 ###### Artículo 29.
 
 Los Municipios aplicarán el Fondo de Ultracrecimiento Municipal para la inversión en obra pública y la debida prestación de los servicios públicos a su cargo que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Nuevo León.
@@ -469,13 +477,23 @@ Los montos que resulten serán ministrados en partes iguales en forma mensual.
 
 El Gobierno del Estado constituirá el Fondo denominado Fondos Descentralizados. Esta aportación tendrá como destino la prestación de los servicios públicos de limpia, alumbrado, seguridad pública y proyectos de infraestructura básica.
 
-El Fondo se constituirá con un monto que no podrá ser menor al 1.28% del monto de participaciones que efectivamente recaude el Estado en el ejercicio fiscal correspondiente de acuerdo a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2016)</small>
+
+El Fondo se constituirá con un monto que no podrá ser menor a la cantidad que resulte mayor entre el 1.28% del monto de participaciones que efectivamente reciba el Estado en el ejercicio fiscal correspondiente y el monto autorizado en la Ley de Egresos del ejercicio correspondiente para este fondo, distribuyéndose de la forma siguiente:
 
 I. Para efectos de lo anterior, se considerará el 1.28% del monto de participaciones que correspondan al Estado según el presupuesto aprobado para el ejercicio fiscal correspondiente, a efectos de realizar los cálculos preliminares que sean necesarios.
 
 II. De manera trimestral, se realizarán los cálculos correspondientes a fin de determinar cualquier incremento en los montos a entregar a los Municipios por incremento en la recaudación de participaciones que correspondan al Estado.
 
 III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2016)</small>
+
+Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2016)</small>
+
+La ministración de los recursos que corresponda a los Municipios de la Zona No Metropolitana; así como a los Municipios de Cadereyta Jiménez, Salinas Victoria y Santiago, no podrá ser inferior a los del año inmediato anterior.
 
 Los recursos de este Fondo se ministrarán a los Municipios, de acuerdo a los coeficientes que resulten de los últimos cálculos desarrollados y publicados de las fórmulas establecidas en el artículo 14 fracción I de esta Ley, los cuales serán ministrados en partes iguales en forma mensual.
 
@@ -570,3 +588,17 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 CARLOS ALBERTO GARZA IBARRA
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 098. SE MODIFICA EL DECRETO 088 PARA QUEDAR COMO SIGUE; SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 2 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 31; SE ADICIONA UN PÁRRAFO NOVENO RECORRIÉNDOSE EL ACTUAL DEL ARTÍCULO 27; UN PÁRRAFO TERCERO AL ARTÍCULO 28; EL PÁRRAFO TERCERO Y CUARTO, RECORRIÉNDOSE LOS POSTERIORES, DEL ARTÍCULO 31; TODOS DE LA LEY DE COORDINACIÓN HACENDARIA”.
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- En el caso de Fondo Descentralizado que menciona el artículo 31 de esta Ley, la cantidad a distribuir en el ejercicio fiscal 2016, no podrá ser menor a $310,000,000.00, independientemente de que exista una disminución en la Recaudación Federal Participable.
+
+Tercero.- Además de lo señalado en el artículo anterior, el Gobierno del Estado deberá crear una provisión económica que será usada como Fondo Compensatorio para cumplir con lo establecido en el cuarto párrafo del artículo 31, durante el ejercicio 2016 solamente.
+
+Cuarto.- En el caso de que exista una disminución en la Recaudación Federal Participable con respecto a lo estimado en la Ley de Ingresos, que deriven en una compensación con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, el Estado destinará un 20% veinte por ciento de dichos ingresos para compensar la baja de participaciones a los municipios, los cuales se distribuirán de conformidad con lo establecido en el artículo 14 de esta Ley.
