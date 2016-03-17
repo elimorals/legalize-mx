@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg53-2016-del-consejo-general-del-instituto-112374"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-05"
-last_updated: "2016-02-05"
+last_updated: "2016-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112374&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-02-04"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL PLAN Y CALENDARIO INTEGRAL DEL PROCESO ELECTORAL RELATIVO A LA ELECCIÓN DE SESENTA DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL PARA INTEGRAR LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO, SE DETERMINAN ACCIONES CONDUCENTES PARA ATENDERLOS, Y SE EMITEN LOS LINEAMIENTOS CORRESPONDIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2016.
 
 Acuerdo publicado en la Edición Vespertina del Diario Oficial de la Federación, el viernes 5 de febrero de 2016.
 
@@ -33,7 +33,9 @@ ANTECEDENTES
 
 [...]
 
-CONSIDERANDO
+CONSIDERANDO...
+
+> <small>[N. DE E. VÉASE ADICIÓN DEL CONSIDERANDO 25 BIS MEDIANTE ACUERDO INE/CG95/2016, D.O.F. DE 17 DE MARZO DE 2016, PÁGINAS 2 Y 3.]</small>
 
 [...]
 
@@ -125,6 +127,18 @@ Se aprobó en lo particular lo relativo a la integración de las fórmulas de g�
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-[N. DE E. VÉASE CALENDARIO DE ACTIVIDADES PRINCIPALES EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 5 DE FEBRERO DE 2016, PÁGINAS DE LA 62 A LA 68].
+> <small>[N. DE E. VÉASE CALENDARIO DE ACTIVIDADES PRINCIPALES EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 5 DE FEBRERO DE 2016, PÁGINAS DE LA 62 A LA 68.]</small>
 
-[N. DE E. VÉASE LINEAMIENTOS PARA LA ELECCIÓN DE LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 5 DE FEBRERO DE 2016, PÁGINAS DE LA 69 A LA 91].
+> <small>[N. DE E. VÉASE LINEAMIENTOS PARA LA ELECCIÓN DE LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 5 DE FEBRERO DE 2016, PÁGINAS DE LA 69 A LA 91.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LOS LINEAMIENTOS PARA LA ELECCIÓN DE LA ASAMBLEA CONSTITUYENTE DE LA CIUDAD DE MÉXICO EN EL D.O.F. DE 17 DE MARZO DE 2016, PÁGINAS DE LA 3 A LA 4.]</small>
+
+D.O.F. 17 DE MARZO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS TERCERO, CUARTO Y QUINTO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, QUE MODIFICA LOS DIVERSOS INE/CG52/2016 E INE/CG53/2016, DE CUATRO DE FEBRERO DE DOS MIL DIECISÉIS, EN CUMPLIMIENTO A LA SENTENCIA EMITIDA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, EN EL RECURSO DE APELACIÓN SUP-RAP-71/2016 Y ACUMULADOS".]</small>
+
+Tercero. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+Cuarto. Publíquese (sic) de inmediato los Puntos de Acuerdo del presente instrumento en el Diario Oficial de la Federación, publicítese en al menos 3 diarios de circulación nacional, así como su contenido íntegro en la página de internet del Instituto.
+
+Quinto. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, sobre el cumplimiento dado a la sentencia emitida en el expediente SUP-RAP-71/2016 y acumulados.
