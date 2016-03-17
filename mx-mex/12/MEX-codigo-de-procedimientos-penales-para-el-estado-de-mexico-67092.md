@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2016-03-14"
+last_updated: "2016-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 NOTA 1.- DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.
 
-NOTA 2.- DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA Y SEGUNDO TRANSITORIO DEL DECRETO No. 392, DE LA G.G. DE 21 DE ENERO DE 2015, POR EL QUE SE APRUEBA LA INCORPORACIÓN A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS 18 DE JUNIO DE 2016, EN EL ESTADO DE MÉXICO, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO, SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.
+NOTA 2.- DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA DEL DECRETO NO. 71, DE LAS G.G. DE 21 DE ENERO DE 2015 Y 17 DE MARZO DE 2016, POR EL QUE SE APRUEBA LA INCORPORACIÓN A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS DE FORMA GRADUAL A PARTIR DEL DÍA 18 DE MAYO DE 2016, EN LOS DISTRITOS JUDICIALES DE TENANCINGO Y TENANGO DEL VALLE, Y A PARTIR DEL 18 DE JUNIO DE 2016 EN LOS RESTANTES DISTRITOS JUDICIALES DE ESTA ENTIDAD, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO, SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2016.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -5783,9 +5783,11 @@ G.G. 21 DE ENERO DE 2015.
 
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 392 QUE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-Para los efectos señalados en el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 05 de marzo de 2014 se declara que en el Estado de México se incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales, que entrará en vigor el dieciocho de junio del año dos mil dieciséis.
+Para los efectos señalados en el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 05 de marzo de 2014, se declara que al Estado de México se incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales, el cual entrará en vigor de forma gradual a partir del día dieciocho de mayo del año dos mil dieciséis, en los distritos judiciales de Tenancingo y Tenango del Valle, y a partir del dieciocho de junio de dos mil dieciséis en los restantes distritos judiciales de esta entidad.
 
 En consecuencia, comenzará a regular la forma y términos en que se substanciarán los procedimientos penales en la Entidad Federativa.
 
@@ -5803,9 +5805,11 @@ Se abroga el Código de Procedimientos Penales para el Estado de México, a part
 
 Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
+> <small>(REFORMADO, G.O. 17 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Este Decreto entrará en vigor el dieciocho de junio de dos mil dieciséis.
+Este Decreto entrará en vigor a los sesenta días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno.
 
 ###### ARTÍCULO TERCERO.
 
@@ -5856,3 +5860,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.O. 17 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 71.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO PRIMERO Y EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 392, DE FECHA 21 DE ENERO DE 2015, POR EL QUE SE EMITE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
