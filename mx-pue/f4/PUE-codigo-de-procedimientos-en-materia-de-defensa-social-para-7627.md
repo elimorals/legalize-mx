@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2016-03-16"
+last_updated: "2016-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SO
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2016.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3843,7 +3843,9 @@ La mediación tiene por objeto que el querellante y el inculpado, asistidos de u
 
 La mediación será procedente únicamente en delitos de querella y en los de oficio en los que permita el Código Penal el restablecimiento indemnatos.
 
-En ningún caso se podrá iniciar proceso de mediación cuando se afecten la libertad sexual, los intereses, derechos, dignidad e integridad psíquica y corporal de incapaces que carezcan de representante legal. Tampoco habrá proceso de mediación cuando exista pluralidad de agraviados sea en una averiguación o en averiguaciones conexas y acumulables. No habrá mediación cuando se afecten los intereses y derechos de la colectividad.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2016)</small>
+
+En ningún caso se podrá iniciar proceso de mediación cuando existan elementos que presuman violencia de género o se afecten la libertad sexual, los intereses, derechos, dignidad e integridad psíquica y corporal de incapaces que carezcan de representación legal. Tampoco habrá proceso de mediación cuando exista pluralidad de agraviados sea en una averiguación o en averiguaciones conexas acumulables. No habrá mediación cuando se afecten los intereses y derechos de la colectividad.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -4412,3 +4414,11 @@ SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglament
 TERCERO. Las autoridades municipales que coadyuven con la prestación del servicio a que se refiere este Decreto, deberán acreditar la capacitación necesaria en términos de los lineamientos que emita la Secretaría General de Gobierno, así como de la convocatoria y demás disposiciones administrativas aplicables.
 
 CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 17 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 395 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA LA FRACCIÓN I Y EL CUARTO PÁRRAFO DEL ARTÍCULO 165 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS EN MATERIA PENAL PARA EL ESTADO DE PUEBLA, Y REFORMA LAS FRACCIONES IV Y V, Y ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 12 DE LA LEY PARA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
