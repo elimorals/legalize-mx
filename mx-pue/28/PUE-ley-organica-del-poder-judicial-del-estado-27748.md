@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2015-03-09"
+last_updated: "2016-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -2717,27 +2719,29 @@ Una vez ratificado el Juez por el Pleno, sólo podrá ser privado de su cargo po
 
 El retiro de los Magistrados propietarios del Tribunal Superior de Justicia, procederá en los casos y mediante las condiciones que establece la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 224.
 
 Son causas de retiro obligatorio de los Magistrados:
 
-I.- Haber cumplido setenta y cinco años de edad; y
+l. Haber cumplido sesenta y cinco años de edad; o
 
-II.- Padecer incapacidad física o mental permanente para el desempeño de su cargo.
+II. Padecer incapacidad física o mental permanente para el desempeño de su cargo.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 225.
 
-Los Magistrados del Tribunal Superior de Justicia podrán retirarse voluntariamente por alguna de las causas siguientes:
+Los Magistrados del Tribunal Superior de Justicia podrán retirarse voluntariamente cuando habiendo cumplido sesenta y cinco años de edad, se hayan desempeñado como Magistrados cuando menos quince años, sin que dentro de éstos se consideren los años de servicio que hubieren prestado en algún otro cargo dentro del Poder Judicial o en algún otro de los Poderes del Estado.
 
-I.- Tener más de cinco años consecutivos como Magistrados, si además han desempeñado otros cargos al servicio del Poder Judicial del Estado durante treinta años, incluidos los cinco como Magistrados;
-
-II.- Tener más de quince años consecutivos como Magistrados; y
-
-III.- Tener más de diez años consecutivos como Magistrados, si además han desempeñado otros cargos al servicio de los Poderes del Estado durante veinte años.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 226.
 
-El Magistrado del Tribunal Superior de Justicia que obtenga su retiro, gozará de los beneficios a que tiene derecho conforme a todas las disposiciones legales vigentes.
+Al retirarse del cargo, los Magistrados tendrán derecho a un haber por retiro de siete años, el cual será equivalente al cien por ciento durante los dos primeros años y al setenta por ciento durante los cinco años siguientes, del ingreso mensual que corresponda a los Magistrados en activo.
+
+El desempeño laboral en cualquier otro de los Poderes del Estado, generará la suspensión del haber por retiro, salvo las actividades docentes, científicas, literarias u honoríficas.
 
 ###### ARTÍCULO 227.
 
@@ -2747,15 +2751,17 @@ El Pleno del Tribunal Superior de Justicia, de oficio, dictaminará sobre el ret
 
 Aprobado el retiro obligatorio o voluntario de los Magistrados, el Gobernador del Estado enviará al Congreso Local la terna correspondiente para integrar el Tribunal Superior de Justicia, en los términos que establece la Constitución Política Local.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 229.
 
-El Congreso del Estado, al aprobar anualmente la Ley de Egresos, incluirá, en el ramo relativo al Poder Judicial del Estado, la partida correspondiente para el pago de salarios de los servidores judiciales, así como los tabuladores desglosados de dichas remuneraciones y las pensiones por retiro de los Magistrados a que se refiere esta Ley.
+El Congreso del Estado, al aprobar anualmente la Ley de Egresos, incluirá, en el ramo relativo al Poder Judicial del Estado, la partida correspondiente para el pago de salarios de los servidores judiciales, así como los tabuladores desglosados de dichas remuneraciones y los haberes por retiro de los Magistrados a que se refiere esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 230.
 
-La cuantía de las pensiones por retiro de los Magistrados establecidas en esta Ley, no podrá reducirse, y se establecerá por la Comisión Administrativa de la Junta de Administración del Poder Judicial del Estado, a partir de la fecha en que fuere decretada. En el decreto correspondiente se hará constar el monto preciso del salario integrado con todas las prestaciones que venía percibiendo el Magistrado que pasa a retiro, cantidad global que servirá como suma de inicio para la pensión.
+Los porcentajes del haber por retiro de los Magistrados previstos en esta Ley, no podrán reducirse, y se establecerán a partir de la fecha en que fuere decretado el retiro. En el decreto correspondiente se hará constar el monto preciso del salario integrado con todas las prestaciones que venía percibiendo el Magistrado que pasa a retiro, cantidad global que servirá como suma de inicio para el cálculo del haber, de conformidad con lo establecido en el artículo 226 de esta Ley.
 
 ###### ARTÍCULO 231.
 
@@ -3018,3 +3024,13 @@ P.O. 9 DE MARZO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 224, 225, 226, 229 Y 230 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Lo establecido en el presente Decreto, respecto de las causales de retiro y el haber por retiro, le será aplicable únicamente a los Magistrados nombrados con posterioridad a esta reforma.
+
+TERCERO. Queda sin efecto cualquier acto o disposición que se oponga al presente Decreto.
