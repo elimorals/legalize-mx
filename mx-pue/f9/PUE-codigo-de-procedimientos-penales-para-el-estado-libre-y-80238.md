@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-penales-para-el-estado-libre-y-80238"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-02-21"
-last_updated: "2015-03-13"
+last_updated: "2016-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO PUBLICADO EL 19 DE MARZO DE 2014, QUE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE PUEBLA, SE ABROGA EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO POR DECRETO DEL HONORABLE CONGRESO DEL ESTADO DE PUEBLA DE VEINTIUNO DE FEBRERO DE DOS MIL ONCE, CON EXCEPCIÓN DEL TÍTULO DÉCIMO RELATIVO A LA "EJECUCIÓN DE LA SENTENCIA", EL CUAL DEBERÁ MANTENERSE VIGENTE HASTA QUE EL CONGRESO DE LA UNIÓN EXPIDA LA LEGISLACIÓN ÚNICA EN MATERIA DE EJECUCIÓN DE PENAS.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO PUBLICADO EL 19 DE MARZO DE 2014, QUE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE PUEBLA, SE ABROGA EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO POR DECRETO DEL HONORABLE CONGRESO DEL ESTADO DE PUEBLA DE VEINTIUNO DE FEBRERO DE DOS MIL ONCE, CON EXCEPCIÓN DEL TÍTULO DÉCIMO RELATIVO A LA "EJECUCIÓN DE LA SENTENCIA", EL CUAL DEBERÁ MANTENERSE VIGENTE HASTA QUE EL CONGRESO DE LA UNIÓN EXPIDA LA LEGISLACIÓN ÚNICA EN MATERIA DE EJECUCIÓN DE PENAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE MARZO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 13 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 21 de febrero de 2011.
 
@@ -1951,7 +1949,9 @@ Procedencia.
 
 Proceden los medios alternativos:
 
-I.- En todos los delitos de acción privada, en los delitos culposos, en los que proceda el perdón de la víctima, en los de contenido patrimonial que se hayan cometido sin violencia, así como en aquéllos cuya pena máxima de prisión no exceda de cinco años y por las circunstancias concretas carezcan de trascendencia social; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2016)</small>
+
+I.- En los delitos de acción privada, en los delitos culposos, en los que proceda el perdón de la víctima, en los de contenido patrimonial que se hayan cometido sin violencia, así como en aquéllos cuya pena máxima de prisión no exceda de cinco años y por las circunstancias concretas carezcan de trascendencia social; y
 
 II.- En los delitos de acción pública cuyo término medio aritmético de la pena no exceda de cinco años de prisión, siempre y cuando el bien jurídico protegido no sea de impacto social, o se trate de violencia familiar, y cuando la víctima e imputado o acusado acepten expresa y voluntariamente someter su caso a una solución de justicia restaurativa.
 
@@ -1959,7 +1959,9 @@ Los medios alternativos en materia penal podrán referirse a la reparación del 
 
 Cuando el Estado sea víctima, para estos efectos, será representado por la instancia competente.
 
-No procederá el uso de los medios alternativos en materia penal en los casos en que el imputado haya celebrado anteriormente otros acuerdos relacionados con delitos que se persiguen de oficio, por hechos de la misma naturaleza.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2016)</small>
+
+No procederá el uso de los medios alternativos en materia penal en los casos de violencia familiar en que la víctima sea mujer o niña, ni en aquellos en que el imputado haya celebrado anteriormente otros acuerdos relacionados con delitos que se persiguen de oficio, por hechos de la misma naturaleza.
 
 Tampoco en aquellos casos en que el Juez de Control lo determine atendiendo al impacto social que represente el caso y el bienestar de la víctima.
 
@@ -7001,7 +7003,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de enero de dos mil once.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 17 DE JUNIO DE 2011.
 
@@ -7100,3 +7102,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los Ayuntamientos de los Municipios de la Entidad en el ámbito de sus respectivas competencias, deberán prever y realizar las acciones conducentes para fomentar las expresiones o manifestaciones artísticas o culturales de los habitantes de sus jurisdicciones.
 
 CUARTO. El presente Decreto en cuanto a la materia procedimental penal estará vigente, hasta en tanto, surta efectos a plenitud la entrada en vigor del Código Nacional de Procedimientos Penales en el territorio del Estado, conforme a lo que establecen el artículo 10 Bis de la Ley Orgánica del Poder Judicial del Estado de Puebla, y el artículo Segundo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Puebla, Decretos publicados en el Periódico Oficial del Estado de fecha diecisiete de junio de dos mil once y trece de septiembre de dos mil trece, respectivamente.
+
+P.O. 17 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 395 DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA LA FRACCIÓN I Y EL CUARTO PÁRRAFO DEL ARTÍCULO 165 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 6 DE LA LEY DE MEDIOS ALTERNATIVOS EN MATERIA PENAL PARA EL ESTADO DE PUEBLA, Y REFORMA LAS FRACCIONES IV Y V, Y ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 12 DE LA LEY PARA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
