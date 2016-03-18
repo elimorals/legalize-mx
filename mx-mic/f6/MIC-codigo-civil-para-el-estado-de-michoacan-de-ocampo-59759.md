@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2015-07-29"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -55,9 +55,11 @@ Los inmuebles ubicados en Michoacán, aunque pertenezcan a extranjeros; y los ac
 
 Las leyes y disposiciones gubernativas regirán desde el día que en las mismas se indique. Si nada se dice a ese respecto, serán obligatorias, en la Capital del Estado, tres días después de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; y en los demás lugares del Estado, se aumentará un día por cada veinte kilómetros que disten de la Capital.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 4º.
 
-El varón y la mujer son iguales ante la ley. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, el sexo, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+El hombre y la mujer son iguales ante la ley. Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, el sexo, la edad, discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 5º.
 
@@ -10778,3 +10780,9 @@ P.O. 12 DE MARZO DE 2013.
 P.O. 29 DE JULIO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NUMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
