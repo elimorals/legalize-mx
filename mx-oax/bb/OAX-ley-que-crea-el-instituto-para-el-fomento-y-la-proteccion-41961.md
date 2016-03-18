@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-para-el-fomento-y-la-proteccion-41961
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2005-06-18"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCION DE LAS ARTESANIAS -ANTES- LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANIAS
 
-LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS
+LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANIAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JUNIO DE 2005.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2004.
 
@@ -37,17 +35,19 @@ DECRETO NUM. 7
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
 
-D E C R E T A :
+DECRETA:
 
 LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el Organismo Público Descentralizado: "Instituto Oaxaqueño de las Artesanías", a quien en lo sucesivo de esta Ley se denominará como "El Instituto", con personalidad jurídica y patrimonio propio; sectorizado a la Secretaría de Economía.
+Se crea el Organismo Público Descentralizado denominado “Instituto Oaxaqueño de las Artesanías”, con personalidad jurídica y patrimonio propio, en lo sucesivo para los efectos de esta Ley, se entenderá como “El Instituto”.
 
 ###### ARTÍCULO 2.
 
-El "Instituto", tendrá su domicilio en esta Ciudad, sin perjuicio de establecer representaciones en el interior del Estado.
+El “Instituto”, tendrá su domicilio en esta Ciudad, sin perjuicio de establecer representaciones en el interior del Estado.
 
 ###### ARTÍCULO 3.
 
@@ -55,7 +55,7 @@ El Instituto tendrá por objeto: Impulsar el desarrollo artesanal, por medio de 
 
 ###### ARTÍCULO 4.
 
-El Instituto”, tendrá las siguientes atribuciones y facultades:
+"El Instituto", tendrá las siguientes atribuciones y facultades:
 
 I.- Promover una mejoría permanente en las condiciones de vida y de trabajo de los artesanos y de sus familias;
 
@@ -79,7 +79,7 @@ XI (SIC).- Intensificar la promoción con la participación de productores en fe
 
 XII.- Promover la participación de los artesanos oaxaqueños en concursos nacionales e internacionales;
 
-XIII.- Promover en los mercados regionales, cionales (sic) y extranjeros las artesanías oaxaqueñas y organizar a los productores p ra (sic) que concurran a ellos para su comercialización;
+XIII.- Promover en los mercados regionales, nacionales y extranjeros las artesanías oaxaqueñas y organizar a los productores para que concurran a ellos para su comercialización;
 
 XIV.- Propiciar la capitalización de la actividad artesanal y la canalización de créditos suficientes y oportunos;
 
@@ -91,7 +91,7 @@ XVII (SIC).- En general, celebrar los actos jurídicos encaminados de manera dir
 
 ###### ARTÍCULO 5.
 
-El patrimonio de "El Instituto", se integrará por:
+El patrimonio de “El Instituto”, se integrará por:
 
 I.- Los bienes muebles e inmuebles que adquiera con motivo de sus funciones y que estén enfocados específicamente al cumplimiento de sus objetivos;
 
@@ -107,9 +107,9 @@ VI.- Los bienes inmuebles que constituyen el patrimonio del Instituto, se equipa
 
 ###### ARTÍCULO 6.
 
-La dirección y administración del (sic) "El Instituto", estará a cargo de:
+La dirección y administración del “El Instituto”, estará a cargo de:
 
-I.- Una Junta Directiva, y
+I.- Una Junta Directiva; y
 
 II.- Un Director General.
 
@@ -117,31 +117,43 @@ II.- Un Director General.
 
 La Junta Directiva, será la máxima autoridad de "El Instituto", y estará integrado por:
 
-I.- Un Presidente, que será el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-II.- Un Secretario Técnico que será el Director General del Instituto, que asistirá a las sesiones con voz pero sin voto.
+I.- Un Presidente, que será el titular de la Secretaría Coordinadora de Sector que corresponda;
+
+II.- Un Secretario Técnico que será el Director General del Instituto, que asistirá a las sesiones con voz pero sin voto;
 
 III.- Vocales, que serán:
 
-a) El Coordinador General del Comité de Planeación para el Desarrollo del Estado
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
+a) El Coordinador General del Comité Estatal de Planeación para el Desarrollo de Oaxaca,
 
 b) El Secretario de Administración,
 
-c) El Secretario de Cultura,
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
-d) El Secretario de Turismo,
+c) El Secretario de las Culturas y Artes de Oaxaca;
 
-e) El Secretario Técnico,
+d) (DEROGADO, P.O. 18 DE MARZO DE 2016)
 
-f) El Secretario de Desarrollo Rural,
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
+e) El Secretario Técnico del Titular del Poder Ejecutivo;
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
+f) El Secretario de las Infraestructuras y el Ordenamiento Territorial Sustentable;
 
 g) El Secretario de Asuntos Indígenas,
 
-h) Un Representante del Sector Social y
+h) Un Representante del Sector Social, y
 
 i) Un Representante del Sector Privado.
 
-IV.- El Secretario de la Contraloría, que fungirá como Comisario, que asistirá a las sesiones con voz pero sin voto.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+IV.- Un Comisario, que será el Secretario de la Contraloría y Transparencia Gubernamental, quien tendrá derecho a voz pero no a voto en las sesiones de la Junta Directiva.
 
 ###### ARTÍCULO 8.
 
@@ -155,85 +167,93 @@ El Director General, será nombrado y removido por el Gobernador del Estado.
 
 Por cada miembro habrá un suplente, el que será designado por el Integrante Titular de la Junta Directiva y contará con las mismas facultades de los Titulares en ausencia de éstos.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+La calidad de suplente se acreditará mediante el oficio respectivo que expida el miembro propietario dirigido al Presidente de la Junta Directiva. El cargo de suplente será indelegable, por lo que no se podrá acreditar representante de éste en las sesiones de la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 11.
 
-La junta Directiva sesionará por lo menos una vez cada seis meses, o las veces que sean necesarias, y para la validez de las sesiones, se requerirá la concurrencia de por lo menos la mitad más uno de sus miembros, entre los que deberá estar en todo caso el Presidente.
+La Junta Directiva celebrará sesiones ordinarias cuando menos trimestralmente; podrán celebrar sesiones extraordinarias, cada vez que el Presidente lo estime conveniente o a petición de una tercera parte del total de sus integrantes.
 
-Las resoluciones se tomarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate
+Para la validez de las sesiones, se requerirá la concurrencia de por lo menos la mitad más uno de sus integrantes, de entre los que deberá de estar en todo caso el Presidente.
+
+Los integrantes de la Junta Directiva, participarán en las sesiones con derecho a voz y voto, con excepción del Secretario Técnico y el Comisario, quienes tendrán voz pero no voto. En caso de empate, el Presidente de la Junta Directiva, tendrá el voto de calidad.
 
 ###### ARTÍCULO 12.
 
-Son facultades de la Junta Directiva
+Son facultades de la Junta Directiva:
 
-I. Expedir el programa general de administración y los reglamentos internos necesarios;
+I.- Expedir el programa general de administración y los reglamentos internos necesarios;
 
-II. Constituir Comités y Subcomités Técnicos especializados, para los fines que determine ésta, aprobando en su caso los dictámenes técnicos que éstos le presenten respecto de los asuntos encomendados;
+II.- Constituir Comités y Subcomités Técnicos especializados, para los fines que determine ésta, aprobando en su caso los dictámenes técnicos que éstos le presenten respecto de los asuntos encomendados;
 
-III. Discutir y aprobar el programa operativo anual.
+III.- Discutir y aprobar el programa operativo anual.
 
-IV. Dictar las normas generales y establecer los criterios y políticas que deban orientar las actividades del Instituto;
+IV.- Dictar las normas generales y establecer los criterios y políticas que deban orientar las actividades del Instituto;
 
-V. Conocer y aprobar para sus efectos legales, el presupuesto anual que le someta el Director General;
+V.- Conocer y aprobar para sus efectos legales, el presupuesto anual que le someta el Director General;
 
-VI. Discutir y aprobar en su caso, el informe anual que le presente el Director General, el cual incluirá los informes financieros;
+VI.- Discutir y aprobar en su caso, el informe anual que le presente el Director General, el cual incluirá los informes financieros;
 
-VII. Aprobar los inventarios de bienes que constituyan el patrimonio del Instituto y que sean puestos a su consideración por el Director General;
+VII.- Aprobar los inventarios de bienes que constituyan el patrimonio del Instituto y que sean puestos a su consideración por el Director General;
 
-VIII. Autorizar la celebración de contratos y demás actos jurídicos que sean necesarios para el cumplimiento de los objetivos del Instituto;
+VIII.- Autorizar la celebración de contratos y demás actos jurídicos que sean necesarios para el cumplimiento de los objetivos del Instituto;
 
-IX. Discutir y aprobar en su caso, de conformidad con las normas legales aplicables, las formas de financiamiento para el Instituto, incluyendo los empréstitos que le proponga el Director General;
+IX.- Discutir y aprobar en su caso, de conformidad con las normas legales aplicables, las formas de financiamiento para el Instituto, incluyendo los empréstitos que le proponga el Director General;
 
-X. Vigilar que las actividades del Instituto, se ajusten a los programas y presupuestos aprobados, y
+X.- Vigilar que las actividades del Instituto, se ajusten a los programas y presupuestos aprobados; y
 
-XI. Las demás que le confiere la Ley y el presente Decreto y en general todas las que tiendan a la optimización del servicio y a la buena marcha y funcionamiento del Instituto.
+XI.- Las demás que le confiere la Ley y el presente Decreto y en general todas las que tiendan a la optimización del servicio y a la buena marcha y funcionamiento del Instituto.
 
 ###### ARTÍCULO 13.
 
 El Presidente, tendrá las siguientes atribuciones:
 
-I. Nombrar y remover al Director General.
+I.- Nombrar y remover al Director General;
 
-II. Presidir las sesiones de la Junta Directiva
+II.- Presidir las sesiones de la Junta Directiva;
 
-III. Vigilar que las sesiones de la Junta Directiva, sean convocadas con la oportunidad debida;
+III.- Vigilar que las sesiones de la Junta Directiva, sean convocadas con la oportunidad debida;
 
-IV. Formular y ordenar la ejecución de los planes y programas necesarios,
+IV.- Formular y ordenar la ejecución de los planes y programas necesarios;
 
-V. Vigilar el cumplimiento a los planes y programas de trabajo que aprueben la Junta Directiva;
+V.- Vigilar el cumplimiento a los planes y programas de trabajo que aprueben la Junta Directiva;
 
-VI. Proponer a la Junta Directiva, las medidas adecuadas para el mejor funcionamiento del Instituto;
+VI.- Proponer a la Junta Directiva, las medidas adecuadas para el mejor funcionamiento del Instituto;
 
-VII. Someter a la aprobación de la Junta Directiva los asuntos o negocios cuando su importancia y cuantía así lo requieran;
+VII.- Someter a la aprobación de la Junta Directiva los asuntos o negocios cuando su importancia y cuantía así lo requieran;
 
-VIII. Dar cuenta al Congreso del Estado sobre los asuntos del Instituto cuando sea requerido para ello, y
+VIII.- Dar cuenta al Congreso del Estado sobre los asuntos del Instituto cuando sea requerido para ello; y
 
-IX. En general, todas las demás que tiendan a la buena marcha y funcionamiento del Instituto.
+IX.- En general, todas las demás que tiendan a la buena marcha y funcionamiento del Instituto.
 
 ###### ARTÍCULO 14.
 
 El Secretario Técnico tendrá las siguientes atribuciones:
 
-I. Supervisar el manejo administrativo de los recursos que provenientes de diversas fuentes, perciba el Instituto;
+I.- Supervisar el manejo administrativo de los recursos que provenientes de diversas fuentes, perciba el Instituto;
 
-II. Convocar por instrucciones del Presidente de la Junta Directiva, con una antelación de por lo menos cinco días hábiles a las Sesiones Ordinarias y con setenta y dos horas de anticipación a las Extraordinarias; incorporando el correspondiente orden del día;
+II.- Convocar por instrucciones del Presidente de la Junta Directiva, con una antelación de por lo menos cinco días hábiles a las Sesiones Ordinarias y con setenta y dos horas de anticipación a las Extraordinarias; incorporando el correspondiente orden del día;
 
-III. Constituir y coordinar los Consejos Técnicos Especializados que coadyuvarán en las actividades de la Junta Directiva;
+III.- Constituir y coordinar los Consejos Técnicos Especializados que coadyuvarán en las actividades de la Junta Directiva;
 
-IV. Determinar en qué situaciones se requerirá de asesores técnicos externos y tramitar su participación;
+IV.- Determinar en qué situaciones se requerirá de asesores técnicos externos y tramitar su participación;
 
-V. Promover en los casos que así lo apruebe la Junta Directiva, la participación de particulares en el cumplimiento de los fines del Instituto, organizando y coordinando el procedimiento de licitación respectivo, y
+V.- Promover en los casos que así lo apruebe la Junta Directiva, la participación de particulares en el cumplimiento de los fines del Instituto, organizando y coordinando el procedimiento de licitación respectivo; y (sic)
 
-VI. Presentar a la Junta Directiva los estados financieros, balances ordinarios y extraordinarios, así como los informes generales y especiales que la propia Junta Directiva le solicite;
+VI.- Presentar a la Junta Directiva los estados financieros, balances ordinarios y extraordinarios, así como los informes generales y especiales que la propia Junta Directiva le solicite;
 
-VII. Formular el inventario del Instituto y someterlo a consideración del Presidente;
+VII.- Formular el inventario del Instituto y someterlo a consideración del Presidente;
 
-VIII. Poner a la consideración del Presidente, los informes y estados mensuales de contabilidad, señalando las deficiencias que se presenten en la administración de los ingresos y egresos del Instituto, y rendir los estados financieros, cuantas veces sea requerido para ello;
+VIII.- Poner a la consideración del Presidente, los informes y estados mensuales de contabilidad, señalando las deficiencias que se presenten en la administración de los ingresos y egresos del Instituto, y rendir los estados financieros, cuantas veces sea requerido para ello;
 
-IX. Formular y poner a consideración del Presidente los proyectos de presupuestos y proyectos de planes y programas de trabajo para que éste, los someta a la aprobación de la Junta Directiva;
+IX.- Formular y poner a consideración del Presidente los proyectos de presupuestos y proyectos de planes y programas de trabajo para que éste, los someta a la aprobación de la Junta Directiva;
 
-X. Gestionar los financiamientos que se requieran para el cumplimiento de los objetivos del Instituto, incluyendo los créditos con cargo a su patrimonio, y
+X.- Gestionar los financiamientos que se requieran para el cumplimiento de los objetivos del Instituto, incluyendo los créditos con cargo a su patrimonio; y
 
-XI. Las demás que le asigne el presente ordenamiento, el Reglamento y la Junta Directiva.
+XI.- Las demás que le asigne el presente ordenamiento, el Reglamento y la Junta Directiva.
 
 ###### ARTÍCULO 15.
 
@@ -283,19 +303,15 @@ NOEL FLORENTINO GARCIA AGUILAR,
 
 DIPUTADO PRESIDENTE.
 
-HECTOR CESAR SANCHEZ AGUILAR,
+HECTOR CESAR SANCHEZ AGUILAR, MARCELA MERINO GARCIA,
 
-DIPUTADO SECRETARIO.
+DIPUTADO SECRETARIO. DIPUTADA SECRETARIA.
 
-MARCELA MERINO GARCIA,
-
-DIPUTADA SECRETARIA.
-
-Por lo tanto mando que se imprima, publique, circule y se dé el debido cumplimiento.
+Por lo tanto mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Oaxaca de Juárez, Oax., a 29 de noviembre del 2004.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 LIC. JOSE MURAT.
 
@@ -311,6 +327,24 @@ SUFRAGIO EFECTIVO. NO REELECCION
 
 Oaxaca de Juárez, Oax., a 29 de noviembre del 2004.
 
-EL SECRETARIO GENERAL DE GOBIERNO.
-
 LIC. CELESTINO MANUEL ALONSO ALVAREZ.
+
+AL C.
+
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1802.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se faculta a las Secretarías de Administración, de Finanzas y de la Contraloría y Transparencia Gubernamental, en coordinación con el Instituto Oaxaqueño de las Artesanías para llevar a cabo las adecuaciones correspondientes, en el ámbito de sus respectivas competencias, para dar cumplimiento al presente Decreto.
+
+TERCERO. El órgano de gobierno del Instituto Oaxaqueño de las Artesanías, contará con noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que resulten necesarias al marco jurídico, a fin de hacer efectivas las disposiciones del mismo.
+
+CUARTO. El Presidente del Órgano de Gobierno del instituto Oaxaqueño de las Artesanías, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto, convocarán para la presentación de nuevos integrantes y toma de protesta de los mismos, que conforman los órganos de gobierno que sufren modificación en su integración y funcionamiento conforme a este Decreto.
+
+QUINTO. El Consejo de Administración, en un plazo no mayor a noventa días hábiles posteriores a la publicación del presente Decreto, deberá expedir o, en su caso, reformar el reglamento interno, manuales y demás ordenamientos administrativos del Instituto Oaxaqueño de las Artesanías.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
