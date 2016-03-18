@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-2024
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-02"
-last_updated: "2015-11-20"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el día 2 de marzo de 2001.
 
@@ -249,7 +249,17 @@ XIII. Fiscalizar la correcta aplicación de los recursos públicos que con motiv
 
 XIV. Sancionar administrativamente a las organizaciones que contravengan lo dispuesto en esta Ley y su Reglamento, notificando inmediatamente al Consejo y a las autoridades competentes, y
 
-XV. Las demás que las leyes y reglamentos le establezcan.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XV. Promover un esquema de colaboración con instituciones académicas, para crear un sistema de asesoramiento y cooperación con las Organizaciones, con el fin de que estas últimas puedan participar y tener acceso a recursos de organismos internacionales, tanto públicos como privados.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XVI. Brindar acceso a los jóvenes y estudiantes en las áreas de desarrollo local en el que se desempeñe la Coordinación y las Organizaciones para ampliar su conocimiento y experiencia.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XVII. Las demás Leyes y reglamentos que (sic) establezcan.
 
 ###### ARTICULO 13.
 
@@ -554,3 +564,9 @@ P.O. 18 DE OCTUBRE DE 2013.
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 444 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 12 FRACCIÓN XV, Y ADICIÓN DE LAS FRACCIONES XVI Y XVII A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
