@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-88104"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-01"
-last_updated: "2016-03-11"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -523,9 +523,15 @@ V. La identificación de medidas de gestión para la adaptación de especies pri
 
 VI. La elaboración de diagnósticos de la vulnerabilidad ante los cambios climáticos esperados;
 
-VII. El intercambio y migración de las especies de flora y fauna silvestres, terrestres o acuáticas dentro de un mismo ecosistema o entre éstos; y
+VII. (DEROGADA, P.O. 18 DE MARZO DE 2016)
 
-VIII. La implementación de un sistema tarifario por el uso de agua, que incorpore el pago por los servicios ambientales hidrológicos de los ecosistemas, a fin de destinar su producto a la conservación de los mismos.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VIII. La implementación de un sistema tarifario por el uso de agua, que incorpore el pago por los servicios ambientales hidrológicos de los ecosistemas, a fin de destinar su producto a la conservación de los mismos; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+IX. Identificación e implementación de medidas de manejo y gestión que favorezcan la migración, intercambio genético y la adaptación natural de la biodiversidad, especies de flora y fauna prioritarias, indicadoras y particularmente vulnerables al cambio climático, a través del mantenimiento e incremento de la cobertura vegetal nativa terrestre, acuática y riparia del Estado, promoviendo la conectividad entre los ecosistemas.
 
 ### CAPÍTULO IX. DE LA MITIGACIÓN
 
@@ -694,3 +700,9 @@ P.O. 11 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 459 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2 FRACCIÓN I, LA DENOMINACIÓN DEL CAPITULO III Y LA CREACIÓN DE UN ARTÍCULO 10 BIS, LOS ARTÍCULOS 11, 14, 19, Y 27 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 458 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 8, 27, 29 Y 39, ASIMISMO SE ADICIONA UNA SECCIÓN IV AL TÍTULO TERCERO DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma al artículo 38 de la Ley de Prevención, Mitigación y Adaptación del Cambio Climático para el Estado de Baja California, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
