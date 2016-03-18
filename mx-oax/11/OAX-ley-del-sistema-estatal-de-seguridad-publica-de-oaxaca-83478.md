@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2015-08-26"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚM. 1273 Y DE ACUERDO CON EL ARTÍCULO 53, FRACCIÓN VI, SEGUNDO PÁRRAFO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE FACULTA AL PODER EJECUTIVO, PARA QUE, EN CASO DE QUE EL CONGRESO DEL ESTADO NO RESUELVA EN EL PLAZO IMPRORROGABLE DE QUINCE DÍAS HÁBILES, ESTABLECIDO EN LA FRACCIÓN CITADA, SE TENDRÁN COMO APROBADAS LAS OBSERVACIONES QUE FUERON PRESENTADAS POR EL EJECUTIVO, PARA SURTIR INMEDIATAMENTE LOS EFECTOS CONDUCENTES DE PROMULGACIÓN Y PUBLICACIÓN, POR LO QUE OBEDECIENDO AL MANDATO CONSTITUCIONAL, EN CONSECUENCIA SE PUBLICA EL CITADO DECRETO EN EL P.O. 26 DE AGOSTO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -291,9 +291,21 @@ III. El Secretario de Seguridad Pública;
 
 IV. El Procurador General de Justicia del Estado;
 
-V. El Comisionado, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-VI. El Secretario Ejecutivo, quien tendrá derecho a voz, pero no a voto.
+V. El Diputado Presidente de la Comisión Permanente de Protección Ciudadana;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VI. El Diputado Presidente de la Comisión Permanente de Administración de Justicia;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VII. El Comisionado; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VIII. El Secretario Ejecutivo, quien tendrá derecho a voz, pero no a voto.
 
 B. Son invitados permanentes con derecho a voz, pero no a voto, los representantes en el Estado de las siguientes autoridades federales:
 
@@ -1125,7 +1137,7 @@ El Comisionado será el titular de la Policía Estatal y llevará a cabo las atr
 
 ###### Artículo 48.
 
-Los Municipios que forman parte integrante del Estado de Oaxaca participarán en el desarrollo de la seguridad púbica, en los términos previstos por el artículo 21 de la Constitución Federal y 21 de la Constitución Particular.
+Los Municipios que forman parte integrante del Estado de Oaxaca participarán en el desarrollo de la seguridad pública, en los términos previstos por el artículo 21 de la Constitución Federal y 21 de la Constitución Particular.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3224,3 +3236,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Consejo Estatal de Seguridad Pública contará con un plazo de treinta días hábiles, contados a partir de la entrada en vigor de éste Decreto, para la elección de los presidentes municipales de los Ayuntamientos con mayor población, con mayor incidencia delictiva o que cuenten con destinos turísticos, y que cumplan con lo establecido en la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública de Oaxaca, en lo relativo a la conformación de sus Instituciones Policiales, señalados en el segundo párrafo del apartado B del artículo 16, del presente Decreto.
 
 (El artículo segundo transitorio, se publica con las observaciones realizadas por el Poder Ejecutivo del Estado por oficio fechado el 31 de julio de 2015 y recibido en el H. Congreso del Estado, el mismo día, de conformidad con lo dispuesto en el segundo párrafo de la fracción VI del artículo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca)
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1805.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
