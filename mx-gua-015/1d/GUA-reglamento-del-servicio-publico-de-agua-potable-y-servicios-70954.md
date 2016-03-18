@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-publico-de-agua-potable-y-servicios-709
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-06"
-last_updated: "2014-03-25"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO PUBLICO DE AGUA POTABLE Y SERVICIOS COMPLEMENTARIOS PARA EL MUNICIPIO DE GUANAJUATO, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de noviembre de 2009.
 
@@ -39,21 +39,39 @@ REGLAMENTO DEL SERVICIO PÚBLICO DE AGUA POTABLE Y SERVICIOS COMPLEMENTARIOS PAR
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de orden público e interés social y tiene por objeto la regulación de la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, en el municipio de Guanajuato y las relaciones entre los usuarios y el organismo operador del servicio que asume la gestión del mismo, denominado Sistema Municipal de Agua Potable y Alcantarillado de Guanajuato, la estructura orgánica y atribuciones de éste; así como la planeación y programación de acciones e inversiones en materia del servicio público, las inspecciones, verificaciones, infracciones, sanciones y denuncia popular en la materia.
+El presente reglamento es de orden público e interés social y tiene por objeto regular:
+
+I. La prestación del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales en el municipio de Guanajuato;
+
+II. Las relaciones entre los usuarios y el organismo operador;
+
+III. La estructura orgánica y atribuciones del organismo operador del servicio denominado Sistema Municipal de Agua Potable y Alcantarillado de Guanajuato;
+
+IV. La planeación y programación de acciones e inversiones en materia del servicio público;
+
+V. Las inspecciones, verificaciones, infracciones y sanciones; y,
+
+VI. Las relaciones entre el Simapag y las comunidades rurales, llevando a cabo las acciones necesarias para la integración de las mismas.
 
 ###### Artículo 2.
 
 Las instalaciones del servicio son bienes de dominio público municipal, en su modalidad de bienes afectos al servicio público, correspondiendo al Ayuntamiento el fortalecimiento de la infraestructura mediante la aprobación de planes de inversión que tiendan en todo momento a aumentar el caudal de las aguas destinadas al servicio y a perfeccionar la calidad de las mismas.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 3.
 
-En lo no previsto por este Reglamento, se estará, en forma supletoria, a lo establecido en la Ley de Aguas para el Estado de Guanajuato, la Ley Orgánica Municipal para el Estado de Guanajuato, la Ley de Ingresos para el Municipio de Guanajuato y la Ley de Hacienda para los Municipios del Estado de Guanajuato.
+En lo no previsto por este reglamento, se estará en forma supletoria, a lo establecido en la Ley Orgánica Municipal para el Estado de Guanajuato, la Ley de Ingresos para el Municipio de Guanajuato, la Ley de Hacienda para los Municipios del Estado de Guanajuato, y la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 4.
 
-Para los efectos del presente Reglamento, en lo sucesivo se entenderá por:
+Para los efectos del presente reglamento, en lo sucesivo se entenderá por:
 
 I. Agua potable: El agua apta para el consumo humano conforme a los parámetros y procedimientos técnicos establecidos en las normas oficiales mexicanas;
 
@@ -65,9 +83,9 @@ IV. Estado: El Estado de Guanajuato;
 
 V. Infraestructura hidráulica: Las redes de agua potable, drenaje, alcantarillado y saneamiento, potabilización y tratamiento del agua, cárcamos, bombas, tanques de regularización e instalaciones conexas que integran el inventario respectivo;
 
-VI. Municipio: El municipio de Guanajuato;
+VI. Municipio: El Municipio de Guanajuato;
 
-VII. Obra: es la infraestructura hidráulica constituida por las redes de agua potable, drenaje, alcantarillado y saneamiento, potabilización y tratamiento del agua, cárcamos, bombas, tanques de regularización e instalaciones conexas que integran el inventario respectivo;
+VII. Obra: Es la infraestructura hidráulica constituida por las redes de agua potable, drenaje, alcantarillado y saneamiento, potabilización y tratamiento del agua, cárcamos, bombas, tanques de regularización e instalaciones conexas que integran el inventario respectivo;
 
 VIII. Organismo Operador del Servicio: La entidad pública municipal, responsable de la prestación del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
 
@@ -79,7 +97,7 @@ XI. Servicios Complementarios: Son drenaje, alcantarillado, tratamiento y dispos
 
 XII. Servicio Público: Es aquel prestado al público de una manera regular, general y continua para satisfacer una necesidad colectiva;
 
-XIII. SIMAPAG: por sus siglas, Organismo Operador: Sistema Municipal de Agua Potable y Alcantarillado de Guanajuato;
+XIII. Simapag: Sistema Municipal de Agua Potable y Alcantarillado de Guanajuato; organismo operador del servicio de agua potable y alcantarillado;
 
 XIV. Toma domiciliaria: Conjunto de tuberías y accesorios que permiten el ingreso de agua potable desde la red de distribución hacia las instalaciones internas del inmueble;
 
@@ -89,9 +107,9 @@ XVI. Uso comercial y de servicios: La utilización del agua en establecimientos 
 
 XVII. Uso doméstico: La utilización de agua a través de la red municipal, así como otras redes que presten servicio colectivo de agua en beneficio de personas físicas o morales, y la destinada al uso particular de las personas y a su hogar;
 
-XVIII. Uso industrial: La utilización de agua en fábricas, empresas o parques industriales, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación; y
+XVIII. Uso industrial: La utilización de agua en fábricas, empresas o parques industriales, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación; y,
 
-XIX. Usuarios: Las personas físicas o morales a las que el SIMAPAG preste los servicios de agua potable y servicios complementarios.
+XIX. Usuarios: Las personas físicas o morales a las que el Simapag preste los servicios de agua potable y servicios complementarios.
 
 ###### Artículo 5.
 
@@ -391,9 +409,11 @@ Habiendo hecho el particular la solicitud para la instalación de toma de agua c
 
 En ningún caso el propietario o poseedor del predio podrá operar por si mismo el cambio de la infraestructura hidráulica, supresión o conexión para el agua potable y alcantarillado.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 31.
 
-En los casos en que conforme a la Ley de Aguas Nacionales, Ley de Aguas para el Estado de Guanajuato o de este Reglamento, proceda la supresión de una toma o la descarga domiciliaria, el interesado hará la solicitud, expresando las causas en que se funde la misma; lo mismo ocurrirá cuando se trate de una obra de interés público.
+En los casos en que conforme a la Ley de Aguas Nacionales o de este Reglamento, proceda la supresión de una toma o la descarga domiciliaria, el interesado hará la solicitud, expresando las causas en que se funde la misma; lo mismo ocurrirá cuando se trate de una obra de interés público.
 
 ###### Artículo 32.
 
@@ -431,11 +451,13 @@ En los lugares en donde no se cuente con los medidores de agua o mientras estos 
 
 Todo predio en donde se construyan edificios o condominios que tengan como destino la instalación de departamentos, despachos o comercios independientes para cualquier uso similar, deberá contar con las instalaciones de agua potable y servicios complementarios, autorizadas por el SIMAPAG.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 40.
 
-Los titulares de fraccionamientos, desarrollos en condominios o conjuntos habitacionales o sus representantes legales, están obligados a solicitar al SIMAPAG, la factibilidad para el suministro de los servicios de agua potable, alcantarillado y saneamiento, acreditando su personalidad e interés jurídico, además de cumplir con las obligaciones que en esa materia les imponga la Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios, su Reglamento y el Reglamento Municipal correspondiente, así como las Normas Oficiales Mexicanas.
+Los titulares de fraccionamientos, desarrollos en condominios o conjuntos habitacionales o sus representantes legales, están obligados a solicitar al Simapag, la factibilidad para el suministro de los servicios de agua potable, alcantarillado y saneamiento, acreditando su personalidad e interés jurídico, además de cumplir con las obligaciones que en esa materia les imponga el Código Territorial para el Estado y los Municipios de Guanajuato, el presente Reglamento, así como las Normas Oficiales Mexicanas.
 
-El SIMAPAG autorizará los planos de construcción de la infraestructura hidráulica correspondientes y llevará a cabo la supervisión de obra e instalaciones; la recepción, operación y mantenimiento de la misma y la aplicación de sanciones en su caso, atendiendo siempre a los lineamientos establecidos en los ordenamientos legales referidos en el párrafo anterior.
+El Simapag autorizará los planos de construcción de la infraestructura hidráulica correspondientes y llevará a cabo la supervisión de obra e instalaciones; la recepción, operación y mantenimiento de la misma y aplicación de sanciones en su caso, atendiendo siempre a los lineamientos establecidos en los ordenamientos legales referidos en el párrafo anterior.
 
 ###### Artículo 41.
 
@@ -593,113 +615,103 @@ El SIMAPAG será responsable solidario por los daños causados por los servidore
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN Y FACULTADES DEL SIMAPAG
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 61.
 
-El SIMAPAG, para el estudio, planeación, dirección, ejecución, evaluación y despacho de los asuntos de su competencia, estará dirigido y administrado por un Consejo Directivo, el cual se integrará de la siguiente manera: un Consejero Presidente, un Consejero Secretario, un Consejero Financiero, un Consejero Jurídico y seis Consejeros Vocales, dicho Consejo durará en su encargo un periodo de tres años.
+Para el estudio, planeación, dirección, ejecución, evaluación y despacho de los asuntos de su competencia, el Simapag es dirigido y administrado por un Consejo Directivo, el cual se integra por un mínimo de ocho y un máximo de diez consejeros titulares y por cuatro o cinco, según corresponda, respectivamente, de consejeros supernumerarios, el cual se renovará cada cuatro años.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2014)</small>
+En su conformación se procurará una integración tendiente a la equidad de género.
 
-La Comisión de Contraloría y Fiscalización del Honorable Ayuntamiento se encargara de la vigilancia y del estudio de los asuntos relacionados con la operación del SIMAPAG.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2014)</small>
-
-Los miembros de la Comisión de manera enunciativa y no limitativa contarán con las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
-
-I. Asistir a las sesiones del Consejo, para lo cual deberán ser convocados como si fuesen Consejeros, lo anterior, previa notificación de la convocatoria que se haga en los términos de este Reglamento.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2011)</small>
-
-II. Participar con derecho a voz pero sin voto en las sesiones del Consejo; y,
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
-
-III. Solicitar y obtener del Consejo, así como de las áreas operativas del SIMAPAG, los informes que requieran para cumplir con la finalidad de vigilancia que se les encomendó, pudiendo con ello emitir parámetros para evaluar el desempeño de los miembros de dicho Consejo, los cuales serán tomados en cuenta en el momento en que se haga la propuesta de reelección contemplada en el artículo 61 BIS del presente Reglamento.
-
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2014)</small>
+Ninguna persona podrá desempeñar el cargo de consejero por más de dos periodos consecutivos.
 
 ###### Artículo 61 Bis.
 
-El Consejo Directivo podrá ser ratificado para seguir desempeñando su cargo por un periodo igual a propuesta del Presidente Municipal, la cual deberá de ser aprobada por el H. Ayuntamiento.
+(DEROGADO, P.O. 18 DE MARZO DE 2016)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 62.
 
-En caso de que el Ayuntamiento no apruebe la propuesta enunciada en el artículo anterior, o bien, no se haya realizado ninguna propuesta, para efecto de renovar el Consejo Directivo, la Comisión de Contraloría y Fiscalización del Honorable Ayuntamiento será la responsable de establecer las bases para el proceso de convocatoria y dictámenes para la integración del Consejo Directivo del SIMAPAG, mismos que deberán ser aprobados por el pleno del Ayuntamiento.
+El Ayuntamiento, a propuesta de la Comisión de Gobierno y Asuntos Legislativos es la responsable de establecer las bases para el proceso de convocatoria y dictámenes para la integración del Consejo Directivo del Simapag.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 63.
 
-El Ayuntamiento convocará a la sociedad civil organizada que se encuentre legalmente constituida y con domicilio en el Municipio, excepto partidos ó asociaciones políticas, para que propongan a los candidatos a ocupar los cargos en el Consejo Directivo. Podrán participar, entre otros, los siguientes sectores:
+En la convocatoria correspondiente, el Ayuntamiento convocará a las personas que deseen participar, así como a las asociaciones civiles legalmente constituidas y domiciliadas en el municipio, excepto partidos o asociaciones políticas, para que propongan a los candidatos a ocupar el cargo de consejero titular y consejero supernumerario en el Consejo Directivo del Simapag. Podrán participar, de manera enunciativa, pero no limitativa, los siguientes sectores:
 
-I. Comunidades rurales;
+I. Los propios interesados;
 
 II. Asociaciones de colonos;
 
 III. Cámaras industriales o de servicios;
 
-IV. Colegios de profesionistas;
+IV. Colegios de profesionistas y;
 
-V. Organizaciones no gubernamentales;
+V. Organizaciones no gubernamentales.
 
-VI. Uniones de usuarios;
-
-VII. Instituciones educativas de nivel superior; o
-
-VIII. Industria minera.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 64.
 
-La convocatoria deberá ser firmada por el Presidente Municipal y será publicada en dos ocasiones con intervalo de dos días naturales en los periódicos de mayor circulación en el Municipio y en la página web del SIMAPAG.
+La convocatoria deberá ser firmada por el presidente municipal y será publicada en dos ocasiones con intervalo de dos días naturales en un periódico de circulación en el municipio, en la página web del mismo y del Simapag.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 65.
 
-Dentro de la segunda quincena del mes de marzo del año en que termine su encargo el Consejo Directivo, el Ayuntamiento emitirá la convocatoria para la integración del nuevo Consejo Directivo.
+Dentro de la segunda quincena del mes de marzo de cada dos años, a partir de la entrada en vigor del presente, el Honorable Ayuntamiento, a propuesta de la Comisión de Gobierno y Asuntos Legislativos emitirá la convocatoria para la integración de la parte del nuevo Consejo Directivo que corresponda.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 66.
 
-Las personas propuestas para integrar el Consejo Directivo, deberán reunir los requisitos siguientes:
+Para ser consejero se requiere:
 
-I. Ser de nacionalidad mexicana, con residencia acreditable en el municipio de Guanajuato, con un mínimo de dos años;
+I. Ser de nacionalidad mexicana, con residencia acreditable en el municipio de Guanajuato con un mínimo de dos años;
 
 II. Ser mayor de veinticinco años de edad;
 
-III. No tener adeudos con el SIMAPAG;
+III. No tener adeudos con el Simapag;
 
-IV. No estar desempeñando un puesto directivo en ningún partido o asociación política;
+IV. No desempeñar cargo alguno en partido o asociación política;
 
 V. No haber participado como candidato o candidata a puesto de elección popular en el proceso electoral inmediato anterior;
 
 VI. No haber sido sujeto de sentencia ejecutoria por delito intencional;
 
-VII. No estar desempeñando ningún cargo o comisión, en la Administración Pública Federal, Estatal o Municipal; y (sic)
+VII. No desempeñar ningún cargo o comisión en la administración pública federal, estatal o municipal;
 
-VIII. Contar con credencial para votar.
-
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2011)</small>
+VIII. Contar con credencial para votar; y,
 
 IX. Acreditar una escolaridad mínima de preparatoria terminada, bachillerato o su equivalente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 67.
 
-Una vez cerrado el registro, la Secretaría del Ayuntamiento, revisará en un solo acto, los expedientes de las personas propuestas y en acta circunstanciada asentará los datos de aquellas que cumplieron los requisitos solicitados, detallando los documentos con los que se acredite dicha situación. Asimismo, se anotará a quienes no los hayan cubierto, remitiendo todos los expedientes, dentro de las cuarenta y ocho horas siguientes, a la Comisión de Contraloría y Fiscalización del Honorable Ayuntamiento.
+Una vez cerrado el registro, la Secretaría del Ayuntamiento remitirá a la Comisión de Gobierno y Asuntos Legislativos los expedientes de cada una de las personas propuestas, la que los revisará en un solo acto y en dictamen asentará los datos de aquéllas que cumplieron los requisitos solicitados, detallando los documentos con los que se acredite dicha situación.
 
-La Comisión analizará las propuestas tomando en cuenta el perfil y la experiencia laboral de los ciudadanos que cumplieron con los requisitos exigidos por este Reglamento y por la convocatoria, presentando el dictamen respectivo que contenga los nombres de los diez consejeros propietarios, cada uno con su respectivo consejero suplente, al pleno del Ayuntamiento en la siguiente sesión para su aprobación.
+Asimismo, se anotará a quienes no los hayan cubierto, remitiendo todos los expedientes y el dictamen correspondiente a la Secretaría del Ayuntamiento, para que se proceda a dar cuenta con ello en sesión del Honorable Ayuntamiento.
+
+La designación de consejeros la hará el Ayuntamiento de entre las personas que hayan cumplido con los requisitos exigidos por el presente reglamento.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 68.
 
-El Ayuntamiento, a través del Presidente Municipal expedirá los nombramientos respectivos y tomará la protesta de Ley a los Consejeros designados.
+Hecha la designación por el Ayuntamiento se procederá a tomarles protesta a los consejeros propietarios y supernumerarios designados.
+
+La designación de los Consejeros se publicará en el Periódico Oficial del Gobierno del Estado.
+
+El Ayuntamiento, a través del presidente municipal expedirá los nombramientos respectivos.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 69.
 
-Los Consejeros en su primera sesión, designarán de entre ellos, al Consejero Presidente, Consejero Secretario, al Consejero Financiero y al Consejero Jurídico del Consejo Directivo, quienes desempeñarán sus respectivos encargos los cuatro años que señala este Reglamento, debiendo rendir la protesta de Ley y comunicar de inmediato al Ayuntamiento la conformación e instalación del Consejo Directivo, para su publicación en el Periódico Oficial del Gobierno del Estado.
+Los consejeros en su primera sesión, designarán de entre ellos al consejero presidente y consejero secretario, quienes desempeñarán sus respectivos encargos por dos años, pudiendo ser reelectos para un segundo periodo y debiendo rendir la protesta de ley y comunicar de inmediato al Ayuntamiento la conformación e instalación del Consejo Directivo, para su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 70.
 
@@ -721,25 +733,29 @@ Los acuerdos que tome el Consejo Directivo serán por mayoría y el Consejero Pr
 
 Para que el Consejo Directivo se encuentre legalmente reunido, se requerirá la asistencia de la mayoría de sus miembros.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 75.
 
-Si en alguna de las sesiones por cualquier motivo faltare el Consejero Presidente o el Consejero Secretario, los asistentes harán las designaciones correspondientes para cubrir por esa vez la ausencia.
+Si en alguna de las sesiones por cualquier motivo faltare el consejero presidente o el consejero secretario, los asistentes harán las designaciones correspondientes para cubrir por esa vez la ausencia.
+
+Las ausencias de más de un mes de los consejeros titulares serán suplidas por los consejeros supernumerarios, de acuerdo al sorteo que para ello realice el Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 76.
 
-Cualquier integrante del Consejo Directivo que falte tres veces consecutivas sin causa justificada a las sesiones a que haya sido convocado, previa calificación de la causa, se dará aviso al Ayuntamiento para que proceda conforme a sus facultades y el Consejo Directivo llamará al suplente.
+La ausencia por tres veces consecutivas sin causa justificada a las sesiones a que haya sido convocado, será causa de remoción del consejero. El Consejo, por conducto de su presidente dará aviso al Ayuntamiento para que proceda conforme a las facultades que le confiere este reglamento.
 
-Si el suplente no procede a ocupar el puesto vacante, el Ayuntamiento, sin más trámite, y a propuesta del Presidente Municipal, nombrará a quien ocupe el cargo
+En caso de remoción de un consejero titular, el Consejo llamará de manera aleatoria al consejero supernumerario que corresponda.
+
+Si el consejero supernumerario no procede a ocupar el puesto vacante, el Ayuntamiento, sin más trámite, y a propuesta del presidente municipal, nombrará a quien ocupe el cargo.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 77.
 
-El Ayuntamiento, con sujeción a las garantías de audiencia y legalidad, podrá en todo momento, remover a cualquiera de los Consejeros, lo anterior por acuerdo de mayoría calificada y a propuesta de cualquiera de sus miembros por las causas siguientes:
-
-I. Atentar contra el patrimonio del SIMAPAG;
-
-II. Por incumplimiento reiterado de su comisión; y
-
-III. Por cualquier otra causa que haga imposible el desempeño de sus funciones en el Consejo Directivo.
+Los consejeros están sujetos al régimen de responsabilidades previsto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL CONSEJO DIRECTIVO
 
@@ -1486,3 +1502,15 @@ Segundo.- Los miembros del Consejo Directivo que se encuentren en funciones ante
 Tercero.- La otra parte del Consejo Directivo que se encuentra en funciones actualmente y concluye su encargo en el 2016, no tendrá derecho a ser ratificado en los términos de la reforma al Reglamento que se enuncia.
 
 Cuarto.- Respecto de los Consejeros que se mencionan en el artículo segundo transitorio del presente documento, estarán sujetos a que cada seis meses se les efectúe una evaluación en lo individual por parte de la Comisión de Contraloría y Fiscalización del Honorable Ayuntamiento con la finalidad de observar su correcto desempeño en su encargo; pudiendo derivar en caso de que se detecten inconsistencias en la revocación de esa ampliación de dos años en el cargo.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MUNICIPAL, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO PÚBLICO DE AGUA POTABLE Y SERVICIOS COMPLEMENTARIOS PARA EL MUNICIPIO DE GUANAJUATO, GTO.”]
+
+Artículo primero: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo: Por única ocasión, el cincuenta por ciento de los integrantes del Consejo Directivo durarán en su cargo dos años, y los restantes serán nombrados por un periodo de cuatro años.
+
+Artículo tercero: La determinación de quienes de los consejeros designados durarán dos y quienes cuatro años, la hará el Ayuntamiento a propuesta del presidente municipal.
+
+Artículo cuarto: Los integrantes del Consejo Directivo del Simapag, que se encuentran en funciones a la entrada en vigor de las presentes reformas y derogaciones y adiciones a este cuerpo normativo, no podrán participar en el proceso de selección y nombramientos del nuevo Consejo Directivo, en los términos de los artículos transitorios segundo y tercero, de la reforma al mismo publicada en 25 de marzo de 2014.
