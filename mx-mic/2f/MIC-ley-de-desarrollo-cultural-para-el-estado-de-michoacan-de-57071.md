@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-cultural-para-el-estado-de-michoacan-de-57071
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-26"
-last_updated: "2010-11-22"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 26 de septiembre de 2007.
 
@@ -145,7 +145,9 @@ XII. Garantizar el respeto a los derechos humanos, la convivencia, la solidarida
 
 XIII. Fomentar la creación, ampliación y adecuación de la infraestructura cultural;
 
-XIV. Al elaborar la política cultural, tendrá en cuenta tanto al creador, como al promotor, al gestor y al receptor de la cultura y garantizará el acceso de los michoacanos a las manifestaciones, bienes y servicios culturales en igualdad de oportunidades, concediendo especial atención a personas con capacidades diferentes así como a los sectores sociales más necesitados;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XIV. Al elaborar la política cultural, tendrá en cuenta tanto al creador, como al promotor, al gestor y al receptor de la cultura y garantizará el acceso de los michoacanos a las manifestaciones, bienes y servicios culturales en igualdad de oportunidades, concediendo especial atención a personas con discapacidad, así como a los sectores sociales más necesitados;
 
 XV. Garantizar a los niños y niñas el derecho de acceder a todas aquellas manifestaciones culturales que sean apropiadas para el desarrollo de sus valores éticos, estéticos, culturales y ecológicos;
 
@@ -303,9 +305,11 @@ VIII. Las personas dedicadas a la creación, promoción y gestión cultural.
 
 La Secretaría fomentará y promoverá la participación de los michoacanos en la vida cultural de las comunidades, el disfrute de los bienes y servicios culturales y la colaboración en el progreso científico y artístico, como fuente de creatividad y componente central de un desarrollo autodeterminado, incluyente, corresponsable, integral y sustentable.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 12.
 
-Se establecerán acciones que eviten toda discriminación cultural motivada por origen étnico o nacional, género, idioma, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades.
+Se establecerán acciones que eviten toda discriminación cultural motivada por origen étnico o nacional, género, idioma, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades.
 
 ###### Artículo 13.
 
@@ -643,7 +647,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE NOVIEMBRE DE 2010.
 
@@ -654,3 +658,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo del Estado, deberá expedir los reglamentos de la presente Ley dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE VIOLENCIA FAMILIAR EN EL ESTADO DE MECHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
