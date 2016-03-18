@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-26-2015-del-pleno-del-consejo-de-la-109058"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-21"
-last_updated: "2015-07-21"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109058&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-06-10"
 
 ACUERDO GENERAL 26/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de julio de 2015.
 
@@ -49,9 +49,11 @@ Por lo anterior, se expide el siguiente
 
 ACUERDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 1.
 
-El Pleno del Consejo de la Judicatura Federal determinará la concentración de los juicios de amparo en uno o varios órganos jurisdiccionales, de conformidad con el artículo 13, segundo párrafo, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y con los lineamientos establecidos en el presente Acuerdo.
+El Pleno del Consejo de la Judicatura Federal determinará la concentración de los juicios de amparo, en todas sus instancias, en uno o varios órganos jurisdiccionales, de conformidad con el artículo 13, segundo párrafo, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y con los lineamientos establecidos en el presente Acuerdo.
 
 Las resoluciones del Pleno del Consejo de la Judicatura Federal son definitivas e inatacables.
 
@@ -94,3 +96,13 @@ TERCERO. Se abroga el Acuerdo General 20/2013 del Pleno del Consejo de la Judica
 CUARTO. Las solicitudes presentadas hasta antes de la entrada en vigor del presente Acuerdo, deberán tramitarse hasta su conclusión conforme a las disposiciones con las que fueron iniciadas.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 26/2015, del Pleno del Consejo de la Judicatura Federal, que regula el trámite al que se sujetarán las solicitudes de concentración de los juicios de amparo en los juzgados de Distrito y tribunales de Circuito, así como su procedencia y declaración, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de diez de junio de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a trece de julio de dos mil quince.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
