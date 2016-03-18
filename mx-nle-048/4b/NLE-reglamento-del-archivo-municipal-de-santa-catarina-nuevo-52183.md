@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-archivo-municipal-de-santa-catarina-nuevo-52183"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-03"
-last_updated: "2006-11-03"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL ARCHIVO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DEL ARCHIVO MUNICIPAL
+REGLAMENTO DEL ARCHIVO MUNICIPAL DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, del viernes 3 de noviembre de 2006.
 
@@ -37,17 +37,25 @@ EXPOSICIÓN DE MOTIVOS
 
 LA POBLACIÓN DE NUESTRO MUNICIPIO ESTÁ CONSCIENTE DE LA RESPONSABILIDAD QUE TENEMOS COMO SOCIEDAD ORGANIZADA DE PROTEGER EL PATRIMONIO CULTURAL E HISTÓRICO DEL MUNICIPIO CON LA CONVICCIÓN DE QUE SERVIR A LA POBLACIÓN ES ACATAR SU MANDATO POR LO TANTO PROPONEMOS UN NUEVO REGLAMENTO, ACORDE A LA LEY DE ACCESO A LA INFORMACIÓN DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y ESTATAL
 
-REGLAMENTO DEL ARCHIVO MUNICIPAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2016)</small>
+
+REGLAMENTO DEL ARCHIVO MUNICIPAL DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de observancia general, de orden público e interés social y tiene por objeto regular las funciones y actividades del Archivo Municipal, estableciendo las normas, principios y métodos para el suministro, uso, control, custodia, conservación producción reproducción, selección y depuración de la documentación que produce y/o recibe la administración pública. Documentos que puedan tener valor histórico, sean manuscritos, impresos gráficos, audiovisuales, sonoros, ópticos, legibles por máquina, documentos electrónicos y todos aquellos que por su contenido sirvan de testimonio, tales como actas, acuerdos, cartas, decretos, reglamentos, informes, leyes, resoluciones, mapas, planos, carteles, tratados, sentencias, fotografías, filmes, grabaciones, cintas magnetofónicas, casetes, disquetes, discos compactos videos digitales y todos los afines
+El presente Reglamento es de observancia general, de orden público e interés social y tiene por objeto regular las funciones y actividades del Archivo Municipal, estableciendo las normas, principios y métodos para el suministro, uso, control, custodia, conservación producción reproducción, selección y depuración de la documentación que produce y/o recibe la administración pública. Documentos que puedan tener valor histórico, sean manuscritos, impresos gráficos, audiovisuales, sonoros, ópticos, legibles por máquina, documentos digitales y todos aquellos que por su contenido sirvan de testimonio, tales como actas, acuerdos, cartas, decretos, reglamentos, informes, leyes, resoluciones, mapas, planos, carteles, tratados, sentencias, fotografías, filmes, grabaciones, cintas magnetofónicas, casetes, disquetes, discos compactos videos digitales y todos los afines.
+
+Y su función esencial consiste en implementar mecanismos tendientes a la conservación y control de documentos que por su importancia, antigüedad o naturaleza deben ser incluidos en su inventario y custodia; a sí (sic) como la prestación del servicio informativo a la ciudadanía y definir lineamientos y asesorar técnicamente a los encargados de las demás dependencias municipales en el manejo y control de sus propios documentos.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 2.
 
-Las disposiciones del presente Reglamento son aplicables a todos los que ejerzan las actividades reguladas, su competencia será dentro de la jurisdicción de este Municipio; la falta de cualquier disposición expresa de este reglamento, se desahogará conforme a la Ley de Acceso a la Información Pública Federal y/o Estatal, la Ley de Hacienda para los Municipios y Código Penal Estatal, aplicados supletoriamente y en el caso de que se presente el silencio, oscuridad, o insuficiencia para resolver se aplicarán los principios generales del derecho, sin perjuicio de las disposiciones legales
+Las disposiciones del presente Reglamento son aplicables a todos los que ejerzan las actividades reguladas, su competencia será dentro de la jurisdicción de este Municipio; la falta de cualquier disposición expresa de este reglamento, se desahogará conforme a la Ley Federal de Archivos, Ley de Transparencia y de Acceso a la Información, Ley de Hacienda para los Municipios y Código Penal Estatal, aplicados supletoriamente y en el caso de que se presente el silencio, oscuridad, o insuficiencia para resolver se aplicarán los principios generales del derecho, sin perjuicio de las disposiciones legales.
 
 ###### ARTÍCULO 3.
 
@@ -79,7 +87,9 @@ X. Documentación histórica: Aquélla que contiene evidencia y/o testimonios de
 
 XI. Documento de archivo: Aquél que registra un hecho, acto administrativo, jurídico. Fiscal (sic) o contable, creado, recibido, manejado y/o usado en el ejercicio de las facultades, atribuciones y actividades de las dependencias y entidades Municipales
 
-XII. Documento electrónico: Información que puede constituir un documento de archivo cuyo tratamiento es automatizado y requiere de una herramienta especifica para leerse y/o recuperarse expediente
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XII. Documento digital: Información que puede constituir un documento de archivo cuyo tratamiento es automatizado y requiere de una herramienta específica para leerse y/o recuperarse
 
 XIII. Unidad documental constituida por uno o varios documentos de archivo, ordenados y/o relacionados por un mismo asunto, actividad y/o trámite de una dependencia o entidad Municipal
 
@@ -111,7 +121,13 @@ XXVI. Permiso: Autorización de la autoridad competente para hacer algo
 
 XXVII. Impuesto: Es el pago de derechos que se cubre conforme a las tabulaciones de la Ley de Hacienda para los Municipios del Estado de Nuevo León
 
-XXVIII. Reglamento: El presente Reglamento
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XXVIII. Estabilización: Proceso mediante el que se detiene el deterioro de archivos y documentos
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XXIX. Reglamento: El presente Reglamento.
 
 ###### ARTÍCULO 5.
 
@@ -123,11 +139,17 @@ II. El Presidente Municipal
 
 III. El Secretario del Ayuntamiento
 
-IV. El Secretario de Finanzas y Tesorero
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-V. El Secretario De Seguridad Pública
+IV. El Secretario de Administración y Finanzas
 
-VI. El Director del Archivo Municipal
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+V. El Secretario De Seguridad Pública y Vialidad
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VI. El Coordinador del Archivo Municipal
 
 ###### ARTÍCULO 6.
 
@@ -175,83 +197,89 @@ VI. Determinar las medidas de vigilancia y control para la aplicación de las in
 
 VII. Las demás facultades que se le confiera en este Reglamento y disposiciones aplicables
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 9.
 
-El Secretario de Finanzas y Tesorería es competente para:
+El Secretario de Administración y Finanzas es competente para:
 
 I. Calificar y determinar las multas conforme al Código Fiscal del Estado de Nuevo León, la Ley de Hacienda para los Municipios del Estado de Nuevo León y lo que norma este Reglamento
 
 II. Las demás facultades que se le confiera en este Reglamento y disposiciones aplicables
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 10.
 
-El Secretario de Seguridad Pública es competente para:
+El Secretario de Seguridad Pública y Vialidad es competente para:
 
 I. Vigilar la seguridad del interior y exterior del edificio del Archivo. Para ello designará al personal necesario
 
-II. Diseñar, proponer y desarrollar a consideración del Director del Archivo, dos programas para la institución el primero de Seguridad y Prevención del Delito, y el segundo de Contingencia conforme a las normas de Protección Civil. Una vez aprobados su aplicación será responsabilidad de los elementos que sean asignados a las instalaciones
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-III. Informar al Director del Archivo y a su superior de los acontecimientos que signifiquen peligro para la seguridad del personal, de los usuarios y del patrimonio del Archivo
+II. Diseñar, proponer y desarrollar a consideración del Coordinador del Archivo, dos programas para la institución el primero de Seguridad y Prevención del Delito, y el segundo de Contingencia conforme a las normas de Protección Civil. Una vez aprobados su aplicación será responsabilidad de los elementos que sean asignados a las instalaciones
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+III. Informar al Coordinador del Archivo y a su superior de los acontecimientos que signifiquen peligro para la seguridad del personal, de los usuarios y del patrimonio del Archivo
 
 IV. Las demás facultades que se le confiera en este Reglamento y disposiciones aplicables
 
 ###### ARTÍCULO 11.
 
-Al Director del Archivo Municipal le corresponden las facultades y obligaciones siguientes:
+(DEROGADO, P.O. 18 DE MARZO DE 2016)
 
-I. Coordinar el suministro, uso, control, custodia, conservación, producción, reproducción, selección, y depuración de la documentación que producen y/o reciben las dependencias o entidades Municipales
-
-II. Ordenar la ejecución de acuerdos y resoluciones de la Autoridad Administrativa competente, relacionados con el presente Reglamento
-
-III. Ordenar se haga efectivo el resguardo del archivo que esté relacionado con el presente Reglamento, depositándolos en el lugar que la Autoridad Administrativa competente señale, así como auxiliar al Secretario del Ayuntamiento en las funciones establecidas en el Articulo 8° de este Reglamento
-
-IV. Diseñar, proponer y desarrollar el programa que en materia de conservación y/o restauración de documentos, asegure la integridad del Archivo
-
-V. Autorizar y expedir las copias simples y autorizar las copias certificadas del Archivo
-
-VI. Apoyar y asesorar al Sistema Estatal y Nacional de Archivos
-
-VII. Formular dictámenes, opiniones e informes que le sean solicitados por el Secretario del Ayuntamiento y demás dependencias o entidades Municipales y/o Estatales
-
-VIII. Presentar el proyecto de programas y del presupuesto del Archivo
-
-IX. Gestionar la dotación de los recursos necesarios para el desarrollo del Archivo
-
-X. Convocar al personal del Archivo a reuniones en las que se traten asuntos de interés
-
-XI. Ejercer los programas de rescate de Archivos en coordinación con el Archivo General del Estado y del Archivo General de la Nación
-
-XII. Vigilar la publicación de ediciones en cuanto a su contenido, formato, tiempo y coordinarse con los servicios técnicos de apoyo para las publicaciones editadas
-
-XIII. Realizar las publicaciones del Archivo (libros, folletos, reseñas, revistas, boletines, catálogos, guías y otros), diseñando, revisando, cotejando y corrigiendo las pruebas de impresión. A fin de fortalecer la Cultura, Historia y Geografía del Municipio
-
-XIV. Solicitar la intervención de los elementos de Seguridad Pública, así como las demás Autoridades Administrativas competentes, cuando sea necesario para aplicación de este Reglamento
-
-XV. Solicitar la intervención de los Jueces Calificadores, cuando así se requiera
-
-XVI. Las demás facultades que le confiere este Reglamento y disposiciones aplicables
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-A los Coordinadores adscritos de la Dirección del Archivo Municipal, les corresponden las facultades y obligaciones siguientes:
+Al Coordinador del Archivo Municipal le corresponden las facultades y obligaciones siguientes:
 
-I. Acatar las indicaciones del Director del Archivo Municipal, en las funciones de suministro, uso, control, custodia, conservación, producción, reproducción, selección y depuración del Archivo
+I. Coordinar y apoyar las labores de los archivistas.
 
-II. Coordinar y apoyar las labores de los Archivistas
+II. Previa autorización del Director de Normatividad y Asuntos del R. Ayuntamiento, tramitar los nombramientos del personal ante la Secretaría del Ayuntamiento
 
-III. Previa autorización del Director del Archivo, tramitar los nombramientos del personal ante la Secretaria del Ayuntamiento
+III. Implantar sistemas de conservación, restauración, inventario, clasificación, catalogación, control, organización, registro, depuración y capacitación, avalados por el Archivo General del Estado y del Archivo General de la Nación
 
-IV. Auxiliar al Director en la formulación de los proyectos, programas y presupuestos
+IV. Registrar ante el Archivo General del Estado, los documentos con mayor importancia que se localicen en el Archivo.
 
-V. Implantar sistemas de conservación, restauración, inventario, clasificación, catalogación, control, organización, registro, depuración y capacitación, avalados por el Archivo General del Estado y del Archivo General de la Nación
+V. Promover y realizar el rescate de los Archivos de las dependencias o entidades Municipales
 
-VI. Registrar ante el Archivo General del Estado, los documentos con mayor importancia que se localicen en el Archivo
+VI. Coordinar el suministro, uso, control, custodia, conservación, producción, reproducción, selección y depuración de la documentación que producen y/o reciben de las Dependencias o Entidades Municipales
 
-VII. Promover y realizar el rescate de los Archivos de las dependencias o entidades Municipales
+VII. Ordenar la ejecución de acuerdos y resoluciones de la Autoridad Administrativa competente, relacionados con el presente Reglamento
 
-VIII. Así mismo tendrán las facultades conferidas a los archivistas señaladas en el Artículo 13 del presente Reglamento
+VIII. Ordenar se haga efectivo el resguardo del archivo que esté relacionado con el presente Reglamento, depositándolos en el lugar que la Autoridad Administrativa competente señale, así como auxiliar al Secretario del Ayuntamiento en las funciones establecidas en el Artículo 8º de este Reglamento
 
-IX. Las demás facultades que le confiere el presente Reglamento y la Autoridad competente
+IX. Diseñar, proponer y desarrollar el programa que en materia de conservación y/o restauración de documentos, asegure la integridad del Archivo
+
+X. Autorizar y expedir las copias simples y autorizar las copias certificadas del Archivo
+
+XI. Apoyar y asesorar al Sistema Estatal y Nacional de Archivos
+
+XII. Formular dictámenes, opiniones e informes que le sean solicitados por el Secretario del Ayuntamiento y demás dependencias o entidades Municipales y/o Estatales
+
+XIII. Presentar el proyecto de programas y del presupuesto del Archivo
+
+XIV. Gestionar la dotación de los recursos necesarios para el desarrollo del Archivo
+
+XV. Convocar al personal del Archivo a reuniones en las que se traten asuntos de interés
+
+XVI. Ejercer los programas de rescate de Archivos en coordinación con el Archivo General del Estado y del Archivo General de la Nación
+
+XVII. Vigilar la publicación de ediciones en cuanto a su contenido, formato, tiempo y coordinarse con los servicios técnicos de apoyo para las publicaciones editadas
+
+XVIII. Realizar las publicaciones del Archivo (libros, folletos, reseñas, revistas, boletines, catálogos, guías y otros), diseñando, revisando, cotejando y Corrigiendo las pruebas de impresión. A fin de fortalecer la Cultura, Historia y Geografía del Municipio.
+
+XIX. Solicitar la intervención de los elementos de Seguridad Pública, así como las demás Autoridades Administrativas competentes, cuando sea necesario para aplicación de este Reglamento
+
+XX. Solicitar la intervención de los Jueces Calificadores, cuando así se requiera.
+
+XXI. Vigilar que los fondos se encuentren debidamente catalogados y cuenten con los índices correspondientes.
+
+XXII. Así mismo tendrán las facultades conferidas a los archivistas señaladas en el Artículo 13 del presente Reglamento.
+
+XXIII. Las demás facultades que le confiere el presente Reglamento y la Autoridad competente
 
 ###### ARTÍCULO 13.
 
@@ -275,6 +303,14 @@ Los Archivos se clasifican en:
 
 I. Administrativo
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+a).- Activo o de Trámite
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+b).- Pasivo
+
 II. Concentración
 
 III. Histórico
@@ -285,7 +321,9 @@ Los Archivos conforme a su clasificación se definen:
 
 I. ADMINISTRATIVO, Este se divide en:
 
-A) ACTIVO.- Es el Archivo que existe en cada dependencia. También se conoce como de trámite y se forma por aquellos expedientes de asuntos en revisión, pendientes de solución o que se encuentran en periodo de vida activa, es decir, documentos que están vigentes, que no han sido resueltos. Cada una de las dependencias o entidades Municipales deberán contar con un Archivo Administrativo. La función de este Archivo consiste en la recepción, clasificación, distribución y control de todos los documentos que entren o salgan de la oficina
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
+A) ACTIVO O DE TRAMITE.- Es el Archivo que existe en cada dependencia. También se conoce como de trámite y se forma por aquellos expedientes de asuntos en revisión, pendientes de solución o que se encuentran en período de vida activa, es decir, documentos que están vigentes, que no han sido resueltos. Cada una de las dependencias o entidades Municipales deberán contar con un Archivo Administrativo. La función de este Archivo consiste en la recepción, clasificación, distribución y control de todos los documentos que entren o salgan de la oficina
 
 B) PASIVO.- Este Archivo se compone de los documentos generados por las tres Administraciones Municipales anteriores sin que exceda de diez años
 
@@ -301,7 +339,9 @@ Los ciudadanos y/o empleados Municipales, tienen obligación de:
 
 I. Registrarse en el libro de consultas y/o visitas
 
-II. Llenar solicitud por escrito en el formato que previamente autorice el Director del Archivo
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+II. Llenar solicitud por escrito en el formato que previamente autorice el Coordinador del Archivo
 
 III. Conservar el orden tanto en el interior como en el exterior próximo inmediato del Archivo
 
@@ -345,9 +385,11 @@ IV. Las demás conductas contrarias a este Reglamento y disposiciones legales
 
 ### CAPÍTULO IV. HORARIOS
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-El Archivo Municipal sin distinción funcionará en el horario de Lunes a Viernes de las 8:00 horas a las 16:00 horas, conforme al calendario de trabajo
+El Archivo Municipal sin distinción funcionará en el horario de lunes a viernes de las 8:00 horas a las 17:00 horas, conforme al calendario de trabajo.
 
 ###### ARTÍCULO 20.
 
@@ -381,7 +423,17 @@ X. Proponer a la superioridad, en los primeros tres meses de cada año, la depur
 
 XI. Proponer a la superioridad se exhorte a todas las dependencias a conservar todos aquellos Documentos que puedan adquirir valor histórico
 
-XII. Las demás afines que le sean encomendadas por las Autoridades Municipales
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XII. Asegurar la debida catalogación de los documentos y que los mismos cuenten con los índices correspondientes.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XIII. Asegurar el recibimiento en orden de los documentos emitidos por las diversas dependencias municipales en las cajas que contienen los expedientes; Esto incluye que las cajas tengan las fichas de contenido en un lugar visible y que la descripción en ellas contenida refleje apropiadamente los documentos que dichas cajas resguardan
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XIV. Las demás afines que le sean encomendadas por las Autoridades Municipales
 
 ###### ARTÍCULO 22.
 
@@ -427,9 +479,11 @@ IV. Información de particulares relativa a datos personales y sea recibida por 
 
 El Archivo Histórico podrá ser consultado por el ciudadano y/o empleados Municipales y en el caso de los Archivos Administrativos y de concentración solo podrán ser consultados por la (sic) dependencias Municipales. Para tener acceso a los documentos se estará a las normas que contiene este Reglamento el incumplimiento tendrá como consecuencia que se les niegue la información, consulta y/o reproducción
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-Para acceder a la información, consulta y/o reproducción de los archivos administrativos, de concentración e históricos, se estará a las disposiciones de este Reglamento y a las disposiciones que para la custodia de los documentos dicte el Director del Archivo Municipal
+Para acceder a la información, consulta y/o reproducción de los archivos administrativos, de concentración e históricos, se estará a las disposiciones de este Reglamento y a las disposiciones que para la custodia de los documentos dicte el Coordinador del Archivo Municipal.
 
 ### CAPÍTULO VI. DEL PERSONAL
 
@@ -447,9 +501,11 @@ El manejo de los documentos deberá realizarse necesariamente por el personal Mu
 
 ### CAPÍTULO VII. MANEJO DE DOCUMENTOS
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 30.
 
-El Director del Archivo Municipal retirará de la consulta directa los documentos que por su estado de conservación y/o valor histórico requieran un resguardo especial. Para que un usuario acceda a ellos deberá ajustarse a los procedimientos que determine el Director del Archivo Municipal y las disposiciones del presente Reglamento
+El Coordinador del Archivo Municipal retirará de la consulta directa los documentos que por su estado de conservación y/o valor histórico requieran un resguardo especial. Para que un usuario acceda a ellos deberá ajustarse a los procedimientos que determine el Coordinador del Archivo Municipal y las disposiciones del presente Reglamento
 
 ###### ARTÍCULO 31.
 
@@ -463,7 +519,9 @@ l. Presidente de la Comisión de Regidores que corresponda
 
 II. Secretario del Ayuntamiento
 
-III. Director del Archivo
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+III. Coordinador del Archivo.
 
 IV. Sindico que corresponda
 
@@ -473,27 +531,37 @@ VI. Contralor
 
 VII. Cronista oficial
 
-Los documentos que a juicio de la Comisión, deban desecharse, serán destruidos mediante el proceso que ésta estime conveniente, en presencia de por lo menos las dos terceras partes de sus integrantes. Por ningún motivo deberá sustraerse del Archivo este tipo de documentos. En su funcionamiento la Comisión a que se refiere este artículo se ajustará a las disposiciones legales aplicables y el Director del Archivo Municipal levantará las actas que sirvan para hacer constar las deliberaciones y decisiones que se tomen
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
+Los documentos que a juicio de la Comisión, deban desecharse, serán destruidos mediante el proceso que ésta estime conveniente, en presencia de por lo menos las dos terceras partes de sus integrantes. Dicha depuración deberá llevarse a cabo por lo menos una vez al año, siguiendo los procedimientos adecuados de valoración y selección para su destrucción.
 
 ###### ARTÍCULO 33.
 
 El usuario que vaya a realizar una publicación en la que se incluyan más de 10 fotografías o copias de documentos del archivo Municipal, deberá comprometerse por escrito a entregar al archivo por lo menos el dos por ciento de los ejemplares que edite y por lo menos un ejemplar si se trata de ediciones muy limitadas como tesis profesionales
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 34.
 
-El Director del Archivo municipal podrá negar la reproducción y/o difusión del material cuando pueda sufrir daños, se produzca un menoscabo al patrimonio, el usuario no tenga interés en la investigación histórica sino en obtener un lucro, no se cuente con los derechos legales correspondientes o se haya convenido de alguna forma la negativa a su reproducción. Se negará la reproducción cuando el estado de conservación de ellos no lo permita o cuando se encuentren en proceso de clasificación y/o restauración
+El Coordinador del Archivo municipal podrá negar la reproducción y/o difusión del material cuando pueda sufrir daños, se produzca un menoscabo al patrimonio, el usuario no tenga interés en la investigación histórica sino en obtener un lucro, no se cuente con los derechos legales correspondientes o se haya convenido de alguna forma la negativa a su reproducción. Se negará la reproducción cuando el estado de conservación de ellos no lo permita o cuando se encuentren en proceso de clasificación y/o restauración.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 35.
 
-Si el material requiere un tipo de reproducción especial que no puede ser realizado por el responsable del área o requiere el uso de procedimientos o equipos especiales, el Director del Archivo Municipal dictará las disposiciones que resulten procedentes para el caso
+Si el material requiere un tipo de reproducción especial que no puede ser realizado por el responsable del área o requiere el uso de procedimientos o equipos especiales, el Coordinador del Archivo Municipal dictará las disposiciones que resulten procedentes para el caso.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
-Para fines de investigación, se podrán proporcionar reproducciones de hasta diez documentos o imágenes. Para otros fines diferentes a la investigación la Dirección del Archivo Municipal determinará las cantidades, los lineamientos del proceso de reproducción y los limites de su uso, difusión masiva y posteriores reproducciones
+Para fines de investigación, se podrán proporcionar reproducciones de hasta diez documentos o imágenes. Para otros fines diferentes a la investigación la Coordinación del Archivo Municipal determinará las cantidades, los lineamientos del proceso de reproducción y los límites de su uso, difusión masiva y posteriores reproducciones.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 37.
 
-El Archivo Municipal, estará facultado para tener a la venta reproducciones, libros, folletos, revistas, reseñas, boletines, catálogos, así como para expedir copias simples de documentos. Los fondos recabados serán destinados a la publicación editorial, enriquecer y restaurar los archivos, capacitación del personal y mejorar la infraestructura física, determinando el tabulador el Secretario de Finanzas y Tesorería conforme a la Ley de Hacienda para los Municipios del Estado y lo que norma este Reglamento
+El Archivo Municipal, estará facultado para tener a la venta reproducciones, libros, folletos, revistas, reseñas, boletines, catálogos, así como para expedir copias simples de documentos. Los fondos recabados serán destinados a la publicación editorial, enriquecer y restaurar los archivos, capacitación del personal y mejorar la infraestructura física, determinando el tabulador el Secretario de Administración y Finanzas conforme a la Ley de Hacienda para los Municipios del Estado y lo que norma este Reglamento.
 
 ### CAPÍTULO VIII. ARCHIVOS AUXILIARES
 
@@ -509,9 +577,11 @@ II. Material fotográfico, cartográfico, sonoro y audiovisual; y
 
 III. Todo aquel material que se considere importante para preservar la memoria histórica del municipio de Santa Catarina
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 39.
 
-El Director del Archivo Municipal determinará las normas para la custodia, resguardo y conservación del archivo auxiliar
+El Coordinador del Archivo Municipal determinará las normas para la custodia, resguardo y conservación del archivo auxiliar.
 
 ### CAPÍTULO IX. PROPIEDAD INTELECTUAL
 
@@ -533,9 +603,11 @@ El Archivo Municipal deberá contar con una publicación periódica y será el �
 
 ### CAPÍTULO X. DONACIONES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 44.
 
-Los archivistas Municipales y/o coordinador de los archivos con el acuerdo del Director del Archivo Municipal, podrán promover donaciones a favor de la institución, y proponer material para incrementar el archivo
+Los archivistas Municipales y/o Coordinador de los archivos con el acuerdo del Director de Normatividad y Asuntos del R. Ayuntamiento, podrán promover donaciones a favor de la institución, y proponer material para incrementar el archivo.
 
 ###### ARTÍCULO 45.
 
@@ -545,9 +617,11 @@ Todas las donaciones serán incorporadas al Archivo Municipal libre de impuestos
 
 Los documentos donados pasarán a formar parte del Archivo Municipal y por consecuencia de su patrimonio e inventarío
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 46.
 
-El Director del Archivo Municipal, elaborará una relación de los documentos, donados al Archivo Municipal; hecho lo anterior se entregará el nuevo material al archivo correspondiente y se levantarán las constancias de recibo y custodia pertinentes, recibiendo el Donador constancia de la donación
+El Coordinador del Archivo Municipal, elaborará una relación de los documentos, donados al Archivo Municipal; hecho lo anterior se entregará el nuevo material al archivo correspondiente y se levantarán las constancias de recibo y custodia pertinentes, recibiendo el Donador constancia de la donación.
 
 ### CAPÍTULO XI. DE LOS RECURSOS
 
@@ -586,3 +660,9 @@ Presidenta Municipal
 C. FROYLAN MONSIVÁIS SÁNCHEZ
 
 Secretario del Ayuntamiento
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2016.
+
+> <small>[N. DE E. EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL DEL ESTADO DE NUEVO LEÓN.]</small>
