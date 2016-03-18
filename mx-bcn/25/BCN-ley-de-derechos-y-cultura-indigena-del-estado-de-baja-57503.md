@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-derechos-y-cultura-indigena-del-estado-de-baja-57503"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-26"
-last_updated: "2015-05-15"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 26 de octubre de 2007.
 
@@ -49,9 +49,11 @@ Esta Ley, reconoce y protege las normas de organización internas de los pueblos
 
 Las disposiciones de la presente Ley, regirán supletoriamente en materia de derechos y obligaciones de los pueblos y comunidades indígenas, así como en las atribuciones correspondientes de los poderes del Estado en sus distintos niveles de gobierno, para todos los casos no previstos en otras leyes locales en materia indígena.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 2.
 
-La presente Ley tiene por objeto el reconocimiento, preservación y defensa de los derechos y cultura de los indígenas del Estado de Baja California, así como el establecimiento de las obligaciones de la administración pública estatal y municipal, en la construcción de las relaciones con las comunidades indígenas y elevar el bienestar social de sus integrantes, promoviendo el desarrollo a través de programas y presupuestos específicos.
+La presente Ley tiene por objeto la promoción, el reconocimiento, preservación y defensa de los derechos y la cultura de los indígenas del Estado de Baja California, así como el establecimiento de las obligaciones de la administración pública estatal y municipal, en la construcción de las relaciones con las comunidades indígenas y elevar el bienestar social de sus integrantes, promoviendo el desarrollo a través de programas y presupuestos específicos.
 
 Esta Ley reconoce los derechos colectivos, a los siguientes pueblos indígenas: Kiliwas, Kumiai, Pai pai, Cucapá y Cochimí, así como a las comunidades indígenas que conforman aquellos, los cuales habitaban en la región desde antes de la formación del Estado de Baja California, y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
@@ -85,7 +87,9 @@ II. Autoridades Tradicionales: Aquellos que los pueblos indígenas reconocen de 
 
 III. Comunidades indígenas: Conjunto de personas que forman una o varias unidades socioeconómicas y culturales, que pertenecen a un asentamiento común, y a un determinado pueblo indígena, y quienes reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
-IV. Derechos individuales: Las facultades y prerrogativas que el orden jurídico federal y estatal vigente otorga a todo hombre o mujer por el sólo hecho de ser personas, independientemente de que sea o no integrante de un pueblo indígena.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+IV. Derechos humanos: Las facultades y prerrogativas inherentes a la naturaleza humana, sin los cuales no se puede vivir como persona. En su aspecto positivo, son los que reconoce la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Baja California y los que se recogen en los pactos, convenios y tratados internacionales suscritos y ratificados por el Estado mexicano;
 
 V. Derechos colectivos: Las facultades y prerrogativas de naturaleza colectiva que en los ámbitos político, económico, social, cultural y jurisdiccional que el orden jurídico estatal reconoce a los pueblos y comunidades indígenas para garantizar su existencia, dignidad, bienestar y no discriminación basada en la pertenencia a aquellos.
 
@@ -106,6 +110,10 @@ XI. Usos y Costumbres: Base fundamental de los sistemas normativos internos y qu
 El Estado deberá asegurar que los integrantes de las comunidades indígenas gocen de todos los derechos y oportunidades que la legislación vigente otorga al resto de la población de la entidad, y velará por el estricto cumplimiento de la presente Ley.
 
 Las autoridades estatales y municipales tendrán la obligación de denunciar ante las autoridades competentes, los casos que lleguen a su conocimiento en que los trabajadores indígenas laboren en condiciones discriminatorias, desiguales o peligrosas para su salud e integridad física o que sean sometidos a jornadas laborales excesivas, además de los casos en que exista coacción en su contratación laboral o pago en especie y dentro del ámbito de sus respectivas competencias, deberán tomar las medidas necesarias para prevenir o eliminar esa situación, fomentando la vigilancia y en su caso, brindar el apoyo necesario para facilitar la denuncia por parte de los indígenas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2016)</small>
+
+EI Estado y los Municipios, en coordinación con las autoridades del gobierno federal, vigilarán que los trabajadores que procedan de alguna comunidad indígena, cuenten con los servicios de seguridad social que garanticen su bienestar y el de sus familias.
 
 ###### Artículo 6.
 
@@ -129,9 +137,11 @@ Queda prohibido todo acto de discriminación, violencia, así como los reacomodo
 
 La separación de niñas y niños indígenas de sus familias y comunidades queda estrictamente prohibida, con la excepción de ser ordenado por autoridad judicial o ministerial con las correspondientes reservas de Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 9.
 
-Las autoridades estatales y municipales, en el ejercicio de sus, atribuciones, así como los particulares, respetarán íntegramente la dignidad y derechos individuales de los indígenas, tratándolos con el respeto que deriva de su calidad como personas. La misma obligación tendrán con relación a los derechos sociales de los pueblos y comunidades indígenas.
+Las autoridades estatales y municipales, en el ejercicio de sus atribuciones, así como los particulares, respetarán íntegramente la dignidad y derechos humanos de los indígenas, tratándolos con el respeto que deriva de su calidad como personas. La misma obligación tendrán con relación a los derechos sociales de los pueblos y comunidades indígenas.
 
 El incumplimiento a lo dispuesto por el párrafo anterior de este artículo por parte de las autoridades, será motivo de las responsabilidades en que incurran en los términos prescritos por la ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
@@ -143,9 +153,11 @@ Las comunidades indígenas del Estado tendrán personalidad jurídica para ejerc
 
 El Estado y los Municipios, realizarán consultas a los pueblos indígenas en la elaboración del Plan Estatal de Desarrollo y el Plan Municipal de Desarrollo respectivamente, y en su caso incorporar las recomendaciones y propuestas que se realicen.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 12.
 
-Los integrantes de las comunidades indígenas tienen el derecho de promover por sí mismos o a través de sus autoridades tradicionales de manera directa y sin intermediarios cualquier gestión ante las autoridades Estatales o Municipales. Sin menoscabo de los derechos individuales, políticos y sociales.
+Los integrantes de las comunidades indígenas tienen el derecho de promover por sí mismos o a través de sus autoridades tradicionales de manera directa y sin intermediarios cualquier gestión ante las autoridades Estatales o Municipales. Sin menoscabo de los derechos humanos, políticos y sociales.
 
 ###### Artículo 13.
 
@@ -156,6 +168,10 @@ I.- Proteger el sano desarrollo de los menores de edad, mediante el servicio de 
 II.- Establecer mecanismos de vigilancia, en coordinación con las autoridades federales competentes, para que en el caso de las familias indígenas jornaleras que se contratan en los campos agrícolas de la entidad, no se permita utilizar el trabajo de los niños o el de las mujeres durante el estado de gestación o el de lactancia, en labores que pongan en peligro su salud;
 
 III.- Procurar el bienestar y protección de las mujeres, niños y ancianos de las comunidades indígenas, por cuanto que constituyen la base de las familias que integran y sustentan los pueblos indígenas del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+
+IV. Contribuir a la erradicación de la deserción escolar y el mejoramiento del nivel de educación básica para las niñas y niños de las comunidades indígenas.
 
 ###### Artículo 14.
 
@@ -217,11 +233,13 @@ VII. Apoyar las actividades productivas, mediante la orientación para el foment
 
 VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
 
-## TÍTULO CUARTO (SIC). TIERRAS, TERRITORIOS Y RECURSOS NATURALES
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 18 DE MARZO DE 2016)</small>
+
+## TÍTULO TERCERO. TIERRAS, TERRITORIOS Y RECURSOS NATURALES
 
 ### CAPÍTULO I. PROTECCIÓN DE LOS RECURSOS NATURALES
 
-###### ARTÍCULO 22.
+###### Artículo 22.
 
 Los pueblos y comunidades indígenas, las autoridades estatales y municipales, en el marco de sus respectivas competencias, convendrán las acciones y medidas necesarias tendientes a la conservación de su medio ambiente y a otras formas de protección de los recursos naturales, de tal modo que éstas sean ecológicamente sustentables y técnicamente apropiadas, así como compatibles con la libre determinación de los pueblos y comunidades para la preservación y usufructo de sus recursos naturales.
 
@@ -265,7 +283,9 @@ El Poder Ejecutivo del Estado encauzará y fomentará el diálogo en las comunid
 
 Las autoridades gubernamentales competentes promoverán procesos de regularización de terrenos de las comunidades indígenas.
 
-## TÍTULO TERCERO (SIC). DE LA AUTONOMÍA Y ORGANIZACIÓN INTERNA
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 18 DE MARZO DE 2016)</small>
+
+## TÍTULO CUARTO. DE LA AUTONOMÍA Y ORGANIZACIÓN INTERNA
 
 ### CAPÍTULO I. AUTONOMÍA Y LIBRE DETERMINACIÓN
 
@@ -345,13 +365,13 @@ BERNARDO H. MARTINEZ AGUIRRE
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 24 DE MAYO DE 2013
+P.O. 24 DE MAYO DE 2013.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
 
-P.O. 23 DE AGOSTO DE 2013
+P.O. 23 DE AGOSTO DE 2013.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
 
@@ -360,3 +380,9 @@ P.O. 15 DE MAYO DE 2015.
 PRIMERO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado contara con un plazo de 30 días para emitir el Acuerdo General a que hace referencia el artículo 2, cuarto párrafo, de la presente Ley.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 447 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 4, 5, 9, 12, 13 Y LA CORRECCIÓN DEL ORDEN DE LOS TÍTULOS TERCERO Y CUARTO, DE LA LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
