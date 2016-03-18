@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-44-2015-del-pleno-del-consejo-de-la-110603"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2016-02-22"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110603&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-11-20"
 
 ACUERDO GENERAL 44/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE COAHUILA DE ZARAGOZA, CON RESIDENCIA EN TORREÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2016.
 
 Acuerdo publicado en la Quinta Sección, del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
@@ -99,9 +99,11 @@ El Centro contará con la plantilla laboral autorizada, y la Administración del
 
 Los juzgadores del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS SIMILARES 44/2015 Y 52/2014 QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE COAHUILA DE ZARAGOZA Y DURANGO, CON RESIDENCIA EN LAS CIUDADES DE TORREÓN Y DURANGO, RESPECTIVAMENTE; ASÍ COMO EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; PARA HOMOLOGAR LA JURISDICCIÓN TERRITORIAL DE DICHOS CENTROS CON LOS CIRCUITOS JUDICIALES DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE COMPRENDEN DICHOS ESTADOS, D.O.F. 18 DE MARZO DE 2016)</small>
+
 ###### Artículo 6.
 
-La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Coahuila de Zaragoza, con la totalidad de sus municipios.
+La jurisdicción territorial de los órganos jurisdiccionales del Centro comprenderá el Estado de Coahuila de Zaragoza, y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
 ###### Artículo 7.
 
@@ -224,5 +226,15 @@ D.O.F. 22 DE FEBRERO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS SIMILARES 44/2015 Y 52/2014 QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE COAHUILA DE ZARAGOZA Y DURANGO, CON RESIDENCIA EN LAS CIUDADES DE TORREÓN Y DURANGO, RESPECTIVAMENTE; ASÍ COMO EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; PARA HOMOLOGAR LA JURISDICCIÓN TERRITORIAL DE DICHOS CENTROS CON LOS CIRCUITOS JUDICIALES DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE COMPRENDEN DICHOS ESTADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Durango con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
 
 TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
