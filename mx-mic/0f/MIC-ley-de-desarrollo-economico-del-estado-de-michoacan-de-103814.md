@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-economico-del-estado-de-michoacan-de-103814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-03"
-last_updated: "2014-12-03"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -87,9 +87,11 @@ XIV. Sistema: El Sistema de Información Económica Integral; y,
 
 XV. Zonas integrales de actividades logísticas: Zonas delimitadas en el interior de los cuales se ejercen, por distintos operadores, todas las actividades relativas al transporte, a la logística y a la distribución de mercancías tanto para el tránsito nacional como internacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 4.
 
-Para el cumplimiento de esta Ley, la Secretaría además de las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo tendrá las siguientes:
+Para el cumplimiento de esta Ley, la Secretaría además de las atribuciones conferidas en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo tendrá las siguientes:
 
 I. Dar a conocer al Consejo los resultados anuales de los programas y acciones tendientes al cumplimiento de la presente Ley;
 
@@ -125,7 +127,9 @@ XVI. Identificar el sector productivo preponderante de zonas marginadas del Esta
 
 XVII. Proponer al Titular del Poder Ejecutivo del Estado, la celebración de convenios y acuerdos con el Ejecutivo Federal, con gobiernos de las entidades federativas, municipios, organizaciones de la sociedad civil, para la ejecución conjunta de programas de desarrollo económico;
 
-XVIII. Impulsar la generación de fuentes de empleo o el autoempleo de los michoacanos, incluyendo acciones para incorporar a las actividades productivas a personas con capacidades diferentes, adultos mayores, recién egresados de instituciones educativas del estado, jóvenes y mujeres;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XVIII. Impulsar la generación de fuentes de empleo o el autoempleo de los michoacanos, incluyendo acciones para incorporar a las actividades productivas a personas con discapacidad, adultos mayores, recién egresados de las instituciones educativas del estado, jóvenes y mujeres;
 
 XIX. Promover en el mercado estatal, nacional e internacional los productos y servicios Michoacanos;
 
@@ -640,3 +644,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN". PRESIDENTE DE LA MESA DIRECTI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 20 veinte días del mes de noviembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
