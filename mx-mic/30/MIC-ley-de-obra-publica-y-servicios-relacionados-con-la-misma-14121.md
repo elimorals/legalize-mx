@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2015-04-28"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -289,7 +289,9 @@ IV. Los recursos necesarios para su ejecución y la calendarización física y f
 
 V. Las unidades responsables de su ejecución;
 
-VI. Las instalaciones para que las personas discapacitadas puedan acceder y transitar por los inmuebles que sean construidos, las que, según la naturaleza de la obra, podrán consistir en rampas, puertas, elevadores, pasamanos asideras y otras análogas a las anteriores que coadyuven al cumplimiento de tales fines; y,
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VI. Las instalaciones para que las personas con discapacidad puedan acceder y transitar por los inmuebles que sean construidos, las que, según la naturaleza de la obra, podrán consistir en rampas, puertas, elevadores, pasamanos, asideras y otras análogas a las anteriores que coadyuven al cumplimiento de tales fines; y,
 
 VII. Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
@@ -909,7 +911,7 @@ Las dependencias, entidades, ayuntamiento y entidades paramunicipales, comunicar
 
 Las estimaciones de trabajos ejecutados correspondientes a contratos en ejercicio, se formularán por el contratista y se autorizarán por la dependencia, entidad, ayuntamiento o entidad paramunicipal contratante por conducto de la Residencia de Supervisión al efecto designada.
 
-Las estimaciones de obra se formularán por periodos de quince o treinta días naturales, mismas que elaborará el contratista y entregará al contratante por conducto de la Residencia de Supervisión al efecto designada para su revisión y consecuente autorización y/o devolución acompañadas de la documentación relativa a generadores de obra y factura correspondiente a efecto de que se proceda a su efectivo pago. y de acuerdo al avance físico observado de la obra.
+Las estimaciones de obra se formularán por periodos de quince o treinta días naturales, mismas que elaborará el contratista y entregará al contratante por conducto de la Residencia de Supervisión al efecto designada para su revisión y consecuente autorización y/o devolución acompañadas de la documentación relativa a generadores de obra y factura correspondiente a efecto de que se proceda a su efectivo pago, y de acuerdo al avance físico observado de la obra.
 
 Para la revisión de las estimaciones la contratante por conducto de la Residencia de Supervisión al efecto designada tendrá un plazo de cinco días hábiles a partir de su recepción para su revisión y autorización y/o devolución, la cual deberá ser siempre a partir del siguiente día de la fecha que se establezca como de corte, la cual se fijara invariablemente los días quince o treinta de cada mes calendario, notificando por escrito al contratista la determinación de procedencia o improcedencia.
 
@@ -1328,3 +1330,9 @@ El Comité referido en el presente Decreto deberá instalarse dentro de los trei
 ###### ARTÍCULO CUARTO.
 
 Los procesos administrativos y judiciales que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio y hasta su conclusión.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE VIOLENCIA FAMILIAR EN EL ESTADO DE MECHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
