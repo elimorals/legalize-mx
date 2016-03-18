@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2016-02-19"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -41,7 +41,11 @@ SECRETARIO FEDATARIO DEL XVII AYUNTAMIENTO
 
 LIC. GUILLERMO BERNARDO ISLAS LEON
 
-REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2016)</small>
+
+REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -263,7 +267,11 @@ Son obligaciones de los integrantes del Ayuntamiento, sin detrimento de lo que i
 
 I.- Observar y cumplir los acuerdos que apruebe el Ayuntamiento;
 
-II.- Asistir puntualmente a las sesiones de cabildo y a las comisiones que formen parte y permanecer en las mismas durante su desarrollo, debiendo dar aviso en caso de que se retire (de manera temporal o definitiva) al Presidente Municipal ó a quien coordine la comisión, a efecto de que se valore sobre la justificación;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+II.- Asistir puntualmente a las sesiones de cabildo, de la glosa del informe del Presidente Municipal y de las comisiones que formen parte y permanecer en las mismas durante su desarrollo, debiendo dar aviso en caso de que se retire (de manera temporal o definitiva) al Presidente Municipal ó a quien coordine la comisión, a efecto de que se valore sobre la justificación;
 
 III.- Conducirse con respeto y orden en las sesiones de cabildo y sus comisiones;
 
@@ -569,23 +577,77 @@ La sesión extraordinaria de cabildo que habrá de realizarse el primer día de 
 
 #### SECCION II. DEL INFORME DE GOBIERNO
 
-INFORME ANUAL DE GOBIERNO MUNICIPAL.
+INFORME ANUAL DE GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 52.
 
-El Presidente Municipal, como responsable de la conducción de la Administración Pública Municipal cada año tendrá la obligación de presentar al Ayuntamiento un informe por escrito en Sesión Ordinaria a celebrarse durante el mes de Noviembre, sobre las acciones del Gobierno Municipal y el estado que guarda la Administración Pública Municipal, así como los avances y logros del Plan Municipal de Desarrollo; y deberá en forma posterior a la Sesión Ordinaria, difundir ante la comunidad los principales avances y logros de su Gestión.
+El Presidente Municipal, como responsable de la conducción de la Administración Pública Municipal cada año tendrá la obligación de presentar al Ayuntamiento un informe por escrito en Sesión Ordinaria a celebrarse durante el mes de Noviembre, sobre las acciones del Gobierno Municipal y el estado que guarda la Administración Pública Municipal, así como los avances y logros del Plan Municipal de Desarrollo y deberá en forma posterior a la Sesión Ordinaria, brindar las facilidades necesarias para desahogar la glosa del informe y para difundir ante la comunidad los principales avances y logros de su gestión.
 
-PARTICIPACIÓN DE LOS REGIDORES EN EL INFORME.
+Una vez presentado el informe al Ayuntamiento, éste por conducto de sus Comisiones procederá a la realización de la glosa correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
+PARTICIPACIÓN DE LOS REGIDORES Y EL SÍNDICO PROCURADOR EN EL INFORME.
 
 ###### ARTÍCULO 53.
 
-Durante la Sesión Ordinaria, los Coordinadores de cada una de las distintas fuerzas políticas con presencia en el Ayuntamiento, podrán hacer uso de la voz hasta por cinco minutos, a efecto de emitir su posicionamiento político sobre el estado que guarda la administración municipal.
+Los Regidores y el Síndico Procurador participarán en la sesión ordinaria en que se presente el informe anual del presidente municipal, y participarán en el análisis del mismo a través del desahogo de la glosa que se haya calendarizado por acuerdo del Ayuntamiento.
 
-La participación será en orden ascendente según el porcentaje de representación, concluyendo el coordinador que represente, al grupo mayoritario.
+Durante la Sesión Ordinaria, los Coordinadores de cada una de las distintas fuerzas políticas con presencia en el Ayuntamiento, podrán hacer uso de la voz hasta por cinco minutos, a efecto de emitir su posicionamiento político sobre el estado que guarda la administración municipal. La participación será en orden ascendente según el porcentaje de representación, concluyendo el coordinador que represente al grupo mayoritario.
+
+En fecha posterior, conforme al calendario aprobado, los Regidores y el Síndico Procurador glosarán el informe a través de la comparecencia de los titulares de las dependencias y entidades municipales ante las comisiones respectivas, quienes comparecerán y rendirán informes específicos bajo protesta de decir verdad.
+
+Adicionalmente los munícipes podrán solicitar durante los siguientes 10 días al Presidente Municipal ampliar la información mediante el procedimiento de Pregunta de Cabildo, misma que se hará por escrito y tendrá un plazo de 20 días para su respuesta.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+DE LA GLOSA DEL INFORME.
+
+ARTÍCULO 53 BIS.- En la Sesión Ordinaria de Cabildo en la que el Presidente Municipal presenté el informe anual al que se refiere el artículo 52 del presente ordenamiento, deberá someter a la consideración del Ayuntamiento el calendario para la realización de la glosa del informe, mismo que deberá indicar las fechas en las que deberán comparecer los funcionarios públicos municipales responsables de cada área de la administración pública municipal y paramunicipal, ante las Comisiones Edilicias competentes, de acuerdo al ramo de la administración de que se trate.
+
+El proyecto de calendario para la glosa del informe que presente el Presidente Municipal al Ayuntamiento, deberá estar previamente acordado por la Comisión de Coordinación Política, a la que se refiere el artículo 65.
+
+Una vez aprobado el calendario, el Acuerdo de Cabildo que lo contenga deberá ser remitido a los Coordinadores de las Comisiones edilicias correspondientes y a los titulares de las dependencias obligados a comparecer, a efecto de que atiendan en tiempo y forma el mismo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+ARTÍCULO 53 TER.- El procedimiento para el desahogo de la glosa referida anteriormente, es el siguiente:
+
+I. Las comparecencias se desarrollarán en la Sala de Sesiones "Benito Juárez García" de la Casa Municipal de Ensenada;
+
+II. Las Comisiones Edilicias encargadas del desahogo de la Glosa conforme al calendario aprobado, recibirán copia del informe y sus anexos;
+
+III. Las Sesiones de Comisión para el desahogo de la glosa serán públicas, siendo esta una excepción a lo dispuesto por el artículo 113 del presente ordenamiento;
+
+IV. Todos los ediles asistentes a las Sesiones de la Glosa del informe gozarán del derecho de voz; debiendo solicitar al Coordinador de la Comisión el uso de la misma para realizar alguna intervención o presentar algún cuestionamiento;
+
+V. Para la convocatoria y citatorio al funcionario a comparecer se seguirá el procedimiento previsto en el presente reglamento; debiendo respetar en todo momento el calendario aprobado por el Ayuntamiento;
+
+VI. El protocolo en el desarrollo de las Sesiones de Comisión será la siguiente:
+
+A. El día de la comparecencia en la hora señalada y una vez abierta la sesión el Regidor Coordinador de la Comisión dará las palabras de bienvenida a los comparecientes explicándoles el protocolo de la comparecencia.
+
+B. El Regidor Coordinador de la Comisión dará el uso de la voz al compareciente para que en un término de hasta 45 minutos realice una presentación de las partes más relevantes de la materia que le corresponda.
+
+C. Acto seguido el Regidor Coordinador preguntará a los ediles si desean hacer preguntas, en caso afirmativo, el Regidor Secretario de la Comisión realizará la lista de los participantes.
+
+D. Las preguntas formuladas, deberán dirigirse al compareciente.
+
+E. Desahogadas las respuestas el Regidor Coordinador preguntará a los ediles si están satisfechas, de no ser así podrá replicar la respuesta e efecto de obtener la contestación que satisfaga su cuestionamiento.
+
+F. El Edil tendrá derecho de contra réplica.
+
+G. No habiendo más preguntas el Regidor Coordinador dará el uso de la voz al compareciente a efecto de que dirija unas palabras, consecuentemente se dará por concluida la sesión.
 
 DEL INFORME.
 
@@ -745,15 +807,21 @@ REUNIONES DE CONSENSOS.
 
 COMISIÓN DE COORDINACIÓN POLÍTICA.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 65.
 
-Las reuniones de consensos a que se refiere la fracción XVI del artículo anterior, podrán ser convocadas en cualquier momento cuando lo juzgue conveniente el Presidente Municipal o cuando se lo soliciten dos Munícipes miembros de la Comisión, serán de carácter informal y tendrán por objeto:
+Las reuniones de consensos a que se refiere la fracción XVI del artículo Anterior, podrán ser convocadas en cualquier momento cuando lo juzgue conveniente el Presidente Municipal o cuando se lo soliciten dos Munícipes miembros de la Comisión, serán de carácter informal y tendrán por objeto:
 
 I.- Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas o iniciativas que vayan a someterse a votación del Ayuntamiento, a fin de agilizar los trabajos de dictamen en las comisiones;
 
 II.- Suscribir y presentar en sesión de cabildo proyectos de puntos de acuerdo, iniciativas, declaraciones y posicionamientos, mismos que se turnarán a las comisiones correspondientes para su respectivo dictamen o se resolverán en la misma sesión cuando sea necesario, dejando a salvo los derechos de los Munícipes en lo individual; y
 
 III.- Todo lo que contribuya a lograr acuerdos y consensos entre las distintas fuerzas políticas representadas en el Ayuntamiento, para su mejor funcionamiento democrático y plural así como el adecuado ejercicio de sus atribuciones.
+
+IV.- Acordar el calendario para la glosa del informe anual del gobierno municipal, a que se refiere el artículo 52 último párrafo y 53 BIS del presente reglamento.
 
 ATRIBUCIONES DEL SECRETARIO.
 
@@ -1175,31 +1243,33 @@ Con el propósito de vincular los trabajos de la Comisión a la función de Gobi
 
 ATRIBUCIONES DE LAS COMISIONES.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 105.
 
 Para ejercer las atribuciones que como órganos de trabajo del Ayuntamiento le corresponden, las Comisiones actuarán conforme a lo siguiente:
 
 I.- Tendrán facultad para estudiar y supervisar que se ejecuten los Acuerdos de Cabildo y demás disposiciones aplicables al Gobierno y a la Administración Pública Municipal;
 
-(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
-
 II.- Propondrán al Ayuntamiento los proyectos de solución o los problemas de su conocimiento, a efecto de atender todos los ramos de la Administración Pública Municipal, mediante opinión o dictamen de los asuntos que les sean turnados;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2015)</small>
-
-III.- Actuarán con plena autoridad para requerir por conducto del Presidente Municipal y por escrito a los titulares de las dependencias y entidades de la Administración Pública Municipal, para que estos en un plazo máximo de 10 días naturales den respuesta a los planteamientos, consultas y solicitudes de información que requieran para el despacho de los asuntos de su conocimiento y el desarrollo de su función de acuerdo a la comisión que corresponda;
+III.- Actuarán con plena autoridad para requerir por conducto del Presidente Municipal y por escrito a los titulares de las dependencias y entidades de la Administración Pública Municipal, la información que requieran para el despacho de los asuntos de su conocimiento y el desarrollo de su función;
 
 IV.- Supervisarán el correcto funcionamiento de las dependencias y entidades de la Administración Pública Municipal relativas al ramo o materia de la Comisión y coadyuvarán en la promoción, difusión de sus programas o acciones; y
 
-(REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
+V.- Realizar anualmente la glosa del informe de gobierno municipal que presente el Presidente Municipal, de acuerdo al ramo de la administración que le corresponda.
 
-V.- Ejercerán las demás facultades que les señale este Reglamento o los Acuerdos de Cabildo, siempre y cuando no correspondan a las del Presidente Municipal, el Síndico Procurador y Sindico Social.
+VI.- Ejercerán las demás facultades que les señalen este Reglamento o los Acuerdos de Cabildo, siempre y cuando no correspondan a las del Presidente Municipal, el Síndico Procurador y Sindico Social.
 
-Por su naturaleza, las Comisiones no podrán asumir funciones ejecutivas ni de representación del Ayuntamiento.
+Por su naturaleza, las Comisiones no podrán asumir funciones ejecutivas ni de representación del Ayuntamiento."
 
 COMPARECENCIA DE FUNCIONARIOS.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 106.
 
@@ -1208,6 +1278,8 @@ Los titulares de dependencias y entidades de la Administración Pública Municip
 En el caso solicitado deberá el funcionario de enviar en un término de tres a diez días hábiles a partir de la notificación, el informe correspondiente en copia a cada uno de los integrantes del ayuntamiento, para su análisis y estudio del tema en concreto.
 
 Los funcionarios facilitarán el acceso a las instalaciones de las dependencias y proveerán las atenciones que correspondan, a fin de que la Comisión competente realice eficazmente sus funciones de vigilancia y supervisión sobre el funcionamiento de la misma dependencia y la correcta prestación de los servicios, cuando por escrito lo solicite el Coordinador de la misma ante el titular de la dependencia de la que se trate, por conducto del Presidente Municipal.
+
+La misma facilidad deberá brindar a la Comisión respectiva, cuando les corresponda comparecer y atender el desahogo de la glosa del Informe anual que rinda el Presidente Municipal y cuando deban contestar por escrito las Preguntas de Cabildo que formulen los munícipes.
 
 CLASIFICACIÓN DE LAS COMISIONES.
 
@@ -2128,3 +2200,13 @@ UNICO.- La presente reforma entrará en vigor, a partir del día siguiente de su
 > <small>[N. DE E. TRANSITORIO CORRESPONDIENTE AL ARTÍCULO 106 DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 89 Y 106 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]</small>
 
 UNICO.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 25, 52, 53, 65, 105, 106 Y ADICIONAR LOS ARTÍCULOS 53 BIS Y 53 TER DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+PRIMERO.- Una vez aprobada la presente reforma publíquese en el periódico oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO.- La presente reforma entrará en vigor a partir del primero de Diciembre del 2016.
+
+TERCERO.- Se derogan todas las disposiciones contrarias a la presente reforma.
