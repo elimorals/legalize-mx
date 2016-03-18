@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ejecucion-de-sanciones-penales-del-estado-de-81799"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-14"
-last_updated: "2014-06-27"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el martes 14 de junio de 2011.
 
@@ -551,9 +551,11 @@ Las personas sentenciadas tendrán derecho a una defensa adecuada por abogado du
 
 No recae sobre la defensa el deber de vigilar la ejecución de la sanción, tan sólo deberá asesorar y representar a la persona sentenciada cuando ésta lo requiera, e intervenir en los procedimientos que sean necesarios para la protección de sus derechos.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 49.
 
-Toda intervención médica, psicológica o psiquiátrica que se aplique a las personas internas, tendrá como única finalidad la protección de su salud, y para ello se requerirá del consentimiento informado de la persona interna o de sus familiares, y a falta de éstos, el Ministerio Público, excepción hecha en los casos en que por requerimiento de la autoridad judicial, se examine la calidad de inimputable de la persona interna por incapacidad mental u otra circunstancia relevante para el proceso penal.
+Toda intervención médica, psicológica o psiquiátrica que se aplique a las personas internas, tendrá como única finalidad la protección de su salud, y para ello se requerirá del consentimiento informado de la persona interna o de sus familiares, y a falta de éstos, el Ministerio Público, excepción hecha en los casos en que por requerimiento de la autoridad judicial, se examine la calidad de inimputable de la persona interna por discapacidad mental u otra circunstancia relevante para el proceso penal.
 
 ###### ARTÍCULO 50.
 
@@ -1568,3 +1570,9 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LE
 P.O. 27 DE JUNIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO.- SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE VIOLENCIA FAMILIAR EN EL ESTADO DE MECHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
