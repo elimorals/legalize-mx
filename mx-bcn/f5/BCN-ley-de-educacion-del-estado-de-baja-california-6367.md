@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2016-03-11"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -165,9 +165,9 @@ Toda la educación que el Estado imparta será gratuita, por lo que queda prohib
 
 En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
-Para garantizar la gratuidad en la educación preescolar, primaria y secundaria el Ejecutivo del Estado destinará en el presupuesto de egresos para el ejercicio fiscal correspondiente, los recursos suficientes para el mantenimiento y cuidado de las escuelas de nivel básico del sistema educativo del Estado de Baja California.
+Para garantizar la gratuidad en la educación preescolar, primaria, secundaria y media superior, el Ejecutivo del Estado destinará en el presupuesto de egresos para el ejercicio fiscal correspondiente, los recursos suficientes para el mantenimiento y cuidado de las escuelas de nivel básico y medio superior del sistema educativo del Estado de Baja California.
 
 ###### ARTICULO 8.
 
@@ -407,9 +407,13 @@ XXVII.- Elaborar e implementar por conducto de la Secretaría de Educación y Bi
 
 XXVIII.- Establecer medidas para que directivos y el personal docente de los centros educativos tomen en consideración alternativas excepcionales de estudio y evaluaciones para aquellos estudiantes de educación básica, media superior y superior destacados en la práctica del deporte, mismas que sean compatibles con la exigencia de atender su preparación física y mental, sus entrenamientos o competencias deportivas oficiales, sin descuidar su desempeño académico.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
 
-XXIX.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+XXIX. Garantizar y fomentar en las escuelas públicas de educación básica, el derecho al acceso gratuito al agua potable para beber.
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XXX.- Las demás atribuciones que emanen del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -931,19 +935,25 @@ El tipo superior es el que se imparte después del bachillerato o de sus equival
 
 La educación superior tiene como propósito formar profesionistas e investigadores, al servicio de la sociedad; organizar y realizar investigaciones científicas de las condiciones y problemas regionales, estatales y nacionales; difundir la cultura e impartir educación para formar conciencia y responsabilidad social.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 42.
 
-La educación normal cualesquiera que sean sus modalidades, adoptará los planes y programas de estudios determinados por la Secretaría de Educación Pública y tendrá por objeto la formación de docentes para satisfacer las necesidades educativas del Estado que garanticen el carácter nacional de la educación.
+La educación normal cualesquiera que sean sus modalidades, adoptará los planes y programas de estudios determinados por la Secretaría de Educación Pública y tendrá por objeto la formación de docentes y profesionales de la educación básica y media superior para satisfacer las necesidades educativas del Estado que garanticen el carácter nacional de la educación, en los términos de la Ley General del Servicio Profesional Docente.
 
 ###### ARTICULO 43.
 
 La educación que se imparta en las escuelas normales tendrá las siguientes características:
 
-I.- Desarrollará y formará en los estudiantes la vocación magisterial.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+I.- Desarrollará y formará en los estudiantes la vocación para el servicio educativo.
 
 II.- Dedicará especial atención a la educación que imparta el Estado, de acuerdo con las bases establecidas por la presente Ley.
 
-III.- Dotará a los estudiantes normalistas de una cultura general, científica y pedagógica, con las bases teóricas y prácticas que los capacite para realizar eficazmente el servicio educativo tanto en el medio rural como en el urbano.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+III.- Dotará a los estudiantes normalistas y profesionales de la educación de una cultura general, científica y pedagógica, con las bases teóricas y prácticas que los capacite para realizar eficazmente el servicio educativo en los distintos contextos socio-educativos de nuestra entidad.
 
 IV.- Infundirá en los estudiantes, un alto espíritu profesional, nacionalista y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la profesión, propugnando por el progreso, la armonía, la libertad y el bienestar social.
 
@@ -959,9 +969,9 @@ VIII.- Promoverá la constante actualización y superación académica del magis
 
 IX.- Desarrollará y formará en los estudiantes una sólida conciencia de los valores éticos necesarios para la convivencia social, respetuosa de los derechos humanos, de las diferentes discapacidades y de todas las manifestaciones de vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe, y
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-X.- Difundirá y formará en los estudiantes, una conciencia plena sobre la cultura de la prevención de riesgos y accidentes, la educación vial, de tal manera que sean factor de cambio e impulso social de los programas estatales en la materia.
+X.- Difundirá y formará en los estudiantes, una conciencia plena sobre la cultura de la prevención de riesgos y accidentes, la mediación y conciliación de problemas, la educación financiera, la educación vial, educación ambiental y artístico- cultural, de tal manera que los individuos construyan su proyecto de vida y carrera para que sean factor de cambio e impulso social de los programas educativos y sociales que el Estado promueva en estas materias.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -1501,9 +1511,17 @@ I.- Desarrollar sus actividades conforme lo establecido por la presente Ley y de
 
 II.- Contar con personal que acredite la preparación establecida en esta Ley para impartir la educación que pretenda prestar.
 
-III.- Contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas adecuadas al servicio que prestan. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o reconocimiento, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-IV.- Planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la educación básica, la normal y demás para la formación de docentes.
+III.- Contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas adecuadas al servicio que prestan. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o reconocimiento.
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+IV.- Planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la educación básica, la normal y demás para la formación de docentes; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+V.- Garantizar que las instalaciones cuenten y satisfagan las condiciones al acceso gratuito al agua potable para beber a sus alumnos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2010)</small>
 
@@ -1538,6 +1556,10 @@ III.- Proporcionar un mínimo del 5% de becas de la población escolar inscrita 
 IV.- Rendir semestralmente las estadísticas correspondientes a la Secretaría de Educación y Bienestar Social respecto a la organización, administración, escolaridad y aspectos técnicos de las instituciones, y
 
 V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VI.- No realizar prácticas nocivas de carácter económicas administrativas que perjudiquen al desarrollo educativo de los educandos o padres de familia como lo son: aumento de colegiaturas en más de un 10% por ciento por ciclo escolar, retención de documentos oficiales por falta de pago de colegiaturas, imposición de compra de útiles escolares, uniformes, libros de texto, materiales de aseo en comercios exclusivos; así como la obligación de realizar pagos extraordinarios para la realización de festejos ajenos a los fines de la educación; así como la compra y venta de objetos promocionales.
 
 ###### ARTICULO 79.
 
@@ -2038,3 +2060,19 @@ P.O. 11 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 448 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5, POR LA QUE SE ADICIONA UNA FRACCIÓN IX, Y LOS INCISOS A) Y B), A LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 446 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PÁRRAFO TERCERO DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- EI presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- EI Ejecutivo del Estado contará con un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones a los Reglamentos y Reglas de Operación correspondientes.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 442 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS POR LAS QUE SE ADICIONA LA FRACCIÓN XXIX AL ARTÍCULO 15, LOS ARTÍCULOS 42 Y 43, LAS FRACCIONES III Y IV Y LA ADICIÓN DE LA FRACCIÓN V DEL ARTÍCULO 76 Y LA ADICIÓN DE UNA FRACCIÓN VI AL ARTÍCULO 78 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Ejecutivo del Estado, deberá formular la estructura administrativa para la creación de las áreas necesarias para el cumplimiento de este Decreto y la modificación de los reglamentos respectivos para el cabal cumplimiento de la presente reforma, en un plazo máximo de 180 días.
