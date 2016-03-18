@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2015-12-18"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -99,25 +99,43 @@ Para efectos de la presente ley, la perspectiva de género es la visión analít
 
 ### CAPÍTULO II. TIPOS Y MODALIDADES DE VIOLENCIA
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2016)</small>
 
 ###### Artículo 6.
 
 Los tipos y modalidades de violencia enumerados por ésta Ley, serán sancionados en los términos de la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2016)</small>
+
 Reconociendo como tipos de violencia los siguientes:
 
-I.- Violencia Psicológica.- Entendida como cualquier acto u omisión que dañe la estabilidad psicológica, que pueda conllevar a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+I. Violencia Psicológica.- Entendida como cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, que pueda conllevar a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
 
 II.- Violencia Física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
 
-III.- Violencia Patrimonial.- La transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer las necesidades de la víctima, así como los daños a los bienes comunes o propios de la víctima;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-IV.- Violencia Económica.- Toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima, encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+III. Violencia Patrimonial.- Es cualquier acto u omisión que afecta el desarrollo adecuado de la víctima, se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer las necesidades de la víctima, así como los daños a los bienes comunes o propios de la víctima;
 
-V.- Violencia Sexual.- Cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-VI.- Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+IV. Violencia Económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima, se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física, incluyéndose la exhibición del cuerpo de la mujer en imágenes privadas o comerciales que inciten a realizar actividades de índole sexual. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud, de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante un trato deshumanizado, omisión de atención oportuna y eficaz, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+
+VII. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### CAPÍTULO III. ORDENES DE PROTECCIÓN
 
@@ -158,6 +176,44 @@ II. Las diferentes formas de discriminación contra las mujeres, que se pueden p
 III. La adhesión a convenios o protocolos para eliminar estas modalidades de violencia, y
 
 IV. La evaluación de sus políticas públicas en forma volitiva, de los sectores públicos, privados o sociales.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+###### Artículo 11 Bis.
+
+Se entiende por violencia política a las acciones o conductas cometidas directamente o a través de terceros en contra de las mujeres candidatas, electas, designadas o en ejercicio de la función político-pública para acortar, suspender, impedir o restringir el ejercicio de sus derechos políticos así como para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+###### Artículo 11 Ter.
+
+Son actos de violencia política hacia las mujeres candidatas, electas, designadas o en ejercicio de la función político - pública, los que:
+
+I.- Proporcionen a las mujeres candidatas o autoridades electas o designadas información falsa, errada o imprecisa que induzca al inadecuado ejercicio de sus funciones político - públicas.
+
+II.- Impongan por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+
+III.- Obliguen mediante la fuerza o intimidación a las autoridades electas o designadas en el ejercicio de sus funciones político - públicas, suscribir todo tipo de documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general.
+
+IV.- Asignen responsabilidades que tengan como resultado la limitación del ejercicio de la función político-pública.
+
+V.- Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o designadas asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+
+VI.- Impidan o restrinjan su reincorporación al cargo cuando hagan uso de una licencia justificada.
+
+VII.- Restrinjan o impidan el uso de acciones constitucionales y legales para proteger sus derechos frente a los actos o eviten el cumplimiento de las Resoluciones correspondientes.
+
+VIII.- Impongan sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos.
+
+IX.- Anulen las candidaturas de mujeres proporcionando datos falsos o información incompleta a las autoridades Electorales del Estado.
+
+X.- Divulguen o revelen información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político - públicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan.
+
+XI.- Difundan información falsa relativa a las funciones político - públicas, con el objetivo de desprestigiar su gestión y obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan.
+
+XII.- Discriminen a la mujer electa designada o en el ejercicio de la función político-publica, por encontrarse en estado de embarazo impidiendo o negando el ejercicio de su mandato o el goce de sus derechos sociales reconocidos por Ley o los que le correspondan.
+
+XIII.- Presionen o induzcan a las autoridades electas o designadas a presentar renuncia al cargo.
 
 ###### Artículo 12.
 
@@ -367,13 +423,27 @@ d) El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 e) La Secretaría de Educación y Bienestar Social;
 
-f) La Secretaría de Salud, y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
+f) La Secretaría de Salud;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2016)</small>
+
+g) La Secretaría del Trabajo y Previsión Social, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2016)</small>
+
+h) El Instituto de Cultura de Baja California.
 
 IV. Los Gobiernos Municipales a través de su respectiva instancia de la mujer, o a falta de ésta, quien tenga a su cargo la implementación de mecanismos para el adelanto de las mujeres en la administración pública municipal.
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2014)</small>
 
 V. Un Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión de Equidad y Género.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+
+VI. Un Magistrado del Poder Judicial del Estado de Baja California, quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura.
 
 ###### Artículo 33.
 
@@ -583,6 +653,10 @@ XVI.- Conforme a lo previsto por la Ley General, recibir y en su caso, dar segui
 
 Corresponderá al Instituto de Cultura de Baja California, el formular, coordinar y ejecutar políticas de promoción de los derechos humanos de las mujeres, a través de las diferentes manifestaciones culturales y artísticas. Así como diseñar y promover campañas de información sobre los tipos y modalidades de la violencia contra las mujeres, y las dependencias y entidades que la atienden.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+Artículo 44 BIS. Corresponderá a la Secretaría de Desarrollo Social, en su ámbito de competencia, fomentar el desarrollo social utilizando las herramientas necesarias para proteger de manera integral los derechos fundamentales de las mujeres, garantizarles una vida libre de violencia promoviendo su plena participación en todos los ámbitos de la vida buscando que mejoren las condiciones de aquellas que se encuentra en situación de exclusión y pobreza.
+
 ###### Artículo 45.
 
 Compete al Poder Legislativo:
@@ -746,3 +820,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá emitir, en un plazo no mayor (sic) noventa días naturales, las modificaciones a los Reglamentos correspondientes.
 
 TERCERO.- A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública del Estado emitirá en un plazo no mayor a ciento veinte días naturales, los lineamientos para la operación del (sic) Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 453 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 11 BIS Y 11 TER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 454 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, órgano de difusión del Poder Ejecutivo del Estado de Baja California.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 455 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 32 Y LA ADICIÓN DEL ARTÍCULO 44 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
