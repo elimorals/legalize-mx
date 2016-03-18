@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-89770"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2012-10-05"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2012.
 
@@ -571,7 +571,9 @@ La Secretaría fomentará el desarrollo de la investigación científica y tecno
 
 I.- La administración de fondos federales que sean entregados directamente al Estado para destinarse a promover y fortalecer la investigación científica y tecnológica y la innovación;
 
-II.- La administración de una partida presupuestal correspondiente, destinada al impulso de la investigación científica y tecnológica y la innovación;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+II.- La administración de una partida presupuestal correspondiente, no menor al veinte por ciento de los fondos federales que sean entregados directamente al Estado, destinada al impulso de la investigación científica y tecnológica y la innovación;
 
 III.- Los fondos convenidos con instituciones financiadoras privadas o públicas, nacionales e internacionales, para proyectos específicos;
 
@@ -834,3 +836,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 441 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 25 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
