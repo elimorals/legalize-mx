@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2016-03-11"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -327,9 +327,13 @@ XXXV. Instrumentar, ejecutar y evaluar programas, proyectos, políticas, servici
 
 XXXVI. Coordinarse con la Secretaría de Salud del Estado para elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-XXXVII. Las demás que conforme a la legislación local y federal aplicable le correspondan.
+XXXVII. Identificar, delimitar y establecer corredores biológicos, así como diseñar y proponer las estrategias para su implementación, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+
+XXXVIII. Las demás que conforme a la legislación local y federal aplicable le correspondan.
 
 ###### ARTÍCULO 9.
 
@@ -669,6 +673,8 @@ Los programas de ordenamiento ecológico a que se refiere la presente Ley tienen
 
 Cada cuatro años, la Secretaría deberá presentar al Consejo, para su aprobación, una actualización al Programa de Ordenamiento Ecológico del Estado, el cual contendrá los cambios o modificaciones presentados en el ambiente estatal, de acuerdo a los parámetros caracterizados en el programa de ordenamiento vigente o los que deriven de posteriores investigaciones.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 27.
 
 En la formulación de los programas de ordenamiento ecológico se considerarán los siguientes criterios:
@@ -683,6 +689,10 @@ IV. El equilibrio que debe existir entre los asentamientos humanos y sus condici
 
 V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras y actividades.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+
+VI. Las zonas prioritarias para la conservación, corredores biológicos y áreas naturales protegidas federales, estatales y municipales.
+
 ###### ARTÍCULO 28.
 
 El ordenamiento ecológico del Estado se llevará a cabo conforme a lo dispuesto en la Ley General y esta Ley, a través de los programas de ordenamiento ecológico correspondientes:
@@ -690,6 +700,8 @@ El ordenamiento ecológico del Estado se llevará a cabo conforme a lo dispuesto
 I. Regionales: que comprendan la entidad federativa o una parte de ésta; y
 
 II. Locales: que involucran la totalidad o una parte de un municipio.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 29.
 
@@ -703,7 +715,9 @@ III. La fundación de nuevos centros de población;
 
 IV. El aprovechamiento de los recursos naturales en el Estado;
 
-V. La creación de áreas naturales protegidas de competencia estatal y municipal; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+V. La creación de áreas naturales protegidas de competencia estatal y municipal, zonas prioritarias para la conservación y corredores biológicos; y
 
 VI. La expansión o apertura de zonas agrícolas o de uso pecuario y en general en los cambios de uso de suelo fuera de los centros de población.
 
@@ -787,7 +801,7 @@ XI. En general, aquellas acciones relacionadas con la preservación y restauraci
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en la Ley General, esta Ley, sus reglamentos y demás disposiciones que de ellos se deriven, así como los que se perciban por concepto del otorgamiento de permisos, autorizaciones, concesiones y licencias en materia ambiental, indemnizaciones que reciba el Gobierno del Estado por daños al ambiente, herencias, aportaciones o donativos, así como rendimientos financieros, conforme lo determinen en los ordenamientos aplicables, se destinarán a la integración de fondos ambientales en los ámbitos que corresponda.
 
-> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE MARZO DE 2016)</small>
 
 Los recursos de los fondos ambientales serán aplicados a:
 
@@ -812,6 +826,16 @@ VII. La promoción de la participación de grupos y organizaciones sociales y em
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2013)</small>
 
 VIII. El fortalecimiento de los programas ambientales en los municipios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+
+IX. A la protección de las áreas que fungen como zonas de recarga, de provisión, de almacenamiento, corredores biológicos, de belleza escénica y conservación de germoplasma estratégicas definidas por la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+
+X. A la adquisición de terrenos situados en áreas naturales protegidas estatales, especialmente en las zonas núcleo de las mismas o en sitios estratégicos para la conservación de la biodiversidad;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2016)</small>
 
 Todo lo relacionado con la integración, administración y gasto de los recursos constitutivos de dichos fondos serán establecidos en el reglamento respectivo, el cual será aprobado por el Consejo, o en su caso los reglamentos municipales.
 
@@ -1467,9 +1491,101 @@ La Secretaria deberá promover y apoyar el manejo de la flora y fauna silvestre,
 
 ARTÍCULO 106 BIS 3.- Queda prohibido en el Estado el establecimiento de espectáculos circenses públicos o privados, fijos o itinerantes, en los que se utilicen ejemplares vivos de fauna silvestre.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE MARZO DE 2016)</small>
 
-#### SECCIÓN I. Criterios ambientales
+#### SECCIÓN IV. CORREDORES BIOLÓGICOS
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+ARTÍCULO 106 BIS 4.- Un corredor biológico es un territorio que proporciona conectividad entre paisajes, ecosistemas y hábitat, sean éstos naturales o modificados, asegurando el mantenimiento de la diversidad biológica y los procesos ecológicos entre éstos.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+ARTÍCULO 106 BIS 5.- Corresponde a la Secretaría, la identificación, delimitación y establecimiento de los Corredores Biológicos que se requieran para tener la conectividad y flujo genético, y evitar el aislamiento de las especies entre áreas prioritarias para la conservación.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+ARTÍCULO 106 BIS 6.- Los objetivos de los Corredores Biológicos son:
+
+I.- Mantener y generar la conectividad ecológica territorial entre áreas naturales prioritarias por su riqueza biológica, brindando un conjunto de bienes y servicios ambientales a la sociedad de la región,
+
+II.- Fortalecer las capacidades locales en el uso sustentable de los recursos naturales y promover la conservación de los mismos para que las futuras generaciones puedan aprovecharlos, y
+
+III.- Servir como instrumento para que los recursos del gobierno apoyen a las comunidades y a la conservación de la biodiversidad.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+ARTÍCULO 106 BIS 7.- Los Corredores Biológicos tendrán por componentes de la estrategia:
+
+I. El diseño y monitoreo de corredores biológicos: Se refiere a aspectos de ordenamiento espacial y ecológico, y a la definición detallada de prioridades para la conservación y uso sustentable de los recursos con la participación de la comunidad,
+
+II. La coordinación interinstitucional y reorientación de políticas públicas: Lograr una coordinación interinstitucional y alineación de políticas públicas secretariales y sectoriales de las dependencias y entidades de la Administración Pública Estatal y municipales, y demás actores estratégicos, a partir de la integración de criterios de conservación de la biodiversidad, ordenamiento ecológico y uso sustentable de los recursos naturales.
+
+III. Conservación y restauración: Conservar y restaurar la biodiversidad del Estado, a través de acciones que permitan generar la conectividad entre poblaciones y comunidades de especies de flora y fauna nativa.
+
+IV. El uso sustentable: Se refiere al desarrollo de nuevas cadenas de valor no convencional con un enfoque integral que promueva prácticas de uso racional y sustentable de la biodiversidad; y
+
+V. La administración y coordinación: Se refiere a la estructura prevista para la implementación de los corredores biológicos.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+ARTÍCULO 106 BIS 8.- Las líneas estratégicas a aplicar en los Corredores Biológicos, son las siguientes:
+
+I.- Conservación;
+
+II.- Servicios Ambientales;
+
+III.- Aprovechamiento de la Vida Silvestre;
+
+IV.- Monitoreo y evaluación;
+
+V.- Producción forestal nativa y recuperación de cobertura forestal;
+
+VI.- Ecoturismo;
+
+VII.- Economía Ambiental;
+
+VIII.- Diversificación y reconversión productiva;
+
+IX.- Producción Sostenible';
+
+X.- Aprovechamiento Forestal, y
+
+XI.- Las demás que favorezcan al cumplimiento de los objetivos de los corredores biológicos.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+ARTÍCULO 106 BIS 9.- Los criterios que la Secretaría deberá de seguir, para establecer los corredores biológicos en el Estado, son los siguientes:
+
+I.- Alta biodiversidad;
+
+II.- Alta endemicidad;
+
+III.- Presencia de especies emblemáticas, prioritarias, en riesgo y particularmente vulnerables al cambio climático;
+
+IV.- Comunidades climax;
+
+V.- Hábitats únicos;
+
+VI.- Buen estado de conservación;
+
+VII.- Ausencia de caminos y asentamientos humanos;
+
+VIII.- Uso alternativo de recursos;
+
+IX.- Amenazas y vulnerabilidad;
+
+X.- Presencia de proyectos de conservación;
+
+XI.- Fenómenos biológicos importantes;
+
+XII.- Áreas importantes para especies migratorias;
+
+XIII.- Fuentes de cuerpos de agua, y
+
+XIV.- Las demás que favorezcan al cumplimiento de los objetivos de los corredores biológicos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ### CAPÍTULO IV. Áreas Verdes Urbanas
 
@@ -1535,7 +1651,7 @@ La actualización de la base de datos del Registro de Emisiones y Transferencia 
 
 ### CAPÍTULO II. Prevención y control de la contaminación de la atmósfera
 
-#### SECCIÓN II. Facultades
+#### SECCIÓN I. Criterios ambientales
 
 ###### ARTÍCULO 110.
 
@@ -1561,7 +1677,7 @@ V. El otorgamiento de todo tipo de autorizaciones, licencias, registros o permis
 
 VI. El diseño de indicadores de calidad ambiental.
 
-#### SECCIÓN III. Control de emisiones proveniente de fuentes fijas
+#### SECCIÓN II. Facultades
 
 ###### ARTÍCULO 112.
 
@@ -1661,7 +1777,7 @@ VIII. Aplicar las normas oficiales mexicanas y normas ambientales estatales para
 
 IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen.
 
-#### SECCIÓN IV. De los Centros de Verificación
+#### SECCIÓN III. Control de emisiones proveniente de fuentes fijas
 
 ###### ARTÍCULO 114.
 
@@ -1691,9 +1807,7 @@ Los municipios, a través de los bandos de policía o reglamentos que al efecto 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ENERO DE 2010)</small>
 
-#### SECCIÓN V. Prevención y control de la contaminación lumínica
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2010)</small>
+#### SECCIÓN IV. De los Centros de Verificación
 
 ###### ARTÍCULO 117.
 
@@ -1803,7 +1917,9 @@ XVI. Las demás que determine la Secretaría para garantizar el correcto funcion
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2010)</small>
 
-#### SECCIÓN I. Criterios ambientales
+#### SECCIÓN V. Prevención y control de la contaminación lumínica
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 120.
 
@@ -1847,7 +1963,7 @@ V.- Promover convenios de colaboración con organismos e instituciones de invest
 
 ### CAPÍTULO III. Prevención y control de la contaminación del agua
 
-#### SECCIÓN II. Facultades
+#### SECCIÓN I. Criterios ambientales
 
 ###### ARTÍCULO 122.
 
@@ -1869,7 +1985,7 @@ IV. La restricción o suspensión de explotaciones y aprovechamientos en casos d
 
 Las disposiciones contenidas en el presente capítulo, son aplicables a las descargas de aguas residuales que se viertan a los cuerpos de aguas nacionales asignadas al Estado, a las aguas que en los términos de la Constitución Política de los Estados Unidos Mexicanos sean de jurisdicción local y a los sistemas de drenaje y alcantarillado de los centros de población.
 
-#### SECCIÓN III. Control de descargas de aguas residuales
+#### SECCIÓN II. Facultades
 
 ###### ARTÍCULO 125.
 
@@ -1909,7 +2025,7 @@ V. Requerir a quienes generen descargas y no cumplan con las normas oficiales me
 
 Para los efectos de lo dispuesto en este artículo se consideran cuerpos receptores de competencia Municipal las aguas nacionales asignadas a los municipios o a los organismos municipales administradores de los sistemas de agua y alcantarillado, y los sistemas de drenaje y alcantarillado de los centros de población, por lo que se refiere a descargas de aguas residuales provenientes de obras y actividades comerciales y de servicios.
 
-#### SECCIÓN I. Criterios ambientales
+#### SECCIÓN III. Control de descargas de aguas residuales
 
 ###### ARTÍCULO 127.
 
@@ -1963,7 +2079,7 @@ Para conocer la calidad de las aguas, se establecerá un sistema estatal de moni
 
 ### CAPÍTULO IV. Prevención y control de la contaminación del suelo
 
-#### SECCIÓN II. Facultades
+#### SECCIÓN I. Criterios ambientales
 
 ###### ARTÍCULO 133.
 
@@ -1979,7 +2095,7 @@ II. La ordenación y regulación del desarrollo urbano, del turístico, industri
 
 III. El otorgamiento de concesiones, permisos, y en general toda clase de autorizaciones que al efecto se otorguen con relación a la generación, recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de residuos no peligrosos.
 
-#### SECCIÓN III. Residuos Industriales y Residuos Sólidos Municipales
+#### SECCIÓN II. Facultades
 
 ###### ARTÍCULO 135.
 
@@ -2089,7 +2205,7 @@ ARTÍCULO 141 BIS.- La Secretaría podrá promover instrumentos económicos a fa
 
 > <small>(DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-#### SECCIÓN IV. Manejo, Almacenameinto (sic) y Tránsito de Materiales y Residuos Peligrosos
+#### SECCIÓN III. Residuos Industriales y Residuos Sólidos Municipales
 
 ###### ARTÍCULO 142.
 
@@ -2123,7 +2239,7 @@ ARTÍCULO 141 BIS.- La Secretaría podrá promover instrumentos económicos a fa
 
 (DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
 
-#### SECCIÓN V. Actividades Riesgosas
+#### SECCIÓN IV. Manejo, Almacenameinto (sic) y Tránsito de Materiales y Residuos Peligrosos
 
 ###### ARTÍCULO 150.
 
@@ -2144,6 +2260,8 @@ Los municipios establecerán en los planes o programas de desarrollo urbano las 
 ###### ARTÍCULO 152.
 
 Requieren autorización de la Secretaría en materia de impacto ambiental, previo al inicio de la construcción y operación, de las instalaciones para el tratamiento, reciclaje, recuperación, incineración, confinamiento o disposición final de residuos peligrosos, cuando también en ellas se pretenda tratar, reciclar, recuperar, incinerar, confinar o disponer residuos no peligrosos.
+
+#### SECCIÓN V. Actividades Riesgosas
 
 ###### ARTÍCULO 153.
 
@@ -2962,3 +3080,9 @@ P.O. 11 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor dentro de dieciocho meses, contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 458 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 8, 27, 29 Y 39, ASIMISMO SE ADICIONA UNA SECCIÓN IV AL TÍTULO TERCERO DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma a los artículos 8, 27, 29 y 39 y la adición de la Sección IV denominada Corredores Biológicos al Título Tercero a la Ley de Protección al Ambiente para el Estado de Baja California, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
