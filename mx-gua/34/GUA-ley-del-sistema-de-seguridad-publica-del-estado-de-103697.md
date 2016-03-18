@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2015-01-23"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "GUA"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO, EL PRESENTE DECRETO ENTRA EN VIGOR EL DÍA 01 DE ENERO DEL AÑO 2015, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO.</small>
-
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -55,9 +53,13 @@ La presente Ley es de orden público e interés general y tiene por objeto lo si
 
 I. Regular la función de seguridad pública y la prevención social de la violencia y la delincuencia;
 
-II. Establecer las bases generales de coordinación entre el Estado y sus municipios y demás instancias en materia de seguridad pública; y
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
 
-III. Regular la seguridad privada dentro del Estado.
+II. Regular la vigilancia del tránsito y la seguridad en las carreteras, caminos y vialidades de jurisdicción estatal y municipal;
+
+III. Establecer las bases generales de coordinación entre el Estado y sus municipios y demás instancias en materia de seguridad pública; y
+
+IV. Regular la seguridad privada dentro del Estado.
 
 Lo anterior de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y con el artículo 11 de la Constitución Política del Estado de Guanajuato en los términos de la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -303,11 +305,31 @@ X. Proveer la exacta observancia de las disposiciones de la presente Ley; y
 
 XI. Las demás que le confiera esta Ley y la Ley General del Sistema Nacional de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
 Atribuciones de la Secretaría
 
 ###### Artículo 14.
 
-La Secretaría, además de las atribuciones que le señala esta Ley, se encarga de procesar la información remitida para el suministro al Sistema Estatal de Estadística Criminológica, así como establecer los criterios para la normalización de la información que se suministre a éste.
+Corresponde a la Secretaría de Seguridad Pública a través de su titular:
+
+I. Vigilar el cumplimiento de esta Ley, elaborar, fijar y conducir las políticas en materia de seguridad pública, la prevención social de la violencia y la delincuencia, así como la vigilancia del tránsito estatal, además de planear, coordinar, evaluar y aprobar los programas en los términos de las disposiciones legales vigentes y en los acuerdos que emita el Ejecutivo del Estado;
+
+II. Someter al acuerdo del titular del Poder Ejecutivo los asuntos relativos a los estudios y programas que deberá llevar a cabo la Policía Estatal de Caminos;
+
+III. Designar al responsable de la Policía Estatal de Caminos;
+
+IV. Resolver los recursos administrativos en el ámbito de su competencia;
+
+V. Proveer lo necesario para el funcionamiento administrativo y operativo de la Policía Estatal de Caminos;
+
+VI. Proponer los términos de los convenios, acuerdos y demás actos jurídicos que celebre y otorgue el Gobernador del Estado, relacionado a la materia de vigilancia del tránsito y la seguridad en las carreteras, caminos y vialidades de jurisdicción estatal;
+
+VII. Ejecutar los acuerdos del titular del Poder Ejecutivo en todo lo que se refiere a seguridad pública y vigilancia del tránsito objeto de esta Ley y sus reglamentos; y
+
+VIII. Las demás contenidas en esta Ley y sus reglamentos.
+
+La Secretaría, además de las atribuciones que le señalan las fracciones anteriores, se encarga de procesar la información remitida para el suministro al Sistema Estatal de Estadística Criminológica, así como establecer los criterios para la normalización de la información que se suministre a este.
 
 Homologación normativa
 
@@ -321,11 +343,15 @@ Atribuciones del Ayuntamiento
 
 Son atribuciones del Ayuntamiento:
 
-I. Garantizar la seguridad en el territorio municipal, de las personas, sus bienes, sus derechos, así como preservar la tranquilidad y guardar el orden público, expidiendo para ese efecto los bandos de policía y gobierno, reglamentos, y demás disposiciones administrativas de observancia general en materia de seguridad pública municipal;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+I. Garantizar la seguridad en el territorio municipal, de las personas, sus bienes, sus derechos, así como preservar la tranquilidad y guardar el orden público, expidiendo para ese efecto los bandos de policía y gobierno, reglamentos, y demás disposiciones administrativas de observancia general en materia de seguridad pública y vigilancia del tránsito municipal;
 
 II. Aprobar los programas de seguridad pública y de prevención social de la violencia y la delincuencia de su competencia, y coadyuvar en la elaboración de los programas estatales de seguridad pública y de prevención del delito;
 
-III. Acordar la celebración de convenios o acuerdos en el ejercicio de sus atribuciones, con el Ejecutivo del Estado, la Federación y otros municipios, relativos a la función de seguridad pública;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+III. Acordar la celebración de convenios o acuerdos en el ejercicio de sus atribuciones, con el Ejecutivo del Estado, la Federación y otros municipios, relativos a la función de seguridad pública y vigilancia del tránsito y seguridad de vialidades;
 
 IV. Proporcionar a la Secretaría la información necesaria para darle seguimiento a la ejecución y resultados de las funciones y programas de seguridad;
 
@@ -1547,7 +1573,7 @@ Procedimiento para la aplicación de las sanciones
 
 ###### Artículo 97.
 
-El procedimiento ante las autoridades previstas en la normativa de la materia, iniciará por solicitud fundada y motivada del titular de la unidad encargada de los asuntos, dirigido al titular o presidente de la instancia correspondiente, remitiendo para tal efecto, el expediente del presunto infractor .
+El procedimiento ante las autoridades previstas en la normativa de la materia, iniciará por solicitud fundada y motivada del titular de la unidad encargada de los asuntos, dirigido al titular o presidente de la instancia correspondiente, remitiendo para tal efecto, el expediente del presunto infractor.
 
 El procedimiento a que se refiere el párrafo anterior, deberá realizarse con apego a las disposiciones jurídicas aplicables y observará en todo momento las formalidades esenciales del procedimiento.
 
@@ -2539,11 +2565,65 @@ Grupos Tácticos Operativos o Unidades Especiales de Intervención o de Reacció
 
 La Policía Estatal de Caminos se encargará de vigilar el tránsito en las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas.
 
-Funciones de la Policía Estatal de Caminos
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+
+Atribuciones del Titular de la Policía Estatal de Caminos
 
 ###### Artículo 195.
 
-La Policía Estatal de Caminos tendrá las funciones que la Ley de Tránsito y Transporte del Estado de Guanajuato confiere a la Dirección General de Tránsito del Estado y el personal operativo, como son delegados y oficiales de tránsito.
+Son atribuciones del Titular de la Policía Estatal de Caminos:
+
+I. Cumplir y hacer cumplir la presente Ley y su reglamento, así como los decretos, acuerdos y demás disposiciones dictadas sobre la materia de su competencia;
+
+II. Proponer al titular de la Secretaría de Seguridad Pública y al titular del Poder ejecutivo, por conducto del primero, las medidas que considere necesarias para optimizar los servicios de movilidad y seguridad pública en las vías públicas terrestres de competencia estatal;
+
+III. Imponer y aplicar y en su caso, reconsiderar las sanciones, en el ámbito de su competencia, a quienes incurran en infracciones a las disposiciones de esta Ley y su reglamento.
+
+La facultad contenida en esta fracción podrá ejercerla por conducto de las unidades administrativas que le estén adscritas en los términos del Reglamento Interior de la Secretaría de Seguridad Pública;
+
+IV. Poner a disposición de las autoridades competentes, los conductores o vehículos, cuando de los hechos se deduzca probable responsabilidad;
+
+V. Proponer ante el superior jerárquico, la formación de comisiones mixtas de seguridad educativa vial, así como de cualquier otro tipo de órganos que coadyuven a una más completa realización de las funciones propias de su dependencia;
+
+VI. Actualizar el registro estatal de licencias e infracciones, en lo relativo a las infracciones de su competencia;
+
+VII. Planear y coordinar la vigilancia del tránsito y la seguridad en las carreteras, caminos y áreas de jurisdicción estatal, ejecutando acciones tendientes a su mejoramiento;
+
+VIII. Ejecutar programas de educación vial que garanticen la seguridad de las personas y de su patrimonio en las vías públicas de jurisdicción estatal; y
+
+IX. Las demás contenidas en esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+Atribuciones de los Delegados de la Policía Estatal de Caminos
+
+###### Artículo 195
+
+1. Los Delegados de la Policía Estatal de Caminos en el ámbito de su competencia y dentro de la jurisdicción territorial que se les asigne, tendrán las siguientes atribuciones:
+
+I. Inspeccionar, verificar y vigilar el tránsito de las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas;
+
+II. Imponer y calificar las infracciones a esta Ley y su reglamento, en el ámbito de su competencia;
+
+III. Diseñar, coordinar y efectuar operativos de prevención, seguridad y educación vial; y
+
+IV. Las demás contenidas en esta Ley y su reglamento.
+
+En función de las necesidades del servicio se establecerán delegaciones en los diferentes municipios de la entidad, cuya jurisdicción será determinada por el titular de la Secretaría de Seguridad Pública a propuesta del titular de la Policía Estatal de Caminos.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+Oficiales de la Policía Estatal de Caminos
+
+###### Artículo 195
+
+2. Los oficiales de la Policía Estatal de Caminos en el ámbito de su competencia y dentro de la jurisdicción territorial que se les asigne, tendrán las siguientes funciones:
+
+I. Vigilar y ordenar el tránsito de las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas:
+
+II. Imponer las sanciones por las violaciones cometidas a esta Ley y su reglamento; y
+
+III. Las demás contenidas en esta Ley y su reglamento.
 
 ## Título Décimo Tercero. Disposiciones Complementarias
 
@@ -2567,9 +2647,11 @@ II. Resguardar la seguridad y el orden durante el desarrollo de las audiencias; 
 
 III. Garantizar la integridad física de los actores y partes procesales.
 
-### Capítulo I. Medidas Disciplinarias y Sanciones
+### Capítulo IV. Servicio de Vigilancia de Tránsito y Seguridad en Vialidades
 
-Medidas disciplinarias
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+Vigilancia de Vialidades
 
 ###### Artículo 198.
 
@@ -2581,9 +2663,9 @@ Organización de los Grupos Tácticos Operativos o Unidades Especiales de Interv
 
 La Secretaría contará con Grupos Tácticos Operativos o Unidades Especiales de Intervención o de Reacción que prestarán el servicio público de seguridad en las zonas urbanas y rurales del Estado en los términos de lo previsto en esta Ley. Se organizarán conforme al Reglamento que expida el Titular del Poder Ejecutivo, en el que se indicarán, entre otros aspectos, la estructura administrativa y operativa, los requisitos de ingreso y permanencia, clasificación de mandos y comandos, sus funciones específicas y las condiciones mínimas de capacitación, adiestramiento y actualización, los esquemas de control y vigilancia sobre el personal operativo y las exigencias para su acreditación y certificación.
 
-### Capítulo II. Faltas
+### Capítulo I. Medidas Disciplinarias y Sanciones
 
-Faltas administrativas
+Medidas disciplinarias
 
 ###### Artículo 200.
 
@@ -2602,6 +2684,38 @@ Autorización para la prestación de servicio de policía auxiliar estatal
 ###### Artículo 202.
 
 El Estado a través de la Secretaría podrá prestar el servicio de policía, auxiliar en sus diversas modalidades de conformidad con el reglamento respectivo, y dichos servicios estarán sujetos a las disposiciones legales que regulan el cobro y recaudación de recursos públicos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MARZO DE 2016)</small>
+
+### Capítulo II. Faltas
+
+Faltas administrativas
+
+###### Artículo 202
+
+1. Para vigilar el tránsito y la seguridad en las carreteras, caminos y áreas de jurisdicción estatal y municipal, las autoridades estatales y municipales, en el ámbito de sus competencias, deberán establecer los sistemas que permitan desarrollar de manera efectiva las atribuciones materia de esta Ley, que garanticen el libre tránsito y el uso eficiente de las vías públicas estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+Vigilancia
+
+###### Artículo 202
+
+2. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están facultadas para conocer y sancionar las transgresiones a esta Ley y los reglamentos que de ella se deriven.
+
+La Policía Estatal de Caminos tendrá a su cargo la seguridad y vigilancia del tránsito en carreteras, caminos y áreas de jurisdicción estatal.
+
+Los ayuntamientos, a través de la unidad administrativa que para el efecto designen, deberán llevar a cabo la vigilancia del tránsito en las vías de comunicación terrestre de jurisdicción municipal.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
+
+Colaboración en materia de registro de antecedentes de tránsito
+
+###### Artículo 202
+
+3. Con la finalidad de contar con información oportuna y suficiente para prevenir accidentes de tránsito, así como para detectar a los infractores reincidentes, la Policía Estatal de Caminos, y los municipios, se apoyarán en el registro estatal de licencias e infracciones.
+
+Los procedimientos a seguir por la Policía Estatal de Caminos, las autoridades de tránsito municipales y por los propios responsables e involucrados en los casos en que ocurra un accidente, se especificarán en los reglamentos respectivos.
 
 ## Título Décimo Cuarto. Responsabilidades por Incumplimiento de la Ley
 
@@ -2728,3 +2842,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 77, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EMITE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; SE ADICIONA UN CAPÍTULO IV, AL TÍTULO CUARTO, SECCIÓN TERCERA, DEL LIBRO SEGUNDO DENOMINADO "DELITOS EN MATERIA DE TRANSPORTE PÚBLICO", QUE SE INTEGRA POR EL ARTÍCULO 235 BIS, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; SE REFORMA Y ADICIONA A (SIC) LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Artículo del Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
