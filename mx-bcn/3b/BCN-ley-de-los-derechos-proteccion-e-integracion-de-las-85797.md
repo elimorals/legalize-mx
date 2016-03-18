@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2015-12-18"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -177,9 +177,9 @@ XIX. Participar en la vida cultural, deportiva y recreativa de su comunidad;
 
 XX. Participar en los procesos productivos, de educación y capacitación de su comunidad;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-XXI. Gozar de oportunidades de acceso al trabajo que les permitan un ingreso, a recibir una capacitación adecuada, a laborar en instalaciones que garanticen de manera íntegra su seguridad y bienestar físico, así como recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral; y
+XXI. Gozar de oportunidades de acceso al trabajo que les permitan un ingreso, a recibir una capacitación adecuada, a recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral, así como a laborar en condiciones óptimas y en instalaciones que garanticen su seguridad e integridad física, y
 
 XXII. Ser sujeto de programas de asistencia social cuando se encuentren en caso de desamparo, discapacidad o pérdida de sus medios de subsistencia.
 
@@ -922,3 +922,11 @@ P.O. 18 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 417 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 17 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 450 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LA FRACCIÓN XXI DEL ARTÍCULO 8 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTICULO ÚNICO.
+
+EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
