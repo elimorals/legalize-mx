@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transito-y-transporte-del-estado-de-guanajuato-5521"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-20"
-last_updated: "2013-06-07"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "GUA"
 ---
 # LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 12 DE ABRIL DE 2016 EN LA SEGUNDA PARTE DEL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 18 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 20 de agosto de 1993.
 
@@ -2496,3 +2500,107 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 77, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EMITE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; SE ADICIONA UN CAPÍTULO IV, AL TÍTULO CUARTO, SECCIÓN TERCERA, DEL LIBRO SEGUNDO DENOMINADO "DELITOS EN MATERIA DE TRANSPORTE PÚBLICO", QUE SE INTEGRA POR EL ARTÍCULO 235 BIS, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; SE REFORMA Y ADICIONA A (SIC) LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. La presente Ley entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley de Tránsito y Transporte del Estado de Guanajuato.
+
+Derogación tácita
+
+Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+Término para expedir (sic) reglamento de la Ley
+
+Artículo Cuarto. El Ejecutivo del Estado deberá expedir el Reglamento de la Ley, en un término de ciento ochenta días contados a partir de la entrada en vigencia del presente Decreto, en tanto se expide, se aplicará el Reglamento de Transporte de la Ley de Tránsito y Transporte del Estado en todo aquello que no se oponga al contenido de la presente Ley.
+
+Término para expedir la reglamentación municipal
+
+Artículo Quinto. Los ayuntamientos deberán expedir o adecuar los reglamentos municipales que deriven de esta Ley, dentro de los ciento ochenta días posteriores a la entrada en vigencia del presente Decreto, permaneciendo entre tanto vigentes los reglamentos municipales existentes, en todo aquello que no se oponga al contenido de la presente Ley.
+
+Expedición del Reglamento Interior del Instituto
+
+Artículo Sexto. El Reglamento Interior del Instituto y las reformas al Reglamento Interior de la Secretaría de Gobierno deberán expedirse en un término de noventa días contado a partir del inicio de vigencia del presente Decreto.
+
+Cumplimiento de obligaciones
+
+Artículo Séptimo. Las obligaciones y compromisos adquiridos por la Dirección General de Transporte, para la realización de sus funciones sustantivas, serán asumidas por el Instituto y corresponderá a este continuar su cumplimiento.
+
+Referencia
+
+Artículo Octavo. Cualquier referencia en leyes, decretos, contratos, convenios y demás instrumentos normativos, que se haga a la Dirección General de Transporte, se entenderá hecha al Instituto.
+
+Ultractividad
+
+Artículo Noveno. Hasta en tanto se emita el Reglamento Interior del Instituto, el ejercicio de sus atribuciones se realizarán por conducto del Director General del mismo o de las unidades administrativas de la actual Dirección General de Transporte previstas en el Reglamento Interior de la Secretaría de Gobierno y con los recursos humanos y materiales con que actualmente opera la Dirección.
+
+Coordinación
+
+Artículo Décimo. La Secretaría de Gobierno se coordinará con la Secretaría de Finanzas, Inversión y Administración, para realizar las acciones conducentes a efecto de que el Instituto entre en funciones, como órgano desconcentrado.
+
+Transferencia de recursos y modificación de estructura
+
+Artículo Undécimo. La Secretaría de Finanzas, Inversión y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la asignación de recursos de la Secretaría de Gobierno que a la fecha se destinan a la Dirección General de Transporte para su operación y funcionamiento, se reasignen al Instituto.
+
+Acompañamiento al proceso de modificación
+
+Artículo Duodécimo. Las Secretarías de Finanzas, Inversión y Administración, y de la Transparencia y Rendición de Cuentas, acompañarán en el proceso de modificación de la estructura de la Dirección General de Transporte al Instituto.
+
+Referencias al servicio público
+
+Artículo Décimo Tercero. La alusión de las concesiones del servicio público de transporte en las modalidades de intermunicipal de autotransporte y de alquiler sin ruta fija «Taxi» contenidas en la presente Ley, se entenderá realizada respecto de las modalidades de foráneo y de alquiler sin ruta fija otorgadas con anterioridad a la entrada en vigor del presente Decreto, respectivamente.
+
+Vigencia de actos celebrados con la anterior Ley
+
+Artículo Décimo Cuarto. Las concesiones, permisos y autorizaciones, otorgadas con apego a la Ley que se abroga, conservarán su vigencia, debiendo regirse en lo sucesivo y sin perjuicio de los derechos adquiridos, por las disposiciones de la presente Ley y su reglamentación.
+
+Término para cambio de vehículos
+
+Artículo Décimo Quinto. Los concesionarios del servicio público de transporte en las modalidades de alquiler sin ruta fija «Taxi», carga en general, carga de grúa tipos «A» y «B» cuyos vehículos excedan de la vida útil y su prórroga contenidas en la tabla del artículo 127 de esta Ley, deberán hacer el cambio por otro vehículo que se encuentre dentro de la vida útil permitida, dentro de los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+Continuación de trámites y procedimientos administrativos iniciados
+
+Artículo Décimo Sexto. Los trámites y procedimientos administrativos, los de aplicación de sanciones y la substanciación de los recursos iniciados o interpuestos antes de la entrada en vigor del presente decreto, serán concluidos y resueltos por las autoridades correspondientes, de conformidad con las disposiciones legales vigentes al momento de su inicio o aplicación respectivos.
+
+Ratificación de convenios y acuerdos de coordinación y colaboración administrativa
+
+Artículo Décimo Séptimo. Los convenios y acuerdos de coordinación y colaboración administrativa relativos a los servicios público y especial de transporte, celebrados con anterioridad a la entrada en vigor del presente decreto, quedarán sujetos a la ratificación por parte del Instituto a solicitud de los ayuntamientos, en su caso se modificarán en atención a las reformas legales y reglamentarias aplicables.
+
+Programa de regulación
+
+Artículo Décimo Octavo. A efecto de actualizar el Registro Estatal de Concesiones y Permisos, para contar con un control adecuado de las concesiones del servicio público de transporte y brindar certeza jurídica a quienes de manera continua y permanente lo han venido prestando sin contar formalmente con el acto administrativo de concesionamiento o con el título de concesión correspondiente, la Secretaría de Gobierno, por conducto del Instituto, instrumentará un programa de regularización, el que se publicará en el Periódico Oficial del Gobierno del Estado para quienes se encuentren en alguno de los supuestos siguientes:
+
+I. Se ostentan como concesionarios y se encuentran prestando el servicio público en virtud de un número económico otorgado a su nombre por la dirección general de tránsito y transporte sin que se hubiere concluido el procedimiento de otorgamiento de concesión correspondiente;
+
+II. Se ostentan como concesionarios y se encuentran prestando el servicio público en virtud de un número económico otorgado a su nombre por la Dirección General de Tránsito y Transporte sin que hubieren realizado o concluido cesión de derechos alguna;
+
+III. A la fecha de implementación del programa de regularización tengan entablados procesos administrativos en contra del Gobierno del Estado en los que se demande el reconocimiento del derecho a explotar una concesión del servicio público de transporte de competencia estatal;
+
+IV. Le hubieren transmitido los derechos de una concesión y el titular de la concesión se negare a formalizarla o materialmente sea imposible efectuar la misma;
+
+V. Cuenten con original o copia certificada de la resolución definitiva de otorgamiento de concesión emitida a su nombre por autoridad competente y que no han venido prestando el servicio, por causas imputables a esta; y
+
+VI. Cuenten con un título concesión para prestar el servicio mixto de personas y cosas o acrediten fehacientemente haber prestado el servicio en dicha modalidad, y no hayan realizado el trámite para el cambio de modalidad al de alquiler sin ruta fija (taxi).
+
+El programa deberá iniciarse a más tardar dentro de los ciento veinte días siguientes a la entrada en vigor del presente decreto.
+
+El titular de la Secretaría de Gobierno, dentro del programa de regularización, deberá emitir las resoluciones correspondientes y, en caso de ser procedente, el Director General del Instituto emitirá y suscribirá los títulos de concesiones correspondientes.
+
+Los derechos por otorgamiento de concesión, por la transmisión de derechos de la concesión y por el trámite de transmisión de derechos de la concesión que se causen con motivo del programa quedarán exentos de pago.
+
+El Instituto determinará la cancelación administrativa previa justificación de los registros de expedientes de concesiones respecto de los cuales no se tenga certeza en cuanto a su otorgamiento, titularidad o prestación del servicio.
+
+Servicio especial de transporte ejecutivo
+
+Artículo Décimo Noveno. En un término de noventa días, contados a partir del inicio de vigencia del presente Decreto, se deberá reformar la Ley de Ingresos para el Estado de Guanajuato para el Ejercicio Fiscal 2016, a efecto de que se incluya en los conceptos de cobro el relativo al permiso especial de transporte ejecutivo y la tarifa correspondiente.
+
+Evaluación ex-post de la ley
+
+Artículo Vigésimo. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si la presente Ley ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
