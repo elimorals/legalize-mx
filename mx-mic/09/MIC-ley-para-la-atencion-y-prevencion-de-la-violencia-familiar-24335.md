@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-prevencion-de-la-violencia-familiar-2433
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-11"
-last_updated: "2007-08-23"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY PARA LA ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACAN
 
-LEY PARA LA ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACAN DE OCAMPO
+LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 212, LA PRESENTE REFORMA ENTRARA EN VIGOR EL TREINTA DE NOVIEMBRE DE DOS MIL SIETE.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 212, LA PRESENTE REFORMA ENTRARA EN VIGOR EL TREINTA DE NOVIEMBRE DE DOS MIL SIETE.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2002.
 
@@ -71,7 +71,7 @@ a). Maltrato físico: Todo acto de agresión intencional, en la que se utilice c
 
 b). Maltrato psicoemocional: Al patrón de conducta tanto de acción como de omisión repetitivo, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias o de abandono que provoque en quien las recibe deterioro o disminución de la autoestima y una afectación a su estructura de personalidad.
 
-Las conductas mencionadas serán consideradas maltrato psicoemocional, aunque se argumente como justificación la educación y formación del menor; y,
+Las conductas mencionadas serán consideradas maltrato psicoemocional aunque se argumente como justificación la educación y formación del menor; y,
 
 c). Maltrato sexual: Al patrón de conducta consistente en actos u omisiones que infrinjan burla y humillación de la sexualidad, la inducción a la realización de prácticas sexuales no deseadas, practicar celotipia para el control, manipulación o dominio de la pareja. Así como los delitos contra la libertad y el normal desarrollo psicosexual, respecto de los cuales esta ley sólo surte efectos en el ámbito asistencial y preventivo.
 
@@ -173,7 +173,9 @@ Tanto el personal de las instituciones públicas como privadas, deberán partici
 
 Corresponde al Centro de Asistencia, Atención y Prevención de Violencia Familiar.
 
-I. Llevar constancias administrativas de aquellas conductas que de conformidad con la presente ley, se consideren violencia familiar, y que sean hechos de su conocimiento. Estando facultado para intervenir de oficio, cuando la víctima sea menor de edad, discapacitado o persona de la tercera edad;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+I. Llevar constancias administrativas de aquellas conductas que de conformidad con la presente ley, se consideren violencia familiar, y que sean hechos de su conocimiento. Estando facultado para intervenir de oficio, cuando la víctima sea menor de edad, persona con discapacidad o persona de la tercera edad;
 
 II. Citar a los involucrados y reincidentes en conductas de violencia familiar a efecto de que se apliquen las medidas asistencias que erradiquen dicha violencia;
 
@@ -291,10 +293,16 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. VÍCTOR MANUEL TINOCO RUBÍ.- EL SECRETARIO DE GOBIERNO.- LIC. JUAN BENITO COQUET RAMOS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE AGOSTO DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
