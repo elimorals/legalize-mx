@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-03-11"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -947,7 +947,9 @@ QUINTO BIS. Centros de Justicia Penal Federal:
 
 26. Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia.
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS SIMILARES 44/2015, 52/2014 Y 3/2013, D.O.F. 18 DE MARZO DE 2016)</small>
+
+Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia, con excepción del Centro de Justicia Penal Federal en el Estado de Durango, cuya competencia comprenderá el Estado de Durango, salvo los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo; así como del Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de Durango antes mencionados.
 
 > <small>(ADICIONADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 22/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2013)</small>
 
@@ -2404,3 +2406,13 @@ XX. …
 3. Nueve juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; cinco juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
 
 XXI. a XXXII. …"
+
+D.O.F. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS SIMILARES 44/2015 Y 52/2014 QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE COAHUILA DE ZARAGOZA Y DURANGO, CON RESIDENCIA EN LAS CIUDADES DE TORREÓN Y DURANGO, RESPECTIVAMENTE; ASÍ COMO EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; PARA HOMOLOGAR LA JURISDICCIÓN TERRITORIAL DE DICHOS CENTROS CON LOS CIRCUITOS JUDICIALES DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE COMPRENDEN DICHOS ESTADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Durango con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
