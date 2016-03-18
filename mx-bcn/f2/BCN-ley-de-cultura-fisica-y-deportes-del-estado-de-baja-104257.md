@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2015-07-31"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -505,7 +505,15 @@ IV.- Suscribir y autorizar la celebración de convenios y acuerdos de colaboraci
 
 V.- Atender las invitaciones para participar en actos, eventos y ceremonias de naturaleza deportiva, cuando sea necesario; y
 
-VI.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VI.- Procurar que todas las instalaciones y espacios definidos para la práctica del deporte y cultura física tengan las facilidades adecuadas para el acceso a las personas con discapacidad en los términos de la Ley en la materia.
+
+Asimismo, en el marco de sus atribuciones de conformidad con el artículo 12 fracción I de la Ley de Salud Pública del Estado, deberán promover las condiciones para que en las referidas instalaciones deportivas se brinde atención médica de primeros auxilios y en general aquella vinculada con la atención inmediata a afectaciones a la salud derivadas de la práctica del deporte en dichas instalaciones.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VII.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -1918,3 +1926,9 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 31 DE JULIO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 445 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 31, EN LA FRACCIÓN VI, ADICIONANDO UNA FRACCIÓN VII A LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
