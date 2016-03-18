@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-organismo-publico-descentralizado-92918
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-08"
-last_updated: "2013-02-08"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE PUEBLA"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 8 de febrero de 2013.
 
@@ -111,7 +111,7 @@ D.2. Dirección de Administración de Personal y Desarrollo Humano
 
 D.3. Dirección de Operación e Infraestructura
 
-D.4. Dirección de Protección Social en Salud
+D.4. (DEROGADO, P.O. 18 DE MARZO DE 2016)
 
 E) Dirección de Asuntos Jurídicos
 
@@ -769,11 +769,11 @@ XVIII. Establecer previo acuerdo con su superior jerárquico, las políticas en 
 
 XIX. Proponer al superior jerárquico, de conformidad con las disposiciones aplicables, las modificaciones a la estructura orgánica del Organismo, al tabulador de sueldos, al catálogo de puestos, y las demás que resulten necesarias para el funcionamiento del Organismo;
 
-XX. Coordinar en el ámbito de su competencia, la organización y operación del Sistema de Protección Social en Salud; y
+XX. (DEROGADA, P.O. 18 DE MARZO DE 2016)
 
 XXI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PROTECCIÓN SOCIAL EN SALUD
+#### SECCIÓN IV
 
 ###### ARTÍCULO 27.
 
@@ -921,49 +921,11 @@ XXIII. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias docum
 
 XXIV. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 30.
 
-El Titular de la Dirección de Protección Social en Salud, dependerá del Coordinador de Administración y Finanzas y tendrá, además de las atribuciones que señala el artículo 16 del Reglamento, las siguientes:
-
-I. Instrumentar y operar en el ámbito de sus atribuciones el Sistema de Protección Social en Salud;
-
-II. Administrar, en coordinación con las áreas competentes del Organismo los recursos financieros, humanos y materiales que le sean asignados;
-
-III. Dirigir la elaboración del Programa Anual de Gasto en materia de Protección Social en Salud en coordinación con la Dirección de Administración y Finanzas, con base en la meta de afiliación anualizada, y previo acuerdo con su superior jerárquico, remitirlo para su aprobación a la Comisión Nacional de Protección Social en Salud;
-
-IV. Autorizar los conceptos de gasto que serán financiados con recursos del Sistema de Protección Social en Salud, de conformidad con la normatividad vigente;
-
-V. Verificar en coordinación con la Dirección de Administración y Finanzas que los recursos transferidos al Organismo en materia de Protección Social en Salud sean aplicados, de conformidad con lo señalado en las disposiciones aplicables;
-
-VI. Proporcionar a las autoridades competentes que lo requieran la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto, que para el efecto remita la Dirección de Administración y Finanzas;
-
-VII. Administrar el padrón de beneficiarios del Sistema de Protección Social en Salud en el Estado, en términos de las disposiciones aplicables y remitirlo a la autoridad federal competente;
-
-VIII. Dirigir los procedimientos para la afiliación y reafiliación de los beneficiarios;
-
-IX. Establecer las estrategias de promoción, registro y tutela de los derechos de los beneficiarios del Sistema de Protección Social en Salud, de acuerdo a las disposiciones aplicables;
-
-X. Dirigir las acciones de identificación de las personas susceptibles de ser beneficiarias del Sistema de Protección Social en Salud, así como su incorporación al mismo;
-
-XI. Verificar en coordinación con la Unidad de Gestión Social que las quejas y sugerencias que formulen los beneficiarios del Sistema de Protección Social en Salud sean atendidas; así como proponer a las áreas competentes del Organismo las acciones de mejora, y en su caso, las medidas correctivas que procedan;
-
-XII. Proponer a su superior jerárquico la suscripción de los instrumentos jurídicos que sean necesarios para la ejecución del Sistema de Protección Social en Salud;
-
-XIII. Verificar que los prestadores de servicios médicos cumplan con los requisitos de seguridad, calidad y demás que establecen las disposiciones aplicables en materia de Protección Social en Salud;
-
-XIV. Proponer a las áreas competentes del Organismo las estrategias para la prestación de los servicios de salud y el abasto de medicamentos a los beneficiarios del Sistema de Protección Social en Salud;
-
-XV. Autorizar e informar a la Comisión Nacional de Protección Social en Salud, de conformidad con las disposiciones aplicables, la cancelación o suspensión de servicios a los afiliados al Sistema de Protección Social en Salud;
-
-XVI. Dirigir las acciones que se establezcan para la mejora de los procesos que se realicen en la Dirección;
-
-XVII. Integrar y remitir a la Dirección de Asuntos Jurídicos, la información concerniente para la atención de las auditorías que se practique al (sic) Organismo por parte de las autoridades competentes en materia de control, evaluación y fiscalización;
-
-XVIII. Remitir a la Dirección de Asuntos Jurídicos para su registro, los contratos, convenios, acuerdos y bases de coordinación que se suscriban en el ámbito de su competencia, así como los documentos que normen la actividad administrativa del mismo y del sector salud;
-
-XIX. Proporcionar a la Dirección de Asuntos Jurídicos, las constancias documentales que obren en los archivos de la unidad administrativa a su cargo, para que certifique la documentación que le sea requerida por particulares o por las autoridades competentes, de conformidad con las disposiciones aplicables; y
-
-XX. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno o el Director General.
+(DEROGADO, P.O. 18 DE MARZO DE 2016)
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
@@ -1011,9 +973,11 @@ XIX. Las demás que en materia de su competencia se establezcan en los ordenamie
 
 ### CAPÍTULO X. DE LAS JURISDICCIONES SANITARIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 32.
 
-La Jurisdicción Sanitaria es el órgano técnico-administrativo, que realiza funciones de planeación, dirección, coordinación, control, supervisión y evaluación de los servicios de atención médica, salud pública y asistencia social, dentro de una circunscripción territorial determinada, éstas dependerán jerárquicamente en materia de salud de la Coordinación de Servicios de Salud, y estarán sujetas al control y evaluación administrativa y financiera de la Coordinación de Administración y Finanzas.
+La Jurisdicción Sanitaria, es el órgano técnico-administrativo, que realiza funciones de planeación, dirección, coordinación, control, supervisión y evaluación de los servicios de atención médica, salud pública y asistencia social, dentro de una circunscripción territorial determinada, esta depende jerárquicamente en materia de salud de la Coordinación de Servicios de Salud y está sujeta al control y evaluación administrativa y financiera de la Coordinación de Administración y Finanzas; a la que se encuentran adscritos los Centros de Salud, Centros de Salud con Servicios Ampliados, Hospitales Integrales, Hospitales Generales y demás Unidades Médicas que se especifiquen en el respectivo Manual de Organización.
 
 Cada Jurisdicción sanitaria tendrá una Jefatura, su Titular tendrá en el ámbito administrativo las contenidas en el artículo 16 de este Reglamento, así como las atribuciones siguientes:
 
@@ -1065,9 +1029,17 @@ XXIII. Evaluar los servicios que proporcionan las unidades médicas de primer y 
 
 XXIV. Realizar y presentar a la Coordinación de Servicios de Salud la evaluación del desarrollo de los programas de salud y asistencia social que se proporcionan a la población en el ámbito de su competencia, de acuerdo a los lineamientos y términos que ésta determine;
 
-XXV. Vigilar que el Régimen de Protección Social en Salud funcione adecuadamente en la circunscripción territorial de su competencia, y solicitar a la Dirección de Protección Social en Salud los apoyos que sean procedentes, previa entrega de los informes que los justifiquen; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-XXVI. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno, el Director General o los Coordinadores de Servicios de Salud o de Administración y Finanzas, en el ámbito de su competencia.
+XXV. Vigilar que la prestación de los servicios de salud a los beneficiarios del Sistema de Protección Social en Salud, funcione adecuadamente en la circunscripción territorial de su competencia y solicitar los apoyos que sean procedentes al área competente, previa entrega de los informes que los justifiquen;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XXVI. Incorporar en sus actas de entrega-recepción a los Centros de Salud, Centros de Salud con Servicios Ampliados, Hospitales Integrales, Hospitales Generales y demás Unidades Médicas ubicadas en la jurisdicción de su adscripción, y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XXVII. Las demás que en materia de su competencia se establezcan en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares, convenios, así como las que de naturaleza semejante para el buen funcionamiento del Organismo le encomiende la Junta de Gobierno, el Director General o los Coordinadores de Servicios de Salud o de Administración y Finanzas, en el ámbito de su competencia.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
 
@@ -1106,3 +1078,17 @@ TERCERO.- Las unidades administrativas del Organismo, dentro de los noventa día
 CUARTO.- Todos los acuerdos, circulares, lineamientos y demás normatividad administrativa emitidos que a la entrada en vigor del presente ordenamiento, se refieran a las unidades administrativas que modifican su denominación o nivel jerárquico, se entenderá atribuido a aquéllas a que se refiere el presente ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a diecinueve de diciembre de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica. El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Secretario de Salud.- C. JORGE FOUAD AGUILAR CHEDRAUI.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las unidades administrativas del Organismo, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirán utilizando las formas oficiales, formatos y demás papelería existente en los que conste su denominación anterior, hasta que se agoten.
+
+CUARTO. Todo trámite que se haya iniciado o se encuentre en proceso de resolución a la entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse por la unidad administrativa a la que le sean conferidas atribuciones para ello, conforme a este Reglamento.
