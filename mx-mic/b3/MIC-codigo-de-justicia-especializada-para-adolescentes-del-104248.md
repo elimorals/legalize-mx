@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-especializada-para-adolescentes-del-104248"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-26"
-last_updated: "2014-12-26"
+last_updated: "2016-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104248&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 26 de diciembre de 2014.
 
@@ -89,7 +89,9 @@ II. Para determinar el interés superior en una situación concreta se deberá v
 
 III. Presunción de Inocencia: Se sustenta en la consideración elemental de que toda persona tiene derecho a ser estimada como no responsable de la conducta que se le atribuye en tanto no se le pruebe lo contrario, según lo establece la Constitución;
 
-IV. Transversalidad: Establece que en la interpretación y aplicación de la ley, se tomará en cuenta la totalidad de los derechos que concurren en el adolescente, ya sea por ser indígena, mujer, con capacidades diferentes, trabajador, o cualquiera otra condición que resulte contingente en el momento en el que sucedieron los hechos imputados o aquél en el que se aplica el Sistema Integral de Justicia para Adolescentes en cualquiera de sus fases, de conformidad con lo que establecen la Constitución y las leyes;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+IV. Transversalidad: Establece que en la interpretación y aplicación de la ley, se tomará en cuenta la totalidad de los derechos que concurren en el adolescente, ya sea por ser indígena, mujer, persona con discapacidad, trabajador, o cualquiera otra condición que resulte contingente en el momento en el que sucedieron los hechos imputados o aquél en el que se aplica el Sistema Integral de Justicia para Adolescentes en cualquiera de sus fases, de conformidad con lo que establecen la Constitución y las leyes;
 
 V. Certeza jurídica: Determina que las conductas atribuidas a los adolescentes deben encontrarse previstas en las leyes;
 
@@ -111,11 +113,9 @@ XIII. Justicia restaurativa: Comprende a la víctima u ofendido, al adolescente 
 
 XIV. Proporcionalidad: Establece que al momento de determinarse las medidas que habrán de imponerse a los adolescentes o adultos jóvenes, deberán aplicarse aquéllas que sean acordes con la integración social y familiar de los mismos, lo que se logrará a través del establecimiento de medidas de distinta naturaleza cuya imposición y ejecución debe ser por el tiempo más breve que proceda para alcanzar el fin pretendido; y,
 
-XV Inmediación: Establece que las audiencias en el procedimiento deberán ser presididas por el Juez para Adolescentes, sin que en modo alguno pueda delegarse esta función.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-Los derechos y garantías reconocidos en esta Ley, se aplicarán a todos los sujetos de la misma, sin discriminación alguna por razones de origen étnico o nacional, género, edad, capacidades diferentes, condición social o de salud, religión, opinión, preferencia sexual, estado civil o por cualquier otro motivo análogo ya sea propio o de sus padres, familiares u otras personas responsables o que los tengan bajo su cuidado.
-
-Se respetará en todas las etapas del proceso el derecho de los menores a la intimidad.
+XV. Inmediación: Establece que las audiencias en el procedimiento deberán ser presididas por el Juez para Adolescentes, sin que en modo alguno pueda delegarse esta función. Los derechos y garantías reconocidos en esta Ley, se aplicarán a todos los sujetos de la misma, sin discriminación alguna por razones de origen étnico o nacional, género, edad, discapacidad, condición social o de salud, religión, opinión, preferencia sexual, estado civil o por cualquier otro motivo análogo ya sea propio o de sus padres, familiares u otras personas responsables o que los tengan bajo su cuidado. Se respetará en todas las etapas del proceso el derecho de los menores a la intimidad.
 
 ###### Artículo 5.
 
@@ -1523,7 +1523,9 @@ Se procurará incluir la realización de actividades colectivas entre los adoles
 
 La Unidad Especializada deberá verificar que los centros de internamiento tengan la capacidad para internar personas en condiciones adecuadas y que sus espacios respondan a la finalidad de evitar la exclusión social, de modo que su estructura y equipamiento deba cumplir, por lo menos, con las siguientes disposiciones:
 
-I. Responder a las necesidades particulares de acceso y atención de quienes estén internados, tales como intimidad, estímulos visuales, requerimientos especiales con motivo de género, capacidades diferentes, fomento de las posibilidades de asociación con sus compañeros y de participación en actividades culturales, de educación, capacitación, desarrollo artístico, desempeño de oficios, esparcimiento y recreación, así como otras necesidades derivadas del desarrollo de la vida cotidiana, lo que incluye dormitorios, comedores, cocinas y sanitarios;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+I. Responder a las necesidades particulares de acceso y atención de quienes estén internados, tales como intimidad, estímulos visuales, requerimientos especiales con motivo de género, discapacidad, fomento de las posibilidades de asociación con sus compañeros y de participación en actividades culturales, de educación, capacitación, desarrollo artístico, desempeño de oficios, esparcimiento y recreación, así como otras necesidades derivadas del desarrollo de la vida cotidiana, lo que incluye dormitorios, comedores, cocinas y sanitarios;
 
 II. Contar con un sistema eficaz de alarma, evacuación y buen resguardo, para los casos de incendio, inundación, movimientos telúricos o cualquier otro riesgo contra la seguridad e integridad de quienes se encuentren en el interior del centro de internamiento;
 
@@ -1818,3 +1820,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 26 veintiséis días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.-TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO.- SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE VIOLENCIA FAMILIAR EN EL ESTADO DE MECHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
