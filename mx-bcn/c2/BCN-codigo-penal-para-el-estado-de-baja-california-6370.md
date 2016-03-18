@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2015-10-23"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3703,6 +3703,10 @@ XVI. Cuando el servidor público retarde o entorpezca maliciosamente, la procura
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2016)</small>
+
+Artículo 293 BIS.- El servidor público que en el ejercicio de sus funciones, ejecute, produzca o coadyuve en la implantación, alteración o en ambos casos, en el manejo de la evidencia, de forma dolosa, que tenga como objetivo producir una afectación directa a una o varias personas, ya sea en su integridad física, emocional, jurídica o en su esfera patrimonial, se le impondrá de cuatro a doce años de prisión.
+
 ### CAPITULO II. DESOBEDIENCIA DE PARTICULARES
 
 ###### Artículo 294.
@@ -3826,6 +3830,10 @@ Tipo y punibilidad.- Comete el delito de intimidación:
 I.- El servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la legislación penal; y
 
 II.- El servidor público que con motivo de la querella, denuncia o información a que se hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presente o aporte, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
+
+III.- EI servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, infunda o provoque miedo a cualquier persona para evitar que ésta manifieste opiniones o deje de hacerlo, relativas a la actuación de cualquier servidor público, respecto del desempeño de su función, empleo, cargo o comisión.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -5130,3 +5138,15 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 439 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN III DEL ARTÍCULO 306 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 440 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 293 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
