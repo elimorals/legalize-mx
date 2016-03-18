@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2012-02-01"
+last_updated: "2016-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -89,9 +89,13 @@ III. Alcohólicos y farmacodependientes;
 
 IV. La mujer que se encuentre en período de gestación, lactancia o que tenga a su cargo exclusivo los alimentos de hijo menor de edad o con discapacidad, que no tenga ingreso adicional o empleo, o teniéndolos, su ingreso no sea mayor de un salario mínimo general diario vigente en la entidad;
 
-V. Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-VI. Inválidos por causa de ceguera, sordera, mudez, alteraciones del sistema neuromusculoesquelético, deficiencias mentales, problemas del lenguaje u otras deficiencias;
+V. Ancianos en desamparo, discapacidad, marginación o sujeto a maltrato;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VI. Personas con discapacidad, por causa de ceguera, sordera, mudez, alteraciones del sistema neuromusculoesquelético, discapacidades mentales, problemas del lenguaje u otras discapacidades;
 
 VII. Indigentes;
 
@@ -109,7 +113,9 @@ XII. Personas afectadas por desastres.
 
 Se entienden como servicios básicos en materia de asistencia social, los siguientes:
 
-I. La atención a personas que por sus carencias socioeconómicas o por problemas de invalidez, minusvalía o incapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+I. La atención a personas que por sus carencias socioeconómicas o con discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
 
 II. La atención a menores y ancianos en estado de abandono o desamparo, en establecimientos especializados;
 
@@ -117,11 +123,15 @@ III. La promoción del bienestar del senescente y el desarrollo de acciones de p
 
 IV. El ejercicio de la tutela de los menores, en términos de las disposiciones legales aplicables;
 
-V. La prestación de servicios de asistencia jurídica y de orientación social a menores, ancianos y minusválidos de escasos recursos;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+V. La prestación de servicios de asistencia jurídica y de orientación social a menores, ancianos y personas con discapacidad de escasos recursos;
 
 VI. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
 
-VII. La prevención de invalidez, minusvalía o incapacidad, y su rehabilitación en centros especializados;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VII. La prevención de discapacidades, y su rehabilitación en centros especializados;
 
 VIII. La orientación nutricional y la alimentación complementaria a la población de escasos recursos y de zonas marginadas;
 
@@ -149,9 +159,11 @@ El Sistema para el Desarrollo Integral de la Familia Michoacana, Organismo Públ
 
 (DEROGADO, P.O. 31 DE AGOSTO DE 2007)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2016)</small>
+
 ###### ARTICULO 9o.
 
-El Organismo para el logro de sus objetivos tendrá las siguientes funciones:
+El organismo para el logro de sus objetivos tendrá las siguientes funciones:
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -167,17 +179,25 @@ V. Atender las funciones de auxilio que realicen las instituciones de beneficenc
 
 VI. Cuidar y dar en adopción a niños expósitos, previa investigación de la solvencia moral de los adoptantes, debiendo vigilar el proceso de integración de los adoptados;
 
-VII. Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+VII. Operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y personas con discapacidad sin recursos;
 
 VIII. Diseñar programas tendientes a prevenir y evitar el mal trato de menores o ancianos, proporcionándoles atención, cuidado y vigilancia, y en su caso, denunciar o encauzar el procedimiento ante las autoridades competentes;
 
-IX. Llevar a cabo acciones en materia de prevención de invalidez y de rehabilitación de inválidos, en centros no hospitalarios, con sujeción a la Ley General de Salud;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+IX. Llevar a cabo acciones en materia de prevención de discapacidades y de rehabilitación de personas con discapacidad, en centros hospitalarios, con sujeción de la Ley General de Salud.
 
 X. Realizar estudios e investigaciones sobre problemas de la familia, con el fin de establecer condiciones par (sic) mejorar su integración y hacer asequible la paternidad responsable;
 
-XI. Realizar estudios e investigaciones sobre asistencia social, y promover a través del Ejecutivo iniciativas tendientes a amparar la protección del menor, del anciano y del minusválido;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
-XII. Prestar servicios de asistencia jurídica con efectos de representación de los menores, en caso de que carezcan de ella o sea deficiente y de orientación social, a ancianos y minusválidos, así como los complementarios en problemas sicológicos;
+XI. Realizar estudios e investigaciones sobre asistencia social, y promover a través del Ejecutivo iniciativas tendientes a amparar la protección del menor, del anciano y de personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+
+XII. Prestar servicios de asistencia jurídica con efectos de representación de los menores en caso de que carezcan de ella o sea deficiente, y de orientación social a ancianos y a personas con discapacidad, así como los complementarios en problemas sicológicos.
 
 XIII. Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y expósitos, así como en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales vigentes;
 
@@ -522,3 +542,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE FEBRERO DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
+
+P.O. 18 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
