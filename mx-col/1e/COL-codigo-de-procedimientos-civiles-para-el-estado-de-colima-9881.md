@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2015-09-05"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3531,6 +3531,32 @@ Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez
 
 Si en la audiencia de juicio no pudieren desahogarse las pruebas vinculadas con el incidente o no pudiera concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia desahogando las pruebas y resolviendo la incidencia en una audiencia especial, previamente al dictado de la sentencia definitiva.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MARZO DE 2016)</small>
+
+## TITULO SEXTO TER
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MARZO DE 2016)</small>
+
+### CAPITULO ÚNICO. DEL DIVORCIO SIN CAUSA
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ART. 428 TER.- El cónyuge que unilateralmente desee promover el juicio de divorcio sin causa, podrá hacerlo solicitándolo por escrito ante el Juez competente, quien deberá emplazar al demandado para efectos de su conocimiento, y para que en su caso manifieste lo que a su derecho convenga dentro del término de tres días hábiles siguientes a la notificación, vencido ese plazo los autos se turnaran al Juez a efecto de emitir sentencia definitiva dentro de un término de diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ART. 428 TER 1.- Cuando existan menores, incapaces o bienes de la sociedad conyugal, deberá acompañar a su solicitud la propuesta de convenio que deberá reunir los requisitos establecidos en el artículo 273 del Nuevo Código Civil para el Estado de Colima.
+
+Admitida la solicitud con los documentos y copias anexas, se notificará y se correrá traslado al otro cónyuge, a fin de que en el plazo de quince días manifieste su conformidad con el convenio o, en su caso, presente su contrapropuesta.
+
+Asimismo, el Juez ordenará poner a la vista del representante del Ministerio Público adscrito, la solicitud de divorcio y anexos, y en caso de existir la contrapropuesta para su debida intervención.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ART. 428 TER 2.- En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 428 Ter 1 y éste no contravenga ninguna disposición legal, el juez lo aprobará de plano, decretando el divorcio mediante sentencia.
+
+En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
+
 ## TITULO SEPTIMO. De los juicios sumarios y de la vía de apremio
 
 ### CAPITULO I
@@ -3620,106 +3646,6 @@ ART. 438.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 439.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2008)</small>
-
-## TITULO OCTAVO. Del Juicio Arbitral
-
-Reglas Generales
-
-ART. 608.- Las partes tienen el derecho de sujetar sus diferencias al juicio arbitral.
-
-ART. 609.- El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre.
-
-El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
-
-ART. 610.- El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez, cualquiera que sea la cuantía.
-
-ART. 611.- Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
-
-Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros se hará siempre con intervención judicial, como se previno en los medios preparatorios a juicio arbitral.
-
-ART. 612.- Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado se hará necesariamente con intervención judicial.
-
-ART. 613.- Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
-
-ART. 614.- No se pueden comprometer en árbitros los siguientes negocios:
-
-I.- El derecho de recibir alimentos;
-
-II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
-
-III.- Las acciones de nulidad de relaciones conyugales
-
-IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 339 del Código Civil;
-
-V.- Los demás en que lo prohíba expresamente la ley.
-
-ART. 615.- El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
-
-Cuando no se hayan designado los árbitros se entiende que se reservan hacerlo con intervención judicial, como se previene en los medios preparatorios.
-
-ART. 616.- El compromiso será válido aunque no se fije el término del juicio arbitral, y, en este caso, la misión de los árbitros durará cien días, si se tratare de juicio ordinario y sesenta días si el negocio fuere sumario. El plazo se cuenta desde que se acepte el nombramiento.
-
-ART. 617.- Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
-
-ART. 618.- Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuera el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
-
-Las partes podrán renunciar a la apelación.
-
-Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
-
-ART. 619.- El compromiso produce las excepciones de competencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
-
-ART. 620.- Cuando hay árbitro único, las partes son libres de nombrarle un secretario, y si dentro del tercer día, empezando desde aquél en que deba de actuar, no se han puesto de acuerdo, el árbitro los designará y a costa de los mismos interesados desempeñará sus funciones.
-
-Cuando fueren varios los árbitros, entre ellos mismos elegirán el que funja como secretario, sin que por esto tenga derecho a mayores emolumentos.
-
-ART. 621.- El compromiso termina:
-
-I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro, sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
-
-II.- Por excusa del árbitro o árbitros, que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
-
-III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
-
-IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
-
-V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 616.
-
-ART. 622.- Los árbitros sólo son recusables por las mismas causas que lo fueren los demás jueces.
-
-ART. 623.- Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
-
-ART. 624.- El laudo será firmado por cada uno de los árbitros, y, en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
-
-ART. 625.- En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia y no lograren ponerse de acuerdo, acudirán al juez de primera instancia.
-
-ART. 626.- Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más que se sumarán a dicho término para que pueda pronunciar el laudo.
-
-ART. 627.- Los árbitros decidirán según las reglas del derecho, a menos que en el compromiso o en la cláusula se les encomendara la amigable composición o el fallo en conciencia.
-
-ART. 628.- De las recusaciones y excusas de los árbitros conocerá el juez ordinario conforme a las leyes y sin ulterior recurso.
-
-ART. 629.- Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
-
-ART. 630.- Los árbitros pueden condenar en costas, daños y perjuicios a las partes y aún imponer multas, pero para emplear los medios de apremio deben ocurrir al juez ordinario.
-
-ART. 631.- Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
-
-Para la ejecución de autos y decretos se acudirá también al juez de Primera Instancia.
-
-Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Supremo Tribunal, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
-
-ART. 632.- Es competente para todos los actos relativos al juicio arbitral en lo que se refiera a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje; y si hubiere varios jueces, el de número más bajo.
-
-ART. 633.- Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
-
-ART. 634.- La apelación sólo será en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
-
-ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 ### CAPITULO II (SIC). De la rectificación administrativa de actas
 
@@ -3850,6 +3776,148 @@ Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO III. Del juicio ejecutivo
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
+
+#### SECCION I. Reglas generales
+
+ART. 442.- Para que el juicio ejecutivo tenga lugar se necesita un título que lleve aparejada ejecución.
+
+Traen aparejada ejecución:
+
+I.- La primera copia de una escritura pública expedida por el juez o notario ante quien se otorgó;
+
+II.- Las ulteriores copias dadas por mandato judicial, con citación de la persona a quien interesa;
+
+III.- Los demás instrumentos públicos que conforme al artículo 332 hacen prueba plena;
+
+IV.- Cualquier documento privado después de reconocido por quien lo hizo o lo mandó extender; basta con que reconozca la firma aún cuando se niegue la deuda;
+
+V.- La confesión de la deuda hecha ante el juez competente por el deudor o por su representante con facultades para ello;
+
+VI.- Los convenios celebrados en el curso de un juicio ante el juez ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios, o en cualquiera otra forma;
+
+VII.- Las pólizas originales de contratos celebradas con intervención de corredor público;
+
+VIII.- El juicio uniforme de contadores si las partes ante el juez o por escritura pública, o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
+
+ART. 443.- Las sentencias que causen ejecutoria y los convenios judiciales, laudos o juicios de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
+
+ART. 444.- Cuando la confesión judicial se haga durante la secuela del juicio ordinario, cesará éste si el actor lo pidiere, y se procederá en la vía ejecutiva.
+
+Si la confesión sólo afecta a una parte de lo demandado, se procederá en la vía ejecutiva por la parte confesada, si el actor lo pidiere así, y por el resto seguirá el juicio ordinario su curso.
+
+ART. 445.- La ejecución no puede despacharse sino por cantidad liquida.
+
+Si el título ejecutivo o las diligencias preparatorias determinan una cantidad líquida en parte y en parte ilíquida, por aquélla se decretará la ejecución, reservándose por el resto los derechos del promovente.
+
+ART. 446.- Las cantidades que por intereses o perjuicios formen parte de la deuda reclamada y no estuvieren liquidadas al despacharse la ejecución, lo serán en su oportunidad y se decidirán en la sentencia definitiva.
+
+ART. 447.- Las obligaciones sujetas a condición suspensiva o a plazo no serán ejecutivas sino cuando aquéllas o éste se hayan cumplido, salvo lo dispuesto en los artículos 1,836 y 1,850 del Código Civil.
+
+ART. 448.- Si el título ejecutivo contiene obligación de hacer, se observarán las reglas siguientes:
+
+I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 1,955 del Código Civil, el juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación;
+
+II.- Si en el contrato se estableció alguna pena por el importe de ésta, se decretará la ejecución;
+
+III.- Si no se fijó la pena, el importe de los daños y perjuicios será fijado por el actor cuando transcurrido el plazo para la prestación del hecho por el obligado mismo, el demandante optare por el resarcimiento de daños y perjuicios; en este caso, el juez debe moderar prudentemente la cantidad señalada;
+
+IV.- Hecho el acto por el tercero, o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse el demandado, de la misma manera que en las demás ejecuciones.
+
+ART. 449.- Cuando el título ejecutivo contenga la obligación de entregar cosas que, sin ser dinero, se cuentan por número, peso o medida, se observarán las reglas siguientes:
+
+I.- Si no se designa la calidad de la cosa y existieren de varias clases en poder del deudor, se embargarán las de mediana calidad;
+
+II.- Si hubiere sólo calidades diferentes a la estipulada, se embargarán si así lo pidiere el actor, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes;
+
+III.- Si no hubiere en poder del demandado ninguna calidad, se despachará ejecución por la cantidad de dinero que señale actor, debiendo prudentemente moderarla el ejecutor, de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que se señale por daños y perjuicios, moderables también.
+
+> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
+
+ART. 450.- Cuando la acción ejecutiva se ejercite sobre cosa cierta y determinada o en especie, si hecho el requerimiento de entrega el demandado no la hace, se pondrá en secuestro judicial.
+
+Si la cosa ya no existe se embargarán bienes que cubran su valor fijado por el ejecutante, y los daños y perjuicios como en las demás ejecuciones, pudiendo ser moderada la cantidad por el juzgador. El ejecutado puede oponerse a los valores fijados y rendir las pruebas que juzgue conveniente durante la tramitación del juicio.
+
+ART. 451.- Si la cosa especificada se halla en poder de un tercero, la acción ejecutiva no podrá ejercitarse contra éste, sino en los casos siguientes:
+
+I.- Cuando la acción sea real;
+
+> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
+
+II.- Cuando se haya declarado, judicialmente, que la enajenación por la que adquirió el tercero está en los casos de los artículos 2,054 y 2,059 del Código Civil y los demás preceptos en que expresamente se establezca esa responsabilidad.
+
+ART. 452.- Hecho el embargo se emplazará al deudor en persona conforme al artículo 116, o si se ignorare su paradero conforme al artículo 122, para que en un término no mayor de cinco días ocurra a hacer el pago o a oponer las excepciones y defensas que tuviere, siguiéndose el juicio por todos sus trámites.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+ART. 453.- Los juicios ejecutivos contendrán siempre dos secciones: la del principal conteniendo la demanda, la contestación, el juicio y su sentencia.
+
+La segunda sección contendrá el auto de ejecución y todo lo relativo a éste, a la depositaria y sus incidentes, a la mejora y reducción del embargo, al avalúo y remate de los bienes, lo cual aún cuando sean dos secciones, todo debe formar un mismo cuaderno.
+
+ART. 454.- De la sección de ejecución se encargará el juez, quien podrá delegar sus facultades en el ejecutor, con excepción de las siguientes:
+
+I.- El auto de exequendo;
+
+II.- El mandamiento de sacar a remate un bien;
+
+III.- La orden de suspensión de un remate;
+
+IV.- La aprobación del remate; y
+
+V.- Los demás casos determinados por la ley.
+
+ART. 455.- La sección de ejecución se integrará con:
+
+I.- Copia cotejada de la demanda;
+
+II.- Mandamiento en forma de ejecución dictado por el ejecutor en acatamiento al auto correspondiente dictado por el juez;
+
+III.- Nombramiento de depositario y otorgamiento de su fianza o caución;
+
+IV.- Cuentas de los depositarios e incidentes correspondientes;
+
+V.- Remoción de depositarios y nombramiento de los substitutos;
+
+VI.- Avalúos periciales y sus incidentes;
+
+VII.- Arrendamiento de bienes depositados;
+
+VIII.- Mandamiento de subastar los bienes secuestrados acatando las órdenes del juez correspondiente;
+
+IX.- Remate, calificación de posturas y fincamiento del mismo;
+
+X.- Aprobación del remate mandada hacer por el juez;
+
+XI.- Posesión de los bienes adjudicados y otorgamiento de las escrituras correspondientes en rebeldía de las partes.
+
+ART. 456.- Terminada la sección de ejecución se agregará al cuaderno principal del juicio.
+
+ART. 457.- El ejecutor del juzgado no suspenderá la tramitación de la sección sino por orden expresa del juez.
+
+ART. 458.- La sección principal del juicio ejecutivo se integrará con la demanda y el auto que le da cabida, declarando procedente la ejecución provisional, mandándola comunicar al ejecutor.
+
+Luego que se efectúe el embargo se correrá traslado de la demanda y se seguirá el juicio por los trámites del juicio sumario hasta dictar sentencia definitiva.
+
+ART. 459.- Contra las resoluciones del ejecutor sólo procede el recurso de queja ante el juez, que se puede hacer verbalmente o por escrito, a no ser que la ley disponga otra cosa.
+
+ART. 460.- La sentencia debe declarar si ha procedido o no la vía ejecutiva y si ha lugar o no a hacer trance y remate de los bienes embargados y pago al acreedor, decidiendo también los derechos controvertidos.
+
+Si la sentencia declarase que no procede el juicio ejecutivo reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+
+ART. 461.- Si el crédito que se cobra está garantizado con hipoteca, el acreedor podrá intentar el juicio hipotecario, el ejecutivo o el ordinario.
+
+ART. 462.- Cuando el deudor consignare la cantidad reclamada para evitar los gastos y molestias del embargo, reservándose el derecho de oponerse, se suspenderá el embargo y la cantidad se depositará conforme a la ley; si la cantidad consignada no fuere suficiente para cubrir la deuda principal y las costas, se practicará el embargo por lo que falte.
+
+#### SECCION II. Acción rescisoria
+
+ART. 463.- Si el título ejecutivo contiene obligaciones recíprocas, la parte que solicite la ejecución al presentar la demanda hará la consignación de las prestaciones debidas al demandado o comprobará fehacientemente haber cumplido con su obligación.
+
+ART. 464.- El contrato de compra-venta concertado bajo la condición resolutoria de la falta de pago del precio total o parcial, da lugar a la acción ejecutiva para recuperar la cosa vendida, si el acreedor consigna las prestaciones recibidas del demandado con la reducción correspondiente al demérito de la cosa, calculado en el contrato o prudentemente por el juez.
+
+ART. 465.- Procede también la acción sumaria ejecutiva para recuperar, bajo las mismas condiciones indicadas en el artículo anterior, el bien que se enajenó con reserva del dominio hasta la total solución del precio.
+
+ART. 466.- Para que procedan en vía ejecutiva las acciones a que se refieren los artículos que preceden se necesita que los contratos se hayan registrado como lo previene el Código Civil.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -3999,148 +4067,6 @@ ART. 487.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
 
 > <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
-#### SECCION I. Reglas generales
-
-ART. 442.- Para que el juicio ejecutivo tenga lugar se necesita un título que lleve aparejada ejecución.
-
-Traen aparejada ejecución:
-
-I.- La primera copia de una escritura pública expedida por el juez o notario ante quien se otorgó;
-
-II.- Las ulteriores copias dadas por mandato judicial, con citación de la persona a quien interesa;
-
-III.- Los demás instrumentos públicos que conforme al artículo 332 hacen prueba plena;
-
-IV.- Cualquier documento privado después de reconocido por quien lo hizo o lo mandó extender; basta con que reconozca la firma aún cuando se niegue la deuda;
-
-V.- La confesión de la deuda hecha ante el juez competente por el deudor o por su representante con facultades para ello;
-
-VI.- Los convenios celebrados en el curso de un juicio ante el juez ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios, o en cualquiera otra forma;
-
-VII.- Las pólizas originales de contratos celebradas con intervención de corredor público;
-
-VIII.- El juicio uniforme de contadores si las partes ante el juez o por escritura pública, o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
-
-ART. 443.- Las sentencias que causen ejecutoria y los convenios judiciales, laudos o juicios de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
-
-ART. 444.- Cuando la confesión judicial se haga durante la secuela del juicio ordinario, cesará éste si el actor lo pidiere, y se procederá en la vía ejecutiva.
-
-Si la confesión sólo afecta a una parte de lo demandado, se procederá en la vía ejecutiva por la parte confesada, si el actor lo pidiere así, y por el resto seguirá el juicio ordinario su curso.
-
-ART. 445.- La ejecución no puede despacharse sino por cantidad liquida.
-
-Si el título ejecutivo o las diligencias preparatorias determinan una cantidad líquida en parte y en parte ilíquida, por aquélla se decretará la ejecución, reservándose por el resto los derechos del promovente.
-
-ART. 446.- Las cantidades que por intereses o perjuicios formen parte de la deuda reclamada y no estuvieren liquidadas al despacharse la ejecución, lo serán en su oportunidad y se decidirán en la sentencia definitiva.
-
-ART. 447.- Las obligaciones sujetas a condición suspensiva o a plazo no serán ejecutivas sino cuando aquéllas o éste se hayan cumplido, salvo lo dispuesto en los artículos 1,836 y 1,850 del Código Civil.
-
-ART. 448.- Si el título ejecutivo contiene obligación de hacer, se observarán las reglas siguientes:
-
-I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 1,955 del Código Civil, el juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación;
-
-II.- Si en el contrato se estableció alguna pena por el importe de ésta, se decretará la ejecución;
-
-III.- Si no se fijó la pena, el importe de los daños y perjuicios será fijado por el actor cuando transcurrido el plazo para la prestación del hecho por el obligado mismo, el demandante optare por el resarcimiento de daños y perjuicios; en este caso, el juez debe moderar prudentemente la cantidad señalada;
-
-IV.- Hecho el acto por el tercero, o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse el demandado, de la misma manera que en las demás ejecuciones.
-
-ART. 449.- Cuando el título ejecutivo contenga la obligación de entregar cosas que, sin ser dinero, se cuentan por número, peso o medida, se observarán las reglas siguientes:
-
-I.- Si no se designa la calidad de la cosa y existieren de varias clases en poder del deudor, se embargarán las de mediana calidad;
-
-II.- Si hubiere sólo calidades diferentes a la estipulada, se embargarán si así lo pidiere el actor, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes;
-
-III.- Si no hubiere en poder del demandado ninguna calidad, se despachará ejecución por la cantidad de dinero que señale actor, debiendo prudentemente moderarla el ejecutor, de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que se señale por daños y perjuicios, moderables también.
-
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
-
-ART. 450.- Cuando la acción ejecutiva se ejercite sobre cosa cierta y determinada o en especie, si hecho el requerimiento de entrega el demandado no la hace, se pondrá en secuestro judicial.
-
-Si la cosa ya no existe se embargarán bienes que cubran su valor fijado por el ejecutante, y los daños y perjuicios como en las demás ejecuciones, pudiendo ser moderada la cantidad por el juzgador. El ejecutado puede oponerse a los valores fijados y rendir las pruebas que juzgue conveniente durante la tramitación del juicio.
-
-ART. 451.- Si la cosa especificada se halla en poder de un tercero, la acción ejecutiva no podrá ejercitarse contra éste, sino en los casos siguientes:
-
-I.- Cuando la acción sea real;
-
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
-
-II.- Cuando se haya declarado, judicialmente, que la enajenación por la que adquirió el tercero está en los casos de los artículos 2,054 y 2,059 del Código Civil y los demás preceptos en que expresamente se establezca esa responsabilidad.
-
-ART. 452.- Hecho el embargo se emplazará al deudor en persona conforme al artículo 116, o si se ignorare su paradero conforme al artículo 122, para que en un término no mayor de cinco días ocurra a hacer el pago o a oponer las excepciones y defensas que tuviere, siguiéndose el juicio por todos sus trámites.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
-
-ART. 453.- Los juicios ejecutivos contendrán siempre dos secciones: la del principal conteniendo la demanda, la contestación, el juicio y su sentencia.
-
-La segunda sección contendrá el auto de ejecución y todo lo relativo a éste, a la depositaria y sus incidentes, a la mejora y reducción del embargo, al avalúo y remate de los bienes, lo cual aún cuando sean dos secciones, todo debe formar un mismo cuaderno.
-
-ART. 454.- De la sección de ejecución se encargará el juez, quien podrá delegar sus facultades en el ejecutor, con excepción de las siguientes:
-
-I.- El auto de exequendo;
-
-II.- El mandamiento de sacar a remate un bien;
-
-III.- La orden de suspensión de un remate;
-
-IV.- La aprobación del remate; y
-
-V.- Los demás casos determinados por la ley.
-
-ART. 455.- La sección de ejecución se integrará con:
-
-I.- Copia cotejada de la demanda;
-
-II.- Mandamiento en forma de ejecución dictado por el ejecutor en acatamiento al auto correspondiente dictado por el juez;
-
-III.- Nombramiento de depositario y otorgamiento de su fianza o caución;
-
-IV.- Cuentas de los depositarios e incidentes correspondientes;
-
-V.- Remoción de depositarios y nombramiento de los substitutos;
-
-VI.- Avalúos periciales y sus incidentes;
-
-VII.- Arrendamiento de bienes depositados;
-
-VIII.- Mandamiento de subastar los bienes secuestrados acatando las órdenes del juez correspondiente;
-
-IX.- Remate, calificación de posturas y fincamiento del mismo;
-
-X.- Aprobación del remate mandada hacer por el juez;
-
-XI.- Posesión de los bienes adjudicados y otorgamiento de las escrituras correspondientes en rebeldía de las partes.
-
-ART. 456.- Terminada la sección de ejecución se agregará al cuaderno principal del juicio.
-
-ART. 457.- El ejecutor del juzgado no suspenderá la tramitación de la sección sino por orden expresa del juez.
-
-ART. 458.- La sección principal del juicio ejecutivo se integrará con la demanda y el auto que le da cabida, declarando procedente la ejecución provisional, mandándola comunicar al ejecutor.
-
-Luego que se efectúe el embargo se correrá traslado de la demanda y se seguirá el juicio por los trámites del juicio sumario hasta dictar sentencia definitiva.
-
-ART. 459.- Contra las resoluciones del ejecutor sólo procede el recurso de queja ante el juez, que se puede hacer verbalmente o por escrito, a no ser que la ley disponga otra cosa.
-
-ART. 460.- La sentencia debe declarar si ha procedido o no la vía ejecutiva y si ha lugar o no a hacer trance y remate de los bienes embargados y pago al acreedor, decidiendo también los derechos controvertidos.
-
-Si la sentencia declarase que no procede el juicio ejecutivo reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
-
-ART. 461.- Si el crédito que se cobra está garantizado con hipoteca, el acreedor podrá intentar el juicio hipotecario, el ejecutivo o el ordinario.
-
-ART. 462.- Cuando el deudor consignare la cantidad reclamada para evitar los gastos y molestias del embargo, reservándose el derecho de oponerse, se suspenderá el embargo y la cantidad se depositará conforme a la ley; si la cantidad consignada no fuere suficiente para cubrir la deuda principal y las costas, se practicará el embargo por lo que falte.
-
-#### SECCION II. Acción rescisoria
-
-ART. 463.- Si el título ejecutivo contiene obligaciones recíprocas, la parte que solicite la ejecución al presentar la demanda hará la consignación de las prestaciones debidas al demandado o comprobará fehacientemente haber cumplido con su obligación.
-
-ART. 464.- El contrato de compra-venta concertado bajo la condición resolutoria de la falta de pago del precio total o parcial, da lugar a la acción ejecutiva para recuperar la cosa vendida, si el acreedor consigna las prestaciones recibidas del demandado con la reducción correspondiente al demérito de la cosa, calculado en el contrato o prudentemente por el juez.
-
-ART. 465.- Procede también la acción sumaria ejecutiva para recuperar, bajo las mismas condiciones indicadas en el artículo anterior, el bien que se enajenó con reserva del dominio hasta la total solución del precio.
-
-ART. 466.- Para que procedan en vía ejecutiva las acciones a que se refieren los artículos que preceden se necesita que los contratos se hayan registrado como lo previene el Código Civil.
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
-
 ### CAPITULO V. Del juicio de desocupación
 
 ART. 488.- La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental, o cualquiera otra bastante como medio preparatorio del juicio.
@@ -4192,22 +4118,6 @@ Las presentes diligencias podrán ser promovidas indistintamente, cuando se cump
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO VI. De la vía de apremio
-
-### CAPITULO I. De los juicios en rebeldía
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 636.- En toda clase de juicios, cuando se constituya en rebeldía un litigante, no se volverá a practicar diligencia alguna en su busca.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
-
-Las subsecuentes resoluciones que recaigan en el proceso y cuantas citaciones deban hacerse, se notificarán por lista en los términos del artículo 123.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 637.- El litigante será declarado rebelde a petición de parte contraria, a no ser que cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruído y expensado.
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
 #### SECCION I. De la ejecución de sentencia
 
@@ -4677,31 +4587,125 @@ ART. 606.- Traducida la ejecutoria en la forma prevista en el artículo 329, se 
 
 ART. 607.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan sólo a examinar su autenticidad y si deba o no ejecutarse conforme a las leyes mexicanas.
 
+## TITULO OCTAVO. Del Juicio Arbitral
+
+Reglas Generales
+
+ART. 608.- Las partes tienen el derecho de sujetar sus diferencias al juicio arbitral.
+
+ART. 609.- El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre.
+
+El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
+
+ART. 610.- El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez, cualquiera que sea la cuantía.
+
+ART. 611.- Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
+
+Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros se hará siempre con intervención judicial, como se previno en los medios preparatorios a juicio arbitral.
+
+ART. 612.- Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado se hará necesariamente con intervención judicial.
+
+ART. 613.- Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
+
+ART. 614.- No se pueden comprometer en árbitros los siguientes negocios:
+
+I.- El derecho de recibir alimentos;
+
+II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+
+III.- Las acciones de nulidad de relaciones conyugales
+
+IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 339 del Código Civil;
+
+V.- Los demás en que lo prohíba expresamente la ley.
+
+ART. 615.- El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
+
+Cuando no se hayan designado los árbitros se entiende que se reservan hacerlo con intervención judicial, como se previene en los medios preparatorios.
+
+ART. 616.- El compromiso será válido aunque no se fije el término del juicio arbitral, y, en este caso, la misión de los árbitros durará cien días, si se tratare de juicio ordinario y sesenta días si el negocio fuere sumario. El plazo se cuenta desde que se acepte el nombramiento.
+
+ART. 617.- Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
+
+ART. 618.- Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuera el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
+
+Las partes podrán renunciar a la apelación.
+
+Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
+
+ART. 619.- El compromiso produce las excepciones de competencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
+
+ART. 620.- Cuando hay árbitro único, las partes son libres de nombrarle un secretario, y si dentro del tercer día, empezando desde aquél en que deba de actuar, no se han puesto de acuerdo, el árbitro los designará y a costa de los mismos interesados desempeñará sus funciones.
+
+Cuando fueren varios los árbitros, entre ellos mismos elegirán el que funja como secretario, sin que por esto tenga derecho a mayores emolumentos.
+
+ART. 621.- El compromiso termina:
+
+I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro, sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
+
+II.- Por excusa del árbitro o árbitros, que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
+
+III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
+
+IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
+
+V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 616.
+
+ART. 622.- Los árbitros sólo son recusables por las mismas causas que lo fueren los demás jueces.
+
+ART. 623.- Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
+
+ART. 624.- El laudo será firmado por cada uno de los árbitros, y, en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
+
+ART. 625.- En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia y no lograren ponerse de acuerdo, acudirán al juez de primera instancia.
+
+ART. 626.- Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más que se sumarán a dicho término para que pueda pronunciar el laudo.
+
+ART. 627.- Los árbitros decidirán según las reglas del derecho, a menos que en el compromiso o en la cláusula se les encomendara la amigable composición o el fallo en conciencia.
+
+ART. 628.- De las recusaciones y excusas de los árbitros conocerá el juez ordinario conforme a las leyes y sin ulterior recurso.
+
+ART. 629.- Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
+
+ART. 630.- Los árbitros pueden condenar en costas, daños y perjuicios a las partes y aún imponer multas, pero para emplear los medios de apremio deben ocurrir al juez ordinario.
+
+ART. 631.- Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
+
+Para la ejecución de autos y decretos se acudirá también al juez de Primera Instancia.
+
+Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Supremo Tribunal, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
+
+ART. 632.- Es competente para todos los actos relativos al juicio arbitral en lo que se refiera a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje; y si hubiere varios jueces, el de número más bajo.
+
+ART. 633.- Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+ART. 634.- La apelación sólo será en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
+
 ## TITULO NOVENO. De los juicios de rebeldía
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
-## TITULO DECIMO. De las tercerías
-
-### CAPITULO II. Procedimiento estando presente el rebelde
+### CAPITULO I. De los juicios en rebeldía
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
-ART. 644.- Cualquiera que sea el estado del pleito en que el litigante rebelde comparezca, será admitido como parte y se entenderá con él la substanciación del juicio, sin que ésta pueda retroceder en ningún caso.
+ART. 636.- En toda clase de juicios, cuando se constituya en rebeldía un litigante, no se volverá a practicar diligencia alguna en su busca.
 
-ART. 645.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 646.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-
-ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 648.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+Las subsecuentes resoluciones que recaigan en el proceso y cuantas citaciones deban hacerse, se notificarán por lista en los términos del artículo 123.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
-ART. 649.- El litigante rebelde a quien se haya notificado personalmente el emplazamiento o la sentencia definitiva sólo podrá utilizar contra ella el recurso de apelación.
+ART. 637.- El litigante será declarado rebelde a petición de parte contraria, a no ser que cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruído y expensado.
 
-ART. 650.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 638.
 
@@ -4728,6 +4732,28 @@ ART. 642.- La retención o embargo practicados a consecuencia de declaración en
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
 ART. 643.- En el caso de que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasado un mes a partir del día siguiente de la última publicación a que se refiere el artículo 638, salvo que el actor exhiba fianza.
+
+### CAPITULO II. Procedimiento estando presente el rebelde
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 644.- Cualquiera que sea el estado del pleito en que el litigante rebelde comparezca, será admitido como parte y se entenderá con él la substanciación del juicio, sin que ésta pueda retroceder en ningún caso.
+
+ART. 645.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+ART. 646.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 648.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 649.- El litigante rebelde a quien se haya notificado personalmente el emplazamiento o la sentencia definitiva sólo podrá utilizar contra ella el recurso de apelación.
+
+ART. 650.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+## TITULO DECIMO. De las tercerías
 
 ### CAPITULO UNICO
 
@@ -4789,6 +4815,8 @@ ART. 668.- Cuando se presenten tres o más acreedores que hicieren oposición, s
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
+### CAPITULO II (SIC). Del juicio arbitral
+
 ## TITULO DECIMO (SIC). De las tercerías
 
 > <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
@@ -4810,8 +4838,6 @@ ART. 672.- Si la tercería, cualquiera que sea, se interpone ante un Juez de Men
 TITULO DECIMOPRIMERO
 
 Divorcio por mutuo consentimiento
-
-### CAPITULO II (SIC). Del juicio arbitral
 
 ### CAPITULO UNICO
 
@@ -6896,3 +6922,9 @@ NOVENO: El Pleno del Supremo Tribunal de Justicia, en el ámbito de su competenc
 P.O. 5 DE SEPTIEMBRE DE 2015.
 
 ÚNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 19 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 63 POR EL QUE SE REFORMA EL ARTÍCULO 268 DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y ADICIONA UN TÍTULO SEXTO TER, Y UN CAPÍTULO ÚNICO, DENOMINADO DEL DIVORCIO SIN CAUSA, Y LOS ARTÍCULOS 428 TER, 428 TER 1, 428 TER 2 AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
