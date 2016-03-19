@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-tribunal-electoral-del-estado-de-tabasco-26867
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-11-29"
-last_updated: "2014-07-02"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 29 de noviembre de 2002.
 
@@ -1033,8 +1033,18 @@ OCTAVO. Por única ocasión, el proceso electoral ordinario correspondiente a la
 
 Para tal efecto el Consejo Estatal aprobará los ajustes necesarios a los plazos establecidos en la presente Ley, considerando necesariamente los Acuerdos que al efecto emita el Consejo General del Instituto Nacional Electoral.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+La elección de los Delegados y Subdelegados Municipales, a que se refiere el Artículo 103 de la Ley Orgánica de los Municipios del Estado de Tabasco, reformado conforme al Artículo Tercero de este Decreto por única ocasión se llevará a cabo durante los meses de marzo a mayo del año 2016. Los delegados y subdelegados que resulten electos, durarán en sus cargos hasta que sean electos los nuevos delegados y subdelegados, entre marzo y mayo de 2019.
+
 NOVENO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos en la entidad, así como de sus militantes o simpatizantes, que los órganos electorales locales hayan iniciado o se encuentren en trámite a la entrada en vigor de esta Ley, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos en la entidad hasta antes de la entrada en vigor del presente Decreto, serán fiscalizados con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos a más tardar el último día de diciembre de 2014.
 
 DÉCIMO. El Titular del Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Planeación y Finanzas, realizará las adecuaciones de orden presupuestal correspondientes, a efecto de garantizar que los órganos administrativos y jurisdiccionales en materia electoral cuenten con los recursos necesarios para el adecuado cumplimiento de sus atribuciones, de conformidad con la normatividad aplicable y sujeto a la suficiencia presupuestaria.
 
 DÉCIMO PRIMERO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 005 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 118 DE FECHA 2 DE JULIO DE 2014 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE TABASCO, SUPLEMENTO C N° 7494”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
