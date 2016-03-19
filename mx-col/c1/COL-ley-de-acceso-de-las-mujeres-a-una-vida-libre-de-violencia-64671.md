@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2015-05-16"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -99,9 +99,17 @@ IV.- La libertad y autodeterminación de las mujeres;
 
 V.- El pluralismo social y la multiculturalidad de las mujeres;
 
-VI.- La perspectiva de género que permite incorporar a la mujer como sujeto social; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-VII.- La integración plena y total de las mujeres a la vida democrática y productiva del Estado.
+VI.- La perspectiva de género que permite incorporar a la mujer como sujeto social;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+VII.- La integración plena y total de las mujeres a la vida democrática y productiva del Estado; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+VIII.- La protección y la seguridad a favor de las mujeres en el Estado.
 
 ###### ARTÍCULO 8.
 
@@ -163,7 +171,9 @@ XXVII.- Perspectiva de Género.- es una visión científica, analítica y polít
 
 Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XXVIII.- Acciones Afirmativas.- a las medidas especiales encaminadas a acelerar la igualdad y erradicar la violencia y la discriminación contra las mujeres;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+XXVIII.- Acciones Afirmativas: Las medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la discriminación desigualdad de trato y oportunidades de las mujeres respecto a los hombres.
 
 XXIX.- Empoderamiento de las Mujeres.- es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadío de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
@@ -171,7 +181,21 @@ XXX.- Misoginia.- son conductas de odio hacia la mujer y se manifiesta en actos 
 
 XXXI.- Refugios.- son centros o establecimientos constituidos por organismos públicos o asociaciones civiles para la atención y protección de mujeres que han sido receptoras de violencia; y
 
-XXXII.- Unidades especializadas para la atención de las mujeres.- serán aquellas que proporcionarán a través de las diferentes dependencias públicas y privadas que conforman el sistema, servicios médicos, paramédicos, pedagógicos, psicológicos, de trabajo social, asesoría y apoyo jurídico así como capacitación para el trabajo.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+XXXII.- Unidades especializadas para la atención de las mujeres.- serán aquellas que proporcionarán a través de las diferentes dependencias públicas y privadas que conforman el sistema, servicios médicos, paramédicos, pedagógicos, psicológicos, de trabajo social, asesoría y apoyo jurídico así como capacitación para el trabajo;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+XXXIII.- Debida Diligencia: La obligación de las personas que tienen la calidad de servidores públicos, las dependencias y entidades del estado, de dar respuesta eficiente, eficaz, oportuna y responsable para garantizar los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+XXXIV.- Mujeres en condición de vulnerabilidad: Aquellas en mayor situación de riesgo dé ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de 4 (sic) migrante, refugiada, desplazada, sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe sus derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+XXXV.- Víctima indirecta: Familiares de la víctima o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres.
 
 ###### ARTÍCULO 9.
 
@@ -189,17 +213,37 @@ Los derechos de las mujeres protegidos por esta Ley son:
 
 I.- La vida;
 
-II.- La libertad;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-III.- La igualdad;
+II.- La libertad y autonomía de las mujeres;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+III.- La igualdad de género;
 
 IV.- La intimidad;
 
 V.- La no discriminación;
 
-VI.- La integridad física, psicoemocional y sexual de las mujeres; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-VII.- El patrimonio.
+VI.- La integridad física, psicoemocional y sexual de las mujeres;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+VII.- El patrimonio;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+VIII.- El respeto a la dignidad humana de las mujeres;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+IX.- El pluralismo social y la multiculturalidad de las mujeres; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+X.- La seguridad jurídica.
 
 ###### ARTÍCULO 11.
 
@@ -269,21 +313,31 @@ IV.- Diseñen programas que brinden servicios reeducativos integrales para recep
 
 La violencia laboral o docente, también incluye el hostigamiento sexual, en los términos definidos por el Código Penal para el Estado de Colima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 20.
 
-Para efectos del hostigamiento, el Estado y los Municipios deberán:
+Para los efectos del hostigamiento sexual, el Estado y los Municipios deberán:
 
 I.- Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
 
 II.- Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
 
-III.- Crear procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para denunciar estos ilícitos e inhibir su comisión;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-IV.- Proporcionar atención psicológica y legal, especializada y gratuita a quien sea receptora de hostigamiento; y
+III.- Crear procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para denunciar estos ilícitos, sancionarlos oportunamente en términos de las leyes aplicables e inhibir su comisión;
 
-V.- Implementar acciones administrativas de denuncia para los superiores jerárquicos del hostigador cuando sean omisos en recibir o dar curso a una queja.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-En ningún caso se hará público el nombre de la receptora para evitar algún tipo de sobrevictimización, o que sea boletinada o presionada para abandonar la escuela o trabajo.
+IV.- Brindar la atención psicológica, asesoría legal, especializada y gratuita, así como el acompañamiento legal ante el Ministerio Público para iniciar la investigación correspondiente; y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+V.- Con independencia de las sanciones de carácter penal, el superior jerárquico del hostigador sexual deberá de inmediato hacer del conocimiento de la Contraloría General del Estado, para el inicio de un procedimiento administrativo de responsabilidad previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Colima.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+
+En ningún caso se hará público el nombre de la receptora para evitar su sobrevictimización, o que sea boletinada o presionada para abandonar la escuela o su centro de trabajo.
 
 Para los efectos del párrafo anterior, deberán sumarse las quejas anteriores que sean sobre el mismo hostigador, guardando públicamente el anonimato de las quejosas.
 
@@ -331,9 +385,17 @@ Se considerará violencia institucional a:
 
 I.- La denegación de justicia, pronta y expedita;
 
-II.- La omisión de aviso a la autoridad que corresponda sobre actos de violencia consagrados en la presente Ley; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-III.- La omisión de medidas y órdenes de protección, cuando se tenga la obligación o deber de tramitarlas o proporcionarlas a quienes tienen algún tipo de victimización de los señalados.
+II.- La omisión de aviso a la autoridad que corresponda sobre actos de violencia consagrados en la presente Ley;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+III.- La omisión de medidas y órdenes de protección, cuando se tenga la obligación o deber de tramitarlas o proporcionarlas a quienes tienen algún tipo de victimización de los señalados; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+IV.- La denegación o entorpecimiento de la atención de un servidor público, por motivos de discriminación en contra de mujeres embarazadas, con discapacidad, migrantes, indígenas o con algún otro factor de vulnerabilidad.
 
 ###### ARTÍCULO 26.
 
@@ -439,13 +501,31 @@ V. Denunciar los actos de violencia obstétrica de los que tenga conocimiento po
 
 #### SECCIÓN PRIMERA. DEL TITULAR DEL EJECUTIVO DEL ESTADO
 
+#### SECCIÓN PRIMERA BIS. DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 56 BIS.- Corresponde al Supremo Tribunal de Justicia:
+
+I.- Capacitar y especializar a su personal en materia de género y derechos humanos de las mujeres;
+
+II.- Promover a través de la capacitación del personal, la construcción de una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+III.- Difundir y supervisar el cumplimiento de los instrumentos internacionales aplicables en materia de derechos humanos de las mujeres;
+
+IV.- Exhortar al personal para que dicten sentencias con perspectiva de género y enfoque de derechos humanos de las mujeres, niñas y adolescentes;
+
+V.- Fomentar un ambiente laboral libre de discriminación, riesgos y violencia laboral, así como establecer condiciones, mecanismos e instancias para detectar, atender y erradicar el hostigamiento sexual en el lugar de trabajo;
+
+VI.- Difundir las sentencias emitidas con perspectiva de género y derechos humanos de las mujeres, con respeto a la privacidad de datos personales previstos por la Ley de la materia; y
+
+VII.- Las demás que le atribuyan otros ordenamientos legales.
+
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
 #### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
-
-#### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA
 
@@ -519,11 +599,37 @@ Las Órdenes de Protección son personalísimas e intransferibles, de urgente ap
 
 Las órdenes de protección deberán otorgarse en los términos de la Ley para la Prevención y Atención a la Violencia Intrafamiliar del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 39.
 
-Las personas mayores de doce años de edad, podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes. Quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+Las personas menores de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes.
 
-En tanto que las que se tramiten con motivo de la violencia sexual serán consideradas de extrema urgencia.
+Por lo que respecta a las mujeres menores de doce años, el Ministerio Público y las autoridades judiciales tendrán competencia para conocer de hechos de violencia contra ellas, y solicitar las órdenes de protección correspondientes.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 39 BIS.- Serán consideradas de extrema urgencia las órdenes que se tramiten con motivo de violencia sexual, así como aquéllas que se soliciten en el caso de:
+
+I.- Mujeres embarazadas;
+
+II.- Mujeres que tengan alguna discapacidad;
+
+III.- Mujeres menores de edad;
+
+IV.- Mujeres que tengan calidad de migrantes;
+
+V.- Mujeres que pertenezcan a un grupo indígena; y
+
+VI.- Mujeres con cualquier factor especial de vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 39 BIS 1.- Los jueces competentes para otorgar una orden de protección, dentro del término establecido por esta ley, deberán valorar la situación de riesgo y los elementos de prueba que presente la parte afectada, a fin de resolver sobre la procedencia de esta medida. En la orden de protección se incluirán la justificación y los fundamentos bajo los cuales ésta fue expedida.
+
+Son excepciones al párrafo anterior los casos de violencia que se deban considerar de extrema urgencia, en términos de la presente ley.
+
+Una vez otorgadas y ejecutadas las órdenes de protección, las autoridades judiciales que las dicten deberán dar seguimiento a la situación de violencia que haya ameritado su expedición, con la finalidad de ratificar, modificar o revocar la orden.
 
 ### CAPÍTULO I. DE SU OBJETO E INTEGRACIÓN
 
@@ -559,37 +665,55 @@ El Sistema Estatal se conformará por quien esté a cargo de las siguientes depe
 
 I.- El Ejecutivo del Estado, quien lo presidirá;
 
-II.- Los Titulares de las siguientes Secretarías:
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-a).- General de Gobierno
+II.- El Titular del Supremo Tribunal de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+III.- Los Titulares de las siguientes Secretarías:
+
+a).- General de Gobierno;
 
 b).- Desarrollo Social;
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
-
 c).- Educación;
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+d).- Salud y Bienestar Social;
 
-d).- Salud y Bienestar Social; y
+e).- Del Trabajo y Previsión Social;
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2013)</small>
+f).- De Cultura; y
 
-e).- Del Trabajo y Previsión Social.
+g).- De Seguridad Pública.
 
-III.- El Secretario Ejecutivo del Consejo de Seguridad Pública;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-IV.- Titular de la Procuraduría General de Justicia del Estado;
+IV.- El Secretario Ejecutivo del Consejo de Seguridad Pública;
 
-V.- Titular del Instituto, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-VI.- Titulares de los DIF Estatal y Municipales, respectivamente;
+V.- Titular de la Procuraduría General de Justicia del Estado;
 
-VII.- Titular del CEPAVI;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
-VIII.- Titulares de los organismos y dependencias instituidos en el ámbito estatal y municipal, para la protección de los derechos de la mujer; y
+VI.- Titular del Instituto, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
 
-IX.- Titulares de las corporaciones policiales preventivas en el Estado.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+VII.- Titulares de los DIF Estatal y Municipales, respectivamente;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+VIII.- Titular del CEPAVI;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+IX.- Titulares de los organismos y dependencias instituidos en el ámbito estatal y municipal, para la protección de los derechos de la mujer; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+
+X.- Titulares de las corporaciones policiales preventivas en el Estado.
 
 Podrán ser invitados los servidores públicos o miembros de la sociedad civil, que se considere procedente a las sesiones ordinarias o extraordinarias, a propuesta de dos o más miembros del Sistema Estatal.
 
@@ -733,31 +857,7 @@ El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias, pro
 
 ### CAPÍTULO IV. DE LA ATENCIÓN A LAS RECEPTORAS
 
-#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2013)</small>
-
-ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social del Estado:
-
-I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
-
-II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
-
-III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
-
-IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
-
-V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
-
-VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-IX. Promover acciones para prevenir, atender y erradicar el hostigamiento sexual en el ámbito laboral; y
-
-X. Las demás previstas para el cumplimiento de la presente ley.
+#### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
 
 ###### ARTÍCULO 55.
 
@@ -803,9 +903,59 @@ XVII.- Celebrar convenios de cooperación, coordinación y concertación con los
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
-#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
+#### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 60 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+II.- Promover en coordinación con el Instituto, la creación o generación de bolsas de trabajo específicas para mujeres víctimas de violencia y apoyar la capacitación para el auto empleo;
+
+III.- Brindar el acompañamiento jurídico a las mujeres víctimas de violencia en el ámbito laboral;
+
+IV.- incorporar en la supervisión de las condiciones laborales de los centros de trabajo la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso y la permanencia de las mujeres;
+
+V.- Promover campañas de información en los centros de trabajo sobre los tipos y modalidades de la violencia contra las mujeres, así como de las instituciones que atienden a las víctimas;
+
+VI.- Proponer y coordinar campañas de difusión de los derechos de las mujeres trabajadoras, así como las obligaciones de las y los empleadores;
+
+VII.- Difundir y promover el derecho de las mujeres a la igualdad de oportunidades y de trato, remuneración y seguridad social, poniendo énfasis en la información sobre las conductas que atentan contra su libertad sexual e integridad física y psicológica;
+
+VIII.- En coordinación con el Instituto, realizar estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para el ejercicio pleno de sus derechos laborales:
+
+IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez; y
+
+X.- Las demás que le señalen las disposiciones legales.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
+
+#### SECCIÓN QUINTA BIS 1. DE LA SECRETARÍA DE CULTURA
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTICULO 60 BIS 1.- Corresponde a la Secretaría de Cultura:
+
+I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+II.- Promover a través de los programas y actividades culturales, los derechos humanos de las mujeres;
+
+III.- Promover que las mujeres dispongan de espacios para el esparcimiento, juegos y actividades recreativas, y participen en la vida cultural y artística;
+
+IV.- Desarrollar con otras dependencias y entidades, encargadas de promover la cultura campañas para prevenir la violencia contra las mujeres;
+
+V.- Elaborar programas artísticos y culturales, que difundan y promuevan una cultura de la igualdad entre mujeres y hombres;
+
+VI.- Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres para su empoderamiento y desarrollo integral a través de las diferentes manifestaciones culturales y artísticas;
+
+VII.- Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia en los centros de promoción de la cultura o en los espacios donde se desarrollen las actividades culturales y artísticas; y
+
+VIII.- Las demás que les señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 57.
 
@@ -843,7 +993,27 @@ XV.- Celebrar convenios de coordinación y concertación con la participación q
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN OCTAVA. DEL INSTITUTO
+#### SECCIÓN QUINTA BIS 2. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 60 BIS 2.- La Secretaría de Seguridad Pública deberá:
+
+I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+II.- Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+
+III.- Generar mecanismos de prevención, detección y canalización de las mujeres víctima de violencia;
+
+IV.- Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+
+V.- Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
+
+VI.- Realizar en coordinación con el Instituto Colimense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
+
+VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres; y
+
+VIII.- Las demás que les señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 58.
 
@@ -867,7 +1037,7 @@ VIII.- Celebrar convenios de cooperación, coordinación y concertación en la m
 
 IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
 
-#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
+#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### ARTÍCULO 59.
 
@@ -907,7 +1077,7 @@ XVI.- Notificar en su calidad de garante en materia de violencia de género, a l
 
 XVII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA. DEL CEPAVI
+#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 60.
 
@@ -981,13 +1151,13 @@ XXII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
 
+#### SECCIÓN OCTAVA. DEL INSTITUTO
+
+#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
+
+#### SECCIÓN DÉCIMA. DEL CEPAVI
+
 #### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
-
-#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
-
-#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
-
-#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
 
 ###### ARTÍCULO 61.
 
@@ -1045,7 +1215,7 @@ XVII.- Elaborar y aplicar protocolos especializados con perspectiva de género e
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
+#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
 
 ###### ARTÍCULO 62.
 
@@ -1083,7 +1253,7 @@ XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
+#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 63.
 
@@ -1129,7 +1299,7 @@ XV.- Celebrar convenios de colaboración, coordinación y concertación en la ma
 
 XVI.- Las demás previstas para el cumplimiento de esta Ley.
 
-#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
+#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
 
 ###### ARTÍCULO 64.
 
@@ -1177,6 +1347,8 @@ XX.- Celebrar convenios de colaboración, coordinación y concertación en la ma
 
 XXI.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
+#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
+
 ###### ARTÍCULO 65.
 
 Al CEPAVI le Corresponde:
@@ -1195,9 +1367,13 @@ VI.- Proveer la ayuda necesaria a las diversas instancias que lo soliciten, para
 
 VII.- Las demás que se establecen en la Ley para la Prevención y Atención de la Violencia Intrafamiliar.
 
+#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
+
 ###### ARTÍCULO 66.
 
 Los organismos, dependencias e instancias, en el ámbito Estatal y Municipal, harán cumplir las disposiciones de la presente Ley y demás disposiciones aplicables en la materia, buscando en todo la protección de los derechos humanos de la mujer.
+
+#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### ARTÍCULO 67.
 
@@ -1247,7 +1423,9 @@ Las medidas de atención en materia de violencia de género consisten en brindar
 
 I.- Proporcionar atención médica, asesoría jurídica y tratamientos psicológicos especializados y gratuitos a las víctimas, que favorezcan su empoderamiento, autodeterminación y reparen el daño causado por dicha violencia;
 
-II.- Atender integral e interdisciplinariamente con perspectiva de género;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+
+II.- Atender integral e interdisciplinariamente con perspectiva de género y respeto a la pluralidad cultural y social de las mujeres;
 
 III.- Integrar en la atención, un enfoque psicojurídico y de restitución de los derechos de quien vive la violencia de género;
 
@@ -1306,6 +1484,14 @@ IX.- Proporcionar talleres educativos o de recreación a las personas atendidas;
 X.- Mantener secrecía sobre la ubicación o domicilio del refugio para proteger la integridad física y emocional de las usuarias del servicio; y
 
 XI.- Contar con la infraestructura adecuada y el personal debidamente capacitado para proporcionar los servicios de protección y atención a las receptoras de violencia.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física o psicológica o su situación de riesgo. El personal médico, psicológico y jurídico del refugio evaluará la condición de las víctimas.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
 ###### ARTÍCULO 75.
 
@@ -1504,3 +1690,9 @@ P.O. 26 DE ENERO DE 2013.
 P.O. 16 DE MAYO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 68 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII, DEL ARTÍCULO 7; LAS FRACCIONES XXVIII Y XXXII DEL ARTÍCULO 8; FRACCIONES II, III Y VI DEL ARTÍCULO 10; FRACCIONES III, IV, V Y PENÚLTIMO PÁRRAFO DEL ARTÍCULO 20; LAS FRACCIONES II Y III DEL ARTÍCULO 25; ARTÍCULO 39; LAS FRACCIONES II A IX DEL ARTÍCULO 45; EL ARTÍCULO 60 BIS Y LA FRACCIÓN II DEL ARTICULO 71; SE ADICIONAN LA FRACCIÓN VIII DEL ARTÍCULO 7; LAS FRACCIONES XXXIII, XXXIV Y XXXV DEL ARTÍCULO 8; FRACCIONES VIII, IX Y X DEL ARTÍCULO 10; FRACCIÓN IV DEL ARTÍCULO 25; LOS ARTÍCULOS 39 BIS Y 39 BIS 1; Y UNA FRACCIÓN X AL ARTÍCULO 45; LA SECCIÓN PRIMERA BIS DEL SUPREMO TRIBUNAL DE JUSTICIA Y EL ARTÍCULO 56 BIS; LA SECCIÓN QUINTA BIS 1 DE LA SECRETARÍA DE CULTURA Y EL ARTÍCULO 60 BIS 1; SECCIÓN QUINTA BIS 2 DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y EL ARTÍCULO 60 BIS 2; LOS PÁRRAFOS PENÚLTIMO Y ÚLTIMO AL ARTÍCULO 74, TODOS DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
