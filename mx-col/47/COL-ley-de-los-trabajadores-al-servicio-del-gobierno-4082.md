@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2013-06-26"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -653,6 +653,10 @@ VI.- Hacer propaganda política o religiosa dentro de sus dependencias, y
 
 VII.- Obligar a los trabajadores de la entidad para afiliarse a un partido político y a participar en actos partidistas incluso fuera del horario de trabajo.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTICULO 69 TER.- El Ejecutivo del Estado dispondrá de un plazo no mayor a noventa días naturales contados a partir del siguiente al que se presente la solicitud, para tramitar y solicitar al Congreso las pensiones y jubilaciones que sean solicitadas por los beneficiarios correspondientes.
+
 ### CAPITULO VI
 
 De las obligaciones de los trabajadores.
@@ -1079,7 +1083,7 @@ De la estructura y competencia del Tribunal.
 
 El Tribunal de Arbitraje y Escalafón es el máximo órgano jurisdiccional para resolver las controversias que se susciten entre las Entidades públicas con sus trabajadores, así como la instancia jurídica para impugnar los procedimientos en materia escalafonaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 133.
 
@@ -1211,7 +1215,7 @@ La audiencia se iniciará con la intervención del Magistrado comisionado que ha
 
 En caso de no lograrse el arreglo conciliatorio, el Magistrado comisionado tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para la ratificación o ampliación de la demanda. En el caso de que se ejerciten nuevas acciones o se adicionen hechos substanciales a los narrados en la demanda, se suspenderá la audiencia para dar conocimiento a los demandados de los nuevos conceptos, fijándose el término previsto en el Artículo 148 de esta Ley, para que manifiesten lo que a su derecho convenga y se fije la fecha para la reanudación de la audiencia, a partir del momento en que ocurrió la suspensión decretada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 152.
 
@@ -1405,7 +1409,7 @@ Palacio de Gobierno, Colima, Colima, Diciembre 24 de 1991.
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE OCTUBRE DE 1996.
 
@@ -1450,3 +1454,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Lo dispuesto en el presente Decreto no será aplicable a aquellos trabajadores que al 31 de diciembre de 2013 cumplan con los requisitos que la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima establece para ser acreedor a una pensión por jubilación.
+
+P.O. 19 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 62 POR EL QUE SE ADICIONA, EL ARTÍCULO 137 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; ASÍ MISMO SE ADICIONA EL ARTÍCULO 69 TER, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTICULO SEGUNDO.
+
+La Secretaria General de Gobierno, Planeación y Finanzas, y de Educación del Gobierno del Estado de Colima, coordinadamente con la representación sindical correspondiente, dispondrá de un plazo no mayor a 30 días naturales, contados a partir del día siguiente en la entrada en vigor del presente Decreto, para establecer los mecanismos a que se refiere el artículo 137 BIS. De la Ley de Educación del Estado de Colima 69 TER. De la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, los cuales serán difundidos profusamente entre los trabajadores y organizaciones sindicales.
