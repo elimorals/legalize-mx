@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2015-09-26"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -4269,11 +4269,11 @@ II.- El 80 por ciento para predios urbanos baldíos;
 
 III.- Los estímulos de referencia serán otorgados hasta que dichas zonas, sean incorporadas a el Área Urbana del Municipio.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2016)</small>
 
-###### ARTÍCULO NOVENO.
+###### ARTICULO NOVENO.
 
-Para el ejercicio fiscal 2015, el pago de los derechos correspondientes al refrendo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta Ley, por única ocasión podrá realizarse durante los meses de julio y agosto, sin que ello genere multas o recargos.
+Para el ejercicio fiscal 2016, el pago de los derechos correspondientes al refrendo a que se refieren el párrafo segundo del artículos (sic) 81, de esta Ley, por única ocasión podrá realizarse a más tardar el día 31 de mayo, sin que ello genere multas o recargos.
 
 Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
@@ -4474,3 +4474,9 @@ P.O. 8 DE AGOSTO DE 2015.
 P.O. 26 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 19 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 82 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO, DETERMINADO QUE PARA EL EJERCICIO FISCAL 2016, EL PAGO DE LOS DERECHOS CORRESPONDIENTES AL REFRENDO A QUE SE REFIEREN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 81, DE ESTA LEY, POR ÚNICA OCASIÓN PODRÁ REALIZARSE A MÁS TARDAR EL DÍA 31 DE MAYO, SIN QUE ELLO GENERE MULTAS O RECARGOS".]
+
+ÚNICO.- El presente decreto entrara en vigor el día de su aprobación. Debiendo publicarse en el Periódico Oficial "El Estado de Colima".
