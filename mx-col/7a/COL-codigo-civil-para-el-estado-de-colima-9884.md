@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2015-09-05"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1323,7 +1323,7 @@ La nulidad de las Actas del Registro Civil, sólo podrá ser decretada por la au
 
 Sólo procederá por resolución judicial, la modificación del nombre a que se refiere el primer párrafo de este artículo, en los casos siguientes:
 
-l. Cuando el nombre propio impuesto a una persona le cause afrenta; y
+I. Cuando el nombre propio impuesto a una persona le cause afrenta; y
 
 II. En los casos de desconocimiento o reconocimiento de la paternidad o maternidad y de la adopción, de conformidad con lo previsto en este Código.
 
@@ -2067,7 +2067,9 @@ XX.- El empleo de métodos de fecundación asistida, realizada sin el consentimi
 
 XXI.- La separación de los cónyuges por más de dos años, independientemente del motivo que la haya originado, pudiendo ser invocada por cualquiera de ellos.
 
-ART. 268.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ART. 268.- Sin perjuicio de lo dispuesto en el artículo anterior, cualquiera de los conyugues (sic) podrá solicitar el divorcio ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
 
 ART. 269.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
@@ -2743,7 +2745,7 @@ II. Que el o los adoptantes tienen medios bastantes para proveer a la subsistenc
 
 III. Que la adopción es benéfica para la persona que pretende adoptarse, atendiendo al interés superior de la misma;
 
-IV Que el o los que pretendan adoptar gocen de buena salud física y mental, libre de cualquier enfermedad grave que pueda poner en riesgo la salud, la estabilidad emocional o la vida del adoptado, acreditada mediante estudios realizados por una institución pública, los que se agregarán a su escrito inicial;
+IV. Que el o los que pretendan adoptar gocen de buena salud física y mental, libre de cualquier enfermedad grave que pueda poner en riesgo la salud, la estabilidad emocional o la vida del adoptado, acreditada mediante estudios realizados por una institución pública, los que se agregarán a su escrito inicial;
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2014)</small>
 
@@ -6341,7 +6343,7 @@ ART. 1445.- Toda persona que tuviere en su poder un testamento cerrado y no lo p
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
-ART. 1446 BIS.- Testamento público simplificado es aquel que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado de Colima, o cualquier dependencia o entidad de la Administración Pública Federal, Estatal y Municipal, o en acto posterior de conformidad con lo siguiente:
+ART. 1446 BIS (SIC).- Testamento público simplificado es aquel que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado de Colima, o cualquier dependencia o entidad de la Administración Pública Federal, Estatal y Municipal, o en acto posterior de conformidad con lo siguiente:
 
 I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente elevado al año, al momento de que se formalice en escritura pública su adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
 
@@ -7167,7 +7169,7 @@ II.- El mensaje de datos que reciba el destinatario o la parte que confía, resu
 
 Lo dispuesto en el presente artículo no se aplicará:
 
-I.- A partir del momento en que el destinatario haya sido informado por el Emisor de que el mensaje de datos no provenía de éste, y haya dispuesto de un plazo razonable para actuar en consecuencia; y
+I.- A partir del momento en que el destinatario haya sido informado por el Emisor de que el mensaje de datos no provenía de este, y haya dispuesto de un plazo razonable para actuar en consecuencia; y
 
 II.- A partir del momento en que el destinatario o la parte que confía, tenga conocimiento, o debiere tenerlo, de haber actuado con la debida diligencia o aplicado algún método convenido, que el mensaje de datos no provenía del emisor.
 
@@ -7223,7 +7225,7 @@ Para efectos de este artículo, se considerará que el contenido de un mensaje d
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 1702 I.- Salvo pacto en contrario entre el emisor y el destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el emisor tenga su residencia habitual y por recibido en el lugar donde el destinatario tenga el suyo.
+ART. 1702 I.- Salvo pacta en contrario entre el emisor y el destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el emisor tenga su residencia habitual y por recibido en el lugar donde el destinatario tenga el suyo.
 
 Para los fines del presente artículo.
 
@@ -9753,7 +9755,7 @@ IV.- La designación de los efectos, con expresión de su calidad genérica, de 
 
 V.- El precio del transporte;
 
-VII.- La fecha en que se hace la expedición;
+VI.- La fecha en que se hace la expedición;
 
 VII.- El lugar de la entrega al porteador;
 
@@ -11390,3 +11392,13 @@ P.O. 15 DE NOVIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Poder Judicial del Estado contará con 180 días para realizar las acciones necesarias que puedan permitir la publicación de edictos digitales, mientras tanto se continuarán haciendo a través de los periódicos de mayor circulación en la Entidad, o como así lo señale cada caso en específico.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+ÚNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 63 POR EL QUE SE REFORMA EL ARTÍCULO 268 DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y ADICIONA UN TÍTULO SEXTO TER, Y UN CAPÍTULO ÚNICO, DENOMINADO DEL DIVORCIO SIN CAUSA, Y LOS ARTÍCULOS 428 TER, 428 TER 1, 428 TER 2 AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
