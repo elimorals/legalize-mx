@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2016-03-14"
+last_updated: "2016-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MARZO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2399,6 +2397,10 @@ X.- Proponer a los gobiernos Federal, Estatal y Municipal, medidas de carácter 
 
 XI.- Promover y participar en el estudio, acción, planeación y aplicación estratégica de proyectos establecidos en el Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial.
 
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2016)</small>
+
+En la elaboración del Plan Municipal de Desarrollo, se considerará al turismo como variable estratégica para el desarrollo económico y social del municipio, al representar una condición para la generación de empleos, la productividad y competitividad, así como el acceso al aprovechamiento sustentable de los recursos naturales y el fomento, promoción y preservación del patrimonio histórico, cultural y natural con que cuenta.
+
 ###### ARTÍCULO 141.
 
 El Comité de Planeación para el Desarrollo Municipal, se integrará por una Asamblea General y un Consejo Directivo.
@@ -3018,3 +3020,11 @@ P.O. 31 DE DICIEMBRE DE 2015 Y F. DE E. P.O. 14 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 542, QUE REFORMA LOS INCISOS II) Y JJ) Y SE ADICIONA EL INCISO KK), A LA FRACCIÓN I DEL ARTÍCULO 60 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 645.- QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 140 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
