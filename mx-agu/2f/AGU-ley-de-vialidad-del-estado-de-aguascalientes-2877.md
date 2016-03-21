@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2016-03-07"
+last_updated: "2016-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -1047,13 +1047,17 @@ Las personas que transporten bicicletas en el exterior de vehículos automotores
 
 ### CAPITULO V. De la Simbología de Tránsito
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2016)</small>
 
 ###### ARTICULO 63.
 
-La construcción, colocación, características y ubicación en general, de todo lo relacionado con señales y dispositivos para el control de tránsito, deberán sujetarse a lo dispuesto en el manual técnico de dispositivos para el control de tránsito de la Secretaría de Comunicaciones y Transportes.
+La construcción, colocación, características y ubicación en general, de todo lo relacionado con señales y dispositivos para el control de tránsito, deberán sujetarse a lo dispuesto en el Manual de Señalización Vial y Dispositivos de Seguridad para el control de tránsito de la Secretaría de Comunicaciones y Transportes, y demás disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 Los dispositivos y controles de tránsito no podrán ser constituídos con publicidad, con objetos o señalamientos de cualquier índole.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 La violación de este precepto que genere algún accidente de tránsito, implicará responsabilidad objetiva para el infractor.
 
@@ -3166,3 +3170,15 @@ El presente Decreto entrará en vigencia al siguiente día de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de 60 días hábiles contados a partir del inicio de vigencia del presente Decreto se deberán realizar las adecuaciones reglamentarias.
+
+P.O. 21 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 320.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
