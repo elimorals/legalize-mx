@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2015-07-27"
+last_updated: "2016-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -141,7 +141,7 @@ IX. CAAD: La Comisión de Apelación y Arbitraje del Deporte;
 
 X. CONDE: Los Consejos Nacionales del Deporte Estudiantil;
 
-XI. lEA: El Instituto de Educación de Aguascalientes;
+XI. IEA: El Instituto de Educación de Aguascalientes;
 
 XII. Consejo: El Consejo Estatal del Deporte;
 
@@ -157,9 +157,9 @@ XV. SIEDE: Sistema Estatal de Cultura Física y Deporte;
 
 XVI. RESIEDE: Registro del Sistema Estatal de Cultura Física y Deporte;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2016)</small>
 
-XVII. COMISIÓN: La Comisión de Control de Violencia en la Celebración de Espectáculos Deportivos;
+XVII. COMISIÓN: Comisión Especial Estatal contra la Violencia en el Deporte;
 
 > <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1469,7 +1469,9 @@ Para tal efecto, constituirá los fondos, fideicomisos o cualquier otro instrume
 
 En los términos de los convenios de coordinación y colaboración respectivos, los Municipios inscribirán sus instalaciones destinadas a la cultura física y deporte al RESIEDE, previa solicitud de los responsables o administradores de cualquier instalación de cultura física y deporte, con la finalidad de contar con la información actualizada que permita la planeación estatal.
 
-El IDEA podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, cumpliendo el procedimiento que para ese propósito prevea el reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
+
+El IDEA podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con la señalización vial correspondiente, señales preventivas específicas para la protección de ciclistas y/o corredores en dichas instalaciones, así como los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, cumpliendo el procedimiento que para ese propósito prevea el reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -1659,7 +1661,7 @@ Para el cumplimiento del párrafo anterior, el IDEA además podrá promocionar l
 
 ### CAPITULO VIGESIMO CUARTO. De la Prevención de la Violencia en la Celebración de Espectáculos Deportivos
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
 ###### Artículo 120.
 
@@ -1737,111 +1739,107 @@ Los Poderes Públicos en el ámbito de sus respectivas competencias, adoptarán 
 
 ###### Artículo 133.
 
-En la celebración de espectáculos deportivos públicos o privados, eventos, cursos, talleres o seminarios en materia de cultura física y deporte, los organizadores tienen la obligación de informar a las autoridades de seguridad pública y protección civil, de los detalles del espectáculo, a fin de prever las medidas de seguridad tendientes a proteger la integridad de los asistentes y participantes.
+Las disposiciones previstas en este Capítulo serán aplicables a todos los eventos deportivos sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación, el Estado y los Municipios.
 
-Para dar cumplimiento a lo dispuesto en el párrafo anterior, además de lo previsto en el Reglamento de la presente Ley y en los lineamientos correspondientes que para tal efecto expida la Comisión, los organizadores deberán establecer una estrecha coordinación con las autoridades correspondientes a fin de observar lo siguiente:
+El IDEA, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
 
-I. La procuración de operativos de vigilancia, custodia y revisión tanto en el interior como en las inmediaciones de las instalaciones en donde se celebrare un espectáculo deportivo;
+Artículo 133 bis.- (DEROGADO, P.O. 21 DE MARZO DE 2016)
 
-II. Llevar a cabo visitas de verificación de las instalaciones en donde se celebrará el evento;
-
-III. Celebrar las reuniones necesarias previas a la realización de un espectáculo deportivo a fin de delimitar las zonas de activación y responsabilidad de cada uno de los involucrados, antes, durante y después del evento, tanto en las instalaciones como en las inmediaciones en donde se celebre dicho espectáculo;
-
-IV Promover la realización de programas y campañas de divulgación adecuados sobre la no violencia en el deporte;
-
-V. Promover normas encaminadas a la erradicación de actos racistas, xenófobos, intolerantes y violentos; y
-
-VI. Fomentar los valores de integración y convivencia social del deporte, del juego limpio y la no violencia.
-
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
-
-Artículo 133 bis.- Dentro de los lineamientos que emita la Comisión a que se refiere el Artículo anterior deberán regularse en lo concerniente al acceso a los espectáculos deportivos, entre otras medidas:
-
-I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro, la integridad física de los deportistas, atletas, árbitros y de espectadores o asistentes en general;
-
-II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
-
-III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
-
-IV. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas, así como de personas que se encuentren bajo los efectos de las mismas;
-
-V. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos, y registrados ante su respectiva federación.
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
 ###### Artículo 134.
 
-Quienes en su carácter de espectador acudan a la celebración de un espectáculo deportivo deberán:
+Para los efectos de esta Ley, de manera enunciativa y no limitativa, por actos o conductas violentas, o las que incitan a la violencia en el deporte se entiende lo siguiente:
 
-I. Acatar las disposiciones normativas relacionadas con la celebración de espectáculos deportivos que emita la Comisión, así como las de la localidad en donde se lleven a cabo; y,
+I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrados en la celebración del evento deportivo en altercados, riñas, peleas, o desordenes públicos en los recintos deportivos, en sus áreas aledañas o en los medios de transporte utilizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo a celebrarse, se esté celebrando o se haya celebrado;
 
-II. Cumplir con las condiciones señaladas en el reverso del boleto y en las puertas de acceso, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+II. La exhibición en los recintos deportivos, en sus áreas aledañas o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
 
-Con estricto respeto a los procedimientos previstos en otras leyes u ordenamientos aplicables, los espectadores y participantes, que cometan actos que generen violencia u otras acciones reprensibles al interior o exterior de los espacios destinados a la realización de la cultura física y deporte en cualquiera de sus modalidades, serán sujetos a la sanción aplicable.
+III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus áreas aledañas o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquellos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+IV. La irrupción no autorizada en los terrenos de juego;
 
-Artículo 134 bis.- Los jugadores, deportistas, técnicos, directivos y demás personas relacionadas con el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que, para erradicar la violencia en la celebración de espectáculos deportivos, emita la Comisión y a las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales respectivas.
+V. La emisión de declaraciones o la transmisión de informaciones con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus áreas aledañas o en los medios de transporte público en los que se pueda desplazar a los recintos deportivos, en cuya virtud se incite a la violencia o a la agresión a los participantes o asistentes a dichos eventos, conductas y declaraciones que puedan crear un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes o asistentes a dichos eventos deportivos;
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades; y
+
+VII. Las que establezca la presente Ley, su Reglamento, el Código de conducta de cada disciplina y demás ordenamientos aplicables.
+
+Artículo 134 bis.- (DEROGADO, P.O. 21 DE MARZO DE 2016)
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
 ###### Artículo 135.
 
-Los integrantes del SIEDE, en coordinación con las autoridades competentes, tienen la obligación de revisar continuamente sus reglamentos, a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
+Se crea la Comisión Especial Estatal contra la Violencia en el Deporte, que será la encargada de elaborar y conducir las políticas contra la violencia en esta área. Dicha Comisión será un órgano colegiado integrado por representantes del IDEA, de los órganos Municipales de Cultura Física y Deporte, de las Asociaciones Deportivas Estatales, de los CONDE y de las Ligas Profesionales.
 
-Asimismo brindarán las facilidades y ayuda necesaria, a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en los espectáculos deportivos, a fin de conseguir su correcta y adecuada implementación.
+La composición y funcionamiento de la Comisión se establecerá en el Reglamento de la presente Ley; el cual deberá incluir a la Secretaría General de Gobierno, a la Secretaría de Seguridad Pública del Estado, así como a las secretarías de los ayuntamientos, direcciones generales de gobierno o sus similares.
+
+En la Comisión podrán participar dependencias o entidades de la Administración Pública Estatal, a fin de colaborar, apoyar y desarrollar planes que aporten eficiencia a las acciones encaminadas a la prevención de la violencia en el deporte.
+
+La coordinación y operación de los trabajos de la Comisión, estarán a cargo del IDEA.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
 ###### Artículo 136.
 
-En las proximidades de los recintos en que se celebren acontecimientos deportivos calificados de alto riesgo, la autoridad competente en coordinación con los organizadores montará oficinas móviles de denuncias, de equipos de recepción de detenidos y de centros móviles de atención médica.
+Las atribuciones de la Comisión además de las que se establezcan en el Reglamento de ésta Ley, son:
+
+I. Promover e impulsar acciones de prevención contra la violencia en el deporte;
+
+II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
+
+III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos.
+
+IV. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, Fiscalía General, áreas de seguridad pública y protección civil del Estado y los Municipios;
+
+V. Establecer los lineamientos que permitan llevar a cabo los acuerdos o convenios de colaboración entre los tres niveles de gobierno en la materia, los requisitos y normas mínimas que deben cumplir las instalaciones donde se lleven a cabo eventos deportivos, sin perjuicio de las establecidas por la Coordinación de Protección Civil del Estado, y las medidas que se consideren necesarias para la prevención de la violencia en los eventos deportivos;
+
+VI. Fomentar programas y campañas de divulgación en contra de la violencia y la discriminación a fin de retribuir los valores de integración y convivencia social del deporte;
+
+VII. Emitir recomendaciones y orientar a los miembros del SIEDE sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
+
+VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte; y
+
+IX. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
 ###### Artículo 137.
 
-El Cuerpo de Protección Civil prestará toda la ayuda posible a las unidades de policía, para que los efectivos especializados en la prevención de la violencia en los espectáculos deportivos, se mantengan actualizados en las disposiciones técnicas y métodos de trabajo que, a este objeto y en el ámbito de su competencia, establezcan las autoridades responsables.
+Dentro de los lineamientos que emita la Comisión a que se refiere el artículo anterior deberán regularse, en lo concerniente al acceso a los eventos deportivos, entre otras medidas:
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros y de espectadores o asistentes en general;
+
+II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
+
+III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
+
+IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva; y
+
+V. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
 ###### Artículo 138.
 
-La aplicación de las disposiciones previstas en este Capítulo, se realizará sin perjuicio de dar cumplimiento a otros ordenamientos en materia de espectáculos públicos del Estado y los Municipios.
+Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
 
-En el ámbito de la prevención de la violencia en los espectáculos deportivos, se creará la Comisión de Control de Violencia en la Celebración de Espectáculos Deportivos, integrada de manera plural y equitativa por.
+I. Acatar las disposiciones normativas relacionadas con la celebración de eventos deportivos que emita la Comisión, así como las establecidas por el Municipio en donde se lleven a cabo; y
 
-a) Un representante del SIEDE;
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
 
-b) Un representante de la CONADE;
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal, y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
 
-c) (DEROGADO, P.O. 2 DE FEBRERO DE 2015)
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
-d) Un representante de la COM;
+Artículo 138 bis.- Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión, asi como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas respectivas.
 
-e) Un representante del IDEA;
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2016)</small>
 
-f) Un representante del Consejo Estatal del Deporte;
+Artículo 138 ter.- Los integrantes del SIEDE, podrán revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
 
-g) Un representante de las Asociaciones Deportivas Estatales registradas ante el IDEA; y
-
-h) El Presidente de la Comisión de Recreación y Deporte del Congreso del Estado.
-
-En la Comisión podrán participar dependencias de la administración pública estatal, a fin de colaborar, apoyar y desarrollar planes y estudios .que aporten eficacia a las acciones encaminadas a la prevención de la violencia en la celebración de espectáculos deportivos.
-
-La coordinación y operación de los trabajos dé la Comisión, estarán a cargo del SIEDE.
-
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
-
-Artículo 138 bis.- Las funciones de dicha Comisión, entre otras, que se establecerán para el cumplimiento de sus fines, conforme a lo dispuesto en el reglamento de la presente Ley, serán:
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
-
-l. Trabajar de manera coordinada con las dependencias estatales involucradas en la realización de espectáculos deportivos, como son: la Fiscalía General del Estado, la Secretaría de Seguridad Pública Estatal y Municipal, y Protección Civil del Estado y Municipios;
-
-II. Promover e impulsar las acciones encaminadas a la Prevención de la Violencia en la Celebración de los Espectáculos Deportivos;
-
-III. Establecer los lineamientos generales para la debida y eficaz operación de los acuerdos de colaboración de los tres niveles de gobierno que estén encaminados a prevenir la violencia en los espectáculos deportivos;
-
-IV. Emitir los lineamientos necesarios para implementar medidas conforme a la clasificación de riesgo; y
-
-V. Emitir lineamientos que determinen medidas mínimas de seguridad y proceso de certificación.
+Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
 
 ###### Artículo 139.
 
@@ -2082,3 +2080,27 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 21 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 319.- SE REFORMAN, ADICIONAN Y DEROGAN, ARTÍCULOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto se deberán expedir las disposiciones administrativas y reglamentarias necesarias.
+
+P.O. 21 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 320.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
