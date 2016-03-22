@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-un-organismo-municipal-descentralizado-del-h-91018
 country: "mx"
 rank: "ley"
 publication_date: "1973-08-21"
-last_updated: "2012-12-31"
+last_updated: "2016-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 ---
 # LEY QUE CREA UN ORGANISMO MUNICIPAL DESCENTRALIZADO DEL H. AYUNTAMIENTO DE PUEBLA, BAJO LA DENOMINACION "INDUSTRIAL DE ABASTOS PUEBLA"
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2016. EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY QUE CREA UN ORGANISMO MUNICIPAL DESCENTRALIZADO DEL H. AYUNTAMIENTO DE PUEBLA, BAJO LA DENOMINACIÓN "INDUSTRIAL DE ABASTOS PUEBLA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 21 de agosto de 1973.
 
@@ -87,7 +89,7 @@ ATRIBUCIONES DEL ORGANISMO
 
 Serán atribuciones del Organismo las siguientes:
 
-I. Ejercer facultades revisoras en materia tributaria, conferidas para la implementación de Ia fiscalización e inspección sanitaria, tendientes a regular la actividad comercial de productos y subproductos cárnicos para consumo humano en el Municipio de Puebla, tanto en establecimientos, locales fijos, puestos semifijos o ambulantes, en mercados municipales, de apoyo y temporales, así como su transporte, para lo cual podrán:
+I. Ejercer facultades revisoras en materia tributaria, conferidas para la implementación de la fiscalización e inspección sanitaria, tendientes a regular la actividad comercial de productos y subproductos cárnicos para consumo humano en el Municipio de Puebla, tanto en establecimientos, locales fijos, puestos semifijos o ambulantes, en mercados municipales, de apoyo y temporales, así como su transporte, para lo cual podrán:
 
 a) Emitir órdenes de visita, notificaciones, requerimientos, efectuar decomisos, aseguramientos y en general cualquier medio legal para el ejercicio de sus facultades;
 
@@ -167,9 +169,17 @@ III. El Síndico Municipal, quien fungirá como Vocal;
 
 IV. El Regidor Presidente de la Comisión de Patrimonio y Hacienda Municipal, quien fungirá como Vocal;
 
-V. El Regidor Presidente de la Comisión de Salud, quien fungirá como Vocal; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2016)</small>
 
-VI. El Tesorero Municipal, quien fungirá como Vocal.
+V. El Regidor Presidente de la Comisión de Salud, quien fungirá como Vocal;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2016)</small>
+
+VI. El Tesorero Municipal, quien fungirá como Vocal; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2016)</small>
+
+VII. Un Regidor miembro de la Comisión de Servicios Públicos, quien fungirá como Vocal.
 
 Los miembros del Consejo de Administración, en su carácter de servidores públicos conservarán y ejercerán las facultades que les confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica Municipal, el Código Fiscal y Presupuestario para el Municipio de Puebla, el Código Reglamentario para el Municipio de Puebla y demás ordenamientos y disposiciones legales, independientemente de las establecidas en el presente Decreto.
 
@@ -496,3 +506,11 @@ El Consejo de Administración del Organismo, dentro de un plazo no mayor a los n
 ###### ARTÍCULO CUARTO.
 
 En tanto se expida el Reglamento a que se hace referencia en el artículo anterior, se seguirá aplicando en lo conducente el Reglamento Interior vigente del Organismo en todo lo que no se oponga al contenido del presente Decreto.
+
+P.O. 22 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES V Y VI DEL ARTÍCULO SÉPTIMO Y ADICIONA LA FRACCIÓN VII AL ARTÍCULO SÉPTIMO, TODAS DEL DECRETO DE LEY QUE CREA EL ORGANISMO MUNICIPAL DESCENTRALIZADO DENOMINADO “INDUSTRIAL DE ABASTOS PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Queda sin efecto cualquier acto o disposición que se oponga el (sic) presente Decreto.
