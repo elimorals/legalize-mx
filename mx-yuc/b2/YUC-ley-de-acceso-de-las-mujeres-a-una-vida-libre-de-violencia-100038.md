@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2016-03-04"
+last_updated: "2016-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de Abril de 2014.
 
@@ -55,21 +55,31 @@ Para los efectos de esta ley, se entenderá por:
 
 I. Agresor: la persona que inflige cualquier tipo de violencia contra las mujeres.
 
-II. Consejo estatal: el Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
+> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
 
-III. Derechos humanos de las mujeres: los derechos humanos enunciados en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte y en la Constitución Política del Estado de Yucatán.
+II. Bienestar Obstétrico: el conjunto de factores que participan en el respeto de los derechos de las mujeres durante el embarazo, incluida la fase prenatal, el parto y la etapa del puerperio o posparto.
 
-IV. Misoginia: la aversión u odio a las mujeres que pueden derivar en alguno de los tipos de violencia previstos en esta ley.
+III. Consejo estatal: el Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
 
-V. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y, los hombres, direccionada a eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género.
+IV. Derechos humanos de las mujeres: los derechos humanos enunciados en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte y en la Constitución Política del Estado de Yucatán.
 
-VI. Programa especial: el Programa Especial para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Yucatán.
+V. Misoginia: la aversión u odio a las mujeres que pueden derivar en alguno de los tipos de violencia previstos en esta ley.
 
-VII. Sistema estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar, la Violencia contra las Mujeres.
+> <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
 
-VIII. Víctima: la niña, adolescente o mujer de cualquier edad a quien se le inflige algún tipo de violencia contra las mujeres.
+VI. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, direccionada a eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género.
 
-IX. Violencia contra las mujeres: la acción, u omisión, por motivos de género, de violencia económica, física, patrimonial, psicológica o sexual contra las mujeres, en términos del artículo 6 de esta ley.
+VII. Programa especial: el Programa Especial para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Yucatán.
+
+> <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
+
+VIII. Sistema estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+IX. Víctima: la niña, adolescente o mujer de cualquier edad a quien se le inflige algún tipo de violencia contra las mujeres.
+
+> <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
+
+X. Violencia contra las mujeres: la acción u omisión, por motivos de género, de violencia económica, física, patrimonial, psicológica o sexual contra las mujeres, en términos del artículo 6 de esta ley.
 
 ###### Artículo 3.
 
@@ -291,7 +301,27 @@ I. Otorgar, a través de las instituciones del sector salud, atención médica y
 
 II. Colaborar con el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán en la prestación de servicios reeducativos integrales para las víctimas y los agresores.
 
-III. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
+
+III. Diseñar obligatoriamente políticas públicas encaminadas a lograr el bienestar obstétrico de las mujeres durante su embarazo, siendo este el periodo comprendido entre la fase prenatal, el parto y la etapa del puerperio o posparto. Estas políticas, deberán tener como finalidad respetar los derechos de las mujeres embarazadas, para evitar que se les dañe o denigre, por falta oportuna o ineficaz en la atención de sus necesidades obstétricas; así como para evitar medicación o intervenciones quirúrgicas innecesarias, situaciones que impidan la negación u obstaculización del apego de los recién nacidos con su madre, y en general, la eliminación de cualquier trato deshumanizado durante esta etapa.
+
+> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
+
+IV. Sensibilizar y capacitar permanentemente al personal de salud para procurar el bienestar obstétrico con un trato humanizado respetando la dignidad e integridad de la persona.
+
+> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
+
+V. Difundir de manera permanente y promover de forma inexcusable, información sobre el bienestar obstétrico como uno de los derechos de las mujeres durante el embarazo, parto y puerperio, principalmente entre la población mayahablante del estado.
+
+> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
+
+VI. Proporcionar de manera permanente, a las clínicas y hospitales privados del estado, información relacionada con las acciones encaminadas a lograr el bienestar obstétrico en las mujeres durante toda la etapa de su embarazo o parto.
+
+> <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
+
+VII. Establecer mecanismos de vigilancia hacia las instituciones de salud en relación al bienestar obstétrico. Cualquier acción u omisión contraria al bienestar obstétrico, deberá ser sancionada por las disposiciones legales correspondientes; asimismo se deberán difundir las medidas administrativas y judiciales que correspondan.
+
+VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 16.
 
@@ -1011,7 +1041,7 @@ Secretario General de Gobierno
 
 D.O. 4 DE MARZO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 353/2016 POR EL QUE SE EMITE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, Y SE EXTINGUE Y LIQUIDA EL INSTITUTO PARA LA EQUIDAD DE GÉNERO EN YUCATÁN".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 353/2016 POR EL QUE SE EMITE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, SE MODIFICAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, Y SE EXTINGUE Y LIQUIDA EL INSTITUTO PARA LA EQUIDAD DE GÉNERO EN YUCATÁN”.]
 
 Primero. Entrada en vigor
 
@@ -1082,5 +1112,17 @@ Décimo séptimo. Expedición de acuerdo
 La Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, deberá expedir el acuerdo que regule el funcionamiento y organización del Consejo Consultivo del Sistema Estatal para la Igualdad entre Mujeres y Hombres dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
 
 Décimo octavo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 22 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 362/2016 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
