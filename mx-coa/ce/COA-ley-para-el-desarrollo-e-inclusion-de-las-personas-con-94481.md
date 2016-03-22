@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2015-10-27"
+last_updated: "2016-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -209,7 +209,7 @@ II. Fomentar que las dependencias y entidades de la administración pública est
 
 III. Proponer en el proyecto de Presupuesto de Egresos del Estado las partidas correspondientes para la aplicación y ejecución de los programas estatales dirigidos a las personas con discapacidad;
 
-IV. Establecer las políticas y acciones necesarias para dar cumplimiento a los programas estatales y nacionales en materia de personas con discapacidad; así como aquellas que garanticen la equidad e igualdad de oportunidades para las personas con discapacidad en el ejercicio de sus derechos, (sic)
+IV. Establecer las políticas y acciones necesarias para dar cumplimiento a los programas estatales y nacionales en materia de personas con discapacidad; así como aquellas que garanticen la equidad e igualdad de oportunidades para las personas con discapacidad en el ejercicio de sus derechos,
 
 V. Incluir en los programas para el desarrollo urbano del Estado, las adecuaciones de facilidades urbanísticas y arquitectónicas que se requieran, conforme a las necesidades de las personas con discapacidad, debiendo contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas.
 
@@ -294,6 +294,10 @@ Todos los servicios de salud públicos de la entidad brindarán atención sin di
 ###### Artículo 12°.
 
 Las autoridades competentes procurarán que las personas con discapacidad, o en su caso sus familias, tengan participación en la toma de decisiones sobre la viabilidad y el tipo de tratamiento médico o terapéutico más adecuado a las circunstancias del caso en particular.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2016)</small>
+
+Es obligación para quien ejerce la patria potestad, custodia provisional o tutela, que sus hijos o pupilos reciban la atención rehabilitadora en salud, cuando se requiera de una atención especializada.
 
 ###### Artículo 13°.
 
@@ -1080,3 +1084,15 @@ P.O. 27 DE OCTUBRE DE 2015.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 393.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 12 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto.
