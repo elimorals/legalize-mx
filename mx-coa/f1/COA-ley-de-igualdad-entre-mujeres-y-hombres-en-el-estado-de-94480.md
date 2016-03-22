@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2013-05-31"
+last_updated: "2016-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -267,7 +267,13 @@ XI. Promover sin distingo partidistas la participación equilibrada entre mujere
 
 XII. Conocer y resolver, a través de su titular o de la persona en quien se delegue dicha atribución, del procedimiento para la igualdad; y,
 
-XIII. Los demás que esta ley y otros ordenamientos aplicables le confieren.
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2016)</small>
+
+XIII. Formular un programa anual que tenga como objetivo la difusión trimestral a la ciudadanía sobre los derechos de las mujeres y la equidad de género en el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2016)</small>
+
+XIV. Los demás que esta ley y otros ordenamientos aplicables le confieran.
 
 ### Capítulo quinto. De los municipios
 
@@ -518,6 +524,22 @@ De la igualdad entre mujeres y hombres en la vida económica.
 Política estatal de igualdad.
 
 La política estatal deberá desarrollar acciones y establecer objetivos cuyo fin sea garantizar el derecho a la igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2016)</small>
+
+###### Artículo 38 Bis.
+
+Los entes públicos están obligados a garantizar el derecho a la igualdad entre mujeres y hombres, de acuerdo a lo establecido en el artículo cuarto constitucional. Para lo cual, deberán garantizar:
+
+I. El derecho a una vida libre de discriminación por razón de sexo. También se considerará discriminación por razón de sexo, cualquier represalia realizada por un servidor público derivado de la presentación de un recurso tendiente a salvaguardar el derecho a una vida libre de discriminación por razón de sexo; así como cualquier conducta u omisión destinada a impedir el debido proceso del recurso.
+
+II. La convivencia armónica y equilibrada en los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de los individuos.
+
+III. El derecho a la información necesaria para hacer efectiva la igualdad sustantiva, para lo cual los entes públicos pondrán a disposición de los individuos la información sobre políticas, instrumentos y normas relativas a la igualdad sustantiva entre mujeres y hombres.
+
+IV. El derecho a una vida libre de estereotipos de género.
+
+V. El derecho a una vida libre de violencia de género.
 
 ### Capítulo tercero. De la participación y representación política equilibrada de las mujeres y los hombres
 
@@ -902,3 +924,29 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 394.- SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto.
+
+P.O. 22 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 395.- SE ADICIONA EL ARTÍCULO 38 BIS DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente Decreto
