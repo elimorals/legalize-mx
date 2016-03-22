@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-transparencia-y-acceso-a-la-70945"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-20"
-last_updated: "2009-11-20"
+last_updated: "2016-03-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70945&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-10-20"
 ---
 # REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL PODER JUDICIAL DEL DISTRITO FEDERAL
 
-REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL PODER JUDICIAL DEL DISTRITO FEDERAL
+REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL PODER JUDICIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 7-06/2016, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MARZO DE 2016 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 20 de noviembre de 2009.
 
@@ -282,7 +284,7 @@ I. Mediante consulta directa;
 
 II. Mediante la expedición de copias simples o certificadas, previo pago de los derechos correspondientes y, en su caso, de las cuotas de recuperación;
 
-III. Mediante su otorgamiento a través del sistema INFOMEX, y (sic)
+III. Mediante su otorgamiento a través del sistema INFOMEX, y
 
 IV. Mediante envío por correo electrónico;
 
@@ -479,3 +481,15 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. MARÍA DEL SOCORRO RAZO ZAMORA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 7-06/2016, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL, EN SESIÓN DE FECHA VEINTISÉIS DE ENERO DE DOS MIL DIECISÉIS, POR EL CUAL SE ESTABLECE EL REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, PARA EL PODER JUDICIAL DEL DISTRITO FEDERAL".]
+
+PRIMERO. El presente Reglamento entrará en vigor al siguiente día hábil de su publicación en el Boletín Judicial del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. A partir del día siguiente de la entrada en vigor del presente Reglamento y en un plazo no mayor a ciento veinte días naturales, el Comité en coordinación con la Dirección Ejecutiva de Planeación deberá actualizar los Manuales de Organización y Procedimientos de la OIP.
+
+TERCERO. Queda sin efecto el Acuerdo General número 17-58/2009, emitido por el Pleno del Consejo de la Judicatura del Distrito Federal, en sesión de fecha 20 de octubre de 2009, así como todas aquellas disposiciones administrativas internas que se opongan al presente Reglamento.
