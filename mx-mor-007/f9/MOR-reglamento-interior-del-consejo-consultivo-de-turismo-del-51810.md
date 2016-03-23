@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-consejo-consultivo-de-turismo-del-51810
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-13"
-last_updated: "2013-06-12"
+last_updated: "2016-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE TURISMO DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de septiembre de 2006.
 
@@ -85,9 +85,11 @@ El domicilio oficial del Consejo será el mismo de la Dirección General de Prom
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y ATRIBUCIONES DEL CONSEJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2016)</small>
+
 ###### Artículo 5.
 
-De conformidad al Artículo 3 del Acuerdo que lo crea, el Consejo se integra de la siguiente manera:
+De conformidad al artículo 3, del Acuerdo que lo crea, el Consejo se integra de la siguiente manera:
 
 I.- El Presidente Municipal Constitucional del Ayuntamiento de Cuernavaca, como Presidente;
 
@@ -127,13 +129,25 @@ XVI.- El Presidente del Consejo Coordinador Empresarial de Morelos (CCE);
 
 XVII.- El Presidente de la Asociación de Institutos y Escuelas Particulares del Estado de Morelos (AIESPEM);
 
-XVIII.- Un Representante de la Alianza de Transportistas del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2016)</small>
 
-XIX.- Un Representante del Centro Histórico, elegido por el Consejo, cuyo período durará un año.
+XVIII.- Un Representante de la Alianza de Transportistas del Estado de Morelos;
 
-Los miembros señalados en las fracciones IV a XIX, tendrán la calidad de Vocales.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2016)</small>
 
-Respecto del Integrante señalado en la fracción XIX, éste será elegido por los integrantes del sector social del Consejo, señalados en las fracciones VII a XVIII, de este artículo.
+XIX.- Un Representante del Centro Histórico, elegido por el Consejo, cuyo período durará un año y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2016)</small>
+
+XX.- El Presidente de la Confederación Patronal de la República Mexicana- Morelos (COPARMEX-MORELOS).
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2016)</small>
+
+Los miembros señalados en las fracciones IV a XX, tendrán la calidad de Vocales.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2016)</small>
+
+Respecto del Integrante señalado en la fracción XIX, éste será elegido por los integrantes del sector social del Consejo, señalados en las fracciones VII a XVIII y XX, de este artículo.
 
 Según los asuntos a tratar, el Consejo podrá invitar, a través del Secretario Técnico, a servidores públicos, personas físicas e instituciones que estime convenientes, siempre que tengan competencia o interés, cuya opinión pueda ser de utilidad para el trámite o solución del asunto a tratar. Dichos invitados sólo tendrán derecho a voz.
 
@@ -386,3 +400,13 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en el presente acuerdo.
 
 TERCERO.- Publíquese en la Gaceta Municipal del Municipio de Cuernavaca, Morelos.
+
+P.O. 23 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SO/AC-41/10-III-2016 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XX, AL ARTÍCULO 5, DEL REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE TURISMO DEL MUNICIPIO DE CUERNAVACA, MORELOS”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del estado de Morelos y en la Gaceta Municipal.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
