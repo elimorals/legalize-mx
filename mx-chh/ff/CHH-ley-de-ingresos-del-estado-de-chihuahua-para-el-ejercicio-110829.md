@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-11082
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-23"
-last_updated: "2016-03-16"
+last_updated: "2016-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2016
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2016.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 23 de diciembre de 2015.
 
@@ -93,9 +93,11 @@ Los derechos que se causen por la prestación de los servicios que realice la Di
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta 50 centavos se ajusten a la unidad inmediata anterior, y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO NOVENO.
 
-Los derechos que se causen por la prestación de los servicios que realice la Dirección de la División de Vialidad y Tránsito por concepto de Derecho de Control Vehicular con placas, deberán pagarse dentro de los primeros tres meses del año 2016.
+Los derechos que se causen por la prestación de los servicios que realice la Dirección de la División de Vialidad y Tránsito por concepto de Derecho de Control Vehicular con placas, deberán pagarse dentro de los primeros cuatro meses del año 2016.
 
 Se autoriza a la Secretaría de Hacienda para otorgar un estímulo de $900.00 sobre los derechos establecidos en el Apartado IX, numeral 4 de la Tarifa de Derechos de esta Ley, a los contribuyentes que realicen el pago en los términos establecidos en el párrafo anterior y estén al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, en derechos de control vehicular e infracciones impuestas por las autoridades de tránsito, así como tener licencia de conducir vigente; en caso contrario, deberán pagar el costo de los derechos respectivos que establece la Tarifa para el Cobro de Derechos que forma parte integrante de la presente Ley.
 
@@ -226,5 +228,11 @@ Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbric
 P.O. 16 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1347/2016 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO DUODÉCIMO DE LA LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA, PARA EL EJERCICIO FISCAL 2016".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 1348/2016 II P.O. POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO NOVENO DE LA LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA, PARA EL EJERCICIO FISCAL 2016".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
