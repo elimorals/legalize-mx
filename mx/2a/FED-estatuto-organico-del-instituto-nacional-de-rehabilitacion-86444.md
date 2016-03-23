@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-rehabilitacion-8644
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-03-02"
-last_updated: "2015-10-06"
+last_updated: "2016-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-03-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE REHABILITACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2016.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 2 de marzo de 2012.
 
@@ -141,7 +141,9 @@ a. Direcciones:
 
 - Dirección de Administración
 
-IV.- COMITES Y COMISIONES:
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2016)</small>
+
+IV.- COMITÉS Y COMISIONES:
 
 1. Comisión Mixta de Seguridad e Higiene
 
@@ -149,13 +151,13 @@ IV.- COMITES Y COMISIONES:
 
 3. Comisión Mixta de Escalafón
 
-4. Comisión Mixta de Evaluación de Premios, Estímulos y Recompensas
+4. Comisión Mixta de evaluación de Premios, Estímulos y recompensas
 
 5. Comisión de Vestuario y Equipo
 
 6. Comisión de Bioética
 
-7. Comisión de Investigación Científica
+7. Comité de Investigación
 
 8. Comité de Control y Desempeño Institucional
 
@@ -165,7 +167,7 @@ IV.- COMITES Y COMISIONES:
 
 11. Comité de Quirófanos
 
-12. Comité de Infecciones Oseas Intrahospitalarias
+12. Comité de Infecciones Óseas Intrahospitalarias
 
 13. Comité de Defunciones
 
@@ -191,21 +193,27 @@ IV.- COMITES Y COMISIONES:
 
 24. Comité de Información
 
-25. Comité de Abasto
+25. Comité de Farmacovigilancia
 
-26. Comité de Farmacovigilancia
+26. Comité Evaluador de Ingreso
 
-27. Comité Evaluador de Ingreso
+27. Comité de Becas
 
-28. Comité de Becas
+28. Comité Académico
 
-29. Comité Académico
+29. Comité de Honor y Justicia
 
-30. Comité de Honor y Justicia
+30. Comité Interno para el Cuidado y Uso de Animales de Laboratorio
 
-31. Comité Interno para el Cuidado y Uso de Animales de Laboratorio
+31. Comité de Bioseguridad
 
-32. Comité de Bioseguridad
+32. Comité de Ética
+
+33. Comité de Medicina Transfusional
+
+34. Comité Hospitalario de Bioética
+
+35. Comité Interno encargado de vigilar el uso adecuado de los recursos destinados a la investigación
 
 El Instituto contará con los demás comités y comisiones necesarios al desempeño de sus atribuciones y con un Organo Interno de Control; éste último se regirá conforme a lo dispuesto en el artículo 40 de este Estatuto.
 
@@ -679,7 +687,7 @@ Las ausencias del Titular del Organo Interno de Control, así como de las de los
 
 ###### ARTICULO 45.
 
-Se deberán inscribir en el Registro Público de Organisnos Descentralizados:
+Se deberán inscribir en el Registro Público de Organisnos (sic) Descentralizados:
 
 I. Las modificaciones o reformas al Instituto dentro de los 30 días siguientes a éstas;
 
@@ -744,3 +752,19 @@ PRIMERO. Las presentes reformas al Estatuto Orgánico del Instituto Nacional de 
 SEGUNDO. La Directora de Administración del Instituto Nacional de Rehabilitación, Luis Guillermo Ibarra Ibarra, deberá inscribir la presente modificación en el Registro Público de Organismos Descentralizados en términos del artículo 24 de la Ley Federal de las Entidades Paraestatales.
 
 TERCERO. Con fundamento en el artículo 33, fracción XI del Estatuto Orgánico del Instituto Nacional de Rehabilitación, la Dirección de Administración será la encargada de llevar a cabo la modificación y la actualización del Manual de Organización del Instituto Nacional de Rehabilitación con motivo de las reformas y adiciones aprobadas en la presente reforma.
+
+D.O.F. 23 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE "REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE REHABILITACIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Estatuto Orgánico del Instituto Nacional de Rehabilitación “Luis Guillermo Ibarra Ibarra”, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Director General del Instituto Nacional de Rehabilitación “Luis Guillermo Ibarra Ibarra”, deberá inscribir la presente modificación en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
+
+###### ARTÍCULO TERCERO.
+
+Con fundamento en el artículo 33, fracción XI del Estatuto del Instituto Nacional de Rehabilitación, la Dirección de Administración será la encargada de llevar a cabo la modificación y la actualización del Manual de Organización del Instituto Nacional de Rehabilitación con motivo de los cambios de denominación aprobados en la presente reforma.
