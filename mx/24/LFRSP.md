@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "2013-12-24"
+last_updated: "2016-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -38,7 +38,7 @@ DECRETO
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS, POR LO QUE SE REFIERE A LA MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 13 DE MARZO DE 2002)</small>
+> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS, POR LO QUE SE REFIERE A LA MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 13 DE MARZO DE 2002)</small>
 
 ## TITULO PRIMERO
 
@@ -84,13 +84,13 @@ III.- Las dependencias del Ejecutivo Federal;
 
 IV.- El órgano ejecutivo local del Gobierno del Distrito Federal;
 
-V.- (DEROGADA POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 26 DE MAYO DE 1995)
+V.- (DEROGADA POR ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 26 DE MAYO DE 1995)
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
 
 VI. El Consejo de la Judicatura del Distrito Federal;
 
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 VII.- El Tribunal Federal de Justicia Fiscal y Administrativa;
 
@@ -126,7 +126,9 @@ I.- El ataque a las instituciones democráticas;
 
 II.- El ataque a la forma de gobierno republicano, representativo, federal;
 
-III.- Las violaciones graves y sistemáticas a las garantías individuales o sociales;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
+
+III.- Las violaciones a los derechos humanos;
 
 IV.- El ataque a la libertad de sufragio;
 
@@ -430,7 +432,7 @@ En el caso de que la declaratoria de las Cámaras se refiera a gobernadores, dip
 
 En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código Federal de Procedimientos Penales. Asimismo, se atenderán, en lo conducente, las del Código Penal.
 
-> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS, UNICAMENTE POR LO QUE RESPECTA AL AMBITO FEDERAL, D.O.F. 13 DE MARZO DE 2002)</small>
+> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS, ÚNICAMENTE POR LO QUE RESPECTA AL ÁMBITO FEDERAL, D.O.F. 13 DE MARZO DE 2002)</small>
 
 ## TITULO TERCERO. Responsabilidades Administrativas
 
@@ -454,9 +456,13 @@ III.- Utilizar los recursos que tengan asignados para el desempeño de su empleo
 
 IV.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o inutilización indebidas de aquéllas;
 
-V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste.
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
 
-VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, igualdad y sin discriminación a las personas con las que tenga relación con motivo de éste;
+
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
+
+VI.- Observar en la dirección de sus inferiores jerárquicos un trato digno, de respeto y no discriminación y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
 
 VII.- Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
 
@@ -466,7 +472,9 @@ VIII.- Comunicar por escrito al titular de la dependencia o entidad en la que pr
 
 IX.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
+
+X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones o en su caso no otorgar licencias de maternidad o paternidad de conformidad con las disposiciones aplicables;
 
 XI.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohiba.
 
@@ -710,7 +718,7 @@ Las resoluciones y acuerdos de la Secretaría y de las dependencias durante el p
 
 La Secretaría expedirá constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas, para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 70.
 
@@ -750,7 +758,7 @@ b) Que la ejecución de la resolución recurrida produzca daños o perjuicios de
 
 c) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
 
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 73.
 
@@ -758,7 +766,7 @@ El servidor público afectado por las resoluciones administrativas que se dicten
 
 La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
-> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 74.
 
@@ -830,7 +838,7 @@ En todos los casos la prescripción a que alude este precepto se interrumpirá a
 
 III.- El derecho de los particulares a solicitar la indemnización de daños y perjuicios, prescribirá en un año, a partir de la notificación de la resolución administrativa que haya declarado cometido (sic) la falta administrativa.
 
-> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS, UNICAMENTE POR LO QUE RESPECTA AL AMBITO FEDERAL, D.O.F. 13 DE MARZO DE 2002)</small>
+> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS, ÚNICAMENTE POR LO QUE RESPECTA AL ÁMBITO FEDERAL, D.O.F. 13 DE MARZO DE 2002)</small>
 
 ## TITULO CUARTO
 
@@ -876,7 +884,7 @@ VI.- En el Poder Judicial Federal: Ministros de la Suprema Corte de Justicia de 
 
 VII.- En el Tribunal de lo Contencioso Administrativo del Distrito Federal, Magistrados y Secretarios o sus equivalentes;
 
-> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA POR LA FRACCIÓN III DEL ARTÍCULO DÉCIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGÁNICA DEL TRIBUNAL FISCAL DE LA FEDERACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 VIII.- En el Tribunal Federal de Justicia Fiscal y Administrativa, en los tribunales de trabajo y en los demás órganos jurisdiccionales que determinen las leyes: Magistrados, miembros de junta y Secretarios o sus equivalentes; y
 
@@ -962,11 +970,11 @@ Cuando los servidores públicos reciban obsequios, donativos o beneficios en gen
 
 La Secretaría de la Función Pública hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
-(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ## TITULO QUINTO. De las disposiciones aplicables a los servidores públicos del órgano ejecutivo del Distrito Federal
 
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO UNICO. (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1016,7 +1024,7 @@ México, D.F., a 30 diciembre de 1982.- Antonio Riva Palacio López, S.P.- Maria
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y dos.- "Año del General Vicente Guerrero".- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Patrimonio y Fomento Industrial, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comercio, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Horacio García Aguilar.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdez.- Rúbrica.- El Secretario de Asentamientos Humanos y Obras Públicas, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Secretario de la Reforma Agraria, Luis Martínez Villicaña.- Rúbrica.- El Secretario de Turismo, Antonio Enríquez Savignac.- Rúbrica.- El Secretario de Pesca, Pedro Ojeda Paullada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 11 DE ENERO DE 1991.
 
@@ -1044,7 +1052,7 @@ Para los fines de la presentación de las declaraciones de situación patrimonia
 
 D.O.F. 10 DE ENERO DE 1994.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
 
@@ -1054,7 +1062,7 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 D.O.F. 26 DE MAYO DE 1995.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1096,7 +1104,7 @@ TERCERO.- En tanto la Asamblea Legislativa del Distrito Federal regula las respo
 
 D.O.F. 31 DE DICIEMBRE DE 2000.
 
-SE TRANSCRIBEN UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 
@@ -1137,3 +1145,9 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 24 DE DICIEMBRE DE 2013.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
