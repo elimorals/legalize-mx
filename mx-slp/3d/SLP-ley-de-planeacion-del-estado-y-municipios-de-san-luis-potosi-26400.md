@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2015-04-07"
+last_updated: "2016-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -345,6 +345,10 @@ El Plan Estatal de Desarrollo es el documento orientador del Sistema Estatal de 
 
 En la formulación del Plan Estatal de Desarrollo intervendrán las dependencias y entidades de las administraciones públicas federal, estatal y municipales, los sectores social y privado, y los ciudadanos interesados, a través de una consulta abierta, incluyente y participativa organizada por el Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2016)</small>
+
+De la misma forma, las comunidades indígenas de acuerdo a la Ley de Consulta Indígena para el Estado y Municipios de San Luis Potosí, tienen la facultad de participar, pudiéndose apoyar el Ejecutivo del Estado con el Padrón de Comunidades Indígenas de la Entidad.
+
 ###### ARTICULO 13.
 
 El Plan Estatal de Desarrollo contendrá las estrategias, objetivos, prioridades del desarrollo estatal, las previsiones generales sobre los recursos a utilizar, la definición de instrumentos, responsables de su ejecución y los lineamientos de política general, sectorial y regional.
@@ -633,7 +637,7 @@ LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 31 DE OCTUBRE DE 2003.
 
@@ -652,3 +656,11 @@ P.O. 7 DE ABRIL DE 2015.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0187.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 12, DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
