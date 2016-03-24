@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2015-11-12"
+last_updated: "2016-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -1650,7 +1650,9 @@ El Instituto administrará el Fondo de la Vivienda que se integre con las Aporta
 
 El Instituto contará con una Comisión Ejecutiva, que coadyuvará en la administración del Fondo de la Vivienda de acuerdo con el reglamento que emita la Junta Directiva.
 
-El Fondo de la Vivienda tiene por objeto establecer y operar un sistema de financiamiento que permita a los Trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria en los casos que expresamente determine la Comisión Ejecutiva del Fondo de la Vivienda. Estos préstamos se harán por una sola vez.
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2016)</small>
+
+El Fondo de la Vivienda tiene por objeto establecer y operar un sistema de financiamiento que permita a los Trabajadores obtener crédito barato y suficiente, mediante préstamos con garantía hipotecaria en los casos que expresamente determine la Comisión Ejecutiva del Fondo de la Vivienda. Estos préstamos se harán hasta por dos ocasiones, una vez que el primer crédito se encuentre totalmente liquidado.
 
 El Instituto podrá celebrar convenios de coordinación y colaboración con las autoridades federales, Entidades Federativas y municipios, según corresponda, para el mejor cumplimiento del objeto del Fondo de la Vivienda. Asimismo, para el ejercicio de las funciones del Fondo de la Vivienda se podrá contratar cualquier tipo de servicios.
 
@@ -1792,7 +1794,9 @@ Los créditos a que se refiere esta Sección se otorgarán y adjudicarán tomand
 
 La Junta Directiva expedirá las reglas operativas conforme a las cuales se otorgarán los créditos a que se refiere el párrafo anterior.
 
-Los Trabajadores podrán recibir crédito del Fondo de la Vivienda por una sola vez.
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2016)</small>
+
+Los Trabajadores podrán recibir crédito del Fondo de la Vivienda hasta por dos ocasiones. Para el caso del otorgamiento del segundo crédito, los Trabajadores deberán cubrir los mismos requisitos previstos por la Ley para el otorgamiento del primer crédito, relativos a contar con más de dieciocho meses de depósitos constituidos a su favor en las Subcuentas del Fondo de la Vivienda, además deberán demostrar que el primer crédito se encuentra totalmente liquidado y que fue pagado de manera regular. El importe de estos créditos se aplicará para los fines previstos por el artículo 169 de este ordenamiento.
 
 ###### Artículo 180.
 
@@ -3081,3 +3085,11 @@ DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 31 BIS A LA LEY DEL INSTITUTO DE SEG
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
+
+D.O.F. 24 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 167 Y 179 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Junta Directiva del Instituto incluirá en las reglas operativas que al efecto emita, los términos, modalidades, proporciones y condiciones bajo las cuales se otorgue el segundo crédito previsto en los artículos 167 y 179 de esta Ley, estableciendo criterios de equidad y de prelación que garanticen el ejercicio de este derecho por parte de los Trabajadores que aún no lo ejerzan. Asimismo, aprobará las modificaciones que en su caso correspondan a los programas de crédito y de financiamiento vigentes.
