@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2015-06-04"
+last_updated: "2016-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -535,9 +535,9 @@ IX. Establecer los mecanismos para la atención de las víctimas en todos los ti
 
 X. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y
 
-> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
 
-XI. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres el derecho a un permiso y a una prestación por paternidad.
+XI. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres biológicos y por adopción el derecho a un permiso y a una prestación por paternidad, en términos de la Ley Federal del Trabajo.
 
 ### CAPÍTULO SEXTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
 
@@ -654,3 +654,9 @@ D.O.F. 5 DE DICIEMBRE DE 2014.
 D.O.F. 4 DE JUNIO DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 40 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
