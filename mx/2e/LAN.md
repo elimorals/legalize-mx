@@ -4,7 +4,7 @@ identifier: "LAN"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-01"
-last_updated: "2014-08-11"
+last_updated: "2016-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAN"
 
 LEY DE AGUAS NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 1 de diciembre de 1992.
 
@@ -75,6 +75,10 @@ V. "Aguas marinas": Se refiere a las aguas en zonas marinas;
 VI. "Aguas Residuales": Las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
 
 VII. "Aprovechamiento": Aplicación del agua en actividades que no impliquen consumo de la misma;
+
+> <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2016)</small>
+
+VII Bis. "Aprovechamiento de Paso": Aquel realizado en cualquier actividad que no implique consumo de volúmenes de agua, y sus alteraciones no excedan los parámetros que establezcan las normas oficiales mexicanas;
 
 VIII. "Asignación": Título que otorga el Ejecutivo Federal, a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para realizar la explotación, uso o aprovechamiento de las aguas nacionales, a los municipios, a los estados o al Distrito Federal, destinadas a los servicios de agua con carácter público urbano o doméstico;
 
@@ -192,7 +196,9 @@ LV. "Uso Consuntivo": El volumen de agua de una calidad determinada que se consu
 
 LVI. "Uso Doméstico": La aplicación de agua nacional para el uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, en términos del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
-LVII. "Uso en acuacultura": La aplicación de aguas nacionales para el cultivo, reproducción y desarrollo de cualquier especie de la fauna y flora acuáticas;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2016)</small>
+
+LVII. “Uso en Acuacultura”: El aprovechamiento de paso de aguas nacionales en el conjunto de actividades dirigidas a la reproducción controlada, pre engorda y engorda de especies de la fauna y flora realizadas en instalaciones en aguas nacionales, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa;
 
 LVIII. "Uso industrial": La aplicación de aguas nacionales en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como el agua que se utiliza en parques industriales, calderas, dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aun en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
 
@@ -3456,19 +3462,27 @@ DÉCIMO QUINTO. En tanto se cumple con lo dispuesto en el Párrafo Tercero del A
 
 4. Agrícola;
 
-5. Uso para la conservación ecológica o uso ambiental;
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2016)</small>
 
-6. Generación de energía eléctrica para servicio público;
+5. Acuacultura;
 
-7. Industrial;
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2016)</small>
 
-8. Acuacultura;
+6. Usos para la conservación ecológica o uso ambiental;
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2016)</small>
+
+7. Generación de energía eléctrica para servicio público;
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2016)</small>
+
+8. Industrial;
 
 9. Generación de energía eléctrica para servicio privado;
 
 10. Lavado y entarquinamiento de terrenos;
 
-11. Uso para turismo, recreación y fines terapéuticos;
+11. Usos para turismo, recreación y fines terapéuticos;
 
 12. Uso múltiple, y
 
@@ -3503,3 +3517,9 @@ D.O.F. 11 DE AGOSTO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 24 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS NACIONALES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
