@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-metrologia-103357"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-31"
-last_updated: "2014-10-31"
+last_updated: "2016-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103357&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-20"
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE METROLOGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MARZO DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -201,7 +201,7 @@ Para el cumplimiento de sus funciones y el ejercicio de las atribuciones que le 
 
 1.1. Dirección de Planeación, Vinculación e Innovación;
 
-1.2. Dirección de Área Metrológica.
+1.2. (DEROGADO, D.O.F. 25 DE MARZO DE 2016)
 
 2. Dirección General de Metrología Eléctrica:
 
@@ -251,7 +251,7 @@ Para el cumplimiento de sus funciones y el ejercicio de las atribuciones que le 
 
 7.2. Dirección de Finanzas;
 
-7.3. Dirección de Asuntos Jurídicos;
+7.3. (DEROGADO, D.O.F. 25 DE MARZO DE 2016)
 
 7.4. Dirección de Recursos Humanos.
 
@@ -621,7 +621,27 @@ VII. Implementar los programas gubernamentales en que participe la Dirección Ge
 
 VIII. Coordinar la organización y conservación del acervo documental de la Entidad, conforme a las disposiciones legales aplicables;
 
-IX. Representar legalmente al CENAM ante cualquier autoridad federal, estatal o municipal o persona física o moral, como resultado de las atribuciones que le han sido conferidas en este Estatuto.
+> <small>(REFORMADA, D.O.F. 25 DE MARZO DE 2016)</small>
+
+IX. Representar legalmente al CENAM ante cualquier autoridad federal, estatal o municipal o persona física o moral, como resultado de las atribuciones que le han sido conferidas en este Estatuto. Lo anterior, vigilando que se cuente con el soporte jurídico necesario para:
+
+a. Representar al CENAM en los juicios y procedimientos en los que éste es parte, para la defensa de sus intereses;
+
+b. Establecer la estrategia jurídica en los juicios y procedimientos de los que sea parte el CENAM, para hacer valer los derechos sustantivos y procesales de la Entidad;
+
+c. Validar jurídicamente los contratos y convenios que celebre el CENAM, para que tengan una certeza jurídica;
+
+d. Coordinar el proceso sobre derechos de propiedad intelectual generados por la Entidad, para su registro y mantenimiento;
+
+e. Asesorar jurídicamente al personal del CENAM cuando así lo requiera, para dar soporte legal en el cumplimiento de sus funciones;
+
+f. Coordinar las gestiones de cobro judicial o extra judicial por adeudos por concepto de servicios que presta la Entidad, en coordinación con las áreas competentes, con objeto de evitar la cartera vencida por mora;
+
+g. Participar en comités, reuniones internas y externas para atender asuntos relacionados con el ámbito de su competencia;
+
+h. Generar la documentación para pago de las actividades de su competencia, verificando que la misma cuente con los soportes documentales y requisitos establecidos en la normatividad aplicable;
+
+i. Coordinar la integración de los informes que requieran las dependencias globalizadoras o instancias fiscalizadoras.
 
 Para el ejercicio de sus atribuciones, además de los Directores de Área se auxiliará de los demás servidores públicos que se requieran para satisfacer las necesidades del servicio y cuyas funciones estarán contenidas en el Manual de Organización de la Entidad.
 
@@ -669,35 +689,7 @@ XIII. Coordinar la integración de los informes necesarios para dar cuenta del a
 
 ###### Artículo 35.
 
-La Dirección de Área Metrológica, tendrá las atribuciones siguientes:
-
-I. Establecer, mejorar y mantener las referencias metrológicas en el ámbito de competencia de la Dirección de Área Metrológica;
-
-II. Elaborar los planes, programas y presupuestos de la Dirección de Área Metrológica;
-
-III. Proponer los servicios de la Dirección de Área Metrológica y sus precios, de conformidad con las políticas autorizadas y la normatividad aplicable, para dar atención a las necesidades de los sectores usuarios;
-
-IV. Elaborar y actualizar los manuales de procedimientos o documentación relacionada con las mediciones bajo la responsabilidad de la Dirección de Área Metrológica;
-
-V. Proporcionar los servicios metrológicos en el ámbito de competencia de la Dirección de Área Metrológica, para satisfacer las necesidades de los sectores usuarios;
-
-VI. Participar en evaluaciones de laboratorios secundarios en el ámbito de competencia de la Dirección de Área Metrológica, para fortalecer el Sistema Metrológico Nacional;
-
-VII. Difundir los logros científicos y técnicos de la Dirección de Área Metrológica, para promover el conocimiento de la metrología en los sectores usuarios;
-
-VIII. Desarrollar acciones de colaboración con organismos de metrología internacionales y de otros países que correspondan a la Dirección de Área Metrológica, para lograr la aceptación del nivel metrológico del país;
-
-IX. Participar en reuniones técnico científicas o de vinculación interinstitucional en el ámbito de competencia de la Dirección de Área Metrológica, para fortalecer las capacidades de medición;
-
-X. Participar en grupos de trabajo especializados en metrología, para para (sic) atender las necesidades metrológicas de los sectores usuarios y fortalecer el Sistema Metrológico Nacional;
-
-XI. Desarrollar las líneas de acción de colaboración y apoyo técnico en materia de normalización, acreditación y evaluación de la conformidad en el ámbito de competencia de la Dirección de Área Metrológica, para fortalecer el Sistema Metrológico Nacional y contribuir al desarrollo de la metrología científica, legal e industrial del país;
-
-XII. Desarrollar programas y proyectos de innovación y de investigación científica y tecnológica, para mejorar las capacidades de medición a cargo de la Dirección de Área Metrológica;
-
-XIII. Desarrollar las acciones de promoción de la cultura y las buenas prácticas metrológicas, para consolidar el Sistema Metrológico Nacional;
-
-XIV. Participar en proyectos de colaboración e investigación metrológica con instituciones, organismos y empresas, tanto nacionales como extranjeras, en el ámbito de competencia de la Dirección de Área Metrológica, para lograr una mayor difusión y atención de las necesidades metrológicas de los sectores usuarios.
+(DEROGADO, D.O.F. 25 DE MARZO DE 2016)
 
 ###### Artículo 36.
 
@@ -1165,9 +1157,11 @@ V. Proporcionar servicios de soporte técnico, telecomunicaciones, cómputo y de
 
 VI. Proponer al Director General de Área el Programa Estratégico de Tecnologías de la Información y Comunicación (PETIC), en función de los objetivos estratégicos del CENAM.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MARZO DE 2016)</small>
+
 ###### Artículo 52.
 
-Los Directores de las Áreas Administrativa, Financiera, Jurídica y Recursos Humanos, además de lo establecido por el artículo 58 fracción XI de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunir los siguientes requisitos:
+Los Directores de las Áreas Administrativa, Financiera y Recursos Humanos, además de lo establecido por el artículo 58 fracción XI de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunir los siguientes requisitos:
 
 I. Ser profesionista con nivel académico de licenciatura;
 
@@ -1231,25 +1225,7 @@ XII. Coordinar la integración de los informes que requieran las dependencias gl
 
 ###### Artículo 55.
 
-La Dirección de Asuntos Jurídicos tendrá las siguientes atribuciones:
-
-I. Representar al CENAM en los juicios y procedimientos en los que éste es parte, para la defensa de sus intereses;
-
-II. Establecer la estrategia jurídica en los juicios y procedimientos de los que sea parte el CENAM, para hacer valer los derechos sustantivos y procesales de la Entidad;
-
-III. Validar jurídicamente los contratos y convenios que celebre el CENAM, para que tengan una certeza jurídica;
-
-IV. Coordinar el proceso sobre derechos de propiedad intelectual generados por la Entidad, para su registro y mantenimiento;
-
-V. Asesorar jurídicamente al personal del CENAM cuando así lo requiera, para dar soporte legal en el cumplimiento de sus funciones;
-
-VI. Coordinar las gestiones de cobro judicial o extra judicial por adeudos por concepto de servicios que presta la Entidad, en coordinación con las áreas competentes, con objeto de evitar la cartera vencida por mora;
-
-VII. Participar en comités, reuniones internas y externas para atender asuntos relacionados con el ámbito de su competencia;
-
-VIII. Generar la documentación para pago de las actividades de su competencia, verificando que la misma cuente con los soportes documentales y requisitos establecidos en la normatividad aplicable;
-
-IX. Coordinar la integración de los informes que requieran las dependencias globalizadoras o instancias fiscalizadoras.
+(DEROGADO, D.O.F. 25 DE MARZO DE 2016)
 
 ###### Artículo 56.
 
@@ -1283,9 +1259,35 @@ XIII. Firmar la documentación que se genere en el ámbito de su competencia, ve
 
 ### CAPÍTULO NOVENO. De la suplencia de los servidores públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MARZO DE 2016)</small>
+
 ###### Artículo 57.
 
-Las ausencias temporales del Director General del CENAM serán suplidas por el Director General de Administración y Finanzas, Director General de Metrología Mecánica, Director General de Metrología Eléctrica, Director General de Servicios Tecnológicos, Director General de Metrología Física y Director General de Metrología de Materiales, en el orden indicado.
+El Director General del CENAM designará a alguno de los siguientes Directores Generales de Área para que lo supla en su ausencia:
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 2016)</small>
+
+Director General de Administración y Finanzas
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 2016)</small>
+
+Director General de Metrología Eléctrica
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 2016)</small>
+
+Director General de Metrología Física
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 2016)</small>
+
+Director General de Metrología de Materiales
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 2016)</small>
+
+Director General de Metrología Mecánica
+
+> <small>(ADICIONADO, D.O.F. 25 DE MARZO DE 2016)</small>
+
+Director General de Servicios Tecnológicos
 
 ###### Artículo 58.
 
@@ -1328,3 +1330,11 @@ El presente Estatuto Orgánico entrará en vigor el día siguiente de que se apr
 A partir de la entrada en vigor del presente Estatuto, quedará abrogado el Estatuto Orgánico del Centro Nacional de Metrología publicado en el Diario Oficial de la Federación con fecha 1o. de octubre de 2008, así como sus modificaciones y cualquier disposición administrativa que se oponga al presente.
 
 La Prosecretaria del Consejo Directivo del Centro Nacional de Metrología CERTIFICA: Que en la 2a. Sesión Extraordinaria de dicho cuerpo colegiado, celebrada el 13 trece de octubre de 2014 dos mil catorce, se tomó el siguiente: Acuerdo 28/2ªExt/14. Con fundamento en el artículo 58, fracción VIII de la Ley Federal de las Entidades Paraestatales, este H. Consejo Directivo aprueba el “Estatuto Orgánico del Centro Nacional de Metrología”, el cual contempla la revisión integral y los cambios solicitados por la Unidad de Política de Recursos Humanos de la Administración Pública Federal, dependiente de la Secretaría de la Función Pública, mediante oficios Nos. SSFP/408/0603/2014 y SSFP/408/DGOR/0925/2014. Doy fe.- México, D.F., a 20 de octubre de 2014.- La Prosecretaria del Consejo Directivo del Centro Nacional de Metrología, Diana Lucia de León Hernández. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 32 FRACCIÓN IX, 52 PRIMER PÁRRAFO Y 57 PRIMER PÁRRAFO Y SE DEROGAN TANTO LOS INCISOS 1.2 Y 7.3 DEL ARTÍCULO 13, COMO LOS ARTÍCULOS 35 Y 55 DEL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE METROLOGÍA”.]
+
+ÚNICO. Las presentes reformas al Estatuto Orgánico del Centro Nacional de Metrología, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
