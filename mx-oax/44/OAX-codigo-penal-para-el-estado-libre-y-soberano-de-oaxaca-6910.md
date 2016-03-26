@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2016-01-30"
+last_updated: "2016-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2016.
 
 > <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.</small>
 
@@ -2251,7 +2251,7 @@ Disposiciones comunes a los capítulos precedentes.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2004)</small>
 
-235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta salarios mínimos. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenados.
+235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta salarios mínimos. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que hayan sido condenados.
 
 TITULO DECIMOPRIMERO.
 
@@ -3777,6 +3777,10 @@ IV.- Impida la realización de una reunión, asamblea, manifestación pública, 
 
 401.- Se impondrá multa de 500 días de salario mínimo vigente, al ministro de culto religioso que, por cualquier medio, en el desarrollo de actos propios de su ministerio, induzca al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2016)</small>
+
+401 BIS.- Se impondrá prisión de dos a seis años y multa de siete mil a quince mil pesos a quien realice por si o a través de terceros cualquier acción u omisión que causen daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de su familia, para restringir, suspender o impedir el ejercicio de sus derechos político-electorales o inducirla y obligarla a tomar decisiones de la misma índole en contra de su voluntad.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
 ### CAPITULO II.
@@ -4344,3 +4348,9 @@ P.O. 30 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1372.- MEDIANTE EL CUAL SE MODIFICAN, REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 23 BIS A, INCISO C PÁRRAFO 32 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE MEDIACIÓN DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1853.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 401 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
