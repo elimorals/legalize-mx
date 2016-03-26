@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-administracion-del-patrimonio-de-41638
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2004-10-06"
+last_updated: "2016-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA ADMINISTRACION DEL PATRIMONIO DE LA BENEFICENCIA PUBLICA DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA ADMINISTRACION DEL PATRIMONIO DE LA BENEFICENCIA PUBLICA DEL ESTADO DE OAXACA
+REGLAMENTO INTERNO DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 26 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 6 de octubre de 2004.
 
@@ -276,3 +278,15 @@ SECRETARIO DE SALUD DEL ESTADO
 DR. FELIPE GAMA CASAS
 
 NOTA: Las presentes firmas corresponden a la aprobación del Reglamento Interno de la Administración del Patrimonio de la Beneficencia Pública del Estado de Oaxaca.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO.- DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interior publicado en el Periódico Oficial del Estado de Oaxaca, de fecha 13 (sic) de septiembre del 2004.
