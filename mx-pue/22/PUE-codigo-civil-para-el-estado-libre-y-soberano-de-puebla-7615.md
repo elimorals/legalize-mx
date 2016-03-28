@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2016-03-16"
+last_updated: "2016-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -439,7 +439,7 @@ La acción de nulidad por incapacidad de una de las partes prescribe en dos año
 
 ###### Artículo 54.
 
-El matrimonio del menor produce de derecho la emancipación; y aunque el vínculo matrimonial se extinga, el cónyuge emancipado no recaerá en la patria potestad.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 55.
 
@@ -1709,15 +1709,19 @@ Cuando en este Código se hable del "Juez", para imponerle deberes o concederle 
 
 Los negocios familiares se resolverán atendiendo preferentemente al interés de los menores o mayores incapaces o discapacitados, si los hubiere en la familia de que se trate; en caso contrario se atenderá al interés de la familia misma y por último al de los mayores de edad capaces que formen parte de ella.
 
+(NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, "DECLARA LA INVALIDEZ DEL ARTÍCULO 300, EN LA PORCIÓN NORMATIVA "EL HOMBRE Y LA MUJER", DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, REFORMADO MEDIANTE DECRETO PUBLICADO EN LA SEGUNDA SECCIÓN DE LA EDICIÓN NÚMERO 17 DEL PERIÓDICO OFICIAL DE DICHA ENTIDAD EL VEINTIOCHO DE MARZO DE DOS MIL DIECISÉIS Y, EN VÍA DE CONSECUENCIA, LA DEL ARTÍCULO 294, EN LA PORCIÓN NORMATIVA "PERPETUAR LA ESPECIE Y", DEL REFERIDO CÓDIGO CIVIL; EN LA INTELIGENCIA DE QUE, EN LA INTERPRETACIÓN Y APLICACIÓN DE LA PORCIÓN NORMATIVA "UN SOLO HOMBRE Y UNA SOLA MUJER" DEL CITADO ARTÍCULO 294, DE LAS PORCIONES NORMATIVAS "ENTRE UN SOLO HOMBRE Y UNA SOLA MUJER" Y "COMO MARIDO Y MUJER" DEL ARTÍCULO 297, Y DE LAS PORCIONES NORMATIVAS REFERIDAS A TALES SUJETOS, CONTENIDAS EN DIVERSOS PRECEPTOS DEL CÓDIGO IMPUGNADO Y EN OTROS ORDENAMIENTOS ESTATALES VINCULADOS TANTO CON EL MATRIMONIO COMO CON EL CONCUBINATO (COMPRENDIDO DENTRO DEL CAPÍTULO SEGUNDO "MATRIMONIO" DE ESTE CÓDIGO CIVIL), DEBERÁ ENTENDERSE QUE ESTAS INSTITUCIONES INVOLUCRAN A DOS PERSONAS DEL MISMO O DE DIFERENTE SEXO.", LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 ### CAPITULO SEGUNDO.- MATRIMONIO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 #### Sección Primera.- Generalidades
 
+(NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 ###### Artículo 294.
 
-El matrimonio es un contrato civil, por el cual un sólo hombre y una sola mujer, se unen en sociedad para perpetuar la especie y ayudarse en la lucha por la existencia.
+El matrimonio es un contrato civil, por el cual UN SÓLO HOMBRE Y UNA SOLA MUJER, se unen en sociedad para PERPETUAR LA ESPECIE Y ayudarse en la lucha por la existencia.
 
 ###### Artículo 295.
 
@@ -1729,11 +1733,13 @@ La Ley no reconoce esponsales de futuro.
 
 La celebración del matrimonio es un acto solemne que debe realizarse ante el funcionario que establece la Ley y con las formalidades que la misma exige.
 
+(NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 297.
 
-El concubinato es la unión de hecho entre un solo hombre y una sola mujer, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común de manera notoria y permanente, situación que sólo podrá demostrarse si han procreado hijos o han vivido públicamente como marido y mujer durante más de dos años continuos.
+El concubinato es la unión de hecho ENTRE UN SOLO HOMBRE Y UNA SOLA MUJER, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común de manera notoria y permanente, situación que sólo podrá demostrarse si han procreado hijos o han vivido públicamente COMO MARIDO Y MUJER durante más de dos años continuos.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1759,9 +1765,11 @@ IV.- Los concubinos están obligados a coadyuvar de manera equitativa en el cuid
 
 Son impedimentos para contraer matrimonio:
 
-I.- La falta de edad requerida por la Ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
 
-II.- La falta de consentimiento del que, conforme a la Ley, tiene la patria potestad, del tutor o del Juez en sus respectivos casos;
+I.- La falta de edad requerida por la ley;
+
+II.- (DEROGADA, P.O. 28 DE MARZO DE 2016)
 
 III.- El parentesco por consanguinidad, por afinidad o civil, sin limitación de grado en línea recta, ascendente o descendente;
 
@@ -1781,41 +1789,41 @@ X.- El vínculo de un matrimonio anterior subsistente al tiempo en que se preten
 
 XI.- La locura.
 
-De estos impedimentos, sólo son dispensables la falta de edad y el parentesco por consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+De estos impedimentos, sólo es dispensable el parentesco por consanguinidad en línea colateral desigual.
+
+(NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
 
 ###### Artículo 300.
 
-No pueden contraer matrimonio el hombre y la mujer, antes de cumplir 16 años de edad.
+No pueden contraer matrimonio EL HOMBRE Y LA MUJER, antes de cumplir dieciocho años de edad.
 
 ###### Artículo 301.
 
-En casos excepcionales y por causas graves y justificadas, podrá concederse dispensa de edad, para que puedan contraer matrimonio los pretendientes que no tengan la edad que fija el artículo anterior.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 302.
 
-Para que el hombre o la mujer, menores de edad, puedan contraer matrimonio, se requiere:
-
-I.- El consentimiento del ascendiente o ascendientes que ejerzan la patria potestad;
-
-II.- Si no hay quien ejerza la patria potestad, se necesita el consentimiento del tutor; y faltando éste, el Juez competente del domicilio del menor suplirá el consentimiento.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 303.
 
-Los ascendientes, tutores o jueces que otorgaron su consentimiento para la celebración del matrimonio no pueden revocarlo, a menos que exista causa bastante.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 304.
 
-Si los ascendientes o tutor que prestaron su consentimiento para el matrimonio, fallecieren antes de que se celebre éste, su consentimiento no puede ser revocado por la persona o personas que, en su defecto, tendrían el derecho de otorgarlo, si el matrimonio se celebra de acuerdo con lo dispuesto en el artículo 894.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 305.
 
-Cuando los ascendientes, tutores o jueces nieguen su consentimiento o lo revoquen después de concedido y su disenso no parezca racional, o se estime que no hay causa para la revocación, podrá ocurrir el interesado a la primera autoridad política del lugar, la cual con audiencia de aquéllos, lo habilitará o no de edad.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 306.
 
-El matrimonio no puede celebrarse sin la previa habilitación de edad a que se refiere el artículo anterior.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 307.
 
@@ -1823,7 +1831,7 @@ Para que el tutor, el curador o los hijos de ambos, contraigan matrimonio con qu
 
 ###### Artículo 308.
 
-Si el matrimonio se celebra en contravención a lo dispuesto en el artículo anterior, y el cónyuge que estuvo sujeto a tutela es aún menor, el Juez le nombrará inmediatamente un tutor interino que reciba los bienes y los administre, mientras se obtiene la licencia judicial.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 309.
 
@@ -1831,11 +1839,11 @@ El matrimonio celebrado entre las personas a que se refiere el Artículo 307, si
 
 ###### Artículo 310.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que durante éste plazo diere a luz, o se demuestre, mediante dictamen médico, si está o no embarazada.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 311.
 
-En los casos de disolución por nulidad o divorcio, puede contarse el plazo a que se refiere el artículo anterior, desde que se interrumpió la cohabitación.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 312.
 
@@ -1991,7 +1999,7 @@ El artículo anterior se aplicará, salvo lo dispuesto por este Código sobre so
 
 ###### Artículo 332.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, de acuerdo con lo dispuesto en los dos artículos que preceden; pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 333.
 
@@ -2045,7 +2053,7 @@ Las capitulaciones pueden comprender los bienes de que sean dueños los cónyuge
 
 ###### Artículo 344.
 
-El menor que con arreglo a la ley tenga capacidad para contraer matrimonio, puede otorgar capitulaciones, si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 345.
 
@@ -2053,7 +2061,7 @@ Si respecto a las capitulaciones hubiere disentimiento entre el contrayente y la
 
 ###### Artículo 346.
 
-Los cónyuges, menores de edad, necesitan, después de contraído el matrimonio, autorización judicial para cambiar el régimen económico de éste o para modificar sus capitulaciones.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 347.
 
@@ -2429,11 +2437,11 @@ II.- Cuando se haya celebrado sin observar las formalidades establecidas en los 
 
 III.- En caso de error, cuando ésta sea esencialmente sobre la persona.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
 
 ###### Artículo 403.
 
-La nulidad fundada en la edad menor de 16 años en el hombre y la mujer, puede ser demandada por los ascendientes y a falta de éstos, por quien desempeñaba la tutela o por el tutor que al efecto se nombre.
+La nulidad fundada en la edad menor de dieciocho años en el hombre y la mujer, puede ser demandada por los ascendientes y a falta de éstos, por quien desempeñaba la tutela o por el tutor que al efecto se nombre.
 
 ###### Artículo 404.
 
@@ -2441,33 +2449,29 @@ La acción a que se refiere el artículo anterior cesa:
 
 I.- Cuando haya habido hijos;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
 
-II.- Cuando, aunque no los haya habido, el cónyuge que al celebrarse el matrimonio no tenía la edad requerida para contraerlo, cumpla dieciséis años, sin que se hubiere intentado la nulidad, y
+II.- Cuando, aunque no los haya habido, el cónyuge que al celebrarse el matrimonio no tenía la edad requerida para contraerlo, cumpla dieciocho años, sin que se hubiere intentado la nulidad, y
 
-III.- Cuando antes de concluir el juicio de nulidad por sentencia irrevocable se obtuviese la dispensa de edad o la esposa se embarace.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
+
+III.- Cuando antes de concluir el juicio de nulidad por sentencia irrevocable la esposa se embarace.
 
 ###### Artículo 405.
 
-La nulidad por falta de consentimiento de quién o quiénes ejerzan la patria potestad, sólo puede alegarse por el ascendiente o ascendientes a quienes tocaba prestar aquél.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 406.
 
-Cesa la causa de nulidad a que se refiere el artículo anterior:
-
-I.- Cuando no se demande dentro de los treinta días siguientes a aquél en que el titular de la acción tenga conocimiento del matrimonio.
-
-II.- Cuando, aun durante el plazo establecido en la fracción anterior, el ascendiente o ascendientes, titulares de la acción, consintieren expresa o tácitamente en el matrimonio, donando algún bien al cónyuge o cónyuges con ese motivo, recibiendo a los esposos en la casa del ascendiente o ascendientes, presentando a la prole en el Registro Civil como de los consortes, o realizando otros actos que, a juicio del Juez, sean tan conducentes como los expresados.
-
-III.- Si antes de dictarse sentencia ejecutoriada se obtiene la habilitación de edad.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 407.
 
-La nulidad por falta de consentimiento del tutor, podrá pedirse por éste, y la que resulta de la falta de consentimiento del Juez, corresponde pedirla al Ministerio Público.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 408.
 
-En los dos casos a que se refiere el artículo anterior, la acción prescribe en treinta días, contados a partir de aquél en que el titular de la acción tenga conocimiento de la celebración del matrimonio; pero se extingue la acción si antes de dictarse sentencia se obtiene la ratificación del tutor, la autorización judicial o la habilitación de edad.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 409.
 
@@ -2623,9 +2627,11 @@ La ley presume la reconciliación si hay cohabitación entre los cónyuges, desp
 
 En los procedimientos de divorcio el Juez debe ordenar, de oficio, las medidas necesarias para proteger a los hijos que sean menores o sólo estén concebidos.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
+
 ###### Artículo 435.
 
-Los ex cónyuges, que hayan obtenido el divorcio, podrán contraer nuevamente matrimonio entre ellos, después de la resolución definitiva que declare aquél, y en este caso no es aplicable la prohibición establecida para la mujer por el artículo 310.
+Los ex cónyuges, que hayan obtenido el divorcio, podrán contraer nuevamente matrimonio entre ellos, después de la resolución definitiva que declare aquél.
 
 #### Sección Segunda.- Divorcio administrativo
 
@@ -2725,7 +2731,7 @@ VII (sic) .- La manera de administrar los bienes de la sociedad conyugal durante
 
 ###### Artículo 444.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 ###### Artículo 445.
 
@@ -3267,9 +3273,11 @@ El marido podrá desconocer al hijo nacido dentro de trescientos días, contados
 
 Los herederos del marido no podrán contradecir la paternidad de un hijo de éste, que beneficie con las presunciones establecidas por el artículo 527; pero podrán continuar el juicio iniciado por su causante, si éste muere después de presentada la demanda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2016)</small>
+
 ###### Artículo 535.
 
-Si la viuda, la divorciada o la ex cónyuge cuyo matrimonio fuere declarado nulo, contrajera segundas nupcias dentro del período prohibido por el artículo 310, la filiación del hijo que naciere, celebrado el segundo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la viuda, la divorciada o la ex cónyuge cuyo matrimonio fuere declarado nulo, contrajera segundas nupcias dentro del período de trecientos (sic) días posteriores a la declaración de nulidad, la filiación del hijo que naciere, celebrado el segundo matrimonio, se establecerá conforme a las reglas siguientes:
 
 I.- Se presume que el hijo es del primer marido, si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio; y dentro de ciento ochenta días de la celebración del segundo;
 
@@ -3281,9 +3289,11 @@ III.- Si nace después de los trescientos días siguientes a la disolución del 
 
 El marido que negare cualquiera de las presunciones establecidas por las fracciones I y II del artículo anterior, sea para contradecir la paternidad que se le atribuye a él, sea para contradecir la que se atribuye al otro, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
+
 ###### Artículo 537.
 
-Los dos artículos anteriores no son aplicables cuando las segundas nupcias se contrajeron, habiéndose exhibido el certificado médico a que se refiere el artículo 310.
+Los dos artículos anteriores no son aplicables cuando las segundas nupcias se contrajeron habiéndose exhibido el certificado médico de no embarazo.
 
 ###### Artículo 538.
 
@@ -5585,13 +5595,17 @@ II.- La edad y nacionalidad de los pretendientes;
 
 III.- Los nombres, apellidos, profesiones y domicilios de dos testigos, que presentará cada pretendiente, y que hagan constar la aptitud de éste para contraer matrimonio conforme a la ley;
 
-IV.- La licencia de las personas que deban otorgar su consentimiento para la celebración del matrimonio, si aquélla es necesaria;
+IV.- (DEROGADA, P.O. 28 DE MARZO DE 2016)
 
 V.- La disolución del matrimonio anterior, si alguno de los pretendientes fue casado;
 
-VI.- La dispensa de impedimentos si los hubiere;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
 
-VII.- Un certificado médico por cada pretendiente, expedido de acuerdo con la Ley General de Salud y su Reglamento;
+VI.- La dispensa de impedimento si lo hubiere;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
+
+VII.- Un certificado médico por cada pretendiente, expedido de acuerdo con la Ley General de Salud y su Reglamento; y
 
 VIII.- Las formalidades a que se refiere el artículo 838.
 
@@ -5677,7 +5691,7 @@ II.- Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
 III.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y en caso afirmativo, el grado en que lo sean;
 
-IV.- El nombre de la persona o personas o, en su caso, la calidad de las autoridades que otorgan su consentimiento o autorización para la celebración del matrimonio, cuando uno o ambos contrayentes sean menores de edad;
+IV.- (DEROGADA, P.O. 28 DE MARZO DE 2016)
 
 V.- El número de autorización de la Secretaría de Gobernación en el caso de que uno de los contrayentes sea extranjero;
 
@@ -5699,7 +5713,7 @@ El Juez del Registro del Estado Civil está plenamente autorizado, para exigir d
 
 ###### Artículo 910.
 
-En los casos de emancipación por matrimonio, no se formará acta separada.
+(DEROGADO, P.O. 28 DE MARZO DE 2016)
 
 #### Sección Séptima.- Actas de Divorcio
 
@@ -20280,3 +20294,19 @@ SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglament
 TERCERO. Las autoridades municipales que coadyuven con la prestación del servicio a que se refiere este Decreto, deberán acreditar la capacitación necesaria en términos de los lineamientos que emita la Secretaría General de Gobierno, así como de la convocatoria y demás disposiciones administrativas aplicables.
 
 CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 28 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 299, EL 300, EL 403, LAS FRACCIONES II Y III DEL 404, LAS FRACCIONES VI Y VII DEL 888, Y DEROGA LOS ARTÍCULOS 54, LA FRACCIÓN II DEL 299, DEL 301 AL 306, EL 308, EL 332 EL 344, EL 346, DEL 405 AL 408, EL 444, LA FRACCIÓN IV DEL 888, LA FRACCIÓN IV DEL 907 Y EL 910, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 28 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 435, EL PRIMER PÁRRAFO DEL 535, EL 537, Y DEROGA LOS ARTÍCULOS 310 Y 311 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
