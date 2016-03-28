@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2015-11-30"
+last_updated: "2016-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -207,11 +207,9 @@ VII.- Centros de enseñanza de idiomas, cuyos servicios estén orientados a turi
 
 VIII.- Los demás considerados como tales por la Ley General.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
 
-###### Artículo 6 Bis.
-
-Constituyen los atractivos turísticos aquellos bienes tangibles e intangibles que posee el Estado y que constituyen la principal atracción al turista, teniendo entre otros los siguientes: zonas arqueológicas, ciudades coloniales, reservas ecológicas, áreas naturales, monumentos históricos, museos, parques temáticos, jardines botánicos, zoológicos, teatros, ríos, lagos, grutas, cavernas, ferias, festividades y tradiciones étnicas o regionales, artesanías, gastronomía, danzas típicas o regionales, así como aquellos que determine en el ámbito de sus atribuciones la Secretaría de Turismo y Cultura del Estado de Hidalgo.
+Artículo 6 BIS. Constituyen los atractivos turísticos aquellos bienes tangibles e intangibles que posee el Estado y que constituyen la principal atracción al turista, teniendo entre otros los siguientes: zonas arqueológicas, ciudades coloniales, reservas ecológicas, áreas naturales, monumentos históricos, conventos, iglesias, capillas, museos, parques temáticos, jardines botánicos, zoológicos, teatros, ríos, lagos, grutas, cavernas, ferias, festividades y tradiciones étnicas o regionales, artesanías, gastronomía, danzas típicas o regionales, así como aquellos que determine en el ámbito de sus atribuciones la Secretaría de Turismo y Cultura del Estado de Hidalgo.
 
 ### CAPÍTULO II. ATRIBUCIONES DE LA SECRETARÍA
 
@@ -998,3 +996,9 @@ P.O. 30 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 646.- QUE REFORMA EL ARTÍCULO 6 BIS DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
