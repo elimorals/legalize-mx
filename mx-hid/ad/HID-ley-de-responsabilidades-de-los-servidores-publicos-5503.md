@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2015-12-07"
+last_updated: "2016-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -543,7 +543,13 @@ En ningún caso podrán difundirse los actos precisados en los incisos anteriore
 
 XXX.- Cumplir con la entrega del despacho a su cargo en los términos establecidos por la Ley de la materia; y
 
-XXXI.- Las demás que le impongan las Leyes y Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2016)</small>
+
+XXXI.- Abstenerse de realizar en el ejercicio de sus funciones, cualquier acto de discriminación, de acuerdo a lo señalado por la ley de la materia; y
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
+
+XXXII.- Las demás que le impongan las leyes y reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría y Transparencia Gubernamental, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría y Transparencia Gubernamental, el subalterno deberá practicarla directamente informando a su superior acerca de este acto.
 
@@ -1126,3 +1132,9 @@ TERCERO. Las investigaciones y los procedimientos administrativos disciplinarios
 P.O. 7 DE DICIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 642 QUE REFORMA LA FRACCIÓN XXXI Y RECORRE LA SUBSECUENTE, QUE PASA A SER XXXII, DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
