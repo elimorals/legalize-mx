@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2016-03-14"
+last_updated: "2016-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "AGU"
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE MARZO DE 2016.]</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -271,7 +273,7 @@ El Ejecutivo del Estado ejercerá en coordinación con el Instituto de Educació
 
 Corresponden al Ejecutivo del Estado de manera concurrente con la Autoridad Educativa Federal, las atribuciones siguientes:
 
-l. Otorgar, negar o retirar el reconocimiento de validez oficial a estudios distintos de los de primaria, secundaria, normal y demás modalidades educativas para la formación de educadores de preescolar, primaria y secundaria que impartan los particulares, cumpliendo con los lineamientos que se fijen por la Autoridad Educativa;
+I. Otorgar, negar o retirar el reconocimiento de validez oficial a estudios distintos de los de primaria, secundaria, normal y demás modalidades educativas para la formación de educadores de preescolar, primaria y secundaria que impartan los particulares, cumpliendo con los lineamientos que se fijen por la Autoridad Educativa;
 
 II. Apoyar y promover la investigación científica, tecnológica y humanística que de sustento a la innovación educativa;
 
@@ -667,13 +669,15 @@ VIII. Promoverán programas de sensibilización sobre el respeto a los derechos 
 
 IX. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+(REFORMADA, P.O. 29 DE FEBRERO DE 2016) (F. DE E., P.O. 28 DE MARZO DE 2016)
 
-X. Desarrollar programas con perspectiva de género, para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+X. Establecer y fortalecer sistemas de educación a distancia;
 
 XI. Realizar campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-XII. Desarrollar programas para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+> <small>(F. DE E., P.O. 28 DE MARZO DE 2016)</small>
+
+XII. Desarrollar programas con perspectiva de género, para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
 XIII. Impulsarán programas y escuelas dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
@@ -695,11 +699,17 @@ XXI. Establecer mecanismos propios de inscripción que respondan a las necesidad
 
 XXII. Proporcionar materiales educativos, individuales y colectivos, para los alumnos de educación básica;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE FEBRERO DE 2016)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE FEBRERO DE 2016) (F. DE E., P.O. 28 DE MARZO DE 2016)
 
-XXIII. Establecer mecanismos para otorgar facilidades a estudiantes embarazadas para que reciban los cuidados médicos adecuados hasta la conclusión del puerperio, y de ser posible, para que concluyan el ciclo escolar que cursen, o bien, puedan permanecer o reingresar a la institución educativa de que se trate.
+XXIII. Establecer mecanismos para otorgar facilidades a estudiantes embarazadas para que reciban los cuidados médicos adecuados hasta la conclusión del puerperio, y de ser posible, para que concluyan el ciclo escolar que cursen, o bien, puedan permanecer o reingresar a la institución educativa de que se trate;
 
-XXIV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran.
+> <small>(F. DE E., P.O. 28 DE MARZO DE 2016)</small>
+
+XXIV. Proporcionar apoyos económicos y asistenciales, tales como desayunos, transportes escolares, y becas para alumnos que pertenezcan a familias de escasos recursos, en coordinación con las diversas dependencias de Gobierno que apoyen tales fines; y
+
+> <small>(F. DE E., P.O. 28 DE MARZO DE 2016)</small>
+
+XXV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran.
 
 El Gobierno del Estado, en concurrencia con la Federación y los municipios, llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
