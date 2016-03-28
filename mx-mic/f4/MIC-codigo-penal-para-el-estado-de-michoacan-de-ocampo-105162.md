@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2015-09-25"
+last_updated: "2016-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EN LA FECHA QUE SEÑALA LA DECLARATORIA QUE AL EFECTO EXPIDA EL CONGRESO DEL ESTADO DE MICHOACÁN, PARA LA ENTRADA DEL NUEVO SISTEMA DE JUSTICIA PENAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2133,9 +2133,13 @@ Para estimar la cuantía del robo se atenderá únicamente al valor de cambio qu
 
 En los casos de robo en grado de tentativa, cuando no fuere posible determinar el monto, se aplicarán de seis meses a cinco años de prisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2016)</small>
+
 ###### Artículo 204.
 
 Robo calificado grave
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2016)</small>
 
 Se aumentará la pena del delito de robo hasta diez años de prisión cuando:
 
@@ -2153,11 +2157,21 @@ VI. El objeto del robo sea cualquier vehículo de motor estacionado en la vía p
 
 VII. Cuando participen una o más personas que pertenezcan o hayan pertenecido a corporaciones de seguridad de cualquier índole o a las fuerzas armadas; y,
 
-VIII. Se cometa en un lugar cerrado con violencia en las personas o en las cosas.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
+
+VIII. Se cometa en un lugar cerrado con violencia en las personas o en las cosas; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2016)</small>
+
+IX. Se trate de abigeato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2016)</small>
 
 ###### Artículo 205.
 
 Robo calificado
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2016)</small>
 
 Se aumentará la pena del delito de robo hasta en cinco años de prisión cuando:
 
@@ -2167,7 +2181,9 @@ II. El objeto del robo sea un expediente o algún documento de protocolo, oficin
 
 III. Se comete aprovechando alguna relación de hospitalidad, servicio o de trabajo, a excepción del servicio doméstico; y,
 
-IV. Respecto de equipo, instrumentos, semillas o cualesquiera otros artículos destinados al aprovechamiento agrícola, forestal, agropecuario o respecto de productos de la misma índole.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
+
+IV. Respecto de equipo, instrumentos, semillas o cualesquiera otros bienes destinados al aprovechamiento agrícola, forestal, agropecuario o respecto de productos de la misma índole.
 
 ###### Artículo 206.
 
@@ -2225,11 +2241,13 @@ Receptación
 
 A los que adquieran, posean o enajenen objetos robados o de procedencia ilegal, que no hayan tomado las medidas indispensables para cerciorarse de que la persona de quien los recibió tenía derecho para disponer de ellos, se les aplicarán las mismas penas que correspondan a los autores del delito de robo simple.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
+
 ###### Artículo 213.
 
 Abigeato
 
-Cuando el objeto del robo sea una o más cabezas de ganado mayor, menor o de corral, o cualquier otra destinada a producción industrial o comercial se aplicarán las mismas reglas de sanción que para el robo dispone este Código.
+Cuando el objeto del robo sea una o más cabezas de ganado mayor, menor o cualquier otra especie destinada a la producción industrial, comercial o con fines de subsistencia, se aplicarán las mismas reglas de sanción que para el robo dispone este Código.
 
 ### CAPÍTULO VIII. DAÑO EN LAS COSAS
 
@@ -3432,3 +3450,9 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA
 P.O. 25 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
+
+P.O. 28 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 130 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 204, 205 Y 213 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
