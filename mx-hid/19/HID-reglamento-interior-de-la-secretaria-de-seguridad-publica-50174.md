@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-seguridad-publica-50174
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2006-03-27"
+last_updated: "2016-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
@@ -622,3 +624,23 @@ Dado en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Pachuca de
 GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LICENCIADO MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNAMENTAL.- QUE CONTIENE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE HIDALGO”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial, de fecha 27 de marzo del año dos mil seis.
+
+Tercero.- Las Unidades Administrativas que por efecto del presente Reglamento tengan competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de éstos a partir de la entrada en vigor del mismo.
+
+Cuarto.- Se expedirán los manuales, procedimientos y lineamientos derivados del contenido de la (sic) presente Reglamento dentro de un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
+
+Quinto.- En tanto se expidan los Manuales de Organización, de Procedimientos y de Servicios al Público, el Secretario estará facultado para resolver lo que dichos Manuales deben regular.
+
+Sexto.- El presente Reglamento no crea nuevas plazas, sino que únicamente implica una reorganización de la Secretaría de acuerdo a lo señalado por el artículo 29 de la Ley de Seguridad Pública para el Estado de Hidalgo, lo anterior sin que esto sea impedimento para crear, en su oportunidad, aquellas Unidades Administrativas que se requieran por parte de la Secretaría, una vez realizado el procedimiento administrativo ante las instancias correspondientes y de acuerdo a la normatividad aplicable.
+
+Séptimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
