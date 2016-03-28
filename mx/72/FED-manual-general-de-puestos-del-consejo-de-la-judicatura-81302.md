@@ -4,7 +4,7 @@ identifier: "FED-manual-general-de-puestos-del-consejo-de-la-judicatura-81302"
 country: "mx"
 rank: "manual"
 publication_date: "2011-05-17"
-last_updated: "2011-05-17"
+last_updated: "2016-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-04"
 
 MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MARZO DE 2016.
 
 Manual publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el martes 17 de mayo de 2011.
 
@@ -6109,9 +6109,11 @@ OTRO: NO
 
 III. Perfil del puesto.-
 
+> <small>(REFORMADA, D.O.F. 28 DE MARZO DE 2016)</small>
+
 III.1 Formación académica:
 
-Educación superior, pasante o título y cédula profesional de licenciatura en derecho, administración o en materia afín al puesto.
+Educación superior, pasante o título y cédula profesional. El nivel y tipo de preparación académica podrá corresponder a nivel medio superior o carrera comercial, si así lo determina el Magistrado de Circuito de su adscripción en atención a la confianza que se requiere para este cargo.
 
 III.2 Experiencia laboral:
 
@@ -6231,9 +6233,11 @@ OTRO: NO
 
 III. Perfil del puesto.-
 
+> <small>(REFORMADA, D.O.F. 28 DE MARZO DE 2016)</small>
+
 III.1 Formación académica:
 
-Educación superior, pasante o título y cédula profesional de licenciatura en derecho, administración o en materia afín al puesto.
+Educación superior, pasante o título y cédula profesional. El nivel y tipo de preparación académica podrá corresponder a nivel medio superior o carrera comercial, si así lo determina el Juez de Distrito de su adscripción en atención a la confianza que se requiere para este cargo.
 
 III.2 Experiencia laboral:
 
@@ -10141,10 +10145,16 @@ Unidades administrativas.- Las Ponencias de los Consejeros, Secretarías Ejecuti
 
 Anexo 2. Identificación de los conceptos de la Descripción de Puesto.
 
-> <small>N. DE E. VEASE TABLAS EN LA SEGUNDA SECCION DEL D.O.F. DE 17 DE MAYO DE 2011, PAGINAS DE LA 162 A LA 164.</small>
+> <small>N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE MAYO DE 2011, PÁGINAS DE LA 162 A LA 164.</small>
 
 Anexo 3. Registro de Actualizaciones.
 
-> <small>N. DE E. VEASE TABLA EN LA SEGUNDA SECCION DEL D.O.F. DE 17 DE MAYO DE 2011, PAGINAS DE LA 164 A LA 168.</small>
+> <small>N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE MAYO DE 2011, PÁGINAS DE LA 164 A LA 168.</small>
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que la actualización al Manual General de Puestos del Consejo de la Judicatura Federal, fue aprobada por el Pleno del propio Consejo, en sesión ordinaria de nueve de marzo de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Jorge Moreno Collado.- México, Distrito Federal, a cuatro de mayo de dos mil once.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE MARZO DE 2016.
+
+> <small>[N. DE E. LAS “MODIFICACIONES AL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
