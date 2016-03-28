@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2011-01-24"
+last_updated: "2016-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
+LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -124,6 +124,10 @@ d).- En la Implementación de los esquemas administrativos para recabar el pago 
 Corresponde a las Autoridades Municipales el ejercicio de las facultades, respecto al objeto de esta Ley previstas en la Ley Ambiental y en la Ley General, así como las siguientes:
 
 I.- Promover el establecimiento de programas de minimización y gestión integral de los residuos producidos por los grandes generadores de su municipio;
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2016)</small>
+
+a) Establecer un programa ambiental en coordinación con el Estado en que se de difusión al perjuicio y deterioro que causan las bolsas de plástico, a fin de promover la conciencia ecológica o informar a la ciudadanía sobre las posibles alternativas de sustitución de bolsas plásticas.
 
 II.- Fomentar el desarrollo de mercados para el reciclaje de residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación o al Estado;
 
@@ -637,6 +641,10 @@ XIV.- El confinamiento o depósito final de residuos en estado líquido o con co
 
 XV.- Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia.
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2016)</small>
+
+XVI.- Proporcionar en tiendas departamentales, de autoservicio, de conveniencia, tianguis y comercios en general bolsas de plástico, sustituyéndose preferentemente por bolsas de materiales biodegradables.
+
 Las violaciones a lo establecido en este artículo serán objeto de sanción, de conformidad con las disposiciones establecidas en la presente Ley, sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES PARTICULARES
@@ -745,7 +753,7 @@ VII.- Evitar confinar juntos, residuos que sean incompatibles y puedan provocar 
 
 VIII.- Contar con un plan para el cierre de las celdas y de los confinamientos de residuos sólidos, así como para el monitoreo posterior al cierre de los mismos, el cual deberá realizarse durante un periodo no menor a 15 años;
 
-IX.- Contar con una garantía financiera para asegurar que la operación y el cierre de las instalaciones se realice de conformidad con esta Ley y demás ordenamientos legales aplicables, así como, costear el monitoreo del sitio ulterior al cierre, generar la información con los indicadores ambientales en el sitio y entregarla periódicamente a la autoridad ambiental correspondiente; (sic)
+IX.- Contar con una garantía financiera para asegurar que la operación y el cierre de las instalaciones se realice de conformidad con esta Ley y demás ordenamientos legales aplicables, así como, costear el monitoreo del sitio ulterior al cierre, generar la información con los indicadores ambientales en el sitio y entregarla periódicamente a la autoridad ambiental correspondiente;
 
 ### CAPÍTULO II. DE LA SEPARACIÓN DE RESIDUOS
 
@@ -1250,3 +1258,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 643 QUE ADICIONA EL INCISO A) A LA FRACCIÓN I DEL ARTÍCULO 6; Y LA FRACCIÓN XVI AL ARTÍCULO 44 DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
