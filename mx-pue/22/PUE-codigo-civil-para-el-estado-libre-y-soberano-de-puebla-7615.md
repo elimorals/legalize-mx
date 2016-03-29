@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2016-03-28"
+last_updated: "2016-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 29 DE MARZO DE 2016.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -2703,267 +2705,359 @@ Antes de levantar el acta a que se refiere el artículo 438, el Juez del Registr
 
 Si se comprueba que el divorcio administrativo, no cumple lo establecido por el artículo 436, no surtirá efectos legales y los promoventes sufrirán además, las penas que correspondan al delito de falsedad.
 
-#### Sección Tercera.- Divorcio voluntario
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MARZO DE 2016)</small>
+
+#### Sección Tercera.- Divorcio incausado
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 442.
 
-Los cónyuges que teniendo más de un año de casados no reúnan los requisitos establecidos en las fracciones I a V del artículo 436, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez del domicilio familiar, de acuerdo con las disposiciones de esta sección y de las aplicables del Código de Procedimientos Civiles.
+El divorcio incausado podrá solicitarse por cualquiera de los cónyuges o por ambos, ante Juez de lo Familiar competente, con la sola manifestación de la voluntad de no querer continuar con el matrimonio, sin ser necesario señalar la causa por la que lo solicita, siempre que haya transcurrido un año de haberse celebrado el matrimonio.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 443.
 
-Los cónyuges que pidan de conformidad su divorcio, deberán acompañar en todo caso a su demanda, un convenio en el que se fijen los siguientes puntos:
+El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
 
-I.- A quién se confiarán los hijos de los consortes durante el procedimiento y después de ejecutoriado el divorcio;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+I.- A quién se confiarán los hijos de los consortes durante el procedimiento y después de ejecutoriado el divorcio, estableciéndose la designación de guarda y custodia;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1990)</small>
 
 II.- El modo de ejercitar, durante el procedimiento y después de ejecutoriado el divorcio, el derecho de visitar a sus hijos y de tener correspondencia con ellos, respecto al cónyuge a quien no se confíen aquéllos;
 
-III.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento, como después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe darse para asegurarlo; pero si el cónyuge deudor de los alimentos no encuentra persona que sea su fiador, si carece de bienes raíces o muebles, para garantizar con ellos, en hipoteca o prenda respectivamente el pago de los alimentos, o en el caso de que el otro cónyuge esté de acuerdo en que no se otorgue la garantía, no se exigirá ésta, y al aprobar el convenio, el Juez hará saber al deudor alimentario, que la ley castiga con cárcel el incumplimiento del pago de los alimentos y el contenido de los artículos 347 a 349, del Código de Defensa Social;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-VI (sic) .- La forma y periodicidad en que se incrementará el monto de las pensiones alimenticias que se hayan acordado, debiéndose señalar como obligación del deudor de los alimentos que dicho aumento se verifique por lo menos una vez al año y que su importe sea al menos equivalente al aumento porcentual que tenga el salario mínimo general de la zona económica de que se trate, durante el mismo periodo, y
+III.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento, como después de ejecutoriado el divorcio así como la forma de hacer el pago, lugar y fecha; la garantía que debe darse para asegurarlo; pero si el cónyuge deudor de los alimentos no encuentra persona que sea su fiador, si carece de bienes raíces o muebles para garantizar con ellos, en hipoteca o prenda respectivamente el pago de los alimentos, no se exigirá ésta, y al aprobar el convenio, el Juez hará saber al deudor alimentario, que la ley castiga con cárcel el incumplimiento del pago de los alimentos y el contenido de los artículos 347 y 348 del Código Penal para el Estado Libre y Soberano de Puebla;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
-VII (sic) .- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio. A este efecto se acompañará un inventario y avalúo de los bienes muebles o inmuebles de la sociedad, con indicación de las deudas a cargo de ésta.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2016)</small>
+
+V (SIC).- La cantidad y forma de hacer el pago, que a título de alimentos se determine pagar al cónyuge que se haya dedicado al trabajo del hogar y cuidado de los niños;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VI.- La forma y periodicidad en que se incrementará el monto de las pensiones alimenticias que se hayan acordado, debiéndose señalar como obligación del deudor de los alimentos que dicho aumento se verifique por lo menos una vez al año y que su importe sea al menos equivalente al aumento porcentual que tenga el salario mínimo general, durante el mismo periodo;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VII.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio. A este efecto se acompañará un inventario y avalúo de los bienes muebles o inmuebles de la sociedad, con indicación de las deudas a cargo de ésta; y
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VIII.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar, y en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 444.
 
-(DEROGADO, P.O. 28 DE MARZO DE 2016)
+Cuando la demanda de divorcio sea presentada por ambos cónyuges, el Juez los citará a una junta en donde procurará avenirlos; pero, si notare que su decisión fuere irrevocable, pronunciará sentencia de divorcio, y en su caso, aprobará el convenio y sus modificaciones conforme a los artículos 446 y 447 del presente ordenamiento.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 445.
 
-Presentada la demanda, el Juez citará a los peticionarios a una junta para que la ratifiquen por sí mismos en su presencia.
+Cuando el divorcio sea solicitado por sólo uno de los cónyuges, se desarrollará la junta de avenencia en términos del artículo anterior; pero, si notare que la decisión del promovente es irrevocable, emplazará al otro haciéndole de su conocimiento que cuenta con los términos que señala el Código de Procedimientos Civiles para contestar la demanda, en la que podrá expresar su conformidad con el convenio, o bien realizar una contrapropuesta, acompañando las pruebas necesarias. La falta de contestación se tendrá como no aceptado el convenio.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 446.
 
-En la junta a que se refiere el artículo anterior, procurará el Juez avenir a los cónyuges; pero si notare que su decisión fuere irrevocable, pronunciará sentencia de divorcio y, en su caso aprobará el convenio y sus modificaciones, conforme a los artículos 451 y 452.
+El Juez y el Ministerio Público examinarán cuidadosamente el convenio, y si consideran que viola los derechos de los hijos, propondrán el Ministerio Público al Juez o éste a los cónyuges, las modificaciones que estimen procedentes, para lo cual los citará el Juez a una junta, en la que procurará que los cónyuges lleguen a un arreglo sobre los puntos propuestos.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+Lo mismo hará cuando existan diferencias en los convenios exhibidos por los cónyuges.
 
-Si no hubiere convenio o en éste no se cumplió con la fracción VI del artículo 443, el Juez fijará de oficio, en la sentencia, la forma y periodicidad como deberá incrementase (sic) la pensión alimenticia que se haya asignado para subvenir las necesidades de los hijos.
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 447.
 
-Si el Juez tuviere motivos suficientes a su juicio para dudar de la firmeza de la decisión de los solicitantes, citará a éstos a una segunda junta, en la cual procurará restablecer entre ellos la concordia y cerciorarse de la completa libertad de ambos para solicitar el divorcio.
+Si los cónyuges no llegaren a un arreglo en la junta a que se refiere el artículo anterior, el Juez decretará la disolución del vínculo matrimonial dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 448.
 
-Si el Juez no lograre la reconciliación, procederá como se indica en la parte final del artículo 446.
+En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 443 del presente ordenamiento y éste no contraviene ninguna disposición legal, el Juez lo aprobará de plano, decretando el divorcio mediante sentencia.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 449.
 
-Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículos 445 a 447 y 451, deben comparecer a ellas personalmente y sin estar acompañados del tutor especial en caso de que se hubiere nombrado éste.
+La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre. Para tal efecto los interesados deberán comunicar su reconciliación al Juez de lo Familiar.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 450.
 
-A las juntas a que se refieren los artículos 445 a 447 y 451 sólo asistirán los cónyuges y el Juez, quien debe presidirlas personalmente y dar vista al Ministerio Público con el acta que de ellas se levante, en la cual sólo se hará constar el resultado de las mismas.
+Desde que se presenta la solicitud de divorcio y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes; asimismo, en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte sentencia interlocutoria en el incidente que resuelva la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+A. De oficio:
+
+I.- En los casos en que el Juez de lo Familiar lo considere pertinente, de conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, tomará las medidas que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar, donde tendrá la más amplia libertad para dictar las medidas que protejan a las víctimas;
+
+II.- Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda;
+
+III.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad del Estado y de aquellos lugares en que se conozca que tienen bienes; y
+
+IV.- Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca este Código;
+
+B. Una vez contestada la solicitud:
+
+I.- El Juez de lo Familiar determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
+
+II.- Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo estos compartir la guarda y custodia mediante convenio.
+
+En defecto de ese acuerdo; el Juez de lo Familiar resolverá conforme al Código de Procedimientos Civiles, tomando en cuenta la opinión del menor de edad.
+
+Los menores de doce años deberán quedar al cuidado de la madre, excepto en los casos en los que exista peligro grave para el normal desarrollo de los hijos. No será obstáculo para la preferencia de la madre, el hecho de que ésta carezca de recursos económicos;
+
+III.- El Juez de lo Familiar resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, respecto de las modalidades del derecho de visita o convivencia con sus padres;
+
+IV.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
+
+V.- Las demás que considere necesarias.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 451.
 
-El Juez y el Ministerio Público examinarán cuidadosamente el convenio, y si consideran que viola los derechos de los hijos, propondrán el Ministerio Público al Juez o éste a los cónyuges, las modificaciones que estimen procedentes, para lo cual los citará el Juez a una Junta, en la que procurará que los cónyuges lleguen a un arreglo sobre los puntos propuestos.
+La sentencia de divorcio fijará la situación de los hijos menores de edad para lo cual deberá contener las siguientes disposiciones:
+
+I.- Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos a convivir con ambos progenitores;
+
+II.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+
+III.- Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, misma que sólo deberá ser limitada o suspendida cuando exista riesgo para los menores;
+
+IV.- Tomando en consideración, en su caso, los datos recabados en términos del artículo 450 de este Código, el Juez de lo Familiar fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
+
+V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de las Leyes aplicables. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el Código de Procedimientos Civiles para el Estado;
+
+VI.- Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónguyes (sic), en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
+
+En caso de desacuerdo, el Juez de lo Familiar, en la sentencia de divorcio, habrá de resolver sobre la procedencia de la compensación que prevé el artículo 443 fracción VI, atendiendo a las circunstancias especiales de cada caso; y
+
+VII.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+
+Para lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento el Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a los menores.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 452.
 
-Si los cónyuges no llegaren a un arreglo en la junta a que se refiere el artículo anterior, o no asistieren a ella, el Juez en vista de las modificaciones propuestas al convenio, o sugeridas por el, decidirá lo que proceda, en atención al interés de los hijos.
+En caso de que los padres hayan acordado la guarda y custodia compartida en términos de lo establecido en la fracción II del apartado B del artículo 450 del presente Código, el Juez, en la sentencia de divorcio, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 453.
 
-Si el convenio no fuere aprobado no podrá decretarse el divorcio.
+El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
-#### Sección Cuarta.- Divorcio necesario
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 29 DE MARZO DE 2016)</small>
+
+#### Sección Cuarta
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 454.
 
-Son causas de divorcio:
+El Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
 
-I.- El adulterio de alguno de los cónyuges.
+I.- La edad y el estado de salud de los cónyuges;
 
-II.- El hecho de que la mujer dé a luz durante el matrimonio un hijo concebido antes de celebrarse aquél, y que judicialmente se declare que no es del marido;
+II.- Su calificación profesional y posibilidad de acceso a un empleo;
 
-III.- La perversión de alguno de los cónyuges demostrada por:
+III.- Duración del matrimonio y dedicación pasada y futura a la familia;
 
-a) La propuesta de un cónyuge para prostituir a su consorte, sea que aquél lo haya hecho directamente, sea que haya recibido cualquiera remuneración con el objeto expreso de que el cónyuge a quien se pretenda prostituir tenga relaciones sexuales con otra persona;
+IV.- Colaboración con su trabajo en las actividades del cónyuge;
 
-b) La incitación a la violencia hecha por un cónyuge a otro para cometer algún delito;
+V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
 
-c) El conato del marido o de la mujer para corromper a los hijos ya sean estos de ambos cónyuges, ya de uno solo, así como la tolerancia en su corrupción; o
+VI.- Las demás obligaciones que tenga el cónyuge deudor.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
 
-d) La imposición de la cópula con violencia y en contra de la voluntad de la mujer;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
-
-e) Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro; contra los hijos de ambos cónyuges o de uno solo, que hagan imposible la vida en común;
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
-
-f) La bigamia; o
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
-
-g) Algún otro hecho tan grave como los anteriores.
-
-IV.- Sufrir una enfermedad somática, crónica, que sea además contagiosa y hereditaria;
-
-V.- Haber sido declarado en estado de incapacidad por las causas enumeradas en la fracción II del artículo 42;
-
-VI.- El abandono injustificado del domicilio familiar por cualquiera de los consortes, durante seis meses consecutivos;
-
-VII.- La declaración de ausencia legalmente hecha;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
-
-VIII.- La sevicia, las amenazas, la difamación o injurias graves de un cónyuge para el otro, siempre que éstos y aquéllas sean de tal naturaleza, que hagan imposible la vida en común;
-
-IX.- La acusación calumniosa hecha por un cónyuge contra el otro por un delito, cualquiera que sea la pena que corresponda a éste;
-
-X.- Haber cometido uno de los cónyuges un delito que no sea político, pero si intencional, sancionado con una pena de prisión mayor de dos años;
-
-XI.- El alcoholismo crónico;
-
-XII.- El uso no terapéutico de enervantes, estupefacientes o psicotrópicos, o de cualquiera otra substancia que altere la conducta del individuo y que produzca farmacodependencia;
-
-XIII.- Cometer un cónyuge contra la persona o los bienes del otro, un hecho que sería punible de cometerlo una persona extraña, si tal hecho tiene señalada en la ley una pena que pase de un año de prisión;
-
-XIV.- La negativa injustificada a cumplir la obligación alimentaria respecto al otro cónyuge y a los hijos;
-
-XV.- Injuriar un cónyuge a otro, por escrito, en un juicio de nulidad de matrimonio o de divorcio, o imputar uno a otro, en tales juicios, hechos vergonzosos que afecten al decoro, honor o dignidad, cuando las injurias o imputaciones hagan imposible la vida en común;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
-
-XVI.- La separación de los cónyuges por más de dos años, independientemente del motivo que la haya originado; esta causal podrá ser invocada por cualquiera de ellos y no existirá cónyuge culpable, por lo que ambos interesados tendrán expeditos sus derechos para promover en otro juicio las acciones que procedan respecto a los derechos y obligaciones que hayan surgido en virtud del matrimonio, así como para resolver lo relativo a su régimen de bienes.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 455.
 
-Para hacer valer la causa de divorcio establecida en la fracción XIV del artículo anterior, no es necesario que previamente se haya exigido en juicio el cumplimiento de la obligación alimentaria.
+En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 456.
 
-La causal de divorcio a que se refiere la fracción XV del artículo 454 sólo existe cuando el autor de las injurias o imputaciones mencionadas en ella, no obtiene sentencia favorable en el juicio de nulidad de matrimonio o de divorcio en el que se hagan aquéllas.
+La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 457.
 
-El divorcio fundado en la causal a que se refiere el artículo anterior, sólo podrá demandarse pasados treinta días de la notificación de la última sentencia y durante este lapso los cónyuges no están obligados a vivir juntos.
+Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar, bajo su más estricta responsabilidad, remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que realice la anotación correspondiente en la del matrimonio disuelto.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 458.
 
-No puede demandar el divorcio necesario un cónyuge, fundándose en sus propios hechos, aun cuando éstos se encuentren comprendidos en las causales previstas por el artículo 454.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 459.
 
-El divorcio necesario debe demandarse por hechos que se imputen al cónyuge demandado, que sean causas legales de divorcio, y dentro de seis meses desde que hayan llegado al conocimiento del demandante, los hechos en que se funda la demanda.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 460.
 
-Cuando el divorcio necesario se base en causales de tracto sucesivo o de realización continuada, puede demandarse en cualquier tiempo.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 461.
 
-Cuando las causales enumeradas en las fracciones IV, V, XI y XII del artículo 454 no sean utilizadas como fundamento de divorcio, podrán, sin embargo, ser motivo para que el Juez, con conocimiento de causa, a instancia del cónyuge sano, y oyendo al otro, mande suspender, en cualquiera de dichos casos, el débito conyugal entre ellos y el deber de vivir juntos, subsistiendo los demás deberes y obligaciones para con el cónyuge enfermo.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 462.
 
-Las medidas establecidas en el artículo anterior se dictarán también a petición del cónyuge sano, cuando se manifiesten las causas de la incapacidad a que se refiere la fracción V del artículo 454.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 463.
 
-El Juez tendrá amplias facultades para determinar al momento de dictar la sentencia de divorcio, en su prudente arbitrio, tomando en cuenta las circunstancias especiales de cada caso oyendo a los cónyuges, a los menores y al Ministerio Público, la situación de los hijos; para lo cual, deberá resolver todo lo relativo a la custodia, guarda, derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso, para lo cual observará las siguientes:
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-I.- Deberá procurarse en lo posible el régimen de custodia compartida del padre y la madre, pudiendo los menores permanecer de manera plena e ilimitada con ambos padres, en caso de que algún ascendiente tuviese la custodia, el otro que no la posee después de los siete años, podrá demandar en lo posible, custodia para ambos padres, lo anterior en función de las posibilidades de éstos y aquéllos, así como que no exista, con alguno de los progenitores, peligro alguno para su normal desarrollo;
-
-II.- La recuperación de la patria potestad procederá únicamente en aquellos casos que por cuestiones alimentarias se haya perdido, siempre y cuando se acredite que se ha cumplido con dicha obligación, y
-
-III.- Lo mismo se observará respecto de la recuperación de la custodia.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 464.
 
-La determinación de un cónyuge culpable mediante sentencia de divorcio, no implica que necesariamente el Juez deba decretar la pérdida de los derechos que la patria potestad le confiere a aquél; pero sí estará obligado a negarle la custodia y guarda del menor, si el divorcio se basó en las causales enumeradas en las fracciones III, IV, V, XI y XII del artículo 454, sin perjuicio de los derechos de convivencia.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
-
-Cuando el divorcio se encuentre fundado en el supuesto previsto en el inciso e) de la fracción III del artículo 454, el cónyuge culpable perderá además de la patria potestad, los derechos de convivencia respecto de los menores.
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 465.
 
-No obstante lo dispuesto en los artículos anteriores, antes o después de que se provea definitivamente sobre la patria potestad, o tutela de los hijos, podrán acordar los Tribunales, a pedimento de los abuelos, tíos o hermanos mayores, cualquier providencia que se considere benéfica a los menores.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 466.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 467.
 
-El cónyuge que diere causa al divorcio, en relación a sus menores hijos quedará sujeto a lo que el Juez determine en la sentencia en términos del artículo 463 de éste Código.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
-###### Artículo 468
+###### Artículo 468.
 
-El cónyuge que en virtud del divorcio conserve la custodia de sus hijos, la perderá por las causas previstas en el artículo 628 de este Código.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 469.
 
-En los demás casos, si muere el cónyuge inocente y no hay ascendientes en quienes recaiga la patria potestad, se proveerá de tutor a los hijos.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 470.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte, o por otra persona en consideración a su matrimonio; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 471.
 
-La liquidación de la sociedad conyugal, si la hubiere y, en caso contrario, la división de los bienes comunes si hay éstos, se arreglarán por convenio entre las partes y a falta de convenio, se procederá como lo establecen los artículos 371 a 374 de este Código para la sociedad conyugal y el 1083 para la copropiedad, respectivamente.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 472.
 
-Los ex cónyuges tienen obligación de contribuir, en proporción de sus bienes, a la subsistencia y educación de sus hijos hasta que éstos lleguen a la mayoría de edad y, en su caso, hasta que terminen sus estudios profesionales; pero el derecho de las hijas a los alimentos subsiste, de acuerdo con lo dispuesto en artículo 500.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-#### Sección Quinta.- Derecho a alimentos y responsabilidad civil entre ex cónyuges
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MARZO DE 2016)</small>
+
+#### Sección Quinta
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 473.
 
-El derecho alimentario entre ex-cónyuges, en el caso de divorcio necesario, se rige por las siguientes disposiciones:
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-I.- La ex cónyuge inocente que carezca de bienes o que durante el matrimonio se haya encargado de las labores del hogar, o del cuidado de los hijos, o que esté imposibilitada para trabajar, tendrá derecho a alimentos.
-
-II.- El marido inocente sólo tendrá derecho a alimentos cuando carezca de bienes y esté imposibilitado para trabajar.
-
-III.- El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o no viva honestamente.
-
-IV.- En el caso de las causales enumeradas en las fracciones IV, V, XI y XII del artículo 454, salvo que se trate de enfermedades contagiosas contraídas culposamente, el ex cónyuge enfermo tendrá derecho a alimentos si carece de bienes y está imposibilitado para trabajar.
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 474.
 
-El ex cónyuge inocente tiene derecho además, a que el culpable lo indemnice por los daños y perjuicios que el divorcio le cause, siendo aplicable lo dispuesto en este Código sobre hechos ilícitos.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 475.
 
-En el caso de divorcio voluntario:
-
-I.- No procede la indemnización a que se refiere el artículo anterior;
-
-II.- Los ex cónyuges no tienen derecho a alimentos salvo en los siguientes casos:
-
-a) Cuando se establezcan por pacto expreso;
-
-b) Cuando siendo la mujer no tenga profesión u oficio y carezca de bienes;
-
-c) Cuando siendo el hombre carezca de bienes y esté imposibilitado para trabajar.
-
-III.- Cuando deba uno de los ex cónyuges dar alimentos al otro, se decretarán en la sentencia y no con posterioridad a ésta.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ### CAPITULO SEXTO.- PARENTESCO
 
@@ -20310,3 +20404,13 @@ P.O. 28 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+P.O. 29 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
