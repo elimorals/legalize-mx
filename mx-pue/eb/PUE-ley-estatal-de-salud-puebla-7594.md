@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2015-12-31"
+last_updated: "2016-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -805,6 +805,44 @@ El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones
 
 La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+La rehabilitación y el tratamiento en materia de salud mental se realizarán bajos (sic) los principios de equidad e imparcialidad, teniendo como objetivo principal la reinserción social de la persona con algún trastorno mental.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+###### ARTICULO 66 Bis.
+
+La promoción de la salud mental, comprende las estrategias concretas, en las que se involucran a los distintos sectores de la población y los prestadores de servicios de salud, encaminadas al desarrollo de mejores condiciones de salud mental individual y colectiva, priorizando la atención en primer nivel.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+###### ARTICULO 66 Ter.
+
+Los Programas de Salud Mental tienen el carácter prioritario y se basarán en la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación, seguimiento y fomento en esta materia.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+###### ARTICULO 66 Quáter.
+
+En la promoción de la salud mental tendrán prioridad las siguientes acciones:
+
+l. Coadyuvar en el diseño y ejecución de los programas de salud mental;
+
+II. Promover la difusión de acciones que procuran una vida saludable a través de actividades educativas, recreativas y cívicas;
+
+III. Motivar a la comunidad a la realización de acciones y proyectos que benefician a la Salud;
+
+IV. Apoyar y asesorar a Grupos de Autoayuda;
+
+V. Fortalecer las acciones comunitarias que aseguren factores de protección de la Salud Mental;
+
+VI. Diseñar y llevar a cabo campañas que reduzcan factores de riesgo de la Salud Mental;
+
+VII. Participar en acciones de atención a personas afectadas en situación de emergencia o desastre en el estado de Puebla, y
+
+VIII. Las demás necesarias para llevar a cabo las anteriores.
+
 ###### ARTICULO 67.
 
 Para la promoción de la salud mental, la Secretaría de Salud Pública del Estado y las Instituciones de Salud en coordinación con las Autoridades competentes en cada materia, fomentarán y apoyarán:
@@ -812,6 +850,10 @@ Para la promoción de la salud mental, la Secretaría de Salud Pública del Esta
 I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
 II. La difusión de las orientaciones para la promoción de la salud mental; la atención oportuna de los casos en niñio (sic), adolescentes y adultos y la asistencia al grupo familiar en problemas.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+Las campañas educativas tendrán como objetivo entre otros, orientar, motivar e informar a la población sobre el concepto de salud mental, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención y modos de atención.
 
 III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que pueden causar alteraciones mentales o dependencias, y
 
@@ -2573,7 +2615,7 @@ VI. Con la impugnación a que se refiere la fracción anterior, el interesado de
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de regulación la sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -3154,3 +3196,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Salud del Estado realizará las acciones correspondientes con el objeto de suscribir los convenios con los Ayuntamientos que determine para promover acciones referentes a rastros, unidades de sacrificio o mataderos, previendo en los mismos, lo relativo a la capacitación del personal para las labores en la materia.
 
 TERCERO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 66, LOS ARTÍCULOS 66 BIS, 66 TER Y 66 QUÁTER, Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 67, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
