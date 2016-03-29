@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2012-01-03"
+last_updated: "2016-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -367,7 +367,7 @@ En la última sesión ordinaria del Ayuntamiento saliente, el Cabildo nombrará 
 
 Para el proceso de entrega-recepción, se estará a lo dispuesto en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 26.
 
@@ -395,7 +395,7 @@ El Secretario Municipal del Cabildo se encargará de levantar el acta de la sesi
 
 DE LA SUSTITUCIÓN DE LOS AUSENTES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 27.
 
@@ -409,7 +409,7 @@ Se considerará válidamente instalado el Ayuntamiento, con la asistencia de la 
 
 #### SECCIÓN QUINTA. DE LA ENTREGA-RECEPCIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 28.
 
@@ -815,13 +815,17 @@ XII.- Reglamentar, vigilar y sancionar a los propietarios de los predios que los
 
 XIII.- Procurar dotar del equipamiento médico básico que sea necesario, conforme a la disponibilidad presupuestal, a fin de que la población pueda contar con una atención médica adecuada en casos de emergencia;
 
+> <small>(REFORMADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XIV.- Garantizar que las cárceles municipales cubran con los requisitos mínimos de salubridad e higiene;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XV.- Promover y coadyuvar con la certificación de los establecimientos dedicados al sacrificio de animales o que procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal de competencia municipal ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+
 > <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
 
-XIV.- Garantizar que las cárceles municipales cubran con los requisitos mínimos de salubridad e higiene, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XV.- Las demás que les asignen otras leyes en el ámbito de su competencia.
+XVI.- Las demás que les asignen otras leyes en el ámbito de su competencia.
 
 ###### Artículo 44.
 
@@ -1241,7 +1245,7 @@ V.- Las demás que le confiera la presente ley y los reglamentos municipales.
 
 No tendrán funciones ejecutivas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 17 DE AGOSTO DE 2011)</small>
 
 #### SECCIÓN DÉCIMA. DE LAS AUSENCIAS DE LOS REGIDORES
 
@@ -1627,7 +1631,7 @@ VII.- Calles, parques y jardines y su equipamiento;
 
 VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos del Reglamento correspondiente;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO</small>
+> <small>[N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 IX.- (DEROGADA, D.O. 25 DE MAYO DE 2006)
 
@@ -1635,7 +1639,7 @@ X.- El Catastro, y
 
 XI.- La autorización del uso del suelo y funcionamiento de establecimientos mercantiles.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 #### SECCIÓN SEGUNDA. DE LA MUNICIPALIZACIÓN
 
@@ -1747,7 +1751,7 @@ La concesión de servicios públicos podrá ser prorrogada hasta por plazos equi
 
 En caso de que la vigencia de la concesión exceda al período del Ayuntamiento, se establecerán las estipulaciones conforme a las cuales los Ayuntamientos subsecuentes ratifiquen, revisen y en su caso, modifiquen las condiciones establecidas para la misma.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O. 25 DE MAYO DE 2006)</small>
 
@@ -2119,7 +2123,7 @@ IV.- Un representante del fiduciario.
 
 Por cada integrante del Comité Técnico habrá un suplente que lo cubrirá en sus ausencias.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 17 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO I. DE LA INTEGRACIÓN DEL PATRIMONIO
 
@@ -2475,7 +2479,7 @@ Los inmuebles del dominio privado, podrán ser objeto de enajenación a propuest
 
 La desincorporación de bienes del dominio público y su cambio de uso o destino, sólo podrá realizarse previo acuerdo de las dos terceras partes del Cabildo. Dicho Acuerdo deberá contener los motivos suficientes para ese fin y sustentarse en un dictamen técnico.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 155.
 
@@ -2501,7 +2505,7 @@ Se podrá exceder los límites antes previstos cuando se destine a otros usos de
 
 VI.- La constancia que suscrita por el Presidente Municipal y el Síndico, en la que se establezca que el bien inmueble no está ni será destinado a la prestación de un servicio público;
 
-VII.- La respectiva de que el inmueble no reviste valor arqueológico, histórico o artístico, expedida por la institución competente, e (sic)
+VII.- La respectiva de que el inmueble no reviste valor arqueológico, histórico o artístico, expedida por la institución competente, e
 
 VIII.- Informar al Congreso de las enajenaciones autorizadas por el Cabildo en un plazo no mayor de treinta días;
 
@@ -3167,7 +3171,7 @@ El servidor público que resulte responsable, podrá interponer el recurso de re
 
 #### SECCIÓN PRIMERA. DE LAS INFRACCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 219.
 
@@ -3385,7 +3389,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 D.O. 25 DE MAYO DE 2006.
 
@@ -3444,3 +3448,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Se instruye al Poder Ejecutivo del Estado de Yucatán a que dentro de los 120 días posteriores a la publicación de este Decreto en el Diario Oficial del Gobierno del Estado, actualice y armonice las disposiciones reglamentarias correspondientes a las establecidas de (sic) este Decreto.
+
+D.O. 29 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 363/2016 POR EL QUE SE MODIFICAN LA LEY GANADERA DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
