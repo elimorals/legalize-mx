@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-la-agencia-de-administracion-fiscal-907
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-01"
-last_updated: "2015-02-12"
+last_updated: "2016-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE LA AGENCIA DE ADMINISTRACIÓN FISCAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MARZO DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de enero de 2013.
 
@@ -161,7 +161,9 @@ XVIII. Ordenar y substanciar el procedimiento administrativo de ejecución para 
 
 XIX. Ordenar la notificación de resoluciones, citatorios, requerimientos, solicitudes y cualquier otro acto administrativo que corresponda a la Agencia;
 
-XX. Emitir resoluciones de los recursos administrativos que se interpongan ante la Agencia, así como a las consultas y solicitudes de autorización que presenten los contribuyentes;
+> <small>(REFORMADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XX. Emitir resoluciones de los recursos administrativos que se interpongan ante la Agencia, así como de las consultas que presenten los contribuyentes;
 
 XXI. Autorizar la cancelación, para efectos administrativos, de las cuentas incobrables o incosteables de conformidad con las disposiciones aplicables;
 
@@ -185,7 +187,51 @@ XXVIII. Designar, en su caso, y expedir las credenciales o constancias de identi
 
 XXIX. Modificar o revocar las resoluciones administrativas desfavorables a los contribuyentes que emitan las unidades administrativas que dependan de él, y
 
-XXX. Las demás que le confieran la Junta de Gobierno y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXX. Resolver sobre las solicitudes de autorización para la instalación y operación de las casas de empeño, así como también respecto de las solicitudes de revalidación anual del estudio de cumplimiento y del permiso; por las modificaciones que se solicite del permiso, debido a cambios en la información proporcionada, al expedirse el permiso original; por la reposición del permiso otorgado o de la revalidación, en caso de extravío, robo o deterioro grave; y por la revalidación extemporánea del estudio de cumplimiento y del permiso;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXI. Ordenar, en la forma y términos que conforme a las leyes proceda, el aseguramiento o el embargo precautorio para garantizar el interés fiscal cuando así proceda;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXII. Ordenar la clausura preventiva de los establecimientos de los contribuyentes que no cumplan con las disposiciones fiscales federales coordinadas y estatales;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXIII. Ordenar la elaboración, aprobación, control, distribución y, en su caso, destrucción de las formas valoradas o numeradas;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXIV. Autorizar o negar, conforme a las disposiciones fiscales aplicables, las solicitudes de devolución o compensación de cantidades pagadas indebidamente por el contribuyente o las que estos determinen como saldo a su favor o cualquier otra que proceda conforme a las leyes;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXV. Autorizar el pago diferido o en parcialidades, de los créditos fiscales cuyo cobro le corresponda a la Agencia, en los términos de las leyes aplicables y previa garantía del interés fiscal cuando así proceda;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXVI. Ordenar el cobro de los reintegros o sanciones pecuniarias a servidores públicos que incurran en responsabilidad y, en su caso, los resarcimientos del daño, determinados conforme a la legislación aplicable, previo procedimiento administrativo de ejecución, en caso de ser necesario;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXVII. Determinar la responsabilidad solidaria respecto del pago de contribuciones por impuestos, derechos, contribuciones de mejoras, aprovechamientos y, en general, por cualquier crédito fiscal;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXVIII. Resolver las solicitudes de autorización previstas en las disposiciones fiscales.
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXIX. Resolver sobre las solicitudes de prescripción de créditos fiscales y extinción de las facultades de las autoridades fiscales;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XL. Ordenar la verificación de la documentación relativa al trámite de vehículos de procedencia extranjera y, en su caso, determinar las contribuciones y realizar el cobro de los adeudos de los propietarios o poseedores de automóviles que pretendan registrarse en el estado, sean de procedencia nacional o extranjera, y
+
+XLI. Las demás que le confieran la Junta de Gobierno y otras disposiciones legales aplicables.
 
 ###### Artículo 4.
 
@@ -363,7 +409,9 @@ VII. Aplicar los lineamientos aprobados por la Dirección General en los program
 
 VIII. Realizar actos de control de obligaciones para mantener actualizado los padrones de contribuyentes de impuestos estatales, municipales y federales coordinados, conforme a las leyes fiscales aplicables, a los convenios de coordinación fiscal federal y convenios con los municipios, y generar la información estadística de dichos padrones para la toma de decisiones de la Agencia;
 
-IX. Requerir a los contribuyentes la presentación de solicitudes, avisos, declaraciones y pagos a que estén obligados en materia de contribuciones estatales, municipales o federales coordinados, cuando los obligados no lo hayan realizado en los plazos y términos establecidos en las leyes fiscales aplicables, así como imponer las sanciones que deriven de dicho incumplimiento;
+> <small>(REFORMADA, D.O. 29 DE MARZO DE 2016)</small>
+
+IX. Requerir a los contribuyentes la presentación de solicitudes, avisos, declaraciones y pagos a que estén obligados en materia de contribuciones estatales, municipales o federales coordinados, cuando los obligados no lo hayan realizado en los plazos y términos establecidos en las leyes fiscales aplicables, así como determinar las contribuciones e imponer las sanciones que deriven de dicho incumplimiento;
 
 X. Solicitar a los contribuyentes la información necesaria para su inscripción en los padrones de contribuyentes o para la actualización de los mismos;
 
@@ -403,11 +451,11 @@ XXIV. (DEROGADA, D.O. 12 DE FEBRERO DE 2015)
 
 XXV. Vigilar el cumplimiento oportuno de los contribuyentes, responsables solidarios y demás obligados de presentar sus solicitudes, avisos y declaraciones de pago por impuestos estatales así como federales y municipales coordinados, y
 
-XXV. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables o le sean delegadas por el Director General.
+XXVI. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables o le sean delegadas por el Director General.
 
-> <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
 
-Las facultades establecidas en este artículo también serán ejercidas por el Director de Servicios al Contribuyenterespecto (sic) de contribuciones federales y municipales, cuando así proceda en términos del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal; convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el estado de Yucatán y de los convenios celebrados y que se celebren con los municipios.
+Las facultades establecidas en este artículo también serán ejercidas por el Director de Servicios al Contribuyente respecto de contribuciones federales y municipales, cuando así proceda en términos del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal; convenio de colaboración administrativa en materia fiscal federal y sus respectivos anexos, celebrados y que se celebren entre la Secretaría de Hacienda y Crédito Público y el estado de Yucatán y de los convenios celebrados y que se celebren con los municipios.
 
 ###### Artículo 11.
 
@@ -601,7 +649,13 @@ XIV. Requerir los avisos, manifestaciones y demás documentación que, conforme 
 
 XV. Ordenar y practicar visitas domiciliarias, de inspección, o de verificación, en el domicilio fiscal, establecimientos, sucursales, almacenes, locales, puestos fijos y semifijos en la vía pública del contribuyente, ubicados en el territorio del Estado, para comprobar el cumplimiento de las obligaciones relacionadas con la expedición de comprobantes fiscales, su inscripción en los registros de contribuyentes, la legal estancia de mercancías de procedencia extranjera y en general cualquier otro acto relacionado con el cumplimiento de las disposiciones fiscales, en los términos de la legislación respectiva;
 
-XVI. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades o por expedirlos sin que estos reúnan requisitos fiscales o cuando los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o reciba el servicios, en los términos de la legislación estatal, federal y del convenio de colaboración administrativa en materia fiscal federal y sus anexos;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE MARZO DE 2016)</small>
+
+XVI. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades o por expedirlos sin que estos reúnan requisitos fiscales o cuando los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o reciba el servicios, en los términos de la legislación estatal, federal y del convenio de colaboración administrativa en materia fiscal federal y sus anexos.
+
+> <small>(ADICIONADO, D.O. 29 DE MARZO DE 2016)</small>
+
+La clausura preventiva también aplicará para los establecimientos de los contribuyentes que no cubran el pago de los derechos por los servicios de autorización, registro y supervisión para la instalación y operación de casas de empeño, establecidos en el artículo 85-V de la Ley General de Hacienda del Estado de Yucatán;
 
 XVII. Resolver sobre las solicitudes de prórroga para la presentación de documentos, avisos, datos o informes que se requiera a los contribuyentes, durante el ejercicio de las facultades de comprobación;
 
@@ -655,7 +709,19 @@ XXXII. Realizar las acciones necesarias para dar cumplimiento a sentencias ejecu
 
 XXXIII. Conocer y proponer los términos de la resolución, para la autorización del Director General, de las solicitudes promovidas ante la Agencia, para revisar las resoluciones administrativas de carácter individual no favorables a los particulares, que deriven de actos realizados en el ejercicio de las atribuciones de esta, inclusive los realizados de conformidad con lo dispuesto por los convenios de coordinación fiscal federal, y
 
-XXXIV. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXIV. Tramitar y resolver sobre las solicitudes de autorización para la instalación y operación de las casas de empeño, así como también respecto de las solicitudes de revalidación anual del estudio de cumplimiento y del permiso; por las modificaciones que se solicite del permiso, debido a cambios en la información proporcionada, al expedirse el permiso original; por la reposición del permiso otorgado o de la revalidación, en caso de extravío, robo o deterioro grave; y por la revalidación extemporánea del estudio de cumplimiento y del permiso;
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXV. Ordenar y practicar en la forma y términos que conforme a las leyes proceda, el embargo y retiro de las máquinas a que se refiere el artículo 85-J de la Ley General de Hacienda del Estado, por la omisión del pago del derecho correspondiente, y
+
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXVI. Resolver las solicitudes de autorización previstas en las disposiciones fiscales.
+
+XXXVII. Las demás que en el ámbito de su competencia le confieran otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2015)</small>
 
@@ -725,7 +791,7 @@ XV. Designar a los funcionarios adscritos a su área, con el carácter de delega
 
 XVI. Coadyuvar en el análisis de los proyectos e iniciativas de carácter legislativo, en materias relacionadas con la competencia de la Agencia y de la Secretaría;
 
-XVII. Asistir en la elaboración de los manuales de organización, de procedimientos y de servicios al público que se consideren necesarios para el buen funcionamiento de la Agencia;
+XVII. (DEROGADA, D.O. 29 DE MARZO DE 2016)
 
 XVIII. Compilar las leyes, reglamentos, decretos, acuerdos y demás disposiciones fiscales, así como realizar estudios comparativos de los ordenamientos federales y de otras entidades federativas en la materia, con la finalidad de mantener actualizadas las disposiciones legales para el buen desempeño de la Agencia;
 
@@ -1298,5 +1364,17 @@ Segundo. Régimen de vigencia especial
 Las modificaciones al artículo 13 del Reglamento de la Ley de la Agencia de Administración Fiscal de Yucatán entrarán en vigor el 1 de abril de 2015.
 
 Tercero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 29 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 365/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE LA AGENCIA DE ADMINISTRACIÓN FISCAL DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
