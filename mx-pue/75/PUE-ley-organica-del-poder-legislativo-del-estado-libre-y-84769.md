@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2015-12-02"
+last_updated: "2016-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1025,7 +1025,9 @@ IX.- Establecer las políticas, lineamientos y estrategias de comunicación soci
 
 X.- Someter a consideración y acuerdo del Pleno, los nombramientos o remociones del Secretario General del Congreso del Estado, del Auditor Superior del Estado de Puebla, del Contralor Interno y del Titular del Instituto de Investigaciones Legislativos (sic), Financieras y Socioeconómicas; las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
 
-XI.- Nombrar y remover a los Directores Generales dependientes de la Secretaría General del Congreso, quienes otorgarán la protesta de Ley ante la propia Junta de Gobierno y Coordinación Política; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XI.- Nombrar y remover a los Directores Generales dependientes de la Secretaría General del Congreso, quienes otorgarán la protesta de Ley ante la propia Junta de Gobierno y Coordinación Política; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, así como a los de las Unidades, correspondientes, tomando en cuenta para ello lo dispuesto por la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
 
 XII.- Proponer para su aprobación en el Pleno, el Proyecto de Presupuesto Anual del Congreso, conforme lo dispone la ley de la materia;
 
@@ -2009,13 +2011,17 @@ II.- Dirección General de Administración y Finanzas;
 
 III.- Dirección General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos;
 
-IV.- Dirección General de Comunicación Social y Relaciones Públicas;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-V.- Dirección General de Atención Ciudadana; y
+IV.- Dirección General de Comunicación y Vinculación;
+
+V.- (DEROGADA, P.O. 29 DE MARZO DE 2016); y
 
 VI.- Unidad de Acceso a la Información.
 
-La Secretaría General, las Direcciones Generales y la Unidad, contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones, de conformidad con la presente Ley, su Reglamento Interior y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+
+La Secretaría General, las Direcciones Generales y las Unidades, contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones de conformidad con la presente Ley, su Reglamento interior y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 207.
 
@@ -2029,43 +2035,25 @@ III.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado p
 
 IV.- Poseer título de Licenciado en Derecho o de carreras afines, con antigüedad mínima de cinco años.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MARZO DE 2016)</small>
+
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE SERVICIOS LEGISLATIVOS
 
 ###### ARTÍCULO 208.
 
-La Dirección General de Servicios Legislativos es la Dependencia encargada del apoyo y dirección del procedimiento legislativo, cuya función es la prestación de los servicios de asistencia a la Mesa Directiva y de la Junta de Gobierno y Coordinación Política, el apoyo en las sesiones y reuniones a los Órganos Legislativos del Congreso. La Dirección del Diario de los Debates, la Gaceta Legislativa, el Archivo, Biblioteca y la Implementación de las Tecnologías de la Información. Sus atribuciones serán las conferidas por esta Ley y su Reglamento Interior.
-
-La Dirección General de Servicios Legislativos está a cargo de un Director General que será nombrado por la Junta de Gobierno y Coordinación Política con el voto de la mayoría a propuesta de su Presidente y de la misma forma podrá ser removido.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ###### ARTÍCULO 209.
 
-El Director General de Servicios Legislativos dependerá de la Secretaría General; coordinará sus actividades con los demás Órganos Legislativos, de Representación y Técnicos Administrativos.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ###### ARTÍCULO 210.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, contará con las áreas administrativas siguientes:
-
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
-
-I.- Coordinación de Servicios Legislativos y Vinculación Institucional;
-
-II.- Coordinación del Diario de Debates, Gaceta Legislativa, Archivo y Biblioteca; y
-
-III.- Coordinación de Tecnologías de la Información.
-
-La Dirección General de Servicios Legislativos, contará con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones, de conformidad con la presente Ley, su Reglamento Interior y demás ordenamientos aplicables.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ###### ARTÍCULO 211.
 
-Para ser Director General de Servicios Legislativos se requiere:
-
-I.- Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II.- Ser de notoria honradez y no haber sido sentenciado por delito doloso que amerite pena corporal, ni sancionado por responsabilidad administrativa;
-
-III.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado por cualquiera de los tres niveles de gobierno, para desempeñar un empleo, cargo o comisión en el servicio público; y
-
-IV.- Poseer título de Licenciado en Derecho o carreras afines, con antigüedad mínima de cinco años.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, FINANCIERAS Y SOCIOECONÓMICAS
 
@@ -2077,13 +2065,17 @@ Sus atribuciones son las conferidas por esta Ley, su Reglamento Interior y demá
 
 El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, se integra por especialistas que preferentemente cuenten con experiencia legislativa o de investigación; está a cargo de un Director General que será nombrado mediante concurso que defina la Junta de Gobierno y Coordinación Política con el voto de la mayoría absoluta de sus integrantes.
 
-El Director General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas desempeñará su encargo por el periodo de una Legislatura y podrá ser ratificado.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+
+El Titular de la Dirección General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas desempeñará su encargo por el periodo de una Legislatura y podrá ser ratificado.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 213.
 
-El Director General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, dependerá jerárquicamente de la Junta de Gobierno y Coordinación Política.
+El Titular de la Dirección General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, dependerá jerárquicamente de la Junta de Gobierno y Coordinación Política.
 
-El Director General del Instituto de Investigaciones Legislativa, Financieras y Socioeconómicas, debe velar por la imparcialidad de los servicios que presta al Congreso y observar en su actuación las disposiciones contenidas en esta Ley, su Reglamento Interior y demás disposiciones aplicables.
+El Titular de la Dirección General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, debe velar por la imparcialidad de los servicios que presta al Congreso y observar en su actuación las disposiciones contenidas en esta Ley, su Reglamento Interior y demás disposiciones aplicables.
 
 ###### ARTÍCULO 214.
 
@@ -2117,9 +2109,11 @@ VIII.- Instrumentar un programa editorial sobre las investigaciones y estudios r
 
 IX.- Las demás que le confiera la presente Ley, su Reglamento Interior y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 216.
 
-Para ser Director General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas se requiere:
+Para ser Titular de la Dirección General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -2129,15 +2123,27 @@ III.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado p
 
 IV.- Poseer los conocimientos, experiencia y capacidad de acuerdo al perfil del cargo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2016)</small>
+
+### CAPÍTULO VI. UNIDAD DE ATENCIÓN CIUDADANA
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+ARTÍCULO 216 BIS.- La Unidad de Atención Ciudadana, será la encargada de coadyuvar con las actividades de Gestión y Orientación derivadas de la Junta de Gobierno y Coordinación Política;
+
+El Titular de la Unidad de Atención Ciudadana, será nombrado y removido por la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+ARTÍCULO 216 TER.- La Unidad de Atención Ciudadana orgánicamente dependerá de la Junta de Gobierno y Coordinación Política.
+
 ### CAPÍTULO I. DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
-### CAPÍTULO II. DE LAS INICIATIVAS DE LEY DE INGRESOS, EGRESOS Y DE LA RECONDUCCIÓN PRESUPUESTAL
-
 ## TÍTULO SÉPTIMO. DE LOS MECANISMOS DE VINCULACIÓN CON OTROS PODERES
 
-### CAPÍTULO III. DEL INFORME DE GOBIERNO
+### CAPÍTULO II. DE LAS INICIATIVAS DE LEY DE INGRESOS, EGRESOS Y DE LA RECONDUCCIÓN PRESUPUESTAL
 
 ###### ARTÍCULO 217.
 
@@ -2159,7 +2165,7 @@ II.- El Congreso del Estado en el tercer periodo de sesiones, deberá incluir en
 
 Al concluir la gestión del Titular de la Auditoría Superior del Estado, de manera excepcional, el Poder Legislativo presentará Cuenta Pública Parcial por el periodo del primero de enero al día de conclusión de la gestión referida, la que deberá presentarse dentro de los quince días siguientes, para su examen, revisión, calificación y aprobación, en el Periodo Ordinario de Sesiones que transcurra, o en su caso, dentro de los primeros quince días del Periodo inmediato siguiente; y por el periodo restante de ese ejercicio, dicho Poder presentará Cuenta Pública Parcial, que se rendirá en términos de la Legislación aplicable.
 
-### CAPÍTULO IV. DE LAS COMPARECENCIAS
+### CAPÍTULO III. DEL INFORME DE GOBIERNO
 
 ###### ARTÍCULO 218.
 
@@ -2175,7 +2181,7 @@ Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del E
 
 El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
 
-### CAPÍTULO V. DE LAS PREGUNTAS LEGISLATIVAS
+### CAPÍTULO IV. DE LAS COMPARECENCIAS
 
 ###### ARTÍCULO 220.
 
@@ -2191,7 +2197,7 @@ El Congreso analizará, en sesiones subsecuentes, el informe presentado por el G
 
 > <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
-### CAPÍTULO VI. DE LAS OBSERVACIONES DEL PODER EJECUTIVO
+### CAPÍTULO V. DE LAS PREGUNTAS LEGISLATIVAS
 
 ###### ARTÍCULO 222.
 
@@ -2241,7 +2247,7 @@ En el supuesto de que alguno de los servidores públicos no comparezca ante el P
 
 > <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LAS OBSERVACIONES DEL PODER EJECUTIVO
 
 ###### ARTÍCULO 229.
 
@@ -2257,7 +2263,7 @@ Los medios de participación de democracia directa previstos en la Constitución
 
 > <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 232.
 
@@ -2272,6 +2278,8 @@ El nuevo dictamen deberá ser aprobado en la materia de las observaciones por el
 Se considerará que el Ejecutivo está conforme con el proyecto, cuando no lo devuelva con observaciones en el término de quince días naturales u ordene su publicación.
 
 ## TÍTULO OCTAVO. DE LOS PROCEDIMIENTOS ESPECIALES
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA
 
 ###### ARTÍCULO 234.
 
@@ -2478,3 +2486,13 @@ P.O. 2 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en las áreas de los órganos legislativos y administrativos a la entrada en vigor de la presente disposición materia del presente Decreto, se seguirán tramitando hasta su conclusión.
