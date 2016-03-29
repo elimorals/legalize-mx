@@ -4,7 +4,7 @@ identifier: "YUC-ley-ganadera-del-estado-de-yucatan-8244"
 country: "mx"
 rank: "ley"
 publication_date: "1972-10-16"
-last_updated: "2014-04-25"
+last_updated: "2016-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GANADERA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MARZO DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 16 de octubre de 1972.
 
@@ -169,7 +169,11 @@ XXXI.- Vigilar la pasteurización de la leche que se consuma en el Estado, a fin
 
 XXXII.- Organizar ferias, exposiciones, concursos y demás eventos para dar a conocer dentro y fuera del Estado los productos de la ganadería y avicultura.
 
-XXXIII.- Las demás atribuciones y obligaciones conferidas por esta Ley y sus Reglamentos.
+> <small>(ADICIONADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XXXIII.- Promover y coadyuvar con la certificación de los establecimientos dedicados al sacrificio de animales o que procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal de competencia estatal ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+XXXIV.- Las demás atribuciones y obligaciones conferidas por esta Ley y sus Reglamentos.
 
 ###### ARTICULO 7.
 
@@ -1598,3 +1602,15 @@ D.O. 25 DE ABRIL DE 2014.
 Artículo primero. Este decreto entrará en vigor a los 90 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+D.O. 29 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 363/2016 POR EL QUE SE MODIFICAN LA LEY GANADERA DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
