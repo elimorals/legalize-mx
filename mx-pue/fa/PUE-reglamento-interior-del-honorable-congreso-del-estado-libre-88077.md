@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2015-11-20"
+last_updated: "2016-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -975,9 +977,11 @@ Las discusiones se harán en lo general y después en lo particular.
 
 Para tal efecto, el Secretario dará lectura a los documentos conducentes, a menos que la lectura sea dispensada.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 70.
 
-En el supuesto que un Servidor Público asista a la Sesión de una Comisión o Comité, éste podrá imponerse del expediente respectivo en la Secretaría del Órgano Legislativo correspondiente, en la Secretaría General del Congreso del Estado, la Dirección General de Servicios Legislativos o en donde la primera instruya.
+En el supuesto que un Servidor Público asista a la Sesión de una Comisión o Comité, esté podrá imponerse del expediente respectivo en la Secretaría del Órgano Legislativo correspondiente, en la Secretaría General del Congreso del Estado, la Dirección General de Asuntos Jurídicos, de Estudios y Proyectos Legislativos o en donde la primera instruya.
 
 ###### ARTÍCULO 71.
 
@@ -1483,7 +1487,9 @@ Cuando un Diputado opte por la vía electrónica como lo establece el artículo 
 
 La firma electrónica es el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada a través de medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a que se refiere.
 
-Ésta es otorgada por la Secretaría General a través de la Dirección General de Servicios Legislativos del Congreso del Estado a cada uno de los Diputados.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+
+Ésta es otorgada por la Secretaría General a través de la Dirección General de Servicios Legislativos en coordinación con el área de Tecnologías de la Información del Congreso del Estado.
 
 ###### ARTÍCULO 152.
 
@@ -1565,7 +1571,9 @@ II.- El Grupo o Representación Legislativa, en el caso de asuntos presentados e
 
 III.- El Órgano Legislativo correspondiente, cuando lo solicite por escrito la mayoría de sus integrantes.
 
-El Presidente deberá informar a la Dirección General de Servicios Legislativos cuando realice una modificación del turno, para su publicación en la Gaceta.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+
+El Presidente deberá informar a la Secretaría General cuando realice una modificación del turno, y éste a la Dirección General de Servicios Legislativos para su publicación en la Gaceta.
 
 ###### ARTÍCULO 163.
 
@@ -1761,9 +1769,11 @@ XVIII.- Comisionar a servidores públicos del Congreso para que realicen las dil
 
 XIX.- Las demás que le señalen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, el presente Reglamento, el Estatuto del Servicio Profesional de Carrera Legislativa del Poder Legislativo del Estado o le asigne el Presidente de la Junta de Gobierno y Coordinación Política o la Mesa Directiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 178.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las siguientes Direcciones y Unidades Administrativas:
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las Direcciones y Unidad administrativas siguientes:
 
 I.- Dirección General de Servicios Legislativos;
 
@@ -1771,9 +1781,11 @@ II.- Dirección General de Administración y Finanzas;
 
 III.- Dirección General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos;
 
-IV.- Dirección General de Comunicación Social y Relaciones Públicas;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-V.- Dirección General de Atención Ciudadana; y
+IV.- Dirección General de Comunicación y Vinculación;
+
+V.- (DEROGADA, P.O. 29 DE MARZO DE 2016); y
 
 VI.- Unidad de Acceso a la Información.
 
@@ -1831,153 +1843,209 @@ XV.- Las demás que le requiera el Secretario General.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE SERVICIOS LEGISLATIVOS
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 181.
 
-Corresponde a la Dirección General de Servicios Legislativos:
+La Dirección General de Servicios Legislativos es el área dependiente de la Secretaría General del Honorable Congreso del Estado, cuya función es la prestación de los servicios de asistencia a la Mesa Directiva y Junta de Gobierno y Coordinación Política, así como el apoyo en las sesiones y reuniones a los Órganos Legislativos del Congreso; así como instrumentar las funciones correspondientes del Diario de Debates, la Gaceta Legislativa, y el Archivo y Biblioteca.
 
-I.- Actualizar el catálogo del acervo de la Biblioteca;
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
 
-II.- Elaborar Índices cronológicos y alfabéticos, de los expedientes que se archiven;
+ARTÍCULO 181 BIS.- Para ser Titular de la Dirección General de Servicios Legislativos se requiere:
 
-III.- Facilitar la entrega y verificar la devolución de los libros de la Biblioteca y del Archivo, así como de las Leyes, Decretos y toda clase de documentos que sean solicitados para su lectura en las Sesiones por los Diputados, sin permitir su salida del Congreso. De los libros y documentos que el público en general requieran (sic) para su consulta fuera de las instalaciones del Archivo y Biblioteca, se elaborará un recibo debidamente requisitado;
+I.- Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II.- Ser de notoria honradez y no haber sido sentenciado por delito doloso que amerite pena corporal, ni sancionado por responsabilidad administrativa;
+
+III.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado por cualquiera de los tres niveles de gobierno, para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+IV.- Poseer título de Licenciado en Derecho o carreras afines, con antigüedad mínima de cinco años.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+ARTÍCULO 181 TER.- Corresponde a la Dirección General de Servicios Legislativos:
+
+I.- Actualizar el catálogo del acervo de la biblioteca;
+
+II.- Elaborar índices cronológicos y alfabéticos, de los expedientes que se archiven;
+
+III.- Facilitar la entrega y verificar la devolución de los libros de la Biblioteca y del Archivo, así como de las Leyes, Decretos y toda clase de documentos que sean solicitados para su lectura en las Sesiones por los Diputados, sin permitir su salida del Congreso. De los libros y documentos que el público en general requiera para su consulta fuera de las instalaciones del Archivo y Biblioteca, se elaborará un recibo debidamente requisitado;
 
 IV.- Recabar mensualmente las Leyes, Decretos y Acuerdos que se publiquen en el Periódico Oficial del Estado y en el Diario Oficial de la Federación, mismos que serán encuadernados por semestres o por año;
 
 V.- Asistir a las Sesiones Públicas Ordinarias, Extraordinarias o Solemnes y a las Secretas, así como a las reuniones de Comisiones y Comités;
 
-VI.- Brindar asesoría y apoyo que requieran los miembros de la Legislatura y coadyuvar en la tarea de las Comisiones y de los Comités;
+VI.- Brindar la asesoría y apoyo que requieran los miembros de la Legislatura y coadyuvar en la tarea de las Comisiones y de los Comités;
 
 VII.- Realizar, a petición de los Presidentes de las Comisiones y Comités del Congreso, los citatorios para las Sesiones de aquéllos, atendiendo a los términos establecidos en el presente Reglamento;
 
 VIII.- Verificar la fidelidad de las versiones estenográficas de las Sesiones de Pleno del Congreso y de la Comisión Permanente para integrar el Diario de los Debates;
 
-IX.- Organizar y coordinar los foros de consulta aprobados por el Congreso, así como la agenda de eventos especiales de éste;
+IX.- Organizar y coordinar la logística, protocolo y ceremonia de los eventos de carácter institucional del Congreso, así como la agenda de eventos especiales de éste;
 
-X.- Llevar el registro (sic) las asistencias de los Diputados a las Sesiones de Comisiones y Comités, verificando la elaboración de las actas correspondientes de dichas reuniones;
+X.- Llevar el registro de las asistencias de los Diputados a las Sesiones de Comisiones y Comités, verificando la elaboración de las actas correspondientes de dichas reuniones;
 
-XI.- Compilar en el Archivo, las Minutas de Ley, Decretos y Acuerdos que sean aprobados en las Sesiones Ordinarias, Extraordinarias, Secretas, Solemnes y de la Comisión Permanente;
+XI.- Compilar en el Archivo, las Minutas de ley, Decretos y Acuerdos que sean aprobados en las Sesiones Ordinarias, Extraordinarias, Secretas, Solemnes y de la Comisión Permanente;
 
 XII.- Supervisar la edición de la Gaceta Legislativa del Congreso del Estado, en términos del presente Reglamento;
 
-XIII.- Establecer, conforme a las instrucciones del Presidente de la Junta de Gobierno y Coordinación Política, los vínculos de comunicación para las relaciones y enlace con los Poderes Federales, los del Estado y del Distrito Federal, los Congresos de las Entidades Federativas y la Asamblea Legislativa del Distrito Federal, universidades, instituciones de educación superior, asociaciones civiles y personas jurídicas públicas y privadas, en términos de lo previsto por la legislación aplicable;
+XIII.- Establecer, conforme a las instrucciones del Presidente de la Junta de Gobierno y Coordinación Política, los vínculos de comunicación para las relaciones y enlace con los Poderes Federales, los del Estado y los Congresos de las Entidades Federativas, Universidades, instituciones de educación superior, asociaciones civiles y personas jurídicas públicas y privadas en términos de lo previsto por la legislación aplicable;
 
-XIV.- Gestionar la celebración de convenios de colaboración con los Poderes de la Federación, del Estado o de otras Entidades Federativas y del Distrito Federal, así como con universidades, instituciones de educación superior, asociaciones civiles y personas jurídicas públicas y privadas;
+XIV.- Gestionar la celebración de convenios de colaboración con los Poderes de la Federación, del Estado o de otras Entidades Federativas, así como con universidades, instituciones de educación superior, asociaciones civiles y personas jurídicas públicas y privadas;
 
-XV.- Elaborar y supervisar los programas de modernización del sistema informático del Congreso, así como la asistencia técnica durante el desarrollo de las Sesiones del Pleno;
+XV.- Coadyuvar para el buen funcionamiento del sistema tecnológico durante el desarrollo de las Sesiones del Pleno;
 
-XVI.- Verificar e instrumentar la actualización del portal de Internet del Congreso, así como su óptimo funcionamiento para su consulta por parte de los Diputados, los servidores públicos del Poder Legislativo y la sociedad en general;
+XVI.- Verificar e instrumentar en el ámbito de su competencia la actualización del portal de Internet del Congreso para su consulta;
 
-XVII.- Coadyuvar en la elaboración, colocación o entrega de las distinciones que otorgue el Congreso del Estado; y
+XVII.- Coadyuvar en la elaboración, colocación o entrega de las distinciones que otorgue el Congreso del Estado;
 
-XVIII.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento o le encomienden el Presidente de la Junta (sic) Gobierno y Coordinación Política, la Mesa Directiva o el Secretario General.
+XVIII.- Prestar asistencia protocolaria y de apoyo a los Legisladores durante los eventos oficiales en los que participen; y
+
+XIX.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento o le encomienden el Presidente de la Junta de Gobierno y Coordinación Política, la Mesa Directiva o el Secretario General.
 
 ###### ARTÍCULO 182.
 
 La Dirección General de Servicios Legislativos contará con las Coordinaciones siguientes:
 
-I.- De Servicios Legislativos y Vinculación Institucional;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-II.- Del Diario de Debates, Gaceta Legislativa, Archivo y Biblioteca; y
+I.- De Servicios Legislativos;
 
-III.- De Tecnologías de la Información.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+II.- De Logística y Protocolo; y
+
+III.- (DEROGADA, P.O. 29 DE MARZO DE 2016)
 
 La Dirección General de Servicios Legislativos, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 183.
 
-La Coordinación de Servicios Legislativos y Vinculación Institucional tendrá las atribuciones siguientes:
+La Coordinación de Servicios Legislativos tendrá las atribuciones siguientes:
 
-I.- Realizar el vínculo de comunicación para las relaciones, enlace y coordinación con los Poderes Federales, los del Estado, con los Congresos de otras Entidades Federativas y la Asamblea Legislativa del Distrito Federal, así como con universidades, instituciones de educación superior, asociaciones civiles y personas jurídicas públicas y privadas, en el ámbito de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-II.- Gestionar los convenios de colaboración con los Poderes de la Federación, del Estado o de otras Entidades Federativas y del Distrito Federal, así como con universidades, instituciones de educación superior, asociaciones civiles y personas jurídicas públicas y privadas;
+I.- Realizar el vínculo de comunicación para las relaciones, enlace y coordinación con los Poderes Federales, los del Estado, con los Congresos de otras Entidades Federativas, así como con universidades, Instituciones de educación superior, asociaciones civiles y personas jurídicas públicas y privadas, en el ámbito de sus funciones;
 
-III.- Organizar e implementar los foros y eventos aprobados por el Congreso de Estado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-IV.- Proponer al Director General la realización de eventos que coadyuven a la eficaz realización de las funciones del Congreso del Estado;
+II.- Gestionar los convenios de colaboración con los Poderes de la Federación, del Estado o de otras Entidades Federativas, así como con universidades, instituciones de educación superior, asociaciones civiles y personas jurídicas públicas y privadas;
 
-V.- Elaborar y mantener actualizada la agenda de Sesiones y reuniones de Comisiones y Comités, de acuerdo con las instrucciones de los Diputados Presidentes de éstos o del Director General, informando a los interesados de cualquier modificación a la misma;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-VI.- Supervisar la integración de las actas correspondientes de las Sesiones de trabajo de las Comisiones y Comités, así como las versiones estenográficas de las Sesiones de Pleno y de la Comisión Permanente;
+III.- Proponer al Director General la realización de eventos que coadyuven a la eficaz realización de las funciones del Congreso del Estado;
 
-VII.- Realizar las invitaciones y convocatorias a los distintos Poderes, Organismos, Dependencias y Entidades, de la Federación, Entidades Federativas y Municipios, para su asistencia y participación en todos los eventos realizados por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-VIII.- Preparar y organizar los documentos de apoyo a los Diputados para las Sesiones o reuniones de Comisiones o Comités que celebre el Congreso; y
+IV.- Elaborar y mantener actualizada la agenda de Sesiones y reuniones de Comisiones y Comités, de acuerdo con las instrucciones de los Diputados Presidentes de éstos o del Director General, informando a los interesados de cualquier modificación a la misma;
 
-IX.- Las demás que le asigne el Director General.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+V.- Supervisar la integración de las actas correspondientes de las Sesiones de trabajo de las Comisiones y Comités, así como las versiones estenográficas de las Sesiones de Pleno y de la Comisión Permanente;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VI.- Preparar y organizar los documentos de apoyo a los Diputados para las Sesiones o reuniones de Comisiones o Comités que celebre el Congreso; y
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VII.- Proporcionar, por instrucciones del Director General y en el ámbito de su competencia, la información y documentación que le soliciten los Diputados o las diferentes áreas administrativas para el mejor cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VIII.- Supervisar la integración y elaboración del Diario de los Debates;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+IX.- Supervisar la integración, actualización y resguardo del Archivo y Biblioteca del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+X.- Coordinar la elaboración de la Gaceta Legislativa;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XI.- Mantener actualizada en el portal de Internet la agenda de los Órganos Legislativos, de acuerdo con las instrucciones de los Diputados Presidentes de éstos o del Director General, informando por el mismo medio la modificación a la misma;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XII.- Coordinar el resguardo electrónico de los audios de las Sesiones de los Órganos Legislativos; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XIII.- Las demás que le asigne el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 184.
 
-La Coordinación del Diario de Debates, Gaceta Legislativa, Archivo y Biblioteca tendrá las atribuciones siguientes:
+La Coordinación de Logística y Protocolo tendrá las atribuciones siguientes:
 
-I.- Proporcionar, por instrucciones del Director General, la información y documentación que le soliciten los Diputados o las diferentes áreas administrativas para el mejor cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-II.- Supervisar la integración y elaboración del Diario de los Debates;
+I.- Organizar y coordinar la logística, protocolo y ceremonial de los actos y eventos de carácter institucional del Congreso;
 
-III.- Supervisar la integración, actualización y resguardo del Archivo y Biblioteca del Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-IV.- Coordinar la elaboración de la Gaceta Legislativa; y
+II.- Coadyuvar en la elaboración, colocación o entrega de las distinciones que otorgue el Congreso del Estado;
 
-V.- Las demás que le asigne el Director General.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+III.- Realizar las invitaciones y convocatorias a los distintos Poderes, Organismos, Dependencias y Entidades, de la Federación, Entidades Federativas y Municipios, para su asistencia y participación en todos los eventos realizados por el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+IV.- Prestar asistencia técnica, protocolaria y de apoyo a los Legisladores durante los eventos oficiales en los que participen, dentro y fuera de las sedes del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+V.- Dirigir la recepción, ubicación y atención de invitados y visitantes distinguidos en el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VI.- Sugerir, en términos de Ley, la posible conformación y distribución de los integrantes del presídium;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VII.- Definir insumos, requerimientos y logística en base a las características de la ceremonia, acto o evento. Así como prever lo necesario con las instancias y áreas técnico administrativas correspondientes para su prestación;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VIII.- Crear y mantener vínculos de comunicación permanente con el personal que los Diputados designen, a fin de intercambiar la información necesaria para el cumplimiento de sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+IX.- Las demás que le asigne el Director General.
 
 ###### ARTÍCULO 185.
 
-La Coordinación de Tecnologías de la Información tendrá las atribuciones siguientes:
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-I.- Proporcionar, por instrucciones del Director General, la información y documentación que le soliciten los Diputados o las diferentes áreas administrativas para el cumplimiento de sus funciones;
-
-II.- Mantener actualizada en el portal de Internet la agenda de los Órganos Legislativos, de acuerdo con las instrucciones de los Diputados Presidentes de éstos o del Director General, informando por el mismo medio la modificación a la misma;
-
-III.- Apoyar a los usuarios internos del sistema de informática del Congreso del Estado, a través del soporte técnico necesario para asegurar la eficacia del mismo;
-
-IV.- Procurar el crecimiento virtual del sistema de informática del Congreso del Estado, a través de accesos y ligas con otros sistemas de información;
-
-V.- Coordinar el resguardo electrónico de los audios de las Sesiones de los Órganos Legislativos; y
-
-VI.- Las demás que le asigne el Director General.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 186.
 
-Asimismo, la Dirección General de Servicios Legislativos contará con cuatro Jefaturas de Departamento, las cuales tendrán las funciones siguientes:
-
-A. Jefatura de Logística:
+Asimismo, la Dirección General de Servicios Legislativos contará con la Jefatura de Departamento de Apoyo Legislativo, la cual tendrá las funciones siguientes:
 
 I.- Integrar los expedientes relativos de los Convenios en los que el Congreso del Estado sea parte;
 
-II.- Desarrollar e implementar la logística de los eventos organizados por el Congreso; y
+II.- Procesar la versión estenográfica de las Sesiones del Pleno y de la Comisión Permanente del Congreso;
 
-III.- Las demás que le asigne el Director General o los Coordinadores.
+III.- Elaborar el registro de las Leyes, Decretos y Acuerdos aprobados por el Congreso;
 
-B. Jefatura de Apoyo Legislativo:
+IV.- Elaborar y verificar la entrega, en su caso, de los citatorios para las Sesiones o reuniones de Comisiones o Comités, atendiendo a los términos establecidos en el presente Reglamento;
 
-I.- Procesar la versión estenográfica de las Sesiones del Pleno y de la Comisión Permanente del Congreso;
+V.- Elaborar e integrar al expediente respectivo, las actas correspondientes de las Sesiones de las Comisiones Generales, Especiales y Comités, cuidando que en ellos se cumpla con las formalidades correspondientes;
 
-II.- Elaborar el registro de las Leyes, Decretos y Acuerdos aprobados por el Congreso;
+VI.- Proporcionar, en el ámbito de su competencia, la información y documentación que le soliciten los Diputados o las diferentes áreas administrativas para el cumplimiento de sus funciones;
 
-III.- Elaborar y verificar la entrega, en su caso, de los citatorios para las Sesiones o reuniones de Comisiones o Comités, atendiendo a los términos establecidos en el presente Reglamento;
+VII.- Resguardar electrónicamente los audios de las Sesiones de los Órganos Legislativos;
 
-IV.- Elaborar e integrar al expediente respectivo, las actas correspondientes de las Sesiones de las Comisiones Generales, Especiales y Comités, cuidando que en ellos se cumpla con las formalidades correspondientes; y
+VIII.- Elaborar la edición, el formato y la revisión del Diario de los Debates y de la Gaceta Legislativa, para la actualización del sitio de Internet del Congreso; y
 
-V.- Las demás que le asigne el Director General o los Coordinadores.
-
-C. Jefatura de Información:
-
-I.- Proporcionar la información y documentación que le soliciten los Diputados o las diferentes áreas administrativas para el cumplimiento de sus funciones;
-
-II.- Apoyar a los usuarios internos del sistema de informática del Congreso del Estado, a través del soporte técnico necesario para asegurar la eficacia del mismo;
-
-III.- Resguardar electrónicamente los audios de las Sesiones de los Órganos Legislativos; y
-
-IV.- Las demás que le asigne el Director General o los Coordinadores.
-
-D. Jefatura de Diario de los Debates y Gaceta Legislativa:
-
-I.- Elaborar la edición del Diario de los Debates;
-
-II.- Elaborar el formato del Diario de los Debates, para la actualización del sitio de Internet del Congreso;
-
-III.- Colaborar en la integración y revisión del Diario de los Debates; y
-
-IV.- Las demás que le asigne el Director General o los Coordinadores.
+IX.- Las demás que le asigne el Director General o los Coordinadores.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS, DE ESTUDIOS Y DE PROYECTOS LEGISLATIVOS
 
@@ -1985,9 +2053,11 @@ IV.- Las demás que le asigne el Director General o los Coordinadores.
 
 La Dirección General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos es el área dependiente de la Secretaría General del Honorable Congreso del Estado, cuya función es apoyar, asesorar y asistir a los Diputados y a los Órganos Legislativos del Congreso en las sesiones y reuniones; asimismo, es considerada el área técnica y especializada en los asuntos jurídicos, análisis, estudios y proyectos legislativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 188.
 
-Para ser Director General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos, se requiere:
+Para ser Titular de la Dirección General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos, se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -2133,15 +2203,21 @@ IV.- Coadyuvar en la realización de los estudios y análisis jurídica (sic) qu
 
 V.- Las demás que le asigne el Director General o el Coordinador.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MARZO DE 2016)</small>
+
+### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN Y VINCULACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 194.
 
-La Dirección General de Comunicación Social y Relaciones Públicas, es el área dependiente de la Secretaría General del Honorable Congreso del Estado, cuya función es asesorar y asistir a los Órganos Legislativos a través de diversos mecanismos de comunicación social y estrategias de difusión de la actividad Legislativa.
+La Dirección General de Comunicación y Vinculación es el área dependiente de la Secretaría General del Honorable Congreso del Estado, cuya función es asesorar y asistir a los Órganos Legislativos a través de diversos mecanismos de comunicación externa e interna, estrategias de difusión de la actividad legislativa, así como vinculación institucional e interinstitucional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 195.
 
-Para ser Director General de Comunicación Social y Relaciones Públicas, se requiere:
+Para ser Titular de la Dirección General de Comunicación y Vinculación, se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -2149,21 +2225,33 @@ II.- Ser de notoria honradez y no haber sido sentenciado por delito doloso que a
 
 III.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado por cualquiera de los tres niveles de gobierno para desempeñar un empleo, cargo o comisión en el servicio público; y
 
-IV.- Poseer Título de Licenciado en Comunicación, Relaciones Públicas o afín con antigüedad mínima de cinco años.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+IV.- Poseer título profesional de algunas de las licenciaturas del área de humanidades o afines, y contar con experiencia probada en administración pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 196.
 
-Corresponde a la Dirección General de Comunicación Social:
+Corresponde a la Dirección General de Comunicación y Vinculación:
 
 I.- Asistir a las Sesiones Públicas Ordinarias, Extraordinarias o Solemnes, así como a las Sesiones y reuniones de Comisiones Generales, Especiales y Comités;
 
-II.- Organizar e implementar los servicios de información del Congreso;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-III.- Informar oportunamente sobre las actividades de la Legislatura y la gestión de los Diputados en los distintos Distritos de la Entidad, propiciando su eficaz divulgación, a través de los medios que tenga a su alcance, incluyendo la publicación del Boletín o Gaceta Legislativa, el sitio de Internet del Congreso, la celebración de conferencias de prensa y la realización de campañas de divulgación y posicionamiento del Poder Legislativo;
+II.- Coordinar los servicios de información del Congreso del Estado;
 
-IV.- Elaborar y ejecutar los programas de difusión de las actividades del Congreso del Estado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-V.- Proponer al Presidente de la Junta de Gobierno y Coordinación Política líneas de comunicación social y estrategias de difusión de la actividad Legislativa, abriendo los espacios necesarios al efecto;
+III.- Informar oportunamente sobre las actividades de la Legislatura y la gestión de los Diputados en los distintos Distritos de la Entidad, propiciando su eficaz divulgación, a través de los medios que tenga a su alcance, incluyendo la publicación del Boletín, Gaceta Legislativa y/o uso de medios de (sic) electrónicos y alternativos, el sitio de Internet del Congreso, la celebración de conferencias de prensa y la realización de campañas de divulgación y posicionamiento del Poder Legislativo;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+IV.- Elaborar y ejecutar un Plan de Comunicación Institucional del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+V.- Proponer al Presidente de la Junta de Gobierno y Coordinación Política líneas de comunicación social y estrategias de comunicación de la actividad legislativa, abriendo los espacios necesarios al efecto;
 
 VI.- Captar, analizar y procesar la información de los medios de comunicación, referentes a los acontecimientos de interés nacional, estatal y en lo particular de la Legislatura, con la finalidad de proponer líneas discursivas y acciones mediáticas;
 
@@ -2177,87 +2265,117 @@ X.- Establecer relación con los medios de comunicación televisivos, radiofóni
 
 XI.- Supervisar el diseño de la política de manejo de imagen del Congreso del Estado;
 
-XII.- Dirigir las relaciones públicas del Congreso;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-XIII.- Crear y supervisar la actualización del archivo en video y gráfico de los eventos y sesiones del Congreso; y
+XII.- Definir la estrategia de vinculación institucional e interinstitucional del Congreso del Estado, que se refleje en acercamientos con organizaciones de la sociedad civil organizada, organismos no gubernamentales, y los distintos actores sociales, con la finalidad de establecer nexos de colaboración de proyectos conjuntos;
 
-XIV.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento o le encomienden el Presidente de la Junta de Gobierno y Coordinación Política, la Mesa Directiva o el Secretario General.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XIII.- Crear y supervisar la actualización del archivo en video y gráfico de los eventos y sesiones del Congreso;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XIV.- Establecer los mecanismos de comunicación interna a fin de dar a conocer al personal del Congreso, las políticas de desarrollo humano, capacitación y vinculación social que se considere pertinente implementar; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XV.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento o le encomienden el Presidente de la Junta de Gobierno y Coordinación Política, la Mesa Directiva o el Secretario General.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 197.
 
-La Dirección General de Comunicación Social y Relaciones Públicas contará con las Coordinaciones siguientes:
+La Dirección General de Comunicación y Vinculación contará con las Coordinaciones siguientes:
 
-I.- Enlace con Medios; y
+I.- De Vinculación Institucional; y
 
-II.- Relaciones Públicas, Difusión e Imagen.
+II.- De Comunicación.
 
-La Dirección General de Comunicación Social y Relaciones Públicas, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
+La Dirección General de Comunicación y Vinculación, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 198.
 
-La Coordinación de Enlace con Medios tendrá las atribuciones siguientes:
+La Coordinación de Vinculación Institucional tendrá las atribuciones siguientes:
 
-I.- Establecer vínculos, por instrucciones del Director General, con los medios informativos televisivos, radiofónicos e impresos, tanto regionales, como estatales y nacionales, a efecto de concertar la eficaz cobertura y difusión de las actividades del Congreso del Estado y la gestión de los Diputados en los distintos Distritos de la Entidad;
+I.- Elaborar un planteamiento estratégico de vinculación institucional e interinstitucional que genere los acercamientos necesarios con los actores sociales pertinentes, con el objeto de establecer nexos de colaboración;
 
-II.- Coordinarse con la instancia correspondiente del Congreso del Estado para asegurar la presencia permanente de medios informativos en los eventos organizados por éste;
+II.- Realizar, por instrucciones del Director General y en coordinación con la instancia correspondiente, las acciones relativas al desarrollo de las relaciones de vinculación del Congreso del Estado;
 
-III.- Propiciar y organizar, por instrucciones del Director General, la celebración de entrevistas con los miembros del Congreso del Estado o servidores públicos del mismo, a fin de difundir las actividades propias de éste;
+III.- Coordinarse con la Dirección General de Servicios Legislativos, a fin de proyectar los foros y eventos especiales del Congreso del Estado;
 
-IV.- Proporcionar a los representantes de los medios de comunicación, por instrucciones del Director General, la información que le soliciten en relación con las actividades Legislativas;
+IV.- Proponer los mecanismos de fortalecimiento institucional que contribuyan a la mejora del ambiente laboral al interior de las áreas técnicas del Congreso del Estado; y
 
-V.- Elaborar, con las columnas de opinión, notas periodísticas, radiofónicas y televisivas y demás artículos similares, la síntesis informativa, que será distribuida de acuerdo a lo establecido por el Presidente de la Junta de Gobierno y Coordinación Política;
+V.- Las demás que le asigne el Secretario General y el Director General.
 
-VI.- Proponer al Director General los programas de difusión de las actividades del Congreso del Estado; y
-
-VII.- Las demás que le asigne el Secretario General y el Director General.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 199.
 
-La Coordinación de Relaciones Públicas, Difusión e Imagen tendrá las atribuciones siguientes:
+La Coordinación de Comunicación tendrá las atribuciones siguientes:
 
-I.- Desarrollar herramientas electrónicas o impresas que permitan la difusión permanente de las actividades del Congreso del Estado;
+I.- Elaborar el Plan de Comunicación Institucional del Congreso del Estado, utilizando de manera transversal las distintas herramientas de comunicación, con el objeto de posicionar las acciones del Congreso;
 
-II.- Elaborar los comunicados de prensa relativos a las actividades de la Legislatura y la gestión de los Diputados en los distintos Distritos de la Entidad, así como redactar los artículos que deberán difundirse en el Boletín y Gaceta Legislativa, el sitio de Internet del Congreso, en conferencias de prensa y en campañas de divulgación y posicionamiento del Congreso del Estado;
+II.- Establecer vínculos por instrucciones del Director General, con los medios informativos televisivos, radiofónicos e impresos, tanto regionales, como estatales y nacionales, a efecto de concertar la eficaz cobertura y difusión de las actividades del Congreso del Estado y la gestión de los Diputados en los distintos Distritos de la Entidad;
 
-III.- Proponer al Director General las acciones tendientes a promover ante los medios de comunicación la proyección de la imagen del Congreso y de los Diputados;
+III.- Coordinarse con la instancia correspondiente del Congreso del Estado para asegurar la presencia permanente de medios informativos en los eventos organizados por éste;
 
-IV.- Coordinarse con la Dirección General de Servicios Legislativos, a fin de promocionar los foros y eventos especiales organizados por éste;
+IV.- Propiciar y organizar, por instrucciones del Director General, la celebración de entrevistas con los miembros del Congreso del Estado o servidores públicos del mismo, a fin de difundir las actividades propias de éste;
 
-V.- Diseñar y proponer al Director General de Comunicación Social la política y planes de manejo de imagen del Congreso del Estado;
+V.- Proporcionar a los representantes de los medios de comunicación, por instrucciones del Director General, la información que le soliciten en relación con las actividades legislativas;
 
-VI.- Realizar, por instrucciones del Director General y en coordinación con la instancia correspondiente, las acciones relativas al desarrollo de las relaciones públicas del Congreso del Estado;
+VI.- Coordinar la elaboración de la síntesis informativa, así como notas periodísticas, radiofónicas, televisivas y demás artículos similares que deberán difundirse en el Boletín y Gaceta Legislativa, el sitio de Internet del Congreso, en conferencias de prensa y en campañas de divulgación y posicionamiento del Congreso del Estado;
 
-VII.- Integrar y actualizar de forma permanente el archivo en video y gráfico de los eventos y sesiones del Congreso del Estado; y
+VII.- Proponer al Director General los programas permanentes de difusión de las actividades del Congreso del Estado, tanto al interior del Órgano Legislativo y sus áreas técnicas, como aquellas de carácter institucional y/o social;
 
-VIII.- Las demás que le asigne el Secretario General y el Director General.
+VIII.- Coordinar y supervisar el correcto uso de la imagen institucional del Congreso del Estado;
+
+IX.- Integrar y actualizar de forma permanente el archivo en video y gráfico de los eventos y sesiones del Congreso del Estado; y
+
+X.- Las demás que le asigne el Secretario General y el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 200.
 
-Asimismo, la Dirección General de Comunicación Social contará con dos Jefaturas de Departamento, las cuales tendrán las funciones siguientes:
+Asimismo, la Dirección General de Comunicación y Vinculación contará con dos Jefaturas de Departamento, las cuales tendrán las funciones siguientes:
 
-A. Jefatura de Enlace con Medios:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
 
-I.- Integrar el archivo fotográfico y de video de las Sesiones de Comisiones y Comités, y de las Sesiones del Pleno y de la Comisión Permanente del Congreso, así como de los eventos que éste organice;
+A. Jefatura de Enlace Institucional:
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+I.- Dar seguimiento informativo a todas las actividades del Congreso del Estado, integrando además un archivo fotográfico y de video cuando sea requerido;
 
 II.- Concertar, por instrucciones de los Coordinadores o del Director General, entrevistas de los medios de comunicación con los miembros del Congreso del Estado o con servidores públicos del mismo;
 
 III.- Realizar el análisis y seguimiento de las notas periodísticas relativas al Congreso del Estado;
 
-IV.- Coadyuvar en la edición de las publicaciones periódicas, así como en la producción de programas de radio y televisión, relativos a las actividades del Congreso del Estado; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-V.- Las demás que le asigne el Secretario General, el Director General o los Coordinadores.
+IV.- Colaborar en la edición de las publicaciones periódicas, así como en la producción de programas de radio y televisión, relativos a las actividades del Congreso del Estado;
 
-B. Jefatura de Relaciones Públicas y Difusión:
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-I.- Coadyuvar en la elaboración de los comunicados de prensa y de la síntesis informativa, verificando su correcta distribución física y electrónica;
+V.- Elaborar los comunicados de prensa y la síntesis informativa, verificando su correcta distribución electrónica, así como organizar conferencias de prensa y campañas de divulgación y posicionamiento del Congreso del Estado; y
 
-II.- Actualizar permanentemente los comunicados y boletines de prensa del sitio de Internet del Congreso;
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
 
-III.- Colaborar en la organización de conferencias de prensa y de campañas de divulgación y posicionamiento del Congreso del Estado;
+VI.- Las demás que le asigne el Secretario General, el Director General o los Coordinadores.
 
-IV.- Elaborar editoriales sobre temas relevantes, así como el contenido de las publicaciones del Congreso; y
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
 
-V.- Las demás que le asigne el Secretario General, el Director General o los Coordinadores.
+B. Jefatura de Enlace con Medios:
+
+I.- Ejecutar el programa de vinculación institucional e interinstitucional del Congreso del Estado, garantizando el cumplimiento de éste mediante el fortalecimiento de los vínculos de colaboración con los diversos actores considerados;
+
+II.- Colaborar en la organización de los foros y eventos especiales del Congreso del Estado, así como coadyuvar en el desarrollo de éstos;
+
+III.- Elaborar y proponer las herramientas de fortalecimiento institucional que contribuyan al desarrollo de un adecuado clima laboral al interior del Congreso del Estado; y
+
+IV.- Las demás que le asigne el Secretario General, el Director General o los Coordinadores.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS
 
@@ -2265,9 +2383,11 @@ V.- Las demás que le asigne el Secretario General, el Director General o los Co
 
 La Dirección General de Administración y Finanzas es el área dependiente de la Secretaría General del Honorable Congreso del Estado, cuya función principal es administrar los recursos humanos, materiales y financieros propios del Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 202.
 
-Para ser Director General de Administración y Finanzas, se requiere:
+Para ser Titular de la Dirección General de Administración y Finanzas, se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -2313,9 +2433,17 @@ XIV.- Someter a consideración del Presidente de la Junta de Gobierno y Coordina
 
 XV.- Coadyuvar con las dependencias administrativas del Congreso del Estado, en el establecimiento de mecanismos de capacitación permanente para los servidores públicos legislativos;
 
-XVI.- Ejercer la política de control de asistencia y puntualidad del personal administrativo que al efecto se señale; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-XVII.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento o le encomienden el Presidente de la Junta de Gobierno y Coordinación Política, la Mesa Directiva o el Secretario General.
+XVI.- Ejercer la política de control de asistencia y puntualidad del personal administrativo que al efecto se señale;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XVII.- Coordinar las acciones institucionales de fomento a la perspectiva y transversalidad de género con enfoque de igualdad; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XVIII.- Las demás que le asignen la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, este Reglamento o le encomienden el Presidente de la Junta de Gobierno y Coordinación Política, la Mesa Directiva o el Secretario General.
 
 ###### ARTÍCULO 204.
 
@@ -2343,13 +2471,27 @@ X.- Establecer un programa de trabajo para la supervisión periódica del estado
 
 XI.- Detectar las necesidades en las diferentes áreas administrativas del Congreso del Estado, determinando su impacto en el presupuesto, para ponerlas en conocimiento del Director General;
 
-XII.- Elaborar, verificar y supervisar el proceso de nómina autorizada; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
-XIII.- Las demás que le asigne el Secretario General o el Director General.
+XII.- Elaborar, verificar y supervisar el proceso de nómina autorizada;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XIII.- Coordinar y vigilar las acciones de apoyo en materia de tecnologías de la información a las diferentes áreas de la organización;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XIV.- Coordinar las acciones institucionales que le asigne el Director General de fomento a la perspectiva y transversalidad de género con enfoque de igualdad; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XV.- Las demás que le asigne el Secretario General o el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 205.
 
-Asimismo, la Dirección General de Administración y Finanzas contará con tres Jefaturas de Departamento, las cuales tendrán las funciones siguientes:
+Asimismo, la Dirección General de Administración y Finanzas contará con cuatro Jefaturas de Departamento, las cuales tendrán las funciones siguientes:
 
 A. Jefatura de Presupuesto y Contabilidad:
 
@@ -2397,89 +2539,55 @@ VII.- Realizar programas de capacitación óptima para el personal; y
 
 VIII.- Las demás que le asigne el Secretario General, el Director General o el Coordinador.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+D. Jefatura de Tecnologías de la Información:
+
+I.- Proporcionar, por instrucciones del Director General, la información y documentación que le soliciten los Diputados o las diferentes áreas administrativas para el cumplimiento de sus funciones;
+
+II.- Apoyar a los usuarios internos del sistema de informática del Congreso del Estado, a través del soporte técnico necesario para asegurar la eficacia del mismo;
+
+III.- Procurar el crecimiento virtual del sistema de informática del Congreso del Estado, a través de accesos y ligas con otros sistemas de información; y
+
+IV.- Las demás que le asigne el Director General o el Coordinador Administrativo.
+
 ###### ARTÍCULO 206.
 
 La Dirección General de Administración y Finanzas, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
 
-### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE ATENCIÓN CIUDADANA
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2016)</small>
+
+### CAPÍTULO VI
 
 ###### ARTÍCULO 207.
 
-Para ser Director General de Atención Ciudadana, se requiere:
-
-I.- Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II.- Ser de notoria honradez y no haber sido sentenciado por delito doloso que amerite pena corporal;
-
-III.- No haber sido sentenciado por delitos patrimoniales, ni sancionado por responsabilidad administrativa o estar inhabilitado por cualquiera de los tres niveles de gobierno para desempeñar un empleo, cargo o comisión en el servicio público; y
-
-IV.- Poseer Título de Licenciatura con antigüedad mínima de cinco años.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ###### ARTÍCULO 208.
 
-Corresponde a la Dirección General de Atención Ciudadana las atribuciones siguientes:
-
-I.- Recibir las demandas e inquietudes de la ciudadanía;
-
-II.- Atender a quienes por la problemática de su necesidad, requieran orientación y atención personal;
-
-III.- Canalizar y efectuar el trámite correspondiente a las solicitudes planteadas por los ciudadanos en el ámbito de sus atribuciones, ante los Órganos Legislativos competentes;
-
-IV.- Recibir las dudas, sugerencias y comentarios de las principales necesidades de la población para canalizarlas a las instancias correspondientes;
-
-V.- Concertar reuniones con los Diputados a fin de atender a los ciudadanos;
-
-VI.- Mantener informado al ciudadano sobre el status que guarda la solicitud que haya hecho;
-
-VII.- Elaborar el manual de procedimientos de la Dirección;
-
-VIII.- Coordinarse con las áreas de los tres niveles de gobierno que promueven la participación ciudadana, para definir mecanismos de coordinación;
-
-IX.- Brindar asesoría y orientación profesional a personas, grupos y organizaciones sociales, canalizadas por los Diputados;
-
-X.- Coadyuvar en la atención y seguimiento de los asuntos que le sean turnados por el Comité de Gestorías y Quejas; y
-
-XI.- Las demás que le asigne el Presidente de la Junta de Gobierno y Coordinación Política, la Mesa Directiva, el Comité de Gestoría y Quejas o el Secretario General.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ###### ARTÍCULO 209.
 
-La Dirección General de Atención Ciudadana, para el desempeño de sus funciones, contará con una Coordinación de Atención Ciudadana, que tendrá las atribuciones siguientes:
-
-I.- Establecer vínculos, por instrucciones del Director General, con los tres niveles de gobierno para dar atención a las solicitudes presentadas;
-
-II.- Llevar un control de las diferentes acciones emprendidas y formular un informe estadístico de las mismas;
-
-III.- Atender a quienes por la problemática de su necesidad, requieran orientación y atención personal;
-
-IV.- Recibir y canalizar el trámite correspondiente a las solicitudes planteadas por los ciudadanos;
-
-V.- Recibir las dudas, sugerencias y comentarios de las principales necesidades de la población para canalizarlas a instancias correspondientes; y
-
-VI.- Las demás que le asigne el Secretario General y el Director General.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ###### ARTÍCULO 210.
 
-Asimismo, la Dirección General de Atención Ciudadana contará con una Jefatura de Departamento, misma que será de Seguimiento a la Atención Ciudadana, la cual tendrá las funciones siguientes:
-
-I.- Concertar, por instrucciones de los Coordinadores o del Director General, reuniones entre los Diputados y los ciudadanos para la atención de éstos;
-
-II.- Realizar el análisis y seguimiento de las solicitudes que realicen los ciudadanos;
-
-III.- Mantener informado al ciudadano sobre el status que guarda la solicitud que haya hecho, así como su viabilidad;
-
-IV.- Las demás que le asigne el Director General o el Coordinador.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ###### ARTÍCULO 211.
 
-La Dirección General de Atención Ciudadana, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
+(DEROGADO, P.O. 29 DE MARZO DE 2016)
 
 ### CAPÍTULO VII. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 212.
 
-La Unidad de Acceso a la Información es la instancia operativa encargada de coordinar el cumplimiento de la Ley de la materia, su Reglamento y demás disposiciones aplicables, así como fungir como vínculo entre los solicitantes y el Congreso del Estado y poner a disposición de los ciudadanos la información pública.
+La Secretaría General contará con una Unidad de Acceso a la Información, que será la instancia operativa encargada de coordinar el cumplimiento de la Ley de la materia, su Reglamento y demás disposiciones aplicables, así como fungir como vínculo entre los solicitantes y el Congreso del Estado y poner a disposición de los ciudadanos la información pública.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Titular de la Unidad acordará lo necesario con el Presidente de la Junta de Gobierno y Coordinación Política.
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Titular de la Unidad acordará lo conducente con el Secretario General.
 
 ###### ARTÍCULO 213.
 
@@ -2665,15 +2773,89 @@ VI.- Las demás que le asigne la Junta de Gobierno y Coordinación Política o e
 
 El Instituto de de (sic) Investigaciones Legislativas, Financieras y Socioeconómicas del Congreso del Estado, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2016)</small>
+
+## TÍTULO DÉCIMO BIS. UNIDAD DE ATENCIÓN CIUDADANA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+ARTÍCULO 230 BIS.- Para ser Titular de la Unidad de Atención Ciudadana, se requiere:
+
+I.- Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II.- Ser de notoria honradez y no haber sido sentenciado por delito doloso que amerite pena corporal;
+
+III.- No haber sido sentenciado por delitos patrimoniales, ni sancionado por responsabilidad administrativa o estar inhabilitado por cualquiera de los tres niveles de gobierno para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+IV.- Poseer título de Licenciatura con antigüedad mínima de cinco años.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+ARTÍCULO 230 TER.- En virtud de las funciones transversales en las áreas técnico administrativas, del origen de los trabajos legislativos y de gestión, la Unidad de Atención Ciudadana tendrá las siguientes atribuciones:
+
+I.- Coadyuvar con las actividades de gestión y orientación derivadas de la Junta de Gobierno y Coordinación Política;
+
+II.- Recibir las demandas e inquietudes de la ciudadanía;
+
+III.- Atender a quienes por la problemática de su necesidad, requieran orientación y atención personal;
+
+IV.- Canalizar y efectuar el trámite correspondiente a las solicitudes planteadas por los ciudadanos en el ámbito de sus atribuciones, ante los Órganos Legislativos competentes;
+
+V.- Recibir las dudas, sugerencias y comentarios de las principales necesidades de la población para canalizarlas a las instancias correspondientes;
+
+VI.- Concertar reuniones con los Diputados a fin de atender a los ciudadanos;
+
+VII.- Mantener informado al ciudadano sobre el status que guarda la solicitud que haya hecho;
+
+VIII.- Elaborar el manual de procedimientos de la Unidad;
+
+IX.- Coordinarse con las áreas de los tres niveles de gobierno que promueven la participación ciudadana, para definir mecanismos de coordinación;
+
+X.- Brindar asesoría y orientación profesional a personas, grupos y organizaciones sociales, canalizadas por los Diputados;
+
+XI.- Coadyuvar en la atención y seguimiento de los asuntos que le sean turnados por el Comité de Gestoría y Quejas; y
+
+XII.- Las demás que le asigne la Mesa Directiva, el Comité de Gestoría y Quejas o el Secretario General.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+ARTÍCULO 230 QUATER.- La Unidad de Atención Ciudadana para el desempeño de sus funciones, contará con una Coordinación de Atención Ciudadana, que tendrá las atribuciones siguientes:
+
+I.- Establecer vínculos, por instrucciones del Titular de la Unidad, con los tres niveles de gobierno para dar atención a las solicitudes presentadas;
+
+II.- Llevar un control de las diferentes acciones emprendidas y formular un informe estadístico de las mismas;
+
+III.- Atender a quienes por la problemática de su necesidad, requieran orientación y atención personal;
+
+IV.- Recibir y canalizar el trámite correspondiente a las solicitudes planteadas por los ciudadanos;
+
+V.- Recibir las dudas, sugerencias y comentarios de las principales necesidades de la población para canalizarlas a las instancias correspondientes; y
+
+VI.- Las demás que le asigne la Junta de Gobierno y Coordinación Política y el Titular de la Unidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+ARTÍCULO 230 QUINQUIES.- Asimismo, la Unidad de Atención Ciudadana contará con una Jefatura de Departamento, misma que será de Seguimiento a la Atención Ciudadana, la cual tendrá las funciones siguientes:
+
+I.- Concertar, por instrucciones de los Coordinadores o del Titular de la Unidad, reuniones entre los Diputados y los ciudadanos para la atención de éstos;
+
+II.- Realizar el análisis y seguimiento de las solicitudes que realicen los ciudadanos;
+
+III.- Mantener informado al ciudadano sobre el status que guarda la solicitud que haya hecho, así como su viabilidad; y
+
+IV.- Las demás que le asigne el Titular de la Unidad o el Coordinador.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
+
+ARTÍCULO 230 SEXIES.- La Unidad de Atención Ciudadana, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
+
 ## TÍTULO DÉCIMO PRIMERO. DE LOS SERVIDORES PÚBLICOS
 
 ### CAPÍTULO ÚNICO
-
-## TÍTULO DÉCIMO SEGUNDO. DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA
-
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 231.
 
@@ -2723,9 +2905,11 @@ En casos excepcionales y debidamente justificados, el servidor público podrá h
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2013)</small>
 
-## TÍTULO DÉCIMO TERCERO. DE LOS PROCEDIMIENTOS ESPECIALES
+## TÍTULO DÉCIMO SEGUNDO. DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 241.
 
@@ -2736,6 +2920,10 @@ La Auditoría Superior del Estado de Puebla, depende directamente del Congreso d
 ###### ARTÍCULO 242.
 
 Para lo relativo a las obligaciones, atribuciones y labores de la Auditoría Superior del Estado de Puebla y de sus servidores públicos, se observará lo prescrito en la Constitución Política del Estado Libre y Soberano de Puebla, en la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, en el Reglamento Interior de la Auditoría Superior del Estado de Puebla y demás ordenamientos aplicables.
+
+## TÍTULO DÉCIMO TERCERO. DE LOS PROCEDIMIENTOS ESPECIALES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 243.
 
@@ -2859,14 +3047,12 @@ SEGUNDO. Los asuntos en trámite que se encuentren turnados a la Comisión Espec
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 170.- POR EL QUE SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 46 Y LA FRACCIÓN VI DEL ARTÍCULO 50 DE LA LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+P.O. 29 DE MARZO DE 2016.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-TERCERO. El Ejecutivo contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones necesarias al Reglamento de esta Ley.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-CUARTO. En tanto se expidan las disposiciones reglamentarias y administrativas correspondientes se aplicarán las vigentes que no sean contrarias a las previstas en esta Ley.
-
-QUINTO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+TERCERO. Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en las áreas de los órganos legislativos y administrativos a la entrada en vigor de la presente disposición materia del presente Decreto, se seguirán tramitando hasta su conclusión.
