@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2016-02-18"
+last_updated: "2016-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MARZO DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -9245,9 +9245,9 @@ c) Dirección de Normatividad, Quejas y Responsabilidades.
 
 5. Jefatura de Inconformidades, Sanciones y Conciliaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE MARZO DE 2016)</small>
 
-II. Director General del Sector Estatal y Paraestatal:
+II. Dirección General del Sector Estatal y Paraestatal:
 
 a) Director de Auditoría al Sector Centralizado.
 
@@ -9271,15 +9271,15 @@ c) Unidad de Control y Auditoría de Gestión, de quien dependerán los Comisari
 
 1. a 4 ... (sic)
 
-d) Dirección de Asuntos Jurídicos de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal.
+> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
 
-1. Jefe del Departamento de Asuntos Jurídicos de Auditoría en el Sector Paraestatal;
+d) Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal.
 
-2. Jefe del Departamento de Asuntos Jurídicos de Auditoría en el Sector Centralizado, y
+1. Jefatura del Departamento de Asuntos Jurídicos en el Sector Centralizado;
 
-> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
+2. Jefatura del Departamento de Asuntos Jurídicos en el Sector Paraestatal, y
 
-3. Jefe del Departamento de Control y Registro de Situación Patrimonial.
+3. Jefatura del Departamento de Control y Registro de Situación Patrimonial.
 
 III. Director de Administración.
 
@@ -10113,7 +10113,9 @@ IX. Controlar las intervenciones en las que los órganos de control interno part
 
 X. Establecer los criterios y formatos necesarios para el eficiente desempeño apropiado de la Dirección, así como proporcionar los resultados de las evaluaciones de las actividades de la Dirección que le soliciten sus superiores, la Unidad de Acceso a la Información, la Dirección de Administración o la unidad administrativa que tenga competencia para ello;
 
-XI. Supervisar que los órganos de control interno lleven el seguimiento de sus asuntos turnados a las direcciones de Normatividad, Quejas, y Responsabilidades; y de Asuntos Jurídicos de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, hasta su resolución definitiva;
+> <small>(REFORMADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XI. Supervisar que los órganos de control interno lleven el seguimiento de sus asuntos turnados a las direcciones de Normatividad, Quejas, y Responsabilidades, y de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal, hasta su resolución definitiva;
 
 XII. Promover la capacitación y adiestramiento del personal de las Contralorías Internas en el ámbito de su competencia, así como del personal a su cargo; y para tal efecto deberá integrar y someter a autorización de su superior el Programa Anual de Capacitación del Personal de Auditoría. Asimismo, solicitar apoyo de otras unidades administrativas competentes de esta Secretaría;
 
@@ -10153,9 +10155,11 @@ XXVII. Coordinar, integrar e interrelacionar a los Órganos de Control Interno c
 
 XXVIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE MARZO DE 2016)</small>
+
 ###### Artículo 540.
 
-A la Dirección de Auditoría al Sector Paraestatal, le corresponde el despacho de los siguientes asuntos:
+Al Director de Auditoría al Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
 
 I. Acordar con su superior inmediato la resolución de los asuntos relevantes cuya tramitación se encuentre dentro del ámbito de su competencia;
 
@@ -10177,7 +10181,9 @@ IX. Vigilar las intervenciones en las que los Órganos de Control Interno partic
 
 X. Establecer los criterios y formatos necesarios para el eficiente desempeño de esta Dirección, así como proporcionar los resultados de las evaluaciones periódicas de las actividades de la Dirección que le soliciten sus superiores, la Dirección de Administración o la unidad administrativa que tenga competencia para ello;
 
-XI. Supervisar que los Coordinadores de Sector y los Órganos de Control Interno lleven el seguimiento de sus asuntos turnados a las direcciones de Normatividad, Quejas y Responsabilidades; y de Asuntos Jurídicos de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, hasta su resolución definitiva;
+> <small>(REFORMADA, D.O. 29 DE MARZO DE 2016)</small>
+
+XI. Supervisar que los coordinadores de sector y los órganos de control interno lleven el seguimiento de sus asuntos turnados a las direcciones de Normatividad, Quejas y Responsabilidades, y de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal hasta su resolución definitiva;
 
 XII. Promover la capacitación y adiestramiento del personal que la conforma y de las Contralorías Internas de su ámbito de competencia, así como del personal a su cargo; y para tal efecto deberá integrar y someter a autorización de su superior el Programa Anual de Capacitación del Personal de Auditoría. Asimismo solicitar apoyo de otras unidades administrativas competentes de la Secretaría;
 
@@ -10269,211 +10275,187 @@ XXII. Asesorar técnica y operativamente en asuntos que le encomiende su superio
 
 XXIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
+
 ###### Artículo 542.
 
-Al Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal le corresponde el despacho de los siguientes asuntos:
+Al Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer a su superior la emisión de normas de carácter general, lineamientos y políticas que rijan el funcionamiento del sistema de control y evaluación de la gestión gubernamental en las dependencias y entidades;
+I. Intervenir, en el ámbito de su competencia, y previa orden de su superior jerárquico, en los procesos de entrega-recepción y transferencias que deriven de cambios estructurales de las dependencias y entidades de la Administración Pública estatal;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+II. Opinar, en el ámbito de competencia de la contraloría, respecto a los anteproyectos de reglamentos interiores, estatutos orgánicos y manuales de organización que propongan los titulares de las dependencias y entidades, y que estén relacionados con cambios de organización y procedimientos, cuando así se lo soliciten;
 
-II. Fundamentar las opiniones que corresponden emitir a la Dirección General del Sector Estatal y Paraestatal en el ámbito de su competencia, cuando se lo soliciten las unidades administrativas respectivas, en cuanto se refieran a los manuales de procedimientos que propongan los titulares de las dependencias y entidades, para la aplicación de recursos estatales;
+III. Fundamentar las opiniones que corresponden emitir a la Dirección General del Sector Estatal y Paraestatal en el ámbito de su competencia, cuando se lo soliciten las unidades administrativas respectivas;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+IV. Atender, previa orden de su superior jerárquico, las solicitudes y recomendaciones emitidas por la Comisión de Derechos Humanos del Estado de Yucatán cuyo conocimiento competa a la Dirección General del Sector Estatal y Paraestatal;
 
-III. Fijar, sistematizar, unificar y difundir los criterios de interpretación y de aplicación de las leyes y de otras disposiciones jurídicas que normen el funcionamiento de la Dirección General del Sector Estatal y Paraestatal;
+V. Formular, revisar y someter a la consideración de su superior jerárquico los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones legales de su competencia en los que se le solicite su participación;
 
-IV. Formular, revisar y someter a la consideración de su superior, los anteproyectos de leyes, reglamentos, decretos y acuerdos de su competencia;
+VI. Representar legalmente al Director General del Sector Estatal y Paraestatal y al secretario en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención y que se encuentren dentro del ámbito de su competencia;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VII. Asesorar jurídicamente a las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal, actuar como órgano de consulta y realizar los estudios e investigaciones jurídicos que requiera el desarrollo de sus atribuciones;
 
-V. Representar legalmente al Director General del Sector Estatal y Paraestatal y al Secretario en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención;
+VIII. Coordinarse con la Dirección de Normatividad, Quejas y Responsabilidades en la atención y respuesta a las consultas jurídicas planteadas por los órganos de control interno, así como por las diversas unidades administrativas de la Dirección General del Sector Estatal y Paraestatal, respecto a las materias de adquisiciones, arrendamientos, prestación de servicios, obra pública, entrega-recepción e interpretación de leyes, manuales y reglamentos en los que la contraloría tenga dicha atribución;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+IX. Otorgar asesoría jurídica en las investigaciones que realicen los órganos de control interno;
 
-VI. Asesorar jurídicamente a las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal; y actuar como órgano de consulta y realizar los estudios e investigaciones jurídicos que requiera el desarrollo de las atribuciones de la misma;
+X. Coordinar la difusión en los órganos de control interno de los criterios de interpretación en materia de normatividad estatal, con el objeto de que las observaciones contenidas en las auditorías que practican, así como sus revisiones e investigaciones, cuenten con el debido sustento legal, con la finalidad de homologar y difundir criterios en la interpretación de la normatividad aplicable;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XI. Compilar y promover la difusión de las normas jurídicas relacionadas con las funciones de la Dirección General del Sector Estatal y Paraestatal;
 
-VII. Coordinarse con la Dirección de Normatividad, Quejas y Responsabilidades en la atención y respuesta a las consultas jurídicas planteadas por los Órganos de Control Interno, así como las diversas unidades administrativas de la Dirección General del Sector Estatal y Paraestatal, respecto a las materias de adquisiciones arrendamientos y prestación de servicios, obra pública, entrega-recepción e interpretación de leyes, manuales y reglamentos en los que la Contraloría tenga dicha atribución;
+XII. Revisar, en el aspecto jurídico, los convenios y contratos en los que la contraloría sea parte en el ámbito estatal o que se formalicen con los municipios;
 
-VIII. Coordinar el control y seguimiento de los avances de las investigaciones que realicen los Órganos de Control Interno;
+XIII. Solicitar a los órganos de control interno información y documentación con el objeto de instruir los recursos de revocación que se promuevan en contra de las resoluciones que se emitan;
 
-IX. Coordinar con sus jefaturas la difusión en los Órganos de Control Interno, los criterios de interpretación en materia de normatividad estatal, con el objeto de que las observaciones contenidas en las auditorías que practican, así como sus revisiones e investigaciones cuenten con el debido sustento legal, con la finalidad de homologar y difundir criterios en la interpretación de la normatividad aplicable;
+XIV. Instruir los recursos de revocación que se promuevan en contra de las resoluciones de procedimientos disciplinarios de responsabilidad administrativa que emitan los órganos de control interno, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas de la contraloría;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XV. Practicar, en coordinación con el personal a su cargo o el que sea designado por el Director General del Sector Estatal y Paraestatal, las actuaciones, diligencias y notificaciones que requiera el seguimiento y despacho de los asuntos de su competencia, así como citar a comparecer, en cualquier momento, a las personas que considere conveniente para que aporten información tendiente al esclarecimiento de las investigaciones que le sean turnadas, de conformidad con la legislación aplicable;
 
-X. Compilar y promover la difusión de las normas jurídicas relacionadas con las funciones de la Dirección General del Sector Estatal y Paraestatal;
+XVI. Presentar, en el ámbito de su competencia y previo acuerdo con su superior jerárquico, las denuncias o querellas ante el Ministerio Público del fuero común cuando, derivadas de actos de auditoría o revisión practicados por los órganos de control interno, se presuma la existencia de conductas delictivas cometidas por servidores públicos de la Administración Pública estatal;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XVII. Instrumentar los informes previo y justificado, y elaborar alegaciones como tercero perjudicado en los juicios de amparo que deriven de actos y resoluciones emitidas por los órganos de control interno o de la resolución de los recursos de revocación promovidos contra estos;
 
-XI. Revisar, en el aspecto jurídico, los convenios y contratos que deba suscribir la Dirección General del Sector Estatal y Paraestatal o que se refieran asuntos competencia de la misma;
+XVIII. Coordinarse con la Fiscalía General del Estado para la investigación de los delitos del orden común que se detecten en las acciones operativas de la contraloría, coadyuvando en representación de esta en los procedimientos penales, políticos y administrativos correspondientes;
 
-XII. Coordinar criterios en la resolución de recursos administrativos de su competencia;
+XIX. Coordinar la integración del padrón de servidores públicos obligados a presentar la declaración de situación patrimonial, llevar el registro de su cumplimiento, de conformidad con la legislación aplicable, y brindar asesoría y capacitación para el cumplimiento de dicha obligación;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XX. Coordinar la integración del padrón de servidores públicos obligados a presentar la declaración de situación patrimonial, llevar el registro de estos documentos, de conformidad con la legislación aplicable, y brindar asesoría y capacitación para el cumplimiento de dicha obligación;
 
-XIII. Instruir los recursos de revocación y demás recursos administrativos que le corresponda conocer a la Dirección General del Sector Estatal y Paraestatal, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas de esta Secretaría o de sus órganos desconcentrados;
+XXI. Proponer a los demás sujetos obligados a presentar declaración de situación patrimonial, así como analizar los puestos, cargos o comisiones cuyos titulares deban ser sujetos de la referida obligación, con base en la información que para tal efecto remitan las áreas de recursos humanos o sus equivalentes en las dependencias y entidades de la Administración Pública estatal;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XXII. Proponer los sujetos obligados que deben presentar su declaración de situación patrimonial, con base en el análisis de puestos, cargos o comisiones y la información que para tal efecto remitan las áreas de recursos humanos o sus equivalentes de las dependencias y entidades de la Administración Pública estatal;
 
-XIV. Instruir los recursos de revisión que se interpongan en contra de actos o resoluciones de las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal y someterlos a consideración del superior jerárquico que les corresponda, con excepción de los que conforme a este Reglamento competa sustanciar a otras autoridades de esta Secretaría, así como proponer los proyectos de resolución a dichos recursos;
+XXIII. Proponer a su superior jerárquico las normas y contenido de los formatos bajo los cuales deberán declarar su situación patrimonial los servidores públicos, así como los instructivos y manuales correspondientes;
 
-XV. Presentar, en el ámbito de su competencia y previo acuerdo de su superior jerárquico, las denuncias o querellas ante el Ministerio Público, y en su caso, el H. Congreso del Estado, respecto de los hechos delictuosos en que el Estado resulte ofendido en procedimientos penales, políticos y administrativos;
+XXIV. Implementar nuevos sistemas encaminados a optimizar y agilizar el servicio que se brinda a los servidores públicos respecto a sus declaraciones patrimoniales, y dar seguimiento e impulsar los ya existentes;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XXV. Verificar, previo acuerdo o instrucción de su superior jerárquico, y derivado de la práctica de investigaciones, los datos manifestados en las declaraciones de situación patrimonial de los servidores públicos, en los términos de la legislación aplicable, e informarle sobre las presuntas irregularidades que, en su caso, se detecten;
 
-XVI. Instrumentar los informes previo y justificado en los juicios de amparo e interponer toda clase de recursos o medios impugnativos, así como actuar en los juicios en que la Dirección General del Sector Estatal y Paraestatal fuere parte, e intervenir en el cumplimiento de las resoluciones respectivas;
+XXVI. Informar al área de responsabilidades de la contraloría el incumplimiento de la obligación de rendir la declaración de situación patrimonial de inicio, anual y de conclusión de encargo, para los efectos que correspondan;
 
-XVII. Coordinarse con la Procuraduría General de Justicia del Estado para la investigación de los delitos del orden común que se detectaren en las acciones operativas de la Contraloría, coadyuvando en representación de la misma en los procedimientos penales, políticos y administrativos correspondientes;
+XXVII. Solicitar a la Dirección de Normatividad, Quejas y Responsabilidades la instauración del procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán cuando se presenten irregularidades con motivo de la presentación extemporánea o errónea, o la omisión de las declaraciones de situación patrimonial;
 
-XVIII. Llevar el registro de la situación patrimonial de los servidores públicos obligados, de conformidad con la ley en materia de Responsabilidades de Servidores Públicos y demás disposiciones legales aplicables y asesorar y capacitar a los servidores públicos sobre el cumplimiento de dicha obligación;
+XXVIII. Expedir y, en su caso, negar, de manera fundada y motivada, las copias de las declaraciones patrimoniales, de conformidad con la legislación aplicable;
 
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+XXIX. Asesorar a los órganos de control interno en el seguimiento y desahogo de las investigaciones que realicen;
 
-XIX. Hacer constar el incumplimiento de la obligación de rendir la declaración de situación patrimonial de inicio, anual y de conclusión de encargo, remitiendo al área de responsabilidades para el fincamiento de las mismas;
+XXX. Expedir, previa compulsa con los originales, certificaciones de los documentos que obren en los archivos de la dirección a su cargo;
 
-XX. Implementar nuevos sistemas y dar seguimiento e impulsar a los ya existentes, encaminados a optimizar y agilizar el servicio que se brinda a los servidores públicos respecto a sus declaraciones patrimoniales;
+XXXI. Desarrollar, de manera individual o coordinada con la unidad administrativa que determine su superior jerárquico o el secretario, las investigaciones que le correspondan, de conformidad con la legislación aplicable;
 
-XXI. Verificar los datos manifestados en las declaraciones de situación patrimonial de los servidores públicos en los términos de la Ley de la materia, analizando la información recabada;
+XXXII. Elaborar y remitir a su superior jerárquico la propuesta del programa anual de trabajo de la dirección a su cargo, para su aprobación, así como informarle sobre sus avances y los de las demás actividades que desempeñe en el ámbito de su competencia;
 
-XXII. Informar a su superior sobre las presuntas irregularidades en que haya incurrido el servidor público con respecto a su situación patrimonial;
+XXXIII. Fungir como enlace respecto a las solicitudes de información pública que se hagan a la contraloría;
 
-XXIII. Coordinar la integración del padrón de servidores públicos obligados a presentar declaración de situación patrimonial;
+XXXIV. Solicitar la información y la documentación que considere pertinente a los órganos de control interno y las demás unidades administrativas de la contraloría, así como a las dependencias y entidades de la Administración Pública estatal, a fin de allegarse de elementos tendientes al despacho de los asuntos de su competencia;
 
-XXIV. Realizar el análisis de los puestos, cargos o comisiones, cuyos titulares deben ser sujetos de la obligación de presentar la declaración de situación patrimonial;
+XXXV. Asesorar al personal de la Dirección de Auditoría al Sector Centralizado y de la Dirección de Auditoría al Sector Paraestatal en la realización de auditorías, revisiones e inspecciones que se practiquen en las dependencias y entidades, conforme a los procedimientos establecidos, y
 
-XXV. Solicitar a la Dirección de Normatividad, Quejas y Responsabilidades, la instauración del procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, cuando se presenten irregularidades con motivo de la presentación extemporánea, errónea o de omisión de las declaraciones de situación patrimonial;
+XXXVI. Las demás que le confiera este reglamento y otras disposiciones legales aplicables.
 
-XXVI. Proponer a su superior las normas y contenido de los formatos bajo los cuales deberán declarar su situación patrimonial los servidores públicos, los programas preventivos en la materia y los instructivos y manuales correspondientes;
-
-XXVII. Estandarizar los procedimientos para el control y seguimiento de las investigaciones administrativas que conozcan las contralorías internas, estableciendo procedimientos de consulta, mecanismos de actuación y control de tiempos, mismos que serán vigilados para agilizar su trámite;
-
-XXVIII. Expedir, previa compulsa con los originales, certificaciones de documentos que obren en los archivos de la Dirección a su cargo;
-
-XXIX. De manera individual o coordinada con la unidad administrativa que determine su superior o el Secretario, ordenar y llevar al cabo las investigaciones, visitas de inspección y auditorías, que de conformidad con la ley de la materia procedan;
-
-XXX. Dictaminar en el ámbito de competencia de la Contraloría, los anteproyectos de reglamentos interiores, estatutos orgánicos, manuales de organización, que propongan los titulares de las dependencias y entidades relacionados con cambios de organización y procedimientos, cuando así se lo soiciten (sic);
-
-XXXI. Expedir y, en su caso, negar de manera fundada y motivada, las copias de las declaraciones patrimoniales de conformidad a los lineamientos emitidos de conformidad con la Ley de la materia y demás disposiciones legales aplicables;
-
-XXXII. Elaborar y remitir a su superior jerárquico informe de los resultados, la propuesta de las acciones y medidas correctivas que correspondan, en el ámbito de su competencia;
-
-XXXIII. Fungir como unidad de enlace ante la Unidad de Acceso a la Información Pública respecto a las solicitudes de información pública que se haga a la Contraloría;
-
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
-
-XXXIV. Dar seguimiento a las observaciones y recomendaciones que se formulen como resultado de la práctica de intervenciones e investigaciones que se realicen en dependencias o entidades, o de revisiones hasta que estén totalmente solventadas e informar al superior jerárquico;
-
-> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
-
-XXXV. Participar en la realización de auditorías, revisiones e inspecciones que se practiquen en las dependencias y entidades, conforme a la normatividad establecida, y
-
-> <small>(ADICIONADA, D.O. 20 DE AGOSTO DE 2012)</small>
-
-XXXVI. Las demás que le confiera este Reglamento y otras disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 543.
 
-Al Jefe del Departamento de Asuntos Jurídicos de Auditoría en el Sector Centralizado le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Asuntos Jurídicos en el Sector Centralizado le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Atender con diligencia las consultas jurídicas que reciba de los órganos de control interno de su competencia o de las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal;
 
-I. Atender con diligencia las consultas jurídicas que reciba de Órganos de Control Interno o de las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal;
+II. Asesorar en el planteamiento de las observaciones de auditoría cuando los órganos de control interno de su competencia tengan dudas al respecto, revisando conjuntamente con el auditor la normativa aplicable, previo conocimiento y visto bueno del Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal;
 
-II. Opinar respecto al planteamiento de las observaciones de auditoría, cuando los Órganos de Control Interno tengan dudas al respecto, revisando conjuntamente con el auditor, la normatividad aplicable, lo anterior previo conocimiento y visto bueno del Director de Auditoría del Sector Centralizado;
+III. Asesorar a los órganos de control interno de su competencia en el seguimiento y desahogo de las investigaciones que realicen, sugiriendo líneas de investigación y puntualizando en cada caso los objetivos y la finalidad perseguidos en cada actuación;
 
-III. Asesorar a los Órganos de Control Interno, en el seguimiento y desahogo de las investigaciones que realicen, sugiriendo líneas de investigación, puntualizando en cada caso los objetivos y la finalidad perseguidos en cada actuación;
+IV. Llevar el seguimiento de los avances de las investigaciones que realicen los órganos de control interno de su competencia;
 
-IV. Llevar el control y seguimiento de los avances de las investigaciones que realicen Órganos de Control Interno, y girar por orden del Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal los recordatorios o extrañamientos correspondientes;
+V. Revisar los informes, acuerdos y resoluciones que emitan los órganos de control interno de su competencia, cuando así lo soliciten, proponiendo, en su caso, los cambios pertinentes;
 
-V. Revisar los informes, acuerdos y resoluciones que emitan Órganos de Control Interno, proponiendo en su caso, los cambios pertinentes;
+VI. Proponer a su superior jerárquico la conveniencia de realizar visitas a los órganos de control interno de su competencia para verificar la correcta integración física y resguardo de sus expedientes de investigación;
 
-VI. Proponer al Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, la conveniencia de realizar visitas a los Órganos de Control Interno para verificar la correcta integración física y resguardo de sus expedientes de investigaciones;
+VII. Coadyuvar con su superior jerárquico en el trámite de las asesorías que en materia de entrega-recepción con motivo de cambios de administración, cambios estructurales de las dependencias o, en su caso, por la toma de posesión de los servidores públicos obligados, planteen a la contraloría las dependencias, respecto a criterios de interpretación o procedencia de la normativa aplicable, o que hagan de conocimiento irregularidades detectadas durante o después del término de revisión establecido;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VIII. Elaborar, previa orden de su superior jerárquico, los oficios de requerimiento dirigidos a los servidores públicos de las dependencias que no cumplieron con la normativa aplicable en materia de entrega-recepción con motivo de cambios de Administración o, en su caso, por la toma de posesión de los servidores públicos obligados;
 
-VII. Coadyuvar con el Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, en el trámite de las asesorías que en materia de entrega-recepción con motivo de cambios de administración o en su caso, por la toma de posesión de los servidores públicos obligados, planteen a la Dirección General del Sector Estatal y Paraestatal las dependencias, respecto a criterios de interpretación o procedencia de la normatividad aplicable, o que hagan de conocimiento irregularidades detectadas durante o después del término de revisión establecido;
+IX. Coadyuvar con su superior jerárquico en la investigación de actos, omisiones o conductas de personas que ejerzan o hayan ejercido funciones como servidores públicos adscritos a dependencias que pudieran constituir responsabilidades administrativas;
 
-VIII. Previa orden del Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, elaborar los oficios de requerimiento dirigidos a los servidores públicos de las dependencias que no cumplieron con la normatividad aplicable en materia de entrega-recepción con motivo de cambios de administración o en su caso, por la toma de posesión de los servidores públicos obligados;
+X. Coadyuvar, previa orden de su superior jerárquico, en la atención de las solicitudes y recomendaciones emitidas por la Comisión de Derechos Humanos del Estado de Yucatán cuyo conocimiento competa a la Dirección General del Sector Estatal y Paraestatal;
 
-IX. En caso de consulta, asesorar a los representantes de los Órganos de Control Interno que participan en auditorías relacionadas con obra pública, previa coordinación que se haga con la Dirección de Normatividad, Quejas y Responsabilidades;
+XI. Apoyar a su superior jerárquico en la prestación de las asesorías que en materia de auditorías, revisiones e inspecciones se practiquen en las dependencias, conforme a los procedimientos establecidos;
 
-X. Previa orden de su Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, opinar acerca de las recomendaciones hechas por la Comisión de Derechos Humanos, que recaigan sobre los Órganos de Control Interno, coadyuvando a cumplir cabalmente con los requerimientos planteados por dicha Comisión, o en su caso exponer los motivos de excusa;
+XII. Mantener actualizada la normativa estatal de la Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal relacionada con las dependencias;
 
-XI. Participar, en el ámbito de su competencia, en el análisis de normas de carácter general, lineamientos y políticas que rigen el funcionamiento del sistema de control y evaluación de la gestión gubernamental y su aplicación en las auditorías, revisiones e investigaciones que se llevan al (sic) cabo en los Órganos de Control Interno y en la Contraloría;
+XIII. Emitir opinión a su superior jerárquico respecto a los anteproyectos de reglamentos interiores, manuales de organización y demás disposiciones legales que correspondan en el ámbito de su competencia;
 
-XII. Mantener actualizada la normatividad estatal existente en la Dirección de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal;
+XIV. Coadyuvar con su superior jerárquico en la tramitación de las solicitudes de acceso a la información que le correspondan hasta que estén debidamente atendidas, coordinándose con las demás unidades administrativas que pudieran tener la información solicitada;
 
-XIII. Emitir opinión al Director de Asuntos Jurídicos, Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal respecto a los anteproyectos de reglamentos interiores, estatutos orgánicos, manuales de organización, relacionados con cambios de organización y procedimientos, de las dependencias y entidades que le haya turnado dicho Director, y
+XV. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de los reportes estadísticos y de resultados que le correspondan, y
 
-XIV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XVI. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 544.
 
-Al Jefe del Departamento de Asuntos Jurídicos de Auditoría en el Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Asuntos Jurídicos en el Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Atender con diligencia las consultas jurídicas que reciba de los órganos de control interno de su competencia o de las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal;
 
-I. Atender con diligencia las consultas jurídicas que reciba de Órganos de Control Interno o de las unidades administrativas de la Dirección General del Sector Estatal y Paraestatal;
+II. Asesorar en el planteamiento de las observaciones de auditoría cuando los órganos de control interno de su competencia tengan dudas al respecto, revisando conjuntamente con el auditor la normativa aplicable, previo conocimiento y visto bueno del Director de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal;
 
-II. Opinar respecto al planteamiento de las observaciones de auditoría, cuando los Órganos de Control Interno tengan dudas al respecto, revisando conjuntamente con el auditor, la normatividad aplicable; lo anterior, previo conocimiento y visto bueno del Director de Auditoría del Sector Paraestatal;
+III. Asesorar a los órganos de control interno de su competencia en el seguimiento y desahogo de las investigaciones que realicen, sugiriendo líneas de investigación y puntualizando en cada caso los objetivos y la finalidad perseguidos en cada actuación;
 
-III. Asesorar a los Órganos de Control Interno, en el seguimiento y desahogo de las investigaciones que realicen, sugiriendo líneas de investigación, puntualizando en cada caso los objetivos y la finalidad perseguidos en cada actuación;
+IV. Llevar el seguimiento de los avances de las investigaciones que realicen los órganos de control interno de su competencia;
 
-IV. Llevar el control y seguimiento de los avances de las investigaciones que realicen los Órganos de Control Interno, y girar por orden del Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal los recordatorios o extrañamientos correspondientes;
+V. Revisar los informes, acuerdos y resoluciones que emitan los órganos de control interno de su competencia, cuando así lo soliciten, proponiendo, en su caso, los cambios pertinentes;
 
-V. Revisar los informes, acuerdos y resoluciones que emitan los Órganos de Control Interno, proponiendo en su caso, los cambios pertinentes;
+VI. Proponer a su superior jerárquico la conveniencia de realizar visitas a los órganos de control interno de su competencia para verificar la correcta integración física y resguardo de sus expedientes de investigación;
 
-VI. Proponer al Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, la conveniencia de realizar visitas a los Órganos de Control Interno para verificar la correcta integración física y resguardo de sus expedientes de investigación;
+VII. Coadyuvar con su superior jerárquico en el trámite de las asesorías que en materia de entrega-recepción con motivo de cambios de administración, cambios estructurales de las entidades o, en su caso, por la toma de posesión de los servidores públicos obligados, planteen a la contraloría las entidades, respecto a criterios de interpretación o procedencia de la normativa aplicable, o que hagan de conocimiento irregularidades detectadas durante o después del término de revisión establecido;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VIII. Elaborar, previa orden de su superior jerárquico, los oficios de requerimiento dirigidos a los servidores públicos de las entidades que no cumplieron con la normativa aplicable en materia de entrega-recepción con motivo de cambios de Administración o, en su caso, por la toma de posesión de los servidores públicos obligados;
 
-VII. Coadyuvar con el Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, en el trámite de las asesorías que en materia de entrega-recepción con motivo de cambios de administración o en su caso, por la toma de posesión de los servidores públicos obligados, planteen a la Dirección General del Sector Estatal y Paraestatal las entidades, respecto a criterios de interpretación o procedencia de la normatividad aplicable, o que hagan de conocimiento irregularidades detectadas durante o después del término de revisión establecido;
+IX. Apoyar a su superior jerárquico en la prestación de las asesorías que en materia de auditorías, revisiones e inspecciones se practiquen en las entidades conforme a los procedimientos establecidos;
 
-VIII. Previa orden del Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, elaborar los oficios de requerimiento dirigidos a los servidores públicos de las entidades, en que no cumplieron con la normatividad aplicable en materia de entrega-recepción con motivo de cambios de administración o en su caso, por la toma de posesión de los servidores públicos obligados;
+X. Mantener actualizada la normativa estatal de la Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal relacionada con las entidades;
 
-IX. Participar en el análisis de normas de carácter general, lineamientos y políticas que rigen el funcionamiento del sistema de control y evaluación de la gestión gubernamental y su aplicación en las auditorías, revisiones e investigaciones que se llevan al (sic) cabo en las contralorías internas en las entidades y en la propia Contraloría;
+XI. Emitir opinión a su superior jerárquico respecto a los anteproyectos de reglamentos interiores, estatutos orgánicos, manuales de organización y demás disposiciones legales que correspondan en el ámbito de su competencia;
 
-X. Mantener actualizada la normatividad estatal existente en la Dirección de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal;
+XII. Coadyuvar con su superior jerárquico en la investigación de actos, omisiones o conductas de personas que ejerzan o hayan ejercido funciones como servidores públicos adscritos a entidades que pudieran constituir responsabilidades administrativas;
 
-XI. Emitir opinión al Director de Asuntos Jurídicos, Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal respecto a los anteproyectos de reglamentos interiores, estatutos orgánicos, manuales de organización, relacionados con cambios de organización y procedimientos, que le haya turnado dicho Director, y
+XIII. Coadyuvar con su superior jerárquico en la tramitación de las solicitudes de acceso a la información que le correspondan hasta que estén debidamente atendidas, coordinándose con las demás unidades administrativas que pudieran tener la información solicitada;
 
-XII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XIV. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de los reportes estadísticos y de resultados que le correspondan, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+XV. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 29 DE MARZO DE 2016)</small>
 
 ###### Artículo 545.
 
 Al Jefe del Departamento de Control y Registro de Situación Patrimonial le corresponde el despacho de los siguientes asuntos:
 
-I. Coordinar la captura y registro de las declaraciones patrimoniales que se reciban;
+I. Coordinar la captura y el registro de las declaraciones patrimoniales que se reciban;
 
-II. Mantener actualizados los expedientes de declaraciones patrimoniales de los servidores públicos, asistiendo al Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal en su protección y custodia;
+II. Mantener actualizados los registros de declaraciones patrimoniales de los servidores públicos, asistiendo a su superior jerárquico en su protección y custodia;
 
-III. Coordinar e informar al Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, sobre las asesorías que brinde a los servidores públicos en el llenado de las declaraciones patrimoniales;
+III. Coordinar e informar a su superior jerárquico sobre las asesorías que brinde a los servidores públicos en materia de situación patrimonial;
 
-IV. Brindar o supervisar las asesorías que en materia patrimonial le encomiende el Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal;
+IV. Brindar o supervisar las asesorías que en materia patrimonial le encomiende su superior jerárquico;
 
-V. Elaborar los reportes estadísticos de los servidores públicos obligados, deudores o de cualquier otra índole que le solicite el Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal;
+V. Elaborar los reportes con respecto a los servidores públicos obligados, deudores o de cualquier otra índole que le solicite su superior jerárquico;
 
-VI. Asistir al Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal en la elaboración de los programas operativos anuales y en todos los reportes estadísticos y de resultados propios de la Dirección;
+VI. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de todos los reportes estadísticos y de resultados de la Dirección de Asuntos Jurídicos y Situación Patrimonial del Sector Estatal y Paraestatal;
 
-VII. Previa orden del Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal, elaborar los oficios dirigidos a la Dirección de Normatividad Quejas y Responsabilidades con los nombres y datos de los servidores públicos que no cumplieron con la obligación de presentar su declaración patrimonial;
+VII. Elaborar los oficios dirigidos a la Dirección de Normatividad, Quejas y Responsabilidades con los nombres y datos de los servidores públicos que no cumplieron con la obligación de presentar su declaración patrimonial;
 
-VIII. Mantener informado al Director de Asuntos Jurídicos, de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal sobre la reserva de los formatos de declaraciones patrimoniales;
+VIII. Elaborar y proponer a su superior jerárquico las normas y los formatos bajo los cuales deberán declarar su situación patrimonial los servidores públicos obligados, así como los instructivos y manuales que correspondan;
 
-IX. Coordinar con el área de informática, el óptimo acceso y funcionamiento del Sistema de Declaración Patrimonial por Internet denominado “SIDEPAWEB”; así como revisar, controlar y registrar, las altas, bajas, datos estadísticos y reportes que arroje el sistema, manteniendo constantemente informado al respecto a su Director;
+IX. Coordinar con el área de informática el óptimo acceso y funcionamiento del Sistema de Declaración Patrimonial por Internet, así como revisar, controlar y registrar las altas, bajas, datos estadísticos y reportes que arroje el sistema, manteniendo constantemente informado al respecto a su superior jerárquico;
 
-X. Coordinar la recepción, evaluación y trámite de las solicitudes que reciba la Contraloría, respecto a la valoración de permanencia o inclusión del Padrón Patrimonial de Servidores Públicos;
+X. Opinar sobre las solicitudes que reciba la contraloría respecto a la valoración de permanencia o inclusión en el Padrón Patrimonial de Servidores Públicos, así como llevar a cabo el análisis de los puestos, cargos o comisiones, cuyos titulares deban ser sujetos de la obligación de presentar declaración de situación patrimonial, con base en la información que para tal efecto remitan las áreas de recursos humanos o sus equivalentes de las dependencias y entidades de la Administración Pública estatal;
 
-XI. Analizar y proponer los dictámenes en el ámbito de competencia de la Contraloría, los anteproyectos de reglamentos interiores, estatutos orgánicos, manuales de organización, que turnen los titulares de las dependencias y entidades, relacionados con cambios de organización y procedimientos, y
+XI. Coadyuvar con su superior jerárquico, cuando se lo solicite, en la verificación de los datos manifestados en las declaraciones de situación patrimonial de los servidores públicos, en términos de la legislación aplicable, y
 
-XII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XII. Las demás que le confieran este reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 546.
 
@@ -12860,5 +12842,17 @@ Sexto. Obligación normativa en materia de ciencia y tecnología
 La Secretaría de Investigación, Innovación y Educación Superior, en un plazo no mayor de ciento veinte días naturales contados a partir de la entrada en vigor de este decreto, deberá de emitir los lineamientos para el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán.
 
 Séptimo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 29 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 364/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
