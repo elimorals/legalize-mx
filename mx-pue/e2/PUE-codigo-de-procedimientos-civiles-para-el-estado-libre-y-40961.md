@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2015-12-31"
+last_updated: "2016-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MARZO DE 2016.]</small>
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -867,7 +869,11 @@ XII.- Para los actos preparatorios, el Tribunal que lo fuere para el principal; 
 
 XIII.- El del domicilio del demandado, si se trata del ejercicio de acción real sobre bienes muebles, o de acción personal, o de estado civil;
 
-XIV.- Tratándose de divorcio voluntario o necesario, el del domicilio familiar; y a falta de éste el del demandado;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XIV.- Tratándose del divorcio incausado, el del domicilio familiar; y a falta de éste el del demandado;
 
 XV.- En los negocios sobre nulidad de matrimonio y de rectificación o modificación de actas del estado civil, es competente el Tribunal del domicilio del actor; si aquellos se hubieren celebrado fuera del Estado de Puebla, el Juez que conozca del asunto, deberá analizar el acto conforme a la Ley del lugar en que se celebró;
 
@@ -1505,9 +1511,23 @@ IV.- Las fotografías, registros electrónicos, audio y videocintas, cintas cine
 
 Cuando los medios a que se refiere el párrafo anterior, sólo puedan apreciarse mediante un sistema de reproducción, quien los ofrezca, deberá revelar en forma concreta y clara en su escrito de demanda, su contenido.
 
-V.- Copia simple del escrito de demanda y de los documentos que acompañen a la misma. Si los demandados fueren varios, se acompañará un ejemplar para cada uno de ellos, y
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
-VI.- Copia simple para correr agregada a los autos de los documentos que se exhiban.
+> <small>(REFORMADA, P.O 29 DE MARZO DE 2016)</small>
+
+V.- Copia simple del escrito de demanda y de los documentos que acompañen a la misma. Si los interesados fueren varios, se acompañará un ejemplar para cada uno de ellos;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VI.- Copia simple para correr agregado a los autos de los documentos que se exhiban; y
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+VII.- En los casos de divorcio deberá incluirse la propuesta de convenio en los términos que se establece en el artículo 443 del Código Civil, debiendo ofrecer todas las pruebas tendientes a acreditar la procedencia de la propuesta de convenio.
 
 ###### Artículo 196.
 
@@ -1603,9 +1623,23 @@ X.- Bajo la palabra "Objeciones", todas aquellas que deba formular con relación
 
 XI.- Bajo la palabra "Reconvención", en su caso, la demanda que se intente en esta vía, la que se ajustará a los requisitos que para toda demanda establece esta Ley;
 
-XII.- Bajo la palabra "Peticiones", lo que se pide al Tribunal en términos claros y precisos, y
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
 
-XIII.- Las firmas autógrafas del demandado o su representante, así como del abogado patrono.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XII.- Bajo la palabra "Peticiones", lo que se pide al Tribunal en términos claros y precisos;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XIII.- Las firmas autógrafas del demando o su representante, así como del abogado patrono; y
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2016)</small>
+
+XIV.- En los casos de divorcio podrá manifestar su conformidad con el convenio propuesto, o en su caso, presentar su contrapropuesta, debiendo anexar las pruebas respectivas relacionadas con la misma;
 
 ###### Artículo 205.
 
@@ -6494,3 +6528,13 @@ OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 NOVENO. Se abroga la Ley del Notariado del Estado de Puebla, publicada en el Periódico Oficial del Estado el treinta y uno de diciembre de dos mil doce, 9ª sección.
 
 DÉCIMO. Todos los asuntos pendientes de trámite, se concluirán con la Ley del Notariado vigente al momento de su sustanciación.
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2016)</small>
+
+P.O. 29 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
