@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2015-08-13"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2016.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -913,13 +913,13 @@ La Secretaría determinará los criterios de vinculación de la misión con los 
 
 II. Objetivo, se refiere al resultado o alcance esperado asociado a un programa, en congruencia con el Plan Nacional de Desarrollo y los programas que de éste deriven, el cual debe ser formulado de conformidad con las disposiciones que para tal efecto emita la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2016)</small>
 
-III. Meta, es la expresión cuantitativa del nivel de cumplimiento esperado del objetivo en un periodo determinado, y debe expresarse de manera clara, medible y precisa;
+III. Meta, es la expresión cuantitativa del nivel de cumplimiento esperado del objetivo en un periodo determinado, y debe expresarse conforme al indicador de desempeño, de manera clara, medible y precisa;
 
-> <small>(REFORMADO PÁRRAFO PRIMERO, D.O.F. 25 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2016)</small>
 
-IV. Indicador de desempeño, es la expresión cuantitativa construida a partir de variables cuantitativas o cualitativas, que proporciona un medio sencillo y fiable para medir logros expresados como el cumplimiento de los objetivos y las metas establecidas, reflejar los cambios vinculados con las acciones del programa, dar seguimiento y evaluar sus resultados. Dicho indicador deberá ser expresado en términos de lo previsto en el artículo 27 de la Ley, reflejando al menos lo siguiente:
+IV. Indicador de desempeño, es la expresión cuantitativa construida a partir de variables cuantitativas o cualitativas, que proporciona un medio sencillo y fiable para medir el cumplimiento de las metas establecidas, reflejar los cambios vinculados con las acciones del programa, dar seguimiento y evaluar sus resultados. Será de dos tipos, estratégico o de gestión y deberá ser expresado en términos de lo previsto en el artículo 27 de la Ley, reflejando al menos lo siguiente:
 
 > <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -935,9 +935,9 @@ d) Calidad, que mide los atributos, propiedades o características que deben ten
 
 e) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
-La Secretaría podrá establecer metodologías para alinear indicadores a objetivos que describan los fines, propósitos, componentes y actividades de los programas, y
+La Secretaría establecerá las metodologías para alinear indicadores a objetivos que describan los fines, propósitos, componentes y actividades de los programas, y
 
 V. Unidad responsable, el cual, como elemento programático, identifica a las unidades que realizan el seguimiento, evaluación y rendición de cuentas de los indicadores de desempeño a nivel de dependencia o entidad.
 
@@ -3435,29 +3435,15 @@ Las personas morales sin fines de lucro, consideradas organizaciones de la socie
 
 Para obtener la autorización a que se refiere el artículo 77, fracción I, de la Ley, relativa a los proyectos de reglas de operación de los programas previstos en el Presupuesto de Egresos, las dependencias y entidades deberán manifestar que el programa no se contrapone, afecta ni presenta duplicidades con otros programas y acciones del Gobierno Federal en cuanto a su diseño, beneficios, apoyos otorgados y población objetivo, así como que se cumplen las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
 ###### Artículo 180.
 
-El costo de la evaluación a que se refiere el artículo 78 de la Ley deberá cubrirse con cargo al presupuesto de la dependencia o entidad correspondiente.
+(DEROGADO, D.O.F. 30 DE MARZO DE 2016)
 
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las evaluaciones deberán cumplir con lo señalado en los programas anuales de evaluación a que se refiere el artículo 110 de la Ley, en los términos de las disposiciones generales emitidas por la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias.
-
-En la designación y contratación de las instituciones académicas y de investigación u organismos especializados de carácter nacional o internacional que elaboren la evaluación de resultados de los programas sujetos a reglas de operación, se deberán observar las disposiciones que establezca la Secretaría, atendiendo la normativa aplicable, incluyendo aquéllas sobre los requisitos que dichos evaluadores deberán cumplir.
-
-Las dependencias y entidades, en los términos del artículo 50 de la Ley, podrán realizar contrataciones para que las evaluaciones a que se refiere el párrafo anterior abarquen varios ejercicios fiscales.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las evaluaciones distintas a la materia de desarrollo social previstas en los programas anuales de evaluación, serán coordinadas por la Secretaría y la Función Pública en el ámbito de sus respectivas competencias, en los términos de las disposiciones aplicables.
-
-Las dependencias y entidades deberán informar a la Cámara de Diputados, por conducto de la Comisión de Presupuesto y Cuenta Pública, sobre las instituciones que llevarán a cabo las evaluaciones a más tardar el último día hábil de abril. Asimismo, deberán difundir dichas evaluaciones a través de sus respectivas páginas de Internet.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 181.
 
-Las dependencias y las entidades a través de su dependencia coordinadora de sector, deberán enviar trimestralmente a la Cámara de Diputados, por conducto de las comisiones correspondientes, turnando copia a la Secretaría y a la Función Pública, informes sobre el presupuesto ejercido entregado a los beneficiarios a nivel de capítulo y concepto de gasto, así como informes sobre el cumplimiento de las metas y objetivos con base en indicadores de desempeño previstos en las reglas de operación, incluidos los correspondientes a los convenios formalizados con las organizaciones a que se refiere el artículo 178 de este Reglamento. Dichos informes se deberán presentar a más tardar a los 15 días hábiles posteriores a la terminación de cada trimestre, salvo en el caso de programas que operen en zonas rurales aisladas y de difícil acceso, que cuenten con las autorizaciones de las Comisiones para remitir la información en un plazo distinto.
+Las dependencias y las entidades a través de su dependencia coordinadora de sector, deberán enviar trimestralmente a la Cámara de Diputados, por conducto de las comisiones correspondientes, turnando copia a la Secretaría y a la Función Pública, informes sobre el presupuesto ejercido entregado a los beneficiarios de los programas al menos a nivel de capítulo y concepto de gasto, así como informes sobre el cumplimiento de las metas y objetivos con base en los indicadores de desempeño respectivos, incluidos los correspondientes a los convenios formalizados con las organizaciones a que se refiere el artículo 178 de este Reglamento. Dichos informes se deberán presentar a más tardar a los quince días hábiles posteriores a la terminación de cada trimestre, salvo en el caso de programas que operen en zonas rurales aisladas y de difícil acceso, que cuenten con las autorizaciones de dichas comisiones para remitir la información en un plazo distinto.
 
 Aquellas dependencias y entidades que utilicen fideicomisos, mandatos o análogos para apoyar la entrega a los beneficiarios de los recursos de los programas sujetos a reglas de operación, de conformidad con lo establecido en las disposiciones aplicables, tendrán que incorporar en los informes previstos en el presente artículo, el avance en el cumplimiento de la misión y fines conforme a lo dispuesto en las reglas de operación del programa, y a lo siguiente:
 
@@ -4577,19 +4563,17 @@ Las dependencias que realicen aportaciones federales conforme a lo dispuesto en 
 
 #### SECCIÓN I. De los informes
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
 ###### Artículo 283.
 
-Para la integración de los informes a que se refieren los artículos 107, 110 y 111 de la Ley, las dependencias, entidades y órganos autónomos a los que se refiere el artículo 5, fracciones II y III de la Ley, se sujetarán a lo siguiente:
+Para la integración de los informes a que se refieren los artículos 107, 110 y 111 de la Ley, las dependencias, las entidades y los ejecutores de gasto señalados en el artículo 5, fracciones II y III de la Ley, se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+I. Enviarán a la Secretaría la información necesaria a través de los sistemas disponibles, a más tardar quince días naturales después de concluido el trimestre o mes que se reporte, según corresponda;
 
-I. Enviarán a la Secretaría la información necesaria a través de los sistemas disponibles, a más tardar 15 días naturales después de concluido el trimestre, o mes que se reporte, según corresponda;
+II. Serán responsables de la calidad y oportunidad de la información reportada a la Secretaría, y
 
-II. Enviarán a la Función Pública la información complementaria que determine en apoyo a sus funciones de control y evaluación;
-
-III. Serán responsables de la calidad y oportunidad de la información reportada a la Secretaría y a la Función Pública, y
-
-IV. Los principales indicadores de la postura fiscal, de ingreso y de gasto públicos, deberán ser calculados conforme a la metodología que para la elaboración de las estadísticas de finanzas públicas dé a conocer la Secretaría.
+III. Deberán calcular, conforme a la metodología que para la elaboración de las estadísticas de finanzas públicas dé a conocer la Secretaría, los principales indicadores de la postura fiscal, de ingreso y de gasto públicos.
 
 > <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4735,49 +4719,47 @@ La Secretaría mantendrá actualizado el Registro de Cuentas de Depósito e Inve
 
 ### CAPÍTULO II. De la Evaluación
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
 ###### Artículo 303.
 
-El Sistema de Evaluación del Desempeño es el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos.
+El Sistema de Evaluación del Desempeño será obligatorio para las dependencias y entidades, las cuales lo aplicarán con base en este Reglamento y las disposiciones que para tal efecto emita la Secretaría.
 
-Los indicadores del desempeño referidos en el artículo 25, fracción IV de este Reglamento, son la base del funcionamiento del Sistema de Evaluación del Desempeño y deberán estar expresados en los elementos de la clasificación funcional programática.
+Las dependencias coordinadoras de sector tomarán las medidas necesarias, una vez realizada la evaluación y verificación de los avances en la ejecución de los programas, con base en los indicadores de desempeño, en las entidades ubicadas en su sector.
 
-El Sistema de Evaluación del Desempeño será obligatorio para los ejecutores del gasto, los cuales lo aplicarán con base en este Reglamento y las disposiciones que emitan la Secretaría y la Función Pública en el ámbito de sus respectivas competencias.
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
+###### Artículo 303 Bis.
 
-Los indicadores serán de dos tipos, estratégicos y de gestión, y serán expresados en términos de eficacia, eficiencia, economía y calidad.
+La Secretaría se coordinará con el Consejo Nacional de Evaluación de la Política de Desarrollo Social para que conjuntamente emitan el programa anual de evaluación a que se refiere el artículo 110 de la Ley, en los términos de las disposiciones jurídicas aplicables.
 
-Las dependencias coordinadoras de sector tomarán las medidas necesarias, una vez realizada la evaluación y verificación de los avances en la ejecución de los programas, con base en los indicadores del desempeño, en las entidades ubicadas en su sector.
+Las dependencias y entidades deberán realizar las evaluaciones conforme al programa anual de evaluación a que se refiere el párrafo anterior.
+
+En la designación y contratación de los expertos, instituciones académicas y de investigación u organismos especializados de carácter nacional o internacional que elaboren la evaluación de resultados de los programas sujetos a reglas de operación a que se refiere el artículo 78 de la Ley, se deberá observar lo previsto en el programa anual de evaluación y demás disposiciones jurídicas aplicables.
+
+Las dependencias y entidades, en los términos del artículo 50 de la Ley, podrán realizar contrataciones para que las evaluaciones a que se refiere el párrafo anterior abarquen varios ejercicios fiscales.
+
+El costo de las evaluaciones a que se refieren los artículos 78 y 110 de la Ley que, en su caso, se genere deberá cubrirse con cargo al presupuesto de la dependencia o entidad correspondiente.
+
+Las dependencias y entidades deberán enviar las evaluaciones a la Cámara de Diputados, por conducto de la Comisión de Presupuesto y Cuenta Pública, a la Secretaría y al Consejo Nacional de Evaluación de la Política de Desarrollo Social, en los términos y plazos que establezca el programa anual de evaluación a que se refiere este artículo, y difundirlas a través de sus respectivas páginas de Internet.
+
+Con base en la información de las evaluaciones que proporcionen las dependencias y entidades en términos del párrafo anterior, la Secretaría integrará un repositorio digital único de evaluaciones, el cual será público y estará disponible a través de su página de Internet.
+
+La Secretaría coordinará las evaluaciones previstas en el programa anual de evaluación, con excepción de aquéllas en materia de desarrollo social.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 304.
 
-La fiscalización, el seguimiento y la medición se realizarán en la forma siguiente:
+El seguimiento y la medición de los indicadores de desempeño se realizarán en la forma siguiente:
 
-> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2014)</small>
+I. En reuniones que convoque la Secretaría con las dependencias coordinadoras de sector y, en su caso, con las entidades, las cuales se llevarán a cabo al menos dos veces al año;
 
-I. En reuniones entre la Secretaría y la Función Pública en el ámbito de sus respectivas competencias, y las dependencias coordinadoras de sector y, en su caso, las entidades coordinadas y entre la Secretaría y la Función Pública en el ámbito de sus respectivas competencias, y entidades no coordinadas en plazos que no sean mayores a un trimestre;
+II. En reuniones entre las dependencias coordinadoras de sector y las entidades coordinadas, las cuales se llevarán a cabo al menos dos veces al año, y
 
-II. En reuniones entre las dependencias coordinadoras de sector y entidades coordinadas, en los mismos términos de la fracción anterior;
+III. A través de los sistemas de seguimiento de metas que determine la Secretaría.
 
-III. Mediante visitas y auditorías que se efectúen en los términos del Capítulo III del presente Título, y
-
-IV. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determinen la Secretaría y la Función Pública en el ámbito de sus respectivas competencias.
-
-> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 304 A. La Secretaría y la Función Pública se coordinarán, en términos de la Ley Orgánica de la Administración Pública Federal, en un grupo de trabajo permanente en materia de evaluación y seguimiento al desempeño presupuestario, así como de los resultados del mismo, que facilite la definición de:
-
-I. Las políticas y metodologías necesarias para la determinación de los instrumentos de la evaluación y su seguimiento;
-
-II. La forma y términos para la concertación y validación de los indicadores para la evaluación del desempeño;
-
-III. Los mecanismos de coordinación y cooperación que se requieran para atender las consultas en materia de evaluación que realicen las dependencias y entidades; las entidades federativas, por conducto de éstas, los municipios y demarcaciones territoriales del Distrito Federal;
-
-IV. Los procedimientos que se requieran para el mejoramiento de los instrumentos diseñados para la evaluación y el seguimiento al desempeño, y
-
-V. Las demás acciones que sean necesarias para los propósitos a que se refiere el presente artículo.
-
-En dicho grupo podrán participar las dependencias y entidades cuando así se considere conveniente por virtud de los asuntos a tratar, e invariablemente con el carácter de invitados permanentes la Oficina de la Presidencia de la República y el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+Artículo 304 A. (DEROGADO, D.O.F. 30 DE MARZO DE 2016)
 
 ### CAPÍTULO III. De las Auditorías
 
@@ -4805,9 +4787,11 @@ Los programas mínimos de auditoría que en su caso fije la Función Pública, e
 
 Los órganos internos de control realizarán las revisiones y auditorías correspondientes de acuerdo con la normatividad, políticas, guías y procedimientos que en materia de auditoría emita la Función Pública.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
 ###### Artículo 310.
 
-Las dependencias y entidades deberán proporcionar en los plazos en que les sean solicitados, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Función Pública, por sí o a través de los órganos internos de control, o a solicitud de la Secretaría o de la dependencia coordinadora de sector respectiva.
+Las dependencias y entidades deberán proporcionar en los plazos en que les sean solicitados, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Función Pública, por sí o a través de los órganos internos de control, o a solicitud de la Secretaría o de la dependencia coordinadora de sector respectiva, así como de la información complementaria que se requiera para el apoyo de las atribuciones de la Función Pública en materia de control de gestión y auditoría. Las dependencias y entidades serán responsables de la calidad y oportunidad de la información reportada a que se refiere este artículo.
 
 ###### Artículo 311.
 
@@ -5032,3 +5016,11 @@ IX. Centro de Educación y Capacitación para los Trabajadores, Asociación Civi
 Las dependencias y entidades con cargo a cuyos presupuestos se otorguen los subsidios a que se refiere el párrafo primero del presente transitorio, contarán con noventa días naturales, contados a partir de la entrada en vigor del mismo, para celebrar los convenios a que se refiere el artículo 175 Ter del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 Tercero.- El Instituto Nacional de Administración Pública, Asociación Civil podrá, sujeto a la disponibilidad presupuestaria, recibir el subsidio a que se refiere este Decreto, a partir del 1 de enero de 2016.
+
+D.O.F. 30 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
