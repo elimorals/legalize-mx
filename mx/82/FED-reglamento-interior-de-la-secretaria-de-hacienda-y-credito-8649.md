@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2014-10-31"
+last_updated: "2016-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2016.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -567,7 +567,9 @@ VII. Elaborar estudios sobre la organización de las unidades administrativas a 
 
 VIII. Adscribir al personal de las unidades administrativas que de ellos dependan y cambiarlo de adscripción cuando el cambio se realice a cualquiera de dichas unidades, así como separar al personal de confianza, cuando corresponda, conforme a las disposiciones jurídicas aplicables;
 
-IX. Someter a consideración del Secretario los anteproyectos de tratados y convenios internacionales en las materias de su competencia y celebrar los acuerdos que con base en aquéllos no requieran la firma del Secretario;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2016)</small>
+
+IX. Someter a consideración del Secretario los anteproyectos de tratados y convenios internacionales en las materias de su competencia, así como proponer y celebrar, con la opinión de la Procuraduría Fiscal de la Federación, los acuerdos interinstitucionales que correspondan conforme a dichas materias;
 
 X. Proporcionar la información y la cooperación técnica que les sean solicitadas por otras dependencias y entidades paraestatales del Ejecutivo Federal, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -4803,7 +4805,9 @@ XI. Integrar los apartados correspondientes de la exposición de motivos del pro
 
 XII. Analizar la experiencia internacional en el diseño y aplicación de normas y metodologías en materia de inversión, así como participar en foros y organismos nacionales e internacionales en temas relacionados con el ámbito de su competencia;
 
-XIII. (DEROGADA, D.O.F. 10 DE OCTUBRE DE 2012)
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2016)</small>
+
+XIII. Fungir como Secretario Ejecutivo de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación;
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2004)</small>
 
@@ -4849,7 +4853,9 @@ V. Emitir e interpretar las normas y lineamientos para el ejercicio del gasto p�
 
 VI. Normar la calendarización de los programas y presupuestos e integrar los calendarios de gasto, considerando la capacidad de ejercicio y la disponibilidad de fondos;
 
-VII. Administrar, integrar y llevar el registro contable del presupuesto del ramo general correspondiente a las provisiones salariales y económicas, así como realizar el seguimiento del ejercicio de las previsiones de gasto autorizadas con cargo a dicho ramo, de acuerdo con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2016)</small>
+
+VII. Administrar, integrar y llevar el registro contable del presupuesto del ramo general correspondiente a las provisiones salariales y económicas; realizar el seguimiento del ejercicio de las previsiones de gasto autorizadas con cargo a dicho ramo, de acuerdo con las disposiciones jurídicas aplicables, así como, en su caso, emitir las disposiciones para la aplicación, control, seguimiento, rendición de cuentas y transparencia de los recursos federales aprobados en ese ramo general;
 
 VIII. Determinar las asignaciones de recursos que deberán aportarse al Fondo de Desastres Naturales, así como llevar a cabo el control presupuestario de dichos recursos en los términos de las disposiciones aplicables;
 
@@ -4945,59 +4951,63 @@ XI. Representar a la Subsecretaría de Egresos cuando por instrucciones superior
 
 XII. Acordar con el Titular de la Unidad de Política y Control Presupuestario los asuntos de su competencia, así como atender los demás asuntos que este le encomiende.
 
-> <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 63.
 
 Compete a la Unidad de Evaluación del Desempeño:
 
-I. Coordinar la evaluación del desempeño a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como su seguimiento, sin perjuicio de las atribuciones que correspondan a la Secretaría de la Función Pública y al Consejo Nacional de Evaluación de la Política de Desarrollo Social, con la participación de las unidades administrativas competentes de la Secretaría y, cuando corresponda, de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de las entidades federativas, de los municipios y de las Demarcaciones Territoriales del Distrito Federal;
+I. Coordinar la evaluación del desempeño a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como su seguimiento, sin perjuicio de las atribuciones que correspondan al Consejo Nacional de Evaluación de la Política de Desarrollo Social en términos de dicha Ley, con la participación de las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público y, cuando corresponda, de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México;
 
-II. Coordinar la planeación para la programación presupuestaria orientada a resultados, así como las acciones que se requieran para mejorar la eficiencia, el desempeño y transparencia en el ejercicio del gasto público, con la participación de las unidades administrativas competentes de la Secretaría;
+II. Coordinar la planeación para la programación presupuestaria orientada a resultados, así como las acciones que se requieran para mejorar la eficiencia y el desempeño en el ejercicio del gasto público, con la participación de las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público;
 
-III. Participar, en los términos de las disposiciones aplicables, en las instancias de coordinación en materia de seguimiento y evaluación del desempeño del gasto público y sus resultados;
+III. Integrar la información del desempeño de los programas, y promover la transparencia en materia presupuestaria;
 
-IV. Expedir, en el ámbito de las atribuciones de la Secretaría y con la participación que corresponda a otras instancias competentes, las disposiciones necesarias para la operación del presupuesto basado en resultados y del Sistema de Evaluación del Desempeño y, en general, en materia de seguimiento y evaluación del desempeño, así como opinar, en el ámbito de su competencia, sobre las disposiciones que en dicha materia elabore la Secretaría de la Función Pública;
+IV. Emitir las disposiciones que deberán observar las dependencias y entidades de la Administración Pública Federal para la elaboración y seguimiento de los programas derivados del Plan Nacional de Desarrollo, en materia de planeación estratégica;
 
-V. Establecer mecanismos de coordinación y cooperación en materia de seguimiento y evaluación del desempeño, con la Secretaría de la Función Pública, el Consejo Nacional de Evaluación de la Política de Desarrollo Social y las demás instancias de la Administración Pública Federal que se requieran, así como, cuando corresponda, con las entidades federativas y, por conducto de éstas, con los municipios y con las demarcaciones territoriales del Distrito Federal, conforme a las disposiciones aplicables;
+V. Establecer mecanismos que promuevan la participación ciudadana en el ejercicio, seguimiento y evaluación del gasto público, en coordinación con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público;
 
-VI. Participar, en el marco de la planeación nacional del desarrollo y en el ámbito del presupuesto basado en resultados, en la definición de la política de gasto público y, en coordinación con las unidades administrativas competentes de la Secretaría, apoyar la definición de niveles de gasto y su distribución en la formulación de los programas, proyectos y presupuestos, con base en el Sistema de Evaluación del Desempeño;
+VI. Expedir con la participación que, en su caso, corresponda al Consejo Nacional de Evaluación de la Política de Desarrollo Social, las disposiciones necesarias para la operación del presupuesto basado en resultados y del Sistema de Evaluación del Desempeño y, en general, en materia de seguimiento y evaluación del desempeño de las políticas públicas y programas de la Administración Pública Federal;
 
-VII. Emitir dictamen, previa opinión de las Direcciones Generales de Programación y Presupuesto sectoriales correspondientes, sobre los programas sectoriales, regionales y especiales de la Administración Pública Federal, así como aprobar los programas institucionales a cargo de las entidades paraestatales sectorizadas y no sectorizadas y verificar su congruencia en materia de planeación, programación y presupuesto;
+VII. Establecer mecanismos de coordinación y colaboración en materia de seguimiento y evaluación del desempeño, con el Consejo Nacional de Evaluación de la Política de Desarrollo Social y, en su caso, con las dependencias y entidades de la Administración Pública Federal que se requiera, así como, cuando corresponda, con las entidades federativas y, por conducto de éstas, con los municipios y con las demarcaciones territoriales de la Ciudad de México, conforme a las disposiciones jurídicas aplicables;
 
-VIII. Emitir las disposiciones y metodologías para la suscripción por parte de las dependencias y entidades de la Administración Pública Federal de los instrumentos de mejora del desempeño, incluso de convenios, bases de desempeño y compromisos específicos de resultados;
+VIII. Participar, en el marco de la planeación nacional del desarrollo y en el ámbito del presupuesto basado en resultados, en la definición de la política de gasto público y, en coordinación con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público, apoyar la definición de niveles de gasto y su distribución en la formulación de los programas, proyectos y presupuestos, con base en el Sistema de Evaluación del Desempeño;
 
-IX. Concertar con las dependencias y entidades de la Administración Pública Federal, los objetivos, indicadores y metas del Sistema de Evaluación del Desempeño, con la intervención que corresponda a las unidades administrativas competentes de la Secretaría y de la Secretaría de la Función Pública en el ámbito de sus respectivas competencias, así como validar los indicadores estratégicos para su inclusión, en su caso, en el proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda;
+IX. Emitir dictamen, previa opinión de las Direcciones Generales de Programación y Presupuesto sectoriales correspondientes, sobre los programas sectoriales, regionales y especiales de la Administración Pública Federal, así como aprobar, previa opinión de dichas Direcciones Generales, los programas institucionales a cargo de las entidades paraestatales no sectorizadas, y verificar su congruencia en materia de planeación, programación y presupuesto;
 
-X. Coordinar la elaboración y emitir conjuntamente con la Secretaría de la Función Pública y el Consejo Nacional para la Evaluación de la Política de Desarrollo Social, el Programa Anual de Evaluación para el ejercicio fiscal que corresponda, así como las normas, lineamientos, mecanismos y términos de referencia, vinculados con su ejecución;
+X. Emitir las disposiciones y metodologías para la suscripción por parte de las dependencias y entidades de la Administración Pública Federal de los instrumentos de mejora del desempeño, incluso de convenios, bases de desempeño y compromisos específicos de resultados;
 
-XI. Coordinar, en el ámbito de competencia de la Secretaría, el seguimiento y la evaluación del desempeño de los recursos federales, incluyendo los que ejercen las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, con base en el Sistema de Evaluación del Desempeño;
+XI. Concertar con las dependencias y entidades de la Administración Pública Federal, los objetivos, metas e indicadores del Sistema de Evaluación del Desempeño, con la intervención que corresponda a las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público, así como validar los indicadores estratégicos para su inclusión en el proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda;
 
-XII. Participar en la integración de los informes y reportes que el Ejecutivo Federal envíe al Congreso de la Unión;
+XII. Coordinar la elaboración y emitir conjuntamente con el Consejo Nacional de Evaluación de la Política de Desarrollo Social, el Programa Anual de Evaluación para el ejercicio fiscal que corresponda, así como las normas, lineamientos, mecanismos y términos de referencia, vinculados con su ejecución;
 
-XIII. Administrar, de manera coordinada con la Secretaría de la Función Pública en el ámbito de sus respectivas competencias, los sistemas de información que aseguren la operación del presupuesto basado en resultados y del Sistema de Evaluación del Desempeño, así como participar con las instancias competentes, en su desarrollo, actualización y vinculación con los diversos sistemas de la Secretaría;
+XIII. Coordinar el seguimiento y la evaluación del desempeño de los programas de la Administración Pública Federal, incluyendo aquéllos en los que participen las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, con base en el Sistema de Evaluación del Desempeño;
 
-XIV. Dar seguimiento a la difusión y publicidad de los resultados de las evaluaciones del desempeño y al cumplimiento de los mecanismos para el seguimiento a los aspectos susceptibles de mejora derivados de informes y evaluaciones a los programas federales de la Administración Pública Federal de conformidad con el Programa Anual de Evaluación y las disposiciones aplicables, en coordinación con otras instancias competentes;
+XIV. Participar en la integración de los informes y reportes que el Ejecutivo Federal envíe al Congreso de la Unión;
 
-XV. Establecer mecanismos para la ejecución y seguimiento de los aspectos susceptibles de mejora derivados de las evaluaciones del desempeño, con la participación que corresponda a otras instancias competentes del ámbito federal y local;
+XV. Administrar los sistemas de información que aseguren la operación del presupuesto basado en resultados y del Sistema de Evaluación del Desempeño, así como aquellos que permitan el seguimiento de los recursos federales transferidos a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, y participar con las instancias competentes, en su desarrollo, actualización y vinculación con los demás sistemas de información que opera la Secretaría de Hacienda y Crédito Público;
 
-XVI. Apoyar a los gobiernos locales, en los términos de las disposiciones aplicables y con la participación de las dependencias y entidades de la Administración Pública Federal competentes, en el proceso de seguimiento y evaluación del desempeño de los programas financiados con recursos públicos;
+XVI. Dar seguimiento a la difusión y publicidad de los resultados de las evaluaciones del desempeño y al cumplimiento de los mecanismos para el seguimiento a los aspectos susceptibles de mejora derivados de los informes y evaluaciones a los programas de la Administración Pública Federal, de conformidad con el Programa Anual de Evaluación y demás disposiciones jurídicas aplicables, en coordinación con otras instancias competentes;
 
-XVII. Realizar estudios, investigaciones, informes especializados y emitir recomendaciones en materia de seguimiento y evaluación del desempeño;
+XVII. Establecer mecanismos para la ejecución y seguimiento de los aspectos susceptibles de mejora derivados de las evaluaciones del desempeño, con la participación que corresponda a otras instancias competentes del ámbito federal y local;
 
-XVIII. Proponer mejoras al proceso presupuestario, con base en el seguimiento de indicadores y los resultados de las evaluaciones;
+XVIII. Apoyar a los gobiernos locales, en los términos de las disposiciones jurídicas aplicables y con la participación que corresponda a las dependencias y entidades de la Administración Pública Federal competentes, en el proceso de seguimiento y evaluación del desempeño de los programas financiados con recursos públicos;
 
-XIX. Coordinar las acciones de formación y capacitación en materia de presupuesto basado en resultados y del Sistema de Evaluación del Desempeño;
+XIX. Realizar estudios, investigaciones, informes especializados y emitir recomendaciones en materia de seguimiento y evaluación del desempeño;
 
-XX. Participar en foros y eventos nacionales e internacionales en materia de evaluación del desempeño;
+XX. Proponer mejoras al proceso presupuestario, con base en el seguimiento de los indicadores y de los resultados de las evaluaciones a programas;
 
-XXI. Impulsar y fortalecer la cultura de la planeación y evaluación del desempeño, con la participación de instancias nacionales e internacionales especializadas en dichas materias;
+XXI. Coordinar acciones de formación y capacitación en materia de presupuesto basado en resultados y del Sistema de Evaluación del Desempeño en la Administración Pública Federal, así como apoyar, en su caso, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México en dichas materias;
 
-XXII. Dar seguimiento y evaluar el desempeño del gasto público federalizado, en coordinación con las unidades administrativas competentes de la Secretaría;
+XXII. Participar en foros y eventos nacionales e internacionales en materia de evaluación del desempeño;
 
-XXIII. Participar, en coordinación con las unidades administrativas competentes de la Secretaría, en el análisis e implementación de las normas, metodologías y procedimientos técnicos aprobados por el Consejo Nacional de Armonización Contable en el ámbito de la Administración Pública Federal, y
+XXIII. Impulsar y fortalecer la cultura de la planeación orientada a resultados y evaluación del desempeño, con la participación que corresponda a las instancias nacionales e internacionales especializadas en dichas materias;
 
-XXIV. Representar a la Subsecretaría de Egresos, cuando por instrucciones superiores así se establezca, en las sesiones de los órganos de gobierno y grupos de trabajo de las entidades y dependencias de la Administración Pública Federal, organismos públicos autónomos, y comités técnicos de fideicomisos públicos.
+XXIV. Dar seguimiento y evaluar el desempeño del gasto público federalizado, en coordinación con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público;
+
+XXV. Participar, en coordinación con las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público, en el análisis e implementación de las normas, metodologías y procedimientos técnicos aprobados por el Consejo Nacional de Armonización Contable en el ámbito de la Administración Pública Federal, y
+
+XXVI. Representar a la Subsecretaría de Egresos en las materias a que se refiere este artículo, cuando por instrucciones superiores así se establezca, en las sesiones de los órganos de gobierno y grupos de trabajo de las entidades y dependencias de la Administración Pública Federal, organismos públicos autónomos, y comités técnicos de fideicomisos públicos.
 
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -5111,9 +5121,13 @@ I. Integrar, administrar y llevar el registro contable del presupuesto del ramo 
 
 II. Integrar, administrar y llevar el registro contable del ramo general Aportaciones Federales para Entidades Federativas y Municipios, y
 
-III. Administrar los fondos de Aportaciones para la Educación Básica y Normal, Aportaciones para los Servicios de Salud, Aportaciones Múltiples, Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, y Aportaciones para la Educación Tecnológica y de Adultos, de conformidad con lo establecido en las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2016)</small>
 
-D. Además de las atribuciones señaladas en el apartado B de este artículo, compete a la Dirección General de Programación y Presupuesto “B”, en el ámbito del gasto correspondiente a los órganos administrativos desconcentrados de la Secretaría y de las entidades del sector coordinado por ésta y, en su caso, entidades no sectorizadas, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría, lo siguiente:
+III. Administrar los fondos de Aportaciones para la Educación Básica y Normal, Aportaciones para los Servicios de salud, Aportaciones Múltiples, Aportaciones para la Seguridad Pública de los Estados y de la Ciudad de México, y Aportaciones para la Educación Tecnológica y de Adultos, de conformidad con lo establecido en las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+D. Además de las atribuciones señaladas en el apartado B de este artículo, compete a la Dirección General de Programación y Presupuesto “B”, en el ámbito del gasto correspondiente a los órganos administrativos desconcentrados de la Secretaría de Hacienda y Crédito Público y de las entidades paraestatales sectorizadas a dicha Secretaría y del Ramo 47 “Entidades no sectorizadas”, en las materias que no estén expresamente asignadas por este Reglamento a otras unidades administrativas de la Secretaría de Hacienda y Crédito Público, lo siguiente:
 
 I. Coordinar las actividades de programación, presupuesto, ejercicio, control, seguimiento y evaluación del gasto público de los órganos administrativos desconcentrados de la Secretaría y de las entidades del sector coordinado por ella y, en su caso, entidades no sectorizadas, con base en las disposiciones que emita la Subsecretaría de Egresos y en las demás normas presupuestarias aplicables;
 
@@ -5125,9 +5139,17 @@ IV. Proponer las políticas, directrices, normas o criterios técnicos y adminis
 
 V. Difundir las normas, lineamientos, políticas y demás disposiciones que en materia programática, presupuestaria, financiera, contable y de organización, emitan las instancias competentes;
 
-VI. Apoyar en las funciones que como coordinadora de sector correspondan a la Secretaría respecto a las entidades cuyo objeto directo sea distinto al de la intermediación financiera, y
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2016)</small>
 
-VII. Proponer, para autorización, la distribución de gasto del proyecto de presupuesto del Ramo 06 “Hacienda y Crédito Público”, entre la Secretaría, sus órganos administrativos desconcentrados y entidades del sector coordinado por ella y, en su caso, entidades no sectorizadas.
+VI. Apoyar en las funciones que como coordinadora de sector correspondan a la Secretaría de Hacienda y Crédito Público respecto a las entidades paraestatales cuyo objeto directo sea distinto al de la intermediación financiera;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2016)</small>
+
+VII. Proponer, para autorización, la distribución de gasto del proyecto de presupuesto del Ramo 06 “Hacienda y Crédito Público”, entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Hacienda y Crédito Público y las entidades paraestatales sectorizadas a dicha Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2016)</small>
+
+VIII. Supervisar y, en su caso, integrar el proyecto de presupuesto y el calendario de gasto de las entidades paraestatales no sectorizadas correspondiente al Ramo 47 “Entidades no Sectorizadas”.
 
 > <small>(REFORMADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -5189,7 +5211,9 @@ IV. Integrar el anteproyecto de presupuesto, así como el calendario de gasto de
 
 V. Difundir entre las unidades administrativas de la Secretaría las normas, lineamientos, políticas y demás disposiciones que en materia programática, presupuestaria, financiera, y de organización, emitan las instancias competentes;
 
-VI. Coordinar las actividades relacionadas con la consolidación de la información del Ramo 06 Hacienda y Crédito Público para la integración de la Cuenta de la Hacienda Pública Federal y, en su caso, demás informes relativos a dicho Ramo;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2016)</small>
+
+VI. Coordinar las actividades relacionadas con la consolidación de la información de los Ramos 06 “Hacienda y Crédito Público” y 47 “Entidades no Sectorizadas”, para la integración de la Cuenta de la Hacienda Pública Federal y, en su caso, de los demás informes relativos a dichos ramos;
 
 VII. Tramitar las solicitudes que para el ejercicio, reembolso y pago del presupuesto, realicen las unidades administrativas del sector central de la Secretaría, así como efectuar el registro presupuestario y contable del gasto correspondiente;
 
@@ -7847,9 +7871,9 @@ Las ausencias del titular del Órgano Interno de Control, así como las de los t
 
 El titular de la Unidad de Inteligencia Financiera será suplido en sus ausencias, por el Director General de Asuntos Normativos, el Director General de Procesos Legales, el Director General de Análisis, el Director General Adjunto de Infraestructura Tecnológica, el Director General Adjunto de Asuntos Normativos e Internacionales, y por el Director General Adjunto de Asuntos Normativos y Relaciones con Actividades Vulnerables, en el orden antes indicado.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
 
-El titular de la Unidad de Política y Control Presupuestario será suplido en sus ausencias por el Director General de Política Presupuestaria y por los Directores Generales Adjuntos de Programación e Integración Presupuestaria; de Estrategia y Política Presupuestaria; de Técnica de Presupuesto, y de Seguimiento y Evaluación Presupuestaria, en el orden indicado.
+El titular de la Unidad de Política y Control Presupuestario será suplido en sus ausencias por el Director General de Política Presupuestaria y por los directores generales adjuntos de Programación e Integración Presupuestaria; de Normatividad Presupuestaria; de Seguros, Análisis e Información, y Técnico de Presupuesto, en el orden indicado.
 
 El titular de la Unidad de Evaluación del Desempeño será suplido en sus ausencias por los Directores Generales Adjuntos de Evaluación de los Resultados de los Programas Presupuestarios, y de Seguimiento e Información del Desempeño Presupuestario, en el orden indicado.
 
@@ -8238,3 +8262,9 @@ SEGUNDO.- Las modificaciones a la estructura orgánica de las unidades administr
 TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que cambien de denominación por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
 
 CUARTO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este instrumento.
+
+D.O.F. 30 DE MARZO DE 2016.
+
+[N DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
