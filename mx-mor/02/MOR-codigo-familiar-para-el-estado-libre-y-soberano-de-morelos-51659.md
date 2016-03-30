@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-03-09"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MOR"
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE MARZO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO TRESCIENTOS VEINTICINCO PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2016.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1967,7 +1969,7 @@ Lo mismo se observará respecto de la recuperación de la custodia.
 
 ###### ARTÍCULO 224.
 
-OBLIGACIÓN DE RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, rencor o rechazo hacia el otro progenitor, sopena (sic) de suspendérsele en su ejercicio.
+OBLIGACIÓN DE RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, rencor o rechazo hacia el otro progenitor, sopena de suspendérsele en su ejercicio.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
