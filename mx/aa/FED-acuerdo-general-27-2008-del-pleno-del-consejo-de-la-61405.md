@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-27-2008-del-pleno-del-consejo-de-la-61405"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-06-11"
-last_updated: "2012-08-03"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61405&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-04"
 
 ACUERDO GENERAL 27/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA CUARTA REGIÓN, CON RESIDENCIA EN XALAPA, VERACRUZ, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2008.
 
@@ -57,25 +57,19 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 24/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 15/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2016)</small>
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, conformado por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares; el domicilio de tres juzgados de Distrito será el ubicado en avenida Culturas Veracruzanas número 120, código postal 91096, colonia Reserva Territorial, en Xalapa, Veracruz, y el de los restantes órganos jurisdiccionales que integran el Centro Auxiliar, estará en Ruiz Cortines número 1628, código postal 91020, colonia Ferrer Guardia, Xalapa, Veracruz, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, está conformado por dos tribunales colegiados Auxiliares y tres juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación es la siguiente:
 
-Juzgado Primero de Distrito del Centro Auxiliar de la Cuarta Región.
+I. Juzgado Tercero de Distrito del Centro Auxiliar de la Cuarta Región;
 
-Juzgado Segundo de Distrito del Centro Auxiliar de la Cuarta Región.
+II. Juzgado Cuarto de Distrito del Centro Auxiliar de la Cuarta Región;
 
-Juzgado Tercero de Distrito del Centro Auxiliar de la Cuarta Región.
+III. Juzgado Quinto de Distrito del Centro Auxiliar de la Cuarta Región;
 
-Juzgado Cuarto de Distrito del Centro Auxiliar de la Cuarta Región.
+IV. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región; y
 
-Juzgado Quinto de Distrito del Centro Auxiliar de la Cuarta Región.
-
-Los tribunales colegiados se denominarán:
-
-Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región.
-
-Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región.
+V. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región.
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz.
 
@@ -300,3 +294,59 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. Se abroga el Acuerdo General 7/2011, del Pleno del Consejo de la Judicatura Federal, relativo al inicio de funciones del Tribunal Unitario de Circuito del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, con jurisdicción en toda la República.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 30 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 15/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA CUARTA REGIÓN, CON RESIDENCIA EN XALAPA, VERACRUZ Y SU TRANSFORMACIÓN EN EL JUZGADO DÉCIMO OCTAVO DE DISTRITO EN LA REFERIDA ENTIDAD FEDERATIVA Y SEDE, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES; Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA RESIDENCIA INDICADOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el treinta y uno de marzo de dos mil dieciséis, con excepción de lo previsto en el transitorio QUINTO, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa, continuará aplicándose hasta el once de abril de dos mil dieciséis.
+
+Las guardias de turno, conforme al sistema del artículo 4 de este Acuerdo, quedan como sigue: del once al dieciocho de abril de dos mil dieciséis, corresponderá al Juzgado Décimo Octavo de Distrito; del dieciocho al veinticinco de abril de dos mil dieciséis, corresponderá al Juzgado Primero de Distrito; del veinticinco de abril al dos de mayo de dos mil dieciséis, al Juzgado Segundo de Distrito; del dos al nueve de mayo de dos mil dieciséis, al Juzgado Decimoquinto de Distrito; del nueve al dieciséis de mayo de dos mil dieciséis, al Juzgado Decimoséptimo de Distrito; del dieciséis al veintitrés de mayo de dos mil dieciséis, al Juzgado Décimo Octavo de Distrito; y así sucesivamente en ese orden de manera semanal.
+
+CUARTO. A la conclusión de funciones de los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, la Comisión de Adscripción determinará la readscripción de sus titulares. Para conformar la plantilla del juzgado de Distrito de nueva creación, la Dirección General de Recursos Humanos, vigilará que el personal de los órganos jurisdiccionales auxiliares que concluyen funciones, se integre al referido juzgado, respetando sus derechos laborales.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, deberá realizar las acciones necesarias para la ubicación del nuevo órgano jurisdiccional, y para dotarlo de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción VII, número 3; y QUINTO, número 4 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. a VI. ...
+
+VII. ...
+
+1. ...
+
+2. ...
+
+3. Diecisiete juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba.
+
+VIII. a XXXII. ...
+
+QUINTO. ...
+
+1. a 3. ...
+
+4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y tres juzgados de Distrito Auxiliares.
+
+5. a 11. ...
+
+..."
+
+SÉPTIMO. Se reforma el numeral PRIMERO del Acuerdo General 27/2008, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+"PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, está conformado por dos tribunales colegiados Auxiliares y tres juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación es la siguiente:
+
+I. Juzgado Tercero de Distrito del Centro Auxiliar de la Cuarta Región;
+
+II. Juzgado Cuarto de Distrito del Centro Auxiliar de la Cuarta Región;
+
+III. Juzgado Quinto de Distrito del Centro Auxiliar de la Cuarta Región;
+
+IV. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región; y
+
+V. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región."
