@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-organizacion-coordinacion-y-110118"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2015-10-08"
-last_updated: "2015-10-08"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110118&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-09-11"
 
 LINEAMIENTOS PARA LA ORGANIZACIÓN, COORDINACIÓN Y FUNCIONAMIENTO DE LAS INSTANCIAS DE LOS INTEGRANTES DEL SISTEMA NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2016.
 
 Lineamientos publicados en la Segunda Sección del Diario Oficial de la Federación, el jueves 8 de Octubre de 2015.
 
@@ -271,7 +271,13 @@ IV. Sureste: Veracruz, Tabasco, Campeche, Chiapas, Yucatán y Quintana Roo.
 
 A las Sesiones de Trabajo de las Coordinaciones Regionales podrán asistir con voz las Comisionadas y los Comisionados integrantes de los Organismos Garantes, de la Región que se trate así como las Comisionadas y los Comisionados del Instituto; el voto será institucional y uno por cada Organismo Garante. El voto institucional será ejercido por su presidente, el cual deberá ser respaldado por la mayoría de su Pleno.
 
-En estas Sesiones Regionales podrán participar libre y voluntariamente con voz y voto los representantes de la ASF, el AGN e INEGI, si así lo desean, en los trabajos de todas las regiones, cuando a su juicio los temas del orden del día a desahogar involucren contenidos de su interés conforme al ámbito de su competencia o naturaleza.
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+En estas Sesiones Regionales podrán participar libre y voluntariamente con voz y voto los representantes de la ASF, el AGN e INEGI, si así lo desean, en los trabajos de todas las regiones, cuando a su juicio los temas del orden del día a desahogar involucren contenidos de su interés conforme al ámbito de su competencia o naturaleza. También podrá participar la Secretaría Ejecutiva o su representante, con voz pero sin voto.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+Para los efectos de lo dispuesto en el párrafo anterior, el Coordinador Regional respectivo, deberá poner en conocimiento a los representantes de la ASF, el AGN e INEGI y al Secretario Ejecutivo de las convocatorias que al efecto se emitan, lo cual se hará a través del mecanismo tecnológico que se implemente para efectos de publicidad.
 
 ###### Artículo 17.
 
@@ -389,11 +395,19 @@ En las comisiones se coordina, colabora, dialoga, discute, delibera, analiza y p
 
 La competencia de las comisiones corresponderá a las materias indicadas en su denominación y las previstas específicamente en los presentes Lineamientos.
 
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+Los interesados en formar parte de las Comisiones Ordinarias, deberán solicitarlo al Coordinador respectivo, para que éste proceda a integrarlos. Para ello al momento de solicitar el registro deberán remitir al Coordinador el documento con el que acrediten ser integrantes del Sistema Nacional de Transparencia y solicitud en la que manifieste su voluntad de ser parte de la Comisión o Comisiones de su interés. El Coordinador deberá comunicar al Secretario Ejecutivo el registro correspondiente para los efectos de que éste integre y actualice el Directorio correspondiente.
+
 ###### Artículo 24.
 
 Las Comisiones estarán conformadas, por lo menos con dos integrantes de cada región; es decir, al menos ocho integrantes de los Organismos Garantes de las Entidades Federativas de tal suerte que cada Comisión tenga una representatividad nacional, además podrán participar AGN, ASF, INEGI y el Instituto de forma voluntaria asumen el compromiso y responsabilidad de dar seguimiento a las tareas encomendadas, en el plan de trabajo establecido por la Comisión y otras que deriven del encargo.
 
 Cualquier integrante del Sistema podrá asistir a las sesiones de cualquiera de las Comisiones, a pesar de no pertenecer ésta, con voz pero sin voto. Esto también es aplicable a la Secretaría Ejecutiva o a su representante.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+Para estos efectos el Coordinador de la Comisión respectiva, deberá hacer del conocimiento de los demás integrantes del Sistema Nacional y del Secretario Ejecutivo las convocatorias que se emitan, lo cual será a través del medio de difusión que para efectos de su publicidad se implemente.
 
 ###### Artículo 25.
 
@@ -939,6 +953,10 @@ En los casos de las sesiones extraordinarias, no se abrirá espacio para el trat
 
 Las sesiones serán conducidas, según corresponda, por la Presidencia o la Coordinación, con el apoyo de la Secretaría correspondiente en el ámbito de sus respectivas atribuciones.
 
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+La ausencia del Presidente o del Coordinador, según sea el caso, será suplida por la persona que ocupe la Secretaría o el Secretario Ejecutivo, debiendo elegirse entre los presentes a quien ocupará el cargo de Secretario, en ambos casos sólo para efectos de esa sesión.
+
 ###### Artículo 60.
 
 En el día y la hora fijados se reunirán los integrantes del Sistema Nacional convocados en el domicilio establecido. La Secretaría declarará instalada la Sesión, previa verificación de asistencia y certificación de la existencia del quórum legal.
@@ -949,9 +967,11 @@ El quórum para las sesiones de las instancias del Sistema Nacional se integrar�
 
 Para que una sesión de Comisión sea válida, se requiere la asistencia de la mitad más uno de sus integrantes. En los casos de sesiones de Comisiones unidas, el quórum se formará con la asistencia de la mitad más uno de los integrantes de cada una de ellas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO D.O.F. 30 DE MARZO DE 2016)</small>
+
 ###### Artículo 62.
 
-Si llegada la hora que se fijó para la sesión no se reúne el quórum requerido, se dará un término de espera máximo de una hora. Si transcurrido dicho tiempo aún no se integra el quórum necesario para llevar a cabo la sesión, la Secretaría correspondiente hará constar tal situación en acta circunstanciada y se citará mediante medios electrónicos para dicha sesión, a través de ulterior convocatoria, en un plazo no mayor de cuatro horas, a los integrantes del Sistema Nacional faltantes, quedando notificados en ese mismo momento los que estuvieren presentes.
+Si llegada la hora que se fijó para la sesión no se reúne el quórum requerido, se dará un término de espera máximo de treinta minutos. Si transcurrido dicho tiempo aún no se integra el quórum necesario para llevar a cabo la sesión, la Secretaria o el Secretario Ejecutivo procederá a dejar constancia del hecho mediante acta circunstanciada y dentro de los treinta minutos siguientes, se hará de conocimiento a los presentes la convocatoria a una sesión posterior con el mismo número y orden del día y mediante medios electrónicos a los Integrantes del Sistema que no hayan asistido a la sesión.
 
 Las sesiones derivadas de ulterior convocatoria con motivo de lo anterior se efectuarán en el lugar, día y hora que se señalen en esa convocatoria, con los integrantes del Sistema Nacional que concurran. El acta circunstanciada a que se refiere el párrafo anterior formará parte del acta de la sesión.
 
@@ -1016,6 +1036,10 @@ Se declarará la validez de la sesión con la presencia o asistencia remota tota
 Se podrá llevar a cabo la asistencia remota de los integrantes que no puedan acudir de manera presencial a las sesiones ordinarias y extraordinarias que contemplen los presentes Lineamientos para emitir comentarios o, en su caso, votos.
 
 Dicha asistencia remota se llevará a cabo mediante conexión remota privilegiando el uso de las herramientas tecnológicas de la comunicación y recursos electrónicos, tales como las videoconferencias, siempre y cuando exista prueba fehaciente de la titularidad de quien asista y si las condiciones técnicas del lugar de sesión así lo permiten.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+La asistencia remota se realizará a través de los mecanismos tecnológicos, que bajo un esquema de coordinación y colaboración faciliten el Instituto o algún otro de los integrantes del Consejo del Sistema Nacional.
 
 ###### Artículo 73.
 
@@ -1126,3 +1150,13 @@ Los aspirantes deberán cumplir los requisitos establecidos en los artículos 47
 Los presentes Reglamento del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y Lineamientos para la organización, coordinación y funcionamiento de las Instancias de los Integrantes del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, fueron aprobados el día 11 de septiembre de 2015, en la sesión del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales por lo que en cumplimiento a lo establecido en los artículos 31, fracción XI y 36 fracción I de la Ley General de Transparencia y Acceso a la Información Pública, así como el Transitorio tercero del Reglamento y segundo de los Lineamientos se realiza su publicación en la Ciudad de México, Distrito Federal a 25 de septiembre de 2015.
 
 La Presidenta del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, Ximena Puente de la Mora.- Rúbrica.- El Secretario Ejecutivo del Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, Federico Guzmán Tamayo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 16, 23, 24, 59, 62 Y 72 DE LOS LINEAMIENTOS PARA LA ORGANIZACIÓN, COORDINACIÓN Y FUNCIONAMIENTO DE LAS INSTANCIAS DE LOS INTEGRANTES DEL SISTEMA NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se instruye al Secretario Ejecutivo para que publique el presente Acuerdo en el Diario Oficial de la Federación y a los integrantes del Sistema Nacional para su publicación en sus respectivas páginas electrónicas.
