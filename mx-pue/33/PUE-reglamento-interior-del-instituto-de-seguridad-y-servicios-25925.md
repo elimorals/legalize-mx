@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-de-seguridad-y-servicios-2592
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-11"
-last_updated: "2008-03-05"
+last_updated: "2016-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2008.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 11 de septiembre de 2002.
 
@@ -283,7 +285,7 @@ XV. Coordinar la elaboración periódica de informes estadísticos, de acuerdo c
 
 XVI. Promover y realizar estudios para el mejoramiento de las técnicas de aplicación médica y de la enseñanza teórica y práctica, tendiente a capacitar y actualizar al personal médico y paramédico del Instituto;
 
-XVII. Vigilar la actualización del Catálogo de Medicamentos y de Alta Especialidad, cuando menos cada dos años; y (sic)
+XVII. Vigilar la actualización del Catálogo de Medicamentos y de Alta Especialidad, cuando menos cada dos años; y
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
@@ -291,7 +293,7 @@ XVIII. Vigilar que el trámite de solicitud de reembolso por la prestación de s
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2008)</small>
 
-XIX. Las demás que le confieran la Ley y las disposiciones legales aplicables y las que le asignen la Junta y e1 Director General.
+XIX. Las demás que le confieran la Ley y las disposiciones legales aplicables y las que le asignen la Junta y el Director General.
 
 ### CAPÍTULO VI. DE LA SUBDIRECCIÓN GENERAL DE FINANZAS Y ADMINISTRACIÓN
 
@@ -353,7 +355,7 @@ XXIV. Desarrollar programas de vivienda en beneficio de los servidores públicos
 
 XXV. Establecer las bases para la constitución, manejo y aplicación de fondos de garantía para los créditos otorgados por el Instituto;
 
-XXVI. Determinar y recuperar la cartera vencida por concepto de créditos otorgados, estableciendo los adeudos y mecanismos para la recuperación de éstos; y (sic)
+XXVI. Determinar y recuperar la cartera vencida por concepto de créditos otorgados, estableciendo los adeudos y mecanismos para la recuperación de éstos; y
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
@@ -433,7 +435,7 @@ XIX. Proporcionar servicios de informática a las Unidades Administrativas del I
 
 XX. Auxiliar a las demás Unidades Administrativas en sus tareas de captura, programación y diseño, organizándolas conforme a las prioridades del Instituto y sus sistemas existentes;
 
-XXI. Coadyuvar directamente con las Unidades Administrativas del Instituto, en la elaboración de los estudios, informes y evaluaciones que se requieran periódicamente, con respecto al cumplimiento de las metas y actividades que contemple el programa anual de trabajo, recabando y analizando la información necesaria para su integración; y (sic)
+XXI. Coadyuvar directamente con las Unidades Administrativas del Instituto, en la elaboración de los estudios, informes y evaluaciones que se requieran periódicamente, con respecto al cumplimiento de las metas y actividades que contemple el programa anual de trabajo, recabando y analizando la información necesaria para su integración; y
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2008)</small>
 
@@ -539,9 +541,9 @@ SEGUNDO.- Cuando las funciones de alguna Unidad Administrativa establecida con a
 
 TERCERO.- Se derogan las disposiciones que se opongan a este Reglamento.
 
-H. Puebla de Z., a 2 de agosto de 2002.- Acuerdo No. 47/02.- La H. Junta Directiva autoriza favorablemente por unanimidad, la aplicación operativa del Reglamento Interior del Instituto.- Secretario de Salud y Presidente de la H. Junta Directiva.- DOCTOR JESÚS LORENZO AARUN RAMÉ.- Rúbrica.- Director General.- DOCTOR MIGUEL MARTÍNEZ VILLALPANDO.- Rúbrica.- DOCTOR HUGO ELOY MELÉNDEZ AGUILAR.- Rúbrica.- LICENCIADO VÍCTOR M. CORTÉS LEYVA.-Rúbrica.-INGENIERO JOSÉ RAÚL APAN OSORIO.-Rúbrica.-LICENCIADO RODOLFO DE PASCUAL JIMÉNEZ.- Rúbrica.- PROFESOR JUAN SOLÍS ROMERO.- Rúbrica.- DOCTOR J. ARMANDO CARRASCO MALPICA.- Rúbrica.- LICENCIADO ALVARO RUBÉN HERNÁNDEZ Y CAMPOS.- Rúbrica.- LICENCIADO ALEJANDRO CORDERO CRUZ.- Rúbrica.-Comisarios.- PROFESOR ISAAC CHALFON GONZÁLEZ.- Rúbrica.-CIUDADANO CESAR ALVARADO DURÁN.- Rúbrica.- LICENCIADO VÍCTOR KURI BUJAIDAR- Rúbrica.- Secretario de Actas.- CONTADOR PÚBLICO JAlME I. ROSAS CARRILLO.- Rúbrica.
+H. Puebla de Z., a 2 de agosto de 2002.- Acuerdo No. 47/02.- La H. Junta Directiva autoriza favorablemente por unanimidad, la aplicación operativa del Reglamento Interior del Instituto.- Secretario de Salud y Presidente de la H. Junta Directiva.- DOCTOR JESÚS LORENZO AARUN RAMÉ.- Rúbrica.- Director General.- DOCTOR MIGUEL MARTÍNEZ VILLALPANDO.- Rúbrica.- DOCTOR HUGO ELOY MELÉNDEZ AGUILAR.- Rúbrica.- LICENCIADO VÍCTOR M. CORTÉS LEYVA.-Rúbrica.-INGENIERO JOSÉ RAÚL APAN OSORIO.-Rúbrica.-LICENCIADO RODOLFO DE PASCUAL JIMÉNEZ.- Rúbrica.- PROFESOR JUAN SOLÍS ROMERO.- Rúbrica.- DOCTOR J. ARMANDO CARRASCO MALPICA.- Rúbrica.- LICENCIADO ALVARO RUBÉN HERNÁNDEZ Y CAMPOS.- Rúbrica.- LICENCIADO ALEJANDRO CORDERO CRUZ.- Rúbrica.-Comisarios.- PROFESOR ISAAC CHALFON GONZÁLEZ.- Rúbrica.-CIUDADANO CESAR ALVARADO DURÁN.- Rúbrica.- LICENCIADO VÍCTOR KURI BUJAIDAR- Rúbrica.- Secretario de Actas.- CONTADOR PÚBLICO JAIME I. ROSAS CARRILLO.- Rúbrica.
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 P.O. 5 DE MARZO DE 2008.
 
@@ -550,3 +552,19 @@ PRIMERO.- Las presentes reformas y adiciones del Reglamento, así como la creaci
 SEGUNDO.- Cuando las funciones de alguna Unidad Administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercitadas por alguna otra unidad de las que el mismo establece o cuando se cambie su adscripción, el personal, mobiliario, archivo y en general el equipo que aquella haya utilizado, pasarán a la Unidad que se determine y competerá a la nueva Unidad Administrativa terminar la sustanciación y determinación de resoluciones que corresponda, de los asuntos que se encuentren en trámite, sin contravención a lo establecido por la ley que aplica en la materia.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a este Reglamento.
+
+P.O. 30 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado de Puebla, publicado el 11 de septiembre de 2002 en el Periódico Oficial del Estado de Puebla.
+
+TERCERO. Las unidades administrativas del Instituto, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirán utilizando las formas oficiales, formatos y demás papelería existente en los que conste su denominación anterior, hasta que se agoten.
+
+CUARTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a unidades administrativas que desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
+
+QUINTO. Los asuntos que hubiesen iniciado su trámite con anterioridad a la entrada en vigor del presente Decreto, serán de la competencia de la unidad administrativa del Organismo a la que sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+SEXTO. Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
