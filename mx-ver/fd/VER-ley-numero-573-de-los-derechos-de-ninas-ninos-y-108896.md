@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-los-derechos-de-ninas-ninos-y-108896"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-03"
-last_updated: "2015-07-03"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 3 de julio de 2015.
 
@@ -530,6 +530,12 @@ Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de 
 ###### Artículo 40.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2016)</small>
+
+###### Artículo 40 Bis.
+
+Queda prohibida la asistencia y entrada de menores de edad a las corridas de toros, procurando la seguridad de aquéllos y sus valores humanos, garantizando así el acceso a una vida libre de violencia, correspondiendo la observancia y acatamiento de este precepto al Sistema Estatal de Protección Integral al que se refiere la presente Ley.
 
 ###### Artículo 41.
 
@@ -1942,3 +1948,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
