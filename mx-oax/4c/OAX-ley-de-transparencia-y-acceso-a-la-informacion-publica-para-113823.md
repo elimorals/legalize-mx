@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2016-03-16"
+last_updated: "2016-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "OAX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE NO VETADA, HASTA EN TANTO EL CONGRESO DEL ESTADO RESUELVA LAS OBSERVACIONES PENDIENTES, EN CONSECUENCIA SE PUBLICA EL DECRETO NÚMERO 1690 POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA EN EL P.O. DE 11 DE MARZO DE 2016”.]</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS AL EXTRA DEL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, DE FECHA 11 DE MARZO DEL ANO 2016, QUE CONTIENE LAS PARTES NO VETADAS, DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA PARA EL ESTADO DE OAXACA, PUBLICADA EN EL PERIÓDICO OFICIAL DE 30 DE MARZO DE 2016.</small>
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -43,9 +43,7 @@ Se expide la LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ES
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-[El artículo 1, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 ## TÍTULO SEGUNDO (SIC). DE LA CULTURA Y OBLIGACIONES DE LA TRANSPARENCIA
 
@@ -53,9 +51,13 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXAC
 
 ###### Artículo 1.
 
-...
+La presente Ley es de orden público, interés social y de observancia General en todo el Estado.
 
-...
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+Tiene por objeto establecer los principios, bases generales y procedimientos para garantizar el derecho de acceso a la información en posesión de cualquier autoridad, órgano y organismo de los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así corno de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
 
@@ -735,45 +737,67 @@ Los Sujetos Obligados podrán establecer comunicación con los ciudadanos, a tra
 
 #### SECCIÓN PRIMERA. DE SU CLASIFICACIÓN Y DESCLASIFICACIÓN
 
-[El artículo 49, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por el artículo 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 49.
 
-...
+El acceso a la información pública sólo podrá ser restringido de manera excepcional, cuando por razones de interés público, ésta sea clasificada como reservada.
 
-...
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
-I. ...;
+Se clasificará como información reservada aquella que:
 
-II. ...;
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+I. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+II. Comprometa la seguridad pública estatal o municipal;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 III. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 IV. Se entregue al Estado mexicano expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 V. Dañe la estabilidad económica y financiera del Estado y Municipios;
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 VI. Obstruya las actividades de prevención o persecución de los delitos;
 
-VII. ...;
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
-VIII. ...;
+VII. Obstruya las actividades de verificación, inspección y auditoría relativas al cumplimiento de las leyes;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+VIII. Afecte la recaudación de las contribuciones;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 IX. Contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto se adoptada la decisión definitiva, la cual deberá estar documentada. Se considera que se ha adoptado la decisión definitiva cuando el o los servidores públicos responsables de tomar la resolución resuelvan de manera concluyente una etapa, sea o no susceptible de ejecución;
 
-X. ...;
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+X. Contengan los expedientes de averiguaciones previas o carpetas de investigación, sin embargo una vez que se determinó el ejercicio de la acción penal o el no ejercicio de la misma, serán susceptibles de acceso, a través de versiones públicas, en términos de las disposiciones aplicables;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
@@ -781,17 +805,25 @@ XI. Contienen los expedientes judiciales o de los procedimientos administrativos
 
 Una vez que dicha resolución cause ejecutoria los expedientes serán públicos, salvo la información reservada o confidencial que pudieran contener;
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 XII. Afecte los derechos del debido proceso;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 XIII. Se contiene en los expedientes de las denuncias y procedimientos de juicio político, que se lleven a cabo, ante el Congreso del Estado, de conformidad con lo dispuesto por los artículos 59 fracción XLVI, 117 y 118 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 XIV. Obstruya los procedimientos para fincar responsabilidad a servidores públicos, en tanto no se haya dictado la resolución administrativa; y
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
@@ -1019,6 +1051,8 @@ El Instituto tiene la facultad de establecer su funcionamiento interno, en los t
 
 El Congreso del Estado, a través del Presupuesto de Egresos del Estado, analizará y, en su caso, aprobará los recursos que el Instituto solicite para el cumplimiento de sus funciones. Los recursos previstos para el Instituto no podrán ser inferiores en términos reales a los asignados en el ejercicio fiscal anterior, excepto cuando corresponda a una reducción generalizada del gasto para todas las dependencias y entidades públicas, o cuando el Instituto no presente los informes del ejercicio presupuestal que correspondan o si habiéndolos presentado existieran insuficiencias en su ejecución.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
 ###### Artículo 74.
@@ -1028,6 +1062,22 @@ El Consejo General del Instituto administrará su patrimonio conforme a la prese
 I. El ejercicio del presupuesto deberá ajustarse a los principios de austeridad, honestidad, legalidad, racionalidad, transparencia y optimización de recursos, y
 
 II. De manera supletoria, podrán aplicarse en la materia, los ordenamientos jurídicos estatales en tanto no se opongan a la autonomía, naturaleza y funciones propias del Instituto.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+III. El ejercicio presupuestal del instituto deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+IV. El instituto manejará su patrimonio conforme a las disposiciones aplicables. En todo caso, el instituto requerirá el acuerdo del Consejo General, para dictar resoluciones que afecten el patrimonio inmobiliario o para celebrar actos o convenios que comprometan al instituto por un plazo mayor al período de su encargo, por lo que el instituto deberá observar las disposiciones aplicables a los órganos de gobierno de las entidades de la Administración Pública Estatal. El convenio siempre será por un tiempo determinado y con un objeto preciso;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+V. El instituto podrá celebrar acuerdos con las dependencias de los poderes ejecutivo o legislativo que correspondan, para que coadyuven, total o parcialmente, en las funciones relacionadas con la administración, control y fiscalización de su patrimonio, y
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+VI. En todo lo relativo a la administración, control y fiscalización de su patrimonio, el instituto deberá observar las disposiciones aplicables a los órganos de gobierno de las entidades de la Administración Pública Estatal, según la materia de que se trate.
 
 ###### Artículo 75.
 
@@ -1057,7 +1107,7 @@ Las relaciones laborales generadas entre el Instituto y su personal se regirán 
 
 ### CAPÍTULO III. DEL ACCESO A LA INFORMACIÓN PÚBLICA EN EL ESTADO
 
-[El artículo 109, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 81.
 
@@ -1079,7 +1129,7 @@ El instituto creará las unidades administrativas, técnicas y de vigilancia que
 
 #### SECCIÓN SEGUNDA. LA PRESIDENCIA DEL CONSEJO GENERAL
 
-[El artículo 91, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 82.
 
@@ -1317,6 +1367,12 @@ V. Ser Licenciado en Derecho, preferentemente.
 
 #### SECCIÓN TERCERA. DEL CONTRALOR GENERAL
 
+###### Artículo 91.
+
+El Consejo General y el instituto serán presididos por un comisionado, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de dos años, pudiendo ser reelecto por un período igual.
+
+El Comisionado Presidente será electo por el voto de la mayoría de los integrantes del Consejo General presentes en la sesión de elección.
+
 ###### Artículo 92.
 
 Las ausencias temporales del Comisionado Presidente las suplirá el comisionado en funciones de mayor antigüedad.
@@ -1325,41 +1381,75 @@ En caso de ausencia definitiva del Comisionado Presidente, asumirá el cargo de 
 
 Se considerará ausencia definitiva, la inasistencia consecutiva y sin causa justificada, de algún comisionado, a tres sesiones agendadas y previamente notificadas personalmente. En caso de ausencia de uno o más de los comisionados, el Secretario General deberá de hacerlo del conocimiento del Congreso del Estado, para que éste inicie en un plazo no mayor a 15 días el procedimiento de designación.
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
 ###### Artículo 93.
 
 La Presidencia del Consejo General tendrá las atribuciones siguientes:
 
-I. [Esta fracción fue observada por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
-II. Establecer los vínculos necesarios entre el instituto con el Instituto Nacional, el Consejo Consultivo Ciudadano y las demás autoridades federales, estatales y municipales, para lograr su apoyo, colaboración y auxilio, en sus respectivos ámbitos de competencia;
+I. Representar legalmente al instituto ante cualquier entidad pública o privada;
 
-III. [Esta fracción fue observada por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+II. Establecer los vínculos necesarios entre el instituto Nacional, el Consejo Consultivo Ciudadano y las demás autoridades federales, estatales y municipales, para lograr su apoyo, colaboración y auxilio, en sus respectivos ámbitos de competencia;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+III. Representar al Instituto ante el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 IV. Conducir las sesiones del Consejo General;
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
 V. Vigilar, por conducto de la Secretaría General, que los asuntos, procedimientos y recursos de la competencia del Consejo General, se tramiten hasta ponerlos en estado de resolución en los términos de las leyes respectivas;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 VI. Dictar las medidas de salvaguarda para proteger los datos personales, en caso de extrema urgencia;
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
 VII. Vigilar, con auxilio de la Secretaría General, el cumplimiento de los acuerdos adoptados por el Consejo General;
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
 VIII. Proponer anualmente al Consejo General, el proyecto de presupuesto de egresos del instituto para su aprobación;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
 IX. Remitir al Congreso del Estado, el proyecto de presupuesto de egresos del instituto aprobado por el Consejo General, en los términos de la ley de la materia;
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
 X. Ejercer las partidas presupuestales aprobadas;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 XI. Ejercer, previo acuerdo del Consejo General, actos de dominio;
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
 XII. Rendir los informes ante las autoridades competentes, en representación del Consejo General o del instituto;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 XIII. Otorgar poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales, incluso las que requieran cláusula especial conforme a la ley. Para el otorgamiento de poderes generales o especiales para actos de dominio y con facultades cambiarias, deberá contar con la autorización del Consejo General del instituto;
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
 XIV. Emitir los acuerdos que sean necesarios para la rápida y eficaz realización y desarrollo de sus atribuciones;
 
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
 XV. Otorgar los nombramientos del personal del instituto, y
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 XVI. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
@@ -1461,7 +1551,11 @@ La duración del cargo no será mayor de cinco años y se realizará de manera e
 
 El Consejo Consultivo Ciudadano contará con un Presidente y un Secretario Técnico que serán elegidos entre sus propios integrantes por mayoría de votos, quienes durarán en su encargo un año y podrán ser reelectos por un periodo igual.
 
-[El artículo 103, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por el artículo 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+###### Artículo 103.
+
+El presidente del Consejo Consultivo Ciudadano convocará a sesión cuando menos una vez al mes, requiriendo para ello la asistencia de la mayoría de sus integrantes para sesionar válidamente y ejercer sus atribuciones. Las sesiones podrán ser ordinarias y extraordinarias.
 
 Las sesiones extraordinarias podrán convocarse a solicitud del presidente del Consejo General del Instituto, o por solicitud que al presidente del Consejo formulen por lo menos tres de sus miembros cuando estimen que hay razones de importancia para ello y así se justifique en un escrito de petición.
 
@@ -1497,19 +1591,45 @@ IX. Participar en el Secretariado Técnico Local, y
 
 X. Las demás que le señalen las disposiciones normativas aplicables.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 107.
 
-...
+El presidente del Consejo Consultivo Ciudadano tiene las siguientes atribuciones y obligaciones.
 
-I. ...
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+I. Representar formal y legalmente al Consejo Consultivo Ciudadano;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 II. Convocar al menos dos días antes de su celebración y conducir las sesiones ordinarias. Al menos diez días naturales antes de su celebración, el Presidente del Consejo Consultivo Ciudadano deberá solicitar al Presidente del Consejo General, una lista de temas de interés para el Instituto, debiendo responder éste último, en un plazo máximo de cinco días naturales;
 
-III. a la VIII. ...
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+III. Convocar con al menos un día antes de su celebración a las sesiones extraordinarias y conducir las mismas;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+IV. Vigilar y dar seguimiento al cumplimiento de los acuerdos del Consejo Consultivo Ciudadano;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+V. Mantener comunicación con el consejo General a través de su presidente; así como con los integrantes del Consejo Consultivo Ciudadano;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+VI. Presentar un informe anual de su gestión, para que se incluya en el que rinda el Presidente del Consejo General;
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+VII. Realizar la entrega recepción formalmente al presidente que lo sustituya, y
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+VIII. Las demás que establezca el Reglamento Interno del Consejo Consultivo Ciudadano.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
 
@@ -1532,6 +1652,10 @@ VI. Presentar un informe de su gestión anual y realizar la entrega recepción f
 VII. Las demás que establezca el Reglamento Interno del Consejo Consultivo Ciudadano.
 
 ### CAPÍTULO IV. EL RECURSO DE REVISIÓN
+
+###### ARTÍCULO 109.
+
+Los sujetos obligados no podrán establecer en los procedimientos de acceso a la información, mayores requisitos ni plazos superiores a los estrictamente establecidos en la Ley General ni en esta ley, a efecto de garantizar que acceso sea sencillo, pronto y expedito.
 
 ###### Artículo 110.
 
@@ -1901,9 +2025,7 @@ Los recursos de inconformidad que se presenten ante este instituto en términos 
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE APREMIO
 
-[El artículo 156, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 152.
 
@@ -1973,19 +2095,29 @@ En caso de que el Instituto considere que subsiste el incumplimiento total o par
 
 ###### Artículo 156.
 
-...
+El Instituto, en el ámbito de su competencia, podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio, para asegurar el cumplimiento de sus determinaciones:
 
-I. ...
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+I. Amonestación pública, o
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 II. Multa, de veinte hasta trescientas veces el salario mínimo.
 
-...
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
-...
+El incumplimiento de los sujetos obligados será difundido en los portales de obligaciones de transparencia del Instituto y considerado en las evaluaciones que realice este.
 
-...
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+En caso de que el incumplimiento de las determinaciones del Instituto implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 206 de la Ley General, deberá denunciar los hechos ante la autoridad competente.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+Las medidas de apremio de carácter económico no podrán ser cubiertas con recursos públicos.
 
 ###### Artículo 157.
 
@@ -1993,7 +2125,9 @@ Si a pesar de la ejecución de las medidas de apremio previstas en el artículo 
 
 Transcurrido el plazo, sin que se haya dado cumplimiento, se determinarán las sanciones que correspondan.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE MARZO DE 2016)</small>
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+[El artículo 158, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca.]
 
 ###### Artículo 158.
 
@@ -2075,23 +2209,35 @@ Cuando haya causa justificada por acuerdo indelegable del Instituto, podrá ampl
 
 En las normas respectivas del Instituto, se precisará toda circunstancia relativa a la forma, términos y cumplimiento de los plazos a que se refiere el procedimiento sancionatorio previsto en esta Ley, incluyendo la presentación de pruebas y alegatos, la celebración de audiencias, el cierre de instrucción y la ejecución de sanciones. En todo caso, será supletorio a este procedimiento sancionador lo dispuesto en las leyes en materia de procedimiento administrativo del orden jurídico que corresponda.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
 
-[El artículo 167, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca].
+###### Artículo 167.
 
-I. ...
+Las infracciones a lo previsto en la presente Ley por parte de sujetos obligados que no cuenten con la calidad de servidor público, serán sancionadas con:
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+
+I. El apercibimiento, por única ocasión, para que el sujeto obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V, VI y X del artículo 206 de la Ley General y conforme a lo señalado en esta Ley;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
 Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien días de salario mínimo;
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
+
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
 II. Multa de cincuenta a doscientos días de salario mínimo, en los casos previstos en las fracciones II y IV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
+
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
 III. Multa de cien a trescientos días de salario mínimo, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
