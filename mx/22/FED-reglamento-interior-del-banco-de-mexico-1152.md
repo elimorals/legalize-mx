@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2016-02-04"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -1993,6 +1993,10 @@ SEGUNDO.- Se abroga el Reglamento Interior del Banco de México publicado en el 
 
 TERCERO.- (DEROGADO, D.O.F. 28 DE MARZO DE 1996)
 
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2016)</small>
+
+CUARTO. Para efectos de lo dispuesto en el artículo 40 del presente Reglamento Interior, los estados financieros del ejercicio dos mil quince podrán ser presentados al auditor externo del Banco durante la primera semana del mes de abril, para que, en ese mismo mes, el auditor externo los revise y dictamine, hecho lo cual, serán sometidos por el Gobernador al examen y, en su caso, a la aprobación de la Junta de Gobierno.
+
 El presente Reglamento Interior fue aprobado por la Junta de Gobierno, con fundamento en lo dispuesto por los artículos 28 de la Constitución Política de los Estados Unidos Mexicanos, 46, fracción XVI y SEXTO TRANSITORIO de la Ley del Banco de México, en sesión de fecha 23 de septiembre de 1994. Publíquese.
 
 Miguel Mancera
@@ -2394,3 +2398,9 @@ D.O.F. 4 DE FEBRERO DE 2016.
 PRIMERO. Las presentes reformas al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 30 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “ADICIÓN AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+ÚNICO. La presente adición al Reglamento Interior del Banco de México entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
