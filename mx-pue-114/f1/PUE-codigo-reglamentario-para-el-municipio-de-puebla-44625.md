@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2016-01-07"
+last_updated: "2016-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -15031,7 +15031,7 @@ g = Aceleración de la gravedad.
 
 hi = Altura de la masa" i" sobre el desplante.
 
-Pi = Fuerza lateral de inercia sobre la masa" i" .
+Pi = Fuerza lateral de inercia sobre la masa" i".
 
 Q = Factor de comportamiento sísmico.
 
@@ -19241,7 +19241,7 @@ III. Sólo se permitirá un anuncio por giro comercial por cara;
 
 IV. No se permitirá que las carteleras o sus estructuras invadan físicamente o en su plano virtual la vía pública o los predios colindantes;
 
-V. Se permitirá instalar .este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, siempre que el diseño sea aprobado por la Agencia; y
+V. Se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, siempre que el diseño sea aprobado por la Agencia; y
 
 VI. Los anuncios tipo tótem deberán situarse a una distancia mínima de 5.00 metros de los cables de alta tensión.
 
@@ -32843,7 +32843,7 @@ VIII. Relevos Suicidas: Modalidad en que los perdedores de un relevo de cualquie
 
 IX. Ruleta de la Muerte: Es la participación de cuatro o más duetos, tercias o individualmente que tiene como objetivo encontrar un derrotado para que pierda la máscara o la cabellera;
 
-X. Triangular: Este tipo de lucha tiene como finalidad una apuesta, se inicia con un volado donde se .enfrentan a contra b el que pierde en esta etapa se enfrenta al que descansó, para que salga el perdedor del triangular;
+X. Triangular: Este tipo de lucha tiene como finalidad una apuesta, se inicia con un volado donde se enfrentan a contra b el que pierde en esta etapa se enfrenta al que descansó, para que salga el perdedor del triangular;
 
 XI. Lucha en Jaula: Cualquiera de sus denominaciones: en esta lucha, los participantes en ella, deberán luchar técnicamente hasta que el réferi, quien se encuentra fuera de la jaula, haga sonar el silbato después de transcurridos diez minutos, cuando procedan los elementos a salir de la jaula, siendo el perdedor el último en salir de la misma;
 
@@ -33885,9 +33885,9 @@ IX. Premio al "Mérito Laboral";
 
 X. Premio al "Compromiso por la inclusión de las personas con discapacidad: María Eugenia Antúnez Farrugia";
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
 
-XI. Premio Municipal de Investigación Histórica;
+XI. Premio Municipal de Investigación Histórica: “Hugo Leicht”,
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2015)</small>
 
@@ -33903,7 +33903,7 @@ XIV. Reconocimiento de "Copia de la declaración de la UNESCO a la Ciudad de Pue
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2014)</small>
 
-XV. Reconocimiento "Juan de Palafox y Mendoza”.
+XV. Reconocimiento "Juan de Palafox y Mendoza".
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34669,15 +34669,15 @@ IV. El Presidente del Consejo Ciudadano de Discapacidad, teniendo voz y voto; y
 
 V. Un representante del Sistema Municipal para el Desarrollo Integral de la Familia, teniendo voz y voto.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA
+DEL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA: “HUGO LEICHT”
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 2335 Sexies.
 
-El Premio Municipal de Investigación Histórica será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
+El Premio Municipal de Investigación Histórica: “Hugo Leicht” será entregado a aquellas personas que hayan realizado alguna investigación histórica del Municipio de Puebla.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2015)</small>
 
@@ -35987,13 +35987,11 @@ P.O. 7 DE ENERO DE 2016.
 
 ÚNICO. El presente Dictamen entrará en vigor el quince de marzo de dos mil dieciséis.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE PARTICIPACIÓN CIUDADANA, POR EL QUE MODIFICA EL CAPÍTULO 8, DENOMINADO DE LOS CONSEJOS DE PARTICIPACIÓN CIUDADANA, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+P.O. 30 DE MARZO DE 2016.
 
-PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2016, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE TURISMO, ARTE Y CULTURA, POR EL QUE APRUEBA QUE EL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA LLEVE EL NOMBRE DE HUGO LEICHT”.]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
-
-TERCERO. La Secretaría Ejecutiva deberá de emitir o adecuar los lineamientos, en un término de un año a partir de la publicación del presente Dictamen en el Periódico Oficial del Estado de Puebla, para someterlos a consideración de la Comisión correspondiente y ser aprobados por el Honorable Cabildo.
+ÚNICO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
 
