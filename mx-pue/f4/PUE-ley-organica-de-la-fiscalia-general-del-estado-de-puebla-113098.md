@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2016-02-20"
+last_updated: "2016-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE PUEBLA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2016.]</small>
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -987,7 +987,9 @@ El pago de la indemnización y demás prestaciones a que se refiere este artícu
 
 En atención a la naturaleza de las funciones que tiene a su cargo la Fiscalía General, los demás servidores públicos distintos a los señalados en el artículo 54 de esta Ley que presten sus servicios en la misma, incluyendo al personal de designación especial, serán considerados trabajadores de confianza para todos los efectos legales, por lo que únicamente gozarán de las medidas de protección al salario y de los beneficios de la seguridad social, y los efectos de su nombramiento podrán darse por terminados en cualquier momento. Dicho personal quedará incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-Las relaciones jurídicas entre la Fiscalía General y el personal a que se refiere este artículo será de carácter laboral, por lo que cualquier controversia relacionada con la protección al salario y los beneficios de seguridad social que se suscite con motivo de dicha relación será resuelta por el Tribunal Federal de Conciliación y Arbitraje, conforme al procedimiento establecido en la Ley Federal de los Trabajadores al Servicio del Estado.
+> <small>(F. DE E., P.O. 31 DE MARZO DE 2016)</small>
+
+Las relaciones jurídicas entre la Fiscalía General y el personal a que se refiere este artículo será de carácter laboral, por lo que cualquier controversia relacionada con la protección al salario y los beneficios de seguridad social que se suscite con motivo de dicha relación será resuelta por el Tribunal de Arbitraje del Estado, conforme al procedimiento establecido en la Ley de los Trabajadores al Servicio del Estado.
 
 ## TRANSITORIOS
 
