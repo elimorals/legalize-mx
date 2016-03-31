@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-consejo-estatal-para-la-cultura-y-las-artes-800
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-14"
-last_updated: "2013-08-14"
+last_updated: "2016-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2016.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Puebla, el lunes 14 de febrero de 2011.
 
@@ -45,9 +45,11 @@ LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA
 
 ### CAPÍTULO I. DE LA NATURALEZA, OBJETO Y FUNCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-El Consejo Estatal para la Cultura y las Artes de Puebla, es un organismo público descentralizado, sectorizado al Gobernador del Estado, en atención a sus objetivos y a la naturaleza de sus funciones, con personalidad jurídica y patrimonio propios, que goza de autonomía técnica y de gestión, con sede en la Capital del Estado de Puebla.
+El Consejo Estatal para la Cultura y las Artes de Puebla, es un organismo público descentralizado, sectorizado a la Secretaría General de Gobierno, en atención a sus objetivos y a la naturaleza de sus funciones, con personalidad jurídica y patrimonio propios, que goza de autonomía técnica y de gestión, con sede en la Capital del Estado de Puebla.
 
 La Ley de Entidades Paraestatales del Estado de Puebla se aplicará al Consejo Estatal en lo que no se oponga a esta Ley.
 
@@ -596,3 +598,11 @@ P.O. 14 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 31 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 1, DE LA LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
