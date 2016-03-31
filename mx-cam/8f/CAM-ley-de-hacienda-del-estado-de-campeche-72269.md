@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2015-12-24"
+last_updated: "2016-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -2287,35 +2287,31 @@ V.- Charrería 34
 
 En los casos de sucesión testamentaria o intestamentaria, la cesión o transferencia de los derechos de las licencias en materia de bebidas alcohólicas, no causará ninguna cuota.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 78.
 
-Por la autorización de modificaciones tales como: cambio de domicilio, cambio de giro, arrendamiento, comodato, reposiciones o duplicados de las licencias en materia de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por la autorización de modificaciones o adecuaciones y demás movimientos tales como: duplicado de licencia en materia de bebidas alcohólicas, cambio de domicilio, reposiciones, cambio o ampliación de giro, cambio de razón social, arrendamiento y comodato se causarán y pagarán derechos de acuerdo con el número de veces de la Unidad de Medida y Actualización vigente, conforme a la siguiente:
 
 T A R I F A
 
-Salario Mínimo
+Unidad de Medida y
 
-General Diario
+Actualización Vigente
 
-Vigente
+I. Por duplicado de la licencia 13
 
-I.- Por cambio de domicilio de la licencia 778
+II. Por cambio de domicilio de la licencia 40
 
-II.- Por cambio o ampliación de giro de la licencia 1,296
+III. Por reposición de una licencia 40
 
-III.- Por reposición de una licencia 39
+IV. Por cambio o ampliación de giro de la licencia 103
 
-IV.- Por duplicado de la licencia 13
+V. Por cambio de razón social 103
 
-V.- Por cambio de razón social 700
+VI. Por arrendamiento anualmente 206
 
-VI.- Por arrendamiento anualmente 1,296
-
-VII.- Por comodato anualmente 1,296
+VII. Por comodato anualmente 206
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2824,3 +2820,17 @@ P.O. 24 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor el día primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 31 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 47 POR EL QUE “SE REFORMA EL ARTÍCULO 78 DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+TERCERO.- Los titulares de las licencias y/o sus representantes legales contarán con un plazo de sesenta días naturales contados a partir de la entrada en vigor de este decreto y de conformidad con lo establecido en él, para llevar a cabo la regularización de sus giros y establecimientos.
+
+Para los efectos de lo establecido en los artículos 8, 29 y 77 de la Ley para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas del Estado de Campeche, respecto a no autorizar el otorgamiento de licencias en comodato o en arrendamiento a personas físicas o morales que sean poseedoras de más de dos licencias, no será aplicable para el caso de aquellas personas físicas o morales que a partir de la fecha de entrada en vigor de este decreto hayan hecho uso de las figuras jurídicas citadas, siempre que cumplan con los demás requisitos establecidos en la Ley, previo pago de los derechos correspondientes, sin que puedan tener autorizaciones adicionales a las que actualmente tengan vigentes en arrendamiento o comodato y hasta por el plazo que la Ley determina. Aquellas licencias que bajo este supuesto de excepción dejaren de ser objeto de arrendamiento y/o comodato ya no podrán ser arrendadas o comodatadas.
+
+CUARTO.- La conversión de las tarifas de salario mínimo general diario vigente a Unidades de Medida y Actualización, se realizan en cumplimiento del Artículo Tercero Transitorio del decreto por el que se declaran reformados y adicionados (sic) diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
