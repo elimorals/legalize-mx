@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-venta-ordenada-y-consumo-responsable-de-bebidas-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2015-09-14"
+last_updated: "2016-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2015.
 
@@ -45,9 +45,11 @@ LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL EST
 
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en todo el Estado de Campeche, y tienen por objeto la protección de la salud como derecho humano reconocido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y en los tratados y demás instrumentos internacionales de los que el Estado mexicano es parte, así como regular todas las actividades destinadas a almacenar, distribuir, vender, comercializar, expender, ofrecer a título gratuito, consumir, promocionar, patrocinar y publicitar bebidas alcohólicas; además de establecer programas en materia de gestión de riesgos, prevención y reducción de daños asociados al abuso del consumo de bebidas alcohólicas.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+
 ###### Artículo 2.
 
-Es facultad del Titular del Poder Ejecutivo del Estado vigilar el cumplimiento y aplicación de la presente Ley, a través de las Secretarías de Salud, de Seguridad Pública y Protección a la Comunidad, Gobierno, Desarrollo Económico, Educación, Turismo y Finanzas; así como del organismo descentralizado Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche (INDESALUD); y los organismos desconcentrados, Consejo Estatal de Seguridad Pública del Estado de Campeche (CESS), Consejo Estatal Contra las Adicciones (CECA), la Comisión para la Protección Contra Riesgos Sanitarios (COPRISCAM) y la Junta Reguladora para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas en el Estado de Campeche.
+Es facultad del Titular del Poder Ejecutivo del Estado vigilar el cumplimiento y aplicación de la presente Ley, a través de las Secretarías de Salud, de Seguridad Pública, Gobierno, Desarrollo Económico, Educación, Turismo y Finanzas; así como del organismo descentralizado Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche (INDESALUD); y los organismos desconcentrados, Consejo Estatal de Seguridad Pública del Estado de Campeche (CESS), Consejo Estatal Contra las Adicciones (CECA), la Comisión para la Protección Contra Riesgos Sanitarios (COPRISCAM) y la Junta Reguladora para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas en el Estado de Campeche.
 
 ###### Artículo 3.
 
@@ -183,9 +185,11 @@ A falta de disposición expresa en esta Ley, se aplicarán las disposiciones de 
 
 ### CAPÍTULO II. DE LA JUNTA REGULADORA PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2016)</small>
+
 ###### Artículo 8.
 
-Se crea la Junta Reguladora, la cual estará integrada por los titulares de las Secretarías de Gobierno, de Salud, de Desarrollo Económico, de Finanzas, de Seguridad Pública y Protección a la Comunidad, de Educación, de Cultura, y de Turismo. Esta Junta Reguladora la presidirá el titular de la Secretaría de Gobierno y tomará sus decisiones colegiadamente para:
+Se crea la Junta Reguladora, la cual estará integrada por los titulares de las Secretarías de Gobierno, de Salud, de Desarrollo Económico, de Finanzas, de Seguridad Pública, de Educación, de Cultura, y de Turismo. Esta Junta Reguladora la presidirá el titular de la Secretaría de Gobierno y tomará sus decisiones colegiadamente para:
 
 I Autorizar las licencias y las revalidaciones de las mismas; En el caso de las licencias en comodato y arrendamiento reguladas en el Capítulo VII de esta Ley, la Junta Reguladora no autorizará el otorgamiento de licencias en comodato o en arrendamiento a personas físicas o morales que sean poseedoras de más de dos licencias reguladas por esta Ley;
 
@@ -231,7 +235,9 @@ V Permitir la inspección y verificación de sus negocios, local completo, estab
 
 VI Poner en un lugar visible al público y dentro del establecimiento:
 
-a) El original de la licencia o permiso;
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+
+a) El original o el duplicado de la licencia o permiso;
 
 b) La leyenda sobre la prohibición de suministro o venta de bebidas alcohólicas a menores de edad;
 
@@ -245,7 +251,9 @@ VIII Impedir y denunciar escándalos en los establecimientos, para tal efecto po
 
 IX Pagar los derechos correspondientes dentro de los plazos que fijen las leyes;
 
-X Conservar en el establecimiento en el que se opere los comprobantes de pago para la verificación de los inspectores; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+
+X Conservar en el establecimiento en el que se opere los comprobantes de pago del año en curso para la verificación de los inspectores; y
 
 XI Tener alcoholímetros o medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre, previo consentimiento de los clientes a los que se les aplique la prueba. Esta obligación sólo será aplicable a los establecimientos con giro para la venta y consumo de bebidas alcohólicas en envase abierto y al copeo, para consumo inmediato en su interior, así como los establecimientos que cuenten con la licencia para venta y consumo de bebidas alcohólicas en las áreas de los polígonos turísticos permitidos de la vía pública de conformidad con esta ley.
 
@@ -313,9 +321,11 @@ V Reincidentes en la infracción de las disposiciones de esta Ley y demás norma
 
 VI Quienes hayan sido condenados por sentencia ejecutoria por delitos con motivo de la venta ilícita o clandestina de bebidas alcohólicas.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+
 ###### Artículo 13.
 
-En lo que se refiere a espectáculos públicos masivos, donde esté autorizada la venta de bebidas alcohólicas, la ingesta excesiva de bebidas alcohólicas se considerará como factor de riesgo para su desarrollo, motivo por el cual la Secretaría de Seguridad Pública y Protección a la Comunidad deberá incluirlo en la determinación de los planes y medidas de seguridad para la realización de este tipo de eventos en coordinación con la Secretaría de Protección Civil.
+En lo que se refiere a espectáculos públicos masivos, donde esté autorizada la venta de bebidas alcohólicas, la ingesta excesiva de bebidas alcohólicas se considerará como factor de riesgo para su desarrollo, motivo por el cual la Secretaría de Seguridad Pública deberá incluirlo en la determinación de los planes y medidas de seguridad para la realización de este tipo de eventos en coordinación con la Secretaría de Protección Civil.
 
 ###### Artículo 14.
 
@@ -333,9 +343,13 @@ I Centros nocturnos y cabarets, domingo a jueves de 21:00 hasta 2:00 horas, vier
 
 II Loncherías, coctelerías, cantinas y salón cerveza de lunes a domingo de 12:00 horas hasta las 20:00 horas;
 
-III Supermercados, depósitos, licorerías, expendios, botaneros, agencias, subagencias, de lunes a domingo de 9:00 horas hasta las 21:00 horas;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
 
-IV Minisúper y tiendas de abarrotes de lunes a domingo de 9 hasta las 21:00 horas;
+III Supermercados, depósitos y licorerías de lunes a domingo de 9:00 horas hasta las 21:00 horas;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+
+IV Minisúper, tiendas de abarrotes, expendios, botaneros, agencias y subagencias de lunes a domingo de 10 hasta las 22:00 horas;
 
 V Minisúper Local de lunes a domingo de 9:00 horas hasta las 24 horas;
 
@@ -469,7 +483,9 @@ En estos casos se reexpedirá la licencia sólo por el tiempo restante del que o
 
 Los titulares de licencias para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas expedidas conforme a esta Ley, podrán transmitirlas en arrendamiento o en comodato, siempre y cuando exista autorización expresa de la Junta Reguladora.
 
-El licenciatario podrá conceder el uso de la licencia en comodato o en arrendamiento durante un periodo que no exceda de 2 años, solicitando para tal efecto la autorización a la Junta Reguladora y deberá presentar ante la ventanilla de la COPRISCAM los siguientes documentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2016)</small>
+
+El licenciatario podrá conceder el uso de la licencia en comodato o en arrendamiento durante un periodo de hasta 2 años, pudiendo renovarse por periodos similares previo pago de los derechos correspondientes, siempre que el titular de la licencia y el establecimiento en donde se opere, sigan reuniendo los requisitos de esta ley para su vigencia, operatividad y funcionamiento, para tal efecto deberá solicitarse la autorización a la Junta Reguladora y deberá presentar ante la ventanilla de la COPRISCAM los siguientes documentos:
 
 a) Original de la escritura pública expedida ante notario público y copia del contrato de arrendamiento o comodato respectivo;
 
@@ -571,11 +587,15 @@ I Presentar por escrito la correspondiente solicitud, formulada bajo protesta de
 
 II Que el local del establecimiento reúna los requisitos exigidos por esta Ley y su Reglamento;
 
-III Que el titular de la licencia presente comprobantes de pago vigentes de todas sus obligaciones fiscales tanto estatales como municipales, incluidos el impuesto predial, derechos por consumo de agua potable y recolección de basura que genere el establecimiento; en su caso, comprobantes de pagos vigentes de impuestos y derechos federales que hayan sido convenidos para su administración al Estado o al Municipio respectivo;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+
+III Que el titular de la licencia o su representante legal presente comprobantes de pago vigentes de todas sus obligaciones fiscales tanto estatales como municipales, incluidos el impuesto predial, derechos por consumo de agua potable y recolección de basura que genere el establecimiento; en su caso, comprobantes de pagos vigentes de impuestos y derechos federales que hayan sido convenidos para su administración al Estado o al Municipio respectivo;
 
 IV Autorización de Protección Civil Municipal; y
 
-V Original de la licencia.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+
+V Original, duplicado o copia de la licencia.
 
 ###### Artículo 43.
 
@@ -887,7 +907,9 @@ Los vehículos asegurados serán remitidos al depósito vehicular. Los gastos oc
 
 Los conductores de vehículos que cometan actos que violen las disposiciones de la presente Ley y su Reglamento, o muestren síntomas de que conducen en estado de ebriedad, están obligados a someterse a las pruebas necesarias con el Médico Legista ante el cual sean presentados o por personal autorizado para tal efecto. En caso de que se certifique que el conductor se encuentra en estado de ebriedad, será aplicable la sanción del artículo anterior.
 
-Los agentes policiacos pueden detener la marcha de un vehículo cuando la Secretaría de Seguridad Pública y Protección a la Comunidad, en coordinación con la Secretaría de Salud y la COPRISCAM establezcan y lleven a cabo programas preventivos y de control de ingestión de alcohol o, para conductores de vehículos.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+
+Los agentes policiacos pueden detener la marcha de un vehículo cuando la Secretaría de Seguridad Pública, en coordinación con la Secretaría de Salud y la COPRISCAM establezcan y lleven a cabo programas preventivos y de control de ingestión de alcohol o, para conductores de vehículos.
 
 Cuando los conductores consuman bebidas alcohólicas en vehículos en circulación o estacionados en la vía pública, pero no rebasen las tasas de alcohol en la sangre o de aire espirado a que se refiere el artículo anterior, serán acreedores a las sanciones siguientes:
 
@@ -903,13 +925,19 @@ Los vehículos asegurados serán remitidos al depósito vehicular. Los gastos oc
 
 Cuando los agentes cuenten con dispositivos oficiales de detección de alcohol, se procederá como sigue:
 
-I. Los conductores se someterán a las pruebas para la detección del grado de intoxicación que establezca la Secretaría de Seguridad Pública y Protección a la Comunidad en coordinación con las Secretarías de Salud y la COPRISCAM;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+
+I Los conductores se someterán a las pruebas para la detección del grado de intoxicación que establezca la Secretaría de Seguridad Pública en coordinación con las Secretarías (sic) de Salud y la COPRISCAM;
 
 II El agente policiaco entregará un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización;
 
-III En caso de que el conductor sobrepase el límite permitido de alcohol en la sangre será remitido a las instancias de la Secretaría de Seguridad Pública y Protección a la Comunidad; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
 
-IV El agente remitirá un ejemplar del comprobante de los resultados de la prueba a la Secretaría de Seguridad Pública y Protección a la Comunidad ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del Médico Legista que determine el tiempo probable de recuperación y se procederá a la suspensión o cancelación de la licencia de conducir en los términos de la Ley en la materia.
+III En caso de que el conductor sobrepase el límite permitido de alcohol en la sangre será remitido a las instancias de la Secretaría de Seguridad Pública; y
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+
+IV El agente remitirá un ejemplar del comprobante de los resultados de la prueba a la Secretaría de Seguridad Pública ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del Médico Legista que determine el tiempo probable de recuperación y se procederá a la suspensión o cancelación de la licencia de conducir en los términos de la Ley en la materia.
 
 ###### Artículo 82.
 
@@ -937,9 +965,11 @@ VI Promoción de la denuncia ciudadana.
 
 El procedimiento administrativo para decretar las sanciones señaladas en la presente Ley y en su Reglamento, se iniciará con la recepción de las actas de inspección que remitan los inspectores, o las que remitan los Cuerpos Policiacos respectivos.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+
 ###### Artículo 85.
 
-Las Secretarías de Salud, de Seguridad Pública y Protección a la Comunidad y la COPRISCAM, dentro del ámbito de sus respectivas competencias, serán las autoridades facultadas de llevar este procedimiento y aplicar las sanciones correspondientes, independientemente de que los hechos revistan el carácter de delito, en cuyo caso se harán del conocimiento de Ministerio Público.
+Las Secretarías de Salud, de Seguridad Pública y la COPRISCAM, dentro del ámbito de sus respectivas competencias, serán las autoridades facultadas de llevar este procedimiento y aplicar las sanciones correspondientes, independientemente de que los hechos revistan el carácter de delito, en cuyo caso se harán del conocimiento del Ministerio Público.
 
 ###### Artículo 86.
 
@@ -1090,3 +1120,19 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los cuatro días del mes de septiembre del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, DR. JORGE DE JESÚS ARGÁEZ URIBE.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 47 POR EL QUE “SE REFORMAN EL ARTÍCULO 2, EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL INCISO A) DE LA FRACCIÓN VI Y LA FRACCIÓN X DEL ARTÍCULO 9, EL ARTÍCULO 13, LAS FRACCIONES III Y IV DEL ARTÍCULO 15, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 29, LAS FRACCIONES III Y V DEL ARTÍCULO 42, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 80, LAS FRACCIONES I, III Y IV DEL ARTÍCULO 81 Y EL ARTÍCULO 85 TODOS DE LA LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+TERCERO.- Los titulares de las licencias y/o sus representantes legales contarán con un plazo de sesenta días naturales contados a partir de la entrada en vigor de este decreto y de conformidad con lo establecido en él, para llevar a cabo la regularización de sus giros y establecimientos.
+
+Para los efectos de lo establecido en los artículos 8, 29 y 77 de la Ley para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas del Estado de Campeche, respecto a no autorizar el otorgamiento de licencias en comodato o en arrendamiento a personas físicas o morales que sean poseedoras de más de dos licencias, no será aplicable para el caso de aquellas personas físicas o morales que a partir de la fecha de entrada en vigor de este decreto hayan hecho uso de las figuras jurídicas citadas, siempre que cumplan con los demás requisitos establecidos en la Ley, previo pago de los derechos correspondientes, sin que puedan tener autorizaciones adicionales a las que actualmente tengan vigentes en arrendamiento o comodato y hasta por el plazo que la Ley determina. Aquellas licencias que bajo este supuesto de excepción dejaren de ser objeto de arrendamiento y/o comodato ya no podrán ser arrendadas o comodatadas.
+
+CUARTO.- La conversión de las tarifas de salario mínimo general diario vigente a Unidades de Medida y Actualización, se realizan en cumplimiento del Artículo Tercero Transitorio del decreto por el que se declaran reformados y adicionados (sic) diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
