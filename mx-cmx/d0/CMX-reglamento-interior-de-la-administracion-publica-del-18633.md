@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-03-15"
+last_updated: "2016-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -466,7 +466,9 @@ D) Dirección General Jurídica y de Regulación.
 
 E) Dirección Ejecutiva de Sistemas de Información y Comunicación.
 
-Asimismo, se le adscribe el Órgano Desconcentrado denominado Órgano Regulador del Transporte.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2016)</small>
+
+Asimismo, se le adscriben los Órganos Desconcentrados denominados Órgano Regulador del Transporte y Coordinación de los Centros de Transferencia Modal de la Ciudad de México.
 
 X. La Secretaría de Seguridad Pública, se ubica en el ámbito Orgánico del Gobierno del Distrito Federal, y su estructura y funcionamiento se rige por las disposiciones jurídicas y administrativas correspondientes.
 
@@ -17856,15 +17858,11 @@ XIII. Autorizar la operación y dar mantenimiento a los corredores de transporte
 
 XIV. Las presentes atribuciones al Órgano Regulador de Transporte, se entienden asignadas sin perjuicio de la intervención del Secretario de Movilidad por razones de interés público o así lo considere conveniente para garantizar la prestación del servicio en forma regular y permanente.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2016)</small>
 
-#### SECCION IX. ADSCRITO A LA OFICIALIA MAYOR
+###### Artículo 216 Ter.
 
-> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 217.
-
-El órgano Desconcentrado Coordinación de los Centros de Transferencia Modal del Distrito Federal tiene por objeto fungir como instancia de administración, operación, supervisión y vigilancia de los espacios físicos con infraestructura y equipamiento auxiliar de transporte, que sirven como conexión de los usuarios entre dos o más rutas o modos de transporte. Para tal efecto cuenta con las siguientes atribuciones:
+El órgano desconcentrado Coordinación de los Centros de Transferencia Modal de la Ciudad de México tiene por objeto fungir como instancia de administración, operación, supervisión y vigilancia de los espacios físicos con infraestructura y equipamiento auxiliar de transporte, que sirven como conexión de los usuarios entre dos o más rutas o modos de transporte. Para tal efecto cuenta con las siguientes atribuciones:
 
 I. Administrar, operar, supervisar y vigilar los Centros de Transferencia Modal, en los términos del presente Decreto;
 
@@ -17884,7 +17882,15 @@ VIII. Mantener libre de todo obstáculo que impida su adecuado uso, los espacios
 
 IX. Con el auxilio de la Secretaría de Seguridad Pública, o a través de los servidores públicos que le estén adscritos, poner a disposición del Juez Cívico o Ministerio Público, a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal;
 
-X. Las demás previstas en otras disposiciones.
+X. Las demás previstas en otras disposiciones
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION IX. ADSCRITO A LA OFICIALIA MAYOR
+
+###### Artículo 217.
+
+(DEROGADO, G.O. 31 DE MARZO DE 2016)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
@@ -18995,6 +19001,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 15 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 31 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
