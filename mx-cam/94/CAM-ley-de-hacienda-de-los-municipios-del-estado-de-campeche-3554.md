@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2015-12-29"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 1 DE ABRIL DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -1525,21 +1525,33 @@ DE BASURA GRUPO 1 GRUPO 2 GRUPO 3
 
 I.- Domiciliario por mes:
 
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 2016)</small>
+
 A. Residencial 2.00 a 3.00 (DEROGADO) 2.00 a 3.00
 
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 2016)</small>
+
 B. Media 1.50 a 2.00 (DEROGADO) 1.50 a 2.00
+
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 2016)</small>
 
 C. Popular e interés
 
 social 1.00 a 1.50 (DEROGADO) 1.00 a 1.50
 
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 2016)</small>
+
 D.- Precaria 0.50 a 1.00 (DEROGADO) 0.37 a 30.30
+
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 2016)</small>
 
 II.- Comercial, Industrial
 
 y de prestación de servicios
 
 por mes: 5 a 300 (DEROGADO) 0.37 a 30.30
+
+> <small>(F. DE E., P.O. 1 DE ABRIL DE 2016)</small>
 
 III.- Servicios especiales
 
