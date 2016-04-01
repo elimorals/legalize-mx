@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2013-06-29"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -77,7 +77,9 @@ III. Comisión: la Comisión de Honor y Justicia;
 
 IV. Comités Comunitarios: los Comités de Participación Comunitaria;
 
-V. (DEROGADA, P.O. 19 DE ENERO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2016)</small>
+
+V. Sistema de Video Vigilancia: Conjunto de acciones, instrumentos, procedimientos, mecanismos, normas e instituciones utilizadas para la Video vigilancia en el Estado de Nuevo León.
 
 VI. Consejo Ciudadano: el Consejo Ciudadano de Seguridad Pública del Estado;
 
@@ -667,9 +669,11 @@ Cuando para la realización de acciones conjuntas se comprendan materias que reb
 
 ### CAPÍTULO CUARTO. DE LA COORDINACIÓN CON LAS INSTANCIAS AUXILIARES
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2016)</small>
+
 ###### Artículo 51.
 
-Las empresas e instituciones que presten servicios de seguridad privada, deberán coordinarse con la Secretaría y con las autoridades municipales competentes, en los términos que prevé este ordenamiento y la correspondiente Ley de la materia.
+Las empresas e instituciones que presten servicios de video vigilancia y seguridad privada, deberán coordinarse con la Secretaría y con las autoridades municipales competentes, en los términos que prevén este ordenamiento y la correspondiente Ley de la materia.
 
 ###### Artículo 52.
 
@@ -1165,13 +1169,21 @@ Le corresponde a la Secretaría coordinar la operación de la información con e
 
 La Secretaría instrumentará, a través de las Unidades Administrativas correspondientes, la coordinación operativa de la información con las finalidades siguientes:
 
-I. Despachar oportunamente la operación de los servicios de emergencia;
+I.- Despachar oportunamente la operación de los servicios de emergencia;
 
-II. Facilitar el intercambio operativo de la información entre las diversas instituciones policiales del Estado y de los Municipios, incluyendo las dependencias de tránsito y vialidad, protección civil, bomberos y de urgencias médicas y otros servicios públicos;
+II.- Facilitar el intercambio operativo de la información entre las diversas instituciones policiales del Estado y de los Municipios, incluyendo las dependencias de tránsito y vialidad, protección civil, bomberos y de urgencias médicas y otros servicios públicos;
 
-III. Atender y dar seguimiento a las llamadas ciudadanas sobre denuncia anónima canalizándolas a las autoridades de seguridad pública que sean competentes para su atención y, en su caso, resolución final; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2016)</small>
 
-IV. Proveer el uso de instrumentos de información operativa, táctica y estratégica para coordinar y facilitar el despliegue operativo policial.
+III.- Atender y dar seguimiento a las llamadas ciudadanas sobre denuncia anónima canalizándolas a las autoridades de seguridad pública que sean competentes para su atención y, en su caso, resolución final;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2016)</small>
+
+IV.- Proveer el uso de instrumentos de información operativa, táctica y estratégica para coordinar y facilitar el despliegue operativo policial; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2016)</small>
+
+V.- Establecer las bases para el funcionamiento del Sistema de Video Vigilancia, así como los lineamientos o manuales de procedimiento a seguir para proporcionar la información obtenida por las videograbaciones de conformidad, con los acuerdos generales, convenios y demás disposiciones aplicables a la materia y la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 ###### Artículo 83.
 
@@ -1183,7 +1195,9 @@ II. La Red Estatal de Comunicaciones, como instancia integrante de la Red Nacion
 
 III. El servicio de registro, atención y seguimiento de la denuncia anónima;
 
-IV. Los mecanismos de video-vigilancia por circuito cerrado de televisión y de reconocimiento de placas para uso exclusivo de las instituciones policiales;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2016)</small>
+
+IV. El Sistema de Video Vigilancia, como mecanismos de video-vigilancia por circuito cerrado de televisión y de reconocimiento de placas para uso exclusivo de las instituciones policiales;
 
 V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la seguridad pública; y
 
@@ -2035,7 +2049,7 @@ XXVIII. Abstenerse de rendir informes falsos a sus superiores respecto del desem
 
 XXIX. Usar y mantener en buen estado el equipo móvil, radiotransmisor, arma de cargo, municiones, uniforme, insignias, identificaciones, chaleco, tolete y demás instrumento táctico-policial que le sea proporcionado por la corporación a la que pertenezcan, destinándolo exclusivamente al cumplimiento de sus funciones, evitando un uso indebido del mismo;
 
-XXX. Respetar las reglas de tránsito y usar las sirenas, luces y altavoz del vehículo a su cargo sólo en casos de emergencia; y (sic)
+XXX. Respetar las reglas de tránsito y usar las sirenas, luces y altavoz del vehículo a su cargo sólo en casos de emergencia; y
 
 > <small>(ADICIONADA [N DE E. REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3674,3 +3688,11 @@ P.O. 29 DE JUNIO DE 2013.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- En lo que respecta a la Ley para Incentivar la Denuncia de Actos de Corrupción de Servidores Públicos del Estado de Nuevo León, la Contraloría y Transparencia Gubernamental del Gobierno del Estado emitirá los lineamientos relativos a los requisitos y procedimientos para el otorgamiento de medidas de protección en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 1 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 084. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN V DEL ARTÍCULO 3, EL ARTÍCULO 51, LAS FRACCIONES III Y IV DEL ARTÍCULO 82 Y LA FRACCIÓN IV DEL ARTÍCULO 83, Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 82; TODOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En un plazo no mayor a 120 días naturales contados a partir de que entre en vigencia el presente Decreto, la Secretaría de Seguridad Pública, deberán realizarse los lineamientos o manuales de procedimiento respecto del Sistema de Video Vigilancia.
