@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-etica-para-los-servidores-publicos-del-municipio-9710
 country: "mx"
 rank: "codigo"
 publication_date: "2013-12-23"
-last_updated: "2013-12-23"
+last_updated: "2016-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97103&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SIN"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DEL MUNICIPIO DE BADIRAGUATO, SINALOA
 
-CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE BADIRAGUATO, SINALOA.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL CÓDIGO DE CONDUCTA ÉTICA DEL MUNICIPIO DE BADIRAGUATO, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE BADIRAGUATO, SINALOA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2016 (DEROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 23 de diciembre de 2013.
 
@@ -35,7 +37,9 @@ Que el Honorable Ayuntamiento de Badiraguato por conducto de su Secretaría, se 
 
 Que en sesión ordinaria número 69 (sesenta y nueve) celebrada el día jueves 28(veintiocho) de noviembre del año dos mil trece, el Honorable Ayuntamiento de Badiraguato, en ejercicio de sus facultades conferidas por los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos, 110 y demás de la Constitución Política del Estado de Sinaloa, 79 y 81, Fracción VII de la Ley de Gobierno Municipal de esta entidad federativa, tiene a bien aprobar el siguiente decreto de código de ética del Municipio de Badiraguato, Sinaloa, con base en los siguientes:
 
-C O N S I D E R A N D O S…
+C O N S I D E R A N D O S
+
+[...]
 
 Por las razones expresadas con anterioridad se formula el presente decreto:
 
@@ -71,7 +75,7 @@ II.- Código: El presente Código de Ética para los Servidores Públicos del Mu
 
 III.- Funcionario o Servidor Público: Toda persona que preste algún servicio al Municipio de Badiraguato, Sinaloa, incluidos los Ediles, ya sea que su cargo provenga de un proceso de elección o derive de una designación, sea permanente o temporal, remunerado por salario u honorarios, bajo cualquiera de las formas previstas por la legislación laboral, fiscal y civil, incluidas además aquéllas personas que presten algún servicio para un organismo público descentralizado Municipal o paramunicipal, actual o futuro;
 
-IV.- Municipio: El Municipio de Badiraguato, Sinaloa; (sic)
+IV.- Municipio: El Municipio de Badiraguato, Sinaloa;
 
 ###### ARTÍCULO 6.
 
@@ -298,3 +302,13 @@ PROFR. ÁNGEL ROBLES BAÑUELOS
 SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. SAUL ENRIQUE MARTINEZ MARTINEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 17 CÓDIGO DE CONDUCTA ÉTICA DEL MUNICIPIO DE BADIRAGUATO”.]
+
+PRIMERO.- se deroga el Decreto Municipal Número 15 de fecha 23 de diciembre de 2013, publicado en el periódico oficial del estado de Sinaloa, bajo el número 154.
+
+SEGUNDO.- El presente decreto Código de Conducta Ética del Municipio de Badiraguato, iniciará su vigencia al día siguiente de su publicación en el Periódico del Estado de Sinaloa.
