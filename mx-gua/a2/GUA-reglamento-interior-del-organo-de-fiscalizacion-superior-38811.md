@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-organo-de-fiscalizacion-superior-38811"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2004-04-09"
+last_updated: "2016-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL CONGRESO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 9 de abril del 2004.
 
@@ -638,3 +640,21 @@ Dado en la Residencia del órgano de Fiscalización Superior del Congreso del Es
 Mauricio Romo Flores
 
 Auditor General del Órgano de Fiscalización Superior del Congreso del Estado de Guanajuato.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de Vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Adecuaciones presupuestales
+
+Artículo Segundo. La Auditoría Superior deberá realizar las operaciones presupuestales y administrativas que se requieran, en congruencia con la estructura orgánica que se deriva de este Reglamento.
+
+Abrogación del Reglamento vigente
+
+Artículo Tercero. Se abroga el Reglamento publicado en el Periódico Oficial del Gobierno del Estado número 58, de fecha 09 de abril de 2004.
