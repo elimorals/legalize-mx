@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-etica-profesional-para-los-servidores-publicos-60924"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-05-02"
-last_updated: "2012-01-27"
+last_updated: "2016-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GRO"
 ---
 # CODIGO DE ETICA PROFESIONAL PARA LOS SERVIDORES PUBLICOS ADSCRITOS A LA SECRETARIA DE FINANZAS Y ADMINISTRACION DEL GOBIERNO DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO DE LOS ACUERDOS POR EL QUE SE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO, PUBLICADOS EN EL P.O. DE 27 DE ENERO DE 2012 Y P.O. DE 1 DE ABRIL DE 2016, RESPECTIVAMENTE; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO DE LOS ACUERDOS POR LOS QUE SE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO, PUBLICADOS EN EL P.O. DE 27 DE ENERO DE 2012 Y P.O. DE 1 DE ABRIL DE 2016, RESPECTIVAMENTE; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
 
-ACUERDO POR EL QUE SE EMITE EL CODIGO DE ETICA PROFESIONAL PARA LOS SERVIDORES PUBLICOS ADSCRITOS, A LA SECRETARIA DE FINANZAS Y ADMINISTRACION DEL GOBIERNO DEL ESTADO DE GUERRERO
+ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA PROFESIONAL PARA LOS SERVIDORES PÚBLICOS ADSCRITOS, A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL GOBIERNO DEL ESTADO DE GUERRERO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. 27 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2012 (ABROGADO).
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
+(REPUBLICADA SU ABROGACIÓN, P.O. DE 1 DE ABRIL DE 2016)
 
 Acuerdo publicado en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 2 de mayo de 2008.
 
@@ -35,7 +35,9 @@ Al margen un sello con el Escudo Oficial que dice: Gobierno del Estado Libre y S
 
 CARLOS ZEFERINO TORREBLANCA GALINDO, Gobernador constitucional del Estado Libre y Soberano de Guerrero, en términos del mandato constitucional conferido en el articulo 74 fracciones XI, y XXXIX de la Constitución Política del Estado Libre y Soberano de Guerrero; así como en uso de las facultades legales que me confieren los artículos 3, 6, 10, 11 y 13 de la Ley Orgánica de la Administración Pública del Estado de Guerreo, número 433 en vigor, tengo a bien pronunciar el siguiente Acuerdo por el que se emite el "Código de Ética Profesional para los servidores públicos adscritos a la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero" bajo los siguientes:
 
-C O N S I D E R A N D O S .
+C O N S I D E R A N D O S
+
+[...]
 
 Por lo anteriormente expuesto y fundado he tenido a bien expedir el siguiente:
 
@@ -252,3 +254,15 @@ Segundo. Se abroga el Acuerdo por el que se emite el Código de Ética Profesion
 Tercero. Se abroga el Acuerdo por el que se establece el Código de Ética, al que deberán sujetarse los servidores públicos del Gobierno del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 69, de fecha 27 de agosto de 2010.
 
 Cuarto. Se abrogan todas aquellas disposiciones que se contrapongan al presente Código.
+
+P.O. 1 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ESTABLECE EL CÓDIGO DE ÉTICA, AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Código entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Acuerdo por el que se emite el Código de Ética Profesional para los servidores públicos adscritos a la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 36, de fecha 02 de mayo de 2008.
+
+TERCERO. Se abroga el Acuerdo por el que se establece el Código de Ética al que deberán sujetarse los servidores públicos del Gobierno del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 69, de fecha 27 de agosto de 2010.
+
+CUARTO. Se abrogan todas aquellas disposiciones que se contrapongan al presente Código.
