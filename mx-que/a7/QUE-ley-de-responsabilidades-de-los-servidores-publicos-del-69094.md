@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-responsabilidades-de-los-servidores-publicos-del-69094"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2012-05-18"
+last_updated: "2016-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2012.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 1 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -966,3 +968,19 @@ P.O. 18 DE MAYO DE 2012.
 Artículo Primero. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía.
+
+P.O. 1 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga (sic) Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro publicada el 26 de junio de 2009 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Los actos o conductas constitutivas de responsabilidad administrativa en términos de esta Ley, que den origen a procedimientos de responsabilidad administrativa, serán tramitados desde su inicio hasta su conclusión, conforme a la normatividad aplicable en el momento en el que el servidor público haya realizado el acto.
+
+Artículo Quinto. Dentro del plazo de 30 días contados a partir del inicio de vigencia de la presente Ley, el titular del Poder Ejecutivo del Estado de Querétaro expedirá el Código de Ética de los Servidores Públicos del Estado de Querétaro.
+
+Artículo Sexto. El Poder Legislativo del Estado de Querétaro realizará la adecuación de su marco normativo, en los términos que correspondan, en concordancia con el presente ordenamiento legal.
