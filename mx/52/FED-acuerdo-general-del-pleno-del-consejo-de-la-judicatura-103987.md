@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-02-22"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3621,11 +3621,21 @@ Tratándose de licitantes extranjeros, dichos documentos deberán estar debidame
 
 En caso de que el dictamen legal no sea favorable, previo a la firma del contrato, el Consejo iniciará en contra del adjudicado el procedimiento de impedimento al que se refiere el artículo 300 de este Acuerdo, independientemente de proceder a adjudicar conforme a lo establecido en el artículo 329 del mismo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO, D.O.F. 1 DE ABRIL DE 2016)</small>
+
 ###### Artículo 303.
 
-La Dirección General de Programación y Presupuesto realizará el dictamen financiero con base en este Capítulo y los criterios que determine el Comité, los cuales deberán precisar, entre otros aspectos, los documentos específicos que se deben solicitar y los plazos a observar para la emisión del dictamen.
+La Dirección General de Programación y Presupuesto realizará el dictamen resolutivo financiero con base en este Capítulo y los lineamientos que determine el Comité, en los cuales se especificarán las razones financieras que se deben valorar, las fórmulas de cálculo y los parámetros; así como los criterios de calificación de los participantes en función del giro o mercado de los bienes o servicios a adjudicar, y el objeto del procedimiento de contratación a fin de evaluar la capacidad financiera de los participantes. En todo caso los criterios de calificación y la documentación que será solicitada, deberán precisarse en las bases de licitación de cada procedimiento.
 
-La documentación financiera deberá presentarse por los participantes en el procedimiento de adjudicación de que se trate, en el mismo acto de apertura de las propuestas; la que estará sujeta a un análisis de sus estados de liquidez, solvencia y capital contable, a fin de acreditar, a satisfacción del Consejo, su capacidad financiera.
+No obstante lo anterior, la Dirección General de Programación y Presupuesto podrá determinar si en el procedimiento, por la naturaleza de la operación, no se requiere del dictamen financiero.
+
+El Comité determinará los lineamientos antes de la aprobación de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos, Obra Pública y Servicios, con excepción de las contrataciones no programadas, de las cuales se emitirán a petición de las áreas operativas una vez aprobadas por el Pleno.
+
+La documentación financiera deberá presentarse en el procedimiento de adjudicación de que se trate, en el mismo acto de apertura de las propuestas.
+
+Dicha documentación no se solicitará en los procedimientos que determine la Dirección General de Programación y Presupuesto, salvo que por razón de las características de los trabajos a juicio del área operativa sea necesario; y en los de adjudicación directa, siempre y cuando no deriven de una licitación pública o invitación a cuando menos tres proveedores o contratistas, que sea declarada desierta.
+
+Cuando derivado del análisis de la documentación financiera se detecten errores aritméticos en la información, que no impacten en la estructura del activo, pasivo y capital contable, la Dirección General de Programación y Presupuesto, a través de las áreas operativas, podrá solicitar que la participante realice por escrito la aclaración correspondiente en un plazo de dos días hábiles a partir de la notificación.
 
 ###### Artículo 304.
 
@@ -3809,15 +3819,15 @@ III. La descripción general, normas de calidad, cantidad y unidad de medida de 
 
 IV. La indicación de la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, del acto de aclaraciones y de la visita al lugar en que se prestarán los servicios o se realizará la obra.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO, D.O.F. 1 DE ABRIL DE 2016)</small>
 
-La publicación de la convocatoria a la licitación pública se realizará a través del portal de Internet del Consejo y su obtención será gratuita. Además, simultáneamente se enviará para su publicación en el Diario Oficial de la Federación, un resumen de la convocatoria a la licitación que deberá contener, entre otros elementos, el objeto de la licitación, el volumen de obra o a adquirir, el número de licitación y las fechas previstas para llevar a cabo el procedimiento de contratación.
+La publicación de la convocatoria a la licitación pública se realizará a través del portal de Internet del Consejo y su obtención será gratuita. Además, simultáneamente se enviará para su publicación en el Diario Oficial de la Federación, así como en dos periódicos de circulación nacional y, en su caso, en uno local, un resumen de la convocatoria a la licitación que deberá contener, entre otros elementos, el objeto de la licitación, el volumen de obra o a adquirir, el número de licitación y las fechas previstas para llevar a cabo el procedimiento de contratación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO, D.O.F. 1 DE ABRIL DE 2016)</small>
 
 ###### Artículo 314.
 
-El Consejo, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la convocatoria y en las bases, a más tardar el séptimo día natural previo al acto de presentación y apertura de propuestas, debiendo difundir dichas modificaciones en su portal de Internet y en el Diario Oficial de la Federación, a más tardar el día hábil siguiente a aquél en que se efectúen.
+El Consejo, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la convocatoria y en las bases, a más tardar el séptimo día natural previo al acto de presentación y apertura de propuestas, debiendo difundir dichas modificaciones en su portal de Internet, en el Diario Oficial de la Federación y en los periódicos en los que se haya publicado el resumen de la convocatoria, a más tardar el día hábil siguiente a aquél en que se efectúen.
 
 Las modificaciones en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos, ni en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
 
@@ -4041,29 +4051,13 @@ En el mismo acto de presentación y con el objeto de acreditar su personalidad, 
 
 Dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión, y a satisfacción del Consejo, las partes de los trabajos o servicios que cada persona se obligará a ejecutar, así como la manera en que se exigirá el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO, D.O.F. 1 DE ABRIL DE 2016)</small>
+
 ###### Artículo 324.
 
-Tratándose de obra pública y servicios relacionados con la misma, en las bases de la licitación el Secretario Ejecutivo de Administración solicitará a los participantes la documentación necesaria, para que acrediten su capacidad financiera.
+Los participantes en una licitación deberán acreditar que cuentan con su inscripción ante el Instituto Mexicano del Seguro Social y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
-Para tal efecto se les solicitará copia simple de su declaración anual del Impuesto Sobre la Renta del último ejercicio fiscal, así como estados financieros auditados en su caso, de conformidad con el Código Fiscal de la Federación, con los que se acredite:
-
-I. El capital contable requerido;
-
-II. La liquidez;
-
-III. El capital de trabajo;
-
-IV. Que tenga solvencia; y
-
-V. Que no se encuentre en el supuesto de liquidación.
-
-Las cifras de los estados financieros se aceptarán con una antigüedad no mayor a tres meses.
-
-Los estados financieros deberán estar debidamente firmados por el representante legal de la persona moral y el contador que los haya elaborado.
-
-Dicha documentación no se solicitará en los procedimientos de adjudicación directa, salvo que deriven de una invitación a cuando menos tres proveedores o contratistas declarada desierta o por razón de las características de los trabajos, a juicio del área operativa.
-
-Asimismo, deberán acreditar que sus trabajadores se encuentran inscritos ante el Instituto Mexicano del Seguro Social y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, así como que no tienen adeudos por concepto de cuotas obrero patronales que deban ser cubiertas a dichos institutos.
+El Consejo, podrá requerir a los contratistas, prestadores de servicios y proveedores, en los contratos, acreditar haber cubierto las cuotas obrero-patronales a dichos Institutos, relativas a los trabajadores que les prestaron sus servicios, con motivo de los trabajos ejecutados o los servicios prestados al propio Consejo.
 
 ###### Artículo 325.
 
@@ -4093,7 +4087,9 @@ VI. Por lo menos un licitante, si asistiere alguno, y el servidor público facul
 
 VII. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, donde se harán constar las propuestas recibidas para su posterior evaluación y el importe de cada una de ellas; el acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma; la falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación.
 
-Cuando los licitantes omitan presentar en el acto de presentación y apertura de propuestas documentos que no afecten su solvencia técnica o económica, o bien, documentos requeridos por el Consejo distintos a los escritos o manifestaciones bajo protesta de decir verdad, que se soliciten al estar previstos en este Capítulo o el algún otro ordenamiento, cuya omisión debe ser motivo del desechamiento de la propuesta, éste solicitará a los licitantes que proporcionen la documentación en el plazo de tres días hábiles.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO, D.O.F. 1 DE ABRIL DE 2016)</small>
+
+Cuando los licitantes omitan presentar en el acto de presentación y apertura de propuestas documentos que no afecten la solvencia de las ofertas técnica y/o económica, o bien, documentos requeridos por el Consejo distintos a los escritos o manifestaciones bajo protesta de decir verdad, que se soliciten al estar previstos en este Capítulo o en algún otro ordenamiento, cuya omisión debe ser motivo del desechamiento de la propuesta, éste solicitará a los licitantes que proporcionen la documentación en el plazo de cinco días hábiles.
 
 Las propuestas serán devueltas transcurridos diez días hábiles contados a partir de la fecha en que se dé a conocer el fallo de la licitación.
 
@@ -4357,7 +4353,9 @@ IV. Describir los bienes o servicios a contratar, normas de calidad, cantidad y 
 
 V. Establecer la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, del acto de aclaraciones y de la visita al lugar en que se prestarán los servicios o se realizará la obra.
 
-Las convocatorias de las subastas a la inversa en forma electrónica o presencial, se publicarán en el portal de Internet del Consejo y tratándose de adjudicaciones por montos aplicables a la licitación pública, también en el Diario Oficial de la Federación.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO, D.O.F. 1 DE ABRIL DE 2016)</small>
+
+Las convocatorias de las subastas a la inversa en forma electrónica o presencial, se publicarán en el portal de Internet del Consejo, salvo en el caso de adjudicaciones por montos aplicables a la licitación pública, supuesto en el que también se hará en el Diario Oficial de la Federación y en dos periódicos de circulación nacional y, en su caso, en uno local.
 
 ###### Artículo 348.
 
@@ -4383,9 +4381,11 @@ IX. Las penas por incumplimiento a lo establecido en los contratos correspondien
 
 X. La mención de que las condiciones fijadas en las bases no serán objeto de negociación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO, D.O.F. 1 DE ABRIL DE 2016)</small>
+
 ###### Artículo 349.
 
-La subasta a la inversa en forma electrónica se realizará dentro de los cinco días hábiles contados a partir de la fecha de publicación de la convocatoria en el Diario Oficial de la Federación y en el portal de Internet del Consejo, cuando se trate de aquellas que se realizan con base en el parámetro de licitación.
+La subasta a la inversa en forma electrónica se realizará dentro de los cinco días hábiles contados a partir de la fecha de publicación de la convocatoria en el portal de Internet del Consejo, salvo las adjudicaciones por montos aplicables a la licitación pública, caso en el cual será a partir de la publicación en el Diario Oficial de la Federación.
 
 La duración continuada de las subastas electrónicas será aquella que determine el Consejo sin que pueda ser inferior a cinco horas, contadas a partir de la hora de apertura, conforme lo señale la convocatoria o las bases.
 
@@ -11590,3 +11590,13 @@ CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las unidade
 QUINTO. La regulación relacionada con el programa de vivienda para magistrados de Circuito y jueces de Distrito del Poder Judicial de la Federación expedida o pactada con anterioridad a la entrada en vigor de este Acuerdo continuará vigente en lo que no se oponga a éste.
 
 SEXTO. La Secretaría Ejecutiva de Administración llevará a cabo las acciones necesarias para la revisión y, en su caso, actualización de las disposiciones secundarias, contractuales y convencionales que sean necesarias para la implementación de este Acuerdo.
+
+D.O.F. 1 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el transitorio TERCERO del referido instrumento normativo.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La obligación de emitir los lineamientos con antelación a la aprobación de los programas, prevista en el artículo 303, párrafo tercero, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, será aplicable a partir del ejercicio fiscal del año 2017.
