@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2013-06-26"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -681,9 +681,13 @@ Corresponde a la Secretaría de Trabajo:
 
 I. Implementar los programas necesarios para promover el empleo de mujeres víctimas de violencia para favorecer la construcción de un nuevo proyecto para sus vidas;
 
-II. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2016)</small>
 
-III. Las demás previstas para el cumplimiento de la presente Ley.
+II. Implementar acciones de difusión y capacitación permanentes con el personal de los centros laborales, privilegiando una formación integral de desarrollo laboral y productivo, que elimine toda práctica de acoso laboral, con mecanismos de denuncia que incluyan asesoría legal y psicológica, así como también mecanismos para la investigación y sanción del acoso laboral, que permita el respeto a los derechos humanos y la privacidad;
+
+III. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+IV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 41.
 
@@ -932,3 +936,9 @@ P.O. 26 DE JUNIO DE 2013.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- La Procuraduría General de Justicia deberá emitir el protocolo de actuación para la investigación del delito de feminicidio, atendiendo a lo señalado en el presente Decreto.
+
+P.O. 1 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 083. SE ADICIONA UNA FRACCIÓN II AL ARTÍCULO 40 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
