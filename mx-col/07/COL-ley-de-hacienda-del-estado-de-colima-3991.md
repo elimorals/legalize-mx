@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2016-01-16"
+last_updated: "2016-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1375,9 +1373,9 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 #### SECCION QUINTA. Del pago
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2016)</small>
 
-Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 30 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
+Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los cinco primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 30 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1623,6 +1621,8 @@ XXIX.- Aclaración y complementación de actas del Registro Civil. 7.000
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
+> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO MEDIANTE DECRETO NO. 37 PUBLICADO EL 29 DE DICIEMBRE DE 2015 Y ADICIONADO UN ÚLTIMO PÁRRAFO A LA FRACCIÓN III DE DICHO ARTÍCULO MEDIANTE DECRETO NO. 84 PUBLICADO EL 2 DE ABRIL DE 2016 "Artículo 50.- .... I a II BIS ..... III .... a) a la j).... Que el pago por revalidación anual de concesión o permiso por los conceptos consignados en los incisos del a) a la j) a que se refiere esta fracción serán por año fiscal, con vencimiento al 31 de diciembre del año que corresponda. IV a la XIV ...."]</small>
+
 ###### Artículo 50.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
@@ -1667,9 +1667,9 @@ III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
 IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 12.000
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2016)</small>
 
-El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 31 de marzo.
+El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 31 de mayo. Por los conceptos a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, respecto a un vehículo que tenga en propiedad, y que éste sea de uso particular.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -5959,6 +5959,10 @@ Se condonan en un 100%, los recargos y las multas que se hayan generado por la o
 
 Se condona en un 50 % el pago de los derechos por la expedición de licencias de conducir motociclistas; automovilistas; choferes clase 1; automovilistas y motociclistas; choferes clase 1 y motociclistas; choferes clase 2; y conductores de servicio durante el periodo del 01 al 15 de septiembre de 2014.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2016)</small>
+
+Que el pago de revalidaciones y permisos del servicio de transporte público previstos en el artículo 50 fracción III, del ejercicio fiscal 2015, se efectúe hasta el 31 de mayo de 2016. Asimismo se condonan los recargos y multas por el pago extemporáneo del revalidado de las concesiones y permisos, causados en el ejercicio fiscal 2015, y anteriores.
+
 P.O. 5 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
@@ -6047,7 +6051,7 @@ PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 2016, previa 
 
 SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima", el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Trámites y Servicios Electrónicos, durante el año 2016, el monto se ajustará a la decena de pesos inferior más próxima.
 
-> <small>(F. DE E., P.O. 16 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2016)</small>
 
 TERCERO.- Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, inscritos en el Registro Público Vehicular en el ejercicio 2015 o anteriores, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el ejercicio fiscal 2016, siempre que cumplan con los siguientes requisitos:
 
@@ -6059,7 +6063,9 @@ b) Impuestos, derechos y multas federales, administrados por el Gobierno del Est
 
 c) Impuesto Predial, Derechos por consumo de agua y multas impuestas por las autoridades federales no fiscales, a favor de cualquier municipio del Estado de Colima; y
 
-II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2016 que resulte procedente, se efectúe de enero a marzo de dicho año.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2016)</small>
+
+II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2016 que resulte procedente, se efectúe de enero a mayo de dicho año.
 
 CUARTO.- Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, que se inscriban en el Registro Público Vehicular en el ejercicio fiscal 2016, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el mismo ejercicio, siempre que cumplan con los siguientes requisitos:
 
@@ -6082,3 +6088,19 @@ c) Impuesto Predial, Derechos por consumo de agua y multas impuestas por las aut
 Para los efectos de la aplicación del subsidio a que se refiere este Transitorio, se considerará que el arrendatario es el tenedor o usuario del vehículo, cuando la posesión del mismo se le hubiera otorgado mediante arrendamiento puro o financiero. De igual forma se entenderá que los 30 días hábiles a que se refiere la fracción III de este Transitorio, contarán a partir de la fecha en que se realice la entrega material de la unidad vehicular al adquirente, lo cual podrá acreditarse con la presentación de una constancia expedida por el distribuidor que realizó la venta, en la que se señale la fecha en que se realizó la entrega material del vehículo al adquirente.
 
 El subsidio a que se refiere este Transitorio, no será aplicable respecto de los vehículos propiedad de los gobiernos federal, estatal y municipal, ni de sus organismos descentralizados y autónomos.
+
+P.O. 2 DE ABRIL DE 2016.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NO. 83 POR EL QUE SE REFORMA EL ARTÍCULO 41 Z BIS 12, SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTICULO 53, SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO TERCERO TRANSITORIO, VIGENTES TODOS DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA, ASÍ MISMO SE REFORMA EL ARTÍCULO 7, FRACCIÓN II, INCISO A, V NUMERAL 2, DE LA LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2016 Y SE CONDONA EL 100% CIEN POR CIENTO DE MULTAS Y RECARGOS, GENERADOS POR EL INCUMPLIMIENTO DE PAGO DE RENOVACIÓN DE CALCOMANÍA FISCAL VEHICULAR E IMPUESTO SOBRE TENENCIA, DEL EJERCICIO FISCAL 2015 Y ANTERIORES”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se condona el 100% cien por ciento de multas y recargos, generados por el incumplimiento de pago por renovación de calcomanía fiscal vehicular e impuesto sobre tenencia, del ejercicio fiscal 2015 y anteriores.
+
+P.O. 2 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 84 POR EL QUE SE APRUEBA ADICIONAR UN ÚLTIMO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 50, DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA; ASÍ MISMO, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO QUINTO TRANSITORIO QUE FUERA REFORMADO MEDIANTE DECRETO NÚMERO 350, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA", EL 31 DE JULIO DE 2014 Y SE CONDONA EN UN 50% EL PAGO DE LOS DERECHOS POR LA RENOVACIÓN DE LICENCIAS DE CONDUCIR MOTOCICLISTAS; AUTOMOVILISTAS; CHOFERES CLASE I Y II Y CONDUCTOR DE SERVICIO; MOTOCICLISTA; AUTOMOVILISTAS Y MOTOCICLISTAS, CHOFERES CLASE 1 Y MOTOCICLISTAS; A QUE SE REFIERE LA FRACCIÓN I DEL ARTÍCULO 55 B DE ESTA LEY, HASTA EL 31 DE MAYO DE 2016”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se condona en un 50 % el pago de los derechos por la renovación de licencias de conducir (sic) motociclistas; automovilistas; choferes clase I y II y conductor de servicio; motociclista; automovilistas y motociclistas; choferes clase 1 y motociclistas; a que se refiere la fracción I del artículo 55 B de esta Ley, hasta el 31 de mayo de 2016.
