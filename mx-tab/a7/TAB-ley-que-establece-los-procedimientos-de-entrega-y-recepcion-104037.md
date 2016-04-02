@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-establece-los-procedimientos-de-entrega-y-recepcion-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-19"
-last_updated: "2014-11-19"
+last_updated: "2016-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY QUE ESTABLECE LOS PROCEDIMIENTOS DE ENTREGA Y RECEPCIÓN EN LOS PODERES PÚBLICOS, LOS AYUNTAMIENTOS Y LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 19 de noviembre de 2014.
 
@@ -483,9 +483,11 @@ Durante los siguientes treinta días hábiles contados a partir de la conclusió
 
 En caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión a la Secretaría o al órgano de control interno respectivo, para que se proceda de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2016)</small>
+
 ###### Artículo 18.
 
-Los servidores públicos salientes concluida la entrega y recepción, estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten, en forma personal o por medio de su representante, durante los siguientes treinta días naturales contados a partir del acto de entrega.
+Los servidores públicos salientes concluida la entrega y recepción estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten, en forma personal o por medio de su representante, durante los siguientes treinta días hábiles contados a partir del acto de entrega.
 
 ###### Artículo 19.
 
@@ -702,3 +704,15 @@ SECRETARIO DE GOBIERNO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 006 POR EL QUE “SE REFORMA EL ARTÍCULO 18 DE LA LEY QUE ESTABLECE LOS PROCEDIMIENTOS DE ENTREGA Y RECEPCIÓN DE LOS PODERES PÚBLICOS, LOS AYUNTAMIENTOS Y LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El correspondiente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Las presentes disposiciones serán aplicables, en su caso, a partir de la renovación de los Poderes Públicos, los Ayuntamientos y Órganos Públicos Autónomos del Estado electos a partir del año 2018.
