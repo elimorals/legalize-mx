@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-universidad-de-la-sierra-sur-del-77180
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-09"
-last_updated: "2010-10-09"
+last_updated: "2016-04-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA UNIVERSIDAD DE LA SIERRA SUR DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA UNIVERSIDAD DE LA SIERRA SUR, PUBLICADO EN EL P.O. DE 2 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2016 (SIN EFECTOS).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de octubre de 2010.
 
@@ -955,7 +957,7 @@ Corresponde al Jefe de la División de Estudios de Posgrado Planear, coordinar y
 
 ###### Artículo 45.
 
-El Jefe de la División de Estudios Posgrado (sic) será nombrado y removido libremente por el Rector. Deberá contar con grado de Doctorado, con título profesional y cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública, con práctica acreditada en su especialidad y experiencia indispensable en actividades de investigación, docencia y trabajo comunitario, con capacidad para formar equipos multidisciplinarios y de colaboración.
+El Jefe de la División de Estudios (sic) Posgrado será nombrado y removido libremente por el Rector. Deberá contar con grado de Doctorado, con título profesional y cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública, con práctica acreditada en su especialidad y experiencia indispensable en actividades de investigación, docencia y trabajo comunitario, con capacidad para formar equipos multidisciplinarios y de colaboración.
 
 ###### Artículo 46.
 
@@ -1157,7 +1159,7 @@ El Jefe del Centro de Idiomas de la Universidad, entre otras, las siguientes fun
 
 - Supervisar en coordinación con el Departamento de Recursos Financieros, la verificación de los pagos correspondientes a inscripción, colegiatura, exámenes, constancias y otros servicios proporcionados a estudiantes cuyo costo este reglamentado institucionalmente.
 
-- Supervisar el cumplimiento de los alumnos en actividades, tales como; asistencia a biblioteca (sic), educación física, danza y coro, entre otras.
+- Supervisar el cumplimiento de los alumnos en actividades, tales como; asistencia a (sic) biblioteca, educación física, danza y coro, entre otras.
 
 - Coordinar la prestación de servicio social de los alumnos, conforme a la orientación del plan de estudios que corresponda, observando para tal efecto la normatividad institucional vigente en la materia.
 
@@ -1703,7 +1705,7 @@ DEL MANTENIMIENTO DE LOS INMUEBLES UNIVERSITARIOS Y LA SEGURIDAD DE LOS MISMOS Y
 
 ###### Artículo 83.
 
-El mantenimiento, limpieza y cuidado de las áreas verdes de los Inmuebles Universitarios, así como la seguridad de la comunidad universitaria al interior de los campus estará cargo (sic) de los Jefes de área con especialidad en intendencia, jardinería, electricidad, albañilería, plomería, pintura, herrería y soldadura y de seguridad.
+El mantenimiento, limpieza y cuidado de las áreas verdes de los Inmuebles Universitarios, así como la seguridad de la comunidad universitaria al interior de los campus estará (sic) cargo de los Jefes de área con especialidad en intendencia, jardinería, electricidad, albañilería, plomería, pintura, herrería y soldadura y de seguridad.
 
 ###### Artículo 84.
 
@@ -1885,6 +1887,18 @@ El presente reglamento tiene vigencia indefinida a partir de su publicación pud
 
 Así lo acordaron y firman los integrantes del H. Consejo Académico de la Universidad integrado por:
 
-El Dr. Modesto Seara Vázquez en su calidad de Presidente de ese Órgano Colegiado de Gobierno y Rector de esta Universidad; cDR (sic). Amando Alejandro Ruiz Figueroa en su calidad de Vicerrector Académico; L.C.E. Erick Alexis Ochoa Valencia en su calidad de Vicerrector de Administración y Secretario; los C.C Dr. Miguel Guerrero Olvera; Mtra. Elsa Apolonia Mendoza Cortes, Dr. Roberto García Zúñiga, Mtra. Felicitas Ortiz García, Mtra. Corina Mariela Alba Alba y la Mtra. Sandra Karina Ramírez Vásquez, el Director de Instituto y Jefes de Carrera; Ing. Eleazar Brena García y el Ing. Francisco Ramiro Ordaz Zurita, Profesores-Investigadores; L. C. P Juan Ignacio García Moreno Auditor Interno y Asesor; Lizette Margarita Acosta Cuactle y Juan Carlos Hernández Reyes alumnos, quienes integran el Consejo Académico de acuerdo al Decreto de Creación. Aprobándose el citado reglamento por ese Órgano Colegiado con fundamento en los Artículos 1, 2, 5 fracción I, 6 fracción II, 8 fracción VII, 9 fracción II y demás relativos aplicables en el Decreto de Creación.
+El Dr. Modesto Seara Vázquez en su calidad de Presidente de ese Órgano Colegiado de Gobierno y Rector de esta Universidad; cDR. Amando Alejandro Ruiz Figueroa en su calidad de Vicerrector Académico; L.C.E. Erick Alexis Ochoa Valencia en su calidad de Vicerrector de Administración y Secretario; los C.C Dr. Miguel Guerrero Olvera; Mtra. Elsa Apolonia Mendoza Cortes, Dr. Roberto García Zúñiga, Mtra. Felicitas Ortiz García, Mtra. Corina Mariela Alba Alba y la Mtra. Sandra Karina Ramírez Vásquez, el Director de Instituto y Jefes de Carrera; Ing. Eleazar Brena García y el Ing. Francisco Ramiro Ordaz Zurita, Profesores-Investigadores; L. C. P Juan Ignacio García Moreno Auditor Interno y Asesor; Lizette Margarita Acosta Cuactle y Juan Carlos Hernández Reyes alumnos, quienes integran el Consejo Académico de acuerdo al Decreto de Creación. Aprobándose el citado reglamento por ese Órgano Colegiado con fundamento en los Artículos 1, 2, 5 fracción I, 6 fracción II, 8 fracción VII, 9 fracción II y demás relativos aplicables en el Decreto de Creación.
 
 Miahuatlán de Porfirio Díaz, Oaxaca. 15 de julio de 2009.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA UNIVERSIDAD DE LA SIERRA SUR".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Queda sin efecto el Reglamento Interno aprobado por el Consejo Académico de la Universidad el día 15 de julio de 2009.
