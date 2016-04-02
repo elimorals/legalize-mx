@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-113165"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-02-29"
-last_updated: "2016-02-29"
+last_updated: "2016-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL DE 2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2016.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el lunes 29 de febrero de 2016.
 
@@ -115,7 +115,9 @@ a) Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras 
 
 1.3.- Impuesto predial, derechos por consumo de agua y multas impuestas por las autoridades federales no fiscales, a favor de cualquier municipio del Estado de Colima.
 
-2.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2016 que resulte procedente, se efectúe de enero a marzo de dicho año.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2016)</small>
+
+2.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2016 que resulte procedente, se efectúe de enero a mayo de dicho año.
 
 b) Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, que se inscriban en el Registro Público Vehicular en el ejercicio fiscal 2016, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el mismo ejercicio, siempre que cumplan con los siguientes requisitos:
 
@@ -164,3 +166,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 28 veintiocho de febrero del año 2016 dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. JOSÉ IGNACIO PERALTA SÁNCHEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica. EL SECRETARIO DE PLANEACIÓN Y FINANZAS, C.P. CARLOS ARTURO NORIEGA GARCÍA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 83 POR EL QUE SE REFORMA EL ARTÍCULO 41 Z BIS 12, SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 53, SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO TERCERO TRANSITORIO, VIGENTES TODOS DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA, ASÍ MISMO SE REFORMA EL ARTÍCULO 7, FRACCIÓN II, INCISO A, NUMERAL 2, DE LA LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2016 Y SE CONDONA EL 100% CIEN POR CIENTO DE MULTAS Y RECARGOS, GENERADOS POR EL INCUMPLIMIENTO DE PAGO DE RENOVACIÓN DE CALCOMANÍA FISCAL VEHICULAR E IMPUESTO SOBRE TENENCIA, DEL EJERCICIO FISCAL 2015 Y ANTERIORES”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se condona el 100% cien por ciento de multas y recargos, generados por el incumplimiento de pago por renovación de calcomanía fiscal vehicular e impuesto sobre tenencia, del ejercicio fiscal 2015 y anteriores.
