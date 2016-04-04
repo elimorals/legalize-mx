@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-patrimonio-cultural-del-municipio-de-general-5076
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-05"
-last_updated: "2006-06-05"
+last_updated: "2016-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PATRIMONIO CULTURAL DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de junio de 2006.
 
@@ -61,9 +61,11 @@ DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en el presente Reglamento son de orden público y se expiden en lo previsto por el Artículo 115, fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 131, fracciones I y II, inciso H, de la Constitución Política del Estado de Nuevo León; y 26, inciso A, fracciones IV, 160, 161 y 162 de la Ley Orgánica de la Administración Pública Municipal, y tiene por objeto ordenar y regular el Patrimonio Cultural dentro del Municipio de General Escobedo, N.L.
+Las disposiciones contenidas en el presente Reglamento son de orden público y se expiden en lo previsto por el Artículo 115, fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 131, fracciones I y II, inciso H, de la Constitución Política del Estado de Nuevo León; y los Artículos 222, 223, 224 de la Ley de Gobierno Municipal y tiene por objeto ordenar y regular el Patrimonio Cultural dentro del Municipio de General Escobedo, N. L.
 
 ###### ARTÍCULO 2.
 
@@ -81,7 +83,9 @@ I.- El C. Presidente Municipal;
 
 II.- El C. Secretario del R. Ayuntamiento;
 
-III.- El C. Secretario de Desarrollo Social y Humano; y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2016)</small>
+
+III.- El C. Secretario Técnico del Consejo de Desarrollo Social; y
 
 IV.- Las demás autoridades y dependencias Municipales en los casos de su competencia.
 
@@ -247,7 +251,9 @@ La obra mural relevante será conservada y restaurada por el Municipio.
 
 Para los efectos del Artículo 5 de este Reglamento, se creará la Comisión Municipal de Zonas y Monumentos Artísticos, que tendrá por objeto proponer al Presidente Municipal gestione la declaratoria de zonas y monumentos de la obra de un artista del Municipio fallecido; y llevar el registro de las obras artísticas, muebles, a partir de su primera exhibición en el país, de conformidad con las disposiciones del Reglamento que organice sus Funciones, sin prejuicio de lo dispuesto en la Ley Federal Sobre el Derecho de Autor.
 
-La Comisión estará integrada por el Secretario de Desarrollo Social y Humano, quien la presidirá; y por críticos y artistas exhibidores de obras de arte, así como por los organismos y asociaciones relacionadas con estas actividades que su Reglamento determine.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2016)</small>
+
+La Comisión estará integrada por el Secretario Técnico del Consejo de Desarrollo Social, quien la presidirá; y por críticos y artistas exhibidores de obras de arte, así como por los organismos y asociaciones relacionadas con estas actividades que su Reglamento determine.
 
 ###### ARTÍCULO 35.
 
@@ -456,3 +462,13 @@ PRESIDENTE MUNICIPAL.
 LIC. REFUGIO MACIAS MUÑOZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO DE SESIÓN ORDINARIA CELEBRADA EN FECHA 16-DIECISÉIS DE FEBRERO DE 2016 “APROBÓ LA REFORMA POR MODIFICACIÓN DEL ARTÍCULO 1; DEL ARTÍCULO 3 FRACCIÓN III; DEL ARTÍCULO 34 ÚLTIMO PÁRRAFO; TODOS DEL REGLAMENTO DE PATRIMONIO CULTURAL DEL MUNICIPIO DE GENERAL ESCOBEDO NUEVO LEÓN”.]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
