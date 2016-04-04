@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2016-01-25"
+last_updated: "2016-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -515,9 +515,27 @@ l. Constituir el Mecanismo Municipal de Adelanto a favor de las Mujeres, a efect
 
 m. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-LX. Las demás que le confieran la presente Ley y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2016)</small>
+
+LX. Crear y operar, según la disponibilidad presupuestal, una unidad administrativa especializada en la implementación de políticas públicas en beneficio de los jóvenes en las que se considere, al menos, lo siguiente:
+
+a) Dar atención prioritaria a jóvenes que se encuentren en alguno de los supuestos de vulnerabilidad establecidos en el Artículo 7° de la Ley de la Juventud del Estado de Aguascalientes;
+
+b) Ofrecer terapia ocupacional y orientación psicológica, a fin de prevenir conductas juveniles riesgosas;
+
+c) Crear espacios de recreación y cultura en los que sea posible la exhibición de proyectos personales, talentos y habilidades, así como su difusión;
+
+d) Promover créditos financieros, estímulos fiscales y capacitación para los jóvenes emprendedores; y
+
+e) Implementar acciones para que la juventud se integre a actividades deportivas y de recreación de acuerdo a sus intereses personales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2016)</small>
+
+LXI. Las demás que le confieran la presente ley y otras disposiciones legales.
 
 ###### Artículo 37.
 
@@ -2226,3 +2244,19 @@ P.O. 25 DE ENERO DE 2016.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ARTÍUCULO (SIC) SEGUNDO.- Los Ayuntamientos del Estado tendrán un plazo de 180 días naturales contados a partir de (sic) inicio de vigencia del presente Decreto, para adecuar sus disposiciones reglamentarias, así como organizar su estructura administrativa en lo necesario para dar cumplimiento a la presente reforma.
+
+P.O. 4 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 327.- SE REFORMA Y ADICIONA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+. El presente Decreto iniciará su vigencia a los 60 días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento ochenta días naturales contados a partir de que inicie su vigencia el presente Decreto, los Ayuntamientos emitirán las disposiciones reglamentarias necesarias a fin de regular:
+
+I.- La atención a los jóvenes, estableciendo los medios y procedimientos adecuados para ello; y
+
+II.- La prevención de la discriminación hacia los jóvenes, promoviendo una cultura de equidad y la igualdad de oportunidades y trato.
