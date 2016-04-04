@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-cd-general-2597
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-02-23"
-last_updated: "1999-05-24"
+last_updated: "2016-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE CD. GENERAL M. ESCOBEDO, N. L
 
-REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE CD. GENERAL M. ESCOBEDO, NUEVO LEON
+REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE CD. GENERAL M. ESCOBEDO, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de febrero de 1996.
 
@@ -101,13 +101,15 @@ Quedan comprendidas en este Reglamento, y sujetas a sus disposiciones y diversio
 
 Las presentaciones y representaciones teatrales, las audiciones musicales, las exhibiciones cinematográficas, las funciones de variedades, las corridas de toros, las carreras y las competencias humanas, de animales y de todo tipo de vehículos, exposiciones y exhibiciones de pintura, esculturas, artesanía o cualquier otro género de arte: las conferencias con fines informativos y de cultura, las exhibiciones aeronáuticas; los circos, los frontones y demás juegos de pelota, las peleas de Box y lucha y demás juegos deportivos, gimnasios, billares, boliches, patinaderos, golfitos, futbolitos, bailes públicos, los cabarets y albercas, los juegos electromecánicos como rueda de la fortuna, carros chocones, satélite, etc., y en suma todos aquellos actos que se organizan para que el público mediante paga, o gratuita, concurra a divertirse o educarse.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 3.
 
 Para los fines de este Reglamento, se entiende por:
 
-a).- AUTORIDAD MUNICIPAL: La Secretaría del Ayuntamiento, la Secretaría de Finanzas y Tesorería Municipal, y la Jefatura de Espectáculos.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2016)</small>
+
+a).- AUTORIDAD MUNICIPAL: La Secretaría del Ayuntamiento, la Secretaría de Administración, Finanzas y Tesorero Municipal, la Dirección de Comercio y la Dirección Inspección Control y Vigilancia.
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -121,9 +123,11 @@ e).- LICENCIA: Es la autorización que, cumplidos los requisitos administrativos
 
 f).- PERMISO: Es la autorización que, cumplidos los requisitos administrativos establecidos en este Reglamento, emite la Secretaría del Ayuntamiento para que una persona física o moral pueda realizar un espectáculo o diversión pública, o para operar en un evento determinado alguno de los giros que requieren de Licencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 4.
 
-Corresponde a la Secretaría del Ayuntamiento y Secretaría de Finanzas y Tesorería Municipal, por conducto de la Jefatura de Espectáculos, ejercer las siguientes atribuciones:
+Corresponde a la Secretaría del Ayuntamiento, Secretaría de Administración, Finanzas y Tesorero Municipal, la Dirección de Comercio y la Dirección Inspección Control y Vigilancia, ejercer las siguientes atribuciones:
 
 I.- Expedir Permisos para la celebración de algún espectáculo público u operación de centros de diversiones públicas.
 
@@ -151,9 +155,11 @@ XII.- Las que le confiera el presente Reglamento y demás disposiciones jurídic
 
 XIII.- Las demás que le confiera el Presidente Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 1999)</small>
 
-ARTICULOS 5.- Los espectáculos públicos se clasificarán de la siguiente manera:
+###### ARTICULO 5.
+
+Los espectáculos públicos se clasificarán de la siguiente manera:
 
 a).- ESPECTACULOS DEPORTIVOS: Que comprenderán las peleas de Box y lucha, el fútbol soccer, el fútbol americano, el fútbol rápido, el béisbol, el basquetbol, el volibol, las carreras de vehículos ya sean de automóviles, motocicletas o bicicletas, el atletismo, el golf y demás eventos similares.
 
@@ -175,17 +181,19 @@ e).- ESPECTÁCULOS ARTÍSTICOS: Aquellos que demuestran y promueven el gusto por
 
 f).- ESPECTÁCULOS RECREATIVOS: Aquellos que tienen por objeto el esparcimiento y el solaz de los espectadores entre los cuales se encuentran los espectáculos circenses, taurinos, charrerías, rodeos, juegos de pelota, charlotadas, de forcados, de prestigiditación (sic) e ilusionismo, faquirismo, paracaidismo y suertes similares.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 6.
 
-En cualquier tipo de evento, queda prohibido introducir armas de fuego, armas blancas o cualquier artefacto que a consideración del Inspector de Espectáculos, pueda ser utilizado para causar daños físicos o materiales a los asistentes.
+En cualquier tipo de evento, queda prohibido introducir armas de fuego, armas blancas o cualquier artefacto que a consideración del Inspector de la Dirección de Inspección Control y Vigilancia, pueda ser utilizado para causar daños físicos o materiales a los asistentes.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 7.
 
-Para poder realizar algún espectáculo o diversión pública de las reguladas por este Reglamento, se deberá previamente tramitar y obtener la Licencia ó permiso de la Secretaría del R. Ayuntamiento, la cual lo concederá siempre que el lugar en que se vaya a presentar el espectáculo o diversión, cumpla con las condiciones de seguridad, la cual podrá acreditarse a través del dictamen que para tal efecto expida la Dirección de Protección Civil del Estado de Nuevo León, también se requiere para la expedición del permiso correspondiente la anuencia de los vecinos (moradores de casas habitación), cuando en el espectáculo de que se trate, se expendan bebidas alcohólicas o cerveza, así como las condiciones de higiene y demás requeridas por otras disposiciones municipales.
+Para poder realizar algún espectáculo o diversión pública de las reguladas por este Reglamento, se deberán previamente tramitar y obtener la Licencia ó el permiso de la Secretaria del R. Ayuntamiento, la cual lo concederá siempre que el lugar en que se vaya a presentar el espectáculo o diversión, cumpla con las condiciones de seguridad, la cual podrá acreditarse a través del dictamen que para tal efecto expida la Dirección de Protección Civil Municipal, también se requiere para la expedición del permiso correspondiente la anuencia de los vecinos (moradores de casas habitación), cuando en el espectáculo de que se trate, se expendan bebidas alcohólicas o cerveza, así como las condiciones de higiene y demás requeridas por otras disposiciones municipales.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
 
 Los espectáculos y diversiones que se verifiquen en la Ciudad de General Escobedo, causarán el impuesto que marca la Ley de Hacienda para los Municipios del Estado de Nuevo León en vigor.
 
@@ -391,9 +399,11 @@ Los centros de espectáculos deberán estar suficiente y convenientemente ventil
 
 Todo centro de espectáculos deberá contar con teléfonos públicos dentro de sus instalaciones.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 47.
 
-Los centros de espectáculos deberán contar con equipo contra incendio, extinguidores, mangueras e hidrantes, según sea necesario. Los mismos deberán estar ubicados estratégicamente y en perfectas condiciones de uso.
+Los centros de espectáculos deberán contar con equipo contra incendio, extinguidores, mangueras e hidrantes, según La Dirección de Protección civil Municipal. Los mismos deberán estar ubicados estratégicamente y en perfectas condiciones de uso.
 
 ###### ARTICULO 48.
 
@@ -707,13 +717,17 @@ DE LOS INSPECTORES E INSPECCIONES
 
 La Autoridad Municipal vigilará el exacto cumplimiento de las disposiciones de este Reglamento y sancionará las infracciones que al mismo se cometan.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 95.
 
-Los Inspectores de Espectáculos y Diversiones Públicas tendrán el carácter de personal de confianza y serán nombrados por el Presidente Municipal.
+Los Inspectores de la Dirección de Inspección Control y Vigilancia tendrán el carácter de personal de confianza y serán nombrados por el Presidente Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 96.
 
-Los Inspectores de Espectáculos y Diversiones Públicas tendrán las siguientes atribuciones.
+Los Inspectores de la Dirección Control y Vigilancia tendrán las siguientes atribuciones:
 
 I.- Libre acceso a los espectáculos o diversiones públicas en los que debe intervenir.
 
@@ -723,9 +737,11 @@ III.- Sus determinaciones serán con la personalidad de representantes de la Pre
 
 IV.- Salvo disposición en contrario, la policía que concurra el espectáculo estará bajo las órdenes directas del Inspector responsable del evento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 97.
 
-Los Inspectores de Espectáculos y Diversiones Públicas tendrán los siguientes deberes y obligaciones:
+Los Inspectores de la Dirección de Inspección Control y Vigilancia tendrán los siguientes deberes y obligaciones:
 
 1.- Comprobar que el espectáculo o diversión pública cuente con su Licencia o Permiso respectivo.
 
@@ -811,7 +827,9 @@ La determinación de las faltas y la imposición de las sanciones por cualquiera
 
 La Autoridad Municipal en los términos del presente capítulo aplicará las siguientes sanciones:
 
-I.- Multa desde 5 a 500 veces el salario mínimo general diario, vigente en Escobedo, N.L.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2016)</small>
+
+I.- Multa desde 5 a 1,500 veces el salario mínimo general diario, vigente en Escobedo, N.L.
 
 II.- Clausura temporal de hasta 30 días o definitiva del establecimiento.
 
@@ -921,7 +939,9 @@ Procederá la clausura temporal o definitiva, parcial o total según la gravedad
 
 3.- Cuando se pretenda realizar algún espectáculo o diversión pública sin contar con las medidas de seguridad, comodidad e higiene consignadas en este Reglamento.
 
-4.- Cuando se expendan bebidas alcohólicas no encontrándose autorizados al efecto.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2016)</small>
+
+4.- Cuando se expendan bebidas alcohólicas, o bebidas adulteradas, no encontrándose autorizados al efecto.
 
 5.- Cuando se compruebe que las actividades que se realicen en un establecimiento violan las disposiciones de este Reglamento, constituyendo peligro grave para la salud o seguridad del público.
 
@@ -1069,10 +1089,18 @@ SINDICO SEGUNDO
 
 JUAN ELlAS VILLARREAL RIVERA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 24 DE MAYO DE 1999.
 
 PRIMERO: Las presentes reformas al Reglamento de Espectáculos en el Municipio de General Escobedo, Nuevo León, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Envíese al Periódico Oficial del Estado por conducto de la Secretaría General de Gobierno, para su promulgación y publicación.
+
+P.O. 4 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APROBÓ POR UNANIMIDAD LA REFORMA POR MODIFICACIÓN DE LA FRACCIÓN A), DEL ARTICULO 3; DEL PRIMER PÁRRAFO, DEL ARTICULO 4; DEL ARTICULO 6; DEL ARTICULO 7; DEL ARTICULO 47; DEL ARTICULO 95; DEL ARTICULO 96; DEL ARTICULO 97; DE LA FRACCIÓN I., DEL ARTICULO 105; Y DEL PUNTO 4., DEL ARTICULO 114; TODOS DEL REGLAMENTO DE ESPECTÁCULOS PARA EL MUNICIPIO DE GENERAL ESCOBEDO NUEVO LEÓN".]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
