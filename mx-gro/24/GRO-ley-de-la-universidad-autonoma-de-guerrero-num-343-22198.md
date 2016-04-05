@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-la-universidad-autonoma-de-guerrero-num-343-22198"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-28"
-last_updated: "2001-08-28"
+last_updated: "2016-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE LA UNIVERSIDAD AUTONOMA DE GUERRERO NUM. 343
 
-LEY DE LA UNIVERSIDAD AUTONOMA DE GUERRERO NUMERO 343
+LEY DE LA UNIVERSIDAD AUTÓNOMA DE GUERRERO NÚMERO 343
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE GUERRERO NÚMERO 178, PUBLICADA EN EL P.O. 5 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 28 de agosto de 2001.
 
@@ -874,3 +876,23 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+P.O. 5 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA “LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE MÉXICO NÚMERO 178”]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley de la Universidad Autónoma de Guerrero Núm. 343, publicada en el Periódico Oficial del Gobierno del Estado número 69 de fecha 28 de agosto del 2001.
+
+TERCERO. El Estatuto, Reglamentos y demás disposiciones generales que actualmente rigen a la Universidad, seguirán vigentes en lo que no se contravenga con la presente Ley, y hasta en tanto el H. Consejo Universitario no emita dichas disposiciones normativas.
+
+CUARTO. El H. Consejo Universitario, tendrá 190 días naturales a partir de la entrada en vigor de la presente Ley para armonizar el Estatuto, Reglamentos y demás disposiciones normativas que rigen a la Universidad.
+
+QUINTO. Los Directores que a la entrada en vigencia de la presente Ley estén en funciones concluirán su periodo de cuatro años. Con el propósito de ajustar el calendario electoral, por única vez los Directores que sean electos en el año 2018 durarán en el cargo tres años.
+
+SEXTO. Con el objetivo de ajustar el calendario electoral, los Consejeros Universitarios y Académicos en funciones ampliarán su periodo por un año, y en aquellas Unidades Académicas donde dichos Consejeros hayan concluido sus estudios, renunciado o ausentado, se convocará a la elección simultánea y extraordinaria en 2016 y durarán en el cargo un año. A partir del año 2017, los Consejeros representantes de los profesores durarán en el cargo cuatro años y los Consejeros estudiantes dos años.
+
+SÉPTIMO. Por única vez los Consejos Académicos de Área y el Consejo Académico de Educación Media Superior se integrarán a propuesta del Rector y durarán en su cargo hasta el año 2017.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
