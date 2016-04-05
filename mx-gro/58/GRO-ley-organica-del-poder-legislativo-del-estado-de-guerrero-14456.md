@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2016-02-16"
+last_updated: "2016-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -693,9 +693,11 @@ La integración de Comisiones y Comités especiales se hará en la forma previst
 
 En los términos que acuerde la Comisión respectiva, cualquier miembro de la Legislatura podrá participar en los trabajos de las Comisiones de las que no forme parte, con derecho a voz pero sin voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2016)</small>
+
 ###### Artículo 49.
 
-Las Comisiones ordinarias del Congreso del Estado, son las siguientes:
+Las comisiones ordinarias del Congreso del Estado, son las siguientes:
 
 I. De Gobierno;
 
@@ -743,9 +745,9 @@ XX. De Desarrollo Agropecuario y Pesquero;
 
 XXI. De Asuntos Indígenas;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2016)</small>
 
-XXII. De equidad y Género;
+XXII. Para la Igualdad de Género.
 
 XXIII. De Asuntos de la Juventud;
 
@@ -1169,11 +1171,11 @@ IV. Los relativos a la procuración, administración de justicia y respeto a los
 
 V. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2016)</small>
 
 ###### Artículo 72.
 
-A la Comisión de Equidad y Género le corresponde conocer de los asuntos siguientes:
+A la Comisión para la Igualdad de Género le corresponde conocer de los asuntos siguientes:
 
 I. De las iniciativas que tengan por objeto, propiciar la integración de la mujer en la vida social, política y económica del Estado, sobre la base de igualdad de derechos y obligaciones entre ambos sexos;
 
@@ -1181,7 +1183,17 @@ II. Vigilar la aplicación de los programas implementados por los Gobiernos Esta
 
 III. Impulsar estudios y foros que versen sobre las condiciones de vida de la mujer, y
 
-IV. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2016)</small>
+
+IV. Incorporar la perspectiva de género en los dictámenes, opiniones y demás documentos que sean turnados a esta Comisión, con la finalidad de garantizar no solo un lenguaje inclusivo sino una verdadera transformación en el quehacer legislativo;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2016)</small>
+
+V. Dar seguimiento a los presupuestos públicos con visión de género que avancen en la consolidación de las reformas en la materia; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2016)</small>
+
+VI. Los demás análogos que, a juicio de la Presidencia del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
 ###### Artículo 73.
 
@@ -2237,11 +2249,13 @@ Los Diputados deberán guardar la reserva de todos aquéllos asuntos tratados en
 
 Los Diputados no podrán invocar o hacer uso de su condición de legisladores para el ejercicio de la actividad mercantil, industrial o profesional.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2016)</small>
+
 ###### Artículo 181.
 
-Es obligación de los Diputados visitar su respectivo Distrito en los períodos de receso del Congreso, o en los períodos ordinarios cuando fuere necesario; además, cerciorarse del estado que guardan los programas de desarrollo económico y de bienestar social, así como vigilar que los servidores públicos presten un servicio eficaz y honesto a la ciudadanía.
+Es obligación de los diputados ser gestores y promotores del pueblo y podrán auxiliar a sus representados en sus demandas sociales y en los asuntos de interés general, a fin de lograr su oportuna solución, por lo que las autoridades Estatales y Municipales deberán atender su intervención y ver por la oportuna resolución de sus promociones.
 
-Es obligación de los Diputados rendir anualmente un informe escrito del ejercicio de sus funciones. Documento que deberá ser remitido al Congreso.
+Asimismo deberá visitar su respectivo distrito para cerciorarse del estado que guardan los programas de desarrollo económico y de bienestar social, vigilar la eficaz prestación de los servicios públicos y percatarse de cualquier anomalía que pueda afectar la seguridad y tranquilidad colectiva. Además deberá rendir su informe de manera anual en el Distrito que le corresponde, evitando que dicho informe se realice en los tiempos de veda electoral, de conformidad a lo establecido en la Ley de la Materia.
 
 ###### Artículo 182.
 
@@ -2817,7 +2831,7 @@ Publíquese en el Periódico Oficial del Gobierno del Estado, no requiriendo la 
 
 P.O. 14 DE AGOSTO DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 857 POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XXX, AL ARTÍCULO 49 Y EL ARTÍCULO 64 BIS, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 857 POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XXX, AL ARTÍCULO 49 Y EL ARTÍCULO 64 BIS, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2858,3 +2872,15 @@ SEGUNDO. El Honorable Congreso del Estado de Guerrero, mediante la Comisión de 
 TERCERO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales procedentes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado y en la página oficial web de este Poder Legislativo.
+
+P.O. 5 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 197 POR EL QUE SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 49, LA FRACCIÓN IV DEL ARTÍCULO 72; Y EL ARTÍCULO 181 Y SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 72, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO, NÚMERO 286”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto para el conocimiento general en el periódico Oficial del Gobierno del Estado de Guerrero.
