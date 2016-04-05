@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-agua-potable-y-alcantarillado-del-estado-de-quintana-110
 country: "mx"
 rank: "ley"
 publication_date: "1981-10-06"
-last_updated: "2008-09-30"
+last_updated: "2016-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 6 de octubre de 1981.
 
@@ -143,11 +143,11 @@ Los adeudos a cargo de usuarios de los servicios de agua potable y alcantarillad
 
 La transimisión (sic) del dominio de bienes inmuebles requerirá se demuestre que respecto del predio objeto de ella se está al corriente en el pago de los derechos por los servicios de agua potable y alcantarillado; los notarios públicos y funcionarios facultados para dar fe de tales actos, estarán obligados a exigir a los contratantes la presentación de los comprobantes respectivos, sin los cuales no podrán autorizar las transmisiones. La violación de este precepto generará responsabilidad solidaria para dichos notarios y funcionarios respecto de tales derechos.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 15.
 
-Los actos y resoluciones relativos a esta Ley, se notificarán a los usuarios en forma personal si concurriere el interesado a la oficina respectiva, asentándose en el expediente razón de la notificación. Si el interesado no concurre, la notificación se le hará por correo certificado con acuse de recibo que se le enviará al domicilio que hubiere señalado para ello; si no existiere señalado domicilio, la notificación se enviará por correo al predio o establecimiento en el que se preste el servicio de agua. El acuse de recibo, en su caso, se agregará al expediente.
-
-También podrán hacerse las notificaciones por medio de notificador comisionado para el efecto; si al practicarse la notificaón (sic) personal no se encontrare el interesado, o su representante legal, el notificador dejará un citatorio para que se le espere a una hora fija del día siguiente y si no le esperase, la notificación se hará a cualquier persona que se encuentre en dicho domicilio, al vecino inmediato o al agente de la policía más próximo.
+Los actos y resoluciones relativos a esta Ley y a la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable y Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo, se notificarán a los usuarios en los términos del Título Tercero, Capítulo Quinto de la Ley de Procedimiento Administrativo del Estado de Quintana Roo, incluyendo el envío de la notificación por correo certificado con acuse de recibo al predio o establecimiento en el que se presta el servicio de agua potable.
 
 ###### ARTICULO 16.
 
@@ -305,21 +305,27 @@ El Consejo Directivo es la suprema autoridad de la Comisión y se integrará con
 
 I. Un Presidente, que será el Gobernador del Estado, o quien éste determine;
 
-II. Un Vocal Secretario, que será el Secretario de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2016)</small>
 
-III. Once Vocales, que serán los Presidentes Municipales de cada uno de los Ayuntamientos de la Entidad, el Secretario de Hacienda y el Secretario de Planeación y Desarrollo Regional, ambos del Estado.
+II. Un Vocal Secretario, que será el Secretario de Desarrollo Urbano y Vivienda;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2016)</small>
+
+III. Trece Vocales, que serán los Presidentes Municipales de cada uno de los Ayuntamientos de la Entidad y/o Presidente del Concejo Ciudadano designado por la H. Legislatura Constitucional Local; el Secretario de Finanzas y Planeación y el Oficial Mayor, ambos del Estado.
 
 Los miembros propietarios del Órgano de Gobierno deberán designar a sus respectivos representantes.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 25.
 
-El Consejo Directivo sesionará ordinariamente cuando menos cuatro veces al año, la calendarización de dichas sesiones se realizará a mas tardar en la última sesión ordinaria del año inmediato anterior y en forma extraordinaria cuando así lo solicite cualesquiera de sus miembros con una antelación mínima de cuarenta y ocho horas; para el caso de las sesiones ordinarias, el Órgano de Dirección deberá enviar a los miembros restantes del Consejo Directivo, con una antelación no menor de cinco días hábiles a la fecha de celebración de la Sesión, el orden del día adjunto de la información y documentación correspondiente que les permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de su representación. Para el caso de las sesiones extraordinarias esto último tendrá lugar con el envío de la convocatoria respectiva. En ambos casos la sesión será válida con la asistencia de un mínimo de siete miembros, siempre que asista el Presidente del Consejo, sus decisiones se tomarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
+El Consejo Directivo sesionará ordinariamente cuando menos cuatro veces al año, la calendarización de dichas sesiones se realizará a más tardar en la última sesión ordinaria del año inmediato anterior y en forma extraordinaria cuando así lo solicite cualesquiera de sus miembros con una antelación mínima de cuarenta y ocho horas; para el caso de las sesiones ordinarias, el Órgano de Dirección deberá enviar a los miembros restantes del Consejo Directivo, con una antelación no menor de cinco días hábiles a la fecha de celebración de la Sesión, el orden del día adjunto de la información y documentación correspondiente que les permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de su representación. Para el caso de las sesiones extraordinarias esto último tendrá lugar con el envío de la convocatoria respectiva. En ambos casos la sesión será válida con la asistencia de un mínimo de nueve miembros, siempre que asista el Presidente del Consejo, sus decisiones se tomarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 Los acuerdos y resoluciones del Consejo Directivo, tendrán los efectos y alcances de un Convenio Administrativo Estado-Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 26.
 
@@ -419,11 +425,13 @@ II.- Proponer las cuotas o tarifas que estimen deban cobrarse por los servicios 
 
 III.- Las demás que les señale esta Ley y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 30.
 
-El Consejo Técnico Consultivo, como órgano de apoyo al Consejo Directivo, se integrará con representante de los usuarios de los sectores social y privado que determine el Gobernador del Estado; asimismo se invitará o formar parte de él a representantes de las instancias Federal, Estatal y Municipal que se consideren convenientes. Será presidido por el Secretario de Desarrollo Urbano y Medio Ambiente, asistido por un Secretario que será el Director General de la Comisión.
+El Consejo Técnico Consultivo, como órgano de apoyo al Consejo Directivo, se integrará con representante de los usuarios de los sectores social y privado que determine el Gobernador del Estado; asimismo se invitará a formar parte de él a representantes de las instancias Federal, Estatal y Municipal que se consideren convenientes. Será presidido por el Secretario de Desarrollo Urbano y Vivienda, asistido por un Secretario que será el Director General de la Comisión.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 El Consejo funcionará en los términos del reglamento que a efecto expida el Consejo Directivo.
 
@@ -469,7 +477,7 @@ El Consejo Técnico Consultivo sesionará en forma ordinaria dos veces al año y
 
 Por cada titular habrá un suplente y sus funciones, atribuciones así como sus actuaciones, se canalizarán en la forma y términos que establezca su Reglamento Interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 33.
 
@@ -709,7 +717,9 @@ V.- Que existan todas las demás circunstancias análogas a las señaladas, que 
 
 Para los efectos de los artículos anteriores, en caso de duda, el organismo operador determinará si se trata de varios predios, giros o establecimientos.
 
-ARTICULO 5I.- Dentro de los plazos fijados en el Artículo 36 de esta Ley, los propietarios o poseedores de predios, giros o establecimientos obligados a hacer uso del servicio público de agua potable y alcantarillado, deberán presentar un escrito solicitando la instalación de la toma en la forma que señala esta Ley y sus disposiciones reglamentarias.
+###### ARTICULO 51.
+
+Dentro de los plazos fijados en el Artículo 36 de esta Ley, los propietarios o poseedores de predios, giros o establecimientos obligados a hacer uso del servicio público de agua potable y alcantarillado, deberán presentar un escrito solicitando la instalación de la toma en la forma que señala esta Ley y sus disposiciones reglamentarias.
 
 ###### ARTICULO 52.
 
@@ -921,19 +931,29 @@ d).- Las cantidades que se recauden por concepto de multas, recargos, apropiaci�
 
 e).- Las donaciones o cooperaciones que reciban los Organismos Operadores, de instituciones públicas o privadas y de particulares.
 
-### CAPITULO QUINTO. DE LA INSPECCIÓN, VERIFICACIÓN Y PAGO DE SERVICIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2016)</small>
 
-#### SECCION PRIMERA. DE LA INSPECCIÓN
+### CAPITULO QUINTO. DE LA VERIFICACIÓN, DEL MEDIDOR Y PAGO DE SERVICIOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2016)</small>
+
+#### SECCION PRIMERA. DE LA VERIFICACIÓN
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 83.
 
-Para dar debido cumplimiento a las disposiciones de esta Ley y sus reglamentos, los Organismos Operadores ordenaran que se realicen visitas de inspección, mismas que se efectuarán por personal debidamente autorizado, el cual deberá acreditar su personalidad con la credencial correspondiente y exhibir la orden escrita que funde y motive la inspección, cuando no se trate de determinar el consumo de agua por medio de la lectura del aparato medidor.
+Para dar debido cumplimiento a las disposiciones de esta Ley, y de la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable y Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo y sus reglamentos, los Organismos Operadores, ordenarán que se realicen visitas de verificación, en los términos del Título Cuarto, Capítulo Primero de la Ley de Procedimiento Administrativo del Estado de Quintana Roo, mismas que se efectuarán por personal debidamente autorizado, el cual deberá acreditar su personalidad con la credencial y exhibir la orden escrita que funde y motive la verificación, cuando no se trate de determinar el consumo de agua por medio de la lectura del aparato medidor.
 
-De toda visita de inspección se levantará un acta circunstanciada.
+En todo caso quien practique la visita, dejará en poder del propietario, responsable, encargado u ocupante del predio o establecimiento, una copia de su identificación laboral y un ejemplar con firma autógrafa de la orden de visita.
+
+De toda visita de verificación se levantará un Acta Circunstanciada, en los términos establecidos en el Titulo Cuarto Capítulo Primero de la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 84.
 
-Se practicarán visitas de inspección:
+Se practicarán visitas de verificación:
 
 I.- Para conocer si las instalaciones interiores de un predio, giro o establecimiento, que reciba el servicio público de agua potable, llenan las condiciones que fija esta Ley;
 
@@ -943,49 +963,55 @@ III.- Para verificar los diámetros de las tomas; las disposiciones de esta Ley 
 
 IV.- Para otros fines relacionados con el servicio, a juicio del Organismo Operador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 85.
 
-Cuando no pueda practicarse la visita por ausencia del usuario, se le dejará un citatorio para que espere el día y hora que se fije, dentro de los diez días siguientes, apercibiéndolo de que de no esperar o de no permitirse la visita, se le impondrá la sanción correspondiente.
+Cuando no pueda practicarse la visita por ausencia del usuario, propietario, responsable, encargado u ocupante del predio o establecimiento, representante legal o persona autorizada para ello, se le dejará un citatorio para que espere a quien deba practicar la visita a una hora fija del día hábil siguiente.
 
 Los citatorios se harán conforme lo previsto en lo conducente por el artículo 15 de esta Ley.
 
 ###### ARTICULO 86.
 
-En caso de resistencia a la práctica de una visita, ya sea de una manera franca o por medio de evasivas o aplazamientos injustificados, se levantará acta de infracción.
+(DEROGADO, P.O. 5 DE ABRIL DE 2016)
 
 ###### ARTICULO 87.
 
-El Organismo Operador, sin perjuicio de imponer la sanción procedente, notificará nuevamente al infractor previniéndolo para que, el día y hora que al efecto se señale, permita realizar la inspección, con el apercibimiento de que será consignado el caso, al Juez competente.
-
-Si a pesar de la notificación anterior se impide la visita, se levantará nueva acta de infracción y se solicitará a la autoridad competente, ordene se practique la inspección.
+(DEROGADO, P.O. 5 DE ABRIL DE 2016)
 
 ###### ARTICULO 88.
 
-Cuando se encuentre cerrado un predio, giro o establecimiento, en el que deba practicarse una visita de inspección, se prevendrá a los ocupantes, encargados, propietarios o poseedores, por medio de un aviso que se fijará en la puerta de entrada, que el día y a la hora que señala, dentro de los quince días siguientes, deberá tenerse abierto con los apercibimientos de la ley.
+(DEROGADO, P.O. 5 DE ABRIL DE 2016)
 
 ###### ARTICULO 89.
 
-Si por segunda vez se encuentra cerrado el predio, giro o establecimiento, sin que se halle ninguna persona dentro de él, el Juez competente de la localidad, a solicitud del Organismo Operador, podrá ordenar se practique la inspección, conforme a las disposiciones legales vigentes.
+(DEROGADO, P.O. 5 DE ABRIL DE 2016)
 
-En estos casos, terminada la visita los inspectores se asegurarán que las puertas se encuentren cerradas convenientemente.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 90.
 
-Las visitas se limitarán exclusivamente, al objeto indicado en la orden respectiva y por ningún motivo podrán extenderse a objetos distintos, aunque se racionen con el servicio de agua, salvo el caso de que se descubra accidentalmente una infracción a las disposiciones de esta Ley, en cuyo caso el inspector la hará constar en el acta respectiva.
+Las visitas se limitarán exclusivamente al objeto indicado en la orden respectiva y por ningún motivo podrán extenderse a objetos distintos, aunque se relacionen con el servicio de agua, salvo el caso de que se descubra accidentalmente una infracción a las disposiciones de esta ley, en cuyo caso el verificador la hará constar en el acta respectiva.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 91.
 
-En caso de infracción a las disposiciones de esta Ley, se levantará acta en la que se hará una relación pormenorizado de los hechos que la constituyen, expresando los nombres y domicilios de los infractores y todas las demás circunstancias que revelen su gravedad.
+En caso de infracción a las disposiciones de esta Ley, se levantará un acta que contendrá en lo conducente, lo establecido en el artículo 83 de esta Ley respecto a la visita de verificación y se hará una relación pormenorizada de los hechos que la constituyen, expresando los nombres y domicilios de los infractores y todas las demás circunstancias que motiven el hecho.
 
-El infractor o con quien se entienda la visita firmará o imprimirá su huella digital al calce del acta; si no quisiera hacerlo se hará constar esta circunstancia.
+El infractor o con quien se entienda la visita firmará la diligencia, si se negare a firmar el visitado o su representante legal, ello no afectará la validez del acta debiendo el verificador aceptar la razón relativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 92.
 
-Los inspectores que descubran los daños o desarreglos de un aparato medidor, los describirán puntualizando las causas que los produjeron y todas las circunstancias que permitan fijar la importancia de los daños y la responsabilidad de las personas que los hayan causado.
+Los verificadores que descubran los daños o desarreglos de un aparato medidor, los describirán puntualizando las causas que los produjeron y todas las circunstancias que permitan fijar la importancia de los daños y la responsabilidad de las personas que los hayan causado.
 
 En los casos en que sea necesario para la mejor explicación del resultado de la visita, al acta respectiva se agregará una descripción gráfica del lugar en que se lleve a cabo.
 
-#### SECCION SEGUNDA. DE LA VERIFICACION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2016)</small>
+
+#### SECCION SEGUNDA. DEL MEDIDOR
 
 ###### ARTICULO 93.
 
@@ -1159,35 +1185,29 @@ Los inspectores y verificadores que en el ejercicio de sus funciones no observa 
 
 ### CAPITULO SEPTIMO. DE LOS MEDIOS DE IMPUGNACIÓN
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 114.
 
-Contra las resoluciones y actos de las autoridades encargadas de la aplicación e interpretación de esta Ley y sus disposiciones reglamentarias, procederá el recurso de inconformidad, el cual únicamente podrá hacerse valer por los directamente afectados por tales actos o resoluciones.
+Contra las resoluciones y actos del prestador de servicios encargado de la aplicación e interpretación de esta Ley y de la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable y Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo y sus disposiciones reglamentarias, procederá el recurso de revisión previsto en el Título Sexto Capítulo Único de la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
 
 ###### ARTICULO 115.
 
-Las inconformidades por revisión se interpondrán ante el Director General de la Comisión del Sistema de Agua Potable y Alcantarillado y serán resueltas por dicho funcionario.
+(DEROGADO, P.O. 5 DE ABRIL DE 2016)
 
 ###### ARTICULO 116.
 
-La tramitación de los recursos de inconformidad se sujetará a las normas siguientes:
-
-I.- Se interpondrán por escrito en el que se precisará el nombre y domicilio de quien promueva los agravios que cause la resolución o acto impugnado y la mención de las autoridades que los hubieren dictado u ordenado ejecutar. Al escrito se acompañarán los documentos justificativos de la personalidad del promovente si ésta no estuviere ya reconocida por las autoridades y las pruebas que estime pertinentes;
-
-II.- El escrito deberá presentarse dentro de los quince días hábiles siguientes a la fecha en que se haya notificado la resolución o se haya conocido el acto impugnado, directamente o por correo certificado, con copia a las autoridades, funcionarios o empleados cuya resolución y actos se impugnen;
-
-III.- Al recibir las copias a que se refiere la fracción anterior, los destinatarios de ellas rendirán a la autoridad que conozca del recurso, en un término de cinco días hábiles, los informes que procedan exhibiendo la justificación y pruebas que se hubieran ofrecido en tiempo y requieran de diligencias para ello. Dentro del mismo término se desahogarán los estudios, inspecciones y demás diligencias, inclusive pruebas, que en relación con los actos impugnados considere necesarios la autoridad;
-
-IV.- Interpuesto el recurso, podrá suspenderse la ejecución de la resolución impugnada o la continuación de la ejecución de los actos que se reclamen, si se garantiza el interés pecuniario en que consista el objeto de la inconformidad, y sus accesorios legales, en alguna de las formas establecidas en el artículo 18-A de la Ley de Hacienda del Estado.
+(DEROGADO, P.O. 5 DE ABRIL DE 2016)
 
 ###### ARTICULO 117.
 
-Los recursos presentados extemporáneamente o los que fueren notoriamente improcedentes se desecharán de plano.
+(DEROGADO, P.O. 5 DE ABRIL DE 2016)
 
 ###### ARTICULO 118.
 
-Contra los acuerdos y resoluciones dictados en el recurso de inconformidad, no procederá recurso o medio de impugnación alguno.
+(DEROGADO, P.O. 5 DE ABRIL DE 2016)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO OCTAVO
 
@@ -1353,7 +1373,7 @@ EL SECRETARIO DE OBRAS PUBLICAS Y DESARROLLO URBANO
 
 ING. JUAN JOSE CALZADA MARRUFO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE DICIEMBRE DE 1992.
 
@@ -1384,3 +1404,11 @@ P.O. 30 DE SEPTIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 394 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan sin efecto todas las disposiciones que contravengan el contenido del presente Decreto.
