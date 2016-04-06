@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2016-01-08"
+last_updated: "2016-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -147,13 +147,17 @@ c) Recibir un trato digno y apropiado en cualquier procedimiento judicial o admi
 
 d) Recibir el apoyo del gobierno estatal y de los municipales de acuerdo a sus respectivas competencias en lo relativo al ejercicio y respecto de sus derechos, a través de las instituciones creadas para tal efecto;
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
-e) Contar con asesoría jurídica y con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia; y
+e) Contar con asesoría jurídica y con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia;
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2016)</small>
+
+f) Crear programas específicos en materia notarial, a fin de garantizar la seguridad patrimonial de las personas adultas mayores de todo el Estado de Nuevo León;
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-f) Obtener oportunamente de parte de las instituciones de seguridad social o quien corresponda, la información necesaria para gestionar la jubilación o retiro, así como de los programas que operen a favor de las personas adultas mayores en los ámbitos estatal y municipal.
+g) Obtener oportunamente de parte de las instituciones de seguridad social o quien corresponda, la información necesaria para gestionar la jubilación o retiro, así como de los programas que operen a favor de las personas adultas mayores en los ámbitos estatal y municipal.
 
 III. La salud y la alimentación, que comprenden:
 
@@ -247,11 +251,11 @@ XI. Crear los mecanismos o instancias correspondientes para el cumplimiento de e
 
 XII. Las demás que le confieran otros ordenamientos jurídicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -331,7 +335,7 @@ La Corporación para el Desarrollo Turístico de Nuevo León, en coordinación c
 
 Para garantizar el derecho a la recreación y turismo, la Corporación para el Desarrollo Turístico de Nuevo León, difundirá permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a favor de las Personas Adultas Mayores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VI. DE LA SECRETARÍA DEL TRABAJO
 
@@ -619,11 +623,11 @@ El incumplimiento a lo dispuesto en esta Ley por parte de las autoridades estata
 
 El incumplimiento a lo dispuesto a esta Ley por personas u organizaciones que no sean autoridades serán sancionadas conforme a lo establecido por la ley aplicable.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
 
 ## TÍTULO NOVENO. DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
 
 ###### Artículo 49.
 
@@ -667,7 +671,7 @@ XII. Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios 
 
 XIII. Las demás que le determine el Titular del Poder Ejecutivo del Estado, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., el Reglamento Interior y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2005)</small>
 
 ###### Artículo 52.
 
@@ -763,7 +767,7 @@ EL C. OFICIAL MAYOR DE GOBIERNO DEL ESTADO
 
 ALFREDO GERARDO GARZA DE LA GARZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE JULIO DE 2005.
 
@@ -775,13 +779,13 @@ Artículo Tercero.- El Sistema para el Desarrollo Integral de la Familia del Est
 
 P.O. 24 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 135 POR EL QUE SE REFORMAN LOS ARTICULOS 11 PARRAFO PRIMERO; 19; 20; 23 FRACCIONES II Y III INCISO D), 37; 40 Y LA DENOMINACION DE LOS CAPITULOS II Y VI, DEL TITULO IV DENOMINADO DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 135 POR EL QUE SE REFORMAN LOS ARTÍCULOS 11 PÁRRAFO PRIMERO; 19; 20; 23 FRACCIONES II Y III INCISO D), 37; 40 Y LA DENOMINACIÓN DE LOS CAPÍTULOS II Y VI, DEL TÍTULO IV DENOMINADO DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 144 POR EL QUE SE REFORMAN LOS ARTICULOS 5° FRACCION II INCISOS D) Y E); 12 FRACCIONES IV Y V Y 43; SE ADICIONA UN INCISO F) A LA FRACCIÓN II DEL ARTICULO 5°, Y UNA FRACCIÓN VI AL ARTICULO 12 PASANDO LA VI A SER VII, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN.
+DECRETO NÚMERO 144 POR EL QUE SE REFORMAN LOS ARTÍCULOS 5° FRACCIÓN II INCISOS D) Y E); 12 FRACCIONES IV Y V Y 43; SE ADICIONA UN INCISO F) A LA FRACCIÓN II DEL ARTÍCULO 5°, Y UNA FRACCIÓN VI AL ARTÍCULO 12 PASANDO LA VI A SER VII, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -790,3 +794,9 @@ P.O. 8 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 030. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 087. POR EL QUE SE REFORMA EL INCISO E) DE LA FRACCIÓN II Y SE ADICIONA UN INCISO F) A LA FRACCIÓN II, DEL ARTÍCULO 5, RECORRIÉNDOSE EL INCISO SUBSECUENTE, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+Único: La presente iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
