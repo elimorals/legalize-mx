@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-mejora-regulatoria-en-el-estado-de-nuevo-leon-71005
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-01"
-last_updated: "2009-10-01"
+last_updated: "2016-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE NUEVO LEON
 
-LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE NUEVO LEON
+LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el jueves 1 de octubre de 2009.
 
@@ -201,11 +201,17 @@ I. Un Presidente Honorario, que será el Titular del Ejecutivo del Estado, quien
 
 II. Un Vicepresidente Honorario, que será el Secretario de Desarrollo Económico;
 
-III. Un Presidente Consejero Ciudadano, que será el ciudadano designado por el propio Consejo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IV. Un Secretario Técnico, que será el Jefe de la Unidad de Mejora Regulatoria, con voz pero sin voto;
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2016)</small>
 
-V. Seis representantes, nombrados por el Titular del Poder Ejecutivo del Estado, de los siguientes sectores de la sociedad:
+III. Un Consejero que será el Titular de la Coordinación Ejecutiva de la Administración Pública del Estado.
+
+IV. Un Presidente Consejero Ciudadano, que será el ciudadano designado por el propio Consejo;
+
+V. Un Secretario Técnico, que será el Jefe de la Unidad de Mejora Regulatoria, con voz pero sin voto;
+
+VI. Seis representantes, nombrados por el Titular del Poder Ejecutivo del Estado, de los siguientes sectores de la sociedad:
 
 a) Dos representantes de Organismos o Cámaras Empresariales en la entidad;
 
@@ -213,7 +219,7 @@ b) Dos representantes de Organismos No Gubernamentales o de la Sociedad Civil co
 
 c) Dos representantes de Instituciones de Educación Superior en el Estado.
 
-VI. Los Presidentes Municipales de los Municipios que suscriban el Convenio a que se refiere la presente Ley.
+VII. Los Presidentes Municipales de los Municipios que suscriban el Convenio a que se refiere la presente Ley.
 
 Por cada miembro propietario, el titular podrá nombrar a un suplente, debiendo enviar el documento en el que se informe de su designación al Secretario Técnico.
 
@@ -277,7 +283,11 @@ VI. Las demás que le confieran esta Ley, el Reglamento y otros ordenamientos le
 
 Se crea la Comisión Interinstitucional de Mejora Regulatoria como el órgano oficial de apoyo y supervisión de la operación de la Unidad de Mejora Regulatoria Estatal. Dicha Comisión estará integrada por los siguientes miembros con derecho de voz y voto:
 
-I. Un representante de la Oficina Ejecutiva de la Gubernatura, quien la presidirá;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
+
+I. Un representante de la Coordinación Ejecutiva de la Administración Pública del Estado, quien la presidirá;
 
 II. Un representante de la Unidad de Mejora Regulatoria Estatal que fungirá como Secretario Ejecutivo, con derecho de voz, pero sin voto;
 
@@ -317,9 +327,13 @@ Los Municipios que cuenten con Unidad de Mejora Regulatoria Municipal podrán es
 
 ### Capítulo Tercero. De la Unidad de Mejora Regulatoria Estatal
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
+
 ###### Artículo 23.
 
-Se crea la Unidad de Mejora Regulatoria Estatal como un órgano desconcentrado de la Oficina Ejecutiva de la Gubernatura, dotada de autonomía técnica y de gestión, con el objeto de implementar la política gubernamental en la materia.
+Se crea la Unidad de Mejora Regulatoria Estatal como un órgano desconcentrado de la Coordinación Ejecutiva de la Administración Pública del Estado, dotada de autonomía técnica y de gestión, con el objeto de implementar la política gubernamental en la materia.
 
 ###### Artículo 24.
 
@@ -351,9 +365,13 @@ XII. Someter a la aprobación del Titular del Poder Ejecutivo del Estado el proy
 
 XIII. Las demás que le confieran esta Ley, el Reglamento y otros ordenamientos legales.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
+
 ###### Artículo 25.
 
-El Titular del Poder Ejecutivo nombrará y removerá libremente al Jefe de la Unidad de Mejora Regulatoria Estatal, quien estará a cargo de dicho órgano desconcentrado.
+El Titular de la Coordinación Ejecutiva de la Administración Pública del Estado nombrará y removerá libremente al Jefe de la Unidad de Mejora Regulatoria Estatal, quien estará a cargo de dicho órgano desconcentrado.
 
 ###### Artículo 26.
 
@@ -650,3 +668,35 @@ LOMBARDO VICTORIANO GUAJARDO GUAJARDO
 EL C. OFICIAL MAYOR DE GOBIERNO
 
 ROBERTO CANTÚ FLORES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 099. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el Periódico Oficial del Estado, salvo el supuesto establecido en el artículo siguiente.
+
+Segundo.- Se derogan todas aquéllas disposiciones legales relativas a la Administración Pública Central y Paraestatal que se opongan o dupliquen a las atribuciones establecidas en el presente decreto, una vez que el Congreso del Estado apruebe las reformas y abrogaciones legales aplicables y el Ejecutivo Estatal o las Entidades a quienes legalmente les correspondan, realicen las modificaciones normativas correspondientes, y las publiquen en el Periódico Oficial del Estado.
+
+Tercero.- Las atribuciones, asuntos o funciones conferidas en otros ordenamientos jurídicos o instrumentos en que se refieran a las dependencias, unidades administrativas o entidades que desaparecen o modifican su denominación, se entenderán concedidas y referidas vía remisión expresa, a las dependencias o unidades administrativas que enseguida se establecen:
+
+a) Subsecretaría de Administración se remite a la Secretaría de Administración, excepto área patrimonial que corresponde a Secretaría de Finanzas y Tesorería General del Estado.
+
+b).- Secretaría del Trabajo se remite a la Secretaría de Economía y Trabajo
+
+c).- Oficina Ejecutiva del Gobernador se remite a la Coordinación Ejecutiva de la Administración Pública del Estado.
+
+d).- Consejería Jurídica del Gobernador se remite a la Secretaría General de Gobierno.
+
+e).- Secretaría de Obras Públicas se remite a la Secretaría de Infraestructura.
+
+Cuarto.- Para el cumplimiento de la reforma y del Acuerdo de Reestructura Organizacional de la Administración Pública que lo motiva, el Ejecutivo queda facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el presente ejercicio fiscal, sin exceder los montos autorizados.
+
+Quinto.- Los asuntos, juicios o controversias de cualesquier naturaleza que se encuentren en trámite actualmente y en los que sea parte el Estado, cualesquier dependencia o entidad de la Administración Pública o el Titular del Poder Ejecutivo, la representación legal de los mismos, se transfiere a las dependencias que la ostentarán de conformidad con lo establecido en el presente Decreto.
+
+Sexto.- Las licitaciones, adquisiciones o procedimientos no jurisdiccionales que se encuentren en trámite o pendientes de concluir, quedarán bajo la responsabilidad de las dependencias o entidades de la Administración Pública del Estado que las inició y hasta su conclusión.
+
+Séptimo.- El Ejecutivo del Estado o la entidad a quien legalmente le corresponda, deberá emitir las modificaciones a los Reglamentos de las dependencias y entidades materia de la reforma, para los efectos establecidos en el artículo segundo transitorio.
+
+Octavo.- Se abroga la Ley, que crea el Comité para el Desarrollo del Estado de Nuevo León publicada en el Periódico Oficial del Estado el 1° de mayo de 1981.
