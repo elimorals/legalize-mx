@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2016-03-16"
+last_updated: "2016-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE CULTURA CIVICA DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE ABRIL DE 2016.]</small>
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -395,9 +395,9 @@ VII. Invitar a la prostitución o ejercerla, así como solicitar dicho servicio.
 
 VIII. Ocupar los accesos de oficinas públicas o sus inmediaciones ofreciendo la realización de trámites que en la misma se proporcionen, sin tener autorización para ello.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADO, P.O. 16 DE MARZO DE 2016) (F. DE E., P.O. 6 DE ABRIL DE 2016)
 
-No procederá la infracción a que se refiere la fracción III, en caso de que se trate de espectáculos donde se empleen animales domésticos y que la autoridad correspondiente haya otorgado permiso de acuerdo con lo dispuesto por la Ley Estatal de Fauna.
+No procederá la infracción a que se refiere la fracción II, en caso de que se trate de espectáculos donde se empleen animales domésticos y que la autoridad correspondiente haya otorgado permiso de acuerdo con lo dispuesto por la Ley Estatal de Fauna.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
 
