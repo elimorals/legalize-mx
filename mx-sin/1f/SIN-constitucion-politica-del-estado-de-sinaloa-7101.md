@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2016-03-16"
+last_updated: "2016-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -121,9 +121,11 @@ II. Toda persona tiene derecho al acceso, disposición y saneamiento de agua par
 
 La ley determinará las actividades a realizar para el logro progresivo de este derecho.
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
-III. Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar.
+III. Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque, en términos de lo dispuesto por la Ley.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 La Ley determinará las medidas que deberán llevar a cabo las autoridades para protegerlo, preservarlo, restaurarlo y mejorarlo.
 
@@ -1439,15 +1441,27 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será ta
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los poderes Ejecutivo y Legislativo Estatal, un informe de actividades, en los términos que la ley disponga.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 6 DE ABRIL DE 2016)</small>
+
+#### SECCION II TER. DEL CONSEJO ESTATAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2016)</small>
+
+###### Art. 77 Ter.
+
+El Estado contará con un Consejo Estatal de Evaluación de la Política de Desarrollo Social, que será un órgano autónomo, con personalidad jurídica y patrimonio propios, y tendrá a su cargo la medición de la pobreza y la evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social del Estado, así como emitir recomendaciones en los términos que disponga la ley, la cual establecerá las formas de coordinación del órgano con las autoridades federales, locales y municipales para el ejercicio de sus funciones.
+
+El Consejo Estatal de Evaluación de la Política de Desarrollo Social, estará integrado por un Presidente y dos Consejeros, que serán nombrados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, mediante el procedimiento de consulta pública que deberá ser transparente, en los términos y condiciones que determine la Ley. Los nombramientos podrán ser objetados por el Gobernador del Estado en un plazo de diez días hábiles y, si no lo hiciere, ocuparán los cargos las personas nombradas por el Congreso. El Presidente y los Consejeros deberán ser ciudadanos sinaloenses de reconocido prestigio en los sectores público, privado y social, así como en los ámbitos académico y profesional y tener experiencia mínima de cinco años en materia de desarrollo social. En ningún caso la totalidad de los integrantes del Consejo podrá corresponder a un mismo género.
+
+El Presidente y los Consejeros del Consejo Estatal de Evaluación de la Política de Desarrollo Social durarán en su encargo cinco años, podrán ser nuevamente nombrados para un período igual, y solo podrán ser removidos de sus funciones en los términos del Título VI de esta Constitución.
+
+El Presidente del Consejo Estatal de Evaluación de la Política de Desarrollo Social presentará anualmente al Congreso del Estado un informe de actividades, y comparecerá ante el mismo cuando sea requerido.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
 
 #### SECCION III. DE LA DEFENSORIA PUBLICA
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
-
-#### SECCION IV. DE LA HACIENDA PUBLICA
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
 ###### Art. 78.
 
@@ -1459,11 +1473,9 @@ Habrá en el Estado un Instituto de la Defensoría Pública, mismo que en el des
 
 El Instituto de la Defensoría Pública dependerá de (sic) Gobierno del Estado y estará constituido por un Director y la estructura orgánica que establezca la Ley y el reglamento respectivo, mismos que fijaran los requisitos, forma y términos de su integración, así como sus atribuciones.
 
-#### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
+#### SECCION IV. DE LA HACIENDA PUBLICA
 
-Art. 89 B. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
-
-Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
 ###### Art. 80.
 
@@ -1517,13 +1529,15 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE ABRIL DE 1963)</small>
 
+#### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
+
+Art. 89 B. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
+
+Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
+
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2014)</small>
-
-#### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 90.
 
@@ -1583,9 +1597,9 @@ La imposición de las penas, su modificación y duración son propias y exclusiv
 
 Toda persona Imputada y la víctima u ofendido tendrán los derechos que consagra la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la Ley General de Víctimas, la Ley de Atención y Protección a Víctimas del Estado y demás disposiciones aplicables.
 
-#### SECCION II. DE LAS SALAS DE CIRCUITO
+#### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 94.
 
@@ -1755,9 +1769,9 @@ El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con 
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-#### SECCION III. DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES
+#### SECCION II. DE LAS SALAS DE CIRCUITO
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 105 Bis.
 
@@ -1780,6 +1794,10 @@ Los Magistrados de Circuito sólo podrán ser privados de sus cargos conforme a 
 Las Salas del Supremo Tribunal de Justicia de oficio, o a petición fundada de las Salas de Circuito o del Procurador General de Justicia podrán conocer de los asuntos de competencia de las Salas de Circuito cuando por sus características especiales, su trascendencia o importancia así lo ameriten.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+#### SECCION III. DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 106.
 
@@ -3804,3 +3822,21 @@ Deberá iniciar en el ciclo escolar inmediato siguiente a la entrada en vigor de
 TERCERO. Para dar cumplimiento al principio de obligatoriedad de la educación en los niveles a que se refiere el presente Decreto, los poderes Ejecutivo y Legislativo y los Ayuntamientos procurarán que en los presupuestos anuales de egresos del Estado y de los municipios que se elaboren a partir del ejercicio siguiente a la entrada en vigor del Decreto, se incluyan las partidas y recursos necesarios y se establezcan los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos que se destinarán a infraestructura educativa en los cuatro niveles obligatorios.
 
 CUARTO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 437 QUE ADICIONA LA SECCIÓN II TER DEL CONSEJO ESTATAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Congreso del Estado deberá expedir la ley que regirá al órgano autónomo denominado Consejo Estatal para la Evaluación de la Política de Desarrollo Social.
+
+TERCERO. El Consejo Estatal para la Evaluación de la Política de Desarrollo Social deberá integrarse dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la ley que regirá el órgano autónomo denominado Consejo Estatal de Evaluación de la Política de Desarrollo Social.
+
+Para efecto de lograr el escalonamiento en el nombramiento los Consejeros, para la primera integración del Consejo y por única ocasión, el Congreso del Estado nombrará un consejero por un periodo de tres años, otro Consejero por un periodo de cuatro años y el Presidente por un periodo de cinco años.
+
+P.O. 6 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 438 QUE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 4" BIS B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
