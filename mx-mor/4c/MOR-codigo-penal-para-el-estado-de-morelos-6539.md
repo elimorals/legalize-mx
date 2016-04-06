@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-03-16"
+last_updated: "2016-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ABRIL DE 2016 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO TRESCIENTOS TREINTA Y DOS PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -277,7 +277,7 @@ Es absolutamente necesario evitar el aprovechamiento del delito como medio para 
 
 Con el propósito de racionalizar el empleo de la vía penal, moderando su uso y consecuencias, se previenen casos de exención de sanciones o de reducción considerable de éstas, cuando tal cosa resulta aconsejable en función de los intereses prevalecientes del ofendido o de la sociedad. En estas hipótesis se toma en cuenta, como factor principal, la restitución del objeto mal habido y la reparación de daños y perjuicios (artículo 199).
 
-El Título Decimoprimero se refiere a los delitos contra la familia o el orden familiar. Aquí aparecen tipos que tutelan diversos bienes jurídicos, todos ellos vinculados con la subsistencia y la salud de la familia. Es el caso de la figura de incumplimiento de la obligaciones de asistencia familiar, que no se sanciona con prisión, sino con semilibertad (artículo 201), para evitar que la sanción agrave las circunstancias que dieron lugar al incumplimiento, lo cual redundaría, de nueva cuenta, en perjuicio de la víctima. El mismo propósito tutelar del ofendido rige el sistema de querella y extinción de la pretensión punitiva y de la potestad ejecutiva en este caso (artículo 202).
+El Título Decimoprimero se refiere a los delitos contra la familia o el orden familiar. Aquí aparecen tipos que tutelan diversos bienes jurídicos, todos ellos vinculados con la subsistencia y la salud de la familia. Es el caso de la figura de incumplimiento de las obligaciones de asistencia familiar, que no se sanciona con prisión, sino con semilibertad (artículo 201), para evitar que la sanción agrave las circunstancias que dieron lugar al incumplimiento, lo cual redundaría, de nueva cuenta, en perjuicio de la víctima. El mismo propósito tutelar del ofendido rige el sistema de querella y extinción de la pretensión punitiva y de la potestad ejecutiva en este caso (artículo 202).
 
 Además de los supuestos, bien conocidos, de sustracción o retención indebida de menores, tráfico de éstos que no se denomina "robo de infante", pues no se trata de la sustracción de un bien mueble, delitos contra la filiación y el estado civil y bigamia, el Código recoge el delito consistente en contraer matrimonio a sabiendas de que existe un impedimento que determinará la nulidad absoluta, no sólo la nulidad relativa o anulabilidad, de dicha unión (artículo 207). En el mismo conjunto de delitos contra la familia figuran el incesto y la controvertida figura del adulterio, que se incorpora en los términos previstos por la legislación vigente. Ambas hipótesis son, en efecto, conductas que pugnan con el orden familiar socialmente aceptado; no se trata, propiamente, de delitos contra la libertad o el normal desarrollo sexual, aunque ambos tengan, obviamente, un contenido sexual.
 
@@ -329,7 +329,7 @@ Es obligación del Estado proveer a la justicia al través del proceso y la ejec
 
 Si bien es cierto que el sentenciado está sujeto al poder ejecutivo del Estado, bajo el título jurídico de la sentencia, y que por eso el poder público dispone de una facultad y el condenado se halla sometido a un deber preciso, también lo es que tradicionalmente se ha considerado improcedente sancionar al sentenciado que se sustrae a la acción de la justicia, movido por el impulso, tan humano y natural, de recuperar su libertad. Por ende, sólo se sancionan aquellos delitos de incumplimiento cuando el sujeto obre en concierto con otros, que también se sustraen a la justicia, o haga violencia sobre las personas o las cosas para eludir la ejecución de la condena (artículos 305, 306 y 309).
 
-En el propio Título Vigésimo primero figura un Capítulo destinado a los delitos cometidos por abogados, defensores y litigantes (artículo 310), tanto particulares como servidores públicos. Se trata de ilícitos de profesionistas, que pudieron agruparse con las restantes conductas delictuosas en que pueden incurrir los profesionistas, artistas y técnicos. Sin embargo, se estimó conveniente reunir aquí estos ilícitos, para destacar la importancia social que reviste la administración de justicia, de la que depende la paz pública y la seguridad privada.
+En el propio Título Vigésimoprimero figura un Capítulo destinado a los delitos cometidos por abogados, defensores y litigantes (artículo 310), tanto particulares como servidores públicos. Se trata de ilícitos de profesionistas, que pudieron agruparse con las restantes conductas delictuosas en que pueden incurrir los profesionistas, artistas y técnicos. Sin embargo, se estimó conveniente reunir aquí estos ilícitos, para destacar la importancia social que reviste la administración de justicia, de la que depende la paz pública y la seguridad privada.
 
 El Libro Segundo aborda el régimen penal del encubrimiento por favorecimiento (artículos 311 y 312). Ya se vio que el encubrimiento, como género delictuoso, abarca dos especies. Por una parte, el encubrimiento por receptación, que tiene un contenido esencialmente patrimonial. Quien lo comete pretende obtener un lucro ilícito a partir del delito encubierto, que también implica apoderamiento o aprovechamiento ilícito de carácter patrimonial. En cambio, la otra expresión del encubrimiento, que se denomina por favorecimiento, no apareja un propósito de codicia, sino sólo el designio de favorecer o ayudar al autor del delito encubierto para que se sustraiga a la acción de la justicia. Aquí operan, como ha sido tradicional, las excusas absolutorias sustentadas en la relación estrecha entre el encubridor y el autor o partícipe del delito encubierto. Sin embargo, la excusa no favorece a quien obre por motivos reprobables o emplee, con el objetivo de realizar el encubrimiento, medios de carácter delictivo.
 
