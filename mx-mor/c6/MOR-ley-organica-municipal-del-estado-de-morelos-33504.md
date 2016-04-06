@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2016-03-09"
+last_updated: "2016-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -553,7 +553,9 @@ I.- Designar a los titulares de las dependencias de la administración pública 
 
 II.- Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
 
-El número y denominación de las comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
+
+El número y denominación de las comisiones, será determinado por los integrantes del ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
 
 a) Gobernación y, Reglamentos;
 
@@ -579,7 +581,9 @@ k) Desarrollo Agropecuario;
 
 l) Coordinación de Organismos Descentralizados;
 
-m) Protección Ambiental;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
+
+m) Protección ambiental y Desarrollo sustentable
 
 n) Derechos Humanos;
 
@@ -595,7 +599,13 @@ s) Asuntos Migratorios;
 
 t) Igualdad y Equidad de Género;
 
-u) Asuntos de la Juventud;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
+
+u) Asuntos de la Juventud y,
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2016)</small>
+
+v) Transparencia y Protección de Datos Personales, Rendición de Cuentas y Combate a la corrupción.
 
 Las comisiones que se designen a los miembros del Ayuntamiento serán irrenunciables, salvo causa grave justificada así calificada por la mayoría absoluta de los integrantes del Cabildo.
 
@@ -1553,11 +1563,11 @@ Para ambos casos, la administración municipal entrante contará con un término
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2016)</small>
 
 ###### Artículo 75.
 
-Cada Municipio tendrá como estructura administrativa la que determinen sus Reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento, una Tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos éstos, asimismo, garantizará el control y resguardo del archivo documental laboral y del padrón de servidores públicos y de pensionistas; materiales y técnicos del Municipio, una dependencia encargada de la prestación de Servicios Públicos Municipales, una dependencia encargada de la ejecución y administración de obras públicas, una dependencia de atención de asuntos migratorios, otra de la seguridad pública y tránsito municipal, un cronista municipal, una Dirección de la Instancia Municipal de la Mujer cuando menos una Oficialía del Registro Civil y una Contraloría Municipal.
+Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento; una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos estos, asimismo, garantizará el control, y resguardo del archivo documental laboral y del padrón de servidores públicos y pensionistas materiales y técnicos del municipio, una dependencia encargada de la prestación de Servicios Públicos Municipales, una dependencia encargada de la protección ambiental y desarrollo sustentable, una dependencia encargada de la ejecución de la administración de obras públicas, de atención de asuntos migratorios y religiosos, otra de seguridad pública, tránsito municipal, un cronista municipal, un área de información pública y protección de datos personales, una Dirección de la Instancia de la mujer y cuando menos una Oficialía del Registro Civil y una Contraloría Municipal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
@@ -3870,6 +3880,22 @@ Expídase el decreto respectivo y remítase al titular del Poder Ejecutivo del E
 El decreto que al efecto se expida, entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 ###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 6 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO SESENTA POR EL QUE SE REFORMAN LOS INCISOS M Y S, Y SE ADICIONA EL INCISO V A LA FRACCIÓN II, DEL ARTÍCULO 24 Y SE REFORMA EL ARTÍCULO 75 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+###### ARTICULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al titular del Poder Ejecutivo del Estado de Morelos, para su publicación en el Periódico Oficial “Tierra y Libertad” Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El decreto que al efecto se expida, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
