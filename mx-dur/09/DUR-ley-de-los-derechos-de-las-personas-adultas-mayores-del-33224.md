@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-las-personas-adultas-mayores-del-33224"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-15"
-last_updated: "2007-05-06"
+last_updated: "2016-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2007.
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 7 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 15 de junio de 2003.
 
@@ -107,7 +109,7 @@ XI. Calidad del servicio: Conjunto de características que confieren al servicio
 
 XII. Consejo: Consejo Estatal para la Atención de las Personas Adultas Mayores;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2007)</small>
 
 XIII. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliarios y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos de personas adultas mayores, poniendo especial atención a aquéllas que tengan alguna discapacidad.
 
@@ -157,7 +159,7 @@ V. Atención preferente: Es aquella que obliga a las instituciones federales, es
 
 ### CAPITULO II. DE LOS DERECHOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 5.
 
@@ -635,10 +637,26 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE MAYO DE 2007.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 548.- QUE CONTIENE LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley de los Derechos de las Personas Adultas Mayores del Estado de Durango.
+
+TERCERO.- El titular del Ejecutivo del Estado deberá expedir el reglamento de la presente Ley, treinta dias después de la entrada en vigor del presente decreto.
+
+CUARTO.- A partir de la publicación de la presente Ley, el titular del Poder Ejecutivo del Estado deberá nombrar dentro de los treinta días siguientes al Director General del Instituto.
+
+QUINTO.- Se autoriza a la Secretaría de Finanzas y de Administración a realizar todas las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+SEXTO.- El Gobernador del Estado determinará en el Reglamento de esta Ley y atendiendo al objeto de la misma, la integración, funcionamiento y atribuciones del Consejo Estatal para la Atención de las Personas Adultas Mayores.
