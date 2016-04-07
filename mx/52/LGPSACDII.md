@@ -4,7 +4,7 @@ identifier: "LGPSACDII"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-10-24"
-last_updated: "2014-12-04"
+last_updated: "2016-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83335&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSACDII"
 
 LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de octubre de 2011.
 
@@ -510,9 +510,11 @@ La tipología anterior, se ajustará a las normas de cada institución y al Regl
 
 Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por el Sistema Nacional de Protección Civil o por las Direcciones o Secretarías Estatales de Protección Civil o municipales, según sea el caso, y será sujeto a evaluación de manera periódica, por las instancias correspondientes.
 
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2016)</small>
+
 ###### Artículo 42.
 
-Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación, las entidades federativas y el Distrito Federal. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, de gas, equipos portátiles y fijos contra incendios, de intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación, las entidades federativas y el Distrito Federal, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas para tal efecto. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
 
 ###### Artículo 43.
 
@@ -839,3 +841,11 @@ DÉCIMO PRIMERO. Los centros de asistencia que se encuentren operando con antela
 DÉCIMO SEGUNDO. La Cámara de Diputados del Congreso de la Unión, a propuesta del Ejecutivo Federal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
 
 DÉCIMO TERCERO. Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
+
+D.O.F. 7 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 42 DE LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan a este Decreto.
