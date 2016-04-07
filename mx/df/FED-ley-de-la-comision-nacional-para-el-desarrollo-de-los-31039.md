@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-para-el-desarrollo-de-los-31039"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-21"
-last_updated: "2012-04-09"
+last_updated: "2016-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 2003.
 
@@ -51,9 +51,7 @@ La Comisión Nacional para el Desarrollo de los Pueblos Indígenas, es un organi
 
 La Comisión tiene como objeto orientar, coordinar, promover, apoyar, fomentar, dar seguimiento y evaluar los programas, proyectos, estrategias y acciones públicas para el desarrollo integral y sustentable de los pueblos y comunidades indígenas de conformidad con el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, para lo que tendrá las siguientes funciones:
 
-I. Ser instancia de consulta para la formulación, ejecución y evaluación de los planes, programas y proyectos que las dependencias y entidades de la Administración Pública Federal desarrollen en la
-
-materia;
+I. Ser instancia de consulta para la formulación, ejecución y evaluación de los planes, programas y proyectos que las dependencias y entidades de la Administración Pública Federal desarrollen en la materia;
 
 II. Coadyuvar al ejercicio de la libre determinación y autonomía de los pueblos y comunidades indígenas en el marco de las disposiciones constitucionales;
 
@@ -103,7 +101,9 @@ III. Impulsar la integralidad y transversalidad de las políticas, programas y a
 
 IV. Fomentar el desarrollo sustentable para el uso racional de los recursos naturales de las regiones indígenas sin arriesgar el patrimonio de las generaciones futuras;
 
-V. Incluir el enfoque de género en las políticas, programas y acciones de la Administración Pública Federal para la promoción de la participación, respeto, equidad y oportunidades plenas para las mujeres indígenas, y
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2016)</small>
+
+V. Incluir el enfoque de género en las políticas, programas y acciones de la Administración Pública Federal para la promoción de la participación, respeto, igualdad, equidad y oportunidades plenas para las mujeres indígenas, y
 
 VI. Consultar a pueblos y comunidades indígenas cada vez que el Ejecutivo Federal promueva reformas jurídicas y actos administrativos, programas de desarrollo o proyectos que impacten significativamente sus condiciones de vida y su entorno.
 
@@ -323,7 +323,7 @@ México, D.F., a 30 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de mayo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE JUNIO DE 2011.
 
@@ -334,3 +334,9 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 7 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
