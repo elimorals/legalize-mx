@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2016-01-18"
+last_updated: "2016-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE ABRIL DE 2016.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -119,9 +119,13 @@ V.- Dar cumplimiento, en lo que corresponda, al procedimiento previsto para la i
 
 En la fecha de la junta previa establecida en el artículo anterior, la Comisión Instaladora entregará las credenciales de identificación y acceso a los diputados electos que integrarán la nueva legislatura, atendiendo a la constancia de mayoría y validez, de asignación o a la resolución firme del órgano jurisdiccional electoral correspondiente que haya recibido el Congreso del Estado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-A las cero horas del día 16 de septiembre del año de la elección, se llevará a cabo la junta preparatoria en el salón de sesiones del Congreso del Estado, previa a la instalación de la legislatura, con la presencia de la Comisión Instaladora y por lo menos las dos terceras partes de los diputados electos, procediendo a instalar la nueva legislatura por el periodo constitucional que corresponda, debiéndose observar el siguiente procedimiento:
+A las cero horas del día 01 de septiembre del año de la elección, se llevará a cabo la junta preparatoria en el salón de sesiones del Congreso del Estado, previa a la instalación de la legislatura, con la presencia de la Comisión Instaladora y por lo menos la mayoría de los diputados electos, procediendo a instalar la nueva legislatura por el período constitucional que corresponda, debiéndose observar el siguiente procedimiento:
 
 I.- La Comisión Instaladora, por conducto del Primer Secretario, dará cuenta del ejercicio y cumplimiento de las atribuciones establecidas en el artículo 14 de esta ley, reservando la entrega de documentos electorales a la Mesa Directiva;
 
@@ -945,7 +949,9 @@ La Comisión de Régimen Interno y Concertación Política dispondrá del person
 
 ### CAPÍTULO I. DE LAS SESIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 111.
 
@@ -999,11 +1005,9 @@ XI.- Otros análogos que a juicio del Presidente del Congreso del Estado, de la 
 
 ###### ARTÍCULO 115.
 
-El Congreso del Estado tendrá cada año dos periodos constitucionales de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los periodos de sesiones ordinarias comprenderán, el primero, del día 16 de septiembre al 15 de diciembre y, el segundo, desde el 1o. de marzo hasta el día último de junio, en ambos casos considerando cada año de ejercicio legal de la legislatura. Estos periodos pueden ser prorrogables en términos del artículo 41 de la Constitución Política del Estado.
+El Congreso del Estado tendrá cada año dos periodos constitucionales de sesiones ordinarias y dos períodos de sesiones extraordinarias. Los periodos de sesiones ordinarias comprenderán, el primero, del día 01 de septiembre al 15 de diciembre y, el segundo, desde el 01 de febrero hasta el 30 de abril, en ambos casos considerando cada año de ejercicio legal de la legislatura. Estos periodos pueden ser prorrogables en términos del artículo 41 de la Constitución Política del Estado.
 
-> <small>(REFORMADO B.O. 1 DE OCTUBRE DE 2015)</small>
-
-El primer periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el primer periodo de sesiones ordinarias o su prórroga y hasta el último día de febrero de cada año de ejercicio de la legislatura; a su vez, el segundo periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el segundo periodo de sesiones ordinarias o su prórroga y hasta el 15 de septiembre de cada año de ejercicio de la legislatura.
+El primer periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el primer periodo de sesiones ordinarias o su prórroga y hasta el 31 de enero de cada año de ejercicio de la legislatura; a su vez, el segundo periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el segundo periodo de sesiones ordinarias o su prórroga y hasta el 31 de agosto de cada año de ejercicio de la legislatura.
 
 El Congreso del Estado podrá ser convocado a sesiones extraordinarias de conformidad a lo que establecen los artículos 43 y 66 de la Constitución Política del Estado para desahogar únicamente los asuntos para los que fue convocado.
 
@@ -1011,9 +1015,13 @@ El Congreso del Estado podrá ser convocado a sesiones extraordinarias de confor
 
 Las sesiones del pleno del Congreso del Estado serán ordinarias o extraordinarias, de carácter público, debiendo transmitirse por medios de comunicación electrónica.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 117.
 
-El pleno del Congreso del Estado no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de por lo menos las dos terceras partes del número total de sus miembros.
+El pleno del Congreso del Estado no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de, por lo menos, más de la mitad del número total de sus miembros.
 
 ###### ARTÍCULO 118.
 
@@ -2166,3 +2174,19 @@ B.O. 18 DE ENERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 7 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 50, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, previa su publicación en el Boletín Oficial del Gobierno del Estado, entrará en vigor el mismo día que inicie la vigencia de la Ley que reforma diversas disposiciones de la Constitución Política del Estado de Sonora, aprobada por el Congreso del Estado de Sonora el día 17 de marzo de 2016.
+
+B.O. 7 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 51, QUE REFORMA EL ARTÍCULO 117 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, previa su publicación en el Boletín Oficial del Gobierno del Estado, entrará en vigor el mismo día que inicie la vigencia de la Ley que reforma el artículo 36 de la Constitución Política del Estado de Sonora, aprobada por el Congreso del Estado el día 17 de marzo de 2016.
