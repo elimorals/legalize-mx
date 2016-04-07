@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2013-10-24"
+last_updated: "2016-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS QUINCE DÍAS HÁBILES POSTERIORES A SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -1509,7 +1507,9 @@ Si la institución es de aquéllas cuyo presupuesto se encuentre incluido en la 
 
 Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos y de los vicios ocultos en que hubiera incurrido, en los términos señalados en el contrato respectivo y en el Código Civil del Estado.
 
-Para garantizar durante un plazo de doce meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, previamente a la recepción de los trabajos, el contratista otorgará fianza por el equivalente al diez por ciento del monto total ejercido en la obra, y presentará una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de los trabajos, o bien, aportará recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2016)</small>
+
+Para garantizar durante un plazo de dieciocho meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, previamente a la recepción de los trabajos, el contratista otorgará fianza por el equivalente al diez por ciento del monto total ejercido en la obra, y presentará una carta de crédito irrevocable por el equivalente al cinco por ciento del monto total ejercido de los trabajos, o bien, aportará recursos líquidos por una cantidad equivalente al cinco por ciento del mismo monto en fideicomisos especialmente constituidos para ello.
 
 Los recursos aportados en fideicomiso deberán invertirse en instrumentos de renta fija.
 
@@ -2148,3 +2148,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0193.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 157, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
