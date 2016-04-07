@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2015-12-19"
+last_updated: "2016-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -65,9 +65,9 @@ VI. El conocimiento para el adecuado aprovechamiento y utilización de los servi
 
 VII. La prevención del consumo de estupefacientes y psicotrópicos, así como el programa contra la farmacodependencia, y
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
 
-VIII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+VIII. El desarrollo de la enseñanza, la investigación científica y tecnológica para la salud, incorporando, paulatinamente, la prestación de servicios mediante la telemedicina.
 
 ###### ARTICULO 3º.
 
@@ -172,6 +172,10 @@ X. La educación para la salud incluyendo salud sexual y reproductiva; así como
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
 XI. La orientación y vigilancia a madres y padres, tutoras o tutores, profesoras y profesores o personas que se encarguen del cuidado de las niñas y los niños en materia de nutrición;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+XI Bis. La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -287,11 +291,25 @@ V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente para 
 
 VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
 
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud, la equidad de género, la no discriminación, y el uso de los servicios que se presten para su protección, y
+VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud, la equidad de género, la no discriminación, y el uso de los servicios que se presten para su protección;
 
-VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios, que no sean nocivos para la salud.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios, que no sean nocivos para la salud;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+IX. Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones, para ampliar la cobertura y mejorar la calidad de atención a la salud;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+X. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad, y su relación con los beneficios a la salud, y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+XI. Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
 
 ###### ARTICULO 8º.
 
@@ -324,6 +342,10 @@ XI. Apoyar la coordinación entre las instituciones de salud, públicas, sociale
 XII. Contribuir a que la formación y distribución de los recursos humanos para la salud, sea congruente con las prioridades del Sistema Estatal de Salud;
 
 XIII. Promover e impulsar la participación de la comunidad en el cuidado de su salud;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+XIII Bis. Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
 
 XIV. Impulsar la permanente actualización de las disposiciones legales en materia de salud, y
 
@@ -665,7 +687,9 @@ VII. La prevención y el control de las enfermedades bucodentales;
 
 VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-IX. La promoción del mejoramiento de la nutrición;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+IX. La promoción de un estilo de vida saludable;
 
 X. La asistencia social a los grupos más vulnerables;
 
@@ -932,6 +956,10 @@ III. La promoción e información sobre:7 (sic) derechos sexuales y reproductivo
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
 
 IV. La promoción de la integración y el bienestar familiar, fomentando la responsabilidad de madres y padres en el crecimiento y desarrollo de sus hijas e hijos.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2016)</small>
+
+ARTICULO 51 BIS. Los servicios de salud a que hace referencia el artículo 29 de la presente Ley, prestarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 ###### ARTICULO 52.
 
@@ -1429,7 +1457,9 @@ La promoción de la salud tiene por objeto crear, conservar y mejorar las condic
 
 La promoción de la salud comprende:
 
-I. Desarrollo de los programas de Nutrición de conformidad con los lineamientos que en la materia dicte la Secretaría de Salud del Estado;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+I. Desarrollo de los programas de nutrición, orientación alimentaria y activación física, de conformidad con los lineamientos que, en la materia dicte la Secretaría de Salud del Estado;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -1457,19 +1487,19 @@ II. Fomentar en la población el desarrollo de actitudes conductas que le permit
 
 III. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
 
-IV. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes, y detección oportuna de enfermedades.
+IV. Orientar y capacitar a la población, preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, salud visual, salud auditiva, educación sexual, planificación familiar, salud reproductiva, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de la discapacidad y rehabilitación de las personas con discapacidad, violencia de género, discriminación, prevención de accidentes y detección oportuna de enfermedades.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 93.
 
-La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva, suficiente y de calidad, y a la activación física, procurando optimizar los recursos y alcanzar una cobertura total de la población. Así como llevar a cabo la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los distintos niveles de educación básica obligatoria, a efecto de combatir, la violencia de género, la discriminación, la obesidad y el sobrepeso; el cual incluirá, entre otras acciones, información veraz por medio de películas, libros, folletos y demás materiales de distribución que concienticen sobre los estragos causados por la violencia, el fomento del consumo de alimentos y bebidas saludables. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
 
-La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los distintos niveles de educación básica obligatoria, a efecto de combatir, la violencia de género, la discriminación, la obesidad y el sobrepeso; el cual incluirá, entre otras acciones, información veraz por medio de películas, libros, folletos y demás materiales de distribución que concienticen sobre los estragos causados por la violencia, así como la medición de masa corporal, el fomento del consumo de alimentos y bebidas saludables, y el fortalecimiento de una actividad física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
+Tratándose de las comunidades indígenas, los programas a que se refiere este artículo, deberán difundirse en español, y la lengua o lenguas indígenas que correspondan.
 
 ### CAPITULO II. Enfermedades Transmisibles
 
@@ -1489,7 +1519,9 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 La Secretaría de Salud del Estado, dentro del ámbito de su competencia, y en lo que compete a nutrición, tendrá a su cargo:
 
-I. Establecer un sistema permanente de vigilancia de la nutrición;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+I. Establecer un sistema permanente de vigilancia de los trastornos de la conducta alimentaria;
 
 II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables;
 
@@ -1501,13 +1533,25 @@ III. Observar y recomendar, en coordinación con la Secretaría de Educación, q
 
 IV. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población; y establecer las necesidades mínimas de nutrimentos para el mantenimiento de las buenas condiciones de salud de la población,
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008 Y REFORMADA P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
 
-V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos (sic) por la población en general, y
+V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos (sic) por la población en general;
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
 
-VI. Diseñar un sistema de seguimiento y evaluación de la asistencia alimentaria que proporcionan en todas sus modalidades, los sistemas municipales para el Desarrollo Integral de la familia, con el objetivo de verificar la correcta implementación de los mismos para la erradicación de la desnutrición y de la obesidad; así como, capacitar en materia de nutrición al personal de los sistemas municipales que lo soliciten.
+VI. Diseñar un sistema de seguimiento y evaluación de la asistencia alimentaria que proporcionan en todas sus modalidades, los sistemas municipales para el Desarrollo Integral de la familia, con el objetivo de verificar la correcta implementación de los mismos para la erradicación de la desnutrición y de la obesidad; así como, capacitar en materia de nutrición al personal de los sistemas municipales que lo soliciten;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+VII. Impulsar, en coordinación con las (sic) Federación y los municipios, la prevención y el control del sobrepeso, obesidad y otros trastornos de la conducta alimentaria; y, en coordinación con la Secretaría de Educación de (sic) Gobierno del Estado, la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+VIII. Difundir en los entornos familiar, escolar, laboral y comunitario; la alimentación nutritiva, suficiente y de calidad, y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+
+IX. Expedir, en coordinación con la Secretaría de Educación de (sic) Gobierno del Estado, los lineamientos generales para el expendio y distribución de alimentos y bebidas preparadas y procesadas en las escuelas del Sistema Educativo Estatal, a fin de eliminar dentro de estos centros escolares, el consumo y expendio de aquéllos que no cumplan con los criterios nutrimentales que al efecto determine la Secretaría de Salud y, en consecuencia, no favorezcan la salud de los educandos y la pongan en riesgo.
 
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -4056,3 +4100,19 @@ P.O. 19 DE DICIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 7 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0194.- SE REFORMAN LOS ARTÍCULOS 7° EN SUS FRACCIONES, VII, Y VIII, 25 EN SU FRACCIÓN IX, 91 EN SU FRACCIÓN I, 92 EN SU FRACCIÓN IV, 93, Y 96 EN SUS FRACCIONES, I, V, Y VI; Y SE ADICIONAN A LOS ARTÍCULOS, 5° EN SU APARTADO A LA FRACCIÓN XI BIS, 7° LAS FRACCIONES, IX, X, Y XI, 8° LA FRACCIÓN XIII BIS, EL ARTÍCULO 51 BIS, Y 96 LAS FRACCIONES, VII, VIII, Y IX, DE Y A (SIC) LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0195.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 2°, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
