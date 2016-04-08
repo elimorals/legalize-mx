@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-promocion-de-valores-y-cultura-de-la-legalidad-5496
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-23"
-last_updated: "2014-12-29"
+last_updated: "2016-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de marzo de 2007.
 
@@ -41,9 +41,11 @@ LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 1.
 
-Esta Ley tiene por objeto establecer los marcos de referencia, los mecanismos, instrumentos y lineamientos del programa para fomentar y promover en el Estado de Nuevo León los valores universales y trascendentes del ser humano, así como la promoción de una cultura de la legalidad que robustezca el Estado de Derecho y el respeto a las reglas de convivencia armónica en la sociedad.
+Esta Ley tiene por objeto establecer los marcos de referencia, los mecanismos, instrumentos y lineamientos del programa para fomentar y promover en el Estado de Nuevo León los valores universales y trascendentes del ser humano, el correcto uso del lenguaje, así como la promoción de una cultura de la legalidad que robustezca el Estado de Derecho y el respeto a las reglas de convivencia armónica en la sociedad.
 
 ###### Artículo 2.
 
@@ -79,6 +81,10 @@ El Estado Impulsará y apoyará la participación de las instituciones públicas
 
 Asimismo, el Estado promoverá el fortalecimiento de la familia como célula básica de la sociedad y estimulará su participación activa como principal entidad formadora de valores en la comunidad.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+El Estado por medio de los Servidores Públicos fomentará el correcto uso del lenguaje, evitando el uso inapropiado del mismo en actos oficiales, lo cual en caso de ser violentado deberá ser sancionado conforme a esta Ley.
+
 ###### Artículo 4.
 
 Las acciones que se realicen al amparo de la presente Ley deberán efectuarse con absoluto e irrestricto respeto a las garantías constitucionales.
@@ -113,7 +119,9 @@ La designación de las instituciones participantes en el Consejo se hará confor
 
 El Consejo estará organizado de la siguiente forma:
 
-I.- Un Presidente Honorario, que será el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+I. Un Presidente Honorario, que será el Gobernador del Estado, quien en uso de su cargo deberá poner el ejemplo en el comportamiento del uso del lenguaje;
 
 II.- Un Presidente Ejecutivo que deberá ser siempre un representante ciudadano, designado por los integrantes del Consejo de entre sus miembros;
 
@@ -151,37 +159,49 @@ III.- Promover vínculos de coordinación con las diversas instancias de los tre
 
 IV.- Proponer y dar seguimiento al cumplimiento de las políticas públicas, programas, proyectos y acciones de fomento que se emprendan en el marco de esta Ley;
 
+> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 8 DE ABRIL DE 2016)</small>
+
+V. Realizar evaluaciones periódicas sobre el grado de cultura de la legalidad en el estado, las cuales comprenderán el comportamiento social de los ciudadanos, el correcto uso del lenguaje de los servidores públicos de Nuevo León y el funcionamiento de las Instituciones Públicas y Privadas, exclusivamente en lo que respecta al grado de acatamiento del orden jurídico vigente;
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
-V.- Realizar evaluaciones periódicas sobre el grado de cultura de la legalidad en el estado, las cuales comprenderán el comportamiento social de los ciudadanos y el funcionamiento de las Instituciones Públicas y Privadas, exclusivamente en lo que respecta al grado de acatamiento del orden jurídico vigente;
+VI.- Realizar evaluaciones periódicas sobre el grado de cultura de la legalidad en el estado, las cuales comprenderán el comportamiento social de los ciudadanos y el funcionamiento de las Instituciones Públicas y Privadas, exclusivamente en lo que respecta al grado de acatamiento del orden jurídico vigente;
 
-VI.- Integrar, conducir y coordinar las campañas públicas de promoción de valores en la sociedad;
+VII.- Integrar, conducir y coordinar las campañas públicas de promoción de valores en la sociedad;
 
-VII.- Emitir opiniones y recomendaciones a los titulares de los tres Poderes del Estado, a los Ayuntamientos, instituciones, organismos y grupos integrantes del propio Consejo;
+VIII.- Emitir opiniones y recomendaciones a los titulares de los tres Poderes del Estado, a los Ayuntamientos, instituciones, organismos y grupos integrantes del propio Consejo;
 
-VIII.- Integrar comisiones o comités para la atención de asuntos específicos;
+IX.- Integrar comisiones o comités para la atención de asuntos específicos;
 
-IX.- Aprobar el Programa por al menos dos terceras partes de sus integrantes;
+X.- Aprobar el Programa por al menos dos terceras partes de sus integrantes;
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
 
-X.- Aprobar la ubicación y características del Recinto para su comunicación al Ejecutivo del Estado;
+XI.- Aprobar la ubicación y características del Recinto para su comunicación al Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
-XI.- Aprobar el nombre o nombres de candidatos a ser homenajeados en las diversas categorías, y remitirlos al Congreso del Estado, para que éste los analice y designe, previo el trámite legislativo correspondiente.
+XII.- Aprobar el nombre o nombres de candidatos a ser homenajeados en las diversas categorías, y remitirlos al Congreso del Estado, para que éste los analice y designe, previo el trámite legislativo correspondiente.
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2009)</small>
 
-XII.- Aprobar el Calendario Anual de Actividades Cívicas;
+XIII.- Aprobar el Calendario Anual de Actividades Cívicas;
 
-XIII.- Nombrar a los integrantes del Comité de Investigación y Análisis;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
 
-XIV.- Establecer la remuneración del Secretario Técnico, cuando la misma esté a cargo del erario; y
+XIV. Establecer la remuneración del Secretario Técnico, cuando la misma esté a cargo del erario;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2016)</small>
 
-XV.- Las demás que determinen el Reglamento Interior del Congreso y otras disposiciones aplicables.
+XV. Emitir recomendaciones a todos los servidores públicos que no se dirijan apropiadamente en actos públicos o que infrinjan lo dispuesto por el párrafo segundo del artículo 3 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+XVI. Recibir las denuncias realizadas por cualquier ciudadano del Estado, de los servidores públicos que hagan uso inapropiado del lenguaje; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+XVII. Las demás que determinen el Reglamento Interior del Consejo y otras disposiciones aplicables.
 
 ### CAPÍTULO III. DEL PROGRAMA PARA LA PROMOCIÓN DE VALORES Y LA CULTURA DE LA LEGALIDAD
 
@@ -382,3 +402,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 29 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Nuevo León.
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 095. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROMOCIÓN DE VALORES Y CULTURA DE LA LEGALIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
