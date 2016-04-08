@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-forestal-sustentable-del-estado-de-oaxaca-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-11"
-last_updated: "2013-06-11"
+last_updated: "2016-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de junio de 2013.
 
@@ -509,17 +509,23 @@ La Comisión Estatal Forestal tiene como objeto desarrollar, favorecer e impulsa
 
 La Junta de Gobierno es el órgano de gobierno de la Comisión y se integrará de la siguiente forma:
 
-a). Un Presidente;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+a). Un presidente, que será el Titular de la Secretaría Coordinadora del Sector que corresponda;
 
 b). Un Secretario Técnico que es el Director General de la Comisión;
 
-c). Cinco Vocales, designados por el presidente, que pueden ser los titulares de las dependencias del Poder Ejecutivo, cuyos ámbitos de competencia tengan relación con el funcionamiento y operación de la Comisión;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+c). Cinco Vocales, que serán los titulares de las dependencias o entidades del Poder Ejecutivo, cuyos ámbitos de competencia tengan relación con el funcionamiento y operación de la Comisión;
 
 d). Un Comisario que es el Secretario de la Contraloría y Transparencia Gubernamental del Poder Ejecutivo del Estado, o la persona que éste designe; y
 
 e). Dos representantes designados por el Consejo.
 
-La Junta operará conforme a lo dispuesto en el Reglamento de la presente Ley.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE ABRIL DE 2016)</small>
+
+Cada integrante propietario, designará a su respectivo suplente mediante oficio respectivo dirigido al Presidente de la Junta de Gobierno. El cargo de suplente será indelegable, por lo que no se podrán acreditar representantes de éste en las sesiones de la Junta de Gobierno. Los suplentes tendrán las mismas facultades o atribuciones que los titulares propietarios.
 
 ###### ARTÍCULO 17.
 
@@ -1609,7 +1615,9 @@ TERCERO.- Se derogan todas las disposiciones que se opongan o contravengan a la 
 
 CUARTO.- Los Archivos, expedientes y mobiliario de la Dirección de Desarrollo Forestal de la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura del Gobierno del Estado, pasarán a formar parte de la Comisión Estatal Forestal.
 
-QUINTO.- El personal que labora en la Dirección de Desarrollo Forestal de la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura del Gobierno del Estado, pasará a formar parte de la Comisión Estatal Forestal, respetando sus derechos laborales, mismos que seguirán rigiéndose de acuerdo a las disposiciones de la Ley del Servicio Civil para los Empleados del Gobierno del Estado; para este trámite la Secretaría de Administración del Gobierno de Oaxaca preverá la viabilidad operacional.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+QUINTO.- El personal que labora en la Dirección de Desarrollo Forestal de la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura, del Poder Ejecutivo del Estado, pasará a formar parte de la Comisión Estatal Forestal, respetando sus derechos laborales y antigüedad. Las relaciones laborales entre la Comisión Estatal Forestal y sus trabajadores se regirán por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, con excepción de los trabajadores de base que presten sus servicios en dicha Comisión Estatal Forestal, mismos que seguirán rigiéndose de acuerdo a las disposiciones de la Ley del Servicio Civil para los Empleados del Gobierno del Estado.
 
 SEXTO.- El Ejecutivo del Estado implementará las medidas conducentes para prever en el presupuesto de egresos del Estado, las partidas correspondientes para la operación de la Comisión Estatal Forestal y de la puesta en marcha del Fideicomiso Forestal Oaxaca; para lo cual la Sexagésima Segunda Legislatura lo tendrá previsto para el Presupuesto 2014.
 
@@ -1662,3 +1670,17 @@ Tlalixtac de Cabrera, Centro, Oax., a 07 de junio del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DECRETO NÚM. 1852.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. La Junta de Gobierno de la Comisión Estatal Forestal que sufre modificación en su integración y funcionamiento, contará con noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que resulten necesarias al marco jurídico, a fin de hacer efectivas las disposiciones del mismo
+
+TERCERO El Presidente de la Comisión Estatal Forestal dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto, convocarán para la presentación de nuevos integrantes y toma de protesta de los mismos, que conforman el órgano de gobierno que sufren modificación en su integración y funcionamiento conforme a este Decreto.
+
+CUARTO Se derogan las disposiciones que se opongan al presente Decreto
