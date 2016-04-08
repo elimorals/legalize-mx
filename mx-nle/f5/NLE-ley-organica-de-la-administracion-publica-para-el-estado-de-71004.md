@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2016-04-06"
+last_updated: "2016-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ABRIL DE 2016.]</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -437,9 +437,9 @@ I. Recaudar los ingresos de carácter fiscal que establezcan las leyes y aquello
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2016)</small>
+(REFORMADA, P.O. 6 DE ABRIL DE 2016) (F. DE E., P.O. 8 DE ABRIL DE 2016)
 
-XVI (SIC). Elaborar, conjuntamente con la Coordinación Ejecutiva de la Administración Pública del Estado, y presentar al Ejecutivo el anteproyecto de la Ley de Ingresos y el Presupuesto de Egresos;
+II. Elaborar conjuntamente con la Coordinación Ejecutiva de la Administración Pública del Estado, y presentar al Ejecutivo el anteproyecto de la Ley de Ingresos y el Presupuesto de Egresos;
 
 III. Promover, organizar y realizar estudios con el fin de incrementar los ingresos y mejorar los sistemas de control fiscal;
 
