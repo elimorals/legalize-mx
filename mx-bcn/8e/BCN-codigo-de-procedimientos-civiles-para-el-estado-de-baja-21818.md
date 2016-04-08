@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-12-18"
+last_updated: "2016-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -916,6 +916,14 @@ II.- Cuando se trate de personas cuyo domicilio se ignora.
 En este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el título noveno.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y otro periódico de los de mayor circulación, haciéndose saber que debe de presentarse el citado dentro de un término que no bajará de quince ni excederá de sesenta días;
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+El Juez tomará previamente, las providencias necesarias para cerciorarse de la necesidad de emplazar, en la forma que establece los párrafos anteriores de esta fracción, y adoptará las medidas que estime pertinentes con el propósito de que se investigue el domicilio, solicitando por oficio el auxilio de la Dependencia de Seguridad Pública Estatal y Municipal.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+Por otra parte, y tratándose de controversias del orden familiar, el juzgador además deberá ordenar oficios de búsqueda ante el Instituto Nacional Electoral, Instituto Mexicano del Seguro Social, Comisión Federal de Electricidad, Recaudación de Rentas del Estado, Centros de Reinserción Social, Direcciones de Catastro o Control Urbano de los municipios donde se interponga la demanda y cualquier otra dependencia que a juicio del juez estime conveniente girar oficio a fin de garantizar la protección de los menores de edad, los cuales deberán ser contestados en un término no mayor a ocho días.
 
 III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al Artículo 2890 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de los de mayor circulación.
 
@@ -2077,9 +2085,9 @@ VI.- Reconocimiento o Inspección Judicial;
 
 VII.- Testigos;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
 
-VIII.- Fotografías, copias fotostáticas, registros dactiloscópicos y, en general todos aquellos elementos aportados por los descubrimientos de la ciencia, así como los avances tecnológicos;
+VIII.- Fotografías, copias fotostáticas, registros dactiloscópicos, fonográficos, electrónicos o magnéticos, medios de reproducción, sistemas computacionales y, en general todos aquellos elementos aportados por los descubrimientos de la ciencia, así como los avances en las tecnologías de la información.
 
 IX.- Fama Pública;
 
@@ -2671,11 +2679,17 @@ ART. 368.- Para acreditar hechos o circunstancias que tengan relación con el ne
 
 Quedan comprendidas dentro del término fotografías, las cintas cinematográficas y cualesquiera otras producciones fotográficas.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2016)</small>
 
-ART. 369.- Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos y demás elementos que produzcan convicción en el ánimo del Juez.
+ART. 369.- Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos, electrónicos o magnéticos, medios de reproducción, sistemas computacionales y demás elementos que produzcan convicción en el ánimo del Juez.
 
-La parte que presente esos medios de prueba deberá ministrar al tribunal los aparatos o elementos necesarios, para que pueda apreciarse el valor de los registros y reproducirse los sonidos y figuras.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+La parte que presente esos medios de prueba deberá ministrar al tribunal los aparatos o elementos necesarios, para que pueda apreciarse el valor de los registros y reproducirse las imágenes, los datos, los sonidos y figuras que contengan los mismos.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+En el caso de los registros electrónicos y sistemas computacionales, la parte oferente deberá expresar con toda exactitud el nombre completo del sistema o página electrónica de la cual fue obtenido el mismo; si los datos proporcionados al respecto resultaren inexistentes, la prueba en comento se declarará desierta.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2947,7 +2961,7 @@ ART. 413.- El dictamen de peritos y la prueba testimonial serán valorizados seg
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 414.- Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del Juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
+ART. 414.- Las fotografías, copias fotostáticas y demás pruebas científicas quedan a la prudente calificación del juez. Las copias fotostáticas sólo harán fe cuando estén certificadas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -4217,7 +4231,7 @@ ART. 593.- Traducida la ejecutoria en la forma prevista en el artículo 325, se 
 
 La apelación se substanciará sumariamente.
 
-REFORMADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 594.- Ni el Juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
 
@@ -7102,3 +7116,15 @@ P.O. 18 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 412 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 300, 305 Y 334 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA A LOS ARTÍCULOS 926 Y LA ADICIÓN DEL ARTÍCULO 926 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 471 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN PÁRRAFO TERCERO Y CUARTO A LA FRACCIÓN II DEL ARTÍCULO 122 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 472 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LA FRACCIÓN VIII DEL ARTÍCULO 285, ASÍ COMO LA REFORMA AL PÁRRAFO PRIMERO, SEGUNDO Y LA ADICIÓN DE UN PÁRRAFO TERCERO AL ARTÍCULO 369 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
