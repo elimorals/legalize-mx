@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2015-09-30"
+last_updated: "2016-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL PRESENTE CÓDIGO, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, SU VIGENCIA INICIARÁ DE FORMA GRADUAL Y EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO VÉASE DICHA PUBLICACIÓN OFICIAL.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -163,9 +163,11 @@ II. De un tutor para los negocios judiciales.
 
 Los menores de edad emancipados no necesitan autorización judicial para comparecer a juicio; pero cuando lo hicieren sin la intervención del tutor, o en su caso, sin la del curador, se les exigirá que los nombren con arreglo a las prescripciones del Libro Segundo, Título Décimo Tercero, Capítulo V de este Código; y si no lo hacen luego que sean requeridos para ello, el juez de oficio hará el nombramiento respectivo.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 20.
 
-El menor de edad no necesita de habilitación para litigar contra quienes ejerzan la patria potestad o tutela, pero será representado por un tutor especial, conforme a los artículos 15 fracción II y 430 de este Código.
+El menor de edad no necesita de habilitación para litigar contra quienes ejerzan la patria potestad o tutela, pero será representado por un tutor especial, conforme a los artículos 15 fracción II y 418 de este Código.
 
 ## TÍTULO TERCERO. REGISTRO CIVIL
 
@@ -459,19 +461,23 @@ El tutor y curador cuidarán del cumplimiento de este artículo.
 
 La omisión de inscripción no impide al tutor y curador entrar en el ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con ellos.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 75.
 
 El acta de tutela contendrá:
 
-I. El nombre, apellido y edad de la persona con discapacidad;
+I. El nombre, apellidos y edad de la persona con discapacidad;
 
 II. La clase de discapacidad por la que se haya discernido la tutela;
 
-III. El nombre y demás generales de las personas que han tenido a la persona con discapacidad bajo su patria potestad antes del discernimiento de la tutela; IV. El nombre, apellido, edad, ocupación y domicilio del tutor y del curador;
+III. El nombre y demás generales de las personas que han tenido a la persona con discapacidad bajo su patria potestad antes del discernimiento de la tutela;
 
-IV. La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda; o la expresión de que el juez dispensó la garantía en los casos en que la ley lo permita; y,
+IV. El nombre, apellido, edad, ocupación y domicilio del tutor y del curador;
 
-V. El nombre del juez que pronunció tales resoluciones y la fecha de estas.
+V. La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda; o la expresión de que el juez dispensó la garantía en los casos en que la ley lo permita; y,
+
+VI. El nombre del juez que pronunció tales resoluciones y la fecha de estas.
 
 ### CAPÍTULO V. ACTAS DE EMANCIPACIÓN Y HABILITACIÓN DE EDAD
 
@@ -737,6 +743,8 @@ Lo (sic) derechos y obligaciones contraídas con anterioridad a la reasignación
 
 Cuando no se asiente el fallecimiento de una persona ante el Oficial del Registro Civil correspondiente, dentro de los seis meses siguientes, solo procederá el levantamiento del acta respectiva por orden de la autoridad judicial, que se sujetará al mismo trámite que la rectificación de las actas del registro civil.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 119.
 
 La acción para pedir la rectificación de un acta del estado civil o su levantamiento, compete:
@@ -747,11 +755,13 @@ II. A las que se mencionen en el acta como relacionadas con el estado civil de a
 
 III. A los herederos o presuntos herederos de las personas a que se refieren los dos incisos anteriores; y,
 
-IV. A las personas que según los artículos 368, 369 y 370 de este Código pueden continuar o intentar la acción de que en esos artículos se trata.
+IV. A las personas que según los artículos 359 y 360 de este Código pueden continuar o intentar la acción de que en esos artículos se trata.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
 
 ###### Artículo 120.
 
-La demanda deberá presentarse por escrito y reunirá los requisitos de los artículos 980 y 981 de este Código.
+La demanda deberá presentarse por escrito y reunirá los requisitos de los artículos 960 y 961 de este Código.
 
 ###### Artículo 121.
 
@@ -3091,13 +3101,15 @@ Las instituciones públicas y privadas, tendrán la obligación de informar al S
 
 ### CAPÍTULO VI. TUTELA DATIVA
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 515.
 
 Tiene lugar la tutela dativa:
 
 I. Cuando no haya tutor testamentario ni persona a quien corresponda la tutela legítima, conforme a la ley; y,
 
-II. Cuando temporalmente el tutor testamentario esté impedido para ejercer su cargo y no haya ningún pariente de los designados en el artículo 504 de este Código.
+II. Cuando temporalmente el tutor testamentario esté impedido para ejercer su cargo y no haya ningún pariente de los designados en el artículo 505 de este Código.
 
 ###### Artículo 516.
 
@@ -3407,9 +3419,11 @@ La obligación de hacer el inventario no puede ser dispensada, ni aun por los qu
 
 El tutor está obligado a inscribir en el inventario el crédito que tenga contra la persona con discapacidad; si no lo hace, pierde el derecho de cobrar tal crédito.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 564.
 
-Los bienes que la persona con discapacidad adquiera después de la formación del inventario se incluirán inmediatamente en el, con las mismas formalidades prescritas en la fracción III del artículo 542 de este Código.
+Los bienes que la persona con discapacidad adquiera después de la formación del inventario se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 554 de este Código.
 
 ###### Artículo 565.
 
@@ -3819,9 +3833,11 @@ En caso de que el ausente haya dejado o nombrado apoderado general para la admin
 
 Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de tres años.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 646.
 
-Pueden pedir la declaración de ausencia las personas a que se refiere el artículo 617 de este Código. Dicho trámite se llevará en jurisdicción voluntaria.
+Pueden pedir la declaración de ausencia las personas a que se refiere el artículo 629 de este Código. Dicho trámite se llevará en jurisdicción voluntaria.
 
 ###### Artículo 647.
 
@@ -3953,9 +3969,11 @@ II. El juez examinará si se reúnen los requisitos anteriores y si así fuere, 
 
 III. Quince días después de la publicación, el inmueble y los muebles accesorios, adquirirán el carácter de patrimonio de familia y el juez remitirá copia de la solicitud a la oficina del Registro Público de la Propiedad para que sea inscrita, la que servirá de título de la fundación.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 668.
 
-Cuando el patrimonio de familia sea de valor inferior al máximo permitido por el artículo 663, ya sea urbano o rústico, podrá ser extendido hasta llegar a ese valor, sobre otros bienes muebles o inmuebles. Para la aplicación se observarán los procedimientos del artículo anterior.
+Cuando el patrimonio de familia sea de valor inferior al máximo permitido por el artículo 664, ya sea urbano o rústico, podrá ser extendido hasta llegar a ese valor, sobre otros bienes muebles o inmuebles. Para la aplicación se observarán los procedimientos del artículo anterior.
 
 ###### Artículo 669.
 
@@ -4623,11 +4641,13 @@ Para que la sumisión expresa o tácita surta sus efectos, no es necesario el co
 
 No se permitirá interponer incompetencia en la etapa de ejecución de sentencia.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 791.
 
 Es nulo todo lo actuado por el juez que fuere declarado incompetente, salvo:
 
-I. Lo dispuesto en el artículo 800 de este Código;
+I. Los (sic) dispuesto en el artículo 812 de este Código;
 
 II. Si se trata de incompetencia sobrevenida; y,
 
@@ -4835,9 +4855,11 @@ Una vez que el juez se excuse, remitirá los autos a la oficialía de partes y t
 
 Si el juez que los recibe considera que la causa es legal, se avocará al conocimiento del asunto, de lo contrario, lo devolverá al juez remitente precisando la razón de su negativa, quien podrá reconsiderar el impedimento y continuar con el procedimiento; de insistir en la excusa, lo mandará a la sala que corresponda en atención al turno para que resuelva, quien hecho lo anterior, enviará los autos al juez que deba conocer del asunto, así como testimonio de la resolución pronunciada a ambos jueces.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Artículo 825.
 
-Tratándose de los magistrados, de considerarse que se actualiza alguno de los impedimentos previstos en el artículo 809 de este Código, se excusarán del negocio y remitirán los autos a la oficialía de partes y turno de segunda instancia, para que lo returne a la sala que corresponda; de considerarse por la sala que recibió el asunto, que la causa es legal, se avocará a su conocimiento, de lo contrario, lo devolverá al magistrado remitente precisando la razón de su negativa, quien podrá reconsiderar el impedimento y en su caso continuar con el procedimiento; de insistir en la excusa, lo remitirá a la Secretaría General de Acuerdos del Supremo Tribunal, para que sea el Pleno el que resuelva, dentro del plazo de quince días hábiles siguientes a la fecha en que se hubiere turnado para la elaboración del proyecto.
+Tratándose de los magistrados, de considerarse que se actualiza alguno de los impedimentos previstos en el artículo 821 de este Código, se excusarán del negocio y remitirán los autos a la oficialía de partes y turno de segunda instancia, para que lo returne a la sala que corresponda; de considerarse por la sala que recibió el asunto, que la causa es legal, se avocará a su conocimiento, de lo contrario, lo devolverá al magistrado remitente precisando la razón de su negativa, quien podrá reconsiderar el impedimento y en su caso continuar con el procedimiento; de insistir en la excusa, lo remitirá a la Secretaría General de Acuerdos del Supremo Tribunal, para que sea el Pleno el que resuelva, dentro del plazo de quince días hábiles siguientes a la fecha en que se hubiere turnado para la elaboración del proyecto.
 
 ###### Artículo 826.
 
@@ -7342,3 +7364,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 24 veinticuatro días del mes de septiembre del año 2015 dos mil quince.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZÓTL ESPARZA CORTINA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 131 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 20, 75, 119, 120, 515, 564, 646, 668, 791 Y 825 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
