@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-justicia-electoral-del-6775
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-13"
-last_updated: "2009-03-13"
+last_updated: "2016-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1050 +21,888 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2024/INALI/Nuevo_Estatuto_Organico_INALI.pdf
 
-TEXTO ORIGINAL.
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS
 
-Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de marzo de 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2025.
 
-La suscrita licenciada Leonor Imelda Márquez Fiol, Secretaria General de Acuerdos del Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California, con las facultades que me confieren los artículos 258 fracción XIV de la Ley Orgánica del Poder Judicial del Estado, por acuerdo del Pleno de fecha 14 de enero de dos mil nueve, y 10 fracción IX del Reglamento Interior del Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California; hago CONSTAR y CERTIFICO, que en Sesión para Asuntos Internos celebrada el veintisiete de febrero de dos mil nueve, los Magistrados integrantes del Pleno del Tribunal, por unanimidad de votos aprobaron el REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO que se anexa a la presente, abrogando el Reglamento Interior vigente desde el treinta de junio de dos mil uno; ordenando en el mismo acto su publicación en el Periódico Oficial del Estado.--------
+Estatuto publicado en el Número 5 del Diario Oficial de la Federación, el martes 6 de agosto de 2024.
 
-Se extiende la presente certificación para efectos de la publicación atinente, el día veintisiete de febrero de dos mil nueve, en la ciudad de Mexicali, Baja California.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Cultura.- Instituto Nacional de Lenguas Indígenas.
 
-LIC. LEONOR HIMELDA MÁRQUEZ FIOL
+AVISO PARA DAR A CONOCER EN LA PÁGINA ELECTRÓNICA DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS EL NUEVO ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS.
 
-SECRETARIA GENERAL DE ACUERDOS
+Emisor: Instituto Nacional de Lenguas Indígenas.
 
-TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
+Datos de identificación y lugar de publicación del aviso:
 
-REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+Sitio web oficial del Instituto Nacional de Lenguas Indígenas
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO ÚNICO
+https://www.inali.gob.mx/pdf/estatuto_organico/Nuevo_Estatuto_organico_INALI- 024.pdf
 
-###### ARTÍCULO 1.
+Diario Oficial de la Federación:
 
-El presente ordenamiento tiene por objeto reglamentar la organización, funcionamiento y atribuciones del Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California, que le confieren la Constitución Política del Estado Libre y Soberano de Baja California, la Ley Orgánica del Poder Judicial del Estado de Baja California, la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California, la Ley de Participación Ciudadana del Estado de Baja California y demás disposiciones legales aplicables.
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 2.
+www.dof.gob.mx/2024/INALI/Nuevo_Estatuto_Organico_INALI.pdf
 
-Para efectos de este Reglamento se entiende por:
+Ciudad de México, a 26 de junio de 2024.- De conformidad con los artículos 23, fracción I y 28, fracción II del Estatuto Orgánico del INALI, el Prosecretario pro tempore del Consejo Nacional y Director de Asuntos Jurídicos del Instituto Nacional de Lenguas Indígenas, Lic. Guillermo Morales Gutiérrez.- Rúbrica.
 
-I. Constitución: Constitución Política del Estado Libre y Soberano de Baja California;
+El nuevo Estatuto Orgánico fue aprobado por el Consejo Nacional del Instituto Nacional de Lenguas Indígenas, mediante acuerdo número SE/I-24/03, de fecha 26 de junio de 2024.
 
-II. Ley Orgánica: Ley Orgánica del Poder Judicial del Estado de Baja California;
+INSTITUTO NACIONAL DE LENGUAS INDÍGENAS NUEVO
 
-III. Ley: Ley de Instituciones y Procedimientos Electorales del Estado de Baja California;
+ESTATUTO ORGÁNICO
 
-IV. Ley de Participación: Ley de Participación Ciudadana del Estado de Baja California;
+Conforme a las atribuciones que tiene el Consejo Nacional del Instituto Nacional de Lenguas Indígenas, con fundamento en lo dispuesto en los artículos 15, 16 y 17 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas; 1o., 2o., 11, 15 y 58, fracciones I y VIII de la Ley Federal de las Entidades Paraestatales y 1o., 3, fracción I y 45 de la Ley Orgánica de la Administración Pública Federal, se expide el:
 
-V. Tribunal: Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California;
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS
 
-VI. Salas: Salas Unitarias del Tribunal, y
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-VII. Reglamento: Reglamento Interior del Tribunal de Justicia Electoral del Poder Judicial del Estado.
+### Capítulo Primero. DISPOSICIONES GENERALES
 
-## TÍTULO SEGUNDO. ORGANIZACIÓN, FUNCIONAMIENTO Y ATRIBUCIONES
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 3.
+###### Artículo 1.
 
-El Tribunal funcionará en Pleno y en Salas. El Pleno se integrará por los tres Magistrados Numerarios que conformarán en lo individual las Salas del Tribunal.
+El presente Estatuto tiene por objeto establecer la estructura básica, las facultades y funciones de las Unidades Administrativas del Instituto Nacional de Lenguas Indígenas, así como las bases de organización de su Consejo Nacional.
 
-### CAPÍTULO I. DEL PLENO DEL TRIBUNAL
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 4.
+###### Artículo 2.
 
-Las sesiones de Pleno se realizarán de acuerdo con las reglas siguientes:
+Para los efectos de este ordenamiento, se entiende por:
 
-I. Sesiones públicas de resolución:
+I. Comisarías: Las personas propietarias y suplentes de la Delegación y Comisaría;
 
-a) El Presidente convocará, por lo menos con veinticuatro horas de anticipación a los magistrados, precisando el día, la hora y el lugar en que se celebrará la sesión, así como la resolución o resoluciones que se tratarán en la misma;
+II. Consejo Nacional: El Consejo Nacional del Instituto Nacional de Lenguas Indígenas;
 
-b) El Secretario General de Acuerdos verificará el quórum legal para sesionar, informándolo al Presidente; y dará lectura a la propuesta del orden del día;
+III. Coordinación General de Políticas Lingüísticas: La persona titular de la Coordinación General de Políticas Lingüísticas del Instituto Nacional de Lenguas Indígenas.
 
-c) El Presidente declarará el quórum legal e instalará la Sesión y someterá a votación nominal la propuesta del orden del día por conducto del Secretario General de Acuerdos, procediendo a desahogarlo en los términos aprobados;
+IV. Coordinación General de Concertación: La persona titular de la Coordinación General de Concertación del Instituto Nacional de Lenguas Indígenas
 
-d) El Magistrado Ponente, personalmente o por conducto de su Secretario de Estudio y Cuenta adscrito, expondrá el asunto y el sentido de la resolución, señalando los preceptos en que se funde y las consideraciones jurídicas que estime pertinentes;
+V. Dirección General: La persona titular de la Dirección General del Instituto Nacional de Lenguas Indígenas;
 
-e) El Magistrado Presidente someterá a discusión el proyecto, concediéndole el uso de la voz en primer término al Magistrado Ponente;
+VI. Estatuto: El presente Estatuto Orgánico del Instituto Nacional de Lenguas Indígenas;
 
-f) Cuando el Presidente lo considere suficientemente discutido, ordenará al Secretario General de Acuerdos que recabe la votación nominal sobre el proyecto de resolución, las resoluciones se pronunciarán por unanimidad o por mayoría de votos;
+VII. Firma Electrónica Avanzada: El conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
 
-g) Cuando la resolución sea aprobada por mayoría, el Magistrado disidente podrá emitir voto particular en contrario, que deberá engrosar en un plazo de veinticuatro horas, contadas a partir de que concluya la sesión y se agregará al expediente.
+VIII. Instituto: El Instituto Nacional de Lenguas Indígenas;
 
-Cuando un Magistrado coincida con el sentido del proyecto, pero disienta parcialmente de las consideraciones efectuadas, o estime que deban agregarse argumentos adicionales, podrá formular voto concurrente, que deberá engrosar en el plazo indicado para el voto particular y,
+IX. Ley: La Ley General de Derechos Lingüísticos de los Pueblos Indígenas;
 
-h) Si el proyecto del Magistrado Ponente no es aceptado por la mayoría, el Pleno designará a otro Magistrado quien engrosará el fallo dentro de un plazo de cuarenta y ocho horas contadas a partir de que concluya la sesión respectiva, con las consideraciones y razonamientos jurídicos correspondientes, agregándose como voto particular el proyecto que no fue aprobado.
+X. Personas consejeras: Las personas titulares que integran el Consejo Nacional del Instituto Nacional de Lenguas Indígenas, así como las personas suplentes que designen, con base en lo dispuesto en el Estatuto;
 
-En las sesiones, sólo podrán participar, y hacer uso de la palabra los Magistrados, el Secretario General de Acuerdos y los Secretarios de Estudio y Cuenta, atendiendo a sus respectivas funciones.
+XI. Presidencia: La persona titular de la presidencia del Consejo Nacional, conforme al artículo 16, numeral 1) de la Ley;
 
-El Secretario General de Acuerdos levantará acta circunstanciada de la sesión.
+XII. Prosecretaría. La persona titular de la Prosecretaría del Consejo Nacional, elegida de conformidad con el artículo 58, fracción XII de la Ley Federal de las Entidades Paraestatales.
 
-Los recursos de apelación interpuestos para impugnar resoluciones de las Salas, serán resueltos una vez que se hayan desahogado los demás medios de impugnación, a efecto de que el Secretario General de Acuerdos integre el Pleno en sustitución del Magistrado que corresponda, para la resolución respectiva; en caso de que no se apruebe el proyecto presentado corresponderá el engrose al Magistrado numerario que votó en contra.
+XIII. Secretaría: La Secretaría de Cultura, y
 
-En el caso del párrafo anterior, la sustitución del Secretario General de Acuerdos se hará por los Secretarios de Estudio y Cuenta decano o el de mayor edad, a determinación del Magistrado Presidente, no pudiendo recaer la designación en el Secretario de Estudio y Cuenta adscrito a la ponencia del Magistrado de la Sala cuya resolución sea materia de la apelación.
+XIV. Secretaría Técnica del Consejo: La persona titular de la Secretaría Técnica del Consejo Nacional, elegida de conformidad con el artículo 58, fracción XII de la Ley Federal de las Entidades Paraestatales.
 
-II. Sesiones internas:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-a) El Presidente convocará a los Magistrados precisando el día, la hora y el lugar en que tendrá verificativo la sesión, así como los asuntos que se tratarán en la misma;
+###### Artículo 3.
 
-b) El Secretario General de Acuerdos verificará el quórum legal para sesionar, informándolo en su caso; y dará lectura a la propuesta del orden del día, y
+Corresponde al Consejo Nacional la interpretación del presente Estatuto.
 
-c) El Presidente declarará el quórum legal e instalará la Sesión y someterá a votación nominal la propuesta del orden del día por conducto del Secretario General de Acuerdos, procediendo a desahogarlo en los términos aprobados.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-El Secretario General de Acuerdos levantará acta circunstanciada de la sesión.
+### Capítulo Segundo. DEL CONSEJO NACIONAL DEL INSTITUTO NACIONAL DE LENGUAS INDIGENAS
 
-###### ARTÍCULO 5.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-El Magistrado interesado podrá solicitar al Presidente que convoque al Pleno a Sesión Pública de Resolución, o para Asuntos Internos cuando estime que existen motivos suficientes para ello, debiendo el Presidente emitir convocatoria a más tardar dentro de los tres días siguientes a la solicitud.
+###### Artículo 4.
 
-###### ARTÍCULO 6.
+El Consejo Nacional se integrará y funcionará de acuerdo con lo previsto en los artículos 16 y 17 de la Ley.
 
-Para su funcionamiento el Tribunal contará con la siguiente:
+El nivel jerárquico de las personas servidoras públicas que integren el Consejo Nacional deberá corresponder, para los miembros propietarios, cuando menos, al de titular de Dirección General o su equivalente; y al de Director de Área en tratándose de los suplentes.
 
-I. Estructura jurisdiccional:
+El cargo de las personas consejeras será honorífico, por lo que no podrán recibir ni exigir remuneración alguna con motivo de ostentarlo u haberlo ostentado
 
-a) Pleno;
+Las personas consejeras, representantes de la Administración Pública Federal en el Consejo Nacional, podrán designar a sus respectivos suplentes, que deberán tener cuando menos el nivel de titular de dirección de área para el caso de las dependencias o su equivalente en las entidades
 
-b) Salas;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-c) Secretaria General de Acuerdos;
+###### Artículo 5.
 
-d) Secretarios de Estudio y Cuenta;
+Las tres personas representantes de escuelas, instituciones de educación superior y universidades indígenas, así como las tres personas representantes de instituciones académicas y organismos civiles, a que se refiere el artículo 16 de la Ley, permanecerán en el Consejo Nacional por un periodo de tres años.
 
-e) Actuarios;
+Para la renovación de las personas consejeras representantes de las instituciones a las que se refiere el párrafo anterior, las personas consejeras en función propondrán, al menos, una institución candidata como representante de escuelas, instituciones de educación superior y universidades indígenas y otra que represente a las instituciones académicas y organismos civiles de las personas consejeras a sustituir. La elección de las personas consejeras, se hará en una reunión expresamente convocada para tal efecto por la Presidencia del Consejo Nacional, entre las personas consejeras representantes de la Administración Pública Federal, la que tendrá validez siempre que estén presentes al menos cinco de las siete representaciones. La Dirección General podrá asistir a dicha reunión con voz, pero sin voto y las decisiones serán tomadas por mayoría simple de los presentes.
 
-f) Oficialía de Partes Común y
+El procedimiento descrito en este artículo, será aplicado en caso de incapacidad, ausencia permanente o renuncia al Consejo Nacional, de alguna de las seis personas consejeras representantes de escuelas, instituciones universitarias, académicas y organismos civiles, a que se refiere el artículo 16 de la Ley.
 
-g) Archivo Jurisdiccional.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-II. Estructura administrativa:
+###### Artículo 6.
 
-a) Comisión de Administración;
+Para el funcionamiento del Consejo Nacional, la Presidencia ejercerá las siguientes atribuciones:
 
-b) Órgano Administrativo;
+I. Convocar a las sesiones a las personas consejeras del órgano de gobierno;
 
-c) Consejo Editorial;
+II. Instalar, presidir, y levantar las sesiones;
 
-d) Unidad de Información, Documentación y Estadística, y
+III. Diferir o suspender las sesiones;
 
-e) Unidad de Transparencia.
+IV. Designar, en caso de ausencia, a la persona que presidirá la sesión;
 
-###### ARTÍCULO 7.
+V. Firmar las actas de las sesiones, y
 
-Además de las señaladas en la Ley Orgánica y demás disposiciones aplicables, el Presidente tendrá las siguientes atribuciones:
+VI. Las demás que se indican en la Ley Federal de las Entidades Paraestatales, en este Estatuto y las demás aplicables.
 
-I. Llevar un registro, a través de la Secretaría General de Acuerdos, de las sentencias y resoluciones que emita el Pleno o los Magistrados de las Salas, en las que se imponga el cumplimiento de determinado acto, a fin de vigilar su cumplimiento;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-II. Informar, el incumplimiento de las sentencias o resoluciones al Magistrado ponente o resolutor, para la apertura y substanciación del correspondiente incidente, o en su caso, para que se tomen las medidas que correspondan de acuerdo a la Ley, sea de oficio o a petición de parte;
+###### Artículo 7.
 
-III. Turnar a las Salas, las denuncias o quejas que conforme al orden previsto les correspondan;
+La Secretaría Técnica del Consejo y la Prosecretaría, serán nombradas y removidas en términos de lo dispuesto por el artículo 58, fracción XII, de la Ley Federal de las Entidades Paraestatales, y el 5, fracción XVII, del Reglamento Interior de la Secretaría de Cultura y contarán con voz en las sesiones correspondientes.
 
-IV. Recibir y registrar, en calidad de Presidente de la Comisión de Administración del Tribunal, las declaraciones de situación patrimonial de los servidores del mismo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-V. Exhortar a los Magistrados para que formulen el proyecto o dicten la sentencia o resolución a su cargo, en el tiempo y forma que marca la Ley y este Reglamento, y
+###### Artículo 8.
 
-VI. Las demás que dispongan otras leyes y el presente Reglamento.
+La Secretaría Técnica del Consejo Nacional será responsable de:
 
-###### ARTÍCULO 8.
+I. Proponer el calendario anual de sesiones ordinarias;
 
-Las ausencias del Presidente serán cubiertas de conformidad con las reglas siguientes:
+II. Proponer el Orden del Día, considerando las opiniones de la Presidencia, Personas Consejeras, Comisarías y de la Dirección General;
 
-I. Si son temporales, por más de quince días y menos de dos meses asumirá la Presidencia el Magistrado que sea decano o, en su caso, el de mayor edad, llamándose al Magistrado Supernumerario para que supla a aquél, y
+III. Firmar las convocatorias que formule la Presidencia;
 
-II. Si es definitiva, en la forma citada por el párrafo final del artículo 61 de la Constitución, y por los artículos 249 fracción VI, 253 fracción XII y 279 fracción II de la Ley Orgánica.
+IV. Disponer lo necesario para la realización de las sesiones ordinarias y extraordinarias;
 
-Al ser designado el nuevo Magistrado, el Presidente en funciones convocará al Pleno para que se elija nuevo Presidente, quien deberá concluir el periodo indicado por el artículo 249 fracción I de la Ley Orgánica.
+V. Pasar lista de asistencia e informar a la Presidencia si existe quórum para que el Consejo Nacional pueda sesionar válidamente;
 
-###### ARTÍCULO 9.
+VI. Contabilizar y dar cuenta de las votaciones;
 
-Los Magistrados, ejercerán las atribuciones establecidas en el artículo 257 de la Ley Orgánica, en este Reglamento, así como en las demás disposiciones legales aplicables.
+VII. Revisar los proyectos de actas y acuerdos de las sesiones, y someterlas a la aprobación del Consejo Nacional;
 
-###### ARTÍCULO 10.
+VIII. Firmar las actas de las sesiones;
 
-En el trámite de los recursos, los Magistrados tendrán las atribuciones que se establecen en los articulas 440 y 443 de la Ley, referentes a la admisión y substanciación de los recursos que les sean turnados, así como a la elaboración de proyectos de resolución. Cuando conozcan de las denuncias o quejas se estará a lo previsto en el numeral 473 de la Ley, y demás disposiciones legales que sean aplicables.
+IX. Expedir, cuando se requiera, constancia de los acuerdos tomados en las sesiones; y,
 
-###### ARTÍCULO 11.
+X. Las demás que acuerde el Consejo Nacional.
 
-Las ausencias de los Magistrados serán cubiertas de la manera siguiente:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-I. Si son temporales, por más de quince días y menos de dos meses, se llamará al Magistrado Supernumerario conforme al orden de prelación que haya señalado el Congreso del Estado al momento de la designación;
+###### Artículo 9.
 
-II. Si la licencia es por más de dos meses, en la forma citada por el artículo 61 de la Constitución y los artículos 249 fracción VI y 253 fracción (sic) de la Ley Orgánica, y
+La Prosecretaría será responsable de:
 
-III. Si es definitiva, en la forma citada por el párrafo final del artículo 61 de la Constitución, y por los artículos 249 fracción VI, 253 fracción XII y 278 fracción II de la Ley Orgánica.
+I. Apoyar a la Secretaría Técnica del Consejo en el cumplimiento de sus funciones;
 
-###### ARTÍCULO 12.
+II. Levantar los proyectos de actas y acuerdos de las sesiones, y someterlas a la revisión de la Secretaría Técnica del Consejo Nacional;
 
-Cada Sala del Tribunal se integrará de manera unitaria por un Magistrado Numerario, quien resolverá las quejas o denuncias remitidas por la Comisión del Régimen de Partidos Políticos del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+III. Resguardar las actas de las sesiones del Consejo Nacional; y (sic)
 
-Las Salas se identificarán como Primera, Segunda y Tercera, integradas cada una por los Magistrados Numerarios que correspondan por orden alfabético, en consideración a la letra inicial del primer apellido.
+IV. Apoyar a la Secretaría Técnica en el seguimiento de los acuerdos adoptados por el Consejo Nacional, y
 
-###### ARTÍCULO 13.
+V. Emitir copias certificadas de las actas.
 
-Para el control de los asuntos que le correspondan, cada Sala llevará los siguientes libros:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-I. Libro de Gobierno de la Sala, en el que se registrarán los expedientes que les sean turnados, con el número progresivo que les corresponda, en el que se anotará el número de expediente remitido por la autoridad administrativa electoral, nombre del denunciante o quejoso, nombre del denunciado, los hechos denunciados, el sentido de la resolución y otros datos sustanciales del trámite.
+###### Artículo 10.
 
-II. Libro de correspondencia, en el que se anotará la correspondencia recibida y despachada en la Sala.
+El Consejo Nacional, además de las previstas en la Ley y en el artículo 58 de la Ley Federal de las Entidades Paraestatales, ejercerá las siguientes atribuciones:
 
-III. Libro de promociones, en el que se registrarán las promociones recibidas.
+I. Modificar y adicionar el presente Estatuto, y en su caso, derogarlo o abrogarlo para emitir uno nuevo;
 
-IV. Libro de actuarios, en el que se anotarán los expedientes que les sean cargados, expresándose la fecha y la diligencia que deban practicar. Asimismo se anotará la fecha de la devolución de cada expediente, debidamente diligenciado o expresándose la causa por la cual no se haya practicado, con la firma del Primer Secretario de Estudio y Cuenta que lo reciba.
+II. Autorizar las actualizaciones del Catálogo de Lenguas Indígenas Nacionales y ordenar su publicación en el Diario Oficial de la Federación, y
 
-###### ARTÍCULO 14.
+III. Llevar a cabo todos los actos y desempeñar las acciones previstas en las leyes que resulten necesarias para el eficaz funcionamiento del Instituto, incluso con los medios electrónicos y las funcionalidades tecnológicas de que disponga la Secretaría, el Consejo Nacional y el Instituto.
 
-Cuando se presente un Recurso de Apelación, la Sala, en su calidad de autoridad responsable lo hará del conocimiento público en los términos del artículo 406 de la Ley, correspondiendo al Primer Secretario de Estudio y Cuenta, fijar en los estrados del Tribunal la cédula respectiva para su publicidad. En la cédula de retiro se hará constar si se presentó escrito de tercero interesado.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-### CAPÍTULO II. ORGANIZACIÓN DEL TRIBUNAL
+###### Artículo 11.
 
-###### ARTÍCULO 15.
+En la convocatoria para las sesiones ordinarias o extraordinarias, se deberá considerar:
 
-Los Magistrados de las Salas deberán rendir el informe de labores a que se refiere el artículo 251 QUATER, fracción VII de la Ley Orgánica, cada trimestre, debiendo señalar por lo menos el número de expediente de que se trata, denunciante y denunciado, hechos denunciados y estado del trámite del asunto.
+a). El orden del día;
 
-###### ARTÍCULO 16.
+b). La información sobre los temas a tratar;
 
-Para el desempeño de sus funciones, cada Sala contará con la estructura siguiente:
+c). El acta de la sesión anterior;
 
-I. En año electoral, por lo menos dos Secretarios de Estudio y Cuenta;
+d). Que la Prosecretaría remita la información a las personas integrantes del Consejo Nacional, cinco días hábiles previos a la fecha de realización, para el caso de las sesiones ordinarias, y tres días hábiles previos, para el caso de las extraordinarias.
 
-II. Un Actuario de Sala, y
+Para el desarrollo y organización de las sesiones, se podrá hacer uso de los medios electrónicos y tecnológicos de las que se disponga.
 
-III. El personal jurídico y administrativo que fije el presupuesto de egresos respectivo.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-Cuando en las Salas haya dos o más Secretarios de Estudio y Cuenta, se les identificará con número progresivo, quedando el decano como Primer Secretario, quien estará investido de fe pública en relación con los asuntos tramitados en la Sala de su adscripción y a quien corresponderá llevar el control de los libros a que se refiere el artículo 13 del presente Reglamento.
+###### Artículo 12.
 
-###### ARTÍCULO 17.
+La Dirección General propondrá al Consejo Nacional, por conducto de la Secretaría Técnica del Consejo, los temas que considere necesario y oportuno incluir en el orden del día que corresponda.
 
-El Secretario General de Acuerdos estará investido de fe pública, ejercerá las atribuciones establecidas en el artículo 258 de la Ley Orgánica y las siguientes:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-I. Publicar en los estrados convocatoria que deberá contener la lista de los asuntos que se habrán de analizar y resolver en cada sesión pública;
+###### Artículo 13.
 
-II. Recibir de los Magistrados las copias de los proyectos de resolución de los asuntos listados, a fin de integrarlos con la debida anticipación en las carpetas que se entregarán a los Magistrados previamente a la sesión pública correspondiente;
+Por iniciativa propia o en acuerdo con la Dirección General, la Presidencia podrá invitar a las personas relacionadas con los asuntos que se tratarán en las sesiones del Consejo Nacional, quienes tendrán derecho a voz, pero no a voto.
 
-III. Elaborar o actualizar los manuales e instructivos para el funcionamiento de las áreas de apoyo a la Secretaría General de Acuerdos;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-IV. Llevar un Libro de Gobierno de Pleno del Tribunal en el que se registrará cada recurso que se reciba asignándole el número que le corresponda siguiendo un orden progresivo, asentando la información relativa a la naturaleza del recurso o documento, el nombre del promovente, la fecha y hora de su recepción y la autoridad responsable, así como cualquier otro dato que se considere indispensable;
+###### Artículo 14.
 
-V. Llevar un Libro de Actuarios, en el cual se anotarán los datos de identificación de los expedientes que les sean cargados, expresándose la fecha en que la notificación o diligencia debe practicarse, y la fecha en que se realizaron, o en su caso, la causa por la cual no se haya practicado;
+El Consejo Nacional sesionará válidamente con la asistencia, de por lo menos, la mitad más uno de sus miembros.
 
-VI. Llevar un Libro de Turno a Magistrados integrantes de Pleno de Recursos de Inconformidad y de Revisión; así como un Libro de turno de Recursos de Apelación; en los que se anotará el nombre del Magistrado Instructor, número de expediente y fecha en que le es entregado para su substanciación;
+La Secretaría, o quien ésta designe como su suplente, presidirá las sesiones. Asistirán a las sesiones con voz, pero sin voto, la Dirección General, la Secretaría Técnica del Consejo, la Prosecretaría y las Comisarías.
 
-VII. Llevar un Libro de Engroses, en el que se anotará número de expediente, Magistrado ponente, fecha de sesión en que se rechazó el proyecto, Magistrado encargado del engrose y fecha de la sesión de resolución en que se sometió a consideración el nuevo proyecto;
+Las resoluciones se tomarán por mayoría de votos de las Personas Consejeras participantes. En caso de empate, la Presidencia tendrá voto de calidad. Todos los acuerdos tomados en las sesiones serán numerados y asentados en las actas, que deberán firmar tanto la Presidencia como la Secretaría Técnica, quien dará fe.
 
-VIII. Llevar un libro de Turno a las Salas del Tribunal, y entregar los expedientes al Presidente del mismo para que los turne a la Sala que corresponda;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-IX. Llevar los demás libros y control de documentos que se consideren necesarios para el buen funcionamiento del Tribunal;
+### Capítulo Tercero. DE LA ESTRUCTURA ORGANICA
 
-X. Vigilar y supervisar el funcionamiento de la Oficialía de Partes, del Archivo Jurisdiccional y de la Unidad de Información, Documentación y Estadística;
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-XI. Informar a los Magistrados integrantes del Pleno los datos generales de los Recursos recibidos en la Oficialía de Partes Común, y a las Salas los datos de las denuncias y quejas recibidas;
+###### Artículo 15.
 
-XII. Expedir copias certificadas de los documentos y actuaciones del Tribunal, y hacer constar sobre los que obren en sus archivos;
+El Instituto, contará con la siguiente estructura orgánica:
 
-XIII. Autorizar con su firma las actuaciones de los Magistrados integrantes del Pleno en la substanciación de los recursos;
+I. Dirección General;
 
-XIV. Vigilar que los expedientes jurisdiccionales o administrativos competencia del Pleno se encuentren debidamente firmados, foliados y sellados;
+II. Coordinación General de Políticas Lingüísticas;
 
-XV. Vigilar el cumplimiento de las sentencias dictadas por el Pleno y dar cuenta al Presidente, en caso de incumplimiento, y
+III. Coordinación General de Concertación;
 
-XVI. Las demás que le encomiende el Pleno y el Presidente del Tribunal.
+IV. Unidad de Desarrollo Lingüístico Comunitario;
 
-### CAPÍTULO III. DEL PRESIDENTE
+V. Unidad de Profesionalización en Lenguas Indígenas Nacionales;
 
-###### ARTÍCULO 18.
+VI. Unidad de Institucionalización de las Lenguas Indígenas Nacionales;
 
-Para el ejercicio de las funciones del Pleno, los Magistrados contarán con el apoyo de por los (sic) menos dos Secretarios cada uno, cuyo número podrá incrementarse en caso de ser necesario.
+VII. Unidad de Asuntos Jurídicos;
 
-###### ARTÍCULO 19.
+VIII. Unidad de Comunicación Social, y
 
-Los Secretarios de Estudio y Cuenta adscritos a los Magistrados integrantes del Pleno tendrán las funciones siguientes:
+IX. Unidad de Administración y Finanzas.
 
-I. Asistir al Magistrado en la revisión del cumplimiento de los requisitos y presupuestos legales de los medios de impugnación, que le sean turnados;
+El Instituto contará con una Oficina de Representación adscrita al Órgano Interno de Control en la Secretaría de Cultura, que se regirá conforme a lo dispuesto en el capítulo séptimo del presente Estatuto.
 
-II. Asistir al Magistrado en la formulación de autos de requerimiento, reserva, admisión, cierre de instrucción y demás necesarios para la substanciación de los Medios de impugnación;
+El Instituto contará además con las áreas, cargos y personal que determine la Dirección General, de conformidad con las disposiciones aplicables.
 
-III. Asistir al Magistrado en la preparación y desahogo de las pruebas, así como la práctica de diligencias para la debida integración de los expedientes;
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-IV. Asistir al Magistrado en la elaboración de proyectos de sentencia de fondo, de auto de desechamiento y resolución de sobreseimiento de los asuntos turnados;
+###### Artículo 16.
 
-V. Dar cuenta en la Sesión Pública de los proyectos de resolución del Magistrado de su adscripción que estén comprendidos en el orden del día;
+Las Coordinaciones Generales, acordarán con la Dirección General el despacho de los asuntos de las unidades a ellas adscritas.
 
-VI. Auxiliar en el engrose de las resoluciones correspondientes;
+Las unidades a que se refiere el artículo 15 de este Estatuto, se adscriben de conformidad con lo siguiente:
 
-VII. Revisar que los expedientes estén debidamente firmados, foliados y sellados;
+I. A la Dirección General, la Unidad de Administración y Finanzas;
 
-VIII. Realizar actividades relacionadas con la capacitación, investigación y difusión académica en materia electoral; y,
+II. A la Coordinación General de Políticas Lingüísticas: las unidades de Desarrollo Lingüístico Comunitario, Profesionalización en Lenguas Indígenas Nacionales y de Institucionalización de las Lenguas Indígenas Nacionales:
 
-IX. Cumplir las demás tareas que les encomienden el Magistrado al cual están adscritos, o cualquiera de los que se encuentren en funciones.
+III. A la Coordinación General de Concertación: las unidades de Asuntos Jurídicos y la de Comunicación Social.
 
-###### ARTÍCULO 20.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-Los Secretarios de Estudio y Cuenta de las Salas, tendrán las siguientes atribuciones:
+###### Artículo 17.
 
-I. Asistir al Magistrado de la Sala en la revisión del cumplimiento de los requisitos y presupuestos legales de las quejas y denuncias que le sean turnados;
+Las Unidades Administrativas del Instituto privilegiarán el uso de medios electrónicos para la realización de sus actividades y la emisión de documentos bajo un enfoque sustentable.
 
-II. Asistir al Magistrado en la formulación de autos de requerimiento y demás acuerdos necesarios para la substanciación de las quejas y denuncias;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-III. Asistir al Magistrado en la preparación y desahogo de las pruebas, así como en la práctica de diligencias para la debida integración de los expedientes;
+### Capítulo Cuarto. DE LA DIRECCION GENERAL
 
-IV. Asistir al Magistrado en la elaboración de proyectos de sentencia de fondo de los asuntos turnados;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-V. Realizar actividades relacionadas con la capacitación, investigación y difusión académica en materia electoral; y,
+###### Artículo 18.
 
-VI. Cumplir las demás tareas que les encomienden el Magistrado al cual están adscritos, o cualquiera de los que se encuentren en funciones.
+La Dirección General será designada por la persona titular de la Presidencia de la República a propuesta de una terna presentada por el Consejo Nacional y podrá permanecer en el cargo por un período máximo de seis años, al término de los cuales será sustituido conforme al mismo procedimiento.
 
-### CAPÍTULO IV. DE LOS MAGISTRADOS
+En cada ocasión, el Consejo Nacional determinará con la debida oportunidad los tiempos, procedimientos, requisitos y criterios para la integración de la terna, considerando lo establecido en el último párrafo del artículo 16 de la Ley, así como en los artículos 21 de la Ley Federal de las Entidades Paraestatales y 14 de su Reglamento.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-El Primer Secretario de Estudio y Cuenta de cada Sala, además de las atribuciones señaladas en el artículo anterior, tendrá las siguientes:
+###### Artículo 19.
 
-I. Firmar, junto con el Magistrado al que se encuentre adscrito, las resoluciones y actuaciones de la Sala;
+La Dirección General tendrá la representación legal del Instituto, así como el trámite y resolución de los asuntos que le competen.
 
-II. Dar cuenta al Magistrado sobre las promociones y estado de trámite de los expedientes turnados a la Sala;
+Para la mejor organización del trabajo, podrá delegar facultades en personas servidoras públicas subalternas en el nivel jerárquico inmediato inferior, sin perjuicio de su ejercicio directo, salvo aquellas que las disposiciones jurídicas señalen como indelegables.
 
-III. Verificar que las notificaciones de los acuerdos y resoluciones de la Sala se hagan en tiempo y forma;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-IV. Expedir las constancias o certificaciones de los asuntos de la Sala correspondiente;
+###### Artículo 20.
 
-V. Revisar que los expedientes estén debidamente firmados, foliados y sellados;
+Son facultades indelegables de la Dirección General:
 
-VI. Llevar el control de los libros a que se refiere el artículo 13 del presente Reglamento;
+I. Establecer las políticas del Instituto, de conformidad con la normativa aplicable;
 
-VII. Vigilar el cumplimiento de las sentencias dictadas por la Sala y dar cuenta al Magistrado en caso de incumplimiento;
+II. Otorgar, revocar y sustituir poderes para representar al Instituto ante autoridades jurisdiccionales y administrativas, incluido el Ministerio Público, así como para la celebración de convenios o contratos;
 
-VIII. Publicar en los estrados del Tribunal, la cédula correspondiente, cuando se presente un Recurso de Apelación en contra de la resolución de la Sala a la que se encuentre adscrito;
+III. Asistir e informar al Consejo Nacional las actividades del Instituto;
 
-IX. Asistir al Magistrado en la formulación y firma del informe circunstanciado;
+IV. Nombrar y remover al personal de confianza del Instituto, conforme a la normativa aplicable;
 
-X. Participar en el sorteo de expedientes a que se refiere el artículo 50 de este Reglamento, y
+V. Disponer la creación, modificación o supresión de órganos colegiados internos y unidades administrativas del Instituto, de conformidad con la normativa aplicable;
 
-XI. Las demás que le encomiende el Magistrado de la Sala.
+VI. De conformidad con el presupuesto aprobado, establecer proyectos específicos y grupos de trabajo;
 
-###### ARTÍCULO 22.
+VII. Emitir, previa validación de la Unidad Administrativa competente, las constancias, certificados o reconocimientos, conforme a la normativa aplicable, por las labores en favor de las lenguas indígenas del país, y (sic)
 
-Los Actuarios del Pleno tendrán las funciones siguientes:
+VIII. Acordar con la persona titular de la Secretaría los asuntos de competencia del Instituto, cuando así se requiera.
 
-I. Recibir del Secretario General de Acuerdos, las actuaciones recaídas en los expedientes para la elaboración de los documentos necesarios para la realización de las notificaciones, y de las diligencias que deban practicarse, firmando el libro respectivo;
+IX. Las demás que le confieran el presente Estatuto y los demás ordenamientos aplicables.
 
-II. Efectuar las notificaciones en el tiempo y la forma prescritos en la ley, y en el presente Reglamento;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-III. Practicar las diligencias que les sean encomendadas fuera del recinto del Tribunal;
+### Capítulo Quinto. DE LAS COORDINACIONES GENERALES
 
-IV. Devolver al Secretario General de Acuerdos, debidamente diligenciados, los expedientes que les sean turnados, y
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-V. Las demás que les encomienden el Presidente, Magistrados Instructores y Secretario General de Acuerdos.
+###### Artículo 21.
 
-###### ARTÍCULO 23.
+Corresponde a las Coordinaciones Generales, las siguientes atribuciones genéricas:
 
-Los Actuarios tienen fe pública respecto de las diligencias y notificaciones que practiquen en los expedientes que se les hayan turnado.
+I. Conducir las acciones de las unidades bajo su adscripción y supervisar que su operación se lleve a cabo de conformidad con la normativa aplicable que correspondan a su competencia;
 
-### CAPÍTULO V. DE LAS SALAS DEL TRIBUNAL
+II. Coordinar en las unidades a su cargo, las estrategias, programas y políticas necesarias para alcanzar los objetivos y metas institucionales;
 
-###### ARTÍCULO 24.
+III. Supervisar y dar seguimiento a la implementación de lineamientos y criterios para la planeación y evaluación de los programas, proyectos y acciones operados por las unidades a su cargo;
 
-Los Actuarios de las Salas tendrán las funciones siguientes:
+IV. Acordar con la Dirección General el despacho de los asuntos encomendados a las unidades bajo su adscripción, e informarle oportunamente sobre los mismos;
 
-I. Recibir del Primer Secretario de Estudio y Cuenta de su sala de adscripción, las actuaciones recaídas en los expedientes para la elaboración de los documentos necesarios para la realización de las notificaciones y de las diligencias que deban practicarse, firmando el libro respectivo;
+V. Proponer a la Dirección General los documentos, proyectos, estudios y demás propuestas que elaboren las unidades a su cargo;
 
-II. Efectuar las notificaciones en el tiempo y la forma prescritos en la ley, y en el presente Reglamento;
+VI. Proponer a la Dirección General la firma de convenios y demás instrumentos jurídicos, dentro de sus respectivos ámbitos de competencia;
 
-III. Practicar las diligencias que les sean encomendadas fuera del recinto del Tribunal;
+VII. Dar a conocer y verificar que las unidades bajo su adscripción, den cumplimiento a los ordenamientos jurídicos, las resoluciones y acuerdos de la Dirección General y los que emitan en ejercicio de sus atribuciones;
 
-IV. Devolver al Primer Secretario de Estudio y Cuenta, debidamente diligenciados, los expedientes que les sean turnados, y
+VIII. Establecer las medidas necesarias para dar seguimiento a los asuntos de su competencia e informar oportunamente a la Dirección General,
 
-V. Las demás que les encomienden el Presidente, Magistrados y Primer Secretario de Estudio y Cuenta de la Sala de su adscripción.
+IX. Autorizar las actas administrativas para la imposición de sanciones de carácter laboral a las que el personal de la Institución se haga acreedor; las cuales deberán ser presentadas ante la persona titular de la Unidad de Asuntos Jurídicos para su dictaminación;
 
-###### ARTÍCULO 25.
+X. Fijar las medidas para la promoción, coordinación y colaboración con los tres poderes, los tres órdenes de gobierno y con organismos e instituciones del sector privado y social, para lograr los fines que establece la Ley para el Instituto;
 
-Los Actuarios de las Salas tienen fe pública respecto de las diligencias y notificaciones que practiquen en los expedientes que se les hayan turnado.
+XI. Expedir copias certificadas de expedientes y documentos a cargo de las unidades bajo su adscripción;
 
-### CAPÍTULO IX. DE LA OFICIALÍA DE PARTES COMUN
+XII. Autorizar los programas de capacitación que presenten, en el ámbito de su competencia, las unidades bajo su adscripción y proponerlos a la Unidad de Administración y Finanzas para su incorporación en los programas de capacitación del Instituto y, en su caso, participar en su desarrollo;
 
-###### ARTÍCULO 26.
+XIII. Conducir las acciones necesarias para que las unidades a su cargo proporcionen la información sobre los avances en la ejecución de los programas, conforme a la normativa aplicable a la Unidad de Administración y Finanzas;
 
-El Tribunal contará con una Oficialía de Partes Común, que estará a cargo de un titular, quien contará con el personal necesario para el cumplimiento de sus funciones y la cual quedará bajo el control y vigilancia del Secretario General de Acuerdos.
+XIV. Promover la coordinación y colaboración entre las áreas a su cargo, así como establecer grupos de trabajo y designar responsables y enlaces para el desarrollo de proyectos;
 
-###### ARTÍCULO 27.
+XV. Las demás que les confieran el presente Estatuto, otros ordenamientos jurídicos y la Dirección General.
 
-El Oficial de Partes desempeñará las funciones siguientes:
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-I. Recibir la documentación dirigida tanto al Pleno como a las Salas, sea de carácter administrativo o jurisdiccional, asentando en el original y en la copia correspondiente, mediante reloj fechador y sello oficial que corresponda, la fecha y la hora de su recepción, el número de fojas que integren el documento, las copias que se agreguen al original y, en su caso, precisión del número de anexos que se acompañen, así como su nombre y firma;
+###### Artículo 22.
 
-II. Llevar los libros de registro de correspondencia y promociones recibidas del Pleno en donde se asiente la información relativa a la fecha y hora de recepción, datos del remitente, asunto o descripción del documento o pieza postal y nombre del destinatario, consignando la fecha y firma de recepción. Llevar el libro de promociones de Sala, y el de correspondencia en caso de comisión expresa por parte del Magistrado de la Sala;
+Son atribuciones de la Coordinación General de Políticas Lingüísticas:
 
-III. Verificar que las promociones y escritos estén debidamente sellados;
+I. Coordinar, supervisar y validar el diseño de estrategias e instrumentos elaborados por las distintas áreas del instituto para el uso, fortalecimiento, enseñanza y desarrollo de las lenguas indígenas nacionales, en coordinación con los pueblos y comunidades indígenas del país, los tres órdenes de gobierno, los organismos autónomos, así como el sector privado y social;
 
-IV. Turnar la documentación conforme a las disposiciones del manual respectivo;
+II. Orientar programas, proyectos y acciones para vigorizar el conocimiento, respeto y promoción de las culturas y lenguas indígenas nacionales por parte de la sociedad nacional;
 
-V. Despachar la documentación una vez verificados los requisitos que debe contener el documento conforme al manual respectivo;
+III. Supervisar y validar el establecimiento de estrategias para impulsar y estimular el uso y enseñanza de las lenguas indígenas nacionales en los ámbitos familiar, comunitario y regional de los hablantes para la rehabilitación lingüística;
 
-VI. Llevar los libros, registros y minutarios que se consideren indispensables para el mejor control de la documentación recibida y despachada;
+IV. Coordinar el diseño de políticas lingüísticas, estrategias y mecanismos para propiciar en las instituciones públicas la atención a la población indígena con pertinencia lingüística y cultural, garantizando sus derechos lingüísticos;
 
-VII. Proporcionar oportunamente a los Magistrados, Secretario General de Acuerdos, Primer Secretario de Estudio y Cuenta de las Salas y Actuarios, la información que requieran, para la debida substanciación y resolución de los expedientes;
+V. Expedir los lineamientos y propiciar la corresponsabilidad interinstitucional para impulsar procesos de formación, capacitación, actualización, evaluación y certificación de traductores, intérpretes o capacitadores profesionales de lengua indígena;
 
-VIII. Rendir los informes que soliciten el Presidente, Magistrados, Secretario General de Acuerdos y Primer Secretario de Estudio y Cuenta de las Salas, en el ámbito de sus respectivas competencias;
+VI. Impulsar la vinculación con instituciones académicas y organismos civiles, para la formación de especialistas en lenguas indígenas nacionales en programas de licenciatura, posgrado, cursos de especialización de profesionales en lenguas indígenas, actualización y capacitación;
 
-IX. Auxiliar al Secretario General de Acuerdos en la actualización del manual de procedimientos de la Oficialía de Partes Común, y
+VII. Supervisar y validar la realización de convocatorias para impulsar proyectos de desarrollo lingüístico y literario en lenguas indígenas nacionales;
 
-X. Las demás que le sean ordenadas por el Presidente, Magistrados, Secretario General de Acuerdos y Primer Secretario de Estudio y Cuenta de las Salas.
+VIII. Orientar y supervisar la realización de seminarios, conferencias, congresos, coloquios y todo tipo de foros de discusión y análisis sobre las lenguas indígenas nacionales realizadas o promovidas por el Instituto;
 
-###### ARTÍCULO 28.
+IX. Coordinar y supervisar los procesos de normalización de la escritura de las lenguas indígenas nacionales y la generación de recursos lingüísticos, como parte de los procesos de planificación lingüística de los pueblos indígenas;
 
-En año no electoral el Secretario General de Acuerdos podrá recibir en su domicilio particular después de haber concluido las labores del Tribunal, documentación relativa a medios de impugnación. En el escrito original de demanda y en la copia del recurrente, deberá asentarse al margen la razón de la fecha y hora de presentación, expresando las fojas que contenga y describiendo los anexos que se acompañan, así como nombre y firma del Secretario.
+X. Coordinar y supervisar las acciones para impulsar, orientar y fomentar la investigación lingüística aplicada de las lenguas indígenas nacionales y su dinámica sociolingüística, en vinculación con instituciones de educación superior, centros de investigación y academias, entre otros;
 
-La documentación recibida deberá ser entregada a la Oficialía de Partes Común al siguiente día hábil para efectos del registro correspondiente y deberá dar cuenta de inmediato al Magistrado Presidente.
+XI. Fungir como vínculo con el Instituto Nacional de Estadística y Geografía, en los trabajos tendientes a la realización de censos sociolingüísticos;
 
-La misma atribución tendrá en año no electoral, el Primer Secretario de Estudio y Cuenta de Sala, para efectos de recibir documentación relativa a Recursos de Apelación interpuestos en contra de las sentencias dictadas por la Sala al que se encuentre adscrito, debiendo dar cuenta de inmediato al Magistrado de Sala.
+XII. Supervisar y orientar la recopilación y procesamiento de la información estadística sobre lenguas indígenas nacionales para atender necesidades internas y de asesoría externa;
 
-### CAPÍTULO X. DEL ARCHIVO JURISDICCIONAL
+XIII. Supervisar la integración del acervo bibliográfico, fonográfico, audiovisual y digital del Instituto y el funcionamiento del Centro de Documentación del Instituto.
 
-###### ARTÍCULO 29.
+XIV. Determinar y coordinar la implementación de las herramientas tecnológicas necesarias para almacenar, documentar y estudiar, así como difundir las lenguas indígenas nacionales;
 
-El Tribunal tendrá un Archivo Jurisdiccional que dependerá de la Secretaría General de Acuerdos. Estará a cargo de un Jefe y el personal necesario para el cumplimiento de sus funciones.
+XV. Proponer a la Coordinación General de Concertación, la realización de campañas específicas de enseñanza, divulgación y orientación a través de los medios de comunicación, así como acordar las acciones de información y difusión de los programas institucionales.
 
-###### ARTÍCULO 30.
+XVI. Revisar y, en su caso, aprobar el anteproyecto de actualización del Catálogo de las Lenguas Indígenas Nacionales
 
-El Jefe del Archivo Jurisdiccional, tendrá las atribuciones siguientes:
+XVII. Supervisar y evaluar la actualización del contenido del Padrón Nacional de Intérpretes y Traductores en Lenguas Indígenas.
 
-I. Inventariar y conservar los expedientes jurisdiccionales tanto del Pleno como de las Salas, durante el plazo legal correspondiente;
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-II. Llevar el archivo por orden numérico en las áreas y secciones que corresponda conforme al manual respectivo;
+###### Artículo 23.
 
-III. Revisar que los expedientes estén debidamente firmados, foliados y sellados;
+Son atribuciones de la Coordinación General de Concertación:
 
-IV. Auxiliar al Secretario General de Acuerdos en el engrose de los expedientes;
+I. Establecer, previo acuerdo con la Dirección General, la política de comunicación social del Instituto, de conformidad con la normatividad aplicable;
 
-V. Auxiliar al Secretario General de Acuerdos en la actualización del manual de procedimientos del Archivo Jurisdiccional;
+II. Conducir las actividades de promoción, difusión y comunicación en favor del fortalecimiento, preservación y desarrollo de las lenguas indígenas nacionales;
 
-VI. Hacer del conocimiento del Secretario General de Acuerdos, cualquier defecto o irregularidad que advierta en los expedientes o documentos que reciba para su archivo, a fin de que se determine lo procedente;
+III. Disponer la aplicación de los lineamientos que establece el Gobierno Federal en materia de imagen institucional por conducto del área de Comunicación Social;
 
-VII. Informar permanentemente al Secretario General de Acuerdos, sobre las tareas que le sean asignadas en el desahogo de los asuntos de su competencia;
+IV. Conducir las actividades de recopilación, análisis, procesamiento y seguimiento de actividades e información nacional e internacional en materia de Derechos Humanos y los referentes a las actividades del Instituto.
 
-VIII. Dictar todas las medidas que juzgue convenientes para el registro, resguardo y consulta de los expedientes;
+V. Determinar las medidas para que la producción de materiales informativos y de difusión que realice el Instituto, contribuyan al fortalecimiento, preservación y desarrollo de las lenguas indígenas nacionales;
 
-IX. Presentar al Secretario General de Acuerdos, dentro del primer trimestre del año, un informe de los expedientes que proceda su envío al archivo jurisdiccional del Poder Judicial, en los términos del presente reglamento, del Reglamento de Administración Documental del Poder Judicial, y del manual de archivo respectivo, y
+VI. Fungir como conducto institucional ante la Secretaría de Gobernación a efecto de atender los requerimientos solicitados al Instituto;
 
-X. Las demás que le encomienden el Presidente, el Secretario General de Acuerdos y Primer Secretario de Estudio y Cuenta de las Salas.
+VII. Conducir las comparecencias y presentaciones de la Dirección General ante las diversas instancias del Congreso de la Unión;
 
-### CAPÍTULO VI. DEL SECRETARIO GENERAL DE ACUERDOS
+VIII. Determinar las medidas de supervisión para la atención de los asuntos relacionados con la Comisión Nacional de Mejora Regulatoria;
 
-###### ARTÍCULO 31.
+IX. Conducir la preparación y organización de reuniones con los poderes legislativos, Federal y Local y aprobar el material documental para las reuniones con los legisladores;
 
-Los expedientes de los recursos interpuestos, y de las denuncias y quejas tramitadas en las Salas, podrán ser consultados por las personas autorizadas para tal efecto; únicamente se expedirá copias simples o certificadas a quienes tengan reconocida su calidad de partes. Concluido el proceso electoral que corresponda, cualquier interesado estará en posibilidad de consultar en los expedientes las resoluciones dictadas por el Pleno del Tribunal, y los de las Salas, una vez que hayan causado ejecutoria.
+X. Determinar las medidas de supervisión en el seguimiento a los acuerdos de las reuniones con los poderes legislativos, federales y locales;
 
-###### ARTÍCULO 32.
+XI. Determinar las medidas de supervisión en el desahogo de consultas jurídicas relacionadas con las actividades del Instituto;
 
-El Tribunal deberá conservar en su Archivo Jurisdiccional los expedientes de los asuntos concluidos tanto de Pleno como de Salas, durante dos años; y transcurrido ese plazo los remitirá al Archivo del Poder Judicial del Estado dejando copias de los que requiera.
+XII. Conducir la formulación y revisión de los proyectos de iniciativas de leyes o decretos, así como de los reglamentos, decretos, acuerdos y demás disposiciones de observancia general en las materias competencia del Instituto;
 
-### CAPÍTULO XI. DEL CONSEJO EDITORIAL
+XIII. En el ámbito de su competencia, ejercer las más amplias facultades de administración y pleitos y cobranzas, aun de aquellas que requieren autorización especial, según otras disposiciones legales o reglamentarias, en los términos de los dos primeros párrafos del artículo 2554 del Código Civil Federal;
 
-###### ARTÍCULO 33.
+XIV. Conducir la aplicación de los criterios y lineamientos jurídicos a que deben sujetarse los instrumentos consensuales en los que el Instituto sea parte o incida sobre sus obligaciones, atribuciones o competencia;
 
-El Consejo Editorial es el órgano consultivo del Tribunal, integrado por los Magistrados Numerarios y el Secretario General de Acuerdos, que se encargará de analizar, opinar y en su caso, aprobar las publicaciones oficiales y especializadas que se elaboren para la difusión de las actividades jurisdiccionales, académicas o de investigación.
+XV. Proponer y conducir los asuntos de interés del Instituto con los tres poderes y los tres órdenes de gobierno y con los organismos e instituciones de los sectores privado y social sobre las materias de interés que sean competencia del Instituto;
 
-###### ARTÍCULO 34.
+XVI. Fungir como titular de la Unidad de Transparencia de conformidad con la normatividad aplicable, y;
 
-Et Comité Editorial tendrá las siguientes funciones:
+XVII. Conducir la formulación y revisión de las recomendaciones y medidas pertinentes para garantizar la preservación y desarrollo de las lenguas indígenas nacionales, a los tres poderes, tres órdenes de gobierno, y órganos autónomos para el respeto de los derechos lingüísticos.
 
-I. Aprobar las publicaciones señaladas en el artículo anterior;
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE MAYO DE 2025)</small>
 
-II. Supervisar el diseño, preparación y edición de las publicaciones del Tribunal;
+### Capítulo Sexto. DE LAS UNIDADES
 
-III. Tramitar por conducto del Presidente del Tribunal lo relativo al registro de las publicaciones y de la reserva de derechos, en su caso, y
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-IV. Las demás que acuerde el Pleno.
+###### Artículo 24.
 
-Tanto el Presidente del Tribunal como los Magistrados podrán someter a consideración del Comité Editorial los proyectos de publicaciones.
+Corresponden a las unidades las siguientes atribuciones genéricas:
 
-Las sesiones de trabajo se llevarán a cabo, previa convocatoria del Presidente del Tribunal.
+I. Auxiliar, en el ámbito de sus competencias, a la Dirección General y las Coordinaciones Generales a las que estén adscritas, en los asuntos que les sean encomendados;
 
-### CAPÍTULO XII. DE LA UNIDAD DE INFORMACIÓN, DOCUMENTACIÓN Y ESTADISTICA
+II. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las labores encomendadas a su cargo;
 
-###### ARTÍCULO 35.
+III. Colaborar con las autoridades y organismos competentes en el desarrollo de las actividades y programas para el reconocimiento y protección de los derechos lingüísticos, individuales y colectivos de los pueblos y comunidades indígenas, así como la promoción del uso y desarrollo de las lenguas indígenas nacionales;
 
-El Tribunal contará con una Unidad de Información, Documentación y Estadística adscrita a la Secretaría General de Acuerdos, que apoyará a todas las áreas del Tribunal, en la compilación, sistematización y publicación de la información documental y estadística generada por el Tribunal; coadyuvando a la optimización de los procesos y al mejor cumplimiento de los fines institucionales.
+IV. Acordar con la Dirección General o con las Coordinaciones Generales a la que se encuentren adscritas la resolución de los asuntos de su competencia;
 
-###### ARTÍCULO 36.
+V. Emitir los dictámenes, opiniones e informes que les sean solicitados por la Dirección General y sus Coordinaciones Generales;
 
-Son funciones de la Unidad de Información, Documentación y Estadística, las siguientes:
+VI. Formular los proyectos de programas y de presupuesto de su competencia;
 
-I. Clasificar y capturar los datos cuantitativos que provengan de los expedientes sustanciados y resueltos por el Peno y las Salas del Tribunal;
+VII. Realizar, conforme al ámbito de competencia y en los términos de lo dispuesto por la normativa aplicable, todas las acciones necesarias para el cumplimiento de sus atribuciones;
 
-II. Operar el sistema computarizado de control de los medios de impugnación presentados y expedientes de quejas y denuncias remitidos al Tribunal;
+VIII. Notificar a quien corresponda los acuerdos de trámite, las resoluciones o acuerdos que se emitan con fundamento en las atribuciones que les correspondan;
 
-III. Registrar y clasificar los criterios obligatorios sustentados en las resoluciones del Pleno del Tribunal para su debida compilación, sistematización y publicación;
+IX. Proporcionar la información, datos y asesoría que les sea requerida por la Dirección General o las Coordinaciones Generales;
 
-IV. Administrar de manera permanente la página electrónica del Tribunal y diseñar los espacios virtuales necesarios para dar a conocer las actividades de Difusión y Capacitación del Tribunal;
+X. Mantener informada a la Dirección General y las Coordinaciones Generales a las que se encuentren adscritos acerca de sus funciones, e informar en tiempo y forma, del avance de los proyectos que operan;
 
-V. Atender los requerimientos de información del Sistema Nacional de Consulta Jurisprudencial del Tribunal Electoral del Poder Judicial de la Federación y los tribunales electorales estatales;
+XI. Mantener comunicación y coordinación con las demás unidades del Instituto para el desarrollo de sus funciones;
 
-VI. Operar y administrar los sistemas informáticos de estadística que se requieran para el control de los medios de impugnación competencia del Pleno y de los expedientes tramitados en las Salas del Tribunal;
+XII. Asesorar y colaborar, en el ámbito de sus atribuciones, con las diferentes áreas del instituto para el cumplimiento de sus funciones;
 
-VII. Apoyar a todas las áreas del Tribunal en el procesamiento adecuado de la información;
+XIII. Coordinar al personal adscrito a su área, conforme a las necesidades operativas del área y en apego a la normatividad aplicable;
 
-VIII. Poner a disposición de los Magistrados, y demás personal del Tribunal, un servicio de consulta de información y documentación especializada en materia jurídica y político-electoral;
+XIV. Formular actas administrativas para la imposición de sanciones de carácter laboral a las que se haga acreedor el personal adscrito a su unidad; las cuales deberán ser presentadas ante la Unidad de Asuntos Jurídicos para su dictaminación,
 
-IX. Administrar la Biblioteca del Tribunal, buscando actualizar, incrementar y vigilar el acervo documental;
+XV. Emitir copias certificadas de los documentos que obren en sus archivos;
 
-X. Apoyar en la elaboración de material didáctico y de difusión, digitalización de imágenes y textos, así como de presentaciones gráficas relacionadas con la organización y el funcionamiento del Tribunal;
+XVI. Proponer, previo acuerdo con la Coordinación General de adscripción, los proyectos de convenios, contratos y en general cualquier instrumento jurídico que celebre el Instituto, con los sectores público, privado y social, nacionales e internacionales.
 
-XI. Rendir los informes que le sean requeridos por el Pleno, Magistrados del Tribunal y Secretario General de Acuerdos, y
+XVII. Las demás que les confieran las disposiciones legales, administrativas, el Manual de Organización y los Manuales de Procedimientos, así como las que encomiende la Dirección General o la Coordinación General a la que se encuentren adscritas.
 
-XII. Las demás que le encomienden el Presidente o el Secretario General de Acuerdos.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 37.
+###### Artículo 25.
 
-La Unidad de Información, Documentación y Estadística, se integrará por un titular y el personal técnico y administrativo que permita el presupuesto.
+Son atribuciones de la Unidad de Desarrollo Lingüístico Comunitario:
 
-###### ARTÍCULO 38.
+I. Realizar y promover la investigación lingüística básica y aplicada a los procesos de desarrollo y planificación lingüística en coordinación con los tres órdenes de gobierno, así como autoridades e instituciones de los ámbitos regional y comunitario;
 
-Para ser titular de la Unidad de Información, Documentación y Estadística del Tribunal, deberán cumplirse los siguientes requisitos:
+II. Organizar la integración del acervo bibliográfico, fonográfico y audiovisual del Instituto como Centro de Documentación;
 
-I. Estar inscrito en el Padrón Electoral y contar con credencial para votar expedida por la autoridad electoral federal;
+III. Elaborar, dirigir, y asesorar en coordinación con los pueblos y comunidades indígenas, académicos estudiosos de la lengua, y las instituciones de educación, el programa de normalización lingüística de la escritura de las lenguas indígenas nacionales, así como la generación de recursos lingüísticos entre los cuales se incluyen, de manera enunciativa mas no limitativa, alfabetos, diccionarios gramáticas generales y pedagógicas, vocabularios generales y especializados, entre otros materiales;
 
-II. Tener título de Licenciado en Sistemas, Programador Analista, Técnico en Computación o carrera afín para el desempeño de las funciones del cargo;
+IV. Impulsar en coordinación con las comunidades hablantes de lenguas indígenas nacionales e instituciones académicas, la documentación y accesibilidad a través de plataformas electrónicas de dichas lenguas;
 
-III. Haber cumplido por lo menos veinticinco años de edad al día de la designación;
+V. Coordinarse con las unidades del Instituto, los tres órdenes de gobierno, instituciones de educación superior, centros de investigación, academias y organizaciones comunitarias entre otros, para asesorar en torno a proyectos de investigación sobre las lenguas indígenas;
 
-IV. No haber sido postulado o registrado a cargos de elección popular;
+VI. Asesorar a los pueblos y comunidades indígenas en la investigación, el diseño, implementación y evaluación de programas de planificación lingüística comunitaria para la documentación, revitalización, uso, fortalecimiento y desarrollo de sus lenguas;
 
-V. Gozar de buena reputación, y
+VII. Establecer relaciones académicas con la comunidad científica nacional y extranjera que desarrolla investigaciones afines a los propósitos del Instituto, para organizar, coorganizar y desarrollar seminarios, conferencias, congresos, coloquios y otros eventos de discusión, investigación y análisis sobre las lenguas indígenas nacionales e impulsar la sistematización y difusión de los resultados;
 
-VI. No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
+VIII. Proponer la adquisición e implementar las herramientas tecnológicas aplicadas tanto a la investigación lingüística como a la promoción, enseñanza, aprendizaje y uso social de las lenguas indígenas nacionales, así como almacenar, documentar y difundir las mismas;
 
-### CAPÍTULO XIII. DE LA UNIDAD DE TRANSPARENCIA
+IX Satisfacer las necesidades de información de las unidades respectivas en torno a las lenguas indígenas nacionales;
 
-###### ARTÍCULO 39.
+X. Dictaminar las traducciones del Himno Nacional Mexicano a las lenguas indígenas nacionales solicitadas por la Secretaría de Gobernación, conforme la normativa aplicable;
 
-La Unidad de Transparencia se integrará y desempeñará las atribuciones que le confiere el Reglamento de Acceso a la Información Pública del Tribunal, para efectos de dar cumplimiento a las obligaciones conferidas al Tribunal por la Ley de Acceso a la Información Pública del Estado de Baja California.
+XI. Procesar información estadística y de geolocalización de lenguas indígenas nacionales en bases de datos y cartografías;
 
-## TÍTULO TERCERO. DE LA ADMINISTRACIÓN DEL TRIBUNAL
+XII. Sistematizar y analizar la información que permita actualizar el Catálogo de las Lenguas Indígenas Nacionales;
 
-### CAPÍTULO I. DE LA COMISIÓN DE ADMINISTRACIÓN
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-### CAPÍTULO VII. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA
+###### Artículo 26.
 
-###### ARTÍCULO 40.
+Son atribuciones de la Unidad de Profesionalización en Lenguas Indígenas Nacionales:
 
-La Comisión de Administración, órgano auxiliar del Tribunal, quedará integrada por los Magistrados del mismo, y dos Consejeros de la Judicatura del Estado a quienes se les denominará Comisionados. Dicha comisión se encargará de manera general de la administración, vigilancia, disciplina y carrera judicial de su personal.
+I. Proponer los lineamientos y mecanismos que sirvan para regular la formación, capacitación, evaluación, acreditación y certificación de agentes en lenguas indígenas nacionales;
 
-El Presidente del Tribunal, lo será también de la Comisión de Administración en los términos indicados en el artículo 259 de la Ley Orgánica.
+II. Apoyar, promover y asesorar, en corresponsabilidad con los tres órdenes de gobierno, así como autoridades e instituciones de los ámbitos regional y comunitario entre otros, la creación e implementación de instituciones educativas, así como de programas de formación y profesionalización en lenguas indígenas nacionales;
 
-El Coordinador del Órgano Administrativo fungirá como Secretario de la Comisión, y concurrirá a las sesiones con voz pero sin voto.
+III. Establecer mecanismos de coordinación con las dependencias y entidades de la Administración Pública Federal, así como de las instancias de los Poderes Legislativo y Judicial, de los gobiernos de los estados y de los municipios, y de las instituciones y organizaciones sociales y privadas, para la profesionalización en lenguas indígenas nacionales;
 
-###### ARTÍCULO 41.
+IV. Actuar como órgano de consulta y asesoría en materia de profesionalización en lenguas indígenas nacionales;
 
-La Comisión de Administración, ejercerá las atribuciones previstas en los artículos 262 y 263 de la Ley Orgánica, este Reglamento y las demás relativas y aplicables.
+V. Impulsar, en colaboración con las instancias competentes, programas, proyectos y acciones que fortalezcan el uso y enseñanza de las Lenguas Indígenas Nacionales en los diferentes niveles y modalidades educativas, mediante un enfoque multilingüe e intercultural;
 
-###### ARTÍCULO 42.
+VI. Impulsar la formación y capacitación de intérpretes, traductores, mediadores entre otros agentes bilingües para atender las demandas de las dependencias y entidades de la Administración Pública Federal, así como de las instancias de los Poderes Legislativo y Judicial, de los gobiernos de los estados y de los municipios, y de las instituciones y organizaciones sociales y privadas;
 
-La Comisión de Administración, previa convocatoria del Presidente, podrá sesionar válidamente con la presencia de tres de sus integrantes, y emitirá sus resoluciones por unanimidad o por mayoría de votos, en la forma indicada por el artículo 261 de la Ley Orgánica.
+VII. Proponer normas pedagógicas, contenidos, planes, programas de estudio, métodos, materiales y auxiliares didácticos e instrumentos para la profesionalización de lenguas indígenas nacionales;
 
-Todas las sesiones serán privadas, pudiendo ser ordinarias y extraordinarias. Serán ordinarias las que se celebren en los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año y extraordinarias las que se celebren durante meses distintos a los señalados.
+VIII. Diseñar, integrar, operar, evaluar y actualizar el Padrón Nacional de Intérpretes y Traductores en lenguas indígenas nacionales para orientar la atención a las demandas de servicios de interpretación y traducción por parte de las instituciones y organizaciones públicas, sociales y privadas;
 
-### CAPÍTULO II. DEL ÓRGANO ADMINISTRATIVO
+IX. Proponer políticas y lineamientos para la elaboración, adecuación y actualización permanente de programas y materiales educativos para la profesionalización en lenguas indígenas nacionales;
 
-###### ARTÍCULO 43.
+X. Instrumentar el seguimiento y evaluación que garantice la aplicación de los lineamientos y mecanismos para la profesionalización en lenguas indígenas nacionales, en corresponsabilidad con las autoridades competentes;
 
-El Tribunal contará con un Órgano Administrativo que se integrará con un Coordinador y el personal profesional y técnico que sea necesario, para el adecuado ejercicio de sus funciones.
+XI. Certificar y acreditar a agentes bilingües;
 
-###### ARTÍCULO 44.
+XII. Coadyuvar con las instancias de los tres órdenes de gobierno para brindar los servicios de formación, capacitación, evaluación, acreditación y certificación de agentes bilingües mediante su seguimiento y verificación;
 
-El Coordinador del Órgano Administrativo y el personal adscrito a éste, auxiliarán a la Comisión de Administración y ejecutarán sus disposiciones en lo relativo a los recursos humanos, financieros y materiales del Tribunal.
+XIII. Asesorar a las dependencias y entidades de la Administración Pública Federal, así como de las instancias de los Poderes Legislativo y Judicial, de los gobiernos de los estados y de los municipios, y de las instituciones y organizaciones sociales y privadas, para la traducción e interpretación de lenguas indígenas nacionales;
 
-###### ARTÍCULO 45.
+XIV. Promover el acceso al estudio y aprendizaje de (sic) y en las lenguas indígenas nacionales por parte de la sociedad en su conjunto;
 
-El Coordinador del Órgano Administrativo, de manera específica auxiliará a la Comisión de Administración en las tareas concernientes a:
+XV. Diseñar lineamientos para certificar traductores, intérpretes y otros agentes bilingües de lenguas nacionales.
 
-I. Administrar los recursos humanos, materiales y financieros para atender las necesidades del Tribunal, conforme a las políticas, normas y procedimientos establecidos;
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-II. Llevar a cabo las actividades necesarias relacionadas con el reclutamiento, selección, nombramiento y control de personal, en los términos de las normas aplicables;
+###### Artículo 27.
 
-III. Elaborar el anteproyecto anual del presupuesto de egresos del Tribunal;
+Son atribuciones de la Unidad de Institucionalización de las Lenguas Indígenas Nacionales:
 
-IV. Tramitar la adquisición de los bienes y servicios;
+I. Proponer, promover e implementar políticas y mecanismos para la planificación lingüística e institucionalización de las lenguas indígenas nacionales para garantizar el ejercicio de los derechos lingüísticos de la población indígena en el territorio nacional y en el extranjero;
 
-V. Llevar un inventario actualizado de los bienes y vigilar su conservación;
+II. Establecer mecanismos de articulación entre las comunidades indígenas, instituciones públicas, asociaciones y academias, a fin de generar estrategias conjuntas para la revitalización, desarrollo, fortalecimiento y uso público de las lenguas indígenas nacionales;
 
-VI. Integrar, conservar y supervisar el archivo administrativo del Tribunal;
+III. Establecer e implementar estrategias para impulsar, estimular y fortalecer el uso social de las lenguas indígenas nacionales en los ámbitos: nacional, estatal, municipal, regional y comunitario, así como promover su funcionalidad en contextos institucionales;
 
-VII. Establecer los sistemas contables que permitan la correcta aplicación de los recursos asignados;
+IV. Diseñar e implementar estrategias, proyectos y acciones para vigorizar el conocimiento, respeto y promoción de las culturas y lenguas indígenas nacionales en la sociedad nacional;
 
-VIII. Cubrir las remuneraciones y liquidaciones al personal;
+V. Generar materiales para orientar y fortalecer los procesos de planificación lingüística e institucionalización de lenguas indígenas nacionales;
 
-IX. Analizar los estados financieros del Tribunal de acuerdo a los lineamientos que se dicten en la materia;
+VI. Diseñar mecanismos institucionales para garantizar la participación de los pueblos indígenas en los procesos de planificación lingüística para la revitalización, fortalecimiento y desarrollo de sus lenguas;
 
-X. Analizar y evaluar los sistemas y procedimientos de control interno;
+VII. Asesorar a los tres órdenes de gobierno para promover el diseño e implementación de políticas públicas diferenciadas y articuladas en materia de lenguas indígenas nacionales;
 
-XI. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables al Tribunal en el desarrollo de sus actividades, en todo lo relativo al aspecto administrativo, financiero, fiscal y operacional;
+VIII. Apoyar a los tres órdenes de gobierno en el diseño de políticas institucionales que contemplen el uso de las lenguas indígenas nacionales en los trámites y procedimientos oficiales, para proporcionar servicios y para difundir sus programas;
 
-XII. Examinar la asignación y correcta utilización de los recursos financieros, humanos y materiales;
+IX. Diseñar e implementar estrategias para impulsar el conocimiento de la diversidad lingüística y los derechos lingüísticos entre los servidores públicos, y que cuenten con las competencias comunicativas necesarias para brindar atención en lenguas indígenas nacionales.
 
-XIII. Participar en la determinación de indicadores, para la realización de las auditorías operacionales y de resultados de los programas, y
+X. Promover, apoyar y acompañar la creación de instituciones estatales y municipales cuyo interés sea la preservación, revitalización, conocimiento y promoción de las lenguas indígenas; así como diseñar e impulsar mecanismos institucionales de coordinación con los mismos;
 
-XIV. Las demás que determinen la Ley Orgánica, este Reglamento y otros ordenamientos aplicables; así como las que indique la Comisión de Administración, el Pleno y el Presidente.
+XI. Promover políticas lingüísticas que refuercen el papel de la educación y la escuela, en sus diferentes niveles y modalidades educativos, como elementos fundamentales para la revaloración, uso y aprecio de las lenguas indígenas nacionales, así como el fomento al multilingüismo y la interculturalidad;
 
-## TÍTULO CUARTO. DE LAS ACTUACIONES
+XII. Asesorar el desarrollo de proyectos para el uso, transmisión, enseñanza, fortalecimiento y/o revitalización de las lenguas indígenas nacionales;
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+XIII. Diseñar y promover estrategias, instrumentos, programas, proyectos y acciones que permitan que la sociedad en su conjunto tenga acceso al conocimiento, enseñanza y aprendizaje de las lenguas indígenas nacionales;
 
-### CAPÍTULO VIII. DE LOS ACTUARIOS
+XIV. Proponer y promover, con las instancias correspondientes, la realización de investigación necesaria para el diseño y evaluación de políticas lingüísticas;
 
-###### ARTÍCULO 46.
+XV. Elaborar y promover políticas que impulsen y garanticen el uso de las lenguas indígenas nacionales en los medios de comunicación y demás espacios públicos;
 
-Durante los procesos electorales ordinarios o extraordinarios, las actuaciones del Tribunal pueden ser practicadas en cualquier momento, ya que todos los días y horas son hábiles.
+XVI. Diseñar e instrumentar estrategias, vías y acciones para promover la difusión y el uso de las lenguas indígenas nacionales en los medios de comunicación, según la región y contexto en que se hablen;
 
-###### ARTÍCULO 47.
+XVII. Coadyuvar a la generación de documentos orientadores del quehacer del Instituto en materia de Políticas Lingüísticas;
 
-Durante el tiempo que transcurra entre dos procesos electorales ordinarios, las actuaciones del Tribunal solamente se practicarán en días y horas hábiles. Se consideran hábiles todos los días a excepción de los sábados, domingos y los días inhábiles, en términos de ley.
+XVIII. Proponer los mecanismos, lineamientos y criterios para la recepción y apoyo de proyectos, relativos a la revitalización, fortalecimiento y desarrollo de las lenguas indígenas nacionales;
 
-### CAPÍTULO II. DE LAS REGLAS DEL TURNO
+XIX. Promover y apoyar la implementación de proyectos para el uso, transmisión y fortalecimiento de las lenguas indígenas nacionales en los diferentes ámbitos socioculturales;
 
-###### ARTÍCULO 48.
+XX. Promover, gestionar y dar seguimiento a acuerdos de edición y coedición, con diversas instituciones, organizaciones indígenas, asociaciones y personas físicas en materia de lenguas indígenas nacionales;
 
-Por cada recurso, denuncia o queja, que se reciba en el Tribunal, se formará expediente, y se registrará en los Libros de Gobierno correspondientes, con el número que le corresponda siguiendo un orden progresivo.
+XXI. Diseñar e impulsar políticas editoriales de inclusión de las lenguas indígenas nacionales.
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-Cuando se reciba un solo expediente, una vez registrado, el Secretario General de Acuerdos lo remitirá al Presidente para que éste a su vez, mediante decreto lo turne al Magistrado integrante del Pleno, por orden alfabético, tomando en cuenta la letra inicial del primer apellido, en caso de recursos interpuestos; cuando se reciba una denuncia o queja remitida por la autoridad administrativa electoral se turnará a la Sala que corresponda por orden numérico.
+###### Artículo 28.
 
-En ambos casos el tumo podrá ser modificado por Acuerdo del Pleno cuando las cargas de trabajo o la naturaleza de los asuntos así lo requieran.
+Son atribuciones de la Unidad de Asuntos Jurídicos:
 
-###### ARTÍCULO 50.
+I. Asesorar a las unidades administrativas del Instituto para su debido funcionamiento en materia jurídica;
 
-Cuando se reciba más de un recurso en el mismo día, se procederá mediante sorteo a la determinación del tumo, en los términos siguientes:
+II. Dictaminar el aspecto legal de las propuestas de normatividad interna, previa anuencia del Comité de Mejora Regulatoria Interna, así como los criterios, circulares, entre otros, que pretendan aplicar las unidades del Instituto;
 
-I. Recibidos los recursos en la Secretaría General de Acuerdos, se procederá a asignar un número consecutivo a cada demanda, tomando en consideración el orden en que se hayan recibido, esto es hora y fecha exacta de su recepción en la Oficialía de Partes Común, y se depositarán dichos números en una urna designada para tal efecto;
+III. Compilar y difundir, para efectos administrativos, los ordenamientos jurídicos y los criterios para su interpretación y aplicación que normen el funcionamiento y operación del Instituto;
 
-II. Cada Magistrado en el orden de tumo que le corresponda a su ponencia procederá a extraer un número de la urna, así se procederá hasta agotar los números que en forma consecutiva se hayan asignado. El sorteo se celebrará a la brevedad posible, una vez que se esté en posibilidad material de realizarlo y en el horario matutino;
+IV. Asesorar a los Comités Institucionales, cuando así corresponda para su correcto desempeño;
 
-III. En ausencia de alguno de los Magistrados, participará en su representación el Secretario de Estudio y Cuenta Decano de la ponencia que corresponda, y
+V. Formular los proyectos de convenios, contratos u otros instrumentos jurídicos que celebre el Instituto, con los sectores público, privado y social, nacionales e internacionales; validarlos y llevar su registro, una vez formalizados conforme a la normativa aplicable;
 
-IV. En caso de ausencia de las personas autorizadas, la Presidencia podrá celebrar el sorteo respectivo con los que se encuentren presentes, siempre y cuando haya por lo menos dos terceras partes de sus integrantes; informando del resultado del mismo a la ponencia que se encuentre ausente.
+VI. Evaluar y dictaminar las actas administrativas, constancias y diligencias que procedan respecto a las bajas del personal, así como aquéllas en las que se requiera hacer constar los hechos en defensa de los intereses patrimoniales y jurídicos del Instituto;
 
-El mismo procedimiento de sorteo se llevará a cabo cuando se reciban más de un expediente de quejas o denuncias, procediéndose a la extracción de los números en el orden de tumo numérico que corresponda a las Salas, y participará en representación del Magistrado, el Primer Secretario de Estudio y Cuenta de la Sala.
+VII. Expedir, cuando proceda, certificaciones de documentos que obren en los archivos de la Dirección General y la Unidad de Asuntos Jurídicos.
 
-###### ARTÍCULO 51.
+VIII. Brindar asesoría jurídica a los pueblos y comunidades indígenas, respecto de sus derechos lingüísticos cuando así lo soliciten, o por algún hecho que atente contra el fortalecimiento, preservación y desarrollo de las lenguas indígenas nacionales;
 
-En los recursos de apelación interpuestos, se llevará un control de tumo diverso respecto de los otros recursos competencia del Pleno del Tribunal, en el que no participará el Magistrado de la Sala que dictó la resolución objeto de la impugnación, en virtud del impedimento previsto en el artículo 274, párrafo segundo de la Ley Orgánica y 96, párrafo segundo, de este Reglamento.
+IX. Formular, previo acuerdo con la Coordinación General de Concertación, las recomendaciones públicas y medidas pertinentes para garantizar el fortalecimiento, la preservación y desarrollo de las lenguas indígenas nacionales, a los tres órdenes de gobierno para el respeto de los derechos lingüísticos;
 
-### CAPITULO III. DE LA SUBSTANCIACIÓN DE LOS RECURSOS DE INCONFORMIDAD, DE REVISIÓN Y DE APELACIÓN
+X. Dar seguimiento al proceso legislativo en el ámbito federal y local en materia de derechos lingüísticos y coordinar la postura institucional, cuando sea procedente;
 
-###### ARTÍCULO 52.
+XI. Atender y dar seguimiento a las solicitudes de las autoridades competentes en materia judicial, administrativa, legislativa, o cualquier otra que incidan en el ámbito federal o local;
 
-El Magistrado designado revisará el expediente, y si advierte que encuadra en alguna de las causales de improcedencia establecidas en el artículo 415 de la Ley, o antes de dictado el auto de admisión, se presentare alguna de las causales de sobreseimiento previstas en el artículo 416 de la Ley, elaborará el proyecto de auto de desechamiento, el cual someterá a la consideración del Pleno.
+XII. La persona Titular de la Unidad de Asuntos Jurídicos, podrá representar al Instituto, a su Dirección General y a sus unidades administrativas ante toda autoridad judicial, jurisdiccional o administrativa, con la más amplia personalidad como corresponde a un mandatario o apoderado general para pleitos y cobranzas, incluyendo todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley, y en general, para que intervenga, promueva o realice todos los actos, procedimientos y diligencias relacionados o que se deriven, a efecto de proteger los intereses patrimoniales y jurídicos de la institución;
 
-Si el recurrente se ostenta como representante de un partido político o coalición y su personería no se encuentra reconocida ante el órgano electoral que corresponda, se le prevendrá para que en un término de cuarenta y ocho horas exhiba los documentos que acrediten tal carácter, con el apercibimiento de que si no lo hace, se tendrá por actualizada la causal prevista en la fracción II del artículo citado.
+XIII. Ejercer las acciones judiciales y contenciosas que correspondan para la solución de conflictos de carácter administrativo, judicial, laboral o cualquier otro en los que el Instituto sea parte;
 
-###### ARTÍCULO 53.
+XIV. Denunciar o formular querellas ante el Ministerio Público de los hechos que puedan ser constitutivos de delito y, ante las autoridades competentes, respecto de los actos que constituyan violaciones administrativas y que afecten los intereses del Instituto;
 
-Cuando en la interposición del recurso se omitan señalar los requisitos previstos en los artículos 405 y 409 de la Ley, el Magistrado requerirá al promovente por estrados, para que se satisfagan los requisitos faltantes, en un plazo de cuarenta y ocho horas, contadas a partir de que se fije en los estrados el requerimiento, bajo el apercibimiento de que si no lo hace, se tendrá por no interpuesto el recurso. En consecuencia el Magistrado elaborará el proyecto de resolución de tener por no interpuesto el recurso, desechándolo de plano, el cual someterá a consideración del Pleno.
+XV. Coadyuvar con la Dirección General, en coordinación con las áreas del instituto, para efectuar en tiempo y forma la celebración de las sesiones del Consejo Nacional;
 
-###### ARTÍCULO 54.
+XVI. Realizar y compilar los estudios o investigaciones, a solicitud de las unidades administrativas, para elaborar propuestas en materia de derechos lingüísticos, y
 
-Si la autoridad que reciba el medio de impugnación dejare de cumplir con lo establecido en el artículo 406 de la ley, o no hiciere la remisión indicada en el artículo 408 del mismo ordenamiento legal, el Magistrado Instructor solicitará al Magistrado Presidente, que le imponga alguno de los medios de apremio o las correcciones disciplinarias establecidas en el artículo 451 de la citada ley, conminándolo a que de inmediato subsane las omisiones en que haya incurrido.
+XVII. Tramitar la publicación en el Diario Oficial de la Federación los documentos que así lo requieran las áreas del Instituto de conformidad con la normatividad aplicable.
 
-Ante la omisión del envío del informe circunstanciado, el medio de impugnación se resolverá con los elementos restantes a que se refiere el numeral 408 de la ley que obren en el expediente, procediendo la autoridad a aplicar la sanción establecida en la ley u otras disposiciones.
+XVIII. Coadyuvar en la operación de la Unidad de Transparencia, en coordinación con las áreas del instituto.
 
-###### ARTÍCULO 55.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-Los escritos de los terceros interesados deberán cumplir los requisitos establecidos en el artículo 407 de la ley, si el Magistrado que lo recibe estima que no se han satisfecho, en el proyecto de resolución que se someterá a la consideración del Pleno, tendrá por no presentado el escrito.
+###### Artículo 29.
 
-###### ARTÍCULO 56.
+Son atribuciones de la Unidad de Comunicación Social:
 
-Si el recurso reúne los requisitos de ley, el Magistrado dictará el auto de admisión correspondiente, resolviendo sobre la admisión y desechamiento de las pruebas ofrecidas. Hecho lo anterior, proveerá lo conducente para la preparación y desahogo de las pruebas admitidas, así como la práctica de las diligencias necesarias.
+I. Impulsar, coordinar y dar seguimiento a acciones de promoción para dar a conocer a la opinión pública la política lingüística del Instituto, mediante entrevistas, conferencias y comunicados de prensa, coberturas informativas, comunicación digital, entre otros, tendientes a difundir los logros, acciones, programas y proyectos de las diferentes unidades que integran el Instituto, así como la diversidad lingüística y cultural del país;
 
-###### ARTÍCULO 57.
+II. Monitorear, analizar, procesar y sistematizar, la información relevante del quehacer institucional publicada en medios de comunicación impresos, electrónicos y digitales, para elaborar la síntesis informativa;
 
-Si durante la instrucción ocurre alguno de los casos previstos en el artículo 416 de la ley, el Magistrado elaborará proyecto de resolución de sobreseimiento, el cual pondrá a consideración del Pleno del Tribunal.
+III. Establecer y operar en acuerdo con las Coordinaciones Generales, la estrategia, el programa y las campañas de comunicación social del Instituto, a fin de fomentar la preservación, conocimiento y aprecio de las lenguas indígenas nacionales, y ejecutar el presupuesto anual que permita el cumplimiento de los objetivos institucionales;
 
-###### ARTÍCULO 58.
+IV. Coordinar, supervisar, diseñar y dar seguimiento a la producción de materiales informativos y de difusión que realice el Instituto, contribuyendo al fortalecimiento, preservación y desarrollo de las lenguas indígenas nacionales;
 
-Durante la substanciación de los recursos, el Magistrado tendrá amplias facultades para ordenar la práctica de diligencias, y allegarse de los elementos de convicción que estime necesarios para la debida integración del expediente. Siempre que no sea obstáculo para resolver el recurso dentro de los plazos establecidos en la ley.
+V. Implementar y difundir los lineamientos que establece el Gobierno Federal en materia de imagen institucional y vigilar que se cumplan en el Instituto;
 
-Cuando se tenga que realizar alguna actuación fuera del lugar de residencia del Tribunal, el Magistrado por conducto de Presidencia podrá girar exhortos a los Juzgados Federales o Estatales, encomendándoles la práctica de diligencias, en el ámbito de sus respectivas competencias.
+VI. Gestionar, operar y coordinar espacios informativos y de difusión a través de cualquier medio de comunicación, a fin de difundir, informar y promocionar la diversidad lingüística y los derechos lingüísticos entre la población, así como promover el derecho de uso por parte de la población indígena en los medios de comunicación;
 
-###### ARTÍCULO 59.
+VII. Establecer y operar en acuerdo con las Coordinaciones Generales, la estrategia, el programa y las campañas de comunicación social del Instituto, a fin de fomentar la preservación, conocimiento y aprecio de las lenguas indígenas nacionales, y ejecutar el presupuesto anual que permita el cumplimiento de los objetivos institucionales;
 
-Una vez que el expediente haya sido debidamente substanciado, el Magistrado dictará el cierre de la instrucción y elaborará el proyecto de resolución. El proyecto deberá ser entregado por el Ponente a los otros Magistrados integrantes del Pleno, a más tardar tres días antes de celebrarse la Sesión Pública de Resolución respectiva, salvo cuando exista una excesiva carga de trabajo debidamente justificada.
+VIII. Proponer y coordinar estrategias y actividades de promoción, en colaboración con los tres órdenes de gobierno, así como del sector privado y social, para difundir y promover la diversidad lingüística y cultural del país;
 
-### CAPÍTULO IV. DE LA SUBSTANCIACIÓN DE LAS DENUNCIAS Y QUEJAS POR LAS SALAS
+IX. Coordinar, proponer, gestionar, diseñar y desarrollar acciones y estrategias de colaboración con consulados, embajadas, organizaciones e instituciones extranjeras y organismos internacionales, en materia de lenguas indígenas nacionales;
 
-###### ARTÍCULO 60.
+X. Coordinar el desarrollo de actividades, promover la vinculación, dar seguimiento a los requerimientos de informes sobre las acciones del Estado mexicano en materia de lenguas indígenas nacionales, requeridos de conformidad con los convenios y tratados internacionales ratificados por México;
 
-Recibido el expediente por el Magistrado de la Sala procederá a asignarle la clave de identificación conforme al número progresivo que corresponda a la Sala. Integrándose dicha clave con el prefijo PAS (Procedimiento Administrativo Sancionador), - (guión), la letra S (Sala); I, II ó III (el número romano que corresponda a la Sala), - (guión), el número por orden progresivo que le corresponda, I (diagonal), y el año en que se recibe.
+XI. Coordinar la realización de campañas coemitidas (sic), en lengua indígena nacionales de los beneficiarios de programas, obras y servicios que brinda la Administración Pública Federal, así como del sector privado y social, para la difusión y promoción de la diversidad lingüística y cultural del país;
 
-###### ARTÍCULO 61.
+XII. Coordinar la asesoría a las instituciones en materia de difusión con un enfoque pluricultural y plurilingüe;
 
-Dentro de los dos días siguientes a la recepción, el Magistrado de Sala deberá dictar auto de radicación, verificando el cumplimiento de lo previsto en las fracciones I a V del artículo 473 de la Ley.
+XII (SIC). Coordinar y proponer procedimientos para la inclusión, actualización de la información y diseño de los contenidos del portal de internet institucional, en conjunto con las áreas correspondientes, para proporcionar información útil y apropiada al público usuario.
 
-###### ARTÍCULO 62.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-De encontrarse debidamente integrado el expediente, la Sala deberá resolver la queja o denuncia en los siguientes quince días de su recepción, sobre la responsabilidad e imponiendo la sanción correspondiente o bien absolviendo al presunto infractor.
+###### Artículo 30.
 
-###### ARTÍCULO 63.
+Son atribuciones de la Unidad de Administración y Finanzas:
 
-Cuando advierta omisiones o deficiencias en la tramitación de la queja o denuncia o violación a las reglas estipuladas en la Ley, ordenará a la Comisión del Régimen de Partidos Políticos la reposición del procedimiento.
+I. Planear, organizar y coordinar la administración de los recursos humanos, financieros, materiales, así como la prestación de los servicios generales, archivo, infraestructura de tecnologías de la información y comunicaciones del instituto, conforme a las normas, lineamientos y procedimientos vigentes, para armonizar el desarrollo de las actividades y brindar los servicios que se requieran con calidad y oportunidad;
 
-En el auto en que ordene la reposición, la Sala determinará la etapa de reposición, las diligencias que se deben realizar, y el plazo para llevarlo a cabo, el cual no podrá exceder de treinta días contados a partir de que la Comisión reciba el expediente.
+II. Establecer, con la aprobación de la Dirección General, la normatividad, criterios y procedimientos para la óptima administración de los recursos humanos, financieros, recursos materiales y servicios generales, archivo y la infraestructura de tecnologías de la información y comunicaciones del Instituto, y emitir los procesos internos conforme a la normativa aplicable;
 
-###### ARTÍCULO 64.
+III. Autorizar la documentación necesaria para el ejercicio y la comprobación del presupuesto del Instituto;
 
-Una vez devuelto el expediente por la Comisión del Régimen de Partidos Políticos a la Sala, el Magistrado revisará el cumplimiento del auto que ordena la reposición dentro de los seis días siguientes a la recepción del expediente.
+IV. Suscribir, previo acuerdo con la Dirección General, aquellos documentos que impliquen actos de administración y representar al Instituto en los convenios y contratos de su competencia;
 
-De persistir la violación procesal, corresponderá a la Sala en plenitud de jurisdicción, el desahogo de las diligencias faltantes. Lo anterior con independencia de la responsabilidad administrativa que en su caso pudiera exigirse a los servidores públicos electorales.
+V. Coordinar y supervisar las funciones y actividades en materia de adquisiciones, arrendamientos y servicios del sector público; así como en materia de obra pública, enajenación de bienes y administración de los bienes inmuebles que ocupa el Instituto;
 
-La Sala procederá con amplias facultades a llevar a cabo las diligencias para mejor proveer que se deriven de las omisiones e irregularidades que se adviertan en la reposición del procedimiento, así como para el desahogo de diligencias que se deriven de información nueva que ésta arroje y que sea necesario su esclarecimiento para resolver; ello al no ser factible ordenar a la autoridad administrativa una segunda reposición.
+VI. Coordinar la elaboración y supervisar la operación del programa de protección civil de acuerdo a la normatividad vigente;
 
-Una vez que se encuentre debidamente integrado el expediente, la Sala resolverá la queja o denuncia dentro del plazo de quince días previsto en el inciso c) de la fracción VI del artículo 473 de la Ley.
+VII. Supervisar el apoyo logístico y abastecimiento de materiales para el desarrollo de las diferentes actividades que realiza el Instituto;
 
-### CAPÍTULO V. DE LA ACUMULACIÓN
+VIII. Coordinar y verificar la elaboración y trámite del Programa Anual de Necesidades y del Programa Anual de Inversión;
 
-###### ARTÍCULO 65.
+IX. Colaborar con el área competente en la realización e implementación de los contratos que se suscriban con los proveedores;
 
-La acumulación de expedientes podrá decretarse al inicio, durante la substanciación o cuando ya estén los recursos en estado de resolución; según lo dispone el artículo 417 de la Ley, y procederá cuando:
+X. Someter a consideración de la Dirección General las propuestas de modificaciones a los manuales de organización y de procedimientos elaborados en coordinación con las unidades del Instituto;
 
-I. Cuando se impugnen por dos o más partidos políticos o coaliciones, el mismo acto o resolución;
+XI. Proponer y coordinar los estudios orgánico-funcionales del Instituto y formular las propuestas de mejora que se requieran;
 
-II. Cuando se impugnen actos o resoluciones conexas, por el mismo o diversos partidos políticos o coaliciones;
+XII. Proponer a la Dirección General las medidas administrativas para la mejor organización y funcionamiento del Instituto;
 
-III. Cuando se impugnen por uno o varios particulares, el mismo acto o resolución, y
+XIII. Coordinar la formulación y entrega en tiempo y forma, de los informes requeridos por la coordinadora sectorial y demás instancias públicas competentes en la materia;
 
-IV. Cuando se impugnen actos o resoluciones conexas, por varios particulares.
+XIV. Atender el cumplimiento de remuneraciones, prestaciones y obligaciones que afecten al Instituto;
 
-###### ARTÍCULO 66.
+XV. Proponer a la Dirección General los programas del Instituto, para cumplir con la normatividad aplicable;
 
-En el supuesto de que se trate del mismo acto o resolución, el Secretario General de Acuerdos, al recibir un recurso, constatará si existe identidad del acto o resolución impugnado con otro previamente admitido, en cuyo caso lo comunicará a los Magistrados integrantes del Pleno. De estimarse procedente la acumulación, por acuerdo del Pleno se turnará al Magistrado Instructor que esté conociendo del expediente más antiguo, a fin de que lo acumule e inicie, o prosiga la substanciación hasta concluirla, y elabore el proyecto de resolución conjunto.
+XVI. Supervisar que la ejecución del gasto permita el cumplimiento de los objetivos y metas de los programas del Instituto;
 
-###### ARTÍCULO 67.
+XVII. Establecer, en coordinación con las demás unidades del Instituto, los lineamientos y criterios para la evaluación de los programas y proyectos en que participen y proponer, en su caso, la reformulación o adecuación de los mismos;
 
-En los supuestos de actos o resoluciones conexas, el Secretario General de Acuerdos, al percatarse de que existe estrecha relación entre los diversos recursos, lo hará del conocimiento de los Magistrados integrantes del Pleno. En caso de estimarse que existe conexidad, por acuerdo del Pleno se turnará al Magistrado Instructor que esté conociendo del expediente más antiguo; en caso contrario, persistirá el mismo estado de cosas.
+XVIII. Desarrollar los sistemas de estímulos y recompensas conforme a la normatividad aplicable, así como elaborar las Condiciones Generales de Trabajo y vigilar su aplicación; aplicar las sanciones de carácter laboral a que se haga acreedor el personal del Instituto;
 
-###### ARTÍCULO 68.
+XIX. Desarrollar, en coordinación con las demás unidades del Instituto, las actividades de planeación y evaluación de sus programas;
 
-Las Salas procederán a decretar la acumulación por litispendencia o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa. El expediente más reciente se acumulará al más antiguo.
+XX. Coordinar la formulación del Programa Anual de Trabajo y la programación y elaboración del anteproyecto de presupuesto del Instituto y gestionar su autorización y modificaciones, así como regular el ejercicio del presupuesto autorizado de acuerdo con las políticas, lineamientos y procedimientos establecidos;
 
-El aviso del supuesto de acumulación al Magistrado de Sala corresponderá efectuarlo al Primer Secretario de Estudio y Cuenta de la Sala cuando se trate de acumulación interna; y en caso de que el supuesto de acumulación se presente en expedientes radicados en distintas Salas, el Secretario General de Acuerdos dará el aviso correspondiente al Magistrado Presidente, para efectos del turno del expediente a la Sala que corresponda.
+XXI. Emitir las políticas y lineamientos necesarios para el diseño, operación, control y evaluación de un sistema integral de información correspondiente al personal del Instituto; así como planear, supervisar y vigilar las necesidades que, en materia de recursos humanos, tengan las diversas áreas del instituto;
 
-Si existe discrepancia entre las Salas, el caso se someterá a la consideración del Pleno para que se dirima la cuestión.
+XXII. Supervisar las políticas y procedimientos para la recepción, fiscalización y control de las solicitudes de registro presupuestal y pago, que presenten las diversas áreas del Instituto para trámite; así como vigilar la emisión oportuna de los estados financieros y presupuestales del Instituto, a efecto de proporcionar información oportuna para la toma de decisiones;
 
-### CAPÍTULO VI. DE LAS RESOLUCIONES
+XXIII. Establecer mecanismos de comunicación y coordinación con las áreas del Instituto para unificar criterios y aplicar políticas y líneas de acción referentes al suministro de recursos materiales y servicios generales; así como vigilar la adecuada operación y actualización de los sistemas de almacenamiento, de control y registro de bienes muebles;
 
-###### ARTÍCULO 69.
+XXIV. Expedir, cuando proceda, certificaciones de documentos que obren en los archivos de la Unidad de Administración y Finanzas.
 
-Las resoluciones que sean pronunciadas por el Tribunal, deberán constar por escrito y contener la fecha, nombre y firma de los Magistrados y del Secretario que corresponda; y serán Decretos, Autos y Sentencias.
+XXV. Supervisar la implementación, administración y mejora continua de la infraestructura de tecnologías de la información y comunicaciones, de acuerdo a las normas, políticas, disposiciones y buenas prácticas de la misma materia, para soportar los diferentes servicios informáticos que requiere el Instituto, y
 
-###### ARTÍCULO 70.
+XXVI. Coordinar y supervisar los procesos de circulación, organización, conservación, localización, concentración, y baja de archivos del Instituto establecidos en la normatividad aplicable en la materia.
 
-Los decretos serán resoluciones de simple trámite, que no influirán de manera significativa en el curso de la substanciación, ni en la decisión del caso. Se ordenará que se cumplan, sin que sea necesaria su notificación.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 71.
+### Capítulo Séptimo. DE LA OFICINA DE REPRESENTACIÓN
 
-Los autos, son resoluciones trascendentes para la admisión o desechamiento de los recursos; para la substanciación de los mismos, su acumulación y en general para el desarrollo de la instrucción. Deberán estar siempre fundados y motivados.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 72.
+###### Artículo 31.
 
-Las sentencias dictadas por el Pleno del Tribunal son resoluciones de fondo de los recursos interpuestos, que deciden sobre la confirmación, modificación o revocación del acto o resolución impugnados; y deberán contener todos los requisitos indicados en el artículo 446 de la Ley, y se asentarán en ellas los siguientes puntos:
+El Instituto contará con una Oficina de Representación adscrita al Órgano Interno de Control en la Secretaría de Cultura, al frente de la cual habrá una persona Titular designada en los términos del artículo 37, fracción XL, de la Ley Orgánica de la Administración Pública Federal y artículo 9, fracción XII, del Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
 
-I.- Proemio;
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-II.- Resultando:
+###### Artículo 32.
 
-a) Interposición del recurso.
+La Oficina de Representación auxiliará a la persona titular del Órgano Interno de Control en la Secretaría de Cultura, y a las áreas que lo integran, en términos de las disposiciones jurídicas aplicables. Este último, ejercerá las facultades que para los órganos internos de control prevén la Ley Federal de las Entidades Paraestatales, su Reglamento, la Ley General de Responsabilidades Administrativas y demás ordenamientos legales y administrativos aplicables.
 
-b) Admisión.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-c) Substanciación.
+###### Artículo 33.
 
-III.- Considerando:
+El Instituto proporcionará a la persona titular de la Oficina de Representación, los recursos humanos y materiales que requiera para el ejercicio de las facultades que tiene conferidas. Los servidores públicos del Instituto le proporcionarán el auxilio y la cooperación que requiera para el correcto desempeño de sus funciones.
 
-a) Competencia.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-b) Legitimación o personería.
+###### Artículo 34.
 
-c) Fijación de los actos o resoluciones impugnados, así como de los hechos o puntos de derecho controvertidos.
+En caso de las ausencias de la persona Titular de la Jefatura de la Oficina de Representación, los asuntos que tenga encomendados serán atendidos por la persona servidora pública que designe la persona titular del Órgano Interno de Control en la Secretaría de Cultura.
 
-d) Análisis de agravios.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-e) Apreciación de las pruebas y su valoración.
+###### Artículo 35.
 
-f) Determinación fundada y motivada sobre lo que se debe resolver: confirmación, modificación o revocación de los actos o resoluciones impugnados.
+El Órgano de Vigilancia del Instituto estará integrado por una persona comisaria pública y una suplente, designados por la Secretaría Anticorrupción y Buen Gobierno, quienes asistirán con voz, pero sin voto a las sesiones ordinarias y extraordinarias del Consejo Nacional del Instituto.
 
-g) Puntos resolutivos y providencias para su cumplimiento.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 73.
+###### Artículo 36.
 
-Las resoluciones emitidas por las Salas deberán estar debidamente fundadas y motivadas, con sujeción en lo aplicable, a lo dispuesto por el artículo 446 de la Ley.
+La persona comisaria pública, vigilará y evaluará las operaciones del Instituto de conformidad con las atribuciones que le confiere la Ley Federal de las Entidades Paraestatales y su Reglamento, y las que le asigne la Secretaría Anticorrupción y Buen Gobierno.
 
-###### ARTÍCULO 74.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-Las resoluciones pronunciadas por el Pleno, quedarán firmes y serán definitivas. Sólo podrán ser combatidas mediante los Juicios previstos en la Ley General del Sistema de Medios de impugnación en Materia Electoral, en cuyo caso el Tribunal acatará las disposiciones relativas a dichos juicios en la Ley que los regula, así como las establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Orgánica del Poder Judicial de la Federación.
+###### Artículo 37.
 
-###### ARTÍCULO 75.
+El Consejo Nacional y la Dirección General deberán proporcionar oportunamente a la persona comisaria pública, la información y documentación que les requiera y brindarle las facilidades necesarias para el debido cumplimiento de sus funciones.
 
-Las resoluciones dictadas por las Salas podrán ser impugnadas mediante el recurso de apelación competencia del Pleno.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 76.
+###### Artículo 38.
 
-Procede de oficio o a petición por escrito de parte legitimada, la aclaración de aquellas sentencias que ponen fin a la instancia; dentro de los tres días siguientes a su notificación, cuando se advierta una notoria contradicción, omisión o errores simples, o de redacción de la sentencia.
+El control al interior del Instituto se ajustará a lo siguiente:
 
-Sólo procede respecto de cuestiones discutidas en el litigio y tomadas en consideración al emitirse la sentencia; sin que proceda modificar lo resuelto en el fondo del asunto y la argumentación planteada.
+I. Será facultad del Consejo Nacional evaluar el cumplimiento de los objetivos, dar seguimiento a las estrategias aprobadas y establecer las acciones que considera pertinentes para el logro de los objetivos institucionales;
 
-La sentencia interlocutoria de aclaración formará parte de la sentencia dictada.
+II. La Dirección General definirá las políticas de instrumentación de los sistemas de control que fueren necesarios, y
 
-### CAPÍTULO VII. DE LA EJECUCIÓN DE SENTENCIAS
+III. La Dirección General tomará las acciones correspondientes para corregir las deficiencias que se detectaren y presentará al Consejo Nacional informes periódicos sobre las comisiones y comités internos.
 
-###### ARTÍCULO 77.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-Las resoluciones del Tribunal, en Pleno o en Salas, deben cumplirse dentro del plazo señalado en las mismas. Transcurrido dicho plazo sin que se haya observado lo anterior, el Tribunal de oficio, o a instancia de parte interesada, abrirá el Incidente de Inejecución o de Ejecución de Sentencia para revisar la falta de cumplimiento o el cumplimiento defectuoso, según sea el caso, obligando a quien corresponda a su debida observancia; aplicando de ser necesario, los medios de apremio o correcciones disciplinarias que procedan en términos de la ley y de este Reglamento.
+###### Artículo 39.
 
-El escrito de solicitud de apertura del Incidente de Ejecución o de Inejecución se deberá presentar dentro de los tres días siguientes al vencimiento del plazo otorgado para el cumplimiento de la sentencia, y a falta de éste, a partir de la notificación de la sentencia.
+El Instituto, para la óptima consecución de sus objetivos, podrá conformar órganos colegiados internos que considere pertinentes la Dirección General, para que coadyuven al cumplimiento y logro de los objetivos y programas institucionales.
 
-La resolución que recaiga al incidente no modificará lo resuelto en el fondo del asunto. Las partes no podrán hacer nuevas alegaciones.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 78.
+### Capítulo Octavo. DE LOS ORGANOS COLEGIADOS
 
-La substanciación del Incidente, se sujetará a lo siguiente:
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-I. Una vez recibido el escrito de la parte interesada, el Magistrado Presidente lo turnará de inmediato al Magistrado que fungió como Ponente en el expediente principal, para su revisión;
+###### Artículo 40.
 
-II. El Magistrado por conducto de Presidencia, podrá requerir a las partes o a las autoridades correspondientes, la información que considere necesaria para la substanciación del Incidente, y dará vista a las partes con la información requerida, y
+El Instituto contará con un Comité de Control y Desempeño Institucional, como instancia auxiliar del Consejo Nacional el cual se integrará, operará y tendrá las atribuciones que al efecto determinen las disposiciones que, sobre la materia, emita la Secretaría Anticorrupción y Buen Gobierno.
 
-III. Una vez substanciado el Incidente, el Magistrado formulará el proyecto de resolución correspondiente, para someterlo a consideración del Pleno del Tribunal, el cual resolverá en Sesión Pública.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-El trámite de oficio iniciará con la cuenta dada por el Secretario General de Acuerdos al Magistrado Presidente, una vez que fenezca el plazo otorgado para el cumplimiento de la resolución sin que se hubiere efectuado, siguiéndose el trámite en los términos indicados en el presente artículo.
+###### Artículo 41.
 
-Los incidentes que se tramiten en Sala, serán resueltos por la misma en los términos aplicables del presente capítulo, correspondiendo para estos efectos al Primer Secretario de Estudio y Cuenta las actuaciones asignadas al Secretario General de Acuerdos.
+El Instituto contará con un Comité de Transparencia en los términos de los artículos 24 fracción I, 43 y 44 de la Ley General de Transparencia y Acceso a la Información Pública.
 
-En lo no previsto, serán aplicables las disposiciones relativas a la substanciación de los medios de impugnación contemplados en la Ley y en este Reglamento.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-### CAPÍTULO VIII. DE LAS NOTIFICACIONES
+###### Artículo 42.
 
-###### ARTÍCULO 79.
+El Instituto podrá conformar con un Consejo Científico Consultivo, constituido por un mínimo de cinco y un máximo de siete integrantes que serán elegidos por el Consejo Nacional a propuesta de la Dirección General. Permanecerán en el Consejo por un periodo de dos años y podrán ser reelectos.
 
-Todas las sentencias y autos que se pronuncien, deberán ser notificadas a las partes, no así los decretos.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 80.
+###### Artículo 43.
 
-Las notificaciones se podrán hacer:
+El Consejo Científico Consultivo se reunirá al menos dos veces al año, pudiendo ser convocado por la Dirección General para celebrar sesiones extraordinarias, cuando lo estime conveniente.
 
-I. Personalmente;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-II. Por estrados;
+###### Artículo 44.
 
-III. Por oficio;
+El Consejo Científico Consultivo tendrá carácter de órgano de consulta del Instituto, para conocer, opinar y recomendar sobre temas lingüísticos. Sus miembros serán personas de reconocida trayectoria en las ciencias del lenguaje y el cargo de consejero será honorífico, por lo que no podrán recibir remuneración alguna por su desempeño.
 
-IV. Por correo certificado o por telegrama con acuse de recibo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-V. A través del Periódico Oficial del Estado, diarios o periódicos de mayor circulación estatal o regional, en los términos de la ley, y
+###### Artículo 45.
 
-VI. Por medio electrónico.
+La Dirección General convocará a las sesiones del Consejo Científico Consultivo con una anticipación no menor a cinco días hábiles, tratándose de las ordinarias, y en el caso de extraordinarias con tres días de anticipación, acompañando el orden del día. De cada sesión, se podrá levantar una relación de los acuerdos más relevantes y éstos tendrán carácter de recomendación para la Dirección General.
 
-Serán notificaciones personales las que establezca la ley.
+Las sesiones del Consejo Científico Consultivo, serán presididas por la persona titular de la Dirección General, quien nombrará a una persona titular de una secretaría quien tendrá voz, pero no voto dentro de las sesiones.
 
-En caso de que el promovente omita señalar domicilio, o el señalado no resulte cierto o se ubique fuera del municipio sede del Tribunal, las notificaciones se harán por estrados.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-Los estrados es el lugar destinado en la oficina del Tribunal para que sean colocados para su notificación, cédulas, y copias de los autos y resoluciones dictados.
+### Capítulo Noveno. DE LA AUSENCIA Y SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
-###### ARTÍCULO 81.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-Se notificarán personalmente, a más tardar el día siguiente de que se dicten por el Pleno, el Magistrado Instructor o por las Salas, las resoluciones siguientes:
+###### Artículo 46.
 
-I. Sentencias;
+Durante las ausencias de la Dirección General que no excedan de treinta días, el despacho y resolución de los asuntos quedarán a cargo de la Coordinación General de Concertación y, en ausencia de ésta, la Coordinación General de Políticas Lingüísticas.
 
-II. Autos de desechamiento;
+Sin perjuicio de lo previsto por otras normas aplicables, en los casos de ausencia temporal, los servidores públicos adscritos al Instituto, serán suplidos de la siguiente manera:
 
-III. Autos que contengan algún requerimiento, a la parte que deba cumplirlo;
+I. Las Coordinaciones Generales, por las unidades de su adscripción, conforme a la materia que corresponda o por el servidor público que determine la Dirección General, y
 
-IV. Autos que tengan por no interpuesto un recurso;
+II. Las unidades, por los inferiores jerárquicos, atendiendo a la competencia de cada uno de ellos, o por quien determine la Dirección General o la Coordinación General que corresponda.
 
-V. Resoluciones en que se determine el sobreseimiento, y
+En casos de ausencia por un periodo mayor a treinta días, la designación de la Dirección General, se hará en cumplimiento de lo dispuesto por la Ley Federal de las Entidades Paraestatales.
 
-VI. Las que determine el Pleno, el Magistrado Instructor o el Magistrado de Sala.
+DISPOSICIONES TRANSITORIAS
 
-###### ARTÍCULO 82.
+Primera. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Las notificaciones personales se realizarán en la forma siguiente:
+Segunda. Se abroga el Estatuto Orgánico del Instituto, publicado el 14 de julio de 2010 en el Diario Oficial de la Federación.
 
-El Actuario levantará y suscribirá una cédula en la que hará constar el lugar, hora y fecha en que se realice, nombre de la persona a quien se notifica, documento con que se identifique, y la descripción del acto o resolución que se notifique; entregará copia de ésta a la persona con quien entienda la diligencia, solicitándole firme la original de recibida y en caso de que se niegue a hacerlo, se hará constar esta circunstancia.
+Tercera. Los asuntos que se encuentren vigentes o en trámite, antes de la publicación del presente estatuto, serán atendidos conforme por las áreas designadas en el Estatuto Orgánico publicado el 14 de julio de 2010 en el Diario Oficial de la Federación.
 
-Si no estuviera presente el interesado en su domicilio, se le dejará citatorio para hora fija del día siguiente. En caso de que no espere, se le hará notificación por cédula con la persona que se encuentre en el domicilio. Si éste se encuentra cerrado o la persona con la que se entiende la diligencia se niegue a recibir la cédula, el Actuario o Notificador la fijará junto con la copia del auto o resolución en un lugar visible del domicilio, después de que se haya cerciorado de que ahí tiene su domicilio, asentando razón en autos.
+La Presidencia del Consejo Nacional del Instituto Nacional de Lenguas Indígenas.- Rúbrica.–
 
-###### ARTÍCULO 83.
+La Secretaría Técnica del Consejo Nacional del Instituto Nacional de Lenguas Indígenas.- Rúbrica.
 
-Se harán por estrados las notificaciones de las resoluciones siguientes dictadas por el Pleno, el Magistrado Instructor o por las Salas:
+La Prosecretaría del Consejo Nacional del Instituto Nacional de Lenguas Indígenas, Rúbrica.
 
-I. De admisión;
+La expedición del Nuevo Estatuto Orgánico fue aprobada por el Consejo Nacional, mediante acuerdo número SE/I-24/03, de fecha 26 de junio de 2024.
 
-II. De preparación y desahogo de pruebas;
+D.O.F. 27 DE MAYO DE 2025.
 
-III. Que decreten la acumulación;
+## [N. DE E. TRANSITORIOS DEL "AVISO PARA DAR A CONOCER EN LA PÁGINA ELECTRÓNICA DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS, LA REFORMA A DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS".]
 
-IV. Que determinen el archivo de un expediente como asunto concluido; y,
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-V. Las demás en que así lo indique el Pleno, el Magistrado Instructor o el Magistrado de Sala.
-
-Las notificaciones por estrados, se harán dentro de los tres días siguientes en que se dicte la resolución correspondiente.
-
-###### ARTÍCULO 84.
-
-Las notificaciones por estrados se practicarán de conformidad con el procedimiento siguiente:
-
-I. Tratándose de autos, el Actuario fijará cédula de notificación y la copia del proveído, asentando la razón respectiva en el expediente y,
-
-II. Tratándose de resoluciones, el Actuario fijará la cédula de notificación que contendrá los datos que figuren en el preámbulo y anexará copia de los puntos resolutivos de la resolución, asentando la razón respectiva en el expediente.
-
-###### ARTÍCULO 85.
-
-Los autos dictados por las Salas y Magistrados integrantes del Pleno serán publicados por lista al día siguiente de su emisión, así como en el sitio oficial de internet del Tribunal.
-
-###### ARTÍCULO 86.
-
-Las notificaciones de las resoluciones que dicte el Tribunal en Pleno o en Salas, independientemente de que se notifiquen por estrados, también se podrán hacer por correo certificado o telegrama, en casos urgentes o cuando concurran circunstancias especiales que así lo ameriten.
-
-###### ARTÍCULO 87.
-
-La notificación por correo, se hará en pieza certificada, agregándose al expediente el acuse de recibo postal. La notificación por telegrama se hará enviando por duplicado el documento de que se trate, para que la oficina que la transmita devuelva el ejemplar sellado, mismo que se agregará al expediente.
-
-###### ARTÍCULO 88.
-
-La notificación por correo electrónico procederá en los casos en que exista manifestación expresa de las partes para ello, quienes deberán proporcionar dirección de correo electrónico que cuente con mecanismos de confirmación de los envíos de las notificaciones. Notificación que surtirá efectos a partir de que se tenga constancia de la recepción de la misma o, en su caso, se cuente con el acuse de recibo correspondiente.
-
-###### ARTÍCULO 89.
-
-A los órganos responsables y en su caso a las autoridades federales, estatales y municipales, se les notificarán por oficio las resoluciones dictadas por el Pleno, el Magistrado Instructor o por las Salas, siguientes:
-
-I. De desechamiento;
-
-II. De requerimiento;
-
-III. Que tengan por no interpuesto un recurso;
-
-IV. Que determinen el sobreseimiento en los recursos o expedientes;
-
-V. Las de fondo recaídas en los recursos y expedientes, y
-
-VI. Las demás que así lo estimen el Pleno, el Magistrado Instructor o el Magistrado de Sala.
-
-###### ARTÍCULO 90.
-
-Las notificaciones personales o por oficio de las sentencias indicadas en el presente capítulo se deberán acompañar de copia certificada de la resolución respectiva.
-
-### CAPÍTULO IX. DE LOS MEDIOS DE APREMIO Y LAS CORRECCIONES DISCIPLINARIAS
-
-###### ARTÍCULO 91.
-
-El Pleno, los Magistrados Instructores y las Salas, deberán hacer cumplir las disposiciones de la Ley y sus resoluciones, así como mantener el orden y exigir se les guarde el respeto y la consideración debidos; para ello podrá imponer los medios de apremio y las correcciones disciplinarias siguientes:
-
-I. Apercibimiento;
-
-II. Amonestación;
-
-III. Multa de hasta por cien veces el salario mínimo general vigente en el Estado;
-
-IV. Arresto hasta por treinta y seis horas; y,
-
-V. Auxilio de la fuerza pública.
-
-###### ARTÍCULO 92.
-
-Para los efectos del presente Reglamento, se entenderá por:
-
-I. Apercibimiento: La advertencia que se hace a una persona, para que haga o deje de hacer algo, y de que se le impondrá una sanción en caso de incumplimiento;
-
-II. Amonestación: La llamada de atención o extrañamiento que se la hace a una persona, por la acción u omisión indebidamente realizada; y además la exhortación a la enmienda; puede ser verbal o escrita, privada o pública.
-
-###### ARTÍCULO 93.
-
-Los medios de apremio y correcciones disciplinarias referidos en este Reglamento, podrán ser aplicados a las partes, a sus representantes y en general a cualquier persona que provoque desorden o no guarde el respeto y la consideración debidos, incumpla con una obligación legitima o se conduzca con falta de decoro o probidad.
-
-Si la conducta asumida, se estima constitutiva de delito, se levantará el acta correspondiente y se hará del conocimiento del Ministerio Público para que proceda conforme a sus atribuciones.
-
-###### ARTÍCULO 94.
-
-Los medios de apremio y las correcciones disciplinarias serán aplicadas por el Presidente, en su caso por el Magistrado Instructor, así como por el Magistrado de la Sala correspondiente.
-
-### CAPÍTULO X. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
-
-###### ARTÍCULO 95.
-
-Las responsabilidades de los servidores públicos del Tribunal, se regirán por el Título Octavo de la Constitución y el Título Decimocuarto y demás disposiciones relativas de la Ley Orgánica. Para ello, las facultades señaladas para el Consejo de la Judicatura del Estado, se entenderán atribuidas al Pleno del Tribunal.
-
-Para los efectos de la declaración de situación patrimonial por parte de los servidores públicos del Tribunal, se estará a lo dispuesto en los artículos 64, 68 y 91 de la Constitución; 2, 168, 195, 196, 249, 253, 259 y 263 de la Ley Orgánica, así como los artículos 40 y 41 de este Reglamento, en relación con los demás relativos y aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-### CAPÍTULO XI. DE LOS IMPEDIMENTOS Y EXCUSAS
-
-###### ARTÍCULO 96.
-
-Los Magistrados del Tribunal, estarán impedidos para conocer de aquellos asuntos en que tengan interés por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad; por tanto deberán excusarse. El Pleno del Tribunal calificará la excusa y de estimarla procedente, llamará al Magistrado Supernumerario que corresponda, en el orden de prelación señalado por el Congreso del Estado.
-
-Los Magistrados están impedidos para conocer de los medios de impugnación que se interponga en contra de las resoluciones emitidas por la Sala que integren.
-
-###### ARTÍCULO 97.
-
-Al Secretario General de Acuerdos, le será aplicable en lo conducente lo dispuesto en el artículo anterior. Si la excusa es procedente el Pleno designará al sustituto, de entre los Secretarios de Estudio y Cuenta.
-
-###### ARTÍCULO 98.
-
-Si los Secretarios de Estudio y Cuenta tuvieren alguno de los impedimentos del artículo 96 se excusarán y el Magistrado a quien se encuentren adscritos los relevará de seguir conociendo del asunto. En caso necesario, el Pleno designará a un Secretario de Estudio y Cuenta sustituto.
-
-### CAPÍTULO XII. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
-
-###### ARTÍCULO 99.
-
-las relaciones de trabajo de los servidores públicos del Tribunal, se regirán por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios Instituciones Descentralizadas de Baja California, así como por el Capítulo XI del Título XIV de la Ley Orgánica.
-
-### CAPÍTULO XIII. DE LAS AUSENCIAS, LICENCIAS Y RENUNCIAS DE LOS SERVIDORES PÚBLICOS DEL TRIBUNAL
-
-###### ARTÍCULO 100.
-
-En lo relativo a las ausencias, licencias y renuncias de los servidores públicos del Tribunal, se estará a lo dispuesto en el Capítulo XII del Título XIV de la Ley Orgánica.
-
-### CAPÍTULO XIV. DE LOS CRITERIOS OBLIGATORIOS
-
-###### ARTÍCULO 101.
-
-Cuando el Pleno del Tribunal sustente criterios similares en tres sentencias sobre el mismo tema, sin interrupción de continuidad, el criterio sostenido adquirirá el carácter de obligatorio.
-
-La obligatoriedad cesará al pronunciarse una sentencia en sentido diverso, por unanimidad de votos, en la cual deberán expresarse las razones que motiven la variación. El nuevo criterio será obligatorio, al sustentarse en tres resoluciones consecutivas.
-
-Los criterios obligatorios que se adopten, requerirán de la declaratoria respectiva y el Pleno del Tribunal, ordenará su publicación en el Periódico Oficial del Estado y en el Boletín Judicial del Estado.
-
-### CAPÍTULO XV. DE LA PROTESTA CONSTITUCIONAL
-
-###### ARTÍCULO 102.
-
-Al Presidente le será tomada la protesta por el Decano de los Magistrados presentes o en su caso, el de mayor edad.
-
-Los demás servidores públicos del Tribunal, deberán rendir su protesta conforme lo establecido en los artículos 14, 61 y 290 de la Ley Orgánica, antes de iniciar el ejercicio de sus funciones.
-
-## ARTÍCULOS TRANSITORIOS
-
-PRIMERO.- El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Se abroga el Reglamento Interior del Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California, publicado en el Periódico Oficial del Estado, número 27, Tomo CVIII de fecha veintinueve de junio de dos mil uno.
-
-TERCERO.- Quienes se encuentren desempeñando los cargos de Secretarios de Estudio y Cuenta adscritos a los Magistrados Integrantes del Pleno a la entrada en vigor del presente Reglamento, además de cumplir su encargo, desempeñarán las funciones de Secretario de Estudio y Cuenta de la Sala que corresponda al Magistrado de su adscripción, en tanto se cuente con la disponibilidad presupuestal para conformar la estructura de las Salas prevista en la Ley.
-
-CUARTO.- Quien se encuentre desempeñando el cargo de Actuario del Tribunal, a la entrada en vigor del presente Reglamento, desempeñará las funciones de actuario de cada una de las Salas, en tanto se cuente con la disponibilidad presupuestal para conformar la estructura de las Salas prevista en la Ley.
-
-APROBADO EN SESIÓN DE PLENO DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, CELEBRADA EN MEXICALI, BAJA CALIFORNIA EL DIA VEINTISIETE DE FEBRERO DE DOS MIL NUEVE.
-
-LIC. ELBA REGINA JIMÉNEZ CASTILLO.
-
-MAGISTRADA PRESIDENTA
-
-LIC. ARMANDO BEJARANO CALDERAS
-
-MAGISTRADO
-
-LIC. GERMÁN LEAL FRANCO
-
-MAGISTRADO
-
-LIC. LEONOR HIMELDA MÁRQUEZ FIOL
-
-SECRETARIA GENERAL DE ACUERDOS
+Segundo. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones, a las unidades administrativas que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el presente ordenamiento.
