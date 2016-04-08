@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2016-03-18"
+last_updated: "2016-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -909,7 +909,9 @@ IX. Desarrollo Urbano, Obra Pública y Vivienda;
 
 X. Educación;
 
-XI. Equidad de Género;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+XI. Igualdad de Género;
 
 XII. Fortalecimiento Municipal y Límites Territoriales;
 
@@ -1241,31 +1243,45 @@ VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, s
 
 VIII. Emitir convocatoria pública para el otorgamiento de la Medalla Michoacán al Mérito Docente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 77.
 
-Corresponde a la Comisión de Equidad de Género, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+Corresponde a la Comisión de Igualdad de Género, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
-I. Las propuestas tendientes a garantizar la equidad entre la mujer y el hombre en la sociedad, así como aquellas que tengan por objeto garantizar la igualdad, la tolerancia y evitar la discriminación;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
 
-II. Las propuestas y medidas legislativas para dar cumplimiento a los acuerdos, convenios y convenciones internacionales suscritos y ratificados por México en materia de apoyo a la mujer, a la equidad de género;
+I. Las propuestas tendientes a garantizar la igualdad entre la mujer y el hombre en la sociedad, así como aquellas que tengan por objeto garantizar la tolerancia y evitar la discriminación;
 
-III. Elaborar una agenda parlamentaria que promueva iniciativas y proyectos para la equidad de género y de manera sustancial los tendientes a erradicar cualquier forma de discriminación y violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+II. Las propuestas y medidas legislativas para dar cumplimiento a los acuerdos, convenios y convenciones internacionales suscritos y ratificados por México en materia de apoyo a la mujer, a la igualdad de género;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+III. Elaborar una agenda parlamentaria que promueva iniciativas y proyectos para la igualdad de género y de manera sustancial los tendientes a erradicar cualquier forma de discriminación y violencia contra las mujeres;
 
 IV. Crear espacios de diálogo, así como de intercambio parlamentario con las instancias gubernamentales, académicas, organizaciones de la sociedad civil, entre otros, con el propósito de intercambiar conocimientos, experiencias y buenas prácticas que ayuden al avance de las mujeres;
 
-V. Promover la cultura de equidad de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+V. Promover la cultura de igualdad de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social;
 
 VI. Promover las medidas de acción positiva que garantice la igualdad sustantiva entre mujeres y hombres en los ámbitos públicos y privados;
 
 VII. Apoyar, cuando se le solicite, a las demás Comisiones en lo relativo a evitar el lenguaje sexista en los proyectos legislativos;
 
-VIII. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la Legislación, así como su reforma, modificación o adición, que se relacione con la equidad de género;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+VIII. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la Legislación, así como su reforma, modificación o adición, que se relacione con la igualdad de género;
 
 IX. La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa, preferencias o situación socioeconómica, entre otros;
 
 X. Participar, en representación del Congreso del Estado, cuando así corresponda en los organismos públicos o sociales que atiendan la problemática de género;
 
-XI. Analizar las condiciones de discriminación y violencia contra las mujeres, con la finalidad de sustentar el desarrollo de iniciativas y proyectos legislativos tendientes a erradicar las desigualdades de género;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+XI. Igualdad de Género;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3892,3 +3908,19 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE VIOLENCIA FAMILIAR EN EL ESTADO DE MECHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 132 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 62 FRACCIÓN XI Y 77 FRACCIONES I, II, III, V, VIII, Y XI DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Todos los asuntos turnados a la actual Comisión de Equidad y Género, se entenderán remitidos a la Comisión de Igualdad de Género.
