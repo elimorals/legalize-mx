@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-justicia-electoral-del-6775
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-13"
-last_updated: "2009-03-13"
+last_updated: "2016-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de marzo de 2009.
 
@@ -1068,3 +1070,13 @@ MAGISTRADO
 LIC. LEONOR HIMELDA MÁRQUEZ FIOL
 
 SECRETARIA GENERAL DE ACUERDOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO PLENARIO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero.- El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior del Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California, publicado en el Periódico Oficial del Estado. No. 13. Tomo CXVI, de fecha 13 de marzo de 2009.
