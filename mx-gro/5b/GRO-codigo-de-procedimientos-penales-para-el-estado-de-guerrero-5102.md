@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2015-10-06"
+last_updated: "2016-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NÚMERO 357
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 503 QUE EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTRADO DE GUERRERO, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO SEGUNDO DE DICHA DECLARATORIA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -1897,7 +1897,9 @@ V. 5 de agosto de 2015: en los Distritos Judiciales de MORELOS, LA MONTAÑA y ZA
 
 VI. 20 de mayo de 2016: en los Distritos Judiciales DE LOS BRAVO, ÁLVAREZ y GUERRERO, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de CHILPANCINGO DE LOS BRAVO.
 
-VII. 20 de mayo de 2016: en los Distritos Judiciales de MINA y CUAUHTÉMOC, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de ARCÉLIA.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+
+VII. 25 de mayo de 2016, en los Distritos Judiciales de MINA y CUAUHTÉMOC, siendo sede para el desahogo de las audiencias procedimentales, la Ciudad de Coyuca de Catalán.
 
 VIII. 1 de junio de 2016: en el Distrito Judicial de TABARES, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de ACAPULCO.
 
@@ -1938,3 +1940,11 @@ Comuníquese el presente Decreto a los Poderes Legislativo, Ejecutivo y Judicial
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 195 POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO SEGUNDO DEL SIMILAR NÚMERO 503 MEDIANTE EL CUAL LA SEXAGÉSIMA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE GUERRERO, EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN ESTA ENTIDAD”.]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquese este Decreto en el Periódico Oficial del Estado y en dos periódicos de circulación en el Estado, así como en los medios electrónicos de que dispone el Congreso del Estado para la debida y amplia divulgación de este Decreto entre sus destinatarios.
