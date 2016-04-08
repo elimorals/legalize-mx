@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2015-08-28"
+last_updated: "2016-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -557,21 +557,31 @@ Los candidatos independientes no podrán ser postulados por un partido político
 
 Quienes hayan sido designados en Consejo Municipal podrán ser electos para el periodo inmediato.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 33.
 
-El Ayuntamiento deberá verificar, antes de aprobar el nombramiento del Jefe de la Policía y sus principales colaboradores, que en el expediente que funde la propuesta figure constancia de:
+El Ayuntamiento deberá verificar, antes de aprobar el nombramiento del Jefe de la Policía y sus principales colaboradores, que en el expediente que funde la propuesta, figure constancia de:
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 I. Evaluación, capacitación y certificación por las instancias estatales competentes;
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 II. Inexistencia de antecedentes penales;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 III. Consulta a los registros estatales y federales de personal de seguridad pública que acredite su adecuado desempeño, que emitirá el Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública; y
 
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
 IV. El cumplimiento de los requisitos que señala la Ley de Seguridad Pública del Estado de Guerrero.
 
-Sin el cumplimiento da los requisitos descritos, los ayuntamientos no podrán aprobar el nombramiento del titular o jefe de la policía, y la contravención a este artículo, se equiparará al delito previsto en la fracción VIII del artículo 243 del Código Penal del Estado de Guerrero.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+Sin el cumplimiento de los requisitos descritos, los ayuntamientos no podrán aprobar el nombramiento del titular o jefe de la policía, y la contravención a este artículo, se equiparará al delito previsto en la fracción VIII del artículo 272 del Código Penal para el Estado Libre y Soberano de Guerrero, Número 499.
 
 ###### ARTICULO 34.
 
@@ -1839,7 +1849,7 @@ III. Otorgar fianza por el manejo de los recursos a su cargo, y a cargo de los e
 
 IV. Imponer las sanciones que correspondan por infracciones a los ordenamientos fiscales, cuya aplicación esté encomendada a la propia Tesorería;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.]</small>
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -1867,7 +1877,7 @@ XIV.- Permitir y facilitar la práctica de auditorías provenientes de la Audito
 
 XV. Glosar oportunamente las cuentas del Ayuntamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.]</small>
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -2349,7 +2359,7 @@ Los Ayuntamientos informarán al Congreso del Estado de las erogaciones que haya
 
 Los Ayuntamientos no podrán otorgar garantías ni efectuar depósitos para el cumplimiento de sus obligaciones, con cargo al presupuesto de egresos de los Municipios, del ejercicio fiscal en curso sin autorización del Congreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.]</small>
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2006)</small>
 
@@ -3485,7 +3495,7 @@ El Secretario de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 5 DE MARZO DE 1991.
 
@@ -3637,7 +3647,7 @@ QUINTO.- Los recursos humanos, materiales y financieros, con que cuente el Centr
 
 SEXTO.- Las referencias que se aluden a la Academia de Capacitación, Formación y de Profesionalización, se entenderán referidas al Instituto de Formación y Capacitación Policial, existente.
 
-SÉPTIMO.- La Contraloría General del Estado, la Secretaría de Finanzas y Administración y la Secretaría de Seguridad Pública y Protección Civil, en un plazo no mayor de sesenta días naturales, a partir de la vigencia de este decreto, dispondrán de los mecanismos y medidas .administrativas presupuestales, de programación y transferencia necesarias para la implementación y desarrollo de los sistemas de administración financiera y de personal, de logística y de servicios generales, para los Sistemas Estatales de Seguridad Pública y Protección Civil; mismos que deberán proveerse para su implementación en el ejercicio fiscal 2010.
+SÉPTIMO.- La Contraloría General del Estado, la Secretaría de Finanzas y Administración y la Secretaría de Seguridad Pública y Protección Civil, en un plazo no mayor de sesenta días naturales, a partir de la vigencia de este decreto, dispondrán de los mecanismos y medidas administrativas presupuestales, de programación y transferencia necesarias para la implementación y desarrollo de los sistemas de administración financiera y de personal, de logística y de servicios generales, para los Sistemas Estatales de Seguridad Pública y Protección Civil; mismos que deberán proveerse para su implementación en el ejercicio fiscal 2010.
 
 OCTAVO.- El Centro Estatal de Evaluación y Control de Confianza expedirá los certificados a los miembros de las instituciones de seguridad pública, una vez que sea certificado por el Centro Nacional de Certificación y Acreditación, mientras tanto continuará aplicando los procedimientos de evaluación y control de confianza, conforme a los parámetros y mecánica operativa definida por el Sistema Nacional de Seguridad Pública.
 
@@ -3647,7 +3657,7 @@ DÉCIMO.- Las Comisiones del Servicio Profesional de Carrera y de Honor y Justic
 
 DÉCIMO PRIMERO.- Los asuntos que actualmente se encuentran en trámite ante los Consejos o Comisiones de Honor y Justicia y los que se inicien con anterioridad a la vigencia de este Decreto, deberán substanciarse y resolverse conforme las disposiciones vigentes al momento en que se suscitaron los hechos que los motivaron.
 
-DÉCIMO SEGUNDO.- Los Ayuntamientos, deberán alinear la organización, operación y procedimientos de sus Instituciones de Seguridad Pública , así como emitir o adecuar sus reglamentos en esta materia, a las bases que se consignan en este Decreto, en un término no mayor a noventa días hábiles, a partir de la publicación del mismo.
+DÉCIMO SEGUNDO.- Los Ayuntamientos, deberán alinear la organización, operación y procedimientos de sus Instituciones de Seguridad Pública, así como emitir o adecuar sus reglamentos en esta materia, a las bases que se consignan en este Decreto, en un término no mayor a noventa días hábiles, a partir de la publicación del mismo.
 
 DÉCIMO TERCERO.- Sin perjuicio de las bases previstas en el presente Decreto, las instituciones del Cuerpo de Policía Estatal, podrán organizarse de acuerdo a sus capacidades y necesidades administrativas, operativas y presupuestales, siempre que no contravengan imperativos categóricos ordenados en este Decreto que desvirtúen el objetivo y alcance de sus disposiciones.
 
@@ -3824,3 +3834,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 193 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado y en las redes sociales de internet.
