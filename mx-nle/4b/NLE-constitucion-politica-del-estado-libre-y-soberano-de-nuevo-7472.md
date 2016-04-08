@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2016-03-11"
+last_updated: "2016-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -903,9 +903,11 @@ VI.- Ordenar, el establecimiento o supresión de Municipios, por el voto de las 
 
 Por acuerdo de las dos terceras partes de la Legislatura, se podrán suspender Ayuntamientos o declarar que estos han desaparecido, así como suspender o revocar el mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, respetándose en todos los casos la garantía de audiencia.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2016)</small>
 
-VII.- Examinar y aprobar anualmente, a propuesta del Gobernador, la Ley de Ingresos del Estado y los proyectos y arbitrios de pública utilidad.
+VII.- Examinar y aprobar anualmente, a propuesta del Gobernador, la Ley de Ingresos del Estado y los proyectos y arbitrios de pública utilidad. Una vez analizado y discutido el proyecto de Ley de Ingresos de Estado que corresponda, el Congreso podrá modificarlo, motivando y justificando los cambios realizados.
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
 
 Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Ingresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
@@ -913,9 +915,13 @@ Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley 
 
 VIII.- Aprobar la Ley Orgánica que establezca la estructura fundamental de la organización de la Administración Pública, señalando los ramos que la integran y sus respectivas competencias.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2016)</small>
 
-IX.- Examinar y aprobar anualmente, a propuesta del Gobernador, el Presupuesto de Egresos del Gobierno del Estado, estableciendo en él, los sueldos aplicables al Gobernador del Estado y a los Secretarios que le reporten, así como las partidas autorizadas para remuneraciones del personal de cada Secretaría.
+IX.- Examinar y aprobar anualmente, a propuesta del Gobernador, el Presupuesto de Egresos de los Poderes del Estado y los proyectos y arbitrios de pública utilidad. Una vez analizado y discutido el proyecto de ley correspondiente, el Congreso podrá modificarlo, motivando y justificando los cambios realizados; además establecerá en él, los sueldos aplicables al Gobernador del Estado y a los Secretarios que le reporten, así como las partidas autorizadas para remuneraciones del personal de cada Secretaría;
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2016)</small>
+
+EI presupuesto seguirá el proceso establecido en el Artículo 71 de esta Constitución con excepción del plazo para hacer las observaciones que será de tres días.
 
 Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Egresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
@@ -5763,9 +5769,11 @@ Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pl
 
 En cualquier tiempo puede ser reformada esta Constitución, mas las reformas que se propongan, para ser admitidas a discusión, necesitarán el voto de la mayoría de los miembros presentes del Congreso.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### Art. 149.
 
-Tomadas en consideración las adiciones o reformas se publicarán y circularán profusamente con un extracto de la discusión, y no podrán ser votadas antes del inmediato período de sesiones.
+Tomadas en consideración las adiciones o reformas se publicaran y circularan profusamente con extracto de la discusión, pudiendo ser votadas en ese mismo periodo de sesiones, siguiendo el procedimiento para su discusión y aprobación que establece la ley de la materia.
 
 ###### Art. 150.
 
@@ -14765,7 +14773,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -14943,7 +14951,7 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 20 DE NOVIEMBRE DE 1992.
 
-UNICO:- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE MARZO DE 1993.
 
@@ -15500,3 +15508,11 @@ P.O. 11 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 078. SE REFORMA EL ARTICULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 089. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN VII DEL ARTÍCULO 63; EL PRIMER PÁRRAFO DE LA FRACCIÓN IX DEL ARTÍCULO 149; Y POR ADICIÓN DE UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 149, RECORRIÉNDOSE LOS SUBSECUENTES, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN ".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En un término de 180 días hábiles a la entrada en vigor del presente Decreto, este Poder Legislativo, modificará las leyes y reglamentos concernientes a la materia.
