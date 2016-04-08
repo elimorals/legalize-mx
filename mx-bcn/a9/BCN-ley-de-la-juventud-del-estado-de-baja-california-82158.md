@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2013-06-28"
+last_updated: "2016-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -1047,7 +1047,7 @@ XXXIII.- Desarrollar programas para la adecuada orientación vocacional y profes
 
 XXXIV.- Fomentar la atención a los problemas de salud de los jóvenes, principalmente mediante medidas preventivas de orientación y asesoramiento en el campo de la sexualidad, planeación familiar, adicciones y salud mental;
 
-XXXV.- impulsar la participación del sector privado y social, para apoyar, encauzar, motivar y promover a los jóvenes en actividades de educación académica, capacitación laboral, rehabilitación de adicciones, educación sexual, desenvolvimiento de sus aptitudes en las artes, la ciencia y el deporte, y (sic)
+XXXV.- impulsar la participación del sector privado y social, para apoyar, encauzar, motivar y promover a los jóvenes en actividades de educación académica, capacitación laboral, rehabilitación de adicciones, educación sexual, desenvolvimiento de sus aptitudes en las artes, la ciencia y el deporte, y
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2013)</small>
 
@@ -1167,7 +1167,7 @@ VI.- No encontrarse inhabilitado para ejercer el comercio o para desempeñar un 
 
 VII.- No ser titular y servidor público del Poder Legislativo y Judicial del Estado de Baja California, y
 
-VIII.- Haber destacado por su labor a favor de la juventud, contar con carrera técnica o profesional a fin (sic) al cargo, y tener experiencia en actividades relacionadas con la atención a la problemática de la juventud.
+VIII.- Haber destacado por su labor a favor de la juventud, contar con carrera técnica o profesional a fin al cargo, y tener experiencia en actividades relacionadas con la atención a la problemática de la juventud.
 
 ###### ARTÍCULO 92.
 
@@ -1283,25 +1283,37 @@ El Parlamento es un espacio de expresión política de los jóvenes, promovido p
 
 Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opiniones y propuestas sobre los temas y problemas que consideren de mayor impacto en la sociedad y en la vida de la juventud Bajacaliforniana.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 105.
 
-La Comisión en coordinación y colaboración con el Instituto, programará la instalación anual del Parlamento para llevarse a cabo en la sede del Congreso del Estado, donde sus integrantes juveniles contarán con el derecho a usar la tribuna para presentar un ensayo legislativo.
+La Comisión, en coordinación y colaboración con el Instituto, cada tres años programará la instalación del Parlamento, la cual se llevará a cabo en la sede del Congreso del Estado.
 
-Los jóvenes que participen en el Parlamento, recibirán una constancia de reconocimiento como legislador juvenil, y se premiará a aquellos que presenten los mejores ensayos legislativos.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 106.
 
-El Parlamento contará con un Comité Organizador que será designado por la Comisión, será el encargado de establecer las bases de la convocatoria, selección de aspirantes, categorías, logística, temáticas, premios y desarrollo del Parlamento, procurando en todo momento que los temas sean de actualidad y tengan impacto directo en la juventud Bajacaliforniana.
+Para la instalación del Parlamento, la Comisión de Juventud y Deporte designará los integrantes del Comité Organizador, los cuales serán cargos honoríficos.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 107.
 
-Podrán participar en el Parlamento, todos los jóvenes siempre y cuando, cumplan con los requisitos establecidos en las bases y lineamientos de la Convocatoria.
+Los requisitos para ser Parlamentario Juvenil son los siguientes:
+
+I.- Ser ciudadano mexicano con residencia en el Estado de Baja California;
+
+II.- Tener una edad máxima de hasta 29 años, a la fecha que establezca la convocatoria y las demás disposiciones aplicables;
+
+III.- Presentar un Proyecto Legislativo con los requisitos que establezca la convocatoria correspondiente y las demás disposiciones aplicables;
+
+IV.- Los demás que establezca la convocatoria correspondiente y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 108.
 
-El Congreso del Estado por conducto de la Comisión, elaborará una memoria documental y digital sobre los trabajos que se efectúen cada año, con motivo de la instalación y clausura de un Parlamento.
-
-La Comisión se encargará de atender, canalizar y dar seguimiento a los planteamientos que formulen los legisladores juveniles del Parlamento.
+La instalación de cada nueva legislatura del Parlamento se realizará cada tres años. El cargo de Parlamentario Juvenil tendrá la misma duración y será de naturaleza honorífica.
 
 ## TÍTULO SÉPTIMO. RÉGIMEN DE TRABAJO Y DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1410,3 +1422,15 @@ Publíquese el presente Decreto en el Periódico oficial del Estado de Baja Cali
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 470 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 105, 106, 107 Y 108 DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto no tendrá aplicación retroactiva para el Segundo Parlamento de la Juventud de Baja California ni para sus integrantes, quienes concluyen su cargo en el presente año, una vez concluida la duración del año, computado a partir de su instalación.
