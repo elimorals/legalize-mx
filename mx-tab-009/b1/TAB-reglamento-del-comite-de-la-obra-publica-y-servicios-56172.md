@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-la-obra-publica-y-servicios-56172"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-13"
-last_updated: "2011-04-09"
+last_updated: "2016-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "TAB"
 
 REGLAMENTO DEL COMITÉ DE LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL MUNICIPIO DE JALAPA, TABASCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA DEL MUNICIPIO DE JALAPA, TABASCO, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA DEL MUNICIPIO DE JALAPA, TABASCO, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2011 Y POR EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA DEL MUNICIPIO DE JALAPA, TABASCO, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2016 EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2016 (ABROGADA).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 13 de junio de 2007.
 
@@ -702,3 +702,23 @@ El presente Reglamento estará en vigor a partir del día siguiente de su public
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo ordenado en el presente reglamento, así como el Reglamento del Comité de Obra Pública y Servicios Relacionados con la misma del Municipio de Jalapa, Tabasco, publicado el Trece de Junio del Dos Mil Siete, en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 9 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA DEL MUNICIPIO DE JALAPA, TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+En lo no previsto por el presente Reglamento, se aplica de manera supletoria las disposiciones establecidas en la Ley de Obras (sic) Publica y Servicios relacionados con las mismas del Estado de Tabasco y su Reglamento
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento estara (sic) en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo ordenado en el presente reglamento, así como el reglamento del comité de Obra Pública y Servicios Relacionados con la misma del Municipio de Jalapa. Tabasco, publicado el trece de Junio del dos mil siete, en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo ordenado en el presente reglamento así como el Reglamento del Comité de Obra Pública y Servicios relacionados con las mismas del Municipio de Jalapa, Tabasco, publicado en Periódico Oficial Suplemento Número 7187C de fecha 9 de Abril de 2011.
