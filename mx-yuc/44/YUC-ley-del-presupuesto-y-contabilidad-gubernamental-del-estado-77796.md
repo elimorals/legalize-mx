@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-y-contabilidad-gubernamental-del-estado-777
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2014-04-25"
+last_updated: "2016-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ABRIL DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2010.
 
@@ -143,7 +143,7 @@ XLI. GASTO REGULARIZABLE: Las erogaciones que con cargo al Presupuesto de Egreso
 
 XLII. GESTIÓN: El grupo de acciones necesarias para transformar determinados insumos en productos, en un período determinado y en el marco de un programa, proyecto o actividad en particular;
 
-XLIII. HACIENDA: La Secretaría de Hacienda de la Administración Pública del Estado o la dependencia entre cuyas atribuciones se encuentre la administración de los ingresos y el pago de las obligaciones de gasto del Gobierno del Estado;
+XLIII. (DEROGADA, D.O. 9 DE ABRIL DE 2016)
 
 XLIV. INDICADOR: La expresión cualitativa o cuantitativa observable que permite describir características, comportamientos o fenómenos de la realidad, a través del establecimiento de una relación entre variables. Esta relación, comparada con periodos anteriores, productos similares o una meta o compromiso, permite evaluar el desempeño y su evolución en el tiempo. Son insumos necesarios para llevar a cabo el seguimiento y la evaluación de la gestión y el desempeño;
 
@@ -167,7 +167,7 @@ LIII. LEY GENERAL: La Ley General de Contabilidad Gubernamental;
 
 LIV. MUNICIPIOS: Los municipios que integran el Estado;
 
-LV. OFICIALÍA: La Oficialía Mayor del Gobierno del Estado;
+LV. (DEROGADA, D.O. 9 DE ABRIL DE 2016)
 
 LVI. ORGANISMOS AUTÓNOMOS: Las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Yucatán a las que se asignen recursos del Presupuesto de Egresos, a través de los ramos autónomos;
 
@@ -223,7 +223,9 @@ LXXXI. RAMOS GENERALES: Los ramos cuya asignación de recursos en el Presupuesto
 
 LXXXII. REGLAMENTO: El Reglamento de la Ley de Presupuesto y Contabilidad del Estado de Yucatán;
 
-LXXXIII. REGLAS DE OPERACIÓN: Las disposiciones a las cuales se sujeta la ejecución de determinados programas, los cuales generalmente implican el otorgamiento de subsidios y ayudas en numerario o en especie, con el fin de otorgar transparencia y asegurar la aplicación eficiente, eficaz y oportuna de los recursos públicos asignados a los mismos;
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+LXXXIII. REGLAS DE OPERACIÓN: Las disposiciones normativas a las que se sujeta la ejecución de determinados programas que generalmente implican el otorgamiento de subsidios y ayudas, en numerario o en especie, con el fin de asegurar y transparentar la aplicación eficiente, eficaz y oportuna de los recursos públicos asignados a estos;
 
 LXXXIV. REMUNERACIONES: La retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
 
@@ -233,7 +235,9 @@ LXXXVI. REQUERIMIENTOS FINANCIEROS DEL SECTOR PÚBLICO: Las necesidades de finan
 
 LXXXVII. RESPONSABILIDAD HACENDARlA: La observancia de los principios y las disposiciones de esta Ley, de la Ley de Ingresos, del Presupuesto de Egresos y de los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestal, la disciplina fiscal y el cumplimiento de las metas de los programas y proyectos públicos;
 
-LXXXVIII. SECRETARÍA: La Secretaría de Planeación y Presupuesto de la Administración Pública del Estado de Yucatán o la dependencia entre cuyas atribuciones se encuentren las de elaborar, operar y controlar el Presupuesto de Egresos del Gobierno del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+LXXXVIII. SECRETARÍA: La Secretaría de Administración y Finanzas de la Administración Pública del estado de Yucatán.
 
 LXXXIX. SEGUIMIENTO: El proceso continuo a través del cual los involucrados obtienen regularmente una retroalimentación sobre los avances en la consecución de las metas y objetivos. Informa tanto sobre la ejecución de las acciones programadas como de los avances en la obtención de los resultados propuestos;
 
@@ -253,9 +257,11 @@ XCVI. UNIDADES DE ADMINISTRACIÓN: Los órganos de los ejecutores de gasto, prev
 
 XCVII. UNIDAD RESPONSABLE DE GASTO: El área administrativa de los Poderes Legislativo y Judicial, de los organismos autónomos, del Despacho del Gobernador, de las dependencias y, en su caso, de las entidades y Ayuntamientos, la cual está obligada a la rendición de cuentas en relación con los recursos humanos, materiales y financieros que administran para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada al ramo o entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 3.
 
-La Secretaría, Hacienda y la Contraloría, en el ámbito de sus respectivas competencias, interpretarán las disposiciones de esta Ley y resolverán las dudas y controversias que los Ejecutores de Gasto le presenten en relación con la aplicación de esta Ley.
+La Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, interpretarán las disposiciones de esta Ley y resolverán las dudas y controversias que los Ejecutores de Gasto le presenten en relación con su aplicación.
 
 Los Ayuntamientos podrán emitir lineamientos y disposiciones de carácter general en el ámbito de su respectiva competencia, con base en esta Ley, que les permitan la estricta aplicación de las normas en materia presupuestal, contable y de control de los recursos públicos.
 
@@ -263,9 +269,11 @@ En el caso de los Poderes Legislativo y Judicial y de los organismos autónomos,
 
 Las disposiciones generales a que se refieren este artículo deberán publicarse en el Diario Oficial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 4.
 
-Los Sujetos Obligados a cumplir las disposiciones de esta Ley, deberán procurar que la administración de los recursos de la hacienda pública se realice con base en criterios de anualidad, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y con una perspectiva que fomente la equidad de género, la igualdad de oportunidades para la etnia maya, el cuidado del medio ambiente y el respeto a los derechos humanos.
+Los Sujetos Obligados a cumplir las disposiciones de esta Ley, deberán procurar que la administración de los recursos de la hacienda pública se realice con base en criterios de anualidad, legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y con una perspectiva que fomente la equidad de género, la igualdad de oportunidades para la etnia maya, el cuidado del medio ambiente, el respeto a los derechos humanos y la protección de grupos vulnerables.
 
 Los proyectos de presupuestos de egresos para cada ejercicio fiscal señalarán los resultados que se propongan alcanzar con los programas presupuestados e incluirán sus correspondientes indicadores de desempeño.
 
@@ -309,7 +317,9 @@ f) Coadyuvar con la disciplina presupuestal, determinando los ajustes que corres
 
 g) Elaborar sus calendarios presupuestales y enviarlos a la Secretaría a más tardar el 15 de enero del ejercicio fiscal correspondiente, los cuales quedan sujetos a la capacidad financiera de la hacienda pública;
 
-h) Llevar la contabilidad y elaborar sus informes, conforme a lo previsto en esta Ley y demás disposiciones aplicables, así como enviarlos a la Secretaría y la de Hacienda para su integración a los informes trimestrales y a la Cuenta Pública, respectivamente, e
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+h) Llevar la contabilidad y elaborar sus informes, conforme a lo previsto en esta Ley y demás disposiciones aplicables, así como enviarlos a la Secretaría para su integración a los informes trimestrales y a la Cuenta Pública, respectivamente, e
 
 i) Incluir en sus proyectos de presupuestos las categorías laborales con el número de plazas y el desglose de todas las remuneraciones correspondientes a cada una.
 
@@ -317,7 +327,9 @@ II. En el caso de las entidades, conforme a las atribuciones y obligaciones que 
 
 a) Aprobar sus anteproyectos de presupuesto y enviarlos a la Secretaría, por conducto de la Dependencia Coordinadora de sector, para su integración al Proyecto de Presupuesto de Egresos, respetando los techos globales de gasto y los criterios generales en los cuales se basa la previsión de gasto proporcionados por el Poder Ejecutivo del Estado, por conducto de la Secretaría;
 
-b) Ejercer el presupuesto aprobado acatando lo dispuesto en esta Ley, sujetándose a las disposiciones generales que correspondan emitidas por la Secretaría, Hacienda y la Contraloría, estando sujeto a la evaluación y el control de los órganos correspondientes;
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+b) Ejercer el presupuesto aprobado acatando lo dispuesto en esta Ley, sujetándose a las disposiciones generales que correspondan emitidas por la Secretaría y la Contraloría, estando sujeto a la evaluación y el control de los órganos correspondientes;
 
 c) Autorizar las adecuaciones a su presupuesto por conducto de su órgano competente, sin requerir la autorización de la Secretaría, siempre que no rebasen el techo global de su flujo de efectivo, aprobado en el Presupuesto de Egresos, y
 
@@ -327,7 +339,9 @@ d) Cumplir las previsiones a que se refieren los incisos d), e), f), g), h) e i)
 
 El Poder Ejecutivo del Estado, por conducto de la Secretaría, estará a cargo de la programación y presupuestación del gasto público correspondiente a las Dependencias y Entidades.
 
-El control y la evaluación financiera de dicho gasto corresponderán a la Secretaria, Hacienda y la Contraloría, en el ámbito de sus respectivas atribuciones. La Contraloría inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, en relación con el ejercicio de dicho gasto.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+El control y la evaluación financiera de dicho gasto corresponderán a la Secretaría y la Contraloría, en el ámbito de sus respectivas atribuciones. La Contraloría inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, en relación con el ejercicio de dicho gasto.
 
 Los Poderes Legislativo y Judicial y los organismos autónomos, por conducto de sus respectivas áreas competentes, deberán coordinarse con la Secretaría para efectos de la programación y presupuestación en los términos previstos en esta Ley. El control y la evaluación de dicho gasto corresponderán a los órganos competentes, en los términos previstos en sus respectivas leyes orgánicas y demás disposiciones legales aplicables.
 
@@ -341,9 +355,11 @@ En el caso de las Entidades no coordinadas, corresponderá a la Secretaría orie
 
 Para los efectos de este artículo, el Poder Ejecutivo publicará anualmente, previamente al inicio del proceso de elaboración del presupuesto de Egresos, un decreto en el cual establecerá la sectorización administrativa de las entidades paraestatales, a propuesta de la Secretaría. La omisión de dicha publicación anual mantendrá vigente la publicación inmediata anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 9.
 
-La Secretaría y Hacienda operarán un sistema informático para la administración y control de los recursos públicos, con el fin de optimizar y simplificar las operaciones de programación, presupuestación, registro presupuestal y trámite de pago, además de concentrar la información presupuestal, financiera y contable de la Administración Pública. Los Ejecutores de Gasto incorporarán al referido sistema, la información presupuestal, financiera y contable conforme a las previsiones de esta Ley, su Reglamento y las disposiciones generales que para tal fin emitan las áreas administrativas competentes.
+La Secretaría operará un sistema informático para la administración y control de los recursos públicos, con el fin de optimizar y simplificar las operaciones de programación, presupuestación, registro presupuestal y trámite de pago, además de concentrar la información presupuestal, financiera y contable de la Administración Pública. Los Ejecutores de Gasto incorporarán al referido sistema, la información presupuestal, financiera y contable conforme a las previsiones de esta Ley, su Reglamento y las disposiciones generales que para tal fin emitan las áreas administrativas competentes.
 
 Los Poderes Legislativo y Judicial y Organismos Autónomos convendrán con la Secretaría la instrumentación del sistema en el ámbito de sus respectivas competencias, con el propósito de armonizar sus registros presupuestales y contables, conforme a la Ley General de Contabilidad Gubernamental, y de presentar periódicamente la información correspondiente.
 
@@ -369,9 +385,11 @@ V.- La forma en que los archivos electrónicos generados deberán conservarse, a
 
 Los Poderes Legislativo y Judicial y los organismos autónomos, por conducto de sus correspondientes áreas competentes, podrán celebrar convenios con la Secretaría para la utilización de los equipos y sistemas electrónicos a que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 11.
 
-La Secretaría y la Oficialía deberán establecer programas, políticas y directrices para promover la eficiencia y eficacia en la gestión pública, encaminadas a modernizar y mejorar la prestación de los servicios públicos, promover la productividad en el desempeño de las funciones de las Dependencias y Entidades, y reducir los gastos de operación.
+La Secretaría deberá establecer programas, políticas y directrices para promover la eficiencia y eficacia en la gestión pública, encaminadas a modernizar y mejorar la prestación de los servicios públicos, promover la productividad en el desempeño de las funciones de las Dependencias y Entidades, y reducir los gastos de operación.
 
 Igualmente, promoverán que la gestión pública adopte una perspectiva que favorezca la equidad de género y los derechos humanos.
 
@@ -417,7 +435,7 @@ Los informes deberán remitirse a la Secretaría para efectos de la integración
 
 Los fideicomisos públicos que tengan como objeto principal financiar programas y proyectos de inversión deberán sujetarse a las disposiciones generales en la materia.
 
-Los fideicomisos públicos deberán registrarse ante la Secretaría en los términos y condiciones que se establecen el (sic) Reglamento.
+Los fideicomisos públicos deberán registrarse ante la Secretaría en los términos y condiciones que se establecen (sic) el Reglamento.
 
 Cuando los fideicomisos públicos no cuenten con las autorizaciones de la Secretaría a que se refiere este artículo o no lleven a cabo los registros a que se refiere el párrafo precedente, procederá su extinción o liquidación.
 
@@ -503,9 +521,11 @@ Todo proyecto de iniciativa de ley o decreto, reglamento o acuerdo que elaboren 
 
 En el caso de que dichos proyectos impliquen erogaciones adicionales a las presupuestadas y con el propósito de guardar el equilibrio presupuestal, se deberá señalar su fuente de financiamiento ya sea mediante ingresos excedentes, la cancelación o suspensión de programas o proyectos, la creación de nuevas contribuciones o bien, por eficiencia recaudatoria.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 26.
 
-Las Dependencias y Entidades que celebren convenios o contratos con la Federación, los cuales impliquen ingresos para la Hacienda Pública Estatal, deberán remitir copia de éstos a la Secretaría y la de Hacienda, para efectos de conocer los montos de ingresos que serán depositados, así como darlos de alta en sus presupuestos aprobados, respectivamente.
+Las Dependencias y Entidades que celebren convenios o contratos con la Federación, los cuales impliquen ingresos para la Hacienda Pública Estatal, deberán remitir copia de estos a la Secretaría, para efectos de conocer los montos de ingresos que serán depositados, así como darlos de alta en sus presupuestos aprobados, respectivamente.
 
 ###### Artículo 27.
 
@@ -531,13 +551,17 @@ En los informes trimestrales y la Cuenta Pública, el Poder Ejecutivo dará cuen
 
 Los Poderes Legislativo y Judicial, los organismos autónomos y los órganos de gobierno de las entidades podrán autorizar erogaciones adicionales a las aprobadas en sus presupuestos respectivos, con cargo a los ingresos excedentes que en su caso generen, siempre y cuando:
 
-I.- Registren ante Hacienda dichos ingresos en los conceptos correspondientes de la Ley de Ingresos, y
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+I.- Registren ante la Secretaría dichos ingresos en los conceptos correspondientes de la Ley de Ingresos, y
 
 II.- Informen a la Secretaría sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
 
 Los Poderes Legislativo y Judicial, Organismos Autónomos y Entidades deberán publicar en el Diario Oficial del Estado de Yucatán los ingresos del periodo incluyendo los rendimientos financieros, egresos, destino y saldo de los fideicomisos en los que participen, en los términos de las disposiciones que resulten aplicables.
 
-Esta información deberá remitirse a la Secretaría a más tardar 15 días hábiles posteriores al cierre del trimestre correspondiente. Asimismo, deberán reportar a la Secretaría y la de Hacienda el ejercicio de los recursos públicos aportados y aplicados en dichos fideicomisos para efectos de integración en la Cuenta Pública.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+Esta información deberá remitirse a la Secretaría a más tardar 15 días hábiles posteriores al cierre del trimestre correspondiente. Asimismo, deberán reportar a la Secretaría el ejercicio de los recursos públicos aportados y aplicados en dichos fideicomisos para efectos de integración en la Cuenta Pública.
 
 Los Poderes Legislativo y Judicial y organismos autónomos, de conformidad con las disposiciones de esta Ley deberán coadyuvar al cumplimiento de las normas de disciplina y de equilibro presupuestales a que se refiere este artículo y la fracción I inciso f) del artículo 6 de esta Ley, a través de erogaciones adicionales y disminuciones de gastos en sus respectivos presupuestos. En todo caso la autorización deberá ser expresa y previa al ejercicio de la ampliación. Asimismo, deberán informar en la Cuenta Pública los ajustes realizados.
 
@@ -583,15 +607,19 @@ La Secretaría cumplirá estrictamente los calendarios de presupuesto asignado a
 
 Queda prohibido a las unidades responsables contraer compromisos que rebasen el monto de sus presupuestos autorizados o efectuar erogaciones que impidan el cumplimiento de sus actividades institucionales aprobadas.
 
-Hacienda deberá publicar en el Diario Oficial el monto y la calendarización de las participaciones en los ingresos federales y estatales; y la Secretaría el monto de los fondos de aportaciones federales destinadas a los municipios, dentro de los 15 días siguientes a la publicación de su distribución entre las entidades federativas que se haga en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+La Secretaría deberá publicar en el Diario Oficial el monto y la calendarización de las participaciones en los ingresos federales y estatales, así como el monto de los fondos de aportaciones federales destinadas a los municipios, dentro de los 15 días siguientes a la publicación de su distribución entre las entidades federativas que se haga en el Diario Oficial de la Federación.
 
 ###### Artículo 31.
 
 La Secretaría podrá establecer plazos para que las Dependencias y Entidades subsanen los subejercicios de sus presupuestos. En caso contrario, la Secretaría podrá reasignar dichos recursos preferentemente en inversión de infraestructura social y programas sociales aprobados en el Presupuesto de Egresos.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 32.
 
-Hacienda publicará en el Diario Oficial, a más tardar el 15 de febrero del ejercicio fiscal de que se trate, el calendario mensual de ingresos previstos en la Ley de Ingresos. Las Dependencias y Entidades realizarán la previsión de los ingresos conforme a dicho calendario.
+La Secretaría publicará en el Diario Oficial, a más tardar el 15 de febrero del ejercicio fiscal de que se trate, el calendario mensual de ingresos previstos en la Ley de Ingresos. Las Dependencias y Entidades realizarán la previsión de los ingresos conforme a dicho calendario.
 
 ## TÍTULO SEGUNDO. DE LA PROGRAMACIÓN, PRESUPUESTACIÓN Y APROBACIÓN
 
@@ -626,6 +654,46 @@ II.- Las previsiones de gasto público para cubrir los recursos humanos, materia
 III.- Los Programas Operativos Anuales de los Poderes Legislativo y Judicial y organismos autónomos, los cuales contendrán las actividades y sus respectivas previsiones de gasto público.
 
 La consolidación de todos los programas operativos anuales integra el Programa Operativo Anual Global. Las previsiones de gasto para llevarlo a cabo constituyen el Proyecto de Presupuesto de Egresos del Gobierno del Estado que se somete a la aprobación del Congreso del Estado.
+
+> <small>(ADICIONADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+###### Artículo 34 Bis.
+
+El ejercicio de los recursos públicos se realizará a través de programas presupuestarios orientados a resultados, cuyo diseño deberá comprender, al menos, los siguientes elementos:
+
+I.- Nombre;
+
+II.- Antecedentes;
+
+III.- Análisis del marco jurídico y factibilidad legal;
+
+IV.- Alineación con la planeación del desarrollo y coherencia con otros programas o intervenciones públicas;
+
+V.- Diagnóstico en el que se identifique el problema y se analice su lógica causal;
+
+VI.- Identificar la jerarquía de objetivos de la intervención, diferenciando el objetivo del programa de los objetivos de producción;
+
+VII.- Identificación y cuantificación de la población potencial, la población objetivo y la población programada a atender, así como la cobertura territorial;
+
+VIII.- Descripción del programa y, en su caso, análisis y atención de las perspectivas transversales en la intervención pública;
+
+IX.- Matriz de indicadores de desempeño, que contenga el fin, el propósito, los componentes y las actividades;
+
+X.- Programación de resultados y costos al mediano plazo, y
+
+XI.- Instrumentos para la generación de información y su aprovechamiento estadístico.
+
+XII.- Identificar la dependencia o entidad coordinadora del programa y las responsables de la ejecución de sus componentes, en su caso.
+
+XIII.- Resultados obtenidos de las evaluaciones del desempeño aplicadas a los programas presupuesto similares preexistentes.
+
+Las Dependencias y Entidades tendrán la obligación de diseñar los programas presupuestarios con base en la metodología de marco lógico y mantenerlos actualizados. Para tal efecto, la Secretaría emitirá la normatividad que desarrolle la forma de dar cumplimiento a los elementos requeridos para su diseño.
+
+Los ejecutores del gasto deberán presentar a la Secretaría, a más tardar el 15 de agosto de cada año, los proyectos de programas presupuestarios de nueva creación, o aquellos preexistentes que requieran ser modificados, de acuerdo con los requerimientos establecidos en este artículo para su validación, a efecto de que puedan ser implementados en el ejercicio fiscal siguiente.
+
+En los programas presupuestarios de beneficio directo a individuos o grupos sociales, los montos se establecerán con base en criterios que deberán privilegiar a la población de menos ingresos y procurar la equidad entre las regiones del estado, sin demérito de la eficiencia en el logro de los objetivos.
+
+Las Dependencias y Entidades deberán evitar que en el diseño y operación de los programas presupuestarios se incluyan o apliquen criterios discriminatorios.
 
 ###### Artículo 35.
 
@@ -721,25 +789,31 @@ La Ley de Ingresos y el Presupuesto de Egresos serán los que apruebe el Congres
 
 El presupuesto contenido en la Ley de Ingresos comprenderá la estimación de los ingresos que perciba el Estado durante su vigencia anual y exclusivamente por los conceptos que en ella se establezcan de conformidad con la Constitución. La Ley y las demás disposiciones aplicables servirán de base para la elaboración de la iniciativa de Ley de Ingresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 47.
 
-Las Dependencias, Entidades, Poderes Legislativo y Judicial y órganos autónomos, cuyas actividades generen ingresos fiscales, deberán comunicar a Hacienda y la Secretaría la estimación de sus ingresos para el siguiente ejercicio fiscal, a más tardar el 30 de septiembre.
+Las Dependencias, Entidades, Poderes Legislativo y Judicial y órganos autónomos, cuyas actividades generen ingresos fiscales, deberán comunicar a la Secretaría la estimación de sus ingresos para el siguiente ejercicio fiscal, a más tardar el 30 de septiembre.
 
 Las estimaciones de ingresos incluirán la expectativa de recaudación fiscal, los recursos que generen directamente con motivo del cumplimiento de sus objetivos y los provenientes de transferencias, subsidios y convenios, así como todo otro ingreso que sea objeto de gasto durante el ejercicio fiscal, cualquiera que sea su origen y naturaleza.
 
 Todas las contraprestaciones por la prestación de servicios públicos por parte de los ejecutores de gasto serán considerados derechos y deberán estar incluidos en la legislación hacendaria para poder cobrarlos.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 48.
 
-Hacienda formulará el proyecto de iniciativa de Ley de Ingresos, con fundamento en esta Ley y demás disposiciones legales aplicables y la someterá a la consideración del Poder Ejecutivo con el fin de que la presente al Congreso.
+La Secretaría formulará el proyecto de iniciativa de Ley de Ingresos, con fundamento en esta Ley y demás disposiciones legales aplicables y la someterá a la consideración del Poder Ejecutivo con el fin de que la presente al Congreso.
 
 ###### Artículo 49.
 
 Si al concluir un ejercicio fiscal, por cualquier causa no se hubiere aprobado la Ley de Ingresos que deba aplicarse en el siguiente ejercicio, seguirá vigente la del ejercicio fiscal precedente entre tanto no la autorice el Congreso.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 50.
 
-El Poder Ejecutivo podrá disponer que los ingresos de las entidades del sector paraestatal se recauden o concentren en Hacienda.
+El Poder Ejecutivo podrá disponer que los ingresos de las entidades del sector paraestatal se recauden por la Agencia de Administración Fiscal de Yucatán y se concentren en la Secretaría.
 
 ###### Artículo 51.
 
@@ -841,13 +915,15 @@ La Secretaría podrá solicitar a las ejecutoras de gasto toda la información q
 
 ###### Artículo 55.
 
-El Poder Ejecutivo directamente o por conducto la (sic) Secretaría mantendrá comunicación y relaciones de coordinación con la Administración Pública Federal, con el fin de conocer oportunamente las circunstancias internas y externas que afecten el gasto público que se ejerza en el Estado y de que se tomen las previsiones convenientes para la presupuestación anual.
+El Poder Ejecutivo directamente o por conducto (sic) la Secretaría mantendrá comunicación y relaciones de coordinación con la Administración Pública Federal, con el fin de conocer oportunamente las circunstancias internas y externas que afecten el gasto público que se ejerza en el Estado y de que se tomen las previsiones convenientes para la presupuestación anual.
 
 La Secretaría comunicará oportunamente a los Ejecutores de Gasto y los municipios los cambios en las circunstancias a que se refiere el párrafo precedente cuando afecten los presupuestos del ejercicio fiscal en curso o deban considerarse para que hagan las previsiones relacionadas con la elaboración de sus proyectos de presupuestos.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 56.
 
-La Secretaría, a petición expresa de los Poderes Legislativo y Judicial o de los organismos autónomos, proporcionará a éstos asesoría y apoyo técnico en materia de planeación, programación y presupuestación, así como la información disponible que soliciten en relación con la preparación y ejercicio de sus respectivos presupuestos. Lo mismo hará Hacienda en relación con la contabilidad gubernamental.
+La Secretaría, a petición expresa de los Poderes Legislativo y Judicial o de los organismos autónomos, les proporcionará asesoría y apoyo técnico en materia de planeación, programación, presupuestación y contabilidad gubernamental así como la información disponible que soliciten en relación con la preparación y ejercicio de sus respectivos presupuestos.
 
 ###### Artículo 57.
 
@@ -894,6 +970,8 @@ II.- Cuando propongan una erogación no prevista en el proyecto de presupuesto d
 ## TÍTULO TERCERO. DEL EJERCICIO DEL GASTO PÚBLICO
 
 ### CAPÍTULO II. Ministración, el Pago y la Concentración de Recursos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 62.
 
@@ -1057,9 +1135,11 @@ De igual forma quedan exceptuados los recursos propios o de aplicación automát
 
 La Secretaría comunicará las fechas de los trámites presupuestales para el cierre del ejercicio.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 80.
 
-Las Dependencias deberán llevar un registro del ejercicio de su gasto autorizado de acuerdo con las disposiciones de esta Ley, así como a las normas que para tal efecto dicten Hacienda y la Secretaría, a fin de que se consolide la contabilidad general del Gobierno del Estado.
+Las Dependencias deberán llevar un registro del ejercicio de su gasto autorizado de acuerdo con las disposiciones de esta Ley, así como de las normas que para tal efecto dicte la Secretaría, a fin de que se consolide la contabilidad general del Gobierno del Estado.
 
 ###### Artículo 81.
 
@@ -1097,13 +1177,15 @@ La fecha límite para los compromisos con cargo a recursos federales transferido
 
 ###### Artículo 85.
 
-Hacienda efectuará los cobros y los pagos correspondientes a las Dependencias.
+La Secretaría efectuará los cobros y los pagos correspondientes a las Dependencias.
 
 La ministración de los fondos correspondientes será autorizada en todos los casos por la Secretaría con cargo a sus presupuestos y conforme sus disponibilidades financieras y el calendario presupuestal previamente aprobado.
 
 Los Poderes Legislativo y Judicial y los organismos autónomos y las entidades, recibirán y administrarán sus recursos, y harán sus pagos a través de sus propias tesorerías o sus equivalentes.
 
-El Titular del Poder Ejecutivo, por conducto de la Secretaría, podrá disponer que los fondos y pagos correspondientes a las entidades, se manejen, temporal o permanentemente de manera centralizada en Hacienda. Asimismo, podrá suspender, cuando las Dependencias y Entidades no cumplan con las disposiciones de esta Ley y el Reglamento o se presenten situaciones supervenientes que puedan afectar negativamente la estabilidad financiera, lo cual expresará en los Informes Trimestrales.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+El Poder Ejecutivo, por conducto de la Secretaría, podrá disponer que los fondos y pagos correspondientes a las entidades, se manejen, temporal o permanentemente de manera centralizada. Asimismo, podrá suspender la ministración, cuando las Dependencias y Entidades no cumplan con las disposiciones de esta Ley y el Reglamento o se presenten situaciones supervenientes que puedan afectar negativamente la estabilidad financiera, lo cual expresará en los Informes Trimestrales
 
 ###### Artículo 86.
 
@@ -1121,7 +1203,9 @@ V.- No informen sobre las plazas que tengan vacantes, y
 
 VI.- No ejerzan, en general, sus presupuestos de conformidad con lo previsto en esta Ley, el Presupuesto de Egresos y en las demás disposiciones para el ejercicio del gasto público estatal.
 
-El Titular del Poder Ejecutivo, por conducto de la Secretaría, podrá disponer que los fondos y pagos correspondientes a las entidades, se manejen, temporal o permanentemente de manera centralizada en Hacienda. Asimismo, podrá suspender las ministraciones cuando las Dependencias y Entidades no cumplan con las disposiciones de esta Ley y el Reglamento o se presenten situaciones supervenientes que puedan afectar negativamente la estabilidad financiera, lo cual expresará en los Informes Trimestrales.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+El Poder Ejecutivo, por conducto de la Secretaría, podrá disponer que los fondos y pagos correspondientes a las entidades, se manejen, temporal o permanentemente de manera centralizada. Asimismo, podrá suspender las ministraciones cuando las Dependencias y Entidades no cumplan con las disposiciones de esta Ley y el Reglamento o se presenten situaciones supervenientes que puedan afectar negativamente la estabilidad financiera, lo cual expresará en los Informes Trimestrales.
 
 ###### Artículo 87.
 
@@ -1135,9 +1219,11 @@ Los servidores públicos de las unidades responsables que hayan autorizado los p
 
 La contravención a lo dispuesto en este artículo es causa de responsabilidad administrativa, sin perjuicio de las demás establecidas en las disposiciones legales vigentes.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 88.
 
-La Secretaría autorizará los pagos solicitados por las unidades responsables con cargo a sus presupuestos aprobados, de conformidad con el calendario de ministraciones autorizado, las disponibilidades presupuestales y financieras con que cuente Hacienda, con fundamento en lo previsto en esta Ley y las demás disposiciones aplicables.
+La Secretaría autorizará los pagos solicitados por las unidades responsables con cargo a sus presupuestos aprobados, de conformidad con el calendario de ministraciones autorizado y las disponibilidades presupuestales y financieras con que cuente, con fundamento en lo previsto en esta Ley y las demás disposiciones aplicables.
 
 ###### Artículo 89.
 
@@ -1219,15 +1305,17 @@ Para cada ejercicio fiscal, el Congreso del Estado deberá aprobar en el Presupu
 
 En caso de que la asignación presupuestal referida, autorizada por el Congreso del Estado para cada ejercicio fiscal, fuere insuficiente para darles cumplimiento a las resoluciones definitivas, el Titular del Poder Ejecutivo, por conducto de la Secretaría, podrá autorizar una ampliación a la partida correspondiente para cumplimentar dichas resoluciones. Para autorizar la ampliación, la Secretaría deberá tomar en cuenta que no se afecten los programas del Presupuesto de Egresos y siempre que lo permitan las condiciones de la hacienda pública.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 96.
 
-Hacienda será la beneficiaria de todas las garantías que se otorguen a favor de las Dependencias por licitaciones o adjudicaciones de obras, adquisiciones, contratos administrativos, de prestación de servicios, anticipos, permisos, autorizaciones, concesiones, prórrogas y otras obligaciones de naturaleza no fiscal.
+La Secretaría será la beneficiaria de todas las garantías que se otorguen a favor de las Dependencias por licitaciones o adjudicaciones de obras, adquisiciones, contratos administrativos, de prestación de servicios, anticipos, permisos, autorizaciones, concesiones, prórrogas y otras obligaciones de naturaleza no fiscal.
 
-Hacienda conservará la documentación respectiva y, en su caso, ejercitará los derechos que correspondan, a cuyo efecto y con la debida oportunidad se le habrán de remitir las informaciones y documentos necesarios. En el caso de las entidades, sus propias tesorerías o similares serán las beneficiarias.
+La Secretaría conservará la documentación respectiva y, en su caso, ejercitará los derechos que correspondan, a cuyo efecto y con la debida oportunidad se le habrán de remitir las informaciones y documentos necesarios. En el caso de las entidades, sus propias tesorerías o similares serán las beneficiarias.
 
-El Titular del Poder Ejecutivo, por conducto de Hacienda, establecerá las normas generales a las que se sujetarán las garantías en los actos y contratos que celebre el Ejecutivo. Dichas normas se sujetarán a lo establecido en la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán, en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Yucatán, en la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán y en las demás disposiciones legales aplicables.
+El Poder Ejecutivo, por conducto de la Secretaría, establecerá las normas generales a las que se sujetarán las garantías en los actos y contratos que celebre el Ejecutivo. Dichas normas se sujetarán a lo establecido en la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán, en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Yucatán, en la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán y en las demás disposiciones legales aplicables.
 
-Los Poderes Legislativo y Judicial y organismos autónomos, por conducto de sus respectivas unidades de administración, mediante disposiciones generales establecerán en el ámbito de su competencia, los requisitos aplicables a las garantías que se constituyan a su favor.
+Los Poderes Legislativo y Judicial y organismos autónomos, por conducto de sus respectivas unidades de administración, mediante disposiciones generales establecerán, en el ámbito de su competencia, los requisitos aplicables a las garantías que se constituyan a su favor.
 
 ###### Artículo 97.
 
@@ -1369,7 +1457,9 @@ V.- Se apeguen a lo establecido en el Presupuesto de Egresos y las demás dispos
 
 Las Dependencias y Entidades deberán sujetar el gasto de telefonía móvil, combustibles, viáticos, honorarios, alimentación y pasajes, a lo estrictamente indispensable.
 
-La Oficialía establecerá las medidas necesarias para determinar que un servidor público utiliza los servicios y recursos enlistados en el párrafo anterior, para uso no vinculado a su cargo. La Secretaría en coordinación con la Oficialía, establecerá los valores unitarios que se consideran un uso excesivo.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+La Secretaría establecerá las medidas necesarias y los valores unitarios que se consideran un uso excesivo para determinar que un servidor público utiliza los servicios y recursos enlistados en el párrafo anterior, para uso no vinculado a su cargo.
 
 La adquisición de bienes y servicios de uso generalizado podrá llevarse a cabo de manera consolidada, con el objeto de obtener las mejores condiciones en cuanto a precio, calidad y oportunidad, en los términos previstos por esta Ley y demás disposiciones aplicables.
 
@@ -1401,7 +1491,9 @@ Las Dependencias y Entidades de la Administración Pública Estatal que requiera
 
 Los programas de comunicación social de las Dependencias y Entidades, que incluyen la programación general de las erogaciones, deberán ser autorizados por la Coordinación General de Comunicación Social en el ámbito de su competencia. Los gastos que en los mismos rubros efectúen las entidades serán autorizados previamente por el órgano de gobierno respectivo o su equivalente.
 
-### CAPÍTULO VI. Transferencias y Subsidios
+### CAPÍTULO VI. Transferencias, Subsidios y Ayudas
+
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 119.
 
@@ -1439,11 +1531,15 @@ VII.- Las Adecuaciones Presupuestales al gasto en servicios personales deberán 
 
 VIII.- Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, salvo en los casos permitidos en esta Ley. En todo caso, la creación, sustitución y las nuevas contrataciones de plazas sólo procederán cuando se cuente con los recursos previamente autorizados para cubrir todos los gastos inherentes a las contrataciones, incluyendo las obligaciones por concepto de impuestos, aportaciones a seguridad social y demás pagos y prestaciones que por ley deban cubrirse. Los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto deberán constituirse en reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas;
 
-IX.- Abstenerse de contratar trabajadores eventuales, salvo que tales contrataciones se encuentren previstas en el respectivo presupuesto destinado a servicios personales y sean autorizados previa y conjuntamente por la Oficialía y la Secretaría, o cuando se cubran con recursos adicionales de aplicación automática. En éste último caso, se deberá contar con la autorización de la Oficialía;
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+IX.- Abstenerse de contratar trabajadores eventuales, salvo que tales contrataciones se encuentren previstas en el respectivo presupuesto destinado a servicios personales y sean autorizados previamente por la Secretaría, o cuando se cubran con recursos adicionales de aplicación automática.
 
 X.- Sujetarse a las disposiciones generales aplicables para la autorización de los gastos de representación y de las erogaciones necesarias para el Desempeño de comisiones oficiales, y
 
-XI.- Las Dependencias y Entidades deberán sujetarse a la estructura ocupacional o a la plantilla de personal autorizada conjuntamente por la Oficialía y la Secretaría.
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+XI.- Las Dependencias y Entidades deberán sujetarse a la estructura ocupacional o a la plantilla de personal autorizada por la Secretaría.
 
 ###### Artículo 122.
 
@@ -1451,13 +1547,17 @@ Los Ejecutores de Gasto que establezcan percepciones extraordinarias en favor de
 
 l.- Los recursos para cubrirlas deberán estar previstos en sus respectivos presupuestos;
 
-II.- Las remuneraciones por jornadas u horas adicionales a las ordinarias, primas dominicales y guardias, no excederán a los límites legales, se limitarán a las estrictamente indispensables y deberán cubrirse con cargo al Presupuesto de Egresos aprobado, salvo los casos extraordinarios que autorice previamente la Oficialía en el ámbito de su competencia y posteriormente la Secretaría;
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+II.- Las remuneraciones por jornadas u horas adicionales a las ordinarias, primas dominicales y guardias, no excederán a los límites legales, se limitarán a las estrictamente indispensables y deberán cubrirse con cargo al Presupuesto de Egresos aprobado, salvo los casos extraordinarios que autorice previamente la Secretaría;
 
 III.- Los estímulos deberán otorgarse exclusivamente a los servidores públicos que cuenten con nombramiento y ocupen una plaza presupuestaria, en los términos que dispongan el Reglamento y las demás disposiciones legales aplicables, y
 
 IV.- Los esquemas para el otorgamiento de los estímulos en las Dependencias y Entidades deberán contar con la autorización de la Secretaría, por lo relacionado con el control presupuestal.
 
-Las remuneraciones adicionales referidas, así como otras prestaciones se regularán por las disposiciones que establezcan conjuntamente la Oficialía y la Secretaría y en el caso de las entidades, adicionalmente por las disposiciones que emita su órgano de gobierno.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+Las remuneraciones adicionales referidas, así como otras prestaciones se regularán por las disposiciones que establezca la Secretaría y en el caso de las entidades, adicionalmente por las disposiciones que emita su órgano de gobierno.
 
 En ningún supuesto se deberá otorgar remuneración adicional a los miembros que participen en los órganos de gobierno o de vigilancia, comités o subcomités instalados, al interior de la Administración Pública.
 
@@ -1477,7 +1577,9 @@ En el caso de los Poderes Legislativo y Judicial y de los organismos autónomos,
 
 Tratándose de las entidades, adicionalmente a las previsiones de este artículo se apegarán a los acuerdos de sus respectivos órganos de gobierno, los que deberán observar y cumplir las disposiciones generales aplicables.
 
-La Oficialía Mayor emitirá las disposiciones generales y el modelo de contrato correspondiente para las contrataciones por honorarios de las Dependencias y Entidades.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+La Secretaría emitirá las disposiciones generales y el modelo de contrato correspondiente para las contrataciones por honorarios de las Dependencias y Entidades.
 
 Los Ejecutores de Gasto deberán señalar en sus informes trimestrales y la Cuenta Pública las contrataciones por honorarios que realicen durante el ejercicio fiscal.
 
@@ -1487,35 +1589,47 @@ El pago de remuneraciones al personal se hará conforme al puesto o categoría q
 
 En el Proyecto de Presupuesto de Egresos se deberá presentar el tabulador de sueldos y salarios de mandos medios y superiores de las Dependencias, Entidades, Poderes Legislativo y Judicial y organismos autónomos.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 125.
 
-No procederá hacer pago alguno por concepto de servicios personales a servidores públicos de mandos medios y superiores de las Dependencias y Entidades cuyas estructuras orgánicas básicas o las modificaciones a las mismas, no hubieran sido aprobadas y dictaminadas conjuntamente por la Secretaría y la Oficialía así como publicadas en el Diario Oficial, según el caso.
+No procederá hacer pago alguno por concepto de servicios personales a servidores públicos de mandos medios y superiores de las Dependencias y Entidades cuyas estructuras orgánicas básicas o las modificaciones a las mismas, no hubieran sido aprobadas y dictaminadas por la Secretaría así como publicadas en el Diario Oficial, según el caso.
 
 ###### Artículo 126.
 
 Los movimientos que realicen los Ejecutores de Gasto a sus estructuras orgánicas, ocupacionales y salariales, así como a las plantillas de personal, deberán realizarse mediante Adecuaciones Presupuestales compensadas, las que en ningún caso incrementarán el presupuesto regularizable para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas conforme a los recursos previstos específicamente para tal fin en el Presupuesto de Egresos en los términos del artículo 39, fracción II de esta Ley.
 
-Excepcionalmente y por motivo justificado suficiente procederá la creación de nuevas plazas, cuando así lo dictaminen conjuntamente la Oficialía y la Secretaría.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+Excepcionalmente y por motivo justificado suficiente procederá la creación de nuevas plazas, cuando así lo dictamine la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 127.
 
-La Oficialía contará con un sistema de administración de los recursos humanos a través del cual se lleve un registro del personal de las Dependencias y Entidades. Para tal efecto estará facultada para dictar las normas de su funcionamiento y operación.
+La Secretaría contará con un sistema de administración de los recursos humanos a través del cual se lleve un registro del personal de las Dependencias y Entidades. Para tal efecto estará facultada para dictar las normas de su funcionamiento y operación.
 
 La Secretaría será responsable de establecer y operar un sistema con el fin de optimizar y uniformar el control presupuestal de los servicios personales.
 
-Los Poderes Legislativo y Judicial y los organismos autónomos, por conducto de sus respectivas unidades de administración, convendrán con la Secretaría y la Oficialía la forma de coordinarse en el registro del personal de dichos Ejecutores de Gasto, a efecto de presentar periódicamente la información correspondiente.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+Los Poderes Legislativo y Judicial y los organismos autónomos, por conducto de sus respectivas unidades de administración, convendrán con la Secretaría la forma de coordinarse en el registro del personal de dichos Ejecutores de Gasto, a efecto de presentar periódicamente la información correspondiente.
 
 Asimismo, las Dependencias y Entidades deberán mantener actualizados sus registros internos de plazas, categorías, compromisos y pagos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 128.
 
-La Secretaría y la Oficialía, en el ámbito de sus respectivas competencias, emitirán el manual de percepciones de los servidores públicos de las Dependencias y Entidades, el cual incluirá el tabulador de percepciones ordinarias y las reglas para su aplicación, conforme a las percepciones autorizadas en el Presupuesto de Egresos.
+La Secretaría, en el ámbito de sus respectivas competencias, emitirán (sic) el manual de percepciones de los servidores públicos de las Dependencias y Entidades, el cual incluirá el tabulador de percepciones ordinarias y las reglas para su aplicación, conforme a las percepciones autorizadas en el Presupuesto de Egresos.
 
 Los Poderes Legislativo y Judicial, los organismos autónomos y los ayuntamientos, por conducto de sus respectivas unidades de administración, emitirán sus manuales de remuneraciones incluyendo el tabulador y las reglas correspondientes, conforme a lo señalado anteriormente.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 129.
 
-Salvo lo previsto en otras leyes, la Oficialía tiene la atribución para determinar en forma expresa y general los casos en que proceda aceptar la compatibilidad para el Desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las Dependencias y Entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
+Salvo lo previsto en otras leyes, la Secretaría tiene la atribución para determinar en forma expresa y general los casos en que proceda aceptar la compatibilidad para el Desempeño de dos o más empleos o comisiones con cargo a los presupuestos de las Dependencias y Entidades, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
 
 ###### Artículo 130.
 
@@ -1525,99 +1639,91 @@ Prescriben en un año contado a partir de la fecha en que sean devengadas o se t
 
 Están prohibidos los traspasos de recursos que en cualquier forma afecten las asignaciones del Capítulo de Servicios Personales aprobados en el Presupuesto de Egresos, excepto los casos que autoricen conjuntamente la Oficialía y la Secretaría, de conformidad con la normatividad aplicable. Asimismo, cuando se trate de readscripción de plazas, se deberá efectuar la transferencia de asignaciones presupuestales del Capítulo de Servicios Personales a la dependencia a la que se adscriban.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE ABRIL DE 2016)</small>
+
 ### CAPÍTULO I. Presupuesto Plurianual
 
 ###### Artículo 132.
 
-La Secretaría autorizará la ministración de las transferencias, subsidios y ayudas que con cargo a los presupuestos de las Dependencias y, en su caso, de las Entidades, que se aprueben en el Presupuesto de Egresos. La Secretaría podrá reducir, suspender o terminar su ministración cuando las Dependencias y Entidades no cumplan lo establecido en esta Ley. En este caso, el Titular del Poder Ejecutivo a través de la Secretaría dispondrá el destino de los recursos correspondientes.
+El Poder Ejecutivo, por conducto de la Secretaría, autorizará la ministración de las transferencias, subsidios y ayudas que, con cargo a los presupuestos de las Dependencias o, en su caso, de las Entidades, se aprueben en el Presupuesto de Egresos. La Secretaría podrá reducir, suspender o terminar su ministración cuando las Dependencias o Entidades no cumplan lo establecido en esta Ley. En este último caso, la Secretaría dispondrá el destino de los recursos correspondientes.
 
-Los titulares de las Dependencias y Entidades, con cargo a cuyos presupuestos se autorice la ministración de transferencias, subsidios y ayudas, serán responsables, en el ámbito de sus competencias, de que éstos se otorguen y ejerzan conforme a las disposiciones generales aplicables.
+Los titulares de las Dependencias y Entidades, en el ámbito de sus respectivas competencias, serán responsables de vigilar que la ministración de transferencias, subsidios y ayudas, con cargo a sus presupuestos, se otorgue y ejerza de conformidad con las disposiciones legales y normativas aplicables.
+
+La Secretaría emitirá los lineamientos a los que deberán sujetarse las Dependencias o Entidades para la elaboración de las reglas de operación de los programas que otorguen subsidios o ayudas en los términos de este capítulo.
+
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 133.
 
-Todos los subsidios otorgados en numerario o en especie estarán sujetos a reglas de operación. Los subsidios estarán dirigidos a los sujetos previstos en la clasificación por objeto del gasto.
+Todos los subsidios y ayudas que se otorguen en numerario o en especie estarán sujetas a reglas de operación, las cuales tienen por objeto asegurar que la aplicación de los recursos se realice con corresponsabilidad, economía, eficacia, eficiencia equidad social y de género, honradez, objetividad y transparencia y, para tal efecto, deberán contener, al menos, lo siguiente:
 
-Los subsidios deberán sujetarse a los criterios de solidaridad social, objetividad, equidad, transparencia, publicidad, selectividad, corresponsabilidad y temporalidad.
+I.- El objetivo;
 
-Con el fin de asegurar eficacia, eficiencia y no discrecionalidad en el uso y otorgamiento de subsidios, las Dependencias y Entidades que los otorguen deberán establecer sus reglas de operación, con apego a las previsiones siguientes:
+II.- La población objetivo;
 
-I.- Identificar con precisión a la población objetivo, tanto por grupo específico como territorialmente;
+III.- La cobertura;
 
-II.- En su caso, señalar los montos máximos por beneficiario y por porcentaje del costo total del programa o la actividad.
+IV.- La temporalidad de la aplicación;
 
-En los programas de beneficio directo a individuos o grupos sociales, los montos y porcentajes se establecerán con base en criterios que deberán privilegiar a la población de menos ingresos y procurar la equidad entre las regiones del Estado, sin demérito de la eficiencia en el logro de los objetivos;
+V.- Los requisitos de elegibilidad y documentación, los cuales serán los estrictamente necesarios para tramitar la solicitud, sin que puedan representar una excesiva dificultad o un costo superior al beneficio aportado;
 
-III.- Procurar que el mecanismo de distribución, operación y administración otorgue acceso equitativo a todos los grupos sociales y géneros, y que los procedimientos para su verificación sean transparentes y no discrecionales;
+VI.- Los criterios y mecanismos de selección de los beneficiarios, en su caso;
 
-IV.- Señalar la temporalidad, así como las circunstancias bajo las cuales se procederá a la suspensión de los beneficios;
+VII.- Los subsidios o ayudas, en numerario o en especie, así como los montos máximos por beneficiario;
 
-V.- Incorporar, en su caso, acciones de corresponsabilidad por parte de los beneficiarios, con el propósito de hacer patente la relevancia de la responsabilidad social en su otorgamiento y aprovechamiento;
+VIII.- Las instancias ejecutoras;
 
-VI.- Garantizar que los recursos se canalicen exclusivamente a la población objetivo;
+IX.- Los requisitos de la convocatoria que se dirija a la población objetivo, en su caso;
 
-VII.- Procurar que el procedimiento para el acceso y cumplimiento de los requisitos por parte de la población beneficiaria, no le representen a ésta una excesiva dificultad y costo para su cumplimiento;
+X.- La operación del programa, que deberá especificar el nombre de los trámites, la forma de realizarlos y los plazos para su realización, incluidos los relativos a las prevenciones y resoluciones de la autoridad ejecutora;
 
-VIII.- Procurar que la distribución, operación y administración facilite la obtención de información y la Evaluación de los beneficios económicos y sociales de su asignación y aplicación;
+XI.- Las acciones de corresponsabilidad de los beneficiarios, en su caso;
 
-IX.- Especificar los indicadores de Desempeño que permitan la Evaluación del cumplimiento de sus objetivos y beneficio para la población beneficiaria;
+XII.- Los indicadores incorporados a la matriz del programa y el mecanismo de seguimiento y evaluación;
 
-X.- Obligar a la publicación el padrón de beneficiarios. En el caso de que no cuenten con dicho padrón, deberán manejarse mediante convocatoria abierta, la cual deberá publicarse en el Diario Oficial y en periódicos de amplia circulación, y en ningún caso se podrán etiquetar o predeterminar, y
+XIII.- La periodicidad y el mecanismo para la publicación del padrón de beneficiarios;
 
-XI.- Asegurar la coordinación de acciones entre Dependencias y Entidades, para evitar duplicación en el ejercicio de los recursos y reducir gastos administrativos.
+XIV.- Las circunstancias bajo las cuales se procederá a la suspensión de los subsidios o ayudas en su caso;
 
-En el Presupuesto de Egresos se señalarán los programas a través de los cuales se otorguen subsidios y que por ello estarán sujetos a reglas de operación.
+XV.- El procedimiento para la presentación de quejas y denuncias, y
 
-Bajo la coordinación de la Secretaría, los titulares de las Dependencias y Entidades que ejerzan recursos por el concepto a que se refiere este artículo, deberán crear un padrón único de beneficiarios de los programas sociales cuya ejecución esté a su cargo.
+XVI.- Los formatos relacionados con la gestión del subsidio o ayuda, los diagramas de flujo de los procesos, los modelos de convenios y cualquier otro anexo o información necesaria para su implementación.
 
-Los lineamientos técnicos para la integración del padrón único de beneficiarios serán establecidos por la Secretaría a través de disposiciones generales, los cuales atenderán al principio de transparencia, permitirán generar y aprovechar la información estadística, cuando menos en materia de género. Asimismo, incluirá la localización geográfica de los beneficiarios con la máxima desagregación posible, su condición socioeconómica, la línea base de los indicadores de Desempeño. Las publicaciones de la información se apegarán a la normatividad relacionada con la confidencialidad de la información.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 134.
 
-Las Dependencias y Entidades deberán informar a la Secretaría previamente a la realización de cualquier modificación en el alcance o modalidades de sus programas que conlleve variaciones en los subsidios. Cuando dichas modificaciones impliquen una adecuación presupuestaria o una modificación en los alcances de los programas, se requerirá autorización de la Secretaría conforme a lo establecido en esta Ley.
+Las Dependencias y Entidades deberán informar a la Secretaría previamente a la realización de cualquier modificación en el alcance o modalidades de sus programas que conlleve variaciones en las transferencias, subsidios o ayudas. Cuando dichas modificaciones impliquen una adecuación presupuestaria o una modificación en los alcances de los programas, se requerirá autorización de la Secretaría conforme a lo establecido en esta Ley.
+
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 135.
 
-Las Dependencias y las Entidades, a través de sus respectivas dependencias coordinadoras de sector o, en su caso, las entidades no coordinadas serán responsables de emitir las reglas de operación de los programas que inicien su operación en el ejercicio fiscal siguiente o, en su caso, las modificaciones a aquéllas que continúen vigentes, previa autorización presupuestaria de la Secretaría y dictamen del Consejo Estatal de Mejora Regulatoria, sujetándose al siguiente procedimiento:
+Las Dependencias y las Entidades ejecutoras serán responsables de emitir, previo a su implementación, las reglas de operación de los programas que inicien su operación en el ejercicio fiscal siguiente o, en su caso, las modificaciones a aquellas que continúen vigentes.
 
-I.- Las Dependencias y las Entidades, a través de sus respectivas Dependencias Coordinadoras de Sector o, en su caso, las entidades no coordinadas deberán presentar a la Secretaría, a más tardar el 15 de julio de cada año, sus proyectos de reglas de operación, tanto de los programas que inicien su operación en el ejercicio fiscal siguiente, como las modificaciones a aquéllas que continúen vigentes.
+Para efectos de la Ley de Mejora Regulatoria del Estado de Yucatán, las Dependencias y Entidades, al momento de presentar su manifestación de impacto regulatorio de sus proyectos de reglas de operación, deberán anexar el dictamen de suficiencia presupuestal. La Secretaría, al dictaminar, en su caso, la manifestación de impacto regulatorio, deberá verificar que los proyectos contengan los elementos a que se refiere el artículo 133.
 
-Dichos proyectos deberán observar los criterios generales establecidos por la Secretaría.
+Las reglas de operación deberán publicarse a más tardar el 31 de diciembre al año previo de su ejecución. Las reglas de operación podrán modificarse durante su ejercicio, para lo cual deberán ajustarse a lo dispuesto por este artículo.
 
-La Secretaría deberá emitir la autorización presupuestaria correspondiente en un plazo que no deberá exceder de 10 días hábiles contado a partir de la presentación de los proyectos de reglas de operación a que se refiere el párrafo anterior. La Secretaría sólo podrá emitir su autorización respecto al impacto presupuestal, y
+> <small>(ADICIONADO, D.O. 9 DE ABRIL DE 2016)</small>
 
-II.- Una vez que las Dependencias y las Entidades, a través de sus respectivas Dependencias Coordinadoras de Sector o, en su caso, las entidades no coordinadas, obtengan la autorización presupuestaria de la Secretaría, deberán hacer llegar, en un plazo máximo de tres días naturales, al Consejo Estatal de Mejora Regulatoria, los proyectos de reglas de operación, para que ésta emita dentro de los 10 días hábiles siguientes el dictamen regulatorio tomando en consideración los siguientes criterios:
+###### Artículo 135 Bis.
 
-a) El cuerpo de las reglas de operación deberá contener los lineamientos, metodologías, procedimientos, manuales, formatos, modelos de convenio, convocatorias y cualesquiera de naturaleza análoga;
+Las Dependencias y Entidades tendrán la obligación de integrar o actualizar el padrón de la población beneficiaria de los subsidios o ayudas que otorguen.
 
-b) Las reglas de operación deberán contener para efectos del dictamen del Consejo Estatal de Mejora Regulatoria, al menos lo siguiente:
+Los programas, cuyos subsidios o ayudas excedan del período de un año, contarán con padrones permanentes que se actualizarán con las altas y bajas de los beneficiarios.
 
-1. Deberán establecer los criterios de selección de los beneficiarios, instituciones o localidades objetivo. Estos deben ser precisos, definibles, mensurables y objetivos;
+Cuando el programa no cuente con un padrón permanente, se deberá emitir una convocatoria abierta dirigida a la población objetivo.
 
-2. Debe describirse completamente el mecanismo de selección o asignación, con reglas claras y congruentes con los objetivos de política del programa. Para ello deberán anexar un diagrama de flujo del proceso de selección;
+La Secretaría emitirá los lineamientos que considere necesarios para el correcto uso, operación y aplicación del padrón de beneficiarios, el cual deberá contener los datos generales del beneficiario, el nombre del programa y el tipo de apoyo que recibe. Las publicaciones se apegarán a la normatividad relacionada con el acceso a la información y la protección de datos personales.
 
-3. Para todos los trámites deberá especificarse textualmente el nombre del trámite que identifique la acción a realizar;
-
-4. Se deberán establecer los casos o supuestos que dan derecho a realizar el trámite;
-
-5. Debe definirse la forma de realizar el trámite;
-
-6. Sólo podrán exigirse los datos y documentos anexos estrictamente necesarios para tramitar la solicitud y acreditar si el beneficiario potencial cumple con los criterios de elegibilidad;
-
-7. Se deberán definir con precisión los plazos que tiene el supuesto beneficiario, para realizar su trámite, así como el plazo de prevención y el plazo máximo de resolución de la autoridad, y
-
-8. Se deberán especificar las unidades administrativas ante quienes se realiza el trámite o, en su caso, si hay algún mecanismo alterno.
-
-Las Dependencias y las Entidades, a través de sus respectivas Dependencias Coordinadoras de Sector o, en su caso, las entidades no coordinadas, publicarán en el Diario Oficial las reglas de operación de programas nuevos, así como ·las modificaciones a las reglas de programas vigentes, a más tardar el 31 de diciembre anterior al ejercicio y, en su caso, deberán inscribir o modificar la información que corresponda en el Padrón de Trámites y Servicios Estatales.
-
-Las Dependencias, o las Entidades a través de sus respectivas Dependencias Coordinadoras de Sector o, en su caso, las entidades no coordinadas que modifiquen sus reglas de operación durante el ejercicio fiscal, se sujetarán al procedimiento establecido en este artículo.
-
-Las reglas de operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 136.
 
-El Poder Ejecutivo del Estado, por conducto de la Secretaría, con base en el Presupuesto de Egresos y sujetándose en lo conducente a los artículos 133, 134 y 135 de esta Ley, determinará la forma y términos en que deberán invertirse los subsidios que otorgue a los municipios y, en su caso, a los sectores social y privado.
+El Poder Ejecutivo, por conducto de la Secretaría, con base en el Presupuesto de Egresos y sujetándose en lo conducente a los artículos 133, 134 y 135 de esta Ley, determinará la forma y términos en que deberán invertirse los subsidios y ayudas que otorgue a los municipios y, en su caso, a los sectores social y privado.
 
-Los beneficiarios a que se refiere el presente artículo deberán proporcionar a la Secretaría la información que se les solicite sobre la aplicación que hagan de los subsidios.
+Los beneficiarios a que se refiere este artículo deberán proporcionar a la Secretaría la información que se les solicite sobre la aplicación que hagan de los subsidios y ayudas.
 
 ###### Artículo 137.
 
@@ -1645,13 +1751,17 @@ Para efectos informativos, el Presupuesto de Egresos establecerá las obligacion
 
 El Congreso aprobará en el Presupuesto de Egresos de cada ejercicio fiscal, las erogaciones para el pago de las contraprestaciones derivadas de los presupuestos plurianuales, los contratos de proyectos para la prestación de servicios o arrendamientos a largo plazo, proyectos de asociación público-privada y proyectos de coinversión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 140.
 
-El Titular del Poder Ejecutivo, a través de la Secretaría, tendrá la facultad para presentar un presupuesto plurianual como instrumento de carácter indicativo que sirva de guía en la política presupuestal de mediano y largo plazo, a fin de que sea un marco referencial del plan plurianual de inversiones públicas.
+El Poder Ejecutivo, a través de la Secretaría, tendrá la facultad para presentar un presupuesto plurianual como instrumento de carácter indicativo que sirva de guía en la política presupuestal de mediano y largo plazo, a fin de que sea un marco referencial del plan plurianual de inversiones públicas.
 
 Dicho instrumento contendrá las previsiones de ingresos, gasto e inversiones además de otras variables macroeconómicas que permitan formar una agenda de gestión presupuestaria plurianual.
 
-El Titular del Poder Ejecutivo, por conducto de la Secretaría y Hacienda, enviará al Congreso, con fines indicativos, una estimación de tres años de los ingresos y egresos que pretenda recaudar y gastar la Administración Pública, con el propósito de conocer y anticipar las estrategias fiscales y de gasto necesarias para su implementación en el tiempo.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+El Poder Ejecutivo, por conducto de la Secretaría, enviará al Congreso, con fines indicativos, una estimación de tres años de los ingresos y egresos que pretenda recaudar y gastar la Administración Pública, con el propósito de conocer y anticipar las estrategias fiscales y de gasto necesarias para su implementación en el tiempo.
 
 Dicha previsión deberá considerar aquellos elementos económicos y sociales relevantes para la consecución del escenario previsto, o en su defecto un programa tendiente a promover su consolidación.
 
@@ -1715,31 +1825,41 @@ El Poder Ejecutivo y la Auditoría Superior deberán coordinarse con las autorid
 
 Los Ejecutores de Gasto adoptarán e implementarán, con carácter obligatorio, en el ámbito de sus respectivas competencias, las decisiones que tome el CONAC, de conformidad con las atribuciones y facultades que le confiere la Ley en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 149.
 
-El desarrollo y operación de la contabilidad, así como la emisión de la normatividad en la materia, para efectos administrativos, estarán a cargo de Hacienda.
+El desarrollo y operación de la contabilidad, así como la emisión de la normatividad en la materia, para efectos administrativos, estarán a cargo de la Secretaría.
 
 El desarrollo y operación de la contabilidad, en el caso de los Poderes Legislativo y Judicial y organismos autónomos, estarán a cargo de su órgano competente.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 150.
 
-La Secretaría y Hacienda serán responsables conjuntamente de la elaboración, publicación y entrega de los informes trimestrales y la Cuenta Pública. Las Dependencias y Entidades, suministrarán a la Secretaría y a Hacienda, la información presupuestal, programática, contable y financiera que requieran y su periodicidad, conforme las previsiones del Reglamento y las disposiciones generales que emitan.
+La Secretaría será responsable de la elaboración, publicación y entrega de los informes trimestrales y la Cuenta Pública. Las Dependencias y Entidades, suministrarán a la Secretaría, la información presupuestal, programática, contable y financiera que requiera y su periodicidad, conforme las previsiones del Reglamento y las disposiciones generales que emitan.
+
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 151.
 
-La información financiera, presupuestal, programática y contable que emane de los registros de las Dependencias y Entidades, será la que sirva de base para formular los informes trimestrales y la Cuenta Pública. Los informes y la Cuenta Pública serán sometidos a la consideración del Titular del Poder Ejecutivo para su presentación en los términos de la Constitución y las demás disposiciones legales aplicables.
+La información financiera, presupuestal, programática y contable que emane de los registros de las Dependencias y Entidades, será la que sirva de base para formular los informes trimestrales y la Cuenta Pública. Los informes y la Cuenta Pública serán sometidos a la consideración del Poder Ejecutivo para su presentación en los términos de la Constitución y las demás disposiciones legales aplicables.
 
-Los Poderes Legislativo y Judicial y organismos autónomos remitirán oportunamente los estados financieros e información a que se refiere el párrafo anterior y las demás previsiones de esta Ley al Titular del Poder Ejecutivo, por conducto de la Secretaría y Hacienda, para su incorporación, en capítulo por separado, a los informes trimestrales y la Cuenta Pública, en los términos que establezca el Reglamento.
+Los Poderes Legislativo y Judicial y organismos autónomos remitirán oportunamente los estados financieros e información a que se refiere el párrafo anterior y las demás previsiones de esta Ley al Poder Ejecutivo, por conducto de la Secretaría para su incorporación, en capítulo por separado, a los informes trimestrales y la Cuenta Pública, en los términos que establezca el Reglamento.
 
 Los ayuntamientos enviarán sus informes y cuentas públicas al Congreso en los términos que establezca el Reglamento.
 
 ### CAPÍTULO III. Contabilidad de Fondos y Valores
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 152.
 
 Para el registro de las operaciones presupuestales y contables, los Ejecutores de Gasto deberán ajustar sus catálogos de cuentas a los conceptos y principales agregados a los lineamientos que emita el CONAC. Para tal propósito, tomarán en consideración las necesidades de administración financiera de los· entes públicos, así como las de control y fiscalización. Las listas de cuentas serán aprobadas por:
 
-I.- En el caso de las Dependencias y Entidades de la Administación (sic) Pública, la unidad administrativa competente en materia de contabilidad gubernamental de Hacienda, y
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+I.- En el caso de las Dependencias y Entidades de la Administración Pública, la unidad administrativa competente en materia de contabilidad gubernamental de la Secretaría, y
 
 II.- En el caso de los Poderes Legislativo y Judicial, organismos autónomos y municipios, así como las entidades paramunicipales, la unidad administrativa competente en materia de contabilidad gubernamental que corresponda en cada caso.
 
@@ -1869,11 +1989,13 @@ La observancia de esta Ley, en materia de contabilidad, no releva a las Dependen
 
 ###### Artículo 163.
 
-Hacienda concentrará, revisará, integrará, controlará y registrará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado de la Administración Pública y, en su oportunidad, producirá los estados financieros que se requieran para su integración en la Cuenta Pública.
+La Secretaría concentrará, revisará, integrará, controlará y registrará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado de la Administración Pública y, en su oportunidad, producirá los estados financieros que se requieran para su integración en la Cuenta Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 164.
 
-Hacienda establecerá un sistema de contabilidad de fondos y valores de la Administración Pública, con base en la normatividad aplicable, con el fin de:
+La Secretaría establecerá un sistema de contabilidad de fondos y valores de la Administración Pública, con base en la normatividad aplicable, con el fin de:
 
 I.- Captar la información del ingreso, administración de fondos y valores y del egreso efectuado para proceder a su contabilización;
 
@@ -1897,9 +2019,11 @@ La información a que se refiere el artículo 9, fracción VIII, de la Ley citad
 
 Los Ejecutores de Gasto deberán remitir al Congreso la información que éste les solicite en relación con sus respectivos presupuestos, en los términos de las disposiciones generales aplicables. Dicha solicitud podrá hacerla el órgano de gobierno o la Comisión competente del Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 167.
 
-El Poder Ejecutivo, por conducto de Hacienda y la Secretaría entregará al Congreso la información trimestral, la cual contendrá, cuando menos:
+El Poder Ejecutivo, por conducto de la Secretaría entregará al Congreso la información trimestral, la cual contendrá, cuando menos:
 
 I.- Informes trimestrales a los treinta días naturales después de terminado el trimestre de que se trate, conforme a lo previsto en esta Ley.
 
@@ -1941,9 +2065,13 @@ Estos deberán diferenciarse de la tasa de interés que se pagará por los empr�
 
 A los elementos del informe trimestral establecidos en este artículo, podrán añadirse otros que señalen expresamente esta Ley, el Reglamento u otras disposiciones legales.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 168.
 
-A más tardar el treinta y uno de julio los Poderes Legislativo y Judicial, la Administración Pública por conducto de Hacienda y los organismos autónomos rendirán el Informe de Avance de la Gestión Financiera correspondiente al periodo de enero a junio, a qué se refiere el artículo 9 de la Ley de Fiscalización de la Cuenta Pública a la Auditoría Superior del Estado.
+A más tardar el treinta y uno de julio, los Poderes Legislativo y Judicial, la Administración Pública por conducto de la Secretaría y los organismos autónomos rendirán el (sic)
+
+Informe de Avance de la Gestión Financiera correspondiente al periodo de enero a junio, a que se refiere el artículo 9 de la Ley de Fiscalización de la Cuenta Pública a la Auditoría Superior del Estado.
 
 ###### Artículo 169.
 
@@ -1981,19 +2109,23 @@ Para ello, deberán utilizar indicadores de desempeño que permitan determinar e
 
 Adicionalmente, se deberá presentar información por dependencia y entidad, de acuerdo con la clasificación establecida en la fracción IV del artículo 156 de esta Ley.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 172.
 
-Hacienda y la Secretaría son las dependencias responsables de la consolidación de la contabilidad de los Poderes Legislativo y Judicial, organismos autónomos, Dependencias y Entidades con el fin de consolidar la Cuenta Pública del Estado.
+La Secretaría es la dependencia responsable de la consolidación de la contabilidad de los Poderes Legislativo y Judicial, organismos autónomos, Dependencias y Entidades con el fin de consolidar la Cuenta Pública del Estado.
+
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 173.
 
-Hacienda dará a conocer a los Poderes Legislativo y Judicial, organismos autónomos, Dependencias y Entidades de quienes deba obtener información, a más tardar el día quince de enero de cada año, las instrucciones y formatos para obtener los datos necesarios para la integración de la Cuenta Pública del año anterior.
+La Secretaría dará a conocer a los Poderes Legislativo y Judicial, organismos autónomos, Dependencias y Entidades de quienes deba obtener información, a más tardar el día quince de enero de cada año, las instrucciones y formatos para obtener los datos necesarios para la integración de la Cuenta Pública del año anterior.
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 174.
 
-Los Ejecutores de Gasto mencionados en el artículo anterior, deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, a través de Hacienda y la Secretaría, a más tardar el treinta y uno de marzo del año siguiente al cierre del ejercicio fiscal correspondiente.
+Los Ejecutores de Gasto mencionados en el artículo anterior, deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, a través de la Secretaría, a más tardar el treinta y uno de marzo del año siguiente al cierre del ejercicio fiscal correspondiente.
 
 ###### Artículo 175.
 
@@ -2139,7 +2271,9 @@ El gasto previsto para el Ramo General Aportaciones Federales para Municipios se
 
 El resultado de la distribución entre los municipios de los recursos que integran los fondos a que se refiere este artículo, se publicará en el Diario Oficial del Gobierno del Estado en los términos establecidos en la Ley de Coordinación Fiscal.
 
-Hacienda, con base en la información que le proporcionen los municipios, elaborará los informes que requiera el Gobierno Federal.
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+La Secretaría, con base en la información que le proporcionen los municipios, elaborará los informes que requiera el Gobierno Federal.
 
 ###### Artículo 200.
 
@@ -2157,13 +2291,17 @@ El resultado de la distribución entre los municipios, de los recursos que integ
 
 El control y la evaluación de los ingresos se basarán en esta Ley, en la Ley General, el Reglamento y la normatividad que emita el CONAC.
 
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 202.
 
-Hacienda vigilará la recaudación de todos los conceptos que la Ley de Ingresos y la Ley General de Hacienda establecen a favor del Estado, y de los demás ingresos respecto de los cuales existan convenios celebrados entre el Gobierno Federal y el Gobierno del Estado, o entre éste y sus municipios.
+La Agencia de Administración Fiscal de Yucatán vigilará la recaudación de todos los conceptos que la Ley de Ingresos y la Ley General de Hacienda establecen a favor del Estado, y de los demás ingresos respecto de los cuales existan convenios celebrados entre el Gobierno Federal y el Gobierno del Estado, o entre éste y sus municipios.
+
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 203.
 
-Hacienda informará a la Contraloría para los efectos legales que correspondan, las observaciones que pudieran constituir irregularidades derivadas de la· evaluación de la recaudación de los ingresos de las Dependencias y Entidades.
+La Agencia de Administración Fiscal de Yucatán informará a la Contraloría para los efectos legales que correspondan, las observaciones que pudieran constituir irregularidades derivadas de la evaluación de la recaudación de los ingresos de las Dependencias y Entidades.
 
 ###### Artículo 204.
 
@@ -2229,13 +2367,17 @@ IV.- Cuando por razón de la naturaleza de sus funciones tengan conocimiento de 
 
 V.- Distraigan de su objeto dinero o valores, para usos propios o ajenos, si por razón de sus funciones los hubieren recibido en administración, depósito o por otra causa;
 
-VI.- Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la Secretaría, Hacienda y la Contraloría, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+VI.- Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la Secretaría y la Contraloría, en el ámbito de sus respectivas competencias;
 
 VII.- Realicen acciones u omisiones que impidan el ejercicio eficiente, eficaz y oportuno de los recursos y el logro de los objetivos y metas anuales de las Dependencias, unidades responsables y programas;
 
 VIII.- Realicen acciones u omisiones que deliberadamente generen subejercicios por un incumplimiento de los objetivos y metas anuales en sus presupuestos;
 
-IX.- Infrinjan las disposiciones generales que emitan la Secretaría, Hacienda y la Auditoría, para el cumplimiento de esta Ley, en el ámbito de sus respectivas atribuciones, y
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+IX.- Infrinjan las disposiciones generales que emitan la Secretaría y la Auditoría, para el cumplimiento de esta Ley, en el ámbito de sus respectivas atribuciones, y
 
 X.- Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
@@ -2338,3 +2480,43 @@ D.O. 25 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 9 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 371/2016 POR EL QUE SE EMITE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de la ley
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley de Mejora Regulatoria del Estado de Yucatán, promulgada mediante Decreto 326 del Poder Ejecutivo publicado en el diario oficial del estado el 11 de agosto de 2010.
+
+Tercero. Abrogación del reglamento
+
+A partir de la entrada en vigor de este decreto, quedará abrogado el Reglamento de la Ley de Mejora Regulatoria del Estado de Yucatán, expedido mediante Decreto 512 del Poder Ejecutivo publicado en el diario oficial del estado el 26 de abril de 2012.
+
+Cuarto. Implementación de los instrumentos de mejora regulatoria
+
+La implementación de los instrumentos de mejora regulatoria a que se refiere esta ley se hará de forma gradual, pero deberá concluirse en un plazo de un año, contado a partir de la entrada en vigor de este decreto; salvo el Registro Único de Personas Acreditadas, que deberá concluirse en un plazo de dos años.
+
+Quinto. Instalación de la Comisión Estatal de Mejora Regulatoria
+
+La Comisión Estatal de Mejora Regulatoria deberá instalarse dentro (sic) un plazo de noventa días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Reglamento interno
+
+La Comisión Estatal de Mejora Regulatoria deberá expedir su reglamento interno dentro de un plazo de noventa días naturales, contados a partir de la fecha de su instalación.
+
+Séptimo. Lineamientos en materia de programas presupuestarios y reglas de operación
+
+La Secretaría de Administración y Finanzas deberá adecuar, en su caso, los Lineamientos para la Elaboración y Aprobación de las Reglas de Operación de los Programas Presupuestarios; y expedir los Lineamientos para el uso, operación y aplicación del padrón de beneficiarios de los programas que otorguen subsidios o ayudas, dentro de un plazo de noventa días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Octavo. Obligación normativa
+
+El Gobernador del estado deberá realizar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los noventa días naturales siguientes contados a partir de su entrada en vigor.
+
+Noveno. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a este decreto.
