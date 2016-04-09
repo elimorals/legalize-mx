@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2015-06-12"
+last_updated: "2016-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ABRIL DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -97,7 +97,9 @@ II.- Secretaría, a la Secretaría de Salud del Gobierno Federal;
 
 III.- Estado, al Gobierno del Estado de Yucatán;
 
-IV.- Organismo, a los Servicios Coordinados de Salud Pública en el Estado de Yucatán; y
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+IV.- Organismo, a los Servicios de Salud de Yucatán; y
 
 > <small>(REFORMADA, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -111,17 +113,19 @@ I.- El Estado, representado por el Titular del Poder Ejecutivo;
 
 II.- La Secretaría, exclusivamente, en el ámbito de competencia que le confiere la Ley General;
 
-III.- El Organismo, representado por el C. Jefe de los Servicios Coordinados de Salud Pública en el Estado; y
+> <small>(REFORMADA, D.O. 9 DE ABRIL DE 2016)</small>
+
+III.- El Organismo, representado por el Director General de los Servicios de Salud de Yucatán, y
 
 IV.- Los Ayuntamientos en sus jurisdicciones respectivas, en los términos de los convenios que celebren con el Estado.
 
-> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 5.
 
-El Consejo Estatal de Prevención de Adicciones es el organismo auxiliar, encargado de coadyuvar con la Secretaría de Salud del Gobierno del Estado, en la prevención de las adicciones, de conformidad a lo establecido en la Ley de la materia.
+El Consejo Estatal de Prevención de Adicciones es el organismo auxiliar encargado de coadyuvar con la Secretaría de Salud del Gobierno del Estado de Yucatán en la prevención de las adicciones, de conformidad con lo establecido en la Ley de Prevención.
 
-Para los efectos de esta Ley, el Estado ejercerá sus facultades de Autoridad Sanitaria a través de la Secretaría de Salud del Gobierno Federal y por conducto de los Servicios Coordinados de Salud Pública en el Estado.
+Para los efectos de esta ley, el estado ejercerá sus facultades de autoridad sanitaria a través de la secretaría y por conducto del organismo.
 
 ###### ARTICULO 6.
 
@@ -361,11 +365,13 @@ El Gobierno del Estado con la participación que corresponda al Comité de Plane
 
 ### CAPITULO III. DE LA COORDINACION Y COMPETENCIAS
 
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 7-H.
 
-Corresponde al Estado por conducto de los Servicios Coordinados de Salud Pública:
+Corresponde al estado, por conducto del organismo:
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 A.- En materia de salubridad General:
 
@@ -382,6 +388,8 @@ V.- Celebrar con la Federación, los acuerdos de coordinación en materia de sal
 Celebrar los convenios con los Municipios para la prestación de los servicios sanitarios locales, o la atención de las funciones de salud, y
 
 VI.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley Federal, de esta Ley y de otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 B.- En materia de salubridad local:
 
@@ -401,11 +409,11 @@ a) NORMA TÉCNICA: Al conjunto de reglas científicas o tecnológicas de caráct
 
 b) NORMA TÉCNICA LOCAL: Al conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por el Estado como Autoridad Sanitaria, que establecen los requisitos que deben satisfacer en la organización y prestación de servicios así como en el desarrollo de actividades en materia de salubridad local, con el objeto de unificar principios, criterios, políticas y estrategias.
 
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 7-J.
 
-El Estado a través de los Servicios Coordinados de Salud Pública, podrá convenir con los Ayuntamientos, la prestación por parte de éstos, de los servicios de salubridad general concurrente y salubridad local, cuando el desarrollo económico y social lo hagan necesario.
+El estado, a través del organismo, podrá convenir con los ayuntamientos, la prestación por parte de estos, de los servicios de salubridad general concurrente y salubridad local, cuando el desarrollo económico y social lo hagan necesario.
 
 > <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -445,17 +453,17 @@ El Gobierno del Estado y los Municipios, en los términos de los convenios que s
 
 Ñ.- El Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los Gobiernos de los Estados circunvecinos, sobre aquellas materias que sean de interés común.
 
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
-###### ARTICULO 7-O.
+###### ARTICULO 7- O.
 
-El Estado, a través de la Secretaría de Salud, podrá celebrar con la Federación en el marco del convenio de desarrollo social y de conformidad con la legislación aplicable, los acuerdos de coordinación necesarios, a fin de que éste asuma temporalmente a petición del propio Estado, la prestación de los servicios a que se refiere el artículo 13 apartado B de la Ley General de Salud.
+La prestación de los servicios de salubridad a que se refiere el artículo 13, apartado B, de la Ley General y la aplicación, en el ámbito estatal, de la legislación sanitaria federal y estatal, quedarán a cargo del organismo.
 
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+El estado, a través de la Secretaría de Salud del Gobierno del Estado de Yucatán, podrá celebrar con la Federación en el marco del convenio de desarrollo social y de conformidad con la legislación aplicable, los acuerdos de coordinación necesarios, a fin de que este asuma temporalmente, a petición del propio estado, la prestación de los servicios a que se refiere el párrafo anterior.
 
-###### ARTICULO 7-P.
+###### ARTICULO 7- P.
 
-La prestación de los servicios de Salubridad a que se refiere el artículo anterior, quedará a cargo de los Servicios Coordinados de Salud Pública en el Estado, estructura administrativa establecida coordinadamente entre el Gobierno del Estado y la Federación, con personalidad jurídica y patrimonio propios, así como funciones de Autoridad Sanitaria Estatal en su caso, de conformidad con los instrumentos legales de creación, y a quien en lo sucesivo, únicamente para los efectos de esta Ley se denominará "El Organismo". Dicho Organismo tendrá a su cargo la aplicación, en el ámbito Estatal de la Legislación Sanitaria Federal y Estatal, de conformidad con las disposiciones legales aplicables.
+(DEROGADO, D.O. 9 DE ABRIL DE 2016)
 
 > <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -909,7 +917,9 @@ El Gobierno del Estado coadyuvará con la Secretaría en las acciones del progra
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VII], D.O. 9 DE JULIO DE 2007)
 
-### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+### CAPITULO IX. Atención y Protección a las Personas con la Condición del Espectro Autista
+
+> <small>(ADICIONADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 72.
 
@@ -959,13 +969,59 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 Para tal efecto, podrán obtener orientación y asesoramiento de las instituciones públicas, destinadas a la atención de enfermos mentales y adictos.
 
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE ABRIL DE 2016)</small>
+
+### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+
+###### ARTICULO 76-A.
+
+Corresponde al estado garantizar el respeto y ejercicio de los derechos de las personas con la condición del espectro autista, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano forma parte, en la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y en esta ley, con la finalidad de impulsar su plena integración e inclusión a la sociedad.
+
+Para los efectos de este capítulo se entenderá por personas con la condición del espectro autista, a todas aquellas que presentan una condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos; por ley general, a la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista; y por habilitación terapéutica, el proceso de duración limitada y con un objetivo definido de orden médico, psicológico, social, educativo y técnico, entre otros, a efecto de mejorar la condición física y mental de las personas con la condición de espectro autista para lograr su más acelerada integración social y productiva.
+
+> <small>(ADICIONADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 76-B.
+
+Las personas con la condición del espectro autista tienen derecho a no ser discriminadas en ningún ámbito de su vida, así como de gozar junto con sus familias de los derechos fundamentales previstos en el artículo 10 de la ley general.
+
+> <small>(ADICIONADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 76-C.
+
+Para garantizar los derechos de las personas con la condición de espectro autista el Gobierno y los municipios, a través de sus dependencias y entidades, formularán, respecto de los asuntos de su competencia, las propuestas de políticas, programas, objetivos, metas, estrategias y acciones, basadas en los principios fundamentales previstos en el artículo 6 de la ley general, las cuales deberán implementar de manera progresiva, conforme a la disponibilidad presupuestaria.
+
+El Gobierno y los municipios podrán celebrar convenios de coordinación con el gobierno federal, con el fin de alinear los programas a su cargo con la política pública en materia de atención y protección a personas con la condición de espectro autista, a fin de lograr una efectiva transversalidad de las políticas públicas.
+
+> <small>(ADICIONADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 76-D.
+
+El estado será responsable de vigilar, en el ámbito de su competencia, que los sujetos obligados de garantizar el ejercicio de los derechos de las personas con la condición del espectro autista, a que se refiere el artículo 11 de la ley general, no incurran en las prohibiciones establecidas en el artículo 17 de la propia ley con motivo de la atención y preservación de los derechos que deben procurar a estas personas y a sus familias.
+
+> <small>(ADICIONADO, D.O. 9 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 76-E.
+
+El estado con la finalidad de procurar la habilitación terapéutica de las personas con la condición del espectro autista impulsará la instrumentación y ejecución de las siguientes acciones:
+
+I. Realizar estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico y básico en las áreas biomédicas y socio-médicas para el diagnóstico y tratamiento de las personas con la condición del espectro autista.
+
+II. Vincular sus actividades con los centros de investigación de las universidades públicas y privadas del estado en materia de atención y protección a personas con la condición del espectro autista;
+
+III. Realizar campañas de información sobre las características propias de la condición del espectro autista, a fin de crear conciencia al respecto en la sociedad;
+
+IV. Atender a la población con la condición del espectro autista a través, según corresponda, de consultas externas, estudios clínicos y de gabinete, diagnósticos tempranos, terapias de habilitación, orientación nutricional, y otros servicios que a juicio de la secretaria y demás organismos y órganos del sector salud sean necesarios, con excepción del servicio de hospitalización;
+
+V. Promover políticas y programas para la protección de la salud integral de las personas con la condición del espectro autista;
+
+VI. Expedir de manera directa o a través de las instituciones que integran el Sistema Estatal de Salud, los diagnósticos a las personas con la condición del espectro autista que lo soliciten, y
+
+VII. Coadyuvar a la actualización del Sistema de Información a cargo de la secretaría.
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPITULO III. FORMACION, CAPACITACION, Y ACTUALIZACION DEL PERSONAL
-
-> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTICULO 77.
 
@@ -997,7 +1053,7 @@ En el caso de que exista convenio entre el Gobierno del Estado y el Ejecutivo Fe
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que identifique la institución que les expidió el título, diploma o certificado en su caso y el de la correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y publicidad que realicen a su respecto.
 
-### CAPITULO I. DE LA INVESTIGACION
+### CAPITULO III. FORMACION, CAPACITACION, Y ACTUALIZACION DEL PERSONAL
 
 > <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -1027,9 +1083,9 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 El Estado como Autoridad Sanitaria, con la participación de las Autoridades de las Instituciones de Educación Superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO II. DE LA INFORMACION
+### CAPITULO I. DE LA INVESTIGACION
 
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 86.
 
@@ -1073,7 +1129,9 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA INFORMACION
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 91.
 
@@ -1123,9 +1181,7 @@ En el tratamiento de una persona enferma, el médico podrá usar nuevos recursos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 95-A.
 
@@ -1145,7 +1201,9 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 96.
 
@@ -1161,7 +1219,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO III. NUTRICION
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### ARTICULO 98.
 
@@ -1183,7 +1241,7 @@ IV.- Salud ocupacional; y
 
 V.- Fomento sanitario.
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPITULO III. NUTRICION
 
 ###### ARTICULO 100.
 
@@ -1203,7 +1261,7 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 El Estado con la colaboración de las Dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población de Yucatán promoviendo además dichos programas a través de su difusión en los medios masivos de comunicación social que actúen en el ámbito del Estado.
 
-### CAPITULO V. SALUD OCUPACIONAL
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 102.
 
@@ -1215,9 +1273,9 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 ###### ARTICULO 104.
 
-El Estado, promoverá en coordinación con las autoridades Estatales y Federales competentes, todos aquellos estudios y acciones tendentes (sic) a mejorar la dieta de los habitantes de Yucatán, sujetándose a las normas establecidas por la Ley General de Salud y otras disposiciones legales aplicables.
+El Estado, promoverá en coordinación con las autoridades Estatales y Federales competentes, todos aquellos estudios y acciones tendentes a mejorar la dieta de los habitantes de Yucatán, sujetándose a las normas establecidas por la Ley General de Salud y otras disposiciones legales aplicables.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO V. SALUD OCUPACIONAL
 
 ###### ARTICULO 105.
 
@@ -1257,7 +1315,7 @@ II.- Las que generan con base en un sistema electromecánico adecuado.
 
 El Organismo, en coordinación con las dependencias y Entidades que sean competentes del sector público, con las Autoridades ejidales correspondientes y con la autoridad encargada en el Estado de la administración de distritos de riego, orientará a la población para evitar la contaminación de aguas provenientes de corrientes subterráneas, pluviales y otras que se utilicen para riego o uso doméstico, originadas por plaguicidas, substancias tóxicas, desperdicios o basura.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 111.
 
@@ -1271,19 +1329,19 @@ En la prestación de los Servicios de Salud Ocupacional el Organismo como Autori
 
 El Estado en coordinación con las dependencias y entidades públicas competentes, promoverán, desarrollarán y difundirán investigaciones de carácter multidisciplinario que permitan prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
-
-> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 114.
 
 El Estado y la Secretaría, como autoridades sanitarias en sus respectivos ámbitos de competencia realizarán actividades para la prestación de los servicios de prevención y control de enfermedades transmisibles, no transmisibles y accidentes, de conformidad con lo establecido por la Ley General, esta Ley y demás legislación aplicable.
 
-### CAPITULO UNICO
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 115.
 
@@ -1387,7 +1445,7 @@ Quedan facultadas las Autoridades Sanitarias para utilizar como elementos auxili
 
 ###### ARTICULO 124.
 
-Las Autoridades Sanitarias señalarán El (sic) tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, cárceles, reclusorios, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos y deportivos.
+Las Autoridades Sanitarias señalarán El tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, tales como hoteles, restaurantes, fábricas, talleres, cárceles, reclusorios, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos y deportivos.
 
 ###### ARTICULO 125.
 
@@ -1405,7 +1463,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las Autoridades Sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfectación y desinsectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### ARTICULO 129.
 
@@ -1429,7 +1487,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir informes que el organismo requiera acerca de las enfermedades no transmisibles, en los términos de los Reglamentos que al efecto se expidan.
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 132.
 
@@ -1455,7 +1513,7 @@ Para la mayor eficacia de las acciones a que se refiere este Artículo se crear�
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 134.
 
@@ -1559,7 +1617,7 @@ El patrimonio de la Beneficencia Pública será administrado por el organismo a 
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO I
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 159.
 
@@ -1569,9 +1627,7 @@ El patrimonio de la Beneficencia Pública será administrado por el organismo a 
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-### CAPITULO II
-
-DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
+### CAPITULO I
 
 ###### ARTICULO 161.
 
@@ -1589,7 +1645,9 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO II
+
+DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 ###### ARTICULO 165.
 
@@ -1605,7 +1663,7 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 ## TITULO DECIMO PRIMERO. CONTROL SANITARIO
 
-### CAPITULO II. MERCADOS Y CENTRALES DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 168.
 
@@ -1623,9 +1681,7 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO II. MERCADOS Y CENTRALES DE ABASTO
 
 ###### ARTICULO 172.
 
@@ -1659,7 +1715,9 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
+### CAPITULO III. DE LAS CONSTRUCCIONES
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 179.
 
@@ -1683,9 +1741,7 @@ Las normas técnicas que en materia de salubridad dicte el Estado, deberán publ
 
 Para el funcionamiento de los establecimientos enunciados en materia de salubridad local por esta Ley, los interesados deberán obtener la autorización sanitaria del Estado, independientemente de los demás requisitos que para tal efecto establezcan los respectivos reglamentos.
 
-### CAPITULO V. HIGIENE PUBLICA
-
-> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
+### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
 ###### ARTICULO 184.
 
@@ -1703,7 +1759,9 @@ El organismo vigilará que los mercados y centrales de abasto de Yucatán cumpla
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centrales de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales o puestos, quedando el ejercicio de sus actividades sujeto a lo que disponga esta Ley, los reglamentos respectivos y las normas técnicas correspondientes.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. HIGIENE PUBLICA
+
+> <small>(REFORMADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 187.
 
@@ -1745,7 +1803,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades Municipales en los términos de su competencia, podrán ordenar la ejecución de las obras que estime de urgencia, con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 196.
 
@@ -1811,9 +1869,7 @@ La aprobación de las solicitudes de refrigeración, exhumación, cremación o t
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 202.
 
@@ -1855,7 +1911,7 @@ El Gobierno del Estado, por conducto de sus Municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO IX. CENTRO DE READAPTACION SOCIAL
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1891,7 +1947,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitarias y municipales, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO X. BAÑOS PUBLICOS
+### CAPITULO IX. CENTRO DE READAPTACION SOCIAL
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1933,7 +1989,9 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos en cenotes o corrientes subterráneas ductos, pozos y corrientes o canales por donde fluyen aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados de conformidad con las normas técnicas emitidas y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. BAÑOS PUBLICOS
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 225.
 
@@ -1963,11 +2021,7 @@ Los establecimientos de esta naturaleza que actualmente se localicen en dichos l
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 225 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas técnicas correspondientes.
 
-### CAPITULO XII
-
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS.
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 228.
 
@@ -1987,7 +2041,11 @@ Los Centros de Readaptación Social deberán de contar ademas de lo previsto por
 
 Las personas encargadas de servicios médicos de los centros de readaptación deberán, a partir de que tengan conocimiento de alguna enfermedad trasmisible, proceder a adoptar las medidas de seguridad sanitaria que proceda, para evitar la propagación, así como informar en un plazo no mayor de veinticuatro horas a la autoridad sanitaria.
 
-### CAPITULO XIII. TINTORERIAS, LAVANDERIAS, LAVADEROS PUBLICOS Y OTROS SIMILARES
+### CAPITULO XII
+
+ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS.
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 231.
 
@@ -1999,7 +2057,7 @@ Para los efectos de esta Ley se entiende por baños públicos el establecimiento
 
 La actividad de estos establecimientos, estará sujeta a lo dispuesto por la reglamentación de esta Ley, otros ordenamientos legales aplicables, las normas técnicas correspondientes que dicte la autoridad sanitaria.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DE HOSPEDAJE
+### CAPITULO XIII. TINTORERIAS, LAVANDERIAS, LAVADEROS PUBLICOS Y OTROS SIMILARES
 
 ###### ARTICULO 233.
 
@@ -2017,9 +2075,7 @@ El funcionamiento a que se refiere el artículo inmediato anterior, deberá ceñ
 
 La autoridad sanitaria, una vez terminada la edificación del centro de reunión y antes de abrirse al público, hará la verificación y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-### CAPITULO XV. TRANSPORTE ESTATAL Y MUNICIPAL
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO XIV. ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTICULO 236.
 
@@ -2037,7 +2093,7 @@ Los procedimientos de embellecimientos del cuerpo humano, son aquellos que se ut
 
 El funcionamiento y personal de los establecimientos señalados en el artículo 236 de esta Ley, deberán apegarse a lo establecido en la misma, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-### CAPITULO XVI. GASOLINERAS
+### CAPITULO XV. TRANSPORTE ESTATAL Y MUNICIPAL
 
 > <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
@@ -2055,7 +2111,9 @@ II.- Lavadero público, establecimiento al cual acuden los interesados para real
 
 Corresponde a la autoridad sanitaria ejercer la verificación de los establecimientos a que se refiere este Capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVII. VENDEDORES AMBULANTES
+### CAPITULO XVI. GASOLINERAS
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 242.
 
@@ -2071,15 +2129,13 @@ En caso de contar con los servicios complementarios como restaurantes, servicios
 
 La Autoridad Sanitaria realizará la verificación que conforme a esta Ley y otras disposiciones legales aplicables le corresponda.
 
-### CAPITULO XVIII. CAMPAÑA CONTRA LA HIDROFOBIA
+### CAPITULO XVII. VENDEDORES AMBULANTES
 
 ###### ARTICULO 245.
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al transporte de carga en general o de pasajeros, sea cual fuera su medio de propulsión y que por sus características especiales pueda tener repercusiones en la salud de la población, por lo que su funcionamiento, será objeto de verificaciones periódicas por parte de la Autoridad Sanitaria conforme a las normas técnicas que dicte la misma.
 
-### CAPITULO XIX. VENTA DE BEBIDAS ALCOHOLICAS
-
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+### CAPITULO XVIII. CAMPAÑA CONTRA LA HIDROFOBIA
 
 ###### ARTICULO 246.
 
@@ -2089,9 +2145,9 @@ Para los efectos de esta Ley, se entiende por gasolineras, el establecimiento de
 
 Todo establecimiento dedicado al expendio de gasolina o lubricantes, será sometido a una verificación periódica por la autoridad sanitaria con el propósito de constatar que se reúnan las condiciones higiénicas y de seguridad establecidas en el reglamento correspondiente.
 
-### CAPITULO I. DE LAS AUTORIZACIONES Y CERTIFICADOS
+### CAPITULO XIX. VENTA DE BEBIDAS ALCOHOLICAS
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPÍTULO I], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 248.
 
@@ -2101,9 +2157,9 @@ Para los efectos de esta Ley y sus reglamentos, deben de entenderse como vendedo
 
 Los vendedores ambulantes que expendan productos alimenticios, deberán cumplir con las condiciones higiénicas que establezca la Autoridad Sanitaria, pero en ningún caso lo podrá hacer en zonas consideradas insalubres o de alto riesgo a la salud.
 
-### CAPITULO II. DEL CONTROL SANITARIO
+### CAPITULO I. DE LAS AUTORIZACIONES Y CERTIFICADOS
 
-> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPÍTULO I], D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 250.
 
@@ -2127,7 +2183,7 @@ La Autoridad Sanitaria, mantendrá campañas permanentes de orientación a la po
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO III. DE LA VIGILANCIA SANITARIA
+### CAPITULO II. DEL CONTROL SANITARIO
 
 > <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -2227,7 +2283,9 @@ III.- Los que en forma expresa y para fechas y plazos determinados, decrete el T
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO UNICO.
+### CAPITULO III. DE LA VIGILANCIA SANITARIA
+
+> <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 #### SECCION PRIMERA. DE LAS AUTORIZACIONES
 
@@ -2417,7 +2475,7 @@ Los certificados a que se refiere este título se extenderán en los modelos apr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO.
 
 ###### ARTICULO 275-A.
 
@@ -2525,7 +2583,7 @@ Todo cambio de propietario de un establecimiento, de razón social o denominaci�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 275-L.
 
@@ -2643,9 +2701,7 @@ En el caso de los productos recolectados en procedimientos de muestreo o verific
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JULIO DE 2007)</small>
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 276.
 
@@ -2701,7 +2757,9 @@ MEDIDAS DE SEGURIDAD SANITARIA,
 
 SANCIONES, RECURSOS Y PRESCRIPCION
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 288.
 
@@ -2813,9 +2871,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las Autoridades Sanitarias se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO V. PRESCRIPCION
-
-> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 301.
 
@@ -2906,6 +2962,10 @@ II.- A la persona que en rebeldía se niegue a cumplir los requirimientos (sic) 
 Sólo procederá esta sanción, si previamente se dictó cualquier otra de las sanciones a que se refiere este capítulo.
 
 Impuesto el arresto, se comunicará la resolución a la Autoridad correspondiente para que la ejecute.
+
+### CAPITULO V. PRESCRIPCION
+
+> <small>(F. DE E., D.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 313.
 
@@ -3218,3 +3278,23 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 9 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 373/2016 POR EL QUE SE QUE MODIFICA LA LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE TRASTORNOS DEL ESPECTRO AUTISTA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Referencia
+
+En lo sucesivo, cuando en alguna norma se haga referencia a los Servicios Coordinados de Salud Pública en el Estado de Yucatán se entenderá hecha a los Servicios de Salud de Yucatán.
+
+Tercero. Obligación normativa
+
+El Gobernador deberá expedir, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este decreto, el Decreto por el que se declara el 2 de Abril Día Estatal de Concienciación sobre el Autismo.
+
+Cuarto. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
