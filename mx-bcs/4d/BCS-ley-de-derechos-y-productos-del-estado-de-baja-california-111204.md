@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -119,9 +119,11 @@ Los servidores públicos previamente a la prestación de los servicios, así com
 
 En el supuesto de que el contribuyente no haga la presentación de los comprobantes de pago en los plazos que señala esta Ley, la dependencia prestadora del servicio o del uso, goce o aprovechamiento de bienes propiedad del Estado, dejará de proporcionarlos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2016)</small>
+
 ###### Artículo 5.
 
-Se establece a favor de los pensionados, jubilados y adultos mayores de 60 años, una reducción del 50 por ciento en el pago de las contribuciones que a continuación se indican:
+Se establece a favor de los pensionados, jubilados, adultos mayores de 60 años y personas con discapacidad, una reducción del 50 por ciento en el pago de las contribuciones que a continuación se indican:
 
 I. Derechos por la legalización de firmas, certificaciones y copias certificadas;
 
@@ -129,13 +131,19 @@ II. Derechos por la expedición de formas aprobadas;
 
 III. Derechos por servicios del Archivo General de Notarías; y
 
-IV. Derechos por servicios de control vehicular, únicamente en licencias de conducir, para automovilista, placas o calcomanías de un solo vehículo, propiedad del pensionado o jubilado.
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2016)</small>
 
-Los beneficios a que se refiere este Artículo podrán hacerse efectivos en una sola ocasión por año, únicamente en los actos relativos a la persona del pensionado, jubilado o adulto mayor de 60 años, y previo el acreditamiento de que se encuentra en alguno de los supuestos señalados en este Artículo.
+IV. Derechos por servicios de control vehicular, únicamente en licencias de conducir, para automovilista, placas o calcomanías de un solo vehículo, propiedad del pensionado, jubilado, adultos mayores de 60 años y personas con discapacidad.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2016)</small>
+
+Los beneficios a que se refiere este Artículo podrán hacerse efectivos en una sola ocasión por año, únicamente en los actos relativos a la persona del pensionado, jubilado, adulto mayor de 60 años y personas con discapacidad, y previo el acreditamiento de que se encuentra en alguno de los supuestos señalados en este Artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2016)</small>
 
 ###### Artículo 6.
 
-Para los efectos de esta Ley se consideran pensionados, jubilados y adultos mayores de 60 años aquellas personas que acrediten dicha calidad con la documentación oficial correspondiente expedida por las Instituciones de Seguridad Social que a continuación se señalan:
+Para los efectos de esta Ley se consideran pensionados, jubilados, adultos mayores de 60 años y personas con discapacidad, aquellas personas que acrediten dicha calidad con la documentación oficial correspondiente expedida por las Instituciones de Seguridad Social e institutos que a continuación se señalan:
 
 I. Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado;
 
@@ -144,6 +152,10 @@ II. Instituto Mexicano del Seguro Social;
 III. Instituto de Seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos y de la Comisión Federal de Electricidad;
 
 IV. Credencial expedida por el Instituto Nacional de las Personas Adultas Mayores;
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2016)</small>
+
+V. Credencial expedida por el Instituto Sudcaliforniano para la Inclusión de las Personas con Discapacidad.
 
 Otras Instituciones de Seguridad Social que presten servicios en las diversas entidades federativas del país.
 
@@ -549,7 +561,7 @@ la provisional $362.00
 
 XXIX. Duplicado de Cédula Profesional Estatal; $362.00
 
-XXX. Registro de Titulo Profesional o grado
+XXX. Registro de Título Profesional o grado
 
 académico; $722.00
 
@@ -1187,7 +1199,7 @@ b) En horas inhábiles:
 
 1 En las oficinas del Registro Civil: $273.00
 
-2 Fuera de las oficinas del Registro Civil: $1 ,823.00
+2 Fuera de las oficinas del Registro Civil: $1,823.00
 
 11 Registro de nacimiento extemporáneo: 273.00
 
@@ -1910,3 +1922,11 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 10 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2337 SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 5 Y 6 DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja california Sur.
