@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2016-02-03"
+last_updated: "2016-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE ABRIL DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4104,6 +4102,10 @@ n) A quienes sin ser mexiquenses tengan méritos o hayan prestado servicios emin
 o) A la defensa de los derechos humanos "José María Morelos y Pavón";
 
 p) Al fortalecimiento de las instituciones públicas "León Guzmán".
+
+> <small>(ADICIONADO, G.G. 11 DE ABRIL DE 2016)</small>
+
+q) A los integrantes con funciones operativas de las instituciones de seguridad pública del Estado de México “POLICÍA MEXIQUENSE DEL AÑO”.
 
 II. Inhumación en la Rotonda de las Personas Ilustres del Estado de México.
 
@@ -18528,3 +18530,15 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 76.- POR EL QUE SE ADICIONA EL INCISO Q), A LA FRACCIÓN I DEL ARTÍCULO 3.61 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO. SE DECLARA EL SIETE DE DICIEMBRE DE CADA AÑO COMO EL DÍA CONMEMORATIVO DEL “POLICÍA MEXIQUENSE” Y SE DEBERÁ INCLUIR EN EL CALENDARIO CÍVICO ESTATAL”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. El Titular del Poder Ejecutivo realizará las modificaciones a las disposiciones reglamentarias dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
