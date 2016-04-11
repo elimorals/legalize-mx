@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2016-01-04"
+last_updated: "2016-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2587,9 +2587,13 @@ XXXII. Nombrar un enlace de género para la debida coordinación de acciones con
 
 XXXIII. Formar parte de los Sistemas Municipales, de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres y de Igualdad Sustantiva entre Mujeres y Hombres;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-XXXIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXXIV. Emitir el estudio de impacto socio - económico que tendrá la instalación y funcionamiento de tiendas de conveniencia en los lugares donde existan comercio de abarrotes, análogos o similares, con el propósito de no favorecer la afectación comercial que por tal motivo obtengan éstas últimas y contribuir así a su fortalecimiento económico y social. Dicho estudio se concentrará específicamente en la circunferencia de influencia en la venta de servicios y productos de la tienda de conveniencia hacia el detrimento comercial del sector abarrotero, análogo o similar.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
+
+XXXV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ###### ARTÍCULO 111
 
@@ -2891,75 +2895,115 @@ XIII. Formar parte de los Sistemas Municipales, de Prevención, atención, sanci
 
 XIV. Las demás que señale la ley, los reglamentos, el H. Ayuntamiento y el Presidente Municipal.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-APARTADO DÉCIMO SEXTO
+APARTADO DECIMO SEXTO
 
 De la Secretaría de Medio Ambiente y Desarrollo Sustentable
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ARTÍCULO 114 BIS.- Corresponde a la Secretaría de Medio Ambiente y Desarrollo Sustentable:
 
 I.- Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+II.- Formular, conducir y evaluar la política ambiental municipal;
 
-II.- Regular la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
+III.- Aplicar los instrumentos de política ambiental de competencia municipal previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección Ambiental para el Estado de Aguascalientes, este Código y demás ordenamientos aplicables;
 
-III.- Crear, Administración y Manejar las áreas naturales protegidas de competencia municipal, así como proponer zonas de preservación ecológicas dentro del territorio municipal;
+IV.- Elaborar, revisar y actualizar un diagnóstico ambiental que corresponda a cada administración municipal, para que de él deriven los programas relativos;
 
-IV.- Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen;
+V.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación aplicables al ámbito de competencia municipal;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+VI.- Prevenir y controlar la contaminación atmosférica por fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
 
-V.- Establecer, en coordinación con la Secretaría de Seguridad Pública, medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales aplicables;
+VII.- Prevenir y controlar la contaminación visual, por ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
 
-VI.- Participar conjuntamente con el Instituto Municipal de Planeación y con la Secretaría de Desarrollo Urbano Municipal, en la elaboración y autorización de proyectos de reglamentación de Zonificación, Usos y Permisos del Suelo así como de los planes y programas de Desarrollo Urbano Municipal; así como negar desarrollos a menos de quince metros de arroyos y ríos de competencia municipal en coordinación con la misma Secretaría;
+VIII.- Aplicar las disposiciones jurídicas relativas a la gestión, prevención y control de los efectos sobre el ambiente, ocasionados por el manejo de residuos sólidos urbanos, de conformidad con las leyes Federales, Estatales y demás disposiciones en materia ambiental;
 
-VII.- Otorgar la resolución del informe preventivo a las empresas de su competencia;
+IX.- Expedir el permiso ambiental de funcionamiento;
 
-VIII.- Determinaren el ámbito de su competencia, o solicitar ante el Estado y la Federación, según sea el caso, la limitación, modificación o suspensión de actividades comerciales, industriales, de servicios, de desarrollo urbano y turístico, que puedan causar deterioro ambiental o alteración del equilibrio ecológico;
+X.- Analizar y en su caso autorizar las solicitudes de derribo, extracción o reubicación de árboles y arbustos en el Municipio, excepto aquellos que sean de competencia Federal, por tratarse de terrenos forestales en términos de la legislación aplicable;
 
-IX.- Llevar y actualizar el registro de las fuentes generadoras de contaminación existentes en el Municipio;
+XI.- Atender las denuncias ambientales en el ámbito de su competencia y remitir a las instancias correspondientes aquellas que no sean de índole municipal;
 
-X.- Dictaminar en coordinación con el organismo municipal rector del servicio de agua potable y alcantarillado, de las solicitudes de permiso para descargar aguas residuales en los sistemas de alcantarillado municipal, con base en lo dispuesto por las leyes aplicables;
+XII.- Llevar y actualizar el registro de las fuentes fijas generadoras de contaminación de competencia municipal, así como de los grandes generadores de residuos sólidos urbanos existentes en el Municipio;
 
-XI.- Establecer, en coordinación con el organismo municipal rector del servicio de agua potable y alcantarillado, de los criterios ambientales y condiciones particulares de descarga en materia de aguas residuales, industriales, comerciales y de servicios;
+XIII.- Coordinarse con las autoridades federales y estatales en su caso, para establecer sistemas de monitoreo de contaminación atmosférica en el territorio municipal;
 
-XII.- Fomentar la participación, la educación ambiental y la corresponsabilidad de la comunidad en el cumplimiento del presente capítulo;
+XIV.- Establecer y mantener actualizado el registro de las ladrilleras presentes en el Municipio;
 
-XIII.- Fomentar la realización de programas y proyectos de educación ambiental en todos los sectores de la sociedad;
+XV.- Coadyuvar con la Secretaría de Servicios Públicos en la elaboración, evaluación y actualización del Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos;
 
-XIV.- Establecer, con la participación del Instituto Municipal de Planeación, los criterios ambientales para el diseño, proyecto y manejo de las áreas verdes y arbolados urbanos;
+XVI.- Evaluar el impacto ambiental de las obras o actividades que le sean transferidas, mediante convenios o acuerdos, por el Estado o la Federación, así como de aquellas que sean de su competencia en los términos de la Ley de Protección Ambiental para el Estado de Aguascalientes;
 
-XV.- Vigilar en coordinación con la Federación y el Estado, así como con el Instituto Municipal de Planeación, el adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio municipal;
+XVII.- Participar en la evaluación del impacto ambiental de obras o actividades de competencia federal o estatal, cuando éstas se realicen en el ámbito de su circunscripción territorial;
 
-XVI.- Participar con el Estado, en la evaluación del impacto ambiental de las obras, proyectos o actividades de competencia estatal, que se realicen en el territorio municipal;
+XVIII.- Recibir, evaluar y dictaminar la viabilidad ambiental de los proyectos u obras que las dependencias de la administración municipal pretendan realizar dentro del territorio del municipio de Aguascalientes; lo anterior previo y sin menoscabo de que dichas instancias tramiten las autorizaciones que correspondan ante autoridades estatales y federales competentes;
 
-XVII.- Promover la organización permanente y ejecución de programas divulgando los procesos, tecnologías y sistemas informativos compatibles con el uso eficiente de la energía;
+XIX.- Promover la participación de las dependencias y entidades de la administración pública de los demás niveles de gobierno en las acciones de preservación, protección, educación ambiental, prevención y control del deterioro ambiental y restauración del ambiente, en su jurisdicción territorial; así como celebrar con estás los acuerdos que sean necesarios con el propósito de dar cumplimiento a la legislación, reglamentación y/o normatividad vigente;
 
-XVIII.- Diseñar, auspiciar y coordinar programas y proyectos de cooperación estatal, nacional e internacional para el desarrollo del uso eficiente de la energía;
+XX.- Participar en el establecimiento, administración y manejo de las áreas naturales protegidas de competencia municipal;
 
-XIX.- Elaborar los planes y programas referenciales de eficiencia energética;
+XXI.- Promover, fomentar y orientar el desarrollo de acciones para la conservación y el aprovechamiento sustentable de los ecosistemas y la biodiversidad presente en el territorio municipal, en coordinación con el Estado y la Federación;
 
-XX.- Promover la asistencia técnica a instituciones públicas y privadas y la concertación con organizaciones de financiamiento a programas del uso eficiente de la energía;
+XXII.- Coadyuvar con las demás dependencias y entidades de la administración pública municipal, en el cumplimiento de la normatividad ambiental aplicable, a través de capacitación y asesoría;
 
-XXI.- Coordinar con los demás sectores y las entidades públicas y privadas el desarrollo de políticas de uso eficiente de la energía;
+XXIII.- Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes;
 
-XXII.- Promover el consumo eficiente de energéticos en zonas aisladas y remotas;
+XXIV.- Formular, ejecutar y vigilar el programa de ordenamiento ecológico y coadyuvar con el Instituto Municipal de Planeación en los planes o programas que de él se deriven, en los términos en que se refieren las leyes y reglamentos aplicables;
 
-XXIII.- Establecer criterios ambientales, especialmente aquellos relacionados con la mitigación de los efectos que tienen en la zona urbana el calentamiento global;
+XXV.- Determinar, en el ámbito de su competencia, o solicitar ante el Estado y la Federación, según sea el caso, la limitación, modificación o suspensión de actividades comerciales, industriales, de servicios, de desarrollo urbano y turístico, que puedan causar deterioro ambiental o alteración del equilibrio ecológico;
 
-XXIV.- Elaborar el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes;
+XXVI.- Vigilar en coordinación con la Federación y el Estado, el adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio municipal;
 
-XXV.- Realizar en coordinación con la Dirección de Parques y Jardines del Municipio, campañas de reforestación urbana y rural, congruentes con las del Estado y la Federación;
+XXVII.- Fijar y aplicar medidas de prevención y control de emergencias ecológicas y contingencias ambientales, así como participar y coadyuvar con las entidades federales y estatales conforme a las políticas y programas que para tal efecto se establezcan;
 
-XXVI.- Dar atención a la denuncia popular que en el ámbito de su competencia presenten los grupos sociales y los particulares interesados o afectados por los problemas ambientales;
+XXVIII.- Formular el Plan de Acción Climática Municipal (PACMUN), coordinar su implementación y actualizarlo cada seis años;
 
-XXVII.- Fomentar y realizar programas de minimización y manejo de residuos especialmente en los sectores industrial, comercial y de servicios; y
+XXIX.- Crear e implementar el Plan Municipal de Contingencia Ambiental;
 
-XXVIII.- Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXX.- Establecer los criterios ambientales relacionados con la mitigación y adaptación a los efectos que tiene en la zona urbana el calentamiento global;
+
+XXXI.- Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población;
+
+XXXII.- Difundir la política municipal en materia ambiental e informar sobre la calidad del ambiente en el municipio;
+
+XXXIII.- Promover espacios de participación de la sociedad en materia ambiental;
+
+XXXIV.- Implementar programas en materia de educación y comunicación ambiental que favorezcan la conservación y el aprovechamiento sustentable de los recursos naturales y la biodiversidad en el municipio;
+
+XXXV.- Celebrar convenios con la Federación, el Estado, otros Municipios y con personas físicas o morales, para la realización de acciones en materia de difusión, protección, conservación y aprovechamiento sustentable de los recursos naturales, biodiversidad y medio ambiente, en el ámbito de su competencia, previa autorización del Cabildo;
+
+XXXVI.- Ejercer las atribuciones y funciones que en materia ambiental le hayan sido transferidas por la Federación o el Estado al Municipio, a través de convenios y acuerdos;
+
+XXXVII.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el municipio;
+
+XXXVIII.- Establecer y mantener actualizado un sistema de información ambiental, transparente y de fácil acceso a la ciudadanía;
+
+XXXIX.- Integrar el registro municipal de emisiones y transferencia de contaminantes al aire y agua, respecto de materiales, sustancias y residuos de competencia municipal;
+
+XL.- Promover la integración de ecotecnologías en establecimientos comerciales, industriales y de servicios;
+
+XLI.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales en el territorio municipal;
+
+XLII.- Colaborar con los organismos competentes para la aplicación de las disposiciones jurídicas para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces bajo custodia del Municipio;
+
+XLIII.- Ordenar y realizar visitas u operativos de inspección y vigilancia para verificar el cumplimiento de las disposiciones jurídicas aplicables a su competencia;
+
+XLIV.- Determinar las infracciones a este Código que en materia ambiental se establezcan;
+
+XLV.- Emitir los acuerdos y resoluciones correspondientes al procedimiento administrativo de inspección y vigilancia, imponiendo las medidas correctivas y de seguridad, así como las sanciones que en su caso procedan, verificando el cumplimiento de dichas medidas y proveyendo lo necesario para la ejecución de sanciones;
+
+XLVI.- Ordenar e imponer las medidas técnicas correctivas o de urgente aplicación que correspondan, señalando los plazos para su cumplimiento; así como las medidas de seguridad procedentes, proveyendo lo necesario para obtener la ejecución de estas últimas, indicando, en su caso, las acciones necesarias para subsanar las irregularidades que motivaron la imposición de las medidas de seguridad y los plazos para su realización, a fin de que una vez cumplidas se ordene el retiro de las mismas;
+
+XLVII.- Proponer en la Ley de Ingresos para el Municipio de Aguascalientes, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad;
+
+XLVIII.- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
+
+XLIX.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
+
+L.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
 
 ## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
@@ -5411,31 +5455,53 @@ De las Faltas Contra la Salubridad
 
 Son faltas contra la salubridad y el ornato público y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
 
-I. Ensuciar, desviar o retener las corrientes de agua de los manantiales, tanques o tinacos almacenadores, fuentes públicas, acueductos y tuberías de los servicios del Municipio.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-II. Arrojar en la vía pública animales muertos, escombros o cualquier sustancia que contamine el ambiente.
+I. Ensuciar, desviar o retener las corrientes de agua de los manantiales, cauces o arroyos, tanques o tinacos almacenadores, fuentes públicas, acueductos y tuberías de los servicios del Municipio;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-III. Arrojar a los drenajes basura, escombros, desechos materiales, sustancias tóxicas, lodos y productos de los tratamientos de aguas residuales que contaminen o puedan obstruir su funcionamiento.
+II. Arrojar en la vía pública animales muertos y/o sus partes, escombros o cualquier sustancia que contamine el ambiente;
 
-IV. Arrojar o abandonar en la vía pública fuera de los depósitos colocados para tal fin, residuos o cualquier otro objeto.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-V. Arrojar en predios baldíos, residuos en cualquier estado y de cualquier especie.
+III. Arrojar a los drenajes residuos, escombros, desechos materiales, sustancias toxicas, lodos y productos de los tratamientos de aguas residuales que contaminen o puedan obstruir su funcionamiento;
 
-VI. Orinar o defecar en la vía pública, en lugares distintos de los autorizados para ese efecto.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-VII. Sacudir ropa, alfombras y otros objetos hacia la vía pública, tirar deshechos o desperdicios sobre la misma o en cualquier predio o lugar no autorizado.
+IV. Arrojar o abandonar en la vía pública fuera de los depósitos colocados para tal fin, residuos o cualquier otro objeto;
 
-VIII. Tener animales que originen mal olor, fauna nociva, ruidos o que causen cualquier otro tipo de molestia a los vecinos en zonas habitacionales.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-IX. Realizar la quema de basura, pasto seco, llantas o cualquier sustancia que cause contaminación al ambiente.
+V. Arrojar en predios baldíos, residuos en cualquier estado y de cualquier especie;
 
-X. Fumar en lugares expresamente prohibidos para ello.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
+VI. Orinar o defecar en la vía pública, en lugares distintos de los autorizados para ese efecto;
 
-XI. Descargar aguas residuales contaminantes contrarias al permiso otorgado por la autoridad municipal correspondiente.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VII. Sacudir ropa, alfombras y otros objetos hacia la vía pública, tirar deshechos o desperdicios sobre la misma o en cualquier predio o lugar no autorizado;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VIII. Tener animales que originen mal olor, fauna nociva, ruidos o que causen cualquier otro tipo de molestia a los vecinos en zonas habitacionales;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+IX. Realizar la quema de residuos, pasto seco, llantas o cualquier sustancia que cause contaminación al ambiente;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+X. Fumar en lugares expresamente prohibidos para ello;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XI. Descargar aguas residuales contaminantes contrarias al permiso otorgado por la autoridad municipal correspondiente; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XII. Abstenerse de recoger las heces fecales arrojadas por animales de compañía a la vía pública, áreas verdes, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
 
 APARTADO SEXTO
 
@@ -6147,31 +6213,49 @@ XV. Realizar publicidad constantemente para la inscripción de jóvenes al Servi
 
 XVI. En conjunto con la Zona Militar, publicar la fecha del Sorteo del Servicio Militar Nacional, así como el lugar y la hora de celebración del mismo.
 
-# LIBRO TERCERO. DE LOS SERVICIOS PÚBLICOS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-## TÍTULO ÚNICO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS SERVICIOS PÚBLICOS
+# LIBRO TERCERO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
+
+## TÍTULO ÚNICO. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LOS SERVICIOS PUBLICOS
 
 ###### ARTÍCULO 411.
 
 El Ayuntamiento tendrá a su cargo la planeación, ejecución, administración y control de los servicios públicos que requiera la población del Municipio, tales como:
 
-I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-II. Alumbrado público.
+I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
 
-III. Limpia, recolección, traslado, tratamiento y disposición final de residuos.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-IV. Mercados y centrales de abasto.
+II. Alumbrado público;
 
-V. Panteones.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-VI. Rastro.
+III. Limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial de su competencia;
 
-VII. Calles, parques, jardines y su equipamiento.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+IV. Mercados y centrales de abasto;
 
-VIII. Seguridad Pública.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+V. Panteones;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VI. Rastro;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VII. Calles, parques, jardines y su equipamiento;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VIII. Seguridad Pública y Tránsito; y
 
 IX. Las demás necesarias para la organización y administración del Municipio.
 
@@ -6547,7 +6631,7 @@ Se aplicarán las sanciones que previene este Código, a las personas que infrin
 
 ### CAPITULO IV. Del Manejo de los Residuos Sólidos Municipales
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 476.
 
@@ -6645,105 +6729,123 @@ Los criterios diseño, construcción, modificación, manejo, mantenimiento, cons
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2011)</small>
-
 ### CAPITULO V. Reglamento de Colombofilia y Colombicultura
 
-ARTÍCULO 491 BIS.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
+ARTÍCULO 491 BIS.- (DEROGADO, P.O. 13 DE ENERO DE 2014; P.O. 11 DE ABRIL DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 491
 
-1.- En cuanto a la protección del suelo y el manejo de los residuos sólidos municipales, corresponde al H. Ayuntamiento, a través de la Secretaría de Servicios Públicos:
+1.- En cuanto al manejo de los residuos sólidos urbanos, corresponde al Municipio, a través de la Secretaría de Servicios Públicos lo siguiente:
 
-I.- Vigilar que se dé el manejo adecuado a los residuos sólidos que se generen por la prestación de servicios públicos municipales;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-II.- Vigilar que el servicio municipal de limpia realice la recolección, acopio, reciclaje y disposición final de los residuos sólidos municipales con apego a la normatividad ambiental vigente y sin que represente riesgos para el ambiente y la salud;
+I.- Prestar los servicios de recolección, transporte y disposición final de los residuos sólidos urbanos que se generen por la prestación de los servicios públicos municipales, con apego a la normatividad ambiental vigente y sin que represente riesgos para el ambiente y la salud;
 
-III.- Celebrar conjuntamente con la Dirección de Limpia y Aseo Público, acuerdos de coordinación con los municipios colindantes para enviar o recibir residuos sólidos no peligrosos para su disposición final;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-IV.- Realizar las denuncias que correspondan por fuentes generadoras de residuos sólidos peligrosos en el territorio municipal;
+II.- Proponer acuerdos de coordinación con otros municipios para recibir residuos sólidos urbanos para su disposición final;
 
-V.- Coordinar con la Dirección de Limpia y Aseo Público, un inventario de los sitios autorizados de disposición final de residuos sólidos no peligrosos y de las fuentes generadoras que incluirán un registro de las cantidades que se producen, sus componentes y las características de los sistemas y sitios de manejo, transporte, almacenamiento, alojamiento, recuperación, tratamiento y disposición final;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-VI.- Fomentar el desarrollo de infraestructura de apoyo para acopio de residuos sólidos municipales; y
+III.- Denunciar ante las autoridades competentes el manejo inadecuado de residuos peligrosos o de manejo especial en el territorio municipal;
 
-VII.- Solicitar al generador o prestador de servicios de recolección de residuos peligrosos, un plan de contingencias ambientales aprobado por la Secretaría del Medio Ambiente y Desarrollo Sustentable.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+IV.- Establecer y mantener actualizado un inventario de los sitios autorizados para la disposición final de los residuos sólidos urbanos y de manejo especial;
 
-###### ARTÍCULO 491
+V.- (DEROGADA, P.O. 11 DE ABRIL DE 2016)
 
-2.- Las personas físicas o morales cuya actividad preponderante sea la compra, selección, transportación, acopio, aprovechamiento de residuos sólidos deberán contar con licencia de funcionamiento, conforme a lo establecido en el presente Código.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+VI.- Fomentar el desarrollo de infraestructura de apoyo para el acopio de los residuos sólidos urbanos;
 
-###### ARTÍCULO 491
+VII.- (DEROGADA, P.O. 11 DE ABRIL DE 2016)
 
-3.- Para la obtención de la licencia mencionada en el artículo anterior, se requerirá de la presentación de una solicitud, misma que será proporcionada por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 491
 
-4.- Queda prohibido y será materia de sanción descargar, depositar o infiltrar contaminantes en los suelos del territorio municipal, sin el cumplimiento de las Normas Oficiales Mexicanas y reglamentos vigentes.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+2.- Las personas físicas o morales cuya actividad sea la compra, venta, acopio y reciclaje de residuos sólidos urbanos, deberán contar con un permiso ambiental de funcionamiento emitido por el Municipio, conforme a lo establecido en el Reglamento respectivo, el presente Código y demás normatividad aplicable.
 
 ###### ARTÍCULO 491
 
-5.- Los particulares que realicen actividades que generen residuos sólidos municipales, que no utilicen los servicios públicos de recolección, manejo, transporte y disposición final y no cuenten con autorización para hacerlo directamente en estricto apego a este Código, podrán ser amonestados, sancionados económicamente o arrestados hasta por treinta y seis horas por la autoridad municipal correspondiente.
+3.- (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-También se aplicarán las sanciones anteriores en los siguientes casos:
-
-I.- Destinar terrenos como sitios de disposición final de residuos sólidos, semilíquidos o líquidos sin la autorización en materia de impacto ambiental por parte de la autoridad competente;
-
-II.- Descargar residuos sólidos, semilíquidos o líquidos de cualquier tipo en la vía pública, caminos, cauces, vasos, terrenos agrícolas o baldíos;
-
-III.- Transportar residuos sólidos en vehículos que no estén debidamente protegidos para evitar su dispersión en el ambiente;
-
-IV.- Depositar en áreas de destino final residuos sólidos provenientes de otros municipios o entidades federativas, sin autorización previa del Municipio; y
-
-V.- Abstenerse de recoger las heces fecales de sus mascotas que sean arrojadas en vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 491
 
-6.- Los particulares que realicen actividades que generen residuos sólidos no municipales y de manejo especial, que utilicen los servicios públicos o privados de recolección y cuya disposición final se pretenda realizar en el relleno sanitario municipal, deberán obtener autorización de la Secretaría de Medio Ambiente y Desarrollo Sustentable, mediante la presentación de oficio que deberá contener como datos mínimos:
+4.- Queda prohibido y será materia de sanción descargar, depositar o infiltrar contaminantes en los suelos del territorio municipal, sin el cumplimiento de la normatividad aplicable.
 
-I.- Nombre o razón social de la empresa;
+###### ARTÍCULO 491
 
-II.- Domicilio de la empresa, domicilio para oír o recibir notificaciones;
+5.- (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-III.- Descripción detallada del residuo;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-IV.- Peso y volumen del mismo;
+###### ARTÍCULO 491
+
+6.- Las personas físicas o morales que realicen actividades comerciales, industriales o de servicios, fraccionamientos, condominios y prestadores de servicios de recolección y transporte, que generen residuos sólidos urbanos y de manejo especial que deseen disponerlos directamente en el relleno sanitario municipal, deberán obtener autorización de la SEMADESU, mediante la presentación de un formato que deberá contener como mínimo los siguientes datos:
+
+I.- Nombre o razón social;
+
+II.- Domicilio para oír o recibir notificaciones;
+
+III.- Descripción detallada de los residuos;
+
+IV.- Peso o volumen anual aproximado de los mismos;
 
 V.- Frecuencia con la que se pretende disponer; y
 
-VI.- En caso que el residuo sea probablemente peligroso, de acuerdo con la normatividad ambiental vigente; se deberá presentar el reporte del análisis de laboratorio acreditado ante la entidad mexicana de acreditación que demuestre que no es corrosivo, reactivo, explosivo, toxico, inflamable, biológico o infeccioso "CRETIB".
+VI.- En caso de que exista duda sobre la peligrosidad del residuo de acuerdo con la normatividad ambiental vigente, se deberá presentar el reporte del análisis de laboratorio acreditado ante la entidad mexicana de acreditación que demuestre que no es corrosivo, reactivo, explosivo, toxico, inflamable, biológico o infeccioso "CRETIB".
 
-La autorización dependerá de la normatividad ambiental vigente así como de los alineamientos de operación del sitio de disposición final.
+Adicionalmente deberá presentar en original y copia del plan de manejo de residuos y de la autorización del permiso de transporte de residuos.
 
-La autorización podrá ser condicionada y tendrá una vigencia determinada.
+El solicitante deberá cubrir el pago para la autorización de depósito de residuos sólidos urbanos y/o de manejo especial al relleno sanitario, con base en lo dispuesto en la Ley de Ingresos del Municipio de Aguascalientes del ejercicio fiscal correspondiente.
+
+Asimismo, deberá presentar en formato digital los manifiestos de entrega, transporte y recepción con el sello y firma del encargado del relleno sanitario como se indique en la autorización emitida por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+
+La autorización podrá ser condicionada y tendrá una vigencia de un año.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+###### ARTÍCULO 491
+
+7.- Queda prohibido:
+
+I.- Destinar terrenos como sitios de disposición final de residuos sólidos, semilíquidos o líquidos sin las autorizaciones ambientales correspondientes;
+
+II.- Descargar residuos sólidos, semilíquidos o líquidos de cualquier tipo en la vía pública, caminos, cauces, vasos, terrenos agrícolas o baldíos sin las autorizaciones ambientales correspondientes;
+
+III.- Transportar residuos en vehículos que no estén debidamente protegidos para evitar su dispersión en el ambiente;
+
+IV.- Transportar residuos sin contar con la autorización correspondiente;
+
+V.- Depositar en áreas de destino final residuos sólidos urbanos y de manejo especial, provenientes de otros municipios o entidades federativas, sin autorización previa del Municipio;
+
+VI.- Estacionar vehículos en la vía pública que transporten residuos fuera de la ruta de recolección;
+
+VII.- Abstenerse de recoger las heces fecales de sus mascotas que sean arrojadas en vía pública, áreas verdes, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ENERO DE 2014)</small>
 
-### CAPÍTULO I. Del Impacto Ambiental
+### CAPÍTULO I. Del Permiso Ambiental de Funcionamiento
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 # LIBRO CUARTO. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
-## TÍTULO ÚNICO. DE LA PROTECCIÓN AMBIENTAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+## TÍTULO ÚNICO. DE LA PROTECCION AMBIENTAL
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 492.
 
-Las disposiciones del presente reglamento son de orden público e interés social en el Municipio de Aguascalientes y tienen por objeto garantizar el derecho de las personas a disfrutar de un medio ambiente adecuado para su desarrollo y bienestar integral, a través de la correcta formulación, conducción y evaluación de la política ambiental y sustentable; la preservación y restauración del equilibrio ecológico y la protección del ambiente en el territorio municipal, en concurrencia con las autoridades estatales y federales.
+Las disposiciones del presente título son de orden público e interés social en el Municipio de Aguascalientes y tienen por objeto garantizar el derecho de las personas a disfrutar de un medio ambiente adecuado para su desarrollo y bienestar integral, a través de la correcta formulación, conducción y evaluación de la política ambiental y sustentable; la preservación y restauración del equilibrio ecológico y la protección del ambiente en el territorio municipal, en concurrencia con las autoridades estatales y federales.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -6753,25 +6855,43 @@ Las disposiciones del presente reglamento son de orden público e interés socia
 
 I. El H. Ayuntamiento;
 
-II. El Presidente Municipal;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-III. La Secretaría de Medio Ambiente y Desarrollo Sustentable Municipal, a través de su titular o personal facultado; y
+II. El Presidente Municipal; y
 
-Corresponde a las demás dependencias de la Administración Pública Municipal y entidades a través de su personal facultado, a proporcionar la información técnica ambiental necesaria dentro de su respectivo ámbito de competencia.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+III. La Secretaría de Medio Ambiente y Desarrollo Sustentable.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+Corresponde a las demás dependencias de la Administración Pública Municipal y entidades a través de su personal facultado, proporcionar la información técnica ambiental necesaria dentro de su respectivo ámbito de competencia, así como instrumentar los programas de administración sustentable.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 492
 
-2.- Para los efectos de las presentes disposiciones, serán considerados además de los conceptos señalados en diversos ordenamientos federales y estatales en la materia, los siguientes:
+2.- Para los efectos de las presentes disposiciones, serán consideradas además de las definiciones señaladas en diversos ordenamientos federales, estatales y municipales en la materia, las siguientes:
 
-Secretaría: La Secretaría de Medio Ambiente y Desarrollo Sustentable Municipal;
+IMPLAN.- Instituto Municipal de Planeación;
 
-Licencia Ambiental Única Municipal: Instrumento expedido por la Secretaría del Medio Ambiente y Desarrollo Sustentable mediante el que se determinan los impactos al ambiente que podrían generarse por la actividad a desarrollar dentro del territorio municipal;
+LGEEPA: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-Ley: La Ley de Protección Ambiental para el Estado de Aguascalientes y Ley General para el Equilibrio Ecológico;
+LGPGIR.- Ley General para la Prevención y Gestión Integral de los Residuos;
 
-Parque ecológico: Predio habilitado por la autoridad municipal para la preservación de ecosistemas locales para su mejoramiento y promoción, con la finalidad de ser espacios lúdicos recreativos para la población, desarrollando actividades de educación ambiental e integración social.
+LPAEA: La Ley de Protección Ambiental para el Estado de Aguascalientes;
+
+LCCEA: Ley de Cambio Climático del Estado de Aguascalientes;
+
+Permiso Ambiental de Funcionamiento: Documento público emitido por la SEMADESU para la operación y funcionamiento en materia ambiental de los establecimientos comerciales y/o de servicios y fuentes fijas generadoras de emisiones de competencia municipal, así como los establecimientos dedicados a la compra, acopio, venta, donación o reciclaje de residuos sólidos urbanos en el Municipio de Aguascalientes;
+
+SEDUM.- Secretaría de Desarrollo Urbano;
+
+SEMADESU: La Secretaría de Medio Ambiente y Desarrollo Sustentable;
+
+SOPMA.- Secretaría de Obras Públicas del Municipio de Aguascalientes;
+
+Sitios Ramsar.- Aquellos declarados como tales bajo los términos de la Convención Ramsar y demás normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -6779,17 +6899,55 @@ Parque ecológico: Predio habilitado por la autoridad municipal para la preserva
 
 3.- Corresponde al H. Ayuntamiento:
 
-I.- Aprobar y evaluar la política ambiental aplicable en el municipio, en congruencia con lo que en su caso formulen la Federación y el Estado;
+I. Aprobar y evaluar la política ambiental aplicable en el municipio, en congruencia con lo que en su caso formulen la Federación y el Estado;
 
-II.- Preservar y en su caso dictar las medidas necesarias para restaurar el equilibrio ecológico y proteger el ambiente dentro del territorio del municipio que sean de su competencia;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-III.- Participar con el Poder Ejecutivo del Estado en la creación de áreas naturales protegidas que se ubiquen en territorio del Municipio de Aguascalientes;
+II. En el ámbito de su competencia, dictar las medidas pertinentes para restaurar el equilibrio ecológico y proteger el ambiente dentro del territorio del Municipio;
 
-IV.- Autorizar la celebración de convenios previa autorización del H. Ayuntamiento, con la Federación, el Estado y Municipios o con personas físicas o morales, para la realización de acciones en materia de protección al ambiente en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-V.- Ejercer las atribuciones que le señala el presente reglamento en materia de conducción de la política ambiental; y
+III. Aprobar la creación de áreas naturales protegidas de competencia municipal y vigilar su adecuado manejo y funcionamiento;
 
-VI.- Las demás atribuciones y obligaciones que le señala el presente ordenamiento y demás disposiciones legales aplicables.
+IV. Autorizar la celebración de convenios previa autorización del H. Ayuntamiento, con la Federación, el Estado y Municipios o con personas físicas o morales, para la realización de acciones en materia de protección al ambiente en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+V. Emitir los reglamentos y demás disposiciones necesarias para el adecuado desempeño de las atribuciones que en materia ambiental competan al Municipio;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VI. Promover la aplicación y observancia del ordenamiento ecológico territorial del Municipio, en forma congruente con el de la Federación y del Estado;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VII. Llevar a cabo las acciones necesarias para preservar y restaurar el equilibrio ecológico, así como para proteger y mejorar el ambiente en relación con bienes y zonas de competencia municipal, promoviendo en ello la participación de la sociedad;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VIII. Vigilar el adecuado diseño, construcción, modificación, manejo, mantenimiento, conservación, protección y restauración de los parques, jardines y áreas verdes públicas, a fin de ofrecer las condiciones ecológicas más propicias para el desarrollo sustentable, el embellecimiento del entorno urbano y el bienestar social;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+IX. Vigilar la adecuada aplicación de las medidas de prevención y control de emergencias ecológicas y contingencias ambientales, por sí o en forma coordinada con el Gobierno Estatal y/o Federal;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+X. Establecer mecanismos para la preservación, protección y restauración del equilibrio ecológico en bienes y zonas de jurisdicción municipal;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XI. Autorizar el uso de suelo para la instalación de antenas de telecomunicaciones en el territorio municipal;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XII. Reglamentar como facultad concurrente con el Estado, las actividades riesgosas, cuando debido a sus efectos colaterales se afecten ecosistemas o el ambiente de circunscripción municipal; salvo el caso de actividades consideradas “altamente riesgosas”, cuya regulación explícita corresponde a la Federación, de acuerdo con la Ley general de la materia;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XIII. Emitir las medidas necesarias para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, energía lumínica, descargas a redes de drenaje y olores perjudiciales al equilibrio ecológico o al ambiente, salvo en las zonas o en los casos de fuentes emisoras de jurisdicción estatal o federal; y
+
+XIV. Las demás atribuciones y obligaciones que le señala el presente ordenamiento y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -6803,73 +6961,19 @@ II.- Ordenar acciones y programas relacionados con disposiciones en materia de m
 
 III.- Ejercer las demás facultades que le determine el H. Ayuntamiento y las que le señalen diversas disposiciones jurídicas y administrativas aplicables.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+###### ARTÍCULO 492
+
+5.- (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
 ###### ARTÍCULO 492
 
-5.- Corresponde a la Secretaría:
+6.- (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-I.- Formular y proponer instrumentos de política ambiental y criterios ecológicos para el desarrollo sustentable del Municipio;
-
-II.- Establecer mecanismos para la preservación, protección y restauración del equilibrio ecológico en bienes y zonas de jurisdicción municipal;
-
-III.- Participar en su ámbito de competencia en emergencias ecológicas y contingencias ambientales;
-
-IV.- Participar en asuntos relacionados con el tema de medio ambiente en diversos foros o espacios públicos;
-
-V.- Informar a través de medios de comunicación sobre la calidad del ambiente en el territorio del municipio, en coordinación entidades e instituciones ambientales, de investigación y educación relacionadas;
-
-VI.- Difundir la política municipal en materia ambiental, así como realizar las acciones de capacitación para fortalecer la participación social, institucional y empresarial en el cuidado del ambiente;
-
-VII.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales.
-
-VIII.- Vigilar las áreas naturales protegidas que correspondan a la competencia del Municipio de Aguascalientes;
-
-IX.- Generar estrategias de prevención y control en su caso, de la contaminación atmosférica generada por fuentes fijas o naturales de giros comerciales, de servicios e industriales dentro de su demarcación territorial y dentro del ámbito de su competencia;
-
-X.- Coordinarse con las autoridades competentes para la integración del registro municipal de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo respecto de materiales, sustancias y residuos sólidos considerados como no peligrosos;
-
-XI.- Coordinarse con las autoridades federales y estatales en su caso, para establecer sistemas de monitoreo de contaminación atmosférica en el territorio municipal;
-
-XII.- Elaborar y mantener actualizados los programas municipales de ordenamiento ecológico territorial local y de protección al ambiente;
-
-XIII.- Colaborar con los organismos competentes para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población;
-
-XIV.- Concertar acciones y vincularse con los sectores social y privado en materia de equilibrio ecológico y protección al ambiente en el ámbito de su competencia;
-
-XV.- Elaborar el diagnóstico ambiental municipal que corresponda a cada administración pública municipal para que (sic) el deriven los programas relativos;
-
-XVI.- Emitir dictámenes ambientales sobre asuntos específicos en los que tenga participación o sean solicitadas por otras instancias dentro del ámbito de su competencia;
-
-XVII.- Colaborar en la vigilancia y aplicación de las normas oficiales mexicanas expedidas por la Federación en materia de medio ambiente en los casos que corresponda;
-
-XVIII.- Atender y en su caso remitir a las instancias correspondientes, las denuncias efectuadas en materia ambiental de que conozca y sean de competencia municipal;
-
-XIX.- Podrá colaborar con las autoridades federales y estatales, cuando a petición de estas, se requieran conocimientos técnicos en materia ambiental;
-
-XX.- Coordinarse con las diferentes dependencias municipales para el desarrollo de modelos adecuados para el manejo de los recursos naturales y sus elementos, y la planeación del desarrollo sustentable del municipio en materia de protección ambiental; y
-
-XXI.- Las demás facultades que se establezcan en el presente u otros ordenamientos legales.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
-
-###### ARTÍCULO 492
-
-6.- Para la ejecución de la política ambiental del municipio, el Ayuntamiento podrá:
-
-I.- Celebrar convenios de concertación con organizaciones obreras, empresariales y sociales, para la protección del ambiente de conformidad con la Ley Municipal del Estado de Aguascalientes;
-
-II.- Promover la celebración de convenios ton los diversos medios de comunicación para la difusión de información y promoción de acciones ecológicas;
-
-III.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y protección al ambiente en el municipio; y
-
-IV.- Las demás atribuciones que para el cumplimiento de los fines que en materia ambiental señale el Ayuntamiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 493.
 
-Para los efectos del presente Libro, se considera de utilidad pública dentro del territorio municipal:
+Para los efectos del presente Libro se considera de utilidad pública dentro del territorio municipal:
 
 I. El ordenamiento ecológico del territorio del Municipio.
 
@@ -6879,61 +6983,57 @@ II. El establecimiento de áreas naturales protegidas de jurisdicción local y d
 
 III. El establecimiento de zonas de amortiguamiento como medida de prevención ante la presencia de actividades consideradas como riesgosas.
 
-IV. El establecimiento de museos naturales, zoológicos, jardines botánicos e instalaciones similares.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+IV. Para el establecimiento de museos naturales, jardines botánicos e instalaciones similares;
 
-V. El establecimiento de medidas y acciones tendientes a la protección de la biodiversidad así como para la prevención y control de la contaminación de la atmósfera agua y suelo del territorio municipal.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+V. El establecimiento de medidas y acciones tendientes a la protección de la biodiversidad así como para la prevención y control de la contaminación de la atmósfera, agua y suelo del territorio municipal;
 
 > <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
 VI. El establecimiento de zonas de salvaguarda, como medida de prevención ante la presencia de actividades que impliquen riesgo a la población; y
 
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-VII. Las demás acciones que se realicen para el cumplimiento de las disposiciones legales que en materia de ecología dicte la autoridad municipal en el ámbito de su competencia.
+VII. El desarrollo de áreas verdes públicas que tengan vegetación nativa de la región; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VIII. Las demás acciones que se realicen para el cumplimiento de las disposiciones legales que en materia ambiental dicte la autoridad municipal en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 493 BIS.- En la planeación ambiental del desarrollo municipal, se deben considerar los siguientes elementos:
+
+I.- El ordenamiento ecológico del territorio del Municipio, entendido éste como el instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+
+II.- Que los proyectos de los nuevos fraccionamientos, condominios y desarrollos inmobiliarios especiales, incluyan la aplicación de elementos e infraestructura de carácter ambiental como: árboles nativos, áreas verdes, tecnologías de captación de agua de lluvia, tecnologías de bajo consumo de agua y de tratamiento de aguas residuales, entre otras;
+
+III.- Las áreas verdes de los nuevos fraccionamientos, condominios y desarrollos inmobiliarios especiales, deberán conservar los árboles que de manera natural se encuentren en ellas, procurando preservar la mayor cantidad de árboles posible, así como buscando conservar aquellos de mayor talla, cobertura y fuste. En caso de ser necesaria y justificada la tala, asegurar que en la zona quedará compensado el efecto a través de un programa de reforestación con especies apropiadas, que brinden los beneficios ambientales que antes otorgaban los árboles talados, de conformidad con el Reglamento correspondiente;
+
+IV. En el desarrollo y crecimiento de las áreas urbanas y rurales, incluir criterios de adaptación y mitigación a los efectos del cambio climático en la zona urbana, evitar las islas de calor, así como aprovechar los elementos naturales para beneficio del entorno, tales como: el uso del agua de lluvia y aguas residuales tratadas para el riego de áreas verdes, el aprovechamiento de la energía solar, la vegetación nativa para la creación de áreas verdes, la conservación y mantenimiento de los cauces naturales y su vegetación;
+
+V.- Proteger, preservar y restaurar de manera prioritaria las zonas consideradas como de infiltración y recarga de mantos acuíferos en las zonas urbanas;
+
+VI.- Establecer en los centros comerciales y otros espacios, infraestructura de captación de agua de lluvia y aprovechamiento de la luz solar; y
+
+VII.- El establecimiento de áreas naturales protegidas de competencia municipal;
+
+VIII.- Las áreas prioritarias para la conservación, que son aquellas zonas con riqueza de especies, ecosistemas, vestigios paleontológicos, prehispánicos y culturales, y que ofrecen importantes servicios ambientales; y
+
+IX.- Establecer acciones que permitan desarrollar las capacidades de mitigación, adaptación y desarrollar las capacidades de resiliencia para enfrentar el cambio climático.
 
 ###### ARTÍCULO 494.
 
-El H. Ayuntamiento con base a lo establecido por la Ley de Protección Ambiental para el Estado de Aguascalientes, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-I. Aplicar la política estatal ecológica y formular los criterios ecológicos particulares que deberán observarse en la aplicación e instrumentación de la misma.
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-II. Promover la aplicación y observancia del ordenamiento ecológico, en forma congruente con la Federación y el Gobierno del Estado.
+ARTÍCULO 494 BIS.- El Sistema de Información Ambiental a cargo de la SEMADESU, deberá contener información relativa a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo, en el ámbito de competencia municipal; al ordenamiento ecológico del territorio; a los residuos de competencia municipal, así como aquellos que ingresen al relleno sanitario; autorizaciones para el derribo de árboles y vegetación en general; y la correspondiente a los registros, programas y acciones que se realicen para la preservación y protección del ambiente, en el ámbito de competencia municipal.
 
-III. Vigilar el ordenamiento ecológico municipal, en asentamientos urbanos y áreas rurales, en congruencia con la programación de desarrollo urbano del Estado; con los planes de desarrollo agropecuario y forestal así como los demás instrumentos jurídicos aplicables.
-
-IV. Llevar a cabo las acciones necesarias para preservar y restaurar el equilibrio ecológico, así como para proteger y mejorar el ambiente en relación con bienes y zonas de competencia municipal, promoviendo en ello la participación social.
-
-V. Salvaguardar de jardines, parques y zonas sujetas a conservación ecológica, lo cual comprende su creación, regulación, administración, mantenimiento y vigilancia.
-
-VI. Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población, en relación con efectos derivados de los servicios públicos municipales.
-
-VII. Fijar y aplicar medidas de prevención y control de emergencias ecológicas y contingencias ambientales, por sí o en forma coordinada con el Gobierno Estatal y/o Federal.
-
-VIII. Celebrar convenios con el Ejecutivo del Estado, con la Federación o con otros Municipios, que tendrán por objeto tomar medidas para contrarrestar los efectos nocivos de la contaminación, preservar los ecosistemas, así como adquirir equipos y maquinaria necesarios para la atención a problemas ecológico ambientales.
-
-IX. Fijar medidas de vigilancia, prevención y control de la contaminación de la atmósfera, generada en zonas o por fuentes sujetas a competencia municipal.
-
-X. Prevenir y controlar la contaminación de las aguas que tenga asignadas o concesionadas para utilizarse en la prestación de servicios públicos; y aquéllas que descarguen en las redes de alcantarillado de los centros de población.
-
-XI. Reglamentar el manejo y disposición final de los residuos sólidos que no sean peligrosos, conforme a la Ley General de la materia.
-
-XII. Establecer las medidas necesarias para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, energía lumínica, descargas a redes de drenaje y olores perjudiciales al equilibrio ecológico o al ambiente, salvo en las zonas o en los casos de fuentes emisoras de jurisdicción estatal o federal.
-
-XIII. Reglamentar como facultad concurrente con el Estado, las actividades riesgosas, cuando debido a sus efectos colaterales se afecten ecosistemas o el ambiente de circunscripción municipal; salvo el caso de actividades consideradas "altamente riesgosas", cuya regulación explícita corresponde a la Federación, de acuerdo con la Ley general de la materia.
-
-XIV. Evaluar el impacto ambiental en materias que caen dentro de la competencia municipal, que implican la realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los reglamentos o en las Normas Oficiales Mexicanas emitidas por la Federación.
-
-XV. Aplicar las Normas Oficiales Mexicanas en la materia.
-
-XVI. Ordenar el decomiso de materiales o sustancias contaminantes; la clausura temporal, parcial o total de las fuentes contaminantes correspondientes, cuando exista riesgo de desequilibrio ecológico o casos de contaminación con repercusiones para los servicios públicos, los ecosistemas o sus componentes, o de la salud pública.
-
-XVII. Promover el uso eficiente de la energía para asegurar el suministro de la misma, proteger a la población, fomentar la competitividad de la economía municipal y reducir el impacto ambiental negativo del uso y consumo de los energéticos.
-
-XVIII. Reglamentar y controlar la construcción, instalación y conservación de estaciones terrenas y estructuras de telecomunicación.
-
-XIX. Establecer y asegurar la aplicación de las medidas necesarias de mitigación y corrección del impacto ambiental causado por las obras enunciadas en la fracción anterior.
+La SEMADESU deberá incorporar en su página de internet todos aquellos datos necesarios que permitan al público en general conocer de manera confiada y veraz la situación ambiental en el Municipio de Aguascalientes sobre las materias que componen el Sistema de Información Ambiental, sin más limitante que la información que en términos de la ley de la materia sea considerada como reservada o confidencial.
 
 ###### ARTÍCULO 495.
 
@@ -6945,121 +7045,231 @@ El Municipio proporcionará las facilidades administrativas e información u ori
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
-### CAPÍTULO II. De las Áreas Naturales Protegidas
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
+
+### CAPITULO II. De las Areas Naturales Protegidas
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 497.
 
-La realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en las leyes, los reglamentos y las normas ambientales emitidas por la Federación o el Estado para proteger el ambiente deberán sujetarse a la autorización previa del Gobierno Municipal o en su caso del Estado o la Federación con base a las competencias señaladas por la Ley General de Equilibrio Ecológico y Protección al Ambiente y la Ley de Protección Ambiental para el Estado de Aguascalientes.
+El permiso ambiental de funcionamiento que expide la SEMADESU tiene como propósito prevenir y controlar:
 
-Para otorgar la autorización de uso de suelo se requerirá contar previamente con la autorización ambiental que expide la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+I.- La contaminación atmosférica y los olores perjudiciales provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios de competencia municipal;
 
-Para obtener la autorización a que se refiere en el párrafo anterior, los interesados deberán presentar ante la Secretaría de Medio Ambiente y Desarrollo Sustentable un informe preventivo de impacto ambiental, en base al formato vigente elaborado por esta Secretaría, para tal fin.
+II.- La contaminación visual;
 
-Una vez obtenido el Dictamen de Impacto Ambiental correspondiente, la Secretaría de Medio Ambiente y Desarrollo Sustentable declarará la procedencia mediante la autorización escrita del derribo o extracción para reubicación del arbolado y/o remoción de vegetación nativa dentro de los límites de la mancha urbana establecidos en el Plan de Desarrollo vigente, condicionando dicha autorización al pago de la reposición de la cobertura vegetal perdida, según lo establecido en el Tabulador de Daños a Especies Vegetales, en la forma y modo que indica el Manual de Forestación, Reforestación y Manejo de Áreas Verdes.
+III.- La contaminación por ruido;
 
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
+IV.- La afectación por vibraciones, energía térmica, energía lumínica o radiaciones electromagnéticas;
 
-###### ARTÍCULO 497
+V.- La contaminación ambiental por residuos sólidos urbanos;
 
-BIS.- Cuando se pretenda llevar a cabo la extracción para reubicación de árboles debido a la construcción de obra que sea de utilidad pública y nuevos fraccionamientos, se realizará de la siguiente manera:
+VI.- La pérdida de vegetación de las áreas verdes o los ecosistemas dentro del territorio municipal; y
 
-1. Valoración de la especie a reubicar, esta se hará por medio de una inspección por parte de la Secretaría de Medio Ambiente y Desarrollo Sustentable, para determinar si procede o no la reubicación.
+VII. La contaminación proveniente de las descargas de aguas residuales que se viertan al alcantarillado municipal y a los cuerpos de agua competencia del municipio.
 
-2. Si es procedente la reubicación, se deberá compensar con el 50% del valor del o los árboles, según lo establecido en el Tabulador de Daños a Especies Vegetales.
+ARTÍCULO 497 BIS.- (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-3. Se llevará a cabo el seguimiento de las especies reubicadas por parte de personal de la Secretaría de Medio Ambiente y Desarrollo Sustentable para asegurar su sobrevivencia, en caso de que el individuo arbóreo reubicado muera, se deberá realizar el pago del 50% restante de la compensación marcada en el párrafo anterior.
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-En el caso de que la reubicación no proceda, se realizará el pago del 100% de la compensación establecida en el Tabulador de Daños a Especies Vegetales.
+ARTÍCULO 497 TER.- La apertura de establecimientos comerciales y/o de servicios en el territorio del Municipio de Aguascalientes, estará sujeta a la obtención del permiso ambiental de funcionamiento, previo a la obtención de la licencia para el funcionamiento de las actividades comerciales y/o servicios que otorga el Municipio.
+
+Para la expedición del permiso a que se refiere el párrafo anterior, los interesados deberán presentar una solicitud por escrito, anexando la siguiente información:
+
+I. Nombre o razón social del propietario del establecimiento;
+
+II. Dirección del establecimiento y colindancias, incluyendo un mapa de localización;
+
+III. Giro o actividad;
+
+IV. Descripción detallada del proceso o actividad a desarrollar;
+
+V. Consumo anual de materias primas, materiales o productos necesarios para realizar la actividad, así como las condiciones de su almacenamiento;
+
+VI. Superficie total del predio y superficie requerida para la actividad a desarrollar;
+
+VII. Características y cantidad del equipo, mobiliario o maquinaria requeridos para realizar la actividad;
+
+VIII. Tipo y cantidad de energía y combustibles a utilizar en un año;
+
+IX. Horario de trabajo;
+
+X. Productos a obtener anualmente;
+
+XI. Tipo y cantidad de los residuos generados por la actividad durante un año;
+
+XII. Tipo de manejo y disposición final de los residuos generados;
+
+XIII. Equipos o métodos de control de las emisiones a la atmósfera; y
+
+XIV. Origen de las aguas residuales a generar y su destino.
+
+Asimismo, los interesados deberán anexar copia de la constancia de alineamiento y compatibilidad urbanística expedida por la SEDUM.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 497 QUATER.- La SEMADESU deberá revisar la información presentada en un plazo no mayor a diez días hábiles, pudiendo por única vez requerir al interesado información complementaria, la cual deberá presentarse en un término máximo de cinco días hábiles.
+
+En el caso de que el interesado no presente la información requerida dentro del plazo solicitado o esté incompleta, la SEMADESU deberá desechar el trámite.
+
+Presentada la información complementaria, la SEMADESU en un plazo máximo de diez días hábiles, deberá emitir el dictamen correspondiente, en el que podrá otorgar o negar el permiso ambiental de funcionamiento.
+
+El permiso ambiental de funcionamiento tendrá una vigencia indefinida, siempre y cuando se mantengan los supuestos bajo los cuales fue otorgado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 497 QUINQUIES.- La SEMADESU podrá incluir en el permiso ambiental de funcionamiento condiciones específicas para reducir los efectos negativos en el ambiente derivados de las actividades que realizará el establecimiento.
+
+Los titulares del permiso ambiental de funcionamiento estarán obligados a cumplir con las condiciones específicas que al efecto indique la SEMADESU.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 498.
 
-En la planeación ambiental del desarrollo municipal, se deben considerar los siguientes elementos:
+Cuando la SEMADESU reciba de la autoridad Estatal o Federal un instrumento de evaluación ambiental, deberá emitir su opinión en un término de 7 días hábiles para el informe preventivo y 12 días hábiles para el manifiesto de impacto ambiental, pasado éste sin que se haya respondido, se entenderá que no existe objeción respecto de la realización de la obra o actividad.
 
-I.- El ordenamiento ecológico, entendido éste como el proceso de planeación dirigido a evaluar y programar el uso del suelo y el manejo de los recursos naturales del Municipio, y la mitigación del impacto ambiental dentro del territorio del mismo.
-
-II.- El H. Ayuntamiento a través de la Secretaría de Desarrollo Urbano y el Instituto Municipal de Planeación, deberá considerar en el diseño y proyectos de los nuevos fraccionamientos y desarrollos habitacionales, aspectos e infraestructura que permitan incluir elementos ambientales tales como: árboles, áreas verdes, tecnologías de bajo consumo de agua, tratamiento de aguas residuales y espacio para centros de acopio para el manejo de residuos sólidos.
-
-Las áreas verdes serán preferentemente con vegetación nativa y en lugares factibles de apropiación y reconocimiento social, criterios de mitigación de los efectos del calentamiento global en la zona urbana, de manera que no afecten a la infraestructura urbana, y aprovechar los elementos naturales para beneficio del entorno: el agua de lluvia para riego de áreas verdes, la radiación solar para el aprovechamiento de energía térmica, la vegetación para la creación de áreas verdes, conservación de cauces de arroyos, tecnologías de bajo consumo de agua, tratamiento de aguas residuales y espacio para centros de acopio para el manejo de residuos sólidos, entre otros.
-
-III.- Integrar el desarrollo y el crecimiento de las comunidades rurales del municipio para beneficio del entorno en forma sustentable en el que se ubican, aplicando la infraestructura más adecuada a sus características y niveles de desarrollo, aprovechando al máximo los recursos económicos, humanos y naturales, con disponibilidad de agua evitando un desfasamiento entre las necesidades y peticiones de los habitantes con el tipo de obras proyectadas evitando la aparición de islas de calor.
-
-IV.- Controlar, mitigar, y disminuir la tala de arbolado maduro que otorga beneficios ambientales. En caso de ser necesaria y justificada la tala, asegurar que en la zona quedará subsanado el efecto a través de un programa de reforestación con especies apropiadas que brinden beneficios ambientales que antes otorgaban los árboles talados.
-
-V.- Proteger de manera prioritaria las zonas consideradas como de infiltración y recarga de mantos acuíferos.
-
-VI.- Establecer en los centros comerciales y otros espacios, infraestructura de captación de agua de lluvias y pozos de recarga bajo la estricta supervisión de las autoridades en la materia.
-
-VII.- Establecer un sistema de información ambiental permanente, accesible, vigente y transparente de fácil acceso a la ciudadanía.
-
-VIII.- Manejar el observatorio urbano con personal profesional y con el perfil adecuado, manteniendo en todo momento accesible la información emanada de éste.
-
-IX. La disponibilidad de territorio, el uso del suelo señalado en el ordenamiento ecológico y la disponibilidad de los recursos necesarios tales como el agua.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
 ### CAPÍTULO III. De la Prevención y Control de la Contaminación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 499.
 
-Las áreas naturales del territorio municipal son materia de protección, susceptibles de quedar bajo la rectoría del H. Ayuntamiento, en los términos de este Código, de la Ley General de Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección Ambiental para el Estado de Aguascalientes, el Programa de Desarrollo Urbano de la Ciudad de Aguascalientes y demás Leyes aplicables en la materia, para los propósitos y con los efectos y modalidades que se precisen en la declaratoria correspondiente, imponiéndoles las limitaciones que determinen las mismas, bajo la denominación de Áreas Naturales Protegidas.
+Las áreas naturales protegidas de competencia municipal son predios o superficies dentro del territorio municipal que bajo declaratoria del H. Ayuntamiento, en los términos de la LGEEPA, la LPAEA, este Código, y demás Leyes aplicables en la materia, son destinadas para la conservación, preservación y aprovechamiento sustentable de los recursos naturales, bajo las modalidades que se precisen en la declaratoria correspondiente e imponiéndoles las limitaciones que se determinen en la misma.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTICULO 499 BIS.- Las categorías de las áreas naturales protegidas municipales son:
+
+I.- Parques urbanos.- son áreas de uso público de los centros de población que contribuyen a regular y preservar el balance ambiental entre las áreas urbanas e industriales con la naturaleza; en ellas se protegen elementos naturales o culturales y se repercute benéficamente en el medio ambiente. Estas áreas traen como beneficio la regulación del clima dentro de la ciudad y funcionan como espacios de recreación y/o contemplación para las personas; y
+
+II.- Zonas de Conservación Ecológica de los Centros de Población.- son áreas dentro de la mancha urbana que presentan reductos de vegetación original en buen estado de conservación, representadas por especies propias de la región y que se recomienda sean conservadas como parte del patrimonio natural.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 500.
 
-Las declaratorias para el establecimiento, conservación, administración, desarrollo y vigilancia de las áreas naturales protegidas, sin perjuicio de lo dispuesto por otras leyes, contendrán:
+Cualquier persona física o moral podrá proponer el establecimiento de un área natural protegida municipal, para lo cual deberá presentar la siguiente información para sustentar su propuesta:
 
-I. La delimitación del área, señalando la superficie, ubicación, deslinde y en su caso, la zonificación, así como la categoría y los objetivos correspondientes.
+I. Nombre del área propuesta;
 
-II. Las modalidades a que se sujetará dentro del área, el uso del suelo y el aprovechamiento de los recursos naturales.
+II. Ubicación;
 
-III. La descripción de las actividades que podrán efectuarse en el área.
+III. Superficie aproximada;
 
-IV. La causa de utilidad pública que, en su caso, motive la expropiación de terrenos para la adquisición del dominio, observándose las prevenciones que al respecto determinan las leyes y reglamentos.
+IV. Nombre de las personas físicas y morales que apoyen la propuesta;
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+V. Descripción de los ecosistemas o especies que se pretenden proteger;
+
+VI. Razones que justifiquen la protección del área;
+
+VII. Antecedentes de protección del área;
+
+VIII. Proyectos de investigación que se hayan realizado en el área;
+
+IX. Problemática específica que deba tomarse en cuenta; y
+
+X. Propuestas de manejo del área.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 501.
 
-Los programas de manejo y operación integral de las áreas naturales protegidas de competencia municipal serán elaborados por el municipio, o por alguna de sus dependencias o a través de terceros.
+Las declaratorias para el establecimiento de las áreas naturales protegidas municipales, contendrán:
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+I. El nombre y la categoría del área natural protegida, así como los objetivos de su establecimiento;
+
+II. La delimitación precisa del área, ubicación, superficie, medidas y linderos, plano geográfico, y en su caso, la zonificación correspondiente;
+
+III. Las modalidades a que se sujetará el uso del suelo y el aprovechamiento de los recursos naturales dentro del área;
+
+IV. La concordancia con el Programa de Desarrollo Urbano vigente;
+
+V. La descripción de las actividades que podrán efectuarse en el área;
+
+VI. La causa de utilidad pública que, en su caso, motive la expropiación de terrenos para la adquisición del dominio, observándose las previsiones que al respecto determinan las leyes y reglamentos;
+
+VII. Los lineamientos particulares para la administración, en su caso, el establecimiento de órganos colegiados representativos, la creación de patronatos o fideicomisos;
+
+VIII. El plazo para la elaboración del programa de manejo del área; y
+
+IX.- Los demás aspectos que considere necesarios el H. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 501 BIS.- Previo a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas municipales, la SEMADESU deberá realizar por sí o a través de terceros, el estudio previo justificativo en cumplimiento con los requisitos que señala la LPAEA.
+
+La SEMADESU podrá solicitar el apoyo de otras dependencias de la administración pública municipal, del Estado o la Federación, así como la participación de las instituciones de educación, las asociaciones de profesionistas, organizaciones de la sociedad civil o cualquier ciudadano interesado o relacionado con la materia o el tema.
+
+Una vez integrado debidamente el estudio a que se refieren los párrafos anteriores, la SEMADESU lo pondrá a disposición del público en general, para su consulta en sus oficinas por un plazo de treinta días naturales, tiempo en el cual las personas interesadas podrán presentar por escrito sus opiniones al respecto.
+
+Una vez realizada la consulta anteriormente señalada, la SEMADESU, en un plazo de veinte días hábiles, deberá remitir el expediente que contenga el estudio previo justificativo, las opiniones derivadas de la consulta pública y un proyecto de declaratoria a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno para que lo remita a la Comisión conducente para que elabore el dictamen correspondiente y lo someta al Cabildo para su análisis, discusión y en su caso, aprobación.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 502.
 
-Las áreas naturales protegidas municipales a que se refiere el artículo anterior se establecerán mediante declaratoria que expida el H. Ayuntamiento.
+Las declaratorias serán publicadas en el Periódico Oficial del Estado y se notificará previamente a los propietarios en el último domicilio que hayan señalado ante la autoridad municipal, en caso contrario se hará una segunda publicación, la que surtirá efectos de notificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 502 BIS.- En la administración de las áreas naturales protegidas municipales, se deberán adoptar:
+
+I.- Lineamientos, mecanismos institucionales, programas, políticas y acciones destinadas a:
+
+a) La conservación, preservación, protección y restauración de los ecosistemas;
+
+b) El uso y aprovechamiento sustentable de los recursos naturales; y
+
+c) La inspección y vigilancia;
+
+II.- Medidas relacionadas con el financiamiento para su operación;
+
+III.- Instrumentos para promover la coordinación entre los distintos niveles de gobierno, así como la concertación de acciones con los sectores público, social y privado, y
+
+IV.- Acciones tendientes a impulsar la capacitación y formación del personal técnico de apoyo.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 502 TER- Corresponde al Municipio, a través de la SEMADESU, la administración, manejo y vigilancia de las áreas naturales protegidas de competencia municipal, por lo que el H. Ayuntamiento deberá prever en el presupuesto de egresos correspondiente para el ejercicio fiscal próximo inmediato, los recursos necesarios para garantizar la operación y el logro de los objetivos previstos en la declaratoria.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 502 QUATER.- La administración y manejo de las áreas naturales protegidas de competencia municipal por parte de la SEMADESU, se efectuará a través del área de recursos naturales y/o biodiversidad.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 503.
 
-Para la expedición de la declaratoria será necesario realizar previamente un estudio técnico justificativo. Lo anterior, en estricto cumplimiento de los requisitos que señala el artículo 65 de la Ley de Protección Ambiental para el Estado de Aguascalientes.
+Los programas de manejo de las áreas naturales protegidas de competencia municipal serán elaborados directamente por la SEMADESU o a través de terceros, debiendo contener lo previsto en la LPAEA.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Además la formulación del programa de manejo, deberá promover la participación de:
 
-Dicho estudio deberá ser aprobado por la Secretaría de Medio Ambiente y Desarrollo Sustentable, en coordinación con las demás dependencias de la administración municipal, las cuales podrán, en su caso, solicitar el apoyo del Estado y la Federación, así como la participación de las instituciones de educación superior, las asociaciones de profesionistas o cualquier ciudadano interesado o relacionado con la materia o el tema.
+I. Los habitantes, propietarios y poseedores de los predios que conforman el área respectiva;
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+II. Dependencias de la Administración Pública Federal y Estatal que, por su competencia, pudieran aportar elementos al programa; y
 
-Una vez integrados debidamente los estudios a que se refieren los párrafos anteriores, éstos se pondrán a disposición del público en general, para su consulta en la Secretaría de Medio Ambiente y Desarrollo Sustentable, y se les solicitará la opinión a las personas interesadas en el proyecto de la declaratoria, de acuerdo con el siguiente procedimiento:
+III. Las organizaciones sociales, públicas o privadas, y demás personas interesadas.
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+Se publicará un resumen del programa de manejo en el Periódico Oficial del Estado, así como un plano de localización del área y la zonificación.
 
-I.- El Presidente Municipal dará aviso público del inicio del proceso de declaratoria, difundiéndolo en el Periódico Oficial del Estado de Aguascalientes y un periódico de mayor circulación en el Municipio;
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+ARTÍCULO 503 BIS.- El programa de manejo será revisado por lo menos cada tres años por la SEMADESU con el objeto de evaluar su efectividad y proponer posibles modificaciones.
 
-II.- En el caso de los propietarios, éstos serán notificados personalmente en el último domicilio que hayan señalado ante autoridad municipal y deberán dar su opinión sobre el proyecto de la declaratoria, por escrito y ante la Secretaría de Medio Ambiente y Desarrollo Sustentable, en un plazo de cinco días hábiles contados a partir del día siguiente al que surta efectos la notificación; y
+Se podrá modificar el programa de manejo cuando:
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+I. Las condiciones naturales y originales del área hayan cambiado debido a la presencia de fenómenos naturales y se requiera el planteamiento de estrategias y acciones distintas a las establecidas en el programa vigente;
 
-III.- En el caso de los habitantes, vecinos y cualquier otro interesado, se establecerá un plazo y un calendario de audiencias públicas para que presenten, por escrito y ante la Secretaría de Medio Ambiente y Desarrollo Sustentable, los planteamientos que consideren necesarios respecto del proyecto de la declaratoria. Lo anterior, se dará a conocer en la publicación hecha en el Periódico Oficial del Estado de Aguascalientes, la cual se hace referencia en la fracción I del presente artículo.
+II. Técnicamente se demuestre que las estrategias o acciones establecidas en la zonificación del programa vigente son insuficientes o erróneas para la conservación del área natural protegida.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Las modificaciones al programa de manejo que resulten necesarias deberán seguir el mismo procedimiento establecido para su elaboración y un resumen de las mismas se publicará en el Periódico Oficial del Estado, y en su caso, un plano de las modificaciones a la zonificación.
 
-Una vez realizada la consulta anteriormente señalada, la Secretaría de Medio Ambiente y Desarrollo Sustentable, en un plazo de diez días hábiles, deberá remitir el expediente que contenga toda la información relativa a los estudios correspondientes y la consulta respectiva a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno así como a la Comisión Permanente de Ecología.
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
-
-Para la declaratoria de un área natural protegida municipal se seguirá el procedimiento establecido en el artículo 83 de la Ley de Protección Ambiental para el Estado de Aguascalientes.
+ARTÍCULO 503 TER- Las áreas naturales protegidas municipales deberán ser inscritas en los programas de ordenamiento ecológico del territorio, así como en el registro público de la propiedad.
 
 ### CAPÍTULO IV. De los Recursos Naturales
 
@@ -7067,189 +7277,243 @@ Para la declaratoria de un área natural protegida municipal se seguirá el proc
 
 ###### ARTÍCULO 504.
 
-Para promover y efectuar el saneamiento atmosférico, el Municipio a través de la Secretaria de Medio Ambiente y Desarrollo Sustentable deberá:
+Es facultad del Municipio, a través de la SEMADESU, la prevención y control de la contaminación ambiental originada por residuos sólidos urbanos, emisiones a la atmósfera, ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, generados por establecimientos mercantiles o de servicios, de conformidad con las leyes aplicables.
 
-I. Requerir en el ámbito de su competencia a todas las personas que realicen actividades contaminantes de la atmósfera, para la aplicación de medidas necesarias para reducir o eliminar las emisiones atmosféricas contaminantes, según lo señalado en la normatividad correspondiente.
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-II. Avisar a las autoridades estatales y federales sobre la existencia de actividades contaminantes de la atmósfera cuando éstas rebasen el ámbito de su competencia.
+ARTÍCULO 504 BIS.- Para prevenir y controlar la contaminación ambiental en el Municipio, la SEMADESU deberá:
 
-III. Coordinar con el Estado y la Federación, integrar y mantener actualizado el inventario de fuentes generadoras de contaminación atmosférica presentes en su territorio.
+I. Ordenar la aplicación de medidas necesarias para reducir o eliminar las emisiones atmosféricas contaminantes, ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales;
 
-IV. Requerir a las fuentes generadoras de contaminación atmosférica de competencia municipal la instalación de equipos o sistemas de control de emisiones, cuando rebasen los límites máximos permisibles vigentes u ocasionen molestias a la población.
+II. Requerir la realización de análisis para determinar los niveles de emisión de contaminantes a la atmósfera;
 
-V. Coordinar con las autoridades estatales y federales, el establecimiento y operación del sistema municipal de monitoreo atmosférico para conocer la calidad del aire en el municipio y poder tomar las medidas adecuadas para su conservación.
+III. Ordenar la instalación de equipos o sistemas de control de emisiones, cuando rebasen los límites máximos permisibles vigentes u ocasionen molestias a la población;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+IV. Informar a las autoridades estatales y federales sobre la existencia de actividades contaminantes a la atmósfera cuando éstas se ubiquen fuera del ámbito de su competencia;
 
-VI. Inspeccionar y verificar que los servicios públicos municipales no originen o produzcan contaminación atmosférica en apego a la normatividad ambiental vigente;
+V. Integrar y mantener actualizado el inventario de fuentes fijas presentes en su territorio, incluyendo aquellas de competencia del estado y la federación;
 
-VII. Reubicar en el ámbito de su competencia o mediante acuerdos de coordinación con las autoridades estatales o federales, con los propietarios o poseedores de establecimientos comerciales, de servicios, de reparación y mantenimiento e industriales ubicados en zonas habitacionales en el territorio del municipio, su reubicación cuando sean motivo de quejas por parte de la población, constatadas por la autoridad competente referidas a la emisión de contaminantes a la atmósfera.
+VI. Vigilar, y en su caso sancionar, que los servicios públicos municipales no originen o produzcan contaminación ambiental, de conformidad con la normatividad ambiental vigente;
 
-En prevención de molestias de este tipo, analizará minuciosamente los informes preventivos que señala este Código y en caso de autorizar el funcionamiento de las empresas en cuestión, previo a su funcionamiento, especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera, se cancelará la autorización otorgada y se exigirá su reubicación.
+VII. Ordenar la reubicación de todo establecimiento comercial o de servicios, que estando ubicado en zonas habitacionales, sea motivo de quejas por parte de la población, mismas que haya podido constatar mediante visitas de campo; en prevención de molestias de este tipo, analizará minuciosamente la información proporcionada por los interesados y en caso de autorizar el funcionamiento de las empresas en cuestión, previo a su funcionamiento, especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera, se cancelará la autorización otorgada y se exigirá su reubicación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+VIII. Coordinar con la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente;
 
-VIII. Coordinarse con la Coordinación Municipal de Protección Civil a fin de emitir las medidas preventivas para evitar contingencias ambientales por contaminación;
+IX. Identificar las áreas generadoras de tolvaneras dentro del territorio municipal y establecer programas de control con la participación de la población para tomar las medidas que se consideren convenientes; y
 
-IX. Identificar las áreas generadoras de tolvaneras dentro del territorio municipal y establecer programas de control con la participación de la población para tomar las medidas que se consideren convenientes.
+X. Proponer los convenios necesarios con la Federación y el Estado para el cumplimiento de este artículo.
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-X. Proponer a través de la Secretaría de Medio Ambiente y Desarrollo Sustentable, los convenios necesarios con la Federación y el Gobierno del Estado para el cumplimiento de este artículo.
+ARTÍCULO 504 TER.- Se consideran fuentes fijas de jurisdicción municipal aquellas que funcionen como establecimientos comerciales y de servicios que generen o puedan generar olores, gases, o partículas sólidas o líquidas a la atmósfera y que se ubiquen dentro de los siguientes giros y actividades:
+
+I. Baños públicos;
+
+II. Carpintería;
+
+III. Elaboración de botana (microempresas);
+
+IV. Elaboración de empanadas (microempresas);
+
+V. Elaboración de pan (proceso no industrial);
+
+VI. Elaboración de paletas y helados (microempresas);
+
+VII. Elaboración de tortillas de harina (microempresas);
+
+VIII. Elaboración de tostadas (microempresas);
+
+IX. Estación de servicio de gas L.P., gasolina y diesel;
+
+X. Fábrica y reparación de anuncios con emisiones a la atmósfera (proceso no industrial);
+
+XI. Fabricación de lámina, cartón y cartoncillo (proceso no industrial);
+
+XII. Fabricación de velas y veladoras (proceso no industrial);
+
+XIII. Fabricaciones de carrocerías y remolques (proceso no industrial);
+
+XIV. Herrería;
+
+XV. Hojalatería y pintura;
+
+XVI. Hoteles (si tiene caldera);
+
+XVII. Hospital, clínica y sanatorio (si tiene caldera);
+
+XVIII. Imprenta y litografía (proceso no industrial);
+
+XIX. Impresiones de calcomanías y etiquetas (proceso no industrial);
+
+XX. Muebles de madera (fabricación mediante proceso no industrial);
+
+XXI. Pizzería;
+
+XXII. Restaurantes;
+
+XXIII. Rosticería;
+
+XXIV. Taller de alfarería (elaboración con proceso no industrial);
+
+XXV. Taller de artesanías con proceso no industrial de horneado (microempresas);
+
+XXVI. Taller de balconería;
+
+XXVII. Taller de fragua;
+
+XXVIII. Taller de soldadura;
+
+XXIX. Taller de torno; y
+
+XXX. Tintorería.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 505.
 
-La emisión de contaminantes a la atmósfera no deberá exceder los niveles máximos permisibles que establece la normatividad vigente, por lo que será materia de aplicación de una sanción cuando se produzca, expela, descargue o emita contaminantes que alteren la atmósfera o que puedan provocar degradación o molestias en perjuicio de la salud humana, la flora, fauna y en general los ecosistemas del municipio.
+La emisión de contaminantes a la atmósfera proveniente de fuentes fijas de competencia municipal, no deberá exceder los niveles máximos permisibles que establece la normatividad vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+La SEMADESU sancionará cuando se produzca, expela, descargue o emita contaminantes que alteren la atmósfera o que puedan provocar degradación o molestias en perjuicio del medio ambiente, la salud humana, la flora, la fauna.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 506.
 
-Se prohíbe y será materia de sanción el realizar quemas al aire libre de cualquier material o residuo, sólido o líquido, sin autorización previa.
+Se prohíbe y se sancionará a quien realice quemas al aire libre de cualquier material o residuo, sólido o líquido, sin autorización previa de la SEMADESU, en las materias de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+Cuando se pretenda realizar cualquier tipo de quema, se deberá solicitar a la SEMADESU, una autorización por escrito. Dicha solicitud deberá contener la siguiente información:
 
-Cuando se pretenda realizar cualquier tipo de quema, deberá de solicitar a la Secretaría de Medio Ambiente y Desarrollo Sustentable, la autorización por escrito que deberá contener la siguiente información:
+I. Nombre y domicilio del solicitante;
 
-I. Nombre y domicilio del solicitante.
+II. Fecha, hora y lugar donde se pretende llevar a cabo la quema;
 
-II. Fecha, hora y lugar donde se pretende llevar a cabo la quema.
+III. Propósito, fin, motivo o justificación de la quema;
 
-III. Propósito, fin, motivo o justificación de la quema.
+IV. Tipo de material o combustible a utilizar;
 
-IV. Tipo de material o combustible a utilizar.
+V. Cantidad o volumen de material o combustible;
 
-V. Cantidad o volumen de material o combustible.
-
-VI. Tiempo aproximado de duración.
+VI. Tiempo aproximado de duración; y
 
 VII. Medidas de seguridad que determine la autoridad competente, la cual cumplirá el solicitante durante la actividad, de la quema.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+La autorización podrá ser otorgada por cada quema que se pretenda realizar y la SEMADESU se reserva la facultad de negar o condicionar dicha quema, cuando pudiera representar riesgos o impactos ambientales.
 
-La autorización será por cada quema que se pretenda realizar y la Secretaría de Medio Ambiente y Desarrollo Sustentable se reserva la facultad de negar o condicionar dicha quema, cuando pudiera representar riesgos y/o impactos ambientales.
+El solicitante deberá acatar las medidas de seguridad que determine la SEMADESU en la autorización, así como las que indique la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 507.
 
-Se requerirá autorización de la Secretaría de Medio Ambiente y Desarrollo Sustentable para la instalación y funcionamiento de ladrilleras y alfarerías.
+Para la instalación y funcionamiento de ladrilleras dentro del territorio municipal, además de las obligaciones que debe cumplir como fuente fija de jurisdicción estatal, se deberá contar con el permiso de funcionamiento para ladrillera o alfarería que expide la SEMADESU siempre y cuando exista un convenio de colaboración interinstitucional entre el Estado y el Municipio, que lo establezca, previa autorización del H. Ayuntamiento.
 
-Para la autorización anterior el interesado deberá presentar solicitud de permiso de funcionamiento para ladrillera y/o alfarería en el formato que para tal fin emita la Secretaría y deberá ir acompañada del informe preventivo correspondiente y de la constancia de alineamiento y compatibilidad urbanística.
+Queda prohibida la instalación de ladrilleras y alfarerías en los cauces de los arroyos. Sólo se autorizará la instalación de las mismas en los sitios que para tal fin haya designado el H. Ayuntamiento, a través de la SEMADESU y el IMPLAN, siempre que éstos se encuentren fuera de las zonas habitacionales y cuenten con una zona de amortiguamiento, en apego a la normatividad vigente.
 
-La instalación de ladrilleras y/o alfarerías en los cauces de los arroyos se encuentra expresamente prohibida, sólo se autorizará la instalación de las mismas en los sitios que para tal fin haya designado el H. Ayuntamiento, a través de la Secretaría (sic) Medio Ambiente y Desarrollo Sustentable y el Instituto Municipal de Planeación, y siempre que estos se encuentren fuera de las zonas habitacionales y con apego a la normatividad vigente y con su respectiva zona de amortiguamiento.
+La SEMADESU deberá coordinar los convenios con las autoridades competentes para la planeación de una zona controlada para la instalación de estas actividades.
 
-La Secretaría (sic) Medio Ambiente y Desarrollo Sustentable deberá coordinar los convenios con las autoridades competentes para la planeación de una zona controlada y verificada de estos servicios.
+El Municipio en coordinación con el Estado definirá los combustibles permitidos para la quema de ladrillo, cerámica y materiales similares, los cuales le serán señalados al interesado en el permiso de funcionamiento y serán los únicos que podrán utilizarse.
 
-El Municipio en coordinación con el Estado definirá los combustibles permitidos para la quema de ladrillo, cerámica y materiales similares, los cuales le serán señalados al interesado en la autorización concedida y serán los únicos que podrán utilizarse.
+Los productores de ladrillo y cerámica deberán instalar el equipo necesario, para prevenir y controlar la contaminación atmosférica.
 
-Los productores de ladrillo y/o cerámica deberán instalar el equipo necesario, para prevenir y controlar la contaminación atmosférica.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 508.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas a la atmosfera, residuos sólidos y/o líquidos, se requerirá contar con permiso ambiental de funcionamiento emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o liquidas a la atmósfera, se requerirá contar con permiso ambiental de funcionamiento emitido por la SEMADESU y cumplir además con las siguientes obligaciones:
 
-I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas.
+I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permitidos establecidos en las Normas Oficiales Mexicanas;
 
-II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+II. Integrar un inventario, medir y registrar sus emisiones contaminantes a la atmósfera, cuando así lo determine la SEMADESU;
 
-III. Medir sus emisiones contaminantes a la atmósfera, conforme a lo establecido por las Normas Oficiales Mexicanas aplicables y registrar en el formato que determine la Secretaría de Medio Ambiente y Desarrollo Sustentable y remitir los registros a ésta, cuando se le solicite.
+III. Canalizar y controlar las emisiones contaminantes a la atmósfera de acuerdo con las características que al efecto establezca la SEMADESU;
 
-IV. Presentar a la Secretaría de Medio Ambiente y Desarrollo Sustentable, el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas y suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente, a juicio de la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+IV. (DEROGADA, P.O. 11 DE ABRIL DE 2016)
 
-V. Realizar un programa de operación y mantenimiento de equipos y procesos que generen emisiones contaminantes y de los equipos de control de anticontaminantes.
+V. (DEROGADA, P.O. 11 DE ABRIL DE 2016); y
 
-VI. Avisar de inmediato a la Secretaría de Medio Ambiente y Desarrollo Sustentable en caso de falla del equipo de control, para que ésta determine lo conducente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+VI. Avisar de inmediato, a la SEMADESU en caso de falla del equipo de control, para que ésta determine lo conducente.
 
 ###### ARTÍCULO 509.
 
-Para la obtención del permiso ambiental de funcionamiento, el interesado deberá presentar ante la Secretaría de Medio Ambiente y Desarrollo Sustentable, una solicitud conteniendo la siguiente información:
-
-I. Datos generales del promovente, anexando el mapa de localización.
-
-II. Fecha inicio de operación.
-
-III. Descripción detallada de proceso, anexando el diagrama general de funcionamiento.
-
-IV. Materias primas a utilizar.
-
-V. Productos.
-
-VI. Consumo de energía.
-
-VII. Combustibles a utilizar, señalando el tipo de combustible, tipo de quemador, si es necesario precalentar así como el consumo mensual.
-
-VIII. Punto de emisión, con la descripción de la máquina, equipo o actividad.
-
-IX. Equipos o método de control de las emisiones con la descripción detallada.
-
-X. Ductos de emisión e indicar altura y diámetro, y especificar cuando las emisiones no sean conducidas por éstos.
-
-XI. Programa de operación y mantenimiento de equipos y procesos.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+(DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
 ###### ARTÍCULO 510.
 
-La Secretaría de Medio Ambiente y Desarrollo Sustentable, una vez presentada la solicitud e integrado el expediente completo, deberá emitir en un plazo de veinte días hábiles su resolución fundada y motivada, en la que autorice o niegue el permiso ambiental de funcionamiento.
+(DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 511.
 
-El permiso ambiental de funcionamiento a que se refiere el artículo anterior, deberá de contener:
+Tratándose de fuentes fijas de competencia municipal, el permiso ambiental de funcionamiento deberá contener, al menos lo siguiente:
 
-I. Los límites máximos permisibles de emisión por tipo de contaminante a que deberá de sujetarse la fuente emisora, cuando por sus características especiales de construcción o sus peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas oficiales mexicanas vigentes.
+I. Los límites máximos permisibles de emisión por tipo de contaminante a que deberá de sujetarse la fuente emisora, cuando por sus características especiales de construcción o sus peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas oficiales mexicanas vigentes, cuando a juicio de la SEMADESU deban presentarse;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+II. Los inventarios, mediciones y registros de las emisiones contaminantes, cuando a juicio de la SEMADESU deban presentarse;
 
-II. Los inventarios y equipos deberán remitirse a la Secretaría de Medio Ambiente y Desarrollo Sustentable con el inventario de emisiones.
+III. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de emisiones, en el caso de requerirse;
 
-III. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de emisiones.
+IV. Las medidas y acciones que deberán llevarse a cabo para reducir, canalizar y controlar las emisiones, así como aquellas para el caso de una contingencia;
 
-IV. Las medidas y acciones que deberán llevar se a cabo en el caso de una contingencia.
+V. Los equipos de control y reducción de emisiones contaminantes a la atmósfera y de olores perjudiciales al ambiente o a la salud, cuando a juicio de la SEMADESU deban presentarse; y
 
-V. Los equipos y el programa de reducción de emisiones contaminantes a la atmósfera.
+VI. Realizar, a juicio de la SEMADESU, un programa de operación y mantenimiento de equipos y procesos que generen emisiones contaminantes y de los equipos de control de anticontaminantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 512.
 
-Corresponde al H. Ayuntamiento, a través del organismo operador municipal de los Servicios de Agua Potable, Alcantarillado y Saneamiento, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable en cuanto a la prevención y control de la contaminación y al uso racional del agua, lo siguiente:
+Corresponde al Municipio, a través del organismo operador municipal de los servicios de agua potable, alcantarillado y saneamiento, en coordinación con la SEMADESU, la prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces naturales bajo custodia del Municipio, mediante las siguientes acciones:
 
-I. Vigilar que las aguas de los sistemas públicos de abastecimiento de las comunidades urbanas y rurales reciban tratamiento de potabilización, de acuerdo a la normatividad vigente.
+I. Vigilar que las aguas de los sistemas públicos de abastecimiento de las comunidades urbanas y rurales reciban tratamiento de potabilización, de acuerdo a la normatividad vigente;
 
-II. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal.
+II. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal;
 
-III. Prevenir y controlar la contaminación que los servicios públicos municipales pudieran generar, para evitar que se afecte la calidad del agua.
+III. Prevenir y controlar la contaminación que los servicios públicos municipales pudieran generar, para evitar que se afecte la calidad del agua;
 
-IV. Llevar y actualizar el registro de descargas de agua residuales en los sistemas de drenaje y alcantarillado que administre.
+IV. Llevar y actualizar el registro de descargas de agua residuales en los sistemas de drenaje y alcantarillado que administre;
 
-V. Colaborar con el Estado y la Federación en el control de la calidad de las descargas que hayan obtenido.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-VI. Denunciar a la autoridad competente a quien realice descargas o vertimientos de aguas encontradas en el Municipio con materiales radioactivos u otros que excedan su competencia.
+V. Colaborar con el Estado y la Federación en el control de la calidad de las descargas de aguas residuales;
 
-VII. Promover el reuso de aguas residuales tratadas en la industria, la agricultura y el riego de áreas verdes, cumpliendo con la normatividad ambiental vigente.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VI. Denunciar ante la autoridad competente a quien realice descargas o vertimientos de aguas con materiales peligrosos, radioactivos u otros fuera de su competencia;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VII. Promover el reuso de aguas residuales tratadas en la industria, la agricultura y el riego de áreas verdes, cumpliendo con la normatividad ambiental vigente;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VIII. Prevenir y controlar la contaminación de los cauces naturales y arroyos bajo custodia del Municipio; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+IX.- Requerir la realización de los análisis pertinentes a fin de determinar los límites máximos permisibles de contaminantes en las aguas residuales que se descarguen a los sistemas de alcantarillado, bajo lo previsto por las Normas Oficiales Mexicanas específicas.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 513.
 
-Se prohíbe descargar sin previo tratamiento en redes de alcantarillado o drenaje municipal o infiltrar al subsuelo aguas residuales provenientes de industrias, comercios o establecimientos de servicios que contengan contaminantes, desechos, materiales radioactivos o cualquier sustancia dañina a la salud, al ambiente, a la infraestructura urbana o que alteren el equilibrio ecológico.
+Se prohíbe descargar sin previo tratamiento y sin autorización en redes de alcantarillado, drenaje municipal o arroyos bajo custodia del Municipio, o infiltrar al subsuelo aguas residuales provenientes de industrias, comercios o establecimientos de servicios que contengan contaminantes, desechos, materiales radioactivos o cualquier sustancia dañina a la salud, al ambiente, a la infraestructura urbana o que alteren el equilibrio ecológico.
 
-Se prohíbe el almacenamiento de aguas residuales que no se ajusten a las especificaciones que dicte la Comisión Nacional del Agua.
+Se prohíbe el almacenamiento y descarga de aguas residuales que no se ajusten a los parámetros establecidos en las Normas Oficiales Mexicanas y a las especificaciones que dicte la Comisión Nacional del Agua y el organismo operador municipal del servicio de agua potable, alcantarillado y saneamiento.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 514.
 
-Los usuarios tanto públicos como privados que viertan líquidos residuales en la red municipal, deberán obtener la autorización correspondiente del Organismo Operador Municipal del Servicio de Agua Potable, Alcantarillado y Saneamiento, y reportar periódicamente a ésta de acuerdo al giro que se trate, los resultados del análisis de la calidad de descarga.
+Los usuarios tanto públicos como privados que viertan líquidos residuales en la red municipal de alcantarillado, deberán obtener la autorización correspondiente del organismo operador municipal del servicio de agua potable, alcantarillado y saneamiento, y reportar periódicamente a éste, de acuerdo al giro que se trate, los resultados del análisis de la calidad de descarga.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 515.
 
-Se faculta a la autoridad municipal en caso de contravención a lo dispuesto anteriormente para cancelar la descarga, independientemente de la aplicación de las sanciones que correspondan. El Organismo Operador Municipal del Servicio de Agua Potable, Alcantarillado y Saneamiento, deberá enviar copia del resultado a la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+Se faculta a la autoridad municipal en caso de contravención a lo dispuesto anteriormente para cancelar la descarga, independientemente de la aplicación de las sanciones que correspondan. El organismo operador municipal del servicio de agua potable, alcantarillado y saneamiento, deberá enviar copia del resultado a la SEMADESU.
+
+En caso de que la SEMADESU tenga conocimiento de la existencia de una descarga fuera de los límites máximos permisibles establecidos en las normas oficiales mexicanas correspondientes, dará aviso inmediato al organismo operador municipal del servicio de agua potable, alcantarillado y saneamiento para que actúe en consecuencia y le informe del resultado de las diligencias.
 
 ###### ARTÍCULO 516.
 
@@ -7275,133 +7539,139 @@ Se faculta a la autoridad municipal en caso de contravención a lo dispuesto ant
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 522.
 
-La apertura de sitios de disposición final de residuos sólidos específicos tales como escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales y otros, deberán ser previamente autorizados por la Secretaría (sic) Medio Ambiente y Desarrollo Sustentable.
+La apertura de sitios de disposición final de residuos, tales como escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales que no sean residuos peligrosos y otros similares, deberán ser previamente autorizados por la SEMADESU, para lo cual previamente se deberá contar con autorización en materia de impacto ambiental emitida por la autoridad correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Queda prohibida la instalación de sitios de disposición final de los residuos mencionados en el presente artículo, dentro de los cauces y su zona federal que han sido dados en custodia al Municipio, en terrenos forestales, áreas de conservación y zonas de preservación ecológica establecidas en el Programa de Desarrollo Urbano vigente, sitios RAMSAR, áreas de importancia para la conservación de las aves (AICA), así como aquellas que dañen la imagen urbana o el paisaje natural.
+
+Para la selección del sitio de estas instalaciones, se deberá privilegiar aquellos predios que hayan funcionado como bancos de materiales, que se encuentren alterados, erosionados o que por sus características no brinden servicios ambientales prioritarios.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 522 BIS.- Previo a la autorización de un sitio para la disposición final a que se refiere el artículo anterior, la SEMADESU, SEDUM, SOPMA y el IMPLAN se coordinarán para revisar las características del predio y su viabilidad, considerando los criterios señalados en el artículo anterior.
+
+Tratándose de predios que no sean propiedad del Municipio, el IMPLAN notificará a los propietarios sobre el interés de utilizar su predio como sitio de disposición final de los residuos a que se hace referencia en el artículo anterior.
+
+Una vez aceptado por el propietario del predio el destino del mismo, la SOPMA firmará un convenio de comodato con el propietario para el uso del mismo y será responsable de la operación y funcionamiento hasta que concluya su tiempo de vida útil, debiendo realizar acciones para su rehabilitación en los términos acordados con el propietario en el convenio.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 523.
 
-Son obligaciones de los particulares con concesión o contrato para el servicio de recolección, transporte y confinamiento de residuos sólidos municipales las siguientes:
+Son obligaciones de los particulares con concesión o contrato para el servicio de recolección y transporte de residuos sólidos urbanos las siguientes:
 
-I.- Contar con todos los requisitos y permisos actualizados establecidos en las leyes o disposiciones en la materia vigentes; y
+I. Contar con todos los requisitos y permisos actualizados establecidos en las leyes y demás disposiciones en la materia; y
 
-II.- Presentar su proyecto o programa de operación a la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+II. Presentar su programa de operación a la SEMADESU.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 524.
 
-Sólo se podrá autorizar el confinamiento de residuos no peligrosos cuando estos no puedan ser técnica, ni económicamente sujetos a reúsos o cualquier tipo de tratamiento.
+Sólo se podrá autorizar el confinamiento de residuos sólidos urbanos y de manejo especial, cuando éstos no puedan ser técnica, ni económicamente sujetos a reúsos o cualquier tipo de tratamiento.
 
 ###### ARTÍCULO 525.
 
 Queda prohibido producir emisiones de energía térmica, sonora, lumínica y radiaciones ionizantes electromagnéticas; así como vibraciones y olores perjudiciales al ambiente o a la salud, o que afecten la flora y/o la fauna, los bienes y ecosistemas, cuando se contravengan las Normas Oficiales vigentes y las disposiciones legales correspondientes.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 526.
 
-Toda persona que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza producen emisiones de olores, ruidos, vibraciones, energía térmica, electromagnética o lumínica, que rebasen los límites permitidos por los reglamentos y Normas Oficiales o estén afectando a la población, deberán poner en práctica medidas correctivas, instalar los dispositivos y aislamientos necesarios para reducir o eliminar dichas emisiones a niveles permitidos y eliminar la molestia o en su caso optar por su reubicación.
+Toda persona que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza produzcan emisiones de olores, ruidos, vibraciones, energía térmica, electromagnética o lumínica, que rebasen los límites permitidos por los reglamentos y Normas Oficiales o estén afectando a la población, deberán poner en práctica medidas correctivas, instalar los dispositivos y aislamientos necesarios para reducir o eliminar dichas emisiones a niveles permitidos y eliminar la molestia o en su caso optar por su reubicación.
 
-En el caso de la contaminación electromagnética el responsable deberá informar a la Secretaría de Medio Ambiente y Desarrollo Sustentable sobre el nivel de radiación que estas emiten, así como contar con el instrumento de medición adecuado para evaluar si los niveles permitidos están siendo rebasados y ponen en riesgo la salud de seres humanos, animales y fauna. En el lugar donde existan antenas, el personal responsable de su funcionamiento deberá contar con el conocimiento suficiente.
+En el caso de la contaminación electromagnética, el responsable deberá informar a la SEMADESU sobre el nivel de radiación que emite, así como contar con el instrumento de medición adecuado para evaluar si los niveles permitidos están siendo rebasados y ponen en riesgo la salud de los seres humanos y la fauna. En el lugar donde existan antenas, el personal responsable de su funcionamiento deberá contar con el conocimiento suficiente para su adecuado funcionamiento y manejo.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 527.
 
-No se autorizará en las zonas habitacionales o colindantes a ellas, así como en los centros escolares y hospitalarios, la instalación de establecimientos comerciales, industriales, de servicios y de cualquier otro giro que por sus emisiones de gases, partículas, olores, ruidos, vibraciones, energía térmica, radicaciones (sic) electromagnéticas y lumínica, puedan ocasionar molestias a la población, afectaciones a la salud, al ambiente o a los bienes.
+No se autorizará en las zonas habitacionales o colindantes a ellas, así como en los centros escolares y hospitalarios, la instalación de establecimientos comerciales, industriales, de servicios y de cualquier otro giro que por sus emisiones de gases, partículas, olores, ruidos, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica, puedan ocasionar molestias a la población, afectaciones a la salud, al ambiente o a los bienes.
 
 En el caso de actividades que ya se encuentran instaladas en dichas zonas, su permanencia quedará condicionada a la implementación por parte de los interesados de medidas tendientes a prevenir, controlar o corregir los efectos nocivos y desagradables a la población, la salud, los bienes y al ambiente.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 528.
 
-Cuando el manejo de residuos no peligrosos genere impactos negativos al suelo independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
+Cuando el manejo de residuos sólidos urbanos genere impactos negativos al suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
 
-I. Realizar las acciones necesarias para recuperar y restablecer las condiciones del suelo con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable para el predio o zona respectiva.
+I. Realizar las acciones necesarias para recuperar y restablecer las condiciones del suelo con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable para el predio o zona respectiva;
 
-II. Reparar los daños causados en caso de que la recuperación y restablecimiento no sean factibles.
+II. Compensar los daños causados en caso de que la recuperación y restablecimiento no sean factibles; y
 
-Serán responsables solidarios por los daños que se produzcan tanto el generador como las empresas que presten los servicios para el manejo de los residuos no peligrosos.
+III. Dar tratamiento y confinamiento final al material contaminado, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Serán responsables solidarios por los daños que se produzcan, tanto el generador como las empresas que presten los servicios para el manejo de los residuos sólidos urbanos y en su caso, el propietario del predio.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 529.
 
-Cuando se presente una situación de contingencia ambiental o emergencia ecológica dentro del Municipio, producida por fuentes fijas o móviles de contaminación o por la ejecución de obras o actividades que pongan en riesgo inminente el equilibrio ecológico o la seguridad y la salud pública, la Secretaria del Medio Ambiente y Desarrollo Sustentable estará facultada para:
+Cuando se presente una situación de contingencia ambiental o emergencia ecológica producida por fuentes fijas de competencia municipal, la SEMADESU estará facultada para:
 
-I.- Clausurar parcialmente las obras o actividades;
+I. Clausurar temporal, parcial o totalmente las obras o actividades;
 
-II.- Clausurar totalmente las obras o actividades; y
+II. Asegurar los bienes, vehículos, utensilios, instrumentos directamente relacionados con la conducta que genera la contingencia ambiental o emergencia ecológica;
 
-III.- Reubicar la fuente contaminante conforme a la normatividad aplicable.
+III. Reubicar la fuente contaminante conforme a la normatividad aplicable; y
 
-La Secretaría del Medio Ambiente y Desarrollo Sustentable se coordinará en todo lo necesario con las autoridades competentes para la recolección, transportación y confinamiento de los desechos resultantes hasta quedar resarcida o controlada en su totalidad dicha situación.
+IV. Informar ante la autoridad competente los hechos observados cuando la contingencia ambiental o emergencia ecológica provengan de una fuente de jurisdicción estatal o federal.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+La SEMADESU se coordinará en todo lo necesario con las autoridades competentes para la atención y control de la contingencia ambiental o emergencia ecológica, hasta quedar controlada en su totalidad dicha situación.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 530.
 
-La realización de espectáculos públicos y actividades culturales y/o religiosos que generen emisiones de ruido, energía térmica, lumínica, vibraciones, gases partículas, olores y radiación, que puedan rebasar los límites permitidos por las Normas Oficiales Mexicanas, y que causen molestias a la población y/o daños al ambiente y a la salud, deberán obtener previo a su realización autorización por parte de la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+La realización de espectáculos públicos y actividades culturales y/o religiosas que generen emisiones de ruido, energía térmica, energía lumínica, vibraciones, gases, partículas, olores y radiación, que puedan rebasar los límites permitidos por las Normas Oficiales Mexicanas, y que causen daños al ambiente y/o a la salud, deberán obtener previo a su realización, autorización por parte de la SEMADESU.
 
-Para obtener la autorización anterior deberán presentar solicitud por escrito ante dicha Secretaría la cual evaluará a través de un informe preventivo el impacto ambiental y/o molestias que el espectáculo público o actividad cultural y/o religiosa pública podría generar, y con base en dicha evaluación dictará las condicionantes a la que se sujetará la realización de las actividades señaladas.
+Para obtener la autorización anterior deberán presentar solicitud por escrito ante dicha Secretaría.
 
-Deberán de presentar cuando sea el caso, todas las autorizaciones vigentes federales y estatales que sean aplicables.
+La SEMADESU evaluará los impactos y molestias que el espectáculo público o actividad podría generar, y con base en dicha evaluación dictará las condicionantes a la que se sujetará la realización de las actividades señaladas.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Asimismo, la SEMADESU hará del conocimiento de las autoridades ambientales estatales y federales la instalación o realización del evento para que en su caso, actúen conforme a su competencia.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 531.
 
-La Secretaría de Medio Ambiente y Desarrollo Sustentable emitirá las condiciones particulares para el control de niveles de ruido que generan las industrias de servicios que van de puerta en puerta, incluyendo el perifoneo público.
+La SEMADESU vigilará, con base en las Normas Oficiales Mexicanas y demás lineamientos aplicables, los niveles de ruido que generan los establecimientos mercantiles y de servicios de su competencia.
 
 ### CAPÍTULO V. De la Educación Ambiental
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 532.
 
 Para la protección de la flora y fauna silvestre existente en el municipio, el H. Ayuntamiento podrá celebrar, con la intervención que corresponda al Gobierno del Estado, acuerdos con la Federación para:
 
-I.- Apoyar a la Procuraduría Federal de Protección al Ambiente para hacer cumplir el establecimiento, modificación y/o levantamiento de las vedas de flora y fauna silvestre y acuática dentro del territorio municipal;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-II.- Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la vigilancia y control del aprovechamiento de recursos naturales en áreas que sean el hábitat de especies de flora y fauna silvestre, especialmente en las endémicas, amenazadas o en peligro de extinción existentes en el municipio;
+I. Apoyar el establecimiento, modificación y levantamiento de las vedas de flora y fauna silvestre dentro del territorio municipal;
 
-III.- Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales, en el control de la caza, venta, explotación y aprovechamiento de especies de flora y fauna silvestre existentes en el municipio;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-IV.- Denunciar ante la Procuraduría Federal de Protección al Ambiente y/o la Procuraduría Estatal de Protección al Ambiente, la caza, captura, compra o tráfico ilegal de especies de flora y fauna silvestre existente en el municipio; y
+II. Apoyar en la vigilancia y control del aprovechamiento de recursos naturales en áreas que sean el hábitat de especies de flora y fauna silvestre, especialmente de las endémicas o en cualquier categoría de riesgo existentes en el municipio;
 
-V.- Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la elaboración y/o actualización del inventario de las especies de flora y fauna silvestre y acuática existente en el municipio.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+III. Apoyar en el control de la caza, venta, explotación y aprovechamiento de especies de flora y fauna silvestre existentes en el municipio;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+IV. Fomentar entre la población del municipio la denuncia de la caza, captura, compra o tráfico ilegal de especies de flora y fauna silvestre existentes en el municipio; y
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+V. Apoyar en la elaboración y actualización del inventario de las especies de flora y fauna silvestre existentes en el municipio.
 
 ###### ARTÍCULO 533.
 
-El Municipio, a través de la Secretaría de Medio Ambiente y Desarrollo Sustentable:
-
-I. Fomentará el desarrollo de áreas verdes que contengan vegetación original, esto tanto en las áreas de donación como en zonas naturales sujetas a régimen de protección.
-
-II. Establecerá los criterios bajo los cuales definirá qué especies vegetales podrán sembrarse en áreas urbanas, considerando como criterios ambientales, el agua, su mantenimiento y otros que considere aplicables.
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-III. Establecer la normatividad aplicable para que las ladrilleras que se encuentren en su territorio tengan zonas de amortiguamiento con la finalidad de evitar su acercamiento directo a las zonas habitacionales;
-
-IV. Dispondrá de una lista de competencias municipales en materia de impacto ambiental.
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-V. En coordinación con la autoridad competente, participará en la revisión correspondiente de aquellas actividades de riesgo ambiental que se realicen en función del desarrollo urbano;
-
-VI. Promoverá la integración de energías limpias en los nuevos desarrollos habitacionales y de servicios.
-
-VII. Promoverá el uso de tuberías diferenciadas para las aguas grises en los nuevos desarrollos habitacionales y de servicios.
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-VIII. Coadyuvará en la vigilancia ambiental en coordinación con la Procuraduría Federal de Protección al Ambiente y la Procuraduría Estatal de Protección al Ambiente y las demás autoridades competentes;
-
-IX. Promoverá el desarrollo de programas de difusión en materia ambiental.
+(DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
 ### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
 
@@ -7409,7 +7679,7 @@ IX. Promoverá el desarrollo de programas de difusión en materia ambiental.
 
 ###### ARTÍCULO 534.
 
-Corresponde al Municipio a través de la Secretaría de Medio Ambiente y Desarrollo Sustentable el fomento e impulso a los planes, proyectos y programas de educación ambiental no formal e informal entre todos los sectores de la sociedad y en todas las comunidades del territorio municipal.
+Corresponde al Municipio, a través de la SEMADESU, el fomento e impulso a los planes, proyectos y programas de educación ambiental no formal e informal entre todos los sectores de la sociedad y en todas las comunidades del territorio municipal, así como operar los centros de educación, cultura y promotoría ambiental.
 
 ###### ARTÍCULO 535.
 
@@ -7437,7 +7707,7 @@ La Secretaría de Medio Ambiente y Desarrollo Sustentable instrumentara, dará s
 
 ### CAPÍTULO VII. De la Denuncia Popular
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 537.
 
@@ -7481,6 +7751,10 @@ V.- Difundir a la sociedad los trabajos, las recomendaciones, opiniones y evalua
 
 VI.- Promover una cultura ambiental entre los diversos sectores de la sociedad, a través de los medios electrónicos disponibles en la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VII.- Expedir su reglamento interno.
+
 ###### ARTÍCULO 538.
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2011)
@@ -7493,71 +7767,93 @@ VI.- Promover una cultura ambiental entre los diversos sectores de la sociedad, 
 
 Toda persona, física o moral, podrá denunciar ante la autoridad municipal en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daño al ambiente, a los recursos naturales, o contravenga las disposiciones del presente Código y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
 
-El Consejo Municipal de Medio Ambiente y Desarrollo Sustentable deberá contar con su propio reglamento interno.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 540.
 
-Al recibir la denuncia ciudadana, la Secretaría de Medio Ambiente y Desarrollo Sustentable, acusará recibo y le asignará un número de expediente, haciendo la anotación respectiva en el libro de registro y en un plazo de diez días hábiles siguientes se notificará al interesado el estado de su denuncia.
+Al recibir la denuncia ciudadana, la SEMADESU, acusará recibo y le asignará un número de expediente, haciendo la anotación respectiva en el libro de registro.
 
-Cuando se presenten dos o más denuncias respecto de los mismos hechos, actos u omisiones, deberá acordarse su acumulación en un solo expediente, prevaleciendo el primer número de expediente asignado. El contenido del acuerdo respectivo deberá notificarse a los denunciantes.
+Una vez analizada la denuncia la autoridad emitirá la admisión o no de la denuncia, lo cual se notificará al denunciante.
 
-Para el seguimiento de la denuncia ciudadana, se estará a lo dispuesto en este Código.
+En el caso de que el denunciante haya dado su nombre y domicilio o correo electrónico, en un plazo de diez días hábiles siguientes a la presentación de su denuncia, se le notificará el estado de ésta.
+
+Cuando se presenten dos o más denuncias respecto de los mismos hechos, actos u omisiones, deberá acordarse su acumulación en un solo expediente, prevaleciendo el primer número de expediente asignado.
+
+El contenido del acuerdo respectivo deberá notificarse a los denunciantes. Para el seguimiento de la denuncia ciudadana, se estará a lo dispuesto en este Código.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 541.
 
-La denuncia deberá presentarse por escrito y contener al menos lo siguiente:
+La denuncia deberá presentarse por escrito, vía telefónica, por correo, correo electrónico, fax o cualquier otro medio y contener al menos lo siguiente:
 
-I. Los actos, hechos u omisiones denunciados.
+I. El nombre, domicilio o correo electrónico del denunciante, en el caso de que quiera recibir información respecto de la atención a su denuncia, de lo contrario podrá ser anónima;
 
-II. Los datos que permitan identificar al presunto infractor o localizar la fuente de contaminación.
+II. Los actos, hechos u omisiones denunciadas;
 
-III. Las pruebas que en su caso ofrezca el denunciante.
+III. Los datos que permitan identificar al presunto infractor, localizar la fuente de contaminación o el lugar en donde se estén generando los actos, hechos u omisiones denunciadas;
 
-(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
+IV. Las pruebas que en su caso ofrezca el denunciante.
 
-Asimismo, podrá formularse la denuncia vía telefónica, por correo, fax o cualquier otro medio.
+El denunciante podrá solicitar que se guarde secreto respecto de su identidad, por razones de seguridad e interés particular, debiendo la SEMADESU dar seguimiento a la denuncia conforme a sus atribuciones, evitando que se conozcan los datos del denunciante.
 
-Las autoridades pondrán en disposición del Comité toda la información que este requiera para realización de sus funciones.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 542.
 
-La Secretaría de Medio Ambiente y Desarrollo Sustentable, en el ámbito de sus atribuciones, iniciará las acciones que procedan en base a sus competencias, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+Cuando la SEMADESU conozca de actos, hechos u omisiones que constituyan violaciones a la legislación ambiental, iniciará las acciones que procedan con base en su competencia.
 
-Si del resultado de las investigaciones realizadas por la autoridad ambiental, se desprenden actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante ésta u otras las ejecuciones de las acciones procedentes.
+Si del resultado de las investigaciones realizadas se desprenden actos, hechos u omisiones que constituyan violaciones a la normatividad federal o estatal, remitirá la denuncia a la autoridad competente, pidiéndole le informe sobre la atención a la misma, así como informará de ello al denunciante.
+
+Si del resultado de las investigaciones realizadas por la autoridad ambiental, se desprenden actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, la SEMADESU emitirá las recomendaciones necesarias para promover ante ésta u otras las ejecuciones de las acciones procedentes.
+
+En el caso de encontrar la posible comisión de un delito, la SEMADESU presentará la denuncia penal ante la autoridad competente.
 
 ###### ARTÍCULO 543.
 
 Los expedientes de denuncia que se encuentren en trámite podrán concluirse, en los siguientes casos:
 
-I. Incompetencia para conocer de la denuncia planteada, en cuyo caso se remitirá a la autoridad competente.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-II. Dictarse las recomendaciones correspondientes.
+I. Incompetencia para conocer de la denuncia planteada, en cuyo caso se remitirá a la autoridad competente;
 
-III. Inexistencia de contravenciones a la normatividad ambiental.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-IV. Dictarse anteriormente acuerdo de acumulación de expediente.
+II. Dictarse las recomendaciones correspondientes;
 
-V. Solucionarse la denuncia mediante conciliación entre partes.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-VI. Emitirse de una resolución derivada del procedimiento administrativo.
+III. Inexistencia de contravenciones a la normatividad ambiental;
 
-VII. Desaparecer o extinguirse los actos, hechos u omisiones materia de la denuncia, siempre y cuando éstos no hubieren ocasionado daños al ambiente.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+IV. Dictarse anteriormente acuerdo de acumulación de expediente;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+V. Emitirse una resolución derivada del procedimiento administrativo; y
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+VI. Desaparecer o extinguirse los actos, hechos u omisiones materia de la denuncia, siempre y cuando éstos no hubieren ocasionado daños al ambiente.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+La SEMADESU notificará al denunciante todos los acuerdos que se emitan respecto a la atención de su denuncia, siempre y cuando haya otorgado un domicilio o correo electrónico para ello.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 543
 
-1.- Para comprobar el cumplimiento de las obligaciones en materia ambiental, la Secretaría del Medio Ambiente y Desarrollo Sustentable llevará a cabo visitas de inspección y verificación.
+1.- Para comprobar el cumplimiento de las obligaciones en materia ambiental, la SEMADESU llevará a cabo visitas de inspección y verificación en los términos previstos en este Código.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 543
 
-2.- La Secretaría del Medio Ambiente y Desarrollo Sustentable en su estricto ámbito de competencia determinará e impondrá las medidas de seguridad que estime convenientes, para evitar la contaminación del ambiente en cualquiera de los rubros que señala el presente ordenamiento.
+2.- La SEMADESU en su estricto ámbito de competencia determinará e impondrá las medidas de seguridad que estime convenientes, para prevenir y controlar la contaminación del ambiente en cualquiera de los rubros que señala el presente ordenamiento.
+
+Asimismo, en el ámbito de su competencia, impondrá las sanciones procedentes por violaciones a las disposiciones previstas en este Código.
 
 > <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL EL LIBRO QUINTO DEL CÓDIGO.</small>
 
@@ -9643,9 +9939,11 @@ Perito Responsable de Obra, es la persona física que se hace responsable de la 
 
 La calidad de Perito Responsable de Obra se adquiere con el registro de la persona ante la Comisión de Peritos, habiendo cumplido previamente con los requisitos establecidos en este apartado.
 
-###### ARTÍCULO 637.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
-Perito Especializado, es la persona física con los conocimientos técnicos adecuados para intervenir en corresponsabilidad con el perito responsable de obra, en todos los aspectos de las obras en las que otorgue su responsiva, relativos a diseño arquitectónico, diseño urbano, diseño estructural, mecánica de suelos, instalaciones eléctricas, geología o geofísica, según sea el caso y deberá cumplir con los requisitos establecidos en este Código.
+###### ARTICULO 637.
+
+Perito Especializado, es la persona física con los conocimientos técnicos adecuados para intervenir en corresponsabilidad con el perito responsable de obra, en todos los aspectos de las obras en las que otorgue su responsiva, relativos a diseño arquitectónico, urbanismo y diseño urbano, diseño estructural, mecánica de suelos, instalaciones eléctricas, geología o geofísica, según sea el caso y deberá cumplir con los requisitos establecidos en este Código.
 
 Se exigirá responsiva de los Peritos Especializados para obtener la licencia de construcción o urbanización a que se refiere este Libro, en los siguientes casos:
 
@@ -9657,13 +9955,17 @@ b) Las edificaciones ubicadas en zonas del Patrimonio Histórico, Artístico y A
 
 c) El resto de las edificaciones que tengan más de tres mil metros cuadrados cubiertos o más de quince metros de altura totales, o en espacios con capacidad para más de doscientos concurrentes en locales cerrados o más de mil concurrentes en locales abiertos, exceptuando Naves Industriales y Bodegas.
 
-II. Especializados en Diseño Urbano para los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+
+II. Especializados en Urbanismo y Diseño Urbano para los siguientes casos:
 
 a) Las obras que comprenderán la responsiva del Perito Especializado en Diseño Urbano son, en cuanto a estructura urbana y/o diseño de los espacios abiertos mayores de cinco mil metros cuadrados, de los casos que a continuación se desglosan:
 
 a.1. Plazas, Parques y Jardines;
 
-a.2. (DEROGADO, P.O. 10 DE AGOSTO DE 2015)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2016)</small>
+
+a.2. Centrales de Abastos, Centros Comerciales y de Servicios;
 
 a.3. Trazo, Remodelaciones, Regeneraciones y Rehabilitaciones urbanas de vías públicas, incluyendo instalaciones de infraestructura;
 
@@ -9671,9 +9973,13 @@ a.4. Centro y subcentros urbanos, en cuanto a Hitos, Nodos, Acentos y Bordes Urb
 
 a.5. Universidades y centros o instituciones de estudios en predios mayores a lo estipulado en este apartado, en cuanto a las incorporaciones de flujos peatonales y vehiculares;
 
-a.6. (DEROGADO, P.O. 10 DE AGOSTO DE 2015)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2016)</small>
 
-a.7. (DEROGADO, P.O. 10 DE AGOSTO DE 2015)
+a. 6. Auditorios, Teatros, Estadios y Centros de Espectáculos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2016)</small>
+
+a. 7. Aeropuertos;
 
 a.8. Central de Autobuses y estaciones de ferrocarril y vías para tren urbano y suburbano;
 
@@ -9690,6 +9996,18 @@ Residenciales, Medio, Popular, Interés Social y Mixtos;
 b.2. Fraccionamientos Especiales:
 
 Campestre, Comerciales, Granjas de Explotación Agropecuaria, Cementerios, Industriales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2016)</small>
+
+c) Las obras de construcción que requieran la manifestación de Impacto Urbano y/o Rural, señalado en el artículo 113 de este Código, avalando dicha manifestación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2016)</small>
+
+d) Las obras de construcción en las cuales la Secretaria tenga como requisito para su otorgamiento el dictamen un (sic) impacto vial, avalando dicho dictamen.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2016, PÁGINA 32.]</small>
+
+Del e) al h)... (sic)
 
 III. Especializados en Diseño Estructural para los siguientes casos:
 
@@ -9759,6 +10077,20 @@ d).- Proyectos Urbanos.
 
 e).- Estudios de Movilidad.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2016, PÁGINA 32.]</small>
+
+VIII. Derogado (sic)
+
+a) Derogado
+
+b) Derogado
+
+c) Derogado
+
+d) Derogado
+
+e) Derogado
+
 ###### ARTÍCULO 638.
 
 Para tener derecho a aparecer en el Registro de Peritos o refrendar su calidad como tal, se requiere:
@@ -9795,15 +10127,15 @@ b) Acreditar que posee cédula profesional correspondiente alguna de las siguien
 
 3) Para especializado en Diseño Arquitectónico: Arquitecto o Ingeniero-Arquitecto.
 
-4) Para especializado en Diseño Urbano: licenciado en Urbanismo, Licenciado en Diseño de Asentamientos Humanos, Arquitecto o Maestro en Diseño Urbano.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+4) Para especializado en Urbanismo y Diseño Urbano: (sic)
 
 5) Para Especializado en Geología o Geofísica: Ingeniero Geólogo o Ingeniero Geofísico.
 
 6) Para Especializado en Instalaciones Eléctricas: Ingeniero Eléctrico, Ingeniero Electromecánico, Ingeniero Mecánico Electricista, Ingeniero Industrial Eléctrico.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
-
-7) Para especializado en Urbanismo: Licenciado en Urbanismo, Arquitecto o Ingeniero con posgrado en Planeación Urbana.
+7) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
 c) Acreditar ante la Comisión de Peritos que conoce este Libro y sus normas técnicas complementarias, en lo relativo a los aspectos correspondientes a su especialidad, para lo cual deberá obtener el dictamen favorable;
 
@@ -9915,17 +10247,21 @@ g) Incluir en el letrero a que hace referencia este capítulo, su nombre y núme
 
 h) Obtener el refrendo anual de su calidad de Perito, para lo cual deberá actualizar sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Secretaría, será necesario presentar constancias de habitabilidad de obras o el informe pormenorizado de los avances de obras en proceso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
-II. Del especializado en Diseño Urbano.
+II. Del especializado en Urbanismo y Diseño Urbano:
 
-a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los planos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia, y en su caso los dictámenes o manifiestos de impacto urbano y/o rural y de impacto vial, así como los planos del proyecto correspondiente, cuando se trate de obras previstas en este libro;
 
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código De Ordenamiento Territorial, Desarrollo Urbano Y Vivienda Para El Estado De Aguascalientes y las demás disposiciones relativas al Diseño Urbano;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-c) Verificar que el proyecto cumpla las disposiciones relativas al presente Código y los programas respectivos.
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes y las demás disposiciones relativas al Urbanismo y Diseño Urbano;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+
+c) Verificar que el proyecto cumpla las disposiciones relativas al presente Código y los programas respectivos, y en su caso el manifiesto o dictamen que hubiese elaborado;
 
 Las condiciones que se exijan en la autorización de uso de suelo a que se refiere este Libro, en su caso.
 
@@ -10021,17 +10357,7 @@ g) Incluir en el letrero de la obra a que hace referencia este capítulo, su nom
 
 h) Refrendar su calidad de Perito a partir del mes de enero de cada año actualizando sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Secretaría.
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
-
-VII.- Del Especializado en Urbanismo:
-
-a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los planos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
-
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código y las demás disposiciones relativas al Diseño Urbano;
-
-c) Verificar que el proyecto cumpla las disposiciones relativas al Código y los programas respectivos; y
-
-d) Dar Cumplimiento a lo especificado en la Constancia de Alineamiento y Uso de Suelo.
+VII.- (DEROGADA, P.O. 11 DE ABRIL DE 2016)
 
 ###### ARTÍCULO 644.
 
@@ -15619,6 +15945,14 @@ ________________________
 
 superficie del predio
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
+
+XXXIX. Estudio de impacto socio-económico: Es el documento expedido por la Secretaría de Desarrollo Social del Municipio de Aguascalientes, a través de su Dirección de Desarrollo Económico y que manifestará el efecto y/o posibles repercusiones que pudieran generar en el entorno que circunda la autorización que expida para tal efecto la Secretaría de Desarrollo Urbano mediante su Alineamiento y Compatibilidad Urbanística, o uso de suelo, para el desempeño de la actividad de las conocidas como tiendas de conveniencia sobre el sector abarrotero, similar o análogo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
+
+XL. Tienda de conveniencia: aquellos comercios que por su ubicación u horario de atención presentan una ventaja con respecto al resto de los comercios del rubro. Pueden estar abiertos por veinticuatro horas o al menos dieciocho horas al día y distribuyen su oferta entre libros, periódicos, revistas, artículos de alimentación, discos, videos, juguetes, regalos y artículos varios, así como el ofrecimiento de recepción de pago de servicios diversos, e incluso con la posibilidad de consumir alimentos y bebidas en infraestructura propia erigida para tal efecto dentro del local.
+
 ###### ARTÍCULO 1108.
 
 El H. Ayuntamiento de Aguascalientes por conducto de la Secretaría ejercerá las siguientes atribuciones:
@@ -15667,6 +16001,10 @@ VIII. Cuando lo aprecie necesario la Secretaría, también se deberá exhibir pl
 
 IX. Cuando se trate de solicitudes que señalen como uso del suelo propuesto fraccionamiento o condominio, se deberá presentar plano topográfico digitalizado, debidamente georeferenciado, especificando las vialidades colindantes y de liga al predio materia de la solicitud, así como elementos físicos existentes que faciliten su ubicación. Este requisito aplicará para presentar las solicitudes de informe de compatibilidad urbanística.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
+
+X. Cuando se trate de solicitudes que señalen como uso de suelo propuesto 'tiendas de conveniencia' o cualquier comercio similar, se deberá presentar el correspondiente estudio de impacto socio - económico el cual será expedido por la Secretaría de Desarrollo Social del Municipio de Aguascalientes, a través del que se dará a conocer el impacto o posibles repercusiones que pudiera generar la actividad solicitada respecto a las diversas tiendas de abarrotes o análogas que se encuentren dentro de una circunferencia de hasta tres cuadras.
+
 ###### ARTÍCULO 1110.
 
 Una vez presentados los requisitos indicados en el artículo anterior, el solicitante deberá recoger en la Ventanilla Única Multitrámite de la Secretaría, ya que ese es el domicilio oficial para ese efecto, el resultado sobre su solicitud de Constancia de Alineamiento y Compatibilidad Urbanística en la fecha que esta le indique, para cuyo efecto acreditará el pago de los derechos municipales respectivos. El documento que le entregue al ciudadano la Dirección de Control Urbano, será el único comprobante que acredite que se entregó la documentación completa para su solicitud.
@@ -15698,6 +16036,10 @@ Su estructura tendrá la siguiente organización:
 5.- Metas
 
 El profesionista que elabore dicho dictamen de impacto urbano, debe ser avalado por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 1113 BIS.- Estudio de Impacto Socio-Económico: Es el estudio técnico-jurídico de factibilidad de uso de suelo para comercios o tiendas de conveniencia, donde se dé a conocer el efecto y posibles repercusiones que pudieran generar su funcionamiento desde el punto de vista social y económico, respecto de los demás comercios que sean de giros específicos de venta de productos en menor escala como tiendas de abarrotes y/o comercios de menor tamaño, cuya naturaleza comercial es inferior de la tienda de conveniencia en razón de su posibilidad de competencia.
 
 ###### ARTÍCULO 1114.
 
@@ -16099,7 +16441,9 @@ Todo comercio de tipo periódico que maneje o expenda material de tipo tóxico, 
 
 BIS.- Para la autorización de la Constancia de Alineamiento y Compatibilidad Urbanística con Uso del Suelo destinado a Torre de Telecomunicación o Estación Terrena (antenas), además de las condiciones y requisitos técnicos previstos en el Programa de Desarrollo Urbano aplicable se debe acatar lo siguiente:
 
-A) El predio deberá de colindar en su acceso con una vía primaria, secundaria o suburbana; la superficie mínima del predio deberá ser de 75 metros cuadrados, ya sea en piso o en azotea, así mismo la superficie mínima de desplante y área de seguridad en la planta o base de la antena deberá de ser proporcional a la (sic) las dimensiones de la antena, en un metro cuadrado de desplante por cada diez de altura, así mismo no podrá ser menor de dos metros cuadrados él área de desplante.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+A) El predio deberá de colindar en su acceso con una vía primaria, secundaria, colectora, local, regional o cerrada; la superficie mínima del predio deberá ser de 75 metros cuadrados, ya sea en piso o en azotea, así mismo la superficie mínima de desplante y área de seguridad en la planta o base de la antena deberá de ser proporcional a las dimensiones de la antena, en un metro cuadrado de desplante por cada diez de altura, así mismo no podrá ser menor de dos metros cuadrados él área de desplante.
 
 B) La altura máxima permitida para cualquier instalación será de 42 metros desde el nivel del piso, cuando se desplante sobre un inmueble la altura máxima permitida será de 42 metros y se tomará en cuenta la altura total de la edificación en conjunto con la longitud de la estructura. Cuando el inmueble sobrepase la altura antes referida, la Secretaría podrá otorgar la constancia al solicitante, una vez que este cumpla con las condiciones que la propia instancia le indique.
 
@@ -16125,9 +16469,9 @@ F) En caso de instalar camuflaje en las radiobases para antenas, este deberá de
 
 G) Cuando las especificaciones de la antena lo permitan, se podrá instalar ésta, en la estructura de un anuncio espectacular, ello previo análisis y autorización del proyecto por parte de la Secretaria, debiendo quedar oculta dentro del mismo.
 
-H) El Municipio podrá celebrar contratos de arrendamiento con las empresas de telecomunicación respecto de los predios.
+H) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-I) El gobierno municipal podrá destinar espacios dentro de las áreas de donación propias localizadas en los desarrollos habitacionales para la renta a particulares para la instalación de las estructuras materia de este artículo.
+I) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
 J) El propietario del inmueble y la compañía propietaria de la estructura, serán responsables de cualquier daño que ésta pueda causar a los bienes municipales o a terceros. Para tal efecto, deberá garantizarse mediante un seguro contratado ante una compañía legalmente autorizada por la Comisión Nacional de Seguros y Fianzas que cubra los daños causados por cualquier eventualidad.
 
@@ -17961,15 +18305,25 @@ VIII. Ejecutar el procedimiento económico-coactivo en contra de los infractores
 
 IX. Las demás que determine el presente Código y los ordenamientos jurídicos aplicables.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
-ARTÍCULO 1298 SEPTIES.- Son facultades y atribuciones de la Secretaría del Medio Ambiente y Desarrollo Sustentable, las siguientes:
+ARTÍCULO 1298 SEPTIES.- Son facultades y atribuciones de la Secretaría de Medio Ambiente y Desarrollo Sustentable, las siguientes:
 
-I. Vigilar las áreas que correspondan a la competencia del Municipio de Aguascalientes, para prevenir la contaminación atmosférica, generada por fuentes fijas o naturales de giros comerciales, industriales o de prestación de servicios;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-II. Emitir dictámenes en el ámbito de su competencia que le soliciten las autoridades municipales para efectos del presente título, para prevenir la contaminación ambiental; y
+I. Prevenir y controlar la contaminación atmosférica por fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
 
-III. Las que le otorguen el presente Código y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+II. Emitir dictámenes en el ámbito de su competencia que le soliciten las autoridades Federales, Estatales y/o Municipales para efectos del presente título, para prevenir la contaminación ambiental;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+III. Expedir el permiso ambiental de funcionamiento y otorgar las autorizaciones que correspondan a los establecimientos comerciales y/o de servicios de competencia municipal; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+IV. Las que le otorguen el presente Código y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18613,7 +18967,9 @@ d) Por causa de preservar el orden público y el bienestar general.
 
 La expedición de permisos para la realización de eventos artísticos, tradicionales, deportivos, festividades cívicas, ferias, verbenas, eventos especiales u ocasionales, en los que se pretenda vender bebidas alcohólicas, la persona interesada deberá solicitar con un mínimo de tres días hábiles de anticipación a la fecha de realización al evento, cumpliendo con los siguientes requisitos:
 
-a) Presentar solicitud ante la Dirección de Reglamentación, dirigida a la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, en el formato establecido;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+a) Presentar solicitud ante la Dirección de Reglamentos, dirigida a la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, en el formato establecido;
 
 b) Datos generales de la persona solicitante;
 
@@ -18631,13 +18987,21 @@ h) Calcular el Aforo del lugar, en su caso;
 
 i) Tener contratado para el día del evento, servicio de seguridad pública;
 
-j) Que cumpla con las medidas de seguridad aplicables a la materia; y
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-k) Los demás que determine y solicite la Dirección de Reglamentación, para el cumplimiento de las disposiciones del presente Libro.
+j) Que cumpla con las medidas de seguridad aplicables a la materia;
 
-La Dirección de Reglamentación, determinará los casos en que aplicará el inciso i); La Secretaría de Seguridad Pública Municipal determinará el número de integrantes operativos que se requieran para el evento en atención al aforo que se pretende.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-Reunidos los requisitos correspondientes, la autoridad municipal tendrá la facultad potestativa para otorgar o negar el permiso correspondiente.
+k) Los demás que determine y solicite la Dirección de Reglamentos, para el cumplimiento de las disposiciones del presente Libro; y
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+l) El cumplimiento a las condicionantes establecidas en la autorización que expida la SEMADESU.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+La Dirección de Reglamentos, determinará los casos en que aplicará el inciso i); La Secretaría de Seguridad Pública Municipal determinará el número de integrantes operativos que se requieran para el evento en atención al aforo que se pretende. Reunidos los requisitos correspondientes, la autoridad municipal tendrá la facultad potestativa para otorgar o negar el permiso correspondiente.
 
 Una vez autorizado el evento, la persona solicitante deberá realizar el pago correspondiente en las cajas recaudadoras autorizadas por la Secretaría de Finanzas Públicas del Municipio de Aguascalientes.
 
@@ -21507,9 +21871,9 @@ Tratándose de las demás formas de notificación contenidas en el presente Cód
 
 En caso de que alguna notificación no haya sido realizada de conformidad con el presente Capítulo, si el interesado o su representante legal comparecen dándose por enterados del acto motivo de la notificación, ésta se tendrá por legalmente realizada.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-## TITULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN E INSPECCIÓN
+## TITULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACION E INSPECCION
 
 ### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
 
@@ -21693,7 +22057,7 @@ Para la determinación de la imposición de una sanción o medida de seguridad q
 
 I. La gravedad de la falta.
 
-II La capacidad económica del infractor.
+II. La capacidad económica del infractor.
 
 III. La magnitud del daño ocasionado.
 
@@ -21737,15 +22101,29 @@ Cuando el infractor, demuestre fehacientemente ser jornalero, obrero, trabajador
 
 Procede la clausura por:
 
-I. Carecer de licencia de funcionamiento o renovación anual.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-II. Realizar actividades sin haber presentado declaración de apertura.
+I. Carecer de licencia de funcionamiento o renovación anual;
 
-III. Realizar en forma reiterada actividades prohibidas o diferentes a las autorizadas.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-IV. Cuando por motivo de las actividades pongan en peligro la seguridad, salubridad, orden público y medio ambiente.
+II. Realizar actividades sin haber presentado declaración de apertura;
 
-V. Cuando se haya cancelado el permiso o licencia.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+III. Realizar en forma reiterada actividades prohibidas o diferentes a las autorizadas;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+IV. Cuando por motivo de las actividades pongan en peligro la seguridad, salubridad, orden público y medio ambiente;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+V. Cuando se haya cancelado el permiso o licencia; y
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+VI. Por carecer del permiso ambiental de funcionamiento.
 
 ###### ARTÍCULO 1560.
 
@@ -21799,19 +22177,37 @@ d) Hacer caso omiso de las ordenes o recomendaciones hechas al infractor.
 
 e) Ejecutar una obra sin respetar el proyecto autorizado.
 
-IV. En materia de servicios de limpia y recolección de residuos sólidos no peligrosos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
-a) Arrojar o abandonar en lotes baldíos, residuos en cualquier estado y de cualquier especie.
+IV. En materia de servicios de limpia y recolección de residuos sólidos urbanos:
 
-b) Limpiar o dar mantenimiento a cualquier tipo de objeto en vía pública que arroje al suelo, agua o aire, algún tipo de desecho o elemento contaminante.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-c) Depositar cualquier tipo de desecho líquido o de índole diferente a la doméstica en los contenedores para desechos sólidos domésticos.
+a) Arrojar o abandonar en lotes baldíos, vía pública, arroyos, residuos en cualquier estado y de cualquier especie;
 
-d) Encender fogatas o realizar quemas de cualquier índole, en vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-e) Usar como combustible cualquier tipo de material de desecho que genere deterioro ambiental y/o que a partir de su utilización genere algún otro tipo de desecho inadmisible en los contenedores para desechos domésticos.
+b) Limpiar o dar mantenimiento a cualquier tipo de objeto en vía pública que contamine el suelo, agua o aire y dañe el ambiente;
 
-f) Por no separar los desechos que se deben de incinerar; asimismo no separar los residuos peligrosos no incinerables y que no son entregados a las instancias correspondientes para su confinamiento y son depositados en los contenedores colocados en la vía pública, para deposito de residuos sólidos domésticos o en cualquier otra área dentro de la circunscripción territorial del Municipio de Aguascalientes.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+c) Depositar cualquier tipo de residuo diferente a los sólidos urbanos en los contenedores municipales;
+
+d) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+
+e) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+
+f) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+V. En materia ambiental:
+
+a) Encender fogatas o realizar quemas de cualquier índole, en vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio, sin el permiso correspondiente;
+
+b) Usar como combustible residuos peligrosos o cualquier otro residuo no autorizado en el permiso correspondiente;
+
+c) Hacer caso omiso de las condicionantes establecidas en el permiso ambiental de funcionamiento en materia de ruido, olores y vibraciones cuando la autoridad le haya requerido el cumplimiento en dos ocasiones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -21847,13 +22243,17 @@ VIII. No realizar los pagos correspondientes de los adeudos existentes con el Mu
 
 IX. Reincidir en la contravención a las disposiciones del presente Código y que éstas conductas hayan sido sancionadas previamente por la autoridad municipal;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-X. Por causas de poner en riesgo la integridad física de las personas o su vida; y
+X. Por causas de poner en riesgo la integridad física de las personas o su vida;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-XI. Por causa de interés general, orden público o bienestar colectivo.
+XI. Por causa de interés general, orden público o bienestar colectivo; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XII. Por no contar con el permiso ambiental de funcionamiento.
 
 ###### ARTÍCULO 1563.
 
@@ -21895,9 +22295,9 @@ Cuando una persona resulte responsable de dos o más violaciones a las leyes del
 
 Cuando la determinación de imposición de alguna sanción o medidas de seguridad implique el pago de una cantidad mínima, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico coactivo, remitiéndole copia de la resolución a la Secretaría de Finanzas Públicas para hacerla efectiva.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE LA (SIC) SANCIONES
+## TITULO CUARTO. DE LA INDIVIDUALIZACIÓN DE SANCIONES
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -21913,15 +22313,19 @@ En materia de servicios públicos municipales se impondrá:
 
 En atención a la siguiente clasificación de infracciones, atendiendo al grupo que correspondan y en relación al mínimo y máximo establecido, en la siguiente forma:
 
-I. GRUPO UNO, SANCIÓN DE TRES A DIEZ DÍAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+
+I. GRUPO UNO, SANCION DE TRES A DIEZ DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
 
 a) Por no barrer diariamente los frentes de sus viviendas hasta la medianería de sus colindancias.
 
-b) Por no entregar a los prestadores del servicio de recolección o depositar en el contenedor sus residuos sólidos domésticos.
+b) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
 c) Por no separar los residuos sólidos no peligrosos, susceptibles de aprovechamiento, una vez que se encuentre instrumentado por la Dirección.
 
-d) Por no respetar los horarios para el depósito en los contenedores de residuos sólidos domésticos.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+d) Por no respetar los horarios para el depósito en los contenedores de residuos sólidos urbanos.
 
 e) A los comerciantes por no mantener limpia un área mínima de dos metros a la redonda, del lugar que ocupen para sus actividades.
 
@@ -21931,7 +22335,9 @@ g) Todo acto u omisión que contribuya al desaseo de las vías públicas, áreas
 
 h) (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
-II. GRUPO DOS, DE DIEZ A TREINTA DÍAS DE SALARIO MÍNIMO GENERAL VIGENTE EN LA ENTIDAD:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+
+II. GRUPO DOS, DE DIEZ A TREINTA DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
 
 a) Por no barrer diariamente el frente de sus establecimientos hasta las medianerías de sus colindancias.
 
@@ -21939,35 +22345,67 @@ b) No depositar los residuos en los lugares autorizados por la Dirección.
 
 c) Arrojar cualquier tipo de desecho desde el interior de los vehículos automotores.
 
-d) Depositar muebles o cualquier otro tipo de objeto que rebase la capacidad de los contenedores para residuos sólidos domésticos, así como cualquier tipo de animal muerto.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-III. GRUPO TRES, DE TREINTA A CINCUENTA LAS (sic) DE SALARIO MÍNIMO GENERAL VIGENTE EN LA ENTIDAD:
+d) Depositar muebles o cualquier otro tipo de objeto que rebase la capacidad de los contenedores para residuos sólidos urbanos, así como cualquier tipo de animal muerto.
 
-a) Por arrojar en lotes baldíos o en los contenedores, residuos procedentes de jardines o huertas o cualquier otro desecho que afecte el ambiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
-b) Por cualquier tipo de daño o destrucción de los recipientes para depósito de basura y/o para residuos sólidos domésticos que coloque o mande colocar la Dirección de Limpia y Aseo Público, así como los que hayan sido instalados por particulares.
+III. GRUPO TRES, DE TREINTA A CINCUENTA DÍAS LAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
 
-IV. GRUPO CUATRO, DE CINCUENTA A CIEN DÍAS DE SALARIO MÍNIMO GENERAL VIGENTE EN LA ENTIDAD:
+a) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-a) Por no asear y en su caso lavar la vía pública, si con motivo de la carga o descarga de la venta o consumo inmediato de productos llegarán a ensuciarla.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-b) Por la diseminación del producto o residuos transportados en la vía pública.
+b) Por cualquier tipo de daño o destrucción de los recipientes para depósito de basura y/o para residuos sólidos urbanos que coloque o mande colocar el Municipio, o hayan sido instalados por particulares; y
 
-c) Por no colocar recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos generados por la actividad de establecimientos comerciales o industriales.
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+c) Por no asear y en su caso lavar la vía pública, si con motivo de la carga o descarga de la venta o consumo inmediato de productos, llegaran a ensuciarla.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+
+IV. GRUPO CUATRO, DE CINCUENTA A DOSCIENTOS DIAS DESALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+
+a) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+
+b) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+c) Por no colocar recipientes adecuados en capacidad y ubicación para el depósito temporal de residuos generados por la actividad de establecimientos comerciales, industriales y de servicios.
 
 d) Por no entregar los residuos sólidos que generen, a los sitios autorizados por la Dirección en los casos del inciso anterior.
 
-e) Por depositar en los contenedores, desechos de los llamados hospitalarios, que deben incinerarse de conformidad con las normas establecidas en la ley competente o aquellos que no son incinerables y que deben ser entregados a las instancias correspondientes para su confinamiento.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+e) Por depositar en los contenedores residuos peligrosos biológico infecciosos;
 
 f) Quemar el contenido de los contenedores colocados en la vía pública.
 
-g) Usar como combustible cualquier tipo de material de desecho que genere deterioro ambiental y/o que a partir de su utilización genere algún otro tipo de desecho inadmisible en los contenedores para desechos domésticos.
+g) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-h) Depositar cualquier tipo de desecho líquido o de índole diferente a la doméstica, en los contenedores para desechos sólidos domésticos.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+h) Depositar cualquier tipo de residuo diferente a los sólidos urbanos en los contenedores municipales;
 
 i) A los organizadores de espectáculos públicos, por no mantener limpia el área mínima autorizada, comprendiendo también los alrededores que por causa de la actividad autorizada se vean afectados.
 
-j) Por no respetar los horarios y rutas que por su actividad o tipo de desecho que manejen los establecimientos comerciales o industriales, le señale la Dirección de Limpia y Aseo Público.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+j) Por no respetar los horarios y rutas que le señale la autoridad municipal.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+k) Por sacrificar o comercializar carne sin haber cubierto los derechos correspondientes o sin permiso, fuera del Rastro Municipal, independientemente del pago de impuestos que establezca la Ley de Ingresos del Municipio de Aguascalientes;
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+l) Por profanar fosas en los cementerios, independientemente de su consignación al Ministerio Público y el pago de los daños causados; y
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+m) Por extraer agua de la red de agua potable sin el permiso o autorización correspondiente.
 
 En caso de reincidencia se aplicará hasta el doble del máximo de la sanción correspondiente. Para los efectos de estas sanciones se considera reincidente a aquella persona que habiendo sido sancionada por cometer las infracciones señaladas, viole nuevamente la misma disposición en el transcurso de seis meses.
 
@@ -21975,17 +22413,17 @@ En caso de que la prestación del servicio de limpia y recolección de residuos 
 
 Cuando el infractor sea persona moral, no estará exento de pago ni recibirá descuento alguno por las multas establecidas en este Código.
 
-V. SANCIÓN DE SEIS A TREINTA DÍAS DE SALARIO MÍNIMO:
+V. (DEROGADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)
 
-a) Por sacrificar o comercializar carne sin haber cubierto los derechos correspondientes o sin permiso, fuera del Rastro Municipal, independientemente del pago de impuestos que establezca la Ley de Ingresos del Municipio de Aguascalientes.
+a) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-b) En caso de reincidencia, quienes comercialicen carne sin cubrir los derechos correspondientes o sacrifiquen fuera del Rastro Municipal, sin el permiso correspondiente.
+b) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-c) Por profanar fosas en los cementerios, independientemente de su consignación al Ministerio Público y el pago de los daños causados.
+c) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-d) Falta de medidor en la toma de agua por no haberla legalizado.
+d) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-e) Utilización de agua sin el pago correspondiente en la construcción de barda, casa habitación, edificio, entre otros, así como tener una toma de agua clandestina.
+e) (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -22007,11 +22445,11 @@ III.- Clausura temporal o definitiva, total o parcial de los establecimientos, i
 
 IV.- Suspensión de actividades y revocación de los permisos, licencias o autorizaciones que en su caso correspondan en materia del presente ordenamiento.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 1574
 
-3.- Los casos de reincidencia, criterios de calificación de la sanción, gravedad de la conducta y demás disposiciones relativas a la imposición de las sanciones administrativas por violación a las disposiciones que en materia ambiental establezca el presente ordenamiento, será facultad exclusiva de la Secretaría del Medio Ambiente y Desarrollo Sustentable.
+3.- Los casos de reincidencia, criterios de calificación de la sanción, gravedad de la conducta y demás disposiciones relativas a la imposición de las sanciones administrativas por violación a las disposiciones que en materia de servicios públicos municipales establezca el presente ordenamiento, será facultad exclusiva de la Secretaría de Servicios Públicos y en el caso del servicio de agua potable y alcantarillado, será competencia del organismo municipal rector de dicho servicio.
 
 ### CAPÍTULO III. De las Sanciones en Materia de Construcción
 
@@ -22337,7 +22775,9 @@ En los casos de suspensión, cancelación de la licencia de funcionamiento de un
 
 Para efectos de la aplicación de sanciones, empresarios y ganaderos son solidariamente responsables de que las reses de lidia cumplan los requisitos establecidos en el libro Octavo del presente Código.
 
-### CAPÍTULO I. Del Recurso de Revisión
+### CAPÍTULO VIII. De las Sanciones en Materia Ambiental
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 1594.
 
@@ -22419,9 +22859,67 @@ Cuando se trate de locales o puestos que se encuentren sin operar por más de tr
 
 Se procederá a la reubicación del comerciante, cuando la estructura del puesto o establecimiento, remolque o vehículo contamine la imagen de la Ciudad, pero acorde a lo establecido en el artículo 1384 de este Código.
 
-### CAPÍTULO II. De la Suspensión del Acto
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO I. Del Recurso de Revisión
+
+###### ARTÍCULO 1601
+
+1.- Además de las establecidas en el presente ordenamiento, serán sancionadas en materia ambiental, las personas físicas o morales que lleven a cabo las siguientes actividades:
+
+I. MULTA DE TRES A DIEZ DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+
+a) Por no recoger las heces fecales de sus mascotas cuando sean arrojadas en vía pública, áreas verdes, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
+
+II. MULTA DE DIEZ A TREINTA DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+
+a) Por incumplir con las medidas de seguridad establecidas en la autorización para la quema al aire libre.
+
+III. MULTA DE TREINTA A CINCUENTA DÍAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+
+a) Por depositar en el relleno sanitario residuos sólidos urbanos o de manejo especial sin contar con la autorización del Municipio;
+
+b) Por no presentar los manifiestos de entrega, transporte y recepción con el sello y firma del encargado del relleno sanitario en los términos previstos en el presente Código;
+
+c) Por incumplir con las condiciones establecidas en el permiso ambiental de funcionamiento;
+
+d) Por producir emisiones de energía térmica, lumínica, radiaciones ionizantes electromagnéticas; así como ruido, vibraciones y olores perjudiciales al ambiente o a la salud en contravención de las Normas Oficiales vigentes y las disposiciones legales correspondientes.
+
+IV. MULTA DE CINCUENTA A CIEN DIAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+
+a) Por descargar, depositar, enterrar o infiltrar residuos sólidos urbanos dentro del territorio municipal, sin contar con la autorización municipal correspondiente;
+
+b) Por emitir las fuentes fijas de competencia municipal, contaminantes a la atmósfera, superando los límites máximos permisibles establecidos en las normas oficiales mexicanas correspondientes;
+
+c) Por realizar quemas al aire libre de cualquier material o residuo, sólido o líquido, sin contar con la autorización municipal correspondiente;
+
+d) No contar las fuentes fijas de competencia municipal, con ductos o chimeneas que canalicen sus emisiones a la atmósfera;
+
+e) Por no informar a la SEMADESU, o hacerlo fuera el término previsto en este Código, respecto de la falla del equipo de control de las emisiones contaminantes a la atmósfera;
+
+f) Por tirar escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales que no sean residuos peligros y otros similares, en lugares no autorizados por la SEMADESU;
+
+g) Por realizar espectáculos públicos, eventos artísticos, tradicionales, deportivos, festividades cívicas, ferias, verbenas, eventos especiales y actividades culturales y/o religiosas sin autorización por parte de la SEMADESU.
+
+V. MULTA DE CIEN A DIEZ MIL DÍAS DE SALARIO MINIMO GENERAL VIGENTE EN LA ENTIDAD:
+
+a) Por ubicarse en las instalaciones del relleno sanitario y pretender introducir residuos peligrosos;
+
+b) Usar como combustible cualquier tipo de material de desecho que genere deterioro ambiental y/o que a partir de su utilización genere algún otro tipo de desecho inadmisible en los contenedores para desechos domésticos;
+
+c) Por realizar actividades comerciales, industriales o de servicios sin contar con el permiso ambiental de funcionamiento;
+
+d) Por almacenar escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales y otros similares, provenientes de terceros, en lugares no autorizados por la SEMADESU;
+
+e) Por tirar escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales y otros similares, dentro de los cauces y su zona federal que han sido dados en custodia al Municipio, en terrenos diversos a los forestales, áreas de conservación y zonas de preservación ecológica establecidas en el Programa de Desarrollo Urbano, sitios RAMSAR, áreas prioritarias para la conservación, áreas de importancia para la conservación de las aves (AICA), así como aquellas que dañen la imagen urbana o el paisaje natural, sin contar con la autorización de la SEMADESU.
+
+VI. SUSPENSIÓN DE ACTIVIDADES
+
+a) Por no contar con el permiso ambiental de funcionamiento.
 
 ## TITULO QUINTO. DEL RECURSO
+
+### CAPÍTULO II. De la Suspensión del Acto
 
 ###### ARTÍCULO 1602.
 
@@ -23406,3 +23904,27 @@ P.O. 4 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DE LA “ADICIÓN DEL ARTÍCULO 1156 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 Único. La presente adición al Código Municipal de Aguascalientes entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DICTAMEN QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+Único.- Las presentes reformas al Código Municipal de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DICTAMEN QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 330, POR EL QUE "SE REFORMAN Y DEROGAN INCISOS DEL ARTÍCULO 1156 BIS, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+Único.- La presente reforma al Código Municipal de Aguascalientes entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA DE LOS ARTÍCULOS 637, 639 Y 643 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma al Código Municipal de Aguascalientes entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
