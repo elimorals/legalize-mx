@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2014-11-17"
+last_updated: "2016-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -69,9 +69,11 @@ Las disposiciones de éste Reglamento tendrán aplicación en todas las vías p�
 
 El Presidente Municipal es la Autoridad con atribuciones para ordenar la aplicación de las medidas necesarias para el debido cumplimiento del presente Reglamento, delegando tales atribuciones en persona determinada o Dependencia Municipal que designe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 5.
 
-Para los efectos de éste reglamento se entenderá por:
+Para los efectos de este reglamento se entenderá por:
 
 Automóvil.- Se dice principalmente de los vehículos que pueden ser guiados para marchar por una vía ordinaria y llevan un motor, generalmente de explosión, que los pone en movimiento.
 
@@ -172,6 +174,22 @@ Zona Escolar.- Zona de la vía situada frente a un establecimiento de enseñanza
 Zona Privada con Acceso del Público.- Los Estacionamientos Públicos o Privados, así mismo todo lugar privado en donde se realice tránsito de personas, semovientes o vehículos.
 
 Zona Urbana.- Áreas o centros poblados dentro de la zona geográfica de un municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+Dispositivos para el control del Tránsito y Seguridad Vial.- Los medios físicos empleados para regular y guiar el Tránsito de vehículos, peatones y semovientes, tales como los semáforos, señalamientos, marcas, reductores de velocidad, medios electrónicos, instrumentos de innovación tecnológica, programas y otros similares.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+Dispositivos tecnológicos para regular el tránsito.- Aquellos mecanismos electromecánicos que sirven para regular y dirigir el tránsito de vehículos y peatones.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+Cuota de Sanción.- es la Unidad de Medida y Actualización (UMA), es la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en las disposiciones federales, estatales y municipales, de las entidades federativas y del Distrito Federal, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+El valor mensual de la UMA se calcula multiplicando su valor diario por 30.4 veces y su valor anual se calcula multiplicando su valor mensual por 12.
 
 Los términos que no estén contenidos en el presente artículo y que la Autoridad Municipal, o las dependencias correspondientes apliquen, se entenderán definidos en los términos que señalen las leyes, reglamentos, normas oficiales mexicanas y, en su caso, las definiciones derivadas de instrumentos internacionales ratificados por el Gobierno Mexicano.
 
@@ -313,9 +331,19 @@ IX. Para remolques de todo tipo.
 
 X. Para vehículos para personas con capacidades diferenciadas.
 
-###### ARTÍCULO 13.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
-Las placas deberán conservarse siempre limpias, sin alteraciones, ni mutilaciones, debiendo colocarse una en la parte frontal exterior del vehículo en el área provista por el fabricante, y la otra en la parte posterior exterior del vehículo. Ambas placas deberán estar siempre visibles para que su lectura sea clara y sin confusión, debiendo estar fijas al vehículo para evitar su robo o caída. En caso de no existir un área provista por el fabricante para la colocación de la placa, ésta se colocará en el área central de la defensa posterior o frontal exterior, según sea el caso. Para los vehículos que se les expida solo una placa, ésta deberá colocarse en la parte trasera del vehículo.
+###### ARTICULO 13.
+
+Las placas deberán conservarse libres de obstáculos, en buen estado de conservación, sin alteraciones, ni mutilaciones y libres de objetos distintivos, de rótulos, micas obscuras, sistemas anti-radares o detector de radares de velocidad salvo que estos estén incorporados o sean de (sic) incorporados de fabrica, dobleces, remaches, porta placas luminosos, opaco o cualquier alteración que dificulte o impida su visibilidad. Ambas placas deberán estar siempre visibles para que su lectura sea clara y sin confusión, debiendo estar fijas al vehículo para evitar su robo o caída.
+
+(ADICONADO, P.O. 11 DE ABRIL DE 2016)
+
+Se prohíbe remachar, soldar, modificar la forma de las placas de circulación o colocar en lugar de estas, objetos o dispositivos decorativos.
+
+(ADICONADO, P.O. 11 DE ABRIL DE 2016)
+
+Las placas deberán colocarse una en la parte frontal exterior del vehículo en el área provista por el fabricante, y la otra en la parte posterior exterior del vehículo. En caso de no existir un área provista por el fabricante para la colocación de la placa, ésta se colocará en el área central de la defensa posterior o frontal exterior, según sea el caso. Para los vehículos que se les expida solo una placa, ésta deberá colocarse en la parte trasera del vehículo.
 
 ###### ARTÍCULO 14.
 
@@ -557,6 +585,10 @@ VII. Artículos u objetos que impidan u obstaculicen la visibilidad del conducto
 
 VIII. Mofles directos, rotos o que emitan un ruido excesivo.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+IX.- Utilizar antirradares o detector de radares en los vehículos, salvo que estos sean dispositivos incluidos en fábrica.
+
 ###### ARTÍCULO 27.
 
 El Presidente Municipal en coordinación con la Dependencia correspondiente determinará el sistema de revisión de los vehículos que circulen en el Municipio.
@@ -721,6 +753,14 @@ XVI. Reducir la velocidad ante cualquier concentración de peatones y/o vehícul
 
 XVII. El uso de teléfonos celulares que no posean manos libres, y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XVIII.- Respetar los límites de velocidad establecidos para las vías públicas mediante los señalamientos respectivos y lo establecido en el Artículo 41 de este Reglamento.
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XIX.- Respetar la luz roja del semáforo;
+
 ### CAPÍTULO OCTAVO. DE LAS PROHIBICIONES A LOS CONDUCTORES DE VEHÍCULOS
 
 ###### ARTÍCULO 40.
@@ -801,9 +841,17 @@ XXXII. Dar vuelta en “U” por los carriles exclusivos de transporte público 
 
 XXXIII. Dar vuelta a la izquierda por los carriles exclusivos de transporte público de pasajeros, a excepción de aquellas que están controladas por semáforo.
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
 
-XXXIV. El uso de los teléfonos celulares sin manos libres y de cualesquier otro dispositivo móvil o fijo derivado del uso de las nuevas tecnologías de la información y comunicación.
+XXXIV.- Utilizar teléfonos celulares u objetos que dificulten la conducción como lo son los dispositivos móviles o fijos derivados del uso de las nuevas tecnologías de la información y comunicación;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XXXV.- Invadir los pasos peatonales marcados con rayas para cruces de las vías públicas, así como en las intersecciones con las mismas;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XXXVI.- Dar vuelta en ubicaciones donde por el señalamiento existente, esta acción no esté permitida.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
@@ -1797,19 +1845,49 @@ VI. Determinar si las lesiones ponen en peligro la vida, si tardan más o menos 
 
 VII. Nombre, domicilio, número de cédula profesional y firma de quien atendió al lesionado.
 
-### CAPÍTULO DÉCIMO SEXTO (SIC). DE LOS SEGUROS, FLOTILLAS Y FIANZAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO DÉCIMO SEXTO (SIC). DE LOS ACCIDENTES, SEGUROS, FLOTILLAS Y FIANZAS
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 118.
 
 Todos los vehículos de motor que circulen dentro de la ciudad deben estar asegurados por daños a terceros en sus bienes y/o personas con póliza vigente expedida por una Compañía de Seguros autorizada por la Comisión Nacional de Seguros y Fianzas.
 
-### CAPÍTULO DÉCIMO OCTAVO. DEL PROCEDIMIENTO CONCILIATORIO
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+Es obligatorio para las Compañías de Seguros o sus ajustadores dar aviso inmediato a la Autoridad Municipal de todo accidente que atiendan en el lugar de los hechos o fuera del mismo y que haya ocurrido dentro del Municipio cuando su asegurado no presente constancia de aviso a la misma, debiendo aparecer siempre en su reporte o declaración de siniestro o accidente el número con el que el hecho fue registrado con la Autoridad Municipal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO DÉCIMO SÉPTIMO. DE LOS DISPOSITIVOS TECNOLÓGICOS ESPECIALIZADOS
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 119.
 
-Es obligatorio para las Compañías de Seguros o sus ajustadores dar aviso inmediato a la Autoridad Municipal de todo accidente que atiendan en el lugar de los hechos o fuera del mismo y que haya ocurrido dentro del Municipio cuando su asegurado no presente constancia de aviso a la misma, debiendo aparecer siempre en su reporte o declaración de siniestro o accidente el número con que el hecho fue registrado con la Autoridad Municipal.
+Las autoridades en la materia, podrán hacer uso por sí o a través de terceros de dispositivos o medios tecnológicos que coadyuven con la detección de la comisión de infracciones y la identificación de las personas que las cometan.
 
-### CAPÍTULO DÉCIMO NOVENO. DE LAS EMPRESAS Y PERSONAS QUE SE DEDIQUEN A LA COMPRAVENTA, REPARACIÓN Y/O TRASLADO DE VEHÍCULOS
+La información obtenida mediante el uso de dispositivos tecnológicos, únicamente podrá ser utilizada para la sanción de infracciones descritas en el presente Reglamento; su uso y manejo será exclusivo de la Secretaría de Seguridad Pública y Tránsito, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 119 BIS.- Los dispositivos tecnológicos servirán a las autoridades viales, para evidenciar los siguientes supuestos:
+
+I.- La mecánica de sucesos en caso de hechos de tránsito;
+
+II.- La velocidad superior a la máxima permitida para un vehículo;
+
+III.- Falta de observancia a la señalización vial;
+
+IV.- Cualquier otra contravención a lo dispuesto en el presente Reglamento.
+
+Las infracciones impuestas por los agentes viales y que previamente hayan sido corroboradas mediante dispositivos y medios tecnológicos tienen el carácter de irrevocables, previo cumplimiento de los requisitos establecidos en la Ley y este Reglamento.
+
+Para los efectos del presente Capítulo, el titular de la Secretaría instruirá se integre una base de información que contendrá los datos de identificación de los infractores, para efectos del cobro de las multas señaladas en el párrafo anterior.
+
+### CAPÍTULO DÉCIMO OCTAVO. DEL PROCEDIMIENTO CONCILIATORIO
 
 ###### ARTÍCULO 120.
 
@@ -1835,7 +1913,7 @@ En la Audiencia las partes señalarán claramente los puntos esenciales de contr
 
 Si las partes en la Audiencia conciliatoria llegan a una solución, ésta se formalizará mediante convenio que se firmará por los que hallan (sic) asistido. En caso de no llegarse a un acuerdo o que se halla (sic) incumplido con el convenio llevado a cabo, se informará a las partes que para dirimir la controversia deberán ejercitar la Acción Penal o Civil que corresponda.
 
-### CAPÍTULO VIGÉSIMO. DE LAS ATRIBUCIONES DE LA AUTORIDAD MUNICIPAL
+### CAPÍTULO DÉCIMO NOVENO. DE LAS EMPRESAS Y PERSONAS QUE SE DEDIQUEN A LA COMPRAVENTA, REPARACIÓN Y/O TRASLADO DE VEHÍCULOS
 
 ###### ARTÍCULO 126.
 
@@ -1853,7 +1931,7 @@ C) Marca, tipo y color del vehículo.
 
 D) Daños que presenta.
 
-### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS SANCIONES
+### CAPÍTULO VIGÉSIMO. DE LAS ATRIBUCIONES DE LA AUTORIDAD MUNICIPAL
 
 ###### ARTÍCULO 127.
 
@@ -2027,7 +2105,7 @@ IV. Por falta de taxímetro, no usarlo, o traerlo en mal estado.
 
 En los casos de retiro de vehículos de la circulación o de la vía pública, para la devolución de un vehículo será indispensable la comprobación de su propiedad o legal posesión y el pago previo de las multas y derechos que procedan.
 
-### CAPÍTULO VIGÉSIMO SEGUNDO. DE LA INCONFORMIDAD DE PARTICULARES
+### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS SANCIONES
 
 ###### ARTÍCULO 135.
 
@@ -2301,7 +2379,7 @@ Y así mismo demuestre haber cumplido con la sanción en su caso, solicite y rea
 
 Las multas impuestas de conformidad con el presente Reglamento, serán consideradas crédito fiscal, y por consiguiente podrán ser exigidas mediante el procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado.
 
-### CAPÍTULO VIGÉSIMO TERCERO. PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+### CAPÍTULO VIGÉSIMO SEGUNDO. DE LA INCONFORMIDAD DE PARTICULARES
 
 ###### ARTÍCULO 146.
 
@@ -2314,6 +2392,8 @@ Si la inconformidad es derivada de la determinación de responsabilidad en algú
 ###### ARTÍCULO 148.
 
 Una vez analizadas las pruebas ofrecidas se dictará la resolución correspondiente, la cual no admitirá recurso alguno, debiéndose estar en todo caso a lo establecido en el Artículo anterior.
+
+### CAPÍTULO VIGÉSIMO TERCERO. PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
 ###### ARTÍCULO 149.
 
@@ -2400,3 +2480,11 @@ P.O. 17 DE NOVIEMBRE DE 2014.
 Artículo Primero.- Las presentes reformas al Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Articulo Segundo.- Los procedimientos administrativos iniciados con anterioridad, continuaran hasta su conclusión conforme a las normas vigentes al momento de su inicio.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 10 DE MARZO DE 2016, SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN".]
+
+Primero.- Las presentes reformas y modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes reformas y modificaciones.
