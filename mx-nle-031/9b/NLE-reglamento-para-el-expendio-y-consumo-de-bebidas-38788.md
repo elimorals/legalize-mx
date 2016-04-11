@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-expendio-y-consumo-de-bebidas-38788"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-31"
-last_updated: "2013-07-10"
+last_updated: "2016-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "NLE"
 
 REGLAMENTO PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE JUÁREZ, NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE JUÁREZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ACUERDO NO. 05 DEL REGLAMENTO PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE JUÁREZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de marzo de 2004.
 
@@ -407,9 +407,9 @@ X. Por incumplimiento a lo dispuesto por el artículo 19 fracción (sic) III, V,
 
 XI. Por incumplimiento a lo dispuesto por el artículo 19 fracción I, multa de 20 a 100 cuotas. En caso de reincidencia se duplicará el monto de la multa impuesta previamente;
 
-XII. Por incumplimiento a lo dispuesto por el artículo 19 fracción VIII, tratamiento. En caso de reincidencia, los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia, deberán acompañar al infractor al tratamiento; y (sic)
+XII. Por incumplimiento a lo dispuesto por el artículo 19 fracción VIII, tratamiento. En caso de reincidencia, los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia, deberán acompañar al infractor al tratamiento; y
 
-XIII. Por incumplimiento a lo dispuesto por el artículo 19 fracción XI, tratamiento. En caso de reincidencia, los padres, tutores, quines (sic) ejerzan la patria potestad o tengan la custodia, deberán acompañar al infractor al tratamiento; y (sic)
+XIII. Por incumplimiento a lo dispuesto por el artículo 19 fracción XI, tratamiento. En caso de reincidencia, los padres, tutores, quines (sic) ejerzan la patria potestad o tengan la custodia, deberán acompañar al infractor al tratamiento; y
 
 XIV. Por incumplimiento a lo dispuesto por los artículos 17 y 19 fracción IX, en el caso de ser servidores públicos, se tendrá a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de Nuevo León;
 
@@ -883,7 +883,7 @@ C. ERIKA VICTORIA LOBATON TAMEZ
 
 SINDICO SEGUNDO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 6 DE DICIEMBRE DE 2010.
 
@@ -898,3 +898,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se abroga el Reglamento para el Expendio y Consumo de Bebidas Alcohólicas del Municipio de Juárez, Nuevo León que fuera aprobado mediante Sesión Extraordinaria de fecha 19 de Marzo del año 2004, así como todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas y adiciones.
 
 TERCERO.- Gírense las Instrucciones al Ciudadano Presidente Municipal y al Ciudadano Secretario del R. Ayuntamiento para su publicación en el Periódico Oficial del Estado y se le dé el debido cumplimiento.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 17 DE MARZO DE 2016, SE APRUEBA Y AUTORIZA EL DICTAMEN RELATIVO A LA ABROGACIÓN DEL REGLAMENTO PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE JUÁREZ, N.L. Y SE APRUEBA EL REGLAMENTO PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE JUÁREZ, NUEVO LEÓN".]
+
+PRIMERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal de Juárez Nuevo León.
+
+SEGUNDO: Quedan sin efecto las disposiciones, circulares, normativas y demás disposiciones jurídicas que se contrapongan con el presente reglamento.
+
+TERCERO: Gírense las instrucciones al ciudadano Presidente Municipal y a la ciudadana Secretaria del R. Ayuntamiento, para su publicación en el Periódico Oficial del Estado y se le dé el debido cumplimiento.
