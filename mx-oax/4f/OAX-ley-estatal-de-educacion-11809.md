@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-educacion-11809"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-09"
-last_updated: "2009-11-07"
+last_updated: "2016-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "OAX"
 
 (NOTA: EL 24 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 38/2014, DECLARÓ FUNDADA LA PRESENTE CONTROVERSIA CONSTITUCIONAL, EN CONTRA DE LA OMISIÓN LEGISLATIVA DE LOS PODERES EJECUTIVO Y LEGISLATIVO DEL ESTADO DE OAXACA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE OAXACA QUE INICIA EL QUINCE DE NOVIEMBRE DE DOS MIL QUINCE, LA CUAL SURTIÓ EFECTOS EL 24 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-LEY ESTATAL DE EDUCACION
+LEY ESTATAL DE EDUCACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA, PUBLICADA EN EL P.O. DE 11 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 9 de noviembre de 1995.
 
@@ -1100,3 +1102,33 @@ P.O. 31 DE MARZO DE 2007.
 P.O. 7 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1937.- MEDIANTE EL CUAL APRUEBA LA LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley Estatal de Educación publicada en el Periódico Oficial del Estado, de fecha 9 de noviembre de 1995.
+
+TERCERO. En lo que no se opongan a la presente Ley seguirán aplicándose las disposiciones reglamentarias vigentes a la fecha, en tanto se expidan los reglamentos que derivan de la presente ley.
+
+CUARTO. En un plazo no mayor de doce meses, contados a partir de la entrada en vigor de esta Ley, la Autoridad Educativa Estatal emitirá los lineamientos y reglamentos correspondientes.
+
+QUINTO. La Autoridad Educativa Estatal aprobará la estructura organizacional y funcional acorde a lo establecido en esta Ley, sin que dicha reestructuración implique recursos públicos adicionales al Presupuesto autorizado por la Federación.
+
+SEXTO. El Gobierno del Estado realizará las gestiones necesarias ante las autoridades competentes para la creación y financiamiento de las Licenciaturas en Educación Artística y la Licenciatura en Educación Inicial Comunitaria.
+
+SÉPTIMO. El Gobierno del Estado promoverá ante las autoridades competentes el reconocimiento, financiamiento, validación y regularización de las escuelas secundarias comunitarias de educación indígena ya existentes, así como la formación profesional de su personal.
+
+OCTAVO. El Gobierno del Estado realizará las gestiones necesarias para la obtención de los recursos financieros ante las autoridades competentes para el fortalecimiento de la Coordinación de Educación para Adultos.
+
+NOVENO. El Gobierno del Estado realizará las gestiones necesarias para la obtención de los recursos financieros ante las autoridades competentes para el fortalecimiento de la Dirección de Educación Física y su estructura administrativa estatal.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+DÉCIMO PRIMERO. El Gobierno del Estado realizará las gestiones necesarias ante la Federación para la asignación de los recursos financieros para estímulos por años de servicio a docentes, distintos a los ya establecidos.
+
+DÉCIMO SEGUNDO. El Gobierno del Estado realizará las gestiones necesarias ante las autoridades competentes para la creación y financiamiento del programa para la investigación y atención a los padecimientos psicológicos del personal docente.
+
+DÉCIMO TERCERO. El Gobierno del Estado realizará las gestiones necesarias ante las autoridades competentes, para asignar recursos financieros a las distintas obligaciones previstas en la presente Ley.
