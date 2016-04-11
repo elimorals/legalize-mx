@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-del-estado-de-oaxaca-11875"
 country: "mx"
 rank: "ley"
 publication_date: "1969-07-05"
-last_updated: "2013-12-09"
+last_updated: "2016-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE TRANSITO DEL ESTADO DE OAXACA
 
-LEY DE TRANSITO DEL ESTADO DE OAXACA
+LEY DE TRÁNSITO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 11 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 5 de Julio de 1969.
 
@@ -519,7 +521,7 @@ Las violaciones a las disposiciones de esta Ley y sus reglamentos, se sancionar�
 
 I.- Multa de 1 a 100 veces el monto del salario mínimo diario vigente en la zona correspondiente en el Estado.
 
-II.- Suspención de licencias para el manejo y tránsito de vehículos.
+II.- Supensión (sic) de licencias para el manejo y tránsito de vehículos.
 
 III.- Cancelación de licencias para el manejo y tránsito de vehículos.
 
@@ -656,3 +658,25 @@ En ningún caso, procederá la reposición de procedimientos, por la sola entrad
 NOVENO.- Los concesionarios deberán designar a sus beneficiarios en términos del artículo 97, dentro de los ciento ochenta días, contados a partir de la entrada en vigor de la presente Ley, con independencia de los resultados del programa referido en el párrafo anterior.
 
 DÉCIMO.- Dentro del plazo de doce meses contado a partir de la entrada en vigor de esta Ley, los titulares de más de una concesión, darán aviso a la Secretaría de su voluntad, en su caso, de transferir las concesiones excedentes, siempre que hayan cumplido con la antigüedad señalada en el artículo 98 y no se encuentren en los supuestos establecidos en el artículo 99, o para manifestar lo que a sus derechos convenga.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1801.- MEDIANTE EL CUAL APRUEBA LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Tránsito Reformada, publicada en el Periódico Oficial Órgano del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, con fecha 5 de julio de 1969.
+
+TERCERO. En tanto no se expida el Reglamento de la presente Ley, continuará en vigor, en lo que no se oponga, el Reglamento de la Ley de Tránsito Reformada del Estado de Oaxaca, publicado el 31 de marzo de 1973, en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO. Los actos jurídicos y administrativos suscritos por la Dirección de Tránsito del Estado, se entenderán que se refieren a la Dirección de la Policía Vial Estatal, de la Secretaria de Seguridad Pública, del Poder Ejecutivo del Estado de Oaxaca.
+
+QUINTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por el Director de Tránsito del Estado, los Sub-Directores, Delegados Foráneos de Tránsito y Agentes de Policía de Tránsito que por esta Ley cambian de denominación, se entenderán subrogadas y contraídas por el Director de la Policía Vial Estatal, los Coordinadores, Jefes Operativos y Policías Viales Estatales, de la Dirección de la Policía Vial Estatal, respectivamente.
+
+SEXTO. La Secretaria de Finanzas, la Secretaria de Seguridad Pública y la Secretaría de Administración, del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, en un plazo de 180 días, contados a partir de la entrada en vigencia de esta Ley, realizarán las adecuaciones administrativas, estructurales, programáticas y presupuestales, para el cumplimiento de la presente Ley.
+
+SÉPTIMO. El Gobernador del Estado, en el ejercicio de sus facultades expedirá dentro del plazo de noventa días, contados a partir de la entrada en vigor de esta Ley, la reglamentación necesaria para la operación de la misma.
+
+Hasta en tanto se expida el Reglamento de esta Ley, serán aplicables en lo conducente las disposiciones vigentes en la materia, en lo que no la contravengan.
+
+OCTAVO. Se derogan todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan a la presente Ley.
