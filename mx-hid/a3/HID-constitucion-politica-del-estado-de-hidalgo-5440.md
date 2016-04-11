@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2015-09-21"
+last_updated: "2016-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -2689,7 +2689,13 @@ En lo conducente, los ayuntamientos podrán expedir los reglamentos y disposicio
 
 XVIII. Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades federativas formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos planearán con la Federación y él o los otros Estados y sus municipios y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la Ley Federal de la materia, observando las normas vigentes en el Estado y
 
-XIX. Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
+
+XIX. Participar en el Sistema para la Profesionalización del Servicio Público Municipal, mediante la capacitación, evaluación y certificación de su personal, en los términos que establezca la Ley; y
+
+XX. Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -3744,3 +3750,11 @@ DECRETO NÚMERO 456, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 144, EL A
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas y adiciones de la Constitución Política del Estado de Hidalgo.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 649 QUE REFORMA LA FRACCIÓN XIX Y RECORRE LA SUBSECUENTE, QUE PASA A SER XX, DEL ARTÍCULO 141 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga cualquier disposición que se oponga al contenido del presente Decreto
