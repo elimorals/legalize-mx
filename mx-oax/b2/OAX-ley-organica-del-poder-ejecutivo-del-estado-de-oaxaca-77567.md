@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2015-12-31"
+last_updated: "2016-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -481,7 +481,9 @@ VII. Establecer y ordenar la ejecución de los programas permanentes para la vig
 
 VIII. Establecer y fomentar los mecanismos de participación ciudadana, para la formulación de los planes y programas de Seguridad Pública estatales;
 
-IX. Aplicar las normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos del Estado, así como, reglamentar lo conducente para las poblaciones, carreteras y caminos de jurisdicción estatal y proponer planes de mejora y reordenamiento viales y auxiliar a través de la Dirección de Transito a las autoridades de transporte en materia de vialidad;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+IX. Aplicar las normas técnicas y operativas para el tránsito de personas y vehículos en las vías públicas del Estado, así como, proponer planes de mejora y reordenamiento vial, auxiliando a las autoridades de transporte en materia de vialidad, a través de la Dirección de la Policía Vial Estatal;
 
 X. Elaborar y ejecutar los programas de reinserción social de los infractores sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte;
 
@@ -807,7 +809,9 @@ XXXV. Establecer la normatividad para elaborar, sin perjuicio de la competencia 
 
 XXXVI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la federación y los municipios;
 
-XXXVII. Coadyuvar en el cumplimiento cabal de la Ley de Tránsito del Estado y, en su caso, aplicar las sanciones establecidas, a través de la Dirección de Tránsito del Estado;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+
+XXXVII. Coadyuvar en el cumplimiento cabal de la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca y, en su caso, aplicar las sanciones establecidas, a través de la Dirección de la Policía Vial Estatal;
 
 XXXVIII. Promover la aplicación de nuevas tecnologías en los vehículos, señalización y equipamiento del transporte y la vialidad;
 
@@ -2249,7 +2253,7 @@ QUINTO. En todos los casos que por la aplicación de esta Ley se modifique la es
 
 SEXTO. Cuando una Unidad Administrativa se transfiera de una Dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental.
 
-SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de éste Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
+SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de este Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
 
 OCTAVO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por esta Ley cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativas.
 
@@ -2350,3 +2354,25 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Órgano de difusión oficial del Estado.
 
 SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 11 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1801.- MEDIANTE EL CUAL APRUEBA LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Tránsito Reformada, publicada en el Periódico Oficial Órgano del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, con fecha 5 de julio de 1969.
+
+TERCERO. En tanto no se expida el Reglamento de la presente Ley, continuará en vigor, en lo que no se oponga, el Reglamento de la Ley de Tránsito Reformada del Estado de Oaxaca, publicado el 31 de marzo de 1973, en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO. Los actos jurídicos y administrativos suscritos por la Dirección de Tránsito del Estado, se entenderán que se refieren a la Dirección de la Policía Vial Estatal, de la Secretaría de Segundad Pública, del Poder Ejecutivo del Estado de Oaxaca.
+
+QUINTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por el Director de Tránsito del Estado, los Sub-Directores, Delegados Foráneos de Tránsito y Agentes de Policía de Tránsito que por esta Ley cambian de denominación, se entenderán subrogadas y contraídas por el Director de la Policía Vial Estatal, los Coordinadores, Jefes Operativos y Policías Viales Estatales, de la Dirección de la Policía Vial Estatal, respectivamente.
+
+SEXTO. La Secretaría de Finanzas, la Secretaría de Seguridad Pública y la Secretaría de Administración, del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, en un plazo de 180 días, contados a partir de la entrada en vigencia de esta Ley, realizarán las adecuaciones administrativas, estructurales, programáticas y presupuestales, para el cumplimiento de la presente Ley.
+
+SÉPTIMO. El Gobernador del Estado, en el ejercicio de sus facultades expedirá dentro del plazo de noventa días, contados a partir de la entrada en vigor de esta Ley, la reglamentación necesaria para la operación de la misma.
+
+Hasta en tanto se expida el Reglamento de esta Ley, serán aplicables en lo conducente las disposiciones vigentes en la materia, en lo que no la contravengan.
+
+OCTAVO. Se derogan todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan a la presente Ley.
