@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2016-03-03"
+last_updated: "2016-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE FEBRERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 3 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE ABRIL DE 2016.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -645,11 +643,11 @@ Instalación y funcionamiento del Congreso.
 
 El Congreso del Estado se instalará el día 16 de septiembre del año de su elección.
 
-> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, B.O. 12 DE ABRIL DE 2016)</small>
 
 ###### Artículo 36.
 
-El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de las dos terceras partes del número total de sus miembros.
+El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de más de la mitad del número total de sus miembros.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -3457,7 +3455,15 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el computo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 062.- POR EL QUE SE ADICIONA UN ARTÍCULO 16 BIS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+B.O. 12 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 89, QUE REFORMA EL ARTÍCULO 36 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 066.- QUE CONTIENE REFORMAS Y DEROGACIONES A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL, PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
 
