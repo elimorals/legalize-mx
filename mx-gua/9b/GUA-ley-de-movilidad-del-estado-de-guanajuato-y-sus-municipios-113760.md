@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2016-03-18"
+last_updated: "2016-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 12 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ABRIL DE 2016.]</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -883,11 +883,15 @@ Los usuarios del servicio especial de transporte tendrán, en lo que resulte pro
 
 Acciones en materia de Equidad de Género
 
+> <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
+
 ###### Artículo 50.
 
-Las autoridades Estatales y Municipales en el ámbito de su competencia podrán establecer en las diferentes modalidades de transporte e infraestructura para la movilidad, los espacios, servicios, acciones, programas, y demás mecanismos de control y organización que resulten necesarios para coadyuvar en la equidad, seguridad, respeto, integridad y la libertad de desplazamiento de las mujeres, enfocado a la perspectiva de género.
+Las autoridades estatales y municipales en el ámbito de su competencia podrán establecer en las diferentes modalidades de transporte e infraestructura para la movilidad, los espacios, servicios, acciones, programas, y demás mecanismos de control y organización que resulten necesarios para coadyuvar en la equidad, seguridad, respeto, integridad y la libertad de desplazamiento de las mujeres, enfocado a la perspectiva de género.
 
-Para tal efecto se realizarán los acuerdos y acciones de coordinación correspondientes con el Instituto de la Mujer Guanajuatense y las áreas de seguridad pública estatal y municipal, a efecto de canalizar todas aquellas acciones que limiten los derechos de las mujeres y en general que impacten de forma negativa en la equidad de género.
+> <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
+
+Para tal efecto se realizarán los acuerdos y acciones de coordinación correspondientes con el Instituto para las Mujeres Guanajuatenses y las áreas de seguridad pública estatal y municipal, a efecto de canalizar todas aquellas acciones que limiten los derechos de las mujeres y en general que impacten de forma negativa en la equidad de género.
 
 ### Capítulo I. Registro vehicular
 
@@ -1899,9 +1903,11 @@ El Estado en todo tiempo, podrá introducir en los servicios de transporte las s
 
 Excepciones del servicio público
 
+> <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
+
 ###### Artículo 159.
 
-Queda exceptuado del servicio que regula este capítulo el transporte de carga cuando sea el propietario o el proveedor de la misma quien realiza el traslado o entrega de bienes o materiales; quedando sujeto a cumplir con las condiciones físico mecánicas de los vehículos necesarias para circular en los términos que al respecto establezcan la Ley de Tránsito y los reglamentos respectivos.
+Queda exceptuado del servicio que regula este capítulo el transporte de carga cuando sea el propietario o el proveedor de la misma quien realiza el traslado o entrega de bienes o materiales; quedando sujeto a cumplir con las condiciones físico mecánicas de los vehículos necesarias para circular en los términos que al respecto establezcan los reglamentos respectivos.
 
 Cambio de modalidad del servicio
 
@@ -2853,7 +2859,9 @@ La aplicación de la multa, se estará a lo establecido por el reglamento respec
 
 La multa aplicable por la prestación del servicio público de transporte y el servicio especial de transporte ejecutivo, sin contar con la concesión o el permiso correspondiente, será de doscientas a setecientas cincuenta veces la Unidad de Medida y Actualización, independientemente de las sanciones que correspondan por el delito cometido en su caso.
 
-Para el caso de que se sorprenda prestando el servicio especial de transporte sin contar con el permiso correspondiente se le aplicará una multa de cien a quinientas veces el salario mínimo general vigente en la entidad.
+> <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
+
+Para el caso de que se sorprenda prestando el servicio especial de transporte sin contar con el permiso correspondiente se le aplicará una multa de cien a quinientas veces la Unidad de Medida y Actualización.
 
 Pago de multa
 
@@ -3049,7 +3057,9 @@ Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan al pre
 
 Término para expedir reglamento de la Ley
 
-Artículo Cuarto. El Ejecutivo del Estado deberá expedir el Reglamento de la Ley, en un término de ciento ochenta días contados a partir de la entrada en vigencia del presente Decreto, en tanto se expide, se aplicará el Reglamento de Transporte de la Ley de Tránsito y Transporte del Estado en todo aquello que no se oponga al contenido de la presente Ley.
+> <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
+
+Artículo Cuarto. El Ejecutivo del Estado deberá expedir el Reglamento de la Ley, en un término de ciento ochenta días contados a partir de la entrada en vigencia del presente Decreto, en tanto se expide, se aplicarán los Reglamentos de Transporte y de Tránsito de la Ley de Tránsito y Transporte del Estado, en todo aquello que no se oponga al contenido de la presente Ley.
 
 Término para expedir la reglamentación municipal
 
@@ -3139,7 +3149,9 @@ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPOND
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a 14 de marzo de 2016.
+> <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
+
+Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a 17 de marzo de 2016.
 
 MIGUEL MÁRQUEZ MÁRQUEZ
 
