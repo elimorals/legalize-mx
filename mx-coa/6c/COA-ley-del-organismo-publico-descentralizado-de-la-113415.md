@@ -4,7 +4,7 @@ identifier: "COA-ley-del-organismo-publico-descentralizado-de-la-113415"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-19"
-last_updated: "2016-02-19"
+last_updated: "2016-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COA"
 ---
 # LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO "DIRECCION DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREON, COAHUILA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO “DIRECCIÓN DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ABRIL DE 2016.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de febrero de 2016.
 
@@ -291,7 +291,9 @@ V.- Firmar conjuntamente con el Presidente del Consejo o con el Director General
 
 VI.- Autorizar, en conjunto con el Director General de la Dirección de Pensiones, los préstamos quirografarios de acuerdo con el reglamento respectivo; y
 
-VI (SIC).- Los demás que determine esta Ley y los que en adición a los anteriores, le sean expresamente señalados por el Presidente del Consejo y por el Reglamento Interior de la Dirección de Pensiones.
+> <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
+
+VII.- Los demás que determine esta Ley y los que en adición a los anteriores, le sean expresamente señalados por el Presidente del Consejo y por el Reglamento Interior de la Dirección de Pensiones.
 
 ###### ARTÍCULO 25.
 
@@ -387,7 +389,9 @@ II.- Pensión por Vejez;
 
 III.- Pensión Anticipada por Retiro;
 
-VI (SIC).- Pensión por Incapacidad por Causas Ajenas al Servicio;
+> <small>(F. DE E., P.O. 12 DE ABRIL DE 2016)</small>
+
+IV.- Pensión por Incapacidad por Causas Ajenas al Servicio;
 
 V.- Pensión por Incapacidad por Riesgos de Trabajo;
 
