@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2016-02-05"
+last_updated: "2016-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA-
 
-LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -35,7 +35,9 @@ DECRETA:
 
 NÚMERO 370.-
 
-LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2016)</small>
+
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -320,6 +322,18 @@ VII. A la participación, por tanto, se reconoce que tienen derecho a:
 11. A contar con instalaciones e infraestructura inmobiliaria para su uso exclusivo; así como con establecimientos destinados al cuidado, atención, enseñanza y entretenimiento de las personas adultas mayores.
 
 VIII. A la denuncia popular, por lo que toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar ante los órganos competentes estatales o municipales, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas adultas mayores.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2016)</small>
+
+IX. Del Acceso a los Servicios:
+
+1. A tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público.
+
+2. Los servicios y establecimientos de uso público deberán implementar medidas para facilitar el uso y/o acceso adecuado.
+
+3. A contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
+
+4. Contar con un lugar preferente en las filas de bancos, tiendas de autoservicio y tiendas de conveniencia.
 
 ###### Artículo 11.
 
@@ -1304,3 +1318,11 @@ La presente iniciativa entrará en vigor el día siguiente al de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente decreto.
+
+P.O. 12 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 403.- SE MODIFICA LA DENOMINACIÓN DE LA LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA, POR EL DE LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA. ASIMISMO, SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 10 DE LA REFERIDA LEY”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
