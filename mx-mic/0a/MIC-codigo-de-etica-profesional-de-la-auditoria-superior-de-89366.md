@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-etica-profesional-de-la-auditoria-superior-de-89366"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-06"
-last_updated: "2012-09-06"
+last_updated: "2016-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MIC"
 
 CÓDIGO DE ÉTICA PROFESIONAL DE LA AUDITORÍA SUPERIOR DE MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DE MICHOACÁN, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016 (ABROGADO).
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 6 de septiembre de 2012.
 
@@ -195,3 +197,25 @@ En la ASM estamos comprometidos a trabajar con profesionalismo y transparencia; 
 "Obra siempre de modo que tu conducta pudiera servir de principio a una legislación universal"
 
 Emanuel Kant.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga El Código de Ética Profesional de la Auditoría Superior de Michoacán, publicado en el Periódico Oficial del Estado, el día 06 de septiembre del año 2012, en su quinta sección.
+
+###### ARTÍCULO TERCERO.
+
+La Auditoría Superior de Michoacán, deberá publicar en su página oficial web, el presente Código a efecto de ponerlo a disposición del personal de la Institución, obligados a su cumplimiento.
+
+###### ARTÍCULO CUARTO.
+
+Túrnese el presente Código a la Comisión Inspectora de la Auditoría Superior de Michoacán; y, a la Contraloría Interna del Congreso del Estado, para su conocimiento.
