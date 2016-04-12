@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-del-trabajo-y-74692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-15"
-last_updated: "2010-04-15"
+last_updated: "2016-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL, DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de abril de 2010.
 
@@ -560,3 +562,37 @@ SECRETARIO DE GOBIERNO.
 LIC. CARLOS RAFAEL HERNÁNDEZ BLANCO.
 
 SECRETARIO DEL TRABAJO Y PREVlSION SOCIAL.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, publicado en el Periódico Oficial del Estado de Quintana Roo, el 15 de Abril del 2010 y se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos pendientes al entrar en vigor el presente Reglamento y que conforme al mismo correspondían a otras unidades, deberán pasar de una unidad a otra y se resolverán y tramitarán por aquella unidad a la que se le haya atribuido la competencia conforme al presente instrumento y se harán cargo de los mismos hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+Cuando las facultades y obligaciones de alguna Unidad Administrativa a que se refiere este Reglamento deban de ser ejercidas por otra Unidad Administrativa conforme a lo estipulado en el mismo, los recursos humanos, financieros y materiales con que aquel contaba pasarán a esta última, de conformidad con el ámbito de sus facultades que a cada una corresponda.
+
+###### ARTÍCULO QUINTO.
+
+Los lineamientos, criterios, acuerdos, convenios, guías y demás instrumentos de carácter jurídico o administrativo que hayan sido expedidos con anterioridad al presente Reglamento, continuarán en vigor hasta en cuanto no se opongan a las disposiciones del presente ordenamiento o hasta en tanto no se modifiquen o deje (sic) sin efectos.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos, procedimientos administrativos y recursos, que al inicio de la vigencia del presente Reglamento estuvieren en trámite, se continuarán conforme a las disposiciones del Reglamento que se abroga, hasta la conclusión de los mismos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en este Reglamento se dé una denominación nueva o distinta a alguna Unidad Administrativa establecida con anterioridad a la vigencia del mismo, aquélla atenderá los asuntos a que se refiere este ordenamiento.
