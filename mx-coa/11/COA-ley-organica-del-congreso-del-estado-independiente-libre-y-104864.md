@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2015-11-13"
+last_updated: "2016-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -175,6 +175,10 @@ Desahogados los puntos anteriores, se levantará la sesión y se convocará para
 
 La presidencia de la mesa directiva determinará las fechas en que sesionará la nueva legislatura, para atender los demás asuntos que deberán desahogarse dentro del período de instalación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2016)</small>
+
+En caso de que quien presida la mesa directiva renuncie al cargo o sea removido por incapacidad médica o cualquier otro motivo antes de concluir su periodo, el Grupo Parlamentario al que pertenezca propondrá al Pleno del Congreso a quien deba suplirlo hasta concluir ese periodo. Cuando el Grupo Parlamentario no realice ninguna propuesta, la Junta de Gobierno realizará la propuesta correspondiente.
+
 ###### ARTÍCULO 16.
 
 Constituido legalmente el Congreso, la nueva legislatura emitirá un decreto que dé cuenta de su instalación y lo comunicará mediante oficio a los demás Poderes del Estado, a los Poderes de la Federación y a los de las Entidades Federativas.
@@ -231,9 +235,17 @@ VIII. Obtener designación por el Pleno, la Diputación Permanente o por la Comi
 
 IX. Orientar a las y los ciudadanos del Estado acerca de los medios jurídicos y administrativos tendientes a hacer efectivos sus derechos individuales o sociales;
 
-X. Contar con los apoyos administrativos y de asesoría, dietas, asignaciones, prestaciones, franquicias y viáticos que les permitan desempeñar con eficacia y dignidad su encargo, los cuales se fijarán en el presupuesto de egresos del Congreso del Estado y conforme a la posibilidad financiera del mismo; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2016)</small>
 
-XI. Solicitar al Pleno Legislativo licencia para separarse temporalmente del cargo.
+X. Contar con los apoyos administrativos y de asesoría, dietas, asignaciones, prestaciones, franquicias y viáticos que les permitan desempeñar con eficacia y dignidad su encargo, los cuales se fijarán en el presupuesto de egresos del Congreso del Estado y conforme a la posibilidad financiera del mismo;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2016)</small>
+
+XI. Solicitar al Pleno Legislativo licencia para separarse temporalmente del cargo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2016)</small>
+
+XII. Acceder a todos los documentos del Congreso del Estado, a las cuentas públicas de los sujetos obligados y a toda la información financiera que se presente ante la legislatura, sus comisiones y comités, sin restricción alguna, con excepción de aquella información en la que se deba guardar la debida reserva de acuerdo a los casos en que así lo disponga la Ley de Acceso a la Información pública y Protección de datos Personales o así lo haya determinado mediante el acuerdo de reserva correspondiente la autoridad competente y en su caso por así determinarlo la mesa directiva del congreso.
 
 ###### ARTÍCULO 22.
 
@@ -345,7 +357,9 @@ VIII. Por conclusión del plazo o circunstancia que motivó la suplencia.
 
 Las faltas definitivas de una o un Diputado, o las mayores a treinta días, serán cubiertas por quien sea su suplente, pero no asumirá los cargos que tuviere la o el Diputado a quien sustituye en la Mesa Directiva, en las comisiones o en los comités.
 
-Para la sustitución en dichos cargos, deberán efectuarse los trámites correspondientes a la nominación.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2016)</small>
+
+Para la sustitución en dichos cargos, deberán efectuarse los trámites correspondientes conforme a los artículos 15, 82 y 86 de la presente ley.
 
 ### CAPÍTULO IV. De las Sanciones
 
@@ -397,9 +411,15 @@ Las y los diputados que se encuentren en los supuestos a que se refiere este art
 
 Por no guardar la reserva de los asuntos que tengan este carácter, se impondrá a juicio de quien presida la Mesa Directiva, en razón de la información ventilada, desde amonestación por escrito hasta la disminución de la dieta.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2016)</small>
+
+Las Diputadas y Diputados en todo momento serán responsables de guardar la información que tenga el carácter de reservada, tomando en cuenta para ello, las sanciones señaladas en el primer párrafo de este articulo, así como, las establecidas en la Ley de la Materia.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 34.
 
-La o el Diputado contra quien se solicite la sanción disciplinaria, tendrá derecho a la garantía de audiencia y defensa, por sí mismo o a través de otra u otro Diputado.
+La o el Diputado contra quien se solicite la sanción disciplinaria, tendrá derecho a la garantía de audiencia y defensa, por sí mismo, a través de otra u otro Diputado o por medio de abogado profesional o persona de su confianza con conocimientos y experiencia en la materia de responsabilidades administrativas y procesos sancionadores.
 
 ###### ARTÍCULO 35.
 
@@ -437,15 +457,19 @@ La organización y funcionamiento de la Auditoría Superior del Estado estará r
 
 ### CAPÍTULO II. Del Pleno Legislativo
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 38.
 
-El Pleno Legislativo del Congreso del Estado es la Asamblea deliberante compuesta por la totalidad de las y los Diputados, la cual actúa en los términos y con las formalidades establecidas por la presente Ley y el Reglamento de Sesiones.
+El Pleno Legislativo del Congreso del Estado es la Asamblea deliberante compuesta por la totalidad de las y los Diputados, la cual actúa en los términos y con las formalidades establecidas por la presente Ley, el Reglamento de Prácticas Parlamentarias y demás disposiciones que a tal efecto determine la legislatura o aquellas que resulten aplicables.
 
 ###### ARTÍCULO 39.
 
 El Pleno Legislativo del Congreso del Estado sólo podrá ejercer sus funciones con la concurrencia de más de la mitad del número total de sus miembros.
 
-El Pleno Legislativo del Congreso, para el despacho oportuno de sus asuntos, deberá sesionar cuando menos dos veces por semana.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2016)</small>
+
+El Pleno Legislativo del Congreso, para el despacho oportuno de sus asuntos, deberá sesionar cuando menos dos veces por semana; ya sea en días distintos o en uno sólo, de acuerdo a la agenda legislativa y de trabajo del Pleno, y de las comisiones y comités.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -512,6 +536,14 @@ III. Dejar de asistir, reiteradamente y sin causa justificada, a las sesiones de
 ###### ARTÍCULO 46.
 
 Las y los integrantes de la Mesa Directiva podrán ser removidos cuando no observen las prescripciones de ley; para ello se requerirá que por lo menos la tercera parte del total de las y los diputados presentes lo solicite; que se dé intervención cuando menos a un orador en pro y a otro en contra; y que el Pleno apruebe el reemplazo por lo menos con las dos terceras partes de las y los diputados presentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2016)</small>
+
+Cuando ocurra la remoción por cualquier motivo de algún integrante de la mesa directiva o de la diputación permanente o éste renuncie en forma voluntaria antes de concluir el periodo para el que fue electo, el Grupo Parlamentario al que pertenezca propondrá al Pleno del Congreso a quien deba suplirlo hasta concluir ese periodo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2016)</small>
+
+Cuando el Grupo Parlamentario no realice ninguna propuesta, será la Junta de Gobierno quien proponga a quien deba sustituirlo.
 
 #### Sección Segunda. De la Presidencia de la Mesa Directiva
 
@@ -867,7 +899,9 @@ La programación de los trabajos legislativos, será formulada por la Junta de G
 
 La programación de los trabajos legislativos, tiene como objetivos:
 
-I. Establecer el programa legislativo de los períodos de sesiones, el calendario para su desahogo, la integración básica del orden del día de cada sesión y las formas que se observarán en los debates, discusiones y deliberaciones;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2016)</small>
+
+I. Establecer el programa legislativo de los períodos de sesiones, el calendario para su desahogo, la integración básica del orden del día de cada sesión y las formas que se observarán en los debates, discusiones y deliberaciones de conformidad a la presente ley y a los reglamentos respectivos.
 
 II. Proponer al Pleno los proyectos de Reglamentos que regirán la organización y funcionamiento de la Oficialía Mayor, la Tesorería, de las Direcciones Generales de Servicios Parlamentarios, de Servicios Administrativos y demás órganos y unidades administrativas, así como lo relativo al Servicio Civil de Carrera Parlamentaria, en los términos previstos en esta Ley; y
 
@@ -910,6 +944,10 @@ La coordinación de cada comisión corresponderá a la o el diputado electo en p
 ###### ARTÍCULO 87.
 
 Si una o un diputado se separa del Grupo Parlamentario al que pertenecía, quien coordine el propio Grupo podrá solicitar su sustitución en las Comisiones de que formaba parte, tomando en consideración lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2016)</small>
+
+Los grupos parlamentarios conservarán en todo momento las coordinaciones de las comisiones y comités que les fueron asignados, pudiendo proponer en caso de ausencia temporal o definitiva a quien deba suplir a estos, y de igual forma conservaran las posiciones que se tengan en cada comisión y comité, incluyendo las comisiones especiales.
 
 #### Sección Tercera. De la Competencia de las Comisiones
 
@@ -1525,6 +1563,10 @@ Las comisiones deberán sesionar cuando menos una vez por mes para despachar lo 
 
 El coordinador de la comisión, informará lo anterior a la Oficialía Mayor para la programación y realización de estas reuniones.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2016)</small>
+
+De manera previa a la celebración de las reuniones de las comisiones, los coordinadores deberán hacer llegar a los integrantes de la comisión respectiva los documentos, informes o material de apoyo relativo a los temas que serán tratados, de igual forma en caso de que algún integrante de la comisión desee que sea incluida dentro del orden del día alguna propuesta, debe hacer llegar con anticipación al coordinador.
+
 ###### ARTÍCULO 122.
 
 Las reuniones de las comisiones se celebrarán en la fecha señalada en la convocatoria respectiva, si se encuentran presentes más de la mitad de sus integrantes; si no se cumple con este quórum en un plazo máximo de una hora, contados a partir de la hora señalada en la convocatoria, la sesión no se llevará a cabo, debiéndose citar a una sesión subsecuente.
@@ -2007,6 +2049,10 @@ En el mismo periodo de sesiones no podrá volverse a presentar ningún proyecto 
 
 En caso de urgencia notoria u obvia resolución, así como cuando se considere procedente, por mayoría de votos de las y los diputados presentes, se podrán (sic) dispensar el trámite a que se refiere la fracción I del artículo 163 de esta ley, en cuyo caso se dará lectura a la iniciativa y se pasará directamente a su discusión.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2016)</small>
+
+La dispensa anterior no se concederá en ningún caso en que la urgencia necesaria no esté debidamente acreditada y justificada ante el Pleno.
+
 ###### ARTÍCULO 167.
 
 Las iniciativas de los diputados se presentarán a la o el Presidente de la Mesa Directiva, por lo menos veinticuatro horas antes de la sesión, por escrito y firmadas por su autor o autores.
@@ -2217,7 +2263,9 @@ En caso de que el proyecto se vote en lo general en sentido negativo se pregunta
 
 La discusión de los dictámenes con proyectos de ley o decreto en lo particular, implica la reserva de artículos determinados para su análisis.
 
-Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos incluidos en el proyecto y tendrán que presentarse por escrito durante la discusión del dictamen.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2016)</small>
+
+Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos y tendrán que presentarse por escrito durante la discusión del dictamen.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3036,6 +3084,22 @@ Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 13 DE NOVIEMBRE DE 2015.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 194.- SE REFORMA EL QUINTO PÁRRAFO DEL ARTÍCULO 129 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 402.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
