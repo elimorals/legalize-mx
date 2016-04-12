@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2014-03-21"
+last_updated: "2016-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ESTATAL DE EDUCACION DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA DE ZARAGOZA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 21 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -141,6 +141,10 @@ XIII. Fomentar la cultura de la transparencia y el acceso a la información; y
 
 XIV. Fomentar en el individuo la cultura de la informática y de una segunda lengua, sin menoscabo de la enseñanza del español.
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2016)</small>
+
+XV. Todas las escuelas sin excepción alguna incluirán en sus diversos programas de estudios el lenguaje no discriminatorio y con perspectiva de género, para que los educandos en cualquiera de sus niveles lo utilicen en los diversos ámbitos de su vida cotidiana y que esto permita el uso del mismo en todos los ámbitos sociales.
+
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
 ARTICULO 7° BIS.- El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan así como toda la educación preescolar, la primaria, la secundaria, media superior, la normal y demás para la formación de maestros de educación básica que los particulares impartan- se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno y:
@@ -241,7 +245,7 @@ III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestr
 
 Corresponden a la autoridad educativa estatal, de manera concurrente con la federación, las atribuciones que señala la Ley General de Educación y demás disposiciones aplicables.
 
-El Ejecutivo del Estado podrá celebrar con la Federación convenios para coordinar y unificar las actividades educativas a que se refiere este artículo en los términos establecidos en a Ley General de Educación.
+El Ejecutivo del Estado podrá celebrar con la Federación convenios para coordinar y unificar las actividades educativas a que se refiere este artículo en los términos establecidos en la Ley General de Educación.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -691,7 +695,13 @@ VI.- Formar al educando para el análisis crítico, científico y objetivo de la
 
 VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología para atender los requerimientos sociales; y
 
-VIII.- Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE ABRIL DE 2016)</small>
+
+VIII.- Apoyar al educando con talleres de orientación vocacional, implementados de modo sistemático, progresivo y permanente para que pueda escoger en el nivel superior la carrera o profesión que mejor se adapte a sus intereses, aptitudes y posibilidades de desarrollo.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2016)</small>
+
+IX.- Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad.
 
 ### CAPITULO IV. DE LAS ÁREAS DE APOYO
 
@@ -777,11 +787,17 @@ Este nivel educativo tendrá carácter propedeútico, terminal o bivalente. Ser�
 
 Se incluirá orientación a los padres o tutores y a los maestros y personal de las escuelas de educación media superior regulares que integren a los alumnos.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2016)</small>
+
+Además se implementaran talleres de orientación vocacional de forma permanente y progresiva para que el educando, llegado el momento, elija la carrera o profesión que sea más adecuada a su perfil, intereses y habilidades.
+
 ###### ARTICULO 51.
 
 El bachillerato tendrá las siguientes características y finalidades:
 
-I.- Desarrollar las habilidades necesarias para adquirir los conocimientos básicos de las ciencias, las humanidades, las tecnologías y para acceder a estudios superiores;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2016)</small>
+
+I.- Desarrollar las habilidades necesarias para adquirir los conocimientos básicos de las ciencias, las humanidades, las tecnologías y para acceder a estudios superiores con la orientación vocacional previa que le permita al alumno elegir la carrera profesional que mejor le acomode a su perfil, gustos y talentos.
 
 II.- Promover el uso de métodos adecuados como base para continuar la formación del alumno, ya sea en la educación superior o en el desempeño laboral, así como para la interpretación de la cultura de su tiempo;
 
@@ -1736,3 +1752,15 @@ TERCERO.- Las autoridades escolares de las instituciones educativas establecidas
 CUARTO.- Las instituciones educativas, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios que a la entrada en vigor de la presente Ley se encuentren con permiso de suspensión deberán realizar las acciones conducentes a fin de reanudar sus labores educativas y en su caso atender lo dispuesto por el artículo 80 Bis de la presente Ley.
 
 QUINTO.- El Estatuto deberá armonizar sus términos a lo establecido por la Ley General del Servicio Profesional Docente, dentro de los seis meses siguientes a la entrada en vigor de la presente reforma.
+
+P.O. 12 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 404.- SE RECORRE EL CONTENIDO DE LA FRACCIÓN VIII, A LA IX QUE SE CREA, DEL ARTÍCULO 42 Y SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN VIII DEL MISMO. SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 50, Y SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 51 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 405.- SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 7° DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
