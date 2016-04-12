@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-19-2014-de-la-comision-de-creacion-de-nuevos-10246
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-09-24"
-last_updated: "2014-09-24"
+last_updated: "2016-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2014-09-08"
 
 ACUERDO CCNO/19/2014, DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSIÓN TEMPORAL DEL TURNO DE NUEVOS ASUNTOS POR LA OFICINA DE CORRESPONDENCIA COMÚN A LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN EL ESTADO DE ZACATECAS, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE Y LA DISTRIBUCIÓN DE LOS EXPEDIENTES RADICADOS EN LOS MISMOS, ENTRE LOS ÓRGANOS JURISDICCIONALES DE LA ENTIDAD Y SEDE INDICADOS, ASÍ COMO A LA MODIFICACIÓN DE LAS GUARDIAS DE TURNO EN DÍAS Y HORAS INHÁBILES EN LOS PROPIOS JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO CCNO/3/2016, DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE LA EXCLUSIÓN TEMPORAL DEL TURNO DE NUEVOS ASUNTOS POR LA OFICINA DE CORRESPONDENCIA COMÚN A LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN EL ESTADO DE ZACATECAS, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE Y LA DISTRIBUCIÓN DE LOS EXPEDIENTES RADICADOS EN LOS ÓRGANOS JURISDICCIONALES DE LA ENTIDAD Y SEDE INDICADOS, ASÍ COMO A LA MODIFICACIÓN DE LAS GUARDIAS DE TURNO EN DÍAS Y HORAS INHÁBILES EN LOS PROPIOS JUZGADOS DE DISTRITO, PUBLICADO EN EL D.O.F. DE 12 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2016 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 24 de septiembre de 2014.
 
@@ -152,3 +154,17 @@ TERCERO. Los movimientos estadísticos originados con motivo del reparto de expe
 CUARTO. El calendario de guardias de turno para la recepción de asuntos en días y horas inhábiles en los Juzgados de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre, deberá actualizarse de conformidad con el presente acuerdo, en el “Sistema de turno de Guardias de los Juzgados de Distrito”, tanto en las páginas de intranet como internet del Consejo de la Judicatura Federal, por la Secretaría Ejecutiva del Pleno y de la Presidencia.
 
 EL MAGISTRADO EDWIN NOÉ GARCÍA BAEZA, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCIÓN Y CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/19/2014, de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, relativo a la exclusión temporal del turno de nuevos asuntos por la oficina de correspondencia común a los Juzgados Primero y Segundo de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre y la distribución de los expedientes radicados en los mismos, entre los órganos jurisdiccionales de la entidad y sede indicados, así como a la modificación de las guardias de turno en días y horas inhábiles en los propios juzgados de distrito, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el ocho de septiembre de dos mil catorce, por los señores Consejeros: Presidente en funciones César Esquinca Muñoa y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a ocho de septiembre de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO CCNO/3/2016, DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE LA EXCLUSIÓN TEMPORAL DEL TURNO DE NUEVOS ASUNTOS POR LA OFICINA DE CORRESPONDENCIA COMÚN A LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN EL ESTADO DE ZACATECAS, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE Y LA DISTRIBUCIÓN DE LOS EXPEDIENTES RADICADOS EN LOS ÓRGANOS JURISDICCIONALES DE LA ENTIDAD Y SEDE INDICADOS, ASÍ COMO A LA MODIFICACIÓN DE LAS GUARDIAS DE TURNO EN DÍAS Y HORAS INHÁBILES EN LOS PROPIOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Los movimientos estadísticos originados con motivo del reparto de expedientes, deberán informarse oportunamente a la Dirección General de Estadística Judicial del Consejo de la Judicatura Federal, remitiendo por separado el reporte estadístico mensual correspondiente.
+
+CUARTO. Se abroga el Acuerdo CCNO/19/2014 de la Comisión de Creación de Nuevos Órganos, relativo a la exclusión temporal del turno de nuevos asuntos por la Oficina de Correspondencia Común a los Juzgados Primero y Segundo de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre y la distribución de los expedientes radicados en los mismos, entre los órganos jurisdiccionales de la entidad y sede indicados, así como a la modificación de las guardias de turno en días y horas inhábiles en los propios juzgados de distrito.
