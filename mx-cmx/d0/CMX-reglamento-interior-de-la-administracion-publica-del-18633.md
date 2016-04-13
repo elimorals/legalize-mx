@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-03-31"
+last_updated: "2016-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -546,9 +546,9 @@ XIII. A la Oficialía Mayor:
 
 3. Dirección General de Patrimonio Inmobiliario;
 
-> <small>(REFORMADO, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2016)</small>
 
-4. Coordinación General de Control y Profesionalización de las Unidades Responsables de la Administración;
+4. Coordinación General de Control y Profesionalización de las Unidades Encargadas de la Administración
 
 4.1 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
@@ -599,6 +599,10 @@ XIII. A la Oficialía Mayor:
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
 8.2. Dirección Ejecutiva de Servicios de Tecnologías de la Información y Comunicaciones.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2016)</small>
+
+9. Dirección General de Asuntos Jurídicos.
 
 > <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -1142,9 +1146,9 @@ XX. Formalizar, salvo que el Jefe de Gobierno establezca disposición distinta, 
 
 XXI. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XXII. Coordinar las acciones y programas de protección civil en los inmuebles del patrimonio inmobiliario de la Administración Pública del Distrito Federal, a fin de privilegiar la protección de la vida humana y la salvaguarda del patrimonio;
+XXII. Coordinar las acciones y programas de protección civil en los inmuebles del patrimonio inmobiliario de la Administración Pública de la Ciudad de México, a fin de privilegiar la protección de la vida humana y la salvaguarda del patrimonio;
 
 > <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -1190,13 +1194,13 @@ XXXII. Coordinar a las unidades administrativas y unidades administrativas de ap
 
 XXXIII. Establecer y difundir las políticas, lineamientos y estándares de tecnologías de la información y comunicaciones y de bienes y servicios informáticos;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XXXIV. Impulsar, revisar y registrar los Manuales Administrativos y Específicos de Operación de la Administración Pública del Distrito Federal;
+XXXIV. Impulsar, revisar y registrar los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XXXV. Diseñar, impulsar e implementar Manuales Únicos de la Administración Pública del Distrito Federal en materia de adquisiciones arrendamientos y prestación de servicios, obra pública, transparencia, administración de documentos, operación archivística, en coordinación con las dependencias competentes, en su caso, en la materia así como aquéllos que promuevan la simplificación y modernización administrativa en el Gobierno del Distrito Federal, y
+XXXV. Diseñar, impulsar e implementar Manuales Únicos de la Administración Pública de la Ciudad de México en materia de adquisiciones arrendamientos y prestación de servicios, obra pública, transparencia, administración de documentos, operación archivística, en coordinación con los órganos especializados en la materia, así como aquéllos que promuevan la simplificación y modernización administrativa en el Gobierno de la Ciudad de México, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 15 DE MARZO DE 2016)</small>
 
@@ -7474,75 +7478,75 @@ XXXVII (SIC). Suscribir los documentos relativos al ejercicio de sus atribucione
 
 XXXVIII. Certificar, por sí o a través de sus Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XXXIX. Supervisar la elaboración del programa interno de protección civil de los inmuebles del patrimonio inmobiliario de la ciudad, asignados a los órganos de la Administración Pública del Distrito Federal, y
+XXXIX. Supervisar la elaboración del programa interno de protección civil de los inmuebles del patrimonio inmobiliario de la ciudad, asignados a los órganos de la Administración Pública de la Ciudad de México, y
 
 > <small>(ADICIONADA, G.O. 15 DE MARZO DE 2016)</small>
 
 XL. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ABRIL DE 2016)</small>
 
 ###### Artículo 101.
 
-Corresponde a la Coordinación General de Control y Profesionalización de las Unidades Responsables de la Administración:
+Corresponde a la Coordinación General de Control y Profesionalización de las Unidades Encargadas de la Administración:
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-I. Coordinar las estrategias de operación, evaluación y control de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal basados en la evaluación de su desempeño, los riesgos operativos y su avance en el fortalecimiento de sus capacidades y emitir recomendaciones en ese sentido en el caso de los órganos político-administrativos;
+I. Coordinar las estrategias de operación, evaluación y control de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México basados en la evaluación de su desempeño, los riesgos operativos y su avance en el fortalecimiento de sus capacidades y emitir recomendaciones en ese sentido en el caso de los órganos político-administrativos y las entidades;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-II. Proponer y establecer métodos de trabajo que procuren la eficiencia y la eficacia en la ejecución de sus actividades de las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
+II. Proponer y establecer métodos de trabajo que procuren la eficiencia y la eficacia en la ejecución de sus actividades de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México, así como a los órganos político-administrativos y entidades que lo soliciten;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-III. Impulsar la profesionalización de los servidores públicos adscritos a las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
+III. Impulsar la profesionalización de los servidores públicos adscritos a las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México, así como a los órganos político-administrativos y entidades cuando así lo soliciten;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-IV. Evaluar el cumplimiento de los indicadores y metas de las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal, en relación a los lineamientos de trabajo establecidos por la Oficialía Mayor;
+IV. Evaluar el cumplimiento de los indicadores y metas de las áreas encargadas de la administración de las dependencias y los órganos desconcentrados de la Administración Pública de la Ciudad de México, en relación a los lineamientos de trabajo establecidos por la Oficialía Mayor, así como a los órganos político-administrativos y entidades que lo soliciten;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-V. Establecer los procesos de selección, reclutamiento e ingreso para la ocupación de los puestos de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
+V. Establecer los procesos de selección, reclutamiento e ingreso para la ocupación de los puestos de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México y a las Entidades cuando así lo soliciten;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-VI. Promover e implementar los esquemas de rotación lateral, ascendente, descendente y la separación del cargo del personal de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, basados en la evaluación de su desempeño, los riesgos operativos y su avance en el fortalecimiento de sus capacidades y emitir recomendaciones en ese sentido en el caso de los órganos político-administrativos;
+VI. Promover e implementar los esquemas de rotación lateral, ascendente, descendente y la separación del cargo del personal de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México, así como a las Entidades que lo soliciten, basados en la evaluación de su desempeño, los riesgos operativos y su avance en el fortalecimiento de sus capacidades y emitir recomendaciones en ese sentido en el caso de los órganos político-administrativos;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-VII. Aprobar las técnicas y métodos de evaluación de conocimientos del personal de las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
+VII. Aprobar las técnicas y métodos de evaluación de conocimientos del personal de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México, así como de los órganos político-administrativos y entidades que lo soliciten;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-VIII. Acordar con los titulares de las áreas encargadas de administración en las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal el trámite, la solución y el despacho de los asuntos competencia de éstos y proponer a los órganos político-administrativos recomendaciones en tal sentido;
+VIII. Acordar con los titulares de las áreas encargadas de administración en las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México el trámite, la solución y el despacho de los asuntos competencia de éstos y proponer a los órganos político-administrativos y entidades recomendaciones en tal sentido;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-IX. Conocer, proponer, evaluar y opinar las modificaciones de estructura orgánica de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal y para el caso de los órganos político administrativos emitir las recomendaciones que estime pertinentes;
+IX. Conocer, proponer, evaluar y opinar las modificaciones de estructura orgánica de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México y para el caso de los órganos político administrativos y entidades emitir las recomendaciones que estime pertinentes;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-X. Emitir los lineamientos, reglas, circulares y demás disposiciones jurídico-administrativas para la operación de las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
+X. Emitir los lineamientos, reglas, circulares y demás disposiciones jurídico-administrativas para la operación de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XI. Requerir información para la realización de estudios y análisis que permitan la identificación de riesgos en la operación de las áreas encargadas de la administración de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
+XI. Requerir información para la realización de estudios y análisis que permitan la identificación de riesgos en la operación de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XII. Promover el cumplimiento de las disposiciones jurídicas y administrativas aplicables a las áreas encargadas de la administración de las dependencias, órganos desconcentrados, órganos político administrativos y entidades de la Administración Pública del Distrito Federal;
+XII. Promover el cumplimiento de las disposiciones jurídicas y administrativas aplicables a las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
 XIII. Preparar los análisis que presente el Oficial Mayor al Jefe de Gobierno, respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XIV. Solicitar información y documentos a las instancias de la Administración Pública del Distrito Federal, cuando sea necesario para resolver los asuntos de su competencia;
+XIV. Solicitar información y documentos a las instancias de la Administración Pública de la Ciudad de México, cuando sea necesario para resolver los asuntos de su competencia;
 
 > <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
 
@@ -7864,17 +7868,21 @@ XLV. Impulsar y dirigir la instrumentación y operación de una plataforma integ
 
 XLVI. Promover y coordinar la participación y colaboración con la Federación, Estados, sector social, privado, académico y especialistas, nacionales e internacionales, en materia de mejora regulatoria, simplificación administrativa, funcionamiento integral de las organizaciones, la atención ciudadana, áreas de atención al público, sistemas de comunicación, medición y evaluación del desempeño gubernamental e innovación y proponer la celebración de convenios e instrumentos de colaboración en esas materias,
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XLVII. Fomentar una cultura de innovación, emprendimiento y colaboración entre las dependencias, órganos desconcentrados, órganos político-administrativos, entidades de la Administración Pública del Distrito Federal, sector académico y otros sectores de la sociedad civil, con la finalidad de impulsar y difundir casos de éxito y las mejores prácticas de innovación y modernización de la Administración Pública del Distrito Federal,
+XLVII. Fomentar una cultura de innovación, emprendimiento y colaboración entre las dependencias, órganos desconcentrados, órganos político-administrativos, entidades de la Administración Pública de la Ciudad de México, sector académico y otros sectores de la sociedad civil, con la finalidad de impulsar y difundir casos de éxito y las mejores prácticas de innovación y modernización de la Administración Pública de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XLVIII. Coordinar las actividades en materia de servicio público de carrera de la Administración Pública del Distrito Federal que le confieren las disposiciones jurídicas en la materia a la Oficialía Mayor; y
+XLVIII. Coordinar las actividades en materia de servicio público de carrera de la Administración Pública de la Ciudad de México que le confieren las disposiciones jurídicas en la materia a la Oficialía Mayor;
 
-> <small>(ADICIONADA, G.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
 
-XLIX. Las demás que instruya el titular de la Oficialía Mayor y las que se le confieran en otros instrumentos jurídicos o administrativos.
+XLIX. Coordinar e impulsar el diseño e implementación de Manuales Únicos de la Administración Pública de la Ciudad de México en materia de adquisiciones arrendamientos y prestación de servicios, obra pública, transparencia, administración de documentos, operación archivística, en coordinación con los órganos especializados en la materia, y
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2016)</small>
+
+L. Las demás que instruya el titular de la Oficialía Mayor y las que se le confieran en otros instrumentos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2014)</small>
 
@@ -8227,6 +8235,36 @@ XXIX. Participar en eventos, reuniones de trabajo, cursos, congresos y seminario
 XXX. Representar a la Dirección General de Gobernabilidad de Tecnologías de Información y Comunicaciones en los consejos, comités, subcomités y demás cuerpos colegiados establecidos, cuando sea convocada; y
 
 XXXI. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2016)</small>
+
+###### Artículo 101 Quáter.
+
+Corresponde a la Dirección General de Asuntos Jurídicos:
+
+I. Dirigir y coordinar las acciones jurídicas necesarias para la defensa y protección de los intereses de la Oficialía Mayor y de las Unidades Administrativas que la integran;
+
+II. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Oficialía Mayor, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio del Distrito Federal, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas, así como rendir informes, contestar demandas, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse y/o desistirse de las demandas;
+
+III. Asesorar a las Unidades Administrativas de la Oficialía Mayor para el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas en el ámbito de su competencia;
+
+IV. Analizar los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Oficialía Mayor a fin de que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes;
+
+V. Analizar los anteproyectos de escrituras públicas, convenios, contratos, permisos, títulos, actas de asignación, y todos aquellos instrumentos legales que deban ser suscritos por el Titular de la Oficialía Mayor;
+
+VI. Emitir opiniones jurídicas en los asuntos materia de competencia de la Oficialía Mayor;
+
+VII. Solicitar información y documentos a las unidades administrativas adscritas y sectorizadas a la Oficialía Mayor, así como a los demás entes de la Administración Pública de la Ciudad de México, cuando sea necesario para resolver los asuntos de su competencia;
+
+VIII. Coordinar, atender y desahogar las solicitudes de información pública y de acceso, rectificación, cancelación y oposición de datos personales y los requerimientos que en materia de transparencia y acceso a la información pública y protección a los datos personales que se realicen a la Oficialía Mayor, incluyendo la presentación de informes, la atención de las solicitudes de información y de los recursos de revisión;
+
+IX. Suplir al titular de la Oficialía Mayor en las sesiones de cuerpos colegiados en los que participe, con el carácter que se tenga ante los mismos;
+
+X. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
+
+XI. Auxiliarse de las unidades de apoyo técnico operativo que le sean asignadas para el cumplimiento de sus funciones, y
+
+XII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 #### SECCION XIII
 
@@ -19013,3 +19051,15 @@ G.O. 31 DE MARZO DE 2016.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos en trámite y archivos serán entregados a aquellas áreas que asuman las atribuciones relativas a los mismos o a las que determine el Titular de la Dependencia en términos de la normatividad aplicable.
+
+CUARTO.- La Dirección General de Administración de la Oficialía Mayor hará lo conducente en relación a los recursos humanos, financieros y materiales para atender las modificaciones de la Oficialía Mayor en términos de la normatividad vigente.
