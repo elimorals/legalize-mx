@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-seguridad-publica-94913
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-05"
-last_updated: "2015-10-02"
+last_updated: "2016-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de junio de 2013.
 
@@ -126,6 +126,18 @@ a) Titular de la Dirección General;
 3. Dirección de Informática, y
 
 4. Dirección de Reclutamiento y Selección.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2016)</small>
+
+VII. Dirección General de Investigación, integrada por:
+
+a) Titular de la Dirección General
+
+1. Dirección Jurídica
+
+2. Dirección de Investigación Policial
+
+3. Dirección de Relaciones Institucionales
 
 B. SUBSECRETARÍA DE PREVENCIÓN Y PARTICIPACIÓN CIUDADANA, integrada por:
 
@@ -531,7 +543,57 @@ XVIII. Expedir las constancias y certificaciones de los documentos que se encuen
 
 XIX. Las demás que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-#### Sección Primera. Disposiciones Generales
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE ABRIL DE 2016)</small>
+
+#### Sección Sexta. Dirección General de Investigación
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 18 BIS.- Al Titular de la Dirección General de Investigación le corresponde el ejercicio de las siguientes atribuciones:
+
+l. Recibir los oficios de investigación girados por el Ministerio Público a la Secretaría de Seguridad Pública;
+
+II. Colaborar y tramitar sin demora los requerimientos que por cualquier medio autentificable reciba del Ministerio Público;
+
+III. Dirigir las actividades de los elementos policiacos durante la investigación sobre la comisión de delitos, vigilando que se cumplan cabalmente las instrucciones del Ministerio Público;
+
+IV. Participar en la detención de personas y en el aseguramiento de bienes que las autoridades competentes consideren se encuentren relacionados con hechos delictivos, observando las disposiciones constitucionales y legales aplicables;
+
+V. Reunir la información que pueda ser útil al Ministerio Público, conforme a sus instrucciones, para acreditar que se ha cometido un hecho calificado por la Ley como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión;
+
+VI. Coordinar las relaciones con el Ministerio Público en materia de investigación de los delitos;
+
+VII. Emitir, en coordinación con el Ministerio Público, los lineamientos para el debido cumplimiento de las solicitudes de investigación de los delitos;
+
+VIII. Supervisar las acciones del personal policial a su cargo tendientes a proporcionar el apoyo de investigación que les requiera el Ministerio Público en términos de lo dispuesto en el Código Nacional de Procedimientos Penales y demás ordenamientos aplicables, con excepción de aquellas que correspondan a la Policía Procesal;
+
+IX. Establecer líneas de investigación policial a partir del análisis de la información respecto de estructuras y modos de operación de las organizaciones criminales, en cumplimiento de los mandamientos ministeriales o judiciales;
+
+X. Aplicar, en el ámbito de competencia los procedimientos de intercambio de información policial, en términos de las disposiciones aplicables
+
+XI. Promover mecanismos de coordinación en materia de investigación de delitos;
+
+XII. Proponer estrategias de coordinación y colaboración interinstitucional con dependencias, entidades e instituciones federales, estatales y municipales en materia de investigación de delitos;
+
+XIII. Vigilar que las labores de los elementos de la Secretaría que actúen en apoyo a las solicitudes de investigación del Ministerio Público, se ajusten a lo establecido en los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, y los correlativos 15 y 25 de la Constitución Política del Estado Libre y Soberano de Nuevo León, y demás disposiciones jurídicas aplicables, vigilando que dicho apoyo se efectúe con estricta sujeción a las instrucciones que reciban del Ministerio Público, y con apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
+
+XIV. Informar al Secretario sobre las actividades efectuadas por el personal de la dependencia hasta la conclusión del apoyo solicitado por el Ministerio Público;
+
+XV. Llevar el registro de las actividades de investigación que realice;
+
+XVI. Realizar estudios y evaluaciones sobre la seguridad pública en el Estado;
+
+XVII. Opinar sobre las necesidades de formación y especialización de los elementos policiales de la Secretaría en materia de técnicas de investigación;
+
+XVIII. Proponer proyectos de iniciativas de leyes, reformas legales, decretos, reglamentos y otras disposiciones normativas;
+
+XIX. Representar a la Secretaría ante cualquier autoridad, corporación e institución policial, y en general ante cualquier persona física o moral en asuntos relacionados a la investigación de los delitos, y
+
+XX. las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+La competencia de las Direcciones de la Dirección General de Investigación, estarán sujetas a los acuerdos que al efecto emita el Titular.
+
+Para el ejercicio de sus atribuciones, estas unidades pueden contar con Coordinaciones, Jefaturas de Departamento, asistentes y demás auxiliares que se requieran.
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
@@ -913,7 +975,7 @@ VIII. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO X. DE LAS COMISIONES AUTÓNOMAS
 
-#### Sección Segunda. De la Agencia de Administración Penitenciaria
+#### Sección Primera. Disposiciones Generales
 
 ###### ARTÍCULO 32.
 
@@ -939,7 +1001,7 @@ Subordinación de Órganos Desconcentrados: Los órganos desconcentrados estará
 
 Los titulares de los órganos desconcentrados acordarán con el Secretario o con el servidor público que éste designe, la resolución de los asuntos de su competencia.
 
-#### Sección Tercera. De la Institución Policial Estatal Fuerza Civil
+#### Sección Segunda. De la Agencia de Administración Penitenciaria
 
 ###### ARTÍCULO 34.
 
@@ -1157,15 +1219,13 @@ IX. Expedir certificaciones de los documentos existentes en el archivo a su carg
 
 X. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-#### Sección Cuarta. Del Centro de Coordinación Integral, de Control, Comando, Comunicaciones y Cómputo (C-5)
+#### Sección Tercera. De la Institución Policial Estatal Fuerza Civil
 
 ###### ARTÍCULO 39.
 
 De la Fuerza Civil: La organización y funcionamiento de la Fuerza Civil, órgano desconcentrado de la Secretaría de Seguridad Pública, se regulará por el ordenamiento jurídico correspondiente.
 
-#### Sección Quinta. De la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+#### Sección Cuarta. Del Centro de Coordinación Integral, de Control, Comando, Comunicaciones y Cómputo (C-5)
 
 ###### ARTÍCULO 40.
 
@@ -1351,7 +1411,9 @@ XIV. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-#### Sección Primera. De la Comisión de Honor y Justicia
+#### Sección Quinta. De la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 44 Bis.
 
@@ -1485,7 +1547,7 @@ XII.- Las demás que establezca este Reglamento e instrumentos normativos aplica
 
 ### CAPÍTULO XI. DE LA SUPLENCIA DE LOS TITULARES
 
-#### Sección Segunda. De la Comisión de Carrera Policial
+#### Sección Primera. De la Comisión de Honor y Justicia
 
 ###### ARTÍCULO 45.
 
@@ -1494,6 +1556,8 @@ Función de la Comisión de Honor y Justicia: La Comisión de Honor y Justicia e
 ###### ARTÍCULO 46.
 
 Organización, integración y funcionamiento: La organización, integración, funcionamiento y demás facultades de la comisión, serán establecidas en el reglamento correspondiente.
+
+#### Sección Segunda. De la Comisión de Carrera Policial
 
 ###### ARTÍCULO 47.
 
@@ -1604,3 +1668,9 @@ Las Unidades Administrativas que se crean al amparo del presente Reglamento, ser
 CUARTO.- De conformidad con el artículo segundo transitorio del Acuerdo por el que se instruye la creación de la Unidad de Igualdad de Género en cada una de las Dependencias y Entidades de la Administración Pública del Estado de Nuevo León, dicha Unidad de Género se conformará de acuerdo con el presupuesto que tenga autorizado la Secretaría, sin que implique incremento presupuestal y considerando la estructura indispensable para su funcionamiento.
 
 QUINTO.- En un término de 90 días se expedirán las reglas generales que determinen la estructura, contenido y procedimiento de emisión para los instrumentos normativos establecidos en el Capítulo XIII del presente Reglamento.
+
+P.O. 13 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VII AL APARTADO A DEL ARTÍCULO 4°, Y UNA SECCIÓN SEXTA “DIRECCIÓN GENERAL DE INVESTIGACIÓN” CON UN ARTÍCULO 18 BIS AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
