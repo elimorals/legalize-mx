@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-turismo-del-estado-de-morelos-68337"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-29"
-last_updated: "2015-03-11"
+last_updated: "2016-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 29 de abril de 2009.
 
@@ -77,9 +77,11 @@ XIV. Reglamento: el presente Reglamento, y
 
 XV. Registro: el Registro Estatal de Turismo.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2016)</small>
+
 ###### Artículo 3.
 
-En la prestación de servicios turísticos queda estrictamente prohibida cualquier clase de discriminación, ya sea de raza, idioma, etnia, género discapacidad, credo político o religioso, nacionalidad, condición social o económica, la trasgresión a esta disposición será sancionada por ley.
+En la prestación de servicios turísticos queda estrictamente prohibida cualquier clase de discriminación, ya sea de raza, idioma, etnia, género, discapacidad, credo político o religioso, nacionalidad, condición social o económica. En caso de hacer caso omiso a la presente obligación se dará aviso a las autoridades competentes en materia de discriminación.
 
 ###### Artículo 4.
 
@@ -139,9 +141,21 @@ XVI. Dar debido cumplimiento a la normatividad aplicable de la materia y a las N
 
 XVII. Impulsar la profesionalización de las personas que laboran en sus establecimientos a través de programas de capacitación y certificación en las competencias laborales aplicables al sector;
 
-XVIII. Implementar en sus establecimientos sistemas de gestión de la calidad reconocidos a nivel estatal, nacional o internacional, y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2016)</small>
 
-XIX.- Las demás que les señalen la Ley, este Reglamento y disposiciones legales aplicables.
+XVIII. Implementar en sus establecimientos sistemas de gestión de la calidad reconocidos a nivel estatal, nacional o internacional;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2016)</small>
+
+XIX. Capacitar a su personal a través de los diversos programas que, al efecto, emita la Secretaría u otras Secretarías, Dependencias o Entidades, que permitan una mejor prestación en el servicio turístico;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2016)</small>
+
+XX. Cumplir con los lineamientos y disposiciones que, para efectos de separación y reciclado de productos de desecho, establezca la autoridad competente, de conformidad con la normativa aplicable, y
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2016)</small>
+
+XXI. Las demás que les confiera la Ley, este Reglamento y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 6.
 
@@ -195,37 +209,11 @@ II. Conocer los programas, informes y acciones de la Secretaría, y
 
 III. Proponer a la Secretaría acciones o programas en la materia.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2016)</small>
+
 ###### Artículo 12.
 
-El Consejo Estatal de Turismo se compondrá por:
-
-I. El Gobernador del Estado, quien será el Presidente del Consejo y podrá designar un representante;
-
-II. El Titular de la Secretaría de Turismo, quien fungirá como vicepresidente;
-
-III. El Titular de la Secretaría de Desarrollo Urbano y Obras Públicas;
-
-IV. El Titular de la Secretaría de Finanzas y Planeación;
-
-V. Los Diputados integrantes de la Comisión de Turismo del Congreso del Estado;
-
-VI. El Director del Centro de Congresos y Convenciones Fideicomiso World Trade Center (WTC), en representación de la Secretaría de Desarrollo Económico;
-
-VII. Un representante de los Ayuntamientos del Estado, mismo que será designado por la Junta de Gobierno del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
-
-VIII. Cinco representantes designados por el Consejo Empresarial Turístico del Estado de Morelos, A.C.;
-
-IX. Un representante de la Confederación Turística Estatal, A.C.;
-
-X. Un representante de la Asociación de Hoteles del Estado de Morelos, A.C. y;
-
-XI. Un representante de la Asociación de Balnearios y Parques Acuáticos del Estado de Morelos, A.C.
-
-El Consejo Estatal de Turismo podrá invitar a participar en sus sesiones a los titulares o representantes de otros organismos e instituciones de los sectores público, social y privado que estime conveniente para el desahogo o solución de algún asunto de interés en materia de turismo, los cuales solo tendrán derecho a voz.
-
-Asimismo, podrá constituir las comisiones y grupos de trabajo específicos que se requieran para el adecuado desahogo de los asuntos de su competencia.
-
-El Consejo Estatal de Turismo tendrá un Secretario Técnico, mismo que será designado por los integrantes del propio Consejo.
+El Consejo Estatal de Turismo se integra en términos de lo dispuesto por el artículo 17 de la Ley.
 
 ###### Artículo 13.
 
@@ -351,11 +339,51 @@ VII. Mantener actualizado el diagnóstico-pronóstico que da origen a los progra
 
 VII. Las demás necesarias para el desarrollo turístico.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO IV BIS. DEL TURISMO DE NATURALEZA
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2016)</small>
+
+###### Artículo 22 Bis.
+
+La Secretaría promoverá el desarrollo de actividades turísticas en contacto directo con la naturaleza o con aquellas expresiones culturales que le envuelven, en coordinación con las Secretarías, Dependencias y Entidades correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2016)</small>
+
+###### Artículo 22 Ter.
+
+Las actividades a que hace referencia el artículo anterior debe orientarse con el enfoque y compromiso de conocimiento, respeto, disfrute y participación en la conservación de los recursos naturales y culturales.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2016)</small>
+
+###### Artículo 22 Quater.
+
+La Secretaría podrá suscribir acuerdos de coordinación, concertación, cooperación y colaboración con Secretarías, Dependencias y Entidades, federales, locales o municipales con el objeto de promover, proteger y desarrollar proyectos de turismo de naturaleza, observando en todo momento lo señalado en la Ley y demás normativa aplicable.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO IV TER. DEL TURISMO DE SALUD
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2016)</small>
+
+###### Artículo 22 Quinquies.
+
+La Secretaría promoverá el desarrollo de actividades enfocadas al turismo de salud, basadas en el uso de recursos naturales, tomando en consideración los factores relacionados con la ubicación geográfica, el medio ambiente y la dinámica social.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2016)</small>
+
+###### Artículo 22 Sexies.
+
+Las actividades a que hace referencia el artículo anterior podrán consistir en diversos tipos de terapia enfocados a combatir la depresión, el estrés, entre otro tipo de malestares.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2016)</small>
+
+###### Artículo 22 Septies.
+
+La Secretaría podrá suscribir acuerdos de coordinación, concertación, cooperación y colaboración con Secretarías, Dependencias y Entidades, federales, locales o municipales con el objeto de promover, proteger y desarrollar proyectos de turismo de salud, observando en todo momento lo señalado en la Ley y demás normativa aplicable.
+
 ### CAPÍTULO V. DEL REGISTRO ESTATAL DE ZONAS DE INTERÉS Y DESARROLLO TURÍSTICO
-
-### CAPÍTULO VI. DEL REGISTRO ESTATAL DE TURISMO
-
-### CAPÍTULO VII. DEL SISTEMA ESTATAL DE FACILITACIÓN TURÍSTICA
 
 ###### Artículo 23.
 
@@ -363,7 +391,7 @@ En el Registro Estatal de Zonas de Interés y Desarrollo Turístico se inscribir
 
 Para proceder a la inscripción, deben de satisfacerse los requisitos exigidos en el capítulo inmediato anterior.
 
-### CAPÍTULO VIII. DEL SISTEMA (SIC) INFORMACIÓN TURÍSTICA ESTATAL
+### CAPÍTULO VI. DEL REGISTRO ESTATAL DE TURISMO
 
 ###### Artículo 24.
 
@@ -411,7 +439,7 @@ III.- Participar en los programas de promoción, fomento y capacitación turíst
 
 IV.- Ser preferidos, en igualdad de condiciones, para el otorgamiento de estímulos y beneficios para el mejoramiento y calidad en los servicios turísticos que prestan.
 
-### CAPÍTULO IX. DE LA VERIFICACIÓN
+### CAPÍTULO VII. DEL SISTEMA ESTATAL DE FACILITACIÓN TURÍSTICA
 
 ###### Artículo 29.
 
@@ -419,7 +447,7 @@ El Sistema Estatal de Facilitación Turística operara, mediante una ventanilla 
 
 El Sistema Estatal de Facilitación Turística se integrará con aquella información que se proporcione en las ventanillas y será recopilada por los Ayuntamientos; su operación se sujetará a las disposiciones que para tal efecto determinen conjuntamente la Secretaría y los Ayuntamientos.
 
-### CAPÍTULO X. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO VIII. DEL SISTEMA (SIC) INFORMACIÓN TURÍSTICA ESTATAL
 
 ###### Artículo 30.
 
@@ -436,6 +464,8 @@ La información del Sistema de Información Turística Estatal, además de infor
 ###### Artículo 33.
 
 La información que proporcionen los prestadores de servicios y las autoridades señaladas en esta Ley, sólo podrá ser utilizada con fines estadísticos, de estudio, análisis y planeación de la actividad turística, por lo que no podrá ser divulgada en forma nominativa en modo alguno por ningún medio. Tampoco podrá ser usada como prueba en juicio de cualquier naturaleza.
+
+### CAPÍTULO IX. DE LA VERIFICACIÓN
 
 ###### Artículo 34.
 
@@ -460,6 +490,8 @@ El verificador de cualquiera de estas autoridades que practique la visita de ver
 ###### Artículo 38.
 
 Durante las visitas de verificación que se practiquen, los prestadores de servicios turísticos proporcionarán a la autoridad la información que les sea solicitada, siempre que se refiera a las disposiciones que expresamente se señalen en la orden de verificación
+
+### CAPÍTULO X. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 39.
 
@@ -540,3 +572,11 @@ P.O. 11 DE MARZO DE 2015.
 PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
+
+P.O. 13 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE TURISMO DEL ESTADO DE MORELOS, EN MATERIA DE TURISMO DE NATURALEZA Y TURISMO DE SALUD”.]
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
