@@ -4,7 +4,7 @@ identifier: "JAL-declaratoria-de-incorporacion-de-la-ley-nacional-de-107534"
 country: "mx"
 rank: "otro"
 publication_date: "2015-04-25"
-last_updated: "2015-08-22"
+last_updated: "2016-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 DECLARATORIA DE INCORPORACIÓN DE LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL AL ORDEN JURÍDICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2016.
 
 Declaratoria publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -63,25 +63,25 @@ VI. 15 de enero de 2016: Atenguillo, Atengo, Ameca, Guachinango, Cocula, Mixtlá
 
 VII. 15 de enero de 2016: Ahualulco de Mercado, Amatitán, Tala, San Juanito de Escobedo, El Arenal, Tequila, Etzatlán, San Cristóbal de la Barranca, Magdalena, San Marcos, Teuchitlán, Hostotipaquillo;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2016)</small>
 
-VIII. 15 de abril de 2016: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán;
+VIII. 31 de mayo de 2016: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 IX. 15 de febrero de 2016: Concepción de Buenos Aires, El Salto, La Manzanilla de la Paz, Ixtlahuacán de los Membrillos, Mazamitla, Chapala, Juanacatlán, Jocotepec, Teocuitatlán de Corona, Valle de Juárez, Tizapán el Alto, Tuxcueca, Acatlán de Juárez, Villa Corona;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2016)</small>
 
-X. 15 de abril de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero;
+X. 31 de mayo de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martin de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2016)</small>
 
-XI. 15 de mayo de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta; y
+XI. 31 de mayo de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta; y
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2016)</small>
 
-XII. 15 de mayo de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga y Zapotlanejo.
+XII. 31 de mayo de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúniga y Zapotlanejo.
 
 ## TRANSITORIO
 
@@ -136,3 +136,9 @@ P.O. 28 DE MAYO DE 2015.
 P.O. 22 DE AGOSTO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 25823/LXI/16 QUE REFORMA LAS FRACCIONES VIII, X, XI Y XII DEL ARTÍCULO ÚNICO DEL DIVERSO 25341/LX/15”.]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "EI Estado de Jalisco".
