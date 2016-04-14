@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2015-07-04"
+last_updated: "2016-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -167,9 +167,11 @@ DE LA CAPACITACION Y ADIESTRAMIENTO.
 
 Por ser de interés público y social promover y vigilar la capacitación y el adiestramiento de los trabajadores, las instituciones públicas de gobierno deberán establecer centros de capacitación y adiestramiento para los trabajadores, donde celebren cursos para que éstos actualicen y perfeccionen sus conocimientos, aptitudes y habilidades que les permitan una mayor eficiencia y eficacia en el desempeño de sus labores.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 19.
 
-La capacitación y el adiestramiento se impartirán a los trabajadores en las oficinas de las instituciones públicas de gobierno o fuera de ellas, pudiendo ser en el interior del Estado o en cualquier otro lugar del país.
+La capacitación y el adiestramiento se impartirán a los trabajadores en las oficinas de las instituciones públicas de gobierno o fuera de ellas, pudiendo ser en el interior del Estado o en cualquier otro lugar del país, por lo menos una vez al año, conforme al reglamento de capacitación y adiestramiento respectivo.
 
 ###### ARTICULO 20.
 
@@ -378,6 +380,10 @@ Ningún trabajador de base podrá ser separado de sus servicios, sin que medie c
 ###### ARTICULO 45.
 
 El relevo de los funcionarios de una institución pública de gobierno en ningún caso, afectará la estabilidad de los trabajadores, excepto los catalogados como de confianza.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2016)</small>
+
+La excepción a que alude el párrafo anterior prescribirá en los cuarenta y cinco días naturales, contados a partir del día siguiente al en que entre en funciones el nuevo titular de la dependencia o institución pública de gobierno de que se trate.
 
 ## TITULO QUINTO.
 
@@ -1796,6 +1802,24 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 4 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0196.- SE REFORMA EL ARTÍCULO 19, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las instituciones públicas de Gobierno del Estado, deberán expedir en un término máximo de ciento veinte días, contados a partir de la vigencia del presente Decreto, el Reglamento de Capacitación y Adiestramiento para sus trabajadores.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0197.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 45, DE LA LEY DE LOS TRABAJADORES AL SERVICIOS DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
