@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2016-01-11"
+last_updated: "2016-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,13 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS.
 
@@ -223,7 +225,9 @@ La sanción de inhabilitación se aplicará de la manera siguiente:
 
 I. De tres meses a un año: al servidor público que con la comisión de la falta administrativa no cause daño o perjuicio, ni obtenga beneficio o lucro alguno;
 
-II. De uno a diez años: al servidor público que con la comisión de la falta administrativa, cause daño o perjuicio u obtenga un beneficio o lucro, siempre que el monto de éstos no exceda de doscientas veces el salario mínimo general mensual vigente en el Distrito Federal; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+II. De uno a diez años: al servidor público que con la comisión de la falta administrativa, cause daño o perjuicio u obtenga un beneficio o lucro, siempre que el monto de éstos no exceda de doscientas veces el valor mensual de la Unidad de Medida y Actualización; y
 
 III. De diez a veinte años: al servidor público que con la comisión de la falta administrativa, ocasione daño o perjuicio u obtenga un beneficio o lucro que exceda de la cantidad establecida en la fracción anterior; así como al servidor público que cometa una falta administrativa considerada como grave.
 
@@ -1493,9 +1497,11 @@ Si la conducta por la que se inició el procedimiento de responsabilidad adminis
 
 En ese supuesto ordenará la devolución del proyecto a la Secretaría o a la Contraloría para que éstas notifiquen al servidor público probable responsable, a fin de que dentro de los tres días hábiles siguientes alegue lo que a su interés convenga observándose, en su caso y en lo conducente, lo dispuesto en el artículo 148 de este Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
 ###### Artículo 159.
 
-Si el Pleno o la Comisión estiman que la queja o denuncia fue interpuesta de manera notoriamente improcedente o infundada; afirmando hechos falsos u omitiendo los que le consten; o presentando pruebas o documentos alterados o apócrifos; se impondrá al quejoso o denunciante, o a su representante, o a ambos, una multa de diez a ciento veinte días de salario mínimo general vigente en el Distrito Federal en el momento de interponerse la queja o denuncia, de conformidad con el artículo 139 de la Ley Orgánica. La imposición de la multa deberá fundarse y motivarse en la resolución correspondiente, así como en la orden de ejecución.
+Si el Pleno o la Comisión estiman que la queja o denuncia fue interpuesta de manera notoriamente improcedente o infundada; afirmando hechos falsos u omitiendo los que le consten; o presentando pruebas o documentos alterados o apócrifos; se impondrá al quejoso o denunciante, o a su representante, o a ambos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización en el momento de interponerse la queja o denuncia, de conformidad con el artículo 139 de la Ley Orgánica. La imposición de la multa deberá fundarse y motivarse en la resolución correspondiente, así como en la orden de ejecución.
 
 #### SECCIÓN CUARTA. RECURSOS
 
@@ -3026,3 +3032,17 @@ D.O.F. 11 DE ENERO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 14 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las disposiciones del Consejo de la Judicatura Federal, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Tratándose de las que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en artículo séptimo transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
