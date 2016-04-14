@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2015-10-22"
+last_updated: "2016-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO SE DECLARA INCORPORADO AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, MISMO QUE INICIARÁ SU VIGENCIA DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NÚMERO 24864/LX/14.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO SE DECLARA INCORPORADO AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, MISMO QUE INICIARÁ SU VIGENCIA DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NÚMERO 24864/LX/14 Y SU REFORMA DE 14 DE ABRIL DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -4215,25 +4213,25 @@ VI. 15 de enero de 2016: Atenguillo, Atengo, Ameca, Guachinango, Cocula, Mixtlá
 
 VII. 15 de enero de 2016: Ahualulco de Mercado, Amatitán, Tala, San Juanito de Escobedo, El Arenal, Tequila, Etzatlán, San Cristóbal de la Barranca, Magdalena, San Marcos, Teuchitlán, Hostotipaquillo;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2016)</small>
 
-VIII. 15 de abril de 2016: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán;
+VIII. 31 de mayo de 2016: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 IX. 15 de febrero de 2016: Concepción de Buenos Aires, El Salto, La Manzanilla de la Paz, Ixtlahuacán de los Membrillos, Mazamitla, Chapala, Juanacatlán, Jocotepec, Teocuitatlán de Corona, Valle de Juárez, Tizapán el Alto, Tuxcueca, Acatlán de Juárez, Villa Corona;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2016)</small>
 
-X. 15 de abril de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero;
+X. 31 de mayo de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2016)</small>
 
-XI. 15 de mayo de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta; y
+XI. 31 de mayo de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta; y
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2016)</small>
 
-XII. 15 de mayo de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga y Zapotlanejo.
+XII. 31 de mayo de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga y Zapotlanejo.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -4262,3 +4260,9 @@ P.O. 28 DE MAYO DE 2015.
 P.O. 22 DE AGOSTO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 14 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25822/LXI/16 QUE REFORMA LAS FRACCIONES VIII, X, XI Y XII DEL ARTÍCULO PRIMERO DEL DIVERSO 24864/LX/14”.]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
