@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-04-01"
+last_updated: "2016-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -337,7 +337,9 @@ XIII. Mantenimiento: Acción tendiente a proveer a un bien de lo necesario para 
 
 XIV. Rehabilitación costeable y conveniente: Aquélla reparación del bien que no exceda el 50% de su valor comercial;
 
-XV. Salario Mínimo: El salario mínimo general diario vigente para el Distrito Federal; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+XV. Unidad de Medida y Actualización: La Unidad de Medida y Actualización contemplada en los párrafos sexto y séptimo del Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos; y
 
 XVI. Vida útil: Tiempo de uso según norma del fabricante, régimen fiscal, tecnología, etcétera.
 
@@ -351,13 +353,17 @@ II. Bienes asegurados no reclamados: Los bienes muebles, inmuebles o derechos re
 
 III. Bienes decomisados: Los bienes muebles, inmuebles o derechos reales que por resolución firme hayan adquirido ese carácter, en términos del artículo 40 del Código Penal Federal, puestos a disposición del Consejo;
 
-IV. Bienes incosteables: Aquellos distintos a numerario, cuyo valor comercial sea inferior a sus costos de administración; a los gastos inherentes a obtener su disponibilidad, o bien que tengan un valor menor al equivalente a seis meses de salario mínimo general vigente para el Distrito Federal;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+IV. Bienes incosteables: Aquellos distintos a numerario, cuyo valor comercia sea inferior a sus costos de administración; a los gastos inherentes a obtener su disponibilidad, o bien que tengan un valor menor al equivalente a seis veces el valor mensual de la Unidad de Medida y Actualización;
 
 V. Costos de administración: La suma de todos los gastos, tanto directos como indirectos, que se requieran para la conservación, mantenimiento, supervisión, custodia, destrucción o enajenación de un bien, tales como los pagos que se generen por concepto de honorarios, pagos a terceros especializados, servicios de vigilancia, transporte, embalaje, almacenamiento, avalúos, contribuciones, seguros y energía eléctrica, entre otros, que se vinculen estrictamente con el bien de que se trate;
 
 VI. Registro: Registro de bienes asegurados no reclamados y decomisados puestos a disposición del Consejo, de los cuales se haya expedido el certificado de disponibilidad; y
 
-VII. Salario Mínimo: El salario mínimo general diario vigente para el Distrito Federal.
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+VII. Unidad de Medida y Actualización: La Unidad de Medida y Actualización contemplada en los párrafos sexto y séptimo del Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 10.
 
@@ -5035,9 +5041,11 @@ En las contrataciones que realice el Consejo en las materias objeto de este Cap�
 
 Dichas garantías podrán constituirse mediante fianza otorgada por institución debidamente autorizada, depósito en efectivo en la cuenta que se señale por el Consejo, cheque certificado o por cualquier otro medio que autorice el Comité.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
 ###### Artículo 405.
 
-Para el cumplimiento de las obligaciones a cargo de los proveedores o contratistas, derivadas de los contratos que se celebren en la materia y que excedan la cantidad equivalente a diez veces el salario mínimo general mensual vigente en el Distrito Federal, fijado por la Comisión Nacional de Salarios Mínimos, elevado a un año en el momento de la contratación, la garantía que deberá presentarse será por un monto equivalente al 10% del total del contrato respectivo, sin contar el impuesto al valor agregado.
+Para el cumplimiento de las obligaciones a cargo de los proveedores o contratistas, derivadas de los contratos que se celebren en la materia y que excedan la cantidad equivalente a diez veces el valor anual de la Unidad de Medida y Actualización, en el momento de la contratación, la garantía que deberá presentarse será por un monto equivalente al 10% del total del contrato respectivo, sin contar el impuesto al valor agregado.
 
 La garantía de cumplimiento deberá presentarse, como máximo, dentro de los cinco días hábiles siguientes a la fecha de firma del contrato. En caso contrario, el Consejo podrá rescindir el contrato y lo asignará conforme a lo dispuesto por los artículos 329 y 367 de este Acuerdo.
 
@@ -5555,7 +5563,9 @@ I. La inconformidad sea notoriamente improcedente o se haya presentado con el pr
 
 II. Durante el procedimiento o ejecución de la misma, se afirmen hechos falsos u omitan los que consten, o se presenten pruebas o documentos alterados o apócrifos.
 
-La multa será de diez a ciento veinte días de salario mínimo vigente en el Distrito Federal al momento de la presentación de la inconformidad.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+La multa será de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización al momento de la presentación de la inconformidad.
 
 ###### Artículo 454.
 
@@ -5617,7 +5627,9 @@ II. Valorar la información contenida en los puntos para acuerdo relativos al ar
 
 III. Proponer a la Comisión de Administración la autorización de los contratos de arrendamiento cuyo importe rebase el monto establecido en el avalúo respectivo, cuando así se proponga y justifique por el área, así como solicitar a la misma, la autorización, por excepción, para elaborar avalúos distintos a los señalados en el artículo 475 de este Acuerdo;
 
-IV. Autorizar la celebración de contratos de arrendamiento cuyo monto mensual de la renta sea de 2641 a 13200 veces el salario mínimo general vigente en el Distrito Federal, sin considerar el impuesto al valor agregado. Los contratos que excedan estos montos serán sometidos a la autorización de la Comisión de Administración;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+IV. Autorizar la celebración de contratos de arrendamiento cuyo monto mensual de la renta sea de 2641 a 13200 veces el valor diario de la Unidad de Medida y Actualización, sin considerar el impuesto al valor agregado. Los contratos que excedan estos montos serán sometidos a la autorización de la Comisión de Administración;
 
 V. Proponer a la Comisión de Administración la autorización de los incrementos en el monto de las rentas cuando, de mediar circunstancias justificadas, no sea posible sujetarlas a los parámetros a que se refiere el artículo 482 de este Acuerdo;
 
@@ -5925,13 +5937,21 @@ El incremento de los importes de la renta, en ningún caso podrá llevarse a cab
 
 El instrumento contractual se formalizará de la siguiente manera:
 
-I. Si el monto mensual de la renta es hasta 1320 veces el salario mínimo general vigente en el Distrito Federal, más el impuesto al valor agregado, la firma del contrato quedará a cargo del Director General de Recursos Materiales, cuando se trate de inmuebles ubicados en el Distrito Federal y zona conurbada, y por el Coordinador de Administración Regional o Administradores Regionales, cuando se trate de inmuebles en el resto de la República Mexicana;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
 
-II. Si el monto mensual de renta es de 1321 a 2640 veces el salario mínimo general vigente en el Distrito Federal, más el impuesto al valor agregado, el contrato de arrendamiento deberá suscribirse por los titulares de la Dirección General de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Recursos Materiales, según corresponda;
+I. Si el monto mensual de la renta es hasta 1320 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, la firma del contrato quedará a cargo del Director General de Recursos Materiales, cuando se trate de inmuebles ubicados en la Ciudad de México y zona conurbada, y por el Coordinador de Administración Regional o Administradores Regionales, cuando se trate de inmuebles en el resto de la República Mexicana;
 
-III. Si el monto mensual de la renta es de 2641 a 13200 veces el salario mínimo general vigente en el Distrito Federal, más el impuesto al valor agregado, el contrato deberá suscribirse, previa autorización del Comité de Administración Inmobiliaria, por los Directores Generales de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Recursos Materiales, según corresponda y por el Secretario Ejecutivo de Administración; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
 
-IV. Si el monto mensual de la renta es superior a 13200 veces el salario mínimo general vigente en el Distrito Federal, más el impuesto al valor agregado, el contrato deberá ser firmado por los titulares a que se refiere la fracción anterior, previa autorización de la Comisión de Administración.
+II. Si el monto mensual de renta es de 1321 a 2640 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, el contrato de arrendamiento deberá suscribirse por los titulares de la Dirección General de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Recursos Materiales, según corresponda;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+III. Si el monto mensual de la renta es de 2641 a 13200 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, el contrato deberá suscribirse, previa autorización del Comité de Administración Inmobiliaria, por los Directores Generales de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Recursos Materiales, según corresponda y por el Secretario Ejecutivo de Administración; y
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+IV. Si el monto mensual de la renta es superior a 13200 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, el contrato deberá ser firmado por los titulares a que se refiere la fracción anterior, previa autorización de la Comisión de Administración.
 
 En todos los casos, las acciones tendentes a la formalización de los contratos quedarán a cargo de las instancias competentes en los términos del artículo 466 de este Acuerdo y deberán acatar las modalidades indicadas.
 
@@ -6707,23 +6727,29 @@ VIII. Invariablemente deberá incluirse en el orden del día un apartado corresp
 
 Conforme al valor del lote de bienes, la desincorporación se hará conforme a lo siguiente:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
 
 Clasificación Valor total de los bienes Autorización
 
 Desincorporación Excede del equivalente Comité
 
-Mayor a mil días de Salario
+Mayor. a mil veces el valor
 
-Mínimo
+diario de la Unidad
+
+de Medida y
+
+Actualización
 
 Desincorporación Equivalente o menor El titular del área
 
-Menor a mil días de Salario operativa que Mínimo corresponda, conforme
+Menor. a mil veces el valor operativa que
 
-a su ámbito de
+diario de la Unidad corresponda, conforme
 
-competencia.
+de Medida y a su ámbito de
+
+Actualización competencia.
 
 ###### Artículo 569.
 
@@ -6797,15 +6823,17 @@ La adjudicación directa y la venta a empleados se realizarán por las áreas op
 
 Con base en el monto que resulte del avalúo, el Consejo a través del Comité o de las áreas operativas, podrá enajenar bienes conforme a los siguientes parámetros:
 
-I. Licitación Pública: Excede del equivalente a seis mil días de salario mínimo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
+I. Licitación Pública: Excede del equivalente a seis mil veces el valor diario de la Unidad de Medida y Actualización;
 
-II. Invitación a cuando menos tres personas: Superior al equivalente a mil días de salario mínimo y menor al equivalente a seis mil días de salario mínimo; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
+II. Invitación a cuando menos tres personas: Superior al equivalente a mil veces el valor diario de la Unidad de Medida y Actualización y menor al equivalente a seis mil veces el valor diario de dicha Unidad; y
 
-III. Adjudicación Directa: Hasta el equivalente a mil días de salario mínimo.
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+III. Adjudicación Directa: Hasta el equivalente a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 El Consejo podrá enajenar bienes sin sujetarse al procedimiento de licitación pública o invitación a cuando menos tres personas, cuando ocurran condiciones o circunstancias extraordinarias, imprevisibles, o situaciones de emergencia, a través del procedimiento de adjudicación directa.
 
@@ -7283,7 +7311,9 @@ Las unidades administrativas a que se refiere el párrafo primero de este artíc
 
 Dichos sondeos deberán obtenerse por escrito y contendrán los datos del bien; su precio en el mercado, en el entendido que de no existir el mismo se cotizará el de uno de características similares; los datos de la empresa correspondiente, y el nombre y firma del servidor público que llevó a cabo la investigación de mercado.
 
-Si del sondeo de mercado se advierte que el valor de los bienes en comento es igual o mayor al equivalente a seis meses de salario mínimo, se requerirá del dictamen de avalúo correspondiente, para lo cual la Dirección General de Recursos Materiales o la Administración Regional solicitarán la colaboración de instituciones públicas que cuenten con peritos en la especialidad. En caso de que no se les brinde el apoyo o que no cuenten con la especialidad, podrá obtenerse a través de instituciones bancarias, o bien, atender a las disposiciones del Acuerdo General 16/2011 del Pleno del Consejo de la Judicatura Federal, que regula la integración de la lista de personas que pueden fungir como peritos ante los órganos jurisdiccionales del Poder Judicial de la Federación, lo que resulte más económico para el Consejo.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+Si del sondeo de mercado se advierte que el valor de los bienes en comento es igual o mayor al equivalente a seis veces el valor mensual de la Unidad de Medida y Actualización, se requerirá del dictamen de avalúo correspondiente, para lo cual la Dirección General de Recursos Materiales o la Administración Regional solicitarán la colaboración de instituciones públicas que cuenten con peritos en la especialidad. En caso de que no se les brinde el apoyo o que no cuenten con la especialidad, podrá obtenerse a través de instituciones bancarias, o bien, atender a las disposiciones del Acuerdo General 16/2011 del Pleno del Consejo de la Judicatura Federal, que regula la integración de la lista de personas que pueden fungir como peritos ante los órganos jurisdiccionales del Poder Judicial de la Federación, lo que resulte más económico para el Consejo.
 
 ###### Artículo 622.
 
@@ -7415,15 +7445,53 @@ VENTA
 
 La venta de los bienes asegurados no reclamados y decomisados que autorice la Comisión de Administración se realizará a través de los siguientes procedimientos y en los supuestos que se señalan:
 
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
 Procedimiento Supuesto
 
-Licitación pública. Cuando el valor de los bienes exceda el importe de tres mil veces el salario mínimo.
+Licitación pública. Cuando el valor de los bienes
 
-Subasta o Remate, atendiendo a la naturaleza de los bienes, y que garanticen las mejores condiciones de precio y oportunidad, conforme lo dispuesto en el artículo 134 de la Constitución. Cuando el valor de los bienes sea superior al importe de dos mil veces el salario mínimo y menor al importe de tres mil veces el salario mínimo.
+exceda el importe de tres mil veces el
 
-Invitación restringida. Cuando el valor de los bienes sea superior al importe de mil veces el salario mínimo y menor al importe de dos mil veces el salario mínimo.
+valor diario de la Unidad de
 
-Adjudicación directa. Cuando el valor de los bienes sea de hasta mil veces el salario mínimo.
+Medida y Actualización.
+
+Subasta o Remate, atendiendo Cuando el valor de los bienes
+
+a la naturaleza de los bienes, sea superior al importe de dos mil
+
+y que garanticen las mejores veces el valor diario de la
+
+condiciones de precio y oportunidad, Unidad de Medida y
+
+conforme lo dispuesto en el Actualización y menor al importe de
+
+artículo 134 de la Constitución. tres mil veces el valor diario de dicha
+
+Unidad.
+
+Invitación restringida. Cuando el valor de los bienes
+
+sea superior al importe de mil
+
+veces el valor diario de la
+
+Unidad de Medida y
+
+Actualización y menor al importe de
+
+dos mil veces el valor diario de dicha
+
+Unidad.
+
+Adjudicación directa. Cuando el valor de los bienes
+
+sea de hasta mil veces el
+
+valor diario de la Unidad de
+
+Medida y Actualización.
 
 ###### Artículo 638.
 
@@ -11600,3 +11668,17 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. La obligación de emitir los lineamientos con antelación a la aprobación de los programas, prevista en el artículo 303, párrafo tercero, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, será aplicable a partir del ejercicio fiscal del año 2017.
+
+D.O.F. 14 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las disposiciones del Consejo de la Judicatura Federal, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Tratándose de las que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en artículo séptimo transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
