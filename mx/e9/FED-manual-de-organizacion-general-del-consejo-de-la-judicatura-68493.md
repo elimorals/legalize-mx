@@ -4,7 +4,7 @@ identifier: "FED-manual-de-organizacion-general-del-consejo-de-la-judicatura-684
 country: "mx"
 rank: "manual"
 publication_date: "2009-05-21"
-last_updated: "2009-05-21"
+last_updated: "2016-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68493&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,15 @@ issue_date: "2009-03-11"
 ---
 # MANUAL DE ORGANIZACION GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-MANUAL DE ORGANIZACION GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL
+MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2016.
 
 Manual publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 21 de mayo de 2009.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
 MANUAL DE ORGANIZACION GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
@@ -1521,7 +1523,9 @@ VII. Conocer de los impedimentos y excusas que en materia de amparo se susciten 
 
 VIII. Conocer de los recursos de reclamación previstos en el artículo 103 de la Ley de Amparo.
 
-IX. Apercibir, amonestar e imponer multas hasta de ciento ochenta días del importe del salario mínimo general vigente en el Distrito Federal al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan, falten al respeto o a algún órgano o miembro del Poder Judicial de la Federación; siempre que las promociones se hubieren hecho ante ellos.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+IX. Apercibir, amonestar e imponer multas hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan, falten al respeto o (sic) a algún órgano o miembro del Poder Judicial de la Federación; siempre que las promociones se hubieren hecho ante ellos.
 
 X. Las demás que expresamente les encomiende la Ley Orgánica del Poder Judicial de la Federación o los acuerdos generales emitidos por la Suprema Corte de Justicia de la Nación funcionando en Pleno o las Salas de la misma o por el Pleno del Consejo de la Judicatura Federal.
 
@@ -1541,7 +1545,9 @@ IV. Conocer de la calificación de los impedimentos, excusas y recusaciones de l
 
 V. Conocer de las controversias que se susciten entre los Jueces de Distrito sujetos a su jurisdicción, excepto en los juicios de amparo.
 
-VI. Apercibir, amonestar e imponer multas hasta de ciento ochenta días del importe del salario mínimo general vigente en el Distrito Federal al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que falten al respeto o a algún órgano o miembro del Poder Judicial de la Federación; siempre que las promociones se hubieren hecho ante ellos.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+
+VI. Apercibir, amonestar e imponer multas hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan, falten al respeto o (sic) a algún órgano o miembro del Poder Judicial de la Federación; siempre que las promociones se hubieren hecho ante ellos.
 
 VII. Conocer de los demás asuntos que les encomienden las leyes.
 
@@ -3786,3 +3792,19 @@ Unidades administrativas
 Ponencias de los consejeros, secretarías ejecutivas, secretarías técnicas de Comisiones y direcciones generales.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que la actualización al Manual de Organización General del Consejo de la Judicatura Federal, fue aprobada por el Pleno del propio Consejo, en sesión ordinaria de once de marzo de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, María Teresa Herrera Tello, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a doce de mayo de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASI COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las disposiciones del Consejo de la Judicatura Federal, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Tratándose de las que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en (sic) artículo séptimo transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
