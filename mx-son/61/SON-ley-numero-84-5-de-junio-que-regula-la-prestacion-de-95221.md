@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-84-5-de-junio-que-regula-la-prestacion-de-95221"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-18"
-last_updated: "2013-07-18"
+last_updated: "2016-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE ABRIL DE 2016.
 
 Ley publicada en la Secc. II del Boletín Oficial del Estado de Sonora, el jueves 18 de julio del 2013.
 
@@ -571,11 +571,13 @@ Los Centros de Desarrollo Integral Infantil deberán contar con un Programa Inte
 
 El Programa Interno deberá ser dictaminado y autorizado por la Unidad Estatal de Protección Civil o las autoridades municipales correspondientes, según sea el caso y será sujeto a evaluación de manera periódica, por las instancias correspondientes, apegado a los términos de referencia que se encuentren vigentes.
 
+> <small>(REFORMADO, B.O. 14 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 43.
 
-Los Centros de Desarrollo Integral Infantil deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación y el Estado; de igual manera, deberán contar con dictamen de unidades verificadoras.
+Los Centros de Desarrollo Integral Infantil deberán contar con instalaciones hidráulicas, eléctricas, equipos portátiles y fijos contra incendios, intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación y el Estado, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas para tal efecto, de igual manera, deberán contar con dictamen de unidades verificadoras. Bajo ninguna circunstancia, los Centros de Desarrollo Integral Infantil, contarán con instalaciones o equipamiento que utilicen o empleen cualquier tipo de gas.
 
-Ningún establecimiento que por su naturaleza, giro o actividad, o por el material que maneja, ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Desarrollo Integral Infantil, podrá estar ubicado a una distancia a la redonda, menor a quinientos metros.
+Ningún establecimiento que por su naturaleza, giro o actividad, o por el material que maneja, ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Desarrollo Integral Infantil, podrá estar ubicado a una distancia a la redonda, menor a cien metros.
 
 Los Ayuntamientos del Estado deberán contemplar las distancias a que se refiere el presente artículo, en la determinación de sus respectivos programas de desarrollo urbano y autorizaciones de licencias de funcionamiento o construcción que a su efecto autoricen.
 
@@ -896,3 +898,17 @@ GUILLERMO PADRÉS ELÍAS
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO ROMERO LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 14 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 53, QUE REFORMA EL ARTÍCULO 43 DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Centros de Desarrollo Integral Infantil actualmente en funcionamiento, dentro del plazo de tres meses contados a partir de la entrada en vigor del presente decreto, deberán de sustituir sus instalaciones de gas por instalaciones eléctricas.
