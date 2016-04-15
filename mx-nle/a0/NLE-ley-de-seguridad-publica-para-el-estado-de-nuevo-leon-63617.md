@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2016-04-01"
+last_updated: "2016-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -69,7 +69,9 @@ En los términos del Artículo 21 de la Constitución Política de los Estados U
 
 Para los efectos de esta Ley, se entiende por:
 
-I. (DEROGADA, P.O. 19 DE ENERO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2016)</small>
+
+I. Certificado con efectos de Patente Policial.- Es el documento que otorga la Universidad de Ciencias de la Seguridad del Estado de Nuevo León para el ejercicio de la función Policial;
 
 II. Centro de Control de Confianza: Al Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, Órgano Administrativo desconcentrado adscrito a la Secretaría General de Gobierno;
 
@@ -93,27 +95,31 @@ X. Consejos Municipales: los Consejos de Coordinación Municipales de Seguridad 
 
 XI. Estado: el Estado Libre y Soberano de Nuevo León;
 
-XII. Instituciones de Seguridad Pública: a las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias encargadas de la Seguridad Pública a nivel estatal y municipal;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-XIII. Instituciones de Procuración de Justicia: al ministerio público, los servicios periciales y demás auxiliares de aquel;
+XII. Estado de fuerza: Cantidad de policías, agentes de vialidad y tránsito y custodios penitenciarios, en su caso, especificando la vigencia del certificado o patente policial y precisando si son policías, agentes de vialidad y tránsito o custodios penitenciarios.
 
-XIV. Instituciones Policiales: a los cuerpos de policía y tránsito del Estado y municipios, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+XIII. Instituciones de Seguridad Pública: a las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias encargadas de la Seguridad Pública a nivel estatal y municipal;
 
-XV. Instituto: el Instituto Estatal de Seguridad Pública;
+XIV. Instituciones de Procuración de Justicia: al ministerio público, los servicios periciales y demás auxiliares de aquel;
 
-XVI. Programa Estatal: el Programa Estatal de Seguridad Pública;
+XV. Instituciones Policiales: a los cuerpos de policía y tránsito del Estado y municipios, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+
+XVI. Instituto: el Instituto Estatal de Seguridad Pública;
+
+XVII. Programa Estatal: el Programa Estatal de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
 
-XVII. Secretaría: La Secretaría de Seguridad Pública del Estado;
+XVIII. Secretaría: La Secretaría de Seguridad Pública del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
 
-XVIII. Sistema Integral: el Sistema Integral de Seguridad Pública del Estado de Nuevo León; y
+XIX. Sistema Integral: el Sistema Integral de Seguridad Pública del Estado de Nuevo León; y
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2013)</small>
 
-XIX. Universidad: La Universidad de Ciencias de la Seguridad del Estado de Nuevo León.
+XX. Universidad: La Universidad de Ciencias de la Seguridad del Estado de Nuevo León.
 
 ###### Artículo 4.
 
@@ -341,9 +347,9 @@ Las autoridades de Seguridad Pública del Estado y de los Municipios llevarán a
 
 El Instituto contará con un órgano interno que tendrá como propósito evaluar el funcionamiento de las instituciones de seguridad pública del Estado, de los Municipios y de la Universidad.
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
 
-La evaluación también podrá realizarse por organismos ajenos al servicio público, sean del sector privado, social o académico, del ámbito nacional o internacional, que acrediten previa y fehacientemente contar con los conocimientos e instrumentos necesarios para garantizar el uso de las metodologías y técnicas de aplicación apropiadas a los fines que se pretenden alcanzar.
+I. (SIC) Artículo 24.- La evaluación Institucional, también podrá realizarse por organismos ajenos al servicio público, sean del sector privado, social o académico, del ámbito nacional o internacional, que acrediten previa y fehacientemente contar con los conocimientos e instrumentos necesarios para garantizar el uso de las metodologías y técnicas de aplicación apropiadas a los fines que se pretenden alcanzar.
 
 ###### Artículo 25.
 
@@ -1037,9 +1043,13 @@ El Registro Estatal del Personal de Seguridad Pública, resguardará la informac
 
 I. Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía de frente y de perfil, registro biométrico, de voz y tipo sanguíneo, escolaridad y antecedentes laborales, familiares, así como su trayectoria en los servicios de seguridad pública o privada;
 
-II. La información relacionada con la instrucción recibida a través de los programas de capacitación, actualización, desarrollo, profesionalización y especialización que hubiere recibido.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-III. La información relativa a la integración y supervisión de los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción;
+II. El Certificado con efectos de patente policial, que detalle la información relacionada con la instrucción recibida a través de los programas de capacitación, actualización, desarrollo, profesionalización y especialización que hubiere recibido.
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+III. Estado de fuerza actualizado, La información relativa a la integración y supervisión de los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción; Descripción del equipo a su encargo, en su caso casquillo y proyectil del arma de fuego que porte;
 
 IV. Descripción del equipo a su encargo, en su caso casquillo y proyectil del arma de fuego que porte;
 
@@ -1055,11 +1065,11 @@ Las órdenes de aprehensión o arresto administrativo se notificarán cuando no 
 
 La Secretaría, inscribirá y mantendrá actualizado en el Registro los datos relativos a los integrantes de las autoridades de Seguridad Pública del Estado y de los Municipios, en los términos de esta Ley y el Reglamento y verificará que la misma se integre en el Registro Nacional del Personal de Seguridad Pública, previsto en la Ley Federal de la materia.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
 
 ###### Artículo 67.
 
-Para los efectos de la fracción II del Artículo 65 la Secretaría verificará que la Universidad cuente con los registros actualizados del personal de Seguridad Pública del Estado y de los Municipios, mediante la integración de expedientes individualizados.
+Para los efectos de la fracción II del Artículo 65 la Secretaría verificará que la Universidad cuente con los registros actualizados del personal de Seguridad Pública del Estado y de los Municipios, mediante la expedición de Certificado con efectos de Patente Policial.
 
 ###### Artículo 68.
 
@@ -1929,9 +1939,9 @@ V. Indicar los esquemas de supervisión institucional;
 
 VI. Proporcionar el nombre, edad, antigüedad, cargo y funciones de sus integrantes;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-VII. Justificar, mediante constancia expedida por la Universidad, que sus integrantes cuentan con la formación y preparación académica, operativa, táctica y física para ejercer sus funciones adecuadamente;
+VII. Justificar, mediante Certificado con efectos de Patente Policial, expedida por la Universidad, que sus integrantes cuentan con la formación y preparación académica, operativa, táctica y física para ejercer sus funciones adecuadamente;
 
 VIII. Acreditar que sus integrantes estén inscritos en el Registro Estatal del Personal de Seguridad Pública y contar con cédula única de identificación policial;
 
@@ -1939,9 +1949,9 @@ VIII. Acreditar que sus integrantes estén inscritos en el Registro Estatal del 
 
 IX. Aprobar las pruebas de control de confianza a que se refiere el Artículo 198 Bis 29 y (sic) de este ordenamiento. Mismas que serían aplicadas por el Centro de Control de Confianza y bajo supervisión de la Secretaría; y
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-X. Acreditar que sus integrantes cuenten con la certificación a que se refiere el Artículo 198 Bis 27.
+X. Acreditar que sus integrantes cuenten con la certificación expedido (sic) por el Centro de Control y confianza, a que se refiere el Artículo 198 Bis 27.
 
 La Secretaría extenderá la certificación correspondiente, la cual tendrá vigencia de un año y únicamente podrá ser revalidada mediante la actualización de los requisitos anteriores. La Secretaría validará las certificaciones otorgadas por la Autoridad Federal correspondiente en el marco del sistema nacional de seguridad pública sujetándose a las condiciones que prevé este ordenamiento.
 
@@ -2021,9 +2031,9 @@ XV. Participar en el diseño e instrumentación de los programas de prevención 
 
 XVI. Facilitar la activa participación de la comunidad en las tareas que se relacionen con la seguridad pública;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-XVII. Asistir a los cursos de capacitación y formación continua y especializada que imparta la Universidad;
+XVII. Obtener el Certificado con efectos de Patente Policial y renovarlo en los términos de la ley aplicable, Asistir a los cursos de capacitación y formación continua y especializada que imparta la Universidad;
 
 XVIII. Someterse, cuando lo ordenen sus superiores, a las pruebas de control de confianza y a los procedimientos de evaluación del desempeño, en los términos y condiciones que determina esta Ley;
 
@@ -2095,6 +2105,20 @@ XL. Denunciar ante la Contraloría y Transparencia Gubernamental del Gobierno de
 
 XLI. Las demás que les asignen esta Ley y otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2016)</small>
+
+###### Artículo 155 Bis.
+
+Son obligaciones de los Titulares de las Instituciones Policiales de los Municipios, y en su caso, de los Secretarios del Ayuntamiento las siguientes:
+
+I. Cumplir y hacer cumplir las disposiciones legales en materia de seguridad;
+
+II. Respetar irrestrictamente los principios constitucionales de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos de los Ciudadanos Neoloneses a través de la certificación de todos los Integrantes de las Instituciones Policiales a su cargo;
+
+III. Remitir a la institución que corresponda los certificados con efectos de patente que avalen la formación de los elementos activos;
+
+IV. Sujetar los servicios de seguridad pública a las disposiciones que sobre la materia se especifican en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Nuevo León y en sus leyes reglamentarias.
+
 ###### Artículo 156.
 
 En el caso de las fracciones XIII y XIV del Artículo anterior, le corresponde a la Secretaría y en su caso, a las autoridades municipales, establecer los mecanismos de comunicación necesarios para que los integrantes de las instituciones policiales preventivas del Estado y los Municipios cumplan con dichos deberes, cerciorándose que se les provea periódicamente de la información estadística respectiva y de aquellos indicadores, cifras o datos que sean pertinentes en el cumplimiento de las metas u objetivos trazados institucionalmente, propiciando la celebración de reuniones para su análisis y discusión.
@@ -2161,7 +2185,9 @@ Los agentes policiales que realicen detenciones, deberán dar aviso administrati
 
 Son derechos de los Integrantes de las Instituciones Policiales del Estado y de los Municipios las siguientes:
 
-I. Recibir cursos de formación básica para su ingreso, de capacitación, actualización, desarrollo, especialización y profesionalización y aquellos que permitan el fortalecimiento de los valores civiles;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+I. Estudiar en la Universidad cursos de formación básica de profesionalización para hacerse acreedor del Certificado con efectos de Patente Policial con el cual poder ingresar al Sistema Integral, así como el capacitarse en especialización y que le permitan renovar su certificado o patente, que permita el fortalecimiento de los valores civiles Institucionales.
 
 II. Inscribirse en el Registro Estatal del Personal de Seguridad Pública y verificar que la información que ahí se consigne sea verídica y actual;
 
@@ -2278,6 +2304,14 @@ XXXIII. Llevar consigo durante el pase de lista, o al momento de su llegada a la
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 XXXIV. Omitir el aviso inmediato a la autoridad municipal correspondiente de la existencia de lotes baldíos que sean propicios para la comisión de actividades ilícitas y que hayan sido detectados por la vigilancia de calles y vías públicas o por denuncia ciudadana.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2016)</small>
+
+###### Artículo 158 Bis.
+
+Son conductas prohibidas de los Titulares de las Instituciones Policiales de los Municipios, y en su caso, de los Secretarios del Ayuntamiento las siguientes:
+
+I. Asignar o permitir la asignación de funciones de policía a persona que no cuente con Certificado con efectos de Patente Policial, expedido por la Universidad de Ciencias de la Seguridad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2011)</small>
 
@@ -2693,9 +2727,13 @@ I. Las Instituciones Policiales deberán consultar los antecedentes de cualquier
 
 II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el centro de control de confianza del Estado;
 
-III. Ninguna persona podrá ingresar a las Instituciones Policiales si no ha sido debidamente certificado y registrado en el Sistema;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-IV. Sólo ingresarán y permanecerán en las Instituciones Policiales, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;
+III. Ninguna persona podrá ingresar a las Instituciones Policiales si no cuenta con Certificado con efectos de Patente Policial expedido por la Universidad y con exámenes de control de confianza aprobados;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+IV. Sólo ingresarán y permanecerán en las Instituciones Policiales, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización que imparta la Universidad.
 
 V. La permanencia de los integrantes en las Instituciones Policiales está condicionada al cumplimiento de los requisitos que determine esta Ley y demás disposiciones aplicables;
 
@@ -2725,11 +2763,11 @@ Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanec
 
 ### CAPÍTULO TERCERO. DEL PERFIL DE INGRESO
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
 
 ###### Artículo 198 Bis 4.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en la Universidad, el período de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley.
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo con el Certificado con efectos de Patente Policial que obtenga al terminar la etapa de formación inicial o capacitación en la Universidad, el período de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -2743,7 +2781,9 @@ II. Tener entre 19 y 35 años de edad;
 
 III. Estatura mínima para hombres 1.65 metros y mujeres 1.55 metros. Su peso deberá ser acorde con su estatura, según la Norma Oficial Mexicana de la materia y cumplir con el perfil médico y de personalidad que exijan las disposiciones aplicables;
 
-IV. Contar con el certificado de educación que determina el Sistema Nacional de Seguridad Pública y su ley;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+IV. Contar con el Certificado con efectos de Patente Policial, y de educación que determina el Sistema Nacional de Seguridad Pública y su Ley;
 
 V. No contar con tatuajes que resulten visibles aún vistiendo el pantalón y la camisola de manga corta de la policía;
 
@@ -2795,7 +2835,9 @@ II. No ser sujeto de pérdida de confianza:
 
 III. Cumplir con sus obligaciones, así como con las comisiones que le sean asignadas:
 
-IV. Aprobar los cursos de formación, capacitación y profesionalización;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+IV. Obtener y mantener actualizado el Certificado con efectos de Patente Policial expedido por la Universidad de Ciencias de la Seguridad.
 
 V. Aprobar los procesos de evaluación de control de confianza, los cuales tendrán una vigencia de dos años;
 
@@ -3153,11 +3195,11 @@ La Profesionalización es el proceso permanente y progresivo de formación que s
 
 (DEROGADO, P.O. 19 DE ENERO DE 2013)
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2016)</small>
 
 ###### Artículo 198 Bis 34.
 
-Los Municipios podrán desarrollar programas de actualización, capacitación, profesionalización y desarrollo para sus policías, cumpliendo previamente los requisitos de acreditación y validación por parte de la Universidad, quien deberá cerciorarse que los mismos cumplan con las consideraciones previstas en ésta Ley y de los planes y programas previamente autorizados; además, verificar que los instructores cuenten con aptitud académica, honradez y experiencia profesional.
+Los Municipios podrán desarrollar programas de actualización, capacitación, profesionalización y desarrollo para sus policías, cumpliendo previamente los requisitos de acreditación y validación de la Universidad, quien deberá cerciorarse que los mismos cumplan con las consideraciones previstas en esta Ley y de los planes y programas previamente autorizados; además, verificar que los instructores cuenten con aptitud académica, honradez y experiencia profesional, acreditando el proceso con el Certificado con efectos de Patente Policial.
 
 Así mismo, las autoridades municipales podrán participar conjuntamente con la Universidad, en los proceso (sic) de reclutamiento y selección de quienes aspiren a ingresar a su policía, con apego a los lineamientos que ésta le imponga, en los términos que prevé este ordenamiento y la reglamentación respectiva; sin embargo, para la selección de candidato será exclusivamente la Universidad quien determine la admisión del solicitante siempre y cuando cumpla con los requerimientos correspondientes.
 
@@ -3696,3 +3738,11 @@ P.O. 1 DE ABRIL DE 2016.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- En un plazo no mayor a 120 días naturales contados a partir de que entre en vigencia el presente Decreto, la Secretaría de Seguridad Pública, deberán realizarse los lineamientos o manuales de procedimiento respecto del Sistema de Video Vigilancia.
+
+P.O. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 096. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE SEGURIDAD PÚBLICA Y LA LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD AMBAS DEL ESTADO DE NUEVO LEÓN; ASÍ COMO LA LEY DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO. LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Municipios del Estado de Nuevo León, deberán iniciar la regularización de la Certificación con efectos de Patente Policial del personal en activo que no cuente con ella, en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
