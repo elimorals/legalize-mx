@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2015-11-10"
+last_updated: "2016-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 10 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 15 DE ABRIL DE 2016.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -207,29 +207,17 @@ d) Por las actividades que desarrollan, requieran la instalación de depósitos,
 
 ### Capítulo III. De los Anuncios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 15 DE ABRIL DE 2016)</small>
+
 ###### Artículo 13.
 
-En las áreas de protección del perímetro A y B correspondientes a las áreas de protección al patrimonio histórico (PH) y patrimonio cultural urbano (PC) con base en el Plan Parcial de la zona vigente, únicamente se otorgarán licencias o permisos para la colocación de los anuncios que reúnan las siguientes características:
+Las disposiciones que regulan la fijación, instalación, transmisión, difusión, proyección o colocación de todo tipo de anuncios que sea materia de este ordenamiento, se establecen en el Reglamento de Anuncios para el Municipio de Guadalajara, o en su caso, en las disposiciones administrativas que emita el Ayuntamiento para tales efectos.
 
-I. Anuncios sin estructura soportante, que corresponden a los que se fijan o pintan al paño de las construcciones perpendicularmente o paralelamente y no requieren de un cálculo estructural ni de un equipo especializado para su transportación y colocación, siendo el siguiente:
-
-a) De gabinete individual por figura o gabinetes con letras individuales;
-
-b) Las letras siempre deben ser de color negro y en letra de molde tipo Arial;
-
-c) Absolutamente sin ningún tipo de variante, ya sean luminosos, de neón, iluminados, giratorios, multicapas, portátiles, altorrelieve, proyectados, y opacos;
-
-d) Deben ser colocados al frente de la fachada del bien inmueble, sobre la puerta de acceso al negocio, siendo la altura mínima, desde el nivel de la banqueta al lecho bajo el anuncio, de 2.10 metros;
-
-e) Los anuncios no deben exceder del 10% de la superficie total de la fachada del bien inmueble donde se ubique;
-
-f) Se prohíbe la colocación de los anuncios en las fachadas laterales de los bienes inmuebles sin frente a la vía pública; y
-
-g) Sólo se permite colocar anuncios con la razón social o denominación social del establecimiento comercial o de servicios y su actividad principal como consta en el registro de giro correspondiente.
+I. (DEROGADA, G.M. 15 DE ABRIL DE 2016)
 
 ###### Artículo 14.
 
-Bajo ninguna circunstancia se otorgarán licencias o permisos para la colocación de los anuncios que no sean como el descrito en el artículo anterior.
+(DEROGADO, G.M. 15 DE ABRIL DE 2016)
 
 ### Capítulo IV. De la Infraestructura y Servicios
 
@@ -530,3 +518,17 @@ Octavo. Se faculta a los ciudadanos Presidente Municipal y Secretario General de
 Noveno. Se instruye a la Comisión Dictaminadora elabore un programa de apoyo para el establecimiento de comerciantes del Centro Histórico, donde se contemple ayuda para renta de bienes inmuebles, créditos para la compra de mercancías y las que se consideren pertinentes, de acuerdo a las necesidades de cada comerciante en particular.
 
 Décimo. Se contemple dentro del Presupuesto de Egresos del Municipio de Guadalajara, Jalisco, una bolsa de $10'000,000.00 (diez millones de pesos 00/100 M.N.), como capital semilla del programa referido en el transitorio anterior.
+
+G.M. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DICTAMEN DE "REFORMAS AL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO PARA LA ZONA DENOMINADA COMO CENTRO HISTÓRICO, BARRIOS Y ZONAS TRADICIONALES DE GUADALAJARA Y AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Quedan derogadas las normas que se opongan a lo previsto en las presentes reformas.
+
+Cuarto. El Presidente Municipal de Guadalajara deberá definir las Zonas de Intervención Especial a que hacen referencia los artículos 6 fracción XXXIV y 53 del Reglamento de Anuncios para el Municipio de Guadalajara en un periodo no mayor a un año calendario a partir de la entrada en vigor del presente decreto, emitiendo la acción ejecutiva que corresponda para cada una de las zonas que se determinen. Asimismo, deberá presentar para su discusión y aprobación al Ayuntamiento la propuesta de disposiciones administrativas que regulen la fijación, instalación, transmisión, difusión, proyección o colocación de anuncios en cada una de las Zonas de Intervención Especiales.
+
+Quinto. Una vez publicadas estas reformas remítanse un tanto de ellas al Congreso del Estado de Jalisco, para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
