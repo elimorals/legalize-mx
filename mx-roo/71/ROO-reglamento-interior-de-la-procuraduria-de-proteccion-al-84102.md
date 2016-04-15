@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-procuraduria-de-proteccion-al-84102"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-15"
-last_updated: "2011-11-15"
+last_updated: "2016-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERIOR DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de noviembre de 2011.
 
@@ -634,3 +636,15 @@ EL SECRETARIO DE ECOLOGÍA Y MEDIO AMBIENTE
 LIC. FRANCISCO ELIZONDO GARRIDO
 
 LAS FIRMAS CONTENIDAS EN LA PRESENTE FOJA CORRESPONDEN A LA AUTORIZACIÓN DEL REGLAMENTO INTERIOR DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- Se abroga el Reglamento Interior de la Procuraduría de Protección al Ambiente del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo el quince de noviembre de dos mil once.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+TERCERO.- Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias y facultades a que se refiere este Reglamento, iniciados bajo la vigencia del Reglamento Interior que se abroga, se tramitarán y resolverán conforme a las disposiciones de dicho Reglamento.
