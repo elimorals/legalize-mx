@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2015-12-18"
+last_updated: "2016-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3666,6 +3666,10 @@ VII. Extender invitaciones, en acuerdo con el Presidente y la Junta, para recibi
 
 2. El Servicio de Carrera tendrá por objetivo la profesionalización de los trabajadores que pertenezcan a él y favorecer su permanencia, promoción y ascenso, bajo los principios de legalidad, objetividad, productividad, imparcialidad, disposición y compromiso institucional, de acuerdo con lo que establece el Estatuto.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 2016)</small>
+
+3. El Centro de Estudios de Derecho e Investigaciones Parlamentarias, en el ámbito de sus atribuciones, podrá crear y organizar una academia de formación de cuadros y personal parlamentarios que se denominará Academia de Gobierno y Derecho Parlamentario que podrá actuar interinstitucionalmente con instancias afines, cuyos programas se establecerán tomando en cuenta las observaciones y opiniones de las Instituciones Nacionales Públicas de Educación Superior.
+
 ###### Artículo 284.
 
 1. Para ingresar al Servicio de Carrera se deberán cumplir los requisitos que establece el Estatuto, independientemente del régimen jurídico contractual de los trabajadores de la Cámara.
@@ -3803,3 +3807,13 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, NUMERAL 1, FRACCIÓN XI; 24, NU
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se entenderá como diputado independiente aquel que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos del artículo 35 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN NUMERAL 3 AL ARTÍCULO 283 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La implementación del presente Decreto no comprometerá la erogación de mayores recursos que los presupuestados a la Cámara de Diputados en el Presupuesto de Egresos para el Ejercicio Fiscal 2016 y por tanto se recurrirá a ajustes, ahorros y reasignaciones para ello.
+
+Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
