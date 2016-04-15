@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2014-06-25"
+last_updated: "2016-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -535,13 +535,17 @@ LXIV. Abstenerse de otorgar licencias o permisos en materia de desarrollo urbano
 
 LXV. Abstenerse de colaborar, participar, encubrir o facilitar la distribución, venta o comercialización de bebidas alcohólicas en contravención de las disposiciones establecidas en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-LXVI. Denunciar ante la autoridad competente las conductas relacionadas con actos de corrupción, y
+LXVI. Denunciar ante la autoridad competente las conductas relacionadas con actos de corrupción,
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-LXVII. Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
+LXVII. Abstenerse de asignar o permitir la asignación de funciones de policía a persona que no cuente con Certificado con efectos de Patente Policial expedido por la Universidad de Ciencias de la Seguridad, la contravención a las disposiciones de Ley y las violaciones sistemáticas a esta fracción se considerarán graves; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+LXVIII. Las demás que le impongan las leyes y disposiciones reglamentarias o administrativas.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
 
@@ -1468,3 +1472,11 @@ Segundo.- En lo que respecta a la Ley para Incentivar la Denuncia de Actos de Co
 P.O. 25 DE JUNIO DE 2014.
 
 ÚNICO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 096. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE SEGURIDAD PÚBLICA Y LA LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD AMBAS DEL ESTADO DE NUEVO LEÓN; ASÍ COMO LA LEY DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Municipios del Estado de Nuevo León, deberán iniciar la regularización de la Certificación con efectos de Patente Policial del personal en activo que no cuente con ella, en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
