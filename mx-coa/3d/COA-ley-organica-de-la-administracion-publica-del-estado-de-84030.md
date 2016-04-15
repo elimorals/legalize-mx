@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2015-12-22"
+last_updated: "2016-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -45,9 +45,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 Esta Ley tiene por objeto establecer la estructura, las atribuciones y las bases para la organización y el funcionamiento de la administración pública del Estado de Coahuila de Zaragoza. Para el correcto ejercicio de las atribuciones y el despacho de los asuntos a cargo del gobernador, la administración pública del estado se organiza en centralizada y paraestatal.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
 
-La administración pública centralizada se compone por el Despacho del Gobernador, las secretarías del ramo, la Procuraduría General de Justicia, la Consejería Jurídica y demás unidades administrativas que se integren para la buena marcha de la administración, cualquiera que sea su denominación.
+La administración pública centralizada se compone por el Despacho del Gobernador, las secretarías del ramo, la Procuraduría General de Justicia y demás unidades administrativas que se integren para la buena marcha de la administración, cualquiera que sea su denominación.
 
 La administración pública paraestatal se conforma por los organismos públicos descentralizados, los organismos públicos de participación ciudadana, las empresas de participación estatal, los fideicomisos públicos y demás entidades, sin importar la forma en que sean identificadas.
 
@@ -335,6 +335,8 @@ El Consejero Jurídico tendrá el carácter de secretario del consejo, será el 
 
 ### CAPÍTULO PRIMERO. DE LAS Y LOS TITULARES DE LAS DEPENDENCIAS
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
 Para ser titular de las Secretarías del Ramo se requiere:
@@ -343,15 +345,9 @@ I. Ser ciudadano coahuilense por nacimiento, o ser padre o madre de coahuilense 
 
 II. Tener pleno uso y goce de sus derechos políticos;
 
-III. Tener un modo honesto de vivir, gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, quedará inhabilitado para ocupar el cargo, cualquiera que haya sido la pena, y
-
-IV. (DEROGADA, P.O. 17 DE AGOSTO DE 2012)
+III. Tener un modo honesto de vivir, gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, quedará inhabilitado para ocupar el cargo, cualquiera que haya sido la pena.
 
 Los requisitos legales y el procedimiento específico para la designación de quien ocupe la titularidad de la Procuraduría General de Justicia serán los establecidos en la Constitución Política del Estado y en la ley de la materia.
-
-Para ser titular de la Consejería Jurídica se deberán reunir los mismos requisitos que para ocupar la titularidad de la Procuraduría General de Justicia.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE AGOSTO DE 2012)</small>
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -407,9 +403,11 @@ VI. Secretaría de Educación;
 
 VII. Secretaría de Finanzas;
 
-VIII. Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
+VIII. (DEROGADA, P.O. 15 DE ABRIL DE 2016)
 
-IX. Secretaría de Infraestructura;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+IX. Secretaría de Infraestructura y Transporte;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
 
@@ -445,9 +443,7 @@ XVII. Secretaría de Fiscalización y Rendición de Cuentas, y
 
 XVIII. Procuraduría General de Justicia del Estado.
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
-
-XIX. Consejería Jurídica.
+XIX. (DEROGADA, P.O. 15 DE ABRIL DE 2016)
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -965,11 +961,39 @@ XIV. Coordinar las acciones y actividades del Comité para el Desarrollo del Est
 
 XV. Formular, ejecutar y evaluar planes y programas en beneficio de personas adultas mayores, con discapacidad, y demás población en situación de vulnerabilidad o de marginación;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-XVI. Promover la certeza jurídica en la tenencia de la tierra, en coordinación con las dependencias y entidades competentes, e
+XVI. Efectuar acciones tendientes a la regularización de la tenencia de la tierra en coordinación con los municipios;
 
 XVII. Integrar un padrón de beneficiarios de los programas de desarrollo social que cuente con información estructurada, actualizada y sistematizada.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XVIII. Promover el estudio y análisis de la condición jurídica y social en que se encuentren los diversos fraccionamientos y asentamientos que existen en el estado, así como tomar medidas para corregir los que ilegalmente ocurran;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XIX. Promover y vigilar en coordinación con los ayuntamientos del estado, el ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XX. Instrumentar, en coordinación con las dependencias competentes, acciones encaminadas a mejorar condiciones de marginación;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXI. Coordinar las acciones tendientes a la regularización de la tenencia de la tierra urbana y rústica;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXII. Promover, apoyar y vigilar la ejecución de los programas de regularización de la tenencia de la tierra, con la participación que corresponda a las entidades competentes y municipios;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXIII. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXIV. Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa.
 
 ###### ARTÍCULO 28.
 
@@ -1171,99 +1195,23 @@ XXXVIII. Emitir lineamientos sobre contabilidad gubernamental y forma de consoli
 
 XXXIX. Licitar y adjudicar contratos de obra pública, adquisiciones, arrendamientos y servicios, de conformidad con la normativa aplicable;
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XL. Coordinar las funciones del catastro y la información territorial, en coordinación con los municipios y promover la recaudación municipal en esta materia.
+
 Para la recaudación de impuestos, derechos, contribuciones y cualquier otra carga tributaria y para el ejercicio de aquellas atribuciones en la materia que se convengan con la federación y los municipios, la dependencia tendrá una unidad administrativa especializada denominada Administración Fiscal General.
 
 Las funciones de fiscalización, ejecución, representación legal y defensa jurídica de los intereses de la hacienda pública y administración tributaria serán ejercidas por la dependencia a través de la Administración Fiscal General.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2015)</small>
-
 ###### ARTÍCULO 30.
 
-A la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial le corresponde el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 15 DE ABRIL DE 2016)
 
-I. Formular, ejecutar y evaluar las políticas generales de desarrollo urbano y ordenamiento territorial;
-
-II. Participar con los municipios en las políticas que garanticen una mejor calidad para los asentamientos humanos y un uso del suelo eficiente y sustentable;
-
-III. Promover, apoyar y vigilar el desarrollo urbano sustentable de las diversas comunidades y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos, con estricto apego al artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
-
-IV. Promover la creación de reservas territoriales estratégicas y demás acciones necesarias para la construcción de vivienda, obras públicas, vialidades y áreas verdes; así como establecer y vigilar el cumplimiento de los programas de adquisición de las mismas en coordinación, en su caso, con los ayuntamientos; el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa;
-
-V. Generar esquemas que permitan la construcción de vialidades o desarrollos urbanos mediante la participación privada o social;
-
-VI. Formular, ejecutar y evaluar el Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial, los planes parciales y proponer sus modificaciones, así como prestar la asesoría y el apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los planes de desarrollo urbano municipal y de centros de población;
-
-VII. Formular y emitir los dictámenes de congruencia de los programas de desarrollo urbano municipal, de centros de población y parciales, así como de aquellas acciones que impacten el territorio;
-
-VIII. Formular y emitir los dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
-
-IX. Elaborar, evaluar y, en su caso, modificar los programas sectoriales y especiales previstos en la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza y otras disposiciones aplicables, en coordinación con las entidades u organismos competentes;
-
-X. Promover y otorgar, asesoría y asistencia técnica, a las autoridades municipales, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de desarrollo urbano, infraestructura y equipamiento urbano;
-
-XI. Promover un desarrollo urbano ordenado de las comunidades y centros de población del estado, así como fomentar y fortalecer la organización de grupos y sectores sociales a través de comisiones orientadas a estudiar y plantear soluciones en la materia;
-
-XII. Participar en el ámbito de su competencia, en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo urbano, metropolitano, regional e intermunicipal que establezca el Plan Estatal de Desarrollo y los Programas de Desarrollo Urbano aplicables;
-
-XIII. Fomentar y participar en la constitución y administración del patrimonio cultural inmueble conforme a las disposiciones legales aplicables;
-
-XIV. Promover la celebración de convenios con los municipios para concurrir o compartir funciones que correspondan a éstos, en materia de desarrollo urbano;
-
-XV. Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos federales y estatales que se dispongan para tal efecto;
-
-XVI. Participar en los términos de las leyes de la materia en los procesos de expropiación de inmuebles que por causas de utilidad pública emprenda el estado;
-
-XVII. Promover el estudio y análisis de la condición jurídica y social en que se encuentren los diversos fraccionamientos y asentamientos que existen en el estado, así como tomar medidas para corregir los que ilegalmente ocurran;
-
-XVIII. Regular el aprovechamiento y abastecimiento de cuerpos de agua de competencia estatal, y apoyar a las instancias municipales en la prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento de conformidad con las disposiciones aplicables;
-
-XIX. Coordinar a los organismos estatales que ofrezcan el servicio de agua potable y alcantarillado, y en su caso, convenir con uno o más municipios la prestación de servicios en áreas metropolitanas;
-
-XX. Promover políticas e implementar acciones de coordinación institucional que propicien el mejoramiento, operación y uso eficiente de los sistemas de agua potable, drenaje, alcantarillado y saneamiento en zonas urbanas y rurales;
-
-XXI. Asesorar y otorgar la asistencia técnica para la creación y funcionamiento de los organismos descentralizados estatales y municipales, cuando estos últimos lo soliciten, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, de conformidad a la Legislación aplicable en la materia;
-
-XXII. Impulsar procesos de estudio en materia hidrológica, que garanticen el cuidado del agua y la posibilidad de su aprovechamiento para el consumo humano, agropecuario e industrial;
-
-XXIII. Favorecer las buenas prácticas en materia de cuidado del agua, ahorro y uso responsable de la misma y contribuir en la remediación de este líquido;
-
-XXIV. Promover y vigilar en coordinación con los ayuntamientos del estado, el ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
-
-XXV. Instrumentar, en coordinación con las dependencias competentes, acciones encaminadas a mejorar las condiciones de marginación;
-
-XXVI. Participar en la planeación de la infraestructura urbana que aliente el desarrollo, resuelva los problemas viales, reoriente el crecimiento de las poblaciones y favorezca el crecimiento económico;
-
-XXVII. Coordinar las funciones del catastro y la información territorial, en coordinación con los municipios y promover la recaudación municipal en esta materia;
-
-XXVIII. Coordinar las acciones tendientes a la regularización de la tenencia de la tierra urbana y rústica;
-
-XXIX. Promover, apoyar y vigilar la ejecución de los programas de regularización de la tenencia de la tierra, con la participación que corresponda a las Entidades competentes y municipios;
-
-XXX. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos;
-
-XXXI. Supervisar la operación de aeropuertos y aeropistas a cargo del gobierno del estado;
-
-XXXII. Formular, ejecutar y evaluar El Plan Estatal de Movilidad Sustentable y proponer sus modificaciones, así como brindar asesoría y apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los planes de movilidad municipal;
-
-XXXIII. Realizar las acciones necesarias tendientes a que el servicio público de transporte se realice con eficiencia, calidad y seguridad para los usuarios;
-
-XXXIV. Regular, organizar, orientar, aprobar, controlar y en su caso modificar la prestación de los servicios público (sic) de transporte de competencia estatal con la finalidad de alcanzar el objetivo en materia de movilidad sustentable.
-
-XXXV. Promover la celebración de convenios con los municipios parta concurrir o compartir funciones que corresponda a éstos en materia de movilidad y transporte público;
-
-XXXVI. Normar y supervisar el adecuado funcionamiento del transporte público de competencia estatal, así como otorgar, renovar, prorrogar y cancelar las concesiones y permisos que les correspondan;
-
-XXXVII. Expedir, en coordinación con la dependencia competente, las placas y demás documentos de identificación relacionados con la circulación de los vehículos destinados al servicio público de transporte en el estado;
-
-XXXVIII. Promover una amplia cultura vial a través de programas innovadores en esta materia;
-
-XXXIX. Expedir, en coordinación con la dependencia competente, las licencias de conducir en el estado;
-
-XL. Imponer las sanciones que procedan por la infracción a los ordenamientos legales correspondiente (sic).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 31.
 
-A la Secretaría de Infraestructura le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura y Transporte le corresponde el despacho de los siguientes asuntos:
 
 I. Proponer políticas para determinar la idoneidad de obras públicas de infraestructura para el estado, así como para la licitación y contratación de la misma;
 
@@ -1281,9 +1229,63 @@ VI. Integrar y mantener actualizado el inventario de la infraestructura de vías
 
 VII. Proponer la concesión en la construcción, administración, operación y conservación de carreteras y caminos de cuota de competencia local;
 
-VIII. Participar en los procesos de expropiación de inmuebles por causas de utilidad pública, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+VIII. Participar en los procesos de expropiación de inmuebles por causas de utilidad pública;
 
 IX. Coadyuvar en la conservación del patrimonio histórico y cultural de la entidad.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+X. Generar esquemas que permitan la construcción de vialidades o desarrollos urbanos mediante la participación privada o social;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XI. Fomentar y participar en la constitución y administración del patrimonio cultural inmueble conforme a las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XII. Participar en la planeación de la infraestructura urbana que aliente el desarrollo, resuelva los problemas viales, reoriente el crecimiento de las poblaciones y favorezca el crecimiento económico;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XIII. Supervisar la operación de aeropuertos y aeropistas a cargo del gobierno del estado;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XIV. Formular, ejecutar y evaluar El Plan Estatal de Movilidad Sustentable y proponer sus modificaciones, así como brindar asesoría y apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los planes de movilidad municipal;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XV. Realizar las acciones necesarias tendientes a que el servicio público de transporte se realice con eficiencia, calidad y seguridad para los usuarios;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XVI. Regular, organizar, orientar, aprobar, controlar y en su caso modificar la prestación de los servicios público (sic) de transporte de competencia estatal con la finalidad de alcanzar el objetivo en materia de movilidad sustentable;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XVII. Promover la celebración de convenios con los municipios parta (sic) concurrir o compartir funciones que corresponda a éstos en materia de movilidad y transporte público;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XVIII. Normar y supervisar el adecuado funcionamiento del transporte público de competencia estatal, así como otorgar, renovar, prorrogar y cancelar las concesiones y permisos que les correspondan;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XIX. Expedir, en coordinación con la dependencia competente, las placas y demás documentos de identificación relacionados con la circulación de los vehículos destinados al servicio público de transporte en el estado;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XX. Promover una amplia cultura vial a través de programas innovadores en esta materia;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXI. Expedir, en coordinación con la dependencia competente, las licencias de conducir en el estado; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXII. Imponer las sanciones que procedan por la infracción a los ordenamientos legales correspondiente (sic).
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2012)</small>
 
@@ -1369,9 +1371,83 @@ XVII. Regular la conservación de las corrientes, lagos y lagunas de jurisdicci�
 
 XVIII. Coadyuvar con las autoridades municipales en el diseño de programas que garanticen la prestación de los servicios públicos en condiciones que protejan, y en su caso, remedien el medio ambiente;
 
-XIX. Promover la determinación de criterios para el establecimiento de los estímulos fiscales y financieros para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente, e
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XIX. Promover la determinación de criterios para el establecimiento de los estímulos fiscales y financieros para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
 
 XX. Integrar proyectos autofinanciables o susceptibles de concesión en materia de medio ambiente.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXI. Formular, ejecutar y evaluar las políticas generales de desarrollo urbano y ordenamiento territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXII. Participar con los municipios en las políticas que garanticen una mejor calidad para los asentamientos humanos y un uso del suelo eficiente y sustentable;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXIII. Promover, apoyar y vigilar el desarrollo urbano sustentable de las diversas comunidades y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos, con estricto apego al artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXIV. Promover la creación de reservas territoriales estratégicas y demás acciones necesarias para la construcción de vivienda, obras públicas, vialidades y áreas verdes;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXV. Formular, ejecutar y evaluar el Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial, los planes parciales y proponer sus modificaciones, así como prestar la asesoría y el apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los planes de desarrollo urbano municipal y de centros de población;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXVI. Formular y emitir los dictámenes de congruencia de los programas de desarrollo urbano municipal, de centros de población y parciales, así como de aquellas acciones que impacten el territorio;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXVII. Formular y emitir los dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXVIII. Promover y otorgar, asesoría y asistencia técnica, a las autoridades municipales, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de desarrollo urbano, infraestructura y equipamiento urbano;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXIX. Promover un desarrollo urbano ordenado de las comunidades y centros de población del estado, así como fomentar y fortalecer la organización de grupos y sectores sociales a través de comisiones orientadas a estudiar y plantear soluciones en la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXX. Participar en el ámbito de su competencia, en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo urbano, metropolitano, regional e intermunicipal que establezca el Plan Estatal de Desarrollo y los Programas de Desarrollo Urbano aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXXI. Promover la celebración de convenios con los municipios para concurrir o compartir funciones que correspondan a éstos, en materia de desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXXII. Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos federales y estatales que se dispongan para tal efecto;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXXIII. Regular el aprovechamiento y abastecimiento de cuerpos de agua de competencia estatal, y apoyar a las instancias municipales en la prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXXIV. Coordinar a los organismos estatales que ofrezcan el servicio de agua potable y alcantarillado, y en su caso, convenir con uno o más municipios la prestación de servicios en áreas metropolitanas;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXXV. Promover políticas e implementar acciones de coordinación institucional que propicien el mejoramiento, operación y uso eficiente de los sistemas de agua potable, drenaje, alcantarillado y saneamiento en zonas urbanas y rurales;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXXVI. Asesorar y otorgar la asistencia técnica para la creación y funcionamiento de los organismos descentralizados estatales y municipales, cuando estos últimos lo soliciten, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, de conformidad a la Legislación aplicable en la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXXVII. Impulsar procesos de estudio en materia hidrológica, que garanticen el cuidado del agua y la posibilidad de su aprovechamiento para el consumo humano, agropecuario e industrial; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XXXVIII. Favorecer las buenas prácticas en materia de cuidado del agua, ahorro y uso responsable de la misma y contribuir en la remediación de este líquido.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2012)</small>
 
@@ -1878,3 +1954,29 @@ P.O. 22 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a In previsto en este Decreto.
+
+P.O. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 435.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En los casos en que otras leyes y demás disposiciones atribuyan facultades y obligaciones a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, se entenderán concedidas a cada una de las secretarías según les corresponda de conformidad con el presente decreto.
+
+Las menciones o referencias, facultades o atribuciones que se hagan a la Secretaría de Infraestructura en las leyes u otras disposiciones, se entenderán hechas a la Secretaría de Infraestructura y Transporte.
+
+TERCERO.- La Secretaría de Finanzas con la participación que le competa a la Secretaría de Fiscalización y Rendición de Cuentas, realizará la reasignación del personal adscrito a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, a las dependencias que correspondan conforme a las actividades que desempeñan y las atribuciones que el presente decreto establece para cada secretaría.
+
+CUARTO.- En un plazo de treinta días naturales contados a partir de la publicación del presente decreto, el titular de la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, así como los titulares de las unidades administrativas adscritas a la misma, deberán llevar a cabo la entrega-recepción de los asuntos que les correspondan a cada una de las secretarías a que se refiere el presente decreto, de conformidad con las nuevas atribuciones que se les confiere con esta reforma.
+
+QUINTO. Los asuntos en trámite que con motivo de esta reforma deban pasar de una dependencia a otra, permanecerán en el estado que se encuentren hasta que las unidades administrativas que las deban recibir tomen conocimiento de ellos, a excepción, de los asuntos sujetos a plazos improrrogables, en cuyo caso conocerá de inmediato la secretaría que corresponda conforme al presente decreto.
+
+SEXTO.- Los recursos materiales, financieros y el presupuesto asignado a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, deberá ser reintegrado a la Secretaría de Finanzas, para que con la intervención que le competa a la Secretaría de Fiscalización y Rendición de Cuentas, se reasigne a las dependencias que correspondan, conforme a las disposiciones aplicables.
+
+SÉPTIMO.- En un plazo de treinta días se deberán realizar las modificaciones conducentes a las leyes y demás disposiciones que resulten necesarias.
+
+OCTAVO.- Las unidades administrativas adscritas a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, que se transfieran a otras dependencias conforme a las atribuciones que les otorga el presente decreto, tendrán las obligaciones y facultades que les otorga el Reglamento Interior de la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial y demás disposiciones aplicables, hasta en tanto se realicen las adecuaciones conducentes de los reglamentos interiores de las secretarías correspondientes.
+
+Una vez realizado la adecuación de los reglamentos a que se refiere el párrafo anterior, quedará derogado el Reglamento Interior de la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
+
+NOVENO.- En un plazo de quince días posteriores a la entrada en vigor del presente decreto, se deberá realizar la adecuación de los reglamentos interiores y demás disposiciones aplicables de las secretarías, conforme a las nuevas atribuciones que les otorga la presente reforma.
