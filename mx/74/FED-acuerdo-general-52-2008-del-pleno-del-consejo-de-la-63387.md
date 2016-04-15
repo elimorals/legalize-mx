@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2008-del-pleno-del-consejo-de-la-63387"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2015-09-29"
+last_updated: "2016-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63387&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
@@ -115,39 +115,7 @@ Dichos libros electrónicos de registro se formarán automáticamente con la cap
 
 CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Quinta Región contará con una Oficina de Correspondencia Común la cual se denominará Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, que se integrará con el personal que al efecto determine el área administrativa correspondiente del Consejo de la Judicatura Federal; misma que prestará servicio a los órganos jurisdiccionales auxiliares con residencia en esa ciudad, incluso al Tercer Tribunal Colegiado de nueva creación. Respecto del Cuarto y Quinto Tribunales Colegiados del Centro Auxiliar de la Quinta Región, con residencia en los Mochis, Sinaloa y La Paz, Baja California Sur, respectivamente, así como del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, al ser órganos únicos en esas sedes, recibirán los asuntos por conducto de sus propias Oficialías de Partes.
 
-QUINTO. FUNCIONAMIENTO. La Comisión de Creación de Nuevos Organos, mediante los dictámenes que elaborará la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará los juzgados de Distrito y tribunales de Circuito que recibirán el apoyo en el dictado de sentencias por el Centro Auxiliar de la Quinta Región. Asimismo, la Comisión determinará el tiempo, número y cualidad de los asuntos que se enviarán a los órganos jurisdiccionales auxiliares, lo cual se dará a conocer por medio de Acuerdos de la propia Comisión.
-
-Los órganos jurisdiccionales auxiliares funcionarán de la siguiente manera:
-
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
-
-1) El órgano jurisdiccional auxiliado enviará los asuntos a la Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, o bien a la Oficialía de Partes de cada uno de los órganos colegiados únicos, según corresponda.
-
-2) El órgano jurisdiccional de origen formará un expediente de antecedentes que contenga las copias de las actuaciones que a juicio del titular deba tener, así como el acuerdo de envío al Centro Auxiliar y cualquier actuación posterior a dicho envío, entre otros.
-
-3) La Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, mediante el sistema computarizado que se instale para tales efectos, registrará y distribuirá los asuntos de forma proporcional sin importar la materia, entre los órganos jurisdiccionales auxiliares indicados por la Comisión de Creación de Nuevos Organos. Lo anterior, a fin de mantener el equilibrio en las cargas de trabajo en el referido Centro.
-
-4) La Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, emitirá una boleta con la cual se acusará recibo de los expedientes y anexos, y precisará a qué juzgado o tribunal fue turnado el asunto y el nombre del titular o presidente del mismo. Dicha boleta o acuse de recibo se enviará oportunamente al órgano jurisdiccional de origen.
-
-5) El órgano jurisdiccional de origen deberá notificar a las partes, por lista, a qué órgano jurisdiccional le correspondió el turno para resolver el asunto remitido.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 53/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ENERO DE 2012)</small>
-
-6) Una vez emitida la resolución de que se trate, los titulares y presidentes de los órganos jurisdiccionales Auxiliares, deberán enviar los asuntos al órgano de origen. A fin de que el órgano jurisdiccional de origen proceda a la notificación correspondiente de la sentencia, la resolución que corresponda se deberá enviar a través de cualquier medio de almacenamiento electrónico.
-
-7) El órgano jurisdiccional de origen se encargará de todos los trámites posteriores a su resolución, inclusive de la notificación del fallo respectivo, hasta su archivo definitivo.
-
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
-
-8) De ser el caso, la Dirección General de Tecnologías de la Información, se encargará de lo concerniente a la adecuación del sistema automatizado que se llevará en la Oficina de Correspondencia Común y en las Oficialías de Partes del Centro Auxiliar de la Quinta Región, así como la de los órganos jurisdiccionales de origen, para el envío de documentación y expedientes.
-
-El órgano jurisdiccional de origen recibirá las promociones posteriores a la remisión de los expedientes al órgano jurisdiccional Auxiliar para el dictado de la sentencia, el cual la acordará y agregará en el expediente de antecedentes remitiéndolo al órgano auxiliar que le tocó conocer de dicho asunto, de conformidad con el mecanismo indicado en el presente punto.
-
-Los titulares y presidentes deberán cerciorarse que en los medios electrónicos e impresos pertinentes de sus oficinas de correspondencia común u oficialías de partes, se asiente la mencionada remisión, según corresponda, a los órganos jurisdiccionales auxiliares y auxiliados.
-
-La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, mediante los mecanismos de seguridad y protección que autorice, determinará el sistema para el envío, entrega y devolución de expedientes.
-
-Los titulares o presidentes de los órganos jurisdiccionales comisionarán, de su personal, al responsable de la elaboración de un acta circunstanciada cada vez que entreguen expedientes para el dictado de su sentencia, o reciban los ya fallados; documento que suscribirán en compañía de uno de los secretarios.
+QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
 
 > <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
@@ -270,3 +238,13 @@ Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residen
 El Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, tendrá competencia mixta y jurisdicción territorial en el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
 
 …”.
+
+D.O.F. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se deroga el punto Quinto de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 20/2009, que crea el Centro Auxiliar de la Primera Región; 10/2008, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán; 18/2008, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán; 27/2008, por el que se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán; 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán; 53/2008, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán; 54/2008, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; 32/2010, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán; 51/2009, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán; 54/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán; y 33/2011, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán.
