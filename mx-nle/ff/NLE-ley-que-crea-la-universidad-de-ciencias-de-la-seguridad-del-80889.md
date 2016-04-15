@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-universidad-de-ciencias-de-la-seguridad-del-808
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2016-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD DEL ESTADO DE NUEVO LEÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de abril de 2011.
 
@@ -51,25 +51,29 @@ II. Estado: El Estado Libre y Soberano de Nuevo León;
 
 III. La Junta: La Junta de Gobierno de la Universidad de Ciencias de la Seguridad;
 
-IV. Consejo Académico: El Consejo Académico de la Universidad de Ciencias de la Seguridad;
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-V. Ley de la Materia: La Ley de Seguridad Pública para el Estado de Nuevo León;
+IV. Certificado con efectos de Patente Policial.- Es el documento que otorga la Universidad de Ciencias de la Seguridad del Estado de Nuevo León para el ejercicio de la función Policial;
 
-VI. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+V. Consejo Académico: El Consejo Académico de la Universidad de Ciencias de la Seguridad;
 
-VII. Municipios: Los Municipios del Estado Libre y Soberano de Nuevo León;
+VI. Ley de la Materia: La Ley de Seguridad Pública para el Estado de Nuevo León;
 
-VIII. Programa: El Programa Estatal de Seguridad Pública;
+VII. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
 
-IX. Rector: El Rector de la Universidad de Ciencias de la Seguridad;
+VIII. Municipios: Los Municipios del Estado Libre y Soberano de Nuevo León;
 
-X. Reglamento: El Reglamento Interior de la Universidad de Ciencias de la Seguridad;
+IX. Programa: El Programa Estatal de Seguridad Pública;
 
-XI. Secretaría: La Secretaría de Seguridad Pública del Estado de Nuevo León;
+X. Rector: El Rector de la Universidad de Ciencias de la Seguridad;
 
-XII. Sistema Estatal: El Sistema Integral de Seguridad Pública del Estado de Nuevo León; y
+XI. Reglamento: El Reglamento Interior de la Universidad de Ciencias de la Seguridad;
 
-XIII. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
+XII. Secretaría: La Secretaría de Seguridad Pública del Estado de Nuevo León;
+
+XIII. Sistema Estatal: El Sistema Integral de Seguridad Pública del Estado de Nuevo León; y
+
+XIV. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 3º.
 
@@ -210,6 +214,10 @@ La operación de las escuelas a que se hace referencia en los párrafos que ante
 Independientemente de los procesos tendientes a mantener la actualización de conocimientos y habilidades para el desempeño de funciones administrativas y de dirección; el personal que ejerce labores de tipo operativo, deberá someterse cada dos años y de manera obligatoria, a los cursos que en los términos del Reglamento, de la Ley General y de la Ley de la Materia, sean necesarios para acreditar la permanencia en el Sistema Estatal.
 
 En los términos del párrafo anterior, se entiende que el certificado o patente que permite ejercer labores operativas como parte del Sistema Estatal con base en la certificación, título o constancia que expide la Universidad, tendrá vigencia de dos años. Para efectos de las reglas de acreditación del curso se estará a lo dispuesto por el Reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2016)</small>
+
+De conformidad con la Ley de la Materia, ninguna persona podrá ejercer la fuerza pública de manera legítima, a nombre de autoridad municipal o estatal si no cuenta con el Certificado de Patente Policial vigente a que se refiere el párrafo anterior.
 
 Para el caso de personal integrado al Sistema Estatal que no pertenezca al Servicio Policial de Carrera, la vigencia a que se refiere el párrafo anterior será de tres años.
 
@@ -552,3 +560,13 @@ JAIME CASTAÑEDA BRAVO
 EL C. SECRETARIO DE EDUCACION DEL ESTADO
 
 JOSÉ ANTONIO GONZÁLEZ TREVIÑO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 096. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE SEGURIDAD PÚBLICA Y LA LEY QUE CREA LA UNIVERSIDAD DE CIENCIAS DE LA SEGURIDAD AMBAS DEL ESTADO DE NUEVO LEÓN; ASÍ COMO LA LEY DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Municipios del Estado de Nuevo León, deberán iniciar la regularización de la Certificación con efectos de Patente Policial del personal en activo que no cuente con ella, en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
