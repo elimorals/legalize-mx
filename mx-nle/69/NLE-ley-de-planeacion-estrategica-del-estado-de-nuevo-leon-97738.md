@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-planeacion-estrategica-del-estado-de-nuevo-leon-97738"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-17"
-last_updated: "2014-01-17"
+last_updated: "2016-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PLANEACIÓN ESTRATÉGICA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
 
 Ley publicada en Periódico Oficial del Estado de Nuevo León, el viernes 17 de enero de 2014.
 
@@ -103,9 +103,21 @@ X. Maximización del beneficio social de las acciones de gobierno, encaminadas a
 
 XI. Coordinación con los órdenes de gobierno federal y municipal a fin de implementar acciones y programas conjuntos, que faciliten el logro de los objetivos incluidos en los diferentes instrumentos de planeación;
 
-XII. Rendición de cuentas, transparencia y respeto al derecho fundamental de toda persona al acceso a la información pública en posesión de las dependencias y entidades de la Administración Pública Estatal, de conformidad con la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-XIII. La aplicación de la gestión por resultados en la administración pública del Estado.
+XII. Rendición de cuentas, transparencia y respeto al derecho fundamental de toda persona al acceso a la información pública en posesión de las dependencias y entidades de la Administración Pública Estatal, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XIII. La aplicación de la gestión por resultados en la administración pública del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XIV. Vinculación con el presupuesto de egresos, de manera que la aplicación del gasto guarde relación con el cumplimiento del Plan Estratégico y el Plan Estatal; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+XV. Participación del Congreso del Estado, como representante de la sociedad nuevoleonesa, en el seguimiento del gasto público en relación con el Plan Estratégico y el Plan Estatal.
 
 ###### Artículo 4°.
 
@@ -135,7 +147,9 @@ II. El Presidente Ejecutivo, designado a propuesta del Titular del Ejecutivo, de
 
 III. Seis consejeros ciudadanos de amplio reconocimiento público y conocimiento de la realidad económica y social del Estado, quienes a su vez serán los presidentes de las Comisiones a que se refiere el artículo 11 de esta Ley;
 
-IV. El representante del H. Congreso del Estado, designado por el Pleno del mismo;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+IV. El representante del H. Congreso del Estado, que será preferentemente el Presidente y/o algún miembro de la Comisión de Hacienda del Estado; mismo que sería designado por el pleno a propuesta de esta comisión.
 
 V. El Presidente del Tribunal Superior de Justicia del Estado;
 
@@ -145,7 +159,13 @@ VII. El Titular de la Secretaría General de Gobierno;
 
 VIII. El Titular de la Secretaría de Finanzas y Tesorería General del Estado; y
 
-IX. Un representante del Gobierno Federal, a invitación del Presidente del Consejo;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+IX. Un representante del Gobierno Federal, a invitación del Presidente del Consejo; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+X. El Titular de la Coordinación Ejecutiva de la Administración Pública del Estado.
 
 El Consejo contará con un Secretario Técnico nombrado por el Consejo en la primera sesión; cuyo carácter será remunerado, salvo que se encuentre dentro del supuesto del artículo 141 de la Constitución Política del Estado Libre y Soberano de Nuevo León, y sea designado de entre los integrantes de la administración Pública Estatal.
 
@@ -161,7 +181,9 @@ El Consejo sesionará trimestralmente en forma ordinaria y en forma extraordinar
 
 De no ser convocadas las sesiones ordinarias por su Presidente, lo hará en su representación el Secretario Técnico.
 
-Las sesiones del Consejo serán válidas con la asistencia del Presidente y al menos la mitad de los consejeros, en primera convocatoria y, en segunda, con los consejeros que asistan.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
+
+Las sesiones del Consejo serán válidas con la asistencia del Presidente y al menos ocho de los consejeros, en primera convocatoria y, en segunda, con los consejeros que asistan.
 
 El Consejo tomará sus acuerdos mediante consenso.
 
@@ -297,7 +319,9 @@ El Plan Estratégico que sea sometido a consulta pública deberá analizarse y e
 
 El Plan Estratégico Estatal es el documento en el que se identifican las prioridades de mediano plazo para el desarrollo estatal, así como de orientación en la gestión por resultados y presupuesto basado en resultados. Contiene los objetivos, y las estrategias y líneas de acción que implementará el Gobierno del Estado para alcanzarlos; define sus proyectos Estratégicos y programas prioritarios, mismos que serán congruentes con el Plan Estratégico. El Plan Estratégico y el Plan Estatal definen, así mismo, los indicadores del desarrollo económico y social, los cuales deben permitir la formulación de comparaciones nacionales e internacionales.
 
-Al inicio de cada administración el Ejecutivo Estatal, es el responsable de formular el Plan Estatal. Para ello se llevará a cabo un ejercicio de consulta ciudadana que permita recoger sus intereses y aspiraciones. El Plan Estatal se hará del conocimiento del Consejo para su opinión y deberá aprobarse por el Titular del Ejecutivo y publicarse en el Periódico Oficial del Estado dentro de los primeros seis meses de su gestión. Para tal efecto el Ejecutivo del Estado emitirá el manual de procedimientos para la elaboración del Plan Estatal y sus programas.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2016)</small>
+
+Al inicio de cada administración el Ejecutivo Estatal, es el responsable de formular el Plan Estatal. Para ello se llevará a cabo un ejercicio de consulta ciudadana que permita recoger sus intereses y aspiraciones. Corresponde a la Coordinación Ejecutiva de la Administración Pública del Estado coordinar la formulación del Plan Estatal, el cual se hará del conocimiento del Consejo para su opinión y deberá aprobarse por el Titular del Ejecutivo y publicarse en el Periódico Oficial del Estado dentro de los primeros seis meses de su gestión. Para tal efecto el Ejecutivo del Estado emitirá el manual de procedimientos para la elaboración del Plan Estatal y sus programas.
 
 El Plan Estatal deberá contener, al menos, los siguientes elementos:
 
@@ -337,6 +361,12 @@ Los resultados de los análisis de estrategias y evaluaciones de desempeño que 
 
 La revisión de los programas sectoriales, regionales y especiales será responsabilidad de la Administración Pública Estatal y serán actualizados de conformidad con los ajustes que se hicieren al Plan Estratégico y al Plan Estatal, dadas las circunstancias de sus correspondientes ámbitos de acción.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2016)</small>
+
+Artículo 22 bis. El Consejo remitirá al Congreso del Estado la información relativa a las evaluaciones realizadas al Plan Estratégico y al Plan Estatal, así como los resultados de las mismas, en un plazo que no exceda de diez días hábiles posteriores a la conclusión de las evaluaciones.
+
+El Titular del Ejecutivo informará al Congreso del Estado, en un plazo que no exceda de 10 días hábiles posteriores a la toma de acuerdos correspondientes, acerca de las decisiones tomadas respecto a la procedencia de la implementación de las propuestas y opiniones que deriven del análisis de estrategias y evaluaciones de desempeño que se lleven a cabo por el Consejo al Plan Estratégico y al Plan Estatal.
+
 ### CAPÍTULO QUINTO. DE LA COORDINACIÓN Y DE LA CONCERTACIÓN
 
 ###### Artículo 23.
@@ -371,9 +401,21 @@ I. El informe anual del Ejecutivo Estatal sobre la situación y perspectivas gen
 
 II. El Informe de Cuenta Pública del Gobierno Central y los correspondientes a las dependencias y entidades de la administración pública estatal;
 
-III. Los resultados del avance de los proyectos Estratégicos y los programas prioritarios, así como con los indicadores de desarrollo económico y social del Estado; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
 
-IV. La evaluación del Plan Estratégico.
+III. Los resultados del avance de los proyectos Estratégicos y los programas prioritarios, así como con los indicadores de desarrollo económico y social del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+IV. Informe anual dirigido al Congreso del Estado, donde se detalle lo siguiente:
+
+a) Análisis de la relación entre el gasto público y el Plan Estratégico, donde pueda apreciarse con exactitud los recursos destinados a las prioridades de mediano plazo y a los proyectos estratégicos y el impacto en los indicadores del desarrollo económico y social; y
+
+b) Análisis de la relación entre el gasto público y el Plan Estatal, donde pueda apreciarse con exactitud los recursos destinados a los programas de Gobierno y obras de infraestructura destinadas a atender la problemática, demandas y oportunidades del Estado, identificadas en el análisis de la situación de Desarrollo del Estado, contenido en dicho Plan; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2016)</small>
+
+V. La evaluación del Plan Estratégico.
 
 ### CAPÍTULO SÉPTIMO. DE LA PARTICIPACIÓN CIUDADANA EN LA PLANEACIÓN
 
@@ -428,3 +470,11 @@ ALVARO IBARRA HINOJOSA
 EL C. JEFE DE LA OFICINA EJECUTIVA DEL GOBERNADOR
 
 JORGE DOMENE ZAMBRANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 093. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PLANEACIÓN ESTRATÉGICA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
