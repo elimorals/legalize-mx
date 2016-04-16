@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2013-02-23"
+last_updated: "2016-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -287,17 +287,25 @@ Igualmente, se podrá convenir entre autoridades estatales y municipales la asis
 
 Los usos específicos del agua de jurisdicción estatal, son:
 
-I.- Domésticos, considerándose como tales los contratados para casa-habitación;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+I.- Domésticos, considerándose como tales: el uso particular de las personas y del hogar así como el riego de sus jardines y de sus árboles de ornato.
+
+En el caso de los inmuebles dados en arrendamiento, los mismos se considerarán de uso doméstico cuando el objeto del arrendamiento sea para casa-habitación, con independencia de que sean contratados por el propietario o el posesionario, conforme lo señala la fracción I, del artículo 48 de este ordenamiento.
 
 II.- Públicos, los utilizados en edificios, instalaciones y espacios públicos de la federación, el estado y los municipios;
 
-III.- Industriales, los que se utilicen en los giros considerados por la Cámara Nacional de la Industria de la Transformación;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
 
-IV.- Comerciales, los que se utilicen en los giros considerados por la Cámara Nacional de Comercio; y
+III.- Industriales, los que se utilicen en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en parques industriales, en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier uso o aprovechamiento de la transformación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
 
-V.- Agrícola, considerándose como tal los destinados para el uso en actividades productivas del campo; y
+IV.- Comerciales, los destinados a los establecimientos profesionales, comerciales o de servicios para atender las necesidades propias de la actividad y de quienes los ocupan. Este tipo podrá ser de consumo Alto, Medio ó bajo, en su caso.
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+V.- Agropecuario, los destinados a la actividad de siembra, cultivo, cosecha de productos agrícolas, cría y engorda de ganado, aves de corral y otros animales y su preparación para la primera enajenación, siempre que los productos no hayan sido objeto de transformación industrial; y
 
 VI.- Otros.
 
@@ -1093,11 +1101,11 @@ Al establecerse los servicios de agua potable y alcantarillado en los lugares qu
 
 Los interesados en contratar los servicios de agua potable y alcantarillado deberán presentar sus solicitudes cumpliendo con los requisitos señalados por el organismo operador, en los plazos que se indican en esta Ley.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 51.
 
-A cada predio corresponderá una toma de agua independiente y dos descargas, una de aguas negras y otra pluvial, por lo que estos sistemas deben estar separados; el organismo operador fijará las disposiciones a las que se sujetará el diámetro de las mismas.
+Cada contratación del servicio comprenderá lo relativo a una toma de agua independiente y dos descargas, una de aguas negras y otra pluvial, por lo que estos sistemas deben estar separados; el organismo operador fijará las disposiciones a las que se sujetará el diámetro de las mismas.
 
 ###### ARTICULO 52.
 
@@ -1145,9 +1153,11 @@ La solicitud a que se refiere el artículo anterior será resuelta por el organi
 
 No deben existir derivaciones de tomas de agua o de descarga de alcantarillado. Cualquier excepción estará sujeta a la autorización del proyecto o control de su ejecución por el organismo operador, debiendo en todo caso contarse con las condiciones necesarias para que el mismo organismo operador pueda cobrar las cuotas o tarifas que le correspondan por el suministro de dicho servicio.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 59.
 
-Todo predio en el que se construyan edificios o condominios que tengan como destino la instalación de departamentos, despachos, negocios o comercios independientes o similares, deberá contar con las instalaciones de agua y alcantarillado adecuadas, autorizadas por la autoridad competente y el organismo operador, a fin de que esté en condiciones de prestar a cada usuario tales servicios.
+En el caso de edificios o condominios que tengan como destino la instalación de departamentos, despachos, negocios o comercios independientes o similares, podrán contar, siempre que las condiciones físicas lo permitan, con las instalaciones adecuadas para la toma individual de agua potable y las conexiones de descarga de alcantarillado, autorizadas por la autoridad competente y el organismo operador, a fin de que estén en condiciones de prestar a cada usuario tales servicios.
 
 ###### ARTICULO 60.
 
@@ -1714,3 +1724,11 @@ P.O. 28 DE ENERO DE 2012.
 P.O. 23 DE FEBRERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 87 SE REFORMAN LAS FRACCIONES I, III, IV Y V DEL ARTÍCULO 10, ASÍ COMO EL ARTÍCULO 51 Y 59, TODOS DE LA LEY DE AGUAS PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
