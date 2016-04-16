@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2015-11-05"
+last_updated: "2016-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -603,41 +603,19 @@ Estará sujeta al régimen de concesión la prestación del servicio público de
 
 La prestación del servicio público de transporte en la modalidad de servicios especiales de transporte de trabajadores, queda sujeta al régimen de concesiones que se otorgarán mediante adjudicación directa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
 
-La prestación de servicio público de transporte, a través de personas físicas o morales en las modalidades a que se refiere la fracción IV en todos sus incisos, y los incisos a) y b) de la fracción V ambas del artículo 21, así como las de transporte de carga que se consignan en el artículo 22 de esta Ley, se efectuará mediante la expedición de permiso temporal, sin necesidad de someterse al procedimiento de concurso que establece este Ordenamiento, siempre y cuando se cumplan los requerimientos que se establecen en el artículo 51 de la presente Ley, y los siguientes requisitos:
+I. (DEROGADA, P.O. 16 DE ABRIL DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+II. (DEROGADA, P.O. 16 DE ABRIL DE 2016)
 
-I. La Secretaría deberá emitir el dictamen técnico, previa opinión del Consejo Municipal de Transporte Público correspondiente, el cual deberá justificar lo siguiente:
+III. (DEROGADA, P.O. 16 DE ABRIL DE 2016)
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
 
-a) La modalidad y el número de permisos temporales a expedir.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
 
-b) El tipo y características de los vehículos que se requieran, siendo requisito esencial poseer dispositivos de control de velocidad y aceleración, que eviten el desplazamiento de las unidades de transporte urbano colectivo, a una velocidad mayor a los sesenta kilómetros por hora, y mantengan el nivel constante y confortable de aceleración.
-
-c) El itinerario y paradas; en caso de rutas, su origen y destino.
-
-d) Las condiciones generales para la prestación del servicio.
-
-e) Las demás que señalen las disposiciones jurídicas y administrativas aplicables;
-
-II. Contar con la factibilidad o licencia de uso de suelo, en su caso, expedido por el ayuntamiento, para el funcionamiento de los sitios o las bases de origen y destino que se deban de emplear, y
-
-III. Acreditar la propiedad de un vehículo con las características a que se refiere el dictamen técnico.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2014)</small>
-
-En igualdad de circunstancias, los permisos temporales se otorgarán preferentemente a los solicitantes que acrediten la vecindad en la población donde se vaya a prestar el servicio público de transporte, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley para la adjudicación de permisos temporales, la Secretaría oirá directamente la opinión de los consejos municipales, para emitir la declaratoria de necesidades correspondiente.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
-
-Estos mismos requisitos serán aplicables para la adjudicación directa de concesiones en la modalidad de servicios especiales de transporte de trabajadores.
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2015)</small>
-
-En su caso, se podrá tomar en cuenta la opinión de la Asamblea General Comunitaria, en lo relativo al otorgamiento de concesiones o permisos que presten el servicio dentro de su jurisdicción.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
@@ -659,7 +637,7 @@ En la elaboración de la declaratoria de necesidades, el titular del Ejecutivo p
 
 El titular del Ejecutivo del Estado otorgará las concesiones de las modalidades a que se refieren las fracciones I, II y III del artículo 21 de la presente Ley, mediante el procedimiento de concurso establecido en este mismo Ordenamiento y su Reglamento.
 
-El titular de la Secretaría expedirá los permisos temporales, los cuales en todas las circunstancias serán por el término de un año, en las modalidades a que se refieren los incisos de la fracción IV, y los incisos a) y b) de la fracción V, del artículo 21, y todas las comprendidas en el artículo 22 de la presente Ley, sin necesidad de someterse al procedimiento de concurso, cubriendo los requisitos que señalan las fracciones I, II y III del artículo 31 de la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
 
@@ -693,11 +671,11 @@ Cualquier tipo de operación que se realice sin previa autorización del titular
 
 Los concesionarios que sean autorizados para ceder sus derechos de acuerdo a lo establecido en la fracción III de este artículo, no podrán, en ningún caso, volver a ser sujetos para el otorgamiento de otra concesión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 36.
 
-La declaratoria de necesidades para el otorgamiento de concesiones o permisos temporales contendrá como mínimo lo siguiente:
+La declaratoria de necesidades para el otorgamiento de concesiones contendrá como mínimo lo siguiente:
 
 I. Los resultados de los estudios técnicos que justifiquen su otorgamiento;
 
@@ -909,15 +887,25 @@ III. No exista conflicto respecto a la personalidad del órgano directivo en el 
 
 ### Capítulo IV. De la Expedición de Permisos
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 51.
 
-El titular de la Secretaría tendrá la facultad indelegable para expedir permisos temporales para la prestación del servicio público de transporte, en las modalidades que establecen la fracción IV, y los incisos a) y b) de la fracción V, del artículo 21, y todas las que comprende el artículo 22 de la presente Ley.
+El titular de la Secretaría tendrá la facultad indelegable para expedir permisos temporales para la prestación del servicio público de transporte, en las modalidades que establecen las fracciones IV y V del artículo 21 de esta Ley, y todas las que comprende el artículo 22 de la presente Ley.
 
-Los permisos a que se refiere el presente artículo tendrán una vigencia de un año, siendo improrrogables.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2016)</small>
 
-Su expedición, además de lo que señalan las fracciones I, II, y III del artículo 31 de la presente Ley, quedará sujeta a cumplir los siguientes requisitos:
+Los permisos a que se refiere el presente artículo tendrán una vigencia de hasta cinco años, y podrán ser prorrogados a juicio de la Secretaría, siempre y cuando se cumplan los requisitos señalados en esta Ley y en su reglamento, y el permisionario haya cumplido con las obligaciones que determina la ley.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2016)</small>
+
+Los permisos especificarán, en su caso, el origen y destino, así como el itinerario cuando se trate de rutas y cualquier otra condición que se deba cumplir.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2016)</small>
+
+Para su expedición, los interesados deberán presentar solicitud ante la Secretaría y cumplir previamente con los siguientes requisitos y, con los que, en su caso, determine la Secretaría:
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
 I. Para el caso de personas físicas:
 
@@ -927,15 +915,25 @@ b) No ser titular de diversa concesión o permiso de servicio público de transp
 
 c) Que no se le haya declarado caducidad, revocado, declarado nulidad o haya cedido o recibido en cesión concesión o permiso de servicio público de transporte en cualquier modalidad, expedida por el Gobierno del Estado.
 
-d) Contar con la solvencia económica necesaria para prestar el servicio público de transporte en las mejores condiciones para el usuario.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2016)</small>
+
+d) Contar con la solvencia económica necesaria a juicio de la Secretaría, para prestar el servicio público de transporte en las mejores condiciones para el usuario.
 
 e) No tener antecedentes penales.
 
-f) Contar con licencia, seguro y la capacitación que especifique el dictamen técnico para la modalidad que se trate.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2016)</small>
+
+f) Contar con licencia para la modalidad que se trate.
 
 g) No tener reclamos pendientes de solventar por daños a terceros derivados de la prestación del servicio público de transporte.
 
 h) Aprobar examen médico y toxicológico, y
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2016)</small>
+
+í) Presentar el vehículo que, en su caso, sea autorizado por la Secretaría, mismo que deberá contar con seguro vigente, así como los colores, logotipos y equipamiento que se le indiquen, y
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
 II. Para el caso de personas morales:
 
@@ -943,7 +941,9 @@ a) Que tenga domicilio social y fiscal en el Estado.
 
 b) Que al solicitante no se le haya declarado caducidad, revocado, declarado nulidad o haya cedido o recibido en cesión concesión o permiso del servicio público de transporte en cualquier modalidad expedida por el Gobierno del Estado.
 
-c) Que cuente con la solvencia económica y moral necesarias para prestar el servicio público de transporte en las mejores condiciones para el usuario.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2016)</small>
+
+c) Que cuente con la solvencia económica necesaria a juicio de la Secretaría, para prestar el servicio público de transporte en las mejores condiciones para el usuario.
 
 d) Que no tenga reclamos pendientes de solventar por daños a terceros derivados de la prestación del servicio público de transporte.
 
@@ -2470,3 +2470,13 @@ P.O. 5 DE NOVIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0199.- REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE TRANSPORTE PÚBLICO; Y REFORMAS Y DEROGACIONES AL ARTÍCULO 70 DE LA LEY DE HACIENDA AMBAS PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes tendrá ciento veinte días para realizar las adecuaciones al reglamento respectivo.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
