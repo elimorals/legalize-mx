@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2015-12-19"
+last_updated: "2016-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1605,11 +1605,29 @@ b) Transporte de minerales 140; y
 
 c) Carga y transporte de materiales para construcción 146.04.
 
+> <small>[N. DE E. VÉASE ARTÍCULO SEGUNDO DEL DECRETO 0199, PUBLICADO EN EL P.O. DE 16 DE ABRIL DE 2016, MEDIANTE EL CUAL "SE REFORMA PARTE RELATIVA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN III...".]</small>
+
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
 
-III. Los permisos temporales para prestar servicio público de transporte causarán los siguientes derechos expresados en salarios mínimos: modalidad rural y servicios especiales 50 salarios mínimos.
+III. Los permisos temporales para prestar servicio público de transporte causarán los siguientes derechos expresados en salarios mínimos:
 
-Modalidades de carga a excepción del servicio de grúa, 25 salarios mínimos; Grúas y arrastre de vehículos 40 salarios mínimos.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+MODALIDAD SMG
+
+AÑOS 1 2 3 4 5
+
+Las modalidades establecidas en las
+
+fracciones IV y V del artículo 21 y todas las
+
+modalidades del artículo 22, ambos, de la Ley
+
+de Transporte Público del Estado de San
+
+Luis Potosí. 50 100 150 200 250
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
 
 IV. (DEROGADA, P.O. 15 DE JULIO DE 2014)
 
@@ -3004,3 +3022,13 @@ P.O. 19 DE DICIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0199.- REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE TRANSPORTE PÚBLICO; Y REFORMAS Y DEROGACIONES AL ARTÍCULO 70 DE LA LEY DE HACIENDA AMBAS PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes tendrá ciento veinte días para realizar las adecuaciones al reglamento respectivo.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
