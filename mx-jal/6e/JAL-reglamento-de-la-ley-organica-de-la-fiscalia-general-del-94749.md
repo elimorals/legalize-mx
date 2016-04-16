@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-94749"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-18"
-last_updated: "2015-02-19"
+last_updated: "2016-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE FEBRERO DE 2015 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2016.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 18 de junio de 2013.
 
@@ -227,9 +225,13 @@ XIII. Promover la cultura de la denuncia de la corrupción y de hechos delictuos
 
 XIV. Autorizar la realización de estudios jurídicos, socioeconómicos y criminológicos;
 
-XV. Emitir lineamientos, criterios y políticas de prevención social de la violencia y la delincuencia, de seguridad pública, de procuración de justicia, de reinserción social, de protección civil y de participación ciudadana;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
 
-XVI. Establecer, operar y evaluar programas de prevención del delito, de seguridad pública, de procuración de justicia, de reinserción social, de protección civil y de participación ciudadana;
+XV. Emitir lineamientos, criterios y políticas de seguridad pública, procuración de justicia y reinserción social;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+XVI. Establecer, operar y evaluar programas de seguridad pública, procuración de justicia y reinserción social;
 
 XVII. Diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y aquéllos de seguimiento, requeridos para la ejecución de medidas para adolescentes o adultos jóvenes en conflicto con la ley, en los términos de la legislación en la materia;
 
@@ -255,7 +257,9 @@ XXVII. Determinar los niveles de seguridad y acceso del personal a la informaci�
 
 XXVIII. Emitir acuerdos y órdenes ejecutivas para garantizar el resguardo de la información a cargo de la Fiscalía General, cuya clasificación se realizará conforme a la ley de la materia;
 
-XXIX. Establecer mecanismos eficientes para involucrar a la ciudadanía en las distintas etapas del proceso de seguridad pública y procuración de justicia, desde la prevención social de la violencia y la delincuencia, la denuncia, el proceso penal, el cumplimiento de la sentencia y la reinserción social;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+XXIX. Establecer mecanismos eficientes para involucrar a la ciudadanía en las distintas etapas del proceso de seguridad pública y procuración de justicia, desde la prevención, denuncia, proceso penal, cumplimiento de la sentencia y a la reinserción social;
 
 XXX. Establecer mecanismos eficientes de atención al público y de recepción de denuncias ciudadanas;
 
@@ -319,11 +323,7 @@ b) Dirección de Criminalística; y
 
 c) Dirección del Centro Integral de Comunicaciones;
 
-VIII. Dirección General de Prevención Social, Planeación y Vinculación:
-
-a) Dirección de Educación Preventiva; y
-
-b) Dirección de Organización y Vinculación;
+VIII. (DEROGADA, P.O. 16 DE ABRIL DE 2016)
 
 IX. Dirección General de la Unidad de Planeación y Evaluación de Políticas Institucionales:
 
@@ -561,7 +561,9 @@ XIV. En el ámbito de su competencia, fortalecer e implementar mecanismos de coo
 
 XV. Diseñar e implementar cursos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia electoral;
 
-XVI. Proponer, en coordinación con los Órganos y las instancias administrativas de la Fiscalía General, políticas, estrategias y líneas de acción para combatir los delitos materia de su competencia, así como participar, en coordinación con las instancias competentes, en la elaboración y ejecución de los programas de prevención social;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+XVI. Proponer, en coordinación con los Órganos y las instancias administrativas de la Fiscalía General, políticas, estrategias y líneas de acción para combatir los delitos materia de su competencia;
 
 XVII. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para el apoyo a la procuraduría de justicia; y
 
@@ -633,7 +635,9 @@ XIV. Proponer al Fiscal General los programas, lineamientos, políticas y medida
 
 XV. Proponer al Fiscal General, para su aprobación, los lineamientos sobre el funcionamiento del propio Comisionado y sus unidades administrativas;
 
-XVI. Conducir en el Estado las normas, políticas y programas que deriven de la Ley General del Sistema Nacional de Seguridad Pública con el fin de lograr la conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado, así como la prevención social de la violencia y la delincuencia, de acuerdo con la Ley Orgánica y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+XVI. Conducir en el Estado las normas, políticas y programas que deriven de la Ley General del Sistema Nacional de Seguridad Pública con el fin de lograr la conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado, de acuerdo con la Ley Orgánica y demás ordenamientos aplicables, y coordinarse con las autoridades estatales competentes en materia de prevención social de la violencia y la delincuencia;
 
 XVII. Participar en las bases, lineamientos, normas y criterios pertinentes para el diseño, aplicación y evaluación de la política criminal, en coordinación con los demás órganos desconcentrados, dependencias y entidades públicas, que tengan a su cargo atribuciones afines a la misma;
 
@@ -875,9 +879,15 @@ XXXV. Participar en los convenios y contratos en que intervenga el Fiscal Genera
 
 XXXVI. Realizar las funciones de enlace de la Fiscalía General con la Comisión Nacional o Estatal de Derechos Humanos, así como las comisiones de derechos humanos de la Legislatura Local y del Congreso de la Unión;
 
-XXXVII. Realizar programas de difusión y orientación mediante conferencias, cursos, seminarios y eventos que tiendan a fortalecer la cultura de respeto a los derechos humanos, dirigidos a los servidores públicos de la Fiscalía General ya la comunidad en general;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
 
-XXXVIII. Realizar estudios y programas de prevención del delito en el ámbito de sus atribuciones; y
+XXXVII. Realizar programas de difusión y orientación mediante conferencias, cursos, seminarios y eventos que tiendan a fortalecer la cultura de respeto a los derechos humanos, dirigidos a los servidores públicos de la Fiscalía General y a la comunidad en general; y
+
+(N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XXXIX.]
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+XXXVIII. Las demás que le señalen las disposiciones aplicables y las que le delegue el Fiscal General.
 
 XXXIX. Las demás que le señalen las disposiciones aplicables y las que le confiera el Fiscal General.
 
@@ -1125,7 +1135,9 @@ II. Emitir opiniones y sugerencias para la elaboración y evaluación de los pro
 
 III. Sugerir mecanismos para vincular el trabajo de las fuerzas de seguridad pública con la sociedad;
 
-IV. Promover políticas públicas y programas en materia de prevención del delito, auto seguridad y divulgación de medidas contra el crimen;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
+
+IV. Elaborar propuestas de políticas públicas y programas en materia de prevención del delito, seguridad personal y divulgación de medidas contra el crimen, y remitirlas al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública para su consideración;
 
 V. Promover actividades de observación ciudadana sobre el funcionamiento cotidiano y los resultados de los servicios de procuración de justicia;
 
@@ -1218,3 +1230,23 @@ Séptimo. Se concede al Fiscal Electoral un plazo de noventa días para que, por
 Octavo. La Fiscalía General deberá aplicar el presupuesto autorizado y disponible a la ejecución de las funciones sustantivas y a la consecuente operación de la Fiscalía Especial en materia de Delitos Electorales.
 
 Noveno. Las referencias hechas al Código Nacional de Procedimientos Penales en los artículos que se reforman a través de este Acuerdo, se entenderán al Código de Procedimientos Penales para el Estado Libre y Soberano de Jalisco, en tanto entre en vigor dicho Código Nacional de Procedimientos Penales en términos de las disposiciones legales aplicables.
+
+P.O. 16 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA LOS REGLAMENTOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO Y EL DEL SECRETARIADO EJECUTIVO DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO. El presente acuerdo iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Planeación, Administración y Finanzas realizará las adecuaciones orgánico administrativas para transferir al personal del servicio público adscrito a la Dirección General de Prevención Social, Planeación y Vinculación de la Fiscalía General del Estado de Jalisco, al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, para el efecto de integrarlo a la plantilla de personal del Centro de Prevención Social del Estado de Jalisco, dentro de los treinta días naturales siguientes al inicio de la vigencia del presente acuerdo.
+
+El personal operativo de la Dirección General de Prevención Social, Planeación y Vinculación será reubicado en la misma Fiscalía General del Estado.
+
+En un plazo máximo de treinta días naturales, la Secretaría General de Gobierno, a través de su Oficialía Mayor, llevará a cabo la emisión de los nombramientos de los servidores públicos transferidos de la Fiscalía General al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública para la creación del Centro de Prevención Social del Estado de Jalisco, con absoluto respeto a los derechos burocrático laborales adquiridos.
+
+TERCERO. Los actos, acuerdos, resoluciones, convenios o contratos que se hubiesen dictado, emitido o suscrito por la Dirección General de Prevención Social, Planeación y Vinculación adscrito a la Fiscalía General del Estado de Jalisco, antes del inicio de la vigencia del presente Acuerdo, preservarán su validez y vigencia por el plazo y en los términos autorizados por las disposiciones jurídicas en que se funden.
+
+CUARTO. El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública se subroga los derechos y obligaciones que derivan de los procedimientos administrativos o juicios en los que sea parte la Fiscalía General del Estado en relación con los asuntos competencia de la Dirección General de Prevención Social, Planeación y Vinculación o relativos a su personal adscrito a la misma.
+
+QUINTO. Se instruye a la Fiscalía General a través de su Dirección General de Contraloría y Visitaduría, a la Secretaría General de Gobierno a través de la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública y la Oficialía Mayor, así como a la Secretaría de Planeación, Administración y Finanzas y a la Contraloría del Estado, ambas a través de sus áreas competentes, para que realicen dentro de los quince días posteriores el proceso de entrega-recepción para la ejecución del presente acuerdo y, consecuentemente, se transfieran el personal público, recursos financieros y materiales de la Fiscalía General del Estado asignados en la Dirección General de Prevención Social, Planeación y Vinculación, a la Secretaría General de Gobierno, para la creación del Centro de Prevención Social del Estado de Jalisco, con absoluto respeto a los derechos burocrático laborales adquiridos.
+
+Para el cumplimiento de la instrucción del párrafo precedente, la Contraloría del Estado y la Secretaría de Planeación, Administración y Finanzas aplicarán supletoriamente la Ley de Entrega-Recepción del Estado de Jalisco y sus Municipios, y proveerán administrativamente la documentación, procesos y personal necesario para tal efecto.
