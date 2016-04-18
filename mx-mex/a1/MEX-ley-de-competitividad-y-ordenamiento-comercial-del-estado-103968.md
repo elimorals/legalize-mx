@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2015-08-12"
+last_updated: "2016-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE JULIO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 12 DE AGOSTO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE ABRIL DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -151,13 +149,17 @@ Para efectos de esta Ley, se aplicarán, de forma supletoria, la Ley de Fomento 
 
 Son autoridades encargadas de la aplicación de esta Ley las siguientes:
 
-I. Secretaría de Seguridad Ciudadana.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+I. Secretaría General de Gobierno a través de la Comisión Estatal de Seguridad Ciudadana.
 
 II. Secretaría de Finanzas.
 
 III. Secretaría de Salud.
 
-IV. Secretaría de Desarrollo Urbano.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+IV. Secretaría de Desarrollo Urbano y Metropolitano.
 
 V. Secretaría de Desarrollo Agropecuario
 
@@ -195,7 +197,9 @@ X. Dar respuesta, en un término de tres días hábiles, a las solicitudes que l
 
 Los términos anteriores podrán prorrogarse hasta por 5 días hábiles, siempre y cuando se justifique.
 
-XI. Establecer las zonas especiales a que hace referencia esta Ley.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+XI. Establecer y/o en su caso autorizar las zonas especiales a que hace referencia esta Ley.
 
 XII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
@@ -425,7 +429,9 @@ III. Permitir el acceso a las instalaciones a todo usuario que lo solicite sin d
 
 IV. Instalar aislantes de sonido para no generar ruido por encima de los niveles permitidos por esta Ley y por la normatividad ambiental, que afecte el derecho de terceros.
 
-V. Contar con elementos de seguridad, acreditar que están debidamente capacitados y registrados en la Secretaría de Seguridad Ciudadana, cuando se trate de unidades económicas de alto impacto.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+V. Contar con elementos de seguridad, acreditar que están debidamente capacitados y registrados en la Comisión Estatal de Seguridad Ciudadana, cuando se trate de unidades económicas de alto impacto.
 
 VI. Informar a los clientes acerca de la implementación de programas para evitar la conducción de vehículos automotores bajo los influjos del alcohol, cuando se trate de unidades económicas de alto impacto.
 
@@ -911,7 +917,9 @@ I. Solicitud en la que se señale la razón social del solicitante, así como do
 
 II. Actividad económica que se pretende operar.
 
-III. Datos de la cédula informativa o licencia de uso de suelo en el que se señale que el uso de suelo es permitido para la actividad económica que se pretende operar.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+III. Datos de la licencia de uso del suelo que señale el permitido para la actividad económica que se pretende operar.
 
 IV. Que cuenta con los cajones de estacionamiento que determine la autoridad correspondiente.
 
@@ -1033,7 +1041,9 @@ c) Aviso de funcionamiento emitido por la jurisdicción de regulación sanitaria
 
 d) Acta constitutiva en caso de ser persona jurídica colectiva.
 
-e) Dictamen de Viabilidad emitido por la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, para las unidades económicas de alto o mediano riesgo o, en su caso, el Dictamen de Viabilidad de bajo riesgo, emitido por la autoridad de Protección Civil Municipal.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+e) Dictamen de Viabilidad emitido por la Coordinación General de Protección Civil, para las unidades económicas de alto o mediano riesgo o, en su caso, el Dictamen de Viabilidad de bajo riesgo, emitido por la autoridad de Protección Civil Municipal o dependencia correspondiente en la materia.
 
 f) Dictamen de Impacto Regional para el caso de predios o inmuebles que por sus características producen un impacto significativo sobre la infraestructura y equipamiento urbano y servicios públicos previstos para una región o para un centro de población, en relación con su entorno regional.
 
@@ -1097,7 +1107,9 @@ II. Un Secretario Técnico, que será nombrado por el Presidente.
 
 III. Cinco vocales, que serán los representantes:
 
-a) De la Secretaría de Seguridad Ciudadana, por conducto de la Dirección General de Protección Civil del Estado de México.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+a) De la Coordinación General de Protección Civil.
 
 b) De la Secretaría de Educación.
 
@@ -1209,9 +1221,13 @@ VIII. Ceñirse a las demás prohibiciones previstas en otros ordenamientos que r
 
 IX. Además de lo anterior, los tianguis de autos deberán:
 
-a) Contar con el uso de suelo y superficie establecida en el Plan Municipal de Desarrollo Urbano correspondiente.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
 
-b) Elaborar un registro interno de las personas y de los vehículos objeto de enajenación, debiendo entregar a aquellos el comprobante correspondiente y asignarles el cajón de estacionamiento respectivo. Dicho registro interno estará a disposición de la Secretaría de Seguridad Ciudadana y de la Procuraduría General de Justicia del Estado de México.
+a) Contar con la licencia de uso de suelo y superficie establecida en el Plan Municipal de Desarrollo Urbano Correspondiente.
+
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+b) Elaborar un registro interno de las personas y de los vehículos objeto de enajenación, debiendo entregar a aquellos el comprobante correspondiente y asignarles el cajón de estacionamiento respectivo. Dicho registro interno estará a disposición de la Comisión Estatal de Seguridad Ciudadana y de la Procuraduría General de Justicia del Estado de México.
 
 c) Contratar, en la Procuraduría General de Justicia del Estado, módulos para la expedición gratuita de la constancia o certificación electrónica de que el vehículo no aparece en las bases de datos de autos robados.
 
@@ -1295,7 +1311,9 @@ VIII. Dictamen de Impacto Regional para Unidades Económicas de alto impacto y q
 
 IX. Autorización de impacto y riesgo ambiental.
 
-X. Cédula Informativa de zonificación o licencia de uso de suelo, de acuerdo con el Plan Municipal de Desarrollo Urbano que corresponda a la unidad económica.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+X. Licencia de uso de suelo, de acuerdo con el Plan Municipal de Desarrollo Urbano que corresponda a la unidad económica.
 
 XI. Cumplir con los requisitos legales, reglamentarios y de las normas técnicas que emita la Secretaría de Desarrollo Económico.
 
@@ -1325,11 +1343,15 @@ VII. Nombre, cargo y firma de la autoridad que emita el dictamen.
 
 #### SECCIÓN VI. DE LAS ZONAS ESPECIALES PARA TIANGUIS DE AUTOS Y DE APROVECHAMIENTO DE AUTOPARTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
+
 ###### Artículo 96.
 
 Las disposiciones de esta Sección tienen como finalidad establecer y regular la operación, funcionamiento y administración de las unidades económicas que su actividad principal es el aprovechamiento de vehículos usados o siniestrados.
 
-Estas unidades económicas se ubicarán en las zonas especiales que para tal efecto determine la autoridad, de conformidad a lo establecido en esta Ley y en el Código Administrativo del Estado de México.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+Estas unidades económicas se ubicarán en las zonas especiales que para tal efecto se autorice, de conformidad a lo establecido en esta Ley y en el Código Administrativo del Estado de México.
 
 ###### Artículo 97.
 
@@ -1431,9 +1453,13 @@ El proceso de desmantelamiento, así como el registro interno también se sujeta
 
 ###### Artículo 112.
 
-La Secretaría de Desarrollo Urbano, a solicitud del Municipio, y en ejercicio de sus atribuciones determinará las zonas especiales para las unidades económicas donde se realicen actos relacionados con la enajenación y comercialización de vehículos automotores usados en tianguis de autos y que tengan como actividad principal el aprovechamiento de autopartes de vehículos usados que han concluido su vida útil o siniestrados.
+La Secretaría de Desarrollo Urbano y Metropolitano, en ejercicio de sus atribuciones, previa opinión del Ayuntamiento, autorizará las zonas especiales para las unidades económicas, donde se realicen actos relacionados con la enajenación y comercialización de vehículos automotores usados en tianguis de autos y que tengan como actividad principal el aprovechamiento de autopartes de vehículos usados que han concluido su vida útil o siniestrados.
 
 Los planes municipales de desarrollo urbano deberán contemplar el uso de suelo que permita estas zonas.
+
+> <small>(ADICIONADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+Será de interés público el retiro de tianguis de autos cuya instalación contravenga las disposiciones de esta ley.
 
 ###### Artículo 113.
 
@@ -1497,7 +1523,9 @@ III. Denominación o razón social del centro de almacenamiento o transformació
 
 IV. Dirección y croquis de localización de la unidad económica.
 
-V. Licencia de uso de suelo o Cédula Informativa de Zonificación.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+V. Licencia de uso del suelo, de acuerdo con el Plan Municipal de Desarrollo Urbano que corresponda a la unidad económica.
 
 VI. Especies forestales que se pretendan almacenar o transformar.
 
@@ -1541,7 +1569,9 @@ II. Un Secretario Técnico, que será el Director de Protección Forestal de la 
 
 III. Cinco vocales, que serán los representantes de:
 
-a) La Secretaría de Seguridad Ciudadana.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+a) La Comisión Estatal de Seguridad Ciudadana.
 
 b) La Secretaría de Desarrollo Económico.
 
@@ -1588,6 +1618,10 @@ Las comercializadoras, además de los libros auxiliares que deban llevar, deber�
 Estos libros auxiliares podrán llevarse en forma digital, siempre y cuando los programas de cómputo respectivos hayan sido previamente autorizados por la Secretaría de Finanzas, a solicitud expresa de parte interesada y previo pago del derecho correspondiente.
 
 Asimismo, los permisionarios informarán a la Secretaría de Finanzas dentro de los cinco días hábiles siguientes, de la sustitución o adición de peritos valuadores en todas sus unidades económicas.
+
+> <small>(ADICIONADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+Se entenderá por avalúo a la valoración del bien mueble susceptible de empeño o transferencia de dominio y que es emitido por un valuador inscrito ante la Secretaría de Finanzas.
 
 ###### Artículo 130.
 
@@ -1657,11 +1691,15 @@ IX. Adjuntar copia del formato del contrato de mutuo con interés y garantía pr
 
 X. Si el solicitante es persona jurídica colectiva debe acompañar copia certificada del acta constitutiva, así como el poder notarial otorgado al representante legal.
 
-XI. Exhibir constancia de uso de suelo expedida por la autoridad municipal o estatal, en su caso.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+XI. Exhibir la licencia de uso de suelo expedida por la autoridad municipal o estatal, en su caso.
 
 XII. Adjuntar copia del recibo fiscal de pago de los derechos correspondientes, expedido por la Secretaría de Finanzas.
 
-Cuando se trate de casas de empeño, una vez cumplidos tales requisitos, adicionalmente se deberá presentar dentro de los tres días posteriores al de la aprobación de la solicitud, contrato de seguro ante una compañía aseguradora debidamente acreditada conforme a la legislación aplicable, suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados, misma que en ningún caso podrá ser menor al valor que el perito valuador otorgue al momento del empeño. El contrato de seguro deberá ser renovado anualmente para efectos de la revalidación del permiso correspondiente.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+Cuando se trate de casas de empeño, una vez cumplidos tales requisitos, adicionalmente se deberá presentar dentro de los cinco días posteriores al de la aprobación de la solicitud, contrato de seguro ante una compañía aseguradora debidamente acreditada conforme a la legislación aplicable, suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados, mismo que en ningún caso podrá ser menor al valor que el perito valuador otorgue al momento del empeño, el cual deberá ser renovado anualmente para efectos de la revalidación del permiso correspondiente.
 
 ###### Artículo 135.
 
@@ -1677,15 +1715,13 @@ En caso de que se niegue el otorgamiento del permiso, el solicitante o represent
 
 ###### Artículo 138.
 
-La Secretaría de Finanzas, al resolver favorablemente la solicitud de un permiso para la apertura de casas de empeño, requerirá al peticionario para que dentro del término de cinco días hábiles, contados a partir de que surta efectos la notificación de la resolución, exhiba póliza de fianza otorgada a favor del Gobierno del Estado de México.
+(DEROGADO, G.G. 18 DE ABRIL DE 2016)
 
-El monto de la póliza de fianza será el equivalente a veinte mil veces el salario mínimo diario vigente en la zona geográfica correspondiente, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados.
-
-La póliza tendrá vigencia de un año y deberá ser renovada para efectos de la revalidación del permiso otorgado, así como el recibo oficial de pago de los derechos por concepto de expedición de permiso de apertura, instalación y funcionamiento correspondiente.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
 
 ###### Artículo 139.
 
-Cumplidos los requisitos señalados en el artículo anterior, la Secretaría de Finanzas deberá expedir y hacer entrega del original del permiso a la ventanilla de gestión en un plazo que no exceda de dos días hábiles, recabando constancia de su entrega en la copia del mismo, debiéndola anexar al expediente del permisionario.
+Cumplidos los requisitos señalados en esta Sección, la Secretaría de Finanzas deberá expedir y hacer entrega del original del permiso a la ventanilla de gestión en un plazo que no exceda de cinco días hábiles, recabando constancia de su entrega en la copia del mismo, debiéndola anexar al expediente del permisionario.
 
 ###### Artículo 140.
 
@@ -1805,6 +1841,8 @@ IV. Cubrir el costo que se establezca en el Código Financiero.
 
 #### SECCIÓN IV. DE LAS OBLIGACIONES DE LOS PERMISIONARIOS Y DE LOS TITULARES DE LAS COMERCIALIZADORAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
+
 ###### Artículo 154.
 
 La Secretaría de Finanzas deberá llevar un registro de las autorizaciones de apertura otorgadas a las casas de empeño o comercializadoras. Cada inscripción en ese registro contendrá la información siguiente:
@@ -1827,7 +1865,7 @@ En dicho registro la Secretaría de Finanzas asentará las anotaciones respectiv
 
 ###### Artículo 156.
 
-Son obligaciones de los permisionarios de las casas de empeño y comercializadoras de las comercializadoras las siguientes:
+Son obligaciones de los permisionarios de las casas de empeño y comercializadoras las siguientes:
 
 I. Presentar dentro de los primeros cinco días de cada mes, un informe a la Procuraduría General de Justicia del Estado de México, sobre los actos o hechos a que se refiere este Capítulo, así como informar del registro de todas las operaciones realizadas en ese periodo, el cual deberá contener como mínimo: Los datos generales de los pignorantes, proveedores o consumidores, descripción de los bienes y montos de las mismas.
 
@@ -1841,9 +1879,15 @@ IV. Llevar la contabilidad, la cual deberán de conservar en el domicilio que se
 
 V. Solicitar al proveedor o pignorante al momento de realizar la operación, el documento oficial que acredite su identidad, los que únicamente podrán ser credencial para votar, pasaporte, cédula profesional o cartilla del servicio militar nacional o licencia de conducir.
 
-VI. Requerir al proveedor o pignorante acreditar la propiedad del bien cuando el monto del préstamo exceda la cantidad de ochenta salarios mínimos vigentes de la zona geográfica correspondiente.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+VI. Requerir al proveedor o pignorante acreditar la propiedad del bien cuando el monto de la operación exceda de ochenta Unidades de Medida y Actualización.
 
 VII. Anexar al registro copia de la factura que acredite la propiedad del bien dado en prenda o adquirido, cuando el monto exceda la cantidad de ochenta salarios mínimos vigentes de la zona geográfica correspondiente.
+
+> <small>(ADICIONADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+VIII. Contar con perito valuador inscrito en el Registro de la Secretaría de Finanzas, cuando en las unidades económicas se realicen avalúos para perfeccionar sus operaciones. Dicho registro será público y actualizado periódicamente.
 
 ###### Artículo 157.
 
@@ -1875,9 +1919,23 @@ Las casas de empeño no podrán utilizar, bajo ningún título, los objetos pign
 
 Las casas de empeño deberán informar periódicamente a la Secretaría de Finanzas, del registro que realicen del contrato de adhesión de mutuo con interés y garantía prendaria ante la Procuraduría Federal del Consumidor, en cumplimiento de las normas aplicables al caso.
 
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
 ###### Artículo 163.
 
-Las casas de empeño quedan obligadas a indemnizar a los pignorantes en los casos de pérdida, extravío, deterioro, incendio o cualquier otra causa que les impida hacer entrega de la cosa empeñada en la misma forma en que la recibieron, por un importe igual al valor real declarado en la póliza respectiva.
+Las casas de empeño quedan obligadas a indemnizar a los pignorantes en los casos de pérdida, extravío, deterioro, incendio o cualquier otra causa que les impida hacer entrega de la cosa empeñada en la misma forma en que la recibieron, a través de alguna de las siguientes opciones, a elección de los pignorantes:
+
+I. La entrega del valor del bien conforme al avalúo señalado en el contrato de mutuo.
+
+II. La entrega de un bien del mismo tipo, valor, marca y calidad.
+
+Tratándose de metales preciosos, el valor de reposición del bien, no podrá ser inferior al valor estipulado en el contrato.
+
+III. La indemnización del bien se hará en un plazo que no excederá los quince días naturales posteriores al vencimiento del contrato.
+
+IV. En caso de incumplimiento de la indemnización se aplicará un interés idéntico al que la casa de empeño fija a partir del siguiente día hábil en que tenga vencimiento el pago.
+
+La infracción a esta disposición se sancionará conforme a lo dispuesto en el artículo 191 de la presente Ley.
 
 #### SECCIÓN VI. DE LOS VALUADORES
 
@@ -1939,7 +1997,9 @@ I. Solicitud por escrito dirigida a la Secretaría de Finanzas, la cual deberá 
 
 II. Original y copia de identificación oficial vigente, las que únicamente podrán ser credencial para votar, pasaporte, cédula profesional, cartilla del servicio militar nacional o licencia de conducir.
 
-III. Original y copia del documento con que acredite la especialidad en valuación o, en su caso, una carta expedida por la casa de empeño donde haya prestado sus servicios los últimos tres años.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+III. Original y copia del documento con que acredite la especialidad en valuación o, en su caso, una carta expedida por la casa de empeño o comercializadora donde haya prestado sus servicios los últimos tres años.
 
 IV. Curriculum vitae.
 
@@ -2139,21 +2199,29 @@ VIII. Clausura permanente cuando la unidad económica expenda o suministre bebid
 
 IX. Clausura permanente cuando en una unidad económica se permita el baile con contenido sexual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
+
 ###### Artículo 191.
 
-Cuando se trate de unidades económicas de casas de empeño y comercializadoras, corresponde a la Secretaría de Finanzas, en el ámbito de sus atribuciones, imponer multa de cincuenta a quinientos salarios mínimos, según la zona geográfica que corresponda, a los titulares de las casas de empeño o comercializadoras cuando:
+Cuando se trate de unidades económicas de casas de empeño y comercializadoras, corresponde a la Secretaría de Finanzas, en el ámbito de sus atribuciones, imponer multa de cincuenta a quinientas Unidades de Medida y Actualización, a los titulares de las casas de empeño o comercializadoras cuando:
 
 I. Una persona física o jurídica colectiva instale o haga funcionar una unidad económica sin contar con el permiso expedido por la Secretaría de Finanzas, o realice las actividades que regula esta Ley, sin autorización.
 
-II. El permisionario, cuando se trate de casas de empeño, cancele con anticipación a la fecha de conclusión del período de vigencia, la póliza de seguro para garantizar los daños y perjuicios que pudieran ocasionarse a los contratantes.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
 
-III. El permisionario omita requerir al proveedor o pignorante la factura del bien en venta o en prenda, cuando el monto exceda de ochenta salarios mínimos vigentes de la zona geográfica correspondiente.
+II. El permisionario, cuando se trate de casas de empeño, cancele con anticipación a la fecha de conclusión del período de vigencia, el contrato de seguro para garantizar los daños y perjuicios que pudieran ocasionarse a los contratantes.
+
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+III. El permisionario omita requerir al proveedor o pignorante la factura del bien en venta o en prenda, cuando el monto exceda de ochenta Unidades de Medida y Actualización de la zona geográfica correspondiente.
 
 IV. El permisionario, titular o dependiente se oponga, sin causa justificada, a la práctica de una visita de inspección, auditoría o de supervisión de la operación de la unidad económica.
 
 V. El permisionario o titular solicite extemporáneamente la revalidación del permiso.
 
-VI. El permisionario, tratándose de casas de empeño, realice avalúos y operaciones de empeño sin contar con valuador.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+VI. El permisionario o titular, realice avalúos y operaciones sin contar con valuador.
 
 VII. El permisionario, tratándose de casas de empeño, realice operaciones de pignoración o empeño sin el avalúo.
 
@@ -2165,7 +2233,9 @@ X. El permisionario, tratándose de casas de empeño, acepte empeños sin que el
 
 XI. El titular, tratándose de comercializadora, acepte comprar bienes sin que el proveedor acredite su identidad.
 
-XII. El permisionario omita anexar la copia de la factura al registro cuando el monto del bien adquirido o del préstamo exceda de cincuenta veces el salario mínimo vigente en la zona geográfica que corresponda.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+XII. El permisionario o titular omita anexar la copia de la factura al registro cuando el monto de la operación exceda de ochenta Unidades de Medida y Actualización.
 
 XIII. Incumplir con las disposiciones establecidas en esta Ley.
 
@@ -2179,13 +2249,17 @@ II. El permisionario o titular no modifique el permiso dentro del término estab
 
 III. El permisionario o titular acumule dos multas por la misma causa dentro de un ejercicio fiscal.
 
-IV. El permisionario, tratándose de casas de empeño, no renueve la póliza de seguro para garantizar los daños y perjuicios a los contratantes dentro del término de tres días hábiles previos a su vencimiento.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+IV. El permisionario, tratándose de casas de empeño, no renueve el contrato de seguro para garantizar los daños y perjuicios a los contratantes dentro del término de tres días hábiles previos a su vencimiento.
 
 V. El permisionario o titular de manera reiterada omita rendir el informe mensual y el registro que establece esta Ley, en dos ocasiones o más en un semestre.
 
 VI. El permisionario de manera reiterada acepte empeños o bienes sin que el pignorante o el proveedor acredite su identidad, entendiéndose por reiteración la repetición de la conducta, hasta en tres ocasiones en un periodo de treinta días naturales.
 
-VII. El permisionario de manera reiterada omita anexar la copia de la factura al registro, cuando el monto del préstamo o del bien adquirido exceda la cantidad de ochenta salarios mínimos vigentes de la zona geográfica correspondiente, en dos ocasiones o más en un semestre.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
+
+VII. El permisionario de manera reiterada omita anexar la copia de la factura al registro, cuando el monto del préstamo o del bien adquirido exceda la cantidad de ochenta Unidades de Medida y Actualización, en dos ocasiones o más en un semestre.
 
 En los casos respectivos, el propietario de la casa de empeño será el depositario de los bienes en prenda, quedando bajo su más estricta responsabilidad la guarda y custodia de los mismos.
 
@@ -2243,7 +2317,7 @@ VI. El daño que se hubiera o no producido.
 
 VII. La reincidencia.
 
-La sanción que se imponga es independiente a la responsabilidad civil o penal que pudiera resultar.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
 
 ###### Artículo 197.
 
@@ -2382,3 +2456,17 @@ QUINTO. Se deberán adecuar los acuerdos, convenios y demás disposiciones en ma
 SEXTO. El Consejo Interno de la COPRISEM expedirá el Reglamento Interno respectivo, dentro del plazo de ciento ochenta días hábiles, contados a partir de la fecha de entrada en vigor del presente Decreto.
 
 SÉPTIMO. En tanto se expidan las disposiciones reglamentarias y administrativas correspondientes se aplicarán las vigentes que no sean contrarias a las previstas en esta Ley.
+
+G.G. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 79.- POR EL QUE SE REFORMAN LAS FRACCIONES I Y IV DEL ARTÍCULO 4, LA FRACCIÓN XI DEL ARTÍCULO 5, LA FRACCIÓN V DEL ARTÍCULO 22, LA FRACCIÓN III DEL ARTÍCULO 66, EL INCISO E) DE LA FRACCIÓN II DEL ARTÍCULO 78, EL INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 82, LOS INCISOS A) Y B) DE LA FRACCIÓN IX DEL ARTÍCULO 85, LA FRACCIÓN X DEL ARTÍCULO 93, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 96, EL PRIMER PÁRRAFO DEL ARTÍCULO 112, LA FRACCIÓN V DEL ARTÍCULO 119, EL INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 125, LA FRACCIÓN XI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 134, EL ARTÍCULO 139, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 156, EL ARTÍCULO 163, LA FRACCIÓN III DEL ARTÍCULO 172, EL PRIMER PÁRRAFO Y LAS FRACCIONES II, III, VI Y XII DEL ARTÍCULO 191, LAS FRACCIONES IV Y VII DEL ARTÍCULO 192, SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 112, UN QUINTO PÁRRAFO AL ARTÍCULO 129, LA FRACCIÓN VIII AL ARTÍCULO 156, SE DEROGA EL ARTÍCULO 138 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 196 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Cuando en la Ley de Competitividad y Ordenamiento Comercial del Estado de México se haga referencia a los salarios mínimos de la zona geográfica que corresponda, se entenderá por Unidades de Medida y Actualización.
+
+CUARTO. El valor de la Unidad de Medida y Actualización (UMA) será equivalente al que tenga el salario mínimo general vigente hasta que se actualice dicho valor en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
