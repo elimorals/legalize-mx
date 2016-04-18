@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-95214"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-18"
-last_updated: "2015-07-10"
+last_updated: "2016-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE ABRIL DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el jueves 18 de julio de 2013.
 
@@ -57,7 +57,7 @@ II. Llevar a cabo los procedimientos y determinar las sanciones administrativas 
 
 III. Planear, emplear y ejecutar las técnicas de verificación, con la finalidad de comprobar que en la prestación del servicio público se observan los principios establecidos en la fracción I de este artículo. Siendo éstas las acciones encubiertas y las utilizadas por los usuarios simulados.
 
-Cuando el Ejecutivo del Estado y algún municipio convengan la asunción del servicio público de seguridad pública municipal en favor del primero, la Inspección General de las Instituciones de Seguridad Pública del Estado de México tendrá competencia en términos de esta Ley, respecto de los integrantes de los cuerpos policiales de seguridad pública municipal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 18 DE ABRIL DE 2016)</small>
 
 ###### Artículo 3.
 
@@ -125,19 +125,27 @@ II. Un Secretario, quien será el Inspector General;
 
 III. Un Comisario, en términos de la ley de la materia;
 
-IV. Cuatro vocales, que serán un representante de la Secretaría de Finanzas, un representante de la Procuraduría General de justicia del Estado de México, un representante de la Secretaría de Seguridad Ciudadana y un representante de la Consejería jurídica.
+> <small>(REFORMADA, G.G. 18 DE ABRIL DE 2016)</small>
 
-Por cada uno de los integrantes, el Consejo Directivo aprobará el nombramiento de un suplente, quien será propuesto por el propietario. El representante y suplente deberán tener como mínimo el nivel de Director General o su equivalente.
+IV. Cuatro vocales, que serán un representante de la Secretaría de Finanzas, un representante del Centro de Control de Confianza, un representante de la Secretaría de Salud y un representante de la Consejería Jurídica.
 
-> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
 
-Los miembros del Consejo Directivo tendrán derecho a voz y voto, con excepción del Secretario, del Comisario y de los representantes de la Procuraduría General de Justicia del Estado de México y Comisión Estatal de Seguridad Ciudadana, quienes sólo tendrán derecho de voz. Sus Integrantes no tendrán una retribución adicional a su salario por el desempeño de estas actividades.
+Por cada uno de los integrantes, el Consejo Directivo aprobará el nombramiento de un suplente, quien será propuesto por el propietario. Los representantes deberán tener como mínimo el nivel de Director General o su equivalente, para el caso del Director General del Centro de Control de Confianza, el suplente será el servidor público de la jerarquía inmediata inferior.
+
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+Los miembros del Consejo Directivo tendrán derecho a voz y voto, con excepción del Secretario y del Comisario quienes sólo tendrán derecho de voz. Sus Integrantes no tendrán retribución adicional a su salario por el desempeño de estas actividades.
 
 Los acuerdos del Consejo Directivo se tomarán por mayoría de votos.
 
-El Presidente deberá invitar a un representante de la sociedad civil, quien tendrá derecho a voz, pudiendo ser renovado periódicamente. Los criterios y métodos de selección del representante de la sociedad civil, serán los establecidos en el reglamento.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
 
-Además, participará con voz el Contralor Municipal de que se trate, cuando el Consejo Directivo conozca de la responsabilidad de algún servidor público municipal, derivado de la aplicación del Convenio de Asunción de Funciones.
+El Presidente deberá invitar a tres representantes de la sociedad civil organizada, quienes tendrán derecho a voz, pudiendo ser renovados periódicamente. Los criterios y métodos de selección del representante de la sociedad civil, serán establecidos en el reglamento. Adicionalmente, contarán con invitados no permanentes, que serán las autoridades u organizaciones que tengan relación con los temas a tratar en la sesión.
+
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+Además, participará con voz el Contralor Municipal de que se trate, cuando el Consejo Directivo conozca de la responsabilidad de algún servidor público municipal.
 
 > <small>(ADICIONADO, G.G. 10 DE JULIO DE 2015)</small>
 
@@ -367,7 +375,9 @@ Se respetarán los derechos laborales adquiridos por los servidores públicos qu
 
 SEXTO.- El Gobernador del Estado, para el cumplimiento del presente Decreto en la esfera administrativa, proveerá lo necesario conforme a la suficiencia presupuestal.
 
-SÉPTIMO.- Lo dispuesto en esta Ley será también aplicable a los integrantes de los cuerpos policiales de seguridad pública municipal, derivado de los convenios que en materia de seguridad pública se hayan suscrito con anterioridad a la entrada en vigor del presente Decreto.
+> <small>(REFORMADO, G.G. 18 DE ABRIL DE 2016)</small>
+
+SÉPTIMO.- Lo dispuesto en esta Ley también será aplicable a los integrantes de los cuerpos de Seguridad Pública Municipal, atendiendo los lineamientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, así como de la Ley General del Sistema Nacional de Seguridad Pública y Ley de Seguridad del Estado de México.
 
 OCTAVO.- Los procedimientos administrativos que a la entrada en vigor del presente Decreto se encuentren en resolución en los órganos de control interno de la Procuraduría General de Justicia del Estado de México y de la Secretaría de Seguridad Ciudadana serán resueltos por éstos, conforme a las disposiciones vigentes al momento de su inicio.
 
@@ -406,3 +416,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 77.- POR EL QUE SE REFORMAN LA FRACCIÓN IV Y LOS PÁRRAFOS SEGUNDO, TERCERO, QUINTO Y SEXTO DEL ARTÍCULO 6, EL ARTÍCULO SÉPTIMO TRANSITORIO Y SE DEROGAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 2 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
