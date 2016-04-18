@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2015-06-24"
+last_updated: "2016-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ABRIL DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -1902,13 +1902,33 @@ Durante la sesión permanente no podrá darse cuenta ni trámite a ningún asunt
 
 La sesión permanente podrá tener los recesos que acuerde el Presidente en los términos de este Reglamento y se dará por concluida al agotarse los trabajos correspondientes.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 108], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2016)</small>
 
 ###### Artículo 111.
 
 La Asamblea puede llevar a cabo sesiones solemnes para honrar a los héroes nacionales, a personas físicas o morales que hayan prestado servicios eminentes a la comunidad del Distrito Federal, a la Nación o a la Humanidad; o bien para recibir a Jefes de Estado, altos dignatarios y representantes populares cuando la propia Asamblea así lo determine, a propuesta de la Comisión de Gobierno, o bien, o cualquier otro caso que el Pleno así lo determine.
 
-Las sesiones solemnes se desarrollarán con el propósito exclusivo que se fije en la propuesta al efecto aprobada y se desahogarán conforme a las reglas expresamente fijadas por el Pleno a propuesta de la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias.
+Las sesiones solemnes se desarrollarán con el propósito exclusivo que se fije en la propuesta al efecto aprobada debiendo celebrarse en la fecha y hora que determine el Pleno o en su caso la Comisión de Gobierno en el Salón de Sesiones del Recinto de la Asamblea Legislativa del Distrito Federal, en atención al siguiente formato:
+
+1. Apertura de la Sesión;
+
+2. Ingreso de invitados distinguidos y/o galardonados;
+
+3. Honores a la Bandera;
+
+4. Acto ceremonial, protocolario o diplomático;
+
+5. Harán uso de la palabra hasta por 10 minutos, una diputada o diputado de cada grupo parlamentario o coalición parlamentaria, de conformidad con el número de integrantes, de menor a mayor, a fin de fijar la posición de su respectiva representación parlamentaria;
+
+6. Tratándose de sesiones de premiación o reconocimiento al mérito, una o un integrante de las Comisiones competentes hará uso de la palabra para exponer los motivos del otorgamiento;
+
+7. Pronunciamiento hasta por 20 minutos por parte de las y los galardonados, invitados diplomáticos, o bien, en caso de reconocimiento póstumo de la persona que lo reciba a su nombre;
+
+8. Himno Nacional;
+
+9. Honores a la Bandera;
+
+10. Cierre de Sesión.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 109], G.O. 30 DE MARZO DE 2005)
 
@@ -2510,17 +2530,17 @@ III.- Al Mérito Policial;
 
 IV.- Al Mérito Deportivo;
 
-> <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2016)</small>
 
-V.- Al Mérito de Protección Civil; y
+V.- Al Mérito de Protección Civil;
 
-> <small>(ADICIONADA, G.O. 12 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2016)</small>
 
-VI.- A las mejores tesis sobre la Ciudad de México.
+VI.- A las Defensoras y Defensores de Derechos Humanos; y
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2016)</small>
 
-VI (SIC).- A las Defensoras y Defensores de Derechos Humanos.
+VII.- Al Mérito por la Igualdad y la No Discriminación"
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2540,9 +2560,9 @@ Adicionalmente, los reconocimientos podrán otorgarse de forma póstuma, a los c
 
 Para los efectos del presente título, se entenderá por:
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2016)</small>
 
-I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo o en Protección Civil, así como a las Defensoras y Defensores de Derechos Humanos, todas de la Asamblea Legislativa del Distrito Federal;
+I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo, en Protección Civil, o por la Igualdad y la No Discriminación; de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
@@ -2568,9 +2588,9 @@ e) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal;
 
 f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal; y
 
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2016)</small>
 
-g) Comisión de Derechos Humanos de la Asamblea Legislativa del Distrito Federal.
+g) Comisión de Atención a Grupos Vulnerables.
 
 > <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
@@ -2620,15 +2640,17 @@ d) "MEDALLA AL MÉRITO POLICIAL"
 
 e) "MEDALLA AL MÉRITO DEPORTIVO"
 
-f) (DEROGADO, G.O. 9 DE ENERO DE 2014)
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2016)</small>
 
-> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+f) "MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL"
 
-g) “MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL”
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2016)</small>
 
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2015)</small>
+g) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS"
 
-h) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS"
+> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2016)</small>
+
+h) "MEDALLA AL MÉRITO POR LA IGUALDAD Y LA NO DISCRIMINACIÓN"
 
 En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
 
@@ -2762,15 +2784,39 @@ El periodo para el registro de candidatos a recibir la Medalla al Mérito Ciudad
 
 El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo serán otorgados en Sesión Solemne que deberá celebrarse dentro del mes de abril y octubre de cada año respectivamente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO III. DE LA MEDALLA AL MÉRITO POR LA IGUALDAD Y LA NO DISCRIMINACIÓN
+
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2016)</small>
+
+Artículo 187 Ter (SIC).- La Comisión de Atención a Grupos Vulnerables, deberá convocar, conocer, estudiar, analizar y efectuar el proceso de la elección de candidatos y candidatas a recibir el reconocimiento; así como elaborar el dictamen correspondiente mismo que una vez que sea aprobado por los integrantes de dicha Comisión, deberá ser presentado y puesto a consideración del Pleno de esta Asamblea para su aprobación.
+
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2016)</small>
+
+###### Artículo 187 Quater.
+
+La Asamblea Legislativa convocará cada año a la población, organizaciones de la sociedad civil, organizaciones académicas, y demás instituciones vinculadas con el respeto de los derechos humanos y la no discriminación de los Grupos Vulnerables en el Distrito Federal, para que propongan a candidatos que como resultado de sus actividades hayan destacado en la defensa, promoción y protección de los derechos de los grupos vulnerables del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2016)</small>
+
+Artículo 187 Quintus.- La convocatoria a que hace referencia el artículo anterior deberá ser elaborada y aprobada por la propia Comisión de Atención a Grupos Vulnerables a más tardar el primero de noviembre del año correspondiente a la entrega del reconocimiento.
+
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2016)</small>
+
+Artículo 187 Sextus.- El periodo para el registro de candidatos a recibir la Medalla al Mérito por la Igualdad y la No Discriminación, queda comprendido del primero al treinta de noviembre de cada año, observando en todo momento lo establecido en el artículo 180 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2016)</small>
+
+###### Artículo 187 Septies.
+
+El reconocimiento de la Medalla al Mérito por la Igualdad y la No Discriminación y el Diploma respectivo serán otorgados en Sesión Solemne que deberá celebrarse el 10 de diciembre de cada año.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE ENERO DE 2014)</small>
 
-### CAPÍTULO TERCERO. DE LA DISTINCIÓN EN LAS CIENCIAS Y ARTES
+### CAPÍTULO TERCERO (SIC). DE LA DISTINCIÓN EN LAS CIENCIAS Y ARTES
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
-
-### CAPÍTULO IV. DE LA MEDALLA AL MÉRITO POLICIAL
-
-> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 188.
 
@@ -2884,9 +2930,9 @@ El reconocimiento al Mérito de la Ciencia y de las Artes se otorgará anualment
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
-### CAPÍTULO V. DE LA MEDALLA AL MÉRITO DEPORTIVO
+### CAPÍTULO IV. DE LA MEDALLA AL MÉRITO POLICIAL
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 198.
 
@@ -2948,9 +2994,9 @@ La Sesión Solemne para entregar la Medalla al Mérito Policial se realizará en
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
-### CAPÍTULO VI. DE LA MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL
+### CAPÍTULO V. DE LA MEDALLA AL MÉRITO DEPORTIVO
 
-> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 205.
 
@@ -3010,39 +3056,9 @@ La Sesión Solemne para la entrega del Reconocimiento al Mérito Deportivo se ce
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE JULIO DE 2011)</small>
 
-### CAPÍTULO SÉPTIMO. DEL RECONOCIMIENTO A LAS MEJORES TESIS SOBRE LA CIUDAD DE MÉXICO
+### CAPÍTULO VI. DE LA MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL
 
-> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
-
-Artículo 212 A.- El reconocimiento (sic) las mejores tesis sobre la Ciudad de México, se otorgará a las y los estudiantes que desarrollen las mejores investigaciones sobre la historia, planeación y desarrollo, entre otras, del Distrito Federal. Tales investigaciones deberán haber sido elaboradas con la finalidad de obtener el grado de licenciatura, maestría o doctorado.
-
-> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
-
-Artículo 212 B.- Para los efectos de este capítulo, corresponderá al Comité de Estudios y Estadísticas sobre la Ciudad de México:
-
-I. Convocar el proceso de la elección de las o los candidatos a recibir el reconocimiento;
-
-II. Designar a los integrantes del Consejo Evaluador que analizará (sic) emitirá un fallo en el que determine los nombres de quienes habrán de ser galardonadas o galardonados. Para la integración de dicho Consejo, el Comité deberá tener en cuenta la multiplicidad de disciplinas de los trabajos recibidos para su mejor y equitativa valoración; y
-
-III. Aprobar el fallo del Consejo Evaluador mediante acuerdo parlamentario, el cual será presentado ante el Pleno.
-
-> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
-
-Artículo 212 C.- Para otorgar el reconocimiento a las mejores tesis sobre la Ciudad de México, se deberá seguir el siguiente procedimiento:
-
-I. Expedir la convocatoria para la recepción de tesis en las categorías de Licenciatura, Maestría y Doctorado, por el plazo que considere el Comité de Estudios y Estadísticas sobre la Ciudad de México;
-
-II. Agotado el plazo de recepción de trabajos, se designará al Consejo Evaluador;
-
-III. El Consejo Evaluador deberá emitir su fallo ante el Comité de Estudios y Estadísticas sobre la Ciudad de México;
-
-IV. El Comité de Estudios y Estadísticas sobre la Ciudad de México aprobarán (sic), mediante acuerdo parlamentario, el fallo del Consejo Evaluador;
-
-V. El acuerdo parlamentario será presentado ante el Pleno; y
-
-VI. La entrega de los reconocimientos a las Mejores Tesis sobre la Ciudad de México se entregará cada año en la fecha y hora que determine la Comisión de Gobierno.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO VII], G.O. 12 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
 
 ###### Artículo 212 Bis.
 
@@ -3089,6 +3105,40 @@ Las propuestas y la documentación correspondiente de los candidatos para ser me
 La Sesión Solemne para entregar la Medalla al Mérito de Protección Civil se realizará en la fecha en que se conmemore el «Día Nacional de Protección Civil» del año que corresponda.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.O. 12 DE MAYO DE 2015)</small>
+
+### CAPÍTULO SÉPTIMO. DEL RECONOCIMIENTO A LAS MEJORES TESIS SOBRE LA CIUDAD DE MÉXICO
+
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
+
+Artículo 212 A.- El reconocimiento (sic) las mejores tesis sobre la Ciudad de México, se otorgará a las y los estudiantes que desarrollen las mejores investigaciones sobre la historia, planeación y desarrollo, entre otras, del Distrito Federal. Tales investigaciones deberán haber sido elaboradas con la finalidad de obtener el grado de licenciatura, maestría o doctorado.
+
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
+
+Artículo 212 B.- Para los efectos de este capítulo, corresponderá al Comité de Estudios y Estadísticas sobre la Ciudad de México:
+
+I. Convocar el proceso de la elección de las o los candidatos a recibir el reconocimiento;
+
+II. Designar a los integrantes del Consejo Evaluador que analizará (sic) emitirá un fallo en el que determine los nombres de quienes habrán de ser galardonadas o galardonados. Para la integración de dicho Consejo, el Comité deberá tener en cuenta la multiplicidad de disciplinas de los trabajos recibidos para su mejor y equitativa valoración; y
+
+III. Aprobar el fallo del Consejo Evaluador mediante acuerdo parlamentario, el cual será presentado ante el Pleno.
+
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2015)</small>
+
+Artículo 212 C.- Para otorgar el reconocimiento a las mejores tesis sobre la Ciudad de México, se deberá seguir el siguiente procedimiento:
+
+I. Expedir la convocatoria para la recepción de tesis en las categorías de Licenciatura, Maestría y Doctorado, por el plazo que considere el Comité de Estudios y Estadísticas sobre la Ciudad de México;
+
+II. Agotado el plazo de recepción de trabajos, se designará al Consejo Evaluador;
+
+III. El Consejo Evaluador deberá emitir su fallo ante el Comité de Estudios y Estadísticas sobre la Ciudad de México;
+
+IV. El Comité de Estudios y Estadísticas sobre la Ciudad de México aprobarán (sic), mediante acuerdo parlamentario, el fallo del Consejo Evaluador;
+
+V. El acuerdo parlamentario será presentado ante el Pleno; y
+
+VI. La entrega de los reconocimientos a las Mejores Tesis sobre la Ciudad de México se entregará cada año en la fecha y hora que determine la Comisión de Gobierno.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO VII], G.O. 12 DE MAYO DE 2015)</small>
 
 ### CAPÍTULO OCTAVO. DEL PROCESO DE ELECCIÓN DE CANDIDATAS Y CANDIDATOS
 
@@ -3749,3 +3799,19 @@ TERCERO.- La Auditoría Superior de la Ciudad de México homologará y adecuará
 CUARTO.- En un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión de Presupuesto y Cuenta Pública, dictaminará las adecuaciones y ajustes presupuestales de la Asamblea Legislativa y de la Contraloría, que se deriven de esta reforma.
 
 QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+G.O. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 111 DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL (SIC)”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
