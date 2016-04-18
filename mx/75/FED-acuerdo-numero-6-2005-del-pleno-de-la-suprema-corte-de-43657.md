@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-6-2005-del-pleno-de-la-suprema-corte-de-43657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-02-22"
-last_updated: "2005-02-22"
+last_updated: "2016-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-02-07"
 ---
 # ACUERDO NUMERO 6/2005 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DE 7 DE FEBRERO DE 2005, RELATIVO A LA PUBL. DE LAS SENTENCIAS DICT. EN LAS CONTROVERSIAS CONSTITUCIONALES Y ACCIONES DE INCONSTITUCIONALIDAD
 
-ACUERDO NUMERO 6/2005 DE SIETE DE FEBRERO DE DOS MIL CINCO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA PUBLICACION DE LAS SENTENCIAS DICTADAS EN LAS CONTROVERSIAS CONSTITUCIONALES Y ACCIONES DE INCONSTITUCIONALIDAD
+ACUERDO NÚMERO 6/2005 DE SIETE DE FEBRERO DE DOS MIL CINCO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA PUBLICACIÓN DE LAS SENTENCIAS DICTADAS EN LAS CONTROVERSIAS CONSTITUCIONALES Y ACCIONES DE INCONSTITUCIONALIDAD
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CUATRO DE ABRIL DE DOS MIL DIECISÉIS, POR EL QUE SE MODIFICAN LOS PUNTOS TERCERO, FRACCIONES I, INCISO E), Y II, INCISO B), CUARTO, PÁRRAFO ÚLTIMO, Y DÉCIMO; Y SE ADICIONA UNA FRACCIÓN VI AL PUNTO QUINTO, DEL ACUERDO GENERAL 19/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN VÍA ELECTRÓNICA, A TRAVÉS DE LA PÁGINA DE INTERNET DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL D.O.F. DE 18 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2016 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de febrero de 2005.
 
@@ -66,3 +68,17 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el 
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Mariano Azuela Güitrón.- Rúbrica.- El Secretario General de Acuerdos, José Javier Aguilar Domínguez.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno, en su sesión privada celebrada hoy siete de febrero de dos mil cinco, por unanimidad de once votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio Armando Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza emitió el Acuerdo Plenario número 6/2005, RELATIVO A LA PUBLICACION DE LAS SENTENCIAS DICTADAS EN LAS CONTROVERSIAS CONSTITUCIONALES Y ACCIONES DE INCONSTITUCIONALIDAD, y aprobó el texto del documento formal que lo contiene.- México, Distrito Federal, a siete de febrero de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CUATRO DE ABRIL DE DOS MIL DIECISÉIS, POR EL QUE SE MODIFICAN LOS PUNTOS TERCERO, FRACCIONES I, INCISO E), Y II, INCISO B), CUARTO, PÁRRAFO ÚLTIMO, Y DÉCIMO; Y SE ADICIONA UNA FRACCIÓN VI AL PUNTO QUINTO, DEL ACUERDO GENERAL 19/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN VÍA ELECTRÓNICA, A TRAVÉS DE LA PÁGINA DE INTERNET DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 6/2005, de siete de febrero de dos mil cinco, relativo a la publicación de las sentencias dictadas en las controversias constitucionales y acciones de inconstitucionalidad.
+
+TERCERO. El subvínculo del Semanario Judicial de la Federación denominado “Sistema de precedentes en controversias constitucionales y en acciones de inconstitucionalidad”, será consultable a partir del diecinueve de septiembre de dos mil dieciséis, y se integrará con las sentencias dictadas a partir de septiembre de dos mil catorce en controversias constitucionales y en acciones de inconstitucionalidad, así como en recursos e incidentes derivados de esos asuntos. La Secretaría General de Acuerdos remitirá a la Coordinación de Compilación y Sistematización de Tesis los temas de las sentencias antes referidas, dictadas antes de la entrada en vigor del presente instrumento normativo, con copia al Secretario de Estudio y Cuenta responsable del engrose respectivo.
+
+CUARTO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y, en su momento, en el diverso 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 19/2013 en dichos medios electrónicos.
