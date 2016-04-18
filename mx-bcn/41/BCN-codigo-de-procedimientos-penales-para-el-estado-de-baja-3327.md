@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2016-01-10"
+last_updated: "2016-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -31,7 +31,9 @@ NOTA 3. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 
 
 NOTA 4. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 433, PUBLICADO EN EL P.O. DE 10 DE ENERO DE 2016, SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES ENTRA EN VIGOR EN EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, A PARTIR DEL 11 DE MARZO DE 2016. EN CUANTO A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO DE COMPETENCIA ESTATAL QUE SE SEÑALA EN EL CAPÍTULO VII DEL TÍTULO XVIII DE LA LEY GENERAL DE SALUD, SERÁ APLICABLE EL PRESENTE ORDENAMIENTO, HASTA LA FECHA INDICADA EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2016.
+NOTA 5. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL PUNTO ÚNICO DEL DECRETO NÚMERO 477, PUBLICADO EN EL P.O. DE 18 DE ABRIL DE 2016, SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES ENTRA EN VIGOR EN LOS MUNICIPIOS DE PLAYAS DE ROSARITO Y TIJUANA, BAJA CALIFORNIA, A PARTIR DEL 18 DE JUNIO DE 2016. EN CUANTO A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO DE COMPETENCIA ESTATAL QUE SE SEÑALA EN EL CAPÍTULO VII DEL TÍTULO XVIII DE LA LEY GENERAL DE SALUD, SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES ENTRA EN VIGOR EN LOS MUNICIPIOS DE MEXICALI, TECATE, ENSENADA, PLAYAS DE ROSARITO Y TIJUANA, A PARTIR DEL 18 DE JUNIO DE 2016.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2016.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -4008,3 +4010,21 @@ SEGUNDO.- En cuanto a los delitos contra la salud en su modalidad de narcomenude
 PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Entre la fecha de publicación de la presente Declaratoria y la entrada en vigor del Código Nacional de Procedimientos Penales en el municipio de Ensenada, Baja California, deberán mediar sesenta días naturales.
+
+P.O. 18 DE ABRIL DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 477 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+DECRETO No. 477
+
+ÚNICO: Se aprueba la Iniciativa con Proyecto de Decreto mediante el cual se declara que el Código Nacional de Procedimientos Penales, entrará en vigor en los Municipios de Playas de Rosarito y Tijuana, Baja California, asimismo, para los delitos contra la salud en su modalidad de narcomenudeo de competencia estatal en los Municipios de Mexicali, Tecate, Ensenada, Playas de Rosarito y Tijuana del Estado de Baja California, en los siguientes términos:
+
+PRIMERO: De conformidad con el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014 y con el Decreto número 288 publicado en el Periódico Oficial del Estado de Baja California de fecha 11 de junio de 2015, se DECLARA que el Código Nacional de Procedimientos Penales entrará en vigor en los municipios de Playas de Rosarito y Tijuana, Baja California, a partir del 18 de junio de 2016.
+
+SEGUNDO: De conformidad con el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014 y con el Decreto número 288 publicado en el Periódico Oficial del Estado de Baja California de fecha 11 de junio de 2015, se DECLARA que el Código Nacional de Procedimientos Penales entrará en vigor en los municipios de Mexicali, Tecate, Ensenada, Playas de Rosarito y Tijuana por cuanto a los delitos contra la salud en su modalidad de narcomenudeo de competencia estatal que se señala en el Capítulo VII del Título XVIII de la Ley General de Salud, a partir del 18 de junio de 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 477 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA CON PROYECTO DE DECRETO MEDIANTE EL CUAL SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, ENTRARÁ EN VIGOR EN LOS MUNICIPIOS DE PLAYAS DE ROSARITO Y TIJUANA, BAJA CALIFORNIA, ASIMISMO, PARA LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO DE COMPETENCIA ESTATAL EN LOS MUNICIPIOS DE MEXICALI, TECATE, ENSENADA, PLAYAS DE ROSARITO Y TIJUANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO: EI presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: En todos los casos, entre la fecha de publicación de la presente Declaratoria y la entrada en vigor del Código Nacional de Procedimientos Penales, deberán mediar sesenta días naturales.
