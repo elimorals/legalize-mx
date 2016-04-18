@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-19-2013-del-pleno-de-la-suprema-96718"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-29"
-last_updated: "2013-11-29"
+last_updated: "2016-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96718&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-26"
 
 ACUERDO GENERAL NÚMERO 19/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN VÍA ELECTRÓNICA, A TRAVÉS DE LA PÁGINA DE INTERNET DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de noviembre del 2013.
 
@@ -79,15 +79,25 @@ D) Sentencias que interrumpen jurisprudencia del Pleno de la Suprema Corte de Ju
 
 Se publicarán las ejecutorias respectivas y, en su caso, las tesis correspondientes, y
 
-E) Ejecutorias dictadas por el Pleno de la Suprema Corte de Justicia de la Nación en controversias constitucionales y en acciones de inconstitucionalidad que contienen criterios vinculatorios y, en su caso, la tesis respectiva.
+> <small>(REFORMADO POR EL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CUATRO DE ABRIL DE DOS MIL DIECISÉIS, D.O.F. 18 DE ABRIL DE 2016)</small>
 
-Se publicarán las ejecutorias que contengan criterios aprobados por cuando menos ocho votos y, en su caso, las tesis respectivas, incluyendo los votos recibidos oportunamente. Al margen de las consideraciones relativas, se precisará la votación que corresponda a cada una de ellas.
+E) Ejecutorias dictadas por el Pleno de la Suprema Corte de Justicia de la Nación en controversias constitucionales y en acciones de inconstitucionalidad que contienen criterios vinculatorios.
+
+Se publicarán las ejecutorias que contengan criterios aprobados por cuando menos ocho votos incluyendo los votos recibidos oportunamente.
+
+Cuando la Suprema Corte de Justicia de la Nación resuelva dos o más controversias constitucionales o acciones de inconstitucionalidad referidas al mismo tema o disposición legal, su Presidente podrá, en términos de lo dispuesto en el artículo 44 de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y con la pertinencia razonable, ordenar la publicación íntegra en la Gaceta del Semanario Judicial de la Federación de la primera sentencia recaída en dichas controversias o acciones, así como de los puntos resolutivos, con las anotaciones conducentes y los respectivos datos de identificación, de las sentencias dictadas en las demás.
+
+Asimismo, cuando en dichas sentencias se declare la invalidez de normas generales, el Presidente de la Suprema Corte de Justicia de la Nación ordenará en la forma señalada que las publicaciones también se hagan en el Diario Oficial de la Federación y en el órgano oficial en que tales normas se hayan publicado.
+
+Las sentencias dictadas en una acción de inconstitucionalidad no se publicarán en la Gaceta del Semanario Judicial de la Federación, generalmente, cuando en aquéllas se determine el sobreseimiento por alguna de las Salas de la Suprema Corte de Justicia de la Nación, en ejercicio de la competencia delegada por el Pleno, dado que en ese supuesto no habrá pronunciamiento sobre la validez de los actos controvertidos ni el fallo tendrá efectos sobre las partes o respecto de los tribunales mencionados en el artículo 43 de la Ley Reglamentaria citada en el párrafo anterior.
 
 II. Ejecutorias y tesis que no integran jurisprudencia.
 
 A) Tesis aisladas y, en su caso, ejecutorias del Pleno de la Suprema Corte de Justicia de la Nación, de sus Salas, de los Plenos de Circuito y de los Tribunales Colegiados de Circuito. Se publicarán las tesis aisladas y, en su caso, las ejecutorias respectivas, y
 
-B) Ejecutorias dictadas por el Pleno de la Suprema Corte de Justicia de la Nación en controversias constitucionales y en acciones de inconstitucionalidad que no contienen criterios vinculatorios y, en su caso, la tesis respectiva. Así como las dictadas en dichos asuntos, cuya competencia corresponda a las Salas de este Alto Tribunal.
+> <small>(REFORMADO POR EL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CUATRO DE ABRIL DE DOS MIL DIECISÉIS, D.O.F. 18 DE ABRIL DE 2016)</small>
+
+B) Ejecutorias dictadas por el Pleno de la Suprema Corte de Justicia de la Nación en controversias constitucionales y en acciones de inconstitucionalidad que no contienen criterios vinculatorios. Así como las dictadas en dichos asuntos, cuya competencia corresponda a las Salas de este Alto Tribunal.
 
 III. Sentencias dictadas por la Suprema Corte de Justicia de la Nación cuya publicación no es obligatoria y los votos respectivos.
 
@@ -145,9 +155,13 @@ XVII. Fecha y hora en que las ejecutorias se ingresen al Semanario Judicial de l
 
 XVIII. Las notas que indiquen la fecha de publicación y de aplicación obligatoria de las tesis jurisprudenciales, así como las demás que resulten necesarias conforme a la tipología aprobada en términos de lo previsto en las fracciones I y X del artículo 149 del Reglamento Interior de la Suprema Corte de Justicia de la Nación.
 
-En el caso de las ejecutorias dictadas en controversias constitucionales y en acciones de inconstitucionalidad, se agregarán los datos referidos en este Punto en lo que resulten aplicables, y en tanto se aprueban, en su caso, las tesis respectivas, los rubros temáticos que permitan identificar los principales criterios sustentados en aquéllas.
+> <small>(REFORMADO POR EL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CUATRO DE ABRIL DE DOS MIL DIECISÉIS, D.O.F. 18 DE ABRIL DE 2016)</small>
 
-QUINTO. El sistema de compilación del Semanario Judicial de la Federación, contendrá los índices o menús del programa que resulten indispensables para la localización de la información difundida. En todo caso, deberán establecerse los índices siguientes:
+En el caso de las ejecutorias dictadas en controversias constitucionales y en acciones de inconstitucionalidad, se agregarán los datos referidos en este Punto en lo que resulten aplicables, así como los temas que permitan identificar en el Sistema de precedentes en controversias constitucionales y en acciones de inconstitucionalidad del Semanario Judicial de la Federación, los principales criterios sustentados en aquéllas.
+
+QUINTO. El sistema de compilación del Semanario Judicial de la Federación, contendrá los índices o menús del programa que resulten indispensables para la localización de la información difundida.
+
+En todo caso, deberán establecerse los índices siguientes:
 
 I. Tesis jurisprudenciales y aisladas publicadas durante las últimas diez semanas; con la posibilidad de búsqueda por períodos semanales;
 
@@ -158,6 +172,10 @@ III. Tesis jurisprudenciales y aisladas emitidas por las Salas de la Suprema Cor
 IV. Tesis jurisprudenciales y aisladas emitidas por los Plenos de Circuito, y
 
 V. Tesis jurisprudenciales y aisladas emitidas por los Tribunales Colegiados de Circuito.
+
+> <small>(ADICIONADA POR EL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CUATRO DE ABRIL DE DOS MIL DIECISÉIS, D.O.F. 18 DE ABRIL DE 2016)</small>
+
+VI. Temas generados para efectos informativos respecto de las razones sustentadas en controversias constitucionales y en acciones de inconstitucionalidad, así como en recursos e incidentes interpuestos en esos asuntos.
 
 SEXTO. El Semanario Judicial de la Federación se publicará permanentemente, de manera electrónica, en la página de Internet de esta Suprema Corte de Justicia de la Nación.
 
@@ -179,7 +197,9 @@ NOVENO. La Secretaría General de Acuerdos y las Secretarías de Acuerdos de las
 
 La Coordinación de Compilación y Sistematización de Tesis, con apoyo de la Secretaría General de Acuerdos de la Suprema Corte de Justicia de la Nación, deberá ingresar al sistema informático respectivo el o los derechos humanos que se aborden en cada una de las tesis jurisprudenciales y aisladas que se publiquen en el Semanario Judicial de la Federación.
 
-DÉCIMO. La Secretaría General de Acuerdos, con el apoyo de la Coordinación de Compilación y Sistematización de Tesis, deberá velar por proponer a los Ministros los proyectos de tesis de todos los criterios relevantes que se substancien en controversias constitucionales y en acciones de inconstitucionalidad, con el propósito de facilitar su difusión.
+> <small>(REFORMADO POR EL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CUATRO DE ABRIL DE DOS MIL DIECISÉIS, D.O.F. 18 DE ABRIL DE 2016)</small>
+
+DÉCIMO. El Semanario Judicial de la Federación contará con cuatro diversos subvínculos, a saber: a) Tesis y Ejecutorias Publicadas Semanalmente; b) Gaceta; c) Sistema de precedentes en controversias constitucionales y en acciones de inconstitucionalidad, y d) Sistematización de Tesis y Ejecutorias publicadas en el Semanario Judicial de la Federación de 1917 a la fecha, en la inteligencia de que este último permitirá una búsqueda global actualizada de lo visible en los otros tres subvínculos.
 
 DÉCIMO PRIMERO. En términos de lo previsto en el artículo 219 de la Ley de Amparo, el Pleno o las Salas de la Suprema Corte de Justicia de la Nación, los Plenos de Circuito y los Tribunales Colegiados de Circuito, deberán remitir a la Coordinación de Compilación y Sistematización de Tesis las tesis jurisprudenciales o aisladas, dentro de los quince días hábiles siguientes al en que sean aprobadas, junto con las ejecutorias que contengan el criterio aprobado y, en su caso, el voto particular o de minoría, para su inmediata difusión en el Semanario Judicial de la Federación.
 
@@ -208,3 +228,17 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 19/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN VIA ELECTRÓNICA, A TRAVÉS DE LA PAGINA DE INTERNET DE ESTE ALTO TRIBUNAL, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Alberto Pérez Dayán y Presidente Juan N. Silva Meza.- México, Distrito Federal, a veinticinco de noviembre de dos mil trece.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de veinticuatro fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 19/2013, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría Genera (sic) de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a veintiséis de noviembre de dos mil trece.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CUATRO DE ABRIL DE DOS MIL DIECISÉIS, POR EL QUE SE MODIFICAN LOS PUNTOS TERCERO, FRACCIONES I, INCISO E), Y II, INCISO B), CUARTO, PÁRRAFO ÚLTIMO, Y DÉCIMO; Y SE ADICIONA UNA FRACCIÓN VI AL PUNTO QUINTO, DEL ACUERDO GENERAL 19/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN VÍA ELECTRÓNICA, A TRAVÉS DE LA PÁGINA DE INTERNET DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 6/2005, de siete de febrero de dos mil cinco, relativo a la publicación de las sentencias dictadas en las controversias constitucionales y acciones de inconstitucionalidad.
+
+TERCERO. El subvínculo del Semanario Judicial de la Federación denominado “Sistema de precedentes en controversias constitucionales y en acciones de inconstitucionalidad”, será consultable a partir del diecinueve de septiembre de dos mil dieciséis, y se integrará con las sentencias dictadas a partir de septiembre de dos mil catorce en controversias constitucionales y en acciones de inconstitucionalidad, así como en recursos e incidentes derivados de esos asuntos. La Secretaría General de Acuerdos remitirá a la Coordinación de Compilación y Sistematización de Tesis los temas de las sentencias antes referidas, dictadas antes de la entrada en vigor del presente instrumento normativo, con copia al Secretario de Estudio y Cuenta responsable del engrose respectivo.
+
+CUARTO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y, en su momento, en el diverso 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 19/2013 en dichos medios electrónicos.
