@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-turismo-del-estado-8491
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-16"
-last_updated: "2012-01-16"
+last_updated: "2016-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de enero de 2012.
 
@@ -191,7 +191,9 @@ Para la atención, trámite y resolución de asuntos particulares que son compet
 
 El Secretario podrá autorizar por escrito a servidores públicos subalternos para que realicen actos y suscriban documentos que formen parte del ejercicio de sus facultades, debiendo registrar dichas autorizaciones en la Dirección de Asuntos Jurídicos.
 
-### CAPÍTULO IV (SIC). De las Unidades Administrativas
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 18 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO III. De las Unidades Administrativas
 
 ###### Artículo 13.
 
@@ -289,9 +291,37 @@ XX. Determinar las normas que regulen el control y distribución de la informaci
 
 XXI. Coordinar el mercado turístico directo dirigido al mercado nacional e internacional;
 
-XXII. Instrumentar, coordinar y promover con entidades públicas y privadas, políticas y programas que fomenten e incentiven el desarrollo integral de turismo social; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXIII. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
+XXII. Instrumentar, coordinar y promover con entidades públicas y privadas, políticas y programas que fomenten e incentiven el desarrollo integral de turismo social;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIII. Promover e impulsar de manera conjunta con la Dirección de Mercadotecnia y Difusión, así como con la de Desarrollo y Proyectos Turísticos, la infraestructura básica y de servicios urbanos en áreas de interés turístico;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIV. Participar en coordinación con las direcciones de Desarrollo y Proyectos Turísticos, y con la de Capacitación y Cultura Turística, en la promoción y fomento de la calidad en la prestación de servicios turísticos, impulsando la creación o mejoramiento de hoteles, restaurantes, balnearios, desarrollos náuticos de pesca, deportivos y recreativos, entre otros;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXV. Gestionar e impulsar los servicios de transportación exclusiva para el turismo, en destinos y áreas naturales turísticas;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVI. Promover, apoyar y coordinar la organización de los prestadores de servicios turísticos en los diferentes giros, para integrar asociaciones, comités o patronatos de carácter público, privado, social y mixto, orientados a la promoción del turismo local, así como el fomento e impulso de su desarrollo cualitativo;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVII. Instrumentar y coordinar un sistema de autoevaluación para el otorgamiento de estímulos a los prestadores de servicios turísticos que destaquen en el desarrollo y mejoramiento continuo de la calidad de la prestación de los servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVIII. Concertar con los prestadores de servicios turísticos, la integración de una oferta consolidada y continua para grupos organizados de vacacionistas nacionales y extranjeros, con garantía de tiempo, calidad y precio; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIX. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
 
 #### SECCIÓN SEGUNDA. De la Dirección de Capacitación y Cultura Turística
 
@@ -329,9 +359,17 @@ XIV. Fomentar el mejoramiento de los servicios turísticos en el Estado, así co
 
 XV. Dar seguimiento a las recomendaciones y resoluciones emitidas por las autoridades federales y/o locales en materia de atención turística;
 
-XVI. Solicitar la verificación y vigilancia de los prestadores de servicios turísticos cuando sea necesario; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XVII. Realizar las funciones que las disposiciones legales le confieran a la Secretaría, que sean de naturaleza similar a las señaladas en las fracciones que anteceden y las que le encomiende el Secretario.
+XVI. Solicitar la verificación y vigilancia de los prestadores de servicios turísticos cuando sea necesario;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XVII. Participar en coordinación con las Direcciones de Promoción y Fomento, y con la de Desarrollo y Proyectos Turísticos, en la promoción y fomento de la calidad en la prestación de servicios turísticos, impulsando la creación o mejoramiento de hoteles, restaurantes, balnearios, desarrollos náuticos de pesca, deportivos y recreativos, entre otros; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XVIII. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
 
 #### SECCIÓN TERCERA. De la Dirección de Asuntos Jurídicos
 
@@ -385,9 +423,17 @@ XXII. Realizar las notificaciones de resoluciones y cualquier acto administrativ
 
 XXIII. Resolver y tramitar, previo acuerdo con el Secretario, los asuntos del personal al servicio de la Secretaría, tales como: remociones, rescisión de la relación laboral, cambio de adscripción o cualquier otra situación que implique cambio en las condiciones generales de trabajo;
 
-XXIV. Proporcionar e instrumentar los mecanismos de orientación a los turistas, en la presentación de denuncias y quejas por incidentes que sufran durante su estancia en el Estado, así como apoyarlos jurídicamente ante las autoridades federales, estatales y municipales; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXV. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
+XXIV. Proporcionar e instrumentar los mecanismos de orientación a los turistas, en la presentación de denuncias y quejas por incidentes que sufran durante su estancia en el Estado, así como apoyarlos jurídicamente ante las autoridades federales, estatales y municipales;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXV. Atender los recursos que se interpongan contra resoluciones referentes a sanciones dictaminadas localmente con apego al procedimiento previsto en la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVI. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
 
 #### SECCIÓN CUARTA. De la Dirección Administrativa
 
@@ -443,9 +489,17 @@ XXIII. Proporcionar los servicios de recepción y despacho de correspondencia, a
 
 XXIV. Elaborar directa y coordinadamente con las unidades administrativas, previo acuerdo del Secretario, los procedimientos administrativos para la atención al público, de acuerdo a la naturaleza del servicio que se presta en la esfera de su competencia;
 
-XXV. Establecer el control de suministros de materiales a las unidades administrativas, a fin de proveer los recursos necesarios en forma oportuna, vigilando el uso racional de los mismos; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXVI. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
+XXV. Establecer el control de suministros de materiales a las unidades administrativas, a fin de proveer los recursos necesarios en forma oportuna, vigilando el uso racional de los mismos;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVI. Intervenir en la administración, coordinación y distribución de fondos mixtos de promoción y desarrollo turístico, a fin de ejecutar una adecuada gestión, seguimiento y comprobación de los recursos que en su caso se llegasen a obtener a través de dichos fondos; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVII. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
 
 #### SECCIÓN QUINTA. De la Dirección de Planeación, Estadística e Informática
 
@@ -495,9 +549,21 @@ XX. Registrar, elaborar y actualizar permanentemente la información de los recu
 
 XXI. Supervisar el funcionamiento del Sistema de Información Turística Estatal y coordinar su integración con los sistemas de los demás estados;
 
-XXII. Supervisar el uso y aplicación de los servicios de Internet, a fin de lograr el mejor aprovechamiento del mismo; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXIII. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
+XXII. Supervisar el uso y aplicación de los servicios de Internet, a fin de lograr el mejor aprovechamiento del mismo;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIII. Autorizar los reglamentos internos de los establecimientos turísticos de la Entidad de acuerdo a la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIV. Llevar un registro de los reglamentos internos de establecimientos de hospedaje, así como las especificaciones y características de los paquetes manejados por agencias de viajes; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXV. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
 
 #### SECCIÓN SEXTA. De la Dirección de Mercadotecnia y Difusión
 
@@ -549,9 +615,17 @@ XXI. Elaborar y apoyar a las unidades administrativas con los elementos necesari
 
 XXII. Coordinar con la Dirección de Promoción y Fomento la elaboración de materiales impresos con los que se promocione y difunda la información sobre los centros de interés turístico, eventos especiales y ferias regionales que se realicen en la Entidad;
 
-XXIII. Comunicar y difundir a los miembros del sector turístico las acciones más importantes relacionadas con el turismo a nivel nacional y estatal; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXIV. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
+XXIII. Comunicar y difundir a los miembros del sector turístico las acciones más importantes relacionadas con el turismo a nivel nacional y estatal;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIV. Promover e impulsar en coordinación con la Dirección de Promoción y Fomento, así como con la de Desarrollo y Proyectos Turísticos, la infraestructura básica y de servicios urbanos en áreas de interés turístico; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXV. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
 
 #### SECCIÓN SÉPTIMA. De la Dirección de Desarrollo y Proyectos Turísticos
 
@@ -597,9 +671,33 @@ XVIII. Promover, coordinar y asesorar técnicamente la creación y operación de
 
 XIX. Solicitar informes periódicos a los consejos y comités de turismo municipales con relación al funcionamiento y operatividad de los mismos;
 
-XX. Supervisar en conjunto con las autoridades competentes, la calidad de los servicios que proporcionan los diferentes centros turísticos de la Entidad y realizar las acciones necesarias para su mejoramiento; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXI. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
+XX. Supervisar en conjunto con las autoridades competentes, la calidad de los servicios que proporcionan los diferentes centros turísticos de la Entidad y realizar las acciones necesarias para su mejoramiento;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXI. Promover e impulsar en coordinación con la Dirección de Promoción y Fomento, así como con la de Mercadotecnia y Difusión, la infraestructura básica y de servicios urbanos en áreas de interés turístico;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXII. Participar en la promoción y fomento de la calidad en la prestación de servicios turísticos en coordinación con las Direcciones de Promoción y Fomento, y con la de Capacitación y Cultura Turística, impulsando la creación o mejoramiento de hoteles, restaurantes, balnearios, desarrollos náuticos de pesca, deportivos y recreativos, entre otros;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIII. Promover y estimular, en coordinación con las autoridades competentes, la creación de empresas y desarrollos turísticos ejidales o comunales;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIV. Apoyar y gestionar ante las diferentes instancias, el acceso oportuno y eficaz del turista a los servicios colaterales de seguridad pública, transportación, sanidad y salud, entre otros;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXV. Participar, apoyar y realizar estudios técnicos previos en zonas y áreas aptas para el desarrollo turístico, orientados a la preservación y protección del medio ambiente y la ecología del Estado; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVI. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
 
 #### SECCIÓN OCTAVA. De la Dirección de Centros de Atención al Visitante
 
@@ -627,11 +725,15 @@ IX. Supervisar el correcto funcionamiento de los módulos de información turís
 
 X. Realizar las funciones que las disposiciones legales le confieran a la Secretaría y sean de naturaleza similar a las señaladas en las fracciones que anteceden, así como las que el Secretario le encomiende.
 
-### CAPÍTULO V. De las Suplencias
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 18 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO IV. De las Suplencias
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2016)</small>
 
 ###### Artículo 23.
 
-El Secretario será suplido en sus ausencias por el Director que al efecto designe.
+El Secretario será suplido en sus ausencias temporales menores a 30 días por el Director de Promoción y Fomento, en ausencias mayores por la persona que designe el propio Gobernador del Estado.
 
 ###### Artículo 24.
 
@@ -664,3 +766,13 @@ JEFE DE GABINETE.
 Lic. Verónica Sánchez Alejandre,
 
 SECRETARIA DE TURISMO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- Publíquense las presentes Reformas en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
