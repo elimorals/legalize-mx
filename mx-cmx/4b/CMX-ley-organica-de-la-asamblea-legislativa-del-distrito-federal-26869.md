@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2015-11-27"
+last_updated: "2016-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ABRIL DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -132,7 +132,7 @@ X.- Conocer y calificar la renuncia del Jefe de Gobierno del Distrito Federal, l
 
 XI.- Aprobar la propuesta del Presidente de la Comisión de Derechos Humanos del Distrito Federal, en los términos dispuestos por esta ley; así como, designar a los consejeros de la misma;
 
-XII.- Elegir a los miembros del Consejo General del Instituto Electoral del Distrito Federal, de acuerdo con lo que dispone el Estatuto de Gobierno del Distrito Federal y la ley correspondiente;
+XII.- (DEROGADO, G.O. 18 DE ABRIL DE 2016)
 
 XIII.- Designar a dos Consejeros de la Judicatura del Distrito Federal, en los términos de la fracción II de la Base Cuarta del Apartado C del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -193,6 +193,10 @@ XXV.- Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2011)</small>
 
 XXVI.- Otorgar la medalla al Mérito de Protección Civil, a quienes hayan destacado en el aspecto técnico científico que permitan alertar y proteger a la población frente a fenómenos naturales o de origen humano, a quienes destacaron en la labor de bombero y finalmente aquellos que signifiquen por su labor ejemplar en la prevención y/o auxilio a la población ante la eventualidad de un desastre;
+
+> <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2016)</small>
+
+XXVI Bis.- Otorgar la medalla al Mérito por la Igualdad y la No Discriminación, en reconocimiento a quienes se hayan distinguido por su trabajo a favor del respeto a la dignidad humana, los derechos fundamentales de las personas, la equidad de género, y la no discriminación a los grupos vulnerables del Distrito Federal; dicho reconocimiento se entregará en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
 XXVII.- Expedir la Ley Orgánica que regulará su estructura y funcionamiento interno, la cual será enviada al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
 
@@ -2365,3 +2369,19 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal par
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- La Asamblea Legislativa del Distrito Federal deberá considerar los recursos económicos suficientes en el Presupuesto de Egresos en el ejercicio 2016 y subsecuentes, para la aplicación del presente decreto.
+
+G.O. 18 DE ABRIL DE 2016.
+
+[TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA LA FRACCIÓN XII DEL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
