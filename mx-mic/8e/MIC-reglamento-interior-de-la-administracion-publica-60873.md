@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-administracion-publica-60873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-21"
-last_updated: "2015-06-02"
+last_updated: "2016-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 18 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de abril de 2008.
 
@@ -8244,3 +8246,35 @@ Hasta en tanto no se realicen las modificaciones normativas señaladas en al art
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones normativas en lo que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 21 de abril de 2008, y las demás disposiciones administrativas en lo que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales administrativos de organización, deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo dentro de los 150 días naturales posteriores a la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los manuales administrativos de procedimientos, deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo dentro de los 150 días naturales posteriores a (sic) entrada en vigor de los manuales de organización.
+
+###### ARTÍCULO QUINTO.
+
+Las dependencias, coordinaciones y entidades de la Administración Pública Estatal serán responsables de los Capítulos 2000 y 3000 correspondientes a Materiales y Suministros, y Servicios Generales respectivamente, acorde al Clasificador por Objeto del Gasto para el Estado de Michoacán de Ocampo, de su respectivo Órgano Interno de Control.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, emitirá los criterios o lineamientos para la operación de las Unidades de Igualdad Sustantiva, dentro de los 30 días naturales a la entrada en vigor del presente Reglamento. Estas unidades serán conformadas por personal adscrito de la propia dependencia o coordinación, y los cargos serán honoríficos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las transferencias que por motivo del presente Reglamento se deban realizar, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a las estructuras organizacionales, programáticas y financieras, a los calendarios financieros y de metas, así como a las transferencias de los recursos humanos y materiales, todo lo anterior se realizará con la participación de la Secretaría de Finanzas y Administración, Secretaría de Contraloría, y la Coordinación General de Gabinete y Planeación, en la materia de su competencia.
