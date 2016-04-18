@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-un-organismo-municipal-descentralizado-del-h-91018
 country: "mx"
 rank: "ley"
 publication_date: "1973-08-21"
-last_updated: "2016-03-22"
+last_updated: "2016-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "PUE"
 ---
 # LEY QUE CREA UN ORGANISMO MUNICIPAL DESCENTRALIZADO DEL H. AYUNTAMIENTO DE PUEBLA, BAJO LA DENOMINACION "INDUSTRIAL DE ABASTOS PUEBLA"
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2016. EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE CREA UN ORGANISMO MUNICIPAL DESCENTRALIZADO DEL H. AYUNTAMIENTO DE PUEBLA, BAJO LA DENOMINACIÓN "INDUSTRIAL DE ABASTOS PUEBLA"
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE PUEBLA DEL 18 DE ABRIL DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 21 de agosto de 1973.
 
@@ -181,6 +181,8 @@ VI. El Tesorero Municipal, quien fungirá como Vocal; y
 
 VII. Un Regidor miembro de la Comisión de Servicios Públicos, quien fungirá como Vocal.
 
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2016)</small>
+
 Los miembros del Consejo de Administración, en su carácter de servidores públicos conservarán y ejercerán las facultades que les confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica Municipal, el Código Fiscal y Presupuestario para el Municipio de Puebla, el Código Reglamentario para el Municipio de Puebla y demás ordenamientos y disposiciones legales, independientemente de las establecidas en el presente Decreto.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
@@ -323,7 +325,7 @@ El Presidente del Consejo, tiene la representación legal del Organismo y será 
 
 Además de las atribuciones señaladas en el artículo anterior, el Presidente del Consejo de Administración, tendrá las siguientes:
 
-l. Presidir las sesiones del Consejo de Administración y hacer cumplir sus acuerdos;
+I. Presidir las sesiones del Consejo de Administración y hacer cumplir sus acuerdos;
 
 II. Tener voto de calidad en caso de empate;
 
