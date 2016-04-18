@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-rural-y-7953
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-31"
-last_updated: "2011-03-21"
+last_updated: "2016-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL Y AGROEMPRESARIAL, DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL Y AGROEMPRESARIAL DEL ESTADO DE AGUASCALIENTES
+> <small>[N. DE E. DE CONFORMIDAD EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL Y AGROEMPRESARIAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2017; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL Y AGROEMPRESARIAL DEL ESTADO DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2016.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de enero de 2011.
 
@@ -49,7 +51,7 @@ I. Estado: el Estado de Aguascalientes;
 
 II. FFOFAE: al Fideicomiso Fondo de Fomento Agropecuario del Estado;
 
-III. FOGAGUA: al Fideicomiso Fondo de Garantía para las Empresas de Solidaridad en el Estado de Aguascalientes;
+III. (DEROGADA, P.O. 18 DE ABRIL DE 2016)
 
 IV. Ley Orgánica: la Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
 
@@ -143,39 +145,61 @@ En el ejercicio de las facultades conferidas en el artículo 28 de la Ley y en e
 
 Al Director General de Desarrollo Rural le corresponden las siguientes facultades específicas:
 
-I. Definir las estrategias y líneas de acción, así como coordinar y evaluar la operación de los programas de fomento agrícola, fitosanitario, forestal, y los de fomento pecuario, zoosanitario y de inocuidad pecuaria;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+I. Definir las estrategias y líneas de acción, así como coordinar y evaluar la operación de los programas de fomento agrícola, fitosanitario y forestal, y los de fomento pecuario, zoosanitario y de inocuidad pecuaria, agrícola, acuícola y pesquera, en coordinación con las autoridades federales competentes;
 
 II. Promover y coadyuvar en el desarrollo integral de las comunidades rurales, en el ámbito de su competencia, sujetándose al Plan de Desarrollo del Estado de Aguascalientes;
 
-III. Analizar la problemática agrícola, ganadera y forestal estatal para la implementación de programas de fomento al desarrollo y a la producción;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+III. Analizar la problemática agrícola, ganadera y forestal estatal para la implementación de programas de fomento al desarrollo y a la producción, que permitan la sustentabilidad del sector;
 
 IV. Promover el empleo en el medio rural, y fomentar la instrumentación de programas de empleo temporal, en coordinación con las instituciones involucradas;
 
-V. Promover y conducir los programas de capacitación y desarrollo tecnológico para el sector rural;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+V. Promover y conducir los programas de capacitación, desarrollo tecnológico y humano para el sector rural;
 
 VI. Promover la modernización de los servicios de asistencia técnica rural y prestar los servicios correspondientes;
 
 VII. Propiciar que los instrumentos de política sectorial sean conocidos y utilizados por los productores;
 
-VIII. Promover y ejecutar los programas y acciones que tiendan a fomentar de manera sustentable y sostenible, la productividad y rentabilidad de las actividades que se desarrollen en el medio rural;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-IX. Propiciar la articulación de programas y recursos públicos y privados para el desarrollo rural;
+VIII. Promover e inducir que los programas y acciones que se desarrollen en el medio rural observen los principios de sustentabilidad, sostenibilidad, productividad y rentabilidad del sector agropecuario;
 
-X. Promover acciones conjuntas entre la administración pública, los productores agropecuarios y los centros de investigación, a fin de instrumentar proyectos integrales de desarrollo rural sustentable;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XI. Coordinar la operación y aprovechamiento de los fondos que se constituyan para el desarrollo rural integral;
+IX. Propiciar la articulación de programas y recursos públicos y privados para el desarrollo rural; así como esquemas de aseguramientos para atender afectaciones provocadas por desastres naturales;
 
-XII. Promover y fomentar, en coordinación con las Dependencias y Entidades competentes, la creación de empresas agroindustriales, de turismo alternativo, artesanales, comerciales y de servicios;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+X. Promover acciones conjuntas entre la administración pública, los productores agropecuarios y los centros de investigación, a fin de instrumentar proyectos integrales de desarrollo rural sustentable. De igual manera, apoyar la transferencia de tecnología desarrollada por las instituciones de investigación y fomentar la investigación aplicada;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XI. Coordinar la operación y aprovechamiento de los fondos que se constituyan para el desarrollo rural integral; asegurando que su aplicación se realice con eficiencia, economía y transparencia;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XII. Promover y fomentar la diversificación de la actividad agropecuaria estatal y la agricultura por contrato;
 
 XIII. Promover la organización campesina e inducir la participación de los habitantes del campo, en programas que fortalezcan la producción y el desarrollo rural sustentable;
 
 XIV. Emitir opinión sobre la expedición de los permisos, autorizaciones y otros instrumentos jurídicos para el uso o aprovechamiento de espacios e infraestructura de zonas rurales de Aguascalientes, en apego a las disposiciones jurídicas aplicables;
 
-XV. Promover obras de infraestructura en el ámbito rural, con apego a la legislación ambiental vigente;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XVI. Diseñar los programas y proyectos enfocados al desarrollo pecuario, sanidad zoosanitaria e inocuidad pecuaria, y coordinar la ejecución de los mismos;
+XV. Promover, diseñar, construir y ampliar obras de infraestructura en el medio rural para mejorar la calidad de vida de la población, con apego a la legislación ambiental vigente;
 
-XVII. Participar, conjuntamente con la Secretaría de Medio Ambiente, en la elaboración, promoción y ejecución de programas de desarrollo forestal, cambios de uso de suelo forestal, reforestación, aprovechamiento cinegético, protección, conservación y aprovechamiento sustentable de la flora y la fauna silvestre;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XVI. Diseñar los programas y proyectos enfocados al desarrollo pecuario, agrícola, sanidad zoosanitaria vegetal, acuícola y pesquera e inocuidad pecuaria, acuícola y pesquera y coordinar la ejecución de los mismos con las autoridades civiles y federales competentes;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XVII. Participar, con las distintas dependencias federales y estatales inmersas en el sector forestal, en la elaboración, promoción y ejecución de programas de desarrollo forestal, reforestación, aprovechamiento cinegético, protección, conservación y aprovechamiento sustentable de la flora y la fauna silvestre;
 
 > <small>(F. DE E., P.O. 21 DE MARZO DE 2011)</small>
 
@@ -183,33 +207,105 @@ XVIII. Identificar, promover y coordinar el establecimiento y manejo de áreas d
 
 XIX. Promover la participación de las instancias dedicadas a la investigación científica y tecnológica para el desarrollo de proyectos en materia agrícola, forestal y ganadera;
 
-XX. Realizar inspecciones en los puntos de verificación e inspección estatales del ganado, productos y subproductos de origen animal y vegetal que se movilicen en el Estado;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXI. Verificar mediante inspecciones, que las especies, productos e insumos vegetales, pecuarios y acuícolas que se movilicen por el territorio del Estado, cumplan con la normatividad correspondiente y, en su caso, se constate su condición sanitaria o inocuidad;
+XX. Coadyuvar en el cumplimiento de la normatividad respecto a la movilización agropecuaria nacional en los puntos de verificación e inspección estatales del ganado, productos y subproductos de origen animal y vegetal que se movilicen en el Estado. Realizar inspecciones en el centro de acopio y centros de sacrificio estatales del ganado, productos y subproductos de origen animal y vegetal que se movilicen en el estado;
 
-XXII. Coadyuvar con la Delegación Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y los Comités Estatales de Fomento y Protección Pecuaria y Sanidad Vegetal, en el desarrollo de las actividades fitozoosanitarias;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXI. Coadyuvar con las autoridades federales y civiles mediante inspecciones en los predios que las especies, productos y unidades de producción insumos vegetales, pecuarios y acuícolas que se movilicen por el territorio del Estado, cumplan con la normatividad correspondiente y, en su caso, se constate su condición fitozoosanitaria e inocuidad;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXII. Coadyuvar con la Delegación estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y los Comités Estatales de Fomento y Protección Pecuaria y Sanidad Vegetal, en la gestión e implementación de programas y campañas de sanidad e inocuidad fitozoosanitaria;
 
 XXIII. Promover convenios y programas de coordinación fitozoosanitaria con los Municipios, organizaciones de productores y otras instituciones, así como dar seguimiento a su operación y evaluar sus resultados;
 
-XXIV. Certificar la sanidad e inocuidad y en general, la calidad agroalimentaria y acuícola de los productos del país e importados, que tienen su destino en el contexto estatal y nacional;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXV. Dar seguimiento a las campañas agropecuarias de prioridad nacional;
+XXIV. Coadyuvar con las autoridades federales y civiles en la verificación de la sanidad e inocuidad y en general, la calidad agroalimentaria y acuícola de los productos del país e importados, que tienen su destino en el contexto estatal y nacional;
 
-XXVI. Coordinar, conjuntamente con la Secretaría de Medio Ambiente, los programas de conservación del suelo y agua;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXV. Dar seguimiento a las campañas fitozoosanitarias, acuícolas y pesqueras de prioridad nacional;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVI. Coadyuvar y dar seguimiento a los programas de conservación de suelo y agua en coordinación con las dependencias del sector involucradas con el tema;
 
 XXVII. Aplicar la normatividad en materia de legalidad del uso y manejo eficiente del agua y el suelo;
 
-XXVIII. Formular, mantener y difundir programas para optimizar el uso del recurso agua, y para apoyar la reparación o adquisición de equipos de bombeo y sistemas de riego, electrificaciones y reparaciones de pozos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXIX. Promover, publicitar, difundir y coordinar la entrega de apoyos de infraestructura rural hidroagrícola, para captar, retener y conservar el recurso agua;
+XXVIII. Formular, mantener y difundir programas para optimizar el uso del recurso agua, y para apoyar la reparación o adquisición de equipos de bombeo y sistemas de riego, electrificaciones y reparaciones de pozos; buscando elevar la preservación y eficiencia en el uso del recurso;
 
-XXX. Apoyar la integración de una base de datos e indicadores del desarrollo rural, aportando la información que se le requiera; y (sic)
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXIX. Promover, publicitar, difundir y coordinar la entrega de apoyos de infraestructura rural hidroagrícola, para captar, retener y conservar el recurso agua; orientados a un mejor aprovechamiento del recurso y la mejora de la productividad;
+
+XXX. Apoyar la integración de una base de datos e indicadores del desarrollo rural, aportando la información que se le requiera; y
 
 XXXI. Instrumentar las acciones de coordinación, supervisión, y control para la operación de programas de apoyos directos al campo;
 
-XXXII. Definir las líneas de acción y estrategias para la operación de los programas y proyectos que incluyen la instalación de sistemas de conducción de agua e irrigación;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXXIII. Las demás que le sean conferidas por otras disposiciones legales, o por instrucciones del Secretario.
+XXXII. Definir las líneas de acción y estrategias para la operación de los programas y proyectos de rehabilitación y modernización de la infraestructura hidroagrícola y la tecnificación de riego;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXXIII. Promover el crédito para el desarrollo rural, en coordinación con la Secretaría de Finanzas, y participar con ella en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la producción;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXXIV. Coordinarse con las autoridades federales, estatales y municipales y con los productores en lo relacionado con las actividades agropecuarias y forestales en el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXXV. Organizar y fomentar servicios relacionados con las actividades agrícolas, pecuarias y forestales, considerando la disponibilidad de recursos naturales y los productos generados en cada región, así como la situación del mercado;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXXVI. Impulsar y apoyar los productos productivos que generen empleos e ingresos a las familias rurales;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXXVII. Asesorar a los municipios y organismos de productores que lo soliciten, en materia agrícola, pecuaria y forestal;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXXVIII. Impulsar la organización económica de los productores y núcleos agrarios en uniones, asociaciones, sociedades y, en general de todo tipo de empresas;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXXIX. Apoyar los programas de investigación agrícola, pecuaria y forestal, así como fomentar la divulgación y aplicación de la tecnología y de los sistemas que mejoren la productividad;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XL. Formular el inventario de los recursos agrícola, pecuario y forestal existentes en el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XLI. Procesar, integrar y difundir la información estadística y geográfica referente a las actividades agrícolas, ganaderas, forestales y agroempresariales del Estado; así como difundir información que impulse el desarrollo agropecuario y forestal del Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XLII. Manejar y administrar, cuando así se le solicite, ya sea por sí o conjuntamente con productores o empresarios:
+
+a) Centros de acopio, predios agrícolas, viveros y demás unidades productivas que conlleven al desarrollo agropecuario del estado, y
+
+b) Rastros frigoríficos e instalaciones zootécnicas necesarias para el desarrollo e impulso de la ganadería en el Estado, de la producción de leche y carne de ganado, y de las actividades relacionadas con la cunicultura, avicultura y apicultura;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XLIII. Operar la maquinaria agrícola y pesada que se utilice en los programas de apoyo a los productores, así como intensificar la mecanización del campo en general;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XLIV. Promover la actualización de las disposiciones jurídicas y normas oficiales mexicanas aplicables en las materias agrícola, pecuaria, forestal y vida silvestre; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XLV. Las demás que le sean conferidas por otras disposiciones legales, o por instrucciones del Secretario.
 
 ###### Artículo 13.
 
@@ -221,7 +317,7 @@ II. Dirección de Ganadería;
 
 III. Dirección de Infraestructura Rural e Hidroagrícola;
 
-IV. Dirección de Investigación Aplicada y Transferencia de Tecnología; y
+IV. (DEROGADA, P.O. 18 DE ABRIL DE 2016)
 
 V. Dirección de Fomento Rural Comunitario.
 
@@ -231,7 +327,9 @@ Al Director General de Fomento Agroempresarial le corresponden las siguientes fa
 
 I. Promover, apoyar y desarrollar la transformación de productos agrícolas, pecuarios, forestales y piscícolas que les incorpore valor agregado, así como su distribución y comercialización;
 
-II. Promover la inversión productiva del sector privado en el campo, gestionar el acceso de los productores al financiamiento de proyectos comerciales, y coordinar la realización de encuentros agroempresariales;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+II. Promover la inversión productiva del sector privado en el campo, gestionar el acceso de los Productores al Financiamiento de sus proyectos comerciales y coordinar la realización de encuentros agroempresariales;
 
 III. Promover y fomentar la modernización de la gestión empresarial en el sector;
 
@@ -241,7 +339,9 @@ V. Propiciar el incremento de la eficiencia y la competitividad de los productos
 
 VI. Diseñar mecanismos de planeación que privilegien las cadenas productivas, tendientes a incrementar la competitividad nacional e internacional del sector rural;
 
-VII. Promover y gestionar recursos crediticios para el desarrollo de las actividades agroempresariales, pecuarias y forestales, bajo condiciones financieras adecuadas a los ciclos de las cosechas, a los precios y a los riesgos en la materia;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+VII. Promover y gestionar recursos crediticios, para el desarrollo de las actividades agroempresariales, pecuarias y forestales, bajo condiciones financieras adecuadas a los ciclos de las cosechas, a los precios y a los riesgos en la materia;
 
 VIII. Coordinar la realización de estudios de mercado para la detección de la oferta y demanda de productos agropecuarios, agroindustriales, y demás provenientes del sector rural existentes en el Estado;
 
@@ -255,7 +355,9 @@ XII. Fomentar, programar y ejecutar la organización y capacitación a productor
 
 XIII. Atender a las comisiones de productores que acuden a la Secretaría y canalizar sus demandas para darles solución;
 
-XIV. Implementar y coordinar programas de capacitación y adiestramiento para los productores agroalimentarios del Estado;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XIV. Implementar y coordinar programas de capacitación y adiestramiento para los productores agroalimentarios y agroindustriales del Estado;
 
 XV. Promover la realización de encuentros de negocios entre productores del sector y compradores nacionales y del extranjero;
 
@@ -271,17 +373,23 @@ XX. Validar el logro de los objetivos alcanzados en las exposiciones y ferias y 
 
 XXI. Participar en los foros, consejos, comisiones y grupos de trabajo relacionados con la promoción y desarrollo de las exportaciones;
 
-XXII. Desarrollar esquemas de apoyo para productores, combinando recursos de programas y de crédito que complementen la inversión de los productores, a fin de dar mayor sustentabilidad a los mismos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXIII. Participar en el Comité Técnico del FOGAGUA a fin de presentar las propuestas de apoyo a los créditos que cumplan con las condiciones del fideicomiso;
+XXII. Desarrollar esquemas de apoyo y financiamiento para productores, combinando recursos de programas y de crédito, que complementen la inversión de los productores, a fin de dar mayor sustentabilidad a los mismos;
+
+XXIII. (DEROGADA, P.O. 18 DE ABRIL DE 2016)
 
 XXIV. Coordinar la realización de estudios técnicos para la detección de necesidades de mercado o de producción, que deriven en la creación de nuevos negocios, o la capitalización de oportunidades que mejoren la capacidad técnica del productor o su rentabilidad;
 
-XXV. Autorizar y verificar el cumplimiento de la normatividad aplicable en la administración de recursos financieros que se aplican al desarrollo rural sustentable;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXV. Autorizar y verificar el cumplimiento de la normatividad aplicable para la administración de recursos financieros que se aplican al desarrollo rural sustentable;
 
 XXVI. Proveer, fomentar y asesorar técnicamente la industrialización y comercialización agropecuaria y agroindustrial;
 
-XXVII. Organizar, capacitar y asesorar a los productores para el aprovechamiento racional de los recursos agrícolas y pecuarios, así como para la obtención de los servicios e insumos necesarios para la ejecución de sus procesos productivos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVII. Organizar, capacitar y asesorar a los productores, para el aprovechamiento racional de los recursos agrícolas y pecuarios, así como para la obtención de los servicios e insumos necesarios para la ejecución de sus procesos productivos;
 
 XXVIII. Fomentar y asesorar la integración y funcionamiento de organizaciones de productores agropecuarios, estableciendo la coordinación que corresponda;
 
@@ -307,7 +415,9 @@ Al Director General de Planeación y Proyectos Estratégicos le corresponden las
 
 l. Formular el programa anual de actividades de la Secretaría, de conformidad con las estrategias, políticas, lineamientos y prioridades establecidas en el Plan de Desarrollo del Estado de Aguascalientes;
 
-II. Dictar las normas, políticas, procedimientos y metodologías que deberán observarse en la programación, ejecución, control y evaluación de los programas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+II. Difundir las normas, políticas, procedimientos y metodologías que deberán observarse en la programación, ejecución, control y evaluación los programas;
 
 III. Dirigir y coordinar la elaboración de los planes a corto, mediano y largo plazo de las Direcciones Generales de la Secretaría;
 
@@ -323,7 +433,9 @@ VIII. Proponer, conjuntamente con las Direcciones Generales de Desarrollo Rural 
 
 IX. Definir programas prioritarios de desarrollo agrícola, hortícola, pecuario y de sanidad agropecuaria, para determinar, de acuerdo a las necesidades de cada región y las posibilidades financieras, los apoyos que conduzcan al cumplimiento de los objetivos en la materia;
 
-X. Coordinar la realización de estudios sociales, técnicos y económicos que permitan diagnosticar la situación actual del sector agropecuario y forestal, y programar las acciones que se requieran para su desarrollo y consolidación;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+X. Coordinar la realización de estudios sociales, técnicos y económicos que permitan diagnosticar la situación actual del sector agropecuario y forestal, que coadyuven a programar las acciones que se requieran para su desarrollo y consolidación;
 
 XI. Integrar, en coordinación con las Direcciones Generales de Desarrollo Rural y de Fomento Agroempresarial, proyectos de alto impacto en el sector agropecuario y para el desarrollo rural, así como el Programa de Inversiones para este sector;
 
@@ -337,11 +449,15 @@ XV. Mantener actualizados los directorios de productores agrícolas y pecuarios 
 
 XVI. Captar, clasificar, analizar y procesar la información agropecuaria y agroindustrial que se genere en el Estado;
 
-XVII. Realizar estudios que permitan diagnosticar la situación del campo, por comunidades y zonas, y de cuyos resultados se obtengan proyectos y programas viables que tiendan a fomentar la producción, productividad, industrialización y comercialización agropecuaria;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XVII. Realizar estudios que permitan diagnosticar la situación del campo, por comunidades y zonas, y de cuyos resultados se obtengan propuestas de proyectos y programas viables que tiendan a fomentar la producción, productividad, industrialización y comercialización agropecuaria;
 
 XVIII. Elaborar los estudios de oferta, demanda, precios, costos de producción y distribución de los productos del sector agroalimentario del Estado, que le sean solicitados por la Secretaría;
 
-XIX. Generar los resultados de estudios económicos, técnicos, productivos y sociales de los principales indicadores del desarrollo rural, para el fortalecimiento de la toma de decisiones de los agentes económicos del sector rural;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XIX. Generar los reportes de resultados de estudios económicos, técnicos, productivos y sociales de los principales indicadores del desarrollo rural, para el fortalecimiento de la toma de decisiones de los agentes económicos del sector rural;
 
 XX. Generar acuerdos interinstitucionales, nacionales e internacionales, para garantizar el suministro suficiente, oportuno y veraz de la información en materia de desarrollo rural;
 
@@ -375,11 +491,15 @@ II. Asesorar jurídicamente a las Unidades Administrativas de la Secretaría, y 
 
 III. Elaborar los anteproyectos de leyes, reglamentos, decretos, acuerdos y órdenes gubernamentales que se relacionen con asuntos de competencia de la Secretaría, en coordinación con los funcionarios públicos competentes;
 
-IV. Proponer al Secretario, las bases y requisitos legales a que deban ajustarse los tratados, convenios, contratos, autorizaciones, permisos y licencias de competencia de la Secretaría, así como intervenir en el estudio, formulación, otorgamiento, revocación o modificación de los mismos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+IV. Emitir opinión sobre las bases y requisitos legales a que deban ajustarse los tratados, convenios, contratos, autorizaciones y permisos de la Secretaría, así como intervenir en el estudio, formalización, otorgamiento, revocación o modificación de los mismos;
 
 V. Intervenir en los procedimientos que lleven a cabo las Unidades Administrativas de la Secretaría, para la adjudicación de contratos, proyectos, estudios y adquisiciones;
 
-VI. Intervenir en las reclamaciones y juicios que puedan afectar los intereses de la Secretaría, así como los del Gobierno del Estado, sin perjuicio de la intervención que corresponda a otras autoridades;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+VI. Intervenir en las reclamaciones y juicios que puedan afectar los intereses de la Secretaría, sin perjuicio de la intervención que correspondan a otras autoridades;
 
 VII. Denunciar y presentar querellas ante el Ministerio Público del fuero común o federal, según el caso, de los hechos ilícitos que así lo ameriten, así como otorgar el perdón o presentar los desistimientos que procedan;
 
@@ -389,7 +509,9 @@ IX. Coadyuvar con las diferentes Unidades Administrativas que conforman la Secre
 
 X. Llevar el control de los convenios, acuerdos y contratos que suscriba la Secretaría;
 
-Xl. Elaborar y dictaminar los convenios, contratos, acuerdos, bases de coordinación o colaboración, o cualesquier otro instrumento jurídico que deba suscribir la Secretaría, de conformidad con las disposiciones legales aplicables y los requerimientos de las respectivas Unidades Administrativas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XI. Elaborar los convenios, contratos, acuerdos, bases de coordinación o colaboración, o cualesquier otro instrumento jurídico que deba suscribir la Secretaría, de conformidad con las disposiciones legales aplicables y los requerimientos de las respectivas Unidades Administrativas;
 
 XII. Expedir certificaciones en el área de su competencia, cuando se requiera para el despacho de los asuntos de la propia Secretaría o cuando medie petición de parte interesada;
 
@@ -407,9 +529,13 @@ XVI. Las demás que le sean conferidas por otras disposiciones legales, o por in
 
 Al Titular de la Unidad de Administración le corresponden las siguientes facultades:
 
-I. Establecer, con la aprobación del Secretario, los lineamientos, criterios, sistemas y procedimientos para la administración del personal y de los recursos financieros y materiales de la Secretaría, y coordinar los de las entidades sectorizadas, de acuerdo a sus objetivos y programas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-II. Diseñar, aplicar, dar seguimiento y evaluar las políticas y procedimientos para la modernización e innovación gubernamental de la Secretaría, y del Sector que coordina;
+I. Aplicar con la aprobación del Secretario, los lineamientos, criterios, sistemas y procedimientos para la administración del personal y de los recursos financieros y materiales de la Secretaría y coordinar los de las entidades sectorizadas, de acuerdo a sus objetivos y programas;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+II. Aplicar, dar Seguimiento y evaluar las políticas y procedimientos para la modernización e innovación gubernamental de la Secretaría y del sector que coordina;
 
 III. Proponer al Secretario, la autorización, asignación y modificaciones, según el caso, al presupuesto de la Secretaría y de las entidades del Sector, así como su respectiva gestión ante la Secretaría de Finanzas;
 
@@ -419,17 +545,23 @@ V. Autorizar la afectación presupuestal de los convenios y contratos que suscri
 
 VI. Revisar y proponer, en su caso, las adecuaciones de la estructura programática de la Secretaría, en coordinación con las Unidades Administrativas responsables de la ejecución de presupuestos y programas, así como las prioridades del Programa Operativo Anual y su correspondiente presupuesto de gasto;
 
-VII. Autorizar las erogaciones del presupuesto de la Secretaría, y vigilar su ejercicio y contabilidad;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+VII. Autorizar las erogaciones del presupuesto de la Secretaría, y vigilar su ejercicio;
 
 VIII. Representar a la Secretaría ante cualquier autoridad fiscal, en relación al ejercicio de su presupuesto;
 
-IX. Integrar la Cuenta Pública de la Secretaría, así como aplicar y difundir entre las unidades administrativas de la misma, las normas para la elaboración del anteproyecto del programa-presupuesto anual del Sector, e integrarlo conforme a disposiciones de la Secretaria de Finanzas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+IX. Elaborar la cuenta pública del FFOFAE, de acuerdo a las disposiciones de la Ley General de Contabilidad Gubernamental;
 
 X. Proporcionar a las Unidades Administrativas de la Secretaría los recursos financieros que requieran para su operación, de conformidad con la asignación presupuestal aprobada, así como autorizar las afectaciones presupuestales y la documentación comprobatoria, conforme a las normas establecidas para tal efecto;
 
 XI. Difundir las políticas y normas para el ejercicio del gasto, emitidas por la Secretaría de Finanzas, instrumentando los mecanismos de control del ejercicio presupuestal así como verificar el cumplimiento de las mismas;
 
-XII. Analizar y dictaminar las propuestas de reestructuración orgánica de las Unidades Administrativas de la Secretaría;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XII. Analizar y proponer movimientos de restructuración orgánica de las Unidades Administrativas de la Secretaría;
 
 XIII. Someter a la aprobación del Secretario las medidas técnicas y administrativas para la organización, funcionamiento, desconcentración, simplificación, descentralización y modernización administrativa de la Secretaría;
 
@@ -443,7 +575,9 @@ XVII. Coordinar y supervisar la elaboración de los manuales de organización y 
 
 XVIII. Establecer y atender el Servicio Profesional de Carrera, así como los sistemas de administración de personal y el servicio social;
 
-XIX. Efectuar el pago de las remuneraciones correspondientes al personal de la Secretaría, y tramitar y controlar las incidencias del mismo;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XIX. Tramitar y controlar las incidencias que afecten el pago de remuneraciones del personal;
 
 XX. Coordinar y proporcionar, en su caso, las prestaciones y servicios de carácter social, cultural, deportivo y recreativo para el personal de la Secretaría;
 
@@ -453,25 +587,35 @@ XXII. Difundir las Condiciones Generales de Trabajo de la Secretaría, vigilando
 
 XXIII. Aplicar las medidas dictadas por las autoridades correspondientes, en relación con el establecimiento, mantenimiento y operación del programa interno de protección civil;
 
-XXIV. Coordinar y supervisar los servicios de administración y distribución de documentos oficiales, así como el sistema de archivo;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXV. Certificar documentos que obren en sus archivos, relativos al personal de la Secretaría;
+XXIV. Coordinar y supervisar los servicios de administración y distribución de documentos oficiales;
+
+XXV. (DEROGADA, P.O. 18 DE ABRIL DE 2016)
 
 XXVI. Integrar el programa anual de adquisiciones de la Secretaría, de acuerdo con los requerimientos de las unidades administrativas, y realizar las adquisiciones establecidas con los alcances que determinen las autoridades superiores, así como elaborar la documentación correspondiente a las erogaciones que procedan;
 
-XXVII. Celebrar las licitaciones que se requieran para la adquisición de los bienes y servicios de la Secretaría, y coordinar la suscripción de los instrumentos jurídicos relacionados con la adquisición, enajenación y arrendamiento de servicios y bienes, en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXVII. Iniciar el procedimiento para la adquisición de los bienes y servicios, de acuerdo a los procedimientos establecidos para ello;
 
 XXVIII. Aplicar las normas y criterios para la adquisición de bienes y suministros, control de activos y aprovechamiento óptimo de los recursos materiales de la Secretaría;
 
 XXIX. Realizar y promover las acciones necesarias para la conservación y mantenimiento de los bienes muebles, inmuebles y equipos de la Secretaría, de conformidad con las disposiciones legales aplicables;
 
-XXX. Fijar y aplicar las normas para proporcionar los servicios generales necesarios para el adecuado funcionamiento de las unidades administrativas de la Secretaría;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXX. Aplicar las normas para proporcionar los servicios generales necesarios para el adecuado funcionamiento de las unidades administrativas de la Secretaría;
 
 XXXI. Instrumentar las medidas de mantenimiento preventivo, correctivo y de conservación de los bienes de la Secretaría;
 
-XXXII. Establecer y desarrollar los sistemas y mecanismos para el almacenamiento, control y actualización de los inventarios de la Secretaría;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-XXXIII. Dar de baja e intervenir en las licitaciones de los bienes muebles puestos al servicio de la Secretaría, con apego a las disposiciones legales aplicables y con la intervención que corresponda a otras dependencias y entidades estatales;
+XXXII. Aplicar los sistemas y mecanismos para el almacenamiento, control y actualización de los inventarios de la Secretaría;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XXXIII. Dar de baja los bienes muebles puestos al servicio de la Secretaría, con apego a las disposiciones legales aplicables;
 
 XXXIV. Atender la coordinación que se requiera con las dependencias y entidades de la Administración Pública Estatal competentes, en materia de recursos humanos, materiales y financieros; y
 
@@ -481,15 +625,21 @@ XXXV. Las demás que le sean conferidas por otras disposiciones legales, o le as
 
 Al Titular de la Unidad de Tecnologías de la Información le corresponde (sic) las siguientes facultades:
 
-I. Planear, investigar, desarrollar, programar, actualizar y documentar los sistemas de información que sean requeridos en las distintas unidades administrativas de la Secretaría, o que por iniciativa propia desarrolle;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
 
-II. Formular el Programa Anual de Desarrollo Informático, que refleje las acciones de modernización y transformación de la infraestructura tecnológica y de los sistemas de información de la dependencia;
+I. Planear, investigar, atender, implantar, diseñar, desarrollar, mantener y documentar los sistemas de información que sean requeridos en las distintas unidades administrativas de la Secretaría, o que por iniciativa propia desarrolle;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+II. Formular el Programa Anual de desarrollo Informático, que refleje las acciones de modernización y transformación de la infraestructura tecnológica en hardware y software de la dependencia;
 
 III. Definir y establecer la política de desarrollo informático de la Secretaría y sus entidades sectorizadas, de acuerdo a los lineamientos establecidos por las autoridades rectoras en la materia;
 
 IV. Promover el diseño y desarrollo de los sistemas institucionales de información de la Secretaría y la renovación periódica de la infraestructura informática, a fin de evitar su obsolescencia tecnológica;
 
-V. Promover la modernización de los sistemas, para la transmisión eficiente de voz y datos en las instalaciones de la Secretaría;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+V. Promover la modernización de los sistemas de comunicación, para la transmisión eficaz de voz y datos en las instalaciones de la Secretaría;
 
 VI. Difundir y coordinar la aplicación de los lineamientos y normatividad que en materia informática y de adquisición de bienes informáticos, hayan establecido las autoridades correspondientes;
 
@@ -501,7 +651,9 @@ IX. Fomentar el aprovechamiento racional de los recursos computacionales disponi
 
 X. Coordinar, controlar y llevar a cabo el mantenimiento preventivo y correctivo que requieran los equipos de cómputo de la Secretaría;
 
-XI. Planear, proponer y coordinar las modificaciones y ampliaciones que se requieran, en los equipos de cómputo y sus accesorios;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XI. Planear, proponer y coordinar las modificaciones y ampliaciones que se requieran, en los equipos de cómputo, sus periféricos y sus accesorios;
 
 XII. Coordinar, supervisar y controlar la adecuada aplicación de las medidas de seguridad para proteger el acceso a los equipos de cómputo, datos y sistemas de cada una de las Unidades Administrativas de la Secretaría;
 
@@ -511,7 +663,9 @@ XIV. Mantener y verificar el sistema de comunicaciones de la Secretaría, y vela
 
 XV. Establecer los lineamientos para el uso adecuado de las líneas de comunicación con que cuenta la Secretaría;
 
-XVI. Opinar e intervenir en las adquisiciones de equipos de comunicación y cómputo que adquiera la Secretaría, así como garantizar y sustentar la asignación adecuada, de conformidad con los requerimientos y el inventario del equipo de cómputo que se realice; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+XVI. Opinar e intervenir en las adquisiciones de equipos de comunicación, cómputo y periféricos que adquiera la Secretaría, así como garantizar y sustentar la asignación adecuada, de conformidad con los requerimientos y el inventario del equipo que se realice; y
 
 XVII. Las demás que le otorguen otras disposiciones o le asigne el Secretario.
 
@@ -527,7 +681,9 @@ III. Establecer, supervisar, autorizar los canales y sistemas de comunicación p
 
 IV. Evaluar y analizar la información del sector Agropecuario y su reflejo en la calidad de la imagen de la Secretaria;
 
-V. Gestionar, promover y regular la transmisión por radio, televisión y medios alternativos de materiales informativos y de difusión de la Secretaria, así como el apoyo a entidades paraestatales del sector Agropecuario, Agro empresarial (sic) y de Desarrollo Rural que así lo requieran;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2016)</small>
+
+V. Gestionar y promover la transmisión por radio, televisión y medios alternativos de materiales informativos y de difusión de la Secretaría, así como el apoyo a entidades paraestatales del sector Agropecuario, Agroempresarial y de Desarrollo Rural que así lo requieran;
 
 VI. Proponer y aplicar los programas de comunicación social de la Secretaria, de conformidad con las políticas y lineamientos que establezca (sic) las leyes y políticas gubernamentales aplicables a la materia;
 
@@ -578,3 +734,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCALIENTES.
 Lic. Antonio Javier Aguilera García.
 
 JEFE DE GABINETE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL Y AGROEMPRESARIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
