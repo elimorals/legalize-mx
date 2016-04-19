@@ -4,7 +4,7 @@ identifier: "BCS-codigo-procesal-penal-para-el-estado-de-baja-california-sur-941
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-07"
-last_updated: "2014-06-27"
+last_updated: "2016-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 CÓDIGO PROCESAL PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 2176 POR EL QUE SE EMITEN LAS DECLARATORIAS DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PUBLICADAS EN EL B.O. DE 27 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 2176 Y 2338 POR EL QUE SE EMITEN LAS DECLARATORIAS DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PUBLICADAS EN EL B.O. DE 27 DE JUNIO DE 2014 Y REFORMA MEDIANTE DECRETO 2338 PUBLICADO EN EL B.O. DE 19 DE ABRIL DE 2016 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2016 (ABROGADO).
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 7 de mayo de 2013.
 
@@ -3927,7 +3927,7 @@ I. Los registro (sic) de la prueba anticipada;
 
 II. La prueba documental autenticada; y
 
-III. Registros o dictámenes que las partes hayan acordado incorporar a juicio; (sic)
+III. Registros o dictámenes que las partes hayan acordado incorporar a juicio;
 
 ###### Artículo 373.
 
@@ -5679,7 +5679,7 @@ III. La audiencia del juicio oral hubiere tenido lugar en ausencia de alguna de 
 
 IV. Se hubiere violado el derecho de defensa o el de contradicción;
 
-V. En el juicio oral hubieren sido violadas las disposiciones establecidas por la ley sobre publicidad, oralidad y concentración del juicio, siempre que se hubieren vulnerado derechos de las partes; y (sic)
+V. En el juicio oral hubieren sido violadas las disposiciones establecidas por la ley sobre publicidad, oralidad y concentración del juicio, siempre que se hubieren vulnerado derechos de las partes; y
 
 VI. Falte, sea insuficiente o contradictoria la fundamentación o motivación de la sentencia;
 
@@ -5898,3 +5898,13 @@ Cuarto.- Las leyes reglamentarias así como las diversas leyes del Estado de Baj
 Quinto.- Se derogan las disposiciones que contravengan este Decreto.
 
 Sexto.- Remítase una copia de este Instrumento Legislativo para su conocimiento a las Legislaturas de las Entidades Federativas, así como al H. Congreso de la Unión.
+
+B.O. 19 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2338 QUE MODIFICA LA DECLARATORIA DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Artículo primero.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo Tercero.- Remítase una copia de este Instrumento Legislativo, para su conocimiento, a las legislaturas de las entidades federativas, así como al H. Congreso de la Unión.
