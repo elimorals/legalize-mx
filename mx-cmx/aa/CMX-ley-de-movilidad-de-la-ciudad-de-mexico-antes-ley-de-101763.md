@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2014-11-28"
+last_updated: "2016-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ABRIL DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -48,7 +48,7 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL.
 
 Se expide la Ley de Movilidad del Distrito Federal, para quedar como sigue:
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
@@ -650,7 +650,13 @@ IV. Comisión de Clasificación de Vialidades;
 
 V. Comité de Promoción para el Financiamiento del Transporte Público; y
 
-VI. Fondo Público de Movilidad y Seguridad Vial.
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+VI. Fondo Público de Movilidad Seguridad Vial y;
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+VII. Fondo Público de Atención al Ciclista y al Peatón.
 
 Podrán ser órganos auxiliares de consulta en todo lo relativo a la aplicación del presente ordenamiento, los demás Comités y subcomités en los que participa la Secretaría, las instituciones de educación superior y demás institutos, asociaciones u organizaciones especializadas en las materias contenidas en esta Ley.
 
@@ -756,13 +762,17 @@ V. La Contraloría General; y
 
 VI. La Comisión Metropolitana de la materia.
 
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2016)</small>
+
 ###### Artículo 32.
 
-El Fondo Público de Movilidad y Seguridad Vial, tendrá por objeto captar, administrar y aportar recursos que contribuyan a mejorar las condiciones de la infraestructura, seguridad vial y acciones de cultura en materia de movilidad y su integración será de acuerdo al Decreto de su creación.
+El Fondo Público de Movilidad y Seguridad Vial, tendrá por objeto captar, administrar y aportar recursos que contribuyan a mejorar las condiciones de la infraestructura, seguridad vial y acciones de cultura en materia de movilidad para toda la población y su integración será de acuerdo al Decreto de su creación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2016)</small>
 
 ###### Artículo 33.
 
-Los recursos del Fondo estarán integrados por:
+Los recursos del Fondo Público de Movilidad y Seguridad Vial estarán integrados por:
 
 I. Los recursos destinados para ese efecto en el Presupuesto de Egresos del Distrito Federal;
 
@@ -772,7 +782,11 @@ III. Los relativos al pago de derechos correspondientes a la resolución adminis
 
 IV. Las herencias, legados y donaciones que reciba; y
 
-V. Los demás recursos que se generen por cualquier otro concepto.
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+V. Los provenientes de Fideicomisos
+
+VI. Los demás recursos que se generen por cualquier otro concepto.
 
 ###### Artículo 34.
 
@@ -795,6 +809,32 @@ VII. Desarrollar acciones para reducir hechos de tránsito en los puntos conflic
 VIII. Fomentar el desarrollo urbano orientado al transporte público y la distribución eficiente de bienes y mercancías; y
 
 IX. Desarrollar acciones vinculadas con inspección y vigilancia en las materias a que se refiere esta Ley y a los Programas Integrales de Movilidad y Seguridad Vial.
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+X. Desarrollar acciones que protejan a los peatones y a los ciclistas.
+
+> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2016)</small>
+
+###### Artículo 34 Bis.
+
+Los recursos del Fondo Público de Atención al Ciclista y al Peatón, estarán integrados por:
+
+I. Los recursos destinados para ese efecto en el Presupuesto de Egresos del Distrito Federal;
+
+II. Los productos de sus operaciones y de la inversión de fondos;
+
+III. Los demás recursos que se generen por cualquier otro concepto.
+
+> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2016)</small>
+
+###### Artículo 34 Ter.
+
+Son funciones del Fondo Público de Atención al Ciclista y al Peatón:
+
+I. Implementar mejoras a la infraestructura para la movilidad no motorizada y peatonal;
+
+II. Desarrollar acciones para reducir los accidentes a peatones y ciclistas.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN Y LA POLÍTICA DE MOVILIDAD
 
@@ -1196,7 +1236,7 @@ IV. Por tres años cuando el titular sea sancionado por segunda ocasión en un p
 
 El titular de la licencia o permiso cancelado, quedará impedido para conducir vehículos motorizados en el territorio del Distrito Federal con licencia o permiso para conducir expedido en otra entidad federativa o país.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1580,7 +1620,7 @@ X. Cumplir con las disposiciones jurídicas y administrativas aplicables en mate
 
 XI. Vigilar que los conductores de sus vehículos, cuenten con la licencia exigida por las disposiciones jurídicas y administrativas aplicables para operar unidades de transporte público y con los requisitos y documentos necesarios para desempeñar esta actividad; e informar por escrito a la Secretaría los datos de identificación y localización de sus conductores;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2636,7 +2676,7 @@ La inspección y verificación en las vías federales ubicadas dentro del territ
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2650,67 +2690,67 @@ Para el caso de propietario del vehículo particular tendrá cuarenta y cinco d�
 
 Las infracciones por la violación a los preceptos de esta Ley, a la concesión o permiso otorgado, cometidas por los concesionarios, permisionarios, operadores, conductores, empleados o personas relacionados directamente con la prestación del servicio de transporte, se sancionarán conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 I. Prestar el servicio de transporte público, sin contar con la concesión o permiso correspondiente, se sancionará con multa de trescientos cincuenta a cuatrocientos cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, tratándose de transporte individual de pasajeros y con multa de quinientos a seiscientos ochenta veces la Unidad de Cuenta de la Ciudad de México vigente, cuando se aplique a transporte colectivo de pasajeros y transporte de carga;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 II. Cuando se compruebe fehacientemente el cobro de tarifas distintas a las autorizadas por la Secretaría para el servicio de transporte público de pasajeros, se sancionará con multa de cuarenta a sesenta veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 III. A quien en la prestación del servicio de transporte público de pasajeros, modifique o altere los itinerarios o rutas, horarios, equipos para determinar la tarifa o las condiciones de prestación del servicio en los términos de esta Ley, de la propia concesión y de las demás disposiciones jurídicas y administrativas aplicables, se sancionará con multa de cuarenta a sesenta veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 IV. Negar la prestación del servicio de transporte público a cualquier usuario sin causa justificada, así como los actos de maltrato que se reciban de quien brinde dicho servicio, se sancionará con multa (sic) ochenta a cien veces la Unidad de Cuenta de la Ciudad de México vigente tratándose de servicio de pasajeros y de sesenta a ochenta veces la Unidad de Cuenta de la Ciudad de México vigente, tratándose de servicio de carga;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 V. Negar, impedir u obstaculizar el uso del servicio de transporte a las personas con discapacidad, se sancionará con multa equivalente de ciento sesenta a doscientos veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VI. Transportar materiales, sustancias o residuos peligrosos sin contar con los permisos correspondientes, se sancionará con multa de quinientos a mil veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VII. Realizar servicios de transporte privado o mercantil de pasajeros o de carga, sin contar con el permiso correspondiente, se impondrá multa deciento (sic) sesenta a doscientos veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 VIII. Conducir una unidad afecta a concesión o permiso sin contar con licencia para conducir o se encuentre vencida, se sancionará al propietario y al conductor de la unidad, con multa de ochenta a cien veces la Unidad de Cuenta de la Ciudad de México vigente, tratándose de unidades de pasajeros y de sesenta a ochenta veces la Unidad de Cuenta de la Ciudad de México vigente, en el caso de unidades de carga, así mismo se retirarán las unidades de la circulación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 IX. Conducir las unidades bajo los efectos del alcohol, drogas, enervante s o cualquier otra sustancia tóxica, se impondrá multa de trescientos cincuenta a cuatrocientos cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, en el caso de unidades de servicio de pasajeros y de doscientos cincuenta a trescientos cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente, en el caso de servicio de carga, sin perjuicio de la detención de la unidad y las demás responsabilidades en que se pueda incurrir;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 X. Cuando no se respete con las unidades, el derecho para el paso de peatones en la vía de circulación o invadan los (sic) vías peatones y ciclistas, se impondrá multa de sesenta a ochenta veces la Unidad de Cuenta de la Ciudad de México vigente, tratándose de servicio de pasajeros y de cuarenta a sesenta veces la Unidad de Cuenta de la Ciudad de México vigente, tratándose de servicio de carga;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2718,49 +2758,49 @@ XI. A los concesionarios o permisionarios que se nieguen a proporcionar la docum
 
 XII. Los concesionarios o permisionarios que no cuenten con póliza de seguro vigente que garantice los daños y perjuicios contra usuarios, peatones o terceros, se les sancionará con la cancelación definitiva de la concesión o permiso correspondiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XIII. A los concesionarios o permisionarios que no porten en sus unidades la póliza de seguro vigente, para indemnizar los daños que con motivo de la prestación del servicio, se causen a los usuarios, peatones o terceros se les sancionará con multa de sesenta a ochenta veces la Unidad de Cuenta de la Ciudad de México vigente, tratándose de servicio de pasajeros y de cuarenta a sesenta veces la Unidad de Cuenta de la Ciudad de México vigente, en el caso de servicio de carga;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XIV. Al concesionario que altere la forma, diseño, estructura y construcción original de la unidad sin aprobación de la Secretaría, se sancionará con multa de cien a doscientos veces la Unidad de Cuenta de la Ciudad de México vigente, tratándose de servicio de pasajeros y de ochenta a cien veces la Unidad de Cuenta de la Ciudad de México vigente, en el caso de servicio de carga;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XV. A los prestadores del servicio de transporte de pasajeros o de carga que hagan base en lugares prohibidos o no destinados para ello, se les impondrá una multa de cien a doscientos veces la Unidad de Cuenta de la Ciudad de México vigente, dependiendo de las particularidades que se establezcan en el Reglamento de Tránsito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XVI. A los prestadores del servicio de transporte de pasajeros o de carga que realicen maniobras de ascenso y/o descenso de personas, así como también, carga y/o descarga en lugares inseguros y no destinados para tal fin, se les impondrá una multa de cien a doscientos veces la Unidad de Cuenta de la Ciudad de México vigente, dependiendo de las particularidades que se establezcan en el Reglamento de Tránsito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XVII. A las personas que incorporen elementos a la vialidad, sin autorización de la Administración Pública, se le impondrá una multa de treinta a cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente y el retiro de los mismos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XVIII. Las personas que no retiren los elementos incorporados a la vialidad en el plazo otorgado por la Administración Pública, se les impondrá una multa de dieciséis a treinta veces la Unidad de Cuenta de la Ciudad de México vigente y el pago de los gastos de ejecución;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XIX. Las personas que utilicen inadecuadamente, obstruyan, limiten, dañen, deterioren o destruyan la nomenclatura o señalización vial, se les impondrá una multa de treinta a cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2824,13 +2864,13 @@ En contra de los actos o resoluciones que dicten o ejecuten las autoridades de l
 
 Comete el delito de transportación ilegal de pasajeros o de carga, el que sin contar con la concesión o permiso expedidos (sic) por la Secretaría para tales efectos, preste el servicio público, privado o mercantil de transporte de pasajeros o de carga en el Distrito Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 A quien cometa el delito de transporte ilegal de pasajeros o de carga, se impondrá de tres meses a dos años de pena privativa de libertad y una multa de cuatrocientos ochenta a quinientos veces la Unidad de Cuenta de la Ciudad de México vigente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2838,7 +2878,7 @@ A quien cometa el delito de transporte ilegal de pasajeros o de carga, se impond
 
 Se sancionará con pena privativa de libertad de dos a cuatro años y multa de quinientos a setecientos veces la Unidad de Cuenta de la Ciudad de México vigente, a quien sin estar legalmente autorizado realice servicios de gestoría ante la Secretaría; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2896,7 +2936,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los ocho días del mes de julio del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LIC. HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO.- SIMÓN NEUMANN LADENZON.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO.- SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE.- TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS.- ALFREDO HERNÁNDEZ GARCÍA.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL.- ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD.- RUFINO H. LEÓN TOVAR.- FIRMA.- EL SECRETARIO DE TURISMO.- MIGUEL TORRUCO MÁRQUES.- FIRMA.- EL SECRETARIO DE CULTURA.- EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA.- JESÚS RODRÍGUEZ ALMEIDA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL.- FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO.-DORA PATRICIA MERCADO CASTRO.- FIRMA.- LA SECRETARIA DE EDUCACIÓN.- MARA NADIEZHDA ROBLES VILLASEÑOR.- FIRMA.- EL SECRETARIO DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES.- HEGEL CORTÉS MIRANDA.- FIRMA.- EL SECRETARIO DE FINANZAS.- ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD.- JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN.- RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 28 DE NOVIEMBRE DE 2014.
 
@@ -2907,3 +2947,15 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 19 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- En el Presupuesto de Egresos para el Distrito Federal ejercicio 2016, deberán aprobarse recursos presupuestales suficientes para la aplicación del presente Decreto.
+
+CUARTO.- El Fondo Público de Atención al Ciclista y al Peatón, deberá ser instalado dentro de los noventa días naturales siguientes a la publicación del presente Decreto, de conformidad con las reglas generales que emita la Secretaría de Movilidad.
