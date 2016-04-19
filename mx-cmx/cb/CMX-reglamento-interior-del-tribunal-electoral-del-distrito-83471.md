@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2014-11-27"
+last_updated: "2016-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ABRIL DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -52,7 +52,13 @@ a) Código: El Código de Instituciones y Procedimientos Electorales del Distrit
 
 b) Ley Procesal Electoral: La Ley Procesal Electoral para el Distrito Federal, y
 
-c) Reglamento: El Reglamento Interior del Tribunal Electoral del Distrito Federal.
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2016)</small>
+
+c) Lineamientos: Lineamientos para la Presentación y Registro de Declaraciones de Situación Patrimonial de las Personas Obligadas del Tribunal Electoral del Distrito Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE ABRIL DE 2016)</small>
+
+d) Reglamento: El Reglamento Interior del Tribunal Electoral del Distrito Federal.
 
 II. En lo que se refiere a las autoridades:
 
@@ -992,7 +998,9 @@ IX. Supervisar la tramitación y emitir la resolución en los recursos de revoca
 
 X. Expedir constancias de la inexistencia de registro de sanción administrativa en el Tribunal, a quien lo soliciten;
 
-XI. Coordinar y vigilar que las personas servidoras públicas del Tribunal, presenten, sus declaraciones de situación patrimonial, asimismo, llevar el registro y resguardo respectivo, en términos de la normatividad aplicable;
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+XI.- Coordinar y vigilar que las personas obligadas del Tribunal, presenten sus declaraciones de situación patrimonial, asimismo, administrar el Sistema Declara TEDF para llevar el registro y resguardo respectivo de las Declaraciones de Situación Patrimonial, en términos de la normatividad aplicable,
 
 XII. Participar en las sesiones de los comités y subcomités, así como en las reuniones de trabajo, en el ámbito de sus atribuciones y, en su caso, designar a sus representantes quienes asistirán y participarán en términos de la normatividad aplicable;
 
@@ -1050,7 +1058,9 @@ VII. Coadyuvar con la o el titular de la Contraloría para tramitar, sustanciar 
 
 VIII. Requerir a las personas servidoras públicas del Tribunal, su declaración de situación patrimonial; integrar el registro correspondiente y proponer los mecanismos necesarios para difundir el cumplimiento de dicha obligación;
 
-IX. Coordinar la recepción de las declaraciones de situación patrimonial, su registro, y resguardo. En su caso, proponer las acciones legales que correspondan;
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+IX.- Coordinar la recepción de las declaraciones de situación patrimonial, su registro, y resguardo mediante el Sistema Declara TEDF. En su caso, proponer las acciones legales que correspondan;
 
 X. Requerir fundada y motivadamente a las y los titulares de los órganos y áreas del Tribunal y a las personas servidoras públicas del mismo, así como a las y los proveedores, contratistas, y a las y los prestadores de servicios, el apoyo, información y documentación necesaria para el debido cumplimiento de sus funciones;
 
@@ -1570,13 +1580,19 @@ La Contraloría expedirá constancias a las personas servidoras públicas que lo
 
 La persona servidora pública afectada por las resoluciones de la Contraloría, podrá a su elección, interponer el recurso de revocación ante la propia Contraloría, en los términos previstos en la ley de la materia, o bien, impugnar dichos actos o resoluciones mediante el juicio de inconformidad administrativa que se contempla en los artículos 146 a 190 de la Ley Procesal Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2016)</small>
+
 ###### Artículo 77.
 
-La Contraloría llevará el registro y resguardo de las Declaraciones de Situación Patrimonial de las personas servidoras públicas del Tribunal, que se encuentren obligadas a presentarlas.
+La Contraloría administrará el Sistema Declara TEDF y llevará el registro y resguardo de las Declaraciones de Situación Patrimonial de las personas obligadas del Tribunal, que se encuentren obligadas a presentarlas.
 
 > <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
 
 Tienen la obligación de presentar Declaración de Situación Patrimonial: Magistrados/as, Secretario/a General, Secretario/a Administrativo/a, Director/a General Jurídico/a, Contralor/a General, Coordinadores/as, Director/a del Centro de Capacitación, Directores/as de Unidad, Secretarios/as de Estudio y Cuenta, Directores/as de Área, Secretarios/as Auxiliares, Subdirectores/as, Investigadores/as, Jefes/as de Departamento, Coordinadores/as de Gestión, Asesores/as y todas aquellas personas servidoras públicas del Tribunal cuyos ingresos sean homólogos o superiores a los anteriores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE ABRIL DE 2016)</small>
+
+La Declaración de Situación Patrimonial deberá presentarse mediante el Sistema Declara TEDF atendiendo lo establecido en los Lineamientos.
 
 ## TÍTULO CUARTO. DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
@@ -1925,3 +1941,11 @@ G.O. 27 DE NOVIEMBRE DE 2014.
 PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 19 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA A LOS ARTÍCULOS 2, 47, 50 Y 77 DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL APROBADA POR EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL".]
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta Oficial de la Ciudad de México, así como en los estrados y en el sitio de Internet del Tribunal.
