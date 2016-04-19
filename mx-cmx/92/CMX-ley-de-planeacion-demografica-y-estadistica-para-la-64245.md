@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-planeacion-demografica-y-estadistica-para-la-64245"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-10"
-last_updated: "2012-01-04"
+last_updated: "2016-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-11-05"
 
 LEY DE PLANEACIÓN DEMOGRÁFICA Y ESTADÍSTICA PARA LA POBLACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ABRIL DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 10 de noviembre de 2008.
 
@@ -364,9 +364,9 @@ OBJETIVO Y ATRIBUCIONES DEL CONSEJO
 
 Se crea el Consejo de Población del Distrito Federal como un órgano desconcentrado de la Secretaría de Gobierno, que tiene a su cargo la instrumentación de las políticas de población a través de la planeación demográfica, con el objeto de incluir a la población dentro de los programas generales de desarrollo económico y social.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 19 DE ABRIL DE 2016)</small>
 
-El Consejo tendrá un Director Ejecutivo y la Estructura que determine el Presupuesto de Egresos del Distrito Federal.
+El Consejo tendrá un Director Ejecutivo y un presupuesto específico asignado por la Asamblea Legislativa a través del Presupuesto de Egresos del Distrito Federal, el cual no podrá ser inferior, en términos reales, al del año fiscal anterior.
 
 El Ejecutivo Local, aplicará la presente ley por conducto del Consejo, quien será responsable por conducto de la Secretaría de ejecutar las disposiciones de este ordenamiento sin perjuicio de la intervención que se atribuya a otras Dependencias y Entidades, tanto locales como federales, en el ámbito de sus respectivas competencias.
 
@@ -402,7 +402,17 @@ X.- Evaluar los programas que lleven a cabo las diferentes dependencias y entida
 
 XI.- Emitir opinión acerca de acciones o proyectos de población que operen o pretendan operar en el Distrito Federal, a efecto de que se ajusten a los lineamientos de esta Ley;
 
-XII.- Las demás relacionadas con su objeto y las que le encomiende el Ejecutivo Local.
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+XII. Elaborar estudios y planes demográficos específicos sobre la población joven del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+XIII. Elaborar la Estrategia de Prevención de Embarazo Adolescente de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+XIV. Las demás relacionadas con su objeto y las que le encomiende el Ejecutivo Local.
 
 ###### ARTÍCULO 32
 
@@ -478,9 +488,21 @@ VI. El Secretario de Desarrollo Social;
 
 VII. El Secretario de Salud; y
 
-> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2016)</small>
 
-VIII. Un Diputado Integrante de la Comisión de Población y Desarrollo de la Asamblea Legislativa del Distrito Federal.
+VIII. Un Diputado de la Asamblea Legislativa del Distrito Federal propuesto por la Comisión de Gobierno;
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+IX. El Instituto de la Juventud del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+X. El Instituto para la Atención de los Adultos Mayores del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+XI. El Instituto de las Mujeres de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -650,9 +672,17 @@ I.- Realizar acciones de salud con el propósito de impulsar y promover la mater
 
 II.- Fomentar la capacitación al personal a su cargo y elaborar material de apoyo, sobre temas de salud;
 
-III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2016)</small>
 
-IV.- Fortalecer los objetivos institucionales del Consejo en lo referente a los derechohabientes y población abierta para impulsar una auténtica cultura de salud que propicie el desarrollo.
+III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone; y
+
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+IV.- Fortalecer los objetivos institucionales del Consejo en lo referente a los derechohabientes y población abierta para impulsar una auténtica cultura de salud que propicie el desarrollo; y
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+V.- Coadyuvar con el Consejo para la elaboración estudios y planes demográficos específicos sobre la población joven del Distrito Federal, así como para elaborar la Estrategia de Prevención de Embarazo Adolescente de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE ENERO DE 2012)</small>
 
@@ -843,3 +873,15 @@ CUARTO.- La organización, instalación, estructura y funcionamiento de las Comi
 QUINTO.- En un plazo no mayor de noventa días, a partir de la entrada en vigor de esta Ley, el Titular del Ejecutivo del Distrito Federal expedirá el Reglamento respectivo.
 
 SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor circulación en el Diario Oficial de la Federación.
+
+G.O. 19 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LAS PERSONAS JÓVENES DE LA CIUDAD DE MÉXICO Y DE LA LEY DE PLANEACIÓN DEMOGRÁFICA Y ESTADÍSTICA PARA LA POBLACIÓN DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+CUARTO.- Se derogan todas las disposiciones contrarias a este Decreto.
