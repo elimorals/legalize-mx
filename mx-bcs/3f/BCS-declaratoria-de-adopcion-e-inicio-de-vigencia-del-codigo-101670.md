@@ -4,7 +4,7 @@ identifier: "BCS-declaratoria-de-adopcion-e-inicio-de-vigencia-del-codigo-101670
 country: "mx"
 rank: "otro"
 publication_date: "2014-06-27"
-last_updated: "2014-06-27"
+last_updated: "2016-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 DECLARATORIA DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE ABRIL DE 2016.
 
 Declaratoria publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 27 de junio de 2014.
 
@@ -39,21 +39,29 @@ DECRETA:
 
 SE EMITEN LAS DECLARATORIAS DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
 
-PRIMERO. DECLARATORIA DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.- Se declara la adopción e inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado Libre y Soberano de Baja California Sur, en los ámbitos de validez territorial y temporal, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE ABRIL DE 2016)</small>
+
+PRIMERO. DECLARATORIA DE ADOPCION E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.- Se declara la adopción e inicio de vigencia del Código Nacional de Procedimientos Penales en el Estado Libre y Soberano de Baja California Sur, en los ámbitos de validez territorial y temporal, conforme a lo siguiente:
 
 a) En el Partido Judicial de Comondú, Baja California Sur, entrará en vigor a las cero horas del primero de julio de dos mil quince.
 
 b) En el Partido Judicial de La Paz, Baja California Sur, entrará en vigor a las cero horas del primero de enero de dos mil dieciséis.
 
-c) En los Partidos Judiciales de Loreto, Mulegé y Los Cabos, Baja California Sur, entrará en vigor a las cero horas del primero de junio de dos mil dieciséis.
+> <small>(REFORMADO, B.O. 19 DE ABRIL DE 2016)</small>
 
-SEGUNDO. DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.- Se declara la incorporación al orden jurídico del Estado Libre y Soberano de Baja California Sur del Sistema Constitucional de Justicia Penal Acusatorio y Oral a que refiere el Decreto publicado en el Diario Oficial de la Federación el 18 de junio de 2008, por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21 y 22; las fracciones XXI y XXIII del artículo 73; la fracción VII del artículo 115 y la fracción XIII del apartado B del artículo 123, todos de la Constitución Política de los Estados Unidos Mexicanos; adoptándolo en los ámbitos de validez territorial y temporal, conforme a la gradualidad siguiente:
+c) En los Partidos Judiciales de Los Cabos, Loreto y Mulegé, Baja California Sur, entrarán en vigor a las cero horas del diecisiete de junio de dos mil dieciséis.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE ABRIL DE 2016)</small>
+
+SEGUNDO. DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.- Se declara la incorporación al orden jurídico del Estado Libre y Soberano de Baja California Sur del Sistema Constitucional de Justicia Penal Acusatorio y Oral a que refiere el Decreto publicado en el diario Oficial de la Federación el 18 de junio de 2008, por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21 y 22; de las fracciones XXI y XXIII del artículo 73; la fracción VII del artículo 115 y la fracción XIII del apartado B del artículo 123, todos de la Constitución Política de los Estados Unidos Mexicanos; adoptándolo en los ámbitos de validez territorial y temporal, conforme a la gradualidad siguiente:
 
 a) En el Partido Judicial de Comondú, Baja California Sur, entrará en vigor a las cero horas del primero de julio de dos mil quince.
 
 b) En el Partido Judicial de La Paz, Baja California Sur, entrará en vigor a las cero horas del primero de enero de dos mil dieciséis.
 
-c) En los Partidos Judiciales de Loreto, Mulegé y Los Cabos, Baja California Sur, entrará en vigor a las cero horas del primero de junio de dos mil dieciséis.
+> <small>(REFORMADO, B.O. 19 DE ABRIL DE 2016)</small>
+
+c) En los Partidos Judiciales de Los Cabos, Loreto y Mulegé, Baja California Sur, entrarán en vigor a las cero horas del diecisiete de junio de dos mil dieciséis.
 
 TERCERO. PUBLICIDAD DE GARANTÍAS CONSTITUCIONALES.- Las garantías consagradas por la reforma Constitucional publicada en el Diario Oficial de la Federación el 18 de junio de 2008, mediante el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21 y 22; las fracciones XXI y XXIII del artículo 73; la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123, todos de la Constitución Política de los Estados Unidos Mexicanos, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales que a partir de la entrada en vigor del Código Nacional de Procedimientos Penales ocurran en el ámbito territorial y temporal establecidos en cada uno de los Partidos Judiciales.
 
@@ -92,3 +100,15 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 19 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2338 QUE MODIFICA LA DECLARATORIA DE ADOPCIÓN E INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Artículo primero.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo Tercero.- Remítase una copia de este Instrumento Legislativo, para su conocimiento, a las legislaturas de las entidades federativas, así como al H. Congreso de la Unión.
