@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2015-08-13"
+last_updated: "2016-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ABRIL DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -914,6 +914,10 @@ XXIV. El Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos
 
 XXV. La Escuela de Administración Pública del Distrito Federal.
 
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2016)</small>
+
+XXVI. El Consejo de Población del Distrito Federal.
+
 ###### Artículo 101.
 
 En materia de juventud, la Jefatura de Gobierno del Distrito Federal tiene las siguientes atribuciones:
@@ -1323,6 +1327,18 @@ III. Generar nuevo conocimiento sobre temas y problemas que conciernan al presen
 IV. Proporcionar asesoría a la Administración Pública, y en general, a personas físicas, morales o jurídicas sobre asuntos de la Ciudad de México, en un marco de corresponsabilidad para la solución de problemáticas públicas en materia de juventud, en los términos de la legislación aplicable; y
 
 V. Las demás que prevea esta Ley, y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 19 DE ABRIL DE 2016)</small>
+
+###### Artículo 125 Bis.
+
+El Consejo de Población del Distrito Federal tiene las atribuciones siguientes:
+
+I. Elaborar estudios y planes demográficos específicos sobre la población joven del Distrito Federal;
+
+II. Elaborar la Estrategia de Prevención de Embarazo Adolescente de la Ciudad de México; y
+
+III. Las demás que prevea esta ley y demás ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO II. ATRIBUCIONES DEL ÓRGANO JURISDICCIONAL
 
@@ -1843,3 +1859,17 @@ SEXTO.- Para los casos en que el cumplimiento de esta norma implique la generaci
 Recinto de la Asamblea Legislativa del Distrito Federal, a los nueve días del mes de julio del año dos mil quince.-POR LA MESA DIRECTIVA.- DIP. EFRAIN MORALES LÓPEZ, PRESIDENTE.- DIP. ALEJANDRO RAFAEL PIÑA MEDINA, SECRETARIO.- DIP. SAMUEL RODRÍGUEZ TORRES, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los trece días del mes de agosto del año dos mil quince.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTÉS, FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜÍ RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE TURISMO, MIGUEL TORRUCO MÁRQUES.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARÍA ALEJANDRA BARRALES MAGDALENO.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 19 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DE LA CIUDAD DE MÉXICO Y DE LA LEY DE PLANEACIÓN DEMOGRÁFICA Y ESTADÍSTICA PARA LA POBLACIÓN DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+CUARTO.- Se derogan todas las disposiciones contrarias a este Decreto.
