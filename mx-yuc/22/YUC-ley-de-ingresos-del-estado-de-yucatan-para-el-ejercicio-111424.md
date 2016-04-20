@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-111424"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-24"
-last_updated: "2015-12-24"
+last_updated: "2016-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2016
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2016.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ABRIL DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 24 de diciembre de 2015.
 
@@ -61,11 +59,15 @@ Los ingresos que el estado de Yucatán percibirá durante el ejercicio fiscal 20
 
 > <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 24 DE DICIEMBRE DE 2015, PAGINAS DE LA 6 A LA 12.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN D.O. DE 20 DE ABRIL DE 2016, PÁGINA 24.]</small>
+
 ###### Artículo 3.
 
 Empréstitos y operaciones de financiamiento público
 
-El Poder Ejecutivo del estado, por conducto de la Secretaría de Administración y Finanzas, contratará y ejercerá empréstitos y otras operaciones de financiamiento público, en términos de la Ley de Deuda Pública del Estado de Yucatán, y para el financiamiento del Presupuesto de Egresos del Estado de Yucatán para el Ejercicio Fiscal 2016, hasta por un monto de $580,322,976.00.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
+
+El Poder Ejecutivo del estado, por conducto de la Secretaría de Administración y Finanzas, contratará y ejercerá empréstitos y otras operaciones de financiamiento público, en términos de la Ley de Deuda Pública del Estado de Yucatán, y para el financiamiento del Presupuesto de Egresos del Estado de Yucatán para el Ejercicio Fiscal 2016, hasta por un monto de $2,080,322,976.00.
 
 Se autoriza al Poder Ejecutivo del estado para que, por conducto de la Secretaría de Administración y Finanzas, ejerza el monto de endeudamiento autorizado en el párrafo anterior mediante la contratación y ejercicio de uno o varios financiamientos con instituciones de crédito mexicanas. En todo caso, los financiamientos autorizados podrán contratarse hasta por un plazo de veinte años.
 
@@ -254,3 +256,35 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 20 DE ABRIL DE 2016.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Adecuaciones presupuestales
+
+El Ejecutivo estatal, con base en esta autorización y a efecto de prever el monto o partidas para el servicio de la deuda que contraiga al contratar el financiamiento autorizado, deberá realizar las adecuaciones presupuestales y las relativas al ejercicio de los recursos derivados de financiamiento, de conformidad con las disposiciones establecidas en la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y su reglamento.
+
+Tercero. Informes trimestrales
+
+La Secretaría de Administración y Finanzas deberá incorporar a los informes trimestrales de las finanzas públicas, un apartado en el que se distinga el informe sobre la aplicación y destino de los recursos objeto de la autorización a que se refiere este decreto.
+
+Cuarto. Época de contratación
+
+El financiamiento que se autoriza a través del presente Decreto, deberá contratarse durante los 24 meses siguientes a su entrada en vigor.
+
+Quinto. Comité de seguimiento
+
+El Poder Ejecutivo conformará un comité, que tenga como objeto dar seguimiento a los informes del destino de los recursos autorizados en este decreto. Se convocará a participar a este comité entre otros, a los representantes de las principales las (sic) cámaras empresariales del estado.
+
+Este órgano deberá constituirse y sesionar máximo 30 días posteriores al ejercicio inicial de los recursos.
+
+El Comité deberá de aprobar su reglamento interno dentro de los 30 días siguientes a su instalación.
+
+Sexto. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
