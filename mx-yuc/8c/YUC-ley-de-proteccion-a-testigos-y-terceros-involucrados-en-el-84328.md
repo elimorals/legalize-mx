@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-a-testigos-y-terceros-involucrados-en-el-8432
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-04"
-last_updated: "2012-01-04"
+last_updated: "2016-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D. O. DE 20 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1 DE OCTUBRE DE 2016.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ABRIL DE 2016 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 4 de enero de 2012.
 
@@ -376,3 +378,25 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 20 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLACIÓN A LAS ÓRDENES Y MEDIDAS DE PROTECCIÓN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2016, previa su publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley de Protección a Testigos y Terceros Involucrados en el Proceso Penal para el Estado de Yucatán, publicada, mediante Decreto 490 del Poder Ejecutivo, en el diario oficial del estado, el 4 de enero de 2012.
+
+Tercero. Obligación
+
+El gobernador del estado deberá prever, en el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, las unidades administrativas responsables de ejercer las atribuciones previstas en esta ley para esta dependencia.
+
+Cuarto. Derogación tácita
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
