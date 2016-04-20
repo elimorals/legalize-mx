@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2015-06-12"
+last_updated: "2016-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ABRIL DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -107,9 +107,21 @@ IV.- El Gobierno del Estado, de manera preferente, promoverá y atenderá la edu
 
 V.- El servicio educativo estatal será suficiente para asegurar el acceso a la educación básica y media superior, y el egreso de las mismas a todos los habitantes de la entidad, por lo que deberá brindar la oportunidad efectiva de concluirla en alguna de las instituciones del sistema o a través de programas educativos dirigidos a niños, jóvenes o adultos que no la hubiesen terminado en forma regular;
 
-VI.- La educación que imparta, promueva y atienda el Estado se ofrecerá en el marco del federalismo, con la concurrencia prevista en la Constitución Política de los Estados Unidos Mexicanos y de acuerdo con la distribución de la función social educativa establecida en la Ley General de Educación y en la presente Ley, y
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-VII.- El ambiente educativo deberá ser propicio para la enseñanza y estar desprovisto de agentes y sustancias nocivas; para lo cual las autoridades educativas, podrán celebrar los convenios de colaboración necesarios con las autoridades competentes para realizar las acciones preventivas para lograr tal fin.
+VI.- La educación que imparta, promueva y atienda el Estado se ofrecerá en el marco del federalismo, con la concurrencia prevista en la Constitución Política de los Estados Unidos Mexicanos y de acuerdo con la distribución de la función social educativa establecida en la Ley General de Educación y en la presente Ley;
+
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+VII.- El ambiente educativo deberá ser propicio para la enseñanza y estar desprovisto de agentes y sustancias nocivas; para lo cual las autoridades educativas, podrán celebrar los convenios de colaboración necesarios con las autoridades competentes para realizar las acciones preventivas para lograr tal fin;
+
+> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+VIII.- La educación que imparta el estado promoverá la inclusión, como eje transversal, de la educación ambiental, entendida, en los términos de la Ley de Protección al Medio Ambiente del Estado de Yucatán, como el proceso tendiente a la formación de una conciencia crítica ante los problemas ambientales, en el que el individuo asimila los conceptos e interioriza las actitudes que le permitan evaluar las relaciones de interdependencia establecidas entre la sociedad y su medio natural, considerando el ámbito educativo formal e informal; y de la cultura ambiental que permita a la ciudadanía participar responsablemente en la atención y solución de los problemas ambientales, para contribuir al tránsito hacia el desarrollo sostenible en el estado, y
+
+> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+IX.- Fomentar la creación de Comités Escolares para promover la Educación Ambiental.
 
 > <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -197,13 +209,25 @@ XIII.- Fomentará la integración e interacción de los diferentes grupos que co
 
 XIV.- Procurará que los profesores y educandos, con el apoyo de los padres de familia, participen activamente en el desarrollo económico, social y cultural de sus comunidades;
 
-> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-XV.- Fomentará actitudes positivas hacia el trabajo productivo, el amor a la familia, el ahorro y el bienestar general, y
+XV.- Fomentará actitudes positivas hacia el trabajo productivo, el amor a la familia, el ahorro y el bienestar general;
 
-> <small>(ADICIONADA, D.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-XVI.- Los establecidos en el artículo 58 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+XVI.- Los establecidos en el artículo 58 de la Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+XVII.- Inculcará los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
+
+> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+XVIII.- Contribuir al desarrollo sostenible por medio de procesos de información, actualización, capacitación y profesionalización para llevar a cabo las acciones relativas a la protección al medio ambiente y la conservación y restauración de los recursos naturales, en forma individual y colectiva, y
+
+> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+XIX.- Generar una cultura ambiental a través del conocimiento, la ética y el desarrollo de competencias que posibiliten un aprendizaje sobre la realidad local y alcanzar una mejor comprensión de las causas, consecuencias y posibles soluciones de los problemas ambientales.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de los escolares y al tipo, nivel y modalidad de educación que a éstos se imparta.
 
@@ -579,6 +603,10 @@ En el desarrollo del proceso educativo, se asegurará al educando la protección
 
 Los planes y programas de estudios, al igual que las normas administrativas y cualquier otro elemento del sistema, se entenderán como medios para el desarrollo del educando y no como fines en sí mismos, por lo que su instrumentación deberá tener capacidad de adaptación para que el sistema siempre esté al servicio de las personas que lo integran.
 
+> <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
+
+De igual manera, la formación integral del educando se fundamentará en una educación basada en valores, en los principios de tolerancia, de igualdad de género, del cuidado y protección del medio ambiente, así como del aprovechamiento sustentable de los recursos naturales.
+
 ###### Artículo 33.
 
 El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores, y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia, agrupaciones sociales e instituciones públicas y privadas.
@@ -701,7 +729,9 @@ V.- Aporte, en lo relativo a contenidos y metodología, elementos de los que pue
 
 VI.- Fomente el amor y respeto a nuestra cultura, historia, ecosistema y patrimonios de la Entidad;
 
-VII.- Haga conciencia de la necesidad del aprovechamiento racional de los recursos naturales y de la protección del ambiente, y
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+VII.- Haga conciencia de la necesidad del aprovechamiento racional de los recursos naturales y de la protección del ambiente a través de la educación ambiental, basada en los principios de sostenibilidad, interdisciplinariedad, interculturalidad, responsabilidad, respeto por el medio ambiente y participación ciudadana, considerando las problemáticas ambientales actuales y futuras y las características regionales de la entidad, y
 
 VIII.- Preste especial atención a la formación fundamentada en valores tanto morales como cívicos de los educandos.
 
@@ -1489,7 +1519,9 @@ Aplicando los lineamientos establecidos en los artículos 12 fracción VI, 13 fr
 
 Las escuelas normales tendrán a su cargo la formación de profesores para la educación básica las que deberán estructurarse y funcionar de modo que apliquen los criterios que esta ley establece para alcanzar, mantener y elevar la calidad educativa. Para ello, la Secretaría de Educación:
 
-I.- Procurará una sólida preparación profesional en los estudiantes, buscando que adquieran amplios conocimientos científicos y pedagógicos;
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+I.- Procurará una sólida preparación profesional en los estudiantes, buscando que adquieran amplios conocimientos científicos, pedagógicos y de educación ambiental para la sostenibilidad;
 
 II.- Fomentará en ellos el conocimiento pleno de los principios filosóficos y sociales del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y la política educativa que de este precepto se deriva;
 
@@ -1497,9 +1529,17 @@ III.- Fomentará en los futuros docentes la vocación magisterial, así como el 
 
 IV.- Propiciará en los futuros profesores el desarrollo de las competencias adecuadas para planear y organizar la labor docente en congruencia con el enfoque pedagógico de los planes y programas vigentes;
 
-V.- Fomentará en ellos el conocimiento de las metodologías de la investigación educacional, con el fin de que incorporen a su práctica una actitud científica y de crecimiento continuo, y
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-VI.- Establecerá mecanismos de evaluación estandarizados para el mejoramiento de la calidad de la formación de los futuros docentes.
+V.- Fomentará en ellos el conocimiento de las metodologías de la investigación educacional, con el fin de que incorporen a su práctica una actitud científica y de crecimiento continuo;
+
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+VI.- Establecerá mecanismos de evaluación estandarizados para el mejoramiento de la calidad de la formación de los futuros docentes, y
+
+> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+
+VII.- Desarrollar en el futuro docente, una conciencia ecológica para que pueda orientar a las comunidades educativas en el mejoramiento y conservación del medio ambiente.
 
 ###### Artículo 79.
 
@@ -1968,3 +2008,11 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 20 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 376/2016 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN AMBIENTAL”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
