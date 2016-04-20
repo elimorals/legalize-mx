@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2014-06-28"
+last_updated: "2016-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ABRIL DE 2016.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -1525,13 +1525,13 @@ A quien cometa un delito en contra de algún servidor público, a los que hace r
 
 Los delitos a que se refiere este artículo siempre serán perseguidos de oficio.
 
-### CAPÍTULO VI. DEL QUEBRANTAMIENTO A LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO VI. VIOLACIÓN A LAS ÓRDENES Y MEDIDAS DE PROTECCIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
-ARTÍCULO 188 BIS. Se impondrá de seis meses a dos años de prisión a las personas que violen cualquiera de las órdenes de protección a que se refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán.
+ARTÍCULO 188 BIS. Se impondrá de seis meses a dos años de prisión a las personas que violen cualquiera de las órdenes de protección a que se refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán; o incumplan, divulguen o revelen información sobre las medidas de protección otorgadas conforme a la Ley para la Protección de las Personas que intervienen en el Proceso Penal del Estado de Yucatán, en perjuicio de la persona protegida.
 
 ###### ARTÍCULO 186.
 
@@ -1575,7 +1575,9 @@ Se aplicará igual sanción a la establecida en el párrafo primero del artícul
 
 Lo dispuesto en la fracción II del artículo 186 de este Código no comprende, a quienes no puedan ser compelidos legítimamente por las autoridades a revelar secreto que se le hubiere confiado en el ejercicio de su profesión, encargo o empleo público y además a los parientes del inculpado que se mencionan en el párrafo segundo de la fracción I del artículo 186, así como los que deban respeto, gratitud o tengan estrecha amistad con el propio inculpado aunque lo oculten o impidan que se averigüe el delito, siempre que no emplearen algún medio que por sí sea delictuoso.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 1 DE ABRIL DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
 
 ### CAPÍTULO I. DEL PELIGRO DE CONTAGIO
 
@@ -4071,7 +4073,7 @@ D.O. 7 DE AGOSTO DE 2009.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-D.O. 21 DE SEPTIEMBRE DE 2009
+D.O. 21 DE SEPTIEMBRE DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4180,3 +4182,23 @@ A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del T
 Décimo. Derogación tácita
 
 A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
+
+D.O. 20 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 375/2016 POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLACIÓN A LAS ÓRDENES Y MEDIDAS DE PROTECCIÓN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2016, previa su publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley de Protección a Testigos y Terceros Involucrados en el Proceso Penal para el Estado de Yucatán, publicada, mediante Decreto 490 del Poder Ejecutivo, en el diario oficial del estado, el 4 de enero de 2012.
+
+Tercero. Obligación
+
+El gobernador del estado deberá prever, en el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, las unidades administrativas responsables de ejercer las atribuciones previstas en esta ley para esta dependencia.
+
+Cuarto. Derogación tácita
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
