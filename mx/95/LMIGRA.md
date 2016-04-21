@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2014-10-30"
+last_updated: "2016-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -614,9 +614,17 @@ II. Que se encuentre bajo libertad caucional por vinculación a proceso;
 
 III. Que goce de libertad preparatoria o condicional, salvo con permiso de la autoridad competente;
 
-IV. Por razones de seguridad nacional, de conformidad con las disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2016)</small>
 
-V. Tratándose de niñas, niños y adolescentes sujetos a un procedimiento de restitución internacional, de conformidad con lo establecido en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano.
+IV. Por razones de seguridad nacional, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+V. Tratándose de niñas, niños y adolescentes sujetos a un procedimiento de restitución internacional, de conformidad con lo establecido en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, y
+
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+VI. Las personas que, en su carácter de deudoras alimentarias, dejen de cumplir con las obligaciones que impone la legislación civil en materia de alimentos por un período mayor de sesenta días, previa solicitud de la autoridad judicial competente, sin perjuicio de las excepciones previstas por la legislación civil aplicable, así como de aquellas conductas consideradas como delitos por las leyes penales correspondientes. Para efectos de esta fracción y tratándose de extranjeros, el Instituto definirá su situación migratoria y resolverá con base en lo que se establezca en otros ordenamientos y en el reglamento de esta Ley.
 
 El Instituto contará con los medios adecuados para verificar los supuestos anteriores, de conformidad con lo dispuesto en el Reglamento.
 
@@ -1616,8 +1624,6 @@ NOVENO. Los trámites migratorios que se encuentren en proceso o pendientes de r
 
 DÉCIMO. Los procedimientos penales iniciados antes de la entrada en vigor de la Ley de Migración, por el delito previsto en el artículo 138 de la Ley General de Población, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
-.
-
 TRANSITORIOS DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE POBLACIÓN, DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1655,3 +1661,9 @@ Segundo. Los asilados reconocidos anteriormente a la entrada en vigor del presen
 Tercero. La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
 
 Cuarto. Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia los artículos 35 Bis y 70 de la presente Ley.
+
+D.O.F. 21 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 48 DE LA LEY DE MIGRACIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
