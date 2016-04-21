@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-crea-el-consejo-estatal-de-armonizacion-contable-84347"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-17"
-last_updated: "2011-12-17"
+last_updated: "2016-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE PARA NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 17 de diciembre de 2011.
 
@@ -41,11 +41,15 @@ LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE PARA NAYARIT.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 1.
 
-El Consejo Estatal de Armonización Contable para Nayarit es el órgano de coordinación responsable de la armonización de la contabilidad gubernamental de los Poderes, Organismos Autónomos y Municipios del Estado, encargado de la difusión y aplicación de las normas contables y lineamientos emitidos por el Consejo Nacional de Armonización Contable, para transparentar y armonizar la información financiera pública.
+El Consejo Estatal de Armonización Contable para Nayarit es el órgano de coordinación responsable de la armonización de la contabilidad gubernamental de los Poderes Ejecutivo, Legislativo y Judicial del Estado, organismos autónomos, municipios del Estado, así como las entidades de la administración pública paraestatal estatal y municipal, encargado de la difusión y aplicación de las decisiones emitidas por el Consejo Nacional de Armonización Contable, de conformidad con lo dispuesto en la Ley General de Contabilidad Gubernamental.
 
-El Consejo Estatal de Armonización Contable para Nayarit se identificará en lo subsiguiente mediante las siglas CEAC.
+El Consejo Estatal de Armonización Contable para el Estado de Nayarit, para efectos de la presente Ley, se identificará con las siglas CEAC. Mismo que auxiliará al Consejo Nacional en los términos dispuestos por la Ley General de Contabilidad Gubernamental.
+
+A fin de brindar mayor claridad en la presente Ley, serán aplicables, en lo que corresponda, las definiciones establecidas en el artículo 4 de la Ley General de Contabilidad Gubernamental, identificada con las siglas LGCG, así como en las demás disposiciones que deriven de ésta. Asimismo el Consejo Nacional de Armonización Contable será identificado como Consejo Nacional o CONAC.
 
 ### Capítulo II. Integración del Consejo
 
@@ -61,51 +65,83 @@ III. Un representante del Poder Judicial;
 
 IV. Un representante por cada uno de los organismos constitucionalmente autónomos;
 
-V. Un representante de los municipios por cada zona, integrada por los siguientes municipios:
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+V. Un representante de los municipios por cada zona, integradas de la siguiente forma:
 
 a) Zona A: Huajicori, Acaponeta, Tecuala y Rosamorada;
 
-b) Zona B: Tuxpan, Ruiz, Santiago lxcuintla y San Blas;
+b) Zona B: Tuxpan, Ruiz, Santiago Ixcuintla y San Blas;
 
 c) Zona C: Tepic, Del Nayar, la Yesca y Santa María del Oro;
 
-d) Zona D: San Pedro Lagunillas, Xalisco, Compostela, Bahía de Banderas; y
+d) Zona D: San Pedro Lagunillas, Xalisco, Compostela, Bahía de Banderas, y
 
-e) Zona E: Ixtlán del Río, Amatlán de Cañas, Ahuacatlán y Jala.
+e) Zona E: Ixtlán del Rio, Amatlán de Cañas, Ahuacatlán y Jala.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+Los representantes de los municipios serán elegidos por los otros miembros del CEAC, atendiendo lo dispuesto en los artículos 1, párrafo tercero y 9 fracción IX de la LGCG;
 
 VI. El Secretario de la Contraloría General del Estado;
 
-VII. Un representante del Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-VlIl. El titular de la Dirección de Contabilidad y Presupuesto del Poder Ejecutivo, quién fungirá como Secretario Técnico del CEAC, y
+VII. El titular del órgano de Fiscalización Superior del Estado;
 
-IX. Un representante del Colegio de Contadores Públicos del Estado de Nayarit.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-Los integrantes del CEAC tendrán derecho a voz y voto, a excepción de los señalados en las fracciones VII, VIII y IX de este artículo los cuales únicamente tendrán derecho a voz; cada integrante propietario deberá designar a un suplente, lo que deberá comunicar por escrito al Presidente del Consejo.
+VIII. El titular de la Dirección de Contabilidad y Presupuesto del Poder Ejecutivo, quien fungirá como Secretario Técnico del CEAC;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+IX. Un representante del Colegio de Contadores Públicos del Estado de Nayarit;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+X. El Subsecretario, competente en el tema de Contabilidad Gubernamental de la Secretaría de Administración y Finanzas, y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XI. El titular de la Coordinación General de Fortalecimiento Municipal.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+Los integrantes del CEAC tendrán derecho a voz y voto, a excepción de los señalados en las fracciones VIII y IX de este artículo, los cuales únicamente tendrán derecho a voz. Cada integrante propietario podrá designar a un suplente, quien deberá ser el servidor público que ocupe el puesto inmediato inferior al del respectivo miembro, lo que deberá comunicar por escrito al Presidente del Consejo.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### Artículo 3.
 
-Los cargos de los integrantes del CEAC serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+Los cargos de los integrantes del CEAC y de los Grupos de Trabajo que se establezcan serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
+
+Todas las comunicaciones, nombramientos o designaciones que se efectúen respecto de los miembros del CEAC y los Grupos de Trabajo, deberán constar por escrito y estar debidamente firmadas por los funcionarios que cuenten con facultades legales para tal efecto.
 
 ###### Artículo 4.
 
 El Presidente del CEAC podrá invitar a participar a las sesiones a representantes de los sectores público, social y privado, atendiendo al tema que se trate en las mismas, quienes tendrán derecho a voz pero no a voto.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 5.
 
-Los representantes de los municipios deberán ser quienes ocupen el cargo de tesoreros en las administraciones públicas municipales en funciones y serán propuestos por cada grupo de municipios de conformidad con el procedimiento que señale el Estatuto Interno del CEAC.
+Los representantes de los municipios deberán ser quienes ocupen el cargo de tesoreros en las administraciones públicas municipales en funciones y serán propuestos por cada grupo de municipios de conformidad con el procedimiento que señale el Estatuto Interno del CEAC y la LGCG.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### Artículo 6.
 
-Los representantes de los municipios durarán en su cargo por un periodo de 18 meses, y no podrán ser designados para un periodo inmediato.
+Los representantes de los municipios durarán en su cargo dos años; se elegirán por dicho periodo de forma rotativa, y no podrán ser designados para un periodo inmediato.
 
 ###### Artículo 7.
 
 Los representantes que integren el CEAC por parte de los poderes Legislativo y Judicial deberán ser del área administrativa o contable y serán designados por el Presidente de la Comisión de Gobierno Legislativo y por el Presidente del Consejo de la Judicatura, respectivamente.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 8.
 
-Los representantes del órgano de Fiscalización Superior del Estado y del Colegio de Contadores Públicos, serán designados por los titulares correspondientes.
+El representante del Colegio de Contadores Públicos, será designado por el titular correspondiente.
 
 ### Capítulo III. Atribuciones del CEAC y facultades de sus integrantes
 
@@ -113,9 +149,13 @@ Los representantes del órgano de Fiscalización Superior del Estado y del Coleg
 
 EL CEAC tendrá las siguientes atribuciones:
 
-I. Proponer y elaborar los instrumentos de armonización en materia contable que le solicite el Consejo Nacional de Armonización Contable;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-II. Difundir los lineamientos e instrumentos de armonización en materia contable en el Estado, así como los relativos a la armonización en materia presupuestal y programática emitidos por el Consejo Nacional de Armonización Contable;
+I. Proponer y elaborar los instrumentos de armonización en materia contable, así como la información financiera que le solicite el Consejo Nacional;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+II. Difundir los lineamientos e instrumentos de armonización en materia contable en el Estado, así como los relativos a la armonización en materia presupuestal y programática emitidos por el Consejo Nacional;
 
 III. Proponer a los poderes del Estado, a los organismos autónomos y a los municipios, la celebración de convenios de coordinación en materia de armonización contable;
 
@@ -127,9 +167,41 @@ VI. Proponer modificaciones al marco jurídico en materia de armonización conta
 
 VII. Aprobar la creación de comisiones y grupos de trabajo;
 
-VIII. Aprobar su Estatuto Interno, y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-IX. Las demás que sean necesarias para el cumplimiento de su objeto.
+VIII. Aprobar su Estatuto Interno;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+IX. Brindar asesoría a los entes públicos del Estado y de los municipios, para dar cumplimiento a las normas contables y lineamientos para la generación de información financiera que emita el Consejo Nacional;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+X. Establecer acciones de coordinación entre el gobierno del Estado y los municipios, para dar cumplimiento a lo dispuesto en la LGCG y en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XI. Requerir información a los entes públicos del Estado y de los municipios, sobre los avances en la armonización de su contabilidad conforme a las normas contables emitidas por el Consejo Nacional;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XII. Analizar la información que reciban de los entes públicos del Estado y de los municipios, e informar al Secretario Técnico del Consejo Nacional los resultados correspondientes;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XIII. Proponer recomendaciones al Secretario Técnico del Consejo Nacional respecto de las normas contables y de la emisión de información financiera;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XIV. Remitir la información relacionada con los actos que, en términos del artículo 7 de la Ley General de Contabilidad Gubernamental, realicen los entes públicos del Estado y de los municipios, para adoptar las decisiones del Consejo Nacional. La remisión señalada deberá realizarla dentro de un plazo de quince días hábiles contados a partir de la fecha en la que concluya el plazo que el Consejo Nacional haya establecido para tal fin, y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XV. Las demás que sean necesarias para el cumplimiento de su objeto, así como las que determine el Consejo Nacional.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+El CEAC se integrará y funcionará de conformidad con las reglas de operación que emita el Consejo Nacional.
 
 ###### Artículo 10.
 
@@ -163,17 +235,57 @@ III. Pasar lista de asistencia y verificar la existencia del quórum en las sesi
 
 IV. Levantar el acta de cada sesión del CEAC y recabar la firma de los integrantes del mismo;
 
-V. Dar seguimiento a los acuerdos emitidos en las sesiones del CEAC;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+V. Dar seguimiento a los acuerdos emitidos en las sesiones del CEAC, a fin de rendir oportunamente cuentas ante las autoridades competentes que se las requieran;
 
 VI. Auxiliar al Presidente y al CEAC en el desempeño de sus funciones;
 
-VII. Proponer y difundir las normas e instrumentos en materia contable, presupuestal y programática en el ámbito local;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-VIII. Asesorar y capacitar a los poderes, organismos autónomos y municipios en la instrumentación y aplicación de las normas emitidas por el Consejo Nacional de Armonización Contable, y
+VII. Proponer y difundir en la página de Internet del CEAC, las decisiones del mismo y demás información relacionada con las tareas del Consejo, así como las normas e instrumentos en materia contable, presupuestal y programática en el ámbito local;
 
-IX. Las demás que le confiera el Presidente del CEAC.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+VIII. Asesorar y capacitar a los poderes, organismos autónomos y municipios en la instrumentación y aplicación de las normas emitidas por el Consejo Nacional de Armonización Contable;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+IX. Elaborar y publicar el plan anual de trabajo del CEAC;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+X. Apoyar las actividades del Presidente del CEAC, de conformidad con el programa de trabajo aprobado;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XI. Establecer el mecanismo para requerir información de forma trimestral, o en su caso, de acuerdo a la periodicidad de la disposición que le resulte aplicable, a los entes públicos del Estado y de los municipios, sobre los avances en la armonización de su contabilidad conforme a las normas contables emitidas por el CONAC;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XII. Recibir la información de los entes públicos del Estado y de los municipios, sobre los avances en la armonización de su contabilidad conforme a las normas contables emitidas por el CONAC, para elaborar un informe de resultados que será remitido al Órgano de Fiscalización Superior del Estado, a efecto de que en el ámbito de su competencia se pronuncie respecto de la validez y confiabilidad de la información, conforme al marco de referencia que en la materia determine la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XIII. Presentar al CEAC para su aprobación, previamente validado por el Órgano de Fiscalización Superior del Estado, el informe de resultados sobre los avances en la armonización de la contabilidad conforme a las normas contables emitidas por el CONAC de los entes públicos del Estado y de los municipios;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XIV. Remitir al Secretario Técnico del CONAC, el informe de resultados señalado en la fracción anterior, con el fin de informar y publicar en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XV. Remitir las consultas de los entes públicos al Secretario Técnico del CONAC para su despacho, y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XVI. Las demás que le confiera el CEAC.
 
 Las actividades de capacitación y asesoramiento técnico que sean necesarias para garantizar la adecuada instrumentación del proceso de armonización contable, deberán coordinarse y ejecutarse junto con el Congreso del Estado, por conducto del Órgano de Fiscalización Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+El incumplimiento de las fracciones V, VII y de la IX a la XVI será causa de responsabilidad en términos de las disposiciones que resulten aplicables.
 
 ###### Artículo 12.
 
@@ -193,9 +305,19 @@ IV. Las demás que sean inherentes para el cumplimiento de las atribuciones del 
 
 El CEAC celebrará sesiones ordinarias y extraordinarias, las ordinarias se llevarán a cabo de manera trimestral conforme al calendario aprobado y las extraordinarias cuando la naturaleza del asunto a tratar así lo amerite, previa convocatoria.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+La Convocatoria para la reunión del CEAC deberá ser remitida como máximo con diez días naturales de anticipación a la realización de la sesión y deberá contener: el lugar, la fecha y la hora de la celebración de la sesión en primera convocatoria y treinta minutos después la segunda convocatoria, respecto de la misma sesión, debiendo enviar a los Consejeros, bien sea en forma documental o electrónica, el orden del día y los documentos correspondientes.
+
 Para que las sesiones sean válidas se requerirá de la asistencia de por lo menos la mitad más uno de sus integrantes.
 
-De no integrarse el quórum a que se refiere el párrafo anterior, se convocará a una segunda sesión dentro de los tres días hábiles siguientes, la cual podrá celebrarse con el número de miembros que se encuentren presentes; invariablemente se deberá contar con la presencia del Presidente y del Secretario Técnico.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+De no integrarse el quórum a que se refiere el párrafo anterior, se convocará a una segunda sesión dentro de los tres días hábiles siguientes, la cual podrá celebrarse con el número de miembros que se encuentren presentes; invariablemente se deberá contar con la presencia del Secretario Técnico.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+El Presidente del CEAC realizará la apertura, la conducción y el cierre de las sesiones. En su ausencia, será suplido por un representante designado por este, debiendo notificarse la suplencia por escrito.
 
 ###### Artículo 14.
 
@@ -205,13 +327,99 @@ Las decisiones y acuerdos del CEAC se tomarán por mayoría de votos de los inte
 
 De cada sesión deberá levantarse un acta debidamente circunstanciada, la cual contendrá los acuerdos aprobados por el CEAC y será firmada por cada uno de los asistentes, una copia deberá remitirse a los integrantes del mismo dentro de los siete días hábiles posteriores a su firma. A su vez, el representante de los organismos autónomos difundirá los acuerdos a las áreas administrativas de éstos y los representantes de los municipios a los tesoreros de los municipios correspondientes de su región.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+El Secretario Técnico publicará las actas de sesión del CEAC en la página de Internet y cuando así corresponda, la información que de ello emane se publicará en el Periódico Oficial del Estado, dentro de los cinco días hábiles posteriores a la celebración de la misma.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+En las actas de las sesiones del CEAC deberá hacerse constar, al menos, lo siguiente:
+
+I. La lista de asistencia;
+
+II. La verificación del quórum legal para sesionar;
+
+III. El orden del día;
+
+IV. Los acuerdos aprobados en las reuniones de los Consejos, y
+
+V. Las consideraciones que, en su caso, cualquier integrante del CEAC solicite sean consignadas en el acta.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 16.
 
-El CEAC se regirá en lo que hace a su organización, estructura y funcionamiento, además de lo dispuesto por esta ley, en lo que establezca su estatuto interno.
+El CEAC se regirá en lo que hace a su organización, estructura y funcionamiento, además de lo dispuesto por esta ley, su estatuto interno, y por lo que establezca la Ley General de Contabilidad Gubernamental, así como las reglas de operación emitidas por el CONAC.
+
+En la última sesión en la que participen los Consejeros que terminan el encargo, se realizará la elección de los Consejeros que ocuparán la representación del Estado o ayuntamientos de los municipios, durante el siguiente periodo.
 
 ###### Artículo 17.
 
 La Secretaría Técnica proveerá lo conducente para que, el CEAC lleve a cabo sus sesiones, así como para que difunda la información en la materia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2016)</small>
+
+### Capítulo V. Plan de trabajo
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### Artículo 18.
+
+El plan anual de trabajo del CEAC será elaborado por el Secretario Técnico y se someterá a votación durante el primer trimestre del ejercicio fiscal. Una vez aprobado, deberá publicarse en los medios oficiales de difusión del Estado y divulgarse en la página de Internet del CEAC dentro de los cinco días naturales siguientes a la sesión en que fue aprobado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2016)</small>
+
+### Capítulo VI. De la operación y funcionamiento de los grupos de trabajo
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### Artículo 19.
+
+Se podrán crear Grupos de Trabajo para apoyar el cumplimiento de las funciones del CEAC.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### Artículo 20.
+
+Los Grupos de Trabajo se integrarán por representantes de los miembros del CEAC y podrán participar funcionarios o profesionales especialistas en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### Artículo 21.
+
+Los Grupos de Trabajo serán coordinados por un enlace nombrado por el CEAC y tendrá las siguientes atribuciones:
+
+I. Fungir como vínculo entre el Grupo de Trabajo y el CEAC;
+
+II. Preparar la agenda de las reuniones de los Grupos de Trabajo;
+
+III. Coordinar el desarrollo de las reuniones;
+
+IV. Dar atención a los asuntos que reciba, y
+
+V. Preparar el informe de actividades y sus resultados para ser presentado al Consejo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2016)</small>
+
+### Capítulo VII. Disposiciones finales
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### Artículo 22.
+
+A efecto de facilitar el envío de información en materia contable y financiera, se utilizará la herramienta tecnológica que permita la comunicación del avance de la armonización contable que ponga a disposición del CEAC las autoridades del ámbito federal.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### Artículo 23.
+
+Corresponde al Secretario Técnico del CEAC:
+
+I. Interpretar para efectos administrativos las presentes disposiciones;
+
+II. Emitir disposiciones complementarias, y
+
+III. Resolver los casos no previstos.
 
 ## TRANSITORIOS
 
@@ -230,3 +438,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Armando García Jiménez, Presidente.- Rúbrica.- Dip. Miguel Angel Mú Rivera, Secretario.- Rúbrica.- Dip. Miguel Ángel Arce Montiel, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los dieciséis días del mes de diciembre del año dos mil once.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE PARA NAYARIT”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
