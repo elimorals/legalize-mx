@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-vivienda-para-el-estado-de-tamaulipas-96128"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2015-10-27"
+last_updated: "2016-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -61,9 +61,17 @@ III. Establecer sistemas, órganos, instrumentos y estímulos a la producción, 
 
 IV. Fijar las bases para la coordinación, concertación y colaboración entre los distintos sectores en estas materias;
 
-V. Regular la calidad y sustentabilidad de la vivienda; y,
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-VI. Fomentar, propiciar e impulsar la participación de los sectores social y privado en la adquisición y urbanización de suelo y en la producción y uso de vivienda, en todos sus tipos y modalidades.
+V. Regular la calidad y sustentabilidad de la vivienda;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+VI. Fomentar, propiciar e impulsar la participación de los sectores social y privado en la adquisición y urbanización de suelo y en la producción y uso de vivienda, en todos sus tipos y modalidades; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+VII. Fomentar la prevención de la salud en la construcción de vivienda social.
 
 ###### ARTÍCULO 3.
 
@@ -195,9 +203,15 @@ XIII. Vigilar el cumplimiento del Reglamento de Construcciones para el Estado o 
 
 XIV. Promover la participación de la comunidad en la formulación, ejecución y evaluación de la política municipal de vivienda y suelo;
 
-XV. Instalar la ventanilla única de trámites relacionados con la vivienda; y,
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-XVI. Las demás que le confieran esta Ley y otras disposiciones aplicables.
+XV. Instalar la ventanilla única de trámites relacionados con la vivienda;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XVI. Fomentar en el ámbito de su competencia el establecimiento de medidas arquitectónicas e instalaciones, para que sean consideradas en la construcción de vivienda social, ponderando el establecimiento de telas mosquiteras, a fin de coadyuvar en la prevención de la salud, además de elevar su calidad y sustentabilidad; y
+
+XVII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -269,9 +283,15 @@ XVI. Fomentar y apoyar programas y proyectos de formación profesional, actualiz
 
 XVII. Promover y apoyar la constitución y operación de organismos sin fines de lucro, que proporcionen asesoría y asistencia técnica a familias de menores ingresos o en situación de vulnerabilidad, cooperativistas y trabajadores no afiliados a algún régimen de vivienda, para desarrollar mejor sus procesos productivos y de gestión del hábitat;
 
-XVIII. Promover ante instancias públicas y privadas la disminución de los costos indirectos, como derechos de interconexión, licencias, permisos, constancias, derechos de inscripción y demás, que se traduzcan en beneficios de la vivienda de interés social dirigida a las familias de menores ingresos o en situación de vulnerabilidad, cooperativistas y trabajadores no afiliados a un régimen de vivienda; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-XIX. Las demás que le otorguen esta Ley y otros ordenamientos.
+XVIII. Promover ante instancias públicas y privadas la disminución de los costos indirectos, como derechos de interconexión, licencias, permisos, constancias, derechos de inscripción y demás, que se traduzcan en beneficios de la vivienda de interés social dirigida a las familias de menores ingresos o en situación de vulnerabilidad, cooperativistas y trabajadores no afiliados a un régimen de vivienda;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+
+XIX. Fomentar el establecimiento de medidas arquitectónicas e instalaciones, para que sean consideradas en la construcción de vivienda social, ponderando el establecimiento de telas mosquiteras, a fin de coadyuvar en la prevención de la salud, además de elevar su calidad y sustentabilidad; y
+
+XX. Las demás que le otorguen esta Ley y otros ordenamientos.
 
 ARTÍCULO 11
 
@@ -301,9 +321,11 @@ XI. Las demás que le otorguen esta Ley y otros ordenamientos.
 
 ### CAPÍTULO III. POLÍTICA ESTATAL DE VIVIENDA Y SUELO
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 12.
 
-La política estatal de vivienda y suelo es el conjunto de disposiciones, criterios, lineamientos, medidas y acciones que establezcan o realicen autoridades estatales por sí o en coordinación con los gobiernos federal, de otras entidades federativas y municipales, y en concertación con los sectores social y privado, para hacer efectivo el derecho de acceso a la vivienda digna y decorosa, así como el acceso a suelo con servicios básicos.
+La política estatal de vivienda y suelo es el conjunto de disposiciones y criterios, lineamientos, medidas y acciones que fortalezcan o realicen autoridades estatales por si o en coordinación con los gobiernos federales, de otras entidades federativas y municipales, en concertación con los sectores social y privado, para hacer efectivo el derecho de acceso a la vivienda digna y decorosa en condiciones sustentables y salubres, así como el acceso a suelo con servicios básicos.
 
 ###### ARTÍCULO 13.
 
@@ -852,5 +874,13 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL D
 P.O. 27 DE OCTUBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-944, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
