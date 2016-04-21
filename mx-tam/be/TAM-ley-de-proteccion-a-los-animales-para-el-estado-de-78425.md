@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2015-03-26"
+last_updated: "2016-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -479,7 +479,7 @@ VII. Cargar los carruajes de tracción animal con un peso proporcionado a las co
 
 VIII. Impedir el uso de animales enfermos, cojos, con "matadura", heridos o desnutridos, o de hembras en el último tercio del período de gestación, en actividades de tiro, carga o monta;
 
-IX. No prestar o alquilar los animales de tiro, carga o monta para realizar otros trabajos similares, después de una jornada de trabajo; y
+IX. No prestar o alquilar los animales .de tiro, carga o monta para realizar otros trabajos similares, después de una jornada de trabajo; y
 
 X. No permitir emplear animales para tiro de carretas, arados u otros medios de conducción similares, sin los arneses y herraduras adecuados para la actividad que vayan a desarrollar, lesionándolos o lastimándolos, sin evitarles una molestia mayor a la normal.
 
@@ -1051,19 +1051,23 @@ III. Arresto; y
 
 IV. Las demás que señalen las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 56.
 
-Para aquellos casos en los que el infractor por primera vez cause molestia a algún animal o le dé un golpe que no deje huella o secuela, o bien para aquellos que incumplan lo previsto por los artículos 5°; 6°, fracción I, inciso b) y fracción II, inciso c); fracción V del artículo 16; 20 párrafo 2; 30; 41 párrafo 3; 46 párrafos 3 y 4 de esta ley, procederá la Amonestación por escrito.
+Para aquellos casos en los que el infractor por primera vez cause molestia a algún animal o le dé un golpe que no deje huella o secuela, o bien para aquellos que incumplan lo previsto por los artículos 5; 6, fracción I, inciso b) y fracción II, inciso c); 16 fracción V y 46, párrafos 3 y 4 de esta ley, procederá la amonestación por escrito.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 57.
 
 Las infracciones cometidas por la violación de las disposiciones de la presente ley, se aplicarán conforme a lo siguiente:
 
-I. Multa de 5 a 150 días de salario mínimo vigente en la zona donde se cometa la infracción contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 5°; 6°, fracción I, inciso b) y fracción II inciso c); fracción X; 8°; 11, segundo párrafo; 12, párrafo segundo; 14; 16, fracciones I, II, III, IV, VII y VIII; 18, fracciones III y XI; 20, fracción III; 21; 22; 23, fracción VI; 25, fracciones II y XI; 26, párrafo 6; 27, fracción III; 29, tercer párrafo; 34; 35 párrafo 2; 38, párrafos 2, 3, 4 y 5; 42, fracción VI; 43, párrafo 2; 44, párrafo 4, fracción III de la presente ley;
+I. Multa de 5 a 150 días de salario mínimo vigente en la zona donde se cometa la infracción contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 7, fracción X; 8; 12, párrafo segundo; 14; 16, fracciones I, II, III, IV, VII y VIII; 18, fracciones III, XI y XIII; 20 fracción III; 21; 22; 25, fracciones II y XI; 27, fracción III; 29 párrafo tercero; 38, párrafos segundo, tercero y quinto; 42, fracción VI; 43, párrafo segundo de la presente ley;
 
-II. Multa de 150 a mil días de salario mínimo vigente en la zona donde se cometa la infracción las violaciones a lo dispuesto por los artículos 6°, fracción II inciso d); 7° fracción IX; 8°; 15; 16, fracciones VI y IX; 18, fracciones II, IV, VI, VII, IX, X, XV, XVI, XIX; 20, fracción VII; 23, fracciones I, II, III, IV, V, VII, VIII y IX; 24 primer párrafo; 25, fracción XI; 26; 27, primer párrafo; 31; 32; 33, fracciones I, II, VII, VIII; 34; 39, fracciones IV, V, VI, VII, VIII, XI; 44, numeral 3, fracciones I a IV de la presente ley; y
+II. Multa de 150 a mil días de salario mínimo vigente en la zona donde se cometa la infracción a lo dispuesto por los artículos 6, fracción II inciso d); 7 fracción IX; 15; 16, fracciones VI y IX; 18, fracciones II, IV, VI, VII, IX, X, XV, XVI, XVIII y XIX; 20, fracción VII; 23, fracciones I, II, III, V, VI, VII, VIII y X; 24 primer párrafo; 25, fracción IX; 26; 27, párrafo primero; 31; 32; 33, fracciones I, II, VII y VIII; 34; 39, fracciones IV, V, VI, VII, VIII y XI; 44, párrafo cuarto, fracciones I a la IV de la presente ley, y
 
-III. Arresto inconmutable de 36 horas y multa por mil a dos mil 500 días de salario mínimo vigente en la zona donde se cometa la infracción por violaciones a lo dispuesto por los artículos 11; 18, fracciones I, V, VIII, XII, XIV, XVII, XVII (SIC); 20, fracciones I, II, III, IV, V, VI, VIII, IX, X; 23 fracciones IV y IX; 25, fracciones I, III, IV, V, VI, VII, VIII, X, XII, XIII; 28; 29, fracciones I, II y III; 30; 31, párrafo 4; 33, fracciones III, IV, V, VI, IX, X; 35; 36; 37; 38, párrafos 4 y 6; 39, fracciones I, II, III, IX, X, XII y XIII; 40; 41; 42, fracciones I a VI y párrafos 3 y 4 de la presente ley.
+III. Arresto inconmutable de 36 horas y multa por mil a dos mil 500 días de salario mínimo vigente en la zona donde se cometa la infracción por violaciones a lo dispuesto por los artículos 9; 11; 18, fracciones I, V, VIII, XII, XIV y XVII; 20, fracciones I, II, IV, V, VI, VIII, IX y X; 23, fracciones IV y IX; 24, párrafo segundo; 25, fracciones I, III, IV, V, VI, VII, VIII, X, XII y XIII y los párrafos tercero y cuarto; 28; 29, fracciones I, II y III; 30; 33, fracciones III, IV, V, VI, IX y X; 35; 36; 37; 38, párrafos cuarto y sexto; 39, fracciones I, II, III, IX, X, XII y XIII; 40; 41 y 42, fracciones I a V y párrafos segundo, tercero y cuarto de la presente ley.
 
 ###### ARTICULO 58.
 
@@ -1168,3 +1172,11 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos del Estado, en el ámbito de su respectiva competencia, deben realizar las modificaciones a los ordenamientos que correspondan dentro del plazo de 30 días naturales posteriores a la entrada en vigor de este Decreto, para dar cumplimiento a éste.
+
+P.O. 21 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-942, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 56 Y 57 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
