@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2015-11-09"
+last_updated: "2016-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -517,6 +517,62 @@ B).- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad
 
 C).- Vigilar, en la esfera de su competencia, el cumplimiento de esta ley y las demás disposiciones legales.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+ARTICULO 10 BIS.- La Secretaría de Salud, a través de un Órgano Desconcentrado que se denominará Comisión Estatal para la Protección contra Riesgos Sanitarios; ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, y los demás ordenamientos aplicables le corresponden a dicha Dependencia en las materias a que se refiere el artículo 3° de esta Ley, conforme a lo siguiente:
+
+I.- De las enunciadas en la fracción I, las relativas a la organización, control y vigilancia de la prestación de servicios y de los establecimientos de salud, destinados a la población en general a los que se refiere el artículo 20 de esta Ley; y sus incisos F), H), L), M), R) y S), así como Sanidad Internacional, esta última salvo por lo que se refiere a personas; y
+
+II.- Referente a su fracción II, en cuanto al control sanitario de establecimientos y servicios, a excepción de la competencia de los Ayuntamientos, a menos que éstos incumplan o esté en riesgo la salud de la población.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+ARTICULO 10 TER.- Para efectos de lo dispuesto en el artículo anterior, compete a la Comisión Estatal para la Protección contra Riesgos Sanitarios, lo siguiente:
+
+I.- Efectuar la evaluación de riesgos a la salud en las materias de su competencia, así como identificar y evaluar los riesgos para la salud humana que generen los sitios en donde se manejen residuos peligrosos;
+
+II.- Proponer al Secretario de Salud la política estatal de protección contra riesgos sanitarios, así como su instrumentación en las siguientes materias:
+
+a) Establecimientos de salud;
+
+b) Medicamentos y otros insumos para la salud;
+
+c) Disposición de órganos, tejidos, células de seres humanos y sus componentes;
+
+d) Alimentos y bebidas;
+
+e) Productos cosméticos;
+
+f) Productos de aseo;
+
+g) Tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud;
+
+h) Productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; y
+
+i) Productos de prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre, salud ocupacional y saneamiento básico.
+
+III.- Evaluar, expedir o revocar las autorizaciones sanitarias a las que se refiere el artículo 117 de esta ley en las materias de su competencia, así como aquellos actos de autoridad que para la regulación, el control y el fomento sanitario se establecen o deriven de la Ley, sus reglamentos, las Normas Oficiales Mexicanas y los demás ordenamientos aplicables;
+
+IV.- Expedir certificados de salud para llevar a cabo las atribuciones a las que se refieren los artículos 112, 130 y 132 de esta Ley y demás ordenamientos aplicables, a través de los laboratorios de esta Comisión Estatal;
+
+V.- Expedir permisos sanitarios de construcción en lo que se refiere a Ingeniería Sanitaria, de acuerdo a lo que establecen los artículos 115, 116 y 120 fracción II de la presente Ley y demás ordenamientos aplicables a la materia;
+
+VI.- Ejercer el control y vigilancia sanitarios en importaciones, exportaciones y publicidad de las actividades, productos y servicios en las materias competencia de la Comisión Federal para la Protección contra Riesgos Sanitarios, según lo que establezcan los Acuerdos de Coordinación para el ejercicio de facultades en materia de control y fomento sanitarios;
+
+VII.- Ejercer el control y vigilancia sanitarios de la publicidad de las actividades, productos y servicios a los que se refiere esta Ley y sus reglamentos;
+
+VIII.- Ejercer el control y vigilancia sanitarios de la disposición y trasplantes de órganos, tejidos y células de seres humanos, conforme a lo que establece el inciso H) de la fracción III del artículo 3° de esta Ley y la Ley General de Salud en la fracción VIII del artículo 17 bis;
+
+IX.- Ejercer las atribuciones que la Ley General de Salud y sus reglamentos le confieren a la Secretaría de Salud en materia de Sanidad Internacional, con excepción de lo relativo a personas;
+
+X.- Imponer sanciones y aplicar medidas de seguridad en el ámbito de su competencia;
+
+XI.- Ejercer las atribuciones que la presente Ley, la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, y los demás ordenamientos aplicables le confieren a la Secretaría de Salud en materia de efectos del ambiente en la salud, salud ocupacional, residuos peligrosos, saneamiento básico y accidentes que involucren sustancias tóxicas, peligrosas o radiaciones, en coordinación con los lineamientos que establezca la Comisión Federal para la Protección contra Riesgos Sanitarios;
+
+XII.- Participar, en coordinación con las unidades administrativas competentes de la Secretaría de Salud, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando éstas se relacionen con los riesgos sanitarios derivados de los productos, actividades o establecimientos materia de su competencia; y
+
+XIII.- Las demás facultades que otras disposiciones legales le confieren a la Secretaría de Salud del Estado de Tamaulipas, en las materias que conforme a lo dispuesto en este artículo sean de su competencia.
+
 ###### ARTICULO 11.
 
 El Consejo General de Salud es un órgano asesor del Ejecutivo del Estado, en los términos del artículo 145 de la Constitución Política del Estado de Tamaulipas, y estará integrado de la forma siguiente:
@@ -566,6 +622,22 @@ III.- Requerir a los Consejos Estatales, informes de resultados de los programas
 IV.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud; y
 
 V.- Las demás que sean necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+ARTICULO 12 BIS.- La Comisión Estatal para la Protección contra Riesgos Sanitarios tendrá autonomía administrativa, técnica y operativa, y su presupuesto estará constituido por:
+
+I.- Las asignaciones que establezca la Ley de Ingresos y el Presupuesto de Egresos del Estado;
+
+II.- Los recursos financieros que le sean asignados por parte de la Comisión Federal, para la ejecución de los proyectos federales que en lo sucesivo se destinen a esta Comisión a través de los Convenios de transferencia de recursos entre estas autoridades; y
+
+III.- Los ingresos que obtenga por concepto de donativos nacionales e internacionales, rescate de seguros y otros ingresos de carácter excepcional, los cuales podrán ser recuperados por dicha Comisión y destinados a su gasto de operación conforme a lo que establezca el Presupuesto de Egresos del Estado para el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+ARTICULO 12 TER.- Al frente de la Comisión Estatal para la Protección contra Riesgos Sanitarios, estará un Comisionado Estatal, el cual será nombrado por el Gobernador del Estado, a propuesta del Secretario de Salud; siendo la Secretaría de Salud a quien corresponderá la supervisión de este Órgano Desconcentrado.
+
+El Gobernador del Estado expedirá su Reglamento Interior, en el cual se precisará lo relativo a su estructura, atribuciones y funciones, en todo aquello que no se encuentre expresamente previsto por esta Ley.
 
 ###### ARTICULO 13.
 
@@ -3594,3 +3666,15 @@ P.O. 9 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-943, MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 10 BIS, 10 TER, 12 BIS Y 12 TER A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal deberá expedir el Reglamento Interior de la Comisión Estatal para la Protección contra Riesgos Sanitarios, en un plazo no mayor a 120 días naturales a partir de la entrada en vigor del presente Decreto.
