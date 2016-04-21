@@ -4,7 +4,7 @@ identifier: "LAPP"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-16"
-last_updated: "2014-08-11"
+last_updated: "2016-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84590&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAPP"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de enero de 2012.
 
@@ -48,11 +48,11 @@ Ley de Asociaciones Público Privadas
 
 La presente Ley es de orden público y tiene por objeto regular los esquemas para el desarrollo de proyectos de asociaciones público-privadas, bajo los principios de los artículos 25 y 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
 
 ###### Artículo 2.
 
-Los proyectos de asociación público-privada regulados por esta Ley son aquellos que se realicen con cualquier esquema para establecer una relación contractual de largo plazo, entre instancias del sector público y del sector privado, para la prestación de servicios al sector público, mayoristas, intermedios o al usuario final y en los que se utilice infraestructura provista total o parcialmente por el sector privado con objetivos que aumenten el bienestar social y los niveles de inversión en el País.
+Los proyectos de asociación público-privada regulados por esta Ley son aquellos que se realicen con cualquier esquema para establecer una relación contractual de largo plazo, entre instancias del sector público y del sector privado, para la prestación de servicios al sector público, mayoristas, intermediarios o al usuario final y en los que se utilice infraestructura proporcionada total o parcialmente por el sector privado con objetivos que aumenten el bienestar social y los niveles de inversión en el país.
 
 En los términos previstos en esta Ley, los proyectos de asociación público-privada deberán estar plenamente justificados, especificar el beneficio social que se busca obtener y demostrar su ventaja financiera frente a otras formas de financiamiento.
 
@@ -62,7 +62,9 @@ También podrán ser proyectos de asociación público -privada los que se reali
 
 A estos esquemas de asociación público privada les resultarán aplicables los principios orientadores del apoyo a la investigación científica, desarrollo Tecnológico e Innovación previstos en la Ley de Ciencia y Tecnología. Estas asociaciones se regirán por lo dispuesto en esta ley y en lo que les resulte aplicable por la Ley de Ciencia y Tecnología.
 
-Con el propósito de promover el desarrollo de estos esquemas de asociación se constituirá un Fondo para Inversiones y Desarrollo Tecnológico en los términos previstos por el Capítulo III, Sección IV de la Ley de Ciencia y Tecnología. El objeto de este Fondo será impulsar los esquemas de asociación pública privada a que se refiere este artículo. Al efecto, podrá preverse anualmente la asignación de recursos destinados a este Fondo en los términos previstos en esa ley, a fin de que el mismo cumpla con su objeto.
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+Con el propósito de promover el desarrollo de estos esquemas de asociación se constituirá un Fondo para Inversiones y Desarrollo Tecnológico en términos del Capítulo IV, Sección IV de la Ley de Ciencia y Tecnología. El objeto de este Fondo será impulsar los esquemas de asociación público-privada a que se refiere este artículo. Al efecto, podrá preverse anualmente la asignación de recursos destinados a este Fondo en los términos previstos en dicha ley, a fin de que el mismo cumpla con su objeto.
 
 Los proyectos de inversión productiva se sujetarán a las disposiciones aplicables a la materia específica que comprenda.
 
@@ -114,9 +116,11 @@ IV. El Código Federal de Procedimientos Civiles.
 
 Los esquemas de asociación público-privada regulados en la presente Ley son opcionales y podrán utilizarse en relación con actividades cuya legislación específica prevea la libre participación del sector privado, o bien, mediante, el otorgamiento de permisos, autorizaciones o concesiones, para la prestación de los servicios correspondientes y no podrán referirse a los casos en los que las disposiciones aplicables señalen que no pueda intervenir el sector privado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 11.
 
-La Secretaría de la Función Pública incluirá en el sistema electrónico de información pública gubernamental CompraNet, por secciones debidamente separadas, la información relativa a los proyectos de asociación público-privada federales, así como de los proyectos no solicitados que reciban las dependencias y entidades de la Administración Pública Federal, a que se refiere la presente Ley. Este sistema será de consulta gratuita y constituirá un medio por el cual podrán desarrollarse procedimientos de contratación.
+La Secretaría de la Función Pública incluirá en el sistema electrónico de información pública gubernamental CompraNet, por secciones debidamente separadas, la información relativa a los proyectos de asociación público-privada federales, así como de las propuestas no solicitadas que reciban las dependencias y entidades de la Administración Pública Federal a que se refiere la presente Ley. Este sistema será de consulta gratuita y constituirá un medio por el cual podrán desarrollarse procedimientos de contratación.
 
 La información en CompraNet, deberá contener los datos necesarios para identificar plenamente las operaciones realizadas a través del esquema de asociaciones público-privada, y permita realizar análisis sobre la viabilidad del proyecto. Deberá además, contener información para identificar los programas anuales en la materia, de las dependencias y entidades; el registro único de desarrolladores, en los términos en que los establezca el Reglamento de esta Ley; el registro de desarrolladores sancionados; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones y de fallo; los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; las resoluciones de la instancia de inconformidad que hayan causado estado, y las notificaciones y avisos correspondientes.
 
@@ -140,7 +144,9 @@ VI. Concursante: Persona que participa en algún concurso que tenga por objeto l
 
 VII. Convocante: Dependencia o entidad que convoque a un concurso para adjudicar un proyecto de asociación público-privada;
 
-VIII. Dependencias: Las dependencias centralizadas de la Administración Pública Federal y la Consejería Jurídica del Ejecutivo federal;
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+VIII. Dependencias: Las secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los órganos reguladores coordinados en materia energética;
 
 IX. Desarrollador: Sociedad mercantil mexicana, con objeto exclusivo de desarrollar un determinado proyecto de asociación público-privada, con quien se celebre el contrato respectivo y a quien se otorguen, en su caso, las autorizaciones para desarrollar el proyecto;
 
@@ -172,9 +178,11 @@ II. Cuando así sea necesario, el otorgamiento de uno o varios permisos, concesi
 
 III. En el caso de los proyectos referidos en el artículo 3, vinculados a innovación y desarrollo tecnológico, se requerirá además, la previa aprobación del Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología. Para el análisis y aprobación de estos proyectos el Foro Consultivo Científico y Tecnológico deberá ajustarse a los principios orientadores del apoyo a la Investigación Científica, Desarrollo Tecnológico e Innovación previstos en esa ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 14.
 
-Para determinar la viabilidad de un proyecto de asociación público-privada, la dependencia o entidad interesada deberá contar con análisis sobre los aspectos siguientes:
+Los proyectos de asociaciones público-privadas serán viables cuando así lo determine la dependencia o entidad interesada, mediante dictamen que la misma emita. Para la elaboración de dicho dictamen, la dependencia o entidad deberá llevar a cabo los análisis siguientes:
 
 I. La descripción del proyecto y viabilidad técnica del mismo;
 
@@ -196,7 +204,9 @@ IX. La conveniencia de llevar a cabo el proyecto mediante un esquema de asociaci
 
 La información anterior deberá ser publicada en internet y ser presentada ante la Cámara de Diputados.
 
-La Secretaría de Hacienda y Crédito Público coordinará y publicará un registro para efectos estadísticos con la información relativa a los proyectos de asociación público-privada, previstos en la fracción I a la IX del presente artículo. Asimismo, publicará de manera sistemática la información siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+La Secretaría de Hacienda y Crédito Público coordinará y publicará un registro para efectos estadísticos con la información contenida en los análisis a que se refieren las fracciones I a IX del presente artículo. Asimismo, publicará de manera sistemática la información siguiente:
 
 a) Nombre del proyecto;
 
@@ -214,15 +224,21 @@ g) Monto de los pagos programados y ejecutados durante el ciclo de vida del proy
 
 h) Indicadores asociados a la rentabilidad social, financiera y económica del proyecto, en los términos que determine el Reglamento;
 
-i) Resultado de la evaluación de la conveniencia a que se refiere el artículo 14 fracción IX;
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+i) Resultado de la evaluación de la conveniencia a que se refiere la fracción IX del primer párrafo de este artículo, y
 
 j) Otra información que la Secretaría de Hacienda y Crédito Público considere relevante.
 
-Dicha información será de carácter público, a excepción de aquélla de naturaleza reservada o confidencial, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
 
-La Secretaría de Hacienda y Crédito Público, al presentar el proyecto de Presupuesto de Egresos de la Federación deberá incluir, en términos de los artículos 24 de esta Ley, y 41 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, una evaluación del impacto de los proyectos de asociación público-privada en las finanzas públicas durante su ciclo de vida.
+La información a que se refiere el párrafo anterior será de carácter público, a excepción de aquélla de naturaleza reservada o confidencial, en términos de la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables. Dicha información será publicada de manera permanente en el Portal de Transparencia Presupuestaria de la Secretaría de Hacienda y Crédito Público en formato de datos abiertos.
 
-Asimismo, la Secretaría de Hacienda y Crédito Público reportará en los Informes Trimestrales sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública, en los términos de las disposiciones aplicables, la descripción de cada uno de los proyectos autorizados, montos erogados o por erogar conforme a las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario así como el monto de los pagos comprometidos.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+Asimismo, la Secretaría de Hacienda y Crédito Público reportará en los Informes Trimestrales sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública, en términos de las disposiciones jurídicas aplicables, la descripción de cada uno de los proyectos de asociación público-privada autorizados, los montos erogados o por erogar conforme a las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario, así como en su caso, el monto anual de los pagos comprometidos durante la vigencia del contrato.
 
 ###### Artículo 15.
 
@@ -256,7 +272,7 @@ V. Una relación de los demás inmuebles, construcciones, instalaciones, equipos
 
 Para evaluar la conveniencia de llevar a cabo un proyecto mediante esquemas de asociación público-privada conforme a lo dispuesto en la fracción IX del artículo 14 de esta Ley, la dependencia o entidad interesada aplicará los lineamientos que al efecto determine la Secretaría de Hacienda y Crédito Público.
 
-La evaluación deberá incorporar un análisis de costo-beneficio, la rentabilidad social del proyecto, la pertinencia de la oportunidad del plazo en que tendrá inicio, así como la alternativa de realizar otro proyecto o llevarlo a cabo con una forma distinta de financiamiento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -278,9 +294,11 @@ No será necesaria la autorización del Comité de Adquisiciones, Arrendamientos
 
 #### Sección Segunda. Inicio de los Proyectos
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 21.
 
-Con base en los análisis mencionados en el artículo 14 de esta Ley, la dependencia o entidad decidirá si el proyecto es o no viable y, de serlo, procederá a su implementación y desarrollo, previo análisis y autorización de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, para los efectos de los artículos 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y 24 de esta Ley.
+La dependencia o entidad que pretenda participar con recursos públicos federales en proyectos de asociación público-privada que haya dictaminado como viables en términos del artículo 14 de la presente Ley, deberá obtener el registro en la cartera de inversión a que se refiere el artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 ###### Artículo 22.
 
@@ -292,25 +310,45 @@ En el caso del párrafo anterior, tratándose de la autorización en materia de 
 
 Para que opere la afirmativa ficta señalada en este artículo, al solicitar cada una de las autorizaciones respectivas, los promoventes deberán señalar que la autorización se refiere específicamente a un proyecto de asociación público - privada.
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 23.
 
-Para iniciar el desarrollo de un proyecto de asociación público-privada, las dependencias y entidades deberán contar con los análisis mencionados en el artículo 14 anterior, totalmente terminados, sin que requieran cumplir algún otro requisito distinto a los previstos en la sección primera del presente capítulo.
+El procedimiento de contratación de un proyecto de asociación público-privada sólo podrá iniciarse conforme a lo siguiente:
+
+I. Tratándose de proyectos de asociación público-privada que involucren recursos del Presupuesto de Egresos de la Federación, cuando cuenten con:
+
+a) El dictamen de viabilidad a que se refiere el artículo 14 de esta Ley;
+
+b) El registro en la cartera de inversión a que se refiere el artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
+
+c) La autorización de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, en términos del artículo 24 de esta Ley;
+
+II. En el caso de proyectos de asociación público-privada que involucren recursos públicos federales en numerario, distintos a los previstos en el Presupuesto de Egresos de la Federación, deberán contar con los requisitos previstos en los incisos a) y b) de la fracción anterior, y
+
+III. Tratándose de proyectos de asociación público-privada que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad, en términos del artículo 14 de la presente Ley.
 
 #### Sección Tercera. Otras Disposiciones sobre la Preparación e Inicio de los Proyectos
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 24.
 
-El gasto público federal que, en su caso, sea necesario para el desarrollo de un proyecto de los previstos en la presente Ley, se ajustará a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaría, al Presupuesto de Egresos de la Federación y demás que resulten aplicables.
+El gasto público federal que, en su caso, sea necesario para el desarrollo de un proyecto de los previstos en la presente Ley, se ajustará a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, al Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables.
 
-Los compromisos presupuestarios futuros que en su caso llegaren a originar los proyectos de asociación público-privada que se prevea iniciar, acumulados o aquellos de los proyectos que ya hubieran iniciado algún procedimiento de contratación o que ya estuvieran operando, serán acordes con las posibilidades agregadas de gasto y de financiamiento del sector público federal.
+Para determinar los compromisos presupuestarios futuros que en su caso llegaren a originar los proyectos de asociación público-privada, se deberán tomar en consideración los proyectos que se prevea iniciar en el ejercicio fiscal correspondiente, aquéllos que ya hubieran iniciado algún procedimiento de contratación y los proyectos que ya estén en operación. Dichos compromisos serán acordes con las posibilidades agregadas de gasto y de financiamiento del sector público federal.
 
-Para tal efecto, la Secretaría de Hacienda y Crédito Público, con base en las proyecciones macroeconómicas utilizadas en la programación del Gobierno Federal, elaborará una estimación preliminar de los montos máximos anuales de inversión para tales proyectos, a fin de atender la inversión requerida tanto de los nuevos proyectos que pretendan iniciar las dependencias o entidades durante el siguiente ejercicio fiscal, como de aquéllos ya autorizados, incluyendo, en su caso, las actualizaciones de éstos últimos.
+Para efectos del párrafo anterior, la Secretaría de Hacienda y Crédito Público, con base en las proyecciones macroeconómicas utilizadas en la programación y los requerimientos financieros del sector público y, de acuerdo a la metodología que establezca, elaborará una estimación del monto máximo anual del gasto programable para los proyectos de asociaciones público-privadas, a fin de atender los compromisos de pago requeridos, tanto de los nuevos proyectos que pretendan iniciar las dependencias o entidades durante el siguiente ejercicio fiscal, como de aquéllos ya autorizados.
 
-Los proyectos de asociación público-privada que se pretendan realizar, y los proyectos en proceso o en marcha que se pretendan incorporar a dicho esquema, serán analizados y autorizados por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, para los efectos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a fin de determinar la prelación y su inclusión en un capítulo específico del proyecto de Presupuesto de Egresos, así como su orden de ejecución, considerando, en el marco del sistema de planeación democrática del desarrollo nacional, la congruencia con el Plan Nacional de Desarrollo y el programa sectorial, institucional, regional o especial, de acuerdo a lo determinado por la dependencia o entidad correspondiente conforme al artículo 15, fracción IV de esta Ley.
+Para efectos del artículo 41 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente además de contener lo previsto en dicho artículo, incluirá los proyectos de asociaciones público-privadas autorizados por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación en los términos del quinto párrafo de este artículo, así como la estimación del monto máximo anual del gasto programable para los proyectos de asociaciones público-privadas a que se refiere el párrafo anterior.
 
-En el proyecto de decreto de Presupuesto de Egresos de cada ejercicio se deberá prever, en un capítulo específico y por sector, los compromisos plurianuales de gasto que deriven de los proyectos de asociación público privada para que, en su caso dichos compromisos sean aprobados por la Cámara de Diputados a fin de proceder a la contratación y ejecución de los proyectos. Asimismo, se deberá presentar la descripción de cada uno de los proyectos, montos erogados o por erogar conforme las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario, así como el monto de los pagos anuales comprometidos.
+Cuando se pretendan realizar nuevos proyectos de asociación público-privada, así como cambios sobre el alcance de los proyectos previamente autorizados y, dichos proyectos involucren recursos del Presupuesto de Egresos de la Federación, serán analizados y, en su caso, autorizados durante el ejercicio fiscal de que se trate, por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, la cual deberá ajustarse al monto máximo anual del gasto programable aprobado por la Cámara de Diputados.
 
-En los informes trimestrales que el Ejecutivo federal, por conducto de la Secretaría de Hacienda y Crédito Público presente al Congreso de la Unión, se deberán señalar los montos asignados para la etapa de preparación de los proyectos.
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, remitirá los proyectos a que se refiere el párrafo anterior a la Cámara de Diputados para someterlos a la consideración de la Comisión de Presupuesto y Cuenta Pública, la cual deberá emitir resolución en un plazo no mayor a treinta días naturales contado a partir de recibida la información, en caso de que dicha Comisión no resuelva en el plazo señalado dichos proyectos se entenderán por aprobados.
+
+El proyecto de Presupuesto de Egresos de la Federación de cada ejercicio fiscal deberá prever, en un capítulo específico y por sector, los compromisos plurianuales de gasto que deriven de los proyectos de asociación público-privada aprobados en ejercicios fiscales anteriores, así como los proyectos que hayan sido aprobados por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación a la fecha de presentación del proyecto de Presupuesto de Egresos de la Federación, los cuales no podrán exceder la estimación sobre el monto máximo anual del gasto programable propuesto. La información a que se refiere este párrafo deberá considerar la descripción de cada uno de los proyectos, montos erogados acumulados conforme a las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario, así como el monto de los pagos anuales comprometidos en el caso de aquellos proyectos que hayan sido contratados.
+
+En los informes trimestrales que el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, presente al Congreso de la Unión, se deberán señalar los montos asignados para la etapa de preparación de los proyectos de asociación público-privada, así como los proyectos autorizados por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación durante el periodo que se reporta y aquellos en proceso de revisión, incluyendo su descripción, monto total de inversión y dependencia o entidad contratante. La información antes mencionada será turnada a la Comisión respectiva de la Cámara de Diputados.
 
 ###### Artículo 25.
 
@@ -322,35 +360,43 @@ Cuando por las condiciones especiales del proyecto se requiera la intervención 
 
 Cualquier interesado en realizar un proyecto de asociación público-privada podrá presentar su propuesta a la dependencia o entidad federal competente.
 
-Para efecto de lo anterior, las dependencias o entidades podrán señalar, mediante acuerdo publicado en el Diario Oficial de la Federación y en su página en Internet, los sectores, subsectores, ámbitos geográficos, tipo de proyectos y demás elementos de las propuestas que estén dispuestas a recibir. En estos casos, sólo se analizarán las propuestas que atiendan los elementos citados.
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+Para efectos del párrafo anterior, las dependencias o entidades federales podrán publicar en el Diario Oficial de la Federación y en su página de Internet, un acuerdo mediante el cual determinen las propuestas de proyectos de asociación público-privada que estarán dispuestas a recibir, especificando como mínimo los sectores, subsectores, ámbitos geográficos, tipo de proyectos, metas físicas estimadas, fechas previstas de inicio de operación, o beneficios esperados, así como su vinculación con los objetivos nacionales, estrategias y prioridades contenidas en el Plan Nacional de Desarrollo y en los programas sectoriales, institucionales, regionales y especiales que de él deriven. En estos casos, sólo se analizarán por las dependencias o entidades las propuestas recibidas que atiendan los elementos citados.
+
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
 
 ###### Artículo 27.
 
-Sólo se analizarán las propuestas de proyectos de asociación pública-privada que cumplan con los requisitos siguientes:
+Las propuestas a que se refiere el artículo anterior, deberán cumplir los requisitos siguientes:
 
-I. Se presenten acompañadas con el estudio preliminar de factibilidad que deberá incluir los aspectos siguientes:
+I. Se presentarán acompañadas con el estudio preliminar de factibilidad que deberá incluir los aspectos siguientes:
 
-a. Descripción del proyecto que se propone, con sus características y viabilidad técnicas;
+a) Descripción del proyecto que se propone, con sus características y viabilidad técnicas;
 
-b. Descripción de las autorizaciones para la ejecución de la obra que, en su caso, resultarían necesarias, con especial mención a las autorizaciones de uso de suelo de los inmuebles de que se trate, sus modificaciones y la eventual problemática de adquisición de éstos;
+b) Descripción de las autorizaciones para la ejecución de la obra que, en su caso, resultarían necesarias, con especial mención a las autorizaciones de uso de suelo de los inmuebles de que se trate, sus modificaciones y la eventual problemática de adquisición de éstos;
 
-c. La viabilidad jurídica del proyecto;
+c) La viabilidad jurídica del proyecto;
 
-d. La rentabilidad social del proyecto;
+d) En su caso, la rentabilidad social del proyecto;
 
-e. Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto federales y de los particulares como, en su caso, estatales y municipales, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el proyecto;
+e) La conveniencia de llevar a cabo el proyecto mediante un esquema de asociación público-privada;
 
-f. La viabilidad económica y financiera del proyecto; y
+f) Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto federales y de los particulares como, en su caso, estatales y municipales, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el proyecto;
 
-g. Las características esenciales del contrato de asociación público-privada a celebrar. En el evento de que la propuesta considere la participación de dos o más personas morales del sector privado, las responsabilidades de cada participante de dicho sector;
+g) La viabilidad económica y financiera del proyecto, y
 
-II. Los proyectos se encuentren en los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad competente haya expedido conforme al segundo párrafo del artículo 26 inmediato anterior; y
+h) Las características esenciales del contrato de asociación público-privada a celebrar. En el evento de que la propuesta considere la participación de dos o más personas morales del sector privado, las responsabilidades de cada participante de dicho sector;
 
-III. No se trate de proyectos previamente presentados y ya resueltos.
+II. Los proyectos se encuentren en los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad competente haya expedido conforme al segundo párrafo del artículo 26 de esta Ley, y
 
-El Reglamento señalará los alcances de los requisitos mencionados en las anteriores fracciones, sin que puedan establecerse requisitos adicionales.
+III. No se trate de propuestas no solicitadas previamente presentadas y ya resueltas.
 
-Si la propuesta incumple alguno de los requisitos, o los estudios se encuentran incompletos, la propuesta no será analizada.
+El Reglamento señalará los alcances de los requisitos mencionados en las fracciones del párrafo anterior, sin que pueda establecer requisitos adicionales.
+
+Si la propuesta no solicitada incumple alguno de los requisitos a que se refiere este artículo, o los estudios se encuentran incompletos, no será analizada.
+
+En los informes trimestrales que el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, presente al Congreso de la Unión, se deberán señalar las propuestas no solicitadas que las dependencias y entidades hayan recibido durante el período que se reporta, que cumplan con todos los requisitos establecidos en el presente artículo.
 
 ###### Artículo 28.
 
@@ -362,7 +408,9 @@ En el análisis de las propuestas, la dependencia o entidad podrá requerir por 
 
 Asimismo, podrá transferir la propuesta a otra dependencia o entidad del sector público federal, o invitar a estas y otras instancias del ámbito estatal y municipal a participar en el proyecto.
 
-Para la evaluación de la propuesta deberán considerarse, entre otros aspectos, que se refiera a un proyecto de interés público y rentabilidad social congruente con el Plan Nacional de Desarrollo y con los programas sectoriales y regionales que, en su caso, correspondan.
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+Para la evaluación de la propuesta no solicitada deberá considerarse, entre otros aspectos, la alineación a los objetivos, metas y estrategias nacionales, sectoriales, institucionales, especiales o regionales; la rentabilidad social del proyecto de asociación público-privada, en caso de ser aplicable; la conveniencia para llevar a cabo dicho proyecto mediante un esquema de asociación público-privada; las estimaciones de inversiones y aportaciones, y la viabilidad económica-financiera.
 
 ###### Artículo 30.
 
@@ -370,9 +418,11 @@ Transcurrido el plazo para evaluación de la propuesta y, en su caso, su prórro
 
 La aludida opinión se notificará al promotor y deberá publicarse en la página de Internet de la dependencia o entidad y en CompraNet, dentro de los cinco días hábiles siguientes a la fecha en que haya sido emitida, sin incluir información reservada o confidencial en términos de las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 31.
 
-Si el proyecto es procedente y la dependencia o entidad decide celebrar al concurso, éste se realizará conforme a lo previsto en el capítulo cuarto de la presente Ley y las disposiciones siguientes:
+Si la propuesta no solicitada es procedente y la dependencia o entidad decide celebrar el concurso, éste se realizará conforme a lo previsto en el capítulo cuarto de la presente Ley y las disposiciones siguientes:
 
 I. La dependencia o entidad convocante entregará al promotor del proyecto un certificado en el que se indicará el nombre del beneficiario, monto, plazo y demás condiciones para el reembolso de los gastos incurridos por los estudios realizados, para el evento de que el promotor no resulte ganador o no participe en el concurso. Este reembolso será con cargo al adjudicatario del contrato, en los términos que se indiquen en las bases del concurso.
 
@@ -384,7 +434,9 @@ a. Otorgar sin limitación alguna toda la información relativa al proyecto, que
 
 b. Ceder los derechos y otorgar las autorizaciones en materia de derechos de autor y propiedad industrial, así como cualquier otra para que el proyecto pueda desarrollarse en el evento de que el ganador del concurso sea distinto al mismo promotor;
 
-III. La dependencia o entidad podrá contratar con terceros, conforme al artículo 20 de esta Ley, evaluación de los proyectos o la realización de estudios complementarios que se requieran para convocar al concurso;
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+III. La dependencia o entidad podrá contratar con terceros, conforme al artículo 20 de esta Ley, la evaluación de los proyectos o la realización de estudios complementarios que se requieran para convocar al concurso;
 
 IV. La convocatoria al concurso se realizará siempre y cuando se hayan cumplido todos los requisitos de la sección primera del capítulo segundo de esta Ley y de las fracciones I y II del presente artículo.
 
@@ -672,7 +724,9 @@ Contra el fallo que adjudique el concurso procederá, a elección del participan
 
 I. El recurso administrativo de revisión, de conformidad con la Ley Federal de Procedimiento Administrativo; o
 
-II. El juicio de nulidad ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+II. El juicio contencioso administrativo federal, de conformidad con la Ley Federal de Procedimiento Contencioso Administrativo.
 
 Contra las demás resoluciones de la convocante emitidas durante el concurso no procederá instancia ni medio ordinario de defensa alguno y, en caso de alguna irregularidad en tales resoluciones, ésta podrá ser combatida con motivo del fallo.
 
@@ -738,7 +792,9 @@ VI. Se acredite la celebración de una alianza estratégica que lleven a cabo la
 
 La adjudicación de los proyectos a que se refiere este artículo se realizará preferentemente a través de invitación a cuando menos tres personas, salvo que las circunstancias particulares ameriten realizarlas mediante adjudicación directa.
 
-No procederá la adjudicación directa tratándose de proyectos no solicitados a que se refiere el capítulo tercero de la presente Ley.
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+No procederá la adjudicación directa tratándose de propuestas no solicitadas a que se refiere el capítulo tercero de la presente Ley.
 
 ###### Artículo 65.
 
@@ -976,7 +1032,9 @@ Cuando el contrato de asociación público-privada se modifique, deberán revisa
 
 El contrato de asociación público- privada sólo podrá celebrarse con particulares personas morales cuyo objeto social o fines sean, de manera exclusiva, realizar aquellas actividades necesarias para desarrollar el proyecto respectivo. El objeto social también podrá incluir la participación en el concurso correspondiente.
 
-Las bases del concurso señalarán el capital mínimo sin derecho a retiro, limitaciones estatutarias y demás requisitos que dicha sociedad o fideicomiso deberá cumplir.
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+Las bases del concurso señalarán el capital mínimo sin derecho a retiro, limitaciones estatutarias y demás requisitos que dicha sociedad deberá cumplir.
 
 ###### Artículo 92.
 
@@ -998,7 +1056,9 @@ VII. El régimen financiero del proyecto, con las contraprestaciones a favor del
 
 VIII. La mención de que los inmuebles, bienes y derechos del proyecto sólo podrán ser afectados en términos del artículo 93 siguiente;
 
-IX. Los términos y condiciones conforme a los cuales el desarrollador deberá pactar con sus respectivos acreedores, en caso de incumplimiento frente a éstos, la transferencia temporal del control del (sic) la propia sociedad desarrolladora a los acreedores de ésta, previa autorización de la dependencia o entidad contratante;
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+IX. Los términos y condiciones conforme a los cuales el desarrollador deberá pactar con sus respectivos acreedores, en caso de incumplimiento frente a éstos, la transferencia temporal del control de la propia sociedad desarrolladora a los acreedores de ésta, previa autorización de la dependencia o entidad contratante;
 
 X. El régimen de distribución de riesgos, técnicos, de ejecución de la obra, financieros, por caso fortuito o fuerza mayor y de cualquier otra naturaleza, entre las partes, que en todo caso deberá ser equilibrado. Las dependencias y entidades no podrán garantizar a los desarrolladores ningún pago por concepto de riesgos distintos de los establecidos en el contrato o bien establecidos por mecanismos diferentes de los señalados por esta ley y su reglamento;
 
@@ -1006,7 +1066,9 @@ XI. El plazo para el inicio y terminación de la obra, para el inicio en la pres
 
 XII. La indicación de las autorizaciones para el desarrollo del proyecto;
 
-XIII. Los supuestos de rescisión y terminación anticipada del contrato, de sus efectos, así como los términos y condiciones para llevarlas a cabo;
+> <small>(REFORMADA, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+XIII. Los supuestos de rescisión y terminación anticipada del contrato y sus efectos, incluyendo las obligaciones, reembolsos y penas convencionales que, según sea el caso, deriven de las mismas, así como los términos y condiciones para realizarlas;
 
 XIV. El régimen de penas convencionales y de sanciones por incumplimiento de las obligaciones de las partes;
 
@@ -1072,9 +1134,11 @@ Lo anterior, sin perjuicio de las demás autorizaciones que, conforme a las disp
 
 Los plazos de los contratos, con sus prórrogas, no deberán exceder, en su conjunto, de cuarenta años salvo lo dispuesto por el artículo 87, fracción II, de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 99.
 
-Cuando en las bases del concurso se prevea que el desarrollador otorgue garantías, el costo de éstas -en su conjunto- no deberá exceder:
+Cuando en las bases del concurso se prevea que el desarrollador otorgue garantías, el monto de éstas, en su conjunto, no deberá exceder:
 
 I. Durante la construcción de la infraestructura de que se trate, del equivalente al quince por ciento del valor de las obras; y
 
@@ -1172,17 +1236,23 @@ En caso de concurso mercantil del desarrollador, la autoridad que conozca del mi
 
 #### Sección Cuarta. De la Intervención del Proyecto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 112.
 
-La dependencia o entidad contratante podrá intervenir en la preparación, ejecución de la obra, prestación de los servicios, o en cualquier otra etapa del desarrollo de un proyecto de asociación público-privada, cuando a su juicio el desarrollador incumpla sus obligaciones, por causas imputables a ésta, y ponga en peligro grave el desarrollo mismo del proyecto.
+La dependencia o entidad contratante podrá intervenir en la preparación, ejecución de la obra, prestación de los servicios o, en cualquier otra etapa del desarrollo de un proyecto de asociación público-privada, cuando a su juicio el desarrollador incumpla sus obligaciones, por causas imputables a éste, y ponga en peligro el desarrollo mismo del proyecto.
 
 Para tales efectos, deberá notificar al desarrollador la causa que motiva la intervención, y señalar un plazo para subsanarla. Si dentro del plazo establecido la desarrolladora no la corrige, la dependencia o entidad contratante procederá a la intervención, sin perjuicio de las sanciones y responsabilidades en las que, en su caso, incurra el desarrollador.
 
-En estos supuestos, y según se haya convenido en el contrato respectivo, podrá procederse a la terminación anticipada del propio contrato.
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
+En estos supuestos, y según se haya convenido en el contrato respectivo, la dependencia o entidad podrá proceder a la rescisión del propio contrato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ABRIL DE 2016)</small>
 
 ###### Artículo 113.
 
-En la intervención, corresponderá a la dependencia o entidad contratante la ejecución de la obra o prestación del servicio y, en su caso, las contraprestaciones que por este último correspondan. Al efecto, podrá designar a uno o varios interventores, utilizar al personal que el desarrollador venía utilizando y contratar a un nuevo constructor u operador.
+En la intervención, corresponderá a la dependencia o entidad contratante la ejecución de la obra o prestación del servicio, así como recibir, en su caso, los ingresos generados por el proyecto, sin perjuicio de lo previsto en el artículo 115 de la presente Ley. Al efecto, podrá designar a uno o varios interventores, utilizar el personal que el desarrollador venía utilizando o contratar a un nuevo constructor u operador en términos de la presente Ley.
 
 La intervención no afectará los derechos adquiridos por terceros de buena fe relacionados con el proyecto.
 
@@ -1448,11 +1518,11 @@ Las autoridades que conozcan de las controversias que se susciten de la interpre
 
 #### Sección Cuarta. Disposiciones Comunes del Capítulo de Controversias
 
+> <small>(REFORMADO, D.O.F. 21 DE ABRIL DE 2016)</small>
+
 ###### Artículo 142.
 
-Para iniciar cualquier procedimiento administrativo o jurisdiccional, relativo a actos referidos a la presente Ley o a las disposiciones que de ella emanen, los particulares deberán otorgar garantía para cubrir las multas, daños y perjuicios que puedan llegar a originarse.
-
-El Reglamento señalará los montos, términos y condiciones de estas garantías.
+Para iniciar cualquier procedimiento administrativo o jurisdiccional, relativo a actos referidos a la presente Ley o a las disposiciones que de ella emanen, los particulares deberán otorgar garantía para cubrir las multas, daños y perjuicios que puedan llegar a originarse en términos de las disposiciones jurídicas que rigen dichos procedimientos.
 
 ###### Artículo 143.
 
@@ -1739,3 +1809,15 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 21 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los proyectos de asociaciones público-privadas que se encuentren en proceso de autorización a la entrada en vigor del presente Decreto se sujetarán a las disposiciones del mismo.
+
+Tercero. El Ejecutivo Federal deberá realizar las modificaciones que, como consecuencia de lo previsto en el presente Decreto, sean necesarias al Reglamento de la Ley de Asociaciones Público Privadas, a más tardar a los ciento ochenta días hábiles siguientes a la entrada en vigor de dicho Decreto.
+
+Cuarto. A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan al presente ordenamiento.
