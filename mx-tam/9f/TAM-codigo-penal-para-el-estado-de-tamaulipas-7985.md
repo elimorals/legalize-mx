@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2015-06-13"
+last_updated: "2016-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4765,15 +4765,19 @@ Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho
 
 Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho años de prisión.
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 426.
 
 Al que sin derecho obligue a otro hacer, tolerar o dejar de hacer algo, obteniendo un lucro para sí o para otro y causando un perjuicio patrimonial, se le aplicarán las penas previstas para el delito de robo.
+
+### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 427.
 
@@ -5147,19 +5151,71 @@ III. Un área verde en suelo urbano.
 
 Se aplicará la misma sanción prevista en este artículo a quien independientemente de haber obtenido el permiso o autorización respectiva, no observe los lineamientos, condicionantes o métodos de extracción o explotación previstos para tal efecto.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 467.
+
+Comete el delito de privación de la vida, lesiones, malos tratos, crueldad o tortura contra cualquier especie animal, quien ejecute una o varias de esas conductas, sin fines deportivos, científicos, o bien sin contar con autorización legal de la autoridad competente, y se le sancionará conforme a lo dispuesto por el artículo 469 del presente Código.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 468.
+
+Son considerados actos de crueldad o tortura, además de los establecidos en la Ley de Protección a los Animales para el Estado de Tamaulipas, los siguientes:
+
+I.- Mutilar cualquier parte del cuerpo de un animal, salvo que el acto tenga fines de mejoramiento, marcación o higiene de la respectiva especie animal o se realice con motivo de evitarle sufrimientos mayores al animal;
+
+II.- Intervenir quirúrgicamente a animales sin anestesia, salvo el caso de urgencia debidamente comprobada;
+
+III.- Experimentar con animales pudiendo utilizar otros métodos para obtener el resultado deseado o se utilicen animales de grado superior en la escala zoológica al indispensable según la naturaleza del protocolo de investigación;
+
+IV.- Exponer al animal a riesgos que amenacen su integridad física o la de terceras personas;
+
+V.- Lastimar o arrollar animales intencionalmente, causándoles torturas o sufrimientos innecesarios o matarlos por el ánimo de perversidad o diversión;
+
+VI.- Realizar actos privados de riñas de animales y cualquier acción o espectáculo en que se mate, hiera u hostilice a los animales, salvo el caso de espectáculos debidamente autorizados y que utilicen animales permitidos de conformidad a las leyes generales y locales;
+
+VII.- Provocar la muerte por cualquier medio a un animal, sin respetar las disposiciones normativas aplicables en los casos de rastros y lugares destinados al sacrificio de animales por cuestiones alimentarias, sanitarias o de otro tipo que se encuentre debidamente regulada.
+
+En el caso de veterinarios o personas que tengan a su cuidado refugios de animales domésticos que incurran en alguna de las conductas consideradas como maltrato animal, la autoridad judicial ordenará la suspensión de su licencia para ejercer la actividad relativa hasta por dos años, y en caso de reincidencia hasta por cinco años o de manera definitiva.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 469.
+
+Quien incurra en conductas que pongan en peligro a un animal de cualquier especie que no constituya plaga ni se encuentre considerada como riesgo para la salud del hombre, que deriven en maltrato, tortura y/o provocándole la muerte, se le impondrá de dos meses a dos años de prisión y de doscientos a quinientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, los cuales podrán ser puestos bajo los cuidados de las Asociaciones protectoras de animales debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
+
+En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad. Se entenderá por métodos que provoquen una muerte no inmediata las que prolonguen la agonía del animal, ya sea por las lesiones que provoca o el detrimento de la salud del animal.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 470.
+
+La pena a imponer en el artículo anterior podrá ser sustituida en los términos de Ley, por servicios comunitarios a cargo del infractor relacionado con el cuidado y la protección de animales en centros antirrábicos o refugios para animales operados por la autoridad municipal o por organismos civiles debidamente registrados.
+
+Las organizaciones civiles debidamente registradas podrán solicitar al Ministerio Público el resguardo temporal, tenencia o adopción definitiva de los animales domésticos que sufran maltrato.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### ARTICULO 471.
+
+Son excluyentes de delito las lesiones o muerte del animal, que se causen con la finalidad de evitar un mal igual o mayor a una persona o animal, no se aplicará sanción alguna siempre y cuando se justifique el hecho, sean racionales los medios de defensa que se utilizaron durante el acontecimiento y/o existieran otras formas de salvaguardar la integridad de la persona o animal en peligro.
+
+Los delitos señalados en el presente Capítulo se perseguirán de oficio.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-###### ARTICULO 467.
+###### ARTICULO 472.
 
-El Ministerio Público tan pronto tenga conocimiento de la comisión de algún delito previsto en el presente Titulo, inmediatamente dará vista a la autoridad ambiental estatal, a fin de determinar el daño ambiental causado y las acciones de su competencia, para evitar la propagación de daños y la mitigación del mismo.
+El Ministerio Público tan pronto tenga conocimiento de la comisión de algún delito previsto en el presente Título, inmediatamente dará vista a la autoridad ambiental estatal, a fin de determinar el daño ambiental causado y las acciones de su competencia, para evitar la propagación de daños y la mitigación del mismo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-###### ARTICULO 468.
+###### ARTICULO 473.
 
 La autoridad ambiental proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le solicite el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por delitos en contra del medio ambiente y los recursos naturales.
 
@@ -5167,7 +5223,7 @@ La autoridad ambiental proporcionará, en las materias de su competencia, los di
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-###### ARTICULO 469.
+###### ARTICULO 474.
 
 Cuando una o más de las conductas descritas en el presente Capítulo resulte cometida a nombre, bajo el amparo o en beneficio de una persona, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de su responsabilidad penal en los hechos ejecutados por las personas físicas en la comisión del delito.
 
@@ -5175,7 +5231,7 @@ Cuando una o más de las conductas descritas en el presente Capítulo resulte co
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-###### ARTICULO 470.
+###### ARTICULO 475.
 
 El juez, de oficio o a petición de parte, podrá reducir las penas correspondientes a los delitos previstos en el presente Título, hasta en tres cuartas partes, cuando el acusado, en forma voluntaria y sin que medie resolución administrativa que le imponga alguna obligación, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizar la conducta delictiva o, cuando ello no sea posible, mediante la ejecución de acciones y obras que compensen los daños ambientales que se hubieren generado, con excepción de los delitos cometidos por servidores públicos.
 
@@ -5764,6 +5820,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Las disposiciones relativas al delito de violencia familiar previsto en el artículo 368 Bis del Código Penal para el Estado de Tamaulipas, reformado mediante el presente Decreto, seguirá aplicándose a las personas procesadas o sentenciadas por este delito previsto y sancionado por el mismo artículo, hasta antes de la entrada en vigor del presente Decreto.
 
 P.O. 13 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-941 MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO V DENOMINADO “PRIVACIÓN DE LA VIDA, MALTRATO O CRUELDAD ANIMAL” AL TÍTULO VIGÉSIMO TERCERO DEL LIBRO SEGUNDO, CON LOS ARTÍCULOS 467, 468, 469, 470 Y 471, RECORRIÉNDOSE EN EL ORDEN SUBSECUENTE EL ACTUAL PARA SER CAPÍTULO VI CON LOS ARTÍCULOS 472, 473, 474 Y 475 TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
