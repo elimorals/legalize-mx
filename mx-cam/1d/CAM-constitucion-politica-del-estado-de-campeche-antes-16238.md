@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2015-09-14"
+last_updated: "2016-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -935,9 +935,9 @@ XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustit
 
 XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo estatal de protección de los derechos humanos, el cual tendrá autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. Dichos Organismos conocerán de quejas en contra de actos u omisiones de naturaleza administrativa, proveniente de cualquier autoridad o servidor público de orden estatal o municipal, con excepción de asuntos electorales y jurisdiccionales; formularán recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas; podrá ejercitar la acción de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma expedida por la legislatura local y los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que México sea parte.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-XIX Bis.- Expedir la ley que asegure el ejercicio y respeto del derecho de acceso a la información pública y garantice la transparencia en los actos y decisiones de las dependencias y entidades que conforman la Administración Pública Estatal, centralizada y paraestatal; los órganos de los Poderes Legislativo y Judicial; los organismos públicos autónomos y los Ayuntamientos y sus órganos administrativos auxiliares y paramunicipales; y que regule la integración de la estructura y el funcionamiento del organismo estatal encargado de promover y difundir el ejercicio de ese derecho, de resolver sobre la negativa a las solicitudes de información pública y de proteger los datos personales en poder de aquéllos; organismo estatal que estará investido de autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
+XIX Bis.- Expedir la legislación que asegure y garantice el derecho de acceso a la información pública y protección de datos personales en posesión de los sujetos obligados en el Estado y sus Municipios; y que regule la integración de la estructura y el funcionamiento del organismo estatal encargado de promover y difundir el ejercicio de ese derecho, de resolver sobre la negativa a las solicitudes de información pública y de proteger los datos personales en poder de los sujetos obligados; así como legislar en materia de organización y administración de archivos, conforme a lo dispuesto en las leyes generales de esas materias.
 
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2012)</small>
 
@@ -2181,6 +2181,32 @@ Los que obtengan sentencia condenatoria de prisión, en los casos y condiciones 
 
 El Estado y los municipios, en ejercicio de la función de seguridad pública en sus respectivos ámbitos de competencia, deberán establecer programas de prevención del delito, investigación y persecución del mismo para hacerla efectiva, así como la sanción de las infracciones administrativas; igualmente preservarán las libertades, la paz y el orden públicos en los términos de la legislación respectiva; para tal efecto, podrán celebrar los convenios de coordinación necesarios en los términos que establezca la Ley. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+
+###### ARTÍCULO 125 Bis.
+
+En el Estado de Campeche se contará con un organismo autónomo, especializado, imparcial y colegiado, responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos estatal y municipal.
+
+El organismo garante del derecho de acceso a la información y de protección de datos personales estará integrado por tres miembros, denominados Comisionados, mismos que serán nombrados por el Congreso del Estado por un período de seis años, sin posibilidad de reelegirse. En la designación de los Comisionados se procurará la igualdad de género.
+
+En su funcionamiento, el organismo garante del derecho de acceso a la información y de protección de datos personales se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Para ser Comisionado del organismo garante se deberán satisfacer los siguientes requisitos:
+
+a) Ser mexicano en pleno goce de sus derechos civiles y políticos;
+
+b) Tener, al menos, treinta y cinco años cumplidos al día de su designación;
+
+c) Contar con título profesional expedido por autoridad o institución legalmente facultada para ello;
+
+d) Tener una residencia mínima de dos años en el Estado;
+
+e) No haber sido sentenciado condenatoriamente por delito grave ni estar inhabilitado para el servicio público; y
+
+f) No ser ni haber sido dirigente de algún partido político, asociación religiosa, ministro de culto o secretario de alguna dependencia de los ámbitos federal, estatal o municipal, por lo menos un año antes del momento en que se realice su designación como Comisionado.
+
+La estructura administrativa, la organización y el funcionamiento del organismo garante en materia de transparencia y de protección de datos personales, así como el procedimiento de elección y sustitución de los Comisionados se establecerán en la legislación secundaria estatal en materia de transparencia.
+
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 126.
@@ -2850,3 +2876,15 @@ Primero.- El presente decreto entrará en vigor el día 1° de enero del año si
 Segundo.- El Congreso del Estado, contará con un plazo de un año a partir de la entrada en vigor del presente decreto para expedir la correspondiente ley de responsabilidad patrimonial, así como para adecuar la legislación estatal en lo conducente. El Estado y los Municipios incluirán en sus respectivos presupuestos de egresos, en sus casos, una partida específica para hacer frente a su responsabilidad patrimonial a partir del ejercicio fiscal que corresponda.
 
 Tercero.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
+
+P.O. 21 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 51 POR EL QUE “SE REFORMA LA FRACCIÓN XIX BIS DEL ARTÍCULO 54 Y SE ADICIONA EL ARTÍCULO 125 BIS AL CAPÍTULO XX DENOMINADO "PREVENCIONES GENERALES" DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido del presente decreto.
+
+TERCERO.- El Congreso del Estado expedirá oportunamente la legislación secundaria, dentro de los plazos previstos en el artículo quinto transitorio de la Ley General de Transparencia y Acceso a la Información Pública.
+
+CUARTO.- La Comisión de Transparencia y Acceso a la Información Pública del Estado, tomará las previsiones presupuestales que en su caso resulten necesarias para el cumplimiento de las obligaciones que se deriven de este decreto.
