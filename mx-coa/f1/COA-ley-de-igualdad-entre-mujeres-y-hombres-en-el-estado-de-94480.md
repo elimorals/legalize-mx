@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-03-22"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -51,23 +51,23 @@ Es reglamentaria del párrafo sexto del artículo 173, de la Constitución Polí
 
 Tiene como eje principal, que las mujeres y los hombres son iguales en dignidad humana y homogéneos en derechos y deberes.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### Artículo 2.
 
-Objeto de la ley.
+Objeto de la ley
 
-El objeto de esta ley es:
+El objeto de la presente ley es:
 
-I. Regular y garantizar la igualdad entre mujeres y hombres;
+I. Establecer un marco jurídico que regule y garantice la igualdad sustantiva entre mujeres y hombres;
 
-II. Proponer los lineamientos y mecanismos institucionales que orienten a las autoridades competentes del estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado;
+II. Instaurar lineamientos y mecanismos que orienten a las instituciones y a las autoridades competentes del estado hacia la igualdad sustantiva de mujeres y hombres en los ámbitos público y privado;
 
-III. Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres;
+III. Promover el empoderamiento y la superación positiva de las mujeres;
 
-IV. Impulsar la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida y, singularmente, en las esferas política, civil, laboral, económica, social y cultural;
+IV. Crear mecanismos de erradicación de la discriminación con base en el sexo. Lo anterior, sin importar condición en cualquier ámbito de la vida y procurando el enfoque en las esferas política, civil, laboral, económica, social y cultural;
 
-V. Promover la superación de las mujeres; y,
-
-VI. Desarrollar la normatividad que en materia de igualdad entre mujeres y hombres, prevén la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Coahuila de Zaragoza, para alcanzar una sociedad más democrática, justa y solidaria.
+V. Impulsar el desarrollo de normas en materia de igualdad y equidad entre mujeres y hombres previstos por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado de Coahuila de Zaragoza. Esto con el fin de alcanzar una sociedad más justa, solidaria y democrática mediante principios establecidos en la ley para la correcta actuación de los poderes públicos, respecto de los derechos y deberes de las personas en las esferas públicas y privadas a través de medidas que corrijan y eliminen toda forma de discriminación por razones de sexo en cualquier ámbito.
 
 A estos efectos, la ley establece principios de actuación de los poderes públicos, regula derechos y deberes de las personas físicas y jurídicas, tanto públicas como privadas, y prevé medidas destinadas a eliminar y corregir en los sectores público y privado, toda forma de discriminación por razón de sexo.
 
@@ -105,45 +105,49 @@ Interpretación y aplicación.
 
 La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas de esta ley.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### Artículo 8.
 
 Glosario.
 
 Para los efectos de esta ley se entenderá por:
 
-I. Principio de igualdad de oportunidades: Que la mujer y el hombre deben acceder a las mismas oportunidades y recibir el mismo trato, y es contrario a toda discriminación basada en el sexo por lo cual son sujetos de los mismos derechos y obligaciones sin importar las diferencias de género.
+I. Acciones afirmativas. Son el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres.
 
-II. Acciones positivas.- El conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres.
+II. Discriminación contra las Mujeres. Es toda distinción, exclusión, restricción o preferencia basada (sic) que sufran las mujeres que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
 
-III. Superación.- Un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio consciente y mesurado del poder democrático que emana del disfrute pleno de sus derechos y libertades.
+III. Discriminación indirecta. La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.
 
-IV. Igualdad entre mujeres y hombres.- La eliminación de toda forma de discriminación, en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo, independientemente del origen étnico, edad, discapacidad, preferencia sexual, condición social, o económica, estado civil, condiciones de salud, embarazo, lengua, religión, opiniones o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades, así como la distribución de obligaciones familiares
+IV. Entidades públicas. Los organismos públicos autónomos, las dependencias y entidades señaladas en la Constitución Política del Estado de Coahuila de Zaragoza, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley Orgánica del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza, y el Código Municipal para el Estado de Coahuila de Zaragoza, en las demás leyes, decretos y ordenamientos jurídicos mediante los cuales se creen organismos de derecho público, así como los entes privados que reciban recursos públicos y los demás que disponga la ley.
 
-V. Equidad de género.- Concepto que refiere al principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyendo aquéllos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar.
+V. Empoderamiento de las mujeres. Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
 
-VI. Perspectiva de género.- Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género.
+VI. Estado. Estado de Coahuila de Zaragoza.
 
-VII. Transversalidad.- El proceso que permite garantizar la incorporación de la perspectiva de género para valorar las implicaciones que tiene en las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+VII. Estereotipo sexual. Una idea fija y rígida que se perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino.
 
-VIII. Discriminación directa.- La situación en que se encuentra una persona que es, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación similar.
+VIII. Igualdad entre mujeres y hombres. La eliminación de toda forma de discriminación, en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo, independientemente del origen étnico, edad, discapacidad, preferencia sexual, condición social, o económica, estado civil, condiciones de salud, embarazo, lengua, religión, opiniones o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades, así como la distribución de las obligaciones familiares.
 
-IX. Discriminación indirecta.- La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.
+IX. Igualdad formal. Reconocimiento ante la ley, las normas, las políticas públicas, acciones, programas, presupuestos y ante las estructuras de Gobierno de la condición igualitaria entre las mujeres y los hombres mediante la cual se asegura que todas las personas gocen de los mismos derechos.
 
-X. Estereotipo sexual.- Una idea fija y rígida que se perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino.
+X.- Igualdad sustantiva. Condición a la que las mujeres tienen derecho y que el Estado debe garantizar mediante el establecimiento de normas, leyes, política pública, acciones, programas, presupuestos y las medidas necesarias de carácter estructural, social y cultural para lograr el acceso de las mujeres, de cualquier edad, al ejercicio de todos los derechos humanos y libertades; así como al acceso a oportunidades, bienes, servicios, recursos en todos los ámbitos de la vida, eliminando todas las formas de discriminación.
 
-XI. Entidades públicas: Los organismos públicos autónomos, las dependencias y entidades señaladas en la Constitución Política del Estado de Coahuila de Zaragoza, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley Orgánica del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza, y el Código Municipal para el Estado de Coahuila de Zaragoza, en las demás leyes, decretos y ordenamientos jurídicos mediante los cuales se creen organismos de derecho público, así como los entes privados que reciban recursos públicos y los demás que disponga la ley.
+XI. Perspectiva de género. Son la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género.
 
-XII. Sistema nacional: Sistema Nacional para la Igualdad entre Mujeres y Hombres.
+XII. Política estatal. Es la política estatal en materia de igualdad entre mujeres y hombres.
 
-XIII. Sistema estatal.- Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+XIII. Principio de igualdad de oportunidades. Que la mujer y el hombre deben acceder a las mismas oportunidades y recibir el mismo trato. De esta manera, los hombres y las mujeres son sujetos de los mismos derechos y obligaciones sin importar las diferencias de género.
 
-XIV. Programa nacional: Programa Nacional para la Igualdad entre Mujeres y Hombres.
+XIV. Programa estatal. Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
-XV. Programa estatal.- Programa Estatal para la Igualdad entre Mujeres y Hombres.
+XV. Programa nacional. Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
-XVI. Política estatal.- Es la política estatal en materia de igualdad entre mujeres y hombres.
+XVI. Sistema estatal. Sistema Estatal para la Igualdad entre Mujeres y Hombres.
 
-XVII. Estado.- Estado de Coahuila de Zaragoza.
+XVII. Sistema nacional. Sistema Nacional para la Igualdad entre Mujeres y Hombres.
+
+XVIII. Transversalidad. El proceso que permite garantizar la incorporación de la perspectiva de género para valorar las implicaciones que tiene en las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
 
 ## Título II. De las autoridades e instituciones competentes en materia de igualdad entre mujeres y hombres
 
@@ -229,11 +233,21 @@ Corresponde al titular del Ejecutivo:
 
 I. Conducir la política estatal en materia de igualdad entre mujeres y hombres;
 
-II. Crear y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres, mediante las instancias administrativas que se ocupen del adelanto de las mujeres;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-III. Elaborar las políticas públicas estatales, con una proyección de mediano y largo alcance, debidamente armonizadas con los programas nacionales, dando cabal cumplimiento a la presente ley; y,
+II. Incorporar en el presupuesto de egresos del Estado la asignación de recursos para el cumplimiento de las normas y objetivos para el logro de la igualdad entre mujeres y hombres;
 
-IV. Promover, en coordinación con las dependencias de la administración pública federal y municipal, la aplicación de la presente ley.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+III. Crear, vigilar el cumplimiento y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres por medio de instancias administrativas que promuevan la igualdad sustantiva mediante el enfoque de género;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+IV. Elaborar políticas públicas estatales cuyo eje rector sea el enfoque de género y la transversalidad, con una proyección de mediano y largo alcance. Lo anterior debe estar armonizado con los programas nacionales para dar cumplimiento efectivo a esta ley; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+V. Coordinarse con las dependencias de la administración pública federal y municipal para promover la aplicación de la presente ley.
 
 ### Capítulo cuarto. De la Secretaría de las Mujeres
 
@@ -309,25 +323,35 @@ III. Las demás que en la materia le confieran las leyes respectivas.
 
 ### Capítulo primero. De la política estatal en materia de igualdad
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### Artículo 20.
 
 Lineamientos de la política estatal.
 
-La política estatal, deberá establecer las acciones conducentes a lograr la igualdad sustantiva en el ámbito, económico, político, social, cultural y familiar.
-
-Los lineamientos que deberá considerar el Ejecutivo Estatal para el desarrollo e implementación de las políticas públicas en materia de igualdad, son las siguientes:
+La política estatal deberá establecer las acciones que conduzcan a lograr la igualdad sustantiva en los ámbitos económico, político, social, cultural y familiar. Los lineamientos que deberá considerar el Ejecutivo Estatal para el desarrollo e implementación de las políticas públicas en materia de igualdad, son las siguientes:
 
 I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
 
-II. Garantizar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, convenios y acciones para la igualdad entre mujeres y hombres;
+II. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
 
-III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+III. Garantizar que la planeación presupuestal incorpore la perspectiva de género, a la transversalidad y prevea el cumplimiento de programas, proyectos, convenios y acciones para la igualdad entre mujeres y hombres;
 
-IV. Implementar acciones para garantizar la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
+IV. Fomentar la participación y representación políticas de manera equilibrada entre hombres y mujeres;
 
-V. Fomentar el cumplimiento del principio de igualdad entre mujeres y hombres en las relaciones entre particulares, y,
+V. Implementar acciones para garantizar la igualdad de acceso y disfrute de los derechos sociales para las mujeres y los hombres promoviendo la eliminación de estereotipos en función del sexo;
 
-VI. Promover la eliminación de estereotipos establecidos en función del sexo.
+VI. Promover la igualdad entre mujeres y hombres en la vida civil;
+
+VII. Asegurar el cumplimiento del principio de igualdad en las relaciones entre particulares, así como establecer medidas que aseguren corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y los hombres;
+
+VIII. Promover la eliminación de estereotipos establecidos en función del sexo;
+
+IX. Establecer la utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre hombres y mujeres; y
+
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud.
 
 ### Capítulo segundo. De los instrumentos de la política en materia de igualdad entre mujeres y hombres
 
@@ -557,15 +581,25 @@ Son objetivos de la política estatal en materia de igualdad en la vida económi
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica; y.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-III. Impulsar liderazgos igualitarios.
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+III. Impulsar liderazgos igualitarios; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+IV. Instituir medidas que fortalezcan el acceso de las mujeres al empleo y a la aplicación efectiva del principio de igualdad de trato y de no discriminación respecto de las condiciones de trabajo entre mujeres y hombres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
 
 ###### Artículo 41.
 
 Acciones para la igualdad en la vida económica.
 
-Para los efectos de lo previsto en el artículo anterior, las entidades públicas desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las entidades públicas desarrollarán las siguientes acciones para la igualdad en la vida económica:
 
 I. Detectar y analizar los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo; e implementar las acciones para erradicarlos;
 
@@ -573,7 +607,9 @@ II. Implementar los mecanismos necesarios para capacitar a las personas que en r
 
 III. Impulsar acciones que tiendan a erradicar la discriminación en la designación de puestos directivos y toma de decisiones por razón de sexo;
 
-IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos del estado, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia laboral;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+IV. Apoyar y establecer el perfeccionamiento y la coordinación de los sistemas estadísticos del estado, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia laboral;
 
 V. Establecer la coordinación necesaria para garantizar lo establecido en el presente artículo;
 
@@ -583,13 +619,33 @@ VII. Fomentar la adopción voluntaria de programas de igualdad por parte del sec
 
 VIII. Implementar, en coordinación con las autoridades competentes, medidas destinadas a erradicar cualquier tipo de discriminación, violencia o acoso por razón de sexo;
 
-IX. Diseñar, en el ámbito de su competencia, políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-X. Proponer, en el ámbito de su competencia, el otorgamiento de estímulos a las empresas que hayan garantizado la igualdad entre mujeres y hombres;
+IX. Promover condiciones de trabajo que eviten el acoso y el (sic) sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
 
-XI. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico; y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres.
+X. Diseñar, en el ámbito de su competencia, políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XI. Garantizar el derecho a la denuncia por violación a la presente ley en el ámbito laboral y económico;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XIII. Establecer estímulos y certificados de igualdad, los cuales se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+
+a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+b) Que en la integración de la plantilla laboral, que ésta se componga de al menos el cuarenta por ciento de personas de un mismo sexo, y que el diez por ciento del total de la plantilla corresponda a mujeres que ocupen puestos directivos.
+
+c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral.
 
 ### Capítulo cuarto. De la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres
 
@@ -623,7 +679,9 @@ Igualdad en el acceso a los derechos sociales.
 
 Con el fin de promover la igualdad en el acceso a los derechos sociales y el pleno disfrute de éstos, serán objetivos de la política estatal:
 
-I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social local;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social local mediante un enfoque que modifique los patrones socioculturales de conducta que eliminen los prejuicios y las prácticas de superioridad o inferioridad de cualquiera de los sexos, así como de otros estereotipos sociales;
 
 II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad; y,
 
@@ -651,7 +709,25 @@ VII. Promover campañas de concientización para mujeres y hombres sobre su part
 
 VIII. Integrar el principio de igualdad en la formación del personal del servicio de salud, para atender situaciones de violencia de género.
 
-### Capítulo sexto. Del derecho a la información y la participación social en materia de igualdad entre mujeres y hombres
+### Capítulo quinto bis. De la eliminación de estereotipos establecidos en función del sexo
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+Artículo 47 bis. Será objetivo de la Política del Estado la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+Artículo 47 ter. Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
+
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales; y
+
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
 
 ###### Artículo 46.
 
@@ -683,19 +759,39 @@ IV. Apoyar las actividades de interlocución ciudadana respecto a la legislació
 
 V. Reforzar la cooperación y los intercambios de información sobre los derechos humanos e igualdad entre hombres y mujeres, con organizaciones no gubernamentales y organizaciones nacionales de cooperación para el desarrollo;
 
-VI. Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad en los ámbitos público y privado; Implementar y promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-VII. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+VI. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres el derecho a una licencia por paternidad;
 
-VIII. Vigilar la integración de la perspectiva de género en la política pública del estado.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-IX. Impulsar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares, y,
+VII. Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad en los ámbitos público y privado; Implementar y promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
 
-X. Generar estudios, diagnósticos y evaluaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres y difundirlos.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+VIII. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+IX. Vigilar la integración de la perspectiva de género en la política pública del estado.
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+X. Impulsar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XI. Generar estudios, diagnósticos y evaluaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres y difundirlos.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XII. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2016)</small>
+
+### Capítulo sexto. Del derecho a la información y la participación social en materia de igualdad entre mujeres y hombres
 
 ### Capítulo único. Autoridad competente y acciones en materia de observancia
-
-### Capítulo primero. Procedimiento para la igualdad
 
 ###### Artículo 48.
 
@@ -715,13 +811,13 @@ Alcance de los acuerdos en materia de igualdad.
 
 Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus dependencias con el sector público o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta ley.
 
-### Capítulo segundo. Trámite del procedimiento
+### Capítulo primero. Procedimiento para la igualdad
 
-### Capítulo tercero. De las infracciones y sanciones
+### Capítulo segundo. Trámite del procedimiento
 
 ## Título V. De la observancia en materia de igualdad entre mujeres y hombres
 
-### Capítulo cuarto. Recurso de inconformidad
+### Capítulo tercero. De las infracciones y sanciones
 
 ###### Artículo 51.
 
@@ -752,6 +848,8 @@ IV. Difundir información sobre los diversos aspectos relacionados con la iguald
 V. Las demás que sean necesarias para cumplir los objetivos de esta ley.
 
 ## Título VI. Del procedimiento para la igualdad por violaciones a la ley
+
+### Capítulo cuarto. Recurso de inconformidad
 
 ###### Artículo 54.
 
@@ -946,6 +1044,18 @@ P.O. 22 DE MARZO DE 2016.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente Decreto
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 412.- SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
