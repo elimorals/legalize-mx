@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-03-22"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -583,6 +583,14 @@ II. Hacer accesibles las unidades de transporte fabricadas con anterioridad a la
 
 III. Diseñar y ejecutar programas de sensibilización dirigidos a todos los operadores de sus unidades, respecto de los derechos y libertades fundamentales de las personas con discapacidad, así como el respeto debido a los mismos, auxiliados en todo momento por la Comisión Interinstitucional.
 
+> <small>(ADICIONADO. P.O. 22 DE ABRIL DE 2016)</small>
+
+###### Artículo 48° Bis.
+
+El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, brindará el servicio público de transporte especializado para personas con discapacidad en todo el Estado, de acuerdo con el número de personas que requieran este servicio por municipio o región, así como el presupuesto disponible, y lo hará a través de los programas correspondientes.
+
+Las personas físicas o morales que tengan interés en brindar este servicio se sujetarán a las disposiciones que para tal efecto se emitan.
+
 ###### Artículo 49°.
 
 Las personas con discapacidad tienen derecho a la libertad de expresión y opinión; incluida la libertad de recabar, recibir y facilitar información mediante cualquier forma de comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población.
@@ -1096,3 +1104,15 @@ El presente Decreto entrará en vigor al día siguiente de su Publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente decreto.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 410.- SE ADICIONA EL ARTÍCULO 48 BIS A LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
