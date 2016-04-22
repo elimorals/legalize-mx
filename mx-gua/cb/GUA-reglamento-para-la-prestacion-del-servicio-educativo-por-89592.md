@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prestacion-del-servicio-educativo-por-89592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2015-10-06"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "GUA"
 
 REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
-HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77, fracciones II, III Y XXV y 79 de la Constitución Política para el Estado de Guanajuato, y en cumplimiento de lo dispuesto por los artículos 2o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y Séptimo Transitorio de la Ley de Educación para el Estado de Guanajuato.
+HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77, fracciones II, III y XXV y 79 de la Constitución Política para el Estado de Guanajuato, y en cumplimiento de lo dispuesto por los artículos 2o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y Séptimo Transitorio de la Ley de Educación para el Estado de Guanajuato.
 
 C O N S I D E R A N D O ...
 
@@ -218,6 +218,10 @@ II. El documento que acredite la posesión legal del inmueble en, el que se pret
 a) El instrumento jurídico inscrito en el Registro Público de la Propiedad y en los demás que correspondan, del o los inmuebles propuestos para la prestación del servicio educativo, tratándose de inmuebles propiedad del interesado;
 
 b) El instrumento jurídico ratificado ante fedatario público e inscrito en el Registro Público de la Propiedad que acredite la posesión del inmueble, tratándose de inmuebles cuya propiedad no sea del interesado; y
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+Tratándose de contratos de comodato o de arrendamiento de bienes inmuebles por un período menor de seis años y aquellos en que haya anticipos de rentas menores a tres años, no se requerirá su inscripción en el Registro Público de la Propiedad, de conformidad a los (sic) establecido en el Código Civil para el Estado de Guanajuato.
 
 c) La manifestación bajo protesta de decir verdad que el inmueble propuesto se encuentra libre de controversia administrativa o judicial.
 
@@ -1286,3 +1290,11 @@ P.O. 6 DE OCTUBRE DE 2015.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 151, MEDIANTE EL CUAL, SE ADICIONA EL ARTÍCULO 15, FRACCIÓN II, INCISO B), CON UN SEGUNDO PÁRRAFO DEL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
