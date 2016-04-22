@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-consejo-de-ciencia-y-tecnologia-del-10291
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-15"
-last_updated: "2014-10-15"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Morelos, el 15 de octubre de 2014.
 
@@ -43,7 +43,7 @@ La interpretación de las disposiciones de este Estatuto Orgánico se hará conf
 
 Para efectos del presente Estatuto Orgánico, además de las definiciones señaladas en el artículo 3, de la Ley de Innovación, Ciencia y Tecnología para el Estado de Morelos, se entenderá por:
 
-I. CemIAgro, al Centro Morelense de Innovación Agropecuaria;
+I. (DEROGADA, P.O. 22 DE ABRIL DE 2016)
 
 II. CemITT, al Centro Morelense de Innovación y Transferencia Tecnológica;
 
@@ -63,7 +63,7 @@ IX. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado 
 
 X. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y otros correspondientes a las unidades administrativas del CCYTEM;
 
-XI. MCM, al Museo de Ciencias de Morelos;
+XI. (DEROGADA, P.O. 22 DE ABRIL DE 2016)
 
 XII. Oficina de Transferencia Tecnológica, a la oficina responsable que realiza la vinculación entre instituciones generadoras de conocimiento de los sectores público y privado, al ofrecer una serie de servicios que facilitará la transferencia de conocimiento vía consultoría, licenciamiento y creación de empresas de base tecnológica;
 
@@ -75,7 +75,9 @@ XV. Secretaría, la Secretaría de Innovación, Ciencia y Tecnología del Poder 
 
 XVI. Subcomité de Adquisiciones, al Subcomité de Adquisiciones, Arrendamientos y Servicios del CCYTEM, como órgano interno regulador de sus adquisiciones, arrendamientos y servicios, y
 
-XVII. Unidad Administrativa, a la Dirección, Coordinación o Dirección de Área que forma parte de la estructura orgánica interna del CCYTEM.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XVII. Unidad Administrativa, a las Unidades Administrativas que integran el CCYTEM.
 
 ### CAPÍTULO II. DE LA NATURALEZA, OBJETIVOS Y ATRIBUCIONES DEL CCYTEM
 
@@ -137,21 +139,25 @@ I. La Dirección del Centro Morelense de Innovación y Transferencia Tecnológic
 
 II. La Dirección del Centro Morelense de Comunicación de la Ciencia;
 
-III. La Coordinación del MCM;
+III. (DEROGADA, P.O. 22 DE ABRIL DE 2016)
 
-IV. La Dirección del Centro Morelense de Innovación Agropecuaria;
+IV. (DEROGADA, P.O. 22 DE ABRIL DE 2016)
 
-V. La Coordinación de Vinculación y Divulgación;
+V. (DEROGADA, P.O. 22 DE ABRIL DE 2016)
 
 VI. La Dirección de Administración y Finanzas, y
 
 VII. La Dirección Jurídica.
 
-Las Unidades Administrativas a que hacen referencia las fracciones I, II, IV, V, VI y VII, se adscriben directamente a la Dirección General; y, a su vez, la Unidad Administrativa prevista en la fracción III, se adscribe a la Dirección del Centro Morelense de Comunicación de la Ciencia.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+Las Unidades Administrativas a que hacen referencia las fracciones I, II, VI y VII, se adscriben directamente a la Dirección General.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
 ###### Artículo 10.
 
-Para fines administrativos y en apego a lo dispuesto en el Tabulador de Sueldos vigente para el Poder Ejecutivo del Estado, la Dirección General tendrá nivel de Subsecretaría, las Unidades Administrativas previstas en las fracciones I, II y IV, del artículo anterior, tendrán nivel de Dirección General, la prevista en la fracción V, nivel de Coordinación de Área, y las previstas en las fracciones III, VI y VII, tendrán nivel de Dirección de Área; quedando establecidas sus atribuciones en el presente Estatuto.
+Para fines administrativos y en apego a lo dispuesto en el Tabulador de Sueldos vigente para el Poder Ejecutivo del Estado, la Dirección General tendrá nivel de Subsecretaría, las Unidades Administrativas previstas en las fracciones I y II, del artículo anterior, tendrán nivel de Dirección General, y las previstas en las fracciones VI y VII, tendrán nivel de Dirección de Área; quedando establecidas sus atribuciones en el presente Estatuto.
 
 ###### Artículo 11.
 
@@ -269,7 +275,9 @@ II. Elaborar y presentar a la Junta Directiva, para su revisión, aprobación y 
 
 III. Certificar las constancias y documentos de los expedientes relativos a los asuntos de su competencia;
 
-IV. Asistir a las reuniones o presentaciones del CemITT, respecto de proyectos de posible desarrollo mediante la incubadora de alta tecnología, con la finalidad de que dichos proyectos se conviertan en empresa emergente. El mismo caso aplicará para los asuntos referentes al CemoCC y CemIAgro, y
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+IV. Asistir a las reuniones o presentaciones del CemITT, respecto de proyectos de posible desarrollo mediante la incubadora de alta tecnología, con la finalidad de que dichos proyectos se conviertan en empresa emergente. El mismo caso aplicará para los asuntos referentes al CemoCC, y
 
 V. Las demás que le señalen las disposiciones jurídicas aplicables, la Ley y su Reglamento.
 
@@ -277,9 +285,11 @@ V. Las demás que le señalen las disposiciones jurídicas aplicables, la Ley y 
 
 #### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES GENÉRICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### Artículo 27.
 
-Al frente de cada Dirección y la Coordinación habrá una persona titular designada por la Junta Directiva a propuesta del Director General, que para el mejor desempeño de sus labores tienen las siguientes atribuciones genéricas:
+Al frente de cada Unidad Administrativa habrá una persona titular designada por la Junta Directiva, a propuesta del Director General, quienes para el mejor desempeño de sus labores tienen las siguientes atribuciones genéricas:
 
 I. Planear, programar, organizar y evaluar el desempeño de las funciones encomendadas a la Unidad Administrativa a su cargo;
 
@@ -311,7 +321,9 @@ XIV. Supervisar el cumplimiento de los programas anuales de actividades de la Un
 
 XV. Observar y aplicar, de conformidad con las leyes y disposiciones jurídicas correspondientes, los asuntos que sean de su competencia;
 
-XVI. Rendir por escrito al Director General informes mensuales, trimestrales o anuales, según le sean requeridos, de las actividades que haya realizado la Dirección o Coordinación a su cargo;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XVI. Rendir por escrito al Director General informes mensuales, trimestrales o anuales, según le sean requeridos, de las actividades que haya realizado la Unidad Administrativa a su cargo;
 
 XVII. Suscribir, en el ámbito de su competencia, los documentos relativos al ejercicio de sus atribuciones y aquellos que por delegación de facultades le correspondan;
 
@@ -319,7 +331,9 @@ XVIII. Coordinar sus actividades con las personas titulares de las demás Unidad
 
 XIX. Administrar eficaz y eficientemente los recursos humanos, materiales y financieros para la operación de los programas que competen a la Unidad Administrativa a su cargo;
 
-XX. Proponer al Director General el ingreso, licencias y promoción del personal de la Dirección o Coordinación a su cargo, debiendo considerar la equidad de género;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XX. Proponer al Director General el ingreso, licencias y promoción del personal de la Unidad Administrativa a su cargo, debiendo considerar la equidad de género;
 
 XXI. Desempeñar todas aquellas atribuciones que tengan como propósito promover y fomentar la innovación, la ciencia y la tecnología, y
 
@@ -367,57 +381,15 @@ VII. Señalar e identificar las demandas y necesidades de la sociedad para dise�
 
 ###### Artículo 30.
 
-La persona titular de la Coordinación del MCM tiene las siguientes atribuciones específicas:
-
-I. Planear, organizar y evaluar la marcha y operación del MCM;
-
-II. Supervisar las relaciones públicas necesarias para ofrecer al visitante la mejor atención y servicio;
-
-III. Elaborar el programa de trabajo del MCM y el de las Unidades Administrativas que tenga adscritas;
-
-IV. Evaluar la operación del MCM con base en los objetivos y metas fijadas;
-
-V. Establecer la estrategia y logística para la difusión de actividades permanentes y eventuales del MCM;
-
-VI. Planear, diseñar y promover exhibiciones eventuales, virtuales y multimedia;
-
-VII. Diseñar y elaborar material y equipo didáctico para exposiciones y talleres, así como proyectos de diseño museográfico;
-
-VIII. Diseñar, montar y operar exposiciones itinerantes en todos los municipios del Estado;
-
-IX. Promover y coordinar la interconectividad con otros museos para el intercambio de material, y
-
-X. Proponer acciones relativas a las adquisiciones y administración de bienes muebles e inmuebles necesarios para el cumplimiento de los fines del MCM.
+(DEROGADO, P.O. 22 DE ABRIL DE 2016)
 
 ###### Artículo 31.
 
-La persona titular de la Dirección del Centro Morelense de Innovación Agropecuaria, tiene las siguientes atribuciones específicas:
-
-I. Promover y coordinar la vinculación de los sectores público, privado y social para el desarrollo del Estado en materia agropecuaria;
-
-II. Promover, fortalecer y, en su caso, realizar el desarrollo tecnológico en materia agropecuaria;
-
-III. Fortalecer el sistema de innovación agropecuaria con enfoque de redes de innovación en cadenas de valor para promover la innovación, con conocimientos y tecnologías que permitan mejores niveles de competitividad y productividad en el medio rural, considerando los conocimientos tradicionales de los pueblos indígenas del Estado, de acuerdo con el marco normativo vigente y en el ámbito de competencia;
-
-IV. Promover, fortalecer y, en su caso, realizar la generación del conocimiento a través de la vinculación de las instituciones de investigación y docencia para atender temas estratégicos para el desarrollo del sector agropecuario en el Estado, y
-
-V. Promover el fortalecimiento de la capacidad de innovación y de adopción de innovaciones entre los agentes económicos de las cadenas de valor, en el medio rural.
+(DEROGADO, P.O. 22 DE ABRIL DE 2016)
 
 ###### Artículo 32.
 
-La persona titular de la Coordinación de Vinculación y Divulgación tiene las siguientes atribuciones específicas:
-
-I. Promover, realizar, organizar y coordinar Acciones, Programas y Proyectos de divulgación de la ciencia, la tecnología y la innovación y de apropiación social de ésta mediante revistas, material impreso, electrónico y digital, ferias, talleres, concursos y premios, entre otras actividades para niños, jóvenes y público en general;
-
-II. Impulsar, promover y establecer relaciones de colaboración, acciones y actividades encaminadas a la divulgación de la innovación, ciencia y la tecnología, mediante la cooperación y el intercambio de materiales de diversa naturaleza entre instituciones y organismos afines en el Estado y con proyección a nivel nacional e internacional, para generar convenios y alianzas estratégicas;
-
-III. Desarrollar Programas y Proyectos encaminados a mejorar la apreciación social de la innovación, ciencia y la tecnología en la población de zonas marginadas y de polígonos de intervención, indígenas, rurales o de difícil acceso en Morelos;
-
-IV. Asesorar y apoyar las actividades de divulgación científica que se desarrollan en Instituciones Educativas de Morelos;
-
-V. Proporcionar asistencia técnica y brindar apoyo a las Unidades Administrativas del CCYTEM, para la difusión y producción de los medios y materiales relacionados con sus actividades, y
-
-VI. Generar estrategias y acciones de divulgación y de educación no formal para fomentar y acercar temas relacionados con la ciencia, la tecnología y la innovación en los diversos sectores del Estado.
+(DEROGADO, P.O. 22 DE ABRIL DE 2016)
 
 ###### Artículo 33.
 
@@ -515,15 +487,19 @@ El CemoCC, es una unidad administrativa del CCYTEM creado con la finalidad de po
 
 Asimismo será capaz de acercar a la población, no sólo a la ciencia, sino apropiarse de la ciencia y hacerse participe de su trascendencia, al lograr la interlocución de la misma con la comunidad científica, partiendo del lema la ciencia es para todos.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### Artículo 43.
 
-El CemoCC, ofrecerá servicios de comunicación de la ciencia en comunidades rurales y urbanas, de desarrollo de campañas para promover la cultura científica en las escuelas, de fomentar la educación no formal de la ciencia a través del MCM y profesionalizar la divulgación científica a través de la formación de recursos humanos.
+El CemoCC ofrecerá servicios de comunicación de la ciencia en comunidades rurales y urbanas, de desarrollo de campañas para promover la cultura científica en las escuelas, de fomentar la educación no formal de la ciencia y profesionalizar la divulgación científica a través de la formación de recursos humanos.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ABRIL DE 2016)</small>
 
 ### CAPÍTULO X. DEL CEMIAGRO
 
 ###### Artículo 44.
 
-El CemIAgro, tiene por objeto promover el desarrollo tecnológico en materia agropecuaria, mediante el trabajo en red en cadenas de valor para promover la innovación, con conocimientos y tecnologías que permitan el desarrollo del sector agropecuario en la Entidad.
+(DEROGADO, P.O. 22 DE ABRIL DE 2016)
 
 ### CAPÍTULO XI. DEL CONSEJO CONSULTIVO Y DE LAS COMISIONES TÉCNICAS
 
@@ -595,9 +571,11 @@ Las relaciones laborales entre el CCYTEM y sus trabajadores se regirán por lo d
 
 Las ausencias temporales hasta por noventa días del Director General serán cubiertas por el servidor público que éste designe, en términos del último párrafo del artículo 15 de la Ley Orgánica.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### Artículo 56.
 
-Las ausencias temporales hasta por noventa días de las personas titulares de las Direcciones o Coordinaciones serán cubiertas por el servidor público que para tal efecto designe el Director General.
+Las ausencias temporales hasta por noventa días de las personas titulares de las Unidades Administrativas serán cubiertas por el servidor público que para tal efecto designe el Director General.
 
 ###### Artículo 57.
 
@@ -676,3 +654,21 @@ EL RECTOR DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MORELOS
 JESÚS ALEJANDRO VERA JIMÉNEZ
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Decreto iniciará su vigencia a los cinco días hábiles siguientes a la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto por el presente instrumento.
+
+TERCERA. Dentro de un plazo de 30 días hábiles siguientes a la vigencia del presente instrumento, el Director General deberá inscribir las reformas y modificaciones realizadas al Estatuto Orgánico del Consejo de Ciencia y Tecnología del Estado de Morelos, en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 85, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+CUARTA. Dentro de un plazo de 60 días hábiles posteriores a la entrada en vigor del presente Decreto, el Consejo de Ciencia y Tecnología del Estado de Morelos realizará las adecuaciones necesarias a sus Manuales Administrativos, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada Unidad Administrativa, según su ámbito de competencia.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 11, fracción XXXV, y 18, fracción XXVI, del Reglamento Interior de la Secretaría de Gobierno; el Consejo de Ciencia y Tecnología del Estado de Morelos, dentro de un plazo de cinco días hábiles contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá informar a la Secretaría de Gobierno del poder Ejecutivo Estatal, la supresión de las Unidades Administrativas realizadas en virtud de este instrumento.
+
+SEXTA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la Junta Directiva del Consejo de Ciencia y Tecnología del Estado de Morelos.
