@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-03-04"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -319,23 +319,61 @@ La Comisión Estatal de los Derechos Humanos, contará con un Consejo Consultivo
 
 La Comisión Estatal de los Derechos Humanos, por conducto de su Presidente, quien lo será también del Consejo Consultivo, presentará anualmente, por escrito, a los Poderes del Estado, un informe de sus actividades. Al efecto, comparecerá ante el Pleno del Poder Legislativo en los términos que disponga la ley.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
 APARTADO C. De la Transparencia y Acceso a la Información Pública.
 
-Toda persona sin necesidad de acreditar interés alguno, tiene derecho a acceder a la información que la ley atribuye el carácter de pública, a sus datos personales, o a la rectificación de éstos. La Ley de la materia deberá observar, entre otros, los principios de protección a los datos personales, máxima publicidad y gratuidad; asimismo, deberá establecer los mecanismos de acceso a la información pública, de protección de los datos personales, así como los procedimientos de revisión, y señalar aquella que tenga el carácter de reservada o confidencial.
+El derecho humano de acceso a la información, comprende solicitar, investigar, difundir, buscar y recibir información. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
 
-Corresponde al Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, como un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, especializado, imparcial y con autonomía operativa, de gestión y de decisión, garantizar el acceso a la información pública y la protección de datos personales, fomentar la cultura de transparencia, y resolver los procedimientos de revisión, respecto de los Poderes del Estado, Municipios y organismos constitucionales autónomos, y demás entes públicos, en los términos que señale la normatividad aplicable.
+Para el ejercicio del derecho de acceso a la información, deberán atenderse las siguientes bases:
 
-Dicho organismo se integrará por tres Consejeros Propietarios que integrarán el Pleno y un Suplente que cubrirá las ausencias de aquellos, en los términos previstos en la normatividad aplicable. Los Consejeros durarán en su encargo cuatro años, y durante el mismo no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia; y serán designados de conformidad con las siguientes bases:
+I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por las razones de interés público en los términos que fije la Ley.
 
-I.- El Gobernador del Estado, previa convocatoria pública en los términos de ley, remitirá al Congreso del Estado, la relación de los candidatos seleccionados.
+II.- Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La Ley determinará los supuestos específicos en que procederá la declaración de inexistencia de la información.
 
-II.- El Pleno del Congreso del Estado, por mayoría calificada y conforme al procedimiento de ley, elegirá a las personas que desempeñarán el cargo de Consejero Propietario y el de Suplente.
+III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la Ley.
 
-III.- En caso de que no se aprueben los aspirantes propuestos, se hará del conocimiento del Gobernador del Estado, para efecto de que remita una nueva lista de aspirantes. Si se rechaza de nueva cuenta la propuesta, serán designados los aspirantes que ocupen los primeros cuatro lugares en el listado correspondiente, en estricto orden de prelación, siendo el último el suplente.
+IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación, cancelación y oposición al tratamiento de éstos en los términos que establezca la Ley.
 
-IV.- El Poder Legislativo tendrá un plazo de diez días naturales para resolver, vencido el cual, sin que se haya emitido resolución alguna, se entenderán como electos los aspirantes propuestos en los primeros lugares en el listado respectivo y conforme al orden de prelación, y se expedirán los nombramientos correspondientes, en un plazo de tres días naturales.
+Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución.
 
-V.- Una vez realizado lo anterior, el Gobernador del Estado ordenará la publicación del resultado en el Periódico Oficial del Estado y uno en los diarios de mayor circulación.
+V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+VI.- La Ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+
+VIl.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la Ley.
+
+El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, es el organismo constitucional autónomo especializado, imparcial y colegiado al que corresponderá garantizar el acceso a la información pública y la protección de datos personales en poder de los sujetos obligados; fomentar la cultura de transparencia y estimular la participación ciudadana; emitir políticas de transparencia proactiva; coadyuvar en la implementación de políticas y mecanismos de gobierno abierto y resolver los recursos de revisión en los términos que establezca la Ley. El Instituto estará dotado de personalidad jurídica y patrimonio propio, contará con plena autonomía técnica, de gestión y de decisión sobre el ejercicio de su presupuesto, así como de determinación de su organización interna.
+
+El Instituto contará con un presupuesto que cada año deberá ser incrementado en un porcentaje mayor al índice inflacionario. Para estos efectos no se considerarán las ampliaciones presupuestales que se hubiesen realizado en el ejercicio fiscal anterior.
+
+En su funcionamiento el Instituto se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+La Ley establecerá aquella información que se considere reservada o confidencial.
+
+El Instituto se integrará por tres Comisionados Propietarios que formarán parte del Pleno y un Comisionado Suplente que cubrirán las ausencias de aquellos, en los términos previstos en la Ley. Los Comisionados durarán en su encargo cinco años, sin posibilidad de ser ratificados y serán designados de conformidad con las bases siguientes:
+
+a.- Inmediatamente que exista una o varias vacantes de Comisionados o ciento veinte días naturales antes si la misma fuere previsible; el Comité Ciudadano el cual estará integrado por siete ciudadanos nombrados en términos de la ley y dos representantes del Poder Ejecutivo, deberá expedir la convocatoria que debe ser publicada en el Periódico Oficial del Estado y dos diarios de mayor circulación en el Estado.
+
+b.- El Comité Ciudadano deberá elaborar una lista de personas que contenga una opinión de los méritos, trayectoria, experiencia y resultados de las entrevistas de cada uno de las personas que se inscribieron en términos de la convocatoria señalada en el inciso anterior. La opinión deberá ser enviada al Congreso Local, dentro de los sesenta días naturales siguientes contados a partir de la publicación de la convocatoria.
+
+c.- El Pleno del Congreso Local en un término no mayor a treinta días naturales contados a partir de que recibió la opinión del Comité Ciudadano, por mayoría calificada de sus integrantes, deberá nombrar al Comisionado. El Presidente del Congreso dentro de los tres días naturales siguientes al nombramiento del Comisionado deberá remitirlo al Gobernador del Estado.
+
+d.- El Gobernador, por una sola vez, podrá objetar de manera fundada y motivada el nombramiento en un término no mayor a cinco días naturales contados a partir del momento en que lo reciba del Congreso. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado la persona nombrada por el Congreso.
+
+e.- En caso de que el Gobernador objetara el nombramiento, el Congreso Local realizará un nuevo nombramiento por una votación de mayoría calificada, tomando en consideración las personas que forman parte de la lista a la que alude el inciso b.
+
+f.- En todas las etapas del proceso de nombramiento de Comisionados a cargo del Comité Ciudadano y del Congreso Local, deberán observarse los principios de transparencia y participación ciudadana.
+
+Los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VIl y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la información pública. En la conformación del Pleno del Instituto deberá atenderse a la equidad de género.
+
+Los Comisionados no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+El Instituto contará con un Consejo Consultivo, integrado por seis Consejeros honoríficos, designados por mayoría calificada del Congreso Local. Los Consejeros deberán reunir los mismos requisitos que los Comisionados, pero tendrán que poseer título profesional con antigüedad mínima de tres años y provenir de organizaciones de la sociedad civil y de la academia. Los Consejeros durarán tres años en el encargo con posibilidad de ser ratificados y serán designados conforme a lo que establezca la Ley.
+
+El Instituto contará con un Órgano Interno de Control, cuyo titular será designado por mayoría calificada del Congreso Local. El procedimiento de designación y requisitos serán establecidos en la Ley.
+
+La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
 
 APARTADO D. De los Juicios Orales y Medios Alternativos.
 
@@ -2209,7 +2247,7 @@ Las personas integrantes de los Concejos Municipales o los Munícipes designados
 
 ### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 88.
 
@@ -2253,7 +2291,9 @@ El Poder Judicial contará y administrará igualmente, con los recursos que se s
 
 ###### ARTICULO 91.
 
-Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y, en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los miembros de los órganos a los que la Constitución otorgue autonomía, a los funcionarios y empleados; y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en los que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 El Gobernador del Estado durante el tiempo de su encargo solo podrá ser acusado por delitos graves del orden común.
 
@@ -2295,7 +2335,9 @@ IV.- Se establecerá la obligación de los servidores públicos de elección pop
 
 En materia de Juicio Político y Moción de Censura, se observarán las siguientes bases:
 
-A. Del Juicio Político.- Podrán ser sujetos de Juicio Político: los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Procurador de los Derechos Humanos, Magistrados del Tribunal de lo Contencioso Administrativo, Jueces, Presidentes Municipales, Regidores, Síndicos Municipales y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
+
+A. Del Juicio Político.- Podrán ser sujetos de Juicio Político: los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Presidente de la Comisión Estatal de los Derechos Humanos, Magistrados del Tribunal de lo Contencioso Administrativo, Jueces, Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, Presidentes Municipales, Regidores, Síndicos Municipales y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
 
 En el caso de los Titulares de las Dependencias del Ejecutivo Estatal, que hayan sido ratificados por el Congreso conforme a las disposiciones de esta Constitución, además del Juicio Político, se les podrá remover de su cargo por medio de la Moción de Censura.
 
@@ -2319,11 +2361,11 @@ La votación no podrá llevarse a cabo en la misma sesión, sino con posteriorid
 
 Las decisiones que determine en esta materia el Congreso del Estado son definitivas e inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Fiscal Especializado para la Atención de Delitos Electorales, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por mayoría calificada de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Fiscal Especializado para la Atención de Delitos Electorales, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado o Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por mayoría calificada de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -4140,3 +4182,47 @@ P.O. 4 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 437 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN PÁRRAFO QUINTO AL ARTÍCULO 100 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 473 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 91, 93 Y 94 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Consejeros en funciones del Instituto de Transparencia y Acceso a la Información Pública, durarán en el cargo hasta el día 31 de mayo de 2019, pero a partir de la entrada en vigor de estas normas se les denominará Comisionados.
+
+Las facultades y obligaciones que se contienen en otros ordenamientos jurídicos a cargo de los Consejeros del Instituto, corresponderá ejecutarlas u observarlas a los Comisionados.
+
+TERCERO.- Por única ocasión, los Comisionados que se nombren para entrar en funciones a partir del día 1 de junio de 2019, durarán en el cargo por los siguientes periodos:
+
+I.- Un Comisionado Propietario 3 años;
+
+II.- Un Comisionado Propietario 4 años;
+
+III.- Un Comisionado Propietario 5 años; y
+
+IV.- Un Comisionado Suplente 5 años.
+
+CUARTO.- El Congreso del Estado deberá designar a los integrantes del Consejo Consultivo dentro de los cuarenta días naturales posteriores a la publicación de la Ley en que se establezca el proceso de designación de los Consejeros.
+
+Para asegurar la renovación escalonada de los Consejeros en los primeros nombramientos, el Congreso del Estado especificara el período de ejercicio para cada Consejero, tomando en consideración lo siguiente:
+
+I.- Nombrará a dos Consejeros, cuyo mandato será por 3 años;
+
+II.- Nombrará dos Consejeros cuyo mandato será por 4 años, y
+
+III.- Nombrará dos Consejeros cuyo mandato será por 5 años.
+
+QUINTO.- El Congreso Local deberá nombrar al titular del Órgano Interno de Control del Instituto, dentro de los sesenta días naturales contados a partir de la publicación de la Ley, en el Periódico Oficial del Estado.
+
+SEXTO.- El actual Contralor Interno del Instituto, podrá participar en el proceso de elección para ocupar el cargo de Titular del Órgano Interno de Control del Instituto, de conformidad con las etapas de las que constará el proceso de designación establecido en las disposiciones de la Ley de la materia. La no manifestación del actual Contralor Interno dentro del plazo señalado, se entenderá como negativa de participación.
+
+SÉPTIMO.- Todas las disposiciones legales que hagan referencia al Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, se entenderán hechas al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California.
+
+OCTAVO.- Los actos, acuerdos y demás disposiciones de carácter general emitidos por el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, continuarán rigiendo, hasta en tanto no sean emitidas en su caso, nuevas disposiciones por el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California.
+
+NOVENO.- Los asuntos que se encuentren en trámite ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, continuarán ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California.
+
+DÉCIMO.- Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, incluyendo todos sus bienes y los derechos vigentes, pasarán a formar parte del patrimonio del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California.
+
+DÉCIMO PRIMERO.- Los trabajadores de base que se encuentren prestando sus servicios en el Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, a la entrada en vigor del presente decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California.
