@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2015-09-30"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -631,17 +631,27 @@ k) Las iniciativas y asuntos relativos a la protección y derechos humanos de lo
 
 l) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
 
-V.- Comisión de Equidad y Género:
+V.- Comisión para la Igualdad de Género
 
-a) Las iniciativas relacionadas a la equidad entre el hombre y la mujer;
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
-b) Los asuntos relativos a garantizar la equidad entre mujeres y hombres;
+a) Las iniciativas relacionadas a la igualdad entre el hombre y la mujer;
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+b) Los asuntos relativos a garantizar la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
 c) Las iniciativas que aseguren la participación de las mujeres en la toma de decisiones y en la distribución de los beneficios del desarrollo;
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
+
 d) Las iniciativas que respondan a los mecanismos internacionales, para la eliminación de todas las formas de discriminación contra las mujeres; y
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
 e) Los demás asuntos e iniciativas que el Pleno le encomiende.
 
@@ -2540,3 +2550,9 @@ Primero.- El presente Decreto entrará en vigor el día de su aprobación.
 Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
 
 Tercero.- Para efectos de los expedientes que a la fecha se encuentren turnados a las Comisiones Permanentes de Dictamen Legislativo, el plazo referido en el párrafo segundo del Artículo 46 del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, empezará a correr a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚM. 104. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 Y LA FRACCIÓN V DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
