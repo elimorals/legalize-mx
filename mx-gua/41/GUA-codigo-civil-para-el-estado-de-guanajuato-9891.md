@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2015-10-02"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -7349,7 +7347,7 @@ Si este lugar es calificado de la misma manera que el primero, el Juez señalar�
 
 ###### Art. 1198.
 
-Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cuál de los dos predios ha de dar el paso.
+Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designar cual de los dos predios ha de dar el paso.
 
 ###### Art. 1199.
 
@@ -9161,9 +9159,13 @@ III. Cuando un heredero paga con sus bienes propios alguna deuda de la herencia;
 
 IV. Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario anterior a la adquisición.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### Art. 1550.
 
-Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de la ley en los derechos del acreedor, si el préstamo constare en título auténtico en que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de la ley en los derechos, privilegios, acciones y garantías del acreedor, si el préstamo constare en documento auténtico en que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+
+En caso de que dicha deuda sea derivada de un préstamo con garantía real se mantendrá inalterable la garantía original y su prelación, a efecto de evitar la constitución de una nueva garantía.
 
 ###### Art. 1551.
 
@@ -15415,7 +15417,7 @@ El testador, al hacer la presentación, declarará que en aquel pliego está con
 
 ###### Art. 2781.
 
-El notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, y ser firmada por el testador, los testigos y notario, quien además pondrá su sello.
+El notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, y ser firmada por el testador, los testigos y el notario, quien además pondrá su sello.
 
 ###### Art. 2782.
 
@@ -17146,3 +17148,9 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 84, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA Y ADICIONA CON EL PÁRRAFO SEGUNDO EL ARTÍCULO 1550 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
