@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2015-12-31"
+last_updated: "2016-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -173,7 +173,7 @@ El Gobernador del Estado resolverá cualquier duda sobre la competencia de las d
 
 ###### Artículo 17.
 
-En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Gobernador del Estado, habrá (sic) las siguientes dependencias de la Administración Pública Estatal Centralizada:
+En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Gobernador del Estado, habrá las siguientes dependencias de la Administración Pública Estatal Centralizada:
 
 I. Secretaría de Gobierno;
 
@@ -523,7 +523,9 @@ VI. Impulsar y promover el fortalecimiento del mercado interno, el comercio a co
 
 VII. Coadyuvar, con las dependencias correspondientes, en el aprovechamiento y preservación racional y sustentable de los recursos naturales y culturales en las actividades productivas del Estado;
 
-VIII. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Energías Renovables, impulsar y desarrollar energías limpias y alternas y su aplicación en la cadena productiva;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+VIII. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, impulsar y desarrollar en el ámbito de su competencia, energías limpias y alternas y su aplicación en la cadena productiva.
 
 IX. Participar en la elaboración del Programa de Obra Pública del Estado, con propuestas y observaciones sobre infraestructura pública que detone, conserve o fortalezca la inversión privada productiva;
 
@@ -759,7 +761,9 @@ VIII. Definir, conservar, supervisar, promover y desarrollar las vías estatales
 
 IX. Construir y conservar en buen estado las carreteras, caminos vecinales, aeropistas y demás vías de jurisdicción estatal;
 
-X. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Energías Renovables, auxiliar a las autoridades municipales en la elaboración de estudios y proyectos, así como en la operación y organización administrativa de los sistemas de agua potable, alcantarillado y saneamiento, procurando la autosuficiencia técnica y financiera de los mismos;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+X. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, auxiliar a las autoridades municipales en la elaboración de estudios y proyectos, así como en la operación y organización administrativa de los sistemas de agua potable, alcantarillado y saneamiento, procurando la autosuficiencia técnica y financiera de los mismos;
 
 XI. Coadyuvar con la Secretaría de Cultura, en la conservación del patrimonio histórico y cultural, en coordinación con las autoridades federales, estatales y municipales;
 
@@ -849,51 +853,87 @@ II. Elaborar, ejecutar, revisar y difundir los planes y programas estatales de d
 
 III. Elaborar, promover y difundir el uso de instrumentos técnicos, participativos, económicos y jurídicos para la gestión de suelo, desarrollo urbano y ordenamiento territorial;
 
-IV. Formular, conducir, evaluar y difundir las políticas de desarrollo urbano, transporte y de movilidad de la población en el Estado;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-V. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Energías Renovables, regular, normar y establecer, de acuerdo a la vocación del suelo, al valor y características naturales y ambientales y a las políticas de desarrollo urbano, el ordenamiento de territorio del Estado;
+IV. Formular, conducir, evaluar y difundir las políticas de desarrollo territorial, urbano y de movilidad en el Estado;
 
-VI. En colaboración con la Secretaría de Medio Ambiente, Recursos Naturales y Energías Renovables, prevenir, controlar y corregir la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales y por fuentes móviles que no sean de competencia de la Federación;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-VII. En colaboración con la Secretaría de Medio Ambiente, Recursos Naturales y Energías Renovables, regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales, que no se consideren como peligrosos para el ambiente, de conformidad con lo dispuesto en la legislación en la materia;
+V. En coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, regular, normar y establecer, de acuerdo a la vocación del suelo, al valor, características naturales, ambientales y a las políticas de desarrollo urbano, el ordenamiento del territorio del Estado;
 
-VIII. En colaboración con la Secretaría de Medio Ambiente, Recursos Naturales y Energías Renovables, asesorar y proponer políticas, programas y acciones, para asuntos que afecten al equilibrio ecológico o al ambiente de regiones que comprendan dos o más municipios;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-IX. Formular, instrumentar y difundir conjuntamente con los municipios y dependencias que corresponda, el Programa Estatal de Desarrollo Urbano, los programas de ordenación y regulación de zonas conurbadas y los que de ellos se deriven, dándoles seguimiento, vigilando y evaluando su cumplimiento conforme al Sistema Estatal de Desarrollo Urbano;
+VI. En coadyuvancia con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, prevenir, controlar y corregir la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales y por fuentes móviles que no sean de competencia de la Federación;
 
-X. Fomentar, asesorar y apoyar a las autoridades municipales que lo soliciten en la formulación, ejecución, evaluación y actualización de los programas de desarrollo urbano municipales, de ordenación y regulación de zonas conurbadas, de los centros de población y los que de ellos se deriven;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XI. En colaboración con la Secretaría de Medio Ambiente, Recursos Naturales y Energías Renovables, fomentar y participar en la constitución y administración de reservas territoriales en el Estado, coadyuvando con las autoridades federales y municipales en la regularización de la tenencia de la tierra urbana, así como en la protección del patrimonio cultural y del equilibrio ecológico de los centros de población;
+VII. En colaboración con la Secretaria de Medio Ambiente, Recursos Naturales y Cambio Climático, regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales, que no se consideren como peligrosos para el ambiente, de conformidad con lo dispuesto en la legislación en la materia;
 
-XII. Inducir el desarrollo urbano ordenado, a través de la regularización de uso de suelo en los centros de población, en coordinación con los municipios y las correspondientes dependencias y entidades de la Administración Pública Federal y Estatal;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+VIII. En colaboración con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, asesorar y proponer políticas, programas y acciones, para asuntos que afecten al equilibrio ecológico o al ambiente de regiones que comprendan dos o más municipios;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+IX. Formular, instrumentar y difundir conjuntamente con los municipios y dependencias que corresponda, el Programa Estatal de Desarrollo Urbano, los Programas Regionales de Desarrollo Urbano, los Programas de Ordenación y Regulación de Zonas Conurbadas y Metropolitanas, y los que de ellos se deriven, dándoles seguimiento, vigilando y evaluando su cumplimiento conforme al Sistema Estatal de Planeación del Ordenamiento Territorial y el Desarrollo Urbano Sustentable;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+X. Fomentar, asesorar y apoyar a las autoridades municipales que lo soliciten en la formulación, ejecución, evaluación y actualización de los programas de desarrollo urbano municipales, de ordenación y regulación de zonas conurbadas y metropolitanas de los centros de población y los que de ellos se deriven;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XI. En colaboración con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, fomentar y participar en la constitución y administración de reservas territoriales en el Estado, coadyuvando con las autoridades federales y municipales en la regularización de la tenencia de la tierra urbana, así como en la protección del patrimonio cultural y del equilibrio ecológico de los centros de población;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XII. Inducir el desarrollo territorial y urbano ordenado, a través de la regularización de uso de suelo en los centros de población, en coordinación con los municipios y las correspondientes dependencias y entidades de la Administración Pública Federal y Estatal;
 
 XIII. Emitir opinión técnica en los proyectos de infraestructura y equipamiento urbano y territorial que las dependencias y entidades de la Administración Pública Estatal desarrollen de conformidad a la legislación de la materia;
 
-XIV. Emitir opinión técnica ante los ayuntamientos respectivos, sobre el proyecto de vías públicas en los centros de población que incidan en la vialidad e imagen urbana;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XIV. Emitir opinión técnica entre los ayuntamientos respectivos, sobre el proyecto de vías públicas en los centros de población que incidan en la vialidad y espacio público;
 
 XV. Coordinar de acuerdo con las políticas, lineamientos, normas y mecanismos que al efecto se establezcan, el Programa Estatal de Vivienda y su ejecución, en la forma que se acuerde con el Gobierno Federal, los organismos descentralizados, los municipios del Estado y los sectores social y privado;
 
 XVI. Emitir opinión técnica, legal y apoyar a solicitud de los ayuntamientos, en las regularizaciones de los fraccionamientos de interés social y popular de urbanización progresiva que realicen los grupos organizados, previo cumplimiento de los requisitos que señala la ley de la materia;
 
-XVII. Formular los estudios y proyectos de construcción y conservación de los servicios públicos de su competencia;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XVII. Formular los estudios y proyectos de construcción y conservación de los servicios y espacios públicos de su competencia;
 
 XVIII. Solicitar a la Secretaría de Comunicaciones y Obras Públicas la realización de las obras y servicios públicos de su competencia, convenidos por el Gobierno del Estado;
 
-XIX. Formular, instrumentar y difundir conjuntamente con los municipios y dependencias que corresponda, el Programa Estatal de Desarrollo Urbano, los Programas Regionales de Desarrollo Urbano, los Programas de Ordenamiento de las Zonas Metropolitanas, los Programas de Ordenación y Regulación de Zonas Conurbadas y los que de ellos se deriven, dándoles seguimiento, vigilando y evaluando su cumplimiento conforme al Sistema Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XX. Definir los criterios y emitir las disposiciones para el otorgamiento de concesiones y permisos de transporte público;
+XIX. Definir los criterios y emitir las disposiciones para el otorgamiento de concesiones y permisos de transporte público;
 
-XXI. Otorgar concesiones y permisos de transporte público y de carga estatal de acuerdo a la Ley y reglamentos en la materia;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XXII. Expedir las normas técnicas necesarias en materia de transporte de carga en el Estado;
+XX. Otorgar concesiones y permisos de transporte público y de carga estatal de acuerdo a la Ley y reglamentos en la materia;
 
-XXIII. Fijar los requisitos a los que se debe someter el transporte de carga en el Estado, a partir de la normatividad estatal y federal en la materia;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XXIV. Fijar las políticas de concesión y operación, autorización, coordinación, control y supervisión del servicio público de transporte en todas sus modalidades;
+XXI. Expedir las normas técnicas necesarias en materia de transporte de carga en el Estado;
 
-XXV. Integrar y presidir el Comité Técnico Consultivo de Transporte, así como las comisiones municipales, necesarias para la mejor prestación del servicio público de autotransporte; y,
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-XXVI. Las demás que le confieran las normas jurídicas aplicables.
+XXII. Fijar los requisitos a los que se debe someter el transporte de carga en el Estado, a partir de la normatividad estatal y federal en la materia;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XXIII. Fijar las políticas de concesión, operación, autorización, coordinación, control y supervisión del servicio público de transporte en todas sus modalidades;
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XXIV. Integrar y presidir el Comité Técnico Consultivo de Transporte, así como las comisiones municipales, necesarias para la mejor prestación del servicio público de autotransporte; y,
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XXV. Las demás que le confieran las normas jurídicas aplicables.
+
+XXVI. (DEROGADA, P.O. 22 DE ABRIL DE 2016)
 
 ###### Artículo 29.
 
@@ -1063,7 +1103,7 @@ XI. Coordinar, vigilar y evaluar que las instituciones de asistencia privada y s
 
 XII. Coordinar los servicios públicos de información y orientación de programas para el desarrollo social;
 
-XIII. Proponer, formular, regular, evaluar y coordinar los programas de servicio social que le encomiende el Gobernador del Estado, con la participación de las dependencias y entidades paraestatales federales, estatales, del Distrito Federal y municipales, que por disposición de la ley o por convenio ejecuten acciones relacionadas con la materia;
+XIII. (DEROGADA, P.O. 22 DE ABRIL DE 2016)
 
 XIV. Organizar y acreditar el servicio social de pasantes;
 
@@ -1079,7 +1119,13 @@ XIX. Llevar a cabo estudios e investigaciones para la identificación de técnic
 
 XX. Colaborar en coordinación con las dependencias competentes en acciones de consulta, asesoría, asistencia técnica, que incidan en el desarrollo institucional, en materia de política social; y,
 
-XXI. Las demás que le confieran las normas jurídicas aplicables.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XXI. Diseñar, crear, impulsar y ejecutar programas y acciones encaminados a atender a las personas adultas mayores en condiciones de pobreza extrema; y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XXII. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 33.
 
@@ -1179,7 +1225,25 @@ XVII. Asesorar a las dependencias estatales y municipales que lo soliciten, en e
 
 XVIII. Coadyuvar con la Secretaría de Relaciones Exteriores en la asistencia y orientación de los migrantes michoacanos, a petición de parte, en su caso, ante las autoridades extranjeras, para la defensa de sus derechos humanos, así como en otras acciones que se requieran para la atención y protección de los migrantes michoacanos; y,
 
-XIX. Las demás que le confieran las normas jurídicas aplicables.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XIX. Dar atención, apoyo psicológico y de otros servicios conforme al reglamento respectivo, de forma gratuita a los migrantes y sus familias;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XX. Apoyar a los migrantes en el extranjero y sus familias en la obtención de documentos oficiales que acrediten su identidad y nacionalidad, en coordinación con las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XXI. Coordinar actividades con las autoridades extranjeras que sean competentes, así como con organismos internacionales para beneficio de los migrantes en el extranjero y sus familias;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XXII. Gestionar recursos y colaborar en coordinación con las dependencias correspondientes para la elaboración de foros de consulta y participación ciudadana con la finalidad de incluir las propuestas de los migrantes en el extranjero en el Plan de Desarrollo Integral del Estado de Michoacán, del periodo constitucional que corresponda; y,
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+XXIII. Las demás que le confieran las normas jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1249,7 +1313,9 @@ Las Coordinaciones Auxiliares de la Oficina del Gobernador, serán:
 
 I. Coordinación General de Gabinete y Planeación; y,
 
-II. Coordinación de Comunicación Social.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+II. Coordinación General de Comunicación Social.
 
 ###### Artículo 37.
 
@@ -1327,7 +1393,9 @@ IV. Establecer los lineamientos para la suscripción de los convenios y contrato
 
 V. Coordinar los programas en materia de comunicación social de la Administración Pública Estatal;
 
-VI. Organizar un sistema integral de comunicación social de la Administración Pública Estatal, a través de los medios de comunicación escritos, electrónicos y alternativos;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+VI. Organizar un sistema integral de comunicación social de la Administración Pública Estatal, a través de los medios de comunicación escritos, electrónicos, digitales, alternativos y otros medios complementarios;
 
 VII. Ejecutar las políticas y estrategias metodológicas que permitan hacer uso eficiente de los medios de comunicación en el Estado, con el objeto de difundir oportuna y ampliamente todas las acciones realizadas a favor del desarrollo integral de la entidad;
 
@@ -1441,6 +1509,8 @@ El Congreso del Estado realizará en un lapso no mayor a ciento veinte días las
 
 El Gobernador del Estado cuenta con ciento cincuenta días, contados a partir de la entrada del presente Decreto para que emita el Reglamento respectivo. En tanto, las dependencias y entidades de la Administración Pública Estatal, seguirán aplicando la reglamentación vigente, siempre y cuando no se contraponga a lo dispuesto en la presente Ley.
 
+DÉCIMO. (DEROGADO, P.O. 22 DE ABRIL DE 2016)
+
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Las transferencias que por motivo de esta Ley deba realizar el Ejecutivo del Estado de una dependencia o entidad de la Administración Pública Estatal a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a las estructuras organizacionales, programáticas y financieras, a los calendarios financieros y de metas.
@@ -1457,6 +1527,18 @@ Los asuntos que con motivo de esta Ley, deban pasar de una Secretaría a otra, p
 
 El Gobernador del Estado, por conducto de la Secretaría de Gobierno, Secretaría de Finanzas y Administración y la Secretaría de Contraloría, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y traspasos de recursos humanos, materiales y financieros, así como activos patrimoniales, en un plazo no mayor de ciento cincuenta días, a partir de la entrada en vigor del presente Decreto.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+DÉCIMO QUINTO. La Coordinación de Planeación para el Desarrollo se transforma en la Coordinación General de Gabinete y Planeación, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la segunda Coordinación mencionada, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+DÉCIMO SEXTO. La Secretaría de la Mujer se transforma en la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la segunda Secretaría mencionada, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+DÉCIMO SÉPTIMO. Las menciones contenidas en otras leyes, decretos, reglamentos y en general en cualquier disposición respecto de las dependencias, coordinaciones y entidades de la Administración Pública Estatal, cuyas funciones se reforman por virtud de esta Ley, se entenderán referidas a las dependencias, coordinaciones y entidades que respectivamente asuman tales funciones.
+
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán, a los 13 días del mes de septiembre del año 2015.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. SARBELIO AUGUSTO MOLINA VÉLEZ.- PRIMERA SECRETARIA.- DIP. ADRIANA GABRIELA CEBALLOS HERNÁNDEZ.- SEGUNDO SECRETARIO.- DIP. LEONARDO GUZMÁN MARES.-TERCERA SECRETARIA.- DIP. YANITZI PALOMO CALDERÓN. (Firmados).
@@ -1472,6 +1554,14 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 122 POR EL QUE "SE ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 17 Y EL ARTÍCULO 34 BIS; SE DEROGAN, LAS FRACCIONES V Y VIII DEL ARTÍCULO 32; Y, SE REFORMA, EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 140 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 22; LA FRACCIÓN X DEL ARTÍCULO 26, LAS FRACCIONES IV, V, VI, VII, VIII, IX, X, XI, XII, XIV, XVII, XIX, XX, XXI, XXII, XXIII, XXIV Y XXV DEL ARTÍCULO 28; LA FRACCIÓN XXI DEL ARTÍCULO 32; LA FRACCIÓN XIX DEL ARTÍCULO 34; LA FRACCIÓN II DEL ARTÍCULO 36; LA FRACCIÓN VI DEL ARTÍCULO 38; SE ADICIONAN LA FRACCIÓN XXII DEL ARTÍCULO 32; LAS FRACCIONES XX, XXI, XXII Y XXIII AL ARTÍCULO 34, LOS ARTÍCULOS DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO TRANSITORIOS; SE DEROGAN LA FRACCIÓN XXVI DEL ARTÍCULO 28, LA FRACCIÓN XIII DEL ARTÍCULO 32 Y EL ARTÍCULO DÉCIMO TRANSITORIO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
 
 ###### ARTÍCULO DÉCIMO.
 
