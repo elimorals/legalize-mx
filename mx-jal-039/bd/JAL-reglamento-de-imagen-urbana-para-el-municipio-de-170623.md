@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2016-04-15"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 22 DE ABRIL DE 2016.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -207,17 +207,15 @@ d) Por las actividades que desarrollan, requieran la instalación de depósitos,
 
 ### Capítulo III. De los Anuncios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 15 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, G.M. 22 DE ABRIL DE 2016)</small>
 
 ###### Artículo 13.
 
-Las disposiciones que regulan la fijación, instalación, transmisión, difusión, proyección o colocación de todo tipo de anuncios que sea materia de este ordenamiento, se establecen en el Reglamento de Anuncios para el Municipio de Guadalajara, o en su caso, en las disposiciones administrativas que emita el Ayuntamiento para tales efectos.
-
-I. (DEROGADA, G.M. 15 DE ABRIL DE 2016)
+En áreas de protección del perímetro A y B correspondientes a las áreas de protección al patrimonio histórico (PH) y patrimonio cultural urbano (PC) con base en el Plan Parcial de la zona vigente, únicamente se otorgarán licencias o permisos para la colocación de los anuncios que reúnan los requisitos contenidos en el Reglamento de Anuncios para el Municipio de Guadalajara.
 
 ###### Artículo 14.
 
-(DEROGADO, G.M. 15 DE ABRIL DE 2016)
+(DEROGADO, G.M. 15 DE ABRIL DE 2016) (REPUBLICADA SU DEROGACIÓN, G.M. 22 DE ABRIL DE 2016)
 
 ### Capítulo IV. De la Infraestructura y Servicios
 
@@ -532,3 +530,13 @@ Tercero. Quedan derogadas las normas que se opongan a lo previsto en las present
 Cuarto. El Presidente Municipal de Guadalajara deberá definir las Zonas de Intervención Especial a que hacen referencia los artículos 6 fracción XXXIV y 53 del Reglamento de Anuncios para el Municipio de Guadalajara en un periodo no mayor a un año calendario a partir de la entrada en vigor del presente decreto, emitiendo la acción ejecutiva que corresponda para cada una de las zonas que se determinen. Asimismo, deberá presentar para su discusión y aprobación al Ayuntamiento la propuesta de disposiciones administrativas que regulen la fijación, instalación, transmisión, difusión, proyección o colocación de anuncios en cada una de las Zonas de Intervención Especiales.
 
 Quinto. Una vez publicadas estas reformas remítanse un tanto de ellas al Congreso del Estado de Jalisco, para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Segundo. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Tercero. Remítase copia del presente al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
