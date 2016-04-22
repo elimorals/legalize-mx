@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2015-12-02"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -803,9 +803,9 @@ Cada Diputado formará parte de hasta seis Comisiones de Dictamen Legislativo.
 
 Las Comisiones de Dictamen Legislativo se integrarán pluralmente por once Diputados: un Presidente, un Vice-Presidente, un Secretario y ocho Vocales, electos o ratificados por el Pleno del Congreso en la quinta sesión del Primer Período Ordinario de Sesiones de cada Año de Ejercicio Constitucional.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
-En el caso de la Comisión de Equidad y Género, el cargo de Presidente, invariablemente, será anual y se asignará de manera rotativa entre los Grupos Legislativos constituidos en el Congreso.
+En el caso de la Comisión para la Igualdad de Género el cargo de Presidente, invariablemente, será anual y se asignará de manera rotativa entre los Grupos Legislativos constituidos en el Congreso.
 
 Las Comisiones de Dictamen Legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
 
@@ -853,9 +853,9 @@ III.- Justicia y Seguridad Pública;
 
 IV.- Desarrollo Social y Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-V.- Equidad y Género;
+V.- Para la Igualdad de Género;
 
 VI.- Educación, Cultura y Deporte;
 
@@ -1440,3 +1440,9 @@ Tercero.- Para efectos de los expedientes que a la fecha se encuentren turnados 
 P.O. 2 DE DICIEMBRE DE 2015.
 
 Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 104. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 Y LA FRACCIÓN V DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
