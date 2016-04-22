@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2015-08-31"
+last_updated: "2016-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PROCESAL
 
 NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 637, PUBLICADO EN EL P.O. DE 1 DE NOVIEMBRE DE 2014, SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES ENTRARÁ EN VIGOR EN EL ESTADO DE OAXACA, DE MANERA GRADUAL PARA TODOS LOS DELITOS TIPIFICADOS EN EL CÓDIGO PENAL POR REGIONES DEL ESTADO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -5491,7 +5491,9 @@ b).- En las regiones del Istmo, Mixteca, Costa y Cuenca del Papaloapan, a partir
 
 c).- En la región de La Cañada a partir del día dos de marzo del año dos mil dieciséis.
 
-d).- En la región de Valles Centrales, a partir del día tres de mayo del año dos mil dieciséis.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+d).- En la Región de Valles Centrales, a partir del dieciocho de junio del año dos mil dieciséis.
 
 ###### ARTICULO SEGUNDO.
 
@@ -5520,3 +5522,11 @@ SÉPTIMO.- Publíquese el presente Decreto en el Periódico oficial del Gobierno
 P.O. 31 DE AGOSTO DE 2015.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1981.- MEDIANTE EL CUAL REFORMA EL INCISO D) DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 637 DE FECHA 22 DE OCTUBRE DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 1 DE NOVIEMBRE DE 2014".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
