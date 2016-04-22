@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-consejo-economico-y-social-del-estado-de-michoacan-8434
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-28"
-last_updated: "2011-12-28"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Michoacán, el miércoles 28 de diciembre de 2011.
 
@@ -85,19 +85,23 @@ XI. Reglamento: Al Reglamento del Consejo; y,
 
 XII. Secretariado Ejecutivo: Al Secretario Ejecutivo del Consejo.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 4.
 
-El Consejo estará integrado por cuarenta consejeros, representativos de los intereses de la sociedad, quienes tendrán una participación honorífica, propuestos por los siguientes Grupos:
+El Consejo se integrará por cuarenta ciudadanos, emanados de las siguientes áreas:
 
-I. Grupo Uno: integrado por diez consejeros representativos de organizaciones del sector privado empresarial;
+I. Privado-empresarial;
 
-II. Grupo Dos: integrado por diez consejeros representativos de organizaciones gremiales y campesinas;
+II. Gremial-Campesina;
 
-III. Grupo Tres: integrado por diez consejeros representativos de organizaciones de la sociedad civil y de la comunidad académica e investigadora; y,
+III. Sociedad civil y de la comunidad académica e investigadora; y,
 
-IV. Grupo Cuatro: integrado por diez consejeros representantes de las diez regiones socioeconómicas en que se divide el Estado, en términos de la Ley de Planeación del Estado de Michoacán de Ocampo.
+IV. Regiones socioeconómicas en que se divide el Estado, en términos de la ley en materia.
 
-Todas las organizaciones establecidas en las fracciones anteriores, deberán estar legalmente constituidas y registradas ante la autoridad correspondiente.
+Los aspirantes deberán ser respaldados por al menos una organización representativa de las áreas a que refieren las fracciones I, II y III. Por cada área habrá diez consejeros, quienes detentarán el cargo de forma honorifica.
+
+Se deberá garantizar la proporcionalidad en la integración del Consejo, por lo que no podrá haber menos del sesenta por ciento de consejeros pertenecientes a un área.
 
 ###### ARTÍCULO 5.
 
@@ -171,25 +175,43 @@ XIII. Emitir el Reglamento Interno del Consejo, para su buen funcionamiento; as�
 
 XIV. Las demás funciones que le otorgue la Ley.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE ABRIL DE 2016, PÁGINA 2.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 9.
 
-La Asamblea General emitirá una convocatoria pública, para su integración cada cuatro años, con noventa días de anticipación del término para el cual fue electa, donde se establecerán los requisitos que deberán reunir los aspirantes, debiendo cumplir con los siguientes requisitos:
+La Asamblea General, se renovará al término del nombramiento de los consejeros, de conformidad al escalonamiento que garantizará la temporalidad de éstos.
 
-I. Ser de nacionalidad mexicana, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2016)</small>
+
+La Asamblea General deberá emitir una convocatoria pública para su integración noventa días antes del término para el cual fue electa, garantizando el principio de no discriminación, en términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2016)</small>
+
+Los candidatos deberán reunir y cumplir con los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+I. Ser ciudadano de nacionalidad mexicana en pleno ejercicio de sus derechos;
 
 II. Ser avecindado en el Estado;
 
-III. Gozar de buena reputación, probidad, responsabilidad y compromiso con la democracia;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-IV. Acreditar experiencia en el diseño y promoción de políticas públicas e impulso de iniciativas para la promoción y protección de los derechos políticos, económicos, sociales, laborales, culturales y ambientales;
+III. Presentar Carta de no Antecedentes Penales, expedida por autoridad competente;
 
-V. Ser presentado como candidato por alguno de los cuatro Grupos representados en el Consejo;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-VI. Ser destacado en su ámbito de conocimiento o desempeño, por sus aportes al fortalecimiento de la sociedad civil, la democracia y la equidad social;
+IV. No ser parte de órganos directivos de algún partido político, cuando menos tres años antes de ser designado Consejero;
 
-VII. No ser parte de órganos directivos de algún partido político, cuando menos tres años antes de ser designado Consejero; y,
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-VIII. No ocupar puesto de representación popular ni ser funcionario en la administración de los poderes y órdenes de gobierno, cuando menos tres años antes de ser designado Consejero.
+V. No ser servidor público o detentar cargo de elección popular en ningún orden de gobierno, cuando menos tres años antes de su postulación; y,
+
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+
+VI. Las demás que señale la ley.
 
 ###### ARTÍCULO 10.
 
@@ -448,3 +470,13 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- RAFAEL MELGOZA RADILLO.
 
 (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 136 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4 FRACCIONES I, II, III Y IV, Y 9 DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
