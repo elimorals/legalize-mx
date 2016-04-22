@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-los-servicios-de-salud-de-yucatan-95295"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-07-15"
-last_updated: "2013-07-15"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LOS "SERVICIOS DE SALUD DE YUCATÁN"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2016.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el lunes 15 de julio de 2013.
 
@@ -121,7 +121,7 @@ c) Dirección de Protección contra Riesgos Sanitarios:
 
 d) Dirección de Administración y Finanzas;
 
-e) Dirección del Régimen Estatal de Protección Social en Salud;
+e) (DEROGADO, D.O. 22 DE ABRIL DE 2016)
 
 f) Dirección de Nutrición;
 
@@ -157,7 +157,7 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Administración y Finanzas;
 
-IV. El Secretario Técnico del Gabinete de Planeación y Evaluación;
+IV. (DEROGADA, D.O. 22 DE ABRIL DE 2016)
 
 V. El Secretario de Salud;
 
@@ -687,61 +687,17 @@ III. Subdirección de Recursos Materiales.
 
 De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas, que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema autorizado por la Junta de Gobierno.
 
-#### SECCIÓN CUARTA (SIC). Dirección del Régimen Estatal de Protección Social en Salud
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 22 DE ABRIL DE 2016)</small>
 
-Atribuciones de la Dirección del Régimen Estatal de Protección Social en Salud
+#### SECCIÓN CUARTA (SIC)
 
 ###### Artículo 34.
 
-La Dirección del Régimen Estatal de Protección Social en Salud tendrás las atribuciones siguientes:
-
-I. Organizar, administrar y operar el Sistema Estatal de Protección Social en Salud;
-
-II. Establecer las estrategias de promoción y registro de beneficiarios del Sistema Estatal de Protección Social en Salud, de acuerdo a la normatividad aplicable;
-
-III. Identificar a posibles beneficiarios y verificar la vigencia y tutela de sus derechos, así como su incorporación al Sistema Estatal de Protección Social en Salud;
-
-IV. Administrar el padrón de beneficiarios del Sistema Estatal de Protección Social en Salud, en los términos de las disposiciones jurídicas aplicables, para a su vez coadyuvar a la integración del Padrón Nacional;
-
-V. Evaluar la capacidad económica de las familias e identificar aquellas sujetas al esquema no contributivo;
-
-VI. Vigilar que los recursos transferidos al prestador de servicios por concepto de cuota social, estatal y/o familiar, sean aplicados de conformidad con lo dispuesto en la legislación, normatividad, acuerdos y convenios vigentes que sean aplicables;
-
-VII. Dar seguimiento y atender las quejas y sugerencias que formulen los beneficiarios del Sistema de Protección Social en Salud;
-
-VIII. Proponer y establecer convenios de portabilidad e intercambio con los regímenes estatales de protección social en salud de otras entidades federativas, así como dar cumplimiento a los convenios vigentes en la materia;
-
-IX. Definir y establecer convenios de gestión en materia de protección social en salud con los establecimientos de atención médica acreditados;
-
-X. Proponer y promover acciones de atención médica acordes al Catálogo de Servicios Esenciales de Salud vigente;
-
-XI. Verificar que los prestadores de servicios médicos cumplan con los requisitos establecidos en leyes, acuerdos y convenios aplicables;
-
-XII. Elaborar y presentar al Director General, los informes de seguimiento y rendición de cuentas sobre el ejercicio de los recursos del Sistema de Protección Social en Salud, que le requieran los poderes ejecutivos Federal y Estatal;
-
-XIII. Cumplir con las normas y reglas de operación establecidas a través del Programa de Desarrollo Humano Oportunidades o su equivalente;
-
-XIV. Administrar y operar los programas establecidos o por establecer de su competencia, así como su vinculación al Sistema de Protección Social en Salud;
-
-XV. Proponer al Director General las políticas del Régimen Estatal del Sistema de Protección Social en Salud;
-
-XVI. Revisar y visar los convenios, acuerdos y contratos que impliquen recursos financieros del Sistema de Protección Social en Salud, así como los relativos a su objeto, y
-
-XVII. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
-
-Unidades administrativas de la Dirección del Régimen de Protección Social en Salud
+(DEROGADO, D.O. 22 DE ABRIL DE 2016)
 
 ###### Artículo 35.
 
-La Dirección del Régimen Estatal de Protección Social en Salud, para el estudio, planeación y despacho de los asuntos que le competen, contará con las subdirecciones siguientes:
-
-I. Subdirección de Afiliación y Operación;
-
-II. Subdirección de Gestión de Servicios Médicos, y
-
-III. Subdirección de Administración y Financiamiento.
-
-De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas, que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema que apruebe la Junta de Gobierno.
+(DEROGADO, D.O. 22 DE ABRIL DE 2016)
 
 #### SECCIÓN QUINTA. Dirección de Nutrición
 
@@ -787,7 +743,7 @@ La Dirección de Nutrición, para el estudio, planeación y despacho de los asun
 
 De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas, que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema que apruebe la Junta de Gobierno.
 
-#### SECCIÓN SEXTA (SIC). Dirección del Laboratorio Estatal de Salud Pública
+#### SECCIÓN SÉPTIMA. Dirección del Laboratorio Estatal de Salud Pública
 
 Atribuciones de la Dirección del Laboratorio Estatal de Salud Pública
 
@@ -840,6 +796,8 @@ Unidades administrativas de la Dirección de Asuntos Jurídicos
 La Dirección de Asuntos Jurídicos, para el estudio, planeación y despacho de los asuntos que le competen, contará con la Subdirección de Asuntos Jurídicos.
 
 De igual forma, esta Dirección contará con los departamentos, oficinas y demás unidades administrativas, que apruebe el Director General dentro del presupuesto que le sea asignado a esta Dirección y el esquema que apruebe la Junta de Gobierno.
+
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 22 DE ABRIL DE 2016)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
@@ -963,7 +921,9 @@ XII. Coadyuvar en el diseño, organización y producción de material de audio y
 
 XIII. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
 
-## TÍTULO TERCERO (SIC). OTRAS UNIDADES ADMINISTRATIVAS
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 22 DE ABRIL DE 2016)</small>
+
+## TÍTULO CUARTO. OTRAS UNIDADES ADMINISTRATIVAS
 
 ### CAPÍTULO ÚNICO. De las Unidades Médicas y Técnicas
 
@@ -1143,7 +1103,9 @@ XXI. Dirigir las acciones necesarias para obtener la acreditación y la certific
 
 XXII. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
 
-## TÍTULO CUARTO. SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 22 DE ABRIL DE 2016)</small>
+
+## TÍTULO QUINTO. SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
 ### CAPÍTULO ÚNICO. Ausencias del Director General
 
@@ -1161,7 +1123,7 @@ IV. El Director de Administración y Finanzas;
 
 V. El Director de Asuntos Jurídicos;
 
-VI. El Director del Régimen Estatal de Protección Social en Salud;
+VI. (DEROGADA, D.O. 22 DE ABRIL DE 2016)
 
 VII. El Director de Nutrición, y
 
@@ -1216,3 +1178,25 @@ APROBADO POR LA JUNTA DE GOBIERNO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMIN
 DR. JORGE EDUARDO MENDOZA MÉZQUITA
 
 SECRETARIO DE SALUD Y DIRECTOR GENERAL DE LOS SERVICIOS DE SALUD DE YUCATÁN.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SSY 02/2015 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, salvo lo establecido en el artículo transitorio tercero.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El Director General de los Servicios de Salud de Yucatán deberá realizar la inscripción de las modificaciones de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este acuerdo.
+
+Tercero. Modificaciones a la integración de la junta de gobierno
+
+Las modificaciones realizadas al artículo 10 del Estatuto Orgánico de los Servicios de Salud de Yucatán entrarán en vigor el 1 de enero de 2016.
+
+Cuarto. Derogación tácita
+
+Se derogan las disposiciones normativas de igual o menor jerarquía emitidas por la Junta de Gobierno de los Servicios de Salud de Yucatán que se opongan al contenido de este acuerdo.
