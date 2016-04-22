@@ -4,7 +4,7 @@ identifier: "OAX-declaratoria-de-entrada-en-vigor-de-manera-gradual-en-el-103650
 country: "mx"
 rank: "otro"
 publication_date: "2014-11-01"
-last_updated: "2014-11-01"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 DECLARATORIA DE ENTRADA EN VIGOR DE MANERA GRADUAL EN EL ESTADO DE OAXACA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
 
 Declaratoria publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 1 de noviembre de 2014.
 
@@ -49,7 +49,9 @@ b).- En las regiones del Istmo. Mixteca, Costa y Cuenca del Papaloapan, a partir
 
 c).- En la región de La Cañada a partir del día dos de marzo del año dos mil dieciséis.
 
-d).- En la región de Valles Centrales, a partir del día tres de mayo del año dos mil dieciséis.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+d).- En la Región de Valles Centrales, a partir del dieciocho de junio del año dos mil dieciséis.
 
 ###### ARTICULO SEGUNDO.
 
@@ -120,3 +122,13 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 
 Al C...
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1981.- MEDIANTE EL CUAL REFORMA EL INCISO D) DEL ARTICULO PRIMERO DEL DECRETO NÚMERO 637 DE FECHA 22 DE OCTUBRE DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 1 DE NOVIEMBRE DE 2014”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
