@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-universidad-autonoma-de-chihuahua-56223"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-06-27"
-last_updated: "2011-08-31"
+last_updated: "2016-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CHIHUAHUA
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CHIHUAHUA
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 27 de junio de 2007.
 
@@ -271,7 +271,9 @@ IX. No estar en servicio activo en el Ejército.
 
 La designación del Rector se efectuará conforme al siguiente procedimiento:
 
-I. En la primera semana del mes de mayo del último año de su gestión, el Rector expedirá convocatoria para elegir al nuevo Rector, en la cual se señalará un término de cinco días naturales para que los Consejos Técnicos, previa auscultación de sus bases, propongan candidatos. En el caso de que los propuestos sean menos de tres, se requerirá a los Consejos, para que en un plazo igual designen candidatos para completar por lo menos una terna;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2016)</small>
+
+I. En la tercera semana del mes de agosto del último año de su gestión, el Rector expedirá convocatoria para elegir al nuevo Rector, en la cual se señalará un término de cinco días naturales para que los Consejos Técnicos, previa auscultación de sus bases, propongan candidatos. En el caso de que los propuestos sean menos de tres, se requerirá a los Consejos, para que en un plazo igual designen candidatos para completar por lo menos una terna;
 
 II. Dentro de las cuarenta y ocho horas siguientes a la recepción de las propuestas, el Rector citará a sesión del Consejo Universitario para celebrarse dentro de los cinco días naturales siguientes, dándole a conocer la lista de los candidatos y su currículum respectivo. En la sesión, cada consejero votará por un solo candidato y con los que obtengan mayor número de votos se integrará una terna;
 
@@ -1031,7 +1033,7 @@ QUINTO.- El Consejo Universitario, en la próxima sesión inmediata posterior a 
 
 D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los catorce días del mes de junio del año dos mil siete.
 
-PRESIDENTE. DIP. JOEL ARANDA OLIVAS. Rúbrica. SECRETARIO. DIP. SALVADOR GÓMEZ RAMÍREZ Rúbrica. SECRETARIA. DIP. OBDULlA MENDOZA LEÓN. Rúbrica.
+PRESIDENTE. DIP. JOEL ARANDA OLIVAS. Rúbrica. SECRETARIO. DIP. SALVADOR GÓMEZ RAMÍREZ Rúbrica. SECRETARIA. DIP. OBDULIA MENDOZA LEÓN. Rúbrica.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1046,3 +1048,11 @@ P.O. 31 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1363/2016 II P.O., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
