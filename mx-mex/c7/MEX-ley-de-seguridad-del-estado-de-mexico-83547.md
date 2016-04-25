@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2015-05-13"
+last_updated: "2016-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -2541,6 +2541,24 @@ IV. La reincidencia en el incumplimiento de obligaciones, en su caso.
 
 La Comisión de Honor y Justicia ordenará la notificación al servidor público de la resolución correspondiente, conforme a lo establecido en el Código de Procedimientos Administrativos del Estado de México.
 
+> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2016)</small>
+
+###### Artículo 179 Bis.
+
+Las facultades de las autoridades y órganos competentes para imponer las sanciones que establece esta Ley, se sujetarán a lo siguiente:
+
+I. Prescribirán en tres años si la sanción a imponer al elemento policial es de amonestación pública, amonestación privada, arresto o separación temporal del servicio.
+
+II. Prescribirán en cinco años, si la sanción a imponer es de separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los elementos policiales.
+
+Cuando los actos u omisiones fuesen graves los plazos de prescripción serán de siete años. El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+
+La prescripción se interrumpirá por cada trámite que las autoridades realicen y le sea notificado al presunto responsable.
+
+En todo momento las autoridades y órganos competentes para imponer las sanciones que establece la presente Ley podrán hacer valer la prescripción de oficio.
+
+Asimismo, la prescripción se interrumpirá durante la tramitación del proceso administrativo ante el Tribunal de lo Contencioso Administrativo que se formule en contra de las resoluciones que se dicten en términos de la presente Ley. Para estos efectos, la interrupción del plazo de prescripción se inicia con la interposición de la demanda y concluye cuando se notifique a la autoridad administrativa el auto por el que se declara que ha causado ejecutoria la sentencia definitiva.
+
 ###### Artículo 180.
 
 Las resoluciones sancionadoras podrán ser impugnadas mediante el Recurso Administrativo de Inconformidad, ante el Titular de la Institución Policial correspondiente o a través del juicio ante el Tribunal de lo Contencioso Administrativo del Estado de México, dentro de los quince días posteriores al en que surta efectos la notificación de la resolución.
@@ -2950,3 +2968,15 @@ G.G. 13 DE MAYO DE 2015.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 25 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 81.- POR EL QUE SE REFORMAN LAS FRACCIONES I Y II, Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 71 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y SE ADICIONA EL ARTÍCULO 179 BIS A LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO. Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
