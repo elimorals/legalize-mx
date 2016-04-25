@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2016-03-21"
+last_updated: "2016-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1171,7 +1171,9 @@ a).- De Hacienda Municipal;
 
 b).- De Seguridad Pública, Tránsito y Vialidad;
 
-c).- De Derechos Humanos;
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+
+c).- De derechos humanos y atención de las personas con discapacidad;
 
 d).- De Gobernación, Bandos, Reglamentos y Circulares;
 
@@ -3028,3 +3030,11 @@ P.O. 21 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 650.- QUE REFORMA EL INCISO C DE LA FRACCIÓN I DEL ARTÍCULO 71 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
