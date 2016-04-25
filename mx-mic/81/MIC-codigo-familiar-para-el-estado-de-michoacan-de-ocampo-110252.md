@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2016-04-08"
+last_updated: "2016-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL PRESENTE CÓDIGO, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, SU VIGENCIA INICIARÁ DE FORMA GRADUAL Y EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO VÉASE DICHA PUBLICACIÓN OFICIAL.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL PRESENTE CÓDIGO, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, SU VIGENCIA INICIARÁ DE FORMA GRADUAL Y EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO VÉASE DICHA PUBLICACIÓN OFICIAL.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -149,7 +149,7 @@ Las personas mayores de edad pueden disponer de sí y de sus bienes con solo las
 
 ###### Artículo 17.
 
-El matrimonio del menor de edad produce, de derecho, la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado no recaerá en la patria potestad.
+(DEROGADO, P.O. 25 DE ABRIL DE 2016)
 
 ###### Artículo 18.
 
@@ -483,7 +483,7 @@ VI. El nombre del juez que pronunció tales resoluciones y la fecha de estas.
 
 ###### Artículo 76.
 
-En los casos de emancipación por efecto del matrimonio, no se expedirá acta por separado, será suficiente para acreditarla, el acta de matrimonio.
+(DEROGADO, P.O. 25 DE ABRIL DE 2016)
 
 ### CAPÍTULO VI. ACTAS DE MATRIMONIO
 
@@ -501,19 +501,25 @@ IV. Que es su voluntad unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, pondrá su huella dactilar y firmará a su ruego otra persona conocida, mayor de edad y vecina del lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 78.
 
 Al escrito a que se refiere el artículo anterior, se acompañará:
 
 I. El acta de nacimiento de los pretendientes, y en su defecto dictamen médico que compruebe su edad;
 
-II. La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 134 y 135 de este Código, cuando sean menores de edad, o en su caso copia certificada de la autorización judicial;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+
+II. La constancia de que prestan su consentimiento para que el matrimonio se celebre;
 
 III. La declaración de dos testigos mayores de edad, por cada uno de los pretendientes, que los conozcan y les conste que no tienen impedimento legal para casarse;
 
 IV. Un certificado médico sobre el estado de salud de los pretendientes. Para los indigentes, tienen obligación de expedir gratuitamente este certificado los médicos del sector de salud pública; y el Oficial del Registro Civil, les explicará su contenido;
 
-V. El convenio mediante el cual se establezca el régimen patrimonial del matrimonio, el que deberá ser aprobado, si los pretendientes son menores de edad, por las personas que deben dar el consentimiento para la celebración del matrimonio, ajustándose a las prescripciones de los artículos 171, 172 y 195 de este Código. Cuando los pretendientes, por falta de conocimientos no puedan elaborar el convenio, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los pretensos le suministren;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+
+V. El convenio mediante el cual se establezca el régimen patrimonial del matrimonio, ajustándose a las prescripciones de los artículos 171, 172 y 195 de este Código. Cuando los pretendientes, por falta de conocimientos no puedan elaborar el convenio, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los pretensos le suministren;
 
 VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los pretendientes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de ellos hubiere sido casado anteriormente; y,
 
@@ -541,13 +547,15 @@ En el lugar, día y hora señalados para la celebración del matrimonio deberán
 
 Acto continuo, el Oficial del Registro Civil, leerá en voz alta la solicitud de matrimonio, mencionando los documentos que con ella se hayan presentado y las diligencias practicadas e interrogará a los testigos acerca de si los contrayentes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de estos si es su voluntad unirse en matrimonio; y, si están conformes, los declarará unidos civilmente en nombre de la ley y de la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 84.
 
 Se levantará luego el acta de matrimonio, en la cual se hará constar:
 
 I. Los nombres, apellidos, edad, nacionalidad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
 
-II. Si son mayores o menores de edad;
+II. (DEROGADA, P.O. 25 DE ABRIL DE 2016)
 
 III. Los nombres, apellidos, nacionalidad, ocupación y domicilio de los progenitores;
 
@@ -843,23 +851,27 @@ El matrimonio celebrado en el extranjero por mexicanos entre sí, o con extranje
 
 ### CAPÍTULO II. REQUISITOS ESENCIALES PARA CONTRAER MATRIMONIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 133.
 
 Son requisitos esenciales para contraer matrimonio:
 
 I. Celebrarse ante el Oficial del Registro Civil, habiendo satisfecho las formalidades exigidas por este Código;
 
-II. Que ambos contrayentes sean mayores de edad, salvo dispensa y autorización legalmente otorgada; y,
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+
+II. Que ambos contrayentes sean mayores de edad; y,
 
 III. Expresar su voluntad de unirse en matrimonio.
 
 ###### Artículo 134.
 
-Las personas menores de edad podrán contraer matrimonio, siempre que hayan cumplido dieciséis años, expresando su voluntad para hacerlo y tengan el consentimiento de quien o quienes ejerzan la patria potestad o la tutela.
+(DEROGADO, P.O. 25 DE ABRIL DE 2016)
 
 ###### Artículo 135.
 
-A falta o por negativa o imposibilidad de quien o quienes ejerzan la patria potestad o la tutela, el juez del domicilio del menor de edad, suplirá el consentimiento, el que deberá ser otorgado atendiendo a las circunstancias especiales del caso, siguiendo el procedimiento previsto al efecto en el Libro Segundo, Título Décimo Tercero, Capítulo VI de este Código.
+(DEROGADO, P.O. 25 DE ABRIL DE 2016)
 
 ###### Artículo 136.
 
@@ -867,7 +879,7 @@ Los que hubieren otorgado su consentimiento para un matrimonio, no pueden revoca
 
 ###### Artículo 137.
 
-Si quien hubiere otorgado su consentimiento para la celebración del matrimonio, falleciere antes de que se celebre, la persona que en su defecto lo sustituya no puede revocar tal consentimiento, siempre que el matrimonio se verifique dentro del término fijado en el artículo 82 de este Código.
+(DEROGADO, P.O. 25 DE ABRIL DE 2016)
 
 ### CAPÍTULO III. IMPEDIMENTOS PARA CONTRAER MATRIMONIO
 
@@ -887,6 +899,8 @@ I. Los no dispensables, que prohíben contraer matrimonio e impiden su validez; 
 
 II. Los dispensables que consisten en una prohibición de contraer matrimonio, pero si se celebra es susceptible de convalidación y confirmación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 141.
 
 Son impedimentos no dispensables:
@@ -905,11 +919,17 @@ VI. El matrimonio subsistente con persona distinta de aquella con quien se prete
 
 VII. El parentesco entre adoptante y adoptado o sus descendientes.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ABRIL DE 2016)</small>
+
+VIII. La falta de edad requerida por la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 142.
 
 Son impedimentos dispensables:
 
-I. La falta de edad requerida por la ley;
+I. (DEROGADA, P.O. 25 DE ABRIL DE 2016)
 
 II. El parentesco por consanguinidad en línea colateral, en tercer grado, desigual entre tíos y sobrinos;
 
@@ -991,7 +1011,7 @@ Los cónyuges mayores de edad tienen capacidad para administrar, contratar o dis
 
 ###### Artículo 156.
 
-Los cónyuges menores de edad tendrán la administración de sus bienes conforme a lo establecido en el artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales, en términos de lo dispuesto por el artículo 15 de este Código.
+(DEROGADO, P.O. 25 DE ABRIL DE 2016)
 
 ###### Artículo 157.
 
@@ -1143,13 +1163,17 @@ La sentencia que declare la ausencia de alguno de los cónyuges, suspende los ef
 
 El abandono injustificado del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; estos no podrán comenzar de nuevo sino por convenio expreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 182.
 
 La sociedad conyugal termina:
 
 I. Por la disolución del matrimonio;
 
-II. Por voluntad de los consortes, pero si estos son menores de edad, debe intervenir un tutor especial, resolviendo lo conducente el juez del domicilio conyugal, siguiendo el trámite de la jurisdicción voluntaria; y,
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+
+II. Por voluntad de los consortes, resolviendo lo conducente el juez del domicilio conyugal, siguiendo el trámite de la jurisdicción voluntaria; y,
 
 III. Por la sentencia que declare la presunción de muerte del cónyuge ausente.
 
@@ -1321,7 +1345,7 @@ Las donaciones antenupciales hechas entre los futuros cónyuges serán revocadas
 
 ###### Artículo 212.
 
-Los menores de edad podrán hacer donaciones antenupciales, con intervención de quien ejerza la patria potestad o tutela y con aprobación judicial que se tramitará en jurisdicción voluntaria.
+(DEROGADO, P.O. 25 DE ABRIL DE 2016)
 
 ###### Artículo 213.
 
@@ -1627,7 +1651,7 @@ El juez oral, en la sentencia, habrá de resolver atendiendo a las circunstancia
 
 ###### Artículo 259.
 
-Los cónyuges menores de edad necesitan de un tutor especial para litigar en asuntos de divorcio. La solicitud de divorcio, propuesta y contrapropuesta de convenio, así como la vista de esta, serán suscritas por el tutor y el cónyuge, quienes a su vez deberán comparecer personalmente a las audiencias que se decreten.
+(DEROGADO, P.O. 25 DE ABRIL DE 2016)
 
 ###### Artículo 260.
 
@@ -2489,11 +2513,15 @@ II. Cuando contraigan ulteriores nupcias; y,
 
 III. Cuando su administración fuere realmente ruinosa para los hijos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 416.
 
 El derecho de usufructo concedido a las personas que ejerzan la patria potestad se extingue por:
 
-I. La emancipación derivada del matrimonio o la mayoría de edad;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+
+I. La emancipación derivada de la mayoría de edad;
 
 II. Pérdida de la patria potestad; o,
 
@@ -2519,13 +2547,15 @@ Los que ejerzan la patria potestad deben entregar los bienes y frutos a las pers
 
 ### CAPÍTULO IV. MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 421.
 
 La patria potestad se acaba:
 
 I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II. Con la emancipación derivada del matrimonio; y,
+II. (DEROGADA, P.O. 25 DE ABRIL DE 2016)
 
 III. Por la mayoría de edad del hijo.
 
@@ -2801,6 +2831,8 @@ En los casos en que los que ejerzan la patria potestad gocen de la mitad del usu
 
 Cuando el deudor alimentario no estuviere presente, o estándolo rehusare entregar los alimentos a que está obligado, será responsable de las deudas que los acreedores alimentistas contraigan única y exclusivamente para cubrir sus necesidades. El juez resolverá lo inherente al monto de la deuda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 461.
 
 Se suspende o cesa, según el caso, la obligación de dar alimentos, por cualquiera de las causas siguientes:
@@ -2817,7 +2849,9 @@ V. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandon
 
 VI. Cuando los hijos mayores, no se encuentren estudiando acorde a su edad, o bien no se hubiesen titulado en un plazo que resultare prudente;
 
-VII. Por la emancipación derivada del matrimonio, vivir en concubinato, tener una relación consensuada o procrear un hijo en forma voluntaria; y,
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+
+VII. Vivir en concubinato, tener una relación consensuada o procrear un hijo en forma voluntaria; y,
 
 VIII. Las demás que señale este Código.
 
@@ -3639,13 +3673,15 @@ Lo dispuesto sobre impedimentos o excusas de los tutores regirá igualmente resp
 
 Los que tienen derecho de nombrar tutor, lo tienen también de nombrar curador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 612.
 
 Designarán por sí mismos al curador, con aprobación judicial:
 
 I. Los mayores de dieciséis años; y,
 
-II. Los menores de edad emancipados por razón del matrimonio.
+II. (DEROGADA, P.O. 25 DE ABRIL DE 2016)
 
 ###### Artículo 613.
 
@@ -7370,5 +7406,11 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA
 P.O. 8 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 131 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 20, 75, 119, 120, 515, 564, 646, 668, 791 Y 825 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 25 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 141 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 78, 84, 133, 141, 142, 182, 416, 421, 461, Y 612; Y SE DEROGAN LOS ARTÍCULOS 17, 76, 134, 135, 137, 156, 212 Y 259 TODOS DEL CÓDIGO FAMILIAR DEL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
