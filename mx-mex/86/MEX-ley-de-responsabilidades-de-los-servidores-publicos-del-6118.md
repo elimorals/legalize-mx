@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2016-02-03"
+last_updated: "2016-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -933,25 +931,37 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé, se sujetará a lo siguiente:
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 25 DE ABRIL DE 2016)</small>
 
-I. Prescribirán en un año, si la sanción administrativa disciplinaria a imponer es de amonestación, suspensión del empleo, cargo o comisión, la destitución y la inhabilitación, cuando no se impongan con una sanción económica o se finque una responsabilidad resarcitoria;
+I. Prescribirán en tres años, si la sanción administrativa disciplinaria a imponer es de amonestación, suspensión del empleo, cargo o comisión, la destitución y la inhabilitación, cuando no se impongan con una sanción económica o se finque una responsabilidad resarcitoria;
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE ABRIL DE 2016)</small>
 
-II. Prescribirán en tres años:
+II. Prescribirán en cinco años:
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 a) Para imponer la sanción económica, que establece el artículo 49 fracción IV de esta Ley;
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
 b) Para imponer la sanción pecuniaria por omisión o extemporaneidad, en la presentación de la manifestación de bienes en los plazos establecidos;
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+
 c) Para fincar responsabilidad administrativa resarcitoria;
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 d) Para imponer la amonestación, suspensión, destitución e inhabilitación, si de la responsabilidad se deriva que existe beneficio obtenido daño o perjuicio causado a los fondos, valores, recursos económicos del Estado, municipios, o de aquellos concertados o convenidos con la federación y los municipios o al patrimonio de los organismos auxiliares y fideicomisos públicos.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2015)</small>
 
 e) Para imponer la sanción derivada del Conflicto de Intereses.
+
+> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2016)</small>
+
+Tratándose de faltas administrativas graves por acción u omisión el plazo de la prescripción será de siete años.
 
 El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
@@ -1740,3 +1750,15 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 25 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 81.- POR EL QUE SE REFORMAN LAS FRACCIONES I Y II, Y SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTICULO 71 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y SE ADICIONA EL ARTÍCULO 179 BIS A LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO. Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
