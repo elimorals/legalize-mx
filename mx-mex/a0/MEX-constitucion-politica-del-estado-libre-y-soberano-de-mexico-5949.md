@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2015-12-14"
+last_updated: "2016-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2016.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -341,9 +341,9 @@ Los partidos políticos son entidades de interés público con personalidad jur�
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen ésta Constitución y la ley respectiva.
 
-> <small>(REFORMADO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 25 DE ABRIL DE 2016)</small>
 
-En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos o en coalición con otros partidos.
+En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, formulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
@@ -1491,7 +1491,7 @@ III. Promulgar y publicar las leyes, decretos o acuerdos que expida la Legislatu
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura.
+IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura;
 
 V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;
 
@@ -4106,3 +4106,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 82.- POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
+
+SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
