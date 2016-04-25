@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-jovenes-del-estado-de-michoacan-de-ocampo-81518"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2011-05-24"
+last_updated: "2016-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE LOS JOVENES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE LOS JOVENES DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
 
 Ley publicada en la quinta sección del Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -45,9 +45,13 @@ LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley tiene por objeto, establecer el marco normativo e institucional que determine las acciones a seguir, en materia de derechos, obligaciones, desarrollo integral, participación y representación de los jóvenes, como sujetos estratégicos del desarrollo de la entidad
+La presente ley es de orden público e interés social y tiene por objeto establecer el marco normativo e institucional para establecer las medidas y acciones a seguir que contribuyan al desarrollo integral, la participación y representación de los jóvenes, como sujetos estratégicos del desarrollo de la entidad; así como regular el funcionamiento del Instituto de la Juventud Michoacana.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 2.
 
@@ -59,67 +63,115 @@ II. Comisión Interinstitucional: La Comisión Interinstitucional para los Jóve
 
 III. Comisiones: Son órganos de consulta dependientes de los Consejos;
 
-IV. Consejo Estatal: El Consejo Estatal de Jóvenes;
+IV. Consejos: El Consejo Estatal, los Consejos Regionales y los Consejos Municipales de Jóvenes;
 
-V. Consejos Regionales: Los Consejos Regionales de Jóvenes;
+V. Consejo Estatal: El Consejo Estatal de Jóvenes;
 
-VI. Consejos Municipales: Los Consejos Municipales de Jóvenes;
+VI. Consejos Regionales: Los Consejos Regionales de Jóvenes;
 
-VII. Consejos: El Consejo Estatal, los Consejos Regionales y los Consejos Municipales de Jóvenes;
+VII. Consejos Municipales: Los Consejos Municipales de Jóvenes;
 
 VIII. Dependencias: Las dependencias de la Administración Pública Estatal Centralizada, establecidas en Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, que contribuyan al desarrollo integral de la juventud;
 
-IX. Poder Ejecutivo: El Titular del Poder Ejecutivo;
+IX. Director: Al Director del Instituto de la Juventud Michoacana;
 
 X. Entidades: Las entidades de la Administración Pública Paraestatal, establecidas en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, que contribuyan al desarrollo integral de la juventud;
 
 XI. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
-XII. Joven: Persona cuya edad comprende el rango de edad entre los 12 y 29 años cumplidos;
+XII. Gobierno: Al Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-XIII. Juventud: Conjunto de jóvenes;
+XIII. Instituto: Al Instituto de la Juventud Michoacana;
 
-XIV. Ley: La Ley de los Jóvenes del Estado de Michoacán de Ocampo;
+XIV. Joven: Sujeto de derecho cuya edad comprende de los 12 a los 29 años de edad;
 
-XV. Municipios: Los municipios del Estado;
+XV. Juventud: Al conjunto de jóvenes;
 
-XVI. Políticas Públicas: Conjunto de acciones de las instituciones de Gobierno que procuran el beneficio de la ciudadanía en materia de juventud.
+XVI. Junta: A la Junta de Gobierno;
 
-XVII. Programa: El Programa Estatal de los Jóvenes; y,
+XVII. Ley: La Ley de los Jóvenes del Estado de Michoacán de Ocampo;
 
-XVIII. Secretaría: Secretaría de los Jóvenes del Estado de Michoacán.
+XVIII. Municipios: Los municipios del Estado;
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS JÓVENES
+XIX. Perspectiva Juvenil: Al enfoque operativo para la construcción de políticas y acciones sociales, económicas y políticas orientadas a la protección de los derechos, el desarrollo integral y la participación de las personas jóvenes en el Estado;
+
+XX. Poder Ejecutivo: El Titular del Poder Ejecutivo;
+
+XXI. Políticas Públicas: Conjunto de acciones de las instituciones de Gobierno que procuran el beneficio de la ciudadanía en materia de juventud;
+
+XXII. Plan: Al Plan integral de desarrollo para el Estado de Michoacán; y,
+
+XXIII. Secretaría: Secretaría de Política Social.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS JOVENES
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 3.
 
-Son derechos de los Jóvenes en el Estado, los establecidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, los demás ordenamientos aplicables y los que expresamente señala esta Ley.
+Los jóvenes en el estado, son titulares de todos los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, los demás ordenamientos aplicables, quedando reafirmado el pleno goce y disfrute de sus derechos humanos, civiles, políticos, económicos, sociales y culturales.
+
+Entre los derechos que se destacan, se mencionan de manera enunciativa más no limitativa, los siguientes:
+
+a) Derecho a la cultura y al arte;
+
+b) Derecho al acceso a las tecnologías de información y comunicación;
+
+c) Derecho al deporte;
+
+d) Derecho al desarrollo físico y psicológico;
+
+e) Derecho al internet libre en espacios y edificios públicos;
+
+f) Derecho a la educación;
+
+g) Derecho a la educación sexual y reproductiva, así como a la protección contra los abusos sexuales;
+
+h) Derecho a formar parte de una familia;
+
+i) Derecho al honor, intimidad y a la propia imagen;
+
+j) Derecho a la identidad y personalidad propias;
+
+k) Derecho a la integridad personal;
+
+l) Derecho a la justicia;
+
+m) Derecho a la libertad y seguridad personal;
+
+n) Derecho a un medio ambiente saludable;
+
+o) Derecho a la objeción de conciencia;
+
+p) Derecho al ocio y esparcimiento;
+
+q) Derecho a la participación política y social;
+
+r) Derecho a la protección social;
+
+s) Derecho a la salud;
+
+t) Derecho al trabajo;
+
+u) Derecho al emprendimiento de empresas y estímulo a sus proyectos innovadores;
+
+v) Derecho a la vida;
+
+w) Derecho a la paz y a tener un entorno libre de violencia;
+
+x) Derecho a la vivienda;
+
+y) Libertad de pensamiento, conciencia y religión; y,
+
+z) Libertad de expresión, reunión y asociación.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
-El Titular del Poder Ejecutivo a través de las dependencias, entidades e instituciones correspondientes, garantizará a los jóvenes las condiciones necesarias para el ejercicio de los siguientes derechos:
-
-I. Acceder a becas en los rubros académicos, deportivos, culturales; así como a financiamiento para el desarrollo de proyectos productivos y científicos individuales o colectivos;
-
-II. Tener acceso a la cultura y las artes;
-
-III. Disfrutar de actividades recreativas y espacios designados para tal efecto;
-
-IV. Participar en prácticas deportivas de acuerdo a la libre elección y aptitudes del caso;
-
-V. Acceder a un trabajo decente y bien remunerado, socialmente útil y que pueda mejorar su calidad de vida, en un ambiente laboral sano sin que interfiera en su salud, educación y recreación;
-
-VI. Acceder a la capacitación para generar experiencia laboral, conviniendo jornadas de trabajo con empresas públicas y privadas compatibles con el ejercicio de su derecho a la educación;
-
-VII. Contar con mejores condiciones laborales para las jóvenes en periodo de embarazo y madres lactantes sin ser discriminadas en su empleo;
-
-VIII. Acceder a los servicios de salud pública, así como a estar informados sobre la prevención, tratamiento y rehabilitación de adicciones y enfermedades, contando con orientación e información suficiente sobre temas sexuales, reproductivos, violencia física y psicológica;
-
-IX. Contar con una alimentación digna que les permita su sano desarrollo; y,
-
-X. Participar en la libre conformación de organizaciones juveniles y en la definición de las políticas públicas en materia de juventud a través de los Consejos,
-
-Para efecto de lo establecido en las fracciones anteriores, no será determinante la condición económica, edad, sexo, religión o creencia, raza, ideología, grupo étnico o sociocultural y orientación sexual.
+Es deber de todo joven respetar y hacer cumplir la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo; así como todas las normas que de ella emanen, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad, a través de la convivencia pacífica, la tolerancia, el compromiso social y la sustentabilidad ambiental.
 
 ###### ARTÍCULO 5.
 
@@ -141,149 +193,171 @@ VII. Contribuir a la conservación y mejoramiento del medio ambiente.
 
 ### CAPÍTULO TERCERO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 6.
 
-Son autoridades en materia de juventud, en el ámbito de sus respectivas competencias:
+El Titular del Poder Ejecutivo a través de las dependencias, entidades e instituciones correspondientes, garantizará a los jóvenes las condiciones necesarias para el ejercicio de sus derechos, creando políticas públicas con perspectiva juvenil, en materia laboral, educativa, de salud, cultura, arte, ciencia, deporte y cualquier otra que permita garantizar a los jóvenes las condiciones necesarias para el ejercicio de sus derechos, con medidas como:
 
-I. El Titular del Poder Ejecutivo del Estado, a través de la Secretaría; y,
+I. Garantizar la asignación de los recursos humanos, técnicos y financieros necesarios para programas que atiendan a la promoción de la juventud, en el área rural y urbana, la participación en la discusión para elaborar los planes de desarrollo y su integración en el proceso de puesta en marcha de las correspondientes acciones;
 
-II. Los Ayuntamientos.
+II. Fomentar, en igualdad de oportunidades, actividades que contribuyan al desarrollo de los jóvenes en los planos físicos, intelectual y social, garantizando los recursos humanos y la infraestructura necesaria para el ejercicio;
+
+III. Promover y fomentar la conciencia, la responsabilidad, la solidaridad, la participación y la educación e información ambiental, entre los jóvenes;
+
+IV. Capacitación de los jóvenes que sufren de alguna discapacidad con el fin de que puedan incorporarse al empleo;
+
+V. Proteger contra la explotación económica y contra todo trabajo que ponga en peligro la salud, la educación y el desarrollo físico y psicológico;
+
+VI. Contar con mejores condiciones laborales para las jóvenes en periodo de embarazo y madres lactantes sin ser discriminadas en su empleo;
+
+VII. Acceder a los servicios de salud pública, así como a estar informados sobre la prevención, tratamiento y rehabilitación de adicciones y enfermedades, contando con orientación e información suficiente sobre temas sexuales, reproductivos, violencia física y psicológica;
+
+VIII. Promover a nivel nacional e internacional, medidas que faciliten la movilidad académica y estudiantil entre los jóvenes, acordando para ello el establecimiento de los procedimiento validación que permitan, en su caso, la equivalencia de los niveles, grados académicos y títulos profesionales de sus respectivos sistemas educativos;
+
+IX. Promover que las instituciones gubernamentales y legislativas fomenten la participación de los jóvenes en la formulación de políticas y leyes referidas a la juventud.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 7.
 
-La Secretaría además de las atribuciones conferidas en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, tendrá las siguientes obligaciones:
+Son autoridades en materia de juventud, en el ámbito de sus respectivas competencias:
 
-I. Fomentar, conducir, evaluar y aplicar las políticas públicas estatales en materia de juventud;
+I. El Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Política Social;
 
-II. El ejercicio, protección y respeto de los derechos, así como el cumplimiento de las obligaciones establecidas en la presente Ley;
+II. El Instituto de la Juventud Michoacana; y,
 
-III. De acuerdo con normatividad vigente, concertar acuerdos y convenios para promover la coordinación interinstitucional, con organismos gubernamentales y de cooperación en el ámbito municipal, estatal, nacional e internacional, con la participación, en su caso, de los sectores sociales públicos y privados;
+III. Los Ayuntamientos.
 
-IV. Elaborar programas de orientación e información sobre: adicciones, nutrición, educación sexual y salud reproductiva, apoyo a jóvenes en situación de exclusión, incorporación laboral, vivienda, organización juvenil, liderazgo social y en general todos aquellos cuya finalidad sea el desarrollo integral de la juventud;
-
-V. Promover la creación de organizaciones juveniles, así como incentivar el funcionamiento de las ya existentes;
-
-VI. Fomentar a las asociaciones juveniles para que se constituyan legalmente en representación de los jóvenes y promover su participación en la gestión pública;
-
-VII. Coordinar la integración y operación del Registro Estatal de Organismos y Asociaciones Juveniles;
-
-VIII. Constituir los Consejos Estatal y Regionales coordinándose con las instancias y autoridades correspondientes y renovarlos cada tres años;
-
-IX. Informar a los Consejos de los programas y servicios que presta a los jóvenes y apoyarlos en la difusión y promoción de los mismos;
-
-X. Realizar en coordinación con los Consejos las acciones necesarias para la elaboración del Programa;
-
-XI. Crear un sistema de orientación para los jóvenes que les brinde opciones académicas y laborales para su desarrollo;
-
-XII. Ejecutar las acciones que le correspondan que estén previstas en el Plan Estatal de Desarrollo para este rubro, así como coadyuvar en la vigilancia del cumplimiento de esta Ley; y,
-
-XIII. Las demás que promuevan la participación y desarrollo integral de los jóvenes.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 8.
+
+La Secretaría a través del Instituto, además de las atribuciones conferidas en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, tendrá las siguientes obligaciones:
+
+I. Desarrollar de forma abierta y participativa políticas públicas con perspectiva juvenil;
+
+II. Fomentar, conducir, evaluar y aplicar las políticas públicas estatales en materia de juventud;
+
+III. El ejercicio, protección y respeto de los derechos, así como el cumplimiento de las obligaciones establecidas en la presente Ley;
+
+IV. De acuerdo con normatividad vigente, concertar acuerdos y convenios para promover la coordinación interinstitucional, con organismos gubernamentales y de cooperación en el ámbito municipal, estatal, nacional e internacional, con la participación, en su caso, de los sectores sociales públicos y privados;
+
+V. Elaborar programas de orientación e información sobre: adicciones, nutrición, educación sexual y salud reproductiva, apoyo a jóvenes en situación de exclusión, incorporación laboral, emprendedurismo, fomento al primer empleo y empresa, vivienda, organización juvenil, liderazgo social y en general todos aquellos cuya finalidad sea el desarrollo integral de la juventud;
+
+VI. Promover la creación de organizaciones juveniles, así como incentivar el funcionamiento de las ya existentes;
+
+VII. Fomentar a las asociaciones juveniles para que se constituyan legalmente en representación de los jóvenes y promover su participación en la gestión pública;
+
+VIII. Coordinar la integración y operación del Registro Estatal de Organismos y Asociaciones Juveniles;
+
+IX. Constituir los Consejos Estatal y Regionales coordinándose con las instancias y autoridades correspondientes y renovarlos cada tres años;
+
+X. Informar a los Consejos de los programas y servicios que presta a los jóvenes y apoyarlos en la difusión y promoción de los mismos;
+
+XI. Realizar en coordinación con los Consejos las acciones necesarias para la elaboración del Programa;
+
+XII. Crear un sistema de orientación para los jóvenes que les brinde opciones académicas y laborales para su desarrollo;
+
+XIII. Ejecutar las acciones que le correspondan y que estén previstas en el Plan Estatal de Desarrollo para este rubro, así como coadyuvar en la vigilancia del cumplimiento de esta Ley; y,
+
+XIV. Las demás que promuevan la participación y desarrollo integral de los jóvenes.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+
+###### ARTÍCULO 9.
 
 Los ayuntamientos además de las obligaciones conferidas en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, tendrán las siguientes obligaciones:
 
 I. Crear las instancias municipales de atención a la juventud o sus equivalentes;
 
-II. Establecer en el Plan Municipal de Desarrollo y en el Plan Operativo Anual, las metas, estrategias y acciones con una perspectiva integral, en las que se abarquen los rubros de atención, prevención de enfermedades ó adicciones, y desarrollo integral de los jóvenes;
+II. Establecer en el Plan Municipal de Desarrollo y en el Plan Operativo Anual, las metas, estrategias y acciones con una perspectiva juvenil, en las que se abarquen los rubros de atención, prevención de enfermedades ó adicciones, y desarrollo integral de los jóvenes;
 
 III. Constituir los Consejos Municipales mediante convocatoria emitida por los Ayuntamientos, mismos que se renovarán cada tres años;
 
-IV. De acuerdo a la normatividad vigente, celebrar convenios con organismos públicos y privados, nacionales, de otros países e internacionales, en materia de participación y desarrollo integral de la juventud;
+IV. Analizar y elaborar estudios y proyectos, considerando las propuestas que deriven de los Consejos Municipales, orientados a promover el desarrollo de los jóvenes en sus ámbitos de competencia;
 
-V. Analizar y elaborar estudios y proyectos, considerando las propuestas que deriven de los Consejos Municipales, orientados a promover el desarrollo de los jóvenes en sus ámbitos de competencia;
+V. Contribuir con la Secretaría en la integración del Registro Estatal de Organismos y Asociaciones Juveniles constituidas dentro de su ámbito de competencia;
 
-VI. Contribuir con la Secretaría en la integración del Registro Estatal de Organismos y Asociaciones Juveniles constituidas dentro de su ámbito de competencia;
+VI. Promover la participación de la juventud en el quehacer de la administración pública;
 
-VII. Celebrar acuerdos para gestionar ante organismos públicos y privados, estatales, nacionales e internacionales financiamiento para proyectos presentados por organizaciones e individuos, en materia de juventud;
+VII. Fomentar la construcción de espacios públicos y preservarlos, para aplicar programas de esparcimiento que beneficien a los jóvenes; y,
 
-VIII. Promover la participación de la juventud en el quehacer de la administración pública;
+VIII. Las demás que le confieran las disposiciones legales aplicables.
 
-IX. Fomentar la construcción de espacios públicos y preservarlos, para aplicar programas de esparcimiento que beneficien a los jóvenes; y,
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2016)</small>
 
-X. Las demás que le confieran las disposiciones legales aplicables.
+### CAPÍTULO CUARTO. DEL DIRECTOR GENERAL DEL INSTITUTO
 
-###### ARTÍCULO 9.
-
-Para ser nombrado Titular de la Secretaría, además de lo previsto en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, se considerarán preferentemente los siguientes requisitos:
-
-l. Ser ciudadano michoacano con residencia comprobada de cuando menos dos años;
-
-II. Tener veinticinco años cumplidos a la fecha de su designación;
-
-III. Gozar de buena reputación; y,
-
-IV. Haber destacado por su labor con los jóvenes o tener experiencia en actividades relacionadas con la atención a la problemática de la juventud.
-
-### CAPÍTULO CUARTO. DEL TITULAR DE LA SECRETARÍA DE LOS JÓVENES
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 10.
 
-Al Titular de Secretaría le corresponden las atribuciones siguientes:
+Serán requisitos para ser nombrado Director General del Instituto:
 
-I. Representar legalmente a la Secretaría;
+I. Ser ciudadano michoacano con residencia comprobada de cuando menos dos años;
 
-II. Elaborar un diagnóstico integral de la situación de los jóvenes en el Estado;
+II. Tener veinticinco años cumplidos y no más de treinta años a la fecha de su designación;
 
-III. Dar seguimiento y observar el cumplimiento de los acuerdos de la Comisión Interinstitucional;
+III. Contar con título profesional;
 
-IV. Vigilar el buen funcionamiento de la Comisión Interinstitucional y los Consejos Estatal, Regionales y Municipales;
+IV. Gozar de buena reputación; y,
 
-V. Presentar el Programa ante la Comisión Interinstitucional;
+V. Haber destacado por su labor con los jóvenes o tener experiencia en actividades relacionadas con la atención a la problemática de la juventud.
 
-VI. Aplicar el Programa y las políticas transversales, en coordinación con la Comisión Interinstitucional las dependencias y entidades federales, estatales y municipales;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2016)</small>
 
-VII. Presentar a la Comisión Interinstitucional un informe anual de actividades;
+### CAPÍTULO QUINTO. DEL PROGRAMA DE TRABAJO DEL INSTITUTO
 
-VIII. Apoyar la creación y supervisar el funcionamiento de instancias municipales de atención a la juventud;
-
-IX. Proponer ante la Comisión Interinstitucional, el procedimiento para dar suficiencia presupuestal a la operación de los Consejos Estatal, Regionales y Municipales;
-
-X. Gestionar de acuerdo a la resolución de la Comisión Interinstitucional el presupuesto necesario para la operación de los Consejos; y,
-
-XI. Las demás que le confiera esta Ley y otras disposiciones jurídicas aplicables.
-
-### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL DE LOS JÓVENES
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 11.
 
-La Secretaría elaborará anualmente el Programa tomando en cuenta las propuestas de la Comisión Interinstitucional y de los Consejos.
+El Instituto a través de la Secretaría de Política Social elaborará anualmente su Programa de trabajo, tomando en cuenta las propuestas de la Comisión Interinstitucional y de los Consejos
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-El Programa estará integrado por el conjunto de acciones, lineamientos y políticas públicas al que se deberán sujetar las autoridades, entidades y dependencias de la Administración Pública Estatal involucradas en materia de juventud, con el objeto de impulsar el desarrollo integral de los jóvenes.
+El Programa de trabajo estará integrado por el conjunto de acciones, lineamientos y políticas públicas con perspectiva juvenil encaminadas a cumplir con los ejes del Plan de Desarrollo Integral del Estado, con el objeto de impulsar el desarrollo integral de los jóvenes.
+
+Por su parte, el Gobierno adoptará las medidas adecuadas para garantizar la asignación de los recursos humanos, técnicos y financieros necesarios para llevar a cabo el desarrollo e implementación de dichas políticas públicas.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-El Programa establecerá los objetivos a corto, mediano y largo plazo, además de incluir metas programáticas, para que se evalúe semestralmente y se dé seguimiento del trabajo realizado en materia de juventud.
+El Programa de trabajo establecerá los objetivos a corto, mediano y largo plazo, además de incluir metas programáticas e indicadores, para que se evalúe semestralmente y se dé seguimiento del trabajo realizado en materia de juventud.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
 El Programa tendrá como ejes rectores en materia de juventud los siguientes:
 
-I. Promover la corresponsabilidad entre los distintos órdenes de Gobierno así como entre las entidades y dependencias;
+I. Establecimiento de políticas públicas que incentiven la creación, promoción y protección del empleo de los jóvenes; así como contemplar un sistema de empleo, bolsa de trabajo, capacitación laboral, recursos económicos para proyectos productivos, emprendedurismo, convenios y estímulos fiscales con las empresas del sector público y privado;
 
-II. Priorizar la atención a los jóvenes en condiciones de vulnerabilidad;
+II. Contemplar un sistema de becas, estímulos e intercambios académicos que promuevan, apoyen y fortalezcan el desarrollo educativo de la juventud;
 
-III. Fomentar la equidad entendida como la igualdad de oportunidades entre los jóvenes;
+III. En los programas educativos, deberán realizarse campañas temáticas de información y prevención de las diferentes problemáticas que en materia de salud pública aquejan a los jóvenes del Estado;
 
-IV. Promover acciones en materia de salud que contribuyan al desarrollo integral de los jóvenes;
+IV. En fomento al aprendizaje e impulso a la investigación de conocimientos científicos y tecnológicos, motivando a la juventud a generar proyectos para un mejor desarrollo del Estado y sus municipios;
 
-V. Promover acciones que fomenten el desarrollo económico y laboral de los jóvenes;
+V. Garantizar que el Instituto impulse las expresiones culturales de los jóvenes en materia presupuestal y diseño de los programas tendientes a promover y garantizar las mismas;
 
-VI. Promover una cultura cívica de respeto y promoción de valores entre los jóvenes;
+VI. Contemplar mecanismos para el acceso masivo de los jóvenes a la práctica deportiva, mediante la difusión, promoción y apoyo a la actividad física y deportiva;
 
-VII. Promover entre los jóvenes, el cuidado y conservación del medio ambiente contribuyendo a consolidar una cultura de desarrollo sustentable;
+VII. En caso de jóvenes en situación de calle, implementar programas de abatimiento de la pobreza que coadyuven con su superación personal;
 
-VIII. Promover la organización y la participación de los jóvenes;
+VIII. Fomentar el desarrollo de la capacitación remunerada, vinculada a la formación profesional;
 
-IX. Fomentar proyectos y programas educativos en beneficio de los jóvenes;
+IX. Promover el otorgamiento de créditos accesibles para que las y los jóvenes puedan desarrollar sus proyectos productivos individuales o colectivos;
 
-X. Promover entre los jóvenes, el acceso a las nuevas tecnologías de la información y las comunicaciones;
+X. Promover una cultura cívica de respeto y promoción de valores entre los jóvenes;
 
-XI. Fomentar la investigación científica y académica en materia de juventud; y,
+XI. Promover la organización y la participación de los jóvenes en la vida democrática de la sociedad; y,
 
-XII. Evaluar los impactos cuantitativos y cualitativos de las políticas públicas en la materia, de manera semestral.
+XII. Respetar y cumplir con los derechos laborales y a la seguridad social e industrial.
 
 ### CAPÍTULO SEXTO. DE LA COMISIÓN INTERINSTITUCIONAL
 
@@ -291,57 +365,33 @@ XII. Evaluar los impactos cuantitativos y cualitativos de las políticas públic
 
 La Comisión Interinstitucional es una instancia de concurrencia, decisión, coordinación y apoyo, que tiene por objeto coordinar, promover, apoyar y conjuntar esfuerzos, recursos, políticas públicas, programas, servicios y acciones a favor de los jóvenes, que coadyuvará con el Poder Ejecutivo y los municipios en el cumplimiento del objeto de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
 La Comisión Interinstitucional se integrará de la siguiente manera:
 
-I. Un Presidente que será el Secretario de Gobierno;
+I. Un Presidente que será un representante de la Junta de Gobierno;
 
-II. Un Secretario Técnico que será el Titular de la Secretaría de los Jóvenes;
+II. Un Secretario Técnico que será el Director General del Instituto de la Juventud Michoacana;
 
-III. El Presidente de la Comisión de Juventud y Deporte del Congreso del Estado;
+III. El Presidente de la Comisión de Jóvenes y Deporte del Congreso del Estado;
 
-IV. El Titular de la Secretaría de Finanzas y Administración;
+IV. El Rector de la Universidad Michoacana de San Nicolás de Hidalgo;
 
-V. El Titular de la Coordinación de Planeación para el Desarrollo;
+V. Un representante de las Universidades Privadas en el Estado, electo por el mecanismo previsto en el Reglamento del Instituto;
 
-VI. El Titular de la Coordinación de Contraloría;
+VI. Un representante de los Consejos Regionales;
 
-VII. Un vocal designado por los titulares de cada una de las siguientes Dependencias:
+VII. Un representante de los Consejos Municipales; y,
 
-a) Secretaría de Desarrollo Económico;
+VIII. Un representante de los recipiendarios del Premio Estatal del Deporte.
 
-b) Secretaría de Educación;
-
-c) Secretaría de Cultura;
-
-d) Secretaría de Salud;
-
-e) Secretaría de Política Social;
-
-f) Secretaría de Pueblos Indígenas;
-
-g) Secretaría de la Mujer;
-
-h) Secretaría del Migrante;
-
-i) Comisión Estatal de Cultura Física y Deporte;
-
-VIII. El Rector de la Universidad Michoacana de San Nicolás de Hidalgo; y,
-
-IX. Un representante de las Universidades Privadas en el Estado, electo por el mecanismo previsto en el Reglamento de la Ley.
-
-Por lo que se refiere a las fracciones I, II, III, IV, V, VI, VII y IX, podrán designar un representante.
-
-El Presidente de la Comisión Interinstitucional, tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 17.
 
-Las sesiones de la Comisión Interinstitucional podrán ser:
-
-Ordinarias, las que se realizarán cada cuatro meses a convocatoria del Presidente; y,
-
-Extraordinarias, las que se realizarán a solicitud del Presidente o por mayoría de los integrantes.
+La Comisión Interinstitucional deberá sesionar públicamente y de manera ordinaria, por lo menos dos veces por año, a convocatoria del Presidente; y, podrá sesionar de manera extraordinaria a solicitud del Presidente o por mayoría de los integrantes.
 
 ### CAPÍTULO SÉPTIMO. DE LOS CONSEJOS
 
@@ -351,21 +401,23 @@ El Consejo Estatal de Jóvenes es un órgano colegiado de carácter consultivo, 
 
 Los miembros del Consejo Estatal tendrán carácter honorífico.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
 El Consejo Estatal estará integrado por:
 
 I. Un Presidente que será electo de entre los miembros del Consejo Estatal;
 
-II. Un representante de la Secretaría que será el secretario técnico y tendrá derecho a voz, sin voto y será el vínculo con la Comisión Interinstitucional:
+II. Un representante del Instituto que será el secretario técnico y tendrá derecho a voz, sin voto y será el vínculo con la Comisión Interinstitucional;
 
 III. Un representante por cada Consejo Regional; y,
 
-IV. Un representante de cada una de las diez instituciones de educación superior con mayor matricula en el Estado, que deberá ser un alumno académicamente destacado y propuesto por la autoridad competente de la propia institución educativa.
+IV. Un representante de cada una de las diez instituciones de educación superior con mayor matrícula en el Estado, que deberá ser un alumno académicamente destacado y propuesto por la autoridad competente de la propia institución educativa.
 
 Los integrantes del Consejo Estatal, en la primera sesión que celebren elegirán a un Presidente de entre ellos, el cual desempeñará el cargo durante tres años, el representante de la Secretaría no podrá ser electo.
 
-Las sesiones tendrán lugar de manera cuatrimestral, debiéndose llevar a cabo durante los primeros quince días de cada cuatrimestre, y el sistema de votaciones, se establecerá en el Reglamento de la Ley.
+Las sesiones tendrán lugar de manera semestral, debiéndose llevar a cabo durante los primeros quince días de cada semestre, y el sistema de votaciones, se establecerá en el Reglamento de la Ley.
 
 Los miembros del Consejo Estatal tendrán carácter honorífico.
 
@@ -389,9 +441,11 @@ IV. Las demás que establezca el Consejo Estatal.
 
 El Consejo Estatal, tendrá las siguientes atribuciones:
 
-l. Proponer a la Comisión Interinstitucional la implementación de políticas públicas que incidan en beneficio de la juventud;
+I. Proponer a la Comisión Interinstitucional la implementación de políticas públicas que incidan en beneficio de la juventud;
 
-II. Coordinarse con la Secretaría y los ayuntamientos, en la realización de foros, talleres y demás actividades, para la elaboración del Programa;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+
+II. Coordinarse con el Instituto y los ayuntamientos, en la realización de foros, talleres y demás actividades, para la elaboración del Programa;
 
 III. Emitir recomendaciones respecto a la ejecución de las políticas públicas en materia de juventud;
 
@@ -451,7 +505,9 @@ Los Consejos Municipales serán renovados por el Ayuntamiento cada tres años a 
 
 Los Consejos Municipales tendrán las siguientes atribuciones:
 
-I. Proponer al Consejo Regional y a las instancias municipales de atención a la juventud, las medidas más convenientes para que se alcancen los objetivos del Programa;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
+
+I. Proponer al Consejo Regional y a las instancias municipales de atención a la juventud, las medidas más convenientes para que se alcancen los objetivos del Programa de Trabajo del Instituto;
 
 II. Proponer al Consejo Regional la elaboración de estudios y proyectos orientados al desarrollo integral de la juventud;
 
@@ -461,9 +517,11 @@ IV. Integrar un registro de todas las organizaciones juveniles dentro de su muni
 
 V. Proponer políticas públicas en materia de jóvenes dentro del Plan Municipal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 32.
 
-Para el cumplimiento de sus funciones, los Consejos Municipales contarán con Comisiones, las cuales serán integradas de conformidad al Reglamento de la Ley.
+Para el cumplimiento de sus funciones, los Consejos Municipales contarán con Comisiones, las cuales serán integradas de conformidad al Reglamento del Instituto.
 
 ###### ARTÍCULO 33.
 
@@ -499,11 +557,15 @@ VIII. Elaborar y aprobar su reglamento interior, apegándose a los ejes rectores
 
 IX. Las demás disposiciones aplicables.
 
-### CAPÍTULO OCTAVO. DE LAS POLÍTICAS TRANSVERSALES EN MATERIA DE JUVENTUD DEL PODER EJECUTIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO OCTAVO. DE LAS POLÍTICAS TRANSVERSALES EN MATERIA DE JUVENTUD
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 35.
 
-Las políticas transversales se planificarán de acuerdo a las necesidades y demandas que la sociedad plantee al Estado, y la Secretaría actuará para resolverlas orientada con lo especificado en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo.
+Las políticas transversales se planificarán de acuerdo a las necesidades y demandas que la sociedad plantee al Estado, y la Secretaría de Política Social actuará para resolverlas orientada con lo especificado en la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 36.
 
@@ -513,11 +575,15 @@ Las políticas, programas y proyectos en materia de juventud considerarán y rec
 
 El Poder Ejecutivo a través de la Comisión Interinstitucional deberán (sic) ajustar sus objetivos, programas, proyectos y políticas de conformidad con las competencias previstas en el presente ordenamiento, cumpliendo y contando con políticas transversales para la atención integral de los jóvenes.
 
-### CAPÍTULO NOVENO. DE LA UNIDAD ESTATAL DE INDICADORES EN MATERIA DE JUVENTUD Y EL REGISTRO ESTATAL DE ORGANISMOS Y ASOCIACIONES JUVENILES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ABRIL DE 2016)</small>
+
+### CAPÍTULO NOVENO. DE LA UNIDAD DE INDICADORES EN MATERIA DE JUVENTUD
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
-La Secretaría deberá contar con una Unidad Estatal de Indicadores que permita la evaluación de las políticas públicas, a partir de la difusión, información, recopilación, sistematización e investigación en temas como: educación, salud, empleo, seguridad, migración, entre otros relacionados con la juventud.
+El Instituto deberá contar con una Unidad de Indicadores y metas programáticas que permita la evaluación de las políticas públicas, a partir de la difusión, información, recopilación, sistematización e investigación en temas como: educación, salud, empleo, seguridad, migración, entre otros relacionados con la juventud.
 
 Esta Unidad se coordinará con la Comisión Interinstitucional, las dependencias, entidades, municipios e instituciones públicas y privadas para recabar la información requerida.
 
@@ -574,3 +640,13 @@ ATENTAMENTE.-·"SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIREC
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 28 veintiocho días del mes de Marzo del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.-·LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORRE BLANCA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 135 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1°, 2°, 3°, 4°, 6°, 7°, 8°, 9°, 11, 12, 13, 14, 16, 17, 19, 22 FRACCIÓN II, 31 FRACCIÓN I, 32, 35, 38; ASÍ COMO LA DENOMINACIÓN DE LOS CAPÍTULOS CUARTO, QUINTO, OCTAVO Y NOVENO; Y, SE ADICIONAN LOS INCISOS DEL A) AL X) AL ARTÍCULO 3°; TODOS DE LA LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
