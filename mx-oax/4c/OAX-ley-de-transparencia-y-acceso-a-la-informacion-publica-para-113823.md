@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2016-03-30"
+last_updated: "2016-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE NO VETADA, HASTA EN TANTO EL CONGRESO DEL ESTADO RESUELVA LAS OBSERVACIONES PENDIENTES, EN CONSECUENCIA SE PUBLICA EL DECRETO NÚMERO 1690 POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA EN EL P.O. DE 11 DE MARZO DE 2016”.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS AL EXTRA DEL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, DE FECHA 11 DE MARZO DEL ANO 2016, QUE CONTIENE LAS PARTES NO VETADAS, DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA PARA EL ESTADO DE OAXACA, PUBLICADA EN EL PERIÓDICO OFICIAL DE 30 DE MARZO DE 2016.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -1925,9 +1921,11 @@ VII. Decretado el cierre de instrucción, el Expediente pasará a resolución, e
 
 El Comisionado ponente podrá en cualquier momento del procedimiento buscar una conciliación entre el recurrente y el sujeto obligado, y en su caso con el tercero interesado. De llegarse a un acuerdo de conciliación entre las partes, ésta se hará constar por escrito y deberá ser ratificada en diligencia formal, la cual tendrá efectos vinculantes. El recurso quedará sin materia y el Instituto verificará el cumplimiento del acuerdo respectivo.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+
 ###### Artículo 140.
 
-Cuando se advierta del estudio del recurso de revisión, que el sujeto obligado no posee información, que de conformidad con sus atribuciones y obligaciones legales debía de haber generado, el Instituto deberá instruir al sujeto obligado para que la genere en un plazo no mayor a cuarenta días y la entregue al recurrente e informe al Instituto de su cumplimiento o en su caso manifieste la imposibilidad.
+Cuando se advierta del estudio del recurso de revisión, que el sujeto obligado no posee información, que de conformidad con sus atribuciones y obligaciones legales debía de haber generado, el Instituto deberá instruir al sujeto obligado para que la genere y la entregue al recurrente e informe al Instituto de su cumplimiento o en su caso manifieste la imposibilidad de hacerlo.
 
 ###### Artículo 141.
 
@@ -2308,3 +2306,9 @@ P.O. 16 DE MARZO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Comuníquese al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+P.O. 25 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1939.- MEDIANTE EL CUAL SE REFORMA EL ARTICULO 140 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
