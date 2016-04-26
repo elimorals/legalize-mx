@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2015-11-07"
+last_updated: "2016-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAM
 
 NOTA 2: LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014 Y SU AMPLIACIÓN DE 10 DE OCTUBRE DE 2015, PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE NOVIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2016.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -3805,15 +3803,11 @@ b) En todo el territorio del Estado los delitos de homicidio, secuestro, extorsi
 
 Estos delitos se juzgarán conforme lo determine el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
 
-II. Con fecha 30 de abril de 2016 entrarán en vigor:
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2016)</small>
 
-a) En los municipios de Bahía de Banderas, Compostela y San Pedro Lagunillas, Nayarit, la totalidad de los delitos que no ameritan prisión preventiva oficiosa.
+II. Con fecha 15 de junio de 2016 entrarán en vigor en todo el territorio del Estado el resto de los delitos contemplados en el Código Penal para el Estado de Nayarit y aquellos en los cuales los tribunales del Estado sean competentes.
 
-b) En todo el territorio del Estado los delitos de fraude, abuso de confianza y robo calificado.
-
-Estos delitos se juzgarán conforme lo determine el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
-
-III. Con fecha 31 de mayo de 2016 entrarán en vigor en todo el territorio del Estado el resto de los delitos contemplados en el Código Penal para el Estado de Nayarit y aquellos en los cuales los tribunales del Estado sean competentes.
+III. (DEROGADA, P.O. 26 DE ABRIL DE 2016)
 
 Artículo Segundo.- Cuando se actualice algún concurso de delitos y alguno o algunos de ellos ya se encuentren incorporados al nuevo sistema de justicia penal conforme a la presente Declaratoria, el proceso se substanciará conforme a éste.
 
@@ -3828,3 +3822,15 @@ Segundo.- La presente Declaratoria deberá difundirse mediante Bando Solemne en 
 Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las Legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
 
 Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+P.O. 26 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA SU SIMILAR RELATIVO A LA AMPLIACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- El presente Decreto deberá difundirse mediante Bando Solemne en el Estado de Nayarit.
+
+Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las Legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
+
+Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaria Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
