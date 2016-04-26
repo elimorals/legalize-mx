@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-de-lo-contencioso-103724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-01"
-last_updated: "2014-12-01"
+last_updated: "2016-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103724&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2014-10-22"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL PRIMERO DE ENERO DE DOS MIL QUINCE.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ABRIL DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 1 de diciembre de 2014.
 
@@ -1120,9 +1118,17 @@ e) Por conducta del usuario inapropiada, irrespetuosa en relación a los servido
 
 f) Cuando se desprenda que quien acude por el servicio es un gestor o un tercero remunerado.
 
+> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2016)</small>
+
 ###### Artículo 76.
 
-No se otorgará el servicio de defensa, cuando los asuntos versen sobre giros de impacto vecinal o zonal, o que las irregularidades detectadas impliquen, además de sanciones administrativas, la comisión de delitos.
+No se otorgará el servicio de defensa, cuando:
+
+a) los asuntos versen sobre giros de impacto vecinal o zonal, o que las irregularidades detectadas impliquen, además de sanciones administrativas, la comisión de delitos.
+
+b) la persona que lo solicite haya interpuesto a través de la Defensoría Jurídica, durante el periodo de un año más de cinco juicios que versen sobre la misma materia.
+
+c) la persona que lo solicite haya promovido juicios a través de la Defensoría Jurídica en los que haya impugnado más de dos boletas de infracción al Reglamento de Tránsito del Distrito Federal durante el periodo de un año.
 
 ###### Artículo 77.
 
@@ -1779,3 +1785,11 @@ SUFRAGIO EFECTIVO, NO REELECCIÓN
 LIC. OFELIA PAOLA HERRERA BELTRÁN
 
 SECRETARIO GENERAL DE ACUERDOS “A”
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 26 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL EL TRIBUNAL DA A CONOCER LA MODIFICACIÓN AL ARTÍCULO 76 DEL REGLAMENTO INTERIOR DE ESTE ÓRGANO JURISDICCIONAL, APROBADO POR LA SALA SUPERIOR EN SESIÓN PLENARIA DEL DÍA 13 DE ABRIL DE 2016”.]
+
+ÚNICO.- La presente modificación entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
