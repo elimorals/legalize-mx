@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2016-03-29"
+last_updated: "2016-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ABRIL DE 2016.]</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -2341,9 +2341,9 @@ X.- Las demás que le asigne el Secretario General y el Director General.
 
 Asimismo, la Dirección General de Comunicación y Vinculación contará con dos Jefaturas de Departamento, las cuales tendrán las funciones siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016) (F. DE E., P.O. 26 DE ABRIL DE 2016)
 
-A. Jefatura de Enlace Institucional:
+A. Jefatura de Enlace con Medios:
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2016)</small>
 
@@ -2365,9 +2365,9 @@ V.- Elaborar los comunicados de prensa y la síntesis informativa, verificando s
 
 VI.- Las demás que le asigne el Secretario General, el Director General o los Coordinadores.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 29 DE MARZO DE 2016) (F. DE E., P.O. 26 DE ABRIL DE 2016)
 
-B. Jefatura de Enlace con Medios:
+B. Jefatura de Enlace Institucional:
 
 I.- Ejecutar el programa de vinculación institucional e interinstitucional del Congreso del Estado, garantizando el cumplimiento de éste mediante el fortalecimiento de los vínculos de colaboración con los diversos actores considerados;
 
