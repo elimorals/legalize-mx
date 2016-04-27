@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-deuda-publica-antes-ley-general-de-deuda-2614"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1976-12-31"
-last_updated: "2014-08-11"
+last_updated: "2016-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1976-12-30"
 ---
 # LEY FEDERAL DE DEUDA PUBLICA -- ANTES -- LEY GENERAL DE DEUDA PUBLICA
 
-LEY GENERAL DE DEUDA PÚBLICA
+LEY FEDERAL DE DEUDA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1976.
 
@@ -35,7 +35,9 @@ DECRETO:
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
-LA LEY GENERAL DE DEUDA PUBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2016)</small>
+
+LEY FEDERAL DE DEUDA PÚBLICA
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -109,6 +111,10 @@ VI.- Vigilar que la capacidad de pago de las entidades que contraten financiamie
 
 VII.- Vigilar que se hagan oportunamente los pagos de capital e intereses de los créditos contratados por las entidades.
 
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2016)</small>
+
+VIII. Otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública de los Estados y Municipios, en términos del Capítulo IV, del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
 ###### ARTICULO 5o.
 
 La Secretaría de Hacienda y Crédito Público tendrá además las siguientes facultades:
@@ -159,9 +165,7 @@ El Congreso de la Unión autorizará los montos del endeudamiento directo neto i
 
 El Ejecutivo Federal, al someter al Congreso de la Unión las iniciativas correspondientes a la Ley de Ingresos y al Presupuesto de Egresos de la Federación, deberá proponer los montos del endeudamiento neto necesario, tanto interno como externo, para el financiamiento del Presupuesto Federal del ejercicio fiscal correspondiente, proporcionando los elementos de juicio suficientes para fundamentar su propuesta. El Congreso de la Unión al aprobar la Ley de Ingresos, podrá autorizar al Ejecutivo Federal a ejercer o autorizar montos adicionales de financiamiento cuando, a juicio del propio Ejecutivo, se presenten circunstancias económicas extraordinarias que así lo exijan. Cuando el Ejecutivo Federal haga uso de esta autorización informará de inmediato al Congreso.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-El Ejecutivo Federal hará las proposiciones que correspondan en las iniciativas de Ley de Ingresos y del Presupuesto de Egresos del Distrito Federal quedando sujetos los financiamientos relativos a las disposiciones de esta Ley, en lo conducente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 27 DE ABRIL DE 2016)</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -169,15 +173,17 @@ El Ejecutivo Federal hará las proposiciones que correspondan en las iniciativas
 
 Para determinar las necesidades financieras a que se refiere el artículo anterior, la Secretaría de Hacienda y Crédito Público deberá conocer por conducto de las Secretarías de Estado, encargadas de la coordinación del sector que corresponda, los proyectos y programas de actividades debidamente aprobados por dicha Secretaría, que requieran de financiamientos para su realización.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 12.
 
-Los montos de endeudamiento aprobados por el Congreso de la Unión, serán la base para la contratación de los créditos necesarios para el financiamiento de los Presupuestos Federal y del Distrito Federal. El endeudamiento neto de las entidades incluidas en dichos Presupuestos invariablemente estará correspondido con la calendarización y demás previsiones acordadas periódicamente con las dependencias competentes en materia de gasto y financiamiento.
+Los montos de endeudamiento aprobados por el Congreso de la Unión, serán la base para la contratación de los créditos necesarios para el financiamiento de los Presupuestos de Egresos de la Federación. El endeudamiento neto de las entidades incluidas en dichos Presupuestos invariablemente estará correspondido con la calendarización y demás previsiones acordadas periódicamente con la dependencia competente en materia de gasto y financiamiento.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 13.
 
-La Secretaría de Hacienda y Crédito Público, de acuerdo con las facultades que le concede el Capítulo II de esta ley, autorizará en su caso, los financiamientos que promuevan las entidades, del sector público; cuando estos sean del exterior o se concerten en moneda extranjera tendrá en cuenta la opinión de la Comisión Asesora de Financiamientos Externos.
+La Secretaría de Hacienda y Crédito Público, de acuerdo con las facultades que le concede el Capítulo II de esta Ley autorizará, en su caso, los financiamientos que promuevan las entidades del sector público.
 
 ###### ARTICULO 14.
 
@@ -215,11 +221,11 @@ Tratándose de obligaciones derivadas de financiamientos de proyectos de infraes
 
 ### CAPITULO V. De la Contratación de Financiamientos Para Entidades Distintas del Gobierno Federal
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 19.
 
-Las entidades mencionadas en las fracciones III a VI del artículo 1o. de esta Ley, que no estén comprendidas dentro de los presupuestos de Egresos de la Federación y del Distrito Federal, sólo requerirán autorización previa y expresa de la Secretaría de Hacienda y Crédito Público para la contratación de financiamientos externos.
+Las entidades mencionadas en las fracciones III a VI del artículo 1o. de esta Ley, requerirán autorización previa y expresa de la Secretaría de Hacienda y Crédito Público para la contratación de financiamientos externos.
 
 La autorización sólo podrá comprender aquellos financiamientos incluidos dentro del programa de deuda, salvo el caso de los que se obtengan para fines de regulación monetaria.
 
@@ -297,39 +303,21 @@ Los titulares de las entidades están obligados a comunicar a la Secretaría de 
 
 Las operaciones de crédito autorizadas, así como su registro, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
 
-### CAPITULO VIII. De la Comisión Asesora de Financiamientos Externos
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE ABRIL DE 2016)</small>
+
+### CAPITULO VIII
 
 ###### ARTICULO 30.
 
-Se crea la Comisión Asesora de Financiamientos Externos del Sector Público, como órgano técnico auxiliar de consulta de la Secretaría de Hacienda en materia de crédito externo, que se integrará con un representante propietario y suplente de:
-
-a).- La Secretaría de Hacienda y Crédito Público, que la presidirá.
-
-b).- El Banco de México, S. A.; Nacional Financiera, S. A.; Banco Nacional de Obras y Servicios Públicos, S. A.; Banco Nacional de Crédito Rural, S. A.; Banco Nacional de Comercio Exterior, S. A.; Sociedad Mexicana de Crédito Industrial, S. A.; Financiera Nacional Azucarera, S. A.; y de las entidades del sector público que la Secretaría de Hacienda y Crédito Público considere conveniente.
+(DEROGADO, D.O.F. 27 DE ABRIL DE 2016)
 
 ###### ARTICULO 31.
 
-Las labores de la Comisión serán coordinadas por un Secretariado Técnico, que estará a cargo del Director General de Crédito de la Secretaría de Hacienda y Crédito Público.
+(DEROGADO, D.O.F. 27 DE ABRIL DE 2016)
 
 ###### ARTICULO 32.
 
-La Comisión tendrá las siguientes funciones:
-
-I.- Evaluar las necesidades de financiamiento del sector público federal.
-
-II.- Asesorar en el diseño de la política que deba adoptarse en materia de endeudamiento externo o en moneda extranjera, para el sector público federal, opinando sobre planes anuales en los que se precise la estrategia de captación de recursos externos, los montos que deban obtenerse de estos recursos y la fuente y aplicación de los mismos, en coordinación con las medidas que dicte el Ejecutivo Federal en materia financiera, para alcanzar los objetivos de la política económica nacional.
-
-III.- Proponer las medidas de coordinación de las entidades del sector público federal en todo lo que se refiera a captación de recursos externos para las mismas, considerando lineamientos de negociación sobre las condiciones generales de los créditos externos que se pretendan contratar.
-
-IV.- Estudiar los programas de financiamientos externos para las entidades del sector público federal con criterios de oportunidad y prelación.
-
-V.- Conocer y opinar sobre los estudios que se refieran a la deuda externa del sector público federal y recomendar políticas para mantenerla dentro de la capacidad de pago de dicho sector y del país.
-
-VI.- La Comisión asesorará a la Secretaría de Hacienda y Crédito Público sobre el monto del financiamiento externo que las entidades del sector público contraten anualmente.
-
-VII.- En general todos aquellos que permitan asesorar debidamente a la Secretaría de Hacienda y Crédito Público en el manejo de la deuda externa de las entidades del sector público y las que le señalen esta ley y otros ordenamientos.
-
-Para la programación de los financiamientos la Secretaría de Hacienda y Crédito Público podrá tomar en cuenta la opinión de la Comisión.
+(DEROGADO, D.O.F. 27 DE ABRIL DE 2016)
 
 ## TRANSITORIOS
 
@@ -345,7 +333,7 @@ México, D.F., a 29 de diciembre de 1976.-Enrique Ramírez y Ramírez, D. P.- Hi
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos setenta y seis.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Julio Rodolfo Moctezuma Cid.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 28 DE DICIEMBRE DE 1983.
 
@@ -430,3 +418,67 @@ HIDROCARBUROS
 2018 240 millones de pesos 280 millones de pesos
 
 La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia.
+
+D.O.F. 27 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DE COORDINACIÓN FISCAL, GENERAL DE DEUDA PÚBLICA Y GENERAL DE CONTABILIDAD GUBERNAMENTAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las Entidades Federativas y, en su caso, los Municipios realizarán las reformas a las leyes, reglamentos y disposiciones administrativas que sean necesarias para dar cumplimiento a este Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.
+
+CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de las Entidades Federativas a que se refiere el Capítulo I del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los transitorios Quinto al Noveno.
+
+QUINTO.- El porcentaje a que hace referencia el artículo 9 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+SEXTO.- La fracción I del artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo de la fracción a que se refiere el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+SÉPTIMO.- El porcentaje a que hace referencia el artículo 12 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal anterior de las Entidades Federativas, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+OCTAVO.- El registro de proyectos de Inversión pública productiva de cada entidad federativa y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 13, fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, deberá estar en operación a más tardar el 1o. de enero de 2018.
+
+NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 14, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero y los que apliquen de acuerdo al artículo 21 de dicha Ley.
+
+DÉCIMO PRIMERO.- El porcentaje a que hace referencia el artículo 20 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+DÉCIMO SEGUNDO.- La Comisión Nacional Bancaria y de Valores publicará las disposiciones a las que hace referencia el artículo 28 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO TERCERO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, no podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública de Estados y Municipios asumidas entre el 1o. de enero de 2015 y la fecha en la que el Estado celebre el convenio referido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, salvo que se trate de deuda pública de los Estados y Municipios que haya sido contraída para refinanciar o reestructurar deuda pública asumida con anterioridad al 1o. de enero de 2015.
+
+DÉCIMO CUARTO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública de los Estados y Municipios, en términos del Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a partir de los 90 días siguientes a la entrada en vigor del presente Decreto en el Diario Oficial de la Federación, siempre y cuando el Estado y, en su caso Municipio correspondiente, cumpla con la publicación de su información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. Para tal efecto, los entes públicos deberán presentar la opinión de la entidad de fiscalización superior de la entidad federativa correspondiente, en la que manifieste si el ente público cumple con dicha disposición.
+
+Asimismo, para efectos del párrafo anterior, el Estado o Municipio deberá estar al corriente en el cumplimiento de las obligaciones establecidas en los transitorios Sexto y Séptimo, segundo párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios, publicado el 26 de mayo de 2015 en el Diario Oficial de la Federación. En caso contrario, el Estado o Municipio no podrá acceder a la Deuda Estatal Garantizada, hasta su cumplimiento.
+
+Adicionalmente, en tanto entra en operación el Sistema de Alertas en los términos establecidos en el siguiente artículo transitorio, los convenios que se formalicen con la Deuda Estatal Garantizada deberán remitirse a la comisión legislativa bicameral para su análisis y opinión correspondiente. Una vez que entre en operación el Sistema de Alertas se aplicará lo dispuesto en el artículo 38 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+DÉCIMO QUINTO.- El Sistema de Alertas a que se refiere el Capítulo V del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios entrará en operación, a más tardar el 1o. de abril de 2017.
+
+El Ejecutivo Federal deberá emitir el reglamento a que se refiere el Capítulo citado en el párrafo anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO.- En el caso de los Entes Públicos que, a la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se ubiquen en un endeudamiento elevado conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hacen referencia los artículos 34 y 47 de dicha Ley, podrán establecer un Techo de Financiamiento Neto distinto al señalado en el artículo 46 de la misma.
+
+DÉCIMO SÉPTIMO.- Los recursos que sean otorgados a los Entes Públicos a través del esquema de los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN, quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo dispuesto en dicho programa.
+
+DÉCIMO OCTAVO.- El Registro Público Único a que se refiere el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios sustituirá al Registro de Obligaciones y Empréstitos de Entidades y Municipios y entrará en operación, a más tardar el 1o. de abril de 2017.
+
+El Ejecutivo Federal deberá emitir el reglamento a que se refiere el Capítulo citado en el párrafo anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Los trámites iniciados ante el Registro de Obligaciones y Empréstitos de Entidades y Municipios, con anterioridad a la entrada en vigor del Registro Público Único, se llevarán a cabo de conformidad con las disposiciones vigentes en la fecha de inicio del trámite.
+
+Las referencias al Registro de Obligaciones y Empréstitos de Entidades y Municipios en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público Único.
+
+DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios relacionados con el Registro Público Único serán aplicables hasta la entrada en operación del mismo. En tanto, seguirán vigentes las disposiciones del Registro de Obligaciones y Empréstitos de Entidades y Municipios.
+
+VIGÉSIMO.- El Consejo Nacional de Armonización Contable deberá emitir, en un plazo máximo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, las normas necesarias para identificar el gasto realizado con recursos provenientes de ingresos de libre disposición, transferencias federales etiquetadas y deuda pública, en los términos definidos en el artículo 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+VIGÉSIMO PRIMERO.- Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley General de Deuda Pública, se entenderán referidas a la Ley Federal de Deuda Pública.
