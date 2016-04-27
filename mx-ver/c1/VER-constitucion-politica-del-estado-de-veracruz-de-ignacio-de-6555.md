@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2016-02-01"
+last_updated: "2016-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE-
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2016 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ABRIL DE 2016.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -32,8 +34,6 @@ MAURO LOYO,
 Gobernador Provisional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed: que la H. Legislatura me ha dirigido, para su promulgación, la Constitución Política que sigue:
 
 La XXVI Legislatura del Estado Libre y Soberano de Veracruz-Llave, en funciones de Constituyente, a que fué convocada por decreto de 7 de abril del corriente año, reforma la Constitución Política de 29 de septiembre de 1902, en los términos siguientes:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO OCTAVO DEL DECRETO NÚMERO 536, PUBLICADO EN LA G.O. DE 9 DE ENERO DE 2015, TODA ALUSIÓN HECHA EN CUALQUIER INSTRUMENTO NORMATIVO AL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO O A LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, SE ENTENDERÁ HECHA AL FISCAL GENERAL DEL ESTADO Y A LA FISCALÍA GENERAL DEL ESTADO, RESPECTIVAMENTE.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -155,9 +155,17 @@ La ley garantizará que la mujer no sea objeto de discriminación y que tenga lo
 
 El Estado promoverá, en la medida de los recursos presupuestales disponibles, el acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes, con un enfoque prioritario a la población con rezago social.
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 27 DE ABRIL DE 2016)</small>
 
-Los habitantes del Estado gozarán del derecho a la información. La ley establecerá los requisitos que determinarán la publicidad de la información en posesión de los sujetos obligados y el procedimiento para obtenerla, así como la acción para corregir o proteger la información confidencial. El derecho de réplica será ejercido en los términos dispuestos por la Ley.
+Toda persona gozará del derecho a la información, así como al de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales, frente a los sujetos obligados.
+
+> <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2016)</small>
+
+En el Estado, los poderes públicos, organismos autónomos, ayuntamientos o concejos municipales, entidades paraestatales y paramunicipales creadas por uno o más ayuntamientos, organizaciones políticas; los fideicomisos, fondos públicos y sindicatos de cualquiera de éstos, además de toda persona física o moral que reciba y ejerza recursos públicos, así como aquellas que realicen actos de autoridad o que desempeñen funciones o servicios públicos, son sujetos obligados en materia de acceso a la información y de protección de datos personales que obren en su posesión, en los términos de esta Constitución y la ley.
+
+> <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2016)</small>
+
+La información o documentación que los sujetos obligados generen o posean por cualquier título es pública. Éstos permitirán a las personas acceder a ella y reproducirla, de manera proactiva, en atención a los lineamientos generales definidos por el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, diseñados para incentivar a los sujetos obligados a publicar información adicional a la que establece como mínimo la ley, teniendo por objeto promover la reutilización de la información que generen los sujetos obligados, sin mayor restricción que la protección a los datos personales y el interés público. En todo momento deberá prevalecer, para el ejercicio libre de este derecho, su interpretación con sujeción al principio de máxima publicidad.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -581,9 +589,9 @@ II. Dar la interpretación auténtica de las leyes o decretos;
 
 III. Iniciar ante el Congreso de la Unión las leyes o decretos que sean competencia del Poder Legislativo de la Federación, así como su reforma o abolición, y secundar, cuando lo estime conveniente, las iniciativas que presenten los Congresos de otros Estados;
 
-> <small>(REFORMADA, G.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2016)</small>
 
-IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de promoción al acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia.
+IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de promoción al acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes; de acceso a la información y protección de datos personales que generen o posean los sujetos obligados; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia.
 
 V. Darse su Ley Orgánica, y la demás normatividad interior necesaria para el adecuado desarrollo de sus funciones, las que no requerirán de la promulgación del Ejecutivo para tener vigencia;
 
@@ -1391,7 +1399,7 @@ IV. Presidir la sesión pública y solemne convocada para el solo efecto de decl
 
 V. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia y tomarles la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen; así como conceder o negar las solicitudes de licencia o renuncia que le sometan dichos servidores públicos;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -1511,13 +1519,13 @@ II. Promulgar, publicar y ejecutar las leyes o decretos aprobados por el Congres
 
 III. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos aprobados por el Congreso;
 
-IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado disponiendo al efecto de las corporaciones policiales estatales, y de las municipales en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público; así como impedir los abusos de la fuerza pública a su cargo en contra de los ciudadanos, haciendo efectiva la responsabilidad en que aquélla incurriera;
+IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado, disponiendo al efecto de las corporaciones policiales estatales, y de las municipales en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público; así como impedir los abusos de la fuerza pública a su cargo en contra de los ciudadanos, haciendo efectiva la responsabilidad en que aquélla incurriera;
 
 V. Promover y fomentar, por todos los medios posibles, la educación pública, la protección a la salud y procurar el progreso y bienestar social en el Estado;
 
 > <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2005)</small>
 
-VI. Presentar al Congreso del Estado, el presupuesto de egresos del año siguiente, proponiendo los ingresos necesarios para cubrirlos, atendiendo a los términos establecidos por el artículo 26, fracción I, inciso a) de esta Constitución;
+VI. Presentar al Congreso del Estado el presupuesto de egresos del año siguiente, proponiendo los ingresos necesarios para cubrirlos, atendiendo a los términos establecidos por el artículo 26, fracción I, inciso a) de esta Constitución;
 
 VII. Realizar las gestiones necesarias ante el Gobierno Federal a fin de que las transferencias de recursos que se le otorguen al Estado sean proporcionales y acordes a su densidad poblacional y extensión territorial, a efecto de lograr la equidad en la distribución de las mismas;
 
@@ -1983,27 +1991,59 @@ d) Promover ante las autoridades competentes, con motivo del procedimiento de fi
 
 8. Los entes fiscalizables y demás autoridades del Estado, facilitarán los auxilios que requiera el Órgano de Fiscalización del Estado para el ejercicio de sus funciones.
 
-> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2016)</small>
 
-IV. El derecho a la información y la protección de datos personales los garantizará el Instituto Veracruzano de Acceso a la Información, conforme a las siguientes bases:
+IV. La garantía y tutela del derecho a la información de las personas, así como de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales, frente a los sujetos obligados, corresponde al Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, como organismo autónomo del Estado, de funcionamiento colegiado, y de naturaleza especializada en la difusión, capacitación y cultura de la transparencia, imparcial y con jurisdicción material en su ámbito de competencia; al efecto, el Instituto:
 
-a) El Instituto sesionará en Pleno, el que se integrará por tres consejeros seleccionados por convocatoria pública, quienes durarán en su cargo seis años improrrogables, y sólo serán removidos de conformidad con lo dispuesto por esta Constitución. El Presidente del Instituto será designado para un periodo de dos años, sin posibilidad de reelección;
+1. Funcionará en Pleno y se integrará por tres Comisionados, quienes durarán en su encargo siete años. Para su nombramiento, el Congreso del Estado, previa realización de una amplia consulta a la sociedad, a propuesta de los grupos legislativos, con el voto de las dos terceras partes de los miembros presentes, nombrará al Comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador del Estado en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado la persona nombrada por el Congreso del Estado.
 
-b) La ley establecerá los requisitos para ser consejero del Instituto. Durante el ejercicio de su cargo no podrá ser dirigente de ningún partido político ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto la docencia o la investigación académica, siempre que no sea remunerada;
+En caso de que el Gobernador del Estado objetara el nombramiento, el Congreso del Estado nombrará una nueva propuesta, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, el Congreso del Estado, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al Comisionado que ocupará la vacante.
 
-c) El Instituto elaborará lineamientos con base en normas internacionales de documentación, bibliotecología y archivística, que los sujetos obligados acatarán para sistematizar la información bajo su resguardo;
+El Congreso del Estado resolverá sobre las renuncias que presenten los Comisionados. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a un Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
 
-d) El Instituto emitirá los criterios generales de clasificación y, en su caso, los plazos para la descalificación de información reservada;
+Para ser Comisionado deberán satisfacerse los requisitos siguientes:
 
-e) La información confidencial estará resguardada y protegida por los sujetos obligados. Sólo el titular del interés legítimo podrá consultarla y corregirla, así como interponer la acción de protección de datos ante el Instituto;
+a) Ser ciudadano veracruzano con residencia efectiva en el Estado, cuando menos dos años anteriores al día de su designación, o mexicano por nacimiento, con vecindad mínima de cinco años en el Estado;
 
-f) La información pública se obtendrá mediante el procedimiento expedito señalado por la ley. Su acceso será gratuito y sólo se cobrarán los gastos de reproducción y envío, en su caso; y
+b) Contar con título profesional expedido por autoridad o institución legalmente facultada para ello, preferentemente, con estudios de posgrado;
 
-g) El silencio de la autoridad ante las solicitudes de acceso a la información configurará la afirmativa ficta. La omisión de proporcionar la información en los plazos que establezca la ley trae aparejada responsabilidad administrativa.
+c) Tener, cuando menos, treinta y cinco años cumplidos al día de su designación;
 
-El Instituto será competente para conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se incoen contra las autoridades.
+d) Gozar de buena reputación, prestigio profesional, y contar, preferentemente, con experiencia en materia de acceso a la información pública y protección de datos personales;
 
-La ley fijará las responsabilidades y sanciones aplicables por la comisión de infracciones.
+e) No haber sido condenado por delito doloso;
+
+f) No haber sido ministro de culto religioso, ni dirigente de partido o asociación política, cuando menos cinco años antes de su designación; y
+
+g) No haber sido candidato a cargo de elección popular, cuando menos tres años antes de su designación.
+
+En la conformación del Instituto se procurará la equidad de género.
+
+Los Comisionados designarán, de entre ellos, a su Presidente, quien fungirá en ese cargo por un periodo de tres años, salvo que fenezca su nombramiento. El Presidente no podrá ser reelegido para el período inmediato y, en los términos que señale la ley, deberá rendir un informe anual de actividades al Congreso del Estado.
+
+Los Comisionados sólo podrán ser removidos de sus cargos por las causas y conforme a los procedimientos previstos en el Título Quinto de esta Constitución;
+
+2. Se sujetará en su actuación a los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Los Comisionados del Instituto, durante el ejercicio de su cargo, no podrán ser dirigentes de ningún partido político, ni desempeñar otro empleo, cargo o comisión, excepto los del ramo de la enseñanza no remunerados;
+
+3. Aprobará, en términos de ley, las disposiciones de orden reglamentario, lineamientos, criterios y demás normativa necesaria para el cumplimiento de sus atribuciones, con base en los lineamientos del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la cual será obligatoria para los sujetos obligados y los particulares;
+
+4. Conocerá del recurso de revisión a petición de parte, que será el medio de impugnación, en primera instancia, para controvertir las determinaciones que emitan los sujetos obligados con motivo de procedimientos de solicitud de acceso a la información pública y de solicitud de derechos de acceso, rectificación, cancelación y oposición de datos personales, en cuya fase de instrucción aplicará la suplencia de la deficiencia de la queja y en sus resoluciones realizará ejercicios de ponderación, observando los principios pro persona y de interpretación en materia de derechos humanos, las cuales serán expeditas, vinculantes, definitivas e inatacables en el orden jurídico local, formando precedentes que serán publicados y de observancia obligatoria en los términos que dispongan las leyes;
+
+5. Certificará, a petición de parte, mediante un procedimiento administrativo expedito, la falta de respuesta de los sujetos obligados a las solicitudes de las personas en materia de acceso a la información y de protección de datos personales, dentro de los plazos que señalen las leyes, procediendo en consecuencia a conceder lo solicitado, con las excepciones que las leyes prevean; así como a ejercer ante la autoridad competente la responsabilidad administrativa, en los términos de este artículo;
+
+6. Interpretará, con efectos vinculantes en el ámbito administrativo, el contenido de las leyes aplicables en materia de transparencia y datos personales;
+
+7. Se auxiliará, para el desempeño de sus atribuciones, por las autoridades y los servidores de los sujetos obligados, quienes coadyuvarán con el Instituto, en los términos que les sea solicitado, y le otorgarán apoyo, en el ámbito de sus respectivas competencias;
+
+8. Denunciará ante las autoridades administrativas y ministeriales competentes, en cada caso, así como ante el Congreso del Estado, los incumplimientos que los servidores de los sujetos obligados actualicen respecto de los deberes en materia del derecho a la información y protección de datos personales contenidos en las leyes, para lo cual deberá previamente agotar de manera progresiva medios de apremio, a fin de lograr el cumplimiento de sus resoluciones en los términos que dispongan las leyes, consistentes en apercibimiento, multa y solicitud de suspensión o remoción del servidor ante el superior jerárquico. Las autoridades competentes deberán emitir de forma expedita, de acuerdo al procedimiento aplicable, la resolución que corresponda; en caso contrario, incurrirán en responsabilidad administrativa;
+
+9. Coordinará acciones con el Órgano de Fiscalización Superior, así como con la dependencia encargada del control de la administración pública estatal, a efecto de que, desde el ámbito de sus respectivas competencias, desarrollen políticas públicas homogéneas tendentes a fortalecer la cultura de la transparencia, mediante mecanismos de apertura gubernamental para robustecer el sistema de rendición de cuentas ciudadano en el Estado;
+
+10. Vigilará que los sujetos obligados cuenten con sus respectivas Unidades de Transparencia, como áreas administrativas responsables de hacer efectivos los derechos de acceso a la información y de acceso, rectificación, cancelación y oposición de datos personales, dictando medidas obligatorias que las fortalezcan y legitimen, a efecto de que cumplan a cabalidad su función;
+
+11. Verificará que los sujetos obligados pongan a disposición de las personas información de calidad, con atención a las mejores prácticas nacionales e internacionales; y
+
+12. El Instituto contará con un Consejo Consultivo, conformado por Consejeros que serán honoríficos. En la integración del Consejo se deberá garantizar la igualdad de género y la inclusión de personas con experiencia en materia de transparencia y acceso a la información y, en general, de derechos humanos, provenientes de organizaciones de la sociedad civil y la academia. La ley señalará lo relativo a la integración, funcionamiento, procedimiento transparente de designación, temporalidad en el cargo y su renovación.
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2012)</small>
 
@@ -2211,13 +2251,11 @@ Los servidores públicos serán responsables por las faltas o delitos en que inc
 
 El Gobernador, durante el ejercicio de su cargo, sólo podrá ser acusado ante el Congreso por la comisión de delitos graves del orden común. Por los demás delitos y faltas podrá ser acusado, conforme a las leyes respectivas, al concluir su mandato.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE ABRIL DE 2016)</small>
 
 ###### Artículo 77.
 
-Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho: los Diputados; el Gobernador, los Secretarios de Despacho, el Contralor General; el Fiscal General del Estado; los Magistrados, los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Contralor General del organismo público que ejerza la autoridad electoral administrativa; los Consejeros del Instituto Veracruzano de Acceso a la Información, y los titulares o sus equivalentes de las entidades de la administración pública estatal y municipal.
+Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho: los Diputados, el Gobernador, los Secretarios de Despacho, el Contralor General; el Fiscal General del Estado; los Magistrados; los Presidentes Municipales o de Concejos Municipales y los Síndicos; el Contralor General del organismo público que ejerza la autoridad electoral administrativa; los Comisionados del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales; y los titulares o sus equivalentes, de las entidades de la administración pública estatal y municipal.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -12286,3 +12324,23 @@ G.O. 1 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 27 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 867 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Los ciudadanos que a la entrada en vigor del presente Decreto se desempeñen como Consejeros del Instituto Veracruzano de Acceso a la Información formarán parte, con el cargo de Comisionados, del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, únicamente por el tiempo que reste al nombramiento del que fueron objeto en el Instituto que se extingue.
+
+Tercero. Los recursos humanos, materiales y financieros con que cuente el Instituto Veracruzano de Acceso a la Información se transferirán, al iniciar su vigencia este Decreto, al Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, previsto en el artículo 67, fracción IV, de la Constitución Política del Estado.
+
+Cuarto. El Congreso del Estado expedirá la ley secundaria correspondiente, en la que se desarrollarán las disposiciones contenidas en este Decreto, conforme al plazo previsto en el artículo quinto transitorio de la Ley General de Transparencia y Acceso a la Información Pública, publicada el cuatro de mayo de dos mil quince en el Diario Oficial de la Federación.
+
+Quinto. En tanto el Congreso del Estado expide la ley a que se refiere el artículo transitorio anterior, el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, previsto en el artículo 67, fracción IV, de la Constitución Política del Estado, ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto, la Ley de Transparencia y Acceso a la Información Pública y la Ley para la Tutela de Datos Personales, ambos ordenamientos del Estado de Veracruz de Ignacio de la Llave.
+
+Al efecto, los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Decreto, se sustanciarán ante el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales.
+
+Sexto. Las menciones que en la Constitución Política del Estado, la legislación secundaria y demás normativa se hagan al Instituto Veracruzano de Acceso a la Información y a sus Consejeros, se entenderán referidas al Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales y a sus Comisionados.
+
+Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
