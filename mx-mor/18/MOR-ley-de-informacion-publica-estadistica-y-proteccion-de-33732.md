@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2015-04-29"
+last_updated: "2016-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MOR"
 ---
 # LEY DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 27 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -1530,3 +1534,21 @@ P.O. 29 DE ABRIL DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 27 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA.- Se Abroga la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos, publicada el 27 de agosto de 2003, en el Periódico Oficial "Tierra y Libertad".
+
+CUARTA.- Los recursos iniciados con anterioridad a la entrada en vigor de la presente ley, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere al cumplimiento y ejecución de las sentencias que se llevarán a cabo conforme a las reglas de esta Ley.
+
+QUINTA.- Dentro de los sesenta días hábiles siguientes, contados a partir de la entrada en vigor de esta Ley, el Instituto Morelense de Información Pública, Estadística y Protección de Datos Personales, expedirá el Reglamento de la Ley correspondiente, que deberá publicarse en el Periódico Oficial "Tierra y Libertad" del Gobierno del estado de Morelos; mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+SEXTA.- El Poder Ejecutivo deberá realizar las ampliaciones presupuestales necesarias al IMIPE para la operación adecuada de la presente Ley.
+
+SÉPTIMA- El Instituto tendrá un plazo de seis meses a partir del inicio de la vigencia de la presente Ley, para publicar el Instrumento Jurídico que regule el Servicio Profesional de Carrera para el personal del Instituto Morelense de Información Pública y Estadística.
