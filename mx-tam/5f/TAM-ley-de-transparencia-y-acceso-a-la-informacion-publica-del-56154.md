@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-05"
-last_updated: "2015-07-07"
+last_updated: "2016-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 27 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2016 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de julio de 2007.
 
@@ -1614,3 +1616,43 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+
+P.O. 27 DE ABRIL DE 2016.
+
+[TRANSITORIOS DEL “DECRETO NO. LXII-948 MEDIANTE EL CUAL SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO OE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+ARTÍCULO SEGUNDO Se abroga la Ley de Transparencia y Acceso a la información Pública del Estado de Tamaulipas, publicada en el Periódico Oficial de Estado, el día 5 de julio de 2007.
+
+###### ARTICULO TERCERO.
+
+El Organismo Garante, en el ejercicio de sus atribuciones, realizará las acciones necesarias para capacitar a los sujetos obligados sobre las disposiciones contenidas en la presente Ley, a efecto de conformar los órganos, establecer los procedimientos y llevar a cabo todas aquellas actividades tendientes a dar cabal cumplimento a las disposiciones de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo del Estado hará las provisiones necesarias en el Presupuesto de Egresos del ejercicio fiscal del presente año para el cumplimiento de las obligaciones y ejercicio de los derechos previstos en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los Comisionados del Organismo garante continuarán en sus cargos y, de ninguna forma, se afectarán los derechos derivados de su designación por el Congreso del Estado, y durarán en su encargo el periodo que se señala en el Decreto de su correspondiente designación.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán ante el Instituto conforme a la normatividad vigente al momento de la solicitud de información.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de la designación y renovación escalonada de los comisionados del Organismo garante a que se refiere el párrafo 3 del artículo 27 del Presente Decreto, la duración de los encargos de sus integrantes se sujetará por única ocasión a lo siguiente:
+
+I.- Un comisionado electo por 7 años;
+
+II.- Un comisionado electo por 5 años; y
+
+III.- Un comisionado electo por 3 años
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
