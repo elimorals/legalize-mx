@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2015-12-17"
+last_updated: "2016-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2016.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -299,9 +299,11 @@ III. El derecho de los varones y las mujeres a la igualdad de oportunidades en l
 
 IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al uso racional de los recursos naturales susceptibles de apropiación con base en el objetivo del desarrollo sustentable, en los términos que fijen las leyes;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
 
-V. La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público estatal o municipal respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades, salvo aquella relativa a la seguridad del Estado o la seguridad pública por la perturbación que pueda causar en el orden público, o a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie;
+V.- La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, y municipios; órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal; respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades; salvo aquellas excepciones que se señalen expresamente en las leyes de la materia, o aquellas relativas a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie.
+
+Para garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados establecidos en la presente fracción, el Estado contará con un organismo autónomo, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, el cual regirá su funcionamiento y actuación conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y en la Ley que para tales efectos deberá expedir el Congreso del Estado de Tamaulipas.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -4447,47 +4449,17 @@ La reforma del artículo 114 apartado A fracción XVI entrará en vigor una vez 
 
 Se deroga toda disposición que contravenga lo regulado dentro del presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+P.O. 27 DE ABRIL DE 2016.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-947, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
 
-Segundo.- El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será equivalente al que tenga el salario mínimo general vigente diario para todo el país, al momento de la entrada en vigor del presente Decreto y hasta que se actualice dicho valor conforme al procedimiento previsto en el artículo quinto transitorio.
+###### ARTÍCULO PRIMERO.
 
-El valor inicial mensual de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor inicial referido en el párrafo anterior por 30.4. Por su parte, el valor inicial anual será el producto de multiplicar el valor inicial mensual por 12.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Tercero.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes federales, estatales, del Distrito Federal, así como en cualquier disposición jurídica que emane de todas las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+###### ARTÍCULO SEGUNDO.
 
-Cuarto.- Sin perjuicio de lo dispuesto en el artículo transitorio anterior, el Congreso de la Unión, las Legislaturas de los Estados, la Asamblea Legislativa del Distrito Federal, así como las Administraciones Públicas Federal, Estatales, del Distrito Federal y Municipales deberán realizar las adecuaciones que correspondan en las leyes y ordenamientos de su competencia, según sea el caso, en un plazo máximo de un año contado a partir de la entrada en vigor de este Decreto, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por las relativas a la Unidad de Medida y Actualización.
-
-Quinto.- El Congreso de la Unión deberá emitir la legislación reglamentaria para determinar el valor de la Unidad de Medida y Actualización, dentro de un plazo que no excederá de 120 días naturales siguientes a la fecha de publicación del presente Decreto.
-
-En tanto se promulga esta ley, se utilizará el siguiente método para actualizar el valor de la Unidad de Medida y Actualización:
-
-I. El valor diario se determinará multiplicando el valor diario de la Unidad de Medida y Actualización del año inmediato anterior por el resultado de la suma de uno más la variación interanual del Índice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior.
-
-II. El valor mensual será el producto de multiplicar el valor diario de la Unidad de Medida y Actualización por 30.4.
-
-III. El valor anual será el producto de multiplicar el valor mensual de la Unidad de Medida y Actualización por 12.
-
-Así mismo la ley deberá prever la periodicidad, atendiendo al principio de anualidad, con que se deberá publicar la actualización de la Unidad de Medida y Actualización en el Diario Oficial de la Federación, así como los mecanismos de ajuste que en su caso procedan.
-
-El valor inicial previsto en el segundo transitorio del presente Decreto, se actualizará conforme al procedimiento que se establezca una vez que se realicen las adecuaciones legales correspondientes.
-
-Sexto.- Los créditos vigentes a la entrada en vigor del presente Decreto cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado u otras instituciones del Estado dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
-
-Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
-
-Las instituciones a que se refiere el primer párrafo podrán, a partir de la entrada en vigor de este Decreto y hasta 720 días naturales posteriores a la entrada en vigor del mismo, seguir otorgando créditos a la vivienda que se referencien o actualicen con base al salario mínimo. En el evento de que el salario mínimo se incremente por encima de la inflación, las citadas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
-
-El órgano de gobierno de cada institución podrá determinar el mecanismo más adecuado para implementar lo dispuesto en el presente artículo transitorio.
-
-Séptimo.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que, a partir de la entrada en vigor de este Decreto, los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
-
-Octavo.- En los créditos, garantías, coberturas y otros esquemas financieros otorgados o respaldados por el Fondo de Operación y Financiamiento Bancario a la Vivienda o por la Sociedad Hipotecaria Federal, S.N.C., Institución de Banca de Desarrollo, en los que para procurar la accesibilidad del crédito a la vivienda se haya previsto como referencia del incremento del saldo del crédito o sus mensualidades el salario mínimo, en beneficio de los acreditados, las citadas entidades deberán llevar a cabo los actos y gestiones necesarias para que el monto máximo de ese incremento en el periodo establecido, no sea superior a la inflación correspondiente. Asimismo, el órgano de gobierno de cada entidad podrá determinar el mecanismo más adecuado para implementar lo dispuesto en el presente artículo transitorio.
-
-Noveno.- Se abrogan todas las disposiciones que se opongan a lo establecido en el presente Decreto, excepto las disposiciones legales relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
-
-D.O.F. 29 DE ENERO DE 2016.
+El Congreso del Estado deberá llevar a cabo las adecuaciones conducentes a la legislación Estatal en materia de transparencia, acceso a la información y de protección de datos personales a más tardar a los 60 días naturales, de la entrada en vigor del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO”.]
 
