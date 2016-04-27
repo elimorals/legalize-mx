@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2014-08-11"
+last_updated: "2016-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACIÓN FISCAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -466,55 +466,15 @@ Para los efectos de las participaciones a que esta Ley se refiere y de los incen
 
 La Federación por conducto de la Secretaría de Hacienda y Crédito Público informará bajo los lineamientos que se establezcan, del comportamiento de las participaciones a las partes beneficiadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 9o.
 
-Las participaciones que correspondan a las Entidades y Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo aquéllas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal y a los recursos a que se refiere el Artículo 4-A, fracción I, de la presente Ley, que podrán ser afectadas para el pago de obligaciones contraídas por las Entidades o Municipios, con autorización de las legislaturas locales e inscritas a petición de dichas Entidades ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
+Las participaciones que correspondan a las Entidades y los Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo aquéllas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal y a los recursos a los que se refiere el artículo 4-A, fracción I, de la presente Ley, que podrán ser afectadas en garantía, como fuente de pago de obligaciones contraídas por las Entidades o los Municipios, o afectadas en ambas modalidades, con autorización de las legislaturas locales e inscritas en el Registro Público Único, de conformidad con el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a favor de la Federación, de las instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionalidad mexicana.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los Municipios podrán convenir que la Entidad correspondiente afecte sus participaciones o aportaciones susceptibles de afectación, para efectos de lo establecido en el párrafo anterior de este artículo.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes participaciones para responder a sus compromisos, de acuerdo con lo establecido en el Reglamento del presente artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de obligaciones que se originen de la emisión de valores, para efectos de su inscripción en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, bastará con que se presente evidencia de dichos valores de acuerdo al procedimiento establecido en el Reglamento, en el entendido que dentro de los diez días hábiles siguientes a la inscripción de los mismos, deberá notificarse a la Secretaría de Hacienda y Crédito Público, su circulación o colocación; de lo contrario, se procederá a la cancelación de la inscripción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO Y DÉCIMO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-El Registro de Obligaciones y Empréstitos de Entidades y Municipios a cargo de la Secretaría de Hacienda y Crédito Público será público a través de la página oficial de Internet de la Secretaría de Hacienda y Crédito Público y deberá permitir la identificación del porcentaje total de participaciones federales afectadas por cada Entidad y Municipio, así como el destino definido en los instrumentos que formalizan la obligación, en los términos que establezca el Reglamento del presente artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Las Entidades y Municipios efectuarán los pagos de las obligaciones contraídas en términos de este artículo, a través de fideicomisos o vehículos de fuente de pago o garantía, sin perjuicio de los instrumentos y sistemas de registro establecidos en sus leyes estatales de deuda. En todo caso, las Entidades Federativas deberán contar con un registro único de obligaciones y empréstitos, y deberán publicar en forma periódica su información y la de sus Municipios con respecto de las obligaciones garantizadas o aquéllas cuya fuente de pago son las participaciones, al menos en la página oficial de Internet del gobierno de la entidad.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-No estarán sujetas a lo dispuesto en el primer párrafo de este artículo, las compensaciones que se requieran efectuar a las Entidades como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos de las Entidades y de los Municipios y las obligaciones que tengan con la Federación, cuando exista acuerdo entre las partes interesadas o esta ley así lo autorice.
-
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
-
-El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los gobiernos de las entidades que se hubieren adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia contable y de información de finanzas públicas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-En el reglamento que expida el Ejecutivo Federal se señalarán los requisitos para el registro de las obligaciones de Entidades y Municipios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Las publicaciones anteriores se deberán realizar conforme a los lineamientos de homologación de información pública que establezca la Secretaría de Hacienda y Crédito Público.
+No estarán sujetas a lo dispuesto en el primer párrafo de este artículo, las compensaciones que se requieran efectuar a las Entidades como consecuencia de ajustes en participaciones o de descuentos originados del incumplimiento de metas pactadas con la Federación en materia de administración de contribuciones. Asimismo, procederán las compensaciones entre las participaciones federales e incentivos de las Entidades y de los Municipios y las obligaciones que tengan con la Federación, cuando exista acuerdo entre las partes interesadas o esta Ley así lo autorice.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -605,6 +565,10 @@ III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 IV.- Actos de inspección y vigilancia.
+
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2016)</small>
+
+V.- Los conceptos a que se refieren las fracciones anteriores, sin excepción alguna, en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2309,3 +2273,67 @@ I. Cuando los ingresos observados totales del Fondo Mexicano del Petróleo para 
 II. Cuando los recursos recibidos por las entidades federativas y los municipios procedentes de los ingresos que, en términos de este Decreto, se integran a la Recaudación Federal Participable conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal, sean menores a las que hubieran recibido de haber aplicado a las asignaciones vigentes en el año que corresponda, las disposiciones de la Ley Federal de Derechos y la Ley de Coordinación Fiscal vigentes hasta antes de la entrada en vigor de este Decreto, el Gobierno Federal entregará a las entidades federativas y los municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio fiscal, una cantidad equivalente a la diferencia entre el monto que les hubiera correspondido como participaciones conforme a las disposiciones citadas, y el monto efectivamente observado conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal.
 
 Los recursos que se entreguen a las entidades federativas y municipios en términos de la fracción I de este transitorio no podrán ser mayores a 11,800 millones de pesos en el ejercicio correspondiente. El Gobierno Federal realizará la entrega de los recursos que procedan conforme a las fracciones I y II anteriores a más tardar en el mes de febrero del ejercicio siguiente al que corresponda.
+
+D.O.F. 27 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DE COORDINACIÓN FISCAL, GENERAL DE DEUDA PÚBLICA Y GENERAL DE CONTABILIDAD GUBERNAMENTAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las Entidades Federativas y, en su caso, los Municipios realizarán las reformas a las leyes, reglamentos y disposiciones administrativas que sean necesarias para dar cumplimiento a este Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.
+
+CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de las Entidades Federativas a que se refiere el Capítulo I del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los transitorios Quinto al Noveno.
+
+QUINTO.- El porcentaje a que hace referencia el artículo 9 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+SEXTO.- La fracción I del artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo de la fracción a que se refiere el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+SÉPTIMO.- El porcentaje a que hace referencia el artículo 12 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal anterior de las Entidades Federativas, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+OCTAVO.- El registro de proyectos de Inversión pública productiva de cada entidad federativa y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 13, fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, deberá estar en operación a más tardar el 1o. de enero de 2018.
+
+NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 14, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero y los que apliquen de acuerdo al artículo 21 de dicha Ley.
+
+DÉCIMO PRIMERO.- El porcentaje a que hace referencia el artículo 20 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+DÉCIMO SEGUNDO.- La Comisión Nacional Bancaria y de Valores publicará las disposiciones a las que hace referencia el artículo 28 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO TERCERO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, no podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública de Estados y Municipios asumidas entre el 1o. de enero de 2015 y la fecha en la que el Estado celebre el convenio referido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, salvo que se trate de deuda pública de los Estados y Municipios que haya sido contraída para refinanciar o reestructurar deuda pública asumida con anterioridad al 1o. de enero de 2015.
+
+DÉCIMO CUARTO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública de los Estados y Municipios, en términos del Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a partir de los 90 días siguientes a la entrada en vigor del presente Decreto en el Diario Oficial de la Federación, siempre y cuando el Estado y, en su caso Municipio correspondiente, cumpla con la publicación de su información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. Para tal efecto, los entes públicos deberán presentar la opinión de la entidad de fiscalización superior de la entidad federativa correspondiente, en la que manifieste si el ente público cumple con dicha disposición.
+
+Asimismo, para efectos del párrafo anterior, el Estado o Municipio deberá estar al corriente en el cumplimiento de las obligaciones establecidas en los transitorios Sexto y Séptimo, segundo párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios, publicado el 26 de mayo de 2015 en el Diario Oficial de la Federación. En caso contrario, el Estado o Municipio no podrá acceder a la Deuda Estatal Garantizada, hasta su cumplimiento.
+
+Adicionalmente, en tanto entra en operación el Sistema de Alertas en los términos establecidos en el siguiente artículo transitorio, los convenios que se formalicen con la Deuda Estatal Garantizada deberán remitirse a la comisión legislativa bicameral para su análisis y opinión correspondiente. Una vez que entre en operación el Sistema de Alertas se aplicará lo dispuesto en el artículo 38 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+DÉCIMO QUINTO.- El Sistema de Alertas a que se refiere el Capítulo V del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios entrará en operación, a más tardar el 1o. de abril de 2017.
+
+El Ejecutivo Federal deberá emitir el reglamento a que se refiere el Capítulo citado en el párrafo anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO.- En el caso de los Entes Públicos que, a la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se ubiquen en un endeudamiento elevado conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hacen referencia los artículos 34 y 47 de dicha Ley, podrán establecer un Techo de Financiamiento Neto distinto al señalado en el artículo 46 de la misma.
+
+DÉCIMO SÉPTIMO.- Los recursos que sean otorgados a los Entes Públicos a través del esquema de los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN, quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo dispuesto en dicho programa.
+
+DÉCIMO OCTAVO.- El Registro Público Único a que se refiere el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios sustituirá al Registro de Obligaciones y Empréstitos de Entidades y Municipios y entrará en operación, a más tardar el 1o. de abril de 2017.
+
+El Ejecutivo Federal deberá emitir el reglamento a que se refiere el Capítulo citado en el párrafo anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Los trámites iniciados ante el Registro de Obligaciones y Empréstitos de Entidades y Municipios, con anterioridad a la entrada en vigor del Registro Público Único, se llevarán a cabo de conformidad con las disposiciones vigentes en la fecha de inicio del trámite.
+
+Las referencias al Registro de Obligaciones y Empréstitos de Entidades y Municipios en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público Único.
+
+DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios relacionados con el Registro Público Único serán aplicables hasta la entrada en operación del mismo. En tanto, seguirán vigentes las disposiciones del Registro de Obligaciones y Empréstitos de Entidades y Municipios.
+
+VIGÉSIMO.- El Consejo Nacional de Armonización Contable deberá emitir, en un plazo máximo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, las normas necesarias para identificar el gasto realizado con recursos provenientes de ingresos de libre disposición, transferencias federales etiquetadas y deuda pública, en los términos definidos en el artículo 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+VIGÉSIMO PRIMERO.- Las menciones que en las leyes, reglamentos, decretos y cualquier disposición administrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley General de Deuda Pública, se entenderán referidas a la Ley Federal de Deuda Pública.
