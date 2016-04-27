@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2016-01-06"
+last_updated: "2016-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -870,19 +870,31 @@ La información que manejen las administradoras de fondos para el retiro, así c
 
 La documentación y demás características de estas cuentas no previstas en esta Ley y en la Ley del Seguro Social se sujetarán a lo dispuesto por la Ley de los Sistemas de Ahorro para el Retiro.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 39.
 
-El saldo de las subcuentas de vivienda causará intereses a la tasa que determine el Consejo de Administración del Instituto, la cual deberá ser superior al incremento del salario mínimo del Distrito Federal.
+El saldo de las subcuentas de vivienda causará intereses a la tasa que determine el Consejo de Administración del Instituto.
+
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
 El interés anual que se acreditará a las subcuentas de vivienda, se integrará con una cantidad básica que se abonará en doce exhibiciones al final de cada uno de los meses de enero a diciembre, más una cantidad de ajuste al cierre del ejercicio.
 
-Para obtener la cantidad básica, se aplicará al saldo de las subcuentas de vivienda, la tasa de incremento del salario mínimo del Distrito Federal que resulte de la revisión que para ese año haya aprobado la Comisión Nacional de los Salarios Mínimos.
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2016)</small>
+
+Para obtener la cantidad básica se aplicarán, al saldo de las subcuentas de vivienda, las tasas aplicables a cada una de las denominaciones que integren los activos financieros del Instituto, con base en la proporción que cada una de estas denominaciones guarde sobre la suma del total de los activos financieros. Dichas tasas aplicables serán las siguientes:
+
+I. Para la proporción asociada a los créditos hipotecarios denominados en Salarios Mínimos, será la tasa de incremento al Salario Mínimo, sin que ésta pueda exceder la tasa de incremento porcentual de la Unidad de Medida y Actualización (UMA) para el mismo periodo.
+
+II. Para la proporción asociada a los créditos hipotecarios denominados en Pesos, será la tasa de interés nominal anual que resulte de promediar de manera aritmética, los incrementos anuales que hubiese observado el Índice Nacional de Precios al Consumidor durante los últimos cinco años calendario.
+
+III. Para la proporción asociada a los activos financieros no considerados en los párrafos anteriores, se le aplicará el retorno del portafolio de referencia que haya aprobado para tal fin el Consejo de Administración a través de su Comité de Inversiones o cualquier otro Órgano Colegiado designado para la gestión de las inversiones del Instituto.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 El Consejo de Administración procederá, al cierre de cada ejercicio, a calcular los ingresos y egresos del Instituto de acuerdo con los criterios y disposiciones emitidas por la Comisión Nacional Bancaria y de Valores, en el ejercicio de las atribuciones que le son conferidas en el Artículo 66 de la presente Ley, para determinar el remanente de operación. No se considerarán remanentes de operación las cantidades que se lleven a las reservas previstas en esta misma Ley, así como aquellas destinadas a preservar el patrimonio del Instituto.
+
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
 Una vez determinado por el Consejo de Administración el remanente de operación del Instituto en los términos del párrafo anterior, se le disminuirá la cantidad básica para obtener la cantidad de ajuste resultante. Dicha cantidad de ajuste se acreditará en las subcuentas de vivienda a más tardar en el mes de marzo de cada año.
 
@@ -1008,21 +1020,17 @@ Los trabajadores que obtengan un crédito de vivienda bajo el régimen de otros 
 
 En el caso que los trabajadores se encuentren amortizando un crédito de vivienda otorgado por el Instituto o por algún instituto de seguridad social, y que por establecer una nueva relación laboral cambien de régimen de seguridad social, deberán seguir utilizando sus aportaciones de vivienda para el pago del crédito correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 44.
 
-El saldo de los créditos otorgados a los trabajadores a que se refiere la fracción II del artículo 42, se revisará cada vez que se modifiquen los salarios mínimos, incrementándose en la misma proporción en que aumente el salario mínimo general que rija en el Distrito Federal.
+El saldo de los créditos otorgados a los trabajadores a que se refiere la fracción II del artículo 42, se actualizará bajo los términos y condiciones que hayan sido estipulados.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+Sin perjuicio de lo señalado en el párrafo anterior, para el caso de los créditos otorgados en veces salario mínimo, en el evento de que el salario mínimo se incremente por encima de la Unidad de Medida y Actualización, el Instituto no podrá actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de dicha Unidad de Medida y Actualización durante el mismo año.
 
 Asimismo, los créditos citados devengarán intereses sobre el saldo ajustado de los mismos, a la tasa que determine el Consejo de Administración. Dicha tasa no será menor del cuatro por ciento anual sobre saldos insolutos.
 
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2012)</small>
-
-El Instituto también otorgará, a solicitud del trabajador créditos, en pesos o veces en salarios mínimos, conforme a las reglas que al efecto determine su Consejo de Administración, las cuales deberán propiciar que las condiciones financieras para los trabajadores no sean más altas que las previstas en los párrafos anteriores y previendo en todo momento las medidas para que se preserve la estabilidad financiera del Instituto y se cubran los riesgos de su cartera de créditos.
-
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+El Instituto también otorgará, a solicitud del trabajador, créditos, en pesos o Unidades de Medida y Actualización conforme a las reglas que al efecto determine su Consejo de Administración, las cuales deberán propiciar que las condiciones financieras para los trabajadores no sean más altas que las previstas en los párrafos anteriores y previendo en todo momento las medidas para que se preserve la estabilidad financiera del Instituto y se cubran los riesgos de su cartera de créditos.
 
 Los créditos se otorgarán a un plazo no mayor de 30 años.
 
@@ -1194,13 +1202,17 @@ Las controversias entre los patrones y el Instituto, una vez agotado, en su caso
 
 Será optativo para los patrones agotar el recurso de inconformidad o acudir directamente ante el Tribunal Federal de Justicia Fiscal.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 55.
 
-Independientemente de las sanciones específicas que establece esta Ley, las infracciones a la misma que en perjuicio de sus trabajadores o del Instituto cometan los patrones, se castigarán con multas por el equivalente de tres a trescientas cincuenta veces el salario mínimo general diario vigente en el Distrito Federal en el tiempo en el que se cometa la violación.
+Independientemente de las sanciones específicas que establece esta Ley, las infracciones a la misma que en perjuicio de sus trabajadores o del Instituto cometan los patrones, se castigarán con multas por el equivalente de tres a trescientas cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente en el tiempo en el que se cometa la violación.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 Cuando la infracción consista en la falta de información que impida la individualización de las aportaciones a la subcuenta de vivienda de las cuentas del sistema de ahorro para el retiro, la sanción que se imponga al patrón infractor será la que resulte mayor de entre el cincuenta por ciento de las aportaciones no individualizadas y la que corresponda al máximo en términos del párrafo anterior y del reglamento, independientemente de que se hayan enterado las aportaciones respectivas en los plazos establecidos en ley.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 Las multas previstas en este artículo serán impuestas por el Instituto de acuerdo con los reglamentos respectivos. Las multas referidas en el primer párrafo no se aplicarán a los patrones que enteren espontáneamente en los términos del Código Fiscal de la Federación, las aportaciones y descuentos correspondientes.
 
@@ -1599,3 +1611,13 @@ D.O.F. 6 DE ENERO DE 2016.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 180 días siguientes a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes relativas a las disposiciones materia de este Decreto.
+
+D.O.F. 27 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 39, 44 Y 55 DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto podrá seguir otorgando créditos para la adquisición de vivienda que se referencien o actualicen con base en el salario mínimo, en términos de lo dispuesto por el sexto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016, a partir del cual y hasta 720 días naturales posteriores a la entrada en vigor del mismo se podrán otorgar dichos créditos.
+
+Tercero. Los contratos que tenga celebrado el Instituto, vigentes a la fecha de entrada en vigor del presente Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que, a partir de la entrada en vigor de este Decreto, los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
