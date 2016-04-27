@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2015-12-17"
+last_updated: "2016-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2016.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -299,9 +299,11 @@ III. El derecho de los varones y las mujeres a la igualdad de oportunidades en l
 
 IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al uso racional de los recursos naturales susceptibles de apropiación con base en el objetivo del desarrollo sustentable, en los términos que fijen las leyes;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
 
-V. La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público estatal o municipal respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades, salvo aquella relativa a la seguridad del Estado o la seguridad pública por la perturbación que pueda causar en el orden público, o a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie;
+V.- La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, y municipios; órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal; respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades; salvo aquellas excepciones que se señalen expresamente en las leyes de la materia, o aquellas relativas a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie.
+
+Para garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados establecidos en la presente fracción, el Estado contará con un organismo autónomo, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, el cual regirá su funcionamiento y actuación conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y en la Ley que para tales efectos deberá expedir el Congreso del Estado de Tamaulipas.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -4442,3 +4444,15 @@ La reforma del artículo 114 apartado A fracción XVI entrará en vigor una vez 
 ###### ARTÍCULO CUARTO.
 
 Se deroga toda disposición que contravenga lo regulado dentro del presente Decreto.
+
+P.O. 27 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-947, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá llevar a cabo las adecuaciones conducentes a la legislación Estatal en materia de transparencia, acceso a la información y de protección de datos personales a más tardar a los 60 días naturales, de la entrada en vigor del presente Decreto.
