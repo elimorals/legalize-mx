@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-mecanismos-de-participacion-ciudadana-del-estado-de-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-08"
-last_updated: "2015-09-29"
+last_updated: "2016-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MECANISMOS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 8 de septiembre de 2015.
 
@@ -607,9 +607,11 @@ II. Los que hayan sido candidatos a cargo de elección popular en el último pro
 
 III. Los que sean o hayan sido servidores públicos, hasta un año antes de que deseen participar.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 51.
 
-El Observatorio Ciudadano representa los intereses de los sectores de la sociedad frente a las acciones de los Órganos del Estado. En ningún caso, este órgano ciudadano o sus integrantes podrán ejercer funciones propias de aquellos, además de que sus cargos serán honorarios, adquiriendo el carácter de observadores ciudadanos, por lo que deberán ser acreditados por la Comisión Legislativa ante los Órganos del Estado.
+El Observatorio Ciudadano representa los intereses de los sectores de la sociedad frente a las acciones de los órganos del Estado. En ningún caso, este órgano ciudadano o sus integrantes podrán ejercer funciones propias de aquellos, además de que sus cargos serán honorarios, adquiriendo el carácter de observadores ciudadanos, por lo que deberán ser acreditados por el Instituto Electoral de Michoacán.
 
 ###### ARTÍCULO 52.
 
@@ -617,39 +619,65 @@ Los Observatorios Ciudadanos tienen como objeto:
 
 I. La construcción de propuestas, análisis objetivos y especializados sobre acciones de los Órganos del Estado, así como de las diversas problemáticas de la vida pública del Estado y de los Municipios;
 
-II. La construcción de agendas de desarrollo para el Estado y sus municipios con visión de mediano y largo plazo; y,
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
+
+II. La construcción de propuestas de agendas de desarrollo para el Estado y sus Municipios con visión de mediano y largo plazo; y,
 
 III. Servir de apoyo especializado para la realización de otros mecanismos de participación ciudadana.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 53.
 
-Los Observatorios Ciudadanos, sin importar la modalidad y el objeto con los que se constituyan, durarán como máximo dos años, salvo disposición en contrario.
+Los Observatorios Ciudadanos durarán como máximo dos años, salvo disposición en contrario.
 
-Las personas que hayan integrado un Observatorio Ciudadano pueden solicitar conformar otro en modalidad y objeto diverso, siempre que en ese momento no exista otro con objeto y finalidad semejante.
+Se podrá acreditar un Observatorio Ciudadano por cada uno de los órganos del Estado.
+
+Aún sin mediar convocatoria por parte de dichos órganos del Estado, los ciudadanos podrán solicitar al Instituto Electoral de Michoacán, la conformación de un observatorio al órgano del Estado de su interés.
+
+Ninguna persona podrá integrar más de un Observatorio Ciudadano al mismo tiempo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 54.
 
-Puede solicitarse a la Comisión Legislativa la renovación de un observatorio ciudadano hasta en tres ocasiones, aquella deberá autorizar dicha petición siempre que se garantice la renovación de la mitad de sus integrantes a través de un procedimiento de convocatoria ciudadana a cargo de los integrantes del observatorio, la que deberá desarrollarse y concluirse dentro del plazo de treinta días; en caso de no hacerlo en dicho tiempo, la Comisión Legislativa sin mayor trámite acordará su disolución.
+Un mes antes de concluir el periodo para el cual fue acreditado, un Observatorio Ciudadano podrá solicitar su renovación por escrito ante el Instituto hasta en tres ocasiones. El Instituto deberá autorizar dicha petición siempre que se garantice la renovación de la mitad de sus integrantes y deberá notificar al órgano del Estado correspondiente, el cual deberá emitir convocatoria, que deberá desarrollarse y concluirse dentro de un plazo de treinta días.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2016)</small>
+
+Si el órgano del Estado no cumpliere en tiempo y forma con dicha convocatoria, ésta deberá ser emitida por el Instituto. En caso de existir omisión del observatorio ciudadano a lo establecido por la convocatoria, el instituto podrá declarar su disolución.
 
 Podrá negarse la solicitud de renovación si el observatorio ciudadano no ha cumplido con sus lineamientos u obligaciones, no ha ejercido sus derechos o bien ha incurrido en responsabilidad en los términos de esta Ley.
 
-Las personas que derivado del procedimiento de renovación que sean sustituidas deben ser de entre aquellas que tengan mayor tiempo integrando el Observatorio Ciudadano, en caso de que todas tengan la misma antigüedad se atenderá a los términos que sus integrantes acuerden. Las personas que hayan pertenecido a dicho observatorio, una vez sustituidas, no podrán volver a participar para el periodo inmediato.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
+
+Las personas que derivado del procedimiento de renovación deban ser sustituidas serán aquellas que tengan mayor tiempo integrando el Observatorio Ciudadano, en caso de que todas tengan la misma antigüedad se atenderá a los términos que sus integrantes acuerden. Las personas que hayan pertenecido a dicho observatorio, una vez sustituidas, no podrán volver a participar para el periodo inmediato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 55.
 
-Los poderes Ejecutivo y Legislativo, así como los Ayuntamientos dentro de los treinta días contados a partir del inicio de su administración emitirán convocatoria pública para la integración de un Observatorio Ciudadano, garantizando la publicidad a la que refiere el artículo 9 de esta Ley.
+El Poder Ejecutivo a través de sus dependencias, el Poder Legislativo y los Ayuntamientos, deberán emitir dentro de los treinta días a partir del inicio de su administración convocatoria pública para la integración de su observatorio ciudadano correspondiente, garantizando la publicidad a la que refiere el artículo 9 de esta Ley.
 
 El Consejo del Poder Judicial y los órganos constitucionales autónomos dentro de los treinta días contados a partir de que se renueve su Titular, emitirán también convocatoria pública para la integración de un Observatorio Ciudadano garantizando su publicidad.
 
-Los órganos del Estado que corresponda deberán informar a la Comisión Legislativa, sobre el cumplimiento de este artículo, dentro de los seis meses siguientes de que iniciaron su administración o su función como titular.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2016)</small>
+
+Los términos a los que se refieren los párrafos anteriores, no se aplicarán en los casos en que el Observatorio Ciudadano que corresponda se encuentre vigente, debiendo emitirse la convocatoria que corresponda una vez que concluya el periodo para el cual fueron acreditados.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
+
+Los órganos del Estado que corresponda deberán informar al Instituto, sobre el cumplimiento de este artículo, dentro de los seis meses siguientes de que iniciaron su administración o su función como titular.
 
 ###### ARTÍCULO 56.
 
-El Observatorio Ciudadano como una modalidad de ejercer el derecho de asociación o reunión, no limita que en ningún caso pueda realizarse de cualquier otra forma en los términos de la normatividad aplicable.
+(DEROGADO, P.O. 27 DE ABRIL DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 57.
 
-Los Observatorios Ciudadanos deben observar los lineamientos siguientes:
+En la integración y funcionamiento de los Observatorios Ciudadanos se deberá de observar lo siguiente:
 
 I. El adecuado equilibrio entre los sectores público, privado y social procurando la integración de académicos, investigadores, así como, de sectores en condición de vulnerabilidad;
 
@@ -657,53 +685,65 @@ II. La transparencia en el ejercicio de sus funciones; y,
 
 III. La cultura democrática de participación ciudadana.
 
+> <small>[N. DE E. MEDIANTE DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 27 DE ABRIL DE 2016, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 58.
 
-La constitución y funcionamiento de los Observatorios Ciudadanos, se sujetará a lo siguiente:
+Cada Observatorio Ciudadano se integrará por no menos de tres ni más de treinta ciudadanos, su constitución y funcionamiento se sujetará a lo siguiente:
 
-I. Los ciudadanos presentarán, por escrito, una solicitud ante la Comisión Legislativa de Asuntos Electorales y Participación Ciudadana, la cual deberá reunir los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2016)</small>
 
-a) Los datos generales de los solicitantes;
+I. Cada ciudadano presentará, por escrito, una solicitud ante el Instituto, la cual deberá reunir los requisitos siguientes:
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
+
+a) Datos generales y copia del documento que acredite la identidad del solicitante;
 
 b) La firma o huella dactilar.
 
-c) Proponer en la solicitud, la denominación con que se desea se nombre al Observatorio Ciudadano que habrá de crearse.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
 
-En caso de que dicho nombre haya sido o esté siendo utilizado, o bien, haya alguna imposibilidad para admitirlo, la Comisión deberá fundar y motivar la resolución en que lo rechace, debiendo otorgar uno nuevo que refleje con claridad el objeto del Observatorio Ciudadano.
+c) Señalar domicilio para oír y recibir toda clase de documentos y notificaciones.
 
-d) Señalar un representante y domicilio para oír y recibir toda clase de documentos o notificaciones.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
 
-Para todos los efectos legales, se entenderá que el representante designado podrá realizar todos los actos necesarios para tramitar el procedimiento de conformación del Observatorio Ciudadano.
+d) La solicitud deberá contener una leyenda en donde se exprese la voluntad del ciudadano interesado en formar parte del Observatorio Ciudadano que se pretende crear.
 
-e) Señalar el objeto, la denominación y demás elementos que identifiquen al Observatorio Ciudadano.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
 
-Los solicitantes deben ser, no menos de tres ni más de diez ciudadanos.
+El Instituto podrá verificar los requisitos solicitados mediante los mecanismos de seguridad que determine. Si de la revisión determina que no se reúnen los requisitos, requerirá al solicitante para que dentro de los cinco días hábiles siguientes cumpla con lo observado. Por el contrario, si califica como acreditados los requisitos, o bien, estos se han subsanado después de haberse prevenido, se expedirá la constancia de integrante del Observatorio Ciudadano.
 
-La solicitud deberá contener una leyenda en donde se exprese la voluntad de los ciudadanos suscribientes de formar parte del Observatorio Ciudadano que se pretende crear.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
 
-La Comisión podrá verificar los requisitos solicitados mediante los mecanismos de seguridad que determine. Si de la revisión determina que no se reúnen los requisitos, requerirá a los solicitantes para que dentro de los cinco días hábiles siguientes cumplan con lo observado. Por el contrario, si califica como acreditados los requisitos, o bien, estos se han subsanado después de haberse prevenido, se expedirá la constancia de constitución del Observatorio Ciudadano.
+II. De expedirse la Constancia como integrante del Observatorio Ciudadano, el Instituto citara a aquellos que hayan sido acreditados, señalando día, lugar y hora para su instalación. La sesión de instalación será válida si existe el quórum legal para ello. En caso de que no exista quórum legal, el Instituto emitirá un segundo citatorio, si en ésta no se reúne el quórum de asistencia, dicho Instituto declarará tal hecho y cancelará la Constancia de Constitución del Observatorio Ciudadano. Ninguno de los ciudadanos que solicitaron pueden volver a hacerlo, sino hasta después de un año de la fecha de cancelación. De existir el quórum requerido, procederá a la instalación.
 
-II. De expedirse la Constancia de Constitución del Observatorio Ciudadano, la misma autoridad que la emitió citará a los integrantes de aquel, señalando día, lugar y hora para su instalación. La sesión de instalación será válida si existe el quórum legal para ello. En caso de que no exista quórum legal, la Comisión emitirá un segundo citatorio, si en ésta no se reúne el quórum de asistencia, la Comisión declarará tal hecho y cancelará la Constancia de Constitución del Observatorio Ciudadano. Ninguno de los ciudadanos que solicitaron pueden volver a hacerlo, sino hasta después de un año de la fecha de cancelación. De existir el quórum requerido, la Comisión procederá a la instalación.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
 
-III. Una vez efectuada la instalación, la Comisión ordenará su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Todas las decisiones que emita el Observatorio Ciudadano deberán ser aprobadas por votación de la mayoría absoluta de los ciudadanos que lo integran.
+III. Una vez efectuada la instalación, el Instituto ordenará su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Todas las decisiones que emita el Observatorio Ciudadano deberán ser aprobadas por votación de la mayoría absoluta de los ciudadanos que lo integran.
 
-IV. Los michoacanos podrán, en cualquier momento, formar parte de los Observatorios Ciudadanos conformados, siempre que éstos no cuenten con el máximo de integrantes permitidos, o que sea en sustitución de alguno de ellos. Para cualquiera de las anteriores situaciones, quien solicite deberá cumplir con los mismos requisitos y trámite que los iniciadores, con la excepción de que además, su ingreso estará sujeto a la aceptación de los integrantes del Observatorio Ciudadano.
+Los Observatorios Ciudadanos instalados serán acreditados por el Instituto ante los órganos del Estado.
 
-De aceptar el Observatorio Ciudadano un nuevo integrante lo comunicará de inmediato a la Comisión, quien habiendo verificado el cumplimiento de los requisitos legales expedirá la constancia de miembro del Observatorio Ciudadano. Entre la recepción de la solicitud para ser miembro del Observatorio Ciudadano y la entrega de constancia de miembro, de ser aceptada, no deberá mediar más de 15 días naturales.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
 
-V. La Comisión llevará un registro de los Observatorios Ciudadanos, con los datos de sus miembros y demás necesarios para su identificación. Se deberá actualizar en forma permanente. El registro será público, con las restricciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
+IV. El Instituto llevará un registro de los Observatorios Ciudadanos, con los datos de sus miembros y demás necesarios para su identificación. Se deberá actualizar en forma permanente. El registro será público, con las restricciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán.
 
-VI. La Comisión se encargará de vigilar, evaluar y certificar que los Observatorios Ciudadanos se integren y funcionen en los términos que establece la normatividad aplicables (sic), en caso de que el órgano o sus integrantes dejen de observar los requisitos de ley, o la contravengan, la Comisión podrá cancelar su registro mediante acuerdo fundado y motivado.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
 
-VII. Las controversias que se generen con motivo de la integración y del funcionamiento de los Observatorios Ciudadanos, serán resueltas por la Comisión.
+V. El Instituto se encargará de vigilar, evaluar y certificar que los Observatorios Ciudadanos se integren y funcionen en los términos que establece la normatividad aplicable, en caso de que el órgano o sus integrantes dejen de observar los requisitos de ley, o la contravengan, el Instituto podrá cancelar su registro mediante acuerdo fundado y motivado.
 
-VIII. Los Observatorios Ciudadanos, previo acuerdo entre ellos, podrán dividirse o fusionarse. La Comisión certificará la división o fusión de que se trate, y para efecto del cómputo de temporalidad para su existencia se considerará la media entre los Observatorios Ciudadanos involucrados.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
+
+VI. Las controversias que se generen con motivo de la integración y del funcionamiento de los Observatorios Ciudadanos, serán resueltas por acuerdo del Instituto.
 
 ###### ARTÍCULO 59.
 
 Cada Observatorio Ciudadano expedirá un Estatuto que regulará su organización y funcionamiento internos, conforme a lo dispuesto por esta Ley y demás disposiciones aplicables.
 
-El Estatuto deberá registrarse ante la Comisión Legislativa, quien ordenará su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2016)</small>
+
+El Estatuto deberá registrarse ante el Instituto, quien ordenará su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 60.
 
@@ -713,7 +753,9 @@ I. Recibir formación, capacitación, información, y asesoría para el desempe�
 
 II. Ser convocados, con oportunidad, por la autoridad que corresponda, para el análisis y discusión de los programas y políticas públicas ejecutadas por el ente observado y participar con derecho a voz en las reuniones y eventos;
 
-III. En caso de tener conocimiento de actos que contravengan las normas que rigen la administración o de los actos que afecten el ejercicio del gasto público, los observadores ciudadanos deberán dar vista a las autoridades correspondientes; y,
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
+
+III. En caso de tener conocimiento de actos que contravengan las normas que rigen la administración o de los actos que afecten el ejercicio del gasto público, los observadores ciudadanos darán vista a las autoridades correspondientes; y,
 
 IV. Integrar una red estatal de Observatorios Ciudadanos con la finalidad de participar en sus grupos de trabajo, socializar sus logros y sistematizar la información.
 
@@ -940,3 +982,21 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA
 P.O. 29 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 134 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 51, 52, 53, 54, 55, 57, 58, 59 Y 60; Y SE DEROGA EL ARTÍCULO 56 DE LA LEY DE MECANISMOS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese el presente decreto:
+
+a) Al Gobernador del Estado, a efecto de que gire las instrucciones correspondientes a los titulares u órganos de gobierno de las dependencias y entidades de la administración pública centralizada, descentralizada, desconcentrada, y de participación estatal;
+
+b) A los 113 Municipios, a efecto de que giren instrucciones a los titulares u órganos de gobierno de las dependencias y entidades de la administración pública centralizada, descentralizada, desconcentrada, y de participación municipal; y,
+
+c) A los titulares de los Órganos Constitucionales Autónomos.
+
+CUARTO. El Instituto Electoral de Michoacán contará con el término de 90 noventa días para emitir la normatividad correspondiente a la integración y funcionamiento de los observatorios ciudadanos, la cual una vez emitida deberá hacer del conocimiento de los órganos de Gobierno a efecto de que estén en condiciones de emitir la convocatoria para la constitución de los Observatorios.
