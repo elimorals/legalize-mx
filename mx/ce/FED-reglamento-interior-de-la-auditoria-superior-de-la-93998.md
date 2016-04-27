@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-93998"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-29"
-last_updated: "2013-04-29"
+last_updated: "2016-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93998&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-04-23"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE ABRIL DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de abril de 2013.
 
@@ -1261,6 +1261,10 @@ Los Directores Generales, para el despacho de los asuntos de su competencia, ser
 
 La denominación, organización y funciones de las unidades administrativas que no se señalen en este Reglamento, se precisarán en el Manual de Organización de la Auditoría Superior de la Federación.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2016)</small>
+
+La atribución de la fracción XXXVIII prevista en este artículo podrá ser ejercida indistintamente por los Directores, Subdirectores, Jefes de Departamento y Auditores adscritos a la Dirección General de que se trate.
+
 ###### Artículo 17.
 
 La Dirección General de Auditoría Financiera Federal “A” estará adscrita a la Auditoría Especial de Cumplimiento Financiero y su titular tendrá las siguientes atribuciones:
@@ -1826,6 +1830,10 @@ XXXIV. Realizar estudios y emitir opiniones en materia de situación patrimonial
 XXXV. Recibir, registrar y custodiar, en su caso, las declaraciones de situación patrimonial presentadas por los servidores públicos del Poder Legislativo Federal, en términos de Ley o de los Acuerdos que al efecto se emitan o de los Convenios que para tal efecto se celebren; y
 
 XXXVI. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2016)</small>
+
+Las atribuciones de las fracciones XXV, XXVI y XXVII previstas en este artículo podrán ser ejercidas indistintamente por los Directores, Subdirectores, Jefes de Departamento y Auditores Jurídicos adscritos a la Dirección General Jurídica.
 
 ###### Artículo 34.
 
@@ -2402,3 +2410,11 @@ QUINTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encue
 SEXTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y hayan iniciado la Dirección General de Auditoría a las Aportaciones Federales en Entidades Federativas, la Dirección General de Auditoría a los Recursos Descentralizados, Reasignados, Subsidios y Otros y la Dirección General a los Recursos Federales en Municipios y Órganos Político-Administrativos de las Demarcaciones Territoriales del Distrito Federal los continuarán las Direcciones Generales de Auditoría a los Recursos Federales Transferidos "A", "B" y "C" de conformidad con la competencia y atribuciones que en su momento determine su superior jerárquico.
 
 México, D.F., a 23 de abril de 2013.- El Auditor Superior de la Federación, Juan Manuel Portal Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
