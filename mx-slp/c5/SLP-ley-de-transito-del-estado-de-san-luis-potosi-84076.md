@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2016-03-10"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1083,6 +1083,10 @@ IX. En los casos en que haya sido necesario el uso de grúa, el propietario esta
 
 X. En los casos establecidos en las fracciones II, V, VII y VIII, el infractor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique, y sólo en caso de negativa, o de abandono de la unidad, se podrá ordenar el traslado por medio de grúa; el agente de seguridad pública con funciones de tránsito, deberá levantar razón en la boleta que emita.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+En ningún caso el personal de los cuerpos de seguridad pública en funciones de tránsito podrán retener, inmovilizar o arrastrar vehículos cuando se acredite la propiedad o posesión de éstos, y se porte las placas de circulación o documentación correspondiente, aunque no se encuentren vigentes, levantando, de ser el caso, las infracciones aplicables, salvo que se encuentren en los supuestos del artículo 60 de esta Ley.
+
 ###### ARTICULO 88.
 
 Para poner a disposición ante el agente del Ministerio Público, al conductor de un vehículo que se presuma se encuentra en estado de ebriedad o bajo el efecto de estupefacientes, deberá practicársele inmediatamente un examen médico legista, al cual está obligado a someterse; y en el caso de que se compruebe, se procederá a su detención.
@@ -1472,3 +1476,11 @@ P.O. 10 DE MARZO DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0207.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 87, DE LA LEY DE TRÁNSITO DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
