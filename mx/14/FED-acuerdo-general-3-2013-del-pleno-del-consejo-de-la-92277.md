@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-03-30"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -853,105 +853,135 @@ QUINTO BIS. Centros de Justicia Penal Federal:
 
 2. El Centro de Justicia Penal Federal en el Estado de Baja California Sur se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en La Paz, Baja California Sur.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-3. El Centro de Justicia Penal Federal en el Estado de Chiapas, se integrará por tres Jueces de Distrito y un Tribunal de Alzada, todos con residencia en Cintalapa de Figueroa, Chiapas.
+3. El Centro de Justicia Penal Federal en el Estado de Campeche se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-4. El Centro de Justicia Penal Federal en el Estado de Chihuahua, se integrará por tres Jueces de Distrito y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+4. El Centro de Justicia Penal Federal en el Estado de Chiapas, se integrará por tres Jueces de Distrito y un Tribunal de Alzada, todos con residencia en Cintalapa de Figueroa, Chiapas.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-5. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, se integrará por tres Jueces de Distrito y un Tribunal de Alzada, todos con residencia en Torreón, Coahuila.
+5. El Centro de Justicia Penal Federal en el Estado de Chihuahua, se integrará por tres Jueces de Distrito y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-6. El Centro de Justicia Penal Federal en el Estado de Colima se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+6. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, se integrará por tres Jueces de Distrito y un Tribunal de Alzada, todos con residencia en Torreón, Coahuila.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-7. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte se integrará por tres jueces de Distrito; y un Tribunal de Alzada.
+7. El Centro de Justicia Penal Federal en el Estado de Colima se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-8. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente se integrará por tres jueces de Distrito; y un Tribunal de Alzada.
+8. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte se integrará por tres jueces de Distrito; y un Tribunal de Alzada.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-9. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur se integrará por tres jueces de Distrito; y un Tribunal de Alzada.
+9. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente se integrará por tres jueces de Distrito; y un Tribunal de Alzada.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-10. El Centro de Justicia Penal Federal en el Estado de Durango se integrará por cinco jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Durango, Durango.
+10. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur se integrará por tres jueces de Distrito; y un Tribunal de Alzada.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-11. El Centro de Justicia Penal Federal en el Estado de Guanajuato se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+11. El Centro de Justicia Penal Federal en el Estado de Durango se integrará por cinco jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Durango, Durango.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-12. El Centro de Justicia Penal Federal en el Estado de Hidalgo se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Pachuca, Hidalgo.
+12. El Centro de Justicia Penal Federal en el Estado de Guanajuato se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-13. El Centro de Justicia Penal Federal en el Estado de México se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Nezahualcóyotl, Estado de México.
+13. El Centro de Justicia Penal Federal en el Estado de Hidalgo se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Pachuca, Hidalgo.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-14. El Centro de Justicia Penal Federal en el Estado de Morelos se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cuernavaca, Morelos.
+14. El Centro de Justicia Penal Federal en el Estado de México se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Nezahualcóyotl, Estado de México.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-15. El Centro de Justicia Penal Federal en el Estado de Nayarit se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad de Tepic, Nayarit.
+15. El Centro de Justicia Penal Federal en el Estado de Michoacán se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Morelia, Michoacán.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-16. El Centro de Justicia Penal Federal en el Estado de Nuevo León se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cadereyta, Nuevo León.
+16. El Centro de Justicia Penal Federal en el Estado de Morelos se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cuernavaca, Morelos.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-17. El Centro de Justicia Penal Federal en el Estado de Oaxaca se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+17. El Centro de Justicia Penal Federal en el Estado de Nayarit se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad de Tepic, Nayarit.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-18. El Centro de Justicia Penal Federal en el Estado de Puebla se integrará por cuatro jueces de Distrito, y dos Tribunales de Alzada, todos con residencia en San Andrés Cholula, Puebla.
+18. El Centro de Justicia Penal Federal en el Estado de Nuevo León se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cadereyta, Nuevo León.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-19. El Centro de Justicia Penal Federal en el Estado de Querétaro se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+19. El Centro de Justicia Penal Federal en el Estado de Oaxaca se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-20. El Centro de Justicia Penal Federal en el Estado de Quintana Roo se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cancún, Quintana Roo.
+20. El Centro de Justicia Penal Federal en el Estado de Puebla se integrará por cuatro jueces de Distrito, y dos Tribunales de Alzada, todos con residencia en San Andrés Cholula, Puebla.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-21. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+21. El Centro de Justicia Penal Federal en el Estado de Querétaro se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-22. El Centro de Justicia Penal Federal en el Estado de Sinaloa se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Culiacán, Sinaloa.
+22. El Centro de Justicia Penal Federal en el Estado de Quintana Roo se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Cancún, Quintana Roo.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-23. El Centro de Justicia Penal Federal en el Estado de Tabasco se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Villahermosa, Tabasco.
+23. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-24. El Centro de Justicia Penal Federal en el Estado de Tlaxcala se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Apizaco, Tlaxcala.
+24. El Centro de Justicia Penal Federal en el Estado de Sinaloa se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Culiacán, Sinaloa.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-25. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Mérida, Yucatán.
+25. El Centro de Justicia Penal Federal en el Estado de Sonora se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Hermosillo, Sonora.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-26. Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+26. El Centro de Justicia Penal Federal en el Estado de Tabasco se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Villahermosa, Tabasco.
 
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS SIMILARES 44/2015, 52/2014 Y 3/2013, D.O.F. 18 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia, con excepción del Centro de Justicia Penal Federal en el Estado de Durango, cuya competencia comprenderá el Estado de Durango, salvo los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo; así como del Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de Durango antes mencionados.
+27. El Centro de Justicia Penal Federal en el Estado de Tlaxcala se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Apizaco, Tlaxcala.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+28. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+29. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa se integrará por tres jueces de Distrito, y un Tribunal de Alzada.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+30. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Mérida, Yucatán.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+31. Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+QUINTO TER. Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia, con excepción de lo siguiente:
+
+I. Centro de Justicia Penal Federal en el Estado de Durango: cuya competencia comprenderá el Estado de Durango, salvo los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo;
+
+II. Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios de Durango señalados en la fracción anterior;
+
+III. Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos: cuya jurisdicción territorial comprenderá los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza de dicho Estado; y
+
+IV. Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa; cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios que integran la misma con excepción de los señalados en la fracción anterior.
 
 > <small>(ADICIONADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 22/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2013)</small>
 
@@ -2474,3 +2504,11 @@ III. Juzgado Quinto de Distrito del Centro Auxiliar de la Cuarta Región;
 IV. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región; y
 
 V. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Cuarta Región."
+
+D.O.F. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el veintinueve de abril de dos mil dieciséis.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
