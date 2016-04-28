@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2016-04-07"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1243,9 +1243,11 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 En el caso en que exista convenio entre el Ejecutivo del Estado y el Ejecutivo Federal, en materia de registro profesional y expedición de cédulas profesionales, el Ejecutivo Estatal cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 71.
 
-Quienes ejerzan en forma privada las actividades profesionales, técnicas y auxiliares, así como y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades, así como y en la publicidad que realicen.
+Quienes ejerzan en forma pública o privada las actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado de la licenciatura y la especialidad respectivamente, y, en su caso, el número de su correspondiente cédula profesional; además, el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, las autoridades educativas competentes solicitarán la opinión de la Secretaría de Salud. Si se tratare del registro de certificados de especialidades médicas o del registro de la recertificación de éstas, las autoridades ya señaladas también deberán solicitar la opinión del Comité Normativo Nacional de Consejos de Especialidades Médicas.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1257,9 +1259,9 @@ La asociación entre médicos y otros profesionales de la salud, debe tener como
 
 ARTICULO 71 TER. Para efectos de esta Ley entiéndase por inducir, consejo o instigación, destinados a provocar en una o varias personas la realización de un acto.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
-ARTICULO 71 QUÁTER. Los profesionales de la medicina que ejerzan en forma privada las actividades y especialidades referidas en este capítulo, y que realicen intervenciones quirúrgicas con fines estéticos y de reconstrucción, deben contar con, cédula profesional que ampare sus estudios como médico especialista en la materia, expedida por instituciones debidamente reconocidas por la autoridad en materia de educación superior, y con certificación vigente por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva; de igual forma, deberán de ser autorizados por las autoridades federales sanitarias, en los términos que correspondan.
+ARTICULO 71 QUÁTER. Los profesionales de la medicina que ejerzan en forma pública o privada las actividades y especialidades referidas en este capítulo, deben contar con cédula profesional que ampare sus estudios como médico general o especialista en la materia, expedida por instituciones debidamente reconocidas por la autoridad en materia de educación superior, y con certificación vigente del registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, de igual forma, deberán de ser autorizados por las autoridades federales sanitarias en los términos que correspondan.
 
 ### CAPITULO UNICO
 
@@ -1535,7 +1537,7 @@ IV. Promover investigaciones químicas, biológicas, sociales y económicas, enc
 
 > <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
 
-V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos (sic) por la población en general;
+V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos por la población en general;
 
 > <small>(REFORMADA, P.O. 7 DE ABRIL DE 2016)</small>
 
@@ -4116,3 +4118,11 @@ P.O. 7 DE ABRIL DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0205.- SE REFORMAN LOS ARTÍCULOS 71 Y 71 QUATER, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
