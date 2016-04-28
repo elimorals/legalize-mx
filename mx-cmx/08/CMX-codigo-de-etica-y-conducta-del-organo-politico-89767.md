@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-etica-y-conducta-del-organo-politico-89767"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-10-19"
-last_updated: "2012-10-19"
+last_updated: "2016-04-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89767&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2012-10-09"
 
 CÓDIGO DE ÉTICA Y CONDUCTA DEL ÓRGANO POLÍTICO- ADMINISTRATIVO EN XOCHIMILCO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA Y CONDUCTA DEL ÓRGANO POLÍTICO-ADMINISTRATIVO EN XOCHIMILCO, PUBLICADO EN LA G.O. DE 28 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE ABRIL DE 2016. (SIN EFECTOS).
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el vienes 19 de octubre de 2012.
 
@@ -243,3 +245,17 @@ México, Distrito Federal a 09 de octubre de 2012.
 Ing. Miguel Ángel Cámara Arango
 
 Jefe Delegacional
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO]</small>
+
+G.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER LA ACTUALIZACIÓN DEL CÓDIGO DE ÉTICA Y CONDUCTA DEL ÓRGANO POLÍTICO-ADMINISTRATIVO EN XOCHIMILCO.
+
+PRIMERO.- El presente Código de Ética y Conducta se considera complementario, por lo que las y los servidores públicos del Órgano Político-Administrativo en Xochimilco están sujetos a la Ley y normatividad correspondiente.
+
+El incumplimiento de las disposiciones expresadas y derivadas del contenido del presente Código de Ética y Conducta será sancionado conforme a las normas legales que se apliquen para cada caso en concreto.
+
+SEGUNDO.- La presente actualización del Código de Ética y Conducta entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Queda sin efecto el Código de Ética y Conducta, publicado en la Gaceta Oficial del Distrito Federal el 19 de octubre de 2012.
