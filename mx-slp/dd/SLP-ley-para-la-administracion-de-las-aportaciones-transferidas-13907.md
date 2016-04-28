@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2015-04-18"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -635,11 +635,11 @@ Asimismo, se impulsará la participación social de manera intensiva y permanent
 
 ### CAPITULO III. De los Consejos de Desarrollo Social Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 66.
 
-En cada uno de los ayuntamientos se constituirá un Consejo de Desarrollo Social Municipal, el cual deberá estar en funciones durante el periodo constitucional que dure el ayuntamiento, y que se integrará de la siguiente manera:
+En cada uno de los ayuntamientos se constituirá un Consejo de Desarrollo Social Municipal, el cual deberá estar en funciones desde su instalación y hasta que no sea constituido el siguiente, en los términos que establezca la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
 
 I. Un Presidente del Consejo, que será el Presidente Municipal;
 
@@ -651,29 +651,25 @@ III. Un Secretario Técnico del Consejo, que será el Coordinador de Desarrollo 
 
 IV. Dos Vocales de Control y Vigilancia, que serán electos por el Pleno del Consejo de entre los Representantes Sociales Comunitarios y no deberán ostentar ningún cargo público;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
 
-V. Los representantes sociales comunitarios, de los barrios, colonias populares, comunidades y ejidos, electos en asambleas democráticas, que se acreditarán con el acta que se levante en dicha asamblea, y
+V. Los Representantes Sociales Comunitarios, de los barrios, colonias populares, comunidades y ejidos, electos de acuerdo con los procedimientos establecidos en el Título Quinto, capítulo XII, de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, y
 
 VI. Un Equipo de Asesores Técnicos, conformado preferentemente por el Secretario, el Tesorero y el Director de Obras Públicas del Ayuntamiento, y un representante de la Secretaría de Desarrollo Social, de la Secretaría de Desarrollo Social y Regional, y de la Contraloría General del Estado, respectivamente.
 
 Los Asesores Técnicos sólo tendrán participación con voz pero no con voto. Los demás miembros del Consejo participarán con voz y voto. En caso de empate el Presidente tendrá voto de calidad. La participación de los miembros del Consejo será de carácter honorífico.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 67.
 
-El Consejo electo se constituirá formalmente en asamblea con mayoría simple, lo cual se hará constar en un acta, debiendo presentar su Reglamento Interno para este efecto, durante la segunda semana del segundo mes subsiguiente a la entrada en funciones del nuevo ayuntamiento.
+El Consejo electo se constituirá formalmente en asamblea con mayoría simple, durante el cuarto mes de ejercicio de funciones del nuevo ayuntamiento, lo cual se hará constar en un acta; debiendo presentar su Reglamento Interno para su aprobación en la primera asamblea que celebre.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 68.
 
-Los presidentes municipales, por acuerdo de cabildo, emitirán convocatoria para la elección de los representantes sociales comunitarios mediante asambleas que para ese efecto se celebren. La convocatoria deberá expedirse cuando menos siete días antes del día de la elección, la que deberá celebrarse durante la primera semana del segundo mes de ejercicio de los ayuntamientos.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE DICIEMBRE DE 2003)</small>
-
-El cabildo mandará publicar y difundir la convocatoria en los medios de comunicación, o por otros conductos idóneos en aquellos municipios donde no fueran accesibles dichos medios. En caso de que las representaciones sociales comunitarias que integran el Consejo quedarán sin representación, el cabildo emitirá nueva convocatoria para la integración exclusiva de los representantes que faltaran, lo que se hará de conformidad con esta Ley y, en su caso, con el Reglamento de la misma.
+Los presidentes municipales, por acuerdo de cabildo, emitirán convocatoria para la elección de los integrantes del Consejo de Desarrollo Social Municipal, mediante asambleas que para ese efecto se celebren. La convocatoria deberá expedirse cuando menos un mes antes de la constitución formal del Consejo, la que deberá celebrarse durante el cuarto mes de ejercicio de los ayuntamientos.
 
 ###### ARTICULO 69.
 
@@ -968,3 +964,11 @@ P.O. 18 DE ABRIL DE 2015.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0200.- SE REFORMAN LOS ARTÍCULOS, 66 EN SU PÁRRAFO PRIMERO, Y EN SU FRACCIÓN V, 67, Y 68, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y LOS ARTÍCULOS, 101, 102, 102 BIS, Y 102 TER; Y ADICIONA EL ARTÍCULO 101 BIS, DE Y A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
