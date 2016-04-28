@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-a-la-informacion-publica-y-de-proteccion-de-43948
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-25"
-last_updated: "2013-08-12"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE AGOSTO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 28 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO CON EXCEPCIÓN DEL TÍTULO SEGUNDO, CAPÍTULO SEGUNDO, SECCIONES CUARTA, QUINTA Y SEXTA, RELATIVOS A LA PROTECCIÓN DE DATOS PERSONALES, DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES Y DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES; ASÍ COMO EL TÍTULO QUINTO, CAPÍTULO ÚNICO, RELATIVO AL SISTEMA DE ARCHIVOS, LOS CUALES PERMANECERÁN VIGENTES HASTA EN TANTO SE APRUEBEN LAS LEYES GENERALES EN LAS MATERIAS Y SE ARMONICE EL MARCO NORMATIVO ESTATAL CORRESPONDIENTE.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE ABRIL DE 2016 (ABROGADA PARCIALMENTE).
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Estado de Sonora, el viernes 25 de febrero de 2005.
 
@@ -205,7 +207,7 @@ III Bis. Favorecer la rendición de cuentas, de manera que se pueda valorar el d
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
-IV. Hacer prevalecer, como regla general, la máxima publicidad de los documentos que registren las actuaciones de los sujetos obligados; y (sic)
+IV. Hacer prevalecer, como regla general, la máxima publicidad de los documentos que registren las actuaciones de los sujetos obligados; y
 
 V. La organización, clasificación y manejo de la información recibida, generada, administrada o en posesión de los sujetos obligados.
 
@@ -1958,3 +1960,41 @@ Los sujetos obligados a que se hacen mención en los artículos los artículos 1
 ###### ARTÍCULO CUARTO.
 
 Las necesidades presupuestales que se generen en el Instituto de Transparencia Informativa con motivo de las modificaciones aprobadas mediante el presente Decreto, habrán de solventarse en su presupuesto de egresos del ejercicio fiscal del año 2014.
+
+B.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 90, DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado número 16, sección II, de fecha 25 de febrero de 2005, con excepción del Título Segundo, Capítulo Segundo, Secciones Cuarta, Quinta y Sexta, relativos a la Protección de datos Personales, De Los Derechos en Materia de Datos Personales y de los Procedimientos para el Ejercicio de los Derechos en Materia de Datos Personales; así como el Título Quinto, Capítulo Único, relativo al Sistema de Archivos, los cuales permanecerán vigentes hasta en tanto se aprueben las leyes generales en las materias y se armonice el marco normativo estatal correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto, en un plazo de seis meses contado a partir de la entrada en vigor de este ordenamiento legal, deberá emitir y publicar en el Boletín Oficial del Gobierno del Estado, los lineamientos de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+La información que los sujetos obligados venían publicando continuarán realizándolo en los mismos términos, hasta en tanto se aprueben los Lineamientos para los supuestos contemplados en los artículos 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92 y 93 de esta Ley.
+
+Los sujetos que estaban obligados a publicar su información con la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora, tendrán un plazo de 90 días hábiles para publicar las nuevas obligaciones que fueron adicionadas, mismo que empezará a contar a partir de la publicación de los lineamientos emitidos por el Instituto.
+
+Los sujetos obligados de la presente Ley que no se encontraban contemplados en la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora, tendrán un plazo de 50 días hábiles para que cumplan con las obligaciones que le fueron impuestas, mismo que empezará a contar a partir de la publicación de los lineamientos emitidos por el Instituto.
+
+###### ARTÍCULO QUINTO.
+
+Los sujetos obligados, deberán de constituir los Comités de Transparencia en un plazo de 90 días hábiles, contado a partir de la entrada en vigor de los lineamientos.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos de acceso a la información pública y los recursos de revisión que se estén tramitando al momento en que entre en vigor la presente Ley, se substanciarán de acuerdo a los procedimientos de la Ley de Acceso a la Información Pública y de Protección de Datos Personales del Estado de Sonora.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los vocales del Instituto de Transparencia Informativa del Estado de Sonora, desempeñarán el cargo de comisionado durante el resto del periodo por el que fueron designados por el Congreso del Estado, por lo que su encargo concluirá el día 12 de diciembre de 2018.
+
+En caso de que concluya el periodo señalado en el párrafo anterior y el Congreso del Estado no hubiere designado nuevos comisionados, los actuales continuarán en el cargo hasta en tanto se realice las designaciones correspondientes, lo cual no constituirá una ratificación expresa o tácita para la continuidad en dichos cargos.
