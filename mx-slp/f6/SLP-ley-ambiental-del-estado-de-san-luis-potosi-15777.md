@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2015-07-23"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -53,11 +53,7 @@ II. Llevar a cabo la formulación, conducción y evaluación de la política amb
 
 III. La conservación, restauración y mejoramiento del ambiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-III. BIS. Llevar a cabo las medidas de mitigación, adaptación, control y prevención ante el cambio climático, mediante la expedición del programa estatal correspondiente;
+III. BIS. (DEROGADA, P.O. 28 DE ABRIL DE 2016)
 
 IV. Regular la conservación y protección de la biodiversidad, así como el establecimiento y administración de las áreas naturales protegidas de competencia estatal y municipal;
 
@@ -87,11 +83,7 @@ II. La formulación y ejecución de las declaratorias de áreas naturales proteg
 
 III. El otorgamiento o negativa de la licencia de uso del suelo, respecto de obras y actividades que se pretendan realizar fuera de las áreas urbanas o urbanizables del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-III. BIS. La formulación, coordinación, expedición, aplicación y evaluación del Programa Estatal de Acción ante el Cambio Climático;
+III. BIS. (DEROGADA, P.O. 28 DE ABRIL DE 2016)
 
 IV. La autorización o negativa para la explotación de bancos de materiales para la construcción, y de aquellas actividades donde se exploten o beneficien productos derivados de la descomposición de las rocas, cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto, así como la protección y conservación de la seguridad del suelo y la rehabilitación de éste, al término de las faenas extractivas;
 
@@ -303,11 +295,7 @@ I. La formulación, conducción y evaluación de la política ambiental de la En
 
 II. La aplicación de los principios e instrumentos de política ambiental previstos en los artículos 12 y 13 de esta Ley, en los términos en ellos establecidos, así como la regulación de las acciones para la protección, conservación y restauración del ambiente que se realice en bienes y zonas de jurisdicción estatal, con excepción de los asuntos reservados a la competencia federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
-
-III. La formulación, expedición, aplicación y evaluación del Programa Estatal de Acción ante el Cambio Climático, así como la atención de los demás asuntos que afecten el ambiente en el territorio del Estado;
+III. (DEROGADA, P.O. 28 DE ABRIL DE 2016)
 
 IV. La regulación del aprovechamiento sustentable, la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que la federación hubiese asignado al Estado;
 
@@ -471,11 +459,7 @@ XVIII. La formulación y conducción de la política municipal de información y
 
 XVIII BIS. Participar en los programas nacionales de reforestación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
-
-XVIII TER. Coadyuvar con las entidades estatales en materia de mitigación, adaptación, control y prevención del cambio climático;
+XVIII TER. (DEROGADA, P.O. 28 DE ABRIL DE 2016)
 
 XIX. Expedir las licencias de uso de suelo conforme a los lineamientos establecidos en la Ley de Desarrollo Urbano, en la presente Ley, en los planes de ordenamiento ecológico, de desarrollo urbano y demás disposiciones normativas y reglamentarias aplicables;
 
@@ -929,81 +913,23 @@ V. La planeación, realización de estudios y evaluación de programas forestale
 
 VI. Contribuir en las labores del combate y la prevención de incendios, plagas y enfermedades que afecten a los recursos forestales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2016)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2011)</small>
+### CAPITULO III BIS. ARTICULO 44 TER. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
-### CAPITULO III BIS. DE LAS FACULTADES EN MATERIA DE CAMBIO CLIMATICO
+ARTICULO 44 QUATER. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTICULO 44 QUINQUE. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+ARTICULO 44 SEXTIES. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
-ARTICULO 44 TER. Para la atención y prevención de los efectos del cambio climático, el Ejecutivo del Estado, por conducto de la SEGAM, coordinará las acciones de las dependencias y entidades de la administración pública estatal.
+ARTICULO 44 SEPTIES. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTICULO 44 OCTIES. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
+ARTICULO 44 NONIES. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
-ARTICULO 44 QUATER. A la SEGAM le corresponde el diseño, formulación e instrumentación de las políticas estatales para la prevención y mitigación de emisiones de gases de efecto invernadero; la adaptación a los efectos del cambio climático; y la promoción del desarrollo de programas y estrategias estatales de acción climática.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
-
-ARTICULO 44 QUINQUE. El Programa Estatal de Acción ante el Cambio Climático deberá incluir:
-
-I. Las políticas estatales y su congruencia con las políticas nacionales sobre cambio climático y protección de la capa de ozono;
-
-II. La integración de un diagnóstico sobre la problemática del cambio climático y su impacto en el Estado;
-
-III. La coordinación de estrategias estatales de acción climática entre las distintas dependencias y entidades gubernamentales, y la difusión periódica de los avances en la materia;
-
-IV. La formulación y adopción de las políticas, estrategias y acciones necesarias para el cumplimiento de los fines de la SEGAM;
-
-V. El diseño del Programa de Modelación del Clima; y del Sistema Estatal de Información Climática;
-
-VI. La valoración económica de los costos asociados al cambio climático en el Estado;
-
-VII. La creación del Sistema de Monitoreo Atmosférico para la contabilización de emisiones de gases de efecto invernadero en el Estado;
-
-VIII. La promoción, difusión, evaluación y, en su caso, aprobación de proyectos de reducción de emisiones y captura de gases de efecto invernadero, y
-
-IX. La planeación de proyectos regionales de reducción de gases de efecto invernadero, en las empresas asentadas en el Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
-
-ARTICULO 44 SEXTIES. El Ejecutivo del Estado, a propuesta de la SEGAM, podrá incluir en forma anual, dentro del Proyecto de Presupuesto de Egresos, una partida destinada a la aplicación del Programa Estatal de Acción ante el Cambio Climático.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
-
-ARTICULO 44 SEPTIES. Para fines de consulta e investigación en materia de cambio climático, el Ejecutivo del Estado promoverá la integración del Consejo Consultivo de Cambio Climático.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
-
-ARTICULO 44 OCTIES. El Consejo Consultivo de Cambio Climático es el órgano de consulta especializado, que tiene por objeto dar el apoyo técnico y científico necesario para el buen desempeño de la planeación, ejecución, evaluación y control de la política en materia de cambio climático en el Estado.
-
-Se constituye como cuerpo colegiado de coordinación interinstitucional, el cual se conformará preferentemente por los representantes de organizaciones e instituciones sociales, empresariales y de investigación, de educación superior y profesionistas, y de dependencias y entidades gubernamentales, con mérito y experiencia en el tema de cambio climático.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
-
-ARTICULO 44 NONIES. Para la integración del Consejo Consultivo de Cambio Climático, el Ejecutivo del Estado convocará a las instituciones y organizaciones que se precisan en el artículo inmediato anterior, en los términos que para ello disponga.
-
-Los integrantes de este Consejo Consultivo de Cambio Climático desempeñarán su cargo de manera honorífica, y conforme al tiempo que establezca al efecto su reglamento interno.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
-
-ARTICULO 44 DECIES. La organización, estructura y funcionamiento del Consejo Consultivo de Cambio Climático, se determinará en el reglamento interno emitido por el Ejecutivo Estatal.
+ARTICULO 44 DECIES. (DEROGADO, P.O. 28 DE ABRIL DE 2016)
 
 ### CAPITULO IV. DE LOS INSTRUMENTOS ECONOMICOS
 
@@ -3044,3 +2970,11 @@ P.O. 23 DE JULIO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0206.- DEROGACIONES DE Y A LOS ARTÍCULOS, 1° SU FRACCIÓN III BIS, 2° SU FRACCIÓN III BIS, 7° SU FRACCIÓN III, 8° SU FRACCIÓN XVIII TER, EL CAPÍTULO III BIS Y SUS ARTÍCULOS, 44 TER A 44 DECIES, DE LA LEY AMBIENTAL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
