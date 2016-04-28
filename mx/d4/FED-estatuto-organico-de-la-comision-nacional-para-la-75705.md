@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2015-06-09"
+last_updated: "2016-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2010-06-29"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2015.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -63,7 +61,9 @@ Además de las definiciones que establece el artículo 2 de la Ley de Protecció
 
 I. Ley, a la Ley de Protección y Defensa al Usuario de Servicios Financieros;
 
-II. Delegación, en singular o plural, a la Unidad Administrativa desconcentrada de la Comisión Nacional.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+II. Delegación Regional, en singular o plural, a la unidad administrativa desconcentrada de la Comisión Nacional.
 
 ### CAPITULO II. DE LA ESTRUCTURA ORGANICA
 
@@ -205,7 +205,11 @@ aa) De Informática y Telecomunicaciones.
 
 V Bis. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
-VI. Delegaciones, que podrán ser Regionales, Estatales o Locales.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+VI. Delegaciones Regionales:
+
+a) Subdelegaciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2015)</small>
 
@@ -281,11 +285,25 @@ c) Planeación.
 
 IV Bis. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
-V. Las Delegaciones se adscriben de la siguiente manera:
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-a) A la Dirección General de Delegaciones Norte-Sur: Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Ciudad Juárez, Guerrero, Nuevo León, Oaxaca, Quintana Roo, Sinaloa, Sonora, Tabasco, Tamaulipas, Veracruz y Yucatán.
+V. Las Delegaciones Regionales se adscriben de la siguiente manera:
 
-b) A la Dirección General de Delegaciones Centro-Occidente: Aguascalientes, Coahuila, Colima, Durango, Estado de México, Guanajuato, Hidalgo, Jalisco, Metropolitana Central, Metropolitana Norte, Metropolitana Sur, Metropolitana Oriente, Michoacán, Morelos, Nayarit, Puebla, Querétaro, San Luis Potosí, Tlaxcala y Zacatecas.
+a) A la Dirección General de Delegaciones Centro-Occidente:
+
+i. Delegación Regional Occidente: Subdelegaciones de Aguascalientes, Colima, Guerrero, Jalisco, Michoacán, Nayarit y Zacatecas.
+
+ii. Delegación Regional Centro: Subdelegaciones de Estado de México, Hidalgo, Morelos, Puebla y Tlaxcala.
+
+iii. Delegación Regional Metropolitana: Subdelegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Oriente y Metropolitana Centro Histórico.
+
+b) A la Dirección General de Delegaciones Norte-Sur:
+
+i. Delegación Regional Norte: Subdelegaciones de Baja California, Baja California Sur, Ciudad Juárez, Coahuila, Chihuahua, Durango, Sinaloa y Sonora.
+
+ii. Delegación Regional Oriente: Subdelegaciones de Guanajuato, Nuevo León, Querétaro, San Luis Potosí, Tamaulipas y Veracruz.
+
+iii. Delegación Regional Sureste: Subdelegaciones de Campeche, Chiapas, Oaxaca, Quintana Roo, Tabasco y Yucatán.
 
 ## TITULO SEGUNDO. DE LAS ATRIBUCIONES
 
@@ -449,11 +467,13 @@ X. Gestionar ante las autoridades competentes la celebración de convenios de co
 
 XI. Las demás que, en el ámbito de sus respectivas competencias, se deriven de las disposiciones aplicables o les sean atribuidas o delegadas.
 
-> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-Los Directores de Área, Delegados, Subdirectores, Subdelegados o Jefes de Departamento, en el ámbito de su respectiva competencia, podrán ejercer la atribución conferida en la fracción IX del presente artículo.
+Los Directores de Área, Delegados Regionales, Subdirectores, Subdelegados o Jefes de Departamento, en el ámbito de su respectiva competencia, podrán ejercer la atribución conferida en las fracciones VII, VII Bis, IX y IX Bis del presente artículo.
 
-Con excepción de las fracciones I, III, IV y VI anteriores, los delegados, en el ámbito de su competencia, tendrán las atribuciones señaladas en el presente artículo.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+Con excepción de las fracciones I, III, IV y VI anteriores, los Delegados Regionales, en el ámbito de su competencia, tendrán las atribuciones señaladas en el presente artículo.
 
 ###### Artículo 14.
 
@@ -761,7 +781,9 @@ III. Realizar las visitas de verificación a las sociedades financieras de objet
 
 IV. Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales a las Unidades Especializadas de las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
 
-V. Requerir a las Delegaciones la realización de visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+V. Requerir a las Delegaciones Regionales o Subdelegaciones la realización de visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
 
 VI. Determinar, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección especiales, así como visitas de verificación especiales;
 
@@ -811,9 +833,9 @@ XVII. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
 XVIII. Verificar que el procedimiento de conciliación se lleve a cabo en la forma y términos previstos en la Ley y demás disposiciones aplicables, así como emitir las observaciones correspondientes, a fin de subsanar las irregularidades detectadas o evitar actos, hechos u omisiones que impliquen el incumplimiento a lo establecido en la Ley y en dichas disposiciones;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-XIX. Autorizar a las Delegaciones la admisión a trámite de las reclamaciones que sean presentadas en contra de las Instituciones Financieras, que se determinen relevantes;
+XIX. Autorizar a las Delegaciones Regionales o Subdelegaciones la admisión a trámite de las reclamaciones que sean presentadas en contra de las Instituciones Financieras, que se determinen relevantes;
 
 > <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2015)</small>
 
@@ -827,9 +849,9 @@ XXI. Emitir los acuerdos de trámite que contengan el dictamen y los títulos ej
 
 XXII. Solicitar a los Usuarios y a las Instituciones Financieras información para allegarse de elementos en términos del artículo 68 Bis de la Ley;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-XXIII. Asesorar a las Delegaciones sobre la documentación e información que los expedientes habrán de contener para la elaboración de los dictámenes solicitados por los Usuarios;
+XXIII. Asesorar a las Delegaciones Regionales o Subdelegaciones sobre la documentación e información que los expedientes habrán de contener para la elaboración de los dictámenes solicitados por los Usuarios;
 
 XXIV. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
@@ -885,13 +907,17 @@ VII. Determinar, con base en los criterios establecidos por la Junta, la procede
 
 VIII. Asignar defensores para la atención de los asuntos que presenten los Usuarios;
 
-IX. Desempeñar el servicio de defensoría legal y autorizar a las Delegaciones la prestación de dicho servicio;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE MAYO DE 2015)</small>
+IX. Desempeñar el servicio de defensoría legal y autorizar a las Delegaciones Regionales o Subdelegaciones la prestación de dicho servicio;
 
-X. Recibir de la Dirección General de Delegaciones que corresponda, los informes de los defensores de las Delegaciones con motivo del servicio de defensoría legal que presten y remitir las observaciones a dicha Unidad Administrativa a fin de unificar criterios en la atención de los asuntos en materia de defensoría legal.
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-XI. Brindar a las Delegaciones asesoría en materia de asistencia jurídica penal, así como en materia de orientación jurídica especializada;
+X. Recibir de la Dirección General de Delegaciones que corresponda, los informes de los defensores de las Delegaciones Regionales o Subdelegaciones con motivo del servicio de defensoría legal que presten y remitir las observaciones a dicha unidad administrativa a fin de unificar criterios en la atención de los asuntos en materia de defensoría legal.
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+XI. Brindar a las Delegaciones Regionales o Subdelegaciones asesoría en materia de asistencia jurídica penal, así como en materia de orientación jurídica especializada;
 
 XII. Emplear todos los medios legales existentes a fin de lograr el cumplimiento o ejecución de las sentencias que resulten favorables para los Usuarios;
 
@@ -905,7 +931,9 @@ XVI. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
 XVII. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
-XVIII. Designar, previa autorización del Vicepresidente Jurídico, a los Interventores que protegerán los intereses de los acreedores en los concursos mercantiles, de acuerdo con lo señalado en la ley de la materia. Tratándose de servidores públicos de las Delegaciones, la designación de Interventores se efectuará, además, en coordinación con el Vicepresidente de Delegaciones;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+XVIII. Designar, previa autorización del Vicepresidente Jurídico, a los interventores que protegerán los intereses de los acreedores en los concursos mercantiles, de acuerdo con lo señalado en la ley de la materia. Tratándose de servidores públicos de las Delegaciones Regionales o Subdelegaciones, la designación de interventores se efectuará, además, en coordinación con el Vicepresidente de Delegaciones;
 
 > <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -925,7 +953,9 @@ XXIII. Atender y resolver las consultas de las Instituciones Financieras y de lo
 
 XXIV. Recibir y tramitar las solicitudes de los Usuarios que se presuman beneficiarios de algún seguro de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros;
 
-XXV. Coordinar la forma y términos en que se atenderán las solicitudes de los Usuarios que se presuman beneficiarios de algún seguro de vida, presentadas en las Delegaciones;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+XXV. Coordinar la forma y términos en que se atenderán las solicitudes de los Usuarios que se presuman beneficiarios de algún seguro de vida, presentadas en las Delegaciones Regionales o Subdelegaciones;
 
 XXVI. Participar en el diseño y ejecución de los programas de capacitación permanente para los Defensores de la Comisión Nacional;
 
@@ -1163,35 +1193,59 @@ Las atribuciones establecidas en el presente artículo serán ejercidas directam
 
 Corresponde a las Direcciones Generales de Delegaciones Norte-Sur y Centro-Occidente, el ejercicio de las siguientes atribuciones:
 
-I. Acordar con el Vicepresidente de Delegaciones los asuntos de su competencia e informarle sobre el desarrollo de las actividades de las Delegaciones a su cargo;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-II. Supervisar y controlar los programas anuales de labores, así como los programas específicos de las Delegaciones, vigilando su cumplimiento, en coordinación con las unidades administrativas de la Comisión Nacional;
+I. Acordar con el Vicepresidente de Delegaciones los asuntos de su competencia e informarle sobre el desarrollo de las actividades de las Delegaciones Regionales a su cargo;
 
-III. Fijar los lineamientos para que las Delegaciones coordinen, con dependencias y entidades estatales y municipales, acciones concretas en beneficio de los Usuarios de servicios financieros;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-IV. Fijar los lineamientos para que las Delegaciones coordinen con agrupaciones privadas y sociales de la entidad federativa que corresponda, acciones concretas en beneficio de los Usuarios de servicios financieros;
+II. Supervisar y controlar los programas anuales de labores, así como los programas específicos de las Delegaciones Regionales, vigilando su cumplimiento, en coordinación con las unidades administrativas de la Comisión Nacional;
 
-V. Coadyuvar con las unidades administrativas de la Comisión Nacional en la difusión y aplicación de la normativa que regula las actividades y competencia de cada una de ellas, sin perjuicio de la comunicación directa que puedan establecer las propias unidades administrativas del organismo con las Delegaciones, en cuyo caso, se deberá hacer del conocimiento de la Dirección General que corresponda;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-VI. Conocer y resolver sobre los asuntos que les sean planteados por las Delegaciones;
+III. Fijar los lineamientos para que las Delegaciones Regionales coordinen, con dependencias y entidades estatales y municipales, acciones concretas en beneficio de los Usuarios de servicios financieros;
 
-VII. Coordinar las acciones de las Delegaciones que les sean adscritas;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-VIII. Acordar con el Vicepresidente de Delegaciones, la contratación del personal y asignación de los recursos materiales y financieros que requieran las Delegaciones, de conformidad con la normativa aplicable;
+IV. Fijar los lineamientos para que las Delegaciones Regionales coordinen con agrupaciones privadas y sociales de la entidad federativa que corresponda, acciones concretas en beneficio de los Usuarios de servicios financieros;
 
-IX. Evaluar el desempeño de las Delegaciones que se encuentren bajo su coordinación de conformidad con los lineamientos establecidos para tal efecto;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+V. Coadyuvar con las unidades administrativas de la Comisión Nacional en la difusión y aplicación de la normativa que regula las actividades y competencia de cada una de ellas, sin perjuicio de la comunicación directa que puedan establecer las propias unidades administrativas del organismo con las Delegaciones Regionales y con las Subdelegaciones adscritas a estas últimas, en cuyo caso, se deberá hacer del conocimiento de la Dirección General que corresponda;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+VI. Conocer y resolver sobre los asuntos que les sean planteados por las Delegaciones Regionales;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+VII. Coordinar las acciones de las Delegaciones Regionales que les sean adscritas;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+VIII. Acordar con el Vicepresidente de Delegaciones, la contratación del personal y asignación de los recursos materiales y financieros que requieran las Delegaciones Regionales, de conformidad con la normativa aplicable;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+IX. Evaluar el desempeño de las Delegaciones Regionales, que se encuentren bajo su coordinación de conformidad con los lineamientos establecidos para tal efecto;
 
 X. Evaluar, analizar y participar con las autoridades en aquellos asuntos que por su impacto regional afecten a Usuarios respecto de uno o varios servicios o productos ofrecidos por las Instituciones Financieras;
 
 XI. Mantener comunicación con las Unidades Especializadas de las Instituciones Financieras para la atención de consultas y reclamaciones de los Usuarios;
 
-XII. Fijar las acciones para que las Delegaciones convoquen a sesionar a los consejos consultivos regionales, estatales y locales, así como el calendario anual en que sesionarán, para dar a conocer al Consejo Consultivo Nacional los asuntos que por su importancia así lo ameriten para coordinar su aprobación respectiva;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-XIII. Colaborar con las Delegaciones en el desarrollo de acciones específicas para el mejoramiento de los servicios de atención a los Usuarios;
+XII. Fijar las acciones para que las Delegaciones Regionales convoquen a sesionar a los consejos consultivos regionales, así como el calendario anual en que sesionarán, para dar a conocer al Consejo Consultivo Nacional los asuntos que por su importancia así lo ameriten para coordinar su aprobación respectiva;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+XIII. Colaborar con las Delegaciones Regionales en el desarrollo de acciones específicas para el mejoramiento de los servicios de atención a los Usuarios;
 
 XIV. Establecer y mantener relaciones con autoridades e Instituciones Financieras, así como con organizaciones e instituciones estatales públicas y privadas, en coordinación con la Dirección General de Desarrollo Financiero, Estadístico y Operativo, para intercambiar estudios e información financiera;
 
-XV. Conocer de la información obtenida por la Dirección General de Desarrollo Financiero, Estadístico y Operativo, para los fines de supervisión y evaluación del desempeño de las Delegaciones;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+XV. Conocer de la información obtenida por la Dirección General de Desarrollo Financiero, Estadístico y Operativo, para los fines de supervisión y evaluación del desempeño de las Delegaciones Regionales;
 
 XVI. Gestionar en el ámbito de su competencia, previo acuerdo del Presidente y del Vicepresidente de Delegaciones, la celebración de acuerdos de coordinación y convenios con las autoridades federales o locales, con los sectores social y/o privado, con las Instituciones Financieras, asociaciones, organismos u otras agrupaciones, supervisando el cumplimiento de los compromisos que de ellos se deriven;
 
@@ -1433,33 +1487,145 @@ Las atribuciones establecidas en el presente artículo serán ejercidas directam
 
 (DEROGADO, D.O.F. 29 DE MAYO DE 2015)
 
-### CAPITULO V. DE LAS DELEGACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+### CAPITULO V. DE LAS DELEGACIONES REGIONALES Y DE LAS SUBDELEGACIONES
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
 
 ###### Artículo 24.
 
-Las Delegaciones podrán ser Regionales, Estatales o Locales y, además de las atribuciones que les corresponden conforme al presente Estatuto Orgánico, realizarán las que por acuerdo se les deleguen.
+Las Delegaciones Regionales y Subdelegaciones adscritas a estas últimas, además de las atribuciones que les corresponden conforme al presente Estatuto Orgánico, realizarán las que por acuerdo se les deleguen.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
 
 ###### Artículo 25.
 
-En el ámbito de su competencia, el personal adscrito a las Delegaciones queda facultado para notificar, conforme a las disposiciones aplicables, las resoluciones o mandamientos que sean emitidos por los órganos y unidades administrativas de la Comisión Nacional facultados para ello, incluyendo aquellas en las que se efectúen requerimientos de información, documentación, medios electromagnéticos y demás elementos a las Instituciones Financieras.
+En el ámbito de su competencia, el personal adscrito a las Subdelegaciones queda facultado para notificar, conforme a las disposiciones aplicables, las resoluciones o mandamientos que sean emitidos por los órganos y unidades administrativas de la Comisión Nacional facultados para ello, incluyendo aquellas en las que se efectúen requerimientos de información, documentación, medios electromagnéticos y demás elementos a las Instituciones Financieras.
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
 
 ###### Artículo 26.
 
-Al frente de cada una de las Delegaciones habrá un Delegado, quien ejercerá las atribuciones conferidas en el presente Estatuto Orgánico directamente, o bien, a través de los subdelegados, Jefes de Departamento, Defensores, Conciliadores, Notificadores, Especialistas, Analistas y demás servidores públicos y personal administrativo que el servicio requiera.
+Al frente de cada una de las Delegaciones Regionales habrá un Delegado Regional, quien ejercerá las atribuciones conferidas en el presente Estatuto Orgánico directamente, o bien, a través de los Subdelegados.
 
-Los Delegados ejercerán las atribuciones contenidas en este Estatuto Orgánico, conforme a las políticas, lineamientos y procedimientos establecidos por la Comisión Nacional, acuerdos delegatorios y demás disposiciones aplicables.
+Los Delegados Regionales y Subdelegados ejercerán las atribuciones contenidas en este Estatuto Orgánico, conforme a las políticas, lineamientos y procedimientos establecidos por la Comisión Nacional, acuerdos delegatorios y demás disposiciones aplicables.
 
-En todos los casos el Delegado y los Subdelegados contarán preferentemente, el primero con título de alguna profesión relacionada con el sistema financiero mexicano, y los segundos con título de licenciado en derecho o su equivalente y con experiencia en materia financiera.
+En todos los casos el Delegado Regional y los Subdelegados, contarán preferentemente, el primero con título de alguna profesión relacionada con el sistema financiero mexicano, y los segundos con título de licenciado en derecho o su equivalente y con experiencia en materia financiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2016)</small>
 
 ###### Artículo 27.
 
-Las Delegaciones ejercerán sus atribuciones en la circunscripción territorial que les corresponda, de conformidad con lo siguiente:
+Las Delegaciones Regionales y las Subdelegaciones ejercerán sus atribuciones en la circunscripción territorial que les corresponda, de conformidad con lo siguiente:
 
-I. Las Delegaciones Estatales, en todos los municipios del Estado que corresponda;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-II. La Delegación Local en Cd. Juárez, en los municipios de Ascensión, Buenaventura, Casas Grandes, Galeana, Gómez Farías, Guadalupe Distrito Bravo, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes, Ojinaga y Praxedis G. Guerrero, todos ellos del Estado de Chihuahua, y
+I. Delegación Regional Occidente: en las Subdelegaciones de
 
-III. Las Delegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Sur y Metropolitana Oriente, en todas las delegaciones políticas del Distrito Federal y en los municipios conurbados a la Ciudad de México.
+a) Aguascalientes,
+
+b) Colima,
+
+c) Guerrero,
+
+d) Jalisco,
+
+e) Michoacán,
+
+f) Nayarit y
+
+g) Zacatecas.
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+II. Delegación Regional Centro: en las Subdelegaciones de
+
+a) Estado de México,
+
+b) Hidalgo,
+
+c) Morelos,
+
+d) Puebla y
+
+e) Tlaxcala.
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+III. Delegación Regional Metropolitana: en las Subdelegaciones
+
+a) Metropolitana Central,
+
+b) Metropolitana Norte,
+
+c) Metropolitana Oriente y
+
+d) Metropolitana Centro Histórico.
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+IV. Delegación Regional Norte: en las Subdelegaciones de
+
+a) Baja California,
+
+b) Baja California Sur,
+
+c) Ciudad Juárez,
+
+d) Coahuila,
+
+e) Chihuahua,
+
+f) Durango,
+
+g) Sinaloa y
+
+h) Sonora.
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+V. Delegación Regional Oriente: en las Subdelegaciones de
+
+a) Guanajuato,
+
+b) Nuevo León,
+
+c) Querétaro,
+
+d) San Luis Potosí,
+
+e) Tamaulipas y
+
+f) Veracruz.
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+VI. Delegación Regional Sureste: en las Subdelegaciones de
+
+a) Campeche,
+
+b) Chiapas,
+
+c) Oaxaca,
+
+d) Quintana Roo,
+
+e) Tabasco y
+
+f) Yucatán.
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+VII. La Subdelegación en Cd. Juárez, en los municipios de Ascensión, Buenaventura, Casas Grandes, Galeana, Gómez Farías, Guadalupe Distrito Bravo, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes, Ojinaga y Praxedis G. Guerrero, todos ellos del Estado de Chihuahua;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+VIII. Las Subdelegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Oriente y Metropolitana Centro Histórico, en todas las demarcaciones territoriales de la Ciudad de México y en los municipios conurbados a la misma, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+IX. Las demás Subdelegaciones, en todos los municipios del Estado que corresponda.
 
 Lo anterior, sin perjuicio de lo previsto en el artículo 65 de la Ley.
 
@@ -1467,9 +1633,11 @@ Lo anterior, sin perjuicio de lo previsto en el artículo 65 de la Ley.
 
 Los órganos colegiados y demás unidades administrativas de la Comisión Nacional, al ser autoridades centrales, gozan de competencia territorial en todo el país, de conformidad con el artículo 3 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2016)</small>
+
 ###### Artículo 28.
 
-Corresponde a las Delegaciones, el ejercicio de las siguientes atribuciones:
+Corresponde a las Delegaciones Regionales el ejercicio de las siguientes atribuciones:
 
 I. Atender las consultas e inconformidades de los Usuarios relacionadas con los servicios que prestan y los productos que ofrecen las Instituciones Financieras;
 
@@ -1485,7 +1653,9 @@ V. Atender las solicitudes de información del público, respecto de los índice
 
 V Bis. Recibir las quejas por las malas prácticas de cobranza y turnarlas a la Dirección General de Servicios Legales para su trámite;
 
-VI. Recibir y tramitar ante la Dirección General de Defensoría, Interventoría y Consultiva, las solicitudes de información de personas que deseen saber si son beneficiarias de uno o varios seguros de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros. Para tales efectos, las Delegaciones deberán remitir a la citada unidad administrativa las solicitudes que presenten los Usuarios, junto con la documentación correspondiente, al día hábil siguiente al de su recepción;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+VI. Recibir y tramitar ante la Dirección General de Defensoría, Interventoría y Consultiva, las solicitudes de información de personas que deseen saber si son beneficiarias de uno o varios seguros de vida, ya sean individuales o colectivos, incluyendo aquellos que se obtienen por la contratación de productos y servicios financieros. Para tales efectos, las Delegaciones Regionales deberán remitir a la citada unidad administrativa las solicitudes que presenten los Usuarios, junto con la documentación correspondiente, al día hábil siguiente al de su recepción;
 
 VII. (DEROGADA, D.O.F. 29 DE MAYO DE 2015)
 
@@ -1523,7 +1693,9 @@ XVII. Remitir a la Dirección General de Arbitraje y Sanciones, en el caso de in
 
 XVIII. Turnar a la Dirección General de Servicios Legales, en un plazo de cinco días hábiles, contados a partir del día siguiente a aquél en que se hayan recibido, los recursos de revisión junto con el expediente respectivo para su substanciación, y desechar por improcedentes aquellos que se interpongan en contra de actos distintos a los que prevé el artículo 99 de la Ley;
 
-XIX. Turnar a la Dirección General de Dictaminación y Supervisión, en un plazo de cinco días hábiles, contados a partir del día siguiente al de la fecha en que se reciba, la solicitud del Usuario de elaborar el acuerdo de trámite a que se refiere el artículo 68 Bis de la Ley. Dicha solicitud deberá acompañarse del expediente respectivo, así como de una recomendación del Delegado sobre el sentido en que deberá emitirse dicho acuerdo de trámite;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+XIX. Turnar a la Dirección General de Dictaminación y Supervisión, en un plazo de cinco días hábiles, contado a partir del día siguiente al de la fecha en que se reciba, la solicitud del Usuario de elaborar el acuerdo de trámite a que se refiere el artículo 68 Bis de la Ley. Dicha solicitud deberá acompañarse del expediente respectivo, así como de una recomendación del Delegado Regional sobre el sentido en que deberá emitirse dicho acuerdo de trámite;
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -1559,9 +1731,9 @@ XXXII. Llevar, en el ámbito de su competencia, el Registro de Personas Acredita
 
 XXXIII. Coadyuvar con la Dirección General de Servicios Legales en el trámite de los juicios o procedimientos relacionados con el ejercicio de sus funciones;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
-XXXIV. Rendir el informe previo y justificado que en materia de amparo le sea requerido por la autoridad judicial, cuando la Delegación o los servidores públicos adscritos a ella sean señalados como autoridad responsable; así como atender los requerimientos que les sean realizados por las autoridades jurisdiccionales y administrativas previa opinión de la Dirección General de Servicios Legales;
+XXXIV. Rendir el informe previo y justificado que en materia de amparo le sea requerido por la autoridad judicial, cuando la Delegación Regional o los servidores públicos adscritos a ella sean señalados como autoridad responsable; así como atender los requerimientos que les sean realizados por las autoridades jurisdiccionales y administrativas previa opinión de la Dirección General de Servicios Legales;
 
 XXXV. Realizar, previo requerimiento de la Dirección General de Dictaminación y Supervisión, visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
 
@@ -1581,7 +1753,9 @@ XLI. Ser integrante de los Consejos Consultivos Estatales o Locales, de conformi
 
 XLII. Establecer, en coordinación con la Vicepresidencia de Delegaciones, de conformidad con las políticas, lineamientos y procedimientos que se fijen, el calendario de sesiones de los Consejos Consultivos Estatales o Locales;
 
-XLIII. Preparar la información estadística relacionada con la Delegación, turnándola a la unidad administrativa que corresponda;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 2016)</small>
+
+XLIII. Preparar la información estadística relacionada con la Delegación Regional, turnándola a la unidad administrativa que corresponda;
 
 XLIV. Aplicar, de conformidad con la normativa aplicable, los recursos humanos, materiales y financieros que le sean asignados para su operación regular y para el desarrollo de programas vigentes;
 
@@ -1605,7 +1779,13 @@ LI. Remitir a la Dirección General de Servicios Legales, dentro de los cinco d�
 
 LII. Apoyar a las diferentes unidades administrativas de la Comisión Nacional en sus actividades sustantivas.
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Delegado que corresponda o, indistintamente, por los Subdelegados, Jefes de Departamento, Defensores, Conciliadores, Verificadores, Notificadores, Especialistas o Analistas, según sea el caso, de su adscripción, excepto las contenidas en las fracciones XV y XLIV, las cuales sólo serán ejercidas por los Delegados o Subdelegados, indistintamente.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Delegado Regional que corresponda o, indistintamente, por los Subdelegados.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+En adición a las atribuciones establecidas en el presente artículo, los Delegados Regionales tendrán la atribución de supervisar a los Subdelegados en el cumplimiento de sus atribuciones, incluido el cumplimiento de los programas anuales de labores de las Subdelegaciones.
 
 ## TITULO TERCERO. ORGANOS COLEGIADOS
 
@@ -1619,7 +1799,9 @@ El Consejo Consultivo Nacional y los Consejos Consultivos Regionales, Estatales 
 
 El Consejo Consultivo Nacional será presidido por el Presidente, fungiendo como Secretario Técnico el Titular de la Secretaría de la Junta, quien será suplido en sus ausencias por el Titular de la Prosecretaría de la Junta.
 
-Los Consejos Consultivos Regionales y Estatales estarán presididos por el Vicepresidente de Delegaciones de la Comisión Nacional y/o los Directores Generales de Delegaciones correspondientes, quienes serán asistidos por el Delegado Estatal, quien actuará como Secretario Técnico. En el caso de los Consejos Consultivos Locales, la Presidencia será ocupada por el Delegado Estatal correspondiente y la Secretaría Técnica por el Delegado Local de que se trate.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+Los Consejos Consultivos Regionales podrán ser presenciales o a través de medios electrónicos y estarán presididos por el Vicepresidente de Delegaciones de la Comisión Nacional y/o los Directores Generales de Delegaciones correspondientes, quienes serán asistidos por el Delegado Regional, quien actuará como Secretario Técnico.
 
 En cada sesión del Consejo Consultivo Nacional se levantará un acta que autorizarán el Presidente y el Secretario Técnico de la Comisión Nacional, en donde se establecerá con claridad y precisión, los acuerdos y recomendaciones adoptadas.
 
@@ -1733,7 +1915,9 @@ Cuando los Vicepresidentes sean señalados como autoridades responsables en los 
 
 El titular de la Secretaría de la Junta será suplido por el titular de la Prosecretaría.
 
-En sus ausencias, los Delegados serán suplidos por los Subdelegados de su adscripción, quienes, en su ausencia, serán suplidos por sus inmediatos inferiores, indistintamente.
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
+
+En sus ausencias, los Delegados Regionales serán suplidos por los Subdelegados de su adscripción, quienes en su ausencia, serán suplidos por sus inmediatos inferiores.
 
 Las ausencias del titular del Organo Interno de Control, así como las de los titulares de las áreas de Responsabilidades y Quejas, de Auditoría Interna y de Auditoría para el Desarrollo y Mejora de la Gestión Pública, serán suplidas conforme a lo previsto por el artículo 88, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de la Función Pública.
 
@@ -1790,3 +1974,13 @@ CUARTO.- Las funciones de los Directores de Área, Subdirectores y Jefes de Depa
 D.O.F. 29 DE MAYO DE 2015.
 
 ÚNICO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS”.]
+
+Primero. Las presentes reformas y adiciones entrarán en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las actuaciones que hayan sido iniciadas por unidades administrativas distintas a las competentes, de acuerdo a las presentes reformas y adiciones serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
+
+Tercero. Los Consejos Consultivos Regionales deberán ser instalados a los treinta días hábiles siguientes a la entrada en vigor de las presentes reformas y adiciones. Fenecido dicho término los Consejos Consultivos Estatales y Locales quedarán extintos.
