@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2016-04-14"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -965,15 +965,23 @@ Corresponde al Presidente del tribunal:
 
 I.- Cuidar que la tramitación de los negocios se desarrolle con la celeridad debida, mayor economía, concentración y sencillez en los procesos laborales;
 
-II.- Ejercer la representación del tribunal ante cualquier autoridad y encargarse de la administración del mismo;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
+
+II.- Ejercer la representación del tribunal ante cualquier autoridad y encargarse de la administración del mismo, pudiendo además nombrar ante los tribunales, delegados, representantes legales, apoderados, coadyuvantes, según sea el caso; ello en los terminos que establezca la ley que rija la materia en cuyo procedimiento comparezca;
 
 III.- Presidir las sesiones del pleno;
 
 IV.- Mantener el orden en el desarrollo de las audiencias o diligencias;
 
-V.- Procurar el orden y la disciplina del personal del ribunal (sic) y conceder las licencias que de acuerdo con la ley le sean solicitadas;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
 
-VI.- Designar y remover libremente al Secretario General de Acuerdos y Secretarios Proyectistas, comunicándolo a los demás representantes;
+V.- Procurar el orden y la disciplina del personal del tribunal, y conceder las licencias que de acuerdo con la ley le sean solicitadas;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
+
+VI.- Designar y remover libremente al Secretario General de Acuerdos y secretarios proyectistas. Además, habilitar, y remover al personal que considere necesario para realizar funciones de actuario de manera temporal; lo que deberá comunicar a los demás miembros representantes del Tribunal.
+
+Para el efecto, en el oficio respectivo se deberá precisar el plazo que durará la habilitación;
 
 VII.- Encargarse de la correspondencia oficial;
 
@@ -1820,6 +1828,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 14 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0197.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 45, DE LA LEY DE LOS TRABAJADORES AL SERVICIOS DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0201.- REFORMAS AL ARTÍCULO 107 EN SUS FRACCIONES, II, V, Y VI, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
