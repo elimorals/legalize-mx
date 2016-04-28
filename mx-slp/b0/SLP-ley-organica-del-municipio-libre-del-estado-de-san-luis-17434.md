@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2016-03-03"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1237,7 +1237,7 @@ IV. Estar presente en todas las sesiones de Cabildo con voz informativa, disponi
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
-V: Levantar las actas al término de cada sesión y recabar las firmas de los miembros del Ayuntamiento presentes, así como de aquellos funcionarios municipales que deban hacerlo;
+V. Levantar las actas al término de cada sesión y recabar las firmas de los miembros del Ayuntamiento presentes, así como de aquellos funcionarios municipales que deban hacerlo;
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -1769,6 +1769,8 @@ Los Delegados Municipales no podrán otorgar licencias para el establecimiento d
 
 ### CAPITULO XII. De los Organismos de Participación Ciudadana
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+
 ###### ARTICULO 100.
 
 La Comisión de Cultura, Recreación y Deporte, propondrá al Cabildo la designación de la persona que ocupe el cargo de Cronista Municipal.
@@ -1827,27 +1829,35 @@ VII. Promover la inserción en los medios de comunicación de noticias, boletine
 
 ###### ARTICULO 101.
 
-Para coadyuvar en los fines y funciones de la administración pública municipal, el Ayuntamiento integrará consejos de desarrollo municipal, juntas de vecinos y demás organismos, cualquiera que sea el nombre con que se les designe, los que presentarán propuestas al Ayuntamiento para fijar las bases de los planes y programas municipales o modificarlos en su caso; el Cabildo supervisará sus actividades y vigilará el destino de los fondos que manejen.
+Para coadyuvar en los fines y funciones de la administración pública municipal, los ayuntamientos constituirán mediante asambleas democráticas, dentro del cuarto mes del inicio de su periodo constitucional, los Consejos de Desarrollo Social Municipal a que se refiere la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí.
+
+La constitución de las juntas vecinales de mejoras, y demás organismos de participación ciudadana, se apegarán a los tiempos y plazos establecidos en la presente Ley o en su reglamento respectivo. Los que cualquiera que sea el nombre con que se les designe, presentarán propuestas al ayuntamiento para fijar las bases de los planes y programas municipales o modificarlos, en su caso; el cabildo supervisará sus actividades y vigilará, en su caso, el destino de los fondos que manejen.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+ARTICULO 101 BIS. Las Juntas Vecinales de Mejoras se conformarán y constituirán durante el tercer mes de ejercicio de los ayuntamientos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 102.
 
-Los ayuntamientos procurarán que en la integración de estos organismos se incluyan personas de los sectores de mayor representatividad en la población, y que tengan el perfil idóneo para el desempeño de las responsabilidades que se les asigne.
+Los ayuntamientos cuidarán que en los Consejos de Desarrollo Social Municipal, se incluyan a los Representantes Sociales Comunitarios de barrios, colonias populares, comunidades y ejidos.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+Asimismo, procurarán que en la integración de todos los organismos se incluyan personas de los sectores de mayor representatividad en la población, y que tengan el perfil idóneo para el desempeño de las responsabilidades que se les asigne.
 
-###### ARTICULO 102 Bis.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
-Para la integración de los organismos a que se refiere este Capítulo, los ayuntamientos podrán contar, previo convenio, con la colaboración del Consejo Estatal Electoral y de Partición (sic) Ciudadana, a efecto de que les proporcione el apoyo logístico, operativo y material para realizar los procesos de elección correspondientes.
+ARTICULO 102 BIS. Para la constitución de los organismos a que se refiere este Capítulo, los ayuntamientos podrán contar, previo convenio, con la colaboración del Consejo Estatal Electoral y de Partición (sic) Ciudadana, a efecto de que les proporcione el apoyo logístico, operativo y material para realizar los procesos de elección correspondientes.
 
-En todo caso, y siempre con la previa celebración del convenio correspondiente, el Consejo Estatal Electoral y de Partición (sic) Ciudadana, podrá hacerse cargo de los procesos de elección a que se refiere el párrafo que antecede.
+La celebración del convenio correspondiente deberá celebrarse a más tardar cuarenta y cinco días antes del proceso de elección que corresponda; el Consejo Estatal Electoral y de Partición (sic) Ciudadana podrá hacerse cargo de los procesos de elección a que se refiere el párrafo que antecede.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
-###### ARTICULO 102 Ter.
+ARTICULO 102 TER. Los ayuntamientos que no requieran del apoyo y colaboración del Consejo Estatal Electoral y de Participación Ciudadana para la constitución de los organismos de participación ciudadana, deberán remitirle, a más tardar treinta días antes de la emisión de la convocatoria respectiva, la metodología que utilizarán en los procesos de elección de quienes integrarán dichos organismos.
 
-Los ayuntamientos que no requieran del apoyo y colaboración del Consejo para la integración de los organismos de participación ciudadana, deberán remitirle, con la antelación debida, la metodología que utilizarán en los procesos de elección de quienes integrarán dichos organismos.
+Recibida la propuesta metodológica, el Consejo la analizará y emitirá su opinión técnica, en un plazo que no excederá de quince días contados a partir de su recepción, proponiendo a la consideración del ayuntamiento respectivo, las adecuaciones que estime necesarias para dotar de certeza, legalidad, imparcialidad y objetividad, la constitución de los organismos de participación ciudadana.
 
-Recibida la propuesta metodológica, el Consejo la analizará y emitirá su opinión técnica, en un plazo que no excederá de quince días hábiles, proponiendo a la consideración del ayuntamiento respectivo, las adecuaciones que estime necesarias para dotar de certeza, legalidad, imparcialidad y objetividad, la integración de los organismos de participación ciudadana.
+La convocatoria para las asambleas que tengan como fin la elección de las personas que deban de integrarse a los organismos de participación ciudadana deberán publicarse un mes antes a la fecha programada para la asamblea que corresponda, en uno de los diarios de mayor circulación del Estado, en el portal de transparencia del municipio, y en sus estrados. Asimismo, deberá ser remitida con la misma antelación, al Consejo Estatal Electoral y de Participación Ciudadana, quien podrá designar observadores. Las asambleas que no cumplan con estos requisitos se considerarán nulas, así como las resoluciones que en ellas se tomen.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
 
@@ -2866,3 +2876,11 @@ SÉPTIMO. Los lineamientos a que se refiere el artículo 72 de la Ley que se exp
 OCTAVO. Los ejecutores del gasto deberán contar con el sistema de evaluación del desempeño a que se refiere el artículo 79 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor de un año a partir de la entrada en vigor de la Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más. Las disposiciones a que se refiere el párrafo tercero del citado artículo deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a la publicación de la Ley.
 
 NOVENO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0200.- SE REFORMAN LOS ARTÍCULOS, 66 EN SU PÁRRAFO PRIMERO, Y EN SU FRACCIÓN V, 67, Y 68, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y LOS ARTÍCULOS, 101, 102, 102 BIS, Y 102 TER; Y ADICIONA EL ARTÍCULO 101 BIS, DE Y A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
