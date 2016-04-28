@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2016-01-22"
+last_updated: "2016-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -383,43 +383,83 @@ II. Por indulto, conmutación o cumplimiento de la pena impuesta.
 
 ### CAPITULO II. DE LOS DERECHOS INDIVIDUALES
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 19.
 
-Son derechos individuales, los que en forma enunciativa y no limitativa se enlistan:
+Son derechos Humanos, los que en forma enunciativa y no limitativa se enlistan:
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 I. Toda persona tiene derecho a que se respete su vida; nadie podrá ser condenado a muerte ni a prisión perpetua;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 II. A la identificación plena de su personalidad. A contar con un nombre y dos apellidos. La ley regulará la forma de asegurar este derecho;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 III. A trato igualitario sin distinción de personas por razón de raza, sexo, edad, religión, ideología, filiación, preferencia sexual, pertenencia a minorías o lugar de nacimiento;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 IV. Ejercer ante las autoridades estatales y municipales, el derecho de petición, en los términos y condiciones establecidos en el artículo 8° de la Constitución Política de los Estados Unidos Mexicanos. Los titulares y encargados de las dependencias de los poderes del Estado, organismos autónomos y municipios, deberán en un término que no exceda de treinta días hábiles contados a partir de la fecha en que un particular ingrese su petición por escrito, de responder en la misma forma el acuerdo derivado de su petición.
 
 Las leyes respectivas determinarán las salvedades o excepciones especiales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
-V. El Estado garantiza el derecho a la información.
+V. El Estado garantizará el derecho a la información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
-Toda persona ejercerá su derecho de acceso a la información que se encuentre en poder de los órganos del Estado y municipios, mediante los principios y bases siguientes:
+Toda persona ejercerá su derecho de acceso a la información que se encuentre en poder de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, mediante los principios y bases siguientes:
 
-a) Toda la información en posesión de cualquier autoridad, entidad paraestatal y de interés público y paramunicipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley de la materia. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad;
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+a) Toda la información en posesión de los sujetos obligados, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional en los términos que fije la ley de la materia. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad; los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley de la materia;
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 c) Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
 
-d) Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos, e
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
-e) Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+d) Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se substanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución;
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+e) Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+f) Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+g) No podrá reservarse o alegar la confidencialidad de información relacionada con violaciones a los derechos humanos o delitos de lesa humanidad, por ende, esa información deberá ser proporcionada;
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+h) La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan (sic) la ley de la materia; e
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+i) El organismo autónomo a que se refiere el artículo 97 de esta Constitución será responsable de garantizar el cumplimiento del derecho de acceso a la información pública y de protección de los datos personales en posesión de los sujetos obligados en términos de esta constitución y de la Ley de la materia.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 VI. En todo procedimiento se excluirá la prueba obtenida ilegalmente. A ser indemnizado por la privación ilegal de su libertad, por alguna autoridad y aún por error judicial;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 VII. El varón y la mujer son iguales ante la ley, a la igualdad de oportunidades en materia de trabajo, incluida la igualdad de retribución por labores similares;
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 VIII. Al ejercicio pleno de las libertades y derechos humanos aun aquellos de carácter difuso;
 
@@ -427,17 +467,27 @@ VIII. Al ejercicio pleno de las libertades y derechos humanos aun aquellos de ca
 
 IX. Toda persona tiene la libertad de investigación científica y de creación, interpretación y difusión cultural, así como derecho a obtener los beneficios que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autor.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 El Estado conservará el patrimonio cultural y apoyará las iniciativas individuales y colectivas que contribuyan al desarrollo de la cultura, especialmente la práctica y expresiones artísticas que arraiguen valores nacionales y locales;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 X. Toda persona que habite o transite en el territorio del Estado sin importar su procedencia o condición migratoria, será tratada con el respeto debido a la dignidad inherente al ser humano y su identidad cultural.
 
 Nadie será sometido a tortura ni a penas o tratos inhumanos o degradantes;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 XI. Las libertades de trabajo, comercio e industria tendrán pleno respeto siempre que éstos sean lícitos. El ejercicio profesional se sujetará a la ley de la materia;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 XII. Los menores de edad gozarán de sus derechos fundamentales; tienen derecho a la protección física y psicológica. Su opinión será tomada en cuenta en los asuntos que les afecten, en función de su edad y madurez.
 
 En los procedimientos judiciales o administrativos en los que se resuelvan derechos de los menores, se observarán los principios y las garantías del debido proceso legal, atendiendo a las particularidades que se deriven de la situación específica en la que se encuentran los menores, adoptar en el desarrollo de estos procedimientos la intervención personal de los menores, así como las medidas de protección que sean indispensables; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 XIII. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia; sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en transplante (sic), sin fines de lucro y con el propósito de reducir la morbi-mortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación.
 
@@ -1157,9 +1207,13 @@ LVII. Tomar la protesta de Ley al Gobernador electo, el treinta y uno de agosto 
 
 LVIII. Legislar sobre la integración del patrimonio del Estado y de los municipios, y
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
 
-LIX. Las demás que le confiere esta Constitución y las leyes.
+LIX. Nombrar a los Comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala; y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2016)</small>
+
+LX. Las demás que le confiere esta Constitución y las leyes.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2011,9 +2065,9 @@ Las decisiones o resoluciones del Consejo serán impugnadas por la vía administ
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO III. DE LA COMISION DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES
+### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ## TITULO VII. DE LOS MUNICIPIOS
 
@@ -2441,7 +2495,7 @@ Para ser titular de la Comisión se requiere ser preferentemente Licenciado en D
 
 El titular de la Comisión y los integrantes del Consejo Consultivo durarán en su encargo cuatro años. Solamente el titular podrá ser reelecto una sola vez por otro período igual, para lo cual se seguirá el procedimiento que para tal efecto establezca la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2016)</small>
 
 ### CAPÍTULO I. DE SUS RESPONSABILIDADES
 
@@ -2449,17 +2503,27 @@ El titular de la Comisión y los integrantes del Consejo Consultivo durarán en 
 
 ###### ARTICULO 97.
 
-La Comisión de Acceso a la Información Pública y Protección de Datos Personales, garantizará la prerrogativa que tiene toda persona para obtener información creada, administrada o en poder de los sujetos obligados, la cual no tendrá más limitación o excepción que aquella información que sea reservada o clasificada por comprometer la seguridad del Estado o la de los municipios y aquella que ponga en riesgo la privacidad o la seguridad de los particulares. Los sujetos obligados a proporcionar la información tendrán la facultad de clasificar y reservarla en atención a lo dispuesto por esta Constitución y la ley de la materia.
+El Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, es un organismo autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el derecho humano que tiene toda persona para obtener información creada, administrada o en poder de los sujetos obligados, la cual no tendrá más limitación o excepción que aquella información que sea reservada o clasificada por comprometer la seguridad nacional, del Estado o la de los municipios y aquella que ponga en riesgo la privacidad o la seguridad de los particulares; así como de proteger los datos personales en posesión de los sujetos obligados. Los sujetos obligados a proporcionar la información tendrán la facultad de clasificar y reservarla en atención a lo dispuesto por esta Constitución y la ley de la materia.
 
-Los principios que rigen la comisión son el de transparencia, objetividad, legalidad y publicidad de la información.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
-Los poderes públicos estatales, los ayuntamientos, los órganos constitucionales autónomos y cualquier otro organismo, dependencia o entidad estatal o municipal, estarán obligados a rendir la información pública que se les solicite.
+Su funcionamiento se regirá bajo los principios de certeza, independencia, imparcialidad, eficacia, profesionalismo, transparencia, objetividad, legalidad y máxima publicidad.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+Los poderes públicos estatales, los ayuntamientos, los órganos constitucionales autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal y cualquier otro organismo, dependencia o entidad estatal o municipal, estarán obligados a rendir la información pública que se les solicite.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 Se dotará a la comisión de la estructura administrativa y de los recursos necesarios para el ejercicio de sus funciones.
 
-La Comisión contará con un Consejo General integrado por tres comisionados propietarios y sus respectivos suplentes, mismos que serán electos por el voto de las dos terceras partes de los miembros integrantes de la Legislatura que corresponda, mediante convocatoria pública abierta, expedida por el propio Congreso en la forma y términos que la ley señale.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
-Los comisionados durarán en su encargo tres años y no podrán ser reelectos. Los comisionados no serán cesados de su cargo durante el periodo para el que fueron nombrados, salvo por causa grave que calificará el Congreso del Estado conforme lo disponga la ley de la materia. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica.
+El Instituto contará con un Pleno integrado por tres comisionados propietarios y sus respectivos suplentes, mismos que serán electos por el voto de las dos terceras partes de los diputados integrantes de la Legislatura que corresponda, mediante convocatoria pública abierta, expedida por el Congreso del Estado en la forma y términos que la Ley señale. En la conformación del organismo garante se procurará la equidad de género y se privilegiará la experiencia en materia de acceso a la información pública y protección de datos personales.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+
+Los comisionados durarán en su encargo siete años y serán electos de manera escalonada sin posibilidad de reelección y no podrán ser cesados de su cargo durante el periodo para el que fueron nombrados, salvo por causa grave que calificará el Congreso del Estado conforme lo disponga la Ley de la materia. El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años. Estará obligado a rendir un informe anual ante el Congreso Local, en la fecha y en los términos que disponga la Ley. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2525,7 +2589,7 @@ En el caso de los ingresos que se obtengan por contratación de obligaciones o e
 
 Toda contratación de obligaciones o empréstitos deberá ser aprobada por las dos terceras partes de los integrantes de la Legislatura local, en los términos siguientes:
 
-a) Para el Gobierno del Estado no podrán ser mayores al veinte por ciento del equivalente al presupuesto anual del Estado durante el ejercicio fiscal respectivo, e (sic)
+a) Para el Gobierno del Estado no podrán ser mayores al veinte por ciento del equivalente al presupuesto anual del Estado durante el ejercicio fiscal respectivo, e
 
 b) Por lo que se refiere a los municipios, será en un porcentaje no mayor al quince por ciento en relación a su presupuesto correspondiente.
 
@@ -2621,11 +2685,11 @@ Todo servidor público será responsable política, administrativa, penal y civi
 
 El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 109.
 
-El juicio político procede contra los servidores públicos a que se refiere el párrafo segundo del artículo 107, los titulares de las Secretarías del ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, así como contra los Consejeros Electorales del Instituto Tlaxcalteca de Elecciones y el Secretario Ejecutivo de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los miembros de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
+El juicio político procede contra los servidores públicos a que se refiere el párrafo segundo del artículo 107, los titulares de las Secretarías del Ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, los comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, así como contra los consejeros electorales del Consejo Electoral del Instituto Tlaxcalteca de Elecciones y el Secretario General de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los miembros de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -3652,3 +3716,49 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquéllas disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 217.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para la aprobación de las reformas y adiciones de carácter constitucional contenidas en el mismo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado expedirá la legislación secundaria que derive del presente Decreto, dentro de los treinta días siguientes a su entrada en vigor
+
+###### ARTÍCULO CUARTO.
+
+Los comisionados que actualmente conforman la Comisión de Información Pública y Protección de Datos Personales del Estado de Tlaxcala, formarán parte del nuevo organismo autónomo que establece el artículo 97 de esta Constitución y continuarán en sus funciones únicamente por el tiempo que reste al nombramiento del que fueron objeto por el Congreso del Estado de Tlaxcala, sin posibilidad de participar en el proceso inmediato de selección a nuevos comisionados.
+
+###### ARTÍCULO QUINTO.
+
+La designación de los nuevos comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, que comenzarán sus funciones a partir del 2 de enero de dos mil diecisiete se sujetarán al procedimiento siguiente:
+
+I. Para asegurar la renovación escalonada con motivo de los nombramientos que se realicen, el Congreso del Estado de Tlaxcala especificará el periodo del ejercicio por única ocasión para cada comisionado, tomando en consideración lo siguiente:
+
+a) Nombrarán a un comisionado por un periodo de siete años, contados a partir de su nombramiento;
+
+b) Nombrarán a un comisionado por un periodo de cinco años, contados a partir de su nombramiento, y
+
+c) Nombrarán a un comisionado, por un período de tres años, contados a partir de su nombramiento.
+
+II. El Congreso del Estado de Tlaxcala nombrará por única vez, de entre los tres comisionados que conformen el Pleno del Consejo del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Tlaxcala, a quien fungirá como Presidente del mismo por un período no mayor a tres años.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite o pendientes de emitir resolución a la entrada en vigor del presente Decreto, se sustanciarán ante el nuevo Instituto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos materiales y financieros, asi como el personal que labora para la Comisión de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, serán transferidos al Instituto creado. De ninguna forma resultarán afectados en sus derechos laborales y de seguridad social, los trabajadores de la Comisión extinta.
+
+###### ARTÍCULO OCTAVO.
+
+En los ordenamientos jurídicos en que se haga referencia a la Comisión de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, se entenderá que se refiere al Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala.
