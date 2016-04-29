@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-576-de-vida-silvestre-para-el-estado-de-veracruz-709
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-12"
-last_updated: "2009-11-12"
+last_updated: "2016-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 576 DE VIDA SILVESTRE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 576 DE VIDA SILVESTRE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 576 DE VIDA SILVESTRE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 12 de noviembre de 2009.
 
@@ -143,21 +143,41 @@ XLVI. Repoblación: Liberación planificada al hábitat natural de ejemplares de
 
 XLVII. Reproducción controlada: Manejo planificado de ejemplares, poblaciones o hábitats de la vida silvestre, para asegurar el incremento en el número de individuos, que se realiza bajo condiciones de protección, seguimiento sistemático permanente o reproducción asistida. Se entenderá por reproducción asistida, la forma de reproducción de ejemplares de la vida silvestre en confinamiento, consistente en un conjunto de técnicas encaminadas a la inducción, aceleración o modificación de ciertas fases de procesos reproductivos;
 
-XLVIII. Secretaría: Secretaría de Desarrollo Social y Medio Ambiente;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2016)</small>
 
-XLIX. Servicios ambientales: Beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como regulación climática, conservación de los ciclos hidrológicos, fijación de nitrógeno, formación de suelo, captura de carbono, control de la erosión, polinización de plantas, control biológico de plagas o la degradación de desechos orgánicos;
+XLVIII. Santuarios de Animales: Aquellas instalaciones/predios, donde se recibirán y resguardarán los animales que así lo requieran y los que indica el artículo 40, para su resguardo, rehabilitación y posterior reinserción en sus hábitats naturales si fuera posible o traslado a Santuarios foráneos más adecuados para su especie, o su estancia definitiva por el resto de sus vidas.
 
-L. Tasa de aprovechamiento: Cantidad de ejemplares, partes o derivados que se pueden extraer dentro de un área y un período determinados, de manera que no se afecte el mantenimiento del recurso y su potencial productivo en el largo plazo;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2016)</small>
 
-LI. Temporada cinegética: Periodo de tiempo donde se permite el aprovechamiento de las poblaciones de la fauna silvestre mediante el ejercicio de la caza;
+XLIX. Secretaría: Secretaría de Medio Ambiente;
 
-LII. Traslocación: Liberación planificada al hábitat natural de ejemplares de la misma especie, que se realiza para sustituir poblaciones desaparecidas de una subespecie silvestre distinta y de la cual ya no existen ejemplares en condiciones de ser liberados;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2016)</small>
 
-LIII. Turismo cinegético: Actividad que desarrolla un cazador autorizado al visitar localidades o predios donde se permite la práctica legal de la caza de fauna silvestre en su entorno natural con el uso de servicios logísticos y turísticos implícitos en programas de aprovechamiento sustentable de la vida silvestre;
+L. Servicios ambientales: Beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como regulación climática, conservación de los ciclos hidrológicos, fijación de nitrógeno, formación de suelo, captura de carbono, control de la erosión, polinización de plantas, control biológico de plagas o la degradación de desechos orgánicos;
 
-LIV. Unidades de Manejo para la Conservación de la Vida Silvestre (UMA): Predios e instalaciones registrados que operan de conformidad con un plan de manejo aprobado y dentro de los cuales se da seguimiento permanente al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyen; y
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2016)</small>
 
-LV. Vida silvestre: Organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales. Está conformada por la fauna y flora continental e insular que vive en condiciones naturales, temporales o permanentes, en el territorio estatal.
+LI. Tasa de aprovechamiento: Cantidad de ejemplares, partes o derivados que se pueden extraer dentro de un área y un período determinados (sic), de manera que no se afecte el mantenimiento del recurso y su potencial productivo en el largo plazo;
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2016)</small>
+
+LII. Temporada cinegética: Periodo en el que se permite el aprovechamiento de las poblaciones de la fauna silvestre mediante el ejercicio de la caza;
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2016)</small>
+
+LIII. Translocación: Liberación planificada al hábitat natural de ejemplares de la misma especie, que se realiza para sustituir poblaciones desaparecidas de una subespecie silvestre distinta y de la cual ya no existen ejemplares en condiciones de ser liberados;
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2016)</small>
+
+LIV. Turismo cinegético: Actividad que desarrolla un cazador autorizado al visitar localidades o predios donde se permite la práctica legal de la caza de fauna silvestre en su entorno natural con el uso de servicios logísticos y turísticos implícitos en programas de aprovechamiento sustentable de la vida silvestre;
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2016)</small>
+
+LV. Unidades de Manejo para la Conservación de la Vida Silvestre (UMA): Predios e instalaciones registrados que operan de conformidad con un plan de manejo aprobado y dentro de los cuales se da seguimiento permanente al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyen; y
+
+> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2016)</small>
+
+LVI. Vida silvestre: Organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales. Está conformada por la fauna y flora continental e insular que vive en condiciones naturales, temporales o permanentes, en el territorio estatal.
 
 ###### Artículo 3.
 
@@ -192,6 +212,10 @@ VIII. Los estímulos que permitan orientar los procesos de aprovechamiento de la
 IX. Los procesos para la valoración de la información disponible sobre la biología de la especie y el estado de su hábitat; para la consideración de las opiniones de los involucrados y de las características particulares de cada caso, en la aplicación de medidas para el control y erradicación de ejemplares y poblaciones perjudiciales, incluyendo a los ferales, así como la utilización de los medios adecuados para no afectar a otros ejemplares, poblaciones, especies y a su hábitat; y
 
 X. Los criterios para que las sanciones no sólo cumplan una función represiva, sino que sean preventivas y se traduzcan en acciones que contribuyan y estimulen el tránsito hacia el desarrollo sustentable; así como para la priorización de los esfuerzos de inspección a los sitios en donde se presten servicios de captura, comercialización, transformación, tratamiento y preparación de ejemplares, partes y derivados de vida silvestre, así como a aquellos en que se realicen actividades de transporte, importación y exportación.
+
+> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2016)</small>
+
+XI. Incluir en el proyecto de presupuesto de egresos, la asignación de la partida de presupuesto que garantice el correcto funcionamiento de los santuarios establecidos y pertenecientes al Estado.
 
 ### CAPÍTULO III. De las Autoridades
 
@@ -347,9 +371,11 @@ El control sanitario de los ejemplares de especies de la vida silvestre se hará
 
 #### SECCIÓN IV. Trato Digno a la Fauna Silvestre
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2016)</small>
+
 ###### Artículo 18.
 
-El Ejecutivo del Estado, a través de la Secretaría y la Coordinación, así como los Ayuntamientos, promoverán y adoptarán las medidas de trato digno y respetuoso para evitar o disminuir la tensión, sufrimiento, traumatismo y dolor que se pudiere ocasionar a los ejemplares de fauna silvestre durante su aprovechamiento, traslado, exhibición, cuarentena, entrenamiento, comercialización y sacrificio, de conformidad con las disposiciones de la Ley General y demás ordenamientos aplicables en la materia.
+El Ejecutivo del Estado, a través de la Secretaría y la Coordinación, así como los Ayuntamientos, promoverán y adoptarán las medidas de trato digno y respetuoso para todos los ejemplares de fauna silvestre, de conformidad con las disposiciones de la Ley General y demás ordenamientos aplicables en la materia.
 
 #### SECCIÓN V. Sistema Estatal de Unidades de Manejo para la Conservación de la Vida Silvestre
 
@@ -511,17 +537,63 @@ Las autoridades del Estado coadyuvarán a la conservación de las especies migra
 
 #### SECCIÓN VI. Conservación de la Vida Silvestre fuera de su Hábitat Natural
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2016)</small>
+
 ###### Artículo 38.
 
-La conservación de la vida silvestre fuera de su hábitat natural se llevará a cabo de acuerdo con las disposiciones de la Ley General, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Estatal de Protección Ambiental, de esta Ley y de los ordenamientos que de ellas se deriven, así como con arreglo a los planes de manejo aprobados.
+La conservación de la vida silvestre fuera de su hábitat natural se llevará a cabo de acuerdo con las disposiciones de la Ley General, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Estatal de Protección Ambiental, la Ley de Protección a los Animales para el Estado de Veracruz de Ignacio de la Llave, de esta Ley y de los ordenamientos que de ellas se deriven, así como con arreglo a los planes de manejo aprobados.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2016)</small>
 
 ###### Artículo 39.
 
-Los responsables de los parques zoológicos establecidos en el Estado deberán contemplar en sus planes de manejo, aspectos de educación ambiental, de conservación y reproducción de las especies; además, sin perjuicio de las demás disposiciones aplicables, deberán registrarse y actualizar sus datos ante las autoridades en materia de vida silvestre estatales, en el padrón que para tal efecto se lleve.
+Los responsables de los Santuarios de Animales establecidos y pertenecientes al Estado deberán contemplar en sus planes de manejo, aspectos de educación ambiental y de conservación de las especies mexicanas en peligro de extinción; además, sin perjuicio de las demás disposiciones aplicables, deberán registrarse y actualizar sus datos ante las autoridades en materia de vida silvestre estatales, en el padrón que para tal efecto se lleve.
+
+Asimismo, las autoridades responsables de la ejecución de esta ley deberán observar en su actuar los principios de honradez, imparcialidad y eficiencia, siendo responsables, en su caso, por no cumplir lo establecido en el presente ordenamiento, conforme a la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave y demás ordenamientos legales.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2016)</small>
+
+###### Artículo 39 Bis.
+
+Se entenderá por Santuarios de Animales, aquellas instalaciones/predios, donde se recibirán y resguardarán los Animales que así lo requieran y los que indica el artículo 40, para su resguardo, rehabilitación y posterior reinserción en sus hábitats naturales si fuera posible o traslado a Santuarios foráneos más adecuados para su especie, o su estancia definitiva por el resto de sus vidas.
+
+Dichos Santuarios tendrán como norma inamovible, la no alteración de la biología de los animales, el trato ético y el tratamiento etológico, médico y de habitación, acorde a la especie y estado psicofísico de cada animal, y en ellos se prohibirá cualquier actividad comercial o de explotación. También estará estrictamente prohibida la reproducción de los animales contemplando como única excepción, el establecimiento de programas previos estrictos de reinserción de las crías, en hábitats naturales viables, con el único fin de la conservación de las especies.
+
+a) Por actividad comercial se entenderá:
+
+I. El uso de animales para exposición;
+
+II. El uso de animales para el entretenimiento;
+
+III. Compra, venta, o subastar a los animales o partes de su cuerpo; y
+
+IV. Cualquier otra actividad incompatible con el cuidado humano, trato ético y el bienestar de los animales del Santuario.
+
+b) Para el subsidio de los Santuarios, el Ejecutivo del Estado, anualmente deberá incluir en su proyecto de presupuesto de egresos, la asignación de la partida de presupuesto que garantice el correcto funcionamiento de los mismos y el bienestar de los animales que ahí se encuentren.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2016)</small>
 
 ###### Artículo 40.
 
-En términos de las disposiciones aplicables, las Unidades de Manejo para la Conservación de la Vida Silvestre en el Estado, podrán ser proveedoras por excelencia de especies nativas para la integración de parques zoológicos, principalmente los establecidos en el Estado; y de los expendios de mascotas de origen silvestre, legalmente constituidos.
+En términos de las disposiciones aplicables, las Unidades de Manejo para la Conservación de la Vida Silvestre en el Estado, podrán ser proveedoras por excelencia de especies nativas para la integración de Santuarios, principalmente los establecidos en el Estado.
+
+Los Santuarios estarán obligados a recibir en sus instalaciones a aquellos ejemplares provenientes de circos y/o de particulares y brindarles las atenciones necesarias para su bienestar y conservación.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2016)</small>
+
+Artículo 40 bis. Los Santuarios establecerán y mantendrán un plan de emergencia en caso de que algún espécimen se escape, en caso de incendio, inundación u otra catástrofe. Los santuarios proveerán cuidado veterinario apropiado para todos los animales por los cuales son responsables. Asimismo, los santuarios establecerán y mantendrán una política de eutanasia humanitaria para los animales que están gravemente heridos, con enfermedades incurables o en sufrimiento terminal. Este programa estará bajo la supervisión de un veterinario con licencia.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2016)</small>
+
+###### Artículo 40 Ter.
+
+Se creará un Comité Estatal de Supervisión, Asesoría, Reglamentación y Manejo de los santuarios, que contará con Médicos Veterinarios Especializados, Etólogos, Biólogos, expertos en conservación del equilibrio ecológico y medio ambiente y abogados, así como también se permitirá el acceso y participación activa de organizaciones defensoras de animales que cuenten con el permiso previo del santuario para observar el cumplimiento de los artículos 39, 40 y 40 bis.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2016)</small>
+
+###### Artículo 40 Quáter.
+
+El Santuario de Animales deberá contemplar horarios de visita controlados, las reglas durante la visita y la cantidad de visitantes por temporada. Se destinarán espacios para que los visitantes participen de los programas educativos antes y después de haber ingresado al Santuario.
 
 #### SECCIÓN VII. Restauración
 
@@ -1010,3 +1082,13 @@ Lic. Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 856 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE VIDA SILVESTRE PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
