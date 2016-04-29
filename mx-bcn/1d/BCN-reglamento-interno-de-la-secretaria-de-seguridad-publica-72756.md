@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-seguridad-publica-72756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-29"
-last_updated: "2015-09-04"
+last_updated: "2016-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 2010.
 
@@ -399,7 +401,7 @@ C) Policía Estatal de Seguridad y Custodia Penitenciaria;
 
 D) Unidad de Investigación Penitenciaria; y,
 
-E) Departamento de Administración de Centros de Reinserción Social y de Adolescentes.
+E) (DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 II.- Dirección de Ejecución de Penas y Medidas Judiciales:
 
@@ -409,9 +411,11 @@ A) Departamento Jurídico de las Unidades Ejecutoras o Centros;
 
 B) Departamento de Integración de Beneficios de Libertad Anticipada; y
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-C) Departamento de Vigilancia de Medidas y Beneficios Judiciales.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2016)</small>
+
+C) Departamento de Evaluación, Supervisión de Medidas y Beneficios Judiciales.
 
 III.- Dirección de Programas de Reinserción Social:
 
@@ -447,13 +451,17 @@ XII.- Centro de Tratamiento para Adolescentes Ensenada;
 
 De la Subsecretaría:
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-XIII.- Coordinación de Infraestructura Penitenciaria; y
+XIII.- Coordinación de Infraestructura Penitenciaria;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-XIV.- Coordinación de Sistemas y de Tecnología.
+XIV.- Coordinación de Sistemas y de Tecnología; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2016)</small>
+
+XV.- Coordinación de Administración;
 
 Las Direcciones Normativas en el ámbito de su competencia, establecerán las políticas, programas, lineamientos y directrices que deberán aplicar en sus funciones y actividades las Unidades Ejecutoras o Centros.
 
@@ -1237,35 +1245,7 @@ VII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean e
 
 ###### Artículo 50.
 
-La Jefatura del Departamento de Administración de Centros de Reinserción Social y de Adolescentes, tendrá el ejercicio de las atribuciones siguientes:
-
-l.- Coordinar la elaboración de estudios y proyectos administrativos que se requieran para el óptimo funcionamiento de la administración de la Dirección y de las Unidades Ejecutoras o Centros;
-
-II.- Administrar y optimizar los recursos financieros y materiales de la administración de la Dirección y de las Unidades Ejecutoras o Centros que la integran;
-
-III.- Formular el anteproyecto de presupuesto de egresos de las Unidades Ejecutoras o Centros, para someterlo a consideración del Subsecretario y del Director;
-
-IV.- Programar, controlar y evaluar la adecuada aplicación del presupuesto de egresos asignado a la Dirección, así como a las diversas Unidades Ejecutoras o Centros, atendiendo las políticas y lineamientos que al efecto se establezcan;
-
-V.- Gestionar la solicitud de requerimiento de productos y materia prima ante la unidad administrativa correspondiente, para cubrir las necesidades de alimentos, así como, productos ofrecidos en las unidades de abastecimiento de la población penitenciaria del Estado;
-
-VI.- Gestionar la solicitud de requerimiento ante la unidad administrativa correspondiente respecto del material y equipo destinado a los servicios generales y de mantenimiento de las Unidades Ejecutoras o Centros;
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-VII.- Vigilar conforme a los lineamientos de la Dirección, el adecuado ejercicio de los recursos no presupuestados que generen o reciban los Centros de Tratamiento para Adolescentes en el Estado, de conformidad con la normatividad aplicable;
-
-VIII.- Implementar las medidas que sean pertinentes para que la alimentación que reciben los internos de las Unidades Ejecutoras o Centros, sea adecuada en cantidad y calidad nutricional;
-
-IX.- Mantener coordinación permanente con las áreas administrativas de las Unidades Ejecutoras o Centros;
-
-X.- Elaborar de manera trimestral y en coordinación con los encargados de alimentos de las diversas Unidades Ejecutoras o Centros, el menú de alimentación de los internos;
-
-XI.- Elaborar de manera trimestral y en base a estudios de mercado, la lista de precios para unidades de abastecimiento de las Unidades Ejecutoras o Centros, procurando que los precios sean similares a los del exterior;
-
-XII.- Informar inmediatamente al Director de cualquier contingencia o irregularidad que se presente en la adquisición de insumos o en la alimentación para los internos de las Unidades Ejecutoras o Centros, así como, de cualquier eventualidad que ocurra en las unidades de abastecimiento de los mismos; y,
-
-XIII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 51.
 
@@ -1341,17 +1321,23 @@ XXI.- Suscribir documentos en suplencia y por ausencia del Subsecretario del Sis
 
 XXII.- Solicitar el auxilio de la fuerza pública, a efecto de dar el cumplimiento a las medidas y beneficios judiciales, ordenadas por la autoridad judicial competente, en los términos de las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-XXIII.- Coordinar y supervisar la realización de la evaluación de riesgo, en los términos de la legislación aplicable; y
+XXIII.- Coordinar y supervisar la realización de la evaluación de riesgo, en los términos de la legislación aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2015) (ADICIONADO)
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-XXIV.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+XXIV.- Comparecer o designar a servidor público de la Dirección a su cargo a efecto de que acuda a las audiencias cuando sea requerido por la autoridad judicial competente, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2016)</small>
+
+XXV.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por sus superiores, así como las determinadas en las leyes, el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 52.
 
@@ -1387,9 +1373,23 @@ XII.- Dar seguimiento y formular proyectos a las peticiones que sean formuladas 
 
 XIII.- Compilar, sistematizar y promover la actualización de las leyes, reglamentos, decretos y acuerdos, en especial lo relacionado con la competencia de la Dirección de Ejecución de Penas y Medidas Judiciales;
 
-XIV.- Elaborar estudios comparados sobre las legislaciones de las entidades federativas, relativas a la competencia de la Dirección de Ejecución de Penas y Medidas Judiciales; y,
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XV.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+XIV.- Elaborar estudios comparados sobre las legislaciones de las entidades federativas, relativas a la competencia de la Dirección de Ejecución de Penas y Medidas Judiciales;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+XV.- Comparecer cuando sea instruido por su superior jerárquico o designar a servidor público del Departamento a su cargo a efecto de que acuda a las audiencias cuando sea requerido por la autoridad judicial competente, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2016)</small>
+
+XVI.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por sus superiores, así como las determinadas en las leyes, el presente Reglamento y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1421,71 +1421,69 @@ VII.- Realizar brigadas jurídicas en las Unidades Ejecutoras o Centros señalad
 
 VIII.- Coordinar las áreas jurídicas de las unidades ejecutoras o centros señaladas en la fracción que antecede, en relación a los trabajos a realizar sobre beneficios de libertad anticipada;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IX.- Suscribir documentos y desahogar toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales; y,
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+IX.- Suscribir documentos y toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales;
 
-X.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores, así como las determinadas en el presente reglamento y demás disposiciones aplicables.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+X.- Comparecer cuando sea instruido por su superior jerárquico o designar a servidor público del Departamento a su cargo a efecto de que acuda a las audiencias cuando sea requerido por la autoridad judicial competente, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2016)</small>
+
+XI.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por sus superiores, así como las determinadas en las leyes, el presente Reglamento y demás disposiciones aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2016)</small>
 
 ###### Artículo 54.
 
-La Jefatura del Departamento de Vigilancia de Medidas y Beneficios Judiciales, estará a cargo de un Jefe de Departamento, el cual será auxiliado por las coordinaciones de zona Mexicali, zona Ensenada y zona Tijuana, ésta última que comprende los municipios de Tecate y Playas de Rosarito, y tendrá el ejercicio de las atribuciones siguientes:
+El Departamento de Evaluación, Supervisión de Medidas y Beneficios Judiciales, estará a cargo de un Jefe de Departamento, contará con el personal necesario en los diversos municipios que conforman la Entidad, apoyándose con Coordinadores por zona cuyo ámbito de competencia se circunscribe al municipio de adscripción; teniendo a su cargo la atención de las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+I.- Coordinar, dirigir y supervisar las actividades del personal adscrito al departamento y las coordinaciones de zona; entre éstas actividades las relativas a la evaluación, la supervisión de medidas judiciales impuestas a imputados y la supervisión de beneficios judiciales otorgados a sentenciados en el Estado;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+II.- Supervisar el cumplimiento de las obligaciones impuestas a los imputados y sentenciados según proceda, una vez que se les ha otorgado alguna medida judicial, beneficio o medida de seguridad, que ordene la autoridad judicial competente;
 
-I.- Vigilar el cumplimiento de las obligaciones impuestas a los sentenciados e imputados según proceda, una vez que se les ha otorgado alguna medida judicial, como es la medida cautelar o suspensión condicional del proceso o bien, algún beneficio judicial o de libertad anticipada, comprendiendo la suspensión condicional de la ejecución de la pena y los sustitutivos penales u otra medida de seguridad que considere la autoridad judicial competente;
+III.- Instruir y coordinar la visita a los imputados o sentenciados en sus domicilios o lugar de trabajo, para supervisar el cumplimiento de las obligaciones derivadas del otorgamiento de una medida o beneficio judicial, informándose de manera inmediata a la autoridad competente, por conducto del titular de la Dirección de Ejecución de Penas y Medidas Judiciales, cuando incumplan las obligaciones impuestas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV.- Coordinar la atención a las solicitudes de la defensa o Ministerio Público para llevar a cabo la evaluación de los imputados que requiera, a efecto de determinar el nivel de riesgo de sustracción de la acción de la justicia que representa y remitir en tiempo y forma a las partes el reporte de opinión que contenga información debidamente validada para tal efecto;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+V.- Informar de manera inmediata a las autoridades competentes, el cumplimiento de las condiciones derivadas de la suspensión del proceso al fenecer el término señalado por la autoridad judicial, o en su caso el incumplimiento de una medida o beneficio judicial;
 
-II.- Visitar a los imputados y sentenciados en sus domicilios o trabajo, para vigilar el cumplimiento de las obligaciones derivadas del otorgamiento de una medida o beneficio judicial o de libertad anticipada, informando a la autoridad judicial por conducto del Director de Ejecución de Penas y Medidas Judiciales, cuando incumplan las obligaciones impuestas;
+VI.- Requerir al imputado o sentenciado proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas o el resultado del examen de las mismas en su caso, cuando la condición impuesta por la autoridad judicial derivado de la imposición de la suspensión condicional del proceso o del beneficio de la suspensión condicional de la pena así lo requiera;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+VII.- Canalizar a los imputados o sentenciados a institución pública o privada de tipo educativo o asistencial, en atención al tipo de obligación o condición que la autoridad judicial competente le imponga derivado de una medida o beneficio judicial, lo anterior, previo estudio de habilidades laborales y de disponibilidad realizado por la Dirección de Programas de Reinserción Social; así como en coordinación de ésta última su supervisión, cuando así proceda;
 
-III.- Citar, si lo considera procedente y sólo por una vez, a los sentenciados con beneficio judicial, cuando hayan dejado de cumplir con las obligaciones impuestas y, en caso de no presentarse el día y hora señalado, sin necesidad de apercibimiento alguno, deberá informarse el incumplimiento a la autoridad judicial competente, por conducto del Director de Ejecución de Penas y Medidas Judiciales;
+VIII.- Llevar los libros de control necesarios o un registro digitalizado respecto de la evaluación de riesgo y la supervisión de medidas y beneficios judiciales, que le corresponda conocer;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IX.- Solicitar el auxilio y apoyo de las instituciones policiales en el Estado, cuando se considere necesario para la correcta supervisión de imputados o sentenciados, en los términos de la Ley de la materia, lo mismo se dispondrá cuando se substituya la multa por libertad vigilada;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+X.- Comparecer o instruir y supervisar que el personal designado por el titular de la Dirección de Ejecución de Penas y Medidas Judiciales, se presente en las audiencias en las que sea requerido por la autoridad judicial competente,
 
-IV.- Llevar los libros de control necesarios o un registro digitalizado de quienes se encuentren sujetos a alguna medida judicial, o bien se les haya concedido un beneficio judicial o de libertad anticipada, del cual deriven obligaciones que por disposición judicial deban ser supervisadas por la Dirección de Ejecución de Penas y Medidas Judiciales;
+XI.- Dar respuesta a oficios de requerimiento por las diversas autoridades competentes, en relación a la evaluación y/o la supervisión de medidas o beneficios judiciales;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+XII.- Recabar, concentrar y generar la estadística por municipio y la estatal de las actividades desarrolladas en cada una de las coordinaciones de zona y de la jefatura;
 
-V.- Vigilar a las personas que sean sujetas a una obligación derivada de una sentencia o medida judicial, dictada por la autoridad judicial competente;
+XIII.- Proponer al superior jerárquico los lineamientos de supervisión de imputados y sentenciados, para el mejor desempeño de sus actividades;
 
-VI.- Asignar el cumplimiento del trabajo en favor de la comunidad en institución pública o privada de tipo educativo o asistencial, cuando la autoridad judicial competente lo imponga como pena directa o sustitutiva, previo estudio de habilidades laborales y de disponibilidad realizado por la Dirección de Programas de Reinserción Social;
+XIV.- Suscribir documentos y desahogar toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XV.- Coordinar y supervisar la calidad y expedites del servicio prestado por el personal bajo su responsabilidad;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+XVI.- Informar a sus superiores jerárquicos los asuntos considerados relevantes por la naturaleza de la obligación o condición impuesta en virtud de la medida o beneficio judicial, o bien por el perfil de imputado o sentenciado; así como todos aquellos temas por los cuales se deba establecer comunicación con otras instituciones, con la finalidad de optimizar la operatividad de las diversas áreas;
 
-VII.- Apercibir al sentenciado que tenga un beneficio judicial o de libertad anticipada, cuando éste incumpla con las obligaciones inherentes a dicho beneficio, esto una vez que haya sido citado por una sola vez y haber comparecido a justificar el incumplimiento; en caso de reincidencia informar del incumplimiento a la autoridad judicial competente, por conducto del Director de Ejecución de Penas y Medidas Judiciales;
+XVII.- Asistir a las capacitaciones, actualizaciones y especializaciones ordenadas por sus superiores; así como solicitar las mismas para el personal a su cargo, a través del superior jerárquico ante las instancias que correspondan, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XVIII.- Las demás que le sean encomendadas por sus superiores, así como las determinadas en las leyes, el presente Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-VIII.- Suscribir documentos y desahogar toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-IX.- Realizar la evaluación de riesgo en los términos de la legislación aplicable; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-X.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+Las atribuciones establecidas en el presente artículo, serán ejercidas indistintamente por las Coordinaciones de zona del Departamento de Evaluación, Supervisión de Medidas y Beneficios Judiciales.
 
 ###### Artículo 55.
 
@@ -1665,7 +1663,7 @@ III.- Coordinar la implementación y/o actualización de los procedimientos nece
 
 IV.- Llevar a cabo los estudios y evaluaciones tecnológicas pertinentes que permitan ampliar la cobertura y mantener actualizada la infraestructura de los sistemas y de tecnología de las Unidades Ejecutoras o Centros del Sistema Estatal Penitenciario;
 
-V.- Atender y canalizar ante las instancias correspondientes, los problemas de los equipos de cómputo, sistemas y comunicación resguardados en la Subsecretaría; y, (sic)
+V.- Atender y canalizar ante las instancias correspondientes, los problemas de los equipos de cómputo, sistemas y comunicación resguardados en la Subsecretaría; y,
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1678,6 +1676,94 @@ VII.- Prestar asistencia técnica y auxilio a la Dirección de Ejecución de Pen
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 VIII.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por su superior, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2016)</small>
+
+###### Artículo 62 Bis.
+
+La Coordinación de Administración, además de lo establecido en el artículo 11 del presente Reglamento, tendrá el ejercicio de las atribuciones siguientes:
+
+I.- Acordar con el superior jerárquico el despacho de los asuntos que les sean encomendados;
+
+II.- Asesorar al superior jerárquico en materia administrativa, para el uso óptimo de los recursos de la Subsecretaría, de las direcciones y de las unidades ejecutoras o centros a que se hace referencia en el artículo 13 de este Reglamento;
+
+III.- Mantener actualizada la plantilla de personal adscrito a la Subsecretaría, las direcciones y de las unidades ejecutoras o centros que la integran;
+
+IV.- Mantener coordinación permanente con la Dirección de Administración de la Secretaría, acatando los lineamientos que en la materia aquella establezca; así como con las áreas administrativas de las direcciones y de las unidades ejecutoras o centros, para coadyuvar en el cumplimiento de sus responsabilidades;
+
+V.- Coadyuvar, colaborar y apoyar con la Dirección de Administración en la administración y optimización de los recursos humanos, financieros y materiales de la Subsecretaría, de las direcciones y de las unidades ejecutoras o centros que la integran;
+
+VI.- Formular el anteproyecto de presupuesto de egresos de la Subsecretaría, de las direcciones y de las unidades ejecutoras o centros que la componen, para someterlo a consideración del Subsecretario;
+
+VII.- Programar, controlar y evaluar la adecuada aplicación del presupuesto de egresos asignado a la Subsecretaría, de las direcciones, así como a las diversas unidades ejecutoras o centros que la integran, atendiendo las políticas y lineamientos que al efecto se establezcan;
+
+VIII.- Ejercer el presupuesto autorizado a la Subsecretaría, a las direcciones y de las unidades ejecutoras o centros que la integran;
+
+IX.- Observar las políticas, normas, lineamiento (sic), criterios y demás disposiciones oficiales, que establezcan las instancias y autoridades correspondientes, que regulen la función gubernamental en materia de administración y fiscalización;
+
+X.- Realizar las gestiones necesarias para la compra de insumos para la alimentación de los internos en las diversas unidades ejecutoras o centros a que se hace referencia en el artículo 13 de este Reglamento; así como de los productos ofrecidos en las unidades de abastecimiento de dichos centros;
+
+XI.- Implementar y supervisar las medidas que sean pertinentes para el adecuado funcionamiento de las cocinas y almacenes de alimentos; así como la entrega de alimentos, a efecto de optimizarlos y evitar el desperdicio de los mismos, manteniendo un inventario y control de los utensilios de cocina, para proporcionar a los internos de las unidades ejecutoras o centros, la alimentación diaria en la calidad y cantidad nutricional requerida;
+
+XII.- Elaborar de manera trimestral y en coordinación con los encargados de alimentos de las diversas unidades ejecutoras o centros, el menú de alimentación de los internos;
+
+XIII.- Elaborar de manera trimestral y en base a estudios de mercado, la lista de precios para unidades de abastecimientos de las unidades ejecutoras o centros, procurando que los precios sean similares a los del exterior;
+
+XIV.- Coordinar el mantenimiento, las mejoras y reparaciones diarias de las instalaciones de las unidades ejecutoras o centros, en atención a las prioridades de seguridad y funcionamiento de los mismos, en base a la disposición presupuestal, así como mantener un inventario y control de herramientas;
+
+XV.- Cumplir con las disposiciones para el ejercicio del gasto público y para el manejo de inventarios, de conformidad con la normatividad aplicable y las políticas establecidas por la Dirección de Administración y demás instancias normativas;
+
+XVI.- Llevar el registro y control de los bienes materiales asignados de la Subsecretaría, sus direcciones y de las unidades ejecutoras o centros;
+
+XVII.- Elaborar y ejecutar los programas de mantenimiento preventivo y correctivo de los bienes materiales, incluidos los vehículos asignados a la Subsecretaría, sus direcciones y de las unidades ejecutoras o centros en términos de la normatividad que resulte aplicable, y en su caso, previa la validación de la Oficialía Mayor de Gobierno;
+
+XVIII.- Realizar, tramitar o gestionar las solicitudes de requerimientos ante las instancias correspondientes, respecto aquellas necesidades de material y equipo para los servicios generales y de mantenimiento de las unidades ejecutoras o centros; así como controlar las erogaciones del gasto operativo;
+
+XIX.- Coordinar y supervisar el control de inventarios de los bienes del activo fijo de la Subsecretaría, sus direcciones y de las unidades ejecutoras o centros, según las normas aplicables;
+
+XX.- Supervisar, orientar y normar las actividades administrativas de cada una de las áreas de la Subsecretaría, sus direcciones y de las unidades ejecutoras o centros que la integran;
+
+XXI.- Coordinar con las direcciones y de las unidades ejecutoras o centros de la Subsecretaría, la elaboración de los anteproyectos de manuales de organización, procedimientos y de servicios al público, y someterlos a la consideración del Subsecretario;
+
+XXII.- Realizar ante las autoridades correspondientes y en coordinación con las direcciones de la Subsecretaría que corresponda, los trámites necesarios para obtener los permisos o licencias que se requieran para el funcionamiento de las unidades ejecutoras o centros, respecto a su ámbito competencial;
+
+XXIII.- Someter a la consideración del Subsecretario los programas de racionalización del gasto y optimización de los recursos; así como supervisar su establecimiento y evaluar su cumplimiento;
+
+XXIV.- Elaborar propuestas para la contratación de personal, y de bienes y servicios, que sean necesarios para el óptimo funcionamiento de la Subsecretaría, sus direcciones y de las unidades ejecutoras o centros, de conformidad con la normatividad aplicable;
+
+XXV.- Coadyuvar, colaborar y apoyar a la Dirección de Administración en la tramitación de las designaciones, altas, bajas, permutas, comisiones, cambios de adscripción, vacaciones, licencias; así como las demás incidencias del personal de la Subsecretaría, sus direcciones y de las unidades ejecutoras o centros, de conformidad con las disposiciones aplicables;
+
+XXVI.- Gestionar, difundir y apoyar en la implementación de los sistemas complementarios de seguridad social, relativos a las prestaciones médicas, económicas y sociales que se otorgan a los Miembros, de conformidad con las disposiciones aplicables e instrucciones recibidas;
+
+XXVII.- Autorizar las adquisiciones con cargo al presupuesto, así como presentar al Subsecretario las erogaciones que deban ser autorizadas por él, de conformidad con las disposiciones aplicables;
+
+XXVIII.- Documentar, compilar y mantener actualizada la información del área a su cargo;
+
+XXIX.- Intervenir y coordinarse ante las instancias o instituciones correspondientes, en lo relativo a la contratación, desarrollo, capacitación, adiestramiento, promoción, adscripción, o sanción del personal de la Subsecretaría, sus direcciones y de las unidades ejecutoras o centros; así como lo concerniente al servicio profesional de carrera policial de los Miembros en el ámbito de su competencia y de conformidad con las disposiciones aplicables;
+
+XXX.- Asegurar que los recursos de informática de la Subsecretaría, las direcciones y de las unidades ejecutoras o centros, sean utilizados de acuerdo a los objetivos establecidos;
+
+XXXI.- Establecer coordinación con las direcciones y de las unidades ejecutoras o centros de la Subsecretaría, para el adecuado y óptimo mantenimiento y de las instalaciones de las unidades ejecutoras o centros;
+
+XXXII.- Informar inmediatamente al Subsecretario, al Director de Centros de Reinserción Social y de Adolescentes, y a las demás autoridades correspondientes, sobre cualquier contingencia o irregularidad que se presente relacionado con la infraestructura de las unidades ejecutoras o centros; así como sobre la adquisición, almacenamiento de insumos o la alimentación de los internos;
+
+XXXIII.- Garantizar que los servicios al interior de las unidades ejecutoras o centros, no se interrumpan y funcionen adecuadamente, como lo son el suministro eléctrico, de agua potable, drenaje; además de la limpieza, fumigación, iluminación y buen estado en general de las instalaciones, observando para ello la normatividad aplicable en cada caso; en el supuesto de cualquier contingencia comunicarlo inmediatamente al Subsecretario, al Director de Centros de Reinserción Social y de Adolescentes, y a las autoridades correspondientes;
+
+XXXIV.- Mantener coordinación permanente con las instituciones e instancias correspondientes, a efecto de colaborar en el ámbito de su competencia en los procesos de reclutamiento e ingreso de los aspirantes a personal activo de la Policía Estatal de Seguridad y Custodia Penitenciaria;
+
+XXXV.- Realizar las gestiones oportunas y necesarias ante las instancias correspondientes, a efecto de que se proporcione a los internos, de conformidad con la disponibilidad presupuestal, el avituallamiento de insumos relacionados con una estancia y alimentación digna;
+
+XXXVI.- Elaborar e implementar en coordinación con las direcciones y de las unidades ejecutoras o centros de la Subsecretaría, los planes y programas de protección civil, en cada una de ellas, de conformidad con las disposiciones aplicables;
+
+XXXVII.- Mantener coordinación con las instancias correspondientes, para la implementación y mantenimiento de sistemas de gestión de calidad y mejora continua de procesos tendientes a perfeccionar la prestación de los servicios de la Subsecretaría, Direcciones y de las unidades ejecutoras o centros que la integran, establecidos por la Secretaría;
+
+XXXVIII.- Coordinar la elaboración de estudios y proyectos administrativos que se requieran para el óptimo funcionamiento de la administración de la Subsecretaría, las direcciones y de las unidades ejecutoras o centros;
+
+XXXIX.- Rendir los dictámenes, opiniones o informes a su superior inmediato cuando sean requeridos, de las actividades desarrolladas o por desarrollar del área a su cargo, y
+
+XL.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por sus superiores, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+
+La Coordinación de Administración contará con el personal administrativo necesario para cumplir con sus atribuciones, de conformidad con la disponibilidad presupuestal.
 
 #### SECCIÓN III. DE LA DIRECCIÓN DE PLANEACIÓN Y DESARROLLO INSTITUCIONAL
 
@@ -2037,23 +2123,13 @@ XX.- Mantener una adecuada coordinación con la Dirección de Control y Evaluaci
 
 XXI.- Las demás que determine el Secretario y las que señale la normatividad aplicable.
 
-#### SECCIÓN VII. INVESTIGACIÓN ADMINISTRATIVA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2016)</small>
+
+#### SECCIÓN VII
 
 ###### Artículo 78.
 
-La Investigación Administrativa a que se refiere la fracción X del artículo 77 del presente Reglamento, se sujetará a las normas siguientes:
-
-l.- El procedimiento podrá iniciarse de oficio por el Director de Asuntos Internos o el funcionario público adscrito a dicha Dirección y designado por escrito por aquel, cuando se tenga conocimiento como resultado de los exámenes, visitas o inspecciones en los que intervenga el Director de Asuntos Internos o el personal adscrito a dicha Dirección o por cualquier medio de alguna conducta irregular cometida por alguno de los Miembros; y, a petición de parte por el Director de Asuntos Internos o el funcionario público adscrito a dicha Dirección y designado por escrito por aquel, cuando cualquier persona interponga mediante comparecencia verbal o por escrito su queja o denuncia en contra de alguno de los Miembros o por cualquier otro medio a disposición de los particulares o del superior jerárquico del Miembro presunto responsable de la conducta irregular.
-
-II.- La Dirección de Asuntos Internos podrá ordenar la práctica de las diligencias que sean necesarias y se encuentren ajustadas a la normatividad aplicable a fin de reunir los medios probatorios para acreditar la conducta imputada al Miembro.
-
-III.- Todos los días y horas serán hábiles para la substanciación de la investigación administrativa prevista en el presente el artículo.
-
-IV.- Una vez concluida la Investigación Administrativa, se podrá determinar lo siguiente:
-
-a) No existen elementos para solicitar el inicio del procedimiento correspondiente, por lo que se ordenará archivar el asunto como totalmente concluido, y en su caso, se notificará al denunciante dicha determinación; y,
-
-b) Existen elementos de prueba suficientes que establecen la presunción de que un Miembro ha dejado de reunir alguno de los requisitos de permanencia o incumplido con alguna de las obligaciones clasificadas como graves, para proceder en los términos de la Ley de Seguridad Pública.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2131,7 +2207,7 @@ b) Departamento de Prevención Social de la Violencia y la Delincuencia con Part
 
 Este Departamento ejercerá sus atribuciones en la demarcación territorial que corresponde a los municipios de Tijuana, Tecate y Playas de Rosarito.
 
-c) Departamento de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Zona Ensenada; (sic)
+c) Departamento de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Zona Ensenada;
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2254,3 +2330,19 @@ De conformidad con lo dispuesto por el artículo 49, fracción I, de la Constitu
 P.O. 4 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, excepto las reformas a los artículos 45, 51, 53, 54, 56 y 59 del Reglamento Interno de la Secretaría de Seguridad Pública del Estado de Baja California, las cuales entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional.
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13, 51, 52, 53 Y 54 SE ADICIONA EL ARTÍCULO 62 BIS Y SE DEROGA EL ARTÍCULO 50, TODOS DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN LA SECCIÓN II DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE FECHA 29 DE ENERO DE 2010”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California; excepto las reformas a los artículos, 13 fracción II, inciso C), 51, 52, 53 y 54 del Reglamento Interno de la Secretaría de Seguridad Pública del Estado de Baja California, las cuales entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado, en los términos del Artículo Segundo Transitorio del mencionado Código Nacional.
+
+SEGUNDO.- Los recursos humanos, materiales y presupuestales, así como los archivos con los que operaba el Departamento de Administración de Centros de Reinserción Social y de Adolescentes, se entenderán transferidos a la Coordinación de Administración prevista en este Decreto, en conjunto con los recursos presupuestales y financieros que para el presente ejercicio fiscal se hayan previsto.
+
+TERCERO.- Los manuales operativos e instrumentos normativo-administrativos que en su caso se requieran para el óptimo funcionamiento de la Coordinación de Administración prevista en este Decreto, se deberán de elaborar a más tardar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE DEROGA LA SECCIÓN VII DENOMINADA "INVESTIGACIÓN ADMINISTRATIVA", DEL CAPÍTULO QUINTO, DEROGÁNDOSE EL ARTÍCULO 78 DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
