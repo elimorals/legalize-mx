@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2014-12-09"
+last_updated: "2016-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -327,7 +327,9 @@ XXII. Intervenir, junto con las autoridades federales, estatales y municipales c
 
 XXIII. Otorgar a las autoridades judiciales el apoyo que soliciten con motivo del ejercicio de sus funciones;
 
-XXIV. Organizar, coordinar, dirigir y supervisar a la Unidad de Servicios Especiales de vigilancia y al Centro Estatal de Evaluación y Control de Confianza;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+XXIV. Organizar, coordinar, dirigir y supervisar al Centro Estatal de Evaluación y Control de Confianza;
 
 XXV. Instrumentar la política de protección civil en el Estado, organizando y coordinando las acciones y funciones de la Coordinación Estatal de Protección Civil y su vinculación con los Sistemas Nacional y Estatal de Protección Civil;
 
@@ -425,7 +427,7 @@ XII. Normar, coordinar, supervisar y consolidar los sistemas estatales de planea
 
 XIII. Conducir, regular, administrar, operar y supervisar el Sistema de Contabilidad del Estado, para lo cual fijará, emitirá y evaluará criterios y lineamientos en dicha materia;
 
-XIV. Proponer al Gobernador el (sic) Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
+XIV. Proponer al Gobernador de (sic) Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
 
 XV. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el equilibrio financiero de la Administración Pública del Estado;
 
@@ -1311,9 +1313,17 @@ XXVI. Coordinar, administrar y supervisar los procesos, acciones, políticas, li
 
 XXVII. Integrar y actualizar en forma permanente las Bases de Datos del Sistema Nacional de Información en materia de Seguridad Pública;
 
-XXVIII. Implementar, administrar, supervisar, operar y dar mantenimiento a la infraestructura tecnológica de la red de comunicaciones en el Estado, que garantice la cobertura, disponibilidad y operación de la Red Nacional de Telecomunicaciones, y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-XXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
+XXVIII. Implementar, administrar, supervisar, operar y dar mantenimiento a la infraestructura tecnológica de la red de comunicaciones en el Estado, que garantice la cobertura, disponibilidad y operación de la Red Nacional de Telecomunicaciones;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+XXIX. Organizar, coordinar, dirigir y supervisar a la Unidad de Servicios Especiales de vigilancia, y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+XXX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ## TÍTULO TERCERO. De la Administración Pública Paraestatal
 
@@ -1476,3 +1486,13 @@ Primero. El presente Decreto entrará en vigor a partir de su publicación en el
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Tercero. Para garantizar el cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación del Estado, establecerá las partidas presupuestales pertinentes en el Presupuesto de Egresos del Estado.
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 396 POR EL CUAL SE REFORMAN LOS ARTÍCULOS 207 U, 207 V, 207 W Y 207 X TRASLADANDO EL CONTENIDO DE LOS MISMOS AL CAPÍTULO XXX DENOMINADO "POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA", Y SE DEROGA EL CAPÍTULO XXXI DENOMINADO "POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO", TODOS DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO; Y SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 31; SE REFORMAN LAS FRACCIONES XXVIII, XXIX Y SE ADICIONA LA FRACCIÓN XXX DEL ARTÍCULO 46 TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deberán realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Quintana Roo y a las demás disposiciones reglamentarias que regulen sobre los Servicios Especiales de Vigilancia, en los términos del presente decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
