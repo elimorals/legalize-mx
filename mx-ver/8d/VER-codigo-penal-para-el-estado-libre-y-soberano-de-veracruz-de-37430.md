@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2016-02-05"
+last_updated: "2016-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -733,11 +733,11 @@ Los delitos culposos serán sancionados, salvo disposición en contrario, con pr
 
 ### CAPÍTULO III. TENTATIVA
 
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2016)</small>
 
 ###### Artículo 86.
 
-El responsable de tentativa será sancionado, salvo disposición en contrario, con prisión de quince días a diez años y multa hasta de doscientos días de salario; para imponer la pena el juez tomará en cuenta, además de lo previsto por este código, el mayor o menor grado de aproximación al momento de consumación del delito.
+Al responsable de tentativa se le aplicará, salvo disposición en contrario, hasta las dos terceras partes de la sanción que se le debiera imponer de haberse consumado el delito que quiso realizar; para imponer la pena el Juez tomará en cuenta, además de lo previsto por este Código para la individualización de la pena, el mayor o menor grado de aproximación al momento de consumación del delito.
 
 ### CAPÍTULO IV. REINCIDENCIA
 
@@ -4284,6 +4284,14 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 5 DE FEBRERO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 615 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO V DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUAL, DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 196 Y 236 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 865 QUE REFORMA EL ARTÍCULO 86 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
