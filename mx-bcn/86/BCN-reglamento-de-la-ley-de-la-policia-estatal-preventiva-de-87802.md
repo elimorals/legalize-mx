@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-la-policia-estatal-preventiva-de-87802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-04"
-last_updated: "2014-03-14"
+last_updated: "2016-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 4 de mayo de 2012.
 
@@ -1183,507 +1183,173 @@ IX.- Comisario Jefe, 65 años, y
 
 X.- Comisario General, 65 años.
 
-### CAPÍTULO VIII. De las Promociones, Estímulos y Condecoraciones
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
 
-#### Sección Primera. De las Promociones
+### CAPÍTULO VIII
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
+
+#### Sección Primera
 
 ###### Artículo 46.
 
-La promoción es el acto mediante el cual la Comisión otorga a los Miembros, conforme al procedimiento correspondiente y a propuesta del Comité, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en el Artículo 13 de la Ley, las promociones se orientarán bajo los criterios siguientes:
-
-I.- Los resultados obtenidos en los programas de profesionalización;
-
-II. - Los méritos demostrados en el desempeño de sus funciones;
-
-III. - Las aptitudes de mando y liderazgo;
-
-IV. - Los antecedentes en el registro de sanciones y correcciones disciplinarias;
-
-V.- La antigüedad en el servicio, y
-
-VI. - Los demás que determine la Comisión.
-
-Sólo podrán conferirse promociones cuando exista una vacante o plaza de nueva creación para la categoría jerárquica superior inmediata correspondiente a su escalafón.
-
-Al personal que sea promovido, le será reconocida su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente que otorgue la Comisión; además esta, ordenará la expedición del nombramiento a la instancia correspondiente y que sea agregada al expediente u hoja de servicio policial del Miembro, empezando a ocupar el grado materia de la promoción.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 47.
 
-Los requisitos para que los Miembros puedan participar en los procesos de promoción serán los siguientes:
-
-I.- Estar en servicio activo, no encontrarse gozando de licencia, excepto la otorgada por enfermedad por actos relacionados con la prestación del servicio, en este caso la Comisión podrá otorgar la promoción, que en su caso se hubiere resuelto;
-
-II.- Presentar, conforme al procedimiento y plazo establecido en la convocatoria, la documentación necesaria para acreditar el cumplimiento de los requisitos previstos en la Ley de Seguridad Pública, la Ley y el presente Reglamento;
-
-III.- Contar con los requisitos de antigüedad en el grado y en el servicio, establecidos en el Artículo siguiente;
-
-IV.- Presentar y acreditar los procesos de evaluación y de control de confianza, practicados por el Centro de Control de Confianza, aplicados al proceso de promoción;
-
-V.- Obtener y mantener actualizado su Certificado Único Policial;
-
-VI.- No encontrarse en cualquiera de los supuestos previstos en el Artículo 76 de este Reglamento;
-
-VII.- Cursar y aprobar la capacitación mediante el cual se prepara, en el conocimiento teórico y práctico de las funciones de la jerarquía inmediata superior a la que ostenta, de conformidad con los lineamientos de la Academia y demás disposiciones aplicables;
-
-VIII.- Acreditar las evaluaciones de competencias y evaluaciones del desempeño;
-
-IX.- Haber observado buena conducta;
-
-X.- Existir una plaza vacante o de nueva creación, y
-
-XI.- Los demás que, conforme a la Ley de Seguridad Pública, La Ley y el presente Reglamento, se señalen en la convocatoria respectiva.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 48.
 
-Además de los requisitos previstos en el Artículo que antecede, los Miembros deberán cumplir con los requisitos de antigüedad mínima en el grado y en el servicio que se enlistan en la siguiente tabla:
-
-Nivel jerárquico Antigüedad Antigüedad
-
-en el Grado en el Servicio
-
-Policía 2 años 2 años
-
-Policía Tercero 2 años 4 años
-
-Policía Segundo 2 años 6 años
-
-Policía Primero 2 años 8 años
-
-Suboficial 3 años 11 años
-
-Oficial 3 años 14 años
-
-Subinspector 3 años 17 años
-
-Inspector 3 años 20 años
-
-Inspector Jefe 3 años 23 años
-
-Inspector General 3 años 26 años
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 49.
 
-Para aspirar ser promovidos a los grados de Suboficial hasta Inspector General, el Miembro deberá además contar con título académico con grado de licenciatura en las especialidades que determine la convocatoria respectiva.
-
-Los Miembros para aspirar a ser promovidos, deberán satisfacer los requisitos establecidos en el presente Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 50.
 
-Los grados policiales sujetos a promoción, serán a partir de Policía Tercero, hasta Inspector General.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 51.
 
-El personal que sea promovido por mérito especial deberá cumplir los cursos, capacitaciones y especializaciones en la Academia, para la categoría jerárquica a la que hubiere sido promovido.
-
-En caso de incumplimiento, quedará suspendido el otorgamiento de la constancia respectiva.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 52.
 
-La convocatoria y el procedimiento de selección de Miembros aspirantes a ser promovidos, se realizará a través de la Comisión y el Comité, en los términos del presente Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
-#### Sección Segunda. Del Procedimiento para el Otorgamiento de Promociones
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
+
+#### Sección Segunda
 
 ###### Artículo 53.
 
-Cuando los titulares de las unidades policiales consideren necesario cubrir una vacante o una plaza de nueva creación, lo harán del conocimiento por escrito al presidente del Comité, a efecto de que en un término no mayor a tres días hábiles, solicite por escrito a la Comisión expida la convocatoria correspondiente y sus reglas, de conformidad con el presente Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 54.
 
-La Comisión en un término no mayor a cinco días hábiles, contados a partir de que reciba la solicitud a que se hace referencia en el Artículo que precede; en su caso acordará, expedirá y notificará por escrito la convocatoria correspondiente, así como sus reglas, al Comité para los efectos del desahogo del procedimiento establecido en la presente Sección.
-
-La convocatoria será difundida en los lugares o medios que determine la Comisión.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 55.
 
-La convocatoria para la obtención de una promoción contendrá por lo menos, lo siguiente:
-
-I.- Lugar y fecha en la que se emite;
-
-II.- Grado jerárquico a concursar;
-
-III.- El cumplimiento de los requisitos a que se refieren los Artículos 47 y 48 del presente Reglamento, en su caso, la documentación que deberán acompañar los interesados;
-
-IV.- Fecha de inicio y conclusión para la recepción de solicitudes;
-
-V.- Lugar y horario para la recepción de solicitudes;
-
-VI.- Autoridades ante las que podrá obtenerse información relacionada con el objeto de la convocatoria;
-
-VII.- Los factores escalafonarios objeto de evaluación, para su consideración en el concurso de selección, y
-
-VIII.- Los demás que determine la Comisión a fin de asegurar la legalidad, imparcialidad y transparencia en el otorgamiento de las Promociones.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 56.
 
-El procedimiento para el otorgamiento de promoción se sujetará a lo siguiente:
-
-I.- Una vez concluido el término para la recepción de las solicitudes señalado en la convocatoria correspondiente, el Comité tendrá un plazo no mayor a cinco días hábiles, para revisar se cumplan con los requisitos referidos en la convocatoria respectiva y demás establecidos en este Reglamento;
-
-II.- Hecho lo anterior, el Comité propondrá, a aquellos Miembros que considere hayan cumplido con los requisitos referidos en la fracción que antecede; acto seguido, el Comité en un plazo no mayor de cinco días hábiles, efectuará la evaluación de factores escalafonarios a que se refiere el Artículo siguiente, atendiendo al expediente policial de los aspirantes, señalando la suma total del puntaje individual obtenido;
-
-III.- Cumplido lo anterior, en un plazo no mayor de cinco días hábiles siguientes de efectuadas las evaluaciones a que se refiere la fracción que antecede, el Comité remitirá a la Comisión, la relación de aspirantes por grado a concursar, señalando en la misma la propuesta de quienes se consideren cumplan los requisitos establecidos en la convocatoria; en tal relación además, se asentará los puntajes obtenidos, copia del expediente personal y demás documentación comprobatoria; así como, en su caso la opinión o comentarios que realicen los integrantes del Comité sobre cada participante en el proceso de promoción, y
-
-IV.- Una vez realizado lo anterior, la Comisión resolverá sobre el otorgamiento o no de la promoción a concursar, en los términos previstos en su reglamento y demás normatividad aplicable.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 57.
 
-Los factores escalafonarios y el puntaje para determinar la promoción de los Miembros, serán los siguientes:
-
-I. Eficiencia y calidad en el servicio:
-
-a) Personas aseguradas por:
-
-1. La comisión de delitos
-
-Efectividad 1 05 puntos
-
-Efectividad 2 04 puntos
-
-Efectividad 3 03 puntos
-
-Efectividad 4 02 puntos
-
-Efectividad 5 01 puntos
-
-2. Incurrir en faltas administrativas
-
-Efectividad 1 03 puntos
-
-Efectividad 2 02 puntos
-
-Efectividad 3 01 puntos
-
-3. Contar con órdenes de aprehensión
-
-Efectividad 1 05 puntos
-
-Efectividad 2 04 puntos
-
-Efectividad 3 03 puntos
-
-Efectividad 4 02 puntos
-
-Efectividad 5 01 puntos
-
-b) Droga asegurada
-
-Efectividad 1 05 puntos
-
-Efectividad 2 04 puntos
-
-Efectividad 3 03 puntos
-
-Efectividad 4 02 puntos
-
-Efectividad 5 01 puntos
-
-c) Vehículos recuperados
-
-Efectividad 1 05 puntos
-
-Efectividad 2 04 puntos
-
-Efectividad 3 03 puntos
-
-Efectividad 4 02 puntos
-
-Efectividad 5 01 puntos
-
-d) Armas de fuego aseguradas
-
-Efectividad 1 05 puntos
-
-Efectividad 2 04 puntos
-
-Efectividad 3 03 puntos
-
-Efectividad 4 02 puntos
-
-Efectividad 5 01 puntos
-
-e) Armas blancas aseguradas
-
-Efectividad 1 03 puntos
-
-Efectividad 2 02 puntos
-
-Efectividad 3 01 puntos
-
-f) Dinero asegurado
-
-Efectividad 1 05 puntos
-
-Efectividad 2 04 puntos
-
-Efectividad 3 03 puntos
-
-Efectividad 4 02 puntos
-
-Efectividad 5 01 puntos
-
-II. Preparación y entrenamiento:
-
-a) Grado actual de preparación o escolaridad del aspirante:
-
-1.- Por cada posgrado (Maestrías y Doctorados)
-
-relacionado con sus funciones en el ramo de
-
-seguridad pública 20 puntos
-
-2.- Por cada especialidad directamente relacionada
-
-con sus funciones en el ramo de seguridad pública 15 puntos
-
-3.- Por cada licenciatura directamente relacionada
-
-con sus funciones en el ramo de seguridad pública 10 puntos
-
-4.- Por cada diplomado relacionado con sus funciones
-
-en el ramo de seguridad pública 07 puntos
-
-5.- Academia o curso básico para los Agentes de la
-
-Policía 05 puntos
-
-b) Cursos de actualización en áreas directamente relacionadas con sus funciones en el ramo de la seguridad pública:
-
-1.- Por cada curso acreditado en los tres años
-
-anteriores a la emisión de la convocatoria para
-
-los miembros interesados en obtener la promoción 03 puntos
-
-2.- Por cada curso acreditado en fecha anterior al plazo
-
-señalado en el párrafo que antecede 01 punto
-
-c) Cursos de especialización en áreas directamente relacionadas con sus funciones en el ramo de la seguridad pública:
-
-1.- Por cada curso acreditado en los tres años
-
-anteriores a la emisión de la convocatoria para
-
-los Miembros interesados en obtener la promoción 05 puntos
-
-2.- Por cada curso acreditado en fecha anterior al
-
-plazo señalado en el párrafo que antecede 03 puntos
-
-d) Nivel de preparación física, conforme a la última evaluación realizada:
-
-1.- Excelente 05 puntos
-
-2.- Bueno 03 puntos
-
-3.- Regular 01 punto
-
-III.- Disciplina:
-
-No contar con sanciones administrativas:
-
-1.- En los 2 años anteriores a la emisión de la
-
-convocatoria 10 puntos
-
-2.- En el año anterior a la emisión de la convocatoria 05 puntos
-
-3.- En los seis meses anteriores a la emisión de la
-
-convocatoria 03 puntos
-
-IV.- Distinciones o reconocimientos:
-
-Por cada distinción o reconocimiento relacionado con la función de seguridad pública, otorgada por organismo o institución privada o pública diversa a la Institución Policial:
-
-1.- De carácter internacional 15 puntos
-
-2.- De carácter nacional 10 puntos
-
-3.- De carácter estatal 05 puntos
-
-V.- Acciones relevantes:
-
-1.- Por cada acción relevante en el servicio 10 puntos
-
-Para efectos de esta fracción, se entenderá por acción relevante, aquella que sea merecedora de una condecoración, o bien aquella que la propia Comisión considere como tal.
-
-VI.- Antigüedad:
-
-Antigüedad en el grado jerárquico que actualmente se (sic) desempeña el Miembro:
-
-1.- Más de tres años 10 puntos
-
-2.- De dos a tres años 05 puntos
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 58.
 
-Las reglas de aplicación de los factores escalafonarios y puntajes señaladas en el Artículo anterior, se determinarán en la disposición administrativa que para el efecto establezca el titular de la Dirección.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 59.
 
-Cuando el número de vacantes o plazas de nueva creación sea menor al número de solicitantes idóneos, la Comisión aplicará como factor de desempate, la antigüedad en la Institución Policial, debiendo ascender al Miembro que tenga más tiempo de servicio dentro de la misma.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
-Si una vez aplicado el factor mencionado en el párrafo anterior persiste el empate entre los Miembros, a criterio de la Comisión determinará en base al expediente personal a quien considere cuente con una mejor trayectoria en la Institución Policial.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
 
-#### Sección Tercera. De los Estímulos
+#### Sección Tercera
 
 ###### Artículo 60.
 
-Los estímulos constituyen aportaciones económicas en efectivo o en especie, de carácter no remunerativo ni prestacional, independientes de las percepciones ordinarias de los Miembros, por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficiencia en el desempeño de sus funciones.
-
-Dichas aportaciones se consideran, para todos los efectos legales, como percepciones extraordinarias, no constitutivas de sueldo, salario o ingreso fijo, regular o permanente, ni formarán parte de las remuneraciones que perciban los Miembros en forma ordinaria.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 61.
 
-El régimen de estímulos es el mecanismo por el cual la Institución Policial otorga el reconocimiento público a los Miembros por actos de servicio meritorios o por su trayectoria ejemplar, para fomentar la calidad y efectividad en el desempeño del servicio, incrementar las posibilidades de promoción y desarrollo de los Miembros, así como fortalecer su identidad institucional.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 62.
 
-Los estímulos se otorgarán a los Miembros por la Comisión, sujetándose a los principios de justicia, equidad, proporcionalidad y conforme a las disposiciones presupuestales, en la inteligencia de que por una misma acción no se podrá otorgar más de un estímulo, ni sumarse para otorgar otro.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 63.
 
-La Comisión podrá otorgar estímulos, dentro de las siguientes modalidades:
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
-I.- Miembro del Mes;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
 
-II.- Miembro del Año, y
-
-III.- Cualquier otro que en monto y naturaleza que determine la Comisión.
-
-#### Sección Cuarta. Del Procedimiento para el Otorgamiento de Estímulos
+#### Sección Cuarta
 
 ###### Artículo 64.
 
-Los requisitos para que los Miembros puedan ser objeto del otorgamiento de estímulos, serán los siguientes:
-
-I.- Estar en servicio activo, no encontrarse gozando de licencia, excepto la otorgada por enfermedad por actos relacionados con la prestación del servicio, en este caso la Comisión podrá otorgar el estímulo, que en su caso se hubiere resuelto;
-
-II.- Tener vigente la acreditación de los procesos de evaluación y de control de confianza, practicados por el Centro de Control de Confianza;
-
-III.- Obtener y mantener actualizado su Certificado Único Policial;
-
-IV.- No encontrarse en cualquiera de los supuestos previstos en el Artículo 76 de este Reglamento;
-
-V.- Haber observado buena conducta, y
-
-VI.- Los demás establezcan (sic) las disposiciones aplicables y la Comisión.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 65.
 
-El procedimiento para el otorgamiento de estímulos, se sujetará a lo siguiente:
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
-I.- La proporción, clase, periodicidad y reglas de aplicación de los estímulos otorgados a los Miembros, serán determinadas por acuerdo de la Comisión, mediante disposiciones generales que serán estrictamente supervisadas, las cuales serán inmediatamente notificadas por escrito al presidente del Comité para los efectos de que se desahogue el procedimiento establecido en la presente Sección;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
 
-II.- El Comité una vez notificado del acuerdo de la Comisión que determina las disposiciones generales para el otorgamiento de estímulos a los Miembros, contará con un plazo no mayor de quince días hábiles para revisar el expediente u hoja de servicio de los Miembros, verificar que cumplan con los requisitos a que se refiere el Artículo que precede, solicitar información, así como para proponer los aspirantes que cuenten con los requisitos para recibir el estímulo;
-
-III.- Cumplido lo anterior, el Comité remitirá a la Comisión el expediente con la documentación comprobatoria, a que se refiere la fracción que antecede, por cada Miembro aspirante para recibir el estímulo, y
-
-IV.- Una vez realizado lo anterior, la Comisión resolverá sobre el otorgamiento o no de los estímulos, en los términos previstos en su reglamento y demás normatividad aplicable.
-
-#### Sección Quinta. De las Condecoraciones
+#### Sección Quinta
 
 ###### Artículo 66.
 
-La condecoración es un reconocimiento extraordinario consistente en medalla y diploma, que la Comisión otorga para reconocer y destacar un acto o hecho específico de los Miembros en las acciones de valor probado, profesionalismo, conciencia cívica y sentido del honor en el ejercicio de sus funciones. Su fin es incentivar el cumplimiento de los altos valores de la función policial, fortalecer el servicio de carrera policial y de pertenencia a la Institución Policial.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 67.
 
-El otorgamiento de condecoraciones para los Miembros, podrá hacerse en vida o con posterioridad al fallecimiento de los mismos, para fomentar la permanencia en el cargo, la lealtad y la vocación del servicio, así como para exaltar el desempeño sobresaliente o la participación en acciones relevantes.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 68.
 
-Los Miembros, tendrán derecho a las condecoraciones señaladas y en los casos señalados en los Artículos 119 al 122 de la Ley de Seguridad Pública.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 69.
 
-La Condecoración al Mérito consiste en medalla y diploma, se conferirá a los Miembros, en casos señalados en el Artículo 122 de la Ley de Seguridad Pública.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 70.
 
-Queda prohibido a los Miembros portar condecoraciones que no hayan sido legítimamente concedidos. Las condecoraciones deberán portarse en el lado superior derecho en la región del pecho de la camisa del uniforme, por debajo de la bolsa.
-
-Las condecoraciones deberán portarse invariablemente en las ceremonias oficiales de la Institución Policial, o cuando así lo determine la Dirección.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 71.
 
-Toda condecoración otorgado (sic) por la Comisión será acompañado de una constancia que acredite el otorgamiento del mismo, la cual deberá ser agregada al expediente u hoja de servicio del Miembro y en su caso, con la autorización de portación de la condecoración correspondiente.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
-#### Sección Sexta. Del Procedimiento para el Otorgamiento de Condecoraciones
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
+
+#### Sección Sexta
 
 ###### Artículo 72.
 
-Los requisitos para que los Miembros puedan ser objeto del otorgamiento de condecoraciones, serán los siguientes:
-
-I.- Ser propuesto para el otorgamiento de alguna de las condecoraciones en los términos del presente Reglamento, sobre un hecho o acto específico;
-
-II.- Estar en servicio activo, no encontrarse gozando de licencia, excepto la otorgada por enfermedad por actos relacionados con la prestación del servicio, en este caso la Comisión podrá otorgar la condecoración que en su caso se hubiere resuelto;
-
-III.- Tener vigente la acreditación de los procesos de evaluación y de control de confianza, practicados por el Centro de Control de Confianza;
-
-IV.- Obtener y mantener actualizado su Certificado Único Policial;
-
-V.- No encontrarse en cualquiera de los supuestos previstos en el Artículo 76 de este Reglamento;
-
-VI.- Haber observado buena conducta, y
-
-VII.- Los demás establezcan (sic) las disposiciones aplicables y la Comisión.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 73.
 
-El procedimiento para el otorgamiento de condecoraciones, se sujetará a lo siguiente:
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
-I.- El Secretario, el Director, los titulares de las unidades policiales de la Institución Policial, y los Miembros que se consideren merecedores, podrán proponer mediante escrito dirigido a la Comisión, a quién sea susceptible de recibir alguna de las condecoraciones a que se refiere la Ley de Seguridad Pública y el presente Reglamento; la propuesta indicará los actos o hechos por lo que se considera al Miembro o Miembros merecedores de la condecoración solicitada. Si la propuesta proviene del propio Miembro, este deberá invariablemente de acompañar la documentación o elementos comprobatorios;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
 
-II.- La Comisión en un plazo no mayor de cinco días hábiles, notificará por escrito al Comité de la propuesta del Miembro aspirante a ser condecorado, a que se refiere la fracción que antecede; recibida la propuesta el Comité, contará con un plazo no mayor de diez días hábiles, para revisar el expediente u hoja de servicio del Miembro propuesto, verificar que cumpla con los requisitos a que se refiere el Artículo que precede, integrar en caso de existir el informe, parte informativo o documentos oficiales, en donde conste el hecho o acto específico propuesto. También podrá integrarse al expediente registro o evidencias publicadas o exhibidas en medios de comunicación masivos, donde conste el hecho o acto planteado;
-
-III.- Cumplido lo anterior, el Comité remitirá a la Comisión el expediente con la documentación comprobatoria, a que se hace referencia en la fracción que antecede, por cada Miembro propuesto a recibir condecoración, y
-
-IV.- Una vez realizado lo anterior, la Comisión resolverá sobre el otorgamiento o no de las condecoraciones, en los términos previstos en su reglamento y demás normatividad aplicable.
-
-#### Sección Séptima. Disposiciones Comunes para el Otorgamiento y Cancelación de Promociones, Estímulos y Condecoraciones
+#### Sección Séptima
 
 ###### Artículo 74.
 
-La entrega de promociones, estímulos y condecoraciones, los realizará el Secretario en su carácter de presidente de la Comisión, o por la persona que el mismo determine, en la fecha y lugar que para tal efecto señale la Comisión.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 75.
 
-Los Miembros podrán recibir, en su caso, estímulos, reconocimientos, recompensas o condecoraciones de otra institución de seguridad pública, institución policial o autoridad, ya sea nacional o extranjera, para cuyo efecto deberán solicitar a la Comisión, por conducto del Director la autorización correspondiente, además de cumplir con los requisitos establecidos en las disposiciones constitucionales y legales aplicables.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 76.
 
-Los Miembros que se encuentren suspendidos, o que hayan sido destituidos o inhabilitados como servidores públicos, en los términos de las disposiciones aplicables, no podrán ser acreedores para el otorgamiento de promoción, estímulos o condecoraciones. Asimismo los que hayan sido condenados por sentencia irrevocable de delito doloso o culposo calificado como grave por la ley, o estar sujetos a proceso penal por el mismo género de delitos, y/o estar disfrutando de licencia ordinaria, extraordinaria y por enfermedad, esta última con las salvedades que este Reglamento establece.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 77.
 
-No podrán otorgarse a un Miembro dos o más estímulos, o condecoraciones, de igual naturaleza por la realización del mismo hecho.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 78.
 
-Resuelto el otorgamiento de una promoción, estímulo o condecoración por la Comisión, deberá cancelarse su entrega cuando el Miembro se ubique en cualquiera de los siguientes supuestos:
-
-I.- Cuando deje de prestar el servicio;
-
-II.- Incumpla cualquiera de los requisitos o dejen de subsistir las condiciones que sirvieron de base para su otorgamiento, y
-
-III.- Cuando sea privado de sus derechos de conformidad con las disposiciones aplicables.
-
-En caso de licencia por enfermedad por actos relacionados con la prestación del servicio, podrá otorgar la Comisión, la promoción, estímulo o condecoración al que se hubiere resuelto entregado.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 79.
 
-En caso de incapacidad o fallecimiento del Miembro, la condecoración o estímulo, se entregará a las personas previamente designadas de conformidad con las disposiciones correspondientes por el mismo, y a falta de éstas se realizará en el siguiente orden de prelación:
-
-I.- Al cónyuge;
-
-II.- A la concubina o concubino;
-
-III.- A los hijos económicamente dependientes, y
-
-IV.- A los padres.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ### CAPÍTULO IX. Del Comité Interno de Evaluación
 
@@ -2185,9 +1851,13 @@ El uniforme operativo de la Institución Policial, se compone por lo menos de la
 
 I.- Tocado o gorra.- De color negro, con el sector de la Institución Policial al frente en el centro;
 
-II.- Guerrera.- Camisa táctica de corte recto tipo militar color azul marino de dos bolsas; portando la placa a la altura del pecho del lado superior izquierdo; el sector de la Institución Policial en manga izquierda a tres centímetros de la costura del hombro; contra sector de la unidad de adscripción del Miembro en manga derecha a tres centímetros de la costura del hombro; y las insignias en color dorado del grado ostentado en hombreras;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-III.- Playera tipo polo manga corta.- En color azul marino con la placa de pecho bordada al lado superior izquierdo, de conformidad con el diseño establecido en el Artículo 140 de este Reglamento; sector de la Institución Policial en manga izquierda a tres centímetros de la costura del hombro; contra sector de la unidad de adscripción del Miembro en manga derecha a tres centímetros de la costura del hombro; e insignias en color dorado;
+II.- Camisa Táctica de manga larga (Guerrera).- De corte recto tipo militar color azul marino de dos bolsas; portando la placa a la altura del pecho del lado superior izquierdo; el sector de la Institución Policial en manga izquierda a tres centímetros de la costura del hombro; contra sector de la unidad de adscripción del Miembro en manga derecha a tres centímetros de la costura del hombro; y las insignias en color dorado del grado ostentado en hombreras;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+III.- Camisa Táctica de manga corta.- De corte recto tipo militar color azul marino de dos bolsas; portando la placa a la altura del pecho del lado superior izquierdo; el sector de la Institución Policial en manga izquierda a tres centímetros de la costura del hombro; contra sector de la unidad de adscripción del Miembro en manga derecha a tres centímetros de la costura del hombro; y las insignias en color dorado del grado ostentado en hombreras;
 
 IV.- Camiseta.- En color azul marino, sin cuello.
 
@@ -2369,121 +2039,65 @@ El altavoz de la patrulla será utilizado exclusivamente para dar indicaciones a
 
 Se hará acreedor a la aplicación de las correcciones disciplinarias correspondientes y demás sanciones procedentes, al Miembro que contravenga las disposiciones establecidas en el presente Capítulo.
 
-### CAPÍTULO XIV. Del Régimen Disciplinario
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
 
-#### Sección Primera. De los Requisitos de Permanencia
+### CAPÍTULO XIV
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2016)</small>
+
+#### Sección Primera
 
 ###### Artículo 180.
 
-Para permanecer dentro de la Institución Policial, los Miembros además de los requisitos previstos en la Ley de Seguridad Pública, deberán cumplir con los siguientes:
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
-I.- Conservar los requisitos de ingreso, y
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
 
-II.- Abstenerse de falsificar, alterar, vender, prestar, destruir o usar indebidamente las divisas, insignias, sectores, contra sectores, placa, gafete, condecoraciones, reconocimientos, uniforme y sus prendas, vehículos oficiales, documentación oficial, y demás equipo reglamentario, previstos en la Ley de Seguridad Publica, la Ley, el presente Reglamento y demás normatividad aplicable.
-
-#### Sección Segunda. De las Obligaciones
+#### Sección Segunda
 
 ###### Artículo 181.
 
-Los Miembros, además de las obligaciones establecidas en la Ley de Seguridad Pública, la Ley, este Reglamento y demás disposiciones aplicables, cualquiera que sea su jerarquía y lugar de adscripción, tendrán dentro del ámbito de su competencia, las siguientes:
-
-I.- Ejecutar las actuaciones policiales en el desahogo de los procedimientos sistemáticos operativos siempre conduciéndose con dedicación y disciplina, respeto a los derechos humanos; así como con apego al orden jurídico, los acuerdos, órdenes generales, circulares y demás disposiciones aplicables;
-
-II.- Participar en operativos destinados a la prevención faltas administrativas y de comisión de delitos; así como para la investigación de estos últimos;
-
-III.- Utilizar las herramientas, mecanismos y equipo que sean necesarios en el cumplimiento de sus atribuciones;
-
-IV.- Presentar a toda persona detenida a la certificación médica correspondiente, con la inmediatez que sea posible, para los efectos legales a que haya lugar;
-
-V.- Aplicar los recursos humanos, materiales, financieros e informáticos asignados, exclusivamente a los fines de la función pública encomendada;
-
-VI.- Asistir en forma puntual al desempeño de su servicio o comisión, durante el horario que fije la superioridad y registrar personalmente el inicio y conclusión del mismo en los instrumentos de control de asistencia y puntualidad establecidos por la Institución Policial; asimismo, abstenerse de abandonar el servicio o comisión encomendada, antes de que llegue su relevo u obtenga la autorización correspondiente;
-
-VII.- Abstenerse de decir presente en el pase de lista, firmar o marcar dichos controles de asistencia, por algún otro Miembro, o cubrir o desempeñar, sin la autorización correspondiente, el servicio o comisión asignada a otro Miembro, excepto cuando por el servicio o la comisión encomendada así se requiera por su superior jerárquico;
-
-VIII.- Dar aviso a su superior inmediato, cuando se encuentre enfermo, remitiendo al área administrativa de la Institución Policial, a más tardar a las veinticuatro horas de que se reincorpore al servicio, la incapacidad médica correspondiente;
-
-IX.- Respetar las señales y demás dispositivos de tránsito, y usar sólo en caso necesario los estrobos, sirenas, torretas o altavoz de la unidad patrulla o vehículo a su cargo, evitando su uso injustificado;
-
-X.- Abstenerse de utilizar, la jerarquía o rango de un superior, para transmitir o comunicar una orden, siendo esta inexistente;
-
-XI.- Elaborar y entregar la bitácora o control documental que corresponda, al inicio y la conclusión de cada turno de servicio, respecto de la unidad, patrulla o equipo asignado; así como de cualquier desperfecto, extravió o daño sufrido a los mismos, de conformidad a las disposiciones aplicables;
-
-XII.- Acatar y realizar la formación al inicio y a la conclusión de cada turno para el pase de lista, de revista del personal y la asignación de consignas diarias, la cual deberá de cumplirse en posición de firmes y en absoluto respeto al superior jerárquico y en su caso al personal subordinado, de conformidad con las disposiciones aplicables;
-
-XIII.- Realizar el saludo policial de respeto al superior jerárquico, de conformidad con las disposiciones aplicables;
-
-XIV.- Presentarse a servicio el día y hora indicada por la superioridad, debidamente aseados, con uniforme completo y limpio, asimismo deberán portar todo su equipo y accesorios de manera limpia y en buen estado;
-
-XV.- Asistir los Miembros del sexo masculino a su servicio portando el cabello corto, en su parte trasera a la altura de la nuca y la longitud máxima de la patilla al nivel de media oreja; además, debidamente afeitados, se permite el uso del bigote recortado hasta el nivel del labio superior y los extremos hasta el nivel de la comisura de los labios, salvo por necesidad del servicio;
-
-XVI.- Asistir los Miembros del sexo femenino a su servicio portando el cabello recogido, si el mismo excede de la altura del hombro, aparte deberá estar entrelazado, con las orejas descubiertas; el rostro con maquillaje tenue; no se permite el uso de uñas largas, ni postizas, salvo por necesidad del servicio;
-
-XVII.- Abstenerse de teñirse el cabello distinto a los colores naturales del mismo, salvo por necesidad del servicio;
-
-XVIII.- Abstenerse durante el horario de servicio, de usar de cadenas, esclavas, anillos, aretes y cualquier otro tipo de joyería, con excepción del reloj de pulso, salvo por necesidad del servicio;
-
-XIX.- Abstenerse durante la prestación del servicio de utilizar accesorios en perforaciones cutáneas visibles portando el uniforme, y
-
-XX.- Las demás establecidas en la Ley, el presente Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 182.
 
-El incumplimiento a las obligaciones determinadas en el Artículo que precede se califica como no graves, se sancionarán con la imposición de cualquiera de las correcciones disciplinarias establecidas en la Ley. Se substanciarán y aplicarán en los términos de este Reglamento.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
-#### Sección Tercera. De las Correcciones Disciplinarias
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE ABRIL DE 2016)</small>
+
+#### Sección Tercera
 
 ###### Artículo 183.
 
-La imposición de cualquier corrección disciplinaria deberá, en todo momento encontrarse fundada y motivada, expresando el motivo de su aplicación, así como la necesidad de suprimir enérgicamente las conductas carentes de rectitud en que incurrió el Miembro.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 184.
 
-Cuando el Miembro cause daños de acuerdo a lo previsto en la fracción IV del Artículo 143 de la Ley de Seguridad Pública, estará obligado a la reparación de los mismos, en los términos de las disposiciones aplicables. Cuando causaren daños materiales a la Institución Policial, además de la corrección disciplinaria, se le requerirá la reparación del mismo.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 185.
 
-Para garantizar la debida prestación del servicio de seguridad pública y fomentar la disciplina de los Miembros, quién ejerza el mando directo en la Institución Policial, el titular de la Subdirección a la que pertenezca el Miembro o el superior inmediato del Miembro, substanciarán el procedimiento para la imposición y aplicación de las correcciones disciplinarias, mismo que se regirá por los principios de inmediatez procesal, garantía de audiencia y sin mayores requisitos que los que se establecen en este Reglamento.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 186.
 
-El procedimiento para la substanciación y aplicación de las correcciones disciplinarias, se efectuará en los términos y condiciones siguientes:
-
-I.- Cuando se tenga conocimiento de la existencia de presuntas obligaciones incumplidas cometidas por algún Miembro, se llamará de manera verbal o por escrito para que acuda ante la presencia de quién ejerza el mando directo en la Institución Policial, el titular de la Subdirección a la que pertenezca el Miembro o el superior inmediato del Miembro;
-
-II.- Quien ejerza el mando directo en la Institución Policial, el titular de la Subdirección a la que pertenezca el Miembro o el superior inmediato del Miembro, le señalará al Miembro la presunta obligación incumplida y le concederá el uso de la voz en ese momento para que manifieste lo que considere pertinente y en su caso ofrezca pruebas que tengan relación con la falta disciplinaria imputada;
-
-III.- Quien ejerza el mando directo en la Institución Policial, el titular de la Subdirección a la que pertenezca el Miembro o el superior inmediato del Miembro, después de tomar en consideración las actuaciones de cargo existentes, los argumentos del Miembro y en su caso las pruebas ofrecidas, determinará en ese momento la procedencia o no de la imposición de correcciones disciplinarias, en su caso la sanción impuesta, fundando y motivando su determinación.
-
-De la resolución de imposición de la corrección disciplinaria, quedará constancia por escrito, de los hechos que le dieron origen, las actuaciones de cargo existentes, los argumentos expuestos por el Miembro y en su caso, las pruebas que ofreció, los motivos para la emisión de la corrección; así como los preceptos en que se funde la misma y la fecha en que se impone, además de su notificación al Miembro. Si la imposición de la corrección se tratare de arresto, deberá indicarse la duración y el lugar del mismo;
-
-IV.- Una vez resuelta la imposición de la corrección disciplinaria, esta se ejecutará de manera inmediata, por quien ordene el que imponga la sanción;
-
-V.- Quien imponga la sanción remitirá para conocimiento del Director de manera inmediata, copia de la resolución respectiva, así como al titular del área jurídica de la Institución Policial y al titular de la Subdirección Administrativa para los efectos correspondientes, y
-
-VI.- Quien imponga la sanción podrá designar a personal para auxiliar en la substanciación de los procedimientos para la aplicación de las correcciones disciplinarias y practicar las notificaciones.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 187.
 
-Después de la aplicación de correctivos disciplinarios, el Director o quien los haya impuesto, girará las instrucciones necesarias para que se realicen las anotaciones pertinentes en el expediente personal del Miembro, además de informar de inmediato a la contraloría interna de la Secretaría, sobre la aplicación de dichas correcciones disciplinarias, para los efectos legales correspondientes.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 188.
 
-En los casos en que se imponga como corrección disciplinaria el arresto, éste podrá cumplirse en las oficinas, celdas o el lugar que determine el superior jerárquico que lo haya ordenado. Invariablemente si la sanción impuesta debe cumplirse en celdas, estas deberán ser distintas a las asignadas para personas aseguradas, procurando que sea en un lugar que permita su vigilancia, por parte del superior jerárquico autorizado para tal efecto. Así mismo deberá señalarse en la boleta de internación, la fecha en la que se lleve a cabo el arresto, así como del término que el mismo comprenda.
-
-Cumplido que sea el arresto deberá indicarse, en documento por separado, la fecha y hora de liberación, entregándose copia al Miembro.
-
-Durante el término que dure el arresto, no se generará prestación alguna a favor del Miembro.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 189.
 
-La imposición de las correcciones disciplinarias contenidos en este ordenamiento e impuestos a los Miembros, se hará con total independencia de cualquier otro tipo de responsabilidad en la que éstos hubieren incurrido con la conducta imputada.
-
-Solo se impondrá una corrección disciplinaria, por cada obligación incumplida.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ###### Artículo 190.
 
-En los casos en que quien deba aplicar una corrección disciplinaria a un Miembro, guarde con este alguna relación de parentesco, amistad o enemistad manifiesta, deberá excusarse de la aplicación del mismo, comunicándolo a su superior inmediato a la mayor brevedad posible, a efecto de que sea este último quien aplique el correctivo de que se trate.
+(DEROGADO, P.O. 29 DE ABRIL DE 2016)
 
 ### CAPÍTULO XV. De la Investigación para la Prevención
 
@@ -2680,3 +2294,9 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 14 DE MARZO DE 2014.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 149 FRACCIONES II Y III; Y SE DEROGAN EL CAPÍTULO VIII DENOMINADO “DE LAS PROMOCIONES, ESTÍMULOS Y CONDECORACIONES”, Y EL CAPÍTULO XIV, LLAMADO “DEL RÉGIMEN DISCIPLINARIO, TODOS DEL REGLAMENTO DE LA LEY DE LA POLÍCIA ESTATAL PREVENTIVA DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
