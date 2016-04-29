@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-aguas-para-el-estado-libre-y-soberano-de-guerrero-27269"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-03"
-last_updated: "2008-11-18"
+last_updated: "2016-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 574
 
-LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 574
+LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 574
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de enero de 2003.
 
@@ -2811,6 +2811,10 @@ En caso de segunda reincidencia se aplicará el 200% del monto originalmente imp
 
 En el caso de las infracciones previstas en las fracciones IX y XI del artículo 169 de esta Ley, se suspenderá el servicio por parte de la Comisión, los Ayuntamientos u Organismos Operadores hasta en tanto se regularice el pago.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2016)</small>
+
+El presunto infractor contará con un plazo de treinta días naturales contados a partir de la fecha en que la Comisión, el Ayuntamiento u Organismo Operador le notifique la mora en que hubiere incurrido y por la cual se le suspendería el servicio, para presentar pruebas que acrediten estar al corriente en sus pagos; negociar plazos o quitas a fin de cubrir lo adecuado, cuando el monto de lo debido lo amerite; o para realizar, lisa y llanamente, los pagos omitidos.
+
 La suspensión será sin perjuicio del cobro y ejecución de los créditos fiscales no cubiertos en la prestación de los servicios, así como de la responsabilidad civil, penal o administrativa en que se haya incurrido.
 
 ###### ARTICULO 179.
@@ -3020,3 +3024,15 @@ El reglamento de esta Ley, así como los reglamentos internos de los Organismos 
 ###### ARTÍCULO CUARTO.
 
 Se abrogan todas las disposiciones jurídicas que se contrapongan al presente.
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 194 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EL ACTUAL, AL ARTÍCULO 178 DE LA LEY DE AGUAS PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 574”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página de internet de este Poder Legislativo.
