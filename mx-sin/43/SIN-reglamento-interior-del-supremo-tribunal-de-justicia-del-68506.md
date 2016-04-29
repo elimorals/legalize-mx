@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-supremo-tribunal-de-justicia-del-68506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-11"
-last_updated: "2014-10-29"
+last_updated: "2016-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de mayo de 2009.
 
@@ -1359,15 +1359,33 @@ II. Un Administrador de Proyectos y Estándares Tecnológicos;
 
 III. Un Administrador de Bienes Informáticos;
 
-IV. Un Departamento de Sistemas de Información de Desarrollo Administrativo;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-V. Un Departamento de Sistemas de Información de Apoyo jurisdiccional;
+IV. Un Administrador de Tecnologías de la Información y Comunicaciones;
 
-VI. Departamentos de Tecnologías de la Información y Comunicaciones Regionales;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
 
-VII. Un Departamento de Administración de Bases de Datos y Dominios; y,
+V. Un Administrador de Desarrollo de Software;
 
-VIII. El demás personal de soporte técnico y administrativo que se requiera conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+VI. Un Departamento de Sistemas de Información y Desarrollo Administrativo;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+VII. Un Departamento de Sistemas de Información de Apoyo Jurisdiccional;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+VIII. Departamentos de Tecnologías de la Información y Comunicaciones Regionales;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+IX. Un Departamento de Redes y Telecomunicaciones; y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2016)</small>
+
+X. El demás personal de soporte técnico y administrativo que se requiera conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -1497,17 +1515,63 @@ IV. Llevar a cabo la documentación de los procesos administrativos, y,
 
 V. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Pleno o del Presidente.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2016)</small>
+
+#### SECCIÓN III BIS. ADMINISTRADOR DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2016)</small>
+
+###### Artículo 76 Bis.
+
+Son atribuciones del Administrador de Tecnologías de la Información y Comunicaciones, las siguientes:
+
+l. Coordinarse con las áreas de Tecnologías de la Información y Comunicaciones Regionales, y la Unidad Redes y Telecomunicaciones;
+
+II. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+
+III. Administrar los programas de implementación de nuevas tecnologías, sistemas, mantenimientos, y cumplimiento del Manual de Políticas y Estándares de Seguridad;
+
+IV. Unificar criterios para la resolución de problemas de carácter tecnológico en los órganos jurisdiccionales y administrativos del Poder Judicial;
+
+V. Supervisar el funcionamiento óptimo de la infraestructura tecnológica del Poder Judicial; y,
+
+VI. Las demás que acuerde el Pleno, el Presidente, o el Director.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2016)</small>
+
+#### SECCIÓN III BIS-A. ADMINISTRADOR DE DESARROLLO DE SOFTWARE
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2016)</small>
+
+Artículo 76 Bis A. Son atribuciones del Administrador de desarrollo de software, las siguientes:
+
+l. Coordinarse con las áreas de sistemas de información jurisdiccionales y administrativos, diseño gráfico y portal de internet;
+
+II. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+
+I (SIC). Analizar y diseñar las bases de datos para los sistemas informáticos;
+
+II. Recopilar archivos y bases de datos de cada dependencia a su cargo para actualizar el banco de datos regional;
+
+III. Crear y operar el plan de respaldos de archivos y base de datos y recuperar información respaldada;
+
+IV. Optimizar el desempeño de las bases de datos;
+
+V. Cuidar la integridad de la información;
+
+VI. Administrar y actualizar los sitios webs del Poder Judicial;
+
+VII. Coordinar los proyectos de diseño gráfico institucionales;
+
+VIII. Atender las solicitudes de diseños gráficos y elaboración de prototipos diversos del Poder Judicial;
+
+IX. Diseñar y producir material de multimedia del Poder Judicial; y,
+
+X. Las demás que acuerde el Pleno, el Presidente, o el Director.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 #### SECCIÓN IV. DEL DEPARTAMENTO DE SISTEMAS DE INFORMACIÓN PARA EL DESARROLLO ADMINISTRATIVO
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
-
-#### SECCIÓN V. DEL DEPARTAMENTO DE SISTEMAS DE INFORMACIÓN DE APOYO JURISDICCIONAL
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
-
-#### SECCIÓN VI. DE LOS DEPARTAMENTOS DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES REGIONALES ZONA NORTE, CENTRO Y SUR
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
@@ -1539,9 +1603,9 @@ XI. Las demás que acuerde el Pleno, el Presidente, o el Director.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-#### SECCIÓN VII. DEL DEPARTAMENTO DE ADMINISTRACIÓN DE BASES DE DATOS Y DOMINIO
+#### SECCIÓN V. DEL DEPARTAMENTO DE SISTEMAS DE INFORMACIÓN DE APOYO JURISDICCIONAL
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 77 Bis.
 
@@ -1573,7 +1637,9 @@ XII. Las demás que acuerde el Pleno, el Presidente, o el Director.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-#### SECCIÓN I. DE LOS VISITADORES
+#### SECCIÓN VI. DE LOS DEPARTAMENTOS DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES REGIONALES ZONA NORTE, CENTRO Y SUR
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 78.
 
@@ -1625,49 +1691,37 @@ XVI. Brindar asesoría y servicios de soporte técnico a usuarios;
 
 XVII. Las demás que acuerde el Pleno, el Presidente o el Director.
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2016)</small>
 
-#### SECCIÓN I. DEL COORDINADOR DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
+#### SECCIÓN VII. DEL DEPARTAMENTO DE REDES Y TELECOMUNICACIONES
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2016)</small>
 
 ###### Artículo 80.
 
-Son atribuciones del Jefe de Departamento de Administración de Bases de Datos y Dominio, las siguientes:
+Son atribuciones del Jefe de Departamento de Administración de Redes y Telecomunicaciones, las siguientes:
 
-I. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+l. Auxiliar al Administrador de Tecnologías de la Información y Comunicaciones en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
 
-II. Analizar y diseñar las bases de datos para los sistemas informáticos;
+II. Dar seguimiento y vigilar el buen funcionamiento de la arquitectura de las redes y telecomunicaciones del Poder Judicial;
 
-III. Garantizar la seguridad de la información actualizando los sistemas de protección contra acciones que representen amenazas;
+III. Integrar y mantener actualizada la documentación técnica de los servidores de red, recursos compartidos y usuarios;
 
-IV. Recopilar archivos y bases de datos de cada dependencia a su cargo para actualizar el banco de datos regional;
+IV. Supervisar el correcto funcionamiento de los servidores de red del Poder Judicial;
 
-V. Crear y operar el plan de respaldos de archivos y base de datos y recuperar información respaldada;
+V. Operar el plan de respaldos de archivos y base de datos, y recuperar información respaldada;
 
-VI. Integrar y mantener actualizada la documentación técnica de los recursos compartidos de red, permisos y usuarios;
+VI. Vigilar el correcto funcionamiento de los enlaces de comunicaciones de la red del Poder Judicial y realizar los mantenimientos correctivos a las mismas;
 
-VII. Implementar y administrar el sistema de Seguridad Informática y el despliegue de políticas del Poder Judicial;
+VII. Controlar el acceso de usuarios a la red y permisos a los recursos compartidos;
 
-VIII. Controlar el acceso de usuarios a la red y permisos a los recursos compartidos;
+VIII. Aplicar mantenimientos preventivos y correctivos a servidores y redes del Poder Judicial;
 
-IX. Mantener los equipos de cómputo libres malware;
+IX. Implementar y administrar el sistema de Seguridad Informática y el despliegue de políticas del Poder Judicial;
 
-X. Optimizar el desempeño de las bases de datos;
+X. Mantener el correcto funcionamiento del servicio antivirus de los equipos informáticos; y,
 
-XI. Cuidar la integridad de la información;
-
-XII. Implementar políticas de seguridad, privilegios y despliegues del dominio;
-
-XIII. Administrar y actualizar los sitios webs del Poder Judicial;
-
-XIV. Coordinar los proyectos de diseño gráfico institucionales;
-
-XV. Mantener el correcto funcionamiento del servicio antivirus de los equipos informáticos;
-
-XVI. Atender las solicitudes de diseños gráficos y elaboración de prototipos diversos del Poder Judicial;
-
-XVII. Diseñar y producir material de multimedia del Poder Judicial; y,
-
-XVIII. Las demás que acuerde el Pleno, el Presidente, o el Director.
+XI. Las demás que acuerde el Pleno, el Presidente, el Director o el Administrador de Tecnologías de la Información y Comunicaciones.
 
 ###### Artículo 81.
 
@@ -1682,6 +1736,8 @@ La Visitaduría Judicial es un órgano auxiliar del Supremo Tribunal, competente
 ###### Artículo 83.
 
 La Visitaduría, para el despacho de los asuntos de su competencia, contará con los Visitadores Judiciales que sean necesarios y el personal que se requiera conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
+
+#### SECCIÓN I. DE LOS VISITADORES
 
 ###### Artículo 84.
 
@@ -1716,6 +1772,8 @@ El acta levantada por el visitador será entregada al titular del órgano visita
 El Pleno o el Presidente, en su caso, podrán ordenar a la Visitaduría Judicial la práctica de visitas extraordinarias de inspección.
 
 ### CAPÍTULO V. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DE SU COMPETENCIA Y ORGANIZACIÓN
+
+#### SECCIÓN I. DEL COORDINADOR DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 87.
 
@@ -1755,7 +1813,7 @@ LIC. RAFAEL RODRÍGUEZ OVALLE.
 
 Secretario de Acuerdos
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 24 DE FEBRERO DE 2012.
 
@@ -1798,6 +1856,18 @@ P.O. 29 DE OCTUBRE DE 2014.
 ###### ARTICULO PRIMERO.
 
 El presente Acuerdo entrará en vigor el día tres de noviembre de dos mil catorce.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES DE LA IV A LA VIII DEL ARTÍCULO 73; EL NOMBRE DE LA SECCIÓN VII Y EL ARTÍCULO 80; SE ADICIONAN LAS FRACCIONES IX Y X DEL ARTÍCULO 73; LA SECCIÓN III BIS, ARTÍCULO 76 BIS, SECCIÓN III BIS-A Y ARTÍCULO 76 BIS-A, AL CAPÍTULO III DEL TÍTULO CUARTO; DEL REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día de su aprobación.
 
 ###### ARTICULO SEGUNDO.
 
