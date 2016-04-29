@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-del-servicio-civil-de-carrera-de-la-auditoria-95465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-09"
-last_updated: "2013-08-09"
+last_updated: "2016-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DE LA AUDITORÍA GENERAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DE LA AUDITORÍA GENERAL DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 9 de agosto de 2013.
 
@@ -1120,3 +1122,29 @@ C E R T I F I C A:
 QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COMPUESTAS DE CUARENTA Y CUATRO FOJAS ÚTILES RELATIVAS AL REGLAMENTO DEL SERVICIO CIVIL DELCARRERA (SIC), DE LA AUDITORIA GENERAL DEL ESTADO; ES UN DOCUMENTO QUE CONCUERDA FIELMENTE CON SU ORIGINAL QUE SE TUVO A LA VISTA Y QUE OBRAN EN LOS ARCHIVOS DE ESTA AUDITORÍA GENERAL DEL ESTADO, LO QUE SE CERTIFICA PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE CHILPANCINGO DE LOS BRAVO, GUERRERO, A LOS NUEVE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL TRECE. DOY FE
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DE LA AUDITORÍA GENERAL DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento del Servicio Civil de Carrera de la Auditoría General del Estado publicado en el Periódico Oficial del Gobierno del Estado de Guerrero número 64, año XCIV, el día viernes nueve de agosto del dos mil trece.
+
+###### ARTÍCULO TERCERO.
+
+El Comité del Servicio Civil de Carrera determinará la gradualidad en que entrará en Operación el Servicio, de conformidad a la disponibilidad presupuestal.
+
+###### ARTÍCULO CUARTO.
+
+Los casos no previstos por este Reglamento serán resueltos por el Comité Directivo del Servicio Civil de Carrera.
+
+###### ARTÍCULO QUINTO.
+
+Para la reforma o modificación del presente Reglamento, será el Presidente del Comité quien podrá emitir convocatoria para la realización de una sesión especial para tal efecto.
