@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-estatal-de-informacion-92261
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-25"
-last_updated: "2013-05-24"
+last_updated: "2016-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de enero de 2013.
 
@@ -670,3 +672,15 @@ Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
 
 Tercero. El Presidente atendiendo a la suficiencia presupuestaria determinará el número de actuarios adscritos a la Secretaría de Acuerdos y Proyectos.
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO".]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo. Se abroga el Reglamento Interior de la Comisión Estatal de Información Gubernamental del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 25 de enero de 2013.
+
+Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Cuarto. En tanto se realicen los ajustes administrativos correspondientes para integrar las Ponencias, la Secretaría Ejecutiva desahogará en auxilio de los integrantes del Pleno las diligencias y elaborará la integración de los procedimientos que se desahoguen ante la Comisión.
