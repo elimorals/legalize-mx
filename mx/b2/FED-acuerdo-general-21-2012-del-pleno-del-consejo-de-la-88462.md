@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2012-del-pleno-del-consejo-de-la-88462"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-07-03"
-last_updated: "2015-09-25"
+last_updated: "2016-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,13 @@ issue_date: "2012-06-27"
 
 ACUERDO GENERAL 21/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELACIONADO CON "EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2012.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
 ACUERDO GENERAL 21/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELACIONADO CON "EL PROGRAMA DE PRACTICAS JUDICIALES EN LOS ORGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL".
 
@@ -49,7 +51,13 @@ QUINTO. Con el propósito de ayudar a estudiantes y personas que realicen práct
 
 SEXTO. El Consejo de la Judicatura Federal, coincide con el ánimo de atender el interés de los estudiantes de Derecho de consolidar la cultura jurídica y de legalidad, por lo que asume la responsabilidad de implementar los estímulos correspondientes a través de un programa de apoyo a estudiantes, absorbiendo el costo económico de los mismos;
 
-SEPTIMO. Para este efecto, el criterio que se adopta para el apoyo económico, toma como base el salario mínimo vigente del área geográfica “A” ($62.33) para 2012, determinado por el Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos, cantidad que se redondea a $2,000.00 (dos mil pesos 00/100 M.N.) netos, que le corresponderán a cada estudiante en forma mensual, cantidad que será pagada con cargo a la Partida correspondiente del Presupuesto de Egresos del Consejo de la Judicatura Federal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CONSIDERANDO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
+
+SEPTIMO. Para este efecto, el criterio que se adopta para el apoyo económico, toma como base el valor mensual de la Unidad de Medida y Actualización conforme a lo dispuesto en el artículo segundo transitorio del decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo. Esta cantidad se actualizará conforme al procedimiento previsto en el transitorio quinto del citado decreto.
+
+Para tal efecto, deberá dotarse de recursos presupuestales suficientes para hacer frente a ese nuevo requerimiento, para lo cual deberá instruirse a la Dirección General de Programación y Presupuesto para que realice los movimientos presupuestales que correspondan para tal fin.
 
 En virtud de todo lo anteriormente expuesto y con fundamento en el artículo 100 de la Constitución Política de los Estados Unidos Mexicanos, y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, se expide el siguiente
 
@@ -59,15 +67,19 @@ Artículo Primero. El Consejo de la Judicatura Federal aprueba la aplicación de
 
 Queda prohibida la ocupación de meritorios y personas que presten servicios o realicen actividades propias del servicio judicial, sin recibir remuneración o apoyo económico alguno procedente del Consejo de la Judicatura Federal. Los que deseen realizar prácticas judiciales, deberán incluirse en el Programa materia de este Acuerdo General.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
 
-Artículo Segundo. El Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares. Se distribuirá 1 participante por cada ponencia de los tribunales Colegiados de Circuito; 1 por tribunal Unitario, 2 por juzgado de Distrito, incluyendo a los jueces de Distrito y tribunales unitarios adscritos a los Centros de Justicia Penal Federal. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo.
+Artículo Segundo. El Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares.
 
-Corresponde al Instituto de la Judicatura la coordinación del Programa de Prácticas Judiciales.
+Se distribuirá dependiendo de sus cargas de trabajo; de 1 y hasta 2 participantes por cada ponencia de los tribunales Colegiados de Circuito; 1 y hasta 2 por tribunal Unitario, 2 y hasta 4 por juzgado de Distrito, incluyendo a los jueces de Distrito y tribunales unitarios adscritos a los Centros de Justicia Penal Federal. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Previo análisis que se haga de las cargas de trabajo, la Dirección General de Estadística Judicial deberá emitir un dictamen a efecto de que determine si es o no procedente la solicitud de incrementar el número de participantes en el Programa de “Prácticas Judiciales” en el órgano jurisdiccional de que se trate.
+
+Corresponde al Instituto de la Judicatura Federal la coordinación del Programa de Prácticas Judiciales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -79,7 +91,11 @@ El Instituto de la Judicatura podrá llevar a cabo el reclutamiento y selección
 
 b) Recepción de Documentos: Cada magistrado de Circuito o juez de Distrito señalará la fecha y lugar de recepción de documentos y solicitudes, así como los resultados de la selección;
 
-c) Duración del apoyo económico: Doce meses, sin posibilidad de prórroga, y en tanto que el alumno se mantenga como estudiante activo y dentro del promedio exigido o su equivalente previsto en el artículo cuarto, inciso e) de este Acuerdo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
+
+c) Duración del apoyo económico: Hasta veinticuatro meses y en tanto sea alumno regular de la carrera de Licenciatura en Derecho o su equivalente. Este plazo podrá prorrogarse hasta por seis meses más después de haber concluido el plan de estudios;
 
 d) Formalización: A través de suscripción de la Carta Compromiso, elaborada por la Dirección General de Asuntos Jurídicos y de la validación documental del área encargada de coordinar el Programa de Prácticas Judiciales en el Instituto de la Judicatura, quien publicará mensualmente en su página de Internet, la relación de alumnos incorporados al Programa, y generará la identificación de manera centralizada para ser enviada al estudiante para iniciar sus prácticas; y
 
@@ -91,15 +107,19 @@ a) Suscribir la Carta Compromiso;
 
 b) Observar buena conducta dentro y fuera del órgano jurisdiccional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+c) (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)
 
-c) Acreditar haber aprobado cuando menos el 60% y hasta el 80% de los créditos de la Licenciatura en Derecho o su equivalente y haber obtenido un promedio general no menor de 80 en una escala de cero a cien. Siempre y cuando, conforme al plan de estudios respectivo, la conclusión de los estudios se lleve a cabo de forma posterior a los doce meses del Programa;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-d) Ser alumno regular del ciclo escolar respectivo;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
 
-e) Mantener un buen desempeño académico, con un promedio mínimo de 80 de calificación o su equivalente en el ciclo de estudios inmediato anterior, mientras participe en el Programa;
+d) Mantener la calidad de alumno regular de la carrera de Licenciatura en Derecho o su equivalente mientras participa en el Programa, lo cual incluye hasta seis meses después de haber concluido el plan de estudios;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+e) (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)
 
 f) Cumplir con las actividades que le sean asignadas;
 
@@ -169,15 +189,21 @@ Artículo Décimo. Los estudiantes beneficiados podrán cubrir las licencias que
 
 El apoyo económico al que hace referencia el artículo tercero, inciso c) de este Acuerdo, será suspendido mientras el estudiante cubra la licencia por sustitución.
 
-El tiempo que dure la sustitución por licencia no será computado como parte del tiempo de la práctica judicial, por lo cual, la fecha de conclusión de las prácticas judiciales será al cumplir el plazo de doce meses que comprende el Programa de Prácticas Judiciales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-No obstante lo dispuesto en los párrafos anteriores, si el estudiante tiene un promedio menor a 80 en una escala de cero a cien o culmine sus estudios no podrá reintegrarse al Programa de Prácticas Judiciales.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El tiempo que dure la sustitución por licencia no será computado como parte del tiempo de la práctica judicial, por lo cual, la fecha de conclusión de las prácticas judiciales será al cumplir el plazo respectivo del Programa de Prácticas Judiciales, el cual será de hasta veinticuatro meses.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Artículo Décimo Primero. En caso de que un participante cause baja del Programa de manera anticipada, se podrá postular a un nuevo estudiante que cumpla con los requisitos quien, de ser aceptado, podrá participar en el Programa hasta por doce meses.
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2016)</small>
+
+Artículo Décimo Primero. En caso de que un participante cause baja del Programa de manera anticipada, se podrá postular a un nuevo estudiante que cumpla con los requisitos quien, de ser aceptado, podrá participar en el Programa hasta por veinticuatro meses.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -212,3 +238,15 @@ PRIMERO. El presente Acuerdo entrará en vigor a los 30 días siguientes de su p
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR 21/2012, RELACIONADO CON EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los 30 días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Todos aquellos convenios celebrados por el Consejo de la Judicatura Federal con Universidades y Fundaciones que se encuentren vigentes al momento de la entrada en vigor de este Acuerdo, podrán ser modificados en todo aquello que beneficie a los participantes del Programa de Prácticas Judiciales.
+
+CUARTO. La duración de las prácticas judiciales que ya se estén llevando a cabo se extenderá de doce hasta veinticuatro meses, y podrá prorrogarse en las condiciones previstas en los términos del presente Acuerdo General. Asimismo, estas prácticas judiciales podrán ser modificadas en todo aquello que beneficie a los participantes de conformidad con este Acuerdo.
