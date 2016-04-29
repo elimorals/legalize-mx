@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2015-12-15"
+last_updated: "2016-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -9279,43 +9279,41 @@ b) Por el análisis y calificación para la renovación anual del registro de fu
 
 c) La expedición de certificados de antecedentes penales 2.44 S.M.G.
 
-> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 207-U.
 
-Es objeto de este derecho, el servicio especial prestado por convenio o contrato por la Unidad de Servicios Especiales de Vigilancia dependiente de la Secretaría de Gobierno.
+Es objeto de este derecho, el Servicio Especial prestado por convenio o contrato por la Unidad de Servicios Especiales de Vigilancia, dependiente de la Secretaría de Seguridad Pública. Se entiende por Servicios Especiales de Vigilancia, aquellos de carácter policial en los que su ejecución contribuye al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como la protección a funcionarios y personas en general.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 207-V.
 
-Son sujetos de este derecho, las personas físicas o morales que requieran y soliciten en forma periódica, eventual o permanente la intervención de la Unidad de Servicios Especiales de Vigilancia descrita en el artículo anterior.
+Son sujetos de este derecho, las personas físicas o morales que requieran y soliciten en forma periódica, eventual o permanente la intervención de la Unidad de Servicios Especiales de Vigilancia.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 207-W.
 
-Este derecho se causará y pagará en las oficinas recaudadoras de rentas correspondientes o a través de los depósitos o transferencias bancarias en las cuentas que determine la Secretaría, al día hábil siguiente a la firma del convenio o en las fechas que se establezcan en los contratos de acuerdo a la siguiente tarifa:
+Este derecho se causará y pagará en las oficinas recaudadoras de rentas correspondientes o a través de los depósitos o transferencias bancarias en las cuentas que determine la Secretaría de Finanzas y Planeación del Gobierno del Estado, al día hábil siguiente a la firma del convenio o en las fechas que se establezcan en los contratos, por la prestación de los siguientes servicios y la correspondiente tarifa:
 
-I. Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, de doce horas diarias de vigilancia especial de instalaciones, por cada elemento, se causará la cantidad de 12.4 SMG, pagaderos en términos de lo establecido en los contratos que se suscriban.
+I. Por el servicio de vigilancia especial de instalaciones por el tiempo de doce horas diarias, se causará por cada elemento la cantidad de 12.4 SMG, pagaderos en términos de lo establecido en los contratos que se suscriban;
 
-II. Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, por doce horas diarias de protección de personas, se causará por cada elemento, la cantidad de 25.0 SMG, pagaderos en términos de lo establecido en los contratos que se suscriban.
+II. Por el servicio de protección de personas por el tiempo de doce horas diarias se causará por cada elemento, la cantidad de 25.0 SMG, pagaderos en términos de lo establecido en los contratos que se suscriban.
 
-III. Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, por la custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1.0 SMG, por cada 3 kilómetros de recorrido.
+III. Por el servicio de custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1.0 SMG, por cada 3 kilómetros de recorrido.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 207-X.
 
-Las personas físicas o morales que requieran del Servicio Especial de Vigilancia deberán solicitarlo por escrito dirigido a la Unidad de Servicios Especiales de Vigilancia indicando el número de elementos que le deberán ser asignados, la fecha de inicio y terminación del servicio especial de vigilancia requerido, domicilio en el cual se llevará a cabo la ejecución del servicio y nombre, denominación o razón social y domicilio del contratante beneficiario del servicio especial de vigilancia.
+Las personas físicas o morales que requieran del Servicio Especial de Vigilancia deberán solicitarlo por escrito dirigido a la Unidad de Servicios Especiales de Vigilancia indicando el tipo de servicio requerido, el número de elementos que le deberán ser asignados, la fecha de inicio y terminación del mismo, el domicilio en el cual se llevará a cabo la ejecución del servicio, el nombre del solicitante o la denominación o razón social y el domicilio del beneficiario del servicio.
 
-Se entiende como Servicios Especiales de Vigilancia, aquellos que sean requeridos por las personas físicas o morales y que su ejecución contribuya al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como protección a funcionarios y personas en general.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADO, P.O. 29 DE ABRIL DE 2016)</small>
 
 ### CAPITULO XXXI. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2016, PÁGINA 3.]</small>
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -9323,7 +9321,9 @@ Se entiende como Servicios Especiales de Vigilancia, aquellos que sean requerido
 
 #### SECCIÓN PRIMERA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SERVICIOS DEL PERIÓDICO OFICIAL DEL ESTADO
 
@@ -11062,3 +11062,13 @@ TERCERO. Las obligaciones y derechos derivados del Capítulo III del Título II 
 CUARTO. Las referencias que se efectúen en otras disposiciones legales al Impuesto Sobre Nóminas contenido en el Capítulo III del Título II de la Ley de Hacienda del Estado de Quintana Roo que se deroga se entenderán efectuadas a dicho impuesto previsto en la Ley del Impuesto Sobre Nóminas del Estado de Quintana Roo.
 
 QUINTO. El presente Decreto entrará en vigor a partir del 1° de Enero de 2016, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 396 POR EL CUAL SE REFORMAN LOS ARTÍCULOS 207 U, 207 V, 207 W Y 207 X TRASLADANDO EL CONTENIDO DE LOS MISMOS AL CAPÍTULO XXX DENOMINADO "POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA", Y SE DEROGA EL CAPÍTULO XXXI DENOMINADO "POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO", TODOS DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO; Y SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 31; SE REFORMAN LAS FRACCIONES XXVIII, XXIX Y SE ADICIONA LA FRACCIÓN XXX DEL ARTÍCULO 46 TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deberán realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Quintana Roo y a las demás disposiciones reglamentarias que regulen sobre los Servicios Especiales de Vigilancia, en los términos del presente decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
