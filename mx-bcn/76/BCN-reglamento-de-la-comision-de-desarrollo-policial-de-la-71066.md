@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-comision-de-desarrollo-policial-de-la-71066"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2009-11-13"
+last_updated: "2016-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA COMISION DE DESARROLLO POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DE LA COMISION DE DESARROLLO POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE LA COMISIÓN DE DESARROLLO POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LAS INSTITUCIONES POLICIALES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -390,3 +392,45 @@ SECRETARIO GENERAL DE GOBIERNO
 DANIEL DE LA ROSA ANAYA
 
 SECRETARIO DE SEGURIDAD PÚBLICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LAS INSTITUCIONES POLICIALES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los actos, acuerdos y resoluciones emitidas previo a la vigencia del presente Reglamento, por parte de las diversas unidades administrativas e instancias de la Secretaría de Seguridad Pública del Estado, relacionados con el Servicio Profesional de Carrera de los Miembros, Cadetes o Aspirantes, tendrán plena validez y serán reconocidas en base a las disposiciones por las que se emitieron.
+
+TERCERO.- Los procedimientos relativos al Servicio Profesional de Carrera de los Miembros de las Instituciones Policiales de la Secretaría de Seguridad Pública del Estado, iniciados previo a la vigencia del presente Reglamento, continuarán su trámite y serán resueltos de conformidad con las disposiciones previstas con anterioridad a la entrada en vigor del presente Reglamento, salvo que el presente ordenamiento otorgue mayores beneficios para el Miembro, Cadete o Aspirante.
+
+CUARTO.- Se abroga el Reglamento de la Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California, publicado en el Periódico Oficial del Estado de fecha 13 de Noviembre del 2009, salvo lo siguiente:
+
+1.- Los actos, acuerdos y resoluciones emitidas previo a la vigencia del presente Reglamento, por parte de la Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California, relacionados con los procedimientos de controversias del régimen disciplinario y de controversias del servicio de carrera policial, tendrán plena validez y serán reconocidas en base al reglamento referido en el párrafo que precede y a las demás disposiciones por las que se emitieron.
+
+2.- Los procedimientos de controversias del régimen disciplinario y de controversias del servicio de carrera policial, iniciados previo a la vigencia del presente Reglamento, continuarán su trámite y serán resueltos de conformidad con el reglamento referido en la Cláusula Quinta y a las disposiciones previstas con anterioridad a la entrada en vigor de este Reglamento, salvo que el presente ordenamiento otorgue mayores beneficios para el Miembro, Cadete o Aspirante.
+
+QUINTO.- Los recursos humanos y materiales, así como los archivos con los que operaba la Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California, prevista en el Reglamento de la Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California, publicado en el Periódico Oficial del Estado de fecha 13 de Noviembre del 2009, se entenderán transferidos a la Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California prevista en el presente Reglamento.
+
+SEXTO.- Toda referencia que se haga en otras disposiciones legales y reglamentarias; así como las funciones, facultades, derechos y obligaciones establecidas a cargo de la Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California, prevista en el Reglamento de la Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California, publicado en el Periódico Oficial del Estado de fecha 13 de Noviembre del 2009, se entenderán hechas y asumidas por la Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California prevista en el presente Reglamento.
+
+SÉPTIMO.- Se dejan sin efecto los acuerdos y demás las (sic) disposiciones reglamentarias anteriores que se opongan al presente Reglamento.
+
+OCTAVO.- Los manuales operativos e instrumentos normativo-administrativos que se requiera para el óptimo funcionamiento de este Reglamento, se deberán de elaborar a más tardar en un plazo de un año a partir de la entrada en vigor del presente Reglamento.
+
+NOVENO.- En tanto se expidan los manuales y demás instrumentos normativo-administrativos a que se refiere el transitorio anterior, el Subsecretario del Sistema Estatal Penitenciario y el Director de la Policía Estatal Preventiva, dependientes de la Secretaría de Seguridad Pública del Estado de Baja California, resolverán lo relativo al Servicio Profesional de Carrera en sus respectivos ámbitos de competencia, conforme a la normatividad que al efecto expidan.
+
+DÉCIMO.- La Comisión de Desarrollo Policial de la Secretaría de Seguridad Pública del Estado de Baja California prevista en el presente Reglamento, deberá de quedar instalada y ejercer sus atribuciones a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor de este Reglamento.
+
+DÉCIMO PRIMERO.- Para efectos del personal policial en activo de la Policía Estatal Preventiva de Baja California y de la Policía Estatal de Seguridad y Custodia Penitenciaria de Baja California, dependientes de la Secretaría de Seguridad Pública del Estado de Baja California, se dispondrá un periodo de migración que no exceda de dos años para que los mismos cubran con los siguientes criterios:
+
+1.- Que tengan las evaluaciones de control de confianza.
+
+2.- Que tengan la formación inicial o la formación inicial equivalente acreditada por la Academia de Seguridad Pública del Estado de Baja California.
+
+3.- Que se cubran con el perfil del cargo y del grado policial con relación al nivel académico.
+
+Para tales efectos, una vez cumplido el plazo el personal policial en activo de las instituciones policiales referidas en el presente transitorio, que no cubran con alguno de estos criterios quedarán (sic) fuera de la institución policial.
+
+DÉCIMO SEGUNDO.- Los procesos del Servicio Profesional de Carrera Policial y demás cambios que impliquen el destino de recursos adicionales previstos en este Reglamento, que aún no se encuentren implementados al momento de la publicación de este ordenamiento, deberán cumplirse a más tardar dentro de los dos años siguientes a la entrada en vigor del presente Reglamento, siempre y cuando al límite de ese período la Secretaría de Seguridad Pública del Estado cuente con la partida presupuestal con recursos suficientes para hacer frente a los compromisos que deriven del presente Reglamento.
