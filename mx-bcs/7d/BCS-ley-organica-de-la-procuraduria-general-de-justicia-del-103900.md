@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-procuraduria-general-de-justicia-del-103900"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-30"
-last_updated: "2014-11-30"
+last_updated: "2016-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -161,9 +161,15 @@ XIV. Instituto Interdisciplinario de Ciencias Penales;
 
 XV. Coordinaciones Regionales;
 
-XVI. Unidad de Inteligencia; y
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2016)</small>
 
-XVII. Las demás áreas que establezca el Reglamento Interior.
+XVI. Unidad de Inteligencia;
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2016)</small>
+
+XVII. Unidad de Política Criminal y Estadística; y
+
+XVIII. Las demás áreas que establezca el Reglamento Interior.
 
 ###### ARTÍCULO 7.
 
@@ -263,11 +269,11 @@ XVI. Las demás que establezcan las disposiciones aplicables.
 
 ### CAPÍTULO III. DEL PROCURADOR
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-El Procurador será electo por (sic) Congreso del Estado, de una terna compuesta de hasta tres aspirantes propuesta por el Gobernador del Estado, quien le expedirá su nombramiento respectivo y podrá removerlo libremente por causa justificada.
-
-Para ser Procurador, se deberá cumplir con los requisitos que al efecto establece la Constitución del Estado.
+El Procurador será designado en términos de lo establecido en la Constitución Política del Estado Libre y Soberano de Baja California Sur, debiendo cumplir con los requisitos que al efecto ésta establece.
 
 ###### ARTÍCULO 20.
 
@@ -341,11 +347,13 @@ XXXIII. Representar legalmente a la Procuraduría en los juicios donde sea parte
 
 XXXIV. Las demás que le confieran las disposiciones legales aplicables.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 21.
 
-Las ausencias temporales del Procurador serán suplidas por el Subprocurador Regional de Procedimientos Penales Zona Centro, a falta de éste por el Subprocurador de Investigaciones Especiales, y a falta de éste el Subprocurador de Justicia Alternativa.
+Las ausencias temporales del Procurador serán suplidas por el Subprocurador Regional de Procedimientos Penales Zona Centro, a falta de éste, por el Subprocurador de Atención a Delitos de Alto Impacto, y a falta de éste por el Subprocurador de Justicia Alternativa.
 
-En los casos de renuncia, remoción o ausencia definitiva del Procurador, el Gobernador del Estado, designará un encargado de despacho, en tanto sea electo el Titular de la Institución de acuerdo al procedimiento previsto en la Constitución del Estado.
+En los casos de renuncia, remoción o ausencia definitiva del Procurador, el Gobernador del Estado, designará un encargado de despacho, en tanto sea designado el Titular de la Institución de acuerdo al procedimiento previsto en la Constitución del Estado.
 
 ### CAPÍTULO IV. DE LOS SUBPROCURADORES
 
@@ -1419,7 +1427,7 @@ XIV. Ejecutar las determinaciones del Comité Administrador del Fondo Auxiliar p
 
 XV. Las demás que determinen el Reglamento Interior, las disposiciones legales aplicables, y las que por la naturaleza de sus funciones le encomiende el Procurador.
 
-### CAPÍTULO XVI. DE LA UNIDAD DE INTELIGENCIA
+### CAPÍTULO XVI. DE LA UNIDAD DE INTELIGENCIA Y DE LA UNIDAD DE POLÍTICA CRIMINAL Y ESTADÍSTICA
 
 ###### ARTÍCULO 71.
 
@@ -1557,6 +1565,8 @@ XXIII. Participar en los procesos de evaluación de conocimientos y, en su caso 
 
 XXIV. Las demás que de acuerdo a sus funciones le ordene el Procurador, así como las que determinen las disposiciones legales aplicables, la presente Ley Orgánica y el Reglamento Interior.
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2016)</small>
+
 ### CAPÍTULO XVIII. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
 ### CAPÍTULO XIX. DE LA SECRETARÍA TÉCNICA
@@ -1570,6 +1580,14 @@ La Unidad de Inteligencia estará a cargo de un titular, que será nombrado y re
 Para ser titular de la Unidad de Inteligencia se deben cumplir con los requisitos establecidos para ser Ministerio Público.
 
 Para efecto del desarrollo de las funciones propias de la Unidad de Inteligencia, contará con el personal profesional, técnico y administrativo, que disponga el Reglamento Interior y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2016)</small>
+
+ARTÍCULO 80 BIS.- La Unidad de Política Criminal y Estadística, estará a cargo de un titular, que será nombrado y removido libremente por el Procurador de quien dependerá directamente.
+
+Para efecto del desarrollo de las funciones propia (sic) de la Unidad de Política Criminal y Estadística, contará con el personal técnico y administrativo que disponga el Reglamento interior que determine el presupuesto.
+
+Corresponde a la Unidad de Política criminal y Estadística, la recopilación y análisis de la información estadística de los delitos del fuero común y de los factores económicos, sociales y normativos que permita el diseño de la Política Criminal del Estado. Así como proporcionar la información estadística al Centro Nacional de Información, y las demás atribuciones que se establezcan el en (sic) Reglamento interior y las que ordene el Procurador dentro del ámbito de su competencia.
 
 ###### ARTÍCULO 81.
 
@@ -1661,7 +1679,9 @@ I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civ
 
 II. Tener una edad mínima de veintitrés años cumplidos al momento de su ingreso;
 
-III. Contar con título de licenciado en derecho o carreras afines a las ciencias forenses y cédula profesional, registrados legalmente;
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 30 DE ABRIL DE 2016)</small>
+
+III. Haber concluido la enseñanza superior de derecho o carreras afines a las ciencias forenses.
 
 IV. En su caso, tener acreditado el Servicio Militar Nacional;
 
@@ -1850,3 +1870,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2341 SE REFORMAN LA FRACCIÓN XVI DEL ARTÍCULO 6, ARTÍCULO 19, ARTÍCULO 21 Y EL TÍTULO XVI; Y SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 6 RECORRIÉNDOSE ÉSTA A LA SIGUIENTE FRACCIÓN, ARTÍCULO 81 BIS Y FRACCIÓN III DEL ARTÍCULO 85 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
