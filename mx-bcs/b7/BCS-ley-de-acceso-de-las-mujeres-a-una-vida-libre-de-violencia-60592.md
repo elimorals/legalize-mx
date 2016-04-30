@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2014-07-10"
+last_updated: "2016-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -147,7 +147,9 @@ IV. Violencia económica.- Es toda acción u omisión del agresor que afecta la 
 
 V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-VI.- Violencia de pareja.- Conjunto de agresiones psicológicas, físicas, sexuales y económicas que ocasionan algún daño psicológico, físico y lo patrimonial en la mujer, derivada de la asimetría de la pareja;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2016)</small>
+
+VI.- Violencia de pareja: Conjunto de agresiones psicológicas, físicas, sexuales y económicas que ocasionan algún daño psicológico, físico y/o patrimonial en la mujer derivada de la asimetría de la pareja; exista o haya existido matrimonio, concubinato, noviazgo o relación de hecho.
 
 VII. Violencia de Género.- Es el conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres involucra tanto a las personas como a la sociedad, comunidades, relaciones, prácticas e instituciones sociales, y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género, y al no dar garantías de seguridad a las mujeres; y
 
@@ -157,9 +159,11 @@ VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de da
 
 #### SECCIÓN PRIMERA. VIOLENCIA FAMILIAR
 
-###### ARTÍCULO 5°.
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2016)</small>
 
-Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+###### ARTÍCULO 5.
+
+Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo; mantengan o hayan mantenido una relación de hecho.
 
 > <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -329,9 +333,17 @@ d) La verificación de los hechos y la publicidad de la verdad.
 
 ### CAPÍTULO ÚNICO. TIPOS DE PROTECCIÓN
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-Las órdenes de protección: Son actos de protección y de urgente aplicación en función del interés superior de la mujer y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la mujer y son fundamentalmente precautorias y cautelares, deberán otorgarse por las siguientes autoridades, inmediatamente que conozcan de los hechos probablemente constitutivos de infracciones o delitos que indiquen violencia contra las mujeres:
+
+I. El Ministerio Público;
+
+II. Los Jueces Penales, en los términos que establezcan el Código de Procedimientos Penales para el Estado de Baja California Sur y el Código Nacional de Procedimientos Penales; y
+
+III. Los Jueces Familiares
 
 ###### ARTÍCULO 18.
 
@@ -1286,3 +1298,11 @@ B.O. 10 DE JULIO DE 2014.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2343 SE REFORMA EL ARTICULO 4 EN SU FRACCIÓN VI, ASÍ COMO EL ARTÍCULO 5; SE REFORMA Y SE ADICIONAN AL ARTÍCULO 17, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- En los lugares donde no se aplica aún la reforma Constitucional en materia de Justicia Penal las referencias al Código Nacional de Procedimientos Penales se referirán al Código de Procedimientos Penales para el Estado de Baja California Sur.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
