@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2014-11-30"
+last_updated: "2016-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "BCS"
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRARÁ EN VIGOR CIENTO VEINTE DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2016.
 
 TEXTO ORIGINAL.
 
@@ -2665,7 +2667,7 @@ Ultrajes a la autoridad. A quien ultraje o ejerciere violencia a una autoridad e
 
 Los ultrajes hechos a la Legislatura, a un tribunal o a cualquier institución pública, se sancionarán con prisión de uno a tres años y multa hasta por cien días.
 
-### CAPÍTULO II. VIOLACIÓN DE MEDIDAS CAUTELARES
+### CAPÍTULO II
 
 ###### Artículo 304.
 
@@ -2893,11 +2895,13 @@ Para proceder por este delito, es necesaria la previa calificación de estos hec
 
 Fraude procesal equiparado. El que a sabiendas de que tiene que cumplir con una obligación procesal, o reparar el daño, simule actos jurídicos para quedarse en estado de insolvencia, se le impondrán las mismas penas señaladas en el artículo anterior.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 30 DE ABRIL DE 2016)</small>
+
 ### CAPÍTULO IX. ROBO Y DESTRUCCIÓN DE DOCUMENTOS
 
 ###### Artículo 324.
 
-Violación de medidas cautelares. La violación de medidas cautelares impuestas se considerará como un delito de desobediencia a la autoridad judicial y se castigará con pena de uno a cinco años de prisión y multa hasta de doscientos días. Mientras subsista la violación no empezará a correr la prescripción de la acción y se considerará como delito permanente para los efectos de la flagrancia.
+(DEROGADO, B.O. 30 DE ABRIL DE 2016)
 
 ### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
@@ -2965,7 +2969,7 @@ Delito contra el ejercicio garantista de la abogacía o el litigio. Se impondrá
 
 I. Obtenga cualquier lucro prometiendo encargarse de la defensa, patrocinio o representación legal de un asunto penal, civil, familiar, mercantil, administrativo o del trabajo, si no se hace cargo del mismo;
 
-II. Abandone una defensa o un negocio, sin motivo justificado. y en perjuicio de quien patrocina;
+II. Abandone una defensa o un negocio, sin motivo justificado, y en perjuicio de quien patrocina;
 
 III. Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o acepte el patrocinio de alguno y admita después el de la parte contraria en un mismo negocio;
 
@@ -3558,3 +3562,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2339 SE DEROGA EL CAPÍTULO II DEL TÍTULO DÉCIMO NOVENO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
