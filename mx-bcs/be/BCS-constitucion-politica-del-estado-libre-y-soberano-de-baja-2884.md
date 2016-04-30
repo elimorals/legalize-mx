@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2016-04-27"
+last_updated: "2016-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2016.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -369,7 +369,7 @@ III. Poseer el día de la designación, título profesional en el área de las c
 
 IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-VI. No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
+VI (SIC). No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
 
 VII. No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
 
@@ -1171,6 +1171,10 @@ XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que con
 
 El Congreso del estado podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente;
 
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2016)</small>
+
+Previamente a la ratificación o no ratificación por este Congreso del Estado, la persona nombrada por el Gobernador del Estado para ocupar el cargo de Procurador General de Justicia del Estado, deberá de comparecer ante el Pleno del Poder Legislativo.
+
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
@@ -1345,9 +1349,13 @@ X.- Solicitar la protección de los Poderes de la Unión, de conformidad con el 
 
 XI.- Ejercer el derecho de veto en los términos de esta Constitución;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2016)</small>
 
-XII.- Coordinar los cuerpos de Seguridad Pública del Estado y dar ordenes a la Policía Preventiva Municipal en los casos que este juzgue como de fuerza mayor o alteración grave del orden público;
+XII.- Salvaguardar la seguridad ciudadana, la conservación del orden y la paz pública, así como coordinar los cuerpos de seguridad pública del Estado y dar órdenes a la policía preventiva municipal en los casos que este juzgue como de fuerza mayor o alteración grave del orden público.
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2016)</small>
+
+XII BIS.- Coordinarse con la Federación, otras Entidades Federativas y los Municipios en materia de seguridad, según lo dispuesto en el Marco Legal correspondiente.
 
 XIII.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional;
 
@@ -1534,6 +1542,10 @@ VI.- Haber cumplido con el servicio militar nacional;
 VII.- Gozar de buena salud; y
 
 VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
+
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2016)</small>
+
+IX.- Previamente a su ratificación o no ratificación por el Congreso del Estado, presentar y aprobar las evaluaciones de control de confianza que se determinen en el marco del Sistema Nacional de Seguridad Pública.
 
 85.-
 
@@ -3592,3 +3604,15 @@ QUINTO. Los asuntos que se encuentren en trámite o pendiente de resolución a l
 SEXTO. Los recursos financieros y materiales, así como los trabajadores adscritos al Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, se transferirán al organismo público autónomo creado, el cual deberá contar con la plantilla básica técnica y administrativa para garantizar, el cumplimiento a las atribuciones definidas por la Ley. Los trabajadores que pasen a formar parte del nuevo organismo se seguirán rigiendo por el apartado "A" del 123 de la Constitución Política de los Estados Unidos Mexicanos y de ninguna forma resultarán afectados sus derechos laborales y de seguridad social.
 
 SÉPTIMO. El presupuesto de egresos del Estado para el año 2017, deberá establecer la previsión presupuestal correspondiente para el establecimiento del organismo garante que establece el apartado "B" del artículo 13 de esta Constitución y garantizar el acceso a la información pública y la protección de datos personales.
+
+B.O. 30 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2340 SE REFORMA LA FRACCIÓN XII Y ADICIONA LA FRACCIÓN XII BIS DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2346 SE ADICIONAN UN PÁRRAFO TERCERO A LA FRACCIÓN XLVI DEL ARTÍCULO 64 Y UNA FRACCIÓN IX AL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
