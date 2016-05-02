@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2016-04-25"
+last_updated: "2016-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2016.
+
+> <small>[N. DE E. SE SUGIERE CONSULTAR LAS NOTAS QUE HACEN REFERENCIA A CADA ARTÍCULO EN EL EXTRA DEL P.O. DE 2 DE MAYO DE 2016.]</small>
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -39,25 +41,25 @@ Se expide la LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ES
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
 
-## TÍTULO SEGUNDO (SIC). DE LA CULTURA Y OBLIGACIONES DE LA TRANSPARENCIA
+## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-### CAPÍTULO II. CATÁLOGO DE DEFINICIONES
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+### CAPÍTULO I. DE LAS GENERALIDADES Y OBJETO DE LA LEY
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia General en todo el Estado.
+La presente Ley es de orden público, interés social y de observancia general en todo el Estado.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
-
-Tiene por objeto establecer los principios, bases generales y procedimientos para garantizar el derecho de acceso a la información en posesión de cualquier autoridad, órgano y organismo de los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así corno de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+Tiene por objeto establecer los principios, bases generales y procedimientos para garantizar el derecho de acceso a la información en posesión de cualquier autoridad, órgano y organismo de los poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
 
 Todos los plazos establecidos en días en la presente Ley, se entenderá que se refieren a días hábiles, exceptuándose de este precepto los que específicamente se establezcan en días naturales.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 2.
 
@@ -65,11 +67,15 @@ El derecho humano de acceso a la información comprende solicitar, investigar, d
 
 Toda la información generada, obtenida, adquirida, transformada o en posesión de cualquier sujeto obligado o autoridad, es pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado libre y Soberano de Oaxaca, la Ley General, Ley Federal y la presente ley, excepto aquella que sea considerada como reservada y confidencial.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 3.
 
 El derecho de acceso a la información o la clasificación de la información se interpretarán bajo los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Oaxaca y la presente Ley.
 
 En la aplicación e interpretación de la presente Ley deberá prevalecer el principio de máxima publicidad, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte, así como en las resoluciones y sentencias vinculantes que emitan el Instituto, los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 4.
 
@@ -78,6 +84,8 @@ Para el caso de la interpretación, se podrá tomar en cuenta los criterios, det
 Conforme al principio de máxima publicidad y en caso de duda razonable entre la publicidad y la reserva de la información, el sujeto obligado deberá favorecer el principio de máxima publicidad de la misma, o bien, siempre que sea posible, elaborará versiones públicas de los documentos que contengan información clasificada como reservada o que sea confidencial.
 
 En caso de duda razonable entre la publicidad y confidencialidad de los datos personales, el sujeto obligado deberá resolver al bien jurídico de mayor valor, atendiendo a razones de interés público establecidas en la presente Ley.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 5.
 
@@ -95,7 +103,11 @@ V. Garantizará la debida gestión, administración, conservación y preservaci�
 
 VI. Garantizará la protección de los datos personales en poder de los sujetos obligados, los derechos de acceso, rectificación, cancelación y oposición, mediante procedimientos sencillos y expeditos; y deberá de interpretarse conforme al principio pro persona y las bases y principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales ratificados por nuestro país, la Ley General, Ley Federal y los lineamientos que de esta se derive, la Constitución Política del Estado Libre y Soberano de Oaxaca, esta Ley, las demás leyes de la materia y lineamientos que de estas se deriven.
 
-### CAPÍTULO III. DE LOS SUJETOS OBLIGADOS Y DE LA PROTECCIÓN DE DATOS PERSONALES
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO II. CATÁLOGO DE DEFINICIONES
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 6.
 
@@ -207,9 +219,15 @@ XL. Sujetos obligados: Cualquier autoridad, órgano y organismo de los Poderes E
 
 XLI. Unidades de transparencia: Instancia a la que hace referencia el artículo 63 de esta Ley.
 
-### CAPÍTULO I. ACCIONES EN MATERIA DE CULTURA DE LA TRANSPARENCIA
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO III. DE LOS SUJETOS OBLIGADOS Y DE LA PROTECCIÓN DE DATOS PERSONALES
+
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 #### SECCIÓN PRIMERA. DE LOS SUJETOS OBLIGADOS
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 7.
 
@@ -243,15 +261,21 @@ XIII. Las instituciones de beneficencia que sean constituidas conforme a la ley 
 
 Quedan incluidos dentro de esta clasificación todos los órganos y dependencias de las fracciones I, II, III y IV del presente artículo, cualquiera que sea su denominación y aquellos que la legislación local les reconozca como de interés público.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 8.
 
 Las personas físicas y morales que ejerzan recursos públicos o presten servicios públicos concesionados, estarán obligados a entregar la información relacionada con dichos recursos o servicios, a través del sujeto obligado que supervise estas actividades.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 9.
 
 Los sujetos obligados deberán documentar todo acto que se emita en ejercicio de las facultades expresas que les otorguen los ordenamientos jurídicos y demás disposiciones aplicables, así como en el ejercicio de recursos públicos, debiendo sistematizar la información.
 
 Los actos de los sujetos obligados a que se refiere el párrafo anterior, incluyen no sólo las decisiones definitivas, también los procesos deliberativos, así como aquellas decisiones que permitan llegar a una conclusión final.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 10.
 
@@ -295,25 +319,39 @@ XVIII. Designar a los titulares de las Unidades de Transparencia, quienes depend
 
 XIX. Las demás que le señalen las disposiciones normativas aplicables.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 11.
 
 Los sujetos obligados podrán emitir acuerdos o lineamientos en el ámbito de su competencia, para el mejor ejercicio del acceso a la información y protección de datos personales. Esta atribución tendrá que ser ejercida en base a las disposiciones legales y reglamentarias en la materia.
 
 Las personas físicas o morales que, en el ejercicio de sus actividades, coadyuven en auxilio o colaboración de entes públicos, o aquellas que ejerzan gasto público, reciban, utilicen o dispongan de recursos públicos, subsidios, o estímulos fiscales o realicen actos de autoridad, estarán obligadas a entregar la información relacionada con el uso, destino y actividades al sujeto obligado que entregue el recurso, subsidio u otorgue el estímulo, supervise o coordine estas actividades.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN SEGUNDA. DE LOS DATOS PERSONALES
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 12.
 
 En el manejo de los datos personales, los sujetos obligados deberán cumplir con lo establecido en la Ley de Protección de Datos Personales del Estado de Oaxaca, así como, contar previamente con el consentimiento por escrito del titular de los datos, además de observar los siguientes principios: información previa, licitud, calidad de la información, confidencialidad y seguridad, así como, garantizar el ejercicio de los derechos de acceso, rectificación, cancelación y oposición, y en términos de las disposiciones normativas aplicables en la materia.
 
-## TÍTULO TERCERO. DISPOSICIONES GENERALES DE LA CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-### CAPÍTULO II. OBLIGACIONES DE TRANSPARENCIA
+## TÍTULO SEGUNDO. DE LA CULTURA Y OBLIGACIONES DE LA TRANSPARENCIA
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO I. ACCIONES EN MATERIA DE CULTURA DE LA TRANSPARENCIA
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 13.
 
 El Instituto, en coordinación con los sujetos obligados deberá promover y difundir de manera permanente la cultura de la transparencia y acceso a la información pública, así como, la protección de los datos personales.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 14.
 
@@ -331,9 +369,15 @@ V. Promover las buenas prácticas de transparencia, la competitividad del estado
 
 VI. Los demás que le señala el capítulo I, del título cuarto, de la Ley General.
 
-### CAPÍTULO III. OBLIGACIONES DE GOBIERNO ABIERTO
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO II. OBLIGACIONES DE TRANSPARENCIA
+
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 15.
 
@@ -343,9 +387,13 @@ La publicación de la información deberá realizarse con perspectiva de género
 
 El Instituto, verificará el cumplimiento que los sujetos obligados den a las disposiciones previstas en este Título.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 16.
 
 Las páginas electrónicas utilizadas por los sujetos obligados para la difusión de información pública, deberán atender lo dispuesto por la Ley General y los Lineamientos Técnicos Generales que emita el Instituto Nacional para la publicación y verificación de las obligaciones de transparencia.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 17.
 
@@ -353,11 +401,17 @@ La información pública deberá de actualizarse en los medios electrónicos dis
 
 La información publicada por los sujetos obligados, de conformidad con lo establecido en las disposiciones electorales aplicables y en términos del presente ordenamiento, no constituye propaganda gubernamental, por lo que deberá mantenerse accesible, incluso dentro de los procesos electorales.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 18.
 
 Para la publicación de las obligaciones comunes y específicas de transparencia, los sujetos obligados utilizarán formatos de fácil comprensión. Se procurará, en la medida de lo posible, la traducción a lenguas indígenas.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE TRANSPARENCIA COMUNES
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 19.
 
@@ -367,11 +421,17 @@ Además se procurará la publicación en los medios alternativos que resulten de
 
 Los sujetos obligados deberán informar al Instituto, cuáles son los rubros que no les sean aplicables a sus páginas de Internet, con el objeto de que éste último verifique de forma fundada y motivada la relación de fracciones aplicables a cada sujeto obligado.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 20.
 
 Los sujetos obligados podrán contar con un medio electrónico, en el cual puedan recibir quejas, sugerencias y propuestas, debiendo dar respuesta en un plazo menor a 10 días a través de su unidad de transparencia.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE TRANSPARENCIA ESPECÍFICAS DE LOS SUJETOS OBLIGADOS
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 21.
 
@@ -392,6 +452,8 @@ VI. La información detallada que contengan los planes de desarrollo urbano, ord
 VII. Las disposiciones administrativas, directamente o a través de la autoridad competente, con el plazo de anticipación que prevean las disposiciones aplicables al Sujeto Obligado de que se trate, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, de conformidad con dichas disposiciones, y
 
 VIII. Las demás que le señalen esta Ley y demás disposiciones normativas aplicables.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 22.
 
@@ -419,6 +481,8 @@ X. Los resultados de los estudios o investigaciones de naturaleza económica, po
 
 XI. Las que le señalen esta Ley y demás disposiciones normativas aplicables.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 23.
 
 Además de lo señalado en el artículo 70 de la Ley General, el Poder Judicial del Estado, deberá poner a disposición del público y actualizar la siguiente información:
@@ -445,6 +509,8 @@ X. La lista de acuerdos que diariamente se publiquen.
 
 El Consejo de la Judicatura emitirá criterios y procedimientos institucionales, para proporcionar a los particulares acceso a la información, para la supresión de datos personales y protección de la privacidad e intimidad, de conformidad con lo previsto por la Ley General y la presente Ley y en las demás disposiciones normativas aplicables en la materia.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 24.
 
 La Fiscalía General del Estado de Oaxaca deberá poner a disposición del público y actualizar la información contenida en el artículo 70 de la Ley General, así como, las que les sean aplicables y les correspondan, conforme a las disposiciones normativas aplicables y además deberá publicar y actualizar la siguiente información:
@@ -461,6 +527,8 @@ V. Publicar los lineamientos y criterios para la implementación de los planes d
 
 VI. Las demás que le señalen esta Ley y disposiciones normativas aplicables.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 25.
 
 El Tribunal Electoral del Estado de Oaxaca deberá poner a disposición del público y actualizar la información contenida en el artículo 70 de la Ley General, así como, las que les sean aplicables y les correspondan, conforme a las disposiciones normativas aplicables y además deberá publicar y actualizar la siguiente información:
@@ -472,6 +540,8 @@ II. Los acuerdos del Pleno;
 III. En su caso, las versiones estenográficas de las sesiones públicas, y
 
 IV. Las demás que le señalen las disposiciones normativas electorales aplicables a la materia.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 26.
 
@@ -501,6 +571,8 @@ XI. Las auditorías concluidas a los partidos políticos, y
 
 XII. Los informes sobre sus demás actividades.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 27.
 
 Además de lo señalado en el artículo 74 fracción II de la Ley General, y en los artículos 19 y 20 de esta Ley, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, de acuerdo a sus facultades y atribuciones, deberá poner a disposición del público y mantener actualizada la siguiente información:
@@ -517,6 +589,8 @@ V. Los recursos de queja e impugnación concluidos, así como, el concepto por e
 
 La Defensoría de los Derechos Humanos del Pueblo de Oaxaca, deberá en todo momento cuidar estrictamente por no revelar, información confidencial o reservada contenida dentro de las obligaciones anteriores.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 28.
 
 Además de lo señalado en el artículo 75 de la Ley General, y en los artículos 19 y 20 de esta Ley, las universidades públicas e instituciones de educación superior pública, deberán poner a disposición del público y mantener actualizada la siguiente información:
@@ -532,6 +606,8 @@ IV. Los indicadores de resultados en las evaluaciones al desempeño de la planta
 V. El número de estudiantes que egresan por ciclo escolar, por escuela o facultad;
 
 VI. El calendario del ciclo escolar.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 29.
 
@@ -556,6 +632,8 @@ VIII. Los resultados de la evaluación al cumplimiento de la ley por parte de lo
 IX. El informe sobre las acciones de promoción de la cultura de transparencia, y
 
 X. Las demás que resulten aplicables en términos de las disposiciones legales de la materia.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 30.
 
@@ -585,6 +663,8 @@ XI. El atlas municipal de riesgos.
 
 Todos los Municipios podrán solicitar al Instituto, que de manera subsidiaria divulgue vía electrónica la información pública de oficio que señala este capítulo. Para ello, el Congreso del Estado deberá hacer las previsiones presupuestales que se requieran para la integración y publicación en línea de la información obligatoria en medios electrónicos.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 31.
 
 Además de lo señalado en el artículo 76 de la Ley General, y en el artículo 19 del presente ordenamiento, así como, en la Ley General de Partidos Políticos, los partidos políticos locales, las agrupaciones políticas, y las personas morales constituidas en asociación civil creadas por los ciudadanos que pretendan postular una candidatura independiente, conforme a su naturaleza jurídica, deberán poner a disposición del público la siguiente información:
@@ -595,6 +675,8 @@ II. Los informes anuales o parciales, de ingresos y gastos, tanto ordinarios com
 
 III. Las demás que señalen las disposiciones normativas aplicables en materia electoral.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 32.
 
 Además de lo señalado en el artículo 77 de la Ley General, y en el artículo 19 de esta Ley, los fideicomisos, fondos públicos, mandatos o cualquier otro contrato análogo, deberán poner a disposición del público y mantener actualizada la siguiente información:
@@ -604,6 +686,8 @@ I. Monto total de remanentes de un ejercicio fiscal a otro;
 II. Las reglas de operación que los regulan, y
 
 III. Las demás que señalen las disposiciones normativas en la materia.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 33.
 
@@ -641,6 +725,8 @@ XV. Los informes de ingresos y gastos realizados, y
 
 XVI. Los contratos colectivos de trabajo de sus agremiados.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 34.
 
 Además de lo señalado en el artículo 19 de esta Ley, las personas físicas y organizaciones de la sociedad civil que reciban y/o ejerzan recursos públicos en el ámbito estatal o municipal, o aquellas que reciban un ingreso estatal que sea preponderante dentro de su presupuesto y las instituciones de beneficencia, en su caso, deberán difundir a través de medios electrónicos la siguiente información:
@@ -669,133 +755,167 @@ XI. El acta de la asamblea en que se hubiese elegido la directiva, y
 
 XII. Los informes de ingresos y gastos realizados.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 35.
 
 Además de lo señalado en el artículo 19 de esta Ley, las Juntas de Conciliación y Arbitraje, deberán poner a disposición del público y mantener actualizada la información que refiere el artículo 78 de la Ley General.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 36.
 
 Los sujetos obligados que realicen obra pública, deberán difundir físicamente en el lugar de la obra, una placa o inscripción que señale que fue realizada con recursos públicos y el costo de la misma.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 37.
 
 A fin de determinar la información adicional que publicarán los sujetos obligados del Estado, el Instituto les requerirá semestralmente el listado de información que de acuerdo a sus funciones, atribuciones y competencias consideren de interés público.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 38.
 
 A fin de llevar a cabo la verificación de las obligaciones de transparencia de todos los sujetos obligados del Estado, el Instituto emitirá los Lineamientos en los que se establecerá el procedimiento mediante el cual se hará la revisión en términos de lo dispuesto en el Capítulo VI del Título Quinto de la Ley General.
 
-### CAPÍTULO I. INFORMACIÓN RESERVADA
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO III. OBLIGACIONES DE GOBIERNO ABIERTO
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 39.
 
 El Instituto será el medio de coordinación de las acciones entre los sujetos obligados, la Sociedad Civil y las organizaciones sociales en general, para implementar los mecanismos de colaboración que sean necesarios encaminados a promover e implementar políticas y mecanismos de apertura gubernamental.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 40.
 
 El Instituto fomentará las acciones que sean necesarias para consolidar las políticas públicas, que se traduzcan en mejores condiciones de vida y beneficio social, fomentando la cocreación gobierno-ciudadano y gobierno-organizaciones.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 41.
 
 El Instituto implementará una política pública de gobierno abierto al interior del mismo y al exterior, para los sujetos obligados en el estado.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 42.
 
 El Instituto brindará asesoría y capacitación, a los sujetos obligados, instituciones u organizaciones públicas y a las organizaciones de la sociedad civil, para el diseño, conceptualización, desarrollo y construcción de políticas públicas de gobierno abierto,
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 43.
 
 El Instituto integrará y coordinará un secretariado técnico de gobierno abierto en el Estado, con la representación de los tres poderes, y en colaboración con la sociedad civil organizada, que proponga mejores prácticas de transparencia, rendición de cuentas, participación ciudadana e innovación.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 44.
 
 El Instituto propondrá y evaluará la política digital del Estado en materia de datos abiertos así como la política de implementación de indicadores específicos sobre temas relevantes en la materia.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 45.
 
 El Instituto expedirá una certificación de Empresa Transparente a las personas físicas o morales, que cumplan con las obligaciones de transparencia de la presente ley, de acuerdo a las bases y los requisitos de las reglas de operación que se expidan para la certificación.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 46.
 
 Los Sujetos obligados, para fomentar la transparencia, la participación ciudadana y la rendición de cuentas, privilegiarán el uso de formatos abiertos.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 47.
 
 Los Sujetos Obligados que presten trámites y servicios, los difundirán en el ámbito de sus competencias, a través de sus portales electrónicos.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 48.
 
 Los Sujetos Obligados podrán establecer comunicación con los ciudadanos, a través de las plataformas digitales que les permitan participar en la toma de decisiones.
 
-## TÍTULO CUARTO. DE LAS UNIDADES DE TRANSPARENCIA Y DEL COMITÉ DE TRANSPARENCIA
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-### CAPÍTULO II. LA INFORMACIÓN CONFIDENCIAL
+## TÍTULO TERCERO. DISPOSICIONES GENERALES DE LA CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO I. INFORMACIÓN RESERVADA
+
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 #### SECCIÓN PRIMERA. DE SU CLASIFICACIÓN Y DESCLASIFICACIÓN
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 49.
 
 El acceso a la información pública sólo podrá ser restringido de manera excepcional, cuando por razones de interés público, ésta sea clasificada como reservada.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)
 
 Se clasificará como información reservada aquella que:
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 I. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 II. Comprometa la seguridad pública estatal o municipal;
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 III. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
-
-IV. Se entregue al Estado mexicano expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
+IV. Se entregue al Estado mexicano expresamente con ese carácter o el de confidencial por otro u otro (sic) sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 V. Dañe la estabilidad económica y financiera del Estado y Municipios;
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 VI. Obstruya las actividades de prevención o persecución de los delitos;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 VII. Obstruya las actividades de verificación, inspección y auditoría relativas al cumplimiento de las leyes;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 VIII. Afecte la recaudación de las contribuciones;
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 IX. Contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto se adoptada la decisión definitiva, la cual deberá estar documentada. Se considera que se ha adoptado la decisión definitiva cuando el o los servidores públicos responsables de tomar la resolución resuelvan de manera concluyente una etapa, sea o no susceptible de ejecución;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 X. Contengan los expedientes de averiguaciones previas o carpetas de investigación, sin embargo una vez que se determinó el ejercicio de la acción penal o el no ejercicio de la misma, serán susceptibles de acceso, a través de versiones públicas, en términos de las disposiciones aplicables;
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XI. Contienen los expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio en tanto la sentencia no haya causado ejecutoria.
 
@@ -803,27 +923,27 @@ Una vez que dicha resolución cause ejecutoria los expedientes serán públicos,
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XII. Afecte los derechos del debido proceso;
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XIII. Se contiene en los expedientes de las denuncias y procedimientos de juicio político, que se lleven a cabo, ante el Congreso del Estado, de conformidad con lo dispuesto por los artículos 59 fracción XLVI, 117 y 118 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
-
-XIV. Obstruya los procedimientos para fincar responsabilidad a servidores públicos, en tanto no se haya dictado la resolución administrativa; y
+XIV. Obstruya los procedimientos para fincar responsabilidad a Servidores Públicos, en tanto no se haya dictado la resolución administrativa; y
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADA, P.O. 16 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XV. Por disposición expresa de una Ley tenga tal carácter, siempre que sea acorde con las bases, principios y disposiciones establecidos en la Ley General, en esta Ley y no las contravengan; así como las previstas en Instrumentos Internacionales.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 50.
 
@@ -831,15 +951,23 @@ La información clasificada como reservada en los términos de la Ley General o 
 
 Excepcionalmente, los sujetos obligados, con la aprobación del Comité de Transparencia, podrán ampliar el periodo de reserva hasta por un plazo de cinco años adicionales, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación, mediante la aplicación de una prueba de daño.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 51.
 
 No podrá clasificarse como información reservada aquella relacionada con la investigación de violaciones graves de derechos humanos o delitos de lesa humanidad, o aquella que se trate de información relacionada con actos de corrupción, de acuerdo con las leyes aplicables.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN SEGUNDA. REQUISITOS PARA LA CLASIFICACIÓN DE LA INFORMACIÓN RESERVADA
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 52.
 
 La clasificación de la información deberá estar debidamente fundada y motivada y deberá demostrar la existencia de elementos objetivos y verificables a partir de los cuales se demuestre que con el acceso a la información existe la probabilidad de dañar el interés público en los términos del Capítulo Anterior.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 53.
 
@@ -853,6 +981,8 @@ I. Confirmar la clasificación, o
 
 II. Revocar o modificar la clasificación, para conceder el acceso a la información.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 54.
 
 La información reservada dejará de tener dicho carácter y será de acceso a las personas cuando ocurra cualquiera de las siguientes causas:
@@ -865,19 +995,29 @@ III. Por resolución del Comité de Transparencia de cada sujeto obligado; y/o
 
 IV. Por resolución del instituto que revoque o modifique la clasificación de reserva emitida por el sujeto obligado.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 55.
 
 El instituto será el encargado de interpretar en la esfera administrativa, la debida clasificación de información prevista en esta ley.
 
-### CAPÍTULO I. DEL FUNCIONAMIENTO Y OBLIGACIONES DE LAS UNIDADES DE TRANSPARENCIA
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO II. LA INFORMACIÓN CONFIDENCIAL
+
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 #### SECCIÓN PRIMERA. LA INFORMACIÓN CONFIDENCIAL
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 56.
 
 La información que se refiere a la vida privada y los datos personales es confidencial y mantendrá ese carácter de manera indefinida y sólo podrán tener acceso a ella los titulares de la misma, o sus representantes legales, y los servidores públicos que requieran conocerla para el debido ejercicio de sus funciones.
 
 Los sujetos obligados deberán tomar las medidas pertinentes para proteger la información que refiere a la vida privada y los datos personales de menores de edad que obren en sus archivos.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 57.
 
@@ -891,11 +1031,17 @@ III. La información protegida por la legislación en materia de derechos de aut
 
 IV. Aquella que presenten los particulares a los Sujetos Obligados, siempre que tengan el derecho a ello, de conformidad con lo dispuesto por las leyes y los instrumentos internacionales.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 58.
 
 Los servidores públicos que reciban, gestionen, administren o resguarden información que les entreguen los particulares, deberán en todo momento proteger los datos personales en términos de la normatividad aplicable.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN SEGUNDA. DEL MANEJO DE LA INFORMACIÓN CONFIDENCIAL
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 59.
 
@@ -903,13 +1049,19 @@ Los sujetos obligados que se constituyan como fideicomitentes o fideicomisarios 
 
 La información relativa a los fideicomisos o mandatos, se entregará a través de sus fideicomitentes o mandantes.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 60.
 
 La información confidencial a que se refiere este capítulo, podrá divulgarse cuando, ante la presentación de un recurso de revisión y a juicio del instituto, o en su caso el organismo garante nacional, existan razones de interés público relacionado con los objetivos de esta ley debidamente acreditadas. Para este efecto, el recurrente aportará los elementos de prueba que considere pertinentes, que justifiquen la divulgación de la información confidencial.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 61.
 
 Durante el procedimiento de sustanciación del recurso de revisión, deberá respetarse la garantía de audiencia de los titulares de la información confidencial y el instituto realizará una valoración objetiva, cuantitativa y cualitativa, de los intereses en conflicto que permita razonablemente asegurar que los beneficios de divulgar la información sean mayores a la eventual afectación de los intereses de los particulares.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 62.
 
@@ -927,23 +1079,37 @@ V. Cuando exista orden judicial, y
 
 VI. Por razones de salubridad, salud o para proteger los derechos de terceros.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN PRIMERA. DEL CONSEJO GENERAL
 
-## TÍTULO QUINTO. DEL INSTITUTO
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-### CAPÍTULO II. DEL FUNCIONAMIENTO Y OBLIGACIONES DE LOS COMITÉS DE TRANSPARENCIA
+## TÍTULO CUARTO. DE LAS UNIDADES DE TRANSPARENCIA Y DEL COMITÉ DE TRANSPARENCIA
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO I. DEL FUNCIONAMIENTO Y OBLIGACIONES DE LAS UNIDADES DE TRANSPARENCIA
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 63.
 
 Todos los Sujetos obligados señalados en el artículo 7 de esta Ley, contarán con Unidades de Transparencia, en oficinas visibles y accesibles al público.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 64.
 
 Las Unidades de Transparencia dependerán del titular del sujeto obligado y estarán integradas por un responsable y por el personal habilitado que para el efecto se designe. Los sujetos obligados harán del conocimiento del Instituto la integración de las Unidades de Transparencia y de todo cambio que en éstas se realice.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 65.
 
 El responsable de la Unidad de Transparencia de cada sujeto obligado preferentemente deberá contar con experiencia mínima en materias de transparencia, acceso a la información, archivos, protección de datos personales y gobierno abierto.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 66.
 
@@ -981,7 +1147,11 @@ XV. Dar cuenta, en su caso, al Comité de Transparencia del Sujeto Obligado en e
 
 XVI. Hacer del conocimiento del Instituto y de los órganos de control interno, la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General, Ley Federal y la presente ley.
 
-### CAPÍTULO I. DE LAS BASES GENERALES DEL INSTITUTO
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO II. DEL FUNCIONAMIENTO Y OBLIGACIONES DE LOS COMITÉS DE TRANSPARENCIA
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 67.
 
@@ -990,6 +1160,8 @@ Los sujetos obligados deberán contar con un Comité de Transparencia, integrado
 El Comité de Transparencia adoptará sus resoluciones por mayoría de votos. En los casos de empate, el presidente tendrá voto de calidad. A sus sesiones podrán asistir como invitados aquellos que sus integrantes consideren necesarios, quienes tendrán voz pero no voto.
 
 El Comité de Transparencia tendrá acceso a la información reservada para confirmar, modificar o revocar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados en observancia de los Lineamientos que al efecto emita el Instituto, para el resguardo o salvaguarda de la información.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 68.
 
@@ -1013,17 +1185,27 @@ VIII. Solicitar y autorizar la ampliación del plazo de reserva de la informaci�
 
 IX. Las demás que se desprendan de la normatividad aplicable.
 
-## TÍTULO SEXTO. DEL PROCEDIMIENTO DE DENUNCIA POR INCUMPLIMIENTO DE LAS OBLIGACIONES DE TRANSPARENCIA Y MEDIDAS DE APREMIO
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-### CAPÍTULO II. DE SU CONFORMACIÓN Y ATRIBUCIONES
+## TÍTULO QUINTO. DEL INSTITUTO
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO I. DE LAS BASES GENERALES DEL INSTITUTO
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 69.
 
 El Instituto es un órgano público, dotado de autonomía constitucional, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el ejercicio del derecho de acceso a la información y la protección de datos personales, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley General y esta Ley.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 70.
 
 El Instituto podrá en todo momento, presentar iniciativas de leyes o decretos al Congreso del Estado en las materias de las cuales es autoridad rectora y responsable en el Estado así como interponer acciones de inconstitucionalidad contra leyes que vulneren el derecho de acceso a la información y la protección de datos personales.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 71.
 
@@ -1039,17 +1221,21 @@ IV. Las donaciones, herencias y legados que se hicieren a su favor, y
 
 V. Todos los demás bienes o ingresos que adquiera por cualquier otro medio legal.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 72.
 
 El Instituto tiene la facultad de establecer su funcionamiento interno, en los términos que establece esta ley y las disposiciones normativas aplicables, bajo el principio de disponibilidad presupuestal.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 73.
 
 El Congreso del Estado, a través del Presupuesto de Egresos del Estado, analizará y, en su caso, aprobará los recursos que el Instituto solicite para el cumplimiento de sus funciones. Los recursos previstos para el Instituto no podrán ser inferiores en términos reales a los asignados en el ejercicio fiscal anterior, excepto cuando corresponda a una reducción generalizada del gasto para todas las dependencias y entidades públicas, o cuando el Instituto no presente los informes del ejercicio presupuestal que correspondan o si habiéndolos presentado existieran insuficiencias en su ejecución.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 2 DE MAYO DE 2016, PÁGINA 11.]</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
 ###### Artículo 74.
 
@@ -1059,41 +1245,37 @@ I. El ejercicio del presupuesto deberá ajustarse a los principios de austeridad
 
 II. De manera supletoria, podrán aplicarse en la materia, los ordenamientos jurídicos estatales en tanto no se opongan a la autonomía, naturaleza y funciones propias del Instituto.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
-
-III. El ejercicio presupuestal del instituto deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social;
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
-
-IV. El instituto manejará su patrimonio conforme a las disposiciones aplicables. En todo caso, el instituto requerirá el acuerdo del Consejo General, para dictar resoluciones que afecten el patrimonio inmobiliario o para celebrar actos o convenios que comprometan al instituto por un plazo mayor al período de su encargo, por lo que el instituto deberá observar las disposiciones aplicables a los órganos de gobierno de las entidades de la Administración Pública Estatal. El convenio siempre será por un tiempo determinado y con un objeto preciso;
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
-
-V. El instituto podrá celebrar acuerdos con las dependencias de los poderes ejecutivo o legislativo que correspondan, para que coadyuven, total o parcialmente, en las funciones relacionadas con la administración, control y fiscalización de su patrimonio, y
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
-
-VI. En todo lo relativo a la administración, control y fiscalización de su patrimonio, el instituto deberá observar las disposiciones aplicables a los órganos de gobierno de las entidades de la Administración Pública Estatal, según la materia de que se trate.
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 75.
 
 El Instituto elaborará su propio proyecto de presupuesto de egresos. El proyecto de presupuesto de egresos del Instituto, contemplará las partidas presupuestales necesarias para el cumplimiento de su objeto.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 76.
 
 El Instituto contará con los recursos humanos, financieros y materiales que autorice el presupuesto de egresos correspondiente.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 77.
 
 El Instituto gozará, respecto de su patrimonio, de las franquicias, exenciones y demás prerrogativas concedidas a los fondos y bienes del Estado.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 78.
 
 Todas las funciones y actividades del instituto, se regirán por los principios de constitucionalidad, legalidad, certeza, eficiencia, independencia, imparcialidad, transparencia, máxima publicidad, profesionalismo y objetividad.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 79.
 
 El Instituto, a través de su Comisionado Presidente, deberá presentar, a más tardar en el mes de febrero de cada año, un informe por escrito ante el Congreso del Estado sobre los trabajos realizados, el cual deberá hacer público a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables. Para este efecto el Instituto expedirá los Lineamientos que resulten necesarios.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 80.
 
@@ -1101,9 +1283,11 @@ Todos los servidores públicos que integren la planta del Instituto, son trabaja
 
 Las relaciones laborales generadas entre el Instituto y su personal se regirán por lo dispuesto en la Ley Federal del Trabajo.
 
-### CAPÍTULO III. DEL ACCESO A LA INFORMACIÓN PÚBLICA EN EL ESTADO
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+### CAPÍTULO II. DE SU CONFORMACIÓN Y ATRIBUCIONES
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 81.
 
@@ -1123,9 +1307,11 @@ b) El Consejo Consultivo Ciudadano.
 
 El instituto creará las unidades administrativas, técnicas y de vigilancia que resulten necesarias para el ejercicio de sus funciones y el debido cumplimiento de las obligaciones señaladas en la Ley General y en la presente Ley.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN SEGUNDA. LA PRESIDENCIA DEL CONSEJO GENERAL
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
 ###### Artículo 82.
 
@@ -1134,6 +1320,8 @@ El Consejo General es el órgano superior del instituto y tiene por objeto:
 I. Vigilar el cumplimiento de las disposiciones en la materia, e interpretar y aplicar las mismas, y
 
 II. Garantizar que todo sujeto obligado por la presente ley, cumpla con los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 83.
 
@@ -1144,6 +1332,8 @@ Los comisionados durarán en su encargo hasta cinco años de manera escalonada. 
 Se exceptúa de lo anterior el ejercicio de la docencia o la investigación académica, siempre que no medie remuneración alguna, y tratándose de los cargos o comisiones que deriven de las atribuciones del Sistema Nacional de Transparencia o de la propia Ley y demás normas que signifiquen una coordinación institucional.
 
 Las percepciones de los Comisionados serán de conformidad al presupuesto anual aprobado y de acuerdo al tabulador de salarios vigente.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 84.
 
@@ -1158,6 +1348,8 @@ III. Los aspirantes que hubieren cumplido los requisitos serán convocados a com
 IV. Concluido el periodo de comparecencias, la Comisión realizará la propuesta de aquellos aspirantes que cumplan con el perfil necesario para ser designados como comisionados, mediante el dictamen correspondiente, que contenga las ternas para Comisionados y lo presentará al Pleno del Congreso del Estado, para su discusión y, en su caso, aprobación, y
 
 V. Las dos terceras partes de los diputados presentes, aprobarán o rechazarán el dictamen que se les presente. En caso de no obtener la votación requerida, la Comisión Legislativa que corresponda, presentará otra propuesta hasta conseguir la votación que se requiera.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 85.
 
@@ -1179,11 +1371,15 @@ VII. No haber sido dirigente de un comité directivo, ejecutivo o equivalente de
 
 VIII. No haber desempeñado el cargo de Magistrado del Poder Judicial del Estado o integrante del Consejo de la Judicatura durante los últimos dos años inmediatos a la publicación de la convocatoria.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 86.
 
 El Consejo General celebrará sesiones públicas ordinarias por lo menos dos veces al mes, sin perjuicio de celebrar, en cualquier tiempo, las sesiones extraordinarias que sean necesarias para la eficaz marcha del Instituto, previa convocatoria del Comisionado Presidente o de al menos dos de los comisionados.
 
 Las sesiones del Consejo General se sujetarán a las reglas que al efecto se establezcan en el Reglamento Interno del Instituto.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 87.
 
@@ -1317,6 +1513,8 @@ d) Las demás necesarias para garantizar la participación ciudadana y comunitar
 
 VIII. Las demás que le confieran esta ley u otras disposiciones legales aplicables
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 88.
 
 Los Comisionados tendrán las siguientes atribuciones:
@@ -1341,9 +1539,13 @@ IX. Excusarse en el estudio de los recursos de revisión que les sean turnados, 
 
 X. Las demás que esta ley u otras disposiciones aplicables les confieran.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 89.
 
 Los comisionados desempeñan una función pública. En todo caso, la función de los comisionados se sujetará a los principios de autonomía, independencia, legalidad, excelencia, profesionalismo, imparcialidad, objetividad, probidad y honestidad.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 90.
 
@@ -1361,13 +1563,19 @@ IV. No ser dirigente de algún partido o asociación política, ni ministro de c
 
 V. Ser Licenciado en Derecho, preferentemente.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN TERCERA. DEL CONTRALOR GENERAL
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 91.
 
-El Consejo General y el instituto serán presididos por un comisionado, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de dos años, pudiendo ser reelecto por un período igual.
+El Consejo General y el Instituto serán presididos por un Comisionado, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de dos años, pudiendo ser reelecto por un período igual.
 
 El Comisionado Presidente será electo por el voto de la mayoría de los integrantes del Consejo General presentes en la sesión de elección.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 92.
 
@@ -1377,87 +1585,93 @@ En caso de ausencia definitiva del Comisionado Presidente, asumirá el cargo de 
 
 Se considerará ausencia definitiva, la inasistencia consecutiva y sin causa justificada, de algún comisionado, a tres sesiones agendadas y previamente notificadas personalmente. En caso de ausencia de uno o más de los comisionados, el Secretario General deberá de hacerlo del conocimiento del Congreso del Estado, para que éste inicie en un plazo no mayor a 15 días el procedimiento de designación.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 93.
 
 La Presidencia del Consejo General tendrá las atribuciones siguientes:
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 I. Representar legalmente al instituto ante cualquier entidad pública o privada;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(REFORMADA, P.O. 2 DE MAYO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
-II. Establecer los vínculos necesarios entre el instituto Nacional, el Consejo Consultivo Ciudadano y las demás autoridades federales, estatales y municipales, para lograr su apoyo, colaboración y auxilio, en sus respectivos ámbitos de competencia;
+II. Establecer los vínculos necesarios entre el instituto con el Instituto Nacional, el Consejo Consultivo Ciudadano y las demás autoridades federales, estatales y municipales, para lograr su apoyo, colaboración y auxilio, en sus respectivos ámbitos de competencia;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 III. Representar al Instituto ante el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 IV. Conducir las sesiones del Consejo General;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 V. Vigilar, por conducto de la Secretaría General, que los asuntos, procedimientos y recursos de la competencia del Consejo General, se tramiten hasta ponerlos en estado de resolución en los términos de las leyes respectivas;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 VI. Dictar las medidas de salvaguarda para proteger los datos personales, en caso de extrema urgencia;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 VII. Vigilar, con auxilio de la Secretaría General, el cumplimiento de los acuerdos adoptados por el Consejo General;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 VIII. Proponer anualmente al Consejo General, el proyecto de presupuesto de egresos del instituto para su aprobación;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 2.]</small>
+(REFORMADA, P.O. 2 DE MAYO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+IX. Remitir al Congreso del Estado, el proyecto de presupuesto de egresos del Instituto aprobado por el Consejo General, en los términos de la ley de la materia;
 
-IX. Remitir al Congreso del Estado, el proyecto de presupuesto de egresos del instituto aprobado por el Consejo General, en los términos de la ley de la materia;
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 X. Ejercer las partidas presupuestales aprobadas;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XI. Ejercer, previo acuerdo del Consejo General, actos de dominio;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XII. Rendir los informes ante las autoridades competentes, en representación del Consejo General o del instituto;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XIII. Otorgar poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales, incluso las que requieran cláusula especial conforme a la ley. Para el otorgamiento de poderes generales o especiales para actos de dominio y con facultades cambiarias, deberá contar con la autorización del Consejo General del instituto;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XIV. Emitir los acuerdos que sean necesarios para la rápida y eficaz realización y desarrollo de sus atribuciones;
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XV. Otorgar los nombramientos del personal del instituto, y
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 XVI. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN CUARTA. DEL CONSEJO CONSULTIVO CIUDADANO
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 94.
 
 El Instituto contará con un Contralor General, quien durará en su encargo dos años, con posibilidad de ratificación.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 95.
 
 El contralor será designado por el Congreso del Estado con el voto de las dos terceras partes de los Diputados presentes, debiendo seguir el mismo procedimiento establecido para la elección de los Comisionados del Instituto.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 96.
 
@@ -1474,6 +1688,8 @@ IV. Haberse desempeñado en actividades de servicio público o académicas, rela
 V. No haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol, de alguna droga o enervantes, y
 
 VI. No haber desempeñado en los dos últimos años anteriores al día de su designación el cargo de legislador local o federal, servidor público de mando superior de la Federación, del Estado o de los Ayuntamientos, o haber ocupado algún cargo de un partido político.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 97.
 
@@ -1517,11 +1733,17 @@ XVIII.- Informar a la Secretaría de la Contraloría y Transparencia Gubernament
 
 XIX.- Las demás que le otorgue esta Ley, la Ley de responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, Reglamento del Instituto y leyes aplicables en la materia.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN PRIMERA. PROCEDENCIA DEL RECURSO DE REVISIÓN
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 98.
 
-El Consejo Consultivo Ciudadano es un órgano honorífico, de consulta y opinión del Instituto, el cual se integra por cinco Consejeros que gocen de reconocido prestigio en organizaciones de la sociedad civil o la academia, preferentemente con experiencia en las materias de transparencia, acceso a la información pública, protección de datos personales y derechos humanos.
+El Consejo Consultivo Ciudadano es un órgano honorífico, de consulta y opinión del Instituto, el cual se integra por cinco Consejeros que gocen de reconocido prestigio en organizaciones de la sociedad civil o la academia, preferentemente con experiencia en las materias de transparencia, acceso a la información pública, protección de datos personales, y derechos humanos.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 99.
 
@@ -1535,19 +1757,25 @@ III. No haber sido condenado por la comisión de algún delito, excepto culposo 
 
 IV. No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los tres años anteriores al día de su nombramiento.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 100.
 
 Los integrantes del Consejo Consultivo Ciudadano, serán nombrados siguiendo el mismo procedimiento establecido para los Comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 101.
 
 La duración del cargo no será mayor de cinco años y se realizará de manera escalonada, salvo que fuesen propuestos y ratificados para un segundo periodo.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 102.
 
 El Consejo Consultivo Ciudadano contará con un Presidente y un Secretario Técnico que serán elegidos entre sus propios integrantes por mayoría de votos, quienes durarán en su encargo un año y podrán ser reelectos por un periodo igual.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 103.
 
@@ -1555,13 +1783,19 @@ El presidente del Consejo Consultivo Ciudadano convocará a sesión cuando menos
 
 Las sesiones extraordinarias podrán convocarse a solicitud del presidente del Consejo General del Instituto, o por solicitud que al presidente del Consejo formulen por lo menos tres de sus miembros cuando estimen que hay razones de importancia para ello y así se justifique en un escrito de petición.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 104.
 
 Las decisiones del Consejo Consultivo Ciudadano en sus sesiones se tomarán por el voto de la mayoría de sus integrantes, teniendo el Presidente voto de calidad para el caso de empate en la votación.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 105.
 
 El Consejo Consultivo Ciudadano contará con los apoyos necesarios para el desarrollo de sus actividades.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 106.
 
@@ -1587,7 +1821,7 @@ IX. Participar en el Secretariado Técnico Local, y
 
 X. Las demás que le señalen las disposiciones normativas aplicables.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 107.
 
@@ -1627,7 +1861,7 @@ VII. Realizar la entrega recepción formalmente al presidente que lo sustituya, 
 
 VIII. Las demás que establezca el Reglamento Interno del Consejo Consultivo Ciudadano.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2016)</small>
+(ADICIONADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 108.
 
@@ -1647,19 +1881,29 @@ VI. Presentar un informe de su gestión anual y realizar la entrega recepción f
 
 VII. Las demás que establezca el Reglamento Interno del Consejo Consultivo Ciudadano.
 
-### CAPÍTULO IV. EL RECURSO DE REVISIÓN
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO III. DEL ACCESO A LA INFORMACIÓN PÚBLICA EN EL ESTADO
+
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### ARTÍCULO 109.
 
-Los sujetos obligados no podrán establecer en los procedimientos de acceso a la información, mayores requisitos ni plazos superiores a los estrictamente establecidos en la Ley General ni en esta ley, a efecto de garantizar que acceso sea sencillo, pronto y expedito.
+Los sujetos obligados no podrán establecer en los procedimientos de acceso a la información, mayores requisitos ni plazos superiores a los estrictamente establecidos en la Ley General ni en esta ley, a efecto de garantizar que el acceso sea sencillo, pronto y expedito.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 110.
 
 Toda persona, sin necesidad de acreditar interés alguno, por sí o a través de su representante legal, tendrá acceso gratuito a la información pública y a sus datos personales en poder de los sujetos obligados, salvo los casos de excepción contemplados por esta ley.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 111.
 
 Para presentar una solicitud de acceso a la información o para iniciar otro de los procedimientos previstos en esta ley, las personas tienen el derecho de que el sujeto obligado le preste servicios de orientación y asesoría. Las Unidades de Transparencia auxiliarán a los particulares en la elaboración de solicitudes, especialmente cuando el solicitante no sepa leer ni escribir, hable una lengua indígena, desconozca el uso de medios electrónicos, o se trate de una persona que se encuentre en situación de vulnerabilidad.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 112.
 
@@ -1675,6 +1919,8 @@ Cuando la solicitud se realice verbalmente, el encargado de la Unidad de Transpa
 
 Cuando la solicitud se realice en términos de la fracción II de este artículo, la Unidad de Transparencia registrará la solicitud en el sistema electrónico de solicitudes de acceso a la información que para el efecto se implemente y le entregará al interesado el acuse de recibo.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 113.
 
 La solicitud de información que se presente deberá contener cuando menos los siguientes datos:
@@ -1687,21 +1933,27 @@ III. El lugar o medio para recibir la información y las notificaciones. En el c
 
 IV. La modalidad en la que prefiere se otorgue la información, la cual podrá ser verbal, siempre y cuando sea para fines de orientación, mediante consulta directa, copias simples, certificadas, reproducción digitalizada, u otro tipo de medio electrónico, previo el pago de derechos que en su caso proceda.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 114.
 
 Cuando las Unidades de Transparencia determinen la notoria incompetencia por parte de los sujetos obligados dentro del ámbito de su aplicación, para atender la solicitud de acceso a la información, deberán de comunicarlo al solicitante, dentro de los tres días posteriores a la recepción de la solicitud y, en caso de poder determinarlo, señalarán al solicitante el o los sujetos obligados competentes.
 
 Si los sujetos obligados son competentes para atender parcialmente la solicitud de acceso a la información, deberán de dar respuesta respecto de dicha parte. Respecto de la información sobre la cual es incompetente se procederá conforme a lo señalado en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 115.
 
 Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con alguno de los requisitos señalados en el artículo 113 de esta Ley, el sujeto obligado dentro de los cinco días siguientes a la recepción de la solicitud, mandará requerir al solicitante en el medio señalado por éste para recibir notificaciones, a efecto de que en un plazo de cinco días contados, a partir del día siguiente a la notificación del requerimiento, aclare, precise o complemente su solicitud de acceso a la información. En caso de que el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo establecido en el artículo 124 de esta Ley. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir al solicitante para que subsane su solicitud.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 116.
 
 El acceso a la información pública será gratuito, sin perjuicio de lo dispuesto en las leyes aplicables en la materia.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 117.
 
@@ -1710,6 +1962,8 @@ Admitida la solicitud de información por el sujeto obligado, la Unidad de Trans
 La información se proporcionará en el estado en que se encuentre en los archivos de los sujetos obligados. La obligación no comprende el procesamiento de la misma, ni el presentarla conforme al interés del solicitante.
 
 En el caso que la información solicitada por la persona ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles mediante acceso remoto o en cualquier otro medio, se le hará saber por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 118.
 
@@ -1723,6 +1977,8 @@ III. Ordenará, siempre que sea materialmente posible, que se genere o se repong
 
 IV. Notificará al órgano de control interno o equivalente del sujeto obligado quien, en su caso, deberá iniciar el procedimiento de responsabilidad que corresponda.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 119.
 
 La obligación de dar acceso a la información se tendrá por cumplida cuando la información se entregue al solicitante en medios electrónicos, ésta se ponga a su disposición para consulta en el sitio en que se encuentra, o bien mediante la expedición de copias simples o certificadas. El acceso a la información se dará solamente en la forma en que lo permita el documento de que se trate.
@@ -1731,13 +1987,19 @@ En el caso de que la información ya esté disponible en medios electrónicos, l
 
 En el caso de que la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, informes, trípticos o en cualquier otro medio, se le hará saber al solicitante por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información en un plazo no mayor a cinco días.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 120.
 
 Los solicitantes tendrán un plazo de treinta días a partir de que se les notifique la respuesta de acceso a la información para realizar el pago a que se refiere la ley respectiva y, en caso de no hacerlo dentro del plazo, deberán realizar una nueva solicitud de información sin responsabilidad para el sujeto obligado.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 121.
 
 La certificación de documentos conforme a esta ley tiene por objeto establecer que en los archivos del sujeto obligado existe un documento en original, copia simple, digitalizada u otro medio electrónico, igual al que se entrega.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 122.
 
@@ -1749,7 +2011,7 @@ II. El acceso suponga el pago de una contraprestación en los términos de los o
 
 III. No se requiera acreditar interés alguno.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 123.
 
@@ -1757,11 +2019,15 @@ La respuesta a una solicitud de acceso a la información, deberá ser notificada
 
 Excepcionalmente, el plazo a que se refiere el párrafo anterior, podrá ampliarse hasta por diez días más cuando existan razones que lo motiven. La ampliación del plazo se notificará al solicitante a más tardar el octavo día del plazo descrito. No podrán invocarse como causales de ampliación del plazo aquellos motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 124.
 
 Cuando el sujeto obligado no de la respuesta a la solicitud de acceso dentro de los plazos previstos en esta ley, el solicitante podrá interponer el recurso de revisión, en los términos de esta ley y demás disposiciones aplicables.
 
 En caso de que el instituto determine la publicidad de la información, motivo de dicho recurso, el sujeto obligado deberá proporcionar la información corriendo a su costa, los gastos correspondientes.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 125.
 
@@ -1769,9 +2035,13 @@ En caso de que sea necesario cubrir costos para obtener la información en algun
 
 La Unidad de transparencia tendrá disponible la información solicitada durante un plazo mínimo de 60 días a partir de que el solicitante hubiere realizado el pago respectivo.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 126.
 
 Las Unidades de Transparencia no estarán obligadas a dar trámite a solicitudes ofensivas o cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 127.
 
@@ -1779,9 +2049,15 @@ Excepcionalmente, cuando de forma fundada y motivada, así lo determine el sujet
 
 En todo caso se facilitará su copia simple o certificada, así como su reproducción por cualquier medio disponible en las instalaciones del sujeto obligado, que en su caso aporte el solicitante.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO DE DENUNCIA POR INCUMPLIMIENTO
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO IV. EL RECURSO DE REVISIÓN
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 #### SECCIÓN SEGUNDA. REQUISITOS PARA LA INTERPOSICIÓN DEL RECURSO DE REVISIÓN
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 128.
 
@@ -1815,6 +2091,8 @@ XIII. La orientación a un trámite específico.
 
 La respuesta que den los sujetos obligados, derivada del cumplimiento de la resolución a un recurso de revisión que proceda por las causales señaladas en las fracciones III, VI, VIII, IX, X y XI, es susceptible de ser impugnada de nueva cuenta mediante recurso de revisión ante el Instituto.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 129.
 
 El recurso de revisión podrá interponerse, de manera directa, por correo certificado o por medios electrónicos, ante el Instituto, o ante la Unidad de Transparencia del sujeto obligado que haya dado respuesta a la solicitud de acceso a la información.
@@ -1825,6 +2103,8 @@ En el caso de que se interponga de manera directa, por correo certificado o por 
 
 Para los ayuntamientos de difícil acceso o que no cuenten con los medios para acceder a Internet, el plazo para la remisión del recurso se podrá ampliar por el Instituto hasta por cinco días hábiles siempre que así lo justifique el ayuntamiento de que se trate.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 130.
 
 Toda persona podrá interponer, por sí o a través de su representante legal, el recurso de revisión, mediante escrito libre o a través de los formatos establecidos por el Instituto para tal efecto o por medio del sistema electrónico que establezca el Instituto y habilitado para tal fin, dentro de los quince días siguientes contados a partir de:
@@ -1833,9 +2113,11 @@ I. La notificación de la respuesta a su solicitud de información; o
 
 II. El vencimiento del plazo para la entrega de la respuesta de la solicitud de información, cuando dicha respuesta no hubiere sido entregada.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN TERCERA. LA SUBSTANCIACIÓN DEL RECURSO DE REVISIÓN
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 131.
 
@@ -1857,11 +2139,13 @@ VII. La copia de la respuesta que se impugna, salvo en caso de falta de respuest
 
 Adicionalmente se podrán anexar las pruebas y demás elementos que se consideren procedentes hacer del conocimiento del Instituto.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+(REFORMADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 132.
 
 En el caso de que se omita alguno de los requisitos previstos en las fracciones I, IV y V del artículo anterior, el Comisionado Ponente tendrá un plazo de tres días para prevenir al recurrente, a fin de que subsane las deficiencias del recurso de revisión. El recurrente tendrá un plazo de diez días contados a partir de la notificación del requerimiento que se le formule, para subsanar las deficiencias del Recurso referido. Transcurrido el plazo concedido al recurrente, sin que se hubiese cumplido la prevención, el recurso se desechará en términos de la presente Ley. La prevención suspende los plazos previstos en este Capítulo.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 133.
 
@@ -1869,7 +2153,11 @@ El comisionado ponente deberá suplir las deficiencias que presente el recurso d
 
 En ningún caso será necesario que el particular ratifique el recurso de revisión interpuesto.
 
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
 #### SECCIÓN CUARTA. LA RESOLUCIÓN DEL RECURSO DE REVISIÓN
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 134.
 
@@ -1879,13 +2167,19 @@ En el caso de existir tercero interesado se le hará la notificación para que e
 
 Excepcionalmente, previa fundamentación y motivación, el Comisionado ponente podrá ampliar los plazos hasta por cinco días más, cuando la importancia y trascendencia del asunto así lo amerite.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 135.
 
 En todo momento, los Comisionados deberán tener acceso a la información clasificada para determinar su naturaleza según se requiera. El acceso se dará de conformidad con la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 136.
 
 La información reservada o confidencial que, en su caso, sea consultada por los Comisionados, por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no deberá estar disponible en el Expediente, salvo en los casos en los que sobreviniera la desclasificación de dicha información y continuara bajo el resguardo del sujeto obligado en el que originalmente se encontraba o cuando se requiera, por ser violaciones graves a derechos humanos o delitos de lesa humanidad, de conformidad con el derecho nacional y los tratados internacionales de los que el Estado mexicano sea parte.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 137.
 
@@ -1898,6 +2192,8 @@ I. Idoneidad: La legitimidad del derecho adoptado como preferente, que sea el ad
 II. Necesidad: La falta de un medio alternativo menos lesivo a la apertura de la información, para satisfacer el interés público, y
 
 III. Proporcionalidad: El equilibrio entre perjuicio y beneficio a favor del interés público, a fin de que la decisión tomada represente un beneficio mayor al perjuicio que podría causar a la población.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 138.
 
@@ -1917,23 +2213,31 @@ VI. El Instituto no estará obligado a atender la información remitida por el s
 
 VII. Decretado el cierre de instrucción, el Expediente pasará a resolución, en un plazo que no podrá exceder de veinte días.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 139.
 
 El Comisionado ponente podrá en cualquier momento del procedimiento buscar una conciliación entre el recurrente y el sujeto obligado, y en su caso con el tercero interesado. De llegarse a un acuerdo de conciliación entre las partes, ésta se hará constar por escrito y deberá ser ratificada en diligencia formal, la cual tendrá efectos vinculantes. El recurso quedará sin materia y el Instituto verificará el cumplimiento del acuerdo respectivo.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
+(REFORMADO, P.O. 25 DE ABRIL DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 140.
 
 Cuando se advierta del estudio del recurso de revisión, que el sujeto obligado no posee información, que de conformidad con sus atribuciones y obligaciones legales debía de haber generado, el Instituto deberá instruir al sujeto obligado para que la genere y la entregue al recurrente e informe al Instituto de su cumplimiento o en su caso manifieste la imposibilidad de hacerlo.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 141.
 
 Salvo prueba en contrario, la falta de contestación del sujeto obligado al recurso dentro del plazo respectivo, hará presumir como ciertos los hechos que se hubieren señalado en él, siempre que éstos le sean directamente imputables.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 142.
 
 Interpuesto el recurso por falta de respuesta, a más tardar al día siguiente de que se recibió el recurso, el comisionado ponente dará vista al sujeto obligado para que alegue lo que a su derecho convenga en un plazo no mayor a cinco días. Recibida su contestación, el Comisionado ponente deberá emitir su resolución en un plazo no mayor a cinco días, requiriéndole al sujeto obligado que entregue la información solicitada, siempre y cuando ésta no sea reservada o confidencial, en un plazo no mayor a diez días cubriendo los costos de reproducción del material que en su caso se pudieran generar.
+
+(REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 143.
 
@@ -1944,6 +2248,8 @@ I. Desechar o sobreseer el recurso;
 II. Confirmar la respuesta del sujeto obligado; o
 
 III. Revocar o modificar la respuesta del sujeto obligado.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 144.
 
@@ -1958,6 +2264,8 @@ III. Los alcances y efectos de la resolución, fijando los plazos y procedimient
 IV. El plazo para su cumplimiento que no podrá ser mayor a diez días, a partir de que surta efectos la notificación. Excepcionalmente, previa fundamentación y motivación, se podrá ampliar este plazo cuando el asunto así lo requiera, y
 
 V. Los puntos resolutivos.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 145.
 
@@ -1977,6 +2285,8 @@ VI. Se trate de una consulta, o
 
 VII. El recurrente amplíe su solicitud en el recurso de revisión, únicamente respecto de los nuevos contenidos.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 146.
 
 El recurso será sobreseído en los casos siguientes:
@@ -1991,9 +2301,13 @@ IV. Cuando admitido el recurso sobrevenga una causal de improcedencia, o
 
 V. El sujeto obligado responsable del acto lo modifique o revoque de tal manera que el recurso de revisión quede sin materia.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 147.
 
 Las actuaciones y resoluciones del instituto se notificarán, en el domicilio que al efecto señalen las partes o a través de la Plataforma Nacional, o en su defecto en los estrados. Las resoluciones deberán ser notificadas dentro de los tres días siguientes a que se dicten y surtirán efectos al día siguiente de que se notifiquen.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 148.
 
@@ -2001,9 +2315,13 @@ Los sujetos obligados deberán informar al instituto del cumplimiento de sus res
 
 En caso de incumplimiento de la resolución, el instituto conminará para que se cumpla en un plazo no mayor a cinco días, apercibido que de no hacerlo se iniciará procedimiento a fin de determinar si existe una causa de responsabilidad establecida en el artículo 156 de ésta Ley.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 149.
 
 Las autoridades judiciales tendrán acceso a la información reservada o confidencial cuando resulte indispensable para resolver el asunto y ésta hubiera sido ofrecida en juicio. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente judicial.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 150.
 
@@ -2017,17 +2335,27 @@ I. Confirme o modifique la clasificación de la información; o
 
 II. Confirme la inexistencia o negativa de la información.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 151.
 
 Los recursos de inconformidad que se presenten ante este instituto en términos de lo dispuesto por el Capítulo Segundo del Título Octavo de la Ley General, serán remitidos al Instituto Nacional a más tardar al día siguiente de su presentación.
 
-### CAPÍTULO II. DE LAS MEDIDAS DE APREMIO
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+## TÍTULO SEXTO. DEL PROCEDIMIENTO DE DENUNCIA POR INCUMPLIMIENTO DE LAS OBLIGACIONES DE TRANSPARENCIA Y MEDIDAS DE APREMIO
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO I. DEL PROCEDIMIENTO DE DENUNCIA POR INCUMPLIMIENTO
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 152.
 
 Cualquier persona podrá denunciar ante el Instituto, la falta de publicación en los portales electrónicos de los sujetos obligados, de las obligaciones de transparencia comunes y específicas que prevén la presente Ley, la Ley General y demás disposiciones aplicables.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 153.
 
@@ -2047,6 +2375,8 @@ En ningún caso el dato sobre el nombre y el perfil podrán ser un requisito par
 
 El denunciante podrá adjuntar los medios de prueba que estime necesarios para respaldar el incumplimiento denunciado.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 154.
 
 La denuncia podrá presentarse de la siguiente manera:
@@ -2060,6 +2390,8 @@ b) Por correo electrónico, dirigido a la dirección electrónica que al efecto 
 II. Por escrito libre, presentado físicamente, en la Unidad de Transparencia del Instituto.
 
 El Instituto pondrá a disposición de los particulares el formato de denuncia correspondiente, a efecto de que éstos, si así lo deciden, puedan utilizarlos. Asimismo, los particulares podrán optar por un escrito libre, conforme a lo previsto en esta Ley.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 155.
 
@@ -2089,33 +2421,37 @@ Si el Instituto considera que existe un incumplimiento total o parcial de la res
 
 En caso de que el Instituto considere que subsiste el incumplimiento total o parcial de la resolución, en un plazo no mayor a cinco días posteriores al aviso de incumplimiento al superior jerárquico del servidor público responsable del mismo, se emitirá un acuerdo de incumplimiento y se informará al Pleno para que, en su caso, imponga las medidas de apremio o determinaciones que resulten procedentes.
 
-### CAPÍTULO III. DE LAS SANCIONES
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO II. DE LAS MEDIDAS DE APREMIO
+
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 156.
 
 El Instituto, en el ámbito de su competencia, podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio, para asegurar el cumplimiento de sus determinaciones:
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
 I. Amonestación pública, o
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
+II. Multa, de veinte hasta trescientas veces el salario mínimo general vigente en el Estado.
 
-II. Multa, de veinte hasta trescientas veces el salario mínimo.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 El incumplimiento de los sujetos obligados será difundido en los portales de obligaciones de transparencia del Instituto y considerado en las evaluaciones que realice este.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
-En caso de que el incumplimiento de las determinaciones del Instituto implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 206 de la Ley General, deberá denunciar los hechos ante la autoridad competente.
+En caso de que el incumplimiento de las determinaciones del Instituto implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 206 de la Ley General y el 160 de la presente Ley, deberá denunciar los hechos ante la autoridad competente.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 Las medidas de apremio de carácter económico no podrán ser cubiertas con recursos públicos.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 157.
 
@@ -2123,15 +2459,19 @@ Si a pesar de la ejecución de las medidas de apremio previstas en el artículo 
 
 Transcurrido el plazo, sin que se haya dado cumplimiento, se determinarán las sanciones que correspondan.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
-
-[El artículo 158, fue observado por el Titular del Poder Ejecutivo, de conformidad con lo dispuesto por los artículos 53 fracciones III y VI, 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, mediante oficio número GEO/05/2016, fechado el 03 y recepcionado el 04 de febrero de 2016, por el Poder Legislativo del Estado de Oaxaca.]
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
 
 ###### Artículo 158.
 
 Las medidas de apremio deberán ser impuestas por el Instituto y ejecutadas por sí mismo o con el apoyo de la autoridad competente, de conformidad con las disposiciones normativas aplicables.
 
 Las multas que fijen el Instituto se harán efectivas ante la Secretaría de Finanzas, del Poder Ejecutivo del Estado, a través de los procedimientos que las leyes establezcan.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
+### CAPÍTULO III. DE LAS SANCIONES
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 159.
 
@@ -2169,13 +2509,19 @@ XV. No acatar las resoluciones emitidas por el Instituto, en ejercicio de sus fu
 
 XVI. Las demás que le señalen las disposiciones normativas aplicables.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 160.
 
 Las conductas a que se refiere el artículo anterior serán sancionadas por el Instituto y, en su caso, conforme a su competencia darán vista a la autoridad competente para que imponga o ejecute la sanción.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 161.
 
 Las responsabilidades que resulten de los procedimientos administrativos correspondientes derivados de la violación a lo dispuesto por el artículo 147 de esta Ley, son independientes de las del orden civil, penal o de cualquier otro tipo que se puedan derivar de los mismos hechos.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 162.
 
@@ -2183,15 +2529,21 @@ Ante incumplimientos en materia de transparencia y acceso a la información por 
 
 En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, sindicatos o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, el Instituto deberá dar vista al órgano interno de control del sujeto obligado relacionado con éstos, cuando sean Servidores Públicos, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 163.
 
 En aquellos casos en que el presunto infractor tenga la calidad de Servidor Público, el Instituto deberá remitir a la autoridad competente, junto con la denuncia correspondiente, un expediente en que se contengan todos los elementos que sustenten la presunta responsabilidad administrativa.
 
 La autoridad que conozca del asunto deberá informar de la conclusión del procedimiento y, en su caso, de la ejecución de la sanción al Instituto.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 164.
 
 Cuando se trate de presuntos infractores de sujetos obligados que no cuenten con la calidad de Servidor Público, el Instituto, será la autoridad facultada para conocer y desahogar el procedimiento sancionatorio conforme a esta Ley; y deberá llevar a cabo las acciones conducentes para la imposición y ejecución de las sanciones.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 165.
 
@@ -2203,47 +2555,45 @@ Una vez analizadas las pruebas y demás elementos de convicción, el Instituto r
 
 Cuando haya causa justificada por acuerdo indelegable del Instituto, podrá ampliar por una sola vez y hasta por un periodo igual el plazo de resolución.
 
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+
 ###### Artículo 166.
 
 En las normas respectivas del Instituto, se precisará toda circunstancia relativa a la forma, términos y cumplimiento de los plazos a que se refiere el procedimiento sancionatorio previsto en esta Ley, incluyendo la presentación de pruebas y alegatos, la celebración de audiencias, el cierre de instrucción y la ejecución de sanciones. En todo caso, será supletorio a este procedimiento sancionador lo dispuesto en las leyes en materia de procedimiento administrativo del orden jurídico que corresponda.
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 167.
 
 Las infracciones a lo previsto en la presente Ley por parte de sujetos obligados que no cuenten con la calidad de servidor público, serán sancionadas con:
 
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2016)</small>
+(F. DE E., P.O. 30 DE MARZO DE 2016) (REPUBLICADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)
 
 I. El apercibimiento, por única ocasión, para que el sujeto obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V, VI y X del artículo 206 de la Ley General y conforme a lo señalado en esta Ley;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien días de salario vigente en el Estado;
 
-Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de veinte a cien días de salario mínimo;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
+II. Multa de cincuenta a doscientos días de salario vigente en el Estado, en los casos previstos en las fracciones II y IV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
 
-II. Multa de cincuenta a doscientos días de salario mínimo, en los casos previstos en las fracciones II y IV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley, y
+III. Multa de cien a trescientos días de salario vigente en el Estado, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
+Se aplicará multa adicional de cinco días de salario vigente en el Estado, por día, a quien persista en las infracciones citadas en los incisos anteriores.
 
-III. Multa de cien a trescientos días de salario mínimo, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 206 de la Ley General y conforme a lo señalado en esta Ley.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2016, PÁGINA 3.]</small>
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
-
-Se aplicará multa adicional de cinco días de salario mínimo, por día, a quien persista en las infracciones citadas en los incisos anteriores.
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 168.
 
 En caso de que el incumplimiento de las determinaciones del Instituto implique la presunta comisión de un delito, deberá denunciar los hechos ante la autoridad competente.
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 169.
 
@@ -2312,3 +2662,25 @@ P.O. 25 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1939.- MEDIANTE EL CUAL SE REFORMA EL ARTICULO 140 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "PUBLICACIÓN INTEGRA DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado, con fecha quince de marzo de dos mil ocho.
+
+TERCERO. Se derogan todas las disposiciones normativas de igual o menor rango que se opongan a la presente Ley.
+
+CUARTO. El Instituto de Acceso a la Información Pública y Protección de Datos Personales, expedirá el Reglamento de la Ley, en un plazo de sesenta días, contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. El Instituto de Acceso a la Información Pública y Protección de Datos Personales, en el ámbito de su competencia, emitirá las disposiciones normativas, para dar cumplimiento a la presente Ley, en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor de esta Ley.
+
+SEXTO. Tratándose de datos personales en posesión de entes públicos, seguirá vigente la Ley de Protección de Datos Personales, vigente en el Estado, hasta en tanto no exista disposición en contrario.
+
+SÉPTIMO. Los sujetos obligados se incorporarán a la Plataforma Nacional de Transparencia, en los términos que establezcan los Lineamientos que para el efecto apruebe el Sistema Nacional de Transparencia.
+
+En tanto entren en vigor los Lineamientos que se refieren en el párrafo anterior, los sujetos obligados deberán mantener y actualizar en sus respectivas páginas de Internet, la información pública de oficio, conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca con fecha quince de marzo de dos mil ocho mediante Decreto número 221.
+
+OCTAVO. El Consejo Consultivo Ciudadano, integrado mediante Decreto número 1300 de la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, publicado el cinco de septiembre de dos mil quince en el Periódico Oficial del Gobierno del Estado de Oaxaca, deberá emitir sus Lineamientos de operación interna, en un plazo no mayor a treinta días naturales siguientes a la publicación del presente Decreto.
