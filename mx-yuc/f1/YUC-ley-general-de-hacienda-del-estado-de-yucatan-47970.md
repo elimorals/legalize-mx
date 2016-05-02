@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2015-12-24"
+last_updated: "2016-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -1355,15 +1355,11 @@ V.- Presentar a las autoridades fiscales la información que se les requiera med
 
 #### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SERVICIOS DE AUTORIZACIÓN, REGISTRO Y SUPERVISIÓN PARA LA INSTALACIÓN Y OPERACIÓN DE CASAS DE EMPEÑO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 #### SECCIÓN TERCERA. DE LA DETERMINACIÓN DE LOS DERECHOS
 
@@ -1387,9 +1383,9 @@ V. Por la revalidación extemporánea del estudio de cumplimiento y del permiso.
 
 Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 2 DE MAYO DE 2016)</small>
 
 ### CAPÍTULO II. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
@@ -1399,49 +1395,11 @@ Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del
 
 #### SECCIÓN CUARTA. OBLIGACIONES DE LOS CONTRIBUYENTES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTÍCULO 85-W.
 
-Los contribuyentes a que se refiere este capítulo tendrán las siguientes obligaciones:
-
-l. Presentar ante la Agencia de Administración Fiscal de Yucatán la solicitud de autorización para instalar y operar la casa de empeño, a través de la forma oficial que para tal efecto se publique, debidamente llenada, o a falta de ésta, mediante escrito libre que cumpla con lo dispuesto en el artículo 26 del Código Fiscal del Estado de Yucatán.
-
-La solicitud deberá contener firma autógrafa del operador de la casa de empeño, en el caso de personas físicas, o del representante legal, en el caso de personas morales que operen casas de empeño, de conformidad con el artículo 28 del Código Fiscal del Estado de Yucatán y deberá acompañarse con la siguiente documentación, en original y dos copias fotostáticas:
-
-a) Instrumento público con el que se acredite la personalidad jurídica del representante legal en el caso de personas morales, con poder general para actos de administración.
-
-b) Identificación oficial vigente con fotografía del operador en el caso de personas físicas, o del representante legal en el caso de personas morales.
-
-c) Tratándose de personas morales, los documentos públicos que acrediten su constitución y, en su caso, sus modificaciones.
-
-d) Constancia de inscripción en el registro público que al efecto lleva la Procuraduría Federal de Protección al Consumidor.
-
-e) Constancia de inscripción en el registro federal de contribuyentes.
-
-f) Constancia de inscripción en el registro estatal de contribuyentes.
-
-g) Comprobante de domicilio del establecimiento o sucursal, con un máximo de dos meses de antigüedad.
-
-h) Comprobante de pago de los derechos correspondientes.
-
-El trámite anterior aplicará también para la solicitud de revalidación anual del permiso, debiendo señalar el número de permiso otorgado por el estado para operar como casa de empeño y adjuntar copia fotostática del permiso inmediato anterior que le fue otorgado o bien, de su revalidación.
-
-Para las solicitudes de modificación y reposición, bastará cumplir los requisitos contenidos en los artículos 26 y 28 del Código Fiscal del Estado de Yucatán y señalar las razones que motivan la solicitud, así como exhibir los documentos que causan la modificación en original y dos copias fotostáticas; en el caso de robo o extravío, deberá adjuntarse una copia certificada de la denuncia de robo presentada ante el Ministerio Público o del acta de pérdida o extravío levantada ante la autoridad competente, de tratarse de reposición por deterioro del permiso o de la revalidación, este documento deberá ser entregado.
-
-II. Mantener en el establecimiento el permiso otorgado y a disposición de las autoridades, para el caso de que sea requerido.
-
-III. Proporcionar a las autoridades que así lo requieran, toda la información relacionada con los trámites administrativos realizados para la instalación, operación y funcionamiento de la casa de empeño en cumplimiento de las disposiciones de este capítulo.
-
-IV. Informar a la Agencia de Administración Fiscal de Yucatán, sobre cualquier cambio o modificación de la situación, operación o funcionamiento del establecimiento o sucursal, que implique una discrepancia con la información proporcionada al obtener el permiso y haga necesaria su modificación.
-
-V. Solicitar la cancelación del registro del permiso otorgado ante la Agencia de Administración Fiscal de Yucatán, con diez días de anticipación a aquel en el cual pretendan cerrar las puertas al público del establecimiento o sucursal por cese definitivo de operaciones, debiendo adjuntar copia fotostática del permiso original y de la última revalidación otorgada.
-
-Se procederá a la cancelación solicitada, de no existir adeudo por concepto de los derechos previstos en este capítulo.
-
-VI. Presentar la información que señalen las autoridades mediante reglas de carácter general.
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
 
 ### CAPÍTULO III. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO CIVIL
 
@@ -3979,9 +3937,9 @@ La recaudación de este derecho se destinará íntegramente al Poder Judicial de
 
 ### CAPÍTULO XXIV. DERECHOS POR LOS SERVICIOS DE AUTORIZACIÓN, REGISTRO Y SUPERVISIÓN PARA LA INSTALACIÓN Y OPERACIÓN DE CASAS DE EMPEÑO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 2 DE MAYO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -4003,37 +3961,27 @@ La recaudación de este derecho se destinará íntegramente al Poder Judicial de
 
 ###### ARTÍCULO 85-R.
 
-Las personas físicas y morales que operen casas de empeño en el estado de Yucatán pagarán los derechos establecidos en este capítulo por la expedición del permiso para su instalación y funcionamiento, y por llevar a cabo su inscripción en el registro estatal de casas de empeño, con base en el estudio de cumplimiento de requisitos que realizarán las autoridades competentes del estado; así como por su revalidación anual, por cada modificación y por cada reposición del permiso otorgado.
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-Para efectos de este capítulo, se entiende por casas de empeño, a los establecimientos que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Los sujetos pasivos de esta contribución deberán obtener autorización por cada establecimiento o sucursal que operen en el estado y pagar el derecho correspondiente por cada uno de ellos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 85-S.
 
-La Agencia de Administración Fiscal de Yucatán realizará el estudio de la solicitud presentada por el interesado así como de la documentación a que se refiere el artículo 85-W de este capítulo, a efecto de verificar que esta cumple con todos los requisitos para su funcionamiento y determinar si procede conceder el permiso o revalidación para que el establecimiento o sucursal opere como casa de empeño en el estado de Yucatán, siendo el caso, la autoridad expedirá el permiso correspondiente y efectuará su inscripción en el Registro Estatal de Casas de Empeño.
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-El permiso otorgado será de vigencia anual y deberá solicitarse su revalidación dentro del mes anterior a su expiración. Cualquier solicitud de revalidación presentada después de concluida su vigencia, se considerará como solicitud de revalidación extemporánea.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTÍCULO 85-T.
 
-La Agencia de Administración Fiscal de Yucatán realizará periódicamente visitas de verificación a los establecimientos que operen como casas de empeño, a fin de supervisar y vigilar su cumplimiento a las obligaciones previstas en este capítulo. Estas visitas se sujetarán a lo dispuesto por el artículo 72 del Código Fiscal del Estado de Yucatán.
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTÍCULO 85-U.
 
-La Agencia de Administración Fiscal de Yucatán llevará y mantendrá actualizado un registro de las casas de empeño que operan en el estado, que contendrá todos los datos relativos a las autorizaciones otorgadas, sus revalidaciones anuales, modificaciones y reposiciones.
+(DEROGADO, D.O. 2 DE MAYO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4416,3 +4364,23 @@ Los derechos contenidos en las fracciones III y IV del artículo 85-G de la Ley 
 Séptimo. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 383/2016 POR EL QUE SE EMITE LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 01 de julio de 2016 previa publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El gobernador deberá realizar las modificaciones al Reglamento de la Ley de la Agencia de Administración Fiscal de Yucatán, para armonizarla en lo conducente a las disposiciones de este decreto, dentro de los noventa días naturales siguientes contados a partir de su entrada en vigor.
+
+Tercero. Casas de empeño preestablecidas
+
+Las casas de empeño ya instaladas deberán apegarse a los términos de esta ley y gestionar el permiso a que hace referencia ante la Agencia de Administración Fiscal de Yucatán, dentro de los noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Cuarto. Derogación tacita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
