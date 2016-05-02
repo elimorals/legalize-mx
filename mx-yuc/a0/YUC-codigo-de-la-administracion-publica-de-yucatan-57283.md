@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2016-04-09"
+last_updated: "2016-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -1307,9 +1307,35 @@ XIV.- Coadyuvar con la Secretaría General de Gobierno en el adecuado funcionami
 
 XV.- Participar, conforme a los convenios respectivos, en el traslado de internos de los centros de reclusión en el Estado;
 
-XVI.- Verificar el cumplimiento de las leyes y reglamentos con relación a las funciones de tránsito y protección civil, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XVII.- Coordinarse con las demás dependencias del Ejecutivo para generar la infraestructura necesaria para la profesionalización de los cuerpos de seguridad pública.
+> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+
+XVI.- Verificar el cumplimiento de las leyes y reglamentos con relación a las funciones de tránsito y protección civil;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+
+XVII.- Coordinarse con las demás dependencias del Ejecutivo para generar la infraestructura necesaria para la profesionalización de los cuerpos de seguridad pública;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
+
+XVIII.- Realizar, bajo la coordinación de la Fiscalía General del Estado, la investigación de los hechos que la ley señale como delito, de manera objetiva, técnica, científica y sin dilaciones; y elaborar los registros de las diligencias efectuadas, para la integración de la carpeta de investigación;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
+
+XIX.- Realizar las detenciones en flagrancia así como las ordenadas por la Fiscalía General del Estado por casos urgentes, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la ley procesal; y elaborar el registro de las detenciones, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
+
+XX.- Prestar el servicio de escolta pública en los términos del ordenamiento que regule el sistema de seguridad pública del estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3120,3 +3146,23 @@ El Gobernador del estado deberá realizar las modificaciones al Reglamento del C
 Noveno. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 382/2016 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2016, previa publicación en el diario oficial del estado.
+
+Segundo. Recursos que se transfieren
+
+Los recursos humanos, materiales y presupuestales asignados a la Policía Ministerial Investigadora de la Fiscalía General, se transferirán a la Secretaría de Seguridad Pública, ambas dependencias del Poder Ejecutivo del Estado de Yucatán.
+
+Tercero. Derechos laborales.
+
+Se salvaguardan los derechos laborales de los servidores públicos y empleados de la actual Policía Ministerial Investigadora.
+
+Cuarto. Derogación tácita
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
