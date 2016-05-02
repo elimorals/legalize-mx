@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-a-la-informacion-publica-para-el-estado-y-los-397
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2013-07-25"
+last_updated: "2016-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 2 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento Número 30 del Diario Oficial del Estado de Yucatán, el lunes 31 de mayo de 2004.
 
@@ -539,7 +541,7 @@ III.- La información de carácter personal, que se obtenga legalmente al interv
 
 IV.- La concerniente al patrimonio, incluyendo la de los servidores públicos, salvo que los declarantes autoricen su divulgación;
 
-V.- La que ponga en riesgo la vida, la integridad, el patrimonio, la seguridad o la salud de cualquier persona; o afecte directamente el ámbito de la vida privada de las personas, y (sic)
+V.- La que ponga en riesgo la vida, la integridad, el patrimonio, la seguridad o la salud de cualquier persona; o afecte directamente el ámbito de la vida privada de las personas, y
 
 > <small>(REFORMADA, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -551,7 +553,7 @@ VII.- Aquella cuya difusión esté, prohibida por una cláusula o convenio de co
 
 > <small>(ADICIONADA, D.O. 6 DE ENERO DE 2012)</small>
 
-VIII.- Cualquier otra .que por mandato expreso de una ley sea considerada confidencial o secreta.
+VIII.- Cualquier otra que por mandato expreso de una ley sea considerada confidencial o secreta.
 
 > <small>(ADICIONADO, D.O. 6 DE ENERO DE 2012)</small>
 
@@ -683,7 +685,7 @@ V.- Proponer a las autoridades educativas competentes, la inclusión en los prog
 
 VI.- Impulsar, conjuntamente con instituciones de educación superior, la investigación, difusión y docencia sobre el derecho de acceso a la información pública;
 
-VII.- Difundir y ampliar el conocimiento sobre la materia de esta ley, y (sic)
+VII.- Difundir y ampliar el conocimiento sobre la materia de esta ley, y
 
 > <small>(REFORMADA, D.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -1443,7 +1445,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O. 18 DE AGOSTO DE 2008.
 
@@ -1512,3 +1514,77 @@ El Instituto Estatal de Acceso a la Información Pública, deberá adecuar las d
 ###### ARTÍCULO CUARTO.
 
 Los recursos de inconformidad que se encuentren en trámite hasta la entrada en vigor del presente Decreto, seguirán substanciándose conforme a la legislación vigente al momento de su inicio.
+
+D.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 388/2016 POR EL QUE SE EMITE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, publicada, mediante decreto 515, en el diario oficial del estado, el 31demayode (sic) 2004. Sin embargo, continuará vigente para los asuntos que, a la entrada en vigor de este decreto, se encuentren en trámite.
+
+Tercero. Protección de datos personales y archivo
+
+En tanto no se expida la Ley General en materia de Datos Personales en Posesión de Sujetos Obligados permanecerá vigente el capítulo V “De la protección de datos personales”, del título primero de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, que contiene los artículos del 20 al 26. De igual forma, procederá, el recurso de revisión previsto en esta ley en contra del tratamiento inadecuado de los datos personales a que se refiere el artículo 45, fracción VIII, de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán.
+
+Por otra parte, en tanto no se expida la Ley General en materia de Organización y Administración Homogénea de los Archivos, permanecerá vigente el artículo 38 y el capítulo III “Del archivo administrativo”, del título segundo de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, que contiene los artículos 38 bis y 38 ter.
+
+Las disposiciones a que se refieren los párrafos primero y segundo de este artículo se aplicarán siempre que no contravengan los lineamientos, criterios y acuerdos que expida el Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+Cuarto. Expedición de reglamento interior
+
+El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, deberá expedir su reglamento interior dentro de un plazo de ciento veinte días naturales, contados a partir de la entrada en vigor de este decreto, así como sus manuales de procedimientos o cualquier otra documentación necesaria para el ejercicio de sus atribuciones.
+
+Quinto. Aplicación de la normatividad vigente del instituto
+
+En tanto el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales expide la normatividad a que se refiere el artículo transitorio anterior, continuará aplicando, en lo que no se oponga a esta ley, su reglamento interior y demás normatividad vigente.
+
+Sexto. Obligaciones normativas
+
+Los sujetos obligados deberán expedir, dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de la ley, la normatividad necesaria para regular sus unidades y comités de transparencia y dar cumplimiento a las disposiciones de la ley.
+
+Séptimo. Aplicación de la normatividad vigente de los sujetos obligados
+
+En tanto entra en vigor la normatividad a que se refiere el artículo transitorio anterior, los sujetos obligados continuarán aplicando, en lo que no se oponga a esta ley, su normatividad vigente.
+
+Octavo. Secretario ejecutivo
+
+El Secretario Ejecutivo del Instituto Estatal de Acceso a la Información Pública que a la entrada en vigor de este decreto se encuentre en funciones asumirá la titularidad de la unidad administrativa del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, relacionada con su administración y finanzas, la cual desempeñará, hasta el 29 de septiembre de 2019.
+
+Noveno. Incorporación a la plataforma nacional
+
+La información que a la entrada en vigor de este decreto obre en los sitios electrónicos de los sujetos obligados se incorporará a la Plataforma Nacional de Transparencia, en los términos que establezcan los lineamientos que, para tal efecto, emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Décimo. Apoyo para incorporarse a la plataforma nacional
+
+Sin perjuicio de que la información que generen y posean es considerada pública, de conformidad con lo señalado en la Ley General de Transparencia y Acceso a la Información Pública y que le son aplicables sus procedimientos, principios y bases; en tanto el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales emite los lineamientos, mecanismos y criterios correspondientes para determinar las acciones a tomar, los municipios con población menor a setenta mil habitantes cumplirán con las obligaciones de transparencia de conformidad con sus posibilidades presupuestarias.
+
+Décimo Primero. Obligaciones de Transparencia
+
+Las nuevas obligaciones de transparencia establecidas en los artículos 70 al 82 de la Ley General de Transparencia y Acceso a la Información Pública serán aplicables solo respeto (sic) de la información que se genere a partir del 5 de mayo de 2015 y deberán publicarse en la forma, términos y plazos establecidos en el acuerdo del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales por el que se aprueban los lineamientos para cumplir con dichas obligaciones.
+
+Décimo Segundo. Remisión de listados al instituto
+
+Para efectos de lo dispuesto en el artículo anterior, por única ocasión, los sujetos obligados deberán remitir al instituto, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor de este decreto, el listado de los sindicatos y las personas físicas o morales a las que les asignen recursos o, en términos de las disposiciones aplicables, les instruyan ejecutar un acto de autoridad.
+
+Décimo Tercero. Notificación a cargo del fideicomitente único de la administración pública estatal
+
+La Secretaría de Administración y Finanzas, en su carácter de fideicomitente único de la Administración Pública estatal, deberá notificar, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este decreto, a las dependencias y entidades responsables de coordinar la operación de fideicomisos o fondos públicos, la responsabilidad derivada del artículo 26 de la Ley General de Transparencia y Acceso a la Información Pública y 39, párrafo segundo, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
+
+Décimo Cuarto. Clasificación de la información
+
+Los sujetos obligados deberán clasificar su información en un plazo máximo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo Quinto. Capacitación
+
+El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en ejercicio de sus atribuciones, realizará las acciones necesarias para capacitar a los sujetos obligados sobre las disposiciones contenidas en la ley tendientes a lograr su cabal cumplimiento.
+
+Décimo Sexto. Integración del consejo consultivo
+
+El Congreso deberá expedir la convocatoria para la designación de los integrantes del Consejo Consultivo del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales dentro de los treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Por única ocasión, para garantizar el nombramiento escalonado de los integrantes del Consejo Consultivo del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales, el Congreso designará a tres consejeros para un período de dos años y tres consejeros para un período de un año.
