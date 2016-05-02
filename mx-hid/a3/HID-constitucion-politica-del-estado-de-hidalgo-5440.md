@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2016-04-11"
+last_updated: "2016-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -135,17 +135,47 @@ En el Estado de Hidalgo, queda prohibida toda discriminación motivada por el or
 
 Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deberá combatirse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)</small>
+
+###### Artículo 4° Bis.
+
+El derecho de petición será atendido por los servidores públicos, cuando se formule por escrito o por los medios que al efecto prevenga la Ley, de manera pacífica y respetuosa.
+
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
-
-###### Artículo 4 Bis.
-
-El derecho de petición, será atendido por los Funcionarios y Empleados Públicos, cuando se formule por escrito o por los medios que al efecto prevenga la Ley, de manera pacífica y respetuosa. En materia política, sólo podrán hacer uso de este derecho los Ciudadanos Hidalguenses.
 
 A toda petición, deberá recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer al peticionario en breve término.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
-Toda persona tiene derecho de acceder a la Información Pública conforme a la Ley de la Materia y estará garantizada por el Estado.
+Toda persona tiene derecho de acceder a la información pública y estará garantizado por el Estado, así como a la protección de sus datos personales conforme a la ley reglamentaria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
+
+El derecho de acceso a la información pública, se regirá por los siguientes principios:
+
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial del Estado, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, a quienes se les denominará sujetos obligados, es pública y sólo podrá ser reservada temporalmente por las razones y en los términos que señalen las leyes.
+
+En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
+
+Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La ley de la materia, determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
+
+II. De la información que se refiere a la vida privada y los datos personales en posesión de los sujetos obligados, los titulares de ésta, tendrán derecho al acceso, a la rectificación o a la cancelación y será protegida en los términos y con las excepciones que fije la ley reglamentaria;
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, en los términos que fije la ley secundaria; y
+
+IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, así como en la Plataforma Nacional de Transparencia, la información completa y actualizada sobre el ejercicio de los recursos públicos, que permitan rendir cuentas del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
+
+El Estado contará con un Órgano Garante autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, al que se le denominará Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios rectores que establece esta Constitución y las leyes secundarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
+
+El Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo se integrará por cinco comisionados que permanecerán en su encargo por un período de siete años y no podrán ser reelectos. Su designación se realizará en los términos de la ley reglamentaria de manera escalonada para garantizar el principio de autonomía, procurando la igualdad de género y privilegiando la experiencia en materia de acceso a la información pública y protección de datos personales. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
+
+Su funcionamiento se regirá bajo los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Tendrá las facultades y obligaciones que le señale la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
 
@@ -1140,6 +1170,10 @@ VII. Recibir la protesta al cargo de Diputados, Gobernador, Magistrados, Conseje
 VIII. Aprobar en su caso, la propuesta del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal Administrativo, así como conocer de su renuncia o remoción.
 
 Nombrar de las listas propuestas por el titular del Ejecutivo, al Procurador General de Justicia del Estado y al Subprocurador de Asuntos Electorales, así como conocer de su renuncia o remoción;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
+
+VIII Bis.- Nombrar a los Comisionados del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia.
 
 IX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
@@ -3758,3 +3792,13 @@ P.O. 11 DE ABRIL DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se deroga cualquier disposición que se oponga al contenido del presente Decreto
+
+P.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 651 QUE REFORMA EL ARTÍCULO 4 BIS Y ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El Congreso deberá emitir la ley secundaria en el plazo señalado en el Transitorio Quinto del Decreto que contiene la Ley General de Transparencia y Acceso a la Información Pública.
+
+TERCERO.- Los consejeros que actualmente conforman el Instituto de Acceso a la Información Pública Gubernamental para el Estado de Hidalgo continuarán en sus funciones, conforme a la ley secundaria y hasta la fecha de terminación del período para el que fueron originariamente designados.
