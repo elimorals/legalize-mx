@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-82-organica-de-la-procuraduria-general-de-110873"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-11"
-last_updated: "2015-12-14"
+last_updated: "2016-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 14 DE DICIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MAYO DE 2016.
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 11 de diciembre de 2015.
 
@@ -374,6 +372,10 @@ II. Concientizar al personal de la Procuraduría respecto a que en el ejercicio 
 III. Vigilar, a través de visitas, que el personal de la Procuraduría cumpla con el ejercicio de la protección de los derechos humanos y la garantía de su aplicación;
 
 Promover que se aplique la perspectiva de género en la investigación y persecución de delitos contra la mujer y, vigilar que se brinde, tratándose de menores de edad o de personas con capacidades diferentes, un trato acorde a sus circunstancias personales, sin demeritar la dignidad de los mismos;
+
+> <small>(ADICIONADO, B.O. 2 DE MAYO DE 2016)</small>
+
+Diseñar y elaborar un Protocolo de actuación para la investigación del delito de feminicidio con perspectiva de género, en el que se establezcan las bases mínimas para el procedimiento de investigación e integración del delito de Feminicidio, que deberá desarrollarse con la debida diligencia por parte del personal del Ministerio Público, de la Policía Estatal Investigadora y del personal de Servicios Periciales, en cumplimiento de la obligación de proteger los derechos humanos de las mujeres del Estado de Sonora.
 
 IV. Brindar atención integral a la víctima o al ofendido del delito, por sí o en convenio con las instituciones de seguridad pública y de atención a víctimas de conformidad con las disposiciones normativas aplicables;
 
@@ -1292,3 +1294,17 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los diez días de diciembre del año dos mil quince.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO. RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA. RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 54 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del día siguiente de la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado contará con un plazo de 60 días hábiles para la elaboración y publicación en el Boletín Oficial del Gobierno del Estado, del protocolo de actuación para la investigación en el delito de feminicidio con perspectiva de género para el Estado de Sonora.
