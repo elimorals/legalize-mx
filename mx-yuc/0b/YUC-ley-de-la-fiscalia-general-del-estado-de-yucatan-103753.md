@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-103753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-29"
-last_updated: "2014-11-29"
+last_updated: "2016-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 29 de noviembre de 2014.
 
@@ -71,13 +71,21 @@ II. Recibir las denuncias o querellas sobre los hechos posiblemente delictivos.
 
 III. Ejercer las facultades discrecionales del Ministerio Público de abstenerse de investigar, de archivo temporal, de no ejercicio de la acción penal y de aplicación de criterios de oportunidad, en términos de la ley procesal.
 
-IV. Investigar los hechos que la ley señale como delito, de manera objetiva, técnica, científica y sin dilaciones; solicitar la autorización judicial de las diligencias de investigación que la requieran en términos de la ley procesal, y registrar las diligencias realizadas en la carpeta de investigación.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+
+IV. Coordinar la investigación de los hechos que la ley señale como delito, de manera objetiva, técnica, científica y sin dilaciones; solicitar la autorización judicial de las diligencias de investigación que la requieran en términos de la ley procesal, y registrar las diligencias realizadas en la carpeta de investigación.
 
 V. Ejercer la dirección funcional de las instituciones policiales con presencia en el estado, cuando realicen actividades de investigación, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 VI. Llevar un registro de la cadena de custodia y preservar las evidencias recopiladas durante la investigación.
 
-VII. Realizar las detenciones en flagrancia o por casos urgentes, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la ley procesal; conocer las practicadas por otras autoridades y llevar un registro de las detenciones.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+
+VII. Ordenar las detenciones por casos urgentes, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la ley procesal; conocer las practicadas por otras autoridades y llevar un registro de las detenciones.
 
 VIII. Perseguir, ante los tribunales, los delitos del orden estatal; solicitar las órdenes de aprehensión contra los imputados; así como, obtener y presentar las pruebas que acrediten los elementos del tipo penal y la responsabilidad de los imputados.
 
@@ -93,7 +101,11 @@ XIII. Presentar la acusación, ofrecer pruebas y alegatos, e interponer los recu
 
 XIV. Solicitar a la autoridad judicial que gire los exhortos correspondientes, y las solicitudes de asistencia jurídica internacional, cuando se requiera la colaboración de las autoridades de otros estados o extranjeras.
 
-XV. Otorgar atención a las víctimas u ofendidos, proporcionarles orientación jurídica, propiciar que se garantice o se cubra la reparación del daño y canalizarlos a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+
+XV. Otorgar atención a las víctimas u ofendidos, proporcionarles orientación jurídica, propiciar que se garantice o se cubra la reparación del daño y canalizarlos a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, en términos de lo dispuesto en las leyes general y estatal de víctimas.
 
 XVI. Tramitar ante el juez competente las órdenes de protección previstas en la Ley de Acceso de las Mujeres a una Vida libre de Violencia del Estado de Yucatán.
 
@@ -105,7 +117,9 @@ XIX. Participar, en los términos de las leyes aplicables, en las instancias de 
 
 XX. Suministrar, sistematizar, e intercambiar con las demás autoridades federales, estatales y municipales, información sobre seguridad pública; prevención, investigación y persecución del delito; e imputados, procesados, y sentenciados.
 
-XXI. Prestar, en coordinación con la Secretaría de Seguridad Pública, el servicio de escolta pública en los términos del ordenamiento que regule el sistema de seguridad pública del estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXI. (DEROGADA, D.O. 2 DE MAYO DE 2016)
 
 XXII. Coordinarse, en el ámbito de su competencia, con las autoridades federales, estatales y municipales, así como con las instituciones del sector académico, social, público y privado, para el cumplimiento de su objeto.
 
@@ -125,7 +139,11 @@ Las instituciones policiales que presten su auxilio en las labores de investigac
 
 Las instrucciones a que se refiere el párrafo anterior podrán ser generales o particulares. Las primeras serán emitidas por el Fiscal General mediante acuerdo y serán aplicables para todas las instituciones policiales y para todos los casos que regulen, las segundas serán emitidas por el agente o fiscal responsable del caso, instruirán la realización de una o varias diligencias de investigación y se dirigirán a una institución policial específica.
 
-Cuando los miembros de las instituciones policiales no dependan de la Fiscalía General del Estado, actúen bajo instrucciones de esta y no cumplan con lo instruido, el Fiscal General podrá solicitar a la autoridad competente les sean aplicadas las sanciones correspondientes.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+
+Cuando los miembros de las instituciones policiales no cumplan con lo instruido por la Fiscalía General del Estado, esta solicitará a la autoridad competente que les sean impuestas las sanciones correspondientes.
 
 ### Capítulo II. Bases de organización
 
@@ -153,7 +171,11 @@ III. Emitir las instrucciones generales en materia de investigación que serán 
 
 IV. Establecer las reglas y los criterios a los que se sujetarán los fiscales para ejercer las facultades discrecionales del Ministerio Público de abstenerse de investigar, de archivo temporal, de no ejercicio de la acción penal y de aplicación de criterios de oportunidad, en términos de la ley procesal.
 
-V. Dictar los criterios generales que deberán regir la protección y la atención de víctimas, ofendidos y testigos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+
+V. Dictar los criterios generales que deberán regir la protección y la atención de testigos.
 
 VI. Proponer al Gobernador, por conducto de la Consejería Jurídica, los proyectos de leyes, reglamentos y decretos relacionados con las funciones de la Fiscalía General del Estado.
 
@@ -209,7 +231,11 @@ I. La Fiscalía General del Estado contará con fiscalías especializadas en la 
 
 II. La Fiscalía General del Estado contará con fiscalías regionales en las circunscripciones territoriales que determine el Fiscal General, atendiendo a la distribución competencial territorial que haya determinado el Consejo de la Judicatura y a la incidencia delictiva.
 
-III. Se procurará la descentralización de los servicios ministeriales, periciales, de investigación, de solución alternativa de controversias, de atención a víctimas, de atención temprana y administrativos en las fiscalías especiales y regionales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+
+III. Se procurará la descentralización de los servicios ministeriales, periciales, de investigación, de solución alternativa de controversias, de atención temprana y administrativos en las fiscalías especiales y regionales.
 
 ###### Artículo 11.
 
@@ -239,13 +265,49 @@ X. Promover la celebración de acuerdos reparatorios entre la víctima o el ofen
 
 XI. Las demás que les otorguen esta ley, su reglamento, la ley procesal y las demás disposiciones legales y normativas aplicables.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2016)</small>
+
+###### Artículo 11 Bis.
+
+Instituto de Ciencias Forenses
+
+La Fiscalía General del Estado contará con un órgano desconcentrado, denominado Instituto de Ciencias Forenses, con autonomía técnica y de gestión, el cual tendrá las siguientes atribuciones:
+
+I. Proporcionar los servicios forenses, educativos y de investigación de su competencia bajo los principios de excelencia, ética, objetividad, imparcialidad, profesionalismo e independencia.
+
+II. Vigilar que durante la realización de los peritajes se respeten estrictamente los derechos humanos de los posibles responsables y las víctimas.
+
+III. Verificar que la cadena de custodia y la preservación y el registro de evidencias que efectúen los peritos cumplan con las disposiciones establecidas en la ley procesal para demostrar su valor probatorio.
+
+IV. Revisar que los dictámenes, estudios, informes o reportes que se elaboren cumplan con las disposiciones legales y normativas aplicables, e implementar las adecuaciones o modificaciones que estime pertinentes.
+
+V. Brindar el apoyo y la asesoría técnica que requiera el Ministerio Público para la investigación de los hechos presuntamente delictivos.
+
+VI. Garantizar que su personal cuente con los conocimientos y las aptitudes técnicas para efectuar adecuadamente los peritajes necesarios y presentar, cuando se le solicite, los dictámenes, estudios, informes o reportes elaborados, así como las observaciones, conclusiones o cualquier otra información que pueda ser de utilidad en el proceso penal.
+
+VII. Colaborar y coordinarse, en el ámbito de su competencia, con las instituciones de seguridad pública de los tres órdenes de gobierno, principalmente, en la investigación de los hechos presuntamente delictivos y en la transferencia de información en la materia.
+
+VIII. Establecer y operar un sistema de supervisión permanente del personal técnico y científico de las principales especialidades del instituto, a efecto de garantizar que cumplan las normas jurídico-administrativas en la materia.
+
+IX. Habilitar y, en su caso, contratar peritos cuando la institución no cuente con especialistas en determinada disciplina, ciencia, arte u oficio cuyo dictamen sea necesario, o que se trate de casos urgentes.
+
+X. Proponer al fiscal la celebración de convenios de coordinación o de colaboración con las dependencias y entidades federales, estatales y municipales, así como con las instituciones de educación superior nacionales o extranjeras, para la prestación de los servicios periciales e intercambios en la materia.
+
+El instituto estará a cargo de un director, quien será nombrado y removido libremente por el gobernador y se auxiliará de las unidades administrativas que requiera para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestal.
+
 ### Capítulo III. Servicio profesional de carrera
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### Artículo 12.
 
-Servicio profesional de carrera
+Servicio profesional de la carrera
 
-El servicio profesional de carrera de la Fiscalía General del Estado contemplará el ingreso, permanencia, certificación y separación de los fiscales, peritos y policías ministeriales, y se llevará a cabo conforme a lo establecido por el ordenamiento que regule el sistema de seguridad pública del estado y demás disposiciones legales y normativas aplicables.
+El servicio profesional de carrera de la Fiscalía General del Estado contemplará el ingreso, permanencia, certificación y separación de los fiscales y peritos, y se llevará a cabo conforme a lo establecido por el ordenamiento que regule el sistema de seguridad pública del estado y demás disposiciones legales y normativas aplicables.
 
 ###### Artículo 13.
 
@@ -261,7 +323,11 @@ El servicio profesional de carrera garantizará la igualdad de oportunidades lab
 
 Incompatibilidad
 
-Los fiscales, peritos y policías ministeriales no podrán:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+
+Los fiscales ni los peritos podrán:
 
 I. Desempeñar empleo, cargo o comisión de cualquier naturaleza en la Administración Pública federal, estatal o municipal, así como trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice el Fiscal del estado.
 
@@ -307,7 +373,11 @@ VI. Abstenerse de ejercer la acción penal o de extinción de dominio en los cas
 
 VII. Omitir la práctica de las diligencias necesarias en cada asunto.
 
-VIII. Realizar detenciones o retenciones sin cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y en la ley procesal, o sin registrarlas.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+
+VIII. Ordenar detenciones o retenciones sin cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y en la ley procesal, o sin registrarlas.
 
 IX. Recibir compensaciones, pagos o gratificaciones distintas a las previstas por las disposiciones legales y normativas aplicables.
 
@@ -380,3 +450,17 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 386/2016 POR EL QUE SE MODIFICA LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2016, previa publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
