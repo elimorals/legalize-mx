@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-publica-del-estado-de-yucatan-14428"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2013-07-25"
+last_updated: "2016-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO: 25 DE JULIO DE 2013.
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADA EN EL D.O. DE 2 DE MAYO DE 2016, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE OCTUBRE DE 2016.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 15 de mayo de 1999.
 
@@ -847,7 +849,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 31 DE MAYO DE 2004.
 
@@ -870,3 +872,39 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo del Estado de Yucatán, dentro de un plazo de 180 días naturales contados a partir de la publicación de este Decreto, deberá emitir las adecuaciones reglamentarias respecto del funcionamiento y organización de la Policía Vecinal.
+
+D.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 385/2016 POR EL QUE SE EMITE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2016, previa publicación en el diario oficial del estado.
+
+Segundo. Abrogación de leyes
+
+Se abroga la Ley de Seguridad Pública del Estado de Yucatán, publicada en el diario oficial del estado el 15 de mayo de 1999.
+
+Tercero. Abrogación de decretos
+
+Se abrogan el Decreto 375/2011 que crea el Centro Estatal de Evaluación y Control de Confianza y el Decreto 49/2013 por el que se crea el Centro Estatal de Prevención Social del Delito y Participación Ciudadana de Yucatán, publicados en el diario oficial del estado el 4 de febrero de 2011 y el 21 de marzo de 2013, respectivamente.
+
+Cuarto. Instalación del consejo estatal
+
+El Consejo Estatal de Seguridad Pública deberá instalarse dentro de un plazo de sesenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación de los consejos municipales
+
+Los consejos municipales de seguridad pública deberán instalarse dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Sexto. Obligación normativa del gobernador
+
+El gobernador deberá expedir los reglamentos de esta ley en materia de servicio profesional de carrera que correspondan a las instituciones de seguridad pública de su competencia dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Acceso a la prestación del servicio de escolta pública
+
+Para no afectar los derechos adquiridos, quienes hayan desempeñado el cargo de director de la Policía Ministerial Investigadora podrán acceder al servicio de escolta pública, en términos de esta ley.
+
+Octavo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
