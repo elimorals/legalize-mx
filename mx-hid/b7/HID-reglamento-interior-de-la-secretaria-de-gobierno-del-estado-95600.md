@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-956
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2013-07-31"
+last_updated: "2016-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2016.
 
 Reglamento publicado en el Alcance Uno del Periódico Oficial del Estado de Hidalgo, el miércoles 31 de julio de 2013.
 
@@ -103,7 +103,7 @@ a. Unidades Administrativas Adscritas al Despacho del Secretario:
 
 1. Dirección General de Administración;
 
-2. Dirección General de Comunicación Social;
+2. (DEROGADO, P.O. 2 DE MAYO DE 2016)
 
 3. Dirección General de Publicaciones e Impresos; y
 
@@ -117,13 +117,17 @@ b. Subsecretaría de Gobernación:
 
 3. Dirección General de Gobernación en Tulancingo de Bravo;
 
-4. Dirección General de Coordinación Regional; y
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+
+4. Dirección General de Investigaciones Políticas y Sociales; y
 
 5. Dirección General de Asuntos Agrarios.
 
 c. Subsecretaría de Gobierno en la Huasteca Hidalguense:
 
-1. Dirección General de Gobernación en la Huasteca.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+
+1. Dirección General de Gobernación en la Huasteca Hidalguense.
 
 d. Subsecretaría de Gobierno en el Valle del Mezquital:
 
@@ -137,7 +141,9 @@ e. Subsecretaría de Desarrollo Político y Asuntos Religiosos:
 
 f. Coordinación General Jurídica:
 
-1. Dirección General Jurídica;
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+
+1. Dirección General Jurídica y de Derechos Humanos;
 
 g. Subsecretaría de Protección Civil y Gestión de Riesgos:
 
@@ -146,6 +152,10 @@ g. Subsecretaría de Protección Civil y Gestión de Riesgos:
 h. Coordinación del Centro de Información y Seguridad Estatal.
 
 i. Subsecretaría de Transporte
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+1. Dirección General de Normatividad, Operación y Evaluación.
 
 j. Junta de Asesores:
 
@@ -281,27 +291,7 @@ XIV.- Las demás facultades que le confiera el Secretario y las disposiciones le
 
 ###### Artículo 15.
 
-Corresponde al titular de la Dirección General de Comunicación Social las siguientes facultades:
-
-I.- Coordinar la captación, selección, registro y análisis de la información relevante generada en los medios de comunicación, impresos y electrónicos, internacionales, nacionales y regionales que se relacionen con las actividades desarrolladas por el Gobierno;
-
-II.- Generar las estrategias que permitan una comunicación abierta, transparente, clara y oportuna, sobre el quehacer del Gobierno, con el objeto de que la ciudadanía conozca, acepte y valore positivamente la gestión del Gobierno;
-
-III.- Conducir la atención, clasificación, y acreditación de los medios de comunicación; asimismo proporcionar los insumos necesarios en el desempeño de las actividades de los mismos y procurar una permanente vinculación, registro y actualización con las diversas modalidades de expresión;
-
-IV.- Definir objetivos de corto, mediano y largo plazo para la comunicación social del Gobierno;
-
-V.- Mantener un vínculo permanente con los medios de otras entidades federativas, los órganos de comunicación social de los diversos órdenes y niveles de Gobierno; asimismo, con los medios de comunicación de los sectores social y privado;
-
-VI.- Difundir y distribuir en coordinación con las áreas involucradas los materiales impresos, trabajos, síntesis informativa, crónicas y demás materiales;
-
-VII.- Planear e instrumentar los mecanismos necesarios para recabar información relativa al Estado, de los programas y actividades del Gobierno Federal, Estatal y Municipal, para proporcionarla a los medios de comunicación;
-
-VIII.- Producir, resguardar y catalogar las expresiones fotográficas y digitales de las actividades Gubernamentales;
-
-IX.- Realizar estudios de opinión pública que permitan conocer el efecto de las acciones que realiza el Gobernador y las dependencias, a petición de éste o del Secretario; y
-
-X.- Las demás facultades que le confiera el Secretario y las disposiciones legales.
+(DEROGADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 16.
 
@@ -351,9 +341,11 @@ X.- Las demás facultades que le confiera el Secretario y las disposiciones lega
 
 Al frente de cada Subsecretaría y Coordinación adscrita a la Secretaría habrá un titular que asumirá la responsabilidad de su funcionamiento y será auxiliado por los Directores Generales, Directores de Área, Subdirectores y demás servidores públicos aprobados en el Manual de Organización y cuyas plazas se encuentren incluidas en el Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)</small>
+
 ###### Artículo 19.
 
-Corresponde a los Subsecretarios, al Coordinador General Jurídico, al Coordinador del Centro de Información y Seguridad Estatal y al Coordinador de la Junta de Asesores:
+Corresponde a los Titulares de las Subsecretarías, de la Coordinación General Jurídica, de la Coordinación del Centro de Información y Seguridad Estatal, de la Coordinación de la Junta de Asesores y de la Coordinación General de Comunicación Social:
 
 I.- Planear, programar, dirigir, controlar y evaluar las labores encomendadas a su cargo y establecer mecanismos de integración e interrelación que propicien el óptimo desarrollo de las responsabilidades que son competencia de la Secretaría, así como formular los anteproyectos de programas y de presupuesto que, en su caso, les correspondan;
 
@@ -415,9 +407,17 @@ I.- Planear, organizar, programar, dirigir, coordinar, controlar, ejecutar, supe
 
 II.- Promover el fortalecimiento de las relaciones políticas, entre el Estado, autoridades federales, municipales, ejidales, sector social, sector privado y organizaciones religiosas, de conformidad a los lineamientos, normas y políticas aprobadas por el Gobernador y el Secretario;
 
-III.- Llevar el registro y certificación de firmas de los Servidores Públicos Estatales, Municipales y demás a quienes esté encomendada la fe pública; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
 
-IV.- Las demás facultades que le confiera el Secretario y las disposiciones legales.
+III.- Llevar el registro de firmas de los Servidores Públicos Estatales, Municipales y demás a quienes esté encomendada la fe pública, que por ley o reglamento los faculten para expedir documentos para su legalización o apostilla;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
+
+IV.- Operar el procedimiento de legalización de firmas, así como el de apostilla de documentos a que se refiere la fracción anterior; y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
+
+V.- Las demás facultades que le confiera el Secretario y las disposiciones legales aplicables.
 
 ###### Artículo 22.
 
@@ -475,31 +475,37 @@ XI.- Representar al Gobernador, al Secretario o a cualquier otro funcionario est
 
 XII.- Las demás facultades que le confiera el Secretario y las disposiciones legales.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+
 ###### Artículo 24.
 
 Corresponde al titular de la Subsecretaría de Desarrollo Político y Asuntos Religiosos, como facultades de carácter específico:
 
-I.- Planear, dirigir, coordinar supervisar, evaluar y procurar el fortalecimiento de la vida democrática estatal mediante el análisis de los escenarios políticos y la generación de políticas públicas;
+I.- Apoyar al Secretario en las tareas de planeación del desarrollo político para que, en los términos de las disposiciones jurídicas aplicables, se mantengan las condiciones de gobernabilidad democrática;
 
-II.- Coordinar las relaciones de Gobierno con las organizaciones de la sociedad civil en asuntos de su competencia;
+II.- Facilitar la proactividad en la toma de decisiones gubernamentales mediante el análisis de los escenarios políticos a nivel municipal, regional y estatal;
 
-III.- Analizar el funcionamiento de las Instituciones públicas del Estado para realizar estudios que contribuyan a su modernización y al equilibrio entre los poderes estatales;
+III.- Auxiliar al titular del ramo en la conducción de las relaciones políticas del Poder Ejecutivo Estatal con las organizaciones sociales y civiles, tales como sindicatos, organismos no gubernamentales y asociaciones civiles;
 
-IV.- Estudiar los problemas políticos coyunturales del Estado para promover programas, estrategias y acciones que contribuyan a su adecuada solución;
+IV.- Coordinar la vinculación y colaboración con otras instancias del Ejecutivo Estatal, órganos constitucionales autónomos, los municipios, los partidos, agrupaciones y organizaciones políticas y sociales, instituciones educativas y de investigación, medios de comunicación y con la población en general; acciones que contribuyan a la promoción de los valores y principios democráticos;
 
-V.- Implementar políticas públicas tendientes a incrementar y fortalecer los niveles de participación ciudadana y la cultura política estatal;
+V.- Analizar los procesos político-electorales y poner en práctica estrategias que contribuyan al fortalecimiento de la vida democrática;
 
-VI.- Analizar los procesos políticos-electorales y poner en práctica estrategias que contribuyan al desarrollo político;
+VI.- Implementar programas tendientes a mejorar los niveles y la eficacia de la participación ciudadana y a fomentar la cultura política a nivel estatal;
 
-VII.- Coordinar la vinculación y colaboración entre los poderes federal, estatal y municipal para promover el desarrollo político del Estado y atender las necesidades de las organizaciones políticas y sociales;
+VII.- Capacitar en temas político sociales al personal del servicio público a nivel local y estatal;
 
-VIII.- Desarrollar los programas y acciones correspondientes a la política del Gobernador en materia religiosa;
+VIII.- Brindar a las instituciones y organizaciones políticas, sociales y civiles la asesoría que requieran para su adecuada estructuración y funcionamiento, de conformidad con las disposiciones jurídicas aplicables;
 
-IX.- Representar y actuar en nombre del Gobernador o del Secretario en sus relaciones con las asociaciones, agrupaciones e instituciones religiosas;
+IX.- Desarrollar y administrar, sin perjuicio de la competencia que le corresponda a otras dependencias del Ejecutivo Federal y Estatal, la base de datos con relación a las organizaciones de la sociedad civil;
 
-X.- Participar en la formulación y aplicación de los convenios de colaboración o coordinación con autoridades estatales y municipales en materia de asuntos religiosos; en los términos previstos por la ley de la materia; y
+X.- Resolver los conflictos políticos, previo acuerdo con el Secretario a través de la concertación y el diálogo con la sociedad civil;
 
-XI.- Las demás facultades que le confiera el Secretario y las disposiciones legales.
+XI.- Representar y actuar en nombre del Gobernador o del Secretario en sus relaciones con las asociaciones, agrupaciones e instituciones religiosas;
+
+XII.- Participar en la formulación y aplicación de los convenios de colaboración o coordinación con autoridades estatales y municipales en materia de asuntos religiosos; en los términos previstos por la ley de la materia; y
+
+XIII.- Las demás facultades que le confiera el Secretario y las disposiciones legales aplicables.
 
 ###### Artículo 25.
 
@@ -541,7 +547,9 @@ XVI.- Delegar facultades de representación en todo tipo de juicios del fuero co
 
 XVII.- Emitir opinión sobre las consultas legales que le formulen las dependencias y entidades;
 
-XVIII.- Organizar y vigilar el funcionamiento del Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
+
+XVIII.- Organizar y vigilar el funcionamiento del Instituto de la Función Registral;
 
 XIX.- Revisar los proyectos de ley, reglamentos, convenios, contratos, acuerdos y cualquier otro ordenamiento jurídico que firme el Gobernador, el Secretario y otros titulares de dependencias y organismos públicos descentralizados;
 
@@ -565,7 +573,21 @@ XXVIII.- Llevar la interlocución del Poder Ejecutivo con el Colegio de Notarios
 
 XXIX.- Participar en reuniones y mesas de trabajo en materia electoral; y
 
-XXX.- Las demás facultades que le confiera el Secretario y las disposiciones legales.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
+
+XXX.- Coordinar, orientar y dar seguimiento a las recomendaciones, trabajos y acciones de protección y defensa de los derechos humanos que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
+
+XXXI.- Auxiliar al Secretario en la conducción de las relaciones del Poder Ejecutivo Estatal, con las autoridades electorales, partidos y agrupaciones políticas;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
+
+XXXII.- Coordinar y establecer las acciones de la Administración Pública del Estado en materia electoral, para dar cumplimiento a las disposiciones legales, administrativas y criterios electorales; y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
+
+XXXIII.- Las demás facultades que le confiera el Secretario y las disposiciones legales aplicables.
 
 ###### Artículo 26.
 
@@ -715,6 +737,30 @@ XI.- Realizar diagnósticos, e implementar acciones y que atiendan a las organiz
 
 XII.- Las demás facultades que les confiera el Secretario y las disposiciones legales.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+Artículo 29 BIS.- Corresponde al titular de la Coordinación General de Comunicación Social, las siguientes facultades:
+
+I.- Coordinar la captación, selección, registro y análisis de la información relevante generada en los medios de comunicación, impresos y electrónicos, internacionales, nacionales y regionales que se relacionen con las actividades desarrolladas por el Gobierno;
+
+II.- Generar las estrategias que permitan una comunicación abierta, transparente, clara y oportuna, sobre el quehacer del Gobierno, con el objeto de que la ciudadanía conozca, acepte y valore positivamente la gestión del Gobierno;
+
+III.- Conducir la atención, clasificación, y acreditación de los medios de comunicación; asimismo proporcionar los insumos necesarios en el desempeño de las actividades de los mismos y procurar una permanente vinculación, registro y actualización con las diversas modalidades de expresión;
+
+IV.- Definir objetivos de corto, mediano y largo plazo para la comunicación social del Gobierno;
+
+V.- Mantener un vínculo permanente con los medios de otras entidades federativas, los órganos de comunicación social de los diversos órdenes y niveles de Gobierno; asimismo, con los medios de comunicación de los sectores social y privado;
+
+VI.- Difundir y distribuir en coordinación con las áreas involucradas los materiales impresos, trabajos, síntesis informativa, crónicas y demás materiales;
+
+VII.- Planear e instrumentar los mecanismos necesarios para recabar información relativa al Estado, de los programas y actividades del Gobierno Federal, Estatal y Municipal, para proporcionarla a los medios de comunicación;
+
+VIII.- Producir, resguardar y catalogar las expresiones fotográficas y digitales de las actividades Gubernamentales;
+
+IX.- Realizar estudios de opinión pública que permitan conocer el efecto de las acciones que realiza el Gobernador y las dependencias, a petición de éste o del Secretario; y
+
+X.- Las demás facultades que le confiera el Secretario y las disposiciones legales aplicables.
+
 ### CAPÍTULO V. DE LA FACULTADES GENERALES DE LAS DIRECCIONES GENERALES
 
 ###### Artículo 30.
@@ -793,9 +839,11 @@ XIV.- Las demás que le confiera el Subsecretario de Gobernación y las disposic
 
 A la Dirección General de Gobernación en Pachuca, le corresponderán los asuntos que se susciten en los Municipios de Pachuca de Soto, Atotonilco el Grande, Epazoyucan, Mineral de la Reforma, Mineral del Monte, Mineral del Chico, Huasca de Ocampo y Omitlán de Juárez.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)</small>
+
 ###### Artículo 34.
 
-Corresponde a la Dirección General de Coordinación Regional, y a las Direcciones Generales de Gobernación, en Tula de Allende, Tulancingo de Bravo, Actopan, Ixmiquilpan y en la Huasteca, el ejercicio de las siguientes facultades:
+Corresponde a la Dirección General de Investigaciones Políticas y Sociales y a las Direcciones Generales de Gobernación, en Tula de Allende, Tulancingo de Bravo, Actopan, Ixmiquilpan, y en la Huasteca, el ejercicio de las siguientes facultades:
 
 I.- Establecer los mecanismos de comunicación y coordinación con los ayuntamientos de su región para el eficaz cumplimiento de sus funciones;
 
@@ -815,7 +863,9 @@ VII.- Las demás que le confiera el Subsecretario de Gobernación y las disposic
 
 Para el ejercicio de las facultades que este Reglamento confiere a las direcciones generales, se determinan los municipios que corresponden a cada una de ellas:
 
-I.- Dirección General de Coordinación Regional: Calnali, Huazalingo, Lolotla, Molango de Escamilla, Tepehuacán de Guerrero, Tlanchinol, Almoloya, Apan, Emiliano Zapata, Tepeapulco, Tlanalapa, Villa de Tezontepec, Tizayuca, Tolcayuca, Zapotlán de Juárez, Zempoala, Eloxochitlán, Juárez Hidalgo, San Agustín Metzquititlán, Metztitlán, Tlahuiltepa, Chapantongo, Huichapan, Nopala de Villagrán y Tecozautla.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
+
+I.- Dirección General de Investigaciones Políticas y Sociales: Calnali, Huazalingo, Lolotla, Molango de Escamilla, Tepehuacán de Guerrero, Tlanchinol, Almoloya, Apan, Emiliano Zapata, Tepeapulco, Tlanalapa, Villa de Tezontepec, Tizayuca, Tolcayuca, Zapotlán de Juárez, Zempoala, Eloxochitlán, Juárez Hidalgo, San Agustín Metzquititlán, Metztitlán, Tlahuiltepa, Chapantongo, Huichapan, Nopala de Villagrán y Tecozautla;
 
 II.- Dirección General de Gobernación en Tula de Allende: Tula de Allende, Ajacuba, Atotonilco de Tula, Atitalaquia, Tetepango, Tlaxcoapan, Tlahuelilpan, Tepeji del Río de Ocampo, Tezontepec de Aldama, Tepetitlán, Mixquiahuala de Juárez y Progreso de Obregón;
 
@@ -825,7 +875,9 @@ IV.- Dirección General de Gobernación en Actopan: Actopan, San Agustín Tlaxia
 
 V.- Dirección General de Gobernación en Ixmiquilpan: Ixmiquilpan, Chilcuautla, Nicolás Flores, Cardonal, Chapulhuacán, La Misión, Zimapán, Tasquillo, Pacula, Alfajayucan, Jacala de Ledezma, y Pisaflores; y
 
-VI.- Dirección General de Gobernación en la Huasteca: Huejutla de Reyes, Atlapexco, Huazalingo, Jaltocán, San Felipe Orizatlán, Yahualica, Xochiatipan y Huautla; (sic)
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2016)</small>
+
+VI.- Dirección General de Gobernación en la Huasteca Hidalguense: Huejutla de Reyes, Atlapexco, Huazalingo, Jaltocán, San Felipe Orizatlán, Yahualica, Xochiatipan y Huautla.
 
 ###### Artículo 36.
 
@@ -875,17 +927,37 @@ IX.- Auxiliar y asesorar a las diversas unidades de la Secretaría en materia de
 
 X.- Las demás que le confiera el Subsecretario de Gobernación y las disposiciones.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+
 ###### Artículo 38.
 
-Corresponde al titular de la Dirección General Jurídica, el ejercicio de las siguientes facultades:
+Corresponde al titular de la Dirección General Jurídica y de Derechos Humanos, el ejercicio de las siguientes facultades:
 
 I.- Ejercer, por delegación o ausencia del Coordinador General Jurídico, las facultades establecidas en el artículo 25 de este Reglamento;
 
 II.- Asesorar y, en su caso, revisar los informes, resoluciones y promociones que las dependencias, entidades, unidades administrativas y órganos desconcentrados del Gobierno deban presentar en juicios, recursos y diligencias;
 
-III.- Compilar y difundir las leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones federales, estatales y municipales; y
+III.- Diseñar y proponer el Programa Estatal de Derechos Humanos para el Estado de Hidalgo; así como dar el seguimiento correspondiente, en coordinación con sus superiores jerárquicos;
 
-IV.- Las demás que le confiera el Coordinador General Jurídico y las disposiciones legales.
+IV.- Compilar y difundir las leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones federales, estatales y municipales;
+
+V.- Sistematizar y difundir información relativa al cumplimiento de las recomendaciones emitidas por la Comisión Nacional y Estatal de Derechos Humanos;
+
+VI.- Constituir, administrar y mantener actualizado el registro de las recomendaciones que la Comisión Nacional y Estatal de los Derechos Humanos emita a las dependencias y entidades de la Administración Pública Federal;
+
+VII.- Orientar a las dependencias y entidades de la Administración Pública Estatal para el adecuado cumplimiento de las recomendaciones emitidas por la Comisión Nacional y Estatal de los Derechos Humanos;
+
+VIII.- Someter a consideración del Coordinador General Jurídico la forma en que serán atendidas las recomendaciones dictadas por la Comisión Nacional o Estatal de los Derechos Humanos que emita a las dependencias y entidades de la Administración Pública Estatal en materia de derechos humanos;
+
+IX.- Vincular sus acciones con organismos nacionales e internacionales en materia de derechos humanos, para la colaboración y atención de asuntos en esta materia;
+
+X.- Mantener un vínculo con las organizaciones de la sociedad civil dedicadas a la defensa de los derechos humanos, así como atender y, en su caso, remitir a las instancias competentes las peticiones que éstas le formulen, sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
+
+XI.- Dar trámite administrativo a las medidas que procuren el pleno respeto y cumplimiento, por parte de las autoridades de la Administración Pública Estatal, de las disposiciones jurídicas que se refieren a los derechos humanos y a las garantías para su protección;
+
+XII.- Coordinar la atención de las solicitudes de medidas precautorias o cautelares necesarias para prevenir la violación de Derechos Humanos; y
+
+XIII.- Las demás que le confiera el titular de la Coordinación General Jurídica y las disposiciones legales aplicables.
 
 ###### Artículo 39.
 
@@ -908,6 +980,38 @@ VII.- Fungir como secretario relator dentro de las sesiones del Consejo Estatal 
 VIII.- Encabezar las sesiones del Comité Estatal de Emergencias; y
 
 IX.- Las demás que le confiera el Subsecretario y las disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+Artículo 39 BIS. Corresponde al titular de la Dirección General de Normatividad, Operación y Evaluación, el ejercicio de las siguientes facultades:
+
+I. Asesorar jurídicamente a la Subsecretaría y a las demás unidades administrativas, a los Organismos Públicos Descentralizados de transporte, actuando como órgano jurídico de consulta, sistematizando y difundiendo los criterios necesarios para interpretar y aplicar, para efectos administrativos, las disposiciones legales que normen sus actividades;
+
+II. Organizar, dirigir y supervisar el funcionamiento de las áreas administrativas adscritas a la Subsecretaría;
+
+III. Someter a consideración del Subsecretario las políticas, programas, proyectos y estudios en materia de transporte;
+
+IV. Acordar con la Subsecretaría de Transporte los asuntos relevantes;
+
+V. Desempeñar las atribuciones y comisiones que el Subsecretario le delegue o encomiende, y mantenerlo informado de sus actividades;
+
+VI. Asegurarse del cumplimiento de los asuntos y trámites jurídicos de los Organismos, podrá atraer aquellos asuntos jurídicos que por su relevancia se considere pertinente llevar su tramitación;
+
+VII. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia;
+
+VIII. Evaluar de (sic) los proyectos y cumplimiento del Plan Estatal de Desarrollo;
+
+IX. Dar seguimiento a los proyectos especiales de la Subsecretaría de Transporte y de los Organismos;
+
+X. Coordinar a los Organismos para el seguimiento y evaluación de planes y programas establecidos para la consecución de los fines;
+
+XI. Proporcionar la información solicitada por la autoridad competente o por las unidades administrativas;
+
+XII. Expedir constancias de los documentos que obren en los archivos de la Subsecretaría, siempre que éstos no contravengan lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública Gubernamental del Estado de Hidalgo, Ley de Transporte para el Estado de Hidalgo y los Reglamentos que de ella emanen;
+
+XIII. Asegurar el buen uso y preservación de los bienes asignados; y
+
+XIV. Las demás facultades que le confieran la Subsecretaría de Transporte y los ordenamientos aplicables.
 
 ###### Artículo 40.
 
@@ -995,11 +1099,27 @@ El Secretario podrá revisar, confirmar, modificar o revocar las resoluciones di
 
 Para el cumplimiento cabal de sus facultades, los titulares de éstos órganos se podrán auxiliar de los servidores públicos que autorice el Secretario.
 
-### CAPÍTULO VII. DE LAS FACULTADES DEL ÓRGANO ADMINISTRATIVO DESCONCENTRADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2016)</small>
+
+### CAPÍTULO VII. DE LAS FACULTADES DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
 ###### Artículo 44.
 
-La Secretaría cuenta con un órgano administrativo desconcentrado denominado Consejo Estatal de Población.
+La Secretaría cuenta con los siguientes órganos administrativos desconcentrados:
+
+I. Consejo Estatal de Población;
+
+II. Instituto de Defensoría Pública del Estado de Hidalgo;
+
+III. Instituto de la Función Registral;
+
+IV. Secretaría Ejecutiva del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Hidalgo;
+
+V. Secretaría Técnica para la Implementación del Nuevo Sistema de Justicia Penal en Hidalgo; y
+
+VI. Dirección General del Mando Coordinado.
 
 ###### Artículo 45.
 
@@ -1019,9 +1139,49 @@ VI.- Colaborar con los municipios para la coordinación y ejecución de acciones
 
 VII.- Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+Artículo 45 BIS.- El Instituto de Defensoría Pública del Estado de Hidalgo tendrá las funciones que establece la Ley Orgánica del Instituto de Defensoría Pública del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+Artículo 45 TER.- El Instituto de la Función Registral llevará a cabo las funciones de publicitar la situación jurídica de los bienes y derechos, así como de brindar certeza jurídica de los actos que conforme a la ley deban registrarse para surtir efectos ante terceros, las cuales ejercerá a través del Registro Público de la Propiedad en el ámbito de las facultades y obligaciones que establece la ley en la materia.
+
+Atenderá la función registral relativa a personas morales y actos de Comercio en los términos previstos por la Legislación de la materia respecto de las mismas.
+
+El titular del Instituto de la Función Registral determinará su organización, procedimientos, sistemas y métodos de su funcionamiento, en términos de las facultades que determine la Ley en la materia y su reglamento y acordará con el Titular de la Coordinación General Jurídica de la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+Artículo 45 QUATER.- La Secretaría Ejecutiva del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Hidalgo tendrá las funciones que establece la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo. La Secretaría Ejecutiva contará con la normatividad relativa a su organización y procedimientos.
+
+La persona titular de la Secretaría Ejecutiva, acordará directamente con el Secretario las actividades del Órgano a su cargo.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+Artículo 45 QUINTUS.- La Secretaría Técnica para la Implementación del Nuevo Sistema de Justicia Penal en Hidalgo tendrá las funciones que establece el Acuerdo por el que se Crea la Secretaría Técnica para la Implementación del Nuevo Sistema de Justicia Penal en Hidalgo. La persona titular de la Secretaría Técnica deberá proponer e informar al Secretario, de manera periódica, las actividades del Órgano a su cargo.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2016)</small>
+
+Artículo 45 SEXTUS.- La Dirección General del Mando Coordinado, asesorará al Ejecutivo del Estado, para (sic) éste unifique, coordine y asuma el manejo, operación, supervisión y control de los cuerpos policiales de los municipios del Estado de Hidalgo, para lo cual deberá:
+
+I.- Elaborar y proponer cualquier instrumento jurídico para la integración, implementación y consolidación del Mando Coordinado en el Estado de Hidalgo;
+
+II.- Realizar un diagnóstico de los recursos con los que cuentan cada una de (sic) cuerpos policiales municipales;
+
+III.- Registrar y mantener actualizada la información de cuerpos policiales municipales;
+
+IV.- Elaborar, en coordinación con los titulares de la Secretaría de Gobierno y la Secretaría de Seguridad Publica, el plan de trabajo para la implementación de Mando Coordinado en el Estado de Hidalgo;
+
+V.- Proponer la normatividad integración, implementación y consolidación del Mando Coordinado en el Estado de Hidalgo, conforme a la legislación y normatividad aplicable; y
+
+V.- Las demás facultades que le confiera el Secretario y las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)</small>
+
 ###### Artículo 46.
 
-El titular del órgano administrativo desconcentrado tendrá, en lo que le corresponda, las facultades que los artículos 30 y 31 de este Reglamento le confiere a los Directores Generales, además de las siguientes:
+Los titulares de los órganos administrativos desconcentrados tendrán, en lo que les corresponda, las facultades que los artículos 30 y 31 de este Reglamento les confiere a los Directores Generales, además de las siguientes:
 
 I.- Establecer las políticas, lineamientos, criterios, sistemas y procedimientos de carácter técnico y administrativo que deban regir en las áreas administrativas a su cargo y apoyar técnicamente la descentralización, desconcentración y delegación de facultades que determine el Secretario;
 
@@ -1112,3 +1272,11 @@ DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE HIDALGO, EN LA C
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE MODIFICA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
