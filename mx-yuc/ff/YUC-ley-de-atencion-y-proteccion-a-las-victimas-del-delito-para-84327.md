@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-atencion-y-proteccion-a-las-victimas-del-delito-para-843
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-04"
-last_updated: "2012-01-04"
+last_updated: "2016-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A LAS VÍCTIMAS DEL DELITO PARA EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 2 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, SIN EMBARGO, CONTINUARÁ VIGENTE PARA LOS ASUNTOS QUE, A LA ENTRADA EN VIGOR DE ESTE DECRETO, SE ENCUENTREN EN TRÁMITE, LOS CUALES SERÁN SUSTANCIADOS POR LA COMISIÓN EJECUTIVA ESTATAL DE ATENCIÓN A VÍCTIMAS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 4 de enero de 2012.
 
@@ -546,3 +548,49 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 384/2016 POR EL QUE SE EMITE LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de octubre de 2016, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley de Atención y Protección a las Víctimas del Delito para el Estado de Yucatán, publicada, mediante decreto 489 del Poder Ejecutivo, en el diario oficial del estado, el 4 de enero de 2012. Sin embargo, continuará vigente para los asuntos que, a la entrada en vigor de este decreto, se encuentren en trámite, los cuales serán sustanciados por la Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+Tercero. Designación del director general
+
+El gobernador designará al director general de la Comisión Ejecutiva Estatal de Atención a Víctimas en un plazo de diez días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Cuarto. Instalación de la junta de gobierno
+
+La Junta de Gobierno de la Comisión Ejecutiva Estatal de Atención a Víctimas deberá instalarse dentro de los treinta días naturales siguientes a la entrada en vigor de este decreto.
+
+Quinto. Expedición del estatuto orgánico
+
+El director general deberá presentar a la Junta de Gobierno de la Comisión Ejecutiva Estatal de Atención a Víctimas, para su aprobación, el proyecto de su estatuto orgánico dentro de los noventa días naturales siguientes a la instalación de la junta de gobierno.
+
+Sexto. Expedición de los lineamientos
+
+El director general deberá presentar a la Junta de Gobierno de la Comisión Ejecutiva Estatal de Atención a Víctimas, para su aprobación, el proyecto de lineamientos para el funcionamiento del Fondo Estatal de Ayuda, Asistencia y Reparación Integral, dentro de los ciento ochenta días naturales siguientes a la instalación de la junta de gobierno.
+
+Séptimo. Instalación del consejo estatal
+
+El Consejo Estatal de Atención a Víctimas se instalará en un plazo de sesenta días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Octavo. Expedición del reglamento interno
+
+El Consejo Estatal de Atención a Víctimas deberá expedir su reglamento interno en un plazo de noventa días naturales, contados a partir de su instalación.
+
+Noveno. Recursos del fondo
+
+A partir de la entrada en vigor de este decreto los recursos del Fondo General de Reparaciones a las Víctimas del Delito pasarán a formar parte del Fondo Estatal de Ayuda, Asistencia y Reparación Integral.
+
+Décimo. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
