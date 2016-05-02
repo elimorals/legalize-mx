@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2015-11-09"
+last_updated: "2016-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MAYO DE 2016.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -459,9 +459,17 @@ IV.- Brindar a las víctimas o al agresor, en su caso, la información integral 
 
 V.- Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
 
-VI.- Brindar protección para salvaguardar la integridad física de las mujeres que denuncien la violencia cometida en su contra; y
+> <small>(REFORMADA, B.O. 2 DE MAYO DE 2016)</small>
 
-VII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
+VI.- Brindar protección para salvaguardar la integridad física de las mujeres que denuncien la violencia cometida en su contra;
+
+> <small>(REFORMADA, B.O. 2 DE MAYO DE 2016)</small>
+
+VII.- Diseñar y elaborar el Protocolo de actuación para la Investigación Ministerial, Policial y Pericial del Delito de Feminicidio con Perspectiva de Género, herramienta que establecerá las obligaciones que deben cumplir las y los servidores públicos como agentes del Estado; y
+
+> <small>(ADICIONADA, B.O. 2 DE MAYO DE 2016)</small>
+
+VIII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -752,3 +760,15 @@ B.O. 9 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 2 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 54, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del día siguiente de la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado contará con un plazo de 60 días hábiles para la elaboración y publicación en el Boletín Oficial del Gobierno del Estado, del protocolo de actuación para la investigación en el delito de feminicidio con perspectiva de género para el Estado de Sonora.
