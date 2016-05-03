@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5867
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2015-04-24"
+last_updated: "2016-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 3 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2007.
 
@@ -1388,3 +1390,25 @@ Primero. El presente decreto entrará en vigor a partir del día siguiente a su 
 Segundo. Para los efectos de lo dispuesto en el artículo 42, en lo relativo a la designación de los Comisionados que deberán integrar el Pleno del Instituto de Transparencia de Nayarit, el Congreso procederá a la designación en los términos de la Ley Orgánica del Poder Legislativo, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo y el Congreso, en el ámbito de sus respectivas atribuciones, deberán establecer las prevenciones presupuestales para garantizar el debido funcionamiento del Instituto, en los términos de esta Ley.
+
+P.O. 3 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT".]
+
+Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nayarit.
+
+Segundo. Queda abrogada la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, publicada el veintidós de diciembre de dos mil siete y cualquier disposición que contravenga los principios, bases, procedimientos y derechos reconocidos en la presente Ley, sin perjuicio de lo previsto en los siguientes Transitorios.
+
+Tercero. El Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, deberá ser emitido por el Pleno del Instituto dentro de los 90 días siguientes a la entrada en vigor de la presente Ley.
+
+Cuarto. Los sujetos obligados se incorporarán a la Plataforma Nacional de Transparencia, en los términos que establezcan los lineamientos emitidos por el Sistema Nacional.
+
+En tanto entren en vigor los lineamientos técnicos de publicación de las obligaciones de transparencia que deberá emitir el Instituto, los sujetos obligados deberán mantener y actualizar en sus respectivas páginas de internet la información.
+
+Quinto. Las nuevas obligaciones establecidas en la presente Ley, serán aplicables solo respecto de la información que se genere a partir de la entrada en vigor del presente Decreto.
+
+Sexto. La información que hasta la fecha de entrada en vigor del presente decreto obra en los sistemas electrónicos del Instituto, formará parte de la Plataforma Nacional de Transparencia, conforme a los lineamientos que, para el efecto, emita el Sistema Nacional.
+
+Séptimo. Todas aquellas disposiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit vigente a la fecha de la aprobación de la presente Ley, relativas al acceso, rectificación, cancelación y oposición al uso de datos personales, permanecerán vigentes hasta en tanto no se emita la ley correspondiente.
+
+Octavo. Las solicitudes de información y los recursos de revisión, serán tramitados conforme a la ley vigente en la fecha de su presentación.
