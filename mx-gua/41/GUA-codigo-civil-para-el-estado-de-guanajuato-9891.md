@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2016-04-22"
+last_updated: "2016-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -7059,7 +7059,7 @@ II. Por vencimiento del plazo por el cual se constituyó;
 
 III. Por cumplirse la condición impuesta en el título constitutivo para la cesación de este derecho;
 
-IV. Por la reunión del usufructo y de la propiedad en una misma persona; más si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
+IV. Por la reunión del usufructo y de la propiedad en una misma persona; mas si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
 
 V. Por prescripción positiva a favor del nudo propietario o de un tercero;
 
@@ -7347,7 +7347,7 @@ Si este lugar es calificado de la misma manera que el primero, el Juez señalar�
 
 ###### Art. 1198.
 
-Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designar cual de los dos predios ha de dar el paso.
+Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cuál de los dos predios ha de dar el paso.
 
 ###### Art. 1199.
 
@@ -12277,9 +12277,11 @@ Cuando varios individuos convinieren en reunirse, de manera que no sea enteramen
 
 El contrato de asociación debe constar por escrito, pero se hará constar en escritura pública cuando algún socio transfiera a la asociación bienes cuya enajenación debe hacerse en escritura pública.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Art. 2191.
 
-Las asociaciones que se constituyan con sujeción a la presente ley, gozan de personalidad jurídica.
+Las asociaciones que se constituyan conforme a la presente ley gozarán de personalidad jurídica; en lo no previsto en este título le serán aplicables las disposiciones relativas a las sociedades civiles que no se opongan a la naturaleza de las mismas.
 
 ###### Art. 2192.
 
@@ -12293,11 +12295,13 @@ Las asociaciones se regirán por sus estatutos, los cuales no podrán contrariar
 
 El poder supremo de las asociaciones lo constituye la asamblea general. El director o junta directiva de ellas tendrán las facultades que les conceden los estatutos y la asamblea general, con sujeción a este capítulo.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Art. 2195.
 
-La asamblea general se reunirá en la época fijada en los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por lo menos por el veinte por ciento de los asociados, y si no lo hiciere, en su lugar lo hará el Juez de lo Civil a petición de dichos asociados.
+Las asambleas de las asociaciones se celebrarán conforme a lo establecido en sus estatutos o escritura constitutiva, y al menos una vez al año, dentro de los primeros seis meses del año natural, con la finalidad de informar sobre el estado que guarden los asuntos de la asociación y los estados financieros de la misma. Deberán ser convocadas por su director o consejo directivo con anticipación no menor a veinte días naturales a su celebración especificando los asuntos a tratar. En caso de que no se convoque a las asambleas por los indicados, tratándose de las asambleas ordinarias podrá hacerlo la autoridad judicial a petición de cualquier asociado; o del quince por ciento de los asociados para el caso de asambleas extraordinarias.
 
-###### Art. 2196
+###### Art. 2196.
 
 La asamblea general resolverá:
 
@@ -12327,9 +12331,11 @@ El asociado no votará las decisiones en que se encuentren directamente interesa
 
 Los asociados sólo podrán ser excluidos de la asociación por las causas que señalen los estatutos.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Art. 2201.
 
-Los asociados que voluntariamente se separen o que fueren excluidos, perderán todo derecho al haber social.
+Conforme a la naturaleza no lucrativa de la asociación, los asociados no tendrán derechos sobre el haber social, cuotas o recursos, ni a explotar o utilizar en forma alguna los bienes de la misma en su beneficio personal.
 
 ###### Art. 2202.
 
@@ -12351,9 +12357,13 @@ III. Por haberse vuelto incapaces de realizar el fin para que fueron fundadas;
 
 IV. Por resolución dictada por autoridad competente.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Art. 2205.
 
-En caso de disolución, los bienes de la asociación se aplicarán conforme a lo que determinen los estatutos, y a falta de disposición de éstos, según lo que determine la asamblea general. En este caso la asamblea sólo podrá atribuir a los asociados la parte del activo social que equivalga a sus aportaciones. Los demás bienes se aplicarán a otra asociación o fundación, de objetos similares a la extinguida, y en su defecto a una institución de asistencia social.
+En caso de disolución o extinción, los bienes de la asociación se aplicarán conforme a lo señalado en sus estatutos, los que al menos, deberán establecer que en estos casos se destinarán a otra asociación con un fin social similar, preponderantemente benéfico y que tenga por lo menos tres años de haberse constituido y esté vigente.
+
+A falta de disposición estatutaria la autoridad judicial determinará su aplicación conforme a las solicitudes de los interesados siempre que estas cumplan los supuestos referidos en el párrafo anterior, en caso contrario, se aplicarán a favor de la Universidad de Guanajuato o de las asociaciones de beneficencia pública. Si pasados tres meses de que se dé el supuesto para la liquidación de la asociación no se hubiese avisado a la autoridad judicial, cualquier persona podrá dar el aviso correspondiente.
 
 II. DE LAS SOCIEDADES
 
@@ -13451,7 +13461,9 @@ Durante la prórroga y el término señalado para la prescripción, la hipoteca 
 
 La hipoteca prorrogada por segunda o más veces, sea con plazo fijo, sea por tiempo indeterminado, sólo tendrá la preferencia que le corresponda por la fecha del último registro.
 
-### Capítulo IV. Extinción de la hipoteca
+### Capítulo IV. De la hipoteca pensionaria
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Art. 2425.
 
@@ -13507,9 +13519,105 @@ Los que conforme al artículo 2429, tienen el derecho de exigir la constitución
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2429, no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2486, salvo lo dispuesto en el Capítulo IX, Título Noveno, Libro Primero.
 
-### Capítulo I. Disposiciones generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2016)</small>
 
-### Capítulo II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegiados
+### Capítulo V. Extinción de la hipoteca
+
+###### Art. 2433-A.
+
+Se denomina hipoteca pensionaria aquella de naturaleza voluntaria que se constituye sobre un inmueble propiedad del pensionista para garantizar el capital que se le concede por el pensionario para cubrir necesidades económicas de vida, en los términos de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Art. 2433-B.
+
+La hipoteca pensionariase (sic) instituirá mediante contrato en el cual el pensionario se obliga a pagar en forma vitalicia, predeterminada cantidad de dinero preferentemente en forma mensual al pensionista o su beneficiario que deberá ser cónyuge, concubina o concubinario, en base al valor del inmueble que se otorgará como garantía a través de la hipoteca pensionaria, conforme a lo siguiente:
+
+l. El pensionista deberá ser persona física y tener él, o los beneficiarios que designe, al menos sesenta años de edad a la fecha de celebración del contrato de hipoteca pensionaria;
+
+II. Están autorizadas para otorgar la hipoteca pensionaria, las personas físicas y jurídicas, además de las instituciones tanto públicas como privadas, siempre que cuenten con facultades para ello;
+
+III. La formalización de la hipoteca pensionaria se realizará previo avalúo de perito autorizado para tal fin o institución debidamente facultada, que considere el valor comercial de mercado del inmueble. En ningún caso el avalúo podrá realizarse por la misma institución que otorgue la hipoteca.
+
+El costo de dicho avaluó será cubierto por el pensionario;
+
+IV. El tutor podrá constituir hipoteca pensionaria para garantizar las necesidades económicas a favor de un adulto mayor incapaz con la debida autorización judicial y en los términos del presente Capítulo;
+
+V. El valor del inmueble sujeto a hipoteca pensionariadeberá (sic) valuarse cada dos años para mantener la actualización de la plusvalía del bien, e informar sobre el monto del incremento anual que tendrá la pensión.
+
+El costo de dicho avaluó será cubierto por el pensionario;
+
+VI. Cuando se acredite una enfermedad grave o accidente que ponga en riesgo la vida del pensionista o su beneficiario, el pensionario garantizará un adelanto al pensionista o a su beneficiario, de al menos el equivalente a seis tantos de las aportaciones preferentemente mensuales convenidas, para efecto de contribuir a satisfacer las necesidades y gastos extraordinarios que esto le origine al pensionista, sin que dicha (sic) adelanto pueda exceder de una vez cada dos años.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Art. 2433-C.
+
+Para la constitución de la hipoteca pensionaria, deberán además de lo pactado, satisfacerse los siguientes requisitos:
+
+I. Establecer los nombres y generales de las personas que intervengan, los lineamientos de las amortizaciones, las condiciones de pago total y la terminación anticipada sin penalización alguna;
+
+II. Se deberá prever que en caso de que con el transcurso del tiempo se cubra por el pensionario el monto total del valor del inmueble sujeto a hipoteca, el pensionista continuará recibiendo la amortización periódica pactada hasta su fallecimiento y el de su beneficiario y podrá, en su caso, continuar habitando el inmueble sujeto a hipoteca, pero en caso de que el inmueble sea arrendado por el pensionista, previo consentimiento expreso de parte del pensionario, el monto de la mensualidad por el arrendamiento que reciba el pensionista se restará de la aportación periódica mensual que le corresponda pagar al pensionario;
+
+III. El pensionista preferentemente habitará de forma vitalicia el inmueble hipotecado, pero puede arrendarlo parcial o totalmente siempre y cuando cuente con autorización expresa por parte del pensionario, sin afectar la naturaleza de la hipoteca pensionaria constituida sobre el mismo;
+
+IV. Se incluirán las especificaciones del incremento anual que tendrá la amortización periódica que se entrega al pensionario, de acuerdo con las condiciones del mercado y el valor del inmueble, mismo que no deberá ser inferior al porcentaje de incremento de la Unidad de Medida y Actualización vigente;
+
+V. Las personas que recibirán los pagos preferentemente en forma mensual;
+
+VI. Que la deuda sólo sea exigible por el pensionario y la garantía ejecutable cuando fallezca el pensionista y el beneficiario si lo hubiere;
+
+VII. El interés que se genere por el capital será solamente sobre las cantidades dispuestas por el pensionista, y no podrá ser superior al interés legal.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Art. 2433-D.
+
+El incumplimiento del pensionario de una mensualidad de pago al pensionista, dará lugar a la rescisión y exigir el pago de los daños y perjuicios, o el cumplimiento forzoso del contrato, en ambos casos durante la tramitación del juicio correspondiente se dictarán las medidas cautelares equivalentes a las señaladas para el juicio de alimentos, con independencia de la aplicación del pago de la pena pactada.
+
+El monto a fijar en las medidas cautelares señaladas en el párrafo anterior, será equivalente al monto de la pensión hipotecaria actualizada, sin que sea obligatorio probar la necesidad del pensionista.
+
+En los casos que se resuelva la rescisión del contrato por el incumplimiento del pensionario, el Juez dictará invariablemente en la sentencia la cancelación de la hipoteca en beneficio del pensionista a costa del pensionario, y se tendrá la deuda como liquidada y no generará más interés. El pensionario deberá liberar a su costa el gravamen correspondiente.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Art. 2433-E.
+
+El inmueble constituido como garantía en la hipoteca pensionaria no podrá ser transmitido por actos ínter vivos o enajenado sin la autorización expresa del pensionario, por lo que cualquier acto que afecte al inmueble se declarará nulo de pleno derecho y dará al pensionario el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se sustituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Art. 2433-F.
+
+Transcurridos seis meses después del fallecimiento del pensionista sin efectuarse el pago por parte de los herederos, el pensionario cobrará el adeudo hasta donde alcance el valor del bien hipotecado o, en su caso, se ejecutará la hipoteca de conformidad con el contrato.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Art. 2433-G.
+
+La amortización del capital se sujetará, a las siguientes normas:
+
+l. Cuando fallezca el pensionista y su beneficiario, en caso de haberlo, sus herederos podrán abonar al pensionario la totalidad del adeudo existente y vencido, sin compensación por la cancelación del gravamen y pago del adeudo;
+
+II. En el supuesto de la fracción anterior, los herederos del pensionista podrán optar expresamente por no pagar el adeudo existente y vencido.
+
+En este caso, el pensionario cobrará el adeudo hasta donde alcance el valor del bien hipotecado, pudiendo solicitar su adjudicación o su venta sin esperar los seis meses referidos en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Art. 2433-H.
+
+Cuando se extinga el capital pactado y los herederos del pensionista decidan no rembolsar los débitos vencidos, con sus intereses, el pensionario podrá obtener recobro hasta donde alcance el bien hipotecado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Art. 2433-I.
+
+Si por cualquier causa superviniente el inmueble hipotecado resulta insuficiente para la seguridad de la deuda, el acreedor no podrá exigir que se mejore la hipoteca hasta que garantice la obligación principal.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 3 DE MAYO DE 2016)
+
+### Capítulo I. Disposiciones generales
 
 ###### Art. 2434.
 
@@ -13629,7 +13737,7 @@ TERCERA PARTE
 
 ## Título Primero. De la concurrencia y prelación de los créditos
 
-### Capítulo III. De algunos acreedores preferentes sobre determinados bienes
+### Capítulo II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegiados
 
 ###### Art. 2455.
 
@@ -13711,7 +13819,7 @@ Los gastos judiciales hechos por un acreedor en lo particular, serán pagados en
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### Capítulo IV. Acreedores de primera clase
+### Capítulo III. De algunos acreedores preferentes sobre determinados bienes
 
 ###### Art. 2471.
 
@@ -13777,7 +13885,7 @@ II. Si los acreedores hubieren hecho novación de la deuda o de cualquier otro m
 
 Los acreedores que obtuvieren la separación de bienes no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### Capítulo V. Acreedores de segunda clase
+### Capítulo IV. Acreedores de primera clase
 
 ###### Art. 2484.
 
@@ -13803,7 +13911,7 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX. Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### Capítulo VI. Acreedores de tercera clase
+### Capítulo V. Acreedores de segunda clase
 
 ###### Art. 2485.
 
@@ -13821,7 +13929,7 @@ V. El crédito por alimentos fiados al deudor para su subsistencia y la de su fa
 
 VI. La reparación del daño o la responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se daban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si tratara de acreedores comunes de cuarta clase.
 
-### Capítulo VII. Acreedores de cuarta clase
+### Capítulo VI. Acreedores de tercera clase
 
 ###### Art. 2486.
 
@@ -13833,13 +13941,13 @@ II. Los créditos del erario que no estén comprendidos en el artículo 2471 y l
 
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 
-### Capítulo I. De las oficinas del Registro
+### Capítulo VII. Acreedores de cuarta clase
 
 ###### Art. 2487.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### Capítulo II. De los títulos sujetos a registro y de los efectos legales del mismo
+### Capítulo I. De las oficinas del Registro
 
 ###### Art. 2488.
 
@@ -13851,7 +13959,7 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 ## Título Segundo. Del Registro Público
 
-### Capítulo III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
+### Capítulo II. De los títulos sujetos a registro y de los efectos legales del mismo
 
 ###### Art. 2490.
 
@@ -13897,7 +14005,7 @@ Tratándose de testamentos ológrafos depositados en el Registro, se observará 
 
 En todos los casos comprendidos en el presente Capítulo, en los que se disponga que los Jueces o Magistrados deban hacer saber una comunicación, remitir oficios, certificaciones o cualquier otro documento a la Oficina del Registro Público, para efectos de anotaciones, cancelaciones o notas marginales, se podrá hacer uso de los medios electrónicos mediante un mensaje de datos que contenga su firma electrónica certificada, para cumplimentar dichas disposiciones, y los funcionarios receptores deberán acusar el recibo electrónico correspondiente.
 
-### Capítulo IV. De la extinción de las inscripciones
+### Capítulo III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
 ###### Art. 2495.
 
@@ -13999,7 +14107,7 @@ En caso de resultar incristo (sic) o anotado ese derecho a favor de persona dist
 
 Cuando se trate de fincas no inscritas, la inscripción primaria sólo podrá hacerse por resolución judicial especialmente razonada; excepto cuando se trate de parcelas sobre las que se adoptó dominio pleno o solares urbanos en los ejidos y comunidades.
 
-### Capítulo I. De los testamentos en general
+### Capítulo IV. De la extinción de las inscripciones
 
 ###### Art. 2506.
 
@@ -14013,7 +14121,7 @@ I. Los testimonios de escritura pública y otros documentos auténticos;
 
 II. Las sentencias y providencias judiciales certificadas legalmente;
 
-III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que obre en ellos la constancia de que el Registrador, la autoridad judicial o un notario público se cercioró de la autenticidad de las firmas y de la voluntad de las partes;
+III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que obre en ellos la constancia de que el Registrador, la autoridad judicial o un notario público se cercioró de la autenticidad de las firmas y de la voluntad de las partes.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1989)</small>
 
@@ -14127,7 +14235,7 @@ Hecho el registro, serán devueltos los documentos al que los presentó, con not
 
 El Reglamento especial establecerá los derechos y obligaciones de los Registradores, así como los datos que deben tener y los requisitos que deben llenar las inscripciones o el folio real.
 
-### Capítulo II. De la capacidad para testar
+### Capítulo I. De los testamentos en general
 
 ###### Art. 2521.
 
@@ -14313,7 +14421,7 @@ Los derechos concedidos en el artículo 2548 cesan si la enajenación se hace a 
 
 ## Título Segundo. De la sucesión por testamento
 
-### Capítulo III. De la capacidad para heredar
+### Capítulo II. De la capacidad para testar
 
 ###### Art. 2551.
 
@@ -14357,7 +14465,7 @@ Si el testamento abierto, sea público o privado, se pierde por un evento descon
 
 La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
 
-### Capítulo IV. De las condiciones que pueden ponerse en los testamentos
+### Capítulo III. De la capacidad para heredar
 
 ###### Art. 2561.
 
@@ -14395,7 +14503,7 @@ Firmarán el testamento, además del notario y de los testigos, el Juez y los m�
 
 Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
 
-### Capítulo V. De los bienes de que se puede disponer por testamento y de los testamentos inoficiosos
+### Capítulo IV. De las condiciones que pueden ponerse en los testamentos
 
 ###### Art. 2569.
 
@@ -14553,7 +14661,7 @@ No puede deducirse acción para declarar la incapacidad, pasados tres años desd
 
 Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en juicio en que se discuta su incapacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá; más el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
 
-### Capítulo VI. De la institución de heredero
+### Capítulo V. De los bienes de que se puede disponer por testamento y de los testamentos inoficiosos
 
 ###### Art. 2600.
 
@@ -14651,7 +14759,7 @@ Cuando el legado deba concluir en un día que es seguro que ha de llegar, se ent
 
 Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado
 
-### Capítulo VII. De los legados
+### Capítulo VI. De la institución de heredero
 
 ###### Art. 2624.
 
@@ -14715,7 +14823,7 @@ La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testa
 
 No obstante lo dispuesto en el artículo 2631 el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
 
-### Capítulo VIII. De las substituciones
+### Capítulo VII. De los legados
 
 ###### Art. 2634.
 
@@ -14769,7 +14877,7 @@ Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse 
 
 Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
 
-### Capítulo IX. De la nulidad, revocación y caducidad de los testamentos
+### Capítulo VIII. De las substituciones
 
 ###### Art. 2647.
 
@@ -15109,7 +15217,7 @@ Sólo duran veinte años los legados de que trata el artículo anterior, si fuer
 
 Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 
-### Capítulo I. Disposiciones generales
+### Capítulo IX. De la nulidad, revocación y caducidad de los testamentos
 
 ###### Art. 2728.
 
@@ -15165,9 +15273,7 @@ Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capita
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
 
-### Capítulo II. Del testamento público abierto
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+### Capítulo I. Disposiciones generales
 
 ###### Art. 2740.
 
@@ -15237,7 +15343,9 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ## Título Tercero. De la forma de los testamentos
 
-### Capítulo III. Del testamento público cerrado
+### Capítulo II. Del testamento público abierto
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2755.
 
@@ -15248,6 +15356,8 @@ El testamento, en cuanto a su forma, es ordinario o especial.
 El ordinario puede ser:
 
 I. Público abierto;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
 II. Público cerrado;
 
@@ -15327,9 +15437,7 @@ Lo dispuesto en el último Párrafo del Artículo que precede, se observará por
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al Juez del domicilio del testador.
 
-### Capítulo IV. Del testamento público simplificado
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
+### Capítulo III. Del testamento público cerrado
 
 ###### Art. 2767.
 
@@ -15393,7 +15501,9 @@ Las formalidades expresadas en este capítulo se practicarán en un solo acto qu
 
 Faltando alguna de las referidas formalidades, quedará el testamento sin efecto; el notario será responsable de los daños y perjuicios y, según la gravedad del caso, podrá decretarse la pérdida del oficio.
 
-### Capítulo V. Del testamento ológrafo
+### Capítulo IV. Del testamento público simplificado
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### Art. 2776.
 
@@ -15437,7 +15547,7 @@ Los que no saben o no pueden leer son inhábiles para hacer testamento cerrado.
 
 ###### Art. 2786.
 
-El sordomudo podrá hacer testamento cerrado con tal que esté todo él escrito, fechado y firmado de su propia mano, y que al presentarlo al notario ante cinco testigos, escriba en presencia de todos sobre la cubierta, que en aquél pliego se contiene su última voluntad y va escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 2787, 2789 y 2790.
+El sordomudo podrá hacer testamento cerrado con tal que esté todo él escrito, fechado y firmado de su propia mano, y que al presentarlo al notario ante cinco testigos, escriba en presencia de todos sobre la cubierta, que en aquel pliego se contiene su última voluntad y va escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 2787, 2789 y 2790.
 
 ###### Art. 2787.
 
@@ -15513,7 +15623,7 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 10 DE JUNIO DE 2005)</small>
 
-### Capítulo VI. Del testamento privado
+### Capítulo V. Del testamento ológrafo
 
 ###### Art. 2804-A.
 
@@ -15531,7 +15641,7 @@ V. Fallecido el autor de la sucesión, la titulación notarial de la adquisició
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE JUNIO DE 2005)</small>
 
-### Capítulo VII. Del testamento militar
+### Capítulo VI. Del testamento privado
 
 ###### Art. 2805.
 
@@ -15599,7 +15709,7 @@ El encargado del Registro Público no proporcionará informes acerca del testame
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE JUNIO DE 2005)</small>
 
-### Capítulo I. Disposiciones generales
+### Capítulo VII. Del testamento militar
 
 ###### Art. 2820.
 
@@ -15679,7 +15789,7 @@ Sabiéndose el lugar donde se encuentren los testigos, serán examinados por exh
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE JUNIO DE 2005)</small>
 
-### Capítulo II. De la sucesión de los descendientes
+### Capítulo I. Disposiciones generales
 
 ###### Art. 2834.
 
@@ -15699,7 +15809,7 @@ Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de �
 
 ## Título Cuarto. De la sucesión legítima
 
-### Capítulo III. De la sucesión de los ascendientes
+### Capítulo II. De la sucesión de los descendientes
 
 ###### Art. 2838.
 
@@ -15749,7 +15859,7 @@ Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo 1, Título Sexto, Libro Primero.
 
-### Capítulo IV. De la sucesión del cónyuge
+### Capítulo III. De la sucesión de los ascendientes
 
 ###### Art. 2846.
 
@@ -15783,7 +15893,7 @@ Concurriendo padres y adoptantes y descendientes del adoptado, los primeros sól
 
 Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
-### Capítulo V. De la sucesión de los colaterales
+### Capítulo IV. De la sucesión del cónyuge
 
 ###### Art. 2854.
 
@@ -15823,9 +15933,7 @@ Los ascendientes, aun cuando sean ilegítimos, tienen derecho de heredar a sus d
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### Capítulo VI. De la sucesión de la concubina
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+### Capítulo V. De la sucesión de los colaterales
 
 ###### Art. 2863.
 
@@ -15847,9 +15955,9 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
-### Capítulo VII. De la sucesión de la Universidad de Guanajuato
+### Capítulo VI. De la sucesión de la concubina
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1974)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
 
 ###### Art. 2868.
 
@@ -15871,13 +15979,15 @@ A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpe
 
 A falta de los llamados en los artículos anteriores sucederán los parientes más próximos dentro del sexto grado, sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales. Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el capítulo siguiente.
 
-### Capítulo I. De las precauciones que deben adoptarse cuando la viuda quede encinta
+### Capítulo VII. De la sucesión de la Universidad de Guanajuato
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1974)</small>
 
 ###### Art. 2873.
 
 La mujer o el varón con quien el autor de la herencia vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar igual que un cónyuge supérstite.
 
-### Capítulo II. De la apertura y transmisión de la herencia
+### Capítulo I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
 ###### Art. 2874.
 
@@ -15891,7 +16001,7 @@ En las sucesiones en que la Universidad de Guanajuato sea heredera se le adjudic
 
 ## Título Quinto. Disposiciones comunes a las sucesiones testamentaria y legítima
 
-### Capítulo III. De la aceptación y de la repudiación de la herencia
+### Capítulo II. De la apertura y transmisión de la herencia
 
 ###### Art. 2876.
 
@@ -15939,9 +16049,7 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, mas los acreedores podrán ser pagados por mandato judicial.
 
-### Capítulo IV. De los albaceas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+### Capítulo III. De la aceptación y de la repudiación de la herencia
 
 ###### Art. 2887.
 
@@ -15965,7 +16073,9 @@ La aceptación expresa o tácita de la herencia o del legado interrumpen el tér
 
 El derecho de reclamar la herencia en los casos en que suceda la Universidad de Guanajuato, prescribe en el término de dos años, contados a partir del momento de la muerte del autor de la sucesión.
 
-### Capítulo V. Del inventario y de la liquidación de la herencia
+### Capítulo IV. De los albaceas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 ###### Art. 2891.
 
@@ -16075,7 +16185,7 @@ El que a instancias de un legatario o acreedor hereditario haya sido declarado h
 
 La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda la herencia se entiende aceptada a beneficio del inventario, aunque no se exprese.
 
-### Capítulo VI. De la partición
+### Capítulo V. Del inventario y de la liquidación de la herencia
 
 ###### Art. 2917.
 
@@ -16449,7 +16559,7 @@ La remoción sólo tendrá lugar por causa justificada y por sentencia pronuncia
 
 Son causas justificadas de remoción, la incapacidad para el desempeño del cargo o para el ejercicio de los derechos civiles, la conducta negligente o dolosa de los albaceas y las demás que señale la ley.
 
-### Capítulo VII. De los efectos de la partición
+### Capítulo VI. De la partición
 
 ###### Art. 2989.
 
@@ -16519,7 +16629,7 @@ La venta de bienes hereditarios para el pago de deudas y legados, se harán en p
 
 La mayoría de los interesados, o la autorización judicial en su caso, determinará la aplicación que haya de darse al precio de las cosas vendidas.
 
-### Capítulo VIII. De la rescisión y nulidad de las particiones
+### Capítulo VII. De los efectos de la partición
 
 ###### Art. 3006.
 
@@ -16588,6 +16698,8 @@ La partición constará en escritura pública, siempre que en la herencia haya b
 ###### Art. 3021.
 
 Los gastos de la partición se rebajarán del fondo común; los que se hagan por interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
+
+### Capítulo VIII. De la rescisión y nulidad de las particiones
 
 ###### Art. 3022.
 
@@ -17154,3 +17266,17 @@ P.O. 22 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 84, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA Y ADICIONA CON EL PÁRRAFO SEGUNDO EL ARTÍCULO 1550 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 3 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 86, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS DEL 2433-A AL 2433-I PARA INTEGRAR EL CAPÍTULO IV, DENOMINADO "DE LA HIPOTECA PENSIONARIA" AL TÍTULO DÉCIMO QUINTO RECORRIÉNDOSE EL ACTUAL CAPÍTULO IV COMO CAPÍTULO V, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si el presente decreto ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
+
+P.O. 3 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 87, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2191, 2195, 2201 Y 2205 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
