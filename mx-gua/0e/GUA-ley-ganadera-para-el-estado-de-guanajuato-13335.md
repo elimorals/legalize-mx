@@ -4,7 +4,7 @@ identifier: "GUA-ley-ganadera-para-el-estado-de-guanajuato-13335"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-22"
-last_updated: "2013-06-07"
+last_updated: "2016-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY GANADERA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de diciembre de 1998.
 
@@ -43,11 +43,11 @@ LEY GANADERA PARA EL ESTADO DE GUANAJUATO
 
 ### CAPITULO UNICO. DE LAS DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 1o.
 
-La presente Ley es de orden público e interés social y tiene por objeto el fomento cuantitativo y cualitativo de las actividades pecuarias, así como regular las bases de la producción, sanidad, inocuidad, protección, clasificación y selección de las especies pecuarias en el Estado de Guanajuato.
+La presente Ley es de orden público e interés social y tiene por objeto el fomento cuantitativo y cualitativo de las actividades pecuarias, así como regular las bases de la producción, sanidad, inocuidad, protección, clasificación, rastreabilidad, trazabilidad y selección de las especies pecuarias en el Estado de Guanajuato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -63,7 +63,9 @@ II.- Sacrificio de las especies pecuarias;
 
 III.- Comercio, custodia, posesión, adquisición, almacenamiento o transporte de productos biológicos, químicos, farmacéuticos, semen o embriones para uso en las actividades pecuarias o aquellas relacionadas;
 
-IV.- Mejoramiento, aprovechamiento, comercio o transporte de productos o subproductos pecuarios;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
+
+IV.- Mejoramiento, aprovechamiento, comercio o transporte de productos pecuarios;
 
 V.- Producción, comercio o transporte de alimentos, raciones, forrajes, concentrados y aditivos en estado natural o procesados, destinados al consumo de las especies pecuarias; y
 
@@ -71,9 +73,21 @@ V.- Producción, comercio o transporte de alimentos, raciones, forrajes, concent
 
 VI.- Uso de predios destinados a la ganadería.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Artículo 3o.
 
-Para los efectos de esta Ley se entiende por especies pecuarias: el ganado mayor, ganado menor y otras que sean útiles a los seres humanos. Asimismo, se considera productor pecuario el que se dedique a cualquiera de las actividades a que se refiere el artículo anterior.
+Para los efectos de esta Ley se entiende por especies pecuarias al ganado bovino, caprino, ovino, cunícola, porcícola, equino, apícola, y todas aquellas especies ganaderas que puedan entrar en las actividades del comercio o sean útiles a los seres humanos. Asimismo, se considera productor pecuario el que se dedique a cualquiera de las actividades a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+Se entiende por producto pecuario, a aquel que resulta de la producción primaria del ganado y que no ha sufrido un proceso de transformación industrial.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+###### Artículo 3o Bis.
+
+Para efectos de esta Ley se entenderá por SINIDA, al Sistema Nacional de identificación animal para bovinos y colmenas, mismo que establece la identificación animal individual de carácter permanente e irrepetible de estas especies.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -175,17 +189,25 @@ IV.- Crear las comisiones, comités, consejos u organismos que estime pertinente
 
 V.- Declarar predios o zonas en cuarentena cuando exista riesgo inminente de brotes epizooticos, asumiendo las medidas de seguridad zoosanitaria, dando cuenta a las autoridades federales para efecto de operar el dispositivo nacional de emergencia de sanidad animal en la región;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-VI.- Procurar que en la Ley de Presupuesto General de Egresos del Estado se establezca un fondo de contingencia, para hacer frente a las emergencias zoosanitarias producidas por la presencia de enfermedades y epizootias, en la Entidad;
+VI.- Establecer un fondo de contingencia, para hacer frente a las emergencias zoosanitarias producidas por la presencia de enfermedades y epizootias;
 
-VII.- Decretar cercos zoosanitarios o las demás medidas necesarias, cuando exista riesgo de contagio o enfermedad por la movilización de ganado infectado;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-VIII.- Expedir el reglamento de esta Ley; y
+VII.- Decretar cercos zoosanitarios o las demás medidas necesarias, cuando exista riesgo de contagio o enfermedad por la movilización de especie pecuaria infectada, así como determinar las zonas de cambio de situación zoosanitaria;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
+
+VIII.- Expedir el reglamento de esta Ley;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+IX.- Emitir decretos gubernativos temporales o permanentes en materia ganadera; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2006)</small>
 
-IX.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
+X.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -213,7 +235,9 @@ V.- Promover la realización de estudios e investigaciones y difundir sus result
 
 VI.- Difundir entre los productores pecuarios, la conveniencia de orientar la explotación ganadera, conforme a los métodos científicos y tecnológicos de producción, a fin de hacerla más eficaz, así como la reconversión productiva en las áreas con vocación natural;
 
-VII.- Expedir, revalidar, cancelar y llevar el registro de las guías de tránsito, los títulos de marca de herrar, señal de sangre o tatuaje, patente de productor o identificación electrónica; así como autorizar y registrar la traslación de dominio de los derechos que amparan estos documentos. Esta atribución podrá ser realizada por las asociaciones ganaderas locales cuando se celebre el convenio respectivo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
+
+VII.- Expedir, revalidar, cancelar y llevar el registro de las guías de tránsito, los títulos de marca de herrar, señal de sangre o tatuaje, patente de productor o identificación electrónica, así como autorizar y registrar la traslación de dominio de los derechos que amparan estos documentos. Esta atribución podrá ser realizada por los organismos sociales de cooperación cuando se celebre el convenio respectivo;
 
 VIII.- Auxiliar a las autoridades y a los cuerpos de seguridad pública, estatales y municipales, en el ejercicio de sus funciones, en acciones tendientes a la prevención del delito de robo de ganado;
 
@@ -243,9 +267,9 @@ XVIII.- Establecer los criterios para la clasificación de la carne, vigilando s
 
 XIX.- Promover el registro estatal de producción de las diferentes especies pecuarias que se explotan en la Entidad;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-XX.- Coordinarse con la autoridad federal y municipal que corresponda para retirar el ganado de la vía pública;
+XX.- Coordinarse con las autoridades que correspondan para retirar a las especies pecuarias de la vía pública federal o estatal o de los espacios públicos, y para aplicar las sanciones que resulten procedentes al propietario;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -271,9 +295,17 @@ XXVII.- Promover la realización de exposiciones ganaderas nacionales, estatales
 
 XXVIII.- Otorgar anualmente premios estatales de ganadería y de sanidad animal, a las personas a que se refiere el artículo 2º de esta Ley, de conformidad con las disposiciones reglamentarias que al efecto se expidan; y
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXIX.- Designar las rutas pecuarias y horarios de movilización de especies pecuarias, atendiendo la opinión de los organismos sociales de cooperación, las cuales se establecerán en los lineamientos;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXX.- Coadyuvar con la autoridad federal que corresponda para atender la restricción de movilización de especies pecuarias y sus productos cuando exista riesgo de contagio de alguna enfermedad; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2006)</small>
 
-XXIX.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
+XXXI.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -339,9 +371,9 @@ V.- Ser profesionista o técnico en materia pecuaria y tener la capacidad técni
 
 Corresponde a los verificadores estatales de ganadería:
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-I.- Supervisar el transporte de las especies pecuarias, sus productos y subproductos, así como el estado de sanidad de los mismos, en tránsito, casetas de vigilancia o centros de verificación, cerciorándose de que lleven la documentación legal y cubran los requisitos zoosanitarios sobre movilización y acreditación de propiedad; en caso de omisión, darán aviso a las autoridades correspondientes;
+I.- Supervisar el transporte de las especies pecuarias y sus productos, así como el estado de sanidad de los mismos, en tránsito, casetas de vigilancia o centros de verificación, cerciorándose de que lleven la documentación legal y cubran los requisitos zoosanitarios sobre movilización y acreditación de propiedad, en caso de omisión, darán aviso a las autoridades correspondientes. Tratándose de subproductos, lo anterior solo aplicará para las excretas de las especies pecuarias;
 
 II.- Verificar que en las tenerías se cumplan las medidas sanitarias, en cueros crudos, previstas en ésta y otras leyes;
 
@@ -371,9 +403,69 @@ IX.- Vigilar el cumplimiento de la presente Ley, dando cuenta a las autoridades 
 
 X.- Atender las denuncias que se presenten turnándolas a las autoridades competentes; y
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XI.- Poner a disposición de las autoridades competentes, especies pecuarias que presenten sintomatología y evidencien que fueron alimentados con sustancias nocivas para la salud;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XII.- Coadyuvar con las autoridades sanitarias federales y estatales en la aplicación de cuarentenas en ranchos, predios, establecimientos, granjas pecuarias, centros de sacrificio y comercios;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XIII.- Participar en operativos de vigilancia en coordinación con autoridades federales, estatales y municipales, para detectar irregularidades en la movilización de especies pecuarias y sus productos y coadyuvar en el combate del robo de ganado;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XIV.- Llevar a cabo los operativos para asegurar a las especies pecuarias que deambulen en derecho de vía federal o estatal o espacios públicos;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XV.- Coordinarse con las autoridades que correspondan, para verificar los establecimientos donde se comercialicen especies pecuarias y sus productos, revisando que cuenten con documentación que acredite la propiedad;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XVI.- Verificar los mataderos rurales donde se sacrifiquen especies pecuarias, para que acrediten la propiedad de los mismos;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XVII.- Vigilar que toda movilización de especies pecuarias y sus productos sea con documentación vigente;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XVIII.- Hacer de conocimiento al Ministerio Público sobre personas que se sospeche de movilizar especies pecuarias robadas o que movilicen sustancias nocivas para la alimentación de las especies pecuarias que repercutan en la salud de los consumidores;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XIX.- Retener a toda especie pecuaria y su producto y ponerlos disposición de las autoridades competentes, cuando éstos sean movilizados con documentos oficiales alterados, sin sello, firmas, tachaduras o enmendaduras;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XX.- Verificar que el SINIDA o los medios de identificación que obligue esta Ley y las Normas Oficiales Mexicanas, sean de acuerdo a las disposiciones establecidas en la presente Ley y demás normativas aplicables;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXI.- Llevar a cabo las medidas de seguridad zoosanitaria, exigiendo a toda movilización de especies pecuarias y sus productos, los documentos que otorgan las campañas zoosanitarias de acuerdo a las normas oficiales mexicanas, acuerdos o lineamientos;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXII.- Vigilar que la movilización de especies pecuarias del predio de origen a la asociación ganadera correspondiente sea con el documento oficial estatal denominado «visa ganadera» o, en su caso, factura. Este documento no sustituye los efectos de la guía de tránsito;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXIII.- Retener a toda especie pecuaria que no tenga aplicado el SINIDA o los medios de identificación que obligue esta Ley y las Normas Oficiales Mexicanas;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXIV.- Evitar la movilización de especies pecuarias y sus productos con documentos oficiales posfechados;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXV.- Intervenir como conciliadores en la invasión de especies pecuarias en predios ajenos de agostaderos y potreros; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2006)</small>
 
-XI.- Sujetarse a lo dispuesto en esta Ley y su reglamento, al momento de practicar las visitas de inspección.
+XXVI.- Sujetarse a lo dispuesto en esta Ley y su reglamento, al momento de practicar las visitas de inspección.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -419,9 +511,13 @@ X.- Disponer de corrales para el depósito de animales que se pongan a su dispos
 
 XI.- Atender las denuncias que se presenten turnándolas a las autoridades competentes, y
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XII.- Coordinarse con los verificadores estatales de ganadería en los servicios de vigilancia con los cuerpos de seguridad pública municipal sobre la movilización de especies pecuarias y sus productos; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2006)</small>
 
-XII.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
+XIII.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
 ###### Artículo 15.
 
@@ -515,9 +611,9 @@ VIII.- Comunicar a la organización ganadera de la localidad y autoridades de lo
 
 IX.- Ejecutar las determinaciones que el ayuntamiento apruebe en materia pecuaria, informando a éste sobre su cumplimiento;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-X.- Vigilar que se aplique la revisión del ganado antes del sacrificio, cotejando los fierros, señales e identificación electrónica de los animales, con los que aparezcan en los documentos comprobatorios de propiedad, de guía de tránsito y certificados zoosanitarios de los mismos;
+X.- Vigilar que, antes del sacrificio, se cotejen y concuerden los documentos comprobatorios de propiedad, de guía de tránsito y certificado zoosanitario con el SINIDA o los medios de identificación que obligue esta Ley y las Normas Oficiales Mexicanas;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -535,6 +631,10 @@ XIV.- Supervisar la implantación y el uso adecuado del medio de identificación
 
 XV.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+La unidad administrativa municipal en la aplicación de esta Ley y su reglamento podrá apoyarse en los cuerpos de seguridad pública municipal y de los verificadores estatales y municipales en coordinación con las autoridades competentes.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2006)</small>
 
 ### CAPITULO TERCERO. DE LOS ORGANISMOS SOCIALES DE COOPERACION
@@ -551,7 +651,9 @@ I.- Procurar el mejoramiento y desarrollo de la ganadería;
 
 II.- Pugnar por la implantación de métodos científicos y tecnológicos que permitan organizar y orientar la producción pecuaria sustentable;
 
-III.- Procurar una mejor distribución y comercialización de la producción pecuaria para el abastecimiento de los mercados local, estatal y nacional;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
+
+III.- Procurar una mejor distribución y comercialización de la producción pecuaria para el abastecimiento de los mercados local, estatal, nacional e internacional;
 
 IV.- Procurar que los productos de origen animal estén al alcance de los consumidores;
 
@@ -561,9 +663,9 @@ VI.- Encauzar las necesidades de crédito de los asociados para obtener éste de
 
 VII.- Procurar el incremento de la producción pecuaria, asesorando a los pequeños productores;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-VIII.- Celebrar convenios con la Secretaría de Desarrollo Agroalimentario y Rural para la tramitación de solicitudes para la expedición, revalidación, cancelación y registro de guías de tránsito, títulos de marca de herrar, señal de sangre o tatuaje, patente de productor e identificación electrónica; así como para la autorización y registro de la traslación de dominio de los derechos que amparan estos documentos;
+VIII.- Celebrar convenios con la Secretaría de Desarrollo Agroalimentario y Rural para la tramitación de solicitudes para la expedición, revalidación, cancelación y registro de guías de tránsito, títulos de marca de herrar, señal de sangre o tatuaje, patente de productor e identificación electrónica; así como para la autorización y registro de la traslación de dominio de los derechos que amparan estos documentos, respetando y adoptando los sistemas de identificación para las especies pecuarias que se establezcan en el ámbito nacional SINIDA;
 
 IX.- Establecer, con carácter permanente, un servicio de estadística sobre producción pecuaria y censo de las especies pecuarias, proporcionando a las dependencias federales, estatales y municipales todos los datos que les fueren requeridos;
 
@@ -571,11 +673,17 @@ X.- Representar ante las autoridades administrativas y judiciales los intereses 
 
 XI.- Promover las medidas adecuadas para la protección y defensa de sus intereses;
 
-XII.- Administrar los fondos que, con el carácter de subsidio, les otorgue el Gobierno del Estado para el adecuado ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XII.- Administrar los fondos que, con el carácter de subsidio, les otorgue el Gobierno del Estado para el adecuado ejercicio de sus funciones y cumplimiento de los objetivos para los cuales hayan sido otorgados;
 
 XIII.- Auxiliar a las autoridades previstas en esta Ley, en todos los casos en que para ello fueren requeridos; y
 
-XIV.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XIV.- Celebrar convenios con la Secretaría de Gobierno, Secretaría de Seguridad Pública, Procuraduría General de Justicia y otras instancias, para coordinar acciones de prevención del robo de ganado, así como del uso, almacén, distribución y transporte de sustancias prohibidas en uso pecuario; y
+
+XV.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
 ## TITULO TERCERO
 
@@ -647,23 +755,27 @@ La Secretaría de Desarrollo Agroalimentario y Rural podrá promover ante la ban
 
 ### CAPITULO PRIMERO. DE LA PROPIEDAD DE LAS ESPECIES PECUARIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Artículo 28.
 
-La propiedad del ganado mayor o menor, según corresponda, se acredita con cualquiera de los siguientes medios:
+La propiedad de las especies pecuarias, según corresponda, se acredita con cualquiera de los siguientes medios:
 
-I.- La patente del fierro o marca de herrar a fuego o en frío, registrada conforme a lo que establezca el reglamento respectivo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+I.- La patente del fierro o marca de herrar a fuego o en frío, la señal o marca de sangre en la oreja, identificación electrónica o el SINIDA, registrada conforme a lo que establezca el reglamento respectivo;
 
-II.- La señal o marca de sangre en la oreja, registrada en la patente de registro respectivo;
+II.- (DEROGADA, P.O. 3 DE MAYO DE 2016)
 
 III.- El registro, marca, tatuaje o reseña expedido por las asociaciones de criadores de ganado de raza pura;
 
 IV.- La escritura pública, resolución judicial o administrativa de adjudicación o remate, cuando en ellas se describan y diseñen las marcas de fuego o las señales de sangre correspondientes a los animales que ampare el documento;
 
-V.- La factura que expida el ganadero, en la que figuren los fierros, marcas o señales; o
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-VI.- La identificación electrónica.
+V.- La factura que expida el ganadero, que contenga los datos de identificación que señale la normatividad aplicable.
+
+VI.- (DEROGADA, P.O. 3 DE MAYO DE 2016)
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -705,9 +817,11 @@ III.- La patente del registro expedido por la Secretaría de Desarrollo Agroalim
 
 La compraventa de colmenas y material apícola marcado, deberá efectuarse acompañada de la factura correspondiente; el comprador colocará su marca a un lado de la del vendedor sin borrarla.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Artículo 35.
 
-Para la identificación de sus colmenas, los apicultores deberán marcar las cajas con letras o figuras similares a las que se utilizan para marcar ganado.
+Para la identificación de sus colmenas, los apicultores deberán marcar las cajas con letras o figuras a fuego similares a las que se utilizan para marcar las especies pecuarias, debiendo cumplir con la norma de identificación nacional SINIDA.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -715,7 +829,9 @@ Para la identificación de sus colmenas, los apicultores deberán marcar las caj
 
 Los propietarios de apiarios deberán de celebrar convenios con los propietarios de los predios y ante la autoridad competente del lugar, para poder asentarse en los mismos.
 
-### CAPITULO SEGUNDO. DE LAS OBLIGACIONES DE LOS PRODUCTORES PECUARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2016)</small>
+
+### CAPITULO SEGUNDO. DE LAS OBLIGACIONES DE LOS PRODUCTORES PECUARIOS Y DE LOS INDUSTRIALES CONEXOS A LA PRODUCCIÓN PECUARIA
 
 ###### Artículo 37.
 
@@ -739,13 +855,13 @@ c) Número y especie de animales, así como la clase de explotación a la que se
 
 III.- Herrar, marcar, tatuar o identificar al ganado:
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
-a) Dentro de los noventa días siguientes a su nacimiento si se trata de ganado mayor;
+a) Dentro de los doce meses siguientes a su nacimiento si es ganado mayor;
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
-b) Para el herraje del ganado equino el término será de doscientos quince días siguientes a su nacimiento. Los productores deberán dar aviso del nacimiento de dicho ganado a la unidad administrativa municipal correspondiente dentro de los primeros noventa días siguientes al nacimiento; y
+b) Para el herraje del ganado equino el término será de doce meses siguientes a su nacimiento; y
 
 c) Dentro de los setenta días de su nacimiento si es ganado menor.
 
@@ -765,21 +881,21 @@ VII.- Coadyuvar con las autoridades, denunciando los hechos, actos u omisiones q
 
 ### CAPITULO TERCERO. DE LAS MARCAS Y SEÑALES DEL GANADO
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 38.
 
-La autorización y registro de fierros, señales, identificación electrónica y expedición de patentes, se solicitará ante la Secretaria de Desarrollo Agroalimentario y Rural o ante las asociaciones ganaderas locales, en atención a los convenios que se celebren.
+La autorización y registro de fierros, señales, identificación electrónica, el SINIDA y expedición de patentes, se solicitará ante la Secretaría de Desarrollo Agroalimentario y Rural o ante las asociaciones ganaderas locales u otros organismos sociales de cooperación, en atención a los convenios que se celebren.
 
 ###### Artículo 39.
 
 Las marcas de herrar se podrán componer de letras, números o signos, o combinaciones entre sí, sin que contengan más de tres figuras, que no sean mayores de diez centímetros de longitud por diez centímetros de ancho y un máximo de ocho milímetros de grueso en la parte que marca.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 40.
 
-Las marcas de herrar, señal de sangre o tatuaje, así como la identificación electrónica, sólo podrán usarse por sus propietarios cuando hayan sido previamente autorizadas y registradas ante la Secretaría de Desarrollo Agroalimentario y Rural o ante las asociaciones ganaderas locales en atención a los convenios que celebren.
+Las marcas de herrar, señal de sangre o tatuaje, así como la identificación electrónica, sólo podrán usarse por sus propietarios cuando hayan sido previamente autorizadas y registradas ante la Secretaría de Desarrollo Agroalimentario y Rural o ante las asociaciones ganaderas locales u otros organismos sociales de cooperación en atención a los convenios que celebren.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -787,17 +903,21 @@ Los traspasos que de las mismas hagan sus titulares, requerirán para su validez
 
 El registro de fierro, marca, señal, tatuaje o identificación electrónica, así como las patentes respectivas deberá refrendarse anualmente.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+Será obligatoria la adopción y uso del SINIDA.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 41.
 
-Cuando los productores pecuarios hayan cumplido con el registro correspondiente del fierro, marca, señal de sangre o tatuaje o identificación electrónica, la Secretaría de Desarrollo Agroalimentario y Rural les expedirá como título de propiedad, copia certificada de la patente de registro.
+Cuando los productores pecuarios hayan cumplido con el registro correspondiente del SINIDA o de los medios de identificación que obligue esta Ley y las Normas Oficiales Mexicanas, la Secretaría de Desarrollo Agroalimentario y Rural les expedirá como título de propiedad la patente de registro.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 42.
 
-Se implantará el medio de identificación autorizado por la Secretaría de Desarrollo Agroalimentario y Rural en las comunidades rurales, mismo que quedará bajo estricto control y responsabilidad del delegado municipal, en los términos y con las modalidades que se establezcan en el reglamento respectivo.
+Se implantará el medio de identificación autorizado por la Secretaría de Desarrollo Agroalimentario y Rural y el SINIDA en las comunidades rurales, mismo que quedará bajo estricto control y responsabilidad de la unidad administrativa municipal o en su defecto del delegado municipal, en los términos y con las modalidades que se establezcan en los reglamentos respectivos.
 
 ###### Artículo 43.
 
@@ -827,6 +947,10 @@ III.- Cuando se apruebe el traspaso; y
 
 IV.- Cuando por error se expida un segundo título de marca de herrar, señal de sangre o tatuaje, se cancelará el de menor antigüedad.
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+V.- Cuando el titular tenga antecedentes penales de robo de ganado.
+
 El procedimiento de cancelación podrá iniciarse oficiosamente o a solicitud de parte interesada. En todo caso se oirá al propietario del título que se pretenda cancelar.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
@@ -847,9 +971,11 @@ Cuando los predios ganaderos colinden entre sí, o con terrenos agrícolas, los 
 
 Es obligatorio construir parrillas o guarda ganados en los lugares de acceso de un predio ganadero a otro agrícola o a una vía pública, a fin de evitar las introducciones o salidas de ganado y los daños que el mismo pudiera ocasionar.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Artículo 50.
 
-Cuando haya constancia que demuestre quién fabricó el cerco divisorio, el que lo costeó es dueño exclusivo de él; si consta que se fabricó por los colindantes, o no consta quién lo fabricó, es de propiedad común, salvo prueba en contrario.
+Cuando haya constancia que demuestre quién construyó el cerco divisorio, el que lo costeó es dueño exclusivo de él; si consta que se construyó por los colindantes, o no consta quién lo instaló, es de propiedad común, salvo prueba en contrario.
 
 ###### Artículo 51.
 
@@ -931,25 +1057,33 @@ En lo no previsto por este Capítulo se aplicará de manera supletoria el Códig
 
 ## TITULO SEXTO
 
-### CAPITULO PRIMERO. DE LA MOVILIZACION DEL GANADO, SUS PRODUCTOS Y SUBPRODUCTOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2016)</small>
+
+### CAPITULO PRIMERO. DE LA MOVILIZACIÓN DE LAS ESPECIES PECUARIAS Y SUS PRODUCTOS
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 64.
 
-La movilización de ganado, de productos y subproductos que se realice en el Estado, se sujetará a las disposiciones de esta Ley y su reglamento.
+La movilización de especies pecuarias y sus productos que se realice en el Estado, se sujetará a las disposiciones de esta Ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 65.
 
-La movilización de ganado, productos y subproductos deberá ampararse con la guía de tránsito y certificado zoosanitario que expedirá la Secretaría de Desarrollo Agroalimentario y Rural o las asociaciones ganaderas locales, de conformidad con los convenios respectivos.
+La movilización de especies pecuarias y sus productos deberá ampararse con la guía de tránsito que expedirá la Secretaría de Desarrollo Agroalimentario y Rural o los organismos sociales de cooperación, de conformidad con los convenios respectivos.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 66.
 
-El embarque y movilización de ganado dentro del Estado, deberá realizarse en condiciones que permitan su visibilidad, atendiendo a las características de las especies pecuarias.
+El embarque y movilización de las especies pecuarias dentro del Estado, deberá realizarse en condiciones que permitan su visibilidad, atendiendo a las características de dichas especies debiéndose observar los horarios de movilización y las rutas pecuarias establecidas por el Ejecutivo del Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+El transporte de productos para el consumo humano, deberá realizarse en vehículos que cumplan con las condiciones sanitarias y previa verificación de la autoridad competente.
 
-El transporte de productos y subproductos pecuarios para el consumo humano, deberá realizarse en vehículos que cumplan con las condiciones sanitarias y previa verificación de la autoridad competente.
+La guía de tránsito será expedida por la Secretaría de Desarrollo Agroalimentario y Rural o por los organismos sociales de cooperación con los que la dependencia convenga; tendrá vigencia de veinticuatro horas únicamente dentro del Estado y fenecerá al término del plazo o cuando las especies pecuarias, o productos lleguen a su destino. El número de especies pecuarias señaladas en la guía, debe coincidir con los físicamente transportados, salvo causa que justifique si el número es inferior, en ningún caso podrá ser mayor al establecido en la guía.
+
+Además deberá llevar dibujado el fierro del propietario y, sobre éste, el sello de la asociación que expide la guía de tránsito, la cual deberá incluir los identificadores oficiales de las especies pecuarias a movilizar en la propia guía o en un listado anexo expedido por la asociación ganadera.
 
 ### CAPITULO SEGUNDO. DEL SACRIFICIO DE LAS ESPECIES PECUARIAS PARA EL ABASTO PUBLICO
 
@@ -967,6 +1101,10 @@ El sacrificio clandestino será sancionado conforme a la legislación vigente.
 
 Se prohíbe la venta, traslado e ingreso a los rastros o establecimientos de sacrificio de animales muertos, éstos sólo podrán trasladarse a algún laboratorio de patología o planta de rendimiento.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+La autorización de traslado solo deberá otorgarse por las unidades administrativas municipales, las que verificarán los lineamientos del sector salud.
+
 ###### Artículo 69.
 
 Se prohibe el sacrificio de hembras con más de la mitad del periodo de gestación.
@@ -983,7 +1121,9 @@ Los rastros o establecimientos de sacrificio que operen en la entidad deberán c
 
 En cada rastro o establecimiento de sacrificio los municipios contarán con médicos veterinarios zootecnistas, quienes deberán:
 
-I.- Verificar las condiciones sanitarias de los animales que se pretendan ingresar al sacrificio;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
+
+I.- Verificar las condiciones sanitarias de las especies pecuarias que se pretendan ingresar al sacrificio y en caso de hembras con estado de gestación avanzada se deberá evitar su sacrificio;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -998,6 +1138,10 @@ III.- Emitir el dictamen que determine si las condiciones sanitarias de los prod
 IV.- Observar las disposiciones sobre clasificación de la carne, y
 
 V.- Dar cuenta a las autoridades competentes sobre las infracciones que se cometan, a efecto de que procedan a imponer las sanciones correspondientes.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+VI.- Abstenerse de sacrificar especie pecuaria que no cuente con el SINIDA o los medios de identificación que obligue esta Ley y las Normas Oficiales Mexicanas.
 
 ###### Artículo 72.
 
@@ -1021,7 +1165,15 @@ Los productos y subproductos procedentes de rastros o establecimientos de sacrif
 
 En los rastros o establecimientos de sacrificio, la carne se expenderá en canal, de acuerdo con la clasificación de la carne que se establezca.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+Asimismo, deberán establecer un sistema de identificación confiable para el control de sus productos de salida y que otorguen seguridad en el proceso de rastreabilidad.
+
 Sin perjuicio de lo previsto en esta Ley, las autoridades y particulares que intervengan en el sacrificio, funcionamiento, aseo, y conservación de rastros o establecimientos de sacrificio, deberán atender lo dispuesto por la Ley de Salud del Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+La Secretaría de Desarrollo Agroalimentario y Rural propiciará y verificará que los centros de sacrificio municipales cuenten con reglamentación y documentación homogénea, que establezca los horarios de sacrificio y recepción de especies pecuarias, quedando prohibido el ingreso de especies pecuarias fuera del horario establecido.
 
 ## TITULO SEPTIMO
 
@@ -1031,17 +1183,23 @@ Sin perjuicio de lo previsto en esta Ley, las autoridades y particulares que int
 
 Las autoridades a que se refiere esta Ley aplicarán las medidas zoosanitarias necesarias para proteger las especies pecuarias, contra las enfermedades que las afecten y determinará los medios para su prevención, diagnóstico, tratamiento y erradicación, fijando en cada caso la vigencia que tendrá en el área geográfica correspondiente.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Artículo 76.
 
-El Ejecutivo del Estado y los ayuntamientos, podrán celebrar convenios de coordinación en los que se establezcan bases de colaboración para el diagnóstico, prevención, control y erradicación de las enfermedades de los animales. Los convenios deberán publicarse en el periódico oficial del gobierno del Estado.
+El Ejecutivo del Estado, los organismos sociales de cooperación y los ayuntamientos, podrán celebrar convenios de coordinación en los que se establezcan bases de colaboración para el diagnóstico, prevención, control y erradicación de las enfermedades de las especies pecuarias. Los convenios deberán publicarse en el periódico oficial del gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 77.
 
-Se consideran de interés público y por lo tanto obligatorias y permanentes las campañas para prevenir y combatir las enfermedades de los animales, así como las enfermedades clasificadas como zoonóticas.
+Se consideran de interés público y, por lo tanto, obligatorias y permanentes, las campañas oficiales para prevenir y combatir las enfermedades de las especies pecuarias, así como las enfermedades clasificadas como zoonóticas y exóticas.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 78.
 
-Los propietarios o encargados de ganado, deberán aislar el ganado infectado y tomar las medidas necesarias para evitar la propagación de enfermedades infecto-contagiosas, asimismo cooperarán en los trabajos de prevención y combate de las mismas.
+Los propietarios o encargados de las especies pecuarias, deberán aislar a los infectados e informar a la autoridad correspondiente, tomando las medidas necesarias para evitar la propagación de enfermedades infecto-contagiosas, asimismo cooperarán en los trabajos de prevención y combate de las mismas.
 
 ###### Artículo 79.
 
@@ -1127,15 +1285,17 @@ VII.- Utilizar marcas registradas de las que no sea titular;
 
 VIII.- Asentar datos falsos en las guías de tránsito o certificados zoosanitarios;
 
-IX.- Utilizar marcas registradas de las que no sea titular;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+IX.- Sacrificar, comerciar o movilizar especies pecuarias o sus productos, sin la autorización y documentación correspondiente;
 
-X.- Vender, comprar, recoger, aceptar o llevar a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de una enfermedad infectocontagiosa, salvo que sea destinado para su procesamiento en una planta de rendimiento o laboratorio de patología
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+X.- Vender, comprar, recoger, aceptar o llevar a cabo cualquier operación o contrato con especies pecuarias enfermas o despojos de especies pecuarias muertas a causa de una enfermedad infecto-contagiosa, salvo que sea destinado para su procesamiento en una planta de rendimiento o laboratorio de patología;
 
-XI.- Vender, comprar o distribuir productos o subproductos pecuarios para consumo humano, sin que estos hayan sido revisados por la autoridad sanitaria;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XI.- Vender, comprar o distribuir productos pecuarios para consumo humano, sin que estos hayan sido revisados por la autoridad sanitaria competente;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -1149,9 +1309,69 @@ XIII.- Transportar productos y subproductos pecuarios para el consumo humano, en
 
 XIV.- Sacrificar especies pecuarias en lugares no autorizados o en lugares que no cumplan con las condiciones sanitarias adecuadas; y
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2016)</small>
 
-XV.- Usar, vender, distribuir, almacenar o transportar sustancias prohibidas que afecten a las especies pecuarias.
+XV.- Suministrar, usar, vender, distribuir, almacenar o transportar sustancias prohibidas que afecten a las especies pecuarias y a la salud pública;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XVI.- Movilizar especies pecuarias y sus productos fuera del horario y de las rutas pecuarias establecidas;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XVII.- Movilizar especies pecuarias con marcas de herrar que no sea la que estipula la ley o recién herrados;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XVIII.- Permitir que deambulen especies pecuarias en el derecho de vía federal, estatal y espacios públicos;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XIX.- Evadir los puntos de verificación interna o volantas establecidas en el estado;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XX.- Movilizar pieles que no tengan las marcas de herrar señaladas en la guía de tránsito, para el caso de pieles de las especies pecuarias que obliga el herraje;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXI.- Movilizar especies pecuarias con patentes vencidas o cuando aún vigentes no tengan especie pecuaria registrada en el inventario de la patente, ante la asociación ganadera que corresponda;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXII.- Movilizar especies pecuarias con documentos con alteraciones, tachaduras o enmendaduras;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXIII.- Permitir en los rastros el ingreso de especies pecuarias sin documentos de identificación oficiales;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXIV.- No permitir la visibilidad de las especies pecuarias que se transportan;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXV.- No tener autorización municipal para matadero rural;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXVI.- Sacrificar especies pecuarias de manera clandestina;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXVII.- Cuando se detecten productos en establecimientos comerciales sin documentos oficiales o sellos sanitarios;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXVIII.- Movilizar especies pecuarias y sus productos con guías de tránsito o certificado zoosanitario posfechados;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXIX.- Tener en establecimientos comerciales productos sin sello del rastro y documentación oficial; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2016)</small>
+
+XXX.- Transitar con especies pecuarias, con plagas o enfermedades.
 
 ###### Artículo 86.
 
@@ -1163,27 +1383,27 @@ II.- Decomiso; y
 
 III.- Arresto hasta por 36 horas.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
 ###### Artículo 87.
 
 La multa se aplicará, atendiendo al tipo de la infracción cometida, de la siguiente manera:
 
-I.- A las establecidas en las fracciones I y II del artículo 85, de cinco a veinticinco veces el salario mínimo general diario vigente en el Estado;
+I.- A las establecidas en las fracciones I, III, IV, V, XVII, XVIII, XXIII y XXVIII del artículo 85, de cinco a veinticinco el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+II.- A las establecidas en las fracciones VI, VII, XII, XIII, XVI, XIX, XX, XXI, XXII, XXIV y XXV del artículo 85, de diez a treinta el valor diario de la Unidad de Medida y Actualización;
 
-II.- A las establecidas en las fracciones III, IV y V del artículo 85, de diez a treinta veces el salario mínimo general diario vigente en el Estado, y
+III.- A las establecidas en las fracciones II, VIII, IX, X, XI, XIV, XXVI, XXVII, XXIX y XXX del artículo 85, de veinte a cuarenta el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+IV.- A las establecidas en la fracción XV del artículo 85, de treinta a cincuenta el valor diario de la Unidad de Medida y Actualización.
 
-III.- A las establecidas en las fracciones VIII, IX, X y XI del artículo 85, de veinte a cuarenta veces el salario mínimo general diario vigente en el Estado; y
+Lo anterior con independencia a que los hechos descritos pueden llegar a ser constitutivos de responsabilidad civil o penal.
 
-IV.- (DEROGADA, P.O. 16 DE JUNIO DE 2006)
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 88.
 
-La reincidencia en las faltas anteriores se sancionará duplicando la multa que corresponda.
+La reincidencia en las infracciones señaladas en el artículo 85, se sancionará duplicando la multa que corresponda.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -1191,13 +1411,19 @@ La reincidencia en las faltas anteriores se sancionará duplicando la multa que 
 
 Para la imposición de las multas se comunicará por oficio al infractor, con copia a las autoridades fiscales estatales o municipales, según corresponda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2016)</small>
 
 ###### Artículo 90.
 
-El decomiso de ganado, productos o subproductos, tendrá lugar cuando no se reúnan las condiciones sanitarias para consumo humano o no se acredite debidamente su propiedad.
+El decomiso de especies pecuarias y productos, tendrá lugar cuando no se reúnan las condiciones sanitarias para consumo humano o se detecte la presencia de sustancias que se consideren nocivas para las especies pecuarias y la salud pública o no se acredite debidamente su propiedad.
 
-Si el ganado, productos o subproductos, previo dictamen emitido por el médico veterinario zootecnista autorizado, no reúne las condiciones sanitarias y son nocivos para la salud humana y pecuaria, la autoridad podrá determinar su remisión a la planta de rendimiento, laboratorio de patología, destrucción, incineración o inhumación, procurando utilizar métodos que no alteren el medio ambiente, debiendo notificar a las autoridades competentes.
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2016)</small>
+
+Se decomisará y se pondrá a disposición de la autoridad competente, las sustancias prohibidas nocivas a la salud animal y humana que se encuentren en explotaciones ganaderas, almacenes, transportes y centros de distribución.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+
+Si las especies pecuarias o productos, previo dictamen emitido por el médico veterinario zootecnista autorizado, no reúnen las condiciones sanitarias y son nocivos para la salud humana y pecuaria, la autoridad podrá determinar su remisión a la planta de rendimiento, laboratorio de patología, destrucción, incineración o inhumación, procurando utilizar métodos que no alteren el medio ambiente, debiendo notificar a las autoridades competentes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -1374,3 +1600,19 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 3 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 85, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GANADERA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Titular del Poder Ejecutivo del Estado realizará los ajustes a los reglamentos y demás disposiciones para el cumplimiento de esta reforma, en un término que no exceda de noventa días, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. La obligatoriedad del uso del SINIDA será a partir del 1 de diciembre de 2016.
+
+Artículo Cuarto. Los ayuntamientos, en el ámbito de sus competencias, adecuaran los reglamentos y demás ordenamientos municipales que resulten aplicables en concordancia con la presente Ley, en un término de noventa días, contados a partir de la publicación del reglamento de la presente Ley.
+
+Artículo Quinto. Los procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubiesen iniciado con antelación al inicio de vigencia del presente Decreto, se tramitarán y resolverán conforme a las disposiciones de la Ley con la que se les dio origen.
+
+Artículo Sexto. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si la presente Ley ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
