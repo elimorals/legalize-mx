@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4062
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2013-04-09"
+last_updated: "2016-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 3 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de mayo de 2004.
 
@@ -1226,3 +1228,31 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 TERCERO. El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
+
+P.O. 3 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 398 POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO”.]
+
+Primero. La presente Ley entrará en vigor el día cinco de mayo de dos mil dieciséis, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, expedida mediante Decreto número 130 de la H. X Legislatura del Estado y publicada en el Periódico Oficial del Estado en fecha 31 de mayo de 2004, excepción de lo dispuesto en el párrafo siguiente.
+
+En tanto no se expida la ley general y la ley local en materia de datos personales permanecerá vigente la normatividad local en la materia.
+
+Tercero. Se derogan las disposiciones de igual o menor jerarquía, en materia de transparencia, acceso a la información, que se opongan a la presente Ley.
+
+Cuarto. El Consejo Consultivo del Instituto deberá instalarse dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+Quinto. Los Comités de Transparencia y las Unidades de Transparencia, deberán quedar instaladas dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+Sexto. Los sujetos obligados deberán armonizar su normatividad conforme a lo establecido en la presente Ley, dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+Séptimo. Los procedimientos de acceso a la información pública y los recursos de revisión que se encuentren en trámite o pendientes de resolución ante los sujetos obligados a la entrada en vigor de esta Ley, se sustanciarán y concluirán de conformidad con las disposiciones vigentes al momento en que iniciaron.
+
+Octavo. El Poder Ejecutivo y los Municipios del Estado deberán informar al Instituto, dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, respecto a los organismos descentralizados, fideicomisos públicos y empresas de participación mayoritaria y minoritaria con los que cuentan.
+
+En el mismo plazo que se señala en el párrafo anterior, el Instituto Electoral de Quintana Roo informará al Instituto, respecto de los partidos políticos, agrupaciones políticas y las personas morales constituidas en asociación civil, creadas por los ciudadanos que pretendan postular su candidatura independiente, que cuentan con registro o acreditación ante el mismo.
+
+Noveno. Los titulares de los poderes públicos estatales, ayuntamientos y órganos autónomos, entregarán al Instituto, dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, un listado de las personas físicas, morales y sindicatos a quienes les entreguen recursos públicos, los montos asignados para el presente año, objeto de la ministración, y en su caso, la normatividad para su ejercicio.
+
+Décimo. La información que, hasta la fecha de entrada en vigor de la presente Ley, obre en los sistemas electrónicos de los sujetos obligados, formará parte de la Plataforma Nacional de Transparencia, conforme a los lineamientos que, para el efecto, emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
