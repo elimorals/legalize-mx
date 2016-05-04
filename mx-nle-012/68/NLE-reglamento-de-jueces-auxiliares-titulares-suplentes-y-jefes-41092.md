@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-jueces-auxiliares-titulares-suplentes-y-jefes-410
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-13"
-last_updated: "2014-03-12"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE JUECES AUXILIARES TITULARES, SUPLENTES Y JEFES DE MANZANA DEL MUNICIPIO DE CIÉNEGA DE FLORES, NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE CIÉNEGA DE FLORES, PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE DELEGADOS MUNICIPALES DEL MUNICIPIO DE CIÉNEGA DE FLORES, PUBLICADO EN EL P.O. DE 12 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. ASÍ COMO, REPUBLICADO CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE JUECES AUXILIARES DEL MUNICIPIO DE CIÉNEGA DE FLORES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2016.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014 Y REPUBLICADO 4 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 13 de septiembre de 2004.
 
@@ -314,3 +314,15 @@ Se otorga un plazo no mayor de 90 días hábiles para que la Dirección de Parti
 SEGUNDO. Envíese para su Publicación al Periódico Oficial del Estado de Nuevo León, entrando en vigor a partir de la fecha de su publicación.
 
 TERCERO. Se abroga el REGLAMENTO DE JUECES AUXILIARES, TITULARES SUPLENTES Y JEFES DE MANZANA, de fecha de publicación 13 de Septiembre de 2004.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA EL REGLAMENTO DE JUECES AUXILIARES DEL MUNICIPIO DE CIÉNEGA DE FLORES, NUEVO LEÓN".]
+
+Primero.- Los Jueces Auxiliares Titulares y Suplentes o Auxiliares continuaran en su función hasta en tanto no sean ratificados o sustituidos por quienes hayan sido designados como Jueces Auxiliares Titulares o Suplentes y Auxiliares de Manzana. Se otorga un plazo no mayor de 90 días hábiles para que la Dirección de Jueces Auxiliares lleve a cabo las acciones necesarias a fin de dar cumplimiento a lo indicado al principio de este artículo.
+
+Segundo.- Se abroga el Reglamento de Jueces Auxiliares Titulares, Suplentes y Jefes de Manzana del Municipio de Ciénega de Flores, Nuevo León, publica (sic) en el Periódico Oficial del Estado de Nuevo León el día 13 de Septiembre del 2004.
+
+Tercero.- Envíese para su Publicación al Periódico Oficial del Estado de Nuevo León, entrando en vigor a partir de la fecha de su publicación.
+
+Cuarto.- Este reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
