@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-la-comision-estatal-de-los-derechos-humanos-del-100289"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2016-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el viernes 27 de diciembre de 2013.
 
@@ -81,9 +81,13 @@ VIII. Constitución: A la Constitución Política de los Estados Unidos Mexicano
 
 IX. Constitución local: A la Constitución Política del Estado de Chiapas.
 
-X. Consejo Consultivo: Al Órgano máximo de decisión de la Comisión Estatal de los Derechos Humanos.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
 
-XI. Consejeros: A los Consejeros Consultivos del Órgano máximo de decisión de la Comisión Estatal de Derechos Humanos.
+X. Consejo Consultivo: Órgano de participación civil integrado por el Presidente y diez Consejeros.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XI. Consejeros: A los Consejeros ciudadanos integrantes del Consejo Consultivo.
 
 XII. Áreas de apoyo: A todas aquellas áreas que dependen de la Comisión Estatal de los Derechos Humanos.
 
@@ -99,7 +103,9 @@ XVII. Presidente: El titular de la Comisión Estatal de los Derechos Humanos.
 
 XVIII. Petición: A toda manifestación escrita o verbal que contenga una queja o denuncia por violación a los derechos humanos en contra de cualquier autoridad o servidor público del Estado de Chiapas.
 
-XIX. Peticionario: A cualquier persona o grupo de personas, que soliciten la intervención del Consejo Consultivo de la Comisión de los Derechos Humanos para que se les proteja, garantice y defiendan sus derechos humanos, ante cualquier presunta violación de los mismos o de intereses colectivos que atenten contra una comunidad o un grupo social en su conjunto, derivadas de cualquier acto, conducta u omisión de autoridad.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XIX. Peticionario: A cualquier persona o grupo de personas, que soliciten la intervención de la Comisión Estatal de los Derechos Humanos para que se les proteja, garantice y defiendan sus derechos humanos, ante cualquier presunta violación de los mismos o de intereses colectivos que atenten contra una comunidad o un grupo social en su conjunto, derivadas de cualquier acto, conducta u omisión de autoridad.
 
 XX. Reglamento: Al Reglamento Interior de la Comisión Estatal de los Derechos Humanos.
 
@@ -349,9 +355,13 @@ I. Actuar como representante legal de la Comisión Estatal, con plenas facultade
 
 II. Formular y proponer lineamientos, políticas y programas generales a los que habrán de sujetarse las actividades administrativas y sustantivas de la Comisión Estatal.
 
-III. Nombrar y expedir los nombramientos de los servidores públicos de la Comisión Estatal, con excepción del personal adscrito a las Visitadurías.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
 
-IV. Dirigir, coordinar y remover previo acuerdo con los Visitadores al personal adscrito a la Comisión Estatal.
+III. Nombrar y expedir los nombramientos de los servidores públicos.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+IV. Dirigir, coordinar y remover a los servidores públicos de la Comisión Estatal.
 
 V. Dispensar algún requisito de ley para ocupar algún cargo en la Comisión Estatal, cuando el interesado o el candidato cuente con el perfil, la experiencia, y los conocimientos sobre la materia; en este caso deberá subsanarse dicho requisito en un término que no exceda de ciento ochenta días, de lo contrario será motivo de baja inmediata del trabajador.
 
@@ -381,7 +391,9 @@ XVII. Comparecer y rendir anualmente un informe de actividades ante los Poderes 
 
 XVIII. Solicitar la intervención del Congreso del Estado, para que analice las causas de incumplimiento de la autoridad que haya recibido recomendaciones, y que no las haya aceptado o las haya aceptado parcialmente, de modo que su intervención procure la efectividad y cumplimiento total de las mismas.
 
-XIX. Modificar o adicionar previo acuerdo de los Visitadores y de los Consejeros, la estructura orgánica de la Comisión Estatal para cumplir de manera eficiente y eficaz con las obligaciones y atribuciones que le confiere la Ley y el reglamento.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XIX. Modificar o adicionar la estructura orgánica de la Comisión Estatal para cumplir de manera eficiente y eficaz con las obligaciones y atribuciones que le confiere la Ley y su Reglamento Interior.
 
 XX. Autorizar la ejecución de las partidas presupuestales de la Comisión Estatal.
 
@@ -389,9 +401,13 @@ XXI. Recibir informes del Contralor Interno respecto de los expedientes relativo
 
 XXII. Elaborar el proyecto del Presupuesto de Egresos de la Comisión Estatal y el informe respectivo sobre su ejercicio, y remitirlos a la dependencia normativa competente para el trámite correspondiente a más tardar el primer día hábil del mes de noviembre.
 
-XXIII. Dictar las disposiciones que estime convenientes y establecer la creación de las áreas que le auxilien en su trabajo y hagan eficiente la función de la Comisión Estatal, previo acuerdo con los Visitadores.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
 
-XXIV. Otorgar licencias y permisos al personal de la Comisión Estatal en los términos del Reglamento Interior siempre y cuando no estén adscritos a alguna Visitaduría o dependan de ellas.
+XXIII. Dictar las disposiciones que estime convenientes y establecer la creación de las áreas que le auxilien en su trabajo y hagan eficiente la función de la Comisión Estatal.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XXIV. Otorgar licencias y permisos al personal de la Comisión Estatal en los términos del Reglamento Interior.
 
 XXV. Instaurar a través de la Contraloría Interna, el procedimiento administrativo interno, cuando alguno de los servidores públicos de la institución incurra en alguna falta, e imponer las sanciones que procedan, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
@@ -399,7 +415,13 @@ XXVI. Proponer al Consejo Consultivo el proyecto del Reglamento Interior.
 
 XXVII. Instruir a los Visitadores o Visitadores Adjuntos, de manera oportuna e inmediata para que acudan a los sitios en los cuales se presenten cualquier evento, que ponga en riesgo o vulnere los derechos humanos de la ciudadanía.
 
-XXVIII. Las demás que le otorguen la presente Ley, su reglamento y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XXVIII. Aprobar y emitir las Recomendaciones Públicas y Acuerdos que formulen los Visitadores, en los términos de esta Ley.
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XXIX. Las demás que le otorguen la presente Ley, su reglamento y otros ordenamientos aplicables.
 
 ###### Artículo 28.
 
@@ -503,7 +525,9 @@ III. Iniciar a petición de parte la investigación de las quejas e inconformida
 
 IV. Realizar las actividades necesarias para lograr, por medio de la conciliación, la solución inmediata de las violaciones de los derechos humanos que por su propia naturaleza así lo permitan.
 
-V. Practicar las investigaciones y estudios necesarios para realizar las recomendaciones, informes, acuerdos o peticiones.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+V. Practicar las investigaciones y estudios necesarios para la elaboración de los proyectos de Recomendaciones, informes, acuerdos o peticiones.
 
 VI. Cuando se requiera realizar acciones de investigación para poder estar en aptitud de emitir resoluciones, tendrán las siguientes facultades:
 
@@ -519,13 +543,15 @@ VIII. Solicitar en cualquier momento a las autoridades competentes, se tomen las
 
 IX. Coadyuvar con el proyecto de informe anual de actividades que el Presidente presente a los Poderes del Estado, así como en los informes especiales que se emitan.
 
-X. Designar a los funcionarios adscritos a las áreas de su competencia.
+X. (DEROGADA, P.O. 4 DE MAYO DE 2016)
 
 XI. Formar parte de las comisiones permanentes y temporales y dirigir bajo su responsabilidad, relatorías que le sean encomendadas.
 
 XII. Acudir cuando así les instruya el Presidente de manera oportuna e inmediata a los sitios en los cuales se presenten cualquier evento, que ponga en riesgo o vulnere los derechos humanos de la ciudadanía.
 
 XIII. Las demás que le señale la presente Ley, el Reglamento Interior y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
 
 Los Visitadores Adjuntos auxiliarán en sus funciones a los Visitadores, en los términos del Reglamento Interior.
 
@@ -757,6 +783,10 @@ La reparación del daño por violaciones a los derechos humanos es independiente
 
 En caso de que no se comprueben las violaciones de derechos humanos imputadas, la Comisión Estatal dictará acuerdo de no responsabilidad.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+Los proyectos antes referidos serán sometidos al Presidente para su análisis y emisión que corresponda.
+
 ###### Artículo 67.
 
 La recomendación será pública y no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
@@ -803,9 +833,11 @@ El Presidente deberá hacer públicas, en su totalidad o en extracto, las recome
 
 La Comisión Estatal notificará inmediatamente a los quejosos los resultados de la investigación, la recomendación que haya dirigido a las autoridades o servidores públicos responsables de las violaciones respectivas, la aceptación y la ejecución que se haya dado a la misma, así como, en su caso, el acuerdo de no responsabilidad.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
+
 ###### Artículo 73.
 
-El Presidente presentará anualmente ante los Poderes del Estado, un informe sobre las actividades que haya realizado en el período comprendido entre el 1° de enero y el 31 de diciembre del año inmediato anterior. Al efecto, comparecerá en el mes de enero ante la Comisión Permanente del Congreso del Estado; posteriormente, presentará el informe ante el Gobernador del Estado y después ante el Pleno de Tribunal Superior de Justicia del Estado. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El Presidente presentará anualmente ante los Poderes del Estado, un informe sobre las actividades que haya realizado en el periodo comprendido entre el 1º de enero y 31 de diciembre del año inmediato anterior. Al efecto, comparecerá dentro del primer trimestre del año ante el Congreso del Estado; posteriormente, presentará el informe ante el Gobernador del Estado y después ante el Pleno del Tribunal Superior de Justicia del Estado, dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
 
 ###### Artículo 74.
 
@@ -908,3 +940,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 27 días del mes de diciembre del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 202 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
