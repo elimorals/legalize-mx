@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transparencia-y-acceso-a-la-informacion-publica-53766"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2006-12-29"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL PARA EL ESTADO DE HIDALGO
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL PARA EL ESTADO DE HIDALGO
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SEIS MESES DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -97,7 +99,7 @@ DECIMO QUINTO.- Que el Título Cuarto, de los datos personales, comprende dos ca
 
 En el Capítulo II, del ejercicio de la acción de protección de. datos personales, se propone que las unidades de Información Pública Gubernamental deben recibir y dar curso a las solicitudes que tengan por objeto la corrección, sustitución, rectificación, guardar confidencialidad o suprimir total o parcialmente los datos personales.
 
-DECIMO SEXTO.- Que el Titulo Quinto. Acceso ala Información Pública Gubernamental, contiene cuatro capítulos. El Capítulo I, de las Unidades de Información Pública Gubernamental, indica que éstas son el vínculo entre los sujetos obligados y el solicitante, quienes recibirán las solicitudes de información. Por su parte, el Capítulo II, dispone que cada sujeto obligado deberá establecer un Comité de Acceso a la Información Pública Gubernamental.
+DECIMO SEXTO.- Que el Titulo Quinto. Acceso a la Información Pública Gubernamental, contiene cuatro capítulos. El Capítulo I, de las Unidades de Información Pública Gubernamental, indica que éstas son el vínculo entre los sujetos obligados y el solicitante, quienes recibirán las solicitudes de información. Por su parte, el Capítulo II, dispone que cada sujeto obligado deberá establecer un Comité de Acceso a la Información Pública Gubernamental.
 
 El Capítulo III, del procedimiento de acceso a la información, refiere que la solicitud de acceso a la información, podrá realizarse de forma verbal, escrita o electrónica ante el sujeto obligado, contando con tres días hábiles para notificarle al solicitante la ubicación de la información requerida, disponiendo de quince días para entregar dicha información por escrito, pudiendo prorrogar adicionalmente este término por diez días. El Capítulo IV, define los procedimientos para difundir la información, misma que tendrá soporte en material escrito y gráfico. La difusión deberá actualizarse mensualmente o antes si es factible.
 
@@ -1052,3 +1054,27 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 655 QUE CONTIENE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- La presente Ley entrará en vigor seis meses después de su publicación en el Periódico oficial del Estado, a fin de que en este lapso el Instituto como Organismo Garante cuente con las condiciones de estructura, presupuestales y materiales para cumplir con sus nuevas atribuciones; asimismo, los sujetos obligados deberán capacitar a todo su personal en la Ley de la Materia y realizar las previsiones presupuestales correspondientes al siguiente ejercicio fiscal.
+
+Posterior a la fecha en que entre en vigor el presente Decreto, en un plazo de seis meses los Poderes Públicos, entidades Paraestatales, Ayuntamientos y Organismos Autónomos, deberán contar con todos los elementos técnicos para la publicación, homologación y estandarización de la información que incorporarán en sus portales de internet y en la plataforma nacional.
+
+SEGUNDO. Una vez que entre en vigor la presente Ley, quedará abrogada la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado el 29 de diciembre de 2006, con la salvedad que establece el artículo Tercero Transitorio de la Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario de la Federación el 4 de mayo del 2015.
+
+TERCERO. Los actuales Consejeros Ciudadanos del Instituto de Acceso a la Información Pública Gubernamental del Estado de Hidalgo concluirán el periodo para el cual fueron electos.
+
+CUARTO. Para asegurar el escalonamiento en sus funciones, los cinco Comisionados Propietarios y Suplentes del Instituto de Acceso a la Información Pública Gubernamental del Estado de Hidalgo que sean nombrados, tendrán por primera y única vez, una duración en su encargo de: dos Comisionados por cuatro años, dos Comisionados por seis años y un Comisionado por siete años.
+
+QUINTO.- Los trámites y recursos que se encuentren en proceso a la entrada en vigor de la presente Ley, se concluirán conforme a la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo publicada en el Periódico Oficial del Estado el 29 de diciembre de 2006.
+
+SEXTO. El Instituto emitirá las bases para la integración y funcionamiento del Consejo Consultivo, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. El Instituto deberá, dentro de los 180 días naturales posteriores a la entrada en vigor de esta Ley, crear y publicar las Reglas de Operación a las que se refiere el artículo 58, para certificar a las empresas como Empresas Transparentes.
+
+OCTAVO. El Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro del año siguiente a su entrada en vigor.
