@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2015-12-08"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -45,7 +45,7 @@ De esta manera los motivos que impulsaron la reforma a la legislación ambiental
 
 En términos generales esta Ley materia del presente dictamen parte de una perspectiva preventiva y no punitiva, es decir, se considera que en la medida en que se cumplan medidas anticipadas señaladas por la Ley, se evitarán acciones que causen desequilibrio ecológico o que atenten contra el ambiente, y por lo tanto las sanciones. Así mismo, ésta Ley es dinámica en la medida en que deja espacios para posibilitar la adaptación necesaria a la cambiante situación ambiental y a la evolución del conocimiento, a la vez que permite la articulación con otros preceptos legales, tales como el Código Penal.
 
-Por otra parte, de acuerdo a la nueva etapa del federalismo que coordina la soberanía de los Estados, la libertad de los Municipios así como las facultades constitucionales del Gobierno Federal, y que ha permitido el avance de las políticas de descentralización y desconcentración en diversas materias hacia las Entidades Federativas y los Municipios, y a su vez posibilita que estos puedan asumir mayores responsabilidades en materia ambiental, para atender de manera directa los problemas de cada localidad. Ésta Ley clarifica la injerencia de los actores definiendo la competencia de las autoridades y la integración de los diferentes niveles de gobierno. A su vez reconoce la participación de la sociedad en las tareas ambientales a través de ciertos organismos establecidos y amplia los márgenes legales de participación ciudadana en la gestión ambiental por medio de mecanismos tales como la denuncia popular, el acceso a la información ambiental y la posibilidad de impugnar por vía jurídica los actos que dañen al ambiente en contravención de la normatividad vigente.
+Por otra parte, de acuerdo a la nueva etapa del federalismo que coordina la soberanía de los Estados, la libertad de los Municipios así como las facultades constitucionales del Gobierno Federal, y que ha permitido el avance de las políticas de descentralización y desconcentración en diversas materias hacia las Entidades Federativas y los Municipios, y a su vez posibilita que estos puedan asumir mayores responsabilidades en materia ambiental, para atender de manera directa los problemas de cada localidad. Ésta Ley clarifica la injerencia de los actores definiendo la competencia de las autoridades y la integración de los diferentes niveles de gobierno. A su vez reconoce la participación de la sociedad en las tareas ambientales a través de ciertos organismos establecidos y amplía los márgenes legales de participación ciudadana en la gestión ambiental por medio de mecanismos tales como la denuncia popular, el acceso a la información ambiental y la posibilidad de impugnar por vía jurídica los actos que dañen al ambiente en contravención de la normatividad vigente.
 
 Respecto a la estructura el documento pretende ser un instrumento claro en cuanto a lenguaje y mecanismos, así mismo de fácil consulta, y manejo. En este sentido la estructura que se presenta en el índice, los cuatro primeros títulos definen aspectos generales, la política, el papel del Estado y la participación social. Los tres siguientes corresponden a la preservación del equilibrio ecológico a través del aprovechamiento de los elementos naturales y de la protección de la biodiversidad y del ambiente.
 
@@ -323,7 +323,7 @@ XVII. El establecimiento, regulación, administración y vigilancia de las área
 
 XVIII. La atención de los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios;
 
-XIX.La expedición de los reglamentos y la vigilancia del cumplimiento de las Normas Oficiales Mexicanas y en caso de ser necesario expedir normas estatales;
+XIX. La expedición de los reglamentos y la vigilancia del cumplimiento de las Normas Oficiales Mexicanas y en caso de ser necesario expedir normas estatales;
 
 XX. La conducción de la política estatal de información y difusión en materia ambiental, con la participación de los gobiernos municipales;
 
@@ -1275,15 +1275,19 @@ El Consejo podrá invitar a sus sesiones a representantes del Gobierno Federal y
 
 #### SECCIÓN 2. Tipos y características de las áreas naturales protegidas estatales y municipales
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 81.
 
-Se consideran áreas naturales protegidas de competencia estatal, conforme al artículo 46 de la Ley General de Equilibrio Ecológico y Protección al Ambiente, las siguientes:
+Se consideran áreas naturales protegidas de competencia estatal, conforme al artículo 46 de la Ley General, las siguientes:
 
-I. Reservas y parques estatales;
+I.- Reservas y Parques Estatales;
 
-II. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+II.- Parque Estatal Urbano, y
 
-Dichos parques y reservas no podrán establecerse en zonas declaradas previamente como áreas naturales protegidas de competencia de la Federación salvo que se trate de áreas de protección de recursos naturales.
+III.- Refugio de Vida Silvestre.
+
+Dichos Parques, Reservas y Refugios no podrán establecerse en zonas declaradas previamente como áreas naturales protegidas de la Federación salvo que se trate de áreas de protección de recursos naturales.
 
 ###### ARTÍCULO 82.
 
@@ -1326,6 +1330,16 @@ En las propias reservas deberán determinarse la superficie o superficies que pr
 Los parques estatales se constituirán, tratándose de representaciones biogeográficas, a nivel estatal o municipal, de uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.
 
 En los parques estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo y educación ecológica.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+Para la constitución de los Parques Estatales Urbanos se tomarán como referencia las características señaladas para el reconocimiento de los Parques Estatales, sirviendo como elemento distintivo entre ambas denominaciones su ubicación al interior de la ciudad.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 86 BIS.- Los Refugios de Vida Silvestre se constituirán, tratándose de áreas de extensión territorial reducida, donde existen características naturales de importancia para la conservación de biodiversidad y su función principal es la de asegurar la sobrevivencia y perpetuidad de las especies, poblaciones o hábitats de vida silvestre que ahí existen.
+
+Dichas áreas abarcarán cañadas, cuevas, cavernas, manantiales, cuerpos de agua u otras áreas geográficas que requieren ser preservadas o protegidas. En ellas sólo podrá autorizarse la realización de actividades de preservación de las áreas, de investigación científica y educación ecológica.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2601,7 +2615,7 @@ JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 19 DE SEPTIEMBRE DE 2001.
 
@@ -2720,3 +2734,15 @@ SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 CUARTA. Dentro de un plazo no mayor a 180 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, en su caso, las adecuaciones al Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y al Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos en Materia de Ordenamiento Territorial; así como expedir el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en materia de Ecozonas.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS VEINTISÉIS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menos rango jerárquico normativo que contravengan al presente Decreto.
+
+CUARTA.- En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias a las disposiciones jurídicas reglamentarias aplicables.
