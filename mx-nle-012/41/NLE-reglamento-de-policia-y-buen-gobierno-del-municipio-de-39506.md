@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-39506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-21"
-last_updated: "2004-04-21"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIENEGA DE FLORES, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIENEGA DE FLORES, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIÉNEGA DE FLORES, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIÉNEGA DE FLORES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de abril de 2004.
 
@@ -616,3 +618,15 @@ Presidente Municipal
 C. Imelda Palacios Quiroga
 
 Secretario del Ayuntamiento
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA EL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIÉNEGA DE FLORES, NUEVO LEÓN”.]
+
+Primero.- Se abroga el Reglamento de Policía y Buen Gobierno del Municipio de Ciénega de Flores, Nuevo León, publicado en el Periódico Oficial del Estado el día 21 de Abril del 2004.
+
+Segundo.- Envíese al Periódico Oficial del Estado de Nuevo León para su debida publicación.
+
+Tercero.- El presente reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
