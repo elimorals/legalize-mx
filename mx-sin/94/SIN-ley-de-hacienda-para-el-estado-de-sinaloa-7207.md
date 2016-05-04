@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2015-12-25"
+last_updated: "2016-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -201,6 +201,16 @@ En caso de incumplimiento, será considerado responsable solidario del pago del 
 
 Cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el artículo 52 del Código Fiscal del Estado de Sinaloa, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo de que se trate.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ART. 14 BIS.- Cuando el contribuyente del impuesto a que se refiere este Capítulo, sufra la pérdida total por accidente o como consecuencia de un fenómeno meteorológico o desastre natural, pagará el impuesto correspondiente en proporción al número de meses transcurridos hasta la fecha en que ocurriera tal eventualidad, aplicándose el factor contenido en la tabla del artículo 15-B de la presente Ley, siempre y cuando quede debidamente acreditada la misma ante la autoridad competente; y sin que dicha circunstancia origine el derecho a solicitar la devolución o compensación del impuesto, en caso de haberse cubierto el mismo con anterioridad a la pérdida total del vehículo.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ART. 14 BIS-1.- En los casos en que los contribuyentes obligados a realizar el pago en el Estado demuestren haber cubierto el impuesto sobre tenencia o uso de vehículos correspondiente al año de calendario de que se trate en otra entidad federativa, cuyo objeto grave la tenencia o uso de vehículos, o que en dicha entidad se encontraba exento del pago del impuesto, podrá solicitar se acredite el importe cubierto o la exención del plazo transcurrido en el año calendario, debiendo pagar, en su caso, la parte proporcional que quede pendiente una vez realizado el cálculo correspondiente al de esta entidad, aplicándose el factor correspondiente contenido en la tabla del artículo 15-B de esta Ley.
+
+No será sujeto de devolución o compensación, el importe cubierto en exceso en otra entidad federativa.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
@@ -282,6 +292,10 @@ Octubre 0.25
 Noviembre 0.17
 
 Diciembre 0.08
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+Tratándose de vehículos usados, el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo en la entidad, aplicándose el factor correspondiente contenido en la tabla que antecede.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3495,7 +3509,7 @@ Por lo tanto, mando se imprima, publique, circule y se le de el debido cumplimie
 
 Es dado en el Palacio del Poder Ejecutivo, de la ciudad de Culiacán de Rosales, Sinaloa, México, a los nueve días del mes de Noviembre de mil novecientos setenta y ocho. El Gobernador Constitucional del Estado ALFONSO G. CALDERÓN (Rúbrica); El Secretario General de Gobierno LIC. MARCO ANTONIO ARROYO CAMBERO (Rubrica); El Secretario de Finanzas del Estado C. P. ROBERTO WONG LEAL (Rúbrica).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY]</small>
 
 P.O. 31 DE DICIEMBRE DE 1979.
 
@@ -3777,7 +3791,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 28 DE DICIEMBRE DE 1994.
 
-> <small>N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.</small>
+> <small>[N. DE E. SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.]</small>
 
 DECRETO 479
 
@@ -3989,7 +4003,7 @@ Las obligaciones derivadas de la Ley del Impuesto sobre Tenencia o Uso de Vehíc
 
 P.O. 31 DE DICIEMBRE DE 2012.
 
-> <small>N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 2 DEL P.O. 30 DE DICIEMBRE DE 2013 SE ADVIERTE QUE EL ARTÍCULO PRIMERO TRANSITORIO A QUE HACE REFERENCIA, CORRESPONDE AL DECRETO NÚMERO 399 DEL P.O. 26 DE DICIEMBRE DE 2011 MODIFICADO POR EL DECRETO NÚMERO 735 DEL P.O. 31 DE DICIEMBRE DE 2012.</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 2 DEL P.O. 30 DE DICIEMBRE DE 2013 SE ADVIERTE QUE EL ARTÍCULO PRIMERO TRANSITORIO A QUE HACE REFERENCIA, CORRESPONDE AL DECRETO NÚMERO 399 DEL P.O. 26 DE DICIEMBRE DE 2011 MODIFICADO POR EL DECRETO NÚMERO 735 DEL P.O. 31 DE DICIEMBRE DE 2012.]</small>
 
 ###### ARTÍCULO UNICO.
 
@@ -4029,21 +4043,13 @@ P.O. 25 DE DICIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+P.O. 4 DE MAYO DE 2016.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 537 QUE ADICIONA LOS ARTÍCULOS 14 BIS, 14 BIS-1 Y UN PÁRRAFO ÚLTIMO AL 15-B A LA LEY DE HACIENDA DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
-
-CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
-
-QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
-
-SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
-
-G.G. 21 DE DICIEMBRE DE 2016.
+SEGUNDO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
 
