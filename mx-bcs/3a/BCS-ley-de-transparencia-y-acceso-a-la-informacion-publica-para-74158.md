@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-741
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-12"
-last_updated: "2015-10-17"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE OCTUBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 12 de marzo de 2010.
 
@@ -908,3 +910,39 @@ T.C. LUIS ARMANDO DIAZ
 B.O. 17 DE OCTUBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2347.- SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.-Se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California Sur, expedida mediante Decreto 1838, publicada en el Boletín Oficial del Gobierno del Estado Extraordinario número 1O de fecha 12 de marzo del 2010, así como sus reformas y adiciones expedidas mediante Decreto 2298, publicado en el Boletín Oficial del Gobierno del Estado número 61 de fecha 17 de octubre de 2015.
+
+TERCERO.-Los Consejeros que actualmente integran el Consejo General del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, continuarán en sus cargos como "Comisionados" dentro del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, conforme a los (sic) dispuesto al Decreto que reforma y adiciona diversas disposiciones en materia de Transparencia de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+CUARTO.- La designación de los consejeros que integrarán el Consejo Consultivo del Instituto se realizará a más tardar en un plazo de 90 días contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO.- El Instituto expedirá su Reglamento Interior acorde a las funciones asignadas en la presente Ley y a su presupuesto asignado, en un plazo que no exceda de 60 días contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- El Instituto expedirá los lineamientos y demás disposiciones necesarios para el ejercicio de las funciones asignadas en la presente Ley, en un plazo que no exceda de 180 días contados a partir de la entrada en vigor de la presente Ley.
+
+Entre tanto se expidan los lineamientos y demás disposiciones a que refiere el presente artículo y en lo que no se opongan a lo dispuesto en la presente Ley, serán vigentes los lineamientos para la sustanciación del recurso de revisión, y los lineamientos generales para la clasificación y desclasificación de la información reservada o confidencial en poder de las entidades gubernamentales y de interés público.
+
+SÉPTIMO.- Hasta en tanto no se expida la legislación general en materia de protección de datos personales; continuarán vigentes, en lo que no se opongan a la presente Ley, los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de datos personales que estén en posesión de las entidades gubernamentales y de interés público, expedidos por el Instituto.
+
+OCTAVO.- Los asuntos que se encuentren en trámite al momento de la entrada en vigor de la presente Ley, se concluirán de conformidad con las disposiciones vigentes al momento en que iniciaron.
+
+NOVENO.- Los sujetos obligados deberán de constituir los Comités y las Unidades de Transparencia correspondientes, en un plazo no mayor a 90 días contados a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO.- Para el cumplimiento de las nuevas obligaciones establecidas en los Capítulos I, II, III y IV del Título Quinto de la presente Ley, deberá observarse lo dispuesto en los Artículos Octavo Transitorio del Decreto mediante el cual se expide la Ley General de Transparencia y Acceso a la Información Pública.
+
+Las nuevas obligaciones a que refiere el presente artículo, serán aplicables a los sujetos obligados, solo respecto de la información que se genere a partir de la entrada en vigor de la presente Ley.
+
+DÉCIMO PRIMERO.- El Congreso del Estado vigilará que se hagan los ajustes y previsiones necesarias en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del 2016, con el objeto de garantizar el cumplimiento de la presente Ley.
+
+DÉCIMO SEGUNDO.- Previo a lo dispuesto en el artículo anterior, el Instituto presentará a la Secretaría de Finanzas y Administración del Gobierno del Estado, el proyecto de ajustes al presupuesto asignado para el ejercicio del 2016, así como las acciones y programas a ejecutar conforme a dicho presupuesto y las nuevas funciones asignadas, mismas que deberá implementar a la entrada en vigor de la presente Ley.
+
+DÉCIMO TERCERO.- Para efecto de las medidas de apremio y sanciones establecidas en la presente Ley, el valor inicial de la Unidad de Medida y Actualización, será el equivalente al que tenga el salario mínimo general diario en el todo el país.
+
+Hasta en tanto el Congreso de la Unión emita la Legislación reglamentaria para determinar el valor de la Unidad de Medida y Actualización, el valor diario se determinará multiplicando el valor diario de la Unidad de Medida y Actualización del año inmediato anterior por el resultado de la suma de uno más la variación interanual del Índice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior.
