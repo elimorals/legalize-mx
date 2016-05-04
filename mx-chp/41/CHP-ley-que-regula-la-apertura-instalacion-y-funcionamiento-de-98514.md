@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-regula-la-apertura-instalacion-y-funcionamiento-de-9851
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY QUE REGULA LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS MUTUANTES EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ESTABLECIMIENTOS MUTUANTES DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2013.
 
@@ -372,3 +374,19 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los treinta y un días del mes de diciembre del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 205 LEY DE ESTABLECIMIENTOS MUTUANTES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley que Regula la Apertura, Instalación y Funcionamiento de los Establecimientos Mutuantes en el Estado de Chiapas, Publicada en (sic) Periódico Oficial número 078, Tomo III, de fecha 31 de diciembre de 2013.
+
+Artículo Tercero.- En caso de que algún establecimiento haya iniciado el trámite para obtener el permiso de conformidad a lo dispuesto en la Ley que Regula la Instalación, Apertura y Funcionamiento de Establecimientos Mutuantes del Estado de Chiapas, contará con un plazo de sesenta días naturales para realizar los trámites, de conformidad con lo dispuesto por la presente Ley, para obtener el permiso para establecimientos mutuantes.
+
+Artículo Cuarto.- Los establecimientos cuya finalidad sea ofertar al público la celebración de contratos de mutuo que se encuentren actualmente en funcionamiento en el territorio del Estado de Chiapas, con anterioridad a la entrada en vigor de este ordenamiento, deberán cumplir con las disposiciones de la presente Ley, en un plazo que no exceda de los 60 días naturales posteriores al inicio de su vigencia.
+
+Artículo Quinto.- La Secretaría emitirá dentro de los cuarenta (sic) cinco días naturales posteriores a la entrada en vigencia del presente ordenamiento, las Reglas de Carácter General referidas en la presente Ley.
