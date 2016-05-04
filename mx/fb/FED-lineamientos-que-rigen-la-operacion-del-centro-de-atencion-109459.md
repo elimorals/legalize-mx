@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-que-rigen-la-operacion-del-centro-de-atencion-1094
 country: "mx"
 rank: "lineamientos"
 publication_date: "2015-08-18"
-last_updated: "2015-08-18"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109459&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-12"
 
 LINEAMIENTOS QUE RIGEN LA OPERACIÓN DEL CENTRO DE ATENCIÓN A LA SOCIEDAD DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2016.
 
 Lineamientos publicados en la Cuarta Sección del Diario Oficial de la Federación, el martes 18 de agosto de 2015.
 
@@ -83,93 +83,109 @@ LINEAMIENTOS QUE RIGEN LA OPERACIÓN DEL CENTRO DE ATENCIÓN A LA SOCIEDAD DEL I
 
 ### Capítulo I. Disposiciones Generales
 
-PRIMERO. OBJETO.- Los presentes Lineamientos tienen por objeto establecer las reglas de operación del Centro de Atención a la Sociedad del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y son de observancia obligatoria para el personal del Instituto y de carácter vinculante para los sujetos obligados previstos en la Ley General de Transparencia y Acceso a la Información Pública, así como de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
 
-SEGUNDO. DEFINICIONES.- Además de las definiciones contenidas en el artículo 3 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y artículo 2 de su Reglamento, artículo 3 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y artículo 2 de su Reglamento, así como las contenidas en los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento y trámite de las solicitudes de acceso a información pública gubernamental que formulen los particulares, así como en su resolución y notificación, y la entrega de la información en su caso, con exclusión de las solicitudes de acceso a datos personales y su corrección, publicados por el Instituto el 12 de junio de 2003 en el Diario Oficial de la Federación, de las contenidas en los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento, trámite, resolución y notificación de las solicitudes de acceso a datos personales que formulen los particulares, con exclusión de las solicitudes de corrección de dichos datos, publicados por el Instituto el 25 de agosto de 2003 en el Diario Oficial de la Federación y a su reforma publicada el 2 diciembre de 2008, se entenderá por:
+PRIMERO. OBJETO.
 
-I. Agentes: servidores públicos con categoría de Auxiliar Administrativo, integrantes del primer nivel de atención responsables de atender las consultas de las personas por medios remotos y presenciales.
+Los presentes Lineamientos tienen por objeto establecer las reglas de operación del Centro de Atención a la Sociedad del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y son de observancia obligatoria para el personal del Instituto y de carácter vinculante para los sujetos obligados previstos en la Ley General de Transparencia y Acceso a la Información Pública, así como de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
 
-II. Asesoría: La orientación sobre el ejercicio de los derechos de acceso a la información y a la protección de datos personales que se otorga por medios remotos y presenciales.
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
 
-III. Atención presencial: La orientación, asesoría o servicio otorgado a las personas que acuden a las instalaciones del Instituto o en los módulos itinerantes.
+SEGUNDO. DEFINICIONES.
 
-IV. Bases de datos de acceso restringido: Los sistemas informáticos del INAI que contienen datos de carácter confidencial o reservado sobre trámites, procedimientos o servicios que serán consultados para otorgar los servicios del CAS.
+Además de las definiciones contenidas en el artículo 3 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y artículo 2 de su Reglamento, artículo 3 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y artículo 2 de su Reglamento, así como las contenidas en los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento y trámite de las solicitudes de acceso a información pública gubernamental que formulen los particulares, así como en su resolución y notificación, y la entrega de la información en su caso, con exclusión de las solicitudes de acceso a datos personales y su corrección, publicados por el Instituto el 12 de junio de 2003 en el Diario Oficial de la Federación, de las contenidas en los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento, trámite, resolución y notificación de las solicitudes de acceso a datos personales que formulen los particulares, con exclusión de las solicitudes de corrección de dichos datos, publicados por el Instituto el 25 de agosto de 2003 en el Diario Oficial de la Federación y a su reforma publicada el 2 (sic) diciembre de 2008, se entenderá por:
 
-V. Centro de Atención a la Sociedad (CAS): El área especializada del INAI responsable de orientar y asesorar a las personas sobre el ejercicio de los derechos de acceso a la información y de protección de datos personales, así como de otorgar los servicios descritos en los presentes lineamientos.
+I. Acuse de recibo: El documento electrónico con número de folio único emitido por el Sistema de Solicitudes de Acceso a la Información y el Sistema de Medios de Impugnación, que acredita la hora y fecha de recepción de la solicitud presentada y del medio de impugnación interpuesto;
 
-VI. Captura: El ingreso de datos en el sistema de gestión que permite el registro, administración, gestión y monitoreo de las asesorías y servicios otorgados por el CAS.
+II. Agentes del CAS: Servidores públicos del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, adscritos al Centro de Atención a la Sociedad, integrantes del primer nivel de atención, responsables de atender las consultas de las personas por medios remotos y presenciales;
 
-VII. Consulta: La petición de orientación, asesoría o servicio formulada por una persona al CAS, a través de los canales de comunicación, en la que se registran sus datos de contacto y estadísticos.
+III. Asesoría: La orientación sobre el ejercicio de los derechos de acceso a la información y a la protección de datos personales que se otorga por medios remotos y presenciales, la cual será indicativa mas no vinculatoria;
 
-VIII. Canales de comunicación: Los medios a través de los cuales las personas hacen llegar al CAS sus consultas de manera remota o presencial.
+IV. Atención presencial: La orientación, asesoría o servicio otorgado a las personas que acuden a las instalaciones del Instituto o en los módulos itinerantes;
 
-IX. Denuncia: El acto mediante el cual las personas hacen del conocimiento del INAI alguno de los siguientes hechos: i) presuntas violaciones a la Ley de Datos Personales; ii) posibles faltas o incumplimientos a las obligaciones contenidas en la Ley de Transparencia.
+V. Bases de datos de acceso restringido: Los sistemas informáticos del INAI que contienen datos de carácter confidencial o reservado sobre trámites, procedimientos o servicios que serán consultados para otorgar los servicios del CAS;
 
-X. Dirección del Centro de Atención a la Sociedad: La dirección de área encargada de la administración del Centro de Atención a la Sociedad del INAI, dependiente de la Dirección General de Promoción y Vinculación con la Sociedad.
+VI. Captura: El ingreso de datos en el sistema de gestión que permite el registro, administración, gestión y monitoreo de las asesorías y servicios otorgados por el CAS;
 
-XI. Elaboración de Notificación por falta de respuesta: El apoyo y facilitación, por parte de los agentes a una persona, en la elaboración de una notificación por falta de respuesta a una solicitud de información (positiva ficta) durante una asesoría presencial.
+VII. Centro de Atención a la Sociedad (CAS): El área especializada del INAI responsable de orientar y asesorar a las personas sobre el ejercicio de los derechos de acceso a la información y de protección de datos personales, así como de otorgar los servicios descritos en los presentes lineamientos;
 
-XII. Elaboración de Recurso de Revisión: El apoyo y facilitación, por parte de los agentes a una persona, en la elaboración de un recurso de revisión durante una asesoría presencial.
+VIII. Canales de comunicación: Los medios a través de los cuales las personas hacen llegar al CAS sus consultas de manera remota o presencial;
 
-XIII. Elaboración de solicitud de información: El apoyo y facilitación, por parte de los agentes a una persona, en la elaboración de una solicitud de información a través del Sistema INFOMEX.
+IX. Consulta: La petición de orientación, asesoría o servicio formulada por una persona al CAS, a través de los canales de comunicación, en la que se registran sus datos de contacto y estadísticos;
 
-XIV. Instituto: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+X. Denuncia: El acto mediante el cual las personas hacen del conocimiento del INAI alguno de los siguientes hechos: i) presuntas violaciones a la Ley de Protección de Datos Personales en Posesión de Particulares; ii) posibles faltas o incumplimientos a las obligaciones contenidas en la Ley General de Transparencia y Acceso a la Información Pública las cuales, sólo podrán ser recibidas en el caso de posibles incumplimientos a las obligaciones de transparencia que correspondan a los sujetos obligados de la Federación;
 
-XV. Ley de Datos Personales: La Ley de (sic) Federal de Protección de Datos Personales en Posesión de los Particulares.
+XI. Días hábiles: Todos los días del año, a excepción de los sábados, domingos e inhábiles por disposición de ley, así como los que se establezcan por acuerdo del Pleno;
 
-XVI. Ley de Transparencia: La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+XII. Elaboración de Recurso de Revisión: El apoyo y facilitación, por parte de los agentes a una persona, en la elaboración de un recurso de revisión, que se tramiten en contra de sujetos obligados de la Federación durante una asesoría presencial;
 
-XVII. Medios remotos: Los canales de comunicación para atender a las personas a distancia, comprenden: línea telefónica, correo electrónico, correo postal, chat y formulario en página web, y los que se determinen por el Pleno del Instituto.
+XIII. Elaboración de solicitud de información: El apoyo y facilitación, por parte de los agentes a una persona, en la elaboración de una solicitud de información a través del Sistema SISAI;
 
-XVIII. Módulo manual del Sistema INFOMEX: El módulo manual del Sistema INFOMEX del INAI en el que los agentes llevarán a cabo el registro de las solicitudes de información que presenten las personas a las Unidades de Enlace de los Sujetos Obligados a través del CAS.
+XIV. Enlace de Unidad Administrativa: es la persona designada por los titulares de las diferentes áreas, para coadyuvar en las respuestas que otorga el CAS y responsable del tercer nivel de atención;
 
-XIX. Módulo itinerante del CAS (MiCAS): El stand u oficina móvil que permite brindar el servicio de atención presencial a las personas en su localidad.
+XV. Instituto: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XX. Notificación de incumplimiento: El acto mediante el cual las personas hacen del conocimiento del INAI un presunto incumplimiento a las resoluciones del Pleno del INAI.
+XVI. Ley de Datos Personales: La Ley de (sic) Federal de Protección de Datos Personales en Posesión de los Particulares;
 
-XXI. Número de folio: El número identificador de una solicitud de información, de trece dígitos, que genera automáticamente el Sistema INFOMEX gobierno federal.
+XVII. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
 
-XXII. Número de reporte: El número identificador de las consultas que ingresan al CAS generado automáticamente por el sistema.
+XVIII. Ley de Transparencia: La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XXIII. Pleno: El órgano máximo de dirección y decisión del Instituto Nacional de Transparencia y Acceso a la Información y Protección de Datos Personales.
+XIX. Medios remotos: Los canales de comunicación para atender a las personas a distancia, comprenden: línea telefónica, correo electrónico, correo postal, chat y formulario en página web, y los que se determinen por el Pleno del Instituto;
 
-XXIV. Persona: La persona física o moral que hace uso de los servicios que otorga el CAS.
+XX. Módulo manual del Sistema de Solicitudes de Acceso a la Información (SISAI). Es un componente del Sistema de Solicitudes de Acceso a la Información de la Plataforma Nacional de Transparencia que permite el registro y la captura de las solicitudes recibidas por correo electrónico, correo postal, mensajería, telégrafo, verbal, vía telefónica, escrito libre, a través del Centro de Atención a la Sociedad o cualquier otro medio distinto al Módulo electrónico del Sistema, donde se inscriben las respuestas y notificaciones que se emiten al solicitante;
 
-XXV. POT: El Portal de Obligaciones de Transparencia.
+XXI. Módulo itinerante del CAS (MiCAS): El stand u oficina móvil que permite brindar el servicio de atención presencial a las personas en su localidad;
 
-XXVI. Registro de solicitudes de información: La actividad que llevan a cabo los agentes a través de la cual capturan solicitudes de información pública y/o de datos personales en el módulo manual del Sistema INFOMEX.
+XXII. Notificación de incumplimiento: El acto mediante el cual las personas hacen del conocimiento del INAI un presunto incumplimiento a las resoluciones del Pleno del INAI;
 
-XXVII. Reporte de atención: El documento generado por los agentes en el sistema en el cual registran la consulta y que documenta la respuesta otorgada por el servidor público correspondiente.
+XXIII. Número de folio: El número identificador de una solicitud de información, que genera automáticamente el Sistema de Solicitudes de Acceso a la Información;
 
-XXVIII. Sistema: La herramienta tecnológica que se emplea en el CAS para el registro, gestión, monitoreo de las consultas y evaluación del servicio que se otorga por medios remotos y presenciales y, en su caso, para el envío de las respuestas.
+XXIV. Número de reporte: El número identificador de las consultas que ingresan al CAS generado automáticamente por el sistema;
 
-XXIX. Sistema INFOMEX Gobierno Federal: El sistema informático a través del cual las personas pueden presentar solicitudes de acceso a información pública, de acceso y corrección de datos personales y recursos de revisión.
+XXV. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hace referencia el artículo 49 de la Ley General y cuyo sitio de Internet es: www.plataformadetransparencia.org.mx;
+
+XXVI. Pleno: El órgano máximo de dirección y decisión del Instituto Nacional de Transparencia y Acceso a la Información y Protección de Datos Personales;
+
+XXVII. Persona: La persona física o moral que hace uso de los servicios que otorga el CAS;
+
+XXVIII. Registro de solicitudes de información: La actividad que llevan a cabo los agentes a través de la cual capturan solicitudes de información pública y/o de datos personales en el módulo manual del Sistema SISAI;
+
+XXIX. Reporte de atención: El documento generado por los agentes en el sistema en el cual registran la consulta y que documenta la respuesta otorgada por el servidor público correspondiente;
+
+XXX. Sistema: Sistema de Gestión de Asesorías y Consultas para el Centro de Atención a la Sociedad, herramienta tecnológica que se emplea en el CAS para el registro, gestión, monitoreo de las consultas y evaluación del servicio que se otorga por medios remotos y presenciales y, en su caso, para el envío de las respuestas;
+
+XXXI. SISAI: Sistema de Solicitudes de Acceso a la Información que forma parte de la Plataforma Nacional de Transparencia, a través del cual las personas presentan sus solicitudes de acceso a la información y, que es el mecanismo único de carácter nacional que concentra el registro y captura de todas las solicitudes recibidas, tanto las ingresadas directamente por los solicitantes, como las recibidas en otros medios por los sujetos obligados, incluyendo las registradas por medio del CAS, y
+
+XXXII. Solicitud múltiple: Captura en el módulo del SISAI, para procesar de forma simultánea una solicitud a máximo 33 sujetos obligados de los tres niveles de gobierno, conforme a la capacidad técnica de la Plataforma Nacional.
 
 ### Capítulo II. Del Centro de Atención a la Sociedad
 
 Objetivos, operación, servicios e integración
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
+
 TERCERO. OBJETIVOS ESPECÍFICOS.- Son objetivos específicos del CAS:
 
-I. Recibir y responder las consultas que formulen las personas al Instituto.
+I. Recibir y responder las consultas que formulen las personas al Instituto;
 
-II. Orientar y asesorar a las personas para el efectivo ejercicio del derecho de acceso a la información pública en poder de los sujetos obligados;
+II. Orientar y asesorar a las personas para el efectivo ejercicio del derecho de acceso a la información pública en poder de los sujetos obligados de los tres niveles de gobierno;
 
-III. Orientar y asesorar a las personas para el efectivo ejercicio de sus derechos de Acceso, Rectificación, Cancelación y Oposición al tratamiento de sus datos personales ante los sujetos obligados y ante los responsables;
+III. Orientar y asesorar a las personas para el efectivo ejercicio de sus derechos de Acceso, Rectificación, Cancelación y Oposición al tratamiento de sus datos personales ante los sujetos obligados de la Federación y ante los responsables;
 
-IV. Orientar y asesorar a los responsables en el cumplimiento de sus obligaciones en materia de protección de datos personales;
+IV. Facilitar la captura de las solicitudes de información pública en los tres niveles de gobierno y/o de datos personales para sujetos obligados de la Federación;
 
-V. Orientar y asesorar a los sujetos obligados en el cumplimiento de sus obligaciones en materia de acceso y protección de datos personales;
+V. Facilitar la elaboración de recursos de revisión contra sujetos obligados de la Federación;
 
-VI. Facilitar la captura de las solicitudes de información pública y/o de datos personales
+VI. Facilitar la elaboración e interposición de denuncias por posibles incumplimientos a las obligaciones de transparencia realizadas en contra de los sujetos obligados de la Federación, y
 
-VII. Facilitar la elaboración de recursos de revisión y/o denuncias, y
+VII. Promover los eventos y actividades institucionales de promoción, capacitación y difusión entre las personas.
 
-VIII. Promover los eventos y actividades institucionales de promoción, capacitación y difusión entre las personas.
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
 
-CUARTO. OPERACIÓN
+CUARTO. OPERACIÓN.
 
-El CAS se constituye como el único medio autorizado para recibir y responder las consultas que formulen las personas al INAI; toda consulta que reciban los servidores públicos del Instituto deberá ser canalizada al CAS para su registro y atención.
+El CAS se constituye como el medio autorizado para recibir y responder las consultas que formulen las personas al INAI; toda consulta que reciban los servidores públicos del Instituto, por parte de los particulares, deberá ser canalizada al CAS para su registro y atención, excepto aquellas que realicen los sujetos obligados y los sujetos regulados, los cuales deberán referir sus consultas a la Coordinación de Acceso a la Información o a la Coordinación de Protección de Datos Personales según sea el caso.
 
 Para su operación el CAS implementará un modelo de atención basado en tres niveles. Cada servidor público involucrado en el modelo de atención será responsable de cerrar en el sistema el reporte de atención que le ha sido asignado.
 
@@ -177,7 +193,7 @@ Primer nivel de atención. Constituye el primer contacto con las personas que pr
 
 Segundo nivel de atención. Es el apoyo al primer nivel para la resolución de consultas que requieren acceso a bases de datos restringidas, así como resolver consultas con base en los criterios formulados por el Pleno y las Unidades Administrativas del Instituto.
 
-Tercer nivel de atención. Conformado por los representantes de cada una de las Unidades Administrativas que integran al Instituto para asesorar y resolver consultas en asuntos de su competencia con base en sus atribuciones. Para lo anterior, todas las Unidades Administrativas designarán a un enlace para dicha actividad.
+Tercer nivel de atención. Conformado por los representantes de cada una de las Unidades Administrativas que integran al Instituto para asesorar y resolver consultas en asuntos de su competencia con base en sus atribuciones. Para lo anterior, se designarán a un Enlace de Unidad Administrativa para dicha actividad.
 
 El CAS prestará sus servicios de manera presencial y por medios remotos en la sede institucional; además podrá contar con módulos itinerantes.
 
@@ -193,41 +209,49 @@ Los días inhábiles del CAS se establecerán con base en el Acuerdo vigente med
 
 El servicio podrá ser evaluado por las personas al concluir la atención recibida mediante un cuestionario de satisfacción, con excepción del servicio a través del correo postal. Los resultados deberán ser publicados mensualmente en la página electrónica institucional.
 
-El CAS contará con la infraestructura que permita brindar condiciones de accesibilidad para la atención a personas con discapacidad.
+El CAS contará en la medida de lo posible, con la infraestructura que permita brindar condiciones de accesibilidad para la atención a personas con discapacidad.
 
-QUINTO. SERVICIOS
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
+
+QUINTO. SERVICIOS.
 
 En la prestación de los servicios se observarán los principios de calidad, eficiencia, eficacia, oportunidad, certidumbre, inclusión y equidad de género. Los servicios serán gratuitos y no estarán condicionados por ningún motivo.
 
+El personal del CAS, utilizará un lenguaje sencillo, claro, conciso y organizado, que posibilite a cualquier persona no especializada en la materia de transparencia para solicitar, identificar, encontrar, entender, poseer y usar la información generada, obtenida, adquirida, transformada y en posesión de los sujetos obligados.
+
 Los servicios que otorga el CAS son:
 
-a) Orientación a las personas sobre el ejercicio del derecho de acceso a la información, de acceso a datos personales y de corrección de los mismos en posesión de los sujetos obligados con base en la normativa aplicable;
+a) Orientación a las personas sobre el ejercicio del derecho de acceso a la información, de acceso a datos personales y de corrección de los mismos en posesión de los sujetos obligados de la Federación, con base en la normativa aplicable;
 
-b) Orientación a las personas sobre el ejercicio del derecho a la protección de datos personales en el marco de la normatividad aplicable;
+b) Orientación a las personas sobre el ejercicio del derecho a la protección de datos personales en posesión de particulares, en el marco de la normatividad aplicable;
 
-c) Registro de solicitudes de información pública y/o datos personales;
+c) Registro de solicitudes de información pública, en los tres niveles de gobierno;
 
-d) Registro de solicitudes de derechos ARCO ante los sujetos obligados;
+d) Registro de solicitudes de protección de datos personales para sujetos obligados de la Federación;
 
 e) Captura de notificaciones de incumplimientos a las resoluciones del Pleno;
 
-f) Seguimiento a solicitudes de información, recursos de revisión, recursos de protección de derechos y procedimientos de verificación;
+f) Seguimiento a solicitudes de información, recursos de revisión, recursos de protección de derechos y procedimientos de verificación de la Federación;
 
 g) Información sobre eventos y actividades institucionales;
 
-h) Apoyo en la elaboración de Recurso de Revisión;
+h) Apoyo en la elaboración de Recurso de Revisión contra sujetos obligados de la Federación;
 
-i) Apoyo en la elaboración de Notificación por falta de respuesta;
+i) Apoyo en la elaboración de solicitud de información y/o datos personales;
 
-j) Apoyo en la elaboración de solicitud de información y/o datos personales;
+j) Atención en el Módulo Itinerante del CAS;
 
-k) Atención en el Módulo Itinerante del CAS; y
+k) Asesoría y asistencia técnica que se deriven del uso del Sistema de Solicitudes de Acceso a la Información (SISAI);
 
-l) Los demás que le confieran las disposiciones legales y administrativas aplicables, así como los que le encomiende el Pleno.
+l) Captura de denuncias por posibles incumplimientos a las obligaciones de transparencia de los sujetos obligados de la Federación;
+
+m) Apoyo a los particulares para recuperación de contraseñas del sistema electrónico de solitudes de la Federación existente con anterioridad al funcionamiento de la Plataforma Nacional de Transparencia, así como para la recuperación de contraseñas de la misma, y
+
+n) Los demás que le confieran las disposiciones legales y administrativas aplicables, así como los que le encomiende el Pleno.
 
 Para la prestación de los servicios, los agentes observarán lo dispuesto en el manual de procedimientos que para tal efecto se autorice por el Pleno del INAI. Asimismo, consultarán los guiones de respuesta, la base de conocimiento, los documentos de apoyo, la página de Internet del Instituto y la información que las Unidades Administrativas del INAI envíen al CAS.
 
-En el ámbito de competencia del CAS, procede el registro de las solicitudes de información y/o de datos personales, la elaboración de recursos de revisión, elaboración de notificación por falta de respuesta y la orientación sobre procedimientos de denuncias ante presuntos incumplimientos a la Ley de Trasparencia y/o a la Ley de Datos Personales.
+En el ámbito de competencia del CAS, procede el registro de las solicitudes de información y/o de datos personales, la elaboración de recursos de revisión, elaboración de notificación por falta de respuesta y la orientación sobre procedimientos de denuncias ante presuntos incumplimientos a la Ley General, la Ley de Transparencia y/o a la Ley de Datos Personales, de conformidad con los Lineamientos que para tal efecto expida el Pleno del Instituto.
 
 Los servidores públicos adscritos al CAS no son responsables de la información requerida, del fundamento legal o motivación de las resoluciones y/o prevenciones de los Comités de Información o de las Unidades Administrativas del Instituto, del sentido de las respuestas a las solicitudes de información ni del contenido de las mismas. Lo anterior es responsabilidad tanto de la persona solicitante como de los sujetos obligados que las generan.
 
@@ -235,41 +259,51 @@ Las asesorías que se otorgan desde el CAS tienen como propósito brindar un ser
 
 Cuando las consultas versen sobre asuntos o temas que no sean materia del ejercicio del derecho de acceso a la información o del derecho de protección de datos personales, el agente deberá proporcionar la orientación correspondiente a la persona sobre la instancia a la cual referirse.
 
+Toda orientación para la elaboración de solicitudes de información pública, protección de datos personales, así como recursos de revisión, será indicativa mas no vinculatoria, los plazos señalados por la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Protección de Datos Personales en Posesión de Particulares, empezarán a surtir efectos a partir de la recepción de las solicitudes por parte de la Unidad de Transparencia correspondiente. Para el caso de las solicitudes de Información, éstas se remitirán a través del módulo manual del SISAI.
+
 Bajo ningún motivo se otorgarán los servicios del CAS a las personas que utilicen ofensas, amenazas o insultos.
 
-SEXTO. INTEGRACIÓN
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
 
-Para otorgar sus servicios el CAS operará con las siguientes funciones: I) agentes, II) evaluadores, III) supervisores, IV) administrador/es y V) responsable del servicio.
+SEXTO. INTEGRACIÓN.
+
+Para otorgar sus servicios el CAS operará con:
 
 I. Agentes: servidores públicos con categoría de Auxiliar Administrativo, integrantes del primer nivel de atención responsables de atender las consultas de las personas por medios remotos y presenciales.
 
-II. Evaluadores: servidores públicos con categoría de Enlace, responsables de evaluar la respuesta otorgada con base en la normativa aplicable, los protocolos y la etiqueta de atención apegándose a los parámetros definidos en el manual de procedimientos.
+II. Evaluadores: servidores públicos con categoría de Enlace, responsables de evaluar la respuesta otorgada con base en la normativa aplicable, los protocolos y la etiqueta de atención apegándose a los parámetros definidos en el manual de procedimientos, así como apoyar y monitorear en tiempo real la atención que otorgan los agentes por medios remotos y presencial (sic);
 
-III. Supervisores: servidores públicos con categoría de Jefe de Departamento, responsables de apoyar y monitorear en tiempo real la atención que otorgan los agentes por medios remotos y presencial; consultar las bases de datos de acceso restringido; y elaborar los contenidos informativos dirigidos a los agentes, documentos de apoyo, guiones de respuesta, contenidos de la base de conocimiento, reportes e informes de operación.
+III. Supervisores: servidores públicos con categoría de Jefe de Departamento, responsables de consultar las bases de datos de acceso restringido; Elaborar respuesta a consultas de segundo nivel de atención; y elaborar los contenidos informativos dirigidos a los agentes, documentos de apoyo, guiones de respuesta, contenidos de la base de conocimiento, reportes e informes de operación.
 
-IV. Administradores: servidor público con categoría de subdirector de área, responsables de establecer y administrar los parámetros de operación; diseñar y decidir los planes de contingencias; elaborar los contenidos informativos dirigidos a las personas.
+IV. Operador: servidor público con categoría de Subdirector de área, responsables de diseñar los planes de contingencias; elaborar los contenidos informativos dirigidos a las personas y la propuesta del programa de capacitación del CAS.
 
-V. Responsable del servicio: servidor público con categoría de director de área, encargado de coordinar, administrar y supervisar la operación del CAS, de aprobar y elaborar los contenidos informativos dirigidos tanto a los agentes como a las personas. Elaborar el programa anual de capacitación para el personal del CAS.
+V. Responsable del servicio: servidor público con categoría de Director de área, encargado de coordinar, administrar y supervisar la operación del CAS, de aprobar los contenidos informativos dirigidos tanto a los agentes como a las personas y el programa anual de capacitación para el personal del CAS, además de establecer y administrar los parámetros de operación.
 
 ### Capítulo III. Del Procedimiento de registro de solicitudes de información pública y de datos personales a través del CAS
 
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
+
 SÉPTIMO. CAPTURA DE SOLICITUDES
 
-1. Los Agentes deberán registrar las solicitudes de información pública y/o de datos personales en el módulo manual del Sistema INFOMEX.
+1. Los Agentes deberán registrar las solicitudes de información pública y/o de datos personales en el módulo manual del Sistema de Solicitudes de Acceso a la Información (SISAI) de la Plataforma Nacional de Transparencia.
 
 2. La persona deberá proporcionar a los Agentes los datos que requiere dicho módulo para poder llevar a cabo el registro de su solicitud de información.
 
-3. Una vez registrada la solicitud, el Agente proporcionará a la persona el número de folio del acuse de recibo quien deberá conservarlo y tenerlo disponible para dar un adecuado seguimiento al estado que guarda su solicitud.
+3. Una vez registrada la solicitud, el Agente proporcionará a la persona el número de folio de la solicitud y enviará el acuse de recibo al solicitante a través del medio señalado para oír y recibir notificaciones en un plazo que no exceda de dos días hábiles, quien deberá conservarlo y tenerlo disponible para dar un adecuado seguimiento al estado que guarda su solicitud.
 
-Para las solicitudes de información pública y/o de datos personales que remita el CAS a las Unidades de Enlace a través del módulo manual del SISTEMA INFOMEX, éstas deberán ser atendidas, en lo conducente, con base en el capítulo II de los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento y trámite de las solicitudes de acceso a información pública gubernamental que formulen los particulares, así como en su resolución y notificación, y la entrega de la información en su caso, con exclusión de las solicitudes de acceso a datos personales y su corrección, así como conforme a los Lineamientos que deberán observar las dependencias y entidades de la APF en la recepción, procesamiento, trámite resolución y notificación de las solicitudes de acceso a datos personales que formulen los particulares con exclusión de las solicitudes de corrección de dichos datos aprobados por el Pleno del otrora IFAI y publicados el 12 de junio de 2003 y reformados el 2 de diciembre de 2008, y el 25 de agosto de 2003, así como la Reforma en el Diario Oficial de la Federación de 2 de diciembre de 2008, respectivamente.
+Para las solicitudes de información pública y/o de datos personales que remita el CAS a las Unidades de Transparencia, a través del módulo manual del SISAI, éstas deberán ser atendidas, en lo conducente, con base en los Lineamientos que establecen los Procedimientos Internos de Atención a Solicitudes de Acceso a la Información Pública, los Lineamientos para la Implementación y Operación de la Plataforma Nacional de Transparencia, así como en la Ley de la materia.
 
 ### Capítulo IV. De la capacitación del personal del CAS
+
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
 
 OCTAVO. CAPACITACIÓN
 
 Para la adecuada prestación de los servicios públicos que otorga el CAS el personal adscrito a esta área deberá recibir cuando menos 48 horas de capacitación anuales en temas relacionados con el derecho de acceso a la información, el derecho de protección de datos personales, el ejercicio de los derechos de acceso, rectificación, cancelación y oposición (ARCO), así como otros temas relacionados con la prestación, gestión y administración de los servicios que otorga el CAS.
 
 ### Capítulo V. De la Protección de Datos Personales
+
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
 
 NOVENO. PROTECCIÓN DE DATOS PERSONALES
 
@@ -288,3 +322,15 @@ Tercero. La designación de los Enlaces responsables del tercer nivel de atenci�
 Cuarto. El servicio de registro de solicitudes de información pública y/o datos personales se otorgará a las personas a través del CAS en el momento en el que se cuente con la funcionalidad tecnológica en el módulo manual del Sistema INFOMEX para remitir las solicitudes de información a las Unidades de Enlace correspondientes.
 
 Quinto. La Dirección General de Promoción y Vinculación con la Sociedad responsable de (sic) CAS deberá emitir los nuevos Lineamientos, así como el Manual de Procedimientos, de conformidad con las reformas a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental en un plazo no mayor a seis meses contados a partir su entrada en vigor.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBAN LAS MODIFICACIONES A LOS LINEAMIENTOS QUE RIGEN LA OPERACIÓN DEL CENTRO DE ATENCIÓN A LA SOCIEDAD DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Dentro de las instalaciones del Centro de Atención a la Sociedad del Instituto, se habilitarán los espacios físicos adecuados y, en coordinación con las autoridades competentes, se implementarán los mecanismos, las facilidades y los procedimientos necesarios para brindar asesoría y atención a las personas con discapacidad o que hablen lengua indígena, siempre y cuando exista suficiencia presupuestal para ello.
+
+TERCERO. Los particulares podrán presentar denuncias en el Centro de Atención a la Sociedad por posibles incumplimientos a las obligaciones de transparencia de los sujetos obligados de la Federación, seis meses después del cinco de mayo de dos mil dieciséis, de conformidad al artículo segundo transitorio de los Lineamientos Técnicos Generales para la publicación, homologación y estandarización de la información de las obligaciones establecidas en el Título Quinto y en la fracción IV del artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de difundir los sujetos obligados en los portales de Internet y en la Plataforma Nacional de Transparencia, relativo al plazo que tienen los sujetos obligados para cargar la información.
