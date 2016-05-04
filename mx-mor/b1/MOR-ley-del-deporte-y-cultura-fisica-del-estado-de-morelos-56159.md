@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2014-10-08"
+last_updated: "2016-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -52,6 +52,10 @@ Las disposiciones contenidas en la presente Ley son de orden público e interés
 ###### ARTÍCULO 2.
 
 La función social del deporte y de la Cultura Física es la de fortalecer y fomentar la interacción e integración del ser humano con la sociedad, para desarrollar de manera armónica las capacidades intelectuales, afectivas y motrices de las personas y contribuir a promover la solidaridad como valor social y elevar el nivel cultural, de competición y de competitividad deportiva de los morelenses en todas sus manifestaciones y expresiones, garantizando la igualdad de oportunidades dentro de los programas y acciones que en materia del deporte y la cultura física se implementen en el Estado, sin distinción de origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, orientación sexual o estado civil.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+Así como promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar.
 
 ###### ARTÍCULO 3.
 
@@ -109,7 +113,27 @@ XVI. Deporte Extremo o de Alto Riesgo: Aquella actividad deportiva que puede imp
 
 XVII. Agrupación Deportiva: Conjunto de personas físicas o morales que cuenten o no con personalidad jurídica, conformadas con el propósito de practicar algún deporte;
 
-XVIII. Organismo Deportivo: Agrupación formada libremente por individuos o personas morales de los sectores público, privado o social, tales como:
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XVII (SIC). Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XVIII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XIX. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XX. Comisión Estatal: La Comisión Estatal de Prevención de la Violencia en el Deporte;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XXI. Comisión Especial Federal: La Comisión de Combate de la Violencia en el Deporte, prevista en la Ley General de Cultura Física y Deporte;
+
+XXII. Organismo Deportivo: Agrupación formada libremente por individuos o personas morales de los sectores público, privado o social, tales como:
 
 a) Equipos y Clubes;
 
@@ -141,23 +165,25 @@ n) Registro Estatal del Deporte;
 
 o) Comité Antidopaje;
 
-p) Comisión Estatal de Apelación y Arbitraje.
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
 
-XIX. Fondo: El Fondo para el Desarrollo del Deporte y la Cultura Física del Estado de Morelos;
+p) Comisión Especial de Prevención de la Violencia en el Deporte;
 
-XX. Evento o Competencia Oficial: El avalado por el Instituto del Deporte y Cultura Física del Estado.
+q) Comisión Estatal de Apelación y Arbitraje.
+
+XXII (SIC). Fondo: El Fondo para el Desarrollo del Deporte y la Cultura Física del Estado de Morelos;
+
+XXIII. Evento o Competencia Oficial: El avalado por el Instituto del Deporte y Cultura Física del Estado.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+XXIV. Museo: Museo del Deporte y Cultura Física del Estado de Morelos, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXI. Museo: Museo del Deporte y Cultura Física del Estado de Morelos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-XXII. Patronato: Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
+XXV. Patronato: Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DEL DEPORTE Y CULTURA FÍSICA
 
@@ -225,11 +251,15 @@ VIII. La Comisión de Apelación y Arbitraje del Deporte.
 
 IX. El Museo del Deporte y Cultura Física del Estado de Morelos
 
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
+
+X.- Comisión Especial de Prevención de la Violencia en el Deporte, y
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-X. El Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
+XI. El Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
 
 ###### ARTÍCULO 11.
 
@@ -805,15 +835,49 @@ II. Promover el deporte y la cultura física, en la rehabilitación y en la pobl
 
 III. Ejecutar y dar seguimiento al Programa Estratégico del Deporte y Cultura Física en el Estado de Morelos;
 
-IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para el deporte y la cultura física, en coordinación con las respectivas asociaciones deportivas estatales y de acuerdo con las normas oficiales que para tal efecto expida la dependencia correspondiente;
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2016)</small>
 
-V. Dar seguimiento y ejecutar las políticas y programas aprobados por el Sistema, y
+IV. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos, masivos o con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes;
 
-VI. Establecer procedimientos de promoción en materia de deporte y la cultura física.
+V. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para el deporte y la cultura física, en coordinación con las respectivas asociaciones deportivas estatales y de acuerdo con las normas oficiales que para tal efecto expida la dependencia correspondiente;
+
+VI. Dar seguimiento y ejecutar las políticas y programas aprobados por el Sistema, y
+
+VII. Establecer procedimientos de promoción en materia de deporte y la cultura física.
 
 ###### ARTÍCULO 54.
 
 La coordinación a que se refiere el artículo anterior, se realizará a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes del Estado y los municipios, entre sí o con instituciones del sector social y privado.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 54 BIS.- La coordinación y colaboración entre el Estado y los Municipios, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley del Sistema de Seguridad Pública del Estado de Morelos, se sujetará a lo siguiente:
+
+I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
+
+II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del Municipio, en los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se celebren los eventos;
+
+La seguridad en la cancha o área de competencia, en los vestidores y baños para deportistas y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales o estatal (sic), según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los deportistas, de las personas o de los bienes que se encuentren en dichos espacios;
+
+III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales en términos de lo que dispongan las leyes aplicables;
+
+IV. A solicitud de las autoridades municipales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, la autoridad estatal intervendrá para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+
+V. En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad o de las Comisiones Estatal;
+
+Los representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando;
+
+VI. Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
+
+VII. En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones previstas en la Ley General y reglamentarias aplicables;
+
+VIII. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse;
+
+IX. Las autoridades competentes podrán capacitar a los cuerpos policiacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido, y
+
+X. La Ley del Sistema de Seguridad Pública del Estado de Morelos, deberá establecer lo conducente para la más eficaz prestación del servicio de seguridad pública entre el Estado y sus municipios en los órganos políticos administrativos, para garantizar el desarrollo pacífico de los eventos deportivos, que se realicen en la jurisdicción, atendiendo a lo previsto en este artículo.
+
+Para los efectos de este artículo se considera que el evento deportivo, concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones.
 
 ### CAPÍTULO CUARTO. DE LOS SECTORES PRIVADO Y SOCIAL
 
@@ -1052,6 +1116,12 @@ Las Asociaciones, organismos, ligas y clubes apoyarán con recursos propios para
 ###### ARTÍCULO 80.
 
 El uso de las instalaciones deportivas debe ser preferentemente para eventos deportivos, cuando se utilicen para otros fines deberán respetarse los programas y calendarios deportivos previamente establecidos, para el caso de un uso distinto de las instalaciones, se estará a lo establecido en el artículo 20 de la presente ley.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 80 BIS.- Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones deportivas en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+
+Las autoridades municipales, serán competentes para verificar el cumplimiento de la presente disposición.
 
 ###### ARTÍCULO 81.
 
@@ -1299,7 +1369,9 @@ X. Automovilismo; y
 
 XI. Los demás que se establezcan en el reglamento o representen peligro directo e inmediato a la integridad física de las personas.
 
-## TÍTULO SÉPTIMO. DE LA PREVENCIÓN, ATENCIÓN Y VIGILANCIA DEL DEPORTE EN MATERIA DE SALUD Y MEDIDAS DE SEGURIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2016)</small>
+
+## TÍTULO SÉPTIMO. DE LA PREVENCIÓN, ATENCIÓN Y VIGILANCIA DEL DEPORTE EN MATERIA DE SALUD, MEDIDAS DE SEGURIDADY (SIC) PREVENCIÓN DE LA VIOLENCIA
 
 ### CAPÍTULO PRIMERO. DEL SERVICIO MÉDICO EN EL DEPORTE
 
@@ -1451,15 +1523,115 @@ Las sanciones en el ámbito deportivo son independientes de la responsabilidad c
 
 Las medidas de seguridad tienen por objeto determinar reglas y mecanismos que permitan garantizar que con motivo del desarrollo de espectáculos o competencias deportivas, no se alteren la seguridad e interés públicos, ni se ponga en riesgo la integridad de los participantes, organizadores y espectadores.
 
-Corresponde a las autoridades en materia de seguridad pública, tránsito y protección civil, estatales y municipales en el ámbito de sus respectivas competencias, la obligación de asegurar la integridad de los asistentes y la prevención de la violencia; asimismo, garantizar un mejor control de la audiencia y facilitar la intervención en su caso, de los servicios médicos que serán obligatorios en espectáculos deportivos masivos.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
+
+Corresponde a las autoridades en materia de seguridad pública, tránsito y protección civil, estatales y municipales en el ámbito de sus respectivas competencias, la obligación de asegurar la integridad de los asistentes y la prevención de la violencia; asimismo, garantizar un mejor control de la audiencia y facilitar la intervención en su caso, de los servicios médicos que serán obligatorios en espectáculos deportivos masivos o con fines de espectáculo.
 
 Los deportistas, integrantes del cuerpo técnico de los equipos o deportistas y en su caso los organizadores, serán sancionados conforme a la presente Ley y su Reglamento, sin perjuicio de las sanciones a que se hagan acreedores conforme a otras disposiciones reglamentarias municipales o estatales, así como por la responsabilidad civil, administrativa o penal en que incurran de acuerdo a la legislación aplicable.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 2016)</small>
+
+### CAPÍTULO CUARTO. DE LA PREVENCIÓN DE LA VIOLENCIA
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 BIS.- Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación y los Municipios.
+
+El Instituto, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 TER.- Para efectos de esta Ley, DE MANERA ENUNCIATIVA Y NO LIMITATIVA, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
+
+I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquellos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+IV. La irrupción no autorizada en los terrenos de juego;
+
+V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
+
+VII. Las que establezcan la presente Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 QUATER.- Se crea la Comisión Estatal de Prevención de la Violencia en el Deporte, encabezada por el Titular del Instituto, que será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte y su prevención.
+
+Para la composición y funcionamiento de la Comisión Estatal, se estará a lo previsto en el Reglamento de la Ley General de Cultura Física y Deporte.
+
+En la Comisión Especial podrán participar dependencias y entidades de la Administración Pública Estatal y Municipal a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas a la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte.
+
+La coordinación y operación de los trabajos de la Comisión Estatal, estarán a cargo del Instituto y del Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 QUINQUIES.- Son atribuciones de la Comisión Estatal, sin menoscabo de las que se establezcan en otros ordenamientos:
+
+I. Elaborar un programa anual de trabajo, con la finalidad de promover e impulsar acciones de prevención contra la violencia en el deporte;
+
+II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
+
+III. Dentro del ámbito de su competencia, podrá asesorar, siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
+
+IV. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, áreas de seguridad pública y protección civil del Estado y los Municipios;
+
+V. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+VI. Realizar estudios e informes sobre las causas y efectos de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley;
+
+VII. Ejecutar los acuerdos, políticas y acciones que determine la Comisión Especial Federal;
+
+VIII. Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes, y
+
+IX. Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 SEXIES.- La Comisión Estatal, de conformidad con los lineamientos, que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial Federal, deberá vigilar el cumplimiento de los mismos en lo concerniente al acceso a los eventos deportivos, entre otras medidas como:
+
+I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales y que por consecuencia puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros y espectadores o asistentes en general;
+
+II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
+
+III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
+
+IV. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva Estatal, y
+
+V. La introducción de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 SEPTIES.- Toda persona que asista a la celebración de un evento deportivo, independientemente de la calidad en que lo haga, quedará sujeta a lo siguiente:
+
+I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, las que emita la Comisión Especial Federal y las que correspondan en el ámbito municipal en donde se lleven a cabo, y
+
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+
+Los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de las sanciones civiles, penales o administrativas que correspondan.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 OCTIES.- Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial Federal, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales respectivas.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 NOVIES.- Los integrantes del Sistema, podrán revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores. Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 129 DECIES.- Contra la resolución de la autoridad que imponga sanciones administrativas, procederá el recurso de revisión, independientemente de las vías judiciales que correspondan.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 2016)</small>
+
+## TÍTULO OCTAVO. DE LAS SANCIONES ADMINISTRATIVASY (SIC) PENALES, Y DE LOS RECURSOS EN EL DEPORTE
+
 ### CAPÍTULO PRIMERO. DE LAS SANCIONES ADMINISTRATIVAS
-
-## TÍTULO OCTAVO. DE LAS SANCIONES ADMINISTRATIVAS Y DE LOS RECURSOS EN EL DEPORTE
-
-### CAPÍTULO SEGUNDO. DE LOS RECURSOS EN EL DEPORTE
 
 ###### ARTÍCULO 130.
 
@@ -1477,23 +1649,119 @@ IV. A los directivos, árbitros, jueces y organizadores de las competencias depo
 
 Las asociaciones, clubes y ligas deportivas impondrán a sus miembros con motivo de las faltas en que incurran, las sanciones que prevean sus estatutos o reglamentos; pero cuando las faltas de aquellas o de estos incidan en violaciones a esta Ley, se harán acreedores a la sanción que la autoridad competente les imponga.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 131 BIS.- Se considerarán como infracciones graves a la presente Ley, las siguientes:
+
+I. En materia de dopaje:
+
+a) La presencia de una sustancia prohibida, de sus metabolitos o marcadores en la muestra de un deportista;
+
+b) La utilización o tentativa, de las sustancias y grupos farmacológicos prohibidos, así como de métodos no reglamentarios, destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar los resultados de las competiciones;
+
+c) La promoción, instigación, administración o encubrimiento de la utilización de sustancias prohibidas o métodos no reglamentarios dentro y fuera de competiciones;
+
+d) La negativa o resistencia, sin justificación válida, a someterse a los controles de dopaje dentro y fuera de competiciones cuando sean exigidos por los órganos o personas competentes, posterior a una notificación hecha conforme a las normas antidopaje aplicables;
+
+e) Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje;
+
+f) La falsificación o tentativa, de cualquier parte del procedimiento de control del dopaje;
+
+g) Tráfico o tentativa, de cualquier sustancia prohibida o de algún método no reglamentario, y
+
+h) La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva.
+
+II. Cualquier acto de discriminación en contra de algún deportista;
+
+III. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos;
+
+IV. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas, por cuanto hace a la elección de sus cuerpos directivos;
+
+V. El incumplimiento de las obligaciones establecidas en los artículos 54 Bis y 80 Bis de la presente Ley, y
+
+VI. Incurrir o incitar a que otros incurran en cualquier acto de violencia durante las prácticas deportivas, que ponga en riesgo la integridad de los presentes.
+
+La sanción que derive de las infracciones previstas en el presente artículos (sic), será independiente de las que se haga acreedor el infractor por infracciones previstas en otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 132.
 
-A los infractores de esta Ley, a su Reglamento y normatividad aplicable de acuerdo a su disciplina deportiva, conforme a la gravedad de la falta, la cual será calificada por las instancias competentes a que alude el artículo 129 del presente ordenamiento, se les impondrán, generalmente en prelación, las siguientes sanciones:
+A los infractores a esta Ley o demás disposiciones que de ella emanen, se les aplicarán las sanciones siguientes:
 
-I. Apercibimiento por escrito;
+I. A las Asociaciones y Sociedades Deportivas, Deportivas Estatales, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva, así como a los organizadores de eventos deportivos con fines de espectáculo:
 
-II. Amonestación por escrito;
+a) Amonestación privada o pública;
 
-III. Reducción o cancelación de apoyos o estímulos económicos y suspensión temporal o definitiva en el uso de las instalaciones deportivas oficiales;
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IV. Suspensión temporal del reconocimiento del carácter con el que hayan obtenido el Registro en el Sistema; y
+b) LIMITACIÓN, REDUCCIÓN O CANCELACIÓN DE APOYOS ECONÓMICOS;
 
-V. Cancelación del Registro en el Sistema.
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+c) SUSPENSIÓN TEMPORAL O DEFINITIVA DEL USO DE INSTALACIONES PÚBLICAS DE CULTURA FÍSICA Y DEPORTE, Y
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+d) SUSPENSIÓN TEMPORAL O DEFINITIVA DE SU INSCRIPCIÓN AL SISTEMA.
+
+II. A directivos del deporte:
+
+a) Amonestación privada o pública;
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) SUSPENSIÓN TEMPORAL O DEFINITIVA DE SU INSCRIPCIÓN AL SISTEMA;
+
+c) Desconocimiento de su representatividad, y
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+d) SUSPENSIÓN TEMPORAL O DEFINITIVA DEL USO DE INSTALACIONES PÚBLICAS DE CULTURA FÍSICA Y DEPORTE.
+
+III. A deportistas:
+
+a) Amonestación privada o pública;
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) LIMITACIÓN, REDUCCIÓN O CANCELACIÓN DE APOYOS ECONÓMICOS;
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+c) SUSPENSIÓN TEMPORAL O DEFINITIVA DE SU INSCRIPCIÓN AL SISTEMA, Y
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+d) SUSPENSIÓN TEMPORAL O DEFINITIVA DEL USO DE INSTALACIONES PÚBLICAS DE CULTURA FÍSICA Y DEPORTE.
+
+IV. A técnicos, árbitros y jueces:
+
+a) Amonestación privada o pública;
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO b) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) SUSPENSIÓN TEMPORAL O DEFINITIVA DE SU INSCRIPCIÓN AL SISTEMA, Y
+
+(NOTA: EL 24 DE ABRIL DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 41/2016, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+c) SUSPENSIÓN TEMPORAL O DEFINITIVA DEL USO DE INSTALACIONES PÚBLICAS DE CULTURA FÍSICA Y DEPORTE.
+
+V. A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y, en su caso, la reincidencia:
+
+a) Expulsión inmediata de las instalaciones deportivas;
+
+b) Amonestación privada o pública;
+
+c) Multa de diez a noventa días del valor diario de la Unidad de Medida y Actualización, y
+
+d) Suspensión de uno a cinco años el acceso a eventos deportivos masivos o con fines de espectáculo.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 133.
 
-Para efectos de esta Ley, se considera como infractores a la misma, a los integrantes del Sistema.
+Para los efectos de esta Ley, se consideran como infractores a la misma, a los integrantes del Sistema, a los organizadores de eventos deportivos, masivos o con fines de espectáculo, a los aficionados y espectadores.
 
 ###### ARTÍCULO 134.
 
@@ -1515,9 +1783,49 @@ Celebrada la audiencia, en un lapso que no deberá excederse de diez días hábi
 
 Las infracciones a lo dispuesto por la presente Ley las determinará el Ejecutivo Estatal en el Reglamento que normará la aplicación y procedimientos de las violaciones a la misma.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 2016)</small>
 
-### CAPÍTULO XIII. DE LA SUBASTA PÚBLICA DE LOS BIENES
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES PENALES
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 135 BIS.- Comete el delito de violencia en eventos deportivos, el espectador o cualquier otra persona que sin ser juez, jugador o parte del cuerpo técnico de los equipos contendientes en eventos deportivos, masivos o de espectáculo y encontrándose en el interior de los recintos donde se celebre el evento, en sus instalaciones anexas, en sus inmediaciones o en los medios de transporte organizados para acudir a los mismos, realice por sí mismo o incitando a otros, cualquiera de las siguientes conductas:
+
+I. Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas. En este supuesto, se impondrán de seis meses a dos años de prisión y de cinco a treinta días multa;
+
+II. Ingrese sin autorización a los terrenos de juego y agreda a las personas o cause daños materiales. Quien incurra en esta hipótesis será sancionado con seis meses a tres años de prisión y de diez a cuarenta días multa;
+
+III. Participe activamente en riñas, lo que se sancionará con seis meses a cuatro años de prisión y de diez a sesenta días multa;
+
+IV. Incite o genere violencia, se considera incitador a quién dolosamente determine a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes;
+
+V. Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo, en sus instalaciones anexas o en las inmediaciones, o
+
+VI. Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
+
+Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con un año seis meses a cuatro años seis meses de prisión y de veinte a noventa días multa.
+
+Para efectos de lo dispuesto en este artículo, un día multa equivale a un día del valor diario de la Unidad de Medida y Actualización.
+
+A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de prisión que le resulte impuesta.
+
+Cuando en la comisión de este delito no resulten dañados bienes de la nación o afectados servidores públicos federales en el ejercicio de sus funciones, conocerán las autoridades del fuero común.
+
+No se castigará como delito la conducta de un asistente a un evento deportivo masivo o de espectáculo, cuando su naturaleza permita la interacción con los participantes.
+
+Las personas que, directa o indirectamente, realicen las conductas previstas en este artículo serán puestas inmediatamente a disposición de las autoridades correspondientes, para que se investigue su probable responsabilidad y se garantice la reparación del daño.
+
+En las conductas no sancionadas por esta Ley, se estará a lo que establece el Código Penal para el Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+
+ARTÍCULO 135 TER.- Para los efectos señalados en este Capítulo, se instituye el Padrón de Personas Sancionadas por Violencia en el Deporte, en el cual quedarán inscritas las personas a quienes se les imponga como sanción la prohibición o suspensión de asistencia a eventos deportivos, masivos o con fines de espectáculo. Este padrón formará parte de las bases de datos del Sistema Estatal de Seguridad Pública, la información en él contenida será confidencial y su acceso estará disponible únicamente para las autoridades de la materia, quienes no podrán usarla para otro fin distinto a hacer efectivas las sanciones de prohibición de asistir a eventos deportivos masivos o con fines de espectáculo.
+
+Su organización y funcionamiento se regirán por lo que disponga el Reglamento que al efecto se expida, en términos de la Ley del Sistema Estatal de Seguridad Pública.
+
+La inscripción en este padrón será considerada información confidencial y únicamente tendrá vigencia por el tiempo de la sanción, transcurrido el cual, deberán ser eliminados totalmente los datos del interesado.
+
+### CAPÍTULO TERCERO. DE LOS RECURSOS EN EL DEPORTE
 
 ###### ARTÍCULO 136.
 
@@ -1545,7 +1853,7 @@ En el mismo escrito de interposición del recurso de apelación, se anunciarán 
 
 ## TÍTULO NOVENO. DE LA COMISIÓN DE APELACIÓN Y ARBITRAJE DEL DEPORTE
 
-### CAPÍTULO XIV. DEL PAGO A LOS ACREEDORES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 140.
 
@@ -1718,3 +2026,21 @@ CUARTO.- El Instituto del Deporte y Cultura Física, deberá prever los mecanism
 QUINTO.- El Patronato deberá constituirse en un plazo máximo de sesenta días, a partir de la entrada en vigor del presente Decreto.
 
 SEXTO.- El Ejecutivo del Estado contará con un plazo máximo de sesenta días, contados a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones correspondientes al Reglamento de la Ley del Deporte y Cultura Física, así como la publicación de los Reglamentos del Museo y del Patronato.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS VEINTISIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA.- El Poder Ejecutivo del Estado contará con un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor de este decreto, para hacer las modificaciones pertinentes al Reglamento de la presente Ley.
+
+CUARTA.- La Comisión Estatal, a que se refiere el presente decreto, deberá quedar debidamente instalada en un plazo no mayor a 90 días naturales posteriores a la publicación de las reformas al Reglamento de la presente Ley.
+
+QUINTA.- En un plazo no mayor a 6 meses, los Municipios deberán hacer las adecuaciones necesarias para dar cumplimiento a lo dispuesto por el presente Decreto.
+
+SEXTA.- Dentro de los 90 días posteriores a la entrada en vigor del presente Decreto, este Poder Legislativo deberá hacer las modificaciones respectivas a la Ley del Sistema de Seguridad Pública del Estado de Morelos, a fin de dar cumplimiento al mismo.
+
+SÉPTIMA.- Dese cuenta a la Cámara de Senadores, en contestación al acuerdo contenido en el oficio DGPL-1P3A.-6107.16 de fecha 09 de diciembre de 2014, mediante el cual se exhorta a los Congresos de los Estados de la Federación y a la Asamblea Legislativa del Distrito Federal a actualizar los marcos legales correspondientes donde se pueda prevenir, sancionar y eliminar la violencia que se genere en cualquier evento, no sólo futbol, de la que este Congreso ha dado cumplimiento.
