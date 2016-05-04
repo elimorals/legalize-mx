@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-garantiza-la-transparencia-y-el-derecho-a-la-52402"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-12"
-last_updated: "2014-12-24"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Tomo II del Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -1358,3 +1360,31 @@ Artículo Sexto.- En tanto se expidan las disposiciones legales, reglamentarias 
 Artículo Séptimo.- En lo relativo al Recurso de Revisión, lo que no se encuentre previsto por esta Ley, se aplicará supletoriamente lo dispuesto en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
 Artículo Octavo.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables; debiendo la Secretaría de Hacienda, prever en el Presupuesto de Egresos, la suficiencia presupuestaria necesaria que otorgará al órgano autónomo que mediante este Decreto se crea, además de dictaminar la estructura funcional del mismo, para que éste logre la consecución de su objeto.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 204 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, publicada en el Periódico Oficial número 388, de fecha doce de octubre del año dos mil seis.
+
+Artículo Tercero.- Se derogan las disposiciones legales que se opongan a esta Ley.
+
+Artículo Cuarto.- En tanto no se expidan las leyes generales en materia de datos personales en posesión de Sujetos Obligados y archivos, permanecerá vigente la normatividad estatal o local en la materia.
+
+Artículo Quinto.- El Instituto llevará a cabo las acciones necesarias, a fin de hacer del conocimiento a los Sujetos Obligados y a la población en general, el contenido de la presente Ley.
+
+Artículo Sexto.- Los Sujetos Obligados deberán cumplir las obligaciones de transparencia previstas en la presente Ley, en el plazo establecido en los lineamientos que para tal efecto emita el Sistema Nacional y le serán aplicables solo respecto de la información correspondiente a las obligaciones de transparencia que se haya generado a partir de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo.- Los juicios contencioso administrativos de segunda instancia que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este decreto, se sustanciarán ante la Sala Regional Colegiada en Materia Civil en Turno del Poder Judicial del Estado, hasta su total conclusión conforme a la normatividad vigente al momento de su presentación.
+
+Artículo Octavo.- Los actuales Consejeros del Instituto de Acceso a la Información Pública del Estado de Chiapas pasarán a ser Comisionados y continuarán en sus cargos y de ninguna forma se afectarán los derechos derivados de su designación por el Honorable Congreso del Estado, y durarán en su encargo el periodo que se señala en su nombramiento.
+
+El actual Consejero Presidente, pasará a ser Comisionado Presidente y continuará ostentando la titularidad y representación legal del Instituto para el periodo por el que fue electo por el Pleno.
+
+Artículo Noveno.- En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor de esta Ley, el Comisionado Presidente deberá someter a la consideración del Pleno el proyecto de Reglamento Interior de dicho organismo autónomo garante, el cual deberá atender las nuevas facultades que le son otorgadas.
+
+Artículo Décimo.- Los Sujetos Obligados deberán expedir o reformar sus reglamentos, normatividad interna o acuerdos de carácter general, a efecto de adecuarlos, adaptarlos o armonizarlos con las disposiciones de esta Ley, a más tardar dentro de los 180 días siguientes a la entrada en vigor de la misma.
+
+Artículo Décimo Primero.- El pleno del Instituto deberá prever la instalación del Consejo Consultivo previsto en la presente Ley.
