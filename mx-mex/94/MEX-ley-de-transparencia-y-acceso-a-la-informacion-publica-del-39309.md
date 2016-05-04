@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2016-02-03"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS -ANTES LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO-
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE JUNIO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE ENERO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 4 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -1308,3 +1310,37 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 83.- POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" el 30 de abril de 2004.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+QUINTO. El Instituto, expedirá su Programa de la Cultura de Transparencia y de Protección de Datos Personales, en un plazo no mayor a ciento veinte días hábiles a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. El Instituto expedirá su Reglamento Interior en un plazo no mayor a ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto, así como los lineamientos que resulten necesarios para dar cumplimiento a lo establecido en el mismo.
+
+SÉPTIMO. La comisionada presidenta, y las y los comisionados que actualmente integran el Instituto, ampliarán por dos años más el ejercicio del encargo por el que fueron nombrados, a fin de cumplir con lo establecido en la Ley General de la materia.
+
+OCTAVO. El Consejo Consultivo del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios deberá instalarse previa convocatoria que para el efecto emita la Legislatura.
+
+Para asegurar la elección escalonada con motivo de los nombramientos que se realizarán, la Legislatura especificará el período de ejercicio para cada Consejero, tomando en consideración lo siguiente:
+
+a) Nombrará a un Consejero por un periodo de cinco años;
+
+b) Nombraran a dos Consejeros por un periodo de tres años; y
+
+c) Nombrará a dos Consejeros por un periodo de dos años.
+
+NOVENO. El valor de la Unidad de Medida y Actualización (UMA), será equivalente al que tenga el salario mínimo general vigente, hasta que se actualice dicho valor en términos de las disposiciones jurídicas aplicables.
+
+DÉCIMO. La Legislatura del Estado deberá otorgar un presupuesto adecuado y suficiente al Instituto para el funcionamiento efectivo y cumplimiento de la Ley General y la presente Ley, para el ejercicio fiscal del año 2017, de conformidad con lo que establecen las normas en materia de presupuesto.
+
+DÉCIMO PRIMERO. El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, deberá emitir los lineamientos de su servicio profesional, en un plazo no mayor de ciento veinte días hábiles, a partir de la entrada en vigor de la presente Ley.
