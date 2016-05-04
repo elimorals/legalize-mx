@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2016-04-15"
+last_updated: "2016-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -292,7 +292,9 @@ II. Obtenga licencia;
 
 III. No se presente diez días de sesiones consecutivos, sin causa justificada;
 
-IV. Desempeñe una comisión o empleo de la Federación, de los estados, del Distrito Federal, de los municipios o cualquier empleo remunerado del sector público, sin la licencia previa de la Cámara, con excepción de las actividades que desempeñen en instituciones y asociaciones docentes, científicas, culturales y de investigación;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2016)</small>
+
+IV. Desempeñe una comisión o empleo de la Federación, de las Entidades Federativas, de los Municipios o cualquier empleo remunerado del sector público, sin la licencia previa de la Cámara, con excepción de las actividades que desempeñen en instituciones y asociaciones docentes, científicas, culturales y de investigación;
 
 V. Fallezca o padezca una enfermedad, que provoque una incapacidad física que le impida el desempeño del cargo, y
 
@@ -326,7 +328,9 @@ VII. Imposibilidad jurídica determinada por una autoridad competente, a través
 
 I. Enfermedad que incapacite para el desempeño de la función;
 
-II. Optar por el desempeño de una comisión o empleo de la Federación, de los estados, del Distrito Federal y de los municipios, por el que se disfrute de sueldo;
+> <small>(REFORMADA, D.O.F. 4 DE MAYO DE 2016)</small>
+
+II. Optar por el desempeño de una comisión o empleo de la Federación, de las Entidades Federativas y de los Municipios, por el que se disfrute de sueldo;
 
 III. Postularse a otro cargo de elección popular, cuando tal licencia sea una condición establecida en las normas internas del partido político o en las disposiciones electorales correspondientes;
 
@@ -756,7 +760,9 @@ IV. Los nombres de las diputadas y de los diputados que no hayan participado en 
 
 ###### Artículo 59.
 
-1. La Mesa Directiva integrará el proyecto del Orden del día de las sesiones que dará a conocer al Pleno con las propuestas que reciba oportunamente de la Junta, los dictámenes y resoluciones que le turnen las comisiones, así como los asuntos que reciba de la Cámara de Senadores, los otros dos Poderes de la Unión, los Poderes de los Estados, las autoridades locales del Distrito Federal, los municipios y los organismos públicos o en su caso, de los particulares.
+> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 2016)</small>
+
+1. La Mesa Directiva integrará el proyecto del Orden del día de las sesiones que dará a conocer al Pleno con las propuestas que reciba oportunamente de la Junta, los dictámenes y resoluciones que le turnen las comisiones, así como los asuntos que reciba de la Cámara de Senadores, los otros dos Poderes de la Unión, los Poderes de los Estados, los poderes locales de la Ciudad de México, los Municipios y los organismos públicos o en su caso, de los particulares.
 
 2. Cuando la Junta remita los asuntos a la Mesa Directiva, señalará los nombres de los diputados o diputadas que intervendrán en tribuna.
 
@@ -1323,6 +1329,10 @@ V. Cuando la minuta que contenga un proyecto de ley o decreto con carácter pref
 ###### Artículo 97.
 
 1. Las iniciativas, minutas e iniciativas con vencimiento de plazo a discusión, dictámenes, votos particulares, actas, proposiciones o acuerdos deberán publicarse en la Gaceta a más tardar, a las 22:00 horas del día anterior a la Sesión en la que se presenten.
+
+> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 2016)</small>
+
+2. La Junta Directiva de cada Comisión, deberá circular a los diputados en formato electrónico, en un plazo máximo de veinticuatro horas a partir de su aprobación en el seno de la Comisión, el dictamen o la opinión que se turnará al Pleno de la Cámara para su discusión y eventual aprobación.
 
 ###### Artículo 98.
 
@@ -3817,3 +3827,15 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. La implementación del presente Decreto no comprometerá la erogación de mayores recursos que los presupuestados a la Cámara de Diputados en el Presupuesto de Egresos para el Ejercicio Fiscal 2016 y por tanto se recurrirá a ajustes, ahorros y reasignaciones para ello.
 
 Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+D.O.F. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, 12 Y 59 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UN NUMERAL 2 AL ARTÍCULO 97 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
