@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-coordinacion-general-juridica-del-937
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL JURÍDICA DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL JURÍDICA DEL GOBIERNO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento 13 del Periódico Oficial del Estado de Zacatecas, el miércoles 27 de marzo de 2013.
 
@@ -570,3 +572,17 @@ FRANCISCO ESCOBEDO VILLEGAS
 EL COORDINADOR GENERAL JURÍDICO
 
 URIEL MÁRQUEZ CRISTERNA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL JURÍDICA”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Coordinación General Jurídica del Gobierno del Estado de Zacatecas, publicado en el Suplemento del 13 al 25 del Periódico Oficial, Órgano del Gobierno del Estado de fecha 27 de marzo del 2013.
+
+Tercero.- A la entrada en vigor de este Reglamento, deberán modificarse los manuales de la dependencia y remitirse a la instancia correspondiente para su autorización; en tanto se realiza dicha actualización, continuarán en vigor los existentes.
+
+Cuarto.- La Coordinación General realizará las acciones necesarias para que la implementación de la edición electrónica del Periódico Oficial que considera el presente reglamento se realice con los recursos aprobados a dicha dependencia, y se prevean los recursos para tales efectos en el presupuesto correspondiente.
