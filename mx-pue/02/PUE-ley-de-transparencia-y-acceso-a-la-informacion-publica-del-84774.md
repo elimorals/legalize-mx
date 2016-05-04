@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-8477
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Segunda Edición Extraordinaria, en el Periódico Oficial del Estado de Puebla el día sábado 31 de diciembre de 2011.
 
@@ -1332,3 +1334,41 @@ DÉCIMO.- El Gobernador del Estado deberá emitir en un lapso de un año, contad
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dado en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil once.- Diputado Presidente.- JOSÉ LAURO SÁNCHEZ LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de diciembre de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, publicada en el Periódico Oficial del Estado el 31 de diciembre de 2011.
+
+TERCERO. Queda derogada cualquier disposición que contravenga los principios, bases, procedimientos y derechos reconocidos en la presente Ley, sin perjuicio de lo previsto en los siguientes Transitorios.
+
+CUARTO. Los empleados que laboren a la fecha al servicio de la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, se incorporarán al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, en los términos de la presente Ley, respetando su antigüedad, así como los derechos adquiridos de los que disfrutan.
+
+QUINTO. El Instituto de Transparencia expedirá las reformas necesarias a su Reglamento para el ejercicio de sus atribuciones, de conformidad con lo previsto en la presente Ley, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. Los integrantes de las Unidades Administrativas de Acceso a la Información conformarán las Unidades de Transparencia a las que se refiere la presente Ley, hasta que se haga la nueva designación del Titular de la Unidad de Transparencia en los términos de esta Ley.
+
+SÉPTIMO. Las solicitudes de acceso y los recursos de revisión que se encuentren en trámite al día anterior de la entrada en vigor de la presente Ley, se substanciarán en los términos y plazos contemplados en la legislación anterior.
+
+Las solicitudes de acceso y recursos de revisión presentados el día de la entrada en vigor de la presente Ley, serán resueltos de acuerdo a los plazos y procedimientos previstos en la misma.
+
+OCTAVO. Los sujetos obligados se incorporarán a la Plataforma Nacional de Transparencia, en los términos que establezcan los lineamientos que realice el Sistema Nacional para su implementación.
+
+NOVENO. Los sujetos obligados cuentan con un plazo de seis meses, a partir de la entrada en vigor de la presente Ley, para cumplir con las obligaciones de transparencia referidas en el Título Quinto de la presente Ley. Lo anterior siempre y cuando no exista disposición en contrario emitida por el Sistema Nacional.
+
+Las nuevas obligaciones establecidas en la presente Ley no contempladas en la Ley anterior, serán aplicables respecto de la información generada desde la entrada en vigor de la Ley General; es decir, desde el 5 de mayo de 2015.
+
+DÉCIMO. En tanto el Sistema Nacional emite los lineamientos, mecanismos y criterios correspondientes para determinar las acciones a tomar, los municipios con población menor a 70,000 habitantes cumplirán con las obligaciones de transparencia de conformidad con sus posibilidades presupuestarias.
+
+Dichos municipios podrán solicitar al Instituto de Transparencia que, de manera subsidiaria, divulgue vía internet las obligaciones de transparencia correspondientes.
+
+DÉCIMO PRIMERO. Los sujetos obligados contarán con el plazo de un año contado a partir de la entrada en vigor de la presente Ley para expedir su Reglamento respectivo.
+
+DÉCIMO SEGUNDO. El Instituto de Transparencia contará con el plazo de seis meses a partir de la entrada en vigor de la presente Ley para nombrar a los integrantes del Consejo Consultivo.
+
+DÉCIMO TERCERO. Las referencias que en esta Ley se atribuyen al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, se entenderán hechas a la actual Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, en tanto se realizan las modificaciones respecto de la denominación del organismo garante estatal en materia de transparencia.
