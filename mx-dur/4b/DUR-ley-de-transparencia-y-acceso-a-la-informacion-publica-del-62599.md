@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6259
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-13"
-last_updated: "2015-08-13"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de julio de 2008.
 
@@ -205,7 +207,7 @@ La pérdida, destrucción, alteración u ocultamiento de la información públic
 
 ###### Artículo 9.
 
-El ejercicio del derecho de acceso a la información pública se rige por el principio de gratuidad de la información, por lo que toda la información pública es gratuita y el solicitante sólo cubrirá el costo del material en que le sea proporcionada y, en su caso, los gastos de envió (sic) de la misma.
+El ejercicio del derecho de acceso a la información pública se rige por el principio de gratuidad de la información, por lo que toda la información pública es gratuita y el solicitante sólo cubrirá el costo del material en que le sea proporcionada y, en su caso, los gastos de envió de la misma.
 
 En caso de que se soliciten copias certificadas de los documentos en los que obre la información, el solicitante cubrirá el pago de los derechos que al efecto se establezcan en las respectivas leyes de ingresos. Únicamente se certificarán las copias de aquellos documentos que consten en original o con firmas originales.
 
@@ -1468,3 +1470,45 @@ P.O. 13 DE AGOSTO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 553.- QUE CONTIENE LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, aprobada mediante decreto número 157, de fecha 11 de julio de 2008, y publicada en el Periódico Oficial No. 4, de fecha 13 de julio de 2008; de igual forma, se derogan todas las reformas y adiciones que hubieren sido incorporadas.
+
+Tercero. El Instituto expedirá su Reglamento Interior en un periodo no mayor a seis meses a partir de la entrada en vigor de la presente Ley.
+
+Cuarto. De conformidad con las disposiciones presupuestales de cada sujeto obligado se deberán implementar sistemas electrónicos de consulta, para permitir el acceso a la información de manera remota, en un plazo que no exceda de un año a partir de la entrada en vigor de la presente Ley.
+
+Quinto. Los sujetos obligados, emitirán o modificarán sus reglamentos, para proporcionar a los particulares el acceso a la información pública, de conformidad a las bases y principios establecidos en esta Ley. Estos reglamentos deberán ser expedidos en un plazo que no exceda de doce meses a partir de la entrada en vigor de la presente Ley.
+
+Sexto. Los sujetos obligados, deberán de constituir los Comités de Transparencia, en un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto. Aquellos que ya cuenten con el mismo, o su similar, así como las Unidades de Transparencia, solo deberán formalizar el cambio de denominación en un plazo que no exceda de treinta días a partir de la entrada en vigor de la presente Ley.
+
+Séptimo. Las solicitudes de información o recursos que se encuentren en trámite ante los sujetos obligados o el Instituto se resolverán de conformidad con la ley que les dio origen.
+
+Octavo. El Instituto deberá implementar procedimientos de verificación del cumplimiento de la información de oficio contenida en los portales de internet de los sujetos obligados de esta ley; la verificación deberá hacerse pública en forma trimestral.
+
+Noveno. Los sujetos obligados deberán implementar las medidas necesarias para cumplir las obligaciones que en materia de indicadores de gestión prevé la presente Ley.
+
+Décimo. Los sujetos obligados deberán incorporarse a la Plataforma Nacional de Transparencia, de conformidad con la normatividad que emita el Sistema Nacional de Transparencia.
+
+Decimo Primero. Dentro de los sesenta días posteriores de la entrada en vigencia de la presente Ley, el Congreso del Estado de Durango, emitirá la convocatoria para la integración de los Consejeros del Consejo Consultivo del Instituto.
+
+Décimo Segundo. Los sujetos obligados establecerán la forma y términos en que administrarán y darán trámite interno a las solicitudes en materia de acceso a la información, clasificación de la información, transparencia, gobierno abierto, transparencia proactiva y las demás que determine este Ley.
+
+Décimo Tercero. En tanto no se expida la Ley General en materia de Datos Personales, en posesión de sujetos obligados, permanecerá vigente la normatividad local en la materia.
+
+Décimo Cuarto. En aquellos conceptos en donde esta Ley, contemple el cobro en salarios mínimos, las obligaciones a cargo del infractor, serán cubiertas al valor que determine el presente decreto, hasta en tanto no se expida la ley que establezca una unidad de medida y actualización, de cuenta, o cualquiera que sea su denominación.
+
+Décimo Quinto. El Instituto, dentro de los noventa días posteriores a la entrada en vigor de esta Ley, realizará las acciones necesarias para capacitar a los Sujetos Obligados sobre las disposiciones contenidas en la presente Ley.
+
+Décimo Sexto. Sin perjuicio de que la información que generen y posean es considerada pública, de conformidad con lo señalado en la presente Ley los municipios con población menor a 70,000 habitantes cumplirán con las obligaciones de transparencia de conformidad con sus posibilidades presupuestarias, además podrán solicitar al Instituto que de manera subsidiaria divulgue vía internet las obligaciones de transparencia correspondientes.
+
+Lo anterior, sin perjuicio de que dichos municipios continuarán cumpliendo con las obligaciones de información a que se refiere la Ley General de Contabilidad Gubernamental y las disposiciones que emanan de ésta, en los plazos, términos y condiciones previstas en dicha ley y en las disposiciones referidas.
+
+Décimo Séptimo. Las nuevas obligaciones establecidas serán aplicables solo respecto de la información que se genere a partir de la entrada en vigor del presente Decreto.
+
+Décimo Octavo. Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
