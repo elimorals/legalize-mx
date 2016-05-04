@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4570
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-21"
-last_updated: "2013-01-21"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CAM"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MAYO DE 2016 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 21 de julio de 2005.
 
@@ -719,7 +723,7 @@ VII. Cantidad de solicitudes no satisfechas por ser información reservada o con
 
 La Comisión emitirá los formatos y, en su caso, los lineamientos a que se sujetará la elaboración y entrega de dichos informes.
 
-En los casos de de las fracciones V, VI y VII la Comisión, si lo considera pertinente, podrá solicitar al Ente Público le exponga los motivos y el fundamento en que se sustenten las correspondientes resoluciones.
+En los casos de de (sic) las fracciones V, VI y VII la Comisión, si lo considera pertinente, podrá solicitar al Ente Público le exponga los motivos y el fundamento en que se sustenten las correspondientes resoluciones.
 
 ###### Artículo 56.
 
@@ -1008,3 +1012,51 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Notifíquese el presente decreto al H. Tribunal Superior de Justicia y a la Comisión de Transparencia y Acceso a la Información Pública del Estado.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 52 POR EL QUE “SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche que se publicó en el Periódico Oficial del Estado el día 21 de julio de 2005.
+
+TERCERO.- Los sujetos obligados deberán constituir en plazos inmediatos los Comités de Transparencia a los que se refiere la presente Ley, mismos que no han de exceder de quince días contados a partir de la entrada en vigor del presente decreto.
+
+Aquellos que ya cuenten con un Comité de Información sólo deberán de formalizar el cambio de denominación e integración para constituirse como Comités de Transparencia en los plazos señalados en el párrafo que antecede.
+
+CUARTO.- El Poder Ejecutivo del Estado tomará las previsiones necesarias en el Presupuesto de Egresos del ejercicio fiscal de 2017, para el cumplimiento de las obligaciones y ejercicio de los derechos previstos en esta Ley; previsiones que deberá tomar sucesivamente en cada ejercicio fiscal.
+
+QUINTO.- Los sujetos obligados deberán realizar las adecuaciones necesarias en los reglamentos, manuales y demás disposiciones administrativas que rijan su actuación, para implementar los principios rectores del acceso a la información que establecen la Constitución Federal, la Ley General y la presente Ley, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO.- Los sujetos obligados se incorporarán a la Plataforma Nacional de Transparencia en los términos que establezcan los lineamientos referidos en la Ley General.
+
+Respecto a las obligaciones comunes y específicas que se derivan del presente decreto, se les dará cumplimiento en los términos de los lineamientos que para el efecto expida el Sistema Nacional de Transparencia.
+
+SÉPTIMO.- La Comisión expedirá su Reglamento Interior, así como los lineamientos necesarios para el ejercicio de sus atribuciones, de conformidad con lo previsto en la presente ley, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+En ese mismo plazo el Congreso del Estado hará el programa de reordenación administrativa con motivo del cumplimiento de las obligaciones que correspondan.
+
+OCTAVO.- Los procedimientos de acceso a la información pública, los recursos de revisión y los recursos de queja que se estén tramitando al momento en que entre en vigor el presente Decreto, se substanciarán de acuerdo a los procedimientos vigentes de la Ley al día en que se iniciaron. Una vez que concluya la etapa en la que se encuentran, deberán inmediatamente sujetarse a los procedimientos que establece la Ley materia del presente Decreto.
+
+NOVENO.- Para garantizar el escalonamiento y el principio de autonomía en la renovación de los Comisionados que establece el artículo 26 de la presente Ley, a la entrada en vigor de la misma, el H. Congreso del Estado deberá nombrar a quienes ocupen el cargo siguiendo el procedimiento establecido en el artículo 25 de esta Ley y conforme a lo siguiente:
+
+l. Por esta ocasión, la designación de los nuevos Comisionados deberá hacerse dentro de los cuarenta y cinco días siguientes a la entrada en vigor de la Ley materia del presente decreto, debiendo expedirse la convocatoria dentro de los veinte días siguientes a la entrada en vigor de este decreto.
+
+II. Se dará por concluido el período para el que fueron designados los actuales Comisionados; sin embargo, seguirán en el cargo hasta en tanto tomen posesión del mismo los nuevos Comisionados del organismo garante estatal. Asimismo, los Comisionados actuales podrán ser propuestos para participar en el procedimiento de elección de los nuevos Comisionados del organismo garante estatal, conforme a lo dispuesto en la Ley materia del presente decreto.
+
+III. Por única ocasión, en razón de que se nombrará a los tres Comisionados del nuevo organismo garante, el H. Congreso del Estado establecerá períodos diferentes para cada uno de ellos, de la siguiente forma:
+
+a) Un Comisionado durará cuatro años,
+
+b) Un Comisionado durará cinco años,
+
+c) Un Comisionado durará seis años.
+
+Cuando se realice la designación de los Comisionados se le informará el período de duración del cargo, con fundamento en lo establecido en el presente decreto. La temporalidad del cargo no influirá en la elección del Comisionado Presidente.
+
+DÉCIMO.- La fracción primera del artículo 78 de la presente Ley entrará en vigor cuando se cree el Tribunal de Justicia Administrativa del Estado de Campeche.
+
+UNDÉCIMO.- Los integrantes del Consejo Consultivo deberán ser electos, de conformidad con lo dispuesto en la presente Ley, en un plazo que no exceda de 60 días naturales a la entrada en vigor de este decreto.
+
+DUODÉCIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido del presente Decreto.
