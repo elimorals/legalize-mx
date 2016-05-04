@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-proteccion-frente-al-consumo-de-tabaco-en-el-84195"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2015-04-22"
+last_updated: "2016-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -337,23 +337,27 @@ V. El beneficio obtenido por el infractor como resultado de la infracción.
 
 ### CAPÍTULO SEGUNDO. DEL MONTO DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2016)</small>
 
 ###### Artículo 30.
 
-Se sancionará con multa equivalente de veinte hasta doscientas veces el salario mínimo diario general vigente en el Estado de Morelos, el incumplimiento de lo dispuesto en los artículos 11 y 16 de esta Ley, la multa será impuesta por el Juez Cívico correspondiente, y será puesto a disposición de éste, por cualquier policía del Estado de Morelos o bien de sus Municipios.
+Se sancionará con multa equivalente de cincuenta hasta cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente en el Estado de Morelos, el incumplimiento de lo dispuesto en los artículos 11 y 16 de esta Ley, la multa será impuesta por el Juez Cívico correspondiente, y será puesto a disposición de éste, por cualquier policía del Estado de Morelos o bien de sus Municipios.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 Tratándose de las fracciones XI y XII, del artículo 11 de la presente Ley, la sanción administrativa a que se refiere el párrafo anterior se incrementará, hasta en una mitad, cuando el infractor sea el operador o conductor de la unidad de transporte de pasajeros, de escolares o de personal oficial y empresarial.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
+
 ###### Artículo 31.
 
-Se sancionará con multa equivalente de quinientos hasta dos mil veces el salario mínimo diario general vigente en el Estado de Morelos, el incumplimiento de la disposición contenida en el artículo 12 de esta Ley.
+Se sancionará con multa equivalente de quinientos hasta dos mil veces el valor diario de la Unidad de Medida y Actualización vigente en el Estado de Morelos, el incumplimiento de la disposición contenida en el artículo 12 de esta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2016)</small>
 
 ###### Artículo 32.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por mil veces el salario mínimo general vigente en el Estado de Morelos.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por mil veces el valor diario de la Unidad de Medida y Actualización vigente en el Estado de Morelos.
 
 ###### Artículo 33.
 
@@ -508,3 +512,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS VEINTISIETE POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERA.- El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será equivalente al que tenga el salario mínimo general vigente diario para todo el país, y hasta que se actualice dicho valor conforme a la legislación reglamentaria para determinar el valor de la Unidad de Medida y Actualización que emita el Congreso de la Unión.
