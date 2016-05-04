@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-288-del-juicio-de-proteccion-de-derechos-humanos-252
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-05"
-last_updated: "2014-08-13"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL JUICIO DE PROTECCIÓN DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 5 de julio de 2002.
 
@@ -141,9 +141,9 @@ II. Del siguiente al en que haya tenido conocimiento de ellos o de su ejecución
 
 III. Del siguiente al que se hubiere ostentado sabedor de los mismos.
 
-> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2016)</small>
 
-Tratándose de violaciones graves o de lesa humanidad, el término para interponer la demanda será de 60 días hábiles contados a partir de que el agraviado o la Comisión Estatal de Derechos Humanos hayan tenido conocimiento de ellas o de su ejecución.
+Tratándose de violaciones graves, el término para interponer la demanda será de 60 días hábiles, contados a partir de que el agraviado o la Comisión Estatal de Derechos Humanos hayan tenido conocimiento de ellas o de su ejecución. Los delitos de lesa humanidad son imprescriptibles, por lo que la demanda podrá interponerse en cualquier tiempo.
 
 ###### Artículo 11.
 
@@ -638,3 +638,11 @@ G.O. 13 DE AGOSTO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 843 QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 10 DE LA LEY DEL JUICIO DE PROTECCIÓN DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
