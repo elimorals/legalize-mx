@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2015-05-20"
+last_updated: "2016-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -75,7 +75,9 @@ VI.- La prestación de los servicios públicos de agua, drenaje, alcantarillado,
 
 VII.- La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
 
-VIII.- La coordinación entre el Estado y los municipios, y de éstos con la Federación, para la realización de acciones relacionadas con la explotación, uso y aprovechamiento del agua.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+
+VIII.- La coordinación entre el Estado y los municipios, y de estos con la Federación, para la realización de acciones relacionadas con el uso o aprovechamiento del agua, así como la conservación de las fuentes de abastecimiento de agua y de los recursos hídricos superficiales y del subsuelo, estos últimos previo convenio con la Federación.
 
 IX.- Las relaciones entre las autoridades estatales, municipales y los prestadores de servicios públicos de agua, alcantarillado, saneamiento, tratamiento de aguas residuales, disposición final de lodos y de otros usos del agua.
 
@@ -1039,7 +1041,9 @@ VI.- Promover, coordinar, supervisar y realizar, en su caso, las medidas necesar
 
 VII.- Ejercer las atribuciones que le correspondan en materia de prevención y control de la contaminación del agua y de su fiscalización y sanción, conforme a la Ley aplicable.
 
-### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO V. CONSERVACIÓN DEL AGUA
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
 
 ###### Artículo 86.
 
@@ -1051,15 +1055,25 @@ La Junta Central tendrá a su cargo el diseño, difusión y ejecución del Progr
 
 La denuncia ciudadana constituirá un medio para la cultura del cuidado del agua, por lo que toda persona que tenga conocimiento de hechos que repercutan en el uso y cuidado responsable del agua, deberá comunicarlo a la Junta Central o, en su caso, a los organismos operadores para que realicen las acciones necesarias.
 
-### CAPÍTULO II. INFRACCIONES Y SANCIONES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 2016)</small>
+
+### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
+
+###### Artículo 86 Ter.
+
+Para la conservación de los recursos hídricos superficiales y del subsuelo, y restauración en la medida de lo posible el (sic) equilibrio hidrológico de la Entidad, el Poder Ejecutivo promoverá la participación de las autoridades federales, estatales, municipales, así como de los sectores privado y social, para la implementación de medidas, proyectos y acciones necesarias para la captación e infiltración de agua, de acuerdo a su ámbito de competencias, a la viabilidad técnica, la capacidad de carga y de permeabilidad de las zonas; considerando además la planeación y programación del desarrollo hidráulico del Estado, lo dispuesto en esta Ley y demás ordenamientos aplicables.
+
+Para el caso de las aguas del subsuelo, el Ejecutivo del Estado deberá celebrar previamente con las autoridades federales en la materia, convenios y acuerdos que permitan su participación y coordinación en la implementación de dichas medidas, proyectos y acciones señaladas en el párrafo anterior.
 
 ## TÍTULO CUARTO. CONTROL DE LEGALIDAD
 
-### CAPÍTULO III. DE LOS MEDIOS DE DEFENSA
+### CAPÍTULO II. INFRACCIONES Y SANCIONES
 
 ###### Artículo 87.
 
 Los organismos operadores están facultados para ordenar y practicar inspecciones, de conformidad al procedimiento establecido en el reglamento, a fin de verificar el cumplimiento de la Ley, su reglamentación y demás normatividad aplicable a la materia. Igualmente, podrán suspender los servicios públicos cuando se comprueben derivaciones no aprobadas o un uso distinto al autorizado.
+
+### CAPÍTULO III. DE LOS MEDIOS DE DEFENSA
 
 ###### Artículo 88.
 
@@ -1190,6 +1204,14 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rú
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MAYO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1346/2016 II P.O., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 2; Y SE ADICIONA EL CAPÍTULO V, DE LA "CONSERVACIÓN DEL AGUA", CON EL ARTÍCULO 86 TER, DENTRO DEL TÍTULO TERCERO DE "REGULACIÓN Y CONSERVACIÓN DEL AGUA", AMBOS DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
