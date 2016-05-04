@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-de-la-universidad-tecnologica-emiliano-22776
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-05"
-last_updated: "2001-12-05"
+last_updated: "2016-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERNO DE LA UNIVERSIDAD TECNOLOGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS, PUBLICADO EN LA SEGUNDA SECCIÓN EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2001.
 
@@ -850,3 +852,29 @@ EL SECRETARIO DE EDUCACIÓN
 M. EN C. FRANCISCO RAMÓN TALLABS ORTEGA
 
 RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA EMILIANO ZAPATA DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Estatuto Orgánico iniciará su vigencia a los cinco días hábiles siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interno de la Universidad Tecnológica Emiliano Zapata del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4155, el 05 de diciembre de 2001, asimismo se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+TERCERA. Los asuntos que, con motivo de este Estatuto Orgánico, deban pasar de una Unidad Administrativa a otra, serán resueltos por la nueva área señalada en este instrumento, a excepción de los trámites urgentes o sujetos a plazos improrrogables, los cuales serán resueltos por el área que tuviera el asunto a su cargo.
+
+CUARTA. Dentro del plazo de 120 días hábiles posteriores a la entrada en vigor del presente Estatuto Orgánico, la Universidad Tecnológica Emiliano Zapata del Estado de Morelos deberá emitir los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales en lo que no se opongan al presente Ordenamiento.
+
+QUINTA. El Rector deberá inscribir el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por el artículo 78, penúltimo párrafo y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+SEXTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; así como 11, fracción XXXV y 18, fracción XXVI, del Reglamento Interior de la Secretaría de Gobierno; la Universidad Tecnológica Emiliano Zapata del Estado de Morelos, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SÉPTIMA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Universidad Tecnológica Emiliano Zapata del Estado de Morelos, deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+OCTAVA. Dentro de un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico deberá instalarse el Subcomité de Adquisiciones, Arrendamientos y Servicios del Instituto de la Defensoría Pública Estado de Morelos.
+
+NOVENA. Los asuntos que se encuentren en el trámite a la entrada en vigor de este Estatuto Orgánico a cargo de la Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+DÉCIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Estatuto Orgánico serán resueltos por el Rector.
