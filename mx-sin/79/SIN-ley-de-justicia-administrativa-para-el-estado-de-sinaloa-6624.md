@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-administrativa-para-el-estado-de-sinaloa-6624"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-26"
-last_updated: "2011-09-14"
+last_updated: "2016-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 26 de marzo de 1993.
 
@@ -293,9 +293,7 @@ VIII. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2011)
 
 IX. En los que se demande la afectación que derive de reglamentos, circulares, oficios o cualesquier disposición de observancia general expedida por autoridades del Estado, de los Municipios o de sus organismos descentralizados;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-X. Que se presenten por las controversias derivadas de resoluciones dictadas en materia de Acceso a la Información;
+X. (DEROGADA POR ARTÍCULO TRANSITORIO SEXTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA, P.O. 4 DE MAYO DE 2016)
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2456,3 +2454,31 @@ Para la promoción, substanciación y resolución del Juicio de lo Contencioso A
 ###### ARTÍCULO DÉCIMO.
 
 Los recursos necesarios para la implementación y cumplimiento de lo dispuesto en el presente Decreto provendrán de recursos autorizados en el presupuesto del Tribunal de lo Contencioso Administrativo del Estado de Sinaloa para el presente ejercicio y los subsecuentes.
+
+P.O. 4 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 548 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan los Capítulos Primero, Segundo, Tercero, Cuarto, Quinto, Séptimo, Octavo y Noveno, así como los artículos que los integran, de la Ley de Acceso a la Información Pública del Estado de Sinaloa publicada en el Periódico Oficial “El Estado de Sinaloa” No. 051 de 26 de abril de 2002.
+
+El Capítulo Sexto y los artículos que lo integran estarán vigentes hasta en tanto el Congreso de la Unión expida la Ley General en Materia de Protección de Datos Personales, y este Congreso del Estado realice la armonización correspondiente.
+
+TERCERO. La Comisión deberá expedir en un plazo de 90 días contados a partir de la entrada en vigor de la presente Ley, su Reglamento Interior, así como los lineamientos en materia de Obligaciones de Transparencia para aquellos supuestos distintos a los referidos en la Ley General.
+
+CUARTO. A la entrada en vigor del presente Decreto, los sujetos obligados deberán realizar las adecuaciones administrativas necesarias para su debido cumplimiento.
+
+QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolver a la entrada en vigor del presente Decreto, se concluirán de conformidad con las disposiciones vigentes en el momento en que iniciaron.
+
+SEXTO. Se deroga la fracción X del artículo 13 de la Ley de Justicia Administrativa del Estado, así como todas las disposiciones que se opongan a esta Ley, en cuanto a los procedimientos de impugnación previstos en el artículo 186 del presente Decreto.
+
+SÉPTIMO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado Decreto.
+
+OCTAVO. La designación de los cinco consejeros que integrarán el Consejo Consultivo, por única ocasión, con el objeto de asegurar una renovación escalonada, y así lograr la sustitución cada dos años de los Consejeros de mayor antigüedad en el cargo de conformidad con lo siguiente:
+
+A. Dos Consejeros serán electos para un periodo de dos años;
+
+B. Tres Consejeros serán electos para un periodo de tres años.
+
+Pudiendo ser ratificados para un segundo periodo en los términos del artículo 73 de la presente Ley.
