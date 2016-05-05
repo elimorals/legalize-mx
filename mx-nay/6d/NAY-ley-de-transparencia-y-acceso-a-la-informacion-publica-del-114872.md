@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1148
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2016-05-03"
+last_updated: "2016-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 5 DE MAYO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE MAYO DE 2016.]</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el martes 3 de mayo de 2016.
 
@@ -1173,6 +1173,8 @@ En ningún caso se podrán reservar documentos antes de que se genere la informa
 
 La clasificación de información reservada se realizará conforme a un análisis caso por caso, mediante la aplicación de la prueba de daño.
 
+> <small>(F. DE E. [N. DE E. REPUBLICADO], P.O. 5 DE MAYO DE 2016)</small>
+
 ###### Artículo 79.
 
 Como información reservada podrá clasificarse aquella cuya publicación:
@@ -2133,6 +2135,8 @@ Cuando el Instituto determine durante la sustanciación del recurso de revisión
 
 También queda a criterio del Instituto practicar diligencias para mejor proveer.
 
+> <small>(F. DE E. [N. DE E. REPUBLICADO], P.O. 5 DE MAYO DE 2016)</small>
+
 ###### Artículo 170.
 
 El recurso será desechado por improcedente cuando:
@@ -2150,6 +2154,8 @@ V. Se impugne la veracidad de la información proporcionada;
 VI. Se trate de una consulta, o
 
 VII. El recurrente amplíe su solicitud en el recurso de revisión, únicamente respecto de los nuevos contenidos.
+
+> <small>(F. DE E. [N. DE E. REPUBLICADO], P.O. 5 DE MAYO DE 2016)</small>
 
 ###### Artículo 171.
 
@@ -2451,7 +2457,7 @@ Séptimo. Todas aquellas disposiciones contenidas en la Ley de Transparencia y A
 
 Octavo. Las solicitudes de información y los recursos de revisión, serán tramitados conforme a la ley vigente en la fecha de su presentación.
 
-D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial del Honorable Congreso del Estado de Nayarit, en Tepic, su capital, a los tres días del mes de mayo del año dos mil dieciséis.
+D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del Honorable Congreso del Estado de Nayarit, en Tepic, su capital, a los tres días del mes de mayo del año dos mil dieciséis.
 
 Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. Francisco Javier Jacobo Cambero, Secretario.- Rúbrica.- Dip. Luis Manuel Hernández Escobedo, Secretario.- Rúbrica.
 
