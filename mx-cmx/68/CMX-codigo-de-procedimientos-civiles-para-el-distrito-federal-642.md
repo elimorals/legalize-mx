@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2015-06-02"
+last_updated: "2016-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE MAYO DE 2016.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -11306,9 +11306,9 @@ Artículo Segundo.- El presente decreto entrará en vigor a los treinta días h�
 
 Artículo Tercero.- Las reformas y adiciones a la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, entrarán en vigor a los treinta días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, G.O. 5 DE MAYO DE 2016)</small>
 
-Artículo Cuarto.- Por lo que toca a los demás procedimientos previstos en el artículo 1019 del decreto publicado el 9 de junio del 2014 en la Gaceta Oficial del Distrito Federal, entrarán en vigor a más tardar el 1 de junio del 2016. El Consejo de la Judicatura del Distrito Federal durante ese periodo establecerá los plazos de implementación de acuerdo con la organización y funcionamiento de los juzgados y salas de la materia, y proveerá lo necesario para el desarrollo e implementación progresiva de los mismos.
+Artículo Cuarto.- Por lo que toca a los demás procedimientos previstos en el artículo 1019 del Decreto publicado el 9 de junio del 2014 en la Gaceta Oficial del Distrito Federal, el Consejo de la Judicatura del Distrito Federal establecerá los plazos de implementación de acuerdo con la organización y funcionamiento de los Juzgados y Salas de la materia, y proveerá lo necesario para el desarrollo e implementación progresiva de los mismos.
 
 Artículo Quinto.- Por lo que hace a los juicios del orden familiar en trámite, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente Decreto hasta su total conclusión.
 
@@ -11333,3 +11333,13 @@ PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 5 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, CORRESPONDIENTE AL DECRETO PUBLICADO EL NUEVE DE JUNIO DE DOS MIL CATORCE EN LA GACETA OFICIAL DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas las disposiciones contrarias a este decreto.
