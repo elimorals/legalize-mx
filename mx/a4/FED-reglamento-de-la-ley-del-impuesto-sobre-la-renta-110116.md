@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-sobre-la-renta-110116"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-08"
-last_updated: "2015-10-08"
+last_updated: "2016-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110116&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-31"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de octubre de 2015.
 
@@ -109,9 +109,11 @@ En los casos de enajenación, amortización o redención, de bonos, obligaciones
 
 Cuando el costo de adquisición a que se refiere el párrafo anterior, adicionado de los intereses devengados, ya acumulados y no cobrados, sea mayor que el monto de la enajenación, amortización o redención del bono, obligación o título valor, la diferencia será la pérdida que sufra el contribuyente y que se considerará interés devengado a cargo, en términos del artículo 25, fracción VII de la Ley.
 
+> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 2016)</small>
+
 ###### Artículo 12.
 
-Para efectos de los artículos 16 y 90 de la Ley, las personas morales y físicas residentes en México, distintas a las casas de cambio que se dediquen a la compra y venta de divisas, deberán acumular los ingresos determinados de conformidad con los artículos 8, 18, fracción IX, 44, 45, 46, 133 y 134 de la Ley, tomando en consideración sólo la ganancia efectivamente percibida y deberán estar soportados en la contabilidad del contribuyente. Lo anterior, con independencia de los demás ingresos que perciban.
+Para efectos de los artículos 16 y 90 de la Ley, las personas morales y físicas residentes en México que se dediquen a la compra y venta de divisas, distintas a las casas de cambio, deberán acumular los ingresos determinados de conformidad con los artículos 8, 18, fracción IX, 44, 45, 46, 133 y 134 de la Ley, tomando en consideración sólo la ganancia efectivamente percibida y deberán estar soportados en la contabilidad del contribuyente. Lo anterior, con independencia de los demás ingresos que perciban.
 
 ## TÍTULO II. De las Personas Morales
 
@@ -2367,13 +2369,7 @@ El aviso deberá presentarse ante la autoridad fiscal dentro de los quince días
 
 ###### Artículo 293.
 
-Para efectos del artículo 170 de la Ley, las personas físicas o morales que obtengan ingresos derivados del desarrollo de actividades artísticas en territorio nacional, distintas de la presentación de espectáculos públicos, podrán pagar el Impuesto sólo en el caso en que el periodo en que se lleven a cabo estas actividades, sea mayor a ciento ochenta y tres días naturales, consecutivos o no, en un periodo de doce meses, siempre que no tengan un establecimiento permanente en el país o que, teniéndolo, dichos ingresos no sean atribuibles a su establecimiento permanente.
-
-Cuando se dé el supuesto a que se refiere el párrafo anterior, las personas físicas y morales deberán pagar el Impuesto en términos del artículo 170 de la Ley, mediante retención y entero que les efectúe la persona que realiza los pagos a la persona física o moral, para lo cual dicho retenedor deberá presentar ante la autoridad fiscal, solicitud de inscripción al registro federal de contribuyentes como retenedor.
-
-El Impuesto a cargo a que se refiere el presente artículo se deberá enterar a más tardar el día 17 del mes de calendario inmediato posterior al que corresponda el pago en las oficinas autorizadas de la autoridad fiscal.
-
-A efecto de determinar el monto de los Impuestos a enterarse conforme a los párrafos precedentes, se considerarán únicamente los ingresos atribuibles a la actividad desarrollada en territorio nacional por el residente en el extranjero.
+(DEROGADO, D.O.F. 6 DE MAYO DE 2016)
 
 ## TÍTULO VI. De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales
 
@@ -2668,3 +2664,11 @@ El saldo de la cuenta de utilidad fiscal neta reinvertida que se tenga al 31 de 
 NOVENO. Las referencias que en la Ley del Impuesto sobre la Renta se hagan a la Ley de Sociedades de Inversión, a las sociedades de inversión, a las sociedades operadoras de sociedades de inversión, a las sociedades distribuidoras de acciones de sociedades de inversión y a las sociedades valuadoras de acciones de sociedades de inversión se entenderán realizadas a la Ley de Fondos de Inversión, a los fondos de inversión, a las sociedades operadoras de fondos de inversión, a las sociedades distribuidoras de acciones de fondos de inversión, y a las sociedades valuadoras de acciones de fondos de inversión, respectivamente, conforme al artículo Trigésimo Octavo, fracción X del Decreto por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras, publicado el 10 de enero de 2014 en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a treinta y uno de agosto de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
