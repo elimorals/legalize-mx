@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2014-12-18"
+last_updated: "2016-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-03-07"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 6 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -2447,3 +2449,65 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. La Asamblea Legislativa, deberá expedir las reformas que correspondan a la Ley de Protección de Datos Personales para el Distrito Federal, al Código de Instituciones y Procedimientos Electorales del Distrito Federal, a la Ley Procesal Electoral para el Distrito Federal, a la Ley Orgánica de la Administración Pública del Distrito Federal y los demás ordenamientos necesarios, en un plazo máximo de doscientos días calendario contados a partir del día siguiente a la fecha de publicación del presente Decreto.
+
+TERCERO. En el término de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, el Instituto deberá expedir su Reglamento Interior, las Disposiciones y Acuerdos de Carácter General y realizar las adecuaciones normativas que correspondan; excepto lo relativo al Título Noveno de la Ley materia del presente Decreto.
+
+CUARTO. Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán y resolverán conforme a la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad y disposiciones aplicables que le sean aplicables anteriores a la expedición del presente Decreto.
+
+QUINTO. El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2017, por cuanto hace al presupuesto de egresos del órgano garante local. Mientras tanto, la Secretaría de Finanzas de la Ciudad de México, conforme a la disponibilidad presupuestal, realizará ampliaciones y adiciones líquidas al presupuesto aprobado en el Decreto de Presupuesto de Egresos del Gobierno del Distrito Federal para el ejercicio fiscal 2016 del órgano garante local, a fin de que pueda cumplir con las nuevas atribuciones y obligaciones que se establecen en la Ley materia del presente Decreto.
+
+SEXTO. Los recursos financieros, materiales, humanos, cargas, compromisos y bienes en general que conforman el patrimonio y estructura del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, sin más trámite o formalidad pasaran a formar parte del patrimonio y estructura del nuevo Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, una vez que entre en operación.
+
+SÉPTIMO. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
+
+OCTAVO. Las disposiciones legales, reglamentarias, administrativas y normativas que regulan al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal serán aplicables y vigentes en lo que no se opongan al presente Decreto y hasta en tanto no se homologue y actualice la normatividad que corresponda.
+
+NOVENO. Las disposiciones jurídicas y normativas que en su contenido reserven denominación, atribuciones, facultades, derechos y obligaciones respecto del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, se deberán aplicar, referir, interpretar y entender en favor del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, a partir de su entrada en operación.
+
+DÉCIMO. Los trabajadores adscritos al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, se transferirán al nuevo organismo público autónomo creado, salvo las excepciones señaladas en el presente Decreto. Los trabajadores que pasen a formar parte del nuevo organismo garante se seguirán rigiendo por el apartado B del artículo 123 de esta Constitución y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
+
+DÉCIMO PRIMERO. Queda derogada cualquier disposición que contravenga los principios, bases, procedimientos y derechos reconocidos en la presente Ley, sin perjuicio de lo previsto en los siguientes Transitorios.
+
+DÉCIMO SEGUNDO. Todo lo relacionado al Título Noveno de la Ley materia del presente Decreto, será aplicado conforme a las Disposiciones y Acuerdos de Carácter General que para tal efecto expida el órgano garante local.
+
+DÉCIMO TERCERO. El Sistema Local se instalará a más tardar noventa días naturales posteriores a la entrada en vigor del presente decreto.
+
+DÉCIMO CUARTO. Toda referencia al Poder Ejecutivo de la Ciudad de México, se entenderá hecha al Órgano Ejecutivo del Distrito Federal, en tanto no sea promulgada la Constitución Política de la Ciudad de México.
+
+DÉCIMO QUINTO. Toda referencia al Poder Legislativo de la Ciudad de México, se entenderá hecha a la Asamblea Legislativa del Distrito Federal, en tanto no sea promulgada la Constitución Política de la Ciudad de México.
+
+DÉCIMO SEXTO. Toda referencia al Poder Judicial de la Ciudad de México, se entenderá hecha al Órgano Judicial del Distrito Federal, en tanto no sea promulgada la Constitución Política de la Ciudad de México.
+
+DÉCIMO SÉPTIMO. El nuevo Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México que crea la presente Ley, con los Comisionados Ciudadanos que lo conformarán, entrará en operación a partir del primer día del mes de abril del año dos mil dieciocho, y como consecuencia se extinguirá el actual Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
+
+El nuevo Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, mientras sean nombrados los nuevos Comisionados que lo conformarán, continuará en sus funciones con los Comisionados del actual Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, designados conforme a la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, que se abroga en el presente Decreto; mientras termina el plazo por el cual fueron nombrados conforme a esta última ley.
+
+DÉCIMO OCTAVO. La designación de los nuevos Comisionados del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, será realizada a más tardar el treinta y uno de marzo del año dos mil dieciocho, garantizando que se cumpla para tal efecto lo señalado en el ARTÍCULO DÉCIMO SÉPTIMO TRANSITORIO anterior del presente Decreto.
+
+La convocatoria para la designación de los nuevos Comisionados, deberá emitirse a más tardar el treinta de enero del año dos mil dieciocho conforme a lo siguiente:
+
+I. Para asegurar la renovación escalonada con motivo de la conclusión de cargos de los Comisionados salientes designados conforme a la Ley anterior, la Asamblea Legislativa especificará el período de ejercicio para cada Comisionado, tomando en consideración lo siguiente:
+
+a) Nombrará a tres Comisionados, cuyo mandato comprenderá siete años;
+
+b) Nombrará a dos Comisionados, cuyo mandato comprenderá seis años;
+
+c) Nombrará a dos Comisionados, cuyo mandato comprenderá cinco años, y
+
+d) Una vez concluido el periodo por el cual fueron designados, los Comisionados salientes, podrán si así lo consideran, participar en el nuevo proceso de selección para el periodo que corresponda.
+
+En el nombramiento de los Comisionados, la Asamblea Legislativa designará a quien fungirá como Presidente.
+
+II. La Convocatoria y proceso de selección de los Comisionados del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, se realizará conforme lo marca la Ley materia del presente Decreto.
+
+DÉCIMO NOVENO. El titular del Órgano Interno de Control, del órgano garante local será designado por el Pleno de la Asamblea Legislativa, en los términos señalados en la Ley materia del presente Decreto, en un plazo que no podrá exceder de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+VIGÉSIMO. Túrnese al Jefe de Gobierno del Distrito Federal para su correspondiente promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
