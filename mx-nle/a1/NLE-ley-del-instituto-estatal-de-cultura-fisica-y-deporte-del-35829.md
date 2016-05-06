@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2010-12-24"
+last_updated: "2016-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE, DEL ESTADO DE NUEVO LEON
 
-LEY DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE
+LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -301,7 +301,9 @@ d) La Secretaria de Desarrollo social.
 
 Los vocales de la Junta de Gobierno podrán ser representados en sus ausencias por quienes designen para este efecto con el carácter de suplente, mediante documento que se le remita a la misma.
 
-La Junta de Gobierno, con la aprobación de la mayoría de sus asistentes, de acuerdo al tema que se trate en su agenda, podrá invitar a los representantes de otras dependencias o instituciones públicas nacionales e internacionales, estatales o municipales, así como a los de organizaciones privadas y sociales, quienes tendrán sólo derecho a voz en la sesión o sesiones correspondientes.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+El Presidente de la Junta de Gobierno, de acuerdo al tema que se trate en la agenda, podrá invitar a los representantes de otras dependencias o instituciones públicas nacionales e internacionales, estatales o municipales, así como a los de organizaciones privadas y sociales, quienes tendrán sólo derecho a voz en la sesión o sesiones correspondientes.
 
 ###### Artículo 14.
 
@@ -562,3 +564,9 @@ P.O. 3 DE DICIEMBRE DE 2010.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 102. SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 13 DE LA LEY ESTATAL DEL INSTITUTO DE CULTURA FÍSICA Y DEPORTE”.]
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
