@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-del-registro-publico-de-la-propiedad-69797
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-13"
-last_updated: "2009-07-13"
+last_updated: "2016-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,400 +21,1364 @@ state: "PUE"
 ---
 # REGLAMENTO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-REGLAMENTO DE LA COMISION NACIONAL DE SEGUROS Y FIANZAS EN MATERIA DE INSPECCION, VIGILANCIA Y CONTABILIDAD
+REGLAMENTO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016.
 
-Reglamento publicado en el Diario Oficial de la Federación, el lunes 14 de enero de 1991.
+Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 13 de julio de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Gobierno del Estado de Puebla.
 
-CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 106 a 118, 130 y demás relativos de la Ley General de Instituciones y Sociedades Mutualistas de Seguros y 66 a 77 y demás relativos de la Ley Federal de Instituciones de Fianzas, y
+LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla,
 
-CONSIDERANDO
+CONSIDERANDO.
 
-Que mediante Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, publicado en el Diario Oficial de la Federación el 3 de enero de 1990, se creó la Comisión Nacional de Seguros y Fianzas como órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, encargado de la inspección y vigilancia de las instituciones y sociedades autorizadas para operar en materia de seguros y fianzas en nuestro país;
+En mérito de lo expuesto y en uso de las facultades que me confieren los artículos 79 fracción IV y 85 de la Constitución Política del Estado; 18 y 19 de la Ley Orgánica de la Administración Pública Estatal vigente, he tenido a bien expedir el siguiente:
 
-Que por medio de Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación en la fecha antes citada, se estableció que la inspección y vigilancia de las instituciones de fianzas quedara confiada a la propia Comisión Nacional de Seguros y Fianzas;
+DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-Que habiendo iniciado su funcionamiento la citada comisión, es necesario reglamentar las disposiciones de los ordenamientos legales citados que norman las funciones de inspección y vigilancia en las materias de seguros y fianzas; he tenido a bien expedir el siguiente
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-REGLAMENTO DE LA COMISION NACIONAL DE SEGUROS Y FIANZAS EN MATERIA DE INSPECCION, VIGILANCIA Y CONTABILIDAD
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+###### ARTÍCULO 1.
 
-###### ARTICULO 1o.
+El presente Reglamento es de interés público y de observancia general en todo el territorio del Estado y tiene por objeto proveer el exacto cumplimiento en el ámbito administrativo de las disposiciones de la Ley del Registro Público de la Propiedad del Estado de Puebla, ello para cumplir con la función que se asigna al Gobierno del Estado de Puebla, de dar publicidad a la situación jurídica de bienes y derechos, así como a los actos y hechos jurídicos que deban registrarse para surtir efectos contra terceros.
 
-Quedan sujetas a lo dispuesto por este Reglamento las instituciones de seguros, las sociedades mutualistas de seguros, las instituciones de fianzas, y las demás personas y empresas sometidas a las leyes General de Instituciones y Sociedades Mutualistas de Seguros y Federal de Instituciones de Fianzas, así como otras leyes, reglamentos y disposiciones administrativas aplicables, en materia de seguros y fianzas.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 2o.
+###### ARTÍCULO 2.
 
-La Comisión Nacional de Seguros y Fianzas ejercerá las atribuciones que le confieren las leyes en materia de inspección, vigilancia y contabilidad, así como en los procedimientos de intervención, de conformidad con lo previsto por este Reglamento.
+Para los efectos de este Reglamento, además de las definiciones establecidas en el artículo 4 de la Ley del Registro Público de la Propiedad del Estado de Puebla, se entenderá por:
 
-###### ARTICULO 3o.
+I.- Consejo de Profesionalización: El Consejo de Profesionalización del Servicio Público Registral y Catastral;
 
-Las personas físicas y morales sujetas a la inspección y vigilancia de la Comisión, estarán obligadas a prestar a los visitadores o inspectores encargados de la práctica de las visitas, todo el apoyo que les requieran, proporcionando los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia, y en general, la documentación que los mismos estimen necesaria para el cumplimiento de su cometido, pudiendo tener acceso a sus oficinas, locales y demás instalaciones.
+II.- Dirección de Catastro: La Dirección de Catastro del Instituto Registral y Catastral del Estado de Puebla;
 
-En la documentación a que se refiere el párrafo anterior queda comprendida la información contenida en los sistemas automatizados de procesamiento y conservación de datos, así como cualesquiera otros procedimientos técnicos establecidos para ese objeto, ya sean archivos magnéticos, archivos de documentos microfilmados, procedimientos ópticos para su consulta o de cualquier otra naturaleza.
+III.- Ley: La Ley del Registro Público de la Propiedad del Estado de Puebla;
 
-La información periódica para fines estadísticos o para otros que requiera la Comisión le será presentada en los formatos que apruebe y dentro del término que señale.
+IV.- Sistema Informático: El Sistema de Información Registral del Estado de Puebla por sus siglas SIREP; y
 
-El personal de la Comisión que en virtud de sus funciones tenga acceso a la información a que se refiere este artículo, está obligado a observar la mayor confidencialidad y su incumplimiento dará lugar a la imposición de las sanciones previstas en las leyes aplicables.
+V.- Sistema Registral: La modalidad de los procesos en que se desarrollen las Oficinas Registrales, ya sea de folio electrónico o manual.
 
-###### ARTICULO 4o.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-La visitada deberá dar a los visitadores o inspectores acceso irrestricto a las fuentes de información mencionadas en el artículo anterior y, en su caso, poner a su disposición el equipo de cómputo y a sus operadores, así como al personal especializado que sea necesario para la práctica de la visita.
+###### ARTÍCULO 3.
 
-###### ARTICULO 5o.
+Los servicios registrales se solicitarán y efectuarán en la Oficina Registral que competa en función de la ubicación de los bienes y personas jurídicas, en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita el Secretario y que se publique en el Periódico Oficial del Estado.
 
-Cuando en la práctica de una visita se conozca un hecho relevante que no pueda ser acreditado con la documentación de la visitada, el representante legal o el funcionario competente de ésta, considerando la índole de las funciones que desempeñe, a requerimiento expreso de los visitadores o inspectores, deberá rendir de inmediato un informe que describa o precise el hecho de referencia.
+### CAPÍTULO SEGUNDO. DEL PERSONAL DEL REGISTRO
 
-###### ARTICULO 6o.
+#### SECCIÓN PRIMERA. DE LA PROFESIONALIZACIÓN DEL SERVICIO PÚBLICO REGISTRAL
 
-Los visitadores e inspectores en ejercicio de sus funciones y para el mejor cumplimiento de las comisiones encomendadas, podrán sacar copia de la documentación que obre en poder de las personas sujetas a inspección y vigilancia de la Comisión, la que, previo cotejo con su original, se podrá certificar por aquéllos y se anexará a los informes que rindan o a las actas que levanten con motivo de la visita.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-## TITULO SEGUNDO. DE LA INSPECCION
+###### ARTÍCULO 4.
 
-### CAPITULO I. GENERALIDADES
+La profesionalización del servicio público registral y catastral es el conjunto de normas, procesos y procedimientos que tienen por objeto desarrollar, complementar, perfeccionar y actualizar los conocimientos y habilidades requeridas para lograr un óptimo desempeño de las funciones propias de los servidores públicos del Instituto, así como asegurar la evaluación objetiva de las competencias, el desempeño del personal y las aptitudes de los aspirantes a ingresar a laborar al mismo.
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-La Comisión practicará la inspección a que se refiere este Reglamento a las personas señaladas en el artículo 1o., a través de visitas ordinarias, especiales y de investigación.
+###### ARTÍCULO 5.
 
-En la formulación del Programa Anual de Visitas Ordinarias que se someta a la aprobación del Presidente de la Comisión, deberán definirse los objetivos generales y los particulares que se pretendan alcanzar, al igual que la forma y términos en que será realizado. Este programa se formulará de tal modo que las visitas se practiquen con la frecuencia que la experiencia y las necesidades lo ameriten.
+El Consejo de Profesionalización tendrá por objeto la implementación y supervisión de las políticas por él establecidas, relacionadas con el ingreso, desarrollo profesional, evaluación y capacitación del personal de su adscripción; y se conformará de la siguiente manera:
 
-Las visitas especiales se practicarán para examinar, y en su caso, corregir situaciones especiales operativas; y las de investigación para revisar, aclarar o evaluar situaciones específicas.
+I.- Como Presidente, el Subsecretario, que podrá ser suplido por el Director General, quien contará con voto de calidad;
 
-###### ARTICULO 8o.
+II.- Como Vicepresidente, el Director General, que podrá ser suplido por el Director que éste designe por escrito;
 
-La inspección que practique la Comisión se efectuará a través de visitas que tendrán por objeto revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio de las personas sujetas a la misma, así como las operaciones, funcionamiento, sistemas de control y, en general, todo lo que pudiendo afectar la posición financiera y legal, conste o deba constar en los registros, a fin de que se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas en la materia.
+III.- Como Vocales:
 
-###### ARTICULO 9o.
+a) El Director;
 
-Además, las visitas de inspección se realizarán con el propósito de:
+b) El Director de Catastro del Estado de Puebla;
 
-I.- Verificar el cumplimiento de las disposiciones legales, reglamentarias y administrativas aplicables y la observancia de los usos y sanas prácticas en la operación y funcionamiento;
+c) El Subsecretario de Administración de la Secretaría, que podrá ser suplido por el Director que éste designe por escrito;
 
-II.- Verificar el registro oportuno, completo y correcto de las operaciones, de las que deriven o puedan derivar responsabilidades u obligaciones contingentes;
+d) El Director General de Desarrollo Administrativo y Mejora Regulatoria de la Secretaría, que podrá ser suplido por el Director que éste designe por escrito;
 
-III.- Comprobar la existencia de los bienes que forman el activo, la documentación que acredite la existencia de sus obligaciones al igual que la creación de reservas, provisiones y demás componentes que integran el pasivo; así como la correcta integración del capital, las reservas de capital y otras cuentas patrimoniales;
+e) El Delegado de la Secretaría de la Contraloría en el Sector Finanzas y Administración, que podrá ser suplido por el Jefe de Departamento de Control y Supervisión de la propia Delegación;
 
-IV.- Llevar a cabo la adecuada valuación de los conceptos a que se refieren las dos fracciones anteriores;
+f) El Registrador Público relacionado directamente con el orden del día a tratar, quien tendrá voz y voto en los asuntos relacionados con su Oficina Registral. Tratándose de asuntos de naturaleza general, los Registradores Públicos presentes tendrán en conjunto un voto, y
 
-V.- Verificar y comprobar que los estados financieros reflejan la situación y resultado de las operaciones;
+IV.- Como Secretario Técnico, el Subdirector de Control y Mejora de la Función Registral.
 
-VI.- Evaluar la estructura de organización y los sistemas de contabilidad y de control interno, para preservar su solvencia y estabilidad;
+Los miembros de este Consejo de Profesionalización deberán excusarse de votar en aquellas decisiones en las que exista o pueda existir conflicto de intereses.
 
-VII.- Analizar las desviaciones que se determinen respecto de las normas aplicables, usos y sanas prácticas y comprobar que se corrijan;
+El desempeño de estos cargos será honorífico.
 
-VIII.- Investigar o aclarar situaciones observadas a través de la función de vigilancia;
+El Consejo de Profesionalización sesionará y funcionará bajo los lineamientos que para tal efecto el Secretario expida y dé a conocer.
 
-IX.- Investigar operaciones relacionadas con quejas o denuncias;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
 
-X.- Comprobar la ejecución de acciones correctivas ordenadas por la comisión o por otras autoridades, así como los planes de regulación o rehabilitación que se hubieren implantado; y
+###### ARTÍCULO 6.
 
-XI.- Las demás que en cada caso se consideren necesarios.
+El Consejo de Profesionalización tendrá las siguientes atribuciones:
 
-En los supuestos previstos en este artículo, cuando así proceda, se tendrá como objetivo promover el cumplimiento, corrección y observancia que el caso requiera.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-### CAPITULO II. DE LA PRACTICA DE LAS VISITAS
+I. Crear y operar los procesos que conforman el Sistema de Profesionalización de las Funciones Registral y Catastral;
 
-###### ARTICULO 10.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-Las visitas se practicarán por orden expresa del servidor público competente de la Comisión, la que, en todo caso, se dará en oficio que señale el carácter de la visita, dirigido a las personas físicas o morales a que se refiere el artículo 1o. de este Reglamento, mismo que se notificará a la persona física de que se trate, a su representante o, en su ausencia, a cualquiera de sus empleados; y en el caso de una persona moral, al funcionario a quien correspondan las funciones de Dirección General, Dirección Regional, Gerencia General o representación de la misma.
+II. Proponer los procedimientos, políticas y disposiciones normativas internas necesarias en materia de recursos humanos del Instituto, con apego a las disposiciones que norman la materia;
 
-Se iniciará la visita aun cuando no esté presente el funcionario o persona a quien deba entregarse el oficio de notificación, caso en el que el visitador o inspector hará la notificación al funcionario o empleado de mayor jerarquía que esté presente o aquél con el que pueda comunicarse de inmediato, identificándose debidamente y entregando el oficio a que se refiere el párrafo anterior.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-Los oficios de comunicación de las visitas de inspección deberán contener los datos a que se refiere el artículo 39, fracciones, I, II, V y VIII.
+III. Analizar y dictaminar a propuesta del Subsecretario, las necesidades de nuevas contrataciones o nombramientos del personal del Instituto y en su caso la modificación a la estructura del mismo;
 
-###### ARTICULO 11.
+IV. Establecer los puestos en los cuales será aplicable la profesionalización de la función registral;
 
-Los visitadores e inspectores deberán realizar sus labores apegándose al horario de la persona física o moral visitada, y una vez iniciada la visita no podrá suspenderse sin autorización expresa del servidor público competente de la Comisión, pudiendo esta última habilitar días y horas cuando lo estime necesario para el cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 12.
+V. Proponer la descripción y perfilamiento de los puestos del Instituto, con base en el modelo de competencias y al manual de organización vigente;
 
-Cuando la Comisión advierta en alguna de las instituciones, sociedades y demás personas y empresas a que se refiere el artículo 1o. de este Reglamento la práctica de operaciones irregulares o que no se ajustan a lo dispuesto por las leyes o disposiciones aplicables, el Presidente ordenará con acuerdo de la Junta de Gobierno cuando así proceda, la liquidación o regularización de dichas operaciones y podrá designar con carácter permanente a uno o más visitadores o inspectores que efectúen la supervisión y comprobación respectiva.
+VI. Emitir normas técnicas de competencia laboral y catálogos de perfiles de puesto, sin perjuicio de lo dispuesto por la normatividad aplicable;
 
-El funcionario o personal designado para estas labores no tendrá facultades ejecutivas o de resolución, limitándose a informar oportuna y periódicamente, conforme a las instrucciones que haya recibido, sobre las operaciones que se efectúen, el desarrollo de los programas de regularización o correctivos y, en general, todo lo concerniente a la evolución que presenten.
+VII. Establecer los criterios para realizar los procesos de reclutamiento y selección de los aspirantes a ocupar un puesto;
 
-###### ARTICULO 13.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-Las visitas de inspección se practicarán considerando las características operativas y administrativas de la persona física o moral a quien vaya dirigida, así como a los resultados obtenidos de la vigilancia o de visitas de inspección anteriores.
+VIII. Cerciorarse que los aspirantes a ocupar los puestos vacantes cumplan con el perfil y los requisitos establecidos para cada uno de ellos;
 
-###### ARTICULO 14.
+IX. Establecer y aprobar los mecanismos internos necesarios para la evaluación del aspirante, así como de sus capacidades técnicas y gerenciales, así como presentar propuestas de admisión;
 
-Los visitadores o inspectores asignados a la práctica de visitas, carecen de facultades ejecutivas respecto de la institución o persona en que se encuentran comisionados. En consecuencia, se abstendrán de ordenar ajustes, castigos y cualquier otro movimiento contable, así como dar otro tipo de órdenes o instrucciones al personal de la institución o persona visitada en relación con los negocios y operaciones propios de ésta. Las situaciones identificadas que ameriten algún tipo de acción o medida inmediata, deberán ser comunicadas a su superior jerárquico a fin de que la Comisión determine lo conducente.
+X. Diseñar, aprobar y dar seguimiento a la ejecución del programa interno de evaluación del desempeño del personal, desarrollado con base a la normatividad respectiva;
 
-###### ARTICULO 15.
+XI. Notificar a la Dirección de Recursos Humanos sobre los resultados obtenidos en la evaluación de los aspirantes;
 
-El personal que al practicar la visita tenga conocimiento de operaciones irregulares que afecten la estabilidad o solvencia de la persona física o moral visitada y pongan en peligro los intereses del público, deberá dar aviso inmediato a la Comisión, para que ésta resuelva lo procedente.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-Cuando la gravedad de las cosas lo amerite, se levantará acta circunstanciada en que se harán constar esas irregularidades, pudiendo el visitador o inspector poner bajo custodia la documentación e información que estime necesaria.
+XII. Proponer la celebración de convenios de colaboración con Dependencias o Entidades de la Administración Pública Federal, Estatal o Municipal, así como con instituciones nacionales e internacionales, públicas o privadas, relacionadas con el objeto del Instituto para el otorgamiento de becas en beneficio de su personal;
 
-###### ARTICULO 16.
+XIII. Incorporar y adaptar las normas técnicas de competencia laboral a los puestos que así lo requieran;
 
-De toda visita de inspección deberá formularse un informe general que comprenderá, en su caso, los informes parciales que se hubieren producido durante el curso de la visita.
+XIV. Analizar, revisar y tomar las medidas conducentes para evaluar los resultados del personal en materia de competencia laboral con base a las evidencias que soporten los conocimientos, experiencias, habilidades y actitudes de los servidores públicos;
 
-Dicho informe general se presentará en un término razonable después de terminada la visita, y deberá ser firmado por el visitador o inspector responsable de la misma.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 17.
+XV. Formular y autorizar los planes de formación, capacitación y entrenamiento que le sean solicitados por el Director General, y
 
-Los informes parciales de las visitas tendrán por objeto dar a conocer situaciones que por sus características e implicaciones deban informarse oportunamente a la Comisión, a fin de hacer las observaciones pertinentes, antes de que termine la visita de que se trate, o bien definir las medidas a seguir que el caso requiera.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 18.
+XVI. Evaluar la implementación de programas y proyectos relacionados con la Profesionalización del Servicio Público Registral y Catastral y, en su caso, emitir las modificaciones que procedan.
 
-Los informes parciales y generales darán cuenta de los hechos y de los documentos a que ellos se refieren.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
 
-Dichos informes comprenderán los aspectos cuantitativos y cualitativos determinados durante la visita y deberán reunir las características que se establezcan en los instructivos correspondientes. En la preparación de los informes no deberá intervenir el personal de la visitada, ni persona ajena a la Comisión.
+###### ARTÍCULO 7.
 
-De los informes se dará cuenta al Presidente de la Comisión y, por su conducto, a la Junta de gobierno, cuando así proceda.
+Conforman el Sistema de Profesionalización del Servicio Público Registral y Catastral, los siguientes procesos:
 
-### CAPITULO I. DE LAS GENERALIDADES
+I. Proceso de Reclutamiento y Selección;
 
-###### ARTICULO 19.
+II. Proceso de Inducción;
 
-Los informes generales de las visitas deberán contener, en lo conducente:
+III. Proceso de Formación, Capacitación y Entrenamiento;
 
-I.- La referencia al objetivo de la visita practicada y la fecha a que ella corresponde;
+IV. Proceso de Evaluación de Desempeño del Personal;
 
-II.- Los antecedentes del asunto objeto de la visita o investigación, en su caso;
+V. Proceso de Certificación de Competencias Laborales; y
 
-III.- Las áreas de actividad de las instituciones o entidades, así como las cuentas o grupos de cuentas que fueron revisadas;
+VI. Proceso de Separación.
 
-IV.- Los resultados de la visita, con una exposición objetiva de las situaciones y hechos determinados;
+#### SECCIÓN SEGUNDA. DE LA ORGANIZACIÓN DEL REGISTRO
 
-V.- Los comentarios del visitador o inspector encargado de la visita;
+###### ARTÍCULO 8.
 
-VI.- Las observaciones respecto a ilegalidades, irregularidades u otras situaciones determinadas en la revisión;
+La Dirección tendrá la siguiente estructura orgánica:
 
-VII.- La situación de cualquier otro orden que se presente o conozca;
+I. El Director;
 
-VIII.- Las conclusiones; y
+II. El Subdirector;
 
-IX.- Las proposiciones.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 20.
+III. Los Registradores Públicos, y
 
-El visitador o inspector, para respaldar los hechos consignados en los informes o actas correspondientes, deberá acompañar los documentos que los acrediten.
+IV. El personal de apoyo que requiera para el cumplimiento de sus funciones.
 
-###### ARTICULO 21.
+###### ARTÍCULO 9.
 
-Los resultados de la visita que se desprendan de los informes correspondientes, se comunicarán a la persona física o moral que haya sido objeto de la inspección, a fin de que exponga lo que a su interés corresponda y adopte las medidas de regularización respectivas.
+Los servidores públicos del Registro tendrán las siguientes atribuciones generales:
 
-A tal efecto, se girará oficio de observaciones firmado por el Director General o Delegado Regional que corresponda, salvo cuando por la naturaleza o gravedad de los hechos y las resoluciones que se comuniquen a la institución, entidad o persona visitada, deba hacerlo el Presidente o el Vicepresidente de la Comisión.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 22.
+I. Participar con diligencia y eficacia en las actividades que le indique su superior jerárquico;
 
-Las actas que levanten los visitadores o inspectores, hacen prueba de la existencia de los hechos u omisiones que en ellas se consignen y que se hayan conocido al practicarse la visita.
+II. Supervisar y mantener en correcto orden y funcionamiento las áreas a su cargo;
 
-###### ARTICULO 23.
+III. Cuidar que los servicios que se otorguen en el Registro se realicen con apego a las leyes fiscales y demás ordenamientos legales;
 
-El informe y resultado de la visita, así como los oficios de observaciones que en su caso se formulen, se harán del conocimiento del área de vigilancia que corresponda, a fin de que ésta dé seguimiento a las acciones y medidas correctivas derivadas de la misma.
+IV. Atender las solicitudes de los servicios registra les en estricto orden de recepción;
 
-## TITULO TERCERO. DE LA VIGILANCIA
+V. Proponer y una vez autorizadas, realizar las mejoras a su área;
 
-###### ARTICULO 24.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-En el caso de las instituciones, sociedades y demás personas físicas y morales a que se refiere el artículo 1o. de este Reglamento, la vigilancia consistirá en cuidar que éstas cumplan con las disposiciones de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, la Ley Federal de Instituciones de Fianzas, así como otras leyes, reglamentos, disposiciones administrativas aplicables y las que deriven de las mismas, y atiendan las observaciones e indicaciones de la Comisión, como resultado de las visitas de inspección practicadas.
+VI. Entregar oportunamente los informes, reportes y estadísticas programados y las que eventualmente les requiera su superior jerárquico;
 
-###### ARTICULO 25.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-La Comisión ejercerá la vigilancia mediante la comprobación y evaluación sistemática del funcionamiento, servicios y operación de las instituciones y personas a que este Reglamento se refiere, consideradas individualmente, por grupos de instituciones y a nivel del sistema que representan cada tipo de ellas, para cuidar el cumplimiento de las disposiciones legales que le son aplicables y prevenir, identificar y, en su caso, corregir oportunamente las situaciones que puedan afectar su estabilidad, solvencia, eficiencia y productividad.
+VII. Representar a su superior jerárquico en las comisiones que éste le indique;
 
-La Comisión, en ejercicio de esta facultad, adoptará las medidas normativas que correspondan.
+VIII. Comunicar oportunamente a su superior jerárquico sobre los actos u omisiones que sean causa de sanción o responsabilidad en que incurran los servidores públicos del Registro y sobre las eventualidades relevantes ocurridas en su área de trabajo;
 
-###### ARTICULO 26.
+IX. Cuidar que el personal a su cargo cumpla con las obligaciones propias de su función;
 
-La Comisión adoptará las medidas normativas mencionadas en el artículo anterior para que las instituciones y personas a que el mismo se refiere cumplan con las disposiciones legales y administrativas que le son aplicables, pudiendo al efecto conforme a dichas disposiciones definir criterios, establecer reglas y procedimientos de carácter general a los que deban ajustar su funcionamiento y proponer a las autoridades competentes las que sean necesarias o convenientes.
+X. Dictar las medidas necesarias para el buen funcionamiento de las oficinas o áreas que tuviera a su cargo;
 
-###### ARTICULO 27.
+XI. Conocer, proponer modificaciones y dar seguimiento al Programa Estatal de Modernización del Registro y a otros programas que se implementen por la Secretaría;
 
-La Comisión fijará la información y documentación periódica que le deben proporcionar las instituciones y personas sujetas a su vigilancia.
+XII. Proponer las adecuaciones a los manuales en cuya operación intervengan;
 
-###### ARTICULO 28.
+XIII. Excusarse y abstenerse de participar en actos en los cuales tenga un impedimento previsto en este Reglamento u otras normas aplicables; y
 
-El Programa General Anual de Vigilancia se someterá a la aprobación del Presidente de la Comisión y se formulará de acuerdo con los objetivos señalados en los artículos 24 y 25 de este Reglamento, debiendo comprender el calendario de actividades a realizar y la forma y términos de control de su ejecución, el cual podrá modificarse en su caso, para mantenerlo actualizado.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 29.
+XIV. Las demás que les sean conferidas por las leyes, reglamentos, decretos, acuerdos y demás normatividad aplicable en la materia.
 
-Los resultados de la vigilancia se harán del conocimiento del Presidente de la Comisión y del área de inspecciones, con la periodicidad necesaria; comprenderán un informe en relación con sus objetivos, aspectos relevantes observados, la evaluación practicada a la operación, funcionamiento y desarrollo de la institución o persona vigilada, proponiendo las medidas preventivas o normativas que en su caso procedan y la práctica de visitas de inspección.
+###### ARTÍCULO 10.
 
-La información derivada de la vigilancia deberá tenerse en cuenta al formular los programas de inspección que elabore la Comisión.
+(DEROGADO, P.O. 6 DE MAYO DE 2016)
 
-###### ARTICULO 30.
+###### ARTÍCULO 11.
 
-En la adopción de las medidas a que se refiere el artículo 25, segundo párrafo, de este Reglamento, la Comisión formulará los oficios respectivos en que hará constar las observaciones y ordenará la realización de los actos necesarios para normalizar y aún para liquidar las operaciones, según proceda, debiendo supervisar su cumplimiento.
+(DEROGADO, P.O. 6 DE MAYO DE 2016)
 
-La Comisión podrá requerir la comparecencia de los administradores y funcionarios responsables, a fin de que expongan lo que a sus intereses corresponda en relación con las observaciones formuladas.
+###### ARTÍCULO 12.
 
-###### ARTICULO 31.
+(DEROGADO, P.O. 6 DE MAYO DE 2016)
 
-La Comisión hará del conocimiento de la Secretaría de Hacienda y Crédito Público, los deficientes en depósitos en los diversos renglones del activo, así como del capital mínimo de garantía, para que ésta determine el monto del pago de intereses penales, conforme a la ley. Igualmente, comunicará las irregularidades que en forma expresa debe sancionar la Secretaría de Hacienda y Crédito Público.
+###### ARTÍCULO 13.
 
-## TITULO CUARTO. DE LA CONTABILIDAD Y PUBLICACION DEL ESTADO FINANCIERO ANUAL
+(DEROGADO, P.O. 6 DE MAYO DE 2016)
 
-###### ARTICULO 32.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
 
-Las personas físicas y morales a que se refiere el artículo 1o. de este Reglamento, están obligadas a llevar en forma regular, libros y registros de contabilidad en los que se harán constar al día, todas las operaciones que realicen y que signifiquen variación en su activo o en su pasivo o que impliquen obligaciones directas o contingentes; para lo cual podrán adoptar un sistema de registro aprobado previamente por la Comisión, siempre que con él se pueda tener un control completo de dichas operaciones, así como efectuar una comprobación adecuada de las mismas.
+###### ARTÍCULO 14.
 
-La contabilidad deberá estar al corriente en los términos de las disposiciones legales aplicables en cada caso, con una clara separación o identificación de las diversas operaciones que tengan autorizadas.
+Los Registradores Públicos tendrán a su cargo el personal técnico y administrativo necesario para la realización de la función registral, siendo su facultad asignarle al mismo la realización de las siguientes actividades y funciones:
 
-###### ARTICULO 33.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-Las personas a que se refiere el artículo que antecede deberán presentar a la Comisión, para su autorización, los libros y registros que están obligadas a llevar.
+I. Orientar a los interesados, sobre los servicios otorgados por el Registro, requisitos, costos, tramitación y plazos;
 
-###### ARTICULO 34.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
 
-La contabilidad deberá llevarse con apego al catálogo de cuentas uniforme e instructivo correspondiente que para cada tipo de institución, organización o entidad apruebe la Comisión, sujetándose asimismo a los demás principios que establezcan las leyes y a los criterios y normas que en materia contable dicte la Comisión, en el ejercicio de las facultades que le otorgan al respecto las leyes de la materia.
+II. Recibir y entregar la documentación a los interesados de acuerdo con el procedimiento siguiente:
 
-###### ARTICULO 35.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-Cuando las personas físicas o morales a que se refiere este Título operen con sucursales, deberán establecer sistemas que permitan llevar el registro de las operaciones de dichas sucursales y la concentración oportuna de saldos y movimientos en los libros y registros de carácter obligatorio.
+a) Registrar en el Sistema Informático o de manera manual, según proceda, las solicitudes de inscripción, anotación o certificación, así como toda la documentación dirigida a la Oficina Registral;
 
-###### ARTICULO 36.
+b) Proporcionar al usuario la boleta de ingreso de los servicios registrales solicitados;
 
-Las personas a que se refiere el artículo 1o. de este Reglamento, que estén obligadas legalmente a publicar sus estados financieros, darán cumplimiento a dicha obligación en la forma y términos que establezca la Comisión, mediante disposiciones de carácter general.
+c) Turnar las solicitudes recibidas a las áreas respectivas conforme a los manuales de procedimientos, agregando tanto la boleta de ingreso como la totalidad de los documentos y anexos presentados por el usuario;
 
-###### ARTICULO 37.
+d) Entregar los documentos calificados y hacer constar su devolución; y
 
-Los balances anuales junto con la información que deban remitir al efecto, deberán presentarse a la Comisión, dentro de los 30 días naturales siguientes al cierre del ejercicio correspondiente; asimismo, conforme a las disposiciones aplicables dentro del mes siguiente a la presentación del balance, deberán enviar una copia certificada del acta del Consejo de Administración en que hayan sido aprobados para estos efectos; un informe general sobre la marcha de sus negocios, así como los informes y dictámenes del comisario y auditores externos o independientes con las observaciones que consideren pertinentes, los cuales deberán incluir una conclusión debidamente razonada de la situación financiera.
+e) Formular los boletines registrales, colocándolos en un lugar visible al público;
 
-La Comisión hará las observaciones que procedan, en los oficios respectivos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
 
-## TITULO QUINTO. DE LA INTERVENCION
+III. Realizar el análisis registral, de acuerdo con el procedimiento siguiente:
 
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 38.
+a) Recibir para estudio y análisis las propuestas de inscripción, anotación o certificación, sin que por ningún motivo en las operaciones relativas a una sola partida o folio, puedan turnarse a distintos analistas para su atención;
 
-Cuando la Comisión considere que las operaciones de alguna de las personas físicas o morales sujetas a inspección y vigilancia no estén realizadas en los términos de las disposiciones aplicables, o existan irregularidades de cualquier género, el Presidente de la Comisión, con acuerdo de la Junta de Gobierno cuando así proceda, dictará las medidas necesarias para normalizar la situación y señalará un plazo que no será mayor de 30 días para que la regularización se lleve a cabo.
+b) Comprobar la correcta conformación de los expedientes de cada solicitud, de acuerdo a la normatividad aplicable;
 
-Si transcurrido el plazo a que se refiere el párrafo anterior, la persona física o moral de que se trate no ha regularizado la situación, el Presidente de la Comisión podrá ordenar que se suspenda la ejecución de las operaciones contrarias a la ley o se proceda a la liquidación de las mismas, disponiendo si lo estima conveniente, la intervención a la persona física o moral de que se trate.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 39.
+c) Someter a consideración del Registrador Público la precalificación que realicen de la documentación presentada por los interesados, admitiendo, suspendiendo o denegando el acto en términos de ley;
 
-El procedimiento de intervención administrativa o con carácter de gerencia que decrete la Comisión se iniciará con la orden correspondiente, en oficio que contendrá los siguientes datos:
+d) Proponer la asignación del folio electrónico que corresponda a la solicitud de inscripción, en los términos que lo determinen los manuales de procedimientos, para el caso de las oficinas registra les automatizadas;
 
-I.- Lugar y Fecha de su expedición;
+e) Corresponsabilizarse de la legalidad y exactitud de los asientos que se practiquen y de las certificaciones que se expidan;
 
-II.- Persona física o moral a quien se dirija;
+f) Alimentar en el Sistema Informático con la información esencial del nuevo acto, capturando los campos previstos en las formas precodificadas; y
 
-III.- Motivos que la originan;
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-IV.- Acuerdo de la Junta de Gobierno;
+g) Crear el folio manual y someterlo a consideración del Registrador Público para su validación;
 
-V.- Disposiciones legales en que se funda;
+IV. Administrar el acervo registral, encontrándose dentro de esta función las siguientes actividades:
 
-VI.- En su caso, los objetivos que se señalen en el acuerdo correspondiente;
+a) Controlar, guardar y custodiar el acervo registral;
 
-VII.- En su caso, apercibimiento y otros aspectos que procedan;
+b) Recibir los libros e índices para su incorporación al archivo, así como aquella documentación que por su importancia deba resguardarse, haciendo diferencia entre el archivo registral que es exclusivo de las funciones del Registro y el archivo administrativo propio de cualquier función pública;
 
-VIII.- Nombre de la persona designada para practicar la intervención, y
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-IX.- Lugar o lugares en que habrá de practicarse.
+c) Mantener en un adecuado nivel de conservación el acervo registral, dando aviso oportuno, por escrito al Registrador Público de aquellos casos en que se requiera una intervención especializada para la salvaguarda de la integridad de la información y del libro;
 
-###### ARTICULO 40.
+d) Digitalizar los documentos conforme a los manuales de procedimientos en aquellas oficinas registrales que operen con el Sistema Informático;
 
-El interventor designado para practicar la intervención administrativa se entenderá con la persona a que se refiere el artículo 10 de este Reglamento, quien notificará y hará entrega del oficio a que se refiere el artículo anterior, levantando al efecto acta circunstanciada ante dos testigos que le sean propuestos por la persona antes señalada y, en caso de no hacerlo, por los que designe el propio interventor, pudiendo éste poner bajo custodia la documentación e información que estime necesaria.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-En el desempeño de su comisión, el interventor tendrá las atribuciones que al respecto le confiere la ley aplicable.
+e) Proporcionar el servicio de consulta, una vez satisfechos los requisitos exigidos para ello, y en estricto orden de recepción;
 
-###### ARTICULO 41.
+f) Llevar los inventarios actualizados del acervo registral que exista en la oficina registral; y
 
-La intervención con carácter de gerencia se llevará a cabo por el interventor gerente, ante dos testigos, con la persona mencionada en el primer párrafo del artículo anterior, a quien se notificará y hará entrega del oficio a que se refiere el artículo 39, lo que se hará constar en acta que al efecto se levante Los testigos serán designados por las personas sujetas a la intervención y ante su negativa, por los que designe el propio interventor gerente.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-El oficio que convenga el nombramiento de interventor gerente deberá inscribirse en el Registro Público de Comercio que corresponda al del domicilio de la intervenida, sin más requisitos que los contenidos en el mismo.
+V. Las demás que en materia de su competencia se establezcan en este reglamento, en los ordenamientos legales y normativos vigentes, acuerdos, decretos, circulares y convenios; así como, las que para el buen funcionamiento del Registro Público les encomienden el Subsecretario, el Director General y su superior jerárquico.
 
-En el desempeño de su comisión, el interventor gerente tendrá las atribuciones que al respecto le confiere la ley aplicable.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 42.
+###### ARTÍCULO 15.
 
-Cuando los objetivos de la intervención se hubieran satisfecho y las operaciones irregulares u otras contravenciones a la ley se hubieran corregido, la Comisión levantará la intervención, lo que comunicará por oficio al Director General, Director Gerente de la Institución o persona intervenida y al encargado del Registro Público de Comercio que haya hecho la anotación del nombramiento del interventor gerente, para los efectos de que se cancele la inscripción respectiva.
+Las funciones encomendadas a los servidores públicos del Registro se regirán por la Ley, este Reglamento, el Reglamento Interior del Instituto, los manuales de organización, de procedimientos y el sistema informático del Registro Público y demás ordenamientos que resulten aplicables, conduciéndose en cuanto a sus funciones sustantivas con base a los principios registrales de publicidad, inscripción, especialidad, fe pública registral, legitimación, consentimiento, tracto sucesivo, rogación, prelación y legalidad o calificación registral, definidos en la Ley.
 
-Cuando se levante la intervención con carácter de gerencia, ésta se deberá hacer constar en el acta de entrega circunstanciada en que comparecerán el interventor gerente, el Presidente del Consejo de Administración, el Director General, el Director o el Gerente, según el caso, y dos testigos que podrá designar el interventor gerente, en caso de que no lo hagan las demás personas señaladas en este artículo.
+Los servidores públicos del registro son responsables administrativa, civil y penalmente por las faltas administrativas, delitos, actos, conductas u omisiones en que incurran en el desempeño de sus funciones.
 
-## TITULO VI. DE LA INSPECCION, INTERVENCION Y CLAUSURA DE ESTABLECIMIENTOS QUE REALICEN ACTIVIDADES EN CONTRAVENCION A LAS LEYES
+#### SECCIÓN TERCERA. DE LOS IMPEDIMENTOS Y SUPLENCIAS
 
-### CAPITULO I. DE LAS DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 43.
+###### ARTÍCULO 16.
 
-Cuando la Comisión presuma que una persona física o moral esté realizando operaciones o servicios reservados a las instituciones de seguros, sociedades mutualistas de seguros e instituciones de fianzas, sin contar con la autorización para ello, podrá actuar en términos de lo previsto por las leyes aplicables y con sujeción a lo establecido por este Reglamento.
+En los casos en que un Registrador Público deba ausentarse consecutivamente por más de tres días hábiles pero no más de un mes, el Director como poseedor de la fe pública registral en el Estado, deberá efectuar de inmediato los actos registrales que correspondan en la Oficina Registral, pudiéndose delegar esta función al Subdirector de Control y Mejora de la Función Registral.
 
-###### ARTICULO 44.
+Si la ausencia se produce en una Oficina Registral en donde existan dos o más Registradores Públicos, el Director dictará las medidas para la distribución provisional de los asuntos.
 
-Cuando se desconozca el nombre de la persona con quien deba entenderse alguna de las diligencias previstas por este Título, en el oficio correspondiente se señalarán los datos suficientes que permitan su identificación.
+Si la ausencia de un Registrador Público excediera el plazo de un mes sea cual fuere la causa, se deberá nombrar un Registrador Público suplente.
 
-###### ARTICULO 45.
+###### ARTÍCULO 17.
 
-Si las personas a que se refiere el artículo 43, se oponen u obstaculizan el ejercicio de las facultades de la Comisión, ésta podrá solicitar el auxilio de la fuerza pública para hacer cumplir sus órdenes.
+Los servidores públicos registra les deberán excusarse por escrito de inscribir operaciones, en los casos siguientes:
 
-###### ARTICULO 46.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-La Comisión hará del conocimiento de la Secretaría de Hacienda y Crédito Público para los efectos que procedan, los resultados de las actuaciones que realice en los términos de lo dispuesto por este Título.
+I. En los negocios en los cuales tengan algún interés propio, de su cónyuge, concubinario o de parientes consanguíneos hasta en cuarto grado y afines dentro del segundo grado;
 
-###### ARTICULO 47.
+II. Sea representante legal bajo cualquier título o administre los bienes de alguna de las partes que intervienen en la operación; y
 
-Las demás disposiciones de este Reglamento serán aplicables, en lo conducente, a las materias previstas por este Título.
+III. Estar en alguna otra situación grave que pueda afectar su imparcialidad o exista conflicto de intereses.
 
-### CAPITULO II. DE LA INSPECCION
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
 
-###### ARTICULO 48.
+###### ARTÍCULO 18.
 
-La Comisión ordenará la inspección de la negociación, empresa o establecimiento de la persona física o moral de que se trate, mediante oficio que contenga los datos señalados por el artículo 39 fracciones I, II, V y VIII de este Reglamento.
+El Director calificará directamente aquellas solicitudes de registro, en las que los Registradores Públicos se excusen de ejercer su función por las razones señaladas en el artículo anterior. En los demás casos el superior jerárquico del servidor público determinará si la excusa puede afectar el cumplimiento de los fines del Registro, y en su caso dictará las medidas para evitarlo.
 
-###### ARTICULO 49.
+Los impedimentos o suplencias no afectarán los términos y plazos legales previstos para la prestación de los servicios públicos registrales.
 
-La inspección se practicará por los visitadores o inspectores y auxiliares necesarios que designe la Comisión debiendo revisar la contabilidad y demás documentación de la negociación, empresa o establecimiento de que se trate.
+### CAPÍTULO TERCERO. DE LA INSCRIPCIÓN
 
-### CAPITULO III. DE LA INTERVENCION ADMINISTRATIVA
+#### SECCIÓN PRIMERA. DEL SISTEMA DE FOLIO ELECTRÓNICO
 
-###### ARTICULO 50.
+###### ARTÍCULO 19.
 
-Verificada por el visitador o inspector la realización de los supuestos a que se refiere el artículo 43, procederá a levantar acta circunstanciada, ante dos testigos que le sean señalados por las personas a que alude el citado artículo y, en caso de negativa, por los que designe el visitador o inspector, en que esa situación se haga constar.
+El Sistema Informático integrado con la información que incorporan y validan los servidores públicos del Registro respecto a cada inscripción o anotación correspondiente a los folios electrónicos, contendrá un catálogo de folios relativo a los indicados en el artículo 35 de la Ley.
 
-En este caso, el Presidente de la Comisión, ordenará la intervención administrativa de la negociación, empresa o establecimiento de la persona física o moral de que se trate, y designará al interventor que la lleve a efecto hasta que las operaciones ilegales queden liquidadas, para lo cual tendrá las facultades indicadas en el artículo 40, segundo párrafo, de este Reglamento.
+###### ARTÍCULO 20.
 
-### CAPITULO IV. DE LA CLAUSURA
+Para evitar la duplicidad de folios, en cada oficina registral deberá existir un control interno emitido por el mismo Sistema Informático, que asegure una asignación única y consecutiva de los mismos.
 
-###### ARTICULO 51.
+###### ARTÍCULO 21.
 
-En caso de que la Comisión advierta que una persona física o moral utiliza en su nombre, denominación o establecimiento palabras reservadas a las instituciones y personas a que se refiere el artículo 1o. de este Reglamento, sin ser institución de seguros o fianzas, o en su caso, sin contar con la autorización respectiva, la apercibirá de que suprima las palabras, signos o marcas de que se trate.
+Cada folio contendrá las inscripciones, cancelaciones, anotaciones y demás actos registrales de que haya sido objeto la unidad registral, las cuales se registrarán de manera cronológica.
 
-En caso de que dicha persona no realice la supresión, el visitador o inspector procederá a remover las palabras, signos o marcas correspondientes y, de no ser esto posible, a clausurar administrativamente la negociación hasta que sean cambiados.
+###### ARTÍCULO 22.
 
-Realizado el cambio, se levantará la clausura administrativa, haciéndolo constar en el acta correspondiente.
+Las oficinas que inscriban en folios electrónicos contarán con Sistema Informático, libros apéndices e índice electrónico de propietarios.
 
-###### ARTICULO 52.
+###### ARTÍCULO 23.
 
-La clausura administrativa a que se refiere el artículo anterior, será ordenada por la Comisión en oficio que contenga los datos enumerados en el artículo 39 de este Reglamento, exceptuando el previsto en la fracción VI, y deberá notificarse y entenderse la diligencia con la persona mencionada en el primer párrafo del artículo 10.
+Se alimentará el Sistema Informático a través de las formas precodificadas autorizadas conforme a la ley que contendrán los datos de relevancia de cada operación.
 
-No será motivo para diferir la realización de la clausura administrativa, el hecho de que no esté presente el funcionario o persona a quien deba entregarse el oficio de notificación, caso en el que el visitador o inspector hará la notificación al funcionario o empleado de mayor jerarquía que esté presente o aquél con el que pueda comunicarse de inmediato.
+###### ARTÍCULO 24.
 
-###### ARTICULO 53.
+La materialización del folio es la asignación de un número progresivo a una unidad registral que se identifica a través de un antecedente registral o por un procedimiento del que se desprenda su inmatriculación en términos de ley, capturando en una forma precodificada la información relativa a la carátula de folio, así como los asientos vigentes que le correspondan.
 
-Las clausuras podrán ser ejecutadas en cualquier día y hora, aun cuando sean inhábiles.
+###### ARTÍCULO 25.
 
-###### ARTICULO 54.
+Los libros apéndices contendrán además de la copia certificada del título que se presente para su registro, la impresión de la boleta de inscripción. Asimismo en caso de rechazo, sea subsanable o no, se agregará al apéndice el original de la boleta para constancia y las formas precodificadas que correspondan al título.
 
-Toda clausura deberá hacerse constar en acta circunstanciada levantada ante la persona con quien se entienda la diligencia y ante dos testigos propuestos por éste, y en su negativa por los visitadores o inspectores, debiendo firmar dicha acta quienes intervengan en ella. Si la persona con quien se entiende la diligencia se niega a firmar, deberán hacerlo los demás participantes, haciéndose constar esa negativa. También se asentará el hecho de haber dejado copia de la misma al interesado a (sic) su representante.
+###### ARTÍCULO 26.
 
-###### ARTICULO 55.
+En forma adicional a la formación del libro apéndice, se digitalizará el título y su boleta de inscripción, para su almacenamiento en la base de datos del Sistema Informático.
 
-El visitador o inspector comisionado para la práctica de la clausura administrativa a que se refiere este Capítulo, estará facultado para dar los avisos de clausura del giro, a las autoridades administrativas locales y federales correspondientes para los efectos legales que procedan.
+#### SECCIÓN SEGUNDA. DEL SISTEMA MANUAL
 
-### CAPITULO II. DEL PROGRAMA DE VIGILANCIA Y SU EJECUCION
+###### ARTÍCULO 27.
 
-### CAPITULO I. DE LA CONTABILIDAD
+Los libros de folios deberán estar identificados según las distintas unidades básicas registrales a que se refiere el artículo 35 de la Ley.
 
-### CAPITULO II. DE LA PUBLICACION DEL ESTADO FINANCIERO ANUAL
+###### ARTÍCULO 28.
+
+Las oficinas con sistema de folios en formato manual deberán llevar:
+
+I. Libro de recepción, en el que se anota la referencia general sobre los documentos presentados ante la oficina registral;
+
+II. Libros de folios, que contendrán en forma cronológica la anotación de todos los asientos de los que haya sido objeto la unidad registral;
+
+III. Libros de inscripción, que serán:
+
+a) Libro Primero: Transmisiones de dominio;
+
+b) Libro Segundo: Gravámenes;
+
+c) Libro Tercero: Arrendamientos;
+
+d) Libro Cuarto: Resoluciones judiciales y administrativas;
+
+e) Libro Quinto: Personas jurídicas;
+
+f) Libro Sexto: Otros derechos patrimoniales de las personas físicas;
+
+g) Libro Séptimo: Bienes muebles; y
+
+h) Libro Octavo: Planes y programas de desarrollo.
+
+IV. Libro apéndice; y
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+V. Índice de propietarios que se organizará con el listado de sus nombres, el cual se ordenará alfabéticamente considerando la letra inicial del apellido paterno de cada titular, relacionándolo con su número de folio. Dicho índice deberá ser actualizado diariamente.
+
+###### ARTÍCULO 29.
+
+Carecerán de valor legal las inscripciones realizadas en libros que no estén autorizados en el artículo anterior, o en los previstos por las disposiciones de la materia vigentes al momento de realizar el registro.
+
+###### ARTÍCULO 30.
+
+Para la materialización del folio manual se requiere:
+
+I. Asignar el número de Folio que le corresponda de acuerdo al orden cronológico que determine el libro de folios;
+
+II. Especificar los antecedentes registrales, partida, foja, tomo y libro de la inscripción vigente;
+
+III. Ingresar los datos de identificación de la unidad básica de inscripción; y
+
+IV. Trasladar en orden cronológico los asientos contenidos en las partidas vigentes.
+
+El libro de folios se llevará cronológicamente y bajo ninguna circunstancia se dejarán espacios entre inscripciones o anotaciones, o entre números de folios.
+
+###### ARTÍCULO 31.
+
+Se formará un solo apéndice con las copias de los documentos registrados en los diversos folios y libros. Los tomos se formarán de acuerdo al orden cronológico de recepción de los títulos inscritos, debiendo constar en la inscripción el tomo del apéndice y las fojas al que fue remitido.
+
+###### ARTÍCULO 32.
+
+Los asientos que se generen en el libro correspondiente, contendrán lo siguiente:
+
+I. Número de partida, que será asignada por orden cronológico y reiniciará anualmente;
+
+II. Libro;
+
+III. Fecha de inscripción;
+
+IV. Número del recibo oficial del pago de derechos;
+
+V. Fecha y hora de pago de los derechos de registro;
+
+VI. Descripción del acto jurídico;
+
+VII. Datos de identificación del documento;
+
+VIII. Nombre de los otorgantes;
+
+IX. Objeto;
+
+X. Número de folio y, en su caso, antecedente registral;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+XI.- Sello de la Oficina, nombre y firma del Registrador Público, y
+
+XII. Las que expresamente señalen los ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 33.
+
+El Director presentará anualmente al Director General, un programa de la transición al sistema de folio electrónico, a efectuarse en las oficinas que operen bajo el sistema manual.
+
+#### SECCIÓN TERCERA. DE LA INSCRIPCIÓN EN FOLIOS REALES INMOBILIARIOS
+
+###### ARTÍCULO 34.
+
+El folio real inmobiliario se integra por:
+
+I. La primera sección, denominada Carátula del Folio, misma que contiene:
+
+a) Los antecedentes, que son los datos de la inscripción que dan origen al folio, o bien, los datos de inscripción de donde proviene;
+
+b) Identificación del predio, que incluye el número de folio, clave catastral, cuenta predial, así como el número de servicio de agua potable y el uso de suelo que corresponda al inmueble, si lo tuviere;
+
+c) Descripción, estableciendo las medidas y colindancias, superficie total del predio según el título; y
+
+d) Ubicación del predio, refiriendo calle, número interior y exterior, edificio, colonia o fraccionamiento, municipio, manzana y lote en su caso.
+
+II. La segunda sección, denominada Asientos del Folio, que contiene las inscripciones, anotaciones y cancelaciones relativas a la unidad registral.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+Será responsabilidad del Registrador Público verificar que sean actualizados los datos relativos a la carátula de folio, en cada operación que inscriba, con la información que se desprenda de los títulos.
+
+###### ARTÍCULO 35.
+
+Para los efectos del presente Reglamento se considera como un solo inmueble:
+
+I. El perteneciente a una sola persona;
+
+II. El perteneciente a varias personas en copropiedad;
+
+III. El edificado que, teniendo dos o varias vías de acceso, se identifique con números o letras diferentes pero constituya en su interior una unidad continua, y se encuentren bajo un mismo folio o partida; y
+
+IV. El edificado que perteneciendo a un mismo dueño tenga entradas diferentes para dar acceso a los departamentos altos y bajos, sin que se haya constituido el condominio.
+
+###### ARTÍCULO 36.
+
+No se considera como un solo inmueble:
+
+I. Los contiguos que, en virtud de diversas adquisiciones llegaren a pertenecer al mismo dueño, si cada uno tiene su propio folio; y
+
+II. Los sujetos al régimen de propiedad en condominio.
+
+###### ARTÍCULO 37.
+
+Cuándo se fusionen dos o más inmuebles para formar uno solo, se inhabilitará el folio o partida, conservándose en la oficina registral como antecedente, y se asignará un nuevo folio para el inmueble resultante a donde se trasladarán los asientos vigentes.
+
+De la misma manera se procederá cuando la unidad básica sea transferida a los folios de patrimonio inmobiliario público municipal, estatal y federal.
+
+En los folios de los inmuebles modificados por fusión o subdivisión, se harán constar las variantes producidas y el número de folio de los nuevos inmuebles que resultaren.
+
+Cuando se divida un inmueble, se asentarán como inmuebles nuevos, la parte o las partes resultantes asignándoles a cada una un nuevo folio, consignándose además las limitaciones de dominio que señale el documento.
+
+###### ARTÍCULO 38.
+
+Se considera agotada la partida o el folio real inmobiliario, cuando de la suma de las porciones enajenadas se desprenda que no subsiste superficie de la cual disponer.
+
+Se entenderá por superficie total, la que se encuentra asentada en la partida o folio respetando el tracto sucesivo que se desprende de los antecedentes del título.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 39.
+
+En caso de que los antecedentes registrales carezcan del dato relativo a la superficie, el titular registral podrá enmendar esta situación presentando una constancia emitida por la autoridad Catastral competente, en la que con base al antecedente registral, pueda determinarse esta información.
+
+###### ARTÍCULO 40.
+
+Se acompañarán a los títulos que contengan actos traslativos de dominio, copia certificada de lo siguiente:
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+I. El avalúo expedido por perito valuador, aunado a un informe de ubicación de inmueble ajustado a la normatividad que al respecto expida la autoridad Catastral competente, que contenga entre otros datos, la descripción gráfica del predio materia de la operación, estableciendo superficie, orientación, medidas y colindancias, así como la localización precisa con base a la cartografía del Instituto;
+
+II. Las boletas de pago o las constancias de estar al corriente del impuesto predial, así como de los servicios de limpia y agua potable, cuando proceda; y
+
+III. Los comprobantes de pago de derechos de inscripción, así como de las contribuciones originadas por la operación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 41.
+
+Se acompañarán a los títulos en los que se declare lo edificado:
+
+I. Copia certificada del alineamiento y número oficial;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+II. Oficio emitido por el Ayuntamiento, de liberación de obra o constancia de antigüedad de la construcción;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+III. Comprobante del pago de derechos del registro, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MAYO DE 2016)</small>
+
+IV. Constancia de actualización de características físicas del predio, expedida por la autoridad Catastral competente.
+
+###### ARTÍCULO 42.
+
+Se inscribirán los testimonios relativos a la constitución de régimen de propiedad en condominio, fraccionamientos y lotificaciones, siempre y cuando se acompañen copias certificadas de lo siguiente:
+
+I. Los planos aprobados por autoridad competente y los dictámenes de factibilidad aplicables al caso;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+II. Informe de ubicación del inmueble ajustado a la normatividad que al respecto expida la Dirección de Catastro, que contenga entre otros datos, la descripción gráfica del predio materia de la operación, estableciendo superficie, orientación, medidas y colindancias, así como la localización precisa con base a la cartografía de dicha dirección;
+
+III. La constancia de destino y uso de suelo;
+
+IV. Pago de derechos de inscripción; y
+
+V. Los documentos que señale la ley de la materia.
+
+El notario deberá acompañar la información relativa a la operación, en el formato digital que para el efecto proporcione la Dirección.
+
+###### ARTÍCULO 43.
+
+No podrá inscribirse ningún contrato privado traslativo de dominio, independientemente de su fecha de constitución, que no conste en escritura pública y que cuenten con antecedente registral, salvo el caso señalado por el artículo 2181 del Código Civil para el Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO 44.
+
+El título que contenga la compraventa a plazos a que hace referencia el artículo anterior, será inscrito si es acompañado de los siguientes requisitos:
+
+I. Se observe en el contrato lo indicado en el artículo 2181 del Código Civil para el Estado Libre y Soberano de Puebla;
+
+II. Se encuentre transcurriendo el plazo de pago;
+
+III. Se haya ratificado por todos los contratantes ante notario, acompañándose los documentos que acrediten su personalidad, en caso de comparecer por representación;
+
+IV. Se acompañen los pagos correspondientes de los impuestos que genere la operación, así como el pago de los derechos de inscripción;
+
+V. Que exista antecedente registral; y
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+VI. Que se haga acompañar de avalúo expedido por perito valuador, aunado a un informe de ubicación del inmueble ajustado a la normatividad que al respecto expida la Dirección de Catastro, que contenga entre otros datos, la descripción gráfica del predio materia de la operación, estableciendo superficie, orientación, medidas y colindancias, así como la localización precisa con base a la cartografía de dicha dirección.
+
+###### ARTÍCULO 45.
+
+Para la inscripción de contratos de arrendamiento se verificará el cumplimento de los siguientes requisitos:
+
+I. Se encuentre dentro de la duración del arrendamiento;
+
+II. Se haya ratificado ante notario por las partes en que intervengan, acompañando los documentos que acrediten su personalidad en caso de concurrir por representación;
+
+III. Se encuentre inserto correctamente en el contrato el antecedente registral; y
+
+IV. Se acompañe el comprobante de pago de derechos registrales.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 46.
+
+Las inscripciones relativas a la constitución de derechos de superficie, harán referencia expresa de los derechos de cada una de las partes. En los testimonios, en donde se haga constar esta operación, deberá contarse con el consentimiento del titular registral.
+
+###### ARTÍCULO 47.
+
+Los instrumentos en los que se haga constar la rectificación de medidas y colindancias, se inscribirán cuando se desprenda del folio o partida, que los linderos rectificados se encuentran dentro de los señalados en el antecedente.
+
+###### ARTÍCULO 48.
+
+En otras operaciones inmobiliarias no previstas en artículos anteriores, deberán presentar para su inscripción, la copia certificada del pago de derechos registrales, así como los requisitos que resulten exigibles conforme a otros ordenamientos legales.
+
+###### ARTÍCULO 49.
+
+Todo documento inscribible expresará, además de lo exigido por otros ordenamientos, lo siguiente:
+
+I. Los antecedentes de registro, así como la clave catastral y número de cuenta predial;
+
+II. La inserción del certificado de situación registral obtenido con motivo del primer aviso preventivo, y que contenga constancia de no afectación relativa a las declaratorias de provisiones, usos, reservas y destinos de áreas y predios conforme a la legislación urbanística o ecológica; y
+
+III. En caso de existir declaratorias inscritas, se consigne las cláusulas relativas a la limitación sobre la utilización de las áreas y predios, conforme a las propias declaratorias.
+
+#### SECCIÓN CUARTA. DE LA INSCRIPCIÓN EN OTROS FOLIOS
+
+###### ARTÍCULO 50.
+
+El folio de muebles se integra por:
+
+I. La primera sección, denominada Carátula del Folio, que contiene la información que permita identificar de manera indubitable el mueble registrado; y
+
+II. La segunda sección denominada Asientos del Folio, donde se anotarán los asientos de las inscripciones, cancelaciones, anotaciones y demás actos registrales de que ha sido objeto la unidad básica registral.
+
+###### ARTÍCULO 51.
+
+El folio de personas jurídicas civiles que se integra por dos secciones:
+
+I. En la Carátula del Folio contendrá la identificación de la persona jurídica, el nombre o razón social, permiso de la Secretaría de Relaciones Exteriores, Registro Federal de Contribuyentes si consta en el título, domicilio social, objeto social, fecha de constitución, capital social o patrimonio; y
+
+II. En los Asientos del Folio, se anotarán las inscripciones, cancelaciones, anotaciones y demás actos registrales de que ha sido objeto el folio, tales como:
+
+a) Constitución y modificaciones a la escritura constitutiva o estatutos, fusiones y escisiones;
+
+b) Cambios de domicilio social;
+
+c) Designación de representantes, administradores o apoderados, estipulando los nombres, cargos y facultades;
+
+d) Socios o asociados;
+
+e) Tratándose de fundaciones, se deberá asentar el número de folio o partida de los bienes que conforman el patrimonio, con independencia del registro que se realice en los folios reales inmobiliarios o mobiliarios; y
+
+f) Resolución aprobatoria de la constitución como fundación o asociación, sujeta a las leyes de asistencia privada.
+
+###### ARTÍCULO 52.
+
+El folio de otros derechos patrimoniales de personas físicas, se integra por dos secciones:
+
+I. En la Carátula del Folio contendrá la identificación de la persona física, estableciendo los datos para su distinción tales como nombre y Registro Federal de Contribuyentes si lo tuviere; y
+
+II. En la sección relativa a los Asientos del Folio, se registrará el objeto de la inscripción, tales como sociedades conyugales, capitulaciones matrimoniales, mandatos, poderes, o los demás casos previstos en el artículo 46 de la Ley del Registro Público de la Propiedad, así como las inscripciones, cancelaciones, anotaciones y demás actos registrales relativos a la persona física.
+
+###### ARTÍCULO 53.
+
+El folio de planes y programas de gobierno contendrá:
+
+I. Una primera sección denominada Carátula del Folio, misma que contendrá la denominación del plan, programa o declaratoria de que se trate, descripción del mismo, la autoridad emisora, la fecha de entrada en vigor y duración del mismo, y si se trata de un ordenamiento de carácter municipal, regional, estatal o nacional; y
+
+II. En una segunda sección, se inscribirán las adecuaciones, modificaciones, o cancelaciones que sufra el instrumento inscrito, en los términos que mediante oficio de solicitud de inscripción determine la autoridad emisora.
+
+###### ARTÍCULO 54.
+
+Corresponde a la autoridad responsable de la aprobación de los actos señalados en este Capítulo, la obligación de remitirlos para su inscripción a las oficinas registrales correspondientes.
+
+###### ARTÍCULO 55.
+
+La autoridad responsable de la aplicación del plan, programa o declaratoria, deberá facilitar la información sobre los inmuebles que sufran limitaciones de dominio, indicando los folios y cuentas catastrales de los mismos, así como la indicación de las normas o limitaciones urbanísticas aplicables a cada inmueble para el efecto de su inscripción individualizada en los folios reales inmobiliarios.
+
+En defecto de lo anterior, la oficina del Registro Público de la Propiedad respectiva se limitará a inscribir la existencia del plan, programa o declaratoria en su conjunto, indicando su ámbito de aplicación tal como esté descrito en el documento.
+
+###### ARTÍCULO 56.
+
+La autoridad responsable de la expedición de los instrumentos inscribibles en este folio, deberán:
+
+I. Remitirlos para su inscripción al Registro Público de la Propiedad dentro del término que señala la ley de la materia, o en su defecto dentro del plazo de quince días hábiles posteriores a su publicación en el Periódico Oficial del Estado; y
+
+II. Indicar las normas o limitaciones urbanísticas o ambientales aplicables a cada inmueble, cuando los tenga identificados por su folio.
+
+###### ARTÍCULO 57.
+
+Respecto a los planes que abarquen la circunscripción territorial de dos o más oficinas registrales, se presentará en cada una de ellas el ejemplar para su inscripción.
+
+###### ARTÍCULO 58.
+
+El folio del patrimonio inmobiliario público municipal, estatal y federal se integra por:
+
+I. La primera sección denominada Carátula del Folio, misma que contiene:
+
+a) Los antecedentes, que son los datos de la inscripción que dan origen al folio, o bien, los datos de inscripción de donde proviene;
+
+b) La indicación del acto de derecho público o privado del cual provenga su propiedad;
+
+c) Identificación del predio, que incluye el número de folio, clave catastral, cuenta predial si los tuviere;
+
+d) Descripción, estableciendo las medidas y colindancias, superficie total del predio, según el título;
+
+e) Ubicación del predio, refiriendo calle, número interior y exterior, edificio, colonia o fraccionamiento, municipio, código postal, manzana y lote en su caso; y
+
+f) Si se trata de un bien de dominio público o privado;
+
+II. La segunda sección denominada Asientos del Folio que contendrá las inscripciones, cancelaciones, anotaciones, acuerdos de incorporación o desincorporación, limitaciones previstas en los instrumentos urbanísticos o ecológicos federales, estatales o municipales.
+
+###### ARTÍCULO 59.
+
+El folio de notarías se integra por dos secciones:
+
+I. La Carátula del Folio contendrá los datos de identificación, como datos generales de los notarios titulares, auxiliares y suplentes, número de notaría pública y domicilio; y
+
+II. Los Asientos del Folio, donde se anotarán las inscripciones, cancelaciones, anotaciones y demás actos registrales de que ha sido objeto el folio, tales como:
+
+a) La firma y sello de los notarios públicos, conforme al último registro en el Archivo General de Notarías;
+
+b) Las garantías que dichos notarios públicos deben otorgar en forma previa al inicio de sus funciones, de conformidad con la ley;
+
+c) Las notificaciones que los notarios públicos deberán hacer al Registro en caso de pérdida o destrucción del sello;
+
+d) Los convenios de suplencia y los de asociación que los notarios públicos realicen entre sí de conformidad con la ley; y
+
+e) Los avisos de separación del cargo, defunciones y demás comunicaciones que les exija la ley.
+
+#### SECCIÓN QUINTA. DE LOS ASIENTOS REGISTRALES
+
+###### ARTÍCULO 60.
+
+Los asientos de inscripción deberán expresar las circunstancias siguientes:
+
+I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción a los cuales afecte el derecho que deba inscribirse; su medida de superficie, nombre, número si constare en el título, la clave catastral y cuenta predial, así como las referencias al registro anterior, en el caso de inscripciones inmobiliarias;
+
+II. El tipo de operación, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
+
+III. El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título;
+
+IV. Los nombres de las personas físicas o jurídicas a cuyo favor se realiza la inscripción de aquéllos de quienes procedan inmediatamente los derechos, cuando el titulo exprese nacionalidad, lugar de origen, estado civil y régimen matrimonial, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción;
+
+V. La descripción del derecho contenido en el titulo a inscribir;
+
+VI. La fecha del título, número si lo tuviere y, nombre del notario público o funcionario que lo haya autorizado;
+
+VII. Referencia sobre el recibo de pago de derechos registrales;
+
+VIII. El día y hora de la presentación del título en el Registro;
+
+VIX (SIC). El día y hora de la inscripción; y
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+X. Nombre y firma del Registrador Público.
+
+###### ARTÍCULO 61.
+
+El asiento de inscripción en folios reales inmobiliarios, en las oficinas que operen bajo el sistema informático, deberá contener los elementos determinados en las formas precodificadas, dentro de las que se encontrarán los puntos señalados en el artículo anterior.
+
+###### ARTÍCULO 62.
+
+La denominación del acto o derecho constituido se asentará con el nombre que se le dé en el título.
+
+###### ARTÍCULO 63.
+
+Cuando se trate de derechos, la inscripción deberá contener todos los datos que según el documento, los determine, grave o limite.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 64.
+
+Los nombres propios que deban figurar en la inscripción se consignarán literalmente según aparezca en el título respectivo, sin que esto permita al Registrador Público, modificar, añadir u omitir alguno, salvo resolución judicial, testimonio de rectificación u oficio aclaratorio de la autoridad solicitante.
+
+###### ARTÍCULO 65.
+
+Las inscripciones y anotaciones preventivas se llevarán en orden cronológico, no se emplearán abreviaturas y las cantidades deberán escribirse con letra.
+
+###### ARTÍCULO 66.
+
+Se entenderá por título inscribible, el documento material y el acto jurídico en él consignado, que reúna la formalidad que establece la ley.
+
+###### ARTÍCULO 67.
+
+No se deberá practicar ninguna inscripción o anotación si el título no es acompañado por la documentación que conforme a la Ley, este Reglamento y a los diversos ordenamientos legales aplicables, sea necesaria para su registro, o si los anexos son ilegibles o manifiesten alguna huella de alteración.
+
+###### ARTÍCULO 68.
+
+Los títulos inscribibles presentados en las oficinas registrales irán acompañados de copia certificada por el funcionario ante quien se celebró el acto, para ser agregada debidamente foliada al apéndice respectivo una vez inscrito.
+
+###### ARTÍCULO 69.
+
+En todo asiento se consignarán los datos relativos al pago de los derechos del servicio de inscripción, salvo aquéllos que fueran exentos.
+
+###### ARTÍCULO 70.
+
+En las oficinas registrales que operen con formato manual, los asientos se practicarán mediante numeración ordinal progresiva y se inscribirán con claridad, con tinta indeleble, utilizando el sistema que haya indicado la Dirección, sin que se permitan borraduras, correcciones o enmendadura.
+
+Cuando se advierta alguna equivocación antes de firmarse algún asiento, se procederá a su enmienda mediante un nuevo asiento, haciéndose mención del que se cancela.
+
+La firma que autorice el asiento se pondrá en el renglón inmediato al mismo.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 71.
+
+Después de firmado el asiento por el Registrador Público, de apreciarse que se hubiera cometido algún error material o de concepto, sólo podrán corregirse en la forma y términos previstos en la Ley.
+
+###### ARTÍCULO 72.
+
+En los sistemas manuales las anotaciones marginales ocuparán toda la extensión del margen, en el número de renglones que fueren necesarios; si en el último renglón quedare alguna parte en blanco, se llenará con una línea horizontal.
+
+###### ARTÍCULO 73.
+
+Se asentarán notas de relación de asientos cuando:
+
+I. De un antecedente registral se desprendan varios folios por división o fusión del inmueble;
+
+II. Cuando existan transferencias entre los catálogos de folios reales inmobiliario y folios de patrimonio público federal, estatal y municipal; y
+
+III. Por cualquier circunstancia, se detectara una aparente duplicidad de folios.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 74.
+
+Son notas de presentación aquellas anotaciones de las que se vale el Registrador Público para preservar la prelación de un título presentado para inscripción, hasta que conforme a la Ley quede firme la inscripción o el rechazo.
+
+###### ARTÍCULO 75.
+
+La anotación preventiva surtirá efectos respecto de cualquier adquirente del inmueble o derechos reales a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla y, en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
+
+###### ARTÍCULO 76.
+
+Salvo los casos en que la anotación cierre el registro o la posibilidad de inscripción, los bienes inmuebles o derechos reales en cuyos folios exista una anotación, podrán enajenarse o gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación existente.
+
+###### ARTÍCULO 77.
+
+(DEROGADO, P.O. 6 DE MAYO DE 2016)
+
+###### ARTÍCULO 78.
+
+Las anotaciones relativas a embargos o secuestro judicial, contendrán cuando menos, los siguientes datos:
+
+I. La denominación de la autoridad ordenante;
+
+II. El número de expediente del que provenga la orden;
+
+III. El nombre de la persona contra la que se dicta la medida;
+
+IV. El nombre de la persona a cuyo favor se constituye el aseguramiento;
+
+V. La causa que haya dado origen al mismo; y
+
+VI. El importe de la obligación.
+
+###### ARTÍCULO 79.
+
+Tratándose de hipotecas deberá asentarse la obligación garantizada, la fecha en que se podrá exigir su cumplimiento, el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado, los réditos que se causaren y la fecha en que deban correr.
+
+###### ARTÍCULO 80.
+
+Cuando se constituyan hipotecas sobre varios inmuebles, los asientos se practicarán determinándose, en su caso, el monto o porcentaje del adeudo que corresponde a cada uno.
+
+###### ARTÍCULO 81.
+
+Los asientos que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto o declaratoria respectiva, la de su publicación en el Periódico Oficial del Estado y el fin de utilidad pública que sirva de causa a la declaración.
+
+###### ARTÍCULO 82.
+
+Los asientos de las resoluciones judiciales que ordenen la suspensión provisional o definitiva emanada de un juicio de garantías, deberán contener:
+
+I. Juzgado o tribunal ordenador;
+
+II. Número de expediente, número y fecha de oficio en que se ordene la anotación;
+
+III. Nombre del quejoso;
+
+IV. Naturaleza y efectos de la suspensión;
+
+V. Acto reclamado;
+
+VI. Nombre del tercero perjudicado, si lo hubiere; y
+
+VII. La garantía otorgada para que surta efectos la suspensión.
+
+###### ARTÍCULO 83.
+
+Las anotaciones relativas a fianzas y contra fianzas, contendrán cuando menos los siguientes datos:
+
+I. La denominación de la autoridad que ordenó su otorgamiento, si fuera fianza judicial;
+
+II. El nombre de la persona que la otorga, o en su caso el nombre de la institución autorizada para expedirla;
+
+III. Nombre de la persona a cuyo favor se constituyó la fianza;
+
+IV. Finalidad y cuantía de la fianza; y
+
+V. Vigencia de la fianza otorgada.
+
+###### ARTÍCULO 84.
+
+Las anotaciones preventivas relativas a procedimientos judiciales, que realicen por mandamiento de autoridad competente contendrán:
+
+I. Autoridad remitente;
+
+II. Número de expediente;
+
+III. Naturaleza del procedimiento;
+
+IV. Acción deducida;
+
+V. Resolución a cumplimentar;
+
+VI. En su caso, suerte principal y accesorios legales; y
+
+VII. Indicaciones de los efectos de la inscripción.
+
+###### ARTÍCULO 85.
+
+Se procederá a la cancelación de anotaciones preventivas en forma previa a su caducidad, conforme a lo siguiente:
+
+I. Por manifestación ante notario de las partes interesadas en los títulos presentados ante el Registro y cuya inscripción haya sido denegada, suspendida o rechazada;
+
+II. Por resolución de la autoridad federal en procedimientos de amparo relacionados con bienes inscritos en el Registro;
+
+III. Por resolución de la autoridad ordenante o por solicitud ratificada ante notario de la persona a quien beneficia la inscripción de embargo o secuestro;
+
+IV. Las providencias hechas por autoridad competente que ordenen o prohíban la enajenación de bienes inmuebles o derechos reales, así como las fianzas legales o judiciales, se cancelarán por resolución de la autoridad ordenante; y
+
+V. Las declaratorias de utilidad pública podrán cancelarse sólo a solicitud de la autoridad que la remitió a su inscripción.
+
+###### ARTÍCULO 86.
+
+En términos del artículo 88 de la Ley, corresponde únicamente al notario que envió el primer aviso preventivo el solicitar su cancelación, cuando así se lo requieran las partes que ante él intervinieron para la proyección de la operación.
+
+###### ARTÍCULO 87.
+
+No procederá la cancelación de las inscripciones o anotaciones del segundo aviso preventivo, cuando provengan de actos traslativos de dominio, salvo resolución judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 88.
+
+Los Registradores Públicos podrán solicitar al Director la autorización de traslado de partida o folio real inmobiliario, sólo si la Oficina Registral a la que se pretende trasladar el folio es colindante a la suya y si es motivo de una petición del titular registral.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+El Director por su parte conocerá de dicha solicitud, pudiendo allegarse de los elementos necesarios para su valoración y en caso de considerarla procedente, notificará esta autorización al Registrador Público solicitante y al titular de la Oficina Registral que recibirá la partida o folio, debiendo enviarse para este efecto copia certificada de los antecedentes registrales para que se realicen los asientos conducentes de traslado, apertura y cierre de partida o folio.
+
+En caso de que no sea procedente el traslado de partida, el Director emitirá su determinación fundada y motivada, que se asentará en el folio o partida correspondiente.
+
+En todos los casos la determinación será notificada al titular registral.
+
+#### SECCIÓN SEXTA. DEL PROCESO DE INSCRIPCIÓN
+
+###### ARTÍCULO 89.
+
+El proceso para la inscripción tiene las siguientes fases:
+
+I. Recepción física o electrónica del título inscribible, la generación de la boleta de ingreso con el número de control progresivo correspondiente a cada solicitud;
+
+II. Análisis de la información y verificación de la existencia o inexistencia de antecedentes registrales, materialización de folio, captura de las fichas precodificadas relativas a los actos contenidos en el título, así como emisión de propuesta de calificación;
+
+III. Calificación del acto o derecho a registrar, mediante la cual se autoriza la inscripción, o bien se rechaza en forma subsanable o en definitiva la inscripción;
+
+IV. Autorización del asiento de inscripción y emisión de una boleta de inscripción o de rechazo;
+
+V. Incorporación del documento inscrito al libro apéndice y en su caso su digitalización e incorporación al Sistema Informático; y
+
+VI. Notificación del resultado del proceso de inscripción, entrega física de la boleta de inscripción o rechazo y del título presentado.
+
+###### ARTÍCULO 90.
+
+Los documentos susceptibles de registro deberán presentarse en la Oficialía de Partes, junto con la boleta de pago de derechos registra les y en su caso los anexos correspondientes, que integrarán un expediente provisorio para su calificación.
+
+###### ARTÍCULO 91.
+
+En las oficinas que operen en sistema manual, el personal de oficialía de partes admitirá a trámite los títulos franqueando el documento en el reloj checador que indicará la fecha, hora, minuto y segundo de presentación. En las oficinas que operen por sistema electrónico, se emitirá la boleta de ingreso.
+
+En el caso de que un mismo usuario presente distintos expedientes registrales se emitirá boleta de ingreso por cada expediente.
+
+###### ARTÍCULO 92.
+
+La boleta de ingreso contendrá:
+
+I. El número de entrada del documento por riguroso orden progresivo:
+
+II. La fecha, hora, minuto y segundo de presentación;
+
+III. La oficina registral ante la que se presenta; y
+
+IV. La referencia del título presentado para su inscripción.
+
+###### ARTÍCULO 93.
+
+La numeración de las boletas de ingreso se iniciará cada año del calendario sin que por ningún motivo esté permitido emplear el mismo número para documentos diversos, aun cuando éste se provea de alguna marca o signo distintivo.
+
+###### ARTÍCULO 94.
+
+Se entregará el ejemplar para el usuario de la boleta de ingreso, teniendo este documento el doble objeto de servir como prueba respecto al orden de prelación de los documentos presentados y como medio de control de los mismos, con las que el usuario podrá dar seguimiento a las distintas fases del procedimiento registral, y recibir los documentos presentados una vez concluido el proceso de inscripción.
+
+###### ARTÍCULO 95.
+
+El registro de la recepción del título se realizará en el Sistema Informático o en el libro de recepción si se lleva sistema manual, en los que se anotarán cronológicamente y por riguroso orden progresivo, los documentos que ingresen a la oficina registral.
+
+###### ARTÍCULO 96.
+
+Una vez registrada la recepción del título, remitirá a análisis el expediente al analista que el Sistema Informático designe, o en las oficinas que operen con el sistema manual, con los sistemas de distribución de trabajo que defina el manual de organización del Registro.
+
+###### ARTÍCULO 97.
+
+La fase de análisis incluirá las siguientes actividades:
+
+I. Verificación de la existencia del folio, y en caso de no existir, la materialización de éste;
+
+II. Revisión del título registral, en cuanto a los puntos señalados en el artículo siguiente;
+
+III. Captura en los campos de las formas precodificadas en las oficinas registrales que operen con el sistema informático;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+IV. Si el título reúne los requisitos para su inscripción, el analista procederá a realizar el asiento en el folio que corresponda y anotarán los datos de registro al final del documento original, el cual se turnará al Registrador Público para su calificación y en su caso, para la autorización del asiento;
+
+V. Si el expediente no reúne los requisitos para su inscripción, elaborará la propuesta de rechazo; y
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+VI. El analista entregará al Registrador Público su propuesta de inscripción o de rechazo, anexando la documentación respectiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 98.
+
+El Registrador Público calificará el título presentado a efecto de determinar si procede o no su registro con base a la información que se desprenda del título y antecedentes registrales respectivos, verificando que:
+
+I. Los antecedentes correspondan a la oficina registral y sean correctos;
+
+II. El documento presentado sea considerado de los registrables en los términos señalado por la Ley;
+
+III. El acto contenido reúna los requisitos formales exigidos por la Ley que regule su celebración;
+
+IV. Se hayan acompañado al título los anexos que correspondan;
+
+V. La información contenida en el documento a inscribir no sea contradictoria o confusa;
+
+VI. La información contenida en el título no sea contradictoria con la contenida en los asientos registrales;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+VII. Los derechos consignados en los títulos sean afectados por quienes tienen facultad para ello, habiéndose realizado la solicitud de inscripción a petición de parte interesada, mandato judicial o administrativo dirigido al Registrador Público en términos de la Ley;
+
+VIII. El título contenga la documentación que justifique la personalidad de los representantes, acreditando las facultades que le fueron conferidas para la celebración del acto;
+
+IX. La superficie, medidas y colindancias consignadas en el titulo no excedan a las amparadas por el folio o partida;
+
+X. Se individualicen los bienes del deudor sobre los que se constituye un derecho real, o se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado;
+
+XI. Obren agregados al título copias certificadas de los comprobantes de pago de impuestos y derechos;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+XII. Los pagos de derechos de inscripción fueron realizados conforme a las leyes hacendarias vigentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MAYO DE 2016)</small>
+
+XIII. La descripción del inmueble señalada en la constancia de actualización de características físicas del predio expedida por la autoridad Catastral competente, concuerde con el título y los anexos correspondientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE MAYO DE 2016)</small>
+
+XIV. Los que determinen otros ordenamientos legales como necesarios para su inscripción.
+
+###### ARTÍCULO 99.
+
+Se rechazará en forma definitiva la inscripción de los documentos que se presenten a la oficina registral cuando no se satisfagan los supuestos previstos en las fracciones I, II, III, V, VI, VII, IX y X del artículo anterior. El rechazo se hará constar por escrito debidamente fundado y motivado, y deberá ser notificado a los solicitantes en un término que no excederá de ocho días hábiles contados a partir del momento de la presentación del título para su inscripción.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 100.
+
+De no cubrirse lo dispuesto en las fracciones IV, VIII, XI, XII, XIII y XIV del artículo 98 de este Reglamento, el Registrador Púbico (sic), previa anotación rechazará provisionalmente el registro y lo notificará a los solicitantes concediéndoles el término de ocho días hábiles para subsanar los errores u omisiones del expediente; si éstos no fueren subsanados en dicho término quedará sin efectos prelatorios la anotación indicada, y en el caso de que sean subsanados adecuadamente se continuará con la fase de calificación.
+
+###### ARTÍCULO 101.
+
+Cuando un mismo título se refiera a diversos folios o actos, y proceda la negación del registro sólo en relación con alguno o algunos de ellos, los demás podrán asentarse a solicitud del interesado, haciendo referencia expresa a los que quedan excluidos y a los motivos que originaron esa exclusión.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 102.
+
+Si la inscripción del título resulta procedente, el Registrador Público practicará el asiento registral definitivo, en un término que no excederá de cinco días hábiles a partir de la calificación del título a inscribir, salvo lo dispuesto en el artículo 100 de este Reglamento.
+
+En las Oficinas Registrales que operen con sistema de folio electrónico, el Registrador Público autorizará mediante su firma electrónica, la inscripción en el folio que corresponda, firmando en forma autógrafa la boleta de inscripción y las formas precodificadas que hayan resultado de la inscripción.
+
+En las Oficinas Registrales que operen con sistema manual, el Registrador Público firmará la partida y asiento del libro del folio, así como la boleta de inscripción.
+
+###### ARTÍCULO 103.
+
+En los tirulos inscritos se hará constar una leyenda al calce de haberse efectuado el registro, la que además contendrá:
+
+I. Número de inscripción;
+
+II. El número de folio en que se efectuó la inscripción, y en su caso la partida correspondiente;
+
+III. Fecha de inscripción;
+
+IV. Fecha y hora en que fueron cubiertos los derechos correspondientes;
+
+V. Oficina registral; y
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+VI. Sello de la oficina, nombre y firma del Registrador Público.
+
+###### ARTÍCULO 104.
+
+Se notificará el resultado del proceso de inscripción mediante la lista de notificaciones que se coloque en el tablero de avisos de la oficina registral, y en el portal electrónico del Registro Público de la Propiedad, esto último para el caso de las oficinas registra les que operen por sistema de folios electrónicos.
+
+###### ARTÍCULO 105.
+
+El almacenamiento del respaldo de los títulos registrados se llevará mediante dos métodos:
+
+I. En las oficinas registrales que operen bajo el sistema manual se almacenará el soporte físico documental de las inscripciones junto con los títulos inscritos y las formas precodificadas que arroje la inscripción, en los diversos tomos de un solo libro apéndice, mismos que deberán encuadernarse conservándose el orden cronológico de su inscripción; y
+
+II. En las oficinas en donde opere el sistema de folio electrónico, además de formación del libro apéndice, se procederá a digitalizar el título, su boleta de inscripción y las formas precodificadas que arroje la inscripción, para su almacenamiento en la base de datos del Sistema Informático.
+
+###### ARTÍCULO 106.
+
+Con independencia del resultado de la inscripción, se devolverán el original de los títulos presentados contra entrega de la boleta de ingreso, enviando la copia certificada y el expediente al archivo.
+
+###### ARTÍCULO 107.
+
+La boleta de inscripción o la boleta de rechazo, junto con el original del título, se entregará en el área de oficialía de partes, procediendo a la entrega material del mismo al usuario que presente la boleta de ingreso, previa constancia de recibo.
+
+### CAPÍTULO CUARTO. DE LAS CERTIFICACIONES
+
+###### ARTÍCULO 108.
+
+Se podrán expedir certificaciones de:
+
+I. La inscripción o no inscripción de registro del objeto de una unidad registral;
+
+II. La situación registral de un determinado folio, incluyendo los datos que los identifique y los asientos vigentes en él contenidos;
+
+III. La situación registral de un bien mueble o inmueble, que podrá ser de libertad o existencia de gravámenes, que expresará los datos de identificación del bien, y las inscripciones y anotaciones que se encuentren vigentes;
+
+IV. La existencia de inscripción de posesión de bien mueble o inmuebles;
+
+V. Tener o carecer de bienes inscritos a nombre de determinada persona en dicha oficina registral; y
+
+VI. El contenido de los asientos y de los documentos que obren en sus archivos, así como de su inexistencia.
+
+###### ARTÍCULO 109.
+
+Cuando se solicite la certificación sobre si una persona física o jurídica específica tiene inscritos a su favor bienes inmuebles, se requerirá que a la solicitud se acompañe copia de la identificación oficial del solicitante y la manifestación de la finalidad que tiene su petición. Para la recepción del certificado el solicitante deberá presentar el original de la misma, identificación oficial que acompañó a su solicitud para cotejo ante el encargado de la entrega de los certificados.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 110.
+
+Cuando al expedir un certificado de situación registral exista en el Registro algún documento en proceso de inscripción o anotación, el Registrador Público procederá a realizar la calificación y registro pendiente, para posteriormente expedir la certificación. En caso de que por alguna circunstancia prevista en la Ley no pueda calificarse un título presentado, en la certificación que se expida se hará referencia a cada nota de presentación existente en el folio registral de que se trate.
+
+###### ARTÍCULO 111.
+
+El certificado establecerá la fecha, hora, minuto y segundo de su expedición, debiendo anotar el número de recibo de pago de derechos, o en su defecto, el fundamento de la exención de pago si procediere alguna.
+
+###### ARTÍCULO 112.
+
+La solicitud de expedición de certificación registral deberá:
+
+I. Presentarse por escrito;
+
+II. Adjuntar el comprobante del pago de derechos;
+
+III. Contener los datos que sean necesarios para la localización de los folios o partidas sobre los que deba versar la certificación;
+
+IV. Expresar el tipo de certificación que solicite; y
+
+V. De tratarse de inmuebles, señalar el nombre del titular registral o predio según corresponda, estableciendo ubicación, superficie, medidas y colindancias de tratarse de un inmueble, o la descripción inequívoca de un bien mueble.
+
+###### ARTÍCULO 113.
+
+A efecto de salvaguardar intereses de terceros, la solicitud de certificación de no inscripción deberá contener los requisitos y anexos que a continuación se especifican:
+
+I. Ubicación, superficie, medidas y colindancias del inmueble de que se trate;
+
+II. Denominación del predio en caso de que la tenga;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+III. Cédula catastral expedida por la autoridad Catastral competente, que contendrá las medidas y colindancias del inmueble, la denominación que reciba el predio si se contara con este dato, plano de ubicación, clave catastral, cuenta predial si la tuviera, fecha de registro, así como el plano de ubicación, y
+
+IV. Si existiera, la última boleta predial que señale la superficie del inmueble de que se trate.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 114.
+
+Teniendo todos los requisitos señalados en el artículo anterior, y en caso de no haber localizado el inmueble, el Registrador Público deberá expedir el certificado de no inscripción, que mencionará los datos de ubicación arrojados por la cédula de identificación catastral y los datos proporcionados por el usuario, determinando que con base a las búsquedas realizadas bajo esos parámetros se determina que el inmueble carece de antecedentes registrales en esa Oficina Registral.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 115.
+
+Si al realizar la búsqueda respectiva resultare que el inmueble objeto de la solicitud forma o pudiera formar parte de otro inmueble inscrito, o pudiera estar inscrito en otra Oficina Registral, el Registrador Público negará fundada y motivadamente la expedición de la certificación correspondiente.
+
+###### ARTÍCULO 116.
+
+En caso de que las solicitudes de los certificados a que refiere el presente Capitulo por parte de los particulares, o en las órdenes de las autoridades judiciales o administrativas, no se exprese con claridad y precisión la clase de certificado que se requiera, los folios, los bienes o personas, deberá suspenderse el trámite y se devolverán las solicitudes, requiriendo en su caso las aclaraciones pertinentes o que se aporten los datos necesarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 117.
+
+Las certificaciones deben expedirse en formas valoradas y estar autorizadas con la firma del Registrador Público, así como con el sello oficial de la Oficina Registral de que se trate, o bien por los medios electrónicos que garanticen la fidelidad de su contenido.
+
+Las certificaciones que se acompañen a informes requeridos por autoridad competente, se harán mediante oficio, asignándoles la formalidad del caso, previo pago que se realice por el interesado para su expedición.
+
+###### ARTÍCULO 118.
+
+Las certificaciones se expedirán a petición de parte, debiendo contener los siguientes elementos:
+
+I. La descripción, ubicación, medidas y colindancias del bien a que se refiere;
+
+II. El nombre del propietario;
+
+III. En su caso, la razón o denominación social de la persona moral a que corresponde;
+
+IV. El número de folio, en su caso partida;
+
+V. La fecha, la hora y el minuto de su expedición;
+
+VI. Todos los asientos existentes a la fecha y que no hubieran sido cancelados, que aparezcan durante el lapso solicitado; y
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+VII. El sello oficial y la firma del Registrador Público.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 119.
+
+Se expedirán copias certificadas de los títulos contenidos en el acervo registral, mismas que deberán ir numeradas, entreselladas y rubricadas por el Registrador Público, refiriendo en la razón de certificación, los datos relativos a las constancias de pago de los derechos.
+
+###### ARTÍCULO 120.
+
+Cuando se extraigan del acervo registral digitalizado, las impresiones a certificar, tendrán plenos efectos jurídicos y validez legal si están autenticadas conforme al artículo anterior, o están vinculadas a sello o firma electrónica.
+
+### CAPÍTULO QUINTO. DE LAS CONSULTAS
+
+###### ARTÍCULO 121.
+
+La consulta a los folios, índices y documentos de las oficinas registrales, podrá ser directa o remota.
+
+###### ARTÍCULO 122.
+
+La consulta de la información de los libros de las oficinas registrales podrá hacerse en las áreas de consulta de dichas oficinas.
+
+###### ARTÍCULO 123.
+
+En aquellas oficinas que operen con Sistema Informático, la consulta de los asientos se hará a través de terminales de cómputo, operadas por el personal del registro, que auxiliará al usuario en operar el sistema. El acervo podrá ser consultado a través de los libros físicos o mediante imágenes digitalizadas a través de las terminales de cómputo.
+
+###### ARTÍCULO 124.
+
+La consulta remota consistirá en el acceso para este objeto al Sistema Informático, desde las oficinas de personas, entidades o instituciones autorizadas, a través de medios electrónicos.
+
+###### ARTÍCULO 125.
+
+Pueden ser autorizados para realizar consultas remotas:
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
+
+I. Las Oficinas Registrales de las diversas entidades federativas;
+
+II. Los notarios, corredores y abogados;
+
+III. Las sedes locales, regionales y nacionales de organismos e instituciones privadas relacionadas con la actividad inmobiliaria, como cámaras, asociaciones, bancos e instituciones financieras;
+
+IV. Las instituciones, públicas y privadas, nacionales o extranjeras relacionadas con la actividad inmobiliaria del país;
+
+V. Las instituciones, públicas y privadas, dedicadas a la investigación, asesoría y capacitación en la materia inmobiliaria; y
+
+VI. Las demás instituciones, públicas y privadas, que convengan con la institución, el acceso a la información citada.
+
+### CAPÍTULO SEXTO. DE LAS NOTIFICACIONES
+
+###### ARTÍCULO 126.
+
+Las notificaciones que se realicen a los usuarios se efectuarán mediante boletín registral que se colocará en forma visible en el tablero de avisos de la oficina registral.
+
+En aquellas oficinas registrales que tengan operando el Sistema Informático, el boletín registral también será publicado en el portal electrónico del Registro, a efecto de que pueda ser consultado en forma remota.
+
+En estos casos se procurará que la fecha de la colocación del boletín registral en el tablero de avisos de la oficina registral y fecha en que sea publicado en el portal electrónico del Registro Público de la Propiedad, se produzcan el mismo día, sin embargo en caso de que no resulte así, la notificación surtirá efectos al día siguiente de la fecha que resulte más reciente.
+
+###### ARTÍCULO 127.
+
+Las notificaciones y comunicaciones a que se refiere el artículo que antecede, deben expresar cuando menos:
+
+I. El número de referencia del trámite o procedimiento;
+
+II. El nombre del interesado o los interesados;
+
+III. Fecha del acto o resolución a notificar; y
+
+IV. Sentido del acuerdo, trámite o resolución.
 
 ## TRANSITORIOS
 
-PRIMERO.- Este Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+PRIMERO. El presente Reglamento deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día quince de julio de dos mil nueve.
 
-SEGUNDO.- Se derogan, en lo relativo a seguros y fianzas, las disposiciones del Reglamento de la Comisión Nacional Bancaria y de Seguros en Materia de Inspección, Vigilancia y Contabilidad de fecha 16 de noviembre de 1988, publicado en el Diario Oficial de la Federación el 24 del mismo mes y año.
+SEGUNDO. Se abroga el Reglamento del Registro Público de la Propiedad expedido el veintiocho de enero de mil novecientos noventa y ocho, publicado en el Periódico Oficial del Estado el trece de febrero del mismo año.
 
-TERCERO.- Quedan en vigor las disposiciones contenidas en Circulares y Oficios Circulares emitidas por la Comisión Nacional Bancaria y de Seguros al amparo del Reglamento a que se refiere el artículo anterior, en cuanto no se opongan a lo previsto por este Reglamento y hasta en tanto no sean modificadas o suprimidas por las que al efecto deba dictar la Comisión.
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
 
-Dado en la residencia del Poder Ejecutivo Federal a los nueve días del mes de enero de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.
+CUARTO. Los procedimientos registrales iniciados con anterioridad a la vigencia de este ordenamiento, se substanciarán hasta su conclusión definitiva observándose las disposiciones legales vigentes al momento de su inicio.
+
+QUINTO. Las operaciones proyectadas con fecha anterior al inicio de vigencia del presente ordenamiento, se regirán por las disposiciones vigentes al momento de la solicitud del primer aviso preventivo.
+
+SEXTO. El Instituto de Catastro emitirá en un plazo que no exceda de ciento ochenta días naturales, la normatividad a la que se sujetará la expedición del informe de localización de inmueble.
+
+Dado en la residencia del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para efectos de lo establecido en el artículo 5 del Reglamento de la Ley, el Secretario de Finanzas y Administración, en un plazo no mayor a noventa días hábiles, a partir de la entrada en vigor del presente Decreto, deberá emitir los lineamientos para el funcionamiento del Consejo de Profesionalización del Servicio Público Registral y Catastral.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, se deberán concluir de acuerdo a la legislación vigente al momento de haberse iniciado el trámite.
