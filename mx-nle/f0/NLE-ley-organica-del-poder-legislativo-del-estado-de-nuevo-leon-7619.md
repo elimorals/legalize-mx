@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2016-04-22"
+last_updated: "2016-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,23 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de junio de 2001.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
-TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL CIUDADANO LIC. SOCRATES C. RIZZO GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+DECRETO NUM. 80
 
-LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-D E C R E T O No. 426
+## TITULO PRIMERO. DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-LEY DE PARTICIPACION CIUDADANA DEL ESTADO.
-
-## TITULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1°.
 
@@ -145,13 +141,13 @@ El cargo de Diputado Propietario o Suplente en ejercicio es incompatible con cua
 
 El Poder Legislativo del Estado de Nuevo León tendrá las atribuciones que para su integración, organización y funcionamiento establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, esta Ley y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
 ###### Artículo 5o.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el primero se abrirá el día 1° de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 1° de marzo y terminará el día 1° de junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el primero se abrirá el día 1° de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 1° de febrero y terminara el día 1° de mayo. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 6o.
 
@@ -159,7 +155,7 @@ El Congreso sesionará en el Recinto Oficial, pudiendo cambiar de lugar por acue
 
 En la sesión en que se someta a consideración dicho cambio, el Presidente de la Directiva constatará y así lo hará saber al Pleno que los Coordinadores de los Grupos Legislativos fueron informados con antelación del tema a tratar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 7o.
 
@@ -171,7 +167,7 @@ Para la Apertura de Sesiones podrá el Congreso del Estado convocar a invitados 
 
 Una vez hecha, por el Presidente de la nueva legislatura, la declaración Solemne de Apertura que establece el artículo 36 de esta Ley; el Presidente del Congreso podrá hacer uso de la palabra y conceder el uso a un Diputado de cada Partido representado en el Congreso, con el límite de tiempo que el Pleno del Congreso estime conveniente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 8o.
 
@@ -191,41 +187,35 @@ El Presidente del Congreso contestará el Informe de Gobierno en términos gener
 
 El Informe será analizado por el Congreso del Estado en sesiones subsecuentes, los Coordinadores de los diversos Grupos Legislativos, deberán suscribir un acuerdo legislativo para tal fin, en el que quedará estipulada la forma en que habrá de realizarse el análisis del Informe.
 
-###### ARTICULO 9º.
+###### Artículo 9o.
 
-A través del plebiscito, el Gobernador del Estado podrá consultar a los electores para que expresen su aprobación o rechazo previo a actos o decisiones del mismo, que a su juicio sean trascendentes para la vida pública del Estado.
+El Congreso sesionará con la concurrencia de más de la mitad de sus integrantes.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+###### Artículo 10.
 
-###### ARTICULO 10.
+Los. Diputados gozarán del fuero que confiere la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Nuevo León.
 
-Podrán solicitar al Gobernador del Estado que convoque a plebiscito, el 1% de los ciudadanos inscritos en el padrón electoral, quienes deberán anexar a su solicitud un listado con sus nombres, firmas y clave de su credencial de elector, cuyo cotejo realizará el Instituto Electoral de Tamaulipas.
+Gozarán de libertad absoluta para manifestarse y en consecuencia son inatacables por las opiniones que manifiesten en el desempeño de su encargo y no podrán ser reconvenidos o juzgados por ellas por autoridad alguna.
 
-###### ARTICULO 11.
+Tendrán la obligación de asistir a las sesiones, integrarse a las Comisiones, Comités y demás actividades legislativas que les encomiende el Pleno del Congreso.
 
-Toda solicitud del plebiscito deberá contener, por lo menos:
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por las faltas u omisiones en que incurran en el tiempo de su ejercicio, pero no podrán ser aprehendidos ni detenidos ni ejercitarse acción penal en su contra hasta concluído el procedimiento constitucional que decida su desafuero, la separación de su cargo y la sujeción a la acción de los Tribunales Comunes.
 
-I.- El acto o decisión de gobierno que se pretende someter a plebiscito;
+###### Artículo 11.
 
-II.- La exposición de los motivos y razones por las cuales el acto o decisión se considera de importancia trascendente para la vida pública del Estado y las razones por las cuales se considera que debe someterse a plebiscito; y
+El Recinto del Congreso es inviolable. Toda fuerza pública está impedida de tener acceso al mismo, salvo en las circunstancias en que el Presidente del Congreso lo determine, en cuyo caso la fuerza pública estará bajo su mando.
 
-III.- Cuando sea presentada por los ciudadanos, nombre, número de registro de elector y firma de los solicitantes.
+El Presidente del Congreso podrá solicitar el apoyo de la fuerza pública o solicitar el cumplimiento de la Ley para salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Recinto Legislativo.
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-No podrán someterse a plebiscito, los actos o decisiones del Gobernador del Estado relativos a:
+Ninguna autoridad podrá ejercer mandamiento judicial o administrativo sobre los bienes asignados al Congreso.
 
-I.- Materias de carácter tributario, fiscal y de egresos del Estado;
+Tampoco podrá cumplimentarse mandamiento judicial o administrativo sobre los bienes de los Diputados en el interior de las instalaciones del Congreso.
 
-II.- Régimen interno de la administración pública del Estado;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-III.- Actos cuya realización sea obligatoria en los términos de las leyes aplicables; y
-
-IV.- Los demás que determinen las leyes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
-
-### CAPITULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS HABITANTES
+### CAPITULO II. DEL COLEGIO ELECTORAL
 
 ###### ARTICULO 6°.
 
@@ -261,361 +251,691 @@ II.- Ejercer sus derechos sin perturbar el orden y la tranquilidad públicos; y
 
 III.- Las demás que establezcan las leyes.
 
-###### ARTICULO 13.
+###### Artículo 13.
 
-El Gobernador del Estado iniciará el procedimiento de plebiscito mediante convocatoria que deberá expedir cuando menos noventa días naturales antes de la fecha de realización de la misma. La convocatoria se hará del conocimiento del Instituto Electoral de Tamaulipas, con la finalidad de iniciar la organización del proceso plebiscitario, se publicará en el Periódico Oficial del Estado, en los principales diarios de circulación en la Entidad y en los medios de comunicación electrónica, y contendrá:
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-I.- La explicación clara y precisa de los efectos de la aprobación o rechazo del acto o decisión sometido a plebiscito;
+###### Artículo 14.
 
-II.- La fecha en que habrá de realizarse la votación; y
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-III.- La pregunta o preguntas conforme a las que los electores expresarán su aprobación o rechazo.
+###### Artículo 15.
 
-###### ARTICULO 14.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-El Gobernador del Estado podrá auxiliarse de los órganos locales de gobierno, instituciones de educación superior, o de organismos sociales y civiles relacionados con la materia de que trate el plebiscito, para la elaboración de las preguntas que se someterán a consulta.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-###### ARTICULO 15.
-
-En el año que tengan verificativo elecciones de Gobernador, Diputados al Congreso local, Ayuntamientos, Diputados Federales, Senadores o Presidente de la República no podrá realizarse plebiscito alguno durante el proceso electoral, ni durante los sesenta días posteriores a su conclusión.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
-
-### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
+### CAPITULO III. LA COMISION INSTALADORA DEL COLEGIO ELECTORAL
 
 ###### ARTÍCULO 9.
 
 El representante de la Secretaría de Finanzas en el Comité deberá asistir a sus sesiones y presentará por escrito el informe sobre si la obra solicitada cuenta con los recursos presupuestales necesarios para su realización.
 
-###### ARTICULO 16.
+###### Artículo 16.
 
-En los procesos de plebiscito sólo podrán participar los ciudadanos del Estado que cuenten con credencial de elector.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-El Instituto Electoral de Tamaulipas desarrollará los trabajos de organización, de la consulta y cómputo respectivo, declarando los efectos del plebiscito de conformidad con lo señalado en la convocatoria.
+###### Artículo 17.
 
-###### ARTICULO 17.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-Los resultados del plebiscito tendrán carácter vinculatorio para las acciones o decisiones del Gobernador del Estado sólo cuando una de las opciones obtenga la mayoría de la votación válidamente emitida y ésta corresponda cuando menos a la tercera parte de los ciudadanos inscritos en el padrón electoral del Estado.
+###### Artículo 18.
 
-###### ARTICULO 18.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-Los resultados del plebiscito se publicarán en el Periódico Oficial del Estado y en los diarios de mayor circulación en la Entidad, y se difundirán a través de los medios de comunicación electrónicos.
+### CAPITULO IV. DE LA CALIFICACION DE ELECCIONES
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+###### Artículo 19.
 
-### CAPITULO I. DEL PLEBISCITO
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTICULO 19.
+###### Artículo 20.
 
-El Instituto Electoral de Tamaulipas llevará a cabo el plebiscito y hará la declaratoria de sus efectos de conformidad con lo que disponga la ley aplicable.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTICULO 20.
+###### Artículo 21.
 
-Las controversias que se generen con motivo de la validez de los procesos de plebiscito serán resueltas por el Tribunal Estatal Electoral.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTICULO 21.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
-El referéndum es un mecanismo de participación directa mediante el cual la ciudadanía manifiesta su aprobación o rechazo previo a una decisión del Congreso del Estado sobre la creación, modificación, derogación o abrogación de leyes. La convocatoria deberá realizarse previamente al dictamen de las comisiones legislativas correspondientes.
+###### Artículo 22.
 
-###### ARTICULO 22.
+En el año de la Elección de Diputados Locales, la Diputación Permanente además de sus funciones, será el enlace con la siguiente Legislatura. El Congreso del Estado comunicará a la Comisión Estatal Electoral, la designación de la Diputación Permanente.
 
-Es facultad exclusiva del Congreso del Estado decidir, por acuerdo de las dos terceras partes de sus miembros, si somete o no a referéndum la aprobación del proyecto del ordenamiento legal en proceso de creación, modificación, derogación o abrogación.
+En el año de la elección del Titular del Poder Ejecutivo, el Pleno del Congreso, o en su caso la Diputación Permanente, dará a conocer en todo el Estado la Declaración de Gobernador Electo, de acuerdo a lo dispuesto por la fracción XV del Artículo 63 de la Constitución Política del Estado; misma que se mandará publicar en el Periódico Oficial del Estado y en los periódicos de mayor circulación en la entidad.
 
-###### ARTICULO 23.
+###### Artículo 23.
 
-Podrán solicitar al Congreso del Estado la realización del referéndum:
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-I.- Uno o varios Diputados al Congreso del Estado; y
+###### Artículo 24.
 
-II.- El 1% de los ciudadanos inscritos en el padrón electoral, quienes deberán anexar a su solicitud un listado con sus nombres, firmas y clave de su credencial de elector.
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-###### ARTICULO 24.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2014)</small>
 
-La solicitud a que se refiere el artículo anterior deberá contener, por lo menos:
+### CAPITULO V. DE LA CONSTITUCIÓN DE LA LEGISLATURA
 
-I.- La indicación precisa de la ley o, en su caso, del o los artículos que se proponen someter a referéndum;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-II.- Las razones por las cuales el ordenamiento o parte de su articulado deben someterse a la consideración de la ciudadanía previo a la decisión del órgano legislativo; y
+###### Artículo 25.
 
-III.- Cuando sea presentada por los ciudadanos, nombre, firma y clave de su credencial de elector.
+Una vez calificadas las elecciones de Diputados Electos con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las constancias respectivas expedidas por la autoridad electoral, la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, el día 31 de agosto del año de la elección a fin de (sic) se constituya la Legislatura.
 
-### CAPITULO II. DEL REFERENDUM
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-###### ARTICULO 25.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-El procedimiento de referéndum deberá iniciarse mediante convocatoria que se deberá expedir y difundir cuando menos noventa días naturales antes de la fecha de realización del mismo.
+###### Artículo 26.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+La Legislatura se constituirá con la mayoría de los Diputados Electos, bajo la Presidencia del Diputado que haya obtenido el mayor número de votos o en su defecto en el orden progresivo del número de votos, en dicha sesión se rendirá la protesta de ley, se hará la declaratoria de constitución de la Legislatura y también en dicha sesión se elegirá a la Directiva que fungirá durante el primer año de ejercicio constitucional.
 
-###### ARTICULO 26.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-La convocatoria a referéndum deberá hacerse del conocimiento del Instituto Electoral de Tamaulipas y deberá publicarse en el Periódico Oficial del Estado, en los principales diarios de circulación de la Entidad y en los medios de comunicación electrónicos, y contendrá:
+###### Artículo 27.
 
-I.- La fecha en que habrá de realizarse la votación;
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-II.- El formato mediante el cual se consultará a los ciudadanos;
+###### Artículo 28.
 
-III.- La indicación precisa del ordenamiento, el o los artículos que se propone someter al referéndum; y
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-IV.- El texto del ordenamiento legal que se pretende aprobar, modificar, reformar, derogar o abrogar, para el conocimiento previo de los ciudadanos.
+###### Artículo 29.
 
-###### ARTICULO 27.
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-No podrán someterse a referéndum aquellas leyes o artículos que traten sobre las siguientes materias:
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-I.- Tributaria, fiscal y egresos del Estado;
+###### Artículo 30.
 
-II.- Régimen interno de la administración pública del Estado;
+El mismo día 31 de agosto del año de la elección, los Diputados Electos celebrarán sesión en el Recinto del Congreso, en la que todos, rendirán su protesta. A ese respecto, todos de pie, el Diputado que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda rendirá su protesta al cargo, para lo cual dirá: “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN, Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO. SI NO LO HICIERE ASÍ, QUE LA NACIÓN Y EL ESTADO ME LO DEMANDEN”.
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-III.- Regulación interna del Congreso del Estado y de su Auditoría Superior del Estado;
+###### Artículo 31.
 
-IV.- Regulación interna de los órganos del Supremo Tribunal de Justicia del Estado; y
+Luego de rendir protesta el Diputado Electo que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda, tomará protesta a los demás Diputados Electos, para lo cual dirá: "¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE NUEVO LEÓN Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO?" . Los Diputados Electos contestarán: "SI PROTESTO", y quien les toma la protesta contestará: "SI NO LO HICIEREIS ASÍ QUE LA NACIÓN Y EL ESTADO OS LO DEMANDEN.
 
-V.- Las demás que determinen las leyes.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-###### ARTICULO 28.
+###### Artículo 32.
 
-En el año en que tengan verificativo elecciones de representantes populares, no podrá realizarse procedimiento de referéndum alguno durante el proceso electoral, ni durante los sesenta días posteriores a su conclusión.
+Cuando uno o más de los Diputados Electos se presentaren después de la protesta a que se refiere el artículo anterior, deberán rendirla a su vez en los términos indicados, sin cuyo requisito no podrán tomar posesión de su cargo. Dicha protesta deberá tomarse en la sesión del Pleno del Congreso más próxima, por el Presidente de la Directiva.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+## TITULO SEGUNDO
 
-###### ARTICULO 29.
+### CAPITULO UNICO. DE LA APERTURA DE SESIONES
 
-En los proceso (sic) de referéndum sólo podrán participar los ciudadanos del Estado que cuenten con credencial de elector.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-El Instituto Electoral de Tamaulipas desarrollará los trabajos de organización, consulta y cómputo respectivo y remitirá los resultados definitivos al Congreso del Estado.
+###### Artículo 33.
 
-###### ARTICULO 30.
+El día 31 de agosto del año de la elección, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vicepresidentes y dos Secretarios, quienes entrarán en desempeño de sus funciones a partir del día 1º de septiembre.
 
-Los resultados de referéndum no tendrán carácter vinculatorio para el Congreso del Estado y sus efectos solo servirán como elementos de valoración para la autoridad convocante. Los resultados del referéndum se publicarán en el Periódico Oficial del Estado y en los diarios de mayor circulación de la Entidad, y se difundirá a través de los medios de comunicación electrónicos.
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
 
-###### ARTICULO 31.
+###### Artículo 34.
 
-Las controversias que se generen con motivo de la validez del referéndum serán resueltas por el Tribunal Estatal Electoral.
+La Directiva comunicará la Constitución de la Legislatura y la conformación de la Directiva del Congreso, a los Poderes Ejecutivo y Judicial independientemente de que se haga por medio de oficio, así como a las demás autoridades.
 
-###### ARTICULO 32.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-La iniciativa popular es un mecanismo mediante el cual los ciudadanos del Estado podrán presentar al Congreso del Estado, proyectos de creación, modificación, reforma, derogación o abrogación de leyes respecto de materias de su competencia y que le corresponda a éste expedir.
+###### Artículo 35.
 
-## TITULO SEGUNDO. DE LOS HABITANTES Y CIUDADANOS DEL ESTADO
+Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 1º de septiembre, fecha en que se formulará el Decreto correspondiente.
 
-### CAPITULO III. DE LA INICIATIVA POPULAR
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-###### ARTICULO 33.
+###### Artículo 36.
 
-No podrán ser objeto de iniciativa popular las siguientes materias:
+El día 1º de septiembre de cada tres años, a las 11:00 horas, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne en la que una vez que tome posesión la Directiva de la nueva Legislatura, el Presidente hará la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 1º de septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional").
 
-I.- Tributaria, fiscal y de egresos del Estado;
+La misma declaratoria se hará en la apertura del segundo y tercer año.
 
-II.- Régimen interno de la administración pública del Estado;
+Si se tratara del período de excepción a que se refiere el segundo párrafo del artículo 55 de la Constitución Política del Estado se hará constar esta circunstancia.
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P. O. 21 DE NOVIEMBRE DE 1994)</small>
 
-III.- Regulación interna del Congreso del Estado y de su Auditoría Superior del Estado;
+En esta Sesión se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
 
-IV.- Regulación interna de los órganos del Supremo Tribunal de Justicia del Estado; y
+###### Artículo 37.
 
-V.- Las demás que determinen las leyes.
+Si por falta del quórum establecido en el Artículo 56 de la Constitución Política del Estado, el Congreso no queda instalado para la fecha indicada en el Artículo anterior, de conformidad con el Artículo 67 Constitucional, la Legislatura cuyo ejercicio termina, continuará en funciones hasta que deje instalada a la nueva.
 
-###### ARTICULO 34.
+###### Artículo 38.
 
-Una vez presentada la iniciativa popular ante la Mesa Directiva del Congreso del Estado, ésta la dará a conocer al Pleno y la turnará a una comisión especial, integrada por los diputados miembros de las comisiones competentes en la materia de la propuesta, misma que verificará los requisitos de procedibilidad de la iniciativa.
+Cuando se trate de iniciación de Período Extraordinario de Sesiones se hará la declaratoria conforme a tales circunstancias.
 
-###### ARTICULO 35.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Para que pueda ser admitida, para su estudio y dictamen, una iniciativa popular ante el Congreso del Estado se requiere que:
+###### Artículo 39.
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+En las sesiones solemnes del Congreso se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
 
-I. Quede fehacientemente comprobado, mediante los nombres, firmas y claves de las credenciales de elector de los promoventes que la iniciativa se encuentra apoyada por cuando menos el 0.13% de ciudadanos inscritos en la lista nominal del Estado, cuyo cotejo realizará el Instituto Electoral de Tamaulipas;
+En la Sesión Solemne en la que el Gobernador Constitucional del Estado haya de rendir el Informe a que se refiere el Artículo 57 de la Constitución Política del Estado, serán invitados los Magistrados del Tribunal Superior de Justicia, el Presidente Municipal de Monterrey, la Primera Autoridad Militar en el Estado y demás personas que se estime conveniente como invitados de honor.
 
-II.- Se presente escrito dirigido a la Mesa Directiva del Congreso del Estado;
+En estas sesiones, los representantes de los tres Poderes del Gobierno del Estado se ubicarán en el nivel superior del estrado.
 
-III.- Se especifique que se trata de una iniciativa popular;
+La Directiva podrá girar invitaciones a otras autoridades y ciudadanos para que asistan a estas sesiones.
 
-IV.- Se refiera a materias que sean de la competencia legislativa del Congreso del Estado;
+## TITULO TERCERO
 
-V.- Se presente con exposición de motivos, articulado, y cumpla con los principios básicos de técnica jurídica; y
+### CAPITULO I. DE LOS GRUPOS LEGISLATIVOS
 
-VI.- Los ciudadanos promoventes de la iniciativa hayan nombrado a un representante que deberá ser informado por el Congreso del Estado sobre el proceso de aceptación o rechazo de la misma.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
-###### ARTICULO 36.
+###### Artículo 40.
 
-La comisión especial verificará el cumplimiento de los requisitos a que se refiere el artículo anterior, y en caso de que no se cumplan desechará de plano la iniciativa presentada. La comisión especial deberá decidir sobre la admisión o rechazo de la iniciativa dentro de los 30 días hábiles siguientes a la fecha de su presentación.
+Podrán Constituir un Grupo Legislativo los Diputados que pertenezcan a un mismo Partido Político o aquellos que sean considerados como Diputados Independientes, para actuar de forma orgánica y coordinada en los trabajos del Congreso.
 
-###### ARTICULO 37.
+Los Diputados no podrán pertenecer a dos o más Grupos Legislativos; los que pertenezcan a un mismo partido o los que sean considerados Independientes, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
 
-Las controversias que se generen con motivo de la comprobación del número de ciudadanos que avalan la iniciativa popular serán resueltas de conformidad con lo dispuesto por la legislación electoral.
+Serán considerados como Diputados Independientes aquellos que hayan participado en el proceso electoral como Candidatos Independientes o aquellos que dejen de pertenecer al partido político que los postuló y se declaren independientes.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
-###### ARTICULO 38.
+###### Artículo 41.
 
-Una vez declarada la admisión de la iniciativa popular se someterá al proceso legislativo que señala la Ley sobre la Orgánización y Funcionamiento Internos del Congreso del Estado.
+Todos los Grupos Legislativos, con las excepciones previstas en esta Ley, y en el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, gozarán de idénticos derechos y obligaciones.
 
-###### ARTICULO 39.
+###### Artículo 42.
 
-El Congreso del Estado deberá informar por escrito al representante de los ciudadanos promoventes de la iniciativa popular el dictamen de la misma, señalando las causas y fundamentos jurídicos en los que se basa la decisión.
+Los Grupos Legislativos son organismos coadyuvantes del proceso legislativo y tienden a lograr la participación de los Diputados en las actividades legislativas y a contribuir y orientar la formación de criterios comunes en las deliberaciones y discusiones que se lleven a cabo, por los integrantes del Congreso en las Sesiones correspondientes.
 
-## TITULO TERCERO. DE LOS INSTRUMENTOS DE LA PARTICIPACION CIUDADANA
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
 
-### CAPITULO IV. DE LA CONSULTA VECINAL
+###### Artículo 43.
 
-###### ARTICULO 40.
+Para crear un Grupo Legislativo es requisito esencial que lo integren Diputados de igual afiliación partidista o ser Diputado Independiente. Se tendrán por legalmente constituidos cuando presenten a la Directiva del Congreso los documentos siguientes:
 
-No se admitirá iniciativa popular alguna que haya sido declarada improcedente o rechazada por el Congreso del Estado.
+I.- Acta en la que conste la decisión de los Diputados de constituirse en Grupo, especificando el nombre del mismo y agregando la lista de los integrantes.
 
-###### ARTICULO 41.
+II.- Nombre y firma del Diputado que resulte designado como Coordinador del Grupo Legislativo.
 
-Por conducto de la consulta vecinal, los vecinos de los Municipios territoriales podrán emitir acciones y formular propuestas de solución a problemas colectivos del lugar donde residan.
+En los casos en que un partido esté representado por un solo diputado, éste podrá integrar un Grupo Legislativo.
 
-###### ARTICULO 42.
+###### Artículo 44.
 
-La consulta vecinal podrá ser dirigida a:
+Los Grupos Legislativos en la segunda sesión del Primer Período Ordinario de Sesiones del primer año de ejercicio constitucional, harán entrega de la documentación a la que se refiere el artículo anterior. El Presidente hará en su caso la declaratoria de quedar constituído el Grupo de que se trate.
 
-I.- Los vecinos de una o varias colonias o barrios; y
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-II.- Los sectores industrial, comercial, de prestación de servicios o de bienestar social y demás grupos sociales organizados.
+###### Artículo 45.
 
-###### ARTICULO 43.
+Corresponde a los Coordinadores de los Grupos Legislativos:
 
-La consulta vecinal será convocada por los titulares de los Ayuntamientos, dependencias y órganos desconcentrados de la administración pública del Estado. En dicha convocatoria se expresará el objeto de la consulta, la fecha y el lugar de su realización por lo menos siete días naturales antes de la fecha establecida. La convocatoria impresa se colocará en lugares de mayor afluencia y se difundirá en los medios masivos de comunicación.
+I.- Ser integrantes de la Comisión de Coordinación y Régimen Interno; y
 
-###### ARTICULO 44.
+II.- Realizar tareas de coordinación y concertación con los Órganos de Dirección y de Trabajo de la Legislatura.
 
-La consulta vecinal podrá realizarse por medio de consulta directa, encuestas y otros medios. El procedimiento y la metodología que se utilicen se hará del conocimiento público.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 1999)</small>
 
-###### ARTICULO 45.
+###### Artículo 46.
 
-Las conclusiones de la consulta vecinal se difundirán en el ámbito en que haya sido realizada la misma. Los resultados de la consulta no tendrán carácter vinculatorio y serán elementos de juicio para el ejercicio de las funciones del convocante.
+Los integrantes de la Legislatura podrán formar nuevos Grupos Legislativos bajo las siguientes condiciones:
 
-###### ARTICULO 46.
+I.- Cuando un Partido Político cambie de denominación;
 
-Los vecinos de los Municipios podrán colaborar con el Ayuntamiento en que residan, en la ejecución de una acción de gobierno o en la prestación de un servicio en su ámbito de competencia, aportando para su realización recursos económicos, materiales o trabajo personal.
+II.- Cuando se disuelva un Grupo Legislativo; y
 
-###### ARTICULO 47.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
 
-Toda solicitud de colaboración vecinal deberá presentarse por escrito y deberá ir firmada por el o los vecinos solicitantes, o por el representante que estos designen, señalando su nombre y domicilio.
+III.- Cuando uno o más integrantes dejen de pertenecer a algún Partido Político y constituyan un Grupo Legislativo de Diputados Independientes, siempre y cuando éste no se haya integrado anteriormente.
 
-###### ARTICULO 48.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
-Las autoridades municipales resolverán sobre la procedencia de la colaboración vecinal y, de acuerdo con las disponibilidades financieras, podrá concurrir con recursos para coadyuvar en la ejecución de los actos que se realicen por colaboración vecinal. La autoridad tendrá un plazo no mayor de 30 días naturales para resolver la procedencia de la solicitud de colaboración vecinal.
+Sólo podrán formar Grupos Legislativos los Diputados cuyos partidos hayan participado en la elección y los Diputados Independientes. Aquellos que no se inscriban o dejen de pertenecer a un Grupo Legislativo, sin integrarse a otro existente, serán considerados como Diputados sin partido y tendrán las mismas consideraciones y prerrogativas que los demás Legisladores y se les apoyará de igual manera para que puedan desempeñar sus funciones.
 
-###### ARTICULO 49.
+###### Artículo 47.
 
-Los habitantes del Estado podrán presentar quejas o denuncias relativas a:
+Los Diputados que integran un Grupo Legislativo tomarán asiento en las curules que correspondan al Grupo de que forme parte.
 
-I.- La deficiencia en la prestación de servicios públicos a cargo de las autoridades de los Municipios, órganos desconcentrados y entidades de la administración pública del Estado.
+###### Artículo 48.
 
-II.- La irregularidad, negligencia o causas de responsabilidad administrativa en que incurran los servidores públicos de los Ayuntamientos y órganos desconcentrados de la administración pública del Estado en el ejercicio de sus funciones, las que se sujetarán a los trámites y procedimientos que establezca la ley de la materia.
+Los Grupos Legislativos dispondrán de locales adecuados en las instalaciones del Congreso, así como Asesores, Personal y elementos materiales necesarios para el cumplimiento de sus funciones de acuerdo con las posibilidades financieras del Congreso.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 49.
+
+Del presupuesto aprobado para la función legislativa se destinarán partidas de gastos para ser dispuestas por cada Grupo Legislativo proporcionalmente al número de Diputados que los integran y de acuerdo a la legislación y reglamentación aplicable y a los lineamientos que emita el Comité de Administración.
+
+Los Grupos Legislativos tendrán el derecho para administrar por sí mismos los recursos financieros que les sean asignados para el cumplimiento de la función legislativa.
+
+El Congreso del Estado abrirá una cuenta bancaria para cada Grupo Legislativo.
+
+La aplicación de los recursos financieros deberá justificarse cumpliendo siempre con las disposiciones administrativas internas de control del gasto que dicte la Tesorería del Congreso.
 
 ## TITULO CUARTO
 
-### CAPITULO V. DE LA COLABORACION VECINAL
+### CAPITULO I. ORGANIZACION DEL CONGRESO
 
-###### ARTICULO 50.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-En cada dependencia, Municipio, organismo y entidad de la administración pública del Estado, se establecerán unidades de recepción de quejas y denuncias, y se difundirá ampliamente su ubicación.
+###### Artículo 50.
 
-###### ARTICULO 51.
+Para la realización de sus atribuciones, el Congreso del Estado cuenta con los siguientes órganos:
 
-En las quejas y denuncias que se presenten deberá expresarse el nombre y domicilio del quejoso o denunciante.
+I.- Legislativos:
 
-### CAPITULO VI. DE LAS UNIDADES DE QUEJAS Y DENUNCIAS
+a) De Decisión:
 
-###### ARTICULO 52.
+1. Pleno del Congreso; y
 
-La autoridad receptora informará por escrito del trámite y solución de las quejas y denuncias presentadas.
+2. Diputación Permanente;
 
-###### ARTICULO 53.
+b) De Dirección:
 
-En el caso de que el asunto planteado no sea competencia de la autoridad receptora, el quejoso o denunciante será informado del trámite a realizar y de la autoridad a la que deberá acudir en su caso.
+1. Directiva; y
 
-###### ARTICULO 54.
+2. Comisión de Coordinación y Régimen Interno;
 
-Para los efectos de esta ley, los anónimos no tendrán carácter de queja o denuncia, sin embargo el contenido de los mismos podrá ser investigado por el Municipio o la autoridad competente de la administración pública estatal.
+c) De Trabajo Legislativo:
 
-###### ARTICULO 55.
+1. Comisiones; y
 
-Los Municipios, dependencias y entidades de las (sic) administración pública estatal procurarán prevenir la incidencia de quejas y denuncias relacionadas con la deficiencia e irregularidad de la prestación de servicios públicos o con los avances en la ejecución de obras. Para tal efecto realizará supervisiones periódicas tendientes a subsanar las posibles deficiencias o irregularidades.
+2. Comités;
 
-###### ARTICULO 56.
+II.- De Soporte Técnico:
 
-Las unidades receptoras de quejas y denuncias de la administración pública del Estado, deberán canalizarlas a la Contraloría Gubernamental, según sea el caso, para su seguimiento y solución, sin perjuicio de que los ciudadanos puedan presentar directamente sus quejas y denuncias ante estas.
+a) Oficialía Mayor;
 
-###### ARTICULO 57.
+b) Tesorería;
 
-El Gobierno del Estado instrumentará, de manera permanente, un programa de difusión pública acerca de las leyes y decretos que emita el Congreso de la Unión en las materias relativas al Estado y de las que emita el Congreso local, así como introducción de obra pública, y prestación de servicios públicos, a efecto de que los habitantes del Estado se encuentren debidamente informados.
+c) (DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-###### ARTICULO 58.
+d) Centro de Estudios Legislativos;
 
-Por medio de esta instancia se difundirán los actos administrativos de carácter general que expida el Gobernador del Estado.
+III.- De Apoyo:
 
-###### ARTICULO 59.
+a) Dirección de Comunicación Social;
 
-Mediante la difusión pública el Presidente Municipal comunicará a los vecinos del mismo la realización de obras públicas, prestación de servicios públicos, así como las modalidades y condiciones conforme a las cuales se prestan éstos y las unidades de quejas y denuncias del propio Municipio.
+b) Dirección de Informática;
 
-En las obras que impliquen a más de un Municipio, así como las que sean del interés del todo el Estado, la difusión se hará coordinadamente entre los Municipios y el Gobierno del Estado.
+c) Coordinación de Seguridad; y
 
-###### ARTICULO 60.
+d) Unidad de Adquisiciones.
 
-Las comunicaciones que hagan las autoridades municipales conforme a esta ley, no tendrán efectos de notificación para ningún procedimiento.
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-La difusión se hará a través de los medios informativos idóneos que permitan a los habitantes del Municipio el conocimiento de la materia objeto de la misma.
+IV. Órgano Auxiliar del Congreso:
 
-### CAPITULO VII. DE LA DIFUSION PUBLICA
+a) Auditoría Superior del Estado.
 
-###### ARTICULO 61.
+###### Artículo 51.
 
-En la realización de actos, obras o servicios públicos en una zona determinada, que implique una afectación al desarrollo normal de las actividades de los vecinos de la misma, se informará adecuadamente mediante avisos y señalamientos con la anticipación debida.
+La organización y funcionamiento del Congreso por lo que corresponde a Debates, Sesiones, Iniciativas, Votaciones, Ceremonial, Procedimientos para expedición de Leyes, Decretos y Acuerdos y demás atribuciones del proceso legislativo previstas en las leyes correspondientes, se regulará por el Reglamento para el Gobierno Interior del Congreso.
 
-###### ARTICULO 62.
+### CAPITULO II. DE LA DIRECTIVA
 
-Las dudas, observaciones y comentarios que los vecinos formulen por escrito sobre la información que les sea de interés, serán siempre contestados de la misma manera por la autoridad correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
-###### ARTICULO 63.
+###### Artículo 52.
 
-La audiencia pública es un mecanismo de participación ciudadana por medio de la cual los vecinos podrán:
+La Directiva es el órgano de dirección del Pleno del Congreso. Es responsable de la conducción de las sesiones del Pleno del Poder Legislativo, tiene las atribuciones señaladas en la presente Ley y en el Reglamento para el Gobierno Interior del Congreso. Se integra por un Presidente, que será el Presidente del Congreso, dos Vicepresidentes y dos Secretarios. La Presidencia del Congreso será rotativa entre los Grupos Legislativos, de acuerdo a su representación en el mismo. El primer año de ejercicio constitucional la ocupará un diputado del Grupo Legislativo de mayoría absoluta o de mayoría, el segundo año de ejercicio constitucional un diputado del Grupo Legislativo que sea la primera minoría, y el tercer año de ejercicio constitucional un diputado del Grupo Legislativo que sea la segunda minoría. En cada caso, uno de los Vicepresidentes y uno de los Secretarios deberán pertenecer a Grupos Legislativos distintos al del diputado que ocupe la Presidencia. Los integrantes de la Directiva durarán un año en el cargo.
 
-I.- Proponer al Ayuntamiento en el que estén avecindados, la adopción de determinados acuerdos o la realización de ciertos actos; y
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Recibir información con relación a determinadas actuaciones, siempre que sean competencia del Ayuntamiento en el que están avecindados.
+La Directiva se renovará en la primera sesión de cada año de ejercicio constitucional, pudiéndose hacer la designación en la última sesión del ejercicio anterior. La composición de la Directiva será plural. La Comisión de Coordinación y Régimen Interno hará las propuestas de quienes deberán integrarla, sin menoscabo del derecho que tiene cualquier Diputado para hacer alguna propuesta al respecto. La elección de los integrantes de la Directiva se hará por mayoría, mediante voto secreto y cédula. En caso de empate, la Comisión de Coordinación y Régimen Interno hará una nueva propuesta y las que sean necesarias, hasta conseguir la mayoría requerida.
 
-###### ARTICULO 64.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-La audiencia pública podrán solicitarla:
+Para cubrir las ausencias del Presidente del Congreso se atenderá lo dispuesto en el Artículo 21 del Reglamento para el Gobierno Interior del Congreso. En los casos de los demás integrantes de este órgano de dirección se procederá en base a lo dispuesto en los Artículos 27 y 29 del mismo Reglamento.
 
-I.- Los representantes de elección popular electos en el Estado; y
+###### Artículo 53.
 
-II.- Representantes de los sectores que concurran en el Municipio en el desarrollo de actividades industriales, comerciales, de prestación de servicios, de bienestar social, ecológicos y demás grupos sociales organizados.
+Se expedirá Decreto en el que conste el nombramiento de los integrantes de la Directiva del Congreso del Estado el que se enviará al Ejecutivo para su publicación en el Periódico Oficial y demás efectos legales.
+
+Por oficio se comunicará al Ejecutivo y al Poder Judicial del Estado y además a las Autoridades de los Estados y de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 54.
+
+La Directiva tiene las siguientes atribuciones:
+
+I.- Integrarse como un cuerpo coordinador de los trabajos del Pleno del Congreso;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+II.- Conducir las sesiones del Congreso y garantizar el adecuado desarrollo de los debates, discusiones y votaciones del Pleno;
+
+III.- Cuidar que las deliberaciones se den con absoluta libertad en la Tribuna del Congreso;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+IV.- Formular, someter a la aprobación del Pleno del Congreso y cumplir, el orden del día para las sesiones;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+V.- Vigilar que el desarrollo de las sesiones y los actos emanados de las mismas, se encuentren apegados a esta Ley, al Reglamento para el Gobierno Interior del Congreso y a las demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+VI.- Designar las comisiones de cortesía que juzgue pertinentes; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+VII.- Las demás que le atribuyen esta Ley, el Reglamento para el Gobierno Interior y otras disposiciones legales aplicables.
+
+###### Artículo 55.
+
+El ejercicio de las atribuciones del Congreso que no correspondan específicamente a la Directiva o a otro de los órganos del Congreso en particular, serán competencia de quien el Pleno determine.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 56.
+
+Al llegar al término de su cargo los integrantes de la Directiva rendirán al Pleno del Congreso, a través del Presidente, un informe por escrito de todas las actividades realizadas en el ejercicio de sus funciones, entregando copia del mismo a cada uno de los Diputados que integran la Legislatura.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
+###### Artículo 57.
+
+Cuando se celebre Período Extraordinario de Sesiones, la Directiva en funciones será la que haya sido electa en términos del artículo 52 de esta Ley para el año que corresponda.
+
+###### Artículo 58.
+
+La Directiva a través del Presidente, hará respetar el fuero constitucional de los miembros integrantes del Congreso, en los términos que señala la Constitución, y velará también por la inviolabilidad del recinto legislativo.
+
+###### Artículo 59.
+
+Los actos de los integrantes de la directiva, ejecutados en contra de la Ley serán nulos de pleno derecho.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 60.
+
+Son atribuciones de los integrantes de la Directiva las siguientes:
+
+I.- Del Presidente:
+
+a) Ser el Presidente del Congreso durante el período para el que haya sido electo;
+
+b) Hacer respetar el fuero constitucional de los Diputados y velar por la inviolabilidad del Recinto Legislativo;
+
+c) Representar al Poder Legislativo en los asuntos de carácter legal y protocolario, pudiendo delegar dicha representación de acuerdo a lo dispuesto en el Reglamento para el Gobierno Interior del Congreso del Estado;
+
+d) Dar respuesta al informe que rinda el Gobernador al Congreso, en los términos señalados en el artículo 57 de la Constitución Política del Estado.
+
+e) Conducir las relaciones institucionales con los otros dos Poderes del Estado, con los órganos estatales constitucionalmente dotados de autonomía, con las Cámaras de Diputados y Senadores del Congreso de la Unión y con las Legislaturas de los estados de la República;
+
+f) Llevar a cabo, a través de la Oficialía Mayor, las notificaciones que determine por sí o que acuerde el Pleno del Congreso;
+
+g) Conceder el uso de la palabra, dirigir los debates, discusiones y deliberaciones, así como ordenar se proceda a las votaciones y formular la declaratoria correspondiente;
+
+h) Firmar junto con los Secretarios las leyes, decretos y acuerdos que expida el Congreso;
+
+i) Convocar a las reuniones de la Directiva del Congreso;
+
+j) Ordenar lo conducente para cumplimentar lo dispuesto en el artículo 63 de la Constitución Política del Estado;
+
+k) Hacer del conocimiento del Pleno del Congreso, en sesión pública y al final de cada Período de Sesiones, la asistencia e inasistencia de cada uno de los integrantes de la Legislatura a las sesiones del Pleno, de las Comisiones y de los Comités de que formen parte; y
+
+l) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+
+II.- De los Vicepresidentes:
+
+a) Asistir al Presidente de la Directiva en el ejercicio de sus funciones;
+
+b) Sustituirlo en la conducción de las sesiones de acuerdo a lo dispuesto en el artículo 21 del Reglamento para el Gobierno Interior del Congreso; y
+
+c) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+
+III.- De los Secretarios, por su orden:
+
+a) Asistir al Presidente de la Directiva en las funciones relacionadas con la conducción de las sesiones del Pleno;
+
+b) Comprobar el quórum de las sesiones del Pleno, llevar a cabo el cómputo y registro de las votaciones y dar a conocer el resultado de éstas;
+
+c) Previo acuerdo con el Presidente, dar cuenta a la Asamblea de los asuntos en cartera;
+
+d) Expedir las certificaciones que disponga el Presidente del Congreso; y
+
+e) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+
+IV.- De los Secretarios, en forma conjunta e independientemente de su orden:
+
+a) Cuidar de que circulen con toda oportunidad entre los Diputados, los dictámenes de las Comisiones y las iniciativas que los motiven, debiendo remitir ejemplares de los dictámenes a los Poderes Ejecutivo y Judicial, cuando así se considere pertinente;
+
+b) Supervisar la formulación de las actas de cada sesión, vigilar que sean sometidas a consideración del Pleno, firmarlas con el Presidente una vez que hayan sido aprobadas y turnarlas a la Oficialía Mayor para su archivo;
+
+c) Asegurarse de que se elabore el Diario de Debates y firmarlo;
+
+d) Firmar, junto con el Presidente, las leyes, decretos y acuerdos expedidos por el Congreso;
+
+e) Firmar la correspondencia oficial del Congreso; y
+
+f) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 60 BIS.- Los integrantes de la Directiva podrán ser removidos de sus cargos por incumplimiento de sus atribuciones, siendo necesario para tal efecto el voto de la mayoría simple de los Diputados presentes en la sesión y la audiencia del interesado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO III. LA COMISION DE COORDINACION Y REGIMEN INTERNO
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 61.
+
+La Comisión de Coordinación y Régimen Interno es el órgano colegiado encargado de dirigir la administración operativa del Congreso, así como de promover entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdos para que el Pleno del Congreso esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+
+La Comisión de Coordinación y Régimen Interno tiene las atribuciones que le señala la presente Ley y el Reglamento para el Gobierno Interior del Congreso del Estado. Se compondrá por un Presidente, un Vicepresidente, un Secretario y los Vocales que resulten de su integración.
+
+Para efectos de la integración de esta Comisión se tendrá como denominaciones de los Grupos Legislativos las siguientes:
+
+I.- Grupo Legislativo de mayoría absoluta: El que esté integrado por al menos, la mitad más uno de los Diputados de la Legislatura;
+
+II.- Grupo Legislativo de mayoría: El Grupo Legislativo que sin estar comprendido en el supuesto de la fracción anterior, esté integrado por más Diputados que cualquier otro Grupo Legislativo en la Legislatura; y,
+
+III.- Primer minoría, segunda minoría, tercer minoría, y subsecuentes: Los Grupos Legislativos que después del Grupo Legislativo de mayoría absoluta o del de mayoría, tengan mayor cantidad de integrantes, en orden decreciente, respectivamente.
+
+Con el único efecto de integrar, organizar y dar funcionalidad a la Comisión de Coordinación y Régimen Interno, si dos o más Grupos Legislativos tienen el mismo número de Diputados, la referencia para la denominación correspondiente será, la cantidad de votos obtenidos por el conjunto de integrantes de cada Grupo Legislativo que se encuentre en la situación de empate, en las elecciones constitucionales en que fueron electos. Fuera de esta Comisión y frente a cualquier instancia, en caso de empate, la denominación atenderá al número de Diputados que componen cada Grupo Legislativo, reflejando fielmente su representación real en el Congreso, pudiendo en consecuencia, existir dos o más Grupos Legislativos bajo la misma denominación, sin menoscabo del nombre correspondiente al origen partidista de sus miembros en los términos del artículo 40 de esta Ley.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 62.
+
+La integración de la Comisión de Coordinación y Régimen Interno se basa en los principios de democracia y pluralidad, así como en la representatividad que cada Grupo Legislativo tiene en el Congreso del Estado.
+
+La integración de la Comisión de Coordinación y Régimen Interno se regirá de acuerdo a las siguientes normas:
+
+I.- Si un Grupo Legislativo tiene mayoría absoluta en la Legislatura:
+
+a) Forman parte de esta Comisión:
+
+1. Los Coordinadores de los Grupos Legislativos constituidos en el Congreso;
+
+2. Los Diputados que sean necesarios para garantizar que el Grupo Legislativo de mayoría absoluta esté representado con la mitad más uno de los integrantes de esta Comisión. Estos Diputados serán designados por acuerdo de su Grupo Legislativo; y
+
+3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
+
+b) Los cargos en la Comisión de Coordinación y Régimen Interno se asignarán de la siguiente forma:
+
+1. Presidente: El Coordinador del Grupo Legislativo de mayoría absoluta;
+
+2. Vicepresidente: El Coordinador del Grupo Legislativo que represente a la primer minoría;
+
+3. Secretario: Un integrante de la Comisión nombrado por ésta; y
+
+4. Vocales: Los demás integrantes de la Comisión.
+
+II.- Si ningún Grupo Legislativo tiene mayoría absoluta en el Congreso:
+
+a) Forman parte de esta Comisión:
+
+1. Los Coordinadores de los Grupos Legislativos constituidos en el Congreso;
+
+2. Dos Diputados del Grupo Legislativo de mayoría, designados por acuerdo de su Grupo Legislativo; y
+
+3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+
+b) Los cargos en la Comisión de Coordinación y Régimen Interno serán ocupados de acuerdo a lo siguiente:
+
+1. Presidente: El Coordinador del Grupo Legislativo de mayoría;
+
+2. Vicepresidente: El Coordinador del Grupo Legislativo que sea la primer minoría;
+
+3. Secretario: El Coordinador del Grupo Legislativo que sea la segunda minoría; y
+
+4. Vocales: Los demás integrantes de la Comisión.
+
+c) (DEROGADO, P.O. 19 DE JULIO DE 2010)
+
+d) (DEROGADO, P.O. 19 DE JULIO DE 2010)
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 62 BIS.- Son reglas para la funcionalidad de la Comisión de Coordinación y Régimen Interno:
+
+I.- Sobre la participación en las sesiones: Los integrantes de esta Comisión tendrán derecho de voz y voto ponderado. El voto ponderado de cada integrante de esta Comisión, será el resultado de dividir la cantidad de Diputados de la Legislatura pertenecientes al mismo Grupo Legislativo del cual forma parte, entre la cantidad de integrantes de esta Comisión que pertenecen a su propio Grupo Legislativo.
+
+II.- Sobre el quórum legal de sesiones: Para que la sesión pueda celebrarse se requerirá la asistencia de los integrantes de esta Comisión que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
+
+III.- Sobre las Decisiones y los acuerdos: Para que las decisiones y acuerdos de esta Comisión sean válidos, se requerirá el voto ponderado de los integrantes de la misma que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2003)</small>
+
+Las Sesiones de la Comisión de Coordinación y Régimen Interno serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en las reuniones, a invitación de su Presidente, representantes de grupos de interés, peritos u otras personas, por acuerdo tomado por la mayoría de sus integrantes; de igual forma, el Presidente de la Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 63.
+
+La Comisión de Coordinación y Régimen Interno quedará instalada en la tercera sesión del Primer Período Ordinario del Primer Año de Ejercicio Constitucional de cada Legislatura.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 64.
+
+A la Comisión de Coordinación y Régimen Interno le corresponde:
+
+I.- Conducir las relaciones de esta Comisión con órganos similares;
+
+II.- Promover entendimientos y convergencias políticas entre los Grupos Legislativos para la presentación de iniciativas, así como para la formulación de acuerdos y dictámenes que requieran ser votados por el Pleno del Congreso;
+
+III.- Proponer al Pleno del Congreso:
+
+a) A los integrantes de las Comisiones y de los Comités, así como la sustitución de los mismos cuando su designación corresponda al Pleno y exista causa justificada para ello;
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+b) A más tardar en la décima sesión del Primer Periodo Ordinario de sesiones del Primer Año de Ejercicio Constitucional, la Agenda Legislativa que contendrá los temas que deberán analizarse durante la Legislatura, así como la agenda temática mínima para ese periodo de sesiones.
+
+A excepción del periodo de inicio de la Legislatura, en la cuarta sesión de cada Periodo Ordinario de Sesiones, la Comisión de Coordinación y Régimen Interno, propondrá al Pleno para su discusión, modificación en su caso y aprobación, la agenda temática mínima que regirá los trabajos legislativos correspondientes al periodo respectivo.
+
+Para tal efecto, los Grupos Legislativos que integran el Congreso del Estado, deberán presentar, a más tardar 15 días antes del inicio de cada Periodo de Sesiones, una relación de temas o asuntos que estimen prioritarios para discutir su inclusión a la agenda temática mínima, remitiendo su propuesta a la Comisión de Coordinación y Régimen Interno, la cual realizará el proyecto respectivo, así como al Centro de Estudios Legislativos quien participará en la elaboración de la referida agenda, de acuerdo a las instrucciones que reciba de dicho órgano de dirección.
+
+c) La designación y la remoción del Oficial Mayor, del Tesorero y del Director del Centro de Estudios Legislativos, de acuerdo a lo dispuesto en los artículos 81 y 82 de la presente Ley;
+
+d) El Presupuesto Anual del Poder Legislativo; y
+
+e) Proyectos de acuerdo sobre asuntos que le sean turnados.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+
+IV.- Dirigir por sí, o través de su Presidente por acuerdo de sus integrantes, los servicios administrativos internos del Congreso, con excepción del Órgano Auxiliar del Congreso;
+
+V.- Administrar el ejercicio del presupuesto del Congreso a través de la Tesorería;
+
+VI.- Autorizar adquisiciones de bienes y contratación de servicios para la función legislativa, en los términos del Reglamento para el Gobierno Interior del Congreso del Estado;
+
+VII.- Convocar a los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno a las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso. El Presidente de este órgano de dirección dirigirá dichas reuniones;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2002)</small>
+
+VIII.- Nombrar y remover al personal del Congreso, resolver sobre las renuncias y licencias que éstos presenten, así como de los procedimientos de responsabilidad administrativa;
+
+IX.- Aprobar el Manual de Organización y Procedimientos del Congreso, así como otras disposiciones normativas relativas a los asuntos de su competencia;
+
+X.- Conocer de las propuestas de los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de este órgano de dirección sobre los siguientes asuntos:
+
+a) La Organización interna y procedimientos del órgano a su cargo; y
+
+b) Los Programas de Actividades del órgano a su cargo.
+
+XI.- Aprobar el Calendario de Actividades del Congreso que le proponga la Oficialía Mayor;
+
+XII.- Aprobar las políticas de sueldos y programas de incentivos para personal del Congreso que le proponga el Comité de Administración;
+
+XIII.- Coadyuvar en las actividades que se encomienden a las Comisiones y a los Comités; y
+
+XIV.- Las demás que le confieren esta Ley y el Reglamento para el Gobierno Interior del Congreso.
 
 ## TITULO QUINTO
 
-### CAPITULO VIII. DE LA AUDIENCIA PUBLICA
+### CAPITULO I. DE LOS ORGANOS DE TRABAJO LEGISLATIVO
 
-###### ARTICULO 65.
+###### Artículo 65.
 
-En toda solicitud de audiencia pública se deberá hacer mención del asunto o asuntos sobre los que versará. La contestación que recaiga a las solicitudes de audiencia pública deberá realizarse por escrito, señalando día y hora para la realización de la audiencia y en caso de no asistir el Presidente Municipal se mencionará el nombre y cargo del servidor público que asistirá en su representación.
+Son Organos de Trabajo para el despacho de los asuntos del Congreso del Estado:
 
-###### ARTICULO 66.
+I.- Las Comisiones; y
 
-Una vez recibida la solicitud de audiencia pública la autoridad tendrá siete días naturales para dar respuesta a los solicitantes.
+II.- Los Comités.
 
-###### ARTICULO 67.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-La audiencia pública será convocada por el Ayuntamiento y se llevará a cabo preferentemente en el lugar donde residan los vecinos interesados en la realización de la misma, en forma verbal o escrita, en un solo acto y con la asistencia de los vecinos y del Presidente Municipal correspondiente y, en su caso, de servidores públicos de la administración pública del Estado vinculados con los asuntos que se tratarán en la audiencia, en la que los ciudadanos interesados expresarán libremente sus peticiones, propuestas o quejas en todo lo relacionado con la administración municipal o estatal.
+###### Artículo 66.
 
-###### ARTICULO 68.
+El Pleno del Congreso para la resolución de los asuntos que le fueren turnados funcionará con las siguientes Comisiones:
 
-El Presidente Municipal o su representante, después de haber atendido los planteamientos y peticiones de los vecinos y ciudadanos, y de ser legalmente procedentes, informará en forma escrita como mínimo los aspectos siguientes:
+I.- Comisiones Permanentes:
 
-I.- Los plazos en que el asunto será analizado;
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-II.- Los procedimientos establecidos para satisfacer las peticiones; y
+a) Comisiones de Dictamen Legislativo;
 
-III.- Si es competencia de unidades centrales o entidades paraestatales de la administración pública del Estado o de la administración pública Federal.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+b) Comisión de Vigilancia; y
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
+
+c) Comisión de Estudio Previo;
+
+II.- Comisiones Temporales:
+
+a) Comisiones Jurisdiccionales;
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+b) Comisiones Investigadoras.
+
+III.- Comisiones Especiales:
+
+a) Las que designe el Pleno del Congreso para la resolución de un asunto específico.
+
+Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+Cada Diputado formará parte de hasta seis Comisiones de Dictamen Legislativo.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+
+###### Artículo 67.
+
+Las Comisiones de Dictamen Legislativo se integrarán pluralmente por once Diputados: un Presidente, un Vice-Presidente, un Secretario y ocho Vocales, electos o ratificados por el Pleno del Congreso en la quinta sesión del Primer Período Ordinario de Sesiones de cada Año de Ejercicio Constitucional.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+En el caso de la Comisión para la Igualdad de Género el cargo de Presidente, invariablemente, será anual y se asignará de manera rotativa entre los Grupos Legislativos constituidos en el Congreso.
+
+Las Comisiones de Dictamen Legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 68.
+
+La Comisión de Vigilancia se integrará por nueve diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de diputados; el Pleno designará al resto de los integrantes.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 68 Bis.
 
@@ -633,137 +953,319 @@ En caso que determine que los escritos deban ser desechados, por tratarse de asu
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
-###### ARTICULO 69.
+###### Artículo 69.
 
-Cuando la naturaleza del asunto lo permita, el Presidente Municipal instrumentará lo necesario para la resolución inmediata del asunto planteado, designando para el efecto al servidor público responsable de su ejecución. De ser necesaria, la realización de subsecuentes reuniones entre la autoridad y la comunidad, informará del o de los responsables por parte del Municipio que acudirán a las mismas. Tratándose de asuntos que sean competencia de la administración pública del Estado o de la administración pública Federal, el Presidente Municipal tomará las medidas tendientes a relacionar a los vecinos con estas autoridades.
+Las Comisiones Jurisdiccionales funcionarán en los términos previstos en la Constitución y las Leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-###### ARTICULO 70.
+###### Artículo 70.
 
-Las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías para el mejor desempeño de sus atribuciones, deberán realizar recorridos periódicos dentro del Municipio, a fin de verificar la forma y las condiciones en que se presten los servicios públicos, así como el estado en que se encuentren los sitios, obras e instalaciones en que la comunidad tenga interés.
+Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
+I.- Gobernación y Organización Interna de los Poderes;
 
-###### ARTICULO 71.
+II.- Legislación y Puntos Constitucionales;
 
-Podrán solicitar a las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías la realización de recorridos:
+III.- Justicia y Seguridad Pública;
 
-I.- Los representantes de los sectores que concurran en el Municipio en el desarrollo de actividades industriales, comerciales o de prestación de servicios; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-II.- Los Diputados al Congreso del Estado.
+IV.- Desarrollo Social y Derechos Humanos;
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-###### ARTICULO 72.
+V.- Para la Igualdad de Género;
 
-En toda solicitud de recorridos de las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías, se deberá hacer mención del lugar o lugares que podrán ser visitados. La respuesta a las solicitudes de recorridos deberán (sic) de realizarse por escrito.
+VI.- Educación, Cultura y Deporte;
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 73.
+VII.- Medio Ambiente;
 
-En los recorridos que se realicen, los habitantes podrán exponer a las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías, en forma verbal o escrita, la forma y condiciones en que a su juicio se prestan los servicios públicos y el estado que guardan los sitios, obras e instalaciones del lugar de que se trate y podrán plantear alternativas de solución.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+VIII.- Desarrollo Urbano;
 
-###### ARTICULO 74.
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-Las medidas que acuerden las personas titulares de las Presidencias Municipales, Sindicaturas y Regidurías, como resultado de la verificación realizada en el recorrido, serán llevadas a cabo por el responsable que señale el propio titular, mismas que se harán del conocimiento de los habitantes del lugar en que se llevó a cabo el recorrido.
+IX.- Transporte;
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+X.- Fomento Económico;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+
+XI.- Fomento al Campo y Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XII.- Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XIII.- Juventud;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XIV.- Salud y Atención a Grupos Vulnerables;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XV.- Hacienda del Estado;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVI.- Primera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVII.- Segunda de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVIII.- Tercera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XIX.- Cuarta de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XX.- Quinta de Hacienda y Desarrollo Municipal; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XXI.- Anticorrupción.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 71.
+
+La Comisión de Vigilancia estará integrada por nueve diputados: un Presidente, un Vicepresidente, un Secretario y seis Vocales y se sujetará en sus atribuciones a la Ley de Fiscalización Superior del Estado en lo que corresponda y a los Acuerdos que para el efecto dicte el Congreso.
+
+###### Artículo 72.
+
+Son Comisiones Jurisdiccionales las que se integran en los términos de la Constitución y de las Leyes para el efecto de la Responsabilidad de los Servidores Públicos.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+Las Comisiones Jurisdiccionales se integrarán en proporción al número de Diputados de cada Grupo Legislativo.
+
+###### Artículo 73.
+
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+###### Artículo 74.
+
+Las Comisiones Especiales se integrarán pluralmente por nueve diputados, tomando en consideración la proporcionalidad que cada Grupo Legislativo tiene en el Congreso del Estado, para atender un asunto específico; tendrán un carácter transitorio y al rendir el informe correspondiente se disolverán.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ## TÍTULO DÉCIMO. DE LAS INCONFORMIDADES Y DEL PROCEDIMIENTO DE CONCILIACIÓN
 
-###### ARTICULO 75.
+###### Artículo 75.
 
-La consulta popular es el mecanismo de participación por el cual los ciudadanos ejercen su derecho, a través del voto emitido mediante el cual expresan su opinión respecto de uno o varios temas de trascendencia estatal.
+Las Sesiones de las Comisiones serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en reuniones de información y audiencia, a invitación de su Presidente, los ciudadanos promoventes de las iniciativas, representantes de grupos de interés, peritos u otras personas que puedan informar sobre el asunto, por acuerdo tomado por la mayoría de sus integrantes. Asimismo, las comisiones podrán a través de la Directiva, convocar a foros u otros eventos de consulta popular.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 76.
+En las reuniones de Comisión, podrán participar con derecho a voz y previa autorización de la Comisión de que se trate, los titulares de los Órganos de Soporte Técnico y de Apoyo del Congreso o quienes éstos designen para el caso, cuando el asunto a tratar sea de su competencia.
 
-Los temas de trascendencia que sean propuestos para consulta popular, será calificada por la mayoría de los legisladores presentes en el congreso, con excepción de la consulta propuesta por los ciudadanos, en cuyo caso lo resolverá el Pleno del Supremo Tribunal del Estado.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2003)</small>
 
-El resultado de la misma es vinculante para los poderes Ejecutivo y Legislativo estatales así como para las autoridades competentes, cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores.
+El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-### CAPITULO IX. DE LOS RECORRIDOS DE LAS PERSONAS TITULARES DE LAS PRESIDENCIAS MUNICIPALES, SINDICATURAS Y REGIDURIAS
+###### Artículo 76.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+Las sesiones de las Comisiones serán convocadas por su Presidente con por lo menos veinticuatro horas de anticipación, salvo que se trate de asuntos turnados que requieran pronta resolución, en cuyo caso el Presidente deberá justificar esta situación a la Comisión de que se trate. Los integrantes de la Comisión asistirán a ellas con derecho de voz y voto; los Diputados que no formen parte de una Comisión podrán asistir a sus sesiones con derecho de voz, pero sin voto. El Presidente de cada Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
 
-###### ARTICULO 77.
+### CAPITULO II. DE LOS COMITES
 
-Se entiende que existe trascendencia estatal en el tema propuesto para una consulta popular cuando contenga elementos tales como:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-I. Que repercutan en la mayor parte del territorio estatal; y
+###### Artículo 77.
 
-II. Que impacten en una parte significativa de la población.
+El Congreso contará con los Comités de Administración y de Archivo y Biblioteca y de Seguimiento de Acuerdos; cada uno estará integrado pluralmente por cinco Diputados de al menos tres Grupos Legislativos. Estos Comités tienen el carácter de permanentes; cada uno se compondrá de un Presidente, un Secretario y tres Vocales, electos por el Pleno del Congreso.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-###### ARTICULO 78.
+El Pleno del Congreso podrá crear por acuerdo, cuando las necesidades así lo requieran y conforme a las posibilidades del presupuesto, los Comités temporales que estime convenientes para la realización de las actividades del mismo.
 
-Votar en las consultas populares constituye un derecho y una obligación de los ciudadanos para participar en la toma de decisiones sobre temas de trascendencia estatal.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+En dicho acuerdo se especificarán los propósitos de su creación y el tiempo para realizar las tareas que se les encomienden.
 
-### CAPÍTULO X. DE LA CONSULTA POPULAR
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+###### Artículo 78.
 
-###### ARTICULO 79.
+El Comité de Administración vigila la operación de los servicios administrativos y el correcto ejercicio del presupuesto del Congreso. Al Comité de Administración le corresponde:
 
-La consulta o consultas populares a que convoque el Congreso, se realizarán el mismo día de la jornada electoral local.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+I.- Definir los criterios generales para la operación administrativa de los Órganos de Soporte Técnico y de Apoyo del Congreso con excepción del Órgano Auxiliar del Congreso. Dichos criterios tendrán la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
 
-###### ARTICULO 80.
+a) El Anteproyecto de Presupuesto de Egresos del Congreso;
 
-Son requisitos para participar en la consulta popular:
+b) Políticas para el apoyo a las Comisiones, los Comités y los Grupos Legislativos;
 
-I. Ser ciudadano tamaulipeco conforme al artículo 6 de la Constitución Política del Estado de Tamaulipas;
+c) Programas de actividades de los Órganos de Soporte Técnico y de Apoyo;
 
-II. Estar inscrito en el Padrón Electoral;
+d) El Manual de Organización y Procedimientos del Congreso; y
 
-III. Tener credencial para votar con fotografía vigente; y
+e) La evaluación del desempeño del personal del Congreso;
 
-IV. No estar suspendido en sus derechos políticos.
+II.- Realizar las actividades necesarias para evaluar el cumplimiento de los criterios señalados en la fracción anterior;
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+III.- Establecer los Lineamientos Generales para el Ejercicio del Presupuesto;
 
-###### ARTICULO 81.
+IV.- Proponer a la Comisión de Coordinación y Régimen Interno políticas de sueldos y programas de incentivos para el personal del Congreso;
 
-No podrán ser objeto de consulta popular:
+V.- Participar, por medio de su Presidente, en las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso;
 
-I. La restricción de los derechos humanos;
+VI.- Recibir, analizar y aprobar, el informe trimestral sobre el ejercicio presupuestal que rinda el Tesorero;
 
-II. Los principios consagrados en el artículo 21 de la Constitución Política del Estado de Tamaulipas;
+VII.- Recibir del Tesorero, el Informe de la Cuenta Pública del Congreso del Estado y presentarlo al Pleno del Congreso para que se le dé el trámite correspondiente;
 
-III. La materia electoral;
+VIII.- Conocer de los informes de los Órganos de Soporte Técnico y de Apoyo y en su caso, hacer las recomendaciones correspondientes para la mejora continua de los servicios administrativos;
 
-IV. Los ingresos y gastos del Estado;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-V. La seguridad estatal.
+IX.- Recomendar a la Tesorería, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo;
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+X.- Ordenar la realización de auditorías trimestrales externas a la Tesorería, sobre la administración financiera y contable de los recursos del Congreso;
 
-###### ARTICULO 82.
+XI.- Rendir al Pleno del Congreso un informe anual de las actividades desarrolladas; y
 
-Podrán solicitar una consulta popular:
+XII.- Las demás que le confieren esta Ley y el Reglamento para el Gobierno Interior del Congreso.
 
-I. El Gobernador del Estado;
+El Comité de Administración dispondrá de los recursos necesarios para cumplir con las funciones anteriores.
 
-II. Los Diputados con el equivalente al treinta y tres por ciento de la integración del Congreso del Estado; o
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-III. Los ciudadanos en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores.
+Artículo 78 BIS.- El Comité de Archivo y Biblioteca tiene a su cargo la promoción de las actividades tendientes a la formación, integración y modernización de la Biblioteca y del Archivo del Congreso. Al Comité de Archivo y Biblioteca le corresponde:
 
-Los ciudadanos podrán respaldar más de una consulta popular, pero no procederá el trámite de las consultas que sean respaldadas por los mismos ciudadanos cuando estos rebasen el veinte por ciento de las firmas de apoyo. En este caso sólo procederá la primera solicitud.
+I.- Elaborar los criterios para integrar e incrementar un acervo bibliográfico que sirva de información y apoyo en las tareas legislativas;
 
-La inobservancia de la prohibición a que se refiere el párrafo anterior se resolverá conforme a lo dispuesto en la Ley Federal de Consulta Popular.
+II.- Establecer las bases para organizar, codificar y modernizar el Archivo del Congreso;
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+III.- Promover la difusión del acervo de la Biblioteca y del Archivo del Congreso;
+
+IV.- Atender lo relacionado con al acervo histórico del Congreso;
+
+V.- Ser el responsable de la edición de una publicación trimestral de difusión de las actividades del Congreso y de temas relacionados con la función legislativa, así como de publicaciones en materia histórica, socio-política, cultural y de interés general para el Estado;
+
+VI.- Realizar propuestas a la Comisión de Coordinación y Régimen Interno, sobre la organización y procedimientos del Archivo y la Biblioteca del Congreso.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Artículo 78 BIS 1. El Comité de Seguimiento de Acuerdos, será el responsable de dar un oportuno seguimiento de respuesta a los Acuerdos que sean aprobados por el Pleno del Congreso, y que sean relativos a la intervención de alguna autoridad federal, estatal o municipal, respecto de la atención, resolución o información sobre diversas problemáticas del ámbito de sus competencias. A dicho Comité le corresponde:
+
+I. Mantener actualizado el listado de Acuerdos Aprobados por el Pleno del Congreso, en los que se solicita la atención, información o la intervención de alguna autoridad federal, estatal o municipal, en el marco de sus atribuciones.
+
+II. Solicitar, por conducto de su Presidente, a las autoridades competentes, la respuesta de los Acuerdos enviados para la atención, información o intervención de diversas problemáticas, cuando transcurra un tiempo prudente, posterior a la aprobación del Acuerdo; e
+
+III. Informar cada mes al Pleno del Congreso del seguimiento y situación que guardan los Acuerdos enviados a las autoridades federales, estatales o municipales, para la atención, información o intervención, conforme a sus atribuciones, de diversas problemáticas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO III. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 79.
+
+Los Órganos de Soporte Técnico y de Apoyo del Congreso son dependencias especializadas y responsables en los ámbitos de competencia que, respectivamente, les señala la normatividad vigente. Dependen orgánicamente de la Comisión de Coordinación y Régimen Interno. Tienen la finalidad de apoyar a los Órganos Legislativos del Congreso en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+I.- De los Órganos de Soporte Técnico:
+
+a) De la Oficialía Mayor: la atención de los aspectos legislativos y jurídicos del Congreso, así como la asistencia a la Directiva durante el desarrollo de las sesiones del Pleno y de la Diputación Permanente;
+
+b) De la Tesorería: la administración de los recursos financieros, humanos y de los servicios generales del Congreso;
+
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
+
+c) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictámenes de las Comisiones y el desarrollo de programas de investigación y análisis de los aspectos técnicos de los asuntos que son competencia del Congreso;
+
+d) (DEROGADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+II.- De los Órganos de Apoyo:
+
+a) De la Dirección de Comunicación Social: la difusión de las actividades institucionales y el apoyo en las relaciones públicas del Congreso;
+
+b) De la Dirección de Informática: la promoción del uso y la optimización de los recursos tecnológicos de computación e informática en la realización de actividades legislativas, técnicas y administrativas del Congreso;
+
+c) De la Coordinación de Seguridad: la seguridad en las instalaciones del Poder Legislativo, de los legisladores, del personal del Congreso y de los ciudadanos que se encuentren en dicho lugar; y
+
+d) De la Unidad de Adquisiciones: la coordinación de la adquisición de bienes y de la contratación de los servicios necesarios para la realización de las actividades legislativas, técnicas y administrativas del Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 80.
+
+La integración, actividades y funcionamiento de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno se establecen en el Reglamento para el Gobierno Interior del Congreso, así como en el Manual de Organización y Procedimientos del Congreso. Los titulares de estos órganos rendirán informes de acuerdo a lo siguiente:
+
+I.- El Oficial Mayor:
+
+a) Informes de apoyo a la Directiva y a la Diputación Permanente, que deberán presentarse ante estos órganos para coadyuvar a que den cumplimiento a lo dispuesto en los artículos 56 y 87, respectivamente, de la presente Ley; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+b) Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, que se presentarán ante la Comisión de Coordinación y Régimen Interno en la sesión ordinaria de ésta, posterior al inicio y al término de cada período de sesiones. Los Diputados recibirán copia de dichos informes;
+
+II.- El Tesorero: Informes trimestrales y el Informe de la Cuenta Pública Anual que se presentarán a la Comisión de Coordinación y Régimen Interno y al Comité de Administración en sus respectivas sesiones; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+
+III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de Apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, y los cuales se presentarán ante la Comisión de Coordinación y Régimen Interno y el Comité de Administración. Las Comisiones de Dictamen Legislativo recibirán copia de los informes que rinda el titular del Centro de Estudios Legislativos.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 81.
+
+Para ser titular de la Oficialía Mayor, de la Tesorería o del Centro de Estudios Legislativos del Congreso, se requiere:
+
+I.- Tener cuando menos 30 años cumplidos al día de su designación;
+
+II.- Contar con título de educación superior y tener experiencia profesional. En el caso del titular del Centro de Estudios Legislativos también será requisito tener estudios de posgrado o experiencia en la investigación de asuntos en materia pública o social;
+
+III.- No haber sido condenado mediante sentencia que haya causado ejecutoria, ni estar sujeto a proceso penal, por algún delito doloso; y
+
+IV.- Ser designado por el Pleno del Congreso, a propuesta de la Comisión de Coordinación y Régimen Interno.
+
+En el caso del titular de la Oficialía Mayor, se requerirá además, ser ciudadano mexicano por nacimiento y no adquirir otra nacionalidad.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 82.
+
+El Director del Centro de Estudios Legislativos durará ocho años en el cargo, pudiendo ser reelecto por el Pleno del Congreso. Sólo cesará en sus funciones en los siguientes casos:
+
+I.- Por renuncia que calificará el Pleno del Congreso;
+
+II.- Por decisión del Pleno del Congreso, por mayoría calificada; y
+
+III.- Por remoción, si incurre en cualquiera de las siguientes causales:
+
+a) Falta de probidad;
+
+b) Notoria ineficiencia;
+
+c) Incapacidad física o mental; o
+
+d) Por cometer algún delito doloso.
+
+En los casos previstos en las fracciones II y III del presente artículo, se cumplirá previamente con el derecho de audiencia del interesado. La solicitud de remoción señalada en la fracción III deberá ser promovida por al menos, tres integrantes de la Legislatura.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ## TITULO SEXTO. DE LA DIPUTACION PERMANENTE
 
@@ -771,87 +1273,55 @@ La inobservancia de la prohibición a que se refiere el párrafo anterior se res
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
-###### ARTICULO 83.
+###### Artículo 83.
 
-La petición de consulta popular deberá presentarse en el Congreso del Estado según corresponda, en términos de esta Ley, a partir del uno de octubre del segundo año de ejercicio de cada Legislatura y hasta el quince de octubre del año previo al en que se realice la jornada electoral estatal.
+La víspera del receso, en cada Período de Sesiones Ordinarias, la Legislatura nombrará, a mayoría simple de votos, una Diputación Permanente formada pluralmente por ocho diputados propietarios y ocho diputados suplentes que cubrirán las ausencias de los propietarios.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
-###### ARTICULO 84.
+###### Artículo 84.
 
-Los ciudadanos que deseen presentar una petición de consulta popular para la jornada de consulta inmediata siguiente, deberán dar Aviso de intención al Presidente de la Mesa Directiva del Congreso a través del formato que al efecto determine dicho Poder Legislativo.
+Por el orden de su designación se ocuparán los cargos de Presidente, Vicepresidente, Primer Secretario, Segundo Secretario y cuatro Vocales, cada uno con sus respectivos suplentes.
 
-El Presidente de la Mesa Directiva del Congreso del Estado emitirá en un plazo no mayor a diez días hábiles, una constancia que acredite la presentación del Aviso de intención, que se acompañará del formato para la obtención de firmas y con ello el inicio de los actos para recabar las firmas de apoyo. Las constancias de aviso serán publicadas en la Gaceta Parlamentaria.
+Los cargos señalados serán para todo el Período de Receso.
 
-La falta de presentación del Aviso de intención, será causa para no admitir a trámite la petición de consulta popular.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+###### Artículo 85.
 
-###### ARTICULO 85.
+La Diputación Permanente tendrá Sesiones Ordinarias los viernes de cada semana a las once horas, salvo acuerdo previo de la misma o que se trate de día feriado, en este último caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por cinco miembros de la Permanente.
 
-El formato para la obtención de firmas lo determina el Congreso del Estado, previa consulta al Instituto Electoral de Tamaulipas, preservando que cumpla con los requisitos que señala esta Ley y que deberá contener por lo menos:
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
-I. El tema de trascendencia estatal planteado;
+###### Artículo 86.
 
-II. La propuesta de pregunta;
+Los acuerdos de la Diputación Permanente se tomarán por el voto de la mayoría de los presentes; en caso de empate; el Presidente de la misma tendrá voto de calidad.
 
-III. El número de folio de cada hoja;
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-IV. El nombre, firma, la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente; y
+Artículo 86 BIS.- Durante los períodos de receso, el Presidente de la Diputación Permanente será el Presidente del Congreso, tendiendo para este efecto, las mismas atribuciones que para dicho cargo enuncian esta Ley y el Reglamento para el Gobierno Interior del Congreso.
 
-V. La fecha de expedición.
+###### Artículo 87.
 
-Si las firmas se presentaran en un formato diverso al entregado al Congreso del Estado, la propuesta de Consulta Popular no será admitida a trámite.
+Al concluír el Período de Receso, de conformidad con lo establecido por el Artículo 66 fracción III de la Constitución Política local, el Presidente de la Diputación Permanente rendirá a la Asamblea, en la primera sesión del período que corresponda, un informe circunstanciado de los expedientes que hayan sido integrados durante ese período y de los que debe conocer el Pleno, absteniéndose en ese informe de emitir opinión alguna sobre los asuntos mencionados.
 
-El Presidente de la Mesa Directiva del Congreso del Estado dará cuenta de los Avisos de intención que no hayan sido formalizados con la presentación de la solicitud de consulta popular dentro del plazo establecido por el artículo 83 de esta Ley o que no se hayan entregado en el formato correspondiente para la obtención de firmas, los cuales serán archivados como asuntos total y definitivamente concluidos.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+En el caso del año de la elección, el Presidente de la Diputación Permanente, deberá rendir su último informe el día 31 de agosto, en sesión que se cite para tal efecto cuando no se encuentre reunido (sic)pleno.
 
-###### ARTICULO 86.
+###### Artículo 88.
 
-El Gobernador del Estado sólo podrá presentar una petición para cada jornada de consulta popular.
+Cuando deba convocarse a Período Extraordinario de Sesiones del Congreso, en los términos del Artículo 66 fracción IV de la Constitución Política del Estado, la Diputación Permanente librará con toda oportunidad oficio a los integrantes del mismo, para ese efecto, y, además mandará se publique la Convocatoria en el Periódico Oficial y en el estrado del Congreso.
 
-Tratándose de las peticiones de consulta popular formuladas por los legisladores integrantes del Congreso del Estado, será objeto de la Convocatoria aquella que sea aprobada por la mayoría del Congreso, sin que pueda ser más de una.
+###### Artículo 89.
 
-En el caso de las peticiones de ciudadanos, la Convocatoria se expedirá respecto de aquellas que hayan reunido el apoyo ciudadano en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, de acuerdo al Informe emitido por el Instituto Electoral de Tamaulipas y previa declaración de constitucionalidad y calificación de la trascendencia estatal a cargo del Pleno del Supremo Tribunal de Justicia del Estado.
+En el Período Extraordinario de Sesiones a que se refiere el artículo anterior, se atenderá lo dispuesto en el Artículo 57 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+###### Artículo 90.
 
-###### ARTICULO 87.
+De manera especial la Diputación Permanente cumplirá con las obligaciones que le establece el Artículo 66 de la Constitución Política local, dando conocimiento al Pleno de su actuación el primer día del Período Ordinario de Sesiones.
 
-El Gobernador del Estado y los legisladores, podrán retirar su solicitud de consulta popular hasta antes de que se publique la Convocatoria en el Periódico Oficial del Estado.
-
-Retirada la petición, podrán presentar una nueva petición de consulta, siempre que se realice dentro del plazo establecido en el artículo 83 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
-
-###### ARTICULO 88.
-
-La solicitud que provenga de los ciudadanos se presentará ante el Presidente de la Mesa Directiva del Congreso del Estado conforme a los artículos 84 y 85 del presente Capítulo.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
-
-###### ARTICULO 89.
-
-Toda petición de consulta popular deberá estar contenida en un escrito que cumplirá, por lo menos, con los siguientes elementos:
-
-I. Nombre completo y firma del solicitante o solicitantes;
-
-II. El propósito de la consulta y los argumentos por los cuales el tema se considera de trascendencia estatal; y
-
-III. La pregunta que se proponga para la consulta deberá ser elaborada sin contenidos tendenciosos o juicios de valor y formulada de tal manera que produzca una respuesta categórica en sentido positivo o negativo; y deberá estar relacionada con el tema de la consulta.
-
-Sólo se podrá formular una pregunta en la petición de consulta popular.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
-
-###### ARTICULO 90.
-
-En caso de que la solicitud provenga de los legisladores, además de lo establecido en el artículo anterior, deberá acompañarse del anexo que contenga nombres completos y firmas de por lo menos el treinta y tres por ciento de los integrantes del Congreso del Estado.
-
-Asimismo, deberá designarse como representante a uno de los legisladores promoventes para recibir notificaciones.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ## TITULO SEPTIMO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -861,25 +1331,23 @@ Asimismo, deberá designarse como representante a uno de los legisladores promov
 
 (REUBICADO, P.O. 16 DE AGOSTO DE 2000)
 
-###### ARTICULO 91.
+###### Artículo 91.
 
-La solicitud que provenga de los ciudadanos, además de los requisitos previstos en el artículo 89 de esta Ley, deberá complementarse con:
+El Congreso del Estado podrá crear las Galerías que tiendan al reconocimiento público de los integrantes de los Organos Legislativo, Ejecutivo y Judicial del Estado, de exhibición de documentos históricos y de difusión de la actividad legislativa.
 
-I. Nombre completo y domicilio del representante para recibir notificaciones; y
-
-II. Anexo que contenga los nombres completos de los ciudadanos y su firma, además de la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO II. DEL TABLERO DE AVISOS
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-###### ARTICULO 92.
+###### Artículo 92.
 
-Toda la documentación, así como los anexos, deberán estar plenamente identificados, señalando en la parte superior de cada hoja la referencia al tema de trascendencia Estatal que se propone someter a consulta popular.
+El Congreso del Estado contará con tableros de avisos, en los que se registrará:
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+I.- La información relativa a la programación de las sesiones de las Comisiones y de los Comités, incluyendo el orden del día, fecha y hora de las sesiones; y
+
+II.- El reporte mensual de la asistencia de los Diputados a las sesiones de los Órganos Legislativos del Congreso señalados en el artículo 50 de esta Ley.
 
 ## TÍTULO SÉPTIMO. DE LA ADMINISTRACIÓN DIRECTA
 
@@ -969,26 +1437,6 @@ Las resoluciones del Pleno del Supremo Tribunal de Justicia del Estado serán de
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-###### ARTICULO 98.
-
-La Convocatoria de consulta popular deberá contener:
-
-I. Fundamentos legales aplicables;
-
-II. Fecha de la jornada electoral estatal en que habrá de realizarse la consulta popular;
-
-III. Breve descripción de la materia sobre el tema de trascendencia estatal que se somete a la pregunta a consultar; y
-
-IV. Lugar y fecha de la emisión de la Convocatoria.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
-
-###### ARTICULO 99.
-
-La Convocatoria que expida el Congreso del Estado deberá publicarse en el Periódico Oficial del Estado.
-
-T R A N S I T O R I O
-
 ## TRANSITORIOS
 
 PRIMERO:- Se abroga la Ley Orgánica del Poder Legislativo del Estado de Nuevo León, publicada en el Periódico Oficial del Gobierno del Estado el día 12 de Julio de 1958.
@@ -1057,33 +1505,173 @@ El órgano estatal electoral deberá considerar en su presupuesto de egresos cor
 
 P.O. 28 DE OCTUBRE DE 2025.
 
-###### ARTICULO UNICO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 23 de mayo del Año 2001.- DIPUTADO PRESIDENTE.- C. OSCAR ALBERTO HINOJOSA SANCHEZ.-Rúbrica.- DIPUTADO SECRETARIO.- LIC. JUAN JOSE ANTONIO BRAÑA CARRANZA.-Rúbrica.- DIPUTADO SECRETARIO.- C. BERNARDO GOMEZ VILLAGOMEZ.-Rúbrica".
-
-Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veintiocho días del mes de mayo de año dos mil uno.
-
-ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. TOMAS YARRINGTON RUVALCABA.-El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRÍGUEZ.- Rúbricas.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 6 DE SEPTIEMBRE DE 2006.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE JUNIO DE 2015.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-478 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN IX; 70, 71, PRIMER PÁRRAFO; 72, 73 Y 74, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO IX DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO”.]
-
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 1998.
+
+Artículo Único: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 16 DE SEPTIEMBRE DE 1998.
+
+###### ARTÍCULO ÚNICO
+
+El Presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 1999.
+
+Primero.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las veintiséis Comisiones de Dictamen Legislativo integradas actualmente, en virtud de lo dispuesto en los artículos 70 de la Ley Orgánica del Poder Legislativo del Estado y 39 del Reglamento para el Gobierno Interior del Congreso del Estado vigentes en la presente fecha, continuarán funcionando transitoriamente hasta la aprobación por parte del Pleno del Congreso de los integrantes de las trece Comisiones de Dictamen Legislativo establecidas mediante el presente Decreto.
+
+Tercero.- En la quinta sesión del Primer Período Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional se elegirá o se ratificará a los integrantes de las Comisiones de Dictamen Legislativo, en los términos del artículo 67 de la Ley Orgánica del Poder Legislativo.
+
+Cuarto.- La Ciudadana Diputada que al entrar en vigencia el presente decreto presida la Comisión de Derechos de las Mujeres, continuará con este cargo hasta la quinta sesión del Primer Período Ordinario de Sesiones, del Tercer Año de Ejercicio Constitucional de la LXVIII Legislatura, en que el Pleno del Congreso designe otro Presidente para dicha Comisión.
+
+Quinto.- Los expedientes de los asuntos que obren en las actuales Comisiones de Dictamen Legislativo y cuya resolución por parte del Pleno del Congreso no se dé antes del día en que inicie la vigencia del presente Decreto, serán recibidos por la Oficialía Mayor que los entregará a la brevedad posible al Presidente de la Comisión que corresponda, de acuerdo a las competencias de las Comisiones que se establecen en el presente Decreto. El Oficial Mayor notificará por escrito a los Diputados integrantes de la LXVIII Legislatura sobre la asignación realizada en los términos de este artículo.
+
+Sexto.- Se deroga cualquier disposición contraria a lo establecido en el presente decreto.
+
+P.O. 16 DE AGOSTO DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Diputados que a la presente fecha integran la Gran Comisión pasarán a formar parte de la Comisión de Coordinación y Régimen Interno a partir del inicio de la vigencia del presente Decreto. Así mismo, cuando en una Ley, Reglamento o cualquier otra disposición se haga referencia a la "Gran Comisión" se entenderá que se refieren a la "Comisión de Coordinación y Régimen Interno."
+
+Artículo Tercero.- Se abroga el Decreto N° 347 por el que se Crea el Centro de Estudios Legislativos, publicado en el Periódico Oficial del Estado el 24 de octubre de 1994.
+
+Artículo Cuarto.- La transferencia de unidades administrativas de una dependencia a otra, con motivo de las reformas materia de este Decreto, se realizará incluyendo los recursos humanos, financieros y materiales que la unidad administrativa respectiva haya utilizado para la atención de los asuntos que conoció.
+
+Artículo Quinto.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los asuntos que fueron turnados conforme a las disposiciones vigentes, serán inmediatamente turnados a las Comisiones que conforme al presente Decreto se crean, en caso de duda, se remitirá a la Directiva del Congreso del Estado para su turno.
+
+P.O. 15 DE JULIO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE AGOSTO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MARZO DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2003.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma a los artículos 46 y 55 primer párrafo de la Constitución Política del Estado Libre y Soberano de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se están reformando las referidas disposiciones constitucionales.
+
+Realizado lo anterior, para efecto de la LXXI Legislatura, la Primera Junta Preparatoria a que se refieren la Ley Orgánica del Poder Legislativo del Estado de Nuevo León y el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León se efectuará el 5 de septiembre de 2006, la segunda Junta Preparatoria el 8 de septiembre de 2006 y la última Junta Preparatoria el 19 de septiembre de 2006; lo anterior, sin perjuicio de las demás Juntas Preparatorias que deban celebrarse para conocer, discutir y aprobar los dictámenes de las Comisiones Revisoras, en términos de Ley.
+
+P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- La presente reforma al Artículo Único Transitorio del Decreto No. 37 publicado en el Periódico Oficial del Estado No. 167 de fecha 29 de Diciembre de 2003, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno de este Congreso del Estado.
+
+Artículo Segundo.- El Presidente del Congreso del Estado deberá realizar los returnos correspondientes a fin de que las nuevas Comisiones de Dictamen Legislativo, creadas con motivo del presente Decreto, puedan analizar los asuntos que sean materia de su competencia.
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
+
+P.O. 21 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, los expedientes en trámite actualmente turnados a la Comisión de Legislación y Puntos Constitucionales cuya materia consista en la reforma, adición o derogación de disposiciones del Código Penal para el Estado de Nuevo León y a la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, serán returnados a la Comisión de Justicia y Seguridad Pública para su estudio y dictamen.
+
+Asimismo los expedientes en trámite actualmente turnados a la Comisión de Justicia y Seguridad Pública cuya materia consista en la reforma, adición o derogación de disposiciones al Código de Procedimientos Civiles del Estado de Nuevo León, serán returnados a la Comisión de Legislación y Puntos Constitucionales.
+
+Los expedientes de las materias que se mencionan en los dos párrafos anteriores que estén turnados en forma unida a otra Comisión distinta a las ya referidas, sólo se hará el returno a la Comisión que corresponda según lo estipulado en el Artículo 39 fracción II inciso j) y fracción III inciso a) del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- El Comité de seguimiento de Acuerdos será designado en la quinta sesión del Segundo Periodo de Sesiones ordinarias del Segundo año de ejercicio Constitucional de la Septuagésima Segunda Legislatura al H. Congreso del Estado, en los términos establecidos por el Articulo 60 segundo párrafo, del Reglamento para el Gobierno Interior del Congreso.
+
+P.O. 28 DE FEBRERO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Por única ocasión, la Agenda Temática Mínima que regirá los trabajos legislativos del Segundo Período Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional de la LXXII Legislatura al Congreso del Estado, deberá presentarse ante el Pleno para su aprobación, a más tardar en la quinta Sesión del mismo.
+
+P.O. 2 DE ABRIL DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2014.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día de su aprobación.
+
+Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+Tercero.- Para efectos de los expedientes que a la fecha se encuentren turnados a las Comisiones Permanentes de Dictamen Legislativo, el plazo referido en el párrafo segundo del Artículo 46 del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, empezará a correr a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ABRIL DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 104. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 Y LA FRACCIÓN V DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MAYO DE 2016.
 
 ###### ARTICULO PRIMERO
 
@@ -1095,7 +1683,9 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE OCTUBRE DE 2005.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-166 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XII Y XIV; Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 28 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 106. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-716 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 3 BIS, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
 
