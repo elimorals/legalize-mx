@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2016-04-15"
+last_updated: "2016-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 12 DE OCTUBRE DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1009,9 +1007,9 @@ XX.- Dirimir las competencias que se susciten entre el Ejecutivo y el Superior T
 
 XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que previenen los arts. 89, 90 y 91 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-XXII.- Elegir al Consejero de la Judicatura del Estado a que se refiere el artículo 94, párrafo noveno, de esta Constitución y conocer, para su aprobación, de la propuesta que sobre los cargos de: Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa y Presidente de la Comisión Estatal de Derechos Humanos, le presente el Titular del Poder Ejecutivo; así como nombrar a los comisionados del organismo garante que establece el artículo 6 de esta Constitución, en los términos establecidos por las disposiciones previstas en la ley;
+XXII.- Elegir al Consejero de la Judicatura del Estado a que se refiere el artículo 94, párrafo noveno, de esta Constitución y al Presidente de la Comisión Estatal de Derechos Humanos y conocer, para su aprobación, de la propuesta que sobre los cargos de: Magistrados del Tribunal Superior de Justicia y Magistrados del Tribunal de Justicia Administrativa, le presente el Titular del Poder Ejecutivo, así como nombrar a los comisionados del organismo garante que establece el artículo 6 de esta Constitución, en los términos establecidos por las disposiciones previstas en la ley;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1991,9 +1989,9 @@ XVIII.- Ordenar el uso de la fuerza pública municipal en los términos de lo di
 
 XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2016)</small>
 
-XX. Someter a la aprobación del Congreso del Estado, la propuesta que le presente respecto a los cargos de Magistrados del Tribunal Superior de Justicia, Magistrados de la Sala Superior y de las Salas Ordinarias del Tribunal de Justicia Administrativa y Presidente de la Comisión Estatal de Derechos Humanos, de acuerdo con lo dispuesto por los artículos 63 fracción XXII, 98 y 99 de ésta Constitución;
+XX.- Someter a la aprobación del Congreso del Estado, la propuesta que le presente respecto a los cargos de Magistrados del Tribunal Superior de Justicia y Magistrados de la Sala Superior y de las Salas Ordinarias del Tribunal de Justicia Administrativa, de acuerdo con lo dispuesto por los artículos 63 fracción XXII, 98 y 99 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
@@ -2098,6 +2096,10 @@ Todo servidor público está obligado a responder las recomendaciones que les pr
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 Este organismo no será competente tratándose de asuntos electorales, y jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2016)</small>
+
+La elección de Presidente de la Comisión Estatal de los Derechos Humanos, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
 
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -15626,3 +15628,11 @@ Tercero.- Se derogan todas las disposiciones normativas y quedan sin materia las
 Cuarto.- Los Municipios deberán, dentro de su competencia, realizar las adecuaciones normativas correspondientes, dentro de los 180 días siguientes a la entrada en vigor de las leyes secundarias ya precisadas.
 
 Quinto.- El Sistema Estatal Anticorrupción deberá conformarse de acuerdo con las Leyes Generales que resulten aplicables, la Constitución Federal y Estatal y las leyes locales.
+
+P.O. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 101. SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, POR MODIFICACIÓN LA FRACCIÓN XXII DEL ARTÍCULO 63, LA FRACCIÓN XX DEL ARTÍCULO 85 Y POR ADICIÓN DE UN DOCEAVO PÁRRAFO DEL ARTÍCULO 87”.]
+
+Primero.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se establece un plazo de 120 días para que el Congreso del Estado apruebe las modificaciones necesarias a la ley que crea la Comisión Estatal de Derechos Humanos, acordes al presente Decreto.
