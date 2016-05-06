@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-374-de-transparencia-y-acceso-a-la-informacion-75362
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-15"
-last_updated: "2010-06-15"
+last_updated: "2016-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY NUMERO 374 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 6 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 15 de junio de 2010.
 
@@ -2432,3 +2434,73 @@ EL CONTRALOR GENERAL DEL ESTADO.
 C.P. CARLOS ARTURO BÁRCENAS AGUILAR.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 207 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley Número 374 de Transparencia y Acceso a la Información Pública del Estado de Guerrero, publicada en el Periódico Oficial del Estado, número 48 de fecha 15 de junio año 2010 y de la fe de erratas publicada en el periódico oficial número 56 alcance II con fecha 13 de julio del año 2010; y se derogan todas las disposiciones que contravengan los (sic) establecido en el presente ordenamiento.
+
+TERCERO. En tanto no se expidan las leyes generales en materia de datos personales en posesión de sujetos obligados y de archivos permanecerán vigentes las normas aplicables en la materia.
+
+CUARTO. Los procedimientos de acceso a la información pública y los medios de impugnación que se estén tramitando a la entrada en vigor de la presente Ley, se substanciarán de acuerdo con la ley vigente en la fecha en que se haya presentado la solicitud.
+
+QUINTO. La obligación de las entidades públicas de difundir a través de medios electrónicos la versión pública de la declaración de los servidores públicos de conformidad con la presente Ley, entrará en vigor hasta que haya vencido el plazo legal para presentar las declaraciones patrimoniales del año inmediato siguiente a que entre en vigor el presente ordenamiento.
+
+SEXTO. Los consejeros que actualmente conforman el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero, pasarán a ser Comisionados de dicho Instituto por el tiempo que reste al nombramiento del que fueron objeto, en consecuencia, cambian de denominación.
+
+Los consejeros que concluyen su periodo el 8 de febrero de 2018, podrán participar en el proceso de selección y designación de los Comisionados para integrar el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Con el objeto de asegurar el escalonamiento en los cargos de los integrantes del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales, por única ocasión duraran en su encargo los periodos siguientes:
+
+- El primero que se designe durará en su encargo 7 años;
+
+- El segundo que se designe durará en su encargo 5 años, y
+
+- El tercero que se designe durará en su encargo 3 años.
+
+SÉPTIMO. Los sujetos obligados, deberán instalar sus Unidades de Transparencia, constituir sus Comités de Transparencia y establecer los mecanismos correspondientes de atención de solicitudes en un plazo de 60 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+Aquellos que ya cuenten con ambos órganos deberán realizar los cambios a los mismos atendiendo a lo previsto en la presente Ley y hacer su registro ante el Instituto en un plazo de 30 días naturales a partir de la entrada en vigor de la presente Ley.
+
+Los particulares podrán presentar solicitudes de acceso a la información ante los sujetos obligados que no cuentan con unidad de transparencia, Comité de Información ni mecanismos correspondientes de atención de solicitudes, en los términos previstos en la presente Ley, transcurrido el plazo de 30 días naturales contados a partir de la entrada en vigor.
+
+En el caso de los sujetos obligados que ya cuenten con ambas instancias, los particulares podrán presentar sus solicitudes de acceso a la información en los términos previstos en la presente Ley a partir de su entrada en vigor.
+
+OCTAVO. Para el cumplimiento de las obligaciones de transparencia establecidas en la presente Ley, deberá observarse lo dispuesto en los artículos Octavo y Décimo Tercero Transitorios, respectivamente, del decreto por el que se expide la Ley General de Transparencia y Acceso a la Información Pública, sin perjuicio de que:
+
+En el caso de los sujetos obligados que ya cuenten con ambas instancias, los particulares podrán presentar sus solicitudes de acceso a la información en los términos previstos en la presente Ley a partir de su entrada en vigor.
+
+OCTAVO (SIC). Para el cumplimiento de las obligaciones de transparencia establecidas en la pre-sente (sic) Ley, deberá observarse lo dispuesto en los artículos Octavo y Décimo Tercero Transitorios, respectivamente, del decreto por el que se expide la Ley Ge-neral (sic) de Transparencia y Acceso a la Información Pública, sin perjuicio de que:
+
+Los sujetos obligados deberán tomar las medidas pertinentes o adoptar las herramientas tecnológicas temporales que sean necesarias para difundir las obligaciones de transparencia en tanto se emiten los Lineamientos o bases para homologar sus sitios o portales de Internet.
+
+En tanto no entren en vigor los Lineamientos que regularán la forma, términos y plazos en que los sujetos obligados deberán cumplir con las obligaciones de transparencia que establezca el Sistema Nacional, el Instituto emitirá en un plazo no mayor a 30 días reglas generales que deberán seguir los sujetos obligados para integrar, mantener y actualizar la información de sus páginas de Internet; así como que definan los requisitos y características de los formatos que se utilicen para publicar las obligaciones de transparencia previstas en la presente Ley.
+
+NOVENO. En un plazo de 30 días naturales, los sujetos obligados deberán enviar al Instituto un listado de las personas físicas o morales a los que, por cualquier motivo, asignaron recursos públicos o, en los términos que establezcan las disposiciones aplicables, ejercen actos de autoridad.
+
+En ese mismo tiempo, en el ámbito de sus competencia (sic), el Instituto determinará y publicará los casos en que las personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, cumplirán con las obligaciones de transparencia y acceso a la información directamente o a través de los sujetos obligados que les asignen dichos recursos o, en los términos de las disposiciones aplicables, realicen actos de autoridad; debiendo señalar las obligaciones de transparencia que deben cumplir y los plazos para ello.
+
+DÉCIMO. En un plazo no mayor a 120 días naturales, contados a partir de la entrada en vigor de la presente Ley, se deberá expedir el Reglamento.
+
+DÉCIMO PRIMERO. El Instituto contará con un plazo de 30 días, contados a partir de la entrada en vigor del presente ordenamiento, para expedir el programa de capacitación y actualización de los servidores públicos en materia de transparencia y acceso a la información pública, y el programa de la cultura de la transparencia.
+
+DÉCIMO SEGUNDO. Una vez que entre en vigor la reforma al artículo 122 de la Constitución Política del Estado Libre y Soberano de Guerrero, el H. Congreso del Estado, deberá emitir la convocatoria para designar a los integrantes del Consejo Consultivo, en los términos establecidos.
+
+Con el objeto de asegurar el escalonamiento en los cargos de los integrantes del Consejo Consultivo del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales, por única ocasión duraran en su encargo los periodos siguientes:
+
+- El primero que se designe durará en su encargo 5 años;
+
+- El segundo que se designe 3 años; y
+
+- El tercero que se designe 3 años.
+
+DÉCIMO TERCERO. Remítase a la Cámara de Diputados del Honorable Congreso de la Unión y a la Comisión Nacional de Derechos Humanos, para su conocimiento y efectos conducentes.
+
+DÉCIMO CUARTO. Remítase al Gobernador del Estado, para su conocimiento y efectos legales correspondientes.
+
+DÉCIMO QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
