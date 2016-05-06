@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2016-04-22"
+last_updated: "2016-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -59,13 +59,13 @@ El cargo de Diputado Propietario o Suplente en ejercicio es incompatible con cua
 
 El Poder Legislativo del Estado de Nuevo León tendrá las atribuciones que para su integración, organización y funcionamiento establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, esta Ley y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2016)</small>
 
 ###### Artículo 5o.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el primero se abrirá el día 1° de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 1° de marzo y terminará el día 1° de junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el primero se abrirá el día 1° de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 1° de febrero y terminara el día 1° de mayo. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 6o.
 
@@ -73,7 +73,7 @@ El Congreso sesionará en el Recinto Oficial, pudiendo cambiar de lugar por acue
 
 En la sesión en que se someta a consideración dicho cambio, el Presidente de la Directiva constatará y así lo hará saber al Pleno que los Coordinadores de los Grupos Legislativos fueron informados con antelación del tema a tratar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 7o.
 
@@ -85,7 +85,7 @@ Para la Apertura de Sesiones podrá el Congreso del Estado convocar a invitados 
 
 Una vez hecha, por el Presidente de la nueva legislatura, la declaración Solemne de Apertura que establece el artículo 36 de esta Ley; el Presidente del Congreso podrá hacer uso de la palabra y conceder el uso a un Diputado de cada Partido representado en el Congreso, con el límite de tiempo que el Pleno del Congreso estime conveniente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 8o.
 
@@ -131,7 +131,7 @@ Ninguna autoridad podrá ejercer mandamiento judicial o administrativo sobre los
 
 Tampoco podrá cumplimentarse mandamiento judicial o administrativo sobre los bienes de los Diputados en el interior de las instalaciones del Congreso.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
 ### CAPITULO II. DEL COLEGIO ELECTORAL
 
@@ -147,7 +147,7 @@ Tampoco podrá cumplimentarse mandamiento judicial o administrativo sobre los bi
 
 (DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
 ### CAPITULO III. LA COMISION INSTALADORA DEL COLEGIO ELECTORAL
 
@@ -265,7 +265,7 @@ La Directiva comunicará la Constitución de la Legislatura y la conformación d
 
 Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 1º de septiembre, fecha en que se formulará el Decreto correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 36.
 
@@ -349,7 +349,7 @@ I.- Ser integrantes de la Comisión de Coordinación y Régimen Interno; y
 
 II.- Realizar tareas de coordinación y concertación con los Órganos de Dirección y de Trabajo de la Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 1999)</small>
 
 ###### Artículo 46.
 
@@ -449,7 +449,7 @@ La organización y funcionamiento del Congreso por lo que corresponde a Debates,
 
 ### CAPITULO II. DE LA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 52.
 
@@ -469,7 +469,7 @@ Se expedirá Decreto en el que conste el nombramiento de los integrantes de la D
 
 Por oficio se comunicará al Ejecutivo y al Poder Judicial del Estado y además a las Autoridades de los Estados y de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 54.
 
@@ -593,7 +593,7 @@ f) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior
 
 Artículo 60 BIS.- Los integrantes de la Directiva podrán ser removidos de sus cargos por incumplimiento de sus atribuciones, siendo necesario para tal efecto el voto de la mayoría simple de los Diputados presentes en la sesión y la audiencia del interesado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO III. LA COMISION DE COORDINACION Y REGIMEN INTERNO
 
@@ -941,7 +941,7 @@ Las Comisiones Jurisdiccionales se integrarán en proporción al número de Dipu
 
 Las Comisiones Especiales se integrarán pluralmente por nueve diputados, tomando en consideración la proporcionalidad que cada Grupo Legislativo tiene en el Congreso del Estado, para atender un asunto específico; tendrán un carácter transitorio y al rendir el informe correspondiente se disolverán.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 75.
 
@@ -963,7 +963,7 @@ Las sesiones de las Comisiones serán convocadas por su Presidente con por lo me
 
 ### CAPITULO II. DE LOS COMITES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 77.
 
@@ -1043,13 +1043,13 @@ VI.- Realizar propuestas a la Comisión de Coordinación y Régimen Interno, sob
 
 Artículo 78 BIS 1. El Comité de Seguimiento de Acuerdos, será el responsable de dar un oportuno seguimiento de respuesta a los Acuerdos que sean aprobados por el Pleno del Congreso, y que sean relativos a la intervención de alguna autoridad federal, estatal o municipal, respecto de la atención, resolución o información sobre diversas problemáticas del ámbito de sus competencias. A dicho Comité le corresponde:
 
-l. Mantener actualizado el listado de Acuerdos Aprobados por el Pleno del Congreso, en los que se solicita la atención, información o la intervención de alguna autoridad federal, estatal o municipal, en el marco de sus atribuciones.
+I. Mantener actualizado el listado de Acuerdos Aprobados por el Pleno del Congreso, en los que se solicita la atención, información o la intervención de alguna autoridad federal, estatal o municipal, en el marco de sus atribuciones.
 
 II. Solicitar, por conducto de su Presidente, a las autoridades competentes, la respuesta de los Acuerdos enviados para la atención, información o intervención de diversas problemáticas, cuando transcurra un tiempo prudente, posterior a la aprobación del Acuerdo; e
 
 III. Informar cada mes al Pleno del Congreso del seguimiento y situación que guardan los Acuerdos enviados a las autoridades federales, estatales o municipales, para la atención, información o intervención, conforme a sus atribuciones, de diversas problemáticas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO III. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO
 
@@ -1199,7 +1199,7 @@ En el Período Extraordinario de Sesiones a que se refiere el artículo anterior
 
 De manera especial la Diputación Permanente cumplirá con las obligaciones que le establece el Artículo 66 de la Constitución Política local, dando conocimiento al Pleno de su actuación el primer día del Período Ordinario de Sesiones.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ## TITULO SEPTIMO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -1213,7 +1213,7 @@ De manera especial la Diputación Permanente cumplirá con las obligaciones que 
 
 El Congreso del Estado podrá crear las Galerías que tiendan al reconocimiento público de los integrantes de los Organos Legislativo, Ejecutivo y Judicial del Estado, de exhibición de documentos históricos y de difusión de la actividad legislativa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO II. DEL TABLERO DE AVISOS
 
@@ -1446,3 +1446,9 @@ P.O. 22 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 104. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 Y LA FRACCIÓN V DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 106. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
