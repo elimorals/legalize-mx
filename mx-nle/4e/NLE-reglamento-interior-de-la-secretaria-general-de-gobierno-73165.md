@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-general-de-gobierno-73165"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2015-09-16"
+last_updated: "2016-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 6 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE SEPTIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016 (ABROGADA).
 
 Reglamento publicado la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 10 de febrero del 2010.
 
@@ -1582,3 +1582,31 @@ P.O. 4 DE SEPTIEMBRE DE 2015.
 ###### ARTICULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría General de Gobierno publicado en el Periódico Oficial del Estado de fecha 10 de febrero de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Acuerdo por el cual se crea el Centro de Atención a Migrantes del Estado de Nuevo León, publicado en el Periódico Oficial del Estado de fecha 20 de marzo de 2009, así como el Acuerdo por el cual se reforma, publicado en el Periódico Oficial del Estado de fecha 23 de junio de 2010.
+
+###### ARTÍCULO CUARTO.
+
+Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que en los términos de la Ley de Egresos vigente, realice las transferencias presupuestales que sean necesarias de acuerdo a lo dispuesto en el presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+En los términos del Artículo Noveno del Acuerdo de Reestructura Organizacional de la Administración Pública del Estado de Nuevo León, publicado en el Periódico Oficial del Estado de fecha 29 de febrero de 2016, el patrimonio, recursos humanos, financieros o materiales de la Consejería Jurídica del Gobernador, se transfieren a la Subsecretaría de Asuntos Jurídicos y Atención Ciudadana de la Secretaría General de Gobierno. Se instruye a la Secretaría de Finanzas y Tesorería General del Estado y a la Secretaría de Administración para la implementación de esta medida.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la Contraloría y Transparencia Gubernamental para que lleve a cabo el proceso de entrega-recepción correspondiente.
