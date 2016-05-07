@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2015-07-23"
+last_updated: "2016-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -71,7 +71,9 @@ III. Aguas nacionales: las aguas propiedad de la Nación, en los términos del p
 
 IV. Aguas pluviales: aquéllas que provienen de lluvias, incluyendo las que provienen de nieve y granizo;
 
-V. Agua potable: la que puede ser utilizada sin provocar efectos nocivos a la salud, que reúne los requisitos establecidos en las normas oficiales mexicanas vigentes, y se distribuye principalmente a través de los servicios de agua potable y saneamiento;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2016)</small>
+
+V. Agua potable: la que sea salubre y limpia cuando no contenga ningún tipo de microorganismo, parásito o sustancia, en una cantidad o concentración que pueda suponer un riesgo para la salud humana; y que reúne los requisitos establecidos en las Normas Oficiales Mexicanas vigentes, y se distribuye, principalmente, a través de los servicios de agua potable y saneamiento;
 
 VI. Aguas residuales: las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y, en general, de cualquier uso; así como la mezcla de ellas que por el uso o aprovechamiento de que han sido objeto, contengan contaminantes que dañen, modifiquen o alteren su calidad original;
 
@@ -2511,9 +2513,13 @@ En todo caso, el municipio, los organismos operadores descentralizados, o la Com
 
 No se aplicará la suspensión del servicio en los domicilios donde habiten lactantes, personas de la tercera edad y personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2013)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 7 DE MAYO DE 2016)</small>
 
-En el caso de las escuelas de educación básica obligatoria, por falta de pago en dos ocasiones consecutivas o acumuladas, se faculta al prestador de los servicios para limitar este servicio público, hasta que se regularice el pago.
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+
+ARTÍCULO 180 BIS. Queda prohibido al prestador de los servicios suspender o limitar el servicio público de drenaje, agua potable o alcantarillado, de manera temporal o definitiva, por falta de pago en las escuelas públicas de educación básica obligatoria.
+
+Conforme al párrafo que antecede, el prestador de dichos servicios deberá tomar las previsiones necesarias para que el suministro de agua potable satisfaga, cuando menos, el consumo mínimo indispensable, y que la misma sea salubre, aceptable, accesible y asequible, para satisfacer las necesidades de los menores.
 
 ###### ARTICULO 181.
 
@@ -3370,3 +3376,11 @@ P.O. 23 DE JULIO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0211.- SE REFORMA EL ARTÍCULO 3° EN SU FRACCIÓN V; SE ADICIONA EL ARTÍCULO 180 BIS; Y SE DEROGA DEL ARTÍCULO 180 EL PÁRRAFO ÚLTIMO, DE Y A LA LEY DE AGUAS PARA EL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
