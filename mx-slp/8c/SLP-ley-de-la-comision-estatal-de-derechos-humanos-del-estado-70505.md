@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2015-05-26"
+last_updated: "2016-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -1131,6 +1131,10 @@ La Comisión no exigirá en este caso que la persona denunciante dé seguimiento
 
 La persona peticionaria puede actuar de modo individual o colectivo. La Comisión no exigirá que los colectivos tengan una forma jurídica definida o acrediten personalidad jurídica, y sólo para efecto de notificación y comunicación expedita se solicitará al colectivo el nombramiento de una persona-contacto. Sin embargo, cuando una organización civil o social actúe como peticionaria, la Comisión podrá solicitarle, cuando exista, la presentación de la documentación legal que acredite su forma jurídica y la personalidad de sus representantes.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+
+ARTICULO 85 BIS. Las niñas, los niños y las personas adolescentes podrán denunciar y presentar quejas ante la Comisión, sobre presuntas violaciones a los derechos humanos, sin necesidad de la intervención de un representante legal. En todos los casos la Comisión dará intervención a la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor del Estado de San Luis Potosí, para los efectos de que actúe en el ámbito de su competencia.
+
 ###### ARTICULO 86.
 
 Es obligación de la Comisión dar seguimiento a las denuncias recibidas por la Comisión. Sólo la víctima puede desistirse del trámite iniciado.
@@ -1692,3 +1696,9 @@ P. O. 26 DE MAYO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 7 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0212.- SE ADICIONA EL ARTÍCULO 85 BIS, A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO”.]
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
