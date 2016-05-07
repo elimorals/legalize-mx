@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2016-03-24"
+last_updated: "2016-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -69,9 +69,17 @@ II. La consolidación de la democracia como sistema de vida, fundado en el const
 
 III. La igualdad de derechos, la atención de las necesidades básicas y el mejoramiento de la calidad de vida de la población, particularmente de los grupos sociales que no disponen de los satisfactores esenciales;
 
-IV. El impulso del desarrollo regional equilibrado y el fortalecimiento de la autonomía del municipio a través de la descentralización de los recursos, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2016)</small>
 
-V. El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión, en un marco de estabilidad económica y social.
+IV. El impulso del desarrollo regional equilibrado y el fortalecimiento de la autonomía del municipio a través de la descentralización de los recursos;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2016)</small>
+
+V. El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión, en un marco de estabilidad económica y social, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2016)</small>
+
+VI. De igualdad entre mujeres y hombres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2012)</small>
 
@@ -662,5 +670,13 @@ P.O. 24 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0187.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 12, DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 0210.- SE REFORMA EL ARTÍCULO 3° EN SUS FRACCIONES, IV Y V; Y ADICIONA AL MISMO ARTÍCULO 3° LA FRACCIÓN VI, DE Y A LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
