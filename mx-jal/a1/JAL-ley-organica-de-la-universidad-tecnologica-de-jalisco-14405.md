@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-tecnologica-de-jalisco-14405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-08"
-last_updated: "1999-05-08"
+last_updated: "2016-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE JALISCO
 
-LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE JALISCO
+LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 8 de mayo de 1999.
 
@@ -131,7 +131,9 @@ El Consejo Directivo, será el órgano máximo de gobierno de la Universidad y s
 
 I. Tres representantes del Poder Ejecutivo Federal, designados por el Secretario de Educación Pública;
 
-II. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, integrándolo el titular del Poder Ejecutivo Estatal o la persona que éste designe; el titular de la Secretaría de Educación Jalisco o su representante, y un representante de la Secretaría de Promoción Económica;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2016)</small>
+
+II. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, integrándolo el titular del Poder Ejecutivo Estatal o la persona que éste designe; el titular de la Secretaría de Educación Jalisco o su representante; y un representante de la Secretaría de Desarrollo Económico;
 
 III. Tres representantes del Sector Productivo del Estado de Jalisco, a invitación del titular del Poder Ejecutivo Estatal;
 
@@ -197,7 +199,7 @@ X. Integrar comisiones académicas y administrativas para que les auxilien en el
 
 XI. Fijar las reglas generales a las que se deberá sujetar la Universidad en la suscripción de acuerdos, convenios y contratos con dependencias o entidades de la administración pública federal, estatal o municipal, así como los organismos del sector público, social y privado nacional y extranjero, para la ejecución de acciones en materia de política educativa;
 
-XII. Vigilar el exacto cumplimiento de esta Ley y demás normas aplicables, pudiendo al efecto convocar a las partes para que en forma conjunta se solucionen los conflictos que surjan; y solicitar a las autoridades competentes de la Federación y del Estado, el cumplimiento de las obligaciones que les resulten; y (sic)
+XII. Vigilar el exacto cumplimiento de esta Ley y demás normas aplicables, pudiendo al efecto convocar a las partes para que en forma conjunta se solucionen los conflictos que surjan; y solicitar a las autoridades competentes de la Federación y del Estado, el cumplimiento de las obligaciones que les resulten; y
 
 XIII. Proponer al Titular del Poder Ejecutivo del Estado de Jalisco, en su caso, la terna de candidatos a ocupar la rectoría; y
 
@@ -432,3 +434,11 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25815/LXI/16 QUE REFORMA EL ARTÍCULO 7° DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
