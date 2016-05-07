@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2016-03-12"
+last_updated: "2016-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -75,7 +75,17 @@ f) Comisión o Comisiones: a la comisión o comisiones legislativas permanentes;
 
 g) Asamblea: al Pleno del Congreso del Estado; y
 
-h) Grupos parlamentarios: a los Diputados de un mismo partido que se unen para sostener los principios y lineamientos de sus respectivos partidos y coadyuvar al mejor desarrollo del proceso legislativo.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2016)</small>
+
+h) Grupos parlamentarios: a los Diputados de un mismo partido que se unen para sostener los principios y lineamientos de sus respectivos partidos y coadyuvar al mejor desarrollo del proceso legislativo;
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+
+i) Recinto Legislativo: Lugar habilitado para que sesione el Pleno del Congreso del Estado de Colima. También puede entenderse como el conjunto arquitectónico que alberga el Congreso del Estado de Colima, incluyendo Salón de Sesiones, Edificio de Oficinas, Estacionamientos, Sala de Juntas y demás bienes inmuebles destinados para su funcionamiento; y
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+
+j) Galerías: Las butacas establecidas dentro del Recinto Legislativo, destinadas para que las ocupen invitados y público en general.
 
 ###### Artículo 3º.
 
@@ -363,9 +373,11 @@ El Oficial Mayor será el encargado de hacer las notificaciones a que se refiere
 
 ### CAPITULO V. DE LA DIRECTIVA DEL CONGRESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2016)</small>
+
 ###### Artículo 27.
 
-En los términos del artículo 37 de la Ley, la Directiva la constituyen el Presidente, el Vicepresidente, dos Secretarios y un Suplente, que serán electos por mayoría simple, mediante votación secreta, en sesión previa a la apertura de un período ordinario, al inicio de una sesión extraordinaria o en la primera de un período extraordinario. El Presidente en funciones, con base en el resultado del escrutinio, hará la declaratoria respectiva.
+En los términos del artículo 37 de la Ley, la Directiva la constituyen el Presidente, el Vicepresidente, dos Secretarios y sus Suplentes, que serán electos por mayoría simple, mediante votación secreta, en sesión previa a la apertura de un período ordinario, al inicio de una sesión extraordinaria o en la primera de un período extraordinario. El Presidente en funciones, con base en el resultado del escrutinio, hará la declaratoria respectiva.
 
 Una vez efectuada la elección de los integrantes de la Directiva, el Oficial Mayor del Congreso la comunicará mediante circular a los Titulares de los Poderes Ejecutivo y Judicial, a los Ayuntamientos de la entidad, a la Secretaría de Gobernación, a las Cámaras del Congreso de la Unión y a los Congresos de los Estados.
 
@@ -2205,19 +2217,21 @@ X.- Un Ejemplar del Periódico Oficial del Estado, en el que conste la publicaci
 
 En las sesiones, los Diputados ocuparán las curules sin preferencia alguna. El Presidente ocupará la curul situada al centro, y los dos Secretarios, ocuparán las ubicadas a los lados del presidente, salvo los casos de excepción previstos en este Reglamento.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 187.
 
-Cuando asista a alguna sesión el ciudadano Presidente de los Estados Unidos Mexicanos o su representante personal, ocupará el lugar situado a la derecha del Presidente del Congreso; el Gobernador del Estado, el de la izquierda y a la izquierda de él, el Presidente del Supremo Tribunal de Justicia o su representante.
-
-Si no asiste el titular del Poder Ejecutivo Federal, el Gobernador del Estado o su representante personal, ocupará el lugar de la derecha del Presidente del Congreso y el Presidente del Supremo Tribunal de Justicia o su representante, el de la izquierda.
+Cuando asista a alguna sesión el ciudadano Presidente de los Estados Unidos Mexicanos o su representante personal, ocupará el lugar situado a la derecha del Presidente del Congreso, y el Gobernador del Estado a la derecha de este; y el Presidente del Supremo Tribunal de Justicia o su representante, ocupara el lugar a la izquierda del presidente del Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
+Si no asiste el titular del Poder Ejecutivo Federal, el Gobernador del Estado o su representante personal, ocupará el lugar de la derecha del Presidente del Congreso y el Presidente del Supremo Tribunal de Justicia o su representante, el de la izquierda.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2016)</small>
+
 ###### Artículo 188.
 
-Cuando, además, asistan representantes de los demás Poderes de la Unión, de otras entidades federativas, de otros países y servidores públicos de los Poderes del Estado, se les destinará un lugar especial en el Recinto Legislativo.
+Cuando, además, asistan representantes de los demás Poderes de la Unión, de otras entidades federativas, de otros países y servidores públicos de los Poderes del Estado, se les destinará un lugar especial en las Galerías del Recinto Legislativo.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2016)</small>
 
@@ -2225,11 +2239,11 @@ Cuando, además, asistan representantes de los demás Poderes de la Unión, de o
 
 Los Secretarios se situarán a los costados del servidor o servidores públicos que se encuentren por cualquier motivo en el Presídium.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 190.
 
-En la sesión solemne en que el Gobernador deba rendir la protesta constitucional para asumir su cargo, éste se situará a la derecha del Presidente del Congreso y el Gobernador saliente a la derecha de aquél; el Presidente del Supremo Tribunal de Justicia se situará a la izquierda del Presidente. Cuando el Gobernador entrante rinda protesta, lo hará desde su lugar.
+En la sesión solemne en que el Gobernador deba rendir la protesta constitucional para asumir su cargo, éste se situará a la derecha del Presidente del Congreso, o en su caso, a la derecha del ciudadano Presidente de los Estados Unidos Mexicanos o su representante personal, en caso de que éste acuda; el Presidente del Supremo Tribunal de Justicia se situará a la izquierda del Presidente del Congreso y el Gobernador saliente a la izquierda de este. Cuando el Gobernador entrante rinda protesta, lo hará desde su lugar.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2625,6 +2639,10 @@ Las declaraciones o resoluciones aprobadas por la Comisión o la Asamblea, con a
 
 En todas las cuestiones referentes a la materia sustantiva ó adjetiva, no previstas en este Reglamento, se aplicarán en lo conducente, las disposiciones del Código Penal y de Procedimientos Penales del Estado.
 
+### CAPITULO XXVI. JUICIO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+
 ###### Artículo 240.
 
 El Congreso editará el Diario de los Debates, que tendrá por objeto la conservación y archivo de la historia del proceso legislativo estatal.
@@ -2681,43 +2699,69 @@ III.- Si una vez desahogada la audiencia a que se refiere el párrafo anterior, 
 
 IV.- La resolución que se dicte, deberá notificarse personalmente al presunto responsable y al denunciante, a más tardar al tercer día hábil de que se pronuncie.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 246.
 
-La Comisión de Gobierno será la instancia competente para la aplicación de sanciones administrativas por incumplimiento de las obligaciones a que se refiere el Capítulo I, del Título Tercero de la Ley Estatal de Responsabilidades de los Servidores Públicos, cuando sea necesario imponerlas a los servidores públicos del Congreso.
+El informe de Resultados que remita el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado o El Órgano Técnico de Fiscalización correspondiente al Congreso, cuando contenga acciones y observaciones en materia de responsabilidades administrativas de los Servidores Públicos derivados de la revisión y fiscalización de las cuentas públicas, y el decreto en el que se declare concluido el proceso de revisión y fiscalización de las cuentas públicas del ente auditado del ejercicio fiscal correspondiente, deberán contener de manera particularizada, clara y precisa:
+
+I. Un extracto de los hechos que se atribuyen al servidor o servidores públicos de que se trate;
+
+II. Las disposiciones jurídicas que se estimen violadas, y su vinculación o encuadramiento con los hechos atribuidos; y
+
+III. Los elementos y medios de prueba que acrediten los hechos atribuidos al servidor o servidores públicos de que se trate, y su participación en los mismos.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 247.
 
-Para la imposición de las sanciones administrativas en contra de cualquier servidor público del Poder Legislativo, la Comisión de Gobierno tomará en cuenta los siguientes elementos: a).- Gravedad de la infracción; b).- Circunstancias personales del servidor público; c).- Nivel jerárquico; d).- Antigüedad en el servicio; e).- Reincidencia, si la hubiere; y f).- Monto del beneficio, daño o perjuicio económico derivado del incumplimiento de las obligaciones.
+Una vez que haya sido aprobado por el Congreso y publicado el decreto en que se declaró concluido el proceso de revisión y fiscalización de los resultados de la cuenta pública del ejercicio fiscal correspondiente del ente auditado, y se contengan acciones u observaciones en materia de responsabilidades administrativas de los servidores públicos, deberá ser turnado a la Comisión de Responsabilidades del Congreso el mencionado decreto.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 248.
 
-Las sanciones por faltas administrativas que podrá imponer la Comisión de Gobierno consistirán en:
+Inmediatamente que sea turnado a la Comisión de Responsabilidades el decreto a que hace referencia el artículo anterior, procederá a registrar el expediente respectivo, y a notificar en el domicilio de los presuntos responsables el juicio de responsabilidad administrativa instaurado en su contra, proporcionándoles copia del auto de radicación emitido por la Comisión de Responsabilidades, del decreto en que se declaró concluido el proceso de revisión y fiscalización de los resultados de la cuenta pública del ejercicio fiscal correspondiente del ente auditado que contenga acciones u observaciones en materia de responsabilidades administrativas de los Servidores Públicos, y concediéndole un término de quince días hábiles contados a partir de la notificación para dar respuesta a las mismas y ofrecer las pruebas de descargo respectivas, escrito en que deberán señalar domicilio ubicado en la ciudad de Colima para oír todo tipo de notificaciones y autorizados para dichos efectos.
 
-I.- Apercibimiento;
+Desde su escrito de contestación el presunto responsable podrá nombrar a quien lo asista en la audiencia de pruebas y alegatos, persona que deberá ser Licenciado en Derecho; quedando facultado para intervenir en la audiencia de desahogo de pruebas, alegar, e interponer todo tipo de promociones y recursos a favor del autorizante.
 
-II.- Amonestación;
-
-III.- Suspensión en el empleo de tres y hasta por treinta días;
-
-IV.- Destitución; y
-
-V.- Sanción económica de uno hasta 100 salarios mínimos.
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 249.
 
-Para aplicar las sanciones establecidas en el artículo anterior, la Comisión de Gobierno observará el siguiente procedimiento:
+Una vez dada respuesta a las acciones u observaciones, y ofrecidas las pruebas de descargo, o vencido el término para ejercer tal derecho, la Comisión de Responsabilidades emitirá acuerdo en que se pronunciará respecto al desechamiento o admisión de las pruebas ofrecidas por los presuntos responsables, señalando fecha, hora y lugar para la audiencia de desahogo de pruebas y alegatos dentro de los quince días hábiles siguientes, procurando la práctica de todos los medios de prueba en la misma, pudiendo señalar fechas subsecuentes cuando la cantidad de las pruebas lo requiera, o bien harán constar que no se presentó dentro del término establecido el escrito de respuesta a las acciones, observaciones y ofrecimiento de pruebas.
 
-I.- Inmediatamente que tenga conocimiento de una irregularidad o incumplimiento de sus obligaciones de algún servidor, ordenará al Oficial Mayor que se levante un acta administrativa, y lo citará para hacerle saber el motivo de la instauración del procedimiento, la responsabilidad que se le imputa y se le entregará copia del acta administrativa y de los documentos que la fundamenten, otorgándole al efecto un término de cinco días hábiles para que por escrito presente su contestación y ofrezca las pruebas que estime convenientes;
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
 
-II.- Transcurrido el término concedido en la fracción anterior, si el presunto responsable produjo contestación y ofreció pruebas, se señalará día y hora para la celebración de una audiencia en la que estando presente el oferente, su defensor y el Oficial Mayor, se desahoguen las pruebas y se produzcan los alegatos. La Comisión de Gobierno dictará la resolución correspondiente en un plazo máximo de quince días hábiles.
+###### Artículo 250.
 
-De todas las actuaciones que se practiquen se levantará acta, que deberán firmar los que en ella intervengan; en caso de negativa, se asentará tal circunstancia, sin que ello afecte el valor probatorio de la actuación;
+El día y hora señalado para que tenga verificativo la audiencia de desahogo de pruebas, y alegatos, una vez que los integrantes de la Comisión de Responsabilidades se hayan cerciorado que las personas mencionadas fueron debida y oportunamente notificadas y citadas, acto continuo se abrirá formalmente la audiencia haciendo constar en su caso la asistencia de los citados, y procediendo al desahogo de las pruebas admitidas, y recibiendo en su caso los alegatos que podrán manifestarse de forma oral o escrita.
 
-III.- Si una vez desahogada la audiencia a que se refiere el párrafo anterior, la Comisión de Gobierno considera que no cuenta con elementos suficientes para resolver o encontrare elementos que impliquen una nueva responsabilidad a cargo del denunciado o de otras personas, podrá ordenar de inmediato la práctica de diligencias para mejor proveer y el emplazamiento a los demás servidores públicos involucrados; y
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
 
-IV.- La resolución que se dicte, deberá notificarse personalmente al presunto responsable y al denunciante, a más tardar al tercer día hábil de que se pronuncie.
+###### Artículo 251.
+
+Una vez que los integrantes de la Comisión de Responsabilidades se cercioren que fueron desahogadas todas las pruebas ofrecidas por los interesados, emitirán auto en que se declara cerrada la instrucción, y citarán para la emisión del Dictamen resolución el que se dictará dentro de un plazo máximo de noventa días naturales a partir del cierre de instrucción.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+
+###### Artículo 252.
+
+Una vez emitido el dictamen resolución por los integrantes de la Comisión de Responsabilidades, este deberá ser enlistado en el orden del día de la sesión respectiva, para efectos de su discusión y votación, emitiéndose en su caso el decreto correspondiente, que una vez publicado en el Periódico Oficial “El Estado de Colima”, deberá procederse a su notificación personal a los presuntos responsables.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+
+###### Artículo 253.
+
+Sólo serán objeto de prueba los hechos atribuidos en las acciones y observaciones a los servidores públicos presuntamente responsables, y los tendientes a desvirtuarlos o a reducir su sanción.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2016)</small>
+
+###### Artículo 254.
+
+Son admisibles como medios de prueba todos aquéllos elementos que puedan producir convicción en el ánimo de la autoridad respectiva, que no sean contrarios al derecho ni a la moral.
+
+Para efectos de las notificaciones, y las reglas sobre la admisión, desahogo de las pruebas, así como lo no considerado se aplicará supletoriamente el Código de Procedimientos Penales que corresponda.
 
 T R A N S I T O R I O S
 
@@ -2840,3 +2884,11 @@ P.O. 12 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 71 POR EL QUE SE REFORMAN LOS ARTÍCULOS 31, 37, 40 Y 44 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, ASÍ COMO, EL INCISO E) DEL ARTÍCULO 24, ASÍ MISMO LOS ARTÍCULOS 28, TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 29, 33 Y 189 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 91 SE REFORMA EL INCISO H) Y ADICIONAN LOS INCISOS I) Y J) AL ARTÍCULO 2º; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 27; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 187; SE REFORMAN LOS ARTÍCULOS 188 Y 190; SE ADICIONA EL CAPÍTULO XXVI DENOMINADO JUICIO DE RESPONSABILIDAD ADMINISTRATIVA INTEGRADO POR LOS ARTÍCULOS 246 A 254, TODOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación. Debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Juicio de Responsabilidad Administrativa no será aplicable a los procedimientos que actualmente se encuentran radicados ante la Comisión de Responsabilidades del Congreso del Estado de Colima.
