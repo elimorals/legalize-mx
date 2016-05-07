@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2016-03-03"
+last_updated: "2016-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -1875,11 +1875,19 @@ Para el desempeño de las funciones que le atribuye este libro, la Procuraduría
 
 Los convenios a que se refiere el presente artículo, en ningún momento implicarán la substitución, en las facultades de la Procuraduría Social, por parte de las entidades con las que hubiere celebrado convenios. Cuando por virtud de dichos convenios, intervengan prestadores del servicio social o pasantes, se entiende que éstos actúan como auxiliares de los servidores públicos de la Procuraduría Social.
 
-### CAPITULO II. De la Defensoría de Oficio
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2016)</small>
+
+### CAPÍTULO II. De la Defensoría Pública
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2016)</small>
 
 ###### Artículo 129.
 
-En asuntos del orden penal la defensoría de oficio deberá proporcionarse en los términos previstos en la fracción IX, del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, siempre que el acusado no pudiere o no quisiere nombrar defensor, tanto en la averiguación previa como en el proceso penal, en la forma en que lo determine el Código de Procedimientos Penales del Estado.
+En asuntos del orden penal, la defensoría pública deberá proporcionarse en los términos previstos en el artículo 20, apartado B, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, siempre que el imputado no pudiere o no quisiere nombrar defensor, tanto en la investigación como en el proceso penal, en la forma en que lo determine el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 130.
 
@@ -1887,9 +1895,13 @@ En los juzgados especializados en materia penal y mixtos de primera instancia y 
 
 Habrá un coordinador para los defensores de oficio adscritos a las agencias del Ministerio Público.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2016)</small>
+
 ###### Artículo 131.
 
-En los asuntos del orden familiar la Procuraduría Social deberá asignar un defensor de oficio cuando se lo solicite alguna de las partes. Se procurará evitar en lo posible llegar a juicio, ayudando al interesado a resolver su problemática con la colaboración de las instancias de servicios interdisciplinarios que prevé la ley.
+En los asuntos del orden familiar la Procuraduría Social deberá asignar un defensor público cuando se lo solicite alguna de las partes. Se procurará evitar en lo posible llegar a juicio, ayudando al interesado a resolver su problemática con la colaboración de las instancias de servicios interdisciplinarios que prevé la ley.
 
 En los casos a que se refiere este artículo, la Procuraduría Social deberá continuar patrocinando al interesado hasta la conclusión del procedimiento judicial, en tanto éste no revoque formalmente su determinación de continuar bajo la asistencia legal de la Procuraduría Social o haga la designación de un abogado particular.
 
@@ -3406,3 +3418,11 @@ P.O. 3 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 7 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25816/LXI/16 QUE REFORMA LOS ARTÍCULOS 129 Y 131, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO ÚNICO DEL LIBRO CUARTO DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, en los municipios comprendidos en las fracciones I, II, III, IV, V, VI , VII y IX del artículo primero del decreto 24,864.
+
+SEGUNDO. En los municipios comprendidos en las fracciones VIII, X, XI y XII del artículo primero del decreto 24,864, este decreto entrará en vigor conforme a las declaratorias de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Estado de Jalisco.
