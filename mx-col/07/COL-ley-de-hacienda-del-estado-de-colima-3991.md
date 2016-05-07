@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2016-04-02"
+last_updated: "2016-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1777,17 +1777,17 @@ deberán cubrirse dentro de los 30 días
 
 naturales siguientes a la fecha de autorización.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2016)</small>
+
 En el caso de cesión o traspaso de la
 
 concesión, si ésta se realiza entre cónyuges
 
 y ascendientes o descendientes en línea
 
-recta en primer grado, pagarán el 20% de
+recta en primer grado, no causara el pago
 
-la cuota que corresponda a los incisos
-
-anteriores.
+de derecho alguno.
 
 III.- Por expedición de permisos a vehículos de
 
@@ -6104,3 +6104,11 @@ P.O. 2 DE ABRIL DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Se condona en un 50 % el pago de los derechos por la renovación de licencias de conducir (sic) motociclistas; automovilistas; choferes clase I y II y conductor de servicio; motociclista; automovilistas y motociclistas; choferes clase 1 y motociclistas; a que se refiere la fracción I del artículo 55 B de esta Ley, hasta el 31 de mayo de 2016.
+
+P.O. 7 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 89 SE APRUEBA REFORMAR EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN II, DEL ARTÍCULO 55 B DE LA LEY DE HACIENDA PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Gobernador del Estado dispondrá se publique, circule y observe.
