@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-ejecutiva-de-la-82852"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-01"
-last_updated: "2011-09-01"
+last_updated: "2016-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA EJECUTIVA DE LA COMISION IMPLEMENTADORA DEL NUEVO SISTEMA DE JUSTICIA PENAL EN EL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA EJECUTIVA DE LA COMISION IMPLEMENTADORA DEL NUEVO SISTEMA DE JUSTICIA PENAL EN EL ESTADO DE SONORA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONSEJERÍA JURÍDICA, PUBLICADO EN EL B.O. DE 9 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA EJECUTIVA DE LA COMISIÓN IMPLEMENTADORA DEL NUEVO SISTEMA DE JUSTICIA PENAL EN EL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 1 de septiembre de 2011.
 
@@ -282,3 +284,17 @@ Todo lo no previsto en este Reglamento será normado mediante los acuerdos del T
 Dado en la residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los 25 días del mes de agosto del año dos mil once.
 
 EL GOBERNADOR DEL ESTADO.- LIC. GUILLERMO PADRÉS ELÍAS.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- ING. HÉCTOR LARIOS CÓRDOVA.- RUBRICA.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 9 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONSEJERÍA JURÍDICA".]
+
+PRIMERO. Publíquese el presente Reglamento en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Reglamento.
+
+CUARTO. El presente Reglamento abroga de manera expresa el Reglamento Interior de la Secretaría Ejecutiva de la Comisión Implementadora del Nuevo Sistema de Justicia Penal en el Estado de Sonora publicado en el Boletín Oficial del Gobierno del Estado el día 01 de septiembre de 2011.
