@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2016-04-25"
+last_updated: "2016-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1501,7 +1501,7 @@ Los funcionarios de la administración pública municipal deberán comparecer an
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-ARTICULO 95 QUATER.- La Iniciativa de Ley de Ingresos deberá ser presentada al Ayuntamiento por el Presidente Municipal con apoyo del Tesorero Municipal a más tardar el 15 de octubre del año anterior al de su ejercicio, para su análisis, discusión y, en su caso, aprobación. La aprobación de dicha iniciativa será a más tardar el 31 de octubre de ese mismo año.
+ARTÍCULO 95 QUATER.- La Iniciativa de Ley de Ingresos deberá ser presentada al Ayuntamiento por el Presidente Municipal con apoyo del Tesorero Municipal a más tardar el 15 de octubre del año anterior al de su ejercicio, para su análisis, discusión y, en su caso, aprobación. La aprobación de dicha iniciativa será a más tardar el 31 de octubre de ese mismo año.
 
 La iniciativa de Ley de Ingresos contendrá la estimación de los ingresos a recaudar por parte de la Tesorería Municipal, de acuerdo con lo facultado en la Ley de Hacienda para los Municipios del Estado de Hidalgo.
 
@@ -1625,7 +1625,11 @@ I.- Ser hidalguense en pleno uso de sus derechos políticos y civiles;
 
 II.- Ser vecino del Municipio, con residencia efectiva por lo menos de un año;
 
-III.- Tener la formación académica o experiencia administrativa necesaria, así como capacidad y honestidad reconocidas;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2016)</small>
+
+III.- Contar preferentemente con título profesional con experiencia mínima de un año así como con capacidad y honestidad reconocidas;
 
 IV.- Ser de reconocida honorabilidad;
 
@@ -1691,7 +1695,11 @@ Para ser Tesorero Municipal se requiere:
 
 I.- Ser ciudadano en pleno goce de sus derechos políticos y civiles;
 
-II.- Tener conocimiento y la capacidad técnica suficiente para desempeñar el cargo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2016)</small>
+
+II.- Contar con título profesional con experiencia mínima de un año;
 
 III.- Ser de reconocida honorabilidad y honradez;
 
@@ -1847,7 +1855,11 @@ XXIII.- Las demás que le atribuyan expresamente las Leyes y Reglamentos en la m
 
 Los requisitos para ser titular de la Contraloría podrán contenerse en los Reglamentos y Bandos que al efecto emita el Ayuntamiento de cada Municipio, y en caso de no contarse con esa disposición, supletoriamente, se exigirán los siguientes:
 
-I.- Contar con estudios terminados en las ramas de Derecho, Contaduría Pública o equivalente;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2016)</small>
+
+I.- Contar con título profesional en las ramas de Derecho, Contaduría Pública o equivalente, con experiencia mínima de un año;
 
 II.- Tener un modo honesto de vivir;
 
@@ -1955,6 +1967,12 @@ El Oficial del Registro del Estado Familiar, contará con las facultades que le 
 
 Los actos del Registro del Estado Familiar, podrán realizarse en horas ordinarias o extraordinarias, dentro o fuera de sus oficinas, pero no fuera de su competencia territorial.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2016)</small>
+
+El titular de esta dependencia municipal, además de los requisitos plasmados en esta ley, deberá contar con título profesional de Licenciado en Derecho, con experiencia mínima de un año al momento de su designación;
+
 ###### ARTÍCULO 116.
 
 Dentro de los primeros quince días del mes de enero de cada año, el duplicado de los libros del Registro del Estado Familiar se remitirá a la Dirección del Registro del Estado Familiar del Estado. El Presidente Municipal vigilará que se cumpla con esta disposición.
@@ -2001,7 +2019,11 @@ XVIII.- Comparecer ante el Ayuntamiento, cuando sea requerido; y
 
 XIX.- Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal.
 
-El Titular de Obras Públicas de los Municipios, deberá ser un profesionista en la materia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2016)</small>
+
+El Titular de Obras Públicas deberá contar con título profesional y con experiencia mínima de un año.
 
 ###### ARTÍCULO 118.
 
@@ -2072,6 +2094,12 @@ IV.- Llevar a cabo el procedimiento administrativo para imponer sanciones por in
 V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen las contribuciones respectivas al Municipio; y
 
 VI.- Regular el comercio establecido, así como la autorización de espectáculos públicos en el Municipio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2016)</small>
+
+ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, la Contraloría, la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, el área de Obras Públicas, el área de Planeación Municipal o su equivalente y la Instancia Municipal para el Desarrollo de las Mujeres, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
 
 ### CAPÍTULO SÉPTIMO. DE LA POLICÍA PREVENTIVA MUNICIPAL
 
@@ -2171,15 +2199,23 @@ En cada Municipio, se deberá contar con una Dirección de Protección Civil y p
 
 El Sistema Municipal de Protección Civil debe ser el primer nivel de respuesta ante cualquier agente perturbador que afecte a la población; para su adecuado funcionamiento contará con: el Programa Municipal de Protección Civil; Atlas Nacional, Estatal y Municipal de Riesgos; inventarios; así como directorios de Recursos Materiales y Humanos del Municipio correspondiente.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 128.
 
-El Área de Protección Civil, tendrán (sic) bajo su responsabilidad la coordinación y operación del sistema Municipal de protección civil y cuerpo de bomberos, cuyos titulares serán designados y removidos por el Presidente Municipal y que preferentemente deberán cubrir los siguientes requisitos:
+El Área de Protección Civil, tendrán (sic) bajo su responsabilidad la coordinación y operación del sistema municipal de protección civil y cuerpo de bomberos, cuyos titulares serán designados y removidos por el Presidente Municipal y deberán cubrir los siguientes requisitos:
 
 I.- Ser ciudadano Hidalguense;
 
 II.- No haber sido condenado por delito doloso; y
 
-III.- Contar con certificación de capacitación en la materia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2016)</small>
+
+III.- Contar preferentemente con título profesional y con experiencia mínima de un año.
 
 ###### ARTÍCULO 129.
 
@@ -3038,3 +3074,13 @@ P.O. 25 DE ABRIL DE 2016.
 PRIMERO.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 9 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 654.- QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La obligación referida en el artículo 121 Bis de la Ley, en relación con la certificación de competencias, entrara en vigencia en el plazo señalado, o en su caso, una vez que entre en vigencia el estándar de competencia laboral respectivo.
+
+TERCERO.- Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
