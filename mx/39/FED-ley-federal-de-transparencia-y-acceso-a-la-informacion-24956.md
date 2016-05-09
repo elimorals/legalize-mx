@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-transparencia-y-acceso-a-la-informacion-24956"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-06-11"
-last_updated: "2014-07-14"
+last_updated: "2016-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-06-10"
 
 LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PUBLICADA EN EL D.O.F. DE 9 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 11 de junio de 2002.
 
@@ -1048,3 +1050,51 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 9 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL Y SE EXPIDE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental Publicada en el Diario Oficial de la Federación el 11 de junio de 2002, con excepción de lo dispuesto en el párrafo siguiente.
+
+En tanto no se expidan las leyes generales en materia de datos personales en posesión de sujetos obligados y archivo, permanecerá vigente la normatividad federal en la materia.
+
+TERCERO. Los sujetos obligados correspondientes deberán tramitar, expedir o modificar su normatividad interna a más tardar dentro de los doce meses siguientes a la entrada en vigor de esta Ley.
+
+CUARTO. Para el cumplimiento de las nuevas obligaciones establecidas en los Capítulos I y II del Título Tercero de esta Ley, el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, deberá de aprobar en un plazo de seis meses a partir de la entrada en vigor del presente Decreto, los correspondientes lineamientos que regularán la forma, términos y plazos en que los sujetos obligados del ámbito federal deberán de cumplirlas.
+
+Los procedimientos de verificación de las obligaciones de transparencia y de denuncia por incumplimiento a las obligaciones de transparencia previstas respectivamente en los Capítulos III y IV del Título Tercero de la presente Ley, podrán ser realizados y presentados hasta que transcurra el plazo a que se refiere el párrafo anterior.
+
+Las obligaciones de transparencia específicas prescritas en la presente Ley se incorporarán en la Plataforma Nacional de Transparencia, en el ámbito de los sujetos obligados federales, en el mismo plazo referido en el párrafo anterior.
+
+Las nuevas obligaciones establecidas en los Capítulos I y II del Título Tercero de esta Ley, serán aplicables para los sujetos obligados, sólo respecto de la información que se genere a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. El Instituto podrá ejercer las facultades de revisión a que se refiere esta Ley, a partir de la fecha referida en el artículo Sexto Transitorio de la Ley General de Transparencia y Acceso a la Información Pública, es decir, un año a partir de la entrada en vigor de dicha Ley.
+
+Aquellos recursos de revisión no presentados ante el Instituto y tramitados ante los sujetos obligados, y que deban resolverse hasta antes de que transcurra un año a partir de la fecha de entrada en vigor de la Ley General de Transparencia y Acceso a la Información Pública, se sustanciarán de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental a que se refiere el artículo Segundo Transitorio anterior, y demás disposiciones relativas.
+
+Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto, se sustanciarán ante el Instituto y por los sujetos obligados hasta su total conclusión conforme a la normatividad vigente al momento de su presentación.
+
+SEXTO. El Instituto expedirá su Estatuto Orgánico y los lineamientos necesarios para el ejercicio de sus atribuciones, de conformidad con lo previsto en la presente Ley, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+SÉPTIMO. La designación de los consejeros que integrarán el Consejo Consultivo del Instituto se realizará a más tardar dentro de los noventa días siguientes a la entrada en vigor de este Decreto.
+
+Para asegurar la renovación escalonada de los consejeros en los primeros nombramientos, el Senado de la República designará consejeros de transición por un término menor al de siete años establecido en la Ley General y en esta Ley, sin posibilidad de ser ratificados para un segundo periodo, y así lograr con posterioridad la sustitución anual de los dos consejeros de mayor antigüedad en el cargo, de conformidad con los siguientes plazos:
+
+a) Nombrará a 2 consejeros, que serán sustituidos el 1o. de septiembre de 2017.
+
+b) Nombrará a 2 consejeros, que serán sustituidos el 1o. de septiembre de 2018.
+
+c) Nombrará a 2 consejeros, que serán sustituidos el 1o. de septiembre de 2019.
+
+d) Nombrará a 2 consejeros, que serán sustituidos el 1o. de septiembre de 2020.
+
+e) Nombrará a 2 consejeros, que serán sustituidos el 1o. de septiembre de 2021.
+
+Los consejeros que sustituyan a los mencionados en el párrafo anterior, deberán ser designados por un periodo de siete años, con la posibilidad de ser ratificados para un segundo periodo, de conformidad con el procedimiento que al respecto disponga el Senado de la República.
+
+OCTAVO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición respecto del Instituto Federal de Acceso a la Información y Protección de Datos, se entenderán referidas al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con movimientos compensados dentro del presupuesto autorizado para el Instituto y los sujetos obligados, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
