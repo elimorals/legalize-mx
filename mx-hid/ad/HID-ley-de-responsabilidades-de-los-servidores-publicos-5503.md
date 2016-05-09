@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2016-03-28"
+last_updated: "2016-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -457,45 +457,79 @@ En lo relativo a los procedimientos regulados en el Título Tercero de este orde
 
 Incurren en responsabilidad administrativa los servidores públicos a que se refiere el Artículo 2 de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 47.
 
-Para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficacia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento diere lugar al procedimiento y a las sanciones que correspondan según la naturaleza de la infracción en que se incurra, todo servidor público independientemente de las obligaciones específicas, tendrá las siguientes:
+Para salvaguardar la legalidad, honradez, lealtad, imparcialidad, perspectiva de género y eficacia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y cuyo incumplimiento diere lugar al procedimiento y a las sanciones que correspondan según la naturaleza de la infracción en que se incurra, todo servidor público independientemente de las obligaciones específicas, tendrá las siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 I.- Cumplir con diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 II.- Formular y ejecutar, en su caso, los planes, programas y presupuestos correspondientes a su competencia, cumplir las Leyes y otras normas que determinen el manejo de recursos económicos públicos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 III.- Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión exclusivamente para los fines a que están afectos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 IV.- Ejercer exclusivamente las facultades que tenga y las que le sean atribuidas en el desempeño de su empleo, cargo o comisión;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 V.- Custodiar y cuidar la documentación, información, recursos, dinero y valores que por razón de su empleo, cargo o comisión tenga bajo su responsabilidad o acceso a los mismos, impidiendo o evitando su uso, sustracción, destrucción, ocultamiento o utilización indebida;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 VI.- Cumplir con las obligaciones de protección de datos personales, de conformidad con la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 VII.- Observar buena conducta, tratando con diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de sus funciones, garantizando en todo momento el respeto a sus derechos fundamentales;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 VIII.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 IX.- Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 X.- Comunicar por escrito al titular de la dependencia o entidad en la que presten sus servicios, las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XI.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XII.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XIII.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohíba;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XIV.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo o cargo en el servicio público;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XV.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge, concubina o concubinario, parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XVI.- Informar por escrito al jefe inmediato y en su caso, al superior jerárquico sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos.
 
 Para los efectos de esta fracción se entenderá por superior jerárquico al titular de la dependencia o entidad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XVII.- Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero u objetos mediante enajenación a su favor en precio notoriamente inferior al bien de que se trate y que tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XV de este Artículo, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto.
 
@@ -507,21 +541,39 @@ Una vez concluido el empleo, cargo o comisión, el servidor público deberá obs
 
 Tratándose de intereses en conflicto que impliquen las actividades del personal de los centros públicos de investigación, los órganos de Gobierno de tales centros, con la previa autorización de su Órgano Interno de Control, podrán determinar los términos y condiciones específicas de aplicación y excepción a lo dispuesto en esta fracción;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XVIII.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XV de este Artículo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XIX.- Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XV de este Artículo;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XX.- Presentar con oportunidad y veracidad, las declaraciones de situación patrimonial en los términos establecidos por esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XXI.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría y Transparencia Gubernamental y de los Órganos Internos de Control correspondientes;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XXII.- Informar al jefe inmediato o superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este Artículo, y en los términos de las normas que al efecto se expidan;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XXIII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servidor público;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XXIV.- Abstenerse de realizar actos o incurrir en omisiones que pongan en riesgo la vida e integridad de las personas;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XXV.- Proporcionar en forma veraz y en los términos que el ordenamiento legal correspondiente establezca, toda la información solicitada por la Comisión de Derechos Humanos del Estado de Hidalgo, a fin de que esta pueda cumplir con las facultades y obligaciones que le correspondan por la Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XXVI.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos, mantenimientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de los órganos de control correspondientes, a propuesta razonada del titular de la dependencia o entidad de que se trate, conforme a las disposiciones legales aplicables. Por ningún motivo podrá celebrarse pedido o contrato con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
@@ -529,7 +581,11 @@ XXVI.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celeb
 
 XXVII.- Cumplir con las recomendaciones, acciones y plazos que determine la Auditoría, relacionados con la aplicación del Presupuesto de Egresos, de la rendición de la Cuenta Pública y de los demás elementos de control de los recursos públicos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XXVIII.- Aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XXIX.- Abstenerse de incluir nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público, de cualquiera de los poderes del Estado u órganos de Gobierno en la propaganda que bajo cualquier modalidad de comunicación social difundan como tales los poderes públicos, los órganos autónomos, los Ayuntamientos, las dependencias y entidades de la Administración Pública, asegurándose de que la misma tenga carácter institucional y fines informativos, educativos o de orientación social.
 
@@ -541,6 +597,8 @@ b).- Los informes de labores o gestión que por disposición legal se deban rend
 
 En ningún caso podrán difundirse los actos precisados en los incisos anteriores con fines electorales o dentro de los periodos de campañas electorales, ya sean federales o estatales;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+
 XXX.- Cumplir con la entrega del despacho a su cargo en los términos establecidos por la Ley de la materia; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2016)</small>
@@ -550,6 +608,8 @@ XXXI.- Abstenerse de realizar en el ejercicio de sus funciones, cualquier acto d
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2016)</small>
 
 XXXII.- Las demás que le impongan las leyes y reglamentos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría y Transparencia Gubernamental, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría y Transparencia Gubernamental, el subalterno deberá practicarla directamente informando a su superior acerca de este acto.
 
@@ -1138,3 +1198,9 @@ P.O. 28 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 642 QUE REFORMA LA FRACCIÓN XXXI Y RECORRE LA SUBSECUENTE, QUE PASA A SER XXXII, DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 653 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
