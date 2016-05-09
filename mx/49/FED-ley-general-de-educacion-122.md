@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2015-12-17"
+last_updated: "2016-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -346,9 +346,9 @@ I.- Prestar los servicios de educación inicial, básica -incluyendo la indígen
 
 II.- Proponer a la Secretaría los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2016)</small>
 
-III.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, con respeto al calendario fijado por la Secretaría;
+III.- Autorizar, previa verificación del cumplimiento de los lineamientos emitidos por la autoridad educativa federal, los ajustes que realicen las escuelas al calendario escolar determinado por la Secretaría para cada ciclo lectivo de educación básica y normal y demás para la formación de maestros de educación básica;
 
 > <small>(REFORMADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
 
@@ -930,13 +930,13 @@ Las instituciones deberán informar periódicamente a los educandos y, en su cas
 
 #### Sección 3.- Del calendario escolar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 51.
 
-La autoridad educativa federal determinará el calendario escolar aplicable a toda la República, para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables. El calendario deberá contener doscientos días de clase para los educandos.
+La autoridad educativa federal determinará el calendario escolar aplicable a toda la República, para cada ciclo lectivo de la educación básica y normal y demás para la formación de maestros de educación básica, necesarios para cubrir los planes y programas aplicables. El calendario deberá contener un mínimo de ciento ochenta y cinco días y un máximo de doscientos días efectivos de clase para los educandos.
 
-La autoridad educativa local podrá ajustar el calendario escolar respecto al establecido por la Secretaría, cuando ello resulte necesario en atención a requerimientos específicos de la propia entidad federativa. Los maestros serán debidamente remunerados si la modificación al calendario escolar implica más días de clase para los educandos que los citados en el párrafo anterior.
+Las autoridades escolares, previa autorización de la autoridad educativa local y de conformidad con los lineamientos que expida la Secretaría, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables.
 
 ###### ARTICULO 52.
 
@@ -952,7 +952,9 @@ De presentarse interrupciones por caso extraordinario o fuerza mayor, la autorid
 
 El calendario que la Secretaría determine para cada ciclo lectivo de educación preescolar, de primaria, de secundaria, de normal y demás para la formación de maestros de educación básica, se publicará en el Diario Oficial de la Federación.
 
-El calendario aplicable en cada entidad federativa deberá publicarse en el órgano informativo oficial de la propia entidad.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2016)</small>
+
+La autoridad educativa de cada entidad federativa publicará en el órgano informativo oficial de la propia entidad, las autorizaciones de ajustes al calendario escolar determinado por la Secretaría.
 
 ### CAPITULO V. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
 
@@ -1200,7 +1202,9 @@ La autoridad escolar hará lo conducente para que en cada escuela pública de ed
 
 Este consejo:
 
-a) Conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2016)</small>
+
+a) Opinará sobre los ajustes al calendario escolar aplicable a cada escuela y conocerá las metas educativas, así como el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
 
 b) Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 42 de la presente ley;
 
@@ -1719,3 +1723,15 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 9 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 13, 51, 53 Y 69 DE LA LEY GENERAL DE EDUCACIÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La implementación de las modificaciones al calendario escolar surtirá efectos a partir del ciclo lectivo inmediato posterior a la fecha de entrada en vigor del presente Decreto.
+
+Tercero.- La Secretaría de Educación Pública, previa opinión del Consejo Nacional de Participación Social en la Educación, emitirá los lineamientos a que se refieren los artículos 13, fracción III, y 51, segundo párrafo, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- Se derogan las disposiciones que se opongan al presente Decreto.
