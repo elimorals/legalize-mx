@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-instituto-hidalguense-de-75010"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-05-10"
-last_updated: "2010-05-10"
+last_updated: "2016-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO HIDALGUENSE DE FINANCIAMIENTO A LA EDUCACION SUPERIOR, DEL ESTADO DE HIDALGO
 
-ESTATUTO ORGANICO DEL INSTITUTO HIDALGUENSE DE FINANCIAMIENTO A LA EDUCACION SUPERIOR
+ESTATUTO ORGÁNICO DEL INSTITUTO HIDALGUENSE DE FINANCIAMIENTO A LA EDUCACIÓN SUPERIOR
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO HIDALGUENSE DE FINANCIAMIENTO A LA EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 9 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2016 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2010.
 
@@ -590,3 +592,21 @@ Secretario de la Contraloría del Gobierno del Estado de Hidalgo.
 L.A. Moema Arteaga Montiel
 
 Directora General del Instituto Hidalguense de Financiamiento a la Educación Superior.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DEL INSTITUTO HIDALGUENSE DE FINANCIAMIENTO A LA EDUCACIÓN SUPERIOR”.]
+
+PRIMERO. El presente Estatuto Orgánico, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto Hidalguense de Financiamiento a la Educación Superior, publicado en el Periódico Oficial del Estado de Hidalgo, el 10 de mayo del 2010, quedando sin efecto todas las disposiciones legales que se opongan al presente Estatuto Orgánico.
+
+TERCERO. Los aspectos no previstos en este Estatuto Orgánico, serán resueltos por los integrantes de la Junta de Gobierno del Instituto Hidalguense de Financiamiento a la Educación Superior.
+
+CUARTO. Los acuerdos, circulares y demás disposiciones emitidas por la Dirección General antes y durante la autorización de este Estatuto, tendrán plena validez, siempre y cuando no se opongan al presente Estatuto.
+
+QUINTO. En tanto se expidan los Manuales de Organización y de Procedimientos, que en éste Estatuto se mencionan, el titular de la Dirección General resolverá las cuestiones que conforme a dichos manuales se deban regular.
+
+SEXTO. El presente Estatuto Orgánico deberá inscribirse en el Registro Público de Organismos Descentralizados en términos de lo que establezca el Reglamento de la Ley de Entidades Paraestatales del Estado de Hidalgo.
