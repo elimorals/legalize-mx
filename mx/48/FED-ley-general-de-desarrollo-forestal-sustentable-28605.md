@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2015-03-26"
+last_updated: "2016-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -1764,7 +1764,9 @@ La Secretaría sólo podrá autorizar el cambio de uso del suelo en terrenos for
 
 En las autorizaciones de cambio de uso del suelo en terrenos forestales, la autoridad deberá dar respuesta debidamente fundada y motivada a las propuestas y observaciones planteadas por los miembros del Consejo Estatal Forestal.
 
-No se podrá otorgar autorización de cambio de uso de suelo en un terreno incendiado sin que hayan pasado 20 años, a menos que se acredite fehacientemente a la Secretaría que el ecosistema se ha regenerado totalmente, mediante los mecanismos que para tal efecto se establezcan en el reglamento correspondiente.
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2016)</small>
+
+No se podrá otorgar autorización de cambio de uso del suelo en terreno incendiado sin que hayan pasado 20 años y que se acredite fehacientemente a la Secretaría que el ecosistema se ha regenerado totalmente, mediante los mecanismos que para tal efecto se establezcan en el reglamento correspondiente.
 
 > <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
@@ -1858,9 +1860,17 @@ El Ejecutivo Federal, con base en los estudios técnicos que se elaboren para ju
 
 I. Constituyan justificadamente modalidades para el manejo de los recursos forestales comprendidos en las declaratorias de áreas naturales protegidas;
 
-II. Formen parte de las acciones o condiciones establecidas para las áreas que se declaren como de zonas de restauración ecológica, o
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2016)</small>
 
-III. Tengan como finalidad la conservación, repoblación, propagación, diseminación, aclimatación o refugio de especies forestales endémicas, amenazadas, en peligro de extinción o sujetas a protección especial.
+II. Formen parte de las acciones o condiciones establecidas para las áreas que se declaren como de zonas de restauración ecológica;
+
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2016)</small>
+
+III. Tengan como finalidad la conservación, repoblación, propagación, diseminación, aclimatación o refugio de especies forestales endémicas, amenazadas, en peligro de extinción o sujetas a protección especial, o
+
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 2016)</small>
+
+IV. Tengan como finalidad la regeneración de terrenos incendiados.
 
 Se exceptuarán de las vedas los terrenos en los que se realice el aprovechamiento forestal o la forestación de conformidad con los instrumentos de manejo establecidos en la presente ley, en tanto no se ponga en riesgo grave e inminente la biodiversidad, de acuerdo con los criterios e indicadores que al efecto se emitan.
 
@@ -2354,11 +2364,15 @@ XX. Omitir ejecutar trabajos de conformidad con lo dispuesto por esta ley, ante 
 
 XXI. Provocar intencionalmente o por imprudencia, incendios en terrenos forestales o preferentemente forestales;
 
-XXII. Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de recursos forestales;
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 2016)</small>
 
-XXIII. Depositar residuos peligrosos en terrenos forestales o preferentemente forestales, sin contar con la autorización debidamente expedida para ello, y
+XXII. Realizar en terrenos incendiados, cualquier actividad o uso distintos a la restauración o al manejo forestal sustentable, dentro de los 20 años siguientes a que haya ocurrido un incendio;
 
-XXIV. Cualquier otra contravención a lo dispuesto en la presente Ley.
+XXIII. Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de recursos forestales;
+
+XXIV. Depositar residuos peligrosos en terrenos forestales o preferentemente forestales, sin contar con la autorización debidamente expedida para ello, y
+
+XXV. Cualquier otra contravención a lo dispuesto en la presente Ley.
 
 ### CAPITULO VI.. De las Sanciones
 
@@ -2384,11 +2398,21 @@ En el caso de las fracciones III y IV de este artículo, la Secretaría ordenar�
 
 La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
 
-I. Con el equivalente de 40 a 1,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXIV del artículo 163 de esta ley, y
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2016)</small>
 
-II. Con el equivalente de 100 a 20,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII del artículo 163 de esta ley.
+I. Con el equivalente de 40 a 1,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones V, VI, XII, XV, XVI, XX y XXV del artículo 163 de esta Ley;
 
-Para la imposición de las multas servirá de base el salario mínimo general diario vigente para el Distrito Federal al momento de cometerse la infracción.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2016)</small>
+
+II. Con el equivalente de 100 a 20,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, VIII, X, XI, XIII, XIV, XVII, XVIII, XXIII y XXIV del artículo 163 de esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 2016)</small>
+
+III. Con el equivalente de 150 a 30,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones IX, XIX, XXI y XXII del artículo 163 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2016)</small>
+
+Para la imposición de multas servirá de base la Unidad de Medida y Actualización prevista en el párrafo sexto del Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, al momento de cometerse la infracción.
 
 A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
 
@@ -2523,3 +2547,9 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 51, FRACCIÓN IX; 116 Y 139, FRACC
 D.O.F. 26 DE MARZO DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
