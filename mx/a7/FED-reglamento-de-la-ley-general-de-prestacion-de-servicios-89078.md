@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-prestacion-de-servicios-89078"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-22"
-last_updated: "2012-08-22"
+last_updated: "2016-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89078&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-08-21"
 
 REGLAMENTO DE LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2016.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2016, LAS ATRIBUCIONES Y MENCIONES QUE OTRAS DISPOSICIONES ADMINISTRATIVAS REALICEN A LA SECRETARÍA DE SALUD COMO TITULAR DE LA PRESIDENCIA DEL CONSEJO NACIONAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL, SE ENTENDERÁN HECHAS AL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.]</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de agosto de 2012.
 
@@ -179,7 +181,7 @@ Las Reglas Internas que expida el Consejo regularán su operación y funcionamie
 
 El Presidente del Consejo y los demás integrantes, a que se refiere el artículo 25 de la Ley, y en su caso, sus suplentes, contarán con voz y voto.
 
-La Secretaría a través de un acuerdo que deberá publicarse en el Diario Oficial de la Federación, integrará al Consejo a los titulares de otras dependencias y entidades federales que presten servicios para la atención, cuidado y desarrollo integral infantil, o cuyo ámbito de atribuciones esté vinculado con estos servicios, los que contarán con voz y voto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE MAYO DE 2016)</small>
 
 ###### Artículo 24.
 
@@ -784,3 +786,15 @@ QUINTO. Las Autoridades Competentes a que hace referencia el presente Reglamento
 SEXTO. Se derogan las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de agosto de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.- El Secretario de la Defensa Nacional, Guillermo Galván Galván.- Rúbrica.- El Secretario de Desarrollo Social, Jesús Heriberto Félix Guerra.- Rúbrica.- El Secretario de Salud, Salomón Chertorivski Woldenberg.- Rúbrica.- El Secretario de Educación Pública, José Angel Córdova Villalobos.- Rúbrica.- La Secretaria del Trabajo y Previsión Social, Rosalinda Vélez Juárez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 23 DEL REGLAMENTO DE LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría de Salud transferirá al Sistema Nacional para el Desarrollo Integral de la Familia los expedientes, archivos, acervos y demás documentación relacionada con la Presidencia del Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil que, en su caso, se encuentren bajo su resguardo, en cualquier formato, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, las atribuciones y menciones que otras disposiciones administrativas realicen a la Secretaría de Salud como titular de la Presidencia del Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, se entenderán hechas al Sistema Nacional para el Desarrollo Integral de la Familia.
