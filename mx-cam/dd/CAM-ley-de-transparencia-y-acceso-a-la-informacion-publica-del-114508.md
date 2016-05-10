@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1145
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2016-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EN EL P.O. DEL 10 Y 12 DE MAYO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MAYO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 4 de mayo de 2016.
 
@@ -297,7 +297,9 @@ III. Habilitadas las Comisiones de referencia, estas procederán de inmediato a 
 
 IV. Este procedimiento, preferentemente, no deberá exceder la fecha de conclusión del periodo de los Comisionados en funciones;
 
-V. Concluido el procedimiento de auscultación, la Comisión rendirá por escrito el correspondiente informe de resultados al pleno del Congreso, acompañando la documentación que hubiere recabado, procediéndose desde luego a la elección; y
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2016)</small>
+
+V. Concluido el procedimiento de auscultación, las Comisiones rendirán por escrito el correspondiente informe de resultados al pleno del Congreso, acompañando la documentación que hubieren recabado, procediéndose desde luego a la elección; y
 
 VI. Los electos serán citados ante el pleno del Congreso o de la Diputación Permanente para rendir la protesta de ley.
 
@@ -493,9 +495,11 @@ X. Las demás que le confieran la Ley, el reglamento interior de la Comisión y 
 
 ### CAPÍTULO III. DEL CONSEJO CONSULTIVO
 
+> <small>(F. DE E., P.O. 10 DE MAYO DE 2016)</small>
+
 ###### Artículo 40.
 
-La Comisión contará con un Consejo Consultivo integrado por cinco consejeros, quienes durarán en el cargo cinco años.
+La Comisión contará con un Consejo Consultivo integrado por cinco consejeros, quienes durarán en el cargo cinco años. El cargo de Consejero es honorífico y no da derecho a remuneración alguna.
 
 Los Consejeros serán designados por el H. Congreso del Estado, a propuesta de la Comisión, y deberán ser integrantes de organizaciones civiles o de la academia.
 
