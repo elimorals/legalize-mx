@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2015-11-12"
+last_updated: "2016-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2016.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -932,6 +932,12 @@ Los usuarios deberán ajustarse a las reglamentaciones internas de las instituci
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos a la población en general y a los servicios sociales y privados.
 
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2016)</small>
+
+###### ARTICULO 53 Bis.
+
+Los prestadores de servicios de salud, para efectos de identificación de usuarios de los servicios de salud, incluyendo los derechohabientes de los organismos de seguridad social, podrán implementar registros biométricos y otros medios de identificación electrónica.
+
 > <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 54.
@@ -1052,9 +1058,9 @@ I.- Procedimientos que permitan la participación activa de la familia en la pre
 
 II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de impulsar, la instalación de lactarios en los centros de trabajo de los sectores público y privado;
 
-> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2016)</small>
 
-II Bis.- Acciones de promoción para la creación de bancos de leche humana en los establecimientos de salud que cuenten con servicios neonatales;
+II Bis.- Al menos un banco de leche humana por cada entidad federativa en alguno de sus establecimientos de salud que cuente con servicios neonatales;
 
 > <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2009)</small>
 
@@ -8528,8 +8534,18 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 
 Segundo. Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 502.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS".]
+D.O.F. 10 DE MAYO DE 2016.
 
-Artículo primero. El presente Decreto deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado y entrará en vigor al día siguiente al de su publicación.
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 53 BIS A LA LEY GENERAL DE SALUD”.]
 
-Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II BIS DEL ARTÍCULO 64 DE LA LEY GENERAL DE SALUD, EN MATERIA DE BANCOS DE LECHE HUMANA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud establecerá la normatividad para la instalación y funcionamiento de los bancos de leche humana.
+
+Asimismo, las acciones que deban realizar las entidades federativas para dar cumplimiento a lo dispuesto en el presente Decreto, en términos de la normatividad que la Secretaría de Salud emita para tal efecto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en sus presupuestos.
