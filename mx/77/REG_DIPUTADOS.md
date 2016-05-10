@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2016-05-04"
+last_updated: "2016-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -274,9 +274,15 @@ XVII. Permitir la libre discusión y decisión parlamentaria en las sesiones, as
 
 XVIII. Retirar cualquier expresión material que haya utilizado para su intervención en el Pleno, una vez que ésta haya concluido;
 
-XIX. Acatar las sanciones que establece este Reglamento y otros ordenamientos aplicables, y
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2016)</small>
 
-XX. Las demás previstas en este Reglamento.
+XIX. Acatar las sanciones que establece este Reglamento y otros ordenamientos aplicables;
+
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 2016)</small>
+
+XX. Acatar las disposiciones y procedimientos del Código de Ética de la Cámara de Diputados del Honorable Congreso de la Unión, y
+
+XXI. Las demás previstas en este Reglamento.
 
 2. Para los efectos de la fracción VI, la Mesa Directiva deberá llevar y mantener actualizado un registro de los asuntos que estará vigente durante toda la Legislatura.
 
@@ -3839,3 +3845,11 @@ D.O.F. 4 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UN NUMERAL 2 AL ARTÍCULO 97 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 8 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS Y SE EXPIDE EL CÓDIGO DE ÉTICA DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Junta de Coordinación Política, tendrá noventa días a partir de la entrada en vigor del presente Decreto, para emitir la propuesta de constitución del Comité de Ética de la Cámara de Diputados de la LXIII Legislatura.
