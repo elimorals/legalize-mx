@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2015-05-27"
+last_updated: "2016-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
+Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
@@ -7493,13 +7493,17 @@ III.- Las solicitudes de divorcio por un mutuo consentimiento;
 
 IV.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, adopción y del cambio de régimen de matrimonio;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-V.- Las acciones de divorcio establecidas en las fracciones I, XI y XII del Artículo 267 del Código Civil, siempre que no se hagan valer con alguna diversa de éstas; y
+V.- Las acciones de divorcio establecidas en las fracciones I, XI y XII del Artículo 267 del Código Civil, siempre que no se hagan valer con alguna diversa de éstas;
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-VI.- El trámite estipulado en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León.
+VI.- El trámite estipulado en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2016)</small>
+
+VII.- Las controversias que se susciten con motivo de las obligaciones que nacen de los actos ilícitos.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -9706,3 +9710,9 @@ Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada 
 P.O. 27 DE MAYO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 108. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES V Y VI Y LA ADICIÓN DE UNA FRACCIÓN VII EN EL ARTÍCULO 989 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTICULO 1812 BIS DEL CÓDIGO CIVIL AMBOS DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
