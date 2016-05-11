@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-de-81378
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-09"
-last_updated: "2011-05-09"
+last_updated: "2016-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE CIUDAD HIDALGO, MICHOACAN
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE CIUDAD HIDALGO
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE CIUDAD HIDALGO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE CIUDAD HIDALGO, PUBLICADO EN EL P.O. DE 11 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección al Periódico Oficial del Estado de Michoacán, el lunes 9 de mayo de 2011.
 
@@ -360,3 +362,13 @@ LA SECRETARIA DE EDUCACIÓN
 GRACIELA CARMINA ANDRADE GARCÍA PELÁEZ
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE CIUDAD HIDALGO”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Ciudad Hidalgo, publicado en la Cuarta Sección, Tomo CLI número 65 del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 09 de mayo de 2011, y se dejan sin efecto todas las disposiciones de carácter administrativo en lo que se oponga al presente Reglamento.
