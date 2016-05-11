@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-10708
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-04-02"
-last_updated: "2015-04-02"
+last_updated: "2016-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107087&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2015-02-25"
 
 ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EN EL D.O.F. DE 11 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2016 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 2 de abril de 2015.
 
@@ -1382,3 +1384,17 @@ TERCERO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conf
 CUARTO. La Procuraduría Federal de Protección, deberá crearse en el presente ejercicio presupuestario, a efecto de dar cumplimiento a lo establecido en la Ley General de los Derechos de las Niñas, Niños y Adolescentes.
 
 Se expide en la Ciudad de México, Distrito Federal, a los veinticinco días del mes febrero de dos mil quince.- La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, Laura Ibernia Vargas Carrillo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el dos de abril de dos mil quince.
+
+TERCERO. Las menciones referidas a las demarcaciones territoriales en el presente Estatuto, se entenderán como alcaldías de conformidad con el DECRETO por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México, publicado en el Diario Oficial de la Federación el 29 de enero de 2016.
+
+CUARTO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
