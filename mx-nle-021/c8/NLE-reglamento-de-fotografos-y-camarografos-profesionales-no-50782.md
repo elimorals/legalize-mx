@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-fotografos-y-camarografos-profesionales-no-50782"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-05"
-last_updated: "2006-06-05"
+last_updated: "2016-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE FOTOGRAFOS Y CAMAROGRAFOS PROFESIONALES NO ASALARIADOS. DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DE FOTGRAFOS Y CAMAROGRAFOS PROFESIONALES NO ASALARIADOS DEL MUNICIPIO DE GRAL. ESCOBEDO, NUEVO LEON
+REGLAMENTO DE FOTÓGRAFOS Y CAMARÓGRAFOS PROFESIONALES NO ASALARIADOS DEL MUNICIPIO DE GRAL. ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de junio de 2006.
 
@@ -59,17 +59,41 @@ REGLAMENTO DE FOTOGRAFOS Y CAMAROGRAFOS PROFESIONALES NO ASALARIADOS DEL MUNICIP
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 1.
 
-El presente Reglamento fija las normas a que se sujetarán los Fotógrafos y Camarógrafos que profesionalmente sin ser asalariados ejerzan su actividad en lugares públicos correspondientes a General Escobedo, Nuevo León. Se expide con fundamento en previsto por el Artículo 115, Fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 131, Fracciones I y II inciso H de la Constitución Política del Estado de Nuevo León; 160, 161 y 162 de la Ley Orgánica de la Administración Pública Municipal.
+El presente Reglamento fija las normas a que se sujetarán los Fotógrafos y Camarógrafos que profesionalmente sin ser asalariados ejerzan su actividad en lugares públicos correspondientes a General Escobedo, Nuevo León. Se expide con fundamento en (sic) previsto por el Artículo 115, Fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 131, Fracciones I y II inciso H de la Constitución Política del Estado de Nuevo León; 222, 223 y 224 de la Ley de Gobierno Municipal.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2016)</small>
+
+Son autoridades para la aplicación del presente Reglamento:
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+1. El Presidente Municipal;
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+2. El Secretario del Ayuntamiento;
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+3. La Dirección de Inspección, Control y Vigilancia.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+4. La Dirección de Comercio.
 
 ### CAPITULO II.
 
 DE LAS LICENCIAS.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 2.
 
-Las personas físicas que se dediquen profesionalmente a tomar Fotografía y películas en movimiento, en lugares públicos sin ser asalariados, deberán obtener para el ejercicio de dichas actividades licencia de la Presidencia Municipal de General Escobedo, Nuevo León. Igualmente las personas morales dedicadas a dicha actividad, podrán solicitar la licencia mencionada hasta por tres miembros o empleados de dicha persona moral, debiéndose de sujetar en todo caso los miembros o empleados a los requisitos que deben de reunir las personas físicas para la obtención de su licencia.
+Las personas físicas que se dediquen profesionalmente a tomar Fotografía y películas en movimiento, en lugares públicos sin ser asalariados, deberán obtener para el ejercicio de dichas actividades licencia del Gobierno Municipal de General Escobedo, Nuevo León. Igualmente las personas morales dedicadas a dicha actividad, podrán solicitar la licencia mencionada hasta por tres miembros o empleados de dicha persona moral, debiéndose de sujetar en todo caso los miembros o empleados a los requisitos que deben de reunir las personas físicas para la obtención de su licencia.
 
 ###### ARTICULO 3.
 
@@ -87,7 +111,9 @@ DE LOS REQUISITOS.
 
 Quienes pretendan obtener la licencia a que se refieren los artículos 2 y 3 de este Reglamento deberán satisfacer los siguientes requisitos:
 
-a).- Presentar y suscribir solicitud indicando sus datos generales, domicilio y media filiación del interesado, así como la Organización a la que pertenezcan.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+a).- Presentar y suscribir solicitud indicando sus datos generales, domicilio y media filiación del interesado, ante la Dirección de Comercio.
 
 b).- Acompañar su solicitud con tres fotografías tamaño credencial.
 
@@ -312,3 +338,13 @@ PRESIDENTE MUNICIPAL.
 LIC. REFUGIO MACIAS MUÑOZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN DEL REGLAMENTO DE FOTÓGRAFOS Y CAMARÓGRAFOS PROFESIONALES NO ASALARIADOS DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN”.]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este Municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
