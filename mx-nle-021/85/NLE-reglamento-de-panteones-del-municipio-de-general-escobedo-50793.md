@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-del-municipio-de-general-escobedo-50793
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-02"
-last_updated: "2006-06-02"
+last_updated: "2016-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE PANTEONES DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DE PANTEONES DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO DE PANTEONES DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de junio de 2006.
 
@@ -63,9 +63,11 @@ TRANSITORIOS 12
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en este reglamento son de Orden Público y se expiden con fundamento en lo previsto por los Artículos 115, Fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 113, Fracciones I y II, inciso II de la Constitución Política del Estado de Nuevo León; 160 y 162 de la Ley Orgánica de la Administración Pública Municipal.
+Las disposiciones contenidas en este reglamento son de Orden Público y se expiden con fundamento en lo previsto por los Artículos 115, Fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 113, Fracciones I y II, inciso II de la Constitución Política del Estado de Nuevo León; 222, 223, y 224 de la Ley de Gobierno Municipal del Estado de Nuevo León.
 
 ###### ARTÍCULO 2.
 
@@ -137,9 +139,13 @@ II.- El Presidente Municipal.
 
 III.- El Secretario del R. Ayuntamiento.
 
-IV.- El Administrador de Cementerios.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-V.- La Comisión de Patrimonio Municipal y Panteones.
+IV.- El Secretario de Administración, Finanzas y Tesorero Municipal.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+V.- El Director de Patrimonio del Municipio de General Escobedo.
 
 ###### ARTÍCULO 7.
 
@@ -147,7 +153,7 @@ Compete al R. Ayuntamiento:
 
 I.- Autorizar el establecimiento de cementerios.
 
-II.- Expedir las licencias de uso de suelo para el establecimiento de cementerios.
+II.- (DEROGADA, P.O. 11 DE MAYO DE 2016)
 
 ###### ARTÍCULO 8.
 
@@ -165,19 +171,29 @@ I.- Participar y dar fe de los acuerdos y convenios, que se realicen en relació
 
 II.- Las demás que le correspondan de acuerdo a lo preceptuado por la Ley.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+ARTÍCULO 9 BIS. Corresponde al C. Secretario de Administración, Finanzas y Tesorero Municipal:
+
+I.- Participar y dar fe de los acuerdos y convenios, que se realicen en relación con este Reglamento.
+
+II.- Las demás que le correspondan de acuerdo a lo preceptuado por la Ley.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde al C. Administrador de Cementerios:
+Corresponde al Director de Patrimonio:
 
-I.- Elaborar dictamen técnico sobre áreas que se pretenden destinar a Cementerios, apoyado por la Secretaría de Desarrollo Urbano y Ecología.
+I. Elaborar dictamen técnico sobre áreas que se pretenden destinar a Cementerios, apoyado por la Secretaría de Desarrollo Urbano y Ecología.
 
-II.- Solicitar a la Secretaría de Desarrollo Urbano y Ecología la autorización para el uso del suelo y zonificación.
+II. Solicitar a la Secretaría de Desarrollo Urbano y Ecología la autorización para el uso del suelo y zonificación.
 
-III.- Analizar los proyectos y solicitudes para la construcción de un Cementerio de acuerdo al dictamen de la Secretaría de Desarrollo Urbano y Ecología.
+III. Analizar los proyectos y solicitudes para la construcción de un Cementerio de acuerdo al dictamen de la Secretaría de Desarrollo Urbano y Ecología.
 
-IV.- Solicitar la elaboración de planos necesarios de los panteones municipales para su buen funcionamiento.
+IV. Solicitar la elaboración de planos necesarios de los panteones municipales para su buen funcionamiento.
 
-V.- Informar al que lo solicite de las medidas preventivas y sus ventajas del cuidado del ambiente y de los ecosistemas, así como resolver los trámites relacionadas con el funcionamiento del cementerio municipal.
+V. Informar al que lo solicite de las medidas preventivas y sus ventajas del cuidado del ambiente y de los ecosistemas, así como resolver los trámites relacionadas (sic) con el funcionamiento del cementerio municipal.
 
 ###### ARTÍCULO 11.
 
@@ -205,6 +221,16 @@ X.- Imponer sanción pecuniaria por las infracciones cometidas al presente Regla
 
 XI.- Revocar las licencias de uso de suelo y autorizaciones, así como las concesiones que se hayan otorgado por violaciones de gravedad al presente Reglamento, disposiciones sanitarias y demás ordenamientos legales Federales, Estatales o Municipales.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+ARTÍCULO 11 BIS.- Los cementerios en General Escobedo, N.L. se clasifican en:
+
+I.- Cementerios Municipales, propiedad del Municipio de Escobedo, el que los operará y controlará, a través de la unidad administrativa que designe el Presidente Municipal;
+
+II.-•Cementerios Concesionados, propiedad del municipio de Escobedo, administrados por personas físicas o morales de nacionalidad mexicana, de acuerdo con las bases establecidas en la concesión y las disposiciones de este Reglamento y,
+
+III.- Cementerios Particulares, propiedad de personas físicas o morales que administran los cementerios, aplicando las disposiciones de este Reglamento.
+
 ### CAPITULO II.
 
 DEL ESTABLECIMIENTO DE LOS CEMENTERIOS.
@@ -213,13 +239,19 @@ DEL ESTABLECIMIENTO DE LOS CEMENTERIOS.
 
 Para la apertura y funcionamiento de un Cementerio en el Municipio de General Escobedo, Nuevo León, es indispensable satisfacer los siguientes requisitos:
 
-I.- Obtener el acuerdo favorable del R. Ayuntamiento, y en su caso el otorgamiento de la concesión respectiva.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-II.- Cumplir con los requisitos de construcción y los planos a que se refiere la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, el presente Reglamento, y demás ordenamientos municipales aplicables.
+I. Obtener el acuerdo favorable del R. Ayuntamiento y en su caso el otorgamiento de la concesión respectiva, previa autorización por parte de la Secretaría de Desarrollo Urbano y Ecología.
 
-III.- Tramitar y obtener la licencia de uso de suelo y licencia de construcción, a través de la Secretaría de Desarrollo Urbano y Ecología.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-IV.- Cumplir las disposiciones relativas a Desarrollo Urbano, Zonificación, Salud, Ecología y demás ordenamientos Federales, Estatales y Municipales aplicables.
+II. Cumplir con los requisitos de construcción y los planos a que se refiere la Ley de Desarrollo Urbano del Estado de Nuevo León, el presente Reglamento, y demás ordenamientos municipales aplicables.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+III. Tramitar y obtener la licencia de uso de suelo y licencia de construcción y demás trámites urbanísticos, a través de la Secretaría de Desarrollo Urbano y Ecología.
+
+IV. Cumplir las disposiciones relativas a Desarrollo Urbano, Zonificación, Salud, Ecología y demás ordenamientos Federales, Estatales y Municipales aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -275,9 +307,11 @@ DE LA PRESTACIÓN DEL SERVICIO.
 
 Los cementerios permanecerán abiertos al público todos los días del año, en el horario comprendido de las 8:00 horas hasta las 19:00 horas.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-La administración de cementerios deberá mantener en éstos personal de vigilancia las 24 horas del día, todos los días del año.
+La Dirección de Patrimonio será responsable de la vigilancia de cementerios, pudiendo auxiliarse para esto con la Secretaría de Seguridad y Justicia de Proximidad.
 
 ###### ARTÍCULO 17.
 
@@ -309,9 +343,11 @@ IX.- Las demás que les señala este Reglamento, los ordenamientos aplicables o 
 
 DE LOS USUARIOS.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-Toda persona tiene derecho de uso sobre el terreno del cementerio municipal previo el pago de la tarifa correspondiente por el servicio funerario solicitado, que realice a la Secretaría de Finanzas y Tesorería Municipal, conforme lo estipulado en la Ley de Hacienda para los Municipios del Estado de Nuevo León.
+Toda persona tiene derecho de uso sobre el terreno del cementerio municipal previo el pago de la tarifa correspondiente por el servicio funerario solicitado, que realice a la Secretaría de Administración, Finanzas y Tesorero Municipal, conforme lo estipulado en la Ley de Hacienda para los Municipios del Estado de Nuevo León.
 
 ###### ARTÍCULO 20.
 
@@ -321,13 +357,31 @@ I.- Cumplir con las disposiciones de este Reglamento y las emanadas de la Admini
 
 II.- Pagar anualmente la cuota asignada para la renta del terreno o su mantenimiento.
 
-III.- Conservar en buen estado las fosas, gavetas, criptas y monumentos.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+III.- Conservar en buen estado y de limpieza las fosas, gavetas, criptas y monumentos. En caso de inobservancia u omisión se aplicara lo relativo al artículo 20 Bis.
 
 IV.- Solicitar a la autoridad correspondiente el permiso de construcción.
 
 V.- Retirar de inmediato los escombros que se ocasionan por la construcción de gavetas, criptas o monumentos.
 
 VI.- Las demás que se establezcan en este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+ARTÍCULO 20 BIS.- Los titulares de los Derechos sobre fosas, gavetas y nichos en los cementerios municipales están obligados a su conservación y al cuidado de las obras de jardinería y arbolado correspondiente. Si alguna de las construcciones amenazare ruina, la Secretaria de Administración, Finanzas y Tesorero Municipal requerirá al Titular para que dentro de un plazo que no exceda de 30-treinta días, realice las reparaciones o la demolición correspondientes, y si no las hiciere, la Dirección de Patrimonio podrá llevar a cabo la demolición de la construcción, debiendo dejar documentado en fotografías los acontecimientos que motivaron dicha demolición.
+
+La Secretaría de Administración, Finanzas y Tesorero Municipal integrará un expediente con la solicitud y las fotografías que les remita la Dirección de Patrimonio; donde comprobarán el estado ruinoso y expedirán, en su caso, la autorización para que sea demolida la construcción respectiva o se arreglen las obras de jardinería y arbolado, con cargo al Titular.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+ARTÍCULO 20 BIS I.- En los cementerios municipales, es obligatorio fijar en lugar de atención al ciudadano, la información referente a los servicios que se ofrecen, así como los derechos o tarifas establecidos.
+
+Por los servicios que preste el municipio dentro del cementerio y por el cual se tenga que efectuar algún pago, este deberá realizarse en las cajas de recaudación dependientes de la Secretaría de Administración, Finanzas y Tesorero Municipal.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+ARTÍCULO 20 BIS II.- Por los servicios de Inhumación, Exhumación, Re-inhumación e Incineración de cadáveres, restos humanos y restos humanos áridos que se efectúen en cementerios particulares y municipales, es obligatorio el pago de Derechos que para el efecto determine el Republicano Ayuntamiento. Los pagos deberán realizarse en las cajas de recaudación dependientes de la Secretaría de Administración, Finanzas y Tesorero Municipal, con independencia de los Impuestos y Derechos existentes.
 
 ### CAPITULO VI.
 
@@ -346,6 +400,80 @@ Las enajenaciones de los lotes o transmisión de perpetuidad serán otorgados po
 La realización de cualquier otro acto jurídico respecto los derechos de propiedad de los lotes de terreno en cementerios, efectuará en las formas previstas por el Código Civil del Estado de Nuevo León, debiendo los contratantes dar aviso a la administración del cementerio del cambio de situación jurídica, a fin de que se anoten los registros.
 
 Este artículo deberá insertarse en los contratos que celebra la administración de los cementerios con los particulares.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+ARTÍCULO 23 BIS.- Para la expedición de un Título, ya sea de Derecho de Uso a Perpetuidad o Uso Temporal, deberá regirse por el procedimiento que le corresponda, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+ARTÍCULO 23 BIS I.- Los Títulos de Derecho de Uso a Perpetuidad o de Uso Temporal a regularizar mediante el presente Reglamento, serán los que se encuentren en los siguientes supuestos y cumplan los requisitos correspondientes.
+
+I.- Tratándose de Titulares de Derecho de Uso a Perpetuidad o Uso Temporal:
+
+1- El Titular deberá comparecer y llenar personalmente el formato que emita la Oficina Municipal de Panteones, en el que solicita se le expida un nuevo Título.
+
+2- Presentar el Título original o recibos de pago y en caso de no contar con ellos, que existan antecedentes del registro que conste en los Libros y Talonarios de los Títulos de la Oficina Municipal de Panteones.
+
+3- Identificación oficial vigente y Acta de nacimiento del Titular.
+
+4- Identificación oficial vigente de dos beneficiarios respetando los lineamientos descritos en el Artículo relativo, quien ejercerá o adquirirá los derechos y obligaciones que otorga el título en caso de incapacidad legal o fallecimiento del titular.
+
+II.- Tratándose de Cesión de Derechos por Titulares de Derecho de Uso a Perpetuidad:
+
+1.- La Cesión de Derechos deberá llevarse a cabo en las Oficinas Municipales de Panteones ante la presencia y con la autorización del Titular de la misma, por lo que deberán comparecer de manera personal tanto el Titular (Cedente), como el Cesionario.
+
+2.- El Cesionario deberá ser necesariamente familiar del Titular.
+
+3.- Presentar Título original o recibos de pago y en caso de no contar con ellos, que existan antecedentes del registro que conste en los Libros y Talonarios de los Títulos de la Oficina Municipal de Panteones.
+
+4.- Identificación oficial vigente y Acta de nacimiento del Titular (Cedente).
+
+5.- Identificación oficial vigente del Cesionario.
+
+6.- Identificación oficial vigente de dos beneficiarios nombrados por el Cesionario respetando los lineamientos descritos en el Artículo relativo, quien ejercerá o adquirirá los derechos y obligaciones que otorga el título en caso de incapacidad legal o fallecimiento del titular.
+
+III.- Tratándose de Titulares de Derecho de Uso a Perpetuidad o a Uso Temporal ya fallecidos:
+
+A.- Con Sucesión Testamentaria.
+
+1- El solicitante (beneficiario) llenará el formato que emita la Oficina Municipal de Panteones, mediante el que solicita el cambio de Titular del Derecho de Uso a su nombre.
+
+2- Presentar Título de Derecho de Uso original o recibos de pago y en caso de no contar con ellos, que existan antecedentes del registro que conste en los Libros y Talonarios de los Títulos de la Oficina Municipal de Panteones.
+
+3- Copia certificada de la adjudicación de bienes del testador, emitida por el Juez de lo Familiar o Notario Público.
+
+4- Identificación oficial vigente y Acta de Nacimiento del solicitante.
+
+5- Identificación oficial del o los beneficiarios, respetando los lineamientos descritos en el Artículo relativo, quien ejercerá o adquirirá los derechos y obligaciones que otorga el título en caso de incapacidad legal o fallecimiento del titular.
+
+En caso de existir más de un adjudicado de la masa hereditaria, entre ellos deberán designar de común acuerdo al nuevo Titular para que pueda ser regularizado, salvo mandamiento judicial en contrario.
+
+B.- Sin Sucesión Testamentaria (intestados).
+
+1- El solicitante llenará el formato que emita la Oficina Municipal de Panteones, mediante el cual solicita el cambio de Titular a su nombre.
+
+2- Presentar Acta de defunción del Titular.
+
+3- Solo podrán solicitar el cambio de Titular los familiares, en el siguiente orden:
+
+a) Cónyuge o concubina (o);
+
+b) Descendiente en línea recta hasta el tercer grado (hijo, nieto);
+
+c) Pariente consanguíneo colateral hasta el segundo grado (hermano y sobrino).
+
+4- El solicitante acreditará fehacientemente el nexo familiar con el Titular, y, en su caso, presentar el o las actas de defunción correspondientes.
+
+5- Presentar Título original o recibos de pago y en caso de no contar con ellos, que existan antecedentes del registro que conste en los Libros y Talonarios de los Títulos de la Oficina Municipal de Panteones.
+
+6- Identificación oficial vigente y acta de nacimiento del solicitante.
+
+7- Llenar el formato de "Protesto" correspondiente
+
+8- Identificación oficial vigente de los beneficiarios; respetando los lineamientos descritos en el Artículo relativo, quien ejercerá o adquirirá los derechos y obligaciones que otorga el título en caso de incapacidad legal o fallecimiento del titular, y
+
+9- En su caso anexarán los escritos de Autorización y Liberación de Responsabilidad, de los demás familiares con igual derecho.
 
 ### CAPITULO VII.
 
@@ -570,3 +698,13 @@ PRESIDENTE MUNICIPAL.
 LIC. REFUGIO MACIAS MUÑOZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2016.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN DEL REGLAMENTO DE PANTEONES DE GENERAL ESCOBEDO, NUEVO LEON”.]</small>
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
