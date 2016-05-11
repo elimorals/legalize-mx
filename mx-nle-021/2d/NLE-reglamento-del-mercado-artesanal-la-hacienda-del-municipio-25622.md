@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-mercado-artesanal-la-hacienda-del-municipio-2562
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-15"
-last_updated: "2002-07-15"
+last_updated: "2016-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL MERCADO ARTESANAL LA HACIENDA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DEL MERCADO ARTESANAL LA HACIENDA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO DEL MERCADO ARTESANAL LA HACIENDA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de julio de 2002.
 
@@ -101,7 +101,13 @@ c) Tesorero Municipal.
 
 d) Secretario de Desarrollo Urbano, Obras Públicas y Ecología.
 
-e) El Consejo Municipal de Protección Civil.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+e) la Dirección de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+f) la Dirección de Inspección, Control y Vigilancia.
 
 ###### Artículo 9.
 
@@ -111,7 +117,9 @@ a) Someter a la aprobación del Ayuntamiento las disposiciones de carácter gene
 
 b) Cumplir y hacer cumplir las disposiciones legales, reglamentarias del R. Ayuntamiento en relación al servicio público de Mercados Municipales.
 
-c) Todas las que se desprendan de este reglamento y las que deriven de la Ley Orgánica de la Administración Pública Municipal y demás disposiciones relacionadas con el servicio público de Mercados Municipales.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+c) Todas las que se desprendan de este reglamento y las que deriven de la Ley de Gobierno Municipal y demás disposiciones relacionadas con el servicio público de Mercados Municipales.
 
 ###### Artículo 10.
 
@@ -119,7 +127,9 @@ El Secretario del R. Ayuntamiento tendrá las siguientes atribuciones:
 
 a) Firmar los actos, disposiciones, acuerdos y comunicaciones que el C. Presidente Municipal expida en relación al funcionamiento y organización del servicio público de Mercados Municipales.
 
-b) Las que se desprendan del presente reglamento, de la Ley Orgánica de la Administración Pública y demás normas que tengan relación con el servicio público de Mercados Municipales.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+b) Las que se desprendan del presente reglamento, de la Ley de Gobierno Municipal y demás normas que tengan relación con el servicio público de Mercados Municipales.
 
 ###### Artículo 11.
 
@@ -131,7 +141,9 @@ b) Determinar y liquidar las obligaciones de carácter tributario a cargo de qui
 
 c) Requerir de pago e iniciar el procedimiento administrativo de ejecución en contra de quienes incumplan con las obligaciones.
 
-d) Las que se desprendan de la Ley Orgánica de la Administración Pública Municipal, de los Reglamentos Municipales y del presente Reglamento.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+d) Las que se desprendan de la Ley de Gobierno Municipal, de los Reglamentos Municipales y del presente Reglamento.
 
 ###### Artículo 12.
 
@@ -141,11 +153,15 @@ a) Aplicar las disposiciones de carácter general en materia de Desarrollo Urban
 
 b) Autorizar o negar, con base en el Plan Municipal de Desarrollo Urbano, Planes de Centros de Población, Planes Parciales, de sus Reglamentos y demás disposiciones de carácter general, así como construcciones en los Centros de Población y en el Territorio Municipal.
 
-c) Ordenar, imponer y ejecutar a través del personal habilitado en los términos de Ley las medidas de seguridad y sanciones, así como aplicar las medidas y procedimientos coactivos previstos en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+c) Ordenar, imponer y ejecutar a través del personal habilitado en los términos de Ley las medidas de seguridad y sanciones, así como aplicar las medidas y procedimientos coactivos previstos en la Ley de Desarrollo Urbano del Estado de Nuevo León en el ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2016)</small>
 
 ###### Artículo 13.
 
-El Consejo Municipal de Protección Civil tendrá las siguientes atribuciones:
+La Dirección de Protección Civil tendrá las siguientes atribuciones:
 
 a) Realizar visitas de inspección en todo tiempo en aquellos locales que se presuma constituyan un punto de riesgo para la seguridad o salud pública.
 
@@ -199,27 +215,45 @@ II. Almacenar materiales inflamables, explosivos, contaminantes y los que pudier
 
 III. Emprender o realizar trabajos de construcción sin el permiso previo de la Autoridad.
 
-IV. Construir un segundo nivel al local comercial, ni cambiar la forma y el color de la fachada sin previa autorización por el Municipio.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-V. Colocar rótulos, cajones, mercancía u otros utensilios que en cualquier forma impidan el libre tránsito por las áreas comunes, las que se mencionan en el artículo 6 que antecede al presente instrumento.
+IV. Colocar rótulos, cajones, mercancía u otros utensilios que en cualquier forma impidan el libre tránsito por las áreas comunes, las que se mencionan en el artículo 6 que antecede al presente instrumento.
 
-VI. Destinar el local a un uso o giro distinto al autorizado.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-VII. Darle uso habitacional al local.
+V. Destinar el local a un uso o giro distinto al autorizado.
 
-VIII. La instalación de vendedores ambulantes y prestadores de servicio ambulante en la zona del Mercado Artesanal.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-IX. Exhibir la mercancía en el área de la banqueta o estacionamiento.
+VI. Darle uso habitacional al local.
 
-X. La venta de comidas y tener los asadores en la vía pública ó en las áreas comunes.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-XI. La introducción, venta y exposición de material pornográfico.
+VII. La instalación de vendedores ambulantes y prestadores de servicio ambulante en la zona del Mercado Artesanal.
 
-XII. Que se instalen Taxistas ni Bases de Taxi, en el área que esta considerada como zona del mercado y zonas aledañas.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-XIII. Tener animales domésticos (perros ó gatos) en los locales del mercado ni en ninguna área que comprenda este.
+VIII. La venta de comidas y tener los asadores en la vía pública ó en las áreas comunes.
 
-XIV. Los comerciantes deberán de respetar y no podrán colocarse en el área de estacionamiento de los demás locatarios.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+IX. La introducción, venta y exposición de material pornográfico.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+X. Que se instalen Taxistas ni Bases de Taxi, en el área que está considerada como zona del mercado y zonas aledañas.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+XI. Tener animales domésticos (perros ó gatos) en los locales del mercado ni en ninguna área que comprenda este.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+XII. Los comerciantes deberán de respetar y no podrán colocarse en el área de estacionamiento de los demás locatarios.
+
+XIII. (DEROGADA, P.O. 11 DE MAYO DE 2016)
+
+XIV. (DEROGADA, P.O. 11 DE MAYO DE 2016)
 
 ###### Artículo 17.
 
@@ -257,9 +291,11 @@ Todo cambio de giro, no autorizado, se considera nulo de pleno derecho y la Auto
 
 ### CAPITULO V. Sanciones, Multas y Clausuras
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### Artículo 20.
 
-Se procederá a aquellos locatarios que incurran en incumplimiento de obligaciones o violaciones a las prohibiciones establecidas en este reglamento.
+Se procederá en contra de aquellos locatarios que incurran en incumplimiento de obligaciones o violaciones a las prohibiciones establecidas en este reglamento.
 
 ###### Artículo 21.
 
@@ -271,9 +307,11 @@ La Autoridad Municipal para determinar la sanción tomará en cuenta la naturale
 
 Las sanciones se harán efectivas a través del procedimiento económico coactivo establecido en el Código Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### Artículo 23.
 
-Al tener conocimiento de una violación a las prohibiciones o incumplimiento a las obligaciones por parte de los ocupantes o locatarios del mercado, expedirá un mandamiento por escrito, en el que se haga del conocimiento de aquellos el motivo de la causa de la notificación en su contra, concediéndole 3 días para que comparezca a exponer lo que a sus derechos conviniere y a ofrecer las pruebas de su intención.
+La Autoridad Municipal, al tener conocimiento de una violación a las prohibiciones o incumplimiento a las obligaciones por parte de los ocupantes o locatarios del mercado, expedirá un mandamiento por escrito, en el que se haga del conocimiento de aquellos el motivo de la causa de la notificación en su contra, concediéndole 3 días para que comparezca a exponer lo que a sus derechos conviniere y a ofrecer las pruebas de su intención.
 
 ###### Artículo 24.
 
@@ -307,7 +345,9 @@ Procederá la Clausura Temporal o Definitiva cuando:
 
 a) Reincidan en la violación de las obligaciones o prohibiciones establecidas en este Reglamento.
 
-b) Incurran en violar con lo establecido en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+b) Incurran en violar con lo establecido en la Ley de Gobierno Municipal del Estado de Nuevo León.
 
 c) Infrinja el Reglamento de Zonificación y Uso de Suelo Municipal.
 
@@ -384,3 +424,13 @@ PRESIDENTE MUNICIPAL
 LIC. ROLANDO MARTINEZ CHÁVEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN DEL REGLAMENTO DEL MERCADO ARTESANAL LA HACIENDA DE GENERAL ESCOBEDO, NUEVO LEÓN”.]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
