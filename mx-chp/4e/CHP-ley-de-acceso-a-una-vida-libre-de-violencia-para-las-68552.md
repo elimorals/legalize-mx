@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-acceso-a-una-vida-libre-de-violencia-para-las-68552"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2014-11-27"
+last_updated: "2016-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 11 DE MAYO DE 2016, SE DEROGARON LAS DENOMINACIONES DE LOS CAPÍTULOS II; III; IV; V; VI; VII; VIII; IX; X; XI; XII; MODIFICANDO DE FORMA SUSTANCIA LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 23 de marzo de 2009.
 
@@ -39,7 +41,13 @@ Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido
 
 "Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas"
 
-### Capítulo I. Disposiciones Generales
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+## Título Primero. Disposiciones Generales
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo Único. Generalidades
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -55,7 +63,9 @@ I. Establecer las bases para los modelos de: prevención, atención, sanción y 
 
 II. Establecer las bases para diseñar el contenido de las políticas públicas, programas y acciones destinadas a erradicar la violencia de género y coadyuvar en el tratamiento psicológico especializado de la víctima y brindar servicios reeducativos y especializados al agresor;
 
-III. Promover la aplicación de todas las medidas destinadas a erradicar la violencia contra las mujeres para garantizar su acceso a una vida libre de violencia y discriminación;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+III. Promover la aplicación de todas las medidas destinadas a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, para garantizar su acceso a una vida libre de violencia y discriminación;
 
 IV. Garantizar el derecho a la educación con perspectiva de género, libre de prejuicios, sin patrones estereotipados de comportamiento basados en conceptos de inferioridad o subordinación;
 
@@ -63,7 +73,9 @@ V. Instaurar medidas para concientizar y sensibilizar a la comunidad con el prop
 
 VI. Garantizar que las autoridades competentes conforme a los ordenamientos legales aplicables, proporcionen trato digno y atención integral y especializada a las mujeres víctimas de violencia, respetando su intimidad;
 
-VII. Promover el acceso oportuno y eficaz de las mujeres a las medidas de protección y procedimientos legales que salvaguarden los derechos protegidos por esta Ley;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+VII. Promover el acceso oportuno y eficaz de las mujeres a las medidas de protección y procedimientos legales que salvaguarden los derechos establecidos en esta Ley, y en los demás ordenamientos legales aplicables;
 
 VIII. Establecer bases de coordinación y cooperación entre las autoridades federales, estatales y municipales, para cumplir con el objeto de esta Ley;
 
@@ -77,13 +89,17 @@ El Estado y los municipios, en el ámbito de sus respectivas competencias, exped
 
 El Estado y los municipios podrán coordinarse con la Federación para garantizar el derecho a que se refiere el párrafo anterior, en los términos de la legislación aplicable.
 
-Las medidas que se deriven de la presente Ley, garantizarán la prevención, la atención y la erradicación de todo tipo de violencia contra las mujeres, propiciando su plena participación en todas las esferas de la vida.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+Las medidas que se deriven de la presente Ley, garantizarán la prevención, la atención, la sanción y la erradicación de todo tipo de violencia contra las mujeres, promoviendo su desarrollo integral y propiciando su plena participación en todas las esferas de la vida.
 
 ###### Artículo 4°.
 
 Los principios rectores del derecho de las mujeres a una vida libre de violencia, que deberán ser observados en la elaboración y ejecución de las políticas públicas, son:
 
-I. La igualdad jurídica y la equidad de género;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+I. La igualdad jurídica entre la mujer y el hombre;
 
 II. El respeto a la dignidad humana de las mujeres;
 
@@ -109,15 +125,21 @@ VI. Programa Nacional: El Programa Nacional para Prevenir, Atender, Sancionar y 
 
 VII. Programa Estatal: El Programa Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia.
 
-VIII. Derechos humanos de las mujeres: Aquellos que son parte inalienable, integrante e indivisible de los derechos humanos universales específicamente reconocidos para las mujeres en el marco legal federal, estatal, municipal y en los instrumentos internacionales de la materia, ratificados por el Estado Mexicano.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+VIII. Derechos humanos de las mujeres: Aquellos que son parte inalienable, integrante e indivisible de los derechos humanos universales específicamente reconocidos para las mujeres en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW); la Convención sobre los Derechos Humanos de la Niñez; la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Convención Belem Do Pará) y demás instrumentos internacionales firmados y ratificados por el Estado Mexicano, así como en los demás ordenamientos legales aplicables.
 
 IX. Violencia contra las mujeres: Cualquier acción u omisión, que en razón de género, tenga como fin o resultado un daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, moral, obstétrico y de los derechos reproductivos, en cualquier ámbito.
 
 X. Perspectiva de género: La visión científica, analítica y política entre mujeres y hombres, que contribuye a construir una sociedad dando el mismo valor, mediante la eliminación de las causas de opresión y discriminación por razón de género, promoviendo la igualdad, la equidad, el bienestar de las mujeres, las oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
-XI. Acciones: Los mecanismos llevados a cabo por autoridades estatales, municipales y organizaciones privadas, tendentes a promover la igualdad y evitar la discriminación, orientados a prevenir y erradicar la violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-XII. Víctima: La mujer de cualquier edad, raza, religión, estado civil, preferencia, condición étnica, social o de salud, que se le inflija algún tipo de violencia.
+XI. Acciones: Los mecanismos llevados a cabo por autoridades estatales, municipales y organizaciones privadas, tendentes a promover la igualdad y evitar la discriminación, orientados a prevenir, atender y erradicar la violencia contra las mujeres.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+XII. Víctima: La mujer de cualquier edad, raza, religión, estado civil, preferencia sexual, condición étnica, social o de salud, que se le inflija algún tipo de violencia.
 
 XIII. Mujer: Es toda persona del género femenino, englobando en este concepto a las niñas, adolescentes, adultas, adultas mayores e indígenas.
 
@@ -131,7 +153,9 @@ XVII. Discriminación: Exclusión o restricción hacia la mujer, que tenga por o
 
 XVIII. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en caso de enfermedad.
 
-XIX. Empoderamiento: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+XIX. Empoderamiento: Es un proceso por medio del cual, las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión, a un estado de conciencia, igualdad, autodeterminación y autonomía, él cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos humanos y libertades.
 
 XX. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
 
@@ -161,7 +185,13 @@ VIII. Violencia de los derechos reproductivos.- Es toda acción u omisión que l
 
 IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
-### Capítulo II. De las Ordenes de Protección
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+## Título Segundo. De las Modalidades de la Violencia, Derechos de las Mujeres y Órdenes de Protección
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo I. De las Modalidades de la Violencia
 
 ###### Artículo 7°.
 
@@ -181,7 +211,9 @@ V. Violencia en la comunidad: Son los actos individuales o colectivos que transg
 
 La protección y asistencia a las mujeres víctimas o en situación de riesgo de violencia, tiene por objeto promover su desarrollo integral, su reinserción a la vida pública, privada, social y su participación en todos los niveles de la vida, económica, política, laboral, profesional, académica, social, privada y cultural.
 
-### Capítulo III. Del Sistema Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo II. De los Derechos de las Mujeres
 
 ###### Artículo 9°.
 
@@ -219,25 +251,31 @@ II. Trato digno y respeto durante cualquier entrevista o actuación como víctim
 
 III. Asistencia legal y necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
 
-IV. Asistencia médica y psicológica para la atención de las consecuencias generadas por la violencia;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+IV. Asistencia médica y psicológica gratuita e inmediata, y en su caso, a sus hijas e hijos, para la atención de las consecuencias generadas por la violencia;
 
 V. Acciones de asistencia social que contribuyan a su pleno desarrollo;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-VI. Atención en un refugio temporal en compañía de sus hijos.
+VI. Atención en un refugio temporal en compañía de sus hijas e hijos;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-VII. La víctima no será obligada a participar en mecanismos de conciliación con su agresor.
+VII. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 VIII. Las mujeres víctimas de violencia serán asistidas en todo tiempo por intérpretes y defensores sociales que tengan conocimiento de su lengua y cultura, en los casos que se requiera.
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-IX. Las demás que establezcan esta ley, su reglamento y otras disposiciones legales aplicables.
+IX. Favorecer la separación y alejamiento del agresor con respecto a la Víctima;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2016)</small>
+
+X. Las demás que establezcan esta ley, su reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -251,7 +289,9 @@ El Estado y los municipios, impulsarán programas para difundir una cultura de p
 
 Los municipios coadyuvaran con la Federación y el Estado, para la aplicación adecuada de la Ley y diversas disposiciones vinculadas a la materia; así como adoptarán las medidas administrativas necesarias para dar cumplimiento a la misma.
 
-### Capítulo IV. Del Consejo Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO II], P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo III. De las Órdenes de Protección
 
 ###### Artículo 14.
 
@@ -345,11 +385,19 @@ Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes 
 
 Las ordenes de protección, atendiendo a la naturaleza de cada una de ellas, se otorgaran de oficio o a petición de las víctimas, de las hijas o hijos, de las personas que convivan con ellas o se encuentren a su guarda o custodia, de los responsables de la atención integral de los refugios o del Ministerio Publico. Respecto de las personas menores de edad se sujetará a lo establecido en el Código de Atención a la Familia y Grupos Vulnerables para el Estado Libre y Soberano de Chiapas.
 
-### Capítulo V. Del Programa Estatal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+## Título Tercero. Del Sistema Estatal para Garantizar el Derecho de las Mujeres a Una Vida Libre de Violencia
+
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO III], P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo I. Del Sistema Estatal para Garantizar el Derecho de las Mujeres a Una Vida Libre de Violencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2016)</small>
 
 ###### Artículo 22.
 
-El Estado y los municipios se coordinarán para establecer el Sistema Estatal, con el objeto de implementar las políticas y programas de evaluación y coordinación de los modelos de prevención, asistencia, sanción y erradicación de la violencia física, psicológica, económica, patrimonial, sexual, moral, obstétrica y de derechos reproductivos contra las mujeres, de conformidad con el Programa Estatal.
+El Estado y los municipios se coordinarán para establecer el Sistema Estatal, con el objeto de conjuntar esfuerzos para la implementación de las políticas y programas de evaluación y coordinación de los modelos de prevención, asistencia, sanción y erradicación de la violencia física, psicológica, económica, patrimonial, política, sexual, moral, obstétrica y de derechos reproductivos contra las mujeres, de conformidad con el Programa Estatal.
 
 Todas las medidas que lleven a cabo el Estado y los municipios deberán ser realizadas sin discriminación alguna. No se considerará distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades en el acceso a las políticas públicas en la materia.
 
@@ -365,9 +413,9 @@ El objeto de éste se cumplirá con estricto apego a las disposiciones constituc
 
 Los recursos humanos, financieros y materiales que conforman al sistema serán responsabilidad jurídica y administrativa del Estado y sus municipios a que correspondan y que integran el sistema.
 
-### Capítulo VI. De la Distribución de Competencias del Consejo
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO IV], P.O. 11 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo II. Del Consejo Estatal para Garantizar el Derecho de las Mujeres a Una Vida Libre de Violencia
 
 ###### Artículo 26.
 
@@ -381,9 +429,9 @@ El Consejo estará integrado por:
 
 I. Un Presidente, que será designado por el Ejecutivo de entre los integrantes del Consejo.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-II. La Titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, quien fungirá como Secretario Ejecutivo.
+II. La Titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, quien fungirá como Secretaria Ejecutiva.
 
 III. El Titular de la Procuraduría General de Justicia del Estado, quien fungirá como Secretario Técnico.
 
@@ -449,7 +497,13 @@ VIII. Contribuir a la difusión de la legislación en materia de violencia contr
 
 IX. Convocar a los representantes de organizaciones de la sociedad civil para que se integren al Consejo;
 
-X. Las demás que le señalen esta Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+X. Fomentar en coordinación con instituciones especializadas públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia contra las mujeres, cuyos resultados servirán para diseñar modelos tendentes a la prevención, atención y erradicación de la violencia;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2016)</small>
+
+XI. Las demás que le señalen esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 30.
 
@@ -459,7 +513,9 @@ El Consejo se reunirá previa convocatoria que para tal efecto emita la Presiden
 
 Las sesiones del Consejo serán encabezadas por la Presidencia y en su ausencia por la Secretaria Ejecutiva y para que tengan validez será necesaria la asistencia de la mitad más uno de los integrantes del Consejo. Así mismo, las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
-### Capítulo VII. De la competencia del Estado, Municipios y Dependencias
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO V], P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo III. Del Programa Estatal para Garantizar el Derecho de las Mujeres a Una Vida Libre de Violencia
 
 ###### Artículo 32.
 
@@ -493,7 +549,11 @@ IX. Evaluar el cumplimiento de los objetivos propuestos en el propio programa;
 
 X. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
 
-### Capítulo VIII. De los Modelos
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO VI], P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo IV. De la Distribución de Competencias del Consejo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 34.
 
@@ -589,7 +649,9 @@ VIII. Informar periódicamente al Secretario Ejecutivo del Consejo, el cumplimie
 
 IX. Las demás que le confieran el Consejo, su Presidente, el Secretario Ejecutivo y demás ordenamientos jurídicos aplicables.
 
-### Capítulo IX. De los Refugios
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO VII], P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo V. De la Competencia del Estado, Municipios y Dependencias
 
 ###### Artículo 37.
 
@@ -665,9 +727,13 @@ IV. Convocar, concertar, coordinar y promover la integración y participación d
 
 V. Promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
-VI. Las demás previstas para el cumplimiento de esta Ley.
+VI. Elaborar políticas públicas en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, basándose en el resultado del diagnóstico estatal sobre las formas de violencia contra las mujeres.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2016)</small>
+
+VII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
 
 ###### Artículo 41.
 
@@ -861,7 +927,13 @@ XVII. Difundir la cultura de respeto a los derechos humanos de las mujeres y pro
 
 XVIII. Promover la cultura de denuncia de la violencia contra las mujeres;
 
-XIX. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+XIX. Realizar un diagnóstico estatal con enfoque de perspectiva de género, sobre las formas de violencia contra las mujeres, el cual será considerado para la elaboración de políticas públicas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2016)</small>
+
+XX. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 48.
 
@@ -917,9 +989,9 @@ III. Atender en forma oportuna y expedita las quejas y recomendaciones relaciona
 
 IV. Las demás previstas para el cumplimiento de la presente Ley.
 
-### Capítulo X. De la Violencia Feminicida y de la Alerta de Violencia de Género contra las Mujeres
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 11 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+### Capítulo VI. De los Modelos
 
 ###### Artículo 51.
 
@@ -937,9 +1009,9 @@ III. Sanción; y,
 
 IV. Erradicación.
 
-### Capítulo XI. De la Reparación del Daño a las Mujeres Víctimas de Violencia
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO IX], P.O. 11 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
+### Capítulo VII. De los Refugios
 
 ###### Artículo 53.
 
@@ -995,11 +1067,11 @@ VII. Bolsa de trabajo, con la finalidad de que puedan acceder a una actividad re
 
 En todo momento las mujeres víctimas de violencia podrán decidir sobre su permanencia en los refugios.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO X], P.O. 11 DE MAYO DE 2016)</small>
 
-### Capítulo XII. De las Responsabilidades y Sanciones
+### Capítulo VIII. De la Violencia Feminicida y de la Alerta de Violencia de Género contra las Mujeres
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 59.
 
@@ -1027,7 +1099,11 @@ Corresponderá al Gobierno Federal a través de la Secretaría de Gobernación, 
 
 El Poder Ejecutivo del Estado recibirá, a través de la Secretaría de Gobernación, la notificación de la declaratoria de alerta de Violencia de Género contra las Mujeres que dicte el Gobierno Federal en términos de los artículos 24 y 25, de la Ley General.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO XI], P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo IX. De la Reparación del Daño a las Mujeres Víctimas de Violencia
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 63.
 
@@ -1045,7 +1121,15 @@ II. Solicitar al Juez el embargo precautorio de los bienes del probable responsa
 
 III. Informar a la víctima sobre el derecho que tiene de acudir a la Comisión Estatal de los Derechos Humanos, cuando de los hechos que constituyen delito también se desprende la violación a sus derechos humanos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+## Título Cuarto. De las Responsabilidades y Sanciones
+
+> <small>(ADICIONADO [N. DE E. ANTES CAPÍTULO XII], P.O. 11 DE MAYO DE 2016)</small>
+
+### Capítulo Único. Generalidades
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 65.
 
@@ -1098,3 +1182,13 @@ P.O. 27 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 203 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- La titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá someter a consideración del Titular del Ejecutivo del Estado, en un término no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones necesarias al Reglamento de la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas, para efectos de su expedición y publicación correspondiente.
