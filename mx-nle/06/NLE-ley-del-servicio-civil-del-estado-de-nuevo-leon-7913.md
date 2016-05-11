@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2015-12-02"
+last_updated: "2016-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -693,9 +693,11 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 ### CAPITULO PRIMERO. De la integración del Tribunal de Arbitraje
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### Art. 84o.
 
-El Tribunal de Arbitraje para los trabajadores al Servicio del Estado, deberá ser colegiado y lo integrarán: un Representante del Gobierno del Estado, designado de común acuerdo por los tres Poderes del mismo; un Representante de los Trabajadores designado por la Organización de Burócratas al servicio del Estado, y un tercer árbitro que nombrarán entre sí los dos Representantes citados. El Tribunal de Arbitraje para los Trabajadores al Servicio de los Municipios, será colegiado, y lo integrarán: un Representante del Ayuntamiento; un Representante de los Trabajadores al Servicio del Municipio y un Tercer Arbitro que nombrarán de acuerdo, los dos Representantes citados.
+El Tribunal de Arbitraje para los trabajadores al Servicio del Estado, deberá ser colegiado y autónomo; lo integrarán: un Representante del Gobierno del Estado, designado de común acuerdo por los tres Poderes del mismo; un Representante de los Trabajadores designado por la Organización de Burócratas al Servicio del Estado, y un tercer arbitro que nombraran entre si los dos Representantes citados. El Tribunal de Arbitraje para los Trabajadores al Servicio de los Municipios, será colegiado y autónomo, lo integrarán: un Representante del Ayuntamiento; un Representante de los Trabajadores al Servicio del Municipio designado por la Organización de Burócratas legalmente reconocidas al Servicio del Municipio y un Tercer Árbitro que nombraran de acuerdo, los dos Representantes citados. Ningún funcionario del Estado o de los Municipios, que no sea el representante nombrado por estos para integrar el Tribunal de Arbitraje correspondiente, podrá intervenir en la designación del Tercer Árbitro señalado en este artículo.
 
 ###### Art. 85o.
 
@@ -911,7 +913,7 @@ El Gobernador Constitucional del Estado.- LIC. ARTURO B. DE LA GARZA Y GARZA.
 
 El Secretario General de Gobierno.- LIC. JESUS C. TREVIÑO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 25 DE ENERO DE 1964.
 
@@ -970,3 +972,9 @@ P.O. 5 DE NOVIEMBRE DE 2010.
 P.O. 2 DE DICIEMBRE DE 2015.
 
 Único: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 105. SE REFORMAN POR MODIFICACIÓN EL ARTÍCULO 84 DE LA LEY DE SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
