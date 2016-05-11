@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2015-05-27"
+last_updated: "2016-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -10987,15 +10987,17 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de una suma de dinero por daños y perjuicios.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2016)</small>
 
 ###### Art. 1812 Bis.
 
-Si el daño se causa a las personas son producir su muerte ni su incapacidad permanente, total o parcial, la reparación consistirá en el pago de los servicios médicos, medicinas, de hospitalización y los necesarios para la curación de la víctima.
+Si el daño se causa a las personas sin producir su muerte ni su incapacidad permanente, total o parcial, la reparación consistirá en el pago de los servicios médicos, medicinas, de hospitalización y los necesarios para la curación de la víctima.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
 En cuanto al monto de la indemnización, será conforme a lo establecido en la Ley Federal del Trabajo para el cálculo de la misma.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 El pago de los daños, así como de la indemnización señalada en el párrafo anterior, deberán ser proporcionales a la necesidad de la víctima y a la capacidad de quien está obligado a pagarla, sin que pueda llegar a constituir una suma que lesione los legítimos derechos de la familia de quien infiera el daño.
 
@@ -16537,7 +16539,7 @@ Transcurridos tres años sin que se comunique al registrador la calificación qu
 
 ###### Art. 2907.
 
-Todo título que se presente a registro, deberá expresar las circunstancias siguientes:
+Toda título que se presente a registro, deberá expresar las circunstancias siguientes:
 
 I.- Naturaleza, situación, linderos o colindancias de los inmuebles objeto de la operación o a los cuales afecte el derecho de que se trate, su medida superficial y datos de registro del título antecedente;
 
@@ -17310,6 +17312,12 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Los procesos iniciados con anticipación a la entrada en vigor de este, se rigen por la legislación vigente en el momento que se promovieron.
 
 Tercero.- El Poder Ejecutivo del Estado, deberá realizar las adecuaciones correspondientes conforme al presente Decreto al Reglamento que Regula a la Familia Sustituta en el Estado de Nuevo León, en un plazo no mayor de 60 días naturales contados a partir del día siguiente al que inicie la vigencia del presente Decreto.
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 108. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES V Y VI Y LA ADICIÓN DE UNA FRACCIÓN VII EN EL ARTÍCULO 989 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTICULO 1812 BIS DEL CÓDIGO CIVIL AMBOS DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
