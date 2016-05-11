@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-91902"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-21"
-last_updated: "2013-06-26"
+last_updated: "2016-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de diciembre de 2012.
 
@@ -393,11 +393,19 @@ Los Subprocuradores deberán reunir los mismos requisitos exigidos para el Procu
 
 Los titulares de las unidades administrativas deberán reunir los requisitos que determina esta Ley para Agentes del Ministerio Público cuando se trate de superiores jerárquicos de éstos.
 
-El Reglamento determinará los requisitos que deberán satisfacer los titulares de las unidades administrativas que no se encuentren en el supuesto establecido en el párrafo anterior.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
+El Director del Centro de Evaluación y Control de Confianza y el Director General de la Agencia Estatal de Investigaciones deberán contar con título profesional o de grados superiores como maestría y doctorado y la correspondiente cédula profesional, en disciplinas afines a la seguridad pública, la procuración o la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2016)</small>
+
+El Reglamento determinará los requisitos que deberán satisfacer los titulares de las unidades administrativas que no se encuentren en los supuestos establecidos en el presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 22.
 
-Los Subprocuradores, el Visitador General, el Director del Centro de Evaluación y Control de Confianza, el Director General de la Agencia Estatal de Investigaciones y los servidores públicos que tengan bajo su mando a Agentes del Ministerio Público en términos del Reglamento, tendrán carácter de Agente del Ministerio Público.
+Los Subprocuradores, el Visitador General y los servidores públicos que tengan bajo su mando a Agentes del Ministerio Público en términos del Reglamento, tendrán carácter de Agente del Ministerio Público.
 
 Los Subprocuradores, el Visitador General, el Director del Centro de Evaluación y Control de Confianza y los servidores públicos que tengan bajo su mando a Agentes del Ministerio Público o peritos, podrán participar en los programas de capacitación, actualización y especialización dirigidos a los Agentes del Ministerio Público, o en su caso, a peritos, pero no serán miembros del servicio de carrera y para efectos laborales serán considerados trabajadores de confianza.
 
@@ -718,3 +726,9 @@ ADRIÁN EMILIO DE LA GARZA SANTOS
 P.O. 26 DE JUNIO DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 111. SE REFORMA POR MODIFICACIÓN DEL PÁRRAFO CUARTO Y ADICIÓN DE UN PÁRRAFO QUINTO EN EL ARTÍCULO 21 Y POR MODIFICACIÓN DEL PRIMER PÁRRAFO DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de la fecha de su publicación en el Periódico Oficial del Estado.
