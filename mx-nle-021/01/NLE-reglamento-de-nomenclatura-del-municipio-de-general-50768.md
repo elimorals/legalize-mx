@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-nomenclatura-del-municipio-de-general-50768"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-05"
-last_updated: "2006-06-05"
+last_updated: "2016-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de junio de 2006.
 
@@ -57,9 +57,11 @@ TRANSITORIOS 9
 
 REGLAS GENERALES.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones contenidas en este reglamento son de Orden Público y se expiden con fundamento en lo previsto por los Artículos 115, Fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 113 Fracciones I y II, inciso II de la Constitución Política de los Estado de Nuevo León; 160 y 162 de la Ley Orgánica de la Administración Pública Municipal.
+Las disposiciones contenidas en este reglamento son de Orden Público y se expiden con fundamento en lo previsto por los Artículos 115. Fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 113 Fracciones I y II, inciso II de la Constitución Política de los Estado de Nuevo León; y los Artículos 222, 224 de la Ley de Gobierno Municipal del Estado de Nuevo León.
 
 ###### ARTICULO 2.
 
@@ -69,9 +71,11 @@ El presente reglamento es de interés general y de orden público, tiene por obj
 
 Para los efectos del presente Reglamento se entiende por NOMENCLATURA, la titulación o denominación que se asigna a las vías públicas, áreas recreativas, parques, plazas, monumentos, edificios, colonias, fraccionamientos, demás zonas y cualquier otro bien del dominio público Municipal, que tenga por objeto su identificación.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 4.
 
-Para los efectos del presente Reglamento se en tiende por BIENES DEL DOMINIO PÚBLICO DEL MUNICIPIO, las vías públicas, áreas recreativas, parques, plazas, monumentos, edificios, colonias, fraccionamientos, demás zonas y cualquier otro bien del dominio público Municipal, sujetos a nomenclatura, para su debida identificación.
+Para los efectos del presente Reglamento se entiende por BIENES DEL DOMINIO PÚBLICO DEL MUNICIPIO, las vías públicas, áreas recreativas, parques, plazas, monumentos, edificios, colonias, fraccionamientos, demás zonas y cualquier otro bien del dominio público Municipal, sujetos a nomenclatura, para su debida identificación.
 
 ###### ARTICULO 5.
 
@@ -99,7 +103,9 @@ II.- Se procurará perpetuar la memoria de los Héroes Nacionales, así como el 
 
 III.- Se pondrán perpetuar en la Nomenclatura Municipal, las fechas más significativas a nivel Nacional, Estatal o Municipal.
 
-IV.- No podrá emplearse en la nomenclatura de a un bien del dominio público municipal el nombre de personas vivas. La única excepción a este principio se aplicará en aquellos casos en que se permita asignar en la nomenclatura el nombre de personas vivas, que hayan sido protagonistas de un acto heroico, altruista, científico, de mérito cívico o sobresaliente que sea ejemplo para los habitantes del Municipio.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+
+IV.- No podrá emplearse en la nomenclatura de un bien del dominio público municipal el nombre de personas vivas. La única excepción a este principio se aplicará en aquellos casos en que se permita asignar en la nomenclatura el nombre de personas vivas, que hayan sido protagonistas de un acto heroico, altruista, científico, de mérito cívico o sobresaliente que sea ejemplo para los habitantes del Municipio.
 
 V.- No deberán emplearse palabras ofensivas a la moral.
 
@@ -364,3 +370,13 @@ PRESIDENTE MUNICIPAL.
 LIC. REFUGIO MACIAS MUÑOZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN DEL REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN”.]
+
+Primero.- La presente reforma al Reglamento en mención, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
