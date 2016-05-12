@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2015-11-12"
+last_updated: "2016-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -45,11 +45,15 @@ LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
 ### Capítulo I. Del objeto de la ley
 
-###### Artículo 1º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
 
-La presente ley tiene por objeto:
+###### Artículo 1°.
 
-I. Determinar los sujetos activos de la movilidad que son las personas con discapacidad, los peatones, los ciclistas, usuarios de la movilidad no motorizada, los motociclistas, los automovilistas, los usuarios y conductores del servicio público de transporte, masivo y colectivo, así como los de carga pesada;
+La presente Ley tiene por objeto:
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+I. Determinar los sujetos activos de la movilidad que son las personas con discapacidad, los peatones, los ciclistas, usuarios de la movilidad no motorizada, los motociclistas, los automovilistas, usuarios, conductores y prestadores del servicio público de transporte en todas sus modalidades, así como las empresas de redes de transporte;
 
 II. Regular la movilidad y el transporte en el estado de Jalisco, así como los derechos y obligaciones de los sujetos de la movilidad, para establecer el orden y las medidas de seguridad, control de la circulación vehicular motorizada y no motorizada de personas, bienes y servicios, en las vías públicas abiertas a la circulación que no sean de competencia federal;
 
@@ -57,9 +61,17 @@ III. Establecer las bases para programar, organizar, administrar y controlar la 
 
 IV. Determinar las bases para planear, establecer, regular, administrar, controlar y supervisar el servicio público de transporte;
 
-V. Establecer la coordinación del Estado y los municipios para integrar y administrar el sistema de vialidad, tránsito y transporte, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-VI. Establecer los esquemas de coordinación institucional, así como la delimitación de las atribuciones para el cumplimiento de los objetivos y fines de los programas de fomento a la cultura y educación vial.
+V. Establecer la coordinación del Estado y los municipios para integrar y administrar el sistema de vialidad y tránsito, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+VI. Establecer los esquemas de coordinación institucional, así como la delimitación de las atribuciones para el cumplimiento de los objetivos y fines de los programas de fomento a la cultura y educación vial; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+VII. Implementar preferentemente avances tecnológicos tendientes al mejoramiento del servicio público de transporte en todas sus modalidades, en lo que atañe al cobro de tarifas mediante el sistema de prepago; a la contratación y pago del servicio a través de medios electrónicos; a la realización de los trámites ante la Secretaría y el Registro Estatal de Movilidad y Transporte del Estado de Jalisco; así como al control vehicular mediante un dispositivo que permita su identificación por radiofrecuencia que en lo futuro sustituya a la placa metálica que actualmente se utiliza para esos efectos.
 
 Las disposiciones de esta ley y sus reglamentos son de orden público e interés social, debiéndose aplicar supletoriamente en lo conducente y no previsto, las disposiciones de la ley que regule el procedimiento administrativo del estado de Jalisco y las instancias que deriven del mismo.
 
@@ -135,49 +147,87 @@ I. Acera o Banqueta: camino a cada lado de una calle, generalmente más elevado 
 
 II. Autorización temporal: acto administrativo de la Secretaría que concede la prestación del servicio público de transporte, en sus distintas modalidades, para atender por un tiempo determinado el incremento en la demanda por actividades derivadas de acontecimientos y festividades públicas o situaciones de emergencia;
 
-III. Calidad del servicio: niveles cualitativos y cuantitativos de la eficiencia de la ruta y nivel de servicio ofrecido al usuario, en términos de tiempos de transportación, frecuencia de paso, accesibilidad, limpieza y confort de la unidad, manejo y atención del conductor. La calificación de la calidad del servicio es con base en una serie de indicadores cuantitativos y cualitativos que define la norma técnica correspondiente;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-IV. Causa de utilidad pública: es de utilidad pública e interés general, la prestación de los servicios públicos de transporte en cualquiera de sus modalidades, ya sea a través de un organismo descentralizado, o bien, por conducto de personas físicas o jurídicas a quienes mediante concesiones, permisos o subrogaciones el Ejecutivo del Estado, por conducto de la Secretaría de Movilidad encomiende la realización de dichas actividades, en los términos de este ordenamiento y demás disposiciones jurídicas y administrativas aplicables.
+III. Aplicación Móvil: el programa informático o plataforma electrónica de geolocalización para la búsqueda y contacto virtual de prestadores del servicio de transporte público con usuarios del servicio, así como para la contratación y pago de servicios de transporte; ejecutada en dispositivos fijos o móviles mediante el uso de Internet, bajo la cual operan las empresas de redes de transporte;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+IV. Calidad del servicio: niveles cualitativos y cuantitativos de la eficiencia de la ruta y nivel de servicio ofrecido al usuario, en términos de tiempos de transportación, frecuencia de paso, accesibilidad, limpieza y confort de la unidad, manejo y atención del conductor. La calificación de la calidad del servicio es con base en una serie de indicadores cuantitativos y cualitativos que define la norma técnica correspondiente;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+V. Causa de utilidad pública: es de utilidad pública e interés general, la prestación de los servicios públicos de transporte en cualquiera de sus modalidades, ya sea a través de un organismo descentralizado, o bien, por conducto de personas físicas o jurídicas a quienes mediante concesiones, permisos, subrogaciones y autorizaciones el Ejecutivo del Estado, por conducto de la Secretaría de Movilidad encomiende la realización de dichas actividades, en los términos de este ordenamiento y demás disposiciones jurídicas y administrativas aplicables.
 
 Asimismo, se considera de utilidad pública y beneficio general, el establecimiento y uso adecuado de las áreas susceptibles de tránsito vehicular y peatonal; señalización vial y nomenclatura y, en general, la utilización de los servicios, la infraestructura y los demás elementos inherentes o incorporados a la vialidad de competencia del Estado, en términos de este ordenamiento y demás disposiciones jurídicas y administrativas aplicables;
 
-V. Chatarrización: el proceso mediante el cual se desechan las unidades de transporte público que han cumplido su vida útil, mediante la instrumentación de un programa institucional que la incentive;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-VI. Comisión: la Comisión Metropolitana de Movilidad y Transporte;
+VI. Chatarrización: el proceso mediante el cual se desechan las unidades de transporte público que han cumplido su vida útil, mediante la instrumentación de un programa institucional que la incentive;
 
-VII. Concesión: el acto administrativo por el cual el titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, autoriza a las personas físicas o jurídicas, para prestar un servicio público de transporte, en los términos y condiciones que la propia ley señala. Su otorgamiento y las condiciones que se establezcan se consideran de utilidad pública y de interés general;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-VIII. Consejo Consultivo: el Consejo Consultivo de Movilidad y Transporte del Estado de Jalisco;
+VII. Comisión: la Comisión Metropolitana de Movilidad y Transporte;
 
-IX. Constancia o póliza de seguro: documento expedido por una persona jurídica acreditada en los términos de la normatividad aplicable que ampare el aseguramiento del conductor o propietario del vehículo automotor para responder por daños y perjuicios ocasionados a terceros;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-X. Foto infracción: las infracciones a la ley o a sus reglamentos que sean detectados a través de equipos o sistemas electrónicos;
+VIII. Concesión: el acto administrativo por el cual el titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, autoriza a las personas físicas o jurídicas, para prestar un servicio público de transporte, en los términos y condiciones que la propia ley señala. Su otorgamiento y las condiciones que se establezcan se consideran de utilidad pública y de interés general;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-XI. Holograma de verificación vehicular: forma única autorizada y emitida por la Secretaría de Medio Ambiente y Desarrollo Territorial, con características de seguridad y colores determinados de acuerdo con el año, en cumplimiento del programa respectivo;
+IX. Consejo Consultivo: el Consejo Consultivo de Movilidad y Transporte del Estado de Jalisco;
 
-XII. Instituto: el Instituto de Movilidad y Transporte del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-XIII. Licencia: la autorización que concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, y que se acredita mediante el documento denominado de igual forma;
+X. Constancia o póliza de seguro: documento expedido por una persona jurídica acreditada en los términos de la normatividad aplicable que ampare el aseguramiento del conductor o propietario del vehículo automotor para responder por daños y perjuicios ocasionados a terceros;
 
-XIV. Maquinaria agrícola: es aquella autopropulsada o remolcada, que tiene como uso exclusivo las actividades y servicios agrícolas y que transitan de manera eventual o excepcional en los caminos, carreteras y autopistas de jurisdicción estatal;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-XV. Permiso: acto administrativo de la Secretaría que concede la autorización por el tiempo que establece esta ley para:
+XI. Foto infracción: las infracciones a la ley o a sus reglamentos que sean detectados a través de equipos o sistemas electrónicos;
 
-a) La prestación de servicios de transporte que precise la misma ley, o
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XII. Holograma de verificación vehicular: forma única autorizada y emitida por la Secretaría de Medio Ambiente y Desarrollo Territorial, con características de seguridad y colores determinados de acuerdo con el año, en cumplimiento del programa respectivo;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XIII. Instituto: el Instituto de Movilidad y Transporte del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XIV. Licencia: la autorización que concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, y que se acredita mediante el documento denominado de igual forma;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XV. Maquinaria agrícola: es aquella autopropulsada o remolcada, que tiene como uso exclusivo las actividades y servicios agrícolas y que transitan de manera eventual o excepcional en los caminos, carreteras y autopistas de jurisdicción estatal;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XVI. Permiso: acto administrativo de la Secretaría a través del cual autoriza al particular a realizar, conforme a lo establecido en la Ley y por el tiempo que ésta establece:
+
+a) La prestación de servicios de transporte que precise la misma ley; o
 
 b) La circulación, conducción u operación de vehículos de manera provisional;
 
-XVI. Registro estatal: el Registro Estatal de Movilidad y Transporte;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-XVII. Ruta: el trayecto con origen y destino que podrá ser troncal, alimentadora, integrada a un corredor o formar parte de una cuenca de servicio;
+XVII. Registro Estatal: el Registro Estatal de Movilidad y Transporte;
 
-XVIII. Secretaría: La Secretaría de Movilidad;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-XIX. Sistema integrado de transporte público: servicio de transporte público de una ciudad con una organización de alta eficiencia, eficacia y sustentabilidad, resultado de la integración sistémica infraestructural, operativa y tarifaria de las diferentes modalidades del transporte público y del transporte no motorizado, y
+XVIII. Ruta: el trayecto con origen y destino que podrá ser troncal, alimentadora, integrada a un corredor o formar parte de una cuenca de servicio;
 
-XX. Subrogación: acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XIX. Secretaría: La Secretaría de Movilidad;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XX. Sistema integrado de transporte público: servicio de transporte público de una ciudad con una organización de alta eficiencia, eficacia y sustentabilidad, resultado de la integración sistémica infraestructura, operativa y tarifaria de las diferentes modalidades del transporte público y del transporte no motorizado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XXI. Subrogación: acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley.
 
 Los conceptos y definiciones no contenidos en este artículo, se describirán en el reglamento respectivo.
 
@@ -219,11 +269,15 @@ I. Se otorgará el derecho de preferencia a los peatones, personas con discapaci
 
 II. Se establecerán las medidas necesarias, a fin de garantizar al usuario el derecho a que el servicio público de transporte se preste en forma regular, continua, uniforme, permanente e ininterrumpida y en las mejores condiciones de seguridad, comodidad, higiene y eficiencia, cumpliendo con las reglas y condiciones de calidad del servicio, con estricto apego a la normatividad aplicable;
 
-III. Los ciudadanos tienen derecho a denunciar ante la Secretaría, cualquier irregularidad en la prestación del servicio público de transporte público o cualquier tema inherente a la movilidad en el Estado, mediante los procedimientos que la propia Secretaría determine, debiendo informar al quejoso sobre las acciones tomadas, resultados obtenidos y resolución de la Secretaría.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-Para este efecto, independientemente de los órganos de control, la Secretaría establecerá en las áreas administrativas de la dependencia, y organismos descentralizados, relacionados con la prestación de los servicios públicos de transporte, Unidades de Información y Quejas que posibiliten a los interesados ejercer el derecho consignado en el párrafo que antecede.
+III. Los ciudadanos tienen derecho a denunciar ante la Secretaría, cualquier irregularidad en la prestación del servicio de transporte público o cualquier tema inherente a la movilidad en el Estado, mediante los procedimientos que la propia Secretaría determine, debiendo informar al quejoso sobre las acciones tomadas, resultados obtenidos y resolución de la Secretaría.
 
-En dichas unidades se establecerán módulos de atención ciudadana para combatir los actos irregulares de los servidores públicos y los sistemas de comunicación y enlace con la ciudadanía a través de los cuales se captarán y canalizarán las quejas, denuncias, recomendaciones y programas; para coordinar y unificar esfuerzos con las áreas internas de la Secretaría, así como con la Fiscalía General y los órganos de control gubernamental;
+Tratándose del servicio que gestionan las empresas de redes de transporte, la Secretaría únicamente atenderá cualquier irregularidad relativa a la prestación del servicio de transporte, no así a las relacionadas con el funcionamiento y soporte virtual de la aplicación móvil o del sistema privado electrónico de pago, las que se rigen por la legislación en la materia.
+
+Para este efecto, independientemente de los órganos de control, la Secretaría establecerá en las áreas administrativas de la dependencia, y organismos descentralizados, relacionados con la prestación de los servicios públicos de transporte, Unidades de Información y Quejas que posibiliten a los interesados ejercer el derecho consignado en los párrafos que anteceden.
+
+En dichas unidades se establecerán módulos de atención ciudadana para combatir los actos irregulares de los servidores públicos y los sistemas de comunicación y enlace con la ciudadanía a través de los cuales se captarán y canalizarán las quejas, denuncias, recomendaciones y programas; para coordinar y unificar esfuerzos con las áreas internas de la Secretaría, así como con la Secretaría de Movilidad y los órganos de control gubernamental;
 
 IV. Los usuarios del transporte público colectivo tendrán los siguientes derechos:
 
@@ -295,7 +349,13 @@ f) Asistir a los cursos de capacitación permanente que brinde el sistema de tra
 
 g) Las demás que se señalen en la presente ley, su reglamento y demás ordenamientos legales aplicables;
 
-VIII. Cualquier persona puede hacer uso del servicio público de transporte. En consecuencia, la administración pública estatal, así como el concesionario, subrogatario o el conductor, estarán obligados a prestarlo, salvo en los siguientes casos en el que el usuario:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
+
+VIII. Cualquier persona puede hacer uso del servicio público de transporte. En el caso del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, cualquier persona puede hacer uso del servicio y elegir su forma de pago siempre y cuando lo solicite exclusivamente a través de las aplicaciones móviles que pongan a su disposición las empresas de redes de transporte autorizadas por la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+En consecuencia, la administración pública estatal, así como el sujeto de autorización, el concesionario, permisionario, subrogatario o el conductor, estarán obligados a prestarlo, salvo en los siguientes casos en que el usuario:
 
 a) Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes y psicotrópicos, con excepción en el servicio de taxi y radiotaxi;
 
@@ -308,6 +368,10 @@ d) Pretenda contravenir lo dispuesto por la ley y su reglamento;
 IX. El Ejecutivo del Estado, mediante los estudios técnicos, determinará en la norma técnica correspondiente, la incorporación al servicio público de transporte de vehículos que cuenten con aditamentos especiales, tales como rampas y elevadores o mecanismos especiales que permitan la entrada y salida a personas en sillas de ruedas, muletas y prótesis, así como el número, ubicación y características que deberán reunir los espacios para personas con discapacidad en las unidades que se destinen a la prestación de este servicio público, y
 
 X. Las obligaciones que tienen los conductores de vehículos automotores con relación a las personas con discapacidad, escolares, adultos mayores o mujeres embarazadas que, en función de alguna limitación personal, requieran tener alguna preferencia vial, se especificarán en las disposiciones reglamentarias de esta ley, así como las sanciones que se impondrán por su inobservancia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Los choferes de taxi tendrán el derecho en el otorgamiento de concesiones para taxi por quienes demuestren mayor antigüedad como tal, que no tengan concesión y que el estudio socioeconómico resulte que le es indispensable para sostenimiento de su familia. En los procedimientos en los que se haga efectivo el derecho señalado en este párrafo, deberá observarse los principios de máxima publicidad, objetividad, legalidad e interés público a que alude la legislación en materia de transparencia.
 
 ###### Artículo 9º.
 
@@ -523,7 +587,9 @@ XXX. Ordenar la suspensión temporal o total del servicio cuando no reúna las c
 
 XXXI. Modificar los itinerarios, horarios y frecuencias previamente autorizadas en atención al interés público y a la demanda del transporte;
 
-XXXII. Vigilar el cumplimiento de las tarifas para los servicios públicos de transporte;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XXXII. Vigilar el cumplimiento de las tarifas vigentes para los servicios públicos de transporte, a los que les sea obligatorio en términos de la presente Ley y su Reglamento.
 
 XXXIII. Preparar y reunir lo necesario para la maximización de la movilidad de los peatones, del uso del transporte público y de los vehículos de propulsión humana, así como la integración eficiente de los distintos modos de transporte posible, con la concurrencia de las autoridades municipales, por lo que concierne a las cuestiones de equipamiento vial y tránsito relacionadas;
 
@@ -919,7 +985,9 @@ II. De transporte público: los destinados para el transporte de personas o cosa
 
 a) Taxi con sitio y radio taxi: los empleados para el transporte de personas sin sujeción a itinerarios fijos, mediante el pago de un precio que se determinará según la tarifa de taxímetro o zona correspondiente, y autorizados en sitios o asignados a centros de control;
 
-b) De pasajeros: los destinados al transporte urbano, suburbano o foráneo y rural de personas en general, en viajes regulares, con itinerarios y horarios; los dedicados al transporte urbano o suburbano de escolares o de trabajadores o turistas, en recorridos especiales, todos, mediante el pago de un precio que se determinará según la tarifa correspondiente;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+b) De pasajeros: los destinados al transporte urbano, suburbano o foráneo y rural de personas en general, en viajes regulares, con itinerarios y horarios; los utilizados para el transporte público bajo demanda mediante aplicaciones móviles; los dedicados al transporte urbano o suburbano de escolares o de trabajadores o turistas, en recorridos especiales, todos, mediante el pago de un precio que acorde a la modalidad se determinará según la tarifa y sistema de cobro correspondiente;
 
 c) De carga: los dedicados exclusivamente al transporte de materiales u objetos. Por su capacidad serán de carga pesada, mediana o ligera;
 
@@ -935,13 +1003,17 @@ IV. De seguridad: los adaptados para servicios de seguridad, protección civil y
 
 ### Capítulo IV. Del registro y los requisitos para circular en la vía pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
+
 ###### Artículo 44.
 
-Todo vehículo para transitar u ocupar la vía pública, deberá contar con los requisitos y condiciones requeridas de acuerdo a lo dispuesto por esta ley y su reglamento; para ello deberán estar inscritos en el registro estatal, en ese caso, deberán portar los elementos de identificación conforme a su tipo y características; tales como placas, tarjeta de circulación, holograma de verificación vehicular y constancia o póliza de seguro vial vigentes que garantice los daños y perjuicios contra terceros.
+Todo vehículo para transitar u ocupar la vía pública, deberá contar con los requisitos y condiciones requeridas de acuerdo a lo dispuesto por esta ley y su reglamento; para ello deberán estar inscritos en el registro estatal, portar los elementos de identificación conforme a su tipo y características, tales como placas, tarjeta de circulación, holograma de verificación vehicular y constancia o póliza de seguro vial vigentes que garantice los daños y perjuicios contra terceros; así como cualquier otro mecanismo electrónico de identificación vehicular que para esos efectos implemente la Secretaría.
 
 Dichos documentos deberán permanecer inalterables e inmodificables, así como evitar colocar cualquier medio que impida su correcta visualización, según sea el caso.
 
-En el caso de los vehículos de transporte público, en sus distintas modalidades, además de los documentos antes señalados, las unidades deberán portar los rótulos y colores que los identifiquen como prestadores del servicio de que se trate.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+Los vehículos de transporte público en sus distintas modalidades, además de los documentos antes señalados, deberán portar los rótulos y colores que los identifiquen como prestadores del servicio de que se trate, en caso de que la presente Ley, Reglamentos y normas técnicas, así lo exijan para su modalidad.
 
 Todo conductor deberá portar la licencia o permiso para conducir vigente, de acuerdo al tipo de vehículo de que se trate y conforme a la clasificación establecida en la presente ley y su reglamento.
 
@@ -1163,7 +1235,9 @@ III. Por resolución administrativa hasta por 6 meses cuando incurra dentro del 
 
 IV. Al conductor del servicio público del transporte que participe en un accidente de tránsito donde se hayan producido u ocasionado lesiones en personas, de las que tardan más de quince días en sanar y en las cuales se acredite su responsabilidad. Se suspenderá por el término de un año a partir de su notificación al chofer, o
 
-V. Cometer con el vehículo afecto a la concesión más de dos infracciones sancionadas por la ley con un mínimo de diez a veinte días de salario mínimo vigente en la zona donde se cometa la infracción, cada una durante la prestación del servicio en un plazo de treinta días a partir de la primera violación o seis infracciones de estas características en un plazo de seis meses a partir de la primera violación. Dicha suspensión tendrá un término de seis meses a partir de su notificación.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+V. Cometer con el vehículo afecto al servicio público de transporte más de dos infracciones sancionadas por la ley con un mínimo de diez a veinte días de salario mínimo vigente en la zona donde se cometa la infracción, cada una durante la prestación del servicio en un plazo de treinta días a partir de la primera violación o seis infracciones de estas características en un plazo de seis meses a partir de la primera violación. Dicha suspensión tendrá un término de seis meses á partir de su notificación.
 
 ###### Artículo 67.
 
@@ -1187,7 +1261,9 @@ VIII. Cuando cualquier conductor preste el servicio de transporte público sin c
 
 IX. Cuando un operador, conductor o chofer de vehículos de servicio público haya participado en dos o más accidentes viales, y quede debidamente comprobada su culpabilidad por la autoridad competente y se hayan producido u ocasionado lesiones en personas, de las que tardan más de quince días en sanar;
 
-X. Al chofer o conductor de transporte público que al estar en servicio preste otro distinto al autorizado en la concesión o contrato de subrogación;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+X. Al chofer o conductor de transporte público que al estar en servicio preste otro distinto al de la materia de la concesión, permiso, contrato de subrogación o autorización otorgada al efecto;
 
 XI. Cuando separticipe (sic) en un accidente de tránsito y al ocurrir se encuentre bajo la influencia de bebidas alcohólicas, estupefacientes o psicotrópicos.
 
@@ -1196,6 +1272,14 @@ En este caso la Secretaría podrá autorizar la expedición de licencia, si acre
 Cuando el chofer o conductor haya incurrido con el vehículo sujeto a la concesión o contrato de subrogación, en la comisión de un delito en el que resulten hechos de sangre y en los que haya una o más personas occisas, se suspenderá la licencia de conducir desde que se encuentre a disposición de la autoridad y hasta en tanto no se resuelva la situación jurídica, o
 
 XII. Cuando se acredite la responsabilidad para el chofer, conductor u operador del servicio de transporte público, en caso de que éste agreda físicamente o maltrate a algún usuario.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XIII. Al conductor de vehículos destinados al transporte público, que presente alguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos al momento de conducir dicho vehículo; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XIV. Al conductor que preste el servicio de transporte público, sin contar con permiso o autorización, o bien sin estar debidamente registrado y autorizado por la Secretaría.
 
 ###### Artículo 68.
 
@@ -1233,6 +1317,10 @@ VI. En casos distintos a los anteriores, conforme a las disposiciones del Reglam
 
 Los permisos a que se refiere este artículo en los casos previstos en las fracciones I a IV, tendrán una vigencia máxima de hasta quince días.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+En ningún caso se autorizará provisionalmente la circulación de las unidades vehiculares destinadas a la prestación del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, que no cuenten con la documentación completa.
+
 ###### Artículo 71.
 
 Para circular en las vías públicas de comunicación local, los propietarios, legítimos poseedores o conductores de vehículos, deberán acatar las siguientes normas:
@@ -1261,7 +1349,9 @@ El Reglamento de esta ley establecerá los procedimientos que permitan asegurar 
 
 Queda prohibido conducir vehículos por la vía pública, cuando se tenga una cantidad superior a 50 miligramos de alcohol por cien mililitros de sangre o 0.25 miligramos de alcohol por litro de aire espirado, o bajo el influjo de narcóticos.
 
-Los conductores de vehículos destinados al servicio de transporte de pasajeros, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+Los conductores de vehículos destinados al servicio de transporte de pasajeros, de transporte de carga, transporte de pasajeros bajo demanda mediante aplicaciones móviles, o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos.
 
 Los miembros del personal autorizado para realizar las pruebas necesarias referidas en el párrafo anterior, serán considerados como peritos oficiales y fungirán como auxiliares del Ministerio Público. Consecuentemente, dichas pruebas serán incluidas en la averiguación previa que en su caso se integre.
 
@@ -1291,7 +1381,9 @@ Las autoridades estatales o municipales de movilidad, vialidad y tránsito, no e
 
 ## Título Cuarto. De las vías públicas de comunicación local y los servicios conexos
 
-### Capítulo Único
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 77.
 
@@ -1351,11 +1443,97 @@ II. Por regla general, en los predios adyacentes a los caminos, carreteras y aut
 
 III. Solo en casos justificados, la dependencia estatal competente en materia de obras públicas, emitirá dictamen favorable para que se autorice realizar los trabajos a que se refiere la fracción anterior, exigiendo las garantías y medidas de seguridad que estime convenientes.
 
-### Capítulo I. De las modalidades del servicio
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 12 DE MAYO DE 2016)</small>
+
+### Capítulo II. De las autorizaciones para el funcionamiento de empresas de redes de transporte
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 83 Bis.
+
+Además de los que establezca la presente Ley y su Reglamento, se considerarán como servicios conexos a las vías públicas de comunicación local, los que presten las empresas de redes de transporte a través de aplicaciones móviles de geolocalización para la búsqueda y contacto virtual de prestadores del servicio de transporte público con usuarios del servicio, así como para la contratación y pago de servicios de transporte.
+
+Las empresas de redes de transporte, tendrán estrictamente prohibido ofrecer o contratar sus servicios a través de medios diversos a los previstos por esta Ley y su Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 83 Ter.
+
+Las empresas de redes de transporte son aquellas sociedades mercantiles titulares de los derechos de propiedad intelectual de una aplicación móvil, o que cuenten con licencia para su uso, sea franquiciataria o se encuentre afiliada a alguno de los anteriores de tal forma que tenga derechos para el aprovechamiento o administración de la aplicación móvil; cuyo servicio se limita exclusivamente a gestionar servicios de transporte, vinculando a través de dicha aplicación a usuarios de transporte público de punto a punto con prestadores del servicio registrados y autorizados en cualquiera de sus modalidades.
+
+En cualquier caso, las empresas de redes de transporte serán consideradas obligados solidarios de los propietarios y conductores de los vehículos afectos al servicio público de transporte, frente al Estado, los usuarios del servicio y terceros, por la responsabilidad civil, que pudiera surgir con motivo de su operación, la derivada de la prestación del servicio público de transporte, únicamente hasta por un monto igual a las sumas aseguradas en la póliza de seguro del vehículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 83 Quáter.
+
+Las empresas de redes de transporte para su operación, requerirán obtener autorización del Ejecutivo del Estado por conducto de la Secretaría y deberán de inscribirse en el Registro Estatal.
+
+Las autorizaciones para su operación tendrán una duración de un año, las que podrán otorgarse y renovarse anualmente, siempre que éste se encuentre prestando el servicio, no se afecte el interés público, se cumplan los requisitos señalados en esta Ley y el Reglamento respectivo, y previo el pago de derechos que para ello establezca la legislación aplicable así como la suscripción del convenio a que se refiere el artículo 83 sexies fracción XIII de la presente Ley.
+
+Las autorizaciones a que se refiere el presente Capítulo únicamente se otorgarán a sociedades mercantiles constituidas conforme a leyes mexicanas, con domicilio fiscal dentro del Estado de Jalisco, cuyo objeto social sea el de operar como empresas de redes de transporte o gestionar servicios de transporte mediante una aplicación móvil o plataforma tecnológica de la cual sean titulares de los derechos de propiedad intelectual, cuenten con licencia para su uso, sea franquiciataria o se encuentre afiliada a alguno de los anteriores de tal forma que tenga derechos para el aprovechamiento o administración de la aplicación móvil y cumplan con los requisitos que para tal efecto establezca la presente Ley y su Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 83 Quinquies.
+
+A fin de obtener la renovación de la autorización, las empresas de redes de transporte deberán:
+
+I. Presentar solicitud por escrito a más tardar tres meses antes al vencimiento de la autorización, ante la Secretaría, acompañando la documentación requerida en los términos del reglamento respectivo;
+
+II. Acreditar el cumplimiento de los requisitos correspondientes en la forma que precise el Reglamento; y
+
+III. Comprobar que está al corriente en el pago de las contribuciones relacionadas con los vehículos, conductores y demás elementos del servicio o, en su caso, haber asegurado el interés fiscal.
+
+La falta de solicitud de la renovación en el plazo previsto en este artículo se considerará como renuncia al derecho de renovación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 83 Sexies.
+
+Las empresas de redes de transporte, tendrán los siguientes derechos y obligaciones:
+
+I. Garantizar que el servicio público de transporte que ofrecen se preste acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su Reglamento, conforme a la autorización correspondiente;
+
+II. Proteger, orientar y respetar a los usuarios del servicio;
+
+III. En caso que la póliza de seguro de uno de los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles registrado en la empresa de redes de transporte correspondiente, no se encuentre vigente, deberán responder de manera solidaria con éstos, por los daños que puedan causarse tanto a los ocupantes del vehículo, incluido el conductor, como a terceros, tanto en sus bienes como en sus personas, por accidentes ocurridos con motivo de la prestación del servicio, únicamente hasta por el monto igual a las sumas aseguradas requeridas para la póliza del seguro del vehículo;
+
+IV. Verificar que los vehículos y conductores que presten el servicio de transporte de pasajeros bajo demanda mediante la aplicación móvil que administren cumplan con los requisitos que para esa modalidad establecen esta Ley y su Reglamento;
+
+V. Inscribirse y mantener actualizada su incorporación en el Registro Estatal;
+
+VI. Solicitar la renovación de la autorización para su funcionamiento;
+
+VII. Registrar los vehículos y conductores cuyo servicio se contrate mediante la aplicación móvil que administre, en los términos que disponga esta ley y su reglamento;
+
+VIII. Mantener en sus aplicaciones móviles y página web de manera visible, permanente y de fácil acceso, las tarifas de cobro; así como implementar un sistema de cálculo de tarifas cuando la modalidad del servicio contratado así lo permitan;
+
+IX. Crear y mantener una página web permanente y vinculada a la aplicación móvil que administren, a efecto de poner a disposición del público, el catálogo de los vehículos que presten sus servicios a través de esa empresa de redes de transporte, los contratos de adhesión y condiciones de la prestación del servicio;
+
+X. Compartir con la Secretaría, las bases de datos que contengan la información de los propietarios de vehículos afectos al servicio que se encuentren afiliados a la aplicación móvil que administren, el número de vehículos que tiene cada uno, así como la información estadística que generen con motivo de la prestación del servicio de transporte; debiendo proteger y resguardar la relativa a los datos personales de los usuarios conforme a la legislación en la materia;
+
+XI. Prestar todas las facilidades e información que le requieran las autoridades estatales, federales y municipales en el ejercicio de sus funciones;
+
+XII. Verificar que los vehículos que presten el servicio de transporte de pasajeros bajo demanda mediante la aplicación móvil que administren, cumplan con las condiciones mecánicas y de seguridad previstas en las disposiciones reglamentarias aplicables; y
+
+XIII. Suscribir con el Estado un convenio de colaboración para la constitución de un fondo económico al que podrán aportar las empresas de redes de transporte, cuyos recursos se destinarán a los fines o programas públicos que se determinen en el presupuesto de egresos respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 83 Septies.
+
+Las empresas de redes de transporte, deberán hacer llegar a la dirección de correo electrónico registrada por el usuario en la aplicación móvil un comprobante que acredite el pago del servicio, que cumpla con los requisitos que para esos efectos establece esta Ley y su Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 83 Octies.
+
+Los servicios de gestión de transporte y plataformas tecnológicas o sistemas electrónicos para contratación, pago y prepago que implemente el Estado tendientes a la mejora del servicio de transporte público en todas sus modalidades, no serán considerados como una empresa de redes de transporte en cualquiera de sus modalidades.
 
 ## Título Quinto. Del servicio de transporte público
 
-### Capítulo II. De las concesiones, subrogaciones, permisos y autorizaciones para la prestación del servicio de transporte público
+### Capítulo I. De las modalidades del servicio
 
 ###### Artículo 84.
 
@@ -1415,6 +1593,10 @@ h) De carga liviana con sitio, y
 
 i) De autos de arrendamiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+j) Transporte de pasajeros bajo demanda mediante aplicaciones móviles.
+
 IV. El servicio de transporte de carga, se clasifica en:
 
 a) Carga en general, y
@@ -1455,9 +1637,17 @@ d) De empresas particulares para el traslado de su personal;
 
 e) De empresas funerarias en el desempeño de sus actividades;
 
-f) De vehículos auto-escuela para el aprendizaje de manejo, y
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
 
-g) De carga liviana con sitio.
+f) De vehículos auto-escuela para el aprendizaje de manejo;
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+g) De carga liviana con sitio; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+h) De pasajeros bajo demanda mediante aplicaciones móviles.
 
 Los permisos para cualquier modalidad de transporte serán intransferibles.
 
@@ -1488,6 +1678,16 @@ En cualquier caso, requerirá que medie solicitud del usuario correspondiente. S
 ###### Artículo 91.
 
 El servicio de transporte público especializado en sus diferentes modalidades se prestará en vehículos cuyas características se precisarán en el reglamento respectivo y normas de carácter técnico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 91 Bis.
+
+El servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, se contratará exclusivamente a través de la empresa de redes de transporte autorizada por la Secretaría.
+
+Los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles no podrán realizar oferta directa en la vía pública, ni podrán hacer sitio, matriz, base o similares.
+
+El servicio de taxi y radio taxi podrá hacer uso de aplicaciones móviles para la vinculación de los servicios que prestan a través de empresas de redes de transporte autorizadas por la Secretaría.
 
 ###### Artículo 92.
 
@@ -1529,13 +1729,15 @@ III. En el caso de vehículos para carga se aplicarán las normas de seguridad e
 
 IV. En general, los vehículos enunciados en el presente artículo deberán cumplir oportunamente con el calendario de verificación vehicular vigente, así como realizar la revista mecánica correspondiente en los términos que establece la ley de la materia.
 
-### Capítulo III. De las bases generales para otorgar concesiones del servicio público de transporte
+### Capítulo II. De las concesiones, subrogaciones, permisos y autorizaciones para la prestación del servicio de transporte público
 
 ###### Artículo 98.
 
 Las personas físicas o jurídicas, para participar en la prestación del servicio público de transporte masivo o colectivo, requerirán obtener concesión según corresponda, expedida por el Ejecutivo del Estado por conducto de la Secretaría y estarán limitadas, cuando así convenga a las necesidades de la prestación del servicio, cumpliendo con los requisitos que esta ley señala.
 
-Las personas físicas o jurídicas que cuenten con una concesión deberán estar inscritas en el Registro Estatal.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+Las personas físicas o jurídicas que cuenten con una concesión, subrogación, permiso o cualquier otra autorización, deberán estar inscritas en el Registro Estatal.
 
 Para el caso de renovación de concesión para el transporte masivo o colectivo de pasajeros, la persona física o jurídica, deberá solicitarlo por escrito seis meses previos a su vencimiento, acompañando la documentación requerida en los términos de ley.
 
@@ -1567,7 +1769,9 @@ VII. Las concesiones para la prestación del servicio público de taxi en todas 
 
 VIII. Las concesiones para la prestación del servicio público de transporte masivo o colectivo en cualquiera de sus modalidades ampararán los vehículos necesarios para la operación de la ruta correspondiente y cuyo número se especificará en el título mismo;
 
-IX. No se limitará el número de concesiones que una persona física o jurídica pueda tener;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+IX. No podrá otorgarse más de tres concesiones o permisos de taxi, en cualquiera de sus modalidades, a personas físicas o jurídicas; no se limitará el número de concesiones de las demás modalidades de transporte público a personas físicas o jurídicas;
 
 X. Los derechos derivados de una concesión podrán otorgarse en garantía, sólo con objeto de renovar o modernizar la unidad, inclusive a través de fideicomiso de garantía, previa la autorización de la Secretaría;
 
@@ -1584,6 +1788,10 @@ XV. Cualquier determinación de la Secretaría relacionada con cuestiones de una
 En los casos de las autorizaciones de matriz o sitio, se requerirá del dictamen técnico que emita la Secretaría a fin de realizar el trámite procedente ante la autoridad municipal correspondiente, y
 
 XVI. En las concesiones para transporte de características especiales sólo podrán participar personas jurídicas y deberán estar inscritas en el registro estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Las disposiciones de este artículo no le serán aplicables al servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles que se regulará por las disposiciones particulares de esta Ley, su Reglamento y normas técnicas correspondientes.
 
 ###### Artículo 100.
 
@@ -1685,21 +1893,35 @@ II. Identificar al concesionario y al vehículo asignado, y
 
 III. Señalar el precio o cuota pagado por el usuario.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Para el caso del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles no será obligación la expedición de boletos, sin embargo, se deberá extender al usuario el comprobante fiscal o factura electrónica correspondiente mediante los mecanismos electrónicos que se dispongan en la aplicación móvil de contratación, la expedición del comprobante antes mencionado deberá de cumplir con los requisitos previstos en el Reglamento respectivo.
+
 ###### Artículo 109.
 
 Los concesionarios quedarán relevados de entregar boletos mas no de entregar comprobantes a los usuarios correspondientes, cuando el pago de los servicios se realice mediante medio de pago sin dinero en efectivo y en el vehículo correspondiente se pongan a disposición de los usuarios, en los términos previstos en el reglamento de esta ley, los comprobantes que podrán ser trípticos o documentos similares que contengan información en relación con el seguro de responsabilidad civil que los protege contra los riesgos en su transportación, así como los montos de cobertura y formas de hacer efectivo el pago.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
 ###### Artículo 110.
 
-Los concesionarios y subrogatarios del servicio público de transporte deberán obtener y conservar vigente una constancia o póliza de seguro, de acuerdo con la reglamentación que al respecto se expida, con el objeto de hacer efectivas las obligaciones que se establecen en la fracción VI del artículo 97 de esta ley, en el que queden puntualizados los montos de las indemnizaciones.
+Los concesionarios, permisionarios, sujetos de autorización y subrogatarios del servicio público de transporte deberán obtener y conservar vigente constancia o póliza de seguro de cobertura amplia, de acuerdo con la reglamentación que al respecto se expida.
+
+En caso que la póliza de seguro no se encuentre vigente, serán responsables solidarios los sujetos de autorización permisionarios, los operadores y las empresas de redes de transporte a las que se encuentren afiliados o asociados, hasta por el monto igual de las sumas aseguradas en la póliza del seguro del vehículo. Para tal efecto, las empresas de redes de transporte podrán contar con un seguro que cubra dicha responsabilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
 
 ###### Artículo 111.
 
-Los concesionarios, sin alterar las características a que se refiere la fracción VII del artículo 101 de esta ley, deberán colocar en sus vehículos emblemas o distintivos, a fin de:
+Los concesionarios y permisionarios sin alterar las características a que se refiere la fracción VIII del artículo 101 de esta ley, deberán colocar en sus vehículos emblemas o distintivos, afín (sic) de:
 
 I. Identificar las unidades de transporte habilitadas para el servicio de personas con discapacidad, y
 
 II. Ofrecer servicios y atenciones especiales a los usuarios en las modalidades que el concesionario considere convenientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+No se aplicará lo dispuesto en el presente artículo a la modalidad de transporte de pasajeros bajo demanda mediante aplicaciones móviles.
 
 ###### Artículo 112.
 
@@ -1719,11 +1941,27 @@ El acta constitutiva que contenga los estatutos de la persona jurídica, deberá
 
 Los trabajadores del transporte que presten sus servicios como choferes, conductores u operadores de vehículos de servicio público, con la finalidad de acreditar su antigüedad para los fines de esta ley, deberán inscribirse y mantener actualizada su inscripción en el registro estatal.
 
-### Capítulo IV. De la transmisión de las concesiones del servicio de transporte público
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Quienes acrediten, mediante el registro que elabore el Registro Estatal, haber prestado sus servicios como choferes, conductores u operadores de transporte de pasajeros en la modalidad de taxi o radio taxi, más de 10 años, tendrán derecho a que el Ejecutivo del Estado les otorgue el título que ampare la concesión respectiva para la prestación de dicha modalidad de transporte público, la cual se sujetará al procedimiento y requisitos previstos en esta ley y demás disposiciones reglamentarias en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Las concesiones a las que se refiere el párrafo anterior, sólo serán transmisibles vía sucesoria, cumpliendo con los requisitos previstos por el artículo 102 de la presente ley.
+
+### Capítulo III. De las bases generales para otorgar concesiones del servicio público de transporte
 
 ###### Artículo 114.
 
 La Secretaría determinará, de conformidad con los estudios y datos proporcionados por el instituto, el número de concesiones que el Ejecutivo vaya a otorgar en cada modalidad del transporte, y aprobará la convocatoria, para que los interesados presenten sus solicitudes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Para el caso de las convocatorias para el otorgamiento de concesiones para taxis en cualquiera de sus modalidades se dará preferencia a los trabajadores de esta modalidad del transporte público que demuestren mayor antigüedad como tal, que no tengan concesión y que del estudio socio económico resulte que le es indispensable para el sostenimiento de su familia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Para los efectos de este artículo, no serán consideradas como causa de competencia ruinosa las concesiones otorgadas en los términos del artículo 113 de la presente ley.
 
 Sin perjuicio de lo establecido en el artículo 99 de la presente ley, ninguna concesión se otorgará si con ello se establece una competencia ruinosa entre concesionarios para el mismo servicio público de transporte en el mismo centro de población. En relación con lo anterior, será competencia ruinosa la que ponga en riesgo una rentabilidad razonable para la inversión del capital realizada por el concesionario que podría ser afectado por la nueva concesión.
 
@@ -1771,7 +2009,7 @@ I. La antigüedad de los solicitantes como prestadores del servicio público, se
 
 II. El propio registro estatal certificará si los solicitantes son o no titulares de concesiones del servicio público de transporte, indicando, en su caso, la modalidad, clase y datos del vehículo autorizado para operar al amparo de la misma.
 
-### Capítulo V. De las condiciones y requisitos para prestar el servicio de transporte público en las modalidades de concesiones, subrogaciones y permisos
+### Capítulo IV. De la transmisión de las concesiones del servicio de transporte público
 
 ###### Artículo 119.
 
@@ -1801,7 +2039,7 @@ El incumplimiento de cualquiera de estos requisitos implicará la nulidad de ple
 
 También se puede transmitir cuando la concesión se hubiere otorgado en garantía en los términos del artículo 99 fracción X de esta ley.
 
-### Capítulo VI. Del servicio de transporte público de taxi con sitio y radio taxi
+### Capítulo V. De las condiciones y requisitos para prestar el servicio de transporte público en las modalidades de concesiones, subrogaciones y permisos
 
 ###### Artículo 121.
 
@@ -1881,7 +2119,7 @@ IV. Cuando se trate de vehículos que, de manera eventual, hagan uso de los cami
 
 Cuando se trate del servicio de carga, la Secretaría, en casos excepcionales y previo estudio, podrá conceder permisos, tomando como base lo dispuesto en el artículo anterior.
 
-### Capítulo VII. De las concesiones para operar el servicio de transporte de carga
+### Capítulo VI. Del servicio de transporte público de taxi con sitio y radio taxi
 
 ###### Artículo 129.
 
@@ -1955,13 +2193,13 @@ Los concesionarios podrán pertenecer o separarse de cualquier persona jurídica
 
 Los ayuntamientos, en coordinación con la Secretaría, están facultados para dictar todas las disposiciones encaminadas a que los sitios no se conviertan en focos de molestias para el vecindario, para los transeúntes o en obstáculos para la circulación.
 
-### Capítulo VIII. De las concesiones para operar el servicio de transporte exclusivo de turismo
+### Capítulo VII. De las concesiones para operar el servicio de transporte de carga
 
 ###### Artículo 135.
 
 El Ejecutivo del Estado, por conducto de la Secretaría, podrá conceder a las personas físicas o jurídicas que lo soliciten y cumplan con los requisitos que se establezcan al efecto, concesiones para prestar el servicio público de transporte de carga, dentro del Estado de Jalisco o de los municipios correspondientes, en sus diferentes modalidades.
 
-### Capítulo IX. De las concesiones para operar el servicio de carga con grúa
+### Capítulo VIII. De las concesiones para operar el servicio de transporte exclusivo de turismo
 
 ###### Artículo 136.
 
@@ -1973,7 +2211,7 @@ Las concesiones para explotar el servicio público de transporte exclusivo de tu
 
 El personal de operadores y ayudantes en la prestación del servicio de transporte exclusivo de turismo, así como los vehículos destinados al mismo, deberán de llenar los requisitos que establezca el reglamento de esta ley.
 
-### Capítulo X. De los permisos para prestar servicios especializados de transporte
+### Capítulo IX. De las concesiones para operar el servicio de carga con grúa
 
 ###### Artículo 138.
 
@@ -2017,7 +2255,7 @@ Cuando el servicio de grúa se preste a solicitud de la autoridad correspondient
 
 El titular del Poder Ejecutivo del Estado, reglamentará las condiciones técnico-operativas y tarifarias para operar el servicio contemplado en este capítulo.
 
-### Capítulo XI. De las causas de revocación de las concesiones, permisos, autorizaciones y subrogaciones
+### Capítulo X. De los permisos para prestar servicios especializados de transporte
 
 ###### Artículo 142.
 
@@ -2039,17 +2277,97 @@ IV. Las condiciones que deban observarse en la prestación del servicio.
 
 El titular del Poder Ejecutivo del Estado reglamentará las condiciones técnico-operativas y tarifarias para obtener y mantener el permiso para prestar servicios especializados de transporte.
 
-### Capítulo XII. De las tarifas
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 12 DE MAYO DE 2016)</small>
 
-### Capítulo XIII. De los horarios e itinerarios
+### Capítulo X Bis. De las autorizaciones para prestar servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 144 Bis.
+
+El servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, es el que se contrata y se paga conforme a los métodos establecidos que pongan a su disposición las empresas de redes de transporte autorizadas por la Secretaría.
+
+Los vehículos que presten el servicio en esta modalidad deberán contar con autorización del Estado otorgada por conducto de la Secretaría, cuya vigencia no será mayor a un año.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 144 Ter.
+
+Las autorizaciones a que se refiere el presente capítulo, así como su correspondiente renovación, se expedirán conforme se acredite lo siguiente:
+
+I. Se otorgarán a personas físicas o jurídicas propietarias del vehículo que se pretenda destinar a esta modalidad de transporte previo pago de los derechos correspondientes;
+
+II. Contar con una póliza de seguro de cobertura amplia, debiendo presentar para esos efectos, la póliza vigente y el recibo de pago correspondiente;
+
+III. Que el vehículo cumpla con los requisitos previstos en el artículo 46 de esta Ley;
+
+IV. Que el vehículo se encuentre libre de adeudos ante la Secretaría de Planeación, Administración y Finanzas;
+
+V. Acreditar haber cumplido con el programa de verificación vehicular semestral que emita la Secretaría de Medio Ambiente y Desarrollo Territorial de acuerdo con el calendario oficial de verificación vigente en el Estado;
+
+VI. Cumplir con las condiciones mecánicas y de seguridad previstas en las disposiciones reglamentarias aplicables;
+
+VII. Tratándose de la primera autorización, el modelo del vehículo que se pretenda destinar para la prestación del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, no podrá ser mayor a 5 años de antigüedad.
+
+Sin perjuicio de los requisitos que establezca la presente ley, su reglamento y demás disposiciones aplicables en la materia, el otorgamiento de la renovación de la autorización a que se refiere éste artículo estará condicionado al cumplimiento de disposiciones relativas al programa de verificación vehicular.
+
+El vehículo autorizado para esta modalidad no podrá continuar prestando el servicio, y por tanto quedará sin efectos la autorización respectiva otorgada por la Secretaría, cuando el modelo de la unidad exceda de 8 años de antigüedad o bien, de 10 años en caso de vehículos híbridos o eléctricos, en este último supuesto podrán utilizarse modelos de hasta 12 años de antigüedad previo dictamen que emita la Secretaría.
+
+Los documentos que vía electrónica se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, aún y cuando se hubiese expedido la autorización correspondiente; por lo que podrán ser requeridos por la Secretaría durante la vigencia de la misma, para presentar documentos de manera física a efecto de comprobar su autenticidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 144 Quáter.
+
+Con independencia de los requisitos que establezca esta Ley y demás disposiciones jurídicas, el otorgamiento de las autorizaciones a que se refiere el presente capítulo, será improcedente, en los siguientes casos:
+
+I. Cuando a consecuencia de su otorgamiento se establezca una competencia ruinosa entre sujetos de autorización del mismo servicio público en términos de lo establecido por el artículo 114 de esta Ley;
+
+II. Cuando con su otorgamiento se cause un colapso en las vías de comunicación de jurisdicción estatal o municipal por saturación vehicular;
+
+III. Cuando con motivo de su autorización se llegare a causar un impacto negativo al sistema de transporte público provocando un crecimiento inmoderado del mismo; y
+
+IV. Cuando se contravenga alguno de los principios rectores de la movilidad que establece la presente Ley y su Reglamento.
+
+Lo anterior, previo estudio que realice el Instituto para tal efecto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 144 Quinquies.
+
+Las autorizaciones otorgadas y los derechos que de las mismas se deriven, no serán susceptibles de transmisión o sucesión alguna.
+
+Por lo que al sujeto de la autorización le queda estrictamente prohibida toda transmisión o cesión de los derechos que la misma le conceda; cualquier estipulación o pacto de voluntades en contrario, quedará sin efectos con independencia de las responsabilidades a que diera lugar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 144 Sexies.
+
+Los propietarios de los vehículos destinados a la prestación del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, tendrán los siguientes derechos y obligaciones:
+
+I. Inscribir su autorización para prestar el servicio de transporte en la modalidad correspondiente y la unidad vehicular objeto de la misma; así como mantener actualizada su inscripción en el Registro Estatal;
+
+II. Solicitar la renovación de su autorización;
+
+III. Hacer llegar a la dirección de correo electrónico registrada por el usuario en la aplicación móvil el comprobante de pago o factura electrónica correspondiente;
+
+IV. Cumplir oportunamente con el calendario de verificación vehicular semestral, así como realizar la revista mecánica correspondiente en los términos que establece la presente Ley y sus disposiciones reglamentarias; y
+
+V. Las demás señaladas en las disposiciones legales y reglamentarias aplicables.
+
+El cumplimiento de las anteriores disposiciones se llevará a cabo por la empresa de redes de transporte a través de la cual se gestionen sus servicios, en términos de la presente Ley y los ordenamientos que de ella emanen.
+
+### Capítulo XI. De las causas de revocación de las concesiones, permisos, autorizaciones y subrogaciones
 
 ###### Artículo 145.
 
 Cuando se compruebe que una persona tiene en servicio un número mayor de vehículos al precisado en la concesión o el permiso correspondiente, se le sancionará con la revocación de todas las concesiones y los permisos de que sea titular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
+
 ###### Artículo 146.
 
-Las concesiones del transporte masivo y colectivo; así como de taxis en todas sus modalidades; los contratos de subrogación para la prestación de un servicio público de transporte, y todos aquellos permisos y autorizaciones temporales en cualquiera de sus modalidades y características, podrán ser revocadas por alguna de las causas siguientes:
+Las concesiones del transporte masivo y colectivo, así como de taxis en todas sus modalidades, los contratos de subrogación para la prestación de un servicio público de transporte, y todos aquellos permisos y autorizaciones en cualquiera de sus modalidades y características, podrán ser revocadas por alguna de las causas siguientes:
 
 I. Cuando se oferte o realice un servicio distinto del autorizado:
 
@@ -2093,9 +2411,13 @@ XIV. En los casos de los prestadores del servicio de transporte público en cual
 
 XV. A los prestadores del servicio de transporte público en cualquiera de sus modalidades, por utilizar las placas asignadas en unidad distinta a la autorizada;
 
-XVI. Por ser el servicio notoriamente deficiente o que las unidades carezcan de los requisitos mínimos de seguridad, comodidad, higiene o no esté en condiciones mecánicas adecuadas para la prestación del servicio, conforme a las reglas y condiciones de calidad del servicio, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-XVII. A los prestadores del servicio de transporte público en cualquiera de sus modalidades, por prestar el servicio de transporte público con placas vencidas o alteradas.
+XVI. Por ser el servicio notoriamente deficiente o que las unidades carezcan de los requisitos mínimos de seguridad, comodidad, higiene o no esté en condiciones mecánicas adecuadas para la prestación del servicio, conforme a las reglas y condiciones de calidad del servicio; o bien, cuando utilicen placas vencidas o alteradas; y
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+XVII. Cuando la documentación presentada ante la Secretaría a efecto de obtener la concesión, permiso o autorización sea falsa.
 
 ###### Artículo 147.
 
@@ -2103,21 +2425,29 @@ Para hacer efectivas las disposiciones de los artículos que anteceden, la Secre
 
 En el caso de deficiencias en la prestación del servicio de transporte público en cualquiera de sus modalidades, el procedimiento administrativo procederá de oficio o a petición de parte interesada, conforme al procedimiento establecido en el reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
+
 ###### Artículo 148.
 
-Las concesiones se extinguen por cualquiera de las siguientes causas:
+Las concesiones, permisos o autorizaciones se extinguen por cualquiera de las siguientes causas:
 
-I. Por renuncia expresa y por escrito del titular de la concesión;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+I. Por renuncia expresa y por escrito del titular de la concesión, permiso o autorización;
 
 II. Por la extinción de las personas jurídicas a las que se les hubiere otorgado;
 
 III. Por la muerte del titular, cuando éste sea una persona física, sin perjuicio de lo establecido por esta ley;
 
-IV. Por el cumplimiento del plazo para el que fue otorgada la concesión y no se autorice la prórroga;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+IV. Por el cumplimiento del plazo para el que fue otorgada la concesión, permiso o autorización y no se autorice la prórroga o renovación;
 
 V. Cuando se declare la supresión de la ruta;
 
-VI. Por la revocación de la concesión hecha por autoridad competente, o
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+VI. Por la revocación de la concesión, permiso o autorización hecha por autoridad competente; o
 
 VII. Por ser canceladas o por ejercer el derecho de reversión a causa de utilidad pública, a solicitud de la autoridad competente.
 
@@ -2129,7 +2459,7 @@ Si subsiste la necesidad del servicio y siempre que no se afecte el interés pú
 
 La Secretaría informará al registro estatal el acuerdo que declare las concesiones canceladas, extintas o vacantes.
 
-### Capítulo XIV. De los organismos públicos descentralizados que operan servicio de transporte público
+### Capítulo XII. De las tarifas
 
 ###### Artículo 150.
 
@@ -2138,6 +2468,10 @@ Al proponer la revisión, aprobación o modificación de las tarifas del servici
 I. La evaluación de la funcionalidad y eficiencia del servicio, considerando la cantidad de usuarios, los horarios de las rutas, el espaciamiento entre unidades y el cumplimiento, tanto de las rutas como de los horarios, y
 
 II. La revisión de la calidad del servicio con base en los lineamientos mínimos impuestos por la Secretaría y en los convenios respectivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Tratándose del transporte de pasajeros bajo demanda mediante aplicaciones móviles, el costo de la tarifa será establecido por libre concurrencia y competencia entre las empresas de redes de transporte.
 
 ###### Artículo 151.
 
@@ -2193,11 +2527,23 @@ El análisis, discusión y, en su caso, aprobación se realizará en sesión, co
 
 Las tarifas a que se refiere el párrafo anterior, regirán para todos los prestadores del servicio público de transporte según la modalidad de que se trate.
 
-Los prestadores del servicio de transporte público deberán exhibir en forma permanente y en lugares visibles, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa aprobada de acuerdo al servicio que se trata.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+Los prestadores del servicio de transporte público con las excepciones de Ley, deberán exhibir en forma permanente y en lugares visibles, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa aprobada de acuerdo al servicio que se trata.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+En el caso de las empresas de redes de transporte, deberán hacer del conocimiento del usuario del servicio de transporte las tarifas vigentes, así como establecer un sistema de cálculo de tarifas en la aplicación móvil autorizada, así como en las páginas web vinculadas a ésta, debiendo garantizar la facilidad en el acceso y operación del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
 
 ###### Artículo 154.
 
-El Gobernador del Estado podrá modificar, en cualquier momento, las tarifas de transporte público cuando exista una causa de interés público, interés social o con motivo de calamidades públicas que afecten a grupos sociales, comunidades o regiones del Estado de Jalisco.
+El Gobernador del Estado podrá modificar, en cualquier momento, las tarifas de transporte público, cuando exista una causa de interés público, interés social o con motivo de calamidades públicas que afecten a grupos sociales, comunidades o regiones del Estado de Jalisco. En el caso de las empresas de redes de transporte, el ejecutivo podrá modificar o establecer de forma temporal y con criterios técnicos, las tarifas utilizadas por este tipo de empresas, cuando exista alguna de las causas antes mencionadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Asimismo, las empresas de redes de transporte autorizadas deberán publicar en su página electrónica, el límite de los mínimos y máximos conforme el cálculo de sus tarifas.
 
 Tomando en cuenta las circunstancias particulares de los usuarios, las circunstancias de interés general, la conveniencia de eficientar o acreditar el servicio de transporte público, el Gobernador del Estado, a propuesta de la Secretaría y del Instituto, podrá autorizar el establecimiento de tarifas especiales, promocionales o preferenciales, que se aplicarán de manera general abstracta e impersonal a sectores específicos de la población.
 
@@ -2205,9 +2551,11 @@ Los acuerdos del Gobernador del Estado dictados en ejercicio de las atribuciones
 
 Las previsiones señaladas en el presente artículo serán aplicables igualmente en tratándose de las determinaciones de autorización y modificación de las tarifas de las diversas modalidades de transporte de pasajeros, objetos y carga, señalados en el artículo 85 de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
+
 ###### Artículo 155.
 
-Los concesionarios y, en general, los prestadores de servicios públicos de transporte, deberán de aplicar las tarifas autorizadas conforme a las disposiciones siguientes:
+Los concesionarios y en general, los prestadores de servicios públicos de transporte, a excepción del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán de aplicar las tarifas autorizadas conforme a las disposiciones siguientes:
 
 I. Las cuotas o precios tabulados en las tarifas para el transporte de pasajeros son aplicables a los adultos. Para los niños mayores de cinco años y menores de doce, se aplicará media cuota y, para los menores de cinco años, el servicio será gratuito;
 
@@ -2217,9 +2565,17 @@ III. Los concesionarios podrán convenir con el usuario u ofertar una cuota meno
 
 IV. Se establecerá un sistema para el cobro de tarifas del servicio público a través del sistema de prepago, incorporando en lo posible los avances tecnológicos existentes. En la aplicación de tarifas los sistemas de prepago son obligatorios para los concesionarios y subrogatorios del servicio colectivo y masivo;
 
-V. Respecto al servicio público de taxi en todas sus modalidades, es obligatorio la utilización de taxímetro o cualquier otro dispositivo que establezca la Secretaría, excepción hecha para aquellos en que se establezca tarifa por zona, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-VI. Se expedirán comprobantes fiscales cuando la modalidad así lo permita.
+V. Respecto al servicio público de taxi en todas sus modalidades, es obligatorio la utilización de taxímetro o cualquier otro dispositivo que establezca la Secretaría, excepción hecha para aquellos en que se establezca tarifa por zona;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+VI. En el caso del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, el costo de la tarifa se cargará al usuario bajo cualquier modalidad que éste elija, misma que tendrá que estar inserta en la propia aplicación móvil; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+VII. Se expedirán comprobantes fiscales cuando la modalidad así lo permita. Lo anterior será obligatorio tratándose del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles y cualquier otro que se contrate a través de aplicación móvil, por lo que la empresa de redes de transporte intermediaria deberá enviar el correspondiente comprobante fiscal a la dirección de correo electrónico registrada por el usuario del servicio en la aplicación autorizada.
 
 ###### Artículo 156.
 
@@ -2267,7 +2623,7 @@ Los estudiantes, profesores, adultos mayores o personas con discapacidad, deber�
 
 El pasaje obligatoriamente será gratuito para los miembros de la policía vial y autoridades de movilidad y transporte, debidamente identificados y en el cumplimiento de sus funciones. Se presumirá que están en cumplimiento de sus funciones, cuando estén uniformados.
 
-### Capítulo I. De la organización y funcionamiento
+### Capítulo XIII. De los horarios e itinerarios
 
 ###### Artículo 160.
 
@@ -2275,7 +2631,7 @@ Los horarios e itinerarios y, cuando aplique, las paradas y las frecuencias, ser
 
 Dicha dependencia deberá incluir a estos itinerarios la implementación de transporte público nocturno, estableciendo para estos efectos un horario y una frecuencia que cubran las necesidades de los usuarios del servicio, en este turno.
 
-### Capítulo II. De las inscripciones
+### Capítulo XIV. De los organismos públicos descentralizados que operan servicio de transporte público
 
 ###### Artículo 161.
 
@@ -2319,7 +2675,7 @@ La Secretaría coordinará el diseño e implementación de políticas públicas 
 
 ## Título Sexto. Del registro estatal de movilidad y transporte
 
-### Capítulo I. De las medidas de seguridad
+### Capítulo I. De la organización y funcionamiento
 
 ###### Artículo 165.
 
@@ -2343,11 +2699,7 @@ Los prestadores del servicio de transporte público en todas sus modalidades, as
 
 Para acreditar los elementos como prestadores de servicio, los concesionarios y, en general, toda persona autorizada, solicitará sus registros y certificaciones correspondientes al registro estatal.
 
-### Capítulo II. De las sanciones administrativas en materia de movilidad y transporte
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+### Capítulo II. De las inscripciones
 
 ###### Artículo 167.
 
@@ -2359,33 +2711,93 @@ II. Los vehículos domiciliados en el Estado;
 
 III. Las licencias, gafetes de identificación y contratos que permitirán a los conductores, choferes y operadores de vehículos, acreditar su antigüedad como trabajadores del servicio público de transporte;
 
-IV. Todas las concesiones, contratos de subrogación, autorizaciones y permisos en sus distintas modalidades, que expida el Ejecutivo del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-V. Todas las resoluciones judiciales o administrativas que reconozcan, creen, modifiquen o extingan derechos en relación con la titularidad y los derechos derivados de las concesiones, así como todos los actos referidos al otorgamiento en garantía de los derechos derivados de las concesiones a que se refiere la fracción anterior;
+IV. Todas las concesiones, contratos de subrogación, autorizaciones y permisos en sus distintas modalidades, que expida el Ejecutivo del Gobierno del Estado, a través de la Secretaría;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+V. Todas las resoluciones judiciales o administrativas que reconozcan, creen, modifiquen o extingan derechos en relación con la titularidad y los derechos derivados de las concesiones, permisos y autorizaciones, así como todos los actos referidos al otorgamiento en garantía de los derechos derivados de las concesiones a que se refiere la fracción anterior;
 
 VI. Todos los actos autorizados conforme a las disposiciones de esta ley, para trasmitir la titularidad de las concesiones;
 
-VII. La lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos de la concesión, cuando su titular sea una persona física;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+VII. La lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos de la concesión, en los supuestos que así lo permita la Ley y cuando su titular sea una persona física;
 
 VIII. Los documentos relativos a las asociaciones de concesionarios;
 
-IX. Las unidades pertenecientes a empresas cuya actividad sea específicamente el arrendamiento de vehículos, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-X. Las cédulas de notificación de infracción y la demás información relevante, relacionada con la administración del servicio público de transporte, actos y documentos que dispongan esta ley y sus reglamentos.
+IX. Las unidades pertenecientes a empresas cuya actividad sea específicamente el arrendamiento de vehículos;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+X. Las cédulas de notificación de infracción y la demás información relevante, relacionada con la administración del servicio público de transporte, actos y documentos que dispongan esta ley y sus reglamentos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XI. Las autorizaciones para la operación de empresas de redes de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XII. Las aplicaciones móviles a través de las cuales las empresas de redes de transporte, gestionen los servicios de transporte público en las modalidades que así lo permita la Ley y su Reglamento, así como las páginas de internet que se encuentren vinculadas a aquéllas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XIII. Los conductores de vehículos de transporte de pasajeros bajo demanda mediante aplicaciones móviles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XIV. La unidad vehicular que preste el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, así como su autorización correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XV. Registro del representante de los sitios o matrices de control del servicio de taxi, radiotaxi; así como del representante legal de las empresas de redes de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XVI. Por el registro de placas y holograma de seguridad de servicio de transporte público y de transporte de pasajeros bajo demanda mediante aplicaciones móviles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XVII. Registro de renovación de autorización para operar como empresas de redes de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XVIII. Registro del contrato de adhesión bajo el cual prestan sus servicios las empresas de redes de transporte; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XIX. Registro e inscripción de cursos de capacitación dirigidos a conductores del transporte de pasajeros bajo demanda mediante aplicaciones móviles.
 
 Cuando los actos que deban inscribirse en el registro estatal, no se inscriban, si no contravienen las disposiciones de esta ley, sólo surtirán efectos entre los otorgantes, pero no podrán producir perjuicio a terceros, quienes sí podrán aprovecharlos en lo que les fueren favorables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Lo dispuesto en el párrafo anterior, no se aplicará a aquéllos casos en los que se preste un servicio de transporte público mediante aplicaciones móviles, así como a las empresas de redes de transporte; quienes para su explotación y funcionamiento, respectivamente, deberán de acreditar el registro e inscripción de todos los actos jurídicos y administrativos que de conformidad con esta Ley o sus reglamentos deban ser incorporados al Registro Estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+El registro e incorporación de los actos jurídicos y administrativos que por disposición de la Ley de Movilidad y Transporte del Estado de Jalisco y su Reglamento, deban ser inscritos en el Registro Estatal de Movilidad y Transporte, se realizará preferentemente a través de formatos y medios electrónicos que para ello dispongan las autoridades competentes en la materia.
 
 ###### Artículo 168.
 
 Las inscripciones en el registro estatal, y las constancias debidamente certificadas que de ellas se expidan, harán prueba plena. En todo caso, dichas constancias serán los documentos que permitirán acreditar:
 
-I. Los requisitos para solicitar y obtener una concesión;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-II. La titularidad de toda concesión, en sus distintas modalidades;
+I. Los requisitos para solicitar y obtener una concesión, permiso o autorización;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+II. La titularidad de toda concesión, permiso o autorización, en sus distintas modalidades;
 
 III. La designación de sucesor que formule el titular de la concesión, cuando sea una persona física;
 
-IV. Las modificaciones de una concesión, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+IV. Las modificaciones de una concesión, permiso o autorización; y
 
 V. Las asociaciones que integren los concesionarios.
 
@@ -2393,11 +2805,7 @@ El registro estatal expedirá, a quienes las soliciten, copias certificadas de l
 
 ## Titulo Séptimo. De las medidas de seguridad, infracciones, sanciones, inspección y vigilancia, y medios de defensa de los particulares
 
-### Capítulo III. De las sanciones administrativas en materia del servicio del transporte público
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+### Capítulo I. De las medidas de seguridad
 
 ###### Artículo 169.
 
@@ -2413,9 +2821,33 @@ IV. El vehículo se encuentre estacionado en lugar prohibido, en carreteras, fre
 
 V. Contamine visiblemente, en este caso se estará a lo dispuesto por el reglamento respectivo;
 
-VI. El vehículo sea de uso particular y porte los colores asignados por la Secretaría, para las unidades de transporte público, y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-VII. El vehículo que circule con baja administrativa.
+VI. El vehículo sea de uso particular y porte los colores asignados por la Secretaría, para las unidades de transporte público;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+VII. El vehículo que circule con baja administrativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+VIII. Cuando se preste un servicio público sin la concesión, permiso o autorización correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+IX. Cuando el conductor preste otro servicio distinto al autorizado en la concesión, permiso o autorización correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+X. Cuando el conductor o propietario de la unidad vehicular destinada al servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles preste dicho servicio sin contar con la autorización y licencia de identificación, debidamente registrados en el Registro Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XI. Cuando el conductor o propietario de la unidad vehicular destinada al servicio de transporte público en cualquiera de sus modalidades, presente alguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico o de estar bajo los efectos de narcóticos al momento de conducir dicho vehículo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+XII. Cuando el vehículo no porte, o se altere, destruya, imposibilite o inhabilite de cualquier manera, los sistemas de control vehicular, o cualquier otro dispositivo que permita su identificación por radiofrecuencia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2469,7 +2901,11 @@ Si uno o más de los involucrados no portan sus documentos en regla, se proceder
 
 Los elementos de la policía vial no están autorizadas (sic) para recoger al operador o conductor, su licencia, permiso, gafete de identificación, tarjeta de circulación y cualquier otro documento, con excepción de los vehículos de transporte público de carga o transporte público de pasajeros, o cualquiera de sus modalidades, así como transporte público especializado.
 
-### Capítulo IV. De las Infracciones, su Aplicación, Calificación y Ejecución
+### Capítulo II. De las sanciones administrativas en materia de movilidad y transporte
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 174.
 
@@ -2575,7 +3011,9 @@ II. Transportar personas en vehículos de carga liviana o pesada, sin protecció
 
 III. Al propietario de un vehículo, por permitir su conducción por persona que carezca de licencia o permiso vigente;
 
-IV. Conducir un vehículo para el que se requiera haber obtenido previamente licencia o permiso específico y no lo exhiba;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+IV. Conducir un vehículo para el que se requiera haber obtenido previamente licencia o permiso específico y no lo exhiba, cuando no se trate de servicio de transporte bajo demanda mediante aplicaciones móviles;
 
 V. Circular sobre la banqueta o estacionarse en la misma, en forma tal, o en horas en que se impida o se entorpezca la libre y segura circulación peatonal;
 
@@ -2587,7 +3025,9 @@ VIII. No portar en forma visible el gafete de identificación como operador o co
 
 IX. Llevar exceso de pasaje en vehículo de servicio público colectivo y masivo, conforme a las especificaciones del mismo, y a lo establecido en las normas reglamentarias;
 
-X. Subir y bajar pasaje en lugar distinto del autorizado, en el caso de transporte de pasajeros;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+X. Subir y bajar pasaje en lugar distinto del autorizado, en el caso de transporte de pasajeros, cuando no se trate de transporte de pasajeros bajo demanda mediante aplicaciones móviles;
 
 XI. Circular con alguna de las puertas abiertas;
 
@@ -2691,13 +3131,19 @@ Además de las sanciones anteriormente señaladas, en caso de reincidencia se re
 
 Se sancionará a los conductores o propietarios de vehículos que comentan (sic) las siguientes infracciones:
 
-I. Al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público;
+I. (DEROGADA, P.O. 12 DE MAYO DE 2016)
 
-II. Al conductor que circule en el estado, en vehículo que emita visiblemente contaminantes a la atmósfera, con independencia de que cuente con su holograma vigente, de acuerdo al calendario oficial de la Secretaría de Medio Ambiente y Desarrollo Territorial, o
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-III. Al conductor que circule en vehículo que no cuente con el holograma de verificación vehicular, de acuerdo con el calendario oficial.
+II. Circular en el estado, en vehículo que emita visiblemente contaminantes a la atmósfera, con independencia de que cuente con su holograma vigente, de acuerdo al calendario oficial de la Secretaría de Medio Ambiente y Desarrollo Territorial; o
 
-Tratándose de las infracciones contenidas en las fracciones II y III de este artículo, podrán ser condonadas, siempre y cuando, dentro de los quince días hábiles siguientes, el conductor cumpla con los lineamientos establecidos.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+III. Circular en vehículo que no cuente con el holograma de verificación vehicular, de acuerdo con el calendario oficial.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+Las sanciones impuestas con motivo de las infracciones previstas en el presente artículo podrán ser condonadas, siempre y cuando, dentro de los quince días hábiles siguientes a su imposición, el conductor cumpla con los lineamientos establecidos.
 
 ###### Artículo 186.
 
@@ -2723,13 +3169,25 @@ VIII. La licencia o permiso del conductor podrá ser suspendido en los términos
 
 La Secretaría integrará un registro de personas sancionadas por la conducción de vehículos en los términos previstos en el presente artículo y del párrafo tercero del artículo 170 de esta ley.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
 ###### Artículo 187.
 
-Se sancionará a los conductores o propietarios de vehículos que comentan las siguientes infracciones:
+Se sancionará a los conductores o propietarios de vehículos, así como a las empresas de redes de transporte, que cometan las siguientes infracciones:
 
-I. Preste servicios de transporte público en cualquiera de sus modalidades sin contar con la concesión correspondiente, o
+I. Preste servicios de transporte público en cualquiera de sus modalidades sin contar con la concesión, permiso o autorización correspondiente;
 
-II. Porte en un vehículo de uso particular los colores asignados por la Secretaría para las unidades de transporte público.
+II. Porte en un vehículo de uso particular los colores asignados por la Secretaría para las unidades de transporte público;
+
+III. Al conductor que preste sus servicios de transporte de pasajeros bajo demanda mediante aplicaciones móviles que no cuente o presente licencia de chofer vigente expedida por la Secretaría;
+
+IV. Al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público;
+
+V. Preste el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles sin estar debidamente registrado y autorizado por la Secretaría;
+
+VI. Cuando el vehículo no porte, o se altere, destruya, imposibilite o inhabilite de cualquier manera, los sistemas de control vehicular, o cualquier otro dispositivo que permita su identificación por radiofrecuencia; y
+
+VII. A la empresa de redes de transporte que permita deliberadamente que los propietarios o conductores de vehículos destinados a la prestación de transporte público cuyos servicios gestionen a través de una aplicación móvil, cometan infracciones a lo dispuesto en la presente Ley y su Reglamento; o bien, cuando estando obligado a ello, omita vigilar y garantizar que tanto los propietarios, conductores y unidades vehiculares que tenga afiliadas o registradas, contravengan lo dispuesto en la presente Ley o no reúnan los requisitos que establecen los ordenamientos jurídicos y técnicos para la prestación del servicio de transporte público de acuerdo a la modalidad correspondiente.
 
 ###### Artículo 188.
 
@@ -2737,15 +3195,23 @@ En caso de reincidencia en las infracciones previstas en el presente capítulo, 
 
 En caso de reincidencia en las infracciones previstas en las fracciones V y VII del artículo 182 de esta ley, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de movilidad y transporte. Tratándose de la infracción contenida en el artículo 186, a la persona que reincidiere dentro del año siguiente a haber cometido la infracción, además de la sanción económica o del arresto administrativo inconmutable, se suspenderá la licencia de conducir por un periodo de seis meses y, de volver a reincidir dentro del año siguiente, independientemente de la sanción económica y el arresto administrativo inconmutable, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, hasta haber transcurrido dos años de la cancelación, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
 
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL TEXTO DE ESTE PÁRRAFO ES SIMILAR AL ACTUAL QUINTO PÁRRAFO DE ESTE ARTÍCULO.]</small>
+
 Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 192 fracciones I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los 30 días siguientes, la zona en que se cometa la infracción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 192 fracciones I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros, de taxi en sus diversas modalidades, así como de transporte de pasajeros bajo demanda mediante aplicaciones móviles, dentro de los treinta días siguientes, se duplicará el importe de la multa correspondiente.
 
 Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 192 fracción I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los treinta días siguientes, la sanción se incrementará hasta en doscientos días de salario mínimo general vigente en la zona en que se cometa la infracción.
 
-### Capítulo V. De las notificaciones
+### Capítulo III. De las sanciones administrativas en materia del servicio del transporte público
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
 
 ###### Artículo 189.
 
-Las infracciones en materia de transporte serán sancionadas administrativamente mediante cédula de notificación de infracción por la Secretaría de Movilidad, a través de la policía vial, en los términos de esta ley y su Reglamento, y se aplicarán al concesionario, subrogatario, permisionario, propietario o conductor del vehículo, todos ellos responderán solidariamente del pago de la sanción, con excepción de las sanciones y procedimientos cuyo objeto sea la suspensión o cancelación de licencia o gafete.
+Las infracciones en materia de transporte serán sancionadas administrativamente mediante cédula de notificación de infracciones por la Secretaría de Movilidad, a través de la policía vial, en los términos de esta Ley y su reglamento, y se aplicarán al concesionario, subrogatario, permisionario, propietario o conductor del vehículo.
 
 ###### Artículo 190.
 
@@ -2797,19 +3263,37 @@ Se sancionará a los conductores o propietarios de vehículos que comentan (sic)
 
 I. Proporcionar servicio público en cualquiera de sus modalidades en localidad distinta de la autorizada;
 
-II. Realizar el servicio en vehículos distintos a los autorizados, o
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-III. Preste el servicio mediante el uso de vehículos que contravengan las disposiciones de esta ley y su reglamento.
+II. Prestar un servicio público en vehículos distintos a los autorizado (sic); o
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+III. Preste el servicio mediante el uso de vehículos que contravengan las disposiciones de esta Ley, en su Reglamento o cualquier otra disposición técnico-administrativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2016)</small>
 
 ###### Artículo 193.
 
-Los gafetes de identificación de operadores y conductores de vehículos de servicio público, se suspenderán como sanción y por resolución administrativa, cuando el operador o conductor:
+Con independencia de las demás responsabilidades administrativas, civiles, mercantiles, o de cualquier orden, así como de las sanciones a que se hagan acreedores los operadores y conductores de vehículos de servicio público, se procederá a la suspensión del registro y al retiro del gafete de identificación como sanción y por resolución administrativa, cuando alguno de ellos:
 
-I. Se niegue a entregar al usuario el boleto correspondiente a la prestación del servicio, o se omita precisar en el mismo cualquiera de los datos a que se refiere el artículo 108 de esta ley;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
-II. Ofrezca un servicio especial y se niegue a proporcionarlo, u
+I. Se niegue a entregar al usuario el boleto, contrato o comprobante de pago correspondiente a la prestación del servicio, o se omita precisar en el mismo cualquiera de los datos a que se refiere esta Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+
+II. Ofrezca un servicio especial o lo preste bajo una modalidad distinta para el que no cuenta con autorización;
 
 III. Oferte un descuento en el cobro, con relación a la tarifa correspondiente y no lo haga efectivo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+IV. En el caso de los sujetos de autorización del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles o de las empresas de redes de transporte, omitir actualizar el registro de su domicilio fiscal o establecimiento para los fines de verificación y control que se establezcan en el Reglamento respectivo, o utilizarlo como sitio o matriz; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+
+V. Resguardar o estacionar los vehículos afectos al servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles en lugares no autorizados al efecto, o bien, estacionarlos o vincularlos de cualquier manera con sitios o matrices de taxis en sus demás modalidades
 
 En los casos antes previstos, la suspensión será de uno hasta seis meses.
 
@@ -2827,7 +3311,19 @@ En cualquiera de los casos antes descritos, la suspensión será de uno a seis m
 
 La licencia de operador o conductor de servicio público se cancelará como sanción y mediante resolución administrativa, cuando se incurra en violación de la tarifa autorizada, en los casos previstos por esta ley y el reglamento.
 
-### Capítulo VI. De la inspección y vigilancia
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+
+###### Artículo 195 Bis.
+
+Además de lo dispuesto en el Capítulo XI del Título Quinto del presente ordenamiento, se procederá a la revocación de la autorización a las empresas de redes de transporte que sean reincidentes en el incumplimiento de las disposiciones de la presente Ley y su Reglamento.
+
+Para los efectos del artículo anterior, se entenderá como reincidencia la comisión de tres o más infracciones a los ordenamientos locales en materia de movilidad que le sean aplicables, en un periodo de seis meses.
+
+Igual sanción se impondrá a la empresa de redes de transporte que para obtener autorización por parte de la Secretaría, presente documentación o declare información falsa.
+
+El procedimiento de revocación a que se refiere este artículo, se instaurará de conformidad con lo dispuesto por el Capítulo XI del Título Quinto del presente ordenamiento.
+
+### Capítulo IV. De las Infracciones, su Aplicación, Calificación y Ejecución
 
 ###### Artículo 196.
 
@@ -2887,7 +3383,7 @@ En el caso de que el arresto sea impuesto por la autoridad estatal, se notificar
 
 En caso de que el infractor tenga su domicilio en otra entidad federativa o municipio diverso fuera de la zona conurbada, será remitido a las instalaciones de previsión social o donde se ejecuten los arrestos administrativos del municipio más cercano en los términos que señala la presente ley.
 
-### Capítulo VII. De los medios de defensa
+### Capítulo V. De las notificaciones
 
 ###### Artículo 203.
 
@@ -2905,9 +3401,13 @@ III. Si están señalados en semanas, meses o años, o tienen una fecha determin
 
 IV. Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contadas de las veinticuatro a las veinticuatro horas.
 
+### Capítulo VI. De la inspección y vigilancia
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
 ###### Artículo 205.
 
-Las autoridades estatales de movilidad y transporte y municipales de vialidad y tránsito, en sus respectivas esferas de competencia, a efecto de verificar el cumplimiento de esta ley y sus reglamentos, por parte de los titulares de concesiones de servicio público, autorizaciones temporales, permisos y contratos de subrogación, podrán ordenar y realizar inspecciones de locales, instalaciones, bases de servicios, terminales y vehículos destinados a la prestación del servicio público de transporte o servicios conexos.
+Las autoridades estatales de movilidad y transporte y municipales de vialidad y tránsito, en sus respectivas esferas de competencia, a efecto de verificar el cumplimiento de esta ley y sus reglamentos, por parte de los titulares de concesiones, permisos o autorizaciones de servicio público, autorizaciones temporales, permisos y contratos de subrogación, autorizaciones para el funcionamiento de empresas de redes de transporte, podrán ordenar y realizar inspecciones de locales, instalaciones, bases de servicios, terminales y vehículos destinados a la prestación del servicio público de transporte o conexos; así como en el domicilio fiscal y lugar donde se asientan los negocios de las empresa (sic) de redes de transporte o el domicilio registrado para esos efectos.
 
 ###### Artículo 206.
 
@@ -2982,6 +3482,8 @@ II. Por escrito, dentro de un plazo de cinco días hábiles, contado a partir de
 ###### Artículo 214.
 
 En todo caso, la autoridad que practique la inspección, deberá comunicar al visitado el resultado de la misma en un plazo no mayor de quince días hábiles, siguiente a la fecha en que se hubiere practicado la visita de inspección. El incumplimiento de este requisito invalidará los efectos de la misma que fueren adversos a los intereses del visitado y producirá la responsabilidad a que haya lugar, para el servidor público que intervino.
+
+### Capítulo VII. De los medios de defensa
 
 ###### Artículo 215.
 
@@ -3156,3 +3658,33 @@ QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuar�
 SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaría de Movilidad.
 
 SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
+
+P.O. 12 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25829/LXI/2016 QUE MODIFICA LA MINUTA DE DECRETO 25813/LXI/16, Y EN ATENCIÓN A LAS OBSERVACIONES DEL EJECUTIVO DEL ESTADO DE JALISCO, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto el Poder Ejecutivo del Estado de Jalisco, contará con un término de noventa días hábiles para realizar las modificaciones o adecuaciones a sus reglamentos y disposiciones administrativas que resulten aplicables para dar cumplimiento con este decreto.
+
+TERCERO. La Secretaría de Movilidad del Estado de Jalisco, contará con un término improrrogable de doscientos sesenta días hábiles para la revisión de los expedientes de aquellos particulares que se encuentren en el supuesto de prórroga respecto de la validación de su derecho para obtener la titularidad del permiso o de la concesión, así como su inclusión al Registro Estatal de Movilidad y Transporte.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25830/LXI/16 QUE MODIFICA LA MINUTA DE DECRETO 25814/LXI/2016, EN ATENCIÓN A LAS OBSERVACIONES DEL EJECUTIVO DEL ESTADO DE JALISCO, SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las autorizaciones para el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, se otorgarán progresivamente en los términos que establezca la Secretaría, iniciando una primera etapa en el Área Metropolitana de Guadalajara.
+
+TERCERO. El Ejecutivo del Estado, en el término de sesenta días hábiles contados a partir de la entrada en vigor del presente decreto, emitirá las disposiciones reglamentarias y las normas técnicas necesarias para su cumplimiento.
+
+CUARTO. Las autorizaciones para prestar el servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, así como las autorizaciones a empresas de redes de transportes en los términos de esta Ley, podrán expedirse a la entrada en vigor de las disposiciones reglamentarias que al efecto se emitan.
+
+QUINTO. La identificación de los vehículos destinados a la prestación del servicio público de transporte de pasajeros bajo demanda mediante aplicaciones móviles, a través de los sistemas de identificación vehicular mediante radiofrecuencia, se implementará una vez que la Secretaría de Movilidad cuente con la infraestructura tecnológica correspondiente.
+
+En tanto culmine el proceso de adquisición e implementación de los mismos, se dispone un periodo de transición en el cuál el vehículo destinado a la prestación del servicio de transporte bajo demanda mediante aplicaciones móviles, deberá portar en sustitución temporal de aquél y de forma visible un comprobante del registro realizado ante la Secretaría en el que se muestre un código '"QR" con el número de folio, que permita su verificación con la base de datos del Registro que obre en esa dependencia.
+
+Una vez que la Secretaría de Movilidad cuente con los elementos técnicos necesarios para la instalación de los dispositivos de identificación vehicular mediante radiofrecuencia, deberá notificar a los titulares de las autorizaciones el plazo y lugar para la instalación de los mismos por parte de dicha dependencia; la cual será notificada mediante publicación en el periódico oficial "El Estado de Jalisco".
