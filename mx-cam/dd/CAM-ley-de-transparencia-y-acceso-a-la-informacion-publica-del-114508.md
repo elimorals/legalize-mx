@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1145
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-10"
+last_updated: "2016-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MAYO DE 2016.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE MAYO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 4 de mayo de 2016.
 
@@ -393,19 +393,13 @@ II. El tiempo de respuesta a las solicitudes;
 
 III. El número de recursos de revisión presentados, admitidos y resueltos en materia de acceso a la información pública y protección de datos personales; y
 
-Acciones desarrolladas por la Comisión para la capacitación, promoción y difusión y expansión de la cultura de la transparencia, el derecho de acceso a la información y la protección de datos personales.
-
-Artículo 34 (SIC).- La Comisión presentará anualmente ante el H. Congreso del Estado, en el mes de mayo, un informe por escrito correspondiente al ejercicio inmediato anterior que deberá incluir:
-
-I. El número de solicitudes de acceso a la información presentadas ante cada sujeto obligado, la información objeto de las mismas y sus resultados;
-
-II. El tiempo de respuesta a las solicitudes;
-
-III. El número de recursos de revisión presentados, admitidos y resueltos en materia de acceso a la información pública y protección de datos personales; y
+> <small>(F. DE E., P.O. 12 DE MAYO DE 2016)</small>
 
 IV. Acciones desarrolladas por la Comisión para la capacitación, promoción y difusión y expansión de la cultura de la transparencia, el derecho de acceso a la información y la protección de datos personales.
 
-El informe anual será publicado y difundido de manera impresa y por internet. Su circulación y permanencia para consulta será obligatorio en la página electrónica de los entes públicos.
+> <small>(F. DE E., P.O. 12 DE MAYO DE 2016)</small>
+
+El informe anual será publicado y difundido de manera impresa y por internet Su circulación y permanencia para consulta será obligatorio en la página electrónica de los entes públicos.
 
 ###### Artículo 35.
 
