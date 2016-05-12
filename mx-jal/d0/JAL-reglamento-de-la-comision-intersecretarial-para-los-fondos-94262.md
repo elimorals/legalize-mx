@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-comision-intersecretarial-para-los-fondos-9426
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-16"
-last_updated: "2013-05-16"
+last_updated: "2016-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA COMISIÓN INTERSECRETARIAL PARA LOS FONDOS DE LA SEGURIDAD PÚBLICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2016.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 16 de mayo de 2013.
 
@@ -69,9 +69,17 @@ a) Secretaría General de Gobierno;
 
 b) Secretaría de Planeación, Administración y Finanzas;
 
-c) Fiscalía General; y
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
 
-d) Contraloría.
+c) Fiscalía General;
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+
+d) Secretaría de Movilidad; y
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2016)</small>
+
+e) Contraloría.
 
 El cargo como integrante de la Comisión será honorífico y, por lo tanto, no remunerado. Los integrantes participarán en las sesiones con voz y voto, excepto el representante de la Contraloría del Estado, quién sólo podrá intervenir con voz, pero sin voto.
 
@@ -194,3 +202,11 @@ RICARDO VILLANUEVA LOMELÍ
 Secretario de Planeación Administración y Finanzas
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE REFORMA EL REGLAMENTO DE LA COMISIÓN INTERSECRETARIAL PARA LOS FONDOS DE LA SEGURIDAD PÚBLICA”.]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
