@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2015-10-02"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,87 +21,21 @@ state: "QUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO --
 
-ACUERDO GENERAL DE ADMINISTRACION IX/2004, DEL VEINTISIETE DE SEPTIEMBRE DE DOS MIL CUATRO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REGULAN LOS GASTOS DERIVADOS DEL TRASLADO DE LOS SERVIDORES PUBLICOS Y DOCENTES EXTERNOS QUE PARTICIPEN EN LOS PROGRAMAS DE DIFUSION DEL MARCO JURIDICO Y JURISPRUDENCIAL RELACIONADO CON ESTE ALTO TRIBUNAL, ASI COMO LAS CONDICIONES PARA SU EROGACION
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2016.
 
-Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XX, Septiembre de 2004, página 1913.
+Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
-ACUERDO GENERAL DE ADMINISTRACIÓN IX/2004, DEL VEINTISIETE DE SEPTIEMBRE DE DOS MIL CUATRO, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULAN LOS GASTOS DERIVADOS DEL TRASLADO DE LOS SERVIDORES PÚBLICOS Y DOCENTES EXTERNOS QUE PARTICIPEN EN LOS PROGRAMAS DE DIFUSIÓN DEL MARCO JURÍDICO Y JURISPRUDENCIAL RELACIONADO CON ESTE ALTO TRIBUNAL, ASÍ COMO LAS CONDICIONES PARA SU EROGACIÓN.
+ERNESTO PERUSQUIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a todos sus habitantes, sabed, que:
 
-El Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, integrado por los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, con fundamento en el punto tercero del Acuerdo Plenario 2/2003, relativo a la creación, atribuciones, funcionamiento e integración de los comités del propio Tribunal Pleno; y,
+EL CONGRESO CONSTITUYENTE DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, acatando lo dispuesto por el decreto de 22 de marzo del corriente año, y acuerdo de 26 del mismo, dados por el C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y en cumplimiento del artículo 13 del Decreto de 27 de marzo del propio año, que expidió el Gobernador Provisional del Estado, ha tenido a bien decretar la siguiente:
 
-CONSIDERANDO
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2008)</small>
 
-PRIMERO. Que de conformidad con lo dispuesto en el artículo 11, fracción XI, de la Ley Orgánica del Poder Judicial de la Federación, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación tiene, entre otras atribuciones, la de nombrar los comités que sean necesarios para la atención de los asuntos de su competencia;
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-SEGUNDO. Que el veinte de enero de dos mil tres, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación emitió el Acuerdo General 2/2003, relativo a la creación de los comités del propio Tribunal Pleno, en cuyo punto primero se creó el Comité de Gobierno y Administración;
-
-TERCERO. Que en el punto tercero del mencionado acuerdo, se establece que dicho comité se ocupará del ejercicio presupuestal y de todas las cuestiones que no sean de la competencia de los otros comités;
-
-CUARTO. Que en aras de fomentar la cultura jurisdiccional y el adecuado uso de las vías judiciales como medio para resolver las controversias que se susciten entre los sujetos de derecho sometidos al orden jurídico nacional, resulta conveniente difundir entre los gobernados el marco jurídico y jurisprudencial que rige las actividades de la Suprema Corte de Justicia de la Nación, para lo cual debe aprovecharse la experiencia y la capacidad de los secretarios de Estudio y Cuenta y otros servidores públicos del Poder Judicial de la Federación que coadyuvan en labores jurisdiccionales de éste; así como la de docentes externos de reconocida capacidad;
-
-QUINTO. Que para los fines señalados en el considerando que antecede, es conveniente regular los gastos en que puede incurrir este Alto Tribunal con motivo de que los referidos servidores públicos y los docentes externos se trasladen fuera del lugar en que residan para participar en las actividades de difusión antes mencionadas, así como las condiciones que rigen su erogación;
-
-Por lo expuesto y con fundamento en las citadas disposiciones legales se expide el siguiente:
-
-ACUERDO
-
-PRIMERO. Este acuerdo tiene por objeto regular los gastos inherentes a los programas de difusión del marco jurídico y jurisprudencial relacionado con este Alto Tribunal, organizados por las Casas de la Cultura Jurídica de la propia Suprema Corte o por el Colegio de Secretarios de la misma, con motivo del traslado de los servidores públicos y docentes externos que participen en dichos programas.
-
-SEGUNDO. Para efectos de este acuerdo se entenderá por:
-
-I. Casas de la Cultura: Casas de la Cultura Jurídica de la Suprema Corte de Justicia de la Nación;
-
-II. Colegio de Secretarios: Colegio de Secretarios de la Suprema Corte de Justicia de la Nación;
-
-III. Comités: Los Comités de Gobierno y Administración y de Publicaciones y Promoción Educativa;
-
-IV. Disertante: Secretario de Estudio y Cuenta o diverso servidor público del Poder Judicial de la Federación, así como el docente externo, que participe en los programas de difusión materia de este acuerdo;
-
-V. Gastos inherentes a la difusión: Erogaciones que realiza la Suprema Corte para cubrir los gastos de pasajes, hospedaje y alimentos en el lugar de éste, con motivo del desarrollo de los programas de difusión materia de este acuerdo, los necesarios para la organización de dichos programas, así como el material bibliográfico que, en su caso, se entregue a los disertantes y, excepcionalmente, el pago de honorarios a docentes externos;
-
-VI. Hospedaje: Gastos relativos a la contratación de alojamiento y alimentos en el lugar de éste, hasta por dos noches, tomando en cuenta las necesidades del programa respectivo;
-
-VII. Pasajes: Gastos de transportación entre ciudades o poblaciones, así como entre aeropuertos y hoteles y viceversa dentro de la República mexicana;
-
-VIII. Programas de difusión: Seminarios, diplomados, cursos y conferencias previamente organizados y autorizados por los Comités o, en su caso, por el secretario técnico jurídico;
-
-IX. Secretario técnico jurídico: El titular de la Secretaría Técnico Jurídica de la Suprema Corte;
-
-X. Solicitud de erogación: Documento en el que consta la petición del secretario técnico jurídico dirigida a la secretaria de Administración, para la compra de pasajes y contratación de hospedaje, incluidos los alimentos en el lugar de éste;
-
-XI. Suprema Corte: Suprema Corte de Justicia de la Nación.
-
-TERCERO. Los gastos inherentes a la difusión únicamente podrán erogarse en relación con las actividades de difusión del marco jurídico y jurisprudencial que regula a este Alto Tribunal, cuando se haya autorizado el programa respectivo.
-
-CUARTO. Los programas de difusión, cuando impliquen gastos inherentes a la difusión superiores a 100,000 UDIS, deberán autorizarse por los Comités y podrán someterse a la consideración de éstos, por el presidente del Colegio de Secretarios, alguno de sus integrantes y los titulares de las Casas de Cultura, por conducto del secretario técnico jurídico.
-
-Cuando los gastos inherentes a la difusión no superen 100,000 UDIS el programa podrá autorizarse por el secretario técnico jurídico.
-
-Al presentarse la propuesta al órgano competente para su autorización se deberá acompañar el temario del programa de difusión, su duración y las fechas en que se desarrollará, el lugar en donde se impartirá, el público al que estará dirigido, los nombres de los disertantes incluyendo los motivos que sustentan su elección y el monto aproximado de los respectivos gastos inherentes a la difusión.
-
-QUINTO. El secretario técnico jurídico y el presidente del Colegio de Secretarios podrán celebrar convenios con el Instituto de la Judicatura Federal, así como con los Tribunales Superiores de Justicia de los Estados y con las instituciones educativas de nivel superior, públicas o privadas, a efecto de desarrollar programas de difusión materia de este acuerdo general, procurando que los respectivos gastos inherentes a la difusión sean de la menor cuantía posible.
-
-SEXTO. Una vez autorizado el respectivo programa de difusión y, en su caso, celebrado el convenio correspondiente, el secretario técnico jurídico presentará la solicitud de erogación a la secretaria de Administración, por conducto de la Tesorería, la cual deberá realizar los trámites relativos a la contratación de los pasajes y hospedaje así como comunicar y, en su caso, entregar la información correspondiente a los disertantes.
-
-SÉPTIMO. Los gastos de transportación se ajustarán a lo previsto en el párrafo segundo del punto octavo del Acuerdo General de Administración XII/2003, en el caso de los docentes externos se les otorgará el trato que se prevé para un secretario de Estudio y Cuenta; en tanto que los de hospedaje se realizarán respecto de hoteles de calidad adecuada.
-
-OCTAVO. Los disertantes que participen en los programas de difusión deberán estar adscritos, cuando menos en un 50%, a un órgano del Poder Judicial de la Federación.
-
-NOVENO. Los disertantes serán seleccionados considerando su experiencia en los temas materia del respectivo programa de difusión, sus antecedentes laborales y personales.
-
-Tratándose de los disertantes que sean trabajadores de la Suprema Corte, cuando los programas de difusión se realicen fuera del Distrito Federal, en su horario de labores, su participación estará condicionada a la autorización del titular respectivo, con independencia de que la referida participación no tiene su origen en la respectiva relación laboral equiparada.
-
-DÉCIMO. Los disertantes no recibirán retribución alguna con motivo de su participación en los programas de difusión. En el caso de que para ello deban trasladarse fuera de su lugar de residencia, los gastos inherentes a la difusión incluirán los correspondientes a su cónyuge o un familiar consanguíneo en primer grado, debiendo proporcionarse para tal fin copia simple del documento que acredite este vínculo.
-
-En el caso de los docentes externos, excepcionalmente, previa autorización del Comité de Gobierno y Administración, podrá realizarse el pago de honorarios considerando los respectivos efectos fiscales.
-
-DÉCIMO PRIMERO. Los gastos inherentes a la difusión se realizarán con base en los recursos de la partida presupuestal correspondiente o, previa autorización del Comité de Gobierno y Administración comunicada a los respectivos comités técnicos, mediante los recursos de los fideicomisos de inversión números 14211-3 y 14212-1, cuyo objeto es coadyuvar a obtener los medios económicos suficientes para que las resoluciones que emitan los Tribunales del Poder Judicial de la Federación se divulguen adecuadamente entre el foro nacional y los estudiosos del derecho.
-
-DÉCIMO SEGUNDO. La participación de los disertantes que laboren para el Poder Judicial de la Federación implica la obligación de entregar al secretario técnico jurídico una versión escrita de la exposición respectiva, respecto de la cual se cederán a la Suprema Corte los derechos patrimoniales correspondientes a cambio de que ésta solvente los gastos de divulgación, bien sea mediante su edición impresa, en forma individual o conjunta, previa autorización del Comité Editorial de este Alto Tribunal o, en todo los casos, por medios electrónicos.
-
-DÉCIMO TERCERO. El Comité de Gobierno y Administración determinará lo no previsto respecto de los gastos inherentes a la difusión.
+> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
 
 ## Título Primero
 
@@ -123,11 +57,37 @@ Son ley suprema en la entidad, las disposiciones que establezcan la Constitució
 
 En el Estado de Querétaro, toda persona gozará de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano sea parte, las leyes federales, esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección. Las normas relativas a los derechos humanos se interpretarán de conformidad con los ordenamientos antes citados.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+La mujer y el hombre son iguales ante la Ley y gozan de los mismos derechos. En consecuencia, queda prohibida todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social, discapacidad, religión, opiniones, preferencias políticas o sexuales, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El Estado promoverá normas, políticas y acciones para alcanzar equidad entre hombre y mujer, en todos los ámbitos; además incorporará la perspectiva de género y derechos humanos en planes y programas y capacitará a los servidores públicos para su obligatoria aplicación en todas las instancias gubernamentales.
+
 El Estado garantizará el respeto y protección a la persona y a los derechos humanos, promoverá su defensa y proveerá las condiciones necesarias para su ejercicio de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos y generar acciones afirmativas a favor de las personas en situación de vulnerabilidad, en los términos que establezca la ley.
 
 Toda persona tiene derecho a estar informada y a manifestar libremente sus ideas, sin más límites que los señalados por la Constitución Política de los Estados Unidos Mexicanos; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
-La procuración y la administración de justicia en el Estado, se regirá por las disposiciones y principios contenidos en la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
+
+El derecho a la seguridad, a la protección de los bienes y a vivir en un entorno de tranquilidad social, libertad, paz y orden públicos, son derechos fundamentales que esta Constitución reconoce a favor de todas las personas.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+Autoridades y ciudadanos deben contribuir al establecimiento de las condiciones que permitan a los habitantes del Estado vivir en un ambiente seguro para su desarrollo humano integral. La prevención social de la violencia y la delincuencia, es una obligación a cargo del Estado y los municipios, con la participación de la población, en forma individual o colectiva.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+Las autoridades competentes en materia de prevención social de la violencia y la delincuencia; procuración de justicia penal, reinserción social del individuo, orientación, protección y tratamiento de los adolescentes en conflicto con la Ley; protección a las víctimas de la violencia y la delincuencia; mecanismos alternativos de solución de controversias y conflictos; sanción de infracciones administrativas, se coordinarán para integrar el Sistema Estatal de Seguridad.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+El uso de las tecnologías de la información en materia de seguridad se ejecutará respetando los derechos fundamentales de las personas y en los términos que dispongan las leyes.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+Es derecho de todos acceder a la solución de sus conflictos y las controversias de carácter penal, a través de mecanismos alternativos desde el nivel comunitario, ministerial y judicial, en las condiciones y bajo las restricciones que las leyes establezcan. Dichos mecanismos serán impulsados por el Estado, privilegiando la justicia restaurativa para contribuir a la prevención social de la violencia y la delincuencia, al aseguramiento de la reparación del daño y a la recomposición del orden social.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+Para favorecer la profesionalización de los agentes del Ministerio Público, peritos, policías, custodios penitenciarios, defensores públicos y jueces, las leyes promoverán el servicio de carrera en las instituciones a los que pertenezcan dichos servidores públicos.
 
 El Estado respeta, reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
 
@@ -385,9 +345,9 @@ II. Aprobar las leyes en todas las materias, con excepción de las expresamente 
 
 III. Elegir, con el voto de las dos terceras partes de sus integrantes, al ciudadano que deba asumir el cargo de Gobernador con el carácter de provisional, interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
 
-IV. Elegir, con el voto de las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Magistrado del Tribunal de lo Contencioso Administrativo, al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión Estatal de Información Gubernamental, al titular de la Entidad Superior de Fiscalización y a los demás que determine la ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
+IV. Elegir, con el voto de cuando menos las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Magistrado del Tribunal de lo Contencioso Administrativo; al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, al Auditor Superior del Estado, al Fiscal General del Estado y a los demás servidores públicos que determine la Ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
 
 V. Conceder licencia a los diputados, al gobernador; así como conceder las licencias y admitir las renuncias a los Magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
@@ -523,9 +483,9 @@ I. Promulgar, publicar y ejecutar las leyes;
 
 II. Reglamentar las leyes, proveyendo en la esfera administrativa a su exacta observancia, con excepción de las leyes orgánicas de los Poderes y de los órganos autónomos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
 
-III. Preservar el orden, la tranquilidad y la seguridad social en el Estado;
+III. Preservar las libertades, el orden y la paz públicos, así como la tranquilidad y la seguridad social en el Estado, asumiendo el mando en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2012)</small>
 
@@ -571,29 +531,17 @@ XIII. Designar a los fedatarios públicos en los términos de la ley de la mater
 
 XIV. Las que le otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes y ordenamientos que de ambas se deriven.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 23.
 
-Todos los reglamentos, decretos y acuerdos del Gobernador, deberán ser firmados por el Secretario de Gobierno y por el secretario o secretarios del ramo que correspondan.
+Los reglamentos, decretos, acuerdos y disposiciones de carácter general que expida el Gobernador, requerirán para su validez la firma del Secretario de Gobierno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 24.
 
-El Ministerio Público es la institución que tiene por objeto velar por el cumplimiento de las leyes, ejercer las acciones que procedan en contra de quienes las transgredan, hacer efectivos los derechos del Estado e intervenir en los juicios que afecten a las personas a quienes la ley otorga protección. Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia, un fiscal especial para la atención de delitos electorales que dependerá jerárquicamente de éste y los Agentes que la ley determine.
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
-
-Tratándose de la comisión de conductas tipificadas como delitos no graves, el Ministerio Público no ejercitará la acción penal cuando la víctima o el ofendido y el imputado hayan conciliado y suscrito un convenio, que ponga fin a la controversia, observando para ello lo que al respecto disponga la ley.
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
-
-Los particulares también podrán ejercer la acción penal ante la autoridad judicial, en los supuestos que contemple la ley de la materia.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2013)</small>
-
-Para la investigación de los delitos la Procuraduría General de Justicia contará con un cuerpo policíaco de investigación, el cual contará bajo la conducción y mando de aquélla en el ejercicio de esta función.
+El Poder Ejecutivo del Estado en la esfera administrativa de su competencia, proveerá lo necesario para que la defensoría pública en materia penal, cuente con plena independencia técnica y de gestión, bajo los principios de objetividad, eficiencia, profesionalismo, legalidad, lealtad y gratuidad.
 
 > <small>(ADICIONADA, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -615,11 +563,15 @@ El Estado instituirá un sistema integral de justicia aplicable a quienes, tenie
 
 Compete al Poder Judicial la facultad de resolver controversias puestas a su consideración, conforme a las leyes y procedimientos judiciales vigentes en el Estado, en asuntos del fuero común, en materia civil, familiar, penal, justicia de menores y materias federales cuando así lo faculten las leyes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 27.
 
-El Tribunal Superior de Justicia se compondrá cuando menos de doce Magistrados propietarios y ocho supernumerarios, electos para un periodo de tres años y podrán ser reelectos para un periodo inmediato de nueve años más. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de doce años; al vencimiento de dicho plazo o antes si el Magistrado llega a la edad de setenta años, cesará en sus funciones; tendrá derecho a un haber por retiro y será considerado Magistrado supernumerario. El Tribunal Superior de Justicia tendrá un Presidente, que será el representante legal del Poder Judicial.
+El Tribunal Superior de Justicia se compondrá de trece Magistrados propietarios y ocho supernumerarios, electos para un periodo de doce años. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de doce años. En ningún caso se podrá ocupar el cargo de Magistrado Propietario después de los setenta años de edad.
+
+Al concluir el período de doce años a que se refiere el párrafo anterior o antes si el Magistrado llega a la edad de setenta años, cesará en sus funciones. Si el propietario hubiere cumplido con los doce años de servicio, gozará de un haber mensual por retiro, equivalente al máximo que por concepto de jubilación se fije por Ley como derecho para los trabajadores del Estado de Querétaro, sin que pueda otorgarse cuando la separación obedezca a la remoción del cargo como medida de carácter disciplinario o cualquier otra causa de responsabilidad.
+
+El Tribunal Superior de Justicia tendrá un Presidente, que será el representante legal del Poder Judicial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -633,9 +585,15 @@ I. Cumplir con los requisitos fijados en las fracciones I a IV del artículo 95 
 
 II. Haber residido en el Estado los tres años anteriores inmediatos al día de su designación;
 
-III. Durante el año previo a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario del Poder Ejecutivo o su equivalente o Procurador General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
 
-IV. No ser mayor de sesenta y siete años.
+III. Durante el año previo a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario del Poder Ejecutivo o su equivalente, ni Fiscal General del Estado; y
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+
+IV. No ser mayor de setenta años de edad.
+
+El retiro de los Magistrados se producirá, por sobrevenir incapacidad física o mental declarada por autoridad competente, que imposibilite el adecuado desempeño del cargo, o al cumplir la edad que se señala en el primer párrafo de esta fracción.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -651,7 +609,9 @@ III. Garantizar la supremacía y control de esta Constitución, mediante la inte
 
 IV. Declarar sobre los casos de omisión en la expedición de leyes, cuando la misma afecte el funcionamiento o aplicación de la presente Constitución;
 
-V. Aprobar sus reglamentos y emitir los acuerdos generales que resulten necesarios para el mejor desempeño del Poder Judicial;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+
+V. Ejercer la administración, vigilancia y disciplina, exclusivamente con respecto al Pleno y Secretaría General de Acuerdos del Tribunal Superior de Justicia, garantizando la transparencia de su gestión en los términos que determinen las leyes;
 
 VI. Procesar y sentenciar los litigios que no sean competencia de la Suprema Corte de Justicia de la Nación o del Senado de la República y, que surjan entre: Poder Ejecutivo, Legislatura del Estado, Organismos constitucionales autónomos o los Municipios del Estado;
 
@@ -669,15 +629,49 @@ X. Las demás que establezca esta Constitución y las demás leyes.
 
 Se exceptúan de la competencia del Pleno y de las Salas previstas en las fracciones II, III y IV del presente artículo, las leyes en materia hacendaria, fiscal, presupuestal y electoral.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 30.
 
-Los jueces de la entidad serán designados por el Tribunal Superior de Justicia a propuesta del Consejo de la Judicatura, procurando mantener un equilibrio entre mujeres y hombres en dichos cargos; durarán en su encargo seis años, pudiendo ser ratificados en los plazos y condiciones que establezca la ley. Deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos políticos y civiles, así como contar con los requisitos que establezca la ley.
+La carrera judicial, administración, vigilancia y disciplina del Poder Judicial, con excepción de lo que corresponde al Pleno del Tribunal Superior de Justicia, están a cargo de un Consejo de la Judicatura, dotado de independencia técnica y de gestión para emitir sus resoluciones, formado por cinco miembros e integrado por quien resulte electo para presidir el Tribunal Superior de Justicia, dos Consejeros designados por el Pleno del mismo; un Consejero designado por la Legislatura, que no será legislador; y otro que será nombrado por el Poder Ejecutivo, garantizando la transparencia en la gestión en los términos que determinen las leyes.
+
+Los Consejeros designados por el Pleno serán electos con el voto de ocho de sus integrantes, quienes serán representantes de Magistrados y Jueces; deberán contar con una antigüedad mínima de 10 años en la impartición de justicia y además reunir los requisitos señalados en el artículo 28 de esta Constitución.
+
+Los Consejeros designados por el legislativo y ejecutivo, también deberán reunir los requisitos señalados en el artículo 28 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional en el ámbito jurídico, honestidad y honorabilidad en el ejercicio de sus actividades.
+
+Los miembros del Consejo durarán en su encargo cuatro años, con excepción de su Presidente, quien ejercerá esa función mientras ostente también la Presidencia del Tribunal; y ninguno podrá ser ratificado para el mismo cargo de manera consecutiva. Durante su pertenencia al Consejo, los Consejeros designados por el Pleno no ejercerán funciones jurisdiccionales, ni formarán parte del Pleno.
+
+Los Jueces del Poder Judicial serán designados, ratificados y removidos por el Consejo de la Judicatura, debiendo mantener un equilibrio entre mujeres y hombres en dichos cargos; durarán en su encargo seis años, pudiendo ser ratificados en los plazos y condiciones que establezca la Ley. Deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos políticos y civiles, contar con los requisitos que establezca la Ley y protestar el cargo ante el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura. En ningún caso se podrá ocupar el cargo de Juez cumplidos los setenta años de edad.
+
+El Pleno del Tribunal Superior de Justicia podrá solicitar al Consejo de la Judicatura que investigue la conducta de algún Juez.
 
 > <small>(ADICIONADO, P. O. 31 DE MARZO DE 2008)</small>
 
 ### Capítulo Quinto. Organismos Autónomos
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+ARTÍCULO 30 BIS. El Ministerio Público es la institución que tiene por objeto investigar y perseguir los delitos; promover la solución de controversias a través de mecanismos alternativos, sin perjuicio de la competencia que en este ámbito corresponda a otras autoridades.
+
+El Ministerio Público se organizará en una Fiscalía General del Estado, como organismo constitucional autónomo dotado de personalidad jurídica y patrimonio propios que se regirá por su Ley.
+
+Dicho organismo constitucional autónomo contará con un Consejo, en el que se garantice la participación ciudadana; con un cuerpo de policía de investigación que actuará bajo la conducción y mando del Ministerio Público, con una Unidad Especializada en Delitos Electorales y las demás que establezca su Ley.
+
+Para ser Fiscal General del Estado se requiere ser ciudadano mexicano por nacimiento; tener cuando menos 35 años cumplidos al día de la designación; contar con una residencia en el Estado de Querétaro de cuando menos tres años inmediatamente anteriores a la fecha de la designación; contar con título profesional de Licenciado en Derecho con una antigüedad mínima de cinco años; tener cuando menos cinco años de experiencia en la procuración de justicia o bien cinco años de reconocida trayectoria en materia de derecho penal, no haber sido condenado por delito doloso y gozar de buena reputación.
+
+El Fiscal General del Estado durará en su encargo nueve años; será designado y removido en los términos siguientes:
+
+I. El titular del Poder Ejecutivo someterá a consideración de la Legislatura del Estado una terna de candidatos;
+
+II. La Legislatura designará a quien deba ocupar el cargo, previa comparecencia de las personas propuestas;
+
+III. Si enviada la terna, la Legislatura no procediere al nombramiento respectivo dentro de los treinta días naturales siguientes, la designación corresponderá al titular del Poder Ejecutivo.
+
+Solamente podrá ser removido por la Legislatura, por las causas que expresamente establezca la Ley, mediante la misma votación requerida para su nombramiento.
+
+Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la Ley.
+
+El Fiscal General del Estado presentará un informe anual mediante comparecencia ante la Legislatura del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2014)</small>
 
@@ -725,11 +719,11 @@ El Tribunal Electoral del Estado de Querétaro es la autoridad jurisdiccional lo
 
 El Instituto y el Tribunal previstos en este artículo, cumplirán sus funciones bajo los principios de certeza, imparcialidad, independencia, máxima publicidad, objetividad, legalidad y probidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 33.
 
-El funcionamiento de la Defensoría de los Derechos Humanos de Querétaro y la Comisión Estatal de Información Gubernamental, se sujetará a lo siguiente:
+El funcionamiento de la Defensoría de los Derechos Humanos de Querétaro y la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se sujetará a lo siguiente:
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
@@ -739,15 +733,25 @@ La Defensoría de los Derechos Humanos de Querétaro, es un organismo público, 
 
 El Presidente de la Defensoría de los Derechos Humanos de Querétaro, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 Apartado B
 
-La Comisión Estatal de Información Gubernamental, es un organismo especializado e imparcial, con autonomía operativa, de gestión y de decisión, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
-La Comisión se integrará por cuatro comisionados electos por las dos terceras partes de los integrantes de la Legislatura del Estado.
+La Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, es un organismo autónomo colegiado, especializado e imparcial, con autonomía operativa, de gestión y de decisión, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
-Los Comisionados durarán cuatro años en el ejercicio del cargo; podrán ser reelectos para un periodo inmediato siguiente y sólo podrán ser removidos por las causas graves que la ley señale y con la misma votación requerida que para su nombramiento.
+La Comisión se integrará por tres Comisionados electos por las dos terceras partes de los integrantes de la Legislatura del Estado, durarán siete años en el ejercicio del cargo y sólo podrán ser removidos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y serán sujetos de juicio político.
+
+En su funcionamiento, la Comisión se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Las resoluciones del organismo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+
+El organismo garante tendrá un Consejo Consultivo, integrado por tres consejeros, que serán electos en los términos que establezca la Ley de la materia.
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
 
 > <small>(ADICIONADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -835,9 +839,13 @@ El Presidente Municipal, en el mes de julio de cada año, rendirá ante el Ayunt
 
 Los Servidores Públicos serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones. La Ley y demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidades, se ajustarán a las siguientes prevenciones:
 
-I. Se impondrán, mediante juicio político, cuando los Servidores Públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales Administrativos, los jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Procurador General de Justicia, Sub-procuradores y Agentes del Ministerio Público; los miembros de los Ayuntamientos, los Directores generales o sus equivalentes de las entidades paramunicipales;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
 
-II. La comisión de delitos, por parte de cualquier Servidor Público, será perseguida y sancionada en los términos de la Legislación Penal. Para proceder en contra de los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Procurador General de Justicia, los Presidentes Municipales y los titulares de los Organismos Autónomos reconocidos por esta Constitución, se requiere declaración de procedencia por la Legislatura del Estado;
+I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales del Estado, los Jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Fiscal General del Estado y los Ministerios Públicos; el Auditor Superior del Estado, los Comisionados integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, los miembros de los Ayuntamientos y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+
+II. La comisión de delitos, por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal. Para proceder en contra de los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Fiscal General del Estado, los Presidentes Municipales y los titulares de los Organismos Autónomos reconocidos por esta Constitución, se requiere declaración de procedencia por la Legislatura del Estado;
 
 III. Se aplicarán sanciones administrativas a los Servidores Públicos por los actos u omisiones que afecten la legalidad, la honradez, la lealtad, la imparcialidad y la eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones;
 
@@ -867,15 +875,7 @@ Si transcurrieran más de treinta días naturales después de que los Ayuntamien
 
 Esta Constitución no perderá su fuerza ni su vigor aún cuando por cualquier causa se interrumpa su observancia. En caso de que por algún trastorno público se impusiera un gobierno contrario a los principios que ella sanciona, en cuanto el orden y la legalidad se reimplanten, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieran expedido, serán juzgados los que la hubieran interrumpido.
 
-## TRANSITORIOS
-
-PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
-
-TERCERO. En el mes de enero de dos mil cinco el secretario técnico jurídico deberá rendir al Comité de Gobierno y Administración un informe sobre los resultados de la aplicación de este acuerdo general.
-
-Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+## TRANSITORIOS.
 
 ###### Art. 1º.
 
@@ -1620,3 +1620,37 @@ Artículo Séptimo. Conforme al Artículo Noveno Transitorio del Decreto por el 
 La liquidación del Instituto Electoral de Querétaro, se sujetará a las leyes que resulten aplicables en la materia.
 
 Artículo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de febrero de 2016.
+
+Artículo Segundo. Con la finalidad de garantizar el escalonamiento en el nombramiento de los Comisionados, se amplia por 5 años el periodo del Comisionado Presidente de la Comisión Estatal de Información Gubernamental, a partir de la entrada en vigencia de la presente reforma, quien se desempeñará como Presidente durante el periódo de su encargo.
+
+Artículo Tercero. La Legislatura del Estado nombrará, antes de la entrada en vigencia de la presente reforma, a dos Comisionados que conformarán, junto con el Presidente, el Pleno de la Comisión. Uno de los Comisionados será electo por 6 años y otro por 7 años, para garantizar el escalonamiento en la renovación de la Comisión.
+
+Artículo Cuarto. La Legislatura del Estado proveerá, en el Presupuesto de Egresos para el ejercicio del año 2016, lo necesario para garantizar el adecuado funcionamiento de Comisión Estatal de Información Gubernamental, atendiendo al incremento en sus atribuciones y estructura.
+
+Artículo Quinto. Los actuales Comisionados Honorarios de la Comisión Estatal de Información Gubernamental serán Consejeros del Órgano Consultivo y permanecerán en el mismo por el periodo que fueron electos.
+
+P.O. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. A partir de la entrada en vigor de la presente Ley, en un plazo de quince días, el Pleno del Tribunal Superior de Justicia llevará a cabo la designación de los Consejeros que formarán parte del Consejo de la Judicatura; y la Legislatura y el Gobernador harán lo propio con respecto a los Consejeros representantes de los Poderes Legislativo y Ejecutivo del Estado, respectivamente, para dar cumplimiento al artículo 30. Inmediatamente después de realizadas, deberá proveerse la publicación de dichas designaciones en el Periódico Oficial del Gobierno del Estado de Querétaro. Entretanto se procede a la conformación del nuevo Consejo de la Judicatura, el actual se mantendrá en funciones.
+
+Por una sola vez y para garantizar la permanente renovación escalonada del Consejo de la Judicatura, el nombramiento de los Consejeros designados por el Pleno del Tribunal será por un período de cuatro años y el de Consejero representante del Poder Legislativo, para un período de tres años. Los nombramientos posteriores, en todos los casos, serán de cuatro años.
+
+Artículo Tercero. El ejercicio de las facultades de administración y vigilancia que en relación con el Poder Judicial, exclusión hecha del Tribunal Superior de Justicia, se encuentran hasta ahora encomendadas al Presidente del Tribunal Superior de Justicia, Consejo de la Judicatura integrado conforme a la legislación vigente hasta antes de la entrada en vigor de la presente Ley, a la Oficialía Mayor del Poder Judicial, Dirección de Contabilidad y Finanzas y demás dependencias administrativas competentes en esta materia, se entenderán supeditadas a la autorización y supervisión del nuevo Consejo de la Judicatura que se erige por el mandato de esta Ley.
+
+Artículo Cuarto. Se autoriza al Poder Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, realizar las adecuaciones y transferencias presupuestales pertinentes a efecto de que el Poder Judicial cuente con la suficiencia de recursos adecuada para el efecto de cubrir las remuneraciones que correspondan a los Jueces que se designen para integrar el Consejo; y para que los Poderes Legislativo y Ejecutivo, procedan en consecuencia con sus respectivos representantes.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, todos los recursos humanos, materiales y financieros asignados a la operación de la Procuraduría General de Justicia del Estado, se entenderán transferidos a la Fiscalía General del Estado, sin perjuicio alguno de los derechos laborales que correspondan al personal transferido.
+
+Artículo Sexto. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Séptimo. La denominación de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor el 1 de julio de 2016.
+
+Artículo Octavo. Remítase la presente al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
