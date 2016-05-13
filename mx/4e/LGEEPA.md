@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2015-01-09"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -1114,11 +1114,11 @@ ARTICULO 38 BIS 2.- Los Estados y el Distrito Federal podrán establecer sistema
 
 #### SECCION VIII. Investigación y Educación Ecológicas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 39.
 
-Las autoridades competentes promoverán la incorporación de contenidos ecológicos, conocimientos, valores y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+Las autoridades competentes promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2000)</small>
 
@@ -3540,7 +3540,7 @@ México, D. F., 22 de diciembre de 1987.- Dip. David Jiménez González, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta y siete.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 13 DE DICIEMBRE DE 1996.
 
@@ -3845,3 +3845,9 @@ Los ejemplares de vida silvestre incluidos en las bases de datos a que hace refe
 Tercero. Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar sus legislaciones para dar cumplimiento al presente Decreto en un plazo que no exceda de ciento ochenta días naturales posteriores a la publicación del mismo en el Diario Oficial de la Federación.
 
 Cuarto. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 39 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
