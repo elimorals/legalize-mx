@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2015-01-26"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -812,6 +812,10 @@ b) Material biológico de vida silvestre de colecciones científicas o museográ
 
 c) Los artículos de uso personal, siempre y cuando no excedan de dos piezas del mismo producto.
 
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2016)</small>
+
+Queda prohibida la exportación de marfil, en cualquiera de sus tipos y derivados, cuando no cumplan con los tratados internacionales de los que México es parte y con la legislación aplicable.
+
 ###### Artículo 54.
 
 La importación de ejemplares, partes y derivados de especies silvestres, requerirá de autorización expedida por la Secretaría, de conformidad con lo establecido en el reglamento.
@@ -822,9 +826,15 @@ a) Material biológico de vida silvestre de colecciones científicas o museográ
 
 b) Los artículos de uso personal, siempre y cuando no excedan de dos piezas del mismo producto.
 
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2016)</small>
+
+Queda prohibida la importación de marfil, en cualquiera de sus tipos y derivados, cuando no cumplan con los tratados internacionales de los que México es parte y con la legislación aplicable.
+
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2016)</small>
+
 ###### Artículo 55.
 
-La importación, exportación y reexportación de ejemplares, partes y derivados de especies silvestres incluidas en la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, se llevarán a cabo de acuerdo con esa Convención, lo dispuesto en la presente Ley y las disposiciones que de ellas se deriven.
+La importación, exportación y reexportación de ejemplares, partes y derivados de especies silvestres incluidas en la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, se llevarán a cabo de acuerdo con esa Convención, lo dispuesto en la presente Ley y las disposiciones que de ellas se deriven; quedando prohibida la importación, exportación, reexportación y comercialización del marfil, cuando no cumplan con los tratados internacionales de los que México es parte y con la legislación aplicable.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -893,6 +903,10 @@ Ningún ejemplar de primate, cualquiera que sea la especie, podrá ser sujeto de
 ###### Artículo 60 Bis 1.
 
 Ningún ejemplar de tortuga marina, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, incluyendo sus partes y derivados.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2016)</small>
+
+Queda prohibido, el aprovechamiento extractivo con fines de subsistencia o comercial, de las especies de tiburón blanco (Carcharodon carcharias) tiburón ballena (Rhincodon typus), tiburón peregrino (Cetorhinus maximus), pez sierra peine (Squalus pristis) y pez sierra de estero (Pristis pectinata). Sólo se podrá autorizar su captura para actividades de restauración, repoblamiento o de reintroducción de dichas especies en su hábitat natural.
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2008)</small>
 
@@ -1540,6 +1554,10 @@ XXI. Poseer colecciones de especímenes de vida silvestre sin contar con el regi
 
 XXII. Exportar o importar ejemplares, partes o derivados de la vida silvestre, o transitar dentro del territorio nacional los ejemplares, partes o derivados procedentes del y destinados al extranjero en contravención a esta Ley, a las disposiciones que de ella deriven y a las medidas de regulación o restricción impuestas por la autoridad competente o, en su caso, de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre.
 
+> <small>(ADICIONADA, D.O.F. 13 DE MAYO DE 2016)</small>
+
+XXII Bis. Importar, exportar, reexportar y comercializar marfil, cuando no cumplan con los tratados internacionales de los que México es parte y con la legislación aplicable.
+
 XXIII. Realizar actos que contravengan las disposiciones de trato digno y respetuoso a la fauna silvestre, establecidas en la presente Ley y en las disposiciones que de ella se deriven.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
@@ -1598,11 +1616,9 @@ La imposición de las multas a que se refiere el artículo 123 de la presente Le
 
 I. Con el equivalente de 20 a 5000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 122 de la presente Ley, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 2015)</small>
-
-II. Con el equivalente de 50 a 50000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII y XXIV del artículo 122 de la presente Ley.
+II. Con el equivalente de 50 a 50000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII, XXII Bis y XXIV del artículo 122 de la presente Ley.
 
 La imposición de las multas se realizará con base en el salario mínimo general diario vigente para el Distrito Federal al momento de cometerse la infracción.
 
@@ -1859,3 +1875,15 @@ Cuarto. Se derogan todas aquellas disposiciones que contravengan el presente Dec
 D.O.F. 26 DE ENERO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 60 BIS 1 DE LA LEY GENERAL DE VIDA SILVESTRE”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 53, 54, 55, 122 Y 127 DE LA LEY GENERAL DE VIDA SILVESTRE”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
