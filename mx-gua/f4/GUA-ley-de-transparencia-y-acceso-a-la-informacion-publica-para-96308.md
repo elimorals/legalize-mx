@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-963
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-18"
-last_updated: "2015-10-02"
+last_updated: "2016-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96308&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 13 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de octubre de 2013.
 
@@ -1368,3 +1368,93 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 88 DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO. Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la ley vigente
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, contenida en el Decreto Legislativo número 87, expedido por la Sexagésima Segunda Legislatura, publicado en el Periódico Oficial del Gobierno del Estado, número 167, Tercera Parte de fecha 18 de octubre de 2013.
+
+Trámite dé los recursos presentados con anterioridad
+
+###### ARTÍCULO TERCERO.
+
+Los medios de Impugnación y las solicitudes de acceso a la información, instaurados antes de la entrada en vigor del presente decreto, se tramitarán hasta su conclusión conforme a las disposiciones vigentes a su inicio.
+
+Aplicación de los artículos 62 y 63
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones señaladas en los artículos 62 y 63 del presente decreto, serán aplicadas sólo a aquella Información que surja al momento de la entrada en vigencia de la presente Ley.
+
+No surtirá efectos para la información ya generada y clasificada como reservada, a la cual le seguirán aplicando los plazos de reserva, ampliación y reglas de la ley que se abroga.
+
+Operatividad
+
+###### ARTÍCULO QUINTO.
+
+Respecto a las nuevas obligaciones en materia de transparencia, el procedimiento de denuncia, la verificación virtual y los procedimientos sancionatorios en materia de obligaciones de transparencia serán obligatorias para los sujetos obligados hasta en tanto entren en vigor los lineamientos que emita el Sistema Nacional, opere la Plataforma Nacional, y se hayan suscrito los convenios respectivos.
+
+Término a los sujetos obligados para realizar ajustes a su reglamento
+
+###### ARTÍCULO SEXTO.
+
+Los sujetos obligados deberán emitir sus reglamentos en materia de transparencia y acceso o la información pública, se realizarán una vez que entren en vigor los lineamientos que emita el Sistema Nacional, opere la Plataforma Nacional, y se hayan suscrito los convenios respectivos, hasta en tanto en lo que no se contraponga a lo señalado en esta ley seguirán aplicando su anterior reglamento.
+
+Término al Instituto para ajustar su reglamento interior
+
+###### ARTÍCULO SÉPTIMO.
+
+El Instituto contará con un plazo de ciento ochenta días, contados a partir de la entrada en vigor de la presente ley, para realizar los ajustes necesarios a su reglamento interior, hasta en tanto en lo que no se contraponga a lo señalado en esta ley seguirán aplicando su anterior reglamento.
+
+Consejo Consultivo
+
+###### ARTÍCULO OCTAVO.
+
+El Instituto contará con un plazo de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, para emitir y publicar la convocatoria pública para la conformación del Consejo Consultivo.
+
+Responsabilidad subsidiaria
+
+###### ARTÍCULO NOVENO.
+
+En tanto entran en vigor los lineamientos que regulan la forma, términos y plazos en que los sujetos obligados deberán cumplir con las obligaciones dé transparencia, deberán mantener y actualizar en sus respectivas páginas de internet la información conforme lo dispone esta ley y la Ley General.
+
+Los municipios con población menor a 70,000 habitantes cumplirán con las obligaciones de transparencia de conformidad con sus posibilidades presupuestarias y podrán solicitar al Instituto, que de manera subsidiaria, divulgue vía internet las obligaciones de transparencia correspondiente.
+
+Plataforma Nacional de Transparencia
+
+###### ARTÍCULO DÉCIMO.
+
+Hasta en tanto los integrantes del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, emitan los lineamientos generales con respecto a la plataforma electrónica que contendrá la Plataforma Nacional de Transparencia y opere ésta, los sujetos obligados, seguirán operando y actualizando sus respectivas páginas de internet con los sistemas informáticos de soporte, conforme lo venían realizado (sic) atendiendo a la normatividad que los rige.
+
+Adecuación de las leyes de Ingresos municipales
+
+###### ARTÍCULO UNDÉCIMO.
+
+El Congreso del Estado por conducto de la Junta de Enlace en Materia Financiera, promoverá que los ayuntamientos en un plazo de sesenta días contados a partir de la entrada en vigor de la presente Ley, impulsen las ajustes necesarios a sus leyes de ingresos municipales, respecto a la información deberá ser entregada sin costo cuando implique la entrega de no más de veinte hojas simples, así como en caso de existir costos no sean mayores a los establecidos en la Ley Federal de Derechos.
+
+Renovación escalonada de Comisionados
+
+###### ARTÍCULO DUODÉCIMO.
+
+A efecto de buscar la renovación escalonada de los Comisionados del Instituto, el Poder Ejecutivo y el Congreso del Estado, privilegiarán en las futuras designaciones que medien los espacios que la posibiliten.
+
+Los consejeros que actualmente conforman el Instituto de Acceso a la Información Pública para el Estado de Guanajuato seguirán en su cargo hasta concluir el periodo para el cual fueron nombrados.
+
+Por única ocasión, el próximo Comisionado que designe el Congreso del Estado a partir de la propuesta del Poder Ejecutivo, ejercerá su cargo hasta el 15 de diciembre de 2019.
+
+Evaluación ex-post de la ley
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si la Ley ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
