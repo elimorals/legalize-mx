@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2016-05-06"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -14559,6 +14559,26 @@ No constituyen monopolios las asociaciones de trabajadores formadas para protege
 
 Tampoco constituyen monopolio las asociaciones o sociedades cooperativas de productos que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan y que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo la vigilancia o amparo del Gobierno Federal o del Estado, y en este caso, previa autorización especial del Congreso. El mismo Congreso podrá derogar, cuando las necesidades públicas así lo exijan, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+Corresponde al Estado procurar el desarrollo integral de los pueblos y personas, garantizando que fortalezca la Soberanía del Estado y su régimen democrático y que, mediante la competitividad, el fomento de una política estatal para el desarrollo económico sustentable que incluya vertientes sectoriales y regionales, el empleo y una más justa distribución del ingreso y la riqueza, permitan el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+Al desarrollo económico concurrirán, con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo digno y bien remunerado.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+El Estado deberá promover una ley que alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico de la Entidad, promoviendo la competitividad y productividad. En consecuencia la política pública de mejora regulatoria del Estado será obligatoria para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+El Congreso del Estado mediante una ley creará el sistema estatal de mejora regulatoria, así como los instrumentos necesarios para que las leyes que emita dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano, organismo gubernamental o autónomo en el ámbito estatal y municipal, garanticen que los beneficios de las regulaciones sean superiores a sus costos, que fomenten la transparencia, la racionalidad y el máximo bienestar para la sociedad. La ley establecerá la creación de un catálogo estatal que incluya todos los trámites y servicios estatales y municipales, con el objetivo de generar seguridad jurídica y facilitar su cumplimiento privilegiando el uso de las tecnologías de la información. La inscripción en el catálogo y su actualización será obligatoria para cada una de las autoridades arriba mencionadas en los términos que establezca la ley.
+
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 25.
@@ -14841,7 +14861,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE ENERO DE 1979.
 
@@ -14853,11 +14873,11 @@ P.O. 3 DE ENERO DE 1979.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial; y a partir de esa fecha la antigua Congregación de Colombia quedará integrada al Municipio de Anáhuac.
 
-P.O. 14 DE SEPTIEMBRE DE 1979.
+P.O. 1 DE ENERO DE 1979.
 
-DECRETO NÚMERO 254
+DECRETO NÚMERO 204
 
-UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 14 DE SEPTIEMBRE DE 1979.
 
@@ -15013,7 +15033,7 @@ P.O. 27 DE DICIEMBRE DE 1990.
 
 ###### ARTICULO TERCERO
 
-- El Congreso del Estado, por mayoría absoluta, por esta única vez hará la designación de un Gobernador de Transición que cubra el período del primero de agosto al tres de octubre de mil novecientos noventa y siete. El Ciudadano electo deberá reunir los requisitos constitucionales para ocupar el cargo.
+- El Congreso del Estado, por mayoría absoluta, por esta única vez hará la de asignación de un Gobernador de Transición que cubra el período del primero de agosto al tres de octubre de mil novecientos noventa y siete. El Ciudadano electo deberá reunir los requisitos constitucionales para ocupar el cargo.
 
 ###### ARTICULO CUARTO
 
@@ -15636,3 +15656,9 @@ P.O. 6 DE MAYO DE 2016.
 Primero.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se establece un plazo de 120 días para que el Congreso del Estado apruebe las modificaciones necesarias a la ley que crea la Comisión Estatal de Derechos Humanos, acordes al presente Decreto.
+
+P.O. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 113. SE REFORMA POR ADICIÓN DE LOS PÁRRAFOS QUINTO, SEXTO, SÉPTIMO, OCTAVO Y NOVENO AL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
