@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2016-05-10"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3230,7 +3230,9 @@ XVI. Significado de las siglas y abreviaturas incluidas.
 
 ###### Artículo 239.
 
-1. La Gaceta es el órgano oficial de difusión de la Cámara y su propósito es divulgar sus actividades como:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 2016)</small>
+
+1. La Gaceta Parlamentaria es el órgano oficial de difusión electrónico de la Cámara y su propósito es divulgar sus actividades como:
 
 I. Orden del día de las sesiones de la Cámara;
 
@@ -3318,9 +3320,9 @@ XXIX. Todos aquellos asuntos o labores de la Cámara que el Presidente considere
 
 3. Las versiones definitivas digitalizadas e impresas de la Gaceta se entregarán para su clasificación y uso, al acervo de la Cámara.
 
-> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 2016)</small>
 
-4. Los días de Sesión habrá ejemplares de la Gaceta en el Salón de Sesiones, disponibles para los diputados y diputadas que lo soliciten.
+4. Los días de Sesión la Gaceta Parlamentaria estará disponible en el sistema electrónico de cada curul. Sólo se imprimirá la Gaceta a petición de las diputadas y diputados que lo soliciten.
 
 ### CAPITULO II. De los Instrumentos de Difusión
 
@@ -3481,6 +3483,10 @@ IV. Dictar las medidas que estime pertinentes con base a la Ley y el presente Re
 > <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
 
 2. La Cámara otorgará anualmente la Medalla de Honor Gilberto Rincón Gallardo de la H. Cámara de Diputados, de conformidad con lo que estable (sic) el Decreto de su institución, así como su Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2016)</small>
+
+3. La Cámara otorgará anualmente la medalla de reconocimiento al mérito deportivo a ciudadanos nacionales, destacados por su actuación y trayectoria en el deporte mexicano, o a aquellos destacados por el fomento, la protección o el impulso del deporte social, de conformidad con lo que establece el decreto de su creación, así como el Reglamento que regula su entrega.
 
 ###### Artículo 262.
 
@@ -3853,3 +3859,19 @@ D.O.F. 10 DE MAYO DE 2016.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Junta de Coordinación Política, tendrá noventa días a partir de la entrada en vigor del presente Decreto, para emitir la propuesta de constitución del Comité de Ética de la Cámara de Diputados de la LXIII Legislatura.
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 239 Y 241 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En un plazo no mayor a sesenta días a partir de la entrada en vigor del presente Decreto, la Secretaría de Servicios Parlamentarios realizará las acciones pertinentes a efecto de cumplimentar lo dispuesto en el artículo 241, numeral 4 del Reglamento de la Cámara de Diputados.
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN NUMERAL 3 AL ARTÍCULO 261 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, emitirá en los sesenta días siguientes a la aprobación del presente Decreto, el Reglamento que regula la entrega de esta condecoración.
