@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2015-12-30"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,11 +22,9 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO A/005/2015 POR EL CUAL SE ADICIONA EL DIVERSO A/007/2014 POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR, PUBLICADO EN EL D.O.F. EL 28 DE AGOSTO DE 2015, SE ESTABLECE QUE "PARA EFECTUAR EL PAGO DE LAS CANTIDADES QUE RESULTEN DE LA ACTUALIZACIÓN, PARA LAS FRACCIONES DEL PESO, EL MONTO SE AJUSTARÁ PARA QUE LAS MULTAS QUE CONTENGAN CANTIDADES QUE INCLUYAN DE 1 HASTA 50 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA ANTERIOR Y LAS QUE CONTENGAN CANTIDADES DE 51 A 99 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA SUPERIOR."</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO A/005/2015 POR EL CUAL SE ADICIONA EL DIVERSO A/007/2014 POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR, PUBLICADO EN EL D.O.F. EL 28 DE AGOSTO DE 2015, SE ESTABLECE QUE “PARA EFECTUAR EL PAGO DE LAS CANTIDADES QUE RESULTEN DE LA ACTUALIZACIÓN, PARA LAS FRACCIONES DEL PESO, EL MONTO SE AJUSTARÁ PARA QUE LAS MULTAS QUE CONTENGAN CANTIDADES QUE INCLUYAN DE 1 HASTA 50 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA ANTERIOR Y LAS QUE CONTENGAN CANTIDADES DE 51 A 99 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA SUPERIOR.”</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
-
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -530,17 +528,27 @@ Para la elaboración de sus planes y programas de trabajo, la Procuraduría llev
 
 ### Capítulo III. De la información y publicidad
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 32.
 
-La información o publicidad relativa a bienes, productos o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables y exentos de textos, diálogos, sonidos, imágenes, marcas, denominaciones de origen y otras descripciones que induzcan o puedan inducir a error o confusión por engañosas o abusivas.
+La información o publicidad relativa a bienes, productos o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables, claros y exentos de textos, diálogos, sonidos, imágenes, marcas, denominaciones de origen y otras descripciones que induzcan o puedan inducir a error o confusión por engañosas o abusivas.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 Para los efectos de esta ley, se entiende por información o publicidad engañosa o abusiva aquella que refiere características o información relacionadas con algún bien, producto o servicio que pudiendo o no ser verdaderas, inducen a error o confusión al consumidor por la forma inexacta, falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenta.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 La información o publicidad que compare productos o servicios, sean de una misma marca o de distinta, no podrá ser engañosa o abusiva en términos de lo dispuesto en el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 La Procuraduría podrá emitir lineamientos para el análisis y verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor, considerando el contexto temporal en que se difunde, el momento en que se transmite respecto de otros contenidos difundidos en el mismo medio y las circunstancias económicas o especiales del mercado.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 2016)</small>
+
+En el análisis y verificación de la información o publicidad, la Procuraduría comprobará que la misma sea veraz, comprobable, clara y apegada a esta Ley y a las demás disposiciones aplicables.
 
 ###### ARTICULO 33.
 
@@ -2295,3 +2303,9 @@ D.O.F. 28 DE AGOSTO DE 2015.
 D.O.F. 30 DE DICIEMBRE DE 2015.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2016.
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 32 DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
