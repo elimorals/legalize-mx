@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2014-10-23"
+last_updated: "2016-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA RURAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO, PUBLICADO EN EL D.O.F. DE 13 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -2733,7 +2735,7 @@ UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguien
 
 D.O.F. 24 DE MAYO DE 2012.
 
-PRIMERO (SIC).- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+PRIMERO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 5 DE DICIEMBRE DE 2012.
 
@@ -2750,3 +2752,17 @@ D.O.F. 10 DE SEPTIEMBRE DE 2013.
 D.O.F. 23 DE OCTUBRE DE 2014.
 
 ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor hasta en tanto se dicten las reglas de operación del comité de crédito, mientras tanto, las instancias actuales de autorización continuarán vigentes. Asimismo y mientras se ajusta la normatividad interna de la institución todas las referencias que se hagan respecto del Comité de Crédito, se entenderán realizadas al Comité de Créditos Menores. Dicha reforma, en su momento, deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolver al entrar en vigor este Estatuto Orgánico, que conforme al mismo, su atención deba pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento; y los asuntos que deban atenderse por unidades administrativas de nueva creación y que aún no se encuentren constituidas a la entrada en vigor del presente, deberán continuar su atención en las áreas a las que se les haya atribuido originalmente la atención de los mismos.
+
+TERCERO.- Continuarán vigentes los Manuales y Normas diversas expedidas por la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero siempre y cuando éstas no se opongan al presente.
+
+CUARTO.- Se abroga el Estatuto Orgánico de la Financiera Rural (hoy denominada Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero), publicado en el Diario Oficial de la Federación el 21 de Abril de 2003 y sus reformas publicadas en dicho órgano de difusión el 17 de Noviembre de 2003; 04 de Julio de 2005; 12 de Noviembre de 2007; 23 de Enero de 2008; 16 de Abril de 2008; 15 de Mayo de 2008; 23 de Julio de 2008; 17 de Septiembre de 2008; 01 de Diciembre de 2008; 17 de Abril de 2009; 19 de Junio de 2009; 13 de Julio de 2009; 24 de Septiembre de 2009; 27 de Noviembre de 2009; 22 de Enero de 2010; 12 de Marzo de 2010; 03 de Junio de 2010; 20 de Julio de 2010; 14 de Octubre de 2010; 22 de Diciembre de 2010; 30 de Marzo de 2011; 31 de Mayo de 2011; 18 de Octubre de 2011; 18 de Enero de 2012; 24 de Mayo de 2012; 05 de Diciembre de 2012; y 13 de Marzo de 2013; 10 de Septiembre de 2013 y 23 de Octubre del 2014.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente.
