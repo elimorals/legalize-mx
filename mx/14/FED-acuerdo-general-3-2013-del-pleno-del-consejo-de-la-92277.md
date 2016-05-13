@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-04-28"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -171,9 +171,9 @@ IV. CUARTO CIRCUITO:
 
 1. Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y cuatro en materia de trabajo, todos con residencia en Monterrey.
 
-> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 42/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 17/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MAYO DE 2016)</small>
 
-2. Tres tribunales unitarios con residencia en Monterrey.
+2. Cuatro tribunales unitarios con residencia en Monterrey.
 
 3. Trece juzgados de Distrito especializados en el Estado de Nuevo León: seis en materia penal, dos en materia administrativa y cinco en materias civil y de trabajo, todos con residencia en Monterrey.
 
@@ -347,7 +347,11 @@ XIX. DECIMONOVENO CIRCUITO:
 
 1. Seis tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como dos con sede en Reynosa, Tamaulipas.
 
-2. Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 18/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MAYO DE 2016)</small>
+
+2. Cinco tribunales unitarios: uno con sede en Ciudad Victoria, dos con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
 > <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO 21/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
@@ -553,7 +557,11 @@ Para los tribunales colegiados con residencia en Reynosa, su jurisdicción terri
 
 El tribunal unitario con sede en Ciudad Victoria tendrá la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en Tampico.
 
-El tribunal unitario con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 18/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MAYO DE 2016)</small>
+
+En los tribunales unitarios con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
 
 El tribunal unitario con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
 
@@ -2512,3 +2520,71 @@ D.O.F. 28 DE ABRIL DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor el veintinueve de abril de dos mil dieciséis.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 17/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL CUARTO TRIBUNAL UNITARIO DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE EL REFERIDO ÓRGANO JURISDICCIONAL Y LOS TRIBUNALES UNITARIOS DEL MISMO CIRCUITO Y RESIDENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de mayo de dos mil dieciséis, con excepción de lo previsto en el TERCERO transitorio, el cual iniciará su vigencia a partir de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+CUARTO. Se reforma el numeral SEGUNDO, fracción IV, número 2 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. a III. ...
+
+IV. ...
+
+1. ...
+
+2. Cuatro tribunales unitarios con residencia en Monterrey.
+
+3. ...
+
+V. a XXXII. ...".
+
+D.O.F. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 18/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL QUINTO TRIBUNAL UNITARIO DEL DECIMONOVENO CIRCUITO, CON RESIDENCIA EN MATAMOROS, TAMAULIPAS; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS”.]
+
+PRIMERO. El presente acuerdo entrará en vigor el dieciséis de mayo de dos mil dieciséis, con excepción de lo previsto en el transitorio TERCERO, el cual iniciará su vigencia a partir de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional y a la oficina de correspondencia común que prestará servicio a los órganos de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+CUARTO. Se modifica el punto SEGUNDO, apartado XIX. DECIMONOVENO CIRCUITO, número 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XVIII. …
+
+XIX. DECIMONOVENO CIRCUITO:
+
+1. …
+
+2. Cinco tribunales unitarios: uno con sede en Ciudad Victoria, dos con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
+
+3. …”.
+
+Asimismo, se modifica el punto TERCERO, apartado XIX. DECIMONOVENO CIRCUITO, cuarto párrafo, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“TERCERO. …
+
+I. a XVIII. …
+
+XIX. DECIMONOVENO CIRCUITO: …
+
+…
+
+…
+
+En los tribunales unitarios con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
+
+…
+
+…”.
