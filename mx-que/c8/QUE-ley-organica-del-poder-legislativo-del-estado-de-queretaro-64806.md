@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2015-09-03"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -403,9 +405,61 @@ Serán inhábiles los periodos vacacionales autorizados por la Mesa Directiva, a
 
 En ningún caso podrá dispensarse alguna etapa del proceso legislativo.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
+
 ###### Artículo 37.
 
-(Trámite de solicitudes) Las solicitudes de pensión, jubilación, desincorporación, empréstitos o para autorizar avales que garanticen obligaciones contraídas legalmente por el titular del Poder Ejecutivo, serán presentadas en los términos de la ley de la materia, seguirán el mismo trámite que las iniciativas y la resolución del Pleno que recaiga sobre ellas, tendrá el carácter de decreto.
+(Trámite de solicitudes) Las solicitudes de desincorporación, empréstitos o para autorizar avales que garanticen obligaciones contraídas legalmente por el titular del Poder Ejecutivo del Estado, serán presentadas en los términos de la ley de la materia, seguirán el mismo trámite que las iniciativas y la resolución del Pleno que recaiga sobre ellas y tendrán el carácter de Decreto.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+Artículo 37 bis. (Solicitudes de pensión o jubilación) Las solicitudes de pensión o jubilación serán presentadas en los términos de la ley de la materia y seguirán el trámite establecido en el presente numeral.
+
+A. De la presentación.
+
+l. El titular de la Oficialía Mayor o su equivalente del ente público que corresponda, será el competente para remitir a la Legislatura la solicitud de jubilación o pensión dentro del plazo que para tal efecto señala la Ley de los Trabajadores del Estado de Querétaro; y
+
+II. Dicha solicitud deberá acompañarse con el expediente y constancias del trabajador, debidamente integrado, en términos de lo contenido en la Ley de los Trabajadores del Estado de Querétaro.
+
+B. Del turno.
+
+Recibida la solicitud en la Oficialía de Partes del Poder Legislativo, el Presidente de la Mesa Directiva la turnará a la Comisión ordinaria competente, dentro del plazo de cinco días hábiles siguientes a su recepción, para que emita un proyecto de dictamen;
+
+C. De la revisión.
+
+I. Cuando de la revisión de la solicitud se desprenda la falta de información o de documentos para dar trámite a la solicitud de jubilación o pensión, la Legislatura del Estado, a través de la Comisión a la que se haya turnado, podrá requerir al ente público omiso la entrega de los mismos, los que tendrán hasta treinta días naturales para dar cumplimiento a lo requerido; y
+
+II. En caso de que el ente público no dé cumplimiento al requerimiento formulado dentro del plazo establecido para tal efecto, se sancionará a la autoridad responsable conforme a la ley de la materia y se realizarán los requerimientos que resulten necesarios a efecto de que la dependencia remita la documentación solicitada;
+
+D. Del proyecto de dictamen y sus observaciones.
+
+l. Para la formulación del proyecto de dictamen la Comisión deberá considerar la información contenida en el Registro de Antigüedad Laboral;
+
+II. Una vez formulado el proyecto de dictamen, la Comisión ordenará su publicación en la página de internet de la Legislatura por un periodo de quince días naturales para publicidad del mismo y en su caso recibir observaciones;
+
+III. El Presidente de la Comisión dará cuenta a los diputados integrantes de la misma, sobre la existencia o inexistencia de observaciones al proyecto de dictamen, a efecto de que, en su caso, se aboquen a su estudio y se emita el dictamen definitivo, el cual podrá ser en sentido de aprobación o de rechazo; y
+
+IV. Si de las observaciones se desprendiera la necesidad de verificar la veracidad de los requisitos para su procedencia, la Comisión podrá requerir al titular de la Oficialía Mayor o su equivalente del ente público del que se trate, para que valide la documentación o información que haya sido remitida.
+
+Sin dicha validación, la Comisión quedará imposibilitada para continuar con el trámite correspondiente; en este caso se rechazará la solicitud de pensión o jubilación.
+
+E. Del dictamen definitivo.
+
+Una vez realizado el estudio de las observaciones al proyecto de dictamen y su respectiva validación o en caso de no haber existido observaciones, la Comisión emitirá el dictamen definitivo, fundado y motivado, el que será puesto a consideración y votación del Pleno, siguiendo el trámite previsto en los Capítulos Tercero, Cuarto, Quinto y Sexto del presente Título. La resolución del Pleno que recaiga a las solicitudes tendrá el carácter de decreto.
+
+F. De su aprobación en sentido favorable.
+
+En caso de que el Pleno de la Legislatura haya resuelto de forma favorable la solicitud para el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, el decreto respectivo se remitirá para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+G. De su aprobación en sentido de rechazo.
+
+Cuando el Pleno de la Legislatura no apruebe la solicitud de jubilación o pensión por vejez o pensión por muerte, según sea el caso, notificará de su determinación al titular de la Oficialía Mayor o su equivalente del ente público que corresponda.
+
+H. Revisión de decreto de jubilación o pensión.
+
+A petición fundada y motivada del titular de la Oficialía Mayor o su equivalente de algún ente público, la Legislatura podrá entrar al estudio de un decreto de jubilación o pensión expedido y, en su caso, emitir uno nuevo, ratificando, modificando o revocando el contenido del anterior.
+
+Dicha resolución será notificada al titular de la Oficialía Mayor o su equivalente del ente público que haya solicitado la revisión.
 
 ###### Artículo 38.
 
@@ -419,15 +473,17 @@ En ningún caso podrá dispensarse alguna etapa del proceso legislativo.
 
 (Participación del autor de la iniciativa) El autor de la iniciativa deberá ser invitado a participar en el debate del dictamen ante la Comisión que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2016)</small>
+
 ###### Artículo 41.
 
-(Asuntos inconclusos en el ejercicio constitucional) Si al finalizar el ejercicio de la Legislatura, las Comisiones tuvieren asuntos inconclusos de resolución o dictamen, remitirán la documentación original que corresponda a la Dirección de Asuntos Legislativos y Jurídicos.
+(Asuntos inconclusos en el ejercicio constitucional) Previo al término del ejercicio constitucional, las Comisiones que tuvieren asuntos inconclusos de resolución o dictamen, remitirán la documentación original que corresponda a la Dirección de Asuntos Legislativos y Jurídicos.
 
 Los dictámenes que expidan las Comisiones y no sean conocidos por el Pleno de la Legislatura, así como los proyectos de ley o decreto que hubieran sido devueltos con observaciones por el Ejecutivo, quedarán a disposición de la sucesora para que se discutan y voten.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
-Las iniciativas pendientes de dictaminarse al finalizar una Legislatura, serán archivadas por acuerdo de la Mesa Directiva.
+Las iniciativas pendientes de dictaminarse al finalizar una Legislatura, podrán ser dadas de baja por Acuerdo de la Mesa Directiva saliente o, en su caso, reasignarse para su estudio y dictamen a las Comisiones que correspondan de la Legislatura siguiente.
 
 ### Capítulo Tercero. De los dictámenes
 
@@ -451,17 +507,13 @@ Cuando la iniciativa proponga la creación de organismos, dependencias o la ampl
 
 (Iniciativas de particulares) Las iniciativas de particulares serán presentadas en los términos de la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
 ###### Artículo 44.
 
-(Turno de la iniciativa) Las iniciativas serán turnadas para su dictamen a la Comisión que corresponda, por el Presidente de la Mesa Directiva, en un plazo máximo de cinco días, contados a partir de su recepción o aclaración, en su caso. Se exceptúan de lo anterior, las iniciativas ingresadas durante los últimos sesenta días naturales anteriores al término del ejercicio constitucional de la Legislatura, las cuales serán turnadas a la Comisión respectiva dentro del plazo señalado, contado a partir del inicio del funcionamiento de la Legislatura siguiente, salvo cuando se trate de iniciativas presentadas por el titular del Poder Ejecutivo del Estado de Querétaro o por la Junta de Concertación Política, las que podrán presentarse en cualquier momento y ser turnadas a la Comisión pertinente, para que sean dictaminadas.
+(Turno de la iniciativa) En un plazo máximo de cinco días contados a partir de su recepción o aclaración, según corresponda, las iniciativas recibidas serán turnadas para estudio y dictamen a la Presidencia de la Comisión competente, con conocimiento de sus integrantes.
 
-Las iniciativas turnadas se harán del conocimiento de los integrantes del Pleno.
-
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-Previo a dar conocimiento del turno referido en el párrafo anterior, a petición de los autores de las iniciativas, éstos podrán dar a conocer personalmente y de manera verbal el contenido de las mismas, en sesión del Pleno.
+Las iniciativas turnadas se darán a conocer a los integrantes de la Legislatura de manera electrónica.
 
 ###### Artículo 45.
 
@@ -959,6 +1011,8 @@ La Legislatura analizará el informe del Gobernador en el seno de las Comisiones
 
 ### Capítulo Primero. Órganos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2016)</small>
+
 ###### Artículo 109.
 
 (Galerías) En el recinto donde la Legislatura celebre sus sesiones, se contará con una galería destinada al público que asista a presenciarlas; se abrirá antes de comenzar cada una de ellas y no se cerrará sino cuando concluyan, a no ser que así se justifique por existir desorden o circunstancia grave que lo exija.
@@ -1007,15 +1061,23 @@ No podrá llamarse al orden al orador que critique o censure a funcionarios púb
 
 ###### Artículo 114.
 
-(Órganos) Son órganos del Poder Legislativo:
+(Órganos) Son Órganos del Poder Legislativo:
 
 I. Los Grupos y Fracciones Legislativas;
 
 II. La Mesa Directiva;
 
-III. La Junta de Concertación Política; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
 
-IV. Las Comisiones ordinarias o especiales.
+III. La Junta de Concertación Política;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+
+IV. Las Comisiones ordinarias o especiales; y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2016)</small>
+
+V. El Comité de Transparencia.
 
 Ningún diputado, podrá ocupar simultáneamente las Presidencias de la Mesa Directiva y de la Junta de Concertación Política.
 
@@ -1459,7 +1521,9 @@ VI. Desarrollo económico y turístico: Tiene a su cargo la atención de asuntos
 
 VII. Desarrollo social y vivienda: Tiene a su cargo la atención y análisis de programas de gobierno para el combate de la pobreza y fomento a la vivienda;
 
-VIII. Desarrollo sustentable: Tiene a su cargo atender asuntos en materia de ecología, preservación del medio ambiente y recursos naturales;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+
+VIII. Desarrollo sustentable y cambio climático: Tiene a su cargo atender asuntos en materia de ecología, preservación del medio ambiente, recursos naturales y cambio climático;
 
 IX. Desarrollo urbano, obras públicas y comunicaciones: Tiene a su cargo la atención de asuntos en materia de planeación urbana, normatividad de obra pública y comunicaciones;
 
@@ -1497,7 +1561,9 @@ XXI. Salud y población: Tiene a su cargo la atención de asuntos en materia de 
 
 XXII. Seguridad pública y protección civil: Tiene a su cargo la atención de asuntos en materia de seguridad pública estatal y municipal, y de protección y prevención civil;
 
-XXIII. Trabajo y previsión social: Tiene a su cargo la atención de asuntos en materia de decretos de jubilaciones y pensiones, y de reformas a la legislación laboral local;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+
+XXIII. Trabajo y previsión social: Tiene a su cargo la atención de asuntos en materia de decretos de jubilaciones y pensiones de conformidad con lo establecido en el artículo 37 bis de la presente Ley y de lo dispuesto por la Ley de los Trabajadores del Estado de Querétaro. De igual forma, le corresponde el estudio de armonizaciones en materia laboral;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -1747,9 +1813,17 @@ XVI. Ejecutar los acuerdos del Pleno de la Legislatura, en el ámbito de su comp
 
 XVII. Tener bajo su responsabilidad, en el ámbito administrativo, el uso de los recintos oficiales y demás instalaciones del Poder Legislativo, de acuerdo con los lineamientos que en su caso determine la Mesa Directiva y demás disposiciones que al efecto se establezcan;
 
-XVIII. Coordinar el Sistema de Servicio Profesional de Carrera del Poder Legislativo; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
 
-XIX. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
+XVIII. Coordinar el Sistema de Servicio Profesional de Carrera del Poder Legislativo;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+
+XIX. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables; y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2016)</small>
+
+XX. Tener a su cargo un Registro de Antigüedad Laboral que contendrá entre otra información, la relacionada con el sueldo, antigüedad y puesto de los trabajadores del Poder Legislativo. Dicha información podrá ser compartida, mediante solicitud que conste por escrito, con los titulares de las oficialías mayores o sus equivalentes de diversos entes públicos.
 
 #### Sección Tercera. Dirección de Servicios Financieros
 
@@ -1987,6 +2061,10 @@ IX. Ejecutar las demás instrucciones que en materia de comunicación social rec
 
 ## Título Sexto. Suspensión o declaración de desaparición de Ayuntamientos, revocación de mandato, suspensión o inhabilitación de alguno de sus miembros
 
+### Capítulo Primero. Estructura y funcionamiento
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
 ###### Artículo 189.
 
 (Substanciación del procedimiento) Las solicitudes de suspensión o declaración de desaparición de ayuntamientos y las de revocación del mandato, suspensión o inhabilitación de alguno de sus miembros que se presenten ante la Legislatura, por cualquiera de quienes tengan facultad, conforme a la Constitución Política del Estado de Querétaro, serán turnadas de inmediato a la Comisión Instructora, para la substanciación del procedimiento conforme a las siguientes reglas:
@@ -2082,6 +2160,48 @@ Ante el incumplimiento de la resolución, se incurrirá en responsabilidad y se 
 ###### Artículo 199.
 
 (Definitividad) En contra de los actos a que se refiere el presente capítulo, es necesario agotar el recurso de revisión, previo a iniciar el juicio de garantías u otro medio de impugnación.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2016)</small>
+
+## Título Octavo. Del Comité de Transparencia
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2016)</small>
+
+### Capítulo Segundo. Unidad de Información Gubernamental
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+###### Artículo 200.
+
+(Función general) El Comité de Transparencia del Poder Legislativo es el órgano encargado de vigilar, instruir y coordinar las acciones y procedimientos para la difusión proactiva y actualizada de la información de interés público.
+
+Orgánicamente se encuentra subordinado a la Mesa Directiva, a quien le rendirá un informe bimestral de sus actividades y tendrá como atribuciones las contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+
+###### Artículo 201.
+
+(Integración) El Comité de Transparencia estará integrado de la siguiente forma:
+
+I. Un Presidente, que será el titular de la Dirección de Asuntos Legislativos y Jurídicos;
+
+II. Dos vocales, que serán los titulares de la Dirección de Servicios Administrativos y de la Dirección de Servicios Financieros; y
+
+III. Un Secretario Técnico, que será el titular de la Unidad de Información Gubernamental.
+
+Sesionará mensualmente de forma ordinaria y de manera extraordinaria cuando así lo requiera por su naturaleza, previa convocatoria que emita el Secretario Técnico a petición del Presidente. Adoptarán sus resoluciones por mayoría de votos, teniendo el presidente el voto de calidad en caso de empate. El Secretario Técnico sólo tendrá derecho a voz.
+
+Semestralmente, el Comité presentará a la Mesa Directiva un informe del estado que guardan los trámites y acciones relacionadas con su funcionamiento, dando cuenta además a la Comisión de Transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE MAYO DE 2016)</small>
+
+###### Artículo 202.
+
+(Función y atribuciones de la Unidad de Información Gubernamental) Es la instancia administrativa responsable de hacer los requerimientos de la información solicitada a los órganos y dependencias del Poder Legislativo y las notificaciones necesarias a los peticionarios, verificando en cada caso que la información no sea de la considerada como reservada o confidencial.
+
+La Unidad tiene como atribuciones las conferidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, la presente Ley y demás normatividad que resulte aplicable.
+
+El titular de la Unidad de Información Gubernamental fungirá como Secretario Técnico del Comité de Transparencia del Poder Legislativo y ejecutará las determinaciones que éste establezca.
 
 ## TRANSITORIOS
 
@@ -2242,3 +2362,25 @@ P.O. 3 DE SEPTIEMBRE DE 2015.
 Artículo Primero. La presente Ley entrará en vigor el día de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. El Comité de Transparencia del Poder Legislativo contará con sesenta días hábiles, contados a partir de la aprobación de la presente Ley, para emitir su manual de funcionamiento.
+
+Artículo Cuarto. Una vez aprobado el presente ordenamiento legal por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro, envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA Y REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Una vez aprobado el presente ordenamiento legal por el Pleno de la Quincuagésima Octava Legislatura del Estado de Querétaro, envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
