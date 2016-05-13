@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2016-02-09"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MAYO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -739,11 +739,11 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MAYO DE 2016)</small>
 
 ###### Artículo 39.
 
-Serán permanentes las comisiones siguientes:
+Serán permanentes las Comisiones siguientes:
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
@@ -833,9 +833,9 @@ XXI. Juventud y Deporte;
 
 XXII. Límites Territoriales Intermunicipales;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2016)</small>
 
-XXIII. Medio Ambiente, Recursos Naturales y Aguas;
+XXIII. Medio ambiente, recursos naturales, aguas y cambio climático;
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2013)</small>
 
@@ -1532,3 +1532,11 @@ G.O. 9 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 13 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 868 POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
