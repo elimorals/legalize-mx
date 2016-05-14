@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-zonificacion-del-estado-de-colima-12516"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-23"
-last_updated: "2010-03-20"
+last_updated: "2016-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # REGLAMENTO DE ZONIFICACION DEL ESTADO DE COLIMA
 
-REGLAMENTO DE ZONIFICACION DEL ESTADO DE COLIMA
+REGLAMENTO DE ZONIFICACIÓN DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de agosto de 1997.
 
@@ -3835,7 +3835,7 @@ III. Para evitar rupturas ocasionadas por cargas vivas y muertas, las tuberías 
 
 IV. Para el cálculo de diámetros de las atarjeas, colectores o emisores deberá tomarse en cuenta que para el gasto mínimo se alcance un tirante de 1 centímetro en caso de pendientes fuertes y de 1.5 centímetros en caso de pendientes normales; respecto al gasto máximo extraordinario su consideración se basará a que el agua escurra siempre por gravedad, sin presión ni a tubo lleno. Además, la velocidad mínima efectiva será de 0.30 m/s y la máxima dependerá del tipo de tubería a utilizar;
 
-V. Toda tubería para alcantarillado sanitario deberá tener juntas herméticas en su unión, para evitar cualquier fuga en las juntas. La tubería deberá ser probada en fábrica para resistir una presión interna mínima de 0.75 Kg./cm² para el caso de atarjeas, y de 1.5 Kg./cm² para el caso de colectores y emisores; y (sic)
+V. Toda tubería para alcantarillado sanitario deberá tener juntas herméticas en su unión, para evitar cualquier fuga en las juntas. La tubería deberá ser probada en fábrica para resistir una presión interna mínima de 0.75 Kg./cm² para el caso de atarjeas, y de 1.5 Kg./cm² para el caso de colectores y emisores; y
 
 ###### Artículo 191.
 
@@ -6963,17 +6963,23 @@ Los locales destinados a baños de vapor deberán tener una superficie que los a
 
 ### CAPITULO XXXVI.. Estaciones de servicio y abasto de combustible
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
+
 ###### Artículo 401.
 
-A fin de lograr una cobertura más racional del servicio prestado por las Estaciones de Servicio o gasolineras, deberán ubicarse a una distancia mínima de 800 metros en áreas urbanas y de 3,000 metros en áreas rurales, con respecto a otra estación de servicio similar, sujetándose invariablemente a los lineamientos y normas de uso del suelo que señalen los planes de desarrollo urbano respectivos y acatando las "Especificaciones generales para proyecto y construcción de Estaciones de Servicio" vigentes, expedidas por PEMEX Refinación.
+Las estaciones de servicio de gasolina y/o diesel podrán establecerse sin limitación de distancia con respecto a otra estación de servicio similar en un marco de libre concurrencia y competencia económica entre negocios de la misma especie.
 
-Cuando por razones de funcionamiento vial se ubiquen, en vías de doble sentido, una estación frente a otra, se considerarán para los fines de la recomendación anterior, como una sola estación.
+Previo a la obtención de la licencia de construcción se deberá contar con los permisos y autorizaciones regulatorias requeridas por las leyes y reglamentos federales y locales en la materia, cumpliendo con las normas de seguridad, protección civil, uso del suelo y desarrollo urbano, incluyendo en su caso el manifiesto de impacto ambiental y los diferentes análisis de riesgo que pudieran exigirse por parte de las autoridades competentes a los promotores de este tipo de proyectos.
+
+Cualquier estación de servicio de gasolina y/o diesel que se pretenda construir o se construya a una distancia menor de 100 metros de los límites del predio de otra estación de servicio similar o instalación que debido a los inventarios y los materiales que maneje (materia prima, materia en proceso o producto terminado) sea de mayor riesgo, deberá atender en sus análisis de riesgo y manifiesto de impacto ambiental, los escenarios de riesgo y las consecuencias probables de impacto sinérgico, incluyendo en la evaluación los inventarios globales de las otras instalaciones.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
 
 ###### Artículo 402.
 
-En las zonas urbanas las gasolineras deberán ubicarse en predios sobre vialidades que alberguen usos mixtos y de servicios a la industria y al comercio, según lo estipulado en los Programas de Desarrollo Urbano correspondientes.
+En las zonas urbanas las estaciones de servicio de gasolina y/o diesel deberán ubicarse sobre corredores urbanos dispuestos sobre vialidades de acceso controlado, vías principales y arterias colectoras, según lo establezcan los programas de desarrollo urbano correspondientes.
 
-Los predios deberán, de preferencia, ubicarse en esquina, presentando dos frentes a las vialidades de confluencia. Recomendándose que al menos una de las vías, tenga una sección mínima de 18 metros, siendo de jerarquía de arteria colectora o mayor.
+No se autorizará el establecimiento de estaciones de servicio de gasolina y/o diesel en predios ubicados sobre calles de distribución, calles locales y calles de acceso vehicular restringido.
 
 ###### Artículo 403.
 
@@ -7005,15 +7011,11 @@ Zonas Marinas 500 20
 
 Se define como zonas especiales a centros comerciales, hoteles, estacionamientos públicos, establecimientos de servicio de lavado y engrasado y parques públicos, que por su ubicación y espacios disponibles constituyen puntos estratégicos para servicio al público.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
+
 ###### Artículo 404.
 
-En cualquiera de los diferentes tipos de ubicación señalados en el artículo anterior, se deberán respetar los siguientes lineamientos:
-
-I. El predio debe ubicarse a una distancia mínima de resguardo de 15 metros de centros de concentración masiva, tales como escuelas, hospitales, mercados, cines, teatros, estadios y auditorios (Diario Oficial de la Federación, 14 de agosto de 1990);
-
-II. El predio debe ubicarse a una distancia mínima de resguardo de 100 metros con respecto a una planta de almacenamiento de gas L:P. (Diario Oficial de la Federación, 19 de marzo de 1993, NOM-X-1993);
-
-III. El predio debe ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas de media tensión, vías férreas, y ductos que transportan productos derivados del petróleo (Diario Oficial de la Federación, 19 de marzo de 1993, NOM-X-1993).
+En cualquiera de los diferentes tipos de ubicación señalados en el artículo anterior, se deberán respetar los lineamientos, restricciones y distancias mínimas de resguardo previstas en la Norma Oficial Mexicana de Emergencia NOM-EM-001-ASEA-2015 publicada en el Diario Oficial de la Federación el día 3 de diciembre del 2015, o, en su caso, en la Norma Oficial Mexicana que la modifique o sustituya, sin perjuicio de la observancia de otro tipo de regulaciones exigidas en términos de las leyes y reglamentos federales y locales en la materia.
 
 ###### Artículo 405.
 
@@ -7031,9 +7033,11 @@ La distancia miníma del alineamiento del predio a la isla de bombas más próxi
 
 Las zonas de abastecimiento, incluyendo las islas de las bombas, deberán estar cubiertas a una altura mínima de 4.5 metros a partir del nivel de circulación interna.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
+
 ###### Artículo 409.
 
-Las gasolineras deberán contar con extintores en número, tamaño y disposición que determine el Departamento de Bomberos respectivo, debiendo recabar previamente su autorización respectiva.
+En la operación y mantenimiento de la estación de servicio de gasolina y/o diesel se deberá cumplir con los lineamientos, restricciones y disposiciones en materia de seguridad industrial, seguridad operativa y protección al medio ambiente previstos en la Norma Oficial Mexicana de Emergencia NOM-EM-001-ASEA-2015 publicada en el Diario Oficial de la Federación el día 3 de diciembre del 2015, o, en su caso, en la Norma Oficial Mexicana que la modifique o sustituya, sin perjuicio de la observancia de otro tipo de regulaciones exigidas en términos de las leyes y reglamentos federales y locales en la materia.
 
 ###### Artículo 410.
 
@@ -7045,9 +7049,11 @@ II. Dos inodoros y un lavabo para mujeres.
 
 III. Cumplir con lo estipulado en el artículo 152 de este reglamento, referente a servicios para personas con problemas de discapacidad.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
+
 ###### Artículo 411.
 
-Las instalaciones y especificaciones para el almacenamiento de combustibles deberá sujetarse a las normas y lineamientos expedidos por la Secretaría de Industria y Comercio, y Pemex-Refinación, así como por las Normas Oficiales Mexicanas, vigentes en la materia.
+Las instalaciones y especificaciones para el almacenamiento de combustibles deberán sujetarse a los lineamientos e instrucciones emitidas por la autoridad federal competente, así como por las normas oficiales mexicanas vigentes que resulten aplicables al caso.
 
 ### CAPITULO XXXVII.. De la conservación del patrimonio histórico cultural
 
@@ -7550,3 +7556,11 @@ P.O. 21 DE SEPTIEMBRE DE 2002.
 P.O. 20 DE MARZO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional "El Estado de Colima".
+
+P.O. 14 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMAN LOS ARTÍCULOS 401, 402, 404, 409 Y 411 DEL REGLAMENTO DE ZONIFICACIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
