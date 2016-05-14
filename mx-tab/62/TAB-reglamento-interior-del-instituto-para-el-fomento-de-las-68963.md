@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-para-el-fomento-de-las-68963"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-03"
-last_updated: "2012-03-14"
+last_updated: "2016-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANÍAS DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de junio de 2009.
 
@@ -39,9 +39,11 @@ REGLAMENTO DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANÍAS DE TABASCO
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA Y ORGANIZACIÓN DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de este Reglamento, tienen por objeto regular la organización y el funcionamiento interno del organismo descentralizado de la Administración Pública Estatal, adscrito sectorialmente a la Secretaría de Desarrollo Económico, denominado Instituto para el Fomento de las Artesanías de Tabasco.
+Las disposiciones de este Reglamento, tienen por objeto regular la organización y el funcionamiento interno del Instituto para el Fomento de las Artesanías de Tabasco, organismo descentralizado de la Administración Pública Estatal, adscrito sectorialmente a la Secretaría de Desarrollo Económico y Turismo.
 
 ###### ARTÍCULO 2.
 
@@ -73,19 +75,25 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, el IFA
 
 1.1. Unidad Particular
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
 
-1.2. Unidad de Asuntos Jurídicos
+1.2. Unidad de Asuntos Jurídicos y Acceso a la Información
 
-1.3. Departamento de Comunicación Social y Relaciones Públicas
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
 
-1.4. Unidad de Acceso a la Información
+1.3. Unidad de Tecnologías de Información y Comunicaciones
 
-1.5. Dirección de Administración
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
+
+1.4. Dirección Administrativa
+
+1.5. (DEROGADO, P.O. 14 DE MAYO DE 2016)
 
 2. Dirección de Desarrollo Comunitario y Producción Artesanal
 
-3. Dirección Operativa
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
+
+3. Dirección de Apoyo a la Comercialización
 
 De igual modo, se auxiliará de unidades subalternas, jefaturas de departamento y demás personal que por las necesidades del servicio se requieran y figuren dentro del presupuesto autorizado, previa autorización del Consejo de Administración.
 
@@ -133,9 +141,15 @@ XVI. Dar cumplimiento a los acuerdos del Consejo de Administración, así como r
 
 XVII. Promover, contribuir y cooperar en la profesionalización del personal y en la modernización de los servicios y funciones del IFAT;
 
-XVIII. Administrar los recursos humanos, financieros y materiales asignados al IFAT, con sujeción a las políticas que determine el Ejecutivo Estatal y la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2016)</small>
 
-XIX. Las demás funciones y comisiones que el Gobernador del Estado le encomiende, y mantenerlo informado sobre su desarrollo.
+XVIII. Administrar los recursos humanos, financieros y materiales asignados al IFAT, con sujeción a las políticas que determine el Ejecutivo Estatal y la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2016)</small>
+
+XIX. Designar de manera honorifica al encargado de la Sub Unidad de Género el cual el cual deberá contar mínimo con nivel jerárquico equivalente a jefatura de departamento; y
+
+XX. Las demás funciones y comisiones que el Gobernador del Estado le encomiende, y mantenerlo informado sobre su desarrollo.
 
 ### CAPÍTULO TERCERO. DE LAS UNIDADES DE APOYO
 
@@ -173,21 +187,25 @@ XI. Dar puntual seguimiento a los asuntos encomendados por el Director General y
 
 XII. Las demás que le encomiende el Director General.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2016)</small>
 
-#### SECCIÓN II. DE LA UNIDAD DE ASUNTOS JURÍDICOS
+#### SECCIÓN II
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2012)</small>
+DE LA UNIDAD DE ASUNTOS JURÍDICOS Y ACCESO A LA INFORMACIÓN:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 8.
 
-Corresponde a la Unidad de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Asuntos Jurídicos y Acceso a la Información el ejercicio de las siguientes atribuciones:
 
 I. Representar legalmente al IFAT, en todas las controversias y trámites judiciales, laborales o administrativos en que tenga interés jurídico, o sea parte, con todas las facultades generales y particulares que se requieran conforme a la Ley;
 
-II. Establecer coordinación con la Consejería Jurídica del Poder Ejecutivo, a fin de que el tratamiento de los asuntos jurídicos a cargo del organismo, sea congruente con el esquema general definido por la referida dependencia;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2016)</small>
 
-III. Formar parte de la Comisión de Estudios Jurídicos del Gobierno del Estado, presidida por la Consejería Jurídica del Poder Ejecutivo;
+II. Establecer vinculación con la Coordinación General de Asuntos Jurídicos, a fin de que el tratamiento de los asuntos jurídicos a cargo del organismo, sea congruente con el esquema general definido por la referida dependencia;
+
+III. (DEROGADA, P.O. 14 DE MAYO DE 2016)
 
 IV. Iniciar y sustanciar los asuntos que correspondan, desistirse, formular contestaciones, ofrecer o rendir pruebas, formular alegatos, promover incidentes, interponer recursos, así como intervenir en los demás actos procesales en los que el lFAT sea parte;
 
@@ -225,65 +243,51 @@ XX. Revisar las convocatorias que expida el IFAT para eventos de índole artesan
 
 XXI. Coordinar la elaboración y seguimiento de las actas de sesión del Consejo de Administración, con base en la información proporcionada por las áreas responsables;
 
-XXII. Tramitar y resolver los recursos administrativos que sean interpuestos, en los términos de l., legislación y normatividad aplicable; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2016)</small>
 
-XXIII. Las demás que determine el Director General.
+XXII. Tramitar y resolver los recursos administrativos que sean interpuestos, en los términos de la legislación y normatividad aplicable;
 
-#### SECCIÓN III. DEL DEPARTAMENTO DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2016)</small>
+
+XXIII. Ejercer las atribuciones que establecen el artículo 50 y demás relativos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco; y
+
+XXIV. Las demás que determine el Director General.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2016)</small>
+
+#### SECCIÓN III. DE LA UNIDAD DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 9.
 
-Corresponde al Departamento de Comunicación Social y Relaciones Públicas el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Tecnologías de Información y Comunicaciones el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
+I. Administrar y controlar los recursos informáticos;
 
-I. Coordinarse con la Coordinación General de Comunicación Social y Relaciones Públicas de Gubernatura y con la Unidad Particular del IFAT, para establecer los criterios y directrices a seguir para el correcto ejercicio de sus atribuciones, en materia de relaciones públicas;
+II. Brindar el mantenimiento de la página electrónica del IFAT;
 
-II. Planear, organizar y coordinar las relaciones entre el IFAT y los medios de difusión conforme a los lineamientos que establezca el Director General;
+III. Proveer soporte técnico a los bienes de tecnologías de información;
 
-III. Proponer al Director General la estrategia de difusión, comunicación social e imagen institucional necesaria para difundir las actividades y funciones que desarrolla el IFAT;
+IV. Diseñar, desarrollar e implementar sistemas de información y bancos y/o bases de información requeridos por las áreas del IFAT;
 
-IV. Recopilar y difundir entre las unidades administrativas, la información que generen los diversos medios de comunicación impresos y electrónicos, que sean de interés para el IFAT y generar el archivo correspondiente, así como mantener estrecha relación con los representantes y directivos de los medios masivos de comunicación;
+V. Elaborar políticas de seguridad, administración y control de las redes de comunicación y sistemas de información del IFAT;
 
-V. Organizar, elaborar y editar el material informativo, así como proponer al Director General programas de difusión en los medios de comunicación, de las acciones realizadas por el IFAT;
+VI. Participar, con las dependencias normativas del Gobierno del Estado, en los procesos de dictaminación de solicitudes de equipo electrónico que requieran las áreas que integran la estructura administrativa del IFAT;
 
-VI. Integrar, coordinar y mantener actualizado el banco de información y de imágenes de los eventos que organice y en los que participe el IFAT;
+VII. Supervisar los nuevos equipos de cómputo al ingresar al almacén, para garantizar la calidad técnica solicitada por el personal del IFAT;
 
-VII. Planear, programar, dirigir y supervisar los mecanismos que permitan una permanente comunicación, flujo de información y atención de los medios de comunicación, corresponsales y líderes de opinión en el ámbito artesanal, público, privado y académico;
+VIII. Capacitar al personal del Instituto en el manejo de herramientas de procesamiento de información; y
 
-VIII. Realizar previa autorización del Director General la publicación de los contenidos informativos institucionales;
+IX. Las demás que le señalen las disposiciones jurídicas aplicables y el Director General del IFAT.
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE MAYO DE 2016)</small>
 
-IX. Coordinarse, supervisar y normar que las unidades administrativas cumplan con los lineamientos para difusión de la imagen institucional de acuerdo a las políticas emitidas por la Coordinación General de Comunicación Social y Relaciones Públicas de la Gubernatura;
-
-X. Emitir, supervisar y evaluar políticas para la integración de la agenda de presentaciones y entrevistas de las autoridades del IFAT, ante los medios masivos de comunicación;
-
-XI. Coordinarse con el departamento de diseño para publicar carteles, folletos, invitaciones y, en general, cualquier medio impreso que coadyuve a la difusión de eventos;
-
-XII. Elaborar diariamente la síntesis informativa de prensa, radio y televisión, local y nacional, relativa a los temas artesanales;
-
-XIII. Planear, organizar y coordinar las relaciones públicas del IFAT, conforme a los lineamientos que establezca el Director General;
-
-XIV. Integrar, coordinar y mantener actualizado el banco de información de directorios de las dependencias del Gobierno Federal, Estatal y Municipal con los que se relacione el IFAT;
-
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
-
-XV. Coadyuvar con la Unidad Particular del IFAT en las ruedas de prensa, conferencias, foros y entrevistas necesarias para la difusión de las actividades institucionales;
-
-XVI. Redactar y coordinar la correspondencia social, institucional y administrativa, así como coordinar y enviar las invitaciones y. programas, para los eventos generados en las unidades adscritas al IFAT;
-
-XVII. Asistir a las juntas de organización de eventos del IFAT, para dar seguimiento a los requerimientos propios del área de Relaciones Públicas;
-
-XVIII. Recepcionar y atender a las personalidades, artesanos o invitados especiales que participen en los foros o eventos del IFAT; y
-
-XIX. Las demás que le indique el Director General.
-
-#### SECCIÓN IV. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
+#### SECCIÓN IV
 
 ###### ARTÍCULO 10.
 
-Corresponde a la Unidad de Acceso a la Información, el ejercicio de las atribuciones que establece el Artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
+(DEROGADO, P.O. 14 DE MAYO DE 2016)
 
 ### CAPÍTULO CUARTO. DE LAS DIRECCIONES
 
@@ -305,11 +309,15 @@ V. Asistir en representación del lFAT a los eventos a los cuales sea convocada 
 
 VI. Realizar las funciones que les encomiende el Director General y las demás que las disposiciones legales o administrativas les confieran.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE ADMINISTRACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2016)</small>
+
+#### SECCIÓN II. DE LA DIRECCIÓN ADMINISTRATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-Corresponde a la Dirección de Administración el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección AdministraTIVA el ejercicio de las siguientes atribuciones:
 
 I. Establecer con la aprobación del Director General las políticas, normas, sistemas y procedimientos para la óptima administración de los recursos humanos, materiales y financieros de las unidades administrativas, y vigilar su aplicación de conformidad con las normas aplicables;
 
@@ -335,17 +343,21 @@ XI. Proveer lo necesario para el control, suministro, conservación, rehabilitac
 
 XII. Observar y vigilar el cumplimiento por parte de las unidades administrativas, de las normas de control que emita la Secretaría de Contraloría;
 
-XIII. Realizar informes mensuales, trimestrales, y anuales de la situación financiera del IFAT, a fin de informar oportunamente a la Secretaría de Contraloría por conducto del Comisario y a la Secretaría de Administración y Finanzas; así como los informes trimestrales de las actividades realizadas, a fin de que el Director General informe oportunamente al Consejo de Administración y a los órganos de control y fiscalización;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2016)</small>
 
-XIV. Autorizar y supervisar los trámites ante la Secretaría de Administración y Finanzas de las contrataciones y pago de servicios;
+XIII. Realizar informes mensuales, trimestrales, y anuales de la situación financiera del IFAT, a fin de informar oportunamente a la Secretaría de Contraloría por conducto del Comisario y a la Secretaría de Planeación y Finanzas; así como los informes trimestrales de las actividades realizadas, a fin de que el Director General informe oportunamente al Consejo de Administración y a los órganos de control y fiscalización;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2016)</small>
+
+XIV. Autorizar y supervisar los trámites ante la Secretaría de Planeación y Finanzas de las contrataciones y pago de servicios;
 
 XV. Integrar el programa anual de adquisición de materiales, de acuerdo a las necesidades de las unidades administrativas y de] presupuesto aprobado para ello, realizando las acciones tendientes a la adquisición de los mismos;
 
 XVI. Solicitar a las unidades administrativas la información que se requiera, para someterla a consideración del Consejo de Administración;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2016)</small>
 
-XVII. Colaborar con la Unidad de Asuntos Jurídicos del IFA, proporcionando la información necesaria para la formulación de las actas de sesión del Consejo de Administración; y
+XVII. Colaborar con la Unidad de Asuntos Jurídicos y Acceso a la Información del IFAT, proporcionando la información necesaria para la formulación de las actas de sesión del Consejo de Administración; y
 
 XVIII. Promover y fomentar programas de capacitación y actualización de los recursos humanos, a fin de contar con personal calificado para el adecuado desarrollo de las actividades artesanales.
 
@@ -387,11 +399,15 @@ XV. Realizar programas de difusión de aspectos tradicionales y comerciales de l
 
 XVI. Diseñar y mejorar la imagen de los productos, para fortalecer a los artesanos en la comercialización de éstos.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN OPERATIVA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2016)</small>
+
+#### SECCIÓN IV. DE LA DIRECCIÓN DE APOYO A LA COMERCIALIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
-Le corresponde a la Dirección Operativa el ejercicio de las siguientes atribuciones:
+Le corresponde a la Dirección de Apoyo a la Comercialización el ejercicio de las siguientes atribuciones:
 
 I. Estructurar un programa anual de compras a los artesanos que participan en proyectos de capacitación, financiamiento, diseño u otros;
 
@@ -419,9 +435,21 @@ XII. Coordinar e instrumentar reglamentos, horarios y días de descanso al perso
 
 ### CAPÍTULO QUINTO. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-El órgano de control y vigilancia del IFAT, se integrará bajo la figura de un Comisario designado por el Secretario de Contraloría, responsable de instrumentar, coordinar, supervisar difundir y evaluar el Sistema de Control, Evaluación y Auditoría Gubernamental.
+El IFAT contará con un órgano de vigilancia integrado por la figura de un Comisario, que dependerá orgánicamente de la Secretaría de Contraloría del Poder Ejecutivo del Estado de Tabasco, en términos de lo dispuesto en el artículo 37, fracción X, de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, quien ejercerá las siguientes funciones:
+
+I. Vigilar y evaluar al IFAT, sin perjuicio de las responsabilidades que le correspondan directamente a la Secretaría de Contraloría, y a los demás entes de control y fiscalización;
+
+II. Asistir a las sesiones ordinarias o extraordinarias del Consejo de Administración del IFAT, en las que tendrá derecho a voz pero sin voto;
+
+III. Rendir por lo menos una vez al año ante el Consejo de Administración, un informe sobre los estados financieros del Instituto, con base en el dictamen de los auditores externos;
+
+IV. Las comprendidas en el Reglamento Interior de la Secretaría de Contraloría del Poder Ejecutivo del Estado; y
+
+V. Las demás que de manera directa le sean encomendadas por el Titular de la Secretaría de Contraloría o por quien éste instruya al respecto, conforme a la normatividad aplicable.
 
 ### CAPÍTULO SEXTO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
@@ -429,11 +457,11 @@ El órgano de control y vigilancia del IFAT, se integrará bajo la figura de un 
 
 Las ausencias del Director General que no excedan de quince días serán suplidas por el director que él designe y las que excedan de dicho término, por el servidor público que previo acuerdo del Consejo de Administración se designe.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 17.
 
-En los asuntos de carácter legal y para comparecer ante cualquier autoridad judicial o administrativa el Director General, directores y demás personal podrán ser representados quien ocupe la titularidad de la Unidad de Asuntos Jurídicos, de conformidad con las normas aplicables.
+En los asuntos de carácter legal y para comparecer ante cualquier autoridad judicial o administrativa el Director General, directores y demás personal podrán ser representados por quien ocupe la titularidad de la Unidad de Asuntos Jurídicos y Acceso a la Información, de conformidad con las normas aplicables.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
@@ -484,3 +512,19 @@ P.O. 14 DE MARZO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 14 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO “POR EL QUE SE REFORMAN: LOS ARTÍCULOS 1; 4, EN SUS PUNTOS 1.2., 1.3., 1.4. Y PUNTO 3.; EL ARTÍCULO 6, FRACCIÓN XVIII; LA DENOMINACIÓN DE LA SECCIÓN II DEL CAPÍTULO TERCERO "DE LA UNIDAD DE ASUNTOS JURÍDICOS", PARA DENOMINARSE "DE LA UNIDAD DE ASUNTOS JURÍDICOS Y ACCESO A LA INFORMACIÓN"; 8, PÁRRAFO PRIMERO Y LAS FRACCIONES II Y XXII; LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO TERCERO "DEL DEPARTAMENTO DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS", PARA DENOMINARSE "DE LA UNIDAD DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES"; EL ARTÍCULO 9; LA DENOMINACIÓN DE LA SECCIÓN II DEL CAPÍTULO CUARTO "DE LA DIRECCIÓN DE ADMINISTRACIÓN", PARA DENOMINARSE "DE LA DIRECCIÓN ADMINISTRATIVA"; 12, PÁRRAFO PRIMERO Y LAS FRACCIONES XIII, XIV Y XVII; LA DENOMINACIÓN DE LA SECCIÓN IV DEL CAPÍTULO CUARTO "DE LA DIRECCIÓN OPERATIVA", PARA DENOMINARSE "DE LA DIRECCIÓN DE APOYO A LA COMERCIALIZACIÓN"; 14, PÁRRAFO PRIMERO; 15; Y 17. SE ADICIONAN: AL ARTÍCULO 6, LA FRACCIÓN XIX RECORRIÉNDOSE LA ACTUAL FRACCIÓN XIX, PARA SER XX; AL ARTÍCULO 8, LA FRACCIÓN XXIII RECORRIÉNDOSE LA ACTUAL FRACCIÓN XXIII, PARA SER XXIV. SE DEROGAN: EL PUNTO 1.5 DEL ARTÍCULO 4; LA FRACCIÓN III DEL ARTÍCULO 8; LA SECCIÓN IV DEL CAPÍTULO TERCERO; Y EL ARTÍCULO 10; TODOS DEL REGLAMENTO INTERIOR DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANÍAS DE TABASCO”.]
+
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interior del Instituto para el Fomento de las Artesanías de Tabasco, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a las reformas y adiciones realizadas al presente Reglamento.
+
+TERCERO.- Los asuntos legales en trámite que se hayan interpuesto y encuentren pendientes de resolver al momento de entrar en vigor las presentes reformas y adiciones, continuarán hasta su resolución final bajo la competencia del Titular de la Unidad de Asuntos Jurídicos y Acceso a la Información.
+
+CUARTO.- Los asuntos pendientes al entrar en vigor las presentes reformas y adiciones, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite correspondiente, y serán resueltos por aquella o aquellas unidades a las que se les hayan atribuido la competencia en este Reglamento.
+
+QUINTO.- Para su mejor funcionamiento y desempeño, las unidades administrativas deberán elaborar sus respectivos Manuales de Procedimientos y Organización.
+
+SEXTO.- En tanto se expiden los Manuales señalados en el artículo anterior, en caso de duda sobre la interpretación del presente Reglamento, el Director General queda facultado para resolver lo conducente.
