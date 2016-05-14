@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2016-03-19"
+last_updated: "2016-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -349,7 +349,7 @@ El Ayuntamiento residirá en la cabecera del Municipio respectivo. Sólo por acu
 
 ###### Artículo 26.
 
-A las nueve horas del día 5 de octubre del año de la elección, el Ayuntamiento saliente dará posesión en las oficinas municipales a los miembros entrantes, que hayan rendido la protesta de ley como lo establece el artículo 23 de esta Ley. Inmediatamente después el nuevo presidente hará la siguiente declaratoria: "Queda legítimamente instalado el Ayuntamiento del Municipio de... que deberá funcionar del 5 de octubre del año ___ al 4 de octubre del año ___" " (sic)
+A las nueve horas del día 5 de octubre del año de la elección, el Ayuntamiento saliente dará posesión en las oficinas municipales a los miembros entrantes, que hayan rendido la protesta de ley como lo establece el artículo 23 de esta Ley. Inmediatamente después el nuevo presidente hará la siguiente declaratoria: "Queda legítimamente instalado el Ayuntamiento del Municipio de... que deberá funcionar del 5 de octubre del año ___ al 4 de octubre del año ___" "
 
 Una vez que esté debidamente instalado, el Ayuntamiento sesionará para asignar las comisiones a cada uno de los integrantes del Ayuntamiento y a continuación el presidente municipal dará lectura al programa de trabajo que deberá contener como mínimo: las bases para la elaboración del Plan Municipal de Desarrollo, los trabajos a realizarse dentro del Programa Operativo Anual y su respectiva calendarización. El secretario del Ayuntamiento se encargará de levantar el acta de la Sesión.
 
@@ -811,7 +811,7 @@ Los síndicos no pueden desistirse, transigir, comprometerse en arbitrios y hace
 
 ###### Artículo 37.
 
-El Ejecutivo del Estado tiene la representación jurídica del Municipio en todos los asuntos que siendo de la competencia de éste, y por su naturaleza deban tratarse y resolverse fuera de la entidad.
+(DEROGADO, P.O. 14 DE MAYO DE 2016)
 
 ### CAPÍTULO VIII. Del Funcionamiento de los Ayuntamientos
 
@@ -2779,7 +2779,7 @@ VIII. Abastecimiento de agua fría y caliente a presión;
 
 IX. Planta de tratamiento de aguas residuales;
 
-X. Contar con un profesional técnico responsable del proceso de faenado incluyendo la inspección ante morten (sic) y post morten (sic);
+X. Contar con un profesional técnico responsable del proceso de faenado incluyendo la inspección ante morten y post morten;
 
 XI. Disponer de transporte exclusivo para la distribución de carne a los expendios, reuniendo las condiciones sanitarias; y
 
@@ -3852,3 +3852,13 @@ P.O. 19 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO 005 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 118 DE FECHA 2 DE JULIO DE 2014 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE TABASCO, SUPLEMENTO C No 7494”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 009 POR EL QUE “SE DEROGA EL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El correspondiente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos legales que se encuentren aun en Litigio por parte del Poder Ejecutivo del Estado hasta antes de la entrada en vigor del presente decreto deberán seguirse hasta su conclusión, notificándose lo conducente al municipio representado.
+
+TERCERO.- Los municipios o Ayuntamientos que deban tramitar juicios de cualquier naturaleza fuera del estado deberán de realizarlo de manera directa, por si o a través de sus representantes legales mediante poder o mandato que se otorgue para tal efecto.
