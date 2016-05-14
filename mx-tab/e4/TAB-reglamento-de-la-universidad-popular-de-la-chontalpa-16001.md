@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-universidad-popular-de-la-chontalpa-16001"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-22"
-last_updated: "2015-10-31"
+last_updated: "2016-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA UNIVERSIDAD POPULAR DE LA CHONTALPA
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD POPULAR DE LA CHONTALPA
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POPULAR DE LA CHONTALPA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 22 de enero de 2000.
 
@@ -337,11 +337,15 @@ VII. Atender las resoluciones que pronuncian las autoridades jurisdiccionales, e
 
 VIII. Prestar la asesoría jurídica necesaria a las Unidades Administrativas de "La Universidad";
 
-IX. Formular los proyectos de convenios, contratos y demás actos consensuales en los que intervenga "La Universidad" de acuerdo con los requerimientos de las unidades administrativas de la misma;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2016)</small>
 
-X. Proponer los proyectos de reformas a la legislación universitaria y dictaminar sobre su interpretación; y
+X. Proponer los proyectos de reformas a la legislación universitaria y dictaminar sobre su interpretación;
 
-XI. Aquellas que le confiera el Rector afines a las anteriores.
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2016)</small>
+
+XI. Certificar copias de los documentos que se encuentren en los archivos de "La Universidad", los cuales se expedirán solo por los mandatos de autoridad debidamente fundados y motivados; y
+
+XII. Aquellas que le confiera el Rector afines a las anteriores.
 
 ###### ARTICULO 24.
 
@@ -1158,3 +1162,11 @@ P.O. 31 DE OCTUBRE DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
+
+P.O. 14 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMA EL ARTÍCULO 23, FRACCIÓN X; Y SE ADICIONA AL ARTÍCULO 23 LA FRACCIÓN XI, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XI, PARA SER XII; DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD POPULAR DE LA CHONTALPA”.]
+
+PRIMERO. Las presentes reformas y adiciones al Reglamento interior de la Universidad Popular de la Chontalpa, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las reformas y adiciones del presente Acuerdo.
