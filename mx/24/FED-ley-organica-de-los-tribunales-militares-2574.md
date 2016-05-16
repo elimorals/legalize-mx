@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-los-tribunales-militares-2574"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1929-06-22"
-last_updated: "2012-04-09"
+last_updated: "2016-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2574&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1929-06-04"
 
 LEY ORGÁNICA DE LOS TRIBUNALES MILITARES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR LA FRACCIÓN VI DEL ARTÍCULO SEGUNDO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR Y SE EXPIDE EL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL D.O.F. DE 16 DE MAYO DE 2016, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR 30 DÍAS NATURALES DESPUÉS DE SU PUBLICACIÓN]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación el sábado 22 de junio de 1929.
 
@@ -420,3 +422,31 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 16 DE MAYO DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS Y TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR Y SE EXPIDE EL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES".]</small>
+
+Disposiciones transitorias
+
+###### ARTÍCULO SEGUNDO.
+
+En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. El presente Decreto entrará en vigor a los 30 días naturales después de su publicación en el Diario Oficial de la Federación.
+
+II. Las erogaciones que deriven de la aplicación del presente Decreto, serán realizadas mediante movimientos compensados, por lo que las Secretarias de la Defensa Nacional y de Marina deberán sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y los subsecuentes.
+
+III. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+IV. Los procedimientos penales relacionados con presuntos delitos contra la disciplina militar que hayan sido iniciados antes de la entrada en vigor del presente Decreto, serán tramitados y concluidos conforme a las disposiciones aplicables al momento de la comisión de los hechos probablemente delictivos.
+
+V. Las disposiciones relativas a la ejecución de sentencias, quedarán derogadas, una vez que entre en vigor la legislación en materia de Ejecución de Sentencias, que apruebe el Congreso de la Unión.
+
+VI. Se abroga la Ley Orgánica de los Tribunales Militares publicada en el Diario Oficial de la Federación el 22 de junio de 1929.
+
+VII. Todas las referencias que en este Código y demás ordenamientos se hagan al Supremo Tribunal Militar; a la Procuraduría General de Justicia Militar y al Cuerpo de Defensores de Oficio se entenderán hechas al Tribunal Superior Militar; a la Fiscalía General de Justicia Militar y a la Defensoría de Oficio Militar.
+
+## Transitorio
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
