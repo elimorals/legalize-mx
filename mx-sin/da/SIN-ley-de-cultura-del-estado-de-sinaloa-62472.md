@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-cultura-del-estado-de-sinaloa-62472"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-13"
-last_updated: "2008-08-13"
+last_updated: "2016-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CULTURA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 13 de agosto de 2008.
 
@@ -271,6 +271,10 @@ III. Ejercer las facultades que le corresponden al Ejecutivo Estatal en materia 
 
 IV. Promover, mediante la acción cultural, el mejoramiento en la calidad de vida de los sinaloenses;
 
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2016)</small>
+
+IV Bis. Promover la preservación y fortalecimiento de la Cultura de los Pueblos y Comunidades Indígenas;
+
 V. Ampliar las oportunidades de acceso de la población a los bienes y servicios culturales;
 
 VI. Expedir su Reglamento Interior, manuales de organización, procedimientos y otras disposiciones que regulen su funcionamiento interno;
@@ -335,11 +339,15 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Administración y Finanzas;
 
-IV. El Secretario de Desarrollo Social y Sustentable;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
+
+IV. El Secretario de Desarrollo Social y Humano;
 
 V. El Secretario de Desarrollo Económico;
 
-VI. El Secretario de la Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
+
+VI. La Unidad de Transparencia y Rendición de Cuentas;
 
 VII. El Secretario de Turismo;
 
@@ -701,6 +709,50 @@ El Instituto, en coordinación con el Consejo, promoverá ante las autoridades f
 
 El Instituto promoverá y concertará con la iniciativa privada, un esquema financiero y de participación mixta para la investigación, preservación, promoción y desarrollo de los bienes y valores artísticos y culturales declarados o susceptibles de declararse adscritos al patrimonio cultural e histórico del Estado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MAYO DE 2016)</small>
+
+### Capítulo Décimo Tercero. Del Fomento a la Cultura Indígena
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2016)</small>
+
+###### Artículo 62.
+
+Las autoridades estatales y municipales, en su respectivo ámbito de competencia y con la participación de las comunidades indígenas, implementarán las medidas conducentes para la preservación, promoción, fortalecimiento, difusión e investigación de la cultura de los pueblos y comunidades indígenas asentados en el territorio del Estado, que comprenderán, entre otras, las siguientes acciones:
+
+I. Preservar la lengua, cultura, artes, usos y costumbres, así como los recursos y formas específicas de organización social, reconociendo la pluralidad cultural, la diversidad étnica y lingüística del Estado;
+
+II. Fomentar la creación, producción y difusión literaria en lenguas autóctonas y la edición de publicaciones bilingües, orientadas tanto a la difusión de la cultura indígena, como a las diversas expresiones artísticas y culturales que de ella emanen;
+
+III. Impulsar el establecimiento de museos comunitarios, ferias, festivales de arte, música y demás expresiones culturales, para promover programas que propicien el desarrollo cultural de los pueblos indígenas;
+
+IV. Proveer de asistencia técnica y asesoría para el desarrollo de sus manifestaciones culturales;
+
+V. Estimular su creatividad artesanal y artística;
+
+VI. Otorgar premios, estímulos o reconocimientos a quienes se distingan en la preservación, promoción, difusión e investigación de la cultura indígena de la entidad;
+
+VIl. Promover las actividades de concertación pertinentes para unificar programas, cuando las manifestaciones culturales y artísticas indígenas se produzcan en varios municipios del Estado;
+
+VIII. Reconocer el derecho de los pueblos indígenas a practicar y revitalizar sus tradiciones y costumbres culturales. Ello incluye el derecho a mantener, proteger y desarrollar las manifestaciones pasadas, presentes y futuras de sus culturas, como lugares arqueológicos e históricos, utensilios, diseños, ceremonias, tecnologías, artes visuales e interpretativas y literaturas;
+
+IX. Reconocer el derecho de los pueblos indígenas a manifestar, practicar, desarrollar y enseñar sus tradiciones, costumbres y ceremonias espirituales y religiosas, a acceder a ellas privadamente; y a utilizar y vigilar sus objetos de culto;
+
+X. Preservar el patrimonio lingüístico del Estado; el uso, conocimiento y divulgación de la lengua materna en todos los niveles de enseñanza;
+
+XI. Apoyar las propuestas culturales que se originen en el seno de los pueblos y comunidades indígenas;
+
+XII. Promover entre las instituciones, organismos privados e investigadores, los trabajos que aborden temas relacionados con el pluralismo lingüístico, las nuevas identidades, la migración y la presencia indígena en el territorio del Estado;
+
+XIII. Impulsar acciones que reconozcan el papel de la mujer indígena en la transmisión y desarrollo de su cultura; y
+
+XIV. Desarrollar campañas de difusión de las culturas de los pueblos indígenas que promuevan el respeto y combatan la discriminación y racismo.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2016)</small>
+
+###### Artículo 63.
+
+Se declara de interés público, la preservación de las tradiciones, costumbres, festividades, certámenes populares, centros ceremoniales, lugares sagrados y cualquier otra expresión tangible o intangible, cuando no se opongan a las leyes vigentes, por lo que las autoridades competentes establecerán programas especiales para su preservación, desarrollo y difusión.
+
 ## Transitorios
 
 Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa"
@@ -758,3 +810,13 @@ Lic. Rafael Oceguera Ramos
 El Secretario de Educación Pública y Cultura
 
 Lic. Florentino Castro López
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 542 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
