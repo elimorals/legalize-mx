@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-familiares-del-estado-de-sinaloa-96788
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-27"
-last_updated: "2013-11-27"
+last_updated: "2016-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
 
 Código publicado en la Edición Extraordinaria, Tercera Sección Parte Uno del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -327,7 +327,9 @@ No tiene lugar la caducidad:
 
 I. En las sucesiones, pero sí en los incidentes litigiosos que se produzcan y en los juicios con ellas relacionados que se tramiten acumulada o independientemente, que de aquellos surjan o por ellos se motiven;
 
-II. En las actuaciones de jurisdicción voluntaria;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
+
+II. En las actuaciones de actividad judicial no contenciosa;
 
 III. En los juicios de alimentos;
 
@@ -691,7 +693,9 @@ La nulidad a que se refiere este artículo es de pleno derecho, y por lo tanto, 
 
 Los juzgados de primera instancia con competencia familiar, conocerán de:
 
-I. Asuntos de jurisdicción voluntaria o contenciosa, relativos al matrimonio, a su inexistencia o nulidad y al divorcio, incluyendo los que se refieren al régimen de bienes matrimoniales; de los que tengan por objeto modificaciones, reasignaciones sexo-genéricas o rectificaciones en la actas de registro civil; de los que afecten al parentesco, a los alimentos, a la paternidad y a la filiación; de los que tengan por objeto cuestiones derivadas de la patria potestad, estado de interdicción y tutela y las cuestiones de ausencia y de presunción de muerte, así como de cualquier cuestión relacionada con el patrimonio de familia;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
+
+I. Asuntos de actividad judicial no contenciosa o contenciosa, relativos al matrimonio, a su inexistencia o nulidad y al divorcio, incluyendo los que se refieren al régimen de bienes matrimoniales; de los que tengan por objeto modificaciones, reasignaciones sexo-genéricas o rectificaciones en la actas de registro civil; de los que afecten al parentesco, a los alimentos, a la paternidad y a la filiación; de los que tengan por objeto cuestiones derivadas de la patria potestad, estado de interdicción y tutela y las cuestiones de ausencia y de presunción de muerte; así como de cualquier cuestión relacionada con el patrimonio de familia;
 
 II. Juicios sucesorios;
 
@@ -727,7 +731,9 @@ b) De las acciones contra la sucesión antes de la partición y adjudicación de
 
 c) De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 
-IV. En los actos de jurisdicción voluntaria el del domicilio del que promueve;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
+
+IV. En los actos de actividad judicial no contenciosa el del domicilio del que promueve;
 
 V. En los procedimientos relativos a la patria potestad y a la tutela, el juez de la residencia de los menores de edad o de las personas incapacitadas;
 
@@ -2987,7 +2993,9 @@ I. La diligenciación de exhortos o el obsequio de otras solicitudes de mera coo
 
 II. Sin perjuicio de lo anterior, el tribunal exhortado podrá conceder simplificación de formalidades o la observancia de formalidades distintas a las nacionales, si esto no resulta lesivo al orden público y especialmente a las garantías individuales;
 
-III. A solicitud de parte legítima, podrán llevarse a cabo actos de notificación o de emplazamiento, o de recepción de pruebas, para ser utilizados en procesos en el extranjero, en las vías de jurisdicción voluntaria o de diligencias preparatorias previstas en este Código, y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
+
+III. A solicitud de parte legítima, podrán llevarse a cabo actos de notificación o de emplazamiento, o de recepción de pruebas, para ser utilizados en procesos en el extranjero, en las vías de actividad judicial no contenciosa o de diligencias preparatorias previstas en este Código, y
 
 IV. El tribunal que remita al extranjero exhortos internacionales o que los reciban, los tramitarán por duplicado y conservarán éste para constancia de lo enviado, o de lo recibido y de lo actuado.
 
@@ -3411,9 +3419,11 @@ La interlocutoria que se dicte resolviendo las oposiciones al convenio, relativa
 
 ### Capítulo III. De la Modificación y Convalidación de Actas del Estado Familiar y del Registro Extemporáneo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2016)</small>
+
 ###### Artículo 414.
 
-La modificación de un acta del estado familiar, no puede hacerse sino ante el poder judicial y en virtud de sentencia de éste, salvo el caso de reconocimiento que haga un padre de su hija, su hijo y errores no esenciales.
+La modificación de una acta del estado familiar, no puede hacerse sino ante el Poder Judicial en virtud de sentencia de éste, o por tramitación especial ante Notario Público, salvo el caso de reconocimiento que haga un padre de su hija, su hijo y errores no esenciales.
 
 Es juez competente para conocer de los juicios sobre convalidación, reposición y rectificación de actas del Registro Civil, el de primera instancia de la comprensión en que pasó o debió de haber pasado el acta o el del domicilio del promovente a elección de este último, y se tramitarán conforme a las disposiciones de este Capítulo.
 
@@ -4167,7 +4177,7 @@ Si nadie se presenta alegando derechos a la herencia o por no haber sido reconoc
 
 ###### Artículo 537.
 
-El dinero y alhajas se depositarán en el establecimiento destinado por este normatividad (sic) aplicable para ese efecto; pero el juez dispondrá que se entreguen al interventor las sumas que crea necesarias para los gastos más indispensables, si ya hubiere otorgado la garantía correspondiente.
+El dinero y alhajas se depositarán en el establecimiento destinado por este (sic) normatividad aplicable para ese efecto; pero el juez dispondrá que se entreguen al interventor las sumas que crea necesarias para los gastos más indispensables, si ya hubiere otorgado la garantía correspondiente.
 
 ###### Artículo 538.
 
@@ -5128,3 +5138,13 @@ LIC. MARIO LÓPEZ VALDEZ
 El Secretario General de Gobierno
 
 C. GERARDO O. VARGAS LANDEROS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 543 QUE REFORMA LOS ARTÍCULOS 1195 DEL CÓDIGO FAMILIAR; 39, 95, 97, 364 Y 414 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES; Y, 110 Y 194 DE LA LEY DEL NOTARIADO, TODOS DEL ESTADO DE SINALOA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo. Las reformas al Reglamento del Registro Civil para el Estado de Sinaloa, para la implementación de la presente reforma, deberán ser publicadas dentro de los treinta días hábiles siguientes al inicio de vigencia del presente Decreto.
