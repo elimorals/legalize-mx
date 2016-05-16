@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2015-05-18"
+last_updated: "2016-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -6955,6 +6955,8 @@ Ha lugar a pedir la nulificación, en todo o en parte de un acta, cuando el esta
 
 ### Capítulo IV. De la Aclaración de las Actas
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+
 ###### Artículo 1193.
 
 Ha lugar a pedir la modificación:
@@ -6991,9 +6993,11 @@ El juicio de modificación de un acta, se seguirá en la forma que establece el 
 
 ###### Artículo 1195.
 
-La aclaración de las actas del Registro Civil, procederá cuando en la inscripción existan errores mecanográficos, manuscritos, ortográficos o de reproducción gráfica, que no afecten los datos esenciales de aquellas, deberá solicitarse la corrección ante las oficialías del registro civil correspondientes de cada municipio, ante el director del Registro Civil del Estado de Sinaloa o mediante tramitación especial ante Notario Público, quienes resolverán de la solicitud y remitirán en su caso copia certificada de la resolución que recaiga a la Oficialía correspondiente para su debida inscripción.
+La aclaración de las actas del estado familiar procederá cuando en la inscripción existan errores mecanográficos, manuscritos, ortográficos, de omisión o de reproducción gráfica, que no afecten los datos esenciales de aquéllas, deberá solicitarse la corrección ante la institución del Registro Civil del Estado de Sinaloa o mediante tramitación especial ante Notario Público, quienes resolverán de la solicitud y remitirán en su caso copia certificada de la resolución que recaiga a la Oficialía correspondiente para su debida inscripción.
 
-En caso contrario, al afectar los datos esenciales será necesaria la rectificación del acta del Registro Civil, para cuyo trámite se requerirá de la intervención del Ministerio Público y se ventilará de acuerdo con lo establecido en el Código de Procedimientos Familiares del Estado de Sinaloa.
+En las hipótesis de doble registro de nacimiento, siempre que se pruebe la realidad del acto mediante pruebas documentales y que no se afecten los datos esenciales, se podrá hacer el trámite ante la institución del Registro Civil del Estado de Sinaloa o mediante tramitación especial ante Notario Público.
+
+En caso contrario, al afectar los datos esenciales será necesaria la rectificación del acta del estado familiar, para cuyo trámite se requerirá de la intervención del Ministerio Público y se ventilará de acuerdo con lo establecido en el Código de Procedimientos Familiares del Estado de Sinaloa.
 
 ###### Artículo 1196.
 
@@ -7088,3 +7092,11 @@ El Ejecutivo del Estado deberá realizar las adecuaciones correspondientes al Re
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 543 QUE REFORMA LOS ARTÍCULOS 1195 DEL CÓDIGO FAMILIAR; 39, 95, 97, 364 Y 414 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES; Y, 110 Y 194 DE LA LEY DEL NOTARIADO, TODOS DEL ESTADO DE SINALOA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Las reformas al Reglamento del Registro Civil para el Estado de Sinaloa, para la implementación de la presente reforma, deberán ser publicadas dentro de los treinta días hábiles siguientes al inicio de vigencia del presente Decreto.
