@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-notariado-del-estado-de-sinaloa-12485"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-14"
-last_updated: "2010-03-15"
+last_updated: "2016-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL NOTARIADO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 1998.
 
@@ -1065,27 +1065,49 @@ IV. Las declaraciones de una o más personas que, bajo protesta de decir verdad,
 
 V. En general toda clase de hechos, abstenciones, estado y situaciones que guarden las personas y cosas que pueden ser apreciadas objetivamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+###### ARTÍCULO 110.
 
-###### ARTICULO 110.
+Las actuaciones que el Código de Procedimientos Civiles para el Estado de Sinaloa y el Código de Procedimientos Familiares del Estado de Sinaloa consideran de tramitación especial, de jurisdicción voluntaria y de actividad judicial no contenciosa que se detallan enseguida, podrán realizarse por comparecencia de los interesados ante Notario Público, quien levantará el acta o escritura respectiva, que será inscribible en el Registro Público de la Propiedad o en el Registro Civil según sea el caso. Estos actos son los siguientes:
 
-Las actuaciones que el Código de Procedimientos Civiles para el Estado de Sinaloa considera como de jurisdicción voluntaria y de tramitación especial que se detallan enseguida, podrán realizarse por comparecencia de los interesados ante Notario Público, quien levantará el acta o escritura respectiva, que será inscribible en el Registro Público de la Propiedad o en el Registro Civil según sea el caso; estos actos son los siguientes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
 I. Acreditamiento de construcciones o ampliaciones de las mismas con recursos propios en terreno propio o en terreno ajeno, cuando exista autorización expresa y por escrito del dueño para construir o ampliar construcciones;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
 II. La demolición total o parcial de las construcciones a que se refiere el punto anterior;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
 III. La rectificación de medidas, colindancias y superficie de un inmueble, cuando no se afecten derechos de terceros y estos datos hayan sido certificadas (sic) o verificados por el Instituto Catastral de acuerdo a sus atribuciones;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
 IV. El apeo y deslinde a que se refiere el Código de Procedimientos Civiles para el Estado de Sinaloa, el cual se suspenderá en los casos que el propio Código lo señala;
 
-V. La aclaración de apellidos en las actas del registro civil, cuando existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas, o se haya omitido alguno de los apellidos, siempre y cuando en el acta conste que se trata de hijo de matrimonio o sea reconocido como tal.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
 
-Para tal efecto, el interesado presentará la solicitud al Notario, acompañándola de copia certificada del acta en cuestión y los medios de pruebas pertinentes, precisando en forma lógica cuál es el error que se impugna con los argumentos conducentes para demostrar su existencia.
+V. La aclaración de las actas del estado familiar, cuando existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas, o se haya omitido alguno de los apellidos, siempre y cuando en el acta conste que se trata de hijo de matrimonio o sea reconocido como tal.
 
-El Notario valorará las mismas y determinará si procede o no la aclaración. En caso de ser procedente lo hará constar en instrumento público, remitiendo copia del mismo al Oficial del Registro Civil correspondiente para que efectúe la anotación marginal respectiva;
+En las hipótesis de doble registro de nacimiento, siempre que se pruebe la realidad del acto mediante documentales y que no se afecten los datos esenciales de las actas del estado familiar.
+
+Para tales efectos el interesado presentará la solicitud al Notario, acompañándola de copia certificada del acta en cuestión y los medios de pruebas pertinentes, precisando en forma lógica cuál es el error que se impugna con los argumentos conducentes para demostrar su existencia.
+
+El Notario valorará las mismas y determinará si procede o no la solicitud. En caso de ser procedente lo hará constar en instrumento público, remitiendo copia del mismo al Oficial del Registro Civil correspondiente para que efectúe la anotación marginal respectiva;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
 VI. El divorcio por mutuo consentimiento cuando los solicitantes hayan celebrado su matrimonio en el Estado de Sinaloa. Si el matrimonio se celebró bajo el régimen de sociedad conyugal, que no hayan adquirido bienes durante el mismo, y si los hubiere, previamente deberán haber liquidado dicha sociedad; que no tengan hijos en común, o teniéndolos, sean mayores de edad, y éstos o alguno de los cónyuges no requieran alimentos; y que la cónyuge no esté embarazada. En este caso el divorcio se considerará consumado con el mero consentimiento de los cónyuges otorgado ante el Notario, quien lo hará constar en instrumento público.
 
@@ -1094,6 +1116,10 @@ Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divo
 El Notario remitirá copia del instrumento público al Oficial del Registro Civil del lugar en que el matrimonio se efectuó, para que levante el acta de divorcio correspondiente, para los efectos del artículo 116 del Código Civil para el Estado de Sinaloa.
 
 El acta de divorcio que en estos casos extienda el Oficial del Registro Civil deberá contener los elementos que señala el artículo 115 del Código Civil para el Estado de Sinaloa, para lo cual en sustitución de la parte resolutiva de la sentencia judicial y su fecha de ejecutoria, se asentarán en el acta los datos y fecha del respectivo instrumento público notarial;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
 VII. Cualquier otro acto jurídico en el que no exista controversia entre las partes, que no afecte intereses de terceros y que le soliciten los interesados al Notario.
 
@@ -2067,7 +2093,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 JUAN LUIS TORRES VEGA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE MARZO DE 2010.
 
@@ -2084,3 +2110,11 @@ Artículo Quinto.- Los libros y testimonios se expedirán con las dimensiones qu
 Artículo Sexto.- Por única ocasión, en la primera convocatoria que de conformidad con el artículo 22 del presente Decreto, publique el Ejecutivo del Estado, se exceptuará a los Licenciados en Derecho que hayan realizado sus prácticas notariales antes de la entrada en vigor del presente Decreto, el requisito contenido en la fracción IV del Artículo 24 de este Decreto, como lo disponen los Artículos Segundo y Tercero Transitorios del presente Decreto.
 
 Artículo Séptimo.- El Reglamento previsto en el artículo 78 de la Ley que se modifica mediante el presente Decreto, deberá expedirse dentro de los 180 días siguientes a la entrada en vigor del mismo.
+
+P.O. 16 DE MAYO DE 2016
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 543 QUE REFORMA LOS ARTÍCULOS 1195 DEL CÓDIGO FAMILIAR; 39, 95, 97, 364 Y 414 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES; Y, 110 Y 194 DE LA LEY DEL NOTARIADO, TODOS DEL ESTADO DE SINALOA.”]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Sinaloa".
+
+Artículo Segundo. Las reformas al Reglamento del Registro Civil para el Estado de Sinaloa, para la implementación de la presente reforma, deberán ser publicadas dentro de los treinta días hábiles siguientes al inicio de vigencia del presente Decreto.
