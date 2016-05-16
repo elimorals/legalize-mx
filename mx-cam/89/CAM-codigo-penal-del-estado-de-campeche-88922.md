@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2015-12-09"
+last_updated: "2016-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1755,9 +1755,9 @@ Cuando se obtenga el consentimiento a través de cualquier tipo de engaño, se a
 
 Si se comprueba que la cópula se realizó con consentimiento en virtud de la existencia de algún tipo de vínculo emocional o su equiparable, sin que medie ningún tipo de engaño, las sanciones se reducirán en una mitad.
 
-###### Artículo 166.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
 
-En caso de estupro, la acción penal se extinguirá si el sujeto activo y el pasivo contraen matrimonio de conformidad con la ley en la materia, siempre y cuando expresen de manera voluntaria su deseo de unirse en vínculo matrimonial, sin que medie algún tipo de vicio de la voluntad.
+###### Artículo 166.
 
 Este delito se perseguirá por querella de parte.
 
@@ -4054,3 +4054,11 @@ PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de
 SEGUNDO.- Las instituciones estatales y municipales encargadas de brindar auxilio, difundirán ampliamente el contenido del presente decreto, a efecto de fomentar el uso responsable de los sistemas de aviso de emergencias.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 16 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 54 POR EL QUE “SE REFORMA EL ARTÍCULO 166 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
