@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2016-05-09"
+last_updated: "2016-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -929,13 +929,13 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las facultades del superior Jerárquico y de la Secretaría de Contraloría y Transparencia Gubernamental para imponer las sanciones prescribirán:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
 
-I.- En un año si el beneficio obtenido o el daño causado por el infractor no excede de mil veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable en dinero; y
+I.- En tres años si el beneficio obtenido o el daño causado por el infractor no excede de mil veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable en dinero; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
 
-II.- En tres años en todos los demás casos.
+II.- En cinco años en todos los demás casos.
 
 El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fuese de carácter continuo.
 
@@ -1204,3 +1204,9 @@ P.O. 9 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 653 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 652.- QUE REFORMA LAS FRACCIONES PRIMERA Y SEGUNDA DEL ARTÍCULO 78, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE HIDALGO”.]
+
+Único.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
