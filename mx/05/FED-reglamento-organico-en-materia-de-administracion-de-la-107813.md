@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-en-materia-de-administracion-de-la-107813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-05-15"
-last_updated: "2015-05-15"
+last_updated: "2016-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-05-11"
 
 REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2016.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2015.
 
@@ -67,7 +67,9 @@ II. Comités: aquellos Comités de la Suprema Corte previstos en la normativa in
 
 III. Órganos: la Secretaría General de Acuerdos; la Secretaría General de la Presidencia; la Oficialía Mayor, la Contraloría, la Secretaría Jurídica de la Presidencia; y
 
-IV. Áreas: la Subsecretaría General de Acuerdos, la Subsecretaría General de Imagen Institucional de la Presidencia, la Coordinación de Compilación y Sistematización de Tesis, el Centro de Estudios Constitucionales, la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, la Unidad General de Transparencia y Sistematización de la Información Judicial, las Direcciones Generales de: Comunicación y Vinculación Social, del Canal Judicial, Atención y Servicios, Servicios Médicos, Casas de la Cultura Jurídica, Estudios, Promoción y Desarrollo de los Derechos Humanos, Recursos Humanos e Innovación Administrativa, la Tesorería, Infraestructura Física, Seguridad, Presupuesto y Contabilidad, Recursos Materiales, Tecnologías de la Información, Auditoría, Responsabilidades Administrativas y de Registro Patrimonial, así como la Unidad de Relaciones Institucionales de la Suprema Corte de Justicia de la Nación.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+IV. Áreas: la Subsecretaría General de Acuerdos, la Subsecretaría General de Imagen Institucional de la Presidencia, la Coordinación de Compilación y Sistematización de Tesis, el Centro de Estudios Constitucionales, la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad, el Centro de Documentación y Análisis, Archivos y Compilación de Leyes, la Unidad General de Transparencia y Sistematización de la Información Judicial; las direcciones generales de Comunicación y Vinculación Social, del Canal Judicial, Atención y Servicios, Servicios Médicos, Casas de la Cultura Jurídica, Estudios, Promoción y Desarrollo de los Derechos Humanos, Recursos Humanos e Innovación Administrativa, la Tesorería, Infraestructura Física, Seguridad, Presupuesto y Contabilidad, Recursos Materiales, Tecnologías de la Información, Auditoría, Responsabilidades Administrativas y de Registro Patrimonial y de Relaciones Institucionales, así como la Unidad General de Igualdad de Género.
 
 V. Pleno: el Tribunal Pleno de la Suprema Corte;
 
@@ -101,7 +103,9 @@ A. Secretaría General de la Presidencia.
 
 5. Dirección General de Servicios Médicos
 
-6. Unidad de Relaciones Institucionales
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+6. Dirección General de Relaciones Institucionales.
 
 B. Oficialía Mayor.
 
@@ -131,9 +135,13 @@ D. Secretaría Jurídica de la Presidencia.
 
 E. Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos.
 
-1. Subdirección General de Igualdad de Género
+1. (DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
 F. Unidad General de Transparencia y Sistematización de la Información Judicial.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+G. Unidad General de Igualdad de Género.
 
 ### CAPÍTULO SEGUNDO. DE LA PRESIDENCIA
 
@@ -353,7 +361,9 @@ IV. Dirección General de Atención y Servicios
 
 V. Dirección General de Servicios Médicos
 
-VI. Unidad de Relaciones Institucionales.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+VI. Dirección General de Relaciones Institucionales.
 
 ###### Artículo 13.
 
@@ -493,15 +503,17 @@ XIV. Vigilar el resguardo, mantenimiento y correcta administración del mobiliar
 
 XV. Vigilar el mantenimiento y correcta administración de los medicamentos a su resguardo;
 
-XVI. Asesorar a los servidores públicos que van a solicitar la prestación de lentes graduados conforme a la normativa vigente;
+XVI. (DEROGADA, D.O.F. 16 DE MAYO DE 2016)
 
-XVII. Gestionar la solicitud de reembolso de lentes graduados de los empleados y sus beneficiarios, verificando que se cumpla con los requisitos establecidos en la normativa vigente; y
+XVII. (DEROGADA, D.O.F. 16 DE MAYO DE 2016)
 
 XVIII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por la Secretaría General de la Presidencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### Artículo 18.
 
-La Unidad de Relaciones Institucionales tendrá las siguientes atribuciones:
+La Dirección General de Relaciones Institucionales tendrá las siguientes atribuciones:
 
 I. Proponer y auxiliar a la Secretaría General de la Presidencia en la elaboración y en la ejecución de las políticas de vinculación y colaboración institucional con los Poderes Federales y de las entidades federativas de la República Mexicana y de otros países, órganos, organismos e instituciones nacionales e internacionales;
 
@@ -665,7 +677,17 @@ XXX. Gestionar la publicación de las estructuras orgánicas y manuales administ
 
 XXXI. Llevar a cabo investigaciones en temas relacionados con mejores y nuevas prácticas administrativas, con el enfoque de respeto a los derechos humanos y sustentabilidad, susceptibles de implantarse en la Suprema Corte y, en su caso, proponer su autorización para la instrumentación relativa, y
 
-XXXII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Oficial Mayor.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XXXII. Asesorar a los servidores públicos que van a solicitar la prestación de lentes graduados conforme a la normativa vigente;
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XXXIII. Gestionar la solicitud de reembolso de lentes graduados de los empleados y sus beneficiarios verificando que se cumpla con los requisitos establecidos en la normativa vigente, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XXXIV. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que sean encomendadas por el Oficial Mayor.
 
 ###### Artículo 23.
 
@@ -1163,61 +1185,53 @@ XXI. Las demás que le confieran las disposiciones aplicables, así como las que
 
 ### CAPÍTULO NOVENO. DE LA DIRECCIÓN GENERAL DE ESTUDIOS, PROMOCIÓN Y DESARROLLO DE LOS DERECHOS HUMANOS
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### Artículo 38.
 
-La Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos será responsable de impulsar las políticas de protección de los derechos humanos y de perspectiva de género, tanto en el ámbito administrativo como en el jurisdiccional.
+La Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos será responsable de impulsar las políticas de protección de los derechos humanos tanto en el ámbito administrativo como en el jurisdiccional.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### Artículo 39.
 
 La Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos tendrá las siguientes atribuciones:
 
-I. Promover el respeto a los derechos humanos y la perspectiva de género en las labores administrativas y jurisdiccionales de la Suprema Corte de Justicia de la Nación;
+I. Promover el respeto a los derechos humanos en las labores administrativas y jurisdiccionales de la Suprema Corte;
 
-II. Coordinar y elaborar, previa aprobación del Presidente, estudios, análisis, proyectos, opiniones, informes, talleres y publicaciones en materia de derechos humanos y de perspectiva de género, con el objetivo de auxiliar en la labor jurisdiccional;
+II. Coordinar y elaborar, previa aprobación el (sic) Presidente, estudios, análisis, proyectos, opiniones, informes, talleres y publicaciones en materia de derechos humanos con el objetivo de auxiliar en la labor jurisdiccional.
 
-III. Proponer al Ministro Presidente el diseño y desarrollo de estrategias para promover la generación de ambientes laborales libres de violencia y discriminación;
+III. Proponer al Presidente el diseño y desarrollo de estrategias para promover la generación de ambientes laborales libres de violencia y discriminación, en el ámbito de su competencia.
 
-IV. Promover, orientar y evaluar políticas en materia de derechos humanos y de igualdad de género al interior del Poder Judicial de la Federación, en colaboración con las áreas correspondientes;
+IV. Promover, y orientar y evaluar políticas en materia de derechos humanos al interior del Poder Judicial de la Federación en colaboración con las áreas correspondientes;
 
-V. Coordinar, orientar y dar seguimiento a los trabajos y tareas de estudio, promoción y desarrollo de los derechos humanos y de la igualdad de género propuestos por la propia Dirección General o instruidos por la Presidencia de la Suprema Corte de Justicia de la Nación;
+V. Coordinar, orientar y dar seguimiento a los trabajos y tareas de estudio, promoción y desarrollo de los derechos humanos propuestos por la propia Dirección General o instruidos por la Presidencia.
 
-VI. Coordinar las acciones al interior de la Suprema Corte de Justicia de la Nación, con otras instancias del Poder Judicial de la Federación y con organizaciones nacionales e internacionales en materia de derechos humanos y de perspectiva de género, para formular propuestas que incidan en la planeación de políticas; así como para dar cumplimiento a los compromisos adquiridos en el ámbito nacional e internacional en materia de derechos humanos e igualdad de género;
+VI. Coordinar las acciones al interior de la Suprema Corte, con otras instancias del Poder Judicial de la Federación y con organizaciones nacionales e internacionales en materia de derechos humanos, para formular propuestas que incidan en la planeación de políticas; así como para dar cumplimiento a los compromisos adquiridos en el ámbito nacional e internacional en materia de derechos humanos;
 
-VII. Proponer convenios de cooperación para el estudio, promoción y desarrollo de los derechos humanos y de la igualdad de género, así como dar seguimiento a su implementación;
+VII. Proponer convenios de cooperación para el estudio, promoción y desarrollo de los derechos humanos, así como dar seguimiento a su implementación;
 
-VIII. Colaborar, en coordinación con la Secretaría Jurídica de la Presidencia, en la elaboración y actualización de disposiciones e instrumentos normativos que permitan garantizar los derechos humanos y la igualdad de género;
+VIII. Colaborar, en coordinación con la Secretaría Jurídica de la Presidencia, en la elaboración y actualización de disposiciones e instrumentos normativos que permitan garantizar los derechos humanos;
 
-IX. Coordinar y participar en la elaboración, instrumentación y evaluación de indicadores en materia de derechos humanos y de igualdad de género;
+IX. Coordinar y participar en la elaboración, instrumentación y evaluación de indicadores en materia de derechos humanos;
 
-X. Formular estrategias y coordinar el desarrollo de instrumentos que permitan la sistematización de información en materia de derechos humanos y de perspectiva de género;
+X. Formular estrategias y coordinar el desarrollo de instrumentos que permitan la sistematización de información en materia de derechos humanos;
 
-XI. Participar con la Unidad de Relaciones Institucionales en la implementación de políticas de vinculación y colaboración institucional con los Poderes de las entidades federativas, de otros países y con organizaciones internacionales en materia de derechos humanos y de igualdad de género;
+XI. Participar con la Dirección General de Relaciones Institucionales en la implementación de políticas de vinculación y colaboración institucional con los Poderes de las entidades federativas, de otros países y con organizaciones internacionales en materia de derechos humanos;
 
-XII. Participar con la Unidad de Relaciones Institucionales en el establecimiento de mecanismos de colaboración y vinculación con organizaciones de la sociedad civil, sector académico e instancias públicas nacionales e internacionales, para promover el respeto, difusión y garantía de los derechos humanos así como la igualdad de género;
+XII. Participar con la Dirección General de Relaciones Institucionales en el establecimiento de mecanismos de colaboración y vinculación con organizaciones de la sociedad civil, sector académico e instancias públicas nacionales e internacionales, para promover el respeto, difusión y garantía de los derechos humanos;
 
-XIII. Participar en acciones de capacitación con instituciones públicas, privadas y sociales en materia de derechos humanos y en igualdad de género;
+XIII. Participar en acciones de capacitación con instituciones públicas, privadas y sociales en materia de derechos humanos;
 
 XIV. Las demás que le confieren las disposiciones aplicables, así como las que le sean encomendadas por el Presidente.
 
 ###### Artículo 40.
 
-La Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos para el ejercicio de sus atribuciones contará con el apoyo de la Subdirección General de Igualdad de Género.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
 ###### Artículo 41.
 
-La Subdirección General de Igualdad de Género tendrá las siguientes atribuciones:
-
-I. Promover la institucionalización de la perspectiva de género en las labores jurisdiccionales del Alto Tribunal.
-
-II. Aportar herramientas teóricas y prácticas para transversalizar la perspectiva de género en la vida institucional de la Suprema Corte de Justicia de la Nación, tanto en su aparato administrativo como en la carrera judicial.
-
-III. Proponer el diseño y desarrollo de estrategias para promover la generación de ambientes laborales libres de violencia y discriminación;
-
-IV. Proponer a la Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos la construcción de redes de colaboración y sinergia con diferentes actores clave por su incidencia y participación en los procesos de impartición de justicia;
-
-V. Proponer y coadyuvar en la instrumentación de políticas, intercambios académicos, estrategias de divulgación, supervisión y evaluación en materia de igualdad de género, y
-
-VI. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Director General de Estudios, Promoción y Desarrollo de los Derechos Humanos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
 ### CAPÍTULO DÉCIMO. DE LA UNIDAD GENERAL DE TRANSPARENCIA Y SISTEMATIZACIÓN DE LA INFORMACIÓN JUDICIAL
 
@@ -1265,6 +1279,28 @@ XIX. Dirigir el servicio de atención ciudadana respecto de cualquier petición 
 
 XX. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente, el Pleno o los Comités de Ministros.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPÍTULO UNDÉCIMO. DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+###### Artículo 43.
+
+La Unidad General de Igualdad de Género tendrá las siguientes atribuciones:
+
+I. Promover la institucionalización de la perspectiva de género en las labores jurisdiccionales de la Suprema Corte;
+
+II. Aportar herramientas teóricas y prácticas para transversalizar la perspectiva de género en la vida institucional de la Suprema Corte, tanto en su aparato administrativo como en la carrera judicial;
+
+III. Proponer el diseño y desarrollo de estrategias para promover la generación de ambientes laborales libres de violencia y discriminación;
+
+IV. Proponer la construcción de redes de colaboración y sinergia con diferentes actores clave por su incidencia y participación en los procesos de impartición de justicia;
+
+V. Promover y coadyuvar en la instrumentación de políticas intercambios académicos, estrategias de divulgación, supervisión y evaluación en materia de igualdad de género, y
+
+VI. Las demás que le confieran las disposiciones aplicables, así como las que le sean encomendadas por el Presidente.
+
 ## TRANSITORIOS
 
 Artículo Primero. El presente Reglamento Orgánico en Materia de Administración entrará en vigor el quince de mayo de dos mil quince.
@@ -1282,3 +1318,23 @@ Artículo Sexto. Publíquese en el Semanario Judicial de la Federación y su Gac
 Así lo acordó y firma el señor Ministro Luis María Aguilar Morales, Presidente de la Suprema Corte de Justicia de la Nación, el día ocho de mayo de dos mil quince, ante el Secretario Jurídico de la Presidencia que autoriza y da fe.
 
 EL LICENCIADO ALEJANDRO MANUAL GONZÁLEZ GARCÍA, SECRETARIO JURÍDICO DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de cuarenta y cinco fojas útiles concuerda fiel y exactamente con el original del REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, que obra en los archivos de esta Secretaría y se expide para su difusión.- México, Distrito Federal, a once de mayo de dos mil quince.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 1/2016, DEL SEIS DE MAYO DE DOS MIL DIECISÉIS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE QUINCE DE MAYO DE DOS MIL QUINCE, Y SE MODIFICAN Y DEROGAN OTRAS DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 03/2015, DE SEIS DE MAYO DE DOS MIL QUINCE”.]
+
+Artículo Primero. El presente Acuerdo General entrará en vigor el día siguiente al de su publicación.
+
+Artículo Segundo. Se derogan las disposiciones normativas internas que se opongan al objeto de regulación del presente Acuerdo General.
+
+Artículo Tercero. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes mantendrá las atribuciones establecidas por el Pleno conforme a la facultad reglamentaria que le otorga la Ley Orgánica del Poder Judicial de la Federación.
+
+Artículo Cuarto. Por lo que respecta a la Unidad General de Igualdad de Género ésta mantendrá el nivel de Subdirección General. Asimismo se mantiene en sus términos lo establecido en el Acuerdo de Administración de once de enero de dos mil dieciséis, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se delega en la Ministra Margarita Beatriz Luna Ramos, en su carácter de Presidenta del Comité Interinstitucional de Igualdad de Género del Poder Judicial de la Federación, la facultad para dirigir la planeación, programación y presupuestación de la institución de perspectiva de género de este Alto Tribunal.
+
+Artículo Quinto. La Oficialía Mayor llevará a cabo las acciones administrativas conducentes para la instrumentación del presente Acuerdo General.
+
+Artículo Sexto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+
+Artículo Séptimo. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación y al Acuerdo General de Administración número 03/2015, a fin de que el contenido de éstos se encuentren debidamente actualizados, en el portal de este Alto Tribunal, así como en todo tipo de publicaciones.
