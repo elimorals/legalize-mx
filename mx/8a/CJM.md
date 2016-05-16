@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "2014-06-13"
+last_updated: "2016-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "CJM"
 
 CÓDIGO DE JUSTICIA MILITAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMAS, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2016, TODAS LAS REFERENCIAS QUE EN ESTE CÓDIGO Y DEMÁS ORDENAMIENTOS SE HAGAN AL SUPREMO TRIBUNAL MILITAR; A LA PROCURADURÍA GENERAL DE JUSTICIA MILITAR Y AL CUERPO DE DEFENSORES DE OFICIO SE ENTENDERÁN HECHAS AL TRIBUNAL SUPERIOR MILITAR; A LA FISCALÍA GENERAL DE JUSTICIA MILITAR Y A LA DEFENSORÍA DE OFICIO MILITAR.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR, PUBLICADO EN EL D.O.F. DE 13 DE JUNIO DE 2014, LAS DISPOSICIONES RELATIVAS A LOS JUECES DE EJECUCIÓN DE SENTENCIAS ENTRAN EN VIGOR SEIS MESES DESPUÉS DE SU PUBLICACIÓN.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2016.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 31 de agosto de 1933.
 
@@ -52,11 +52,29 @@ La administración de la justicia militar corresponde a:
 
 I.- El Supremo Tribunal Militar;
 
-II.- Los Consejos de Guerra Ordinarios;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-III.- Los Consejos de Guerra Extraordinarios;
+II.- (DEROGADA, D.O.F. 16 DE MAYO DE 2016)
 
-IV.- Los Jueces, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+II BIS.- Los Tribunales Militares de Juicio Oral;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+III.- (DEROGADA, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+III BIS.- Los Jueces Militares de Control, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+IV.- (DEROGADA, D.O.F. 16 DE MAYO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -66,23 +84,49 @@ V.- Los Jueces de Ejecución de Sentencia.
 
 Son auxiliares de la administración de justicia:
 
-I.- Los jueces penales del orden común;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
 
-II.- La policía ministerial militar y la policía común;
+I.- Los Jueces de Control del orden común o federal;
 
-III.- los peritos médico-legistas militares, los intérpretes y demás peritos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV.- el jefe del archivo judicial y biblioteca;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
 
-V.- los demás a quienes las leyes o los reglamentos les atribuyan ese carácter.
+II.- La policía ministerial militar, policía militar y la policía civil;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+III.- (DEROGADA, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+III BIS.- La Coordinación de Servicios Periciales y Ciencias Forenses;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+IV.- El jefe del archivo judicial y biblioteca, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+V.- Los demás a quienes las leyes les atribuyan ese carácter.
 
 ### CAPITULO II. Del Supremo Tribunal Militar
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 3o.
 
-El Supremo Tribunal Militar se compondrá: de un presidente, general de brigada, militar de guerra y cuatro magistrados, generales de brigada de servicio o auxiliares.
+El Tribunal Superior Militar se compondrá: de un presidente, general de División procedente de arma Diplomado de Estado Mayor y cuatro magistrados, generales de Brigada del servicio de Justicia Militar.
 
 ###### ARTICULO 4o.
 
@@ -92,21 +136,45 @@ Para ser magistrado, se requiere:
 
 I.- Ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II.- ser mayor de treinta años;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-III.- ser abogado con título oficial expedido por autoridad legítimamente facultada para ello;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
 
-IV.- acreditar, cuando menos, cinco años de práctica profesional en los tribunales militares;
+II.- Ser mayor de treinta años;
 
-V.- ser de notoria moralidad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+III.- Ser abogado con título oficial expedido por autoridad legalmente facultada para ello;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+IV.- Acreditar, cuando menos, diez años de práctica profesional en el servicio de Justicia Militar o Naval, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+V.- Ser de notoria honorabilidad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 5o.
 
-El Supremo Tribunal Militar, tendrá un secretario de acuerdos, general brigadier, uno auxiliar, coronel; tres oficiales mayores y los subalternos que las necesidades del servicio requieran.
+El Tribunal Superior Militar tendrá un secretario de acuerdos, Coronel o Teniente Coronel del Servicio de Justicia Militar y los subalternos que las necesidades del servicio requieran.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 6o.
 
-Para ser secretario de acuerdos o secretario auxiliar, se requiere: ser mayor de veinticinco años, tener por lo menos tres años de práctica profesional en la administración de justicia militar el primero y dos el segundo, y además los requisitos que las fracciones I, III y V del artículo 4o. mencionan.
+Para ser secretario de acuerdos del Tribunal Superior Militar se requiere: ser mayor de veinticinco años, tener por lo menos siete años de práctica profesional en el servicio de justicia militar, y cubrir los requisitos que las fracciones I, III y V del artículo 4 mencionan.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -118,261 +186,511 @@ La Secretaría de la Defensa Nacional nombrará al presidente y magistrados del 
 
 Las faltas temporales del presidente del Supremo Tribunal, se suplirán por los magistrados en el orden de su designación. Al secretario de acuerdos lo suplirá el secretario auxiliar, y a éste uno de los oficiales mayores.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 9o.
 
-El Supremo Tribunal Militar funcionará siempre en pleno. Bastará la presencia de tres de sus miembros para que pueda constituirse. En el caso de que accidentalmente faltaren más de dos magistrados, se integrará con uno de los jueces que serán llamados para suplir la falta en orden numérico de su designación.
+El Tribunal Superior Militar funcionará en pleno y en salas unitarias. En pleno bastará la presencia de tres de sus miembros para que pueda constituirse. En el caso de que accidentalmente faltaren más de dos magistrados, se integrará con uno de los jueces que conformen el Tribunal de Juicio Oral, que no haya conocido el asunto en alguna etapa anterior del proceso, designado por el Presidente del Tribunal Superior Militar.
 
-### CAPITULO III. De los consejos de guerra ordinarios
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1944)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-### CAPITULO IV. De los consejos de guerra extraordinarios
+### CAPITULO II BIS. De los Tribunales Militares de Juicio Oral
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+###### ARTICULO 9o.
+
+BIS.- Habrá un Tribunal Militar de Juicio Oral, cuando menos en cada una de las plazas en que se encuentre establecida una prisión militar, con la jurisdicción que determine la Secretaría de la Defensa Nacional, se integrará de la forma siguiente:
+
+I.- Dos jueces pertenecientes al Servicio de Justicia Militar o Naval licenciados en derecho, fungiendo como presidente el de mayor jerarquía y en caso de igualdad, el de mayor antigüedad.
+
+II.- Uno de Arma del Ejército o Fuerza Aérea o su equivalente en la Armada de México.
+
+III.- Los secretarios que las necesidades del servicio requieran.
+
+IV.- Un administrador de la sala de Audiencias.
+
+V.- El personal subalterno que las necesidades del servicio requieran.
+
+En los lugares en que existan dos o más órganos de administración de la Justicia Militar que compartan una única Sala, se podrá designar un administrador común de Sala de audiencias y un administrador auxiliar.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+###### ARTICULO 9o.
+
+TER.- Para ser Juez del Tribunal Militar de Juicio Oral, será indispensable reunir los requisitos siguientes:
+
+I.- Para los jueces del Servicio de Justicia Militar o Naval:
+
+a) Ostentar la jerarquía de General Brigadier o Coronel o su equivalente en la Armada de México;
+
+b) Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval;
+
+c) Ser abogado con título oficial expedido por autoridad, legalmente facultada para ello, y
+
+d) Ser de notoria moralidad.
+
+II.- Tratándose del Juez Militar de Arma del Ejército, Fuerza Aérea o su equivalente en la Armada de México:
+
+a) Ostentar la jerarquía de General Brigadier o Coronel o su equivalente en la Armada de México;
+
+b) Contar con siete años de experiencia en el ejercicio del mando en Unidades de la Fuerza Armada a que pertenezca;
+
+c) Ser de notoria moralidad, y
+
+d) Aprobar el curso de capacitación en la función jurisdiccional que disponga la Secretaría de la Defensa Nacional.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO III
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 10.
 
-Los Consejos de Guerra Ordinarios se integrarán con militares de guerra, y se compondrán de un presidente y cuatro vocales; el primero con grado de general o de coronel y los segundos desde el de mayor hasta coronel.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 11.
 
-Los consejos de guerra ordinarios residirán en las plazas en donde existan juzgados militares permanentes y tendrán la misma jurisdicción que éstos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 12.
 
-Los consejos de guerra ordinarios funcionarán por semestres sin que puedan actuar dos períodos consecutivos en la misma jurisdicción, sin perjuicio de que la Secretaría de la Defensa Nacional prolongue el período referido.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Se nombrarán dos para la capital de la República, y uno para cada una de las demás plazas donde radiquen juzgados permanentes.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 13.
 
-Tanto el presidente como los vocales propietarios y suplentes de los consejos de guerra ordinarios, serán nombrados por la Secretaría de la Defensa Nacional, y mientras tuvieren ese encargo, no podrán desempeñar comisiones del servicio de plaza.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 14.
 
-Cuando un acusado fuere de superior categoría militar a la de uno o varios de los miembros de un consejo de guerra, o en el caso de impedimento o falta accidental de cualquiera de ellos, se integrará el Tribunal, conforme a las reglas mandadas observar en el libro tercero, con los suplentes que fueren necesarios, para que todos sus miembros resulten de igual o superior categoría a la del acusado, y si ese medio no fuere suficiente para ello, las Secretarías de la Defensa Nacional o de Marina, según corresponda, designarán los que deban integrar el consejo. Esta designación se hará por sorteo, de entre una lista de los generales hábiles para desempeñar ese servicio, formada a razón de tres por cada uno de los que deban ser sorteados y residan en el lugar en que haya de celebrarse el juicio o en el más cercano; y si ni así se lograre la integración, dichas Secretarías habilitarán con el grado correspondiente a los militares que, estando en aptitud de desempeñar el cargo, tengan grado inmediato inferior al acusado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 15.
 
-Una vez sometido un proceso al conocimiento de un consejo de guerra ordinario, éste impondrá en su sentencia la pena que corresponda, aun cuando resulte que el delito debió haber sido de la competencia de un consejo de guerra extraordinario, o de un juez.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO V. De los jueces
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO IV
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 16.
 
-El consejo de guerra extraordinario se compondrá de cinco militares que deberán ser por lo menos oficiales, y en todo caso, de categoría igual o superior a la del acusado. El jefe que deba convocar el consejo de guerra extraordinario, hará formar una lista en que consten los nombres de todos los militares de guerra de la graduación correspondiente, que estén bajo su mando y disponibles para ese servicio y sorteará de entre esa lista los cinco miembros mencionados.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 17.
 
-Sólo cuando no fuere posible formar el consejo sin los jefes u oficiales de la unidad en que sirva un acusado, figurarán sus nombres en la lista de que habla el artículo anterior; pero en ningún caso, ni por motivo alguno, serán comprendidos en ella, los oficiales de la compañía, escuadrón, batería o dependencia a que pertenezca el inculpado, ni quienes hubiesen denunciado los hechos o se hubieren presentado como querellantes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 18.
 
-Los miembros del consejo a que el presente capítulo se refiere, se escogerán entre los militares de guerra; pero si el delito imputado al procesado fuese propio de sus funciones técnicas, uno de aquellos, por lo menos, será escogido de la manera señalada en este mismo capítulo, entre los del cuerpo técnico correspondiente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 19.
 
-El jefe autorizado para convocar en caso necesario uno de los consejos a que se refiere el artículo 16, podrá también convocar uno o varios para que funcionen mientras dure el sitio o bloque o (sic) de una plaza, nombrando, por medio de sorteo, a quienes hayan de integrarlos de entre los jefes y oficiales presentes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 20.
 
-Tan pronto como terminen las operaciones de la campaña, el sitio o el bloqueo de la plaza en que se hayan establecido los consejos de guerra extraordinarios, éstos cesarán en sus funciones, y remitirán los procesos pendientes a la autoridad judicial que corresponda, por conducto del jefe que los convocó.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 21.
 
-El jefe militar que convoque un consejo de guerra extraordinario en lugar en donde no residieren funcionarios permanentes del servicio de justicia, designará, de entre los abogados titulados que en él radiquen, las personas que deben fungir como juez instructor, secretario y agente del Ministerio Público. Si no hubiere abogados o habiéndolos, existieren graves razones para no hacer de entre ellos la designación, nombrará para el desempeño de esos cargos a militares de guerra, haciendo constar, por medio de información especial, la falta de abogados o los fundamentos que hubiere tenido, para no designar a ninguno de los residentes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 22.
 
-Los jefes militares que ejerzan las facultades a que se contrae el artículo anterior, deberán dar cuenta de sus actos, tan luego como les sea posible, a la Secretaría de la Defensa Nacional o a la de Marina, según corresponda.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 23.
 
-El jefe que convoque un consejo de guerra extraordinario, nombrará, de entre los que resulten designados para formarlo, al que deba fungir como presidente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO I. De los jueces penales del orden común
+### CAPITULO V. De los jueces
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 24.
 
-Los juzgados militares se compondrán de un juez, general brigadier de servicio, o auxiliar, un secretario, teniente coronel de servicio o auxiliar, un oficial mayor y los subalternos que sean necesarios.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 25.
 
-Para ser juez se requieren los mismos requisitos que para ser secretario de acuerdos del Supremo Tribunal Militar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 26.
 
-Para ser secretario de juzgado se requiere, ser mayor de edad, y además, satisfacer las condiciones señaladas en las fracciones I, III y V del artículo 4o.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 27.
 
-Los jueces, el secretario y el personal subalterno de los juzgados, serán designados por la Secretaría de la Defensa Nacional. Los jueces residentes en la capital de la República, otorgarán la protesta de ley, ante el Supremo Tribunal Militar, los jueces foráneos, ante el mismo Supremo Tribunal o ante el comandante de la guarnición de la plaza en que deban radicar; el secretario y demás empleados, ante el juez respectivo.
+Los jueces y el personal subalterno de los juzgados serán designados por la Secretaría de la Defensa Nacional. Los jueces otorgarán la protesta de ley, ante el Tribunal Superior Militar y los demás empleados, ante el juez respectivo.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 28.
 
-Habrá el número de jueces que sean necesarios para el servicio de justicia, con la jurisdicción que determine la Secretaría de la Defensa Nacional.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 29.
 
-Las faltas temporales del personal de los juzgados militares, se suplirán:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Las del juez, por el secretario;
-
-II.- las del secretario, por el oficial mayor;
-
-III.- las del oficial mayor, por el subalterno que le siga en categoría y, en igualdad de circunstancias, por el de mayor antigüedad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 30.
 
-Cuando un juez foráneo tuviere impedimento para conocer de un negocio, lo sucederá el secretario. En las plazas en que residan dos o más jueces, al impedido lo sucederá el que siga en número, y en su caso, el de residencia más inmediata. Mientras se remiten los autos, el secretario deberá practicar las diligencias urgentes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+ARTICULO 30 BIS.- (DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-ARTICULO 30 BIS.- Los Juzgados de Ejecución de Sentencias se organizarán y regirán en los términos que establece el capítulo V de este Título.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO II. Del Cuerpo Médico Legal Militar
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO V BIS. De los Juzgados Militares de Control
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 30 TER.- Habrá el número de Juzgados Militares de Control que sean necesarios para la administración de la Justicia, con la Jurisdicción que determine la Secretaría de la Defensa Nacional y se integrarán con:
+
+I. Un Juez;
+
+II. Los secretarios que las necesidades del servicio requieran;
+
+III. Un Administrador de la Sala de Audiencias;
+
+IV. Un responsable del audio y video de la Sala de Audiencias, y
+
+V. El personal administrativo de apoyo que sea necesario.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 30 QUÁTER.- Para ser Juez Militar de Control será indispensable reunir los requisitos siguientes:
+
+I.- Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada de México.
+
+II.- Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval.
+
+III.- Reunir además los requisitos previstos en las fracciones III y V del artículo 4 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 30 QUINTUS.- Para ser Secretario se requiere:
+
+I. Ostentar la jerarquía de Mayor o Capitán del servicio de Justicia Militar o sus equivalentes en la Armada de México.
+
+II. Contar con cinco años de experiencia profesional en el Servicio de Justicia Militar o Naval.
+
+III. Reunir además los requisitos previstos en las fracciones III y V del artículo 4 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO V TER. De los Juzgados Militares de Ejecución de Sentencias
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 30 SEXTUS.- Habrá un Juzgado Militar de Ejecución de Sentencias, cuando menos, en cada una de las plazas en que se encuentre establecida una prisión militar, debiendo la Secretaría acordar la creación de los demás que sean necesarios para la administración de la justicia, a propuesta del Tribunal, con la jurisdicción que éste determine y se integrarán con:
+
+I. Un Juez Militar de Ejecución de Sentencias;
+
+II. Los secretarios que las necesidades del servicio requieran;
+
+III. Un encargado de la Sala de Audiencias;
+
+IV. Un responsable del audio y video de la Sala de Audiencias, y
+
+V. El personal subalterno que las necesidades del servicio requieran.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 30 SÉPTIMUS.- Para ser Juez Militar de Ejecución de Sentencias, será indispensable reunir los requisitos siguientes:
+
+I. Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada de México.
+
+II. Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval.
+
+III. Reunir además los requisitos previstos en las fracciones III y V del artículo 4 de este Código.
+
+## TITULO SEGUNDO. De los auxiliares de la administración de justicia militar
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO I
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+###### ARTICULO 31.
+
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO II
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+###### ARTICULO 32.
+
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+###### ARTICULO 33.
+
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
 ### CAPITULO III. Del archivo judicial y biblioteca
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
-## TITULO SEGUNDO. De los auxiliares de la administración de justicia militar
-
-### CAPITULO I. Disposiciones preliminares
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
-
-###### ARTICULO 31.
-
-En los lugares en que no resida juez militar, los jueces penales del orden común, en auxilio de la justicia del fuero de guerra, practicarán las diligencias que por tal motivo se les encomienden y las que fueren necesarias para evitar que un presunto delincuente se sustraiga de la acción de la justicia o se pierdan las huellas del delito; y aquellas que sean indispensables para fijar, constitucionalmente, la situación jurídica del inculpado; teniendo facultad para resolver sobre la libertad bajo caución.
-
-### CAPITULO II. Del Ministerio Público
-
-###### ARTICULO 32.
-
-El Cuerpo Médico Legal Militar, tiene por objeto auxiliar a la administración de justicia del fuero de guerra, en la resolución de todos los problemas médico-legales que se presenten en las actuaciones judiciales y averiguaciones previas.
-
-###### ARTICULO 33.
-
-El Cuerpo Médico Legal Militar estará formado:
-
-I.- Por peritos médico-legistas militares;
-
-II.- por los médicos de hospitales, enfermerías, puestos de socorro y prisiones militares;
-
-III.- por los médicos de corporaciones militares;
-
-IV.- por los médicos del personal técnico del Gabinete Antropométrico y los de la Oficina de Identificación Militares.
-
-### CAPITULO III. Del Laboratorio Científico de Investigaciones
-
 ###### ARTICULO 34.
 
 El archivo judicial constituye parte integrante de la Dirección General de Archivo e Historia, a cuyo reglamento se sujetará en el orden técnico, sin perjuicio de que para su funcionamiento especial se rija por las instrucciones particulares que dé la Secretaría de la Defensa Nacional por conducto del presidente del Supremo Tribunal Militar, cuerpo al que el mencionado archivo quedará adscrito.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 35.
 
-La biblioteca se formará, esencialmente, de todas las leyes, decretos y circulares relacionados con el fuero de guerra, así como de las obras, folletos y demás publicaciones que se editen con referencia a asuntos militares y generales; y de los periódicos oficiales.
+La biblioteca se formará, esencialmente, de todas las leyes, jurisprudencia, decretos y circulares relacionados con el fuero militar, así como de las obras, folletos y demás publicaciones que se editen con referencia a asuntos militares y generales; y de los periódicos oficiales.
 
-### CAPITULO IV. De la policía judicial
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO III BIS. De la Coordinación de Servicios Periciales y Ciencias Forenses
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 35 BIS.- La Coordinación de Servicios Periciales y Ciencias Forenses es una unidad administrativa con independencia técnica, organizada y estructurada con personal con preparación en las diversas áreas de las ciencias forenses, que brindarán apoyo de manera indistinta, en materia pericial a la Fiscalía General de Justicia Militar y a la Defensoría de Oficio Militar en el estudio de los diversos indicios, vestigios, huellas o cualquier otro dato que puedan servir como medio de prueba, a partir de una metodología científica o técnica, para la obtención de resultados que permitan el esclarecimiento de un hecho calificado por la ley como delito, con la finalidad de obtenerse los medios probatorios que en igualdad de condiciones presentarán tanto el Agente del Ministerio Público Militar y Defensores de Oficio Militar, en los procesos que se integren ante los tribunales militares.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 35 TER.- Los Peritos Militares deberán poseer título oficial en la materia relativa al punto sobre el cual dictaminarán o documentos oficiales que amparen su especialidad y no tener impedimentos para el ejercicio profesional, siempre que la ciencia, el arte, la técnica o el oficio sobre la que verse la pericia en cuestión estén reglamentadas, a menos que se trate de persona de idoneidad manifiesta en una materia específica.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 35 QUÁTER.- Son deberes de los Peritos Militares:
+
+I. Practicar en tiempo y forma los peritajes conforme a la metodología que exija su profesión, ciencia, arte, técnica u oficio, en los asuntos que se le encomienden;
+
+II. Llevar el registro de cadena de custodia y presentar todos los instrumentos, objetos y productos del delito que sean recabados, en el cumplimiento de sus funciones;
+
+III. Informar cuando el objeto o cantidad de la sustancia, sea pequeña o escasa que al practicarse el peritaje se consumiría por completo, para que se proceda en términos del Código Militar de Procedimientos Penales;
+
+IV. Excusarse cuando tenga un impedimento legal para actuar como perito en un procedimiento específico;
+
+V. Someterse a los procesos de evaluación al desempeño de conformidad con las disposiciones legalmente aplicables;
+
+VI. Obtener y mantener actualizada su certificación como perito de conformidad con las disposiciones aplicables;
+
+VII. Acudir en forma oportuna a la audiencia de vinculación a proceso o de juicio cuando sea citado para ello, salvo que tenga impedimento debidamente justificado, y
+
+VIII. Las demás que señalen las disposiciones legales y reglamentarias aplicables.
 
 ## TITULO TERCERO. De la organización del Ministerio Público
 
 ### CAPITULO I. Disposiciones preliminares
 
+> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+
 ###### ARTICULO 36.
 
 El Ministerio Público es el único capacitado para ejercitar la acción penal, y no podrá retirarla o desistirse de ella, sino cuando lo estime procedente o por orden firmada por el Secretario de Guerra y Marina o por quien en su ausencia lo substituya; orden que podrá darse cuando así lo demande el interés social, oyendo, previamente, el parecer del Procurador General de Justicia Militar.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 37.
 
-Toda denuncia o querella, sobre delitos de la competencia de los tribunales militares, se presentará, precisamente, ante el Ministerio Público; y a éste harán la consignación respectiva, las autoridades que tengan conocimiento de una infracción penal.
+Toda denuncia o querella, sobre hechos que la ley señale como delito de la competencia de los Tribunales Militares, se presentará en los términos, instituidos en el Código Militar de Procedimientos Penales.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 Cuando de las diligencias practicadas en la investigación de un delito se desprenda que éste no atenta contra la disciplina militar, en términos del artículo 57 de este Código, inmediatamente y bajo su más estricta responsabilidad del Ministerio Público Militar deberá remitir la indagatoria a la autoridad civil que corresponda, absteniéndose de ordenar ulteriores actuaciones, sin perjuicio de seguir actuando en la investigación de aquellos delitos del orden militar que resulten de los mismos hechos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 38.
 
-Todas las personas que deban suministrar datos para la averiguación de los delitos, están obligadas a comparecer ante el Ministerio Público, cuando sean citadas para ello por el Procurador General de Justicia Militar o su (sic) agentes. Quedan exceptuados de esta regla, el Presidente de la República, los secretarios del despacho, los subsecretarios y oficiales mayores, los generales de división, los comandantes militares, los jefes de departamento y los miembros de un Tribunal Superior, a quienes se les examinará en sus respectivas oficinas. Los miembros del cuerpo diplomático serán examinados en la forma que indique la Secretaría de Relaciones Exteriores.
+Todas las personas que deban suministrar datos para la averiguación de los delitos, están obligadas a comparecer ante el Ministerio Público, cuando sean citadas para ello por el Fiscal General de Justicia Militar o sus agentes. Quedan exceptuados de esta regla, el Presidente de la República, los secretarios del despacho, los subsecretarios y oficiales mayores, los generales de división en el activo, los comandantes militares y los miembros de un Tribunal Superior, a quienes se les examinará en sus respectivas oficinas. Los miembros del cuerpo diplomático serán examinados en la forma que indique la Secretaría de Relaciones Exteriores.
 
-### CAPITULO II. Del cuerpo de defensores de oficio
+### CAPITULO II. Del Ministerio Público
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 39.
 
 El Ministerio Público se compondrá:
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+I. Del Fiscal General de Justicia Militar, General de Brigada del servicio de Justicia Militar, jefe de la Institución del Ministerio Público Militar; responsable de la investigación y persecución de los hechos probablemente constitutivos de delito competencia de los Tribunales Militares, en términos de lo previsto en los artículos 13 y 21 de la Constitución y demás disposiciones legales.
 
-I.- De un Procurador General de Justicia Militar, general de brigada de servicio o auxiliar, jefe de la institución y consultor jurídico de la Secretaría de la Defensa Nacional, siendo, por lo tanto, el conducto ordinario del Ejecutivo y la propia Secretaría, en lo tocante al personal a sus órdenes;
+II. De un Fiscal General Adjunto, auxiliar inmediato del Fiscal General, siendo el encargado de acordar el despacho de los asuntos de su competencia y de transmitir las órdenes y directivas al personal de la Fiscalía General, supervisando su cumplimiento.
 
-II.- de agentes adscritos a la Procuraduría, generales brigadieres de servicio o auxiliares, en el número que las necesidades requieran;
+III. De un Fiscal Militar de Investigación del Delito y Control de Procesos, encargado de que se realice en forma adecuada la investigación, procesamiento y sanción de los delitos, para cumplir con el objeto del procedimiento penal.
 
-III.- de un agente adscrito a cada Juzgado Militar Permanente, general brigadier de servicio o auxiliar;
+IV. De un Fiscal Militar Auxiliar del Fiscal General, encargado de supervisar que se ejerzan adecuadamente las facultades que tiene el Ministerio Público respecto a:
 
-IV.- de los demás agentes que deban intervenir en los procesos formados por jueces no permanentes;
+a) Las formas de terminación de la investigación, excepto la aplicación de criterios de oportunidad.
 
-> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 1942)</small>
+b) Las determinaciones que tome al concluir la investigación respecto al sobreseimiento, las soluciones alternas y el procedimiento abreviado.
 
-V.- de un Agente Auxiliar, Abogado, Teniente Coronel de Servicio o Auxiliar, adscrito a cada una de las Comandancias de Guarnición de las Plazas de la República, en que no haya Juzgados Militares permanentes, o con residencia en el lugar en que las necesidades del servicio lo ameriten.
+V. De un Fiscal Militar de Asuntos Constitucionales y Legales, encargado de supervisar que el personal de la Fiscalía General, en cumplimiento de sus atribuciones y facultades, atiendan los asuntos relacionados con los requerimientos judiciales y ministeriales, derechos humanos, atención a víctimas del delito y juicios de amparo, relacionados con las funciones de la Fiscalía General.
+
+VI. De un Fiscal Militar de Responsabilidades y Visitaduría, encargado de supervisar el desempeño en los aspectos técnicos y administrativos del personal de la Fiscalía General; así como garantizar que la actuación de dichos funcionarios, se realice bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, realizando las investigaciones cuando se presenten quejas en su contra, instrumentando el procedimiento respectivo, dictando la resolución con la cual se dará cuenta al Fiscal General.
+
+VII. De los Agentes del Ministerio Público Militar necesarios para el cumplimiento de sus funciones.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 40.
 
-El Ministerio Público Militar, tendrá los empleados subalternos que sean necesarios.
+Las Fiscalías Militares y las Agencias del Ministerio Público Militar, tendrán los empleados subalternos que sean necesarios.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 41.
 
-Para ser Procurador General de Justicia Militar, se requieren las mismas condiciones que para ser magistrado; y su designación y protesta, se hará de la manera indicada para aquellos funcionarios.
+Para ser Fiscal General de Justicia Militar, se requieren las mismas condiciones que para ser magistrado; y su designación y protesta de ley, se hará de la manera indicada para aquellos funcionarios.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 42.
 
-Para ser agente adscrito, deben llenarse los mismos requisitos que para ser juez; su nombramiento será hecho por la Secretaría de la Defensa Nacional y otorgarán la protesta de ley ante el Procurador General de Justicia Militar, los que residan en la capital de la República; los que deban residir fuera de ella, protestarán ante el Comandante de Armas de la plaza en donde radique el juzgado a que sean adscritos o ante el mismo procurador.
+Para ser Fiscal Militar, deben llenarse los mismos requisitos que para ser juez de Tribunal Militar de Juicio Oral, su nombramiento será hecho por la Secretaría de la Defensa Nacional y otorgarán la protesta de ley ante el Fiscal General de Justicia Militar.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 43.
 
-Los agentes auxiliares serán nombrados por la Secretaría de la Defensa Nacional y dependerán del Procurador General como los demás agentes. Rendirán su protesta ante el Comandante de Armas de la plaza en que hayan de residir.
+Los Agentes del Ministerio Público Militar serán nombrados por el Fiscal General de Justicia Militar y rendirán su protesta ante el propio funcionario.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 44.
 
-El resto del personal de las oficinas del Ministerio Público será nombrado por la Secretaría de la Defensa Nacional, y de sus miembros, los que residan en la capital de la República rendirán la protesta ante el procurador y los demás, ante el agente del lugar de su destino.
+El resto del personal de las oficinas de las Fiscalías Militares y de las Agencias del Ministerio Público será nombrado por la Secretaría de la Defensa Nacional, rendirá la protesta de ley ante el Fiscal Militar o agente del Ministerio Público Militar al que queden asignados.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 45.
 
-Las faltas temporales del personal que forma el Ministerio Público, se suplirán:
+Las faltas temporales del personal que forma parte de la Institución del Ministerio Público Militar, se suplirán:
 
-I.- Las del procurador, por los agentes adscritos a la procuraduría en el orden de su adscripción;
+I. Las del Fiscal General de Justicia Militar, por los Fiscales en el orden que señala el artículo 39 de éste Código.
 
-II.- las de los agentes, por designación del procurador.
+II. Las de los Fiscales Militares Adjunto y Especiales y las de los agentes del Ministerio Público Militar, por designación del Fiscal General.
 
-### CAPITULO I. Disposiciones preliminares
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO III
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 46.
 
-La Procuraduría General de Justicia Militar, contará con un Laboratorio Científico de Investigaciones, cuyo personal técnico y administrativo se integrará de conformidad con el reglamento respectivo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO II. Supremo Tribunal Militar y secretarios
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO IV. Policía Ministerial Militar
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 47.
 
@@ -386,11 +704,13 @@ II.- de un cuerpo permanente;
 
 III.- De los militares que en virtud de su cargo o comisión, desempeñen accidentalmente las funciones de Policía Ministerial Militar.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 48.
 
-La Policía Ministerial Militar permanente se compondrá del personal que designe la Secretaría de la Defensa Nacional o de Marina y dependerá directa e inmediatamente del Procurador General de Justicia Militar.
+La Policía Ministerial Militar permanente se compondrá del personal que designe la Secretaría de la Defensa Nacional o de Marina y dependerá directa e inmediatamente del Fiscal General de Justicia Militar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
@@ -418,85 +738,203 @@ IV.- Por Comandantes de los Servicios de Arma.
 
 ARTICULO 49 BIS.- La Policía Ministerial Militar permanente, actuará bajo la conducción y el mando del Ministerio Público en la investigación de los delitos, tendrá las facultades y obligaciones siguientes:
 
-I.- Informar inmediatamente al Ministerio Público Militar competente cuando reciba la noticia de un hecho que pueda constituir una conducta delictiva;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+I.- Recibir las denuncias sobre hechos que puedan ser constitutivos de delito, incluso anónimas e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas para que este coordine la investigación;
 
 II.- Recopilar y confirmar la información que reciba sobre los hechos denunciados y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio por el cual se obtuvo y los datos de los policías que intervinieron;
 
-III.- Prestar el auxilio que requieran las víctimas u ofendidos y proteger a los testigos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IV.- Realizar detenciones en los supuestos que autoriza la Constitución Federal poniendo de inmediato a las personas detenidas a disposición del Agente del Ministerio Público competente. Cuando se trate de delitos contra la disciplina militar los Agentes de la Policía Ministerial Militar estarán facultados para realizar inspecciones personales sobre el detenido y recoger los objetos que tenga en su poder, sujetándose para ello a las reglas que previene el presente Código;
+> <small>(ADICIONADA CON LOS INCISOS [N. DE E. REFORMADA], D.O.F. 16 DE MAYO DE 2016)</small>
 
-V.- Levantará un inventario de los objetos señalados en el párrafo anterior en presencia de la persona inspeccionada, que será firmado por ambos y las pondrá a disposición del Agente del Ministerio Público;
+III.- Prestar el auxilio que requieran los ofendidos y las víctimas de los delitos de la competencia de la Jurisdicción Militar, y proteger a los testigos del delito. Para tal efecto, deberá:
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+b) Informar a la víctima u ofendido de los delitos de la competencia de la Jurisdicción Militar, sobre los derechos que en su favor se establecen.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+c) Procurar que reciban atención médica y psicológica cuando sea necesaria.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+IV.- Realizar detenciones en los supuestos que autoriza la Constitución Federal poniendo de inmediato a las personas detenidas a disposición del Agente del Ministerio Público competente;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+V.- Elaborar un inventario de los objetos, instrumentos y productos del delito, así como de las evidencias, valores y substancias relacionadas con el mismo que se pretendan asegurar, firmado por el imputado o la persona con quien se atienda el acto de investigación, iniciando el procedimiento de la cadena de custodia conforme a los protocolos que para el efecto se emitan, poniéndolos a disposición del Agente del Ministerio Público Militar;
 
 VI.- Reunir toda la información urgente, que pueda ser útil al Agente del Ministerio Público;
 
-VII.- Cuidar que los rastros e instrumentos del delito sean conservados, preservando el lugar de los hechos. Para este efecto, impedirá el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a su clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará bajo su estricta responsabilidad que se alteren o borren de cualquier forma los vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, hasta que intervengan el Ministerio Público y peritos. Quedará constancia por escrito en la cadena de custodia de los datos de identificación de los elementos que intervinieron en la protección del mismo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+VII.- Cuidar que los rastros e instrumentos del delito sean conservados, preservando el lugar de los hechos. Para este efecto, impedirá el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a su clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará bajo su estricta responsabilidad que se alteren o borren de cualquier forma los vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, hasta que intervengan la Policía Ministerial Militar especializada en la escena del delito o los peritos. Quedará constancia por escrito en la cadena de custodia de los datos de identificación de los elementos que intervinieron en la protección del mismo, conforme a los protocolos que se emitan al respecto;
 
 VIII.- Entrevistar a los testigos presumiblemente útiles para descubrir la verdad. Las entrevistas se harán constar en un registro de las diligencias policiales efectuadas;
 
 IX.- Practicar las diligencias orientadas a conocer los hechos y en su caso la individualización física de los autores y partícipes del hecho;
 
-X.- Recabar los datos personales que sirvan para la identificación del imputado, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XI.- Proporcionar seguridad a víctimas, ofendidos o testigos del delito, cuando lo considere necesario el Juez o el Ministerio Público.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+X.- Recabar los datos personales que sirvan para la identificación del imputado;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XI.- Proporcionar seguridad a víctimas, ofendidos o testigos del delito, cuando lo considere necesario el Juez o el Ministerio Público;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XII.- Requerir a las autoridades competentes y solicitar a las personas físicas o colectivas, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XIII.- Previa autorización de la Autoridad Judicial Federal y bajo la supervisión del Ministerio Público materializar la intervención de comunicaciones privadas exclusivamente respecto del personal militar;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XIV.- Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XV.- Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XVI.- Cumplir los mandatos del Fiscal General y de los Agentes del Ministerio Público, para apoyar a las autoridades civiles en la investigación de delitos;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XVII.- Realizar acciones de entrega vigilada y las operaciones encubiertas con autorización del Fiscal General de Justicia Militar o el funcionario en quien delegue la función, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+XVIII.- Someterse a los procesos de evaluación de su desempeño, de conformidad con las disposiciones legalmente aplicables.
 
 La Policía Ministerial Militar, por ningún motivo podrá realizar de propia autoridad, investigación sobre personas, manipulación y práctica de peritajes sobre los objetos asegurados.
 
 Cuando para el cumplimiento de estas facultades se requiera una orden judicial, la policía informará al Ministerio Público para que éste la solicite.
 
-## TITULO CUARTO. De la organización del cuerpo de defensores de oficio
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO III. Consejos de guerra
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+## TITULO CUARTO. De la organización de la Defensoría de Oficio Militar
+
+### CAPITULO I. Disposiciones preliminares
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 50.
 
-La defensa gratuita de los acusados por delitos de la competencia del fuero de guerra, estará a cargo del cuerpo de defensores de oficio.
+La defensa pública de calidad a que se refiere el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, a los imputados por delitos de la competencia del fuero militar, estará a cargo de la Defensoría de Oficio Militar.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 51.
 
-La acción del cuerpo de defensores de oficio, en favor de los acusados a quienes deba prestar sus servicios, no se limitará a los tribunales del fuero de guerra, sino se extenderá a los del orden común y federal.
+La acción de la Defensoría de Oficio Militar, en favor de los imputados a quienes deba prestar sus servicios, no se limitará a los tribunales militares, sino se extenderá a los del orden común y federal, cuando los hechos tengan relación con actos del servicio.
 
-### CAPITULO IV. Jueces y secretarios
+La defensa es un derecho fundamental e irrenunciable que asiste a todo imputado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+Se entenderá por una defensa técnica la que debe realizar el Defensor de Oficio Militar a favor del imputado desde su detención y a lo largo de todo su proceso, sin perjuicio de los actos de defensa material que el propio imputado pueda llevar a cabo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO II. De la Defensoría de Oficio Militar
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 52.
 
-El cuerpo de defensores de oficio se compondrá:
+La Defensoría de Oficio Militar se compondrá:
 
-I.- De un jefe, general brigadier de servicio o auxiliar adscrito al Supremo Tribunal Militar;
+I. De un Defensor General, con jerarquía de General de Brigada del servicio de Justicia Militar o su equivalente en la Armada de México, Jefe de la Defensoría de Oficio Militar.
 
-II.- de un defensor, coronel de servicio o auxiliar adscrito a cada uno de los juzgados;
+II. De un Defensor General Adjunto, Coronel o Teniente Coronel del servicio de Justicia Militar o su equivalente en la Armada de México.
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+III. De los defensores que deban intervenir en los procedimientos penales iniciados en contra de militares en los fueros militar, común o federal.
 
-III.- de los demás defensores que deban intervenir en los procesos instruidos por Jueces no permanentes, y donde hubiere Agentes del Ministerio Público Militar adscritos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 53.
 
-El cuerpo de defensores de oficio, tendrá los empleados subalternos que las necesidades del servicio requieran.
+La Defensoría de Oficio Militar, tendrá los empleados subalternos que las necesidades del servicio requieran.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 54.
 
-Para ser jefe del cuerpo de defensores de oficio, deben llenarse los mismos requisitos que para ser agente del Ministerio Público; y para ser defensor, iguales condiciones, excepto el tiempo de ejercicio profesional en el fuero de guerra, que será de dos años.
+Para ser Defensor General de la Defensoría de Oficio Militar, se requieren las mismas condiciones que para ser magistrado y su designación y protesta de ley se hará de la manera indicada para dichos funcionarios.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+Para ser Defensor General Adjunto, deben satisfacerse iguales condiciones, excepto el tiempo de práctica profesional en el servicio de justicia militar o naval, que será de dos años.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 55.
 
-El jefe del cuerpo y defensores, serán nombrados por la Secretaría de la Defensa Nacional, ante la que otorgará su protesta el primero; el resto de los defensores nombrados que residan en la capital de la República, protestarán ante el citado jefe, y los que deban radicar fuera de ella, ante el propio jefe o ante el Comandante de Armas de la plaza de su adscripción. El resto del personal, protestará ante el mencionado jefe del cuerpo.
+El Defensor General, el Defensor General Adjunto y defensores, serán nombrados por la Secretaría de la Defensa Nacional, ante la que otorgará su protesta el primero. El resto de los defensores nombrados protestarán ante el citado Defensor General.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 56.
 
-En las faltas temporales, el jefe del cuerpo, será suplido por los defensores adscritos a los juzgados en el orden que corresponda, según la numeración de éstos. Los defensores adscritos a los juzgados serán suplidos por quienes determine el jefe del cuerpo, en la capital de la República; y los foráneos, por designación que hará el comandante de la guarnición del lugar, eligiendo entre los abogados militares de su jurisdicción, dando aviso a la Secretaría de la Defensa Nacional y al Jefe del cuerpo.
+En las ausencias temporales del Defensor General de la Defensoría de Oficio Militar, será suplido por el Defensor General Adjunto. Los defensores serán suplidos por quienes determine el Defensor General.
 
 ## TITULO QUINTO. De la competencia
 
-### CAPITULO V. Ministerio Público
-
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+### CAPITULO I. Disposiciones preliminares
 
 ###### ARTICULO 57.
 
@@ -540,57 +978,81 @@ Cuando en virtud de lo mandado en el artículo anterior, los tribunales militare
 
 La jurisdicción penal militar, no es prorrogable ni renunciable.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 60.
 
-Cuando haya de juzgarse a un militar por delito de la competencia del fuero de guerra, encontrándose procesado por alguno del orden común o federal, la autoridad judicial militar instruirá la causa, como si el detenido se hallara a su disposición desde que dicte el auto de incoación, si tiene conocimiento del lugar en que el inculpado se halle detenido, y si no, desde el momento en que tal circunstancia le fuere sabida. En el caso que menciona este artículo, el juez militar librará oficio informativo al del orden común o federal.
+Cuando haya de juzgarse a un militar por delito de la competencia del fuero militar, encontrándose procesado por alguno del orden común o federal, la autoridad judicial militar si tiene conocimiento del lugar en que el inculpado se halle detenido, y si no, desde el momento en que tal circunstancia le fuere sabida, librará oficio informativo a la autoridad judicial del orden común o federal, solicitando su colaboración para celebrar la audiencia inicial o el acto procesal que corresponda.
 
 ###### ARTICULO 61.
 
 Si el ejército estuviere en territorio de una potencia amiga o neutral, se observarán en cuanto a competencia de los tribunales militares, las reglas que estuvieren estipuladas en los tratados o convenciones con esa potencia.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 62.
 
-Es tribunal competente para conocer de un proceso, el de la jurisdicción del lugar donde se cometa el delito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-La Secretaría de la Defensa Nacional, sin embargo, puede designar distinta jurisdicción a la del lugar en donde se cometió el delito, previa solicitud del procesado, o bien cuando las necesidades del servicio de justicia lo requieran.
-
-En ambos casos la determinación correspondiente deberá emitirse debidamente fundada y motivada.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 63.
 
-Cuando se dude en qué jurisdicción se cometió el delito, será juez competente para perseguirlo el que haya prevenido en su conocimiento.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 64.
 
-Es juez competente para conocer y castigar los delitos continuos, el del lugar en que se verifique la aprehensión del delincuente, cualquiera que sea el en que aquellos se hubieren cometido; debiéndose remitir a dicha autoridad las diligencias que se hayan practicado por la que hubiere prevenido en el conocimiento.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 65.
 
-Es competente para conocer de todos los procesos que deban acumularse, el juez que conociere del más antiguo, y si fueren de la misma fecha, regirá la competencia el proceso que se siga por el delito más grave.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 66.
 
-Los tribunales militares no podrán entablar ni sostener competencia alguna, sin audiencia del Ministerio Público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO VI. Cuerpo de defensores de oficio
+### CAPITULO II. Supremo Tribunal Militar y secretarios
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 67.
 
-Corresponde al Supremo Tribunal Militar conocer:
+Corresponde al pleno del Tribunal Superior Militar conocer:
 
-I.- De las competencias de jurisdicción que se susciten entre los jueces, y de las contiendas sobre acumulación;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II.- de las excusas que sus miembros presenten para conocer de determinados negocios, así como de las de los jueces;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+I.- De las competencias de jurisdicción que se susciten entre los órganos Jurisdiccionales Militares.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+II.- De las excusas que sus miembros presenten para conocer de determinados negocios, las de los jueces y las recusaciones que se promuevan en contra de magistrados y jueces.
 
 III.- de los recursos de su competencia;
 
-IV.- de las causas de responsabilidad de los funcionarios de la administración de justicia militar;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-V.- de las reclamaciones que se hagan contra las correcciones impuestas por los jueces y presidentes de consejo de guerra, confirmando, revocando o modificando dichas correcciones;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+IV.- Del recurso de revocación interpuesto en contra de sus resoluciones de trámite que se resuelvan sin sustanciación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+V.- (DEROGADA, D.O.F. 16 DE MAYO DE 2016)
 
 VI.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
@@ -604,6 +1066,34 @@ X.- de la designación del magistrado que deberá practicar las visitas de cárc
 
 XI.- de lo demás que determinen las leyes y reglamentos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 67 BIS.- Corresponde a las salas unitarias del Tribunal Superior Militar conocer del Recurso de apelación promovido en contra de las resoluciones emitidas por el juez de control en los casos siguientes:
+
+I. Las que nieguen el anticipo de prueba;
+
+II. Las que nieguen la posibilidad de celebrar acuerdos reparatorios o no los ratifiquen;
+
+III. La negativa o cancelación de orden de aprehensión;
+
+IV. La negativa de orden de cateo;
+
+V. Las que se pronuncien sobre las providencias precautorias o medidas cautelares;
+
+VI. Las que pongan término al procedimiento o lo suspendan;
+
+VII. El auto que resuelve la vinculación del imputado a proceso;
+
+VIII. Las que concedan, nieguen o revoquen la suspensión condicional del proceso;
+
+IX. La negativa de abrir el procedimiento abreviado, y
+
+X. Las que excluyan algún medio de prueba.
+
+También conocerá de las resoluciones emitidas por el Tribunal Militar de Juicio Oral, que versen sobre el desistimiento de la acción penal por el Ministerio Público.
+
 ###### ARTICULO 68.
 
 Son atribuciones del Supremo Tribunal Militar:
@@ -614,11 +1104,17 @@ I.- Conceder licencias a los magistrados, jueces, secretarios y demás empleados
 
 II.- resolver las reclamaciones de los jueces contra excitativas de justicia y demás providencias y acuerdos del presidente del Supremo Tribunal, en ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-III.- iniciar ante la Secretaría de la Defensa Nacional las reformas que estime conveniente se introduzcan en la legislación militar;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
 
-IV.- expedir circulares, dando instrucciones a los funcionarios de la administración de justicia militar, encaminadas a obtener el mejor desempeño de su cargo;
+III.- Proponer a la Secretaría de la Defensa Nacional las reformas que estime conveniente se introduzcan en la legislación militar;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+IV.- Expedir acuerdos y circulares, dando instrucciones a los funcionarios de la administración de justicia militar, encaminadas a obtener el mejor desempeño de su cargo;
 
 > <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -628,7 +1124,17 @@ V.- formular el reglamento del mismo Supremo Tribunal y someterlo a la aprobaci�
 
 VI.- proponer a la Secretaría de la Defensa Nacional los cambios de residencia y jurisdicción de funcionarios y empleados de justicia militar, según lo exijan las necesidades del servicio;
 
-VII.- suministrar al Procurador General de Justicia Militar, los datos necesarios para la formación de la estadística criminal militar;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+VII.- Suministrar al Fiscal General de Justicia Militar, los datos necesarios para la formación de la estadística criminal militar;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+VII BIS.- Resolver las apelaciones cuya competencia no esté señalada para las salas unitarias;
 
 VIII.- las demás que determinen las leyes y reglamentos.
 
@@ -636,7 +1142,11 @@ VIII.- las demás que determinen las leyes y reglamentos.
 
 Corresponde al presidente del Supremo Tribunal Militar:
 
-I.- Dirigir los debates;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+I.- Presidir las audiencias y dirigir los debates;
 
 II.- recibir quejas e informes sobre demoras, excesos o faltas en el despacho de los negocios. Si las faltas fueren leves, dictará las providencias oportunas para su corrección; pero si fueren graves, dará cuenta al Supremo Tribunal para que resuelva;
 
@@ -660,105 +1170,113 @@ IX.- dictar las medidas que estime convenientes, en lo tocante al archivo judici
 
 X.- lo demás que determinen las leyes y reglamentos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 70.
 
-Corresponde al secretario de acuerdos del Supremo Tribunal Militar:
+Corresponde al secretario de acuerdos del Tribunal Superior Militar:
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+I. Dar cuenta al presidente del Tribunal Superior Militar, con todos los negocios, comunicaciones, correspondencia y demás documentos que se reciban para que se despachen, desde luego, los que sean de la competencia del mismo presidente, y ordene, éste, el pase de los demás al Tribunal Superior Militar;
 
-I.- Dar cuenta al presidente del Supremo Tribunal Militar, con todos los negocios, comunicaciones, correspondencia y demás documentos que se reciban para que se despachen, desde luego, los que sean de la competencia del mismo presidente, y ordene, éste, el pase de los demás al Supremo Tribunal Militar;
+II. Tomar la votación en cada negocio, haciendo constar quiénes votan en un sentido y quiénes en otro;
 
-II.- dar cuenta en las sesiones del Supremo Tribunal Militar, con los asuntos de que éste deba conocer, relatándolos en extracto y proponiendo el acuerdo que en su concepto, deba recaer;
+III. Dar cuenta en las sesiones del Tribunal Superior Militar, con los asuntos de que éste deba conocer, relatándolos en extracto y proponiendo el acuerdo que en su concepto, deba recaer;
 
-III.- levantar acta de las sesiones, haciendo una relación de los asuntos que se hubiesen tratado, el sentido de las discusiones y razonamientos expuestos en ellas;
+IV. Expedir y autorizar las copias de las resoluciones, constancias de autos y demás que la ley determine o deban darse por mandato judicial;
 
-IV.- tomar la votación en cada negocio, haciendo constar quiénes votan en un sentido y quiénes en otro;
+V. Vigilar que se lleven al corriente los libros de gobierno, de sentencias, índices, correspondencia, estadística y demás necesarios para el servicio;
 
-V.- autorizar los decretos, autos y sentencias que se dicten, así como las certificaciones y razones que deban asentarse en el expediente;
+VI. Distribuir entre el personal subalterno las labores que deban desempeñar, designando a uno de ellos como notificador;
 
-VI.- proporcionar los expedientes a las partes para informarse de ellos, tomar apuntes o para cualquier otro efecto legal, vigilando que lo hagan en su presencia, sin permitir su salida;
-
-VII.- expedir y autorizar las copias de las resoluciones, constancias de autos y demás que la ley determine o deban darse por mandato judicial;
-
-VIII.- vigilar que se lleven al corriente los libros de gobierno, de sentencias, índices, correspondencia, estadística y demás necesarios para el servicio;
-
-IX.- distribuir entre los oficiales mayores las labores que deban desempeñar, designando a uno de ellos como notificador.
+VII. Proporcionar los expedientes a las partes para informarse de ellos, tomar apuntes o para cualquier otro efecto legal, vigilando que lo hagan en su presencia, sin permitir su salida.
 
 ###### ARTICULO 71.
 
 El secretario auxiliar del Supremo Tribunal Militar, desempeñará las labores que le encomiende el secretario de acuerdos y las mismas que éste, cuando lo supla.
 
-### CAPITULO I. Clasificación de delitos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO II. De las faltas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO II BIS. Tribunales Militares de Juicio Oral, Jueces de Control y de Ejecución de Sentencias
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 71 BIS.- Los Tribunales Militares de Juicio Oral, presenciaran en su totalidad la audiencia de juicio oral y en su caso la de individualización de sanciones, deliberando para emitir la sentencia respectiva, explicando su contenido y alcances.
+
+Los jueces integrantes estarán obligados a guardar el secreto profesional con respecto a la información reservada y confidencial que hayan obtenido en el desempeño de sus funciones, a menos que se trate de audiencias públicas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
+ARTICULO 71 TER.- Los Jueces Militares de Control tienen las atribuciones siguientes:
+
+I. Resolver respecto a las órdenes de aprehensión, comparecencia o citaciones que le solicite el Ministerio Público;
+
+II. Resolver sobre las peticiones del Ministerio Público Militar para practicar técnicas de investigación que requieran de control judicial;
+
+III. Dirigir las audiencias Judiciales inicial e intermedia y resolver las peticiones que formulen las partes en ellas;
+
+IV. Decidir sobre la libertad o prisión preventiva y demás providencias precautorias y medidas cautelares;
+
+V. Resolver sobre la vinculación a proceso;
+
+VI. Procurar la solución del conflicto a través de mecanismos anticipados de terminación del proceso y los medios alternativos de solución de controversias;
+
+VII. Autorizar y dictar sentencia en el procedimiento abreviado;
+
+VIII. Guardar el secreto profesional respecto a la información reservada y confidencial que haya obtenido en el desempeño de sus funciones;
+
+IX. Resolver sobre la suspensión condicional del proceso;
+
+X. Resolver respecto a la suspensión del proceso y sobreseimiento al cierre de la investigación;
+
+XI. Resolver sobre todas aquellas peticiones e incidentes que le promuevan las partes en las etapas de investigación e intermedia, y
+
+XII. Las demás que le otorgue la ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO III
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 72.
 
-Los consejos de guerra ordinarios son competentes para conocer de todos los delitos contra la disciplina militar, cuyo conocimiento no corresponde a los jueces militares o a los consejos de guerra extraordinarios.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 73.
 
-Los consejos de guerra extraordinarios, son competentes para juzgar en campaña y dentro del territorio ocupado por las fuerzas que tuvieren bajo su mando el comandante investido de la facultad de convocarlos, a los responsables de delitos que tengan señalada pena de treinta a sesenta años de prisión.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Son competentes para convocar consejos de guerra extraordinarios:
-
-I.- Los comandantes de la guarnición;
-
-II.- El jefe de un ejército, cuerpo de ejército o comandante en jefe de fuerzas navales, y los de las divisiones, brigadas, secciones o buques que operen aisladamente.
-
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 74.
 
-Los consejos de guerra extraordinarios en los buques de la Armada, sí son competentes para conocer, en tiempo de paz y sólo cuando la unidad naval se halle fuera de aguas territoriales, de los delitos sancionados con penas de treinta a sesenta años de prisión, cometidos por marinos a bordo; y en tiempo de guerra, de los mismos delitos, cometidos también a bordo, por cualquier militar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 75.
 
-Para determinar en los casos expresados en los artículos que anteceden, la competencia del consejo extraordinario, se necesita, además, que concurran las circunstancias siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que el acusado haya sido aprehendido en flagrante delito.
+### CAPITULO IV. Jueces y secretarios
 
-Se considerará delito flagrante el que se estuviere cometiendo o se acabare de cometer cuando el delincuente sea sorprendido. Se entenderá sorprendido en el acto de ejecutar el delito, no sólo el criminal que sea aprehendido en el momento de estarlo cometiendo, sino aun el que fuere detenido al acabar de cometerlo o después, durante la inmediata persecución, mientras no se ponga fuera del alcance de los que lo persigan;
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
-
-II.- que la no inmediata represión del delito, implique, a juicio del jefe militar facultado para convocar el Consejo, un peligro grave para la existencia o conservación de una fuerza o para el éxito de sus operaciones militares, o afecte la seguridad de las fortalezas y plazas sitiadas o bloqueadas, perjudique su defensa o tienda a alterar en ellas el orden público.
-
-### CAPITULO III. Grados del delito intencional
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 76.
 
-Corresponde al juez de la causa:
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
-
-I.- Instruir los procesos de la competencia de los consejos de guerra, así como los de la propia; dictando al efecto las órdenes de incoación;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-II.- Juzgar los delitos penados con prisión que no exceda de un año, como término medio, con suspensión o con destitución. Cuando concurran diversas penas, la competencia se determinará por la pena privativa de libertad;
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-III.- solicitar a la Secretaría de la Defensa Nacional, por conducto del Supremo Tribunal Militar, y a este mismo, los estados mensuales y las actas de las visitas de cárcel y hospital, así como rendir a los mismos los informes que soliciten;
-
-IV.- comunicar al Supremo Tribunal Militar las irregularidades que adviertan en la administración de justicia;
-
-V.- practicar mensualmente visitas de cárceles y hospitales;
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-VI.- remitir a la Secretaría de la Defensa Nacional, por conducto del Supremo Tribunal Militar, las remociones que para el buen servicio se hagan necesarias;
-
-VII.- conceder licencias hasta por cinco días al personal de su juzgado, dando aviso al Supremo Tribunal Militar;
-
-VIII.- iniciar ante el Supremo Tribunal Militar, las leyes, reglamentos y medidas que estime necesarios para la mejor administración de justicia;
-
-IX.- llevar la correspondencia oficial, dictando los acuerdos económicos conforme al reglamento interior;
-
-X.- las demás atribuciones que determinen las leyes y reglamentos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -768,87 +1286,91 @@ ARTICULO 76 BIS.- Los jueces de Ejecución de Sentencias, velarán porque el Sis
 
 Así mismo, serán competentes para resolver sobre el otorgamiento de los beneficios que correspondan a las personas que hayan sido sentenciados por órganos del fuero militar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ARTICULO 76 TER.- El Juez de Ejecución de Sentencias, tendrá las facultades y obligaciones siguientes:
 
-I.- Modificar o declarar extintas las penas y/o las medidas de seguridad, garantizando el respeto de los derechos que asisten al sentenciado durante la ejecución de las mismas, siempre que se trate de penas impuestas por órganos del fuero militar.
+I. Controlar que la ejecución de toda pena o medida de seguridad, se realice de conformidad con la sentencia definitiva que se haya impuesto;
 
-En ejercicio de esta función, el Director de la Prisión Militar con el apoyo de las áreas técnico administrativas del Sistema Penitenciario Militar estará obligado a informarle del contenido de los expedientes clínico-criminológicos de los sentenciados, así como de los avances e incidencias en su tratamiento;
+II. Ordenar el cumplimiento de la sentencia que determina la privación de la libertad;
 
-II.- Decidir sobre la libertad preparatoria y su revocación;
+III. Hacer cumplir, sustituir, modificar, cesar o declarar extintas las penas o medidas de seguridad;
 
-III.- Comunicar a la autoridad penitenciaria la libertad inmediata de los sentenciados, por extinción de la pena privativa de libertad que les hubiera sido impuesta, con motivo de los indultos concedidos por el Ejecutivo Federal;
+IV. Realizar el cómputo de la duración de las penas o medidas de seguridad, tomando en consideración la información técnico-jurídica que le proporcionen los Directores de las Prisiones, la Dirección y los organismos auxiliares, respetando la garantía de legalidad del procedimiento, los derechos y las garantías que asistan al sentenciado durante la ejecución de las mismas;
 
-IV.- Resolver sobre las solicitudes de reducción de penas;
+V. Resolver en audiencia oral, sobre las peticiones o planteamientos de las partes, relativos a las materias siguientes:
 
-V.- Emitir las órdenes de aprehensión y reaprehensión que procedan en ejecución de sentencia;
+a) La revocación de cualquier beneficio y sustitutivos concedidos a los sentenciados o de aquellos que por su naturaleza e importancia requieran ofrecimiento, admisión, desahogo y debate de medios de pruebas.
 
-VI.- Pronunciarse sobre la cesación de la pena o medida de seguridad una vez transcurrido el plazo fijado por la sentencia y se haya cumplido en sus términos;
+b) La libertad preparatoria y la reducción de la pena;
 
-VII.- Resolver en relación a la extinción o suspensión de la pena o de las medidas de seguridad;
+VI. Decretar como medida de seguridad, a petición del Director de la prisión, el externamiento y la custodia del sentenciado, al tenerse conocimiento, previo examen médico correspondiente, de que padezca alguna enfermedad mental de tipo crónico, continuo e irreversible, a cargo de una institución del sector salud, de representante legal o tutor debidamente acreditado, para que se le brinde atención y tratamiento médico o de tipo asilar;
 
-VIII.- Resolver en audiencia pública, de oficio o a petición de parte, las propuestas que formulen las autoridades penitenciarias o las solicitudes de reconocimiento de beneficios que supongan una modificación en las condiciones del cumplimiento de la condena o una reducción del tiempo de privación efectiva de la libertad, verificando que el daño haya sido reparado o, en su caso, se haya garantizado;
+VII. Ordenar el traslado de sentenciados a los diversos Centros Penitenciarios;
 
-IX.- Dejar sin efecto la sentencia condenatoria, cuando una ley elimine un hecho u omisión el carácter de delito que otra anterior le deba, ordenando la absoluta libertad del sentenciado;
+VIII. Rehabilitar los derechos de los sentenciados, una vez que se cumpla con el término de la suspensión señalado en la sentencia, en los casos de indulto o de reconocimiento de inocencia;
 
-X.- Inspeccionar el lugar y condiciones en que se deban cumplir las penas y/o medidas de seguridad; asimismo, ejercer el control sobre las sanciones disciplinarias decretadas por las autoridades competentes e imponer las que correspondan, controlando además la forma en que se cumplan las medidas de seguridad impuestas a los inimputables;
+IX. Entregar al sentenciado su constancia de libertad definitiva;
 
-XI.- Ordenar la modificación o cesación de las medidas de seguridad, de acuerdo con los informes suministrados por las áreas responsables del cuidado, tratamiento y rehabilitación de quienes estén sujetos a ellas. Si lo estiman conveniente, podrán ordenar las verificaciones que procedan, acudiendo a los centros de asistencia oficial o privados, al efecto, los directores de las prisiones militares acatarán las resoluciones de dichos jueces en lo concerniente a las medidas de seguridad;
+X. Informar a las autoridades correspondientes, cuando los sentenciados cumplan sus sentencias, y
 
-XII.- Resolver sobre las impugnaciones que los internos formulen en relación con las sanciones que se les impongan en el régimen y el tratamiento penitenciario, sin que se suspenda la sanción con motivo de la impugnación, y
+XI. Las demás atribuciones que este Código y otros ordenamientos le asignen.
 
-XIII.- Las demás atribuciones que la ley y otros ordenamientos le asignen.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 77.
 
-Corresponde a los secretarios:
+Los Secretarios de los Tribunales Militares de Juicio Oral, Juzgados de Control y de Ejecución de Sentencias, tienen las funciones siguientes:
 
-I.- Dar cuenta y acordar con el juez, diariamente, sobre el estado de los procesos, las promociones de las partes y la correspondencia dirigida al juzgado;
+I. Auxiliar al Juez en lo concerniente a sus obligaciones;
 
-II.- autorizar los decretos, autos y sentencias que se dicten, así como las certificaciones y razones que deban asentarse por mandato de la ley o del juez;
+II. Dar cuenta al Tribunal o al Juez de las peticiones de las partes y la correspondencia dirigida al juzgado, recabando el acuerdo que sobre ellos recaiga;
 
-III.- proporcionar los expedientes a las partes para informarse de su estado, tomar apuntes o para cualquier otro efecto legal, vigilando que lo hagan en su presencia y sin que permita su salida;
+III. Supervisar el cumplimiento de las disposiciones giradas por el Juez para el correcto funcionamiento del área de su responsabilidad;
 
-IV.- expedir y autorizar las copias de las resoluciones, constancias de autos y demás que la ley determine o que deban darse en virtud de mandato judicial;
+IV. Elaborar el proyecto de las resoluciones que deban constar por escrito, así como otras que disponga el Tribunal o el juez;
 
-V.- llevar los libros de gobierno, correspondencia, estadística y demás necesarios para el servicio;
+V. Autorizar las certificaciones que deban asentarse por mandato de la ley o del Juez;
 
-VI.- comunicar al juez las irregularidades que observe (sic) en la marcha de los negocios del juzgado, emitiendo su opinión, sobre el medio de subsanarlas;
+VI. Proporcionar a las partes los expedientes, carpetas y medios electrónicos para su consulta, sin que permitan su salida del área para tal fin;
 
-VII.- Las demás atribuciones que la ley o los jueces les encomienden.
+VII. Expedir y autorizar las copias de las resoluciones y constancias, contenidas en forma escrita o en archivo electrónico y demás que la ley determine o que deban darse en virtud de mandato judicial;
 
-### CAPITULO IV. Reincidencia y acumulación
+VIII. Llevar los libros de gobierno, correspondencia, y demás necesarios para el servicio;
+
+IX. Las demás que le otorgue la ley.
+
+### CAPITULO V. Ministerio Público
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 78.
 
-El Ministerio Público al recibir una denuncia o querella recabará con toda oportunidad y eficacia los datos necesarios, para acreditar el cuerpo del delito y la probable responsabilidad de los indiciados, a fin de formular desde luego el pedimento correspondiente, solicitando la aprehensión, comparecencia o presentación de los probables responsables, si no hubieren sido detenidos en flagrante delito o en casos urgentes.
+El Ministerio Público al recibir una denuncia o querella recabará con toda oportunidad y eficacia los datos necesarios, para acreditar que se cometió un hecho que la ley señale como delito y que exista la probabilidad de que el imputado lo cometió o participó en su comisión a fin de formular la imputación correspondiente, solicitando la aprehensión, comparecencia o presentación de los imputados, si no hubieren sido detenidos en flagrante delito o en casos urgentes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 79.
 
-El Ministerio Público no podrá pedir la incoación de procedimiento, sin llenar los requisitos correspondientes, en los casos que siguen:
+El Ministerio Público no podrá ejercitar la acción penal, sin llenar los requisitos correspondientes, en los casos que siguen:
 
-I.- Cuando se trate de delitos en los que sólo se puede proceder por querella necesaria, si ésta no se ha presentado; y
+I.- Cuando se trate de delitos en los que sólo se puede proceder por querella necesaria, si ésta no se ha presentado, y
 
-II.- cuando la ley exija algún requisito previo, o indispensable respecto del inculpado, si tal requisito no se hubiere llenado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-###### ARTICULO 80.
-
-El Ministerio Público, en casos urgentes, cuando se trate de delito que atente contra la disciplina militar y que sea grave de acuerdo con la ley, ante el riesgo fundado de que el indiciado pueda substraerse a la acción de la justicia, podrán bajo su responsabilidad ordenar su detención, fundando y expresando los motivos de su proceder, lo anterior siempre y cuando no se pueda ocurrir ante la autoridad judicial militar por razón de la hora, lugar o circunstancia. Realizada la detención, se procederá a su registro inmediato.
+II.- Cuando la ley exija algún requisito previo, o indispensable respecto del imputado, si tal requisito no se hubiere actualizado.
 
 En los casos de delitos flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo las reglas de disciplina y jerarquía para cometer de modo violento y reiterado o con fines predominantemente lucrativos algunos de los delitos señalados por la ley como graves.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
-
 Cuando el indiciado fuese detenido o se presentare voluntariamente será inmediatamente registrado por el Ministerio Público, quien tendrá la obligación de hacerle saber las garantías consagradas en el artículo 20 Constitucional.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-El registro que realicen la Policía Ministerial Militar y el Ministerio Público en todos los casos antes citados, deberá contener, al menos lo siguiente:
+El registro de detención que realicen la Policía Ministerial Militar y el Ministerio Público en todos los casos antes citados, deberá contener, al menos lo siguiente:
 
 I.- Nombre, grado y en su caso apodo del detenido;
 
@@ -860,299 +1382,417 @@ IV.- Nombre de quien o quienes hayan intervenido en la detención. En su caso, g
 
 V.- Lugar donde será trasladado el detenido.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+###### ARTICULO 80.
+
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 81.
 
-El Procurador General de Justicia Militar, tendrá las siguientes atribuciones y deberes:
+El Fiscal General de Justicia Militar tendrá las siguientes atribuciones y deberes indelegables:
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+I.- Proponer los proyectos de iniciativas de ley o de reformas legislativas vinculadas con las materias de la competencia de la Fiscalía General;
 
-I.- Dictaminar personalmente sobre todas las dudas o conflictos de orden jurídico que se presenten en asuntos de la competencia de la Secretaría de la Defensa Nacional;
+II.- Someter a la Secretaría de la Defensa Nacional los proyectos de reglamentos de este Código, de la Policía y demás que fueran necesarios;
 
-II.- ordenar a los agentes la formación de averiguaciones previas, sobre hechos que estime pudieran dar como resultado el esclarecimiento de que se ha cometido un delito de la competencia de los tribunales del fuero de guerra;
+III.- Emitir los manuales de organización, funcionamiento y procedimientos de la Fiscalía General y de los organismos que le dependan;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+IV.- Aprobar y evaluar los planes y programas que le presenten los órganos de la Fiscalía General, para cumplir los objetivos institucionales;
 
-III.- Perseguir por sí mismo o por medio de sus agentes, ante los tribunales del fuero de guerra, los delitos contra la disciplina militar, solicitando las órdenes de aprehensión en contra de los inculpados, buscando y presentando las pruebas que acrediten la responsabilidad de éstos, cuidando de que los juicios se sigan con regularidad, pidiendo la aplicación de las penas que corresponda. Promoviendo lo conducente para que éstas sean debidamente cumplidas;
+V.- Expedir los nombramientos de los Fiscales, Coordinadores, Agentes del Ministerio Público y demás funcionarios de la Fiscalía General, así como reasignarlos a las distintas áreas, conforme lo requieran las necesidades del servicio, para el debido cumplimiento de las funciones de la institución;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+VI.- Coordinar con la Secretaría de Marina, la designación de personal del Servicio de Justicia Naval Licenciados en Derecho y de apoyo, a fin de que presten sus servicios en la Fiscalía General;
 
-IV.- Pedir instrucciones a la Secretaría de la Defensa Nacional, en los casos en que por su importancia así se requiera, emitiendo las consideraciones y opinión que juzgue procedentes;
+VII.- Celebrar convenios, acuerdos y bases de colaboración en todas las materias afines a sus funciones, con sus homólogos del Fuero Federal y Común, y otras autoridades; así como con organismos públicos autónomos y organizaciones de los sectores social y privado;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+VIII.- Autorizar los programas de profesionalización y capacitación de los Fiscales, Agentes del Ministerio Público, Agentes de la Policía Ministerial, y demás personal de la Fiscalía General;
 
-V.- Rendir los informes que las Secretarías de la Defensa Nacional o de Marina, así como el Supremo Tribunal Militar le soliciten;
+IX.- Emitir los acuerdos, circulares, instructivos, protocolos y demás disposiciones para regular la actuación del personal de la Fiscalía General;
 
-VI.- dar a los agentes las instrucciones que estime necesarias para el mejor cumplimiento de su encargo, expedirles circulares y dictar todas las medidas económicas y disciplinarias convenientes, para lograr la unidad de acción del Ministerio Público;
+X.- Comisionar a los Fiscales y a los Agentes del Ministerio Público, que sean necesarios, en los asuntos de la competencia de la Fiscalía General;
 
-VII.- encomendar a cualquiera de sus agentes, el despacho de determinado negocio, independientemente de sus labores permanentes;
+XI.- Establecer o modificar la adscripción de los Agentes del Ministerio Público, de acuerdo a las necesidades del servicio;
 
-VIII.- hacerse representar por sus agentes en diligencias a que deba concurrir, excepto en aquellas en que sea indispensable su presencia;
+XII.- Autorizar licencias que no excedan de ocho días al personal de la Fiscalía General, de acuerdo con la normativa;
 
-IX.- calificar las excusas que presenten los agentes para intervenir en determinado negocio;
+XIII.- Velar por el respeto de los derechos humanos en la esfera de su competencia; para el efecto se deberá:
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+a) Fomentar entre los servidores públicos de la Institución una cultura de respeto a los derechos humanos.
 
-X.- Solicitar a las Secretarías de la Defensa Nacional y a la de Marina, según corresponda, las remociones que para el buen servicio estime necesarias;
+b) Establecer disposiciones para la atención de solicitudes de información conforme a la normativa de la materia, visitas y quejas en materia de derechos humanos.
 
-XI.- pedir que se hagan efectivas las responsabilidades en que incurran los funcionarios judiciales;
+c) Colaborar con otras Instituciones para la atención de requerimientos relacionados con el respeto a los derechos humanos.
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+d) Emitir disposiciones para la observancia y atención en términos de ley, de las recomendaciones de la Comisión Nacional de los Derechos Humanos, así como dar cumplimiento a las de organismos internacionales de protección de derechos humanos, reconocidos por el Estado Mexicano.
 
-XII.- Otorgar licencias que no excedan de ocho días a los agentes y subalternos del Ministerio Público, dando aviso a las Secretarías de la Defensa Nacional y a la de Marina, según corresponda;
+XIV.- Participar en la elaboración del Programa Sectorial de la Secretaría de la Defensa Nacional, en los aspectos de su competencia;
 
-XIII.- recabar de las oficinas públicas, toda clase de informes o documentación que necesitare en el ejercicio de sus funciones;
+XV.- Implementar acciones en materia de prevención del delito;
 
-XIV.- formar la estadística criminal militar;
+XVI.- Ordenar la elaboración de la estadística en materia criminal y establecer la coordinación necesaria con el Tribunal Superior Militar y la Defensoría de Oficio Militar, para los mismos efectos;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+XVII.- Administrar los recursos humanos, financieros y materiales necesarios para el cumplimiento de sus funciones, así como mantener actualizada y sistematizada la información respectiva;
 
-XV.- Iniciar ante las Secretarías de la Defensa Nacional y la de Marina, las leyes y reglamentos que estime necesarios para la mejor administración de justicia;
+XVIII.- Certificar al personal de Agentes del Ministerio Público Militar, Policías Ministeriales que cumpla los estándares del Sistema Nacional de seguridad Pública;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+XIX.- Ordenar el control administrativo de los bienes muebles e inmuebles que tenga a cargo la institución;
 
-XVI.- Formular el proyecto de reglamento del Ministerio Público Militar, sometiéndolo a la aprobación de las Secretarías de la Defensa Nacional y a la de Marina;
+XX.- Las demás que le confieran las disposiciones legales aplicables.
 
-XVII.- investigar, con especial diligencia, las detenciones arbitrarias que se cometan, promover el castigo de los responsables y adoptar las medidas legales para hacer que cesen aquéllas;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
-XVIII.- Celebrar acuerdo con las autoridades superiores de las Secretarías de la Defensa Nacional y de Marina, según corresponda, dándoles cuenta de los principales asuntos técnicos de la institución;
+ARTICULO 81 BIS.- Son facultades del Fiscal General, las cuales en su ausencia delega al Fiscal General Adjunto, al Fiscal Militar Auxiliar y al Fiscal Militar de Investigación del Delito y Control de Procesos, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+I.- Autorizar al Agente del Ministerio Público el desistimiento de la acción penal conforme a lo dispuesto en el Código Militar de Procedimientos Penales;
 
-XIX.- Llevar con toda escrupulosidad y por duplicado, las hojas de actuación de todos los funcionarios y empleados que dependan de la Procuraduría General de Justicia Militar, haciendo las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado será enviado a las Secretarías de la Defensa Nacional y de Marina, según corresponda, y
+II.- Autorizar al Ministerio Público la solicitud sobre la cancelación de las órdenes de aprehensión en términos del Código Militar de Procedimientos Penales;
 
-XX.- usar de las vías de apremio, en los casos en que fueren desatendidas las citas a que se refiere el artículo 38.
+III.- Autorizar al Ministerio Público que solicite al Juez Militar de Control la no imposición de la prisión preventiva oficiosa para que la sustituya por otra medida cautelar en términos del Código Militar de Procedimientos Penales;
+
+IV.- Autorizar a la Policía Ministerial Militar en el marco de una investigación, la entrega vigilada y las operaciones encubiertas en términos del Código Militar de Procedimientos Penales;
+
+V.- Autorizar al Ministerio Público la aplicación de los criterios de oportunidad conforme al Código Militar de Procedimientos Penales;
+
+VI.- Solicitar a la Autoridad Judicial Federal, la autorización para practicar intervención a comunicaciones privadas exclusivamente respecto a los hechos que se investigan en el ámbito de su competencia a personal militar y en términos del Código Militar de Procedimientos Penales;
+
+(NOTA: EL 17 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 46/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 17 DE MAYO DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VII.- SOLICITAR PREVIA AUTORIZACIÓN JUDICIAL A LOS CONCESIONARIOS O PERMISIONARIOS O COMERCIALIZADORAS DEL SERVICIO DE TELECOMUNICACIONES O COMUNICACIÓN VÍA SATÉLITE, LA LOCALIZACIÓN GEOGRÁFICA EN TIEMPO REAL DE LOS EQUIPOS DE COMUNICACIÓN MÓVIL ASOCIADOS A UNA LÍNEA QUE SE ENCUENTREN RELACIONADOS EXCLUSIVAMENTE CON LOS HECHOS QUE SE INVESTIGAN A PERSONAL MILITAR EN EL ÁMBITO DE SU COMPETENCIA Y EN TÉRMINOS DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES;
+
+VIII.- Pronunciarse cuando el Juez Militar de Control haga de su conocimiento el incumplimiento del Ministerio Público de los deberes previstos en el Código Militar de Procedimientos Penales;
+
+IX.- Las demás que le confieran las disposiciones legales aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 82.
 
-Son atribuciones y deberes de los agentes adscritos a la Procuraduría General Militar:
+Son atribuciones y deberes de los Fiscales Militares:
 
-I.- Dictaminar en los asuntos que reciba la Procuraduría para su revisión, así como sobre los pedimentos o conclusiones que se formulen en los procesos o investigaciones;
+I.- Transmitir al personal a su cargo las órdenes, directivas, acuerdos, circulares, instructivos, protocolos y demás disposiciones emitidas por el Fiscal General;
 
-II.- pedir la incoación del procedimiento por conducto de los respectivos comandantes de las guarniciones en vista de las averiguaciones, denuncias y actas de que deban conocer, ejercitando la acción correspondiente y solicitando, en su caso, la aprehensión de los delincuentes;
+II.- Coordinar y supervisar el correcto desempeño del personal bajo su responsabilidad;
 
-III.- actuar como adscritos al Supremo Tribunal Militar;
+III.- Representar en el ámbito de su competencia a la Fiscalía General, ante las autoridades administrativas, ministeriales y judiciales, en los casos que legalmente se requiera;
 
-IV.- fungir como asesores en cuanto al régimen carcelario de la Prisión Militar de la plaza en que radiquen;
+IV.- Supervisar que los asuntos de su competencia se atiendan en tiempo y forma en cumplimiento a los ordenamientos legales y a las disposiciones que resulten aplicables;
 
-V.- los demás que enumera el artículo siguiente en cuanto sean aplicables.
+V.- Dirigir las actividades encomendadas a su cargo, supervisando las funciones que les correspondan a las áreas que les dependan;
+
+VI.- Establecer mecanismos de coordinación con otras áreas de la Fiscalía General, para el eficiente cumplimiento de sus funciones;
+
+VII.- Mantener coordinación con los órganos de investigación del delito a nivel Federal, de la Ciudad de México y de los Estados, para la obtención de documentación, información, colaboración y apoyo necesario para el cumplimiento de sus funciones;
+
+VIII.- Recibir en acuerdo a las áreas que le dependan;
+
+IX.- Supervisar la actualización de las bases de datos correspondientes a las áreas de su responsabilidad;
+
+X.- Atender los requerimientos que formulen las autoridades Judiciales, Ministeriales, de particulares y otras instituciones;
+
+XI.- Formular propuestas de cambio de personal de su adscripción para el buen funcionamiento de la Fiscalía de su responsabilidad;
+
+XII.- Acordar los asuntos de su competencia con el Fiscal General o el Fiscal General Adjunto, según corresponda;
+
+XIII.- Las demás que les confieran las Leyes y Reglamentos Militares o el Fiscal General.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 83.
 
-Son atribuciones y deberes de los agentes adscritos a los juzgados:
+Las funciones del Ministerio Público, son las siguientes:
 
-> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+I.- Vigilar que en toda investigación de los delitos se cumpla estrictamente con el respeto de los derechos humanos reconocidos en la Constitución y en los tratados internacionales firmados y ratificados por el estado mexicano;
 
-I.- Desde las primeras diligencias de investigación de los delitos, recabar y presentar las pruebas que acrediten el cuerpo del delito y la probable responsabilidad de los indiciados, para ejercer la acción penal debidamente fundada y motivada, solicitando las órdenes de aprehensión o de comparecencia que procedan y las demás determinaciones judiciales que sean pertinentes para hacer efectiva tal acción;
+II.- Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
 
-II.- formular pedimento en las averiguaciones a que se refiere el artículo 81 fracción II, una vez que estén practicadas las diligencias respectivas y que se llevarán a cabo en un plazo no mayor de ciento veinte días. Si estimare que no hay base para iniciar procedimiento, enviará la averiguación correspondiente al Procurador General de Justicia Militar, con informe justificado, para que éste, oyendo a sus adscritos, resuelva si confirma o no su opinión;
+III.- Ejercer la conducción y el mando de la investigación de los delitos, para lo cual deberá coordinar a las Policías y a los peritos durante la misma;
 
-III.- formular sus pedimentos en forma clara y precisa, con consideraciones de hecho y de derecho, señalando las leyes aplicables al caso;
+IV.- Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento;
 
-IV.- consultar al Procurador General en todos los negocios que fuere necesario, exponiéndole el caso de que se trate y la opinión que de él se hayan formado;
+V.- Ordenar la suspensión o el aseguramiento de cuentas, títulos de crédito y en general cualquier bien o derecho relativos a operaciones que las instituciones financieras establecidas en el país celebren con sus clientes;
 
-V.- cumplimentar las instrucciones del Procurador General, pudiendo, en caso de opinar de modo distinto, hacer por escrito las observaciones que procedan. Si el Procurador insistiere, deberán acatar desde luego sus instrucciones;
+VI.- Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del Órgano jurisdiccional militar, así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación;
 
-VI.- dar aviso al Procurador de la incoación de los procesos;
+VII.- Dejar registro de todas sus actuaciones que realice durante la investigación en la carpeta de investigación, permitiendo el acceso a quienes tengan derecho a ello conforme a la ley;
 
-VII.- concurrir a las diligencias judiciales, audiencias y visitas de cárceles que practique el juzgado a que estén adscritos, informando a la Procuraduría del resultado;
+VIII.- Ordenar a la Policía Ministerial Militar y a sus auxiliares, en el ámbito de su competencia, la práctica de actos de investigación conducentes para el esclarecimiento del hecho delictivo, así como analizar las que dichas autoridades hubieren practicado;
 
-VIII.- interponer en tiempo y forma los recursos legales procedentes, expresando los agravios respectivos;
+IX.- Instruir a la Policía Ministerial Militar sobre la legalidad, pertinencia, suficiencia y contundencia de los indicios recolectados o por recolectar, así como las demás actividades y diligencias que deben ser llevadas a cabo dentro de la investigación;
 
-IX.- comunicar a la Procuraduría todas las irregularidades que adviertan en la administración de justicia;
+X.- Requerir informes o documentación a otras autoridades y a particulares, así como solicitar la práctica de peritajes y diligencias para la obtención de otros medios de prueba;
 
-X.- manifestar al Procurador los motivos de excusa que tuvieren para intervenir en los negocios en que se consideren impedidos;
+XI.- Solicitar al Fiscal General o al Fiscal General Adjunto, requieran la autorización para practicar intervención a comunicaciones privadas ante el Juez Federal cuando lo requiera la investigación, que se realice sobre los hechos probablemente cometidos por personal militar, que sean exclusivamente competencia de la jurisdicción castrense;
 
-XI.- rendir los estados mensuales y, además, los informes que la Procuraduría solicite;
+XII.- Gestionar en coordinación con la Policía Ministerial Militar la autorización del Fiscal General o Fiscal General Adjunto, para realizar dentro de la investigación la entrega vigilada y las operaciones encubiertas;
 
-XII.- usar de las vías de apremio en los casos en que fueren desatendidas las citas a que se refiere el artículo 38;
+(NOTA: EL 17 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 46/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 17 DE MAYO DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XIII.- los adscritos a los juzgados foráneos fungirán, por lo que toca a régimen carcelario, como asesores del Director de la Prisión Militar que haya en el lugar en que residan;
+XIII.- SOLICITAR AL FISCAL GENERAL O FISCAL GENERAL ADJUNTO, QUE REQUIERA A LOS CONCESIONARIOS O PERMISIONARIOS O COMERCIALIZADORAS DEL SERVICIO DE TELECOMUNICACIONES O COMUNICACIÓN VÍA SATÉLITE, LA LOCALIZACIÓN GEOGRÁFICA EN TIEMPO REAL DE LOS EQUIPOS DE COMUNICACIÓN MÓVIL ASOCIADOS A UNA LÍNEA QUE SE ENCUENTREN RELACIONADOS CON LOS HECHOS QUE SE INVESTIGAN, PROBABLEMENTE COMETIDOS POR PERSONAL MILITAR, EXCLUSIVAMENTE EN EL ÁMBITO DE COMPETENCIA DE LA JUSTICIA MILITAR;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+XIV.- Solicitar al Órgano jurisdiccional militar la autorización de actos de investigación y demás actuaciones que sean necesarias dentro de la misma;
 
-XIV.- Atender a los derechos que tiene la víctima o el ofendido, contemplados en el último párrafo del artículo 20 Constitucional;
+XV.- Proporcionar información veraz sobre los hechos, sobre los hallazgos en la investigación al imputado o su defensor y la víctima u ofendido, sin ocultar elemento alguno que pudiera resultar favorable para la posición que ellos asuman, salvo aquellos que deban mantenerse en reserva previa autorización del Juez Militar de Control y en su caso efectuar el descubrimiento probatorio en el momento procesal oportuno;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+XVI.- Realizar una investigación objetiva que contemple tanto a los elementos de cargo como de descargo a efecto de garantizar el respeto de los derechos de las partes y el debido proceso, al grado de que, si al concluir la investigación complementaria, solicite el sobreseimiento del proceso, o bien, en la audiencia de juicio solicite la absolución o una condena más leve, que aquella que sugiere la acusación, si estas son procedentes;
 
-XV.- Ordenar a la policía que, tratándose de delitos contra la disciplina militar, brinde protección a víctimas, ofendidos, testigos, jueces, magistrados, agentes del ministerio público y, en general, a todos los sujetos que intervengan en el procedimiento con el objetivo de prevenir cualquier acto que ponga en peligro la vida o la integridad física de dichas personas;
+XVII.- Ordenar la detención y la retención de los imputados cuando resulte procedente en los términos que establece este Código;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVIII.- Solicitar al personal militar la aportación voluntaria de muestras de fluido corporal, vello o cabello, exámenes corporales de carácter biológico, extracciones de sangre u otros análogos, así como que se le permita obtener imágenes internas o externas de alguna parte del cuerpo, siempre que no implique riesgos para la salud y la dignidad de la persona, debiendo constar el registro correspondiente de su consentimiento y en caso de negativa solicitar al Juez Militar de Control la autorización para su obtención;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+XIX.- Brindar las medidas de seguridad necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo la identificación del imputado, sin riesgo para ellos;
 
-XVI.- Intervenir en las audiencias públicas ante el Juez de Ejecución de Sentencias, relativas a la concesión o revocación de beneficios que supongan una modificación en las condiciones del cumplimiento de la condena o una reducción del tiempo de privación efectiva de la libertad, y
+XX.- Determinar el archivo temporal y el no ejercicio de la acción penal, así como ejercer la facultad de no investigar en los casos autorizados por el Código Militar de Procedimientos Penales, sometiéndola a consideración del Fiscal General;
 
-> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+XXI.- Aplicar los criterios de oportunidad con autorización del Fiscal General o Fiscal General Adjunto;
 
-XVII.- Las demás que les encomiende el Procurador General y las leyes y reglamentos.
+XXII.- Asistir en forma oportuna a todas las audiencias relativas a la investigación que práctica, realizando las peticiones en base a los datos y medios de prueba que las sustenten; así como los alegatos y objeciones que en cada caso procedan;
+
+XXIII.- Promover las acciones necesarias para que se provea la seguridad y proporcionar el auxilio a víctimas u ofendidos de los delitos competencia de la Jurisdicción Militar, testigos, peritos y, en general, a todos los sujetos que con motivo de su intervención en el procedimiento, cuya vida o integridad corporal se encuentren en riesgo inminente;
+
+XXIV.- Canalizar a menores de edad, personas con discapacidad, o adultos mayores que dependan del imputado a instituciones de asistencia social, cuando no haya personas que puedan hacerse cargo de su cuidado;
+
+XXV.- Ejercer la acción penal cuando proceda;
+
+XXVI.- Desistirse de la acción penal, con autorización del Fiscal General o Fiscal General Adjunto;
+
+XXVII.- Solicitar al Juez Militar de Control las órdenes de aprehensión, comparecencia o citatorio cuando pretenda formular la imputación;
+
+XXVIII.- Solicitar las órdenes para efectuar un cateo, en los términos y condiciones que señala la ley;
+
+XXIX.- Solicitar al Juez Militar de Control la cancelación de las órdenes de aprehensión con autorización del Fiscal General o Fiscal General Adjunto;
+
+XXX.- Poner a disposición del Órgano jurisdiccional militar a las personas detenidas dentro de los plazos establecidos en el presente Código;
+
+XXXI.- Solicitar al Juez Militar de Control la no imposición de la prisión oficiosa pidiendo su sustitución por otra medida cautelar con autorización del Fiscal General o Fiscal General Adjunto;
+
+XXXII.- Promover las formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables;
+
+XXXIII.- Solicitar la reclasificación de la conducta o hecho por los cuales se hubiese ejercido la acción penal;
+
+XXXIV.- Solicitar al Juez Militar de Control las providencias precautorias;
+
+XXXV.- Decretar las medidas de protección y solicitar su ratificación ante el Juez Militar de Control;
+
+XXXVI.- Solicitar las medidas cautelares aplicables al imputado en el proceso, en atención a las disposiciones conducentes y promover su cumplimiento;
+
+XXXVII.- Autorizar la dispensa de la necropsia previa solicitud de los familiares;
+
+XXXVIII.- Comunicar al Órgano jurisdiccional militar y al imputado los hechos, así como los datos de prueba que los sustentan y la fundamentación jurídica, atendiendo al objetivo o finalidad de cada etapa del procedimiento;
+
+XXXIX.- Solicitar al Órgano jurisdiccional militar la imposición de las penas o medidas de seguridad que correspondan;
+
+XL.- Solicitar el pago de la reparación del daño a favor de la víctima u ofendido del delito, sin perjuicio de que éstos lo pudieran solicitar directamente;
+
+XLI.- Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución;
+
+XLII.- Excusarse en caso de impedimento legal;
+
+XLIII.- Colaborar con la Fiscalía General de la República y de las Entidades Federativas, en los términos de los convenios que se suscriban;
+
+XLIV.- Turnar a las autoridades correspondientes los asuntos que no sean de su competencia;
+
+XLV.- Decretar el aseguramiento de los objetos, instrumentos y productos del delito, así como de las evidencias, valores y substancias relacionadas con el mismo levantando un inventario de éstos y cerciorándose que el procedimiento de la cadena de custodia se haya establecido;
+
+XLVI.- Determinar el destino final de bienes puestos a su disposición que no hayan estado relacionados con el delito, ordenando su devolución o promover la declaración de abandono a favor del Estado, para su destrucción o aprovechamiento lícito en beneficio de las Fuerzas Armadas, mediante el procedimiento que establezcan las disposiciones legales aplicables;
+
+XLVII.- Solicitar la aplicación de las medidas de apremio previstas en el Código Militar de Procedimientos Penales, para hacer cumplir sus determinaciones, independientemente de la facultad para iniciar investigación, en caso de que se cometa un delito;
+
+XLVIII.- Efectuar el registro de militares detenidos y puestos a su disposición en relación a la integración de carpetas de investigación, así como atender las solicitudes de información sobre dicho registro;
+
+XLIX.- Mantener la secrecía de la investigación, permitiendo el acceso de ella sólo al personal autorizado por la ley,
+
+L.- Interponer los recursos legales en contra de autos y sentencias, así como las excepciones, incidentes, nulidad, saneamiento y convalidación de actos en términos del Código Militar de Procedimientos Penales,
+
+LI.- Intervenir en los incidentes relativos a la ejecución, sustitución, modificación o extinción de las penas o medidas de seguridad, así como en el otorgamiento de beneficios preliberacionales y demás actos en que se requiera ante el Juez de ejecución,
+
+LII.- Las demás que las leyes determinen.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 84.
 
-Los agentes del Ministerio Público auxiliares tendrán dentro de su situación, las mismas facultades y deberes que los adscritos a los juzgados.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO V. Autores
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO VI. Defensoría de Oficio Militar
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 85.
 
-Son atribuciones y deberes del jefe del cuerpo de defensores:
+Son facultades y deberes del Defensor General:
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+I.- Disponer que los defensores, en los asuntos del orden militar, brinden asesoría técnica legal y defensa penal al personal militar durante el procedimiento penal, cuando los requiera el Agente del Ministerio Público o el Órgano jurisdiccional militar, según sea el caso;
 
-I.- Defender por sí mismo o por medio de los defensores de oficio, al personal militar, desde el momento de su detención o desde su primera comparecencia ante el órgano investigador, gestionando cuanto fuere conducente a favor de los mismos;
+II.- Tratándose de asuntos de defensa en el procedimiento penal ante tribunales del orden común y federal, el Defensor General, previa solicitud del interesado, podrá autorizar la defensa, siempre y cuando se trate de hechos que estén vinculados con actos del servicio y no cuente con defensor;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+III.- Dar a los Defensores las instrucciones que estime necesarias para que desempeñen debidamente sus funciones, expedirles circulares, dictar todas las acciones administrativas o disciplinarias para dar calidad profesional a la garantía de defensa;
 
-II.- rendir los informes que la Secretaría de la Defensa Nacional y el Supremo Tribunal Militar soliciten;
+IV.- Calificar las excusas que tuvieren los defensores para intervenir en determinado asunto;
 
-III.- dar a los defensores las instrucciones que estimen necesarias para que desempeñen debidamente sus funciones; expedirles circulares y dictar todas las medidas económicas y disciplinarias para dar unidad, eficacia y rapidez a la acción de la defensa;
+V.- Solicitar a la Secretaría correspondiente las remociones que sean necesarias para el mejor servicio;
 
-IV.- calificar las excusas que tuvieren los defensores para intervenir en determinado negocio;
+VI.- Presidir el consejo técnico que substanciará y resolverá los procedimientos derivados de las quejas que se formulen en contra de los Defensores públicos militares;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+VII.- Recabar de las oficinas públicas, toda clase de informes o documentos que sean necesarios en el ejercicio de sus funciones;
 
-V.- solicitar de la Secretaría de la Defensa Nacional las remociones que se hagan necesarias para el mejor servicio;
+VIII.- Dirigir la formación de la estadística y rendir los informes que le sean solicitados oficialmente;
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+IX.- Encomendar a cualquiera de los defensores el despacho de determinado asunto, relacionado con actos propios del servicio, independientemente de sus labores permanentes;
 
-VI.- Resolver las quejas que el personal a que se refiere la fracción I, formulen en contra de los Defensores, acordando lo que proceda;
+X.- Informar a las Secretarías de los asuntos administrativos de su competencia;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+XI.- Supervisar las actividades de los defensores, con el fin de verificar que su desempeño profesional cumpla con el principio constitucional de una defensa adecuada;
 
-VII.- Conceder a los defensores y demás personal subalterno del cuerpo, licencias hasta por cinco días, con aviso a la Secretaría de la Defensa Nacional y de Marina según corresponda;
+XII.- Llevar a cabo mensualmente visitas de cárcel, en el lugar de su residencia;
 
-VIII.- recabar de las oficinas públicas toda clase de informes o documentos, que necesitare en el ejercicio de sus funciones;
+XIII.- Coordinar con las Secretarías, para que destinen a personal del Servicio de Justicia Militar o Naval y demás personal de apoyo, a fin de que presten sus servicios en la Defensoría;
 
-IX.- dirigir la formación de la estadística correspondiente a la institución;
+XIV.- Solicitar a la Coordinación de Servicios Periciales y Ciencias Forenses su intervención para que le brinde apoyo en materia pericial y sustentar una adecuada defensa;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+XV.- Las demás que determinen las leyes y reglamentos.
 
-X.- iniciar ante la Secretaría de la Defensa Nacional, las leyes, reglamentos y medidas que estime necesarios para la mejor administración de justicia;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XI.- practicar cada mes visita de cárcel, en el lugar de su residencia;
-
-XII.- encomendar a cualquiera de los defensores el despacho de determinado negocio, independientemente de sus labores permanentes;
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-XIII.- formular el Reglamento del Cuerpo de Defensores, sometiéndolo a la aprobación de la Secretaría de la Defensa Nacional;
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-XIV.- celebrar acuerdo con las autoridades superiores de la Secretaría de la Defensa Nacional, dándoles cuenta de los principales asuntos técnicos de la institución;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-XV.- Llevar por duplicado las hojas de actuación de los defensores y el demás personal que dependan del cuerpo, haciendo en ellas las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de las mismas; y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se enviará a la Secretaría de la Defensa Nacional y de Marina, según corresponda, y
-
-XVI.- las demás que determinen las leyes y reglamentos.
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 86.
 
-Son atribuciones y deberes de los defensores adscritos a los tribunales:
+Son obligaciones comunes de los defensores:
 
-I.- Promover desde las primeras diligencias, todo lo que favorezca a sus defensos, buscando y ofreciendo las pruebas conducentes;
+I.- Asistir jurídicamente al imputado, acusado o sentenciado desde el momento de su designación ante el Órgano investigador o Jurisdiccional, en la práctica de diligencias, así como en todas las audiencias que establezca la ley, siempre que no tengan impedimento legal para dichos efectos, presentando los argumentos y ofreciendo los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una defensa adecuada;
 
-II.- formular sus promociones en forma clara y precisa, con consideraciones de hecho y de derecho, señalando las leyes aplicables al caso;
+II.- Abrir un expediente de control de cada uno de los asuntos a su cargo, que se integrará con las promociones y escritos derivados del caso;
 
-III.- consultar al jefe del Cuerpo en todos los negocios en que fuere necesario, exponiéndole el caso de que se trate y la opinión que de él se hayan formado;
+III.- Realizar las acciones necesarias que tengan por objeto la impugnación, modificación, sustitución o cancelación de las medidas cautelares que se puedan decretar durante el procedimiento, así como solicitar el no ejercicio de la acción penal;
 
-IV.- cumplimentar las instrucciones que el jefe del Cuerpo les diere;
+IV.- Formular sus promociones en forma clara y precisa, con consideraciones de hecho y de derecho, fundamentándolas tanto en la legislación nacional como en los instrumentos internacionales;
 
-V.- dar aviso a la Jefatura del Cuerpo, de la incoación de los procesos en que intervengan;
+V.- Promover a favor de su representado la aplicación de soluciones alternas o formas de terminación anticipada del procedimiento penal;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
+VI.- Asesorar al imputado para la celebración de los acuerdos que permitan salidas alternas y terminación anticipada en el procedimiento penal;
 
-VI.- Interponer en tiempo y forma los recursos procedentes, así como promover el juicio de amparo cuando se violen los derechos humanos de los procesados y sentenciados y defender a éstos cuando lo soliciten ante los tribunales del orden común o federal.
+VII.- Consultar al Jefe o Subjefe de la Defensoría, o bien al Jefe de la Sección Técnica o Subsección de Defensores, en todos los asuntos que estime necesario, exponiéndole el caso de que se trate y la opinión que de él se haya formado;
 
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+VIII.- Mantener informados a sus representados del estado de sus procesos;
 
-En la etapa de la ejecución de penas, asesorarán y representarán al sentenciado para la tramitación de los beneficios penitenciarios que la ley les concede;
+IX.- Informar y presentar por escrito al Defensor General, los motivos de excusa que tuvieren para intervenir en los asuntos en que se consideren impedidos;
 
-VII.- concurrir a las diligencias, audiencias y visitas de cárceles que practique el juzgado a que estén adscritos, informando al jefe del resultado;
+X.- Rendir los informes mensuales de los procesos a su cargo y los demás que les ordene el Defensor General;
 
-VIII.- visitar dos veces al mes a sus defensos, informándoles del estado de sus procesos;
+XI.- Cumplir con la asignación que les haga el Defensor General de la Defensoría para intervenir en los asuntos del orden común o federal, ejerciendo sus facultades y obligaciones al respecto;
 
-IX.- gestionar el pago de haberes de los procesados;
+XII.- Solicitar al Centro Militar de Ciencias Forenses su intervención para recabar peritajes que resulten necesarios para respaldar la defensa instrumentada;
 
-X.- comunicar al jefe del Cuerpo, todas las irregularidades que adviertan en la administración de justicia;
+XIII.- Asistir en forma oportuna a todas las audiencias relativas a la investigación que practica el Ministerio Público, realizando las peticiones con base a los datos, medios de prueba y pruebas que las sustenten; así como los alegatos y objeciones que en cada caso procedan;
 
-XI.- manifestar al jefe del Cuerpo, los motivos de excusa que tuvieren para intervenir en los negocios en que se consideren impedidos;
+XIV.- Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución e instrumento (sic) internacionales;
 
-XII.- rendir los estados mensuales y, además, los informes que les pida el jefe del Cuerpo;
+XV.- Colaborar con la Defensoría Pública Federal y de la Entidades Federativas en los términos de los convenios que se suscriban;
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+XVI.- Intervenir en los incidentes relativos a la ejecución, sustitución, modificación o extinción de las penas o medidas de seguridad, así como en el otorgamiento de beneficios preliberacionales y demás actos en que se requiera ante el Juez de ejecución;
 
-XIII.- los demás que determinen las leyes y reglamentos.
+XVII.- Interponer los recursos o incidentes en términos de la legislación aplicable y en su caso promover el juicio de amparo en defensa de sus representados;
+
+XVIII.- Previa designación, proporcionar asesoría legal y representar a los militares en los procedimientos administrativos de responsabilidad ante el Órgano interno de control, en las Secretarías de la Defensa Nacional o de Marina, según corresponda; siempre que se trate de procedimientos derivados de la actuación del personal militar en ejercicio de sus funciones castrenses;
+
+XIX.- Asistir a la audiencia de individualización de sanciones, cumpliendo las obligaciones previstas en la fracción I;
+
+XX.- Las demás atribuciones y deberes que esta Ley y otros ordenamientos le asignen.
 
 ## TITULO SEXTO. Prevenciones generales
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
 ###### ARTICULO 87.
 
-El personal del servicio de justicia estará sujeto, en lo que le concierna, a las leyes, reglamentos y disposiciones del Ejército Nacional; siendo los que lo integren cuando sean militares de servicio de carrera profesional y permanente, como los de guerra.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 88.
 
-El ingreso al Servicio de Justicia Militar para funciones que requieran el título de abogado, se hará con el grado de teniente coronel de servicio o auxiliar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 89.
 
-Los letrados que pertenezcan al Servicio de Justicia, no desempeñarán otro empleo o cargo administrativo; podrán ejercer su profesión excepto los magistrados, el Procurador General y los jueces, sólo en asuntos ajenos a la Administración de Justicia Militar y en los que la Federación no sea parte, y desempeñar cargos docentes sin la excepción dicha; pero sin perjuicio de la preferente atención que deben prestar al desempeño de sus funciones.
+El personal del servicio de justicia militar, licenciados en derecho que pertenezcan al Servicio de Justicia, no desempeñarán otro empleo o cargo administrativo; podrán ejercer su profesión, excepto los magistrados, el Fiscal General y los jueces, sólo en asuntos ajenos a la Administración de Justicia Militar y en los que la Federación no sea parte, y desempeñar cargos docentes sin la excepción dicha; pero sin perjuicio de la preferente atención que deben prestar al desempeño de sus funciones.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 90.
 
-Para la organización de los consejos de guerra, en cuanto a la jerarquía del acusado, se observarán las siguientes reglas:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Los miembros de los Consejos tendrán igual o superior jerarquía que el acusado, hecha la equivalencia que corresponda;
-
-II.- cuando por cualquier circunstancia no tenga el acusado una jerarquía para la equivalencia, se determinará ésta por las consideraciones de que goce aquél desde el punto de vista militar: sueldo, naturaleza de las funciones, etc.;
-
-III.- cuando se trate de un prisionero de guerra de fuerza considerada beligerante, se atenderá a la categoría militar que tenga el prisionero en el ejército a que pertenezca; si no se puede precisar aquélla, será juzgado como individuo de tropa.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 91.
 
-El presidente del Consejo de Guerra tendrá facultades para designar, de entre los vocales, al que deba fungir como secretario.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 92.
 
-Los funcionarios del Servicio de Justicia Militar tendrán facultades para imponer amonestación y arresto en los términos de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos y de la Ley de Disciplina para el Personal de la Armada de México, como correcciones disciplinarias, a sus subalternos, por las faltas que cometan en el desempeño de sus cargos. El Supremo Tribunal de Justicia Militar, el Procurador General y el Jefe del Cuerpo de Defensores Militares podrán proponer, además, a la Secretaría de la Defensa Nacional y a la de Marina, con el mismo carácter y por igual motivo, el cambio de adscripción de los jueces, agentes y defensores; y si tal cambio no fuese aprobado, podrán cambiar la corrección.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 93.
 
-Los tribunales militares tienen la obligación de mantener el orden en todos los actos de la Administración de Justicia; de exigir que se les guarde el respeto y las consideraciones debidos y de hacer que se cumplan las determinaciones que dicten en el curso de los procesos o de las audiencias, corrigiendo disciplinariamente las faltas que se cometieren en alguno de esos casos, por los militares o paisanos que con cualquier carácter concurran. Si la falta de que se trate llegare a constituir un delito, se dará conocimiento al Ministerio Público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 94.
 
-Las correcciones disciplinarias que, en el caso del artículo anterior, pueden imponerse, son:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Amonestación;
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-II.- multa hasta de cien pesos;
-
-III.- arresto hasta por quince días;
-
-IV.- suspensión en el ejercicio de la profesión hasta por un mes.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 95.
 
-Los tribunales, en caso de tener conocimiento de alguna falta de los agentes, darán aviso al Procurador General, remitiéndole, si la falta fuere por escrito, copia de lo conducente para que obre de acuerdo con sus facultades.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 96.
 
-Cuando alguno de los agentes del Ministerio Público entable contienda de jurisdicción, dará aviso desde luego y por escrito, al Procurador General, exponiendo los motivos de su promoción.
+Cuando alguno de los agentes del Ministerio Público entable contienda de competencia, dará aviso desde luego y por escrito, al Fiscal General, exponiendo los motivos de su promoción.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 97.
 
-Además de las causas de impedimento que para ser defensor señala este Código, los militares no podrán, en caso alguno, desempeñar el cargo de defensores, cuando estuvieren investidos de otro en la administración de Justicia Militar. Tampoco podrán ser defensores, cuando sean superiores al juez o a alguno de los miembros que deben juzgar al procesado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 98.
 
-Los defensores particulares rendirán la protesta de ley ante el juez o tribunal respectivos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
 # LIBRO SEGUNDO. De los delitos, faltas, delincuentes y penas
 
@@ -1170,7 +1810,7 @@ La infracción de este precepto no será punible cuando el delincuente esté lig
 
 ## TITULO PRIMERO. De los delitos y de los responsables
 
-### CAPITULO VI. Cómplices
+### CAPITULO I. Clasificación de delitos
 
 ###### ARTICULO 101.
 
@@ -1208,13 +1848,13 @@ VII.- (DEROGADA, D.O.F. 13 DE JUNIO DE 2014)
 
 Para que la imprudencia sea punible, se necesita que se consume, y que no sea tan leve que, si fuere delito intencional, sólo se castigaría con prisión de un mes.
 
-### CAPITULO VII. Encubridores
+### CAPITULO II. De las faltas
 
 ###### ARTICULO 104.
 
 Las infracciones que solamente constituyan faltas, serán castigadas de acuerdo con lo que prevenga la Ordenanza o leyes que la substituyan.
 
-### CAPITULO VIII. Circunstancias excluyentes de responsabilidad
+### CAPITULO III. Grados del delito intencional
 
 ###### ARTICULO 105.
 
@@ -1228,7 +1868,7 @@ El conato consiste en ejecutar uno o más hechos encaminados directa e inmediata
 
 El frustrado es aquel en que el agente llega hasta el último acto en que debía realizarse la consumación, si ésta no se verifica por tratarse de un delito irrealizable por imposible, porque los medios que se empleen son inadecuados o por otra causa extraña a la voluntad del agente.
 
-### CAPITULO IX. Circunstancias que atenúan o agravan la responsabilidad
+### CAPITULO IV. Reincidencia y acumulación
 
 ###### ARTICULO 107.
 
@@ -1238,7 +1878,7 @@ Hay reincidencia: siempre que el condenado por sentencia ejecutoria cometa un nu
 
 Hay acumulación, siempre que alguno es juzgado a la vez por varios delitos ejecutados en actos distintos, y aunque sean conexos entre sí, cuando no se ha pronunciado antes sentencia irrevocable y la acción para perseguirlos no está prescrita.
 
-### CAPITULO I. Reglas generales sobre las penas
+### CAPITULO V. Autores
 
 ###### ARTICULO 109.
 
@@ -1268,9 +1908,7 @@ II.- si la comisión del delito proviniese de alteración al transmitir la orden
 
 III.- si para la perpetración del delito hubiere precedido a la orden, acuerdo o concierto entre el que la expidió y alguno o varios de los que contribuyeron a ejecutarla, uno y otros serán considerados como autores.
 
-### CAPITULO II. De la prisión
-
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+### CAPITULO VI. Cómplices
 
 ###### ARTICULO 111.
 
@@ -1316,7 +1954,7 @@ Pero ni aun en estos dos casos tendrá responsabilidad por los nuevos delitos, s
 
 El que por alguno de los medios de que hablan las fracciones I, II y III del artículo 109 y II del 111, provoque o induzca a otro a cometer un delito, quedará libre de responsabilidad si desiste de su resolución e impide que el delito se consume.
 
-### CAPITULO III. De la suspensión de empleo o comisión
+### CAPITULO VII. Encubridores
 
 ###### ARTICULO 116.
 
@@ -1336,7 +1974,7 @@ Son encubridores de segunda clase: los que adquieren una cosa robada aunque no s
 
 Son encubridores de tercera clase: los que teniendo por su empleo o comisión el deber de impedir o castigar un delito, favorecen a los delincuentes sin previo acuerdo con ellos, ejecutando alguno de los hechos enumerados en las fracciones I y II del artículo 116 u ocultando a los culpables.
 
-### CAPITULO IV. De la destitución de empleo
+### CAPITULO VIII. Circunstancias excluyentes de responsabilidad
 
 ###### ARTICULO 119.
 
@@ -1374,7 +2012,7 @@ Las dos últimas excluyentes no procederán en los delitos cometidos por infracc
 
 Las circunstancias excluyentes se podrán hacer valer de oficio.
 
-### CAPITULO V. De la pena de muerte
+### CAPITULO IX. Circunstancias que atenúan o agravan la responsabilidad
 
 ###### ARTICULO 120.
 
@@ -1394,7 +2032,7 @@ IV.- la actitud del acusado con posterioridad a la comisión del delito y especi
 
 ## TITULO SEGUNDO. De las penas y sus consecuencias
 
-### CAPITULO VI. De las consecuencias legales de las penas privativas de libertad
+### CAPITULO I. Reglas generales sobre las penas
 
 ###### ARTICULO 122.
 
@@ -1444,9 +2082,9 @@ Las penas de prisión se contarán desde la fecha en que se hubiese restringido 
 
 No se estimarán como penas para los efectos de esta ley: la restricción de la libertad de un militar por detención o prisión preventiva, salvo lo dispuesto en el artículo anterior; la separación de los militares de sus cargos o comisiones, o la suspensión en el ejercicio de ellos, decretadas para la instrucción de un proceso ni las correcciones disciplinarias establecidas en este Código.
 
-### CAPITULO I. Reglas generales
+### CAPITULO II. De la prisión
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 128.
 
@@ -1466,9 +2104,7 @@ No podrán considerarse prisión militar los buques, cuarteles u oficinas milita
 
 (DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
-### CAPITULO II. Aplicación de penas a los menores de dieciocho años y a los alumnos de los establecimientos de educación militar
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+### CAPITULO III. De la suspensión de empleo o comisión
 
 ###### ARTICULO 131.
 
@@ -1492,7 +2128,7 @@ Se contará la suspensión desde que se notifique la sentencia irrevocable siemp
 
 Los sargentos y cabos suspensos en sus empleos, continuarán sirviendo como soldados y percibirán el haber de éstos en cualquier cuerpo o dependencia diferente de aquel de que formaban parte, salvo que no lo hubiere en el lugar donde deban extinguir su condena, sin abonárseles en uno ni en otro caso el tiempo de la suspensasión (sic), en el de servicios o de enganche. Respecto de los oficiales, tampoco se computará el tiempo que dure la suspensión de empleo, en el de servicios, haciéndose constar así en la hoja respectiva.
 
-### CAPITULO III. Aplicación de penas a los delitos de imprudencia
+### CAPITULO IV. De la destitución de empleo
 
 ###### ARTICULO 136.
 
@@ -1528,15 +2164,13 @@ La rehabilitación devuelve al sentenciado la capacidad legal para volver a serv
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-### CAPITULO IV. Aplicación de penas en los grados de conato y delito frustrado
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+### CAPITULO V. De la pena de muerte
 
 ###### ARTICULO 142.
 
 (DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
-### CAPITULO V. Aplicación de penas en caso de acumulación y reinsidencia (sic)
+### CAPITULO VI. De las consecuencias legales de las penas privativas de libertad
 
 ###### ARTICULO 143.
 
@@ -1556,7 +2190,9 @@ A los sargentos, cabos y soldados procesados por el delito de deserción simple 
 
 ## TITULO TERCERO. Aplicación, Substitución y Reducción de las Penas
 
-### CAPITULO VI. Aplicación de penas a los cómplices y encubridores
+### CAPITULO I. Reglas generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 145.
 
@@ -1616,7 +2252,9 @@ En cualquier caso en que la pena que deba imponerse al responsable de un delito 
 
 ARTICULO 152 BIS.- A partir del primero de agosto de mil novecientos noventa y cuatro, para la fijación de sanciones que resulten aplicables según este Código, los importes establecidos en pesos se convertirán en días de salario mínimo general en el Distrito Federal vigente al momento de la realización del delito, a razón de veinte días por cada cien pesos o su proporción equivalente.
 
-### CAPITULO VII. Aplicación de penas cuando se estimen atenuantes y agravantes
+### CAPITULO II. Aplicación de penas a los menores de dieciocho años y a los alumnos de los establecimientos de educación militar
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 153.
 
@@ -1638,7 +2276,7 @@ Para los efectos de este Código, todos los militares que ingresen a alguno de l
 
 Para los mismos efectos del artículo que antecede, los alumnos cadetes de los establecimientos de educación militar, con relación a los demás miembros del ejército, serán considerados como sargentos primeros.
 
-### CAPITULO VIII. De la Substitución de Penas
+### CAPITULO III. Aplicación de penas a los delitos de imprudencia
 
 ###### ARTICULO 157.
 
@@ -1658,9 +2296,7 @@ Tratándose de exceso en la defensa, tomará en consideración además, el grado
 
 En ningún caso la pena que se imponga excederá de las tres cuartas parte (sic) de la que correspondería si el delito fuera intencional.
 
-### CAPITULO I. Ejecución de sentencias
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO IV. Aplicación de penas en los grados de conato y delito frustrado
 
 > <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
@@ -1680,9 +2316,7 @@ II.- cuando el delito no se consume por causas extrañas a la voluntad del agent
 
 El juez tendrá en cuenta lo dispuesto en los artículos 146 y 147.
 
-### CAPITULO II. De la retención
-
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+### CAPITULO V. Aplicación de penas en caso de acumulación y reinsidencia (sic)
 
 ###### ARTICULO 160.
 
@@ -1718,9 +2352,7 @@ Si el sentenciado hubiere sido indultado por gracia en el delito anterior o su r
 
 Para los efectos de este artículo queda al arbitrio judicial la calificación de la gravedad de los delitos.
 
-### CAPITULO III. De la libertad preparatoria
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+### CAPITULO VI. Aplicación de penas a los cómplices y encubridores
 
 ###### ARTICULO 165.
 
@@ -1742,7 +2374,7 @@ Si los encubridores fueren de segunda clase, además de la pena mencionada en el
 
 Si los encubridores fueren de tercera clase, se les impondrá, además de la pena señalada en el artículo 166, la de destitución del empleo que desempeñen.
 
-### CAPITULO I. De la extinción de la acción penal
+### CAPITULO VII. Aplicación de penas cuando se estimen atenuantes y agravantes
 
 ###### ARTICULO 170.
 
@@ -1758,9 +2390,7 @@ Si la ley fijare los extremos, la autoridad judicial impondrá la que estime jus
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-### CAPITULO II. Extinción de la pena
-
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+### CAPITULO VIII. De la Substitución de Penas
 
 ###### ARTICULO 173.
 
@@ -1796,9 +2426,11 @@ En los casos de la fracción II del artículo anterior, no se ejecutará la sent
 
 ## TITULO CUARTO. Ejecución de las sentencias, retención y libertad preparatoria
 
-### CAPITULO I. Traición a la patria
+### CAPITULO I. Ejecución de sentencias
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 179.
 
@@ -1816,7 +2448,7 @@ No se ejecutará la sentencia que imponga pena privativa de libertad, si despué
 
 La ejecución de las sentencias se hará en la forma y circunstancias que determina el Libro Tercero de este Código.
 
-### CAPITULO II. Espionaje
+### CAPITULO II. De la retención
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -1828,9 +2460,9 @@ Toda pena de prisión por dos o más años, será siempre impuesta con calidad d
 
 La retención se hará efectiva cuando el condenado con esa calidad, tuviere mala conducta durante el último tercio de su condena incurriendo en faltas de disciplina o en infracciones del reglamento de la prisión, siempre que tengan el carácter de graves a juicio del Supremo Tribunal Militar.
 
-### CAPITULO III. Delitos contra el derecho de gentes
+### CAPITULO III. De la libertad preparatoria
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 184.
 
@@ -1844,7 +2476,7 @@ Al sentenciado a cumplir una pena privativa de libertad de treinta a sesenta añ
 
 ## TITULO QUINTO. De la extinción de la acción penal y de la pena
 
-### CAPITULO IV. Violación de neutralidad o de inmunidad diplomática
+### CAPITULO I. De la extinción de la acción penal
 
 ###### ARTICULO 186.
 
@@ -1896,7 +2528,9 @@ Cuando concurra una pena privativa de libertad con la destitución o la de suspe
 
 La prescripción de la acción penal se interrumpirá por las actuaciones judiciales en averiguación del delito, aunque no se practiquen las diligencias contra persona determinada; excepto en el caso en que haya transcurrido la mitad del término necesario para la prescripción, pues entonces sólo se interrumpirá por la aprehensión.
 
-### CAPITULO I. Rebelión
+### CAPITULO II. Extinción de la pena
+
+> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 193.
 
@@ -1978,7 +2612,9 @@ En el caso de reconocimiento de inocencia, se relevará de toda pena al sentenci
 
 ## TITULO SEXTO. Delitos contra la seguridad exterior de la Nación
 
-### CAPITULO II. Sedición
+### CAPITULO I. Traición a la patria
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 203.
 
@@ -2040,7 +2676,9 @@ Se castigará con prisión de cinco años a los que conspiren para cometer el de
 
 Hay conspiración siempre que dos o más personas resuelven de concierto cometer el delito acordando los medios de llevar a efecto su determinación.
 
-### CAPITULO I. Falsificación
+### CAPITULO II. Espionaje
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 206.
 
@@ -2050,7 +2688,9 @@ A quien se introduzca en las plazas, fuertes, puestos militares o entre las trop
 
 El espía que habiendo logrado su objeto se hubiere incorporado a su ejército y fuere aprehendido después, no será castigado por su anterior delito de espionaje, sino que será considerado como prisionero de guerra.
 
-### CAPITULO II. Fraude, malversación y retención de haberes
+### CAPITULO III. Delitos contra el derecho de gentes
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 208.
 
@@ -2104,7 +2744,7 @@ Se impondrá la pena de un año de prisión al que ofenda de palabra a un parlam
 
 Será castigado con cinco años de prisión el que sin estar autorizado exija el pago de alguna contribución de guerra, o servicios personales; haga requisición de víveres, o elementos de transporte, tome rehenes, o ejecute cualquiera otra clase de vejaciones en la población civil de país enemigo.
 
-### CAPITULO III. Extravío, enajenación, robo y destrucción de lo perteneciente al ejército
+### CAPITULO IV. Violación de neutralidad o de inmunidad diplomática
 
 ###### ARTICULO 216.
 
@@ -2122,7 +2762,7 @@ El que violare la inmunidad personal o real de algún diplomático, será castig
 
 ## TITULO SEPTIMO. Delitos contra la seguridad interior de la nación
 
-### CAPITULO IV. Deserción e insumisión
+### CAPITULO I. Rebelión
 
 ###### ARTICULO 218.
 
@@ -2176,43 +2816,7 @@ Los rebeldes no serán responsables de las muertes o lesiones inferidas en el ac
 
 Se castigará con prisión de tres años a los que conspiren para cometer el delito de rebelión.
 
-### CAPITULO IV BIS. Traición a las Fuerzas Armadas Mexicanas
-
-> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
-
-ARTICULO 275 BIS.- Al militar que se incorpore a la delincuencia organizada se le aplicará pena de prisión de treinta a sesenta años y baja de la Fuerza Armada.
-
-> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
-
-ARTICULO 275 TER.- Se sancionará con pena de prisión de quince a sesenta años y baja de la Fuerza Armada que corresponda, al militar que:
-
-I. Utilice la fuerza, embarcación, aeronave, o cualquier otro bien o recurso humano que tenga bajo su cargo o mando a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa;
-
-II. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, protección o facilidades en la plaza o puesto confiado a su cargo; así como adiestramiento, capacitación o conocimientos militares;
-
-III. Induzca al personal que tenga bajo su mando o a las tropas de las que forme parte, para que presten algún servicio a cualquier miembro de la delincuencia organizada o asociación delictuosa, o reclute personal militar para el mismo fin;
-
-IV. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, información a la que tenga acceso con motivo del ejercicio de su cargo o comisión;
-
-V. Incumpla con sus obligaciones, respecto de las tropas a su cargo, para actuar contra cualquier miembro de la delincuencia organizada o asociación delictuosa;
-
-VI. Obstaculice las acciones de las fuerzas armadas o autoridad competente, en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa;
-
-VII. No ejecute una orden del servicio o la modifique de propia autoridad, en ambos casos, para favorecer a cualquier miembro de la delincuencia organizada o asociación delictuosa;
-
-VIII. Falsifique o altere un documento o instrumento que contenga información relativa a las operaciones de las Fuerzas Armadas o autoridad competente en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa, o a sabiendas de que se trata de documentos o instrumentos falsificados o alterados, haga uso de ellos;
-
-IX. Proporcione a sus superiores información diferente a la que conozca acerca de las actividades que esté desarrollando en las Fuerzas Armadas en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa, u omita proporcionar los datos que tenga sobre dichas actividades, así como de los proyectos o movimientos de éstos;
-
-X. Conduzca o guíe las actividades de cualquier miembro de la delincuencia organizada o asociación delictuosa, y
-
-XI. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa, o proteja o facilite su fuga.
-
-Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
-
-Para los efectos de este capítulo, se entenderá por Fuerzas Armadas Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército, Armada y Fuerza Aérea.
-
-Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el artículo 164 del Código Penal Federal.
+### CAPITULO II. Sedición
 
 ###### ARTICULO 224.
 
@@ -2244,7 +2848,7 @@ Se castigará con prisión de seis meses a los que conspiren para cometer el del
 
 ## TITULO OCTAVO. Delitos contra la existencia y seguridad del ejército
 
-### CAPITULO V. Inutilización voluntaria para el servicio
+### CAPITULO I. Falsificación
 
 ###### ARTICULO 228.
 
@@ -2304,7 +2908,7 @@ El que intencionalmente altere, cambie, destruya o modifique los diarios de bit�
 
 El que altere o cambie los planos o modelos de alguna construcción naval, o la construcción misma, destinada al servicio de la Armada, sufrirá la pena de un año de prisión, y si por esta causa se originare algún daño, la pena será de seis años.
 
-### CAPITULO VI. Insultos, amenazas o violencias contra centinelas, guardias, tropa formada, salvaguardias, bandera y ejército
+### CAPITULO II. Fraude, malversación y retención de haberes
 
 ###### ARTICULO 239.
 
@@ -2368,7 +2972,7 @@ I.- Si esa retención la efectuare en provecho propio o en el de otro, conforme 
 
 II.- si dicha retención la hiciere sin aprovechar para sí o para otros, los haberes, raciones o prendas, con la mitad de la pena que corresponda, conforme a las reglas establecidas en el mismo precepto.
 
-### CAPITULO VII. Ultrajes y violencias contra la policía
+### CAPITULO III. Extravío, enajenación, robo y destrucción de lo perteneciente al ejército
 
 ###### ARTICULO 246.
 
@@ -2446,7 +3050,7 @@ La misma pena de ocho años de prisión se impondrá a todo el que dolosa o deli
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE OCTUBRE DE 1944)</small>
 
-### CAPITULO VIII. Falsa Alarma
+### CAPITULO IV. Deserción e insumisión
 
 ###### ARTICULO 255.
 
@@ -2650,9 +3254,45 @@ A los infractores se les impondrá la pena de un mes de prisión. La pena privat
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-### CAPITULO I. Insubordinación
+### CAPITULO IV BIS. Traición a las Fuerzas Armadas Mexicanas
 
-### CAPITULO II. Abuso de autoridad
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 275 BIS.- Al militar que se incorpore a la delincuencia organizada se le aplicará pena de prisión de treinta a sesenta años y baja de la Fuerza Armada.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 275 TER.- Se sancionará con pena de prisión de quince a sesenta años y baja de la Fuerza Armada que corresponda, al militar que:
+
+I. Utilice la fuerza, embarcación, aeronave, o cualquier otro bien o recurso humano que tenga bajo su cargo o mando a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
+II. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, protección o facilidades en la plaza o puesto confiado a su cargo; así como adiestramiento, capacitación o conocimientos militares;
+
+III. Induzca al personal que tenga bajo su mando o a las tropas de las que forme parte, para que presten algún servicio a cualquier miembro de la delincuencia organizada o asociación delictuosa, o reclute personal militar para el mismo fin;
+
+IV. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, información a la que tenga acceso con motivo del ejercicio de su cargo o comisión;
+
+V. Incumpla con sus obligaciones, respecto de las tropas a su cargo, para actuar contra cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
+VI. Obstaculice las acciones de las fuerzas armadas o autoridad competente, en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
+VII. No ejecute una orden del servicio o la modifique de propia autoridad, en ambos casos, para favorecer a cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
+VIII. Falsifique o altere un documento o instrumento que contenga información relativa a las operaciones de las Fuerzas Armadas o autoridad competente en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa, o a sabiendas de que se trata de documentos o instrumentos falsificados o alterados, haga uso de ellos;
+
+IX. Proporcione a sus superiores información diferente a la que conozca acerca de las actividades que esté desarrollando en las Fuerzas Armadas en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa, u omita proporcionar los datos que tenga sobre dichas actividades, así como de los proyectos o movimientos de éstos;
+
+X. Conduzca o guíe las actividades de cualquier miembro de la delincuencia organizada o asociación delictuosa, y
+
+XI. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa, o proteja o facilite su fuga.
+
+Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
+
+Para los efectos de este capítulo, se entenderá por Fuerzas Armadas Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército, Armada y Fuerza Aérea.
+
+Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el artículo 164 del Código Penal Federal.
+
+### CAPITULO V. Inutilización voluntaria para el servicio
 
 ###### ARTICULO 276.
 
@@ -2664,13 +3304,13 @@ Las mismas penas se impondrán al que a petición de otro, lo inutilice con el o
 
 Se impondrá la pena de ocho meses de prisión, a quien se valga de recursos o medios fraudulentos que lo imposibiliten para el cumplimiento de alguna obligación militar.
 
-### CAPITULO III. Desobediencia
+### CAPITULO VI. Insultos, amenazas o violencias contra centinelas, guardias, tropa formada, salvaguardias, bandera y ejército
 
 ###### ARTICULO 278.
 
 El que ofenda o amenace a un centinela, a un miembro de una guardia, a un viglante (sic), serviola, guardián o salvaguardia y el que destruya ésta si fuere escrita, será castigado con la pena de un año de prisión.
 
-> <small>(REFORMADO RIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 279.
 
@@ -2688,13 +3328,13 @@ El que injurie, difame o calumnie al ejército o a instituciones que de él depe
 
 Se impondrá la pena de un año seis meses de prisión, al que ultraje la bandera nacional.
 
-### CAPITULO IV. Asonada
+### CAPITULO VII. Ultrajes y violencias contra la policía
 
 ###### ARTICULO 281.
 
 El que injurie o ultraje a un miembro de la policía que esté en ejercicio de sus funciones, será castigado con nueve meses de prisión; y si lo desobedece o resiste a la orden que le haya intimado en uso de sus facultades o ejerza violencia contra él, la pena será de un año y seis meses de prisión.
 
-### CAPITULO I. Abandono de servicio
+### CAPITULO VIII. Falsa Alarma
 
 ###### ARTICULO 282.
 
@@ -2710,7 +3350,7 @@ III.- Con pena de treinta a sesenta años de prisión, si estando frente al enem
 
 ## TITULO NOVENO. Delitos contra la jerarquía y la autoridad
 
-### CAPITULO II. Extralimitación y usurpación de mando o comisión
+### CAPITULO I. Insubordinación
 
 ###### ARTICULO 283.
 
@@ -2794,7 +3434,7 @@ Si en la orden cuyo cumplimiento se trate de impedir, concurriere alguna de las 
 
 Cuando la insubordinación consistiere en vías de hecho o estuviere comprendida en el artículo 290, si se cometiere en marcha para atacar al enemigo, frente a él, esperando a la defensiva, bajo su persecución o durante la retirada, se aplicará pena de treinta a sesenta años de prisión sin tener en cuenta las disposiciones de los artículos 119 fracción III, 288 y 289.
 
-### CAPITULO III. Maltrato a prisioneros, detenidos o presos y heridos
+### CAPITULO II. Abuso de autoridad
 
 ###### ARTICULO 293.
 
@@ -2852,7 +3492,7 @@ Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán 
 
 El que indebidamente haga que una fuerza armada le preste auxilio en una riña o pendencia, que por esa causa tome mayores proporciones, sufrirá la pena de dos años de prisión, sin perjuicio de que, conforme a las reglas generales de aplicación de penas, se le imponga la que corresponda, en virtud de los demás delitos que con esos actos hubiere cometido.
 
-### CAPITULO IV. Pillaje, devastación, merodeo, apropiación de botín, contrabando, saqueo y violencias contra las personas
+### CAPITULO III. Desobediencia
 
 ###### ARTICULO 301.
 
@@ -2888,7 +3528,7 @@ III.- con cuatro años de prisión si el daño grave fuere causado a los buques 
 
 IV.- con cuatro años de prisión en tiempo de paz y cinco en campaña, si la desobediencia fuere cometida formando parte el barco de una escuadra, y con la de cinco años de prisión, en tiempo de paz y diez en campaña, si de esa desobediencia resultare algún daño a las operaciones navales.
 
-### CAPITULO I. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército
+### CAPITULO IV. Asonada
 
 ###### ARTICULO 305.
 
@@ -2924,7 +3564,7 @@ La conspiración para cometer el delito de asonada, se castigará con un año de
 
 ## TITULO DECIMO. Delitos cometidos en ejercicio de las funciones militares o con motivo de ellas
 
-### CAPITULO II. Infracción de los deberes de centinela, vigilante, serviola, tope y timonel
+### CAPITULO I. Abandono de servicio
 
 ###### ARTICULO 310.
 
@@ -3038,9 +3678,7 @@ Al marino encargado de la escolta de un buque o de la conducción de un convoy, 
 
 El marino que formando parte de la tripulación de un bote, abandone éste sin permiso del superior, será castigado con prisión de dos meses.
 
-### CAPITULO III. Infracción de deberes especiales de marinos
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+### CAPITULO II. Extralimitación y usurpación de mando o comisión
 
 ###### ARTICULO 323.
 
@@ -3054,9 +3692,7 @@ II.- con la pena de siete años de prisión si causa perjuicio grave, y
 
 III.- Con pena de treinta a sesenta años de prisión si ocasionare perjuicio grave en el servicio, se cometiere este delito frente al enemigo, en marcha hacia él, esperándolo a la defensiva, bajo su persecución o durante la retirada.
 
-### CAPITULO IV. Infracción de deberes especiales de aviadores
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+### CAPITULO III. Maltrato a prisioneros, detenidos o presos y heridos
 
 ###### ARTICULO 324.
 
@@ -3076,7 +3712,7 @@ V.- con dos años de prisión cuando se obligue al prisionero a combatir contra 
 
 VI.- Con un año de prisión cuando se despoje de sus vestidos u otros objetos, al herido, prisionero, detenido o preso, para apropiárselos.
 
-### CAPITULO V. Infracción de deberes militares correspondientes a cada militar según su comisión o empleo
+### CAPITULO IV. Pillaje, devastación, merodeo, apropiación de botín, contrabando, saqueo y violencias contra las personas
 
 ###### ARTICULO 325.
 
@@ -3148,9 +3784,7 @@ TITULO DECIMOPRIMERO
 
 Delitos contra el deber y decoro militares
 
-### CAPITULO VI. Infracción de los deberes de prisioneros, evasión de éstos o de presos o detenidos y auxilio a unos y a otros para su fuga
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+### CAPITULO I. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército
 
 ###### ARTICULO 338.
 
@@ -3260,9 +3894,7 @@ Se impondrá la pena de dos meses de prisión a los individuos de tropa que camb
 
 El que para asuntos del servicio o con motivo de él hiciere uso del nombre de un superior sin autorización de éste y sin causa justificada ni extrema necesidad para obrar de esa manera, será castigado con la pena de un año y seis meses de prisión.
 
-### CAPITULO VII. Contra el honor militar
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
+### CAPITULO II. Infracción de los deberes de centinela, vigilante, serviola, tope y timonel
 
 ###### ARTICULO 352.
 
@@ -3340,7 +3972,9 @@ El centinela que se deje relevar por otro que no sea el cabo de cuarto que lo hu
 
 El vigilante, serviola o tope, que se deje relevar sin la orden del contramaestre de guardia o persona que haga sus veces, con autorización del oficial de guardia, será castigado con un año de prisión en tiempo de paz, y en campaña de guerra con tres años. Si el delito se cometiere al frente del enemigo, la pena será de ocho años de prisión.
 
-### CAPITULO VIII. Duelo
+### CAPITULO III. Infracción de deberes especiales de marinos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 362.
 
@@ -3462,7 +4096,9 @@ Será castigado con la pena de un año de prisión, el que en cualquiera otra fo
 
 Si resultare daño o pérdida, la pena será de cuatro años de prisión.
 
-### CAPITULO I. Delitos en la Administración de Justicia
+### CAPITULO IV. Infracción de deberes especiales de aviadores
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 376.
 
@@ -3504,7 +4140,7 @@ I.- Que en tiempo de paz, habiendo recibido órdenes de salida, no lo haga a la 
 
 II.- que cometa cualquiera otra infracción grave a los reglamentos del arma, no prevista en este Capítulo.
 
-### CAPITULO II. Delitos con motivo de la administración de justicia
+### CAPITULO V. Infracción de deberes militares correspondientes a cada militar según su comisión o empleo
 
 ###### ARTICULO 382.
 
@@ -3526,7 +4162,9 @@ Cuando la infracción ocasionare daño a las tropas, o la pérdida de un buque o
 
 Si de la infracción resultare la derrota de las tropas, o la pérdida de un buque o aeronave, estando en campaña, la pena será de treinta a sesenta años de prisión.
 
-### CAPITULO I. De las denuncias, querellas y acusaciones
+### CAPITULO VI. Infracción de los deberes de prisioneros, evasión de éstos o de presos o detenidos y auxilio a unos y a otros para su fuga
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 386.
 
@@ -3596,11 +4234,11 @@ El que auxilie la fuga general de los presos o detenidos existentes en un edific
 
 Siempre que se evadan uno o más prisioneros, presos o detenidos, se hará efectiva la responsabilidad del que mandare la escolta o fuerza encargado directamente de la custodia de él o de los que se hubieren evadido, sin perjuicio de exigirla también a todos los demás individuos de esa misma escolta o fuerza, que con sus actos u omisiones apareciere que hubieren favorecido la evasión.
 
-### CAPITULO II. De la incoación del procedimiento
+### CAPITULO VII. Contra el honor militar
 
-### CAPITULO III. Comprobación del cuerpo del delito y de la probable responsabilidad
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+### CAPITULO VIII. Duelo
 
 ###### ARTICULO 397.
 
@@ -3714,9 +4352,7 @@ Para los efectos de este artículo, se entenderá que hay reincidencia, cuando s
 
 Sufrirán las penas de seis meses de prisión y destitución de empleo, los sargentos y cabos que después de haber incurrido en dos correcciones disciplinarias, dentro del período de un año, persistieren en su mala conducta.
 
-### CAPITULO IV. De los cateos
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+### CAPITULO I. Delitos en la Administración de Justicia
 
 ###### ARTICULO 410.
 
@@ -3798,7 +4434,7 @@ TITULO DECIMOSEGUNDO
 
 Delitos cometidos en la Administración de Justicia o con motivo de ella
 
-### CAPITULO V. De la declaración preparatoria y del nombramiento de defensor
+### CAPITULO II. Delitos con motivo de la administración de justicia
 
 ###### ARTICULO 421.
 
@@ -3860,7 +4496,9 @@ Los defensores de oficio serán castigados: con suspensión de empleo de seis me
 
 Serán destituídos de su empleo e inhabilitados por dos años para volver al servicio, los funcionarios y empleados que por sí o por interpósita persona soliciten o reciban indebidamente dinero o cualquiera otra dádiva, para hacer o dejar de hacer algo justo o injusto, relacionado con sus funciones.
 
-### CAPITULO VI. De la aprehensión, detención y prisión preventiva
+### CAPITULO I
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 427.
 
@@ -3952,2597 +4590,2789 @@ En los casos que hubiere duda acerca de si la fuerza a que pertenecía el proces
 
 XI.- por estar frente al enemigo o durante la retirada, tenerlo a la vista o hallarse a una distancia igual o menor que la de treinta kilómetros respecto de los puntos avanzados de aquél, o encontrarse en las mismas aguas territoriales tratándose de fuerzas marítimas, o en cualquier caso, bajo la acción del fuego enemigo.
 
-# LIBRO TERCERO. Del Procedimiento
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-## TITULO PRIMERO. Disposiciones preliminares
+# LIBRO TERCERO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+## TITULO PRIMERO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 435.
 
-Corresponde a los tribunales militares declarar la inocencia o culpabilidad de las personas bajo su jurisdicción y aplicar las penas que las leyes señalen.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Sólo aquella declaración se tendrá como verdad legal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 436.
 
-La violación de la ley, da lugar a una acción penal. Puede dar también lugar a una acción civil;
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-la primera, que corresponde a la sociedad, se ejerce por el Ministerio Público y tiene por objeto el castigo del delincuente;
-
-la segunda, que sólo puede ejercitarse por la parte ofendida o por el representante legítimo, tiene por objeto la reparación del daño, que comprende:
-
-I.- La restitución de la cosa obtenida por el delito, y si no fuere posible, el pago del precio de la misma, y
-
-II.- la indemnización del daño material y moral causado a la víctima, a su familia o a un extraño. Los tribunales del fuero de guerra, sólo conocerán y decidirán sobre la acción penal que nazca de los delitos de su competencia. Las acciones civiles que de aquéllas se deriven, se ejercitarán ante los tribunales del orden común, de acuerdo con la legislación que en él se halle vigente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 437.
 
-La extinción de la acción civil o su renuncia, no importa la extinción ni la suspensión de la acción penal militar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 438.
 
-Ni la sentencia irrevocable, aunque sea absolutoria, ni el indulto, extinguen la acción civil proveniente de un hecho considerado como delictuoso, excepto cuando la sentencia absolutoria se funde en una de las tres circunstancias siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que el acusado obró con derecho;
-
-II.- que no tuvo participación alguna en el hecho u omisión que se le imputó; y
-
-III.- que ese hecho u omisión no ha existido.
-
-La amnistía no extingue la acción civil.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 439.
 
-En los procesos sólo serán considerados como partes, el Ministerio Público, el procesado y sus defensores.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-La víctima o el ofendido por algún delito tienen el derecho a coadyuvar con el Ministerio Público y los demás a que se refiere el último párrafo del artículo 20 Constitucional.
+ARTICULO 439 BIS.- (DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
-
-ARTICULO 439 BIS.- Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 440.
 
-El querellante que se haya desistido no podrá en ningún caso renovar su querella sobre el mismo hecho criminoso a que la anterior se refería. Cuando se trate de delitos en que es necesaria la querella de parte, el desistimiento de ésta, antes de la citación para consejo o para la audiencia a que se refieren los artículos 623 y 629, impedirá que el Ministerio Público continúe ejercitando la acción.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 441.
 
-Cuando para la imposición de la pena sea necesaria la comprobación de un derecho civil, se hará ésta en el curso de la instrucción, sin esperar a que se declare comprobado tal derecho por alguna autoridad. La sentencia dictada en el juicio criminal, nunca servirá de base para el ejercicio de las acciones civiles que del derecho expresado puedan originarse.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-## TITULO SEGUNDO. De los procedimientos previos al juicio
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO VII. De la libertad por falta de méritos
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+## TITULO SEGUNDO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO II
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 442.
 
-Tanto las denuncias de los delitos como las querellas en forma, deberán contener, si son por escrito:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- La relación del hecho delictuoso;
-
-II.- el nombre del delincuente y demás personas que estuvieren complicadas en la comisión del delito, así como el de aquellas que lo presenciaron, tuvieron o pudieron tener noticia de él;
-
-III.- todas las circunstancias que puedan coadyuvar a la averiguación del delito, calificación de su naturaleza y gravedad, y descubrimiento de los responsables, y
-
-IV.- las pruebas relacionadas con el hecho delictuoso.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 443.
 
-La denuncia hecha por un militar, deberá ser formulada por escrito, y firmada por la persona que la hiciere. Cuando fuere hecha por el superior del delincuente, será acompañada, si fuere posible, con todos los documentos concernientes al mismo delito, y notas y constancias oficiales relativas al delincuente, que obraren en los documentos oficiales del cuerpo o unidad a que pertenezca el presunto responsable.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 444.
 
-Fuera de los casos enumerados, las denuncias pueden hacerse de palabra, por escrito o por cualquier otro medio.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando fueren verbales, se levantará una acta en la que en forma de declaración, se harán constar todas las circunstancias a que se refiere el artículo 442, firmando el que reciba la denuncia y el denunciante, si supiere, en todas las hojas o imprimiendo sus huellas digitales.
-
-Si la denuncia fuere por escrito, deberá firmarla el denunciante u otra persona a su ruego; si aquél no supiere o no pudiere hacerlo, deberán tomarse sus huellas digitales y rubricarse en todas sus fojas por el que la reciba.
-
-> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-Tratándose de informaciones anónimas sobre la posible comisión de un delito contra la disciplina militar, el Ministerio Público iniciará un acta circunstanciada en la que ordenará a la Policía que investigue la veracidad de los datos aportados; de confirmarse la información, iniciará la averiguación previa correspondiente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 445.
 
-La autoridad que recibiere una denuncia o querella verbal o escrita, deberá asegurarse desde luego, de la identidad del denunciante, haciendo constar tal circunstancia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 446.
 
-El Ministerio Público, previa la práctica de las diligencias que tiendan a investigar los hechos que se denuncian, formulará su pedimento de incoación por conducto del comandante de la guarnición, a fin de que éste envíe los documentos a la autoridad judicial, dentro del término que le corresponde al Ministerio Público, señalado en el artículo 80 de este Código.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 447.
 
-Cuando un comandante de la guarnición estime que por necesidades del servicio, procede suspender el procedimiento iniciado por el Ministerio Público, dentro de las veinticuatro horas siguientes a la consignación hecha por éste, se dirigirá por la vía más rápida a la Secretaría de la Defensa Nacional, solicitando se aplace el procedimiento y exponiendo al efecto las razones que hubiere para ello.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 448.
 
-La Secretaría de la Defensa Nacional, apreciando las razones aducidas por el comandante de la guarnición, resolverá si procede aplazar el procedimiento iniciado, dando instrucciones en caso afirmativo al Ministerio Público a fin de que suspenda su acción, por un término que no exceda de tres meses en tiempo de paz, o indefinido en caso de guerra, o de preparación para ésta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 449.
 
-Si la Secretaría de la Defensa Nacional estima improcedente la suspensión, ordenará al comandante de la guarnición continúe el procedimiento de acuerdo con lo pedido por el Ministerio Público, consignando a dicho comandante, cuando hubiere responsabilidades que exigirle.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 450.
 
-El Ministerio Público y la Policía Ministerial Militar, deberán estar acompañados en las diligencias que practiquen, de sus secretarios si los tuviesen, o de dos testigos de asistencia, que darán fe de todo lo que pase, exigiendo la protesta de decir verdad a quienes intervengan en éstas, así como la razón de su dicho, a excepción de que se trate del indiciado. Igualmente harán constar las medidas que ordene para la mejor investigación y la razón o motivo para no haber practicado las que no se lleven a cabo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Al expediente de averiguación previa únicamente tendrán acceso el inculpado, su defensor y la víctima u ofendido o su representante legal. La averiguación previa así como todos los documentos, independientemente de su contenido o naturaleza, y los objetos, registros de voz e imágenes o cosas que le estén relacionados, son estrictamente reservados.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Para efectos de acceso a la información pública gubernamental, únicamente deberá proporcionarse una versión pública de la resolución de no ejercicio de la acción penal, siempre que haya transcurrido un plazo igual al de la prescripción de los delitos de que se trate, de conformidad con lo dispuesto por el ordenamiento penal aplicable, sin que pueda ser menor de tres ni mayor de doce años, contado a partir de que dicha resolución haya quedado firme.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-Si la resolución de no ejercicio de la acción penal resulta de la falta de datos que establezcan que se haya cometido el delito, el Ministerio Público podrá proporcionar la información de acuerdo a las disposiciones aplicables, siempre y cuando no se ponga en riesgo indagatoria alguna.
+### CAPITULO III
 
-En ningún caso se podrá hacer referencia a información confidencial relativa a los datos personales del inculpado, víctima u ofendido, así como testigos, servidores públicos o cualquier persona relacionada o mencionada en la indagatoria; el Ministerio Público no podrá proporcionar información una vez que se haya ejercido la acción penal a quien no esté legitimado.
-
-### CAPITULO VIII. De las pruebas
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 451.
 
-El auto de incoación debe contener:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- La fecha y hora en que se dicte;
-
-II.- la declaración que haga el juez dando entrada a la consignación;
-
-III.- la fijación de la hora en que deberá celebrarse la audiencia pública para que el detenido, si lo hubiere, rinda su declaración preparatoria;
-
-IV.- la expresión de las diligencias que deban practicarse a petición del Ministerio Público, y
-
-V.- los nombres del juez que dicte la determinación y del secretario que la autorice. De este auto se enviará copia al Supremo Tribunal Militar.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 452.
 
-Si en las diligencias consignadas por el Ministerio Público se solicitare la detención de una persona u orden de comparecencia en su caso, el juez la librará, si están reunidos los requisitos que exige el artículo 16 de la Constitución General.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO IX. De la confesión judicial
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+### CAPITULO IV
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 453.
 
-La base del procedimiento penal es la comprobación de la existencia de un hecho o de una omisión reputados por la ley como delito; sin ella no puede haber procedimiento ulterior.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
-
-Para la comprobación del cuerpo del delito, tendrán todo su valor legal los medios de prueba admitidos por este código, debiendo tenerse como preferentes los señalados en el presente capítulo, gozando las autoridades de la acción más amplia para emplear los medios de investigación que estimen conducentes, siempre que no estén prohibidos por la ley.
-
-Para resolver sobre la probable responsabilidad, la autoridad deberá constatar que no existe acreditada en favor del inculpado alguna causa de exclusión del delito, y que obren datos suficientes para acreditar su probable culpabilidad.
-
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 454.
 
-El Ministerio Público acreditará el cuerpo del delito de que se trate y la probable responsabilidad del indiciado, como base del ejercicio de la acción penal. La autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Por cuerpo del delito se entiende el conjunto de los elementos objetivos o externos que constituyen la materialidad del hecho que la ley señale como delito, así como los normativos, en el caso de que la descripción típica lo requiera.
-
-La probable responsabilidad del indiciado se tendrá por acreditada cuando, de los medios probatorios existentes, se deduzca su participación en el delito, la comisión dolosa o culposa del mismo y no exista acreditada a favor de aquél alguna causa de licitud o alguna excluyente de culpabilidad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 455.
 
-Cuando el objeto materia del delito exista, se le describirá expresando claramente en el acta los caracteres, señales o vestigios que el propio delito haya dejado, el instrumento, arma o medio con que probable o precisamente haya podido cometerse, y la manera como aparezca que se haya hecho uso de aquéllos. Se fijarán también todas las circunstancias de situación y localización y las demás que puedan servir para el esclarecimiento de los hechos, aprovechando todos los recursos que ofrezcan las artes. El plano, retrato, copia o diseño, etc., se unirán al proceso.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 456.
 
-Además del acta de descripción, se levantará otra que se llamará de inventario, en la que se harán constar todos los objetos que pudieran tener relación con el delito, describiéndose cada uno, de manera que en todo tiempo puedan ser reconocidos. Igual anotación se hará de todos los objetos que por cualquier motivo deban asegurarse.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 457.
 
-Si al verificarse la aprehensión del inculpado se le encontraren objetos que tengan relación con el hecho que se persigue, o si se descubrieren en la casa de aquél o en otro punto cualquiera, se extenderá acta de inventario, aunque sea en diligencias diversas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 458.
 
-En el acto de la inspección del lugar en que se cometió el delito, el juez deberá examinar a todas las personas, cuyo testimonio pueda traer algún esclarecimiento sobre el mismo delito o los responsables.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 459.
 
-Con el mismo fin podrá el juez prohibir a los presentes que se alejen del lugar, antes de que esté cerrada el acta de inspección; y si alguna persona desobedeciere la orden, se le impondrá una corrección disciplinaria contra la que no cabrá recurso.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 460.
 
-Si en el acto de la inspección o con posterioridad, se encontraren objetos que puedan haber servido para cometer el delito, o que sean producto de él, se depositarán, previo inventario. El depósito se hará, atendida la naturaleza y clase de los objetos, de tal modo que se impida toda alteración voluntaria, o que si ésta ocurre casualmente, pueda ser descubierta con facilidad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 461.
 
-Si los objetos fueren susceptibles de envolverse en una cubierta de papel o lienzo, se practicará así, sellándose por el juez y firmando en la cubierta, éste, su secretario y el representante del Ministerio Público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 462.
 
-Si los objetos no fueren susceptibles de esa clase de depósito, pero pudieren encerrarse en un saco, vaso cubierto o arca, se hará así, tomando todo género de precauciones para asegurar la inviolabilidad del depósito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 463.
 
-Cuando los objetos no sean susceptibles de otro medio de depósito que el de una habitación, se depositarán en ella, cerrándola con llave y ligándose la puerta o marco con fajas de papel firmadas y selladas y adoptándose las demás precauciones que se estimen necesarias.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 464.
 
-Siempre que fuere preciso tener a la vista alguno de los objetos depositados, se comenzará la diligencia haciendo constar si los sellos han sido o no quebrantados, y si se encuentran los mismos objetos en el estado en que estaban al ser depositados; si han sufrido alguna alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir. La diligencia siempre terminará con constancias de la forma y estado en que queden los referidos objetos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 465.
 
-En caso de homicidio o lesiones, además de la descripción que de las lesiones haga el juez o el agente de la Policía Ministerial Militar que intervenga en las diligencias, es de gran importancia el informe de dos peritos, y aun de uno solo, si no hubiere otro disponible, y el curso rápido de las actuaciones no permitiese espera. Los peritos harán en el caso de homicidio, la autopsia del cadáver, expresando con minuciosidad el estado que guarden y las causas que originaron la muerte.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Los peritos darán, por medio de certificados que ratificarán personalmente ante el juez respectivo, la esencia de las lesiones, dentro de cuarenta y ocho horas después de haberse encargado de la curación de un herido. Al cumplir con este precepto, tomarán siempre en consideración el arma empleada para inferir las lesiones, la región en que éstas estén situadas, sus dimensiones, los órganos interesados, y, en resumen, harán la clasificación con toda claridad posible, a fin de que pueda conocerse fácilmente en cuál precepto del libro segundo de este Código está comprendido el caso. Si el herido falleciere expondrán también, con toda exactitud y cuidado, si la muerte le sobrevino por causas extrañas a las lesiones mismas o procedentes de ellas.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 466.
 
-Los cadáveres deberán ser siempre identificados por medio de testigos, y si no fuere posible, se harán fotografías, agregando a la averiguación un ejemplar y poniendo otros en los lugares públicos con todos los datos que puedan servir para que sean reconocidos, y exhortándose a todos los que los conocieren a que se presenten ante el juez a declararlo. Si no fuere posible usar del arte fotográfico, se hará la descripción de la persona con todas las señales que pudieran identificarla.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Los vestidos se describirán minuciosamente en la causa, y se conservarán en depósito seguro para que puedan ser presentados a los testigos de identidad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 467.
 
-Si el cadáver estuviere sepultado, se procederá a su exhumación, con las debidas precauciones y asistencia de peritos. En caso de no ser posible la exhumación, se suplirá la diligencia con información testimonial que versará sobre los puntos que se mencionan en el artículo siguiente, los que se proporcionarán a los peritos, para los efectos que el mismo artículo indica.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 468.
 
-Cuando el cadáver no pueda ser encontrado, se comprobará su existencia por medio de testigos, quienes harán la descripción de él y expresarán el número de lesiones o huellas exteriores de violencias que presentaba, lugares en que estaban situadas, sus dimensiones y el arma con que crean fueron causadas. También se les interrogará sobre los hábitos y costumbres del difunto, si le conocieron en vida y sobre las enfermedades que haya padecido. Estos datos se darán a los peritos para que emitan su dictamen sobre las causas de la muerte, bastando entonces la opinión de que aquélla fue el producto de un delito, para que se tenga como existente el requisito de autopsia y la declaración de que la lesión fue mortal.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 469.
 
-Cuando no se encuentren testigos que hayan visto el cadáver, pero hubiere datos suficientes para suponer que se ha cometido un homicidio, se comprobará la preexistencia de la persona, sus costumbres, su carácter, si ha padecido o no alguna enfermedad, el último lugar y fecha en que haya sido vista y la posibilidad de que el cadáver haya podido ser ocultado o destruído, expresando, los testigos, los motivos que les hagan suponer la existencia de un delito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 470.
 
-Cuando se trate de una enfermedad cualquiera, que se sospeche haya sido ocasionada por un delito, los peritos emitirán su opinión sobre las causas describiendo detalladamente todos los síntomas que el enfermo presente, y harán la calificación legal que corresponda.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 471.
 
-Si por circunstancias especiales, los peritos no pudieren dar su opinión desde luego, el juez podrá señalarles un término prudente para que la emitan.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 472.
 
-Tan luego como la persona que haya sufrido alguna lesión, muriere o sanare, los encargados de curarla deberán dar aviso al juez.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 473.
 
-Si se tratare de envenenamiento, se recogerán cuidadosamente todas las vasijas y demás objetos que hubiere usado el enfermo, los restos de alimentos, bebidas y medicinas que hubiere tomado, las deyecciones y vómitos que hubiere tenido, depositándose todo con las precauciones necesarias para evitar su extravío o alteración, y describiéndose todos los síntomas que presente el paciente. A la mayor brevedad serán llamados los peritos para que reconozcan al enfermo y hagan el análisis de las substancias recogidas, emitiendo su opinión sobre las calidades tóxicas que contengan y si han podido causar la enfermedad de que se trate.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 474.
 
-La curación de las personas que hubieren sufrido alguna lesión, se hará por regla general en los hospitales públicos y bajo la dirección de los médicos de éstos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando alguna de dichas personas solicitare ser curada en su casa y por médico de su elección, deberá permitírsele, siempre que conforme a la ley debiere quedar en libertad; pero en este caso las lesiones deberán ser examinadas por dos médicos militares, o si no los hubiere, por los que el juez nombre, a fin de que califiquen la naturaleza de la lesión, y en su caso el resultado de ella. Los mismos médicos certificarán la esencia y sanidad de la herida; pudiendo hacer al lesionado las visitas que estimen oportunas.
-
-Los médicos que se encarguen de la curación de heridos, deberán dar aviso al juez de todos los cambios que sufra el paciente, y el mismo juez podrá ordenar cuantas veces lo estime oportuno que los médicos por él nombrados reconozcan al herido y le informen sobre el estado en que se encuentre, así como sobre las causas que motiven los cambios que se observen.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 475.
 
-Cuando la persona que hubiere recibido la lesión debiere quedar detenida o presa, conforme a la ley, se curará precisamente en los hospitales expresados o en la prisión, si sus reglamentos lo permiten; pero podrá elegir los médicos que la atiendan, con arreglo a las disposiciones de los artículos anteriores.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando el lesionado deba quedar detenido y la gravedad del caso amerite la necesidad de que sea atendido en un sanatorio especial, se permitirá sea curado en él, pero empleando todas las medidas que se consideren adecuadas para hacer efectiva su calidad de detenido.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 476.
 
-La comprobación del cuerpo del delito en los casos de robo, se hará por uno de los medios preferentes que siguen:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Por la prueba de que el inculpado ha tenido en su poder, con posterioridad a la fecha de la comisión del delito los objetos que se dicen robados y la de la propiedad del quejoso;
-
-II.- por la prueba de preexistencia y falta posterior de la cosa materia del delito y de las gestiones hechas por el ofendido para recuperarla, si justifica que se hallaba en situación de poseer la misma cosa y que disfruta de buena opinión.
-
-Cuando el robo se haya cometido con horadación, fractura, escalamiento o empleando llaves falsas, el juez deberá describir los vestigios y las señales que se encontraren, y hará que los peritos declaren sobre el modo y tiempo en que crean se cometió el delito y cuáles pueden haber sido los instrumentos empleados.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 477.
 
-En los casos de incendio, el juez dispondrá que los peritos emitan su dictamen acerca del modo, lugar y tiempo en que se efectuó, la calidad de la materia que lo produjo, las circunstancias por las cuales pueda conocerse si fue intencional y la posibilidad que haya habido de peligro para personas o la propiedad; así como de los perjuicios y daños que se hayan causado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 478.
 
-En los casos de falsedad o falsificación de documentos, se hará una minuciosa descripción del instrumento argüído de falso y se le depositará en lugar seguro, a juicio del juez, haciendo que firmen sobre aquél, si fuere posible, las personas que depongan respecto de su falsedad, y en caso contrario se hará constar el motivo. Al proceso se agregará una copia fotográfica del mismo, y en caso de no poder hacerse esto, una certificada.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-El cuerpo del delito de falsedad se comprobará en la forma prevenida por el artículo 481.
-
-Cualquiera persona que tenga en su poder un documento de carácter militar, público o privado, sobre el cual recaiga sospecha de falsedad, tiene obligación de presentarlo al tribunal, tan luego como sea requerido para ello.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 479.
 
-En general, en todos los delitos en que se haga un daño o se ponga en peligro a las personas o a la propiedad ajena, de diferente modo de aquellos a que se refieren los artículos anteriores, el juez deberá comprobar la calidad de la fuerza o astucia que se hayan empleado, los medios e instrumentos de que se haya hecho uso, la importancia del daño causado o que se haya pretendido causar, e igualmente la gravedad del peligro para la propiedad, la vida o la seguridad de las personas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 480.
 
-Si el delito no hubiere dejado vestigios permanentes o éstos no existieran ya, el juez recogerá todas las pruebas relativas a la naturaleza y circunstancias de los hechos y, en el segundo caso, hará constar los motivos que hayan producido la desaparición de los vestigios y tomará todas las providencias que conduzcan a la comprobación del cuerpo del delito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 481.
 
-Todos los delitos que por este Código no tengan señalada una prueba especial, se justificarán comprobando todos los elementos materiales que los constituyen, según la definición que de ellos se hace en el libro segundo de este Código.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO X. De los documentos públicos y privados
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO V
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 482.
 
-El Ministerio Público, al investigar delitos contra la disciplina militar, podrá solicitar la práctica de un cateo, para lo cual deberá acudir al Juez Militar, o si no lo hubiere al del orden federal o común, en auxilio de la justicia militar, formulando su petición por cualquier medio, expresando su objeto y necesidad, así como la ubicación del lugar a inspeccionar y persona o personas que han de localizarse o de aprehenderse, y los objetos que se buscan o han de asegurarse, a lo que únicamente debe limitarse la diligencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Al concluir el cateo, se levantará acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad judicial que practique la diligencia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 483.
 
-El cateo solamente podrá practicarse desde las seis hasta las dieciocho horas, a no ser en los casos de excepción que menciona el artículo anterior, o cuando la diligencia sea notoriamente de urgencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 484.
 
-Cuando el Ministerio Público Militar practique cateos, observará las reglas siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Si se tratare de delito flagrante, el funcionario procederá a la visita o reconocimiento, sin demora, llamando en el momento de la diligencia a dos vecinos que estime con la capacidad necesaria para intervenir en la diligencia que se practicará en los términos del artículo 16 constitucional;
-
-II.- si no hubiere peligro de hacer ilusoria o difícil la averiguación, se citará al inculpado, para que presencie el acto, y, en su defecto, ya por estar en libertad o no encontrársele, o por tener impedimento para asistir, será representado por dos vecinos que se designarán en el acto de la diligencia, y
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-III.- En todo caso, el jefe, ocupante o encargado de la casa o finca que deba ser visitada, aunque no sea indiciado del hecho que motive la diligencia, será llamado también para presenciar el acto, en el momento que tenga lugar, o antes, si por ello no es de temerse que no dé resultado dicha diligencia. Si no pudieren ser localizadas esas personas, o se tratare de una casa en que haya dos o más familias, se llamará a dos vecinos que se estime tengan capacidad suficiente y con su asistencia se practicará la visita en los lugares que fueren necesarios.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 485.
 
-Si la inspección tuviere que practicarse dentro de algún edificio público, se avisará a la persona a cuyo cargo esté, salvo el caso de urgencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 486.
 
-Si la inspección tuviere que practicarse en la casa oficial de algún agente diplomático, el juez solicitará instrucciones de la Secretaría de Relaciones Exteriores, y procederá de acuerdo con ellas; mientras las recibe, tomará en el exterior de la casa las providencias que estime convenientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 487.
 
-Toda inspección domiciliaria se limitará a la comprobación del hecho que la motive, y de ningún modo se extenderá a indagar delitos en general. Pero si de ella resultare casualmente el descubrimiento de un delito que no hubiere sido objeto directo del reconocimiento, se extenderá un acta por el funcionario que la practique, y en ella hará constar el hecho casual que produjo el descubrimiento, con el fin de justificar que no fue éste el resultado de una pesquisa; instruyéndose, además, las diligencias urgentes que fueren necesarias para dar cuenta con ellas al procurador militar, siempre que el delito sea de aquellos en que para proceder no se exija querella necesaria.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 488.
 
-En las casas que estén habitadas, la inspección se verificará sin causar a los habitantes más molestias que las que sean indispensables para el objeto de la diligencia. Toda vejación indebida que se cause a las personas, será castigada con la corrección disciplinaria que la autoridad que haya ordenado el procedimiento, estime procedente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 489.
 
-A excepción de los objetos que se relacionen con el proceso que motivare el reconocimiento, todos los demás quedarán a disposición de su dueño o tenedor.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 490.
 
-En la misma forma determinada en este capítulo, se procederá al cateo que se practique al cumplimentar una requisitoria de otro tribunal o funcionario competente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO XI. De los peritos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO VI
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 491.
 
-El juez tomará declaración preparatoria al detenido, dentro de las veinticuatro horas siguientes a la en que hubiese sido puesto a su disposición.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 492.
 
-El Juez tendrá la obligación de hacer saber al inculpado, en este acto:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- El nombre de su acusador, el de los testigos que declaren en su contra, la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-II.- La garantía para su libertad bajo caución en su caso, cuyo monto y forma deberá ser asequible;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-III.- El derecho que tiene a una defensa adecuada por sí, por abogado, o por persona de su confianza. Si no quiere o no puede nombrar defensor después de haber sido requerido, el juez le designará un defensor de oficio;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-IV.- El derecho de que su defensor comparezca en todos los actos del proceso, quien tendrá la obligación de hacerlo cuantas veces se le requiera; de revocar su nombramiento y hacer otro en cualquier estado del proceso; y que si nombrare a varios defensores, deberá designar a aquél con quien deban entenderse las diligencias, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-V.- Que no podrá ser obligado a declarar y que si desea declarar podrá hacerlo asistido de su defensor, en forma oral o escrita o dictar sus declaraciones.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 493.
 
-Las declaraciones se tomarán separadamente a cada una de las personas complicadas en el delito y no deberá exigírseles protesta de decir verdad, sino que solamente se les exhortará a producirse con arreglo a ella.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 494.
 
-El presunto delincuente será interrogado:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Por su nombre, apellido, apodo, edad, estado, profesión u oficio antes de ingresar al ejército, nacionalidad, domicilio y residencia, posición militar, servicio o comisión que tenía en la fecha en que se cometió el delito y lugar donde desempeñaba uno y otra;
-
-II.- si ha pasado sus revistas de administración y ha hecho el servicio de su clase; cuándo montó su primera guardia; si ha recibido su pre y vestuario con igualdad a sus compañeros, y cuáles eran las clases u oficiales por quienes estaba mandado cuando se cometió el delito.
-
-Tratándose de oficiales se omitirán las preguntas indicadas en esta fracción;
-
-III.- si ha estado preso o procesado alguna otra vez, y por qué causa, ante qué tribunal, qué sentencia recayó y si cumplió la pena que se le impuso;
-
-IV.- si conoce el instrumento con que fue cometido el delito o cualesquiera otros objetos que con aquél tengan relación, mostrándole unos y otros, si fuere posible; y
-
-V.- todos los demás hechos y pormenores que puedan, a juicio del juez, conducir a la averiguación de la verdad o descubrir los antecedentes y causas que motivaron el delito y produjeron su perpetración.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 495.
 
-Las preguntas serán siempre directas, sin que por ningún concepto puedan hacerse de un modo capcioso o sugestivo. Tampoco se podrán emplear con el procesado, amenazas o promesas de ninguna especie para conseguir que declare en determinado sentido.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-El Agente del Ministerio Público y la defensa tendrán el derecho de interrogar al acusado; pero el juez tendrá en todo tiempo la facultad de desechar la pregunta, si a su juicio fuere capciosa, asentando en este caso y en sus términos, la pregunta formulada.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 496.
 
-Cuando fuere necesario suspender la declaración preparatoria, se harán constar las causas de la suspensión y cesando ellas, se continuará la diligencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 497.
 
-Nunca se obligará al procesado a contestar precipitadamente. Las preguntas se le repetirán tantas veces cuantas sea necesario para que las comprenda bien, y especialmente cuando la respuesta no concuerde con la pregunta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-En estos casos, sólo se escribirá la respuesta que dé a la pregunta que por última vez se le haga.
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 498.
 
-Los inculpados podrán contestar las preguntas que se les hicieren. Si se negaren a confesar, se harán constar en la diligencia, firmando éstos si supieren o imprimiendo sus huellas digitales.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 499.
 
-El acusado podrá manifestar cuanto estime conveniente para su defensa, debiéndose evacuar con urgencia las citas que hiciere y las demás diligencias que proponga.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 500.
 
-Si se advierte en el procesado indicios de enajenación mental, se averiguará, por él reconocimiento de facultativos y por medio de pruebas u otras observaciones, si la enajenación es cierta o simulada, permanente o transitoria, anterior o posterior al delito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Lo que antecede no será obstáculo para la prosecución de la causa y prática (sic) de las diligencias necesarias para el esclarecimiento de los hechos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 501.
 
-Si el acusado negare su nombre o domicilio o los cambiase, se procederá a su identificación por los documentos militares en que deban constar esas circunstancias personales.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 502.
 
-Si se advirtiere que el procesado es menor de dieciocho años, se comprobará su edad con su filiación; mas si hubiere contradicciones entre ésta y lo que diga el inculpado, se comprobará aquélla con el acta de nacimiento o mediante juicio pericial.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 503.
 
-El procesado podrá declarar ante el juez tantas veces como quisiere, y éste deberá recibirle inmediatamente sus declaraciones. El juez a su vez, podrá ampliar al acusado su declaración preparatoria cuantas veces lo estime oportuno y con relación a los hechos que creyere conveniente esclarecer.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 504.
 
-Recibida la declaración preparatoria, siempre que lo solicite el indiciado y que fuere posible, será careado en presencia del juez, con quienes depongan en su contra, pudiendo aquél hacer a éstos todas las preguntas conducentes a su defensa.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO XII. De la inspección judicial y reconstrucción de hechos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO VII
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 505.
 
-Fuera del caso de pena impuesta por sentencia irrevocable o de corrección disciplinaria, la libertad de las personas sólo puede ser restringida con el carácter de aprehensión, detención o prisión preventiva; pero es necesario que tal restricción se verifique en los términos de los artículos 16, 18 y 19 de la Constitución Federal.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 506.
 
-Salvo lo que se previene en el artículo siguiente, nadie podrá ser aprehendido sino por autoridad competente y en virtud de orden escrita que ella dicte, que funde y motive la causa legal del procedimiento.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 507.
 
-En los casos de delito flagrante, el indiciado podrá ser detenido sin necesidad de orden, por cualquier persona, poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud a la del Ministerio Público Militar. En esos casos y en los urgentes el juez que reciba la consignación del detenido, deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-La prolongación de la detención del inculpado será sancionada en los términos de este Código.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 508.
 
-Son competentes para librar órdenes de aprehensión, los jueces y el Supremo Tribunal Militar, en su caso y para que puedan hacerlo se requiere:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que el Ministerio Público la haya solicitado; y
-
-II.- que se reúnan los requisitos señalados en el artículo 16 de la Constitución Federal.
-
-Toda orden de aprehensión se notificará al Ministerio Público.
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 509.
 
-Los encargados de ejecutar las órdenes de aprehensión, cuidarán de cumplir su encargo, evitando toda violencia y el uso innecesario de la fuerza; pondrán a disposición el detenido a la autoridad judicial que ordenó su aprehensión.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Los directores de las prisiones no podrán recibir ninguna persona sin que exista constancia de que ya fue puesta a disposición del juez, salvo en el caso de reaprehensión.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 510.
 
-La orden de aprehensión debe substituirse con la simple cita de comparecencia, cuando el delito no merezca pena privativa de libertad; pero si el inculpado no comparece en virtud de la citación o hay temor de que se fugue, el juez dictará las medidas que juzgue conducentes para que comparezca o para que no se sustraiga de la acción de la justicia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 511.
 
-Cuando la aprehensión deba practicarse en distinta jurisdicción de aquella en que se haya incoado el proceso, se solicitará por medio de exhorto librado por el juez respectivo, al que tuviere el carácter de permanente en el lugar donde se encontrare o pudiere encontrarse el acusado, o al de turno si fueren varios, y si en ese lugar no hubiere juez militar, el exhorto se dirigirá a la autoridad judicial común, por conducto del Tribunal Superior de quien dependa ésta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Para el extranjero se pedirá la aprehensión por conducto de la Secretaría de Relaciones Exteriores.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 512.
 
-En los casos de suma urgencia, podrá usarse de la vía telegráfica comunicando por medio de oficio al encargado de la oficina respectiva el mensaje que deba pasar. De ese oficio quedará copia certificada en el proceso.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Lo dispuesto en el presente artículo, se entiende sin prejuicio de que el juez, a la mayor brevedad posible, remita el exhorto con las formalidades de ley.
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 513.
 
-Al recibir en una prisión militar en calidad de detenida a cualquier persona, el director otorgará el recibo correspondiente, con nota del día y hora en que se efectuare su ingreso; siempre y cuando exista constancia que ha sido puesta a disposición de la autoridad judicial.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 514.
 
-La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez sin dilación alguna y bajo su más estricta responsabilidad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 515.
 
-Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión que llene los siguientes requisitos:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- La fecha y hora exacta en que se pronuncie;
-
-II.- los nombres del juez que dicte la determinación y del secretario que la autorice;
-
-> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
-
-III.- La expresión del delito imputado al indiciado por el Ministerio Público, así como el lugar, tiempo y circunstancias de ejecución;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-IV.- Que se haya tomado al indiciado su declaración preparatoria con las formalidades legales;
-
-> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
-
-V.- El delito o delitos por los que deberá seguirse el proceso;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-VI.- Todos los datos que contenga la averiguación que hagan probable la responsabilidad del indiciado;
-
-> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
-
-VII.- Todos los actos que acrediten el cuerpo del delito;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-VIII.- Que el delito imputado motive la imposición de cuando menos pena privativa de libertad;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-IX.- Que no esté justificada, a favor del indiciado, la existencia de alguna circunstancia excluyente; y
-
-X.- que no se haya extinguido la acción penal.
-
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
-
-El plazo antes señalado se podrá prorrogar por un término igual a solicitud que haga el indiciado, por si o por conducto de su defensor, al rendir su declaración preparatoria, o dentro de las tres horas siguientes, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica, siempre y cuando las mismas no hayan sido aportadas y desahogadas durante la averiguación previa.
-
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
-
-El Ministerio Público no podrá solicitar dicha ampliación ni el juez acordarla de oficio. El Ministerio Público puede en relación con las pruebas y alegatos que promovieren el inculpado o su defensor, hacer las promociones correspondientes al interés social que representa.
-
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
-
-La prórroga del plazo se deberá notificar a la autoridad responsable del establecimiento en donde, en su caso, se encuentre internado el indiciado, para los efectos a que se refiere el segundo párrafo del artículo 19 constitucional.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 516.
 
-Cuando por tener el delito únicamente señalada pena no privativa de libertad o alternativa, no pueda restringirse la libertad, el juez dictará auto de sujeción a proceso con efectos del de formal prisión.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 517.
 
-De todo auto de formal prisión o de sujeción a proceso, se remitirá copia autorizada al Supremo Tribunal Militar, al comandante de la guarnición, al Procurador General y al director de la prisión militar donde estuviere el procesado tan pronto como se pronuncie. El director de la prisión militar que no reciba copia autorizada del citado auto dentro de las setenta y dos horas contadas a partir de que el procesado haya sido puesto a disposición de la autoridad judicial, o dentro del plazo ampliado que se haya concedido por el juez, deberá hacerlo del conocimiento del propio juez, en el acto mismo de concluir el término y si no se recibe la constancia mencionada dentro de las tres horas siguientes pondrá al inculpado en libertad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 518.
 
-Tan luego como se haya dictado el auto de prisión preventiva o de sujeción a proceso contra alguna persona, se procederá para asegurar su identidad, a retratarla, agregando al proceso dos copias fotográficas; una de frente y otra de perfil, dejando dos en los archivos de la prisión, y remitiéndose otras dos al Procurador General. El juez ordenará que se identifique al preso por el sistema administrativamente adoptado y en defecto de los anteriores medios, se tomará en el proceso la media filiación del acusado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO XIII. De los testigos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO VIII
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 519.
 
-El auto de libertad de un detenido, se fundará en la falta de pruebas relativas a la existencia del cuerpo del delito o a la presunta responsabilidad del inculpado; contendrá los requisitos señalados en las fracciones I, II y III del artículo 515, así como todos los datos que arroje la averiguación y motiven las consideraciones que funden dicho auto.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 520.
 
-El auto de libertad por falta de méritos, no impedirá que posteriormente, con nuevos datos, se proceda en contra del indiciado. Las diligencias practicadas, quedarán en calidad de averiguación a cargo del juez, quien deberá practicar todas las que pidan el Ministerio Público y el indiciado dentro de un término que no excederá de ciento veinte días; transcurrido el cual, si no hubiere nuevos datos que funden la detención y formal prisión, en su caso, declarará a petición de cualesquiera de las partes si hay o no delito qué perseguir.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 521.
 
-Cuando el juez deba dictar auto de libertad porque la ausencia de pruebas del cuerpo del delito o de la responsabilidad del indiciado dependan de omisiones del Ministerio Público o agente de la Policía Ministerial, el mismo juez al dictar su determinación, mencionará expresamente tales omisiones.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO XIV. De los careos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO IX
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 522.
 
-Se reconocen como medios de prueba:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- La confesión judicial;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II.- los documentos públicos y privados;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-III.- los dictámenes de peritos;
+### CAPITULO X
 
-IV.- la inspección judicial;
-
-V.- las declaraciones de testigos; y
-
-VI.- las presunciones.
-
-También se admitirá como prueba todo aquello que se presente como tal, siempre que a juicio del funcionario que practique la averiguación, pueda constituirla. Cuando éste lo juzgue necesario, podrá, por cualquier medio legal, establecer la autenticidad de dicho medio de prueba.
-
-### CAPITULO XV. De la confrontación
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 523.
 
-La confesión judicial es la declaración voluntaria hecha por persona en pleno uso de sus facultades mentales, ante el tribunal o juez de la causa o ante el Agente del Ministerio Público que haya practicado las primeras diligencias, sobre hechos propios constitutivos del tipo delictivo sobre materia de la imputación sin que medie incomunicación, intimidación o tortura.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 524.
 
-La confesión judicial es admisible en cualquier estado del proceso, hasta antes de pronunciarse la sentencia definitiva.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 525.
 
-La confesión rendida ante cualquier autoridad distinta del ministerio público o del juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO XVI. De las presunciones
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO XI
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 526.
 
-Son documentos públicos:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Los testimonios de las escrituras públicas otorgadas con arreglo a derecho;
-
-II.- los documentos auténticos expedidos por funcionarios que desempeñen cargo público, en lo que se refiere al ejercicio de sus funciones;
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
-
-III.- los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos o dependientes del Gobierno Federal o de los particulares de los Estados, del Distrito Federal o de la Baja California;
-
-IV.- las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil. En estos casos podrán el juez y los interesados promover el cotejo, cuando proceda con arreglo a derecho y en la forma prescrita por la ley;
-
-V.- las certificaciones de nacimiento, reconocimiento y designación de hijos, emancipación, tutela, matrimonio y defunción, dadas por los encargados del Registro; y
-
-VI.- las actuaciones judiciales de toda especie.
-
-Son documentos privados los que carecen de los requisitos antes enumerados.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 527.
 
-Siempre que alguna de las partes pidiere copia o testimonio de documentos que obren en oficinas públicas, o de constancias procesales, la contraparte tendrá derecho a que se ordene la adición que estime conducente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 528.
 
-Los documentos privados, procedentes de una de las partes, presentados por otra, se reconocerán por aquélla.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Con este objeto, se le mostrarán originales de modo que pueda ver todo el documento y no sólo la firma.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 529.
 
-Cuando el Ministerio Público creyere que pueden encontrarse pruebas del delito en la correspondencia postal o telegráfica que se dirija al indiciado, pedirá al juez y éste ordenará que se recoja dicha correspondencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 530.
 
-La correspondencia recogida por el juez, se abrirá por éste en presencia del secretario, del agente del ministerio público y del indiciado o procesado, si estuviere en el lugar y asistido de su defensor.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-El juez y el Ministerio Público leerán para sí la correspondencia. Si no tuviere relación con el hecho que se averigua, se entregará al indiciado o procesado o, si estuviere ausente, a alguna persona de su confianza. Si la correspondencia tuviere alguna relación con el hecho material del juicio, el juez comunicará su contenido al indiciado o procesado, y mandará agregar el documento al proceso; en todo caso, levantará acta de la diligencia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 531.
 
-El auto que se dicte en los casos de los artículos anteriores, determinará con exactitud la correspondencia postal o telegráfica que haya de ser examinada.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 532.
 
-Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse y decretarse el cotejo de letras o firmas, que se practicará conforme a las siguientes reglas:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- El cotejo se hará por peritos, pudiendo asistir a la diligencia respectiva el funcionario que esté practicando la averiguación, y en ese caso se levantará el acta correspondiente;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II.- el cotejo se hará con documentos indubitables, es decir, con los que las partes, de común acuerdo, reconozcan; con aquellos cuya letra o firma haya sido reconocida judicialmente, y con el escrito impugnado, en la parte en que reconozca la letra como suya aquel a quien perjudique; y
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-III.- el juez podrá ordenar que se repita el cotejo por otros peritos.
+### CAPITULO XII
 
-### CAPITULO XVII. Del valor jurídico de la prueba
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 533.
 
-Siempre que para el examen de alguna persona o de algún objeto, se requieran conocimientos especiales, se procederá con intervención de peritos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 534.
 
-Por regla general, los peritos que se examinen, deberán ser dos o más; pero bastará uno cuando sólo éste pueda ser habido, o haya peligro en el retardo o cuando el caso sea de poca importancia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 535.
 
-Las partes tendrán derecho a nombrar peritos, a los que se les hará saber por el juez su nombramiento, suministrándoles todos los datos que fueren necesarios para que emitan su opinión.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 536.
 
-Por regla general el reconocimiento de lesiones y la autopsia, en su caso, se practicarán por los peritos médico-legistas militares.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando se trate de lesión proveniente de delito y la persona lesionada se encontrare en algún hospital público, los médicos de éste se tendrán por peritos nombrados, sin perjuicio de que el juez, a propuesta de las partes, nombre otros.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 537.
 
-Los peritos que acepten el cargo, con excepción de los oficiales, deberán rendir la protesta legal.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 538.
 
-El juez fijará a los peritos el tiempo en que deban desempeñar su cometido. Transcurrido este, si no rinden su dictamen, serán apremiados por el juez, del mismo modo que los testigos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si apesar (sic) del primer apremio, el perito no presentare su dictamen dentro del término que se le señale, en caso de que sea militar, será consignado al Ministerio Público del ramo, para que solicite incoación de proceso por desobediencia; y si fuere civil, al Procurador del Orden Común, para los efectos de su representación.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 539.
 
-Siempre que los peritos nombrados discordaren entre sí, el juez los citará a una junta, en la que se decidirán los puntos de diferencia. En el acta de la diligencia se asentará el resultado de la discusión. Si en dicha junta no llegaren a un acuerdo, el juez nombrará un tercero en discordia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 540.
 
-Los peritos deberán tener título oficial en la ciencia o arte a que se refiera el punto sobre el cual deben dictaminar, si la profesión o arte están legalmente reglamentados; en caso contrario, el juez nombrará peritos prácticos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 541.
 
-También podrán ser nombrados peritos prácticos, cuando no hubiere titulados en el lugar en que se siga la instrucción, bastando sus dictámenes para tener por comprobado el correspondiente elemento del cuerpo del delito, dentro del término constitucional, sin perjuicio de lo que se expresa en el artículo siguiente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 542.
 
-Los dictámenes rendidos por peritos prácticos, serán enviados al juez del lugar en que haya peritos titulados, para que con vista de aquéllos emitan su opinión. De los primeros se dejará copia certificada en autos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 543.
 
-Los peritos deberán ser citados en la misma forma que los testigos; reunirán, además, las propias condiciones de éstos y estarán sujetos a iguales causas de impedimento. Serán preferidos los que hablen el idioma español.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 544.
 
-El juez hará a los peritos todas las preguntas que crea oportunas; les dará por escrito o de palabra, pero sin sugestión alguna, los datos que tuviere, y hará constar estos hechos en el acta de la diligencia. Las partes tendrán derecho de interrogar a los peritos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 545.
 
-Los peritos practicarán todas las operaciones y experimentos que su ciencia o arte les sugiera, y expresarán los hechos y circunstancias que sirvan de fundamento a su dictamen.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 546.
 
-Los peritos emitirán su dictamen por escrito, y lo ratificarán en diligencia especial, en el caso de que sea objetado de falsedad o el juez lo estime necesario.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Los peritos médico-legistas militares no necesitan ratificar los dictámenes o certificados que emitan en asuntos del orden judicial militar.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 547.
 
-Cuando el juicio pericial recaiga sobre objetos que se consuman al ser analizados, los jueces no permitirán que se verifique el primer análisis, sino sobre la mitad de las substancias a lo sumo, a no ser que su cantidad sea tan escasa, que los peritos no puedan emitir su opinión sin consumirlas todas. Esto se hará constar en el acta respectiva.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 548.
 
-La designación de peritos, deberá recaer en las personas que desempeñen este cargo por nombramiento oficial y a sueldo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si no hubiere peritos oficiales, se nombrarán de entre las personas que desempeñen el profesorado del ramo correspondiente en las escuelas nacionales, o bien de entre los funcionarios o empleados de carácter técnico en establecimientos o corporaciones dependientes del Gobierno.
-
-Si no hubiere peritos de los que menciona el párrafo anterior, podrá nombrarse a otros. En este caso, los honorarios se cubrirán según lo que se pague por costumbre en los establecimientos particulares de que se trata, a los empleados permanentes de los mismos, teniendo en cuenta el tiempo que los peritos debieren ocupar en el desempeño de su comisión.
-
-Cuando los peritos que gocen sueldo del Erario, emitan su dictamen, no podrán cobrar honorarios.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 549.
 
-El juez, cuando lo crea conveniente, podrá ordenar que asistan los peritos a alguna diligencia, y se impongan de todo el proceso o de parte de él.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 550.
 
-Cuando quienes intervengan en un proceso no hablen el idioma español, el juez nombrará uno o dos intérpretes que protestarán traducir fielmente las preguntas y respuestas que deben trasmitir.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 551.
 
-Cuando lo solicite cualquiera de las partes, podrá escribirse la declaración en el idioma del declarante, sin que ésto sea obstáculo para que el intérprete haga la traducción.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 552.
 
-Las partes podrán recusar al intérprete fundando la recusación, y el juez fallará el incidente de plano y sin recurso.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 553.
 
-Ni las partes, testigos o vocales de un Consejo de Guerra, podrán ser intérpretes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 554.
 
-Cuando quienes intervengan en un proceso fueren sordos o mudos, el juez nombrará como intérprete a la persona que pueda entenderlos. Si saben leer y escribir, se les interrogará por escrito y se les prevendrá que contesten del mismo modo. Cuando fueren ciegos, podrán acompañarse de persona que les lea su declaración y la firme o imprima sus huellas digitales después de que la ratifiquen; si no se hicieren acompañar por alguien, el juez designará la persona que lea y firme la diligencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO XVIII. De las determinaciones que deben dictarse cuando a juicio del juez, la instrucción estuviere concluída
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO XIII
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 555.
 
-El juez, al practicar la inspección judicial, procurará estar asistido de los peritos que deban emitir posteriormente su dictamen sobre los lugares u objetos inspeccionados. Las partes pueden concurrir a ella a hacer las observaciones que estimen oportunas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 556.
 
-En caso de lesiones, al sanar el herido, los jueces o tribunales darán fe de las consecuencias que hayan originado aquéllas y sean visibles, practicando inspección de la cual se levantará el acta respectiva.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 557.
 
-La inspección podrá tener el carácter de reconstrucción de hechos y practicarse hasta antes de dictarse sentencia ejecutoria; tendrá por objeto apreciar las declaraciones que se hayan rendido y los dictámenes periciales que se hayan formulado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Esta diligencia deberá practicarse precisamente en el lugar en que se cometió el delito, cuando el sitio tenga influencia en el desarrollo de los hechos que se reconstruyan y esté dentro de la jurisdicción; en caso contrario, podrá practicarse en cualquier otro lugar.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 558.
 
-A la diligencia de reconstrucción deberán concurrir:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- El juez con su secretario;
-
-II.- el acusado y su defensor;
-
-III.- el agente del Ministerio Público;
-
-IV.- los testigos presenciales, si residieren en el lugar;
-
-V.- los peritos nombrados, siempre que el juez o las partes lo estimen necesario o ellos deseen concurrir;
-
-VI.- las demás personas que el juez crea conveniente y que exprese en el mandamiento respectivo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 559.
 
-Para practicar la reconstrucción, se tomará a testigos y peritos la protesta de producirse con verdad; se designará a la persona o personas que substituyan a los actores en el delito que no estén presentes y se dará fe de las circunstancias y pormenores que tengan en relación con el delito. En seguida se leerá la declaración del acusado y se hará que éste explique prácticamente las circunstancias de lugar, tiempo y forma en que se desarrollaron los hechos. Lo mismo se hará con cada uno de los testigos presentes. Entonces los peritos emitirán su opinión, en vista de las declaraciones rendidas y de las huellas e indicios existentes, atendiendo a las indicaciones y preguntas que hagan las partes y la autoridad, la que procurará que los dictámenes versen sobre puntos precisos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO I. Del procedimiento ante el juez
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO XIV
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 560.
 
-Si por las revelaciones hechas en las primeras diligencias, en la querella o por cualquier otro modo, apareciere necesario el examen de alguna persona para el esclarecimiento de un hecho delictuoso, de sus circunstancias o del delincuente, el juez deberá examinarlas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 561.
 
-Durante la instrucción, el juez no podrá dejar de examinar a los testigos presentes cuya declaración soliciten las partes. También deberá examinar a los testigos ausentes, en la forma prevenida por este Código sin que ésto demore la marcha de la instrucción o impida al juez darla por terminada cuando haya reunido los elementos necesarios.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 562.
 
-Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes, deberá ser examinada como testigo siempre que pueda dar alguna luz para la averiguación del delito y el juez o las partes estimen necesario su examen. El valor probatorio de su testimonio se aquilatará en la sentencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 563.
 
-No se obligará a declarar al tutor, curador, pupilo o cónyuge del acusado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente, sin limitación de grados y en la colateral hasta el tercero inclusive, ni a los que estén ligados con el acusado por amor, respeto o gratitud. Si estas personas tuvieren voluntad de declarar, se les recibirá su declaración y se hará constar esta circunstancia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 564.
 
-En materia penal no puede oponerse tacha a los testigos; pero de oficio o a petición de parte, el juez hará constar en el proceso todas las circunstancias que influyan en el valor probatorio de los testimonios.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 565.
 
-Los testigos darán siempre la razón de su dicho, que se hará constar en la diligencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 566.
 
-Cuando los testigos que deban ser examinados, estuvieren ausentes, serán citados por medio de cédula o por telefonema que reúna los requisitos del artículo siguiente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 567.
 
-La cédula contendrá:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- La designación legal del tribunal ante quien deba presentarse el testigo;
-
-II.- el nombre, apellido y habitación del testigo, si se supieren; en caso contrario, los datos necesarios para identificarlo;
-
-III.- el día, hora y lugar en que deba comparecer;
-
-IV.- la pena que se le impondrá si no compareciere, y
-
-V.- las firmas del juez y secretario. Sus nombres en caso de telefonema.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 568.
 
-La citación puede hacerse en persona al testigo donde quiera que se encuentre, o en su habitación, aun cuando no estuviere en ella; pero en este caso, se hará constar el nombre de la persona a quien se entrega la cédula. Si aquélla manifestare que el citado está ausente, dirá dónde se encuentra, desde qué tiempo y cuándo se espera su regreso. Todo ésto se hará constar para que el juez dicte las providencias procedentes. También podrá enviarse la cédula por correo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 569.
 
-Si el testigo fuere militar o empleado de algún ramo del servicio público, la citación se hará por conducto del superior jerárquico respectivo, a menos que la eficacia de la averiguación exija lo contrario.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 570.
 
-Si el testigo se encontrare en la población donde el juez reside, podrá hacerlo comparecer librando orden para ello, la cual se extenderá en la misma forma que la cédula citatoria.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si el testigo estuviere impedido para comparecer, el juez le tomará su declaración en el sitio en que se encuentre.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 571.
 
-Si el testigo se hallare fuera de la población, pero dentro de la misma jurisdicción, si por la distancia no se le pudiere hacer concurrir al juzgado, o el juez no pudiere transladarse, lo examinará por exhorto dirigido al juez de su residencia. Si ésta se ignorare, se encargará a la policía que averigüe el paradero del testigo y lo cite. Si esta investigación no tuviere buen éxito, el juez podrá hacer la citación por medio de edicto en el periódico oficial.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 572.
 
-Fuera del caso de enfermedad o de imposibilidad física, todas las personas están obligadas a presentarse en los tribunales cuando sean citadas, cualesquiera que sean su categoría y las funciones que ejerzan. Sin embargo, cuando hayan de ser examinados como testigos, se recibirán las declaraciones por medio de informe escrito que se les pedirá en oficio que contenga todas las preguntas necesarias, a quienes funjan como: Presidente de la República, secretarios, subsecretarios, oficiales mayores de las Secretarías de Estado, jefes de departamentos, gobernadores de territorios federales, miembros que integren un tribunal superior, comandantes de guarnición, generales de división y miembros del cuerpo diplomático, dirigiendo a estos últimos el oficio mencionado por conducto de la Secretaría de la Defensa Nacional o de Marina según corresponda, que lo enviará a la de Relaciones Exteriores.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando sea necesario una ratificación de dichos funcionarios, ocurrirá el juez con su secretario a la casa u oficina de ellos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 573.
 
-Los testigos deben ser examinados separadamente por el juez, en presencia del secretario. Sólo las partes podrán asistir a la diligencia, salvo los casos siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Cuando el testigo sea ciego,
-
-II.- cuando sea sordo o mudo, y
-
-III.- cuando ignore el idioma castellano.
-
-En estos casos, se procederá como lo disponen los artículos 550 y 554.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 574.
 
-Antes de que los testigos comiencen a declarar, el juez los instruirá de las penas con que castiga este Código a quienes se producen con falsedad, o se niegan a declarar o a otorgar la protesta de ley. Esto podrá hacerse hallándose reunidos todos los testigos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 575.
 
-Después de tomada la protesta, se preguntará a cada testigo su nombre, apellido, edad, nacionalidad, vecindad, habitación, estado, profesión u oficio, si se halla ligado con el acusado o con el querellante por vínculos de parentesco, amistad o cualquier otro, y si tiene algún motivo de odio o de rencor contra alguno de ellos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 576.
 
-Los testigos declararán de viva voz, sin que les sea permitido leer las respuestas que lleven escritas. Sin embargo, podrán ver algunas notas o documentos que llevaren, según la naturaleza de la causa a juicio del juez.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Las partes pueden examinar a los testigos, haciéndoles las preguntas que estimen convenientes por conducto del juez.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 577.
 
-Las declaraciones se redactarán con claridad y usando, hasta donde sea posible, de las mismas palabras empleadas por el testigo. Si éste quisiere dictar o escribir su declaración, se le permitirá hacerlo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 578.
 
-Si la declaración se refiere a algún objeto en depósito, después de interrogar al testigo acerca de las señales que caracterizan dicho objeto, se le mostrará para que lo reconozca y firme sobre él si fuere posible.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 579.
 
-Si la declaración se refiere a un hecho que hubiere dejado vestigios permanentes en algún lugar, el testigo podrá ser conducido a él para que haga las explicaciones convenientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 580.
 
-Concluída la diligencia, se leerá al testigo su declaración, o la leerá él mismo si quisiere, para que la ratifique o la enmiende. En seguida, el testigo firmará esa declaración o lo hará por él la persona que legalmente le acompañe.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si no supiere o no quisiere firmar, se hará constar esta circunstancia en todo caso y se tomarán sus huellas digitales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 581.
 
-Siempre que se tome declaración a un menor de edad, a un pariente del acusado, o a cualquiera otra persona que por circunstancias especiales sea sospechosa de falta de veracidad o de exactitud en su dicho, se hará constar ésto en el acta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 582.
 
-A los menores de dieciocho años en vez de exigírseles protesta de decir verdad, se les exhortará para que la digan.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 583.
 
-Si de la instrucción aparecieren indicios bastantes para sospechar que algún testigo se ha producido con falsedad, o se ha contradicho manifiestamente en su (sic) declaraciones, será consignado inmediatamente al Ministerio Público; se mandarán compulsar las piezas conducentes para la averiguación del delito sin que por esto se suspenda la causa que se esté siguiendo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 584.
 
-Cuando hubiere de ausentarse alguna persona que pueda declarar acerca del delito, de sus circunstancias o de la persona del acusado, el juez, a pedimento de cualquiera de las partes, podrá arraigar al testigo por el tiempo que fuere estrictamente necesario para que rinda su declaración.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 585.
 
-El juez podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rinda su declaración.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO II. Del procedimiento previo al juicio ante el Consejo de Guerra Ordinario
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO XV
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 586.
 
-Los careos de los testigos entre sí, y de éstos con el ofendido, deberán practicarse durante la instrucción y a la brevedad posible, sin perjuicio de repetirlo cuando el juez lo estime oportuno, o cuando surjan nuevos puntos de contradicción.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Siempre que lo solicite el procesado, será careado en presencia del juez, con quienes depongan en su contra.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 587.
 
-En todo caso, se careará un solo testigo con otro, con el procesado o con el ofendido; si se practicare esta diligencia durante la instrucción, no concurrirán a ella más personas que las que deban carearse, las partes y los intérpretes, si fuere necesario.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 588.
 
-Nunca se hará constar en una diligencia más de un careo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 589.
 
-Los careos se practicarán dando lectura, en lo conducente, a las declaraciones que se reputen contradictorias llamando la atención de los careados sobre los puntos de contradicción, a fin de que entre sí, se reconvengan y de tal reconvención pueda obtenerse la verdad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 590.
 
-Cuando alguno de los que deban ser careados, no fuere encontrado o residiere en otro lugar, o estuviere fuera de plaza, se librará la citación o exhorto correspondiente para que comparezca.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO III. Del juicio ante el Consejo de Guerra Ordinario
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO XVI
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 591.
 
-Toda persona que tuviere que referirse a otra en su declaración o en cualquier otro acto judicial, lo hará de un modo claro y distinto que no deje lugar a duda, respecto a la persona que señale, mencionando su nombre, apellido, habitación y demás circunstancias que puedan darla a conocer.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 592.
 
-Cuando el que declare ignore los datos a que se refiere el artículo anterior, pero manifieste poder reconocer a la persona si se le presentan, se procederá a la confrontación. También se practicará ésta, cuando el declarante asegure conocer a una persona y haya motivo para sospechar que no la conoce.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 593.
 
-Al practicarse la confrontación, se cuidará de:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que la persona que sea objeto de ella, no se disfrace, ni se desfigure, ni borre las huellas o señales que puedan servir al que tiene que designarla;
-
-II.- que aquella se presente acompañada de otros individuos vestidos con ropas semejantes y aun con las mismas señas que las del confrontado, si fuere posible, y
-
-III.- que los individuos que acompañen a la persona que va a confrontarse sean de clase análoga, atendida su educación, modales y circunstancias especiales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 594.
 
-Si alguna de las partes pidiere que se tomaren mayores precauciones que las prevenidas en el artículo anterior, podrá acordarlas el juez, siempre que no perjudiquen la verdad ni aparezcan inútiles o maliciosas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 595.
 
-El que ha de ser confrontado podrá elegir el sitio en que debiere ser colocado entre sus acompañantes a esta diligencia, y pedir se excluya de la reunión a la persona que le parezca sospechosa. Queda al arbitrio del juez conceder o negar la petición.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 596.
 
-La diligencia de confrontación se preparará colocando en fila a la persona que vaya a ser confrontada y a las que la acompañen. Se tomará al declarante la protesta de decir verdad y se le interrogará:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Si persiste en su declaración anterior;
-
-II.- si conocía con anterioridad a la persona quien atribuye el hecho, si la conoció en el momento de la ejecución del que se averigua, y
-
-III.- si después de la ejecución del hecho la ha visto, en qué lugar, por qué causa y con qué motivo.
-
-Se conducirá entonces al declarante frente a las personas que formen la fila; si hubiere afirmado conocer a aquella de cuya confrontación se trata, se le permitirá reconocerla detenidamente, y se le prevendrá que toque con la mano a la designada, manifestando las diferencias o semejanzas que advierta entre el estado actual y el que tenía en la época a que en su declaración se refiere.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 597.
 
-Cuando sean varios los declarantes o las personas confrontadas, se verificarán tantos actos, separados cuantas sean las confrontaciones que deban hacerse.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO IV. De la policía de la audiencia
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO XVII
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 598.
 
-Las presunciones o indicios son las circunstancias y antecedentes que, teniendo relación con el delito, pueden razonablemente fundar una opinión sobre la existencia de los hechos investigados.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO V. Del juicio ante el consejo de guerra extraordinario
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO XVIII
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 599.
 
-Los jueces apreciarán las pruebas con sujeción a las reglas contenidas en este capítulo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 600.
 
-El que afirma está obligado a probar. También lo está el que niega cuando su negación es contra una presunción legal o envuelve la afirmación expresa de un hecho.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 601.
 
-No puede condenarse al acusado sino cuando se haya probado que existió el delito y que él lo perpetró. Probados estos hechos, se presumirá que el acusado obró con dolo, a no ser que se averigüe lo contrario o que la ley exija la intención dolosa para que haya delito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 602.
 
-En caso de duda, debe absolverse.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 603.
 
-La confesión judicial hará prueba plena, cuando concurran las siguientes circunstancias:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que esté plenamente comprobada la existencia del delito;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-II.- Que se haga por persona mayor de dieciocho años, en su contra, con pleno conocimiento y sin coacción ni violencia;
-
-III.- que sea de hecho propio;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-IV.- Que se haga ante el juez o tribunal de la causa, o ante el agente del ministerio público que haya practicado las primeras diligencias, y con asistencia del defensor en todos los casos, y
-
-V.- que no vaya acompañada de otras pruebas o presunciones que la hagan inverosímil a juicio del tribunal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 604.
 
-Los instrumentos públicos harán prueba plena, salvo el derecho de las partes para redargüírlos de falsedad y para pedir su cotejo con los protocolos, o con los originales existentes en los archivos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 605.
 
-Los documentos privados sólo harán prueba plena contra su autor, si fueren judicialmente reconocidos por él o no los hubiere objetado a pesar de saber que figuran en el proceso. Los provenientes de un tercero serán estimados como presunciones.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 606.
 
-Los documentos privados, comprobados por testigos, se considerarán como prueba testimonial.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 607.
 
-La inspección judicial, así como el resultado de los cateos, harán prueba plena siempre que se practiquen con los requisitos de este Código.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 608.
 
-La fuerza probatoria de todo juicio pericial, incluso el cotejo de letras y los dictámenes de peritos científicos, será calificada por los tribunales, según las circunstancias.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 609.
 
-Para apreciar la declaración de un testigo, los jueces tendrán en consideración:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que el testigo no sea inhábil por cualquiera de las causas señaladas en este Código;
-
-II.- que por su edad, idoneidad, capacidad e instrucción, tenga criterio necesario para juzgar el acto;
-
-III.- que por su probidad, la independencia de su posición y antecedentes personales, tenga completa imparcialidad;
-
-IV.- que el hecho de que se trate sea verosímil y susceptible de conocerse por medio de los sentidos, y que el testigo lo conozca por sí mismo y no por inducciones ni referencias de otro;
-
-V.- que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre la substancia del hecho, ya sobre sus circunstancias esenciales, y
-
-VI.- que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio judicial no se reputará fuerza.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 610.
 
-Las declaraciones de dos testigos hábiles harán prueba plena, si concurren los requisitos siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que convengan no sólo en la substancia, sino en los accidentes del hecho que refieran; y
-
-II.- que hayan oído pronunciar las palabras o visto el hecho sobre el que deponen.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 611.
 
-También harán prueba plena las declaraciones de dos testigos si conviniendo en la substancia, no convienen en los accidentes, si éstos, a juicio del tribunal, no modifican la esencia del hecho.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 612.
 
-Si por ambas partes hubiere igual número de testigos contradictorios, el tribunal se desidirá (sic) por el dicho de los que merezcan mayor confianza. Si todos la merecen igual y no hay otra prueba, absolverá al acusado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 613.
 
-Si por una parte hubiere mayor número de testigos que por la otra, el tribunal se desidirá (sic) por la mayoría, siempre que en todos concurran iguales motivos de confianza.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-En caso contrario, obrará como lo estime de justicia razonando su opinión.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 614.
 
-Producen solamente presunción:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Los testigos que no convengan en la substancia; los de oídas y la declaración de un sólo testigo;
-
-II.- las declaraciones de testigos singulares, que versen sobre actos sucesivos referentes a un mismo hecho;
-
-III.- la fama pública; y
-
-IV.- las pruebas no especificadas a que se refiere la última parte del artículo 522, siempre que no se encuentren desvirtuadas por cualquier otro medio de los especificados en las seis fracciones del mismo artículo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 615.
 
-Los tribunales, según la naturaleza de los hechos, la prueba de ellos y el enlace natural, más o menos necesario, que exista entre la verdad conocida y la que se busca, apreciarán el valor de las presunciones hasta poder considerar su conjunto como prueba plena.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO I. De los incidentes en general
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO I
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 616.
 
-La instrucción se practicará a la brevedad posible, a fin de que el procesado sea juzgado antes de cuatro meses si se tratare de delitos cuya pena no exceda de dos años de prisión y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 617.
 
-Cuando el juez creyere concluída la instrucción, ordenará que se ponga la causa a la vista de las partes, sucesivamente, por el término de tres días para que promuevan las diligencias que a su derecho convengan y que puedan practicarse dentro de quince días.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 618.
 
-Transcurridos o renunciados los plazos a que se refiere el artículo anterior, o si no se hubiere promovido prueba, el juez declarará cerrada la instrucción y mandará poner la causa a la vista del Ministerio Público y de la defensa, sucesivamente, para que en el término improrrogable de cinco días para cada uno, formulen sus conclusiones. Si el expediente excediere de cien hojas, por cada cuarenta de exceso o fracción, se aumentará un día más al término señalado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 619.
 
-Cuando algún defensor no formule conclusiones dentro del término del traslado, el juez lo hará constar en el proceso y declarará que aquéllas son de inculpabilidad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 620.
 
-La defensa cuando no esté representada por defensor de oficio letrado, puede, al presentar sus conclusiones por escrito, no sujetarse a ninguna regla especial.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 621.
 
-Cuando el Ministerio Público no formulare acusación, el juez remitirá el proceso al Procurador General para que exprese, dentro del término de diez días, si confirma el pedimento, o lo modifica ordenando acusar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
-
-Cuando el Ministerio Público al formular conclusiones, no comprendiere en ellas algún delito que resulte probado de la instrucción u omitiere alguna circunstancia que pudiese atenuar, agravar o modificar notablemente la penalidad, el juez al pronunciar sentencia definitiva hará notar en ella esas circunstancias y lo comunicará al Procurador General para los efectos legales que correspondan.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 622.
 
-Si el pedimento del Procurador fuere de no acusación, el juez, al recibir aquél, dictará auto de sobreseimiento en el asunto y ordenará la inmediata libertad del procesado, mandando archivar el expediente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-El mencionado auto producirá los mismos efectos que una sentencia absolutoria.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-## TITULO TERCERO. Del juicio
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-### CAPITULO II. De la competencia
+## TITULO TERCERO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO II
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 623.
 
-Si las conclusiones del Ministerio Público fueren acusatorias y el delito de la competencia del juez, fenecido el plazo para que la defensa presente las suyas, se citará a una audiencia dentro de (sic) tercero día, la que se verificará concurran o no las partes. Estas podrán alegar en la audiencia, lo que a su derecho convenga.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 624.
 
-La citación para la audiencia produce efectos de citación para sentencia y el juez fallará dentro de los ocho días siguientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 625.
 
-Si durante la celebración de la audiencia fuere retirada la acción penal, se suspenderá ésta para que el Procurador con informe del Ministerio Público resuelva si confirma o modifica el pedimento de su agente, dentro del término de diez días.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 626.
 
-La sentencia condenatoria determinará, cuando haya lugar, a la pérdida de los objetos, o instrumentos del delito que hayan servido para su perpetración, si fueren de propiedad del sentenciado y la restitución a sus dueños o legítimos poseedores, de los que hubieren sido usurpados; precisándose asimismo, el destino que deba darse a los productos del mismo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO III. De la acumulación y separación
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO III
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 627.
 
-Si de las conclusiones del Ministerio Público apareciere que la causa es de la competencia de un Consejo de Guerra, el juez lo comunicará al Comandante de la Guarnición de su adscripción, para que cite al juicio por medio de la Orden General de la Plaza, expresando los nombres del Presidente y vocales que deberán formarlo, del juez, agente y acusados.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 628.
 
-El Comandante de la Guarnición comunicará al juez la fecha de la celebración del juicio ante el Consejo, a efecto de que notifique a las partes y le enviará un ejemplar de la convocatoria para que sea agregado a los autos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 629.
 
-La citación para la audiencia ante un Consejo de Guerra Ordinario, deberá hacerse, en todo caso, señalando un término que nunca deberá ser menor de tres días, ni mayor de diez.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 630.
 
-Siempre que por cualquier motivo se señale nuevo día para la reunión del Consejo de Guerra, se expresarán en el mismo auto los nombres de los miembros de aquél y deberán hacerse las notificaciones respectivas por el juzgado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 631.
 
-En la Guarnición de la Plaza de México, Distrito Federal, los Consejos de Guerra conocerán de todas las causas de su competencia, por riguroso turno, para lo cual se llevará un libro de registro en dicha oficina.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 632.
 
-Dentro de las cuarenta y ocho horas siguientes a la en que se hubiere hecho la notificación del auto por el que se señale día para la reunión del Consejo, el Ministerio Público y el acusado o su defensor podrán exhibir la lista de los testigos, que por su parte crean conveniente presentar, a fin de que, además de aquellos que hubieren declarado en el proceso, sean examinados ante el mismo Consejo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 633.
 
-La lista que el acusado presente podrá contener todos los testigos que le convenga presentar, no sólo sobre los hechos, porque se le juzgue, sino también acerca de su honradez, moralidad y buenos antecedentes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 634.
 
-Al dictarse el auto por el que se señale día para la reunión del Consejo, se mandará citar a los peritos y testigos que hubieren sido examinados en el proceso, siempre que se encuentren a una distancia tal, que, sin que se perjudique el servicio, sea posible obtener su asistencia a ese acto, en el día designado para que éste se verifique.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO IV. De la suspensión del procedimiento
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO IV
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 635.
 
-El día y hora designados para el juicio, el Presidente del Consejo, propietario o suplente, llamará por lista a todos los que deben componerlo. Si faltaren algunos de los vocales propietarios, el Consejo quedará definitivamente integrado con el suplente o suplentes a quienes designe el presidente de ese tribunal, observando lo dispuesto en el artículo 14. Si no se hubiere reunido el número de vocales propietarios y suplentes necesarios para instalar el Consejo, pasado un cuarto de hora se disolverá la reunión, y el que hubiere funcionado como presidente, dará cuenta al Comandante de la Guarnición respectivo, a fin de que señale nuevo día para la vista, e impondrá de plano las correcciones disciplinarias que considere justas a los faltistas, siempre que fueren sus inferiores en categoría, limitándose, en caso contrario, a hacer referencia a esto en el parte, a efecto de que esas correcciones sean impuestas por la autoridad competente. Si los que no hubieren estado presentes al pasarse la lista, concurrieren antes de que se haya disuelto la reunión, ésta se llevará adelante en la forma prevenida anteriormente, pero aquéllos serán amonestados por quien corresponda, si no justificaren la causa de su demora.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 636.
 
-El juez, su secretario, el representante del ministerio público y el defensor, a quienes corresponda intervenir en el juicio de que se trata, deberán siempre concurrir a éste; y respecto de la falta de asistencia de cualquiera de ellos, se observará por el supremo tribunal y el Procurador General lo dispuesto en el artículo anterior.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 637.
 
-El acusado debe comparecer ante el Consejo; si se rehusare a hacerlo, el juez le intimará, en nombre de la ley, que cumpla con ese deber, haciendo constar en el proceso esa intimación y la respuesta del acusado. Si el acusado se niega a comparecer, el presidente del Consejo podrá ordenar que sea conducido por la fuerza o que dándose lectura a la razón en que conste su resistencia, se lleven adelante los debates. Si el acusado justificare estar impedido para concurrir a la audiencia por causa de enfermedad, el presidente, en vista de las circunstancias, resolverá desde luego, si se suspende el juicio hasta que cese ese impedimento, o si se continúa con sólo la asistencia del defensor.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 638.
 
-El defensor está también obligado a concurrir al juicio; si no lo hiciere y fuere de oficio, será castigado disciplinariamente, por el jefe del cuerpo y se hará saber su falta al procesado, si hubiere comparecido, para que nombre otro u otros defensores; a este efecto se le mostrará por el presidente, una lista de los defensores de oficio y de los oficiales francos, que hubieren asistido a la audiencia, y otra de las demás personas que estuvieren presentes y en aptitud para desempeñar la defensa.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si bajo cualquier pretexto, el procesado se rehusare a nombrar nuevo defensor, o nombrare a alguno que no estuviere presente, o que estándolo tenga impedimento legal para encargarse de la defensa, o no estando obligado a aceptarla, no la acepte, el mismo presidente designará como defensor a cualquiera de los de oficio o concurrentes que deban ocupar ese puesto, o que, teniendo aptitud para ello se preste a hacerlo voluntariamente. Cuando ni el procesado ni su defensor hubieren comparecido, se hará igual designación, sin perjuicio de que se imponga al segundo el castigo disciplinario en que haya incurrido, ni de su responsabilidad para con el primero, tanto en este caso, como en el anterior. Lo mismo se observará cuando el defensor se presente después de abierta la audiencia, pudiendo entonces ocupar su puesto, sin que por este motivo se altere el curso de aquélla.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 639.
 
-Estando presentes el juez, su secretario, el representante del Ministerio Público y todos los miembros del Consejo, el Presidente de éste declarará instalado el tribunal y abierta la sesión pública. Acto continuo ordenará al secretario del Consejo, que dé lectura al artículo siguiente y al 785, y preguntará a los vocales si tienen alguna causa de aquellas que proponer, conforme a lo establecido en esos artículos; en caso de respuesta afirmativa, procederá con arreglo a lo prevenido en el citado artículo 785 y otro tanto hará cuando la excusa fuere propuesta en el curso de la audiencia, en virtud de causa conocida con motivo de la lectura del proceso o de lo expuesto durante los debates.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 640.
 
-Cuando uno de los miembros del Consejo no se excusare y apareciere en el acto o posteriormente, que hubiere debido hacerlo, o cuando se excusare sin motivo legítimo o alegando alguno que resultare falso, será castigado disciplinariamente o sometido a juicio, según la gravedad del caso. Las partes están facultadas para revelar estos actos y pedir que consten en el acta para hacer valer sus derechos en su oportunidad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 641.
 
-Admitido el impedimento de los que se hubieren excusado y substituidos éstos, con arreglo a la ley, se observará con los designados para ese efecto, lo prevenido en el artículo 785.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 642.
 
-Instalado el Consejo, la defensa o el Ministerio Público pueden impugnar la composición del tribunal, por haberse infringido los preceptos legales que la determinan. Oído el parecer de la parte contraria a la que haga la impugnación, el Consejo resolverá de plano y sin recurso alguno sobre el incidente. Si se declarase que aquél no ha sido bien integrado, el presidente suspenderá la audiencia y el juez dará cuenta con lo ocurrido para los efectos de la debida integración o nueva convocatoria, al Comandante de la Guarnición, para que éste proceda conforme a sus facultades; si la resolución fuere contraria, el que se considere agraviado tendrá el derecho de que todo lo ocurrido se haga constar en el acta, a fin de poderlo alegar en su oportunidad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 643.
 
-No habiéndose hecho objeción alguna en cuanto a la formación del consejo, o resuelta en sentido negativo la que se hubiere formulado, el presidente pasará lista de los peritos y testigos que debieron haber sido citados conforme a lo previsto en este Código. Si no hubieren concurrido todos, y cualquiera de las partes, por creer indispensable la asistencia de los que faltaren, pidiere, expresando los motivos en que se funde, que se difiera la audiencia, el consejo resolverá sin recurso alguno si es o no de accederse a esa petición. En el primer caso se disolverá la reunión dándose parte al comandante de la guarnición que la hubiere convocado a fin de que se señale el nuevo día en que haya de efectuarse, sin perjuicio de que se imponga a los faltistas el castigo a que hubiere lugar, por quien corresponda, y de que sean a cargo de éstos, todos los gastos que se originen en virtud de la nueva comparecencia de las demás personas que, sin pertenecer al orden judicial militar, estén obligadas a asistir a la audiencia. Sin la presencia del Ministerio Público o el defensor, no podrá celebrarse el juicio, que deberá suspenderse dando los avisos de que se ha hecho mérito y comunicando la falta del representante social al procurador, a fin de que obre según sus facultades.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 644.
 
-Lo dispuesto en el artículo anterior no obsta para que el presidente, hallándose el testigo o perito en el lugar del juicio, pueda ordenar que sea conducido a la audiencia por la fuerza pública.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 645.
 
-Sólo por una vez se podrá diferir el juicio por falta de un testigo o perito. En consecuencia, si las partes o el Consejo temieren fundadamente que falten a la segunda citación, podrá decretarse que se les amplíe su declaración en los términos que desee la parte que hubiere considerado necesaria su presencia en el juicio y antes del día nuevamente señalado para éste.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 646.
 
-Si antes de cerrarse los debates se presentare el testigo o perito que haya faltado, se le permitirá exponer verbalmente sus excusas, y en vista de ellas, se confirmará o levantará el castigo que se le hubiere impuesto.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 647.
 
-Si todos los testigos o peritos citados, estuvieren presentes o se hubiese declarado que a pesar de la falta de alguno o algunos de ellos, es de celebrarse la audiencia, el presidente preguntará al acusado su nombre y apellido, su edad, estado, profesión, domicilio y lugar de su nacimiento. Estas mismas preguntas se dirigirán por separado, a cada uno de los acusados, si fueren varios, conforme al orden que estableciere el mismo funcionario, para que cada uno, también separadamente, sea sometido al examen; en seguida, y de la propia manera, los exhortará a producirse con verdad, haciéndoles ver las ventajas que de ésto podrán resultarles; les advertirá que tienen el derecho de decir todo lo que crean conveniente para su defensa, guardando el respeto debido a la ley y a las autoridades, y los interrogará sobre los hechos que motivaren su presencia ante el consejo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 648.
 
-A continuación el secretario del juez dará lectura a las constancias procesales que justifiquen el cuerpo del delito; a las conclusiones formuladas por el Ministerio Público y por la defensa; y por último, al decreto en que se haya mandado reunir el consejo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Las partes podrán pedir y el presidente ordenar, que se dé lectura a cualesquiera otras constancias del proceso, ya sea inmediatamente después de concluídas las que este artículo previene, o ya en el curso de los debates; pero nunca durante un interrogatorio, ni mientras se esté dando lectura a otras constancias, o cuando otra parte esté haciendo uso de la palabra.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 649.
 
-Terminada la lectura a que se refiere el artículo anterior, se procederá al examen de los testigos y peritos que hubieren declarado en el proceso y de los testigos comprendidos en las listas que las partes hubieren presentado, con arreglo a lo dispuesto en el presente Código. Los testigos de cargo serán examinados antes que los de descargo, y todos los que hubieren declarado en el proceso, antes que los comprendidos en las mencionadas listas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 650.
 
-El Presidente del Consejo de Guerra estará investido de un poder discrecional para la dirección de los debates, en virtud del cual durante la audiencia y en todo lo que la ley no prohiba expresamente, tendrá la facultad de hacer cuanto estimare oportuno para el esclarecimiento de los hechos; la ley deja a su honor y a su conciencia el empleo de los medios que puedan servir para favorecer la manifestación de la verdad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Para los efectos anteriormente expuestos, el presidente del consejo, desde el día en que éste hubiere sido convocado, podrá ocurrir al juzgado respectivo, para imponerse de los procesos en que deba intervenir, sin perjuicio de poder encomendar la dirección de la audiencia, en todo o en parte, al juez.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 651.
 
-Respecto del examen de los testigos y peritos y actuación de intérpretes, se observarán, en cuanto fueren conducentes, las disposiciones contenidas en los capítulos XI y XIII, título II, de este libro, en todo aquello que no estuviere expresamente prevenido en el presente capítulo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 652.
 
-Los peritos serán examinados en la misma forma que los testigos; pero cuando el presidente lo estimare oportuno, podrá ordenar que asistan a la audiencia o a parte de ella, o que declaren en presencia unos de otros.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 653.
 
-Los documentos y objetos que puedan servir de piezas de convicción y de descargo, serán presentadas al acusado y a los testigos y peritos, a medida que sean examinados, haciéndoseles por el presidente las preguntas que fueran necesarias acerca de tales documentos u objetos y dándose previamente lectura a los primeros por el secretario.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 654.
 
-Las partes podrán dirigir a cualquiera de los testigos o peritos, inmediatamente después de que hubieren sido interrogados por el presidente, y por medio de éste, o directamente, con su permiso, las preguntas y observaciones que consideren oportunas. Podrán, además, exponer al consejo cuanto creyeren útil acerca de la imparcialidad y buena fama del testigo o perito, o de la veracidad que deba atribuirse a su dicho, sin valerse para ello de palabras injuriosas u ofensivas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 655.
 
-Los vocales del consejo podrán por sí mismos, pidiendo la palabra al presidente o por medio de él, interrogar a los testigos, peritos o acusados, haciéndoles cuantas preguntas crean conducentes para ilustrar su opinión; pero cuidando de no dar a entender cuál pueda ser ésta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 656.
 
-Los testigos no podrán interpelarse entre sí. Los careos que resulten entre éstos, se practicarán cuando el presidente por sí o a solicitud de las partes, lo juzgue necesario.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando lo soliciten los acusados serán careados con quienes depongan en su contra.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 657.
 
-Después de que todos los testigos hayan declarado, el presidente podrá, por sí, a solicitud de las partes o de los vocales del consejo, mandar que algunos de ellos se retiren de la audiencia y que los designados para quedarse sean oídos de nuevo, ya sea en presencia unos de otros, ya separadamente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 658.
 
-Si el examen de un testigo o perito en el curso de la audiencia apareciere motivo suficiente para sospechar que declara con falsedad, el presidente ordenará que se lean, en lo que fueren conducentes, las disposiciones del Libro Segundo de este Código y del Penal del Orden Común, relativas a falsedad en declaraciones judiciales; en seguida preguntará a la persona en cuestión, si insiste en lo que acabare de declarar. En caso afirmativo, a pedimento del Ministerio Público será detenido desde luego, extendiéndose por el juez, un acta en la que consten las preguntas que a aquél se hubieren dirigido, sus respuestas y los motivos que lo hayan hecho sospechoso de falso testimonio. Esta acta y el detenido, se turnarán a la autoridad correspondiente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 659.
 
-No se hará la consignación de que habla el artículo anterior, si el testigo o perito retractare espontáneamente su declaración antes de que se cierren los debates, pues en este caso, sólo se le hará un apercibimiento; pero si faltare a la verdad al retractar sus declaraciones, si se hará aquélla.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 660.
 
-Concluído el examen de peritos y testigos, el Ministerio Público formulará su acusación, de acuerdo con sus conclusiones.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
-
-Por regla general, las conclusiones del representante del Ministerio Público, al formular su pedimento estarán basadas en las que se hubiesen presentado, pudiendo, no obstante, retirarlas, modificarlas o alegar otras diversas de ellas, pero sólo cuando exista alguna causa superveniente y siempre y cuando no sea otro delito o delitos señalados en el auto de formal prisión y exponiendo con especialidad antes de hacer uso de la palabra para pronunciar su requisitoria, las razones en que se funde para proceder de esa manera.
-
-Queda absolutamente prohibido al Ministerio Público injuriar de cualquiera manera al acusado o dirigir denuestos a la defensa, al hacer uso de la palabra, con arreglo a lo dispuesto en este artículo.
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 661.
 
-En seguida se oirá a la defensa; ésta podrá exponer cuanto crea favorable a sus intereses, basándose, para la apreciación legal de los hechos imputados al acusado, en lo que sobre ese particular se hubiere expuesto en sus conclusiones, las que podrá modificar en los casos que a su juicio hayan cambiado en virtud de las diligencias practicadas en la audiencia, las condiciones de culpabilidad del acusado o cuando la defensa esté representada por persona diversa de la que formuló dichas conclusiones. La franquicia a que se refiere esta última parte, sólo podrá usarse antes de que el Ministerio Público tome la palabra para fundar su acusación; pero si este funcionario hubiere modificado sus conclusiones, podrá hacerlo el defensor en seguida que aquél haga saber el cambio.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 662.
 
-El Ministerio Público podrá replicar a lo que exponga la defensa, cuantas veces lo estime conveniente, y aquélla, en tal caso, podrá volver a usar de la palabra por el mismo número de veces.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 663.
 
-Si fueren varios los defensores de un acusado, o varios acusados estuvieren patrocinados en común por dos o más defensores, sólo uno de éstos hablará cara (sic) vez que ese derecho le corresponda, conforme a lo establecido en los tres artículos precedentes. Esto no obstará para que los demás defensores intervengan en la audiencia, de la manera que en este capítulo se previene.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 664.
 
-Después de que las partes hubieren concluido de hablar, el Presidente del Consejo preguntará al acusado, si quiere hacer uso de la palabra, y en caso de contestación afirmativa, se le concederá. El acusado, en tales casos, no tiene más limitación que el respeto a la ley y a las autoridades, debiendo también abstenerse de injuriar a cualquiera otra persona.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 665.
 
-A continuación, el presidente declarará cerrados los debates, y el juez formulará un interrogatorio conforme a las siguientes reglas:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Las preguntas se referirán a los hechos que hayan motivado el proceso, y de ningún modo a otros distintos de ellos; y se basarán en las conclusiones del Ministerio Público y de la defensa, y en las constancias procesales;
-
-II.- si en las conclusiones formuladas por las partes se encontrare algunas contradictorias, el juez lo declarará así y si no obstante esa declaración, la parte que las haya formulado no retirare ambas o alguna de ellas, para que tal contradicción desaparezca, ninguna de las contradicciones se incluirá en el cuestionario;
-
-III.- los hechos alegados en las conclusiones del Ministerio Público o de la defensa, que no constituyan una circunstancia excluyente o calificativa, de las determinadas por la ley, o que no contengan todos los elementos exigidos por ella para que una de esas circunstancias exista, no serán incluídas en el interrogatorio;
-
-IV.- cuando las conclusiones del Ministerio Público y de la defensa sean contradictorias entre sí, se pondrán en el interrogatorio las anotaciones necesarias para que el consejo no incurra a su vez en contradicción;
-
-V.- cuando los hechos contenidos en las conclusiones del Ministerio Público o de la defensa sean complejos, se dividirán en el interrogatorio en cuantas preguntas sean necesarias, para que cada una contenga un solo hecho;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-VI.- No se incluirán en el interrogatorio preguntas sobre la edad o sexo del acusado, víctima o el ofendido ni sobre si están debidamente comprobados los elementos que integran el tipo penal, ni acerca de cualquier otro trámite o constancias propios exclusivamente del procedimiento, ni sobre circunstancia que puedan motivar la atenuación o agravación de la penalidad.
-
-Los hechos a que se refiere esta fracción, los estimará el juez en su sentencia con sujeción a las reglas de la prueba legal, siempre que hayan sido materia de las conclusiones de las partes, con excepción de las causas de atenuación que si puede apreciar aunque no se hayan alegado;
-
-VII.- la primera pregunta del interrogatorio se formulará en estos términos: "El acusado N. N., es culpable de........(aquí se asentará el hecho material que constituya el delito de que se trate); y si para que el delito se determine se requiere la concurrencia de hechos o elementos diversos, se repetirá esa pregunta tantas veces como fuere necesario para hacer referencia separadamente a cada uno de ellos;
-
-VIII.- en seguida se pondrán las preguntas relativas a las circunstancias constitutivas, excluyentes y calificativas, en el orden en que quedan mencionadas.
-
-Si para que una de esas circunstancias quede constituída se requiere la concurrencia de diversos hechos o elementos, se observará lo mismo que para ese caso se ha establecido antes, en cuanto a la primera pregunta;
-
-IX.- en el caso de tener que incluirse alguna circunstancia excluyente en el interrogatorio, la primera pregunta de él se formulará en estos términos: "¿El acusado N. N., es autor de tal hecho?" En tal caso la contestación afirmativa a esa pregunta equivaldrá a la declaración de culpabilidad, cuando se vote negativamente la excluyente o todas las excluyentes alegadas;
-
-X.- delante de cada una de las preguntas relativas a las circunstancias que hayan ocurrido en la comisión del delito, se pondrá la palabra: "hecho material," "constitutiva," "excluyente," "calificativa," según la calidad de la circunstancia contenida en la pregunta.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 666.
 
-Por cada acusado, si hubiere varios, se formará distinto interrogatorio conforme a las reglas establecidas en el artículo anterior.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Otro tanto se hará por cada delito de los atribuidos a un mismo acusado, cuando los hechos en que aquellos se hagan consistir sean diversos entre sí.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 667.
 
-El Ministerio Público y la defensa podrán combatir la redacción del interrogatorio. El juez resolverá si la modifica o no, y en caso negativo, el que hubiere pedido la modificación tendrá derecho a que de este incidente se ponga constancia pormenorizada en el acta, a fin de quedar en aptitud de hacerlo valer oportunamente. Si el presidente o alguno o algunos de los vocales, no estuvieren conformes con el interrogatorio sobre el que haya de recaer la votación o con alguna o algunas de las preguntas contenidas en él, el juez resolverá si debe modificarse; y si la resolución fuere afirmativa, el mismo juez hará la modificación de acuerdo con las objeciones, dándose lectura al nuevo interrogatorio. Las partes, en este caso, podrán también ejercitar los derechos consignados antes en este precepto.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 668.
 
-Formulado y leído el interrogatorio por el juez, y hechas las modificaciones a que el artículo que antecede se refiere, o mandada tomar razón en el acto, de este incidente, el presidente del consejo, estando todos los concurrentes en pie y la escolta terciando las armas, tomará a los vocales la siguiente protesta:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-"¿Protestáis, bajo vuestra palabra de honor, resolver las cuestiones que se os van a someter, conforme a las leyes de la materia, sin tener en cuenta la suerte que pueda caber al procesado, mirando sólo por la conservación de la disciplina y por el prestigio del Ejército Nacional?".
-
-Cuando los vocales hubieren dado su respuesta afirmativa, el presidente protestará a su vez, diciendo: PROTESTO BAJO MI PALABRA DE HONOR RESOLVER LAS CUESTIONES QUE SE ME VAN A SOMETER y lo demás contenido después de esta palabra en la fórmula anterior.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 669.
 
-Acto continuo, el presidente suspenderá la sesión pública, y entrará con los demás miembros del consejo en sesión secreta, en la que se tendrán a la vista el proceso, los documentos y objetos que hayan servido de piezas de convicción. Desde ese momento, los miembros del consejo no podrán comunicarse sino con el juez, pero en presencia de las partes, cuando creyeren conveniente llamarlo para consultarle acerca de algún punto de derecho, o relativo a la redacción del interrogatorio, ni separarse de la sala de deliberaciones antes de que se pronuncie la resolución que deba dar término a la audiencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 670.
 
-El presidente impondrá de plano las correcciones disciplinarias que estime pertinentes a cualquiera de los vocales que salga de la sala de deliberaciones, antes de que deba publicarse la resolución del consejo, o que se comunique con otra persona que no sea el juez, o con este mismo, fuera de los casos previstos en el artículo que antecede. Iguales castigos deberá imponer a toda persona diversa del juez que en esas mismas circunstancias se comunique con los vocales; y a todos los que no impidan esa comunicación, teniendo a su cargo el deber de impedirla; a no ser que los infractores de este precepto, incurran al quebrantarlo, en la comisión de un delito especial; en cuyo caso se hará la consignación al Ministerio Público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 671.
 
-El consejo, una vez constituído en sesión secreta, procederá a la deliberación y votación del interrogatorio, sujetándose para ello a lo dispuesto en los artículos siguientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 672.
 
-El presidente leerá a los vocales las preguntas contenidas en el interrogatorio sobre el que hayan de votar, las someterá a su deliberación y procederá a recoger los votos acerca de cada una de ellas en el orden en que estuvieren formuladas, comenzando por el del vocal que deba desempeñar las funciones de secretario del consejo y concluyendo por el suyo, pero procurando seguir un orden jerárquico de inferior a superior.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 673.
 
-Al votarse cada una de las preguntas se asentará el resultado al pie de ella, expresándose claramente si lo fue por unanimidad o por mayoría y de cuántos votos. Los interrogatorios serán cubiertos al final de ellos con una sola firma de cada uno de los vocales; pero aquel de éstos que vote en contra de la mayoría, hará constar en ante-firma su voto al calce de la pregunta o preguntas en que se hubiere apartado de esa mayoría.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 674.
 
-Ninguno de los miembros del consejo podrá abstenerse de votar. Las decisiones de éste serán las que reúnan en su favor la unanimidad o mayoría de votos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 675.
 
-Si el acusado fuere declarado inculpable de un delito, en la votación, bien por haberse votado negativamente la pregunta o preguntas relativas al hecho o hechos constitutivos de ese delito, o bien por haberse votado en sentido afirmativo todas o alguna de las circunstancias excluyentes, no se procederá a recoger la votación acerca de las demás del mismo interrogatorio; y si se recogiere, se tendrán por no escritas las respuestas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 676.
 
-Si la votación respecto de las preguntas relativas del interrogatorio hubiere sido en el sentido de declarar la culpabilidad, se procederá a recoger la votación acerca de las demás preguntas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 677.
 
-Concluída la votación de los interrogatorios, pasará el juez con su secretario, a la sala de deliberaciones a pronunciar la sentencia que corresponda sobre todos los delitos declarados por el consejo; cuya sentencia sólo contendrá la parte resolutiva. Dentro de los cinco días siguientes al de la audiencia, el juez engrosará la sentencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 678.
 
-De todo lo acaecido durante la sesión secreta, se levantará un acta por el secretario del consejo en la cual se expresará también, siempre que se trate de una votación diversa de aquellas que deben constar en el interrogatorio o a continuación de él el sentido en que hubiere votado cada uno de los miembros del mismo tribunal, quienes en caso de inconformidad con dicha acta, podrán expresarlo así al pie de ella y bajo su firma.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 679.
 
-La resolución del consejo será leída íntegra y públicamente en el salón de la audiencia, por el juez, estando presentes todos los miembros del consejo, los concurrentes en pie, y la escolta presentando las armas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 680.
 
-Si se hubiese hecho la declaración de inculpabilidad, el juez dispondrá que se ponga desde luego en libertad al acusado, si no debiere quedar detenido por otra causa. Igualmente se pondrá en libertad al sentenciado a quien se dé por compurgado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 681.
 
-La lectura de la resolución en el salón de la audiencia, surtirá los efectos de notificación en forma, en cuanto a las partes que hubieren estado presentes en el juicio ante el consejo, aun cuando no lo estén en ese momento. En el mismo acto, se le hará saber al acusado el derecho que tiene para nombrar defensor en segunda instancia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-A los que no hubieren concurrido a la audiencia, se les notificará la resolución por el juzgado, dentro de veinticuatro horas.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 682.
 
-Todo lo ocurrido desde la instalación del consejo hasta la publicación de la sentencia, deberá constar en un acta levantada por el secretario del juez y bajo la dirección de éste. En ella se deberá hacer constar forzosamente:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- El lugar, día, mes y año en que se efectuare la audiencia;
-
-II.- los nombres y apellidos de los miembros del consejo, del juez y su secretario, y de las partes;
-
-III.- los nombres y apellidos de los miembros del consejo que hayan alegado impedimento, expresándose si fue admitido o desechado, así como cuál haya sido el alegado;
-
-IV.- las variaciones o ampliaciones que los testigos o peritos hayan hecho en la audiencia;
-
-V.- las variaciones que el Ministerio Público o la defensa hayan hecho en sus conclusiones, asentándose circunstanciadamente las razones alegadas para ello, y
-
-VI.- los incidentes ocurridos durante la sesión pública y las resoluciones que sobre ellos haya dictado el consejo, su presidente o el que hiciere sus veces, en sus respectivos casos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 683.
 
-El acta a que se refiere el artículo anterior se levantará antes de que el consejo entre a sesión secreta, y se entregará a éste firmada por el presidente, el juez y las partes, después de que haya sido aprobada, o hecho constar las objeciones que se le hagan o las protestas a que diere lugar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 684.
 
-Siempre que el consejo tuviere que resolver acerca de la suspensión de los debates, o de cualquiera otro de los incidentes que puedan ocurrir durante la audiencia, lo hará en sesión secreta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 685.
 
-El presidente del consejo tiene facultad para suspender la audiencia por el tiempo necesario a fin de que descansen los funcionarios, empleados y demás personas obligadas a concurrir al juicio; así como también cuando haya de levantarse el acta respectiva con motivo de un delito cometido o descubierto durante la audiencia, y en los demás casos expresamente señalados por la ley para ese efecto. Pero si dicha suspensión trajere consigo la del juicio, por un término mayor de veinticuatro horas, corresponderá al consejo resolver sobre ese particular; si lo hiciere en sentido afirmativo, la vista del proceso comenzará de nuevo en el día y hora que se señale por la autoridad competente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 686.
 
-Cuando de los documentos presentados o de las declaraciones de los testigos durante la audiencia, aparezca que el acusado es criminalmente responsable por otros hechos u omisiones diversos de los que hayan sido materia del proceso, el consejo, al pronunciar su resolución acerca de aquél, mandará dar vista al Ministerio Público para los efectos de su representación, si éste no hubiese, desde luego, procedido conforme a ella.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 687.
 
-Los miembros del consejo de guerra no están obligados a ajustar sus procedimientos y determinaciones a la opinión del juez, el que sólo podrá y deberá emitirla, cuando aquéllos se la pidieren.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO V. De las recusaciones
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO V
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 688.
 
-La policía de la audiencia estará a cargo del presidente del Consejo, a cuyas órdenes se pondrá la escolta que conduzca al procesado y cualquiera otra fuerza cuya presencia sea necesaria en el local.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Mientras el presidente esté en la sala de deliberaciones, la policía de la audiencia estará a cargo del juez y en ausencia de éste, del Agente del Ministerio Público, teniendo, cualquiera de ellos en esos momentos, las mismas facultades que el presidente.
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 689.
 
-Las audiencias serán públicas, salvo lo prevenido en los artículos 692 y 918, y deberán concurrir a ellas los oficiales francos de la guarnición.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 690.
 
-Todos los que no intervengan oficialmente en el juicio, cualquiera que sea su categoría militar o civil, ocuparán en el salón los lugares destinados al público. En la plataforma destinada al consejo, sólo podrán estar los miembros de éste, el juez, su secretario, el funcionario o funcionarios que representen al Ministerio Público, los defensores de los procesados y los empleados necesarios para el servicio.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Todo el que infrinja esta disposición será amonestado por el presidente y si reincidiere, se le hará salir del salón.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 691.
 
-Todos los que asistan a la audiencia se conservarán, mientras permanezcan en ella, con respeto y en silencio, no debiendo portar armas, si no fueren militares, estándoles prohibido dar señales de aprobación o desaprobación y externar o manifestar opiniones sobre la culpabilidad o inocencia del acusado, sobre las pruebas que se rindan o sobre la conducta de alguno de los que intervengan en el juicio. El transgresor de este precepto, será amonestado por el presidente; si reincidiere se le expulsará del salón, y si se resiste a abandonarlo o vuelve a él, será detenido por veinticuatro horas en calidad de arresto.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 692.
 
-Si con objeto de impedir o estorbar de cualquier manera el curso de la justicia, se produjere un tumulto, el presidente hará retirar del salón a los perturbadores del orden, sean quienes fueren, consignándolos, cuando hubiere lugar a ello, al Ministerio Público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando no sea posible restablecer el orden por los medios prescritos en este artículo y en el anterior, el presidente podrá mandar que los concurrentes salgan del salón de la audiencia y que ésta continúe a puerta cerrada.
-
-En caso de resistencia, el referido funcionario hará uso de la fuerza pública para hacer cumplir sus determinaciones.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 693.
 
-El presidente puede hacer retirar de la audiencia y volver a la prisión a todo acusado que, con clamores, o por cualesquiera otros medios propios para causar tumulto, ponga obstáculo al libre ejercicio de la justicia, o que falte al respeto debido a la ley o a las autoridades. En este caso se procederá a los debates y se pronunciará sentencia con sólo la presencia del defensor, y haciéndose saber al sentenciado la resolución, por medio del juez.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 694.
 
-Si el defensor del acusado perturbase el orden o injuriase u ofendiese a alguna persona presente, o faltare al respeto debido a la ley o a las autoridades, el presidente lo apercibirá, y si reincidiere, lo mandará expulsar del salón de la audiencia, imponiéndole al mismo tiempo la corrección disciplinaria que estime conveniente, o dará parte a la autoridad que corresponda, si el que debiere ser expulsado fuere de categoría igual o superior a la del presidente y fuere defensor de oficio; y procederá respecto del acusado, como está prevenido en el artículo 638.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 695.
 
-Si el que cometiere esas faltas fuere representante del Ministerio Público, el presidente le llamará la atención y si reincidiere dará aviso al Procurador General para que proceda conforme a sus facultades.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 696.
 
-El presidente tomará las precauciones que estime necesarias a fin de impedir que los testigos conferencien entre sí acerca del delito o del acusado, antes de que sean llamados a declarar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Los testigos y peritos que hayan concurrido a la audiencia, permanecerán mientras no fueren llamados al salón o el presidente no dispusiere otra cosa, en la pieza destinada especialmente para ello, sin poder salir de este lugar ni comunicarse de palabra o por escrito, con alguna persona de fuera.
-
-El que infrinja cualquiera de estas disposiciones, entendiéndose por infractor de ellas al que se comunique con los testigos y peritos y al que no impida esa comunicación, teniendo a su cargo la obligación de impedirla, será castigado disciplinariamente por el presidente del consejo, o consignado en su caso, a la autoridad competente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 697.
 
-El acusado, durante la audiencia, sólo podrá comunicarse con sus defensores, con el presidente o con las personas autorizadas por él para ese efecto, sin que en ningún caso pueda dirigir la palabra al público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-La infracción de ese precepto se castigará con arreglo a lo establecido en el artículo anterior.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 698.
 
-A toda audiencia deberá concurrir, además de la escolta encargada de la custodia del procesado, la tropa que el presidente del consejo considere necesaria para hacer cumplir sus disposiciones y conservar el orden.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO VI. De las excusas
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO I
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 699.
 
-Siempre que en concepto de las autoridades facultadas para convocar, conforme al artículo 73 se cometiere un delito de la competencia de un consejo de guerra extraordinario, dicha autoridad, expresándolo así, consignará a los presuntos responsables con el pedimento del Ministerio Público, citando a los individuos que deban desempeñar las funciones de juez, y secretario de éste, haciendo las insaculaciones necesarias para integrar el consejo y señalando para la reunión de éste, un término que no podrá ser menor de veinticuatro horas ni mayor de cuarenta y ocho.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Hechas las insaculaciones, el jefe militar expedirá las credenciales de los que hubieren resultado designados para formar parte del consejo, nombrando a quien deba desempeñar el cargo de presidente.
-
-La composición y reunión del consejo, se hará saber por la orden general de la plaza.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 700.
 
-El juez, sin pérdida de tiempo, hará saber dicha orden al presunto responsable, lo requerirá para que nombre defensor, advirtiéndole que en caso de que no lo haga, se le nombrará de oficio, le tomará su declaración indagatoria, practicará sumariamente las diligencias que fuere posible efectuar antes de la reunión del consejo, para la comprobación del cuerpo del delito y la presunta responsabilidad, motivando auto de formal prisión en su caso; citará desde luego, a los testigos y peritos que en su concepto deban concurrir a la audiencia. Las partes podrán entregar al juez lista de los testigos que por su parte crean conveniente presentar en la audiencia, a fin de que además de aquellos que hubieren sido citados por dicho juez, sean examinados ante el consejo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 701.
 
-El auto de formal prisión dictado conforme al artículo anterior no es apelable.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 702.
 
-El juez entregará el proceso al presidente del consejo con la lista de los testigos y peritos a quienes hubiere citado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 703.
 
-Reunido el consejo, el presidente pasará lista nominal de los individuos que deben componerlo, y el secretario dará lectura a las disposiciones de este Código, relativas a los delitos de la competencia de consejos de guerra extraordinarios y a la manera de juzgar a los responsables de ellos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 704.
 
-Una vez que el presidente declare instalado el consejo, practicará sumariamente todo lo que fuere aplicable de lo prevenido, en cuanto al examen del acusado o acusados, testigos y peritos, lectura de constancias procesales y debates, ante un consejo de guerra ordinario.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 705.
 
-La audiencia sólo se suspenderá en el caso de excusa de alguno de los miembros del consejo, que será calificada en los términos del artículo 785 o cuando el mismo consejo considere indispensable la declaración de algún testigo que no estuviere presente u otra prueba que no pueda ser recibida en el acto; en el concepto de que en cualquiera de esos casos, la suspensión no excederá de seis horas y observándose, cuando hubiere lugar a ello, lo prevenido en los dos artículos subsecuentes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 706.
 
-Cuando no puedan traerse a los autos inmediatamente, las hojas de servicio o filiaciones de los procesados, se suplirán estos documentos con declaraciones e informes de los jefes inmediatos, y si no los hubiere, de militares que los conozcan, quienes expondrán lo que supieren acerca de la personalidad militar de aquéllos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 707.
 
-En caso de lesiones no se esperará el resultado de éstas para la continuación de la causa; ésta seguirá adelante con sólo la comprobación del cuerpo del delito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 708.
 
-Concluídos los debates, el presidente tomará a los vocales la protesta a que se refiere el artículo 668, declarará secreta la audiencia y en ella formulará la siguiente pregunta: "¿El delito que se imputa al acusado N. N. es de la competencia del consejo de guerra extraordinario, conforme a lo dispuesto en el Código de Justicia Militar?"
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Recogida la votación de todos los miembros del consejo, se procederá en vista de ella, como corresponda, con arreglo a lo que se previene en los dos artículos que siguen.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 709.
 
-Contestada negativamente la pregunta especificada en el artículo anterior, el consejo entregará el proceso y demás documentos con el acta que haya levantado el secretario del juez, a éste, si es permanente, quien seguirá conociendo del asunto, según su competencia; y si no fuere permanente el juez, el consejo remitirá al acusado, el proceso y documentos por conducto del jefe que lo convocó al juez permanente que tenga competencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 710.
 
-Si la contestación fuere afirmativa, el juez formulará las preguntas a que se contraen las fracciones VII y VIII del artículo 665, con arreglo a lo prevenido en ellas y las IX y X del mismo artículo, procediéndose después conforme a lo dispuesto en el artículo 672 y siguientes, en todo cuanto en esos preceptos fueren aplicables.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 711.
 
-Cuando se declare que el acusado es inculpable, se pronunciará su absolución y el presidente del consejo dispondrá que se le ponga en libertad, si no debiere quedar detenido por otra causa; todo lo cual se hará constar en el acta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 712.
 
-(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 713.
 
-(DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 714.
 
-En la notificación y la ejecución de la sentencia, se observarán por la autoridad militar las solemnidades prevenidas por este Código y por las prescripciones disciplinarias, hasta donde sean compatibles con las circunstancias del delito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 715.
 
-Del acta levantada de lo ocurrido en la audiencia, inclusive el fallo, se enviarán copias autorizadas al archivo del detalle de la corporación a que pertenezca el procesado y a la Secretaría de la Defensa Nacional o de Marina según corresponda.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 716.
 
-El expediente original será enviado al Supremo Tribunal Militar, para su revisión, la que se reducirá a fijar la responsabilidad de los funcionarios que hayan intervenido, para los efectos del juicio correspondiente, si habiéndole dado vista al Procurador General de Justicia Militar, éste ejercitare acción penal.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 717.
 
-Ni la sentencia condenatoria ni la absolutoria que se pronuncien por los consejos de guerra extraordinarios son apelables.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-## TITULO CUARTO. De los incidentes
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO VII. De los impedimentos
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+## TITULO CUARTO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO II
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 718.
 
-Las excepciones que el inculpado pusiere serán apreciadas en la sentencia definitiva, en cuanto tengan relación con la criminalidad, por el tribunal que conozca del proceso, sin dar lugar a un incidente, o a un fallo especial, sino en los casos en que éste Código así lo determine expresamente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 719.
 
-Los tribunales militares resolverán de plano sobre los incidentes de poca importancia que se promovieren y que a su juicio no requieran detenido examen.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 720.
 
-Si el incidente se promoviere durante la instrucción y fuere de los que no se pueden decidir de plano, se substanciará por cuerda separada, dándose conocimiento de su promoción a la contra parte para que conteste a más tardar, dentro de tercero (sic) día. Pasado este plazo, háyase o no contestado, se abrirá un término de prueba, si a juicio del juez fuere preciso para esclarecer algún hecho. El término de prueba se fijará prudentemente por el juez, sin exceder de cinco días. Pasado que sea, el juez celebrará, dentro de los tres días siguientes, una audiencia y después de lo que alegaren las partes fallará sobre el incidente dentro del tercero (sic) día.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 721.
 
-Si el incidente se promueve después de cerrada la instrucción, el juez, o el Supremo Tribunal, en su caso, si estimaren que debe oírse a las partes, lo hará en audiencia; y si se promoviere prueba y fuere procedente, la recibirá en otra audiencia, en la que aquéllas podrán alegar; y procederá en seguida como se previene al final del artículo anterior.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 722.
 
-Los incidentes no suspenderán el curso del proceso, sino en los casos en que la ley lo ordene expresamente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 723.
 
-Ningún incidente será admisible en primera instancia después de haberse citado a la audiencia de alegatos o de haberse convocado al consejo de guerra; y en segunda instancia, después de hecha la declaración de "vistos."
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 724.
 
-En los juicios extraordinarios de que deban conocer los consejos de guerra, no podrán promoverse más incidentes que los de excusa y recusación conforme a las reglas establecidas por este Código.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO VIII. De la libertad absoluta
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO III
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 725.
 
-Las contiendas de competencia se promoverán por inhibitoria o por declinatoria.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 726.
 
-La inhibitoria se intentará ante la autoridad militar a la que se crea competente, pidiéndole que dirija oficio al tribunal a quien se estime incompetente, para que se inhiba y remita las diligencias que hubiere practicado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 727.
 
-La declinatoria que no podrá promoverse en los juicios ordinarios, antes de que se declare cerrada la instrucción, se propondrá ante el tribunal a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y haga igual remisión de las diligencias al competente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 728.
 
-La parte que hubiere promovido la competencia por uno de estos medios, no podrá abandonarlo y adoptar el otro, ni interponerlos simultánea ni sucesivamente, debiendo sujetarse al resultado del que hubiere elegido.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 729.
 
-El que promueva la competencia, de cualquiera de los dos modos que quedan establecidos, protestará en el escrito en que lo haga, que no ha empleado el otro.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 730.
 
-En el oficio de inhibición que se libre, se insertará copia del escrito en que se haya pedido, de lo expuesto por el Ministerio Público, del auto que hubiere recaído y de las demás constancias que se estimen necesarias para fundar la competencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 731.
 
-Recibido el oficio de inhibición, el juez oirá a las partes que ante él litiguen, señalando dos días a cada una para que evacuen el traslado y citando a audiencia verbal dentro de veinticuatro horas, en la que se dará cuenta del incidente y resolverá, concurran o no dichas partes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 732.
 
-Si accede a la inhibición, remitirá los autos inmediatamente, y en su caso, al procesado o procesados, a la autoridad o tribunal que se le haya propuesto, con citación de las partes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 733.
 
-Si el tribunal requerido se negare a inhibirse, comunicará su resolución a aquel de quien proceda la inhibitoria, insertando lo que hayan expuesto las partes que ante él litiguen con las demás constancias que crea necesarias en apoyo de su competencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-La autoridad requerida contestará en el improrrogable término de tres días.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 734.
 
-Si pasado el término señalado en el artículo anterior y además el tiempo necesario para que la autoridad requeriente reciba la contestación de la requerida, según la facilidad de las comunicaciones que entre ambas existan, la primera de esas autoridades no recibe dicha contestación, tendrá por aceptada la competencia y remitirá sus actuaciones al Supremo Tribunal Militar con un informe en que funde su competencia. De igual modo procederán las autoridades competidoras cuando sostengan su competencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 735.
 
-Si la autoridad requerida contestare aceptando la competencia jurisdiccional, la requeriente deberá participarle que a su vez sostiene la competencia o que se desiste de ella. Esta contestación se dará en el improrrogable término de tres días, y si así no fuere, la autoridad requerida procederá como lo dispone el artículo anterior.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 736.
 
-Cuando a consecuencia de los oficios que se dirijan las autoridades que controviertan, alguna de ellas se disistiere (sic) de la competencia, la que lo haga, remitirá a la otra sus actuaciones.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 737.
 
-En caso de inhibitoria, si las dos autoridades competidoras hubieren comenzado a instruir diligencias, las continuarán separadamente hasta que, dirimida la competencia, se proceda a la acumulación. La autoridad a quien esté sujeto el procesado, podrá resolver el incidente que por parte de éste se promueva, sobre libertad caucional.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 738.
 
-Si la competencia de jurisdicción se promoviere durante la instrucción, sólo se remitirá al tribunal que deba dirimirla, testimonio de lo que cada autoridad estime conducente para fundar su competencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 739.
 
-Cerrada la instrucción, las autoridades competidoras suspenderán sus procedimientos hasta que se resuelva la cuestión de competencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 740.
 
-Cuando la incompetencia se funde en el artículo 13 constitucional, la declinatoria podrá oponerse en todo tiempo y se resolverá sin necesidad de tramitación. Esta incompetencia puede declararla el juez de oficio. Si aquel a quien se estime competente hace oposición, el expediente se remitirá para que sea resuelto el caso, a la Suprema Corte de Justicia de la Nación.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 741.
 
-Las diligencias practicadas por una o por ambas autoridades competidoras, serán firmes y valederas a pesar de la incompetencia de una de ellas. Si se tratare de competencia constitucional serán valederas las diligencias que puedan coordinarse con el procedimiento establecido en este Código.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 742.
 
-Cuando se interpongan la excepción de incompetencia, se formará por cuerda separada el incidente y el juez oirá a las partes en una audiencia que deberá tener lugar dentro de los tres días siguientes, levantando el acta respectiva; si se promueve prueba y el juez la estima procedente, se recibirá en la audiencia. El juez fallará a más tardar, dentro de tres días.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 743.
 
-Cuando se oponga la declinatoria se suspenderá el procedimiento, tramitándose el incidente para oír a las partes y resolver como lo previene el artículo anterior; y si se declara la incompetencia, se remitirán las actuaciones a la autoridad que corresponda.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO IX. De la libertad por desvanecimiento de datos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO IV
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 744.
 
-La acumulación surte el efecto de que un mismo tribunal, conozca y decida en una sola sentencia de diversos procesos que se instruyen contra la misma persona por diversos delitos, o contra varias personas por un mismo delito, o por diversos delitos conexos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 745.
 
-La acumulación tendrá lugar:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- En los procesos que se instruyen en averiguación de delitos conexos, ya sean uno o varios los responsables;
-
-II.- en los que se sigan contra los autores, cómplices o encubridores del mismo delito;
-
-III.- en los que se sigan en averiguación de un mismo delito, aunque contra diversas personas, y
-
-IV.- en los que se sigan contra una misma persona, aun cuando se trate de delitos diversos o inconexos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 746.
 
-Los delitos son conexos:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Cuando han sido cometidos simultáneamente por dos o más personas reunidas, o unos a consecuencia de otros;
-
-II.- cuando han sido cometidos por dos o más personas en distintos lugares o tiempos, si hubiere precedido concierto para ello;
-
-III.- cuando han sido cometidos como medios para perpetrar otro, o facilitar su ejecución;
-
-IV.- cuando han sido cometidos para procurar la impunidad de otros delitos o aplicación de pena menos grave, y
-
-V.- serán también conexos los diversos delitos que se imputen a un procesado, al incoarse contra el mismo, causa por cualquiera de ellos, si tuvieren analogía entre sí, a juicio del tribunal, y no hubieren sido hasta entonces, objeto de procedimiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 747.
 
-La acumulación sólo podrá decretarse cuando todos los procesos se encuentren en estado de instrucción.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando alguno de ellos ya no estuviere en ese estado, el juez que hubiere conocido del proceso cuya sentencia cause antes ejecutoria, remitirá copia de ésta a la que conozca del otro proceso, para los efectos del artículo siguiente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 748.
 
-En los casos del artículo anterior y cuando se hubiere decretado la separación del proceso, el juez que pronuncie la segunda sentencia, tendrá presente, al imponer la pena en ella, lo relativo a la acumulación y reincidencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 749.
 
-La acumulación puede ser promovida por cualquiera de las partes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 750.
 
-La acumulación deberá promoverse ante el juez que, conforme al artículo 65 sea competente para substanciar todos los procesos y el incidente a que dé lugar se seguirá por cuerda separada.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 751.
 
-Promovida la acumulación, el juez oirá a las partes en audiencia verbal, que se verificará dentro de tres días, y sin más trámites, resolverá dentro de otros tres.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 752.
 
-Si se decretare la acumulación y los procesos estuvieren en diferentes juzgados, el juez que haya hecho la declaración, pedirá al otro las diligencias que hubiere practicado, por medio de oficio en que se expresen las causas que sirven de fundamento para la acumulación.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 753.
 
-Recibido el oficio, se oirá a las partes en audiencia verbal, que se verificará dentro de tres días, y el juez resolverá lo conveniente dentro de otros tres días.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 754.
 
-Si la resolución fuere favorable a la acumulación, el juez requerido remitirá desde luego el proceso y a los procesados que estuvieren en su poder al juez requeriente; en caso contrario, contestará el oficio exponiendo las razones que tuviere para rehusar la acumulación.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 755.
 
-Si el juez requeriente, en vista de las razones que exponga el requerido, se persuadiese de que es improcedente la acumulación, decretará su desistimiento y lo comunicará al otro juez y a las partes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 756.
 
-Si el juez que solicitó la acumulación insistiere en ella, no obstante las razones que en contrario hubiere expuesto el juez requerido, así se lo comunicará, y ambos remitirán los incidentes con testimonio de las actuaciones en lo principal que crean necesario, al Supremo Tribunal Militar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 757.
 
-La remisión de que habla el artículo anterior, se verificará dentro de tres días de recibidos por los jueces los respectivos oficios, y el Supremo Tribunal Militar decidirá la contienda, sujetándose a los procedimientos establecidos para las competencias.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 758.
 
-Nunca se suspenderá la instrucción con motivo del incidente sobre acumulación, aun cuando el Supremo Tribunal hubiere de decidirlo; pero concluida la primera, se suspenderán los procedimientos hasta que el incidente se decida.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 759.
 
-Siempre que por haberse cometido un delito extraño al fuero de guerra, en conexión con otros de los sujetos a él, se hubiere resuelto la competencia en favor de los tribunales del expresado fuero, se acumularán al proceso militar las diligencias practicadas en el otro tribunal.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 760.
 
-No procede la acumulación de los procesos que se sigan ante tribunales de distinta competencia a los del fuero de guerra, con los de éste.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 761.
 
-Si los procesos que deban acumularse se siguen ante el mismo juzgado, la acumulación podrá decretarse de oficio; y en tal caso no se substanciará incidente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 762.
 
-El tribunal que conozca de los procesos acumulados, puede ordenar la separación de ellos no obstante lo prevenido en los artículos anteriores, siempre que concurran todas las circunstancias siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que la separación sea pedida por alguna de las partes antes de que esté cerrada la instrucción;
-
-II.- que la acumulación se haya decretado por razón de que los procesos se sigan contra una sola persona por delitos diversos o inconexos;
-
-III.- que se estime, que de seguir acumulados los procesos, la averiguación se demoraría o dificultaría gravemente, con perjuicio del interés público o del procesado.
-
-Al decretar la separación, el juez ordenará la remisión de los autos correspondientes al juez que originariamente hubiere sido competente para conocer del caso.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 763.
 
-Contra el auto en que se declare no haber lugar a la separación de los procesos, no se da recurso alguno; pero dicho auto no pasa en autoridad de cosa juzgada, y puede, en consecuencia, pedirse de nuevo la separación, por causas supervenientes en cualquier estado del proceso, antes de que se declare cerrada la instrucción.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 764.
 
-El incidente sobre separación de procesos nunca suspenderá el curso de éstos y se substanciará por cuerda separada, en la misma forma que el de acumulación.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 765.
 
-Cuando varios tribunales conocieren de los procesos cuya separación se hubiese decretado, el que conozca del proceso en que primero se pronuncie sentencia ejecutoria, lo comunicará a los otros para los efectos legales.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO X. Libertad provisional bajo protesta
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO V
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 766.
 
-El procedimiento sólo se suspenderá:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Cuando no se haya logrado la aprehensión del inculpado o cuando el aprehendido se fugare;
-
-II.- cuando después de incoado el procedimiento se descubriere que debe llenarse algún requisito previo, conforme a lo prevenido en el artículo 79;
-
-III.- cuando hubiere llegado el proceso al estado de ser visto en consejo de guerra o de sentenciarse por el juez y no se haya recibido la sentencia sobre un auto elevado en apelación;
-
-IV.- cuando el procesado se hallare en el caso previsto en el artículo 850, y
-
-V.- en los demás casos en que la ley ordene la suspensión del procedimiento.
-
-Bastará el pedimento del Ministerio Público para que el juez, de plano, sin substanciación alguna, decrete la suspensión.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 767.
 
-Cuando hubiere desaparecido la causa de la suspensión, continuará el procedimiento.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 768.
 
-Lo dispuesto en la fracción I del artículo 766 se entiende sin perjuicio de que se practiquen todas las diligencias que tiendan a comprobar la existencia del delito, o la responsabilidad del prófugo, o a lograr su captura. Nunca la fuga de un inculpado impedirá la continuación de un proceso, respecto de los demás responsables del delito, que hubieren sido aprehendidos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 769.
 
-También se procederá de la manera prevista en el artículo anterior, cuando siendo varios los procesados, alguno o todos hubiesen ocurrido al juicio de garantías y se les concediese la suspensión.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 770.
 
-Al continuarse el procedimiento por haber desaparecido las causas mencionadas en las fracciones I y IV del artículo 766 y la referida en el que precede, se practicarán las diligencias que por ese motivo no se hubieren llevado a cabo, sin repetir las practicadas, sino cuando el juez lo estime necesario.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 771.
 
-Cuando el tribunal de apelación tuviere noticia de que se ha suspendido el procedimiento, previo el informe del juez respectivo, resolverá si es de continuarse o no.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 772.
 
-Si al pronunciarse la sentencia definitiva no hubieren sido aprehendidos algunos de los inculpados por el mismo delito, se mandará dejar abierto el proceso para continuarlo cuando se logre su detención.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO XI. De la libertad provisional bajo caución
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO VI
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 773.
 
-La recusación con expresión de causa, no es admisible en el fuero de guerra.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 774.
 
-Las partes podrán recusar por una sola vez en un mismo proceso, a los funcionarios judiciales expresados en este capítulo, con la simple protesta de no proceder con malicia y en los términos establecidos en esta ley.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Los funcionarios recusables admitirán de plano la recusación, dejando desde luego de conocer del asunto, y pasará el proceso a quien corresponda.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 775.
 
-Los jueces y sus secretarios sólo son recusables, después del auto que cite, en lo principal, a la audiencia de alegatos ante el juez y del que ordene la convocatoria para reunión de un consejo; y siempre que la recusación se promueva antes que aquella comience o se reúna el último. Propuesta la recusación será admitida de plano. Las partes podrán usar de ese derecho solamente dentro de las veinticuatro horas siguientes, a la en que se les notifique el auto de que se ha hecho mérito. La recusación deberá interponerse por escrito.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 776.
 
-Son recusables hasta tres miembros de un consejo de guerra ordinario; pero si fueren varios los acusados, deberán ponerse de acuerdo para ejercitar ese derecho de manera que nunca resulte recusado por su parte mayor número de dichos miembros.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 777.
 
-Tratándose de recusaciones de magistrados del Supremo Tribunal Militar, se observarán las siguientes reglas:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Será recusable uno de los que formen el tribunal pleno;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II.- las partes podrán usar de este derecho hasta el día señalado para la vista, pero antes de que ésta comience. Interpuesta en tiempo y forma la recusación, el tribunal pleno la admitirá de plano, y
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-III.- los magistrados que conozcan de una excusa, son irrecusables para ese efecto.
+### CAPITULO VII
 
-### CAPITULO I. Reglas generales
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 778.
 
-La excusa de los magistrados del Supremo Tribunal Militar, se presentará ante el tribunal pleno.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Integrado éste, se procederá a calificar la excusa en la misma sesión en que se diere cuenta de ella, o en la siguiente si la causa en que se funde fuere notoria; si se necesitare prueba, se concederá para recibirla, un término de setenta y dos horas, y dentro de las veinticuatro siguientes, se hará la calificación que corresponda.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 779.
 
-La excusa del Procurador General Militar se propondrá ante la Secretaría de la Defensa Nacional, quien calificará el impedimento y resolverá dentro de setenta y dos horas. La de cualquiera de sus agentes se propondrá ante el Procurador, quien la calificará y resolverá dentro de veinticuatro horas, designando al sustituto, en su caso.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 780.
 
-La excusa de los secretarios del Supremo Tribunal Militar, se calificará y resolverá por éste, en la sesión misma en que se le dé cuenta, o en la siguiente. Si la excusa fuere admitida, substituirá al impedido el que le siga en orden, conforme a lo prevenido en el artículo 8°.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 781.
 
-La excusa de los jueces se presentará ante el Supremo Tribunal Militar y se calificará en los mismos términos que expresa el artículo 778.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Mientras se resuelve el incidente, el juez continuará el procedimiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 782.
 
-La excusa del secretario del juez, se recibirá por éste, quien calificará el impedimento dentro del término de veinticuatro horas, y en caso de admitirla, designará al oficial mayor para que lo substituya.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Mientras se resuelve el incidente, el secretario excusado seguirá actuando en el proceso respectivo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 783.
 
-La excusa del presidente y vocales del consejo de guerra ordinario, antes de que éste se reúna se propondrá ante el Supremo Tribunal, dentro de las veinticuatro horas siguientes a la en que se les haga la citación para reunirse, salvo lo dispuesto en el artículo siguiente. Si la causa de la excusa no fuere notoria, y su prueba no existe de antemano, ni se acompaña el escrito respectivo, se probará por el que se excusare, dentro de un térnimo (sic) que no exceda de veinticuatro horas y se calificará inmediatamente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 784.
 
-Cuando la excusa se proponga por el presidente o por los vocales del consejo, estando éste reunido, y por causa que hasta entonces fuere conocida por el que se excuse, será resuelta, desde luego, por el juez.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 785.
 
-La excusa de los vocales de un consejo de guerra extraordinario, se propondrá en el momento de que éste se instale y se calificará desde luego, por el presidente del mismo. La excusa de este último la calificará el jefe que haya convocado el consejo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si la excusa fuere admitida, inmediatamente se practicará el sorteo para substituir al impedido o impedidos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 786.
 
-Los funcionarios a quienes se refieren los artículos anteriores del presente capítulo, sólo deberán excusarse por cualquiera de las causas de impedimento expresadas en el capítulo siguiente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 787.
 
-Los defensores de oficio deberán excusarse por las mismas causas a que se refiere el artículo anterior y además podrán hacerlo, cuando intervenga un defensor particular. Propondrán su excusa ante el jefe del cuerpo de defensores, quién la calificará dentro de veinticuatro horas nombrando substituto en caso de admitirla.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO II. De la revocación
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO VIII
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 788.
 
-Están impedidos para intervenir en un proceso con el carácter de juez, secretario, representante del Ministerio Público o miembro de un tribunal:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- El que tuviere relación de parentesco de consanguinidad en línea recta sin limitación de grado, o de afinidad o colateral dentro del cuarto grado civil con el acusado o quien, sin obrar en el ejercicio de las funciones de su cargo, hubiere formulado la denuncia, querella o acusación;
-
-II.- el que, sin la expresada circunstancia, hubiere producido la denuncia, querella o acusación, que motive o pueda motivar la formación del proceso, o aquel contra quien fuere dirigida una de aquéllas, cualquiera que sea el que la produzca, y tratándose del mismo proceso que en ella se debiere basar;
-
-III.- el que hubiere declarado como testigo en el proceso en que haya de intervenir con alguno de los caracteres especificados en el presente artículo;
-
-IV.- el que en los cinco años anteriores al juicio, haya figurado como parte civil, o como acusador, sin obrar en las funciones de su cargo, en otro juicio criminal contra el acusado;
-
-V.- el que con anterioridad hubiere intervenido en el mismo proceso, con otro de los caracteres especificados en este precepto o conocido del asunto objeto de él;
-
-VI.- el que tuviere relación de amistad íntima o de enemistad grave y manifiesta con el acusado o con el ofendido, y
-
-VII.- aquel contra quien se haya cometido el delito o que resintiere personalmente sus consecuencias, y los parientes de éste, en los grados a que se contrae la fracción I.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 789.
 
-Ningún militar puede excusarse de desempeñar los cargos o empleos de la administración de justicia, sino de conformidad con lo preceptuado en este Código.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-### CAPITULO III. De la apelación
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO IX
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 790.
 
-El acusado o su defensor pueden solicitar la libertad absoluta:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Cuando en la instrucción se halle demostrado por prueba plena pericial una circunstancia excluyente de responsabilidad;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II.- cuando se hayan desvanecido con prueba plena los datos que sirvieron de base para tener por comprobado el cuerpo del delito, y
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-III.- cuando se haya extinguido la acción penal.
+### CAPITULO X
 
-### CAPITULO IV. De la denegada apelación
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 791.
 
-En cualquier estado del proceso, antes de que se declare cerrada la instrucción, podrá decretarse la libertad del inculpado, siempre que, por prueba plena, se justifique que se han desvanecido los datos que se tuvieron en cuenta, en el auto de formal prisión, o de sujeción a proceso para tener por comprobados el cuerpo del delito, la presunta responsabilidad del incausado o una y otra circunstancias.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 792.
 
-Para substanciar el incidente a que se refiere el artículo anterior, hecha la petición por el interesado, el juez citará a las partes a una audiencia dentro del término de cinco días, y después de oírlas, sin más trámite, dictará la resolución que proceda dentro de los tres días siguientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 793.
 
-Cuando en opinión del Ministerio Público se hayan desvanecido los datos que sirvieron para dictar la formal prisión, no podrá expresar su parecer en la audiencia, sin previa autorización del Procurador, quien deberá resolver dentro del término de diez días.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 794.
 
-En el caso de que se conceda la libertad por haberse desvanecido los datos que sirvieron para considerar al inculpado como presunto responsable, la resolución respectiva tendrá los mismos efectos del auto de libertad por falta de méritos, quedando expedita la acción del Ministerio Público para pedir de nuevo la aprehensión del inculpado, si aparecieren nuevos datos que lo ameriten, así como nueva formal prisión del mismo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Cuando se conceda la libertad por haberse desvanecido los datos que sirvieron para tener por comprobado el cuerpo del delito, la resolución tendrá efectos de la cosa juzgada y se archivará el expediente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO I. De la ejecución
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO XI
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 795.
 
-Libertad protestatoria es la que se concede bajo la palabra de honor del procesado, siempre que se llenen los requisitos siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que el acusado tenga domicilio conocido en el lugar en que se siga el proceso;
-
-II.- que a juicio del juez, no haya temor de que se fugue;
-
-III.- que proteste presentarse al juez que conozca de su causa, siempre que se le ordene;
-
-IV.- que se trate de delitos cuya pena no exceda de seis meses de prisión;
-
-V.- que tenga buenos antecedentes de moralidad, y
-
-VI.- que no haya sido condenado en otro juicio criminal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 796.
 
-La libertad bajo protesta en el caso del artículo anterior puede pedirse y decretarse en cualquier estado del proceso, después de recibida la declaración indagatoria. El incidente se promoverá y substanciará ante el juez oyéndose en audiencia verbal al Ministerio Público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 797.
 
-La libertad protestatoria se revocará:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Cuando se viole alguna de las disposiciones de los dos artículos anteriores, y
-
-II.- cuando recaiga sentencia condenatoria contra el agraciado, ya sea en primera o en segunda instancia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 798.
 
-Procede si los requisitos anteriores, la libertad protestatoria, en los siguientes casos:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- En los casos del párrafo segundo de la fracción X del artículo 20 constitucional, y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II.- cuando habiéndose pronunciado sentencia condenatoria en primera instancia, la haya cumplido íntegramente el acusado, y esté pendiente del recurso de apelación.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
-### CAPITULO II. De la liberatd (sic) preparatoria y retención
+### CAPITULO I
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 799.
 
-Todo inculpado inmediatamente que lo solicite, el juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponérsele y no se trate de delitos en que por su gravedad este Código expresamente prohíba conceder este beneficio.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Para los efectos del párrafo anterior, se consideran delitos graves los señalados en los artículos siguientes, 203, 204, 205, 206, 208, 209, 210, 213, 216, 218 fracciones I y II, 219, 220 primer párrafo, 221, 223, 232, 237, 238 último supuesto, 242 en relación con la fracción III del artículo 241, 250, 251, 252, 253, 254, 264 fracción II en relación con los artículos 261 fracciones II, III y IV y 262 segundo supuesto, 265 fracciones II, III y IV, 267 fracciones III y IV, 272, 274 fracciones I y III, 279 fracción I, 282 fracción III, 285 fracciones III a la IX, 286 último supuesto, 290, 292, 299 fracciones III a la VII, 303 fracciones II y III, 304 fracciones III y IV último supuesto de ambas, 305 fracciones I primer supuesto y II, 307 primer párrafo, 309 segundo supuesto, 311 fracción III primer párrafo segundo supuesto, fracciones I, II y III en relación con el segundo párrafo de esta última fracción, así como la última parte de la misma fracción, 312, 313 fracción I segunda parte, fracciones I, II y III en relación al segundo párrafo de esta última fracción, 315 últimos dos supuestos, 316 primer supuesto, 317, 318 fracciones III a la VI, 319 fracciones I, II y III, 320 tres últimos supuestos, 321, 323 fracciones II y III, 324 fracción IV, segundo párrafo, 334 segundo párrafo, 338 fracción II, 339 fracciones II y III, 340, 341, 352 fracción III primer párrafo, 353 fracción I dos últimos supuestos y fracción II primer párrafo, 355 fracción I, 356 último supuesto, 357, 358 fracción III, 359, 360 último supuesto, 361 último supuesto, 362, 363, 364 excepto fracción I primera parte, 365 fracciones I y II, 366 fracción I, 367, 372 fracciones I y II, 376, 378 fracción I, 379 fracción I, 384, 385, 386, 389, 390 segundo supuesto, 392 fracción I, 395, 397, 398 último supuesto del primer párrafo, 400, 401 y 428.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 800.
 
-La libertad bajo caución podrá pedirse en cueelquier (sic) tiempo por el acusado o por su defensor.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 801.
 
-Cuando proceda la libertad caucional, reunidos los requisitos legales, el juez la decretará inmediatamente en la misma pieza de autos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ARTICULO 801 BIS.- En caso de delitos no graves, el Juez podrá negar, a solicitud del Ministerio Público, la libertad provisional del inculpado, cuando éste haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+ARTICULO 801 BIS.- (DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Por conducta precedente o circunstancias y características del delito cometido, según corresponda, se entenderán, entre otros casos, cuando:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-I. El inculpado sea delincuente habitual o reincidente por delitos dolosos, en términos de lo dispuesto por el Código de Justicia Militar;
+ARTICULO 801 TER.- (DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-II. El inculpado esté sujeto a otro u otros procesos penales anteriores, en los cuales se le haya dictado auto de formal prisión por el mismo género de delitos;
-
-III. El inculpado se haya sustraído a la acción de la justicia y esté sujeto a un procedimiento penal por delito doloso por el cual haya sido extraditado;
-
-IV. El inculpado se haya sustraído con anterioridad a la acción de la justicia impidiendo con ello la continuidad del proceso penal correspondiente;
-
-V. El Ministerio Público aporte cualquier otro elemento probatorio de que el inculpado se sustraerá a la acción de la justicia, si la libertad provisional le es otorgada;
-
-VI. Exista el riesgo fundado de que el inculpado cometa un delito doloso contra la víctima u ofendido, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el procedimiento, o algún tercero, si la libertad provisional le es otorgada;
-
-VII. Se trate de delito cometido con violencia, en asociación delictuosa o pandilla, o
-
-VIII. El inculpado haya cometido el delito bajo el influjo de estupefacientes o sustancias psicotrópicas.
-
-> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
-
-ARTICULO 801 TER.- El juez podrá en todo caso revocar la libertad provisional concedida al inculpado cuando aparezca durante el proceso cualesquiera de las causas previstas en el artículo anterior y así lo solicite el Ministerio Público.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 802.
 
-En caso de que se niegue la libertad caucional, puede solicitarse de nuevo y ser concedida por causas supervenientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 803.
 
-El monto de la caución se fijará por el juez, quien tomará en consideración:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Los antecedentes del inculpado;
-
-II.- la gravedad y circunstancias del delito o de los delitos imputados;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-III.- La condición económica del inculpado, y
-
-IV.- la naturaleza de la garantía que se ofrezca.
-
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
-
-El juez podrá disminuir el monto de la caución inicial, a (sic) tomando en consideración las anteriores circunstancias.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 804.
 
-La naturaleza de la caución quedará a elección del acusado, quien al solicitar la libertad manifestará la forma que elige. En caso de que el inculpado o su defensor, no hagan dicha manifestación, el juez, de acuerdo con el artículo que antecede, fijará la naturaleza de la caución.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
-
-El monto y la forma de la caución que se fije deberán ser asequibles para el inculpado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 805.
 
-La caución podrá consistir:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-I.- En depósito en efectivo, hecho por el inculpado o por terceras personas, en la institución de crédito autorizada para ello; el certificado que en estos casos se expida, se depositará en la caja de valores del juzgado, tomándose razón de ello en autos. Cuando por razón de la hora o por ser día feriado no pueda constituirse el depósito directamente en la institución mencionada, el juez recibirá la cantidad exhibida y la mandará depositar en la misma el primer día hábil.
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-II.- En caución hipotecaria otorgada por el inculpado o por terceras personas, sobre inmuebles cuyo valor catastral garantice la suma fijada, y
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-III.- En fianza personal que fijará el juez, y podrá constituirse en el mismo expediente de autos.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 806.
 
-Cuando se ofrezca como garantía, fianza personal por cantidad mayor de quinientos pesos el fiador deberá comprobar que tiene bienes raíces inscritos en el Registro Público de la Propiedad, de la jurisdicción del tribunal correspondiente, cuyo valor sea cuando menos de tres tantos de la cantidad señalada como garantía y presentará certificado de liberación de gravámenes por veinte años anteriores a la fecha en que haya de otorgarse la caución, y los títulos de propiedad, que serán anotados con una razón del fin para que fueron presentados.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si la fianza fuere hipotecaria, la hipoteca se deberá constituir en primer lugar, e inscribirse en el Registro Público de la Propiedad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 807.
 
-El fiador propuesto, cuando se trate de fianza personal, salvo cuando sea dada por empresas afianzadoras legalmente autorizadas, deberá declarar ante el tribunal correspondiente, bajo protesta de decir verdad, acerca de las fianzas judiciales que con anterioridad hayan otorgado, así como de la cuantía y circunstancias de las mismas para que esa declaración se tome en cuenta al calificar su solvencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 808.
 
-Al notificarse al procesado el auto que le concede su libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante su juez cuantas veces sea citado o requerido para ello; comunicar al mismo los cambios de domicilio que tuviere y presentarse ante el tribunal que conozca de su causa el día que se le señale de cada semana. En la notificación se hará constar que se hicieron saber al acusado las anteriores obligaciones.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 809.
 
-Cuando el inculpado, por sí mismo haya garantizado su libertad por depósito o por hipoteca, aquélla se le revocará en los casos siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-I.- Cuando el procesado desobedeciere, sin causa justificada y comprobada, las órdenes legítimas del juez que conozca de su proceso;
-
-II.- cuando lo solicite el mismo inculpado y se presente a su juez;
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-III.- Cuando en el curso de la instrucción apareciere que el delito o los delitos imputados se encuentran calificados como graves por este Código;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-IV.- Cuando en su proceso cause ejecutoria la sentencia dictada en primera o en segunda instancia y ella sea condenatoria sin dar al sentenciado por compurgado, y
-
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
-
-V.- Cuando el inculpado no cumpla en forma grave con alguna de las obligaciones a que se refiere el artículo anterior.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 810.
 
-Cuando un tercero haya garantizado la libertad del acusado por medio de depósito en efectivo, de fianza personal o de hipoteca, aquélla se revocará:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- En los casos que se mencionan en el artículo anterior;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-II.- Cuando aquél pida que se le releve de la obligación y presente al acusado;
-
-III.- cuando con posterioridad se demuestre la insolvencia del fiador, y
-
-IV.- en los casos del artículo 814 de este Código.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 811.
 
-En los casos de las fracciones I y V del artículo 809 se mandará reaprehender al procesado y la caución se hará efectiva, a cuyo efecto el juez enviará el certificado de depósito, el testimonio de la hipoteca o copia del acta correspondiente a la Oficina de Hacienda respectiva, para su cobro.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 812.
 
-En los casos de las fracciones III y IV del artículo 809, se ordenará la reaprehensión del acusado si no se presenta dentro de veinticuatro horas de haberse citado; desobediencia que ameritará se haga efectiva la fianza. En los de las fracciones II del artículo 809, II y III del 810, se remitirá al acusado al establecimiento que corresponda, sin perjuicio de que en el último caso, se haga efectiva la fianza cuando esto llegare a ser posible.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 813.
 
-El juez ordenará la devolución del depósito o mandará cancelar la garantía:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Cuando de acuerdo con el artículo anterior remita al acusado al establecimiento correspondiente, por las causas que se mencionan en las fracciones II del artículo 809, III y IV del mismo si se hubiere presentado cumpliendo la citación y II del 810;
-
-II.- cuando éste sea absuelto;
-
-III.- cuando resulte condenado el mismo y se presente a cumplir su condena, y
-
-IV.- cuando se dicte auto de libertad o de extinción de la responsabilidad penal.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 814.
 
-Cuando un tercero haya constituido depósito, fianza o hipoteca, para garantizar la libertad de un procesado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentar al procesado, el juez podrá otorgarle un plazo hasta de cinco días para que lo haga, sin perjuicio de librar orden de aprehensión si lo estimare oportuno. Si concluido el plazo concedido al fiador, no se obtiene la comparecencia del acusado, se hará efectiva la garantía y se ordenará, si no se ha hecho, la reaprehensión del procesado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 815.
 
-En los casos de revocación de la libertad caucional, se deberá oír reviamente (sic) al Ministerio Público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 816.
 
-Los jueces que concedan libertades bajo caución, comunicarán al Supremo Tribunal Militar, con copia a los demás jueces del lugar, si en él hubiere más de uno, dentro del término de tres días, los datos sobre el monto y naturaleza de la fianza, nombre y domicilio del fiador, nombre del beneficiado, delito por el que se le instruye proceso y estado de éste. Asimismo, darán aviso de las cancelaciones y motivos de ellas y de las que hagan efectivas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-## TITULO QUINTO. De los recursos
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPITULO III. De la Reducción, Indulto, Reconocimiento de Inocencia y Rehabilitación
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+## TITULO QUINTO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO II
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 817.
 
-Cuando el acusado manifieste su inconformidad al notificársele una resolución judicial, deberá entenderse como interpuesto el recurso que proceda.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 818.
 
-No procederá ningún recurso cuando la parte agraviada se hubiere conformado expresamente con una resolución o procedimiento, o cuando no interponga el recurso dentro de los términos que la ley señala.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 819.
 
-Ningún recurso podrá desecharse, ni quedar pendiente de proveído, por defecto de la forma en que se promueva, si claramente se desprende de la promoción, la voluntad de interponer el recurso.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO III
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 820.
 
-El recurso de revocación procede siempre que no se conceda por este Código el de apelación.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 821.
 
-Interpuesto en el acto de la notificación o al día siguiente, hábil, el juez ante quien se interponga lo admitirá o desechará de plano si creyere que no es necesario oír a las partes. En caso contrario, las citará a audiencia verbal, que se verificará dentro de las cuarenta y ocho horas siguientes y dictará en ella su resolución, contra la que no se da recurso alguno.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO IV
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 822.
 
-El recurso de apelación tiene por objeto, que el Supremo Tribunal Militar confirme, revoque o modifique la resolución apelada.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 823.
 
-La segunda instancia solamente se abrirá a petición de parte, para resolver sobre los agravios que deberá expresar el apelante al interponer el recurso o en la vista; pero el tribunal de alzada podrá suplir la deficiencia de ellos, cuando el recurrente sea el procesado o se advierta que sólo por torpeza del defensor no hizo valer debidamente las violaciones causadas en la resolución recurrida.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 824.
 
-La apelación podrá interponerse por escrito o de palabra, dentro de tres días de hecha la notificación si se tratare de auto o de cualquiera otra resolución excepto en los casos en que este Código disponga expresamente otra cosa; y de cinco, si se tratare de sentencia definitiva.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 825.
 
-Cualquiera de las partes tendrá derecho a apelar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 826.
 
-El recurso de apelación sólo procede:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-En el efecto devolutivo, contra:
-
-I.- El auto denegatorio de la orden de aprehensión o de comparecencia en su caso;
-
-II.- el auto de formal prisión, excepto lo previsto en el artículo 701; el de sujeción a proceso y el de libertad por falta de méritos;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-III.- Las sentencias definitivas excepto en el caso del artículo 717. Cuando sean absolutorias, el sentenciado quedará en libertad mientras se resuelve el recurso.
-
-IV.- los autos denegatorios de prueba;
-
-V.- los autos en que se mande suspender o continuar la instrucción;
-
-VI.- los autos que ordenen la acumulación o separación de procesos;
-
-VII.- el auto de desistimiento del juez requeriente en casos de acumulación;
-
-VIII.- las resoluciones dictadas en cuestiones de competencia, y
-
-IX.- el auto que niega la revocación del que imponga una corrección disciplinaria que no sea la de suspensión en el ejercicio de funciones o de profesión.
-
-En ambos efectos, contra:
-
-I.- El auto que declare no haber delito que perseguir si no se dictare a pedimento del Ministerio Público;
-
-II.- las sentencias que resuelvan las excepciones fundadas en alguna de las causas que extinguen la acción penal o que concedan la libertad por desvanecimiento de datos, y
-
-III.- las sentencias definitivas excepto en el caso del artículo 717. Cuando sean absolutorias, el reo quedará en libertad mientras se resuelve el recurso.
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 827.
 
-Al notificar la sentencia definitiva, se hará saber al procesado el término que la ley concede para interponer el recurso de apelación, de lo cual se asentará constancia en el proceso. Cuando se omita el dar a saber dicho término, éste quedará duplicado, y se castigará al secretario disciplinariamente por el tribunal de alzada con la corrección que estime conveniente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 828.
 
-Cuando la apelación se admita en ambos efectos, y no haya otros procesados en la misma causa que no hubieren apelado, y además, no se perjudique la instrucción o cuando se trate de sentencia definitiva, se remitirá original el proceso al Supremo Tribunal Militar. Fuera de estos casos, se remitirá testimonio de todas las constancias que las partes designen, y de aquellas que el juez estime conducentes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 829.
 
-Recibido el proceso o el testimonio en su caso, el Supremo Tribunal Militar mandará citar a las partes para la vista del negocio, dentro de los diez días siguientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Las partes podrán tomar en la secretaría los apuntes que necesiten para alegar. Pueden, igualmente, dentro de los tres días siguientes a la notificación impugnar la admisión del recurso o el efecto o efectos en que fue admitido, y el tribunal, dentro de los tres días siguientes resolverá lo pertinente y en caso de declarar que la apelación fue mal admitida, sin revisar la sentencia o auto apelado, devolverá la causa al juzgado de su origen, si se la hubiere enviado con motivo del recurso. También podrá el tribunal después de la vista, declarar si fue mal admitida la apelación, cuando no se hubiere promovido el incidente que autoriza el presente artículo, y sin revisar la sentencia o auto apelado devolverá en su caso, la causa al juzgado de su procedencia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 830.
 
-El día señalado para la vista del negocio, comenzará la audiencia por la relación del proceso hecha por el secretario, teniendo en seguida, la palabra la parte apelante, y a continuación las otras en el orden que indique el presidente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si fueren dos o más los apelantes, usarán de la palabra en el orden que designe el mismo presidente, pudiendo hablar al último el acusado o el defensor. Si las partes, debidamente notificadas, no concurrieren, se llevará adelante la audiencia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 831.
 
-Declarado visto el proceso, quedará cerrado el debate, y el Supremo Tribunal Militar pronunciará su fallo dentro de quince días a más tardar, excepto en el caso del artículo siguiente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 832.
 
-Cuando el Supremo Tribunal Militar, después de la vista, creyere necesario para ilustrar su criterio, la práctica de alguna diligencia, podrá decretarla para mejor proveer y la desahogará a la mayor brevedad, tomando en cuenta las disposiciones de este libro y el artículo 20 constitucional.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 833.
 
-El Supremo Tribunal Militar al pronunciar su sentencia, tendrá las mismas facultades que el tribunal de primera instancia; pero si sólo hubiese apelado el sentenciado o su defensor, no podrá aumentarse la pena impuesta en la sentencia apelada.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 834.
 
-Cuando cualquiera de las partes quisiere promover alguna prueba, lo hará al ser citada para la vista o dentro de tres días de notificadas, expresando el objeto y la naturaleza de dicha prueba. El Supremo Tribunal Militar al día siguiente de hecha la promoción, decidirá sin trámite alguno si es de admitirse o no; en el primer caso, la desahogará dentro de cinco días.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-La prueba testimonial no se admitirá en segunda instancia, sino respecto de hechos que no hayan sido materia de examen en la primera.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 835.
 
-La reposición del procedimiento no se decretará de oficio. Cuando alguna de las partes la pida, deberá expresar el agravio en que apoya su petición, no pudiendo alegar aquel con el que se hubiere conformado expresamente o contra el que no se hubiere intentado el recurso que la ley concede. Para que una violación o una omisión puedan hacerse valer como agravios, es preciso que se haya protestado en su contra en la instancia en que se causó.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 836.
 
-Habrá lugar a la reposición del procedimiento por alguna de las causas siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Por no haber procedido el juez desde la instrucción hasta la sentencia, acompañado de su secretario;
-
-II.- por no haberse hecho saber al acusado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento y el nombre de su acusador;
-
-III.- por no haberse permitido al acusado nombrar defensor en los términos que establece este Código;
-
-IV.- por no haberse practicado las diligencias pedidas por alguna de las partes, habiendo posibilidad de hacerlo, siempre que la falta no sea imputable al que la promovió;
-
-V.- por haberse celebrado la audiencia ante el consejo de guerra, sin asistencia de alguno de sus miembros, del Agente del Ministerio Público, del juez, o de su secretario o por que a cualquiera de ellos le faltare algún requisito legal;
-
-VI.- por haber citado a las partes para las diligencias que este Código señala, en otra forma que la establecida en él, a menos que la parte que se dice agraviada hubiere concurrido a la diligencia, o que se hubiese notificado de resoluciones posteriores a la citación, sin haber protestado por aquella circunstancia;
-
-VII.- por no haberse formado el consejo de guerra con arreglo a las prescripciones del libro primero;
-
-VIII.- por no haberse aceptado la recusación del presidente o vocales del consejo de guerra ordinario, hecha en la forma y términos legales;
-
-IX.- por haberse declarado contradictorias algunas de las conclusiones presentadas por las partes, sin que tal contradicción existiera;
-
-X.- por no haberse permitido a cualquiera de las partes retirar o modificar sus conclusiones o establecer nuevas, en los casos en que este Código lo permite;
-
-XI.- por haberse declarado en el caso del artículo 619, que el acusado o su defensor habían alegado sólo la inculpabilidad, si no había transcurrido el término señalado en ese artículo;
-
-XII.- por haberse omitido en el interrogatorio alguna de las preguntas que conforme a este Código debieron hacerse al consejo de guerra.
-
-XIII.- por haber contradicción notoria y substancial en las declaraciones del consejo de guerra, si por tal contradicción no pueden tomarse en cuenta en la sentencia, los hechos votados;
-
-XIV.- cuando en la convocatoria del consejo o en la citación para la audiencia no se hayan observado los requisitos exigidos para ello en los artículos relativos de este Código, o cuando una u otra de aquéllas hayan sido hechas por autoridad distinta de la que hubiere debido hacerlas con arreglo al mismo código;
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
-
-XV.- por tener alguno de los miembros del consejo cualquiera de las causas de impedimento que señala este código, y no haberla expresado o haber sido desatendida por la autoridad correspondiente; y
-
-XVI.- En todos los casos no previstos en las fracciones anteriores, pero en las que este Código declare expresamente la nulidad de una diligencia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 837.
 
-La reposición podrá ser pedida por las partes antes de celebrarse la vista en la apelación; y si se declaran procedentes las violaciones alegadas, se mandará reponer el procedimiento desde el punto en que se cometió la violación, si ésta fuere antes del juicio; pero si fuere durante éste, desde la citación para la audiencia ante el juez o consejo de guerra.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 838.
 
-Promovida la reposición del procedimiento, se suspenderá la vista en la apelación hasta que se resuelva aquélla, y se correrá traslado a la parte contraria. Si alguna de las partes ofreciere prueba y si se estima procedente, se abrirá la dilación probatoria por un término que no exceda de quince días. Transcurrida ésta o no habiéndose ofrecido prueba, se citará a audiencia que ha de efectuarse concurran o no las partes, y se fallará dentro de los ocho días siguientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 839.
 
-Concedida la reposición, se remitirán los autos originales al juzgado de su procedencia, con testimonio de la ejecutoria archivándose el toca. Cuando la sentencia fuere negando la reposición, se mandará copia de la ejecutoria al juzgado respectivo y se continuará el procedimiento en el toca a la apelación hasta fallar ésta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO I
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 840.
 
-El recurso de denegada apelación procederá siempre que se hubiere negado la apelación en uno o en ambos efectos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 841.
 
-El recurso podrá interponerse verbalmente o por escrito, dentro de los tres días siguientes a la notificación del auto en que se negare la apelación.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 842.
 
-Interpuesto el recurso, el juez, sin más trámite, enviará al Supremo Tribunal Militar dentro de los tres días siguientes, un certificado autorizado por el secretario, en el que conste la naturaleza y estado del proceso, el punto sobre que recaiga el auto apelado insertándose este a la letra y el que lo haya declarado inapelable, así como las actuaciones que creyere convenientes, y las que señalen las partes con la promoción de éstas, al hacer el señalamiento.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 843.
 
-Cuando el juez no cumpliere con lo prevenido en el artículo anterior, el interesado podrá ocurrir por escrito al Supremo Tribunal Militar, haciendo relación del auto de que hubiere apelado, expresando la fecha en que se le haya hecho la notificación, aquella en que interpuso el recurso y la providencia que a esa promoción recayó y solicitando se libre orden al juez para que remita el certificado respectivo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 844.
 
-Presentado el escrito a que se refiere el artículo anterior, el Supremo Tribunal Militar, prevendrá al juez que, remita el certificado que establece el artículo 842, e informe de las causas por las que no cumplió oportunamente con su obligación, dentro de un plazo que no excederá de cuarenta y ocho horas, aumentando el tiempo necesario, según las facilidades de comunicación si se tratare de autoridades foráneas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si del informe resultare alguna responsabilidad al juez, lo consignará al Ministerio Público.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 845.
 
-Recibido el certificado, el tribunal citará para sentencia y pronunciará ésta dentro de tres días de hecha la notificación.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 846.
 
-Si la apelación se declarare admisible, se procederá como previene el capítulo anterior.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-En caso contrario, se mandará archivar el toca respectivo, remitiendo testimonio de la ejecutoria al juzgado del conocimiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-## TITULO SEXTO. De la ejecución de sentencia
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+## TITULO SEXTO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO II
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 847.
 
-El Juez de Ejecución de Sentencias que reciba testimonio de una sentencia irrevocable, procederá a vigilar su cumplimiento con apego a lo prevenido en ella y a la ley aplicable.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 848.
 
-Son irrevocables y, por lo tanto, causan ejecutoria:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Las sentencias pronunciadas en primera instancia, cuando se hayan consentido expresamente, o cuando expirado el término que la ley fija para interponer algún recurso, no se haya interpuesto;
-
-II.- las sentencias de segunda instancia, y
-
-III.- aquellas contra las cuales no conceda la ley recurso alguno.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 849.
 
-En toda sentencia condenatoria se prevendrá que se amoneste al sentenciado para que no reincida, advirtiéndole las penas a que se expone, y de ello se extenderá diligencia en el proceso; pero sin que la falta de ésta obste para hacer efectivas las penas de la reincidencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 850.
 
-Se suspenderá la ejecución de una sentencia, en los siguientes casos:
-
-I.- Cuando el sentenciado se encuentre en estado de enajenación mental;
-
-II.- (DEROGADA, D.O.F. 29 DE JUNIO DE 2005);
-
-III.- cuando el sentenciado hubiere pedido el indulto en alguno de los casos en que proceda y mientras resuelve el Ejecutivo;
-
-IV.- en los demás casos especialmente señalados en este Código.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
 ###### ARTICULO 851.
 
@@ -6552,105 +7382,109 @@ IV.- en los demás casos especialmente señalados en este Código.
 
 (DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 853.
 
-Los jueces remitirán copia de la sentencia ejecutoria tanto al jefe de la prisión en donde estuviere el sentenciado, como al de aquella en que hubiere de extinguir su condena, en su caso; asimismo, enviará testimonio de ella a la Secretaría de la Defensa Nacional o de Marina, según corresponda, y a la comandancia de su adscripción.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+### CAPITULO III
 
 ###### ARTICULO 854.
 
-El sentenciado que tenga derecho a la libertad preparatoria de acuerdo con este Código, podrá solicitarla por escrito al Juez de Ejecución de Sentencias, por conducto del jefe del establecimiento donde se halle extinguiendo su condena, el que deberá adjuntar un informe detallado de la conducta observada por el sentenciado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 855.
 
-El Juez de Ejecución de Sentencias, con audiencia del Ministerio Público, otorgará el beneficio de la libertad preparatoria, si resulta acreditada la enmienda del sentenciado. De la resolución dictada, si es favorable, se le dará aviso a la Secretaría de la Defensa Nacional o de Marina, según corresponda.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 856.
 
-Los sentenciados que salgan a disfrutar de la libertad preparatoria, quedarán sometidos a la vigilancia de la autoridad militar, en el lugar que la Secretaría de la Defensa Nacional o de Marina, según corresponda, les designe para residencia, salvo el caso de que vayan a prestar sus servicios en el Ejército.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 857.
 
-La sujeción a la vigilancia de la autoridad militar, importará:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-I.- La inspección prudentemente ejercitada por parte de esa autoridad, de sus agentes o de la Policía Ministerial Militar, acerca de la conducta del sentenciado;
-
-II.- la obligación por parte del vigilado, de presentarse a dicha autoridad, en los días que ésta le señale, y cada vez que fuere requerido para ello;
-
-III.- la obligación para el agraciado de dar parte a la autoridad de quien dependa, de su domicilio y los cambios que de él efectúe.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 858.
 
-Si el jefe militar de quien dependa el agraciado con la libertad preparatoria, observare que éste se conduce mal, dará parte inmediatamente al Juez de Ejecución de Sentencias, acompañándole los datos en que funde su juicio.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-El citado jefe dará igualmente parte, cuando el agraciado no se presente el día que tenga señalado, o cuando sea requerido para ello, si no comprobare haber tenido motivo justificado que lo haya obligado a cometer la falta.
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 859.
 
-Si los datos fueren fehacientes, el tribunal revocará la libertad preparatoria, dando aviso a la Secretaría de la Defensa Nacional o de Marina, según corresponda, pero si no lo fueren, mandará que se haga la averiguación correspondiente, a fin de resolver, oyendo sumariamente, en ambos casos, al Ministerio Público y al defensor.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 860.
 
-La libertad preparatoria se revocará cuando el agraciado observe mala conducta, fuere nuevamente procesado por cualquier otro delito y se dicte sentencia que cause ejecutoria en su contra o cuando falte a las abligaciones (sic) que expresan las fracciones II y III del artículo 857.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 861.
 
-La revocación de la libertad preparatoria traerá como consecuencia que se reduzca de nuevo a prisión al sentenciado, para que sufra toda la parte de la pena de que se le había hecho gracia, sea cual fuere el tiempo que llevare de estar disfrutando de la expresada libertad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 862.
 
-Cuando el término de la libertad preparatoria expire sin que haya habido motivo para revocarla, el jefe militar de quien dependa el beneficiado, informará al Juez de Ejecución de Sentencias, a fin de que éste declare que el sentenciado queda en libertad absoluta. Esta determinación será comunicada a la Secretaría de la Defensa Nacional o de Marina, según corresponda.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 863.
 
-Contra las resoluciones dictadas sobre libertad preparatoria, no se admitirá recurso alguno.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 864.
 
-Al notificarse a los sentenciados la sentencia irrevocable que los condene a sufrir prisión, por delito que tenga señalada en la ley una pena de dos años como término medio, se les harán saber las prevenciones de este capítulo, lo cual se ordenará en la sentencia, levantándose de ello, en su oportunidad, acta formal en autos que firmará o señalará con sus huellas digitales el sentenciado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 865.
 
-(DEROGADO, D.O.F. 13 DE JUNIO DE 2014)
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 866.
 
-Recibido ese informe, se citará a una audiencia dentro de cinco días, oyendo a las partes. Si se ofreciere prueba, se recibirá desde luego o se fijará un plazo para su recepción; señalándose, en este caso, nuevo día para la audiencia dentro de los ocho siguientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 867.
 
-El día de la audiencia el secretario dará cuenta con el expediente y las partes alegarán lo que a sus intereses convenga, pronunciándose la resolución dentro de los tres días siguientes. La audiencia se verificará, concurran o no las partes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 868.
 
-Cumplido el término de la condena, previa declaración de extinción de pena por parte del Juez de Ejecución de Sentencias, el Director del establecimiento penal deberá poner al sentenciado inmediatamente en libertad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 869.
 
@@ -6660,321 +7494,335 @@ Cumplido el término de la condena, previa declaración de extinción de pena po
 
 (DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 871.
 
-La reducción de pena se solicitará cuando se haya pronunciado sentencia que cause ejecutoria por medio de escrito que se presentará ante el Juez de Ejecución de Sentencias.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Dicho Juez de Ejecución, citará a una audiencia dentro de los cinco días siguientes en la que después de oír al Ministerio Público, emitirá la resolución correspondiente.
-
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 872.
 
-La solicitud de reducción de pena no suspenderá la ejecución de la sentencia.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 873.
 
-El reconocimiento de inocencia sólo podrá concederse respecto de penas impuestas en sentencia irrevocable.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, PRIMER PARRAFO, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 874.
 
-El reconocimiento de inocencia del sentenciado se podrá basar en alguno de los motivos siguientes:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Que no existió el hecho material que sirvió de base para la condenación;
-
-II.- que aun habiendo existido el hecho y éste hubiera sido ejecutado por la persona declarada culpable de él, no debió ser legalmente castigada;
-
-III.- cuando dos o más personas hayan sido condenadas por un mismo delito y sea imposible que todas ellas lo hayan cometido;
-
-> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 1993)</small>
-
-IV.- cuando la sentencia se funde exclusivamente en pruebas que posteriormente se declaren falsas; y
-
-> <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 1993)</small>
-
-V.- cuando después de la sentencia aparecieren documentos públicos que invaliden la prueba en que se haya fundado aquélla.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 875.
 
-El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia, ocurrirá por escrito al Juez de Ejecución de Sentencias, alegando la causa o causas de las enumeradas en el artículo anterior en que funde su petición, acompañando las pruebas respectivas o protestando exhibirlas oportunamente.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 876.
 
-Presentada la solicitud al Juez de Ejecución de Sentencias, éste pedirá el proceso inmediatamente y tan luego como lo reciba citará al sentenciado, al jefe del Cuerpo de Defensores y al Ministerio Público, para una audiencia que se efectuará dentro de los cinco días siguientes recibiendo en ella la prueba que se hubiere ofrecido.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 877.
 
-El día señalado para la audiencia, el secretario hará relación de autos, y recibida la prueba, informará al sentenciado o la persona por él designada para ese fin y, en defecto de ella, lo hará el jefe del Cuerpo de Defensores, oyéndose también al Ministerio Público.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 878.
 
-Dentro de los cinco días siguientes al en que se hubiere efectuado la audiencia, previa vista a las partes, el Tribunal declarará si en su concepto es o no fundada la solicitud del sentenciado. En el primer caso, remitirá con informe las diligencias originales a la Secretaría de la Defensa Nacional, la que a su vez las hará llegar al Ejecutivo Federal para que sin más trámite reconozca la inocencia del sentenciado; en el segundo, mandará archivar las diligencias.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 879.
 
-El sentenciado que pretenda obtener indulto, ocurrirá por escrito a la Secretaría de la Defensa Nacional, acompañando testimonio de la sentencia, un certificado expedido por el jefe de la prisión en que se encuentre, con el que compruebe el tiempo que haya sufrido la pena impuesta, un dictamen en el cual se haga constar que el solicitante refleja un alto grado de readaptación social y que su liberación no representa un peligro para la tranquilidad o seguridad públicas, así como la justificación de la prestación de los servicios importantes a la Nación o de la existencia de las circunstancias especiales que concurran en su favor.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 880.
 
-El Ejecutivo Federal en vista de los comprobantes, o si así conviniera a la tranquilidad o seguridad públicas, concederá el indulto sin condición alguna o con las que estime convenientes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 24 DE JUNIO DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 881.
 
-Todas las resoluciones en que se conceda indulto o reconocimiento de inocencia, se publicarán en la Orden General de la Plaza de todas y cada una de las Zonas Militares y se comunicarán al Tribunal que hubiere dictado la sentencia para que haga la anotación respectiva en el expediente del caso.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-## TITULO SEPTIMO. De los juicios de responsabilidad de los funcionarios y empleados del orden judicial
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+## TITULO SEPTIMO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 882.
 
-Las denuncias por delitos oficiales deberán dirigirse al Procurador General Militar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-Cuando el funcionario acusado dependa directamente de la Secretaría de la Defensa Nacional o de Marina, según corresponda, la consignación deberá hacerse por conducto de ella.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 883.
 
-El Procurador General de Justicia Militar, turnará la denuncia al Supremo Tribunal, el que designará un magistrado a fin de que actúe como juez.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 884.
 
-El magistrado en funciones de juez, prevendrá al inculpado rinda informe con justificación dentro del término que prudentemente le señale, y practicará a la mayor brevedad las diligencias que el Ministerio Público y aquél soliciten.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 885.
 
-Practicadas dichas diligencias y presentado el informe o transcurrido el término que para él se concedió, se dará vista al Ministerio Público para que formule su pedimento acerca de si hay lugar a enjuiciar al inculpado.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 886.
 
-El magistrado en funciones de juez, dará cuenta al Supremo Tribunal Militar de la averiguación practicada y del pedimento del Ministerio Público, a fin de que si hay lugar a enjuiciamiento, mande suspender en su encargo al inculpado, abriéndose desde luego la instrucción, y de que en caso contrario se archiven las diligencias practicadas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 887.
 
-La suspensión del inculpado se comunicará a la Secretaría de la Defensa Nacional o de Marina según corresponda para los efectos legales.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 888.
 
-En lo relativo a la instrucción, el magistrado se sujetará a lo prevenido en este Código para el procedimiento ante los jueces.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 889.
 
-Cerrada la instrucción, el magistrado dará vista a las partes para que dentro del término de tres días, manifiesten si tienen diligencia que promover; y practicadas las que indiquen o siendo impracticables en un plazo de quince días, o no habiéndolas promovido, se les correrá translado por tres días a cada una para que formulen conclusiones. Presentadas éstas, el magistrado pasará el expediente al Supremo Tribunal Militar, quien citará a las partes a una audiencia, que tendrá efectos de citación para sentencia y en la cual podrán alegar.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 890.
 
-Contra las resoluciones dictadas durante la instrucción, se conceden los mismos recursos que se establecen para los juicios ordinarios.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-## TITULO OCTAVO. Prevenciones generales
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE MAYO DE 2016)</small>
+
+## TITULO OCTAVO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 891.
 
-Los jueces para desahogar cualquiera diligencia judicial deberán hacerlo directamente, no teniendo en sus funciones más relación con los comandantes de guarnición, que las establecidas en este Código.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 892.
 
-Las actuaciones se podrán practicar a todas horas, con excepción de lo previsto para cateos, aun en los días feriados y se deberán escribir en papel que lleve el sello del tribunal expresando en cada una de ellas, el día, mes y año en que se practiquen. Las fechas y las cantidades se escribirán precisamente con letra.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 893.
 
-En ninguna actuación se hará uso de abreviatura ni raspadura. Las palabras o frases que se hubieren puesto por equivocación, se testarán con una línea delgada, de manera que queden legibles, salvándose al fin, con toda precisión y antes de las firmas, en la misma forma se salvarán las palabras o frases omitidas por error, que hubieren sido entrerrenglonadas. Toda actuación terminará con una línea de tinta, tirada de la última palabra al fin del renglón; y si éste estuviere todo escrito, la línea se trazará debajo de él, antes de las firmas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 894.
 
-Los secretarios cuidarán de expresar siempre al margen de cada diligencia, la naturaleza de aquélla.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 895.
 
-Todas las hojas de un proceso serán foliadas por el secretario quien cuidará de poner el sello del tribunal en el fondo del cuaderno, de manera que abrace las dos caras. Todas las fojas del expediente en que conste una instrucción, deberán estar rubricadas en el centro por el secretario, y si la persona examinada quisiere firmar cada una de las fojas en que consta su declaración, o imprimir en ellas sus huellas digitales, se permitirá que lo haga.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Si antes de que se pongan las firmas ocurrieren algunas modificaciones o variaciones, se harán constar. Si ocurieren (sic) después de haber sido puestas las firmas, se asentarán por el secretario, firmando o imprimiendo sus huellas digitales, las personas que hayan intervenido en la diligencia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 896.
 
-Las notificaciones que deban hacerse a las partes, se verificarán, a más tardar, el día siguiente al en que se dicten las resoluciones que las motiven. El infractor de este precepto será castigado con corrección disciplinaria.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 897.
 
-Los secretarios de los juzgados y oficial mayor respectivo del Supremo Tribunal Militar harán las notificaciones personalmente, leyendo íntegra la resolución y dando copia de ella al interesado, si la pidiere. En toda notificación se asentará el día y hora en que se haga.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Deben firmar las notificaciones las personas que las hacen y aquellas que las reciben. Si éstas no pudieren o no quisieren firmar, se hará constar esa circunstancia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 898.
 
-Toda notificación que se haga fuera del tribunal, si no se encontrare a la persona a quien deba hacerse, se practicará sin nuevo mandato, por medio de una cédula que se entregará a los parientes o domésticos del interesado, o a cualquiera otra persona que viva en la casa; si ésta se encontrare deshabitada, la cédula se fijará en la puerta del tribunal, debiendo entregarse antes una copia de ella al policía más inmediato al lugar en donde debiera hacerse la notificación, quien deberá firmar en autos su recibo. En la cédula se hará constar cuál es la autoridad judicial que manda practicar la diligencia, la determinación que se notifica, la fecha, la hora, el lugar en que se deja y el nombre y apellido de la persona a quien se entrega. Fuera de los casos de notoria urgencia y de lo que se previene en el artículo subsecuente, las notificaciones a los agentes del Ministerio Público y a los defensores de oficio, se harán personalmente en la secretaría del tribunal respectivo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 899.
 
-Al Procurador General de Justicia Militar y a los agentes adscritos a la Procuraduría se les notificará en su oficina.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 900.
 
-Si se probare que no se hizo la notificación a la persona, hallándose ésta en su casa u oficina, el que debió practicarla será responsable de los daños y perjuicios y será castigado, además, con alguna corrección disciplinaria.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 901.
 
-Cuando hubiere de notificarse a una persona que se halle fuera del lugar del juicio, la notificación se hará por medio de la autoridad judicial militar, y a falta de ésta, por conducto de la autoridad judicial del orden común de la localidad donde resida dicha persona, librándose al efecto el oficio o exhorto que corresponda.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 902.
 
-Si se ignora la residencia de la persona a quien deba hacerse la notificación, ésta se hará por medio de edictos publicados por tres veces consecutivas en el periódico oficial de la localidad, o de la más próxima en la que lo hubiere.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 903.
 
-Si a pesar de no haberse hecho la notificación en la forma prevenida, la persona que hubiere debido ser notificada se mostrare en autos sabedora de la providencia, la notificación surtirá sus efectos.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 904.
 
-En cuanto a los exhortos que deban dirigirse al extranjero, se observarán las siguientes reglas:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-I.- Si el exhorto fuere expedido por un juez, su firma será legalizada por el Presidente del Supremo Tribunal Militar; la de éste, por el Oficial Mayor de la Secretaría de la Defensa Nacional y la de éste funcionario, por la Secretaría de Relaciones Exteriores;
-
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-II.- si el exhorto fuere expedido por el Supremo Tribunal Militar, la firma del Presidente de dicho Cuerpo será legalizado por el Oficial Mayor de la Secretaría de la Defensa Nacional y la de éste, por la Secretaría de Relaciones Exteriores; y,
-
-III.- una vez efectuada la legalización de las firmas, los exhortos serán remitidos a su destino, por conducto de la última de las expresadas Secretarías, conforme a lo que dispongan las leyes de la materia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 905.
 
-Los exhortos que se reciban por los tribunales militares se proveerán en las veinticuatro horas siguientes a su recepción, y se despacharán dentro de tres días; a no ser que las diligencias que se deban practicar exijan mayor tiempo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 906.
 
-No se entregarán los procesos a las partes, las que podrán imponerse de ellos en la secretaria del tribunal, dentro de los términos señalados en este Código. Al funcionario o empleado que infringiere este precepto, se le consignará.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 907.
 
-Al Procurador General de Justicia Militar y a los agentes adscritos a la Procuraduría, se les entregarán los procesos, en los casos de translado, por el término de ley y bajo conocimiento.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 908.
 
-Si se perdiere algún proceso o expediente, se repondrá a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida, quedando, además, sujeto a las disposiciones penales del fuero de guerra y del Código Penal para el Distrito Federal, si el acto fuere punible conforme a ellas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 909.
 
-Todos los términos que señala este Código son improrrogables y se contarán desde el día siguiente al en que se hubiere hecho la notificación respectiva. En ningún término se contarán los días que la ley señale como festivos, ni aquellos en que las Secretarías de la Defensa Nacional o de Marina, según corresponda, ordenen la suspensión de labores, a excepción de los señalados para tomar al inculpado su declaración indagatoria y para pronunciar el auto de prisión preventiva o de sujeción a proceso.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 910.
 
-Los términos señalados para tomar la declaración indagatoria y para dictar el auto constitucional, se contarán de momento a momento, y desde que el procesado fuere puesto a disposición de la autoridad judicial, sin perjuicio de la responsabilidad en que pueda incurrir el que no hiciere a aquélla la consignación, con la debida oportunidad.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 911.
 
-Cuando varíe el personal de los tribunales, no se proveerá decreto alguno haciendo saber el cambio; pero el primer auto o decreto que provea el nuevo juez, será autorizado con su firma entera.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 912.
 
-En el Supremo Tribunal Militar se pondrán al margen de cada auto o decreto, los apellidos de los magistrados que lo formen, cuando haya cambio de su personal; si el cambio ocurriere después de señalado el día para la vista, se hará nuevo señalamiento, notificándolo a las partes.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 913.
 
-La providencia por la que se hubiere impuesto una corrección disciplinaria, podrá reclamarse por escrito, dentro de las veinticuatro horas siguientes a la de la notificación, ante quien la hubiere pronunciado. La reclamación producirá efectos de suspender la ejecución de la providencia reclamada. El escrito en que se hubiere formulado la queja se enviará, desde luego, a quien, conforme a lo dispuesto en este Código, tenga competencia para efectuar la revisión.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 914.
 
-Respecto de las correcciones impuestas por autoridades judiciales, se observará lo siguiente:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-Recibido el escrito de reclamación por la autoridad que impuso la corrección, lo elevará al Supremo Tribunal Militar, si éste no fue quien lo haya impuesto, y señalará día y hora para audiencia en la cual la parte quejosa podrá alegar lo que estime pertinente, y dictará resolución dentro del tercer día, tomando en cuenta el informe que rinda el funcionario que impuso el castigo.
-
-Si éste fue impuesto por el Supremo Tribunal Militar, una vez que reciba el escrito de reclamación, oirá al quejoso en audiencia, y fallará dentro del mismo término.
-
-###### ARTICULO 915.
-
-Tratándose de correcciones disciplinarias impuestas por el Procurador General a los Agentes o empleados del Ministerio Público Militar, la parte quejosa elevará a dicho funcionario su escrito de reclamación, quien lo oirá en defensa y resolverá si confirma o deja sin efecto el castigo impuesto.
-
-Igual procedimiento, en su caso, deberá seguirse respecto de correcciones disciplinarias impuestas por el jefe del cuerpo de defensores a los defensores y empleados que de él dependan.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 916.
 
-Si la corrección fuere impuesta por los agentes del Ministerio Público, defensores y secretarios, deberá presentarse la reclamación ante ellos, quienes la remitirán a su inmediato superior, el que, con vista del informe que le rindan, y después de oír en defensa al quejoso, resolverá lo que proceda, dentro de tercero (sic) día.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+###### ARTICULO 916.
+
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 917.
 
-Todos los gastos que se ocasionen en un proceso, por diligencias que no fueren decretadas de oficio por el tribunal respectivo, o solicitadas por el Ministerio Público, se pagarán por el que las promueva. Si éste fuere insolvente, se pagarán por el Erario; en este caso, los secretarios del Supremo Tribunal Militar y de los juzgados, regularán los gastos o costas conforme a arancel.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 918.
 
-Las audiencias serán públicas. Cuando lo exija la moral o la conservación del orden, el tribunal podrá, a pedimento de alguna de las partes y aun de oficio, disponer que se efectúen a puerta cerrada. Esta declaración será pronunciada en audiencia pública y se insertará, con sus motivos, en el acta.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 919.
 
-Siempre que el acusado haya de concurrir a una audiencia, se le hará comparecer sin más precauciones que la de la escolta necesaria para impedir su fuga.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 920.
 
-Todas las multas que se impongan y los documentos en que consten las fianzas otorgadas, cuando éstas deban hacerse efectivas, se entregarán a la Tesorería General de la Nación o a las jefaturas de hacienda respectivas.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 921.
 
-Las resoluciones judiciales se clasifican en:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- Decretos o simples determinaciones de trámite, que serán autorizados con media firma del juez y del secretario;
-
-II.- autos o decisiones sobre materia que no sea de simple trámite y que contendrán los fundamentos legales en que se apoya;
-
-III.- sentencias interlocutorias, las que deciden cualquier incidente;
-
-IV.- sentencias definitivas, las que resolviendo el asunto principal terminan la instancia.
-
-Las tres últimas resoluciones serán autorizadas con firma entera del juez y del secretario.
-
-En el Supremo Tribunal Militar, los decretos serán autorizados con media firma del presidente y secretario; los autos con firma entera de los mismos; y las sentencias con firma entera de todos los magistrados y del secretario.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 922.
 
-En toda sentencia se expresará:
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
-I.- La hora, fecha y lugar en que se dicte;
-
-II.- el nombre del juez, magistrados o miembros del consejo, en su caso, y secretarios;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2014)</small>
-
-III.- El nombre y apellido del sentenciado, su apodo si lo tiene, el lugar de su nacimiento, edad, categoría militar, corporación de que proceda y su oficio o profesión antes de ser militar;
-
-IV.- la relación de los hechos que motiven el fallo; y
-
-V.- las consideraciones y fundamentos legales que apoyen la resolución.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### ARTICULO 923.
 
-Las visitas judiciales, que deberán ser practicadas por los funcionarios de la Administración de Justicia Militar, se sujetarán a las prevenciones que se mencionen en el reglamento respectivo.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2016)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -6998,7 +7846,7 @@ México, D.F., a 29 de agosto de 1933.- El Secretario de Gobernación.- Eduardo 
 
 Al C....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O.F. 29 DE SEPTIEMBRE DE 1937.
 
@@ -7071,3 +7919,31 @@ Tercero.- Los procedimientos penales relacionados con presuntos delitos contra l
 Cuarto.- Las averiguaciones previas y las causas penales que hayan sido iniciadas antes de la entrada en vigor del presente Decreto por la presunta comisión de delitos que no atenten contra la disciplina militar, serán remitidas a las autoridades civiles competentes dentro de los 30 días posteriores a la entrada en vigor de este Decreto.
 
 Quinto.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+D.O.F. 16 DE MAYO DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS Y TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR Y SE EXPIDE EL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES”.]</small>
+
+Disposiciones transitorias
+
+###### ARTÍCULO SEGUNDO.
+
+En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. El presente Decreto entrará en vigor a los 30 días naturales después de su publicación en el Diario Oficial de la Federación.
+
+II. Las erogaciones que deriven de la aplicación del presente Decreto, serán realizadas mediante movimientos compensados, por lo que las Secretarias de la Defensa Nacional y de Marina deberán sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y los subsecuentes.
+
+III. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+IV. Los procedimientos penales relacionados con presuntos delitos contra la disciplina militar que hayan sido iniciados antes de la entrada en vigor del presente Decreto, serán tramitados y concluidos conforme a las disposiciones aplicables al momento de la comisión de los hechos probablemente delictivos.
+
+V. Las disposiciones relativas a la ejecución de sentencias, quedarán derogadas, una vez que entre en vigor la legislación en materia de Ejecución de Sentencias, que apruebe el Congreso de la Unión.
+
+VI. Se abroga la Ley Orgánica de los Tribunales Militares publicada en el Diario Oficial de la Federación el 22 de junio de 1929.
+
+VII. Todas las referencias que en este Código y demás ordenamientos se hagan al Supremo Tribunal Militar; a la Procuraduría General de Justicia Militar y al Cuerpo de Defensores de Oficio se entenderán hechas al Tribunal Superior Militar; a la Fiscalía General de Justicia Militar y a la Defensoría de Oficio Militar.
+
+## Transitorio
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
