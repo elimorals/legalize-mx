@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-03-2015-del-107812"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-05-15"
-last_updated: "2015-05-15"
+last_updated: "2016-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107812&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2015-05-11"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO 03/2015 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REDEFINE LA ESTRUCTURA ORGANICA Y FUNCIONAL DE SU ADMINISTRACION]
 
-ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 03/2015 DE SEIS DE MAYO DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REDEFINE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DE SU ADMINISTRACIÓN.
+ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 03/2015 DE SEIS DE MAYO DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REDEFINE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DE SU ADMINISTRACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2015.
 
@@ -89,7 +89,7 @@ Se modifica la denominación de la Secretaría de la Presidencia a Secretaría G
 
 ###### ARTÍCULO QUINTO.
 
-Se modifica la denominación de la Unidad de Igualdad de Género a Subdirección General de Igualdad de Género, adscrita a la Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2016, D.O.F. 16 DE MAYO DE 2016)
 
 ###### ARTÍCULO SEXTO.
 
@@ -137,11 +137,15 @@ Sistematización de la Información Judicial.
 
 Direcciones Generales.
 
-Nivel Jerárquico VI: Unidad de Relaciones Institucionales.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2016, D.O.F. 16 DE MAYO DE 2016)</small>
+
+Nivel Jerárquico VI: Unidad General de Igualdad de Género.
 
 ###### ARTÍCULO SÉPTIMO.
 
 Hasta la expedición del Reglamento correspondiente, el resto de los órganos y áreas de la estructura orgánica básica permanecen sin modificaciones en cuanto a sus atribuciones, adscripción y denominación, quedando la nueva estructura administrativa conformada de la siguiente manera:
+
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2016, D.O.F. 16 DE MAYO DE 2016)</small>
 
 I. A la Presidencia quedan adscritas:
 
@@ -155,6 +159,8 @@ I. A la Presidencia quedan adscritas:
 
 • La Secretaría Jurídica de la Presidencia.
 
+• El Centro de Documentación y Análisis, Archivos y Compilación de Leyes.
+
 • La Coordinación de Compilación y Sistematización de Tesis.
 
 • El Centro de Estudios Constitucionales.
@@ -163,11 +169,13 @@ I. A la Presidencia quedan adscritas:
 
 • La Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos.
 
-II. A la Secretaría General de Acuerdos quedan adscritas:
+• La Unidad General de Igualdad de Género.
 
-• La Subsecretaría General de Acuerdos, que a su vez tiene bajo su adscripción la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2016, D.O.F. 16 DE MAYO DE 2016)</small>
 
-• El Centro de Documentación y Análisis, Archivos y Compilación de Leyes.
+II. A la Secretaría General de Acuerdos queda adscrita:
+
+• La Subsecretaría General de Acuerdos, que a su vez tiene bajo su adscripción a la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad.
 
 III. A la Secretaría General de la Presidencia quedan adscritas:
 
@@ -181,7 +189,9 @@ III. A la Secretaría General de la Presidencia quedan adscritas:
 
 • La Dirección General de Servicios Médicos.
 
-• La Unidad de Relaciones Institucionales.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2016, D.O.F. 16 DE MAYO DE 2016)</small>
+
+• La Dirección General de Relaciones Institucionales
 
 IV. A la Oficialía Mayor quedan adscritas:
 
@@ -209,9 +219,7 @@ VI. A la Secretaría Jurídica de la Presidencia queda adscrita:
 
 • La Dirección General de Casas de la Cultura Jurídica.
 
-VII. A la Dirección General de Estudios, Promoción y Desarrollo de los Derechos Humanos queda adscrita:
-
-• La Subdirección General de Igualdad de Género.
+VII. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2016, D.O.F. 16 DE MAYO DE 2016)
 
 ## TRANSITORIOS
 
@@ -228,3 +236,23 @@ QUINTO. Publíquese el presente Acuerdo General en el Semanario Judicial de la F
 Así lo acordó y firma el señor Ministro Luis María Aguilar Morales, Presidente de la Suprema Corte de Justicia de la Nación, el día seis de mayo dos mil quince, ante el Secretario General de Acuerdos que da fe.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de tres fojas útiles concuerda fiel y exactamente con el original del ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 03/2015 DE SEIS DE MAYO DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REDEFINE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DE SU ADMINISTRACIÓN, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a once de mayo de dos mil quince.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 1/2016, DEL SEIS DE MAYO DE DOS MIL DIECISÉIS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE QUINCE DE MAYO DE DOS MIL QUINCE, Y SE MODIFICAN Y DEROGAN OTRAS DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 03/2015, DE SEIS DE MAYO DE DOS MIL QUINCE”.]
+
+Artículo Primero. El presente Acuerdo General entrará en vigor el día siguiente al de su publicación.
+
+Artículo Segundo. Se derogan las disposiciones normativas internas que se opongan al objeto de regulación del presente Acuerdo General.
+
+Artículo Tercero. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes mantendrá las atribuciones establecidas por el Pleno conforme a la facultad reglamentaria que le otorga la Ley Orgánica del Poder Judicial de la Federación.
+
+Artículo Cuarto. Por lo que respecta a la Unidad General de Igualdad de Género ésta mantendrá el nivel de Subdirección General. Asimismo se mantiene en sus términos lo establecido en el Acuerdo de Administración de once de enero de dos mil dieciséis, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se delega en la Ministra Margarita Beatriz Luna Ramos, en su carácter de Presidenta del Comité Interinstitucional de Igualdad de Género del Poder Judicial de la Federación, la facultad para dirigir la planeación, programación y presupuestación de la institución de perspectiva de género de este Alto Tribunal.
+
+Artículo Quinto. La Oficialía Mayor llevará a cabo las acciones administrativas conducentes para la instrumentación del presente Acuerdo General.
+
+Artículo Sexto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+
+Artículo Séptimo. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación y al Acuerdo General de Administración número 03/2015, a fin de que el contenido de éstos se encuentren debidamente actualizados, en el portal de este Alto Tribunal, así como en todo tipo de publicaciones.
