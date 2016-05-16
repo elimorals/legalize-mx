@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2005-06-28"
+last_updated: "2016-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE PROTECCION DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-LEY DE PROTECCION DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
+LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -111,9 +111,13 @@ a. A una vida con calidad. Es obligación de las instituciones públicas de la c
 
 b. A no ser objeto de discriminación alguna en razón de su condición de persona adulta mayor, por su raza, lengua, dialecto, condición social, preferencias políticas o religiosas;
 
-c. A una vida libre sin violencia;
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
 
-d. Al respeto a su integridad física, psicoemocional y sexual;
+c. A una vida libre sin violencia, por lo que se sancionará el maltrato y la violencia contra las personas adultas mayores, por actos abusivos de poder u omisión intencional, dirigidos a dominar, someter o agredir de manera física, verbal, psicológica o económica, dentro o fuera del domicilio familiar, por personas que tengan o no relación de parentesco, en términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+
+d. Al respeto y protección a su integridad física, psicoemocional y sexual;
 
 e. A la protección contra toda forma de explotación;
 
@@ -141,7 +145,9 @@ b. A recibir orientación y capacitación en materia de salud, nutrición e higi
 
 IV. Del trabajo:
 
-a. A gozar de igualdad de oportunidades en el acceso al trabajo y desempeñarse en forma productiva tanto tiempo como lo deseen, sin más restricción que sus limitaciones físicas o mentales, declaradas por la autoridad competente.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+
+a. A gozar de igualdad de oportunidades en el acceso al trabajo y desempeñarse en forma productiva tanto tiempo como lo deseen, sin más restricción que sus limitaciones físicas o mentales, declaradas por la autoridad competente; y
 
 b. A formar parte de las bolsas de trabajo de las Instituciones Públicas y Privadas.
 
@@ -283,9 +289,17 @@ Dichos programas se ejercerán de acuerdo a las normas de financiamiento corresp
 
 Corresponde a la Secretaría de Turismo del Estado:
 
-I. Propiciar el establecimiento de tarifas preferenciales para los adultos mayores, en paquetes o tour de viajes; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
 
-II. Fomentar la elaboración de programas especiales de viajes para esparcimiento cultural, dirigidos a los adultos mayores.
+I. Promover actividades diseñadas para personas adultas mayores, particularmente las referentes al rescate y transmisión de la cultura y de la historia; así mismo promover actividades de recreación turística diseñadas para personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2016)</small>
+
+II. Fomentar la elaboración de programas especiales de viajes para esparcimiento cultural, dirigidos a los adultos mayores; y
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2016)</small>
+
+III. Suscribir convenios con empresas del ramo para ofrecer a las personas adultas mayores, tarifas preferenciales en los centros públicos o privados de entretenimiento, de recreación, de cultura y deporte; así como de hospedaje en hoteles y de acceso a centros turísticos.
 
 ###### ARTÍCULO 15.
 
@@ -740,3 +754,13 @@ C. Dulce M. Cervera Cetina, Diputada Presidenta.- C. Róger Pérez Hernández, D
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los diez días del mes de junio del año dos mil cinco.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 53 POR EL QUE “SE REFORMA LOS INCISOS C) Y D) DE LA FRACCIÓN I DEL ARTÍCULO 5; Y SE REFORMA LA FRACCIÓN I Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 14 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
