@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-812-para-la-proteccion-de-los-derechos-de-ninas-1102
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-09"
-last_updated: "2015-10-09"
+last_updated: "2016-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerreo, el viernes 09 de octubre de 2015.
 
@@ -1649,27 +1649,61 @@ VII. El titular de la Secretaria de Salud del Estado;
 
 VIII. El titular de la Secretaria del Trabajo y Previsión Social del Estado,
 
-IX. El titular de la Secretaria de Seguridad Pública y Protección Civil del Estado;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-X. El titular de la Secretaria de Asuntos Indígenas del Estado;
+IX. El titular de la Secretaría de Seguridad Pública del Estado;
 
-XI. El titular de la Secretaria de la Juventud y la niñez del Estado;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-XII. La Presidenta del patronato del Sistema Estatal para el Desarrollo Integral del DIF;
+X. El titular de la Secretaría de Protección Civil del Estado;
 
-XIII. Procurador Estatal de Protección Integral;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-XIV. El Director General del Sistema Estatal para el Desarrollo Integral del DIF;
+XI. La titular de la Secretaría de la Mujer del Estado;
 
-XV. El Presidente de la Comisión de los Derechos Humanos del Estado.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-XVI. El Presidente del Tribunal Superior de Justicia del Estado;
+XII. El titular de la Secretaría de Asuntos Indígenas y Comunidades Afromexicanos (sic) del Estado;
 
-XVII. El Presidente de la Comisión de Gobierno del H. Congreso del Estado;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-XVIII. Representantes de la sociedad civil que serán nombrados por el Sistema, en los términos del reglamento de esta Ley.
+XIII. El titular de la Secretaría de la Juventud y la niñez del Estado;
 
-Para efectos de lo previsto en la fracción XVIII del artículo anterior, el Sistema Estatal de Protección Integral aprobará y emitirá una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XIV. La Presidenta del patronato del Sistema Estatal para el Desarrollo Integral del DIF;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XV. El Procurador Estatal de Protección Integral;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XVI. El Director General del Sistema Estatal para el Desarrollo Integral del DIF;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XVII. El Presidente de la Comisión de los Derechos Humanos del Estado.
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XVIII. El Presidente del Tribunal Superior de Justicia del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XIX. El Presidente de la Comisión de Gobierno del H. Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XX. La Presidenta o Presidente de la Comisión de los Derechos de las Niñas, Niños y Adolescentes del H. Congreso del Estado; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XXI. Representantes de la sociedad civil que serán nombrados por el Sistema, en los términos del reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2016)</small>
+
+Para efecto de lo previsto en la fracción XXI, el Sistema Estatal de Protección Integral aprobará y emitirá una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
 
 Serán invitados permanentes a las sesiones del Sistema Estatal de Protección Integral, los en los términos del Reglamento de esta Ley, los representantes de las asociaciones legalmente constituidas del sector público y privado y titulares de los Sistemas Municipales del DIF, quienes intervendrán con voz pero sin voto.
 
@@ -1952,3 +1986,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. DAVID CIENFUEGOS SALGADO.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 199 POR EL QUE SE REFORMAN LAS FRACCIONES IX; X; XI; XII; XIII; XIV; XV; XVI; XVII Y XVIII; EL SEGUNDO PÁRRAFO; Y SE ADICIONAN LAS FRACCIONES XIX; XX Y XXI DEL ARTÍCULO 128 DE LA LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO”.]
+
+ÚNICO.- El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
