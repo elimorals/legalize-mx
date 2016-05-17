@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-en-107676"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-05-02"
-last_updated: "2015-05-02"
+last_updated: "2016-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO EN MATERIA DEL SISTEMA DE INFORMACIÓN LEGISLATIVA DEL ESTADO DE JALISCO Y DE LA GACETA LEGISLATIVA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS SESENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Reglamento publicado en la Sección II del Periódico Oficial “El Estado de Jalisco”, el sábado 2 de mayo de 2015.
 
@@ -123,6 +121,26 @@ XVI. Enlace directo al Diario de los Debates digital, que den cuenta del proceso
 
 XVII. Enlace directo a la página web del Periódico Oficial “El Estado de Jalisco” que dé cuenta de la publicación oficial del decreto correspondiente.
 
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2016)</small>
+
+###### Artículo 4. Bis.
+
+1. Cada legislatura llevará el control de las iniciativas presentadas imponiéndoles un número de INFOLEJ.
+
+2. Toda iniciativa se identificará con una clave alfa numérica de registro que se generará de la siguiente manera:
+
+I. Con el número arábigo que le corresponda de acuerdo al orden progresivo de la legislatura; y
+
+II. En número romano la legislatura en que hubiere sido presentada;
+
+3. Los números arábigos y romanos se separarán por una barra oblicua.
+
+4. Una vez utilizada una clave para identificar una iniciativa no podrá volverse a imponer a otra, no obstante que se trate de alguna que hubiere sido anulada, y deberá referirse en el dictamen correspondiente.
+
+5. Una vez impuesto el número de INFOLEJ no podrá modificarse, salvo corrección de error.
+
+6. Independientemente de las formas de localización de iniciativas señaladas en el artículo anterior, el sistema facilitará la búsqueda de iniciativas con la captura del número de INFOLEJ correspondiente.
+
 ### Capítulo III. De la Gaceta
 
 ###### Artículo 5.
@@ -196,3 +214,13 @@ Diputado Secretario
 JUAN MANUEL ALATORRE FRANCO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25827/LXI/2016 QUE ADICIONA EL ARTÍCULO 4 BIS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, EN MATERIA DEL SISTEMA DE INFORMACIÓN LEGISLATIVA DEL ESTADO DE JALISCO Y DE LA GACETA LEGISLATIVA”.]
+
+PRIMERO. El presente decreto entrará vigor al siguiente día de su publicación.
+
+SEGUNDO. Publíquese en el periódico oficial El Estado de Jalisco.
