@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2014-03-01"
+last_updated: "2016-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -115,7 +115,9 @@ II. Impulsar la participación directa de los propietarios y poseedores de los r
 
 III. Participar en la elaboración de los programas forestales regionales de corto, mediano y largo plazo, de ámbito regional, municipal o por cuencas hidrológico-forestales;
 
-IV. Promover, en coordinación con la Federación, Municipios y productores forestales programas y proyectos de educación, capacitación, investigación, transferencia de tecnología y cultura forestal, acordes con el programa nacional respectivo;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+IV. Promover, en coordinación con la Federación, Municipios y productores forestales programas y proyectos de educación, capacitación, investigación, transferencia de tecnología y cultura forestal, acordes con el programa nacional respectivo, la investigación científica aplicada, el desarrollo e innovación tecnológica de la silvicultura, y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;
 
 V. Celebrar acuerdos y convenios de coordinación, cooperación y concertación, dentro su competencia, en materia forestal;
 
@@ -171,7 +173,7 @@ XII. Promover e invertir en el mejoramiento de la infraestructura en las áreas 
 
 XIII. Promover el desarrollo de plantaciones forestales comerciales, así como la inducción de transferencia de tecnología;
 
-XIV. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico Estatal; y (sic)
+XIV. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico Estatal; y
 
 XV. Hacer del conocimiento de las autoridades competentes, y en su caso denunciar, las infracciones, faltas administrativas, o delitos que se cometan en materia forestal;
 
@@ -741,7 +743,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 2 DE DICIEMBRE DE 2006.
 
@@ -782,5 +784,11 @@ P.O. 25 DE JULIO DE 2013.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 1 DE MARZO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
