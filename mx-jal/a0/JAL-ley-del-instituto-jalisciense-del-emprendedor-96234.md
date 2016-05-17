@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-del-emprendedor-96234"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2015-08-22"
+last_updated: "2016-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 27207/LXII/18 QUE ABROGA LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR Y EXTINGUE EL INSTITUTO JALISCIENSE DEL EMPRENDEDOR, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -117,7 +119,9 @@ XIV. Conformar, en conjunto con la Secretaría, la Red Estatal del Emprendedor l
 
 XV. Registrar ante el Observatorio Nacional del Emprendedor a los emprendedores de Jalisco otorgando datos, análisis, estudios, estadísticas, casos de éxito, modelos replicables y otra información de utilidad para la generación, actualización y toma de decisiones en la instrumentación de las políticas públicas a favor de los emprendedores y de las MIPYMES del país, observando las disposiciones legales en materia de información estadística y de transparencia e información pública;
 
-XVI. Realizar los estudios e investigaciones que permitan al Instituto contar con información relacionada con la innovación, el desarrollo tecnológico, las cadenas productivas, el desarrollo de proveedores, los agrupamientos regionales y de sectores industriales, el acceso a mercados y otros relacionados con el desarrollo y competitividad de las MIPYMES y de los emprendedores;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XVI. Realizar los estudios e investigaciones científicas que permitan al Instituto contar con información relacionada con la innovación, el desarrollo tecnológico, las cadenas productivas, el desarrollo de proveedores, los agrupamientos regionales y de sectores industriales, el acceso a mercados y otros relacionados con el desarrollo y competitividad de las MIPYMES y de los emprendedores, así como promover entre estos, el desarrollo y la innovación tecnológica, y la investigación científica y tecnológica aplicadas;
 
 XVII. Impulsar estudios e investigaciones que permitan reconocer los óptimos encadenamientos productivos regionales, sectoriales y globales, sinergias entre las empresas incubadas, así como plataformas tecnológicas que permitan compartir eficientemente las oportunidades de mejora y negocio, así como la transferencia de conocimiento en innovación;
 
@@ -486,3 +490,9 @@ ARTURO ZAMORA JIMÉNEZ
 P.O. 22 DE AGOSTO DE 2015.
 
 UNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7 DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3 DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4 DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3 DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3 DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6 DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8 Y 11 FRACCIÓN II, INCISO C DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
