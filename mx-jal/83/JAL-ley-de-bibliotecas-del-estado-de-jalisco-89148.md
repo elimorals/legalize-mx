@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-bibliotecas-del-estado-de-jalisco-89148"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-23"
-last_updated: "2013-01-24"
+last_updated: "2016-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE BIBLIOTECAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 23 de agosto de 2012.
 
@@ -305,7 +303,9 @@ II. Formular recomendaciones para lograr una mayor participación de los sectore
 
 El Consejo de la Red Estatal de Bibliotecas Públicas estará integrado por:
 
-I. Un Presidente, que será el Secretario de Cultura del Estado de Jalisco o quien él designe;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+I. Un Presidente, que será el Secretario de Cultura del Poder Ejecutivo del Estado de Jalisco o quien él designe;
 
 II. Cinco vocales invitados a participar por el Presidente del Consejo, conforme a los siguientes criterios de representación:
 
@@ -319,7 +319,17 @@ d) Un representante de las instituciones educativas de nivel básico, y
 
 e) Un representante de los municipios del estado;
 
-III. Un diputado integrante de la Comisión de Cultura del Congreso del Estado, designado por la misma comisión.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+III. Un diputado integrante de la Comisión de Cultura del Congreso del Estado, designado por la misma comisión;
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2016)</small>
+
+IV. El Secretario de Educación del Poder Ejecutivo del Estado de Jalisco o quien él designe; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2016)</small>
+
+V. El Secretario de Innovación, Ciencia y Tecnología del Poder Ejecutivo del Estado de Jalisco o quien él designe.
 
 Por cada miembro propietario habrá un suplente, quien tendrá las mismas atribuciones del propietario en las ausencias de éste.
 
@@ -406,3 +416,11 @@ EL Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
