@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2014-06-14"
+last_updated: "2016-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -141,7 +141,9 @@ II. Fomentar el crecimiento ordenado y descentralizado de la entidad, sus sector
 
 III. Promover el desarrollo del capital humano, coadyuvando a la mejora de la calidad de la educación pública y privada, y fomentando la capacitación y el adiestramiento en el trabajo;
 
-IV. Fortalecer la innovación, investigación, el desarrollo y la transferencia del conocimiento y las tecnologías, sobre todo de aquellos sectores que más propicien el crecimiento económico;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+IV. Fortalecer la innovación, investigación científica aplicada, el desarrollo y la transferencia del conocimiento y las tecnologías, sobre todo de aquellos sectores que más propicien el crecimiento económico, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;
 
 V. Fomentar la cultura del crecimiento económico y la implementación de los procesos productivos en equilibrio irrestricto con el medio ambiente;
 
@@ -1466,5 +1468,11 @@ DÉCIMO TERCERO. A la fecha de entrada en vigor del presente Decreto, el Institu
 DÉCIMO CUARTO. El Ejecutivo Estatal deberá ordenar una auditoria interna que refleje el estado real y actual en que se encuentran los organismos públicos descentralizados que se fusionan y las condiciones y recursos humanos, materiales y financieros en que recibe el Instituto de Información Estadística y Geográfica del Estado de Jalisco.
 
 P.O. 14 DE JUNIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE MAYO DE 2016
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7° DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7° DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3° DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4° DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6° DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8° Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
