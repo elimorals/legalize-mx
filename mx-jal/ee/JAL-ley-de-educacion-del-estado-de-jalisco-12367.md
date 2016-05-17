@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2016-05-07"
+last_updated: "2016-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -137,9 +137,9 @@ VII.- Impulsar el estudio y la toma de consciencia, sobre la conservación y pro
 
 VIII.- Promover la difusión y utilización de técnicas modernas y avances científicos en las actividades agropecuarias, pesqueras, industriales, mineras, forestales, de servicios a efecto de lograr la preservación, restauración del equilibrio ecológico y la protección del medio ambiente en la entidad, así como la actividad productiva que requiera el desarrollo del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-IX.- Impulsar la innovación, el emprendimiento, así como la investigación científica y tecnológica orientada a procurar la atención de las necesidades sociales, incremento de la producción y el desarrollo sustentable de Jalisco;
+IX.- Impulsar el desarrollo y la innovación tecnológica, el emprendimiento, así como la investigación científica y tecnológica aplicadas y orientadas a procurar la atención de las necesidades sociales, incremento de la producción y el desarrollo sustentable de Jalisco, observando los principios y bases de la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;
 
 X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y del Estado;
 
@@ -171,7 +171,7 @@ XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergen
 
 XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adicciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2016)</small>
+(REFORMADA, P.O. 7 DE MAYO DE 2016) (REPUBLICADA, P.O. 17 DE MAYO DE 2016)
 
 XX.- Fomentar la cultura de la transparencia, el acceso a la información pública y la protección de los datos personales, con la finalidad de propiciar el ejercicio de estos derechos fundamentales y consolidar el avance democrático en el Estado de Jalisco;
 
@@ -3878,3 +3878,9 @@ P.O. 7 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25817/LXI/16 QUE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 7° DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7° DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7° DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3° DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4° DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6° DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8° Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
