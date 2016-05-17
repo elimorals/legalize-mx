@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-la-juventud-del-estado-10340
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2014-10-28"
+last_updated: "2016-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 28 de octubre de 2014.
 
@@ -102,6 +102,10 @@ Esta responsabilidad debe ejercitarse a través de actividades que incidan en el
 ###### Artículo 8.
 
 Las y los jóvenes coahuilenses tendrán a su disposición un Sistema Estatal para la Participación Social de la Juventud, mediante el cual podrán acceder a una red de coordinación, operada por la Secretaría de la Juventud con la colaboración de las Instancias Municipales de Atención a la Juventud, que les ofrecerá opciones de tareas en materia de desarrollo y asistencia social; extensión educativa; organización comunitaria; emprendedurismo, apoyo a la salud, protección ambiental, promoción deportiva, difusión cultural y protección civil, y todas aquellas que por su naturaleza se consideren convenientes.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2016)</small>
+
+El Sistema Estatal de Juventud, además de establecer objetivos, metas, estrategias y lineamientos deberá contar con acciones para la difusión, promoción, fomento, investigación, práctica, supervisión y evaluación de las actividades de atención a la juventud.
 
 ###### Artículo 9.
 
@@ -464,3 +468,13 @@ EL SECRETARIO DE LA JUVENTUD
 CARLOS GERARDO GARCÍA VEGA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 425- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 8 DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
