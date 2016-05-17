@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-110929"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2015-12-17"
+last_updated: "2016-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en el número 10 Sección LXV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -51,6 +51,8 @@ La presente Ley es de interés social y observancia general en el Estado de Jali
 
 Corresponde al Titular del Poder Ejecutivo del Estado, la aplicación de la presente Ley, por conducto del Instituto de la Artesanía Jalisciense y de las demás dependencias y entidades estatales que tengan relación con el sector artesanal, mediante la planeación y clasificación de acciones sustentadas en el Programa de Impulso Artesanal, el cual deberá considerar los elementos tanto materiales como subjetivos de las distintas regiones del Estado.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2016, PÁGINA 7.]</small>
+
 ###### Artículo 3.
 
 La presente Ley tiene por objeto:
@@ -75,19 +77,17 @@ IX. Crear condiciones que alienten a los artesanos a seguir produciendo dentro d
 
 X. Salvaguardar intelectual y comercialmente las técnicas y productos artesanales;
 
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
 XI. Promover y desarrollar las técnicas artesanales y productos de las regiones, comunidades y etnias, como patrimonio cultural de Jalisco;
 
-XII. Fomentar la creación y funcionamiento de sociedades y asociaciones de artesanos como una alternativa de organización social solidarias;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-XIII. Impulsar la práctica y fomento de las actividades artesanales mediante la capacitación y asesoría en materia de calidad y diseño;
+XII. Promover la investigación científica aplicada como medio para mejorar la actividad artesanal; y
 
-XIV. Contribuir a la superación de los obstáculos que puedan oponerse a la consolidación de las manifestaciones artesanales en el Estado de Jalisco;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-XV. Impulsar el aprovechamiento y captación de recursos federales, estatales y municipales, destinados al sector artesanal;
-
-XVI. Preservar las diferentes expresiones artesanales del Estado de Jalisco asegurando su desarrollo sustentable; y
-
-XVII. Impulsar la creación, preservación y fomento de un Registro de Artesanías Indígenas de los pueblos y comunidades originarias del Estado de Jalisco a fin de certificar su origen y en su caso promover la obtención de la marca colectiva ante la dependencia competente.
+XIII. Fomentar la creación y funcionamiento de sociedades y asociaciones de artesanos como una alternativa de organización social solidarias.
 
 ###### Artículo 4.
 
@@ -862,3 +862,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
