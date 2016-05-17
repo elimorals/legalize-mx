@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-consejo-economico-y-social-del-estado-de-jalisco-41201"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-16"
-last_updated: "2004-09-16"
+last_updated: "2016-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el 16 de septiembre de 2004.
 
@@ -103,9 +103,17 @@ X. Vincularse con otros organismos similares que existan a nivel nacional e inte
 
 XI. Formular recomendaciones para la elaboración de proyectos de leyes y decretos que se relacionen con el desarrollo social, económico y la competitividad del Estado, así como con la integración y funcionamiento del Consejo;
 
-XII. Publicar periódicamente informes sobre las actividades realizadas; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-XIII. Las demás que le señale la ley.
+XII. Publicar periódicamente informes sobre las actividades realizadas;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XIII. Promover, directamente o en coordinación con instancias públicas o privadas, la investigación científica aplicada, el desarrollo e innovación tecnológica y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MAYO DE 2016)</small>
+
+XIV. Las demás que le señale la ley.
 
 ###### Artículo 9.
 
@@ -163,7 +171,9 @@ a) Federación de trabajadores de Jalisco;
 
 b) Confederación Revolucionaria de Obreros y Campesinos;
 
-c) Confederación Revolucionaria de Obreros de México;
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2016)</small>
+
+c) Confederación Regional Obrera Mexicana;
 
 d) Liga de comunidades Agrarias y Sindicatos Campesinos;
 
@@ -464,3 +474,11 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7° DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7° DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3° DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4° DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6° DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8° Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
