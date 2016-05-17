@@ -4,7 +4,7 @@ identifier: "COA-ley-del-impuesto-sobre-la-produccion-y-transformacion-de-9001"
 country: "mx"
 rank: "ley"
 publication_date: "1969-02-22"
-last_updated: "1971-09-25"
+last_updated: "2016-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DEL IMPUESTO SOBRE LA PRODUCCION Y TRANSFORMACION DE ALCOHOL Y DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE COAHUILA
 
-LEY DEL IMPUESTO SOBRE LA PRODUCCION Y TRANSFORMACION DE ALCOHOL Y DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE COAHUILA
+LEY DEL IMPUESTO SOBRE LA PRODUCCIÓN Y TRANSFORMACIÓN DE ALCOHOL Y DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1971.
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO NÚMERO 421, PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 22 de febrero de 1969.
 
@@ -199,8 +201,16 @@ EL SRIO. DEL EJECUTIVO DEL ESTADO.
 
 LIC. JOSE RAMIREZ MIJARES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 1971.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 421.- SE ABROGA LA LEY DEL IMPUESTO SOBRE LA PRODUCCIÓN Y TRANSFORMACIÓN DE ALCOHOL Y DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE COAHUILA, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL 22 DE FEBRERO DE 1969”.]
+
+PRIMERO.- La Ley en mención quedará abrogada al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
