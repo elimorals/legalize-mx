@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-de-fomento-al-comercio-exterior-1331
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-19"
-last_updated: "2014-12-20"
+last_updated: "2016-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 17 DE MAYO DE 2016.
 
 Ley publicada en el Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 19 de diciembre de 1998.
 
@@ -125,9 +125,17 @@ XIX. Apoyar el desarrollo de las instituciones financieras especializadas tanto 
 
 XX. Informar a los diversos sectores productivos del Estado, sobre los acuerdos internacionales de comercio, suscritos por México;
 
-XXI. Apoyar, informar y asesorar sobre las acciones de defensa de los diversos sectores del Estado, afectados por controversias de comercio internacional; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
 
-XXII. Difundir los mecanismos disponibles de protección a la exportación.
+XXI. Apoyar, informar y asesorar sobre las acciones de defensa de los diversos sectores del Estado, afectados por controversias de comercio internacional;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+XXII. Promover, directamente o en coordinación con instancias públicas o privadas, la investigación científica aplicada, el desarrollo e innovación tecnológica y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MAYO DE 2016)</small>
+
+XXIII. Difundir los mecanismos disponibles de protección a la exportación.
 
 ###### Artículo 5º.
 
@@ -602,3 +610,9 @@ N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECR
 P.O. 20 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El estado de Jalisco.
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6° DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7° DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7° DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3° DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4° DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3° DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4° DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6° DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8° Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
