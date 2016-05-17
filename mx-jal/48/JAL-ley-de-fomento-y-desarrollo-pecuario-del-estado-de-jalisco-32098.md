@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2015-11-12"
+last_updated: "2016-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -209,7 +209,9 @@ VI. Coadyuvar con la Federación, auxiliándose de las organizaciones pecuarias 
 
 VII. Vigilar, con apoyo de las organizaciones pecuarias y organismos auxiliares de cooperación, que en los centros de acopio de los productos y subproductos pecuarios se mantenga la calidad de los mismos, a fin de evitar su adulteración, particularmente en lo referente a su composición físico-química;
 
-VIII. Conocer, aplicar, promover, aprovechar y difundir los conocimientos científicos, tecnológicos y educativos del ramo pecuario, con auxilio de las universidades, instituciones y organismos estatales, nacionales e internacionales afines dedicados a este propósito;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+
+VIII. Conocer, aplicar, promover, aprovechar y difundir los conocimientos científicos, tecnológicos de innovación y educativos del ramo pecuario, con auxilio de las universidades, instituciones y organismos estatales, nacionales e internacionales afines dedicados a este propósito, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;
 
 IX. Participar con los diversos organismos en la promoción y desarrollo de tecnología e infraestructura productiva, para mejorar y fortalecer las actividades pecuarias en el Estado;
 
@@ -809,7 +811,7 @@ l) Número del folio del certificado zoosanitario emitido por la autoridad sanit
 
 II. Todos los animales que se introduzcan vivos al Estado, sus productos y subproductos, deberán cumplir con los requisitos sanitarios que establece la normatividad federal y comprobar, mediante la presentación de los certificados correspondientes, que se encuentran libres de enfermedades, en proceso de erradicación o las declaradas como libres dentro del Estado;
 
-III. Todos los productos y subproductos, ya sea que se encuentren en canal, en piezas, empacados en cajas, en pastas o procesados, deberán pasar por los puntos de verificación zoosanitarios que se encuentran localizados en el interior y zonas limítrofes del Estado, no se podrán movilizar o comercializar sin la comprobación correspondiente, y; (sic)
+III. Todos los productos y subproductos, ya sea que se encuentren en canal, en piezas, empacados en cajas, en pastas o procesados, deberán pasar por los puntos de verificación zoosanitarios que se encuentran localizados en el interior y zonas limítrofes del Estado, no se podrán movilizar o comercializar sin la comprobación correspondiente, y;
 
 IV. La movilización de las especies domésticas productivas, productos y subproductos que por su volumen tengan que transportarse en dos o más unidades, requerirá cada una de ellas de guía de tránsito, del documento de transmisión de propiedad o factura y de certificados zoosanitarios por separado, cumpliendo los requisitos del presente artículo.
 
@@ -1552,3 +1554,9 @@ TERCERO. Para efectos de la implementación de la Credencial Única Agroalimenta
 CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
 
 QUINTO. Para efectos de este decreto, las credenciales únicas agroalimentarias que se expidan durante el año 2015 tendrán vigencia por tres años.
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
