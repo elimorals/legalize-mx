@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-de-la-suprema-corte-de-93687"
 country: "mx"
 rank: "otro"
 publication_date: "2013-01-15"
-last_updated: "2013-01-15"
+last_updated: "2016-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93687&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-01-15"
 
 CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LAS CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADAS EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN, DÉCIMA ÉPOCA, LIBRO 31, TOMO V, JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN, DÉCIMA ÉPOCA, LIBRO 31, TOMO V, JUNIO DE 2016 (DEROGADO).
 
 Condiciones publicadas en el Semanario Judicial de la Federación y su Gaceta, Tomo I, Enero de 2013, páginas de la 2305 a la 2332.
 
@@ -758,3 +760,15 @@ CERTIFICA
 Que con fecha veintiuno de enero de dos mil trece se llevó a cabo el depósito ante la Comisión Substanciadora Única del Poder Judicial de la Federación, del original de las "CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.", aprobadas por el Tribunal Pleno en sesión privada celebrada el día quince de enero del mismo año; por lo que en términos de lo previsto en su Punto Transitorio Primero, dichas Condiciones se encuentran vigentes a partir del día de hoy.- México, Distrito Federal, a veintidós de enero de dos mil trece.
 
 Nota: El Acuerdo General de Administración Número 01/2011 del tres de enero de dos mil once del Presidente de la Suprema Corte de Justicia de la Nación, por el que se reestructura orgánica y funcionalmente su administración; el Instrumento normativo aprobado por el Presidente de la Suprema Corte de Justicia de la Nación el veintidós de marzo de dos mil doce, mediante el cual se modifica el Acuerdo General de Administración Número 01/2011 del tres de enero de dos mil once, por el que se reestructura orgánica y funcionalmente la administración de este Alto Tribunal, y los Acuerdos Generales de Administración Números 02/2011 del cinco de septiembre de dos mil once, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se suprime de la estructura orgánica básica administrativa la Dirección General de Desarrollo Interinstitucional, y 01/2012 del treinta de agosto de dos mil doce, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se suprime de la estructura orgánica básica administrativa la Unidad de Innovación y Mejora Administrativa y se reestructura la Dirección General de Recursos Humanos citados, aparecen publicados en el Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo XXXIII, enero de 2011, página 3383; Décima Época, Libro XV, Tomo 2, diciembre de 2012, página 1635; Libro II, Tomo 1, noviembre de 2011, página 763, y Libro XII, Tomo 3, septiembre de 2012, página 2101, respectivamente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN, DÉCIMA ÉPOCA, LIBRO 31, TOMO V, JUNIO DE 2016, DE LA PÁGINA 3043 A LA 3083.
+
+## [N. DE E. TRANSITORIOS DE LAS “CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. Las presentes Condiciones Generales entrarán en vigor el día hábil siguiente al de su depósito ante la Comisión Substanciadora Única del Poder Judicial de la Federación.
+
+SEGUNDO. Se derogan las Condiciones Generales de Trabajo emitidas el quince de enero de dos mil trece y las disposiciones que se opongan a estas Condiciones Generales.
+
+TERCERO. Una vez que estas Condiciones Generales se depositen ante la Comisión Substanciadora, publíquense en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, difúndanse en medios electrónicos de consulta pública.
