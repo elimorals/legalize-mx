@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-la-juventud-del-estado-de-jalisco-86844"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-24"
-last_updated: "2014-08-07"
+last_updated: "2016-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en la sección III del Periódico Oficial del Estado de Jalisco, el sábado 24 de marzo de 2012.
 
@@ -455,7 +455,7 @@ El programa se diseñará y tendrá vigencia durante un periodo de seis años, m
 
 Para el cumplimiento de sus objetivos, el programa se dividirá en dos periodos operativos de tres años de duración cada uno, entre los cuales se dispondrá un periodo de evaluación con el objetivo de analizar su correcta aplicación, el alcance de sus resultados en el mediano plazo y, en su caso, la adecuación estratégica del programa.
 
-###### Articulo 37.
+###### Artículo 37.
 
 Los objetivos del programa serán los siguientes:
 
@@ -571,13 +571,19 @@ El Estado buscará proporcionar los espacios necesarios para prestar este servic
 
 #### SECCIÓN SEGUNDA. OBLIGACIONES EN MATERIA EDUCATIVA
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2016)</small>
+
 ###### Artículo 49.
 
 El Estado promoverá el sano desarrollo físico y mental de los jóvenes, asegurando su acceso a la educación básica, así como promoverá el fomento a la cultura, el hábito de la lectura, así como el conocimiento de sus raíces y tradiciones, generando en ellos un sentido de pertenencia.
 
+Así mismo promoverá el acceso de los jóvenes a la investigación científica, tecnológica, el desarrollo tecnológico y la innovación, de conformidad con las bases que la ley estatal de la materia establece.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2016)</small>
+
 ###### Artículo 50.
 
-El Estado y los municipios buscarán propiciar la suscripción de convenios con instituciones educativas, tanto de carácter nacional como internacional, para el cumplimiento de sus objetivos en materia de educación.
+El Estado y los municipios buscarán propiciar la suscripción de convenios con instituciones educativas, públicas y privadas, tanto de carácter nacional como internacional, para el cumplimiento de sus objetivos en materia de cultura, educación, ciencia, desarrollo tecnológico e innovación.
 
 ###### Artículo 51.
 
@@ -663,8 +669,14 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 7 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
