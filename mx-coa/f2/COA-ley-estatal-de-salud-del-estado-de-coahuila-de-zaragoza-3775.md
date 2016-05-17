@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2015-12-15"
+last_updated: "2016-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -1737,7 +1737,9 @@ IV. Promoverán y llevarán a cabo campañas permanentes de información y orien
 
 V. Fomentarán la educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas.
 
-Los establecimientos que expendan substancias inhalables con efectos psicotrópicos deberán contar con libros de control para el registro de compra-venta, autorizados por la Secretaría de Salud.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2016)</small>
+
+Los establecimientos que expendan substancias inhalables con efectos psicotrópicos deberán cerciorarse que el comprador es mayor de edad, para lo cual, solicitarán a quien pretenda comprar una substancia inhalable, documento oficial que acredite su mayoría de edad, además deberán contar con libros de control para el registro de compra-venta, autorizados por la Secretaría de Salud.
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Gobierno Estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
@@ -3244,3 +3246,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 416.- SE MODIFICA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 154 BIS 1 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
