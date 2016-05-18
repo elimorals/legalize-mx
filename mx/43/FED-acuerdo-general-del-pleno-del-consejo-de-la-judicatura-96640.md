@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-03-11"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -29,7 +29,7 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 > <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.]</small>
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, PUBLICADO EN EL D.O.F. DE 11 DE MARZO DE 2016, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA AL SISTEMA BIOMÉTRICO DE REGISTRO DE ASISTENCIA DE PROCESADOS EN LIBERTAD PROVISIONAL (SIBAP), SE ENTENDERÁN HECHAS AL SISE CONTROL BIOMÉTRICO (SISE CB).]</small>
 
@@ -301,13 +301,13 @@ XVI. Suscribir los nombramientos de los servidores públicos comprendidos en los
 
 XVII. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
-XVIII. Definir, por conducto de la Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales las directrices de los programas en dichas materias;
+XVIII. Definir, por conducto de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las directrices de los programas en dichas materias;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
-XIX. Determinar, por conducto de la Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales las acciones del Consejo en dichas materias; y
+XIX. Determinar, por conducto de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las acciones del Consejo en dichas materias; y
 
 XX. Las demás que establezca el Pleno mediante acuerdos generales.
 
@@ -325,7 +325,9 @@ III. Dirección General de Asuntos Jurídicos;
 
 IV. Dirección General de Comunicación Social;
 
-V. Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+
+V. Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
 
 VI. Dirección General de la Presidencia; y
 
@@ -385,7 +387,9 @@ XXI. Ordenar que les sea entregada cualquier información elaborada, recopilada,
 
 XXII. Dirigir y supervisar las funciones de la Unidad de Enlace Legislativo, en aquellos casos en que sean designados por el Pleno;
 
-XXIII. Auxiliar al Presidente en el ejercicio de las atribuciones que le corresponden en materia de derechos humanos, equidad de género y asuntos internacionales; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+
+XXIII. Auxiliar al Presidente en el ejercicio de las atribuciones que le corresponden en materia de derechos humanos, igualdad de género y asuntos internacionales; y
 
 XXIV. Las demás que establezcan la Ley, este Acuerdo y los acuerdos plenarios.
 
@@ -3219,19 +3223,21 @@ XXII. Vigilar el cumplimiento de los lineamientos de identidad institucional del
 
 XXIII. Las demás que establezca el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
 ###### Artículo 163.
 
-La Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales, será la responsable de auxiliar al Presidente en la ejecución de las acciones que se determinen en dichas materias.
+La Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, será la responsable de auxiliar al Presidente en la ejecución de las acciones que se determinen en dichas materias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
 ###### Artículo 164.
 
-El titular de la Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales, tendrá las siguientes atribuciones:
+El titular de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
-I. Ejecutar los programas que establezca el Pleno y las acciones que determine el Presidente en materia de derechos humanos, equidad de género y asuntos internacionales;
+I. Ejecutar los programas que establezca el Pleno y las acciones que determine el Presidente en materia de derechos humanos, igualdad de género y asuntos internacionales;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
@@ -3243,15 +3249,17 @@ III. Elaborar los programas respecto a la transversalidad de la perspectiva de g
 
 IV. Fungir como enlace y apoyo del Consejo para la atención de asuntos internacionales;
 
-V. Tramitar y dar seguimiento a los casos relacionados con derechos humanos y equidad de género, que incidan en el ámbito de competencia del Consejo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+V. Tramitar y dar seguimiento a los casos relacionados con derechos humanos e igualdad de género, que incidan en el ámbito de competencia del Consejo;
 
-VI. Coordinar las acciones de difusión que en materia de derechos humanos, equidad de género y asuntos internacionales determine el Presidente;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+VI. Coordinar las acciones de difusión que en materia de derechos humanos, igualdad de género y asuntos internacionales determine el Presidente;
 
-VI. Bis. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de derechos humanos, equidad de género y asuntos internacionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+
+VI Bis. Plantear al Instituto de la Judicatura Federal las necesidades de capacitación en materia de derechos humanos, igualdad de género y asuntos internacionales;
 
 VII. Promover y coordinar la celebración de convenios de colaboración con instituciones públicas, privadas y de la sociedad civil que promuevan y defiendan los derechos humanos y las acciones de transversalidad de la perspectiva de género;
 
@@ -3261,9 +3269,9 @@ VIII. Atender las solicitudes de información provenientes de las Secretarías d
 
 IX. Informar trimestralmente, o con la periodicidad que se determine, al Presidente, de las actividades efectuadas y de los reportes de evaluación administrativa;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
 
-X. Ejercer el presupuesto autorizado para el Programa de Equidad de Género, informando mensualmente al Presidente, y a las instancias administrativas correspondientes, del avance en el ejercicio de los recursos presupuestales como Unidad Ejecutora de Gasto;
+X. Ejercer el presupuesto autorizado para el Programa de Igualdad de Género, informando mensualmente al Presidente, y a las instancias administrativas correspondientes, del avance en el ejercicio de los recursos presupuestales como Unidad Ejecutora de Gasto;
 
 > <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DIVERSOS ACUERDOS GENERALES, D.O.F. 25 DE MAYO DE 2015)</small>
 
@@ -5420,3 +5428,15 @@ CUARTO. A partir del trece de marzo de dos mil dieciséis dejará de funcionar e
 QUINTO. Las Direcciones Generales de Estadística Administrativa y Judicial; y de Tecnologías de la Información, de conformidad con sus atribuciones, deberán realizar todas las acciones necesarias para el inicio de operaciones del SISE Control Biométrico.
 
 SEXTO. Las referencias que cualquier disposición haga al Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional (SIBAP), se entenderán hechas al SISE Control Biométrico (SISE CB).
+
+D.O.F. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GÉNERO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin menoscabo de lo dispuesto en el párrafo siguiente.
+
+Las disposiciones materia del presente Acuerdo anteriores a la entrada en vigor del mismo, continuarán vigentes respecto de los ordenamientos legales e inclusive, reglamentarios que hagan alusión al concepto de equidad de género.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en otras disposiciones del Consejo de la Judicatura Federal al concepto de "equidad de género" se entenderán hechas a "igualdad de género", sin perjuicio de lo dispuesto en el transitorio PRIMERO de este acuerdo General.
