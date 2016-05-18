@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2016-03-01"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -473,13 +473,17 @@ XXIV.- Cumplir en tiempo y forma los mandatos del Instituto Nacional Electoral y
 
 XXV.- Aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2016)</small>
 
-XXVI.- Capacitarse en materia de Derechos Humanos; y
+XXVI.- Capacitarse en materia de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2016)</small>
+
+XXVII.- Los servidores públicos de las instituciones de educación superior estatales, los centros públicos de investigación estatales y las entidades de la administración pública estatal a que se refiere el artículo 40 de la Ley de Fomento a la Investigación Científica y Tecnológica en el Estado de Tamaulipas, que con tal carácter y de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica y tecnológica podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios. Dichas actividades podrán ser, además de las previstas en el citado artículo, la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas de base tecnológica, o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichos servidores públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o cualquier otro concepto, sin respetar la normatividad institucional. El órgano de control interno respectivo verificará el cumplimiento de dicha normatividad, respetando la autonomía de la que goce, en su caso, la institución, centro o entidad; y
 
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-XXVII.- Las demás que le impongan las leyes y reglamentos.
+XXVIII.- Las demás que le impongan las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -1040,3 +1044,15 @@ P.O. 1 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-950, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, 39 Y 40 DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS; SE REFORMA LA FRACCIÓN XXVI Y SE ADICIONA UNA FRACCIÓN XXVII, RECORRIENDO EN SU ORDEN NATURAL LA ACTUAL DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones, centros y entidades referidas que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica, deberán emitir y hacer pública su normatividad institucional en un plazo no mayor a 180 días a partir de la publicación del presente Decreto.
