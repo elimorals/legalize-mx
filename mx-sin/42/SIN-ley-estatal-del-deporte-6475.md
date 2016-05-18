@@ -4,7 +4,7 @@ identifier: "SIN-ley-estatal-del-deporte-6475"
 country: "mx"
 rank: "ley"
 publication_date: "1992-08-07"
-last_updated: "1992-08-07"
+last_updated: "2016-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY ESTATAL DEL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 7 de agosto de 1992.
 
@@ -512,3 +514,23 @@ Lic. Francisco Labastida Ochoa
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Manuel Lazcano Ochoa.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 549 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley Estatal del Deporte, publicada en el Periódico Oficial "EI Estado de Sinaloa", el 07 de agosto de 1992.
+
+TERCERO. El Ejecutivo Estatal deberá publicar el Reglamento de la presente Ley en un plazo de noventa días, contando a partir de la publicación del presente Decreto.
+
+CUARTO. El Congreso del Estado dentro de los ciento ochenta días naturales siguientes al inicio de vigencia del presente Decreto deberá realizar las adecuaciones conducentes a la legislación estatal para efecto de la aplicación de esta Ley.
+
+QUINTO. Los ayuntamientos dentro de los ciento ochenta días naturales siguientes al inicio de vigencia del presente decreto deberán de crear o actualizar lo referente a los Institutos Municipales de Cultura Física y Deporte.
+
+SEXTO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+SÉPTIMO. Para los efectos de la integración y actualización del Registro Estatal de Cultura Física y Deporte las Asociaciones y Sociedades Deportivas, Recreativo-Deportivas, de Deporte en la Rehabilitación y de Cultura Física-Deportiva estatales y municipales reconocidas en los términos de esta Ley, deberán acreditar en un plazo no mayor de ciento ochenta días naturales, que cumplen con lo dispuesto en los artículos 51 y 65 respectivamente de la presente Ley.
