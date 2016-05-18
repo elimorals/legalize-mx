@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2016-03-02"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1045,7 +1045,9 @@ XXVII. Emitir la convocatoria para elecciones extraordinarias en los términos q
 
 XXVIII. Pedir la protección de los poderes de la Unión en caso de trastorno o sublevación interior, si no lo hubiere hecho antes el Ejecutivo del Estado.
 
-XXIX. Disponer mediante Decreto, el traslado de los Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por conmoción popular o para celebrar actos cívicos o conmemorativos.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2016)</small>
+
+XXIX. Celebrar Sesiones del Pleno del Congreso del Estado o de la Comisión Permanente en su caso, fuera de su recinto Oficial previo acuerdo de la Junta de Coordinación Política.
 
 XXX. Recibir del Órgano de Fiscalización Superior del Congreso del Estado, los informes a que se refiere la fracción III, del artículo 31, de esta Constitución.
 
@@ -4602,3 +4604,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- Dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberán llevarse a cabo las reformas a los ordenamientos legales aplicables, a fin de adecuarlas a lo previsto en este Decreto; así como expedirse la Ley orgánica respectiva.
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 210 POR EL QUE SE ESTABLECE LA VIGÉSIMA NOVENA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
