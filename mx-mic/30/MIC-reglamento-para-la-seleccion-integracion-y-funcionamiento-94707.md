@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-la-seleccion-integracion-y-funcionamiento-94707
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-13"
-last_updated: "2014-10-15"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO PARA LA SELECCIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DEL PARLAMENTO JUVENIL DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 13 de junio de 2013.
 
@@ -47,21 +47,31 @@ REGLAMENTO PARA LA SELECCIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DEL PARLAMENTO JUVE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-El objeto del presente ordenamiento establece el procedimiento para la selección, integración y funcionamiento anual del Parlamento Juvenil, evento de carácter académico y meramente simbólico organizado y reglamentado por el Congreso del Estado de Michoacán de Ocampo.
+El objeto del presente ordenamiento establece el procedimiento para la selección, integración y funcionamiento anual del Parlamento Juvenil, evento de carácter académico, participativo y honorario, organizado y reglamentado por el Congreso del Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 2.
 
 El Parlamento Juvenil es un instrumento de participación, diálogo, deliberación, debate, capacitación, cabildeo y vinculación, en el cual los jóvenes michoacanos se reúnen para expresar sus preocupaciones, intereses, inquietudes, motivaciones, aportaciones, propuestas y aspiraciones, con la finalidad de que a través de este ejercicio parlamentario, el Poder Legislativo se enriquezca de aquellas aportaciones y alternativas que contribuyan a mejorar la situación del sector juvenil y de la sociedad.
 
+Para lo cual, serán publicados en el Portal de internet del Congreso del Estado, todas las Iniciativas y Proyectos Sociales con que hayan concursado, quienes resulten electos Parlamentarios juveniles.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 3.
 
-El Parlamento Juvenil es considerado como un ejercicio netamente práctico y académico. Por lo cual, el cargo de sus integrantes será simbólico y honorario.
+El Parlamento Juvenil es considerado como un ejercicio académico, participativo y honorario; por lo cual, el cargo de sus integrantes será simbólico.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
-Los dictámenes, propuestas de acuerdo, posicionamientos, exhortos o cualquier otro tipo de resolutivos elaborados por los integrantes del Parlamento Juvenil, serán simbólicos y de utilidad solamente para los fines del evento.
+Los dictámenes, propuestas de acuerdo, posicionamientos, exhortos o cualquier otro tipo de resolutivos elaborados por los integrantes del Parlamento Juvenil, servirán de consulta y orientación para la legislatura en funciones.
 
 ###### ARTÍCULO 5.
 
@@ -71,19 +81,25 @@ Ante lo no previsto en el presente Reglamento, el Comité Organizador del Parlam
 
 Los funcionarios y empleados, así como los familiares de los Diputados Constitucionales del Congreso del Estado hasta en segundo grado de parentesco, se abstendrán de participar como concursantes en el Parlamento Juvenil.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 7.
 
 El Parlamento Juvenil tendrá los siguientes objetivos:
 
 I. Promover el derecho a la libre expresión, información, participación y organización de los jóvenes en el Estado de Michoacán en espacios de toma de decisiones;
 
-II. Vincular a la juventud con el Poder Legislativo;
+II. Vincular a la juventud con las actividades que el Poder Legislativo desempeña;
 
 III. Impulsar la creación de nuevos ordenamientos jurídicos y políticas públicas a través de las propuestas presentadas por los jóvenes parlamentarios;
 
-IV. Capacitar a los parlamentarios juveniles para el mejor desempeño de sus funciones; y,
+IV. Incentivar en los jóvenes la participación ciudadana, mediante los mecanismos establecidos por la ley en la materia;
 
-V. Fomentar la democracia a través de la convivencia, el debate constructivo y el intercambio de ideas fundamentadas en los valores de respeto y tolerancia.
+V. Capacitar a los parlamentarios juveniles para el mejor desempeño de sus funciones; y,
+
+VI. Fomentar la democracia a través de la convivencia, el debate constructivo y el intercambio de ideas fundamentadas en los valores de respeto y tolerancia.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 8.
 
@@ -91,17 +107,17 @@ Para efectos del presente Reglamento se entenderá por:
 
 I. Comité: El Comité Organizador del Parlamento Juvenil del Estado de Michoacán;
 
-II. Iniciativa: Es el acto de proponer en forma escrita la creación, adición, modificación, derogación y abrogación de un ordenamiento jurídico;
+II. Congreso: H. Congreso del Estado de Michoacán de Ocampo;
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2014)</small>
+III. Iniciativa: Es el acto de proponer en forma escrita la creación, adición, modificación, derogación y abrogación de un ordenamiento jurídico;
 
-III. El Instituto: El Instituto de Investigaciones y Estudios Legislativos;
+IV. Jurado: Instancia encargada de seleccionar a los integrantes del Parlamento Juvenil;
 
-IV. Parlamentario Juvenil: El joven que haya sido seleccionado por el Jurado para ser integrante del Parlamento Juvenil;
+V. Parlamentario Juvenil: El joven que haya sido seleccionado por el Jurado para ser integrante del Parlamento Juvenil;
 
-V. Pleno: A la sesión de los parlamentarios juveniles realizada cuando menos con la mitad más uno de los integrantes; y,
+VI. Pleno: A la sesión de los parlamentarios juveniles realizada cuando menos con la mitad más uno de los integrantes; y,
 
-VI. Reglamento: El Reglamento para la Selección, Integración y Funcionamiento del Parlamento Juvenil del Estado Libre y Soberano de Michoacán de Ocampo.
+VII. Reglamento: El Reglamento para la Selección, Integración y Funcionamiento del Parlamento Juvenil del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### ARTÍCULO 9.
 
@@ -121,11 +137,13 @@ Si el Comité no está desempeñando su labor de forma correcta y apegada a los 
 
 ### CAPÍTULO II. DERECHOS Y OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 13.
 
 Los parlamentarios juveniles tendrán los siguientes derechos:
 
-I. Expresar libremente sus opiniones;
+I. Expresar libremente sus opiniones; mediante el debate constructivo, pero siempre basados en el respeto y la tolerancia;
 
 II. Ser seleccionados para integrar la Mesa Directiva del Parlamento Juvenil;
 
@@ -133,17 +151,21 @@ III. Pertenecer a dos comisiones como máximo del Parlamento Juvenil;
 
 IV. Recibir capacitación por parte de los órganos técnicos del Congreso del Estado;
 
-V. Participar en las deliberaciones, debates, discusiones y votaciones de los posicionamientos, pronunciamientos, propuestas de acuerdo e iniciativas que se realicen en el Parlamento Juvenil; y,
+V. Participar en las deliberaciones, debates, discusiones y votaciones de los posicionamientos, pronunciamientos, propuestas de acuerdo e iniciativas que se realicen en el Parlamento Juvenil;
 
-VI. Recibir las premiaciones y reconocimientos que para tal efecto se encuentren contempladas dentro de la convocatoria respectiva.
+VI. Se le reconozca la autoría, en caso de que la Iniciativa o Proyecto Social mediante el cual hayan concursado, sea presentada con posterioridad por algún Diputado; y,
+
+VII. Recibir las premiaciones y reconocimientos que para tal efecto se encuentren contempladas dentro de la convocatoria respectiva.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
 Los parlamentarios juveniles tendrán las siguientes obligaciones:
 
-I. Expresar con responsabilidad sus opiniones;
+I. Expresar con responsabilidad y respeto sus opiniones;
 
-II. Rendir protesta y tomar posesión de su cargo, la cual será netamente simbólica, por el tiempo asignado para tal efecto y para fines exclusivamente del Parlamento Juvenil;
+II. Rendir protesta y tomar posesión de su cargo, el cual durará sólo por el tiempo asignado para tal efecto y para fines exclusivamente del Parlamento Juvenil;
 
 III. Asistir puntualmente tanto a las sesiones del Parlamento Juvenil, así como a las reuniones de las comisiones de las que forme parte;
 
@@ -203,47 +225,51 @@ El Comité tomará sus decisiones por mayoría simple y el Presidente tendrá vo
 
 A las sesiones del Comité se podrá invitar con derecho solamente a voz, a los titulares de las diversas áreas técnicas y financieras del Congreso del Estado a través de sus directores, jefes de departamento o personal en general. A petición expresa de alguno de los integrantes del Comité y por aprobación de la mayoría simple de sus integrantes.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 20.
 
 El Comité tendrá las siguientes atribuciones:
 
-I. Programar, instrumentar y coordinar todas las acciones logísticas para la realización del Parlamento Juvenil;
+I. Programar, instrumentar y coordinar todas las acciones logísticas para la realización del Parlamento Juvenil, bajo los principios de austeridad, ahorro y eficacia;
 
 II. Diseñar, elaborar, aprobar, emitir y difundir la convocatoria para la selección de los integrantes del Parlamento Juvenil;
 
-III. Canalizar al Jurado los proyectos y propuestas que sean enviados por los participantes;
+III. Diseñar con el Instituto de Estudios Legislativos, el procedimiento por el cual se brinde asesoría gratuita a quienes así lo soliciten para participar por el modo de Iniciativa;
 
-IV. Publicar los resultados con el listado de los seleccionados del Parlamento Juvenil;
+IV. Canalizar al Jurado los proyectos y propuestas que sean enviados por los participantes;
 
-V. Elaborar y aprobar el Manual del Parlamento Juvenil que contendrá:
+V. Publicar los resultados con el listado de los seleccionados del Parlamento Juvenil;
+
+VI. Elaborar y aprobar el Manual del Parlamento Juvenil que contendrá:
 
 a) Los formatos necesarios para la presentación de las iniciativas, propuestas de acuerdo y posicionamientos;
 
 b) El Código de Conducta Interna que deberán firmar y respetar los parlamentarios juveniles;
 
-c) El presente Reglamento;
+c) Un ejemplar del presente Reglamento;
 
 d) La calendarización de las sesiones, los trabajos en comisiones y todos los eventos que se realizarán; y,
 
-e) Toda información tanto jurídica, como de carácter general que se requiera para el conocimiento de los parlamentarios juveniles.
+e) Toda información tanto jurídica, como de carácter general que requieran de su conocimiento los parlamentarios juveniles.
 
-VI. Brindar la capacitación a los parlamentarios juveniles;
+VII. Brindar la capacitación a los parlamentarios juveniles;
 
-VII. Organizar las sesiones del Parlamento Juvenil;
+VIII. Organizar las sesiones del Parlamento Juvenil;
 
-VIII. Ser el vínculo para que las tres mejores iniciativas seleccionadas por el Jurado, sean presentadas a las Comisiones Legislativas de Dictamen a fines (sic) al tema para su conocimiento;
+IX. Ser el vínculo para que las tres mejores iniciativas seleccionadas por el Jurado, sean presentadas ante la Mesa Directiva del Congreso, siguiéndose el procedimiento que para tal efecto la Ley Orgánica y de Procedimientos del Congreso establece; reconociéndose en todo momento, la autoría del Parlamentario Juvenil postulante;
 
-IX. Otorgar las premiaciones que especifique la convocatoria, así como un reconocimiento a todos los seleccionados;
+X. Otorgar un reconocimiento a todos los seleccionados;
 
-X. Emitir en cualquier momento su veredicto para condiciones imprevistas durante todo el proceso que dure el Parlamento Juvenil;
+XI. Emitir en cualquier momento su veredicto para condiciones imprevistas durante todo el proceso que dure el Parlamento Juvenil;
 
-XI. Amonestar, sancionar o en su caso suspender a los parlamentarios juveniles;
+XII. Amonestar, sancionar o en su caso suspender a los parlamentarios juveniles;
 
-XII. Delegar responsabilidades en las áreas técnicas y financieras, así como al personal del Congreso del Estado que sea necesario para la organización del Parlamento Juvenil;
+XIII. Delegar responsabilidades en las áreas técnicas y financieras, así como al personal del Congreso del Estado que sea necesario para la organización del Parlamento Juvenil;
 
-XIII. Realizar las memorias de cada Parlamento Juvenil; y,
+XIV. Realizar las memorias de cada Parlamento Juvenil; y,
 
-XIV. Gestionar los recursos económicos para la realización del Parlamento Juvenil.
+XV. Gestionar los recursos económicos para la realización del Parlamento Juvenil.
 
 ###### ARTÍCULO 21.
 
@@ -265,29 +291,25 @@ El Jurado será la instancia que se encargue de deliberar y seleccionar a los in
 
 El Jurado será instalado por el Comité con noventa días (sic) anticipación a la fecha de celebración del Parlamento Juvenil.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 23.
 
 El Jurado estará integrado por:
 
-I. Un Diputado de la Comisión de Régimen Interno y Prácticas Parlamentarias quien presidirá el Jurado;
+I. El Diputado Presidente de la Comisión de Régimen Interno y Prácticas Parlamentarias quien presidirá el Jurado;
 
-II. El Magistrado Presidente del Supremo Tribunal de Justicia del Estado de Michoacán;
+II. El Titular del Instituto de la Juventud Michoacana;
 
-III. El Presidente de la Comisión Estatal de los Derechos Humanos;
+III. El Rector de la Universidad Michoacana de San Nicolás de Hidalgo a invitación expresa del Comité;
 
-IV. El Titular de la Secretaría de los Jóvenes;
+IV. Un representante de las universidades privadas, a invitación expresa del Comité;
 
-V. El Rector de la Universidad Michoacana de San Nicolás de Hidalgo a invitación expresa del Comité;
+V. El Presidente del Colegio de Michoacán A. C.;
 
-VI. Un representante de las universidades privadas, a invitación expresa del Comité;
+VI. El Vocal de Capacitación Electoral del Instituto Electoral de Michoacán; y,
 
-VII. El Presidente del Colegio de Michoacán A. C.;
-
-VIII. El Vocal de Capacitación Electoral del Instituto Electoral de Michoacán;
-
-IX. Dos representantes del sector empresarial a invitación expresa del Comité; y,
-
-X. Dos investigadores del Instituto de Investigaciones y Estudios Legislativos.
+VII. Dos investigadores del Instituto de Investigaciones y Estudios Legislativos.
 
 Los Titulares de los Poderes, órganos o dependencias precitados, podrán designar un representante para que asista a las sesiones de trabajo del Jurado.
 
@@ -323,13 +345,17 @@ El listado deberá depositarse en un sobre sellado y firmado por la mayoría de 
 
 ### CAPÍTULO V. CONVOCATORIA
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-La convocatoria para la selección e integración del Parlamento Juvenil será emitida por el Comité con la aprobación de la Junta de Coordinación Política, cuando menos noventa días antes a la instalación del Parlamento Juvenil. Para tal efecto, con la anticipación requerida, el Presidente de la Mesa Directiva del Congreso del Estado hará la solicitud a las Comisiones de Dictamen de Jóvenes y Deporte, así como de Asuntos Electorales y Participación Ciudadana, para que coadyuven en la organización del Parlamento Juvenil.
+La convocatoria para la selección e integración del Parlamento Juvenil será emitida por el Comité con la aprobación de la Junta de Coordinación Política, cuando menos noventa días antes a la instalación del Parlamento Juvenil.
 
 ###### ARTÍCULO 27.
 
 La convocatoria deberá de publicarse en el portal electrónico del Congreso del Estado y a través de las redes sociales, además se solicitará el apoyo de las autoridades académicas públicas y privadas en el Estado, así como de cada Diputado integrante de la Legislatura en turno, para que coadyuven en difundir y hacer del conocimiento de los jóvenes en el Estado la convocatoria.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 28.
 
@@ -339,9 +365,9 @@ I. Fecha de emisión;
 
 II. Objetivos del Parlamento Juvenil;
 
-III. Requisitos para participar en la categoría de iniciativa y por propuesta;
+III. Requisitos para participar en las categorías previstas;
 
-IV. Procedimiento para hacer llegar las iniciativas y las propuestas;
+IV. Procedimiento para hacer llegar su Iniciativa o propuesta de Proyecto Social;
 
 V. Itinerario de actividades;
 
@@ -355,13 +381,15 @@ IX. Los demás que el Comité determine.
 
 ### CAPÍTULO VI. INTEGRACIÓN DEL PARLAMENTO JUVENIL
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 29.
 
 El Parlamento Juvenil estará integrado por cuarenta parlamentarios juveniles, los cuales serán seleccionados de la siguiente forma:
 
-I. Veinticuatro por la vía de concurso de iniciativa, los cuales serán tomados simbólicamente y para fines solamente del evento como de mayoría relativa, representarán a cada uno de los distritos locales electorales establecidos en el Código Electoral del Estado de Michoacán, sin que esto obligue a que el seleccionado sea originario o radique en el mismo; y,
+I. Vía de concurso de Iniciativa; y,
 
-II. Dieciséis a propuesta de las instituciones académicas, asociaciones civiles y las organizaciones sociales. Los cuales serán considerados simbólicamente y para fines solamente del evento, como de representación proporcional.
+II. Vía de propuesta de algún Proyecto Social, original, creativo, innovador y autosustentable, que esté basado en las oportunidades que en sus comunidades existen; que se propicie el bienestar económico y social; o que contribuya a disminuir la marginación.
 
 ###### ARTÍCULO 30.
 
@@ -383,9 +411,11 @@ IV. En caso de participar por ambas modalidades de selección, se cumplirá con 
 
 #### SECCIÓN I. MODALIDAD DE SELECCIÓN POR CONCURSO DE INICIATIVA
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 31.
 
-Los parlamentarios juveniles seleccionados por la modalidad de concurso de iniciativa, serán todos aquellos jóvenes que el Jurado haya evaluado por presentar los mejores proyectos jurídicos.
+Los parlamentarios juveniles seleccionados por la modalidad de concurso de iniciativa, serán todos aquellos jóvenes que el Jurado haya evaluado por presentar los mejores proyectos de Iniciativas.
 
 ###### ARTÍCULO 32.
 
@@ -409,17 +439,7 @@ VIII. Los demás que considere el Comité.
 
 ###### ARTÍCULO 33.
 
-El concurso de iniciativa por el cual se seleccionará a los parlamentarios juveniles se sujetará al siguiente procedimiento:
-
-I. La inscripción y envío de la iniciativa en los tiempos señalados en la convocatoria, respetando el formato y las especificaciones que para tal motivo se emitan por parte del Comité;
-
-II. Al concursante se le confirmará de recibido, asignándole una clave única de registro que será de su conocimiento. Para tal efecto, se emitirá una lista pública en el portal electrónico del Congreso del Estado de los concursantes inscritos;
-
-III. El Jurado revisará todos los proyectos enviados y emitirá su veredicto conforme a los aspectos contemplados en el presente Reglamento, en los cuarenta y cinco días posteriores a la recepción de los documentos, donde su fallo será inapelable;
-
-IV. Las iniciativas que resulten seleccionadas serán publicadas en el portal electrónico del Congreso del Estado. En este aspecto, se enlistará el nombre del autor y título de su iniciativa; y,
-
-V. A través de los medios que establezca el Comité, se establecerá un contacto directo con cada uno (sic) de las personas seleccionadas para hacer de su conocimiento la fecha en la cual tendrán que presentarse en la sede del Poder Legislativo.
+(DEROGADO, P.O. 18 DE MAYO DE 2016)
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2014)</small>
 
@@ -427,89 +447,67 @@ ARTÍCULO 33 BIS. Las iniciativas y propuestas que resulten seleccionadas como g
 
 El Instituto llevará el registro de los proyectos y propuestas que hayan sido seleccionados como ganadores en cada uno de los parlamentos juveniles que se instalen, mismo que estará a disposición del Jurado.
 
-#### SECCIÓN II. MODALIDAD DE SELECCIÓN POR PROPUESTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MAYO DE 2016)</small>
+
+#### SECCIÓN II. MODALIDAD DE PRESENTACIÓN DE PROYECTO SOCIAL
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 34.
 
-Los parlamentarios juveniles seleccionados por la vía de propuesta, representarán a los principales sectores sociales, donde el Jurado evaluará sin discriminar su credo o religión, género, condición económica, ideología partidista, orientación sexual, origen étnico o sociocultural, procedencia escolar sea ésta pública o privada, así como el tener alguna discapacidad.
+Los parlamentarios juveniles seleccionados por la modalidad de presentación de proyecto social, serán todos aquellos jóvenes que el Jurado haya evaluado por presentar los mejores proyectos.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 35.
 
-Para efectos de esta modalidad de selección, el Jurado reconocerá entre otros aspectos:
+Los principales aspectos a calificar en los proyectos serán:
 
-I. El trabajo hecho en favor del reconocimiento, respeto y difusión de los derechos humanos, en particular los referentes a los (sic) niñas, niños, adolescentes, jóvenes, mujeres, así como a los adultos mayores;
+I. Presentación;
 
-II. La búsqueda de la equidad de género y respeto a los grupos vulnerables;
+II. Originalidad;
 
-III. El mejoramiento de su entorno y el medio ambiente;
+III. Innovación;
 
-IV. La defensa y promoción de sus comunidades, cultura, arte, lengua, tradiciones y costumbres;
+IV. Auto sustentabilidad;
 
-V. La creación y fomento de empleos;
+V Apego a la extensión requerida;
 
-VI. La promoción y publicación de la investigación científica y tecnológica;
+VI. Impacto y relevancia social; y,
 
-VII. La promoción de la salud y la educación;
-
-VIII. El combate a la corrupción, la inseguridad, la pobreza y el mejoramiento de las instituciones gubernamentales; y,
-
-IX. Las que a criterio del Jurado se consideren primordiales.
+VII. Los demás que considere el Comité.
 
 ###### ARTÍCULO 36.
 
-Para pertenecer a esta modalidad de selección, además de reconocer su labor social, el Jurado para emitir su veredicto podrá valorar las siguientes características de los jóvenes participantes:
-
-I. Su auto identidad y auto adscripción indígena;
-
-II. Su origen migrante o rural;
-
-III. Que no obstante el que cuenten con una discapacidad hayan demostrado sobresalir en diferentes ámbitos;
-
-IV. Que se distingan por tener los mejores promedios escolares y académicos;
-
-V. La obtención de reconocimientos deportivos;
-
-VI. Que hayan hecho labor social a favor de grupos vulnerables y a favor de la equidad de género;
-
-VII. Que sean empresarios y a los que generen proyectos productivos;
-
-VIII. Que participen en cargos públicos y puestos de decisión;
-
-IX. Que hayan obtenido el Premio al Mérito Estatal Juvenil en alguna de sus categorías;
-
-X. Su labor filantrópica y con distinguido reconocimiento social; y,
-
-XI. Las que el Jurado considere.
+(DEROGADO, P.O. 18 DE MAYO DE 2016)
 
 ###### ARTÍCULO 37.
 
-Para ser seleccionado como parlamentario juvenil en la modalidad de propuesta se deberá seguir el siguiente procedimiento:
-
-I. Llenar la solicitud que para tal efecto emita el Comité en los plazos establecidos en la convocatoria;
-
-II. Presentar por escrito el respaldo de al menos tres instancias, las cuales pueden ser: académicas, organizaciones sociales, clubes deportivos, ayuntamientos u otro que considere el participante que acredite su trabajo en favor de la sociedad michoacana;
-
-III. Al concursante se le confirmará de recibido, asignándole una clave única de registro que será de su conocimiento. Para tal efecto, se emitirá una lista pública en el portal electrónico del Congreso del Estado de los concursantes inscritos;
-
-IV. El participante deberá integrar y enviar un expediente, el cual puede preferentemente ser respaldado por medios impresos, así como digitales u otra forma que considere pertinente para comprobar su labor;
-
-V. El Jurado estudiará, analizará y dará su resolutivo en todos los expedientes de forma objetiva, neutral, imparcial y apartidista, para que se emita el veredicto respectivo en los cuarenta y cinco días siguientes a la recepción del material, el cual será inapelable;
-
-VI. Se publicará en el portal electrónico del Congreso del Estado, los parlamentarios juveniles seleccionados por esta modalidad; y,
-
-VII. A través de los medios que establezca el Comité, se establecerá un contacto directo con cada uno (sic) de las personas seleccionadas para hacer de su conocimiento la fecha en la cual tendrán que presentarse en la sede del Poder Legislativo.
+(DEROGADO, P.O. 18 DE MAYO DE 2016)
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2014)</small>
 
 ARTÍCULO 37 BIS. Los parlamentarios juveniles que hayan sido seleccionados ganadores mediante la modalidad de iniciativa o propuesta, podrán participar hasta por dos ocasiones, pero por diferente modalidad.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 38.
 
-En ambas modalidades de selección de los parlamentarios juveniles, el Jurado deberá dejar un número de reserva que considere pertinente para cubrir posibles ausencias.
+Para ambas modalidades de participación, por el cual se seleccionará a los parlamentarios juveniles se sujetará al siguiente procedimiento:
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2014)</small>
+I. La inscripción y envío de la iniciativa o proyecto en los tiempos señalados en la convocatoria, respetando el formato y las especificaciones que para tal motivo se emitan por parte del Comité;
 
-ARTÍCULO 38 BIS. El Comité podrá impartir a través del Instituto, la capacitación que requieran los aspirantes.
+II. Al concursante se le confirmará de recibido, asignándole una clave única de registro que será de su conocimiento. Para tal efecto, se emitirá una lista pública en el portal electrónico del Congreso del Estado de los concursantes inscritos;
+
+III. El Jurado revisará todas las iniciativas o proyectos enviados y emitirá su veredicto conforme a los aspectos contemplados en el presente Reglamento, a más tardar veinte días antes de la realización del Parlamento;
+
+IV. Las iniciativas o proyectos que resulten seleccionadas serán publicadas en el portal electrónico del Congreso del Estado. En este aspecto, se enlistará el nombre del autor y título de propuesta; y,
+
+V. A través de los medios que establezca el Comité, se establecerá un contacto directo con cada uno de las personas seleccionadas para hacer de su conocimiento la fecha en la cual tendrán que presentarse en la sede del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
+ARTÍCULO 38 BIS. En ambas modalidades de selección de los parlamentarios juveniles, el Jurado invitará a cinco jóvenes de los participantes a integrar la reserva para cubrir posibles ausencias.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2014)</small>
 
@@ -523,17 +521,21 @@ El Instituto mantendrá la confidencialidad de los concursantes y los selecciona
 
 ### CAPÍTULO VIII. INSTALACIÓN DEL PARLAMENTO JUVENIL
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 39.
 
-El Parlamento Juvenil será instalado con carácter simbólico el doce de agosto de cada año, siempre y cuando la citada fecha coincida con día hábil, de lo contrario se realizará el día hábil más próximo previo acuerdo de la Junta de Coordinación Política del Congreso del Estado y la Conferencia para la Programación de los Trabajos Legislativos.
+El Parlamento Juvenil será instalado durante el mes de agosto de cada año, siempre y cuando la fecha asignada coincida con día hábil; previa notificación a la Junta de Coordinación Política del Congreso del Estado y la Conferencia para la Programación de los Trabajos Legislativos.
 
 ###### ARTÍCULO 40.
 
 Las sesiones del Parlamento Juvenil se llevarán a cabo dentro del Recinto Legislativo en el Salón de Pleno, las que serán solamente con fines académicos y prácticos, salvo que por causas extraordinarias y fundamentadas, el Comité con aprobación de la Mesa Directiva del Congreso del Estado designe otro lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 41.
 
-Dado que el Parlamento Juvenil es para fines exclusivamente demostrativos, de capacitación y enseñanza del funcionamiento del Poder Legislativo, el procedimiento para agilizar la instalación del mismo será el siguiente:
+Dado que el Parlamento Juvenil es simbólico y para fines participativos, de capacitación y enseñanza del funcionamiento del Poder Legislativo, el procedimiento para agilizar la instalación del mismo será el siguiente:
 
 I. Con al menos un día antes de la instalación, el Comité realizará las siguientes actividades:
 
@@ -589,15 +591,21 @@ La Secretaría de Servicios Parlamentarios, organizará las participaciones de l
 
 Para efectos del desarrollo de la dictaminación, las sesiones y los debates en el Pleno, se aplicará de forma supletoria la Ley Orgánica y de Procedimientos del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 42.
 
-El Presidente de la Mesa Directiva del Congreso del Estado se encargará de tomar la protesta simbólica a los parlamentarios juveniles, de forma similar a como lo establece la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo, pero con la salvedad que será exclusivamente con fines académicos, de instrucción del Poder Legislativo y del evento del Parlamento Juvenil.
+El Presidente de la Mesa Directiva del Congreso del Estado se encargará de tomar la protesta a los parlamentarios juveniles, de forma similar a como lo establece la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo, pero con la salvedad que será exclusivamente con fines académicos, de instrucción del Poder Legislativo y del evento del Parlamento Juvenil.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 43.
 
-Las formas de votación serán las que se contemplan en la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo. Así como las funciones de cada uno de los integrantes de la Mesa Directiva del Parlamento Juvenil, serán de forma similar y simbólica a las contempladas en dicha Ley.
+Las formas de votación serán las que se contemplan en la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo. Así como las funciones de cada uno de los integrantes de la Mesa Directiva del Parlamento Juvenil, serán de forma similar a las contempladas en dicha Ley.
 
-### CAPÍTULO IX. INICIATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MAYO DE 2016)</small>
+
+### CAPÍTULO IX. INICIATIVAS O PROYECTOS SOCIALES
 
 ###### ARTÍCULO 44.
 
@@ -619,11 +627,13 @@ III. Un proyecto de abrogación donde se contemple el suprimir un marco normativ
 
 IV. Se pueden presentar iniciativas que intercalen algunos de los procedimientos anteriormente expuestos.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 46.
 
-Las iniciativas al momento de ser entregadas para concursar para formar parte del Parlamento Juvenil por esta modalidad, deberán cumplir los siguientes requisitos:
+Las iniciativas o proyectos sociales, al momento de ser entregados para concursar para formar parte del Parlamentario Juvenil, deberán cumplir los siguientes requisitos:
 
-I. Estar en cinco tantos impresos y cinco respaldos digitales;
+I. Estar en un tanto impreso y dos respaldos digitales;
 
 II. Depositar por separado en un sobre cerrado los datos personales, comprobante expedido por la autoridad municipal que valide la residencia de al menos un año en el Estado y generales del autor;
 
@@ -641,11 +651,13 @@ a) Respetar el formato que para tal efecto emita el Comité;
 
 b) Estar dirigido al Presidente de la Mesa Directiva del Congreso del Estado;
 
-c) Contener la fundamentación jurídica que sustente la validez de la propuesta;
+c) Contener la fundamentación jurídica o técnica, en su caso, que sustente la validez de la propuesta;
 
-d) Exponer los motivos o la idea principal que sustenta la iniciativa; y,
+d) Exponer los motivos o la idea principal que sustenta la iniciativa o proyecto; y,
 
-e) Articulado de la iniciativa.
+e) Si se tratara de iniciativa, incluir el articulado de la misma.
+
+A fin de impulsar el mayor número de jóvenes participantes, el Comité establecerá los procedimientos para que la presentación de las Iniciativas o Proyectos, puedan ser de manera presencial o vía electrónica.
 
 ### CAPÍTULO X. COMISIONES PARLAMENTARIAS JUVENILES
 
@@ -683,6 +695,8 @@ IX. En todo momento los trabajos de las comisiones deberán conducirse con respe
 
 X. Al concluir los trabajos, de entre los integrantes de la Comisión se elegirá a quien dará lectura al proyecto de Dictamen, Propuesta de Acuerdo o Posicionamiento. De no existir un acuerdo interno, el Comité los elegirá por sorteo.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 49.
 
 Las comisiones del Parlamento Juvenil serán las siguientes:
@@ -695,9 +709,11 @@ III. Salud y Educación;
 
 IV. Migración, Grupos Vulnerables e Indígenas;
 
-V. Seguridad; y,
+V. Seguridad Pública y Cultura de la Paz;
 
-VI. Las que autorice y considere pertinente el Comité.
+VI. Participación Ciudadana; y,
+
+VII. Las que autorice y considere pertinente el Comité.
 
 ###### ARTÍCULO 50.
 
@@ -770,3 +786,15 @@ SEGUNDO. Para efectos del artículo 37 BIS, entrará en vigor al día siguiente 
 TERCERO. En un plazo no mayor a treinta días a la aprobación del Presente Decreto, el Comité Organizador del Primer Parlamento, presentará un informe integral de lo que fue la celebración de ese Parlamento Juvenil.
 
 CUARTO. Remítase al Gobernador del Estado, el presente Decreto para su conocimiento y su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 145 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 4, 7, 8, 13, 14, 20, 23, 26, 28, 29, 31, 34, 35, 38, 39, 41, 42, 46, 49, ASÍ COMO LA DENOMINACIÓN DE LA SECCIÓN II DEL CAPÍTULO VII Y DEL CAPÍTULO IX; SE ADICIONA EL ARTÍCULO 38 BIS; Y, SE DEROGAN LOS ARTÍCULOS 33, 36 Y 37, TODOS DEL REGLAMENTO PARA LA SELECCIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DEL PARLAMENTO JUVENIL DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO"]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación, de conformidad con lo establecido en el párrafo segundo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
