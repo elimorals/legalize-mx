@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-promexico-80232"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-03-10"
-last_updated: "2014-09-25"
+last_updated: "2016-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80232&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2011-02-18"
 
 ESTATUTO ORGÁNICO DE PROMÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ESTATUTO ORGÁNICO DE PROMÉXICO, PUBLICADO EN EL D.O.F. DE 18 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 25 DE SEPTIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016 (ABROGADA).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 10 de marzo de 2011.
 
@@ -930,3 +930,27 @@ TERCERO.- Los asuntos en trámite a la entrada en vigor de estas modificaciones 
 > <small>(F. DE E., D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
 CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en las presentes modificaciones al Estatuto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
+
+D.O.F. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE PROMÉXICO”.]
+
+Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga el emitido el 18 de febrero de 2011, modificado el 23 de mayo de 2014, con publicación en el mismo Órgano de Difusión, respectivamente, los días 10 de marzo de 2011 y 6 de junio de 2014.
+
+Segundo.- Los asuntos que se encuentren en trámite a la entrada en vigor de este Estatuto serán resueltos por la Unidad Administrativa a la que se le atribuya la competencia correspondiente en el presente instrumento.
+
+Tercero.- Las funciones encomendadas a las Unidades Administrativas de ProMéxico y a sus titulares en los “Lineamientos para el Otorgamiento de Apoyos del Programa de Proyectos Estratégicos para la Atracción de Inversión Extranjera”, “Fondo ProMéxico”, en tanto éstos no se modifiquen o abroguen, serán realizadas de la siguiente forma: Por las Unidades Administrativas que no hayan sufrido cambio de denominación respecto del Estatuto que se abroga. Las encomendadas a la Unidad de Promoción de Inversiones y Negocios Internacionales y a su Titular, por la Unidad de Promoción de Negocios Globales; y las encomendadas a la Unidad de Apoyos y Relaciones Institucionales y a su Titular, por la Dirección Ejecutiva de Eventos y Servicios al Empresario y su Titular.
+
+Cuarto.- Las funciones encomendadas a las Unidades Administrativas de ProMéxico y a sus titulares en los “Lineamientos para el otorgamiento de Apoyos a Proyectos de la Industria Cinematográfica y Audiovisual”, “Fondo Proaudiovisual”, en tanto éstos no se modifiquen o abroguen, serán realizadas de la siguiente forma: Por las Unidades Administrativas que no hayan sufrido cambio de denominación respecto del Estatuto que se abroga. Las encomendadas a la Unidad de Promoción de Inversiones y Negocios Internacionales y a su Titular, por la Unidad de Promoción de Negocios Globales; y las encomendadas a la Unidad de Apoyos y Relaciones Institucionales y a su Titular, por la Dirección Ejecutiva de Eventos y Servicios al Empresario y su Titular.
+
+Quinto.- Las funciones encomendadas a las Unidades Administrativas de ProMéxico y a sus titulares en los “Lineamientos para la Operación de Apoyos y Servicios”, en tanto éstos no se modifiquen o abroguen, serán realizadas de la siguiente forma: Por las Unidades Administrativas que no hayan sufrido cambio de denominación respecto del Estatuto que se abroga. Las encomendadas a la Unidad de Promoción de Inversiones y Negocios Internacionales y a su Titular, por la Unidad de Promoción de Negocios Globales y su Titular; las encomendadas a la Unidad de Promoción de Exportaciones y a su Titular, por la Unidad de Desarrollo Sectorial y su Titular. Tratándose de las funciones encomendadas a la Unidad de Apoyos y Relaciones Institucionales y a su Titular, a la Dirección Ejecutiva de Apoyos y Servicios y su Titular, y a la Dirección Ejecutiva de Relaciones Institucionales y su Titular, serán asumidas por la Dirección Ejecutiva de Eventos y Servicios al Empresario y su Titular.
+
+Sexto.- Los Manuales Internos del Fideicomiso, ya sean de Organización, Procedimiento, Prestaciones o de cualquier otra índole, así como cualquier otra normativa con ese carácter, continuarán aplicándose, de conformidad con las facultades atribuidas a cada una de las Unidades Administrativas en el presente Estatuto, en tanto no se opongan a las disposiciones contenidas en el mismo, o se determine su modificación o abrogación, lo cual deberá realizarse en un término de seis meses a partir de su entrada en vigor.
+
+Séptimo.- Para fines administrativos, la Unidad de Administración y Finanzas realizará las acciones necesarias para que los recursos humanos, financieros, materiales y de tecnologías de información asignados a las Unidades Administrativas que se modifican o desaparecen, sean transferidos a las Unidades Administrativas que correspondan, en los términos del presente Estatuto y de conformidad con las normas aplicables y disponibilidad presupuestal.
+
+Octavo.- Los nombramientos de los Titulares de las Unidades Administrativas que no hubieran sufrido cambio de denominación respecto del Estatuto que se abroga, mantendrán su vigencia y sus obligaciones, y sus atribuciones serán las que se señalan en el presente instrumento. Los demás nombramientos deberán ser designados por el Comité Técnico de ProMéxico conforme a lo establecido en el Artículo 58, fracción XI, de la Ley Federal de las Entidades Paraestatales.
+
+Noveno.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente estatuto, sea asignado de una Unidad Administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las Unidades Administrativas que corresponda.
+
+El presente Estatuto Orgánico fue aprobado por el Comité Técnico del Fideicomiso Público considerado entidad paraestatal denominado ProMéxico, en su Segunda Sesión Extraordinaria 2016, celebrada en la Ciudad de México el 17 de marzo de 2016.
