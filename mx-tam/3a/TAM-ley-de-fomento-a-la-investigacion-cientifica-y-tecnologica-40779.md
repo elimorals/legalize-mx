@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2013-11-26"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -63,7 +63,7 @@ III.- Establecer y garantizar los medios de vinculación y participación de la 
 
 IV.- Vincular la investigación científica y tecnológica con la educación y desarrollo económico del Estado, particularmente los procesos productivos;
 
-V.- Impulsar el incremento paulatino de los recursos presupuestales destinados a la investigación científica y tecnológica, a fin de alcanzar en el horizonte de mediano y largo plazo un gasto por esos conceptos equivalente al 2.5% del producto interno bruto del Estado; y (sic)
+V.- Impulsar el incremento paulatino de los recursos presupuestales destinados a la investigación científica y tecnológica, a fin de alcanzar en el horizonte de mediano y largo plazo un gasto por esos conceptos equivalente al 2.5% del producto interno bruto del Estado; y
 
 VI.- Regular la aplicación de recursos destinados para el financiamiento de investigación y desarrollo tecnológico.
 
@@ -147,7 +147,7 @@ XX.- La participación de la mujer y el hombre en el ámbito científico y tecno
 
 1. El Gobierno del Estado apoyará la capacidad y fortalecimiento de las actividades de investigación científica y tecnológica que lleven a cabo los centros de investigación y las instituciones públicas de educación superior, así como los particulares.
 
-2. Estos apoyos se otorgarán sin menoscabo de la libertad de investigación que consigna la fracción VIl del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos a favor de las instituciones de educación superior.
+2. Estos apoyos se otorgarán sin menoscabo de la libertad de investigación que consigna la fracción VII del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos a favor de las instituciones de educación superior.
 
 ###### ARTICULO 6.
 
@@ -181,13 +181,25 @@ XI.- Los programas educativos, estímulos fiscales, financieros, facilidades en 
 
 1. Se integra el Sistema de Información Científica y Tecnológica del Estado de Tamaulipas, que estará a cargo del Consejo, quien lo administrará manteniéndolo actualizado.
 
-2. Dicho Sistema será accesible al público en general, sin perjuicio de los derechos de propiedad industrial e intelectual y las reglas de confidencialidad que se establezcan.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
-3. Este Sistema también comprenderá datos relativos a los servicios técnicos para la modernización tecnológica.
+2. El Consejo, en el ámbito de su competencia, coadyuvará al CONACYT en la estrategia nacional que tiene como finalidad ampliar, consolidar y facilitar el acceso a la información científica, tecnológica y de innovación nacional e internacional a texto completo, en formatos digitales.
 
-4. El Consejo expedirá las bases de organización y funcionamiento del Sistema.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
-5. Las bases preverán lo necesario para que el Sistema sea un instrumento que coadyuve a la vinculación entre la investigación y sus formas de aplicación, así como a la promoción de la modernización y la competitividad del sector productivo.
+3. El Consejo impulsará la estrategia estatal, con el fin de fortalecer las capacidades del Estado para que el conocimiento universal esté disponible a los educandos, educadores, académicos, investigadores, científicos y población en general, a través de un acceso abierto.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
+4. Por Acceso Abierto se entenderá el acceso a través de una plataforma digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos y de innovación, financiados con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
+5. Corresponderá al Consejo establecer los lineamientos para garantizar el acceso a la información científica, tecnológica y de innovación, en los términos del presente capítulo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2016)</small>
+
+6. Los investigadores, tecnólogos, académicos y estudiantes de maestría, doctorado y posdoctorado, cuya actividad de investigación sea financiada con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, por decisión personal podrán, autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en Acceso Abierto, comprobando que ha cumplido con el proceso de aprobación respectivo, lo anterior bajo los términos que al efecto establezca el Consejo.
 
 ###### ARTICULO 8.
 
@@ -243,7 +255,7 @@ I.- Promover la creación de espacios bibliohemerográficos especializados en ma
 
 II.- Fomentar la organización y realización de actos académicos y científicos, que propicien el intercambio de información, el contacto con especialistas y el desarrollo del conocimiento;
 
-llI.- Promover la creación de programas y espacios educativos, recreativos e interactivos, con el objeto de fomentar en la población en general, haciendo énfasis en los jóvenes y niños, el interés por la formación científica; y
+III.- Promover la creación de programas y espacios educativos, recreativos e interactivos, con el objeto de fomentar en la población en general, haciendo énfasis en los jóvenes y niños, el interés por la formación científica; y
 
 IV.- Promover, a través del Consejo, la coordinación y difusión de programas, proyectos y acciones de alcance estatal y nacional, así como la producción y difusión de materiales generados por instituciones y organismos similares al propio Consejo.
 
@@ -497,19 +509,45 @@ IV.- Proponer las medidas y estímulos fiscales, esquemas de financiamiento, fac
 
 2. El proceso de vinculación deberá ser intersectorial, multidisciplinario e interinstitucional, buscándose la coordinación de esfuerzos conjuntos en materia de ciencia y tecnología, al tiempo de tomar en cuenta los intereses prioritarios y estrategias del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 39.
 
-1. Para la creación y la operación de los instrumentos de fomento a que se refiere esta ley, se concederá prioridad a los proyectos cuyo propósito sea promover la modernización, la innovación y el desarrollo tecnológicos que estén vinculados con empresas o entidades usuarias de la tecnología, en especial con la pequeña y mediana empresa.
+1. El Consejo, las instituciones de educación superior y las entidades de la administración pública estatal que de acuerdo con su instrumento de creación tengan como objeto predominante realizar actividades de investigación científica y tecnológica y efectivamente lo realicen, promoverán la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con el sector productivo del Estado, bajo diversos mecanismos y acciones que sean pertinentes, a través de figuras como las Unidades de Vinculación, Transferencia de Tecnología y Conocimiento, de igual manera apoyarán mediante asesoría, la creación de micro, pequeña y mediana empresa de base tecnológica entre otras.
 
-2. De igual forma, serán prioritarios los proyectos que se propongan lograr un uso racional, más eficiente y sustentable de los recursos naturales, así como las asociaciones cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
+2. Estas Unidades de Vinculación, Transferencia de Tecnología y Conocimiento podrán constituirse mediante la figura jurídica que mejor convenga a sus objetivos, en los términos de las disposiciones aplicables, siempre y cuando no se constituyan como entidades paraestatales y podrán contratar por proyecto a personal académico de dichas entidades e instituciones, sujeto a lo dispuesto en el artículo 40 de esta Ley.
 
-3. Para otorgar apoyo a las actividades de investigación tecnológica a que se refiere este precepto, se requerirá que el proyecto respectivo cuente con una declaración formal de interés en la aplicación de la tecnología expresada por el o los potenciales usuarios. Asimismo, salvo casos debidamente justificados, se requerirá que los beneficiarios del proyecto aporten recursos para el financiamiento conjunto del mismo.
+3. Las unidades a que se refiere este artículo, en ningún caso podrán financiar su gasto de operación con recursos públicos. Los recursos públicos que, en términos de esta Ley, reciban las unidades deberán destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios.
 
-4. En cada caso se determinará la forma y condiciones en que la dependencia o entidad que apoye el proyecto tecnológico recuperará total o parcialmente los recursos que canalice, y se ajustará a la modalidad conforme a la cual participará de los beneficios que resulten de la explotación de la tecnología, de conformidad con lo establecido en la ley de la materia.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 40.
 
-Los apoyos a que se refiere el artículo anterior se otorgarán por un tiempo determinado, de acuerdo con el contenido y los objetivos del proyecto; estos apoyos se sostendrán hasta el momento en que se demuestre o no la viabilidad técnica y económica del proyecto.
+Los centros públicos de investigación, las instituciones de educación superior y las entidades de la administración pública del Estado que de acuerdo con su instrumento de creación tengan como objeto predominante realizar actividades de investigación científica y tecnológica y efectivamente lo realicen, promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica, y redes regionales de innovación en las cuales se procurará la incorporación de desarrollos tecnológicos e innovaciones realizadas en dichos centros, entidades e instituciones, así como de los investigadores, académicos y personal especializado adscritos al centro, institución o entidad, que participen en la parte sustantiva del proyecto.
+
+Con relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de las instituciones, centros y entidades aprobarán y establecerán lo siguiente:
+
+I.- Los lineamientos y condiciones básicas de las asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas de base tecnológica o redes de innovación, que conlleven la participación de instituciones de educación, Centros y entidades, con o sin aportación en el capital social en las empresas de que se trate. Para tal efecto, se tomará en cuenta lo siguiente:
+
+a) Las figuras a que se refiere el párrafo anterior, podrán constituirse mediante convenios de colaboración o a través de instrumentos que den origen a una nueva persona jurídica. En este último caso, será necesario el acuerdo del órgano de gobierno correspondiente.
+
+b) La aportación de las instituciones de educación, Centros y entidades en dichas figuras no deberá rebasar el 49% de la participación total.
+
+c) Los beneficios derivados de la propiedad intelectual que se generen con la participación del personal de la institución, Centro o entidad en las figuras mencionadas, se otorgarán de conformidad con lo establecido en esta Ley y en los lineamientos que al efecto expida el órgano de gobierno, sin perjuicio de las prestaciones de carácter laboral que en su caso corresponden a dicho personal.
+
+d) La participación del personal de la institución, Centro o entidad en las figuras a que se refiere el presente artículo, en los términos de la presente Ley, no implicará que incurra en conflicto de intereses.
+
+e) El pago de las compensaciones complementarias por concepto de regalías no constituirá una prestación regular y continua en favor del personal de la institución de educación, Centro o entidad, por estar condicionado dicho pago al cumplimiento de lo dispuesto en esta Ley y en las disposiciones que al efecto expidan los órganos de gobierno correspondientes.
+
+II.- Los términos y requisitos para la incorporación y participación del personal de instituciones, centros y entidades en las asociaciones, alianzas, consorcios, unidades, redes o nuevas empresas de que se trate.
+
+Asimismo, los órganos de gobierno de las instituciones, centros y entidades podrán establecer apoyos y criterios conforme a los cuales el personal de los mismos pueda realizar la incubación de empresas tecnológicas de innovación en coordinación con la propia institución, centro o entidad, según corresponda y, en su caso, con terceros.
+
+Los términos, requisitos y criterios a que se refiere la fracción II y el párrafo anterior serán establecidos por los órganos de gobierno o equivalente de las instituciones, centros y entidades mediante normas generales que deberán expedir al efecto y que consistirán en medidas de carácter preventivo orientadas a evitar que su personal incurra en el conflicto de intereses al que hace referencia el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas. Previo a su expedición, estas normas deberán contar con la opinión favorable emitida por el respectivo órgano interno de control.
+
+Los órganos de gobierno o equivalente también determinarán lo relativo a los derechos de propiedad intelectual y los beneficios que correspondan a instituciones, centros y entidades en relación a lo dispuesto en este artículo.
+
+Para promover la comercialización de los derechos de propiedad intelectual e industrial de las instituciones, centros y entidades, los órganos de gobierno o equivalente aprobarán los lineamientos que permitan otorgar a los investigadores, académicos y personal especializado, que los haya generado hasta 70 por ciento de las regalías que se generen.
 
 ### CAPITULO VIII. RELACIONES ENTRE LA INVESTIGACION Y LA EDUCACION
 
@@ -592,3 +630,15 @@ P.O. 26 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-950 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, 39 Y 40 DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS; SE REFORMA LA FRACCIÓN XXVI Y SE ADICIONA UNA FRACCIÓN XXVII, RECORRIENDO EN SU ORDEN NATURAL LA ACTUAL DEL ARTÍCULO 47 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones, centros y entidades referidas que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica, deberán emitir y hacer pública su normatividad institucional en un plazo no mayor a 180 días a partir de la publicación del presente Decreto.
