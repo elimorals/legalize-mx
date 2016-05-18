@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-55-2014-del-pleno-del-consejo-de-la-105197"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-28"
-last_updated: "2015-01-28"
+last_updated: "2016-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105197&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2015-01-20"
 ---
 # ACUERDO GENERAL 55/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE EL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA]
 
-ACUERDO GENERAL 55/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE EL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA.
+ACUERDO GENERAL 55/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE EL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de enero de 2015.
 
@@ -361,7 +361,9 @@ El área de control de peritos del Instituto estimará el monto de los honorario
 
 La remuneración de los peritos será cubierta por el Instituto, con cargo a la partida que para tal efecto se establezca en el Clasificador por Objeto del Gasto del Consejo.
 
-Programación y Presupuesto, dotará de suficiencia a la partida que se determine para dicha erogación, quedando bajo la responsabilidad del Instituto el aplicar los recursos con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+> <small>(REFORMADO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GÉNERO, D.O.F. 18 DE MAYO DE 2016)</small>
+
+Programación y Presupuesto, dotará de suficiencia a la partida que se determine para dicha erogación, quedando bajo la responsabilidad del Instituto el aplicar los recursos con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, e igualdad de género.
 
 ###### Artículo 29.
 
@@ -558,3 +560,17 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 CUARTO. Se instruye a Programación y Presupuesto para que en coordinación con el Director General del Instituto, realicen las acciones pertinentes para que se dote de recursos al Instituto, para la operación del área de control de peritos del Instituto y se cree una partida dentro del Clasificador por Objeto del Gasto para la contratación de peritos a cargo del Instituto.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 55/2014, del Pleno del Consejo de la Judicatura Federal, que regula la integración de la lista de personas que pueden fungir como peritos ante el Instituto Federal de Defensoría Pública, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de ocho de diciembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a veinte de enero de dos mil quince.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GÉNERO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin menoscabo de lo dispuesto en el párrafo siguiente.
+
+Las disposiciones materia del presente Acuerdo anteriores a la entrada en vigor del mismo, continuarán vigentes respecto de los ordenamientos legales e inclusive, reglamentarios que hagan alusión al concepto de equidad de género.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en otras disposiciones del Consejo de la Judicatura Federal al concepto de “equidad de género” se entenderán hechas a “igualdad de género”, sin perjuicio de lo dispuesto en el transitorio PRIMERO de este Acuerdo General.
