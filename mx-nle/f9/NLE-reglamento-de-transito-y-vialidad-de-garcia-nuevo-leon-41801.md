@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-de-garcia-nuevo-leon-41801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-15"
-last_updated: "2011-07-08"
+last_updated: "2016-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DE GARCIA, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DE GARCIA, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DE GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2011.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GARCÍA NUEVO LEÓN, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de noviembre de 2004.
 
@@ -3395,3 +3397,19 @@ P.O. 8 DE JULIO DE 2011.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 28 DE JUNIO DE 2011, POR EL QUE SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN Y DEROGACIÓN AL REGLAMENTO DE TRÁNSITO Y VIALIDAD DE GARCÍA, NUEVO LEÓN".]
 
 ÚNICO: las presentes reformas por modificación y derogación del Reglamento de Vialidad y Tránsito del Municipio de García, Nuevo León, entraran en vigor el día Siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León; Publíquese también en la Pagina Web Oficial del Municipio www.garcia.gob.mx para su debida difusión
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 17 DE MAYO DE 2016, SE APRUEBA EL REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GARCÍA NUEVO LEÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Tránisto (sic) y Vialidad de García, Nuevo León, publicado en el Periódico Oficial del Estado de Nuevo León en fecha 15 quince de noviembre de 2004 dos mil cuatro
+
+###### ARTÍCULO TERCERO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
