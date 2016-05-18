@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2016-04-18"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -232,9 +232,13 @@ XXXV.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Inform
 
 XXXVI.- Contar con un órgano técnico denominado "Canal Televisivo de la Asamblea Legislativa del Distrito Federal", que se regirá conforme a lo establecido en este Ordenamiento y en el Reglamento para el Gobierno Interior, en concordancia con lo establecido por el artículo 10° Transitorio de la Reforma Constitucional en materia de Telecomunicaciones publicada en el Diario Oficial de la Federación el once de junio de 2013;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2016)</small>
 
-XXXVII.- Otorgar la Medalla a las Defensoras y Defensores de Derechos Humanos en reconocimiento a personas, organizaciones no gubernamentales e instituciones públicas o privadas que hayan destacado en su labor de promoción, respeto, protección y garantía de los derechos humanos, en los términos del Reglamento para el Gobierno Interior y del procedimiento que al efecto establezca la Comisión de Derechos Humanos de esta Asamblea Legislativa del Distrito Federal; y
+XXXVII.- Otorgar la Medalla a las Defensoras y Defensores de Derechos Humanos en reconocimiento a personas, organizaciones no gubernamentales e instituciones públicas o privadas que hayan destacado en su labor de promoción, respeto, protección y garantía de los derechos humanos, en los términos del Reglamento para el Gobierno Interior y del procedimiento que al efecto establezca la Comisión de Derechos Humanos de esta Asamblea Legislativa del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+La Asamblea Legislativa tiene la atribución de Otorgar la Medalla al Mérito Periodístico "Miguel Ángel Granados Chapa" en reconocimiento a los profesionales de la comunicación de medios escritos y electrónicos de la Ciudad de México, que con su trabajo contribuyen al desarrollo de los principios democráticos, entendidos como "un sistema de vida fundado en el constante mejoramiento económico, social, y cultural"; y
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2015)</small>
 
@@ -344,9 +348,9 @@ Son obligaciones de los Diputados:
 
 I.- Rendir la protesta y tomar posesión de su encargo;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
 
-II.- Formar parte de hasta cinco comisiones ordinarias y de hasta dos comités de la Asamblea;
+II.- Formar parte de todas aquellas Comisiones especiales que le sean asignadas por la Comisión de Gobierno, de hasta ocho Comisiones ordinarias y de hasta tres Comités de la Asamblea.
 
 III.- Cumplir con diligencia los trabajos que les sean encomendados por el Pleno, La Diputación Permanente, la Comisión de Gobierno, las comisiones y los comités;
 
@@ -742,11 +746,11 @@ El día de la clausura de cada período ordinario de sesiones, el pleno de la As
 
 La Diputación Permanente de la Asamblea es el órgano deliberativo que, sesionará durante los recesos de ésta y cuyas atribuciones se encuentran establecidas en los términos de la presente Ley, y del Reglamento para el Gobierno Interior de la Asamblea.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 47.
 
-La Diputación Permanente estará conformada por el veinte por ciento del total de los Diputados integrantes del Pleno, además de un diputado sustituto por cada Diputado integrante por orden de prelación.
+La Diputación Permanente estará conformada por un número comprendido entre 13 y 17 Diputados integrantes del Pleno, además de un diputado sustituto por cada Diputado integrante por orden de prelación.
 
 Esta se integrará de manera proporcional conforme al número de Diputados que cada Grupo Parlamentario posea en el Pleno.
 
@@ -926,6 +930,10 @@ La Asamblea contará con el número y tipo de comisiones que requiera para el cu
 
 Las Comisiones son órganos internos de organización para el mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización e investigación de la Asamblea.
 
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+Para integrar el quórum correspondiente en las sesiones de las comisiones, no será tomado en cuenta el número de diputados que las coaliciones y los grupos parlamentarios hayan omitido nombrar ante tales órganos, ni el número de diputados que omitan asistir a tres sesiones de manera consecutiva.
+
 ###### ARTÍCULO 60.
 
 Los tipos de comisiones serán:
@@ -955,6 +963,10 @@ VII.- De Vigilancia y Evaluación de Políticas y Programas Sociales.
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Cada comisión y comité tendrá una Secretaría Técnica quienes formarán parte de la estructura de la Asamblea Legislativa, y estará bajo la dirección del Presidente de la misma, a la que corresponderá apoyar los trabajos de la comisión, en los términos que disponga el Reglamento para el Gobierno Interior y el Reglamento Interior de las Comisiones de la Asamblea Legislativa.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+En caso de que las coaliciones o los grupos parlamentarios omitan nombrar a los presidentes de las comisiones que por acuerdo del pleno les competa designar, la mayoría de los integrantes de la comisión correspondiente procederán a llevar a cabo las designaciones referidas en el párrafo anterior, a propuesta del diputado o diputada que el Pleno haya nombrado en la vicepresidencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2014)</small>
 
@@ -1250,13 +1262,15 @@ I. Administración;
 
 II. Asuntos Editoriales;
 
-III. Atención, Orientación y Quejas Ciudadanas, y
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
+
+III. Atención, Orientación y Quejas Ciudadanas;
 
 IV. De la Biblioteca "Francisco Zarco";
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
 
-V. Comité de Asuntos Internacionales;
+V. Asuntos Internacionales;
 
 > <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
@@ -1282,11 +1296,19 @@ Los Comités son órganos auxiliares de carácter administrativo, para realizar 
 
 Cada Comité tendrá una Secretaría Técnica, que estará bajo la dirección del Presidente del mismo, a la que corresponderá apoyar los trabajos del Comité, en los términos que disponga el Reglamento para el Gobierno Interior de la Asamblea Legislativa.
 
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+En caso de que las coaliciones o los grupos parlamentarios omitan nombrar a los presidentes de los comités que por acuerdo del pleno les competa designar, la mayoría de los integrantes del comité correspondiente procederán a llevar a cabo las designaciones referidas en el párrafo anterior, a propuesta del diputado o diputada que el Pleno haya nombrado en la vicepresidencia.
+
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 75], G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 80.
 
 Los miembros integrantes de los Comités serán designados por el Pleno a propuesta de la Comisión de Gobierno. Su integración, actividad y funcionamiento se rige por lo establecido por esta ley y el Reglamento para el Gobierno Interior de la Asamblea Legislativa. Los Comités tomarán sus decisiones por mayoría de votos de sus miembros presentes.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+Para integrar el quórum correspondiente en las sesiones de los comités, no será tomado en cuenta el número de diputados que las coaliciones y los grupos parlamentarios hayan omitido nombrar ante tales órganos, ni el número de diputados que omitan asistir a tres sesiones de manera consecutiva.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE MAYO DE 2014)</small>
 
@@ -2385,3 +2407,23 @@ G.O. 18 DE ABRIL DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA".]
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal para su debida difusión.
+
+SEGUNDO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+TERCERO. Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Respecto de la fecha de la entrega de la presea correspondiente al año 2016, ésta se sujetará a las bases establecidas en la convocatoria emitida por la Comisión Especial para Garantizar el Ejercicio Periodístico de la Asamblea Legislativa del Distrito Federal.
