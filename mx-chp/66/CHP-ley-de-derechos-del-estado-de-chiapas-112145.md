@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-112145"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE FECHA 18 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 31 de diciembre de 2015.
 
@@ -3336,3 +3338,15 @@ Juan Carlos Gómez Aranda
 Secretario General de Gobierno.
 
 Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 213 LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Derechos del Estado de Chiapas, publicada mediante Decreto número 058, en el Periódico Oficial número 217, de fecha martes treinta y uno dé diciembre de dos mil quince, así como las demás disposiciones que de ella se hayan emitido y se opongan al contenido de la presente Ley.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
