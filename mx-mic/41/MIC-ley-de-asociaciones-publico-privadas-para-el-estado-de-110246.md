@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asociaciones-publico-privadas-para-el-estado-de-110246"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-30"
-last_updated: "2015-09-30"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -51,7 +51,9 @@ LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 La presente Ley es de orden público y tiene por objeto regular y fomentar los esquemas para el desarrollo de proyectos de asociación público privada que realicen el Estado, los Municipios y Entidades gubernamentales con el sector privado, bajo los principios de los artículos 129 y 130 de la Constitución Política del Estado Libre y soberano de Michoacán de Ocampo.
 
-Las personas de derecho público estatal, con autonomía derivada de la Constitución Política del Estado de Michoacán de Ocampo, aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, en cuyo caso quedarán sujetas a sus propios órganos de control.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+
+El Poder Legislativo, el Poder Judicial y las personas de derecho público estatal, con autonomía derivada de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, observarán y aplicarán la presente Ley, en lo que no se oponga a los ordenamientos legales que los regulan, por conducto del área administrativa que señale su propio ordenamiento y sujetándose a sus propios órganos de control.
 
 ###### ARTÍCULO 2°.
 
@@ -1532,3 +1534,13 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.-PRESIDENTE DE LA MESA DIR
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 24 veinticuatro días del mes de septiembre del año 2015 dos mil quince.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZOTL ESPARZA CORTINA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 143 POR EL QUE "SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1º DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y trámite correspondiente.
