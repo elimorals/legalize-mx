@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6448
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-07"
-last_updated: "2014-11-06"
+last_updated: "2016-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 7 de noviembre de 2008.
 
@@ -1558,3 +1560,25 @@ El Instituto y los Sujetos Obligados tendrán noventa días para armonizar su no
 ###### ARTÍCULO CUARTO.
 
 Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para los efectos legales.
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 144 POR EL QUE SE EXPIDE LA “LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, de fecha 7 de noviembre de 2008.
+
+TERCERO. Una vez constituido el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, serán trasferidos a este, los recursos humanos, financieros y materiales, adscritos al Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán (ITAIMICH).
+
+CUARTO. Los consejeros que actualmente conforman el Instituto de Transparencia y Acceso a la Información Pública del Estado de Michoacán, formarán parte del nuevo organismo del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, únicamente por el tiempo que reste al nombramiento para el que fueron electos en el Instituto que se extingue.
+
+En caso de que al entrar en vigencia la presente Ley, resultaré alguna o algunas vacantes, se llevará a cabo el procedimiento para su designación, de conformidad con lo señalado en esta Ley.
+
+QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de esta Ley, se sustanciarán conforme a la ley abrogada.
+
+SEXTO. Las normas relativas a la protección de datos personales en posesión de sujetos obligados permanecerán vigentes hasta en tanto entre en vigor la Ley estatal de la materia derivada de la Ley General que deba expedirse, de conformidad con lo dispuesto por el artículo tercero transitorio del Decreto por el que se expide la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación el 4 de mayo de 2015.
+
+SÉPTIMO. Los sujetos obligados se incorporarán a la Plataforma Nacional en un término de noventa días contados a partir del día siguiente en que se habilite el apartado de los sujetos obligados de las entidades federativas.
+
+OCTAVO. Una vez entrada en vigor la presente Ley, el Congreso del Estado a través de las Comisiones de Gobernación y de Derechos Humanos, contarán con un plazo de 30 días naturales para emitir la convocatoria para la elección del Consejo Consultivo previsto en esta Ley.
