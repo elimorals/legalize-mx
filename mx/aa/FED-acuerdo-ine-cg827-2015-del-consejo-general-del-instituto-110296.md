@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg827-2015-del-consejo-general-del-instituto-110296
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-10-26"
-last_updated: "2015-10-26"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110296&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-09-03"
 ---
 # ACUERDO INE/CG827/2015 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA DEMARCACION TERRITORIAL DE LOS DISTRITOS ELECTORALES UNINOMINALES LOCALES EN QUE SE DIVIDE EL ESTADO DE OAXACA Y SUS RESPECTIVAS CABECERAS DISTRITALES, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA DE ESTE INSTITUTO
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 18 DE MAYO DE 2016, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA DEMARCACIÓN TERRITORIAL DE LOS DISTRITOS ELECTORALES UNINOMINALES LOCALES EN QUE SE DIVIDE EL ESTADO DE OAXACA Y SUS RESPECTIVAS CABECERAS DISTRITALES, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA DE ESTE INSTITUTO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 26 de octubre de 2015.
 
@@ -58,3 +60,19 @@ Para los efectos legales a que haya lugar, la sesión extraordinaria del Consejo
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 > <small>[N. DE E. VÉASE DESCRIPTIVO DE LA DISTRITACIÓN 2015 EN LA TERCERA SECCIÓN DEL D.O.F. DE 26 DE OCTUBRE DE 2015, PÁGINAS DE LA 80 A LA 96.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS DE LA DISTRITACIÓN 2015 EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE MAYO DE 2016, PÁGINA 91.]</small>
+
+D.O.F. 18 DE MAYO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE ACATA LA SENTENCIA EMITIDA POR LA H. SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RECAÍDA DENTRO DEL EXPEDIENTE SUP-RAP-677/2015 Y ACUMULADOS; EN LA QUE SE MODIFICA LA UBICACIÓN DEL MUNICIPIO DE SANTIAGO JAMILTEPEC, PARA FORMAR PARTE DEL DISTRITO 22 ELECTORAL LOCAL, CON CABECERA EN EL MUNICIPIO DE SANTIAGO PINOTEPA NACIONAL DEL ESTADO DE OAXACA, QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO".]</small>
+
+PRIMERO. En acatamiento a lo ordenado por la H. Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en la sentencia emitida en el expediente SUP-RAP-677/2015, se modifica el Acuerdo INE/CG827/2015 en lo que respecta a la ubicación del Municipio de Santiago Jamiltepec, para que forme parte del Distrito Electoral Local 22, con cabecera en Santiago Pinotepa Nacional, en el estado de Oaxaca, de conformidad con el Considerando Tercero del presente Acuerdo y el Anexo que se acompaña al presente y forma parte integral del mismo.
+
+SEGUNDO. Infórmese a la H. Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, sobre el cumplimiento dado a la sentencia emitida en el expediente SUP-RAP-677/2015 y Acumulados.
+
+TERCERO. Hágase del conocimiento del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, lo aprobado por este órgano máximo de dirección.
+
+CUARTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
