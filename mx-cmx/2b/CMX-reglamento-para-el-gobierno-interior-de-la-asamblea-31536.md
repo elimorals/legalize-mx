@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2016-04-18"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -2510,6 +2510,8 @@ Recibidos los informes por la Comisión de Gobierno, ésta los turnará al Comit
 
 ### CAPÍTULO I
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 18 DE MAYO DE 2016, PÁGINA 27.]</small>
+
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### Artículo 170.
@@ -2530,17 +2532,13 @@ III.- Al Mérito Policial;
 
 IV.- Al Mérito Deportivo;
 
-> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
 
-V.- Al Mérito de Protección Civil;
+V.- Al Mérito de Protección Civil; y
 
-> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
 
-VI.- A las Defensoras y Defensores de Derechos Humanos; y
-
-> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2016)</small>
-
-VII.- Al Mérito por la Igualdad y la No Discriminación"
+VI.- A las Defensoras y Defensores de Derechos Humanos, así mismo se otorgara la Medalla al Mérito Periodístico “Miguel Granados Chapa”.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2560,9 +2558,9 @@ Adicionalmente, los reconocimientos podrán otorgarse de forma póstuma, a los c
 
 Para los efectos del presente título, se entenderá por:
 
-> <small>(REFORMADA, G.O. 18 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
 
-I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo, en Protección Civil, o por la Igualdad y la No Discriminación; de la Asamblea Legislativa del Distrito Federal;
+I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo, Protección Civil, Periodístico, así como a las Defensoras y Defensores de Derechos Humanos, todas de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
@@ -2588,9 +2586,9 @@ e) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal;
 
 f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal; y
 
-> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
 
-g) Comisión de Atención a Grupos Vulnerables.
+g) Comisión de Derechos Humanos y Comisión Especial para otorgar la Medalla al Mérito Periodístico “Miguel Ángel Granados Chapa” de la Asamblea Legislativa del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
@@ -2634,25 +2632,25 @@ b) "MEDALLA AL MÉRITO EN CIENCIAS"
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-c) “MEDALLA AL MÉRITO EN ARTES”
+c) "MEDALLA AL MÉRITO EN ARTES"
 
 d) "MEDALLA AL MÉRITO POLICIAL"
 
 e) "MEDALLA AL MÉRITO DEPORTIVO"
 
-> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2016)</small>
+f) (DEROGADO, G.O. 18 DE MAYO DE 2016)
 
-f) "MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL"
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2016)</small>
+g) "MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL"
 
-g) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS"
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 18 DE ABRIL DE 2016)</small>
+h) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS" y "MEDALLA AL MÉRITO PERIODÍSTICO "MIGUEL ÁNGEL GRANADOS CHAPA"
 
-h) "MEDALLA AL MÉRITO POR LA IGUALDAD Y LA NO DISCRIMINACIÓN"
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
 
-En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
+En fondo opaco, el nombre de las personas condecorada (sic) y la disciplina, en su caso; y
 
 IV.- El listón del que penda la Medalla será de seda y con los colores patrios.
 
@@ -3103,6 +3101,42 @@ Las propuestas y la documentación correspondiente de los candidatos para ser me
 ###### Artículo 212 Octies.
 
 La Sesión Solemne para entregar la Medalla al Mérito de Protección Civil se realizará en la fecha en que se conmemore el «Día Nacional de Protección Civil» del año que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE MAYO DE 2016)</small>
+
+### CAPÍTULO SEXTO BIS. DE LA MEDALLA AL MÉRITO PERIODÍSTICO “MIGUEL ÁNGEL GRANADOS CHAPA”
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+###### Artículo 212 Nonies.
+
+La Medalla al mérito periodístico “Miguel Ángel Granados Chapa” constituye el reconocimiento a los profesionales de la comunicación de medios escritos y electrónicos de la Ciudad de México, que con su trabajo contribuyen al desarrollo de los principios democráticos, entendidos como “un sistema de vida fundado en el constante mejoramiento económico, social, y cultural”.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+###### Artículo 212 Decies.
+
+Sólo serán consideradas para efecto del presente reconocimiento, los trabajos publicados entre el 1 de enero y el 31 de diciembre del año inmediato anterior. Los reconocimientos podrán ir acompañados de premios pecuniarios, sujetos a la disposición presupuestal del órgano legislativo.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+Artículo 212 Undecies.- Corresponderá a la Comisión Especial para Garantizar el Ejercicio Periodístico de la Ciudad de México de la Asamblea Legislativa del Distrito Federal, convocar y efectuar el proceso de la elección de las y los candidatos a recibir el reconocimiento y ponerlo a la consideración del Pleno de la Asamblea Legislativa para su aprobación. La Comisión presentará ante el Pleno de la Asamblea Legislativa el dictamen correspondiente, una vez que éste sea aprobado por consenso al interior de la propia Comisión.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+Artículo 212 Duocies.- El reconocimiento se otorgará en las categorías y géneros periodísticos que tenga a bien aprobar la comisión en la convocatoria correspondiente.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+Artículo 212 Terdecies.- La Comisión deberá formular la convocatoria correspondiente en la segunda quincena del mes de enero del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional. La fecha de recepción de los trabajos será hasta el último día hábil del mes de abril del año en curso.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+Artículo 212 Quaterdecies.- El trabajo que pretenda participar en la convocatoria deberá cumplir con los requisitos y bases de la convocatoria.
+
+> <small>(ADICIONADO, G.O. 18 DE MAYO DE 2016)</small>
+
+Artículo 212 Quindecies.- La Sesión Solemne para entregar la Medalla al Mérito Periodístico “Miguel Ángel Granados Chapa” se realizará en la fecha en que se conmemora el aniversario luctuoso de Miguel Ángel Granados Chapa, a saber el día 16 de octubre del año que corresponda.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.O. 12 DE MAYO DE 2015)</small>
 
@@ -3815,3 +3849,13 @@ G.O. 18 DE ABRIL DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Respecto de la fecha de la entrega de la presea correspondiente al año 2016, ésta se sujetará a las bases establecidas en la convocatoria emitida por la Comisión Especial para Garantizar el Ejercicio Periodístico de la Asamblea Legislativa del Distrito Federal.
