@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-la-hacienda-publica-para-el-estado-de-chiapas-15657"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-23"
-last_updated: "2015-12-31"
+last_updated: "2016-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE FECHA 18 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el jueves 23 de diciembre de 1999.
 
@@ -8472,3 +8474,17 @@ P.O. 31 DE DICIEMBRE DE 2015.
 Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero del dos mil dieciséis.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NO. 212 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”]
+
+Primero.- El presente Código entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Código de la Hacienda Pública para el Estado de Chiapas publicado en el Periódico Oficial No. 066, Tomo I, de fecha 23 de diciembre de 1999, así como todas sus reformas, a la entrada en vigor del presente Decreto.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Cuarto.- Los actos, procedimientos, resoluciones y demás situaciones jurídicas y normativas que estén en trámite a la entrada en vigor del presente Decreto, serán substanciados conforme al Código de la Hacienda Pública para el Estado de Chiapas y su Reglamento Vigente.
+
+Quinto.- La Secretaría emitirá dentro de los cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Decreto, el Reglamento del Código de la Hacienda Pública para el Estado de Chiapas.
