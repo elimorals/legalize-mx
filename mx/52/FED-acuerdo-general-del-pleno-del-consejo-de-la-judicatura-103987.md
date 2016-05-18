@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-04-14"
+last_updated: "2016-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1561,7 +1561,9 @@ III. El interés superior de la niñez;
 
 IV. Participación de niñas y niños en todos los asuntos que les atañen; y
 
-V. Equidad de género.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GÉNERO, D.O.F. 18 DE MAYO DE 2016)</small>
+
+V. Igualdad de género.
 
 Asimismo, debe orientarse al logro de la observancia y ejercicio de los derechos a que se refiere el artículo 11 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 
@@ -7747,6 +7749,8 @@ Para los efectos de las fracciones II y III, la Administración Regional y la Di
 
 #### SECCIÓN PRIMERA. REGLAS GENERALES Y EJECUTORES DE GASTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GÉNERO, D.O.F. 18 DE MAYO DE 2016)</small>
+
 ###### Artículo 670.
 
 Las donaciones y las enajenaciones que liberen al Poder Judicial de la Federación de cualquier obligación de pago que autorice la Comisión de Administración, deberán formalizarse a través del instrumento que determine la Dirección General de Asuntos Jurídicos y firmarse, en representación del Consejo, por el titular de la Dirección General de Recursos Materiales, cuando los bienes se encuentren en el Distrito Federal o zona conurbada, o bien, por el Coordinador de Administración Regional directamente o por conducto de las Administraciones Regionales o Delegaciones Administrativas cuando se ubiquen en el resto de la República.
@@ -8191,7 +8195,7 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión 
 
 ###### Artículo 697.
 
-Los sujetos obligados a cumplir las disposiciones de este Título deberán observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+Los sujetos obligados a cumplir las disposiciones de este Título deberán observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, e igualdad de género.
 
 Lo no previsto y la interpretación de este Título, será resuelto por el Pleno y la Comisión de Administración en el ámbito de sus respectivas competencias.
 
@@ -11682,3 +11686,15 @@ TERCERO. Todas las menciones al salario mínimo como unidad de cuenta, índice, 
 Tratándose de las que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en artículo séptimo transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
 
 CUARTO. El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+D.O.F. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GÉNERO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin menoscabo de lo dispuesto en el párrafo siguiente.
+
+Las disposiciones materia del presente Acuerdo anteriores a la entrada en vigor del mismo, continuarán vigentes respecto de los ordenamientos legales e inclusive, reglamentarios que hagan alusión al concepto de equidad de género.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en otras disposiciones del Consejo de la Judicatura Federal al concepto de “equidad de género” se entenderán hechas a “igualdad de género”, sin perjuicio de lo dispuesto en el transitorio PRIMERO de este Acuerdo General.
