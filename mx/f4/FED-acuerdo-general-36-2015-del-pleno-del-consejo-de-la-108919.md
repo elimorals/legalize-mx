@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2015-del-pleno-del-consejo-de-la-108919"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-08"
-last_updated: "2015-07-08"
+last_updated: "2016-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108919&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-06-30"
 
 ACUERDO GENERAL 36/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 8 de julio de 2015.
 
@@ -621,7 +621,9 @@ Esa calificación final se obtendrá de la suma asignada al participante en cada
 
 Cuando el número de participantes con calificación final de ochenta puntos o más exceda el número de plazas sujetas a concurso, el Jurado, en caso de empate, aplicará las siguientes reglas:
 
-I. Con base en el principio de equidad de género y como acción afirmativa, se designará a las personas participantes cuyo género haya ocupado menor número de vacantes sujetas a concurso.
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+
+I. Con base en el principio de igualdad de género y como acción afirmativa, se designará a las personas participantes cuyo género haya ocupado menor número de vacantes sujetas a concurso;
 
 II. En caso de que persista el empate, se deberá considerar la experiencia en la o las materias competencia de la categoría de magistrado de Circuito concursada.
 
@@ -696,3 +698,17 @@ CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 QUINTO. Los concursos internos de oposición que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite, deberán continuar hasta su conclusión conforme a las disposiciones con las que iniciaron.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 36/2015, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de magistrado de Circuito, mediante concursos internos de oposición, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinticuatro de junio de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a treinta de junio de dos mil quince.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GÉNERO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin menoscabo de lo dispuesto en el párrafo siguiente.
+
+Las disposiciones materia del presente Acuerdo anteriores a la entrada en vigor del mismo, continuarán vigentes respecto de los ordenamientos legales e inclusive, reglamentarios que hagan alusión al concepto de equidad de género.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en otras disposiciones del Consejo de la Judicatura Federal al concepto de "equidad de género" se entenderán hechas a "igualdad de género", sin perjuicio de lo dispuesto en el transitorio PRIMERO de este acuerdo General.
