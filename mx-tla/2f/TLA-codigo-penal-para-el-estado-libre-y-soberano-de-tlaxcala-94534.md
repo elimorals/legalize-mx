@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2015-06-18"
+last_updated: "2016-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2016.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -1402,6 +1402,48 @@ Una vez otorgado el perdón, éste no podrá revocarse.
 El perdón sólo beneficia a favor de quién se otorga.
 
 Cuando sean varias las víctimas, cada una puede ejercer separadamente la facultad de perdonar.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
+
+Para el otorgamiento del perdón, la víctima u ofendido deberá estar asistido por el asesor jurídico de atención a víctimas respectivo, quien le explicará las consecuencias de dicho acto, previstas en el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
+
+###### Artículo 111 Bis.
+
+Delitos que se investigan por querella.
+
+Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de los siguientes delitos:
+
+I. Lesiones, previstas en la fracción I del artículo 232, 234 ó 236;
+
+II. Allanamiento de morada, despacho, oficina o establecimiento mercantil, previsto en los artículos 274, 275 ó 276;
+
+III. Amenazas, previsto en el artículo 279;
+
+IV. Procreación asistida e inseminación artificial, previsto en los artículos 296, 297 ó 298;
+
+V. Omisión de auxilio a lesionados, previsto en el artículo 305;
+
+VI. Contra la seguridad en los medios informáticos, previsto en los artículos 316 ó 317;
+
+VII. Robo, previsto en los artículos 323 fracción I, 325, 326 ó 327;
+
+VIII. Abuso de confianza, previsto en el artículo 335 fracción I;
+
+IX. Fraude, previsto en el artículo 338 fracción I y VI ó 339, siempre y cuando el monto de lo defraudado sea el previsto en el artículo 338 fracción I;
+
+X. Insolvencia fraudulenta en perjuicio de acreedores, previsto en el artículo 343;
+
+XI. Despojo, previsto en el artículo 346;
+
+XII. Daños, previsto en el artículo 348;
+
+XIII. Incumplimiento de la obligación alimentaria, previsto en los artículos 368, 369 ó 371;
+
+XIV. Falsificación o alteración y uso indebido de documento, previsto en el artículo 405; y
+
+XV. Delitos contra el trabajo y la previsión social, previsto en los artículos 410 ó 411.
 
 ### CAPÍTULO VI. REHABILITACIÓN
 
@@ -2923,6 +2965,10 @@ Se impondrá de seis meses a cuatro años de prisión y multa de treinta y seis 
 
 A quien acose o asedie en forma reiterada a una persona con fines sexuales, a pesar de su oposición manifiesta y amenace con causarle un mal relacionado respecto a la actividad que los vincule, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
+
+La pena prevista para el delito de hostigamiento sexual, se aumentarán en dos terceras partes, cuando el sujeto pasivo del delito sea menor de doce años.
+
 ### CAPÍTULO II. MANIPULACIÓN GENÉTICA
 
 ###### Artículo 295.
@@ -3349,6 +3395,10 @@ IV. De cuatro a ocho años de prisión y multa de doscientos ochenta y ocho a qu
 
 V. De seis a doce años de prisión y multa de cuatrocientos treinta dos a ochocientos sesenta y cuatro días de salario, cuando el valor de lo defraudado exceda de tres mil quinientas veces el salario mínimo.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2016)</small>
+
+VI. De seis a diez años de prisión y multa de mil noventa y cinco a tres mil seiscientos cincuenta días de salario mínimo vigente en la región. Cuando se esté ante el supuesto establecido por la fracción XIV del artículo 339 de este código. Las autoridades tendrán la obligación de realizar las inspecciones periódicas a establecimientos de esta naturaleza en el ámbito de su competencia.
+
 Cuando el delito se cometa en contra de dos o más personas, se impondrán, además, las dos terceras partes de las sanciones previstas en las fracciones anteriores.
 
 ###### Artículo 339.
@@ -3390,6 +3440,10 @@ No se procederá contra el librador cuando el libramiento hubiese tenido como fi
 XIII. Al que reciba mercancía a crédito y suscriba por ella cualquier título de crédito, siempre y cuando haya dispuesto de tal mercancía en todo o en parte.
 
 Si el responsable regresa la mercancía, en las condiciones que la haya recibido dentro de los quince días siguientes al vencimiento de la fecha para el cumplimiento de la obligación, sólo se le impondrá multa hasta de trescientos días de salario mínimo vigente en la región.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2016)</small>
+
+XIV. El que altere por cualquier medio los medidores de algún fluido o las indicaciones registradas en esos aparatos para aprovecharse indebidamente de ellos en perjuicio del proveedor o consumidor, igual sanción se aplicará a quien ordene la alteración.
 
 ###### Artículo 340.
 
@@ -4340,3 +4394,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 223.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
