@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2015-10-14"
+last_updated: "2016-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 14 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MAYO DE 2016.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -253,11 +255,17 @@ VI. Elaborar y presentar al Presidente los proyectos de acciones de inconstituci
 
 VII. Llevar a cabo la interlocución gubernamental y legislativa necesaria para el cumplimiento de sus atribuciones;
 
-VIII. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, conforme a las disposiciones aplicables; y
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+VIII. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, conforme a las disposiciones aplicables;
 
-IX. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2016)</small>
+
+IX. Expedir copias certificadas de los documentos relacionados con los asuntos de su competencia y del cumplimiento de sus atribuciones, y
+
+> <small>(ADICIONADA, G.G. 19 DE MAYO DE 2016)</small>
+
+X. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1195,6 +1203,14 @@ ACUERDO POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 13; Y, SE ADICIONA L
 
 G.G. 14 DE OCTUBRE DE 2015.
 
-[N. DE E. TRASITORIO DEL “ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, POR EL QUE SE MODIFICAN EL REGLAMENTO INTERNO, EL ORGANIGRAMA Y LA ESTRUCTURA ORGÁNICA TODOS DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”].
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, POR EL QUE SE MODIFICAN EL REGLAMENTO INTERNO, EL ORGANIGRAMA Y LA ESTRUCTURA ORGÁNICA TODOS DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”].
 
 Único. Las presentes reformas y actualizaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 19 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. 5/2016-14, POR EL QUE SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- El presente acuerdo surte sus efectos a partir de la fecha de su suscripción.
+
+SEGUNDO.- Publíquese las presentes modificaciones en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
