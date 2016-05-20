@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-video-vigilancia-del-estado-de-baja-california-sur-10188
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-31"
-last_updated: "2014-07-31"
+last_updated: "2016-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de julio de 2014.
 
@@ -185,7 +185,9 @@ III.- Elaborar y expedir normas reglamentarias y manuales operativos a efecto de
 
 IV.- Ordenar la destrucción de las imágenes y sonidos obtenidos conjunta o separadamente por el sistema de video vigilancia que vulneren el derecho a la intimidad personal y familiar, al honor y a la propia imagen, a excepción de aquellas que por su contenido videográfico sean o puedan ser solicitadas por las instancias de procuración e impartición de justicia;
 
-V.- Recabar las grabaciones realizadas por las instituciones públicas de carácter estatal y municipal, así como de las empresas de seguridad privada o en poder de particulares cuando sean solicitadas por una autoridad competente;
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2016)</small>
+
+V.- Recabar y resguardar las grabaciones realizadas por las instituciones públicas de carácter estatal y municipal, así como de las empresas de seguridad privada o en poder de particulares en los términos previstos por esta Ley.
 
 VI.- Ordenar el retiro de sistemas tecnológicos de video vigilancia cuando a su juicio se vulneren derechos fundamentales de las personas; y
 
@@ -201,7 +203,9 @@ II.- Proteger el derecho a la intimidad personal y familiar; al honor y a la pro
 
 III.- La Comisión deberá rendir un informe cada tres meses ante el Consejo Estatal de Seguridad Pública en donde detallará de manera analítica e integral los trabajos desarrollados en el Estado en materia de video vigilancia;
 
-IV.- El presidente de la Comisión tendrá a su disposición en todo momento las grabaciones de imágenes con o sin sonidos, y tendrá la obligación que cuando le sea requerida alguna grabación que contenga información de algún hecho posiblemente constitutivo de delito, sea entregada de inmediato una copia provisional al Ministerio Público o a la autoridad judicial correspondiente; y
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2016)</small>
+
+IV.- Remitir de forma inmediata por conducto de su Presidente cuando le sea requerida por autoridad competente la grabación o grabaciones que contengan información de algún hecho posiblemente constitutivo de delito. El Presidente de la Comisión tendrá a su disposición en todo momento las grabaciones de imágenes con o sin sonidos, para cumplir con el cometido de la presente fracción; y
 
 V.- Las demás que señale la ley y su reglamento.
 
@@ -229,9 +233,15 @@ Las instituciones públicas de carácter estatal y municipal, así como las empr
 
 Los particulares que generen grabaciones, deberán emitir cuando se le solicite, un informe a la Comisión respecto del uso y utilización que se haga de las videocámaras fijas o móviles, quien podrá recabar en todo momento el soporte de las correspondientes grabaciones o cualquier información que considere conveniente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-Las grabaciones captadas mediante el sistema de video vigilancia de las instituciones públicas de carácter estatal y municipal, así como las empresas de seguridad privada y particulares serán almacenadas durante treinta días naturales por quien las capte y grabe, y serán enviadas a la autoridad competente para su resguardo en los términos del artículo 13 de esta ley, cuando éstas contengan material videográfico de algún hecho posiblemente delictivo o se encuentren relacionadas con investigaciones en materia de seguridad pública, infracciones administrativas o hechos sujetos a proceso judicial.
+Las grabaciones que contengan material videográfico de algún hecho posiblemente delictivo o se encuentren relacionadas con investigaciones en materia de seguridad pública, infracciones administrativas o hechos sujetos a proceso judicial, captadas mediante el sistema de video vigilancia de las instituciones públicas de carácter estatal y municipal, así como las empresas de seguridad privada y particulares serán almacenadas durante sesenta días naturales por quien las capte y grabe, y serán enviadas a la Comisión para su resguardo en los términos del artículo 13 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2016)</small>
+
+Con excepción a lo anterior, cuando las autoridades competentes en la investigación de delitos y las autoridades jurisdiccionales en materia penal, así lo determinen, podrán solicitar directamente a las instituciones públicas de carácter estatal y municipal, así como las empresas de seguridad privada y particulares, el material videográfico relacionado con algún hecho posiblemente delictuoso, quienes tendrán la obligación de remitirla de manera inmediata y sin dilación alguna. Lo anterior sin necesidad de mediar solicitud previa por conducto de la Comisión.
 
 ###### ARTÍCULO 20.
 
@@ -342,3 +352,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2348 SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 13, LA FRACCIÓN IV DEL ARTÍCULO 14, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 19, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
