@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2016-04-12"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE ABRIL DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 77 PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -181,9 +179,9 @@ VII.- Violación previsto por los artículos 180, 181, 182 y 184, así como en g
 
 VIII.- Abusos sexuales previsto en los párrafos segundo y tercero del artículo 187; y acoso y hostigamiento sexual previsto en el artículo 187-c.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2016)</small>
 
-IX.- Robo calificado previsto por el artículo 194 en relación con la fracción IV del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; así como el robo previsto en los artículos 191-b y 194-a, con independencia de la cuantía.
+IX.- Robo calificado previsto por el artículo 194 en relación con la fracción IV del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; así como el robo previsto en los artículos 191-b, 194-a, 194-b y 194-c, con independencia de la cuantía.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2453,21 +2451,23 @@ En los casos de robo calificado las sanciones correspondientes al robo simple se
 
 a.- A quien se apodere de una o más cabezas de ganado ajeno, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrá prisión de dos a ocho años y de veinte a ochenta días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2016)</small>
 
 ###### Artículo 194
 
-b.- Se impondrá prisión de uno a seis años y de diez a sesenta días multa, a quien:
+b.- Se impondrá prisión de uno a seis años y de diez a sesenta días multa, a quien a sabiendas de su origen ilícito:
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2016)</small>
 
-I.- A sabiendas de su origen ilícito, detente, posea, custodie, adquiera, venda, enajene, destace, comercialice, trafique, pignore, reciba, traslade, use, oculte o consuma ganado o productos o subproductos del mismo; y
+I. Posea, use o consuma ganado o productos o subproductos del mismo;
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2016)</small>
 
-II.- En su calidad de autoridad intervenga en las operaciones precisadas en la fracción que antecede, conociendo la procedencia ilícita del ganado, de sus productos o subproductos.
+II. Detente, custodie, adquiera, venda, destace, comercialice, trafique, pignore, reciba, traslade u oculte una o más cabezas de ganado o productos o subproductos del mismo, que sean de procedencia ilícita o sin el consentimiento de quien legalmente pueda disponer de ellas; o
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2016)</small>
+
+III. En su calidad de autoridad intervenga en las operaciones precisadas en las fracciones que anteceden.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2475,13 +2475,15 @@ II.- En su calidad de autoridad intervenga en las operaciones precisadas en la f
 
 Si el valor del ganado, sus productos o subproductos, es de cuando menos ciento cincuenta veces el salario mínimo, se aplicará de dos a diez años de prisión y de veinte a cien días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+Si en los actos mencionados participa algún servidor público en funciones relacionadas con la materia ganadera, además de las sanciones a que se refiere este artículo, se destituirá del cargo y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos, por un periodo igual al de prisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2016)</small>
 
 ###### Artículo 194
 
-c.- Se impondrá prisión de uno a cuatro años y multa de diez a cuarenta días, a quien:
+c.- Se impondrá prisión de uno a cinco años y multa de diez a cincuenta días, a quien:
 
 > <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -2491,13 +2493,17 @@ I.- Altere o elimine las marcas en animales vivos o pieles ajenas, sin estar fac
 
 II.- Marque, trasherre, señale o contraseñale animales ajenos, en cualquier parte, sin derecho para el efecto; o
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2016)</small>
 
-III.- Expida certificados falsos para obtener guías simulando ventas o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganado o cueros.
+III.- Expida certificados falsos para obtener visas, patentes, títulos, identificación o guías simulando ventas, o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados, guías de tránsito, visas ganaderas, patentes ganaderas, títulos de marca de herrar o identificaciones electrónicas falsificadas para cualquier negociación sobre ganado o productos o subproductos del mismo; o
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2016)</small>
 
-Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de verificación, certificación o expedición de documentación relacionada con la procedencia del ganado o cueros, además de las sanciones a que se refiere este artículo, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos, por un período igual al de prisión.
+IV.- Detente, posea, custodie o tramite de manera ilegítima la documentación con la que se acredite o pretenda acreditar la propiedad de una o más cabezas de ganado robadas, o aquellas marcadas, herradas o remarcadas sin derecho para tal efecto, o bien de productos o subproductos de las mismas.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2016)</small>
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de verificación, certificación o expedición de documentación relacionada con la procedencia del ganado o productos o subproductos del mismo, además de las sanciones a que se refiere este artículo, se le destituirá, del cargo y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos, por un período igual al de prisión.
 
 ###### Artículo 195.
 
@@ -4214,3 +4220,9 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 77, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE EMITE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; SE ADICIONA UN CAPÍTULO IV, AL TÍTULO CUARTO, SECCIÓN TERCERA, DEL LIBRO SEGUNDO DENOMINADO “DELITOS EN MATERIA DE TRANSPORTE PÚBLICO”, QUE SE INTEGRA POR EL ARTÍCULO 235 BIS, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; SE REFORMA Y ADICIONA A (SIC) LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Artículo del Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 92, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO Y DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
