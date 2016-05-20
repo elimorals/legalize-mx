@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-de-bienes-y-servicios-para-la-41693
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-25"
-last_updated: "1999-08-25"
+last_updated: "2016-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACION MUNICIPAL DE CD. BENITO JUAREZ, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACION MUNICIPAL
+REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACIÓN MUNICIPAL DE CD. BENITO JUÁREZ, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO NO. 09, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de agosto de 1999.
 
@@ -628,3 +630,13 @@ JUAN LUIS CARRION RAMIREZ
 C. SRIO. DEL R. AYUNTAMIENTO
 
 ADAN MENDOZA MORENO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MAYO DE 2016.
+
+> <small>[N. DE E. PUNTOS DEL ACUERDO NO. 9 POR EL QUE "SE APRUEBA Y AUTORIZA LA ABROGACIÓN DEL REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACIÓN MUNICIPAL".]</small>
+
+PRIMERO: El R. Ayuntamiento de Juárez, Nuevo León, en base a sus atribuciones establecidas en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, artículos 118 de la Constitución Política del Estado Libre y Soberano de Nuevo León, con fundamento en lo dispuesto en el artículo 64, 65, 66, 222, 223 y demás relativos de la Ley de Gobierno Municipal del Estado de Nuevo León, así como el artículo 91 del Reglamento Interior del R. Ayuntamiento de Juárez Nuevo León, aprueba y autoriza la abrogación del REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACIÓN MUNICIPAL.
+
+SEGUNDO: Gírense las instrucciones a la Secretaría del Ayuntamiento para que por su conducto se publique el presente acuerdo en el Periódico Oficial del Estado y en la Gaceta Municipal, a fin de que surtan los efectos legales a que haya lugar.
