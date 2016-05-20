@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-acceso-a-la-informacion-publica-45264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-03"
-last_updated: "2005-06-03"
+last_updated: "2016-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE YUCATAN, RESPECTO DEL PODER EJECUTIVO
 
-REGLAMENTO DE LA LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE YUCATAN, RESPECTO DEL PODER EJECUTIVO
+REGLAMENTO DE LA LEY DE ACCESO A LA INFORMACIÓN PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE YUCATÁN, RESPECTO DEL PODER EJECUTIVO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO 390/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE TRANSPARENCIA, PUBLICADO EN EL D.O. DE 20 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el viernes 3 de junio de 2005.
 
@@ -558,3 +560,21 @@ EL SECRETARIO DE LA CONTRALORÍA GENERAL DEL ESTADO
 (RÚBRICA)
 
 C.P. JORGE ADRIÁN CEBALLOS ANCONA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 390/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE TRANSPARENCIA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de reglamento
+
+Se abroga el Decreto 596/2005 por el que se expide el Reglamento de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, respecto del Poder Ejecutivo, publicado en el diario oficial del estado el 3 de junio de 2005.
+
+Tercero. Obligación normativa
+
+Los titulares de las dependencias y los órganos de gobierno de las entidades de la Administración Pública estatal deberán expedir el acuerdo por el que se designa a la unidad de transparencia y se regula el comité de transparencia, dentro del plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
