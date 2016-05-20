@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-control-de-la-calidad-ambiental-del-13639"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-29"
-last_updated: "2015-12-28"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 1999.
 
@@ -156,7 +158,7 @@ XXXVII.- RELLENO SANITARIO.- Obra de ingeniería para la disposición final de r
 
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XXXVIII.-CENTRO DE ACOPIO.- Lugar autorizado por la autoridad municipal para la recepción de residuos de manejos (sic) especial para su comercialización y posterior reciclaje
+XXXVIII.- CENTRO DE ACOPIO.- Lugar autorizado por la autoridad municipal para la recepción de residuos de manejos (sic) especial para su comercialización y posterior reciclaje
 
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -1006,11 +1008,17 @@ V.- Cuando por algún motivo, la Dirección lo considere conveniente.
 
 Artículo 100 BIS.- La realización de actividades o la operación y funcionamiento de establecimientos comerciales, servicio o en zona industrial de competencia de las autoridades locales, que se efectúen dentro del territorio municipal, sin perjuicio del cumplimiento y observancia de las disposiciones legales de cualquier autoridad o dependencia, en los niveles de gobierno federal, estatal o municipal se deberán designar el 3% de área verdes en el área libre de construcción. En cuanto a áreas de estacionamiento deberá plantar un árbol de alguna especie nativa, por cada dos cajones, cuando el acomodo sea lineal, y un árbol de alguna especie nativa cada cuatro cajones cuando el acomodo esté encontrado y en doble línea.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2016)</small>
+
+Artículo 100 TER.- La realización de actividades o la operación y funcionamiento de conjuntos comerciales, donde se encuentren establecimientos comerciales y/o de servicio o en zona industrial de competencia de las autoridades locales, se deberá observar que cuenten con un cajón exclusivo de estacionamiento o de resguardo de bicicletas por cada diez para automóviles.
+
+En caso de contar con menos de diez cajones destinados para estacionamiento de automóviles se deberá asignar por lo menos un espacio para bicicletas.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2016)</small>
 
 ###### Artículo 101.
 
-Para obtener la autorización a que se refiere el artículo anterior, los interesados presentarán ante la Dirección la solicitud correspondiente, la cual practicará una inspección y dictaminará lo conducente.
+Para obtener la autorización a que se refieren el artículo 100, los interesados presentarán ante la Dirección la solicitud correspondiente, la cual practicará una inspección y dictaminará lo conducente.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -1833,3 +1841,15 @@ P.O. 28 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS REGLAMENTOS PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN, CONTROL DE LA CALIDAD AMBIENTAL Y AL ARTÍCULO 26 DEL BANDO DE POLICÍA Y BUEN GOBIERNO, TODOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente a su publicacón (sic) en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 012/2016, RELATIVO A ADICIONAR EL ARTÍCULO 100 TER Y REFORMAR EL ARTÍCULO 101 DEL REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+PRIMERO.- La reforma contenida en el artículo 100 ter solo tendrá aplicación para aquellos establecimientos que refieren en el mismo numeral que sean construidos a la entrada en vigor de la presente reforma.
+
+SEGUNDO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
+
+SEGUNDO.- Túrnese a la Secretaria General para los trámites y efectos legales a que haya lugar.
+
+TERCERO.- Cúmplase.
