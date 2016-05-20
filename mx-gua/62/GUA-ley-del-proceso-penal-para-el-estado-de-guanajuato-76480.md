@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2015-07-07"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO NÚMERO 192, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE INCORPORA AL RÉGIMEN JURÍDICO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES QUE ENTRARÁ EN VIGOR DE MANERA INTEGRAL EN EL ESTADO DE GUANAJUATO, A PARTIR DEL DÍA 1 DE JUNIO DE 2016, Y SEGUIRÁ RIGIENDO PARA LOS ACTOS COMETIDOS Y LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA VIGENCIA DEL CITADO CÓDIGO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -1749,7 +1749,9 @@ I. En las conductas que puedan constituir delitos de querella;
 
 II. En las conductas que puedan constituir delitos que se persiguen de oficio, cuya punibilidad máxima no sea superior a cinco años de prisión;
 
-III. En las conductas que puedan constituir delitos de contenido patrimonial que se hayan cometido sin violencia sobre las personas o fuerza sobre las cosas, aun cuando la punibilidad sea mayor de cinco años; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2016)</small>
+
+III. En las conductas que puedan constituir delitos de contenido patrimonial que se hayan cometido sin violencia sobre las personas o fuerza sobre las cosas, aun cuando la punibilidad sea mayor de cinco años, salvo cuando se trate de delitos graves así clasificados por la ley; y
 
 IV. En las conductas no comprendidas en las fracciones anteriores, cuando haya solicitud expresa del inculpado, pero en este caso, el acuerdo restaurativo no extingue la acción penal ni genera el sobreseimiento, ya que el efecto del acuerdo se limita a la posibilidad de obtener algunos beneficios procesales, a la disminución de la pena o a la ejecución de la sanción.
 
@@ -2105,7 +2107,13 @@ IX. La probabilidad de que destruya, modifique, oculte o falsifique datos o medi
 
 X. Su comportamiento pueda generar peligro para la salud, tranquilidad o seguridad de la víctima o el ofendido, sus familiares o testigos, según las circunstancias del hecho, la gravedad del mismo o sus resultados; y
 
-XI. La influencia que pudiera ejercer para que coinculpados, testigos, o peritos informen falsamente o se comporten de manera reticente o pudiera inducir a otros a realizar tales comportamientos.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2016)</small>
+
+XI. La influencia que pudiera ejercer para que coinculpados, testigos, o peritos informen falsamente o se comporten de manera reticente o pudiera inducir a otros a realizar tales comportamientos; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2016)</small>
+
+XII. La gravedad de la conducta cometida.
 
 Terminación de la prisión preventiva
 
@@ -5854,5 +5862,11 @@ P.O. 28 DE NOVIEMBRE DE 2014.
 Artículo Único. El presente Artículo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 7 DE JULIO DE 2015.
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 92, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO Y DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
