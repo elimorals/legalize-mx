@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2015-12-22"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -233,11 +233,7 @@ El Gobernador del Estado hará la declaratoria correspondiente en cada caso espe
 
 No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el inculpado lo cometió o participó en su comisión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-La audiencia para orden de aprehensión, que por cualquier medio solicite el Ministerio Público, se resolverá dentro de un plazo máximo de veinticuatro horas siguientes de recibida la solicitud, en la que se emitirá resolución.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE MAYO DE 2016)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2955,7 +2951,7 @@ El Secretario General del Despacho.
 
 Lic. Francisco Espinosa.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.]</small>
 
 P.O. 23 DE MARZO DE 1919.
 
@@ -3786,3 +3782,15 @@ Artículo Primero. El presente decreto entrará en vigor el día siguiente al de
 Artículo Segundo. La reforma que por virtud del presente Decreto se hace al artículo 66, primer párrafo, en cuanto a los principios que se establecen en el mismo, estará supeditada en su vigencia a lo dispuesto en el Artículo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación con fecha 27 de mayo de 2015, por lo que en tanto se seguirán vigentes los principios establecidos en dicho numeral para la función de fiscalización.
 
 Artículo Tercero. Todas las referencias al Órgano de Fiscalización Superior, se entenderán hechas a la Auditoría Superior del Estado de Guanajuato.
+
+P.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6, RECORRIENDO EN SU ORDEN LOS ACTUALES PÁRRAFOS TERCERO A DÉCIMO TERCERO, COMO SEGUNDO A DÉCIMO SEGUNDO, RESPECTIVAMENTE DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Inicio de vigencia para la armonización con el C.N.P.P.
+
+Artículo Segundo. La adición del párrafo tercero contenido en el decreto número 10 publicado en el Periódico Oficial de Gobierno del Estado de Guanajuato del 1 de diciembre de 2015, ahora párrafo segundo del artículo 6, del presente dictamen entrará en vigencia el 1 de junio de 2016.
