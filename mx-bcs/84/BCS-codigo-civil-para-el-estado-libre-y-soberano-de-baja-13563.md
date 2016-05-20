@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2015-03-31"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2016.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -10675,9 +10675,11 @@ Si la cosa enajenada pereciere o mudare de naturaleza a consecuencia de los vici
 
 Si el enajenante no conocía los vicios, solamente deberá restituir el precio y abonar los gastos del contrato, en el caso de que el adquirente los haya pagado.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2016)</small>
+
 ###### Artículo 2055.
 
-Las acciones que nacen de lo dispuesto en los artículos 2048 al 2054 se extinguen a los seis meses, contados desde la entrega del bien enajenado, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2044 y 2045.
+Las acciones que nacen de lo dispuesto en los artículos 2048 al 2054 se extinguen a los dos años tratándose de bienes inmuebles, y a los seis meses tratándose de bienes muebles, contados a partir de la entrega del bien enajenado, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2044 y 2045.
 
 ###### Artículo 2056.
 
@@ -15614,3 +15616,11 @@ B.O. 31 DE MARZO DE 2015
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El presente decreto no se aplicara en forma retroactiva en perjuicio de persona alguna, ni en perjuicio de quienes hayan celebrado la constitución de contratos de crédito de mutuo con interés y garantía hipotecaria o contrato de créditos con garantía hipotecaria de vivienda en cualesquiera de sus modalidades otorgados por los institutos de seguridad social a sus derechohabientes en fecha anterior a la entrada en vigor del presente Decreto.
+
+B.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2349 SE REFORMA EL ARTÍCULO 2055 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
