@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2016-04-30"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRARÁ EN VIGOR CIENTO VEINTE DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2016.
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2016.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1969,6 +1965,8 @@ Los delitos previstos en este Capítulo se perseguirán por querella.
 
 ### CAPÍTULO VII. DESPOJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 2016)</small>
+
 ###### Artículo 221.
 
 Revelación de secreto. A quien sin consentimiento de quien tenga derecho a otorgarlo y en perjuicio de cualquier persona, revele un secreto o comunicación reservada, que por cualquier forma haya conocido o se le haya confiado o lo emplee en provecho propio o ajeno, se le impondrán (sic) multa de cincuenta a doscientos días o de cien a doscientos días de trabajo a favor de la comunidad.
@@ -2225,7 +2223,7 @@ III. Además de las penas señaladas en el artículo anterior, se impondrán de 
 
 ###### Artículo 247.
 
-Despojo. Se impondrán de tres a seis años de prisión y de cien a seiscientos días multa, a quien:
+Despojo. Se impondrán de cuatro a siete años de prisión y de cien a seiscientos días multa, a quien:
 
 I. De propia autoridad, ocupe un inmueble ajeno, haga uso de éste o de un derecho real que no le pertenezca;
 
@@ -3570,5 +3568,13 @@ B.O. 30 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2339 SE DEROGA EL CAPÍTULO II DEL TÍTULO DÉCIMO NOVENO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2350 SE REFORMA EL ARTÍCULO 247 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
