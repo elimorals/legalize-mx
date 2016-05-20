@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2013-07-17"
+last_updated: "2016-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -1454,3 +1456,11 @@ P.O. 17 DE JULIO DE 2013.
 PRIMERO: La presente reforma al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO: Gírese el presente al Presidente Municipal, para que instruya al Secretario de Ayuntamiento para que remita el acuerdo para su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBAN Y AUTORIZA EL "REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN".]
+
+Primero.- Se abroga el Reglamento Interior del Republicano Ayuntamiento de Guadalupe, N.L., aprobado en Sesión Extraordinaria de fecha 13 de mayo de 1999, consignada en el Acta No 57; y todas sus reformas; en consecuencia se emite el Reglamento de Gobierno Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León.
+
+Segundo.- El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
