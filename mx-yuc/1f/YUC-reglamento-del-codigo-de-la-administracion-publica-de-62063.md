@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2016-03-29"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE MAYO DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -81,13 +81,13 @@ XIII. Secretario o Titular: cada uno de los titulares de las dependencias enlist
 
 XIV. Subsecretarios: los subsecretarios de las Secretarías, General de Gobierno, y de Seguridad Pública;
 
-> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O. 20 DE MAYO DE 2016)</small>
 
 ###### Artículo 3 Bis.
 
-Las dependencias y entidades de la Administración Pública estatal tendrán un enlace con la Unidad de Acceso a la Información Pública del Poder Ejecutivo, con las atribuciones establecidas en la ley de la materia y en las demás disposiciones legales aplicables.
+Las dependencias y entidades de la Administración Pública estatal contarán con una unidad de transparencia, que tendrá las atribuciones establecidas en el artículo 60 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán y las demás establecidas en las leyes general y estatal de transparencia y acceso a la información y otras disposiciones legales aplicables.
 
-El enlace a que se refiere el párrafo anterior será el titular de la unidad administrativa que establezca este reglamento, para el caso de las dependencias, y el que establezca el estatuto orgánico, para el caso de las entidades. A falta de disposición expresa, los titulares de las unidades jurídicas fungirán como enlaces y, en caso de inexistencia de estas unidades, esta función estará a cargo de la unidad administrativa responsable de la administración de la dependencia o entidad.
+Para efectos de lo establecido en el párrafo anterior, fungirá como titular de la unidad (sic) transparencia, el titular de la unidad administrativa que determine el titular de la dependencia o el órgano de gobierno de la entidad, según se trate, mediante acuerdo publicado en el diario oficial del estado. A falta de disposición expresa, los titulares de las unidades jurídicas fungirán como titulares de las unidades de transparencia y, en caso de inexistencia de estas unidades, esta función estará a cargo de la unidad administrativa responsable de la administración de la dependencia o entidad.
 
 # LIBRO PRIMERO. PARTE GENERAL
 
@@ -2449,11 +2449,11 @@ III. Dar seguimiento a la aplicación de los criterios jurídicos que emita la C
 
 IV. Revisar los oficios en los cuales se instruya a los Secretarios de Actas para que convoquen a sesiones de las juntas de gobierno o sus equivalentes, en los casos en que el Gobernador del Estado las presida;
 
-V. Revisar, a solicitud de los Secretarios de Actas, los proyectos de actas de las sesiones de las juntas de gobierno o sus equivalentes, de conformidad con lo dispuesto en este Reglamento, y
+> <small>(REFORMADA, D.O. 20 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADA, D.O. 18 DE FEBRERO DE 2016)</small>
+V. Revisar, a solicitud de los secretarios de actas, los proyectos de actas de las sesiones de las juntas de gobierno o sus equivalentes, de conformidad con lo dispuesto en este reglamento;
 
-VI. Ser enlace de la Consejería Jurídica ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo.
+VI. (DEROGADA, D.O. 20 DE MAYO DE 2016)
 
 VII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
@@ -7807,9 +7807,7 @@ IV. Elaborar y evaluar el programa operativo anual de esta Secretaría, en coord
 
 V. Proveer de información para la planificación integral de los destinos, regiones, circuitos y sitios turísticos del Estado, en función de lo establecido en el Plan Estatal de Desarrollo y el Programa Sectorial correspondiente;
 
-> <small>(ADICIONADA, D.O. 18 DE FEBRERO DE 2016)</small>
-
-VI. Ser enlace de la Secretaría de Fomento Turístico ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo.
+VI. (DEROGADA, D.O. 20 DE MAYO DE 2016)
 
 VII. Generar y difundir las estadísticas y la información básica del sector turismo, en apoyo al monitoreo de la actividad, la toma de decisiones y los procesos de planeación turística;
 
@@ -9287,9 +9285,9 @@ a) Jefe del Departamento de Contabilidad.
 
 b) Jefe del Departamento de Informática.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 20 DE MAYO DE 2016)</small>
 
-Además esta Secretaría contará con la Unidad de Acceso a la Información Pública y con el Instituto Estatal de Combate a la Corrupción los cuales tendrán el carácter de Órganos Desconcentrados.
+Además, esta secretaría contará con la Coordinación General de Transparencia y Acceso a la Información Pública y con el Instituto Estatal de Combate a la Corrupción, los cuales tendrán el carácter de órganos desconcentrados.
 
 ###### Artículo 525.
 
@@ -9779,7 +9777,9 @@ XXIII. Revisar y dictaminar cuando se le solicite respecto a los aspectos juríd
 
 XXIV. Proponer los criterios en la resolución de procedimientos y recursos administrativos de su competencia;
 
-XXV. Instruir los recursos de revocación y demás procedimientos administrativos que le corresponda conocer, derivados de los procedimientos de responsabilidades y de las materias de adquisiciones u obras públicas, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas de esta Secretaría o de la Unidad de Acceso a la Información Pública;
+> <small>(REFORMADA, D.O. 20 DE MAYO DE 2016)</small>
+
+XXV. Instruir los recursos de revocación y demás procedimientos administrativos que le corresponda conocer, derivados de los procedimientos de responsabilidades y de las materias de adquisiciones u obras públicas, de acuerdo con las disposiciones legales vigentes, con excepción de aquellos que sean de la competencia de otras unidades administrativas de esta secretaría;
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -10111,7 +10111,9 @@ VIII. Formular y proponer a su superior jerárquico, conforme a los lineamientos
 
 IX. Controlar las intervenciones en las que los órganos de control interno participen en cambios de titulares de unidades administrativas obligadas conforme a la normatividad aplicable y en su caso intervenir, por orden del Secretario o de su superior, en cambio de titulares de las dependencias, para efecto de dar fe del acto de entrega y recepción establecido;
 
-X. Establecer los criterios y formatos necesarios para el eficiente desempeño apropiado de la Dirección, así como proporcionar los resultados de las evaluaciones de las actividades de la Dirección que le soliciten sus superiores, la Unidad de Acceso a la Información, la Dirección de Administración o la unidad administrativa que tenga competencia para ello;
+> <small>(REFORMADA, D.O. 20 DE MAYO DE 2016)</small>
+
+X. Establecer los criterios y formatos necesarios para el eficiente desempeño apropiado de la dirección, así como proporcionar los resultados de las evaluaciones de las actividades de la dirección que le soliciten sus superiores, la dirección de administración o la unidad administrativa que tenga competencia para ello;
 
 > <small>(REFORMADA, D.O. 29 DE MARZO DE 2016)</small>
 
@@ -10345,7 +10347,7 @@ XXXI. Desarrollar, de manera individual o coordinada con la unidad administrativ
 
 XXXII. Elaborar y remitir a su superior jerárquico la propuesta del programa anual de trabajo de la dirección a su cargo, para su aprobación, así como informarle sobre sus avances y los de las demás actividades que desempeñe en el ámbito de su competencia;
 
-XXXIII. Fungir como enlace respecto a las solicitudes de información pública que se hagan a la contraloría;
+XXXIII. (DEROGADA, D.O. 20 DE MAYO DE 2016)
 
 XXXIV. Solicitar la información y la documentación que considere pertinente a los órganos de control interno y las demás unidades administrativas de la contraloría, así como a las dependencias y entidades de la Administración Pública estatal, a fin de allegarse de elementos tendientes al despacho de los asuntos de su competencia;
 
@@ -10385,7 +10387,7 @@ XII. Mantener actualizada la normativa estatal de la Dirección de Asuntos Jurí
 
 XIII. Emitir opinión a su superior jerárquico respecto a los anteproyectos de reglamentos interiores, manuales de organización y demás disposiciones legales que correspondan en el ámbito de su competencia;
 
-XIV. Coadyuvar con su superior jerárquico en la tramitación de las solicitudes de acceso a la información que le correspondan hasta que estén debidamente atendidas, coordinándose con las demás unidades administrativas que pudieran tener la información solicitada;
+XIV. (DEROGADA, D.O. 20 DE MAYO DE 2016)
 
 XV. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de los reportes estadísticos y de resultados que le correspondan, y
 
@@ -10421,7 +10423,7 @@ XI. Emitir opinión a su superior jerárquico respecto a los anteproyectos de re
 
 XII. Coadyuvar con su superior jerárquico en la investigación de actos, omisiones o conductas de personas que ejerzan o hayan ejercido funciones como servidores públicos adscritos a entidades que pudieran constituir responsabilidades administrativas;
 
-XIII. Coadyuvar con su superior jerárquico en la tramitación de las solicitudes de acceso a la información que le correspondan hasta que estén debidamente atendidas, coordinándose con las demás unidades administrativas que pudieran tener la información solicitada;
+XIII. (DEROGADA, D.O. 20 DE MAYO DE 2016)
 
 XIV. Asistir a su superior jerárquico en la elaboración de los programas presupuestarios y de los reportes estadísticos y de resultados que le correspondan, y
 
@@ -10713,7 +10715,7 @@ VII. Las demás que le confieran este Reglamento y otras disposiciones legales a
 
 ###### Artículo 552.
 
-Al Director General de la Unidad de Acceso a la Información Pública del Poder Ejecutivo del Estado le corresponde el despacho de los asuntos que le encomiendan la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, su Reglamento, el Decreto de Creación de la Unidad, este Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 20 DE MAYO DE 2016)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE FEBRERO DE 2016)</small>
 
@@ -11013,7 +11015,7 @@ XIX. Coordinar el diseño, programación y operación de los servicios informát
 
 XX. Proveer lo necesario para la conservación y mantenimiento de los inmuebles destinados a esta secretaría y para la organización de sus eventos, así como para la contratación de servicios, y suscribir los contratos que sean necesarios para estos fines;
 
-XXI. Fungir como enlace con la Unidad de Acceso a la Información Pública del Poder Ejecutivo con las atribuciones establecidas en la ley de la materia y en las demás disposiciones legales aplicables, y
+XXI. (DEROGADA, D.O. 20 DE MAYO DE 2016)
 
 XXII. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
 
@@ -12269,11 +12271,9 @@ En caso de no recibirse observaciones por parte de los miembros del Órgano de G
 
 Las actas deberán estar foliadas y serán firmadas en todas las páginas de manera autógrafa por los integrantes del Órgano de Gobierno.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 637.
 
-Las actas de las sesiones serán clasificadas por el Secretario de Actas y Acuerdos, de conformidad con lo previsto en la Ley de Acceso a la Información Pública para el Estado y Municipios de Yucatán y, en su caso, en los términos de las disposiciones legales aplicables.
+(DEROGADO, D.O. 20 DE MAYO DE 2016)
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -12856,3 +12856,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 20 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 390/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE TRANSPARENCIA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación de reglamento
+
+Se abroga el Decreto 596/2005 por el que se expide el Reglamento de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, respecto del Poder Ejecutivo, publicado en el diario oficial del estado el 3 de junio de 2005.
+
+Tercero. Obligación normativa
+
+Los titulares de las dependencias y los órganos de gobierno de las entidades de la Administración Pública estatal deberán expedir el acuerdo por el que se designa a la unidad de transparencia y se regula el comité de transparencia, dentro del plazo de treinta días naturales contado a partir de la entrada en vigor de este decreto.
