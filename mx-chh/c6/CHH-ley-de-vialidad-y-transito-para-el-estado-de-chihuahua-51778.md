@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2015-11-14"
+last_updated: "2016-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -325,7 +325,11 @@ a) Conocer las infracciones cometidas a esta Ley y sus reglamentos, y dictar las
 
 b) Ejercer funciones de conciliación, cuando por motivo de las faltas a la presente Ley o su reglamento, se causen daños y los interesados estén de acuerdo en someterse a su decisión, siempre y cuando no se trate de la comisión de un delito que se persiga de oficio.
 
-c) Poner a disposición de las autoridades competentes a los detenidos, cuando se trate de la comisión de un delito.
+(NOTA: EL 8 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO C) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MAYO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2016)</small>
+
+c) Poner a disposición de las autoridades competentes a los detenidos, cuando se trate de la comisión de un delito, SALVO LOS CASOS PREVISTOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO 93 DE ESTA LEY.
 
 d) Auxiliar al Director de Vialidad, al Presidente Municipal, o al delegado para la ratificación, reducción y condonación de las multas a que se hagan acreedores los infractores de este ordenamiento, conforme al procedimiento señalado.
 
@@ -1263,7 +1267,17 @@ La audiencia deberá de ser en todos lo (sic) casos pública, oral y continua, b
 
 Cuando una infracción a la Ley de Tránsito o sus reglamentos amerite la detención del conductor, el oficial de tránsito presentará al probable infractor ante el oficial calificador, debiendo justificar la causa de la detención.
 
-Presente el infractor ante el oficial calificador, si éste advierte que los hechos pueden ser constitutivos de un delito, se abstendrá de conocer el asunto y pondrá al infractor con las constancias y elementos de prueba correspondientes a disposición del Agente del Ministerio Público para que ejercite la acción penal correspondiente.
+(NOTA: EL 8 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MAYO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2016)</small>
+
+LA AUTORIDAD NO EFECTUARÁ LA DETENCIÓN EN FLAGRANCIA DEL IMPUTADO QUE COMETA DAÑOS IMPRUDENCIALES CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS, CUANDO ESTE LE DEMUESTRE LA EXISTENCIA DE UNA PÓLIZA DE SEGURO VIGENTE QUE AMPARE LA REPARACIÓN DEL DAÑO DERIVADA DE LOS HECHOS.
+
+(NOTA: EL 8 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MAYO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2016)</small>
+
+Presente el infractor ante el oficial calificador, si este advierte que los hechos pueden ser constitutivos de un delito, se abstendrá de conocer el asunto y pondrá al infractor con las constancias y elementos de prueba correspondientes a disposición del Agente del Ministerio Público PARA QUE EJERCITE LA ACCIÓN PENAL CORRESPONDIENTE, SALVO QUE CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS SE COMETAN IMPRUDENCIALMENTE DAÑOS O LESIONES DE LAS PREVISTAS EN LAS FRACCIONES I Y II DEL ARTÍCULO 129 DEL CÓDIGO PENAL DEL ESTADO, SIEMPRE QUE EL IMPUTADO DEMUESTRE LA EXISTENCIA DE UNA PÓLIZA DE SEGURO QUE AMPARE LA REPARACIÓN DEL DAÑO DERIVADA DE LOS HECHOS Y QUE, ADEMÁS, TRATÁNDOSE DE LAS LESIONES, LA AUTORIDAD CUENTE CON UN CERTIFICADO MÉDICO QUE LAS CLASIFIQUE EN ALGUNO DE LOS SUPUESTOS ANTES MENCIONADOS.
 
 Si los hechos no se consideran delictuosos, se procederá conforme a lo siguiente:
 
@@ -1780,6 +1794,14 @@ P.O. 7 DE FEBRERO DE 2015.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1054/2015 I P.O., MEDIANTE EL CUAL SE REFORMA EL INCISO C) DEL ARTÍCULO 17, Y SE ADICIONA AL ARTÍCULO 93 UN SEGUNDO PÁRRAFO, RECORRIENDO SU CONTENIDO ACTUAL A UN TERCER PÁRRAFO, MISMO QUE SE REFORMA, RECORRIENDO LOS PÁRRAFOS SUBSECUENTES, AMBOS DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
