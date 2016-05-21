@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2013-11-14"
+last_updated: "2016-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2016.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -99,7 +99,9 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas concepciones en materia de igualdad, equidad y derechos humanos, dando prioridad a los temas relacionados con la mujer por considerase un grupo vulnerable de la población;
 
-II. Alerta de Violencia de Género: Conjunto de acciones gubernamentales de emergencia, derivadas de la declaratoria emitida por la autoridad competente, para enfrentar y erradicar la violencia feminicida en un territorio determinado;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+II. Alerta de Violencia de Género: Conjunto de acciones gubernamentales de emergencia, derivadas de la declaratoria emitida por la autoridad competente, para enfrentar y erradicar la violencia feminicida en un territorio determinado, ejercida por individuos o por comunidades;
 
 III. Atención: Es el conjunto de servicios especializados, integrales y gratuitos proporcionados por las instancias gubernamentales a cualquier víctima de violencia, a sus hijas e hijos y cuya finalidad es el fortalecimiento del ejercicio pleno de los derechos humanos de las mujeres y su empoderamiento;
 
@@ -219,7 +221,9 @@ VIII (SIC). Las establecidas en esta Ley, su reglamento y demás disposiciones a
 
 Se entiende por violencia laboral o escolar lo siguiente:
 
-I. Por violencia laboral: La negativa sin fundamento legal o estatutario para contratar a la víctima para trabajar; así como las acciones de descalificación del trabajo realizado, amenazas, intimidación, humillaciones, explotación irracional de la jornada laboral y todo tipo de discriminación que se le hagan a las mujeres en los centros de trabajo por sus condiciones de género, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+I. Por violencia laboral: La negativa sin fundamento legal o estatutario para contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; así como las acciones de descalificación del trabajo realizado, amenazas, intimidación, humillaciones, explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la Ley y todo tipo de discriminación que se le hagan a las mujeres en los centros de trabajo por su condición de género, y
 
 II. Por violencia escolar: Las conductas que dañan la autoestima de las alumnas y los alumnos con actos de discriminación por su sexo, edad, condición social, condición étnica, condición académica, limitaciones y/o características físicas, que les infligen maestras o maestros, personal directivo, administrativo, técnico, de intendencia o cualquier persona prestadora de servicios en las instituciones educativas.
 
@@ -259,9 +263,17 @@ El Estado y sus municipios deben de establecer mecanismos institucionales que te
 
 I. La educación y la reeducación para eliminar los estereotipos que establecen como desiguales a los hombres y a las mujeres socialmente;
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos, de comunidades, o de la sociedad, contra las mujeres;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias. Será obligatorio para las autoridades competentes, proporcionar los datos necesarios para la alimentación de este banco de datos en términos de lo que establecen la presente Ley y su Reglamento; así como los que señale, en su caso, la Ley General; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2016)</small>
+
+IV. Implementar políticas públicas tendientes a garantizar espacios públicos libres de violencia.
 
 #### SECCIÓN QUINTA. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
@@ -287,9 +299,11 @@ III. La aplicación de la Perspectiva de Género.
 
 Para efectos de esta Ley, deberá entenderse por Violencia Feminicida: La forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2016)</small>
+
 ###### Artículo 21.
 
-Cuando se presenten casos de violencia feminicida, el estado y los municipios dispondrán de las medidas que sean adecuadas para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar el inminente peligro en el que se encuentren; sin perjuicio de que el Poder Ejecutivo del Estado solicite una Declaratoria de Alerta de Violencia de Género, a través del Instituto, al Gobierno Federal por conducto de la Secretaría de Gobernación; en este último caso coadyuvará con este en las acciones que para atender la situación de violencia se implementen
+Cuando se presenten casos de violencia feminicida, el estado y los municipios dispondrán de las medidas que sean adecuadas para garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar el inminente peligro en el que se encuentren; sin perjuicio de que; la Comisión Nacional de los Derechos Humanos, la Comisión Estatal de Derechos Humanos, los organismos de la sociedad civil y/o los organismos internacionales, soliciten una Declaratoria de Alerta de Violencia de Género, al Gobierno Federal por conducto de la Secretaría de Gobernación; en cuyo caso tanto el solicitante como las autoridades estatales, municipales y organismos autónomos, conforme a sus respectivas competencias, coadyuvarán en las acciones que para atender la situación de violencia se implementen.
 
 ###### Artículo 22.
 
@@ -306,6 +320,18 @@ IV. Asignar recursos presupuestales para hacer frente a la contingencia de Alert
 V. Hacer del conocimiento público el motivo de las acciones y medidas implementadas y la zona territorial que abarcan; y
 
 VI. Demás que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2016)</small>
+
+###### Artículo 22 Bis.
+
+La declaratoria de alerta de violencia de género contra las mujeres, se emitirá cuando:
+
+I.- Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame;
+
+II.- Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres; y
+
+III.- La Comisión Nacional de los Derechos Humanos, la Comisión Estatal de Derechos Humanos, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten.
 
 ###### Artículo 23.
 
@@ -333,9 +359,13 @@ Las órdenes de protección son actos de protección y de urgente aplicación en
 
 Las órdenes de protección establecidas en la presente Ley son personalísimas e intransferibles y se clasifican en:
 
-I. De emergencia; se entenderá por tales las emitidas en términos de esta ley por el Agente del Ministerio Publico competente, en un plazo no mayor de 24 horas siguientes al conocimiento de los hechos que las generan y hasta por 72 horas, cuando conozca de la probable comisión de un delito de violencia familiar;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-II. Preventivas: se entenderá por tales las emitidas en términos de esta ley por la Autoridad Judicial competente, en un plazo no mayor a 5 días naturales contados a partir de que tenga conocimiento de los hechos que las generan en un proceso jurisdiccional que se tramite ante ella o a partir de que sean solicitadas por el Agente del Ministerio Público, según sea el caso, y tendrán una duración de hasta tres meses; y
+I. De emergencia: se entenderá por tales las emitidas en términos de esta Ley por el Fiscal del Ministerio Público competente, en un plazo no mayor de 8 horas siguientes al conocimiento de los hechos que las generan y hasta por 72 horas, cuando conozca de la probable comisión de un delito de violencia familiar;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+II. Preventivas: se entenderá por tales las emitidas en términos de esta Ley por la Autoridad Judicial competente, en un plazo no mayor de 72 horas y deberá expedirse dentro de las 8 horas siguientes contadas a partir de que tenga conocimiento de los hechos que las generan en un proceso jurisdiccional que se tramite ante ella o a partir de que sean solicitadas por el Fiscal del Ministerio Público, según sea el caso; y
 
 III. De naturaleza civil: se entenderá por tales las emitidas en términos de esta ley y los Códigos Civil y de Procedimientos Civiles para el Estado de Tabasco por la Autoridad Judicial competente, dentro de un proceso jurisdiccional que se tramite ante ella y durarán hasta que dicte sentencia.
 
@@ -345,23 +375,37 @@ Las ordenes de protección de emergencia, preventivas y civiles se concederán d
 
 Son órdenes de protección de emergencia las siguientes:
 
-I. Desocupación temporal por la persona agresora del domicilio, o donde habite la víctima, que se salvaguarde su seguridad y la de sus hijos en su caso;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+I. Desocupación inmediata por la persona agresora del domicilio, o donde habite la víctima, que se salvaguarde su seguridad y la de sus hijos en su caso;
 
 II. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad;
 
-III. Prohibición de molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+III. Prohibición de molestar o intimidar a la víctima en su entorno social, así como a cualquier integrante de su familia;
 
 IV. Facilitar el acceso de la víctima al domicilio en común, con- auxilio de autoridades policíacas, para que aquélla tome sus objetos de uso personal, documentos de identidad u otros importantes de su propiedad y de sus hijas e hijos;
 
-V. Ingreso de la autoridad policíaca en el domicilio de la víctima en caso de flagrancia; o
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-VI. Advertir a la persona agresora de las consecuencias a que se hará acreedora de acercarse a la víctima o intentar cualquier acto en su contra.
+V. Ingreso de la autoridad policíaca en el domicilio de la víctima en caso de flagrancia;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+VI. Advertir a la persona agresora de las consecuencias a que se hará acreedora de acercarse a la víctima o intentar cualquier acto en su contra; o
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2016)</small>
+
+VII. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima.
 
 ###### Artículo 27.
 
 Son Órdenes de Protección Preventivas las siguientes:
 
-I. Retención y guarda de cualquier objeto que pudiera ser utilizada como arma por el agresor para amenazar o lesionar a la víctima, independientemente si las mismas se encuentran registradas conforme a la normatividad en la materia;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+I. Retención y guarda de cualquier objeto, que sea propiedad o no del agresor y que pudiera ser utilizado como arma por éste para amenazar o lesionar a la víctima, independientemente si las mismas se encuentran registradas conforme a la normatividad en la materia;
 
 II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
 
@@ -381,9 +425,11 @@ III. Los elementos con que se cuente.
 
 Para la efectiva ejecución de las órdenes de emergencia y preventivas podrá utilizarse el auxilio de la fuerza pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2016)</small>
+
 ###### Artículo 29.
 
-Son Órdenes de Protección Civil las siguientes:
+Son Órdenes de Protección de naturaleza Civil las siguientes:
 
 I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
 
@@ -391,9 +437,13 @@ ll. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuand
 
 III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
 
-IV. Obligación alimentaría provisional e inmediata; o
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-V. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarías y/o garantizar los derechos de la sociedad conyugal.
+IV. Obligación alimentaria provisional e inmediata, que serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda; o
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+V. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Instituto Registral del Estado de Tabasco, a efecto de garantizar las obligaciones alimentarias y/o garantizar los derechos de la sociedad conyugal.
 
 ###### Artículo 30.
 
@@ -406,6 +456,12 @@ II. Los principios objetivos de racionalidad y justicia.
 ###### Artículo 31.
 
 Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén tramitando en los tribunales competentes.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2016)</small>
+
+###### Artículo 31 Bis.
+
+Las niñas y adolescentes podrán solicitar a las autoridades competentes, en términos de la legislación aplicable y de esta Ley, que las representen en sus solicitudes y acciones respecto a las órdenes de protección que prevé este ordenamiento; lo que no impedirá que las autoridades correspondientes actúen de manera oficiosa para expedir las órdenes de protección que resulten necesarias, en consideración del interés superior de la niñez.
 
 ## TÍTULO CUARTO. DEL SISTEMA Y PROGRAMA ESTATALES
 
@@ -431,7 +487,9 @@ II. El Instituto Estatal de las Mujeres, quien ocupará la Secretaría Técnica 
 
 III. La Secretaría de Seguridad Pública;
 
-IV. La Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+IV. La Fiscalía General del Estado;
 
 V. El Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco;
 
@@ -439,11 +497,15 @@ VI. La Secretaría de Educación;
 
 VII. La Secretaría de Salud;
 
-VIII. La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-IX. La Consejería Jurídica del Poder Ejecutivo;
+VIII. La Secretaría de Desarrollo Social;
 
-X. La Unidad de Atención Social del Estado;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+IX. La Coordinación General de Asuntos Jurídicos;
+
+X. (DEROGADA, P.O. 21 DE MAYO DE 2016)
 
 XI. La Comisión Estatal de Derechos Humanos;
 
@@ -593,9 +655,17 @@ XII. Desarrollar todos los mecanismos necesarios para el cumplimiento de la pres
 
 XIII. Impulsar la creación de refugios para la atención y protección de las mujeres víctimas y de sus hijos e hijas, conforme al modelo de atención diseñado por el Sistema Estatal de acuerdo a lo establecido en la Ley General;
 
-XIV. Proponer reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-XV. En general todas las que se deriven para el cumplimiento de esta Ley de conformidad con las disposiciones jurídicas aplicables.
+XIV. Proponer reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2016)</small>
+
+XV. Establecer políticas públicas que garanticen un transporte público seguro para las mujeres; y
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+XVI. En general todas las que se deriven para el cumplimiento de esta Ley, de conformidad con las disposiciones jurídicas aplicables.
 
 ###### Artículo 42.
 
@@ -657,11 +727,13 @@ XVII. Diseñar e instrumentar cursos, seminarios, talleres, diplomados y/o espec
 
 XVIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-XIX. Colaborar con la Consejería Jurídica del Poder Ejecutivo en la elaboración de la propuesta de Reglamento de esta Ley, y presentarla a la consideración del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-XX. Proponer al Gobernador del Estado, en colaboración con la Consejería
+XIX. Colaborar con la Coordinación General de Asuntos Jurídicos en la elaboración de la propuesta de Reglamento de esta Ley, y presentarla a la consideración del Gobernador del Estado;
 
-Jurídica del Poder Ejecutivo, las iniciativas de reformas a esta Ley, cuando así se requiera; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+XX. Proponer al Gobernador del Estado, en colaboración con la Coordinación General de Asuntos Jurídicos, las iniciativas de reformas a esta Ley, cuando así se requiera; y
 
 XXI. Las demás que le asigne el Programa Estatal
 
@@ -695,13 +767,17 @@ XI. Rendir un informe semestral al Sistema Estatal, por conducto de la Secretar�
 
 XII. Las demás que le asigne el Programa Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2016)</small>
+
 ###### Artículo 45.
 
-Corresponden a la Procuraduría General de Justicia del Estado las facultades y obligaciones siguientes:
+Corresponden a la Fiscalía General del Estado las facultades y obligaciones siguientes:
 
 I. Promover la atención especializada en los casos de violencia de género contra las mujeres;
 
-II. Emitir, a través del Agente del Ministerio Público competente, las órdenes de protección de emergencia a que se refiere esta Ley, en los casos que conforme al marco jurídico aplicable sea procedente;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
+
+II. Emitir, a través del Fiscal del Ministerio Público competente, las órdenes de protección de emergencia a que se refiere esta Ley, en los casos que conforme al marco jurídico aplicable sea procedente;
 
 III. Solicitar al órgano jurisdiccional competente que dicte las órdenes de protección preventivas a que se refiere esta Ley, en los casos que conforme a derecho proceda;
 
@@ -811,9 +887,11 @@ IX. Rendir un informe semestral al Sistema Estatal, por conducto de la Secretar�
 
 X. Las demás que le asigne el Programa Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2016)</small>
+
 ###### Artículo 49.
 
-Corresponde a la Secretaría de Desarrollo Económico:
+Corresponde a la Secretaría de Desarrollo Social, por sí misma o en coordinación con las dependencias y entidades del Ejecutivo competentes:
 
 I. Instrumentar cursos de capacitación empresarial para mujeres víctimas de violencia de género;
 
@@ -823,13 +901,33 @@ III. Proponer al Sistema Estatal la introducción de programas específicos que 
 
 IV. Diseñar y ejecutar programas especiales de capacitación técnica y productividad para el trabajo, dirigido a mujeres víctimas de violencia de género;
 
-V. Rendir un informe semestral al Sistema Estatal, por conducto de su Secretaría Técnica, de las actividades realizadas; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-VI. Las demás que le asigne el Programa Estatal.
+V. Rendir un informe semestral al Sistema Estatal, por conducto de su Secretaría Técnica, de las actividades realizadas;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2016)</small>
+
+VI. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2016)</small>
+
+VII. Coadyuvar con el Instituto en la creación y o era ón (sic) de los Centros de Refugio Temporal para Mujeres Víctimas de Violencia;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2016)</small>
+
+VIII. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición multiétnica del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2016)</small>
+
+IX. Implementar campañas de sensibilización destinadas a prevenir, atender y erradicar la violencia contra las mujeres en la comunidad; y
+
+X. Las demás que le asigne el Programa Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2016)</small>
 
 ###### Artículo 50.
 
-Corresponde a la Consejería Jurídica del Poder Ejecutivo las facultades y obligaciones siguientes:
+Corresponde a la Coordinación General de Asuntos Jurídicos las facultades y obligaciones siguientes:
 
 I. Brindar asesoría jurídica al Sistema Estatal;
 
@@ -843,19 +941,13 @@ V. Las demás que le asigne el Programa Estatal.
 
 ###### Artículo 51.
 
-Corresponden a la Unidad de Atención Social del Estado las facultades y obligaciones siguientes:
+(DEROGADO, P.O. 21 DE MAYO DE 2016)
 
-I. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
-
-II. Coadyuvar con el Instituto en la creación y operación de los Centros de Refugio Temporal para Mujeres Víctimas de Violencia;
-
-III. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición multiétnica del estado; y
-
-IV. Las demás que le asigne el Programa Estatal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2016)</small>
 
 ###### Artículo 52.
 
-Corresponden al organismo público descentralizado denominado Comisión Estatal de Derechos Humanos las siguientes facultades y obligaciones:
+Corresponden al organismo público autónomo denominado Comisión Estatal de los Derechos Humanos:
 
 I. Institucionalizar la perspectiva de género en el ejercicio de las funciones sustantivas y administrativas de la Comisión;
 
@@ -931,9 +1023,15 @@ XI. Apoyar al Instituto, en la medida de sus capacidades y de conformidad a los 
 
 XII. Llevar a cabo, de acuerdo con el Sistema Estatal, programas de información a la sociedad sobre los Derechos Humanos de las mujeres y sobre la prevención atención, sanción y erradicación de la violencia contra las mujeres;
 
-XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2016)</small>
 
-XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2016)</small>
+
+XIV. Establecer políticas públicas que garanticen un transporte público seguro para las mujeres, y
+
+XV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN DE LA VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
@@ -985,7 +1083,9 @@ Cada dependencia deberá expedir una constancia que contenga la información sob
 
 Es responsabilidad de los centros educativos, hospitales, clínicas, centros de salud públicos y privados, consultorios particulares y demás centros de atención de la salud física y mental, informar a (sic) Instituto o la Procuraduría de la Defensa del Menor y la Familia, según sea el caso, cuando tengan conocimiento de casos de violencia de género.
 
-Tratándose de violencia familiar se deberá comunicar a la Procuraduría General de Justicia para que esta proceda en los términos previstos para este tipo de casos.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2016)</small>
+
+Tratándose de violencia familiar se deberá comunicar a la Fiscalía General del Estado para que ésta proceda en los términos previstos para este tipo de casos.
 
 ### CAPÍTULO III. DE LOS CENTROS DE ATENCIÓN Y REHABILITACIÓN PARA AGRESORES
 
@@ -1088,3 +1188,15 @@ PRIMERO.- El presente decreto entra en vigor, al día siguiente de su publicaci�
 SEGUNDO.- Las averiguaciones previas que se hayan iniciado antes de la entrada en vigor del presente decreto, o los procesos que se encuentren en trámite ante los órganos jurisdiccionales o administrativos respectivos, se continuarán tramitando conforme a las disposiciones anteriores.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 21 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 011 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 6, FRACCIÓN II; 11, FRACCIÓN I; 16, FRACCIONES II Y III; 21; 25, FRACCIONES I Y II; 26, FRACCIONES I, III, V Y VI; 27, FRACCIÓN I; 29, EL PRIMER PÁRRAFO Y LAS FRACCIONES IV Y V; 34, FRACCIONES IV, VIII Y IX; 41, FRACCIÓN XIV; 43, FRACCIONES XIX Y XX; 45, PRIMER PÁRRAFO Y FRACCIÓN II; 49, PRIMER PÁRRAFO Y FRACCIÓN V; 50, PRIMER PÁRRAFO; 52, PRIMER PÁRRAFO; 56, FRACCIÓN XIII; Y 62, SEGUNDO PÁRRAFO. SE ADICIONAN: UNA FRACCIÓN IV AL ARTÍCULO 16; EL ARTÍCULO 22 BIS; UNA FRACCIÓN VII AL ARTÍCULO 26; EL ARTÍCULO 31 BIS; UNA FRACCIÓN XV AL ARTÍCULO 41 Y SE RECORRE EN SU ORDEN LA FRACCIÓN XV PARA SER LA XVI; LAS FRACCIONES VI, VII, VIII Y IX AL ARTÍCULO 49, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN VI PARA SER FRACCIÓN X; Y LA FRACCIÓN XIV AL ARTÍCULO 56 RECORRIÉNDOSE EN SU ORDEN EL CONTENIDO DE LA FRACCIÓN XIV PARA SER LA FRACCIÓN XV. SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 34 Y EL ARTÍCULO 51; TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
