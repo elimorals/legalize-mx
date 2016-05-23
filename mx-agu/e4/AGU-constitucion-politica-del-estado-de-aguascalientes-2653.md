@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2016-03-14"
+last_updated: "2016-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -130,6 +130,10 @@ Los resultados de todo el proceso educativo, así como los factores que inciden 
 La atención a la demanda social de la educación superior en el Estado será una prioridad de las instituciones públicas y por ello, se ampliará el acceso a esos niveles para garantizar el debido fomento al desarrollo económico y social de la región a la vez que el arraigo local de los jóvenes.
 
 Toda educación que realicen los particulares en el territorio del Estado será supervisada y evaluada en los términos del presente Artículo por las autoridades competentes, con estricto apego a las leyes vigentes aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+El Estado y los Municipios garantizarán el derecho de acceso libre a internet, para tal efecto, establecerán los mecanismos y políticas públicas necesarias para asegurar progresiva y de manera gradual la efectividad de este derecho
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
@@ -1897,7 +1901,7 @@ Por tanto, mando se imprima, publique por bando y se circule para los fines cons
 
 Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE JUNIO DE 1919.
 
@@ -2904,6 +2908,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 14 DE MARZO DE 2016.
 
 > <small>[N. DE E. TRANSITORIO POR EL QUE “SE REFORMA EL DECRETO NÚMERO 290”.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304.- SE ADICIONA EL ARTÍCULO 6º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
