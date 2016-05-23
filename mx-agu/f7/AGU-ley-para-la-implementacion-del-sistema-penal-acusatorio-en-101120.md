@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-implementacion-del-sistema-penal-acusatorio-en-1011
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-02"
-last_updated: "2015-07-27"
+last_updated: "2016-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de junio de 2014.
 
@@ -38,6 +38,8 @@ Decreto Número 60
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba la Ley para la Implementación del Sistema Penal Acusatorio en el Estado de Aguascalientes, quedando en los siguientes términos:
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 23 DE MAYO DE 2016, LA REFERENCIA A LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ENTENDERÁ HECHA A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.]</small>
 
 LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE AGUASCALIENTES
 
@@ -61,9 +63,11 @@ IV. Sistema: Sistema de Justicia Penal Acusatorio.
 
 ### CAPÍTULO II. Del Organismo
 
-###### Artículo 3º.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
-Se crea un organismo con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Aguascalientes y cuyas actividades estarán relacionadas con el objeto precisado en el Artículo 1° de esta Ley.
+###### Artículo 3°.
+
+Se crea un Organismo Público Descentralizado con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Aguascalientes y cuyas actividades estarán relacionadas con el objeto precisado en el Artículo 1°.
 
 ###### Artículo 4º.
 
@@ -93,11 +97,15 @@ III. Los demás ingresos, derechos y bienes que adquiera por cualquier título l
 
 ### CAPÍTULO III. De las Autoridades del Organismo
 
-###### Artículo 6º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2016)</small>
 
-El órgano máximo de autoridad será el Consejo, mismo que se integrará de la siguiente manera:
+###### Artículo 6°.
 
-I. El Gobernador Constitucional del Estado, quien presidirá el Consejo y será representado en sus ausencias por el Jefe de Gabinete;
+El Consejo funcionará como órgano de Gobierno y será la máxima autoridad dentro del Organismo, el cual se integrará de la siguiente manera:
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+I. El Gobernador Constitucional del Estado, quien presidirá el Consejo y será representado en sus ausencias por el Secretario General de Gobierno o la persona que éste decida;
 
 II. El Magistrado Presidente del Supremo Tribunal de Justicia del Estado;
 
@@ -147,9 +155,11 @@ V. Nombrar al Secretario Técnico; y
 
 VI. Las demás que establezcan otros ordenamientos o que sean necesarias para el cumplimiento de su objeto.
 
-###### Artículo 9º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2016)</small>
 
-El Organismo contará con un Director General, que será designado por el Gobernador del Estado, y quien no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas, culturales o de beneficencia.
+###### Artículo 9°.
+
+El Organismo contará con un Director General, que será designado por el Gobernador del Estado, y quien no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas, culturales o de beneficencia. El cargo de Director General del Organismo podrá recaer en el Secretario Técnico del Consejo.
 
 En caso de que la designación de Director General del Organismo recaiga sobre un servidor público, dicho cargo será honorífico y no remunerado.
 
@@ -246,3 +256,27 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 23 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 337.- REFORMAS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto Iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo deberá expedir la normatividad reglamentaria necesaria para la total implementación de las funciones otorgadas mediante este Decreto a sus autoridades subordinadas en un periodo no mayor de sesenta días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El catálogo de puesto, el manual de organización y el manual de procedimientos, deberán expedirse en un periodo no mayor de sesenta días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se deberán hacer las modificaciones a las partidas presupuestales correspondientes a la Secretaría de Seguridad Pública del Estado, para el efecto de que la misma cuente con la suficiencia presupuestaria para que se cumpla con las facultades otorgadas en esta reforma, en un periodo no mayor a los sesenta días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, la referencia a dicha Fiscalía contenida en el presente Decreto, se entenderá hecha a la Procuraduría General de la República.
