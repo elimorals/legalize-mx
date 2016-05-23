@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2015-07-27"
+last_updated: "2016-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -101,15 +101,33 @@ El Mando Único que ejerza la Secretaría se entenderá única y exclusivamente 
 
 El Mando Único no aplicará respecto a la Dirección de Tránsito Municipal y la Jefatura Operativa de Policía Auxiliar y Comercial, así como tampoco en faltas de policía contenidas en el Código Municipal de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
-XIII. Fiscalía: A la Fiscalía General del Estado;
+XIII. Mando: La autoridad ejercida por un superior jerárquico en servicio activo sobre sus subordinados o iguales en jerarquía, cuando éstos se encuentren bajo sus órdenes, en razón de su categoría, cargo o comisión;
 
-XIV. Programa Rector: Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia respectivamente;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
-XV. Secretaría: A la Secretaría de Seguridad Pública del Estado; y
+XIV. Fiscalía: A la Fiscalía General del Estado de Aguascalientes;
 
-XVI. Sistema: Al Sistema Estatal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XV. Programa Rector: Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia respectivamente;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XVI. Secretaría: A la Secretaría de Seguridad Pública del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XVII. Código: Al Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XVIII. Medidas Cautelares y sus Condiciones: A las medidas cautelares personales, reales y las condiciones por cumplir para su imposición, sean restrictivas de la libertad personal o de otros derechos durante la suspensión condicional del proceso a prueba, así como las medidas de seguridad impuestas por la autoridad judicial por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XIX. Sistema: Al Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 6º.
 
@@ -167,6 +185,12 @@ XVII. Homologar procesos, procedimientos, protocolos de actuación, vehículos, 
 
 La coordinación, evaluación y seguimiento de lo dispuesto en esta Ley, se hará con respeto a las atribuciones que cada una de las instituciones y autoridades que integran el Sistema, les confiera la Ley.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 8° A.- Cuando existan materias y acciones que incidan en diversos ámbitos de competencia del Estado y los municipios, se aplicará lo que prevea al respecto la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley; en su defecto, se atenderá a los lineamientos generales y específicos dictados por el Consejo Nacional y el Consejo. Sólo en caso de no encontrarse regulada la materia o acción en la ley, acuerdos o lineamientos generales de dichos consejos, las resoluciones o los acuerdos de que se trate se ejecutarán mediante convenios generales y específicos entre las partes integrantes del Sistema, siempre que no se opongan a los fines de éste.
+
+Los convenios generales y específicos que se celebren establecerán esquemas que garanticen su debido cumplimiento y las sanciones a las que, de conformidad con la normatividad correspondiente, se harán acreedores los servidores públicos en caso de incumplimiento.
+
 ## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO I. Conformación y Funcionamiento del Sistema
@@ -191,11 +215,21 @@ IV. Las Instancias de coordinación, equipos, programas, información, servicios
 
 Las Instituciones que integran el Sistema realizarán las funciones de prevención de conductas ilícitas y persecución de delitos, conforme a la legislación vigente, así como los organismos y servicios auxiliares de aquéllos, existentes o que en lo sucesivo se creen independientemente de la denominación o adscripción administrativa que ostenten.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 11 A.- Para el adecuado funcionamiento del Sistema, el Poder Ejecutivo del Estado destinará recursos para el fortalecimiento de las acciones de seguridad pública de la Entidad y los municipios, conforme a la disponibilidad presupuestal, mediante la celebración de convenios en los que se establecerá el monto y destino de los mismos, así como la periodicidad con que se ministrarán. El ejercicio, control, vigilancia, así como la información, evaluación y fiscalización de dichos recursos quedarán a cargo de las instancias competentes, de conformidad con la legislación local.
+
+Asimismo, el ejercicio, control, vigilancia así como la información, evaluación y fiscalización de los recursos derivados de los fondos de aportaciones federales y demás fondos de ayuda federal para la seguridad pública, se sujetarán a la Ley de Coordinación Fiscal, la Ley General del Sistema Nacional de Seguridad Pública, la presente Ley, a los convenios celebrados entre los Gobierno Federal y Estatal, así como a las demás disposiciones federales y estatales aplicables.
+
+Las Instituciones de Seguridad Pública deberán proporcionar al Secretariado Ejecutivo del Sistema Nacional los informes que éste les solicite respecto al ejercicio de los recursos a que se refiere el párrafo anterior y el avance en el cumplimiento de los programas o proyectos en que fueron aplicados, así como la ejecución del Programa de Seguridad Pública de la Entidad, derivado del Programa Nacional de Seguridad Pública y demás acciones relacionadas con el control, vigilancia, transparencia y supervisión del manejo de dichos recursos.
+
 ### CAPÍTULO II. Consejo Estatal de Seguridad Pública
 
 ###### Artículo 12.
 
 El Consejo será la instancia encargada de la coordinación, planeación y definición de políticas públicas en seguridad pública. Asimismo, será el responsable de dar seguimiento y cumplimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional de Seguridad Pública y las Conferencias Nacionales del Sistema Nacional de Seguridad Pública en su ámbito de competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2016)</small>
 
 ###### Artículo 13.
 
@@ -203,49 +237,29 @@ El Consejo estará integrado por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+II. El Secretario General de Gobierno del Estado;
 
-II. El Jefe de Gabinete de Gobierno del Estado;
+III. El Secretario de Seguridad Pública del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+IV. El Fiscal General del Estado de Aguascalientes;
 
-III. El Secretario de Gobierno del Estado;
+V. El Comandante de la XIV Zona Militar;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+VI. El Delegado Estatal de la Fiscalía General de la República;
 
-IV. El Secretario de Seguridad Pública del Estado;
+VII. El Coordinador Estatal de la Policía Federal;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+VIII. Un presidente municipal designado por acuerdo de los municipios; y
 
-V. El Fiscal General del Estado;
+IX. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
-VI. El Comandante de la XIV Zona Militar;
+Los cargos son honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño con excepción del señalado en la Fracción IX, siempre y cuando no desempeñe otro cargo en la administración pública. Son también personalísimos y no admitirán suplencias. La participación personal en las sesiones del Consejo será obligatoria para los funcionarios estatales y municipales.
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
-VII. Delegado Estatal de la Fiscalía General de la República;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
-
-VIII. El Delegado Estatal de la Policía Federal;
-
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
-
-IX. Tres presidentes municipales designados por acuerdo de los municipios; y
-
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
-
-X. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
-
-Los cargos son honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño con excepción del señalado en la Fracción X, siempre y cuando no desempeñe otro cargo en la administración pública. Son también personalísimos y no admitirán suplencias. La participación personal en las sesiones del Consejo será obligatoria.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
-
-En ausencia del Presidente, el Jefe de Gabinete presidirá el Consejo; los demás integrantes deberán asistir personalmente.
+En ausencia del Presidente, el Secretario General de Gobierno presidirá el Consejo; los demás integrantes deberán asistir personalmente.
 
 El funcionamiento y organización del Consejo será regulado en el reglamento.
 
@@ -397,7 +411,9 @@ Son autoridades en materia de Seguridad Pública en el ámbito Estatal las sigui
 
 I. El titular del Poder Ejecutivo;
 
-II. El Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+II. El Secretario General de Gobierno;
 
 III. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
@@ -573,9 +589,45 @@ XXIII. Dictar las medidas necesarias para garantizar el adecuado funcionamiento 
 
 XXIV. Las demás que le otorga esta Ley y demás disposiciones jurídicas aplicables, así como las que le encomiende el Consejo o su Presidente.
 
-## TÍTULO CUARTO. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2016)</small>
 
-### CAPÍTULO I. Derechos y Obligaciones de los Integrantes de las Instituciones de Seguridad Pública
+## TÍTULO CUARTO. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE LA FUNCIÓN POLICIAL Y SUS ATRIBUCIONES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2016)</small>
+
+### CAPÍTULO I. Derechos, Obligaciones y Atribuciones de los Integrantes de las Instituciones de Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 39 A.- La función básica de las Instituciones Policiales es prevenir el delito, así como preservar la paz y el orden públicos, para lo cual tendrán las siguientes atribuciones:
+
+I. Prevención: Consistente en llevar a cabo las acciones necesarias para evitar la comisión de delitos e infracciones administrativas y en sus circunscripciones, realizar acciones de inspección, vigilancia y vialidad;
+
+II. Atención a víctimas y ofendidos del delito: Proporcionar auxilio en los términos que señalan el Código, la Ley General de Víctimas y la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes, para lo cual recibirán en su caso, la denuncia respectiva;
+
+III. Investigación: Que tendrá por objeto la prevención, la realización de peritajes y bajo la conducción y el mando del Ministerio Público, la persecución de conductas que pudieran ser constitutivas de delito, para lo que, a través de sistemas homologados, recolectarán, clasificarán, registrarán, analizarán, evaluarán y usarán la información conducente;
+
+IV. Reacción: Para lo que garantizarán, mantendrán y restablecerán la paz y el orden públicos, y ejecutarán los mandamientos ministeriales y judiciales; y
+
+V. Custodia: Que implica la protección de las instalaciones, el personal de los tribunales, los centros de reinserción social y de internamiento para adolescentes, así como de los intervinientes en el proceso penal y de requerirse, el traslado y la vigilancia de los imputados.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 39 B.- Para el debido ejercicio de las atribuciones enumeradas en el Artículo anterior, la policía podrá contar con las siguientes divisiones, cuyas actividades específicas se regularán en el Reglamento:
+
+I. De proximidad;
+
+II De atención a víctimas;
+
+III De investigación;
+
+IV. De inteligencia;
+
+V. De reacción;
+
+VI. De protección y custodia; y
+
+VII. De policía procesal.
 
 ###### Artículo 40.
 
@@ -583,7 +635,9 @@ Son derechos de los integrantes de las Instituciones de Seguridad Pública, los 
 
 I. Percibir un salario remunerador conforme a su rango y el presupuesto que corresponda;
 
-II. Gozar de las prestaciones, así como recibir oportuna atención médica y el tratamiento adecuado, cuando sufran lesiones en el cumplimiento del deber, en la institución pública o privada más cercana al lugar de los hechos y contar con un seguro de vida;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+II. Gozar de las prestaciones y los servicios en materia de seguridad social conforme a las disposiciones legales y reglamentarias, así como recibir oportuna atención médica y el tratamiento adecuado, cuando sufran lesiones en el cumplimiento del deber, en la institución pública o privada más cercana al lugar de los hechos y contar con un seguro de vida;
 
 III. Ser recluidos en áreas especiales para los policías, en los casos en que sean sujetos a prisión;
 
@@ -591,9 +645,49 @@ IV. Recibir asistencia jurídica gratuita institucional, en los casos en que por
 
 V. Que les sean respetados los derechos que les reconoce la Carrera Policial, en los términos de esta Ley;
 
-VI. Recibir un trato digno y respetuoso de sus superiores jerárquicos; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
-VII. Las demás que les confieran las leyes y reglamentos de la materia.
+VI. Recibir un trato digno y respetuoso de sus superiores jerárquicos;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+VII. Participar en los cursos de capacitación, actualización, profesionalización y especialización correspondientes, así como aquellos que se acuerden con otras instituciones académicas nacionales y del extranjero que tengan relación con sus funciones, conforme a la disponibilidad presupuestal y las necesidades del servicio;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+VIII. Sugerir las medidas que estimen pertinentes para el mejoramiento del servicio de Carrera Policial de que formen parte;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+IX. Acceder al sistema de estímulos o reconocimientos cuando su conducta y su desempeño así lo ameriten, de acuerdo con las normas aplicables y la disponibilidad presupuestal;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+X. Usar los uniformes, condecoraciones e insignias propias de su categoría o jerarquía que le hayan sido entregados y otorgadas, respectivamente;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XI. Ser promovidos de categoría y rango, en los términos del servicio de Carrera Policial;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XII. Participar en los concursos de ascenso a que se convoque;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XIII. Recibir el equipo de trabajo sin costo alguno;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XIV. Disfrutar de los beneficios que establezcan las disposiciones aplicables, una vez terminado el servicio de Carrera Policial;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XV. Gozar de permisos y licencias en los términos de la normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XVI. Los demás que establezcan otras disposiciones aplicables.
 
 ###### Artículo 41.
 
@@ -623,7 +717,9 @@ XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados 
 
 XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
-XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XIII. Preservar, conforme a las disposiciones aplicables, las pruebas y los indicios de hechos presumiblemente delictivos o de faltas administrativas, de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
 XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
 
@@ -637,9 +733,13 @@ XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, y profesi
 
 XIX. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables;
 
-XX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
-XXI. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
+XX. Abstenerse de sustraer, ocultar, alterar o dañar bienes en perjuicio de las Instituciones de Seguridad Pública, así como evitar cualquier acto de descuido o negligencia que ocasione la pérdida, deterioro o extravío de los que le hayan sido confiados;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XXI. Abstenerse de ocultar, sustraer, alterar o revelar, a quien no tenga derecho conforme a las disposiciones aplicables, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su función, cargo o comisión;
 
 XXII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
 
@@ -669,11 +769,33 @@ XXXIV. Responder, sobre la ejecución de las órdenes directas que reciba, a un 
 
 XXXV. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
-XXXVI. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso adecuado de ellos sólo en el desempeño del servicio;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
-XXXVII. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia; y
+XXXVI. Mantener en buen estado, así como custodiar y devolver cuando se les ordene el armamento, material, municiones, vehículos y equipo que se les asigne con motivo de sus funciones;
 
-XXXVIII. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XXXVII. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de sus funciones o en casos de flagrancia;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XXXVIII. Abstenerse de convocar o participar en cualquier práctica que afecte las actividades de las corporaciones policiales;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XXXIX. En los términos del Código:
+
+a) Recibir denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público, por cualquier medio y de forma inmediata de las diligencias que practiquen; y
+
+b) Proporcionar atención a víctimas, ofendidos y testigos del delito;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XL. Hacer uso de la fuerza pública dentro de los límites y en los casos y circunstancias que establece la presente Ley, las demás disposiciones legales aplicables y procedimientos previamente establecidos, así como los lineamientos, manuales y acuerdos que al efecto expidan las Instituciones de Seguridad Pública; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+XLI. Las demás que establezcan el Código y otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 42.
 
@@ -699,45 +821,123 @@ El documento de identificación de los integrantes de las instituciones de Segur
 
 Todo servidor público tiene la obligación de identificarse salvo los casos previstos en la ley, a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
+
 ###### Artículo 44.
 
-El Estado y los Municipios, establecerán en las disposiciones legales correspondientes que los integrantes de las Instituciones Policiales deberán llenar un Informe Policial Homologado que contendrá, cuando menos, los siguientes datos:
+El Informe Policial Homologado es el documento en el cual los integrantes de las Instituciones Policiales realizarán el levantamiento, revisión y envío de información sobre hechos presumiblemente constitutivos de delito o de faltas administrativas.
+
+Los integrantes de las Instituciones Policiales elaborarán el Informe Policial Homologado, el cual enviarán inmediatamente a las instancias correspondientes y contendrá, cuando menos, los siguientes datos:
 
 I. El área que lo emite;
 
-II. El usuario capturista;
+II. El usuario capturista, con expresión de nombre completo y adscripción;
 
-III. Los datos generales de registro;
+III. Los datos generales, que son:
+
+a) Folio;
+
+b) Número de oficio;
+
+c) Fecha y hora del informe;
+
+d) Fecha y hora de los hechos;
+
+e) Asunto;
+
+f) A quién se dirige; y
+
+g) Oficial que lo elaboró;
 
 IV. Motivo, que se clasifica en:
 
 a) Tipo de evento; y
 
-b) Subtipo de evento.
+b) Subtipo de evento;
 
-V. La ubicación del evento y en su caso, los caminos;
+V. La ubicación, que contendrá:
 
-VI. La descripción de hechos, que deberá detallar modo, tiempo y lugar, entre otros datos;
+a) Entidad federativa;
 
-VII. Entrevistas realizadas; y
+b) Municipio o Delegación y, en su caso, sección, comisaría o comunidad;
 
-VIII. En caso de detenciones:
+c) Sector;
+
+d) Comandancia;
+
+e) Turno;
+
+f) Colonia;
+
+g) Calle y número;
+
+h) Código postal;
+
+i) Entre qué calles; y
+
+j) Referencia;
+
+VI. Los caminos, debiendo especificar:
+
+a) Tramos; y
+
+b) Kilómetro;
+
+VII. La descripción de los hechos, que deberá comprender:
+
+a) Modo;
+
+b) Tiempo; y
+
+c) Lugar;
+
+VIII. Mapa para la ubicación de los hechos;
+
+IX. Entrevistas realizadas; y
+
+X. En caso de detención, además de los datos anteriores, deberán adicionarse los siguientes:
 
 a) Señalar los motivos de la detención;
 
-b) Descripción de la persona;
+b) Descripción de los detenidos;
 
-c) El nombre del detenido y apodo, en su caso;
+c) El nombre y el apodo, en su caso, de los detenidos;
 
-d) Descripción de estado físico aparente;
+d) Descripción de estado físico aparente de los detenidos;
 
-e) Objetos que le fueron encontrados;
+e) Objetos asegurados; y
 
-f) Autoridad a la que fue puesto a disposición; y
+f) Autoridad a la que los detenidos fueron puestos a disposición y lugar de internamiento.
 
-g) Lugar en el que fue puesto a disposición.
+Al describir los hechos deberá observarse un estricto orden cronológico, resaltando los aspectos relevantes; no deberán hacerse afirmaciones sin que se sustenten en datos o hechos reales, por lo que no se incluirán conjeturas, conclusiones ajenas al evento o informaciones de oídas.
 
-El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
+Cuando elementos de diversas Instituciones Policiales conozcan de un mismo hecho, cada uno deberá elaborar un Informe Policial Homologado.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 44 A.- Los elementos de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes y de vigilancia de audiencias judiciales, además de las obligaciones establecidas en la presente Ley, tendrán las obligaciones y deberes siguientes:
+
+I. Mantener estrictamente vigilados dichos establecimientos a fin de garantizar la seguridad, el orden y la tranquilidad, de conformidad con las disposiciones aplicables;
+
+II. Salvaguardar la vida, la integridad, la seguridad y los derechos de los internos, de quienes los visiten y, en general, de los servidores públicos adscritos a los citados centros, haciendo cumplir la normatividad correspondiente;
+
+III. Mantener recluidos y custodiados, con las seguridades debidas, a los internos, de conformidad con las disposiciones legales y reglamentarias aplicables;
+
+IV. Mantener el orden, la disciplina y el adecuado comportamiento de los internos, con absoluto respeto de sus derechos;
+
+V. Custodiar el orden y la seguridad en el interior y el perímetro exterior de dichos centros, evitando cualquier incidente o contingencia que comprometa o ponga en riesgo la seguridad e integridad física de los internos, de sus visitas y en general de cualquier persona que se encuentre en aquéllos;
+
+VI. Efectuar revisiones periódicas en los mencionados centros, con el objeto de prevenir la comisión de hechos delictuosos;
+
+VII. Cumplir, en el ámbito de su responsabilidad, las resoluciones dictadas por las autoridades jurisdiccionales y administrativas competentes;
+
+VIII. Revisar a las personas, los objetos y vehículos que ingresen o salgan de los referidos centros, respetando los derechos de aquéllas;
+
+IX. Excarcelar y trasladar a los internos, de conformidad con las órdenes que al efecto se dicten por las autoridades competentes;
+
+X. Custodiar a los internos o imputados y mantener el orden y la seguridad en el desarrollo de las audiencias u otros actos procesales; y
+
+XI. Las demás que establezcan otras disposiciones legales o reglamentarias, o bien, que sean necesarias y análogas a las anteriores.
 
 ###### Artículo 45.
 
@@ -835,9 +1035,157 @@ El control de confianza es el proceso que tiene por objeto evaluar la condición
 
 Las cuestiones relativas a la evaluación y control de confianza expuestas en esta ley se detallarán en la reglamentación que al efecto se expida.
 
-### CAPÍTULO VI. Desarrollo Policial
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2016)</small>
 
-### CAPÍTULO VII. Carrera Policial y Profesionalización
+### CAPÍTULO VI. De la Unidad Estatal de Medidas Cautelares y Salidas Alternas
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 A.- La Unidad Estatal de Medidas Cautelares y Salidas Alternas estará integrada por las áreas necesarias para su adecuado funcionamiento, dependerá de la Secretaría y su finalidad será:
+
+I. La administración, ejecución y vigilancia de las medidas cautelares; y
+
+II. El cumplimiento de las condiciones impuestas con motivo de la suspensión condicional del proceso.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Articulo 58 B.- La Unidad Estatal de Medidas Cautelares y Salidas Alternas, en materia de la aplicación y supervisión de las medidas cautelares y providencias precautorias ordenadas por la autoridad jurisdiccional, tendrá las siguientes facultades:
+
+I. Realizar la evaluación de riesgos procesales a la que hace alusión el Código, efectuada de oficio por un evaluador de la Unidad Estatal de Medidas Cautelares y Salidas Alternas, utilizando los instrumentos respectivos para ello y verificando la información mediante fuentes fehacientes, dentro del término constitucional o antes de la audiencia de imposición de medidas cautelares, según sea el caso;
+
+II. Vigilar que la Unidad Estatal de Medidas Cautelares y Salidas Alternas entregue a las partes el instrumento resultado del proceso de evaluación de riesgos procesales, antes del inicio de la audiencia de imposición de medidas cautelares, mismo que podrán utilizar en el debate;
+
+III. Emitir reporte de cumplimiento o incumplimiento a las partes para informar sobre el estatus de las medidas cautelares en libertad o de las condiciones impuestas en suspensión condicional del proceso a prueba; y
+
+IV. Vigilar y coordinar la ejecución de las medidas cautelares reales y personales excepto la de prisión preventiva, así como el cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso a prueba.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 C.- La Unidad Estatal de Medidas Cautelares y Salidas Alternas informará al Ministerio Público sobre la ejecución de la medida cautelar impuesta o de las condiciones a cumplir durante la suspensión del proceso condicional a prueba, y solicitará la intervención de la policía para el cumplimiento de la medida cuando el Juez ordene la intervención de cuerpos policiales para la supervisión.
+
+La información al respecto deberá incluirse a la carpeta de investigación para conocimiento de la defensa.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 D.- La evaluación de riesgos es el análisis de las circunstancias personales, socioeconómicas y las demás que la ley determine, a petición de las partes a efecto de imponer la medida cautelar idónea al imputado.
+
+La Unidad Estatal de Medidas Cautelares y Salidas Alternas, a través del área de evaluación, realizará la evaluación de riesgos procesales conforme al Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 E.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en la presentación periódica ante el Juez o ante autoridad distinta que aquél designe, el Juez de Control dará aviso inmediato a la Unidad Estatal de Medidas Cautelares y Salidas Alternas, a efecto de estar en posibilidades de ejecutarla.
+
+Al dictarse la medida cautelar de presentación periódica, el sometido acudirá ante la Unidad Estatal de Medidas Cautelares y Salidas Alternas, con la periodicidad que el Juzgador haya determinado, a efecto de informar sobre sus actividades.
+
+La Unidad Estatal de Medidas Cautelares y Salidas Alternas, requerirá al imputado plasmar su firma en el libro de gobierno designado para ello o el depósito de huella de forma electrónica; lo anterior para acreditar el cumplimiento a esta obligación.
+
+En caso de incumplimiento a esta imposición, la Unidad Estatal de Medidas Cautelares y Salidas Alternas informará oportunamente a la autoridad jurisdiccional y a las partes el estatus de cumplimiento.
+
+La presentación a que se refiere este Artículo se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 F.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en prohibición de salir del País, se dará aviso al Instituto Nacional de Migración y se le proporcionará todos los documentos y requisitos necesarios para que se pueda dar cumplimiento a la medida.
+
+El aviso a la autoridad señalada también se realizará en caso de sustitución, modificación o cancelación de la medida.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 G.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en prohibición de salir de la localidad o del ámbito territorial, se comunicará el proveído a Secretaría y a las dependencias análogas a ésta de los municipios, y se prevendrá al imputado para que se presente ante la autoridad municipal de la localidad que determine el propio Juez de Control y con la periodicidad que señale éste último al fijar la medida. Durante la ejecución de esta medida, el imputado deberá comunicar a la Unidad Estatal de Medidas Cautelares y Salidas Alternas su cambio de domicilio y cualquier otra circunstancia que permita su localización. En caso de incumplimiento, la Unidad Estatal de Medidas Cautelares y Salidas Alternas dará aviso oportuno a la autoridad jurisdiccional para los efectos procesales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 H.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en el sometimiento al cuidado o vigilancia de una persona o institución determinada o internamiento en institución determinada, la persona o institución que se queda al cuidado del imputado, será responsable de emitir informe periódico a la Unidad Estatal de Medidas Cautelares y Salidas Alternas.
+
+En caso de ser una institución la que se queda al cuidado del imputado, la Unidad Estatal de Medidas Cautelares y Salidas Alternas, solicitará informe periódico mediante oficio o, en su caso, personal de dicha unidad se constituirá en la institución que lo tenga a su cargo a fin de verificar los avances.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 I.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en la prohibición de concurrir a determinadas reuniones o acercarse a ciertos lugares, la Unidad Estatal de Medidas Cautelares y Salidas Alternas remitirá oficio al titular de la Secretaría o a la autoridad municipal que a su criterio sea necesario, a efecto de informar sobre esta medida, para que en caso de tener algún reporte sobre la violación a la restricción impuesta, informe inmediatamente a la Unidad Estatal de Medidas Cautelares y Salidas Alternas, para que ésta a su vez realice el reporte correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 J.- Cuando se determine por la autoridad jurisdiccional la medida cautelar consistente en la prohibición de convivir, acercarse o comunicarse con determinadas persona (sic), con las víctimas, ofendidos o testigos, la Unidad Estatal de Medidas Cautelares y Salidas Alternas, proporcionará los datos telefónicos de contacto de dicha Unidad a las personas, víctimas, ofendidos o testigos, con los que tenga relación la imposición de la medida, para que en caso de darse un incumplimiento por parte del imputado informe de inmediato a la Unidad para realizar el reporte de incumplimiento correspondiente.
+
+Se girará oficio a la Secretaría y a las dependencias análogas a ésta de los municipios, a efecto de que tengan conocimiento de tal restricción para que, en caso de que les sea reportado un incidente al respecto, se preste el auxilio debido y se realice el reporte respectivo a la Unidad Estatal de Medidas Cautelares y Salidas Alternas.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 K.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en la separación inmediata del domicilio, la Unidad Estatal de Medidas Cautelares y Salidas Alternas, a través de los medios idóneos, corroborará el cumplimiento del imputado a tal imposición y durante su vigencia verificará su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 L.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en la suspensión temporal en el ejercicio del cargo cuando se atribuye la comisión de un delito a servidores públicos, la Unidad Estatal de Medidas Cautelares y Salidas Alternas girará oficio a la institución a la que se encuentre adscrito el imputado, para que sea suspendido del cargo de manera inmediata y, una vez hecho esto, remita a la citada unidad la documentación necesaria para acreditar el cumplimiento de la medida impuesta.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 M.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en la suspensión temporal en el ejercicio de una determinada actividad profesional o laboral, la Unidad Estatal de Medidas Cautelares y Salidas Alternas se encargará de girar oficio a la autoridad que faculte al imputado a ejercer la actividad profesional o laboral de que se trate, a efecto de que suspendan los efectos de la documentación que lo acredite, mientras dure la imposición de la medida cautelar.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 N.- Al dictarse por la autoridad jurisdiccional la medida cautelar de colocación de localizadores electrónicos, la resolución del Juez de Control se comunicará directamente a la Unidad Estatal de Medidas Cautelares y Salidas Alternas, para que con auxilio de las autoridades de Seguridad Pública necesarias a su criterio, realice el monitoreo.
+
+La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre el Programa de Monitoreo Electrónico a Distancia, que al efecto emita el Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 Ñ.- Cuando el juzgador decrete la medida cautelar de resguardo en el propio domicilio del imputado, establecerá el lugar, tiempo y las condiciones particulares bajo las cuales deberá de cumplirse, por lo que la Unidad Estatal de Medidas Cautelares y Salidas Alternas, realizará la supervisión de acuerdo a lo ordenado por la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 O.- En los casos de las medidas cautelares consistentes en la exhibición de garantía económica, embargo de bienes y la inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero, la Unidad Estatal de Medidas Cautelares y Salidas Alternas tendrá la participación que señale la autoridad jurisdiccional en la medida específica que se dicte, en atención a la naturaleza de la misma.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 P.- La Unidad Estatal de Medidas Cautelares y Salidas Alternas, previo mandato judicial, será la encargada de supervisar, coordinar y vigilar el cumplimiento de las obligaciones impuestas en la suspensión condicional del proceso.
+
+La autoridad jurisdiccional, en caso de ser necesario, podrá canalizar a través de la Unidad Estatal de Medidas Cautelares y Salidas Alternas a los imputados a instituciones públicas u organizaciones civiles, para que den cumplimiento cabal a sus obligaciones.
+
+La coordinación y supervisión de las condiciones se darán de la siguiente manera:
+
+I. Residir en un lugar determinado: El supervisor de la Unidad Estatal de Medidas Cautelares y Salidas Alternas, requerirá al imputado comprobante de domicilio, carta de residencia o cualquier otro documento con el que acredite habitar en el lugar que le fue impuesto; realizará visita al lugar para verificar su existencia y programará en su agenda diversas fechas a fin de constituirse en el lugar, para corroborar que esté dando cumplimiento a la obligación que le fue impuesta; en general realizará todas las actividades que considere necesarias para verificar el cumplimiento;
+
+II. Frecuentar o dejar de frecuentar determinados lugares o personas: Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de acercarse (sic) ciertos lugares y de convivir o comunicarse con personas determinadas;
+
+III. Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas: Quedará sujeta a la revisión de la Unidad Estatal de Medidas Cautelares y Salidas Alternas con el auxilio de la Secretaría de Salud del Estado, la que por conducto de las instituciones correspondientes y, a solicitud de dicha Unidad, practicará periódicamente exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
+
+IV. Participar en programas especiales para la prevención y el tratamiento de adicciones: Quedará sujeta a la revisión por parte de la Unidad Estatal de Medidas Cautelares y Salidas Alternas con el auxilio de la Secretaría de Salud del Estado, que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento o, en su caso, podrá canalizarlo a organizaciones de la sociedad civil que presten este servicio de manera gratuita;
+
+V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez de control: La Unidad Estatal de Medidas Cautelares y Salidas Alternas verificará en la institución específica que hubiere ordenado el Juez, que el imputado cumpla con sus obligaciones;
+
+VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública: La Unidad Estatal de Medidas Cautelares y Salidas Alternas, verificará que se cumpla lo ordenado por el Juez.
+
+VII. Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas: El supervisor de la Unidad Estatal de Medidas Cautelares y Salidas Alternas, canalizará al imputado a institución pública u organización civil, que preste el servicio requerido para que el imputado pueda dar cumplimiento a la condición impuesta, dará seguimiento y solicitará los informes necesarios a tales instituciones únicamente respecto al cumplimiento en el tratamiento. Asimismo, informará a las partes cualquier situación que considere relevante;
+
+VIII. Tener un trabajo o empleo, así como adquirir, en el plazo que el Juez de control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia: Quedará sujeta a la revisión por parte de la Unidad Estatal de Medidas Cautelares y Salidas Alternas con el auxilio de las autoridades estatales que se requiera para verificar el cumplimiento programático que alcance el imputado, así como de la culminación de los estudios, en su caso. Si la condición consiste en conseguir empleo, se dará intervención a la dependencia estatal competente; en general el supervisor podrá realizar todas las acciones necesarias a fin de lograr el cumplimiento a la condición;
+
+IX. Someterse a la vigilancia que determine el Juez de Control: Se sujetará a las disposiciones de ejecución de la medida cautelar de sometimiento al cuidado o vigilancia de una persona o institución determinada que informe regularmente al Juez;
+
+X. No poseer ni portar armas: Al decretarse esta condición, se dará aviso a las Instituciones de Seguridad Pública en el Estado, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al Juez de Control para los efectos procesales correspondientes;
+
+XI. No conducir vehículos: Al imponerse esta condición la Unidad Estatal de Medidas Cautelares y Salidas Alternas requerirá al imputado la entrega de su licencia de manejo, misma que quedará bajo resguardo de la unidad competente, hasta en tanto permanezca vigente la condición. Girará oficio a las autoridades federales, estatales y municipales competentes, a fin de que se abstengan de expedir licencia de conducir a la persona que se señale e informen en caso de que sea detenido por dicha autoridad manejando algún tipo de vehículo;
+
+XII. Abstenerse de viajar al extranjero: Cuando se determine esta restricción, se dará aviso al Instituto Nacional de Migración y se le proporcionarán todos los documentos y requisitos necesarios para que se pueda dar cumplimiento a la medida. El aviso a la autoridad señalada también se realizará en caso de sustitución, modificación o cancelación de la medida; y
+
+XIII. Cumplir con los deberes de deudor alimentario: En su cumplimiento, quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al Juez de Control.
+
+La supervisión, coordinación y vigilancia de cualquier otra condición impuesta por el Juez de Control y que sea distinta a las referidas en el párrafo anterior, se realizará en términos de lo dispuesto por el Código, esta Ley y lo que determine el propio Juez de Control.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 Q.- La Unidad Estatal de Medidas Cautelares y Salidas Alternas será la encargada de supervisar el cumplimiento de las medidas cautelares en libertad y las condiciones en la suspensión condicional del proceso a prueba impuestas por el Juez, en la resolución emitida, bajo los lineamientos que establezca para ello y estrictamente durante el tiempo de su vigencia.
+
+La Unidad Estatal de Medidas Cautelares y Salidas Alternas, en caso de incumplimiento a las obligaciones impuestas por el Juez, emitirá informe a las partes para hacerles del conocimiento.
+
+También a petición de parte emitirá reportes a las partes respecto del seguimiento realizado por la referida unidad.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Artículo 58 R.- La Unidad Estatal de Medidas Cautelares y Salidas Alternas suspenderá la supervisión de las medidas cautelares o la suspensión condicional del proceso, cuando la autoridad judicial así lo haya determinado.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 23 DE MAYO DE 2016)
+
+### CAPÍTULO VIII (SIC). Desarrollo Policial
 
 ###### Artículo 59.
 
@@ -905,7 +1253,9 @@ XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos minister
 
 XIV. Las demás que por ministerio de Ley le sean conferidas.
 
-### CAPÍTULO VIII. Régimen Disciplinario
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 23 DE MAYO DE 2016)
+
+### CAPÍTULO IX. Carrera Policial y Profesionalización
 
 ###### Artículo 64.
 
@@ -1223,7 +1573,9 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 El Instituto Estatal de Seguridad Pública de Aguascalientes será una instancia auxiliar de la Secretaría para lograr la Profesionalización de las Instituciones Policiales. Asimismo coadyuvará en la supervisión y evaluación del personal de las empresas de Seguridad Privada a través de la capacitación y/o certificación del mismo y los costos correrán a cargo de los prestadores del servicio de Seguridad Privada. También podrá auxiliar a los Municipios que así lo soliciten. El ejecutivo expedirá el reglamento que regule dicho Instituto.
 
-### CAPÍTULO IX. Consejo de Honor y Justicia
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 23 DE MAYO DE 2016)
+
+### CAPÍTULO X. Régimen Disciplinario
 
 ###### Artículo 85.
 
@@ -1271,7 +1623,9 @@ Para tal fin, las instituciones policiales podrán constituir sus respectivas co
 
 En la Fiscalía se integrarán órganos equivalentes para conocer y resolver toda controversia que se suscite con relación a los procedimientos de la Carrera Policial Ministerial, en la que podrán intervenir representantes de los policías ministeriales, en los términos que establezca su ley orgánica y reglamento interior.
 
-### CAPÍTULO X. Comisión del Servicio Profesional de Carrera Policial
+(REUBICADO [N. DE E. ANTES CAPÍTULO IX], P.O. 23 DE MAYO DE 2016)
+
+### CAPÍTULO XI. Consejo de Honor y Justicia
 
 ###### Artículo 92.
 
@@ -1323,9 +1677,9 @@ V. Los demás que se especifiquen en el reglamento del Consejo respectivo.
 
 Por cada uno de estos cargos se nombrará un suplente, a excepción del Secretario Técnico.
 
-### CAPÍTULO XI. Servicio de Carrera y Desarrollo Policial en la Institución de Procuración de Justicia
+(REUBICADO [N. DE E. ANTES CAPÍTULO X], P.O. 23 DE MAYO DE 2016)
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+### CAPÍTULO XII. Comisión del Servicio Profesional de Carrera Policial
 
 ###### Artículo 97.
 
@@ -1333,9 +1687,11 @@ La Comisión del Servicio Profesional de Carrera Policial de la Secretaría, es 
 
 El Servicio Profesional de Carrera Policial del personal operativo de la Dirección General de Tránsito, se sujetará a lo previsto en las disposiciones jurídicas que le son aplicables y, en lo conducente, a lo que señala esta ley. Las reglas y procedimientos en esta materia serán aplicados, operados y supervisados por la propia Dirección.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
+
 ###### Artículo 98.
 
-Los reglamentos de servicio profesional de carrera policial desarrollarán las facultades necesarias para llevar a cabo las funciones señaladas en el Artículo anterior.
+Los reglamentos de servicio profesional de Carrera Policial, así como el catálogo de puesto, el manual de organización y el manual de procedimientos, desarrollarán las facultades necesarias para llevar a cabo las funciones señaladas en la presente Ley.
 
 ###### Artículo 99.
 
@@ -1357,17 +1713,21 @@ VI. El Secretario Técnico del Consejo de Honor y Justicia; y
 
 VII. El Director General de Administración de la Secretaría, quien fungirá como secretario técnico;
 
-### CAPÍTULO I. Disposiciones Generales
+(REUBICADO [N. DE E. ANTES CAPÍTULO XI], P.O. 23 DE MAYO DE 2016)
+
+### CAPÍTULO XIII. Servicio de Carrera y Desarrollo Policial en la Institución de Procuración de Justicia
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 100.
 
 El servicio de carrera del personal ministerial y pericial así como el Desarrollo Policial en la institución de Procuración de Justicia se sujetará a lo previsto en la Ley Orgánica de la Fiscalía General del Estado, su reglamento interior y demás ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
 ###### Artículo 101.
 
-Las reglas y procesos en materia de Servicio de Carrera y Desarrollo Policial a que se refiere el Artículo anterior, serán aplicados, operados y supervisados por la Fiscalía.
+Las reglas y procesos en materia de Servicio de Carrera y Desarrollo Policial a que se refiere el Artículo anterior, serán aplicados, operados y supervisados por la Fiscalía, siempre y cuando no contravengan lo dispuesto en su Ley Orgánica.
 
 ###### Artículo 102.
 
@@ -1375,7 +1735,7 @@ Las relaciones jurídicas entre el personal ministerial y pericial y el Estado s
 
 ## TÍTULO QUINTO. DE LA INFORMACIÓN SOBRE SEGURIDAD PÚBLICA
 
-### CAPÍTULO II. Sistema Estatal de Estadística Criminológica
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 103.
 
@@ -1393,21 +1753,25 @@ El Estado y los Municipios, en lo que les corresponda, mantendrán actualizada l
 
 El Estado y los municipios, de acuerdo con la Federación, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su red local correspondiente, con las bases de datos criminalísticos y de personal del Sistema, previstas en la Ley General del Sistema Nacional de Seguridad Pública.
 
-### CAPÍTULO ÚNICO. Consejo Estatal y Municipal de Consulta y Participación Ciudadana
+### CAPÍTULO II. Sistema Estatal de Estadística Criminológica
 
 ###### Artículo 106.
 
 El Sistema Estatal de Estadística Criminológica es un instrumento metodológico a cargo del Secretariado Ejecutivo, que tendrá como finalidad orientar los procesos de planeación, organización, ejecución, control y evaluación de los objetivos, metas, estrategias y acciones político-criminales en el Estado.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
-Las Instituciones Policiales del Estado y de los municipios, así como la Fiscalía, el Supremo Tribunal de Justicia y las instancias que conforman el Sistema Penitenciario Estatal, deberán suministrar la información que generen a efecto de integrar y organizar el Sistema Estatal de Estadística Criminológica. También se conformará con la información proporcionada por otras dependencias y organismos públicos que se estime necesaria para la elaboración del diagnóstico criminológico en el Estado y para la elaboración de estrategias en materia de prevención del delito y conductas antisociales.
+Las Instituciones Policiales del Estado y de los municipios, la Fiscalía, el Supremo Tribunal de Justicia y las autoridades que conforman el Sistema Penitenciario Estatal, deberán suministrar la información que generen a efecto de integrar y organizar el Sistema Estatal de Estadística Criminológica. También se conformará con la información proporcionada por otras dependencias y organismos públicos que se estime necesaria para la elaboración del diagnóstico criminológico en el Estado y para la elaboración de estrategias en materia de prevención del delito y conductas antisociales.
 
 Podrá recabar información de otras entidades federativas, del Distrito Federal y de la Federación, conforme a lo establecido en la Ley General del Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 107.
 
 Para la integración del Sistema Estatal de Estadística Criminológica y su vinculación con el Sistema Nacional de Seguridad Pública, el Consejo, a través del Secretario Ejecutivo del Sistema, promoverá la celebración de convenios para el suministro, intercambio, sistematización y actualización de información, mediante los instrumentos tecnológicos idóneos que permitan el fácil y rápido acceso a las autoridades que, conforme a esta ley, puedan disponer de ella.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Asimismo, el Poder Judicial del Estado de Aguascalientes contribuirá con el Consejo en la formulación de estudios, lineamientos e implementación de acciones que permitan alcanzar los fines de la seguridad pública.
 
 ###### Artículo 108.
 
@@ -1421,9 +1785,9 @@ Los titulares de las dependencias, entidades y de las Instituciones Policiales q
 
 El acceso a los registros y a la información generada por el Sistema Estatal de Estadística Criminológica se hará bajo los más estrictos principios de confidencialidad y reserva en términos de la Ley General del Sistema Nacional de Seguridad Pública y este ordenamiento.
 
-### CAPÍTULO ÚNICO. Medidas Disciplinarias y Sanciones
+### CAPÍTULO ÚNICO. Consejo Estatal y Municipal de Consulta y Participación Ciudadana
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO ÚNICO. Medidas Disciplinarias y Sanciones
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
@@ -1611,13 +1975,15 @@ El Consejo Estatal de Consulta y Participación Ciudadana difundirá a través d
 
 ## TÍTULO NOVENO. RESPONSABILIDADES POR INCUMPLIMIENTO DE LA LEY
 
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
 ###### Artículo 129.
 
 Las medidas disciplinarias son las sanciones a que se hacen acreedores los integrantes de las Instituciones Policiales estatales y municipales, inclusive actuando como policía auxiliar, cuando desacaten los principios de actuación y las obligaciones que esta ley y demás disposiciones jurídicas les asignen. Las sanciones que deban imponerse y los procedimientos para aplicarlas, se especificarán en lo particular para cada institución policial, en sus reglamentos respectivos, atendiendo a lo dispuesto por esta ley. Deberá integrarse al expediente del infractor las resoluciones correspondientes. En la aplicación de las medidas disciplinarias se respetará la garantía de audiencia del infractor.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
-El personal ministerial, pericial y de la policía ministerial se sujetará a lo dispuesto en la Ley Orgánica de la Fiscalía General del Estado, su reglamento interior y demás disposiciones jurídicas aplicables, quedando a cargo de la Fiscalía la aplicación de las normas, supervisión y operación de los procedimientos respectivos.
+El personal ministerial, pericial y de la policía ministerial se sujetará a lo dispuesto en la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes, su reglamento interior y demás disposiciones jurídicas aplicables, quedando a cargo de la Fiscalía la aplicación de las normas, supervisión y operación de los procedimientos respectivos.
 
 ###### Artículo 130.
 
@@ -1633,7 +1999,13 @@ II. Arresto: Privación de la libertad que no podrá exceder las treinta y seis 
 
 III. Cambio de adscripción: Reubicación del elemento de su grupo, turno, servicio o comisión, que se decretará cuando su comportamiento afecte la disciplina y desempeño laboral en su adscripción original o sea necesario para mantener una buena relación e imagen con la comunidad donde se desempeña;
 
-IV. Suspensión Temporal: Separación del elemento al cargo por el incumplimiento de sus funciones por el tiempo que se determine en la resolución, y que no podrá exceder de quince (sic) noventa días naturales;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+IV. Suspensión Temporal: Separación del elemento al cargo por el incumplimiento de sus funciones por el tiempo que se determine en la resolución, y que no podrá exceder de noventa días naturales;
+
+De igual manera, en los casos en que se dicte auto de formal prisión o de vinculación a proceso a un policía ocasionará su suspensión temporal, sin el pago de la remuneración diaria ordinaria, hasta que se resuelva en definitiva el proceso penal correspondiente.
+
+El policía deberá informar, por sí o a través de su defensor, su situación jurídica, para lo cual deberá presentar al superior jerárquico copia certificada de la resolución respectiva, así como de las actuaciones ministeriales o judiciales necesarias, sin perjuicio de que aquél obtenga la información que requiera y lo haga del conocimiento del Órgano de Asuntos Internos; de la unidad administrativa encargada de los recursos humanos y de la instancia responsable de dar el aviso correspondiente al Registro Nacional de Personal de las Instituciones de Seguridad Pública y al Registro Estatal de Personal de Seguridad Pública.
 
 V. Degradación: Descenso en el nivel jerárquico que ostenta el elemento, que se determina por el incumplimiento a las obligaciones propias de su función;
 
@@ -1651,9 +2023,11 @@ Contra las resoluciones que emitan los Consejos de Honor y Justicia, procederá 
 
 El incumplimiento de lo dispuesto por esta Ley a cargo de los servidores públicos, será sancionado conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás disposiciones aplicables en la materia, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
+
 ###### Artículo 134.
 
-Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos estatales y municipales por el manejo o aplicación ilícita de los recursos previstos en los fondos a que se refiere el Artículo 142 de la Ley General del Sistema Nacional de Seguridad Pública, serán determinadas y sancionadas conforme a las disposiciones legales aplicables y por las autoridades competentes.
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos estatales y municipales por el manejo o aplicación indebidos de los recursos previstos en los fondos a que se refiere el Artículo 142 de la Ley General del Sistema Nacional de Seguridad Pública, serán determinadas y sancionadas conforme a las disposiciones legales aplicables y por las autoridades competentes.
 
 ###### Artículo 135.
 
@@ -1834,3 +2208,27 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 23 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 337.- REFORMAS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto Iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo deberá expedir la normatividad reglamentaria necesaria para la total implementación de las funciones otorgadas mediante este Decreto a sus autoridades subordinadas en un periodo no mayor de sesenta días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El catálogo de puesto, el manual de organización y el manual de procedimientos, deberán expedirse en un periodo no mayor de sesenta días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se deberán hacer las modificaciones a las partidas presupuestales correspondientes a la Secretaría de Seguridad Pública del Estado, para el efecto de que la misma cuente con la suficiencia presupuestaria para que se cumpla con las facultades otorgadas en esta reforma, en un periodo no mayor a los sesenta días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, la referencia a dicha Fiscalía contenida en el presente Decreto, se entenderá hecha a la Procuraduría General de la República.
