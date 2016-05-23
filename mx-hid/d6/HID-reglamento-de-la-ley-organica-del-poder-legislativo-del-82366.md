@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2015-11-30"
+last_updated: "2016-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -764,6 +764,10 @@ Las propuestas de Acuerdo Económico presentadas por los Diputados relativo a lo
 ###### ARTÍCULO 69.
 
 Todos los Acuerdos Económicos que sean entregados a la Secretaría de Servicios Legislativos, para su inclusión en el Orden del Día de la sesión que corresponda, serán en forma escrita y magnética y deberán estar debidamente firmados.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+Una vez aprobado, la Secretaría de la Directiva, por conducto de la Secretaría de Servicios Legislativos, lo notificará a las autoridades correspondientes, por medio de oficio, anexando copia del Acuerdo Económico; y de la respuesta que envíen, se dará cuenta al Pleno, para su conocimiento, como se señala en la fracción V Bis, del artículo 117 de la Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2015)</small>
 
@@ -1578,3 +1582,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Contraloría Interna deberá quedar instalada dentro de los 15 días naturales, posteriores a la publicación en el Periódico Oficial del Estado de Hidalgo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 23 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 656.- QUE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 117, UN SEGUNDO PÁRRAFO AL ARTÍCULO 137 DE LA LEY ORGÁNICA Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 69 DEL REGLAMENTO, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
