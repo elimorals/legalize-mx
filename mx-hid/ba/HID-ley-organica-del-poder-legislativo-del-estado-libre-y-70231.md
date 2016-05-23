@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2015-11-30"
+last_updated: "2016-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -1131,6 +1131,10 @@ IV.- Lectura de las comunicaciones oficiales, procedentes de los Poderes Ejecuti
 
 V.- Lectura de las comunicaciones oficiales de los Poderes Federales, de los Estados, del Distrito Federal y de los Municipios de otras Entidades Federativas;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+
+V Bis.- Lectura de las respuestas a los exhortos realizados a las autoridades correspondientes, relativas a los Acuerdos Económicos notificados;
+
 VI.- Lectura de las comunicaciones enviadas por particulares, previo análisis de la procedencia jurídica, por parte de la Directiva;
 
 VII.- Lectura de las comunicaciones de la Directiva;
@@ -1318,6 +1322,10 @@ II.- Contendrá una breve reseña del problema planteado y las consideraciones e
 ###### ARTÍCULO 137.
 
 Toda propuesta de Acuerdo Económico que se dictamine, se someterá a votación del Pleno o de la Diputación Permanente en su caso, para su aprobación, previa lectura del mismo.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+El procedimiento para su notificación y cumplimiento se establece en el artículo 69 del Reglamento de esta Ley.
 
 ###### ARTÍCULO 138.
 
@@ -2230,3 +2238,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Contraloría Interna deberá quedar instalada dentro de los 15 días naturales, posteriores a la publicación en el Periódico Oficial del Estado de Hidalgo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 23 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 656.- QUE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 117, UN SEGUNDO PÁRRAFO AL ARTÍCULO 137 DE LA LEY ORGÁNICA Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 69 DEL REGLAMENTO, AMBOS DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
