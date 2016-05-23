@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-para-el-desarrollo-de-la-sociedad-792
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-31"
-last_updated: "2011-01-31"
+last_updated: "2016-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 340.- LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 23 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de enero de 2011.
 
@@ -572,3 +574,33 @@ Carlos Lozano de la Torre.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Miguel Romo Medina.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 340.- LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ciencia y Tecnología del Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 14 de mayo de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley que crea el Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 31 de enero de 2011.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto para el Desarrollo de la Sociedad del Conocimiento conservará los recursos humanos, materiales, financieros y presupuestales que se generaron con la entrada en vigencia de la Ley que crea el Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes. Consecuentemente quedan vigentes los compromisos y obligaciones adquiridas con anterioridad por el citado organismo.
+
+###### ARTÍCULO QUINTO.
+
+La Junta de Gobierno del Instituto para el Desarrollo de la Sociedad del Conocimiento deberá expedir el Estatuto Interno del IDSCEA dentro de los 120 días siguientes a la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Gobernador del Estado deberá convocar a la instalación de la Junta de Gobierno dentro de los 10 días siguientes a la entrada en vigencia de la presente Ley. En la sesión de instalación los integrantes de la Junta de Gobierno tomarán los acuerdos necesarios para la puesta en marcha del Instituto para el Desarrollo de la Sociedad del Conocimiento.
