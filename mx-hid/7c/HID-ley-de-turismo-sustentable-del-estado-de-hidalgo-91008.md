@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2016-03-28"
+last_updated: "2016-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -164,6 +164,10 @@ b).- Turismo Rural y Comunitario: Implica la participación en actividades propi
 1. Etnoturismo: Se basa en la observación y conocimiento de los grupos étnicos del Estado, a través de sus actividades de conocimiento de la gastronomía, artesanías, vivienda (casas que habitan los lugareños), vestimenta o indumentaria, construcciones, herramientas, lenguajes, leyendas, ferias y festividades y danzas.
 
 2. Ecoturismo: Actividad turística consistente en viajar o visitar áreas naturales, con el fin de disfrutar y estudiar los atractivos naturales de dichas áreas. Comprende cualquier manifestación cultural que pueda encontrarse, a través de un proceso que promueve la conservación, tiene bajo impacto ambiental y cultural y propicia un involucramiento activo y socioecómicamente benéfico de las poblaciones locales. Dentro de sus actividades se encuentran la observación y el estudio de flora y fauna, su reproducción, y sus principales comportamientos en forma general.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+3. Turismo Artesanal: Actividad realizada manualmente con herramientas o procedimientos transmitidos generacionalmente, en forma individual, familiar o comunitaria, que tenga por objeto la transformación de la materia en productos, en donde la creatividad personal constituye un factor predominante en las características culturales, folklóricas y tradicionales de una región en específico, y que representen un atractivo adicional del sector turístico.
 
 c).- Turismo de Aventura: Aquel que incluye el desarrollo de diferentes actividades deportivo-recreativas integrando el cuidado del medio ambiente y respeto de los atractivos turísticos;
 
@@ -507,6 +511,20 @@ La Secretaría en el ejercicio de sus atribuciones, fomentará los programas y a
 
 La Secretaría promoverá el desarrollo del turismo alternativo en sus modalidades de turismo rural, de aventura y ecoturismo dentro de la Entidad.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+###### Artículo 28 Bis.
+
+La Secretaría, se encargará de promover, potenciar y fomentar, la actividad artesanal, así como los productos emanados de la misma, para lo cual deberá:
+
+I. Realizar las acciones necesarias, para vincular en forma directa y eficiente a la actividad artesanal con la aplicación de las políticas que impulsan el sector turismo;
+
+II. En coordinación con las Dependencias involucradas en atender la actividad artesanal y en absoluto respeto a las atribuciones de estas, realizar las acciones directas y transversales a las que haya lugar, con el objeto de fortalecer de manera sustantiva en todos sus aspectos a las artesanías;
+
+III. Con la participación de los Municipios en el ámbito geográfico que corresponda y en atención a sus facultades, promover acciones que faciliten la producción, promoción, difusión y el comercio de los productos artesanales; y
+
+IV. Promover en las ferias turísticas y en las actividades de difusión de los atractivos turísticos, la actividad artesanal.
+
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 29.
@@ -559,6 +577,8 @@ La Secretaría procurará que los programas de señalización del sector conside
 
 ### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
+
 ###### Artículo 36 Bis.
 
 El Estado a través de la Secretaría promoverá a nivel nacional e internacional el turismo gastronómico, a través de la difusión del Compendio de la Gastronomía Hidalguense, en el cual se exprese la amplia riqueza culinaria representada por los platillos típicos de las diversas regiones del Estado.
@@ -599,7 +619,7 @@ Le corresponde a la Secretaría, en coordinación con la Secretaría de Desarrol
 
 ###### Artículo 41.
 
-Le corresponde a la Secretaría, con el apoyo de las autoridades Estatales, Federales y Municipales, promover y difundir la riqueza histórica, turística, cultural, así como el cuidado de los recursos turísticos del Estado de Hidalgo, como parte de la vida y desarrollo de las comunidades hidalguenses.
+Le corresponde a la Secretaría, con el apoyo de las autoridades Estatales, Federales y Municipales, promover y difundir la riqueza histórica, turística, artesanal y cultural, así como como (sic) el cuidado de los recursos turísticos del Estado de Hidalgo, como parte de la vida y desarrollo de las comunidades hidalguenses.
 
 ###### Artículo 42.
 
@@ -625,9 +645,9 @@ La Secretaría propondrá la imagen conceptual del Estado en materia turística 
 
 Corresponde a la Secretaría desarrollar las acciones de promoción del Estado, de acuerdo a lo señalado en el Plan Anual de Mercadotecnia, para lo cual deberá:
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
-I.- Promover, en coordinación con las Dependencias y entidades competentes, así como con los sectores involucrados, las tradiciones, costumbres, e identidad, así como el patrimonio natural y cultural de los pueblos y comunidades indígenas que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción;
+I. Promover, en coordinación con las Dependencias y entidades competentes, así como con los sectores involucrados, las tradiciones, costumbres, identidad y la riqueza artesanal, así como el patrimonio natural y cultural de los pueblos y comunidades indígenas que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación y promoción.
 
 II.- Desarrollar e implementar la marca Hidalgo, para reforzar su imagen como una entidad atractiva, segura y con una oferta turística diversa;
 
@@ -635,7 +655,9 @@ III.- Impulsar el aprovechamiento sustentable y la difusión del patrimonio hist
 
 IV.- Coordinar la participación del Estado en los programas turísticos regionales que conjunten a varias Entidades Federativas, suscribiendo al efecto los convenios necesarios;
 
-V.- Apoyar las celebraciones tradicionales y folklóricas que promuevan las tradiciones y costumbres del Estado, que generen una corriente de visitantes;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+
+V. Apoyar las celebraciones tradicionales y folklóricas, así como la exposición y demostración artesanal, que promuevan las tradiciones y costumbres del Estado, potenciando una mayor afluencia de visitantes en los lugares de celebración.
 
 VI.- Impulsar, estimular y promover, en coordinación con las Dependencias y Entidades de las Administraciones Públicas del Estado y Municipios, así como con los sectores privado y social, el desarrollo de congresos y convenciones, ferias, exposiciones y certámenes en la Entidad, con el fin de incrementar el flujo de visitantes al Estado y aumentar el gasto promedio;
 
@@ -1002,3 +1024,9 @@ P.O. 28 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 646.- QUE REFORMA EL ARTÍCULO 6 BIS DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 657 QUE REFORMA EL ARTÍCULO 41; LAS FRACCIONES I Y V DEL ARTÍCULO 46; Y SE ADICIONA EL NUMERAL 3, AL INCISO B) DE LA FRACCIÓN XXII, DEL ARTÍCULO 5; Y EL ARTÍCULO 28 BIS, DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
