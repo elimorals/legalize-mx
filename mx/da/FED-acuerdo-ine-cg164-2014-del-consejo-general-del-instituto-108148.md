@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg164-2014-del-consejo-general-del-instituto-108148
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-05-29"
-last_updated: "2015-06-04"
+last_updated: "2016-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108148&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-09-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA LA ACREDITACIÓN Y DESARROLLO DE LAS ACTIVIDADES DE LOS CIUDADANOS MEXICANOS QUE ACTUARÁN COMO OBSERVADORES ELECTORALES DURANTE LOS PROCESOS ELECTORALES FEDERAL 2014-2015 Y LOCALES COINCIDENTES CON LA FECHA DE LA JORNADA ELECTORAL FEDERAL, Y EN SU CASO, DE LAS CONSULTAS POPULARES Y DEMÁS FORMAS DE PARTICIPACIÓN CIUDADANA QUE SE REALICEN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2015.
 
@@ -31,7 +31,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTAB
 
 ANTECEDENTES
 
-[...}
+[...]
 
 CONSIDERANDO
 
@@ -227,6 +227,8 @@ Vigésimo Séptimo.- Publíquese el presente Acuerdo en el Diario Oficial de la 
 
 ## TRANSITORIO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO VIGÉSIMO NOVENO DEL ACUERDO INE/CG934/2015 PUBLICADO EN EL D.O.F. DE 23 DE MAYO DE 2016 "Se modifica el término establecido en el Artículo Primero Transitorio de los "Lineamientos para la acreditación y desarrollo de las actividades de los ciudadanos mexicanos que actuarán como Observadores Electorales durante los Procesos Electorales Federal 2014-2015 y Locales coincidentes con la fecha de la Jornada Electoral Federal, y en su caso, de las Consultas Populares y demás formas de participación ciudadana que se realicen" (Acuerdo INE/CG164/2014) para que, a más tardar el treinta de octubre de dos mil dieciséis, este Consejo General, a propuesta de la Comisión de Organización Electoral de este Instituto, apruebe los Lineamientos Generales para la acreditación y desarrollo de las actividades de los ciudadanos mexicanos que actuarán como observadores electorales durante los Procesos Electorales Federales y locales coincidentes y no coincidentes con la fecha de la Jornada Electoral federal, y en su caso, de las consultas populares y demás formas de participación ciudadana que se realicen".]</small>
+
 Primero.- Para la aprobación de los Lineamientos Generales que emitirá el Consejo General, referido en el Punto de Acuerdo Vigésimo Tercero del presente Acuerdo, la Comisión de Organización Electoral presentará el Proyecto de Lineamientos Generales para la Observación Electoral, mismo que tendrá que ser aprobado antes del inicio de los Procesos Electorales cuya Jornada Electoral tenga lugar en el 2016.
 
 Segundo.- El presente Acuerdo entrará en vigor a partir del día siguiente al de su aprobación por el Consejo General de este Instituto.
@@ -242,3 +244,11 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 D.O.F. 4 DE JUNIO DE 2015.
 
 Único. El presente Acuerdo entrará en vigor al momento de su aprobación por el Consejo General del Instituto Nacional Electoral.
+
+D.O.F. DE 23 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA LA ACREDITACIÓN Y DESARROLLO DE LAS ACTIVIDADES DE LOS OBSERVADORES ELECTORALES DURANTE LOS PROCESOS ELECTORALES LOCALES ORDINARIOS A CELEBRARSE EN 2015-2016, LOS EXTRAORDINARIOS QUE RESULTEN DE LOS MISMOS, EN SU CASO, DE LAS DIVERSAS FORMAS DE PARTICIPACIÓN CIUDADANA ESTABLECIDAS EN LAS LEGISLACIONES ESTATALES, ASÍ COMO DE LOS PROCESOS ELECTORALES EXTRAORDINARIOS, LOCALES Y FEDERAL PRODUCTO DE LOS PROCESOS ELECTORALES 2014-2015”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir del momento de su aprobación por el Consejo General de este Instituto.
+
+SEGUNDO. El presente Acuerdo es de observancia general para los Procesos Electorales Locales 2015-2016, así como los extraordinarios que deriven de los mismos; se dejan sin efecto aquellos acuerdos y resoluciones que hayan aprobado los Organismo (sic) Públicos Locales que contravengan su contenido.
