@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-consejo-ciudadano-de-seguridad-91094"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-12"
-last_updated: "2013-01-12"
+last_updated: "2016-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERNO DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA, PREVENCIÓN Y REINSERCIÓN SOCIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO QUINTO DEL DECRETO 25832/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 160, 161, 162 Y 163 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LOS ARTÍCULOS 6° Y 21 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO. PUBLICADO EN EL P.O. DE 24 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016 (ABROGADA).
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 12 de enero del 2013.
 
@@ -648,3 +650,49 @@ MTRO. LUIS CARLOS NÁJERA GUTIÉRREZ DE VELASCO
 Secretario de Seguridad Pública, Prevención y Reinserción Social
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25832/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 160, 161, 162 Y 163 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LOS ARTÍCULOS 6° Y 21 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+Se extingue el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social del Estado de Jalisco.
+
+###### ARTÍCULO TERCERO.
+
+Se traspasa al nuevo Consejo de Seguridad Pública y Procuración de Justicia el personal, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social del Estado de Jalisco haya utilizado para la atención de los asuntos a su cargo.
+
+El personal del extinto consejo que en aplicación de esta reforma pase adscrito a la Secretaría Técnica, del nuevo Consejo Ciudadano de Seguridad y Procuración de Justicia, a desempeñar las funciones que el titular les indique cuando las necesidades del servicio público lo requieran, en ninguna forma resultará afectado en sus derechos laborales adquiridos, en virtud de su relación laboral con la administración pública estatal.
+
+###### ARTÍCULO CUARTO.
+
+La entrega recepción del anterior Consejo al nuevo, deberá hacerse de conformidad a lo previsto en la Ley de Entrega Recepción del Estado de Jalisco.
+
+###### ARTÍCULO QUINTO.
+
+Se abrogar (sic) el Reglamento Interno del Consejo Ciudadano de Seguridad Pública Prevención y Readaptación Social, expedido mediante Acuerdo DIGELAG ACU 071/2012 del 7 de diciembre de 2012, publicado en el Periódico Oficial "EI Estado de Jalisco".
+
+###### ARTÍCULO SEXTO.
+
+EI Gobernador del Estado deberá designar al Secretario Técnico del Consejo Ciudadano de Seguridad y Procuración de Justicia en una (sic) plazo de hasta 30 días naturales a partir de la entrada en vigencia del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Designado el Secretario Técnico, éste deberá convocar a los integrantes del Consejo señalados en las fracciones II, IV y VI, del artículo 161 del presente decreto para que en un plazo no mayor a 30 días naturales después de la convocatoria se instale formalmente el Consejo Ciudadano de Seguridad Pública y Procuración de Justicia.
+
+###### ARTÍCULO OCTAVO.
+
+Instalado el Consejo, tendrá 15 días hábiles para enviar al Gobernador del Estado la propuesta de Reglamento Interno de conformidad a lo previsto en la fracción XVI del artículo 163 del presente decreto.
+
+Recibida la propuesta, el Gobernador del Estado tendrá un plazo de hasta 15 días hábiles para la expedición del Reglamento Interno.
+
+###### ARTÍCULO NOVENO.
+
+EI Gobernador del Estado deberá realizar los ajustes presupuestarios necesarios conforme sea procedente para cumplir con lo previsto en el presente decreto.
