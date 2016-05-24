@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2015-11-17"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO 24988/LX/14 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2014, ENTRA EN VIGOR CONFORME A LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, APROBADA MEDIANTE DECRETO 24864/LX/14, PUBLICADO EN FECHA 11 DE ABRIL DEL 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -101,7 +101,9 @@ VII. Comisario General: el titular de la Comisaría General de Seguridad Públic
 
 VIII. Consejo Estatal: el Consejo Estatal de Seguridad Pública;
 
-IX. Consejo Ciudadano: el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+
+IX. Consejo Ciudadano: Consejo Ciudadano de Seguridad y Procuración de Justicia;
 
 X. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
 
@@ -2019,6 +2021,8 @@ El Ministerio Público sólo podrá reservarse la información que ponga en ries
 
 ### Capítulo I. De la participación ciudadana
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
 ###### Artículo 156.
 
 El Reglamento del Centro Integral de Información sobre Seguridad Pública determinará las bases para incorporar otros servicios o instrumentos que tiendan a integrar la información sobre seguridad pública y los mecanismos modernos que den agilidad y rapidez a su acceso.
@@ -2061,93 +2065,139 @@ Cualquier interesado que estime falsa o errónea alguna información, podrá sol
 
 ###### Artículo 160.
 
-Existirá en el estado un Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social, y en cada institución de seguridad pública de los municipios podrá haber también un Consejo de Participación Ciudadana, con el carácter de órgano colegiado consultivo.
+El Consejo Ciudadano de Seguridad y Procuración de Justicia, es un órgano de análisis, opinión y consulta, constituido como un ente público de participación ciudadana, con autonomía técnica y de gestión, sectorizado administrativamente a la Fiscalía General del Estado.
+
+En los municipios podrá haber Consejo (sic) Consultivos Ciudadanos de Seguridad Pública, que apoyen a la autoridad municipal en la materia.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ###### Artículo 161.
 
-El Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social se conformará de la siguiente manera:
+El Consejo Ciudadano se conformará de la siguiente manera:
 
 I. Un Presidente, que será el Gobernador del Estado o la persona que éste designe;
 
-II. Consejeros nombrados por el titular del Poder Ejecutivo estatal, de las siguientes dependencias;
+II. El titular de cada una de las siguientes dependencias estatales o quien éste designe;
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+a) Fiscalía General, y
 
-a) Secretaría de Movilidad;
+b) Secretaría de Movilidad.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+III. El Secretario Técnico del Consejo Estatal de Seguridad Pública;
 
-b) Fiscalía General;
+IV. El diputado presidente de la comisión legislativa de Seguridad Pública y Protección Civil;
 
-c) (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014);
+V. Cinco representantes de la sociedad civil, a invitación del Consejo en términos de su Reglamento;
 
-d) Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
+VI. Un representante por cada uno de los siguientes organismos en el Estado:
 
-III. Los diputados presidentes de las comisiones legislativas del Congreso del Estado de:
+a) Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara, Asociación Civil,
 
-a) Seguridad Pública y Protección Civil;
+b) Centro Empresarial de Jalisco, Sindicato Patronal,
 
-b) Readaptación Social;
+c) Consejo Mexicano de Comercio Exterior de Occidente, Asociación Civil,
 
-c) Justicia, y
+d) Consejo de Cámaras Industriales de Jalisco, Asociación Civil, y
 
-d) Vialidad, Transporte y Comunicaciones.
+e) Consejo Agropecuario de Jalisco, Asociación Civil.
 
-IV. Los presidentes municipales de la zona metropolitana de Guadalajara, o sus representantes;
+VII. Cinco representantes especialistas en la materia del mismo número de universidades con sede en el Estado, propuestos por el Consejo y a invitación del Gobernador del Estado;
 
-V. Cuatro representantes de la sociedad civil, a invitación del Gobernador;
+VIII. Un Secretario Técnico, con derecho a voz y designado por el Gobernador del Estado;
 
-VI. Un representante de las cámaras industriales de la entidad;
+IX. Un presidente municipal del área Metropolitana de Guadalajara, el que será electo por los integrantes de la Junta de Coordinación Metropolitana de entre ellos mismos, dicho presidente será invitado por el Gobernador en los términos del Reglamento.
 
-VII. Un representante de la Cámara Nacional de Comercio y Servicios de Guadalajara;
+Los titulares del Consejo podrán designar por escrito a un suplente en los términos de su reglamento.
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+EI Consejo podrá invitar a sus sesiones a cualquier institución o persona, pública o privada, que por su trabajo, experiencia o capacidad puedan contribuir con el órgano colegiado. Estos sólo tendrán derecho a voz.
 
-VIII. Un representante de Coparmex Jalisco;
+La selección de los Consejeros a que se refieren las fracciones V y VII de este artículo, se hará de conformidad a lo previsto en el Reglamento Interno del Consejo.
 
-IX. Un representante de la Universidad de Guadalajara;
-
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
-
-X. Previa invitación del Consejo, un representante de instituciones de educación superior privada de la entidad; y
-
-XI. Cualquier otra institución que el Consejo apruebe invitar.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ###### Artículo 162.
 
-Los cargos de consejeros y consejero presidente de los Consejos Ciudadano de Seguridad Pública, Prevención y Reinserción Social y Municipales serán honoríficos y, por lo tanto, no remunerados.
+Los cargos de consejero del Consejo Ciudadano son honoríficos y por lo tanto no remunerados, con excepción del Secretario Técnico y el personal adscrito a la secretaría técnica.
 
-Se exceptúan de lo anterior el Secretario Técnico y el personal adscrito a la secretaria técnica.
+La estructura administrativa del Consejo estará sujeta a sus necesidades y a la disposición presupuestaria de la Fiscalía.
 
 ###### Artículo 163.
 
 El Consejo Ciudadano tendrá las siguientes facultades:
 
-I. Ser órgano de consulta, análisis y opinión en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+
+I. Analizar y emitir opinión en materia del sistema de seguridad pública;
 
 II. Realizar los estudios relacionados con la situación estatal y, en su caso, municipal, en el área de la protección ciudadana, así como analizar la problemática en las zonas con mayor índice de delincuencia para proponer los objetivos y políticas para su adecuada solución;
 
-III. Verificar que se preste adecuadamente el servicio de seguridad pública;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
-IV. Proponer normas y procedimientos que permitan mejorar la atención y seguridad al denunciar las quejas que formule la ciudadanía contra los abusos de los elementos de los cuerpos de seguridad pública;
+III. Proponer programas de prevención contra la inseguridad;
 
-V. Otorgar reconocimientos a cualquier institución de seguridad pública o alguno de sus integrantes que sobresalgan a su juicio, en la prestación del servicio. Cuando se conceda el reconocimiento a un integrante o grupo de ellos, éste será eficaz para efectos de ascensos en el servicio profesional de carrera, por lo que deberá inscribirse en el expediente correspondiente;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
-VI. Recibir indistintamente al área correspondiente de las instituciones de seguridad pública, las quejas en contra de las presuntas malas o deficientes actuaciones del personal, teniéndolas que remitir dentro de las 48 horas siguientes para su legal conocimiento y sustanciación a la autoridad competente;
+IV. Proponer normas y procedimientos que permitan mejorar la atención y seguridad de las personas que señalen abusos de los integrantes del sistema de seguridad pública;
 
-VII. Solicitar a la Comisión Estatal de Derechos Humanos, que inicie queja con motivo de hechos de los que pudiera ser conocedor, así como opiniones jurídicas e informes relacionados con el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
-VIII. Presentar formal denuncia ante el agente del Ministerio Público, con motivo de hechos presuntamente delictuosos de los que pudiera ser conocedor;
+V. Otorgar reconocimientos a cualquier institución de seguridad pública o alguno de sus integrantes que sobresalgan a su juicio, en la prestación del servicio, dicho reconocimiento será eficaz para efectos de ascensos en el servicio profesional de carrera, por lo que deberá inscribirse en el expediente correspondiente;
 
-IX. Llevar y administrar un programa de denuncia anónima, remitiendo con prontitud los hechos de los cuales sea conocedor a la autoridad competente;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
-X. Proponer y en su caso instrumentar estrategias para fomentar, promover e incentivar la denuncia de los delitos y otras para reducir los índices de percepción de inseguridad;
+VI. Recibir las quejas o señalamientos en contra de presuntas malas o deficientes actuaciones del personal del sistema de seguridad pública, que tenga conocimiento en ejercicio de sus atribuciones, teniéndolas que remitir dentro de las 48 horas siguientes para su legal conocimiento y sustanciación a la autoridad competente;
 
-XI. Proponer al Gobernador del Estado para su consideración, el proyecto de Reglamento Interno y en su caso, sus adecuaciones, que rija mínimamente la integración del Consejo en pleno, sus comisiones y el trabajo en ellas, las reglas para llevar a cabo las sesiones, debates y votaciones y la organización y adscripción de la Secretaría Técnica como dependencia permanente coordinadora de los trabajos y ejecutora de las decisiones del pleno del Consejo integrada por los servidores públicos que el titular del ejecutivo disponga;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
-XII. Proponer acciones a emprender para la prevención de delitos e infracciones a las leyes y reglamentos del Estado, y
+VII. Denunciar ante la Comisión Estatal de Derechos Humanos, o en su caso ante la Comisión Nacional, hechos que pudieran implicar violación a los derechos fundamentales y de los que ha tenido conocimiento en el ejercicio de sus atribuciones;
 
-XIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+
+VIII. Presentar denuncia ante el Ministerio Público, con motivo de hechos presuntamente delictuosos, que conozca en el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+
+IX. Instrumentar y operar un programa de denuncia anónima, remitiendo con prontitud, cuando sea el caso, los hechos denunciados a la autoridad competente;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+
+X. Fomentar, promover e incentivar la denuncia de los delitos mediante las estrategias que juzgue oportuno dentro de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+
+XI. Celebrar convenios de cooperación o coordinación en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+
+XII. Fomentar la integración de los consejos consultivos ciudadanos municipales en materia de seguridad pública;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+
+XIII. Recibir donativos de entes públicos o privados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
+
+XIV. Administrar los bienes que reciba de conformidad al Reglamento Interior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
+
+XV. Instrumentar y operar un programa de recompensa a los servidores públicos del Sistema de Seguridad Pública en los términos del Reglamento Interno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
+
+XVI. Monitorear la comisión de delitos de alto impacto lo que deberá considerar al momento de emitir sus opiniones sobre medidas preventivas y acciones de gobierno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
+
+XVII. Proponer al Gobernador del Estado el proyecto de Reglamento Interno que rija el funcionamiento del Consejo y la organización de la Secretaría Técnica como instancia coordinadora de los trabajos y ejecutora de las decisiones del Pleno del Consejo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
+
+XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2016)</small>
+
+Las opiniones del Consejo no serán vinculantes para la autoridad, pero ésta deberá dar respuesta por escrito sobre la viabilidad en un plazo no mayor a treinta días hábiles después de recibida la opinión.
 
 ###### Artículo 164.
 
@@ -2409,6 +2459,50 @@ P.O. 17 DE NOVIEMBRE DE 2015.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
+P.O. 24 DE MAYO DE 2016.
+
 ## Título Noveno. De los servicios de seguridad privada
 
 ## Título Décimo. De los delitos contra el funcionamiento del Sistema Estatal De Seguridad Pública
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25832/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 160, 161, 162 Y 163 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LOS ARTÍCULOS 6° Y 21 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+Se extingue el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social del Estado de Jalisco.
+
+###### ARTÍCULO TERCERO.
+
+Se traspasa al nuevo Consejo de Seguridad Pública y Procuración de Justicia el personal, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social del Estado de Jalisco haya utilizado para la atención de los asuntos a su cargo.
+
+El personal del extinto consejo que en aplicación de esta reforma pase adscrito a la Secretaría Técnica, del nuevo Consejo Ciudadano de Seguridad y Procuración de Justicia, a desempeñar las funciones que el titular les indique cuando las necesidades del servicio público lo requieran, en ninguna forma resultará afectado en sus derechos laborales adquiridos, en virtud de su relación laboral con la administración pública estatal.
+
+###### ARTÍCULO CUARTO.
+
+La entrega recepción del anterior Consejo al nuevo, deberá hacerse de conformidad a lo previsto en la Ley de Entrega Recepción del Estado de Jalisco.
+
+###### ARTÍCULO QUINTO.
+
+Se abrogar (sic) el Reglamento Interno del Consejo Ciudadano de Seguridad Pública Prevención y Readaptación Social, expedido mediante Acuerdo DIGELAG ACU 071/2012 del 7 de diciembre de 2012, publicado en el Periódico Oficial "EI Estado de Jalisco".
+
+###### ARTÍCULO SEXTO.
+
+EI Gobernador del Estado deberá designar al Secretario Técnico del Consejo Ciudadano de Seguridad y Procuración de Justicia en una (sic) plazo de hasta 30 días naturales a partir de la entrada en vigencia del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Designado el Secretario Técnico, éste deberá convocar a los integrantes del Consejo señalados en las fracciones II, IV y VI, del artículo 161 del presente decreto para que en un plazo no mayor a 30 días naturales después de la convocatoria se instale formalmente el Consejo Ciudadano de Seguridad Pública y Procuración de Justicia.
+
+###### ARTÍCULO OCTAVO.
+
+Instalado el Consejo, tendrá 15 días hábiles para enviar al Gobernador del Estado la propuesta de Reglamento Interno de conformidad a lo previsto en la fracción XVI del artículo 163 del presente decreto.
+
+Recibida la propuesta, el Gobernador del Estado tendrá un plazo de hasta 15 días hábiles para la expedición del Reglamento Interno.
+
+###### ARTÍCULO NOVENO.
+
+El Gobernador del Estado deberá realizar los ajustes presupuestarios necesarios conforme sea procedente para cumplir con lo previsto en el presente decreto.
