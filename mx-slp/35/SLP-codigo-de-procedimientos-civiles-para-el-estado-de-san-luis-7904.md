@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2015-09-05"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1145,7 +1145,11 @@ De la petición y de los documentos dichos el juez mandará notificar al tercero
 
 En estos casos el término concedido al demandado, para contestar la demanda, se ampliará por todo el término concedido al tercero para el mismo efecto, debiendo, en su caso, observarse las disposiciones relativas al nombramiento de un representante común.
 
-Transcurrido el término concedido al tercero para contestar la demanda, continuará el juicio por sus trámites legales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+Transcurrido el término concedido al tercero para contestar la demanda, de oficio se ordenará la continuación del juicio por sus trámites legales.
 
 ART. 259.- El demandado formulará la contestación en los términos prevenidos para la demanda.
 
@@ -1157,11 +1161,19 @@ ART. 260.- Se presumirán confesados por el demandado todos los hechos de la dem
 
 ART. 261.- Las excepciones y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia. Si se opusiere como única excepción la de cosa juzgada, a petición del demandado, se podrá continuar y decidir el pleito como juicio extraordinario.
 
-ART. 262.- Si entre las excepciones opuestas hubiere de previa y especial pronunciamiento, se substanciarán, dejando en suspenso el principal, como se dispone en los Capítulos II, del Título I y III, del Título III, de este Código. Resueltas que sean, continuará en su caso el curso del juicio.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 262.- Si entre las excepciones opuestas hubiere de previo y especial pronunciamiento, se sustanciarán, dejando en suspenso el principal, como se dispone en los capítulos II del Título I, y III, del Título III, de este Código. Resueltas que sean, de oficio se ordenará, en su caso, que continúe el curso del juicio.
 
 ART. 263.- Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, que no fué de previo pronunciamiento, se abstendrá el juez de fallar la cuestión principal, reservando el derecho del actor.
 
-ART. 264.- Transcurrido el término del emplazamiento sin haber sido contestada la demanda, se hará la declaración de rebeldía y se mandará recibir el negocio a prueba, observándose las prescripciones del Capítulo II del Título IX.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 264.- Transcurrido el término del emplazamiento sin haber sido contestada la demanda, de oficio se hará la declaración de rebeldía y se mandará recibir el negocio a prueba, observándose las prescripciones del Capítulo II del Título IX.
 
 Para hacer la declaratoria de rebeldía, el juez examinará escrupulosamente si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
 
@@ -1171,9 +1183,11 @@ ART. 265.- El demandado que oponga reconvención o compensación, lo hará preci
 
 ART. 266.- Las excepciones supervenientes podrán oponerse en cualquier tiempo hasta antes de la sentencia y dentro de los tres días siguientes al en que la parte que las haga valer tenga conocimiento de ellas. Se substanciarán por cuerda separada y en forma incidental; pero su resolución se reservará para la definitiva.
 
-ART. 267.- Confesada la demanda en todas sus partes o manifestando el actor su conformidad con la contestación de ella, previa citación se pronunciará sentencia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se pondrán los autos a disposición de las partes para que aleguen, y la sentencia se pronunciará dentro del término de diez días.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 267.- Confesada la demanda en todas sus partes o manifestando el actor su conformidad con la contestación de ella, de oficio se citará para oír sentencia. Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, de oficio o, a petición de parte, se pondrán los autos a disposición de las partes para que aleguen, y la sentencia se deberá pronunciar dentro del término de quince días.
 
 ART. 268.- Queda abolida la práctica de oponer excepciones o defensas contradictorias, aun cuando sea con el carácter de subsidiarias, debiendo los jueces desechar éstas de plano.
 
@@ -1191,9 +1205,13 @@ Tratándose de niños, niñas y adolescentes e incapaces, éstos serán represen
 
 Las partes de común acuerdo podrán solicitar en cualquier etapa del procedimiento hasta antes de que se dicte sentencia, la suspensión del mismo, a efecto de que se apliquen los mecanismos alternativos de solución de conflictos en la forma y términos previstos en la Ley correspondiente.
 
-ART. 269.- El juez mandará recibir el pleito a prueba en caso de que los litigantes lo hayan solicitado, o de que él lo estime necesario. Si el juez no decidiere nada sobre el particular al resolver sobre la contestación de la demanda, se entenderá que se recibe a prueba, corriendo desde luego el término para ofrecerlas.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-El auto que manda abrir un negocio a prueba no admite recurso alguno; el que lo niegue, será apelable en ambos efectos si además lo fuere la sentencia definitiva.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 269.- El juez, una vez satisfechas las formalidades procesales correspondientes, de oficio mandará recibir el juicio a prueba en caso de que los litigantes lo hayan solicitado, o de que él lo estime necesario.
+
+El auto que ordene abrir un juicio a prueba no admite recurso; el que lo niegue será apelable en el efecto devolutivo.
 
 ### CAPITULO II. Reglas Generales sobre la Prueba
 
@@ -1273,11 +1291,21 @@ ART. 287.- Los documentos que ya se exhibieron antes de este período y las cons
 
 ART. 288.- Al solicitarse la inspección judicial se determinarán los puntos sobre que deba de versar.
 
-ART. 289.- Al día siguiente en que termine el período de ofrecimiento de pruebas, el juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudentemente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 289.- Al día siguiente en que termine el período de ofrecimiento de pruebas, el juez, de oficio dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudentemente.
 
 No se admitirán diligencias de prueba contra derecho, contra la moral o sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles.
 
-ART. 290.- Contra el auto que niegue una prueba de las ofrecidas oportunamente, procede el recurso de apelación en ambos efectos, si además es apelable la sentencia definitiva; el que la conceda no tendrá recurso alguno. El auto que niegue la recepción de una prueba promovida después del término del ofrecimiento no admite recurso alguno.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 290.- Contra el auto que niegue la admisión o desahogo de prueba ofrecida oportunamente, procede el recurso de apelación en el efecto devolutivo; el que la conceda no admitirá ningún recurso.
+
+El auto que niegue la admisión de una prueba promovida después del término del ofrecimiento, no admite recurso alguno.
 
 ART. 291.- Las pruebas se recibirán durante el período probatorio a medida que se vayan presentando o el juez lo determine, lo cual puede hacer desde el auto de admisión.
 
@@ -1323,11 +1351,23 @@ ART. 298.- Las diligencias de prueba sólo podrán practicarse dentro del térmi
 
 ART. 299.- Las pruebas documentales que se presenten fuera del término, serán admitidas en cualquier estado del juicio hasta la citación para sentencia, protestando la parte que antes no supo de ellas y dándose conocimiento de las mismas a la contraria, para que dentro del término de tres días exponga lo que a sus derechos convenga, reservándose la decisión de los puntos que se suscitaren hasta la sentencia definitiva.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+El auto que niegue la admisión de estas pruebas no admite recurso alguno.
+
 ART. 300.- Las diligencias de prueba practicadas en otros juzgados, en virtud del requerimiento del juez de los autos, durante la suspensión del término, serán válidas y surtirán sus efectos mientras el requerido no tenga aviso de suspenderlas.
 
 #### Sección II. De la Confesión
 
-ART. 301.- La confesión puede hacerse en cualquier estado del juicio ante el juez competente, desde la contestación de la demanda hasta antes de la citación para sentencia, y los litigantes están obligados a declarar bajo protesta, sobre hechos propios, a petición de parte o por mandato judicial, sin que por ésto se suspenda el curso del juicio.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 301.- La confesión puede emitirse en cualquier estado del juicio ante el juez competente, desde la contestación de la demanda hasta antes de la citación para sentencia.
+
+Los litigantes están obligados a declarar bajo protesta, sobre hechos propios, a petición de parte o por mandato judicial, sin que por ello se suspenda el curso del juicio.
 
 ART. 302.- El que haya de absolver posiciones será citado personalmente, a más tardar el día anterior al señalado para la diligencia, bajo apercibimiento de que si dejare de comparecer sin justa causa, será tenido por confeso.
 
@@ -1351,6 +1391,12 @@ ART. 307.- Las posiciones deberán concretarse a hechos que sean objeto del deba
 
 ART. 308.- Si el citado a absolver posiciones comparece, el juez abrirá el pliego si lo hubiere, e impuesto de ellas, las calificará y aprobará sólo las que se ajusten a lo dispuesto por los artículos 306 y 307.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+Contra la calificación de posiciones no procederá recurso alguno.
+
 ART. 309.- Hecha la protesta de decir verdad, el juez procederá al interrogatorio, asentando literalmente las respuestas; y concluída la diligencia, la parte absolvente firmará al margen del pliego de posiciones. Las contestaciones deberán ser afirmativas o negativas, pudiendo agregar el que las dé las explicaciones que crea convenientes y las que el juez con toda amplitud le pida.
 
 En el caso de que el declarante se negare a contestar o contestare con evasivas, o dijere ignorar los hechos propios, el juez lo apercibirá en el acto de tenerlo por confeso sobre los hechos respecto de los cuales no quisiere declarar, o sus respuestas no fueren categóricas o terminantes.
@@ -1359,7 +1405,11 @@ Si la negativa se fundare en ilegalidad de las posiciones, el juez en el acto de
 
 ART. 310.- Si fueren varios los que hayan de absolver posiciones y al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente y en un mismo acto, evitando que los que absuelvan primero se comuniquen con los que han de absolver después.
 
-ART. 311.- En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente fuere extranjero, podrá ser asistido por un intérprete, en cuyo caso el juez lo nombrará.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 311.- En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente fuere extranjero, o indígena, podrá ser asistido por un intérprete, en cuyo caso, el juez lo nombrará.
 
 ART. 312.- La parte que promovió la prueba puede formular, oral o directamente, posiciones al absolvente.
 
@@ -1387,7 +1437,11 @@ ART. 318.- No podrá ser declarado confeso el llamado a absolver posiciones, si 
 
 La declaración se hará cuando la parte contraria lo pidiere, después de contestada la demanda hasta la citación para sentencia.
 
-ART. 319.- El auto en que se declare confeso a un litigante, conforme al artículo anterior, o el en que se deniegue esta declaración, es apelable en el efecto devolutivo, siempre que sea apelable la sentencia definitiva.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 319.- El auto en que se declare confeso a un litigante, conforme al artículo anterior, o el en que se deniegue esta declaración, es apelable en el efecto devolutivo.
 
 ART. 320.- Se tendrá por confeso al articulante respecto de los hechos que afirmare en las posiciones, y contra ellos no se le admitirá prueba testimonial.
 
@@ -1479,9 +1533,17 @@ ART. 341.- Los peritos deberán tener título en la ciencia, arte o industria a 
 
 Si la profesión, el arte o la industria no estuvieren legalmente reglamentados o estándolo, no hubiere peritos en el lugar, podrán ser nombradas personas entendidas, aun cuando no tengan título.
 
-ART. 342.- Cada parte, dentro de los tres días siguientes a la notificación del auto que ordene el dictamen pericial, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el juez.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ART. 343.- EL juez designará los peritos que corresponda nombrar a cada parte, en los casos siguientes:
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 342.- Cada parte, dentro de los tres días siguientes a la notificación del auto que ordene el dictamen pericial, nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. De oficio, el juez nombrará al perito tercero en discordia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 343.- El juez designará, de oficio, los peritos que corresponda nombrar a cada parte, en los casos siguientes:
 
 I.- Si alguno de los litigantes dejare de hacer el nombramiento en el término señalado en el artículo anterior;
 
@@ -1763,11 +1825,17 @@ ART. 407.- La valorización de las pruebas se hará de acuerdo con el presente C
 
 ### CAPITULO VI. De los Alegatos y Citación para Sentencia
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ART. 408.- Concluida la recepción de las pruebas ofrecidas, el juez mandará poner los autos a la vista de las partes, por el término de cinco días comunes, para que produzcan sus alegatos.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-ART. 409.- Presentados o no los alegatos, una vez transcurrido el término concedido para alegar, el juez dictará auto de citación para sentencia.
+ART. 408.- Concluida la recepción de las pruebas ofrecidas, el juez, de oficio, mandará poner los autos a la vista de las partes, por el término común de seis días, para que aleguen de buena prueba.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 409.- Presentados o no los alegatos, una vez transcurrido el término para alegar, el juez, de oficio, dictará auto de citación para sentencia.
 
 ### CAPITULO VII. De la Sentencia Ejecutoriada
 
@@ -3575,7 +3643,11 @@ ART. 786.- Decretada la suspensión, surtirá efectos mientras el Ministerio Pú
 
 ART. 787.- Concluída la averiguación criminal continuará el curso de los autos civiles y si el procedimiento penal termina sin decidir sobre la falsedad o autenticidad del documento, el tribunal de lo civil concederá un término de diez días para que rindan las partes sus pruebas, a fin de que, en la sentencia, se decida sobre el valor probatorio del documento.
 
-## TITULO DECIMO PRIMERO. Suspensión e Interrupción del Proceso
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2016)</small>
+
+## TITULO DECIMO PRIMERO. Suspensión, Interrupción, y Caducidad del Proceso
 
 ### CAPITULO I. Suspensión
 
@@ -3625,6 +3697,102 @@ ART. 795.- Es aplicable al caso de interrupción, lo dispuesto por el artículo 
 
 Para los efectos de este artículo, la interrupción se retrotraerá a la fecha del fallecimiento.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2016)</small>
+
+### CAPITULO III. Caducidad
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 795-BIS.- La caducidad se decretará de oficio o, a petición de parte, cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta la citación para oír sentencia, en aquellos casos en que concurran las siguientes circunstancias:
+
+I. Que hayan transcurrido ciento ochenta días naturales contados a partir del día siguiente a aquél en que surtió efectos la notificación de la última resolución judicial dictada, y
+
+II. Que no hubiere actuación procesal, o promoción de cualquiera de las partes, dando impulso al procedimiento para su trámite, solicitando la continuación para la conclusión del mismo.
+
+Para los efectos de este capítulo se entenderá por actuación procesal o promoción, todo acto encaminado en forma directa e inmediata a impulsar o dar continuidad al juicio para su trámite o resolución.
+
+El término a que se refiere este artículo deberá computarse a partir de la fecha en que surta efectos la última notificación que se hubiese hecho a las partes. Si el último día de dicho término fuere inhábil, se entenderá prorrogado el mismo hasta el primer día hábil siguiente.
+
+Lo dispuesto en este artículo será aplicable en ambas instancias, tanto en el juicio principal como en los incidentes.
+
+Caducado el negocio principal, caducarán también los incidentes. En cambio, la caducidad de los incidentes solamente producirá la del juicio, cuando a virtud de los mismos, se haya suspendido el procedimiento en éste.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 795 TER.- Cuando en el caso de los supuestos señalados en el artículo anterior, no se comprendan todas las cuestiones litigiosas para cuya resolución se haya abierto el proceso, éste continuará solamente en lo relativo a las cuestiones restantes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 795 QUÁTER.- El auto o resolución que decrete la caducidad será dictado por el juez o tribunal, inmediatamente que tenga conocimiento de los hechos que la motiven.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 795 QUINQUE.- La caducidad del proceso se encuentra sujeta, en cuanto a sus efectos y formas, a las normas siguientes:
+
+I. Es de orden público y opera en consecuencia por el solo transcurso del término indicado;
+
+II. Extingue el proceso, más no la acción, ni el derecho sustantivo aducido;
+
+III. Hace ineficaces las actuaciones del juicio, restableciendo las cosas al estado en que se encontraban antes de la presentación de la demanda. Se exceptúan de tal ineficacia las resoluciones firmes que se hubiesen dictado respecto de excepciones procesales, las cuales regirán en cualquier juicio ulterior que se promoviere;
+
+IV. Deja sin efecto los embargos preventivos y las medidas cautelares decretadas;
+
+V. La caducidad decretada en la segunda instancia deja firme la resolución apelada, y
+
+VI. Puede ser decretada por auto o en sentencia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 795 SEXTIES.- Contra la resolución de primera instancia que decrete la caducidad procederá el recurso de apelación en ambos efectos. La negativa del juez a decretarla será apelable en el efecto devolutivo.
+
+La resolución de segunda instancia que niegue la caducidad de la misma, podrá ser impugnada a través del recurso de reposición. La que decrete tal caducidad no admitirá ningún recurso.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 795 SEPTIES.- En los siguientes casos no podrá operar la caducidad de la instancia:
+
+I. Tratándose de juicios universales de concursos y sucesiones; pero si en los juicios con ellos relacionados que se tramiten acumulada, o independientemente, o que surjan o deriven de aquéllos;
+
+II. En juicios de alimentos;
+
+III. En juicios donde se diluciden derechos de menores de edad, o incapaces;
+
+IV. Cuando el procedimiento esté suspendido por causa de fuerza mayor que impida actuar al juez, o tribunal, o a las partes;
+
+V. Cuando sea necesario esperar la resolución de una cuestión previa o conexa, por el mismo juez o por otra autoridad;
+
+VI. En los casos en que la suspensión provenga de cualquier otra situación que impida legalmente la continuación del procedimiento;
+
+VII. Cuando el procedimiento deba ser impulsado de oficio por el juez o tribunal;
+
+VIII. Cuando se haya citado a las partes para oír sentencia;
+
+IX. En materia de ejecución de sentencias firmes, y
+
+X. Tratándose de negocios que se encuentren en segunda instancia para revisión oficiosa de la resolución pronunciada por el juez.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 795 OCTIES.- Las costas serán a cargo del actor cuando se decrete la caducidad del juicio en primera instancia. En la segunda instancia serán a cargo del apelante; y en los incidentes las pagará el que lo haya interpuesto. Sin embargo, las costas serán compensables con las que corran a cargo del demandado cuando hubiera opuesto reconvención, compensación, nulidad y, en general, las excepciones o defensas que tiendan a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
+
+## TITULO DECIMO SEGUNDO. De la Jurisdicción Voluntaria
+
 ### CAPITULO I. Disposiciones Generales
 
 ART. 796.- La jurisdicción voluntaria comprende todos los actos en que, por disposición de la Ley o por solicitud de los interesados, se requiere la intervención del juez, sin que esté promovida ni se promueva controversia alguna entre partes determinadas. Las diligencias de posesión judicial, jamás serán objeto de jurisdicción voluntaria.
@@ -3659,65 +3827,7 @@ ART. 804.- La sustanciación de las apelaciones en jurisdicción voluntaria se s
 
 ART. 805.- Los actos de jurisdicción voluntaria de que no se hiciere mención especial en este Código, se sujetarán a lo dispuesto en este Capítulo.
 
-## TITULO DECIMO SEGUNDO. De la Jurisdicción Voluntaria
-
 ### CAPITULO II. De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos cargos y de las Cuentas de la Tutela
-
-### CAPITULO III. De la Venta de Bienes de Menores e Incapacitados y Transacción Sobre sus Derechos
-
-ART. 858.- Será necesario obtener licencia judicial para disponer de los bienes que pertenezcan exclusivamente a menores, incapacitados y ausentes, que correspondan a las clases siguientes:
-
-I.- Bienes raíces;
-
-II.- Derechos reales sobre muebles;
-
-III.- Alhajas y muebles preciosos;
-
-IV.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
-
-ART. 859.- Para decretar la venta de bienes se necesita que al pedirse se exprese el motivo de la enajenación y el objeto a que deba aplicarse la suma que se obtenga y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
-
-Si fuere el tutor quien solicita la venta deberá proponer al hacer la promoción las bases del remate, en cuanto a la cantidad que deba darse de contado, el plazo, intereses y garantías del remanente.
-
-La solicitud del tutor se sustanciará en forma de incidente con el curador y el Ministerio Público. La sentencia que se dicte será apelable en ambos efectos.
-
-Los peritos que se designen para hacer el avalúo, serán nombrados por el juez.
-
-ART. 860.- Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resultare al menor; si se decreta, se hará por conducto del Monte de Piedad; de lo contrario, se procederá conforme al artículo 1095, en lo conducente.
-
-El remate de los inmuebles se hará conforme a los artículos 1063 y siguientes y en él no podrá admitirse postura que baje de las cuatro quintas partes del avalúo pericial ni la que no se ajuste a los términos de la autorización judicial.
-
-Si en la primera almoneda no hubiere postor, el juez convocará, a solicitud del tutor o curador, a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
-
-ART. 861.- Para la venta de acciones y títulos de renta se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de corredor titulado, y si no lo hay, de comerciante establecido y acreditado.
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
-
-ART. 862.- El precio de la venta se entregará al tutor si las fianzas o garantías que tuviere prestadas son suficientes para responder de él, o si estuviere relevado de prestarlas conforme a las fracciones I y III del artículo 405 del Código Familiar para el Estado.
-
-El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación, pero si pasan tres meses se procederá como previene el artículo 334 del Código Familiar para el Estado.
-
-ART. 863.- El juez cuidará, bajo su responsabilidad, de que se dé al precio que se haya obtenido, la aplicación indicada al solicitar la autorización.
-
-ART. 864.- Si el tutor no estuviese relevado de dar garantía y faltare ésta o no fuere suficiente la que hubiere dado, el precio se depositará conforme al artículo 1034 de este Código.
-
-ART. 865.- Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los términos señalados en el artículo 859. El incidente se sustanciará con el Ministerio Público y un tutor especial que para el efecto nombrará el juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
-
-También requerirán los padres la autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo las disposiciones del párrafo anterior, para obtenerla.
-
-ART. 866.- Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la autorización judicial, que sólo podrá concederse con audiencia del curador.
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
-
-ART. 867.- Para transigir sobre derechos de menores o incapacitados, deberán observarse en lo relativo las disposiciones de los artículos anteriores, teniendo presente que la autorización deberá recaer sobre las bases de la transacción propuesta, observándose en su caso lo que se dispone en los artículos 341 y 345 del Código Familiar para el Estado.
-
-ART. 868.- Cuando en virtud de la transacción reciba el menor alguna cantidad, se observará lo dispuesto en este Capítulo.
-
-ART. 869.- Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de los ausentes, así como el arrendamiento por más de cinco años de bienes de los ausentes, menores o incapacitados.
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
-
-ART. 870.- La venta de los bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este Capítulo, teniendo en cuenta lo que se dispone en el artículo 341 del Código Familiar para el Estado.
 
 #### Sección III. Del Nombramiento de Curador y Discernimiento del Cargo
 
@@ -3788,6 +3898,62 @@ ART. 855.- Cuando del examen de la cuenta resulten motivos graves para sospechar
 ART. 856.- En todos los casos en que el tutor necesite para un acto cualquiera la licencia del juez o su aprobación, se requiere la previa audiencia del curador, con el cual, en caso de oposición se substanciará el juicio en la vía extraordinaria. En este juicio, en el que se decidirá solamente la diferencia entre el tutor y el curador, no se admitirá recurso alguno de las resoluciones que se dicten ni aun de las definitivas. De la denegación de la licencia que haya pedido el tutor con aprobación del curador, se admitirán los recursos que correspondan conforme a derecho.
 
 ART. 857.- La remoción de los tutores y curadores, no es materia de jurisdicción voluntaria. La admisión de las excusas se hará, previa su justificación, con audiencia del curador y del Ministerio Público, si se trata del tutor, o con la de éste y el Ministerio Público, si se tratare de la del curador.
+
+### CAPITULO III. De la Venta de Bienes de Menores e Incapacitados y Transacción Sobre sus Derechos
+
+ART. 858.- Será necesario obtener licencia judicial para disponer de los bienes que pertenezcan exclusivamente a menores, incapacitados y ausentes, que correspondan a las clases siguientes:
+
+I.- Bienes raíces;
+
+II.- Derechos reales sobre muebles;
+
+III.- Alhajas y muebles preciosos;
+
+IV.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
+
+ART. 859.- Para decretar la venta de bienes se necesita que al pedirse se exprese el motivo de la enajenación y el objeto a que deba aplicarse la suma que se obtenga y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
+
+Si fuere el tutor quien solicita la venta deberá proponer al hacer la promoción las bases del remate, en cuanto a la cantidad que deba darse de contado, el plazo, intereses y garantías del remanente.
+
+La solicitud del tutor se sustanciará en forma de incidente con el curador y el Ministerio Público. La sentencia que se dicte será apelable en ambos efectos.
+
+Los peritos que se designen para hacer el avalúo, serán nombrados por el juez.
+
+ART. 860.- Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resultare al menor; si se decreta, se hará por conducto del Monte de Piedad; de lo contrario, se procederá conforme al artículo 1095, en lo conducente.
+
+El remate de los inmuebles se hará conforme a los artículos 1063 y siguientes y en él no podrá admitirse postura que baje de las cuatro quintas partes del avalúo pericial ni la que no se ajuste a los términos de la autorización judicial.
+
+Si en la primera almoneda no hubiere postor, el juez convocará, a solicitud del tutor o curador, a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+
+ART. 861.- Para la venta de acciones y títulos de renta se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de corredor titulado, y si no lo hay, de comerciante establecido y acreditado.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 862.- El precio de la venta se entregará al tutor si las fianzas o garantías que tuviere prestadas son suficientes para responder de él, o si estuviere relevado de prestarlas conforme a las fracciones I y III del artículo 405 del Código Familiar para el Estado.
+
+El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación, pero si pasan tres meses se procederá como previene el artículo 334 del Código Familiar para el Estado.
+
+ART. 863.- El juez cuidará, bajo su responsabilidad, de que se dé al precio que se haya obtenido, la aplicación indicada al solicitar la autorización.
+
+ART. 864.- Si el tutor no estuviese relevado de dar garantía y faltare ésta o no fuere suficiente la que hubiere dado, el precio se depositará conforme al artículo 1034 de este Código.
+
+ART. 865.- Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los términos señalados en el artículo 859. El incidente se sustanciará con el Ministerio Público y un tutor especial que para el efecto nombrará el juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
+
+También requerirán los padres la autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo las disposiciones del párrafo anterior, para obtenerla.
+
+ART. 866.- Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la autorización judicial, que sólo podrá concederse con audiencia del curador.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 867.- Para transigir sobre derechos de menores o incapacitados, deberán observarse en lo relativo las disposiciones de los artículos anteriores, teniendo presente que la autorización deberá recaer sobre las bases de la transacción propuesta, observándose en su caso lo que se dispone en los artículos 341 y 345 del Código Familiar para el Estado.
+
+ART. 868.- Cuando en virtud de la transacción reciba el menor alguna cantidad, se observará lo dispuesto en este Capítulo.
+
+ART. 869.- Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de los ausentes, así como el arrendamiento por más de cinco años de bienes de los ausentes, menores o incapacitados.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 870.- La venta de los bienes indivisos pertenecientes a mayores y menores de edad, se hará con sujeción a este Capítulo, teniendo en cuenta lo que se dispone en el artículo 341 del Código Familiar para el Estado.
 
 ### CAPITULO IV. De la Adopción
 
@@ -4055,6 +4221,8 @@ ART. 929.- Si hubiere oposición y se fundare en título debidamente registrado 
 
 ART. 930.- No tendrá valor la información cuando se hubiere recibido habiendo juicio pendiente o anunciado, aún cuando se pretenda que se ratifique ante el juez.
 
+## TITULO DECIMO TERCERO. De los Recursos
+
 ### CAPITULO I. De la Revocación
 
 ART. 931.- Las sentencias no pueden ser revocadas por el juez que las dicta.
@@ -4071,11 +4239,23 @@ ART. 934.- De los decretos y autos del tribunal superior, aun de aquellos que di
 
 ART. 935.- En los juicios extraordinarios la revocación se tramitará y resolverá como lo dispone el artículo 933 de este Código.
 
-## TITULO DECIMO TERCERO. De los Recursos
-
 ### CAPITULO II. De la Apelación
 
-ART. 936.- El recurso de apelación tiene por objeto que el tribunal de segunda instancia confirme, revoque o modifique la resolución dictada por el inferior.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 936.- La apelación tiene por objeto esencial que el tribunal de segunda instancia confirme, revoque o modifique la sentencia o el auto dictado en primera instancia, en los puntos relativos a los agravios expresados.
+
+Sin embargo, tratándose de sentencias definitivas, si el tribunal de apelación advirtiere que se violaron las reglas fundamentales que norman el procedimiento, o que el juez de primera instancia incurrió en alguna omisión que hubiere dejado sin defensa al apelante o pudiere influir en la sentencia que deba dictarse en definitiva, aún cuando la parte recurrente no hubiese formulado el concepto de agravio respectivo, podrá revocar la resolución recurrida y mandar reponer el procedimiento, a fin de subsanar la violación advertida; determinación que también podrá emitir cuando aparezca que no ha sido oída alguna de las partes que tengan derecho a intervenir en el juicio conforme a la ley.
+
+Para los efectos de este artículo se entenderá que se violaron las leyes fundamentales del procedimiento, y se afectaron las defensas de la parte apelante, en los casos siguientes:
+
+I. Cuando no se le cite al juicio o se le cite en forma distinta de la prevenida por la ley;
+
+II. Cuando no se le reciban las pruebas que legalmente haya ofrecido, o cuando no se reciban conforme a la ley, y
+
+III. Cuando sin su culpa se reciban, sin su conocimiento, las pruebas ofrecidas por las otras partes, con excepción de las que fueren instrumentos públicos.
 
 ART. 937.- Pueden apelar: el litigante si creyere haber recibido algún agravio; los terceros que hayan salido al juicio y los demás interesados a quienes perjudique la resolución judicial.
 
@@ -4085,25 +4265,53 @@ ART. 938.- El procurador podrá apelar aún cuando el poder no tenga cláusula e
 
 ART. 939.- La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esta notificación. En este caso la adhesión al recurso sigue la suerte de éste.
 
-ART. 940.- El recurso debe interponerse ante el juez que pronunció la resolución, ya verbalmente en el acto de la notificación, ya por escrito dentro de tres días si fuere auto o sentencia interlocutoria o de cinco si se tratare de sentencia definitiva.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Se exceptúa la apelación contra las sentencias de los juicios en rebeldía, cuando no fuere notificado personalmente el demandado o cuando se tratare de la apelación extraordinaria.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 940.- La apelación debe interponerse por escrito ante el juez que pronunció la sentencia o el auto recurridos, dentro de nueve días improrrogables, sí la sentencia fuere definitiva, o dentro de seis si fuere interlocutoria, o auto, y en el mismo escrito se expresarán por el apelante los correspondientes motivos de agravio, debiendo exhibirse copia de dicho ocurso a efecto de que se corra traslado con la misma a la parte contraria.
+
+Si no se acompañara la copia de traslado, se prevendrá al apelante para que dentro del término de tres días subsane tal omisión, y si no lo hiciere, se tendrá por no interpuesto el recurso.
+
+Además, en el propio escrito de referencia se deberán señalar las constancias que deban remitirse al superior para substanciar la alzada, a las cuales podrán adicionarse las que la parte contraria estime necesarias, y las que el juez considere conducentes. Asimismo, el apelante deberá señalar persona y domicilio para oír notificaciones en el lugar de residencia del tribunal.
+
+Si la apelación procediere sólo en efecto devolutivo, la parte apelante deberá exhibir las referidas constancias al interponer el recurso, las cuales deberán ser expedidas a su costa.
+
+Bastará la enumeración sencilla que haga la parte de los errores o violaciones de derecho que, en su concepto, se cometieron en su perjuicio, para tener por expresados los agravios.
+
+De no formularse los agravios, o no señalarse o exhibirse, en su caso, las referidas constancias por el recurrente, el juez tendrá por no interpuesta la apelación y declarará firme el auto o sentencia impugnados, sin ulterior recurso.
+
+Se exceptúan de la norma anterior la apelación contra sentencias pronunciadas en juicios seguidos en rebeldía, así como los casos en que no fuere notificado personalmente el demandado y cuando se trate de la apelación extraordinaria, los cuales se regularán por las disposiciones específicas consignadas al efecto en este código.
 
 ART. 941.- El litigante, al interponer la apelación, debe usar de moderación, absteniéndose de denostar al juez, de lo contrario quedará sujeto a la pena impuesta en los artículos 59 y 60.
 
-ART. 942.- Interpuesta la apelación, el juez la admitirá sin substanciación alguna, si la encuentra procedente y expresará si la admite en ambos efectos o sólo en uno.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 942.- El juez, al resolver sobre la interposición del recurso, expresará si lo admite en un solo efecto o en ambos efectos, y ordenará que se corra traslado a la parte contraria con copia del escrito de expresión de agravios para que, en el término de cinco días, conteste lo que a su derecho convenga, exhiba, en su caso, y a su costa, las constancias que estime necesarias para la substanciación del recurso, y señale persona y domicilio para oír notificaciones en el lugar de residencia del tribunal.
+
+Asimismo, se ordenará que se dé vista al Ministerio Público a fin de que dentro del citado término manifieste lo que a su representación social convenga.
+
+Transcurrido dicho término, desahogada o no la vista, el juez ordenará la revisión de los autos o del testimonio de apelación correspondientes a la superioridad dentro de tres días, remitiendo siempre el original del escrito de expresión de agravios y, en su caso, de contestación a los mismos. El incumplimiento a lo anterior será causa de responsabilidad administrativa. Si las partes no señalaren domicilio para oír notificaciones en el lugar de residencia del tribunal, las notificaciones respectivas se les harán en la puerta del mismo, por medio de lista o cédula.
 
 ART. 943.- La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia o del auto hasta que éstos causen ejecutoria, y, entretanto, sólo podrán dictarse las resoluciones que se refieran a administración, custodia o conservación de bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de esos puntos.
 
-ART. 944.- La apelación admitida sólo en el efecto devolutivo no suspende la ejecución de la sentencia o del auto apelado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Si el recurso se hubiere interpuesto contra una sentencia, se dejará en el juzgado copia certificada de ella y de las constancias necesarias, remitiéndose desde luego los autos originales al Supremo Tribunal.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-Si se tratare de un auto o interlocutoria, se remitirán al Supremo Tribunal copia de lo que el apelante señale como conducente, agregándose las constancias que la parte contraria juzgue necesarias, a no ser que el recurrente prefiera esperar la remisión de los autos originales cuando éstos se hallen en estado.
+ART. 944.- La apelación admitida sólo en el efecto devolutivo, no suspende la ejecución de la sentencia o del auto apelado.
 
-Si el apelante, dentro de los tres días siguientes al de la notificación del auto que admite el recurso, no señala al juzgado las constancias que deban remitirse al superior para substanciar la alzada, el juez declarará firme la resolución apelada, sin ulterior recurso.
+Si el recurso se hubiere interpuesto contra una sentencia, se dejará en el juzgado copia certificada de ella y de las constancias necesarias.
 
-ART. 945.- Las sentencias definitivas en negocios cuyo interés sea de quinientos pesos o más, o no sea susceptible de valorarse en dinero, serán apelables en ambos efectos, salvo en los casos expresamente exceptuados.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+ART. 945.- Las sentencias definitivas pronunciadas en negocios cuya suerte principal exceda de diez mil pesos, y en aquéllos en que el interés no sea susceptible de valorarse en dinero, serán apelables en ambos efectos, salvo los casos expresamente exceptuados.
+
+Las sentencias definitivas dictadas en juicios cuya suerte principal sea inferior a diez mil pesos, no admitirán recurso alguno.
 
 ART. 946.- Las demás resoluciones sólo son apelables cuando decidan un incidente y cuando esta Ley lo disponga, si además lo fuere la sentencia definitiva del juicio en que se dicten. La apelación será admisible sólo en el efecto devolutivo, salvo los casos que este Código exceptúe.
 
@@ -4131,59 +4339,83 @@ IV.- Los gastos legales que acredite el interesado haber hecho para constituir e
 
 En este caso y en el del artículo anterior, la garantía se calificará con audiencia de la contraparte
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1978)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ART. 950.- Admitida la apelación en ambos efectos, el Juez, dentro de 48 horas remitirá los autos al Supremo Tribunal y prevendrá a las partes para que señalen domicilio para recibir notificaciones en el lugar de la residencia del Tribunal. Si no lo hicieren, las notificaciones se harán en la puerta del Tribunal, por lista o por cédula.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1978)</small>
+ART. 950.- Llegados los autos o el testimonio, en su caso, al Supremo Tribunal de Justicia, serán turnados desde luego a la Sala que corresponda, la cual, sin necesidad de vista o informes, dentro de los tres días siguientes resolverá sobre la admisión del recurso, la calificación de grado y la oportuna expresión de agravios y su contestación.
 
-ART. 951.- Si la apelación se admitió sólo en el efecto devolutivo, se observará también lo que dispone el Artículo anterior y además lo dispuesto en el Artículo 944.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-ART. 952.- Llegados los autos al Supremo Tribunal de Justicia o en su caso las constancias relativas para substanciar la apelación, las turnará desde luego a la Sala que corresponda y ésta, sin necesidad de vista o informes, dentro de cinco días resolverá sobre la admisión del recurso y la calificación de grado hecha por el juez.
+ART. 951.- Si la apelación admitida sólo en el efecto devolutivo se declara admisible en ambos efectos y no se hubieren remitido los autos, se prevendrá al Juzgado que conoció del negocio para que los envié dentro del término de tres días.
 
-Declarada inadmisible la apelación se devolverán los autos al inferior y se declarará ejecutoriada la resolución apelada. Si se revoca la calificación de grado, se procederá en consecuencia.
+Cuando la apelación admitida en ambos efectos se declare admisible sólo en el devolutivo, si la resolución recurrida fuere sentencia, se enviará al Juzgado de procedencia la copia a que se refiere el artículo 944 de este Código; si fuere auto, se devolverán los originales, dejándose en el tribunal copia certificada de las constancias que las partes señalen y exhiban dentro de los tres días siguientes a la notificación del auto respectivo.
 
-ART. 953.- En el mismo auto en que se haga la calificación de grado, mandará el tribunal poner a disposición del apelante los autos por seis días, en la secretaría, para que exprese agravios. Del escrito de expresión se correrá traslado a la contraria por otros seis días.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Bastará la enumeración sencilla que haga la parte de los errores o violaciones de derecho que en su concepto se cometieron en la sentencia, para tener como expresados los agravios.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-ART. 954.- Si las partes promueven pruebas, deben ofrecerlas en sus escritos de expresión o contestación de agravios, especificando los hechos sobre que deban recaer, que no podrán ser extraños a la cuestión debatida.
+ART. 952.- Declarada inadmisible la apelación, se devolverán los autos al juez y se declarará firme la sentencia o auto apelados.
 
-ART. 955.- Sólo podrá otorgarse la admisión de pruebas en la segunda instancia:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-I.- Cuando por cualquier causa no imputable al que solicitare la prueba, no hubiere podido practicarse en la primera instancia toda o parte de la que se hubiere propuesto;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-II.- Cuando hubiere ocurrido algún hecho que importe excepción superveniente.
+ART. 953.- Si se declara admisible la apelación, por estar satisfechos los requisitos necesarios para que proceda la substanciación de la misma, la Sala respectiva, al dictar el auto correspondiente, citará a las partes para oír sentencia, misma que deberá pronunciarse dentro del término de quince días.
 
-ART. 956.- Los litigantes podrán pedir, sin necesidad de que el pleito se hubiere recibido a prueba, desde que se pongan los autos a su disposición en la secretaría del tribunal, hasta antes de la celebración de la vista, o en su caso de citación para sentencia, que la parte contraria rinda confesión judicial, y podrán hacerlo por una sola vez, con tal de que sea sobre hechos que relacionados con los puntos controvertidos, no hubieren sido objeto de posiciones en la primera instancia. También podrán promover que se reciba prueba documental de los instrumentos a que se refiere el artículo 93.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ART. 957.- Solicitado el término de prueba, puede la contraparte oponerse a que se conceda, al contestar los agravios o bien el traslado que se le dé a conocer de la petición del apelado y el tribunal resolverá de plano, dentro del tercer día, concediendo o negando el término que no podrá exceder de veinte días, y calificando las pruebas que deban admitirse con arreglo a los artículos 955 y 956.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
+ART. 954.- Las sentencias que se dicten sobre modificación o rectificación de actas del estado civil, y nulidad de matrimonios, por las causas expresadas en los artículos, 200, 201, y 207 a 210 del Código Civil del Estado, así como aquéllas en la que se declare procedente la adopción plena, y las que resuelvan sobre paternidad y filiación, serán revisadas de oficio por la Sala del Supremo Tribunal de Justicia que corresponda, con intervención del Ministerio Público, si las partes no promueven el recurso de apelación; y, mientras el Juzgado examina la legalidad del fallo, quedará en suspenso su ejecución.
 
-ART. 958.- Expresados y contestados los agravios, transcurrido el término de la contestación sin que ésta se hubiere presentado, o concluida la recepción de las pruebas si se hubieren ofrecido, se pondrán los autos a la vista del apelante y del apelado, por tres días comunes para que aleguen. En el mismo auto se citará para sentencia que pronunciará el tribunal dentro de los diez días siguientes al que concluya el término de alegatos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ART. 959.- En los juicios extraordinarios la apelación se sustanciará con un solo escrito de cada parte y el informe en estrados, y la sentencia se dictará dentro de los tres días siguientes a la celebración de este.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-Sólo en los casos en que se tuviere que examinar expedientes sumamente voluminosos o las pruebas hubieren consistido exclusivamente en documentos, se dictará la resolución dentro de los ocho días siguientes a la celebración del informe.
+ART. 955.- En toda sentencia de segunda instancia se declarará expresamente si hay condenación en costas a quien debe pagar éstas.
 
-ART. 960.- Para los efectos del artículo anterior, una vez que el tribunal decida tramitar la apelación conforme al artículo 952 prevendrá a las partes que formulen su expresión y contestación de agravios y señalará día, dentro de los veinte siguientes para la celebración del informe. Si se promovieren pruebas, se recibirán las que correspondan con arreglo a las disposiciones de este Capítulo, para lo que se concederá un término que no exceda de diez días.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ART. 961.- En las apelaciones en materia extraordinaria los términos a que se refiere el artículo 953 se reducirán a tres días.
+ART. 956.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
-ART. 962.- Las apelaciones de interlocutorias o autos se substanciarán conforme a los tres artículos anteriores.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1978)</small>
+ART. 957.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
-ART. 963.- En el caso de que el apelante no comparezca a expresar agravios en el término de ley, se le tendrá por desistido del recurso, haciendo la declaración correspondiente, de oficio, el Superior, previa certificación de que las partes fueron notificadas en forma, el cómputo del término para la expresión de agravios y la falta de presentación de los mismos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+ART. 958.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
-ART. 964.- Las sentencias que se dicten sobre modificación de actas del estado civil y sobre nulidad de matrimonios, por las causas expresadas en el artículo 70 del Código Familiar para el Estado, serán revisadas de oficio por la sala que corresponda del Supremo Tribunal, con intervención del Ministerio Público, si las partes no promueven apelación; y mientras el Tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ART. 965.- En toda sentencia de segunda instancia se declarará expresamente si hay condenación en costas y, quien deba pagar éstas.
+ART. 959.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+ART. 960.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+ART. 961.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+ART. 962.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+ART. 963.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+ART. 964.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+ART. 965.- (DEROGADO, P.O. 24 DE MAYO DE 2016)
 
 ### CAPITULO III. De la Apelación Extraordinaria
 
@@ -4236,6 +4468,8 @@ ART. 974.- La queja contra los secretarios o ejecutores será resuelta de plano 
 ART. 975.- Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derecho o procediere recurso ordinario contra la resolución reclamada, será desechada por el superior, el que impondrá al quejoso y a su abogado, solidariamente, multa que no exceda de cien pesos.
 
 ART. 976.- Si el juez no rinde el informe a que se refiere este Capítulo, será apremiado por el superior para que lo haga, remitiéndole copia del escrito de queja; y si después de transcurrido el término que prudentemente se le señale, tampoco lo rinde, incurrirá en la sanción que expresa el artículo anterior, la que se le aplicará al resolverse el recurso.
+
+## TITULO DECIMO CUARTO. De la Ejecución de las Sentencias
 
 ### CAPITULO I. De la Ejecución de las Sentencias y demás resoluciones dictadas por el Supremo Tribunal o los Jueces del Estado
 
@@ -4370,8 +4604,6 @@ ART. 1010.- Todo lo que en este Capítulo se dispone respecto de la sentencia, c
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 Igualmente comprende, los acuerdos o convenios certificados celebrados con motivo de la aplicación de los procedimientos de los mecanismos alternativos para la solución de conflictos en la forma prevista por la Ley de la materia.
-
-## TITULO DECIMO CUARTO. De la Ejecución de las Sentencias
 
 ### CAPITULO II. De la Ejecución de las Sentencias y demás resoluciones dictadas por los Tribunales de los Estados, del Distrito Federal, de los Territorios y del Extranjero
 
@@ -4733,6 +4965,8 @@ VII.- En todo lo demás se observarán, en lo conducente, las disposiciones de e
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1997)</small>
 
+## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1996)</small>
@@ -4871,7 +5105,9 @@ ART. 1136.- Las disposiciones de este Título se aplicarán también a los juici
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
-## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
+## TITULO DECIMO SEXTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
 ### CAPITULO I. De las controversias del Orden Familiar
 
@@ -4966,10 +5202,6 @@ ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin susp
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
 
 ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
-## TITULO DECIMO SEXTO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -5428,3 +5660,11 @@ P.O. 5 DE SEPTIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 0216.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE Y AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
