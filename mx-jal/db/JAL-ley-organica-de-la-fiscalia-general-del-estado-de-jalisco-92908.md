@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2015-11-12"
+last_updated: "2016-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -185,15 +185,11 @@ IV. Jurídica y de Control Interno; y
 
 V. Unidad de Comunicación social.
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-La Fiscalía General del Estado tendrá adscritos administrativamente a las siguientes instancias que gozarán de autonomía técnica y de gestión:
+###### Artículo 6°.
 
-I. Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social; y
-
-II. Consejo Consultivo de Procuración de Justicia.
-
-Los representantes de la Fiscalía General del Estado ante estas instancias serán los que establezca el reglamento de la presente ley conforme a los lineamientos de los sistemas nacional y estatal de seguridad pública.
+La Fiscalía General del Estado contará con un órgano colegiado de participación ciudadana, que será el Consejo Ciudadano de Seguridad y Procuración de Justicia, previsto en la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
 
 ###### Artículo 7º.
 
@@ -727,7 +723,7 @@ X. Llevar comunicación con el Supremo Tribunal de Justicia del Estado para que 
 
 XI. Concurrir en la integración y participar en las instancias de coordinación del Sistema Estatal y Nacional de Seguridad Pública, con las facultades que determina la ley de la materia;
 
-XII. Recibir los ejercicios o acuerdos de los Consejos consultivos previstos en la presente Ley y, en su caso, impulsar la aplicación de los mismos en lo que sea competencia de la Fiscalía General del Estado;
+XII. (DEROGADA, P.O. 24 DE MAYO DE 2016)
 
 XIII. Comparecer ante el Congreso del Estado para informar de los asuntos a su cargo;
 
@@ -1200,3 +1196,47 @@ QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuar�
 SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaría de Movilidad.
 
 SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
+
+P.O. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25832/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 160, 161, 162 Y 163 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LOS ARTÍCULOS 6° Y 21 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+Se extingue el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social del Estado de Jalisco.
+
+###### ARTÍCULO TERCERO.
+
+Se traspasa al nuevo Consejo de Seguridad Pública y Procuración de Justicia el personal, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que el Consejo Ciudadano de Seguridad Pública, Prevención y Reinserción Social del Estado de Jalisco haya utilizado para la atención de los asuntos a su cargo.
+
+El personal del extinto consejo que en aplicación de esta reforma pase adscrito a la Secretaría Técnica, del nuevo Consejo Ciudadano de Seguridad y Procuración de Justicia, a desempeñar las funciones que el titular les indique cuando las necesidades del servicio público lo requieran, en ninguna forma resultará afectado en sus derechos laborales adquiridos, en virtud de su relación laboral con la administración pública estatal.
+
+###### ARTÍCULO CUARTO.
+
+La entrega recepción del anterior Consejo al nuevo, deberá hacerse de conformidad a lo previsto en la Ley de Entrega Recepción del Estado de Jalisco.
+
+###### ARTÍCULO QUINTO.
+
+Se abrogar (sic) el Reglamento Interno del Consejo Ciudadano de Seguridad Pública Prevención y Readaptación Social, expedido mediante Acuerdo DIGELAG ACU 071/2012 del 7 de diciembre de 2012, publicado en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEXTO.
+
+El Gobernador del Estado deberá designar al Secretario Técnico del Consejo Ciudadano de Seguridad y Procuración de Justicia en una plazo de hasta 30 días naturales a partir de la entrada en vigencia del presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Designado el Secretario Técnico, éste deberá convocar a los integrantes del Consejo señalados en las fracciones II, IV y VI, del artículo 161 del presente decreto para que en un plazo no mayor a 30 días naturales después de la convocatoria se instale formalmente el Consejo Ciudadano de Seguridad Pública y Procuración de Justicia.
+
+###### ARTÍCULO OCTAVO.
+
+Instalado el Consejo, tendrá 15 días hábiles para enviar al Gobernador del Estado la propuesta de Reglamento Interno de conformidad a lo previsto en la fracción XVI del artículo 163 del presente decreto.
+
+Recibida la propuesta, el Gobernador del Estado tendrá un plazo de hasta 15 días hábiles para la expedición del Reglamento Interno.
+
+###### ARTICULO NOVENO.
+
+El Gobernador del Estado deberá realizar los ajustes presupuestarios necesarios conforme sea procedente para cumplir con lo previsto en el presente decreto.
