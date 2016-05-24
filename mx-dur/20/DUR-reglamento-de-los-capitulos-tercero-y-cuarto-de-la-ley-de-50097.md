@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-los-capitulos-tercero-y-cuarto-de-la-ley-de-50097
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-26"
-last_updated: "2006-03-26"
+last_updated: "2016-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO DE LOS CAPITULOS TERCERO Y CUARTO DE LA LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE DURANGO
 
-REGLAMENTO DE LOS CAPITULOS TERCERO Y CUARTO DE LA LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE DURANGO
+REGLAMENTO DE LOS CAPÍTULOS TERCERO Y CUARTO DE LA LEY DE DESARROLLO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 24 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 26 de marzo de 2006.
 
@@ -316,3 +318,15 @@ LIC. RICARDO LÓPEZ PESCADOR.
 EL SECRETARIO DE DESARROLLO ECONÓMICO.
 
 C.P. RICARDO ARMANDO REBOLLO MENDOZA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO.- DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- Este Reglamento entrará en vigor a partir del siguiente (sic) al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Reglamento de los Títulos Tercero y Cuarto de la Ley de Fomento al Desarrollo Económico del Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango número 25 del 26 de marzo de 2006.
+
+TERCERO.- Se derogan todas aquellas disposiciones reglamentarias y administrativas contrarias a las contenidas en este Reglamento.
