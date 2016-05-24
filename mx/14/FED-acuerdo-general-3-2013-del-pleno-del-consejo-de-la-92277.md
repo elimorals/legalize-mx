@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-05-13"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -279,7 +279,11 @@ XIII. DECIMOTERCER CIRCUITO:
 
 2. Dos tribunales unitarios con sede en la ciudad de Oaxaca.
 
-3. Ocho juzgados de Distrito en el Estado de Oaxaca: seis con residencia en Oaxaca y dos con sede en Salina Cruz.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 20/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MAYO DE 2016)</small>
+
+3. Nueve Juzgados de Distrito en el Estado de Oaxaca: seis con residencia en Oaxaca, uno con sede en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
 
 XIV. DECIMOCUARTO CIRCUITO:
 
@@ -353,9 +357,11 @@ XIX. DECIMONOVENO CIRCUITO:
 
 2. Cinco tribunales unitarios: uno con sede en Ciudad Victoria, dos con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO 21/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-3. Trece juzgados de Distrito en el Estado de Tamaulipas: tres con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
+> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 22/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MAYO DE 2016)</small>
+
+3. Quince juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, uno en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
 
 XX. VIGESIMO CIRCUITO:
 
@@ -741,7 +747,11 @@ Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Matamoros
 
 Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Reynosa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
 
-Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 22/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MAYO DE 2016)</small>
+
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico y en Ciudad Madero, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
 
 XX. VIGESIMO CIRCUITO:
 
@@ -2588,3 +2598,125 @@ En los tribunales unitarios con sede en Matamoros, su jurisdicción territorial 
 …
 
 …”.
+
+D.O.F. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 20/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO NOVENO DE DISTRITO EN EL ESTADO DE OAXACA, CON RESIDENCIA EN SAN BARTOLO COYOTEPEC; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE EL REFERIDO ÓRGANO JURISDICCIONAL Y LOS JUZGADOS DE DISTRITO, CON RESIDENCIA EN LA CIUDAD DE OAXACA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciséis, con excepción de lo previsto en el CUARTO transitorio, el cual iniciará su vigencia a partir de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Oaxaca, con sede en la ciudad del mismo nombre, continuará aplicándose hasta el 5 de junio de 2016.
+
+Posteriormente, las guardias de turno conforme al sistema del artículo 5 de este Acuerdo quedarán como sigue:
+
+SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL
+
+AL QUE CORRESPONDE
+
+LA GUARDIA
+
+Del 30 de mayo al 6 de junio de 2016 Juzgado Octavo
+
+Del 6 al 13 de junio de 2016 Juzgado Noveno
+
+Del 13 al 20 de junio de 2016 Juzgado Primero
+
+Del 20 al 27 de junio de 2016 Juzgado Segundo
+
+Del 27 de junio al 4 de julio de 2016 Juzgado Tercero
+
+Del 4 al 11 de julio de 2016 Juzgado Cuarto
+
+Del 11 al 18 de julio de 2016 Juzgado Quinto
+
+Del 18 al 25 de julio de 2016 Juzgado Octavo
+
+Del 25 de julio al 1 de agosto de 2016 Juzgado Noveno
+
+Y así sucesivamente, de forma semanal.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XIII, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XII. …
+
+XIII. …
+
+1. …
+
+2. …
+
+3. Nueve Juzgados de Distrito en el Estado de Oaxaca: seis con residencia en Oaxaca, uno con sede en San Bartolo Coyotepec, y dos con sede en Salina Cruz.
+
+XIV. a XXXII. …”.
+
+D.O.F. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 22/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DÉCIMO TERCERO DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN CIUDAD MADERO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de julio de dos mil dieciséis, con excepción de lo dispuesto en el artículo transitorio CUARTO, que entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico para incorporar a éste al juzgado de Distrito con residencia en Ciudad Madero, y quedar como sigue:
+
+ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES DE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN TAMPICO Y CIUDAD MADERO.
+
+PERIODO DE GUARDIA AÑO 2016 ÓRGANO JURISDICCIONAL AL QUE
+
+CORRESPONDE LA GUARDIA
+
+Del 11 al 18 de julio. Juzgado Noveno
+
+Del 18 al 25 de julio. Juzgado Décimo
+
+Del 25 de julio al 1 de agosto. Juzgado Décimo Tercero
+
+Del 1 al 8 de agosto. Juzgado Noveno
+
+Del 8 al 15 de agosto. Juzgado Décimo
+
+Del 15 al 22 de agosto. Juzgado Décimo Tercero
+
+Y así, sucesivamente conforme al orden establecido.
+
+El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+QUINTO. Se reforman los numerales SEGUNDO, fracción XIX, número 3; y CUARTO, fracción XIX, párrafo quinto del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. a XVIII. …
+
+XIX. …
+
+1. a 2. …
+
+3. Quince juzgados de Distrito en el Estado de Tamaulipas: cuatro con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, uno en Ciudad Madero, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
+
+XX. a XXXII. …
+
+CUARTO. …
+
+I. a XVIII. …
+
+XIX. …
+
+…
+
+…
+
+…
+
+…
+
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico y en Ciudad Madero, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
+
+XX. a XXXIII. …".
