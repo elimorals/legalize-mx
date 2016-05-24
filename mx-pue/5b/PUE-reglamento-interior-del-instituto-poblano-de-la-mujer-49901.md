@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-poblano-de-la-mujer-49901"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-15"
-last_updated: "2006-03-15"
+last_updated: "2016-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE LA MUJER
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE LAS MUJERES, PUBLICADO EN EL P.O. DE 24 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de marzo de 2006.
 
@@ -472,3 +474,19 @@ TERCERO.- Se derogan las disposiciones que se opongan al presente Reglamento.
 CUARTO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece cuando se cambie su adscripción o denominación, el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que se determine, competerá a la nueva unidad administrativa terminar la substanciación y dictará la resolución que corresponda de los asuntos que se encuentren en trámite.
 
 Dado en las instalaciones del Instituto Poblano de la Mujer, a los 31 días del mes de enero de dos mil seis.- Suplente del Secretario de Desarrollo Social y Presidente Ejecutivo de la Junta de Gobierno IPM.- LICENCIADO PIERRE ANTUAN GILLY DÍAZ.- Rúbrica.- Directora General del Instituto Poblano de la Mujer y Secretaria Ejecutiva de la Junta de Gobierno del IPM.- M.D. AMÉRICA SOTO LÓPEZ.- Rúbrica.- Vocal Suplente del Secretario de Salud y Vocal de la Junta de Gobierno del IPM.- WENDOLYNE BELLO VÁZQUEZ.- Rúbrica.- Vocal Suplente del Secretario de Gobernación ante la Junta de Gobierno del IPM.- LICENCIADO JAVIER RAMÍREZ CHANTRÉS.- Rúbrica.- Vocal Suplente del Secretario de Finanzas y Administración ante la Junta de Gobierno del IPM.- LICENCIADO HÉCTOR P. LUNA CASTAÑEDA.- Rúbrica.- Vocal Suplente del Secretario de Educación Pública ante la Junta de Gobierno del IPM.- SILVIA ELENA DEL VALLE Y BALBUENA.- Rúbrica.- Vocal Suplente de la Procuradora General de Justicia ante la Junta de Gobierno del IPM.- ABOGADA SANDRA JIMÉNEZ GÓMEZ.- Rúbrica.- Vocal Suplente del Secretario de Desarrollo Económico ante la Junta de Gobierno del IPM.- LICENCIADA MONICA DOGER RAMÍREZ.- Rúbrica.- Vocal Suplente del Procurador del Ciudadano ante la Junta de Gobierno del IPM.- LICENCIADA COLUMBA VÁZQUEZ ESPAÑA.- Vocal Suplente del Director General del Sistema DLL Estatal ante la Junta de Gobierno del IPM.- LICENCIADO ENRIQUE CRISPIN CAMPOS.- Rúbrica.- Representante del Consejo Consultivo ante la Junta de Gobierno del IPM.- MAESTRA LOURDES PÉREZ OSEGUERA.- Rúbrica.- Representante del Consejo Consultivo ante la Junta de Gobierno del IPM.- DOCTORA BEATRÍZ MARTÍNEZ CORONA.- Rúbrica.- Representante del Consejo Consultivo ante la Junta de Gobierno del IPM.- LICENCIADA THELMA PEDROZA VARGAS.- Rúbrica.- Vocal Suplente del Delegado de Desarrollo Social en Puebla ante la Junta de Gobierno del IPM.- LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS CARLOS PAZ VILLALBA VIVALDO.- Rúbrica.- Vocal Suplente del Secretario de Desarrollo Rural ante la Junta de Gobierno del IPM.- LICENCIADA GEMA SOFIA AGUILAR LÓPEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE LAS MUJERES”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Poblano de la Mujer publicado en el Periódico Oficial del Estado el día quince de marzo de dos mil seis.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Las unidades administrativas del Instituto, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirán utilizando las formas oficiales, formatos y demás papelería existente en los que conste su denominación anterior, hasta que se agoten.
+
+QUINTO. Todo trámite que se haya iniciado o se encuentre en proceso de resolución a la entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse por la unidad administrativa a la que le sean conferidas atribuciones para ello, conforme a este Reglamento.
