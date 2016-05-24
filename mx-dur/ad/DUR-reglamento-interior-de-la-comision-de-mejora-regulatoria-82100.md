@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-comision-de-mejora-regulatoria-82100"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-12"
-last_updated: "2011-05-12"
+last_updated: "2016-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE MEJORA REGULATORIA DEL ESTADO DE DURANGO
 
-REGLAMENTO INTERIOR DE LA COMISION DE MEJORA REGULATORIA DEL ESTADO DE DURANGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE MEJORA REGULATORIA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 24 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA COMISIÓN DE MEJORA REGULATORIA DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 12 de mayo de 2011.
 
@@ -412,3 +414,15 @@ ING. HÉCTOR EDUARDO VELA VALENZUELA.
 EL SECRETARIO DE DESARROLLO ECONÓMICO.
 
 L.A. JUAN FRANCISCO GUTIÉRREZ FRAGOSO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR.- DE LA COMISIÓN DE MEJORA REGULATORIA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión de Mejora Regulatoria del Estado de Durango aprobado el 4 de abril de 2011, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango número 38 del 12 de mayo de 2011.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan a lo dispuesto en este Reglamento.
