@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2015-12-19"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -455,7 +455,7 @@ III. Toda persona que se considere afectada podrá interponer los recursos respe
 
 El derecho a la información pública tendrá los siguientes fundamentos:
 
-I. La consolidación del estado democrático y de derecho en Jalisco.
+I. La consolidación del estado democrático y de derecho en Jalisco;
 
 II. La transparencia y la rendición de cuentas de las autoridades estatales y municipales, mediante la apertura de los órganos públicos y el registro de los documentos en que constan las decisiones públicas y el proceso para la toma de éstas;
 
@@ -583,7 +583,9 @@ V. El Consejero Presidente y los consejeros electorales durarán en su cargo sie
 
 De darse la falta absoluta del Consejero Presidente o de cualquiera de los consejeros electorales, se estará a lo dispuesto en la norma citada en el primer párrafo de esta fracción y la ley general en la materia.
 
-El Consejero Presidente y los consejeros electorales percibirán una remuneración igual a la prevista para los magistrados del Poder Judicial del Estado. No podrán tener otro empleo, cargo o comisión, con excepción de aquellos, no remunerados, en que actúen en representación del Instituto, y de los que desempeñen en actividades docentes, científicas, culturales, de investigación o beneficencia.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+
+El Consejero Presidente y los consejeros electorales percibirán una remuneración acorde con sus funciones que será establecida previamente en el Presupuesto de Egresos del Estado, conforme a los principios, bases y lineamientos que prevén la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes y demás disposiciones reglamentarias que de ellas emanen; la cual en ningún supuesto podrá ser igual ni superior a la de los magistrados del Poder Judicial del Estado. No podrán tener otro empleo, cargo o comisión, con excepción de aquellos no remunerados en que actúen en representación del Instituto o que desempeñen en actividades docentes, científicas, culturales, de investigación o beneficencia.
 
 No podrán ser designados como Consejero Presidente ni como consejeros electorales del Instituto Electoral, quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, de conformidad a lo establecido en la Ley General.
 
@@ -1767,9 +1769,9 @@ La ley garantizará la independencia de los propios tribunales, la de los magist
 
 Los tribunales del Poder Judicial resolverán con plenitud de jurisdicción todas las controversias que en el ámbito de su competencia se presenten.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
-Todos los magistrados que integran el Poder Judicial del estado de Jalisco recibirán el mismo salario. Consejeros y jueces percibirán una remuneración adecuada e irrenunciable que no podrá ser disminuida durante su encargo.
+Todos los magistrados, consejeros y jueces que integran el Poder Judicial del Estado recibirán una remuneración irrenunciable e idéntica, respectivamente; con excepción del Presidente del Supremo Tribunal de Justicia, que no recibirá remuneración adicional a la del cargo de magistrado.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -2073,7 +2075,7 @@ El municipio libre es base de la división territorial y de la organización pol
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-I. Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que residirá en la cabecera municipal. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia entre éste y el gobierno del Estado;
+I. Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que residirá en la cabecera municipal. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia entre éste y el gobierno del Estado.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -2685,19 +2687,27 @@ Los cargos de elección popular directa son preferentes a los de nombramiento, s
 
 Los demás cargos serán aceptables voluntariamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ###### Art. 111.
 
-Los diputados del Congreso del Estado, el Gobernador, los magistrados, consejeros y jueces del Poder Judicial del Estado, los integrantes del Tribunal de Arbitraje y Escalafón, los consejeros electorales del Instituto Electoral y de Participación Ciudadana, los magistrados del Tribunal Electoral, los integrantes de la Comisión Estatal de Derechos Humanos, los comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, los presidentes municipales, regidores, síndicos, concejales y demás servidores públicos estatales y municipales, recibirán una remuneración adecuada, equitativa e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que se compone del sueldo y las prestaciones establecidas en la ley, misma que será determinada anualmente en los presupuestos de egresos del Estado, de los municipios o de los organismos públicos descentralizados, según corresponda, debiendo para su validez, cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza, motivación y demás requisitos establecidos en la ley.
+Los servidores públicos de los órganos del Poder Público del Estado, de los municipios, de los organismos con autonomía constitucional dependencias y entidades, así como cualquier otro ente, órgano u organismo público estatal o municipal, percibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, misma que se integrará conforme a las leyes aplicables que será proporcional a sus responsabilidades y se determinarán anual y equitativamente en los respectivos presupuestos de egresos, bajo los principios de austeridad, disciplina presupuestal, racionalidad, certeza, motivación y demás requisitos establecidos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes reglamentarias que de las mismas emanen.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+Las remuneraciones serán determinadas conforme a las siguientes bases:
 
-Queda estrictamente prohibido para las autoridades competentes, establecer en los presupuestos de egresos, bonos anuales, gratificaciones por el fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, con excepción de lo dispuesto por el artículo 61 de esta Constitución.
+I. Ningún servidor público percibirá remuneración por el desempeño de una función, empleo, cargo o comisión, igual o mayor a la que determine el Congreso en el Presupuesto de Egresos para el Gobernador del Estado;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+II. Ningún servidor público percibirá remuneración igual o mayor que la aprobada para su superior jerárquico inmediato, o que sea mayor a la establecida para el cargo público de naturaleza similar previsto en el presupuesto de egresos correspondiente.
 
-La infracción de este artículo constituye causal de responsabilidad, misma que se sancionará en la forma y términos que establezca la ley.
+Lo anterior, excepto en los casos en que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el Presupuesto de Egresos;
+
+III. Ningún servidor público podrá percibir remuneración adicional alguna por el desempeño de los cargos, comisiones, representaciones o alguna otra función similar, que ocupe de manera inherente, derivada o complementaria al cargo principal;
+
+IV. Queda prohibido para las autoridades competentes, establecer en los presupuestos de egresos, bonos anuales, gratificaciones por el fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, con excepción de lo dispuesto por el artículo 61 de esta Constitución;
+
+V. Las remuneraciones brutas de los servidores públicos serán determinadas en los respectivos presupuestos de egresos, estatal y municipales; los cuales contendrán los tabuladores desglosados de dichas remuneraciones; y
+
+VI. Las conductas que impliquen el incumplimiento o la elusión de lo previsto por este artículo serán perseguidas y sancionadas conforme a los procedimientos y plazos que establezcan las leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2008)</small>
 
@@ -3496,3 +3506,15 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los actuales consejeros del Instituto de Transparencia e Información Pública de Jalisco concluirán el periodo para el que fueron electos y podrán ser electos para un nuevo periodo de conformidad con el párrafo siguiente.
 
 El Comisionado Presidente electo durará en el cargo cinco años; un comisionado será electo por un periodo de cinco años y, por única ocasión, se nombrará un comisionado por un periodo de cuatro años.
+
+P.O. 24 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25795/LXI/16 QUE REFORMA LOS ARTÍCULOS 12, 57 Y 111, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las remuneraciones de los servidores públicos que al momento de la entrada en vigor del presente decreto se encuentren en contravención con el artículo 111, párrafo segundo, fracciones I y II de esta Constitución, no podrán ser disminuidas, pero permanecerán sin variaciones o incrementos nominales las anualidades que sean necesarias, a fin de ajustarse a los principios, lineamientos y bases establecidos en el presente decreto. Esta regla se aplicará solo durante la vigencia del nombramiento que los servidores estuvieran desempeñando a la entrada en vigor de este decreto, cualquier otro nombramiento otorgado de manera posterior, deberá sujetarse a lo establecido por esta Constitución.
+
+TERCERO. El Congreso y los ayuntamientos del Estado, en sus respectivos ámbitos competenciales y dentro de los ciento ochenta días naturales siguientes a su entrada en vigor, expedirán y adecuarán la legislación y normatividad, de conformidad con lo previsto en el presente Decreto, incluyendo las normas que especifiquen, tipifiquen y sancionen las conductas que contravengan o eludan las obligaciones que establece esta reforma constitucional.
+
+CUARTO. El Congreso del Estado y los ayuntamientos aprobarán en los presupuestos de egresos, las remuneraciones de los servidores públicos, ajustadas conforme a lo señalado en el artículo 111. De igual forma presupuestarán las remuneraciones de aquellos servidores públicos que se encuentren en el supuesto del artículo segundo transitorio, a efecto de garantizar la no retroactividad de esta reforma durante la vigencia de su nombramiento.
