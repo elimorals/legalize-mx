@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entrega-recepcion-para-el-estado-de-chihuahua-110453"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-04"
-last_updated: "2015-11-04"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 4 de noviembre de 2015.
 
@@ -62,6 +62,10 @@ Asimismo, facilitar el ejercicio de la función pública, preservar el patrimoni
 ###### Artículo 3.
 
 Esta Ley es aplicable a las dependencias y entidades de la administración pública estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2016)</small>
+
+Asimismo, las administraciones municipales seccionales cumplirán con lo dispuesto por este cuerpo normativo, atendiendo a su estructura y funcionamiento.
 
 Los Poderes Legislativo y Judicial, así como los Organismos Públicos Autónomos, llevarán a cabo la entrega recepción en los términos que dispongan su propia normatividad, aplicando los preceptos de esta Ley en lo que no se oponga a su naturaleza y funciones.
 
@@ -131,11 +135,21 @@ Cuando por caso fortuito o causa de fuerza mayor, los servidores públicos oblig
 
 Para los efectos de esta Ley se entenderá por caso fortuito o causa de fuerza mayor, la muerte o incapacidad del servidor público obligado, o cualquier evento de similar naturaleza que impida llevar a cabo la entrega recepción.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
 ###### Artículo 11.
 
-El Órgano de Control Interno será el responsable de diseñar e implementar el Sistema de Entrega Recepción de la administración pública estatal o municipal, así como expedir las disposiciones administrativas complementarias para el cabal cumplimiento de esta Ley.
+El Órgano de Control Interno tendrá las siguientes atribuciones:
 
-De igual modo, los Órganos de Control Interno celebrarán, cuando así lo determinen, convenios de colaboración para cumplir con las obligaciones previstas en la presente Ley.
+I. Diseñar e implementar el Sistema de Entrega recepción de la administración pública estatal o municipal
+
+II. Expedir las disposiciones administrativas complementarias para el cabal cumplimiento de esta Ley.
+
+III. Dirimir las controversias que se susciten durante la entrega recepción.
+
+IV. Supervisar el cumplimiento de la entrega recepción.
+
+V. Promover, en su caso; el inicio de procedimientos de responsabilidad que corresponda.
 
 ###### Artículo 12.
 
@@ -324,3 +338,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de octubre del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1370/2016 II P.O., MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3, RECORRIÉNDOSE EL CONTENIDO DEL ACTUAL A UN PÁRRAFO TERCERO; Y SE REFORMA EL ARTÍCULO 11 DE LA LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
