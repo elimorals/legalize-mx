@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2014-12-18"
+last_updated: "2016-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MAYO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1142,13 +1142,23 @@ c) Los rubros específicos en que se aplicarán los recursos de presupuesto part
 
 d) Se establecerá que las autoridades administrativas del Gobierno de la Ciudad y Jefes Delegacionales tienen la obligatoriedad de ejercerlo.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 84.
 
-Para efectos de lo establecido en el artículo anterior y con arreglo a lo dispuesto en la Ley de Planeación, la Ley de Presupuesto y Gasto Eficiente y demás normatividad aplicable, el Instituto Electoral convocará el segundo domingo de noviembre de cada año a la consulta ciudadana sobre presupuesto participativo, cuyo objeto será definir los proyectos específicos en que se aplicarán los recursos de presupuesto participativo correspondiente al ejercicio fiscal inmediato en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal.
+Para efectos de lo establecido en el artículo anterior y con arreglo a lo dispuesto en la Ley de Presupuesto y Gasto Eficiente y demás normatividad aplicable, el Instituto Electoral convocará en la primera semana de abril de cada año, a la consulta ciudadana sobre Presupuesto Participativo, cuya Jornada Consultiva se realizará el primer domingo de septiembre del mismo año.
 
-El Instituto Electoral es la autoridad con facultades para emitir la convocatoria, organizar, desarrollar y vigilar el proceso de celebración, así como computar el resultado de las consultas.
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2016)</small>
+
+El objeto de la consulta ciudadana será definir los proyectos específicos en que se aplicarán los recursos de presupuesto participativo correspondiente al ejercicio fiscal inmediato en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2016)</small>
+
+En los años en que esta consulta coincida con la Elección de Comités Ciudadanos y Consejos de los Pueblos, el Instituto Electoral emitirá también en la primera semana de abril una Convocatoria Única para participar en ambos instrumentos de participación ciudadana en una Jornada Electiva Única que, de igual forma, se celebrará el primer domingo de septiembre, en la que la ciudadanía emitirá su voto y/u opinión, respectivamente, para uno y otro ejercicio democrático.
+
+> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2016)</small>
+
+En este supuesto, la preparación y la organización de la consulta y de la elección de los órganos de representación ciudadana se desarrollarán de manera simultánea, de acuerdo a los procedimientos que determine el Consejo General del Instituto Electoral y demás normatividad aplicable.
 
 Para la celebración de la consulta ciudadana a que se refiere el párrafo anterior, el Instituto Electoral podrá solicitar la cooperación del Gobierno del Distrito Federal, las Delegaciones y la Asamblea Legislativa. En todo caso, la difusión de dicha consulta se hará de manera conjunta entre el Instituto Electoral, el Gobierno del Distrito Federal, las Delegaciones y la Asamblea Legislativa.
 
@@ -1396,7 +1406,7 @@ El Comité Ciudadano privilegiará el consenso como método de decisión. Ante l
 
 Los Comités Ciudadanos desarrollarán sus actividades de conformidad con lo establecido en el Titulo Noveno de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 100.
 
@@ -1506,15 +1516,17 @@ El proceso para la elección de los integrantes de los comités ciudadanos es un
 
 La participación del Instituto Electoral en dichos procesos se limita a la colaboración institucional para darles certeza y legalidad.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 107.
 
-Los Comités Ciudadanos serán electos cada tres años y mediante jornada electiva a verificarse durante el primer domingo del mes de agosto.
+Los Comités Ciudadanos y Consejos de los Pueblos serán electos cada tres años en una Jornada Electiva Única a realizarse en la misma fecha prevista para la respectiva Consulta Ciudadana sobre Presupuesto Participativo, conforme a lo dispuesto en el artículo 84, párrafo tercero de esta ley.
 
 Los ciudadanos acudirán, en el transcurso del día y en los horarios señalados en la convocatoria, a depositar su voto en la mesa receptora de votación que les corresponda conforme a su colonia.
 
-Los Comités iniciarán sus funciones el primero de octubre del año de la elección.
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2016)</small>
+
+Los Comités iniciaran sus funciones durante la primera quincena del mes de enero del año inmediato posterior al que tenga verificativo la jornada electiva.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1788,7 +1800,7 @@ El Consejo Ciudadano Delegacional es la instancia de carácter consultivo y de c
 
 El funcionamiento y operación de los Consejos Ciudadanos se regirá por lo establecido en éste y en el Título Décimo Segundo de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 130.
 
@@ -2072,11 +2084,11 @@ Los Consejos de los pueblos sesionarán a convocatoria de la autoridad tradicion
 
 La separación o remoción de algún integrante del consejo del pueblo se atendrá al mismo procedimiento que se utiliza en el caso del comité ciudadano o por solicitud de la autoridad tradicional.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ## TÍTULO NOVENO. DEL FUNCIONAMIENTO Y OPERACIÓN DE LOS COMITÉS CIUDADANOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN INTERNA Y DEL PLENO DEL COMITÉ CIUDADANO
 
@@ -2126,23 +2138,33 @@ Las Direcciones Distritales llevarán un registro actualizado de los integrantes
 
 Con el objeto de que los representantes ciudadanos electos puedan identificarse, el Instituto Electoral les proporcionará, a más tardar el tercer domingo del mes de septiembre del año en que tenga verificativo la jornada electiva, la credencial que los acredite como tales. Dicho documento contendrá como mínimo el nombre del representante ciudadano, su domicilio, su fotografía, la colonia a la que representa, el Comité Ciudadano del que es integrante, el Consejo Delegacional al que pertenecen, tratándose de los coordinadores internos, y demás elementos que se consideren pertinentes.
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 152.
 
-El Instituto Electoral es el encargado de organizar y efectuar la instalación de los Comités Ciudadanos y de los Consejos de los Pueblos. Las sesiones de instalación de los Comités Ciudadanos se realizarán en la primera quincena de octubre del año en que se efectúe la jornada electiva.
+El Instituto Electoral es el encargado de organizar y efectuar la instalación de los Comités Ciudadanos y de los Consejos de los Pueblos. Las sesiones de instalación de los Comités Ciudadanos se realizarán en la segunda quincena del mes de enero del año inmediato posterior en que se efectúe la jornada electiva.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Las sesiones de instalación podrán ser colectivas o individuales.
 
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 Las instalaciones colectivas serán por distrito electoral, por delegación o por cualquier otra subdivisión territorial que determine el Instituto Electoral. Las individuales serán por Comité Ciudadano y se llevarán a cabo cuando por falta de quórum alguno o algunos de éstos no se instalen en la sesión colectiva
 
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 La convocatoria para la instalación colectiva de los Comités Ciudadanos la realizará el Instituto Electoral, de manera personal y por escrito, a los representantes ciudadanos electos en forma simultánea a la entrega de la credencial a que se refiere el artículo anterior, debiendo indicar la fecha, hora y lugar en que se llevará a cabo la sesión de instalación.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 El Jefe de Gobierno del Distrito Federal y las y los jefes delegacionales, de manera conjunta, deberán proporcionar un listado de espacios para:
 
 a) Las sesiones de instalaciones colectivas e individuales de los órganos de representación ciudadana, un mes antes de su realización,
 
 b) Para la celebración de las sesiones ordinarias y extraordinarias de los órganos de representación ciudadana. Según lo requiera el Instituto Electoral del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Estos listados se proporcionarán al Instituto, según lo requiera, para la distribución óptima de los espacios entre los órganos de representación ciudadana.
 
@@ -2162,7 +2184,7 @@ IV. Los integrantes de los Comités Ciudadanos que sean declarados instalados, a
 
 V. Los Comités Ciudadanos que no sean instalados en la sesión colectiva por no reunir el quórum señalado en la fracción II de este artículo, lo serán en sesiones individuales convocadas por el Instituto Electoral dentro del plazo señalado en el primer párrafo del artículo 152 de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO III. DE LAS COORDINACIONES DE TRABAJO DEL COMITÉ CIUDADANO
 
@@ -2360,7 +2382,7 @@ La suspensión de la sesión tendrá los efectos de dar por concluida la misma, 
 
 El coordinador interno, previa consulta con los integrantes del Comité, podrá declarar en receso la sesión y el tiempo para su reanudación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO IV. DE LA RELACIÓN CON LA ASAMBLEA CIUDADANA
 
@@ -2514,7 +2536,7 @@ d) Propiciar un enlace continuo con el Instituto de las Mujeres del Distrito Fed
 
 e) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO V. DE LOS APOYOS MATERIALES
 
@@ -2654,7 +2676,7 @@ Para cumplir con lo señalado en el párrafo anterior el Instituto contará con 
 
 El resultado anual sobre el funcionamiento y desempeño del Comité Ciudadano que elabore la Comisión de Vigilancia se hará del conocimiento de la Asamblea Ciudadana para su aprobación, de conformidad con el artículo 87 de esta ley, asimismo será turnado para su conocimiento en el mes de julio al Instituto, el cual a partir del momento en que lo reciba lo enviará a la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, en un término no mayor de cinco días hábiles.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VI. DE LA CAPACITACIÓN
 
@@ -2688,11 +2710,11 @@ El Instituto Electoral está obligado a incluir en su proyecto de presupuesto de
 
 La Asamblea Legislativa está obligada a aprobar, en el presupuesto anual del Instituto Electoral, los recursos económicos suficientes para dar apoyos materiales a los representantes ciudadanos. Los recursos aprobados serán publicados en la Gaceta Oficial del Distrito Federal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 188.
 
@@ -2760,7 +2782,7 @@ Los órganos de representación ciudadana y los representantes de las organizaci
 
 La Asamblea Legislativa del Distrito Federal por medio de la Comisión de Participación ciudadana, contará con atribuciones para allegarse de información sobre los órganos de representación ciudadana en materia de sus funciones y obligaciones, metas y acciones efectuadas, el grado de desarrollo de proyectos y acciones de mejoramiento en las colonias, el nivel de incidencia en el mejoramiento comunitario de la colonia, y sus fortalezas y debilidades.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VIII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN EL PRESUPUESTO PARTICIPATIVO
 
@@ -2794,7 +2816,7 @@ Recibida la solicitud por parte de la Comisión de Gobierno de la Asamblea Legis
 
 Los integrantes de los Comités Ciudadanos podrán participar como observadores ciudadanos en las diferentes etapas de desarrollo de los instrumentos de participación ciudadana previstos en el Título Cuarto de la presente Ley.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 #### SECCIÓN SEGUNDA. DE LA RENDICIÓN DE CUENTAS
 
@@ -2810,7 +2832,7 @@ Los informes específicos constarán por escrito y serán presentados por las au
 
 La omisión en lo preceptuado en el presente artículo será hecha del conocimiento de la Contraloría General del Distrito Federal y sancionada en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 #### SECCIÓN TERCERA. DE LA DIFUSIÓN PÚBLICA
 
@@ -2820,7 +2842,7 @@ La omisión en lo preceptuado en el presente artículo será hecha del conocimie
 
 El Jefe de Gobierno, las Dependencias, la Asamblea Legislativa y los Jefes Delegacionales están obligados a implementar en los meses de mayo y noviembre de cada año programas de difusión pública sobre las acciones de gobierno y el ejercicio de sus funciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO IX. DE LA COORDINACIÓN DE LOS COMITÉS CIUDADANOS
 
@@ -2906,7 +2928,11 @@ Aplicar, preferentemente por colaboración ciudadana, el presupuesto participati
 
 IV. La forma en como habrán de aplicarse el presupuesto participativo en cada colonia se basará en los resultados de las consultas ciudadanas que establece el inciso b) del párrafo primero del artículo 84 de esta Ley.
 
-V. Las demás que establecen la presente Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, G.O. 25 DE MAYO DE 2016)</small>
+
+V. Remitir al Instituto Electoral del Distrito Federal a más tardar 30 días naturales previos a la celebración de la Consulta Ciudadana, los dictámenes de viabilidad de los proyectos sobre Presupuesto Participativo presentados por los ciudadanos en cada una de las colonias y pueblos.
+
+VI. Las demás que establecen la presente Ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2930,7 +2956,7 @@ Para el supuesto previsto en el inciso a) del párrafo primero del artículo 84 
 
 III. Las demás que establecen la presente Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO X. DE LAS DIFERENCIAS AL INTERIOR Y LAS RESPONSABILIDADES, SANCIONES Y EL PROCEDIMIENTO SANCIONADOR
 
@@ -2962,7 +2988,7 @@ El personal del Instituto Electoral podrá estar presente en las reuniones a que
 
 Los Comités Ciudadanos, por conducto de la coordinación interna o de los titulares de las coordinaciones de trabajo, según corresponda, harán del conocimiento de la asamblea ciudadana los resultados y acuerdos obtenidos como resultado de las reuniones plenarias o de coordinaciones internas que hubiesen celebrado con otro u otros Comités Ciudadanos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS Y SECCIONES QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS Y SECCIONES QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO ÚNICO. DE LOS CONSEJOS DEL PUEBLO
 
@@ -2972,7 +2998,7 @@ Los Comités Ciudadanos, por conducto de la coordinación interna o de los titul
 
 Las diferencias al interior, responsabilidades, sanciones y procedimiento sancionador de los representantes ciudadanos se regirán por lo establecido en este capítulo y demás normatividad aplicable.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 #### SECCIÓN PRIMERA. DE LAS DIFERENCIAS AL INTERIOR DE LOS COMITÉS CIUDADANOS
 
@@ -3038,7 +3064,7 @@ El procedimiento para la imposición de sanciones será sustanciado y resuelto e
 
 Las resoluciones dictadas por las Direcciones Distritales serán definitivas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 #### SECCIÓN SEGUNDA. DE LAS RESPONSABILIDADES, SANCIONES Y EL PROCEDIMIENTO SANCIONADOR
 
@@ -3188,11 +3214,11 @@ d) En caso de que bajo el método de sustitución indicado en el inciso anterior
 
 e) Cuando algún representante ciudadano renuncie o fallezca se procederá en términos de lo establecido en los párrafos b), c) y d) del presente artículo.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ## TÍTULO DÉCIMO. DE LOS CONSEJOS DEL PUEBLO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO ÚNICO. DE LOS REPRESENTANTES DE MANZANA
 
@@ -3248,11 +3274,11 @@ Las convocatorias, discusiones y desarrollo de las sesiones de los Consejos del 
 
 El coordinador de concertación comunitaria coordinará sus labores con la autoridad tradicional, la cual tendrá derecho a voz en las discusiones y acuerdos del pleno del Consejo del Pueblo, sujetando su participación en los Consejos sólo a coadyuvar en el desempeño de sus funciones.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS REPRESENTANTES DE MANZANA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO I. GENERALIDADES
 
@@ -3306,11 +3332,11 @@ Los representantes de manzana de cada colonia deberán reunirse al menos una vez
 
 Los representantes de manzana estarán sujetos al mismo régimen de faltas y sanciones al que se encuentran los miembros de los Comités Ciudadanos o de los Consejos del Pueblo de conformidad con las disposiciones que sobre la materia establece el Capítulo X del Título Noveno del presente ordenamiento. En consecuencia, podrán ser removidos por las mismas causales previstas para los integrantes de los Comités Ciudadanos o Consejos del Pueblo.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS CONSEJOS CIUDADANOS DELEGACIONALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. DE LA INSTALACIÓN
 
@@ -3346,7 +3372,7 @@ Las sesiones, reuniones de trabajo, acuerdos y resoluciones de los Consejos Ciud
 
 El personal del Instituto Electoral estará presente en las sesiones del Consejo Ciudadano.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DEL CONSEJO CIUDADANO
 
@@ -3362,7 +3388,7 @@ En la fecha, hora y lugar señalados en la convocatoria para la sesión de insta
 
 El Instituto Electoral conseguirá los espacios físicos y demás elementos necesarios para la celebración de la sesión de instalación de los Consejos Ciudadanos, para tal efecto el Jefe de Gobierno y los Jefes Delegacionales facilitarán los espacios donde se realizarán las sesiones de instalación y las demás sesiones de los Consejos Ciudadanos Delegacionales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO IV. DEL PLENO DEL CONSEJO CIUDADANO
 
@@ -3416,7 +3442,7 @@ V. Concurrir a los cursos de capacitación, educación y asesoría que imparta e
 
 VI. Los demás que ésta y otras disposiciones jurídicas les señalen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO V. DE LAS COMISIONES DE TRABAJO
 
@@ -3602,7 +3628,7 @@ VIII. La mesa directiva dará seguimiento a los acuerdos que en su caso se alcan
 
 En los supuestos a que se refieren las fracciones V, VII, VIII y IX del artículo 131 de esta Ley, acudirá ante el pleno del Consejo Ciudadano el Jefe Delegacional. Las sesiones establecidas en las fracciones V y VII del artículo 131, tendrán verificativo en la primera quincena del mes de octubre de cada año; las establecidas en las fracciones VIII y IX del numeral citado, se llevarán a cabo en la segunda quincena de los meses de enero, abril, julio y septiembre de cada año.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VI. DE LAS DIFERENCIAS AL INTERIOR Y DE LAS RESPONSABILIDADES, SANCIONES Y PROCEDIMIENTO SANCIONADOR
 
@@ -3696,7 +3722,7 @@ Las sesiones de las comisiones de trabajo se realizarán por lo menos una vez al
 
 Las convocatorias, discusiones, votaciones y, en general, el desarrollo de las sesiones de las comisiones de trabajo se regirán por lo dispuesto en la presente Ley para el pleno de los Consejos Ciudadanos y de los Comités Ciudadanos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 262.
 
@@ -3852,7 +3878,7 @@ En relación con lo preceptuado en los artículos 93 fracción XX y 135 de la Le
 
 Las autoridades a que hace referencia el artículo 14 fracciones I a la IV, emprenderán en un plazo de 90 días posteriores a la entrada en vigor de las presentes reformas y con la coordinación del Instituto Electoral una campaña masiva de educación, capacitación, difusión y fomento de las presentes reformas legales. En el caso de la capacitación de los Comités Ciudadanos a que se refiere el artículo 16 de esta Ley, el Instituto Electoral deberá implementarla inmediatamente después de que éstos entre (sic) en funciones.
 
-> <small>(REFORMADO POR EL ARTICULO SEPTIMO TRANSITORIO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SÉPTIMO TRANSITORIO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO DECIMO PRIMERO.
 
@@ -3862,9 +3888,11 @@ La Contraloría General del Gobierno del Distrito Federal deberá, en un plazo d
 
 Para el cumplimiento de las obligaciones señaladas en el artículo 56 de esta ley, se otorga a las autoridades un plazo de 90 días naturales a partir de la entrada en vigor de las presentes reformas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO DÉCIMO TERCERO.
 
-Los pueblos originarios, donde se mantiene la figura de autoridad tradicional de acuerdo a sus normas, procedimientos y prácticas tradicionales, en el Distrito Federal, se encuentran en cuatro delegaciones, a saber:
+Los pueblos originarios, donde se mantiene la figura de autoridad tradicional de acuerdo a sus normas, procedimientos y prácticas tradicionales que se encuentran en la Ciudad de México, a saber:
 
 XOCHIMILCO
 
@@ -3912,6 +3940,30 @@ TLÁHUAC
 
 7. San Andrés Mixquic
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE MAYO DE 2016)</small>
+
+LA MAGDALENA CONTRERAS
+
+1) San Bernabé Ocotepec
+
+2) San Jerónimo Aculco – Lídice
+
+3) La Magdalena Atlitic
+
+4) San Nicolás Totolapan
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE MAYO DE 2016)</small>
+
+CUAJIMALPA DE MORELOS
+
+1) San Mateo Tlatenango
+
+2) San Lorenzo Acopilco
+
+3) San Pablo Chimalpa
+
+4) San Pedro Cuajimalpa
+
 MILPA ALTA
 
 1. San Pedro Atocpan
@@ -3954,7 +4006,15 @@ TLALPAN
 
 8. Parres el Guarda
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR ARTICULO OCTAVO TRANSITORIO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE MAYO DE 2016)</small>
+
+ÁLVARO OBREGÓN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE MAYO DE 2016)</small>
+
+Y los demás que cumplan con los requisitos que establece esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR ARTÍCULO OCTAVO TRANSITORIO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 Se entiende que no son todos los pueblos originarios del Distrito Federal, sólo se enlistan los que guardan la característica descrita en la fracción VI del artículo 6 de la presente Ley.
 
@@ -4173,3 +4233,23 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO TERCERO TRANSITORIO DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, en consecuencia túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente Decreto.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal realizara las acciones presupuestarias a fin (sic) otorgar los recursos económicos suficientes al Tribunal Electoral para la debida sustanciación de los medios de impugnación.
+
+QUINTO.- Para efecto de lo señalado en el artículo 84 párrafo primero y tercero del presente Decreto, en el que se señala que el Instituto Electoral del Distrito Federal convocará en la primer semana de abril de cada año a la consulta ciudadana sobre Presupuesto Participativo y en los años en que esta consulta coincida con la elección de Comités Ciudadanos y Consejos de los Pueblos, emitirá también en la primer semana de abril la convocatoria respectiva, por única ocasión el Instituto Electoral del Distrito Federal deberá emitir convocatoria inmediatamente después de que el presente decreto sea publicado en la Gaceta Oficial del Distrito Federal.
