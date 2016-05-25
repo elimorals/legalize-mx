@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2016-02-17"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -50,129 +50,97 @@ DISPOSICIONES PRELIMINARES.
 
 El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estados Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, democrático, laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la Ciudad de Cuernavaca.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
+###### Artículo 1
 
-###### Artículo 2.
+Bis.- De los Derechos Humanos en el Estado de Morelos:
 
 En el Estado de Morelos se reconoce que todo ser humano tiene derecho a la protección jurídica de su vida, desde el momento mismo de la concepción, y asegura a todos sus habitantes, el goce de los Derechos Humanos, contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución y, acorde con su tradición libertaria, declara de interés público la aplicación de los artículos 27 y 123, de la Constitución Fundamental de la República y su legislación derivada.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
-
 En el Estado de Morelos, queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
+El Estado deberá de instrumentar los mecanismos necesarios para garantizar eficientemente el acceso de toda persona a una alimentación suficiente y de calidad, que le permita satisfacer sus necesidades nutricionales que aseguren su desarrollo físico y mental.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+En el Estado de Morelos se reconoce el derecho humano de toda persona al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre y asequible. El Estado garantizará este derecho y la Ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo su participación y la de los Municipios, así como la de la ciudadanía para la consecución de dichos fines.
 
-En el Estado de Morelos se reconoce como una extensión de la libertad de pensamiento, el derecho de todo individuo para poder acceder a la información pública sin más restricción que los que establezca la intimidad y el interés público de acuerdo con la ley de la materia, así como el secreto profesional, particularmente el que deriva de la difusión de los hechos y de las ideas a través de los medios masivos de comunicación.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte para alcanzar una mejor calidad de vida y desarrollo físico. Corresponde al Estado y los Municipios su fomento, organización y promoción, conforme a las leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
-
-Para el ejercicio del derecho de acceso a la información, el Estado y los municipios, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-I. Toda la información en posesión de los poderes públicos estatales, autoridades municipales, organismos públicos autónomos creados por esta Constitución, organismos auxiliares de la administración pública estatal o municipal, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciben y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal y municipal y, en general, de cualquier órgano de la Administración Pública del Estado es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. La normativa determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores de gestión que permitan rendir cuentas del cumplimiento de sus objetivos y resultados, con relación a los parámetros y obligaciones establecidos por las normas aplicables;
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-V. La ley de la materia determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que reciban, manejen, apliquen o entreguen a personas físicas o morales;
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-VI. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes;
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-VII. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el organismo público autónomo denominado Instituto Morelense de Información Pública y Estadística, que se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad;
-
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-VIII. Se establecerán sistemas electrónicos de consulta estatales y municipales para que los ciudadanos puedan ejercer el derecho de acceso a la información; el Estado apoyará a los municipios que tengan una población mayor a setenta mil habitantes para el cumplimiento de esta disposición;
-
-> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-IX. En los casos en que el Instituto Morelense de Información Pública y Estadística, mediante resolución confirme la reserva, confidencialidad, inexistencia o negativa de la información, los solicitantes podrán interponer Recurso de Revisión ante el Instituto Nacional de Transparencia y Acceso a la Información y Protección de Datos Personales. Del mismo modo, dicho organismo, de oficio o a petición fundada del Instituto Morelense de Información Pública y Estadística, podrá conocer de los recursos que por su interés y trascendencia así lo ameriten, y
-
-> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2015)</small>
-
-X. Con el objeto de fortalecer la rendición de cuentas en el estado de Morelos, el Instituto Morelense de Información Pública y Estadística, implementará acciones con el Instituto Nacional de Transparencia y Acceso a la Información y Protección de Datos Personales, la Secretaría de la Contraloría del Poder Ejecutivo del Estado, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos y el Instituto Estatal de Documentación.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+Se reconoce como derecho humano, la protección, conservación, restauración y sustentabilidad de los recursos naturales en el Estado.
 
 Es derecho de todos los morelenses, acceder a la sociedad de la información y el conocimiento, como una política prioritaria del Estado, a fin de lograr una comunidad integrada y comunicada, en la que cada uno de los morelenses pueda tener acceso libre y universal al internet como un derecho fundamental para su pleno desarrollo, en un entorno de igualdad de oportunidades, con respeto a su diversidad, preservando su identidad cultural y orientada a su crecimiento personal, que permita un claro impacto de beneficios en la educación, la salud, la seguridad, el desarrollo económico, el turismo, la transparencia, la cultura y los trámites gubernamentales.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
-
-El Estado reconoce al turismo como base fundamental y prioritaria del desarrollo estatal, destinándole en el Presupuesto de Egresos recursos necesarios para el cumplimiento y desarrollo de los programas relacionados con el rubro. La ley secundaria determinará la forma y condiciones para su cumplimiento.
-
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2013)</small>
-
 En el Estado de Morelos se reconoce el derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. Será obligación del Estado promover los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La Ley establecerá los mecanismos para el acceso, fomento y participación de cualquier manifestación cultural.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
+###### Artículo 2.
+
+El derecho a la información será garantizado por el Estado.
+
+En el Estado de Morelos se reconoce como una extensión de la libertad de pensamiento, el derecho de todo individuo para poder acceder a la información pública sin más restricción que los que establezca la intimidad y el interés público de acuerdo con la ley de la materia, así como el secreto profesional, particularmente el que deriva de la difusión de los hechos y de las ideas a través de los medios masivos de comunicación.
+
+Para el ejercicio del derecho de acceso a la información, el Estado y los municipios, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
+
+I. Toda la información en posesión de los poderes públicos estatales, autoridades municipales, organismos públicos autónomos creados por esta Constitución, organismos auxiliares de la administración pública estatal o municipal, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciben y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal y municipal y, en general, de cualquier órgano de la Administración Pública del Estado es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. La normativa determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
+
+IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores de gestión que permitan rendir cuentas del cumplimiento de sus objetivos y resultados, con relación a los parámetros y obligaciones establecidos por las normas aplicables;
+
+V. La ley de la materia determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que reciban, manejen, apliquen o entreguen a personas físicas o morales;
+
+VI. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes;
+
+VII. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el organismo público autónomo denominado Instituto Morelense de Información Pública y Estadística, que se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad;
+
+VIII. Se establecerán sistemas electrónicos de consulta estatales y municipales para que los ciudadanos puedan ejercer el derecho de acceso a la información; el Estado apoyará a los municipios que tengan una población mayor a setenta mil habitantes para el cumplimiento de esta disposición;
+
+IX. En los casos en que el Instituto Morelense de Información Pública y Estadística, mediante resolución confirme la reserva, confidencialidad, inexistencia o negativa de la información, los solicitantes podrán interponer Recurso de Revisión ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Del mismo modo, dicho organismo, de oficio o a petición fundada del Instituto Morelense de Información Pública y Estadística, podrá conocer de los recursos que por su interés y trascendencia así lo ameriten, y
+
+X. Con el objeto de fortalecer la rendición de cuentas en el estado de Morelos, el Instituto Morelense de Información Pública y Estadística, implementará acciones con el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la Secretaría de la Contraloría del Poder Ejecutivo del Estado, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos y el Instituto Estatal de Documentación.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 2
 
-Bis.- El Estado de Morelos tiene una composición pluriétnica, pluricultural y multilingüística, sustentada originalmente en sus pueblos y comunidades indígenas. Reconoce la existencia histórica y actual en su territorio de los pueblos y protege también los derechos de las comunidades asentadas en ellos por cualquier circunstancia.
+Bis.- En el Estado se reconoce la presencia de sus pueblos y comunidades indígenas, admitiendo que fueron la base para su conformación política y territorial; garantizará que la riqueza de sus costumbres y tradiciones; territorio, lengua y patrimonio cultural, medicina tradicional y acceso a recursos naturales, así como su autonomía, libre determinación, sistemas normativos y el acceso a la consulta, sean preservados y reconocidos a través de la ley respectiva.
 
 El Estado reconoce y garantiza el derecho a la libre determinación de sus pueblos y comunidades indígenas, ejercida en sus formas internas de convivencia y organización, sujetándose al marco constitucional de autonomía que asegure la unidad nacional y estatal.
 
 Esta Constitución establece sus derechos y obligaciones conforme a las bases siguientes:
 
-I. El Estado reconoce a los pueblos indígenas su unidad, lenguas, cultura y derechos históricos, manifestados en sus comunidades indígenas a través de su capacidad de organización;
+I.- El Estado reconoce a los pueblos indígenas su unidad, lenguas, cultura y derechos históricos, manifestados en sus comunidades indígenas a través de su capacidad de organización;
 
-II. Queda prohibida toda discriminación que, por origen étnico o cualquier otro motivo, atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como su desarrollo comunitario;
+II.- Queda prohibida toda discriminación que, por origen étnico o cualquier otro motivo, atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como su desarrollo comunitario;
 
-III. Las comunidades integrantes de un pueblo indígenas (sic) son aquellas que forman una unidad política, social, económica y cultural asentadas en un territorio. La ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta, además, los criterios etnolingüísticos;
+III.- Las comunidades integrantes de un pueblo indígenas (sic) son aquellas que forman una unidad política, social, económica y cultural asentadas en un territorio. La ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta, además, los criterios etnolingüísticos;
 
-IV. Las comunidades indígenas, dentro del ámbito municipal, podrán coordinarse o asociarse en los términos y para los efectos que prevenga la ley;
+IV.- Las comunidades indígenas, dentro del ámbito municipal, podrán coordinarse o asociarse en los términos y para los efectos que prevenga la ley;
 
-V. El Estado coadyuvará en la promoción y enriquecimiento de sus idiomas, conocimientos y todos los elementos que conforman su identidad cultural;
+V.- El Estado coadyuvará en la promoción y enriquecimiento de sus idiomas, conocimientos y todos los elementos que conforman su identidad cultural;
 
-VI. La conciencia de su identidad étnica y su derecho al desarrollo deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos y comunidades indígenas. Las propias comunidades coadyuvarán, en última instancia, a este reconocimiento;
+VI.- La conciencia de su identidad étnica y su derecho al desarrollo deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos y comunidades indígenas. Las propias comunidades coadyuvarán, en última instancia, a este reconocimiento;
 
-VII. En los términos que establece la Constitución Federal y demás leyes de la materia, dentro de los ámbitos de competencia del Estado y los Municipios, los pueblos y comunidades indígenas tendrán derecho y obligación de salvaguardar la ecología y el medio ambiente, así como preservar los recursos naturales que se encuentren ubicados en sus territorios, en la totalidad del hábitat que ocupan o disfrutan, además tendrán preferencia en el uso y disfrute de los mismos;
+VII.- En los términos que establece la Constitución Federal y demás leyes de la materia, dentro de los ámbitos de competencia del Estado y los Municipios, los pueblos y comunidades indígenas tendrán derecho y obligación de salvaguardar la ecología y el medio ambiente, así como preservar los recursos naturales que se encuentren ubicados en sus territorios, en la totalidad del hábitat que ocupan o disfrutan, además tendrán preferencia en el uso y disfrute de los mismos;
 
-VIII. Se garantizará a los indígenas el efectivo acceso a la justicia, tanto municipal como estatal. Para garantizar este derecho en la fase preventiva o ejecutiva en los juicios y procedimientos en que sean parte, individual o colectivamente, se proveerá lo necesario en materia de prevención, procuración, administración de justicia y ejecución de sanciones y medidas de seguridad, tomando en consideración sus usos, costumbres y especificidades culturales;
+VIII.- Se garantizará a los indígenas el efectivo acceso a la justicia, tanto municipal como estatal. Para garantizar este derecho en la fase preventiva o ejecutiva en los juicios y procedimientos en que sean parte, individual o colectivamente, se proveerá lo necesario en materia de prevención, procuración, administración de justicia y ejecución de sanciones y medidas de seguridad, tomando en consideración sus usos, costumbres y especificidades culturales;
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2015)</small>
-
-En el caso de los miembros de pueblos o comunidades indígenas, se les nombrará intérprete que tenga conocimiento de su lengua y cultura, aun cuando hablen el español.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
-
-IX. Los pueblos y comunidades indígenas, aplicarán internamente sus propios sistemas normativos comunitarios, en la regulación y solución de conflictos internos, sujetándose a los principios generales de la Constitución Federal y la del Estado y las leyes que de ellos emanen, respetando los Derechos Humanos, así como la dignidad e integridad de la mujer;
-
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+IX.- Los pueblos y comunidades indígenas, aplicarán internamente sus propios sistemas normativos comunitarios, en la regulación y solución de conflictos internos, sujetándose a los principios generales de la Constitución Federal y la del Estado y las leyes que de ellos emanen, respetando los Derechos Humanos, así como la dignidad e integridad de la mujer;
 
 X. Los pueblos y comunidades indígenas tienen derecho a elegir, en los Municipios con población indígena, representantes a los Ayuntamientos, en los términos que señale la normatividad en la materia.
 
 Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de paridad frente a los varones, respetando el pacto federal y la soberanía del Estado.
 
-XI. La ley reconocerá a los integrantes de los pueblos y comunidades indígenas el derecho a su etnicidad y al etnodesarrollo, residan temporal o permanentemente en el territorio del Estado de Morelos;
+XI.- La ley reconocerá a los integrantes de los pueblos y comunidades indígenas el derecho a su etnicidad y al etnodesarrollo, residan temporal o permanentemente en el territorio del Estado de Morelos;
 
-XII. De conformidad con el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, con la participación de las comunidades, establecerán las instituciones y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución Federal y la presente Constitución refieren, así como establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
+XII.- De conformidad con el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, con la participación de las comunidades, establecerán las instituciones y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución Federal y la presente Constitución refieren, así como establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
 
-a) Impulsar al desarrollo regional y Local;
+a) Impulsar al desarrollo regional y local;
 
 b) Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media y superior;
 
@@ -194,15 +162,15 @@ j) Consulta a los pueblos y comunidades indígenas para la elaboración de los p
 
 k) El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas, en los presupuestos de egresos que aprueben, para cumplir con las disposiciones de este artículo, así como las formas y procedimientos para que las comunidades participen en su ejercicio y vigilancia, a través de la Comisión de Asuntos Indígenas de los ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 2
 
-Ter.- El Estado deberá de instrumentar los mecanismos necesarios para garantizar eficientemente el acceso de toda persona a una alimentación suficiente y de calidad, que le permita satisfacer sus necesidades nutricionales que aseguren su desarrollo físico y mental.
-
-De la misma manera deberá garantizar políticas y programas para el desarrollo rural integral, para la generación de empleo y bienestar a la población campesina, y el fomento a la producción agropecuaria y forestal, capacitación y asistencia técnica.
+Ter.- El Estado deberá garantizar políticas y programas para el desarrollo rural integral, para la generación de empleo y bienestar a la población campesina, y el fomento a la producción agropecuaria y forestal, capacitación y asistencia técnica.
 
 El desarrollo rural será sustentable, garantizando el Estado el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
+
+El Estado reconoce al turismo como base fundamental y prioritaria del desarrollo estatal, destinándole en el Presupuesto de Egresos recursos necesarios para el cumplimiento y desarrollo de los programas relacionados con el rubro. La ley secundaria determinará la forma y condiciones para su cumplimiento.
 
 ### CAPITULO II.
 
@@ -368,33 +336,19 @@ Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de ci
 
 La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014) (F. DE E., P.O. 28 DE MAYO DE 2014)
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 19.
 
 La mujer y el varón tienen igualdad de derechos ante la Ley. De igual manera protegerán la organización y desarrollo de la familia, incluidas las familias monoparentales, entre las que se dará protección al menor de edad, la mujer, las personas con capacidades diferentes y los ancianos.
 
-> <small>(F. DE E., P.O. 28 DE MAYO DE 2014)</small>
-
 La protección familiar e individual se dará conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
-
-I.- Corresponde a los miembros del núcleo la atención y cuidado de cada uno de los familiares. El Estado auxiliará a la familia complementariamente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+I.- Corresponde a los miembros del núcleo la atención y cuidado de cada uno de los familiares. El Estado auxiliará a la familia complementariamente;
 
 II.- Los niños, niñas y adolescentes tienen derecho:
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
-
 a).- A conocer a sus padres y ser respetado en su integridad física y psíquica por parte de ellos y de la sociedad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
 b) Para su sano e integral desarrollo:
 
@@ -404,85 +358,45 @@ b) Para su sano e integral desarrollo:
 
 3.- A la protección y conservación de su salud, todo ello respetando su derecho a la libertad;
 
-(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
-
 c).- Al sano esparcimiento para su desarrollo integral;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2014)</small>
 
 d) A salvaguardarles en todo momento la protección de los Derechos Humanos, que por su condición de personas en desarrollo, son reconocidos por la Constitución General de la República, por los Tratados Internacionales ratificados por el Estado mexicano, por la Constitución del Estado y las leyes que el Congreso del Estado emita. Para ello, el Estado establecerá un Sistema Integral de Justicia, que será aplicable a los adolescentes que tengan entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por las Leyes Penales.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2007)</small>
-
 La conducción y operación del Sistema estará a cargo de instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes. Dicho Sistema deberá considerar formas alternativas de justicia que cumplan con las garantías del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión, de las que impongan las medidas y de las que ejecuten la medida impuesta, para ello, el Congreso del Estado emitirá el ordenamiento legal de la materia, a fin de establecer las formas y autoridades responsables de su ejercicio.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2007)</small>
 
 El sistema integral de justicia en el Estado de Morelos, garantizará la orientación, protección y tratamiento integral del adolescente, toda vez que su condición de personas en desarrollo es factor de interés superior para la aplicación en todos los procedimientos instaurados y con ello, reconocerles los valores universales de solidaridad, humanismo e integración social.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+Las personas menores de doce años que hayan realizado una conducta prevista como delito en la Ley, solo serán sujetos a rehabilitación y asistencia social. Las medidas impuestas a los adolescentes de doce años cumplidos y menores de dieciocho, estarán dotadas de contenido educativo, sin perder de vista la orientación, protección y tratamiento, aspectos que deberán estar claramente determinados en calidad y cantidad técnica multidisciplinaria. Será improcedente y contrario a derecho el que se habilite una medida que exceda el criterio de proporcionalidad por el acto cometido, toda vez que el propósito fundamental es el de atender a la protección integral y el interés superior del adolescente, incorporando al contenido educativo la prevención del delito.
 
-Las personas menores de doce años que hayan realizado una conducta prevista como delito en la Ley, solo serán sujetos a rehabilitación y asistencia social. Las medidas impuestas a los adolescentes de doce años cumplidos y menores de dieciocho, estarán dotadas de contenido educativo, sin perder de vista la orientación, protección y tratamiento, aspectos que deberán estar claramente determinados en calidad y cantidad técnica multidisciplinaría. Será improcedente y contrario a derecho el que se habilite una medida que exceda el criterio de proporcionalidad por el acto cometido, toda vez que el propósito fundamental es el de atender a la protección integral y el interés superior del adolescente, incorporando al contenido educativo la prevención del delito.
+Estas medidas tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará como medida extrema y por el menor tiempo que proceda y podrá aplicarse únicamente a los adolescentes mayores de catorce años y menores de dieciocho, por la comisión de las conductas antisociales calificadas como graves.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2007)</small>
+e) A vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación, en condiciones de libertad, integridad y dignidad; por lo que para su protección las leyes que se expidan y las medidas que se tomen en todo momento deberán aplicar el principio del interés superior del menor. Los ascendientes, tutores y custodios tienen la obligación de preservar y hacer cumplir estos derechos y principios.
 
-Estas medidas tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará como medida extrema y por el menor tiempo que proceda y podrá aplicarse únicamente a los adolescente (sic) mayores de catorce años y menores de dieciocho, por la comisión de las conductas antisociales calificadas como graves.
+El Estado garantizará a las niñas, niños y adolescentes, que se encuentren en situación vulnerable y que pongan en riesgo su vida, libertad, integridad, dignidad y Derechos Humanos y sus Garantías, su cuidado y protección a través del adecuado funcionamiento de instituciones y establecimientos públicos o privados que estén dedicados a ese fin.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2011)</small>
+f) A no ser separado del seno de la familia, sino en los casos excepcionales que las leyes secundarias determinen;
 
-e).- A vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación, en condiciones de libertad, integridad y dignidad; por lo que para su protección las leyes que se expidan y las medidas que se tomen en todo momento deberán aplicar el principio del interés superior del menor. Los ascendientes, tutores y custodios tienen la obligación de preservar y hacer cumplir estos derechos y principios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
-
-El Estado garantizará a las niñas/niños/adolescentes, que se encuentren en situación vulnerable y que pongan en riesgo su vida, libertad, integridad, dignidad y Derechos Humanos y sus Garantías, su cuidado y protección a través del adecuado funcionamiento de instituciones y establecimientos públicos o privados que estén dedicados a ese fin.
-
-(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
-
-f).- A no ser utilizado en el trabajo, sino hasta haber cumplido catorce años de edad; los menores de dieciséis tendrán como jornada máxima la de seis horas y no podrán ser utilizados en labores insalubres o peligrosas, el trabajo nocturno industrial y todo otro trabajo después de las diez de la noche;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
-
-III.- Los ancianos tienen derecho de acuerdo con la dignidad humana a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento, de parte de sus familiares.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+III.- Los ancianos tienen derecho de acuerdo con la dignidad humana, a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento, de parte de sus familiares.
 
 Por su parte, de manera subsidiaria, las autoridades estatales y municipales promoverán programas y acciones para atender las necesidades de los ancianos.
 
-> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2003)</small>
-
 IV.- Para garantizar los derechos de la mujer, las leyes establecerán:
 
-a).- Las bases para que las políticas públicas promuevan el acceso de las mujeres al uso, control y beneficio de los bienes y servicios, en igualdad de circunstancias de los varones;
+a) Las bases para que las políticas públicas promuevan el acceso de las mujeres al uso, control y beneficio de los bienes y servicios, en igualdad de circunstancias de los varones;
 
-b).- Los mecanismos que hagan efectiva la participación de la mujer en la toma de decisiones en todos los ámbitos de la vida social y política;
+b) Los mecanismos que hagan efectiva la participación de la mujer en la toma de decisiones en todos los ámbitos de la vida social y política;
 
-c).- Las condiciones de acceso de las mujeres a la educación básica y la asistencia social; y que las instituciones públicas y privadas fomenten la igualdad de derechos y oportunidades;
+c) Las condiciones de acceso de las mujeres a la educación básica y la asistencia social; y que las instituciones públicas y privadas fomenten la igualdad de derechos y oportunidades;
 
-d).- Las disposiciones que reconozcan la equidad de género en el servicio público y en los cargos de elección popular;
+d) Las disposiciones que reconozcan la equidad de género en el servicio público y en los cargos de elección popular;
 
-e).- Los subsidios, subvenciones, estímulos fiscales o apoyos institucionales para aquellas personas físicas o morales que implementen la equidad de género en sus empresas o negocios;
+e) Los subsidios, subvenciones, estímulos fiscales o apoyos institucionales para aquellas personas físicas o morales que implementen la equidad de género en sus empresas o negocios;
 
-f).- Las sanciones a todo acto de violencia física o moral hacia las mujeres, dentro o fuera del seno familiar; y
+f) Las sanciones a todo acto de violencia física o moral contra las mujeres, dentro o fuera del seno familiar; y
 
-g).- Las medidas de seguridad preventivas y definitivas a favor de las mujeres.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2002)</small>
-
-Asimismo, los morelenses tienen el derecho de contar con las oportunidades y condiciones necesarias para su desarrollo físico y mental, en el ámbito de las diferentes disciplinas y niveles del deporte.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2014)</small>
+g) Las medidas de seguridad preventivas y definitivas a favor de las mujeres.
 
 Los morelenses que de acuerdo a los estudios socioeconómicos de los distintos órganos de Gobierno, que se determinen que viven en condiciones de pobreza extrema, tienen derecho a acceder a los programas sociales y por lo tanto, el Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, tienen la obligación de llevar a cabo las acciones necesarias, a efecto de determinar quienes se encuentran en pobreza extrema, registrarlos en los padrones correspondientes y beneficiarlos prioritariamente con los apoyos derivados de los programas que a nivel Federal, Estatal y Municipal se otorgan y que son proporcionados a través o por las autoridades locales. Lo anterior, con independencia de la atención que debe otorgarse a los grupos vulnerables y en pobreza.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2014)</small>
 
 Los habitantes de Morelos que ingresen a los Institutos de Salud Pública del Estado, recibirán la totalidad de medicamentos que comprende el cuadro básico, material de curación e insumos necesarios para su correcta recuperación.
 
@@ -3202,9 +3116,9 @@ Los pagos de que habla el artículo anterior, sólo tendrán lugar por los servi
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2014)</small>
 
-###### Artículo 132 Bis.
+###### Artículo 132
 
-El Estado, garantizará el acceso a la inscripción de las propiedades privadas en el Instituto de Servicios Registrales y Catastrales de Morelos, otorgando los medios legales para que los ciudadanos registren su propiedad inmobiliaria.
+Bis.- El Estado, garantizará el acceso a la inscripción de las propiedades privadas en el Instituto de Servicios Registrales y Catastrales de Morelos, otorgando los medios legales para que los ciudadanos registren su propiedad inmobiliaria.
 
 La primera inscripción de la propiedad, será gratuita y el registro de los actos traslativos subsecuentes será obligatorio.
 
@@ -3288,9 +3202,9 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
-###### Artículo 134 Bis.
+###### Artículo 134
 
-El Comité de Participación Ciudadana del Sistema Estatal Anticorrupción es el órgano ciudadano encargado de la vigilancia de las actuaciones de los servidores públicos de las instancias que integran el Sistema Estatal de Anticorrupción, el cual se conformará por cinco miembros que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y propiciará la participación activa de la sociedad, con la finalidad de fortalecer las acciones encaminadas a la prevención, detección y sanción de actos de corrupción. Asimismo contará con las facultades y atribuciones que se establezcan en la normativa aplicable.
+Bis.- El Comité de Participación Ciudadana del Sistema Estatal Anticorrupción es el órgano ciudadano encargado de la vigilancia de las actuaciones de los servidores públicos de las instancias que integran el Sistema Estatal de Anticorrupción, el cual se conformará por cinco miembros que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y propiciará la participación activa de la sociedad, con la finalidad de fortalecer las acciones encaminadas a la prevención, detección y sanción de actos de corrupción. Asimismo contará con las facultades y atribuciones que se establezcan en la normativa aplicable.
 
 Los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción serán designados por el Congreso del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de sus integrantes; durarán seis años en su cargo, sin que puedan ser designados por un periodo más.
 
@@ -4786,7 +4700,7 @@ TERCERO. Respecto a la reforma a la Ley de Salud del Estado de Morelos, el prese
 
 P.O. 27 DE JUNIO DE 2014.
 
-PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del Estado de Morelos, lo anterior, conforme lo dispuesto por el artículo 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145 del Reglamento para el Congreso del Estado.
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del Estado de Morelos, lo anterior, conforme lo dispuesto por el artículo 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145 del Reglamento para el Congreso del Estado.
 
 SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la Declaratoria a que se refieren los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -4800,7 +4714,7 @@ SEXTA. La entrada en vigor de las presentes reformas no afectará de ninguna for
 
 SÉPTIMA. Toda mención que se haga en ordenamientos normativos respecto al Instituto Estatal Electoral, se entenderá que se hace referencia al Organismo Público Electoral de Morelos.
 
-OCTAVA. Para la designación del Consejero Presidente y los Consejeros Electorales que integrará el Organismo Público Electoral de Morelos, en su primera conformación, se estará a las disposiciones transitorias contenidas en el Decreto de reforma constitucional federal en materia político electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, así como en las contenidas en la Ley General de Instituciones y Procedimientos Electorales.
+OCTAVA. Para la designación del Consejero Presidente y los Consejeros Electorales que integrarán el Organismo Público Electoral de Morelos, en su primera conformación, se estará a las disposiciones transitorias contenidas en el Decreto de reforma constitucional federal en materia político electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, así como en las contenidas en la Ley General de Instituciones y Procedimientos Electorales.
 
 NOVENA. Los Magistrados Electorales del Tribunal Electoral del Estado de Morelos, serán designados en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la normativa que resulte aplicable.
 
@@ -5011,3 +4925,15 @@ SEGUNDO. Las reformas, adiciones y derogaciones contenidas en el presente Decret
 TERCERO.- Las administraciones municipales que inician su gestión el 1º de enero de 2016, concluirán su ejercicio constitucional el 31 de diciembre de 2018.
 
 CUARTO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE DERECHOS HUMANOS”.]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del estado de Morelos; lo anterior, conforme a (sic) dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto, así como quedan sin efectos los actos derivados.
+
+CUARTA. Se instruye a la Secretaría de Asuntos Legislativos y Parlamentarios, que informe a la Cámara de Senadores del Congreso de la Unión, que se ha dado cumplimiento al Punto de Acuerdo mediante el cual exhortaban a este Congreso, a fin de que en el marco del Día Mundial del Agua 2013, y en el ámbito de sus respectivas competencias, homologaran la reforma de derecho al acceso al agua en sus Constituciones locales.
