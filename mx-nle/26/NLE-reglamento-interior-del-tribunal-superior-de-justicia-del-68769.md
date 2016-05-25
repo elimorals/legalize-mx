@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2015-08-19"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -45,9 +45,13 @@ Objeto del reglamento. El presente reglamento interior tiene por objeto regular 
 
 I. El Pleno del Tribunal Superior de Justicia;
 
-II. El Presidente del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
 
-III. Los órganos auxiliares del Pleno y de la Presidencia;
+II. La Presidencia del Tribunal Superior de Justicia;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2016)</small>
+
+III. Las áreas auxiliares del Pleno y de la Presidencia;
 
 a) La Secretaría General de Acuerdos.
 
@@ -59,7 +63,9 @@ b) Los Secretarios Auxiliares.
 
 c) La Dirección de Transparencia.
 
-d) (DEROGADO, P.O. 27 DE FEBRERO DE 2013)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2016)</small>
+
+d) La Unidad de Auxiliares de la Impartición de Justicia.
 
 IV. Las Salas Colegiadas;
 
@@ -327,9 +333,9 @@ Los recursos competencia de las salas colegiadas y unitarias, el Presidente por 
 
 Representación. El Presidente suscribirá, con la representación del Tribunal Superior de Justicia, las iniciativas de ley, convenios o acuerdos de colaboración con otros poderes, organismos públicos o entidades privadas, que hubieren sido aprobados por el Pleno previamente, cuando aquéllos incidan en el ámbito de competencia del Tribunal Superior de Justicia.
 
-## TÍTULO CUARTO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MAYO DE 2016)</small>
 
-De los órganos auxiliares del Pleno y de la Presidencia, y de la publicación de tesis.
+## TÍTULO CUARTO. De las áreas auxiliares del Pleno y de la Presidencia, y de la publicación de tesis
 
 ###### Artículo 33.
 
@@ -407,11 +413,9 @@ XIV. Llevar el archivo de la información pública de oficio, jurisdiccional y a
 
 XV. Las demás que determine la Presidencia o el Pleno del Tribunal Superior de Justicia del Estado.
 
-Artículo 35 bis. (DEROGADO, P.O. 27 DE FEBRERO DE 2013)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
-
-###### Artículo 36.
+###### Artículo 35 Bis.
 
 De la publicación de las tesis. Las tesis relevantes del Pleno o de cualquiera de las Salas del Tribunal Superior, podrán ser publicadas atendiendo al siguiente procedimiento:
 
@@ -423,6 +427,42 @@ III. Aprobado el proyecto de tesis, el Director de Transparencia lo incorporará
 
 Las tesis obligatorias, que son las sustentadas por el Pleno al resolver una contradicción de criterios, además de publicarse en el Boletín Judicial, también se publicarán por los mismos medios que las tesis relevantes. Para la redacción uniforme de estas tesis obligatorias, el ponente del proyecto de resolución que resuelve una contradicción de criterios, antes de presentar el proyecto al Pleno, podrá consultar la opinión de la Dirección de Transparencia.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
+###### Artículo 36.
+
+De la Unidad de Auxiliares de la Impartición de Justicia. Para garantizar el adecuado ejercicio de las facultades que le competen al Tribunal Superior de justicia respecto de los auxiliares de la impartición de justicia, el Pleno y la Presidencia contarán con el apoyo de la Unidad de Auxiliares de la Impartición de Justicia, la cual tendrá las siguientes atribuciones:
+
+I. Auxiliar y colaborar con el Pleno del Tribunal Superior de Justicia en la elaboración de las listas a que se refieren los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado;
+
+II. Elaborar los proyectos de convocatoria anual, que habrán de someterse al Pleno para su aprobación;
+
+III. Coadyuvar en la evaluación de las solicitudes y documentación presentada por los aspirantes, solicitantes o candidatos de ingreso o reingreso a formar parte de la Unidad, así como de las listas a que se refieren los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado, a efecto de que el Pleno, la Presidencia o, en su caso, la comisión dictaminen quiénes reúnen o no los requisitos previstos en la ley y en las convocatorias para ser incluidos en el padrón respectivo;
+
+IV. Realizar revisiones aleatorias de los expedientes administrativos de los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, que formen parte de la Unidad, así como de aquellos que se encuentren incluidos en las listas a que se refieren los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado; dando aviso a la Presidencia del Tribunal Superior de Justicia en caso de advertir alguna presunta falta.
+
+V. Poner a disposición de las salas y juzgados las listas actualizadas de los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, que formen parte de la propia Unidad, así como de aquellos que se encuentren incluidos en las listas señaladas en los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado.
+
+VI. Vigilar que los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, que formen parte de la Unidad y los que se encuentren incluidos en las listas señaladas en los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado cumplan sus deberes cuando hayan sido designados por la autoridad judicial; dando aviso a la Presidencia del Tribunal Superior de Justicia de las faltas u omisiones que notare;
+
+VII. Proponer a las autoridades judiciales a las que legalmente corresponda realizar el nombramiento, los peritos respectivos, en el supuesto de que no existiera lista de peritos en el arte o ciencia de que se trate, o que los enlistados estuvieren impedidos para ejercer el cargo en ese caso concreto. En este sentido, la Unidad será el órgano del Tribunal Superior de Justicia encargado de dar observancia al artículo 78 de la Ley Orgánica del Poder Judicial del Estado, debiendo tramitar y resolver las solicitudes que se formulen en términos de ese numeral; y,
+
+VIII. Las demás que le imponga este Reglamento o le encomiende el Pleno o la Presidencia del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2016)</small>
+
+###### Artículo 36 Bis.
+
+Integración de la Unidad de Auxiliares de la Impartición de Justicia. La Unidad de Auxiliares de la Impartición de Justicia estará compuesta de un titular, de los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia, interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, y demás personal administrativo que decida el Pleno, según se estime necesario para el adecuado servicio público y exista suficiencia presupuestaria.
+
+Todos los integrantes de la Unidad de Auxiliares de la Impartición de Justicia, siempre que reúnan los requisitos legales para ejercer el cargo que corresponda, serán nombrados y removidos por el Presidente del Tribunal Superior de Justicia. Lo anterior, con independencia y sin perjuicio de las personas que se encuentren incluidas en las listas señaladas en los artículos 58 y 77 de Ley Orgánica del Poder Judicial del Estado.
+
+Los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, que formen parte de la Unidad de Auxiliares de la Impartición de Justicia, serán servidores públicos del Poder Judicial del Estado. Por tal motivo, sólo podrán desempeñar su cargo dentro del algún procedimiento judicial cuando sean designados por las autoridades judiciales y no recibirán remuneración adicional por su participación en cada caso.
+
+Salvo los peritos, todos los servidores públicos que formen parte de la Unidad de Auxiliares de la Impartición de Justicia podrán desempeñarse indistintamente como curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado. Por lo que, la designación respectiva deberá recaer en personas que reúnan los requisitos legales para ejercer tales cargos.
+
+Los trabajadores sociales y psicólogos adscritos al Centro Estatal de Convivencia Familiar serán miembros honorarios de la Unidad de Auxiliares de la Impartición de Justicia y, con esa calidad, podrán desempeñar su cargo como peritos en las áreas de su especialidad dentro de los procedimientos judiciales, cuando sean designados por las autoridades judiciales a las que les corresponda realizar el nombramiento. Por tal labor, no recibirán remuneración adicional por su participación en cada asunto.
+
 ## TÍTULO QUINTO.
 
 De las Salas Colegiadas.
@@ -431,21 +471,19 @@ De las Salas Colegiadas.
 
 Integración y competencia de las Salas Colegiadas.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 37.
 
 Denominación e integración. Las salas se denominarán e integrarán de la siguiente manera:
 
-La Primera Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Primera, Tercera y Décima Quinta.
+La Primera Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Primera, Cuarta y Décima Quinta.
 
-La Segunda Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Quinta, Séptima y Octava.
+La Segunda Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Séptima, Octava y Novena.
 
-La Tercera Sala Colegiada Penal, se integrará por los titulares de las salas unitarias Segunda, Cuarta y Sexta.
+La Tercera Sala Colegiada Penal, se integrará por los titulares de las salas unitarias Segunda, Décimo Tercera y Décimo Cuarta.
 
 La Cuarta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Décima, Undécima y Duodécima.
-
-La Quinta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Novena, Décimo Tercera y Décimo Cuarta.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2015)</small>
 
@@ -457,13 +495,13 @@ I. Juicios ordinarios civiles; e,
 
 II. Informaciones de dominio.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 39.
 
 Competencia de las Salas Colegiadas Penales. Las Salas Colegiadas Penales conocerán de los recursos siguientes:
 
-a) De las apelaciones contra las sentencias definitivas derivadas de los delitos que a continuación se precisan:
+a) De las apelaciones contra las sentencias definitivas pronunciadas en los procesos regulados por el Código de Procedimientos Penales del Estado de Nuevo León del 28 de marzo de 1990 y sus reformas, siempre que se hayan tramitado por los delitos que a continuación se precisan:
 
 I. Delitos cometidos contra la seguridad interior del Estado y contra la seguridad pública, tipificados, sancionados y regulados en los artículos 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 161 Bis, 161 Bis 2, 162, 163, 164, 165, 165 Bis y 176 del Código Penal del Estado.
 
@@ -479,11 +517,13 @@ VI. Delitos contra la libertad, tipificados, sancionados y regulados en los art�
 
 VII. Delitos electorales tipificados, sancionados y regulados en los artículos 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425 y 426 del Código Penal del Estado.
 
-VIII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado,
+VIII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado.
 
-b) De los recursos de apelación contra sentencias definitivas dictadas en los procedimientos abreviados relativos a los delitos con prisión preventiva de oficio, previstos en el artículo 171 del Código Procesal Penal para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 5 de julio de 2011; y de los recursos de casación y revisión regulados en la referida codificación adjetiva.
+b) De los recursos de casación y revisión contra las sentencias definitivas pronunciadas por los jueces de juicio oral, en los procesos regulados por el Código Procesal Penal para el Estado de Nuevo León del 5 de julio de 2011 y sus reformas, siempre que se hayan tramitado por los delitos para los cuales está prevista la prisión preventiva de oficio.
 
-Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas y de las Salas Unitarias, será competente para conocer de ellos la Sala Colegiada.
+c) De los recursos de apelación, así como de los reconocimientos de inocencia y de la anulación de sentencia, promovidos contra las sentencias definitivas pronunciadas por los jueces de juicio oral, en los procesos regulados por el Código Nacional de Procedimientos Penales del 5 de marzo de 2014 y sus reformas, en vigor en el Estado de Nuevo León a partir del 1° de enero de 2016, siempre que se hayan tramitado por los delitos para los cuales está prevista la prisión preventiva de oficio.
+
+Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas Penales y de las Salas Unitarias Penales, serán competentes para conocer de ellos las Salas Colegiadas Penales.
 
 ###### Artículo 40.
 
@@ -543,15 +583,17 @@ Orden en las sesiones. Las personas que asisten a las sesiones de las salas cole
 
 El Presidente adoptará las medidas necesarias para que durante las sesiones, la presencia del público no altere el orden, y se garantice la seguridad del Pleno y la autonomía de sus deliberaciones. El Presidente, para mantener el orden, podrá disponer de la fuerza pública, imponer arresto o multa como corrección disciplinaria de acuerdo a la legislación procesal respectiva, e incluso podrá suspender la sesión del Pleno, hasta en tanto no se reestablezcan (sic) las condiciones para continuar su realización.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
 ###### Artículo 50.
 
-Acuerdos internos. Cada Sala Colegiada podrá tomar los acuerdos internos que estime necesarios para su mejor funcionamiento.
+Acuerdos internos. Cada Sala Colegiada podrá tomar los acuerdos internos que estime necesarios para su mejor funcionamiento. Para efectos del turno de asuntos relativo a la formulación de los proyectos de resolución, podrán acordar que los titulares de las Salas Unitarias que conforman la Sala Colegiada no figuren como ponentes, cuando éstos tengan una competencia por materia distinta actuando en forma unitaria.
 
 ## TÍTULO SEXTO.
 
 De las Salas Unitarias.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 51.
 
@@ -561,15 +603,13 @@ Las Salas Primera, Séptima, Octava, Novena y Décimo Quinta conocerán de los a
 
 Las Salas Tercera y Quinta conocerán de los asuntos en materia familiar.
 
-Las Salas Segunda, Cuarta, Sexta, Décima, Undécima, Duodécima, Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia penal, excepto los que sean competencia de las Salas Penales Colegiadas. Pero será competencia exclusiva de las Salas Décima Tercera y Décimo Cuarta, conocer de los asuntos derivados de los procedimientos orales penales a que se refiere el artículo 1 inciso c), del Código de Procedimientos Penales del Estado.
+Las Salas Segunda, Cuarta, Décima, Undécima, Duodécima, Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia penal, excepto los que sean competencia de las Salas Colegiadas Penales. Además de su competencia en materia penal, las salas unitarias Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia de adolescentes infractores, que en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, se prevén para los tribunales de segunda instancia.
 
-Además de su competencia en materia penal referida en el párrafo anterior, las Salas Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia de adolescentes infractores, que en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, se prevén para los tribunales de segunda instancia.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 52.
 
-Denominación. Atendiendo a su competencia, las Salas Unitarias se denominarán de la siguiente manera: Primera Sala Civil, Segunda Sala Penal, Tercera Sala Familiar, Cuarta Sala Penal, Quinta Sala Familiar, Sexta Sala Penal, Séptima Sala Civil, Octava Sala Civil, Novena Sala Civil, Décima Sala Penal, Undécima Sala Penal, Duodécima Sala Penal, Décimo Tercera Sala Penal y de Justicia para Adolescentes, Décimo Cuarta Sala Penal y de Justicia para Adolescentes y Décimo Quinta Sala Civil.
+Denominación. Atendiendo a su competencia, las Salas Unitarias se denominarán de la siguiente manera: Primera Sala Civil, Segunda Sala Penal, Tercera Sala Familiar, Cuarta Sala Penal, Quinta Sala Familiar, Séptima Sala Civil, Octava Sala Civil, Novena Sala Civil, Décima Sala Penal, Undécima Sala Penal, Duodécima Sala Penal, Décimo Tercera Sala Penal y de Justicia para Adolescentes, Décimo Cuarta Sala Penal y de Justicia para Adolescentes y Décimo Quinta Sala Civil.
 
 ## TÍTULO SÉPTIMO.
 
@@ -587,11 +627,11 @@ Los Magistrados titulares de Sala Unitaria, así como los Presidentes de las Sal
 
 De la formación de la lista oficial de peritos.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 54.
 
-Fines de la lista oficial y atributos de los peritos. El Tribunal Superior de Justicia elaborará la lista oficial de peritos, procurando que ésta se integre por expertos que garanticen profesionalidad, objetividad e imparcialidad, así como efectiva disponibilidad para actuar como auxiliares en la impartición de justicia al prestar la función pública de peritaje.
+Fines de la lista oficial y atributos de los peritos. El Tribunal Superior de Justicia, con el apoyo de la Unidad de Auxiliares de la Impartición de Justicia, elaborará la lista oficial de peritos, procurando que ésta se integre por expertos que garanticen profesionalidad, objetividad e imparcialidad, así como efectiva disponibilidad para actuar como auxiliares en la impartición de justicia al prestar la función pública de peritaje.
 
 La profesionalidad del perito está determinada por la calidad y profundidad de sus conocimientos especializados en el área del saber humano en la cual es experto; y por sus conocimientos forenses necesarios para desempeñar adecuadamente su labor ante los órganos judiciales.
 
@@ -599,11 +639,11 @@ La objetividad e imparcialidad están determinadas por la capacidad del perito p
 
 La efectiva disponibilidad para actuar como auxiliar en la impartición de justicia, implica no rechazar o incumplir injustificadamente la función pública de peritaje, una vez que sea designado perito por un juzgador del Poder Judicial del Estado.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 55.
 
-Convocatoria. En el mes de octubre de cada año, el Pleno emitirá una convocatoria que incluirá, entre otras, las siguientes bases: el catálogo enunciativo de las distintas especialidades del conocimiento humano en la que se requieren peritos; los requisitos que deben cumplir y la documentación que deberán acompañar los solicitantes de ingreso o reingreso a la lista oficial de peritos; y el lugar y plazo para la recepción de solicitudes y documentos.
+Convocatoria. En el mes de octubre de cada año y con el auxilio de la Unidad de Auxiliares de la Impartición de Justicia, el Pleno emitirá una convocatoria que incluirá, entre otras, las siguientes bases: el catálogo enunciativo de las distintas especialidades del conocimiento humano en la que se requieren peritos; los requisitos que deben cumplir y la documentación que deberán acompañar los solicitantes de ingreso o reingreso a la lista oficial de peritos; y el lugar y plazo para la recepción de solicitudes y documentos.
 
 En la convocatoria podrán establecerse requisitos específicos para cada especialidad, entre otros: contar con la certificación que expidan las universidades o instituciones de educación superior, las entidades o asociaciones especializadas, o los colegios de profesionistas que se precisen en la convocatoria respectiva, y con los cuales el Tribunal Superior de Justicia haya suscrito convenio de colaboración para ese efecto; o, en su caso, acreditar un determinado número mínimo de horas en cursos de actualización.
 
@@ -673,27 +713,37 @@ Cuando se actualice algunos de los supuestos anteriores, el Presidente del Tribu
 
 El perito que cause baja administrativa podrá solicitar su alta, cumpliendo con los requisitos y trámites respectivos, que al efecto se fijen en la lista oficial que deberá ser aprobada en el mes de enero siguiente.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 59.
 
 Comisiones. El Pleno podrá encargar a una o varias comisiones, integradas con el número de magistrados que considere conveniente, las siguientes atribuciones:
 
-I. Elaborar el proyecto de convocatoria anual, que habrá de someterse al Pleno para su aprobación;
+I. Revisar los proyectos de convocatoria anual, elaborados por la Unidad de Auxiliares de la Impartición de Justicia, que habrán de someterse al Pleno para su aprobación;
 
-II. Evaluar las solicitudes y documentación presentada por los solicitantes de ingreso o reingreso a la lista oficial de peritos, así como el expediente previo que se tenga formado de ellos, para dictaminar quiénes reúnen o no los requisitos previstos en la ley y en la convocatoria para ser incluidos en la lista oficial de peritos;
+II. Evaluar las solicitudes y documentación presentada por los solicitantes o candidatos de ingreso o reingreso a las listas oficiales de peritos y síndicos, así como el expediente que se tenga formado de ellos, para dictaminar quiénes reúnen o no los requisitos previstos en la ley y en las convocatorias para ser incluidos en la listas oficiales;
 
-III. Realizar revisiones aleatorias de los expedientes administrativos de los peritos ya registrados, así como de los dictámenes que éstos rindan cuando hayan sido designados peritos por la autoridad judicial, y proceder como corresponda, en caso de advertir alguna falta.
+III. Encomendar a la Unidad de Auxiliares de la Impartición de Justicia revisiones aleatorias de los expedientes administrativos de los peritos y síndicos ya registrados, así como de las funciones que éstos realicen cuando hayan sido designados peritos por la autoridad judicial, y proceder como corresponda, en caso de advertir alguna presunta falta; y,
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+IV. Las demás que determine el Pleno del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 60.
 
 Convenios para certificación, cursos y registro. Se promoverán con las instituciones de educación superior y los colegios de profesionistas que correspondan, convenios de colaboración para la certificación de los peritos de determinadas especialidades.
 
-También se organizarán, para los peritos incluidos en la lista oficial, cursos de inducción relativos a los conocimientos jurídico-procesales, forenses y de ética profesional, que deben tener presentes durante el desempeño de su función.
+También se organizarán, con el apoyo de la Unidad de Auxiliares de la Impartición de Justicia, cursos de inducción para los aspirantes, solicitantes o candidatos de nuevo ingreso a formar parte de la lista oficial de peritos relativos a los conocimientos jurídico-procesales, forenses y de ética profesional, que deben tener presentes durante el desempeño de su función.
 
-La Secretaría General elaborará un registro estadístico consultable, sobre la actividad judicial de los peritos. Para esto, los juzgadores informarán a la Secretaría General de cada designación de perito que hagan; y cada perito deberá entregar anualmente a la Secretaría General, en el formato aprobado por ésta, dos informes sobre su actividad como perito en procesos judiciales, designado por alguna las partes o por el juez. El primer informe deberá entregarse durante la primera quincena de junio; y el segundo, durante la primera quincena de diciembre de cada año.
+La Unidad de Auxiliares de la Impartición de Justicia elaborará un registro estadístico consultable sobre la actividad judicial de los peritos y síndicos que formen parte de la propia Unidad, así como de aquellos que se encuentren incluidos en las listas a que se refieren los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado. Para esto, los juzgadores informarán a la Unidad de Auxiliares de la Impartición de Justicia de cada designación de perito y síndico que hagan.
+
+Cada perito y síndico deberá entregar anualmente a la Unidad de Auxiliares de la Impartición de Justicia, en el formato aprobado por ésta, dos informes sobre su actividad en los procesos judiciales, con independencia si fueron designados por alguna las partes o por el juez. El primer informe deberá entregarse durante la primera quincena de junio; y el segundo, durante la primera quincena de diciembre de cada año.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2016)</small>
+
+###### Artículo 60 Bis.
+
+Todo lo que no se encuentre previsto o regulado en este Título, será resuelto por el Pleno del Tribunal Superior de Justicia.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
@@ -796,5 +846,21 @@ SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el
 P.O. 19 DE AGOSTO DE 2015.
 
 PRIMERO: Las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, contenidas en este Acuerdo General, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 3/2016, DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, POR EL QUE SE DETERMINA LA CREACIÓN DE LA UNIDAD DE AUXILIARES DE LA IMPARTICIÓN DE JUSTICIA; Y, ADEMÁS, SE REFORMAN LAS DISPOSICIONES RELATIVAS DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN PARA EFECTO DE REGULAR SU FORMA DE ORGANIZACIÓN Y FUNCIONAMIENTO”.]
+
+PRIMERO: Las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, contenidas en este Acuerdo General, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 4/2016, DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, POR EL QUE SE DETERMINA LA CONCLUSIÓN DE FUNCIONES DE LA SEXTA SALA PENAL Y DE LA QUINTA SALA COLEGIADA PENAL; Y, ADEMÁS, SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: El presente Acuerdo General, incluyendo las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
