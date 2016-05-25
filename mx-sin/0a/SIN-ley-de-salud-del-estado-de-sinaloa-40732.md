@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2016-02-17"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -73,7 +73,9 @@ En términos del presente ordenamiento y de la Ley General de Salud, se consider
 
 A). Materia de salubridad general:
 
-I. La atención médica, preferentemente a los adultos mayores, las personas con capacidades diferentes, las de escasos recursos, y en general aquellos que se encuentren en situación de dificultad o incapacidad para satisfacer sus necesidades básicas;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
+
+I. La atención médica, preferentemente a los adultos mayores, las personas con discapacidad, las de escasos recursos, y en general aquellos que se encuentren en situación de dificultad o incapacidad para satisfacer sus necesidades básicas;
 
 II. La atención materno infantil;
 
@@ -101,11 +103,13 @@ XII. La prevención y el control de los efectos nocivos de los factores ambienta
 
 XIII. La prevención y el control de las enfermedades transmisibles, no transmisibles y accidentes;
 
-XIV. La prevención de las incapacidades y la rehabilitación de las personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
+
+XIV. La prevención de las discapacidades y la rehabilitación de las personas con discapacidad;
 
 XV. La asistencia social;
 
-XVI. La prevención de la invalidez y la rehabilitación de los inválidos;
+XVI. (DEROGADA, P.O. 25 DE MAYO DE 2016)
 
 XVII. Autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos y bebidas en estado natural, mezcladas, preparadas, adicionadas o condicionadas para su consumo dentro o fuera de los mismos; y
 
@@ -815,13 +819,13 @@ IV. La realización de estudios epidemiológicos; y
 
 V. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 69 Bis.
 
-La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama y cérvicouterino de manera permanente en las dependencias y hospitales del sector salud, de tal forma que garantice a las mujeres la realización de exámenes de detección de cáncer de mama y cérvicouterino, de manera gratuita, por lo menos una vez al año.
+La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama y cérvicouterino, y de próstata de manera permanente en las dependencias y hospitales del sector salud, de tal forma que garantice a las mujeres la realización de exámenes de detección de cáncer de mama y cérvicouterino, y de próstata a los hombres, de manera gratuita, por lo menos una vez al año.
 
-En los lugares donde no existan clínicas del sector público, dicha autoridad de salud del Estado realizará convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama y cérvicouterino.
+En los lugares donde no existan clínicas del sector público, dicha autoridad de salud del Estado realizará convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama y cérvicouterino, y de próstata.
 
 ###### Artículo 70.
 
@@ -897,7 +901,9 @@ I. Preventivas, que incluyen las de promoción general y las de protección espe
 
 II. Curativas, que tiene como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno y adecuado; y
 
-III. De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
+
+III. De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades.
 
 ### CAPÍTULO V. DE LA SALUD PÚBLICA
 
@@ -1087,11 +1093,15 @@ Para los efectos de esta ley, se entiende por asistencia social el conjunto de a
 
 El Gobierno del Estado contará con un organismo que tendrá entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2016)</small>
+
 ###### Artículo 96.
 
-Las personas con capacidades diferentes como sujetos de asistencia social prioritaria recibirán en el Sistema Estatal de Salud los servicios de atención médica que correspondan conforme al nivel de atención y posibilidades de resolución de los establecimientos de salud.
+Las personas con discapacidad como sujetos de asistencia social prioritaria recibirán en el Sistema Estatal de Salud los servicios de atención médica que correspondan conforme al nivel de atención y posibilidades de resolución de los establecimientos de salud.
 
-La prevención de la discapacidad, habilitación y rehabilitación de personas con capacidades diferentes comprende:
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
+La prevención de la discapacidad, habilitación y rehabilitación de personas con discapacidad comprende:
 
 I. La investigación de las causas de la discapacidad y de los factores que la condicionan;
 
@@ -1099,11 +1109,17 @@ II. La promoción de la participación de la comunidad en la prevención y contr
 
 III. La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que pueden causar discapacidad;
 
-IV. La orientación educativa en materia de rehabilitación a la colectividad en general y a las familias de personas con capacidades diferentes en particular;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
 
-V. La atención integral de las personas con capacidades diferentes, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que éstos requieran;
+IV. La orientación educativa en materia de rehabilitación a la colectividad en general y a las familias de personas con discapacidad en particular;
 
-VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con capacidades diferentes; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
+
+V. La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que éstos requieran;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
+
+VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad;
 
 VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de habilitación o rehabilitación.
 
@@ -1467,9 +1483,11 @@ VII. Información a las autoridades sanitarias acerca de efectos secundarios y r
 
 VIII. Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
 ###### Artículo 136.
 
-La Secretaría de Salud y demás instituciones estatales de salud, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de invalidez y rehabilitación de inválidos.
+La Secretaría de Salud y demás instituciones estatales de salud, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar, organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como los de prevención de enfermedades y accidentes; de discapacidad y rehabilitación de personas con discapacidad.
 
 ###### Artículo 137.
 
@@ -1849,7 +1867,9 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 El Gobierno del Estado, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad. La información se referirá fundamentalmente a los siguientes aspectos:
 
-I. Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
+
+I. Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
 
 II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
 
@@ -3004,3 +3024,27 @@ P.O. 17 DE FEBRERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 551 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 552 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL ARTÍCULO 69 BIS DE LA LEY DE SALUD DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá incorporar en su proyecto de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Salud dentro de los noventa días posteriores a la publicación de este Decreto, deberá remitir a este Congreso del Estado, los programas de educación, prevención, información, socialización y detección de cáncer de prostata a ejecutar en el presente año, así como los convenios de colaboración que se celebrarán para el cumplimiento del presente Decreto.
