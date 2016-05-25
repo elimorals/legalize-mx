@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2015-08-19"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -45,9 +45,13 @@ Objeto del reglamento. El presente reglamento interior tiene por objeto regular 
 
 I. El Pleno del Tribunal Superior de Justicia;
 
-II. El Presidente del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
 
-III. Los órganos auxiliares del Pleno y de la Presidencia;
+II. La Presidencia del Tribunal Superior de Justicia;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2016)</small>
+
+III. Las áreas auxiliares del Pleno y de la Presidencia;
 
 a) La Secretaría General de Acuerdos.
 
@@ -59,7 +63,9 @@ b) Los Secretarios Auxiliares.
 
 c) La Dirección de Transparencia.
 
-d) (DEROGADO, P.O. 27 DE FEBRERO DE 2013)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2016)</small>
+
+d) La Unidad de Auxiliares de la Impartición de Justicia.
 
 IV. Las Salas Colegiadas;
 
@@ -327,9 +333,9 @@ Los recursos competencia de las salas colegiadas y unitarias, el Presidente por 
 
 Representación. El Presidente suscribirá, con la representación del Tribunal Superior de Justicia, las iniciativas de ley, convenios o acuerdos de colaboración con otros poderes, organismos públicos o entidades privadas, que hubieren sido aprobados por el Pleno previamente, cuando aquéllos incidan en el ámbito de competencia del Tribunal Superior de Justicia.
 
-## TÍTULO CUARTO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MAYO DE 2016)</small>
 
-De los órganos auxiliares del Pleno y de la Presidencia, y de la publicación de tesis.
+## TÍTULO CUARTO. De las áreas auxiliares del Pleno y de la Presidencia, y de la publicación de tesis
 
 ###### Artículo 33.
 
@@ -407,11 +413,9 @@ XIV. Llevar el archivo de la información pública de oficio, jurisdiccional y a
 
 XV. Las demás que determine la Presidencia o el Pleno del Tribunal Superior de Justicia del Estado.
 
-Artículo 35 bis. (DEROGADO, P.O. 27 DE FEBRERO DE 2013)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
-
-###### Artículo 36.
+###### Artículo 35 Bis.
 
 De la publicación de las tesis. Las tesis relevantes del Pleno o de cualquiera de las Salas del Tribunal Superior, podrán ser publicadas atendiendo al siguiente procedimiento:
 
@@ -423,6 +427,42 @@ III. Aprobado el proyecto de tesis, el Director de Transparencia lo incorporará
 
 Las tesis obligatorias, que son las sustentadas por el Pleno al resolver una contradicción de criterios, además de publicarse en el Boletín Judicial, también se publicarán por los mismos medios que las tesis relevantes. Para la redacción uniforme de estas tesis obligatorias, el ponente del proyecto de resolución que resuelve una contradicción de criterios, antes de presentar el proyecto al Pleno, podrá consultar la opinión de la Dirección de Transparencia.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
+###### Artículo 36.
+
+De la Unidad de Auxiliares de la Impartición de Justicia. Para garantizar el adecuado ejercicio de las facultades que le competen al Tribunal Superior de justicia respecto de los auxiliares de la impartición de justicia, el Pleno y la Presidencia contarán con el apoyo de la Unidad de Auxiliares de la Impartición de Justicia, la cual tendrá las siguientes atribuciones:
+
+I. Auxiliar y colaborar con el Pleno del Tribunal Superior de Justicia en la elaboración de las listas a que se refieren los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado;
+
+II. Elaborar los proyectos de convocatoria anual, que habrán de someterse al Pleno para su aprobación;
+
+III. Coadyuvar en la evaluación de las solicitudes y documentación presentada por los aspirantes, solicitantes o candidatos de ingreso o reingreso a formar parte de la Unidad, así como de las listas a que se refieren los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado, a efecto de que el Pleno, la Presidencia o, en su caso, la comisión dictaminen quiénes reúnen o no los requisitos previstos en la ley y en las convocatorias para ser incluidos en el padrón respectivo;
+
+IV. Realizar revisiones aleatorias de los expedientes administrativos de los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, que formen parte de la Unidad, así como de aquellos que se encuentren incluidos en las listas a que se refieren los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado; dando aviso a la Presidencia del Tribunal Superior de Justicia en caso de advertir alguna presunta falta.
+
+V. Poner a disposición de las salas y juzgados las listas actualizadas de los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, que formen parte de la propia Unidad, así como de aquellos que se encuentren incluidos en las listas señaladas en los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado.
+
+VI. Vigilar que los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, que formen parte de la Unidad y los que se encuentren incluidos en las listas señaladas en los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado cumplan sus deberes cuando hayan sido designados por la autoridad judicial; dando aviso a la Presidencia del Tribunal Superior de Justicia de las faltas u omisiones que notare;
+
+VII. Proponer a las autoridades judiciales a las que legalmente corresponda realizar el nombramiento, los peritos respectivos, en el supuesto de que no existiera lista de peritos en el arte o ciencia de que se trate, o que los enlistados estuvieren impedidos para ejercer el cargo en ese caso concreto. En este sentido, la Unidad será el órgano del Tribunal Superior de Justicia encargado de dar observancia al artículo 78 de la Ley Orgánica del Poder Judicial del Estado, debiendo tramitar y resolver las solicitudes que se formulen en términos de ese numeral; y,
+
+VIII. Las demás que le imponga este Reglamento o le encomiende el Pleno o la Presidencia del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2016)</small>
+
+###### Artículo 36 Bis.
+
+Integración de la Unidad de Auxiliares de la Impartición de Justicia. La Unidad de Auxiliares de la Impartición de Justicia estará compuesta de un titular, de los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia, interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, y demás personal administrativo que decida el Pleno, según se estime necesario para el adecuado servicio público y exista suficiencia presupuestaria.
+
+Todos los integrantes de la Unidad de Auxiliares de la Impartición de Justicia, siempre que reúnan los requisitos legales para ejercer el cargo que corresponda, serán nombrados y removidos por el Presidente del Tribunal Superior de Justicia. Lo anterior, con independencia y sin perjuicio de las personas que se encuentren incluidas en las listas señaladas en los artículos 58 y 77 de Ley Orgánica del Poder Judicial del Estado.
+
+Los peritos, curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado, que formen parte de la Unidad de Auxiliares de la Impartición de Justicia, serán servidores públicos del Poder Judicial del Estado. Por tal motivo, sólo podrán desempeñar su cargo dentro del algún procedimiento judicial cuando sean designados por las autoridades judiciales y no recibirán remuneración adicional por su participación en cada caso.
+
+Salvo los peritos, todos los servidores públicos que formen parte de la Unidad de Auxiliares de la Impartición de Justicia podrán desempeñarse indistintamente como curadores, síndicos provisionales o auxiliares de la impartición de justicia e interventores de sucesiones a que se refiere el artículo 17 del Código de Procedimientos Civiles del Estado. Por lo que, la designación respectiva deberá recaer en personas que reúnan los requisitos legales para ejercer tales cargos.
+
+Los trabajadores sociales y psicólogos adscritos al Centro Estatal de Convivencia Familiar serán miembros honorarios de la Unidad de Auxiliares de la Impartición de Justicia y, con esa calidad, podrán desempeñar su cargo como peritos en las áreas de su especialidad dentro de los procedimientos judiciales, cuando sean designados por las autoridades judiciales a las que les corresponda realizar el nombramiento. Por tal labor, no recibirán remuneración adicional por su participación en cada asunto.
+
 ## TÍTULO QUINTO.
 
 De las Salas Colegiadas.
@@ -431,21 +471,19 @@ De las Salas Colegiadas.
 
 Integración y competencia de las Salas Colegiadas.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 37.
 
 Denominación e integración. Las salas se denominarán e integrarán de la siguiente manera:
 
-La Primera Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Primera, Tercera y Décima Quinta.
+La Primera Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Primera, Cuarta y Décima Quinta.
 
-La Segunda Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Quinta, Séptima y Octava.
+La Segunda Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Séptima, Octava y Novena.
 
-La Tercera Sala Colegiada Penal, se integrará por los titulares de las salas unitarias Segunda, Cuarta y Sexta.
+La Tercera Sala Colegiada Penal, se integrará por los titulares de las salas unitarias Segunda, Décimo Tercera y Décimo Cuarta.
 
 La Cuarta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Décima, Undécima y Duodécima.
-
-La Quinta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Novena, Décimo Tercera y Décimo Cuarta.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2015)</small>
 
@@ -457,13 +495,13 @@ I. Juicios ordinarios civiles; e,
 
 II. Informaciones de dominio.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 39.
 
 Competencia de las Salas Colegiadas Penales. Las Salas Colegiadas Penales conocerán de los recursos siguientes:
 
-a) De las apelaciones contra las sentencias definitivas derivadas de los delitos que a continuación se precisan:
+a) De las apelaciones contra las sentencias definitivas pronunciadas en los procesos regulados por el Código de Procedimientos Penales del Estado de Nuevo León del 28 de marzo de 1990 y sus reformas, siempre que se hayan tramitado por los delitos que a continuación se precisan:
 
 I. Delitos cometidos contra la seguridad interior del Estado y contra la seguridad pública, tipificados, sancionados y regulados en los artículos 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 161 Bis, 161 Bis 2, 162, 163, 164, 165, 165 Bis y 176 del Código Penal del Estado.
 
@@ -479,11 +517,13 @@ VI. Delitos contra la libertad, tipificados, sancionados y regulados en los art�
 
 VII. Delitos electorales tipificados, sancionados y regulados en los artículos 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425 y 426 del Código Penal del Estado.
 
-VIII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado,
+VIII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado.
 
-b) De los recursos de apelación contra sentencias definitivas dictadas en los procedimientos abreviados relativos a los delitos con prisión preventiva de oficio, previstos en el artículo 171 del Código Procesal Penal para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 5 de julio de 2011; y de los recursos de casación y revisión regulados en la referida codificación adjetiva.
+b) De los recursos de casación y revisión contra las sentencias definitivas pronunciadas por los jueces de juicio oral, en los procesos regulados por el Código Procesal Penal para el Estado de Nuevo León del 5 de julio de 2011 y sus reformas, siempre que se hayan tramitado por los delitos para los cuales está prevista la prisión preventiva de oficio.
 
-Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas y de las Salas Unitarias, será competente para conocer de ellos la Sala Colegiada.
+c) De los recursos de apelación, así como de los reconocimientos de inocencia y de la anulación de sentencia, promovidos contra las sentencias definitivas pronunciadas por los jueces de juicio oral, en los procesos regulados por el Código Nacional de Procedimientos Penales del 5 de marzo de 2014 y sus reformas, en vigor en el Estado de Nuevo León a partir del 1° de enero de 2016, siempre que se hayan tramitado por los delitos para los cuales está prevista la prisión preventiva de oficio.
+
+Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas Penales y de las Salas Unitarias Penales, serán competentes para conocer de ellos las Salas Colegiadas Penales.
 
 ###### Artículo 40.
 
@@ -543,15 +583,17 @@ Orden en las sesiones. Las personas que asisten a las sesiones de las salas cole
 
 El Presidente adoptará las medidas necesarias para que durante las sesiones, la presencia del público no altere el orden, y se garantice la seguridad del Pleno y la autonomía de sus deliberaciones. El Presidente, para mantener el orden, podrá disponer de la fuerza pública, imponer arresto o multa como corrección disciplinaria de acuerdo a la legislación procesal respectiva, e incluso podrá suspender la sesión del Pleno, hasta en tanto no se reestablezcan (sic) las condiciones para continuar su realización.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
 ###### Artículo 50.
 
-Acuerdos internos. Cada Sala Colegiada podrá tomar los acuerdos internos que estime necesarios para su mejor funcionamiento.
+Acuerdos internos. Cada Sala Colegiada podrá tomar los acuerdos internos que estime necesarios para su mejor funcionamiento. Para efectos del turno de asuntos relativo a la formulación de los proyectos de resolución, podrán acordar que los titulares de las Salas Unitarias que conforman la Sala Colegiada no figuren como ponentes, cuando éstos tengan una competencia por materia distinta actuando en forma unitaria.
 
 ## TÍTULO SEXTO.
 
 De las Salas Unitarias.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 51.
 
@@ -561,15 +603,13 @@ Las Salas Primera, Séptima, Octava, Novena y Décimo Quinta conocerán de los a
 
 Las Salas Tercera y Quinta conocerán de los asuntos en materia familiar.
 
-Las Salas Segunda, Cuarta, Sexta, Décima, Undécima, Duodécima, Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia penal, excepto los que sean competencia de las Salas Penales Colegiadas. Pero será competencia exclusiva de las Salas Décima Tercera y Décimo Cuarta, conocer de los asuntos derivados de los procedimientos orales penales a que se refiere el artículo 1 inciso c), del Código de Procedimientos Penales del Estado.
+Las Salas Segunda, Cuarta, Décima, Undécima, Duodécima, Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia penal, excepto los que sean competencia de las Salas Colegiadas Penales. Además de su competencia en materia penal, las salas unitarias Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia de adolescentes infractores, que en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, se prevén para los tribunales de segunda instancia.
 
-Además de su competencia en materia penal referida en el párrafo anterior, las Salas Décima Tercera y Décimo Cuarta, conocerán de los asuntos en materia de adolescentes infractores, que en la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, se prevén para los tribunales de segunda instancia.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 52.
 
-Denominación. Atendiendo a su competencia, las Salas Unitarias se denominarán de la siguiente manera: Primera Sala Civil, Segunda Sala Penal, Tercera Sala Familiar, Cuarta Sala Penal, Quinta Sala Familiar, Sexta Sala Penal, Séptima Sala Civil, Octava Sala Civil, Novena Sala Civil, Décima Sala Penal, Undécima Sala Penal, Duodécima Sala Penal, Décimo Tercera Sala Penal y de Justicia para Adolescentes, Décimo Cuarta Sala Penal y de Justicia para Adolescentes y Décimo Quinta Sala Civil.
+Denominación. Atendiendo a su competencia, las Salas Unitarias se denominarán de la siguiente manera: Primera Sala Civil, Segunda Sala Penal, Tercera Sala Familiar, Cuarta Sala Penal, Quinta Sala Familiar, Séptima Sala Civil, Octava Sala Civil, Novena Sala Civil, Décima Sala Penal, Undécima Sala Penal, Duodécima Sala Penal, Décimo Tercera Sala Penal y de Justicia para Adolescentes, Décimo Cuarta Sala Penal y de Justicia para Adolescentes y Décimo Quinta Sala Civil.
 
 ## TÍTULO SÉPTIMO.
 
@@ -587,11 +627,11 @@ Los Magistrados titulares de Sala Unitaria, así como los Presidentes de las Sal
 
 De la formación de la lista oficial de peritos.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 54.
 
-Fines de la lista oficial y atributos de los peritos. El Tribunal Superior de Justicia elaborará la lista oficial de peritos, procurando que ésta se integre por expertos que garanticen profesionalidad, objetividad e imparcialidad, así como efectiva disponibilidad para actuar como auxiliares en la impartición de justicia al prestar la función pública de peritaje.
+Fines de la lista oficial y atributos de los peritos. El Tribunal Superior de Justicia, con el apoyo de la Unidad de Auxiliares de la Impartición de Justicia, elaborará la lista oficial de peritos, procurando que ésta se integre por expertos que garanticen profesionalidad, objetividad e imparcialidad, así como efectiva disponibilidad para actuar como auxiliares en la impartición de justicia al prestar la función pública de peritaje.
 
 La profesionalidad del perito está determinada por la calidad y profundidad de sus conocimientos especializados en el área del saber humano en la cual es experto; y por sus conocimientos forenses necesarios para desempeñar adecuadamente su labor ante los órganos judiciales.
 
@@ -599,11 +639,11 @@ La objetividad e imparcialidad están determinadas por la capacidad del perito p
 
 La efectiva disponibilidad para actuar como auxiliar en la impartición de justicia, implica no rechazar o incumplir injustificadamente la función pública de peritaje, una vez que sea designado perito por un juzgador del Poder Judicial del Estado.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 55.
 
-Convocatoria. En el mes de octubre de cada año, el Pleno emitirá una convocatoria que incluirá, entre otras, las siguientes bases: el catálogo enunciativo de las distintas especialidades del conocimiento humano en la que se requieren peritos; los requisitos que deben cumplir y la documentación que deberán acompañar los solicitantes de ingreso o reingreso a la lista oficial de peritos; y el lugar y plazo para la recepción de solicitudes y documentos.
+Convocatoria. En el mes de octubre de cada año y con el auxilio de la Unidad de Auxiliares de la Impartición de Justicia, el Pleno emitirá una convocatoria que incluirá, entre otras, las siguientes bases: el catálogo enunciativo de las distintas especialidades del conocimiento humano en la que se requieren peritos; los requisitos que deben cumplir y la documentación que deberán acompañar los solicitantes de ingreso o reingreso a la lista oficial de peritos; y el lugar y plazo para la recepción de solicitudes y documentos.
 
 En la convocatoria podrán establecerse requisitos específicos para cada especialidad, entre otros: contar con la certificación que expidan las universidades o instituciones de educación superior, las entidades o asociaciones especializadas, o los colegios de profesionistas que se precisen en la convocatoria respectiva, y con los cuales el Tribunal Superior de Justicia haya suscrito convenio de colaboración para ese efecto; o, en su caso, acreditar un determinado número mínimo de horas en cursos de actualización.
 
@@ -673,27 +713,37 @@ Cuando se actualice algunos de los supuestos anteriores, el Presidente del Tribu
 
 El perito que cause baja administrativa podrá solicitar su alta, cumpliendo con los requisitos y trámites respectivos, que al efecto se fijen en la lista oficial que deberá ser aprobada en el mes de enero siguiente.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 59.
 
 Comisiones. El Pleno podrá encargar a una o varias comisiones, integradas con el número de magistrados que considere conveniente, las siguientes atribuciones:
 
-I. Elaborar el proyecto de convocatoria anual, que habrá de someterse al Pleno para su aprobación;
+I. Revisar los proyectos de convocatoria anual, elaborados por la Unidad de Auxiliares de la Impartición de Justicia, que habrán de someterse al Pleno para su aprobación;
 
-II. Evaluar las solicitudes y documentación presentada por los solicitantes de ingreso o reingreso a la lista oficial de peritos, así como el expediente previo que se tenga formado de ellos, para dictaminar quiénes reúnen o no los requisitos previstos en la ley y en la convocatoria para ser incluidos en la lista oficial de peritos;
+II. Evaluar las solicitudes y documentación presentada por los solicitantes o candidatos de ingreso o reingreso a las listas oficiales de peritos y síndicos, así como el expediente que se tenga formado de ellos, para dictaminar quiénes reúnen o no los requisitos previstos en la ley y en las convocatorias para ser incluidos en la listas oficiales;
 
-III. Realizar revisiones aleatorias de los expedientes administrativos de los peritos ya registrados, así como de los dictámenes que éstos rindan cuando hayan sido designados peritos por la autoridad judicial, y proceder como corresponda, en caso de advertir alguna falta.
+III. Encomendar a la Unidad de Auxiliares de la Impartición de Justicia revisiones aleatorias de los expedientes administrativos de los peritos y síndicos ya registrados, así como de las funciones que éstos realicen cuando hayan sido designados peritos por la autoridad judicial, y proceder como corresponda, en caso de advertir alguna presunta falta; y,
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+IV. Las demás que determine el Pleno del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 60.
 
 Convenios para certificación, cursos y registro. Se promoverán con las instituciones de educación superior y los colegios de profesionistas que correspondan, convenios de colaboración para la certificación de los peritos de determinadas especialidades.
 
-También se organizarán, para los peritos incluidos en la lista oficial, cursos de inducción relativos a los conocimientos jurídico-procesales, forenses y de ética profesional, que deben tener presentes durante el desempeño de su función.
+También se organizarán, con el apoyo de la Unidad de Auxiliares de la Impartición de Justicia, cursos de inducción para los aspirantes, solicitantes o candidatos de nuevo ingreso a formar parte de la lista oficial de peritos relativos a los conocimientos jurídico-procesales, forenses y de ética profesional, que deben tener presentes durante el desempeño de su función.
 
-La Secretaría General elaborará un registro estadístico consultable, sobre la actividad judicial de los peritos. Para esto, los juzgadores informarán a la Secretaría General de cada designación de perito que hagan; y cada perito deberá entregar anualmente a la Secretaría General, en el formato aprobado por ésta, dos informes sobre su actividad como perito en procesos judiciales, designado por alguna las partes o por el juez. El primer informe deberá entregarse durante la primera quincena de junio; y el segundo, durante la primera quincena de diciembre de cada año.
+La Unidad de Auxiliares de la Impartición de Justicia elaborará un registro estadístico consultable sobre la actividad judicial de los peritos y síndicos que formen parte de la propia Unidad, así como de aquellos que se encuentren incluidos en las listas a que se refieren los artículos 58 y 77 de la Ley Orgánica del Poder Judicial del Estado. Para esto, los juzgadores informarán a la Unidad de Auxiliares de la Impartición de Justicia de cada designación de perito y síndico que hagan.
+
+Cada perito y síndico deberá entregar anualmente a la Unidad de Auxiliares de la Impartición de Justicia, en el formato aprobado por ésta, dos informes sobre su actividad en los procesos judiciales, con independencia si fueron designados por alguna las partes o por el juez. El primer informe deberá entregarse durante la primera quincena de junio; y el segundo, durante la primera quincena de diciembre de cada año.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2016)</small>
+
+###### Artículo 60 Bis.
+
+Todo lo que no se encuentre previsto o regulado en este Título, será resuelto por el Pleno del Tribunal Superior de Justicia.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
@@ -799,137 +849,21 @@ PRIMERO: Las reformas al Reglamento Interior del Tribunal Superior de Justicia d
 
 SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+P.O. 25 DE MAYO DE 2016.
 
-Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2017, con excepción del ARTÍCULO DÉCIMO PRIMERO, así como la reforma al artículo 54, fracción XVII, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, los cuales iniciarán su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 3/2016, DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, POR EL QUE SE DETERMINA LA CREACIÓN DE LA UNIDAD DE AUXILIARES DE LA IMPARTICIÓN DE JUSTICIA; Y, ADEMÁS, SE REFORMAN LAS DISPOSICIONES RELATIVAS DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN PARA EFECTO DE REGULAR SU FORMA DE ORGANIZACIÓN Y FUNCIONAMIENTO”.]
 
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+PRIMERO: Las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, contenidas en este Acuerdo General, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Tercero. Las referencias que se hagan del salario mínimo, salario mínimo general de la zona o factor de cálculo en las normas locales vigentes, en tanto no se reformen para contemplar la Unidad de Medida y Actualización, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Medida y Actualización, a partir de la entrada en vigor de la presente Ley.
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
-Artículo Cuarto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2017, serán las siguientes:
+P.O. 25 DE MAYO DE 2016.
 
-I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 4/2016, DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, POR EL QUE SE DETERMINA LA CONCLUSIÓN DE FUNCIONES DE LA SEXTA SALA PENAL Y DE LA QUINTA SALA COLEGIADA PENAL; Y, ADEMÁS, SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
 
-a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente;
+PRIMERO: El presente Acuerdo General, incluyendo las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos; y
-
-c) La expedición de certificados de no propiedad;
-
-II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
-
-a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular;
-
-b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular; y
-
-c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
-
-Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
-
-III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
-
-a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
-
-b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
-
-c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
-
-IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
-
-a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial;
-
-b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos;
-
-c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos; y
-
-d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
-
-V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
-
-VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
-
-VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
-
-MES DE PAGO DESCUENTO
-
-Enero 10%
-
-Febrero 8%
-
-Marzo 5%
-
-VIII. Se cancelan los créditos fiscales en los registros de las autoridades fiscales por incosteabilidad en el cobro.
-
-Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2016, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
-
-No procederá la cancelación a que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
-
-La cancelación de los créditos a que se refiere este artículo no libera de su pago.
-
-Los registros de vehículos contenidos en el Padrón Vehicular Estatal, que no hayan sido actualizados a más tardar en el ejercicio fiscal 2012, serán considerados como inactivos por las autoridades fiscales. Estos registros podrán reactivarse cuando su propietario pretenda realizar alguna modificación a los mismos, cubriendo las obligaciones fiscales aplicables;
-
-IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del impuesto predial;
-
-X. Los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.50 UMA al derecho que en dicho precepto se señala.
-
-El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria, que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
-
-XI. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 135 de la Ley de Hacienda del Estado de Querétaro, tendrán las siguientes reducciones:
-
-REDUCCIÓN SUPUESTO
-
-30% En los paquetes familiares (por lo menos
-
-tres personas en las diferentes disciplinas,
-
-previa entrega de una copia del acta de
-
-nacimiento de cada familiar).
-
-Para adultos mayores.
-
-XII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa Apoyo Tenencia, podrán determinar el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, considerando una reducción del veinticinco por ciento respecto de las cuotas, tasas y tarifas establecidas en dicho ordenamiento para efectos de su cálculo;
-
-XIII. Por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.50 UMA a los derechos que se señalan en las fracciones referidas de dicho precepto.
-
-El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
-
-XIV. Por la prestación de los servicios previstos en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.85 UMA.
-
-Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-En todo caso, las cantidades que se recauden en los términos de esta fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía;
-
-XV. Las calcomanías de revalidación y la tarjeta de circulación a que hace referencia el segundo párrafo de la fracción I del artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015 y 2016, continuarán vigentes hasta el 31 de marzo de 2018.
-
-Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2017, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
-
-Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal;
-
-XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1º de enero del 2015;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-XIX. Los derechos por el refrendo anual de una concesión de servicio público de transporte en la modalidad de taxi, correspondiente al ejercicio fiscal 2017, previstos en el artículo 172 BIS, fracción I de la Ley de Hacienda del Estado de Querétaro, se causarán al 50% de su importe, siempre que el trámite de refrendo de dicha concesión, se lleve a cabo por los interesados, dentro del periodo del primero de septiembre al quince de diciembre del año dos mil diecisiete, cumpliendo con los requisitos que determine el Instituto Queretano del Transporte, y
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
-
-XX. Los derechos por la cesión de concesiones de servicio público de transporte colectivo en la zona metropolitana de Querétaro, así como los relativos a la expedición de los títulos de concesión que se emitan con motivo de dicha cesión, previstos en la fracción I del artículo 172 BIS de la Ley de Hacienda del Estado de Querétaro, se reducirán en un 100% para el ejercicio fiscal 2017, siempre que la cesión se realice a favor de una sociedad mercantil en la que participen como socios las personas titulares de las concesiones sujetas a dicha cesión, previa autorización que al efecto emita el Instituto Queretano del Transporte en términos de las disposiciones jurídicas aplicables.
-
-Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-P.O. 1 DE SEPTIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LAS FRACCIONES XVII Y XVIII, Y ADICIONA LAS FRACCIONES XIX Y XX AL ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO".]
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
 
