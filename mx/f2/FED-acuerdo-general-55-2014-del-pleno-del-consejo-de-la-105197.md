@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-55-2014-del-pleno-del-consejo-de-la-105197"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-28"
-last_updated: "2016-05-18"
+last_updated: "2016-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105197&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-20"
 
 ACUERDO GENERAL 55/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE EL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de enero de 2015.
 
@@ -96,6 +96,14 @@ XIV Secretaría Ejecutiva: Secretaría Ejecutiva de Carrera Judicial, Adscripci�
 ###### Artículo 3.
 
 El Instituto, podrá solicitar la colaboración o celebrar convenios de colaboración con instituciones públicas y privadas que coadyuven en la identificación de personas que puedan ser designados por los defensores públicos y asesores jurídicos del Instituto, para que actúen como peritos en las distintas ramas del conocimiento.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR 55/2014, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE EL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, PARA PREVER LA EXISTENCIA DE PERITOS INSTITUCIONALES, D.O.F. 25 DE MAYO DE 2016)</small>
+
+###### Artículo 3 Bis.
+
+El Instituto podrá contar con servidores públicos encargados de desarrollar funciones en materia pericial.
+
+Los peritos a que se refiere el párrafo anterior, se regirán por lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas; y demás disposiciones aplicables.
 
 ## TITULO SEGUNDO
 
@@ -574,3 +582,13 @@ Las disposiciones materia del presente Acuerdo anteriores a la entrada en vigor 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Las referencias que se hagan en otras disposiciones del Consejo de la Judicatura Federal al concepto de “equidad de género” se entenderán hechas a “igualdad de género”, sin perjuicio de lo dispuesto en el transitorio PRIMERO de este Acuerdo General.
+
+D.O.F. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR 55/2014, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE EL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, PARA PREVER LA EXISTENCIA DE PERITOS INSTITUCIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El Instituto Federal de Defensoría Pública y la Secretaría Ejecutiva de Administración deberán llevar a cabo las acciones necesarias para la implementación administrativa del presente Acuerdo.
