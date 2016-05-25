@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1142
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2016-04-27"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MAYO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de abril de 2016.
 
@@ -883,7 +883,9 @@ XXIX. Las estadísticas que generen en cumplimiento de sus facultades, competenc
 
 XXX. Padrón de proveedores y contratistas;
 
-XXXI. Convenios que el gobierno realice con la Federación, con otros Estados y con los Municipios, siempre que no versaren sobre seguridad nacional o seguridad pública. Convenios que las entidades celebren con Organizaciones No Gubernamentales, Sindicatos, Partidos Políticos, Asociaciones Políticas, Instituciones de enseñanza privada, fundaciones e Instituciones públicas del estado de Morelos, de otro Estado, de la Federación o de otro país. Cuando se trate de convenios que impliquen transferencias financieras con cargo al presupuesto público, en el convenio se establecerá el fundamento jurídico, los responsables de su recepción y ejecución, el programa y los tiempos de aplicación y se exigirá un informe de ejecución de los fondos, que también deberá hacerse público;
+> <small>(F. DE E., P.O. 25 DE MAYO DE 2016)</small>
+
+XXXI. Convenios que el gobierno realice con la Federación, con otros Estados y con los Municipios, siempre que no versaren sobre seguridad pública. Convenios que las entidades celebren con Organizaciones No Gubernamentales, Sindicatos, Partidos Políticos, Asociaciones Políticas, Instituciones de enseñanza privada, fundaciones e Instituciones públicas del estado de Morelos, de otro Estado, de la Federación o de otro país. Cuando se trate de convenios que impliquen transferencias financieras con cargo al presupuesto público, en el convenio se establecerá el fundamento jurídico, los responsables de su recepción y ejecución, el programa y los tiempos de aplicación y se exigirá un informe de ejecución de los fondos, que también deberá hacerse público;
 
 XXXII. El inventario de bienes muebles e inmuebles en posesión y propiedad;
 
@@ -1503,7 +1505,9 @@ II. Por ley tenga el carácter de pública;
 
 III. Exista una orden judicial;
 
-IV. Por razones de seguridad nacional y salubridad general, o para proteger los derechos de terceros, se requiera su publicación, o
+> <small>(F. DE E., P.O. 25 DE MAYO DE 2016)</small>
+
+IV. Por razones de seguridad pública y salubridad general, o para proteger los derechos de terceros, se requiera su publicación, o
 
 V. Cuando se transmita entre Sujetos Obligados, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
 
