@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-del-77691"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-20"
-last_updated: "2014-12-18"
+last_updated: "2016-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77691&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-12-16"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE MAYO DE 2016.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2010.
 
@@ -2058,6 +2058,10 @@ Para efectos administrativos y orgánicos, los órganos señalados en este artí
 
 La Contraloría General es el órgano de control interno que tiene a su cargo fiscalizar el manejo, custodia y empleo de los recursos del Instituto Electoral, e instruir los procedimientos administrativos y, en su caso, determinar las sanciones establecidas en la Ley Federal de Responsabilidades.
 
+> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2016)</small>
+
+Para el logro de sus objetivos, la estructura orgánica mínima de la Contraloría General, se integrará por cuatro subcontralorías una por cada área especializada y que sea necesaria para el desarrollo de sus funciones sin perjuicio de las que se señalen en el Reglamento Interior del Tribunal Electoral del Distrito Federal.
+
 > <small>(REFORMADO, G.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 85.
@@ -2090,9 +2094,9 @@ II. Aplicar el Programa Interno de Auditoría, en los términos aprobados por el
 
 III. Formular observaciones y recomendaciones, de carácter preventivo y correctivo a las áreas del Instituto Electoral que sean auditadas. En su caso, iniciar los procedimientos de responsabilidad administrativa a que haya lugar;
 
-IV. Dar seguimiento a la atención, trámite y solventación de las observaciones, recomendaciones y demás promociones de acciones que deriven de las auditorias internas y de las que formule la Contaduría Mayor de Hacienda de la Asamblea
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2016)</small>
 
-Legislativa;
+IV. Dar seguimiento a la atención, trámite y solventación de las observaciones, recomendaciones y demás promociones de acciones que deriven de las auditorías internas y de las que formule la Auditoría Superior de la Ciudad de México;
 
 V. Proponer al Consejo General, promueva ante las instancias competentes, las acciones administrativas y legales que deriven de las irregularidades detectadas en las auditorias;
 
@@ -2148,15 +2152,11 @@ Durante los procesos electorales y de participación ciudadana, el Contralor Gen
 
 En los casos en que el Instituto Nacional delegue al Instituto Electoral la atribución de fiscalización, éste la ejercerá a través de la Comisión de Fiscalización quien se auxiliará de la Unidad Técnica Especializada de Fiscalización, que es el órgano técnico del Instituto Electoral que tiene a su cargo supervisar que los recursos del financiamiento público y privado que ejerzan las Asociaciones Políticas y Candidatos Independientes, se aplique conforme a lo dispuesto en la Constitución Política, este Código y demás normatividad aplicable.
 
-> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN LA G.O. DE 25 DE MAYO DE 2016, SE ADVIERTE QUE EL ANTERIOR TERCER PÁRRAFO PASÓ A FORMAR PARTE DEL ACTUAL SEGUNDO PÁRRAFO.]</small>
 
-El titular de la Unidad Técnica Especializada de Fiscalización será designado por el Pleno de la Asamblea Legislativa con el voto de las dos terceras partes de sus integrantes presentes, de entre una terna de propuestas que le envíe el Contador Mayor de Hacienda de la Asamblea Legislativa.
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2016)</small>
 
-El titular de la Unidad Técnica Especializada de Fiscalización durará en su encargo seis años sin posibilidad de reelección. Su remuneración será igual a la que reciba el Secretario Ejecutivo del Instituto.
-
-> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2014)</small>
-
-Su remuneración será igual a la que reciba el Secretario Ejecutivo del Instituto Electoral.
+El titular de la Unidad Técnica Especializada de Fiscalización será designado por el Pleno de la Asamblea Legislativa con el voto de las dos terceras partes de sus integrantes presentes, de entre una terna de propuestas que le envíe el Auditor Superior de la Auditoría Superior de la Ciudad de México. El titular de la Unidad Técnica Especializada de Fiscalización durará en su encargo seis años sin posibilidad de reelección. Su remuneración será igual a la que reciba el Secretario Ejecutivo del Instituto Electoral.
 
 > <small>(REFORMADO, G.O. 30 DE JUNIO DE 2014)</small>
 
@@ -2936,7 +2936,9 @@ II. Órganos ejecutivos: La Secretaría General y la Secretaría Administrativa;
 
 III. Ponencias;
 
-IV. Órganos auxiliares: Coordinaciones y el Centro de Capacitación;
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2016)</small>
+
+IV. Órganos auxiliares: Coordinaciones y el Instituto de Formación y Capacitación;
 
 V. La Contraloría General; y
 
@@ -3338,13 +3340,23 @@ III. Tener cuando menos treinta años de edad al día de la designación;
 
 IV. Manifestar bajo protesta de decir verdad estar en pleno ejercicio de sus derechos políticos y civiles;
 
-V. Poseer título y cédula profesional de Abogado o Licenciado en Derecho, expedido con anterioridad de al menos cinco años a la fecha del nombramiento;
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2016)</small>
 
-VI. Contar con conocimientos teóricos y experiencia práctica comprobada de cuando menos cinco años, en materia jurisdiccional y electoral, preferentemente en órganos electorales;
+V. Poseer título y cédula profesional de Abogado o Licenciado en Derecho, expedido con anterioridad de al menos dos años a la fecha del nombramiento;
+
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2016)</small>
+
+VI. Contar con conocimientos teóricos y experiencia práctica comprobada de cuando menos de dos años, en materia jurisdiccional y electoral, preferentemente en órganos electorales;
 
 VII. Exhibir constancia de no inhabilitación expedida por la Contraloría General del Distrito Federal; y
 
-VIII. Acreditar, mediante constancia oficial, haber residido en el Distrito Federal al menos cinco años anteriores a la designación.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 25 DE MAYO DE 2016)</small>
+
+VIII. No desempeñar o haber desempeñado cargo de dirección nacional o estatal en algún partido político al menos seis meses antes de la designación;
+
+> <small>(ADICIONADA, G.O. 25 DE MAYO DE 2016)</small>
+
+IX. No haber sido Secretario de Estado o Fiscal General de la República o Procurador de Justicia de alguna entidad federativa, subsecretario u Oficial Mayor en la Administración Pública Federal o Estatal, Jefe de Gobierno del Distrito Federal, Gobernador, Secretario de Gobierno, a menos que se separe de su encargo con seis meses de anticipación al día de su nombramiento.
 
 Los impedimentos para ocupar el cargo de titular de la Secretaría General son los mismos que prevé este Código para el cargo de Consejero Electoral.
 
@@ -3462,11 +3474,15 @@ VIII. Las demás que le sean conferidas en el Reglamento Interior del Tribunal E
 
 Las ponencias son unidades a cargo de cada uno de los Magistrados Electorales, al que se adscribe el personal jurídico y administrativo acordado por el Pleno, para que le auxilien en el cumplimiento de sus atribuciones.
 
-Para el adecuado cumplimiento de las tareas jurisdiccionales asignadas a los Magistrados Electorales, las Ponencias cuentan, entre otros servidores públicos, con Secretarios de Estudio y Cuenta y Secretarios Auxiliares, en el número que determine el Pleno.
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2016)</small>
+
+Para el adecuado cumplimiento de las tareas jurisdiccionales asignadas a los Magistrados Electorales, las Ponencias contarán, entre otros servidores públicos, con Secretarios de Estudio y cuenta y Secretarios Auxiliares en el número y con la organización que se determine en el Reglamento Interior del Tribunal Electoral del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 175.
 
-Los requisitos para ser designado Secretario de Estudio y Cuenta, así como los impedimentos para ocupar ese cargo son, en lo conducente, los previstos para el titular de la Secretaría General, con la salvedad de que no se requiere edad mínima y la antigüedad en la expedición del título y cédula profesional, así como la experiencia en órganos electorales será de dos años.
+Los requisitos así como los impedimentos para ser designado Secretario de Estudio y Cuenta se establecerán en el Reglamento Interior del Tribunal Electoral del Distrito Federal.
 
 ###### Artículo 176.
 
@@ -3494,9 +3510,11 @@ X. Desahogar las audiencias y demás diligencias que sean necesarias para la deb
 
 XI. Las demás que le confiere este Código, la Ley Procesal, y el Reglamento Interior del Tribunal o que determine el Pleno.
 
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2016)</small>
+
 ###### Artículo 177.
 
-Los Secretarios Auxiliares deberán reunir los requisitos previstos para ser designado Secretario General, con la salvedad de que la antigüedad en la expedición del título y cédula profesional, así como la experiencia en órganos electorales es de un año.
+Los requisitos así como los impedimentos para ser designado Secretario Auxiliar se establecerán en el Reglamento Interior del Tribunal Electoral del Distrito Federal.
 
 ###### Artículo 178.
 
@@ -3522,9 +3540,25 @@ También podrán desahogarse diligencias con el apoyo de los juzgados federales 
 
 #### SECCIÓN PRIMERA. COORDINACIONES
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 25 DE MAYO DE 2016, PÁGINA 6.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016)</small>
+
 ###### Artículo 180.
 
-El Tribunal Electoral cuenta con Coordinaciones que tienen a su cargo las tareas de Archivo, Difusión, Transparencia y Comunicación Social.
+El Tribunal Electoral cuenta con Coordinaciones que tienen a su cargo las tareas de:
+
+I. ... (sic)
+
+II. Difusión y Publicación.
+
+III. ... (sic)
+
+IV. ... (sic)
+
+V. Vinculación.
+
+VI. Género y Derechos Humanos.
 
 Al frente de cada una de las Coordinaciones del Tribunal, habrá un Coordinador nombrado por el Pleno. Para ser Coordinador deberán cumplirse los requisitos que se señalen en el Reglamento Interior del Tribunal Electoral.
 
@@ -3534,21 +3568,27 @@ Corresponde al Magistrado Presidente supervisar las actividades de las Coordinac
 
 Las funciones de las Coordinaciones estarán determinadas en el Reglamento Interior del Tribunal Electoral.
 
-#### SECCIÓN SEGUNDA. CENTRO DE CAPACITACIÓN DEL TRIBUNAL ELECTORAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. INSTITUTO DE FORMACIÓN Y CAPACITACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE MAYO DE 2016)</small>
 
 ###### Artículo 182.
 
-El Centro de Capacitación tiene a su cargo la planeación, organización y ejecución de todo tipo de actividades académicas y de investigación sobre derecho electoral, sobre su rama procesal, disciplinas afines y cualquier otra que resulte necesaria para el buen funcionamiento del Tribunal.
+El Instituto de Formación y Capacitación tiene a su cargo la planeación, organización y ejecución de todo tipo de actividades académicas y de investigación sobre derecho electoral, sobre su rama procesal, disciplinas afines y cualquier otra que resulte necesaria para el buen funcionamiento del Tribunal.
 
 Las actividades del Centro de Capacitación tienen por objeto desarrollar la formación profesional del personal del Tribunal, así como contribuir a la creación de la cultura de la democracia y legalidad para los ciudadanos del Distrito Federal,
 
 En el presupuesto anual del Tribunal se deberán prever las asignaciones correspondientes para tales efectos.
 
+> <small>(REFORMADO, G.O. 25 DE MAYO DE 2016)</small>
+
 ###### Artículo 183.
 
-Para el correcto ejercicio de sus atribuciones, el Centro de Capacitación debe contar con un cuerpo de profesores e investigadores, así como áreas especializadas en los campos de pedagogía, educación virtual, capacitación e investigación, carrera judicial y gestión administrativa, estas áreas se integrarán en los términos que establezca el Pleno.
+Para el correcto ejercicio de sus atribuciones, el Instituto de Formación y Capacitación debe contar con un cuerpo de profesores e investigadores, así como áreas especializadas en los campos de pedagogía, educación virtual, capacitación e investigación, carrera judicial y gestión administrativa, estas áreas se integrarán en los términos que establezca el Pleno.
 
-Los Magistrados, Secretarios de Estudio y Cuenta, Coordinadores y demás personal jurídico o administrativo, según corresponda, podrán participar en las actividades del Centro de Capacitación, sin demérito de sus funciones.
+Los Magistrados, Secretarios de Estudio y Cuenta, Coordinadores y demás personal jurídico o administrativo, según corresponda, podrán participar en las actividades del Instituto de Formación y Capacitación, sin demérito de sus funciones.
 
 ### CAPÍTULO V. CONTRALORÍA GENERAL DEL TRIBUNAL ELECTORAL
 
@@ -3582,7 +3622,9 @@ II. Aplicar el Programa Interno de Auditoría, en los términos aprobados por el
 
 III. Formular observaciones y recomendaciones, de carácter preventivo y correctivo a las áreas del Tribunal Electoral que sean auditadas. En su caso, iniciar los procedimientos de responsabilidad administrativa a que haya lugar;
 
-IV. Dar seguimiento a la atención, trámite y solventación de las observaciones, recomendaciones y demás promociones de acciones que deriven de las auditorias internas y de las que formule la Contaduría Mayor de Hacienda de la Asamblea Legislativa;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 25 DE MAYO DE 2016)</small>
+
+IV. Dar seguimiento a la atención, trámite y solventación de las observaciones, recomendaciones y demás promociones de acciones que deriven de las auditorías internas y de las que formule (sic) Auditoría Superior de la Ciudad de México;
 
 V. Proponer al Pleno, promueva ante las instancias competentes, las acciones administrativas y legales que deriven de las irregularidades detectadas en las auditorias;
 
@@ -5509,6 +5551,10 @@ La etapa de preparación, para la realización de los mecanismos de participaci�
 > <small>(REFORMADO, G.O. 30 DE JUNIO DE 2014)</small>
 
 El plazo para la organización y realización de los mecanismos de participación ciudadana, será de 75 días, contados a partir de la publicación de la convocatoria respectiva.
+
+> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2016)</small>
+
+El plazo para la organización y celebración de los mecanismos de participación ciudadana relativos a la jornada electiva de los Comités Ciudadanos y Consejos de los Pueblos y la Consulta Ciudadana de Presupuesto Participativo, se llevarán a cabo entre la primera semana de abril y el primer domingo de septiembre de los años que corresponda, en términos de lo dispuesto en los artículos 84 y 107 de la Ley de Participación.
 
 > <small>(REFORMADO, G.O. 30 DE JUNIO DE 2014)</small>
 
@@ -7525,3 +7571,25 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango que se opongan al presente Decreto.
+
+CUARTO.- La Asamblea Legislativa del Distrito Federal realizara las acciones presupuestarias a fin (sic) otorgar los recursos económicos suficientes al Tribunal Electoral para la debida sustanciación de los medios de impugnación.
+
+QUINTO.- Para efecto de lo señalado en el artículo 84 párrafo primero y tercero del presente Decreto, en el que se señala que el Instituto Electoral del Distrito Federal convocará en la primer semana de abril de cada año a la consulta ciudadana sobre Presupuesto Participativo y en los años en que esta consulta coincida con la elección de Comités Ciudadanos y Consejos de los Pueblos, emitirá también en la primer semana de abril la convocatoria respectiva, por única ocasión el Instituto Electoral del Distrito Federal deberá emitir convocatoria inmediatamente después de que el presente decreto sea publicado en la Gaceta Oficial del Distrito Federal.
