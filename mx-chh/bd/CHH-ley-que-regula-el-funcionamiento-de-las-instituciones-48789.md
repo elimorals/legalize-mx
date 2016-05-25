@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-el-funcionamiento-de-las-instituciones-48789"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-04"
-last_updated: "2013-05-25"
+last_updated: "2016-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS P
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
 
 Ley publicada en el periódico oficial del Estado de Chihuahua, el sábado 4 de febrero de 2006.
 
@@ -161,17 +161,19 @@ Las instituciones que acepten niños mayores a tres años, velarán por el derec
 
 Las instituciones que carezcan de los servicios educativos a que hace referencia el párrafo anterior, deberán implementar mecanismos para garantizar tal derecho, observando las medidas de seguridad que dicha actividad requiera.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Artículo 7 BIS.- Las Instituciones Prestadoras de Servicios para el Cuidado Infantil y de Menores en el Estado de Chihuahua, estarán obligadas a recibir en igualdad de condiciones a las niñas y niños con discapacidad no dependientes.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+
+Artículo 7 BIS. Las Instituciones Prestadoras de Servicios para el Cuidado Infantil y de Menores en el Estado de Chihuahua, estarán obligadas a recibir, en igualdad de condiciones, a niñas y niños con discapacidad, cuando el servicio otorgado derive de un derecho laboral a cargo del Gobierno Estatal o de los municipios con sus trabajadores.
+
+Los menores deberán contar, al momento de su ingreso, con documento expedido por médico especialista, de acuerdo al tipo y grado de discapacidad, en el que se acredite tal circunstancia y el tipo de cuidados que requiera la persona de que se trate.
 
 Su ingreso quedará sujeto a la disponibilidad de lugares con que cuenta cada institución, con respecto a la admisión general.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Artículo 7 TER.- Se entenderá por niñas o niños con discapacidad no dependientes, a los que padezcan algún tipo de discapacidad pero que no dependan del cuidado o atención especializados distintos a los previstos en la Ley.
-
-Para efecto de lo anterior, deberán contar, al momento de su ingreso, con un documento expedido por médico especialista, de acuerdo al tipo y grado de discapacidad, en el que se acredite tal circunstancia.
+Artículo 7 TER.- (DEROGADO, P.O. 25 DE MAYO DE 2016)
 
 ###### Artículo 8.
 
@@ -580,3 +582,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones prestadoras de servicios de cuidado infantil y de menores que a la entrada en vigor del presente Decreto se encuentren en funcionamiento, contarán con un plazo de un año para regularizar su situación y obtener la documentación que corresponda conforme a las nuevas disposiciones.
+
+P.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1356/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7 BIS Y SE DEROGA EL ARTÍCULO 7 TER, AMBOS DE LA LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS PARA EL CUIDADO INFANTIL Y DE MENORES EN EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del primero de enero del año 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias y entidades de la administración pública estatal y municipal, así como sus organismos de seguridad social que presten servicios para la atención, cuidado y desarrollo integral infantil con motivo de los derechos laborales colectivos o individuales, en beneficio de hijas e hijos de sus trabajadores, en materia de guarderías, deberán tomar las medidas pertinentes para garantizar la correcta aplicación de la norma en cuestión.
