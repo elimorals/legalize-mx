@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-448
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-07"
-last_updated: "2016-01-19"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de mayo de 2005.
 
 Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, en ejercicio de las facultades que me confieren los articulas 72, 80 fracciones l, III y 83 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y 2, 11, 12 y Sexto Transitorio de la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí; y,
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En razón de lo anterior he tenido a bien emitir el siguiente:
 
@@ -769,9 +771,21 @@ XIX. Coordinarse en materia de su competencia con las autoridades fiscales de ot
 
 XX. Gestionar ante los órganos federales y estatales, así como particulares, la capacitación del personal adscrito a la Dirección; y
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2016)</small>
 
-XXI. Los demás que les señalen las leyes, decretos, acuerdos, reglamentos y manuales vigentes en la Secretaria.
+XXI. Verificar, a través de visitas de inspección, la adhesión en los envases o recipientes de bebidas alcohólicas del marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos, en caso de no haberlo hecho, proceder dentro de la visita domiciliaria a realizar la destrucción de los envases referidos e imponer las multas correspondientes por el resultado de la acción fiscalizadora, de conformidad con el procedimiento previsto en el artículo 49 del Código Fiscal de la Federación y la normatividad emitida por la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2016)</small>
+
+XXII. Verificar, a través de visitas de inspección, la expedición de comprobantes fiscales digitales por Internet y la presentación de solicitudes o avisos en materia del Registro Federal de Contribuyentes; en caso de no haberlo hecho, proceder a imponer las multas correspondientes por el resultado de la acción fiscalizadora, de conformidad con el procedimiento previsto en el artículo 49 del Código Fiscal de la Federación y la normatividad emitida por la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2016)</small>
+
+XXIII. Ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por internet de sus actividades o que los expedidos no reúnan los requisitos señalados en el Código Fiscal de la Federación y demás disposiciones jurídicas aplicables, o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios y cuando el contribuyente no cuente con controles volumétricos, en términos de los convenios de colaboración administrativa en materia fiscal que suscriba el Estado con la Federación, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2016)</small>
+
+XXIV. Los demás que les señalen las leyes, decretos, acuerdos, reglamentos y manuales vigentes en la Secretaría.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2011)</small>
 
@@ -1243,7 +1257,7 @@ C.P.C. JOEL AZUARA ROBLES
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 16 DE JULIO DE 2011.
 
@@ -1256,3 +1270,9 @@ P.O. 19 DE ENERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO ADMINISTRATIVO QUE ADICIONA DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS”.]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL REGLAMENTO INTERIOR”.]
+
+Artículo Único: El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
