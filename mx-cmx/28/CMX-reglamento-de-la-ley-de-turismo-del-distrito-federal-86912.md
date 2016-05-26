@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-turismo-del-distrito-federal-86912"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-29"
-last_updated: "2012-03-29"
+last_updated: "2016-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86912&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-03-26"
 
 REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de marzo de 2012.
 
@@ -690,6 +690,30 @@ El Fondo Mixto de promoción Turística contará con una Oficina de Congresos y 
 
 El Director de la Oficina de Congresos y Convenciones, será designado a propuesta del Presidente del Comité Técnico del Fondo Mixto de Promoción Turística y ratificado por dicho Comité.
 
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2016)</small>
+
+###### Artículo 60 Bis.
+
+Corresponde al Fondo Mixto de Promoción Turística promover la imagen de la Ciudad de México, en campañas de publicidad y promoción local, nacional e internacional, utilizando, comercializando y/o explotando uno o el conjunto de signos distintivos que contengan la marca Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2016)</small>
+
+###### Artículo 60 Ter.
+
+Para promover y fomentar la imagen de la Ciudad de México, el Fondo Mixto de Promoción Turística tendrá a su cargo el uso, explotación y comercialización de los elementos distintivos de la marca Ciudad de México, en los términos y condiciones de la licencia, que en su caso, le otorgue el Gobierno de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2016)</small>
+
+###### Artículo 60 Quáter.
+
+El convenio por el que se otorga la licencia de uso de la marca Ciudad de México, establecerá la posibilidad de que el Fondo Mixto de Promoción Turística conceda a cualquier persona física o moral los permisos necesarios para utilizar la marca Ciudad de México, previa solicitud de los interesados, que deberán observar el procedimiento y requisitos que se establezcan en los Lineamientos para el uso, comercialización y explotación de la marca Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 26 DE MAYO DE 2016)</small>
+
+###### Artículo 60 Quinquies.
+
+Los recursos que se obtengan por la utilización, comercialización y/o explotación de la marca de la Ciudad de México, formarán parte del patrimonio del Fondo Mixto de Promoción Turística.
+
 ### Capítulo XII. De la Educación y Capacitación Turística
 
 ###### Artículo 61.
@@ -839,3 +863,17 @@ Los Consejeros se designarán por lo menos con treinta días de anticipación a 
 QUINTO. Se abroga el Reglamento de Turismo para el Distrito Federal publicado el 10 de noviembre de 2006, en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de marzo de dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, EN AUSENCIA DEL SECRETARIO DE DESARROLLO ECONÓMICO, CON FUNDAMENTO EN LOS ARTÍCULOS 17 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y 24, FRACCIÓN I DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL FIRMA: EL SUBSECRETARIO DE FOMENTO DE EMPRESAS ECOLÓGICAS, ALFREDO MIGUEL MORAN MOGUEL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 26 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- El Fondo Mixto de Promoción Turística del Distrito Federal, deberá publicar los Lineamientos para la Utilización, Comercialización y Explotación de la Marca Ciudad de México dentro de los cuarenta días hábiles siguientes a la fecha de entrada en vigor del presente Decreto.
+
+CUARTO.- El Fondo Mixto de Promoción Turística del Distrito Federal, deberá realizar las acciones necesarias para formalizar las adecuaciones necesarias a su Contrato Constitutivo y sus Reglas de Operación dentro de los sesenta días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto.
