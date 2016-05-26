@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-planeacion-del-estado-y-municipios-2558
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-11"
-last_updated: "2002-07-11"
+last_updated: "2016-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-REGLAMENTO DE LA LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+REGLAMENTO DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2016.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el jueves 11 de julio de 2002.
 
@@ -123,9 +123,15 @@ En la sesión de integración formal del Consejo de Desarrollo Microregional, es
 
 La SEDESORE hará llegar a los Consejos que corresponda sus observaciones de orden técnico relacionadas con la congruencia de los programas con el Plan Estatal de Desarrollo y con los lineamientos definidos, en un término no mayor de treinta días hábiles contados a partir de la fecha de recepción, para que una vez incorporadas al o los programas regionales y micro regionales, éstos sean aprobados por los Consejos correspondientes.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 13.
 
-El Plan Estatal de Desarrollo y sus Programas de Mediano Plazo deberán ser actualizados al concluir tercer año de la administración, a partir del análisis de los avances logrados, de la actualización de diagnósticos y de las nuevas prioridades.
+El Plan Estatal de Desarrollo y sus Programas de Mediano Plazo podrán ser actualizados en cualquier tiempo de la administración, a partir del análisis de los avances logrados, de la actualización de diagnósticos y de las nuevas prioridades.
+
+Cuando los supuestos de la última parte del párrafo anterior sea en materia de pueblos y comunidades indígenas se estará en lo conducente a lo dispuesto por la Ley de Consulta Indígena para el Estado y Municipios de San Luis Potosí.
+
+Para estar en posibilidad de actualizar el Plan Estatal de Desarrollo, el Comité de Planeación del Desarrollo del Estado deberá solicitar al Gobernador del Estado la revisión respectiva, debiendo justificar debidamente el análisis de los avances logrados, de la actualización de diagnósticos y de las nuevas prioridades, estableciendo con toda claridad el alcance de las modificaciones requeridas. Una vez hecha la solicitud, el Titular del Ejecutivo, dispondrá de plazo de tres días para aprobar la propuesta de modificación y realizada ésta, será sancionada y se ordenará su publicación en (sic) Periódico Oficial del Gobierno del Estado.
 
 ### CAPÍTULO III. Del Proceso de Programación-Presupuestación
 
@@ -378,3 +384,11 @@ SECRETARIO DE PLANEACION DEL DESARROLLO
 DR. CARLOS F. GARROCHO RANGEL
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO ADMINISTRATIVO QUE REFORMA EL ARTÍCULO 13 DEL REGLAMENTO DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+ÚNICO.- El presente decreto administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
