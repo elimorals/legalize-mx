@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2016-04-30"
+last_updated: "2016-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE MAYO DE 2016.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -305,9 +305,9 @@ El Estado contará con un organismo autónomo, especializado, imparcial y colegi
 
 El organismo autónomo previsto en el párrafo anterior, se regirá por la ley en materia de transparencia y acceso a la información pública que emita el Congreso del Estado, en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Transparencia y Acceso a la Información Pública, así como de las bases, principios generales y procedimientos del ejercicio de este derecho. En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, profesionalismo, transparencia y máxima publicidad. Para dar cumplimiento a la transparencia, el organismo garante y los sujetos obligados deberán contar con un área de informática, misma que estará determinada en la Ley.
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
 
-El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, Autoridad Municipal, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, a excepción de los asuntos jurisdiccionales y administrativos no concluidos. También podrá interponer las acciones de inconstitucionalidad en contra de disposiciones legales en materia de transparencia acceso a la información pública y protección de datos personales.
+El Organismo Garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, Autoridad Municipal, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba o ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal. También podrá interponer las acciones de inconstitucionalidad en contra de disposiciones legales en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 > <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
 
@@ -365,17 +365,27 @@ I. Ser ciudadano mexicano y residente en el Estado, por lo menos cinco años ant
 
 II. Tener cuando menos treinta años cumplidos el día de la designación;
 
-III. Poseer el día de la designación, título profesional en el área de las ciencias sociales y humanidades, expedido por autoridad o institución legalmente facultada para ello y tres años de experiencia en el ejercicio profesional;
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
+
+III. Poseer el día de la designación, título profesional expedido por autoridad o institución legalmente facultad (sic) para ello y tres años de experiencia en el ejercicio profesional;
 
 IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-VI (SIC). No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
 
-VII. No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
+V. No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
 
-VIII. No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador de la Procuraduría General de Justicia, Contralor, Auditor Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
 
-IX. No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
+VI. No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
+
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
+
+VII. No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador de la Procuraduría General de Justicia, Contralor, Auditor Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
+
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
+
+VIII. No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
 
 > <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
 
@@ -3616,3 +3626,9 @@ B.O. 30 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2346 SE ADICIONAN UN PÁRRAFO TERCERO A LA FRACCIÓN XLVI DEL ARTÍCULO 64 Y UNA FRACCIÓN IX AL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 26 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2351 SE REFORMA Y ADICIONA EL NUMERAL 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, APARTADO B, FRACCIÓN VIII, PÁRRAFO CUARTO Y PÁRRAFO DÉCIMO SÉPTIMO EN SU FRACCIÓN III, RECORRIÉNDOSE LAS SUBSECUENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
