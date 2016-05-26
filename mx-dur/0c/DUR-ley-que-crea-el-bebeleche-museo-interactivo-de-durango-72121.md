@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-bebeleche-museo-interactivo-de-durango-72121"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2011-05-22"
+last_updated: "2016-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL "BEBELECHE, MUSEO INTERACTIVO DE DURANGO"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -61,9 +61,13 @@ Son funciones esenciales del Museo, las siguientes:
 
 I. Promover y realizar exposiciones permanentes y temporales, orientadas al aprendizaje interactivo que tengan como objetivo central fomentar la ciencia, la tecnología, la cultura, las artes, y la convivencia pacífica en el entorno natural y social, para afianzar la conciencia ecológica y la tolerancia, como valores básicos que sostengan la cohesión comunitaria;
 
-II. Mantener en operación el Museo, así como asesorar museos y centros científicos, tecnológicos, artísticos y culturales interactivos orientados al conocimiento, mediante la educación museística;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
 
-III. Mantener actualizadas de manera permanente las instalaciones y exposiciones del Museo;
+II. Mantener en operación el Museo, así como coordinar, administrar, operar, capacitar y asesorar museos y centros científicos, tecnológicos, artísticos y culturales interactivos en el Estado de Durango, orientados al conocimiento, mediante modelos educativos por libre elección;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+III. Mantener actualizadas de manera permanente las instalaciones y exposiciones de los Museos;
 
 IV. Impulsar el adiestramiento en la investigación científica, técnica, artística y cultural, estimulando en los niños y jóvenes el acceso al conocimiento;
 
@@ -95,15 +99,21 @@ j) Fomentar la curiosidad para la búsqueda del conocimiento.
 
 VIII. Participar en la elaboración de los lineamientos que deban cumplirse por parte de los distintos organismos que promueven la cultura en el Estado;
 
-IX. Organizar, administrar y mantener en óptimas condiciones, las instalaciones del Museo y las salas de exhibición;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+IX. Organizar, administrar y mantener en óptimas condiciones, las instalaciones de los Museos y las salas de exhibición;
 
 X. Capacitar, a través de las áreas de exhibición, a la población del Estado, buscando siempre ofrecer espacios de atracción novedosos que inviten al conocimiento;
 
-XI. Desarrollar y promover actividades científicas, tecnológicas, artísticas y culturales vinculadas al Museo, que contribuyan al desarrollo de los duranguenses, y de manera directa, de sus visitantes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+XI. Desarrollar y promover actividades científicas, tecnológicas, artísticas y culturales vinculadas a los Museos, que contribuyan al desarrollo de los duranguenses, y de manera directa, a sus visitantes;
 
 XII. Desarrollar actividades para la obtención de recursos, en los términos de la Ley Federal de Juegos y Sorteos y su reglamento;
 
-XIII. Celebrar con organismos públicos o privados, los contratos o convenios necesarios para el uso temporal de las instalaciones del Museo, que tengan como objetivo, promover las actividades científicas, tecnológicas, artísticas, culturales y recreativas, así como las acciones necesarias para el logro de los objetivos del mismo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+XIII. Celebrar con organismos públicos, sociales o privados, los contratos o convenios necesarios para el uso temporal de las instalaciones de los museos, que tengan como objetivo, promover las actividades científicas, tecnológicas, artísticas, culturales y recreativas, así como las acciones necesarias para el logro de los objetivos de los mismos;
 
 XIV. Otorgar reconocimientos a las instituciones, organizaciones o personas físicas o morales, que aporten resultados significativos para el mejoramiento del Museo o de otros museos con objetivos similares;
 
@@ -113,13 +123,21 @@ XVI. Promover acciones tendientes a fortalecer la participación de las distinta
 
 XVII. Coordinar sus actividades con las dependencias de gobierno que realicen actividades científicas, tecnológicas, culturales y artísticas en el Estado;
 
-XVIII. Las actividades tendientes a cumplir con los objetivos del Museo, nunca tendrán un carácter preponderantemente económico y deberán mantenerse al margen de cualquier asunto o problema de tipo político, religioso o racial y no fomentarán actitudes discriminatorias;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
 
-XIX. Invitar a los 39 Ayuntamientos del Estado de Durango, a participar en las exposiciones permanentes y temporales, así como en los demás eventos que se organicen en el Museo;
+XVIII. Las actividades del Museo, nunca tendrán un carácter preponderantemente económico y deberán desarrollarse en forma incluyente y no discriminatoria y se mantendrán al margen de cualquier asunto o problema de tipo político, religioso o racial;
 
-XX. Promover y difundir entre la población local, nacional y extranjera, las diferentes actividades del Museo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
 
-XXI. Realizar las acciones necesarias para mantener el modelo y la acreditación del Museo Interactivo Infantil, A.C., creador del Papalote Museo del Niño; y,
+XIX. Invitar a los Ayuntamientos del Estado de Durango, a participar en las exposiciones permanentes y temporales, así como en los demás eventos que se organicen en los Museos, con la finalidad de propiciar en sus municipios, la creación de sus propios contenidos y Museos, además de promoverlos a nivel nacional e internacional;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+XX. Realizar las acciones necesarias para mantener el modelo educativo por libre elección, observando la presente ley su reglamento y los manuales de organización y operación, y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+XXI. Todas aquellas acciones que sean necesarias para el ejercicio de las facultades anteriores y para el cumplimiento del objeto de los Museos.
 
 XXII. Todas aquellas acciones que sean necesarias para el ejercicio de las facultades anteriores y para el cumplimiento del objeto del Museo.
 
@@ -193,7 +211,9 @@ VII. Un Vocal, que será el Director del Instituto de Cultura del Estado de Dura
 
 VIII. Dos Vocales, representantes de la iniciativa privada, designados por los organismos empresariales reconocidos formalmente; y
 
-IX. Un Comisario Público, que será designado por la Secretaría de Contraloría y Modernización Administrativa.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+IX. Un Comisario Público, que será designado por la Secretaría de Contraloría.
 
 El Presidente del Consejo, por conducto del Director General, podrá invitar a las reuniones del mismo a los servidores públicos o personas que por el asunto que traten, amerite su participación.
 
@@ -275,7 +295,9 @@ XXIII. Expedir las disposiciones reglamentarias relativas a la operación, acces
 
 XXIV. Aprobar el proyecto de presupuesto del organismo y remitirlo a la Secretaría de Finanzas y de Administración para que se integre al que presente el Poder Ejecutivo del Estado, al H. Congreso del Estado, en la Ley de Egresos del Estado de Durango;
 
-XXV. El ejercicio contable del Museo y sus estados financieros, serán auditados por la Secretaría de Contraloría y Modernización Administrativa del Estado y por la Entidad de Auditoria Superior del Estado de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+XXV. El ejercicio contable del Museo y sus estados financieros, serán auditados por la Secretaría de Contraloría y por la Entidad de Auditoría Superior del Estado, de conformidad con las disposiciones jurídicas aplicables;
 
 XXVI. Realizar las acciones necesarias para mantener el modelo y la acreditación del Museo Interactivo Infantil, A.C., creadora de Papalote Museo del Niño; y
 
@@ -319,9 +341,11 @@ IV. Desempeñar las tareas que les encomiende el propio Consejo Directivo o les 
 
 El Director General del Museo será designado por el Gobernador del Estado, durará cuatro años en su encargo, pudiendo ser ratificado por un periodo igual, en una sola ocasión por el Consejo Directivo, siendo su cargo incompatible con cualquier otro en la función pública, a excepción de los cargos académicos u honoríficos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 20.
 
-Para ser Director General del Museo, se requiere:
+Para ser Director General de los Museos, se requiere:
 
 I. Ser ciudadano duranguense;
 
@@ -331,7 +355,9 @@ III. Título profesional en grado de licenciatura;
 
 IV. Ser persona de reconocido prestigio moral y profesional;
 
-V. Poseer la capacitación y la acreditación necesarias del Museo Interactivo Infantil, A.C., creadora de Papalote Museo del Niño, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+V. Poseer los conocimientos• y experiencia necesaria en Museos y Centros Interactivos, para desempeñar dicho cargo, y
 
 VI. Que no ostente cargo en algún partido político.
 
@@ -355,7 +381,9 @@ VII. Autorizar, junto con el Gerente Administrativo, las erogaciones que deban e
 
 VIII. Proponer al Consejo Directivo las medidas que considere conveniente para el mejor funcionamiento del Museo, así como las modificaciones que correspondan al Reglamento del Museo, así como a su estructura y organización;
 
-IX. Proponer al Consejo Directivo los programas, convenios o contratos que deban realizarse con organismos públicos y privados;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+IX. Proponer al Consejo Directivo los programas, convenios o contratos que deban realizarse con organismos públicos, sociales y privados;
 
 X. Contratar, convenir y suscribir los actos jurídicos necesarios para la obtención de créditos, recursos o inmuebles necesarios para el cumplimiento del objeto del Museo, previa aprobación del Consejo Directivo;
 
@@ -363,35 +391,55 @@ XI. Formular y mantener actualizado el inventario de los bienes y recursos, que 
 
 XII. Llevar el libro de actas, el archivo y la correspondencia del Museo;
 
-XIII. Elaborar el Reglamento del Museo y someterlo a la consideración del Consejo Directivo para su aprobación;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
 
-XIV. Cumplir y hacer cumplir la presente Ley, el Reglamento del Museo y demás disposiciones normativas aplicables; y
+XIII. Elaborar los Reglamentos del Museo y del Acertijo, Museo Interactivo Laguna Durango y someterlos a la consideración del Consejo Directivo para su aprobación;
 
-XV. Las demás que determine el Consejo Directivo o le establezcan las demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+XIV. Cumplir los acuerdos del Consejo Directivo, relativos al funcionamiento y demás asuntos relacionados con Acertijo, Museo Interactivo Laguna Durango;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+XV. Cumplir y hacer cumplir la presente Ley, los Reglamentos de los Museos y demás disposiciones normativas aplicables, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2016)</small>
+
+XVI. Las demás que determine el Consejo Directivo o le establezcan las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 22.
 
-Para mantener el modelo y la acreditación del Museo Interactivo Infantil, A.C., creadora de Papalote Museo del Niño, el Director General se auxiliará por lo menos, con las siguientes unidades administrativas:
+Para mantener el modelo educativo de Bebeleche, Museo Interactivo de Durango, el Director General se auxiliará por lo menos, con las siguientes unidades administrativas:
 
-I. Gerencia de Programas Educativos;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2016)</small>
 
-II. Gerencia Comercial;
+I. Gerencia Región Laguna;
 
-III. Gerencia Administrativa; y
+II. Gerencia de Programas Educativos;
 
-IV. Gerencia de Mantenimiento.
+III. Gerencia Comercial;
+
+IV. Gerencia Administrativa; y
+
+V. Gerencia de Mantenimiento.
 
 Para desempeñar la titularidad de estas unidades administrativas, será necesario cumplir con los mismos requisitos establecidos en el artículo 20 de esta Ley.
 
 ### CAPITULO IV. DEL ÓRGANO DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 23.
 
-El control y la evaluación de la vigilancia del Organismo estarán a cargo de un Comisario Público, designado por la Secretaría de Contraloría y Modernización Administrativa.
+El control y la evaluación de la vigilancia del Organismo estarán a cargo de un Comisario Público, designado por la Secretaría de Contraloría.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 24.
 
-El Comisario Público evaluará el desempeño global y por áreas específicas del Museo, en apego a las disposiciones legales vigentes, al cumplimiento de sus metas y programas, así como al manejo de sus ingresos y egresos, pudiendo solicitar y estando el Organismo obligado a proporcionar, toda la información que requiera para la adecuada realización de sus funciones, sin perjuicio de las acciones que directamente competan a la Secretaría de Contraloría y Modernización Administrativa.
+El Comisario Público evaluará el desempeño global y por áreas específicas del Museo, en apego a las disposiciones legales vigentes, al cumplimiento de sus metas y programas, así como al manejo de sus ingresos y egresos, pudiendo solicitar y estando el Organismo obligado a proporcionar, toda la información que requiera para la adecuada realización de sus funciones, sin perjuicio de las acciones que directamente competan a la Secretaría de Contraloría.
 
 ###### ARTICULO 25.
 
@@ -415,9 +463,11 @@ El balance anual del Organismo deberá aplicarse dentro de los treinta días sig
 
 ### CAPITULO V. DEL RÉGIMEN LABORAL
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 27.
 
-Las relaciones obrero-patronales del personal que labore en el Museo, se regirán por las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y en las demás disposiciones legales aplicables.
+Las relaciones obrero-patronales del personal que labore en el Museo y en el Acertijo Museo Interactivo Laguna Durango se regirán por las disposiciones contenidas en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones legales aplicables.
 
 ###### ARTICULO 28.
 
@@ -484,3 +534,13 @@ P.O. 22 DE MAYO DE 2011.
 Primero.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 550.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY QUE CREA EL BEBELECHE MUSEO INTERACTIVO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Dentro de los sesenta días siguientes a la publicación del presente decreto, se deberán realizar las adecuaciones que correspondan al Reglamento Interno de Bebeleche, Museo Interactivo Durango.
