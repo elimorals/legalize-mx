@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adopciones-para-el-estado-de-tamaulipas-88544"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2016-05-18"
+last_updated: "2016-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2016 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA P.O. EL 26 DE MAYO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXII-946 PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2016.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
