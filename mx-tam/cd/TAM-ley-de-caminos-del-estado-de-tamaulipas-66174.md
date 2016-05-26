@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-caminos-del-estado-de-tamaulipas-66174"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-18"
-last_updated: "2010-11-24"
+last_updated: "2016-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 18 de noviembre de 2008.
 
@@ -289,7 +289,9 @@ VIII. Ceder o transferir las concesiones, permisos o derechos en ellos conferido
 
 IX. Modificar o alentar substancialmente la naturaleza o condiciones de los caminos, carreteras y puentes o servicios auxiliares sin autorización previa de la Secretaría;
 
-X. Prestar servicios distintos a los señalados en el permiso respectivo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2016)</small>
+
+X. Prestar servicios distintos a los señalados en el permiso respectivo o no hacerlo con la calidad estándar que habrá de definir la Secretaría de Obras Públicas;
 
 XI. No otorgar o no mantener en vigor la garantía de daños contra terceros;
 
@@ -509,10 +511,18 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE NOVIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-953 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 18 DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
