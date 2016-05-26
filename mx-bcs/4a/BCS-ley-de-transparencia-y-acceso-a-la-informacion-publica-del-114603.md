@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2016-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE MAYO DE 2016.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 4 de Mayo de 2016.
 
@@ -371,11 +371,13 @@ Para alentar las buenas prácticas de transparencia, la competitividad del Estad
 
 ### Capítulo I. De los Comités de Transparencia
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 28.
 
-Todo sujeto obligado contará con un Comité de Transparencia integrado de manera colegiada y por número impar, el cual se integrará por el titular de aquel y por los servidores públicos que designe no podrán depender jerárquicamente entre sí.
+Todo sujeto obligado contará con un Comité de Transparencia integrado de manera colegiada y por número impar, los integrantes del Comité no podrán depender jerárquicamente entre sí, tampoco podrán reunirse dos o más de estos integrantes en una sola persona. Cuando se presente el caso, el titular del sujeto obligado tendrá que nombrar a la persona que supla al subordinado.
 
-Los integrantes del Comité de Transparencia tratándose de los sujetos obligados a que se refieren las fracciones VII y VIII del artículo 22 de esta Ley, se entenderá que el Consejo de Administración, Comité Directivo u órgano equivalente, actuará como Comité de Información.
+Los integrantes del Comité de Transparencia tratándose de los sujetos obligados a que se refieren las fracciones VII, VIII, XIII y XIV del artículo 22 de esta Ley, se entenderá que el Consejo de Administración, Comité Directivo u órgano equivalente, actuará como Comité de Transparencia.
 
 ###### Artículo 29.
 
@@ -429,9 +431,11 @@ V. Efectuar las notificaciones correspondientes a las y los solicitantes en los 
 
 VI. Proponer al Comité los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
 
-VII. Presentar al Comité el proyecto de clasificación de la información;
+VII. (DEROGADA, B.O. 26 DE MAYO DE 2016)
 
-VIII. Elaborar un catálogo de información o de expedientes clasificados, actualizándolos, por lo menos, cada mes;
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
+
+VIII.- Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
 
 IX. Verificar, en cada caso, que la información solicitada no esté clasificada como reservada o confidencial;
 
@@ -1285,7 +1289,13 @@ XIV. Estadísticas del trabajo parlamentario desarrollado por las comisiones per
 
 XV. Las controversias constitucionales entre poderes públicos de la entidad, acciones de inconstitucionalidad y los juicios de amparo en donde se determine la inconstitucionalidad de leyes locales; y
 
-XVI. Cualquiera otra información que sea de utilidad para el ejercicio del derecho a la información pública o la que conforme a la ley tenga que hacerse pública.
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
+
+XVI. Las contrataciones de servicios personales señalando el nombre del prestador del servicio, objeto, monto y vigencia del contrato de los órganos de Gobierno, Comisiones, Comités, Fracciones Parlamentarias y centros de estudio y órganos de investigación;
+
+> <small>(ADICIONADA, B.O. 26 DE MAYO DE 2016)</small>
+
+XVII. Cualquiera otra información que sea de utilidad para el ejercicio del derecho a la información pública o la que conforme a la ley tenga que hacerse pública.
 
 ###### Artículo 78.
 
@@ -1577,13 +1587,19 @@ III. Determinar el catálogo de información que el ente obligado deberá public
 
 ### Capítulo IV. De las Obligaciones Específicas de las Personas Físicas o Morales que Reciben y Ejercen Recursos Públicos o Ejercen Actos de Autoridad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 86.
 
-Las personas físicas o morales que reciban y/o ejerzan recursos públicos en el ámbito estatal o municipal, a partir de los quince mil unidades de medida y actualización o en aquellas que reciban un recurso público que sea preponderante dentro de su presupuesto, cumplirán de manera directa, según corresponda, con las obligaciones de transparencia establecidas en el artículo 75 de la presente Ley.
+Las personas físicas o morales que reciban y/o ejerzan recursos públicos en el ámbito estatal o municipal, a partir de las quince mil unidades de medida y actualización, cumplirán de manera directa, según corresponda, con las obligaciones de transparencia establecidas en el artículo 75 de la presente Ley.
 
 Las personas físicas o morales que en el ejercicio de sus actividades coadyuven en el auxilio o colaboración de los sujetos obligados, o aquellos que ejerzan gasto público, reciban o dispongan de recursos públicos, subsidios, estímulos fiscales o realicen actos de autoridad, inferiores al monto señalado en el párrafo anterior, estarán obligados a entregar información relacionada con el uso, destino y actividades al sujeto obligado que entregue el recurso, subsidio u otorgue el estímulo, supervise o coordine sus actividades.
 
 Se entiende que una persona física o moral realiza actos de autoridad, cuando independientemente de su naturaleza formal, dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifique o extinga situaciones jurídicas en forma unilateral y obligatoria; u omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones.
+
+> <small>(ADICIONADO, B.O. 26 DE MAYO DE 2016)</small>
+
+Para resolver sobre el cumplimiento de los supuestos señalados en los párrafos anteriores, el Instituto tomará en cuenta si se realiza alguna función gubernamental, el nivel de financiamiento público, el nivel de regulación e involucramiento gubernamental y si el gobierno participó en su creación.
 
 ### Capítulo V. De la Verificación de las Obligaciones de Transparencia
 
@@ -1847,9 +1863,13 @@ Se considera información reservada cuando:
 
 I. Obstruya la prevención o persecución de delitos;
 
-II. Pueda menoscabar la conducción de negociaciones en beneficio del Estado o Municipios, incluida aquella información que la Federación, organismos internacionales y otros Estados, entreguen a los sujetos obligados con carácter de reservada o confidencial;
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
 
-III. Pueda dañar la estabilidad financiera del Estado o Municipios;
+II. Pueda menoscabar la conducción de negociaciones que sean de evidente beneficio social y económico para el Estado y/o Municipios;
+
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
+
+III. La entregada con carácter de reservada o confidencial por autoridades federales o de otros estados, o por organismos internacionales, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
 
 IV. Ponga en riesgo la vida, la seguridad y la salud de una persona física;
 
@@ -2033,9 +2053,11 @@ Cuando el sujeto obligado no entregue la respuesta a la solicitud de acceso dent
 
 En caso de que el Instituto determine la publicidad de la información motivo de dicho recurso, la autoridad queda obligada a otorgarle la información corriendo a costa del sujeto obligado los gastos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 137.
 
-En caso de que sea necesario cubrir costos para obtener la información en alguna modalidad de entrega, la Unidad de Transparencia contará con un plazo que no excederá de cinco días para poner a disposición del solicitante la documentación requerida, a partir de la fecha en que el solicitante acredite, haber cubierto el pago de los derechos correspondientes, el cual deberá efectuarse en un plazo de veinte días y en caso de no hacerlo, deberán realizar una nueva solicitud de información sin responsabilidad para el sujeto obligado.
+En caso de que sea necesario cubrir costos para obtener la información en alguna modalidad de entrega, la Unidad de Transparencia contará con un plazo que no excederá de cinco días para poner a disposición del solicitante la documentación requerida, a partir de la fecha en que el solicitante acredite, haber cubierto el pago de los derechos correspondientes, el cual deberá efectuarse en un plazo de treinta días y en caso de no hacerlo, deberán realizar una nueva solicitud de información sin responsabilidad para el sujeto obligado.
 
 La Unidad de Transparencia tendrá disponible la información solicitada durante un plazo máximo de sesenta días, contados a partir de que el solicitante hubiere realizado el pago respectivo.
 
@@ -2079,9 +2101,13 @@ II. El acceso suponga el pago de una contraprestación en los términos de los o
 
 III. No se requiera acreditar interés alguno.
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 143.
 
-La Unidad de Transparencia no estará obligada a dar trámite a solicitudes de acceso ofensivas, en estos casos, se declarará la improcedencia debiendo notificarlo al solicitante.
+Cuando algún Área de los sujetos obligados se negara a colaborar con la Unidad de Transparencia, ésta dará aviso al superior jerárquico para que le ordene realizar sin demora las acciones conducentes.
+
+Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la autoridad competente para que ésta inicie, en su caso, el procedimiento de responsabilidad respectivo.
 
 ## TÍTULO OCTAVO. DEL RECURSO DE REVISIÓN
 
@@ -2215,11 +2241,15 @@ III. El tercero interesado, si lo hay.
 
 Las partes podrán designar representantes para que acudan en su nombre dentro de los recursos de revisión, por lo que no procede la gestión oficiosa o de negocios.
 
-La representación de los recurrentes o del tercero interesado si lo hay, se podrá otorgar mediante poder notarial que conste en escritura pública, carta poder o documento idóneo que acredite la representación que ostentan.
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
+La representación de los recurrentes o del tercero interesado si lo hay, cuando así se amerite, se podrá otorgar mediante poder notarial que conste en escritura pública, carta poder o documento idóneo que acredite la representación que ostentan.
 
 La representación de la autoridad responsable, se acreditará, conforme lo establezcan los lineamientos, que en su caso expida el Instituto.
 
-Siempre que dos o más recurrentes interpongan la revisión, deberán actuar de manera conjunta y bajo una misma representación
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
+En caso de que dos o más recurrentes interpongan la revisión, estos podrán actuar de manera conjunta y bajo una misma representación.
 
 ### Capítulo V. De la Sustanciación del Recurso de Revisión
 
@@ -2247,7 +2277,9 @@ VI. La celebración de la audiencia de ley, será para desahogar las pruebas que
 
 VII. Celebrada la audiencia de ley, el comisionado ponente, mediante acuerdo, decretará cerrada la instrucción, y pasará el expediente a resolución, citando a las partes a oírla.
 
-VIII. El comisionado ponente deberá elaborar el proyecto de resolución que en derecho corresponda, y una vez elaborado éste, lo remitirá al Consejero Presidente, quien convocará a sesión ordinaria o extraordinaria del Pleno del Instituto, para su discusión, modificación o aprobación, todo esto, dentro del plazo de treinta días, plazo que podrá prorrogarse por un periodo igual cuando para emitir resolución, se requiera verificar si la información es reservada o confidencial, de conformidad con lo dispuesto por el siguiente artículo, cuando así se requiera por el volumen o cantidad del expediente o cuando se estime necesario para dictar resolución apegada a derecho, para lo cual, el comisionado ponente dictará acuerdo respectivo, mismo que será notificado a las partes por estrados.
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2016)</small>
+
+VIII. El comisionado ponente deberá elaborar el proyecto de resolución que en derecho corresponda, y una vez elaborado éste, lo remitirá al Comisionado Presidente, quien convocará a sesión ordinaria o extraordinaria del Pleno del Instituto, para su discusión, modificación o aprobación. Cuando para emitir resolución, se requiera verificar si la información es reservada o confidencial, de conformidad con lo dispuesto por el siguiente artículo, cuando así se requiera por el volumen o cantidad del expediente o cuando se estime necesario para dictar resolución apegada a derecho, el comisionado ponente dictará acuerdo de ampliación de plazo, que no podrá exceder de veinte días, mismo que será notificado a las partes.
 
 IX. En el caso de que se interponga el recurso de revisión por la causal dispuesta en la fracción VI del artículo 144 de esta Ley, se procederá en términos de los (sic) dispuesto por las fracciones I y II del presente artículo, y una vez valorados los elementos con que cuente, el comisionado ponente decretará cerrada la instrucción y pasará el expediente a resolución, citando a las partes a oírla, procediendo en los términos dispuestos en la fracción VIII del presente artículo, requiriéndole a la autoridad responsable que dentro del plazo de diez días, entregue la información solicitada, siempre y cuando ésta no sea reservada o confidencial.
 
@@ -2259,9 +2291,11 @@ La falta de contestación de la autoridad responsable dentro del plazo a que se 
 
 El comisionado ponente, deberá determinar de oficio o a petición de parte, desde el momento en que se les asigne un recurso de revisión para su conocimiento o cuando exista promoción al respecto por alguna de las partes, si se actualiza alguna causal de improcedencia o sobreseimiento prevista en la Ley.
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 159.
 
-Cuando como parte de la contestación de la autoridad responsable o durante la celebración de la audiencia de ley, ésta pone a disposición o acredita de manera fehaciente la entrega de la información requerida en la solicitud de información, el comisionado ponente, mediante acuerdo, dará vista al recurrente para que dentro del plazo de diez días siguientes a la notificación respectiva, alegue lo que a su derecho convenga o manifieste su conformidad con dicha información, apercibiéndolo que en caso de no hacerlo, se sobreseerá el recurso de revisión.
+Cuando como parte de la contestación de la autoridad responsable o durante la celebración de la audiencia de ley, ésta pone a disposición o acredita de manera fehaciente la entrega de la información requerida en la solicitud de información, el comisionado ponente, mediante acuerdo, dará vista al recurrente para que dentro del plazo de diez días siguientes a la notificación respectiva, alegue lo que a su derecho convenga o manifieste su conformidad con dicha información, apercibiéndolo que en caso de no hacerlo, se sobreseerá el recurso de revisión, en términos de lo señalado por la fracción III del artículo 174 de la presente Ley.
 
 ###### Artículo 160.
 
@@ -2393,7 +2427,7 @@ VI. Se trate de una consulta, y no sea considerada una solicitud de información
 
 VII. El recurrente amplíe o modifique su solicitud de información pública, respecto de nuevos contenidos.
 
-VIII. Cuando no se afecten los intereses jurídicos o legítimos del recurrente.
+VIII. (DEROGADA, B.O. 26 DE MAYO DE 2016)
 
 IX. Cuando de las constancias de autos apareciere claramente que no existe la resolución o acto impugnados.
 
@@ -2415,13 +2449,13 @@ IV. Admitido el recurso de revisión, aparezca alguna causal de improcedencia en
 
 Las autoridades responsables, darán estricto cumplimiento a las resoluciones, que dicte el Instituto, dentro de los recursos de revisión y deberán informar a éste sobre su cumplimiento.
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 176.
 
-Excepcionalmente, considerando las circunstancias especiales del caso, cuando el Instituto lo crea necesario, o a petición de las autoridades responsables, previa fundamentación y motivación, se podrán (sic) ampliar el plazo para el cumplimiento de la resolución, por diez días más.
+Excepcionalmente, considerando las circunstancias especiales del caso, cuando el Instituto lo crea necesario, o a petición de las autoridades responsables, previa fundamentación y motivación, se podrá ampliar el plazo para el cumplimiento de la resolución.
 
 Cuando dicha ampliación fuera a petición de las autoridades responsables, ésta deberá presentar solicitud de ampliación a más tardar, dentro de los primeros tres días del plazo otorgado para el cumplimiento, a efecto de que el Instituto resuelva sobre la procedencia de la misma dentro de los cinco días siguientes.
-
-Presentada la solicitud de ampliación ante el Instituto, se interrumpirá el plazo otorgado al sujeto obligado para dar cumplimiento de la resolución, a efectos de que el Instituto resuelva la procedencia de dicha solicitud, en caso de ser concedida la ampliación, ésta empezará a correr a partir del día siguiente en que venció el plazo otorgar (sic) para dar cumplimiento; en su defecto, proseguirá el plazo otorgado al sujeto obligado para dar cumplimiento a la resolución.
 
 ###### Artículo 177.
 
@@ -2437,13 +2471,23 @@ Una vez que la autoridad responsable haya informado al Instituto del cumplimient
 
 En caso de que la autoridad responsable remita al Instituto la información proporcionada al recurrente que se haya ordenado entregar, éste verificará de oficio la calidad de la información y, dará vista al recurrente para que, dentro de los cinco días siguientes, manifieste lo que a su derecho convenga.
 
-Si dentro del plazo señalado el recurrente manifiesta que el cumplimiento no corresponde a lo ordenado por el Instituto, deberá expresar, de manera fundada y motivada, las causas específicas por las cuales así lo considera. En el caso de que sea procedente lo manifestado por el recurrente, el Instituto ordenará nuevamente a la autoridad responsable el cumplimiento de la resolución, en los términos descritos en el acuerdo que al efecto se dicte.
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
+Si dentro del plazo señalado el recurrente manifiesta que el cumplimiento no corresponde a lo ordenado por el Instituto, deberá expresar, las causas específicas por las cuales así lo considera.
 
 En caso de que el recurrente no haga manifestación alguna dentro del plazo concedido para tal efecto, se tendrá por cumplida la resolución y se ordenará su archivo en el mismo acto.
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 179.
 
-Recibidas las manifestaciones hechas por el recurrente de conformidad con el artículo anterior, el Instituto deberá pronunciarse, en un plazo no mayor a cinco días, sobre todas las causas que el recurrente manifieste así como del resultado de la verificación realizada. Si el Instituto considera que se dio cumplimiento a la resolución, emitirá un acuerdo de cumplimiento y ordenará el archivo del expediente. En caso contrario, se sujetará a lo dispuesto por Capítulo de Medidas de Apremio de la presente Ley.
+Recibidas las manifestaciones hechas por el recurrente de conformidad con el artículo anterior, el Instituto deberá pronunciarse, en un plazo no mayor a cinco días, sobre todas las causas que el recurrente manifieste así como del resultado de la verificación realizada. Si el Instituto considera que se dio cumplimiento a la resolución, emitirá un acuerdo de cumplimiento y ordenará el archivo del expediente. En caso contrario, el Instituto:
+
+I.- Emitirá un acuerdo de incumplimiento;
+
+II.- Notificará al superior jerárquico del responsable de dar cumplimiento para el efecto de que en un plazo no mayor a cinco días, se dé cumplimiento a la resolución, y
+
+III.- Determinará las medidas de apremio o sanciones, según corresponda, que deberán imponerse de conformidad a lo dispuesto en el capítulo de Medidas de Apremio de la presente Ley.
 
 ###### Artículo 180.
 
@@ -2455,17 +2499,15 @@ No podrá archivarse ningún expediente sin que se haya cumplido la resolución 
 
 ### Capítulo Único. De las Medidas de Apremio para el Cumplimiento de las Resoluciones Dictadas por el Instituto
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 181.
 
-El Instituto podrá imponer a la autoridad responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus resoluciones, que por disposición de la presente Ley, tenga que dictar, las cuales consisten en las siguientes:
+El instituto podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos, agrupaciones políticas, persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
 
-I. Apercibimiento;
+I.- Amonestación pública, o
 
-II. Amonestación privada;
-
-III. Amonestación pública; y
-
-IV. Multa de ciento cincuenta a mil unidades de medida y actualización.
+II.- Multa, de ciento cincuenta hasta mil quinientas unidades de medida y actualización.
 
 Las multas se harán efectivas por conducto de la Secretaría de Finanzas y Administración, el monto recaudado se destinará a un fondo para el mejoramiento de la cultura de la transparencia y el acceso a la información pública, ejecutado por el Instituto, de acuerdo a su planeación presupuestal.
 
@@ -2475,17 +2517,17 @@ Las medidas de apremio impuestas por el Instituto, deberán ser ejecutadas con e
 
 Si la falta de cumplimiento llegare a implicar la comisión de un delito, se denunciarán los hechos a la autoridad competente.
 
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+
 ###### Artículo 182.
 
 Las medidas de apremio se desahogarán e impondrán dentro del mismo expediente del cual emane el incumplimiento, observándose las siguientes reglas:
 
-I. Se impondrá el apercibimiento, en el caso (sic) haber incumplido por primera vez la resolución dictada por el Instituto, dentro del plazo otorgado para tal efecto;
+I.- Se impondrá la amonestación pública, cuando estando apercibido el infractor, incumpla con la resolución dictada por el Instituto; y
 
-II. Se impondrá la amonestación pública, una vez apercibido el infractor y persista en el incumplimiento de la resolución; y
+II.- Se impondrá multa de ciento cincuenta a mil quinientas unidades de medida y actualización, una vez amonestado públicamente el infractor y persista en el incumplimiento de la resolución.
 
-III. Se impondrá multa de ciento cincuenta a mil quinientas unidades de medida y actualización, una vez amonestado públicamente el infractor y persista en el incumplimiento de la resolución.
-
-Para el caso de la imposición del monto de la multa a que se refiere la presente fracción, se deberá considerar las condiciones económicas del infractor.
+Para el caso de la imposición del monto de la multa a que se refiere el presente artículo, se deberá considerar las condiciones económicas del infractor.
 
 ###### Artículo 183.
 
@@ -2651,9 +2693,11 @@ OCTAVO.- Los asuntos que se encuentren en trámite al momento de la entrada en v
 
 NOVENO.- Los sujetos obligados deberán de constituir los Comités y las Unidades de Transparencia correspondientes, en un plazo no mayor a 90 días contados a partir de la entrada en vigor de la presente Ley.
 
-DÉCIMO.- Para el cumplimiento de las nuevas obligaciones establecidas en los Capítulos I, II, III y IV del Título Quinto de la presente Ley, deberá observarse lo dispuesto en los Artículos Octavo Transitorio del Decreto mediante el cual se expide la Ley General de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
 
-Las nuevas obligaciones a que refiere el presente artículo, serán aplicables a los sujetos obligados, solo respecto de la información que se genere a partir de la entrada en vigor de la presente Ley.
+DÉCIMO.- Para el cumplimiento de las obligaciones establecidas en los Capítulos I, II, III y IV del Título Quinto de la presente Ley establecidas en los artículos 70 a 83 de la Ley General de Transparencia y Acceso a la Información Pública, deberá observarse lo dispuesto en el Artículo Octavo Transitorio del Decreto mediante el cual se expide la Ley General de Transparencia y Acceso a la Información Pública.
+
+Las nuevas obligaciones previstas en la presente Ley que resulten adicionales a las señaladas por la Ley General, serán aplicables a los sujetos obligados, solo respecto de la información que se genere a partir de la entrada en vigor de la presente Ley.
 
 DÉCIMO PRIMERO.- El Congreso del Estado vigilará que se hagan los ajustes y previsiones necesarias en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del 2016, con el objeto de garantizar el cumplimiento de la presente Ley.
 
@@ -2684,3 +2728,9 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+P.O. 26 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2352 SE REFORMAN LOS ARTÍCULOS 28, FRACCIÓN VIII DEL ARTÍCULO 31, FRACCIÓN XVI DEL ARTÍCULO 77, 86, LAS FRACCIONES II Y III DEL ARTÍCULO 118, 137, 143, 154, FRACCIÓN VIII DEL ARTÍCULO 156, 159, 176, PÁRRAFO TERCERO DEL ARTÍCULO 178, 179, 181, 182 Y ARTÍCULO DÉCIMO TRANSITORIO; SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 77 Y SE DEROGAN LAS FRACCIONES VII DEL ARTÍCULO 31 Y LA FRACCIÓN VIII DEL ARTÍCULO 173, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
