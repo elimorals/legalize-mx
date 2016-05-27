@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-salud-41388"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2009-03-04"
+last_updated: "2016-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2009.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 27 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016 (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -796,3 +798,39 @@ La Coordinación de Prevención y Control de Accidentes contará con los recurso
 Los recursos de la Dirección de Enseñanza e Investigación, de las Jefaturas de Jurisdicciones, así como las del Laboratorio Estatal y las del Centro Estatal de la Transfusión Sanguínea se transferirán al Organismo Público Descentralizado denominado Servicios de Salud de Nuevo León.
 
 TERCERO: El Reglamento Interior de Servicios de Salud de Nuevo León, Organismo Público Descentralizado deberá modificarse para ajustarse a las presentes reformas en un período que no exceda de 15 días hábiles a partir de la publicación del presente Reglamento.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Salud publicado en el Periódico Oficial del Estado en fecha 12 de octubre de 2004 y sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Al momento de entrar en vigor el presente Reglamento, las Oficinas Regionales de Regulación Sanitaria tendrán la siguiente circunscripción territorial, en tanto el Secretario no dicte el acuerdo señalado en el Artículo 29 de este ordenamiento.
+
+Oficina de Regulación Sanitaria No. 1.- Tiene su circunscripción en el Municipio de Monterrey.
+
+Oficina de Regulación Sanitaria No. 2.- Tiene su circunscripción en los Municipios de Abasolo, El Carmen, Ciénega de Flores, General Escobedo, General Zuazua, Mina, Salinas Victoria, San Nicolás de los Garza e Hidalgo.
+
+Oficina de Regulación Sanitaria No. 3.- Tiene su circunscripción sanitaria en los Municipios de García, San Pedro Garza García y Santa Catarina.
+
+Oficina de Regulación Sanitaria No. 4.- Tiene su circunscripción en los Municipios de Apodaca, Guadalupe y Juárez.
+
+Oficina de Regulación Sanitaria No. 5.- Tiene su circunscripción en los Municipios de Agualeguas, Anáhuac, Bustamante, General Treviño, Lampazos de Naranjo, Parás, Sabinas Hidalgo, Vallecillo y Villaldama.
+
+Oficina de Regulación Sanitaria No. 6.- Tiene su circunscripción en los Municipios de Los Aldamas, Cadereyta Jiménez, Cerralvo, China, Dr. Coos, Dr. González, General Bravo, los Herreras, Higueras, Marín, Melchor Ocampo, Pesquería y los Ramones.
+
+Oficina de Regulación Sanitaria No. 7.- Tiene su circunscripción en los municipios de Allende, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago.
+
+Oficina de Regulación Sanitaria No. 8.- Tiene su circunscripción en Dr. Arroyo, Galeana, General Zaragoza, Mier y Noriega e Iturbide.
+
+###### ARTÍCULO CUARTO.
+
+Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que realice los ajustes o transferencias presupuestales que sean necesarias, de acuerdo a lo dispuesto en el presente Reglamento, sujeto a la programación y suficiencia presupuestaria que éste determine, de acuerdo a la Ley de Egresos del ejercicio correspondiente.
