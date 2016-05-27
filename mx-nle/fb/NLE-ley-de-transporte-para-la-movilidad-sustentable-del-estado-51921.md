@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2014-12-03"
+last_updated: "2016-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -739,9 +739,11 @@ En el caso de autobuses, estos plazos podrán variar en función de que éstos s
 
 Igualmente, estos plazos podrán variar, tratándose de los vehículos que presten servicios fuera del área metropolitana de Monterrey, ó en zonas de difícil acceso. En todo caso se requerirá de manera previa la autorización de la Agencia.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 30.
 
-Los prestadores del servicio de transporte están obligados a colocar en los vehículos que le sean autorizados, la información relativa al servicio que prestan, con arreglo a las disposiciones que señala el Reglamento. La información se colocará en un lugar visible al usuario y en los cuatro costados de las unidades y de más lugares que determine el Reglamento.
+Los prestadores del servicio de transporte están obligados a colocar en los vehículos que les sean autorizados los validadores y dispositivos necesarios para la utilización del sistema de peaje electrónico, así como la información relativa al servicio que prestan, con arreglo a las disposiciones que señala el Reglamento. La información se colocará en un lugar visible al usuario y en los cuatro costados de las unidades y demás lugares que determine el Reglamento.
 
 ###### Artículo 31.
 
@@ -823,9 +825,51 @@ IV.- Cuando porten su uniforme de servicio o credencial de identificación, los 
 
 La Agencia deberá fijar tarifas especiales para los sistemas de pasajeros las cuales beneficiarán a estudiantes de cualquier grado, personas mayores afiliados al Instituto de Adultos en Plenitud y personas con discapacidad.
 
-Asimismo la Agencia podrá otorgar las tarifas especiales a que se refiere el párrafo anterior, a viudas, jubilados y pensionados.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Asimismo, la Agencia podrá otorgar las tarifas especiales a que se refiere el párrafo anterior de este artículo a viudas, jubilados y pensionados.
 
 Los anteriores beneficiarios tendrán la obligación de justificar su calidad, mediante la exhibición de la credencial expedida o autorizada por la Agencia.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Además, el Estado otorgará la gratuidad en términos de las Reglas de Operación que emita la Agencia para:
+
+I.- Los estudiantes que se encuentren cursando alguno de los niveles de educación media superior y superior, inscritos en una Institución Educativa con Reconocimiento de Validez Oficial de Estudios, durante los días del ciclo escolar;
+
+II.- Las personas adultas mayores; y
+
+III.- Las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Las Reglas de Operación a que se hacen referencia en este artículo serán emitidas por la Agencia y deberán considerar, al menos:
+
+a) Objetivos Generales
+
+b) Objetivos Específicos
+
+c) Cobertura y duración
+
+d) Criterios de Selección y de Elegibilidad de los sujetos de apoyo
+
+e) Tipos de Apoyos y Condiciones Generales
+
+f) Consideraciones Generales de los Apoyos
+
+g) Presupuesto a destinar como prestación pública para cubrir el costo de los apoyos para los viajes autorizados en el programa mediante depósito en la tarjeta de peaje electrónico de los beneficiarios
+
+h) Derechos de los sujetos de apoyo
+
+i) Obligaciones de los sujetos de apoyo
+
+j) Transparencia en la selección de los sujetos de apoyo
+
+k) Transparencia y Rendición de Cuentas en el origen y aplicación de los recursos para los apoyos
+
+l) Coordinación de Acciones
+
+m) Sistema de Quejas y Denuncias para la Ciudadanía
 
 ###### Artículo 38.
 
@@ -2008,3 +2052,17 @@ P.O. 14 DE SEPTIEMBRE DE 2012.
 P.O. 3 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 114. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 30 Y ADICIÓN AL ARTÍCULO 37 DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León en un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del presente decreto deberá emitir las Reglas de Operación a las que se refiere el artículo 37 a fin de que entre en vigor dicho programa.
+
+Tercero.- La Secretaría de Finanza (sic) y Tesorería del Estado deberá reencausar la partida presupuestal considerada en las Reglas de Operación que se expidan de conformidad con el artículo 37 a fin de que entre en vigor dicho programa.
+
+Cuarto.- Los concesionarios y permisionarios prestadores del servicio de transporte que no cuente (sic), al momento de entrar en vigor el presente decreto, con los dispositivos para el uso del sistema de peaje electrónico, cuyas bases se establecieron mediante acuerdo publicado en el Periódico Oficial del Estado en fecha 24 de junio de 2009, contarán con un plazo de 90 días naturales para adecuar sus unidades e instalar los dispositivos a fin de cumplir con el presente decreto. Este plazo podrá prorrogarse hasta por 30 días naturales adicionales previa petición expresa del concesionario o permisionario por motivo justificado.
+
+Todo concesionario y permisionario prestador del servicio de transporte que no cumpla con lo anterior perderá el derecho a utilizar las unidades que no cuenten con validador y demás dispositivos para la aplicación del sistema de peaje electrónico para explotar su concesión o permiso. En caso de que el concesionario o permisionario no actualice sus unidades, se aplicará lo dispuesto en el artículo 65 fracción IV de la Ley.
