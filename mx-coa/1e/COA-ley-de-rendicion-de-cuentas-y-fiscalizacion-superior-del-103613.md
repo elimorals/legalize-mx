@@ -4,7 +4,7 @@ identifier: "COA-ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-103613
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-11"
-last_updated: "2014-11-11"
+last_updated: "2016-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 11 de noviembre de 2014.
 
@@ -153,7 +153,11 @@ La Auditoría Superior tiene a su cargo la revisión y fiscalización superior d
 
 Así mismo, la Auditoría Superior es competente para:
 
-I. Fiscalizar en forma posterior la gestión financiera y las cuentas públicas en los términos que dicta la Constitución Política del Estado de Coahuila de Zaragoza, esta ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+I. Fiscalizar en forma posterior las cuentas públicas y los informes de avance de gestión financiera de las entidades, en los términos que dicta la Constitución Política del Estado de Coahuila de Zaragoza, esta ley y demás disposiciones aplicables.
+
+No obstante lo anterior, podrá iniciar el proceso de fiscalización durante el ejercicio fiscal en curso;
 
 II. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en la gestión financiera de las entidades fiscalizadas; y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a las formalidades establecidas en las leyes.
 
@@ -169,7 +173,9 @@ I. Auditoría Superior: la Auditoría Superior del Estado de Coahuila de Zaragoz
 
 II. Auditor Superior: el Titular de la Auditoría Superior del Estado de Coahuila de Zaragoza;
 
-III. Comisión: la Comisión de Hacienda y Cuenta Pública del Congreso del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. Comisión: la Comisión de Auditoría Gubernamental y Cuenta Pública del Congreso del Estado de Coahuila de Zaragoza;
 
 IV. Congreso: el Congreso del Estado de Coahuila de Zaragoza;
 
@@ -179,7 +185,9 @@ VI. Dictamen final de auditoría: el documento emitido por la Auditoría Superio
 
 VII. Entidades: los Poderes, sus órganos y dependencias, organismos públicos autónomos, las entidades paraestatales, los municipios, sus órganos y dependencias, sus organismos descentralizados y paramunicipales; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura análoga, así como los mandatos, fondos o fideicomisos públicos o privados o cualquier otra figura jurídica similar, cuando hayan recibido por cualquier título recursos públicos, no obstante que no sean considerados entidades paraestatales por la ley de la materia y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la recaudación, custodia, administración, manejo, aplicación o ejercicio de recursos públicos federales, estatales o municipales y que por dicha razón sean sujetos de fiscalización por parte de la Auditoría Superior;
 
-VIII. Fiscalización Superior: es el conjunto de facultades ejercidas por la Auditoría Superior, que tienen por objeto la revisión de la cuenta pública, incluyendo los informes de avance de gestión financiera, a través de la comprobación, evaluación y control del ejercicio de la gestión financiera de las entidades;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VIII. Fiscalización Superior: es el conjunto de facultades ejercidas por la Auditoría Superior, que tienen por objeto la comprobación, evaluación y control del ejercicio de la gestión financiera de las entidades;
 
 IX. Gestión financiera: las acciones, tareas y procesos que realizan las entidades fiscalizadas para la administración y ejercicio de los recursos públicos, así como en la ejecución de los planes y programas, conforme a las leyes de ingresos, los presupuestos de egresos y demás disposiciones aplicables;
 
@@ -189,7 +197,9 @@ XI. Información reservada: toda aquélla información y/o documentación que po
 
 XII. Informe de avance de gestión financiera: el informe trimestral que, como parte integrante de la cuenta pública, rinden las entidades al Congreso sobre los avances físicos y financieros de los programas aprobados, a fin de que la Auditoría Superior fiscalice los ingresos y egresos, así como el grado de cumplimiento de los objetivos contenidos en los planes y programas;
 
-XIII. Informe Anual de Resultados: el informe anual que presenta la Auditoría Superior al Congreso por conducto de la Comisión, con las observaciones, recomendaciones y acciones promovidas, como resultado de las (sic) fiscalización de los informes de avance de gestión financiera y las cuentas públicas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XIII. Informe Anual de Resultados: el informe anual que presenta la Auditoría Superior al Congreso por conducto de la Comisión, con las observaciones, recomendaciones y acciones promovidas, como resultado de la fiscalización superior;
 
 XIV. Informes especiales: los informes que presenta la Auditoría Superior de la fiscalización a los informes de avance de gestión financiera;
 
@@ -199,11 +209,17 @@ XVI. Instancias de control competentes: tienen este carácter, la Secretaría de
 
 XVII. Planes: Plan Estatal y Municipal de Desarrollo;
 
-XVIII. Pliego de observaciones: el documento en el que la Auditoría Superior da a conocer a las entidades las observaciones determinadas con motivo de la fiscalización de las cuentas públicas y los informes de avance de gestión financiera;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XIX. Pliego de recomendaciones: el documento en el que la Auditoría Superior da a conocer a las entidades las recomendaciones determinadas con motivo de la fiscalización de las cuentas públicas y de los informes de avance de gestión financiera, con el propósito de que sean atendidas por las entidades;
+XVIII. Pliego de observaciones: el documento en el que la Auditoría Superior da a conocer a las entidades las observaciones determinadas con motivo de las auditorías practicadas, con el propósito de que sean atendidas por las entidades;
 
-XX. Proceso de fiscalización: el comprendido desde la presentación del informe de avance de gestión financiera del primer trimestre del ejercicio correspondiente, hasta el dictamen emitido por la Comisión relativo a la conclusión de la fiscalización superior de las cuentas públicas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XIX. Pliego de recomendaciones: el documento en el que la Auditoría Superior da a conocer a las entidades las recomendaciones determinadas con motivo de las auditorías practicadas, con el propósito de que sean atendidas por las entidades;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XX. Proceso de fiscalización: el comprendido a partir del inicio de las facultades de revisión de la Auditoría Superior, hasta el dictamen emitido por la Comisión relativo a la conclusión de la fiscalización superior de las cuentas públicas;
 
 XXI. Profesionales de auditoría independientes: los auditores de los despachos contables debidamente registrados y contratados por la Auditoría Superior, para practicar auditorías a las entidades, de conformidad con las normas y los lineamientos que para tal efecto dicte la misma Auditoría Superior o, en su caso, la Comisión;
 
@@ -223,13 +239,17 @@ La interpretación administrativa de esta ley estará a cargo de la Auditoría S
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS DE FISCALIZACIÓN SUPERIOR
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 5.
 
-Los actos de fiscalización que ejecute la Auditoría Superior se guiarán por los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad, confiabilidad, transparencia y máxima publicidad de la información.
+Los actos de fiscalización superior que ejecute la Auditoría Superior se guiarán por los principios de legalidad, definitividad, imparcialidad, confiabilidad, transparencia y máxima publicidad de la información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 6.
 
-La fiscalización superior a cargo de la Auditoría Superior se realizará con posterioridad a la gestión financiera excepto en los casos previstos en la presente ley; tiene carácter externo y, por lo tanto, se efectuará de manera independiente y autónoma respecto de cualquier otra forma de control o evaluación que realicen las instancias de control competentes.
+La fiscalización superior a cargo de la Auditoría Superior se realizará con posterioridad a la gestión financiera, sin perjuicio de la facultad de poder iniciar el proceso de fiscalización en el año en curso; tiene carácter externo y, por lo tanto, se efectuará de manera independiente y autónoma respecto de cualquier otra forma de control o evaluación que realicen las instancias de control competentes.
 
 Sin perjuicio de lo establecido en el párrafo anterior, cuando conforme a esta ley y demás disposiciones aplicables, las instancias de control competentes de las entidades deban colaborar con la Auditoría Superior en lo que concierne a la revisión de su cuenta pública y/o informes de avance de gestión financiera, la Auditoría Superior establecerá las bases para que dicha instancia de control conceda la coordinación y colaboración entre ambos a fin de garantizar el debido intercambio de información que al efecto se requiera.
 
@@ -237,11 +257,11 @@ Sin perjuicio de lo establecido en el párrafo anterior, cuando conforme a esta 
 
 En el manejo de la información y documentación en posesión de la Auditoría Superior prevalecerán los principios de transparencia y de máxima publicidad, con las restricciones y excepciones establecidas por la ley.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 8.
 
-La fiscalización superior de las cuentas públicas está limitada al principio de anualidad, por lo que los procesos cuya ejecución abarquen dos o más ejercicios fiscales sólo podrán ser revisados anualmente en la parte ejecutada.
-
-Sin perjuicio del principio de anualidad a que se refiere el primer párrafo de este artículo, la Auditoría Superior podrá revisar de manera casuística y concreta, la información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios fiscales anteriores a los de las cuentas públicas en revisión, sin que con este motivo se entiendan, para todos los efectos legales, abiertas nuevamente las cuentas públicas del ejercicio correspondiente a la revisión, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales. Las observaciones y recomendaciones que la Auditoría Superior emita, sólo podrán referirse a la administración de los recursos contenidos en la cuenta pública en revisión.
+La Auditoría Superior podrá revisar de manera casuística y concreta, la información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios fiscales anteriores a los de las cuentas públicas en revisión, sin que con este motivo se entiendan, para todos los efectos legales, abiertas nuevamente las cuentas públicas del ejercicio correspondiente a la revisión, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales. Las observaciones y recomendaciones que la Auditoría Superior emita, sólo podrán referirse a la administración de los recursos contenidos en la cuenta pública en revisión.
 
 ###### Artículo 9.
 
@@ -255,11 +275,15 @@ Las entidades conservarán en su poder los libros y registros presupuestarios y 
 
 Los informes de avance de gestión financiera y las cuentas públicas se organizarán, sistematizarán y difundirán conforme a lo establecido en la Ley General de Contabilidad Gubernamental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 11.
 
-Las entidades deberán presentar su cuenta pública anual ante el Congreso a más tardar el último día del mes de febrero del año siguiente al ejercicio correspondiente. Será presentada en forma impresa y en un archivo electrónico de datos que permita su uso informático y facilite su procesamiento, independientemente de los demás requisitos que se deban cumplir para su presentación, contenidos en las disposiciones de carácter general que la Auditoría Superior emita para tal efecto y deberá contener la información descrita en el artículo 15 de esta ley.
+Las entidades deberán presentar su cuenta pública anual ante el Congreso dentro del mes de enero siguiente del año inmediato posterior. Será presentada en forma impresa y en un archivo electrónico de datos que permita su uso informático y facilite su procesamiento, independientemente de los demás requisitos que se deban cumplir para su presentación, contenidos en las disposiciones de carácter general que la Auditoría Superior emita para tal efecto y deberá contener la información descrita en el artículo 15 de esta ley.
 
-Por los cuatro trimestres del año, las entidades presentarán ante el Congreso sendos informes de avance de gestión financiera, los que contendrán la información descrita en el artículo 16 de esta ley. Estos informes se presentarán con las formalidades a que se refiere el párrafo anterior dentro del mes inmediato posterior al periodo que corresponda la información.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Por los primeros tres trimestres del año, las entidades presentarán ante el Congreso sendos informes de avance de gestión financiera, los que contendrán la información descrita en el artículo 16 de esta ley. Estos informes se presentarán con las formalidades a que se refiere el párrafo anterior dentro del mes inmediato posterior al periodo que corresponda la información.
 
 Los periodos trimestrales son los siguientes:
 
@@ -269,7 +293,7 @@ II. Abril a junio;
 
 III. Julio a septiembre, y
 
-IV. Octubre a diciembre
+IV. (DEROGADA, P.O. 27 DE MAYO DE 2016)
 
 La Comisión deberá entregar a la Auditoría Superior las cuentas públicas y los informes de avance de gestión financiera en un plazo máximo de cinco días hábiles posteriores a su recepción por el Congreso.
 
@@ -329,11 +353,11 @@ Los manuales, guías, instructivos, formatos, reglas y demás instrumentos que e
 
 La revisión de los informes de avance de gestión financiera tendrá como objeto verificar que los recursos públicos se administren y ejerzan atendiendo a los principios de legalidad, eficacia, eficiencia, economía, transparencia y honradez, así como el cumplimiento de los objetivos, metas e indicadores fijados en los planes y programas aprobados.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 19.
 
-La Auditoría Superior en ejercicio de sus facultades de fiscalización, podrá realizar auditorías, visitas e inspecciones, respecto de la información contenida en los informes de avance de gestión financiera.
-
-En su caso, dichas revisiones deberán realizarse dentro de los cinco meses siguientes a la fecha de vencimiento del plazo para su presentación por las entidades ante el Congreso, para lo cual se elaborarán y publicarán informes especiales.
+La Auditoría Superior en ejercicio de sus facultades de fiscalización superior, podrá realizar auditorías, visitas e inspecciones, respecto de la información contenida en los informes de avance de gestión financiera. Para tal efecto, elaborará y publicará informes especiales.
 
 De la revisión de los informes de avance de gestión financiera, la Auditoría Superior podrá realizar observaciones y recomendaciones, en cuyo caso deberán notificarse a las entidades, con el propósito de que se integren al Informe Anual de Resultados.
 
@@ -347,11 +371,13 @@ Si de la revisión y fiscalización de los informes de avance de gestión financ
 
 ### CAPÍTULO III. DE LA FISCALIZACIÓN DE LAS CUENTAS PÚBLICAS
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 22.
 
-Las cuentas públicas serán fiscalizadas por la Auditoría Superior dentro de los nueve meses siguientes a la fecha de vencimiento del plazo para su presentación, debiendo elaborar para tal efecto un Informe Anual de Resultados.
+La Auditoría Superior elaborará un Informe Anual de Resultados con motivo de la fiscalización superior de las cuentas públicas.
 
-Con independencia de lo anterior, la Auditoría Superior podrá iniciar el proceso de fiscalización mediante visitas domiciliarias y/o revisiones de gabinete a partir del primer día hábil del año siguiente al cierre del ejercicio fiscal, en cuyo caso, la fiscalización deberá concluir antes de la fecha de presentación del Informe Anual de Resultados. Lo anterior, sin perjuicio de los principios de posterioridad y anualidad establecidos en esta ley.
+Sin perjuicio de fiscalizar en forma posterior las cuentas públicas, la Auditoría Superior podrá iniciar el proceso de fiscalización durante el ejercicio fiscal en curso mediante visitas domiciliarias y/o revisiones de gabinete.
 
 ###### Artículo 23.
 
@@ -377,9 +403,11 @@ En los procedimientos de fiscalización se deberán utilizar los sistemas de con
 
 El proceso de fiscalización superior deberá documentarse en su totalidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 28.
 
-La fiscalización superior de las cuentas públicas, así como de los informes de avance de gestión financiera, tiene por objeto determinar:
+La fiscalización superior tiene por objeto determinar:
 
 I. Si los programas y su ejecución se ajustan a los términos y montos aprobados;
 
@@ -389,7 +417,9 @@ III. El desempeño en el cumplimiento de los planes y programas, con base en los
 
 IV. Si los recursos provenientes de financiamiento se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos;
 
-V. El resultado de la gestión financiera de las entidades, en forma posterior a la conclusión de los procesos correspondientes;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. El resultado de la gestión financiera de las entidades;
 
 VI. Si la recaudación, administración, manejo, custodia, aplicación y ejercicio de todos los recursos y los actos, contratos, convenios, concesiones u operaciones que las entidades celebren o realicen, se ajustan a la legalidad y si no han causado daños o perjuicios a la hacienda pública o al patrimonio de las entidades;
 
@@ -585,15 +615,19 @@ I. Pliegos de observaciones;
 
 II. Pliegos de recomendaciones.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 47.
 
-Dentro de los sesenta días hábiles siguientes a la conclusión de la visita domiciliaria o la revisión de gabinete, la Auditoría Superior, con base en las disposiciones de esta ley formulará y notificará, en su caso, a las entidades los pliegos de observaciones y los pliegos de recomendaciones derivados de la revisión y fiscalización de las cuentas públicas y de los informes de avance de gestión financiera. En los pliegos de observaciones se cuantificará el importe de las observaciones detectadas que sean causa de responsabilidad.
+Dentro de los veinte días hábiles siguientes a la conclusión de la visita domiciliaria o la revisión de gabinete, la Auditoría Superior, con base en las disposiciones de esta ley formulará y notificará, en su caso, a las entidades los pliegos de observaciones y los pliegos de recomendaciones derivados de las auditorías practicadas. En los pliegos de observaciones se cuantificará el importe de las observaciones detectadas que sean causa de presunta responsabilidad.
 
 #### SECCIÓN PRIMERA. DEL PLIEGO DE OBSERVACIONES
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 48.
 
-Las entidades, dentro de un plazo improrrogable de 30 días hábiles deberán solventar los pliegos de observaciones ante la Auditoría Superior. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado o la documentación, argumentos o demás evidencia presentados no sean suficientes para solventar las observaciones, la Auditoría Superior promoverá las responsabilidades administrativas, iniciará los procedimientos de responsabilidades resarcitorias y presentará denuncias o querellas en contra de servidores públicos o particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con la hacienda pública o patrimonio de las entidades, así como denuncias de Juicio Político de conformidad con lo señalado en la Constitución Política del Estado de Coahuila de Zaragoza.
+Las entidades, dentro de un plazo improrrogable de 15 días hábiles deberán solventar los pliegos de observaciones ante la Auditoría Superior. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado o la documentación, argumentos o demás evidencia presentados no sean suficientes para solventar las observaciones, la Auditoría Superior promoverá las responsabilidades administrativas, iniciará los procedimientos de responsabilidades resarcitorias y presentará denuncias o querellas en contra de servidores públicos o particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con la hacienda pública o patrimonio de las entidades, así como denuncias de Juicio Político de conformidad con lo señalado en la Constitución Política del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 49.
 
@@ -601,9 +635,11 @@ Con base en la información y/o documentación a la que se refiere el artículo 
 
 #### SECCIÓN SEGUNDA. DEL PLIEGO DE RECOMENDACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 50.
 
-Las entidades, dentro de un plazo improrrogable de 30 días hábiles deberán atender los pliegos de recomendaciones ante la Auditoría Superior.
+Las entidades, dentro de un plazo improrrogable de 15 días hábiles deberán atender los pliegos de recomendaciones ante la Auditoría Superior.
 
 Cuando los pliegos de recomendaciones no sean atendidos dentro del plazo señalado o que la documentación, argumentos o demás evidencia presentados no sean suficientes para atender las recomendaciones, la Auditoría Superior promoverá las responsabilidades a que haya lugar.
 
@@ -673,9 +709,11 @@ La Auditoría Superior cuidará que en los informes individuales no se revele in
 
 ### CAPÍTULO III. DEL INFORME ANUAL DE RESULTADOS
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 62.
 
-La Auditoría Superior entregará al Congreso, por conducto de la Comisión, el Informe Anual de Resultados de la revisión de las cuentas públicas a más tardar el 15 de diciembre del año siguiente al ejercicio fiscalizado.
+La Auditoría Superior entregará al Congreso, por conducto de la Comisión, el Informe Anual de Resultados de la revisión de las cuentas públicas a más tardar el 30 de septiembre del año siguiente al ejercicio fiscalizado.
 
 ###### Artículo 63.
 
@@ -747,9 +785,11 @@ En las sesiones de la glosa podrá estar presente el Auditor Superior y/o los se
 
 Las justificaciones y aclaraciones que para tal efecto presenten los titulares de las entidades fiscalizadas deberán ser consideradas por la Comisión para la elaboración de su dictamen, sin que puedan pronunciarse en ningún caso sobre la solventación o fincamiento de responsabilidades.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 73.
 
-Concluidas las comparecencias de los titulares de las entidades fiscalizadas, la Comisión elaborará el dictamen correspondiente, con base en el análisis del contenido del Informe Anual de Resultados, en las conclusiones técnicas emitidas por la Auditoría Superior y, en su caso, en la glosa correspondiente.
+La Comisión elaborará el dictamen correspondiente con base en el análisis del contenido del Informe Anual de Resultados, en las conclusiones técnicas emitidas por la Auditoría Superior y, en su caso, en la glosa correspondiente.
 
 ###### Artículo 74.
 
@@ -775,9 +815,11 @@ El informe de seguimiento tendrá carácter público y deberá publicarse en la 
 
 ### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE REVISIÓN POR SITUACIONES EXCEPCIONALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 78.
 
-Sin perjuicio del principio de posterioridad, cuando se presenten denuncias debidamente fundadas o por otras circunstancias pueda suponerse la presunta recaudación, administración, manejo, custodia, aplicación o ejercicio irregular de recursos públicos o de su desvío, la Auditoría Superior podrá realizar revisiones, durante el ejercicio fiscal en curso, de conceptos específicos vinculados de manera directa a las denuncias o circunstancias, o requerir a las entidades para que a través de sus instancias de control competentes lleven a cabo dichas revisiones. El requerimiento deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño o perjuicio a la hacienda pública o al patrimonio de las entidades.
+Cuando se presenten denuncias debidamente fundadas o por otras circunstancias pueda suponerse la presunta recaudación, administración, manejo, custodia, aplicación o ejercicio irregular de recursos públicos o de su desvío, la Auditoría Superior podrá realizar revisiones, durante el ejercicio fiscal en curso, de conceptos específicos vinculados de manera directa a las denuncias o circunstancias, o requerir a las entidades para que a través de sus instancias de control competentes lleven a cabo dichas revisiones. El requerimiento deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño o perjuicio a la hacienda pública o al patrimonio de las entidades.
 
 Las denuncias a que se refiere el párrafo anterior deberán presentarse ante la Comisión, ésta determinará su procedencia y, en caso de ser legalmente procedente, las remitirá a la Auditoría Superior para que por sí o por conducto de las instancias de control competentes, inicie la revisión por situaciones excepcionales.
 
@@ -873,7 +915,9 @@ II. Los servidores públicos de las entidades que por actos u omisiones en ejerc
 
 III. Los servidores públicos de las entidades que no rindan sus informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por la Auditoría Superior y, en su caso, que no atiendan, sin justificación, las recomendaciones y acciones promovidas, y
 
-IV. Los servidores públicos de la Auditoría Superior, cuando al revisar las cuentas públicas y los informes de avance de gestión financiera no formulen las observaciones y/o recomendaciones sobre las situaciones irregulares que detecten o violen la reserva de información prevista en esta ley.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+IV. Los servidores públicos de la Auditoría Superior, cuando por motivo de las auditorías practicadas, no formulen las observaciones y/o recomendaciones sobre las situaciones irregulares que detecten o violen la reserva de información prevista en esta ley.
 
 Lo previsto en esta fracción también es aplicable a los servidores públicos de las instancias de control competentes de las entidades y a los profesionales de auditoría independientes habilitados por la Auditoría Superior para labores de fiscalización.
 
@@ -1005,9 +1049,11 @@ El registro al que se hace referencia en el párrafo anterior será actualizado 
 
 ### CAPÍTULO V. DE LAS RESPONSABILIDADES PENALES Y JUICIO POLÍTICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 107.
 
-Si de la revisión y fiscalización de las cuentas públicas y de los informes de avance de gestión financiera, la Auditoría Superior advierte conductas de servidores públicos que pudieran ser hechos constitutivos de delitos, presentará ante la autoridad competente las denuncias y/o querellas correspondientes y, en su caso, promoverá las acciones de responsabilidad relativas al Juicio Político y a la Declaratoria de Procedencia Penal en términos de la Constitución Política del Estado de Coahuila de Zaragoza.
+Si de la fiscalización superior la Auditoría Superior advierte conductas de servidores públicos que pudieran ser hechos constitutivos de delitos, presentará ante la autoridad competente las denuncias y/o querellas correspondientes y, en su caso, promoverá las acciones de responsabilidad relativas al Juicio Político y a la Declaratoria de Procedencia Penal en términos de la Constitución Política del Estado de Coahuila de Zaragoza.
 
 Para los efectos del párrafo anterior, la Auditoría Superior podrá coadyuvar con el Ministerio Público en la etapa de investigación y ante la autoridad judicial en los procesos penales correspondientes. En estos casos, el Ministerio Público recabará previamente la opinión de la Auditoría Superior, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
 
@@ -1173,9 +1219,11 @@ Para efectos de este artículo, las autoridades judiciales estatales y los cuerp
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 122.
 
-Si con motivo de la revisión y fiscalización superior de las cuentas públicas, así como de los informes de avance de gestión financiera, la Auditoría Superior advierte la comisión de infracciones a las disposiciones de esta ley, tendrá la facultad de imponer sanciones pecuniarias.
+Si con motivo de la fiscalización superior la Auditoría Superior advierte la comisión de infracciones a las disposiciones de esta ley, tendrá la facultad de imponer sanciones pecuniarias.
 
 Constituyen infracciones los actos u omisiones por parte de los servidores públicos de las entidades, particulares, personas físicas o morales que incumplan con las disposiciones de esta ley, así como el incumplimiento a los requerimientos formulados por la Auditoría Superior que emita para el cumplimiento de sus funciones.
 
@@ -1287,9 +1335,13 @@ V. Diseñar y ejecutar programas de capacitación y actualización, dirigidos a 
 
 VI. Establecer los criterios para la elaboración, integración, así como para la entrega y recepción de las cuentas públicas y de los informes de avance de gestión financiera de las entidades fiscalizadas, de conformidad con lo establecido en la Ley General de Contabilidad Gubernamental y demás leyes aplicables;
 
-VII. Establecer las normas, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización superior de las cuentas públicas y de los informes de avance de gestión financiera;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-VIII. Realizar auditorías de conformidad con las disposiciones establecidas en la presente ley, para la fiscalización superior de las cuentas públicas y de los informes de avance de gestión financiera;
+VII. Establecer las normas, procedimientos, métodos y sistemas necesarios para la fiscalización superior;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VIII. Realizar auditorías de conformidad con las disposiciones establecidas en la presente ley;
 
 IX. Verificar que las cuentas públicas y los informes de avance de gestión financiera sean presentados en los términos de esta ley, de conformidad con la Ley General de Contabilidad Gubernamental;
 
@@ -1309,7 +1361,9 @@ XVI. Requerir a las instancias de control competentes y a los profesionales de a
 
 XVII. Solicitar de las instancias de control competentes, en su caso, la información relacionada con el inicio, desahogo y resolución de los procedimientos de responsabilidad administrativa, y de las sanciones que se hubieren fincado;
 
-XVIII. Requerir por sí, o por conducto de las instancias de control competentes, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con las entidades y con cualquier persona física o moral, pública o privada, que haya ejercido recursos públicos, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XVIII. Requerir por sí, o por conducto de las instancias de control competentes, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con las entidades y con cualquier persona física o moral, pública o privada, que haya ejercido recursos públicos, la información relacionada con la documentación justificativa y comprobatoria de sus operaciones financieras, contables y presupuestarias;
 
 XIX. Solicitar y obtener toda la información necesaria para el cumplimiento de sus funciones;
 
@@ -1425,7 +1479,9 @@ XIII. Elaborar un informe anual de actividades y del estado que guardan las cuen
 
 XIV. Recibir de la Comisión los informes de avance de gestión financiera y las cuentas públicas para su revisión y fiscalización;
 
-XV. Entregar al Congreso por conducto de la Comisión, el Informe Anual de Resultados a más tardar el 15 de diciembre del año siguiente al ejercicio fiscalizado y hacer público dicho informe;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XV. Entregar al Congreso por conducto de la Comisión, el Informe Anual de Resultados a más tardar el 30 de septiembre del año siguiente al ejercicio fiscalizado y hacer público dicho informe;
 
 XVI. Entregar al Congreso por conducto de la Comisión, el informe de los resultados de las revisiones por situaciones excepcionales previstas en esta ley, y
 
@@ -1651,7 +1707,9 @@ I. Ser el conducto de coordinación y comunicación entre el Congreso y la Audit
 
 II. Recibir de la Auditoría Superior el Informe Anual de Resultados, así como los demás informes que ésta emita;
 
-III. Conocer los criterios, bases, circulares y normas de evaluación que emita la Auditoría Superior para la fiscalización de las cuentas públicas anuales de los entes fiscalizados;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. Conocer los criterios, bases, circulares y normas de evaluación que emita la Auditoría Superior para la fiscalización superior;
 
 IV. Recibir el programa anual de auditorías, visitas e inspecciones que para el debido cumplimiento de sus funciones y atribuciones, elabore la Auditoría Superior, así como sus modificaciones;
 
@@ -1852,3 +1910,19 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 447.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Las cuentas públicas correspondientes al ejercicio 2016 y posteriores, serán presentadas en el plazo que establece el presente Decreto, en el primer párrafo del artículo 11 de la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza.
+
+CUARTO.- El Informe Anual de Resultados correspondiente a la revisión de la cuenta pública 2015, se presentará en el plazo establecido en el artículo 62 de la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza, que se modifica con el presente Decreto.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, la Auditoría Superior del Estado podrá realizar las revisiones a que se refieren las reformas del párrafo segundo de la fracción I del artículo 2, 6 y 22 de la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza.
