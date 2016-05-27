@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2014-09-16"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -973,7 +973,9 @@ XXI. Hacer saber, al inicio del evento, a todas las personas que se encuentren d
 
 XXII. Imponer el uso de uniforme al personal que tenga laborando, estableciendo dos tipos de uniformes: uno para el personal de seguridad y otro para el resto de los empleados, en los establecimientos a que se refieren las fracciones II, IV, VI, VII, IX, XII, XVII, XVIII, XXVIII y XXIX, del artículo 4° de esta ley, y
 
-XXIII. Las demás que establezca esta ley, su reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXIII. Exhibir en lugar visible al público consumidor un cartel oficial emitido por la Secretaría de Salud que contenga la leyenda "El consumo de bebidas alcohólicas durante el embarazo puede causar problemas de salud físicos y mentales en el feto".
 
 Los dependientes y empleados de los establecimientos que suministren bebidas alcohólicas estarán obligados a observar el comportamiento de los consumidores y a negar el suministro a quienes se encuentren en evidente estado de ebriedad.
 
@@ -1333,10 +1335,16 @@ HOMERO RAMOS GLORIA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 16 DE SEPTIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
