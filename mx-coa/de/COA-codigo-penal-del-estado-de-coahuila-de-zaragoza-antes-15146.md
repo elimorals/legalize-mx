@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2016-03-04"
+last_updated: "2016-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3073,9 +3073,11 @@ III. El día en que se realizó la última conducta, si el delito es continuado.
 
 IV. El momento en que se realizó el último acto de ejecución o se omitió la acción debida, si se trata del delito de tentativa punible.
 
-V. En los delitos cuyo tipo penal contemple la afectación a un menor de edad, el término de prescripción de la acción penal empezará a correr al momento que el menor de edad que haya sido víctima, cumpla los dieciocho años.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-En los delitos de desaparición forzada de personas, la prescripción de la acción penal se iniciará a partir del día en el que aparezca la persona desaparecida, o se le encuentre viva o muerta.
+V. En los delitos cuyo tipo penal contemple la afectación a una persona menor de edad, el término de prescripción de la acción penal empezará a correr al momento que el menor de edad que haya sido víctima, cumpla los dieciocho años.
+
+Cuando se trate de delitos contra la libertad y seguridad sexual, si el sujeto pasivo es una persona menor de edad o no tuviere la capacidad de comprender el significado del hecho o resistirlo, la acción penal será imprescriptible.
 
 B. (Prescripción de la acción penal según el tipo de pena)
 
@@ -3130,6 +3132,10 @@ La prescripción de las penas que no tengan temporalidad, será de dos años, si
 Los términos se computarán a partir del día en que cause ejecutoria la sentencia o, en su caso, a partir del día en quede firme la resolución de liquidación de reparación del daño.
 
 Cuando el sentenciado ya hubiera extinguido una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Será imprescriptible la pena de prisión que se imponga por la comisión de delitos contra la libertad y seguridad sexual cuando el sujeto pasivo sea una persona menor de edad.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7006,3 +7012,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de un plazo de quince días los Órganos de Control Interno de la Administración Pública del Estado y de los Municipios en el ámbito de sus respectivas competencias, deberán expedir el Código de Conducta y en su caso, los formatos de Manifiesto de No Conflicto de Intereses de acuerdo con el presente Decreto.
 
 TERCERO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
+
+P.O. 27 DE MAYO DE 2016.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NO. 428.- SE MODIFICA LA FRACCIÓN V, DEL APARTADO A DEL ARTÍCULO 174; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 176 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto en entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
