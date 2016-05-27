@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2016-05-17"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -1627,9 +1627,9 @@ El Gobierno del Estado se coordinará con las autoridades sanitarias federales y
 
 I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de las personas adictas al alcohol etílico;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, mujeres embarazadas, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -1887,9 +1887,9 @@ b) Colocar en lugares visibles información sobre las enfermedades provocadas po
 
 c) Promover dentro de sus cortesías un vaso de agua natural purificada a la llegada de los comensales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-d) Ofertar alimentos saludables y bebidas de bajo contenido en azúcar y grasas tales como leche baja en grasa y sin saborizantes, jugos naturales, y agua purificada en presentación de trescientos mililitros o menor, dirigidas al consumo de niñas y niños.
+d) Colocar en lugares visibles en los establecimientos donde se expendan o consuman bebidas alcohólicas información en la que se advierta a los consumidores sobre los problemas de salud que se generan en el feto como consecuencia del consumo de alcohol durante el embarazo.
 
 Las instituciones públicas o privadas que tengan por objeto recibir la donación de alimentos y el suministro o distribución de los mismos con la finalidad de satisfacer las necesidades de nutrición y alimentación de los sectores vulnerables del Estado, quedan sujetas a control sanitario y, además de cumplir con lo establecido en esta Ley y demás disposiciones aplicables, deberán:
 
@@ -1900,6 +1900,8 @@ II. Contar con personal capacitado y equipo, que en su caso se requiera, para la
 III. Realizar la distribución de los alimentos oportunamente, a fin de evitar su contaminación, alteración o descomposición, y
 
 IV. Adoptar las medidas de control sanitario, que en su caso, les señale la autoridad competente.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 Se considerará responsable exclusivo del suministro de alimentos que por alguna circunstancia se encuentren en estado de descomposición y que por esta razón causen un daño a la salud, a la persona o institución que hubiere efectuado su distribución.
 
@@ -3250,5 +3252,11 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 17 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 416.- SE MODIFICA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 154 BIS 1 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
