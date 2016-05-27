@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2016-02-19"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1212,9 +1210,13 @@ Las leyes garantizarán la gratuidad de la información pública bajo el princip
 
 XXXIV. Revisar, por conducto de la entidad de fiscalización superior denominada Auditoría Superior del Estado, en los términos previstos en las leyes, la gestión financiera y las cuentas públicas de los Poderes del Estado, Municipios, organismos públicos autónomos, entidades paraestatales, paramunicipales, mandatos, fondos, fideicomisos y de cualquier entidad, persona física o moral, pública o privada que gestione recursos públicos, con objeto de conocer sus resultados y comprobar si se han ajustado a la ley de ingresos o presupuesto de ingresos, según corresponda y a su presupuesto de egresos y el cumplimiento de los objetivos contenidos en los planes y programas.
 
-Las cuentas públicas serán entregadas al Congreso a más tardar el último día del mes de febrero del año siguiente al ejercicio correspondiente.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-El Congreso concluirá la revisión de las cuentas públicas en un periodo máximo de 60 días naturales posteriores a la presentación del Informe Anual de Resultados que entregue la Auditoría Superior del Estado, emitiendo el dictamen correspondiente con base en el análisis de su contenido, en las conclusiones técnicas del mismo y, en su caso, en la glosa, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por ésta, seguirá su curso en términos de lo dispuesto en la ley de la materia.
+Las cuentas públicas serán entregadas al Congreso a más tardar el último día del mes de enero del año siguiente al ejercicio correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+El Congreso concluirá la revisión de las cuentas públicas en un periodo máximo de 60 días naturales contados a partir de la fecha en que reciba el Informe Anual de Resultados por parte de la Auditoría Superior del Estado, emitiendo el dictamen correspondiente con base en el análisis de su contenido, en las conclusiones técnicas del mismo y, en su caso, en la glosa, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior, seguirá su curso en términos de lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -1366,7 +1368,9 @@ De la Auditoría Superior del Estado.
 
 La Auditoría Superior del Estado es un órgano con autonomía técnica, presupuestaria y de gestión, con personalidad jurídica y patrimonio propio. La autonomía le permitirá el ejercicio de sus atribuciones y la decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-La función de fiscalización superior será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad, confiabilidad, transparencia y máxima publicidad de la información gubernamental.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+La función de fiscalización superior será ejercida conforme a los principios de legalidad, definitividad, imparcialidad, confiabilidad, transparencia y máxima publicidad de la información gubernamental.
 
 Los Poderes del Estado, municipios, organismos públicos autónomos y las demás entidades fiscalizadas facilitarán el auxilio que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley.
 
@@ -1378,7 +1382,11 @@ De igual forma, los servidores públicos, así como cualquier entidad, persona f
 
 La Auditoría Superior del Estado es competente para:
 
-I. Fiscalizar en forma posterior la gestión financiera y las cuentas públicas en los términos que dicta esta Constitución y las leyes;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+I. Fiscalizar en forma posterior las cuentas públicas y los informes de avance de gestión financiera de las entidades, en los términos que dicta esta Constitución y las leyes.
+
+No obstante lo anterior, la Auditoría Superior del Estado podrá iniciar el proceso de fiscalización durante el ejercicio fiscal en curso;
 
 II. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en la gestión financiera de las entidades fiscalizadas; y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a las formalidades establecidas en las leyes.
 
@@ -1386,15 +1394,19 @@ III. Determinar los daños y perjuicios que afecten a la hacienda pública o al 
 
 IV. Fincar directamente a los responsables, las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades.
 
-Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los planes y programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse a la administración de los recursos contenidos en la cuenta pública en revisión.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-Sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan a la revisión de los conceptos que estime pertinentes, durante el ejercicio en curso, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado, a través de la Comisión de Hacienda y Cuenta Pública y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los planes y programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse a la administración de los recursos contenidos en la cuenta pública en revisión.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Así mismo, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan a la revisión de los conceptos que estime pertinentes, durante el ejercicio en curso, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado, a través de la Comisión de Auditoría Gubernamental y Cuenta Pública y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 74-C.
 
-La Auditoría Superior del Estado entregará el Informe Anual de Resultados de la fiscalización de las cuentas públicas, en los términos que señale la ley, a más tardar el 15 de diciembre del año siguiente al ejercicio fiscalizado.
+La Auditoría Superior del Estado entregará el Informe Anual de Resultados de la fiscalización superior de las cuentas públicas, en los términos que señale la ley, a más tardar el 30 de septiembre del año siguiente al ejercicio fiscalizado.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
@@ -3714,7 +3726,7 @@ El Estado organizará el sistema penitenciario sobre la base del respeto a los d
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-El Gobernador del Estado, en los términos de los ordenamientos legales aplicables, podrá celebrar convenios para que los sentenciados por delitos del orden común extingan las penas en establecimientos penitenciarios del orden federal. Así mismo, podrá solicitar al Ejecutivo Federal, que en los tratados internacionales que se celebren para el efecto de acordar el traslado de reos de nacionalidad extranjera a su país de origen o residencia, se incluya a los sentenciados en el Estado, por delitos del orden común. Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad corno forma de reinserción social.
+El Gobernador del Estado, en los términos de los ordenamientos legales aplicables, podrá celebrar convenios para que los sentenciados por delitos del orden común extingan las penas en establecimientos penitenciarios del orden federal. Así mismo, podrá solicitar al Ejecutivo Federal, que en los tratados internacionales que se celebren para el efecto de acordar el traslado de reos de nacionalidad extranjera a su país de origen o residencia, se incluya a los sentenciados en el Estado, por delitos del orden común. Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5017,3 +5029,11 @@ P.O. 19 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 368.- SE REFORMA EL INCISO C), DEL NUMERAL 5, DEL ARTÍCULO 27, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 446.- SE REFORMA EL SEGUNDO Y TERCER PÁRRAFO DE LA FRACCIÓN XXXIV DEL ARTÍCULO 67; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 74-A; LA FRACCIÓN I Y LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 74-B; 74-C, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
