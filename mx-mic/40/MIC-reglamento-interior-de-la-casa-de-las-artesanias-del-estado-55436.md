@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-casa-de-las-artesanias-del-estado-554
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2007-05-02"
+last_updated: "2016-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LA CASA DE LAS ARTESANIAS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO INTERIOR DE LA CASA DE LAS ARTESANIAS DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO INTERIOR DE LA CASA DE LAS ARTESANÍAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL ARTESANO MICHOACANO, PUBLICADO EN EL P.O. DE 27 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial de Estado de Michoacán, el miércoles 2 de mayo de 2007.
 
@@ -334,3 +336,13 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DEL ARTESANO MICHOACANO”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior de la Casa de las Artesanías, tomo CXLI, NUM. 30, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 02 de mayo del 2007 y se dejan sin efecto todas aquellas disposiciones de carácter administrativo que se opongan al presente Reglamento.
