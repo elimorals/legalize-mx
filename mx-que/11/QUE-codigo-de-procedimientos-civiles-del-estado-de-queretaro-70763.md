@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2016-02-05"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -4049,6 +4049,14 @@ Hecha la declaración de la postura considerada preferente, el juez preguntará 
 
 Dentro de los tres días siguientes al fincamiento, dictará el juez auto aprobando o no el remate.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 598 Bis.
+
+Cuando el monto líquido de la condena fuere superior al valor de los bienes muebles o inmuebles, previamente valuados en los términos de este Código y del certificado de gravámenes, tratándose de inmuebles, no aparecieren otros acreedores, el ejecutante podrá optar por la adjudicación directa de los bienes que haya en su favor, al valor fijado en el avalúo.
+
+En el caso previsto en el párrafo anterior, al tratarse de adjudicación de inmuebles, el juez y el adjudicatario, sin más trámite, otorgarán la escritura correspondiente ante fedatario público y, previo a los trámites de ley, se pondrá en posesión material y jurídica al adjudicatario.
+
 ###### Artículo 599.
 
 Al declarar fincado el remate, mandará el juez que, dentro de los tres días siguientes, se otorgue a favor del comprador la escritura de adjudicación correspondiente, en los términos de su postura y que se le entreguen los bienes rematados.
@@ -4665,7 +4673,7 @@ III. Si se tratare del caso de la fracción III, el que cumple será condenado e
 
 ###### Artículo 688.
 
-En el caso de la fracción IV del artículo 684, no habrá lugar a la condena en costas.
+(DEROGADO, P.O. 27 DE MAYO DE 2016)
 
 ###### Artículo 689.
 
@@ -5768,6 +5776,12 @@ Contra el auto que otorgue la posesión y administración al cónyuge, no se adm
 ###### Artículo 874.
 
 En el caso del artículo anterior, la intervención del albacea se concretará a vigilar la administración del cónyuge y, en cualquier momento en que observe que no se hace convenientemente, dará cuenta al Tribunal, quien citará a ambos a una audiencia para dentro de los tres días siguientes y, dentro de otros tres, resolverá lo que proceda.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 874 Bis.
+
+Quien tenga el carácter de único y universal heredero no estará obligado a rendir cuentas de administración y podrá solicitar de manera directa la apertura de la cuarta sección, a fin de que se adjudiquen a su favor los bienes que conforman la masa hereditaria, en los términos y condiciones del presente Título.
 
 ###### Artículo 875.
 
@@ -6886,3 +6900,11 @@ P.O. 5 DE FEBRERO DE 2016.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA LOS ARTÍCULOS 598 BIS Y 874 BIS Y DEROGA EL ARTÍCULO 688 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
