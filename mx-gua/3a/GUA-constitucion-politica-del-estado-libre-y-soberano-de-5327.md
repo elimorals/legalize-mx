@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2016-05-20"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -447,17 +447,19 @@ d) Aquellos que estén intitulados a nombre de terceros, pero existan suficiente
 
 III.- Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 13.
 
-En el Estado operará, en los términos previstos por esta Constitución y por la ley, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les son reconocidos.
+En el Estado operará, en los términos previstos por esta Constitución y por la ley aplicable, un sistema integral de justicia para adolescentes que será aplicable a quienes se atribuya la realización de una conducta, o la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos humanos que reconocen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los Tratados Internacionales de los que el Estado mexicano sea parte para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les son reconocidos a los adolescentes.
 
-La procuración e impartición de justicia para adolescentes estará a cargo de instituciones, juzgados y, autoridades especializados. En los términos y condiciones que se contengan en la ley, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Los medios alternativos para la resolución de las controversias deberán observarse en la aplicación de este sistema, siempre que resulte procedente.
+La operación del sistema de justicia para adolescentes estará a cargo de instituciones, juzgados y autoridades especializados. En los términos y condiciones que se contengan en la ley, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente.
 
-Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social, lo cual estará a cargo de la institución que señale la ley de la materia. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social, lo cual estará a cargo de la institución que señale la ley de la materia.
 
-En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
+El proceso en materia de justicia para adolescentes será acusatorio y oral, en el que se observará la garantía del debido proceso legal, así como la independencia de las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales al hecho realizado y tendrán como fin la reinserción y la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
+
+El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión o participación en un hecho que la ley señale como delito.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3794,3 +3796,13 @@ Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al
 Inicio de vigencia para la armonización con el C.N.P.P.
 
 Artículo Segundo. La adición del párrafo tercero contenido en el decreto número 10 publicado en el Periódico Oficial de Gobierno del Estado de Guanajuato del 1 de diciembre de 2015, ahora párrafo segundo del artículo 6, del presente dictamen entrará en vigencia el 1 de junio de 2016.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 93, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La Ley de Justicia para Adolescentes del Estado de Guanajuato, continuará en vigor hasta que inicie la vigencia de la legislación nacional en materia de justicia para adolescentes que expida el Congreso de la Unión, acorde al artículo segundo transitorio, del Decreto por el que se reforman los párrafos cuarto y sexto del artículo 18 y el inciso c) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 2 de julio de 2015.
+
+Artículo Tercero. Los procedimientos de justicia para adolescentes y la ejecución de las medidas sancionadoras, iniciados con anterioridad a la entrada en vigor de la legislación nacional en materia de justicia para adolescentes serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos y ejecución de medidas sancionadoras.
