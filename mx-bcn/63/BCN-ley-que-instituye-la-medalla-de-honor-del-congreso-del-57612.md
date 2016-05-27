@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-instituye-la-medalla-de-honor-del-congreso-del-57612"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2012-10-26"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE INSTITUYE LA MEDALLA DE HONOR DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -35,29 +35,35 @@ DECRETO N° 434
 
 LEY QUE INSTITUYE LA MEDALLA DE HONOR DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA
 
-### CAPÍTULO PRIMERO. DSPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 27 DE MAYO DE 2016)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social que tiene por objeto crear y sentar las bases para otorgar la Medalla de Honor del Congreso del Estado Libre y Soberano de Baja California para premiar al ciudadano que se haya distinguido por prestar servicios de importancia a la Nación o al Estado, en el ámbito de la promoción de la cultura, por sus aportaciones a la ciencia, su contribución al arte o por meritos deportivos.
+La presente Ley es de orden público e interés social que tiene por objeto establecer las bases para otorgar la Medalla de Honor del Congreso del Estado de Baja California a efecto de premiar a la persona que se haya distinguido por prestar servicios de importancia a la Nación o al Estado, en el ámbito de la promoción de la cultura, por sus aportaciones a la ciencia, arte o por méritos deportivos, beneficiando directa o indirectamente al desarrollo de la Entidad.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 2.
 
-La medalla de Honor del Congreso del Estado Libre y Soberano de Baja California, tendrá las siguientes características: será de forma circular, del tamaño de un centenario, pendiente de una cinta de seda con los colores nacionales, para colocarse alrededor del cuello. En el anverso de la misma llevará grabado al centro el Escudo de Baja California y a su alrededor el espacio que abarque el semicírculo superior el texto; “Congreso del Estado de Baja California”, en el mismo anverso en espacio que abarque el semicírculo inferior se grabará en número romano la correspondiente legislatura otorgante, seguido dicho número romano de la palabra “Legislatura”. En el reverso, al centro y con letras destacadas se grabará la siguiente leyenda: “Medalla de Honor”, grabando debajo de la leyenda anterior el nombre de la persona a quien se honrará con su nombre en el mismo reverso y a su alrededor un espacio que abarque el semicírculo superior, se grabará la leyenda que indique la actividad o acciones por los cuales se otorga la medalla.
+La medalla de Honor que instituye el Congreso del Estado de Baja California, tendrá las siguientes características: será de forma circular, del tamaño de un centenario, pendiente de una cinta de seda con los colores nacionales, para colocarse alrededor del cuello. En el anverso de la misma llevará grabado al centro el Escudo de Baja California y a su alrededor el espacio que abarque el semicírculo superior el texto; "Congreso del Estado de Baja California", en el mismo anverso en espacio que abarque el semicírculo inferior se grabará en número romano la correspondiente legislatura otorgante, seguido dicho número romano de la palabra "Legislatura". En el reverso, al centro y con letras destacadas se grabará la siguiente leyenda: "Medalla de Honor", grabando debajo de la leyenda anterior el nombre de la persona a quien se honrará con su nombre en el mismo reverso y a su alrededor un espacio que abarque el semicírculo superior, se grabará la leyenda que indique la actividad o acciones por los cuales se otorga la medalla.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 3.
 
-El Congreso del Estado para la elección de la persona que habrá de ser condecorada emitirá durante los primeros cinco días hábiles del mes de julio, convocatoria a fin de que las instituciones educativas, culturales, artísticas, sociales y organizaciones representativas de los sectores sociales, económicos y políticos de la ciudadanía del Estado de Baja California, presenten sus propuestas, en las que deberán anexar una exposición del porque dicha propuesta, así como el logro y materia en que se haya destacado. A partir del día siguiente de la publicación de la convocatoria, los interesados deberán presentar las propuestas dentro de un plazo de siete días hábiles en Oficialía de Partes del Congreso del Estado.
+El Congreso del Estado para la elección de la persona que habrá de ser condecorada, emitirá convocatoria en el mes de julio dentro del tercer año constitucional de cada Legislatura, a fin de que las instituciones educativas, culturales, artísticas, sociales, deportivas y organizaciones representativas de los sectores sociales, económicos y políticos de la ciudadanía del Estado de Baja California, presenten sus propuestas conforme a las bases de la convocatoria que expida el Congreso del Estado, en las que deberán anexar una exposición del porque dicha propuesta, así como el logro y materia en que se haya destacado. A partir del día siguiente de la publicación de la convocatoria, los interesados deberán presentar las propuestas dentro de un plazo de siete días hábiles en Oficialía de Partes del Congreso del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACION DE LA COMISIÓN DE VALORACIÓN
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
-Para la valoración de las propuestas se creará una Comisión Especial por acuerdo de la Junta de Coordinación Política del Congreso del Estado, ésta designará a los Diputados integrantes.
+Para la valoración de las propuestas se creará una Comisión Especial por acuerdo de la Junta de Coordinación Política, donde se designará a los Diputados integrantes, previa aprobación del Pleno del Congreso del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -71,25 +77,31 @@ Tomarán sus decisiones por mayoría simple, el Presidente tendrá el voto de ca
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 6.
 
-Una vez recibidas las propuestas por la Comisión Especial, ésta procederá al análisis, estudio e investigación de los candidatos valorando su trayectoria, servicio y aportación a la Nación o al Estado.
+Una vez recibidas las propuestas por la Comisión Especial, ésta procederá al análisis, estudio e investigación de los candidatos valorando su trayectoria, servicio y aportación a la Nación o al Estado en el ámbito de la promoción de la cultura, por sus contribuciones a la ciencia, arte o por méritos deportivos, beneficiando directa o indirectamente al desarrollo de la Entidad.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+La Comisión Especial, a efecto de valorar las propuestas recibidas, procurará invitar a especialistas en los diferentes ámbitos señalados con anterioridad, para que emitan opinión de los candidatos.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 7.
 
-La Comisión Especial aprobará por mayoría absoluta de sus integrantes la propuesta del ciudadano que se haya hecho acreedor por sus méritos a la Medalla de Honor del Congreso del Estado de Baja California y la remitirá a la Presidencia del Congreso del Estado para presentarla en sesión solemne que para el efecto se desarrolle.
+La Comisión Especial aprobará por mayoría absoluta de sus integrantes la propuesta de la persona que se haya hecho acreedor por sus méritos a la Medalla de Honor del Congreso del Estado de Baja California y la remitirá a la Presidencia del Congreso del Estado para presentarla en sesión ordinaria que para el efecto se desarrolle.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 8.
 
-La medalla será otorgada a la persona electa en sesión solemne del Congreso, el 16 de agosto “Día del Constituyente”, con la asistencia de los representantes de los otros poderes del Gobierno del Estado de Baja California.
+La medalla será otorgada a la persona electa en sesión ordinaria durante el mes de Agosto dentro del tercer período ordinario de sesiones correspondiente al tercer año constitucional de cada Legislatura, donde se conmemore el "Día del Constituyente de Baja California". Para tal efecto, la presidencia de la Mesa Directiva del Congreso del Estado, podrá invitar a los Titulares de los otros Poderes del Gobierno, a los Titulares de los respectivos Ayuntamientos del Estado, a los Titulares de los Órganos Constitucionales Autónomos, a los Senadores y Diputados Federales por Baja California y en su caso a diversas organizaciones de la sociedad.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 9.
 
-La Medalla de Honor del Congreso del Estado se entregará anualmente.
+La Medalla de Honor que instituye el Congreso del Estado de Baja California, se entregará cada tres años.
 
 ## TRANSITORIOS
 
@@ -130,3 +142,11 @@ P.O. 26 DE OCTUBRE DE 2012.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Comisión Especial aprobará en la sesión siguiente a la de instalación a propuesta de su Presidente, las bases de la convocatoria pública en los términos del artículo 3 del presente ordenamiento, asimismo, establecerá el procedimiento de elección del ciudadano a que se hace referencia en el artículo primero de esta Ley.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 481 MEDIANTE EL CUAL SE APRUEBAN LA REFORMA AL CAPÍTULO PRIMERO PARA DENOMINARLO “DISPOSICIONES GENERALES”, ASÍ COMO LOS ARTÍCULOS 1, 2, 3, 4, 6, 7, 8 Y 9 DE LA LEY QUE INSTITUYE LA MEDALLA DE HONOR DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Por única ocasión, a partir de la entrada en vigor de la presente Iniciativa y hasta el término de la XXI Legislatura, la Junta de Coordinación Política presentará al Pleno una propuesta consensada en dicho Órgano de Gobierno, de la persona que consideran tiene los méritos suficientes para ser acreedor a la Medalla de Honor que instituye el Congreso del Estado en el marco de una Sesión Ordinaria o Extraordinaria de esta Soberanía
