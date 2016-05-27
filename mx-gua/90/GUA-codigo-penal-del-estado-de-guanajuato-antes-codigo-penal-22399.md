@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2016-05-20"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -179,9 +179,9 @@ VII.- Violación previsto por los artículos 180, 181, 182 y 184, así como en g
 
 VIII.- Abusos sexuales previsto en los párrafos segundo y tercero del artículo 187; y acoso y hostigamiento sexual previsto en el artículo 187-c.
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-IX.- Robo calificado previsto por el artículo 194 en relación con la fracción IV del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; así como el robo previsto en los artículos 191-b, 194-a, 194-b y 194-c, con independencia de la cuantía.
+IX.- Robo calificado previsto por el artículo 194 en relación con la fracción V del artículo 191; el previsto por las fracciones I y IV del artículo 194, con independencia de la cuantía del robo; el robo previsto en los artículos 191-b, 194-a, 194-b y 194-c, con independencia de la cuantía; así como el robo calificado en grado de tentativa previsto en el artículo 192, con relación al artículo 18.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -217,7 +217,9 @@ XVI.- Rebelión previsto por el artículo 241.
 
 XVII.- Terrorismo previsto por el artículo 245.
 
-XVIII.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XVIII.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción V del artículo 191.
 
 XIX.- Desaparición forzada de personas previsto por el artículo 262-a.
 
@@ -499,9 +501,11 @@ El trabajo en favor de la comunidad consiste en la prestación de servicios no r
 
 El trabajo en favor de la comunidad puede ser pena autónoma o sustitutiva de la prisión o de la multa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 43.
 
-Cuando sea pena autónoma el tribunal la aplicará dentro de los márgenes de la punibilidad asignada al tipo penal de que se trate, tomando en consideración los artículos 100 y 101.
+Cuando sea pena autónoma el tribunal la aplicará dentro de los márgenes de la punibilidad asignada al tipo penal de que se trate, tomando en consideración los artículos 100, 100-a y 101.
 
 La jornada de trabajo tendrá una duración de tres horas.
 
@@ -509,9 +513,11 @@ La jornada de trabajo tendrá una duración de tres horas.
 
 El trabajo en favor de la comunidad no podrá desarrollarse en condiciones que resulten degradantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 45.
 
-El trabajo en favor de la comunidad como sustitutivo de la pena de prisión podrá concederlo el tribunal al sentenciado, si la que se le fije no excede de cuatro años y cumple con los siguientes requisitos:
+El trabajo en favor de la comunidad como sustitutivo de la pena de prisión podrá concederlo el tribunal al sentenciado, si la que se le fije no excede de tres años y cumple con los siguientes requisitos:
 
 I.- Que haya pagado la reparación del daño y la multa.
 
@@ -519,7 +525,13 @@ II.- Que haya observado buena conducta desde tres años antes de la comisión de
 
 III.- Que tenga un modo honesto de vivir.
 
-Cada día de prisión será sustituido por una jornada de trabajo en favor de la comunidad.
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+IV.- Que sea la primera vez que comete un delito doloso o hayan transcurrido diez años de la condena por delito de igual forma de culpabilidad, o que no exceda de la segunda vez que comete un delito culposo en los últimos cinco años posteriores a la condena.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Cada día de prisión no compurgado se sustituye por una jornada de trabajo a favor de la comunidad.
 
 ###### Artículo 46.
 
@@ -539,13 +551,11 @@ II.- Salida de fin de semana con reclusión durante el resto de ésta.
 
 III.- Salida diurna con reclusión nocturna.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 48.
 
-El juez o el tribunal podrán conceder al sentenciado la semilibertad condicionada si la pena de prisión que se le fije no excede de cinco años y cumpla con los siguientes requisitos:
+El juez o el tribunal podrán conceder al sentenciado la semilibertad condicionada si la pena de prisión que se le fije no excede de cuatro años y cumpla con los siguientes requisitos:
 
 I.- Que haya pagado la reparación del daño y la multa.
 
@@ -558,6 +568,10 @@ II.- Que otorgue la caución que le sea fijada por el juez o el tribunal.
 III.- Que haya observado buena conducta desde tres años antes de la comisión del delito hasta la culminación del proceso; y
 
 IV.- Que tenga un modo honesto de vivir.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V.- Que sea la primera vez que comete un delito doloso o hayan transcurrido diez años de la condena por delito de igual forma de culpabilidad, o que no exceda de la segunda vez que comete un delito culposo en los últimos cinco años posteriores a la condena.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1151,11 +1165,11 @@ Cuando la condena a la reparación del daño haya nacido de la acción penal pú
 
 v.- Quien tenga derecho a la reparación del daño podrá optar por reclamarlo en la jurisdicción civil, sirviéndole de documento ejecutivo la resolución firme que condene al pago. En este caso cesará el procedimiento ejecutivo penal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+###### Artículo 99
 
-Artículo 99 w.- Cuando se cubra de manera íntegra el daño, tratándose de delitos patrimoniales que se persigan por querella, hasta antes de que exista sentencia ejecutoria, se extinguirá la acción penal siempre que el inculpado acredite un modo honesto de vivir.
+w.- Cuando se cubra de manera íntegra el daño, tratándose de delitos patrimoniales cometidos culposamente y que se persigan por querella, hasta antes de que exista sentencia ejecutoria, se extinguirá la acción penal siempre que el inculpado acredite un modo honesto de vivir.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1167,9 +1181,7 @@ y (sic).- Cuando la reparación del daño se cubra con cargo al Fondo para la At
 
 ### CAPÍTULO II. CONMUTACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ## TÍTULO CUARTO. DE LA APLICACIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -1189,27 +1201,35 @@ IV.- La posibilidad del agente de haber ajustado su conducta a las exigencias de
 
 V.- La forma y grado de intervención del agente en la comisión del delito.
 
-VI.- Las demás condiciones de los sujetos activo y pasivo, en la medida en que hayan influido en la realización del delito; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI.- La reincidencia y habitualidad;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-VII.- Los usos y costumbres del sentenciado, cuando éste pertenezca a un grupo étnico o pueblo indígena, y
+VII.- Las demás condiciones de los sujetos activo y pasivo, en la medida en que hayan influido en la realización del delito; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
 VIII.- Las demás condiciones específicas o personales del agente, siempre y cuando sean relevantes para determinar el grado de su culpabilidad y que serán tomadas en cuenta siempre que la ley no las considere específicamente como constitutivas del delito o modificadoras de la responsabilidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+###### Artículo 100
+
+a.- Hay reincidencia cuando quien haya sido condenado ejecutoriamente por tribunal nacional o extranjero por delito doloso de los previstos en el presente Código, en un periodo que no exceda de diez años sea condenado nuevamente por delito doloso. Cuando concurra esta circunstancia, el juez o el tribunal impondrá la sanción que corresponda al último delito cometido aumentada hasta en un tercio de su duración.
+
+Hay habitualidad cuando quien ha sido condenado por dos sentencias ejecutorias haya sido condenado nuevamente por un tercer delito doloso de los previstos en el presente Código, en un periodo que no exceda de quince años. Cuando concurra esta circunstancia, el juez o el tribunal impondrá la sanción que corresponda al último delito cometido aumentada desde un tercio hasta un medio de su duración.
+
+Cuando el sujeto activo se encuentre en los supuestos de reincidencia o de habitualidad no se le concederá la semilibertad, el trabajo a favor de la comunidad, la multa sustitutiva de la pena privativa de libertad, la conmutación de la pena, ni la condena condicional.
+
+No habrá reincidencia ni habitualidad cuando el condenado haya obtenido el reconocimiento judicial de inocencia y anulación de sentencia respecto de sentencia anterior a la comisión del nuevo delito; ni cuando se trate de delitos contra la seguridad del Estado, salvo el terrorismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 101.
 
-La calificación de la gravedad de la culpa queda al prudente arbitrio del juez o el tribunal, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo anterior y las especiales siguientes:
+La calificación de la gravedad de la culpa queda al prudente arbitrio del juez o el tribunal, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 100 del presente código y las especiales siguientes:
 
 I.- La mayor o menor facilidad de prever y evitar el daño que resultó.
 
@@ -1235,7 +1255,7 @@ Cuando por haber sufrido el sujeto activo consecuencias graves en su persona der
 
 ###### Artículo 103.
 
-Cuando se trate de sentenciados que cumplan con los requisitos que señala el artículo 45 de este Código, el juez o el tribunal podrán conmutar la pena de prisión, cuya duración no exceda de tres años, por multa, a razón de un día multa por cada día de prisión.
+Cuando se trate de sentenciados que cumplan con los requisitos que señala el artículo 45 de este Código, el juez o el tribunal podrán conmutar la pena de prisión, cuya duración no exceda de dos años, por multa, a razón de un día multa por cada día de prisión.
 
 ###### Artículo 104.
 
@@ -1247,7 +1267,9 @@ Si dentro del plazo máximo de tres meses el condenado no paga la multa y en su 
 
 La condena condicional suspende la ejecución de la sanción privativa de libertad impuesta, si concurren los siguientes requisitos:
 
-I.- Que no exceda de tres años.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+I.- Que no exceda de dos años;
 
 II.- Que sea la primera vez que comete un delito doloso o que no exceda de la segunda vez que comete un delito culposo.
 
@@ -1326,6 +1348,10 @@ La amnistía extingue la acción penal y las sanciones impuestas, a excepción d
 ###### Artículo 114.
 
 El perdón del sujeto pasivo extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público si éste no ha ejercido la acción penal, o ante el órgano jurisdiccional antes de que cause ejecutoria la sentencia.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+El perdón del sujeto pasivo tratándose de delitos dolosos sólo aplicará cuando sea la primera vez que se concede. Transcurrido el plazo de diez años contados a partir de su otorgamiento, el sujeto activo podrá de nueva cuenta acceder al perdón.
 
 El perdón otorgado por el sujeto pasivo es irrevocable.
 
@@ -1915,17 +1941,13 @@ Este delito se perseguirá por querella.
 
 Al particular que prive ilegalmente a otro de su libertad, se le impondrá de un año a cinco años de prisión y de diez a cincuenta días multa.
 
-Este delito se perseguirá por querella.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 170.
 
 Al particular que por cualquier medio coaccione a una persona para que le preste trabajos o servicios personales o le imponga condiciones de servidumbre, se le aplicará la sanción establecida en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-Este delito se perseguirá por querella.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2325,43 +2347,39 @@ Cuando se cometan con posterioridad al fallecimiento de la persona ofendida, só
 
 A quien se apodere de una cosa mueble y ajena, sin consentimiento de quien legítimamente pueda disponer de ella, se le aplicarán las siguientes sanciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+I.- De dos meses a seis meses de prisión y de cinco a diez días multa, cuando la cuantía del robo no exceda del equivalente a veinte veces el salario mínimo general vigente en el Estado en la fecha de su comisión.
 
-l.- De seis meses a dos años de prisión y de cinco a veinte días multa, cuando la cuantía del robo no exceda del equivalente a doscientas veces el salario mínimo general vigente en el Estado en la fecha de su comisión.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
-
-II.- De dos a cuatro años de prisión y de veinte a cuarenta días multa, cuando el robo exceda de doscientas veces el salario mínimo general vigente en el Estado, pero no de cuatrocientas.
+II.- De seis meses a dos años de prisión y de diez a veinte días multa, cuando la cuantía del robo exceda de veinte veces el salario mínimo general vigente en el Estado en la fecha de su comisión, pero no de doscientas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-III.- De tres a siete años de prisión y de treinta a setenta días multa, cuando la cuantía del robo exceda de cuatrocientas veces el salario mínimo general vigente en el Estado, pero no de ochocientas.
+III.- De dos a cuatro años de prisión y de veinte a cuarenta días multa, cuando el robo exceda de doscientas veces el salario mínimo general vigente en el Estado, pero no de cuatrocientas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-IV.- De cuatro a diez años de prisión y de cuarenta a cien días multa, cuando exceda de ochocientas veces el salario mínimo general vigente en el Estado.
+IV.- De tres a siete años de prisión y de treinta a setenta días multa, cuando la cuantía del robo exceda de cuatrocientas veces el salario mínimo general vigente en el Estado, pero no de ochocientas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+V.- De cuatro a diez años de prisión y de cuarenta a cien días multa, cuando exceda de ochocientas veces el salario mínimo general vigente en el Estado.
 
 Cuando se modifique la pena por variación del salario mínimo general vigente en el Estado, no se aplicará lo dispuesto en el artículo 4o. de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+Las sanciones señaladas en este artículo se reducirán en un tercio si se repara íntegramente el daño causado antes de dictarse sentencia ejecutoria.
 
-Las sanciones señaladas en este artículo se reducirán en un medio si se repara íntegramente el daño causado antes de dictarse sentencia ejecutoria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-En los casos de las fracciones I y II del presente artículo, este delito se perseguirá por querella, salvo que se trate de robo calificado.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2397,7 +2415,9 @@ VI.- Utilice uno o varios vehículos automotores robados o alterados de sus núm
 
 Para estimar la cuantía del robo se atenderá al valor comercial de la cosa al momento del hecho. Si éste no pudiera determinarse o si por la naturaleza de la cosa no fuere estimable en dinero, o aún siéndolo no se hubiere determinado su valor por cualquier causa, se aplicará de uno a cinco años de prisión y de diez a cincuenta días multa.
 
-En los casos de tentativa de robo, cuando no se hubiere determinado su monto, se aplicará de seis meses a tres años de prisión y de cinco a treinta días multa.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+En los casos de tentativa de robo, cuando no se hubiere determinado su monto, se aplicará de seis meses a tres años de prisión y de cinco a treinta días multa. Si la tentativa versa sobre robo con alguna de las calificativas previstas por el artículo 194, fracciones I, II, IV o VI, la punibilidad se aumentará de dos meses a dos años seis meses de prisión.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2515,21 +2535,9 @@ A quien se apodere de una cosa propia, si ésta se encuentra por cualquier títu
 
 Este delito se perseguirá por querella.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
-
 ###### Artículo 196.
 
-Cuando la cuantía de lo robado no exceda de veinte días de salario mínimo general vigente en el Estado en la fecha de los hechos y el activo repare voluntaria e íntegramente el daño, no se aplicará pena alguna.
-
-No se aplicará esta disposición cuando:
-
-I.- El activo haya sido ya exculpado en caso semejante.
-
-II.- Haya sido condenado por delito doloso.
-
-III.- Se trate de robo calificado.
+(DEROGADO, P.O. 27 DE MAYO DE 2016)
 
 ###### Artículo 197.
 
@@ -4226,3 +4234,11 @@ P.O. 20 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 92, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO Y DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 94, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si el presente decreto ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
