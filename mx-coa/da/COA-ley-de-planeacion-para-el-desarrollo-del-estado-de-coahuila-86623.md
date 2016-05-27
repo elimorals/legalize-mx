@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-para-el-desarrollo-del-estado-de-coahuila-866
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-09"
-last_updated: "2012-09-25"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 9 de marzo de 2012.
 
@@ -45,7 +45,9 @@ LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 La presente ley es de orden público e interés social y tiene por objeto establecer las bases para:
 
-I. La planeación democrática para el desarrollo equitativo, integral y sustentable del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+I. La planeación democrática para el desarrollo equitativo, igualitario, integral y sustentable del Estado de Coahuila de Zaragoza;
 
 II. La integración y funcionamiento del Sistema de Planeación Democrática para el Desarrollo del Estado de Coahuila de Zaragoza y sus municipios;
 
@@ -55,9 +57,11 @@ IV. La promoción de la participación democrática y responsable de la sociedad
 
 V. El alcance de los objetivos y prioridades de los planes y programas a que se refiere esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 2.
 
-La planeación democrática para el desarrollo equitativo, integral y sustentable debe concebirse como el proceso de ordenación racional y sistemática de acciones de la administración pública estatal y municipal, que tiene como finalidad el crecimiento económico sostenido y el progreso social, de conformidad con las normas, principios y objetivos que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y la presente ley establecen. Se basará en los siguientes principios:
+La planeación democrática para el desarrollo equitativo, igualitario, integral y sustentable debe concebirse como el proceso de ordenación racional y sistemática de acciones de la administración pública estatal y municipal, que tiene como finalidad el crecimiento económico sostenido y el progreso social, de conformidad con las normas, principios y objetivos que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y la presente ley establecen. Se basará en los siguientes principios:
 
 I. La preservación y el perfeccionamiento del régimen democrático, republicano, federal y representativo que la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Coahuila de Zaragoza establecen;
 
@@ -67,7 +71,9 @@ III. La consolidación de la democracia como sistema de vida, fundado en el cons
 
 IV. El impulso a la participación corresponsable del ciudadano y los sectores sociales en la planeación y ejecución de las actividades del gobierno;
 
-V. La atención de las necesidades básicas de la población y la mejoría de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo individual y colectivo de la población;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. El principio de igualdad sustantiva y la atención de necesidades básicas de la población y la mejoría de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo individual y colectivo de la población;
 
 VI. El respeto irrestricto a los derechos humanos y a la diversidad, así como la eliminación de cualquier tipo de discriminación;
 
@@ -75,7 +81,9 @@ VII. El fortalecimiento del federalismo y del municipio libre, para lograr un de
 
 VIII. El equilibrio de los factores de la producción, que eleve la competitividad y la productividad del estado, proteja y promueva el empleo en un marco de estabilidad económica y social;
 
-IX. La perspectiva de género para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover la superación de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+IX. La perspectiva de género para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover la superación de las mujeres mediante el acceso equitativo e igualitario a los bienes, recursos y beneficios del desarrollo;
 
 X. La adopción del enfoque de desarrollo integral y sustentable en la planeación y programación de las actividades de la administración pública estatal y municipal;
 
@@ -115,13 +123,25 @@ XII. Sistema de Planeación: el Sistema de Planeación Democrática para el Desa
 
 XIII. Titular del Ejecutivo: El Titular del Poder Ejecutivo del Estado de Coahuila de Zaragoza.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Las dependencias y entidades de la administración pública estatal y municipal, para la realización de las acciones a las que se refieren (sic) el presente artículo de conformidad a su competencia, incorporarán la perspectiva de género y los principios de igualdad entre mujeres y hombres y no discriminación. Para esto, deberán incluir estadísticas, indicadores, encuestas y cualquier otra información cualitativa o cuantitativa en sus instrumentos de planeación estratégica referidos en la presente Ley, para reconocer las necesidades y requerimientos de las mujeres y los hombres en el Estado.
+
 ###### Artículo 4.
 
 El titular del ejecutivo conducirá la planeación estatal del desarrollo, con la participación coordinada, concertada y democrática de los municipios, grupos sociales y particulares, de conformidad con lo dispuesto en la presente ley, y en congruencia con los objetivos y prioridades de la planeación nacional del desarrollo.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 5.
 
-Los municipios, a través de sus ayuntamientos, conducirán sus procesos de planeación con base en las disposiciones legales y en el ejercicio pleno de sus atribuciones, manteniendo congruencia con los principios, objetivos y prioridades del Plan Estatal.
+Los Municipios, a través de sus Ayuntamientos, conducirán sus procesos de planeación con base en la transversalización de la perspectiva de género, en las disposiciones legales y en el ejercicio pleno de sus atribuciones, manteniendo congruencia con los principios, objetivos y prioridades del Plan Estatal.
+
+Las dependencias de la administración pública centralizada y entidades de la administración pública paraestatal deberán planear y conducir sus actividades con perspectiva de género y con sujeción a los objetivos y prioridades de la planeación para el desarrollo en el cumplimiento de los objetivos de la presente Ley.
+
+Para esto, deberán incorporar el análisis de diagnósticos e indicadores sobre la situación de las mujeres y su posición en sus planes de desarrollo y otros instrumentos de la planeación estratégica.
+
+Las personas titulares de la (sic) Dependencias y Entidades, dictarán las medidas necesarias para dar cumplimiento a lo establecido en el presente artículo.
 
 ###### Artículo 6.
 
@@ -207,19 +227,29 @@ El COPLADEC tendrá, además de lo dispuesto en la ley de su creación, las sigu
 
 I. Acordar el establecimiento de subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como sus instancias auxiliares;
 
-II. Promover la participación de los habitantes y de los grupos y organizaciones sociales y privados en los distintos subcomités, a fin de incorporar sus aspiraciones y demandas a las estrategias del desarrollo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+II. Promover la participación de las mujeres, hombres, grupos sociales, organizaciones de la sociedad civil y entes privados, en el cumplimiento de los objetivos de los distintos subcomités, en igualdad de oportunidades y no discriminación, a fin de incorporar sus necesidades, intereses, aspiraciones y demandas a las estrategias del desarrollo;
 
 III. Fomentar la suscripción de convenios de coordinación y colaboración entre los gobiernos federal, estatal y municipales, así como con los ciudadanos, grupos y organizaciones sociales y privados, a fin de dar congruencia a los planes de desarrollo y los programas que de ellos deriven;
 
 IV. Coordinar con los COPLADEM y comités de planeación o equivalentes de otras entidades federativas, para apoyar la definición y ejecución de programas para el desarrollo de regiones interestatales;
 
-V. Coordinar con los gobierno municipales, así como con los titulares de las representaciones o delegaciones federales en el estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución y beneficio social en el marco de la planeación del desarrollo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. Coordinar con los gobiernos municipales, así como con las personas titulares de las representaciones o delegaciones federales en el Estado, para verificar que los programas, proyectos y acciones que se desarrollan en la entidad, garanticen su efectiva ejecución, beneficio social y la incorporación de la perspectiva de género en el marco de la planeación del desarrollo;
 
 VI. Registrar, previo a su ejecución, los programas derivados del Plan Estatal, así como los proyectos que de éstos de (sic) deriven, sus montos y, en los casos en los que proceda, la relación de los beneficiarios;
 
 VII. Elaborar su reglamento interior, y
 
-VIII. Las demás previstas en esta ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VIII.- Impulsar la participación ciudadana de las mujeres y liderazgos de las mujeres, tomando en cuenta la situación de pobreza, marginación, lejanía a las zonas rurales, embarazo, lengua o cualquier otra condición que limite esta participación; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+IX. Las demás previstas en esta ley y otras disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DE LOS COMITÉS DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL Y REGIONAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -231,17 +261,43 @@ I. Llevar a cabo el proceso de planeación para el desarrollo municipal y la coo
 
 II. Elaborar los programas que deriven de los planes municipales;
 
-III. Elaborar su reglamento interior, y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. Elaborar su reglamento interior y establecer la participación igualitaria de mujeres y hombres en su integración y funcionamiento; y
 
 IV. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
-Los acuerdos de los COPLADEM deberán hacerse del conocimiento de las unidades administrativas o servidores públicos del municipio de que se trate, para que procedan a su cumplimiento.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Los acuerdos de los COPLADEM deberán hacerse del conocimiento de las unidades administrativas o personas al servicio público del municipio de que se trate, para que procedan a su cumplimiento.
 
 ###### Artículo 15.
 
 El Código Municipal del Estado de Coahuila de Zaragoza y la reglamentación municipal correspondiente establecerán las formas de integración, organización y funcionamiento de los COPLADEM y el proceso de planeación del desarrollo a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control, evaluación y actualización del Plan Municipal de Desarrollo y los programas que de él se deriven.
 
 Todo lo relativo al Plan Municipal de Desarrollo se regirá por lo establecido en el Código Municipal del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, y deberá observar en lo conducente lo previsto en el Plan Estatal y demás programas que de éste se deriven.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 15 Bis.
+
+El Plan Municipal de Desarrollo que corresponda a cada municipio, de conformidad al Código Municipal para el Estado de Coahuila de Zaragoza y a esta Ley, definirán estrategias para la transversalización de la perspectiva de género en las cuales se considerarán:
+
+I. La cultura institucional para la igualdad laboral entre mujeres y hombres en cada dependencia;
+
+II. Reducción de las brechas de género;
+
+III. Promover el adelanto de las mujeres en los diversos ámbitos del desarrollo;
+
+IV. Establecer acciones para la atención integral a mujeres víctimas de violencia;
+
+V. Promover la participación de las mujeres en la construcción de las acciones afirmativas y políticas;
+
+VI. Atender las necesidades de mujeres embarazadas, madres solteras, indígenas, con discapacidad, víctimas de violencia y/o del delito, niñas, y otra condición que limite el desarrollo; y
+
+VII. Las demás contenidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza y en la Ley para la Igualdad entre Mujeres y Hombres en el Estado de Coahuila de Zaragoza.
+
+Para lograr lo anterior, el Ayuntamiento podrá realizar convenios, acuerdos o acciones de coordinación con la Secretaría de las Mujeres.
 
 ###### Artículo 16.
 
@@ -305,7 +361,9 @@ I. Coordinar los trabajos relativos a la elaboración del Plan Estatal y sus pro
 
 II. Apoyar y promover, en coordinación con las instancias correspondientes, las tareas de planeación y desarrollo institucional que emprendan los municipios;
 
-III. Proponer políticas públicas para el mejor desempeño de la administración pública estatal en materia de población, bienestar social y desempeño de la economía;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. Proponer políticas públicas para el mejor desempeño de la administración pública estatal en materia de población, bienestar social, desarrollo humano y desempeño de la economía;
 
 IV. Promover que los planes y programas de las dependencias y entidades de la administración pública estatal y municipal incluyan directrices de perspectiva de género;
 
@@ -320,6 +378,20 @@ VII (SIC). Vigilar que los programas operativos anuales guarden congruencia con 
 VIII. Integrar y dar seguimiento a los proyectos estratégicos definidos en el Plan Estatal, y
 
 IX. Las demás previstas en esta ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2016)</small>
+
+X. Promover la realización de indicadores de seguimiento y evaluación de las políticas con perspectiva de género para observar el impacto diferenciado de la planeación en mujeres y hombres y;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN IX]</small>
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XI. Las demás previstas en esta ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Para la incorporación de la perspectiva de género, la Secretaría Técnica y de Planeación, podrá realizar acuerdos de coordinación con la Secretaría de las Mujeres.
 
 #### SECCIÓN CUARTA. DE LAS ATRIBUCIONES DE OTRAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y MUNICIPAL
 
@@ -338,6 +410,10 @@ IV. Determinar y sancionar a los funcionarios públicos por las responsabilidade
 V. Verificar, en coordinación con las instancias correspondientes, el cumplimiento del Plan Estatal y los planes municipales de desarrollo, así como de los programas que de éstos se deriven, y
 
 VI. Las demás previstas en esta ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 20 bis.- La Secretaría de las Mujeres, deberá promover los acuerdos generados en materia de planeación en el Sistema Estatal de Acceso a las Mujeres a una Vida Libre de Violencia y el Sistema Estatal para la Igualdad entre Mujeres y Hombres a todas las dependencias y entidades, para que puedan ser incorporados en la planeación para el desarrollo.
 
 ###### Artículo 21.
 
@@ -417,11 +493,17 @@ VIII. Las demás que le señale esta ley y otras disposiciones aplicables.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 25.
 
-El COPEEC organizará foros de consulta para la participación permanente de las organizaciones representativas de los sectores obrero, popular, campesino, empresarial, de instituciones académicas, profesionales, de investigación y demás agrupaciones sociales para la elaboración, actualización y ejecución de los planes y programas a que se refiere esta Ley.
+El COPEEC organizará foros de consulta para la participación permanente de las organizaciones representativas de los sectores obrero, popular, campesino, empresarial, de instituciones académicas, profesionales, de investigación, de mujeres y demás agrupaciones sociales para la elaboración, actualización y ejecución de los planes y programas a que se refiere esta Ley.
 
 La organización y funcionamiento, así como la periodicidad, términos y demás formalidades a que se sujetarán la participación y consulta para la planeación del desarrollo, se sujetará a lo previsto en las disposiciones aplicables.
+
+La participación de las mujeres deberá promoverse atendiendo a las desigualdades existentes entre mujeres y hombres y a la situación de vulnerabilidad, pobreza o marginación en la que se encuentren.
+
+El COPEEC deberá incluir en la organización de los foros de consulta acciones para sensibilizar a la sociedad en la importancia de la igualdad entre mujeres y hombres, no discriminación y adelanto de las mujeres, para el desarrollo del Estado.
 
 ## TÍTULO TERCERO. DEL PROCESO DE PLANEACIÓN
 
@@ -447,7 +529,9 @@ V. Evaluación: la valoración periódica de efectividad y costo de las polític
 
 El Plan Estatal deberá publicarse en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza dentro del plazo de seis meses, contados a partir del inicio del período constitucional del titular del ejecutivo. En su elaboración deberán considerarse las opiniones y aportaciones de los diversos grupos de la sociedad. Su vigencia no excederá del período constitucional que corresponda, sin perjuicio de que contenga consideraciones y proyecciones de mediano y largo plazo.
 
-El Plan Estatal precisará los objetivos, estrategias y prioridades del desarrollo equitativo, integral y sustentable, establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social del estado y de los municipios, considerando los factores ambientales que se relacionen a éstas, y regirá el contenido de los programas que se generen en el Sistema Estatal.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+El Plan Estatal precisará los objetivos, estrategias y prioridades del desarrollo equitativo, igualitario, integral y sustentable, así como la transversalización de la perspectiva de género, y establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social del Estado y de los municipios, considerando los factores ambientales que se relacionen a éstas, y regirá el contenido de los programas que se generen en el Sistema Estatal.
 
 ###### Artículo 28.
 
@@ -493,7 +577,13 @@ Los proyectos de presupuesto de egresos del estado, la iniciativa de Ley de Ingr
 
 La Secretaría de Fiscalización y Rendición de Cuentas, en coordinación con la Secretaría Técnica y de Planeación, establecerá la metodología, procedimientos y mecanismos para el adecuado control, seguimiento, revisión y evaluación de la ejecución de los programas, el uso y destino de los recursos asignados a ellos y la vigilancia de su cumplimiento.
 
-Para el control y evaluación del proceso de planeación estatal, se elaborarán informes de evaluación en los que deberán considerarse los indicadores del Sistema de Información para la Planeación del Desarrollo, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Para el control y evaluación del proceso de planeación estatal, se elaborarán informes de evaluación desagregados por sexo, y señalarán el impacto diferenciado de las políticas en mujeres y hombres, en los que deberán considerarse los indicadores del Sistema de Información para la Planeación del Desarrollo, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+El Sistema Estatal de Acceso a las Mujeres a una Vida Libre de Violencia y el Sistema Estatal para la Igualdad entre Mujeres y Hombres podrán realizar, en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, los lineamientos, manuales, guías para la evaluación del impacto diferenciado de las políticas en mujeres y hombres, para el cumplimiento de lo establecido en este Artículo.
 
 ###### Artículo 35.
 
@@ -654,3 +744,11 @@ P.O. 25 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 427.- SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+P.O. 27 DE MAYO DE 2016.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
