@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2015-11-13"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -169,13 +169,21 @@ XV. Las que le confiera esta ley y demás disposiciones aplicables.
 
 Los municipios, en la esfera de su competencia, tendrán las siguientes atribuciones:
 
-I. Fomentar y promover la cultura física y la práctica de las actividades deportivas entre los habitantes de su municipio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-II. Crear una unidad administrativa responsable y especializada en materia de cultura física y deporte;
+I. Fomentar y promover la cultura física y la práctica de las actividades deportivas entre los habitantes de su municipio; y celebrar convenios con instituciones públicas, privadas, sociales y recreativas, con objeto de patrocinar la realización de eventos deportivos y la conformación de ligas y equipos de las distintas disciplinas físicas más aceptadas por los habitantes de cada municipio.
 
-III. Crear una previsión presupuestal anual que permita ejecutar los programas en materia de cultura física y deporte;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-IV. Participar en la planeación de la infraestructura del deporte y presentar a las autoridades estatales, las recomendaciones que consideren pertinentes;
+II. Crear una unidad administrativa responsable y especializada en materia de cultura física y deporte, cuya titularidad, cualquiera sea la denominación de ésta, deberá recaer en una persona de amplia y comprobada experiencia en la promoción y difusión del deporte.
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. Asignar una partida presupuestal anual que permita ejecutar los programas en materia de cultura física y deporte; la cual deberá quedar debidamente especificada en el presupuesto de egresos del ejercicio fiscal que corresponda.
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+IV. Participar en la planeación de la infraestructura del deporte y presentar a las autoridades estatales, las recomendaciones que consideren pertinentes. Asimismo, administrar las instalaciones deportivas de su competencia y promover la participación de la comunidad, para que, de forma organizada, subsidiaria y corresponsable pueda participar en la construcción, ampliación, remodelación y mantenimiento de las instalaciones deportivas; quedando establecidas las reglas y bases de esta participación en el reglamento que corresponda.
 
 V. Convocar a la sociedad en general y, en particular, a los deportistas y sus asociaciones, a formar parte del Sistema Municipal del Deporte;
 
@@ -187,7 +195,13 @@ VIII. Crear el Registro Municipal del Deporte (Deportistas, Entrenadores, Clubes
 
 IX. Procurar la Prevención del uso de sustancias y métodos prohibidos en eventos y en la práctica deportiva.
 
-X. Las demás que le confiera esta ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+X. Impulsar el desarrollo de las actividades deportivas en las zonas rurales y en los sectores marginados de acuerdo a sus planes de desarrollo.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XI. Las demás que le confiera esta ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -830,3 +844,11 @@ P.O. 13 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 192.- SE MODIFICA EL NOMBRE DEL CAPÍTULO VI DEL TÍTULO V, Y SE ADICIONAN LOS ARTÍCULOS 76 BIS 1 Y 76 BIS 2 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA DEL PERIÓDICO OFICIAL EL 17 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 426.- SE MODIFICA EL CONTENIDO DE LAS FRACCIONES I, II, III, IV, Y X, RECORRIENDO EL CONTENIDO ACTUAL DE LA FRACCIÓN X A LA XI QUE SE CREA, DEL ARTÍCULO 8 DE LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
