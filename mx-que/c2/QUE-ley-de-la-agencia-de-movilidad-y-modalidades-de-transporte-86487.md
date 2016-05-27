@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2015-07-24"
+last_updated: "2016-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -41,9 +41,11 @@ LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Primero. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público e interés social. Tiene por objeto establecer las bases, programas y lineamientos generales para planear, ordenar, regular, administrar, supervisar, dar seguridad y protección a la movilidad de las personas y, garantizar el desarrollo del transporte público y especializado en el Estado de Querétaro, bajo criterios generales de movilidad, sustentabilidad, racionalidad, uso adecuado y mayor aprovechamiento de la infraestructura vial, que atiendan fundamentalmente a las necesidades actuales y futuras de desplazamiento, en relación con los centros de población, polos de desarrollo industrial o comercial y de cualquier otro que lo requiera, a fin de elevar la calidad de vida de las personas.
+La presente ley es de orden público e interés social. Tiene por objeto establecer las bases, programas y lineamientos generales para planear, ordenar, regular, administrar, supervisar, dar seguridad y protección a la movilidad de las personas y, garantizar el desarrollo del transporte público, y especializado en el Estado de Querétaro, bajo criterios generales de movilidad, sustentabilidad, racionalidad, economía, conveniencia, tiempo, comodidad, seguridad, uso adecuado y mayor aprovechamiento de la infraestructura vial, que atiendan fundamentalmente a las necesidades actuales y futuras de desplazamiento, en relación con los centros de población, polos de desarrollo industrial o comercial y de cualquier otro que lo requiera, a fin de elevar la calidad de vida de las personas.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -53,17 +55,19 @@ Se entiende por movilidad, la circulación de personas y bienes en un espacio ge
 
 La Ley de Procedimientos Administrativos del Estado de Querétaro se aplicará supletoriamente al presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 2.
 
-Se considera de utilidad pública e interés general la prestación del servicio público y especializado de transporte siendo prioritarias las actividades del Estado orientadas a la planeación, administración, operación y conservación de la infraestructura que para ello se requiera.
+Se considera de utilidad pública e interés general la prestación del servicio público y especializado de transporte, siendo prioritarias las actividades del Estado orientadas a la planeación, administración, regulación, operación y conservación de la infraestructura que para ello se requiera.
 
 ###### Artículo 3.
 
 Para los efectos de este ordenamiento, se entiende por:
 
-I. Área Geográfica. Región determinada por la autoridad de transporte, en la que se operan los servicios público y especial de transporte, por diversos concesionarios;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+I. Área Geográfica. Región determinada por la autoridad de transporte, en la que se operan los servicios público y especializado de transporte, por diversos concesionarios y permisionarios;
 
 II. Autobús. Vehículo automotor de seis o más llantas, de estructura integral o convencional con capacidad de veintitrés o más pasajeros sentados;
 
@@ -73,51 +77,85 @@ IV. Bases de encierro. Lugar destinado para el depósito y guarda de los vehícu
 
 V. Base de ruta. Lugar de inicio o terminación de una ruta de transporte público colectivo destinado al despacho y estacionamiento temporal de vehículos;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-VI. Concesión. Acto jurídico-administrativo mediante el cual el Ejecutivo del Estado, por sí o a través del Instituto Queretano del Transporte, otorga a una persona física o jurídica colectiva la facultad de prestar el servicio público en cualquiera de sus modalidades o especial de transporte;
+VI. Concesión. Acto jurídico-administrativo mediante el cual el Ejecutivo del Estado, por sí o a través del Instituto Queretano del Transporte, otorga a una persona física o moral la facultad de prestar el servicio público en cualquiera de sus modalidades de transporte;
 
-VII. Concesionario. La persona física o jurídica colectiva titular de una concesión;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VII. Concesionario. La persona física o moral titular de una concesión;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 VIII. Instituto. Instituto Queretano del Transporte;
 
-IX. Comprobante de pago del servicio. Es aquel que expide el concesionario por los servicios de transporte proporcionados al usuario;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-X. (DEROGADA, P.O. 5 DE JULIO DE 2013)
+IX. Comprobante de pago del servicio. Es aquel que expide el concesionario o permisionario por los servicios de transporte proporcionados al usuario;
 
-XI. Parada. Zona de detención de los vehículos en las que se permiten las maniobras de ascenso-descenso de usuarios del transporte público colectivo;
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+X. Parada. Zona de detención de los vehículos en las que se permiten las maniobras de ascenso-descenso de usuarios del transporte público colectivo;
 
-XII. Permiso temporal. Es la autorización temporal que el Instituto otorga a una persona física o jurídica colectiva para satisfacer una necesidad inmediata o emergente de servicio público de transporte colectivo o mixto;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XIII. Permisionario. La persona física o jurídica colectiva titular de un permiso temporal;
+XI. Permiso. Es la autorización que el Instituto otorga a una persona física o moral para prestar el servicio especializado de transporte en cualquiera de sus modalidades.
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XII. Permiso temporal. Es la autorización temporal que el Instituto otorga a una persona física o moral para satisfacer una necesidad inmediata o emergente de servicio público de transporte colectivo o mixto;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XIII. Permisionario. La persona física o moral titular de un permiso o permiso temporal de transporte;
 
 XIV. Ruta. El recorrido que un vehículo destinado al servicio público de transporte colectivo, debe realizar en las vías de comunicación dentro del territorio del Estado, entre los puntos extremos e intermedios que fije la autoridad competente;
 
-XV. (DEROGADA, P.O. 5 DE JULIO DE 2013)
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XVI. Sistema. Sistema de rutas integradas del transporte público colectivo de la Zona Metropolitana de Querétaro;
+XV. Sistema. Sistema de rutas integradas del transporte público colectivo de las Zonas Metropolitanas del Estado de Querétaro;
 
-XVII. Sistema de Recaudo. Sistema de recaudo centralizado del transporte público colectivo de la Zona Metropolitana de Querétaro;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XVIII. Sistema de Monitoreo. Sistema de Monitoreo de la Operación del transporte público colectivo de la Zona Metropolitana de Querétaro;
+XVI. Sistema de Recaudo. Sistema de recaudo centralizado del transporte público colectivo de las Zonas Metropolitanas del Estado de Querétaro;
 
-XIX. Sitio. Espacio físico ubicado en propiedad privada, o en la vía pública, autorizado por la autoridad competente, destinado al estacionamiento temporal de vehículos del servicio público de taxi y especial de carga para el ofrecimiento de sus servicios;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XX. Terminal. Espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de todas la (sic) actividades asociadas a la prestación de los servicios de transporte;
+XVII. Sistema de Monitoreo. Sistema de Monitoreo de la Operación del transporte público colectivo de las Zonas Metropolitanas del Estado de Querétaro;
 
-XXI. Vehículo. Automotor autorizado a prestar el servicio de transporte en los términos de la presente ley;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XXII. Vía pública. Espacio terrestre de dominio público o uso común destinado al tránsito y transporte de personas o vehículos, dentro de la jurisdicción del Estado o de un Municipio, y
+XVIII. Sitio. Espacio físico ubicado en propiedad privada, o en la vía pública, autorizado por la autoridad competente, destinado al estacionamiento temporal de vehículos del servicio público de taxi y especializado de carga para el ofrecimiento de sus servicios;
 
-XXIII. Zona Metropolitana de Querétaro. Es la comprendida en la región conurbada que forman los municipios de Querétaro, Corregidora, El Marqués y Huimilpan.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XIX. Sujeto económico. Las personas físicas o morales que prestan el servicio de transporte público en sus diversas modalidades;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XX. Terminal. Espacio físico exclusivo que cuenta con instalaciones e infraestructura técnica y logística que permite la operación de manera integral de toda actividad asociada a la prestación de los servicios de transporte;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXI. Vehículo. Automotor autorizado a prestar el servicio de transporte en los términos de la presente Ley;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXII. Vía pública. Espacio terrestre de dominio público o uso común destinado al tránsito y transporte de personas o vehículos, dentro de la jurisdicción del Estado o de un Municipio;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXIII. Empresas especializadas por medio de aplicaciones tecnológicas, o empresas especializadas o empresas de redes de transporte: Son aquellas que medien un acuerdo o contrato entre los Prestadores del Servicio Especializado de Transporte Privado de Pasajeros y sus usuarios, a través de aplicaciones tecnológicas en teléfonos inteligentes. La empresa presta sus servicios por sí misma o por alguna de sus empresas filiales o subsidiarias; estas son propietarias o licenciatarios de conformidad a las leyes de la materia. Estas empresas son solidarias y mancomunadas entre los Prestadores del Servicio de Transporte Privado de Pasajeros -socios o asociados de las empresas- y sus usuarios; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXIV. Socios o Asociados de las Empresas Especializadas por medio de aplicaciones tecnológicas. Son aquellas personas que tienen una relación con las empresas especializadas, a través del uso de la plataforma y en su calidad de Prestadores del Servicio de Transporte Privado de Pasajeros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 4.
 
-El transporte público y especial es un servicio encaminado a garantizar la movilidad de personas u objetos en condiciones de libertad de acceso, calidad y seguridad, sujeto a una contraprestación económica, el cual se sujetará a los siguientes principios rectores:
+El transporte público y especializado es un servicio encaminado a garantizar la movilidad de personas u objetos en condiciones de libertad de acceso, calidad y seguridad, sujeto a una contraprestación económica, el cual se sujetará a los siguientes principios rectores:
 
 I. Acceso al transporte. Que el usuario del servicio pueda transportarse en condiciones de comodidad, calidad y seguridad;
 
@@ -141,17 +179,23 @@ VI. Destino Preferente. Uso preferente de las vialidades, carreteras, caminos e 
 
 VII. Accesibilidad. Implementación de medidas tendientes a asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás personas, a los servicios público y especializado de transporte, e infraestructura afecta a dichos servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 5.
 
-Las bases y lineamientos generales que rijan el servicio público y especial de transporte, deben tener como criterios, los siguientes:
+Las bases y lineamientos generales que rijan los servicios de transporte que se regulan en este ordenamiento, deben tener como criterios, los siguientes:
 
 I. La preeminencia del interés general sobre el particular;
 
 II. La procuración de calidad, accesibilidad, seguridad, regularidad, rentabilidad, sustentabilidad, cobertura y eficiencia;
 
-III. La competitividad entre los sujetos económicos que participen en el servicio, bajo el control y con la concurrencia del Estado como ente rector de la planeación, control, regulación y vigilancia del transporte y sus actividades conexas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-IV. La compatibilidad de los sistemas de transporte con el desarrollo urbano armónico y la preservación, conservación y restauración del medio ambiente, y
+III. La competitividad en igualdad de circunstancias entre los sujetos económicos que participen en el servicio, bajo el control y con la concurrencia del Estado como ente rector de la planeación, control, regulación y vigilancia del transporte y sus actividades conexas;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+IV. La compatibilidad de los sistemas de transporte con el desarrollo urbano armónico, las necesidades de la población, la seguridad, calidad de vida, la preservación, conservación y restauración del medio ambiente; y
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -185,9 +229,17 @@ II. Establecer las bases de coordinación y administración del servicio de tran
 
 III. Promover el equilibrio de los sectores público y privado tendientes a la estabilidad económica y social;
 
-IV. Establecer los mecanismos para la participación de la sociedad civil organizada en la planeación del servicio, y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-V. Establecer los mecanismos de coordinación entre las autoridades del Estado y los Municipios que inciden en el servicio de transporte.
+IV. Establecer los mecanismos para la participación de la sociedad civil organizada en la planeación del servicio;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. Establecer los mecanismos de coordinación entre las autoridades del Estado y los Municipios que inciden en el servicio de transporte; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VI. Establecer los lineamientos que permitan aplicar los aspectos de innovación en materia de transporte, a través de la regulación de nuevas tecnologías, así como visualizar la seguridad y necesidades de los usuarios del servicio de transporte.
 
 El Programa Estatal de Transporte y sus proyectos específicos deberán revisarse y actualizarse conforme a la necesidad social, siempre dentro de los límites del propio programa.
 
@@ -255,9 +307,9 @@ II. Dictar la política de transporte en el Estado;
 
 III. Determinar y aplicar las medidas necesarias para el cumplimiento de esta ley y sus reglamentos;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-IV. Otorgar y revocar las concesiones para la prestación de los servicios público y especial de transporte, facultad que podrá ejercer a través del Instituto;
+IV. Otorgar y revocar las concesiones y permisos, según corresponda, para la prestación de los servicios público y especializado de transporte, facultades que podrá ejercer a través del Instituto, sin necesidad de Acuerdo Delegatorio;
 
 V. Rescatar las concesiones del servicio de transporte;
 
@@ -323,17 +375,25 @@ Se crea el Instituto Queretano del Transporte, como organismo descentralizado, c
 
 El Instituto, tiene las siguientes atribuciones:
 
-I. Vigilar que los servicios de transporte público y especializado se presten con apego a esta Ley y demás disposiciones legales y administrativas aplicables, incluidas la inspección de vehículos e instalaciones destinadas a los servicios de transporte y el cumplimiento de las condiciones establecidas en las concesiones;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+I. Vigilar que los servicios de transporte público y especializado se presten con apego a esta Ley y demás disposiciones legales y administrativas aplicables, incluidas la inspección de vehículos e instalaciones destinadas a los servicios de transporte y el cumplimiento de las condiciones establecidas en las concesiones, y permisos que se expidan para tal efecto;
 
 II. Elaborar el Programa Estatal de Transporte y proponerlo al Gobernador del Estado, para su aprobación;
 
 III. Diseñar, planear, aprobar, regular, conducir, administrar, ejecutar, vigilar y evaluar los instrumentos y acciones implementadas al tenor del Programa Estatal de Transporte;
 
-IV. Determinar las características de la infraestructura que se requiera para la correcta operación de los servicios de transporte público y especial, así como promover su construcción, operación, conservación, mejoramiento y vigilancia;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-V. Elaborar y expedir las normas técnicas, reglas, manuales de especificaciones y de operación de los servicios de transporte público y especial;
+IV. Determinar las características de la infraestructura que se requiera para la correcta operación de los servicios de transporte público y especializado, así como promover su construcción, operación, conservación, mejoramiento y vigilancia;
 
-VI. Determinar las características técnicas y de operación de los servicios de transporte público y especial;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. Elaborar y expedir las normas técnicas, reglas, manuales de especificaciones y de operación de los servicios de transporte público y especializado;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VI. Determinar las características técnicas y de operación de los servicios de transporte público y especializado;
 
 VII. Determinar y aplicar las medidas necesarias para optimizar los servicios de transporte;
 
@@ -347,21 +407,29 @@ XI. Aprobar el establecimiento o reestructuración de rutas del servicio públic
 
 XII. Declarar la necesidad de servicio público de transporte y emitir la convocatoria correspondiente;
 
-XIII. Otorgar, suspender y revocar las concesiones para la prestación de los servicios de transporte en términos de lo previsto en esta Ley;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XIII. Otorgar, suspender y revocar las concesiones y permisos para la prestación de los servicios de transporte en términos de lo previsto en esta Ley;
 
 XIV. Proponer al Gobernador del Estado el rescate de concesiones, así como la intervención de los servicios de transporte;
 
-XV. Evaluar, dictaminar y aprobar la modificación de las concesiones de servicios de transporte;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XV. Evaluar, dictaminar y aprobar la modificación de las concesiones y permisos de servicios de transporte;
 
 XVI. Autorizar la transmisión de concesiones de servicios de transporte en los términos de la presente Ley;
 
-XVII. Actuar como árbitro y mediador en los conflictos que se susciten entre concesionarios, cuando los involucrados lo soliciten o se afecte la prestación de los servicios;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XVII. Actuar como árbitro y mediador en los conflictos que se susciten entre concesionarios o entre permisionarios o que se generen entre ambos, cuando los involucrados lo soliciten o se afecte la prestación de los servicios;
 
 XVIII. Auxiliar técnicamente a los concesionarios del servicio público de transporte colectivo, en la planeación e implementación de sus estrategias;
 
 XIX. Otorgar permisos temporales para garantizar la prestación de los servicios de transporte, así como revocarlos;
 
-XX. Determinar y autorizar las tarifas del servicio público de transporte y especial de transporte en sus modalidades escolar, carga y para personas con discapacidad;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XX. Determinar y autorizar las tarifas del servicio de transporte público y especializado de transporte en sus distintas modalidades;
 
 XXI. Elaborar y aprobar el establecimiento de sistemas de recaudo y de monitoreo del servicio público de transporte;
 
@@ -377,15 +445,37 @@ XXVI. Calificar las infracciones e imponer las sanciones que correspondan a quie
 
 XXVII. Coadyuvar a solicitud de las dependencias federales, estatales y municipales, en la elaboración de planes, programas y estudios en materia de tránsito, vialidades, desarrollo urbano y medio ambiente en el Estado de Querétaro;
 
-XXVIII. Promover la utilización de fuentes alternativas de energía para el transporte público, así como la aplicación de tecnologías que minimicen los efectos perjudiciales al ambiente;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XXIX. Procurar el desarrollo tecnológico de los servicios de transporte en el Estado;
+XXVIII. Vigilar e incentivar la utilización de fuentes alternativas de energía para los servicios de transporte, así como la aplicación de tecnologías que minimicen los efectos perjudiciales al medio ambiente;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXIX. Procurar la innovación y aplicación del desarrollo tecnológico en los servicios de transporte en el Estado;
 
 XXX. Realizar estudios, análisis, investigaciones y evaluaciones técnicas para el desarrollo y mejoramiento de los servicios de transporte en el Estado;
 
-XXXI. Coadyuvar con las autoridades competentes, en la investigación, enjuiciamiento e imposición de las sanciones penales por los delitos cometidos por los propietarios, operadores y usuarios de los vehículos del sistema, así como de los concesionarios y proveedores de los servicios; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XXXII. Las demás atribuciones que le confiera esta Ley y demás disposiciones legales y administrativas aplicables.
+XXXI. Coadyuvar con las autoridades competentes, en la investigación, enjuiciamiento e imposición de las sanciones penales por los delitos cometidos por los propietarios, operadores y usuarios de los vehículos del sistema, así como de los concesionarios y permisionarios de los servicios;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXXII. Publicar semestralmente indicadores y estadísticas en materia de servicio de transporte público y especializado;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXXIII. Establecer los lineamientos que permitan aplicar los aspectos de innovación en materia de transporte, a través de la implementación de nuevas tecnologías, así como visualizar la seguridad, economía, conveniencia, tiempo, comodidad, seguridad y otras necesidades de los consumidores;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXXIV. Vigilar que se lleve a cabo la inspección y revisión de los vehículos afectos al servicio de transporte público en sus diversas modalidades, con el objeto de verificar que cumplan con las condiciones físicas y mecánicas necesarias para prestar el servicio.
+
+La inspección y revisión podrá ser realizada por los talleres que para tal efecto autorice el Instituto, mismos en los que podrá llevar a cabo las inspecciones que estime pertinentes en esta materia; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXXV. Las demás atribuciones que le confiera esta Ley y demás disposiciones legales y administrativas aplicables.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -479,9 +569,13 @@ El Consejo tendrá las siguientes atribuciones:
 
 I. Aprobar, a propuesta del Director General, la adquisición de bienes muebles e inmuebles en términos de la legislación aplicable, encaminados al cumplimiento del objeto del Instituto;
 
-II. Solicitar al Director General información relativa a los asuntos que sean de su competencia en materia de servicios de transporte público y especial;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-III. Supervisar la administración de los recursos e ingresos del Instituto y los bienes que se incorporen a su patrimonio y promover los proyectos que tiendan a mejorar en lo general, la prestación de los servicios de transporte público y especial;
+II. Solicitar al Director General información relativa a los asuntos que sean de su competencia en materia de servicios de transporte público y especializado;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. Supervisar la administración de los recursos e ingresos del Instituto y los bienes que se incorporen a su patrimonio y promover los proyectos que tiendan a mejorar la prestación de los servicios de transporte público y especializado;
 
 IV. Resolver las quejas y denuncias en contra del Director General, en relación con actos u omisiones cometidos en el desempeño de sus funciones; y
 
@@ -547,7 +641,9 @@ IV. Delegar cualquiera de sus atribuciones en otros servidores públicos del Ins
 
 V. Elaborar los manuales de organización y procedimientos, así como las propuestas de reforma a dichos manuales y presentarlos al Consejo, para su aprobación;
 
-VI. Operar un registro de los principales indicadores y estadísticas en materia de servicios de transporte público y especial que permita integrar una base de datos confiable que propicie y haga eficaz, la toma de decisiones del Instituto;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VI. Operar un registro de los principales indicadores y estadísticas en materia de servicios de transporte público y especializado que permita integrar una base de datos confiable que propicie y haga eficaz la toma de decisiones del Instituto;
 
 VII. Conceder licencias al personal del Instituto, de conformidad con la legislación aplicable;
 
@@ -558,6 +654,10 @@ IX. Proporcionar la información que le solicite el Órgano Interno de Control d
 X. Proporcionar la información, los datos o la cooperación técnica que le sean requeridas por otras dependencias o entidades de la Administración Pública Estatal; y
 
 XI. Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XII. Aplicar las disposiciones de la presente Ley, así como de aquellas relacionadas con el servicio de trasporte y demás servicios relacionados con el mismo.
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -595,9 +695,11 @@ Bajo los principios de la planeación democrática, se constituirá el Consejo d
 
 ### Capítulo Primero. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 30.
 
-La prestación del servicio de transporte corresponde originariamente al Ejecutivo del Estado, quien lo podrá prestar de manera directa o a través de concesiones otorgadas a personas físicas o morales constituidas con sujeción a las leyes del país.
+La prestación del servicio de transporte corresponde originariamente al Poder Ejecutivo del Estado, quien lo podrá prestar de manera directa o a través de concesiones o permisos otorgados a personas físicas o morales constituidas con sujeción a las leyes del país.
 
 El Ejecutivo del Estado, para la más eficaz prestación del servicio de transporte podrá celebrar convenios de coordinación o asociación con los Gobiernos Federal, Estatales o municipales en los términos de las leyes respectivas.
 
@@ -607,13 +709,17 @@ Para efectos de esta ley, el servicio de transporte se clasifica en:
 
 I. Servicio público. El que se presta de manera continua, uniforme, regular y permanente en las vías públicas del estado y de los municipios, para satisfacer una necesidad colectiva mediante la utilización de vehículos de motor y por el cual los usuarios pagan una tarifa previamente aprobada por la autoridad competente, y
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-II. Servicio especial o especializado. El que se presta con el objeto de satisfacer una necesidad específica de determinado sector de la población, por el que el usuario paga al prestador de servicio, una contraprestación dentro del rango de tarifas, que en su caso autorice la autoridad competente.
+II. Servicio especializado. El que se presta con el objeto de satisfacer una necesidad específica de determinado sector de la población, por el que el usuario paga al prestador de servicio una contraprestación dentro del rango de tarifas que, en su caso, autorice la autoridad competente.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-La prestación de los servicios de transporte es de interés público y para su prestación se requiere del otorgamiento de una concesión en los términos establecidos por esta Ley.
+La prestación de los servicios de transporte es de interés público y para desarrollar el servicio público y especializado se requiere del otorgamiento de una concesión o permiso en los términos establecidos por esta Ley. Los propietarios de vehículos particulares, bajo ninguna circunstancia realizarán la prestación de los servicios sin contar con la concesión o permiso vigente.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Los prestadores de servicio de transporte relacionados con telecomunicaciones deberán cumplir los requisitos derivados de las disposiciones jurídicas aplicables en esa materia y serán responsables de todo compromiso derivado de la prestación del servicio.
 
 ###### Artículo 32.
 
@@ -623,13 +729,17 @@ I. Servicio colectivo. Es aquel destinado al traslado colectivo de personas dent
 
 II. Servicio de taxi. Es aquel destinado al traslado de personas dentro del territorio de un Municipio determinado, sin encontrarse sujeto a horario e itinerario fijo pero sí a las especificaciones técnicas y condiciones de operación que establece la presente ley y las normas reglamentarias que de ésta emanen;
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+En esta modalidad, el prestador del servicio podrá proporcionarlo y ofrecer su contratación mediante el uso de aplicaciones electrónicas y tecnológicas, a efecto de permitir al usuario acceder al servicio por los mismos medios; realizar el pago con tarjeta de crédito o débito y la facturación.
+
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 III. Servicio mixto. Es el destinado al traslado de personas y mercancías en un mismo vehículo, sin encontrarse sujeto a horario e itinerario, con los volúmenes de espacio interior que para unos y otros determinen las normas reglamentarias que de esta Ley se deriven;
 
 IV. Servicio de salvamento y arrastre. Es aquel destinado al traslado de un vehículo de un lugar a otro sobre sus propias ruedas o sobre plataforma de grúa, por la vía pública, incluyendo las maniobras necesarias e indispensables para engancharlo o cargarlo y asegurarlo a la grúa, y
 
-V. Servicio de depósito y guarda de vehículos. Es el destinado al encierro de vehículos en un local cerrado para la segura custodia de los vehículos accidentados, retenidos, abandonados, descompuestos e infraccionados en vía pública y remitidos por la autoridad competente; (sic)
+V. Servicio de depósito y guarda de vehículos. Es el destinado al encierro de vehículos en un local cerrado para la segura custodia de los vehículos accidentados, retenidos, abandonados, descompuestos e infraccionados en vía pública y remitidos por la autoridad competente;
 
 ###### Artículo 33.
 
@@ -641,35 +751,75 @@ II. Suburbano. Es aquel se presta de las comunidades rurales hacia la cabecera m
 
 III. Intermunicipal. Es aquel que se presta entre puntos diversos ubicados en los caminos y carreteras que atraviesan dos o más municipios del mismo Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 34.
 
-Son modalidades del servicio especial de transporte, las siguientes:
+Son modalidades del servicio especializado de transporte, las siguientes:
 
 I. Escolar. Es el destinado al traslado de personas de sus domicilios a sus centros de estudio y viceversa dentro de los límites del territorio estatal; se presta o es contratado por instituciones educativas, asociaciones de padres de familia o particulares, para el transporte de estudiantes, investigadores o comunidades académicas;
 
 II. De personal. Es el destinado al traslado de personas de sus domicilios a sus centros de trabajo y viceversa dentro de los límites del territorio estatal, o cuando su destino de transportación se relacione con fines laborales; se presta o es contratado por corporaciones, industrias, comercios, instituciones, asociaciones o grupos de particulares, para el traslado regular de sus trabajadores, agremiados, asociados o integrantes;
 
-III. Turístico. Es el destinado al traslado de personas exclusivamente hacia aquellos lugares situados dentro de los límites del territorio estatal, que revisten un interés histórico, arqueológico, cultural, arquitectónico o recreativo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-IV. Para personas con discapacidad. Es el destinado al traslado de personas que padecen alguna discapacidad de las establecidas en la ley para la Integración al Desarrollo Social de la (sic) Personas con Discapacidad del Estado de Querétaro y demás disposiciones legales aplicables, y
+III. Servicio de transporte privado de pasajeros. Es aquel destinado al traslado de personas de un punto a otro, que se contrata únicamente a través de aplicaciones tecnológicas en teléfonos inteligentes con sistemas de posicionamiento global y plataformas tecnológicas, que permiten conectar a usuarios que demandan dicho servicio con empresas especializadas en materia de transporte de personas que cuentan con la misma tecnología.
 
-V. De carga. Es el destinado al traslado de mercancías dentro de los límites del territorio estatal, sujetándose a las condiciones de operación que establece la presente ley y sus normas reglamentarias, así como a la autoridad correspondiente.
+A través de estas tecnologías los usuarios del servicio suscriben un acuerdo o contrato de adhesión electrónico, el cual deberá estar publicado en la plataforma del prestador del servicio, conteniendo el aviso de privacidad; con posibilidad de seleccionar libremente el tipo de vehículo, acceso y realizar el pago con tarjeta de crédito o débito, así como la facturación; quedando prohibido prestar más de un servicio a la vez;
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+IV. Turístico. Es el destinado al traslado de personas exclusivamente hacia aquellos lugares situados dentro de los límites de territorio estatal, que revisten un interés histórico, arqueológico, cultural, arquitectónico o recreativo;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. Para personas con discapacidad. Es el destinado al traslado de personas que padecen alguna discapacidad de las establecidas en la Ley de la materia en cuestión de personas con capacidades diferentes del Estado de Querétaro y demás disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VI. De carga. Es el destinado al traslado de mercancías dentro de los límites del territorio estatal, sujetándose a las condiciones de operación que establece la presente Ley y sus normas reglamentarias, así como a las autoridades correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 35.
 
-Quienes presten el servicio de transporte público quedan sujetos al cumplimiento de los manuales de especificaciones técnicas y a las condiciones de operación que determine el Instituto.
+Quienes presten el servicio de transporte en cualquiera de sus modalidades quedan sujetos al cumplimiento de la presente ley, sus reglamentos, acuerdos, circulares, manuales de especificaciones técnicas, así como a las condiciones de operación que determine el Instituto.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 36.
 
-Los vehículos para prestar el servicio público y especializado de transporte tendrán una vida útil de diez años como máximo, con excepción del servicio especializado de carga, arrastre y salvamento que será de máximo quince años, previo cumplimiento de las condiciones y requisitos que para ello determinen las normas reglamentarias que de esta ley se deriven.
+Los vehículos para prestar el servicio público y especializado de transporte tendrán una vida útil de conformidad con la siguiente tabla:
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+MODALIDAD VIDA ÚTIL MÁXIMA
 
-El Instituto podrá autorizar la ampliación de la vida útil por periodos de un año siempre que de la revisión física y mecánica se desprenda que se encuentra en condiciones para continuar prestando el servicio. La vida útil de un vehículo no podrá prorrogarse por más de dos periodos.
+Servicio colectivo 10 años
 
-Los concesionarios deberán iniciar la prestación del servicio con vehículos del modelo correspondiente al año en que se otorgue la concesión correspondiente.
+Servicio de taxi 10 años
+
+Servicio mixto 10 años
+
+Servicio de salvamento y arrastre 15 años
+
+Escolar 10 años
+
+De personal 10 años
+
+Turístico 10 años
+
+Para personas con discapacidad 10 años
+
+De carga 10 años
+
+Servicio de transporte privado de 4 años
+
+pasajeros
+
+Si derivado de la revisión física y mecánica se determina que el vehículo no se encuentra en condiciones para continuar prestando el servicio, el Instituto podrá negar el trámite del refrendo.
+
+El Instituto podrá autorizar la ampliación de la vida útil hasta por tres periodos de un año, siempre que de la revisión física y mecánica se desprenda que se encuentra en condiciones para continuar prestando el servicio y que su nivel de emisión de contaminantes a la atmósfera se ubica dentro de los límites permitidos.
+
+Los concesionarios o permisionarios deberán iniciar la prestación del servicio con vehículos del modelo correspondiente al año en que se otorgue la concesión o permiso correspondiente.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -681,27 +831,31 @@ Los vehículos del servicio de transporte deberán cumplir con las especificacio
 
 Todos los vehículos del servicio de transporte deberán contar con póliza de seguro vigente para proteger y asegurar la vida, integridad física y equipaje de los usuarios del servicio, del conductor, así como de terceros que pudieran verse afectados con motivo de accidentes en donde intervienen vehículos del servicio de transporte.
 
-La póliza de seguro cubrirá la responsabilidad civil por daños, lesiones o muerte del usuario y de terceros. Ningún trámite relacionado con la concesión será procedente sin que se acredite previamente la vigencia de la póliza.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2013)</small>
+La póliza de seguro cubrirá la responsabilidad civil por daños, lesiones o muerte del usuario y de terceros. Las Empresas Especializadas o Empresas de Redes de Transporte tendrán en todo momento responsabilidad mancomunada y solidaria respecto de sus socios o asociados por responsabilidad civil por daños, lesiones o muerte del usuario y de terceros, y responderán hasta el monto de la cobertura del seguro que debió haber contratado su socio o asociado.
 
-Ningún trámite relacionado con la concesión será procedente, sin que se acredite previamente la vigencia de la póliza.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Ningún trámite relacionado con un permiso o con una concesión será procedente, sin que se acredite previamente la vigencia de la póliza.
 
 Para el cabal cumplimiento de esta disposición, las autoridades competentes procurarán la celebración de convenios u otros mecanismos de información con las compañías aseguradoras e instancias federales reguladoras de aquellas.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-Las personas morales titulares de una concesión podrán constituir fideicomisos, fondos o mutualidades internas para cubrir la reparación de daños que se causen con motivo del servicio, previa autorización del Instituto, quién verificará y, en su caso, autorizará las reglas de aportación, aplicación y rendición de cuentas, así como los alcances, términos y condiciones de su cobertura.
+Las personas morales titulares de una concesión o permiso podrán constituir fideicomisos, fondos o mutualidades internas para cubrir la reparación de daños que se causen con motivo del servicio, previa autorización del Instituto, quien verificará y, en su caso, autorizará las reglas de aportación, aplicación y rendición de cuentas, así como los alcances, términos y condiciones de su cobertura.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 39.
 
-Los servicios públicos de salvamento y arrastre, depósito y guarda de vehículos serán regulados por la ley de la materia, en lo no previsto en este ordenamiento.
+Los servicios públicos de salvamento y arrastre, depósito y guarda de vehículos serán regulados por lo previsto en esta ley y las leyes aplicables en la materia, a través del Instituto.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 40.
 
-El titular del Ejecutivo del Estado, en todo tiempo, podrá introducir en los servicios de transporte las modalidades que dicte el interés público, adoptando al efecto las medidas que mejor aseguren la prestación del servicio de manera eficaz, oportuna y suficiente.
+El titular del Poder Ejecutivo del Estado, en todo tiempo, podrá introducir en los servicios de transporte las modalidades que dicte el interés público, adoptando al efecto las medidas que mejor aseguren la innovación tecnológica y la seguridad, así como la prestación del servicio de manera eficaz, oportuna y suficiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -977,25 +1131,25 @@ Cuando la ejecución de los planes y programas a que se refiere el artículo ant
 
 Los concesionarios podrán celebrar convenios y organizarse entre sí o con terceros, así como constituir uniones, asociaciones o sociedades que contribuyan a ofrecer un servicio de mayor eficiencia, rentabilidad y calidad para los prestadores y usuarios del servicio, y les permita coadyuvar a la mejor prestación de los servicios.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-La constitución y los estatutos de cualquier persona jurídica colectiva que pretenda ser titular de una o más concesiones para la prestación de los servicios que prevé la presente Ley, deberán reunir los requisitos que establezca el Instituto. Este mismo requisito se aplicará para la modificación de sus estatutos.
+La constitución y los estatutos de cualquier persona moral que pretenda ser titular de una o más concesiones para la prestación de los servicios que prevé la presente Ley, deberán reunir los requisitos que establezca el Instituto. Este mismo requisito se aplicará para la modificación de sus estatutos.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-El Instituto vigilará que la forma y bases de constitución de las personas jurídicas colectivas que sean concesionarias, contribuyan al desempeño eficiente del sistema de transporte.
+El Instituto vigilará que la forma y bases de constitución de las personas morales que sean concesionarias, contribuyan al desempeño eficiente del sistema de transporte.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-Además de los requisitos que establecen las leyes de la materia, las personas jurídicas colectivas que pretendan ser titulares de alguna concesión para la prestación de los servicios establecidos en la presente Ley, deberán observar el establecimiento de reglas democráticas para la toma de decisiones que protejan los derechos de los socios minoritarios, la transparencia en la rendición de cuentas y la vigilancia en la administración, las buenas prácticas y el buen gobierno corporativo, la erradicación de las prácticas desleales y los mecanismos antimonopólicos para evitar la concentración del capital social.
+Además de los requisitos que establecen las leyes de la materia, las personas morales que pretendan ser titulares de alguna concesión para la prestación de los servicios establecidos en la presente Ley, deberán observar el establecimiento de reglas democráticas para la toma de decisiones que protejan los derechos de los socios minoritarios, la transparencia en la rendición de cuentas y la vigilancia en la administración, las buenas prácticas y el buen gobierno corporativo, la erradicación de las prácticas desleales y los mecanismos antimonopólicos para evitar la concentración del capital social.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 77.
 
-Las personas jurídicas colectivas concesionarias y las que agrupen a los concesionarios, están obligadas a llevar un registro de sus integrantes y a hacer del conocimiento del Instituto cualquier cambio o modificación.
+Las personas morales y las que agrupen a los concesionarios, están obligadas a llevar un registro de sus integrantes y a hacer del conocimiento del Instituto cualquier cambio o modificación.
 
-En caso de transmisión de acciones o partes sociales de las personas jurídicas colectivas concesionarias, éstas tendrán la obligación de notificar al Instituto, el cual podrá modificar, revocar o rescatar las concesiones correspondientes, a efecto de salvaguardar la correcta y continua prestación de los servicios y evitar la creación de monopolios.
+En caso de transmisión de acciones o partes sociales de las personas morales concesionarias, éstas tendrán la obligación de notificar al Instituto, el cual podrá modificar, revocar o rescatar las concesiones correspondientes, a efecto de salvaguardar la correcta y continua prestación de los servicios y evitar la creación de monopolios.
 
 #### Sección I. Del Servicio Público de Transporte Colectivo Urbano
 
@@ -1171,6 +1325,78 @@ El Instituto podrá practicar visitas de inspección al sitio, para verificar el
 
 Es obligación solidaria de los concesionarios y en su caso, de los propietarios de los vehículos afectos al servicio, garantizar que los operadores que conduzcan las unidades empleadas para su prestación en la modalidad de taxi, gocen de seguridad social y acceso a prestaciones, conforme lo establece la Ley Federal del Trabajo y demás ordenamientos aplicables.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE MAYO DE 2016)</small>
+
+#### Sección I. Del servicio público de taxi por medio de aplicaciones para el control, programación y geolocalización en dispositivos fijos o móviles
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 100 Ter.
+
+El servicio público de taxi podrá ser operado por los concesionarios a través de empresas especializadas, personas físicas o morales, por medio de aplicaciones tecnológicas que funcionan con un software de geolocalización o telemetría o similares que permitirá a los usuarios del servicio conocer el taxi más cercano a su ubicación.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 100 Quater.
+
+El Instituto integrará al Registro Público de Transporte, la relación de personas físicas y morales que operen, utilicen y administren aplicaciones para el control, programación, geolocalización o telemetría en dispositivos fijos o móviles, a través de los cuales los particulares pueden contratar el servicio público de taxi en el Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 100 Quinquies.
+
+Las empresas especializadas deberán acreditar ante el Instituto que cuentan con la capacidad y experiencia necesaria para prestar el servicio mediante la operación, utilización y administración de aplicaciones para el control, programación, geolocalización o telemetría o similares en dispositivos fijos o móviles, a fin de que los particulares puedan contratar sus servicios.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 100 Sexies.
+
+Las empresas especializadas deberán registrarse ante el Instituto, conforme a la convocatoria que para tal efecto se expida, exhibiendo documentos e información, en original y copia de:
+
+I. Datos de identificación del solicitante en caso de personas físicas como son: identificación, domicilio, teléfono y correo electrónico o acta constitutiva en caso de personas morales;
+
+II. Registro Federal de Contribuyentes;
+
+III. Datos de identificación del representante legal como son: domicilio, teléfonos, correos electrónicos;
+
+IV. Carpeta de datos que incluya la documentación soporte del funcionamiento de la aplicación tecnológica a utilizar, sus datos de identificación y características, así como sus abreviaturas y derivaciones;
+
+V. Registro ante el Instituto Mexicano de la Propiedad Industrial o Instituto Nacional del Derecho de Autor, si se tuviere;
+
+VI. Registro de dominio de internet;
+
+VII. Carta de intermediario bancario nacional para el registro de cobros; y
+
+VIII. Formatos debidamente integrados expedidos por el Instituto.
+
+En caso de que la solicitud carezca de alguno de los documentos o información, el instituto notificará lo anterior, para que el interesado dentro de los tres días hábiles siguientes, subsane dicha situación. En caso de no desahogar el requerimiento, se tendrá por no presentada la solicitud.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 100 Septies.
+
+El Instituto revisará y analizará la documentación e información presentada por las empresas, para la procedencia del registro solicitado. Para lo cual contará con treinta días naturales para responder a la referida solicitud.
+
+Concluido ese plazo el Instituto notificará el resultado de esa revisión y en caso de ser procedente, el interesado deberá pagar los derechos establecidos en la Ley de Hacienda del Estado de Querétaro.
+
+El acuerdo que recaiga a este trámite, deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en un periódico de mayor circulación estatal, por única ocasión y a costa del solicitante.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 100 Octies.
+
+Una vez que el Instituto emita su resolución, la empresa especializada deberá realizar el registro de unidades del servicio público de taxis y de los operadores que conducirán dichas unidades. La empresa especializada deberá exhibir vía electrónica o presentar de manera física, en original y copia:
+
+I. Documento emitido por el Instituto que contenga la autorización del refrendo de la concesión, lo que acredita que el vehículo está al corriente de sus obligaciones;
+
+II. Tarjetón vigente de identificación del operador, documento oficial emitido por el Instituto que contiene datos del conductor, correspondientes al año que transcurre; y
+
+III. La empresa deberá avisar de manera inmediata de las altas y bajas respectivas. Además, deberá mantener actualizada su relación de vehículos y operadores de manera permanente. En caso de incumplimiento el Instituto podrá retirar el registro a la empresa.
+
+El Instituto verificará que la información entregada cumpla con los requisitos señalados en este artículo y en caso contrario, rechazará la inscripción al registro.
+
+Para el caso de cumplir con lo previsto en la presente sección, el Instituto entregará a la empresa constancia y holograma que deberán ser colocados en el parabrisas del vehículo autorizado y el tarjetón de identificación del operador.
+
 ### Capítulo Cuarto. Del servicio público de transporte mixto
 
 ###### Artículo 101.
@@ -1207,43 +1433,255 @@ El servicio de transporte mixto se sujetará a las disposiciones reglamentarias 
 
 Los concesionarios de transporte mixto deberán otorgar a los operadores que empleen para la prestación del servicio, la protección laboral a que se refieren los artículos 41, 61 y 100 Bis del presente ordenamiento.
 
-### Capítulo Único. Disposiciones generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+### Capítulo Quinto. Del Servicio de Transporte Privado de Pasajeros
 
-## Título Tercero. Del Servicio Especial de Transporte
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
 
-### Capítulo Primero. Disposiciones generales
+###### Artículo 105 Bis.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+El servicio de transporte privado de pasajeros, para su prestación requiere contar con un permiso otorgado por el Instituto a la persona física o moral que esté especializada en materia de transporte de personas que lo solicite y cumpla los requisitos y procedimientos previstos en la presente Ley, las disposiciones reglamentarias que al efecto se expidan, así como los acuerdos, circulares, manuales de especificaciones técnicas y condiciones de operación que determine el Instituto.
+
+Asimismo, el solicitante deberá registrar ante el Instituto una aplicación electrónica a través de la cual se preste el servicio, así como sus vehículos y sus conductores.
+
+Para efectos de esta Ley, se considera como persona física o moral especializada en materia de transporte privado de pasajeros, a los prestadores de servicios mediante la contratación del servicio que se les haga a través de aplicaciones en teléfonos inteligentes. Lo anterior sin perjuicio de lo establecido en el Título Quinto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 105 Ter.
+
+El servicio de transporte privado de pasajeros se prestará:
+
+I. En vehículos cuyos conductores se encuentren registrados en el Instituto y certificados como operadores del transporte. Dicha certificación la podrán obtener en las instituciones de educación pública o instituciones privadas debidamente registradas ante el Instituto; y
+
+II. A usuarios previamente registrados en la plataforma electrónica propiedad de la persona física o moral especializada en materia de transporte de personas o de cualquiera de sus filiales o subsidiarias.
+
+Este servicio no podrá estar sujeto a itinerarios, rutas, frecuencias de paso ni a horarios fijos, ni hacer base o sitio, ni prestar más de un servicio a la vez.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 105 Quater.
+
+Son vehículos del servicio de transporte privado de pasajeros, aquellas unidades particulares utilizadas y aptas para brindar dicho servicio, cuya contratación será únicamente a través de aplicaciones tecnológicas y registradas por el Instituto, que cuenten con registro y certificación de la persona física o moral especializada en materia de transporte de personas, además de cumplir con los requisitos y procedimientos previstos en la presente Ley, sus normas reglamentarias y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 105 Quinquies.
+
+Los vehículos del servicio privado de transporte de pasajeros a través de aplicaciones tecnológicas, registrados por el Instituto a través de una persona física o moral especializada en materia de transporte de personas deberán portar en todo momento los documentos siguientes:
+
+I. Placas de circulación vehicular, engomados y hologramas, para el Estado de Querétaro;
+
+II. Tarjeta de circulación y el documento que acredite su registro ante la persona física o moral especializada en materia de transporte de personas; y
+
+III. Copia de la Póliza de Seguro con cobertura amplia.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 105 Sexies.
+
+Los conductores del servicio de transporte privado a través de aplicaciones tecnológicas, además de registrarse y cumplir con los requisitos establecidos por la persona física o moral especializada en materia de transporte privado de pasajeros, deberán portar licencia de conducir y haber aprobado los exámenes toxicológicos y de capacidad, realizados por la empresa.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 105 Septies.
+
+El Instituto integrará al Registro Público de Transporte la relación de las personas físicas o morales especializadas en materia de transporte privado de pasajeros, que operen, utilicen o administren aplicaciones para el control, programación, geolocalización o telemetría en dispositivos fijos o móviles, a través de los cuales los particulares pueden contratar el servicio privado de transporte de pasajeros en el Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 105 Octies.
+
+Las personas físicas o morales especializadas en materia de transporte privado de pasajeros, deberán acreditar ante el Instituto que cuentan con la capacidad y experiencia necesaria para prestar el servicio, operar, utilizar y administrar aplicaciones para el control, programación, geolocalización y telemetría o similares en dispositivos fijos o móviles, a fin de que los particulares puedan contratar el servicio de transporte privado de personas en el Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 105 Novies. Las empresas especializadas deberán registrarse ante el Instituto, conforme a la convocatoria que para tal efecto se expida, exhibiendo documentos e información, en original y copia de:
+
+I. Datos de identificación del solicitante en caso de personas físicas como son: identificación, domicilio, teléfono y correo electrónico o acta constitutiva en caso de personas morales;
+
+II. Registro Federal de Contribuyentes;
+
+III. Datos de identificación del representante legal como son: domicilio, teléfonos, correos electrónicos;
+
+IV. Carpeta de datos que incluya la documentación soporte del funcionamiento de la aplicación tecnológica a utilizar, sus datos de identificación y características, así como sus abreviaturas y derivaciones;
+
+V. Registro ante el Instituto Mexicano de la Propiedad Industrial o Instituto Nacional del Derecho de Autor, si se tuviere;
+
+VI. Registro de dominio de internet;
+
+VII. Carta de intermediario bancario nacional para el registro de cobros; y
+
+VIII. Formatos debidamente integrados expedidos por el Instituto.
+
+En caso de que la solicitud carezca de alguno de los documentos o requisitos, el Instituto notificará lo anterior, para que la solicitante dentro de los tres días hábiles siguientes, subsane dicha situación. En caso de no desahogar el requerimiento, se tendrá por no presentada la solicitud.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+###### Artículo 105 Decies.
+
+El Instituto revisará y analizará la documentación presentada, para la procedencia del registro solicitado. Para lo cual contará con treinta días naturales para responder a la referida solicitud.
+
+Concluido ese plazo el Instituto notificará a la solicitante el resultado de esa revisión y análisis. En caso de ser procedente, se llevará a cabo el registro correspondiente.
+
+Hecho lo anterior, el Instituto emitirá a favor de la persona física o moral especializada en materia de transporte, el permiso para la prestación del servicio previo pago de los derechos establecidos en la Ley de Hacienda del Estado de Querétaro.
+
+El permiso deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en un periódico de mayor circulación estatal, por única ocasión y a costa de la solicitante.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 105 Undecies. Una vez que el Instituto emita el permiso a la persona física o moral especializada en materia de transporte, podrá solicitar ante éste el registro de unidades del servicio de transporte privado de pasajeros susceptibles de obtener el permiso correspondiente.
+
+Para tal efecto, la solicitante deberá exhibir vía electrónica o presentar de manera física, en original y copia:
+
+I. Factura del vehículo;
+
+II. Tarjeta de circulación vehicular para el Estado de Querétaro;
+
+III. Comprobante del pago de derechos de uso de vehículos del año en curso;
+
+IV. Comprobante de verificación vehicular vigente;
+
+V. Póliza de seguro que cubra la responsabilidad civil por daños, lesiones o muerte del usuario y de terceros.
+
+En caso de siniestro, el permisionario será responsable de manera solidaria y mancomunada hasta por el valor de la póliza;
+
+VI. Constancia de revisión Físico - Mecánica, expedida por el Instituto;
+
+VII. Formatos expedidos por el Instituto debidamente requisitados.
+
+Además de lo anterior, los vehículos susceptibles de obtener el registro y el permiso correspondiente, deberán cumplir con lo siguiente:
+
+I. Contar con las medidas y características propias de al menos un auto compacto, de manera que brinden confort y seguridad a los usuarios;
+
+II. Tener cuatro puertas, cajuela independiente, aire acondicionado, cinturones de seguridad para todos los pasajeros, bolsas de aire delanteras y radio, todos funcionales, como elementos mínimos.
+
+En caso de que la solicitud carezca de algunos documentos o no se cumplan las condiciones previstas en este artículo, el Instituto notificará al solicitante, para que subsane lo anterior en el plazo de tres días. En caso de no corregir lo anterior, se rechazará la inscripción al registro del vehículo y la emisión del permiso.
+
+El Instituto notificará a la persona física o moral especializada en materia de transporte privado de pasajeros la procedencia o no del registro del vehículo y del permiso. En caso de ser procedente la solicitante deberá pagar los derechos que se generen por el registro y permiso de cada vehículo, conforme a lo establecido en la Ley de Hacienda del Estado de Querétaro.
+
+Exhibido el pago de derechos ante el Instituto, el vehículo registrado podrá iniciar operaciones a través de un permiso provisional en los términos que establezca el Instituto.
+
+Los permisos son personalísimos, intransferibles, inalienables e inembargable y no generan derechos reales de ninguna clase a favor del permisionario.
+
+Los actos mediante los cuales pretendan gravarse o enajenarse los permisos, así como las placas de circulación del vehículo amparado por el permiso serán nulos y no producirán efecto legal alguno.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 105 Duodecies. Los permisos otorgados a las personas físicas o morales especializadas en materia de transporte privado de pasajeros, para la prestación de este servicio tendrán una vigencia de un año, los cuales se renovarán cumpliendo con los requisitos establecidos en el artículo que antecede.
+
+El otorgamiento de este tipo de permisos no genera derechos adquiridos para el propietario del vehículo y la persona física o moral especializada en materia de transporte de personas.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 105 Ter decies. Las personas físicas o morales especializadas en materia de transporte privado de pasajeros deberán mantener actualizado el registro, a través de las altas y bajas que realice de sus vehículos. En caso de incumplimiento, el Instituto podrá cancelar el registro y permiso respectivos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 105 Quater decies. Las personas físicas o morales especializadas en materia de transporte privado de pasajeros deberán registrar ante el Instituto a todos los operadores de los vehículos que realizarán la prestación del servicio. Además, se deberá exhibir vía electrónica o presentar de manera física, en original y copia, los siguientes documentos:
+
+I. Licencia de conducir expedida por el Estado de Querétaro;
+
+II. Comprobante de domicilio;
+
+III. Copia del CURP;
+
+IV. Identificación oficial con fotografía como son: credencial para votar, cartilla militar, cédula profesional o pasaporte expedidos por las autoridades competentes;
+
+V. Constancia expedida al conductor, que acredite la aprobación del curso de capacitación autorizado por el Instituto;
+
+VI. Tarjetón de identificación del operador, físico o electrónico vigente; y
+
+VII. Formatos expedidos por el Instituto debidamente integrados.
+
+El Instituto verificará la documentación presentada por el solicitante. En caso de no cumplir con los requisitos se rechazará su inscripción.
+
+Si la solicitud presenta todos los requisitos, previo pago de los derechos correspondientes conforme a la Ley de Hacienda del Estado de Querétaro, el Instituto entregará el tarjetón oficial de identificación del Operador, el cual deberá portarse en lugar visible al interior del vehículo.
+
+Es obligación de la persona física o moral tener actualizada la relación de operadores a su cargo; en caso de incumplimiento, será motivo para retirar el registro y permiso respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 105 Quinquies decies. La persona física o moral especializada en materia de transporte privado de pasajeros como titular del permiso será responsable de que se desarrolle conforme a lo siguiente:
+
+I. Realizar la renovación del registro en el mes de enero de cada año;
+
+II. Renovar anualmente el permiso de los vehículos;
+
+III. Renovar cada año el Tarjetón de identificación oficial del operador;
+
+IV. No realizar base o sitio a los vehículos, ni tampoco hacer uso indebido de la vía pública;
+
+V. Prestar el servicio por medio de aplicaciones tecnológicas de control, programación, geolocalización y telemetría o similares a través de dispositivos fijos o móviles;
+
+VI. Los pagos serán por medio de operación bancaria en terminal o vía electrónica; y
+
+VII. Los operadores no podrán recibir pagos en efectivo por el servicio prestado.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 105 Sexies decies. Los vehículos que presten el servicio de transporte privado de pasajeros, serán susceptibles de inspección y verificación por el Instituto.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Artículo 105 Septies decies. El registro para el servicio de transporte privado de pasajeros, concluirá por alguno de los siguientes supuestos:
+
+I. La terminación de la vigencia del permiso, sin que se haya renovado el mismo;
+
+II. La renuncia expresa de la persona física o moral;
+
+III. El Incumplimiento notificado por el Instituto a la persona física o moral y no subsanado ésta última durante los cuarenta y cinco días naturales siguientes a la fecha de recepción de dicha notificación;
+
+IV. La liquidación de la empresa;
+
+V. La muerte de la persona a cuyo favor se expidió el permiso, siempre y cuando no haya registrado a quien lo sustituya en la titularidad de sus derechos, en términos de la presente Ley; y
+
+VI. Prestar más de un servicio a la vez.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2016)</small>
+
+## Título Tercero. Del Servicio Especializado de Transporte
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2016)</small>
+
+### Capítulo Único. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 106.
 
-Los concesionarios del servicio especial de transporte tienen las mismas obligaciones que los concesionarios del servicio público de transporte en lo que corresponda y su prestación estará sujeta a lo dispuesto en las normas reglamentarias que de esta ley se deriven, así como a las condiciones que para tal efecto emita el Instituto.
+Los permisionarios del servicio especializado de transporte tienen los mismos derechos y obligaciones que los concesionarios del servicio público de transporte en lo que corresponda y su prestación estará sujeta a lo dispuesto en las normas reglamentarias que de esta Ley se deriven, así como a las condiciones que para tal efecto emita el Instituto.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 107.
 
-Los vehículos para prestar el servicio especial de transporte deberán cumplir con los lineamientos y características técnicas y de operación que para cada modalidad determinen las normas reglamentarias que de esta ley se deriven.
+Los vehículos para prestar el servicio especializado de transporte deberán cumplir con los lineamientos y características técnicas y de operación que para cada modalidad determinen las normas reglamentarias que de esta Ley se deriven.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 108.
 
-A efecto de optimizar los vehículos destinados para la prestación del transporte escolar y de personal; éstos podrán utilizarse para cubrir ambas modalidades, pero con concesión individual para cada servicio.
+A efecto de optimizar los vehículos destinados para la prestación del transporte escolar y de personal; éstos podrán utilizarse para cubrir ambas modalidades, pero con permiso individual para cada servicio.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 109.
 
-El servicio especial de transporte escolar es el contemplado en el artículo 34, fracción I, de la presente Ley; para su prestación requiere la presencia de un acompañante mayor de edad que asista a los pasajeros y supervise que su ascenso y descenso del vehículo de transporte se realice en condiciones de seguridad.
+El servicio especializado de transporte escolar es el contemplado en el artículo 38, fracción I, de la presente Ley; para su prestación requiere la presencia de un acompañante mayor de edad que asista a los pasajeros y supervise que su ascenso y descenso del vehículo de transporte se realice en condiciones de seguridad.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 110.
 
-El transporte escolar podrá concesionarse a la institución educativa que brinde el servicio de transporte a sus estudiantes, a personas físicas o jurídicas colectivas cuyo objeto social sea preponderantemente la prestación de este servicio.
+Las instituciones educativas, las personas físicas o morales cuyo objeto social sea preponderantemente la prestación del servicio de transporte escolar a estudiantes, se les podrá otorgar el permiso correspondiente, siempre y cuando medie solicitud previa. El permiso se regulará por los reglamentos, acuerdos, circulares, manuales de especificaciones técnicas y condiciones de operación que determine el Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 111.
 
-Los conductores y acompañantes en el servicio especial de transporte escolar deberán cursar y acreditar una capacitación para el manejo de menores de edad así como de primeros auxilios.
+Los conductores y acompañantes en el servicio especializado de transporte escolar, deberán cursar y acreditar una capacitación para el manejo de menores de edad, así como de primeros auxilios, manejo defensivo y prevención y combate de incendios.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -1267,35 +1705,45 @@ El Instituto podrá establecer itinerarios para el transporte escolar con la fin
 
 El recorrido de una ruta de transporte escolar no podrá ser mayor a sesenta minutos.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 114.
 
-El servicio especial de transporte de personal es el contemplado en el artículo 34 fracción II de la presente ley, el cual podrá ser prestado por la persona física o jurídica colectiva que obtenga una concesión para tal efecto.
+El servicio especializado de transporte de personal podrá ser prestado por las personas físicas o morales que obtengan un permiso para tal efecto, el cual se regulará por los reglamentos, acuerdos, circulares, manuales de especificaciones técnicas y a las condiciones de operación que determine el Instituto.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 115.
 
-Los patrones que presten el servicio de transporte a su personal como una prestación de carácter laboral, deberán obtener una concesión en los términos de lo dispuesto para las del servicio especial de transporte.
+Los patrones que ofrezcan el servicio de transporte a su personal como una prestación de carácter laboral, deberán obtener un permiso en los términos de lo dispuesto para las del servicio especializado de transporte.
 
-Tratándose de condominios o fraccionamientos cerrados, cuyas entradas y salidas hacia el entorno urbano se encuentren delimitadas y controladas mediante casetas de vigilancia u otros dispositivos mecánicos o tecnológicos, podrán a través de sus administradores, operar mediante concesión, sistemas internos de transporte para los residentes y trabajadores permanentes o eventuales del propio condominio o fraccionamiento, que deberán operar exclusivamente dentro del área confinada y sin mediar el cobro de tarifa.
+Tratándose de condominios o fraccionamientos cerrados, cuyas entradas y salidas hacia el entorno urbano se encuentren delimitadas y controladas mediante casetas de vigilancia u otros dispositivos mecánicos o tecnológicos, podrán a través de sus administradores, operar mediante un permiso, sistemas internos de transporte para los residentes y trabajadores permanentes o eventuales del propio condominio o fraccionamiento, que deberán operar exclusivamente dentro del área confinada y sin mediar el cobro de tarifa.
 
-Para la operación de estos sistemas, los interesados a través de las asociaciones de colonos legalmente constituidas, deberán tramitar y obtener la concesión correspondiente.
+Para la operación de estos sistemas, los interesados a través de las asociaciones de colonos legalmente constituidas, deberán tramitar y obtener los permisos correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 116.
 
-El servicio especial de transporte turístico contemplado en el artículo 34 fracción III de este ordenamiento legal se regulará por las normas reglamentarias que de esta ley se deriven.
+El servicio especializado de transporte turístico, para su prestación requiere contar con el permiso respectivo y se ajustará a los reglamentos, acuerdos, circulares, manuales de especificaciones técnicas y a las condiciones de operación que determine el Instituto.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 117.
 
-El servicio especial de transporte para personas con discapacidad es el contemplado en el artículo 34, fracción IV, del presente ordenamiento y podrá sujetarse a los itinerarios, horarios y tarifas que determine el Instituto.
+El servicio especializado de transporte para personas con discapacidad, para su prestación requiere contar con un permiso; podrá sujetarse a los itinerarios, horarios y tarifas que determine el Instituto. Además, se regulará por los reglamentos, acuerdos, circulares, manuales de especificaciones técnicas y a las condiciones de operación que determine el Instituto.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 118.
 
-El servicio especial de transporte de carga es el contemplado en el artículo 34, fracción V del presente ordenamiento, y para su prestación se requiere contar con la concesión otorgada por la autoridad competente.
+El servicio especializado de transporte de carga, para su prestación, requiere contar con un permiso otorgado por el Instituto y se regulará por los reglamentos, acuerdos, circulares, manuales de especificaciones técnicas y condiciones de operación que así determine el Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 119.
 
-El servicio de carga se prestará en vehículos cerrados o abiertos, con las características adecuadas según el tipo de bienes, mercancías u objetos a transportar. El servicio no estará sujeto a itinerario, ni horario determinado, y el precio será determinado por el concesionario y el usuario del servicio.
+El servicio de carga se prestará en vehículos cerrados o abiertos, con las características adecuadas según el tipo de bienes, mercancías u objetos a transportar. El servicio no estará sujeto a itinerario, ni horario determinado, y el precio será determinado por el permisionario y el usuario del servicio.
 
 En el caso de vehículos para carga especial, se aplicarán las normas de seguridad establecidas por las autoridades competentes en materia de protección del medio ambiente, seguridad y protección civil.
 
@@ -1303,59 +1751,69 @@ En el caso de vehículos para carga especial, se aplicarán las normas de seguri
 
 Los prestadores de este servicio público de transporte, podrán asociarse o celebrar convenios de coordinación para brindar un mejor servicio y reducir los costos de operación en las formas autorizadas por la ley.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 121.
 
-No se considera servicio especial de carga el traslado de bienes, mercancías u objetos que se (sic) sean propiedad de quien los traslada, por lo que no se requiere contar con la concesión que refiere la presente ley.
+No se considera servicio especializado de carga el traslado de bienes, mercancías u objetos que se sean propiedad de quien los traslada, por lo que no se requiere contar con el permiso que refiere la presente Ley.
 
-## Título Cuarto. De las Concesiones
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-### Capítulo Segundo. De las concesiones del servicio público de transporte
+## Título Cuarto. De las concesiones y permisos
+
+### Capítulo Primero. Disposiciones generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ## Título Quinto. De la Tarifa
 
-### Capítulo Tercero. De las concesiones del servicio especial de transporte
+### Capítulo Segundo. De las concesiones del servicio público de transporte
 
 ###### Artículo 122.
 
-Para prestar los servicios público y especial de transporte se requiere de la concesión correspondiente otorgada por el Ejecutivo del Estado, a través del Instituto, conforme al procedimiento que esta Ley se establece.
+Para prestar los servicios público y especializado de transporte se requiere de la concesión o permiso correspondiente otorgadas (sic) por el Poder Ejecutivo del Estado, a través del Instituto, conforme al procedimiento que esta Ley establece.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 La concesión estará sujeta a su refrendo anual, en los periodos y condiciones que el Instituto determine al efecto.
 
-Las placas de circulación y demás elementos que sirvan para la identificación del vehículo son propiedad del Estado y permanecerán en depósito del concesionario durante la prestación de la actividad concedida.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Las placas de circulación y demás elementos que sirvan para la identificación del vehículo son propiedad del Estado y permanecerán en depósito del titular del derecho durante la prestación de la actividad concedida.
 
 El Estado y los municipios no requerirán autorización para realizar transporte de carga en la ejecución de obras y servicios públicos, siempre que utilicen vehículos oficiales equipados para el tipo de servicio que corresponda; tampoco requerirán autorización los propietarios de vehículos particulares que efectúen transporte de carga de su propiedad dentro del territorio estatal, con las limitaciones que establezcan las demás leyes, reglamentos y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 123.
 
-Las personas físicas y jurídicas colectivas podrán ser titulares de más de una concesión, siempre que acrediten contar con la capacidad legal, administrativa, técnica y financiera necesaria para proporcionar un servicio eficiente y cumplan con los requisitos que establece la presente ley y las normas reglamentarias que de ésta se deriven.
+Las personas físicas y morales podrán ser titulares de más de una concesión o permiso, siempre que acrediten contar con la capacidad legal, administrativa, técnica y financiera necesaria para proporcionar un servicio eficiente y cumplan con los requisitos que establece la presente Ley y las normas reglamentarias que de ésta se deriven.
 
-El Poder Ejecutivo del Estado vigilará que no se formen ni propicien, al amparo de esta disposición, monopolios, concentraciones, competencia desleal u otros fenómenos ilícitos de acaparamiento del mercado de conformidad con lo dispuesto por la ley de la materia.
+El Poder Ejecutivo del Estado, a través del Instituto, en coordinación con la autoridad competente, evitará que se formen o propicien, al amparo de esta disposición, monopolios, concentraciones, competencia desleal u otros fenómenos ilícitos de acaparamiento del mercado de conformidad con lo dispuesto por la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 124.
 
-Los concesionarios deberán refrendar de forma anual, ante el Instituto, la concesión respectiva, bajo las condiciones y montos que se establezcan en las disposiciones legales aplicables.
+Los concesionarios y permisionarios deberán refrendar de forma anual, ante el Instituto, los derechos respectivos, bajo las condiciones y montos que se establezcan en las disposiciones legales aplicables.
 
-Se prohíbe prestar un servicio de transporte distinto al amparado por el título de concesión respectivo.
+Se prohíbe prestar un servicio de transporte distinto al amparado por el título que ampara la actividad autorizada.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 125.
 
-El refrendo es la revalidación anual que otorga el Instituto previa petición del concesionario para que se continúe prestando el servicio de transporte concesionado, una vez aprobada la evaluación anual a que se refiere la presente Ley así como al cumplimiento de los requisitos y condiciones que para tal efecto dispongan las normas reglamentarias que de esta Ley se deriven.
+El refrendo es la revalidación anual que otorga el Instituto previa petición del titular del derecho para que se continúe prestando el servicio de transporte autorizado, una vez aprobada la revisión anual a que se refiere la presente Ley, así como al cumplimiento de los requisitos y condiciones que para tal efecto dispongan las normas reglamentarias que de esta Ley se deriven.
 
 ###### Artículo 126.
 
 (DEROGADO, P.O. 24 DE JULIO DE 2015)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 127.
 
-Las concesiones no podrán otorgarse a las siguientes personas:
+Los derechos reconocidos en esta Ley, no podrán otorgarse a las siguientes personas:
 
 I. Los servidores públicos que de manera directa o indirecta tengan intervención en el procedimiento para su otorgamiento;
 
@@ -1373,55 +1831,73 @@ VI. Las personas a quienes se les haya revocado una concesión para la prestaci�
 
 VII. Las personas que hayan cedido los derechos de su concesión sin autorización del Instituto en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 128.
 
-Las concesiones son personalísimas, inalienables e inembargables y no generan derechos reales de ninguna clase a favor de su titular.
+Los derechos amparados en esta Ley son personalísimos, inalienables e inembargables y no generan derechos reales de ninguna clase a favor de su titular.
 
-Los actos mediante los cuales pretendan gravarse o enajenarse las concesiones así como las placas de circulación del vehículo amparado por la concesión serán nulos y no producirán efecto legal alguno.
+Los actos mediante los cuales pretendan gravarse o enajenarse los derechos derivados de esta Ley, así como las placas de circulación del vehículo amparado por los títulos expedidos serán nulos y no producirán efecto legal alguno.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 129.
 
-Los trámites y solicitudes que realicen los interesados en obtener una concesión deberán realizarse de manera personal en el caso de las personas físicas y través de su represente legal en el caso de las personas morales.
+Los trámites y solicitudes que realicen los interesados en obtener el otorgamiento de un derecho conforme a las condiciones de esta legislación, deberán realizarse de manera personal en el caso de las personas físicas y través de su represente legal en el caso de las personas morales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 130.
 
-Las personas físicas y morales interesadas en obtener una concesión deberán contar con domicilio en el Estado, acreditando una residencia mínima de tres años en la Entidad, inmediatamente anteriores a la fecha del inicio del trámite para su otorgamiento.
+Las personas físicas y morales interesadas en obtener permisos y concesiones deberán contar con domicilio en el Estado, acreditando una residencia mínima de tres años en la Entidad, inmediatamente anteriores a la fecha del inicio del trámite para su otorgamiento.
 
 Las personas físicas además deberán no haber sido condenado (sic) por delito doloso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 131.
 
-Las personas físicas titulares de una concesión, podrán designar en cualquier momento, en orden de prelación, hasta tres personas de entre su cónyuge, concubina o concubino o familiares hasta el segundo grado de parentesco en línea recta o colateral, que puedan sustituirlo en la titularidad de la concesión, en caso de incapacidad física o mental, ausencia declarada judicialmente o fallecimiento del concesionario; para lo cual, el Instituto notificará por estrados una vez que tenga conocimiento de dicho fallecimiento y publicará por una sola vez en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", los nombres de quien o quienes hayan sido designados para sustituir la titularidad de la concesión.
+Las personas físicas titulares de derechos al amparo de esta Legislación, podrán designar en cualquier momento, en orden de prelación, hasta tres personas de entre su cónyuge, concubina o concubino o familiares hasta el segundo grado de parentesco en línea recta o colateral, que puedan sustituirlo en la titularidad del derecho, en caso de incapacidad física o mental, ausencia declarada judicialmente o fallecimiento del titular; para lo cual, el Instituto notificará por estrados una vez que tenga conocimiento de dicho fallecimiento y publicará por una sola vez en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", los nombres de quien o quienes hayan sido designados para sustituir la titularidad de los derechos.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 El cambio de la titularidad deberá realizarse en un periodo no mayor de sesenta días hábiles, contados a partir de la publicación antes descrita, siempre que el peticionario acredite contar con al menos la misma capacidad legal, administrativa, técnica y financiera con la que contaba su titular al momento de su asignación y siempre que para ello no exista oposición del Instituto, fundada en elementos técnicos.
 
-No podrá otorgarse la concesión a más de una persona designada como beneficiario.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+No podrá otorgarse el reconocimiento de derechos a más de una persona designada como beneficiario.
 
 ###### Artículo 132.
 
 El titular del Ejecutivo del Estado vigilará que no se formen ni propicien, al amparo de esta disposición, monopolios, competencia desleal u otros fenómenos ilícitos de acaparamiento del mercado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 133.
 
-Cuando resulte conveniente conforme al interés general, el Gobernador del Estado, podrá rescatar unilateral y anticipadamente las concesiones.
+Cuando resulte conveniente conforme al interés general, el Gobernador del Estado podrá rescatar unilateral y anticipadamente los derechos otorgados al amparo de esta legislación.
 
 Se realizará la declaratoria de rescate expresando las razones de interés general y fundamentos que sirvieron de base para tomar la medida, señalando el plazo para fijar y cubrir la indemnización correspondiente a favor del titular, la cual se determinará conforme lo dispongan las normas reglamentarias de la presente ley.
 
 La declaratoria de rescate deberá ser notificada de manera personal al afectado y publicada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”; y contra la misma no procederá recurso alguno.
 
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 27 DE MAYO DE 2016, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE XIII A XII FRACCIONES.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 134.
 
-Las concesiones constarán por escrito y contendrán al menos, lo siguiente:
+Las concesiones y permisos constarán por escrito y contendrán al menos lo siguiente:
 
-I. Nombre o razón social del concesionario;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+I. Nombre, razón o denominación social del titular;
 
 II. Fundamento legal;
 
-III. Número de identificación de la concesión;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. Número de identificación y tipo de derecho reconocido;
 
 IV. Tipo y modalidad de servicio para el cual se otorga;
 
@@ -1431,71 +1907,85 @@ VI. La ruta e itinerario en el caso del servicio público de transporte colectiv
 
 VII. Tipo de sistema de rutas en el caso del servicio urbano;
 
-VIII. Tipo y número de vehículos que ampara la concesión, y en el caso del servicio público de transporte colectivo la cantidad mínima y máxima de vehículos amparados para la prestación del servicio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VIII. Tipo y número de vehículos que ampara el derecho y en el caso del servicio público de transporte colectivo la cantidad mínima y máxima de vehículos amparados para la prestación del servicio;
 
 IX. Número económico asignado a los vehículos;
 
-X. (DEROGADA, P.O. 24 DE JULIO DE 2015)
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XI. Derechos y obligaciones del titular de la concesión;
+X. Derechos y obligaciones del titular;
 
-XII. El lugar y fecha de expedición, y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+XI. El lugar y fecha de expedición; y
 
-XIII. La firma autógrafa del Director del Instituto o del Gobernador, en su caso.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-Los títulos de concesión serán entregados a su titular, quien al recibirlo y firmarlo en señal de aceptación, contrae los derechos y obligaciones que dichos instrumentos conllevan.
+XII. La firma autógrafa del Director del Instituto o del Gobernador del Estado, en su caso.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
+Los títulos que amparen derechos serán entregados a su titular, quien, al recibirlo y firmarlo en señal de aceptación, contrae los derechos y obligaciones que dichos instrumentos conllevan.
+
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 27 DE MAYO DE 2016, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE IX A VIII FRACCIONES.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 135.
 
-Las concesiones se extinguen por las siguientes causas:
+Los derechos reconocidos en la presente legislación se extinguen por las siguientes causas:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 I. Muerte del titular en caso de personas físicas que no hayan designado beneficiarios o cuando habiéndolo designado, éste no cumpla con los requisitos previstos en esta Ley;
 
-II. (DEROGADA, P.O. 24 DE JULIO DE 2015)
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
 
-III. Extinción, liquidación, quiebra o concurso de las personas morales titulares;
+II. Extinción, liquidación, quiebra o concurso de las personas morales titulares;
 
-IV. Falta de refrendo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-V. Revocación;
+III. Falta de refrendo;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-VI. Renuncia del titular, admitida por el Instituto;
+IV. Revocación;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-VII. Transmisión de la concesión sin autorización expresa del Instituto;
+V. Renuncia del titular, admitida por el Instituto;
 
-VIII. Por no iniciar la prestación del servicio dentro del plazo establecido en las bases de licitación del servicio público de transporte; y
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
-IX. Por rescate de la concesión
+VI. Transmisión del derecho sin autorización expresa del Instituto;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VII. Por no iniciar la prestación del servicio dentro del plazo establecido en las bases de licitación del servicio público de transporte; y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VIII. Por rescate de los derechos.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 136.
 
-Las concesiones no podrán transmitirse, salvo por autorización previa y expresa del Instituto, cuando exista causa de utilidad pública, solamente por cesión de derechos a favor de quien reúna las condiciones legales, técnicas, administrativas y financieras para la prestación del servicio de que se trate.
+Los derechos reconocidos en esta legislación no podrán transmitirse, salvo por autorización previa y expresa del Instituto, cuando exista causa de utilidad pública, solamente por cesión de derechos a favor de quien reúna las condiciones legales, técnicas, administrativas y financieras para la prestación del servicio de que se trate.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+La transmisión de los derechos será gratuita y deberá previamente ser autorizada por el Instituto, conforme al procedimiento y requisitos que para ello dispongan las normas reglamentarias que de esta Ley se deriven. Cualquier transmisión onerosa o sin la autorización del Instituto será causal de revocación.
 
-La transmisión de una concesión será gratuita y deberá previamente ser autorizada por el Instituto, conforme al procedimiento y requisitos que para ello dispongan las normas reglamentarias que de esta Ley se deriven. Cualquier transmisión onerosa o sin la autorización del Instituto será causal de revocación.
-
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
-
-En este caso, la concesión transmitida continuará en los términos y condiciones en ella establecidos.
+En este caso, el derecho transmitido continuará en los términos y condiciones en él establecidos.
 
 ###### Artículo 137.
 
 Los propietarios o conductores de vehículos particulares, bajo ninguna circunstancia los emplearán en la prestación de los servicios de transporte que esta ley regula, sin contar con una concesión vigente.
 
-### Capítulo Cuarto. De los permisos temporales para prestar el servicio de transporte
+### Capítulo Tercero. De los Permisos del Servicio Especializado de Transporte
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 138.
 
@@ -1607,15 +2097,21 @@ IV. Sea necesario para la implantación de acciones, programas y sistemas de rut
 
 Cualquier modificación definitiva a una concesión deberá sustentarse en un dictamen técnico y jurídico que compruebe su necesidad.
 
-### Capítulo Quinto. De la concesiones para la infraestructura en materia de transporte
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2016)</small>
+
+### Capítulo Cuarto. De los permisos temporales para prestar el servicio de transporte
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### Artículo 147.
 
-Las concesiones que se otorguen para la explotación del servicio especial de transporte serán exclusivamente por vehículo para su operación en una zona determinada.
+Los permisos que se otorguen para la explotación del servicio especializado de transporte serán exclusivamente por vehículo para su operación en una zona determinada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 148.
 
-Para obtener una concesión de servicio especial de transporte se requiere agotar el procedimiento siguiente, sin perjuicio de los requisitos y condiciones que para su otorgamiento establezcan las normas reglamentarias que de esta ley se deriven:
+Sin perjuicio de los requisitos y condiciones que, de manera específica, para el servicio de transporte privado de pasajeros establece esta Ley, así como las normas reglamentarias que se expidan, cuando se emita convocatoria para obtener un permiso de servicio especializado de transporte, se requiere agotar el procedimiento siguiente:
 
 I. El interesado deberá presentar solicitud por escrito en la que manifieste el tipo de servicio y zona para su explotación;
 
@@ -1629,15 +2125,15 @@ III. El Instituto evaluará la solicitud presentada y emitirá un dictamen sobre
 
 IV. Con el dictamen referido en la fracción anterior, el Instituto emitirá la resolución correspondiente, debiendo notificar de manera personal al solicitante; y
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-V. Si la resolución del Instituto resulta favorable, se expedirá el título de concesión respectivo.
+V. Si la resolución del Instituto resulta favorable, se expedirá el permiso respectivo.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 El dictamen emitido por el Instituto deberá sustentar la necesidad o no de establecer nuevos servicios o de aumentar los ya existentes, así como de la comprobación o no de la capacidad administrativa, técnica y financiera del solicitante. La capacidad legal del solicitante también será evaluada por el Instituto.
 
-### Capítulo Primero. Generalidades
+### Capítulo Quinto. De la concesiones para la infraestructura en materia de transporte
 
 ###### Artículo 149.
 
@@ -1671,7 +2167,7 @@ Los vehículos destinados a la prestación del servicio público de transporte a
 
 El Instituto podrá revocar los permisos temporales que haya otorgado por las mismas causas que para la concesión dispone esta Ley.
 
-### Capítulo Segundo. De la tarifa del servicio público de transporte
+### Capítulo Primero. Generalidades
 
 ###### Artículo 155.
 
@@ -1685,15 +2181,13 @@ El Estado y los Municipios, en sus respectivos ámbitos de competencia, podrán 
 
 Las concesiones se otorgarán por el titular del Poder Ejecutivo o por el Instituto, de conformidad con lo dispuesto en esta Ley, en el reglamento que al efecto se expida y demás disposiciones aplicables.
 
-### Capítulo Primero. De la inspección y vigilancia
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+### Capítulo Segundo. De la tarifa del servicio público de transporte
 
 ## Título Sexto. De la vigilancia y evaluación del servicio
 
-### Capítulo Segundo. De la evaluación del servicio
+### Capítulo Primero. De la inspección y vigilancia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### Artículo 157.
 
@@ -1705,13 +2199,13 @@ La tarifa es la contraprestación económica que el usuario del servicio de tran
 
 El Poder Ejecutivo del Estado, a través del Instituto determinará y autorizará las tarifas del servicio público de transporte y sus sistemas de cobro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 159.
 
-El Poder Ejecutivo del Estado, a través del Instituto autorizará las tarifas del servicio especial de transporte, en sus modalidades escolar, carga y para personas con discapacidad;
+El Poder Ejecutivo del Estado, a través del Instituto autorizará las tarifas del servicio especializado de transporte en sus modalidades escolar, carga, transporte privado de pasajeros y el relativo a las personas con discapacidad.
 
-Cuando el Poder Ejecutivo del Estado no establezca la tarifa para el servicio especial de transporte, ésta se sujetará a la que definan de común acuerdo el prestador y el usuario del servicio, sin perjuicio de las disposiciones aplicables en materia de protección al consumidor.
+Cuando el Poder Ejecutivo del Estado no establezca la tarifa para el servicio especializado de transporte, ésta se sujetará a la que definan de común acuerdo el prestador y el usuario del servicio, sin perjuicio de las disposiciones aplicables en materia de protección al consumidor.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -1773,7 +2267,7 @@ Para el caso de pagar la tarifa a través del sistema de recaudo electrónico, e
 
 Las tarifas autorizadas deberán publicarse en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y en su caso en un periódico de mayor circulación en el Municipio en donde se vaya a aplicar la tarifa.
 
-### Capítulo Tercero. Del Registro Público de Transporte
+### Capítulo Segundo. De la evaluación del servicio
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -1853,7 +2347,9 @@ Las tarifas diurna y nocturna sólo se establecerán cuando se tenga autorizada 
 
 ## Título Séptimo. De los derechos y obligaciones
 
-### Capítulo Primero. Derechos y obligaciones de los concesionarios y
+### Capítulo Tercero. Del Registro Público de Transporte
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
 ###### Artículo 175.
 
@@ -1947,9 +2443,7 @@ III. Conducirse con estricto respeto hacia las personas, absteniéndose de todo 
 
 IV. Las demás obligaciones inherentes a su carácter de servidores públicos, las que establezca la presente ley y las normas aplicables.
 
-### Capítulo Segundo. De las obligaciones de los conductores
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+### Capítulo Primero. Derechos y obligaciones de los concesionarios y
 
 ###### Artículo 185.
 
@@ -1977,17 +2471,21 @@ Los conceptos comprendidos en cada indicador serán los determinados por las nor
 
 El valor para cada indicador será fijado de manera previa por el Instituto conforme a las normas reglamentarias que de esta Ley se deriven.
 
-### Capítulo Tercero. Derechos y obligaciones de los usuarios
+### Capítulo Segundo. De las obligaciones de los conductores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 187.
 
 El Instituto integrará y administrará el Registro Público de Transporte que contendrá la información siguiente:
 
-I. Del concesionario: Nombre, denominación o razón social, los documentos que amparen su identidad o legal existencia así como la personalidad de su representante legal, en su caso, domicilio legal, datos de identificación fiscal, resultados de evaluaciones del servicio realizadas, registro de la infraestructura física afecta al servicio así como las infracciones a la presente ley y su reglamento;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+I. Del concesionario y permisionario: Nombre, denominación o razón social, los documentos que amparen su identidad o legal existencia, así como la personalidad de su representante legal, en su caso, domicilio legal, datos de identificación fiscal, resultados de evaluaciones del servicio realizadas, registro de la infraestructura física afecta al servicio, así como las infracciones a la presente Ley y su reglamento;
 
-II. De las concesiones: Original del título de concesión, ruta e itinerario en el caso del servicio público colectivo, así como de las resoluciones para su otorgamiento, transmisión, suspensión, revocación o prórroga y las modificaciones de concesión. Sentencias de tribunales judiciales y administrativos que hayan causado estado, en las que se ordene la modificación, cancelación o rectificación de las concesiones;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+II. De las concesiones y permisos: Original del título de concesión o permiso, ruta e itinerario en el caso del servicio público colectivo, así como de las resoluciones para su otorgamiento, transmisión, suspensión, revocación o prórroga y las modificaciones de concesión. Sentencias de tribunales judiciales y administrativos que hayan causado estado, en las que se ordene la modificación, cancelación o rectificación de las concesiones;
 
 III. De los conductores: Datos del conductor, licencia de conducir y capacitaciones recibidas y aprobadas, resultados de exámenes para la detección de consumo de drogas o alcohol así como infracciones a la presente ley y a las normas reglamentarias que de esta se deriven;
 
@@ -1999,25 +2497,41 @@ V. Los demás que señalen las normas reglamentarias que emanen de la presente l
 
 El Instituto deberá ordenar y actualizar la información relativa en el Registro Público de Transporte.
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 187 Bis.
 
-Con base en la información del Registro a que se refiere el artículo que antecede; y sin perjuicio de lo dispuesto en la Ley de Acceso a la Información Gubernamental del Estado de Querétaro, el Instituto incorporará en su página de internet y mantendrá debidamente actualizados, los siguientes datos que serán considerados como información pública obligatoria:
+Con base en la información del Registro a que se refiere el artículo que antecede; y sin perjuicio de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, el Instituto incorporará en su página de internet y mantendrá debidamente actualizados los siguientes datos, que serán considerados como información pública obligatoria:
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
 
 I. Padrón de concesionarios y permisionarios de transporte público;
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
+
 II. Padrón de permisionarios de publicidad en el transporte público;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
 
 III. Mapa de rutas, horarios y tarifas autorizadas para la prestación del servicio;
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
+
 IV. Empresas responsables del monitoreo tecnológico de la flota;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
 
 V. Informes anuales de evaluación del servicio, a cargo del Instituto;
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
+
 VI. Balances e Informes de la gestión financiera del Instituto, así como de las sociedades mercantiles que participen en la operación del sistema de recaudo tarifario;
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
+
 VII. Informes sobre la recaudación anual de derechos por concepto de refrendo de concesiones de transporte público, expedición de permisos de publicidad y demás ingresos no tributarios relacionados con la prestación del servicio público de transporte.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2013)</small>
 
 VIII. Manuales de especificaciones técnicas y planes de operación del servicio.
 
@@ -2035,7 +2549,9 @@ Para que el vehículo pueda ser registrado, se deberá presentar:
 
 I. El documento con el que el concesionario acredite la propiedad o legítima posesión;
 
-II. La Tarjeta de circulación a nombre del concesionario;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+II. La Tarjeta de circulación a nombre del concesionario o permisionario;
 
 III. El recibo de pago por emisión de título de concesión o en su caso el pago del refrendo correspondiente;
 
@@ -2053,9 +2569,7 @@ Para la obtención de la tarjeta de circulación de un vehículo destinado a los
 
 ## Título Octavo. De las Quejas, Sanciones y Recursos
 
-### Capítulo Primero. De las Quejas
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+### Capítulo Tercero. Derechos y obligaciones de los usuarios
 
 ###### Artículo 191.
 
@@ -2071,9 +2585,11 @@ III. (DEROGADA, P.O. 24 DE JULIO DE 2015)
 
 IV. Proponer al Instituto la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 192.
 
-Los concesionarios, independientemente de lo establecido el título de concesión y en la normatividad aplicable, tienen las siguientes obligaciones:
+Los concesionarios, independientemente de lo establecido en el título de concesión y en la normatividad aplicable, tienen las siguientes obligaciones:
 
 I. Prestar el servicio de manera regular, continua y permanente;
 
@@ -2143,27 +2659,31 @@ XXI. No permitir que sus conductores presten el servicio bajo el efecto del cons
 
 XXII. Las demás que señale la legislación aplicable.
 
-### Capítulo Segundo. De las sanciones
-
-###### Artículo 193.
-
-Los conductores de los vehículos de los servicios de transporte están obligados a someterse, cuando así lo determine el Instituto, a los exámenes médicos y toxicológicos necesarios a efecto de evaluar su estado de salud y determinar si se encuentran o no en aptitud para realizar con seguridad y eficiencia las funciones inherentes a sus actividades.
-
-La práctica de los exámenes se realizará conforme lo dispongan las normas reglamentarias que de esta ley se deriven así como a las disposiciones administrativas que al efecto se emitan.
+### Capítulo Primero. De las Quejas
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
+###### Artículo 193.
+
+Los conductores de los vehículos de los servicios de transporte en cualquiera de sus modalidades están obligados a someterse, cuando así lo determine el Instituto, a los exámenes médicos y toxicológicos necesarios a efecto de evaluar su estado de salud y determinar si se encuentran o no en aptitud para realizar con seguridad y eficiencia las funciones inherentes a sus actividades.
+
+La práctica de los exámenes se realizará conforme lo dispongan las normas reglamentarias que de esta ley se deriven así como a las disposiciones administrativas que al efecto se emitan.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 194.
 
-Los conductores de los vehículos de los servicios de transporte durante el horario de servicio deberán atender las instrucciones y disposiciones de operación que el Instituto les indique.
+Los conductores de los vehículos de los servicios de transporte en general durante el horario de servicio deberán atender las instrucciones y disposiciones de operación que el Instituto les indique.
 
 ###### Artículo 195.
 
 Los conductores del servicio público de transporte colectivo y mixto deberán abstenerse de prestar el servicio a toda persona que se encuentre bajo la influencia de cualquier tipo de droga o bebidas alcohólicas; así como a quienes se nieguen a cubrir la tarifa, alteren el orden, molesten con sus palabras o conductas a los demás usuarios del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 196.
 
-Los conductores de los vehículos del servicio de transporte están obligados a:
+Los conductores de los vehículos del servicio de transporte en general están obligados a:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2217,9 +2737,11 @@ III. Cuando el vehículo sufra accidentes o presente fallas mecánicas que dific
 
 IV. Cuando concurra un hecho fortuito o causa de fuerza mayor que lo hagan imposible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 199.
 
-Los conductores del servicio de transporte deberán cumplir con los siguientes requisitos:
+Los conductores del servicio de transporte en general deberán cumplir con los siguientes requisitos:
 
 I. Ser mayor de dieciocho años;
 
@@ -2237,6 +2759,8 @@ VI. Haber cursado y aprobado satisfactoriamente los cursos de capacitación y ac
 
 VII. Los demás que establezca el reglamento de la presente ley, que al efecto se expida.
 
+### Capítulo Segundo. De las sanciones
+
 ###### Artículo 200.
 
 Los usuarios del servicio público de transporte, tienen derecho a:
@@ -2249,7 +2773,9 @@ III. Al pago de gastos médicos e indemnizaciones que se deriven de cualquier si
 
 IV. Gozar de la tarifa preferencial cuando se encuentre en los supuestos a que se refiere la presente ley;
 
-V. Tener acceso a la información relativa al servicio público y especial de transporte respecto de las rutas, horarios, tarifas y demás condiciones de operación, y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. Tener acceso a la información relativa al servicio público y especializado de transporte respecto de las rutas, horarios, tarifas y demás condiciones de operación, y
 
 VI. Presentar quejas y sugerencias sobre los vehículos del servicio de transporte, personal y condiciones de operación del servicio.
 
@@ -2273,7 +2799,9 @@ III. Respetar los asientos reservados a los adultos mayores de sesenta años, pe
 
 IV. Abstenerse de fumar o ingerir bebidas alcohólicas o sustancias prohibidas dentro de los vehículos y en las estaciones y terminales;
 
-V. Abstenerse de introducir o portar en las (sic) vehículos del servicio de transporte, con excepción del servicio especial de carga, mercancías, paquetes o cualquier material o carga que resulte peligrosa para los demás usuarios, por su forma o dimensiones o por su carácter tóxico, corrosivo, reactivo o explosivo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. Abstenerse de introducir o portar en los vehículos del servicio de transporte, con excepción del servicio especializado de carga, mercancías, paquetes o cualquier material o carga que resulte peligrosa para los demás usuarios, por su forma o dimensiones o por su carácter tóxico, corrosivo, reactivo o explosivo;
 
 VI. Abstenerse de introducir armas a los vehículos;
 
@@ -2307,9 +2835,11 @@ V. Fumar a bordo del vehículo;
 
 VI. Las demás que se deriven de la presente ley y de las normas reglamentarias.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 203.
 
-Los usuarios del servicio especial de transporte de carga, tienen derecho a que sus bienes sean trasladados desde el lugar de su embarque hasta el sitio de destino previamente determinado, bajo la responsabilidad del prestador del servicio.
+Los usuarios del servicio especializado de transporte de carga, tienen derecho a que sus bienes sean trasladados desde el lugar de su embarque hasta el sitio de destino previamente determinado, bajo la responsabilidad del prestador del servicio.
 
 ###### Artículo 204.
 
@@ -2335,13 +2865,17 @@ Para la atención y seguimiento a las quejas contra concesionarios conductores d
 
 A quienes infrinjan las disposiciones contenidas en esta ley y en las normas reglamentarias que de ésta se deriven, se les impondrá conjunta o separadamente, cualquiera de las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-I. Multa de cinco a mil Veces Salario Mínimo General Diario Vigente de la Zona, en lo sucesivo VSMGZ;
+I. Multa de cinco a mil veces el valor del factor de cálculo, en adelante VFC, previsto en la Ley del Factor de Cálculo del Estado de Querétaro, en relación con el artículo 5 de la Ley de Hacienda del Estado de Querétaro.
 
-II. Suspensión de los derechos derivados de la concesión hasta por sesenta días naturales;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-III. Revocación de la concesión;
+II. Suspensión de los derechos derivados de la concesión o permiso hasta por sesenta días naturales;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. Revocación de la concesión o permiso;
 
 IV. Cancelación de la licencia para conducir, y
 
@@ -2369,9 +2903,11 @@ Para que se configure la reincidencia, la sanción anterior a la que se imponga,
 
 La imposición de las sanciones a que se refiere esta Ley corresponde al Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 210.
 
-La explotación o prestación del servicio transporte público o especializado en el territorio del Estado, por sí o mediante interpósita persona, sin contar con el título de concesión correspondiente o mediante la utilización de concesiones suspendidas, extintas o revocadas, constituye una falta grave contra el interés público por lo que se remitirá de inmediato el vehículo al establecimiento de depósito autorizado, y se aplicará una multa de quinientos a mil VSMGZ, quedando imposibilitado a obtener una concesión, independientemente de las responsabilidades civiles o penales que en su caso procedan.
+La explotación o prestación del servicio de transporte público o especializado en el territorio del Estado, por sí o mediante interpósita persona, sin contar con el título de concesión o permiso correspondiente o mediante la utilización de permisos o concesiones suspendidas, extintas o revocadas, constituye una falta grave contra el interés público por lo que se remitirá de inmediato el vehículo al establecimiento de depósito autorizado y se aplicará una multa de quinientas a mil VFC, quedando imposibilitado a obtener una concesión o permiso, independientemente de las responsabilidades civiles o penales que en su caso procedan.
 
 Se estará a lo establecido en el párrafo que antecede, cuando el servicio se brinde mediante títulos o documentos notoriamente falsificados o alterados, en cuyo caso se hará del conocimiento inmediato del Ministerio Público, para que inicie la respectiva averiguación previa y se finque la responsabilidad penal que corresponda.
 
@@ -2381,9 +2917,11 @@ Los conductores de vehículos de transporte público o especializado que excedan
 
 Si la infracción se registra con detectores de velocidad o medios tecnológicos similares, la multa se aumentará en una VSMGZ por cada tres kilómetros o fracción por la que se haya excedido el límite permitido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 212.
 
-Se impondrá multa de cincuenta a doscientas VSMGZ al titular de una concesión que:
+Se impondrá multa de cincuenta a doscientas VFC al titular de una concesión o permiso que:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2393,9 +2931,9 @@ I. Incumpla los planes de operación del servicio, itinerarios, horarios, frecue
 
 II. No tenga en operación o en correcto funcionamiento el sistema de recaudo o el sistema de monitoreo y demás equipos que para la prestación del servicio establezca el Instituto, esta Ley y las normas reglamentarias aplicables;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-III. Se abstenga de informar al Instituto, cualquier cambio que altere la información contenida en el título de concesión respectivo;
+III. Se abstenga de informar al Instituto, cualquier cambio que altere la información contenida en el título de concesión o permiso respectivo;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2417,7 +2955,9 @@ IX. No respete la aplicación de las tarifas autorizadas;
 
 X. Permita que un conductor maneje sin licencia vigente y del tipo que corresponda a la modalidad de servicio que se presta, o sin la identificación de conductor correspondiente;
 
-XI. Permita que un conductor maneja el vehículo bajo el efecto de drogas, enervantes o psicotrópicos de cualquier tipo o de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XI. Permita que un conductor maneje el vehículo bajo el efecto de drogas, enervantes o psicotrópicos de cualquier tipo o de bebidas alcohólicas;
 
 XII. Circule un vehículo para prestar el servicio sin estar amparado por póliza vigente de seguro, o sin la constancia vigente de aprobación de la revisión física y mecánica;
 
@@ -2425,73 +2965,115 @@ XIII. Preste el servicio con vehículos en estado físico o mecánico que no re�
 
 XIV. Preste el servicio mediante el uso de vehículos que excedan la vida útil autorizada;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XV. Preste el servicio con vehículos que no cuenten con los elementos de asistencia para personas con discapacidad, cuando expresamente se haya señalado en la concesión correspondiente;
+XV. Preste el servicio con vehículos que no cuenten con los elementos de asistencia para personas con discapacidad, cuando expresamente se haya señalado en la concesión o permiso correspondiente;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XVI. Realice la prestación del servicio en una jurisdicción territorial distinta de la establecida en la concesión, salvo que el destino final del usuario sea un lugar distinto;
+XVI. Realice la prestación del servicio en una jurisdicción territorial distinta de la establecida en la concesión, salvo que el destino final del usuario sea un lugar distinto, y
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XVII. Realice ascenso o descenso de pasaje en un lugar distinto al autorizado; y
+XVII. Realice ascenso o descenso de pasaje en un lugar distinto al autorizado, conforme a lo dispuesto en la normatividad legal aplicable.
 
-XVIII. (DEROGADA, P.O. 5 DE JULIO DE 2013)
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 213.
 
-Se impondrá multa de veinte a treinta VSMGZ al conductor de un vehículo de transporte público o especializado que:
+Se impondrá multa de veinte a treinta VFC al conductor de un vehículo de transporte público o especializado que:
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 I. Conduzca bajo el efecto de drogas, enervantes o psicotrópicos de cualquier tipo o de bebidas alcohólicas, en cuyo caso se hará del conocimiento del Ministerio Público, para los efectos procedentes;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 II. Circule el vehículo con las puertas abiertas;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 III. Altere los sistemas de recaudo o de monitoreo;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 IV. No respete la tarifa autorizada o su forma de pago;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 V. Realice maniobras de ascenso o descenso de pasajeros fuera de las paradas autorizadas para ello o en el arroyo de circulación a una distancia mayor de treinta centímetros del borde de la acera o cualquier otra maniobra que ponga en riesgo la seguridad del usuario, terceros o del propio vehículo;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 VI. Acumule más de tres infracciones de la misma o diversa índole, en el transcurso de un año;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 VII. Participe, durante la prestación del servicio, en competencias con otros conductores de transporte público, para captar pasaje o recuperar tiempos de recorrido, poniendo en riesgo a los usuarios o a terceras personas;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 VIII. Abastezca combustible al vehículo con pasajeros a bordo;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 IX. Conduzca durante la prestación del servicio, sin utilizar los aditamentos visuales o auditivos que exija su estado físico y se encuentren especificados en la licencia; y
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 X. Conduzca sin la licencia o la tarjeta de identificación de conductor de los servicios de transporte vigente.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 214.
 
-Se impondrá multa de cinco a veinte VSMGZ al conductor de un vehículo de transporte público o especializado que:
+Se impondrá multa de cinco a veinte VFC al conductor de un vehículo de transporte público o especializado que:
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 I. Incumpla los planes de operación del servicio, itinerarios, horarios, frecuencias o intervalos establecidos, y demás condiciones del servicio que establezca el Instituto, esta Ley y las normas reglamentarias aplicables;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 II. Dificulte o impida las actividades de inspección y vigilancia a cargo del Instituto;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 III. Incurra en maltrato, falta de cortesía o agresiones contra los usuarios;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 IV. Se estacione con el propósito de perder tiempo de manera deliberada o de hacer base en las bahías paraderos o lugares de uso exclusivo para ascenso y descenso de pasajeros;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 V. Se niegue, sin causa justificada, a brindar el servicio;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 VI. Se niegue a prestar el servicio en caso de desastre o pretenda condicionarlo a un pago;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 VII. Transporte un número de personas mayor al señalado en la tarjeta de circulación o en su caso las que autorice el Instituto;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 VIII. No porte o no mantenga a la vista de los usuarios la tarjeta de identificación de conductor de los servicios de transporte;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 IX. No mantenga a la vista de los usuarios, los medios informativos autorizados por el Instituto sobre los derechos de éstos;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 X. No entregue al usuario el comprobante que ampare el pago de la tarifa cuando ésta se cubra en efectivo;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+
 XI. Permita a los usuarios del servicio ocupar espacios no destinados para ello; y
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
 XII. Conduzca durante la prestación del servicio, utilizando equipos de sonido o luces que lo distraigan o provoquen molestia a los usuarios, excepción hecha de la música ambiental, que deberá reproducirse con volumen moderado.
 
@@ -2517,25 +3099,31 @@ VII. (DEROGADA, P.O. 5 DE JULIO DE 2013)
 
 Cuando en forma dolosa se causen lesiones o la muerte de usuarios o terceros, derivado de la prestación del servicio de transporte, independientemente de las sanciones penales y civiles que se establezcan judicialmente, podrán suspenderse, como medida cautelar, los derechos que ampare la licencia del conductor así como de la identificación de conductor.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### Artículo 217.
 
-Los concesionarios del servicio de transporte, serán responsables solidarios de las faltas en que incurran sus conductores cuando no tomen las medidas necesarias para evitar la comisión de infracciones a la presente ley y sus reglamentos, por lo que, según la gravedad del caso, dará lugar a la revocación de la concesión de que se trate.
+Los concesionarios y permisionarios del servicio de transporte, serán responsables solidarios de las faltas en que incurran sus conductores cuando no tomen las medidas necesarias para evitar la comisión de infracciones a la presente Ley y sus reglamentos, por lo que, según la gravedad del caso, dará lugar a la revocación de la concesión o permiso de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 218.
 
-Procede la revocación de las concesiones cuando:
+Procede la revocación de las concesiones y permisos cuando:
 
 I. Se acumulen dos suspensiones en el período de un año calendario;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-II. Se acredite que la concesión, placas o documentos que las avalan, han sido transmitidos en propiedad o posesión, bajo cualquier título, para ser explotados o usufructuados por terceros sin la aprobación del Instituto;
+II. Se acredite que la concesión, permiso, placas o documentos que las avalan, han sido transmitidos en propiedad o posesión, bajo cualquier título, para ser explotados o usufructuados por terceros sin la aprobación del Instituto;
 
 III. No se preste el servicio con la eficiencia, uniformidad y regularidad requeridos (sic);
 
 IV. Se preste el servicio con un número mayor o con vehículos diferentes a los que ampare la concesión respectiva;
 
-V. Se varíe el carácter del servicio que se preste, respecto del establecido en el título de concesión;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+V. Se varíe el carácter del servicio que se preste, respecto del establecido en el título de concesión o permiso;
 
 VI. Los vehículos con los que se presta el servicio, no conserven, de un modo permanente, las características requeridas para la modalidad de que se trate;
 
@@ -2549,7 +3137,9 @@ b. Programas de restricción de la circulación o de modulación de la oferta de
 
 Se exceptúa de estas salvedades al servicio público de transporte colectivo.
 
-VIII. Se acredite que la información y/o documentos presentados para obtener la concesión o para obtener su refrendo, son falsos o fueron alterados, en cuyo caso, además, se hará del conocimiento del Ministerio Público, para que se proceda conforme corresponda;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VIII. Se acredite que la información y/o documentos presentados para obtener el permiso o la concesión o para obtener su refrendo, son falsos o fueron alterados, en cuyo caso, además, se hará del conocimiento del Ministerio Público, para que se proceda conforme corresponda;
 
 IX. Se preste el servicio sin estar cubierto por la póliza vigente del seguro respectivo;
 
@@ -2561,27 +3151,51 @@ XI. No se incorporen y pongan en operación el sistema de recaudo o el sistema d
 
 XII. Se causen accidentes de tránsito por fallas mecánicas notorias o previsibles del vehículo con el que se preste el servicio concesionado o autorizado;
 
-XIII. Por suscitarse conflictos de titularidad respecto de los derechos derivados de la concesión respectiva o de los vehículos asociados a ellas para el servicio o en controversias respecto de la personalidad jurídica o representación de las personas morales titulares, si dichos conflictos ponen en riesgo la operación eficiente y segura del servicio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XIII. Por suscitarse conflictos de titularidad respecto de los derechos derivados del permiso o de la concesión respectiva o de los vehículos asociados a ellas para el servicio o en controversias respecto de la personalidad jurídica o representación de las personas morales titulares, si dichos conflictos ponen en riesgo la operación eficiente y segura del servicio;
 
 XIV. Se cometa un delito doloso utilizando los vehículos destinados a la prestación del servicio de transporte, una vez que cause ejecutoria la sentencia que declare la responsabilidad penal; y
 
-XV. Por las demás que se establezcan en el título de concesión y se califiquen expresamente como causas de revocación.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XV. Por las demás que se establezcan en la presente Ley, así como en el título de concesión o permiso y se califiquen expresamente como causas de revocación;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XVI. Los vehículos del concesionario o permisionario se vean involucrados en accidentes donde se prive de la vida a una o más personas, cuando se trate de delitos dolosos o de dos o más personas, si se trata de delitos culposos, en el transcurso de un año calendario;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XVII. El concesionario o permisionario permita a un conductor prestar el servicio bajo el efecto del consumo de alcohol, drogas, enervantes o psicotrópicos de cualquier tipo; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XVIII. El concesionario o permisionario emplee para la prestación del servicio, operadores que no cuenten con prestaciones laborales ni cobertura de seguridad social, conforme a las leyes de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2016)</small>
 
 ###### Artículo 219.
 
-Procede la suspensión de los derechos derivados de la concesión hasta por sesenta días naturales, cuando:
+Procede la suspensión de los derechos derivados de la concesión o permiso hasta por sesenta días naturales, cuando:
 
 I. No se reemplacen los vehículos de transporte que hayan cumplido su vida útil o no cumplan con las condiciones físicas, mecánicas o de seguridad para prestar el servicio;
 
 II. Se incumpla de forma reiterada los planes de operación del servicio público de transporte colectivo;
 
-III. El concesionario o su personal impidan la ejecución de una orden de inspección a los vehículos e infraestructura afecta al servicio o nieguen los informes, datos y documentos relativos al servicio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+III. El concesionario, permisionario o su personal impidan la ejecución de una orden de inspección a los vehículos e infraestructura afecta al servicio o nieguen los informes, datos y documentos relativos al servicio;
 
 IV. No cubran los derechos fiscales correspondientes con motivo de la prestación del servicio;
 
-V. Se acumulen cinco o más sanciones por el incumplimiento de cualquiera de las obligaciones y demás disposiciones contenidas en la presente ley y en las normas reglamentarias que de ésta se deriven, en un plazo de un calendario;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-VI. Los vehículos del concesionario se vean involucrados en tres o más accidentes en el transcurso de un año con saldo de personas fallecidas o heridas;
+V. Se acumulen cinco o más sanciones por el incumplimiento de cualquiera de las obligaciones y demás disposiciones contenidas en la presente Ley y en las normas reglamentarias que de ésta se deriven, en un plazo de un año calendario;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+VI. Los vehículos del concesionario o permisionario se vean involucrados en dos accidentes en el transcurso de un año calendario con saldo de personas heridas, tratándose de delitos culposos o de tres accidentes si son delitos dolosos;
 
 VII. No cumplan con las acciones y plazos fijados para realizar las mejoras al servicio, sus vehículos o instalaciones;
 
@@ -2591,13 +3205,17 @@ VIII. No se cubran los gastos e indemnizaciones a que esté obligado el concesio
 
 IX. Incumpla con los compromisos contraídos con el Instituto, derivados de acuerdos para la modernización del transporte;
 
-X. El concesionario permita a un conductor prestar el servicio bajo el efecto del consumo de alcohol, drogas, enervantes o psicotrópicos de cualquier tipo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XI. Alguno de los conductores del concesionario haya incurrido en tres o más infracciones a la presente ley y sus normas reglamentarias que pongan en riesgo la seguridad del usuario o ciudadanía en general;
+X. Alguno de los conductores del concesionario o permisionario haya incurrido en dos o más infracciones a la presente ley y sus normas reglamentarias que pongan en riesgo la seguridad del usuario o ciudadanía en general;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XII. El concesionario o conductor del vehículo del servicio público de transporte se oponga a la remisión del vehículo a un establecimiento de depósito autorizado con motivo de la imposición de una boleta de infracción por violación a las disposiciones contenidas en la presente Ley y en las normas reglamentarias que de ésta se deriven;
+XI. El concesionario, permisionario o conductor del vehículo del servicio público o especializado de transporte se oponga a la remisión del vehículo a un establecimiento de depósito autorizado con motivo de la imposición de una boleta de infracción por violación a las disposiciones contenidas en la presente Ley y en las normas reglamentarias que de ésta se deriven; y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XII. Por las demás que se establezcan en el título.
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
@@ -2761,6 +3379,8 @@ Secretario de Gobierno
 
 Rúbrica
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
 P.O. 5 DE JULIO DE 2013.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
@@ -2800,3 +3420,31 @@ P.O. 24 DE JULIO DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. El Gobernador del Estado, expedirá el reglamento de la presente Ley, dentro de los siguientes noventa días naturales contados a partir de su entrada en vigor.
+
+Hasta en tanto se expide el reglamento de la presente Ley, serán aplicables en aquello que no la contravenga, las disposiciones legales vigentes en la materia.
+
+Artículo Cuarto. El Gobernador del Estado contará con un plazo de seis meses a partir de la entrada en vigencia de la presente Ley, para expedir el Programa Estatal de Transporte.
+
+Artículo Quinto. Esta Ley no dejará insubsistentes los derechos derivados de las concesiones y permisos que se encuentren vigentes hasta antes de su entrada en vigor, por lo que sus titulares continuarán explotándolas bajo las condiciones que se establecen en la presente Ley.
+
+Artículo Sexto. Los juicios, procedimientos y demás actos administrativos que se encuentren en trámite al momento de la entrada en vigor de la presente Ley, se resolverán en los términos de la legislación aplicable al momento de su iniciación.
+
+Artículo Séptimo. Los permisionarios y concesionarios de los servicios de transporte que refiere la presente Ley tendrán un plazo de diez años, contados a partir de la entrada en vigor de este ordenamiento legal, para que los vehículos con que prestan los servicios de transporte, utilicen la innovación tecnológica en sus motores para su movilidad y sean un transporte amigable con el medio ambiente.
+
+Artículo Octavo. Para efectos del artículo 136, quienes obtengan un permiso durante el año 2016 para la prestación de servicios de transporte privado de personas, si el modelo de sus vehículos no corresponde con el año del otorgamiento del permiso, podrán prestar el servicio con vehículos modelo 2012, 2013, 2014 o 2015, debiendo observar lo relativo al plazo máximo de vida útil de éstos, en términos de lo previsto en la presente Ley, salvo el caso de los vehículos modelo 2012, que podrán prestar el servicio por un plazo improrrogable hasta de dos años.
+
+Artículo Noveno. A partir del inicio de la vigencia de la presente Ley, el Instituto Queretano del Transporte publicará semestralmente en el portal de internet y en los medios electrónicos que para tal efecto se determinen, los indicadores y estadísticas respectivas, en materia de servicio de transporte público y especializado, referidos en el artículo 22, fracción XXXII, de la presente Ley.
+
+Artículo Décimo. Todos los acuerdos, circulares, lineamientos, tarifas y demás disposiciones que emita el Instituto Queretano del Transporte, deberán ser publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en el portal de internet y en los medios electrónicos que para tal efecto se determinen.
+
+Artículo Decimoprimero. Para el caso de los permisos que se otorguen durante el año 2016, para la modalidad de Servicio de Transporte Privado de Pasajeros, la vigencia de éstos fenecerá el 31 de diciembre de 2016.
