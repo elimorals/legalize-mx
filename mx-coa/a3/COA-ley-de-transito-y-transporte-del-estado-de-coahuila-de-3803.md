@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2015-12-22"
+last_updated: "2016-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -211,29 +211,17 @@ Los demás requisitos y especificaciones relativas a la expedición y cancelaci�
 
 (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2015)
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 19.
 
 Las licencias de conducir se expedirán, previa la satisfacción de los requisitos legales, para las siguientes clases de conductores:
 
-I.- Motociclista: se otorgará a personas que pretendan conducir cualquier tipo de motocicleta;
+I.- Tipo A: Chofer particular, se otorgará a personas que pretendan conducir cualquier tipo de vehículo del servicio particular.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+II.- Tipo B: Chofer de transporte público, se otorgará a personas que pretendan conducir cualquier vehículo de transporte público en todas sus modalidades.
 
-II.- Automovilista particular: se expedirá a personas que pretendan manejar automóviles del servicio particular;
-
-III.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2015)
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
-
-IV.- Chofer particular: Se expedirá a personas que pretendan conducir camionetas o camiones destinados al servicio particular;
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
-
-V.- Chofer del servicio público: Se expedirá a personas que pretendan conducir vehículos de transporte público de pasajeros y de carga, y
-
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
-
-VI.- Chofer de carga especializada: Se expedirá a personas que pretendan conducir vehículos que transporten material peligroso conforme lo señala la fracción X del artículo 40 de esta ley, dentro de los límites del municipio o carretera estatal.
+III.- Tipo C: Motociclista, se otorgará a personas que pretendan conducir cualquier tipo de motocicleta, pero ningún otro tipo de vehículo.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
@@ -1628,3 +1616,15 @@ P.O. 22 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 414.- SE REFORMA EL ARTÍCULO 19 DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las licencias de conducir que se hayan expedido antes de la entrada en vigor del presente decreto, continuarán vigentes hasta la fecha de su expedición.
+
+CUARTO.- Las licencias de conducir que se hayan expedido para automovilistas o chofer particular de conformidad con lo previsto por esta ley, a la entrada en vigor del presente decreto facultará a sus poseedores para conducir cualquier clase de vehículo del servicio particular.
