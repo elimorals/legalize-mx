@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "2014-12-13"
+last_updated: "2016-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -2884,3 +2886,29 @@ SEGUNDO. El Pleno del Tribunal o el Consejo de la Judicatura, en su caso, realiz
 Del mismo modo, realizarán las gestiones necesarias ante los Poderes Ejecutivo y Legislativo del Estado, para atender adecuadamente las necesidades presupuestales derivadas de la entrada en vigor de este Decreto.
 
 TERCERO. Se derogan las demás disposiciones legales de igual naturaleza y aquellas reglamentarias que se opongan a la presente Ley.
+
+P.O. 28 DE MAYO DE 2016.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de Tabasco del dos de octubre de mil novecientos noventa, publicada en el Periódico Oficial del Estado de Tabasco de fecha veintiuno de noviembre de mil novecientos noventa, mediante decreto 0118 y sus reformas.
+
+TERCERO. Se establece un plazo de un año contado a partir de la entrada en vigor de este Decreto, para que el Pleno del Tribunal Superior de Justicia emita el Reglamento Interior del Poder Judicial del Estado de Tabasco y demás ordenamientos, por lo que los actuales continuarán vigentes para todos los efectos legales a que haya lugar, en tanto no se opongan al presente Decreto.
+
+CUARTO. Los procedimientos administrativos radicados a la fecha, se continuarán tramitando conforme a la ley que se abroga por el presente Decreto, hasta su total conclusión.
+
+QUINTO. A efecto de adecuar la composición del Comité de Compilación, Sistematización y Publicación de Criterios Aislados y Criterios Jurisprudenciales Locales, conforme lo establecido en el presente Decreto, con la entrada en vigor del mismo se procederá conforme a lo siguiente:
+
+De los tres actuales coordinadores, podrán ser ratificados dos de ellos por el Pleno del Tribunal, conforme a lo señalado por el artículo 35 de la nueva Ley. Los coordinadores que no sean ratificados concluirán sus funciones como tales y regresarán a su adscripción de origen, según corresponda; o bien, a su decisión, recibirán la indemnización que conforme a derecho proceda y se dará por terminado su nombramiento de origen y actual.
+
+SEXTO. En tanto el Consejo de la Judicatura emite los acuerdos relativos a la división en distritos y regiones judiciales, se mantendrán vigentes los que actualmente existen para garantizar la adecuada prestación del servicio de impartición de justicia.
+
+SÉPTIMO. Las áreas de nueva creación entrarán en funciones conforme lo permita el presupuesto que se autorice y sus atribuciones se determinarán en los acuerdos y reglamentos respectivos. Al efecto de lo anterior, se autoriza al Titular del Poder Ejecutivo para que instruya a la Secretaría de Planeación y Finanzas, para que realice los trámites legales y administrativos que correspondan.
+
+OCTAVO. Al servidor público que a la fecha de la entrada en vigor de esta Ley no cumpla con alguno de los requisitos legales para el desempeño de sus funciones, se le otorgará un plazo perentorio, a criterio de los Plenos, según el caso, para que justifique lo conducente; para el caso de no hacerlo, podrá reubicársele en otra área, sin que ello implique alguna afectación a sus derechos laborales, conforme lo permita el presupuesto autorizado y se determine en los acuerdos y reglamentos respectivos.
+
+NOVENO. Hasta en tanto no se expida el ordenamiento único en materia de mecanismos alternativos de solución de controversias, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común, a que hace referencia el inciso c) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, se aplicarán, en lo conducente, la legislación local correspondiente, manteniendo su competencia los Juzgados del Poder Judicial en la materia respectiva. En consecuencia, se faculta al Consejo de la Judicatura del Poder Judicial del Estado, para que, en su momento oportuno, emita los acuerdos generales y demás disposiciones administrativas y reglamentarias, para la liquidación y extinción de los órganos jurisdiccionales que correspondan.
+
+DÉCIMO. En lo que respecta a la competencia de los órganos jurisdiccionales que correspondan, respecto de la materia penal de las causas del sistema mixto tradicional, cuyo procedimiento se encuentre sujeto a las reglas del abrogado Código de Procedimientos Penales para el Estado de Tabasco, aquella subsistirá en tanto se concluyan las causas respectivas o prescriban los delitos que se hayan cometido antes de la vigencia del Nuevo Sistema. En consecuencia, se faculta al Consejo de la Judicatura del Poder Judicial del Estado, para que, en su momento oportuno, emita los acuerdos generales y demás disposiciones administrativas y reglamentarias, para la liquidación y extinción de los órganos jurisdiccionales que correspondan.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
