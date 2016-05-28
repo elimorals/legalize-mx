@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2015-11-07"
+last_updated: "2016-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2016.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -401,9 +401,9 @@ XIX.- Crear municipios conforme a las bases que fija esta Constitución, cuando 
 
 XX.- Dirimir las cuestiones que sobre límites se susciten entre municipios, de conformidad con la ley respectiva;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2016)</small>
 
-XXI.- Elegir al Presidente y a los Consejeros de la Comisión de Derechos Humanos del Estado, en los términos que determinen esta Constitución y las leyes de la materia;
+XXI. Elegir al Presidente y a los Consejeros de la Comisión de Derechos Humanos del Estado; a los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima; y los Consejeros de su Consejo Consultivo, en los términos que determinen esta Constitución y las leyes de la materia;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
@@ -2077,9 +2077,9 @@ De las Responsabilidades de los Servidores Públicos.
 
 Para los efectos de las responsabilidades que puedan incurrir los Servidores Públicos, se reputarán como tales a los representantes de elección popular, a los miembros de los Poderes Ejecutivo y Judicial del Estado, a los integrantes del Instituto Electoral y del Tribunal Electoral, a los funcionarios y empleados y en general a toda persona que desempeñe un empleo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2016)</small>
 
-El Gobernador del Estado, los Diputados a la Legislatura Local y los Magistrados del Supremo Tribunal de Justicia del Estado serán responsables por las violaciones a esta Constitución o a las Leyes Federales, así como por el manejo indebido de fondos y recursos Federales.
+El Gobernador del Estado, los Diputados de la Legislatura Local, los Magistrados del Supremo Tribunal de Justicia del Estado, así como los miembros de los Órganos Autónomos previstos por esta Constitución, serán responsables por violaciones a esta Constitución y a las leyes generales, federales y estatales, así como por el manejo indebido de fondos y recursos públicos.
 
 ###### Artículo 120.
 
@@ -2281,21 +2281,9 @@ En todo el Estado se dará entero crédito y valor a los actos ejecutados por la
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2000)
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 147.
 
-Las relaciones conyugales se establecen por medio de un contrato civil celebrado entre dos personas, con la finalidad de formar una familia, establecer un hogar común, con voluntad de permanencia, para procurarse y ayudarse mutuamente en su vida.
-
-En el Estado existen dos tipos de relaciones conyugales:
-
-I.- Matrimonio: Es aquel que se celebra entre un solo hombre y una sola mujer; y
-
-II.- Enlace Conyugal: Es aquel que se celebra entre dos personas del mismo sexo.
-
-A quienes celebren una relación conyugal se les denominará indistintamente, cónyuges, consortes, esposos o casados.
-
-La ley reglamentará las relaciones conyugales.
+(DEROGADO, P.O. 28 DE MAYO DE 2016)
 
 ###### Artículo 148.
 
@@ -2439,9 +2427,21 @@ g) La inobservancia a las disposiciones en materia de acceso a la información p
 
 h) Corresponderá al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de la Constitución Federal, esta Constitución, la ley general que emita el Congreso de la Unión y la ley estatal de la materia; el cual estará constituido como un organismo autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, que funcionará y tendrá las atribuciones y obligaciones que señalen las leyes de la materia.
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2016)</small>
 
-El organismo se integrará por tres comisionados, quienes durarán en su encargo siete años y no podrán ser reelectos. Serán nombrados, a propuesta del titular del Poder Ejecutivo del Estado, con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, siguiendo el procedimiento establecido en la ley de la materia.
+El organismo se integrará por tres comisionados, quienes durarán en su encargo seis años y no podrán ser reelectos. Serán nombrados, a propuesta del Titular del Poder Ejecutivo del Estado, con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, siguiendo el procedimiento establecido en la Ley de la materia. En la conformación del organismo garante se procurará la equidad de género.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2016)</small>
+
+El Comisionado Presidente será designado por los propios comisionados, mediante voto secreto, por un período de tres años, con posibilidad de ser reelecto por un período igual; estará obligado a rendir un informe anual ante el Congreso del Estado, en la fecha y en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2016)</small>
+
+El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, tendrá un Consejo Consultivo, integrado por tres consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por el propio Congreso. El cargo de integrante del Consejo Consultivo será honorífico.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2016)</small>
+
+El organismo garante que establece este inciso, tendrá la facultad de interponer acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una ley expedida por la Legislatura Local y esta Constitución, que vulnere el derecho de acceso a la información pública y a la protección de datos personales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
@@ -3458,6 +3458,46 @@ Al momento de expedirse la declaratoria a que se refiere el párrafo anterior el
 A partir de la publicación del presente Decreto el Gobernador tendrá hasta un año para enviarle al Congreso del Estado su iniciativa de Ley Orgánica de la Fiscalía General del Estado.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 100 POR EL QUE SE APRUEBA REFORMAR EL PÁRRAFO SEGUNDO DEL INCISO H) FRACCIÓN IV DEL SEXTO PÁRRAFO Y ADICIONAR LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL INCISO H) FRACCIÓN IV DEL SEXTO PÁRRAFO DEL ARTÍCULO 1º; REFORMAR LA FRACCIÓN XXI DEL ARTÍCULO 33; REFORMAR EL PÁRRAFO SEGUNDO DEL ARTÍCULO 119, Y DEROGAR EL ARTÍCULO 147; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Los participantes en el proceso de designación de comisionados para integrar el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima que se sujetaron a la convocatoria emitida el día 11 de febrero de 2016 por el titular del Poder Ejecutivo del Estado, continuarán participando en el proceso atendiendo a las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La designación de los tres comisionados que conforman el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima deberá ser realizada antes del 30 de junio de 2016.
+
+Con objeto de garantizar la renovación escalonada con motivo de los nombramientos que se realizarán por única ocasión, el Congreso del Estado de Colima, a propuesta del Titular del Poder Ejecutivo, elegirá a los comisionados conforme a lo siguiente:
+
+a) Nombrará a una o un Comisionado, cuyo encargo concluirá el último día del mes de junio de 2018;
+
+b) Nombrará a una o un Comisionado, cuyo encargo concluirá el último día del mes de junio de 2020; y
+
+c) Nombrará a una o un Comisionado, cuyo encargo concluirá el último día del mes de junio de 2022.
+
+Un mes antes de concluir cada uno de los comisionados sus respectivos períodos, el Congreso del Estado deberá designar al Comisionado que fungirá en el encargo, por un período de seis años, que invariablemente terminará el último día del mes de junio del año en que se cumpla dicho período.
+
+###### ARTÍCULO CUARTO.
+
+La designación de los tres Consejeros que integraran el Consejo Consultivo, deberá ser realizada antes del 31 de agosto de 2016.
+
+Para garantizar la renovación escalonada con motivo de los nombramientos que se realizarán, por única ocasión el Congreso del Estado, elegirá a los consejeros conforme a lo siguiente:
+
+a) Nombrará a una o un Consejero, cuyo encargo concluirá el último día del mes de agosto de 2018;
+
+b) Nombrará a una o un Consejero, cuyo encargo concluirá el último día del mes de agosto de 2020; y
+
+c) Nombrará a una o un Consejero, cuyo encargo concluirá el último día del mes de agosto de 2022.
+
+Un mes antes de concluir cada uno de los consejeros sus respectivos períodos, el Congreso del Estado deberá designar al Consejero que fungirá en el encargo, por un período de seis años, que invariablemente terminará el último día del mes de agosto del año en que se cumpla dicho período.
 
 ###### ARTÍCULO ÚNICO.
 
