@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2015-12-17"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -69,7 +69,9 @@ I. Asociaciones Público Privadas: las así previstas por la Ley de Asociaciones
 
 II. Balance presupuestario: la diferencia entre los ingresos totales incluidos en las Leyes de Ingresos del Estado y los municipios, con excepción de los financiamientos, y los gastos totales considerados en el Presupuesto de Egresos correspondiente, con excepción de la amortización de la deuda;
 
-III. Balance presupuestario de recursos disponibles: la diferencia entre los ingresos de libre disposición y el gasto corriente o de operación considerados en el Presupuesto de Egresos correspondiente, con excepción de la amortización de la deuda;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+III. Balance presupuestario de recursos disponibles: la diferencia entre los ingresos de libre disposición, más el financiamiento neto y el gasto corriente o de operación considerados en el Presupuesto de Egresos correspondiente, con excepción de la amortización de la deuda;
 
 IV. Dependencias: las unidades administrativas encargadas de la atención de los asuntos encomendados a los sujetos de la Ley, determinadas en las leyes orgánicas o disposiciones análogas respectivas;
 
@@ -103,11 +105,15 @@ XVIII. Municipios: los señalados en la Constitución Política del Estado de Qu
 
 XIX. Organismos constitucionales autónomos: los que con ese carácter contemple la Constitución Política del Estado de Querétaro;
 
-XX. Obra social: las erogaciones destinadas a la vivienda, alimentación, reducción de la pobreza, fomento de la equidad, desarrollo urbano, saneamiento, desarrollo humano y promoción de empleo, así como aquellas orientadas al cumplimiento de los compromisos de pago adquiridos con motivo de los proyectos de infraestructura y obra pública y cualquier otro instrumento jurídico en el que se establezcan obligaciones de pago plurianuales y, en general, todas aquellas destinadas a proveer servicios y bienes públicos a las personas;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XX. Obra social: las erogaciones destinadas a obras y acciones en materia de vivienda, alimentación, reducción de la pobreza, seguridad, fomento de la equidad, desarrollo urbano, saneamiento, desarrollo humano, promoción del empleo, infraestructura e inversión en activos, estudios y proyectos, así como aquellas orientadas al cumplimiento de los compromisos de pago adquiridos con motivo de los proyectos de infraestructura y obra pública y cualquier otro instrumento jurídico en el que se establezcan obligaciones de pago plurianuales y, en general, todas aquellas destinadas a proveer servicios y bienes públicos a las personas;
 
 XXI. Órganos desconcentrados: los órganos de la administración pública con autonomía técnica y de gestión, jerárquicamente subordinados a las dependencias que al efecto se señalen, establecidos por el Gobernador del Estado de Querétaro;
 
-XXII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado de Querétaro, en su conjunto;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XXII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado de Querétaro;
 
 XXIII. Recursos públicos: los ingresos que con base en las Leyes de Ingresos obtengan el Estado y los municipios, así como cualquier bien que conforme la hacienda pública;
 
@@ -153,17 +159,29 @@ Son obligaciones de los sujetos de la Ley:
 
 I. Aplicar, en todo tiempo, con imparcialidad, los recursos públicos que les sean asignados, sin influir en la equidad de la competencia entre los partidos políticos, personas o instituciones que determine la Ley respectiva;
 
-II. Administrar los recursos de que dispongan, con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+II. Administrar los recursos de que dispongan, de acuerdo con los principios previstos en el artículo 104 de esta Ley, para satisfacer los objetivos a los que estén destinados;
 
 III. Llevar su contabilidad en los términos establecidos por esta Ley;
 
 IV. Planear, programar y presupuestar sus actividades, con un enfoque a resultados, cumpliendo con sus programas operativos anuales;
 
-V. Inscribirse en el Registro Federal de Contribuyentes y cumplir con las obligaciones que les impongan las disposiciones fiscales aplicables;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-VI. Cumplir con el pago de las contribuciones que les correspondan, de conformidad con la legislación fiscal aplicable, con cargo a sus presupuestos; y
+V. Inscribirse en el Registro Federal de Contribuyentes de forma individual y cumplir con las obligaciones que les impongan las disposiciones fiscales aplicables;
 
-VII. Llevar a cabo, en el ámbito de su competencia, las actividades de programación, presupuestación, ejecución, control, seguimiento y evaluación del gasto público, conforme a lo establecido en la presente Ley y en las disposiciones que para tal efecto se expidan.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VI. Cumplir con el pago de las contribuciones que le correspondan, de conformidad con la legislación fiscal aplicable, con cargo a sus presupuestos;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VII. Llevar a cabo, en el ámbito de su competencia, las actividades de programación, presupuestación, ejecución, control, seguimiento y evaluación del gasto público, conforme a lo establecido en la presente Ley y en las disposiciones que para tal efecto se expida; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VIII. Proporcionar a la Secretaría trimestralmente, la información que ésta le solicite para el cumplimiento de sus funciones de conformidad con lo previsto en esta Ley y demás disposiciones aplicables. Dicha información deberá ser proporcionada dentro del término de 10 días naturales contados a partir del día siguiente a la solicitud.
 
 ### Capítulo Tercero. Del equilibrio presupuestal y de otros principios presupuestarios
 
@@ -291,9 +309,13 @@ I. Ningún servidor público como tal, puede recibir más remuneración que la q
 
 II. No se concederán, ni cubrirán, jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstos se encuentren asignados por la ley, contrato o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración;
 
-III. Ningún servidor público en el Estado podrá percibir remuneraciones que excedan la establecida para el Presidente de la República, en el presupuesto correspondiente;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-IV. Ningún servidor público podrá percibir una remuneración mayor de la que corresponda al cargo inmediato superior, en cuanto a nivel de responsabilidad o categoría jerárquica, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos; que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función; en todo caso, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República, en el presupuesto correspondiente;
+III. Ningún servidor público en el Estado podrá percibir remuneraciones que excedan las establecidas para el Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+IV. Ningún servidor público podrá percibir una remuneración mayor de la que corresponda al cargo inmediato superior, en cuanto a nivel de responsabilidad o categoría jerárquica, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos; que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función;
 
 V. Los servidores públicos de elección, no recibirán compensaciones, gratificaciones, bonos o incentivos económicos durante y por conclusión del ejercicio del cargo o separación del mismo, por lo que no se podrán presupuestar ni hacer modificación alguna al Presupuesto de Egresos para cubrirlas;
 
@@ -499,6 +521,10 @@ En caso de que los municipios no remitan la propuesta de tablas a que hace refer
 
 En el proceso de integración de la información financiera para la elaboración de los presupuestos del Estado y de los municipios, se deberán incorporar los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño, establecidos en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Para la formulación y ejecución del Presupuesto de Egresos del Estado y de los Municipios, se estará a lo dispuesto en la presente Ley, así como a lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
 ###### Artículo 38.
 
 Los sujetos de la Ley no podrán efectuar ningún egreso que no esté previsto en el Presupuesto de Egresos correspondiente.
@@ -623,6 +649,8 @@ Del Presupuesto de Egresos aprobado por los municipios, se remitirá una copia c
 
 ### Capítulo Primero. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ## Título Quinto. Del ejercicio del gasto público
 
 ### Capítulo Segundo. De las adecuaciones presupuestales
@@ -633,9 +661,13 @@ Del Presupuesto de Egresos aprobado por los municipios, se remitirá una copia c
 
 ###### Artículo 54.
 
-Los titulares de los sujetos de la Ley, serán responsables del ejercicio presupuestal y del cumplimiento de las metas y objetivos previstos en sus respectivos programas, conforme a lo dispuesto en esta Ley y los demás ordenamientos aplicables.
+Los titulares de las dependencias serán responsables del ejercicio presupuestal y del cumplimiento de las metas y objetivos previstos en sus respectivos programas, conforme a lo dispuesto en esta Ley y los demás ordenamientos aplicables.
 
-Para efectos del párrafo anterior, se entenderá por titulares de los sujetos de la Ley, la persona o personas que en términos de las disposiciones legales respectivas, cuenten con facultades de decisión sobre el ejercicio presupuestal, así como de ejecución de los programas de los mencionados sujetos.
+Para efectos del párrafo anterior, se entenderá por titulares de las dependencias, la persona o personas que en términos de las disposiciones legales respectivas, cuenten con facultades de decisión sobre el ejercicio presupuestal, así como de ejecución de los programas de los mencionados sujetos.
+
+Los ejecutores de gasto son responsables directos e inmediatos del cumplimiento de las bases establecidas en el presente numeral y demás disposiciones jurídicas relacionadas con los recursos públicos federales, estatales y/o municipales; así como de la información a la que tengan acceso. Respecto de la información reservada están obligados a guardar estricta confidencialidad sobre la misma.
+
+Para los efectos de esta disposición, se consideran ejecutores del gasto, quienes por cualquier medio tengan a su cargo fondos públicos.
 
 ###### Artículo 55.
 
@@ -733,9 +765,11 @@ Las dependencias del municipio, entidades paramunicipales y fideicomisos en los 
 
 Cuando dichas modificaciones conlleven una adecuación presupuestal, deberán obtener la autorización previa y expresa de la dependencia encargada de las finanzas públicas.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 71.
 
-Sin perjuicio de lo establecido en el artículo 9 de esta Ley, el titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, podrá asignar los recursos que se obtengan en exceso de lo previsto en la Ley de Ingresos del Estado, a los programas que considere necesario y autorizará las transferencias de partidas cuando sea procedente.
+Sin perjuicio de lo establecido en el artículo 9 de esta Ley, el titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, podrá asignar los recursos que se obtengan en exceso de lo previsto en la Ley de Ingresos del Estado, a los programas que considere necesario y autorizará las transferencias de partidas cuando sea procedente, en términos de lo dispuesto en la presente Ley, así como en lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 72.
 
@@ -801,9 +835,11 @@ Para la vigilancia de la correcta aplicación de los recursos destinados a subsi
 
 Con el propósito de asegurar que los subsidios o donaciones se apliquen efectivamente a los objetivos, programas y metas autorizados, además de ser plenamente justificados, será responsabilidad de los sujetos de la ley que otorgaron el subsidio o donativo, reportar el beneficio económico y social a las unidades de administración, para que éstas, a su vez, lo informen al rendir la cuenta pública correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 81.
 
-Los sujetos de la Ley, publicarán trimestralmente en sus respectivas páginas de Internet, la información sobre los montos erogados durante el periodo, por concepto de donativos y subsidios a los sectores económicos y sociales, señalando los datos de identificación previstos en el primer párrafo del artículo 78.
+Los sujetos de la Ley, publicarán trimestralmente en sus respectivas páginas de Internet, la información sobre los montos erogados durante el periodo, por concepto de ayudas y subsidios en términos de la Ley General de Contabilidad Gubernamental.
 
 La publicación se realizará dentro de los 30 días naturales siguientes al cierre del periodo, de conformidad con las disposiciones generales que al efecto se establezcan.
 
@@ -847,27 +883,35 @@ El incumplimiento a lo señalado en este artículo, dará lugar al inicio de un 
 
 El año en que se renueven las administraciones estatal o municipales, las administraciones salientes entregarán a las entrantes los recursos económicos presupuestados para el último trimestre del ejercicio de que se trate conforme lo establezcan sus Presupuestos de Egresos y leyes de ingresos del año correspondiente, mismos que deberán ser suficientes para cubrir, al menos, los compromisos adquiridos, obligaciones por servicios personales y el gasto administrativo hasta el término del año presupuestado. En caso de incumplimiento, se aplicarán las disposiciones relativas a la responsabilidad de los servidores públicos y demás leyes respectivas.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 84.
 
-En el Presupuesto de Egresos del Estado, correspondiente al último año del periodo constitucional de la administración o del cargo, los Poderes Ejecutivo y Legislativo establecerán una partida destinada a gastos de transición, que en el caso del Poder Ejecutivo, será del uno por ciento del presupuesto del sector central y para el Poder Legislativo, del cinco por ciento del presupuesto asignado al gasto corriente mensual promedio del periodo correspondiente a los primeros seis meses del año de que se trate, sin incluir las partidas de servicios personales.
+En el Presupuesto de Egresos del Estado, correspondiente al último año del periodo constitucional de la administración, el Poder Ejecutivo establecerá una partida destinada a gastos de transición, equivalente al uno por ciento del promedio mensual de su gasto administrativo.
 
-Tratándose de los municipios, establecerán la partida destinada a gastos de transición, considerando al menos el uno por ciento del gasto corriente previsto en el Presupuesto de Egresos correspondiente al último ejercicio del periodo constitucional que corresponda, sin incluir las partidas de servicios personales.
+En el caso del Poder Legislativo y para los mismos fines establecidos en el párrafo anterior, se destinará una partida que será del cinco por ciento del promedio mensual de su gasto administrativo.
+
+Tratándose de los municipios, establecerán la partida destinada a gastos de transición, considerando al menos el uno por ciento del gasto corriente previsto en el Presupuesto de Egresos correspondiente al último ejercicio del periodo constitucional de que se trate, sin incluir las partidas de servicios personales.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 85.
 
-La entrega de los recursos a que se refiere el artículo anterior, se realizará a más tardar treinta días naturales previos al día de la entrega recepción, conforme a lo siguiente:
+La entrega de los recursos a que se refiere el artículo anterior, se realizará a más tardar sesenta días naturales previos al día de la entrega recepción, conforme a lo siguiente:
 
-I. En el caso del Poder Ejecutivo, el titular de la Secretaría lo hará a la persona que designe, mediante escrito, el Gobernador Electo;
+I. En el caso del Poder Ejecutivo, la entrega se hará a la persona que designe, mediante escrito, el Gobernador Electo;
 
-II. Tratándose del Poder Legislativo, el titular de la dependencia encargada de las finanzas de la Legislatura los entregará a los Diputados Electos, quienes designarán un comité para tal efecto, conformado por un integrante de cada uno de los grupos o fracciones legislativas; el reparto será proporcional al número de integrantes por grupo o fracción; y
+II. Tratándose del Poder Legislativo, se hará la entrega a los Diputados Electos, a través del representante de cada uno de los grupos o fracciones legislativas; el reparto será proporcional al número de integrantes por grupo o fracción; y
 
-III. En los municipios, el titular de la dependencia encargada de las finanzas públicas del municipio que corresponda, realizará la entrega al Presidente Municipal Electo.
+III. En los municipios, se hará la entrega al Presidente Municipal Electo o a la persona que designe por escrito.
 
-El periodo de ejercicio de dichos recursos no podrá exceder en ningún caso de un mes y será fiscalizado en los términos que establezca la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Querétaro.
+La comprobación de los recursos a que se refiere este artículo, deberá efectuarse durante el mes de octubre del año en el que se inicie el periodo constitucional y será fiscalizado en los términos que establezca la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 86.
 
-Los recursos de la partida de gastos de transición, deberán utilizarse únicamente para gastos de capacitación y para pagos de gasto administrativo del proceso de entrega recepción. No podrán destinarse a cubrir remuneraciones a los servidores públicos señalados en el artículo anterior, ni para pagos a los que serán empleados o funcionarios en la administración entrante.
+Los recursos de la partida de gastos de transición, deberán utilizarse únicamente para gastos de capacitación, gasto administrativo del proceso de entrega recepción y gastos que se generen por la contratación de servicios para la elaboración del Plan Estatal de Desarrollo. No podrán destinarse a cubrir remuneraciones a los servidores públicos señalados en el artículo anterior, ni para pagos a los que serán empleados o funcionarios en la administración entrante.
 
 ###### Artículo 87.
 
@@ -917,13 +961,15 @@ Para la fiscalización se estará a lo dispuesto en la Ley de Fiscalización Sup
 
 ### Capítulo Primero. De la Disciplina Financiera
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 95.
 
 Para efectos de lo dispuesto en la fracción I, del artículo 57 de esta Ley, la Secretaría evaluará el resultado del ejercicio de los recursos públicos, estableciendo al efecto instancias técnicas de evaluación, para propiciar que dichos recursos se asignen y administren con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Tratándose de la evaluación de los recursos ejercidos por los Municipios, la dependencia encargada de las finanzas públicas que corresponda, deberá proporcionar la información que para tal efecto le solicite la Secretaría.
 
 ###### Artículo 96.
 
@@ -1013,21 +1059,15 @@ Las responsabilidades a que se refiere esta Ley, se exigirán con independencia 
 
 ###### Artículo 104.
 
-El presente Título tiene como objeto establecer los criterios generales de responsabilidad hacendaria que regirán al Estado y a los municipios, así como a sus respectivas entidades, para un manejo sostenible de sus finanzas públicas.
+El presente Título tiene como objeto establecer los criterios generales de responsabilidad hacendaria y financiera que regirán al Estado y a los municipios, así como a sus entes públicos, para un manejo sostenible de sus finanzas públicas.
 
-El Estado, los municipios y sus entidades se sujetarán a las disposiciones establecidas en la presente Ley y administrarán sus recursos con base en principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+El Estado, los municipios y sus entes públicos se sujetarán a las disposiciones establecidas en la presente Ley, la Ley de Disciplina Financiera de Entidades Federativas y los Municipios y administrarán sus recursos con base en principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 105.
 
-Adicionalmente a lo establecido en el artículo 40 de la presente ley, en el proyecto de Decreto de Presupuesto de Egresos del Estado y de los Municipios, deberá presentarse un anexo que contenga el balance presupuestario de recursos disponibles, correspondiente al ejercicio fiscal al que se refiera dicho proyecto, así como los siguientes:
-
-a) El que resulte de la Ley de Ingresos y del Presupuesto de Egresos autorizados en el ejercicio fiscal inmediato anterior al del Proyecto de Decreto que se presenta, y
-
-b) El correspondiente al segundo ejercicio fiscal anterior al del ejercicio por el cual se presenta el proyecto de Decreto, el cual se integrará con las cifras de ingresos y egresos efectivamente devengados y contenidos en cuenta pública.
+Adicionalmente a lo establecido en el artículo 40 de la presente ley, en el proyecto de Decreto de Presupuesto de Egresos del Estado y de los Municipios, deberá presentarse un anexo que contenga el balance presupuestario de recursos disponibles y demás información que contemple la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1225,7 +1265,7 @@ Rúbrica
 
 P.O. 20 DE DICIEMBRE DE 2014.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2015.
 
@@ -1456,3 +1496,25 @@ XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cá
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se incorporan a la Comisión Estatal de Infraestructura de Querétaro, las acciones, sistemas, derechos, atribuciones y obligaciones de la Comisión Estatal de Caminos del Estado de Querétaro; así como los servidores públicos adscritos a ésta.
+
+Artículo Cuarto. Los trabajadores de la Comisión Estatal de Caminos del Estado de Querétaro conservarán sus derechos adquiridos.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia a la Comisión Estatal de Caminos del Estado de Querétaro, aludirá ahora a la Comisión Estatal de Infraestructura de Querétaro, por lo que todos los programas, recursos humanos, materiales y financieros de aquella se transfieren al patrimonio de ésta.
+
+Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, los Entes del Estado de Querétaro expedirán su respectivo Código de Ética.
+
+Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
+
+En tanto no se expidan las disposiciones reglamentarias de la Ley que crea la Comisión Estatal de Infraestructura de Querétaro, el Consejo de Administración dictará los criterios y lineamientos para su debida observancia.
