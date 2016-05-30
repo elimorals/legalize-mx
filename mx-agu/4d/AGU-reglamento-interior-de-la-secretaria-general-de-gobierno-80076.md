@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-general-de-gobierno-80076"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-24"
-last_updated: "2014-02-17"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE AGUASCALIENTES -- ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE AGUASCALIENTES --
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el jueves 24 de febrero de 2011.
 
@@ -37,27 +37,37 @@ C O N S I D E R A N D O S:.
 
 Finalmente, en el Transitorio Décimo Primero de la multicitada Ley Orgánica de la Administración Pública del Estado de Aguascalientes, establece la obligación legal de expedir en un término de 60 días naturales los reglamentos interiores de las Dependencias de nueva creación en términos de la Ley Orgánica de la Administración Pública del Estado. En tal razón y haciendo eco de esta obligación legal me permito expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2016)</small>
+
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 ## TÍTULO PRIMERO. ESTRUCTURA Y FUNCIONAMIENTO
 
 ### CAPÍTULO I. Disposiciones Generales
 
-###### ARTÍCULO 1º.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
-El presente Reglamento es de orden público y tiene por objeto, regular la estructura y funcionamiento de la Secretaría de Gobierno del Estado de Aguascalientes.
+###### ARTÍCULO 1°.
 
-###### ARTÍCULO 2º.
+El presente Reglamento es de orden público y tiene por objeto, regular la estructura y funcionamiento de la Secretaría General de Gobierno del Estado de Aguascalientes.
 
-La Secretaría de Gobierno es una dependencia centralizada del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones que expresamente le asignan la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, las demás leyes, así como los reglamentos, decretos, acuerdos y órdenes del Gobernador Constitucional del Estado.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 2°.
+
+La Secretaría General de Gobierno es una dependencia centralizada del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones que expresamente le asignan la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, las demás leyes, así como los reglamentos, decretos, acuerdos y órdenes del Gobernador Constitucional del Estado.
 
 ###### ARTÍCULO 3º.
 
 Para los efectos del presente Reglamento se entiende por:
 
-I. Secretaría: La Secretaría de Gobierno.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-II. Secretario: Al titular de la Secretaría de Gobierno.
+I. Secretaría: La Secretaría General de Gobierno.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+II. Secretario: Al titular de la Secretaría General de Gobierno.
 
 ###### ARTÍCULO 4º.
 
@@ -97,13 +107,21 @@ g. de la Coordinación Jurídica Gubernamental;
 
 h.- de Asuntos Jurídicos;
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
-i.- Administrativa; y
+i.- Administrativa;
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
-j.- del Servicio Nacional de Empleo Aguascalientes.
+j.- del Servicio Nacional de Empleo Aguascalientes;
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+k.- del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+l.- del Centro de Evaluación y Control de Confianza del Estado de Aguascalientes.
 
 Asimismo la Secretaría contará con las demás unidades administrativas subalternas que figuren en el presupuesto anual respectivo, entre las que se encuentran:
 
@@ -167,7 +185,9 @@ Los Directores Generales serán suplidos en sus ausencias temporales menores a 3
 
 Los Directores, Subdirectores, Jefes de Departamento y demás personal de la Secretaría, serán suplidos en sus ausencias temporales menores a 30 días por el servidor de la jerarquía inmediata inferior que ellos mismos señalen, si la ausencia es mayor, serán suplidos por quien designe el Secretario.
 
-### CAPÍTULO III. Del Secretario de Gobierno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2016)</small>
+
+### CAPÍTULO III. Del Secretario General de Gobierno
 
 ###### ARTÍCULO 11.
 
@@ -181,7 +201,9 @@ Corresponde al Secretario:
 
 I. Representar legalmente a la Secretaría en todos los asuntos en que ésta intervenga;
 
-II. Integrar, en coordinación con el Jefe de Gabinete, el proyecto de Agenda de Iniciativas de leyes y Decretos que serán presentados por el Gobernador del Estado a la Legislatura Local, atendiendo las propuestas de las Dependencias y Entidades de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+II. Integrar y coordinar el proyecto de Agenda de iniciativas de leyes y decretos que serán presentados por el Gobernador del Estado a la Legislatura Local, atendiendo a las propuestas de las Dependencias y Entidades de la Administración Pública del Estado;
 
 III. Representar al Gobernador del Estado, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que intervenga con cualquier carácter, que no sean de competencia de otra dependencia; a través de su propia persona, el Subsecretario de Asuntos Jurídicos o el Director General de Asuntos Jurídicos;
 
@@ -195,9 +217,13 @@ VII. Establecer los mecanismos de vigilancia sobre el cumplimiento de los reglam
 
 VIII. Revisar y analizar los expedientes de los aspirantes al cargo de Magistrados adscritos al Poder Judicial del Estado y tramitar lo relativo a la propuesta para el nombramiento de los mismos;
 
-IX. Proponer, en coordinación con el Jefe de Gabinete, la designación y remoción de las personas que representarán al Poder Ejecutivo ante el Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-X. Revisar, en coordinación con el Jefe de Gabinete, los nombramientos de las personas propuestas a ocupar un cargo, empleo o comisión, a efecto de someterlos a consideración y en su caso, a firma del Gobernador del Estado;
+IX. Representar al Poder Ejecutivo en el Consejo de la Judicatura Estatal;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+X. Por instrucciones del Gobernador del Estado, revisar los nombramientos de las personas propuestas a ocupar un cargo, empleo o comisión, a efecto de someterlos a consideración y en su caso, a firma del Gobernador del Estado;
 
 XI. Tramitar y firmar junto con el Gobernador los nombramientos de los Notarios Públicos, así como recibir, tramitar y resolver las quejas que contra ellos se presenten;
 
@@ -237,7 +263,7 @@ XXVIII. Aprobar la organización y funcionamiento de la Secretaría y adscribir 
 
 XXIX. Expedir los manuales de organización y funcionamiento de la Secretaría y de las demás áreas adscritas a la misma;
 
-XXX. Ordenar, en coordinación con el Jefe de Gabinete, la expedición de los nombramientos de Servidores Públicos de la Secretaría y resolver las propuestas que formulen los servidores públicos para la designación de su personal de confianza y creación de plazas;
+XXX. (DEROGADA, P.O. 30 DE MAYO DE 2016)
 
 XXXI. Resolver las dudas que se susciten con motivo de la interpretación de este Reglamento, así como los casos no previstos en el mismo;
 
@@ -395,15 +421,21 @@ La Subsecretaría de Asuntos Jurídicos tiene por objeto el despacho de los sigu
 
 I. Auxiliar al Secretario en los trámites necesarios para que ejerza las facultades establecidas en la fracción XLIII del artículo 12 del presente Reglamento;
 
-II. Coordinar la publicación de las leyes y decretos que expida el Congreso del Estado, así como los Reglamentos y demás normatividad de carácter general, en coordinación con el Jefe de Gabinete;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+II. Coordinar la publicación de las leyes y decretos que expida el Congreso del Estado, así como los Reglamentos y demás normatividad de carácter general;
 
 III. Coadyuvar con el Secretario en la revisión y análisis de los expedientes de los aspirantes al cargo de Magistrados adscritos al Poder Judicial del Estado y tramitar lo relativo a la propuesta para el nombramiento de los mismos;
 
-IV. Previo acuerdo del Secretario con el Jefe de Gabinete, representar al Poder Ejecutivo en el Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+IV. Previo acuerdo del Secretario, representar al Poder Ejecutivo en el Consejo de la Judicatura Estatal;
 
 V. Coordinar el apoyo técnico jurídico que se otorgue al Gobernador del Estado en todos aquellos asuntos que éste le encomiende;
 
-VI. Coordinar la revisión y análisis de todos los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, nombramientos, resoluciones, convenios y demás instrumentos que sean competencia del Gobernador del Estado, a efecto de integrarlos a consideración del Jefe de Gabinete;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VI. Coordinar la revisión y análisis de todos los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, nombramientos, resoluciones, convenios y demás instrumentos que sean competencia del Gobernador del Estado;
 
 VII. Coordinar la asesoría jurídica que se preste en asuntos en que intervengan varias dependencias o entidades de la Administración Pública Estatal;
 
@@ -435,7 +467,9 @@ XX. Vigilar y controlar todo lo relativo a la demarcación y conservación de lo
 
 XXI. Coadyuvar con el Secretario en la resolución de cualquier duda sobre la distribución de competencias de las áreas adscritas a la Secretaría y la aplicación del presente Reglamento;
 
-XXII. Recibir y revisar los anteproyectos de iniciativas de leyes, reglamentos, decretos y acuerdos que los titulares de las dependencias del Poder Ejecutivo hayan formulado de las materias que correspondan a su competencia y proponer los proyectos o en su caso, solicitar las modificaciones a los anteproyectos en coordinación con el Jefe de Gabinete en los casos de su competencia;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XXII. Recibir y revisar los anteproyectos de iniciativas de leyes, reglamentos, decretos y acuerdos que los titulares de las dependencias del Poder Ejecutivo hayan formulado de las materias que correspondan a su competencia y proponer los proyectos o en su caso, solicitar las modificaciones a los anteproyectos;
 
 XXIII. Promover la compilación de la legislación vigente, así como también los reglamentos que regulan el funcionamiento de las dependencias y entidades de la administración pública;
 
@@ -589,9 +623,11 @@ VII. Difundir y ofrecer a la Ciudadanía la solución alternativa de conflictos,
 
 VIII. Coordinar los asuntos y esfuerzos estatales para el diseño, gestión, instrumentación y difusión de políticas públicas de atención al fenómeno migratorio.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 21.
 
-La estructura orgánica, atribuciones y procedimientos de operación de la Coordinación Estatal General de Protección Civil se regirán conforme a la normatividad aplicable. La cual, para un mejor trámite y despacho de los asuntos que le son encomendados, estará adscrita a la Dirección General de Gobernación.
+La estructura orgánica, atribuciones y procedimientos de operación de la Coordinación Estatal de Protección Civil, Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y el Centro de Evaluación y Control de Confianza del Estado de Aguascalientes se regirán conforme a la normatividad aplicable.
 
 ###### ARTÍCULO 22.
 
@@ -617,9 +653,11 @@ IX. Planear y coordinar los festejos para la celebración del Día del Migrante 
 
 X. Todas las demás que guarde dentro de su ámbito de competencia y le sean asignadas.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 23.
 
-La Dirección General de Gobernación contará con la Coordinación del Servicio Locatel, la cual se regirá conforme a las disposiciones normativas vigentes así como en el Decreto de Creación de la Coordinación del Servicio Locatel.
+La Coordinación del Servicio LOCATEL, se regirá por su normatividad aplicable y estará adscrita a la Dirección General de Gobernación.
 
 ###### ARTÍCULO 24.
 
@@ -1188,3 +1226,15 @@ Para la transmisión de la Dirección General del Servicio Nacional de Empleo en
 ###### ARTÍCULO TERCERO.
 
 Los trabajadores de la Dirección General del Servicio Nacional de Empleo en Aguascalientes, contemplados en el acta de transferencia de recursos humanos respectiva, pasarán con todos sus derechos y prerrogativas laborales y sociales a la Secretaría de Gobierno sin modificación o alteración alguna.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO Y DECRETO POR EL CUAL SE CREA LA COORDINACIÓN DEL SERVICIO LOCATEL”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes modificaciones entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto por el cual se crea la Coordinación del Servicio LOCATEL, publicado en el Periódico Oficial del Estado el día 18 de enero de 2010.
