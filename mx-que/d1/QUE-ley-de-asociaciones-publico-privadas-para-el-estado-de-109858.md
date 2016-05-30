@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-asociaciones-publico-privadas-para-el-estado-de-109858"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-18"
-last_updated: "2015-12-17"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 18 de septiembre de 2015.
 
@@ -152,6 +152,10 @@ La Secretaría estará facultada para interpretar esta Ley para efectos administ
 La Ley de Adquisiciones, la Ley de Obra Pública del Estado de Querétaro, así como las disposiciones secundarias que de ellas emanen, sólo serán aplicables a los proyectos y contratos que regula esta Ley, cuando expresamente se señale en la misma.
 
 En lo no previsto por esta Ley, su Reglamento y las disposiciones que de ellos emanen, serán aplicables supletoriamente el Código de Comercio, el Código Civil del Estado de Querétaro, la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro y el Código de Procedimientos Civiles para el Estado de Querétaro, siempre que sus disposiciones no se contrapongan a la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Asimismo, se estará a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 8.
 
@@ -1458,3 +1462,23 @@ XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cá
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se incorporan a la Comisión Estatal de Infraestructura de Querétaro, las acciones, sistemas, derechos, atribuciones y obligaciones de la Comisión Estatal de Caminos del Estado de Querétaro; así como los servidores públicos adscritos a ésta.
+
+Artículo Cuarto. Los trabajadores de la Comisión Estatal de Caminos del Estado de Querétaro conservarán sus derechos adquiridos.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia a la Comisión Estatal de Caminos del Estado de Querétaro, aludirá ahora a la Comisión Estatal de Infraestructura de Querétaro, por lo que todos los programas, recursos humanos, materiales y financieros de aquella se transfieren al patrimonio de ésta.
+
+Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, los Entes del Estado de Querétaro expedirán su respectivo Código de Ética.
+
+Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
