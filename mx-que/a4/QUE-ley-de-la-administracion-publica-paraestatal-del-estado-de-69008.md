@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-administracion-publica-paraestatal-del-estado-de-6900
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2015-12-17"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -71,9 +71,11 @@ El Gobernador del Estado agrupará a las entidades paraestatales en sectores def
 
 La intervención que conforme a las leyes corresponde al Poder Ejecutivo del Estado en la operación de las entidades paraestatales, se realizará a través de la dependencia que corresponda, según el agrupamiento que por sectores haya realizado aquél, la cual fungirá como coordinadora del sector respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 6.
 
-Corresponde a los coordinadores de sector, establecer políticas de desarrollo de las entidades paraestatales, coordinar su programación y presupuestación, conocer su operación, evaluar los resultados y participar en sus órganos de gobierno, conforme a lo dispuesto en las leyes.
+Corresponde a los coordinadores de sector, participar en los órganos de gobierno de sus entidades paraestatales sectorizadas, y cumplir con las demás obligaciones que le establezcan las disposiciones legales.
 
 Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de la dependencia coordinadora podrá agruparlas en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las mismas.
 
@@ -297,7 +299,7 @@ A las empresas de participación estatal mayoritarias, en todos los casos, le se
 
 ###### Artículo 30.
 
-Tienen el carácter de entidades paraestatales de la administración pública local, las sociedades mercantiles en lasque el Estado participe temporalmente y en forma mayoritaria en su capital o en operación de fomento.
+Tienen el carácter de entidades paraestatales de la administración pública local, las sociedades mercantiles en las que el Estado participe temporalmente y en forma mayoritaria en su capital o en operación de fomento.
 
 ###### Artículo 31.
 
@@ -533,9 +535,11 @@ XIII. Las demás facultades y obligaciones que le señalen otras leyes y disposi
 
 ### Capítulo Segundo. Del control y evaluación
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 56.
 
-El órgano interno de control tendrá a su cargo la vigilancia de los organismos descentralizados. Dicho órgano estará integrado por un comisario propietario y un comisario suplente, ambos designados por la Secretaría de la Contraloría del Estado.
+El órgano interno de control tendrá a su cargo la vigilancia de los organismos descentralizados. Su titular será designado por la Secretaría de la Contraloría del Estado.
 
 ###### Artículo 57.
 
@@ -603,7 +607,7 @@ LV LEGISLATURA DEL ESTADO DE QUERÉTARO
 
 MESA DIRECTIVA
 
-DIP: MIGUEL MARTÍNEZ PEÑALOZA
+DIP. MIGUEL MARTÍNEZ PEÑALOZA
 
 PRESIDENTE
 
@@ -858,3 +862,25 @@ XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cá
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se incorporan a la Comisión Estatal de Infraestructura de Querétaro, las acciones, sistemas, derechos, atribuciones y obligaciones de la Comisión Estatal de Caminos del Estado de Querétaro; así como los servidores públicos adscritos a ésta.
+
+Artículo Cuarto. Los trabajadores de la Comisión Estatal de Caminos del Estado de Querétaro conservarán sus derechos adquiridos.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia a la Comisión Estatal de Caminos del Estado de Querétaro, aludirá ahora a la Comisión Estatal de Infraestructura de Querétaro, por lo que todos los programas, recursos humanos, materiales y financieros de aquella se transfieren al patrimonio de ésta.
+
+Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, los Entes del Estado de Querétaro expedirán su respectivo Código de Ética.
+
+Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
+
+En tanto no se expidan las disposiciones reglamentarias de la Ley que crea la Comisión Estatal de Infraestructura de Querétaro, el Consejo de Administración dictará los criterios y lineamientos para su debida observancia.
