@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2016-02-29"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -2999,11 +2999,9 @@ La ley protege, en los términos de este capítulo, no sólo el estado civil, si
 
 Se entiende por estado civil de una persona su situación jurídica concreta que la misma guarda en relación con la familia, como miembro de ésta.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
-Artículo 602 bis.- La familia es una institución social, permanente, compuesta por un conjunto de personas unidas entre sí a partir del vínculo jurídico del matrimonio o por el estado jurídico del concubinato; por el parentesco de consanguinidad, adopción, afinidad, o por una relación de hecho, donde sus miembros gocen de una autonomía e independencia personal.
-
-Las relaciones familiares constituyen un conjunto de deberes, derechos y obligaciones de los miembros del núcleo familiar, pero en ningún caso pueden implicar sumisión de un género hacia otro.
+Artículo 602 bis.- La familia es una institución social, permanente, compuesta por un conjunto de personas unidas entre sí a partir del vínculo jurídico del matrimonio o por el estado jurídico del concubinato; por el parentesco de consanguinidad y afinidad, o por una relación de hecho, donde sus miembros gocen de una autonomía e independencia personal.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -4603,13 +4601,19 @@ El derecho que otorga este artículo podrá ejercitarse solo durante el año sig
 
 ### CAPITULO PRIMERO. Del parentesco
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 826.
 
-La ley no reconoce más parentesco que los de consanguinidad, afinidad y civil.
+La ley no reconoce más parentesco que los de consanguinidad y afinidad.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 827.
 
-Consanguinidad es el parentesco entre personas que descienden de una misma raíz o tronco.
+El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+
+En el caso de la adopción plena, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
 ###### Artículo 828.
 
@@ -4627,13 +4631,15 @@ II.- Cuando la unión sexual sea accidental, no exista entre ellos impedimento p
 
 III.- Cuando siendo accidental la unión sexual, tenga la mujer por virtud de ella un hijo y exista entre ésta y el varón algún impedimento para contraer matrimonio.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 830.
 
-La asimilación a que se refiere el artículo anterior sólo comprende a los parientes consanguíneos y civiles en línea recta ascendente o descendente, sin limitación de grado y su único efecto es constituir un impedimento para el matrimonio como lo dispone el artículo 700 fracción IV.
+La asimilación a que se refiere el artículo anterior sólo comprende a los parientes consanguíneos en línea recta ascendente o descendente, sin limitación de grado y su único efecto es constituir un impedimento para el matrimonio como lo dispone el artículo 700 fracción IV.
 
 ###### Artículo 831.
 
-El parentesco civil es el que nace de la adopción.
+(DEROGADO, P.O. 30 DE MAYO DE 2016)
 
 ###### Artículo 832.
 
@@ -5459,9 +5465,11 @@ Si el recién nacido hubiere tenido o tuviere uno o más hermanos del mismo nomb
 
 En el caso de gemelos, triatres (sic) o más se extenderá, por separado, el acta de registro de nacimiento de cada uno de ellos indicando el orden en que nació.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 983.
 
-La adopción, una vez que el acto que la constituya haya causado ejecutoria, obliga al o a los adoptantes a registrar el nacimiento del adoptado sin que en esta acta se indique la existencia de la adopción.
+La adopción, una vez que el acto que la constituya haya causado ejecutoria, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos. Asimismo se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2004)</small>
 
@@ -6683,9 +6691,11 @@ Son objeto del patrimonio de la familia, la casa habitación de ésta y en algun
 
 La constitución del patrimonio no transmite la propiedad de los bienes que lo constituyen a los miembros de la familia beneficiaria y éstos sólo tienen derecho a disfrutar esos bienes según lo dispone este título.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 1190.
 
-Para los efectos de este título, se entiende por familia a las personas que estando unidas por matrimonio o por parentesco consanguíneo, civil o afín, habiten una misma casa y tengan, por ley o voluntariamente, unidad en la administración del hogar.
+Para los efectos de este título, se entiende por familia a las personas que estando unidas por matrimonio o por parentesco consanguíneo o afín, habiten una misma casa y tengan, por ley o voluntariamente, unidad en la administración del hogar.
 
 ###### Artículo 1191.
 
@@ -8381,11 +8391,13 @@ Los miembros de cada línea dividirán entre sí por partes iguales la porción 
 
 ###### Artículo 1526.
 
-Concurriendo los adoptantes con ascendientes consanguíneos del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes consanguíneos.
+(DEROGADO, P.O. 30 DE MAYO DE 2016)
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 1527.
 
-Si concurre el cónyuge del adoptado con los adoptantes, y con los padres consanguíneos del adoptado, la herencia corresponde al cónyuge. Los ascendientes civiles o consanguíneos en este caso sólo tienen derecho a alimentos.
+Si concurre el cónyuge del adoptado con los adoptantes, la herencia corresponde al cónyuge. Los adoptantes sólo tienen derecho a alimentos.
 
 ###### Artículo 1528.
 
@@ -8439,7 +8451,7 @@ A falta de hermanos, sucederán los hijos de éstos, dividiéndose la herencia p
 
 ###### Artículo 1538.
 
-Ninguna distinción hace la ley, al llamar a los colaterales a la sucesión legítima, entre parientes civiles y parientes por consanguinidad.
+(DEROGADO, P.O. 30 DE MAYO DE 2016)
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -17484,3 +17496,9 @@ P.O. 29 DE FEBRERO DE 2016.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 402 POR EL QUE SE REFORMAN LOS ARTÍCULOS 602 BIS, 826, 827, 830, 983, 1190, 1527, Y SE DEROGAN LOS ARTÍCULOS 831, 1526 Y 1538, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
