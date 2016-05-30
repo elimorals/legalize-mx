@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-defensoria-publica-y-asistencia-juridica-del-estado-9975
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2015-08-07"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DEL INSTITUTO DE LA DEFENSORÍA PENAL PÚBLICA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -890,3 +892,19 @@ P.O. 7 DE AGOSTO DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL INSTITUTO DE LA DEFENSORÍA PENAL PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro, publicada el 20 de marzo de 2014 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como sus reformas de fecha 29 de noviembre de 2014, 27 de marzo y 7 de agosto, ambas de 2015.
+
+Artículo Tercero. Se abroga el Estatuto del Servicio Profesional de Carrera del Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Querétaro, publicado el día 2 de mayo de 2014, con fe de erratas publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 23 de mayo de 2014.
+
+Artículo Cuarto. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Quinto. Todos los programas públicos, recursos humanos, materiales, financieros, bienes muebles e inmuebles asignados a la Jefatura de la Defensoría de oficio o Jefatura de la Defensoría Pública de la Secretaría de Gobierno del Poder Ejecutivo del Estado, que comprende la Defensoría de Oficio, quedarán transferidos al Instituto de Defensoría Penal Pública del Estado de Querétaro para todos los efectos legales a que haya lugar. Se exceptúan de lo anterior los bienes, programas, recursos humanos, materiales, financieros, bienes muebles e inmuebles que correspondan al bufete jurídico gratuito de la Secretaría de Gobierno del Poder Ejecutivo del Estado.
+
+Artículo Sexto. A partir de la entrada en vigor de la presente Ley, todas las referencias en otros ordenamientos legales de la Defensoría de Oficio o Defensoría Pública de la Secretaría de Gobierno del Poder Ejecutivo del Estado, se entenderán hechas al Instituto de Defensoría Penal Pública del Estado de Querétaro.
