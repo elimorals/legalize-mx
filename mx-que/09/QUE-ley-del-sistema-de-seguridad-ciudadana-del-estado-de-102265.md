@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-sistema-de-seguridad-ciudadana-del-estado-de-102265"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-30"
-last_updated: "2014-11-29"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de agosto de 2014.
 
@@ -3568,3 +3570,25 @@ P.O. 29 DE NOVIEMBRE DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley del Sistema de Seguridad Ciudadana del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el día 30 de agosto de 2014, así como sus reformas.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Los derechos del personal operativo quedan salvaguardados a la entrada en vigor• de la presente Ley.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, el Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, formará parte de la Secretaría de Seguridad, cambiando su denominación a Instituto de Formación Policial.
+
+Artículo Sexto. Se abroga el Decreto por el que se crea el Organismo Público Descentralizado del Gobierno del Estado, denominado Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, publicado en el periódico oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga", el día 5 de enero de 2007.
+
+Artículo Séptimo. Los recursos humanos, materiales, presupuestales y financieros a la entrada en vigor de la presente Ley, del citado Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, pasarán a formar parte de la Secretaría de Seguridad.
+
+Artículo Octavo. El actual Director del Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, lo será del Instituto de Formación Policial hasta en tanto no sea removido de su cargo, por lo que en su carácter de representante legal, deberá realizar ante las autoridades competentes, los trámites legales, fiscales y administrativos que sean necesarios con motivo del cambio de denominación y adscripción del referido organismo público descentralizado.
+
+Artículo Noveno. Toda referencia hecha al Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, debe entenderse en lo sucesivo al Instituto de Formación Policial.
