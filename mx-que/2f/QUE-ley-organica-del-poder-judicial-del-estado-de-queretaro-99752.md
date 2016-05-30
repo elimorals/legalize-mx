@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-99752"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2016-05-20"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO EN LO RELATIVO A LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL, LA VIGENCIA SERÁ GRADUAL Y REGIONAL, DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE ESTA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -2656,3 +2656,17 @@ P.O. 20 DE MAYO DE 2016.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley Orgánica del Poder Judicial del Estado de Querétaro publicada el 20 de marzo de 2014 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Tercero. Dentro de los treinta días hábiles siguientes a la entrada en vigor de esta Ley, el Consejo de la Judicatura deberá emitir su propio Reglamento, el del Sistema Penal Acusatorio y Oral y los que requiera para el adecuado cumplimiento de sus funciones.
+
+Artículo Cuarto. Dentro de los quince días hábiles siguientes a la entrada en vigor de esta Ley, deberán quedar conformadas las comisiones que esta Ley contempla, para el adecuado funcionamiento del Consejo de la Judicatura.
+
+Artículo Quinto. Las disposiciones de esta Ley, son aplicables a los Magistrados que se encuentren pendientes de ratificación.
