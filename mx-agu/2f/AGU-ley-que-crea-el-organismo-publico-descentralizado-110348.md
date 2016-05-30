@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-organismo-publico-descentralizado-110348"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-22"
-last_updated: "2015-10-22"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 22 de Octubre de 2015.
 
@@ -151,7 +151,17 @@ II. El titular de la Secretaría de Salud del Estado de Aguascalientes;
 
 III. El Presidente de la Comisión de Salud Pública y Asistencia Social del Congreso del Estado;
 
-IV. Un representante de la Comisión Nacional de Protección Social en Salud; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+IV. Un representante de la Comisión Nacional de Protección Social en Salud;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+V. Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VI. Un representante de la Secretaría de Salud Federal.
 
 V. El titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado.
 
@@ -320,3 +330,13 @@ Dip. Marco Arturo Delgado Martín del Campo,
 SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de octubre de 2015.- Carlos Lozano de la Torre.- Rúbrica. El Secretario General de Gobierno, Sergio Javier Reynoso Talamantes.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 343.- SE REFORMA Y ADICIONA LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
