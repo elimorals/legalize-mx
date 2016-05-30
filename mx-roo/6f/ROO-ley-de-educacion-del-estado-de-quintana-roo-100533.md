@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-100533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2015-11-17"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley Publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 27 de febrero de 2014.
 
@@ -495,7 +495,17 @@ Son atribuciones de las autoridades educativas municipales:
 
 I. Promover y prestar servicios educativos de cualquier tipo o modalidad, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal;
 
-II. Construir, adecuar, rehabilitar, dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales, de conformidad con la Ley de Infraestructura Física Educativa del Estado y en coordinación con la autoridad educativa estatal;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
+II.- Destinar recursos para construir, adecuar, rehabilitar, dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales, de conformidad con la Ley de Infraestructura Física Educativa del Estado y en coordinación con la autoridad educativa estatal. El destino de los recursos por parte de los Municipios deberá hacerse previa coordinación con la Autoridad Educativa Estatal con el objetivo de optimizar su aplicación, evitando en todo caso la duplicidad de inversión en obras y/o equipamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, el Ayuntamiento a más tardar en el mes de enero de cada año, determinará las acciones que deberá emplear para la educación pública en el Municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Tratándose del otorgamiento de recursos financieros para el mantenimiento de las escuelas públicas establecidas en el Municipio, aquellos deberán destinarse a las instituciones educativas públicas que por su situación precaria y por la zona en la que se encuentren sea necesario el otorgamiento de dichos recursos.
 
 III. Donar predios para que la autoridad educativa estatal construya planteles educativos y demás infraestructura que resulte necesaria;
 
@@ -511,7 +521,9 @@ VIII. Impulsar el desarrollo de la enseñanza tecnológica y de la investigació
 
 IX. Fomentar y realizar actividades artísticas y deportivas en todas sus manifestaciones.
 
-La autoridad educativa estatal promoverá la celebración de convenios con la autoridad municipal, para coordinar y unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
+La autoridad educativa estatal promoverá la celebración de convenios con la autoridad municipal, para coordinar y unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo a que se refiere este artículo, debiendo retroalimentar el Sistema de Información y Gestión Educativa.
 
 ###### Artículo 30.
 
@@ -1975,7 +1987,13 @@ XI. Podrá proponer estímulos y reconocimientos de carácter social a alumnos, 
 
 XII. Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública, y
 
-XIII. En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XIII.- La atención posible de aquellas escuelas públicas que requieran de mantenimiento físico y de equipo básico, y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XIV.- En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
 
 Será responsabilidad del presidente municipal que en el Consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
 
@@ -2168,3 +2186,11 @@ P.O. 3 DE ABRIL DE 2014.
 P.O. 17 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- El presente decreto entrara en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 401 POR EL QUE SE REFORMAN: LA FRACCIÓN II Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 29 Y LA FRACCIÓN XIII DEL ARTÍCULO 169; Y SE ADICIONAN: LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN II DEL ARTÍCULO 29 Y LA FRACCIÓN XIV AL ARTÍCULO 169, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTARA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
