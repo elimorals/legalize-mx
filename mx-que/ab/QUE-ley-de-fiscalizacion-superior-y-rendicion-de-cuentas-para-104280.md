@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2014-12-20"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -56,6 +56,10 @@ III. Determinar los daños y/o perjuicios que afecten a la hacienda pública de 
 IV. Fincar directamente a los responsables las indemnizaciones resarcitorias en términos de ley; y
 
 V. Por instrucciones del Pleno de la Legislatura, iniciar las acciones penales que correspondan, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VI. Determinar y dictaminar, en su caso, sobre el cumplimiento, por parte de las entidades fiscalizadas, de las disposiciones contenidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como de la Ley General de Contabilidad Gubernamental.
 
 ###### Artículo 2.
 
@@ -197,7 +201,9 @@ d) La votación con la cual se apruebe el Acuerdo señalado en el inciso b) ante
 
 Para ser Auditor Superior del Estado se requiere satisfacer los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento y no adquirir otra nacionalidad; en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+I. Ser ciudadano mexicano por nacimiento, en pleno uso de sus derechos civiles y políticos;
 
 II. Tener por lo menos treinta y cinco años cumplidos el día de su designación;
 
@@ -209,7 +215,9 @@ V. No haber sido Secretario de Estado, Procurador General de Justicia o haber ej
 
 VI. Contar, al momento de su designación, con experiencia en actividades o funciones relacionadas con el control y Fiscalización Superior del gasto público, política presupuestaria, evaluación del gasto público, del desempeño y de políticas públicas, administración financiera o manejo de recursos públicos;
 
-VII. Contar, el día de su designación, con título y cédula profesional de contador público, licenciado en derecho o cualquier otro título profesional relacionado con las actividades de fiscalización, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de diez años; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VII. Contar, el día de su designación, con título y cédula profesional de contador público, licenciado en derecho o cualquier otro título profesional relacionado con las actividades de administración de recursos públicos, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de diez años; y
 
 VIII. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público de los diversos órdenes de gobierno.
 
@@ -273,9 +281,19 @@ d) Efectuar la contratación de despachos de auditoría externa para efectuar ev
 
 e) Promover la evaluación entre pares; y
 
-XXIV. Las demás que señale esta Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-Las atribuciones previstas en las fracciones II, IV, V, VI, VII, VIII, IX, XIV, XVI, XVIII, XIX, XXI, XXII y XXIII de este artículo, son de ejercicio exclusivo del Auditor Superior del Estado de Querétaro y, por lo tanto, no podrán ser delegadas.
+XXIV. Habilitar días y horas inhábiles cuando hubiere causa justificada que lo exija. En el documento que al efecto se expida, se expresará la causa de la habilitación y las diligencias que habrán de practicarse.
+
+Cuando por cualquier circunstancia no se lleve a cabo una actuación o diligencia en el día y hora señalados, se hará constar la razón por la que no se practicó; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XXV. Las demás que señale esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Las atribuciones previstas en las fracciones II, IV, V, VI, VII, VIII, IX, XIV, XVI, XVIII, XIX, XXI, XXII, XXIII y XXIV de este artículo, son de ejercicio exclusivo del Auditor Superior del Estado de Querétaro y, por lo tanto, no podrán ser delegadas.
 
 ###### Artículo 19.
 
@@ -349,15 +367,21 @@ Los servidores públicos de la ESFE se clasifican en trabajadores de confianza y
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 27.
 
-La Cuenta Pública del ejercicio fiscal correspondiente, deberá ser presentada por el titular de la entidad fiscalizada o por el responsable de las finanzas, ante la Legislatura a través de la ESFE, a más tardar el último día del mes de febrero del año siguiente.
+La Cuenta Pública del ejercicio fiscal correspondiente, deberá ser presentada por el titular de la entidad fiscalizada y por el responsable de las finanzas, ante la Secretaría de Planeación y Finanzas o su equivalente en los Municipios, en el plazo que dichas Secretarías determinen.
 
-La Cuenta Pública deberá contener como mínimo lo señalado en la Ley General de Contabilidad Gubernamental y los acuerdos emitidos por el CONAC en los términos que éstos establezcan, además de lo solicitado por la ESFE.
+La Secretaría de Planeación y Finanzas integrará la Cuenta Pública de los entes públicos para conformar la Cuenta Pública de la Entidad Federativa, en términos de la Ley General de Contabilidad Gubernamental.
 
-La ESFE deberá informar al Presidente de la Mesa Directiva de la Legislatura, en un plazo no mayor de cinco días hábiles, los casos en que algunas de las entidades sujetas a Fiscalización Superior no hubieren presentado en tiempo y forma la Cuenta Pública para su revisión.
+La Cuenta Pública de la Entidad Federativa deberá ser entregada por la Secretaría de Planeación y Finanzas a la Legislatura, a través de la Entidad Superior de Fiscalización del Estado, a más tardar el último día del mes de febrero.
 
-El Presidente de la Mesa Directiva de la Legislatura, requerirá a los titulares de las entidades omisas que corresponda, para que en un plazo no mayor a cinco días hábiles, se presente la Cuenta Pública respectiva ante la Legislatura. De no presentarla en este plazo, podrá ser motivo para que el Pleno de la Legislatura inicie el proceso de responsabilidad contemplado en la Constitución Política del Estado de Querétaro. No obstante lo anterior, la Legislatura instruirá a la ESFE, para que ésta inicie el proceso de revisión de la gestión financiera.
+La dependencia encargada de las finanzas públicas de los Municipios, integrará la Cuenta Pública de los entes públicos para conformar la Cuenta Pública del Ayuntamiento del Municipio correspondiente, en términos de la Ley General de Contabilidad Gubernamental.
+
+La Cuenta Pública del Ayuntamiento del Municipio, deberá ser entregada por la dependencia encargada de las finanzas públicas del Municipio a la Legislatura, a través de la Entidad Superior de Fiscalización del Estado, a más tardar el último día del mes de febrero.
+
+Se considerará como infracción grave, para efectos de la imposición de las sanciones administrativas correspondientes, cuando los titulares de los entes públicos no presenten la cuenta pública en los términos establecidos en ley.
 
 ###### Artículo 28.
 
@@ -475,6 +499,18 @@ XXIII. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamie
 
 La ESFE iniciará la Fiscalización Superior, conforme a las disposiciones de esta Ley, de sus reglamentos y de los manuales de procedimientos aplicables.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Las actuaciones y diligencias del personal de la ESFE se efectuarán en días y horas hábiles, y excepcionalmente, mediante la habilitación que determine el Auditor Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Serán días hábiles todos los del año, excepto disposición expresa en contrario; así como los sábados, domingos y aquellos que conforme al Manual que fija los días inhábiles y períodos vacacionales de los Trabajadores de la Entidad Superior de Fiscalización del Estado, sean debidamente publicados en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Serán horas hábiles las comprendidas entre las 8:00 y las 15:30 horas. En caso de que se inicie una actuación o diligencia en horas hábiles, podrá concluirse en horas inhábiles. Sólo podrá suspenderse por causa de fuerza mayor, caso fortuito o por necesidades del servicio, mediante el acuerdo respectivo.
+
 ###### Artículo 35.
 
 La ESFE y las Entidades fiscalizadas, en el proceso de la Fiscalización Superior, se sujetarán a lo siguiente:
@@ -579,15 +615,19 @@ En los cambios de administración que proceden conforme a la Constitución Polí
 
 La solicitud de información en términos del artículo anterior, será presentada por el ex servidor público ante la ESFE, la que en un plazo no mayor a cuarenta y ocho horas la turnará a la Entidad fiscalizada respectiva, misma que en un plazo no mayor a cinco días naturales deberá resolver sobre la solicitud de información a la ESFE, la cual la hará del conocimiento del ex servidor público dentro de las cuarenta y ocho horas siguientes a su recepción.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 45.
 
-En el caso de que alguna Entidad fiscalizada no cumpla con lo establecido en el artículo 36 de esta Ley, la ESFE impondrá al titular de la Entidad fiscalizada una sanción en los términos de esta Ley, independientemente de la observación que se haga constar en el Informe del Resultado y de las responsabilidades que se incurra.
+En el caso de que alguna Entidad fiscalizada no cumpla con lo establecido en el artículo 43 de esta Ley, la ESFE impondrá al titular de la Entidad fiscalizada una sanción en los términos de esta Ley, independientemente de la Observación que se haga constar en el Informe del Resultado y las responsabilidades que incurra.
 
 ### Capítulo III. Del Informe del Resultado y su análisis
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 46.
 
-La ESFE tendrá un plazo de hasta 270 días naturales a partir de la recepción de la Cuenta Pública, para presentar los Informes de Resultados correspondientes, al presidente de la Mesa Directiva de la Legislatura. La ESFE deberá guardar reserva de sus actuaciones hasta en tanto sean publicados.
+La ESFE tendrá un plazo de hasta 270 días naturales a partir de la recepción de la Cuenta Pública, para presentar los Informes de Resultados correspondientes, al presidente de la Mesa Directiva de la Legislatura, para dar cumplimiento al principio rector de publicidad de la información, la ESFE podrá hacer público el contenido de los Informes del Resultado, a partir del momento en que sean entregados a la Legislatura.
 
 La ESFE podrá presentar Informe de Resultado de la Fiscalización Superior, llevada a cabo a los Informes de Avance de Gestión Financiera, correspondientes al período del uno de enero al treinta se junio del año en que tengan elecciones los Poderes Ejecutivo Estatal y Legislativo, así como los Municipios.
 
@@ -924,3 +964,25 @@ Germán Giordano Bonilla
 Secretario de Planeación y Finanzas
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se incorporan a la Comisión Estatal de Infraestructura de Querétaro, las acciones, sistemas, derechos, atribuciones y obligaciones de la Comisión Estatal de Caminos del Estado de Querétaro; así como los servidores públicos adscritos a ésta.
+
+Artículo Cuarto. Los trabajadores de la Comisión Estatal de Caminos del Estado de Querétaro conservarán sus derechos adquiridos.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia a la Comisión Estatal de Caminos del Estado de Querétaro, aludirá ahora a la Comisión Estatal de Infraestructura de Querétaro, por lo que todos los programas, recursos humanos, materiales y financieros de aquella se transfieren al patrimonio de ésta.
+
+Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, los Entes del Estado de Querétaro expedirán su respectivo Código de Ética.
+
+Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
