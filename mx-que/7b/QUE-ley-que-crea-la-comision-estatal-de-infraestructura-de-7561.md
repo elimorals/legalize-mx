@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-la-comision-estatal-de-infraestructura-de-7561"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2009-05-29"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY QUE CREA LA COMISION ESTATAL DE INFRAESTRUCTURA DE QUERETARO -- ANTES LEY QUE CREA LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO --
 
-LEY QUE CREA LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO
+LEY QUE CREA LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1985.
 
@@ -31,53 +31,71 @@ LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Sobe
 
 LA CUADRAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL... ha tenido a bien expedir la siguiente:
 
-LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
+LEY QUE CREA LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO
 
-## TITULO PRIMERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+## TITULO PRIMERO. GENERALIDADES
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la política carretera y de infraestructura de jurisdicción estatal.
+Esta Ley es de orden público e interés social y tiene por objeto regular la organización y el funcionamiento de la Comisión Estatal de Infraestructura de Querétaro.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 2.
 
-Se crea el Organismo Público Descentralizado del Gobierno del Estado denominado "Comisión Estatal de Caminos del Estado de Querétaro", con personalidad jurídica y patrimonio propio, que tendrá a su cargo las funciones y facultades que esta Ley dispone.
+Se crea el Organismo Público Descentralizado del Estado de Querétaro denominado "Comisión Estatal de Infraestructura de Querétaro", con personalidad jurídica y patrimonio propio, que depende del Poder Ejecutivo y tendrá a su cargo las funciones y facultades que esta Ley dispone.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2016)</small>
 
-## TITULO SEGUNDO. DE LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO
+## TITULO SEGUNDO. DE LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2016)</small>
 
-### CAPITULO I. DE LAS ATRIBUCIONES, RECURSOS Y ORGANOS DE LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO
+### CAPITULO I. DE LAS ATRIBUCIONES, RECURSOS Y ÓRGANOS DE LA COMISIÓN ESTATAL DE INFRAESTRUCTURA DE QUERÉTARO
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 3.
 
-La Comisión Estatal de Caminos del Estado de Querétaro, tiene las siguientes facultades:
+El objeto de la Comisión Estatal de Infraestructura de Querétaro es fungir como un organismo con capacidad normativa, de consultoría, realización y ejecución de infraestructura física del Estado de Querétaro, en términos de esta Ley, su reglamento y demás disposiciones aplicables, y desempeñarse como una instancia asesora en esas materias; estará encargada de ejecutar, dirigir, supervisar y controlar las obras civiles asignadas al organismo; de la construcción, equipamiento, mantenimiento, rehabilitación, refuerzo, reconstrucción, reconversión y habilitación de inmuebles e instalaciones destinados al servicio público, relacionado con éste, o en los términos de los convenios de coordinación y/o colaboración que celebre con el sector público, privado, académico o social, teniendo las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 I.- Administrar e invertir los recursos de la Comisión de acuerdo a lo señalado por esta Ley y sus Reglamentos;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+
 II.- Realizar toda clase de actos jurídicos necesarios para cumplir con sus finalidades;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 III.- Adquirir bienes muebles e inmuebles para los fines que le son propios;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+
 IV.- Establecer y Organizar a sus dependencias y expedir sus reglamentos interiores;
 
-V.- Elaborar los proyectos y programas de inversión en materia de Caminos de Interés del Estado;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-VI.- Ejecutar los programas aprobados y conservar y mantener en condiciones de transitabilidad las carreteras estatales, alimentadoras, urbanas y libramientos, caminos rurales y aeropistas de jurisdicción estatal, comprendiendo la construcción, reconstrucción, modernización, conservación y mantenimiento de las mismas;
+V.- Elaborar los proyectos y programas de inversión en las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VI.- Convenir con las Dependencias y Entidades del Gobierno Federal, Estatal y Municipal y con integrantes u organizaciones del sector público, social, académico y privado, las acciones necesarias para cumplir con los objetivos fijados por este Ley;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 VII.- Otorgar y promover la asistencia técnica a los ayuntamientos en la obra pública, que les permitan elevar la calidad de vida de su población;
 
-VIII.- Convenir con las Dependencias y Entidades del Gobierno Federal, Estatal y Municipal y con organismos del sector público, social y privado, las acciones necesarias para cumplir con los objetivos fijados por esta Ley; y (sic)
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VIII.- Convenir con las Dependencias y Entidades del Gobierno Federal, Estatal y Municipal y con integrantes u organizaciones del sector público, social, académico y privado, las acciones necesarias para cumplir con los objetivos fijados por esta Ley;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
 
@@ -87,27 +105,33 @@ IX.- Ejecutar, dirigir, supervisar y controlar las obras civiles asignadas al or
 
 X.- Las demás que establezca la presente Ley, sus reglamentos y cualquier otra disposición aplicable.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
-El patrimonio de la Comisión Estatal de Caminos del Estado de Querétaro, estará constituido por los bienes muebles e inmuebles y recursos de su propiedad, así como por los que lleguen a aportar el Gobierno Federal, el Gobierno del Estado, los recursos municipales y los de los particulares que se le entreguen conforme a los programas aprobados y por los que por otros medios la Comisión se haga llegar.
+El patrimonio de la Comisión Estatal de Infraestructura de Querétaro, estará constituido por los bienes muebles e inmuebles y recursos de su propiedad, así como por los que lleguen a aportar el Gobierno Federal, el Gobierno del Estado, los recursos municipales y los de los particulares que se le entreguen conforme a los programas aprobados y por los que por otros medios la Comisión se haga llegar.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 5.
 
-La relación entre la Comisión y sus trabajadores se regirá por lo dispuesto en la Ley de los Trabajadores al Servicio del Estado y Municipios.
+La relación entre la Comisión y sus trabajadores se regirá por lo dispuesto en la Ley de los Trabajadores al Servicio del Estado de Querétaro.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 6.
 
-Son órganos de la Comisión Estatal de Caminos:
+Son órganos de la Comisión Estatal de Infraestructura de Querétaro:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 I.- El Consejo de Administración.
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+
 II.- El Comisario.
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 III.- El Coordinador General.
 
@@ -115,19 +139,29 @@ III.- El Coordinador General.
 
 ### CAPITULO II. DEL CONSEJO DE ADMINISTRACION
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 7.
 
-El órgano superior de la Comisión Estatal de Caminos del Estado de Querétaro es el Consejo de Administración y se constituye por:
+El órgano superior de la Comisión Estatal de Infraestructura de Querétaro es el Consejo de Administración y se constituye por:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 I.- Un Presidente, que será el C. Gobernador del Estado o la persona que él designe;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
+
 II.- Un Secretario, que será la persona que designe el C. Gobernador del Estado;
 
-III.- Vocales: que serán los titulares de las Dependencias Estatales de Planeación y Finanzas, Desarrollo Urbano, Obras Públicas y Ecología, de Desarrollo Agropecuario; así como el Director del Centro de la Secretaría de Comunicaciones y Transportes; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+III.- Vocales: que serán los titulares de las Dependencias Estatales de Planeación y Finanzas, Desarrollo Sustentable, de Desarrollo Agropecuario; así como el Director del Centro de la Secretaría de Comunicaciones y Transportes; y
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1992)</small>
 
 IV.- Vocales: los titulares de las Dependencias Federales, Estatales y Municipales, que el mismo Consejo de Administración considere prudente que participen y formen parte del mismo, eventual o permanentemente.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1992)</small>
 
 Todos los miembros del Consejo tendrán un suplente con las mismas facultades del titular.
 
@@ -163,7 +197,9 @@ III.- Convocar a sesiones ordinarias o extraordinarias;
 
 IV.- Autorizar el orden del día a que se sujetarán las sesiones;
 
-V.- Representar a la Comisión Estatal de Caminos del Estado de Querétaro, ante toda clase de autoridades, Dependencias, Organismos o particulares, por lo que se le conceden todos los poderes para pleitos y cobranzas, actos de administración y de riguroso dominio, con la limitante que para ejercer estos últimos, requerirá autorización del Consejo si se tratare de persona distinta al Gobernador del Estado, por lo que estará dotado de las más amplias facultades generales y especiales que la Ley otorga a un apoderado general, aun las que requieran de cláusula especial, inclusive podrá delegar o sustituir dicha representación; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+V.- Representar a la Comisión Estatal de Infraestructura de Querétaro, ante toda clase de autoridades, Dependencias, Organismos o particulares, por lo que se le conceden todos los poderes para pleitos y cobranzas, actos de administración y de riguroso dominio, con la limitante que para ejercer estos últimos, requerirá autorización del Consejo si se tratare de persona distinta al Gobernador del Estado, por lo que estará dotado de las más amplias facultades generales y especiales que la Ley otorga a un apoderado general, aun las que requieran de cláusula especial, inclusive podrá delegar o sustituir dicha representación; y
 
 VI.- Las demás atribuciones que le confiere esta Ley y sus disposiciones reglamentarias.
 
@@ -233,7 +269,9 @@ El Coordinador General tiene las siguientes funciones:
 
 I.- Ejecutar los acuerdos del propio Consejo de Administración;
 
-II.- Representar a la Comisión Estatal de Caminos del Estado de Querétaro ante toda clase de autoridades, organismos, dependencias o particulares y tendrá los poderes de representación legal con facultades de Apoderado General para actos de administración, pleitos y cobranzas exclusivamente;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+II.- Representar a la Comisión Estatal de Infraestructura de Querétaro ante toda clase de autoridades, organismos, dependencias o particulares y tendrá los poderes de representación legal con facultades de Apoderado General para actos de administración, pleitos y cobranzas exclusivamente;
 
 III.- Elaborar y presentar al Consejo de Administración anualmente, para su análisis, y en su caso, aprobación, los planes y programas de trabajo de la Comisión, así como el presupuesto de ingresos y egresos para el siguiente período;
 
@@ -249,23 +287,23 @@ VIII.- Asistir a las reuniones del Consejo de Administración; y
 
 IX.- Las demás que señalen las disposiciones de esta Ley y sus reglamentos.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 14.
 
-La Comisión Estatal de Caminos del Estado de Querétaro, deberá de elaborar sus programas, planes y proyectos, sujetándose a la política, estrategias, prioridades y metas establecidas en la Ley de Planeación del Estado y los Programas de Desarrollo Estatal.
+La Comisión Estatal de Infraestructura de Querétaro, deberá de elaborar sus programas, planes y proyectos, sujetándose a la política, estrategias, prioridades y metas establecidas en la Ley de Planeación del Estado de Querétaro y los Programas de Desarrollo Estatal.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 15.
 
-La Comisión Estatal de Caminos del Estado de Querétaro podrá convenir con las dependencias y entidades del Gobierno Federal, Estatal y Municipal y con los organismos del sector público, social y privado, la construcción, ampliación y mantenimiento de obras y vías de comunicación de jurisdicción Estatal.
+La Comisión Estatal de Infraestructura de Querétaro podrá convenir con las dependencias y entidades del Gobierno Federal, Estatal y Municipal y con los organismos del sector público, social y privado, la construcción, ampliación y mantenimiento de obras y vías de comunicación de jurisdicción Estatal.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 16.
 
-Todas las obras que realice la Comisión Estatal de Caminos del Estado de Querétaro deberán sujetarse a lo dispuesto por la Ley de Obras Públicas, la demás Legislación de la materia y sus reglamentos.
+Todas las obras que realice la Comisión Estatal de Infraestructura de Querétaro deberán sujetarse a lo dispuesto por la Ley de Obras Públicas, la demás Legislación de la materia y sus reglamentos.
 
 T R A N S I T O R I O S
 
@@ -336,3 +374,23 @@ P.O. 29 DE MAYO DE 2009.
 Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se incorporan a la Comisión Estatal de Infraestructura de Querétaro, las acciones, sistemas, derechos, atribuciones y obligaciones de la Comisión Estatal de Caminos del Estado de Querétaro; así como los servidores públicos adscritos a ésta.
+
+Artículo Cuarto. Los trabajadores de la Comisión Estatal de Caminos del Estado de Querétaro conservarán sus derechos adquiridos.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia a la Comisión Estatal de Caminos del Estado de Querétaro, aludirá ahora a la Comisión Estatal de Infraestructura de Querétaro, por lo que todos los programas, recursos humanos, materiales y financieros de aquella se transfieren al patrimonio de ésta.
+
+Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, los Entes del Estado de Querétaro expedirán su respectivo Código de Ética.
+
+Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
