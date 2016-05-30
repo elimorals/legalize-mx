@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-99755"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2016-05-20"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -2412,3 +2414,63 @@ P.O. 20 DE MAYO DE 2016.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día 30 de mayo de 2016.
+
+Artículo Segundo. La naturaleza de la Fiscalía General del Estado de Querétaro, como Organismo Constitucional Autónomo, entrará en vigor en la misma fecha señalada en el artículo anterior.
+
+Artículo Tercero. Se abrogan la Ley de la Procuraduría General de Justicia y la Ley Orgánica de la Procuraduría General de Justicia, ambas del Estado de Querétaro y se derogan todas las disposiciones que se opongan a la presente, salvo lo dispuesto en los siguientes artículos.
+
+Artículo Cuarto. Los fondos públicos asignados o pertenecientes a la Fiscalía General del Estado de Querétaro se regirán por las leyes en materia de manejo de recursos públicos y administración financiera vigentes. El Fiscal General del Estado y demás servidores públicos que administren y/o ejecuten dichos fondos adquieren el carácter de Ejecutor Responsable de los mismos a partir de que los reciban.
+
+Artículo Quinto. La Fiscalía General del Estado de Querétaro, continuará aplicando las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto el Fiscal General expida las correspondientes y entren en vigor en su ámbito de competencia.
+
+Artículo Sexto. Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, realizar las adecuaciones presupuestales necesarias con motivo de la entrada en funciones de la Fiscalía General del Estado de Querétaro.
+
+Artículo Séptimo. Las facultades atribuidas al Procurador General de Justicia en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán conferidas al Fiscal General del Estado de Querétaro, siempre que sean compatibles con su carácter de Organismo Constitucional Autónomo.
+
+La mención de la Procuraduría General de Justicia o del Procurador General de Justicia, en leyes, reglamentos y demás disposiciones jurídicas, ahora se entenderán referidas a la Fiscalía General o al Fiscal General del Estado de Querétaro, respectivamente, en los términos precisados en el párrafo anterior.
+
+Artículo Octavo. La Fiscalía General tiene las facultades de Investigación y Persecución de los Delitos, por tal motivo en cuanto a los bienes y recursos, se deberán observar las siguientes precisiones:
+
+a) La Procuraduría General de Justicia del Estado, determinará las áreas o unidades administrativas, bienes y el número de personal requerido para el cumplimiento de la operación inicial de las funciones a cargo de la Fiscalía General.
+
+b) Conserva al personal y bienes que sean necesarios para el cumplimiento de las funciones de investigación y persecución de los delitos, las áreas administrativas y las generales derivadas de los ordenamientos legales que son inherentes a las atribuciones a su cargo; este personal conservará sus derechos laborales.
+
+c) Las demás áreas que no son inherentes a las funciones de la Fiscalía General, plenamente identificadas en personal y bienes, se transfieren al Ejecutivo, para que, a través de sus dependencias dispongan lo que sea necesario.
+
+d) La Secretaría de la Contraloría dependiente del Poder Ejecutivo del Estado, emitirá los lineamientos para el proceso de entrega, en donde determinará del personal de la Procuraduría General de Justicia del Estado quién debe hacer entrega.
+
+e) El Fiscal General del Estado, expedirá los nombramientos del personal a su cargo, así como la normatividad necesaria para el cumplimiento de las funciones de la Fiscalía General.
+
+f) Las relaciones de los trabajadores de la Fiscalía General del Estado de Querétaro, se regirán por la normatividad aplicable.
+
+g) Los recursos financieros y presupuestales asignados o con que actualmente cuenta la Procuraduría General de Justicia, incluyendo los derechos derivados de los fondos vigentes necesarios para su operación, pasarán a formar parte de la Fiscalía General del Estado de Querétaro.
+
+h) La Fiscalía General del Estado de Querétaro asume y se subroga en todos y cada uno de los derechos y de las obligaciones derivadas de las relaciones establecidas por la Procuraduría General de Justicia con integrantes del sector público, privado, social y académico.
+
+i) Se continuarán aplicando las disposiciones vigentes a la entrada en vigor de la presente Ley, relativas a sueldos, prestaciones, escalafón, tabuladores y a la administración de los recursos humanos; por lo que las condiciones generales de trabajo y demás disposiciones legales y contractuales que se ajusten a la ley de la materia, continuarán vigentes.
+
+j) El patrimonio que controlaba administrativamente la Procuraduría General de Justicia del Estado de Querétaro, integrado por bienes muebles, inmuebles, derechos, licencias, títulos, armas, cartuchos, chalecos, equipo de seguridad, tecnología, sistemas informáticos, dinero en efectivo o en documento, órdenes de pago, valores, documentos, pólizas, obligaciones, contratos, convenios, acuerdos y cualquier otro que hubiera estado en su poder, de uso propio o de tercero necesarios para su operación, se ejercerán por la Fiscalía General del Estado de Querétaro, quien podrá ejecutar las acciones de cualquier naturaleza necesarias para su administración, conservación y defensa. En su oportunidad se emitirán los lineamientos para su transmisión.
+
+k) Hasta en tanto se realice la transmisión a favor de la Fiscalía General del Estado de Querétaro, de la propiedad del patrimonio que controlaba administrativamente la Procuraduría General de Justicia del Estado de Querétaro, dicho Organismo Constitucional Autónomo usará los citados bienes necesarios para su operación y celebrará los instrumentos requeridos para iniciar y continuar las funciones que le han sido encomendadas y en su caso, ejercerá las acciones legales necesarias para su defensa, informándolo al titular del Poder Ejecutivo o a quien éste designe.
+
+l) Con motivo de la abrogación de la Ley de la Procuraduría General de Justicia y Orgánica de la Procuraduría General, ambas del Estado de Querétaro, el Fideicomiso para la Procuración de Justicia, Asistencia y Apoyo a las Víctimas del Delito (FIPROJUSAA), deberá extinguirse en términos de las disposiciones legales.
+
+Artículo Noveno. La Fiscalía General continuará con los procedimientos jurisdiccionales, administrativos, de responsabilidad o cualquier otro, que estuviesen en trámite a la entrada en vigor de esta Ley, y estos se concluirán conforme a la normatividad vigente al inicio del procedimiento de que se trate, a través de las autoridades que esta Ley señala.
+
+Artículo Décimo. Los Fiscales, Policías de Investigación del Delito y Peritos que pertenezcan al Servicio Profesional de Carrera previsto en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Querétaro y sus disposiciones reglamentarias y que a la entrada en vigor de esta Ley, se encuentren prestando sus servicios o bajo un régimen de licencia en la Procuraduría General de Justicia del Estado de Querétaro, podrán integrarse al Servicio Profesional de Carrera a que se refiere la presente Ley, siempre que cumplan con lo que establezca el Programa respectivo y las disposiciones que al efecto emita el Fiscal General del Estado.
+
+En todo caso, al personal a que se refiere el párrafo anterior, le serán respetados los derechos y prestaciones con que cuenten a la fecha de entrada en vigor de la presente Ley.
+
+En tanto se expiden las disposiciones jurídicas relativas al Servicio Profesional de Carrera de los Fiscales del Estado de Querétaro, Policías de Investigación y Peritos, así como las relativas a la capacitación, formación ética y profesional y los programas de superación y actualización, del resto del personal de la Fiscalía General del Estado de Querétaro, se estará a lo siguiente:
+
+a) La Ley de la Procuraduría General de Justicia y la Ley Orgánica de la Procuraduría General de Justicia, ambas del Estado de Querétaro, se aplicarán en todo aquello que no se oponga a las disposiciones de la presente Ley.
+
+b) Se faculta a las unidades administrativas que determine el Fiscal General del Estado de Querétaro, para emitir criterios o guías de operación del Servicio Profesional de Carrera, así como en materia de capacitación y formación ética y profesional y los programas de superación y actualización de los servidores públicos de la Fiscalía General del Estado.
+
+Artículo Decimoprimero. Los asuntos en los que la Procuraduría General de Justicia del Estado de Querétaro, ejerza la representación jurídica de terceros, así como aquellos en los que haya ejercitado acciones legales, que se encuentren en trámite a la entrada en vigor de la presente Ley, deberán remitirse de inmediato a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro o a las instituciones que esta última determine.
