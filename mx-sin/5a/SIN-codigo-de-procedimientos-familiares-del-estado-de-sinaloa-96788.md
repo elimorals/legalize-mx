@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-familiares-del-estado-de-sinaloa-96788
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-27"
-last_updated: "2016-05-16"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Código publicado en la Edición Extraordinaria, Tercera Sección Parte Uno del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -4999,7 +4999,9 @@ I. Tienen legitimación para solicitar la declaración de presunción de muerte 
 
 II. La solicitud deberá venir acompañada de la resolución judicial por la que se declara legalmente la ausencia;
 
-III. La solicitud podrá presentarse después de que hayan transcurrido tres años desde la declaración de ausencia, salvo el caso de excepción a que se refiere el artículo 561 del Código Familiar;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+III. La solicitud podrá presentarse después de que hayan transcurrido dos años desde la declaración de ausencia, salvo los casos de excepción a que se refieren los párrafos segundo y tercero del artículo 561 del Código Familiar;
 
 IV. Acreditados los anteriores requisitos, el juez declarará la presunción de muerte, siendo apelable en el efecto devolutivo, y
 
@@ -5148,3 +5150,13 @@ P.O. 16 DE MAYO DE 2016.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 Artículo Segundo. Las reformas al Reglamento del Registro Civil para el Estado de Sinaloa, para la implementación de la presente reforma, deberán ser publicadas dentro de los treinta días hábiles siguientes al inicio de vigencia del presente Decreto.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 553 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 561 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"
+
+Artículo Segundo. Los procedimientos que se encuentren en trámite se desahogarán de conformidad con el presente Decreto.
+
+Artículo Tercero. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
