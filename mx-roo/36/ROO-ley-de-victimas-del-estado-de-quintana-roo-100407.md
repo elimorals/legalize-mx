@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-victimas-del-estado-de-quintana-roo-100407"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-07"
-last_updated: "2014-04-07"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -1087,6 +1087,26 @@ El reglamento de esta ley establecerá las atribuciones y funciones de la Comisi
 
 El organismo tendrá su sede en la ciudad de Chetumal, Quintana Roo, pero con capacidad de establecer oficinas en diversas localidades de la entidad.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+###### Artículo 89 Bis.
+
+La Comisión Ejecutiva de Atención a Víctimas contará con un Consejo Directivo como máximo órgano de gobierno, el cual estará integrado por un:
+
+I. Presidente, quien será el titular de la Secretaría de Gobierno;
+
+II. Vicepresidente, quien será el titular de Secretaría de Finanzas y Planeación;
+
+III. Tres vocales, quienes serán los titulares de Oficialía Mayor, Secretaría de Desarrollo Social e Indígena y Secretaría de Salud;
+
+Cada titular deberá contar con un suplente quien será la única persona facultada para representarlo en caso de ausencias en las sesiones ordinarias y extraordinarias a que haya lugar.
+
+El Consejo Directivo deberá reunirse una vez al mes para llevar a cabo las sesiones ordinarias, en el caso de las sesiones extraordinarias se llevarán a cabo cuando así se requiera. La organización de este órgano, se establecerá en el Reglamento de la Ley.
+
+El Consejo Directivo contará con una Secretaría Técnica que recaerá en el titular de la Comisión Ejecutiva Estatal quien tendrá las facultades que le otorgue el Reglamento de la Ley.
+
+Las atribuciones del Consejo Directivo serán las previstas en el artículo 63 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo con carácter de indelegables, y las que en su caso se establezcan en el Reglamento de la Ley.
+
 ###### Artículo 90.
 
 La Comisión Ejecutiva Estatal será la responsable de la ejecución de los instrumentos, políticas, servicios y acciones estatales en materia de ayuda, asistencia, atención y reparación a las víctimas, por lo cual estará a cargo del Registro Estatal, del Fondo Estatal y de la Asesoría Jurídica Estatal.
@@ -1167,9 +1187,25 @@ XXXV. Brindar apoyo técnico a los Municipios del Estado, con el fin de desarrol
 
 XXXVI. Crear mecanismos para la generación de recursos o aportes con el fin de atender al cumplimiento de los objetivos fijados en esta ley;
 
-XXXVII. Recibir y evaluar los informes rendidos el titular del Fondo Estatal, de la Asesoría Jurídica Estatal y del Registro Estatal, así como emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-XXXVIII. Las demás que se deriven de la normatividad aplicable.
+XXXVII. Recibir y evaluar los informes rendidos del titular del Fondo Estatal, de la Asesoría Jurídica Estatal y del Registro Estatal, así como emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XXXVIII. Administrar, representar legalmente y dirigir el cumplimiento de las atribuciones de la Comisión Ejecutiva Estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XXXIX. Representar a la Comisión Ejecutiva Estatal como mandatario general para pleitos y cobranzas, actos de administración y de dominio con todas las facultades generales y los que requieran cláusula especial conforme a la Ley, pudiendo delegar dicho mandato total o parcialmente, salvo los actos de dominio;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XL. Celebrar toda clase de contratos y convenios con los sectores público, social y privado e instituciones educativas y de investigación, para la ejecución de las acciones relacionadas con el objeto de la Ley, y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XLI. Las demás que se deriven de la normatividad aplicable.
 
 ###### Artículo 92.
 
@@ -2034,3 +2070,13 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 403 POR EL QUE SE REFORMAN LAS FRACCIONES XXXVII Y XXXVIII DEL ARTÍCULO 91; SE ADICIONA EL ARTÍCULO 89 BIS Y LAS FRACCIONES XXXIX, XL Y XLI AL ARTÍCULO 91, TODOS DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
