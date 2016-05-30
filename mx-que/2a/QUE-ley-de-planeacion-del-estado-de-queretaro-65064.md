@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-planeacion-del-estado-de-queretaro-65064"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE PLANEACION DEL ESTADO DE QUERETARO
 
-LEY DE PLANEACION DEL ESTADO DE QUERETARO
+LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -87,9 +87,11 @@ II. Promover la participación democrática de la sociedad civil en las acciones
 
 III. Realizar las acciones de planeación de manera constante y congruente con los niveles federal, estatal, regional y municipal.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 5.
 
-El Gobernador del Estado es el responsable de la conducción del desarrollo y de la planeación participativa en las esferas de su competencia y atribuciones. Al efecto, proveerá lo necesario para instituir canales de participación y consulta en el proceso de planeación, establecer relaciones de coordinación con la Federación y los municipios de la Entidad, y de concertación con la sociedad, así como determinar los programas necesarios para la conducción del desarrollo y de la planeación del Estado.
+El Titular del Poder Ejecutivo del Estado y los ayuntamientos participarán en la planeación del desarrollo con la colaboración del Comité de Planeación para el Desarrollo del Estado de Querétaro y de los Comités de Planeación para el Desarrollo Municipal, respectivamente. Al efecto, coadyuvarán con lo necesario para instituir canales de participación y consulta en el proceso de planeación, establecerán relaciones de coordinación con la Federación y los municipios de la Entidad, y de concertación con la sociedad, así como determinar los programas necesarios para la conducción del desarrollo y de la planeación del Estado.
 
 ###### Artículo 6.
 
@@ -141,11 +143,13 @@ Se entenderá como planeación estatal al proceso mediante el cual se formulará
 
 La planeación a este nivel buscará la congruencia entre la atención a las necesidades sociales, la distribución equitativa de los recursos y el equilibrio en el desarrollo de las regiones; así como la articulación e integración de esfuerzos sociales y gubernamentales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 14.
 
-Se entenderá como planeación regional, al proceso mediante el cual se formularán, instrumentarán y evaluarán los programas institucionales que permitan atender los requerimientos de alguna zona geográfica, económica o cultural del Estado, considerando los objetivos, estrategias y principios rectores contenidos en el Plan Estatal de Desarrollo.
+Los programas institucionales deberán permitir atender los requerimientos de alguna zona geográfica, económica o cultural del Estado, considerando los objetivos, estrategias y principios rectores contenidos en el Plan Estatal de Desarrollo.
 
-Los ayuntamientos y dependencias del Gobierno del Estado, respetarán en sus planes y programas de desarrollo respectivos, los criterios establecidos en el Plan Estatal de Desarrollo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 15.
 
@@ -153,17 +157,21 @@ Se entenderá como planeación municipal, al proceso por el cual se formularán,
 
 El proceso de planeación municipal deberá llevarse a cabo a través de los organismos de coordinación institucional y participación social que señale la respectiva ley que establezca las bases generales para la organización municipal y demás normatividad sobre la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 16.
 
-Se entenderá como planeación sectorial al proceso mediante el cual se formularán, instrumentarán y evaluarán los programas institucionales para atender las prioridades y líneas de acción que determine el Plan Estatal de Desarrollo para los diferentes sectores de la acción gubernamental.
+Los programas institucionales se formularán e instrumentarán para atender las prioridades y líneas de acción que determine el Plan Estatal de Desarrollo para los diferentes sectores de la acción gubernamental.
 
-Esta planeación buscará que las acciones de dicho proceso se realicen de forma coherente para lograr objetivos por sector, así como los asignados a las entidades paraestatales agrupadas bajo una dependencia coordinadora.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 17.
 
-Se entenderá como planeación institucional al proceso mediante el cual se formulará, instrumentará y evaluará el programa operativo anual de dependencias y entidades del Poder Ejecutivo del Estado, así como los programas necesarios para atender las estrategias, metas y objetivos del Poder Ejecutivo del Estado.
+Se entenderá por programas institucionales los que formulen las dependencias y entidades del Poder Ejecutivo en el marco del Plan Estatal de Desarrollo.
 
-Las dependencias y entidades deberán encauzar su programa operativo anual hacia el logro de los objetivos y prioridades que establezca la planeación estatal.
+Las dependencias y entidades deberán encauzar sus programas institucionales hacia el logro de los objetivos y prioridades que establezca la planeación estatal.
 
 ###### Artículo 18.
 
@@ -189,9 +197,13 @@ I. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a las 
 
 II. Las dependencias que funjan como coordinadoras de sector, deberán llevar a cabo las acciones para elaborar los programas a que se refiere el artículo 16 de esta ley, coordinando la participación de las entidades paraestatales que integren el sector. Asimismo, deberán efectuar el seguimiento de la ejecución de este programa y la evaluación de los resultados que se obtengan;
 
-III. Las dependencias y entidades deberán formular su programa operativo anual conforme a las líneas de acción, objetivos y criterios que establezca el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-IV. Las dependencias y entidades deberán realizar el seguimiento del desarrollo de su programa operativo anual para llevar a cabo los ajustes pertinentes de forma oportuna y realizar la evaluación de los resultados obtenidos del mismo, con fines de retroalimentación para la elaboración de los programas de periodos subsecuentes;
+III. Las dependencias y entidades deberán formular sus programas institucionales conforme a las líneas de acción, objetivos y criterios que establezca el Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+IV. Las dependencias y entidades deberán realizar el seguimiento del desarrollo de sus programas institucionales para llevar a cabo los ajustes pertinentes de forma oportuna y realizar la evaluación de los resultados obtenidos del mismo, con fines de retroalimentación para la elaboración de los programas de periodos subsecuentes;
 
 V. Las dependencias estatales participarán en el Comité de Planeación para el Desarrollo del Estado de Querétaro, emitiendo observaciones y propuestas sobre las acciones en materia de planeación de sus ámbitos de competencia; asimismo, intervendrán de acuerdo a las responsabilidades que este ordenamiento les señale sobre el control y evaluación de sus programas y de los programas de las entidades coordinadas, según sea el caso;
 
@@ -221,17 +233,25 @@ I. El Comité de Planeación para el Desarrollo del Estado de Querétaro; y
 
 II. El Comité de Planeación para el Desarrollo Municipal.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 23.
 
-El Comité de Planeación para el Desarrollo del Estado de Querétaro, es el organismo desconcentrado de la Secretaría de Planeación y Finanzas del Estado, que coordina y opera el proceso de planeación para la Entidad, vinculando los sectores público, social y privado, con base al Plan Estatal de Desarrollo y sus programas.
+El Comité de Planeación para el Desarrollo del Estado de Querétaro, es la instancia que coordina y opera el proceso de planeación para la Entidad, vinculando los sectores público, social y privado, con base al Plan Estatal de Desarrollo y sus programas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 24.
 
-Las funciones del Comité de Planeación para el Desarrollo del Estado de Querétaro, son las siguientes:
+Corresponde al Comité de Planeación para el Desarrollo del Estado de Querétaro, lo siguiente:
 
-I. Operar las acciones derivadas de las políticas y directrices del Poder Ejecutivo del Estado, en materia de planeación estatal;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-II. Coordinar las acciones de planeación del desarrollo a nivel estatal;
+I. Impulsar las acciones derivadas de las políticas y directrices del Poder Ejecutivo del Estado, en materia de planeación estatal;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+II. Promover las acciones de planeación del desarrollo a nivel estatal;
 
 III. Coordinar la elaboración del Plan Estatal de Desarrollo;
 
@@ -241,11 +261,15 @@ V. Integrar la información necesaria para llevar a cabo el proceso de planeaci�
 
 VI. Presentar propuestas sobre los programas y acciones concertados en el marco del Convenio de Desarrollo Social, suscrito entre la federación y el Estado, tendientes a orientar sus esfuerzos al logro de los objetivos de desarrollo de la Entidad;
 
-VII. Establecer vínculos permanentes con los Comités de Planeación para el Desarrollo Municipal, los Consejos de Concertación Ciudadana y los Subcomités Sectoriales, para dictaminar la procedencia de las propuestas que se deriven de ellos;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VII. Promover vínculos permanentes con los Comités de Planeación para el Desarrollo Municipal;
 
 VIII. Proporcionar asesoría técnica a los ayuntamientos en la formulación, ejecución y evaluación de sus planes y programas, respetando la autonomía municipal; y
 
 IX. Fungir como órgano de consulta en materia de planeación, para las dependencias y entidades del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 25.
 
@@ -253,81 +277,77 @@ Para su funcionamiento, el Comité de Planeación para el Desarrollo del Estado 
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-II. Un Coordinador General que será el titular de la Secretaría de Planeación y Finanzas del el (sic) Estado;
+II. Un Coordinador General que será el titular de la Secretaría de Planeación y Finanzas del Estado;
 
 III. Un Coordinador de Control y Evaluación, que será el titular de la Secretaría de la Contraloría del Estado;
 
-IV. Una Comisión Permanente, que estará integrada por:
+Para el funcionamiento del Comité de Planeación para el Desarrollo del Estado de Querétaro, existirá una comisión permanente integrada de la siguiente manera:
 
-a) Un Secretario Técnico, que será designado por el Coordinador General.
+a) Un Secretario Técnico y un Coordinador Operativo, que serán designados por el Coordinador General; y
 
-b) Un Coordinador Operativo, que será designado por el Coordinador General.
+b) Un representante de la Legislatura del Estado.
 
-c) Un representante de la Legislatura del Estado.
+Podrán participar, a invitación expresa del Coordinador General, en los trabajos de la Comisión Permanente, representantes de las dependencias, organismos y fideicomisos estatales, según sus áreas de competencia, de los Comités de Planeación para el Desarrollo Municipal y miembros de los sectores social y privado.
 
-d) Un representante de los coordinadores de los Consejos de Concertación Ciudadana;
-
-V. Los titulares de las dependencias, organismos y fideicomisos estatales, según sus áreas de competencia, de asistencia y apoyo técnico;
-
-VI. Los delegados de las dependencias federales que actúan en el Estado, según su área de competencia;
-
-VII. Los Comités de Planeación para el Desarrollo Municipal, a través de su presidente;
-
-VIII. Los Coordinadores de los Consejos de Concertación Ciudadana;
-
-IX. Los Coordinadores de los subcomités; y
-
-X. Representantes de los sectores social y privado, invitados por el Gobernador del Estado.
-
-Los integrantes señalados en las fracciones V, VI, VII, VIII y IX del presente artículo, serán convocados por invitación del Presidente o el Coordinador General del Comité de Planeación para el Desarrollo del Estado de Querétaro, de acuerdo a la materia que se trate.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 26.
 
-Para el desempeño de sus funciones, el Comité de Planeación para el Desarrollo del Estado de Querétaro, será asistido por los siguientes organismos:
+El Comité de Planeación para el Desarrollo del Estado de Querétaro, promoverá la participación ciudadana, para lo cual podrá apoyarse en las dependencias y entidades del Poder Ejecutivo así como de los Consejos de Concertación Ciudadana.
 
 I. Los Consejos de Concertación Ciudadana: Instancia donde se revisan y proponen proyectos de solución a problemas específicos, mediante el trabajo conjunto de la sociedad y el sector público; y
 
-II. Los Subcomités: Órganos de apoyo técnico, conformados por representantes de la administración estatal, federal y municipal, que tienen como función apoyar la instrumentación de las propuestas y proyectos planteados por los Consejos de Concertación Ciudadana, así como de los programas institucionales, sectoriales o regionales, cuya funcionalidad requiera de esta figura para su ejecución.
+II. (DEROGADA, P.O. 30 DE MAYO DE 2016)
 
 ###### Artículo 27.
 
-Las funciones principales de los Subcomités serán las siguientes:
+(DEROGADO, P.O. 30 DE MAYO DE 2016)
 
-I. Desempeñarse como organismos auxiliares de coordinación institucional de apoyo técnico;
-
-II. Fungir como vínculo entre el Comité de Planeación para el Desarrollo del Estado de Querétaro y las dependencias ejecutoras para instrumentar los proyectos emanados de los Consejos de Concertación Ciudadana;
-
-III. Dictaminar técnicamente las propuestas y proyectos que para su análisis les hayan sido turnados y remitirlos a la Comisión Permanente para someterlos a la aprobación del Coordinador General; y
-
-IV. Instrumentar los programas aprobados por el Coordinador General.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 28.
 
-El Comité de Planeación para el Desarrollo Municipal, es el órgano rector del proceso de planeación en el municipio, de acuerdo a los lineamientos estatales sobre la materia. El Presidente Municipal será el responsable de coordinar este proceso.
+El Comité de Planeación para el Desarrollo Municipal, es el órgano rector del proceso de planeación en el municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 29.
 
-Las funciones principales del Comité de Planeación para el Desarrollo Municipal son:
+Corresponde al Comité de Planeación para el Desarrollo Municipal lo siguiente:
 
-I. Operar la acciones derivadas de la (sic) políticas y directrices de planeación en el municipio;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-II. Coordinar las acciones de planeación del desarrollo a nivel municipal;
+I. Impulsar las acciones derivadas de las políticas y directrices de planeación en el municipio;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+II. Fomentar las acciones de planeación del desarrollo a nivel municipal;
 
 III. Promover la participación social en las tareas de planeación;
 
-IV. Elaborar el Plan Municipal de Desarrollo, con la participación de los diversos sectores de la sociedad y las dependencias gubernamentales;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+IV. Coordinar la elaboración del Plan Municipal de Desarrollo, con la participación de los diversos sectores de la sociedad y las dependencias gubernamentales;
 
 V. Llevar a cabo la evaluación del Plan Municipal de Desarrollo;
 
 VI. Fungir como órgano de coordinación con las dependencias de los gobiernos federal y estatal;
 
-VII. Aprobar aquellos programas que impacten en la planeación municipal;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-VIII. Elaborar y presentar la propuesta de obra municipal;
+VII. Analizar aquellos programas que impacten en la planeación municipal;
 
-IX. Verificar que se realicen las acciones derivadas de los diversos convenios que suscriba el municipio en materia de planeación; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-X. Promover programas y proyectos especiales en materia de planeación, de acuerdo a directrices dictadas por el presidente municipal.
+VIII. Participar en la elaboración de la propuesta de obra municipal;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+IX. Fomentar la realización de las acciones derivadas de los diversos convenios que suscriba el municipio en materia de planeación; y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+X. Promover programas y proyectos especiales en materia de planeación, de acuerdo a las directrices que, en su caso, se propongan.
 
 ###### Artículo 30.
 
@@ -369,9 +389,11 @@ El Sistema Estatal de Concertación Social, es el mecanismo que promueve e integ
 
 Formarán parte de este Sistema, los Consejos de Concertación Ciudadana, los Consejos Municipales de Participación Social, las Organizaciones Sociales Comunitarias, así como las asociaciones y organismos públicos de la sociedad civil cuya importancia y propuestas incidan en el desarrollo del Estado a nivel sectorial y regional, así como en los procesos de descentralización que se lleven a cabo.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 36.
 
-Los Consejos de Concertación Ciudadana, son organismos conformados por miembros de la sociedad civil y funcionarios del sector público, que participan en el proceso de planeación del desarrollo del Estado, a través del Comité de Planeación para el Desarrollo del Estado de Querétaro.
+Los Consejos de Concertación Ciudadana, son instancias conformadas por miembros de la sociedad civil y funcionarios del sector público, que podrán participar en el proceso de planeación del desarrollo del Estado, a invitación expresa del Comité de Planeación para el Desarrollo del Estado de Querétaro.
 
 ###### Artículo 37.
 
@@ -379,7 +401,7 @@ La competencia de los Consejos de Concertación Ciudadana será estatal, debido 
 
 ###### Artículo 38.
 
-Los Consejos Municipales de Participación Social, de acuerdo a la legislación aplicable, atenderán a la estructura sectorial, territorial y de tópicos específicos e integrarán a las diversas organizaciones y agrupaciones civiles representativas de la comunidad. En cada municipio se formará un Sistema de Consejos Municipales de Participación Social; (sic)
+Los Consejos Municipales de Participación Social, de acuerdo a la legislación aplicable, atenderán a la estructura sectorial, territorial y de tópicos específicos e integrarán a las diversas organizaciones y agrupaciones civiles representativas de la comunidad. En cada municipio se formará un Sistema de Consejos Municipales de Participación Social;
 
 ###### Artículo 39.
 
@@ -397,13 +419,17 @@ III. Analizar la problemática sectorial, para generar proyectos viables de ejec
 
 IV. Contribuir al proceso de planeación y programación de las acciones de gobierno, a través de sus propuestas y proyectos sectoriales;
 
-V. Participar en la elaboración del programa de obra pública;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-VI. Vigilar el uso y aplicación de los recursos destinados a proyectos de los propios consejos y asegurar que se cumplan las metas de éstos;
+V. Participar en la elaboración de propuestas para el programa de obra pública;
 
-VII. Colaborar en el seguimiento y evaluación del avance de los programas gubernamentales; y
+VI. (DEROGADA, P.O. 30 DE MAYO DE 2016)
 
-VIII. Fungir como grupo consultivo del Presidente del Comité de Planeación para el Desarrollo del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VII. Colaborar, a invitación expresa, en el seguimiento y evaluación del avance de los programas gubernamentales; y
+
+VIII. (DEROGADA, P.O. 30 DE MAYO DE 2016)
 
 ###### Artículo 41.
 
@@ -431,9 +457,13 @@ El Sistema Estatal de Concertación Social se vincula al Sistema Estatal de Plan
 
 ### Capítulo Cuarto. Del Plan Estatal de Desarrollo y los programas
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 43.
 
-El Plan Estatal de Desarrollo se elaborará con la coordinación del Comité de Planeación para el Desarrollo del Estado de Querétaro, dentro de los primeros seis meses siguientes al inicio del periodo constitucional del Gobernador del Estado y será turnado para su consideración y aprobación, a través del Coordinador General, al Poder Ejecutivo del Estado quien, una vez aprobado, mandará publicar una síntesis del mismo en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”. La vigencia del plan no excederá del periodo constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
+El Plan Estatal de Desarrollo será elaborado con la coordinación del Comité de Planeación para el Desarrollo del Estado de Querétaro y aprobado por el Gobernador del Estado a más tardar el 25 de noviembre del año en que inicie su gestión.
+
+Una vez aprobado, se mandará publicar una síntesis del mismo en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga". La vigencia del plan no excederá del periodo constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
 
 ###### Artículo 44.
 
@@ -444,6 +474,10 @@ El Plan deberá señalar los propósitos y objetivos de desarrollo integral del 
 ###### Artículo 45.
 
 La categoría de plan queda reservada para el Plan Estatal de Desarrollo y para el Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+En dichos Planes se dará estricta observancia al principio de estabilidad de las finanzas públicas y del sistema financiero, a fin de coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo, de conformidad con lo dispuesto por el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 46.
 
@@ -461,9 +495,11 @@ Del Plan Municipal de Desarrollo se derivarán los programas de las dependencias
 
 A las dependencias municipales tocará la elaboración de dichos programas, al Comité de Planeación para el Desarrollo Municipal su revisión y al ayuntamiento su aprobación.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 50.
 
-El Presidente Municipal llevará a cabo la presentación del plan ante la sociedad civil dentro de los tres primeros meses de iniciada su gestión.
+El Presidente Municipal presentará el Plan Municipal de Desarrollo a más tardar el 31 de diciembre del año en que inicie su gestión.
 
 ###### Artículo 51.
 
@@ -489,13 +525,17 @@ Los programas operativos anuales servirán de base para la definición de los an
 
 En este sentido, se dará constantemente una integración y correspondencia entre ambos instrumentos administrativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 56.
 
-Los programas operativos anuales deberán presentarse al Comité de Planeación para el Desarrollo del Estado de Querétaro, para su validación. La Secretaría de Planeación y Finanzas del Estado, llevará a cabo el análisis presupuestal correspondiente y someterá dichos programas a la autorización del Gobernador del Estado.
+Las dependencias y Entidades del Poder Ejecutivo del Estado de Querétaro, elaborarán y autorizarán sus respectivos programas institucionales. Una vez autorizados dichos programas, se registrarán ante la instancia de evaluación a que se refiere la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro.
 
-Los programas operativos anuales de las entidades paraestatales, deberán contar con el visto bueno de la dependencia coordinadora del sector respectivo, previamente a su presentación al Comité de Planeación para el Desarrollo del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
-Si la entidad paraestatal no estuviere agrupada en un sector específico, el visto bueno correspondiente a la coordinadora sectorial lo efectuará la Secretaría de Planeación y Finanzas del Estado.
+La Secretaría de Planeación y Finanzas del Estado, llevará a cabo el análisis presupuestal correspondiente y otorgará en su caso la suficiencia presupuestal.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 57.
 
@@ -572,3 +612,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
