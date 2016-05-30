@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2016-05-16"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -3625,9 +3625,11 @@ El representante del ausente disfrutará la misma retribución que a los tutores
 
 Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 537.
 
-En el caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+En el caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años que se contarán desde la desaparición del ausente, si en este periodo no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas. Salvo lo establecido en los párrafos segundo y tercero del artículo 561 del presente Código.
 
 ###### Artículo 538.
 
@@ -3661,9 +3663,11 @@ Si el juez encuentra fundada la demanda, dispondrá que se publique durante tres
 
 Pasados tres meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia. Si hubiere algunas noticias u oposición, el juez no declarará la ausencia sin repetir las publicaciones del artículo 542 de este Código y podrá, además, hacer investigación por los medios que el opositor mencione, y por los que el juez crea pertinente.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 544.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto a los edictos. Ambas publicaciones se repetirán cada año, hasta que se declare la presunción de muerte.
+La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está previsto respecto a los edictos. Ambas publicaciones se repetirán cada año, hasta que se declare la presunción de muerte.
 
 ### Capítulo IV. De la Administración de los Bienes del Ausente Casado
 
@@ -3731,6 +3735,8 @@ Si el ausente se presenta o se prueba su existencia antes de que sea declarada l
 
 ### Capítulo V. De la Presunción de Muerte del Ausente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 554.
 
 La declaración de ausencia interrumpe la sociedad conyugal, al menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
@@ -3763,9 +3769,13 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 ###### Artículo 561.
 
-Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido dos años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
 Respecto de las personas que hayan desaparecido al tomar parte de una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Aplicará el caso del párrafo anterior, cuando exista la comisión de los delitos de desaparición forzada de personas, privación ilegal de la libertad u otro delito análogo, siempre y cuando previamente se haya iniciado una investigación por el Ministerio Público correspondiente.
 
 ###### Artículo 562.
 
@@ -7100,3 +7110,13 @@ P.O. 16 DE MAYO DE 2016.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo. Las reformas al Reglamento del Registro Civil para el Estado de Sinaloa, para la implementación de la presente reforma, deberán ser publicadas dentro de los treinta días hábiles siguientes al inicio de vigencia del presente Decreto.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 553 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 561 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"
+
+Artículo Segundo. Los procedimientos que se encuentren en trámite se desahogarán de conformidad con el presente Decreto.
+
+Artículo Tercero. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
