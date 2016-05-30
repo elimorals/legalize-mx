@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-mejora-regulatoria-del-estado-de-queretaro-100133"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-02"
-last_updated: "2014-04-02"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 2 de abril de 2014.
 
@@ -677,9 +677,11 @@ Los municipios del Estado, deberán crear en su ámbito de competencia, registro
 
 ### Capítulo V. De las manifestaciones de impacto regulatorio
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 48.
 
-Cuando las dependencias y entidades de la Administración Pública estatal, elaboren anteproyectos de iniciativa de leyes, reglamentos, manuales y demás ordenamientos de observancia general, mencionados en el artículo 9 de esta Ley, deberán presentarlos por conducto de sus Enlaces de Mejora Regulatoria, a la Comisión Estatal, junto con una Manifestación de Impacto Regulatorio, por sus siglas MIR, cuando menos 30 días hábiles antes de la fecha en que se pretenda emitir el acto o someterlo a la consideración del titular del Poder Ejecutivo.
+Cuando las dependencias y entidades de la Administración Pública Estatal, elaboren anteproyectos de iniciativa de leyes, reglamentos, manuales y demás ordenamientos de observancia general, mencionados en el artículo 9 de esta Ley, que tengan un impacto directo hacia el ciudadano a través de sus trámites y servicios, deberán presentarse por conducto de sus Enlaces de Mejora Regulatoria, a la Comisión Estatal, junto con una Manifestación de Impacto Regulatorio, por sus siglas MIR, cuando menos 7 días hábiles antes de la fecha en que se pretenda emitir el acto o someterlo a la consideración del titular del Poder Ejecutivo.
 
 ###### Artículo 49.
 
@@ -1031,7 +1033,7 @@ A T E N T A M E N T E
 
 QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO MESA DIRECTIVA
 
-DIP. BRAULlO MARIO GUERRA URBIOLA
+DIP. BRAULIO MARIO GUERRA URBIOLA
 
 PRESIDENTE
 
@@ -1070,3 +1072,27 @@ Lic. Marcelo López Sánchez
 Secretario de Desarrollo Sustentable
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se incorporan a la Comisión Estatal de Infraestructura de Querétaro, las acciones, sistemas, derechos, atribuciones y obligaciones de la Comisión Estatal de Caminos del Estado de Querétaro; así como los servidores públicos adscritos a ésta.
+
+Artículo Cuarto. Los trabajadores de la Comisión Estatal de Caminos del Estado de Querétaro conservarán sus derechos adquiridos.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia a la Comisión Estatal de Caminos del Estado de Querétaro, aludirá ahora a la Comisión Estatal de Infraestructura de Querétaro, por lo que todos los programas, recursos humanos, materiales y financieros de aquella se transfieren al patrimonio de ésta.
+
+Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, los Entes del Estado de Querétaro expedirán su respectivo Código de Ética.
+
+Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
+
+En tanto no se expidan las disposiciones reglamentarias de la Ley que crea la Comisión Estatal de Infraestructura de Querétaro, el Consejo de Administración dictará los criterios y lineamientos para su debida observancia.
