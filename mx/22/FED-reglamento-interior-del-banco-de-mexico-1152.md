@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2016-03-30"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MAYO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -197,9 +197,9 @@ En el caso de que el Gobernador acuerde la creación de un comité, podrá invit
 
 El Banco contará con un Comité de Transparencia para los efectos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Archivos y demás disposiciones aplicables al Banco en esas materias. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por el titular de la Unidad de Transparencia, el Director de Coordinación de la Información y el Director Jurídico. Serán suplentes de los integrantes mencionados, los funcionarios que designen los titulares de las unidades administrativas a las que estén adscritos los miembros propietarios, excepto por el suplente del titular de la Unidad de Transparencia, quien será designado por el Gobernador.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2016)</small>
 
-El Comité a que se refiere el párrafo anterior, deberá resolver por mayoría de votos y será presidido por el titular de la Unidad de Transparencia, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con invitados permanentes con voz, pero sin voto, quienes serán el Director de Vinculación Institucional y el Director de Administración de Riesgos. Asimismo, contará con una Secretaría que llevará el titular de la Gerencia de Análisis y Promoción de Transparencia.
+El Comité a que se refiere el párrafo anterior, deberá resolver por mayoría de votos y será presidido por el titular de la Unidad de Transparencia, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con invitados permanentes con voz, pero sin voto, quienes serán el Director de Vinculación Institucional y el Director de Administración de Riesgos. Asimismo, contará con una Secretaría y Prosecretaría, cuyos titulares serán designados de conformidad con lo establecido en las reglas de operación del propio Comité.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -333,7 +333,7 @@ Los inspectores se identificarán presentando conjuntamente copia del acuse de l
 
 Las órdenes de visita de inspección deberán ser suscritas por funcionarios de la Dirección de Regulación y Supervisión conjuntamente con funcionarios de la Dirección Jurídica o Dirección de Disposiciones de Banca Central, según corresponda en términos de lo dispuesto por el artículo 8o., cuarto y quinto párrafos.
 
-Tratándose de la inspección de administradores de Sistemas de Pagos, las órdenes de visita de inspección deberán ser suscritas por funcionarios de la Dirección de Sistemas de Pagos conjuntamente con funcionarios de la Dirección de Disposiciones de Banca Central.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 30 DE MAYO DE 2016)</small>
 
 La supervisión de entidades e intermediarios financieros, así como todos los actos relacionados con la autorización y supervisión de los programas de autocorrección, se ajustarán a las reglas que se emitan para tal efecto.
 
@@ -863,9 +863,9 @@ X. Llevar a cabo los actos de expedición, registro, control y demás relativos 
 
 XI. Participar en la emisión de disposiciones, autorizaciones, opiniones, observaciones y vetos en materia de firma electrónica, Sistemas de Pagos, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que conforme a este artículo sean de su competencia;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2016)</small>
 
-XII. Supervisar el cumplimiento de las disposiciones, autorizaciones, observaciones y vetos señaladas en la fracción anterior, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades y los intermediarios financieros en las materias de su competencia. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión, excepto por la que se realice a los administradores de los Sistemas de Pagos;
+XII. Supervisar el cumplimiento de las disposiciones, autorizaciones, observaciones y vetos señaladas en la fracción anterior, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades y los intermediarios financieros en las materias de su competencia. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión;
 
 XIII. Diseñar e implementar los programas de ajuste de cumplimiento forzoso tendientes a eliminar irregularidades en los Sistemas de Pagos, en términos de la Ley de Sistemas de Pagos;
 
@@ -1027,9 +1027,9 @@ IV. Participar en el diseño y elaboración de las disposiciones para el sistema
 
 V. Participar en la atención de solicitudes de autorizaciones, consultas y opiniones que requieran los intermediarios y otras autoridades financieras;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2016)</small>
 
-VI. Supervisar el cumplimiento de las disposiciones expedidas por el Banco aplicables a las entidades o intermediarios financieros, así como la veracidad de la información de carácter financiero que dichas entidades e intermediarios remitan de forma sistemática al Banco, con excepción de los administradores de los Sistemas de Pagos. La atribución de supervisión comprenderá las de inspección y vigilancia;
+VI. Supervisar el cumplimiento de las disposiciones expedidas por el Banco aplicables a las entidades o intermediarios financieros, así como la veracidad de la información de carácter financiero que dichas entidades e intermediarios remitan de forma sistemática al Banco. La atribución de supervisión comprenderá las de inspección y vigilancia;
 
 VII. Dar seguimiento a las operaciones que hayan realizado los intermediarios financieros, en las que existan elementos para suponer que no cumplen con las disposiciones expedidas por el Banco;
 
@@ -1051,9 +1051,9 @@ XI. Coordinar con las Unidades Administrativas responsables de las operaciones, 
 
 XII. Coordinar con las respectivas Unidades Administrativas competentes la participación del Banco, bajo los términos y para los propósitos señalados en su propia Ley, en los asuntos de prevención de operaciones susceptibles de impactar el sano desarrollo del sistema financiero o el buen funcionamiento de los sistemas de pagos y, para esos efectos, podrá recabar y revisar de dichas Unidades la información con que cuenten o puedan obtener en esta materia;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2016)</small>
 
-XIII. Coordinar la inspección que, en el ámbito de sus competencias, realicen las demás Unidades Administrativas, con excepción de aquella realizada a los administradores de los Sistemas de Pagos. La atribución de coordinación comprenderá, de manera enunciativa más no limitativa, la planeación de las visitas y de su ejecución ya sea que se realicen por el Banco solamente o con otras autoridades, la determinación del programa de visitas considerando los objetivos y finalidades del Banco, así como la integración y entrega de los resultados de la inspección a las entidades o intermediarios financieros y a otras autoridades;
+XIII. Coordinar la inspección que, en el ámbito de sus competencias, realicen las demás Unidades Administrativas. La atribución de coordinación comprenderá, de manera enunciativa más no limitativa, la planeación de las visitas y de su ejecución ya sea que se realicen por el Banco solamente o con otras autoridades, la determinación del programa de visitas considerando los objetivos y finalidades del Banco, así como la integración y entrega de los resultados de la inspección a las entidades o intermediarios financieros y a otras autoridades;
 
 > <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -1397,7 +1397,7 @@ II. Analizar los principales resultados y acciones derivadas de las observacione
 
 III. Coordinar reuniones con el Director de Auditoría y con el auditor externo con el objeto de dar seguimiento a las acciones derivadas de las observaciones detectadas por ambas instancias;
 
-IV. Requerir a las Unidades Administrativas auditadas, informes respecto de la atención y seguimiento de los hallazgos y recomendaciones comunicadas por los auditores internos y externo (sic);
+IV. Requerir a las Unidades Administrativas auditadas, informes respecto de la atención y seguimiento de los hallazgos y recomendaciones comunicadas por los auditores internos y externo;
 
 V. Elaborar y expedir las reglas necesarias para su operación, y
 
@@ -2404,3 +2404,11 @@ D.O.F. 30 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DE LA “ADICIÓN AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
 
 ÚNICO. La presente adición al Reglamento Interior del Banco de México entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS Y DEROGACIÓN AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
