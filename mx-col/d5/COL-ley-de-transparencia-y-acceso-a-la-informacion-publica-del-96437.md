@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9643
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-26"
-last_updated: "2016-03-12"
+last_updated: "2016-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA, PUBLICADA EN LA EDICIÓN ESPECIAL EXTRAORDINARIA DEL P.O. DE 30 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de octubre de 2013.
 
@@ -1810,3 +1812,51 @@ Las dependencias y entidades obligadas contaran con un plazo de 60 días natural
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 93 SE APRUEBA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima", con excepción de lo previsto en el siguiente párrafo.
+
+El artículo 75 de la Ley contenida en el presente Decreto entrará en vigor en la misma fecha en que lo haga la reforma al párrafo segundo del inciso h) fracción IV del sexto párrafo del artículo 1°; de la Constitución Política del Estado Libre y Soberano de Colima, en materia de duración del cargo de los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima.
+
+SEGUNDO.- Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima publicada en el Periódico Oficial "El Estado de Colima" el día 26 de octubre de 2013, con sus consecuentes adiciones y reformas.
+
+TERCERO. - Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto, manteniéndose la vigencia de la Ley de Protección de Datos Personales del Estado de Colima hasta en tanto el Congreso de la Unión no expida la Ley General en la materia y el Congreso del Estado no armonice en el ámbito de su competencia el ordenamiento legal aplicable.
+
+CUARTO.- El Organismo Garante deberá expedir su Reglamento Interno, así como el Reglamento del Servicio Civil de Carrera, dentro de los 180 días siguientes a la entrada en vigor de la presente Ley, mientras tanto serán aplicables los que se encuentren vigentes, en lo que no contravengan las disposiciones del presente ordenamiento.
+
+QUINTO.- El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima expedirá los lineamientos necesarios para el ejercicio de sus atribuciones, de conformidad con lo previsto en el presente Decreto, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO.- El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, en el ejercicio de sus atribuciones, realizará las acciones necesarias para capacitar a los sujetos obligados sobre las disposiciones contenidas en el presente Decreto, a efecto de conformar los órganos, establecer los procedimientos y llevar a cabo todas aquellas actividades tendientes a dar cabal cumplimiento a las disposiciones de la presente Ley.
+
+SÉPTIMO.- Cuando los ordenamientos jurídicos hagan referencia a los Consejeros del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, se entenderá que dicha referencia corresponde a los Comisionados del citado Organismo Garante.
+
+OCTAVO.- La designación de los tres comisionados que integran el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima deberá ser realizada antes del 30 de junio de 2016.
+
+Para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, por única vez el Congreso del Estado, a propuesta del Gobernador, elegirá a los comisionados conforme a lo siguiente:
+
+a) Nombrará a una o un Comisionado, cuyo encargo concluirá el último día del mes de junio de 2018;
+
+b) Nombrará a una o un Comisionado, cuyo encargo concluirá el último día del mes de junio de 2020;
+
+c) Nombrará a una o un Comisionado, cuyo encargo concluirá el último día del mes de junio de 2022.
+
+Un mes antes de concluir cada uno de los comisionados sus respectivos periodos, el Congreso del Estado deberá designar al Comisionado que fungirá en el encargo, por un periodo de seis años, que invariablemente terminará el último día del mes de junio del año en que se cumpla dicho periodo.
+
+NOVENO.- Los participantes en el proceso de designación de comisionados que se sujetaron a la convocatoria emitida el día 11 de febrero de 2016 por el Titular del Poder Ejecutivo del Estado continuaran participando en el proceso atendiendo a las disposiciones previstas en la ley contenida en el presente decreto.
+
+DÉCIMO.- La designación de los tres Consejeros que integraran el Consejo Consultivo, deberá ser realizada antes del 31 de agosto de 2016.
+
+Para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, por única vez el Congreso del Estado, elegirá a los consejeros conforme a lo siguiente:
+
+a) Nombrará una o un Consejero, cuyo encargo concluirá el último día del mes de agosto de 2018;
+
+b) Nombrará una o un Consejero, cuyo encargo concluirá el último día del mes de agosto de 2020;
+
+c) Nombrará una o un Consejero, cuyo encargo concluirá el último día del mes de agosto de 2022.
+
+Un mes antes de concluir cada uno de los consejeros sus respectivos periodos, el Congreso del Estado deberá designar al Consejero que fungirá en el encargo, por un periodo de seis años, que invariablemente terminará el último día del mes de agosto del año en que se cumpla dicho periodo.
+
+UNDÉCIMO.- Para determinar el valor de la Unidad de Medida y Actualización se estará a lo dispuesto por los artículos segundo y quinto transitorios del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado el 27 de enero del 2016 en el Diario Oficial de la Federación.
