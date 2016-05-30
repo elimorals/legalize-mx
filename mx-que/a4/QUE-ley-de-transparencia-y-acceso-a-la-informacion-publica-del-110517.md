@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1105
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2016-01-25"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado, el viernes 13 de noviembre de 2015.
 
@@ -34,6 +34,8 @@ LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE
 CONSIDERANDO…
 
 Por lo anteriormente expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro, expide la siguiente:
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SÉPTIMO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2016, TODA AQUELLA REFERENCIA EN LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, SOBRE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL, EN ADELANTE SE ENTIENDE COMO LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO.]</small>
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO
 
@@ -77,7 +79,13 @@ I. Ajustes Razonables: Modificaciones y adaptaciones necesarias y adecuadas a lo
 
 II. Áreas: Unidades administrativas de los sujetos obligados que cuentan o puedan contar con la información;
 
-III. Comisión: Comisión Estatal de Información Gubernamental;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+III. Comisión: Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro a la que hace referencia el artículo 26 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+III. Bis. Comisionado: Cada uno de los integrantes de la Comisión garante del Estado;
 
 IV. Comité de Transparencia: Instancia a la que hace referencia el artículo 42 de la presente Ley;
 
@@ -221,6 +229,34 @@ IV. Principio de Gratuidad: dispone que el ejercicio de este derecho no puede es
 
 V. Principio de Documentar la Acción Gubernamental: que establece la obligación de registrar todos los actos públicos de la autoridad y su debida documentación. Los sujetos obligados deben conservar sus archivos documentales, con el objeto de que toda persona pueda acceder a la información generada, administrada o en poder del sujeto obligado.
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VI. Certeza: Principio que otorga seguridad y certidumbre jurídica a los particulares, en virtud de que permite conocer si las acciones de la Comisión son apegadas a derecho y garantiza que los procedimientos sean completamente verificables, fidedignos y confiables;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VII. Eficacia: Obligación de la Comisión para tutelar, de manera efectiva, el derecho de acceso a la información;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VIII. Imparcialidad: Cualidad que debe tener la Comisión respecto de sus actuaciones de ser ajenos o extraños a los intereses de las partes en controversia y resolver sin favorecer indebidamente a ninguna de ellas;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+IX. Independencia: Cualidad que debe tener la Comisión para actuar sin supeditarse a interés, autoridad o persona alguna;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+X. Legalidad: Obligación de la Comisión de ajustar su actuación, debiendo fundar y motivar sus resoluciones y actos en las normas aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XI. Objetividad: Obligación de la Comisión de ajustar su actuación a los presupuestos de ley que deben ser aplicados al analizar el caso en concreto y resolver todos los hechos, prescindiendo de las consideraciones y criterios personales;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XII. Profesionalismo: Los Servidores Públicos que laboren en la Comisión deberán sujetar su actuación a conocimientos técnicos, teóricos y metodológicos que garanticen un desempeño eficiente y eficaz en el ejercicio de la función pública que tienen encomendada.
+
 ###### Artículo 12.
 
 Toda la información pública generada, obtenida, adquirida, transformada o en posesión de los sujetos obligados:
@@ -273,11 +309,15 @@ VI. Fomentar el uso de tecnologías de la información para garantizar la transp
 
 VII. Constituir el Comité y las Unidades de Transparencia y vigilar su correcto funcionamiento;
 
-VIII. Designar en las Unidades de Transparencia a los titulares que dependan directamente del titular del sujeto obligado;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VIII. Determinar a la dependencia, entidad o unidad administrativa, de la cual dependerá la Unidad de Transparencia;
 
 IX. Proporcionar capacitación continua y especializada al personal que forme parte del Comité y Unidades de Transparencia;
 
-X. Rendir los informes que le requiera la Comisión;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+X. Rendir los informes que le requiera la Comisión, sobre las solicitudes de información recibidas;
 
 XI. Atender los requerimientos, observaciones, recomendaciones y criterios que, en materia de transparencia y acceso a la información, realice la Comisión;
 
@@ -539,39 +579,51 @@ VII. Analizar y proponer la ejecución de programas, proyectos y acciones relaci
 
 ### Capítulo Cuarto. De los Comités de Transparencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 42.
 
-En cada sujeto obligado se integrará un Comité de Transparencia integrado con (sic) por al menos tres servidores públicos.
+En cada sujeto obligado, las Unidades de Transparencia integrarán un Comité de Transparencia colegiado e integrado por un número impar.
 
 El Comité de Transparencia adoptará sus resoluciones por mayoría de votos. A sus sesiones podrán asistir como invitados aquellas personas que sus integrantes lo consideren necesario, quienes tendrán voz pero no voto.
 
-Los integrantes del Comité de Transparencia no podrán depender jerárquicamente entre sí, ni estar adscritos a una sola dependencia u oficina.
+REFORMADO, P.O. 30 DE MAYO DE 2016)
+
+Los integrantes del Comité´ de Transparencia no podrán depender jerárquicamente entre sí.
 
 Los integrantes del Comité de Transparencia podrán tener acceso a toda la información para determinar su clasificación conforme a la presente ley.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Las dependencias, entidades o unidades administrativas que manejen información relacionada con la seguridad del Estado, investigación del delito, procuración de justicia, así como aquella referente a la seguridad pública del Estado, estarán a lo establecido a la Ley General de Transparencia y la presente Ley, para efecto de la reserva de la información que generen.
 
 ###### Artículo 43.
 
 El Comité de Transparencia tendrá las siguientes funciones:
 
-I. Instituir, coordinar y supervisar, en términos de la presente Ley, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
+I. (DEROGADA, P.O. 30 DE MAYO DE 2016)
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
 II. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen los titulares de las áreas de los sujetos obligados;
 
 III. Ordenar, en su caso, a las Áreas competentes que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, exponga, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones;
 
-IV. Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
+IV. (DEROGADA, P.O. 30 DE MAYO DE 2016)
 
 V. Promover la capacitación y actualización de los servidores públicos del sujeto obligado;
 
-VI. Recabar y enviar a la Comisión, de conformidad con los lineamientos que esta expida, los datos necesarios para la elaboración del informe anual;
+VI. (DEROGADA, P.O. 30 DE MAYO DE 2016)
 
 VII. Solicitar y autorizar la ampliación del plazo de reserva de la información a que se refiere el artículo 96 de la presente Ley; y
 
 VIII. Las demás que se desprendan de su normatividad.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 ###### Artículo 44.
 
-La Comisión, emitirá la normatividad genérica para el funcionamiento de los Comités de Transparencia.
+Cada sujeto obligado, a través de la dependencia, entidad o unidad administrativa de la cual dependa la Unidad de Transparencia, emitirá los lineamientos o normatividad para el funcionamiento de su Comité de Transparencia.
 
 ### Capítulo Quinto. De las Unidades de Transparencia
 
@@ -583,7 +635,9 @@ Para la atención de las solicitudes de información, los sujetos obligados debe
 
 Las Unidades de Transparencia, gozaran de autonomía de gestión y tendrán las siguientes atribuciones:
 
-I. Recabar y difundir la información pública de oficio a que se refiere la presente ley en su Título Quinto, y verificar que las Áreas la actualicen periódicamente, conforme la normatividad aplicable;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+I. Verificar que las dependencias, entidades o unidades administrativas del sujeto obligado difundan y actualicen, conforme la normatividad aplicable, la información pública a que se refiere la presente ley en su Título Quinto;
 
 II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
@@ -593,7 +647,9 @@ IV. Realizar los trámites internos necesarios para la atención de las solicitu
 
 V. Efectuar las notificaciones a los solicitantes;
 
-VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+VI. Instituir, coordinar y supervisar, en términos de la presente Ley, las acciones, políticas y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
 
 VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
 
@@ -607,7 +663,17 @@ XI. Hacer del conocimiento de la instancia competente la probable responsabilida
 
 XII. Promover a través de sus correspondientes sujetos obligados, acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en formatos accesibles o con ajustes razonables en lengua indígena, braille o cualquier formato accesible correspondiente; y
 
-XIII. Las demás que se desprendan de la normatividad aplicable.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XIII. Determinar la procedencia de la ampliación de plazo de respuesta en las solicitudes de acceso a la información, así como la declaración de inexistencia de la información o de incompetencia de las dependencias, entidades o unidades administrativas de los sujetos obligados;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XIV. Intervenir en los recursos que prevé la presente ley;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2016)</small>
+
+XV. Las demás que se desprendan de la normatividad aplicable.
 
 ###### Artículo 47.
 
@@ -621,21 +687,23 @@ III. Abstenerse de dar trámite a solicitudes que no se formulen en forma pacíf
 
 IV. Las demás que se deriven de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
-Los titulares de las unidades de transparencia dependerán directamente del sujeto obligado.
+Los titulares de las unidades de transparencia serán nombrados por el titular de la dependencia, entidad o unidad administrativa a la cual esté adscrita la Unidad de Transparencia.
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
-La titularidad de la Unidad de Transparencia, preferentemente deberá de recaer en una persona que cuente con experiencia en la materia.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 48.
 
-Las Unidades de Transparencia podrán emitir los lineamientos de coordinación, que deberán acatar las dependencias, entidades u órganos administrativos del sujeto obligado, y que resulten necesarios para cumplir con las obligaciones de la presente ley, en tanto no se contrapongan con la misma y los que en su caso emita la Comisión.
+Las Unidades de Transparencia emitirán lineamientos o normas, que deberán cumplir las dependencias, entidades o unidades administrativas del sujeto obligado, y que resulten necesarios para cumplir con las obligaciones de la presente ley, en tanto no se contrapongan con la misma.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 49.
 
-Cuando alguna dependencia, entidad u órgano administrativo de los sujetos obligados se negare a colaborar con la Unidad de Transparencia, esta dará aviso al superior jerárquico para que ordene al servidor público de que se trate, acatar sin demora la solicitud interna de información. Si no tuviere superior jerárquico, el requerimiento se le hará directamente a dicho servidor público.
+Cuando alguna dependencia, entidad o unidad administrativa de los sujetos obligados se negare a atender en tiempo la solicitud que le envíe la Unidad de Transparencia, esta le requerirá al servidor público que corresponda que acate sin demora la solicitud de información.
 
 ###### Artículo 50.
 
@@ -1213,15 +1281,15 @@ VII. Causas por las que, en su caso, se inicie el proceso de constitución o ext
 
 VIII. Los contratos de obras, adquisiciones y servicios que involucren recursos públicos del fideicomiso, así como los honorarios derivados de los servicios y operaciones que realice la institución de crédito o la fiduciaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 76.
 
-Las autoridades administrativas y jurisdiccionales en materia laboral deberán poner a disposición del público y mantener actualizada y accesible y, en su caso, expedir copias de la siguiente información de los sindicatos que reciban recursos públicos del Estado:
+Las Unidades Administrativas y jurisdiccionales en materia laboral deberán poner a disposición del público y mantener actualizada y accesible y, en su caso, expedir copias de la siguiente información de los sindicatos que reciban recursos públicos del Estado:
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-I. Los documentos del registro de los sindicatos; entre ellos, los que incluyan el nombre, domicilio y número de registro del sindicato;
+I. Los documentos del registro de los sindicatos; entre ellos, los que incluyan el nombre, domicilio, número de registro del sindicato, fecha de vigencia del comité ejecutivo, número de agremiados, centro de trabajo al que pertenezcan y central a la que pertenezcan, en su caso;
 
 II. Nombre de los integrantes del comité ejecutivo y comisiones que ejerzan funciones de vigilancia;
 
@@ -1293,9 +1361,13 @@ III. Determinar las obligaciones de transparencia que deben cumplir y los plazos
 
 La Comisión vigilará que las obligaciones de transparencia sean cumplidas por los sujetos obligados.
 
-Las acciones de vigilancia a que se refiere este Capítulo, se realizaran a través de la verificación virtual o técnica que determine la Comisión al portal de Internet de los sujetos obligados, ya sea de forma aleatoria o muestral y periódica.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
-La verificación tendrá por objeto revisar y constatar el debido cumplimiento a las obligaciones de transparencia.
+Las acciones de vigilancia a que se refiere este Capítulo, se realizarán a través de la verificación que determine la Comisión, al portal de Internet de los sujetos obligados, ya sea de forma aleatoria o muestra y periódica.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
+La verificación tendrá por objeto revisar y constatar el debido cumplimiento a las obligaciones de transparencia, en términos de lo previsto en los artículos 64 a 80 de esta Ley, según corresponda a cada sujeto obligado y demás disposiciones aplicables.
 
 ###### Artículo 82.
 
@@ -1363,9 +1435,13 @@ El procedimiento de la denuncia se integra por las siguientes etapas:
 
 I. Presentación de la denuncia ante la Comisión, anexando las pruebas que sustenten la misma y en los términos de la presente Ley;
 
-II. La Comisión verificará el portal de transparencia;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
-III. En caso de que existan indicios de incumplimiento, la Comisión notificará la demanda y solicitará al sujeto obligado un informe justificado respecto de los hechos o motivos de la denuncia dentro de los tres días siguientes a la notificación anterior;
+II. La Comisión verificará el portal de transparencia y en caso de que se constate que no existe incumplimiento por parte del sujeto obligado, desechará la denuncia;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+
+III. En caso de que existan indicios de incumplimiento, la Comisión admitirá y notificará la denuncia al sujeto obligado solicitándole un informe justificado respecto de los hechos o motivos de la denuncia dentro de los tres días siguientes a la notificación anterior;
 
 IV. Una vez que cuente con el informe y verifique el contenido de la página de transparencia, la Comisión emitirá la resolución de la denuncia; y
 
@@ -1693,7 +1769,9 @@ Las Unidades de Transparencia deberán garantizar que las solicitudes se turnen 
 
 La respuesta a la solicitud deberá ser notificada al interesado en el plazo máximo de veinte días hábiles, contados a partir del día siguiente a la presentación de aquélla.
 
-Dicho plazo podrá ampliarse hasta por diez días hábiles más, siempre y cuando existan razones fundadas y motivadas, las cuales deberán ser aprobadas por el Comité de Transparencia, mediante la emisión de una resolución que deberá notificarse al solicitante, antes de su vencimiento.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Dicho plazo podrá ampliarse hasta por diez días hábiles más, siempre y cuando existan razones fundadas y motivadas, las cuales deberán ser aprobadas por la Unidad de Transparencia, debiendo notificarse al solicitante, antes de su vencimiento.
 
 ###### Artículo 131.
 
@@ -2190,3 +2268,25 @@ Artículo Segundo. Dentro de los 180 días siguientes al inicio de vigencia de l
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Cuarto. La Mesa Directiva de la Quincuagésima Octava Legislatura del Estado de Querétaro expedirá la Convocatoria y desahogará el procedimiento para la elección de los Comisionados de la Comisión Estatal de Información Gubernamental, referido en el Artículo Segundo Transitorio de la Ley que reforma el Apartado B, del Artículo 33 de la Constitución Política del Estado de Querétaro, publicada el 2 de octubre de 2015 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"; convocatoria en la que se señalarán las bases, requisitos, etapas y desarrollo del procedimiento de elección, el cual deberá garantizar la transparencia, independencia y participación de la sociedad.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se incorporan a la Comisión Estatal de Infraestructura de Querétaro, las acciones, sistemas, derechos, atribuciones y obligaciones de la Comisión Estatal de Caminos del Estado de Querétaro; así como los servidores públicos adscritos a ésta.
+
+Artículo Cuarto. Los trabajadores de la Comisión Estatal de Caminos del Estado de Querétaro conservarán sus derechos adquiridos.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia a la Comisión Estatal de Caminos del Estado de Querétaro, aludirá ahora a la Comisión Estatal de Infraestructura de Querétaro, por lo que todos los programas, recursos humanos, materiales y financieros de aquella se transfieren al patrimonio de ésta.
+
+Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, los Entes del Estado de Querétaro expedirán su respectivo Código de Ética.
+
+Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
+
+En tanto no se expidan las disposiciones reglamentarias de la Ley que crea la Comisión Estatal de Infraestructura de Querétaro, el Consejo de Administración dictará los criterios y lineamientos para su debida observancia.
