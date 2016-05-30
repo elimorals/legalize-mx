@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-67960"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2013-02-01"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -58,6 +58,10 @@ IV. Las empresas de participación mayoritaria, estatal o municipal; y
 V. Los fideicomisos públicos, en que el fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores.
 
 Asimismo, esta ley regula los mecanismos para la afectación, en su caso, de las participaciones federales que correspondan al Estado y a sus municipios, así como los demás ingresos que correspondan a las entidades.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+
+Además de lo establecido en la presente Ley, se estará a lo dispuesto por la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2013)</small>
 
@@ -406,6 +410,26 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones legales igual (sic) o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Dentro de los 30 días naturales siguientes al inicio de vigencia de la presente Ley, el Poder Ejecutivo del Estado, en coordinación con los Municipios respectivos, realizarán los actos conducentes a efecto de actualizar los datos del Registro previsto en la Ley de Deuda Pública del Estado de Querétaro. La información que contendrá el mencionado registro público deberá incluir todas las operaciones vigentes que conforme al concepto reformado de deuda pública sean considerados como tales independientemente de si en su origen se les dio tal carácter o no. Asimismo, la información deberá contener todas las enajenaciones, gravámenes y afectaciones vigentes de ingresos o derechos que hayan otorgado el Estado y los municipios en cualesquier operación financiera o de deuda pública.
+
+P.O. 30 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO, LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO Y LEY QUE CREA LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Se incorporan a la Comisión Estatal de Infraestructura de Querétaro, las acciones, sistemas, derechos, atribuciones y obligaciones de la Comisión Estatal de Caminos del Estado de Querétaro; así como los servidores públicos adscritos a ésta.
+
+Artículo Cuarto. Los trabajadores de la Comisión Estatal de Caminos del Estado de Querétaro conservarán sus derechos adquiridos.
+
+Artículo Quinto. A partir de la entrada en vigor de la presente Ley, se entenderá que toda ley, reglamento, decreto o acuerdo que haga referencia a la Comisión Estatal de Caminos del Estado de Querétaro, aludirá ahora a la Comisión Estatal de Infraestructura de Querétaro, por lo que todos los programas, recursos humanos, materiales y financieros de aquella se transfieren al patrimonio de ésta.
+
+Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, los Entes del Estado de Querétaro expedirán su respectivo Código de Ética.
+
+Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+
+Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
 
 ### Capítulo Sexto. De la Transparencia
 
