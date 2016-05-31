@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-05-24"
+last_updated: "2016-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -395,9 +395,9 @@ XXII. VIGESIMO SEGUNDO CIRCUITO:
 
 2. Un tribunal unitario con sede en Querétaro.
 
-> <small>(REFORMADO POR EL PUNTO DÉCIMO NOVENO DEL ACUERDO GENERAL 30/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 23/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2016)</small>
 
-3. Siete juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y cinco de Amparo y Juicios Federales.
+3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y siete de Amparo y Juicios Federales.
 
 XXIII. VIGESIMO TERCER CIRCUITO:
 
@@ -2720,3 +2720,63 @@ XIX. …
 Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico y en Ciudad Madero, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
 
 XX. a XXXIII. …".
+
+D.O.F. 31 DE MAYO DE 2016.
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciséis, con excepción de lo previsto en el transitorio CUARTO, el cual iniciará su vigencia a partir de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito de Amparo y Juicios Federales en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, para quedar como sigue:
+
+ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES EN LOS JUZGADOS DE DISTRITO DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE QUERÉTARO, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE.
+
+PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL
+
+AÑO 2016 AL QUE CORRESPONDE
+
+LA GUARDIA
+
+Del 30 mayo al 6 de junio. Juzgado Tercero
+
+Del 6 al 13 de junio. Juzgado Cuarto
+
+Del 13 al 20 de junio. Juzgado Quinto
+
+Del 20 al 27 de junio. Juzgado Sexto
+
+Del 27 de junio al 4 de julio. Juzgado Séptimo
+
+Del 4 al 11 de julio. Juzgado Primero
+
+Del 11 al 18 de julio. Juzgado Segundo
+
+Del 18 al 25 de julio. Juzgado Tercero
+
+Del 25 de julio al 1 de agosto. Juzgado Cuarto
+
+Del 1 al 8 de agosto. Juzgado Quinto
+
+Del 8 al 15 de agosto. Juzgado Sexto
+
+Del 15 al 22 de agosto. Juzgado Séptimo
+
+Y así, sucesivamente conforme al orden establecido.
+
+El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XXII, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. a XXI. ...
+
+XXII ...
+
+1. a 2. ...
+
+3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y siete de Amparo y Juicios Federales.
+
+XXIII. a XXXII. ...".
