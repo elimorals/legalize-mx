@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-05-18"
+last_updated: "2016-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2016.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -8611,9 +8611,9 @@ El ejercicio del gasto por medio de fondos fijos, servirá para cubrir requerimi
 
 Para el ejercicio del gasto por concepto de viáticos y pasajes, las unidades ejecutoras de gasto deberán sujetarse a lo siguiente:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA AUTORIZACIÓN DE COMISIONES INTERNACIONALES, D.O.F. 31 DE MAYO DE 2016)</small>
 
-I. Para la asignación de viáticos en el desempeño de comisiones tanto en territorio nacional como en el extranjero, observar las disposiciones aplicables y los acuerdos que al efecto emita el Pleno. Las comisiones en el extranjero deberán contar, en su caso, con el visto bueno de la Comisión a la cual pertenece o reporte el servidor público comisionado, y con la autorización del Pleno;
+I. Para la asignación de viáticos en el desempeño de comisiones tanto en territorio nacional como en el extranjero, observar las disposiciones aplicables y los acuerdos que al efecto emita el Pleno. Las comisiones en el extranjero deberán contar con la autorización del Pleno o del Presidente;
 
 II. La autorización para el desempeño de las comisiones, se efectuará para contribuir al logro de los objetivos y metas de los programas aprobados;
 
@@ -9531,11 +9531,11 @@ III. Para los restantes servidores públicos pertenecientes a los Grupos 3 y 4, 
 
 Lo anterior, sin que sea óbice, que las Comisiones o el Pleno, instruyan las comisiones de los servidores públicos que estimen conducentes.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA AUTORIZACIÓN DE COMISIONES INTERNACIONALES, D.O.F. 31 DE MAYO DE 2016)</small>
 
 ###### Artículo 835 Sexies.
 
-Tratándose de comisiones internacionales, se deberá contar con la autorización del Pleno y, en su caso, el visto bueno de la Comisión a la cual pertenece o reporta el servidor público comisionado.
+Tratándose de comisiones internacionales, se deberá contar con la autorización del Pleno o del Presidente.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -11698,3 +11698,11 @@ Las disposiciones materia del presente Acuerdo anteriores a la entrada en vigor 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Las referencias que se hagan en otras disposiciones del Consejo de la Judicatura Federal al concepto de “equidad de género” se entenderán hechas a “igualdad de género”, sin perjuicio de lo dispuesto en el transitorio PRIMERO de este Acuerdo General.
+
+D.O.F. 31 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA AUTORIZACIÓN DE COMISIONES INTERNACIONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
