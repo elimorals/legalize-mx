@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2016-05-27"
+last_updated: "2016-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -34,22 +34,6 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 DECRETA:
 
 NUMERO.- 298
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN ESTE DECRETO RESPECTO AL TÉRMINO "CÓDIGO DE PROCEDIMIENTOS PENALES" , SE ENTENDERÁN HECHAS AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE FEBRERO DE 2012, Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, DE ACUERDO AL ESQUEMA DE GRADUALIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL.</small>
-
-ASIMISMO, LAS REFERENCIAS QUE SE HAGAN A CARPETA DE INVESTIGACIÓN, EN LOS CASOS QUE RESULTE APLICABLE, SE ENTENDERÁN HECHAS A LA AVERIGUACIÓN PREVIA
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS A LAS SUBPROCURADURÍAS JURÍDICA, DE DERECHOS HUMANOS, PROFESIONALIZACIÓN Y PROYECTOS, Y DE INVESTIGACIONES ESPECIALES, ATENCIÓN A DELITOS CONTRA MUJERES POR RAZÓN DE GÉNERO, TRATA DE PERSONAS, LIBERTAD DE EXPRESIÓN Y SERVICIOS A LA COMUNIDAD, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, DE ACUERDO A LAS ATRIBUCIONES QUE SE OTORGAN A ÉSTA ÚLTIMA MEDIANTE EL PRESENTE DECRETO.</small>
-
-ASIMISMO TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LAS SIGUIENTES DENOMINACIONES:
-
-A) DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y TESTIGOS: DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS.
-
-B) DIRECCIÓN GENERAL DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS: DIRECCIÓN GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
-
-C) DIRECCIÓN DE CONTROL DE PROCESOS EN MATERIA DE DELITOS ELECTORALES: DIRECCIÓN DE CONTROL DE JUICIOS Y CONSTITUCIONALIDAD EN MATERIA DE DELITOS ELECTORALES,
-
-D) DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL: DIRECCIÓN DE POLÍTICA CRIMINAL.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -5335,9 +5319,9 @@ ARTÍCULO 354 BIS. En los casos a que se refieren los artículos anteriores, la 
 
 SANCIONES Y FIGURAS TÍPICAS DE PARRICIDIO, MATRICIDIO, FILICIDIO, UXORICIDIO, FRATRICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN. Se aplicará de siete a treinta años de prisión y multa: A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
-El tipo penal de la figura anterior admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus penalidades, así como las del concurso conforme a lo dispuesto en el artículo 67.
+El tipo penal de la figura anterior admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus penalidades, en caso de que haya sido por razón de género se estará a lo señalado en el artículo 336 BIS 1 que establece el feminicidio, además se aplicarán las reglas del concurso.
 
 ### CAPÍTULO CUARTO. INDUCCIÓN Y AYUDA AL SUICIDIO
 
@@ -5737,11 +5721,15 @@ Las sanciones mínimas y máximas del primer párrafo de este artículo, se aume
 
 Se aumentarán en una mitad más los mínimos y máximos de las sanciones: Si en el implante o la inseminación que prevén estas fracciones se utiliza violencia contra la mujer.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+Además de las penas previstas en los párrafos anteriores, se impondrá la suspensión para ejercer la profesión o, en caso de servidores públicos, la inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 383.
 
-BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA DIGNIDAD E IGUALDAD DE LAS PERSONAS. Se impondrá pena de seis meses a tres años de prisión y multa, al que injustificadamente por razones de edad, sexo, embarazo, estado civil, raza, color de piel, idioma, religión, ideología, orientación sexual, opiniones políticas, posición social o económica, discapacidad, condición física, embarazo (sic), estado de salud o de cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de las siguientes conductas:
+BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA DIGNIDAD E IGUALDAD DE LAS PERSONAS. Se impondrá pena de seis meses a tres años de prisión y multa, a quien injustificadamente por razones de edad, sexo, género, embarazo, estado civil, raza, color de piel, idioma, religión, ideología, orientación sexual, opiniones políticas, posición social o económica, discapacidad, condición física, estado de salud o de cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de las siguientes conductas:
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -5781,11 +5769,41 @@ Cuando las conductas a que se refiere este artículo sean cometidas por persona 
 
 Asimismo, se incrementará en una mitad la pena cuando los actos previstos en este artículo limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MAYO DE 2016)</small>
+
+La autoridad judicial competente estará obligada en su resolución a señalar a favor de la víctima lo relativo a la reparación del daño y las medidas afirmativas correspondientes que garanticen que los actos, omisiones o prácticas sociales discriminatorias no se repitan en su perjuicio.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE MAYO DE 2016)</small>
+
 Este delito, sólo se perseguirá por querella de parte ofendida.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
-ARTÍCULO 383 BIS 1. SANCIONES Y FIGURA TÍPICA DE LA ESTERILIDAD PROVOCADA. Se impondrán de cuatro a siete años de prisión y multa, a quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos, químicos o de cualquier otra índole con el propósito de provocarle esterilidad.
+###### ARTÍCULO 383.
+
+BIS 1. SANCIONES Y FIGURAS TÍPICAS DE LA ESTERILIDAD PROVOCADA. Se impondrán de cuatro a siete años de prisión y multa, a quien sin el consentimiento de una persona mayor de edad practique en ella procedimientos quirúrgicos, químicos o de cualquier otra índole con el propósito de provocarle esterilidad.
+
+Además deberá cubrirse la reparación del daño, la cual podrá consistir, de ser procedente, en la reestructuración, apertura, recanalización de conductos deferentes o cualquier otro procedimiento quirúrgico que restablezca la función reproductora anulada y, en su caso, tratamiento psicológico, cuyo costo será a cargo del sujeto activo.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 383.
+
+BIS 2. SANCIONES Y FIGURAS TÍPICAS DE ESTERILIDAD PROVOCADA EN PERSONAS MENORES DE EDAD O INCAPACES. Se impondrán de seis a diez años de prisión y multa, a quien practique procedimientos quirúrgicos, químicos o de cualquier otra índole con el propósito de provocar la esterilidad de una persona sin capacidad para comprender el significado del hecho o para resistirlo, o de una persona menor de dieciocho años, aún con su consentimiento o de quien detente la guarda, custodia, atención o cuidado, tutela o patria potestad de la víctima.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 383.
+
+BIS 3. AGRAVANTES DE LAS FIGURAS TÍPICAS DE ESTERILIDAD PROVOCADA. Cuando el delito descrito en los dos artículos precedentes se realice valiéndose de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, profesión o cualquier otra que implique subordinación por parte de la víctima, se aumentará en un tercio más la pena prevista.
+
+Asimismo, se aumentará la pena en los términos previstos en el párrafo anterior en el supuesto de que el delito se realice con violencia física, psicológica o moral, aprovechándose de la ignorancia, extrema pobreza o cualquier otra circunstancia que hiciera vulnerable a la víctima.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 383.
+
+BIS 4. SANCIÓN ADICIONAL A QUIENES CAUSEN LA ESTERILIDAD PROVOCADA. Además de las penas previstas en los artículos 383 BIS 1, 383 BIS 2 y 383 BIS 3, se impondrá la suspensión para ejercer la profesión o, en caso de servidores públicos, la inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución.
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
@@ -5793,13 +5811,15 @@ ARTÍCULO 383 BIS 1. SANCIONES Y FIGURA TÍPICA DE LA ESTERILIDAD PROVOCADA. Se 
 
 ###### ARTÍCULO 384.
 
-SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN. Se aplicará prisión de siete a catorce años y multa: A quien por medio de la violencia física o moral tenga cópula con una persona sin su voluntad, cualquiera que sea su sexo.
+SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN. Se aplicará prisión de siete a catorce años y multa: A quien por medio de la violencia física, psicológica o moral tenga cópula con una persona sin su voluntad, cualquiera que sea su sexo.
 
 Para los efectos de este código se entiende por cópula la introducción total o parcial del pene por vía vaginal, anal u oral, independientemente del sexo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 385.
 
-SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN CONYUGAL. Se aplicará prisión de tres a seis años y multa: A quien por medio de la violencia física o moral tenga cópula con su cónyuge sin la voluntad de éste.
+SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN EN EL MATRIMONIO O CONCUBINATO. Se aplicará prisión de tres a diez años y multa: A quien por medio de la violencia física, psicológica o moral tenga cópula con la persona con quien esté unida en matrimonio o concubinato sin la voluntad de ésta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -5821,7 +5841,9 @@ CIRCUNSTANCIAS CALIFICATIVAS DE LAS FIGURAS TIPICAS DE VIOLACION O DE LA EQUIPAR
 
 I. VIOLACIÓN POR DOS O MÁS PERSONAS. Se realice por dos o más personas.
 
-II. VIOLACIÓN PREPOTENTE. Se realice por el ascendiente en contra del descendiente; por el adoptante en contra del adoptado o adoptada; el tutor en contra de su pupilo o pupila; el padrastro en contra del hijastro o hijastra; o el amasio en contra del hijo o hija de la amasia.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
+
+II. VIOLACIÓN PREPOTENTE. Se realice por el ascendiente en contra del descendiente; por el adoptante en contra del adoptado o adoptada; el tutor en contra de su pupilo o pupila; el padrastro en contra del hijastro o hijastra; o la persona con quien se tenga una relación de hecho en contra del hijo o hija de su pareja.
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -5845,41 +5867,43 @@ Se aplicará de seis a once años y multa: A quien ilícitamente introduzca en f
 
 Se incrementará en un tercio el mínimo y el máximo de las sanciones de los párrafos anteriores, cuando concurra cualquiera de las circunstancias calificativas del artículo anterior.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
-ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O LESIONES. Si el autor matare a la víctima o a través de la violencia sexual o de la violación le causare la muerte; además de las sanciones que le correspondan por el delito de violación, se le aplicarán las propias del homicidio doloso o culposo, según sea el caso, atendiendo a las reglas del concurso, en los términos del segundo párrafo del artículo 67. Las lesiones dolosas que resulten de la comisión de este delito se sancionarán, además de las que le son propias, con la penalidad de las lesiones calificadas.
+ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O LESIONES. Si el autor matare a la víctima o a través de la violencia sexual o de la violación le causare la muerte; además de las sanciones que le correspondan por el delito de violación, se le aplicarán las sanciones relativas al feminicidio establecido en el artículo 336 BIS 1, atendiendo a las reglas del concurso. Las lesiones dolosas que resulten de la comisión de este delito se sancionarán, además de las que le son propias, con la penalidad de las lesiones calificadas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2016)</small>
 
 ### CAPÍTULO SEXTO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR, A LOS DERECHOS DE PERSONALIDAD Y A LA DIGNIDAD E IGUALDAD DE LAS PERSONAS
 
 ###### ARTÍCULO 389.
 
-SANCIONES Y FIGURAS TÍPICAS DE RAPTO. Se aplicará prisión de uno a siete años y multa a quien por medio de la violencia física o moral o engaño sustraiga o retenga a una persona para satisfacer algún deseo erótico o para casarse.
+SANCIÓN Y FIGURA TÍPICA DE PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES. Al que prive a otro de su libertad, con el propósito de realizar un acto sexual, se le impondrá de uno a siete años de prisión y multa.
 
-Se aplicará prisión de dos a ocho años y multa: A quien con cualquiera de los fines del párrafo anterior, por medio de la seducción o engaño sustraiga o retenga a una persona mayor de quince años pero menor de dieciocho.
-
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 390.
 
-PRESUNCIÓN LEGAL DE SEDUCCIÓN. Por el sólo hecho de que el sujeto pasivo sea menor de dieciocho años de edad y voluntariamente siga a quien lo sustrae o retiene, se presumirá que el sujeto activo empleó la seducción salvo prueba en contrario. Esta presunción no tendrá lugar si el sujeto pasivo es menor emancipado.
+SANCIÓN Y FIGURA TÍPICA DE LA PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES EN PERSONAS MENORES DE EDAD O INCAPACES. Cuando la persona a quien se le prive de la libertad sea menor de dieciocho años o sea una persona que no tuviere capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo, se le impondrá de dos a ocho años de prisión y multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 391.
 
-(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2005)
+SANCIÓN Y FIGURA TÍPICA DE LA PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES ATENUADA. Si dentro de las veinticuatro horas siguientes a la privación, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de tres meses a tres años de prisión.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+Este supuesto se perseguirá de oficio solo en cuanto hace a personas menores de dieciocho años y personas que no tuvieren capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no puedan resistirlo.
 
 ###### ARTÍCULO 392.
 
-CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá contra el raptor sino por querella de la mujer ofendida; pero si es menor de dieciocho años de edad y no está emancipada, el rapto se perseguirá de oficio.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 31 DE MAYO DE 2016)
 
 ###### ARTÍCULO 393.
 
-SANCIONES Y FIGURA TÍPICA EQUIPARADA AL RAPTO. Se aplicará prisión de tres a nueve años y multa: A quien para satisfacer un deseo erótico sustraiga o retenga por cualquier medio a una persona menor de quince años de edad, sea cual fuere su sexo; o que por cualquier causa no pueda conducirse voluntariamente o resistir la conducta delictiva. Este delito se perseguirá de oficio.
+(DEROGADO, P.O. 31 DE MAYO DE 2016)
 
 ### CAPÍTULO PRIMERO. VIOLACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 394.
 
@@ -5891,27 +5915,23 @@ SANCIONES Y FIGURA TÍPICA DE ESTUPRO. Se aplicará prisión de seis meses a cua
 
 CONDICIÓN DE PROCEDIBILIDAD PARA PERSEGUIR EL DELITO DE ESTUPRO. Sólo se procederá contra el estuprador por querella del ofendido o de sus representantes legítimos y si no los tuviera, por la dependencia que se encargue legalmente de los asuntos del menor o de la familia.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### ARTÍCULO 396.
 
-AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLACIÓN O ESTUPRO. Si como consecuencia de la violación o del estupro hay descendencia, la reparación del daño comprenderá, además de lo que señala este código, la ministración de alimentos al hijo en los términos de la ley civil.
+AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLACIÓN O ESTUPRO. Si como consecuencia de la violación o del estupro hay descendencia, la reparación del daño comprenderá, además de lo que señala este código, la ministración de alimentos al hijo o hija en los términos de la Ley para la Familia de Coahuila de Zaragoza.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO SEGUNDO. RAPTO
+### CAPÍTULO SEGUNDO. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 397.
 
 SANCIONES Y FIGURAS TÍPICAS DE ABUSO SEXUAL. Se aplicará de uno a cinco años de prisión y multa: A quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de quince años de edad, ejecute en ella o la haga ejecutar un acto erótico.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
-
-Se aplicarán las mismas sanciones si el sujeto pasivo es una persona sin capacidad de comprender el significado del hecho de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
-
-Si se hiciere uso de la violencia física o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima.
+Si se hiciere uso de la violencia física, psicológica o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -5921,7 +5941,9 @@ SANCIONES Y FIGURAS TÍPICAS DE ABUSO SEXUAL IMPROPIO. Se aplicará de dos a sei
 
 Se aplicarán las mismas sanciones si el sujeto pasivo, independientemente de su edad, no tiene la capacidad para comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo.
 
-Si se emplea violencia física o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de tres a ocho años de prisión y multa.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
+Si se emplea violencia física, psicológica o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de tres a ocho años de prisión y multa.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -5937,7 +5959,7 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ABUSO SE
 
 ### CAPÍTULO CUARTO. ABUSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ## TÍTULO CUARTO. DELITOS CONTRA LA SALUD
 
@@ -5945,23 +5967,17 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ABUSO SE
 
 ### CAPITULO QUINTO. ACOSO SEXUAL
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
-###### ARTÍCULO 399
-
-BIS SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL.
-
-Se aplicará de uno a cinco años de prisión y multa a quien con fines lascivos o erótico-sexuales, ya sea de manera directa, a través de medios informáticos, audiovisuales, virtuales o de cualquier otra forma, asedie o acose a una persona o le solicite favores de naturaleza sexual para sí o para un tercero.
+ARTÍCULO 399 BIS. SANCIONES Y FIGURA TÍPICA DE ACOSO SEXUAL. Se aplicará de uno a cinco años de prisión y multa: A quien solicite favores sexuales para sí o para una tercera persona o realice una conducta de naturaleza sexual indeseable para quien la recibe, ya sea de manera directa, a través de medios informáticos, audiovisuales, virtuales o de cualquier otra forma, que le cause un daño o sufrimiento psicológico el cual lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
 
 Si la acción se realiza a través de medios informáticos, se impondrá además, la prohibición de comunicarse a través de dichos medios o redes sociales, hasta por un tiempo igual a la pena impuesta.
 
-Será punible el acoso sexual cuando el sujeto activo pueda causar un daño personal, laboral, educativo, profesional o patrimonial.
+Las sanciones se aumentarán en un tercio más si el sujeto activo puede causar un daño personal, laboral, educativo, profesional o patrimonial; o si el sujeto pasivo del delito es una persona menor de edad o sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
 
-Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años. Igualmente, si el sujeto pasivo del delito es menor de edad o persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
+La misma sanción prevista en el párrafo anterior, se aplicará en el caso de que el sujeto activo fuere servidor público y utilizare los medios propios del cargo, además de la destitución e inhabilitación para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 80, PUBLICADO EN EL P.O. 19 DE OCTUBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
-
-> <small>(REFORMADO [N. DE E., ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 400.
 
@@ -6047,11 +6063,21 @@ Se entiende que el narcótico está destinado para su estricto e inmediato consu
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO PRIMERO. DEL COMERCIO, SUMINISTRO Y POSESIÓN DE NARCÓTICOS EN SU MODALIDAD DE NARCOMENUDEO
+### CAPITULO SEXTO. HOSTIGAMIENTO SEXUAL
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
+ARTÍCULO 400 BIS 1 (SIC). SANCIONES Y FIGURA TÍPICA DE HOSTIGAMIENTO SEXUAL. Se aplicará de dos a siete años de prisión y multa: A quien, basado en el ejercicio del poder, en una relación de subordinación real respecto de la víctima, realice una conducta de tipo verbal, física o ambas, relacionadas con la sexualidad de connotación lasciva que le cause un daño o sufrimiento psicológico que lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
+
+Las sanciones se aumentarán en un tercio más si el sujeto activo dado su posición de ejercicio de poder puede causar un daño personal, laboral, educativo, profesional o patrimonial; o si el sujeto pasivo del delito es una persona menor de edad o sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
+
+Las mismas sanciones se aplicarán si el sujeto activo fuere servidor público y utilizaré los medios propios de su cargo jerárquico. Adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de dos a siete años.
+
+Este delito se perseguirá por querella.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 80, PUBLICADO EN EL P.O. 19 DE OCTUBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
+
+> <small>(REFORMADO [N. DE E., ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 406.
 
@@ -6085,7 +6111,7 @@ TRATAMIENTO Y REHABILITACIÓN A FARMACODEPENDIENTES. El Ministerio Público o la
 
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO SEGUNDO. DISPOSICIONES COMÚNES A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
+### CAPÍTULO PRIMERO. DEL COMERCIO, SUMINISTRO Y POSESIÓN DE NARCÓTICOS EN SU MODALIDAD DE NARCOMENUDEO
 
 (NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -6195,7 +6221,11 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADO AL ROBO. Se aplicarán las dos terceras pa
 
 SANCIONES Y FIGURA TÍPICA DE ROBO DE USO. Se aplicará una tercera parte de las sanciones mínima y máxima del robo simple: A quien se apodere de una cosa mueble ajena; sin consentimiento de la persona que legalmente pueda otorgarlo o del legítimo poseedor, con el sólo fin de usarla transitoriamente y no para disponer de ella como dueño.
 
-### CAPÍTULO PRIMERO. ROBO
+### CAPÍTULO SEGUNDO. DISPOSICIONES COMÚNES A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 418.
 
@@ -6205,7 +6235,7 @@ Si las conductas se ejecutan sobre tres o más cabezas de ganado menor, la sanci
 
 Se equipara al abigeato y se sancionará como tal, el alterar o borrar las marcas de identificación del ganado, con ánimo de apropiárselo en forma indebida.
 
-### CAPÍTULO SEGUNDO. ABIGEATO
+### CAPÍTULO PRIMERO. ROBO
 
 ###### ARTÍCULO 419.
 
@@ -6235,9 +6265,7 @@ Se procederá de igual forma, cuando el robo o abigeato se cometa por el suegro 
 
 Se procederá de oficio contra los demás autores o partícipes que intervengan.
 
-### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+### CAPÍTULO SEGUNDO. ABIGEATO
 
 ###### ARTÍCULO 421.
 
@@ -6267,9 +6295,9 @@ IV. ILEGÍTIMA POSESIÓN DE LA COSA RETENIDA. La ilegítima posesión de la cosa
 
 QUERELLA NECESARIA PARA LA PERSECUCIÓN DE ABUSO DE CONFIANZA. Los delitos que prevé este capítulo sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
+### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 424.
 
@@ -6319,7 +6347,9 @@ XII. ENGAÑO DE GARANTÍA. A quien para liberar a otro o a sí mismo del cumplim
 
 QUERELLA NECESARIA. Los delitos de este capítulo, con excepción del de fraccionamientos no autorizados, sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO QUINTO. FRAUDE
+### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 428.
 
@@ -6337,7 +6367,7 @@ IV. OCULTACIÓN, RETENCIÓN O EMPLEO INDEBIDO DE VALORES. Oculte o retenga valor
 
 QUERELLA NECESARIA. El delito de administración fraudulenta sólo se perseguirá por querella del ofendido.
 
-### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
+### CAPÍTULO QUINTO. FRAUDE
 
 ###### ARTÍCULO 430.
 
@@ -6345,9 +6375,7 @@ PENALIDAD Y FIGURA TÍPICA DE USURA. Se aplicará de seis meses a ocho años y m
 
 El monto de la reparación del daño, será por lo menos igual a la desproporción del beneficio económico obtenido o de los intereses devengados en exceso, o de ambos, según el caso.
 
-### CAPÍTULO SÉPTIMO. USURA
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO SEXTO. ADMINISTRACIÓN FRAUDULENTA
 
 ###### ARTÍCULO 431.
 
@@ -6373,7 +6401,9 @@ En estos supuestos, a los instigadores o a quienes dirijan materialmente la ejec
 
 QUERELLA NECESARIA PARA PERSEGUIR EL DESPOJO. Los delitos de este capítulo sólo se perseguirán por querella del ofendido.
 
-### CAPÍTULO OCTAVO. DESPOJO
+### CAPÍTULO SÉPTIMO. USURA
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 435.
 
@@ -6399,9 +6429,7 @@ ARTÍCULO 438 BIS. SANCIONES Y FIGURAS TÍPICAS DE GRAFITO. Se aplicará prisió
 
 Se aplicará prisión de un mes a seis años y multa: A quien realice cualquiera de las conductas a que se refiere el párrafo anterior, en bienes del dominio público o privado que hayan sido declaradas por las autoridades competentes como parte del acervo cultural del estado o de cualquier municipio, y cuya reparación sea difícil o imposible.
 
-### CAPÍTULO NOVENO. DAÑOS
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
+### CAPÍTULO OCTAVO. DESPOJO
 
 ###### ARTÍCULO 439.
 
@@ -6413,11 +6441,11 @@ EXTORSIÓN POR SUJETO CUALIFICADO. Las penas del artículo anterior se duplicar�
 
 En estos casos, además, se impondrá a cualquiera de las personas mencionadas y según proceda: La destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cualquiera como servidor público, con aquél u otro carácter.
 
-### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-### CAPÍTULO DÉCIMO. EXTORSIÓN
+### CAPÍTULO NOVENO. DAÑOS
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 441.
 
@@ -6429,7 +6457,11 @@ Las sanciones mínima y máxima del primer párrafo se aumentarán en un tercio 
 
 Para los efectos de este artículo, se entiende que son producto de una actividad ilícita: Los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios graves de que provienen directa o indirectamente de la comisión de algún delito; o representan las ganancias derivadas de ello; y no se pueda acreditar su legítima procedencia.
 
-### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO DUODÉCIMO. ENCUBRIMIENTO POR RECEPTACIÓN
+
+### CAPÍTULO DÉCIMO. EXTORSIÓN
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 442.
 
@@ -7022,3 +7054,9 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto en entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 468.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
