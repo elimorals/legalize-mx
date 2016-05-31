@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2016-03-14"
+last_updated: "2016-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -252,6 +252,14 @@ En los lugares donde exista sólo un tribunal Colegiado de Circuito mixto o espe
 I. Primer periodo: en la segunda quincena de julio, y
 
 II. Segundo período: en la segunda quincena de diciembre.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2016)</small>
+
+El tribunal Colegiado de Circuito de la ciudad más cercana que se encuentre laborando durante el período vacacional, conocerá de los recursos de queja a que se refiere el artículo 97, fracción I, inciso b) de la Ley de Amparo, así como de los que se hubieren presentado el último día de labores del tribunal que comenzará a gozar de ese período.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2016)</small>
+
+Los recursos de queja a que se refiere el párrafo anterior que sean presentados dentro de las cuarenta y ocho horas previas al fenecimiento del período vacacional serán sustanciados por el tribunal al que originalmente le correspondería su conocimiento.
 
 ###### Artículo 16.
 
@@ -3346,3 +3354,13 @@ D.O.F. 14 DE MARZO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 31 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LOS PERÍODOS VACACIONALES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
