@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-condiciones-generales-de-trabajo-para-el-16891"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-04-23"
-last_updated: "1999-04-23"
+last_updated: "2016-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO PARA EL GOBIERNO DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 23 de abril de 1999.
 
@@ -111,6 +111,12 @@ La jornada será continua para los Servidores Públicos de Base, excepto cuando 
 ###### ARTICULO 13.
 
 Los días laborales serán de lunes a viernes, los sábados y domingos serán de descanso obligatorio, sin que esto impida que la Entidad Pública en la que presta sus servicios pueda asignarle una jornada y descanso diferentes a los señalados, de acuerdo a las necesidades especificas de su área de trabajo.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+ARTICULO 13 BIS.
+
+Las madres trabajadoras, o (sic) falta de éstas, los padres, abuelos o abuelas que tenga (sic) bajo su guardia y custodia a sus hijos, hijas, nietos o nietas en los días que el Calendario Escolar contemple sesión del Consejo Técnico Escolar, no asistirán a laborar, sin que esto afecte sus derechos laborales, siempre y cuando acrediten, ante la autoridad correspondiente y en los términos que ésta decida, tener cuando menos un hijo o hija cursando la educación básica y en el caso de los padres deberán comprobar además, que el hijo, hija, nieto o nieta están bajo su custodia.
 
 ###### ARTICULO 14.
 
@@ -269,6 +275,14 @@ Las causas de fuerza mayor que darán derecho para la concesión de tres días c
 a) Por el fallecimiento de padres, hijos o cónyuges;
 
 b) Por enfermedad grave de padres, hijos, o cónyuge.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+ARTICULO 37 BIS.
+
+Las mujeres trabajadoras que tengan un parto prematuro disfrutarán de su derecho a las seis semanas posteriores al parto, así como de las previas al mismo que le hayan quedado pendientes por disfrutar a causa de esta circunstancia, previa presentación del certificado médico correspondiente, de conformidad con lo establecido en el artículo 32 del Estatuto Jurídico para los Trabajadores al Servicio del Estado.
+
+Asimismo se otorgará una licencia por paternidad de seis semanas con goce de sueldo al cónyuge o concubino varón, contadas a partir del nacimiento o adopción de un hijo o hija, previa presentación del certificado médico correspondiente. La cohabitación de la pareja será requisito esencial para obtener esta licencia.
 
 ###### ARTICULO 38.
 
@@ -489,3 +503,11 @@ REPRESENTANTE DEL SUTSGE ANTE EL H. TRIBUNAL DE CONCILIACION Y ARBITRAJE
 C. JUAN SARMIENTO VALTIER
 
 SECRETARIO DE CONFLICTOS DE LA SECCION I DEL SUTSGE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE MODIFICA EL REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO PARA EL GOBIERNO DEL ESTADO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
