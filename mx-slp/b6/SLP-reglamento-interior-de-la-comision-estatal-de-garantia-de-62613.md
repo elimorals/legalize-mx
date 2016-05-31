@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-comision-estatal-de-garantia-de-62613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-17"
-last_updated: "2013-02-09"
+last_updated: "2016-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE GARANTIA DE ACCESO A LA INFORMACION PUBLICA DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA DE ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. LAS REFORMAS APROBADAS EN EL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA Y ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, Y SI BIEN, DIVERSOS ARTICULOS QUEDARON INTACTOS, SE DEJA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. 31 DE MAYO DE 2016.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA DE ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2016.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de julio de 2008.
 
@@ -123,39 +127,45 @@ La Comisión podrá organizar y participar en toda actividad que tenga como prop
 
 ARTICULO 5 quater. Los Comisionados y el personal de la Comisión se sujetarán a los principios de legalidad, imparcialidad, objetividad, honestidad, independencia, autonomía, equidad y certeza en el desempeño de sus actuaciones. Estos principios incluyen la obligación de la confidencialidad de la información que por razones de su encargo conozcan y manejen, y que estén relacionadas con la tramitación de los recursos interpuestos ante la Comisión, observando puntualmente las disposiciones internas que para este efecto expida la propia Comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
-###### ARTÍCULO 6°.
+###### ARTICULO 6°.
 
-Para el ejercicio de sus atribuciones el despacho de los asuntos de su competencia, la Comisión contará con los órganos y unidades administrativas que a continuación se señalan:
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Comisión contará con la siguiente estructura:
 
-I. Pleno
+I.- Pleno;
 
-II. Comisionados
+II.- Comisionados;
 
-III. Presidencia
+III.- Comisionado Presidente;
 
-a) Contraloría Interna
+IV.- Secretaria Ejecutiva;
 
-b) Unidad de Información
+V.- Dirección General del SEDA;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE FEBRERO DE 2013)</small>
+VI.- Direcciones de Área:
 
-IV. Dirección General del SEDA:
+a) Director de Archivos;
 
-a) Dirección de Archivos;
+b) Director de Datos Personales;
 
-b) Dirección de Datos Personales.
+c) Dirección de Capacitación;
 
-V. Secretaría Ejecutiva
+d) Dirección de Comunicación Social;
 
-a) Dirección Jurídica
+e) Dirección de Administración y Finanzas;
 
-b) Dirección de Capacitación y Vinculación Social
+f) Dirección de Vinculación Social;
 
-c) Dirección de Comunicación Social
+g) Dirección Jurídica;
 
-d) Dirección de Administración y Finanzas
+VII.- Unidad de Información; y
+
+VIII.- Las demás unidades y personal técnico y administrativo que autorice el Pleno de acuerdo con su presupuesto.
+
+La Comisión contará con una Contraloría, cuyo Titular será designado por el Pleno de la Comisión, quien ejercerá las facultades que le confieren los ordenamientos jurídicos aplicables en materia de fiscalización, control y vigilancia en la aplicación y ejercicio de los recursos públicos y en general, de los bienes que conformen el patrimonio y hacienda pública de la Comisión y de la evaluación del desempeño del personal de la misma conforme a los lineamientos que para tal efecto expida el Pleno.
+
+Las unidades administrativas señaladas en las fracciones IV a VIII y la Contraloría dependerán directamente del Pleno, quien en ejercicio de sus atribuciones podrá conferir al Comisionado Presidente o a algún otro, la supervisión y vigilancia de los asuntos que le competan a tales unidades.
 
 ### CAPITULO TERCERO. DEL PLENO
 
@@ -277,27 +287,45 @@ Se podrán celebrar cuantas sesiones fueran necesarias, debiendo reunirse por lo
 
 Las sesiones ordinarias o extraordinarias serán públicas, a menos que por la naturaleza de los asuntos a tratar se considerará a juicio del propio Pleno que deban ser privadas.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 13.
 
-Las convocatorias deberán ser elaboradas por el Secretario Ejecutivo por acuerdo del Presidente, debiendo notificarse a los integrantes de la misma con una anticipación de por lo menos cuarenta y ocho horas a la fijada para la sesión.
+Las convocatorias deberán ser elaboradas por el Secretario de (sic) Ejecutivo en acuerdo con el Presidente. De igual forma, podrán ser convocadas las sesiones en caso de que dos Comisionados así lo dispongan. Toda convocatoria deberá notificarse a los Comisionados con una anticipación de por lo menos cuarenta y ocho horas a la fijada para la sesión, para el caso de las sesiones ordinarias, y veinticuatro horas para las extraordinarias.
 
-En caso de que la urgencia de un asunto en particular no pudiera esperar el plazo a que se refiere el párrafo que antecede, el Pleno podrá sesionar legalmente sin previa convocatoria, debiendo asentar en el acta respectiva las causas que justifiquen la sesión y por ello la validez de los acuerdos adoptados.
+En caso de que la urgencia de un asunto en particular no pudiera esperar los plazos a que se refiere el párrafo que antecede, el Pleno podrá sesionar legalmente sin previa convocatoria, debiendo asentar en el acta respectiva las causas que justifiquen la sesión y por ello la validez de los acuerdos adoptados.
 
 Será válida la sesión en la que a pesar de no existir previa convocatoria, se encuentren presentes la totalidad de sus integrantes.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 14.
 
 La convocatoria deberá contener por lo menos:
 
-l. La fecha, hora y lugar en donde deberá celebrarse la sesión; y
+I.- La fecha, hora y lugar en donde deberá celebrarse la sesión;
 
-II. El orden del día.
+II.- El tipo de sesión a celebrarse, y
+
+II (sic).- El orden del día.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 15.
 
-En primera convocatoria, se considerará que existe quórum suficiente con la asistencia de, por lo menos, dos Comisionados, de entre los cuales deberá estar el Presidente, sus decisiones se tomarán de conformidad con lo establecido en el artículo 11 de este Reglamento.
+En la elaboración del orden del día se establecerá preferentemente que los asuntos administrativos sean tratados en primer lugar y los relativos a los recursos, medios de impugnación o de defensa correspondan en segundo término.
 
-En caso de no existir el quórum suficiente, deberá elaborase una segunda convocatoria atendiendo los plazos y requisitos a que se refieren el artículo décimo de éste reglamento.
+Como mínimo con cinco días hábiles de anticipación a la fecha en que haya de celebrarse una sesión ordinaria, el Secretario Ejecutivo solicitará de los Comisionados le presenten solicitudes relativas a aquellos asuntos que deseen se inscriban dentro del orden del día de la sesión, quienes previo al plazo de tres días de la sesión informarán al Secretario Ejecutivo lo conducente.
+
+Asimismo, el Secretario Ejecutivo podrá agendar asuntos de los que tenga conocimiento, que competa conocer al Pleno para su resolución correspondiente, debiendo circularlos previamente a los integrantes del mismo para su análisis y discusión en la sesión correspondiente.
+
+Una vez concluido el plazo que señala el párrafo anterior, el Secretario Ejecutivo conformará con aquellas solicitudes recibidas de conformidad con lo establecido en este Reglamento, un proyecto de orden del día.
+
+El día y la hora en que deba celebrarse una sesión de Pleno, los miembros de éste deberán presentarse puntualmente en el lugar en que hayan sido citados y se iniciarán los trabajos de esa sesión con una tolerancia de 20 minutos como máximo de la hora señalada.
+
+En primera convocatoria, se considerará que existe quórum suficiente con la asistencia de por lo menos dos Comisionados, sus decisiones se tomarán por mayoría de votos.
+
+En caso de no existir el quórum suficiente, deberá elaborarse una segunda convocatoria atendiendo los plazos y requisitos a que se refiere este reglamento, sesión que deberá celebrarse en un término no mayor de 48 horas siguientes al de la convocada en primer orden.
 
 ###### ARTICULO 16.
 
@@ -379,6 +407,8 @@ XIV. Solicitar licencia al Pleno para separarse temporalmente de su cargo, por c
 
 XV. Las demás que le señalen la Ley, este reglamento y otras disposiciones legales y administrativas que resulten aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO], P.O. 31 DE MAYO DE 2016)</small>
+
 ### CAPITULO QUINTO. DE LA PRESIDENCIA
 
 #### Sección Primera. Del Presidente
@@ -431,85 +461,119 @@ XVII. Requerir al Secretario Ejecutivo un informe mensual de sus actividades, y
 
 XVIII. Las demás que señalen la Ley, este Reglamento u otras disposiciones aplicables.
 
-### CAPÍTULO SEXTO. DEL SISTEMA ESTATAL DE DOCUMENTACIÓN Y ARCHIVOS
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
 
-#### Sección Segunda. De las Unidades Administrativas
+### CAPITULO QUINTO BIS. De las Unidades Administrativas de la Comisión
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
+
+#### Sección Primera. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 25.
 
-Los titulares de las unidades administrativas de la Comisión tendrán a su cargo la conducción técnica y administrativa de las mismas, siendo responsables ante el Presidente, a través del Secretario Ejecutivo, los que contarán con las siguientes atribuciones generales:
+Atribuciones. Los titulares de las Unidades Administrativas de la Comisión tendrán a su cargo la conducción técnica y administrativa de las mismas y contarán con las siguientes atribuciones generales:
 
-I. Ejecutar los planes, actividades y programas previamente autorizados por el pleno;
+I.- Ejecutar los planes, actividades y programas previamente autorizados por el Pleno;
 
-II. Acordar con su superior inmediato la atención y resolución de los asuntos de su competencia;
+II.- Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas, proyectos y acciones encomendados a su cargo, e informar sobre los avances correspondientes;
 
-III. Coordinarse con los titulares del resto de las unidades administrativas de la Comisión para el mejor despacho de los asuntos de su competencia;
+III.- Informar y acordar con los Comisionados la tramitación y resolución de los asuntos relevantes cuya tramitación se encuentre dentro del área de su competencia;
 
-IV. Proponer al Pleno o al Presidente, según corresponda, la delegación de funciones a ellos conferidas, a servidores públicos subalternos;
+IV.- Proponer al Pleno la delegación de funciones a ellos conferidas, a servidores públicos subalternos;
 
-V. Suscribir los documentos relativos al ejercicio de sus facultades, así como los concernientes a los asuntos que le sean delegados o que les correspondan por suplencia;
+V.- Intervenir en los procedimientos que les correspondan relativos a la gestión y administración de los recursos de la Comisión, así como en los procesos de contratación de personal, de prestación de servicios profesionales o proveeduría que fuesen necesarios;
 
-VI. Analizar el marco normativo que regula el ejercicio de sus atribuciones y proponer al Pleno, cuando resulte necesario, las reformas, adiciones o derogaciones que se estimen conducentes;
+VI.- Suscribir los documentos relativos al ejercicio de sus facultades, así como los concernientes a los asuntos que le sean delegados o que les correspondan por suplencia;
 
-VII. Formular los proyectos de manuales de organización y de procedimientos, en el área a su cargo, siguiendo los lineamientos que al efecto establezca el Pleno;
+VII.- Analizar el marco normativo que regula el ejercicio de sus atribuciones y proponer al Pleno, cuando resulte necesario, las reformas, adiciones o derogaciones que se estimen conducentes;
 
-VIII. Asesorar técnicamente en asuntos de su competencia a los servidores públicos de la Comisión;
+VIII.- Formular los proyectos de manuales de organización y de procedimientos, en el área a su cargo, siguiendo los lineamientos que al efecto establezca el Pleno;
 
-IX. Recibir y atender al público en los asuntos de su competencia y
+IX.- Asesorar y emitir opiniones en asuntos de su competencia;
 
-X. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de organización y operación vigentes del Organismo.
+X.- Coordinarse con los titulares o con los servidores públicos de otras Unidades Administrativas, cuando así se requiera para el mejor funcionamiento de la Comisión;
+
+XI.- Formular el anteproyecto de presupuesto por programas relativos al área a su cargo, conforme a las normas que emita el Pleno;
+
+XII.- Atender y contestar dentro de su ámbito de competencia, las solicitudes de acceso a la información a través de la Unidad de Información y, cuando le sea requerido, participar en las sesiones del Comité de Información;
+
+XIII.- Asistir en representación de la Comisión a toda clase de eventos en temas relacionados con el área de su competencia;
+
+XIV.- Representar a la Comisión en los asuntos que el Pleno determine con la delegación de la instancia competente;
+
+XV.- En el ámbito de sus atribuciones, ejecutar los acuerdos que dicte el Pleno, por sí o a través del Comisionado Presidente;
+
+XVI.- Participar en las sesiones y coadyuvar en la toma de decisiones de los comités y comisiones de la Comisión;
+
+XVII.- Notificar los acuerdos y otros actos que se emitan en el ámbito de su competencia;
+
+XVIII.- Ser responsable frente al Pleno del ejercicio de sus atribuciones;
+
+XIX.- Elaborar, los planes y programas para la realización de estudios e investigaciones sobre el derecho de acceso a la información y de protección de datos personales, para la debida aplicación de las leyes y demás disposiciones legales y administrativas aplicables;
+
+XX.- Remitir la información y documentación que al efecto le solicite (sic) los Comisionados;
+
+XXI.- Elaborar en el ámbito de sus funciones, el informe anual de las actividades que por Ley o el presente reglamento le correspondan, y una vez aprobado por el Pleno, incluirse en el informe anual que debe rendir la Comisión en los términos del artículo 84 de la Ley, y
+
+XXII.- Las demás que les confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Pleno de la Comisión.
 
 ###### ARTICULO 26.
 
 En el ejercicio de las facultades que les competen, los titulares de las unidades administrativas de la Comisión, serán auxiliados por el personal que las necesidades del servicio requiera y se prevean en el presupuesto, los que deberán sujetar su actuación en lo señalado en la legislación de la materia, el presente Reglamento, los lineamientos, manuales de organización y procedimientos que apruebe el Pleno.
 
-#### Sección Tercera. De las Unidades Administrativas Adscritas a la Presidencia
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
 
-###### ARTÍCULO 27.
+#### Sección Segunda. De la Contraloría Interna
 
-Las unidades administrativas que a continuación se indican, se encuentran adscritas a la Presidencia de la Comisión:
+###### ARTICULO 27.
 
-I. Contraloría Interna, y
+(DEROGADO, P.O. 31 DE MAYO DE 2016)
 
-II. Unidad de Información.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 28.
 
 Son atribuciones del Contralor Interno:
 
-I. Proponer al Pleno, por conducto del Presidente, la política aplicable en materia de auditoría a las diversas unidades administrativas de la Comisión, la que se elaborará en coordinación con la Auditoría Superior del Estado;
+Son atribuciones del Contralor Interno:
 
-II. Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones legales que regulan el funcionamiento de la Comisión;
+I.- Establecer las normas, procedimientos, métodos y sistemas que permitan la práctica idónea de las auditorías y revisiones que se realicen;
 
-III. Elaborar el programa de auditoría para las unidades administrativas de la Comisión;
+II.- Emitir los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las Unidades Administrativas de la Comisión;
 
-IV. Dar seguimiento a las observaciones y recomendaciones resultantes de las auditorías practicadas por la propia Contraloría Interna y por la Auditoría Superior del Estado;
+III.- Verificar que las diversas Unidades Administrativas de la Comisión que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a las disposiciones legales y jurídicas aplicables;
 
-V. Establecer y operar el sistema para revisar, controlar y evaluar en forma permanente los programas de trabajo de las unidades administrativas de la Comisión, determinar las desviaciones de los mismos y las causas que las originaron, y proponer las medidas correctivas que resulten aplicables;
+IV.- Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se apliquen eficientemente, al logro de los objetivos y metas de los programas aprobados;
 
-VI. Con la aprobación del Pleno, establecer programas y procedimientos de autoevaluación de las acciones de las unidades administrativas de la Comisión;
+V.- Emitir los lineamientos que permitan instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos de la Comisión y llevar el registro de los servidores públicos sancionados;
 
-VII. Revisar los objetivos, políticas y procedimientos de trabajo de las unidades administrativas de la Comisión, así como proponer, en su caso, las adecuaciones necesarias;
+VI.- Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
 
-VIII. Vigilar la integración de los diversos comités cuya constitución determine el Pleno, asistiendo con voz a las reuniones correspondientes.
+VII.- Recibir denuncias o quejas que se realicen por la conducta irregular de los servidores públicos de la Comisión, substanciar y desahogar los procedimientos administrativos a que haya lugar;
 
-IX. Requerir a las unidades administrativas de la Comisión la información y documentación que resulten necesarias para el ejercicio de sus atribuciones;
+VIII.- Efectuar visitas a las Unidades Administrativas de la Comisión y en su caso, requerir la documentación que estime indispensable para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
 
-X. Levantar las actas administrativas y los pliegos de responsabilidades que procedan en los términos de las leyes de la materia, informando de ello al Presidente;
+IX.- Determinar los daños y perjuicios que afecten a la Comisión en su patrimonio, fincar directamente a los responsables los procedimientos correspondientes y, en su caso, formular las denuncias penales a que haya lugar;
 
-XI. Recibir y atender las quejas y denuncias que presenten los particulares respecto de la actuación de los servidores públicos de la Comisión;
+X.- Fincar las responsabilidades e imponer las sanciones en términos de las disposiciones administrativas y legales inherentes a la materia;
 
-XII. Investigar y determinar, siguiendo las disposiciones legales y administrativas aplicables, las responsabilidades en que incurran los servidores públicos de la Comisión, en el ejercicio de sus funciones;
+XI.- Rendir un informe Semestral al Pleno de la Comisión, con sus programas anuales de trabajo, así como los resultados de su gestión;
 
-XIII. Elaborar y proponer al Pleno, a través del Presidente, las resoluciones que en términos de la legislación aplicable procedan en caso de responsabilidad de los servidores públicos de la Comisión;
+XII.- Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos de la Comisión;
 
-XIV. Tramitar los recursos administrativos que se presenten contra las resoluciones a que se refiere la fracción anterior, elaborando el proyecto de resolución correspondiente, conforme las disposiciones de la legislación de responsabilidades del Estado, que se presentará a la consideración del Pleno a través del Presidente;
+XIII.- Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
 
-XV. Informar al Presidente de la Comisión, de hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos contra los intereses de la Comisión o delitos de los servidores públicos de la misma, en el desempeño de sus funciones;
+XIV.- Asistir con voz pero sin voto a las sesiones ordinarias y extraordinarias cuando se lo instruya por (sic) el Pleno de la Comisión;
 
-XVI. Remitir a la Secretaria Ejecutiva los actos y resoluciones aprobadas por el Pleno, para su notificación a sus destinatarios;
+XV.- Elaborar y ejecutar, con la aprobación del Pleno, el sistema de evaluación del desempeño y mejora continúa del personal de la Comisión;
 
-XVII. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Presidente.
+XVI.- Elaborar y diseñar, con la aprobación del Pleno, los indicadores de gestión que usarán las Unidades Administrativas;
+
+XVII.- Acordar con el Pleno el diseño y operación de estrategias de flujo y sistematización de información para el seguimiento de la gestión de los asuntos materia de la Secretaría Ejecutiva, y
+
+XVIII.- Las demás que las disposiciones jurídicas le confieran o las que determine el Pleno.
 
 ###### ARTICULO 29.
 
@@ -539,9 +603,9 @@ XI. Remitir al Pleno, a través del Presidente, así como a la Dirección Juríd
 
 XII. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Presidente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
 
-#### Sección Primera. Del Director General
+#### Sección Tercera. DEL SEDA
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -551,9 +615,9 @@ El SEDA es el órgano dependiente de la CEGAIP, responsable de aplicar las regul
 
 Además, el SEDA vigilará el cumplimiento de la Ley de Archivos del Estado, y funcionará como instancia de coordinación, regulación y supervisión de las Unidades de Información pública integradas en cada entidad pública en materia de archivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2016)</small>
 
-#### Sección Segunda. De las Unidades Administrativas Adscritas al SEDA
+#### Sección Cuarta. Del Director General del SEDA
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -643,9 +707,11 @@ XXI. Certificar los plazos derivados del desahogo de los procedimientos substanc
 
 XXII. Las demás que le establezcan la Ley de Transparencia y Acceso a la Información Pública, la Ley de Archivos del Estado, el presente Reglamento y las que le sean encomendadas por el Pleno.
 
-#### Sección Primera. Del Secretario Ejecutivo
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 15 DE AGOSTO DE 2009)</small>
+#### Sección Quinta. De las Unidades Administrativas Adscritas al Seda
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 32.
 
@@ -743,37 +809,37 @@ XI. Informar al Director General del SEDA de hechos de que tenga conocimiento co
 
 XII. Las demás que le establezcan la Ley, el presente Reglamento y las que le sean encomendadas por el Pleno y/o el Director General del SEDA.
 
-#### Sección Segunda. De las Unidades Administrativas Adscritas a la Secretaría Ejecutiva
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2016)</small>
+
+#### Sección Sexta. De la Secretaría Ejecutiva
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría de Actas es el área técnica jurídica de apoyo en el despacho de los asuntos a cargo de la Comisión y de los acuerdos del Pleno; dependerá administrativamente del Comisionado Presidente y se integrará por un titular y el personal autorizado en el presupuesto.
+La Secretaría Ejecutiva es el área técnica jurídica de apoyo en el despacho de los asuntos a cargo de la Comisión y de los acuerdos del Pleno.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE AGOSTO DE 2009)</small>
-
-El Titular de la Secretaría de Actas tiene facultad de certificar y dar fe de los documentos y actos derivados del ejercicio de las funciones de la Comisión dentro y fuera de ésta.
-
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2009)</small>
+El Titular de la Secretaría de (sic) Ejecutiva tiene facultad de certificar y dar fe de los documentos y actos derivados del ejercicio de las funciones de la Comisión dentro y fuera de ésta. En ausencia del titular de la Secretaría, corresponde al Director Jurídico dicha facultad.
 
 Además son atribuciones del Secretario Ejecutivo:
 
-I. Coordinar las acciones que, en el ejercicio de sus atribuciones, realicen las unidades administrativas de área que le son adscritas, en función de los acuerdos que tome con el Presidente;
+I. Coordinar las acciones de los acuerdos que tome con el Pleno;
 
-II. Acordar con el Presidente los asuntos materia de su competencia;
+II. Acordar con el Pleno de la Comisión los asuntos materia de su competencia;
 
 III. Apoyar al Pleno y a los Comisionados en el ejercicio de sus atribuciones;
 
-IV. Administrar la agenda institucional;
+IV. (DEROGADA, P.O. 31 DE MAYO DE 2016)
 
-V. Acordar con el Presidente el diseño y operación de estrategias de flujo y sistematización de información para el seguimiento de la gestión de los asuntos materia de la Secretaría Ejecutiva y de las unidades administrativas de su adscripción;
+V. Acordar con el Pleno el diseño y operación de estrategias de flujo y sistematización de información para el seguimiento de la gestión de los asuntos materia de la Secretaría Ejecutiva y de las unidades administrativas de su adscripción;
 
 VI. Elaborar la propuesta de un sistema interno de rendición de cuentas claras, transparentes y oportunas de la Comisión;
 
 VII. Atender y dar seguimiento a los documentos, estudios, proyectos, informes y asuntos que el Presidente y los Comisionados deban conocer, en el ámbito de sus respectivas competencias;
 
-VIII. Proponer al Presidente la emisión de criterios o circulares para el adecuado desarrollo de las funciones y atribuciones de la Comisión;
+VIII. Proponer al Pleno la emisión de criterios o circulares para el adecuado desarrollo de las funciones y atribuciones de la Comisión;
 
-IX. Auxiliar al Presidente en la supervisión de los trabajos de las unidades administrativas de la Comisión, en su respectivo ámbito de competencia;
+IX. (DEROGADA, P.O. 31 DE MAYO DE 2016);
 
 X. Participar en las mesas de trabajo y reuniones de coordinación para definir o evaluar las acciones;
 
@@ -781,19 +847,17 @@ XI. Dar seguimiento estratégico y ejecutivo al cumplimiento del Programa Operat
 
 XII. Coordinar los trabajos para la integración de los informes de las unidades administrativas de la Comisión, en el ámbito de su competencia;
 
-XIII. Elaborar el informe anual de actividades de la Comisión, para su presentación al Pleno a través del Presidente;
+XIII. Elaborar el informe anual de actividades de la Comisión, para su presentación y aprobación ante el Pleno a través del Presidente;
 
 XIV. Coordinar las actividades que se realicen de forma conjunta entre la Comisión y otras instituciones, a efecto de alcanzar los objetivos establecidos por las partes involucradas;
 
-XV. Proponer al Pleno, a través del Presidente, las políticas generales en materia de transparencia y acceso a la información pública que habrá de seguir ante los entes obligados;
+XV. Proponer al Pleno las políticas generales en materia de transparencia y acceso a la información pública que habrá de seguir ante los entes obligados;
 
 XVI. Tener bajo su adscripción la oficialía de partes de la Comisión, y recibir, turnar y despachar la correspondencia;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
-
 XVII. Vigilar que se lleven a cabo las notificaciones de las resoluciones y acuerdos que emita la Comisión, de forma tal, que los funcionarios designados y autorizados para realizar dichas notificaciones dispongan de plena fe pública;
 
-XVIII. Elaborar los proyectos de reformas y derogaciones al presente ordenamiento reglamentario;
+XVIII. (DEROGADA, P.O. 31 DE MAYO DE 2016);
 
 XIX. Citar a los Comisionados a las sesiones ordinarias y extraordinarias, remitiéndoles, conjuntamente con el orden del día, la documentación relativa a los asuntos que deberán tratarse;
 
@@ -801,17 +865,17 @@ XX. Elaborar las actas de las sesiones ordinarias y extraordinarias del Pleno, o
 
 XXI. Dar lectura al acta correspondiente a la sesión inmediata anterior, a fin de que se apruebe su contenido, la que deberá firmar conjuntamente con los Comisionados e incorporar en el Libro de Actas;
 
-XXII. Estructurar el orden del día con los asuntos propuestos por los comisionados;
+XXII. Estructurar el orden del día con los asuntos propuestos por los Comisionados;
 
-XXIII. Dentro de las veinticuatro horas siguientes a su recepción, dar cuenta al Presidente con los asuntos propuestos por las diversas unidades administrativas de la Comisión para su discusión y, en su caso, aprobación por el Pleno, a efecto de acordar su inserción en el orden del día que corresponda;
+XXIII. Dentro de las veinticuatro horas siguientes a su recepción, dar cuenta al Pleno con los asuntos propuestos por las diversas unidades administrativas de la Comisión para su discusión y, en su caso, aprobación por el mismo, a efecto de acordar su inserción en el orden del día que corresponda;
 
 XXIV. Llevar el seguimiento de los acuerdos y resoluciones dictadas por el Pleno;
 
 XXV. Apoyar, durante las sesiones, al Presidente en las solicitudes de uso de la palabra de los Comisionados;
 
-XXVI. Recibir y tramitar las quejas que en materia de acceso a la información pública y en el ejercicio de protección de datos personales, presenten los particulares;
+XXVI. Por conducto de la Unidad de Información Pública recibir y tramitar las quejas que en materia de acceso a la información pública y en el ejercicio de protección de datos personales, presenten los particulares;
 
-XXVII. Recibir y tramitar los recursos de revisión que contra las resoluciones del Pleno que impongan sanciones pecuniarias presenten los sujetos obligados;
+XXVII. Recibir y tramitar los recursos de revisión que contra las resoluciones del Pleno que impongan sanciones pecuniarias (sic) presenten los sujetos obligados;
 
 XXVIII. Recibir y tramitar las reconsideraciones que presenten los particulares;
 
@@ -819,33 +883,23 @@ XXIX. Prevenir a los quejosos y recurrentes de los errores u omisiones de forma 
 
 XXX. Requerir de los entes obligados los informes y documentos necesarios para el ejercicio de sus atribuciones legales y para la resolución de los procedimientos sancionadores, quejas, recursos de revisión y reconsideraciones que se interpongan ante la Comisión;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
-
 XXXI. Desahogar las actuaciones y diligencias necesarias para su prosecución de los recursos que se tramitan en la Comisión;
-
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
 XXXII. Realizar proyectos para determinar la debida clasificación, desclasificación o procedencia de acceso a la información y, en su caso, la ampliación del período de reserva de la información reservada y confidencial;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
-
 XXXIII. Elaborar, en coordinación con las Direcciones de la Comisión, los planes y programas para la realización de estudios e investigaciones sobre el derecho de acceso a la información y de protección de datos personales, para la debida aplicación de las leyes y demás disposiciones legales y administrativas aplicables;
-
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
 XXXIV. Representar a la Comisión en los asuntos que el Pleno determine;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2009)</small>
-
 XXXV. Proponer los mecanismos para proteger y garantizar la protección de los datos de carácter personal que obren registrados en cualquier soporte físico que permita su tratamiento en la propia Comisión, así como restringir el acceso a la información reservada y confidencial de la misma Comisión, en coordinación con las demás Direcciones y Áreas;
-
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
 XXXVI. Certificar los documentos que obren en los expedientes y archivos de la Comisión, y
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+XXXVII. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Pleno.
 
-XXXVII. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas tanto por el Pleno como por el Presidente.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2016)</small>
+
+#### Sección Séptima. De las Demás Unidades Administrativas
 
 ###### ARTICULO 35.
 
@@ -901,27 +955,51 @@ XX. Extraer de los acuerdos y resoluciones dictadas por el Pleno, los criterios 
 
 XXI. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Pleno como por el Presidente, a través del Secretario Ejecutivo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### ARTICULO 36.
 
-Son atribuciones del Director de Capacitación y Vinculación Social:
+Son atribuciones del Director de Capacitación:
 
-l. Diseñar y proponer al Pleno, a través de la Secretaría Ejecutiva, las políticas para el fomento a la Cultura de la Transparencia en el Estado, atendiendo a las particularidades de cada sector de la población,
+I.- Diseñar y proponer al Pleno, las políticas para la capacitación el fomento a la Cultura y de la Educación de la Transparencia en el Estado, atendiendo a las particularidades de cada sector de la población;
 
-II. Elaborar, ejecutar y evaluar los programas y proyectos de capacitación e investigación en materia de transparencia, acceso a la información pública y temas relacionados, contenidos en el programa operativo anual aprobado por el Pleno;
+II.- Elaborar dentro del mes de enero del año que corresponda, para la aprobación del Pleno, la política general de capacitación anual, los programas y proyectos de capacitación e investigación en materia de transparencia, acceso a la información pública y temas relacionados, contenidos en el programa operativo anual aprobado por el Pleno;
 
-III. Proponer al Pleno, a través de la Secretaria Ejecutiva, los lineamientos bajo los cuales se regirá la Dirección de Capacitación y Vinculación;
+III.- Proponer al Pleno los lineamientos bajo los cuales se regirá la Dirección de Capacitación;
 
-IV. Supervisar la implementación de los lineamientos de la Dirección en sus diferentes áreas;
+IV.- Supervisar la implementación de los lineamientos de la Dirección;
 
-V. Promover en las instituciones educativas la inclusión de la temática de transparencia y la protección de los datos personales en los planes y programas educativos y extracurriculares, así como en los foros nacionales e internacionales correspondientes;
+V.- Llevar a cabo los programas de capacitación para los particulares, así como para los servidores públicos de la Comisión;
 
-VI. Llevar a cabo los programas de capacitación para los entes obligados y los particulares, así como para los servidores públicos de la Comisión;
+VI.- Contribuir al análisis relativo a los temas de información reservada y de protección de datos personales y capacitar a los entes obligados en estas materias;
 
-VII. Coadyuvar en la vinculación de la Comisión con todas aquellas instancias públicas, privadas y sociales con el propósito de promover la cultura de transparencia y acceso a la información pública;
+VII.- Informar mensualmente al Pleno, las capacitaciones concedidas a los particulares;
 
-VIII. Contribuir al análisis relativo a los temas de información reservada y de protección de datos personales y capacitar a los entes obligados en estas materias, y
+VIII.- En coordinación con la Dirección de Comunicación Social, elaborar encuestas, entrevistas u otros medios que se determinen convenientes por el Pleno, para medir el impacto de la capacitación otorgada a los sujetos obligados y particulares,
 
-IX. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Pleno y/o el Presidente, a través del Secretario Ejecutivo.
+IX.- Promover en las instituciones educativas la inclusión de la temática de transparencia y la protección de los datos personales en los planes y programas educativos y extracurriculares, así como en los foros nacionales e internacionales correspondientes; y
+
+X.- Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Pleno, las leyes y otras disposiciones administrativas.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 36 Bis.
+
+Son atribuciones del Director de Vinculación:
+
+I.- En acuerdo del Pleno, administrar la agenda institucional;
+
+II.- Proponer al Pleno los lineamientos bajo los cuales se regirá la Dirección de Vinculación;
+
+III.- Diseñar y proponer al Pleno, las políticas de vinculación de la Comisión con los sectores públicos y privados, para promover y fomentar la Cultura de la Transparencia en el Estado;
+
+IV.- Gestionar la obtención de donativos deducibles o no de impuestos y de recursos extraordinarios a favor de la Comisión;
+
+V.- En coordinación con la Dirección de Comunicación Social, promover las actividades y la imagen institucional de la Comisión;
+
+VI.- Procurar la celebración de acuerdos o convenios de colaboración para el fortalecimiento de la Comisión;
+
+VII.- Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Pleno, las leyes y otras disposiciones administrativas.
 
 ###### ARTICULO 37.
 
@@ -1019,9 +1097,9 @@ XXII. Supervisar, administrar y controlar el cumplimiento de las obligaciones co
 
 XXIII. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Pleno como por el Presidente, a través del Secretario Ejecutivo.
 
-### CAPITULO SEPTIMO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2016)</small>
 
-DE LA SECRETARIA EJECUTIVA.
+### CAPITULO SEXTO. DE LOS MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS
 
 ###### ARTICULO 39.
 
@@ -1053,7 +1131,9 @@ La aplicación de las disposiciones, criterios, y formatos, en su caso, contenid
 
 La falta de cumplimiento a lo dispuesto por los manuales, sin la previa y expresa autorización del Pleno, será causa de responsabilidad sancionable en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-### CAPITULO OCTAVO. DE LOS MANUALES DE ORGANIZACIÓN Y DE PROCEDIMIENTOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2016)</small>
+
+### CAPITULO SEPTIMO. DE LAS SUPLENCIAS
 
 ###### ARTICULO 43.
 
@@ -1121,17 +1201,113 @@ III. La de los Directores, por el funcionario del área inmediato inferior del a
 
 Los titulares de las unidades administrativas y, en general, los demás servidores públicos serán suplidos en sus ausencias por sus inmediatos inferiores que de ellos dependan, en el ámbito de sus respectivas competencias, salvo que se trate de personal sindicalizado.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2016)</small>
 
-### CAPITULO DECIMO. DISPOSICIONES FINALES
+### CAPITULO OCTAVO. DISPOSICIONES FINALES
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2009)</small>
-
-### CAPITULO NOVENO. DE LAS SUPLENCIAS
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### ARTICULO 46.
 
-Los casos no previstos en este Reglamento Interior serán resueltos por acuerdo del Pleno.
+Las relaciones laborales de todas las personas que laboren en la Comisión, se regirán en lo conducente por el Artículo 123, Apartado A, de la Constitución Federal, la Ley Federal del Trabajo, a lo señalado por el presente Reglamento, así como las disposiciones que para tal efecto determine el Pleno.
+
+Los servidores públicos que integran la Comisión, se sujetarán al régimen de responsabilidades previsto en la Constitución Política, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, las demás leyes y reglamentos que resulten aplicables de acuerdo a la naturaleza y objeto de la Comisión.
+
+En todos los contratos y convenios individuales de trabajo, deberá asentarse la fecha de aprobación por parte del Pleno para la celebración de los mismos; sin la cual dicha (sic) acuerdo será nula (sic) de pleno derecho.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 47.
+
+La Comisión elaborará los tabuladores desglosados de las remuneraciones que deban percibir sus servidores públicos, sujetándose a las bases previstas en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y 133 de la particular del Estado.
+
+Para tal efecto, el Pleno elaborará los tabuladores y los remitirá al Poder Ejecutivo anualmente en conjunto con su Presupuesto de Egresos para ser incluidos en la iniciativa de Ley de Presupuesto de Egresos del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 48.
+
+El personal que labore en la Comisión recibirá una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Las remuneraciones de los servidores públicos se sujetarán invariablemente al principio de igualdad salarial y laboral, y no podrán tener una remuneración igual o mayor que su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 49.
+
+El Pleno podrá otorgar y revocar las licencias al personal de la Comisión, hasta por seis meses sin goce de sueldo y por causa justificada, siempre que hayan laborado por más de doce meses continuos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 50.
+
+Las licencias no podrán otorgarse en periodos anteriores o posteriores inmediatos a los periodos vacacionales, y no podrán volver a solicitar licencia hasta pasado un año después del término de la última licencia.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 51.
+
+La Comisión tendrá dos periodos vacacionales que serán determinados por el Pleno, de los que disfrutaran irrenunciablemente los Comisionados y el personal que labore en la Comisión. No podrán concederse vacaciones fuera de dichos plazos, salvo autorización expresa del Pleno.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 52.
+
+Las demás disposiciones laborales aplicables al personal de la Comisión se regirán bajo las condiciones generales y reglamento interior de trabajo que determine el Pleno.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 53.
+
+Los titulares de las Unidades Administrativas serán responsables administrativa y funcionalmente ante el Pleno.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 54.
+
+Son causas de responsabilidad administrativa del personal de la Comisión, el incurrir en alguno de los supuestos establecidos en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de San Luis Potosí; la falta de observancia de este reglamento y de las demás disposiciones legales y ordenamientos administrativos que les resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTÍCULO 55.
+
+La Comisión contará con los siguientes Comités permanentes, que se integrarán y funcionarán conforme a los lineamientos que para tal efecto expida el Pleno.
+
+a) Comité de Adquisiciones, Obra Pública, Arrendamientos y Servicios relacionadas con las mismas;
+
+b) Comité de Información Pública;
+
+c) Comité de Documentación y Archivos;
+
+d) Comité de Protección de Datos Personales;
+
+e) Comité de Administración y Presupuestos;
+
+f) Comité Editorial y de Asuntos Jurídicos
+
+g) Comité de Capacitación, Cultura y Educación de la Transparencia;
+
+h) Comité de Planeación Estratégica, Evaluación del Desempeño y Mejora Continua;
+
+i) Comité de Enlace y Gestión Gubernamental;
+
+j) Comité de Gobierno Abierto y Vinculación Social;
+
+k) Comité Imagen y Agenda Institucional, y
+
+l) Comité de Tecnologías de la Información y de la Plataforma Nacional de Transparencia.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 56.
+
+El presente reglamento podrá ser modificado mediante acuerdo del Pleno. Cualquier Comisionado podrá solicitar la reforma al presente documento, a la que expondrá la justificación probada. El Pleno podrá desechar, aprobar o modificar el planteamiento del Comisionado.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### ARTICULO 57.
+
+El Pleno interpretará este Reglamento para efectos administrativos y resolverá los casos no previstos en el mismo.
 
 T R A N S I T O R I O S
 
@@ -1194,3 +1370,13 @@ P.O. 9 DE FEBRERO DE 2013.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO NÚMERO 44/2013 S.E., POR EL CUAL SE APRUEBAN DIVERSASS (SIC) REFORMAS AL REGLAMENTO INTERIOR".]
 
 ÚNICO.- La presente modificación a este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS, ADICIONES, DEROGACIONES Y MODIFICACIONES DE Y AL REGLAMENTO INTERIOR”.]
+
+Primero.- La presente reforma entrará en vigor al día siguiente al de su aprobación por el Pleno de la Comisión.
+
+Segundo.- Se ordena la publicación de esta reforma en los estrados de la Comisión, así como en el Periódico Oficial del Gobierno del Estado.
+
+Tercero.- Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente reglamento.
