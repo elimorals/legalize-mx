@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2015-12-15"
+last_updated: "2016-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR 180 DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE COAHUILA.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -421,13 +419,17 @@ II. Cuando el padre acuda a registrar a su hija o hijo sin la compañía de la m
 
 Si alguno de los padres no pudiera concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del o la oficial del Registro Civil, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 62.
 
-Si la niña o el niño es hija o hijo de un hombre casado y una mujer soltera, podrá asentarse el nombre del padre casado, si lo pidiere, así como el de la madre quien no podrá desconocer a su hija o hijo bajo ninguna circunstancia y observarán lo dispuesto en el artículo 23 de esta ley.
+Cuando la hija o hijo nazcan de un hombre casado y una persona soltera distinta a la cónyuge, podrán acudir de forma conjunta a reconocerle ante él o la Oficial del Registro Civil. La madre no podrá desconocer a su hija o hijo bajo ninguna circunstancia.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### Artículo 63.
 
-Cuando la hija o el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el o la oficial del Registro Civil asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido a la o al hijo y exista sentencia ejecutoria que así lo declare.
+Cuando la hija o hijo nazcan de una mujer casada con persona distinta al cónyuge, podrán acudir de forma conjunta a reconocerle ante él o la Oficial del Registro Civil, en los términos del artículo 353 de esta ley.
 
 ###### Artículo 64.
 
@@ -999,7 +1001,9 @@ III. El parentesco por afinidad en línea recta, sin limitación alguna.
 
 IV. El atentado contra la vida de alguno de los cónyuges para contraer matrimonio con el que quede libre, bien por efecto de ese atentado o por haberse disuelto el matrimonio por otra causa.
 
-V. La violencia o miedo.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
+
+V. La violencia física, sexual, económica, patrimonial y psicológica.
 
 VI. La embriaguez habitual, excepto cuando esta circunstancia sea conocida por el otro contrayente.
 
@@ -1031,9 +1035,11 @@ El matrimonio celebrado en el extranjero y que sea válido con arreglo a las ley
 
 De los efectos del matrimonio con relación a las personas de los cónyuges y sus hijas o hijos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 147.
 
-Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio, a respetarse, a guardarse fidelidad y a socorrerse mutuamente.
+Los cónyuges están obligados a cumplir con lo fines del matrimonio a partir de un plano de igualdad, del respeto a su dignidad, de la asistencia mutua, a procurarse una vida libre de violencia, dentro del respeto irrestricto de sus derechos humanos.
 
 ###### Artículo 148.
 
@@ -1373,21 +1379,25 @@ El parentesco por consanguinidad no dispensado anula el matrimonio; pero si desp
 
 La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 212.
 
-La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por el cónyuge víctima del atentado, por sus hijas o hijos o por el Ministerio Público, dentro del término de prescripción del delito, contado desde que se celebró el nuevo matrimonio. Si el cónyuge víctima del atentado fallece, la acción podrán deducirla o continuarla sus ascendientes o descendientes o el Ministerio Público dentro del plazo antes mencionado.
+La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por el cónyuge víctima del atentado, por sus hijas o hijos o por el Ministerio Público, dentro de un término igual al que se señala para la prescripción del delito, contado desde que se celebró el nuevo matrimonio. Si el cónyuge víctima del atentado fallece, o es víctima de feminicidio la acción deberá continuarla de oficio el Ministerio Público dentro del plazo antes mencionado.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### Artículo 213.
 
-La violencia y el miedo serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+La violencia física, psicológica, sexual, patrimonial y económica será causa de nulidad del matrimonio si concurren las circunstancias siguientes:
 
-I. Que la violencia productora del miedo importe peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes; o bien, que haya sido de tal grado determinante, que la víctima haya celebrado el matrimonio en contra de su voluntad.
+I. Que la violencia ejercida sobre la o el cónyuge la pongan en riesgo su vida, su integridad, su dignidad, su libertad, la salud o una parte considerable de los bienes; o bien, que haya sido de tal grado determinante, que la víctima haya celebrado el matrimonio en contra de su voluntad.
 
-II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a sus ascendientes, descendientes o a sus demás parientes colaterales dentro del segundo grado.
+II. Que la violencia haya sido en contra de la o el cónyuge o a sus ascendientes, descendientes o a sus demás parientes colaterales dentro del segundo grado.
 
-III. Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
+III. Que esta haya subsistido al tiempo de celebrarse el matrimonio.
 
-La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días contados desde la fecha en que cesó la violencia o intimidación. En caso contrario, el cónyuge agraviado podrá proceder penalmente.
+La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de un año contado desde la fecha en que cesó el último acto de la violencia o intimidación. En caso contrario, el cónyuge agraviado podrá proceder penalmente.
 
 ###### Artículo 214.
 
@@ -1531,11 +1541,13 @@ En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contr
 
 Las acciones y pretensiones derivadas del matrimonio relativas a la situación de hijas o hijos menores de edad, o mayores de edad que requieran de asistencia o representación para el ejercicio de su capacidad jurídica, al derecho de alimentos o al régimen patrimonial adoptado en el matrimonio, que sean consecuencia de la disolución del vínculo, se resolverán en el mismo procedimiento de divorcio.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 238.
 
-Si así se solicita, la autoridad judicial competente que decrete el divorcio resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos durante el matrimonio, se haya dedicado preponderantemente a las labores del hogar, al cuidado de las hijas o hijos o esté imposibilitado para trabajar y carezca de bienes que produzcan frutos, sin perjuicio de la acción compensatoria prevista en la disposición siguiente.
+La autoridad judicial competente que decrete el divorcio resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos durante el matrimonio, se haya dedicado preponderantemente a las labores del hogar, al cuidado de las hijas o hijos o esté imposibilitado para trabajar y carezca de bienes que produzcan frutos, sin perjuicio de la acción compensatoria prevista en la disposición siguiente.
 
-La autoridad judicial tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor del cónyuge que se haya divorciado se extingue cuando el acreedor contraiga nuevas nupcias, se le reconozca unido en concubinato, celebre pacto civil de solidaridad o haya transcurrido un término igual a la duración del matrimonio.
+La autoridad judicial tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor del cónyuge que se haya divorciado se extingue cuando haya transcurrido un término igual a la duración del matrimonio.
 
 ###### Artículo 239.
 
@@ -1543,15 +1555,21 @@ Cuando uno de los cónyuges en un matrimonio celebrado bajo el régimen de separ
 
 La autoridad judicial que conozca de la reclamación resolverá atendiendo a las circunstancias de cada caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 240.
 
-El cónyuge que estime haber sufrido daño moral o afectación en los derechos de la personalidad con motivo y por el tiempo que estuvo unido en matrimonio o concubinato, podrá ejercer la acción prevista en el artículo 1895 del Código Civil para el Estado de Coahuila de Zaragoza, en contra de quien fue su cónyuge.
+Las personas unidas en matrimonio o concubinato que estimen haber sufrido daño moral o afectación en los derechos de la personalidad con motivo y por el tiempo que estuvieron unidas, podrán ejercer la acción prevista en el artículo 1895 del Código Civil para el Estado de Coahuila de Zaragoza, en contra de quien fue su cónyuge o concubino.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
 
 Se presumirá el daño moral y, por tanto, habrá lugar a la indemnización, además de los casos previstos en el párrafo segundo del artículo de referencia, cuando un cónyuge o concubino:
 
 I. Cometa delito doloso que merezca pena corporal en perjuicio del otro cónyuge, concubino o de sus hijas o hijos menores de edad, o mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica.
 
-II. Ejerza violencia o intimidación en el seno del hogar común.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
+
+II. Ejerza violencia familiar de tipo física, psicológica, sexual económica o patrimonial.
 
 III. Oculte deliberadamente padecer, enfermedad crónica e incurable que sea, además, contagiosa y hereditaria.
 
@@ -1645,6 +1663,10 @@ Regirán al concubinato todos los derechos y obligaciones inherentes a la famili
 
 El concubinato genera entre los concubinos derechos alimentarios y sucesorios, independientemente de los demás derechos y obligaciones reconocidos en esta ley o en otras leyes.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+La autoridad judicial tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor del concubino después de la separación se extingue cuando haya transcurrido un término igual a la duración del concubinato.
+
 ###### Artículo 251.
 
 Al cesar el concubinato, el concubino que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado su convivencia. No podrá reclamar alimentos quien haya demostrado ingratitud, o viva en concubinato o contraiga matrimonio.
@@ -1701,7 +1723,9 @@ Corresponderá a la autoridad judicial competente dirimir las diferencias que su
 
 I. Sobre el establecimiento o modificación de hogar común.
 
-II. La obligación, monto y aseguramiento de alimentos.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
+
+II. La obligación, monto y aseguramiento de alimentos. Tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor del compañero civil después de la terminación se extingue cuando haya transcurrido un término igual a la duración del Pacto Civil de Solidaridad.
 
 III. La administración y disposición de los bienes de la sociedad solidaria, cuando existan y demás asuntos del orden patrimonial.
 
@@ -1789,7 +1813,9 @@ Se presumirá el daño moral y por tanto habrá lugar a la indemnización a favo
 
 I. Por haber cometido delito que merezca pena corporal en perjuicio del compañero civil.
 
-II. Se ejerza violencia o intimidación en el seno del hogar común.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
+
+II. Ejerza violencia familiar de tipo física, psicológica, sexual económica o patrimonial.
 
 III. Se ejerza violencia o intimidación hacia los ascendientes, descendientes, parientes colaterales dentro del cuarto grado.
 
@@ -1855,9 +1881,15 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 De los alimentos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 276.
 
-Para los efectos legales se entiende por alimentos: la alimentación nutritiva, el vestido, la habitación, la atención médica y psicológica preventiva integrada a la salud, la asistencia médica y terapéutica en casos de enfermedad, la recreación. Respecto de las niñas y niños los alimentos comprenden los gastos necesarios para la educación preescolar, primaria, secundaria y media superior del alimentista, su recreación y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales.
+Para los efectos legales se entiende por alimentos: la alimentación nutritiva, el vestido, la habitación, la atención médica y psicológica preventiva integrada a la salud, la asistencia médica y terapéutica en casos de enfermedad, los gastos relativos al embarazo y el parto, la recreación. Respecto de las niñas y niños los alimentos comprenden los gastos necesarios para la educación preescolar, primaria, secundaria y media superior del alimentista, su recreación y para proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
+
+Para personas con algún tipo de discapacidad o que requieran de asistencia o representación para el ejercicio de sus derechos se deberá proporcionar en la medida de lo posible su rehabilitación y los elementos para una vida digna.
+
+En el caso de las personas adultas mayores que carezcan de capacidad económica, la persona a la que le corresponda proporcionarle alimentos deberá además proveer atención geriátrica que redunde en una buena calidad de vida, debiéndose en la medida de lo posible integrarse a la familia.
 
 ###### Artículo 277.
 
@@ -1875,7 +1907,9 @@ La obligación de dar alimentos es imprescriptible. En los juicios de paternidad
 
 Los alimentos han de ser proporcionales a la posibilidad del que debe darlos y a las necesidades del que debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en el Estado, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
-Cuando no sean comprobables el salario o los ingresos del deudor alimentario, la autoridad judicial competente resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, la autoridad judicial competente resolverá con base en la capacidad económica del deudor y el nivel de vida que sus acreedores alimentarios hayan llevado en los dos últimos años.
 
 ###### Artículo 281.
 
@@ -1885,6 +1919,8 @@ Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad pa
 
 Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno solo la tuviere, él cumplirá únicamente la obligación.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 283.
 
 Los cónyuges y concubinos deben darse alimentos. Esta ley determina cuando queda subsistente esta obligación en los casos de divorcio y en los demás que ella señale.
@@ -1892,8 +1928,6 @@ Los cónyuges y concubinos deben darse alimentos. Esta ley determina cuando qued
 Los compañeros civiles deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de terminación del pacto civil de solidaridad y en los demás que ella señale.
 
 Los convivientes, deben darse alimentos. La ley determinará cuando queda subsistente la obligación en caso de terminación de la sociedad.
-
-Para todas estas parejas y a las que se refiere el artículo siguiente debe entenderse como alimentos además de lo dispuesto en el artículo 276 de esta ley, los gastos de embarazo y parto.
 
 ###### Artículo 284.
 
@@ -1905,9 +1939,13 @@ II. Que tengan una relación de convivencia estable aunque concurran, con respec
 
 III. Que se acredite que existe dependencia económica.
 
-Al cesar la relación a que se refiere este artículo y alguno de sus integrantes carece de ingresos o bienes que produzcan frutos suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado aquella relación. No podrá reclamar alimentos quien haya demostrado ingratitud.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
-La autoridad judicial tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor de la pareja necesitada se extingue cuando el acreedor contraiga nupcias, se le reconozca unido en concubinato, celebre pacto civil de solidaridad, o se encuentre unido a una pareja estable de la que dependa económicamente o haya transcurrido un término igual a la duración de la relación.
+Al cesar la relación a que se refiere este artículo y alguno de sus integrantes carece de ingresos o bienes que produzcan frutos suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado aquella relación.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
+La autoridad judicial tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor de la pareja necesitada se extingue cuando haya transcurrido un término igual a la duración de la relación.
 
 ###### Artículo 285.
 
@@ -2027,21 +2065,25 @@ Los gastos funerarios proporcionados a los familiares de la persona fallecida de
 
 En cuanto a los alimentos a que se refiere el artículo 302 de esta ley, si la persona que los presta lo hace periódicamente, la prescripción de la acción que de ellos dimane se realizará de manera escalonada, según lo establece esta ley para la prescripción de las prestaciones periódicas.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 305.
 
 Se suspende la obligación de dar alimentos:
 
-I. Cuando el o la que la tiene carece de medios para cumplirla.
+I. Cuando judicialmente se ha declarado que él o la que la tiene carece de medios para cumplirla.
 
-II. Cuando el o la alimentista deja de necesitar los alimentos.
+II. Cuando él o la alimentista mayor de dieciocho años deja de necesitar los alimentos en los casos del artículos 8 y 9 de esta Ley.
 
-III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del o la alimentista, mientras subsistan estas causas.
+III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del o la alimentista mayor de dieciocho años, mientras subsistan estas causas.
 
-IV. Si el o la alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificadas.
+IV. Si él o la alimentista, mayor de dieciocho años sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificadas.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
 
 ###### Artículo 306.
 
-Cesa la obligación de dar alimentos en caso de injuria, falta o daño grave inferidos por el o la alimentista contra el que debe prestarlos, o cuando aquél o aquélla llega a la mayoría de edad si no está en los casos de excepción.
+Cesa la obligación de dar alimentos a los mayores de dieciocho años, en caso de injuria, falta o daño grave inferidos por el o la alimentista contra el que debe prestarlos, si no está en los casos de excepción.
 
 ###### Artículo 307.
 
@@ -2149,9 +2191,15 @@ I. Los nacidos de la esposa durante el matrimonio.
 
 II. Los nacidos de la esposa dentro de los trescientos días siguientes a la disolución del matrimonio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 319.
 
-Contra las presunciones establecidas por el artículo 318 de esta ley, se puede ejercer la acción de desconocimiento de la paternidad, sí al marido se le ocultó el nacimiento, si es estéril, salvo el caso de fecundación asistida, si demuestra que le fue físicamente imposible o que no tuvo acceso carnal con su esposa en los primeros ciento veinte días de los trescientos que han precedido al nacimiento o si ésta mantuvo alguna relación con otra persona en la que se presuma que hubo contacto sexual.
+Contra las presunciones establecidas por el artículo 318 de esta ley, se puede ejercer la acción de desconocimiento de la paternidad, sí al marido se le ocultó el nacimiento, si es estéril, salvo el caso de fecundación asistida, si le fue físicamente imposible o que no tuvo relaciones sexuales con su esposa en los primeros ciento veinte días de los trescientos que han precedido al nacimiento o si considera que ésta mantuvo alguna relación con otra persona en la que se presuma que hubo contacto sexual.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+Esto se acreditará con toda clase de pruebas, considerándose como idóneas las científicas en el área médico-biológica que permitan establecer la filiación, debiéndose salvaguardar siempre la dignidad de las personas y respetando sus derechos humanos, así como observándose en todo momento el interés superior de las niñas y niños.
 
 ###### Artículo 320.
 
@@ -2189,9 +2237,11 @@ El marido que negare cualquiera de las presunciones establecidas por las fraccio
 
 Los dos artículos anteriores no son aplicables cuando las segundas nupcias se contrajeron habiendo acreditado fehacientemente con certificado médico ginecológico que no se encontraba embarazada.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 327.
 
-En todos los casos en que el varón tenga el derecho de contradecir que la o el nacido es hija o hijo de su matrimonio, deberá deducir su acción dentro de ciento ochenta días contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; desde el día en que descubrió el engaño, si se le ocultó el nacimiento o si su mujer mantuvo alguna relación con otra persona en la que se presuma que hubo contacto sexual.
+En todos los casos en que el hombre tenga el derecho de contradecir que la o el nacido es hija o hijo de su matrimonio, deberá deducir su acción dentro de ciento ochenta días contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; desde el día en que tuvo conocimiento del supuesto engaño, si se le ocultó el nacimiento o si considera que su cónyuge mantuvo alguna relación con otra persona en la que se presuma que hubo contacto sexual.
 
 ###### Artículo 328.
 
@@ -2277,17 +2327,25 @@ Respecto del padre, la filiación de las o los hijos a que se refiere el artícu
 
 Pueden reconocer a sus hijas o hijos, los que tengan la edad exigida para contraer matrimonio, más la edad de la hija o hijo que va a ser reconocido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 344.
 
-La niña o niño no puede reconocer a su hija o hijo sin la asistencia o representación del que o de los que desempeñen su patria potestad, o tutela, o, a falta de éstos, o por su negativa injustificada, sin la autorización judicial.
+La niña o niño no puede reconocer a su hija o hijo sin la asistencia o representación del que o de los que desempeñen su patria potestad, o tutela, o, a falta de éstos, o por su negativa injustificada, sin la autorización judicial o demás autoridades que sean competentes.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+En todo momento contarán con la asistencia social del Sistema para el Desarrollo Integral de la Familia y protección de Derechos y en su caso con la representación de la Procuraduría para Niños, Niñas y la Familia.
 
 ###### Artículo 345.
 
 Puede reconocerse a la hija o hijo que aún no ha nacido y al que ya murió, si dejó descendientes; pero en este último caso el que reconoce no tiene derecho a heredar por intestado al reconocido y a sus descendientes ni a recibir alimentos de éstos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 346.
 
-Los padres pueden reconocer, junta o separadamente, a su hija o hijo.
+El padre y la madre están obligados a reconocer junta o separadamente a sus hijos e hijas.
 
 ###### Artículo 347.
 
@@ -2331,13 +2389,15 @@ El o la oficial del Registro Civil, la autoridad judicial competente, en su caso
 
 El cónyuge podrá reconocer a la o al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a la guarda y custodia si en su domicilio conyugal no se garantiza la integridad física y mental de la hija o hijo, para lo cual deberá solicitarse la intervención de la autoridad judicial competente o de la Procuraduría para Niños, Niñas y la Familia, quienes deberán valorar las condiciones del entorno conyugal y familiar del padre o madre. La madre o el padre podrá tener la guarda y custodia provisional de la hija o hijo entretanto se resuelve en definitiva conforme a las disposiciones que resulten aplicables, salvo que exista un grave peligro.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 353.
 
-La hija o hijo de una mujer casada sólo podrá ser reconocido como hijo por otra persona distinta al cónyuge, en cualquiera de los dos casos siguientes:
+La hija o hijo de una mujer casada podrá ser reconocido por otra persona distinta al cónyuge, en cualquiera de los dos casos siguientes:
 
 I. Cuando haya sentencia ejecutoriada que declare que no es del cónyuge.
 
-II. Cuando la madre de la o el hijo reconocido por otra persona distinta del cónyuge, no viva con éste y acepte ella, como padre, a quien hizo el reconocimiento.
+II. Cuando la madre de la o el hijo reconocido por otra persona distinta del cónyuge, acepte como padre a quien hizo el reconocimiento.
 
 ###### Artículo 354.
 
@@ -2395,9 +2455,11 @@ IV. Cuando durante la gestación o el nacimiento de la hija o hijo, o después d
 
 V. Cuando la hija o hijo tenga a su favor cualquier otro principio de prueba contra el pretendido padre.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 363.
 
-La madre soltera tiene derecho a que el padre, reconozca a la hija o hijo en forma voluntaria o por sentencia ejecutoriada que declare la paternidad, estando legitimada para el ejercicio de dicha acción durante toda la minoría del hijo o hija.
+El padre tiene la obligación de reconocer la paternidad de los hijos o hijas aun cuando no esté unido civilmente a la madre. Este reconocimiento puede ser en forma voluntaria o por sentencia ejecutoriada que declare la paternidad, estando legitimada la madre para el ejercicio de dicha acción durante toda la minoría de edad del hijo o hija.
 
 ###### Artículo 364.
 
@@ -2868,6 +2930,10 @@ IV. Cuando por los hábitos de juego o de embriaguez, y el uso indebido y persis
 V. Cuando quien la desempeña padezca alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico, psiquiátrico o sensorial; siempre que debido a ella afecte su conducta y pueda comprometer la salud, la seguridad o el adecuado desarrollo integral de la niña o niño.
 
 VI. Cuando el Consejo de Familia determine luego de la evaluación, que no es viable restituir al ascendiente suspendido por causas que le sean imputables, los derechos que la patria potestad confiere, en los términos del artículo 441 de esta ley.
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2016)</small>
+
+VII. Cuando el que la ejerza cometa actos de violencia física, psicológica o sexual, en contra de la niña o niño.
 
 Acreditada la pérdida de la patria potestad respecto de una niña o niño, la autoridad judicial en la misma sentencia deberá tomar las medidas preventivas respecto de las demás niñas o niños, sobre los cuales se continúe desempeñando la misma.
 
@@ -4073,6 +4139,10 @@ El Ministerio Público y la Procuraduría para Niños, Niñas y la Familia será
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS CONSEJOS DE FAMILIA
 
+### CAPÍTULO PRIMERO. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
 ###### Artículo 641.
 
 El Consejo de Familia actuará como auxiliar de la administración de justicia en los términos y con las facultades que establece la presente ley.
@@ -4118,6 +4188,90 @@ VIII. Todas las demás funciones señaladas en esta ley u otras disposiciones ap
 ###### Artículo 645.
 
 Cuando un cónyuge abandone a otro y a sus hijas o hijos sin recursos económicos para satisfacer sus necesidades, el Consejo de Familia tendrá la personalidad jurídica de mandatario judicial del acreedor alimentario para los efectos legales que procedan.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2016)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. DE LA VIOLENCIA FAMILIAR
+
+> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2016)</small>
+
+### CAPÍTULO SEGUNDO. De Las Ordenes De Protección En Caso De Violencia Familiar
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### Artículo 646.
+
+Por Violencia Familiar se entiende:
+
+Todo acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las personas, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, pacto civil de solidaridad o mantengan o hayan mantenido una relación de hecho.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### Artículo 647.
+
+La violencia familiar se puede presentar mediante los siguientes tipos de violencias:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+
+III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+
+IV. La violencia económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas que integran la familia.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### Artículo 648.
+
+Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de respeto a su dignidad e integridad física, psicológica, económica y sexual y tienen la obligación de evitar conductas que generen violencia familiar.
+
+Se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, pacto civil de solidaridad o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado, así como de parentesco civil.
+
+No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia las niñas y niños.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### Artículo 649.
+
+También se considera violencia familiar las conductas llevadas a cabo contra la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el agresor y el ofendido convivan o hayan convivido en el ámbito familiar.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### Artículo 650.
+
+Los integrantes de la familia que incurran en violencia familiar, deberán reparar los daños y perjuicios que se ocasionen con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
+
+En todas las controversias derivadas de violencia familiar, el Juez dictará órdenes de protección que sean necesarias para salvaguardar la integridad de las personas afectadas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MAYO DE 2016)</small>
+
+###### Artículo 651.
+
+Las órdenes de protección: Son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por el (sic) la autoridad judicial competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia familiar de cualquier tipo.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2016)</small>
+
+###### Artículo 652.
+
+Las Ordenes de Protección en materia familiar además de las establecidas en la Ley de Acceso de la Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza, en el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza y demás ordenamientos aplicables pueden ser:
+
+I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias;
+
+V. Obligación alimentaria provisional e inmediata;
+
+VI. Y aquellas que se consideren necesarias para salvaguardar la dignidad e integridad de las personas con pleno respeto a los derechos humanos y ponderando el interés superior de la infancia.
+
+Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que se estén ventilando en los tribunales a su cargo.
 
 T R A N S I T O R I O S
 
@@ -4176,3 +4330,11 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 468.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
