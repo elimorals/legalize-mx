@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2016-02-22"
+last_updated: "2016-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -127,25 +127,39 @@ El Administrador será el responsable de la administración del Centro.
 
 Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción, hasta en tanto lo determine el Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DEL SIMILAR 36/2014, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELACIONADO CON LAS FUNCIONES DE LOS ADMINISTRADORES DE LOS MISMOS, D.O.F. 31 DE MAYO DE 2016)</small>
 
 ###### Artículo 8.
 
-Los jueces de Distrito que funjan como Administradores no podrán ejercer funciones jurisdiccionales, salvo que lo hagan en sustitución de otro juez de Distrito adscrito al respectivo Centro, en términos de lo dispuesto en los acuerdos generales mediante los cuales se creen los mismos, y en los siguientes casos:
+Los jueces de Distrito que funjan como Administradores podrán ejercer funciones jurisdiccionales y actuar en sustitución de otro juez de Distrito adscrito al respectivo Centro, en términos de lo dispuesto en los acuerdos generales mediante los cuales se creen los mismos, y en los siguientes casos:
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 I. Durante el período de vacaciones, en aquellos casos en que no existan más de dos jueces de Distrito en el Centro;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 II. Durante el período de vigencia de una licencia, siempre y cuando no sea mayor a quince días naturales.
 
 En caso de que el periodo sea mayor, el Administrador del Centro deberá comunicar dicha situación a la Secretaria Ejecutiva de Adscripción, para que lleve a cabo las gestiones necesarias ante la Comisión de Adscripción, para la sustitución del juez de Distrito respectivo;
 
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
+
 III. En aquellos casos en que las actuaciones a realizarse no admitan demora y el juez de Distrito que deba conocerlas esté atendiendo una audiencia diversa;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 IV. Cuando el juez de Distrito que deba conocer de un asunto esté impedido, y ninguno de los otros adscritos al Centro pueda hacerlo; y
 
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
+
 V. En todas aquellas situaciones en que sea necesaria la intervención del Juez de Distrito que funja como Administrador, para no afectar el funcionamiento del Centro.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
+
 En todo caso el juez de Distrito que funja como Administrador, cuando ejerza funciones jurisdiccionales en sustitución, deberá fundar y motivar su competencia, y especificar el carácter de su actuación en las constancias respectivas.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 Invariablemente, para poder llevar a cabo la sustitución, deberá observarse lo previsto en el artículo 350 del Código.
 
@@ -235,7 +249,9 @@ VI. Apoyar a los órganos jurisdiccionales en la operación, mantenimiento y sup
 
 VII. Proponer la designación de su personal en los términos previstos en este Acuerdo;
 
-VIII. Revisar los proyectos de autos elaborados por el personal del área especializada correspondiente, en apoyo de los órganos jurisdiccionales; a efecto de que dé cuenta con ellos a los titulares respectivos, para que éstos en ejercicio pleno de su autonomía jurisdiccional, determinen lo pertinente; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DEL SIMILAR 36/2014, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELACIONADO CON LAS FUNCIONES DE LOS ADMINISTRADORES DE LOS MISMOS, D.O.F. 31 DE MAYO DE 2016)</small>
+
+VIII. Determinar lo pertinente en relación con los proyectos de autos elaborados por el personal del área especializada correspondiente; y
 
 IX. Las demás que determinen el Pleno o las Comisiones permanentes.
 
@@ -718,3 +734,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 31 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DEL SIMILAR 36/2014, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELACIONADO CON LAS FUNCIONES DE LOS ADMINISTRADORES DE LOS MISMOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
