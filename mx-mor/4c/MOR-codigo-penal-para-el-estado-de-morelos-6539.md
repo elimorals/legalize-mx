@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-05-04"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1669,11 +1667,13 @@ Cuando las lesiones sean calificadas, se aumentará la pena hasta en dos tercera
 
 Al que infiera lesiones en riña se le impondrá hasta la mitad de las sanciones correspondientes, si se trata del provocador, y hasta la tercera parte, si se trata del provocado.
 
-###### ARTICULO 125.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
-Son perseguibles por querella las lesiones previstas en la fracción I del artículo 121, las consideradas en las fracciones II, III y IV del mismo precepto, si fueron inferidas en forma culposa, y las ocasionadas al ascendiente o descendiente, en ambas líneas, hermano, cónyuge, concubina, concubinario, adoptante o adoptado de quien inflige las lesiones, salvo cuando se trate de delito cometido con motivo del tránsito de vehículos y el conductor responsable se encuentre en los casos previstos por el segundo párrafo del artículo 128.
+###### ARTÍCULO 125.
 
-En todo caso se perseguirán de oficio las lesiones causadas en los términos del artículo 128.
+Son perseguibles por querella las lesiones previstas en la fracción I del artículo 121, las consideradas en las fracciones II, III y IV del mismo precepto, si fueron inferidas en forma culposa, y las ocasionadas al ascendiente o descendiente en ambas líneas, hermano, cónyuge, concubina o concubino de quien inflige las lesiones.
+
+En todo caso se perseguirán de oficio las lesiones causadas con motivo del tránsito de vehículos y el conductor responsable se encuentre en los casos previstos por el artículo 128.
 
 ### CAPITULO V. DISPOSICIONES COMUNES PARA EL HOMICIDIO Y LAS LESIONES
 
@@ -1717,9 +1717,9 @@ Cuando las lesiones se cometan culposamente con motivo del tránsito de vehícul
 
 Las mismas sanciones se impondrán si el agente actúa en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares, sin que exista prescripción médica, o no auxilie a la víctima del delito y se de a la fuga.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
-Cuando se cause homicidio, en las circunstancias previstas en el primer párrafo de este precepto, las sanciones serán de seis a veinte años de prisión y privación o inhabilitación en el ejercicio de aquellos derechos.
+Cuando se cause homicidio, en las circunstancias previstas en el presente artículo, las sanciones serán de seis a veinte años de prisión y privación o inhabilitación en el ejercicio de aquellos derechos.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -2995,9 +2995,15 @@ II. Utilice indebidamente un documento falso, o haga uso de uno verdadero, exped
 
 III. Inserte o haga insertar en un documento hechos falsos concernientes a circunstancias que el documento deba probar, o lo altere, suprima, oculte o destruya;
 
-IV. Aproveche la firma estampada en un documento en blanco, estableciendo o liberando de este modo una obligación, o la estampe en otro documento que pueda comprometer bienes jurídicos ajenos; o
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-V. Se atribuya, al extender un documento, o atribuya a un tercero un nombre, investidura, calidad o circunstancia que no tenga y que sea necesaria para la validez del acto. La misma sanción se aplicará al tercero, si se actúa en su representación o con su consentimiento.
+IV. Aproveche la firma estampada en un documento en blanco, estableciendo o liberando de este modo una obligación;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+V. Estampe una firma o rubrica falsa, aunque sea imaginaria, o en su caso alterando una verdadera, o
+
+VI. Se atribuya, al extender un documento, o atribuya a un tercero un nombre, investidura, calidad o circunstancia que no tenga y que sea necesaria para la validez del acto. La misma sanción se aplicará al tercero, si se actúa en su representación o con su consentimiento.
 
 ###### ARTICULO 215.
 
@@ -4591,7 +4597,7 @@ Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública d
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-PRIMERO.- Aprobado que sea el presente decreto y a efecto de dar cumplimiento a lo dispuesto en el Artículo 147, de la Constitución Política del Estado de Morelos, remítase a los Ayuntamientos del Estado, con la finalidad de que se pronuncien respecto a la adición de un Artículo 85-D, de la propia Constitución, junto con el dictamen y los debates que se hayan generado.
+PRIMERO.-Aprobado que sea el presente decreto y a efecto de dar cumplimiento a lo dispuesto en el Artículo 147, de la Constitución Política del Estado de Morelos, remítase a los Ayuntamientos del Estado, con la finalidad de que se pronuncien respecto a la adición de un Artículo 85-D, de la propia Constitución, junto con el dictamen y los debates que se hayan generado.
 
 SEGUNDO.- Una vez hecho el computo de los votos que hayan emitido los ayuntamientos, hágase la declaratoria correspondiente con el proposito de que la adición a la Constitución, sea parte de la misma.
 
@@ -4770,3 +4776,19 @@ P.O. 4 DE MAYO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS SETENTA Y SEIS POR EL CUAL SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UNA FRACCIÓN V RECORRIÉNDOSE EN SU ORDEN Y NUMERACIÓN LAS SUBSECUENTES DEL ARTÍCULO 214 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS SETENTA Y SIETE POR EL QUE SE REFORMA EL ARTÍCULO 125 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 128 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
