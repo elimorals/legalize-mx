@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2016-05-10"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -282,13 +282,17 @@ VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de pr
 
 IX.- Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud;
 
-> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-X.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud; y
+X.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud;
 
-> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-XI.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
+XI.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+XII.- Acorde a las demás disposiciones legales aplicables, promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -732,11 +736,13 @@ La Secretaría de Salud proporcionará los elementos técnicos a la Secretaría 
 
 ### CAPITULO II. Atención Médica
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 32.
 
-Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud, la cual podrá apoyarse de medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría de Salud.
+Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud.
+
+Para efectos del párrafo anterior los prestadores de servicios de salud podrán apoyarse en las Guías de Práctica Clínica y los medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud.
 
 ###### ARTICULO 33.
 
@@ -1100,6 +1106,10 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+En el diseño de las Normas Oficiales Mexicanas señaladas en el primer párrafo del presente artículo, las autoridades sanitarias podrán promover mecanismos de atención a las víctimas y victimarios del acoso o violencia escolar.
+
 ### CAPITULO I. Disposiciones Generales
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
@@ -1169,6 +1179,10 @@ La Secretaría de Salud, con base en las políticas establecidas por el Consejo 
 ###### ARTICULO 70.
 
 La Secretaría de Salud coordinará las actividades de las dependencias y entidades del sector salud para instrumentar y operar las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población, de conformidad con las disposiciones de la Ley General de Población y de su Reglamento, y cuidará que se incorporen al programa sectorial.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+Para efectos del párrafo anterior, la Secretaría de Salud en coordinación con los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, impulsarán, entre otras, acciones en materia de educación sexual y planificación familiar dirigidas a la población adolescente.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2374,9 +2388,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Prorporcionar (sic) a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades, así como la prevención, diagnóstico y control de las enfermedades cardiovasculares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
@@ -2654,7 +2668,9 @@ VI.- Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artr�
 
 VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishamaniasis, tripanosomiasis, y oncocercosis;
 
-VIII.- Sífilis, infecciones gonocóccicas y otras enfermedades de transmisión sexual;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+VIII. Sífilis, infecciones gonocóccicas, virus del papiloma humano y otras enfermedades de transmisión sexual;
 
 IX.- Lepra y mal del pinto;
 
@@ -8549,3 +8565,35 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- En un plazo que no excederá de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud establecerá la normatividad para la instalación y funcionamiento de los bancos de leche humana.
 
 Asimismo, las acciones que deban realizar las entidades federativas para dar cumplimiento a lo dispuesto en el presente Decreto, en términos de la normatividad que la Secretaría de Salud emita para tal efecto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en sus presupuestos.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 6o. Y UN TERCER PÁRRAFO AL ARTÍCULO 66 DE LA LEY GENERAL DE SALUD, EN MATERIA DE ACOSO Y VIOLENCIA ESCOLAR”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las acciones que se deban emprender con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado por las dependencias y entidades de la Administración Pública Federal en el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda, por lo que no se requerirán mayores transferencias presupuestarias.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 134 DE LA LEY GENERAL DE SALUD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 112 DE LA LEY GENERAL DE SALUD”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 70 DE LA LEY GENERAL DE SALUD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 32 DE LA LEY GENERAL DE SALUD”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
