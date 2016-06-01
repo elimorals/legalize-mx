@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-reconocimiento-al-merito-estatal-de-69300"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-22"
-last_updated: "2015-07-15"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO PARA EL RECONOCIMIENTO AL MERITO ESTATAL DE INVESTIGACION
 
-REGLAMENTO PARA EL RECONOCIMIENTO AL MERITO ESTATAL DE INVESTIGACIÓN
+REGLAMENTO PARA EL RECONOCIMIENTO AL MÉRITO ESTATAL DE INVESTIGACIÓN ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 22 de julio de 2009.
 
@@ -101,21 +101,21 @@ IX. Secretaría, a la Secretaría de Innovación, Ciencia y Tecnología del Pode
 
 La Secretaría de conformidad con la Ley, es la encargada de otorgar estímulos económicos y reconocimientos al mérito estatal de innovación, ciencia y tecnología a las instituciones y miembros de la comunidad científica, para lo cual se apoyará en una Comisión Técnica integrada por:
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-I. La persona Titular de la Secretaría de Innovación, Ciencia y Tecnología, quien la presidirá;
+I. La persona titular de la Secretaría de Innovación, Ciencia y Tecnología, quien la presidirá por sí o a través de la persona que al efecto designe;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-II. La persona Titular de la Subsecretaría de Innovación, Ciencia y Desarrollo Tecnológico de la Secretaría, quien fungirá como Secretario Técnico;
+II. La persona titular de la Unidad de Enlace Jurídico de la Secretaría, quien fungirá como Secretario Técnico;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
 
 III. Dos vocales internos, que serán las personas Titulares de la Dirección General de Innovación Industrial, y la Dirección General de Investigación, ambas de la Secretaría, y
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-IV. Un Jurado Calificador, integrado por cinco distinguidos miembros, quienes deberán ser personas destacadas en la actividad empresarial, académica, científica o tecnológica. Los integrantes del Jurado Calificador serán designados por la Secretaría.
+IV. Dos representantes del Jurado Calificador, los cuales deberán ser designados de entre ellos, cumpliendo con lo dispuesto por el artículo 10 del presente Reglamento.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
@@ -135,9 +135,9 @@ I. Coordinar a los miembros del Jurado Calificador del REMEI, para que dentro de
 
 II. Establecer la forma y términos para la expedición de la Convocatoria para la obtención del REMEI, conforme a las bases señaladas en el presente Reglamento;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-III. Formular y aprobar la Convocatoria para el otorgamiento del REMEI, en la cual se deberá prever, entre otras cosas, la recepción de candidaturas en un término de treinta días hábiles contados a partir de la publicación de la misma;
+III. Formular y aprobar la Convocatoria para el otorgamiento del REMEI, en la cual se deberá prever, entre otras cosas, la recepción de candidaturas por un período de quince días hábiles contados a partir de la publicación de la misma;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
@@ -205,6 +205,10 @@ II. Pertenecer al Sistema Nacional de Investigadores (SNI), y
 
 III. Ser distinguidos científicos, tecnólogos o investigadores, y destacados en sus respectivas especialidades o haber sobresalido en labores de gestión o promoción en actividades de desarrollo científico y/o tecnológico, y sean reconocidos a nivel estatal, nacional o internacional.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+El Jurado Calificador estará conformado por siete integrantes quienes deberán ser personas destacadas en la actividad empresarial, académica, científica o tecnológica, los cuales serán designados por la Secretaría.
+
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 11.
@@ -235,7 +239,7 @@ El Jurado Calificador podrá declarar desierta cualquiera de las categorías del
 
 Los candidatos deberán cumplir con los siguientes requisitos:
 
-I. Contar con una residencia mínima de cinco años en la Entidad al momento de emitirse la convocatoria;
+I. (DEROGADA, P.O. 1 DE JUNIO DE 2016)
 
 II. Los candidatos deberán ser nominados por la institución, empresa u organismo de su adscripción que cuente con RENIECYT, basándose en el Formulario de Nominación del REMEI expedido por la Secretaría, y
 
@@ -257,7 +261,9 @@ a) Investigación Científica e Innovación.
 
 III. En materia de ciencia y tecnología;
 
-a) Tesis de Investigación;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+a) Tesis de Investigación en licenciatura, maestría y doctorado;
 
 b) Divulgación y Vinculación;
 
@@ -350,3 +356,11 @@ P.O. 15 DE JULIO DE 2015.
 PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SISTEMA ESTATAL DE INVESTIGADORES Y DEL REGLAMENTO PARA EL RECONOCIMIENTO AL MÉRITO ESTATAL DE INVESTIGACIÓN”]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango normativo que se opongan al presente Decreto.
