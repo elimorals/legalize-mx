@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2016-04-25"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -985,13 +985,17 @@ Estas responsabilidades se harán efectivas mediante el procedimiento administra
 
 Tratándose de servidores públicos, además de lo dispuesto por este artículo procederá en su caso, la aplicación de sanciones administrativas disciplinarias en los términos del Capítulo Tercero de este Título.
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 73.
 
-La Secretaría, en funciones de auditoría, fiscalización, control, vigilancia e inspección como instrumentos y mecanismos de que dispone en el ejercicio de sus atribuciones, actuando directamente o a través de los órganos de control interno, podrá fincar pliegos preventivos de responsabilidad, cuando detecte irregularidades por actos u omisiones de servidores públicos en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y de recursos económicos del Estado o de aquellos concertados o convenidos con la federación y los municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública del Estado, del municipio o al patrimonio de sus organismos auxiliares y fideicomisos públicos.
+La Secretaría, en funciones de auditoría, fiscalización, control, vigilancia e inspección como instrumentos y mecanismos de que dispone en el ejercicio de sus atribuciones, actuando directamente o a través de los órganos de control interno, podrá fincar pliegos preventivos de responsabilidad, cuando detecte irregularidades por actos u omisiones de servidores públicos en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores, aportaciones y cuotas al régimen de seguridad social y de recursos económicos del Estado o de aquellos concertados o convenidos con la federación y los municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública del Estado, del municipio o al patrimonio de sus organismos auxiliares y fideicomisos públicos.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 La Secretaría se sujetará a lo dispuesto por el artículo 41 de esta Ley.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 La Secretaría es competente para fincar responsabilidades administrativas resarcitorias a presidentes, tesoreros y demás servidores públicos municipales, en los términos del párrafo anterior cuando se trate de fondos, valores y recursos económicos del Estado o de los concertados o convenidos con la federación y los municipios.
 
@@ -1762,3 +1766,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO. Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+G.G. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 86.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 73 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS, SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 15 DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 51 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
