@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2013-11-07"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -88,7 +88,9 @@ V. Participación social: Derecho de las personas y organizaciones a intervenir 
 
 VI. Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2012)</small>
 
@@ -134,9 +136,11 @@ X. Padrón: Relación oficial de beneficiarios que incluye a las personas atendi
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 6.
 
-Son derechos para el desarrollo social la educación, la salud, la alimentación, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de calidad, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 7.
 
@@ -202,7 +206,9 @@ La planeación del desarrollo social incluirá los programas municipales; planes
 
 La Política Nacional de Desarrollo Social debe incluir, cuando menos, las siguientes vertientes:
 
-I. Superación de la pobreza a través de la educación, la salud, la alimentación, la generación de empleo e ingreso, autoempleo y capacitación;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+I. Superación de la pobreza a través de la educación, la salud, de la alimentación nutritiva y de calidad, la generación de empleo e ingreso, autoempleo y capacitación;
 
 II. Seguridad social y programas asistenciales;
 
@@ -242,7 +248,9 @@ III. Los programas dirigidos a las personas en condiciones de pobreza, marginaci
 
 IV. Los programas dirigidos a zonas de atención prioritaria;
 
-V. Los programas y acciones públicas para asegurar la alimentación y nutrición materno-infantil;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+V. Los programas y acciones públicas para asegurar la alimentación nutritiva y de calidad y nutrición materno-infantil;
 
 VI. Los programas de abasto social de productos básicos;
 
@@ -356,9 +364,9 @@ V. Calidad y espacios de la vivienda;
 
 VI. Acceso a los servicios básicos en la vivienda;
 
-> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-VII. Acceso a la alimentación;
+VII. Acceso a la alimentación nutritiva y de calidad;
 
 > <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2013)</small>
 
@@ -781,5 +789,17 @@ P.O. 8 DE ABRIL DE 2013
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 7 DE NOVIEMBRE DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, 14, 19 Y 36 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 3 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
