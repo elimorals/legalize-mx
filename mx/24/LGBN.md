@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2015-12-17"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -217,6 +217,10 @@ El decreto o acuerdo mediante el cual la Federación adquiera, afecte o destine 
 Se presumirá que la legislatura local de que se trate ha dado su consentimiento, cuando no dicte resolución alguna dentro de los cuarenta y cinco días naturales posteriores al de la publicación en el Diario Oficial de la Federación, excepto cuando esté en receso, caso en el cual el término se computará a partir del día en que inaugure su periodo inmediato de sesiones. La negativa expresa de la legislatura correspondiente, dejará al inmueble sujeto a la jurisdicción local.
 
 Una vez obtenido el consentimiento, en cualquiera de los supuestos señalados en los párrafos primero y tercero de este artículo, será irrevocable.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+Los inmuebles federales en los que se establezcan Zonas Económicas Especiales en los términos de la ley en la materia, se considerarán comprendidos en el supuesto a que se refiere el artículo 6, fracción VI, de esta Ley y se sujetarán a lo previsto en el presente artículo.
 
 ###### ARTÍCULO 10.
 
@@ -2039,3 +2043,15 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE ZONAS ECONÓMICAS ESPECIALES Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 9 DE LA LEY GENERAL DE BIENES NACIONALES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal, en un plazo de 180 días posteriores a la entrada en vigor de este Decreto, emitirá el Reglamento de la Ley Federal de Zonas Económicas Especiales.
+
+Tercero.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades paraestatales de la Administración Pública Federal con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo a su presupuesto autorizado para el ejercicio fiscal que corresponda.
+
+Cuarto.- En tanto entra en vigor la legislación secundaria a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Desindexación del Salario Mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016, las referencias contenidas en el presente Decreto a la Unidad de Medida y Actualización se entenderán hechas al salario mínimo diario general vigente en la Ciudad de México.
