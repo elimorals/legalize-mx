@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2016-04-06"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -645,9 +645,11 @@ Todos los Ayuntamientos deberán de crear la Dirección denominada Instancia Mun
 
 Para el pleno desarrollo de sus funciones deberá de contar con la suficiencia presupuestal necesaria para dicho fin.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 25.
 
-Las Comisiones a que se refiere la fracción II del Artículo anterior tendrán por objeto estudiar, examinar y someter a la consideración del Ayuntamiento en Cabildo, propuestas de solución de los problemas que se presenten en relación con el ramo de la administración municipal que les corresponda y vigilar que se cumplan las disposiciones y acuerdos del Ayuntamiento, para lo cual, tendrán la coordinación que sea necesaria con las dependencias de la administración pública municipal.
+Las Comisiones a que se refiere la fracción II del párrafo sexto del artículo 24, de esta Ley tendrán por objeto estudiar, examinar y someter a la consideración del Ayuntamiento en Cabildo, propuestas de solución de los problemas que se presenten en relación con el ramo de la administración municipal que les corresponda y vigilar que se cumplan las disposiciones y acuerdos del Ayuntamiento, para lo cual, tendrán la coordinación que sea necesaria con las dependencias de la administración pública municipal.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
@@ -1279,9 +1281,9 @@ IX. Regularizar la propiedad de los bienes inmuebles municipales y solicitar su 
 
 X. Admitir, substanciar y resolver los recursos administrativos que sean de su competencia.
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-XI.- Verificar que las cuentas públicas del Municipio, se remitan oportunamente a la Auditoría Superior de Fiscalización del Congreso del Estado y que los integrantes del Cabildo, firmen todos los anexos de las mismas, como las nóminas que sean aprobadas en las sesiones del Ayuntamiento.
+XI.- Verificar que las cuentas públicas del Municipio, se remitan oportunamente a la Entidad Superior de Auditoria y Fiscalización del Congreso del Estado y que los integrantes del Cabildo, firmen todos los anexos de las mismas, como las nóminas que sean aprobadas en las sesiones del Ayuntamiento.
 
 ###### Artículo 46.
 
@@ -2967,7 +2969,7 @@ Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determ
 
 ###### Artículo 173.
 
-Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga• por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
+Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -3898,6 +3900,22 @@ El decreto que al efecto se expida, entrara en vigor al día siguiente de su pub
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS OCHENTA POR EL QUE SE REFORMA EL ARTÍCULO 25 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS OCHENTA Y UNO POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 45 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO CUARTO.
 
