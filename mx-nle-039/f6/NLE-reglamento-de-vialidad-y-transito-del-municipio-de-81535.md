@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-vialidad-y-transito-del-municipio-de-81535"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-13"
-last_updated: "2014-12-29"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE VIALIDAD Y TRÁNSITO DEL MUNICIPIO DE MONTERREY DEL ESTADO DE NUEVO LEÓN
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
+[N. DE. E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE MONTERREY, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN.]
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 13 de diciembre de 2010.
 
@@ -1226,3 +1228,31 @@ P.O. 6 DE JUNIO DE 2014.
 P.O. 29 DE DICIEMBRE DE 2014.
 
 ÚNICO. Las presentes reformas entrarán en vigor a los 90-noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado, plazo en el cual se realizará una intensa campaña de difusión de las presentes reformas entre la comunidad, y la Secretaría de Seguridad Pública y Vialidad realizará las precisiones administrativas necesarias para la implementación de la reforma.
+
+P.O. DE 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 26 DE MAYO DE 2016, SE APRUEBA EL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE MONTERREY”.]
+
+PRIMERO. El presente Reglamento entrará en vigor a los 60-sesenta días naturales contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. A partir de la entrada en vigor de este Reglamento, se Abroga el Reglamento de Vialidad y Tránsito del Municipio de Monterrey, publicado en el Periódico Oficial del Estado número 164-III, de fecha 13 de diciembre de 2010, y sus posteriores reformas.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente Reglamento.
+
+CUARTO. La obligación contenida en el Artículo 49 será aplicable 60-sesenta días naturales, a partir de la entrada en vigor del presente Reglamento.
+
+QUINTO. El Municipio que así lo determine, contará con 120-ciento veinte días naturales a partir de la entrada en vigor del presente Reglamento, para llevar a cabo los estudios técnicos que permitan determinar el establecimiento de los programas instituidos en los Artículos 125, 126 y 127 del presente Reglamento.
+
+SEXTO. Se instruye a la Secretaría de Seguridad Pública y Vialidad del Municipio de Monterrey, Nuevo León y con el apoyo de las dependencias municipales que correspondan, a que lleve a cabo una campaña de difusión que tenga por objeto dar a conocer lo ordenado en la Sección 5 del Capítulo III y en el Anexo 1, 2 y 3, en los siguientes términos:
+
+I. De Difusión Vial y de Promoción de Rutas: Que comprende toda actividad que a través de medios de comunicación, redes sociales, señalamientos informativos y restrictivos, así como otros medios de difusión, se lleve a cabo para informar a los conductores de vehículos de transporte de carga pesada sobre las nuevas disposiciones en la materia; asimismo se deberá informar a las Autoridades Federales y Estatales, Cámaras de la Industria, Comercio y Transporte, que forman parte de las actividades que sobre vehículos de transporte de carga pesada se llevan a cabo en el Área Metropolitana de Monterrey. Esta etapa tendrá una duración de 90-noventa días naturales contados a partir de la publicación en el Periódico Oficial del Estado de Nuevo León;
+
+II. Preventiva e Informativa: Que advierte la aplicación de amonestaciones a conductores infractores por un período de 60-sesenta días naturales contados a partir de la conclusión de la campaña de difusión vial y de promoción de rutas; durante la amonestación se continuará con la comunicación de lo ordenado en la presente norma, y,
+
+III. Correctiva: Una vez concluida la etapa Preventiva e Informativa y por espacio de 30-treinta días naturales, la aplicación de la multa tendrá un descuento único del 50%-cincuenta por ciento si ésta es pagada durante los 15-quince días naturales siguientes a la aplicación de dicha multa.
+
+SÉPTIMO. La aplicación de las sanciones por faltas o violaciones al presente Reglamento, contenidas en el Artículo 164, fracción V, surtirá sus efectos sin concesión, a partir de la conclusión de la campaña preventiva e informativa señalada en el Artículo Sexto Transitorio.
+
+[N. DE. E. VÉASE ANEXO 1 EN EL P.O. DE 1 JUNIO DE 2016, PÁGINA 93.]
+
+ANEXO 1.- Vías Limitadas de Largo Itinerario para la Circulación de Vehículos de Transporte de Carga Pesada
