@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-auditoria-superior-del-estado-de-7655
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-14"
-last_updated: "2012-02-22"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de julio de 2010.
 
@@ -37,9 +37,11 @@ Reglamento Interior de la Auditoría Superior del Estado de Chiapas
 
 ### Capítulo I. Del Ámbito de Competencia y Organización de la Auditoría Superior del Estado de Chiapas
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 1°.
 
-La Auditoría Superior del Estado tiene a su cargo la revisión y fiscalización superior de la cuenta pública del Estado y municipios, y de manera cualitativa las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio establezcan el Ejecutivo del Estado y los Ayuntamientos, así como las atribuciones que expresamente le encomienden la Constitución Política del Estado Libre y Soberano de Chiapas, la Ley de Fiscalización Superior del Estado de Chiapas y demás ordenamientos legales aplicables.
+La Auditoría Superior del Estado tiene a su cargo la revisión y fiscalización superior de la cuenta pública del Estado y Municipios y de manera cualitativa, verificar el cumplimiento de los objetivos y metas contenidos en los programas estatales y municipales, así como las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio establezcan el Ejecutivo del Estado y los Ayuntamientos, así como las atribuciones que expresamente le encomienden la Constitución Política del Estado de Chiapas, la Ley de Fiscalización Superior del Estado de Chiapas y demás ordenamientos legales aplicables.
 
 ###### Artículo 2°.
 
@@ -67,19 +69,21 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 2.2.3. Subdirección de Desarrollo de la Hacienda Pública.
 
-2.3. Coordinación de Evaluación de Políticas Públicas y Objetivos de Desarrollo del Milenio.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PUNTO 2.4.], P.O. 1 DE JUNIO DE 2016)</small>
 
-2.3.1. Subcoordinación de Evaluación "A".
+2.3. Coordinación de Seguimiento de Resultados de la Revisión y Fiscalización.
 
-2.3.2. Subcoordinación de Evaluación "B".
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PUNTO 2.4.1.], P.O. 1 DE JUNIO DE 2016)</small>
 
-2.4. Coordinación de Seguimiento de Resultados de la Revisión y Fiscalización.
+2.3.1. Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Poderes y Entes Públicos del Estado.
 
-2.4.1. Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Poderes y Entes Públicos del Estado.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PUNTO 2.4.2.], P.O. 1 DE JUNIO DE 2016)</small>
 
-2.4.2. Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Municipios.
+2.3.2. Subdirección de Seguimiento de Resultados de la Revisión y Fiscalización a Municipios.
 
-2.5. Coordinación de Registro y Control de Situación Patrimonial.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PUNTO 2.5.], P.O. 1 DE JUNIO DE 2016)</small>
+
+2.4. Coordinación de Registro y Control de Situación Patrimonial.
 
 3. Auditoría Especial de los Poderes del Estado, Municipios y Entes Públicos.
 
@@ -106,6 +110,18 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 3.2.4. Subdirección de Auditoría a Municipios "D".
 
 3.2.5. Subdirección de Auditoría a Municipios "E".
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+3.3. Dirección de Auditoría de Desempeño.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+3.3.1. Subdirección de Auditoría de Desempeño a Poderes y Entes Públicos del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+3.3.2. Subdirección de Auditoría de Desempeño a Municipios.
 
 4. Unidad de Asuntos Jurídicos.
 
@@ -173,7 +189,9 @@ VIII. Instruir se realice la fiscalización de las cuentas públicas, los inform
 
 IX. Autorizar la designación del personal encargado de practicar las inspecciones, visitas, auditorías y revisiones a cargo de la Auditoría Superior del Estado y la expedición de las constancias y credenciales de identificación, y en su caso, habilitar mediante la celebración de contratos de prestación de servicios a que se refiere la Ley de Fiscalización Superior del Estado de Chiapas, a profesionales de auditoría independientes;
 
-X. Autorizar la emisión de los pliegos de observaciones y los documentos que contengan la recomendación de acciones para mejorar las prácticas de gobierno y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado, que deriven de los resultados de la revisión y fiscalización de la cuenta pública, que se remitirán a los Poderes del Estado, Municipios y entes públicos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+X. Autorizar la emisión de los pliegos de observaciones y los documentos que contengan la recomendación de acciones para mejorar las prácticas de gobierno, incluyendo las recomendaciones de desempeño y las observaciones que no rebasen 100 veces el salario mínimo diario general vigente en el Estado, que deriven de los resultados de la revisión y fiscalización de la cuenta pública, que se remitirán a los Poderes del Estado, Municipios y entes públicos;
 
 XI. Autorizar los pliegos definitivos de responsabilidades, a que den lugar las irregularidades en que incurran los servidores públicos por actos u omisiones de los que resulte un daño o perjuicio que afecte al Estado y Municipios, en su hacienda pública o al patrimonio de los entes públicos estatales y municipales, conforme a los ordenamientos legales y reglamentarios aplicables;
 
@@ -181,7 +199,9 @@ XII. Promover ante las autoridades competentes, el fincamiento de otras responsa
 
 XIII. Autorizar la emisión del informe del estado de solventación del pliego de observaciones, formulado a las entidades fiscalizadas;
 
-XIV. Instruir la expedición de las bases y normas para la baja de documentos justificatorios y comprobatorios para efectos de su destino final o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+XIV. Instruir que se diseñen y apliquen los instrumentos necesarios para la verificación del cumplimiento de los objetivos y metas contenidos en los programas estatales o municipales y la evaluación cualitativa de las políticas públicas alineadas a los Objetivos de Desarrollo del Milenio;
 
 XV. Fincar a los servidores públicos y a las personas físicas y morales que incurran en responsabilidades, las sanciones previstas en la Ley de Fiscalización Superior del Estado de Chiapas y demás ordenamientos legales que deban aplicarse;
 
@@ -321,9 +341,11 @@ II. Coordinar el análisis de la información de las finanzas públicas del Esta
 
 III. Coordinar el examen de la información financiera, económica, programática y presupuestal que se presente en la cuenta pública y en el informe de avance de gestión financiera, cuidando en todo momento, que ambos documentos sean presentados conforme a lo dispuesto por la Ley de Fiscalización Superior del Estado y con sujeción a la Ley General de Contabilidad Gubernamental;
 
-IV. Establecer la metodología para la revisión y fiscalización superior de las cuentas públicas, los informes de avance de gestión financiera, los informes mensuales de cuenta pública municipal y de manera cualitativa las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-V. Dirigir la revisión y fiscalización cualitativa de las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
+IV. Establecer la metodología para la revisión y fiscalización superior de las cuentas públicas, los informes de avance de gestión financiera, los informes mensuales de cuenta pública municipal, así como aquella que permita verificar el cumplimiento de los objetivos y metas contenidos en los programas estatales y municipales y las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio establezcan el Ejecutivo del Estado y los Ayuntamientos;
+
+V. (DEROGADA, P.O. 1 DE JUNIO DE 2016)
 
 VI. Coordinar la integración y actualización del marco normativo general para la fiscalización de la gestión gubernamental a cargo de la Auditoría Superior del Estado;
 
@@ -359,7 +381,7 @@ XXI. Coordinar la integración del Plan Estratégico Institucional, con la parti
 
 XXII. Dirigir la integración del Programa Anual de Actividades de la Auditoría Superior del Estado, con base en objetivos, metas e indicadores específicos y someterlo a la autorización del Auditor Superior del Estado, así como vigilar su cumplimiento;
 
-XXIII. Coordinar y dar seguimiento al Sistema de Gestión de la Calidad, que permita la mejora continua de la Institución, con la participación de sus Unidades y Órganos Administrativos; y, (sic)
+XXIII. Coordinar y dar seguimiento al Sistema de Gestión de la Calidad, que permita la mejora continua de la Institución, con la participación de sus Unidades y Órganos Administrativos; y,
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
@@ -375,7 +397,9 @@ Al Auditor Especial de los Poderes del Estado, Municipios y Entes Públicos, le 
 
 I. Coordinar la planeación y programación de las actividades de las Direcciones de su adscripción;
 
-II. Coordinar las auditorías, visitas, inspecciones y revisiones que las Direcciones de su adscripción practiquen a los Poderes del Estado, Municipios y Entes Públicos, en la revisión y fiscalización de los informes mensuales de cuenta pública municipal, de avance de gestión financiera y las cuentas públicas, conforme al Programa Anual aprobado por el Auditor Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+II. Coordinar las auditorías, visitas, inspecciones y revisiones que las Direcciones de su adscripción practiquen a los Poderes del Estado, Municipios y Entes Públicos, en la revisión y fiscalización de los informes mensuales de cuenta pública municipal, de avance de gestión financiera y las cuentas públicas, así como aquellas orientadas a verificar el cumplimiento de los objetivos y metas de los programa (sic) estatales o municipales, conforme al Programa Anual aprobado por el Auditor Superior del Estado;
 
 III. Coordinar que las Direcciones de su adscripción en la revisión y fiscalización superior, constaten que las entidades fiscalizadas hayan efectuado los registros de la estimación, recaudación y asignación de los ingresos, de los programas, proyectos y acciones ejecutados, y que los procedimientos aplicados fueron suficientes para salvaguardar y controlar debidamente los bienes públicos;
 
@@ -413,7 +437,11 @@ XIX. Promover ante las autoridades competentes, el fincamiento de otras responsa
 
 XX. Presentar denuncias y querellas en los términos de la legislación penal, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños al Estado o Municipios en sus haciendas públicas, o al patrimonio de los entes públicos fiscalizados, así como denuncias de juicio político; de conformidad con lo señalado en el Título Noveno de la Constitución Política del Estado Libre y Soberano de Chiapas; y,
 
-XXI. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables y las que determine el Auditor Superior del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2016)</small>
+
+XXI. Aprobar las recomendaciones derivadas de las auditorías de desempeño practicadas por las áreas de su adscripción, y verificar, a través de la Dirección de Auditoría de Desempeño, que las entidades fiscalizadas atiendan su cumplimiento o manifiesten las razones de no adopción de las recomendaciones.
+
+XXII. Las demás que en el ámbito de su competencia, le confieran las disposiciones legales aplicables y las que determine el Auditor Superior del Estado.
 
 ### Capítulo IV. De las Facultades de los Directores y Coordinadores
 
@@ -473,7 +501,9 @@ II. Coordinar la preparación de los análisis temáticos, para efectos de la pl
 
 III. Dirigir la integración del Programa Anual de Auditorías, Visitas, Inspecciones y Revisiones y someterlo a la consideración del Auditor Especial de Planeación e Informes;
 
-IV. Coordinar el desarrollo de la metodología, para la revisión y fiscalización superior de las cuentas públicas, los informes de avance de gestión financiera, los informes mensuales de cuenta pública municipal y de manera cualitativa las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+IV. Coordinar el desarrollo de la metodología, para la revisión y fiscalización superior de las cuentas públicas, los informes de avance de gestión financiera, los informes mensuales de cuenta pública municipal, así como aquella que permita verificar el cumplimiento de los objetivos y metas contenidos en los programas estatales y municipales y las políticas públicas en materia de desarrollo social, que alineadas a los Objetivos de Desarrollo del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
 
 V. Supervisar la elaboración de los manuales, guías y demás instrumentos necesarios para la organización interna y la fiscalización superior, sometiéndolos a la autorización correspondiente;
 
@@ -491,7 +521,7 @@ XI. Establecer las estrategias para dar seguimiento al sistema de gestión de la
 
 XII. Establecer mecanismos para la obtención de los resultados relevantes de las auditorías practicadas por los Órganos Internos de Control de los Poderes del Estado, Municipios y entes públicos estatales y municipales, así como evaluar su inclusión en los programas de auditorías y solicitar, en su caso, a los auditores externos de las entidades fiscalizadas, copia de los dictámenes e informes de las auditorías y revisiones por ellos practicadas;
 
-XIII. Proponer a su superior jerárquico los criterios para la selección de las entidades a fiscalizar; y, (sic)
+XIII. Proponer a su superior jerárquico los criterios para la selección de las entidades a fiscalizar; y,
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
@@ -691,47 +721,11 @@ VIII. Las demás que en el ámbito de su respectiva competencia, le otorguen las
 
 ###### Artículo 19.
 
-El Coordinador de Evaluación de Políticas Públicas y Objetivos de Desarrollo del Milenio, tendrá las siguientes facultades:
-
-I. Coordinar las estrategias para evaluar de manera cualitativa las políticas públicas en materia de desarrollo social alineadas a los Objetivos del Milenio, del Ejecutivo del Estado y los Ayuntamientos;
-
-II. Dirigir la elaboración de la metodología para evaluar las políticas públicas que en materia de desarrollo social alineadas a los Objetivos del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
-
-III. Establecer comunicación permanente con las dependencias y entidades del Ejecutivo Estatal y los Ayuntamientos, así como requerir la información necesaria para el cumplimiento de sus actividades;
-
-IV. Coordinar el Programa Anual de Visitas, para evaluar cualitativamente los resultados e impactos de los distintos programas, proyectos y acciones que se ejecuten en materia de desarrollo social, orientados a los Objetivos del Milenio;
-
-V. Dirigir la integración de los informes, derivados de la evaluación de las políticas públicas y emitir las recomendaciones a las dependencias y entidades del Ejecutivo del Estado y los Ayuntamientos;
-
-VI. Coordinar el seguimiento a las recomendaciones emitidas a las dependencias y entidades del Ejecutivo del Estado y a los Ayuntamientos, derivadas de las evaluaciones efectuadas;
-
-VII. Asistir a reuniones de trabajo en materia de evaluación de políticas públicas y objetivos de desarrollo del milenio;
-
-VIII. Gestionar la concertación de acciones con organismos nacionales e internacionales para consolidar la evaluación de políticas públicas en la entidad;
-
-IX. Emitir la información derivada de sus evaluaciones para contribuir en la fiscalización superior; y,
-
-X. Las demás que en el ámbito de su respectiva competencia le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
+(DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
 ###### Artículo 20.
 
-A los Subcoordinadores de Evaluación "A" y "B" adscritos a la Coordinación de Evaluación de Políticas Públicas y Objetivos de Desarrollo del· Milenio, les corresponde ejercer las siguientes facultades:
-
-I. Planear, programar y ejecutar las actividades correspondientes a la Subcoordinación a su cargo, de acuerdo con los lineamientos que en esta materia estén establecidos;
-
-II. Instrumentar las estrategias para evaluar de manera cualitativa las políticas públicas en materia de desarrollo social alineadas a los Objetivos del Milenio, del Ejecutivo del Estado y los Ayuntamientos;
-
-III. Elaborar la metodología para evaluar las políticas públicas que en materia de desarrollo social alineadas a los Objetivos del Milenio, establezcan el Ejecutivo del Estado y los Ayuntamientos;
-
-IV. Formular y ejecutar el Programa Anual de Visitas, para evaluar cualitativamente los resultados e impactos de los distintos programas, proyectos y acciones que se ejecuten en materia de desarrollo social orientados a los Objetivos del Milenio;
-
-V. Integrar los informes derivados de la evaluación de las políticas públicas, emitir y dar seguimiento a las recomendaciones formuladas a las dependencias y entidades del Ejecutivo del Estado y los Ayuntamientos;
-
-VI. Participar en las reuniones de trabajo en materia de evaluación de políticas públicas y objetivos de desarrollo del milenio;
-
-VII. Integrar la información derivada de sus evaluaciones para contribuir en la fiscalización superior; y,
-
-VIII. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
+(DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
 ###### Artículo 21.
 
@@ -938,6 +932,92 @@ XIII. Recabar, integrar y presentar a su superior jerárquico, la información y
 XIV. Elaborar y proponer a su superior jerárquico, la promoción ante las autoridades competentes del ejercicio de las atribuciones de comprobación en materia fiscal; y,
 
 XV. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Artículo 27 bis.- El Director de Auditoría de Desempeño, tendrá las siguientes facultades:
+
+I. Supervisar la elaboración del programa de trabajo para la realización de las auditorías de desempeño a los Poderes del Estado, Municipios y Entes Públicos, que permitan evaluar la eficacia, eficiencia, economía, calidad de los bienes y servicios prestados;
+
+II. Proponer la metodología, normas, criterios y procedimientos para la realización de las auditorías de desempeño a los Poderes del Estado, Municipios y Entes Públicos, con el apoyo de las prácticas de fiscalización nacional e internacional;
+
+III. Supervisar las auditorías de desempeño a los Poderes del Estado, Municipios y Entes Públicos, conforme al Programa Anual aprobado, con el fin de comprobar el grado de cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de las entidades fiscalizadas; y de su marco jurídico correspondiente;
+
+IV. Revisar y someter a la consideración de su superior jerárquico, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño a los Poderes del Estado, Municipios y Entes Públicos;
+
+V. Coordinar y supervisar las reuniones para dar a conocer a las entidades fiscalizadas, las acciones para mejorar las prácticas de gobierno preliminares de las auditorías de desempeño a las Cuentas Públicas Estatal y Municipales;
+
+VI. Someter a la consideración de su superior jerárquico, las recomendaciones definitivas obtenidas, a fin de mejorar los resultados, la eficiencia, eficacia y economía de las acciones de gobierno, y elevar la calidad del desempeño gubernamental; asimismo, promover su notificación correspondiente y verificar que las entidades fiscalizadas atiendan su cumplimiento o manifiesten las razones de no adopción de las recomendaciones.
+
+VII. Autorizar las comisiones del personal a su cargo, para llevar a cabo la realización de auditorías de desempeño;
+
+VIII. Coordinar y evaluar las actividades que se realicen en los órganos administrativos de su adscripción, a efecto de verificar el cumplimiento del Programa Anual de Actividades y el de Auditorías, Visitas, Inspecciones y Revisiones;
+
+IX. Coordinar y solicitar durante el desarrollo de las auditorías de desempeño, la información y documentación necesaria para el ejercicio de sus facultades;
+
+X. Promover la imposición de sanciones por el incumplimiento a los requerimientos de información y documentación; y
+
+XI. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Artículo 27 ter.- Al Subdirector de Auditoría de Desempeño a Poderes y Entes Públicos del Estado, le corresponde ejercer las siguientes facultades:
+
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos que en esta materia estén establecidos;
+
+II. Elaborar y proponer a su superior jerárquico, la implementación de programas de formación, capacitación y especialización en auditorías de desempeño, para mejorar la preparación técnica y profesional del personal a su cargo;
+
+III. Realizar las auditorías de desempeño, conforme al Programa Anual aprobado, con el fin de comprobar el grado de cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de las (sic) entes fiscalizados; y de su marco jurídico correspondiente;
+
+IV. Revisar en las auditorías de desempeño, el cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de los entes fiscalizados, conforme a los indicadores estratégicos aprobados y de gestión;
+
+V. Formular los estudios, opiniones, dictámenes, informes y demás documentos requeridos por su superior jerárquico;
+
+VI. Someter a la consideración de su superior jerárquico, las comisiones del personal para llevar a cabo las auditorías de desempeño;
+
+VII. Desempeñar las comisiones que les sean conferidas y participar en las auditorías de desempeño que su superior jerárquico les encomiende e informar sobre el desarrollo de sus actividades;
+
+VIII. Solicitar durante el desarrollo de las auditorías de desempeño, la información y documentación necesaria para el ejercicio de sus facultades;
+
+IX. Integrar la documentación necesaria, para proponer la sanción a los responsables por el incumplimiento de los requerimientos de información y documentación, y notificar las multas que procedan;
+
+X. Elaborar y someter a la consideración de su superior jerárquico, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño y notificar los citatorios para darlos a conocer;
+
+XI. Llevar a cabo las reuniones en las que se den a conocer a las entidades fiscalizadas, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño, así como realizar el seguimiento de las aclaraciones y justificaciones que se presenten;
+
+XII. Elaborar y someter a la consideración de su superior jerárquico, las recomendaciones definitivas obtenidas en la realización de las auditorías de desempeño, a fin de mejorar los resultados, la eficiencia, eficacia y economía de las acciones de gobierno, y elevar la calidad del desempeño gubernamental; asimismo, promover su notificación correspondiente; y
+
+XIII. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Artículo 27 quater.- Al Subdirector de Auditoría de Desempeño a Municipios, le corresponde ejercer las facultades siguientes:
+
+I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo a los lineamientos que en esta materia estén establecidos;
+
+II. Elaborar y proponer a su superior jerárquico, la implementación de programas de formación, capacitación y especialización en auditorías de desempeño, para mejorar la preparación técnica y profesional del personal a su cargo;
+
+III. Realizar las auditorías de desempeño, conforme al Programa Anual aprobado, con el fin de comprobar el grado de cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de las (sic) entes fiscalizados; y de su marco jurídico correspondiente;
+
+IV. Revisar en las auditorías de desempeño, el cumplimiento de objetivos y metas establecidos en los planes, programas, proyectos de los entes fiscalizados, conforme a los indicadores estratégicos aprobados y de gestión;
+
+V. Formular los estudios, opiniones, dictámenes, informes y demás documentos requeridos por su superior jerárquico;
+
+VI. Someter a la consideración de su superior jerárquico, las comisiones del personal para llevar a cabo las auditorías de desempeño;
+
+VII. Desempeñar las comisiones que les sean conferidas y participar en las auditorías de desempeño que su superior jerárquico les encomiende e informar sobre el desarrollo de sus actividades;
+
+VIII. Solicitar durante el desarrollo de las auditorías de desempeño, la información y documentación necesaria para el ejercicio de sus facultades;
+
+IX. Integrar la documentación necesaria, para proponer la sanción a los responsables por el incumplimiento de los requerimientos de información y documentación, y notificar las multas que procedan;
+
+X. Elaborar y someter a la consideración de su superior jerárquico, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño y notificar los citatorios para darlos a conocer;
+
+XI. Llevar a cabo las reuniones en las que se den a conocer a las entidades fiscalizadas, las acciones para mejorar las prácticas de gobierno preliminares, derivadas de las auditorías de desempeño, así como realizar el seguimiento de las aclaraciones y justificaciones que se presenten;
+
+XII. Elaborar y someter a la consideración de su superior jerárquico, las recomendaciones definitivas obtenidas en la realización de las auditorías de desempeño, a fin de mejorar los resultados, la eficiencia, eficacia y economía de las acciones de gobierno, y elevar la calidad del desempeño gubernamental; asimismo, promover su notificación correspondiente; y
+
+XIII. Las demás que en el ámbito de su respectiva competencia, les otorguen las disposiciones jurídicas aplicables y las que les confieran sus superiores jerárquicos.
 
 ### Capítulo V. De las Facultades de los Titulares de las Unidades
 
@@ -1394,3 +1474,13 @@ El Auditor Superior del Estado, C.P. Humberto Blanco Pedrero.- Rúbrica.
 P.O. 22 DE FEBRERO DE 2012.
 
 Único.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA PUBLICACIÓN NO. 1452-A-2016 “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS”.]
+
+Primero.- A la entrada en vigor del presente Acuerdo, los recursos humanos, materiales y financieros de la Coordinación de Políticas Públicas y Objetivos de Desarrollo del Milenio, pasan a formar parte de la Dirección de Auditoría de Desempeño, sin perjuicio de los derechos laborales de los trabajadores adscritos a la Coordinación que se extingue.
+
+Segundo.- Los asuntos pendientes y en trámite que a la entrada en vigor del presente Acuerdo, estaban a cargo de la Coordinación de Políticas Públicas y Objetivos de Desarrollo del Milenio, serán tramitados y concluidos por la Dirección de Auditoría de Desempeño.
+
+Tercero.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
