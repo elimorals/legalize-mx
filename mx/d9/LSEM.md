@@ -4,7 +4,7 @@ identifier: "LSEM"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "2012-04-09"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSEM"
 
 LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 4 de enero de 1994.
 
@@ -208,7 +208,7 @@ V. en disponibilidad.
 
 La administración de rangos, plazas, puestos y estructura del Servicio Exterior se regirá por las disposiciones de la presente Ley y su Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ENERO DE 2002)</small>
 
 ###### Artículo 7o.
 
@@ -526,9 +526,9 @@ IV. Ser apto física y mentalmente para el desempeño de las funciones del Servi
 
 V. No pertenecer al estado eclesiástico ni ser ministro de algún culto; y
 
-> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-VI. Tener por lo menos el grado académico de licenciatura por una universidad o institución de enseñanza superior mexicana o extranjera, con reconocimiento de validez oficial.
+VI. Tener por lo menos el grado académico de licenciatura por una universidad o institución de enseñanza superior mexicana o extranjera, con reconocimiento de validez oficial. Así como acreditar los conocimientos en materia de derechos humanos necesarios para el ejercicio de sus funciones, privilegiadamente aquellos relativos a la protección de los mexicanos en el exterior.
 
 > <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2002)</small>
 
@@ -751,6 +751,18 @@ I. Proteger, en sus respectivas circunscripciones consulares, los intereses de M
 II. Fomentar, en sus respectivas circunscripciones consulares, el intercambio comercial y el turismo con México e informar periódicamente a la Secretaría al respecto;
 
 III. Ejercer, cuando corresponda, funciones de Juez del Registro Civil;
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+En uso de esta facultad, y cuando así les sea solicitado por los interesados, la autoridad consular en funciones de Juez del Registro Civil expedirá actas del registro civil a favor de mexicanos con domicilio fuera de territorio nacional, incluyendo actas de nacimiento de los que no fueron registrados en su oportunidad conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+La autoridad consular en funciones de Juez del Registro Civil deberá actuar con base en lo previsto en el Reglamento de esta Ley y en las disposiciones que al efecto emita la Secretaría, las que deberán procurar la protección más amplia de los derechos de los mexicanos en el exterior, bajo el principio de no discriminación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+La Secretaría podrá celebrar convenios de coordinación con las entidades federativas, para establecer acciones conjuntas que permitan el adecuado cumplimiento de las funciones del registro civil en las oficinas consulares.
 
 IV. Ejercer funciones notariales en los actos y contratos celebrados en el extranjero que deban ser ejecutados en territorio mexicano, en los términos señalados por el Reglamento. Su fe pública será equivalente en toda la República, a la que tienen los actos de los notarios en el Distrito Federal;
 
@@ -1132,7 +1144,7 @@ México, D.F., a 16 de diciembre de 1993.- Sen. Eduardo Robledo Rincón, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE ENERO DE 1998.
 
@@ -1161,3 +1173,17 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 32 DE LA LEY DEL SERVICIO EXTERIOR MEXICANO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UN SEGUNDO, TERCERO Y CUARTO PÁRRAFOS A LA FRACCIÓN III DEL ARTÍCULO 44 DE LA LEY DEL SERVICIO EXTERIOR MEXICANO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Dentro de los noventa días siguientes a su publicación, el Ejecutivo Federal realizará las modificaciones necesarias al Reglamento de esta Ley para hacer efectivas las funciones de Juez del Registro Civil que ejerzan las autoridades consulares por virtud del presente Decreto.
