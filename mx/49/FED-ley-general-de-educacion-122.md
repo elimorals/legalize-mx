@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2016-05-09"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -48,11 +48,11 @@ Esta Ley regula la educación que imparten el Estado -Federación, entidades fed
 
 La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 2o.
+###### Artículo 2o.
 
-Todo individuo tiene derecho a recibir educación de calidad y, por lo tanto, todos los habitantes del país tienen las mismas oportunidades de acceso al sistema educativo nacional, con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, por lo tanto, todos los habitantes del país tienen las mismas oportunidades de acceso y permanencia en el sistema educativo nacional, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 > <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -114,9 +114,13 @@ Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria
 
 V.- Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones al mejoramiento de la sociedad;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los Derechos Humanos y el respeto a los mismos;
+VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los Derechos Humanos y el respeto a los mismos;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+VI Bis.- Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural;
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -226,7 +230,9 @@ IX.- El Sistema de Información y Gestión Educativa, y
 
 X.- La infraestructura educativa;
 
-Las instituciones del sistema educativo nacional impartirán educación de manera que permita al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva y que permita, asimismo, al trabajador estudiar.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+Las instituciones del sistema educativo nacional impartirán educación de manera que permita al educando su plena inclusión y participación en la sociedad y, en su oportunidad, el desarrollo de una actividad productiva y que permita, asimismo, al trabajador estudiar.
 
 > <small>(ADICIONADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
 
@@ -280,7 +286,9 @@ Para la actualización y formulación de los planes y programas de estudio para 
 
 II.- Establecer el calendario escolar aplicable en toda la República para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
-III.- Elaborar y mantener actualizados los libros de texto gratuitos, mediante procedimientos que permitan la participación de los diversos sectores sociales involucrados en la educación;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+III.- Elaborar, mantener actualizados y editar, en formatos accesibles, los libros de texto gratuitos y demás materiales educativos, mediante procedimientos que permitan la participación de los diversos sectores sociales involucrados en la educación;
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -542,7 +550,9 @@ En las actividades de supervisión las autoridades educativas darán prioridad, 
 
 Las negociaciones o empresas a que se refiere la fracción XII del apartado A) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la autoridad educativa local.
 
-Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior, contarán con edificio, instalaciones y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+Las escuelas que se establezcan en cumplimiento de la obligación prevista en el párrafo anterior, contarán con edificio, instalaciones accesibles y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
 
 El sostenimiento de dichas escuelas comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorgue la autoridad educativa local en igualdad de circunstancias.
 
@@ -680,6 +690,10 @@ I.- Atenderán de manera especial las escuelas en que, por estar en localidades 
 
 II.- Desarrollarán programas de apoyo a los maestros que presten sus servicios en localidades aisladas y zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+II Bis.- Desarrollarán, bajo el principio de inclusión, programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes, en términos de lo dispuesto en el artículo 41;
+
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
 > <small>(REFORMADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
@@ -786,27 +800,35 @@ De acuerdo con las necesidades educativas específicas de la población, tambié
 
 La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad. Incluye orientación a padres de familia o tutores para la educación de sus hijas, hijos o pupilos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 41.
 
-La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-Para la identificación y atención educativa de los alumnos con capacidades y aptitudes sobresalientes, la autoridad educativa federal, con base en sus facultades y la disponibilidad presupuestal, establecerá los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, educación normal, así como la media superior y superior en el ámbito de su competencia. Las instituciones que integran el sistema educativo nacional se sujetarán a dichos lineamientos.
+La formación y capacitación de maestros promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a alumnos con capacidades y aptitudes sobresalientes.
+Para la identificación y atención educativa de los estudiantes con aptitudes sobresalientes, la autoridad educativa federal, con base en sus facultades y la disponibilidad presupuestal, establecerá los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, educación normal, así como la media superior y superior en el ámbito de su competencia. Las instituciones que integran el sistema educativo nacional se sujetarán a dichos lineamientos.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
+Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a alumnos con aptitudes sobresalientes.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+La educación especial deberá incorporar los enfoques de inclusión e igualdad sustantiva. Esta educación abarcará la capacitación y orientación a los padres o tutores; así como también a los maestros y personal de escuelas de educación básica y media superior regulares que atiendan a alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+Quienes presten servicios educativos en el marco del sistema educativo nacional atenderán las disposiciones en materia de accesibilidad señaladas en la Ley General para la Inclusión de las Personas con Discapacidad, en la Ley General de la Infraestructura Física Educativa, y en las demás normas aplicables.
 
 ###### ARTICULO 42.
 
@@ -842,9 +864,11 @@ El Estado y sus entidades organizarán servicios permanentes de promoción y ase
 
 Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 45.
 
-La formación para el trabajo procurará la adquisición de conocimientos, habilidades o destrezas, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o algún oficio calificados.
+La formación para el trabajo procurará la adquisición de conocimientos, habilidades o destrezas, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o algún oficio calificados. Esta educación incluirá un capítulo especial dirigido a personas con discapacidad.
 
 La Secretaría, conjuntamente con las demás autoridades federales competentes, establecerá un régimen de certificación, aplicable en toda la República, referido a la formación para el trabajo, conforme al cual sea posible ir acreditando conocimientos, habilidades o destrezas -intermedios o terminales- de manera parcial y acumulativa, independientemente de la forma en que hayan sido adquiridos.
 
@@ -976,7 +1000,9 @@ Las autorizaciones y los reconocimientos de validez oficial de estudios se otorg
 
 I.- Con personal que acredite la preparación adecuada para impartir educación y, en su caso, satisfagan los demás requisitos a que se refiere el artículo 21;
 
-II.- Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento, y
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+II.- Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que la autoridad otorgante determine, conforme a los términos que señalen las disposiciones aplicables. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento, y
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -1036,9 +1062,9 @@ Las autoridades educativas emitirán la normativa correspondiente para realizar 
 
 Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 21; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 42, así como facilitar la inspección y vigilancia de las autoridades competentes.
+En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que la autoridad educativa determine, conforme a los términos que señalen las disposiciones aplicables; cumplir los requisitos a que alude el artículo 21; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 42, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
 ### CAPITULO VI. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
 
@@ -1250,7 +1276,9 @@ En cada municipio operará un consejo municipal de participación social en la e
 
 Este consejo gestionará ante el ayuntamiento y ante la autoridad educativa local:
 
-a) El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+a) El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio;
 
 b) Conocerá de los resultados de las evaluaciones que realicen las autoridades educativas;
 
@@ -1364,9 +1392,9 @@ XIV.- Administrar a los educandos, sin previa prescripción médica y consentimi
 
 XV.- Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-> <small>(REFORMADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-XVI.- Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos, y
+XVI.- Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para su atención, y
 
 > <small>(ADICIONADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1735,3 +1763,13 @@ Segundo.- La implementación de las modificaciones al calendario escolar surtir�
 Tercero.- La Secretaría de Educación Pública, previa opinión del Consejo Nacional de Participación Social en la Educación, emitirá los lineamientos a que se refieren los artículos 13, fracción III, y 51, segundo párrafo, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
 
 Cuarto.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE EDUCACIÓN, EN MATERIA DE EDUCACIÓN INCLUSIVA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las autoridades educativas instrumentarán los programas y acciones encaminados al cumplimiento de lo previsto en el presente Decreto, con base en lo dispuesto en el numeral 2 del artículo 4 de la Convención sobre los Derechos de las Personas con Discapacidad, y con los recursos que para el efecto se asignen en el Presupuesto de Egresos de la Federación y los presupuestos de egresos de las entidades federativas.
+
+Tercero. En los niveles de educación básica, normal, media superior y superior, las autoridades educativas, en el ámbito de su competencia, establecerán en un plazo no mayor a 180 días criterios generales para realizar los ajustes razonables que garanticen la educación inclusiva, con atención al principio de progresividad.
