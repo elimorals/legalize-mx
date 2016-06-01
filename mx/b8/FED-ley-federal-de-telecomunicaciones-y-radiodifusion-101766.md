@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-y-radiodifusion-101766"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-07-14"
-last_updated: "2015-12-17"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-07-14"
 ---
 # LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSION
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JUNIO DE 2016. EN EL D.O.F. SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -3065,9 +3067,11 @@ Tratándose de concursos que se transmitan a través de señales provenientes de
 
 Las transmisiones de carácter religioso se deben sujetar a lo establecido por la Ley de Asociaciones Religiosas y Culto Público y demás disposiciones en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 230.
 
-En sus transmisiones, las estaciones radiodifusoras de los concesionarios deberán hacer uso del idioma nacional. Lo anterior, sin perjuicio de que adicionalmente las concesiones de uso social indígena hagan uso de la lengua del pueblo originario que corresponda.
+En sus transmisiones, las estaciones radiodifusoras de los concesionarios podrán hacer uso de cualquiera de las leguas (sic) nacionales de conformidad con las disposiciones legales aplicables. Las concesiones de uso social indígena podrán hacer uso de la lengua del pueblo originario que corresponda.
 
 En caso de que las transmisiones sean en idioma extranjero, deberá utilizarse el subtitulaje o la traducción respectiva al español, en casos excepcionales, la Secretaría de Gobernación podrá autorizar el uso de idiomas extranjeros sin subtitulaje o traducción de conformidad con las disposiciones reglamentarias.
 
@@ -4390,3 +4394,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 230 DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
