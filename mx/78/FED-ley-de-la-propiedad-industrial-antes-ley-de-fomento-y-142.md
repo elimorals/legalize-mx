@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2012-04-09"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -131,11 +131,11 @@ IX.- Fungir como árbitro en la resolución de controversias relacionadas con el
 
 X.- Efectuar la publicación legal, a través de la Gaceta, así como difundir la información derivada de las patentes, registros, declaratorias de notoriedad o fama de marcas, autorizaciones y publicaciones concedidos y de cualesquiera otras referentes a los derechos de propiedad industrial que le confiere esta Ley, así como establecer las reglas generales para la gestión de trámites a través de medios de comunicación electrónica y su puesta en operación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
-Deberán publicarse en el ejemplar del mes inmediato posterior a su emisión, todas las resoluciones emitidas en los procedimientos de declaración administrativa que prevé esta Ley, así como las que desahoguen peticiones que tengan por objeto modificar las condiciones o alcance de patentes o registros concedidos;
+Las resoluciones definitivas emitidas en los procedimientos de declaración administrativa previstos en esta Ley, así como aquellas resoluciones que modifiquen las condiciones o alcance de patentes o registros concedidos, deberán ser publicadas en la Gaceta al mes inmediato posterior a la fecha de su emisión;
 
 XI.- Difundir, asesorar y dar servicio al público en materia de propiedad industrial;
 
@@ -201,9 +201,13 @@ IV.- Sendos representantes de las Secretarías de Relaciones Exteriores, de Agri
 
 Por cada representante propietario, será designado un suplente, quien asistirá a las sesiones de la Junta de Gobierno en ausencia del primero, con todas las facultades y derechos que a éste correspondan.
 
-> <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Artículo 7o BIS 1.- El Director General, o su equivalente, es el representante legal del Instituto y es designado a indicación del Ejecutivo Federal, a través del Secretario de Comercio y Fomento Industrial por la Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+###### Artículo 7 Bis 1.
+
+El Director General, o su equivalente, es el representante legal del Instituto y es designado a indicación del Ejecutivo Federal, a través del Secretario de Economía por la Junta de Gobierno.
 
 > <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -213,11 +217,13 @@ Artículo 7o BIS 2.- Corresponde al Director General del Instituto el ejercicio 
 
 El Director General del Instituto expedirá, mediante Acuerdo publicado en el Diario Oficial, las reglas y especificaciones de las solicitudes, así como los procedimientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares, incluyendo las reglas generales para la gestión de trámites a través de medios de comunicación electrónica.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 8o.
 
-El Instituto editará mensualmente la Gaceta, en la que se harán las publicaciones a que esta Ley se refiere y donde se dará a conocer cualquier información de interés sobre la propiedad industrial y las demás materias que se determinen. Los actos que consten en dicho órgano de información surtirán efectos ante terceros a partir del día siguiente de la fecha en que se ponga en circulación, misma que deberá hacerse constar en cada ejemplar.
+El Instituto editará la Gaceta, en la que se harán las publicaciones a que esta Ley se refiere y donde se dará a conocer cualquier información de interés sobre la propiedad industrial y las demás materias que se determinen. Los actos que consten en dicho órgano de información surtirán efectos ante terceros a partir del día siguiente de la fecha en que se ponga en circulación, misma que deberá hacerse constar en cada ejemplar.
 
 ## TITULO SEGUNDO. De las Invenciones, Modelos de Utilidad y Diseños Industriales
 
@@ -1349,13 +1355,31 @@ III.- Que dentro de los tres meses siguientes a la presentación de la solicitud
 
 IV.- (DEROGADA, D.O.F. 2 DE AGOSTO DE 1994)
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 119.
 
-Recibida la solicitud, se procederá a efectuar un examen de forma de ésta y de la documentación exhibida, para comprobar si se cumplen los requisitos que previene esta Ley y su reglamento.
+Recibida la solicitud, el Instituto procederá a su publicación en la Gaceta, a más tardar en los diez días hábiles siguientes a su recepción, y efectuará un examen de forma de la misma, así como de la documentación exhibida, para comprobar si se cumplen los requisitos que previene esta Ley y su reglamento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 120.
 
-(DEROGADO, D.O.F. 2 DE AGOSTO DE 1994)
+Cualquier persona que considere que la solicitud publicada se encuentra en alguno de los supuestos previstos en los artículos 4o. y 90 de esta Ley podrá oponerse a su registro, dentro del plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la publicación respectiva.
+
+La oposición deberá presentarse por escrito, acompañada de la documentación que se estime conveniente, así como del comprobante de pago de la tarifa correspondiente.
+
+La oposición a la solicitud no suspenderá el trámite, ni atribuirá a la persona que la hubiere presentado el carácter de interesado, tercero o parte. Tampoco prejuzgará sobre el resultado del examen de fondo que realice el Instituto sobre la solicitud.
+
+Transcurrido el plazo a que se refiere el primer párrafo del presente artículo, el Instituto publicará en la Gaceta, a más tardar en los diez días hábiles siguientes, un listado de las solicitudes en las cuales se haya presentado oposición al registro.
+
+El solicitante podrá manifestar por escrito lo que a su derecho convenga en relación con las causas, impedimentos o anterioridades citadas en la oposición, dentro del plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la publicación respectiva.
+
+La oposición así como las manifestaciones del solicitante podrán ser consideradas por el Instituto durante el examen de fondo de la solicitud.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1383,11 +1407,23 @@ El plazo adicional, se contará a partir del día siguiente al del vencimiento d
 
 La solicitud se tendrá por abandonada si el solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 123.
 
-Si al contestar el solicitante, dentro del plazo concedido, a efecto de subsanar el impedimento legal de registro, modifica o sustituye la marca, ésta se sujetará a un nuevo trámite, debiendo efectuar el pago de la tarifa correspondiente a una nueva solicitud y satisfacer los requisitos de los artículos 113 y 114 de esta Ley y los aplicables de su reglamento. En este supuesto se considerará como fecha de presentación aquella en la que se solicite el nuevo trámite.
+Si a efecto de subsanar el impedimento legal de registro, al contestar dentro del plazo concedido, el solicitante modifica o sustituye la marca, ésta se sujetará a un nuevo trámite.
+
+El nuevo trámite deberá:
+
+I.- Efectuar el pago de la tarifa correspondiente a una nueva solicitud;
+
+II.- Satisfacer los requisitos de los artículos 113 y 114 de esta Ley y los aplicables de su reglamento, y
+
+III.- Ser objeto de la publicación a la que se refiere el artículo 119 de esta Ley.
+
+En este supuesto, se considerará como fecha de presentación aquella en la que se solicite el nuevo trámite.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1402,6 +1438,12 @@ Si el impedimento se refiere a la existencia de uno o varios registros de marcas
 Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá el título.
 
 En caso de que el Instituto niegue el registro de la marca, lo comunicará por escrito al solicitante, expresando los motivos y fundamentos legales de su resolución.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+En su caso el Instituto comunicará por escrito al oponente de la solicitud los datos del título expedido o los de la resolución que negó el registro, según corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2009,9 +2051,11 @@ IV.- En los casos no comprendidos en la fracción II, mediante poder otorgado co
 
 En cada expediente que se tramite deberá acreditarse la personalidad del solicitante o promovente; sin embargo, bastará con una copia simple de la constancia de registro, si el poder se encuentra inscrito en el registro general de poderes establecido por el Instituto.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Para acreditar la personalidad en las solicitudes de registro de marca, marca colectiva, aviso comercial y publicación de nombre comercial, sus posteriores renovaciones, así como la inscripción de las licencias o transmisiones correspondientes, bastará que el mandatario manifieste por escrito en la solicitud, bajo protesta de decir verdad, que cuenta con facultades para llevar a cabo el trámite correspondiente, siempre y cuando se trate del mismo apoderado desde el inicio hasta la conclusión del trámite.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+Para acreditar la personalidad en las solicitudes de registro de marca, marca colectiva, aviso comercial y publicación de nombre comercial; sus renovaciones; inscripciones de licencias de uso o transmisiones; cambio de domicilio del solicitante o titular, o cambio de ubicación del establecimiento, bastará que en la solicitud el mandatario manifieste por escrito, bajo protesta de decir verdad, que cuenta con facultades para llevar a cabo el trámite correspondiente, siempre y cuando se trate del mismo apoderado desde su inicio hasta su conclusión.
 
 > <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2010)</small>
 
@@ -2795,7 +2839,7 @@ México, D. F., a 25 de junio de 1991.- Sen. Fernando Silva Nieto, Presidente.- 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de junio de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 2 DE AGOSTO DE 1994.
 
@@ -2906,3 +2950,9 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA PROPIEDAD INDUSTRIAL”.]
+
+Único.- El presente Decreto entrará en vigor a los 90 días naturales siguientes a su publicación en el Diario Oficial de la Federación.
