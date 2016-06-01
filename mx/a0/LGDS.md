@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2013-11-07"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,21 +20,47 @@ abbreviation: "LGDS"
 ---
 # LEY GENERAL DE DESARROLLO SOCIAL
 
-LEY GENERAL DE DESARROLLO SOCIAL
+LEY DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2013.
+TEXTO ORIGINAL.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
+Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 11 de enero de 2003.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+DOCTOR RICARDO MONREAL AVILA, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Que los CC. DIPUTADOS SECRETARIOS de la H. Quincuagésima Séptima Legislatura del Estado, se han servido dirigirme el siguiente:
 
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETO # 188
 
-DECRETO
+LA HONORABLE QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA
 
-"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+RESULTANDO PRIMERO.- En sesión ordinaria celebrada el 5 de diciembre del año en curso, se dio lectura al Pleno de esta Asamblea Popular, de la Iniciativa de Ley del Instituto de la Juventud del Estado de Zacatecas, que en ejercicio de las facultades que le confieren los artículos 60, fracción I de la Constitución Política del Estado y 132, fracción I de la Ley Orgánica del Poder Legislativo, presentó el Diputado HÉCTOR ZIRAHUÉN PASTOR ALVARADO.
+
+RESULTANDO SEGUNDO.- Por acuerdo del Presidente de la Mesa Directiva, y con fundamento en lo dispuesto por los artículos 58 fracción I y 71 de la Ley Orgánica del Poder Legislativo; 56 y 59 párrafo 1, fracciones I y VI del Reglamento General, la Iniciativa de referencia fue turnada para su estudio y dictamen a las Comisiones Legislativas de Puntos Constitucionales y de Deporte, a través del memorándum 1118 de conformidad con la siguiente:
+
+EXPOSICIÓN DE MOTIVOS:
+
+De acuerdo con las cifras del XII Censo Nacional de Población y Vivienda, el 39% de la población estatal está conformada por jóvenes menores de 30 años.
+
+A pesar de los variados problemas a los que se enfrenta la juventud, el dinamismo y ánimo de progreso de este sector poblacional se configura como factor de enorme importancia estratégica para el desarrollo del país, en general, y del Estado en particular.
+
+El Plan Estatal de Desarrollo 1998-2004 establece que hay que impulsar la participación de los jóvenes en organismos y actividades que apoyen el desarrollo armónico de sus potencialidades y amplíen sus oportunidades de educación, recreación, trabajo, deporte y expresión artística.
+
+Debe ser compromiso del Estado, tomar en cuenta los variados intereses y las diversas aptitudes de la prometedora población que se encuentra entre los 12 y los 29 años de edad, para lograr su desarrollo integral, a través de planes y programas que garanticen una visión futura de mejoría generacional.
+
+Para lograr este propósito, son necesarios espacios que permitan a los jóvenes tener un acceso más directo, que el que actualmente tienen, a la educación, a la salud, al empleo y a la cultura y por lo tanto es oportuno contar con un organismo de la administración pública estatal que sea interlocutor de los jóvenes y se encargue de planear, programar y desarrollar acciones especificas en materia de impulso a la juventud.
+
+A nivel federal se ha dado la separación de las áreas de juventud y deporte con la creación el 6 de enero de 1999 del Instituto Mexicano de la Juventud, aprobado por el Congreso de la Unión el 21 de diciembre de 1998 y que en nuestro Estado debe aprovechar las políticas nacionales para beneficio de la juventud.
+
+Con el propósito de dar pasos firmes en el mejoramiento de la prestación de los servicios públicos a la sociedad, la administración pública estatal requiere que sus estructuras orgánicas se actualicen y eleven constantemente su operatividad y capacidad funcional, sobre la base de una adaptación flexible y dinámica.
+
+En virtud de lo anterior, con esta Ley se crea en nuestra Entidad el Instituto de la Juventud del Estado de Zacatecas, para dar congruencia a las acciones que en esta materia, desarrolle el Estado con las políticas nacionales en beneficio de la juventud zacatecana.
+
+Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 86, 87, 90 y relativos del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
+
+DECRETA
+
+LEY DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
 ###### ARTÍCULO ÚNICO.
 
@@ -44,7 +70,11 @@ LEY GENERAL DE DESARROLLO SOCIAL
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-### Capítulo I. Del Objeto
+### CAPÍTULO PRIMERO. Disposiciones Generales
+
+###### Artículo 1º.
+
+Se crea el Instituto de la Juventud del Estado de Zacatecas, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, mismo que tendrá su domicilio en la Ciudad de Zacatecas, Zacatecas.
 
 ###### Artículo 1.
 
@@ -132,7 +162,57 @@ X. Padrón: Relación oficial de beneficiarios que incluye a las personas atendi
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS SUJETOS DEL DESARROLLO SOCIAL
 
-### Capítulo Único
+### CAPÍTULO SEGUNDO. Del Objeto y Atribuciones del Instituto
+
+###### Artículo 2º.
+
+El Instituto tendrá por objeto:
+
+I. Elaborar y operar programas integrales para organizar y brindar atención a los jóvenes del Estado de Zacatecas, procurando su integración y participación en las diversas áreas del desarrollo humano en materia laboral, política, de expresión cultural, deportivas, artísticas, educativas, científica, tecnológicas, de integración social, recreativas, que contribuyan a lograr su pleno desarrollo;
+
+II. Contribuir a la incorporación plena de los jóvenes al desarrollo del Estado, ejecutando una política estatal de juventud, con base en los objetivos y prioridades del Plan Estatal de Desarrollo; y
+
+III. Colaborar de manera conjunta con las instancias necesarias para promover el respeto irrestricto a los derechos de los jóvenes, así como la eliminación de cualquier forma de discriminación y erradicación de la violencia hacia ellos.
+
+###### Artículo 3º.
+
+Para el cumplimiento de su objeto el Instituto tendrá las siguientes atribuciones:
+
+I. Proponer al Ejecutivo Estatal el diseño de la política en el Estado en materia de atención a la juventud de acuerdo a los planes Nacional y Estatal de Desarrollo, ejecutar las acciones necesarias para su cumplimiento y evaluar sistemáticamente el impacto de su aplicación;
+
+II. Actuar como órgano de consulta y asesoría de las dependencias y entidades de las Administraciones públicas Estatal y Municipales, así como de los sectores social y privado, en la materia comprendida en esta Ley, cuando así lo requieran;
+
+III. Ejecutar la política nacional de la juventud, que permita incorporar plenamente a los jóvenes en el desarrollo del Estado; adecuándola a las características y necesidades de la región y de la Entidad;
+
+IV. Participar en el diseño de políticas públicas de atención integral a los jóvenes con las dependencias y entidades de la administración pública estatal y/o municipal, para efectos de que las impulsen y promuevan;
+
+V. Realizar, promover y difundir estudios e investigaciones de la problemática y características juveniles, a fin de establecer políticas encaminadas al mejoramiento de las condiciones de vida y a la búsqueda de alternativas para el desarrollo juvenil;
+
+VI. Registrar, alentar y apoyar la integración de organizaciones juveniles que promuevan la participación de los jóvenes en los distintos ámbitos de la sociedad;
+
+VII. Promover la creación y funcionamiento de los Institutos Municipales de la Juventud, dependientes directamente del Municipio;
+
+VIII. Auxiliar a las dependencias de la administración pública federal, estatal y a los gobiernos municipales, en la difusión y promoción de los servicios que prestan a la juventud cuando así lo requieran;
+
+IX. Desarrollar en coordinación con los organismos o entidades encargadas de la asistencia social en el Estado y los municipios, programas específicos para jóvenes con capacidades diferentes o que pertenezcan a grupos vulnerables;
+
+X. Implementar campañas preventivas de corrección y rehabilitación a jóvenes con problemas de adicciones, alcoholismo y tabaquismo, entre otros;
+
+XI. Recibir y canalizar propuestas, sugerencias e inquietudes de la juventud ante autoridades competentes y organizaciones encargadas de estos asuntos;
+
+XI. Recibir y canalizar propuestas, sugerencias e inquietudes de la juventud ante autoridades competentes y organizaciones encargadas de estos asuntos;
+
+XII. Estimular la participación activa de los jóvenes para que actúen en la promoción, atención y defensa de sus derechos;
+
+XIII. Promover la actualización y el fortalecimiento de los mecanismos jurídicos que aseguren el ejercicio eficaz de los derechos de los jóvenes;
+
+XIV. Promover la realización de espectáculos públicos, culturales, deportivos y de recreación y/o esparcimiento dirigidos a los jóvenes;
+
+XV. Establecer medios de reconocimiento público al mérito destacado de jóvenes zacatecanos;
+
+XVI. Solicitar asesoría de organizaciones nacionales e internacionales que apoyen proyectos dirigidos a los jóvenes; y
+
+XVII. Las demás que señalen otras disposiciones legales y el Estatuto Orgánico del Instituto.
 
 ###### Artículo 6.
 
@@ -152,83 +232,189 @@ Los municipios, los gobiernos de las entidades federativas y el Poder Ejecutivo 
 
 ###### Artículo 10.
 
-Los beneficiarios de los programas de desarrollo social tienen los siguientes derechos y obligaciones:
-
-I. Recibir un trato respetuoso, oportuno y con calidad;
-
-II. Acceder a la información necesaria de dichos programas, sus reglas de operación, recursos y cobertura;
-
-III. Tener la reserva y privacidad de la información personal;
-
-IV. Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta Ley;
-
-V. Recibir los servicios y prestaciones de los programas conforme a sus reglas de operación, salvo que les sean suspendidos por resolución administrativa o judicial debidamente fundada y motivada;
-
-VI. Presentar su solicitud de inclusión en el padrón;
-
-VII. Participar de manera corresponsable en los programas de desarrollo social;
-
-VIII. Proporcionar la información socioeconómica que les sea requerida por las autoridades, en los términos que establezca la normatividad correspondiente, y
-
-IX. Cumplir la normatividad de los programas de desarrollo social.
+El Instituto contará con un Director General que será designado por el Gobernador del Estado en los términos de lo establecido en el artículo 17 de la Ley Orgánica de la Administración Pública del Estado.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA NACIONAL DE DESARROLLO SOCIAL
 
-### Capítulo I. De los Objetivos
+### CAPÍTULO TERCERO. Patrimonio
+
+###### Artículo 4º.
+
+El patrimonio del Instituto estará constituido por:
+
+I. Los recursos financieros que para su funcionamiento se requieran y que le sean aportados por los Gobiernos Federal, Estatal y Municipal;
+
+II. Los bienes y demás ingresos que por cualquier título adquiera; y
+
+III. Los bienes muebles, inmuebles, obras, servicios y derechos que le asignen y transmitan los Gobiernos Federal, Estatal y Municipales o cualquier otra entidad pública, nacional o internacional.
 
 ###### Artículo 11.
 
-La Política Nacional de Desarrollo Social tiene los siguientes objetivos:
+Son facultades y atribuciones del Director General del Instituto:
 
-I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación y la exclusión social;
+I. Administrar y representar legalmente al Instituto;
 
-II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
+II. Fungir como representante del Ejecutivo del Estado en materia de juventud, ante los ámbitos de gobierno federal u municipal, organizaciones, privadas, sociales y organismos internacionales; así como en foros, convenciones, encuentros y demás reuniones en las que el Titular del Ejecutivo solicite su participación;
 
-III. Fortalecer el desarrollo regional equilibrado, y
+III. Elaborar anualmente el Proyecto del Programa Estatal de la Juventud, a efecto de someterlo a la consideración de la Junta Directiva para su aprobación;
 
-IV. Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los programas de desarrollo social.
+IV. Suscribir convenios de coordinación con las Administraciones Públicas Federales, Estatales y Municipales, así como organismos sociales y privados, en materia de su competencia;
 
-### Capítulo II. De la Planeación y la Programación
+V. Ejecutar los acuerdos tomados por la Junta Directiva; y fungir como secretario de la misma;
+
+VI. Dirigir el desarrollo de las actividades técnicas y administrativas del Instituto y dictar los acuerdos tendientes a dicho fin;
+
+VII. Acudir a las sesiones del Consejo Consultivo;
+
+VIII. Gestionar el otorgamiento de créditos y donaciones a favor del Instituto;
+
+IX. Nombrar, remover y, en su caso, reubicar, previa autorización de la Junta Directiva, al personal del Instituto;
+
+X. Presentar un informe anual sobre el desempeño de las funciones del Instituto a la Junta de Gobierno;
+
+XI. Las demás que le confieran esta Ley, su Estatuto Orgánico y demás disposiciones jurídicas aplicables.
+
+### CAPÍTULO CUARTO. De la Estructura Orgánica y Funciones del Instituto
+
+###### Artículo 5º.
+
+El Instituto contará con los siguientes órganos directivos para su funcionamiento:
+
+I. La Junta Directiva;
+
+II. La Dirección General; y
+
+III. El Consejo Consultivo.
+
+###### Artículo 6º.
+
+La Junta Directiva será la autoridad administrativa superior del Instituto, la cual se integrará de la siguiente manera:
+
+I. Un Presidente, que será el Titular del Poder Ejecutivo;
+
+II. Un Secretario, que será el Director General del Instituto;
+
+III. Siete Vocales que serán los Titulares de las siguientes dependencias:
+
+a). Secretaría de Finanzas;
+
+b). Secretaría de Planeación y Desarrollo Regional;
+
+c). Contraloría Interna del Gobierno del Estado;
+
+d). Servicios de Salud de Zacatecas;
+
+e). Secretaría de Desarrollo Económico;
+
+f). Secretaría de Educación y Cultura;
+
+g). Instituto Zacatecano de la Cultura "Ramón López Velarde".
+
+IV. Seis Vocales que serán jóvenes destacados en distintos ámbitos de la sociedad, a propuesta de los representantes de las áreas de juventud de cada Partido Político y Agrupación Política Nacional con representación en el Estado, así como de los Organismos de la Sociedad Civil y de las Asociaciones u Organismos Juveniles Ciudadanos debidamente constituidos.
+
+El Estatuto Orgánico del Instituto que al efecto se expida, establecerá los mecanismos para la selección de estos representantes.
+
+Los miembros de la Junta contarán con voz y voto en las sesiones de la misma.
+
+Por cada Vocal titular habrá un suplente que lo sustituirá en sus ausencias, los cargos referentes a los titulares de las Dependencias y Entidades Públicas durarán el tiempo que dure su encargo. Los representantes de las Asociaciones y Organismos durarán en su cargo tres años pudiendo ser reelectos para otro periodo igual.
+
+Los cargos de los miembros de la Junta Directiva serán honoríficos, por lo que no recibirán emolumento o compensación alguna por su desempeño como Vocales.
+
+###### Artículo 7º.
+
+La Junta Directiva sesionará en forma ordinaria, por lo menos una vez cada tres meses y de manera extraordinaria, las veces que sean necesarias en cualquier tiempo para la eficaz marcha del Instituto, previa convocatoria de la Presidencia.
+
+Las sesiones de la Junta Directiva se sujetarán a las bases siguientes:
+
+I. Para la validez de las sesiones, se requerirá que la convocatoria haya sido suscrita por el Presidente y que hubiesen asistido la mitad más uno de sus miembros. En el caso de no existir quórum, el Presidente emitirá una segunda convocatoria, y de la cual la sesión será válida con los miembros que asistan.
+
+II. El Presidente será el encargado de presidir la sesión, dirigirá los debates, declarará cerrada la discusión cuando así lo estime procedente y, finalmente, someterá a votación los asuntos correspondientes.
+
+III. Los acuerdos de la Junta, se tomarán por mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate. De cada sesión de la Junta se levantará el acta correspondiente.
+
+###### Artículo 8º.
+
+La Junta Directiva tendrá las siguientes facultades y obligaciones:
+
+I. Definir los lineamientos del Programa Operativo Anual del Instituto, sujetándose a lo establecido en el Plan Estatal de Desarrollo y al Programa Estatal de la Juventud;
+
+II. Autorizar los programas y presupuestos del Instituto, así como sus modificaciones;
+
+III. Expedir y modificar el Estatuto Orgánico del Instituto, así como los manuales de organización, procedimientos y servicios;
+
+IV. Examinar y aprobar, en su caso, los estados financieros y el informe anual de actividades que les presente el Director General;
+
+V. Aprobar la estructura organizacional interna que más convenga para la consecución de los fines del Organismo;
+
+VI. Designar y remover, a propuesta del Director General, a los servidores públicos de los dos niveles administrativos inferiores al de aquél, así como concederles licencias; y
+
+VII. Las demás que le confiere esta ley y otras disposiciones aplicables.
+
+###### Artículo 9º.
+
+El Director del Instituto será nombrado y removido libremente por el titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 12.
 
-En la planeación del desarrollo se deberá incorporar la Política Nacional de Desarrollo Social de conformidad con esta Ley y las demás disposiciones en la materia.
+El Consejo Consultivo es un órgano de consulta y promoción de los programas y políticas destinados a la protección, bienestar y desarrollo integral de la juventud.
 
 ###### Artículo 13.
 
-La planeación del desarrollo social incluirá los programas municipales; planes y programas estatales; programas institucionales, regionales y especiales; el Programa Nacional de Desarrollo Social; y el Plan Nacional de Desarrollo.
+El Consejo Consultivo se integrará por:
+
+I. Un Presidente, que será el Director General del Instituto;
+
+II. Un representante de la Legislatura del Estado;
+
+III. Un representante de los alumnos de Instituciones de educación superior en el Estado;
+
+IV. Un representante del área de la juventud de cada partido político con registro en el Estado, así como de las Agrupaciones Políticas Nacionales con representación en la entidad; y
+
+V. Un representante de las organizaciones juveniles formalmente constituidas que desarrollen actividades a favor de éste sector, a invitación expresa del Presidente del Consejo Consultivo.
+
+Cada uno de los integrantes del Consejo Consultivo, contará con un suplente, que lo sustituirá en sus ausencias y tendrá las mismas obligaciones que el titular.
 
 ###### Artículo 14.
 
-La Política Nacional de Desarrollo Social debe incluir, cuando menos, las siguientes vertientes:
+El Consejo Consultivo tendrá las siguientes atribuciones:
 
-I. Superación de la pobreza a través de la educación, la salud, la alimentación, la generación de empleo e ingreso, autoempleo y capacitación;
+I. Colaborar y servir de órgano de consulta permanente y efectivo para el establecimiento de políticas sociales en materia de juventud que se establezcan en el Estado;
 
-II. Seguridad social y programas asistenciales;
+II. Proponer acciones en educación de la juventud;
 
-III. Desarrollo Regional;
+III. Contribuir a que los jóvenes participen de manera activa en los programas que tiendan a satisfacer sus necesidades básicas y desarrollar sus capacidades;
 
-IV. Infraestructura social básica, y
+IV. Elaborar estudios e investigaciones en la materia;
 
-V. Fomento del sector social de la economía.
+V. Participar en la evaluación de políticas públicas en materia de juventud;
+
+VI. Proponer al Director General del Instituto planes y proyectos para el cumplimiento de su objeto; y
+
+VII. Las demás que señale esta Ley, su Estatuto Orgánico y demás disposiciones que resulten aplicables.
 
 ###### Artículo 15.
 
-La Elaboración del Programa Nacional de Desarrollo Social estará a cargo del Ejecutivo Federal en los términos y condiciones de la Ley de Planeación.
+Los Municipios del Estado, podrán establecer en su ámbito, los Institutos Municipales de la Juventud, como organismos para atender dentro de su jurisdicción, los problemas de la juventud.
 
 ###### Artículo 16.
 
-Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal harán del conocimiento público cada año sus programas operativos de desarrollo social, a través de los medios más accesibles a la población, en un plazo máximo de 90 días a partir de la aprobación de sus presupuestos de egresos anuales respectivos.
+Los Institutos Municipales de la Juventud, tendrán las siguientes atribuciones:
+
+I. Coordinar en su ámbito de competencia, las acciones inherentes al Instituto;
+
+II. Proponer al Instituto, la elaboración y desarrollo de programas que permitan la realización de su objeto; y
+
+III. Las demás que se establezcan en el Estatuto de la presente ley.
 
 ###### Artículo 17.
 
-Los municipios serán los principales ejecutores de los programas, recursos y acciones federales de desarrollo social, de acuerdo a las reglas de operación que para el efecto emita el Ejecutivo Federal, excepto en los casos expresamente asignados, legal o administrativamente, a una dependencia, entidad u organismo federal, estatal o del Distrito Federal.
+El Órgano de vigilancia del Instituto, estará integrado por un Comisario Público propietario y un suplente, mismos que serán designados por un Contralor Interno del Gobierno del Estado, en los términos de lo dispuesto en la Ley de las Entidades Públicas Paraestatales del Estado y el Reglamento Interior de la propia Contraloría.
 
-### Capítulo III. Del Financiamiento y el Gasto
+### CAPÍTULO QUINTO. Del Consejo Consultivo
 
 ###### Artículo 18.
 
-Los programas, fondos y recursos destinados al desarrollo social son prioritarios y de interés público, por lo cual serán objeto de seguimiento y evaluación de acuerdo con esta Ley; y no podrán sufrir disminuciones en sus montos presupuestales, excepto en los casos y términos que establezca la Cámara de Diputados al aprobar el Presupuesto de Egresos de la Federación.
+Las relaciones de trabajo entre el Instituto y sus trabajadores se regirán por la Ley del Servicio Civil del Estado.
 
 ###### Artículo 19.
 
@@ -296,7 +482,7 @@ Con el propósito de asegurar la equidad y eficacia de los programas de desarrol
 
 La publicidad y la información relativa a los programas de desarrollo social deberán identificarse con el Escudo Nacional en los términos que establece la ley correspondiente e incluir la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos al desarrollo social".
 
-### Capítulo IV. De las Zonas de Atención Prioritaria
+### CAPÍTULO SEXTO. De los Institutos Municipales de la Juventud
 
 ###### Artículo 29.
 
@@ -324,7 +510,7 @@ La Declaratoria tendrá los efectos siguientes:
 
 Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal podrán convenir acciones y destinarán recursos para la ejecución de programas especiales en estas zonas.
 
-### Capítulo V. Del Fomento del Sector Social de la Economía
+### CAPÍTULO SÉPTIMO. Del Órgano de Vigilancia
 
 ###### Artículo 33.
 
@@ -338,7 +524,7 @@ Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal
 
 El Gobierno Federal y los gobiernos de las entidades federativas podrán aportar recursos como capital de riesgo para dar viabilidad a las empresas sociales y destinar recursos para apoyar a personas, familias y organizaciones sociales cuyo objeto sea el financiamiento de proyectos de desarrollo social.
 
-### Capítulo VI. De la Definición y Medición de la Pobreza
+### CAPÍTULO OCTAVO. Del Régimen Laboral
 
 ###### Artículo 36.
 
@@ -754,32 +940,36 @@ La administración del Consejo estará a cargo de un Comité Directivo, que pres
 
 ## TRANSITORIOS
 
-PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO.- El Titular del Poder Ejecutivo Federal expedirá el reglamento de esta Ley en un plazo no mayor de 90 días naturales a partir de su entrada en vigor.
+SEGUNDO.- Para el inicio de las actividades del Instituto, la Junta Directiva deberá quedar integrada a más tardar dentro de los treinta días siguientes a la publicación del presente Decreto, debiéndose nombrar al Director dentro de los veinte días siguientes a la integración de la misma.
 
-TERCERO.- En un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberán quedar constituidos e instalados el Consejo Nacional de Evaluación de la Política de Desarrollo Social, la Comisión Nacional, la Comisión Intersecretarial y el Consejo Consultivo.
+TERCERO.- A partir de la entrada en vigor del presente Decreto, deberán realizarse dentro de los sesenta días siguientes, los cambios que resulten necesarios a la Ley del Deporte del Estado de Zacatecas en armonía con esta ley.
 
-CUARTO.- Para el cumplimiento de su objeto, el Consejo Nacional de Evaluación deberá sujetarse a criterios de austeridad y eficiencia.
+CUARTO.- A la entrada en vigor de este Decreto, deberán realizarse dentro de los sesenta días siguientes, las modificaciones necesarias a la Ley Orgánica de la Administración Pública del Estado de Zacatecas, para contemplar al Instituto de la Juventud del Estado de Zacatecas, como un organismo descentralizado integrante de la administración pública estatal.
 
-QUINTO.- Las comisiones de Desarrollo Social, y de Hacienda y Crédito Público de la Cámara de Diputados deberán revisar la distribución de los fondos relativos al desarrollo social contenidos en el Capítulo V de la Ley de Coordinación Fiscal, en un plazo no mayor a 90 días y, en su caso, recomendar las modificaciones que se consideren pertinentes.
+QUINTO.- Se derogan las disposiciones que contravengan a la presente Ley.
 
-SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEXTO.- El Ejecutivo del Estado, fijará la previsión presupuestal, para que en un plazo de sesenta días naturales el Instituto pueda iniciar sus operaciones.
 
-México, D.F., a 9 de diciembre de 2003.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Amalín Yabur Elías, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas".
+SÉPTIMO.- El Instituto expedirá su Estatuto Orgánico en un plazo no mayor de noventa días naturales a partir de la fecha en que tenga lugar la primera sesión de la Junta Directiva.
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+OCTAVO.- Los derechos laborales que pudieren verse afectados por virtud de lo dispuesto en este decreto, serán respetados conforme a la ley.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+COMUNIQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACION Y PUBLICACION.
 
-D.O.F. 1 DE JUNIO DE 2012.
+DADO en la Sala de Sesiones de la Honorable Quincuagésima Séptima Legislatura del Estado a los veintisiete días del mes de diciembre del año dos mil dos.- Diputado Presidente.- DIP. JOEL HERNANDEZ PEÑA.- Diputados Secretarios.- DIP. J. JESUS URIBE RODRIGUEZ y DIP. CARLOS E. HERNANDEZ ESCOBEDO.- Rúbricas.
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima publique y circule.
 
-P.O. 8 DE ABRIL DE 2013
+DADO en el Despacho del Poder Ejecutivo del Estado, a los treinta días del mes de Diciembre del año dos mil dos.
 
-ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+"SUFRAGIO EFECTIVO. NO REELECCION"
 
-D.O.F. 7 DE NOVIEMBRE DE 2013.
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
 
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DR. RICARDO MONREAL AVILA
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. ARTURO NAHLE GARCIA.
