@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-reinsercion-social-y-seguimiento-de-medidas-69816"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2014-12-10"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -34,6 +34,8 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN LA DISPOSICIÓN TRANSITORIA TERCERA DEL DECRETO NÚMERO QUINIENTOS OCHENTA Y TRES, PUBLICADO EN EL P.O. 1 DE JUNIO DE 2016, CUANDO LA LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES HAGA REFERENCIA A LA "UNIDAD DE REINSERCIÓN SOCIAL", DEBE ENTENDERSE QUE SE REFIERE A LA "COORDINACIÓN ESTATAL DE REINSERCIÓN SOCIAL".]</small>
 
 LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES.
 
@@ -261,13 +263,15 @@ Las resoluciones emitidas por los Jueces de Ejecución de Sanciones respecto a l
 
 ### CAPÍTULO TERCERO. DE LA UNIDAD DE REINSERCIÓN SOCIAL
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 14.
 
-De la integración.
+De la integración
 
-La Unidad de Reinserción Social estará integrada por las áreas necesarias para su adecuado funcionamiento en el marco de la Reinserción Social, normada en el artículo 18 Constitucional.
+La Coordinación Estatal de Reinserción Social estará integrada por las áreas necesarias para su adecuado funcionamiento en el marco de la Reinserción Social, normada en el artículo 18 Constitucional.
+
+Esta Coordinación, contara con una Unidad de Asuntos Internos y un Consejo de Honor y Justicia, mismos que realizarán las funciones y atribuciones establecidas por la Ley del Sistema de Seguridad Pública del Estado de Morelos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -2272,3 +2276,15 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de Morelos, que emita el Congreso del Estado, quedarán abrogados el Código de Procedimientos Penales en el Estado Libre y Soberano de Morelos, publicado en el Periódico Oficial número 1180, segunda sección de fecha treinta y uno de marzo de mil novecientos cuarenta y seis, el Código de Procedimientos Penales para el Estado de Morelos, publicado en el Periódico Oficial número 3820 tercera sección el día nueve de octubre de mil novecientos noventa y seis y el Código de Procedimientos Penales del Estado de Morelos, aprobado el día trece de noviembre del dos mil siete y publicado en el Periódico Oficial del Gobierno del Estado de Morelos "Tierra y Libertad", número 4570 de fecha veintidós de noviembre del dos mil siete, así mismo, se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
+
+P.O. 1 DE JUNIO DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO QUINIENTOS OCHENTA Y TRES POR EL QUE SE REFORMAN LOS ARTÍCULOS 163 PÁRRAFO PRIMERO; 164, FRACCIONES I, II, Y III; Y 176 PRIMER PÁRRAFO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS Y SE REFORMA EL ARTÍCULO 14 DE LA LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+SEGUNDA.- Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Cuando la Ley de Reinserción Social y Seguimiento de Medida (sic) Cautelares haga referencia a la Unidad de Reinserción Social, debe entenderse que se refiere a la Coordinación Estatal de Reinserción Social.
+
+CUARTA.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que sean contrarias a lo establecido por el presente decreto.
