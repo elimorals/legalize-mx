@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-obras-publicas-del-8321
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-07"
-last_updated: "2011-10-07"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS DEL ESTADO DE NUEVO LEON
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016 (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de octubre de 2011.
 
@@ -576,3 +578,25 @@ JAVIER TREVIÑO CANTÚ
 EL C. SECRETARIO DE OBRAS PÚBLICAS
 
 LUIS GERARDO MARROQUIN SALAZAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Obras Públicas publicado en el Periódico Oficial del Estado en techa 07 de octubre de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que realice los ajustes o transferencias presupuestales que sean necesarias, de acuerdo a lo dispuesto en el presente Reglamento, sujeto a la programación y suficiencia presupuestaria que éste determine, de acuerdo a la Ley de Egresos del ejercicio correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Contraloría y Transparencia Gubernamental para que lleve a cabo el proceso de entrega-recepción correspondiente.
