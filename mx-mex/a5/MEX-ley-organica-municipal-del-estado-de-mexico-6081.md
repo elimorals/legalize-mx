@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2016-02-03"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2016.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 3 DE FEBRERO DE 2016.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 1 DE JUNIO DE 2016.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -573,9 +573,9 @@ Para lo cual los Ayuntamientos deberán expedir o reformar, en su caso, en la te
 
 Los ayuntamientos sesionarán cuando menos una vez cada ocho días o cuantas veces sea necesario en asuntos de urgente resolución, a petición de la mayoría de sus miembros y podrán declararse en sesión permanente cuando la importancia del asunto lo requiera.
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+(REFORMADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 1 DE JUNIO DE 2016)
 
-Las sesiones de los ayuntamientos serán públicas y podrán trasmitirse a través de la página de internet del municipio.
+Las sesiones de los ayuntamientos serán públicas y deberán transmitirse a través de la página de internet del municipio.
 
 Las sesiones de los ayuntamientos se celebrarán en la sala de cabildos; y cuando la solemnidad del caso lo requiera, en el recinto previamente declarado oficial para tal objeto.
 
@@ -1248,6 +1248,10 @@ VIII. Separarse del ejercicio de sus funciones, en los términos de esta ley.
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 IX. Nombrar, contratar o promover directamente o por interpósita persona como servidores públicos a personas con quienes tengan parentesco consanguíneo hasta el cuarto grado, por afinidad o civil. Tampoco pueden recibir propuestas o celebrar contratos relativos a la adquisición, enajenación y arrendamiento de bienes y la contratación de servicios con personas con quienes tenga interés personal, familiar o de negocios, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.G. 1 DE JUNIO DE 2016)</small>
+
+X. Dejar de enterar en tiempo y forma las cuotas y/o aportaciones obligadas de los Servidores Públicos al Régimen de Seguridad Social.
 
 ### CAPITULO SEGUNDO. De los Síndicos
 
@@ -4408,3 +4412,11 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NÚMERO 86.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTICULO 73 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS, SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII AL ARTICULO 15 DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 51 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
