@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2016-05-02"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -345,11 +345,13 @@ IV. Las demás que establezca el reglamento interior.
 
 ### Capítulo VI. Incompatibilidades, Excusas, Licencias, Suplencias y Renuncias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 25.
 
 Incompatibilidades
 
-Las funciones de los comisionados son incompatibles con el desempeño de cualquier otro empleo, cargo o comisión, con excepción de los que desempeñen en instituciones docentes, científicas o de beneficencia siempre que no impidan el correcto desempeño de su cargo.
+Las funciones de los comisionados son incompatibles con el desempeño de cualquier otro empleo, cargo o comisión, con excepción de los no remunerados que desempeñen en instituciones docentes, científicas o de beneficencia siempre que no impidan el correcto desempeño de su cargo.
 
 Los demás servidores públicos que laboren en el instituto no podrán trabajar en actividades que sean incompatibles con el objeto del instituto, por lo que el reglamento interior especificará en qué casos el personal estará impedido para ejercer otras actividades.
 
@@ -683,6 +685,8 @@ III. Se refiere a alguna de sus facultades, competencias o funciones; cuando est
 
 ### Capítulo III. Unidades de Transparencia
 
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 54.
 
 Objeto
@@ -721,7 +725,7 @@ Los integrantes del comité de transparencia tendrán acceso a la información p
 
 Objeto
 
-La unidad de transparencia es el órgano interno del sujeto obligado encargado de la atención al público en materia de acceso a la información pública, y el vínculo entre los sujetos obligados y los solicitantes, además tendrá la responsabilidad de entregar o negar la información solicitada y realizar las gestiones necesarias a fin de cumplir con las obligaciones establecidas.
+La unidad de transparencia es el órgano interno del sujeto obligado encargado de la atención al público en materia de acceso a la información pública, y el vínculo entre el sujeto obligado y los solicitantes, además tendrá la responsabilidad de recibir y dar trámite a las solicitudes de acceso a la información y realizar las gestiones necesarias a fin de cumplir con las obligaciones de transparencia establecidas en esta ley.
 
 ###### Artículo 60.
 
@@ -943,6 +947,10 @@ No obstante lo anterior, en relación con la fracción I del artículo 150 de la
 
 De igual forma, el plazo a que se refiere la fracción VII del artículo 150 de la Ley general para emitir la resolución no podrá exceder de diez días.
 
+> <small>(ADICIONADO, D.O. 1 DE JUNIO DE 2016)</small>
+
+En los casos que no se proporcione un domicilio o medio para recibir notificaciones o, en su defecto, no haya sido posible practicar la notificación, se realizará por estrados del instituto.
+
 ###### Artículo 84.
 
 Facultad de atracción
@@ -1139,33 +1147,45 @@ Notificación de emplazamiento
 
 El procedimiento sancionatorio se iniciará con la notificación que efectúe el instituto al presunto infractor del sujeto obligado que carece de la calidad de servidor público, en su domicilio.
 
-La cédula de notificación deberá describir los hechos o imputaciones que motivaron el inicio del procedimiento sancionatorio y tendrá por efecto emplazar al presunto infractor para que en un término de quince días, contados a partir de que surta efectos la notificación, manifieste lo que a su derecho convenga y, en su caso, rinda las pruebas que estime convenientes.
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
+
+La cédula de notificación deberá describir los hechos o imputaciones que motivaron el inicio del procedimiento sancionatorio y tendrá por efecto emplazar al presunto infractor para que en un término de diez días, contados a partir de que surta efectos la notificación, manifieste lo que a su derecho convenga y, en su caso, rinda las pruebas que estime convenientes.
 
 Cuando el presunto infractor no comparezca al procedimiento dentro del término establecido en el párrafo anterior, el instituto resolverá, de inmediato, con los elementos de convicción que disponga, sin que pueda exceder de treinta días.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 103.
 
 Pruebas
 
-El instituto una vez vencido el término del emplazamiento emitirá, dentro de los cinco días siguientes, el acuerdo de admisión de las pruebas que estime pertinentes.
+El instituto emitirá el acuerdo de admisión de las pruebas que estime pertinentes, dentro de los tres días siguientes al del vencimiento del término del emplazamiento, el cual se notificará al presunto infractor dentro de los tres días siguientes.
 
 Se admitirá toda clase de pruebas, salvo la confesional, mediante la absolución de posiciones y las que sean contrarias a la moral, el derecho o las buenas costumbres.
 
-El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plazo no mayor de cinco días contados a partir de la notificación del acuerdo de admisión.
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
+
+El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plazo no mayor de tres días contados a partir de la notificación del acuerdo de admisión.
+
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 104.
 
 Alegatos
 
-Una vez concluido el plazo otorgado para el desahogo de las pruebas el instituto notificará esta circunstancia al presunto infractor y se le hará saber en la propia notificación el derecho que le asiste para que, de considerarlo necesario, presente sus alegatos dentro de los cinco días siguientes contados a partir de la notificación.
+Desahogadas en su caso las pruebas, se notificará al presunto infractor dentro de los tres días siguientes, que cuenta con cinco días contados a partir del día siguiente de que surta efectos la notificación, para presentar sus alegatos por escrito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 105.
 
 Resolución
 
-Al vencimiento del plazo otorgado para la presentación de los alegatos se decretará el cierre de instrucción y el instituto resolverá, en definitiva, dentro de los diez días siguientes.
+Al término de dicho plazo se cerrará la instrucción y el instituto deberá emitir una resolución en un plazo no mayor de tres días.
 
-Por acuerdo indelegable del pleno, cuando haya causa justificada, podrá ampliarse, por una sola vez y hasta por un periodo igual, el plazo de resolución.
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
+
+Por acuerdo indelegable del pleno, cuando haya causa justificada, podrá ampliarse por una sola vez y hasta por un periodo igual, el plazo de resolución, siempre que no se exceda el plazo de los treinta días contados a partir del inicio del procedimiento sancionador.
 
 El instituto deberá notificar la resolución al presunto infractor dentro de los tres días siguientes a su emisión y la hará pública dentro de los diez días siguientes contados a partir de su notificación.
 
@@ -1291,13 +1311,13 @@ Décimo Segundo. Remisión de listados al instituto
 
 Para efectos de lo dispuesto en el artículo anterior, por única ocasión, los sujetos obligados deberán remitir al instituto, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor de este decreto, el listado de los sindicatos y las personas físicas o morales a las que les asignen recursos o, en términos de las disposiciones aplicables, les instruyan ejecutar un acto de autoridad.
 
-Décimo Tercero. Notificación a cargo del fideicomitente único de la administración pública estatal
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
 
-La Secretaría de Administración y Finanzas, en su carácter de fideicomitente único de la Administración Pública estatal, deberá notificar, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este decreto, a las dependencias y entidades responsables de coordinar la operación de fideicomisos o fondos públicos, la responsabilidad derivada del artículo 26 de la Ley General de Transparencia y Acceso a la Información Pública y 39, párrafo segundo, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
+Décimo Tercero: Notificación a cargo del fideicomitente único de la administración pública estatal
 
-Décimo Cuarto. Clasificación de la información
+La Secretaría de Administración y Finanzas, en su carácter de fideicomitente único de la Administración Pública estatal, deberá notificar, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este decreto, a las dependencias y entidades responsables de coordinar la operación de fideicomisos o fondos públicos, la responsabilidad derivada del artículo 26 de la Ley General de Transparencia y Acceso a la Información Pública y 51, párrafo segundo, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
 
-Los sujetos obligados deberán clasificar su información en un plazo máximo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+Décimo Cuarto. (DEROGADO, D.O. 1 DE JUNIO DE 2016)
 
 Décimo Quinto. Capacitación
 
@@ -1326,3 +1346,13 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 17 DE MARZO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 395/2016 POR EL QUE SE MODIFICAN LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y EL DECRETO 388/2016 POR EL QUE SE EMITE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
