@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2015-04-22"
+last_updated: "2016-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -2621,11 +2621,11 @@ Las sanciones que determine el Consejo de Honor y Justicia o la instancia corres
 
 En la Procuraduría, existirá una unidad administrativa que fungirá como órgano de control interno, investigación, vigilancia, supervisión y evaluación técnica-jurídica, denominada Visitaduría General, la cual, previa la investigación de los hechos denunciados, y en su caso, el desahogo del procedimiento administrativo correspondiente, someterá al Consejo de Honor y Justicia que para tal efecto se constituya, la propuesta de sanción derivada del procedimiento previsto en su propia Ley Orgánica en concordancia con lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 163.
 
-En la Comisión Estatal de Seguridad Pública y en las áreas de Seguridad Pública Municipal, existirá una Unidad de Asuntos Internos, que estará bajo el mando inmediato de los Titulares de las Instituciones de Seguridad Pública respectivos.
+En la Comisión Estatal de Seguridad Pública, en la Coordinación Estatal de Reinserción Social y en las demás áreas de Seguridad Pública Estatal y Municipales existirá una Unidad de Asuntos Internos, que estará bajo el mando inmediato de sus Titulares.
 
 Serán observadores y conocerán de aquellas actuaciones que ameriten algún reconocimiento o sanción para los elementos de las instituciones policiales, ya sea de oficio o a petición de algún mando.
 
@@ -2633,13 +2633,17 @@ Serán observadores y conocerán de aquellas actuaciones que ameriten algún rec
 
 Las Unidades de Asuntos Internos tendrán facultades para iniciar los procedimientos a que se refiere el artículo anterior, en los siguientes casos:
 
-I. Cuando reciban quejas y denuncias recibidas por cualquier medio, interpuestas contra los elementos de las instituciones de policiales;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-II. Cuando por su competencia o a petición del superior jerárquico inmediato se considere que el elemento infringió los principios de actuación, obligaciones ó deberes establecidos en la presente Ley y otros ordenamientos legales;
+I. Cuando se reciban quejas y denuncias por cualquier medio, interpuestas contra los elementos de las instituciones policiales;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-III. Aquellos que instruya el Comisionado Estatal o el titular de Seguridad Pública Municipal, en su caso, incluidos los que correspondan al cumplimiento de una recomendación emitida por las Comisiones Estatal o Nacional de Derechos Humanos, aceptada por el propio titular, y
+II. Cuando el superior jerárquico inmediato considere que el elemento infringió los principios de actuación, obligaciones ó deberes establecidos en la presente Ley u otros ordenamientos legales;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+III. Aquellos que instruya el Comisionado Estatal, el Coordinador Estatal de Reinserción Social o el titular de Seguridad Pública Municipal en su caso, incluidos los que correspondan al cumplimiento de una recomendación emitida por las Comisiones Estatal o Nacional de Derechos Humanos, aceptada por el propio titular, y
 
 IV. Por acuerdos emitidos de los Consejos Municipales y Estatal de Seguridad Pública.
 
@@ -2725,11 +2729,13 @@ La Visitaduría General y las Unidades de Asuntos Internos, ejecutarán las reso
 
 ### CAPÍTULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 176.
 
-La Fiscalía, la Comisión Estatal de Seguridad Pública y las áreas de Seguridad Pública Municipales, contarán con un Consejo de Honor y Justicia, el cual conocerá y resolverá los asuntos que le sean turnados por la Visitaduría y las Unidades de Asuntos Internos; una vez que se haya agotado todo el procedimiento establecido en esta Ley y dentro de los plazos establecidos por la misma.
+La Fiscalía, la Comisión Estatal de Seguridad Pública, la Coordinación Estatal de Reinserción Social y las áreas de Seguridad Pública Estatal y Municipales, contarán con un Consejo de Honor y Justicia, el cual conocerá y resolverá los asuntos que le sean turnados por la Visitaduría y las Unidades de Asuntos Internos, una vez que se haya agotado todo el procedimiento establecido en esta Ley y dentro de los plazos establecidos por la misma.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
 
 El Consejo de Honor y Justicia confirmará, modificará o negará la propuesta de sanción, por unanimidad o mayoría simple de sus miembros, respecto de los siguientes asuntos:
 
@@ -3136,3 +3142,15 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS OCHENTA Y TRES POR EL QUE SE REFORMAN LOS ARTÍCULOS 163 PÁRRAFO PRIMERO; 164, FRACCIONES I, II Y III; Y 176 PRIMER PÁRRAFO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS Y SE REFORMA EL ARTÍCULO 14 DE LA LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS".]
+
+PRIMERA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+SEGUNDA.- Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Cuando la Ley de Reinserción Social y Seguimiento de Medida (sic) Cautelares haga referencia a la Unidad de Reinserción Social, debe entenderse que se refiere a la Coordinación Estatal de Reinserción Social.
+
+CUARTA.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que sean contrarias a lo establecido por el presente decreto.
