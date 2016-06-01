@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-autoriza-la-suscripcion-del-convenio-1149
 country: "mx"
 rank: "decreto"
 publication_date: "1986-01-10"
-last_updated: "1987-01-23"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114903&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1985-12-16"
 
 DECRETO POR EL QUE SE AUTORIZA LA SUSCRIPCIÓN DEL CONVENIO CONSTITUTIVO DE LA CORPORACIÓN INTERAMERICANA DE INVERSIONES Y QUE ESTABLECE BASES PARA SU EJECUCIÓN EN MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 23 DE ENERO DE 1987.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Decreto publicado en el Diario Oficial, el viernes 10 de enero de 1986.
 
@@ -79,9 +77,11 @@ En ningún caso los tribunales dictarán providencias precautorias sobre los bie
 
 Los funcionarios y empleados de la Corporación Interamericana de Inversiones, así como los bienes de tal Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las inmunidades y privilegios a que se refiere el Convenio Constitutivo de la Corporación Interamericana de Inversiones.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 9o.
 
-El Gobierno Federal requerirá la autorización expresa del Congreso de la Unión para aceptar enmiendas al Convenio respectivo y modificaciones a la suscripción de México de las acciones o partes sociales a la Corporación Interamericana de Inversiones
+El Gobierno Federal requerirá la aprobación de la Cámara de Senadores del Congreso de la Unión, de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, para la terminación, denuncia, suspensión, modificación, enmienda, retiro de reservas y formulación de declaraciones interpretativas del Convenio Constitutivo de la Corporación Interamericana de Inversiones.
 
 ## TRANSITORIO
 
@@ -90,3 +90,11 @@ El Gobierno Federal requerirá la autorización expresa del Congreso de la Unió
 México, D. F., a 13 de diciembre de 1985. Fernando Ortiz Arana, Dip. Presidente.-Rúbrica.- Socorro Díaz Palacios, Sen. Presidenta. Rúbrica.-Reyes Rodolfo Flores Zaragoza, Dip. Secretario.- Rúbrica.- Guillermo Mercado Romero, Sen. Secretario.- Rúbrica."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.-El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.-Rúbrica.- P. A. del Secretario de Hacienda y Crédito Público: El Subsecretario Encargado del Despacho, Francisco Suarez Dávila.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rubrica. El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 9o. DEL DECRETO POR EL QUE SE AUTORIZA LA SUSCRIPCIÓN DEL CONVENIO CONSTITUTIVO DE LA CORPORACIÓN INTERAMERICANA DE INVERSIONES Y QUE ESTABLECE BASES PARA SU EJECUCIÓN EN MÉXICO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
