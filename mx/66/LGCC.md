@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2015-05-13"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -648,7 +648,9 @@ V. Energía, industria y servicios;
 
 VI. Infraestructura de transportes y comunicaciones;
 
-VII. Ordenamiento ecológico del territorio, asentamientos humanos y desarrollo urbano;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+VII. Ordenamiento ecológico del territorio, desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático, asentamientos humanos y desarrollo urbano;
 
 VIII. Salubridad general e infraestructura de salud pública, y
 
@@ -700,7 +702,9 @@ Las dependencias y entidades de la administración pública federal centralizada
 
 I. Elaborar y publicar los atlas de riesgo que consideren los escenarios de vulnerabilidad actual y futura ante el cambio climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo, así como a las islas, zonas costeras y deltas de ríos;
 
-II. Utilizar la información contenida en los atlas de riesgo para la elaboración de los planes de desarrollo urbano, reglamentos de construcción y ordenamiento territorial de las entidades federativas y municipios;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+
+II. Utilizar la información contenida en los atlas de riesgo para la elaboración de los planes de desarrollo urbano, reglamentos de construcción y ordenamiento territorial de las entidades federativas y municipios; y para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático.
 
 III. Proponer e impulsar mecanismos de recaudación y obtención de recursos, para destinarlos a la protección y reubicación de los asentamientos humanos más vulnerables ante los efectos del cambio climático;
 
@@ -1727,3 +1731,9 @@ D.O.F. 13 DE MAYO DE 2015.
 DECRETO POR EL QUE SE REFORMA EL INCISO A) DE LA FRACCIÓN VI DEL ARTÍCULO 7o. DE LA LEY GENERAL DE CAMBIO CLIMÁTICO.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CAMBIO CLIMÁTICO".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
