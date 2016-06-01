@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2014-05-09"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -1396,9 +1396,11 @@ La Federación, los Estados, el Distrito Federal y los Municipios, en el ámbito
 
 La CONADE promoverá la creación de un Comité Nacional Antidopaje, involucrando para el efecto, a todas aquellas instancias públicas o privadas que a través de sus respectivas competencias puedan formar parte de dicho Comité.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 121.
 
-El Comité Nacional Antidopaje será junto con las asociaciones deportivas nacionales, la instancia responsable de conocer de los resultados, controversias e irregularidades en las normas y procedimientos que surjan de los controles dentro y fuera de competición a que sean sometidos los deportistas en el territorio nacional.
+El Comité Nacional Antidopaje será la única autoridad facultada para recolectar muestras biológicas e iniciar la gestión de investigación, para los resultados analíticos adversos y/o atípicos y también para las infracciones no analíticas descritas en el Código Mundial Antidopaje. Asimismo, dará inicio y seguimiento al procedimiento disciplinario hasta su terminación, pronunciando la resolución respectiva, en los términos establecidos en el Código referido en el presente párrafo.
 
 ###### Artículo 122.
 
@@ -1454,9 +1456,13 @@ La CONADE y el Comité Nacional Antidopaje, serán los responsables de solicitar
 
 La CONADE, será responsable del manejo y funcionamiento del laboratorio central antidopaje.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 135.
 
-El laboratorio central antidopaje tendrá carácter nacional en tanto no exista otro homologado en el país, obligándose las asociaciones deportivas nacionales a enviar a dicho laboratorio para su análisis, todas las muestras biológicas que se recolecten en los eventos y competiciones de carácter nacional o internacional que se realicen en el país.
+El laboratorio central antidopaje denominado Laboratorio Nacional de Prevención y Control del Dopaje, tendrá carácter nacional en tanto no exista otro homologado en el país. El Comité Nacional Antidopaje deberá enviar a dicho laboratorio o en su caso al laboratorio homologado, para su análisis, todas las muestras biológicas que recolecte en los eventos deportivos y competiciones de carácter nacional e internacional que se realicen en el país.
+
+Cuando se trate de eventos internacionales y la autoridad de gestión de los resultados tenga el carácter internacional, se deberá observar el mandato del Código Mundial Antidopaje.
 
 ###### Artículo 136.
 
@@ -1805,3 +1811,11 @@ SEGUNDO.- Las Legislaturas de los Estados y del Distrito Federal, las autoridade
 TERCERO.- El Ejecutivo Federal deberá expedir las reformas necesarias al Reglamento de esta Ley, en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Las comisiones locales a que alude el último párrafo del artículo 139 de esta Ley deberán quedar instaladas dentro de los 90 días posteriores a la publicación de las reformas al Reglamento.
+
+D.O.F. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 121 Y 135 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
