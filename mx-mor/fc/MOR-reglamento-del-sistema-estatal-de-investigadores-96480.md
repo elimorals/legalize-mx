@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-sistema-estatal-de-investigadores-96480"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-04"
-last_updated: "2015-07-15"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DEL SISTEMA ESTATAL DE INVESTIGADORES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el lunes 4 de noviembre de 2013.
 
@@ -115,15 +115,17 @@ Podrán formar parte del SEI todos aquellos miembros de la comunidad científica
 
 La Secretaría, de conformidad con la Ley, es la encargada de instaurar, desarrollar y administrar el SEI y evaluar su funcionamiento, garantizando el proceso de implantación, principios de transparencia, legalidad y equidad, involucrando en esas actividades a miembros reconocidos de la comunidad científica local y de los sectores público, social y privado, por lo que para dichos efectos se apoyará en una Comisión Técnica integrada por:
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-I. La persona Titular de la Subsecretaría de Innovación, Ciencia y Desarrollo Tecnológico de la Secretaría, quien lo presidirá;
+I. La persona titular de la Secretaria, quien lo presidirá por sí o a través de la persona que al efecto designe;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
 
 II. La persona Titular de la Dirección General de Investigación de la Secretaría, quien fungirá como Secretario Técnico;
 
-III. Tres vocales internos, representantes de la Academia de Ciencias de Morelos, de la Academia de Ingeniería Coordinación de Morelos y de la Academia de Ciencias Sociales y Humanidades del Estado de Morelos, respectivamente, y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+III. Tres vocales internos, que podrán ser aquellos que pertenezcan a las Academias de Ciencias de Morelos, de Ingeniería (sic) Coordinación de Morelos y de Ciencias Sociales y Humanidades del Estado de Morelos, respectivamente y
 
 IV. Dos representantes de los evaluadores, que serán designados por ellos mismos, de entre los siete Comités de Evaluación.
 
@@ -245,6 +247,10 @@ Los Comités de Evaluación en las áreas del conocimiento que corresponda, eval
 
 Para evaluar la calidad de la producción reportada en todas las áreas del conocimiento, se tomará en cuenta la originalidad de los trabajos, su influencia en la formación de recursos humanos y en la consolidación de líneas de investigación, la trascendencia de los productos de investigación en la solución de problemas científicos y tecnológicos, su repercusión en la creación de empresas de alto valor agregado o relevancia en problemas sociales, el liderazgo y reconocimiento nacional e internacional del participante y la innovación.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+De igual forma se tomará en cuenta la colaboración de los participantes en las actividades de divulgación científica de la Secretaría y del CCYTEM, durante el período establecido en la Convocatoria del SEI.
+
 Asimismo, los Comités de Evaluación se sujetarán, además, a las políticas generales relacionadas con los aspectos considerados para la evaluación que determine la Comisión Técnica.
 
 ###### Artículo 15.
@@ -279,9 +285,11 @@ II. Demostrar su producción científica o tecnológica, en materia de innovaci�
 
 III. Cumplir en su totalidad las bases que estipule la respectiva Convocatoria del SEI.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 19.
 
-Para el caso de que algún integrante de la comunidad científica del Estado de Morelos pertenezca al Sistema Nacional de Investigadores, su incorporación al SEI será automática, con la modalidad honorífica, previo el ingreso de su solicitud de participación en el SEI y constancia vigente que lo acredite como miembro del Sistema Nacional de Investigadores, además de cumplir con las fracciones I y III del artículo anterior, a excepción de la fracción II.
+Para el caso de que algún integrante de la comunidad científica del estado de Morelos pertenezca al Sistema Nacional de Investigadores, su incorporación al SEI será automática, con la modalidad honorífica, previo el ingreso de su solicitud de participación en el SEI y constancia vigente que lo acredite como miembro del Sistema Nacional de Investigadores, además de cumplir con las fracciones I y III, del artículo anterior, a excepción de la fracción II. Dicha pertenencia al SEI será por el mismo período que se describa en la respectiva constancia, no siendo necesario que ingrese solicitud al SEI cada que se emita la convocatoria anual.
 
 ###### Artículo 20.
 
@@ -325,7 +333,9 @@ a) Personal formado:
 
 2. Capacitación técnica para la industria morelense;
 
-II. La divulgación científica-tecnológica, referente a todas aquellas actividades para convertir, interpretar y popularizar el conocimiento científico o tecnológico para la sociedad morelense; considerándose los siguientes aspectos:
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+II. La divulgación científica-tecnológica realizada desde los Centros de Investigación e Instituciones de Educación Superior, referente a todas aquellas actividades para convertir, interpretar y popularizar el conocimiento científico o tecnológico para la sociedad morelense; considerándose los siguientes aspectos:
 
 a) Publicaciones de divulgación;
 
@@ -333,7 +343,9 @@ b) Trabajo museográfico y exposiciones, y
 
 c) Conferencias para la sociedad morelense;
 
-III. La vinculación, referente a la promoción de la modernización, la innovación y el desarrollo tecnológico, vinculado con empresas o entidades públicas y privadas, nacionales e internacionales; considerándose los siguientes aspectos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+
+III. La vinculación, realizada desde los Centros de Investigación e instituciones de educación superior, referente a la promoción de la modernización, la innovación y el desarrollo tecnológico, vinculado con empresas o entidades públicas y privadas, nacionales e internacionales; considerándose los siguientes aspectos.
 
 a) Convenios de transferencia tecnológica;
 
@@ -427,9 +439,11 @@ Por estímulo, se entiende a la entrega de recursos económicos que la Secretar�
 
 La incorporación de los miembros del Sistema Nacional de Investigadores como integrantes del SEI, únicamente dará lugar a un nombramiento honorífico y no así al estímulo a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
+
 ###### Artículo 35.
 
-La Secretaría organizará un evento de carácter público en el cual serán entregados los reconocimientos y estímulos a los miembros del SEI.
+La Secretaría entregará los reconocimientos y estímulos a los miembros del SEI para cuyo efecto podrá organizar un evento de carácter público.
 
 ###### Artículo 36.
 
@@ -508,3 +522,11 @@ P.O. 15 DE JULIO DE 2015.
 PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SISTEMA ESTATAL DE INVESTIGADORES Y DEL REGLAMENTO PARA EL RECONOCIMIENTO AL MÉRITO ESTATAL DE INVESTIGACIÓN".]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango normativo que se opongan al presente Decreto.
