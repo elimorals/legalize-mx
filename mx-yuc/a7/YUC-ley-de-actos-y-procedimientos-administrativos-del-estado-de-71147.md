@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-actos-y-procedimientos-administrativos-del-estado-de-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2016-05-02"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de diciembre de 2009.
 
@@ -1267,13 +1267,13 @@ Décimo Segundo. Remisión de listados al instituto
 
 Para efectos de lo dispuesto en el artículo anterior, por única ocasión, los sujetos obligados deberán remitir al instituto, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor de este decreto, el listado de los sindicatos y las personas físicas o morales a las que les asignen recursos o, en términos de las disposiciones aplicables, les instruyan ejecutar un acto de autoridad.
 
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 2016)</small>
+
 Décimo Tercero. Notificación a cargo del fideicomitente único de la administración pública estatal
 
-La Secretaría de Administración y Finanzas, en su carácter de fideicomitente único de la Administración Pública estatal, deberá notificar, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este decreto, a las dependencias y entidades responsables de coordinar la operación de fideicomisos o fondos públicos, la responsabilidad derivada del artículo 26 de la Ley General de Transparencia y Acceso a la Información Pública y 39, párrafo segundo, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
+La Secretaría de Administración y Finanzas, en su carácter de fideicomitente único de la Administración Pública estatal, deberá notificar, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este decreto, a las dependencias y entidades responsables de coordinar la operación de fideicomisos o fondos públicos, la responsabilidad derivada del artículo 26 de la Ley General de Transparencia y Acceso a la Información Pública y 51, párrafo segundo, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
 
-Décimo Cuarto. Clasificación de la información
-
-Los sujetos obligados deberán clasificar su información en un plazo máximo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+Décimo Cuarto. (DEROGADO, D.O. 1 DE JUNIO DE 2016)
 
 Décimo Quinto. Capacitación
 
@@ -1284,3 +1284,11 @@ Décimo Sexto. Integración del consejo consultivo
 El Congreso deberá expedir la convocatoria para la designación de los integrantes del Consejo Consultivo del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales dentro de los treinta días naturales contados a partir de la entrada en vigor de este decreto.
 
 Por única ocasión, para garantizar el nombramiento escalonado de los integrantes del Consejo Consultivo del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales, el Congreso designará a tres consejeros para un período de dos años y tres consejeros para un período de un año.
+
+D.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 395/2016 POR EL QUE SE MODIFICAN LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y EL DECRETO 388/2016 POR EL QUE SE EMITE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
