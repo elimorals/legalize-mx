@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2015-07-01"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2016.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -241,6 +241,10 @@ Las penas y medidas de seguridad se entienden impuestas en los términos y con l
 
 Cuando la ley fije solamente el máximo de una pena de prisión, el término mínimo de esa pena será de tres meses.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+El Estado organizará el sistema penitenciario, sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para la reinserción social del delincuente.
+
 22.- Los sujetos a prisión preventiva y los reos políticos, serán recluidos en establecimientos o departamentos especiales.
 
 ### CAPITULO III. CONFINAMIENTO
@@ -305,7 +309,9 @@ La responsabilidad relativa a la reparación del daño, será igual en los delit
 
 I.- La restitución de la cosa obtenida por el delito y sus frutos, o, en su defecto, el pago del precio correspondiente;
 
-II.- El resarcimiento del daño material y moral causados, así como la indemnización del perjuicio ocasionado; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+II. El resarcimiento del daño material y moral causados, así como la indemnización del perjuicio ocasionado, será oportuno, pleno, diferenciado, transformador, integral y efectivo de conformidad con la Ley General de Víctimas y la Ley de Atención a Víctimas del Estado de Zacatecas e incluirá atención médica y psicoterapéutica, así como los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima como consecuencia del delito. En cuanto al daño moral, el juzgador no podrá absolver al sentenciado de su reparación si ha emitido sentencia condenatoria;
 
 III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Segundo de este Código, la reparación del daño abarcará la restitución de la cosa o su valor y, además, hasta dos tantos del valor de la cosa o de los bienes obtenidos por el delito.
 
@@ -343,11 +349,13 @@ VII.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 
 Si el daño produce incapacidad total o parcial, permanente o temporal, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
-35.- La reparación del daño en los casos de los delitos comprendidos en el Título Décimo Segundo de este Código, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera el ofendido, por todo el tiempo que éstos sean necesarios a juicio de peritos.
+35.- La reparación del daño en los casos de los delitos comprendidos en el Título Décimo Segundo de este Código, comprenderá el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera la persona ofendida, por todo el tiempo que éstos sean necesarios a juicio de peritos; sin perjuicio o complementariamente a los previstos en el artículo 31 de este Código.
 
-Cuando a consecuencia de la comisión de los delitos de estupro o violación resulten hijos, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, sin que por este concepto el obligado adquiera ningún derecho sobre los mismos. Este último concepto se pagará en la forma y términos que establece el Código Familiar.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Cuando a consecuencia de la comisión del delito de violación resulten hijos, la reparación del daño comprenderá, además, el pago de alimentos para éstos y para la madre, sin que por este concepto el obligado adquiera ningún derecho sobre los mismos. Este último concepto se pagará en la forma y términos que establece el Código Familiar.
 
 ### CAPITULO VI. DECOMISO DE LOS INSTRUMENTOS Y PRODUCTOS DEL DELITO
 
@@ -702,6 +710,10 @@ En caso de muerte o insolvencia del fiador, estará obligado el reo a poner el h
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos respecto de quien lo otorga.
 
 El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiesen obtenido la satisfacción de sus intereses o derechos, en cuyo caso beneficiará a todos los inculpados y al encubridor.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+En los casos de los delitos que sean perseguidos por querella y que impliquen cualquier tipo de violencia hacia las mujeres, menores de edad o incapaces, el perdón legal solo podrá otorgarse cuando se hayan reparado los daños y perjuicios ocasionados por la comisión del delito y además del sometimiento del inculpado al tratamiento psicológico o psiquiátrico previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
 
 ### CAPITULO IV. INDULTO
 
@@ -1669,7 +1681,7 @@ VI.- A los encargados de un servicio de comunicaciones del Estado o del Municipi
 
 ## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA LIBERTAD SEXUAL E INTEGRIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2016)</small>
 
 ### CAPITULO V. FALSEDAD EN DECLARACIONES JUDICIALES Y EN INFORMES DADOS A UNA AUTORIDAD
 
@@ -1767,7 +1779,7 @@ Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
-### CAPITULO I. ATENTADOS A LA INTEGRIDAD DE LAS PERSONAS
+### CAPITULO I. ABUSO SEXUAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 1995)</small>
 
@@ -1805,17 +1817,13 @@ Si el ofendido es persona menor de dieciocho años, la pena se duplicará.
 
 Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)</small>
 
 ### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+234.- (DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
-234.- A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de engaño, se le aplicará de uno a tres años de prisión y multa de cien a trescientas cuotas.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
-
-235.- En el caso del artículo anterior, no se procederá contra el sujeto activo, sino por querella del ofendido o sus representantes legales.
+235.- (DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 1995)</small>
 
@@ -1828,6 +1836,10 @@ Sólo se procederá en contra del sujeto activo a petición de parte ofendida o 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Si entre el activo y el pasivo de la violación existiera un vínculo matrimonial, de concubinato o relación de pareja, se impondrá la pena prevista en el párrafo primero del presente artículo. En este supuesto, el delito se perseguirá por querella de la parte ofendida.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
 
@@ -1843,15 +1855,23 @@ II.- Al que sin violencia realice cópula con persona que no tenga la capacidad 
 
 Si se ejerciera violencia física o moral, a la pena impuesta se aumentarán hasta dos años.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-III. Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, se le impondrá una pena de seis a quince años de prisión y multa de veinte a cien cuotas, independientemente de la pena que corresponda por el delito de lesiones que pudiera resultar.
+III. Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, excepto en menores de doce años donde no es necesario la violencia, sea cual fuere el sexo del ofendido, se le impondrá una pena de seis a quince años de prisión y multa de veinte a cien cuotas, independientemente de la pena que corresponda por el delito de lesiones que pudiera resultar.
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+IV. A quien tenga cópula con persona mayor de doce años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos (sic) sesenta y cinco cuotas.
 
 Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 Cuando el sujeto activo de este delito tuviere derechos de tutela, patria potestad o de heredar bienes por sucesión legítima respecto de la víctima, además de la sanción señalada anteriormente, perderá estos derechos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+El responsable de este delito deberá indemnizar por concepto de reparación del daño a la víctima. Para los efectos de la determinación del monto de indemnización deberán considerarse los tratamientos psicológicos y terapéuticos, así como el daño al proyecto de vida de la víctima, el cual será cuantificado al prudente arbitrio del juzgador con base en criterios de razonabilidad y conforme a lo previsto en los artículos 30, 31 y 35 de este Código.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 1995)</small>
 
@@ -1909,13 +1929,19 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 ### CAPITULO V. INCESTO
 
-246.- Se impondrán sanciones de dos a ocho años de prisión y multa de cinco a veinte cuotas a los ascendientes que tengan relaciones sexuales con sus descendientes, cuando exista la anuencia de ambos. La sanción aplicable a los descendientes será de uno a cuatro años de prisión y multa de tres a diez cuotas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+
+246.- Se impondrán sanciones de cinco a diez años de prisión y multa de veinte a cien cuotas a los ascendientes que tengan relaciones sexuales con sus descendientes, cuando exista la anuencia de ambos. La sanción aplicable a los descendientes será de uno a cuatro años de prisión y multa de tres a diez cuotas.
 
 Se aplicará esta última sanción en caso de incesto entre hermanos.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 No se admitirá que hubo anuencia, por lo cual el acto cometido tendrá el carácter de violación, cuando el descendiente o uno de los hermanos tenga menos de doce años cumplidos, y se impondrán al ascendiente o al hermano que fuere mayor de 18 años, las reglas y sanciones previstas en el artículo 236 de este ordenamiento. Los menores ofendidos quedarán sujetos a la protección que disponga el Código Familiar o, en defecto de éste, la Ley de Justicia para Adolescentes en el Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Si la víctima fuere mayor de 12 años y menor de 18, la sanción podrá incrementarse hasta en una tercera parte a la mínima y máxima.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -1933,9 +1959,9 @@ No se admitirá que hubo anuencia, por lo cual el acto cometido tendrá el cará
 
 ### CAPITULO VII. ABANDONO DE FAMILIARES
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
-251.- Al que sin motivo justificado incumpla con la obligación alimentaria respecto de sus hijos, cónyuge, o de cualquier otro familiar, sin ministrarle los recursos para atender las necesidades señaladas en los artículos 265 y 266 del Código Familiar, se le aplicará prisión de uno a tres años y multa de cien a doscientas cuotas.
+251.- Al que sin motivo justificado incumpla con la obligación alimentaria respecto de sus hijos, cónyuge, o de cualquier otro familiar, sin ministrarle los recursos para atender las necesidades señaladas en los artículos 265 y 266 del Código Familiar, se le aplicará prisión de dos a cinco años y multa de doscientas a trescientas sesenta y cinco cuotas
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
 
@@ -1953,6 +1979,10 @@ V. El cambio de domicilio sin previo aviso, con la finalidad de evadir la respon
 
 VI. El deseo expreso de no cumplir con la responsabilidad.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+La misma pena será aplicable a quien incumpla con la obligación alimentaria y de cuidado respecto de la madre y el producto durante el embarazo.
+
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
 
 251 Bis.- La obligación alimentaria respecto de sus hijos, cónyuge, o de cualquier otro familiar, sin ministrarle los recursos para atender las necesidades señaladas en los artículos 265 y 266 del Código Familiar, no queda exenta cuando la obligación no provenga de sentencia ejecutoria o provenga de un divorcio voluntario en los términos señalados en el Artículo 224 del Código Familiar.
@@ -1963,7 +1993,17 @@ VI. El deseo expreso de no cumplir con la responsabilidad.
 
 El abandono en perjuicio de menores de edad que no tuvieren otro u otros familiares que provean a su subsistencia, se perseguirá de oficio y su penalidad será de uno a tres años de prisión y multa de diez a cincuenta cuotas.
 
-253.- Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+
+253.- Para que el perdón concedido por la persona ofendida o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Para los efectos del párrafo anterior, el Ministerio Público se pronunciará, mediante determinación previa, sobre el pago realizado y la garantía de los futuros créditos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+253 Bis.- A quien en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, transfiera o adquiera bienes a nombre de terceros, se le aplicará sanción de uno a cinco años de prisión y de cincuenta a trescientas cuotas, además de la pérdida de la patria potestad y la reparación del daño.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -1977,19 +2017,51 @@ El abandono en perjuicio de menores de edad que no tuvieren otro u otros familia
 
 254 Bis.- Violencia familiar es el uso del poder, de la fuerza física o moral, así como la omisión grave, en contra de un miembro de la familia por otro integrante de la misma, con la intención de someterla a su dominio, o de dañar su integridad física, psíquica o sexual, independientemente de que pueda o no causar lesiones, o de que resulte cualquier otro delito.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Para los efectos de lo dispuesto en este Capítulo, se entenderá por violencia en todas sus modalidades, lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
+
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES 254-B], P.O. 4 DE AGOSTO DE 2012)</small>
 
 254 Ter.- Comete el delito de violencia familiar, el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; o en línea transversal hasta el cuarto grado; pariente por afinidad hasta el segundo grado; el adoptante o el adoptado, siempre y cuando, habiten en el mismo domicilio.
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES 254-C], P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
-254 Quater.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a seis años de prisión, multa de cinco a cincuenta cuotas, y perderá el derecho a pensión alimenticia, en su caso.
+254 Quater.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a seis años de prisión, multa de cinco a cincuenta cuotas y perderá el derecho a pensión alimenticia, en su caso.
 
-El delito de violencia familiar se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, caso en que se perseguirá de oficio.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
-Cuando la violencia se cometa fuera del domicilio familiar en contra del cónyuge que se ha separado de dicho domicilio, de la concubina con quien procreó hijos, de los hijos de ambas o de los hijos en contra de sus progenitores.
+También se incurrirá en este delito cuando la violencia se cometa fuera del domicilio familiar en contra del cónyuge que se ha separado de dicho domicilio, de la concubina o concubinario con quien procreó hijos, de los hijos de ambos o de los hijos en contra de sus progenitores.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Asimismo, quien cometa el delito de violencia familiar se sujetará a tratamiento psicoterapéutico reeducativo especializado para personas agresoras que refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas, el que en ningún caso excederá del tiempo impuesto en la pena de prisión.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Los delitos previstos en este Capítulo, se perseguirán por querella excepto cuando:
+
+I. La víctima sea menor de edad, incapaz o no tenga la capacidad de comprender el significado del hecho o posibilidad para resistir la conducta delictuosa;
+
+II. La víctima sea mayor de sesenta años de edad;
+
+III. La víctima sea mujer en estado de embarazo o durante los tres meses posteriores al parto;
+
+IV. Se cometa con la participación de dos o más personas;
+
+V. Se cometa con el uso de armas de fuego o punzocortantes;
+
+VI. Se deje cicatriz permanente en alguna parte del cuerpo;
+
+VII. Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
+
+VIII. Exista imposibilidad material de la víctima de denunciar.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Las punibilidades previstas en este Capítulo, se aplicarán independientemente de la que resulte por la comisión de otros delitos.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES 254-D], P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -1999,9 +2071,9 @@ I.- Cuando la violencia familiar se cometa en contra de los parientes de la conc
 
 II.- Cuando sin existir relación de parentesco, el sujeto pasivo sea un menor de edad, incapacitado, discapacitado, anciano, o cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el autor de la violencia y la víctima habiten en el mismo domicilio.
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES 254-E], P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
-254 Sextus.- En todos los casos de violencia familiar, el Ministerio Público deberá intervenir, independientemente de que exista o no, querella o denuncia. Exhortará al presunto responsable para que se abstenga de cualquier conducta ofensiva hacia la víctima; acordará las medidas preventivas que estime necesarias para salvaguardar la integridad física y psíquica del agredido, solicitara a la autoridad judicial las medidas precautorias que considere pertinentes y vigilará su cumplimiento.
+254 Sextus.- En todos los casos de violencia familiar, el Ministerio Público deberá intervenir, independientemente de que exista o no, querella o denuncia. Exhortará al presunto responsable para que se abstenga de cualquier conducta ofensiva hacia la víctima; emitirá las órdenes y medidas de protección que estime necesarias para salvaguardar la integridad física y psíquica de la persona agredida, solicitará a la autoridad judicial las medidas precautorias que considere pertinentes y vigilará su cumplimiento, de acuerdo a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de derechos humanos y las leyes generales y locales aplicables.
 
 ### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
@@ -2119,23 +2191,21 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 
 267.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)</small>
+
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO V. RAPTO
 
-268.- Al que sustrajere o retuviere a una mujer por medio de la violencia física o moral, o del engaño, para satisfacer algún deseo erótico o para casarse, se le aplicarán de seis meses a seis años de prisión y multa de cinco a treinta cuotas.
+268.- (DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+269.- (DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
-269.- Se impondrán las mismas sanciones que señala el artículo anterior, aún cuando no se empleen la violencia ni el engaño y consienta en el rapto la mujer, si ésta fuere menor de dieciocho años o cuando ella por cualquier causa no pudiere resistir. Cuando el raptor se case con la mujer ofendida, no se procederá contra él ni contra sus copartícipes, salvo que se declare nulo el matrimonio. Lo anterior no tendrá efecto si la mujer es casada.
+270.- (DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
-270.- Se aplicará prisión de tres meses a un año y multa de cinco a diez cuotas a la mujer que por cualquiera de los medios señalados en el artículo 268 de este Código, raptare a un varón menor de dieciocho años.
-
-271.- No se procederá contra el raptor sino por queja de la persona ofendida o de su cónyuge o concubinario, pero si la persona raptada fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela, o en su defecto, del mismo menor.
-
-Cuando además del delito de rapto se cometa algún otro, se observarán las reglas del concurso.
+271.- (DEROGADO, P.O. 1 DE JUNIO DE 2016)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO QUINTO DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE ZACATECAS, P.O. 28 DE FEBRERO DE 2015)</small>
 
@@ -2257,6 +2327,12 @@ Además, el delincuente podrá ser privado del ejercicio de la patria potestad s
 
 Cuando el autor de la lesión sea persona de notoria escasa instrucción a criterio del juez y tratándose de la primera ocasión, únicamente se le impondrá la obligación de asistir a una o varias terapias al sistema DIF, quedando a disposición de esta institución, siempre y cuando la lesión, o lesiones, sean de las comprendidas en la fracción I del artículo 286.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+291 Bis.- Cuando por razones de género se lesione dolosamente a una mujer, se aumentará una tercera parte a la punibilidad que le corresponda por la lesión inferida.
+
+Deberá entenderse la presencia de razones de género, cuando las lesiones sean producto de la ejecución de alguna o varias de las circunstancias propias de los tipos de violencia en contra de las mujeres descrita en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Zacatecas.
+
 292.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce o lo suelte. Si lo suelta por descuido, la sanción será la correspondiente al delito culposo.
 
 ### CAPITULO II. HOMICIDIO
@@ -2371,25 +2447,63 @@ Al que cometa este delito se le aplicarán de seis a doce años de prisión y mu
 
 ### CAPITULO VII BIS. FEMINICIDIO
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
-309 Bis.- El feminicidio es la privación de la vida de una mujer, por razones de género. A quien cometa feminicidio se le impondrán de veinte a treinta años de prisión.
+309 Bis.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. A quien cometa el delito de feminicidio se le impondrán de veinte a cincuenta años de prisión y multa de doscientas a trescientas sesenta y cinco cuotas.
 
-Existen razones de género cuando se ejecuten en la víctima actos discriminatorios que atenten, menoscaben o anulen sus derechos humanos y sus libertades fundamentales, entre los que pueden ser:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
-I. La víctima presente signos de violencia sexual de cualquier tipo;
+Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
 
-II. A la víctima se le hayan infligido lesiones degradantes o mutilaciones, previas o posteriores a la privación de la vida;
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
 
-III. Existan datos que hagan evidente amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima, antes de su muerte;
+I. La victima presente signos de violencia sexual de cualquier tipo;
 
-IV. El cuerpo sin vida de la víctima sea expuesto, depositado o arrojado en un lugar público; o
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-V. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
+II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia:
 
-Si entre el activo y la víctima existió una relación afectiva o de confianza; de parentesco por consanguinidad o afinidad; de matrimonio; de concubinato; noviazgo o cualquier otra relación de hecho o amistad; laboral; docente o cualquiera que implique subordinación o superioridad o inclusive cuando implique deber de brindar cuidados, y se acredite cualquiera de los supuestos establecidos en las fracciones anteriores, se impondrán de veinte a cuarenta años de prisión.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
 
-Cuando la víctima tenga hijos menores de edad que queden en la orfandad, el responsable deberá indemnizar en concepto de reparación del daño a los representantes de los menores con el doble de la indemnización a que alude el artículo 34 del presente Código.
+III. Existan antecedentes o datos de cualquier tipo de violencia de género del sujeto activo en contra de la víctima; se entenderá por violencia de género en los términos definidos por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva, de confianza, de parentesco por consanguinidad o afinidad; de matrimonio; de concubinato; noviazgo o cualquier otra relación de hecho o amistad;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+V. Se haya dado entre el activo y la víctima una relación laboral, docente o cualquiera que implique subordinación o superioridad o inclusive cuando implique deber de brindar cuidados;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+VI. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2016)</small>
+
+VIII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+La reparación del daño a la que alude el artículo 34 del presente código, en los casos de feminicidio deberá determinarse conforme al principio de integralidad contenido en la Ley General de Víctimas, así como atendiendo los parámetros de dicha norma.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a ocho años y de doscientos cincuenta a trescientos sesenta y cinco días de multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO VIII. ABORTO
 
@@ -3480,3 +3594,13 @@ P.O. 1 DE JULIO DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan los artículos 37 y 38 del Código Penal para el Estado y demás disposiciones que se opongan al presente ordenamiento.
+
+P.O. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 588.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS, EN MATERIA DE REPARACIÓN DEL DAÑO.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan las disposiciones que se opongan a este Decreto.
+
+Tercero.- En los procedimientos penales por los delitos de estupro y rapto que se encuentren en trámite a la entrada en vigor del presente Decreto, se continuarán aplicando los tipos y las penas que para tales delitos establecen las disposiciones que se derogan en este Instrumento Legislativo.
