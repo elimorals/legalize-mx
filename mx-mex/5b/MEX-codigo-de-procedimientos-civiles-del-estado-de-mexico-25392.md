@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2016-03-14"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA G.G. DEL 24 DE JUNIO DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2016.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -941,19 +943,19 @@ Revocación de representante común
 
 Patrocinio de Licenciado en Derecho
 
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.G. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 1.
 
-93.- Todo interesado en cualquier actividad judicial debe tener el patrocinio de un Licenciado en Derecho o su equivalente con título y cédula de ejercicio profesional legalmente expedidos; salvo en materia de violencia familiar y de alimentos, donde el Juez, en su caso, le designará un defensor público.
+93.- Todo interesado en cualquier actividad judicial debe tener el patrocinio de un Licenciado en Derecho o su equivalente con título y cédula de ejercicio profesional legalmente expedidos; salvo en materia de violencia familiar, alimentos y juicio sumario de usucapión, donde el Juez, en su caso, le designará un defensor público.
 
 Autorización de las promociones
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 1.
 
-94. Los Licenciados en derecho autorizarán con su firma autógrafa o electrónica avanzada toda promoción escrita o verbal de sus clientes, para justificar su patrocinio. La falta de firma del profesional, no impedirá que se les dé curso en los juicios de violencia familiar y de alimentos. El Juez tomará las medidas necesarias a efecto de que el demandante de violencia familiar y de alimentos, no quede en estado de indefensión cuando no cuente con licenciado en derecho que lo patrocine y para ello, tomará la medida citada en el artículo anterior y el defensor público lo asistirá en las diligencias en la que deba intervenir.
+94.- Los Licenciados en derecho autorizarán con su firma autógrafa o electrónica avanzada toda promoción escrita o verbal de sus clientes, para justificar su patrocinio. La falta de firma del profesional, no impedirá que se les dé curso en los juicios de violencia familiar, alimentos y sumario de usucapión. El Juez tomará las medidas necesarias a efecto de que el demandante de violencia familiar, de alimentos y de usucapión en juicio sumario, no quede en estado de indefensión cuando no cuente con licenciado en derecho que lo patrocine y para ello, tomará la medida citada en el artículo anterior y el defensor público lo asistirá en las diligencias en la que deba intervenir.
 
 Exhibición de cédula profesional
 
@@ -5721,6 +5723,288 @@ Vía de apremio
 
 325.- Ejecutado el lanzamiento, y en caso de que se hayan embargado bienes, previa liquidación de las rentas adeudadas, se procederá en la vía de apremio.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 1 DE JUNIO DE 2016)</small>
+
+### CAPITULO V-Bis. Del juicio sumario de usucapión
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Procedencia
+
+###### Artículo 2.
+
+325.1.- Se tramitará en este procedimiento especial, el juicio de usucapión o prescripción adquisitiva de buena fe sobre inmuebles con superficie igual o menor a doscientos metros cuadrados y cuyo valor no exceda lo establecido en el artículo 3 fracción XL inciso B), del Código Financiero del Estado de México y Municipios.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Supletoriedad
+
+###### Artículo 2.
+
+325.2.- En lo que no se oponga a la naturaleza del presente procedimiento, son aplicables las disposiciones del juicio ordinario civil.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Cambio de vía
+
+###### Artículo 2.
+
+325.3.- Cuando el demandado al contestar la demanda promueva reconvención, el juez ordenará la tramitación del juicio en la vía ordinaria civil, dejando subsistentes las actuaciones relativas a la fijación de la controversia.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Legitimación pasiva en la usucapión
+
+###### Artículo 2.
+
+325.4.- La usucapión de los bienes inmuebles se promoverá contra el que aparezca como propietario en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Emplazamiento
+
+###### Artículo 2.
+
+325.5.- El emplazamiento se entenderá con el demandado, su representante, mandatario o procurador, entregando instructivo que contenga los requisitos del artículo 1.174 de este Código, levantándose acta de la diligencia, a la cual se agregará copia del instructivo entregado donde de ser posible, se haya recabado la firma de quien atiende o la constancia del resultado de haberlo requerido.
+
+El notificador, previo cercioramiento de la identidad del demandado y su domicilio, asentará en el acta relativa los medios por los cuales llega a tal convicción. De encontrarse el demandado, entenderá con éste la diligencia, corriéndole traslado con la demanda y sus anexos, debidamente sellados y cotejados.
+
+En caso de no encontrarse la persona buscada, el emplazamiento se llevara a cabo en términos de los artículos 1.176 y 1.177 de este Código el instructivo se entregará a sus parientes, empleados o a cualquier otra persona que viva o labore en ese domicilio.
+
+De negarse el demandado o la persona con quien se entienda la diligencia a recibir la documentación relativa al emplazamiento, el Notificador la fijará en lugar visible de la puerta de acceso al domicilio y recabará muestras fotográficas de lo anterior.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Notificaciones
+
+###### Artículo 2.
+
+325.6.- La sentencia definitiva será notificada de manera personal a las partes.
+
+El resto de las notificaciones en juicio se practicarán y surtirán sus efectos conforme a las reglas para las no personales.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Revisión oficiosa del emplazamiento
+
+###### Artículo 2.
+
+325.7.- Si el demandado no contesta la demanda, al día siguiente de fenecido el plazo concedido para tal efecto; el juez revisará de oficio si el emplazamiento se practicó conforme a lo establecido en este Código. De ser así, sin que medie petición de parte, realizará las declaraciones a que alude el artículo 2.119 de este Código.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Incidentes
+
+###### Artículo 2.
+
+325.8.- Todos los incidentes que se intenten, se promoverán fuera de audiencia y serán sustanciados conforme al Capítulo XII, del Título Séptimo, de este Código.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Contestación a la demanda
+
+###### Artículo 2.
+
+325.9.- El demandado cuenta con un plazo de cinco días siguientes al emplazamiento para dar contestación a la demanda.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Allanamiento y confesión de la demanda
+
+###### Artículo 2.
+
+325.10.- Si el demandado se allana o confiesa expresamente los hechos de la demanda, el juez de oficio turnará el expediente para dictar sentencia definitiva, dentro del plazo previsto en el artículo 2.325.25.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Depuración procesal
+
+###### Artículo 2.
+
+325.11.- En el auto que tenga por contestada la demanda, se dará vista al actor con las excepciones hechas valer por el demandado, para que dentro del plazo de tres días, manifieste lo que a su derecho convenga y si lo desea ofrezca pruebas. Sin mediar petición de parte, dentro de igual plazo, el juzgador resolverá sobre las excepciones procesales o de cosa juzgada.
+
+En los escritos respectivos, las partes ofrecerán las pruebas documentales relacionadas con las excepciones procesales o de cosa juzgada. Cuando éstas sean públicas, obren en los archivos de otros órganos jurisdiccionales y no sean exhibidas por las partes, el juez debe de inmediato solicitar a través de oficio su remisión, debiendo el requerido hacerlas llegar dentro de los dos días siguientes a la recepción del oficio.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Ofrecimiento de pruebas
+
+###### Artículo 2.
+
+325.12.- En la demanda y contestación a la misma, las partes deberán ofrecer sus pruebas.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Objeción de documentos
+
+###### Artículo 2.
+
+325.13.- Las partes podrán objetar los documentos presentados: el demandado en la contestación a la demanda; y, el actor, al desahogar la vista que se mande dar con la misma, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad, podrán serlo en un plazo de tres días, contados desde la notificación del auto que los haya tenido como pruebas.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Apertura del juicio a prueba
+
+###### Artículo 2.
+
+325.14.- De no advertirse excepciones procesales, resueltas las planteadas o una vez que quede firme la decisión sobre la cosa juzgada, el juez proveerá sobre las pruebas anunciadas, admitiéndolas o desechándolas, declarará las que se tengan por desahogadas dada su propia y especial naturaleza y citará a una audiencia de juicio, donde se desahogarán las que hayan sido admitidas y se encuentren preparadas.
+
+Corresponde al juez velar por la oportuna preparación y debido desahogo de las pruebas.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Pruebas admisibles en el juicio sumario de usucapión
+
+###### Artículo 2.
+
+325.15.- Además de los medios de prueba previstos en el artículo 1.265 de este Código, serán admisibles, la declaración de parte y la instrumental de actuaciones.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Declaración de parte
+
+###### Artículo 2.
+
+325.16.- Las preguntas serán planteadas de manera interrogativa, deben ser claras y versaran sobre hechos y circunstancias de que tenga noticia y que guarden relación con el objeto de la controversia, sin incorporar valoraciones, ni calificaciones.
+
+Para su desahogo, se formularán al declarante las preguntas previamente calificadas de legales por el juez, quien resolverá las objeciones planteadas.
+
+Si el declarante se niega a contestarlas o lo hace con evasivas, puede el juez exigirle la respuesta y, en caso de persistir la renuencia, se valorará prudentemente su conducta procesal, al igual que si deja de comparecer a la audiencia donde tenga verificativo.
+
+Puede el juez interrogar al declarante cuando lo estime necesario para el conocimiento de la verdad.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Pericial
+
+###### Artículo 2.
+
+325.17.- Al ofrecerse la pericial, debe acompañarse el escrito en que el perito nombrado por la parte interesada, acepte y proteste el cargo, cumpliendo los requisitos señalados por el artículo 1.309 de este Código.
+
+Si se ofrece la prueba pericial, en el auto admisorio de demanda se dará vista a la parte demandada para que, al contestarla, se manifieste sobre la pertinencia de la prueba, amplíe las cuestiones propuestas por el actor y nombre perito de su parte, con el apercibimiento que de no designarlo, se le tendrá por conforme con el dictamen que, en su caso, rinda el perito de la contraria.
+
+Para los mismos fines se dará vista al actor si quien ofrece la prueba es el demandado, la cual deberá desahogar dentro de tres días siguientes al en que se tenga por contestada la demanda.
+
+Admitida la prueba pericial, el juez ordenará, de ser necesario, que dentro de los tres días siguientes se recaben las muestras o datos para su desahogo.
+
+Los peritos deben emitir su dictamen dentro de los cinco días contados a partir del siguiente al de la admisión de la prueba, o bien, a la diligencia donde se hallan (sic) recabado las muestras o datos.
+
+Si los dictámenes rendidos por las partes resultan sustancialmente contradictorios, a más tardar al día siguiente de que se hayan rendido y sin que medie solicitud de parte, el juez nombrará perito oficial, quien al día siguiente deberá aceptar y protestar el cargo conferido.
+
+En el mismo auto en que se tenga por aceptado y protestado el cargo del perito oficial, se señalará fecha para la toma de muestras o datos, la que deberá llevarse a cabo dentro de los tres días siguientes.
+
+El perito oficial queda sujeto a rendir su dictamen dentro de cinco días, computados a partir de que se tuvo por aceptado y protestado su cargo o de que se hayan recabado las tomas o muestras, según sea el caso. De ser omiso, responderá de los daños y perjuicios que cause a las partes y se dará vista a su superior jerárquico.
+
+Las partes podrán recusar al perito oficial por las causas y conforme al procedimiento señalado en este Código.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Testimonial
+
+###### Artículo 2.
+
+325.18.- Desde el auto que se tenga por anunciada la prueba testimonial, se correrá traslado con el interrogatorio a la contraria por el plazo de tres días, para los efectos del artículo 1.335 de este Código.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Efectividad de la prueba
+
+###### Artículo 2.
+
+325.19.- Si una prueba no se desahoga por omisión de las partes, será en perjuicio del oferente.
+
+Si la contraria del oferente, por cualquier medio obstaculiza el desahogo de las pruebas de éste, se darán por ciertos los hechos que con ellas pretendían demostrarse.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Plazo para la celebración de la audiencia de juicio
+
+###### Artículo 2.
+
+325.20.- La audiencia de juicio debe celebrarse dentro de los diez días hábiles siguientes al en que se haya fijado la contienda, se haya depurado el proceso o se haya declarado la rebeldía del demandado, según sea el caso.
+
+Si fue admitida la prueba pericial y ambas partes nombraron perito, el plazo a celebrar la audiencia será de veinte días.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Audiencia de juicio
+
+###### Artículo 2.
+
+325.21.- Salvo la pericial, las pruebas deben recibirse en la audiencia de juicio.
+
+La audiencia será presidida por el juez y se desahogará de forma ininterrumpida hasta su conclusión. El juez señalará con precisión el inicio y fin de la audiencia, precluyendo los derechos que no se hicieron valer en la oportunidad correspondiente.
+
+La parte que asista de manera tardía a la audiencia podrá incorporarse a su desahogo, sin perjuicio de lo dispuesto en el párrafo antecedente.
+
+En cualquier momento el juez puede recabar la información que estime pertinente o pedir aclaraciones.
+
+Asimismo, puede el juez decretar los recesos que estime pertinentes durante el desahogo de la audiencia, sin que puedan sobrepasar, cada uno de ellos, quince minutos.
+
+Se desahogarán en primer término las pruebas ofrecidas por la actora y luego las de la demandada, debiendo pronunciar la causa por la que se dejare de recibir alguna de ellas.
+
+Si se ofrecen la confesional y la declaración de parte respecto de una misma persona, se desahogará primero la confesional.
+
+En caso de incomparecencia del absolvente de la confesional o del obligado, en la prueba de reconocimiento de contenido y firma a cargo de las partes, antes de declarar cerrado su desahogo, el juez debe hacer de oficio la declaración de confeso o tener por reconocido el contenido y firma del documento en cuestión, si se actualizan las hipótesis legales para tal efecto.
+
+La tacha de testigos debe hacerse valer al final de recabar el testimonio respectivo y antes de dar por concluido el desahogo de la testimonial. Si se ofrecen pruebas, se procederá a recibirlas en el plazo previsto en el artículo 2.325.23, quedando reservada su valoración para la emisión de la sentencia definitiva.
+
+De todo lo actuado durante la audiencia se levantará acta y, de ser posible, se videograbará.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Promociones en audiencia
+
+###### Artículo 2.
+
+325.22.- Sin perjuicio de que hasta antes de la hora de iniciación de la audiencia, las partes puedan presentar las promociones escritas que deseen, las que se formulen durante la audiencia serán verbales y en la misma forma resolverá el juez.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+de la audiencia de juicio
+
+###### Artículo 2.
+
+325.23.- Si una prueba no se desahoga por causas ajenas al oferente o su contraria, la audiencia podrá suspenderse por una sola vez, para continuar dentro de los cinco días siguientes y, si a pesar de ello no se logra la recepción de la prueba, el juez resolverá con base en los demás elementos aportados.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Alegatos
+
+###### Artículo 2.
+
+325.24.- Desahogadas las pruebas, las partes contarán con un lapso de cinco minutos cada una para formular alegatos de forma verbal, sin perjuicio de que puedan presentarlos por escrito.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Sentencia definitiva
+
+###### Artículo 2.
+
+325.25.- Concluida la fase de alegatos, el juez dictará sentencia definitiva dentro del plazo de cinco días.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Recurso de revocación
+
+###### Artículo 2.
+
+325.26.- Los autos y decretos dictados fuera de audiencia serán revocables conforme a las reglas generales.
+
+En audiencia, el recurso de revocación sólo procede contra el auto que declare o niegue tener por confesa a alguna de las partes.
+
+Los demás decretos y autos dictados en audiencia serán irrecurribles.
+
+La revocación sólo podrá plantearse en la audiencia y al momento de emitirse el auto o decreto. Interpuesta, el juez dará vista a la contraria, de estar presente, para que en el acto la desahogue y dictará resolución.
+
+> <small>(ADICIONADO, G.G. 1 DE JUNIO DE 2016)</small>
+
+Recurso de apelación
+
+###### Artículo 2.
+
+325.27.- La apelación procede en contra de las sentencias interlocutorias y definitivas.
+
 ### CAPITULO V (SIC). Del Nombramiento de Tutores y Curadores
 
 Procedencia del nombramiento de tutores y curadores
@@ -5973,6 +6257,12 @@ Revocación de la interdicción
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
+### CAPITULO VII. Del Procedimientos de Violencia Familiar
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
 ###### Artículo 2.
 
 345.- Las partes de un conflicto de violencia familiar podrán resolver sus diferencias mediante el procedimiento de controversia de violencia familiar.
@@ -6073,17 +6363,15 @@ IX. Protesta y firma del que interpone la demanda o del receptor de la violencia
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
 
+#### SECCION PRIMERA. De la Conciliación
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
 ###### Artículo 2.
 
 350.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-### CAPITULO VII. Del Procedimientos de Violencia Familiar
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 2.
 
@@ -6102,6 +6390,14 @@ IX. Protesta y firma del que interpone la demanda o del receptor de la violencia
 353.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+
+#### SECCION SEGUNDA. De la Controversia de Violencia Familiar
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Traslado de la demanda
 
 ###### Artículo 2.
 
@@ -6263,6 +6559,14 @@ Reparación de los daños y perjuicios
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
+### CAPITULO VIII. Restitución Internacional de Menores
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Objeto
+
 ###### Artículo 2.
 
 361.- Si en términos de la Convención sobre los Aspectos Civiles de la Sustracción Internacional de Menores o convenio internacional en la materia, se pretende la restitución de un menor que hubiere sido sustraído ilícitamente del país de su residencia habitual o trasladado legalmente y retenido ilícitamente, se procederá de acuerdo con lo previsto en este capítulo.
@@ -6347,14 +6651,6 @@ El Juez resolverá en la audiencia o dentro de los tres días siguientes, si pro
 
 Restitución voluntaria
 
-### CAPITULO VIII. Restitución Internacional de Menores
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Objeto
-
 ###### Artículo 2.
 
 367.- Si comparece el requerido y accediere a la restitución voluntaria del menor, el juez dará por concluido el procedimiento y ordenará su entrega a la persona o institución que acredite tener la guarda y custodia.
@@ -6419,15 +6715,17 @@ Supletoriedad
 
 Medios de impugnación
 
-#### SECCION PRIMERA. De la Conciliación
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 ###### Artículo 2.
 
 372.- La sentencia definitiva que conceda la restitución del menor será apelable con efecto suspensivo; la que la niegue, sin efecto suspensivo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2012)</small>
+
+### CAPÍTULO IX. Del Divorcio Incausado
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Requisitos
 
 ###### Artículo 2.
 
@@ -6523,14 +6821,6 @@ Vista por edictos
 
 Audiencia de Avenencia
 
-#### SECCION SEGUNDA. De la Controversia de Violencia Familiar
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Traslado de la demanda
-
 ###### Artículo 2.
 
 376.- En la audiencia de avenencia el juez tratará de conciliar a las partes, para continuar con el matrimonio, no habiéndose obtenido la conciliación, citará a una segunda audiencia con el mismo propósito, en un término de tres días, y si en esta segunda audiencia de conciliación no se logra avenir a las partes, continuará la misma y el juez las escuchará sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados.
@@ -6571,12 +6861,6 @@ Irrecurribilidad
 
 379.- La resolución que decrete el divorcio será irrecurrible.
 
-### CAPÍTULO IX. Del Divorcio Incausado
-
-> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
-
-Requisitos
-
 ### CAPITULO I. Disposiciones Comunes
 
 Disposiciones aplicables
@@ -6587,17 +6871,13 @@ Derechos de Menores o Sujetos a Interdicción
 
 Autorización judicial para vender o gravar
 
-### CAPITULO III. De la Adopción
-
-Requisitos de la adopción
-
 # LIBRO TERCERO. Procedimientos Judiciales no Contenciosos
 
 ## TITULO UNICO. Actos que por Disposición de la Ley a Solicitud de los Particulares Requieren Intervención del Juez cuando no Exista Litigio
 
-### CAPITULO IV. De la Inmatriculación
+### CAPITULO III. De la Adopción
 
-Requisitos para la información de dominio
+Requisitos de la adopción
 
 ###### Artículo 3.
 
@@ -6679,9 +6959,9 @@ Impugnación
 
 6.- Las providencias dictadas en procedimientos judiciales no contenciosos, son apelables con efecto suspensivo si el recurso lo interpone el promovente y en el efecto no suspensivo, cuando las recurra un tercero.
 
-### CAPITULO V. Del Apeo o Deslinde
+### CAPITULO IV. De la Inmatriculación
 
-Procedencia
+Requisitos para la información de dominio
 
 ###### Artículo 3.
 
@@ -6755,9 +7035,9 @@ Transacción sobre derechos de menores o sujetos a interdicción
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
-### CAPITULO I. Reglas Generales
+### CAPITULO V. Del Apeo o Deslinde
 
-Procedencia del concurso de acreedores
+Procedencia
 
 ###### Artículo 3.
 
@@ -6787,9 +7067,9 @@ Menor de edad adoptado
 
 19.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
-### CAPITULO II. De las Funciones del Síndico
+### CAPITULO I. Reglas Generales
 
-Funciones del síndico
+Procedencia del concurso de acreedores
 
 ###### Artículo 3.
 
@@ -6859,11 +7139,9 @@ Protocolización de las informaciones
 
 29.- Las informaciones se protocolizarán ante el Notario que designe el interesado y se inscribirán en el Registro Público de la Propiedad.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De las Funciones del Síndico
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
-
-Medidas urgentes en caso de fallecimiento
+Funciones del síndico
 
 ###### Artículo 3.
 
@@ -6935,9 +7213,11 @@ V. El Juez mandará que se fijen las señales convenientes en los puntos deslind
 
 ## TITULO PRIMERO. Concurso
 
-### CAPITULO II. De las Testamentarias
+### CAPITULO I. Disposiciones Generales
 
-Inicio de juicio testamentario
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Medidas urgentes en caso de fallecimiento
 
 ###### Artículo 4.
 
@@ -7065,9 +7345,9 @@ Impedimentos para ser síndico
 
 13.- El síndico tendrá los mismos impedimentos respecto del concursado y del Juez que los que tienen los tutores que administren bienes.
 
-### CAPITULO III. De los Intestados
+### CAPITULO II. De las Testamentarias
 
-Denuncia intestamentaria
+Inicio de juicio testamentario
 
 ###### Artículo 4.
 
@@ -7119,9 +7399,9 @@ V. Terminado el reconocimiento y graduación, los acreedores, por mayoría de cr
 
 ## TITULO SEGUNDO. Sucesiones
 
-### CAPITULO IV. Del Inventario y Avalúo
+### CAPITULO III. De los Intestados
 
-Plazo para el inventario
+Denuncia intestamentaria
 
 ###### Artículo 4.
 
@@ -7285,9 +7565,9 @@ Existencia de testamento en caso de intestado
 
 35.- Si durante la tramitación de un intestado se exhibe el testamento, se sobreseerá aquél, para iniciar el juicio testamentario, a no ser que se refiera a una parte de los bienes hereditarios. En este caso se acumularán los juicios y el albacea será el testamentario; la liquidación y partición serán comunes; los inventarios lo serán cuando se acumulen antes de su formación.
 
-### CAPITULO V. De la Administración y la Rendición de Cuentas
+### CAPITULO IV. Del Inventario y Avalúo
 
-Enajenación de bienes inventariados
+Plazo para el inventario
 
 ###### Artículo 4.
 
@@ -7323,9 +7603,9 @@ Impugnación de testamento
 
 41.- Si se impugna la validez del testamento o la capacidad de algún heredero, se continuará el juicio hasta antes de la adjudicación, en tanto se dicta sentencia definitiva sobre la impugnación.
 
-### CAPITULO VI. De la Liquidación y Partición de la Herencia
+### CAPITULO V. De la Administración y la Rendición de Cuentas
 
-Distribución provisional
+Enajenación de bienes inventariados
 
 ###### Artículo 4.
 
@@ -7379,9 +7659,9 @@ Entrega de documentos
 
 49.- Al albacea se le entregarán todos los documentos inherentes a los bienes que forman la masa hereditaria, y los herederos le concederán facilidades y auxilio para el desempeño de su cargo.
 
-### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VI. De la Liquidación y Partición de la Herencia
 
-Adjudicación del patrimonio familiar
+Distribución provisional
 
 ###### Artículo 4.
 
@@ -7411,9 +7691,9 @@ Modificación de inventario y avalúo
 
 54.- Aprobado el inventario y avalúo, sólo podrá modificarse cuando aparezcan o se excluyan bienes o se declare operante la oposición.
 
-### CAPITULO VIII. De la Tramitación por Notarios
+### CAPITULO VII. De la Transmisión Hereditaria del Patrimonio Familiar
 
-Tramitación notarial
+Adjudicación del patrimonio familiar
 
 ###### Artículo 4.
 
@@ -7481,9 +7761,9 @@ Aprobación de la cuenta
 
 64.- Aprobada la cuenta de administración, el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO IX. De la Tramitación Especial
+### CAPITULO VIII. De la Tramitación por Notarios
 
-Tramitación especial
+Tramitación notarial
 
 ###### Artículo 4.
 
@@ -7551,21 +7831,17 @@ Apelación de la adjudicación
 
 75.- La resolución que decida sobre la adjudicación es apelable con efecto suspensivo.
 
-### CAPITULO X. Disposiciones Comunes
+### CAPITULO IX. De la Tramitación Especial
 
-Oposición al tramite especial o notarial
+Tramitación especial
 
 ###### Artículo 4.
 
 76.- Exhibida el acta de defunción, acreditado el derecho de los herederos y la existencia del patrimonio familiar, el Juez dictará resolución de adjudicación.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO X. Disposiciones Comunes
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Reglas de las controversias
+Oposición al tramite especial o notarial
 
 ###### Artículo 4.
 
@@ -7609,13 +7885,13 @@ III. El Notario redactará el instrumento en el que se relacionarán los documen
 
 IV. En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, testamento público simplificado.
 
-### CAPITULO II. Actos Procesales en General
+### CAPITULO I. Disposiciones Generales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Peticiones orales
+Reglas de las controversias
 
 ###### Artículo 4.
 
@@ -7637,13 +7913,13 @@ Resolución en la tramitación especial
 
 84.- El Juez en una sola audiencia y en presencia de los interesados, examinará los documentos y resolverá haciendo la declaración de herederos, y adjudicación de los bienes.
 
-### CAPITULO III. De la Pruebas
+### CAPITULO II. Actos Procesales en General
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Requisitos de los medios de prueba
+Peticiones orales
 
 ###### Artículo 4.
 
@@ -7665,13 +7941,13 @@ Formalidad de la adjudicación
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO IV. De la Demanda
+### CAPITULO III. De la Pruebas
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-De la demanda, reconvención y su contestación
+Requisitos de los medios de prueba
 
 ###### Artículo 5.
 
@@ -7809,13 +8085,13 @@ Suplencia de la queja
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO V. Audiencia Inicial
+### CAPITULO IV. De la Demanda
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Etapas de la audiencia inicial
+De la demanda, reconvención y su contestación
 
 ###### Artículo 5.
 
@@ -8083,13 +8359,13 @@ De los juicios especiales y procedimientos no contenciosos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO VI. De la Audiencia Principal
+### CAPITULO V. Audiencia Inicial
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
-Desarrollo de la audiencia principal
+Etapas de la audiencia inicial
 
 ###### Artículo 5.
 
@@ -8241,9 +8517,13 @@ Oposición al desahogo de pruebas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
-### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
+### CAPITULO VI. De la Audiencia Principal
 
-Solicitud de divorcio por mutuo consentimiento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Desarrollo de la audiencia principal
 
 ###### Artículo 5.
 
@@ -8405,13 +8685,9 @@ V. Revisión de las medidas provisionales.
 
 Inasistencia de las partes
 
-### CAPITULO VIII. De los Recursos
+### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revocación fuera de audiencia
+Solicitud de divorcio por mutuo consentimiento
 
 ###### Artículo 5.
 
@@ -8556,6 +8832,14 @@ De la sentencia quedará constancia íntegra por escrito; una copia, se pondrá 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Causas de suspensión de la audiencia
+
+### CAPITULO VIII. De los Recursos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Revocación fuera de audiencia
 
 ###### Artículo 5.
 
@@ -9128,3 +9412,13 @@ TERCERO. Los matrimonios celebrados entre menores de edad, a la entrada en vigor
 CUARTO. Los procedimientos de mediación y conciliación relativos a la violencia familiar que se encuentren en trámite a la entrada en vigor del presente Decreto, se regirán de conformidad con las leyes vigentes al momento en que se iniciaron.
 
 QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 90.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
