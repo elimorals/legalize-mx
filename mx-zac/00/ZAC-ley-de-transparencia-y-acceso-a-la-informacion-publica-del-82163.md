@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-8216
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-29"
-last_updated: "2011-06-29"
+last_updated: "2016-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE ZACATECAS
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE ZACATECAS
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL SUPLEMENTO 5 DEL P.O. DE 2 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL SUPLEMENTO AL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento 4 al Periódico Oficial del Estado de Zacatecas, el miércoles 29 de junio de 2011.
 
@@ -1642,3 +1644,43 @@ ESAÚ HERNÁNDEZ HERRERA
 CONTRALOR INTERNO
 
 C.P. GUILLERMO HUIZAR CARRANZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas, publicada en Suplemento 4 al 52 del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al día 29 de junio del 2011.
+
+Artículo tercero. Se derogan las disposiciones que contravengan esta Ley.
+
+Artículo cuarto. Dentro del plazo de ciento ochenta días naturales, el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos, deberá expedir y publicar en el Periódico Oficial, Órgano de Gobierno del Estado, el Reglamento Interior, el Reglamento del Servicio Profesional de Carrera, el Reglamento del centro de investigaciones y los demás reglamentos, manuales, lineamientos y acuerdos para el adecuado funcionamiento del Instituto.
+
+En tanto se aprueban las citadas disposiciones, se aplicarán, en lo conducente, las normas vigentes.
+
+Artículo quinto. Dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de este Decreto, los sujetos obligados deberán constituir los Comités de Transparencia y las Unidades de Transparencia, notificando oportunamente de ello al Instituto en los términos de la presente Ley.
+
+Artículo sexto. En tanto se expide la Ley General en materia de datos personales en posesión de sujetos obligados, permanecerá vigente la normatividad local en la materia.
+
+Artículo séptimo. Las solicitudes de acceso a la información, los recursos y asuntos instaurados o tramitados antes de la entrada en vigor de la presente Ley, se substanciarán hasta su conclusión conforme a las normas vigentes al momento de su inicio.
+
+Artículo octavo. Los sujetos obligados se incorporarán a la Plataforma Nacional, en los términos de los lineamientos establecidos en esta Ley, con independencia de que continúen publicando en sus portales institucionales, la información a la que están obligados.
+
+Las obligaciones establecidas en esta Ley no contempladas en la Ley de Transparencia y Acceso a la Información Pública del Estado que se abroga, serán aplicables, en los términos que señalan los lineamientos técnicos generales para la publicación, homologación y estandarización de la información de las obligaciones de transparencia.
+
+Artículo noveno. La información que hasta la fecha de entrada en vigor del presente Decreto obra en los sistemas electrónicos del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos, formará parte de la Plataforma Nacional de Transparencia, conforme a los lineamientos que, para el efecto, emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Artículo décimo. El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos, deberá realizar los procedimientos correspondientes para acreditar la propiedad de los recursos materiales, bienes muebles e inmuebles, que conformarán su patrimonio.
+
+Artículo undécimo. Una vez que entren en vigor los lineamientos que emita el Sistema Nacional, opere la Plataforma Nacional y se hubieren celebrado los convenios respectivos, los sujetos obligados deberán emitir sus reglamentos en materia de transparencia y acceso a la información pública y en lo que no se opongan a lo establecido en esta Ley, se seguirán aplicando los reglamentos vigentes.
+
+Artículo decimosegundo. Dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de este Decreto, la Legislatura del Estado iniciará el proceso de consulta a la sociedad y hecho lo anterior, a propuesta de los grupos parlamentarios, procederá al nombramiento de los integrantes del Consejo Consultivo del Instituto.
+
+Artículo decimotercero. De acuerdo a lo previsto en el artículo Tercero transitorio del Decreto número 598, emitido por la Honorable Sexagésima Primera Legislatura del Estado, los Comisionados que actualmente conforman la Comisión Estatal para el Acceso a la Información Pública integrarán el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos y concluirán el periodo por el cual fueron elegidos.
+
+Concluido el plazo para el que fueron designados, la Legislatura del Estado procederá a nombrar a los Comisionados en los términos previstos en esta Ley.
+
+Artículo decimocuarto. Dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley, el Pleno del Instituto designará al Secretario Ejecutivo, a propuesta que para tal efecto realice el Presidente.
