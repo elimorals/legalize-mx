@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2016-05-04"
+last_updated: "2016-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS -ANTES LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO-
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE JUNIO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 4 DE MAYO DE 2016 (ABROGADA).
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 2 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 83 PUBLICADO EN LA G.G. DE 4 DE MAYO DE 2016.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -481,7 +481,7 @@ Los Sujetos Obligados establecerán un comité de información integrado:
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-l. En el Poder Ejecutivo, por el titular de la dependencia, del organismo auxiliar o, del fideicomiso o, el servidor público que ellos mismos designen, quien presidirá el Comité;
+I. En el Poder Ejecutivo, por el titular de la dependencia, del organismo auxiliar o, del fideicomiso o, el servidor público que ellos mismos designen, quien presidirá el Comité;
 
 II. El responsable o titular de la unidad de información; y
 
@@ -621,7 +621,7 @@ Los Sujetos Obligados sólo proporcionarán la información pública que se les 
 
 El procedimiento de acceso a la información se rige por los siguientes principios:
 
-l. Simplicidad y rapidez;
+I. Simplicidad y rapidez;
 
 II. Gratuidad del procedimiento; y
 
@@ -893,7 +893,7 @@ El Procedimiento para la destitución de los integrantes del Pleno, por alguna d
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-l. Será iniciado a solicitud de por lo menos la cuarta parte de los integrantes de la Legislatura, o a propuesta del Titular del Ejecutivo;
+I. Será iniciado a solicitud de por lo menos la cuarta parte de los integrantes de la Legislatura, o a propuesta del Titular del Ejecutivo;
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -919,7 +919,7 @@ Para ser Comisionado se requiere:
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-l. Cumplir con cualquiera de las calidades señaladas en el artículo 23 de la Constitución Política del Estado Libre y Soberano de México, o tener, cuando menos, un año de residencia fija en determinado lugar del territorio de la entidad;
+I. Cumplir con cualquiera de las calidades señaladas en el artículo 23 de la Constitución Política del Estado Libre y Soberano de México, o tener, cuando menos, un año de residencia fija en determinado lugar del territorio de la entidad;
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -1019,7 +1019,7 @@ Recibido el recurso de revisión, el Comisionado Presidente, en un plazo no mayo
 
 Las resoluciones deberán contener lo siguiente:
 
-l. Lugar, fecha en que se pronuncia, el nombre del recurrente, sujeto obligado y extracto breve de los hechos cuestionados;
+I. Lugar, fecha en que se pronuncia, el nombre del recurrente, sujeto obligado y extracto breve de los hechos cuestionados;
 
 II. Los preceptos que la fundamenten y las consideraciones que la sustenten;
 
@@ -1031,7 +1031,7 @@ IV. Los puntos resolutivos.
 
 Artículo 75 Bis A.- El recurso será sobreseído cuando:
 
-l. El recurrente se desista expresamente del recurso;
+I. El recurrente se desista expresamente del recurso;
 
 II. El recurrente fallezca o, tratándose de personas morales, se disuelva;
 
