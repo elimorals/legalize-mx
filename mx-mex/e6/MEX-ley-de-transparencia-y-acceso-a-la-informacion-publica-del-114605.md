@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2016-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE JUNIO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 2 DE JUNIO DE 2016.]</small>
 
 Ley publicada en la Sección Quinta de la Gaceta Oficial del Estado de México, el miércoles 4 de mayo de 2016.
 
@@ -2325,7 +2325,9 @@ VI. Las razones o motivos de inconformidad;
 
 VII. La copia de la respuesta que se impugna y, en su caso, de la notificación correspondiente, en el caso de respuesta de la solicitud; y
 
-VIII. Firma del recurrente o en su caso huella digital para el caso de que se presente por escrito, requisitos sin los cuales no se dará trámite al recurso.
+> <small>(F. DE E., G.G. 2 DE JUNIO DE 2016)</small>
+
+VIII. Firma del recurrente, en su caso, cuando se presente por escrito, requisito sin el cual se dará trámite al recurso.
 
 Adicionalmente, se podrán anexar las pruebas y demás elementos que considere procedentes someter a juicio del Instituto.
 
