@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2014-10-30"
+last_updated: "2016-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -292,6 +292,10 @@ III. Violencia sexual.- La Acción mediante la violencia física o moral que ate
 IV. Violencia patrimonial.- La acción de sustracción, destrucción, retención, transformación de objetos, valores, documentos personales o bienes de las mujeres o de su entorno familiar, independientemente del valor material o emocional, asociado a éstos; y
 
 V. Violencia económica.- La acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para afectar su independencia y supervivencia económica.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2016)</small>
+
+VI. Violencia obstétrica.- Toda conducta, acción u omisión, que ejerce el personal de salud tanto en el ámbito público como en el privado, sobre el cuerpo y los procesos reproductivos de las mujeres, de manera directa o indirecta, expresada en un trato deshumanizado, un abuso de medicalización o patologización de los procesos naturales, menoscabando la capacidad de la mujer de decidir de manera libre e informada.
 
 ## TÍTULO TERCERO
 
@@ -902,3 +906,9 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 P.O. 30 DE OCTUBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 2 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UNA DISPOSICIÓN NORMATIVA A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA OBSTÉTRICA”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit.
