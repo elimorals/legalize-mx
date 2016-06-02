@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2016-05-31"
+last_updated: "2016-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -121,11 +121,13 @@ Al frente de cada Administración del Centro estará un Administrador, quien se 
 
 El Administrador será el responsable de la administración del Centro.
 
-> <small>(REFORMADO POR EL ARTÍCULO 1 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR, D.O.F. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELATIVO A LA DURACIÓN DEL CARGO DE ADMINISTRADOR, D.O.F. 2 DE JUNIO DE 2016)</small>
 
 ###### Artículo 7.
 
-Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción, hasta en tanto lo determine el Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción de forma anual, rotativa y conforme a año calendario, el cual concluye el treinta y uno de diciembre; o durante el lapso que determine el Pleno a propuesta de la Comisión de Adscripción.
+
+El cargo de Administrador se ejercerá en el orden que determine el Pleno, a propuesta de la Comisión de Adscripción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DEL SIMILAR 36/2014, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELACIONADO CON LAS FUNCIONES DE LOS ADMINISTRADORES DE LOS MISMOS, D.O.F. 31 DE MAYO DE 2016)</small>
 
@@ -742,3 +744,15 @@ D.O.F. 31 DE MAYO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 2 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, RELATIVO A LA DURACIÓN DEL CARGO DE ADMINISTRADOR".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Todos los jueces de Distrito especializados en el sistema penal acusatorio que funjan como Administradores de los Centros de Justicia Penal Federal al 31 de diciembre de 2016, independientemente de la fecha de su designación, concluirán sus funciones de administración en dicha fecha.
+
+CUARTO. El orden en que los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores, a partir del 1º de enero de 2017, será determinado antes del 31 de diciembre de 2016.
