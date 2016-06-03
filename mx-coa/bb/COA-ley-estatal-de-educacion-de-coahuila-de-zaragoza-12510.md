@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2016-04-12"
+last_updated: "2016-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ESTATAL DE EDUCACION DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA DE ZARAGOZA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 3 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 405 PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -239,13 +239,13 @@ I. Otorgar al Instituto Nacional de Evaluación Educativa y a las autoridades ed
 
 II. Proporcionar oportunamente la información que se les requiera;
 
-III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos de evaluación, y (sic)
+III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos de evaluación, y
 
 ###### ARTICULO 10.
 
 Corresponden a la autoridad educativa estatal, de manera concurrente con la federación, las atribuciones que señala la Ley General de Educación y demás disposiciones aplicables.
 
-El Ejecutivo del Estado podrá celebrar con la Federación convenios para coordinar y unificar las actividades educativas a que se refiere este artículo en los términos establecidos en la Ley General de Educación.
+El Ejecutivo del Estado podrá celebrar con la Federación convenios para coordinar y unificar las actividades educativas a que se refiere este artículo en los términos establecidos en a Ley General de Educación.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -255,7 +255,7 @@ Las autoridades educativas federal y local, se reunirán periódicamente con el 
 
 El ayuntamiento de cada municipio, además de las atribuciones que señala la Ley General de Educación y demás disposiciones aplicables, tendrá las siguientes:
 
-I.- Participar en la planeación del crecimiento de la infraestructura física de los servicios educativos y en su adecuado mantenimiento en su ámbito de competencia; y (sic)
+I.- Participar en la planeación del crecimiento de la infraestructura física de los servicios educativos y en su adecuado mantenimiento en su ámbito de competencia; y
 
 II.- Proponer a la autoridad educativa estatal acciones encaminadas a lograr un mejor uso de los recursos materiales destinados al sector.
 
@@ -695,11 +695,11 @@ VI.- Formar al educando para el análisis crítico, científico y objetivo de la
 
 VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología para atender los requerimientos sociales; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE ABRIL DE 2016)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE ABRIL DE 2016) (F. DE E., P.O. 3 DE JUNIO DE 2016)
 
 VIII.- Apoyar al educando con talleres de orientación vocacional, implementados de modo sistemático, progresivo y permanente para que pueda escoger en el nivel superior la carrera o profesión que mejor se adapte a sus intereses, aptitudes y posibilidades de desarrollo.
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2016)</small>
+(ADICIONADA, P.O. 12 DE ABRIL DE 2016) (F. DE E., P.O. 3 DE JUNIO DE 2016)
 
 IX.- Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad.
 
@@ -787,7 +787,7 @@ Este nivel educativo tendrá carácter propedeútico, terminal o bivalente. Ser�
 
 Se incluirá orientación a los padres o tutores y a los maestros y personal de las escuelas de educación media superior regulares que integren a los alumnos.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2016)</small>
+(ADICIONADO, P.O. 12 DE ABRIL DE 2016) (F. DE E., P.O. 3 DE JUNIO DE 2016)
 
 Además se implementaran talleres de orientación vocacional de forma permanente y progresiva para que el educando, llegado el momento, elija la carrera o profesión que sea más adecuada a su perfil, intereses y habilidades.
 
@@ -795,7 +795,7 @@ Además se implementaran talleres de orientación vocacional de forma permanente
 
 El bachillerato tendrá las siguientes características y finalidades:
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2016)</small>
+(REFORMADA, P.O. 12 DE ABRIL DE 2016) (F. DE E., P.O. 3 DE JUNIO DE 2016)
 
 I.- Desarrollar las habilidades necesarias para adquirir los conocimientos básicos de las ciencias, las humanidades, las tecnologías y para acceder a estudios superiores con la orientación vocacional previa que le permita al alumno elegir la carrera profesional que mejor le acomode a su perfil, gustos y talentos.
 
@@ -941,7 +941,7 @@ IV.- Propiciar, mediante la implementación de mecanismos idóneos, la innovaci�
 
 V.- Ofrecer oportunidades para el estudio sistemático y la autogestión;
 
-VI.- Fortalecer el conocimiento de la ciencia, la tecnología y demás contenidos de los diferentes niveles educativos; y (sic)
+VI.- Fortalecer el conocimiento de la ciencia, la tecnología y demás contenidos de los diferentes niveles educativos; y
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1101,7 +1101,7 @@ II.- Contar con edificios adecuados, laboratorios, talleres, bibliotecas, áreas
 
 III.- Sujetarse a los planes y programas de estudio que la autoridad otorgante considere procedentes en el caso de educación distinta a la inicial, preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
-IV.- Presentar, tratándose de educación media y superior, los estudios referentes a la necesidad de impartir dicha educación en la entidad, a fin de examinar el mercado de trabajo de los recursos humanos a los cuales estarán dirigidos los estudios y que, en su caso, justifiquen su necesidad; y (sic)
+IV.- Presentar, tratándose de educación media y superior, los estudios referentes a la necesidad de impartir dicha educación en la entidad, a fin de examinar el mercado de trabajo de los recursos humanos a los cuales estarán dirigidos los estudios y que, en su caso, justifiquen su necesidad; y
 
 V.- Cubrir ante las autoridades competentes los derechos que establezcan las leyes fiscales de la entidad.
 
@@ -1281,7 +1281,7 @@ V.- Participar en el mantenimiento, reparación y mejora de las instalaciones de
 
 VI.- Formar parte de la asociación de padres de familia de la institución, y ser informado por sus representantes, cuando menos cada dos meses, de la aplicación de las cooperaciones realizadas en numerario, bienes y servicios que se hayan realizado durante el ciclo escolar;
 
-VII.- Formar parte de los consejos de participación social de acuerdo a los lineamientos de los reglamentos respectivos; y (sic)
+VII.- Formar parte de los consejos de participación social de acuerdo a los lineamientos de los reglamentos respectivos; y
 
 VIII.- Opinar en relación a las contraprestaciones que las instituciones fijen en el servicio educativo que ofrezcan a sus hijos, pupilos o representados, en el caso de las escuelas particulares.
 
@@ -1327,7 +1327,7 @@ II.- Acudir ante las autoridades del plantel escolar o el maestro del grupo, cua
 
 III.- Informarse en todo momento del comportamiento de su hijo, pupilo o representado en la escuela y en todas las actividades relacionadas con su educación;
 
-IV.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como corresponsabilizarse en la instrumentación de las acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad; y (sic)
+IV.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como corresponsabilizarse en la instrumentación de las acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad; y
 
 V.- Participar en las actividades que se realicen para mejorar el nivel de vida de los integrantes de la comunidad escolar.
 
@@ -1395,7 +1395,7 @@ Los consejos escolares de participación social se integrarán en la forma previ
 
 La Secretaria de Educación promoverá, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos.
 
-Los Consejos Escolares de Participación Social, propondrán estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determine la Secretaría de Educación Pública Federal y las autoridades competentes; (sic)
+Los Consejos Escolares de Participación Social, propondrán estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determine la Secretaría de Educación Pública Federal y las autoridades competentes;
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2014)</small>
 
@@ -1509,7 +1509,7 @@ XIII.- Incumplir con lo dispuesto en el artículo 77 de esta ley;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2014)</small>
 
-XIV.- Impartir educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica, con pretensión de acreditación y validez oficial de estudios, sin contar con la autorización correspondiente; y (sic)
+XIV.- Impartir educación preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica, con pretensión de acreditación y validez oficial de estudios, sin contar con la autorización correspondiente; y
 
 XV.- Incumplir cualesquiera de los demás preceptos de esta ley, así como las disposiciones expedidas con fundamento en ella.
 
