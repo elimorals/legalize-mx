@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-de-desarrollo-cultural-para-el-estado-5041
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-28"
-last_updated: "2006-04-28"
+last_updated: "2016-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 REGLAMENTO DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 28 de abril de 2006.
 
@@ -388,7 +388,459 @@ El Instituto deberá supervisar y evaluar el cumplimiento de los acuerdos y conv
 
 Los ingresos que el Estado perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de zonas protegidas, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de los bienes o zonas protegidas dentro de las cuales se generen dichos ingresos.
 
-TRANSITORIOS (SIC)
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+
+## TÍTULO TERCERO. DEL CONSEJO DE CULTURA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO PRIMERO
+
+DISPOSICIONES GENERALES.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 48.
+
+El Consejo de Cultura es el órgano de carácter ciudadano que con voz y voto coadyuva con el Ejecutivo del Estado en la rectoría de la política pública en materia cultural, el cual funge como un espacio de vinculación, deliberación, colaboración y corresponsabilidad entre la autoridad y la sociedad, en especial con la comunidad artística.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 49.
+
+El Consejo de Cultura funcionará de conformidad a lo establecido por este Reglamento y tendrá atribuciones de carácter propositivo, consultivo y de orientación de política pública en materia cultural, para lo cual contará con las siguientes facultades:
+
+I. En materia propositiva:
+
+1. Proponer las bases generales, principios o criterios rectores para que la Secretaría de Cultura elabore y lleve a cabo el Plan Estatal de Cultura;
+
+2. Proponer las bases generales para que la Secretaría de Cultura elabore el Plan Anual de Actividades, desglosado por programas y acciones;
+
+3. Proponer las bases generales para que la Secretaría de Cultura instrumente la promoción cultural a partir de programas diseñados conjuntamente por artistas y autoridades;
+
+4. Exponer y denunciar en las sesiones respectivas los casos en los que la autoridad cultural, funcionarios o empleados de la Secretaría de Cultura se aparten de las normas y criterios que rijan los planes y programas establecidos;
+
+5. Proponer el diseño de mecanismos financieros novedosos que permitan a la Secretaría de Cultura allegarse recursos para financiar programas;
+
+6. Conocer y encauzar las denuncias de las presuntas violaciones a los derechos culturales;
+
+7. Proponer la elaboración de leyes y reglamentos en la materia para que las autoridades competentes las presenten o autoricen en la esfera de su competencia;
+
+8. Proponer mecanismos que favorezcan la transparencia y la rendición de cuentas en el sector cultura;
+
+9. Proponer a las autoridades competentes descuentos, deducciones, donaciones y cualquier otro estímulo económico en materia de fomento cultural;
+
+10. Proponer la implementación de un esquema de asistencia y protección social para artistas y promotores culturales, con la coparticipación de éstos en la conformación de un Fondo destinado a ese propósito, y
+
+11. Proponer las bases generales para la preservación y fortalecimiento de las culturas populares del Estado.
+
+II. En materia de consulta y opinión especializada:
+
+1. Desarrollar las bases para recabar la opinión de la comunidad cultural y demás sectores de la sociedad respecto a la política cultural del Estado, la cual hará del conocimiento de las autoridades competentes;
+
+2. Brindar asesoría y apoyo a la Secretaría de Cultura para llevar a cabo proyectos y programas que eleven la calidad de los servicios culturales;
+
+3. Crear Grupos de Trabajo o comisiones que sean necesarias para planear, instrumentar o evaluar la política pública, y
+
+4. Crear observatorios ciudadanos en materia cultural para analizar y evaluar los programas y acciones de la materia.
+
+III. En materia de orientación:
+
+1. Establecer las directrices o pautas generales para el desarrollo de la política cultural;
+
+2. Establecer las bases generales para que la Secretaría de Cultura pueda presentar el Plan Anual de aplicación presupuestal, en el que se dé preferencia a proyectos culturales y artísticos realizados por coahuilenses;
+
+3. Establecer bases generales para la orientación de los mecanismos financieros y fondos económicos de apoyo a las iniciativas de los creadores, artistas, intelectuales y promotores culturales de la entidad, organizados en compañías y asociaciones civiles, que permitan allegarles recursos bajo esquemas modernos de financiamiento y propiciar con ello la multiplicación de la actividad cultural en todo el estado;
+
+4. Diseñar bases generales de los programas que autorizará la Secretaría de Cultura que fortalezcan, impulsen y vinculen integralmente los procesos de capacitación, creación, producción y difusión del arte, y que aseguren la sustentabilidad, el fortalecimiento y el crecimiento de proyectos artísticos sólidos, de mediano y largo plazo;
+
+5. Diseñar las bases para que la Secretaría de Cultura instrumente mecanismos de supervisión y evaluación a fin de evitar la arbitrariedad en el ejercicio de las funciones culturales, y
+
+6. Orientar la política cultural hacia la procuración de un equilibrio en la aplicación presupuestal, considerando las necesidades y características de las distintas regiones del Estado, así como de las diferentes disciplinas artísticas y manifestaciones culturales.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 50.
+
+El Consejo de Cultura se conformará, en los términos de la Ley de Desarrollo Cultural para el Estado de Coahuila de Zaragoza, por los representantes del gobierno, del sector artístico y la sociedad civil siguientes:
+
+I. Por el sector público estatal:
+
+1. El Titular del Ejecutivo del Estado;
+
+2. La Secretaría de Cultura;
+
+3. La Secretaría de Educación, y
+
+4. La Secretaría de Finanzas.
+
+II. Por el sector público federal y municipal:
+
+1. Un representante del área cultural federal, y
+
+2. Un representante por cada una de las cinco regiones en el Estado.
+
+III. Por el sector artístico y cultural, con representación de todas las regiones del Estado:
+
+1. Dos integrantes de cada una de las áreas de Teatro, Danza, Música, Artes Plásticas y Visuales, y Literatura, y
+
+2. Un integrante de cada una de las áreas de Cine, Cultura Popular y Patrimonio Cultural, Promoción Cultural, Historia y Periodismo Cultural.
+
+IV. Por el sector de la ciudadanía en general:
+
+1. Un representante de la iniciativa privada;
+
+2. Un representante de la comunidad académica relacionado con el ámbito cultural, y
+
+3. Un representante de las organizaciones no gubernamentales relacionado con el ámbito cultural.
+
+El cargo de miembro del Consejo de Cultura será honorífico, por lo cual los consejeros no recibirán remuneración alguna por el ejercicio de su encargo.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 51.
+
+La designación de los miembros del Consejo de Cultura, se hará en los términos siguientes:
+
+I. El sector público estatal se integrará por los titulares de las dependencias correspondientes. Cada titular podrá designar un suplente, quien lo sustituirá en sus ausencias temporales, y que en todo caso será un funcionario vinculado con el tema cultural.
+
+II. El sector público federal y municipal se integrará (sic):
+
+1. El representante del área cultural federal será invitado por el Ejecutivo del Estado, a través de la Secretaría de Cultura, y
+
+2. El representante de cada una de las cinco regiones en el Estado, será elegido por los presidentes municipales que integran la misma región, debiendo recaer la representación en una persona que haya destacado en la cultura en general.
+
+III. El sector artístico y cultural se elegirá democráticamente, de acuerdo a las siguientes reglas:
+
+1. Por cada representante de cada área se elegirá un propietario y un suplente por mayoría, bajo la misma fórmula;
+
+2. Se elegirán a través del voto libre y secreto de los integrantes que correspondan a cada área del padrón artístico y cultural;
+
+3. La duración del cargo será de tres años, sin derecho a la reelección consecutiva;
+
+4. Para ser integrante del padrón artístico o cultural, se deberá contar con los siguientes requisitos:
+
+a) Tener 18 años de edad y ser coahuilense, residente o haber realizado obra artística o cultural en el Estado, durante los tres años previos a la elección;
+
+b) Ser artista profesional, promotor cultural, periodista cultural, académico, investigador o teórico de la cultura y el arte, con cinco años de participación. Quienes no reúnan el tiempo y requisitos serán incluidos en el padrón en su calidad de postulantes con voz pero sin voto, y
+
+c) Presentar solicitud de inscripción y anexar los comprobantes de formación y trayectoria artística. No se considera trayectoria artística el trabajo que hubiera realizado con el carácter de alumno o estudiante.
+
+El registro, validación y actualización del padrón le corresponde a la Secretaría de Cultura, que se auxiliará por un Comité Técnico integrado por tres personas que hayan destacado en la comunidad artística o cultural, a invitación de la Secretaría.
+
+5. Además de los requisitos previstos en el numeral anterior, cada área del padrón deberá cumplir con los siguientes criterios:
+
+a) Artes plásticas y visuales: si el solicitante ha expuesto su obra individualmente en por lo menos 2 ocasiones en alguna institución de reconocido prestigio en las artes visuales; o haber ilustrado por lo menos 2 libros o revistas especializadas en artes de circulación nacional; ha participado como museógrafo o curador en por lo menos 5 exposiciones; o ha recibido por lo menos en 3 ocasiones premios, becas o reconocimientos por su obra o trayectoria artística por parte de una institución de carácter estatal, nacional o internacional;
+
+b) Danza: Si el solicitante tiene una trayectoria como ejecutante, maestro, coreógrafo, director o investigador de danza, con preparación académica en alguna institución o asociación especializada con reconocimiento oficial, y ha participado en por lo menos 5 montajes o programas artísticos; o bien haber recibido 3 premios, becas o reconocimientos otorgados por instituciones oficiales que avalen su trayectoria y experiencia;
+
+c) Literatura: si el solicitante ha publicado 3 de sus obras literarias en alguna editorial o en revista especializada; ha obtenido 3 premios, becas u otro reconocimiento por su obra o trayectoria; o ha publicado al menos 3 libros de crítica o ensayo literario en una editorial establecida, sin tomar en cuenta las publicaciones de autor;
+
+d) Música: si se ha publicado parte de la obra musical del solicitante en alguna editorial o en una revista especializada en por lo menos 3 ocasiones; le han sido presentadas, por lo menos 2 composiciones, por un ensamble musical en alguna sala de conciertos del Estado, del país o del extranjero; le ha sido editado parte de su producción musical en por lo menos 3 discos compactos por una productora musical o institución cultural; o participa como ejecutante o director en algún escenario a donde el público acuda exclusivamente a escuchar música, con una trayectoria continua comprobable y/o una formación académica profesional equivalente al menos a un 60% de la curricula escolar;
+
+e) Teatro: si el solicitante se ha presentado en al menos 5 obras en algún escenario público de clara vocación teatral, ya sea como actor, director o escenógrafo y 10 como diseñador de vestuario, maquillaje, iluminación o sonido; es dramaturgo y ha publicado 3 de sus obras en alguna editorial o en alguna revista especializada en literatura o teatro; ha obtenido 3 premios, becas u otro reconocimiento por su obra o trayectoria; o 3 de sus obras han sido representadas profesionalmente;
+
+f) Cine: si el solicitante ha participado en por lo menos 10 obras cinematográficas profesionales terminadas (cortometraje o largometraje) y con propuesta artística, en formato de cine y/o video, y dicha obra haya sido exhibida en salas de cine o en canales de televisión o ha sido distribuida en empresas especializadas en la comercialización de obras cinematográficas, como Director, Productor, Sonidista Editor, Diseñador de Producción, Director de Arte, Guionista, Músico de cine, Director Asistente, Continuista, Animador Cinematográfico, Creador de Efectos Especiales para Cine, Maquillista especializado en Cine, o Actores de cine sin considerarse este último los que participan como extras; o que haya participado en al menos 3 festivales cinematográficos nacionales y/o internacionales;
+
+g) Cultura Popular y Patrimonio Cultural: si el solicitante es artesano, creador o ejecutante de cualquier manifestación popular con 5 años de trayectoria; o es académico, teórico, creador o crítico sobre patrimonio cultural y ha publicado por lo menos 3 ensayos en catálogos, revistas especializadas o medios de comunicación, y
+
+h) Promoción cultural, historia y periodismo cultural: si el solicitante ha realizado actividades comprobadas como empresario artístico o promotor cultural en los últimos 5 años; es historiador o investigador y ha publicado por lo menos 3 ensayos en catálogos, revistas especializadas o medios de comunicación; o es crítico, editorialista, locutor o periodista cultural en medios de comunicación escrita, radial, televisiva o electrónica en los últimos 5 años o haber obtenido premios, por lo menos en 3 ocasiones, por su labor periodística a nivel estatal, nacional o internacional.
+
+6. Para poder ser electo como integrante del sector artístico y cultural, se deben reunir los siguientes requisitos:
+
+a) Estar inscrito en el padrón artístico y cultural a que se refiere el numeral 4 de la presente fracción;
+
+b) Poseer reconocida trayectoria demostrada en el área que se postula, teniendo una participación profesional, activa y comprobada de mínimo siete años anteriores al día de su elección, y
+
+c) No ocupar el día de la elección un cargo de dirección en mandos medios o superiores en dependencias del gobierno federal, estatal o municipal, a menos que se haya separado con un año de anticipación a la emisión de la convocatoria respectiva.
+
+Para los efectos de esta fracción; el Consejo podrá dar difusión por los medios que le sean pertinentes, de las elecciones, a efecto de invitar a la comunidad artística a participar en las mismas, brindándole toda la información relativa a los procedimientos, requisitos, plazos, lugares y horarios. Además, el Consejo podrá solicitar, para llevar a cabo las elecciones, auxilio del Instituto Electoral de Coahuila.
+
+Los artistas sólo podrán postularse en una disciplina.
+
+IV. El sector de la ciudadanía en general:
+
+1. El representante de la iniciativa privada será invitado por el Ejecutivo del Estado de entre los representantes de la iniciativa privada en el Estado, y
+
+2. El representante de la comunidad académica o de las organizaciones no gubernamentales, se elegirá por los integrantes del Consejo de Cultura de entre las personas que hayan presentado su solicitud correspondiente.
+
+V. El Consejo de Cultura expedirá las bases de la convocatoria para integrar cada uno de los sectores correspondientes.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO SEGUNDO
+
+DEL FUNCIONAMIENTO DEL CONSEJO DE CULTURA.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+
+#### SECCIÓN PRIMERA
+
+DE LOS MIEMBROS DEL CONSEJO DE CULTURA.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 52.
+
+El Consejo de Cultura tendrá un Presidente, que será la o el Titular del Poder Ejecutivo del Estado, y un Secretario Técnico, que será la o el titular de la Secretaría de Cultura, o las personas que éstos designen para tales efectos, que en todo caso, deberán ser personas que destaquen en el ámbito cultural. Tendrán las facultades que les confiera este Reglamento.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 53.
+
+Son facultades de los miembros del Consejo de Cultura:
+
+I. Proponer al Consejo los proyectos de sus áreas representadas;
+
+II. Representar al Consejo en los asuntos que éste determine;
+
+III. Servir de enlace entre los grupos representados y el Consejo;
+
+IV. Participar en las comisiones del Consejo en las que hayan sido designados conforme a este Reglamento, y
+
+V. Participar en las deliberaciones del Consejo y emitir su voto respecto al diseño, elaboración, y aprobación de los planes, programas y presupuestos que el Gobierno del Estado de Coahuila lleve a cabo en el sector cultura.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 54.
+
+Son facultades del Presidente del Consejo de Cultura:
+
+I. Someter aquellos asuntos de su competencia a la consideración del Pleno del Consejo, cuando por su importancia y trascendencia, a juicio del Presidente, así lo amerite;
+
+II. Ser el vocero oficial del organismo ante los medios de comunicación. El Presidente podrá delegar esta facultad en aquellos consejeros y funcionarios que estime conveniente;
+
+III. Expedir la convocatoria relativa a la primera Sesión Ordinaria del año, y las de las sesiones extraordinarias que deban celebrarse;
+
+IV. Participar en las sesiones, con voz y voto de calidad, y
+
+V. Dirigir los debates durante la sesión, así como declarar que un asunto ha quedado suficientemente discutido y someterlo a la votación de los miembros.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 55.
+
+Son funciones y facultades del Secretario Técnico:
+
+I. Cumplir con los principios y misión del Consejo, con las normas contenidas en (sic) Ley de Desarrollo Cultural para el Estado de Coahuila de Zaragoza, en este Reglamento y demás ordenamientos aplicables, con las políticas y acuerdos emanados del Consejo y con las instrucciones dadas por el Presidente del mismo;
+
+II. Ejecutar y vigilar el cumplimiento de las políticas culturales, normas y decisiones, de acuerdo a las disposiciones del Consejo y conforme a las instrucciones que para tal efecto le gire el Presidente;
+
+III. Redactar las minutas y actas de las sesiones del Consejo, que deberán ser firmadas por todos los miembros del Consejo.
+
+III (SIC). Formular y presentar al Presidente y al Consejo el plan anual de actividades y proyectos;
+
+IV. Presentar al pleno del Consejo los planes, proyectos, programas y actividades culturales ordinarias y extraordinarias y atender a las enmiendas, agregados, modificaciones o correcciones que sus miembros aprueben por mayoría;
+
+V. Emitir la convocatoria para que el Consejo sesione de manera extraordinaria, y
+
+VI. Las demás que le confiera el Consejo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA
+
+DE LAS SESIONES DEL CONSEJO DE CULTURA.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 56.
+
+El Consejo de Cultura determinará la fecha y lugar de sus sesiones. Las sesiones tendrán el carácter de ordinarias y extraordinarias.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 57.
+
+Serán sesiones ordinarias las que se celebren tres veces al año, de acuerdo con el calendario que apruebe el propio Consejo de Cultura; y extraordinarias cuando se lleven a cabo previa convocatoria del Presidente, del Secretario Ejecutivo o del equivalente a las dos terceras partes de los miembros del Consejo. El presente reglamento determinará los requisitos y el procedimiento a que se deberá sujetar la convocatoria para estas sesiones.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 58.
+
+Los acuerdos tomados válidamente por el Consejo, serán de observancia obligatoria para sus miembros. Para que el Consejo sesione válidamente, se requerirá la asistencia del equivalente al cincuenta por ciento más uno de sus miembros, sin perjuicio de los requisitos de convocatoria que deban observarse para las sesiones de carácter extraordinario.
+
+Las ausencias temporales de los miembros del Consejo por parte del sector público estatal y de la sociedad civil serán cubiertas por los suplentes que al efecto designe el titular. Las de los Consejeros representantes del sector artístico serán cubiertas por sus respectivos suplentes de fórmula, para lo cual deberán exhibir documento que los acredite como tales.
+
+Las ausencias temporales deberán ser previamente notificadas al Secretario Técnico, y de éstas se asentará razón en el acta de la sesión respectiva.
+
+En caso de fallecimiento, incapacidad, destitución, inhabilitación, o cualquier otra causa que impida de manera permanente el ejercicio del encargo de Consejero, las ausencias serán suplidas conforme a las reglas siguientes:
+
+I. Tratándose de los Consejeros representantes del Sector Público estatal, cubrirá el puesto el nuevo titular respectivo;
+
+II. En el caso de los Consejeros del Sector Artístico; el respectivo suplente de fórmula será nombrado titular, para el tiempo que quede para el ejercicio del encargo. En este caso, el Consejo de Cultura nombrará un suplente que reúna los requisitos para ser titular y que corresponda al mismo sector artístico que vaya a suplirse.
+
+III. En el caso de los Consejeros representantes de la sociedad civil, se procederá a su designación en los términos de la Ley de Desarrollo Cultural para el Estado de Coahuila de Zaragoza.
+
+Será causa de remoción del encargo ausentarse injustificadamente a dos sesiones ordinarias consecutivas.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 59.
+
+Las decisiones del Consejo se tomarán por votación directa. Para que un acuerdo sea aprobado, se requerirá de una votación total del cincuenta por ciento más uno del total de los miembros presentes, teniendo el Presidente voto de calidad en el caso de empate.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 60.
+
+El Consejo de Cultura, deberá reunirse por lo menos tres veces al año con carácter ordinario, para desahogar los asuntos que sean de su competencia. El calendario de las sesiones ordinarias será acordado en la primera sesión de (sic) año, misma que deberá tener verificativo, dentro de los primeros tres meses del año de que se trate. Para fijar la fecha de la primera sesión anual, se observarán las reglas relativas a la convocatoria para las sesiones extraordinarias.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 61.
+
+El desarrollo de las sesiones se sujetará a las reglas siguientes:
+
+I. Reunidos en la fecha, hora y lugar acordados para tal efecto, el Presidente encomendará al Secretario para el pase de lista correspondiente. Hecho lo anterior, el Secretario dará cuenta de la asistencia y declarará que se cumple con el quórum legal para sesionar válidamente;
+
+II. Declarado lo anterior, el Secretario Técnico dará lectura al acta de la sesión anterior, misma que será puesta a la consideración de los presentes, quienes tendrán oportunidad de realizar las observaciones pertinentes. No habiendo observaciones, o hechas las mismas, se someterá a votación para su aprobación;
+
+III. Posteriormente, se dará lectura al orden del día, que deberá haberse incluido en el acta de la sesión anterior, o en la convocatoria respectiva, según sea el caso. Hecho lo anterior, se procederá a la exposición y discusión de los asuntos correspondientes;
+
+IV. Cuando a juicio del Presidente un asunto se considere suficientemente discutido, éste lo pondrá a consideración de los presentes a efecto de ser votado; el resultado de la votación será asentado en el acta respectiva por el Secretario;
+
+V. Tomados los acuerdos respectivos, el Presidente declarará cerrada la Sesión, y
+
+VI. Del desarrollo de las sesiones levantará constancia el Secretario Técnico en las actas que para efecto redacte. Las actas deberán ser aprobadas por los miembros del Consejo y firmadas por éstos.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 62.
+
+A las sesiones del Consejo podrán asistir otros funcionarios del Gobierno del Estado, así como Presidentes Municipales si en dicha sesión se tratase lo concerniente a alguna actividad relacionada con el o los municipios respectivos. Podrá invitarse también a artistas, promotores, estudiosos de la cultura y ciudadanos interesados en el tema, mismos que tendrán voz pero no voto. Las invitaciones podrán hacerlas el Gobernador del Estado, la Secretaria de Cultura o los miembros del Sector Artístico previa propuesta presentada en sesión anterior y avalada por la mayoría del Consejo.
+
+Podrán concurrir asimismo a las sesiones, sin derecho a voz ni voto, los Consejeros Suplentes del Sector Artístico cuando concurra también su titular.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 63.
+
+Las sesiones con carácter extraordinario deberán ser previamente convocadas, por el Presidente, el Secretario Técnico o el equivalente a las dos terceras partes de los miembros del Consejo de Cultura.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 64.
+
+Las sesiones extraordinarias que sean convocadas por el Presidente o por el Secretario Ejecutivo, deberán ser convocadas con por lo menos 3 días de anticipación al día en que pretendan celebrarse. La convocatoria deberá de entregarse personalmente a los miembros del Consejo, y deberá ser acusada de recibido.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 65.
+
+Las sesiones extraordinarias convocadas por los miembros del Consejo, deberán de apegarse a las siguientes reglas:
+
+I. Deberán ser convocadas por lo menos por el equivalente a las dos terceras partes de los miembros del Consejo;
+
+II. Los convocantes deberán solicitar la realización de la Sesión al Presidente del Consejo, quien tendrá hasta 10 días naturales para responder, por sí o a través del Secretario Técnico del Consejo, sobre la fecha de realización, la cual deberá efectuarse en un lapso no mayor de 15 días naturales a partir de su respuesta;
+
+III. En caso de que el Presidente del Consejo no responda a la solicitud planteada en el plazo señalado, los miembros convocantes le enviarán nueva solicitud, la cual deberá responderse en un plazo no mayor de 3 días, señalando la fecha de realización en un lapso de 15 días. En caso contrario, los solicitantes emitirán la Convocatoria para la Sesión Extraordinaria del Consejo, señalando día, hora y lugar de realización, así como el tema o asuntos a tratar, y
+
+IV. Cuándo la Sesión Extraordinaria sea convocada por las dos terceras partes del consejo luego de haber agotado el procedimiento anterior, deberá señalarse tal circunstancia anexando la documentación probatoria correspondiente, así como los nombres y firmas respectivas de los convocantes, acreditando el número suficiente de miembros consejeros.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 66.
+
+No serán válidas las sesiones extraordinarias que se celebren sin observar los requisitos de convocatoria descritos en este Reglamento, excepto cuando en la sesión participe la totalidad de los miembros del Consejo, caso en el que se dispensará la convocatoria previa.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 67.
+
+Todas las convocatorias a las sesiones que celebre el Consejo, deberán contener el día, la hora y el lugar de celebración de la misma; así como una relación clara y suscinta (sic) de los temas que se tratarán. Deberá también anexarse toda la documentación pertinente para el estudio y preparación de los temas que vayan a desahogarse.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2016)</small>
+
+#### SECCIÓN TERCERA
+
+DE LAS COMISIONES DEL CONSEJO DE CULTURA.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 68.
+
+El Consejo podrá crear las comisiones que considere convenientes, con carácter temporal o permanente, y les otorgará las facultades y condiciones necesarias para el eficaz desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 69.
+
+Las comisiones estudiarán, evaluarán, analizarán y dictaminarán los asuntos a su cargo. Las decisiones deberán someterse a la consideración del Consejo en Pleno.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 70.
+
+Las comisiones solamente intervendrán en aquellos asuntos encomendados expresamente por el Pleno del Consejo y los documentos que de ellas emanen únicamente tendrán el carácter de actas o dictámenes, los cuales sólo podrán darse a conocer a personas ajenas a los integrantes del Consejo previo acuerdo expreso del mismo en ese sentido.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 71.
+
+Los miembros de cada Comisión serán designados y removidos libremente por el Consejo. Las Comisiones estarán formadas por un Coordinador y los vocales respectivos.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 72.
+
+Las comisiones sesionarán previa convocatoria de su Coordinador o de la mayoría de sus integrantes, con la asistencia de por lo menos la mayoría de sus miembros, y emitirán sus dictámenes por mayoría de votos de los presentes. A petición expresa del sustentante, en los dictámenes de las comisiones se podrá hacer constar el voto razonado de quienes se hayan opuesto al sentido del dictamen.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 73.
+
+Las convocatorias para la sesión de las Comisiones deberán hacerse por los (sic) menos tres días naturales antes de su celebración. Este requisito no será necesario cuando se encuentren reunidos la totalidad de los integrantes de cada comisión y por ese hecho se den por enterados.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 74.
+
+Son facultades de los Coordinadores de Comisión:
+
+I. Presidir las sesiones de las comisiones;
+
+II. Presentar los informes y dictámenes de las comisiones al Pleno del Consejo, y
+
+III. En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de las comisiones.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 75.
+
+Los vocales de las comisiones tendrán las siguientes facultades:
+
+I. Participar en las sesiones de las comisiones, emitiendo sus opiniones y votando los dictámenes respectivos;
+
+II. Suplir al Coordinador en sus ausencias, y
+
+III. Convocar por acuerdo de la mayoría de sus integrantes a la celebración de sesiones de la comisión respectiva.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 76.
+
+Cada Comisión elegirá de entre sus miembros a un Secretario, que tendrá a su cargo la elaboración de las actas y dictámenes derivados de las sesiones que celebren.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 77.
+
+Las ausencias de los Coordinadores de Comisión serán cubiertas por el vocal que designe en sesión la misma Comisión. La ausencia del Coordinador se asentará en el acta respectiva, así como el nombramiento del Coordinador para esa sesión.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2016)</small>
+
+### CAPITULO TERCERO.
+
+DE LAS SANCIONES.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### Artículo 78.
+
+Las violaciones al presente Reglamento por parte de los integrantes del Consejo del sector artístico y de la ciudadanía serán sancionadas con amonestación privada o pública por parte del propio Consejo. Las de los miembros del Sector Público estatal, en lo conducente, conforme lo establecido en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza.
+
+## TRANSITORIOS
 
 Artículo Primero.- Este Reglamento entrará en vigor a los tres días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -399,3 +851,13 @@ EL GOBERNADOR DEL ESTADO
 PROFESOR HUMBERTO MOREIRA VALDÉS
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN TÍTULO TERCERO CON SUS RESPECTIVAS DISPOSICIONES NORMATIVAS AL REGLAMENTO DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
