@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-direccion-de-pensiones-de-monclova-coahuila-de-114054
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-05"
-last_updated: "2016-04-05"
+last_updated: "2016-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE LA DIRECCION DE PENSIONES DE MONCLOVA, COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LA DIRECCIÓN DE PENSIONES DE MONCLOVA DEL ESTADO DE COAHUILA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 3 DE JUNIO DE 2016.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 5 de abril de 2016.
 
@@ -289,7 +289,9 @@ V.- Firmar conjuntamente con el Presidente del Consejo o con el Director General
 
 VI.- Autorizar, en conjunto con el Director General de la Dirección de Pensiones, los préstamos quirografarios de acuerdo con el reglamento respectivo.
 
-VI (SIC).- Los demás que determine esta Ley y los que en adición a los anteriores, le sean expresamente señalados por el Presidente del Consejo y por el Reglamento Interior de la Dirección de Pensiones.
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2016)</small>
+
+VII.- Los demás que determine esta Ley y los que en adición a los anteriores, le sean expresamente señalados por el Presidente del Consejo y por el Reglamento Interior de la Dirección de Pensiones.
 
 ###### ARTÍCULO 25.
 
@@ -385,7 +387,9 @@ II.- Pensión por Vejez;
 
 III.- Pensión Anticipada por Retiro;
 
-VI (SIC).- Pensión por Incapacidad por Causas Ajenas al Servicio;
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2016)</small>
+
+IV.- Pensión por Incapacidad por Causas Ajenas al Servicio;
 
 V.- Pensión por Incapacidad por Riesgos de Trabajo;
 
