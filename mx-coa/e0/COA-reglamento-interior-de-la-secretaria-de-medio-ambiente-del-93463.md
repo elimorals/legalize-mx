@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-medio-ambiente-del-9346
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-22"
-last_updated: "2014-05-30"
+last_updated: "2016-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
@@ -37,9 +37,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE COAHUILA D
 
 ### CAPÍTULO I. Competencia y organización de la Secretaría
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-La Secretaría de Medio Ambiente, en lo sucesivo, la Secretaría, es la dependencia de la Administración Pública Estatal encargada de apoyar al titular del Ejecutivo en la formulación, conducción, ejecución y evaluación de los programas y políticas estatales en las materias de recursos naturales, equilibrio ecológico, saneamiento ambiental, vida silvestre, protección y restauración ecológica y recursos forestales, con las funciones y atribuciones que expresamente le encomienda la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, así como otras leyes, reglamentos, decretos, acuerdos y disposiciones aplicables.
+La Secretaría de Medio Ambiente, en lo sucesivo, la Secretaría, es la dependencia de la Administración Pública Estatal encargada de apoyar al titular del Ejecutivo en la formulación, conducción, ejecución y evaluación de los programas y políticas estatales en las materias de recursos naturales, equilibrio ecológico, saneamiento ambiental, vida silvestre, protección y restauración ecológica, recursos forestales, desarrollo urbano, zonas metropolitanas, ordenamiento territorial y agua, con las funciones y atribuciones que expresamente le encomienda la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, así como otras leyes, reglamentos, decretos, acuerdos y disposiciones aplicables.
 
 ###### ARTÍCULO 2.
 
@@ -47,7 +49,9 @@ La Secretaría contará con un titular, quien tendrá a su cargo el despacho de 
 
 I. Subsecretaría de Gestión Ambiental.
 
-a) Dirección General de Control Ambiental.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+a) Dirección de Control Ambiental.
 
 II. Subsecretaría de Recursos Naturales.
 
@@ -59,17 +63,37 @@ b) Dirección de Cultura Ambiental.
 
 c) Dirección de Conservación del Patrimonio.
 
-III. Secretaría Técnica.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2016)</small>
 
-IV. Dirección Administrativa.
+III. Subsecretaría de Gestión Urbana y Zonas Metropolitanas.
 
-V. Dirección Jurídica.
+a) Dirección General de Administración y Cultura Urbana.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+a.1) Dirección de Cultura y Normatividad Urbana.
 
-VI. Coordinación de la Región Laguna.
+a.2) Dirección de Operación y Programación Urbana.
 
-VII. Procuraduría de Protección al Ambiente del Estado de Coahuila.
+b) Dirección de Planeación Urbana.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2016)</small>
+
+IV. Secretaría Técnica.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2016)</small>
+
+V. Dirección Administrativa.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2016)</small>
+
+VI. Dirección Jurídica.
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2016)</small>
+
+VII. Coordinación Región Laguna.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2016)</small>
+
+VIII. Procuraduría de Protección al Ambiente del Estado de Coahuila.
 
 a) Coordinación Jurídica.
 
@@ -85,7 +109,9 @@ Los manuales de organización precisarán la estructura orgánica y las funcione
 
 La Secretaría conducirá sus actividades en forma programada y con estricto apego a derecho, para servir a la comunidad con base en las políticas, estrategias, prioridades y restricciones que para el logro de los objetivos, metas, planes y programas le establezca el titular del Ejecutivo.
 
-Las unidades administrativas y la Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza, en adelante la Procuraduría, actuarán de manera coordinada para brindar a las personas las condiciones propicias para un medio ambiente adecuado para su bienestar y desarrollo, y se proporcionarán, a la brevedad posible, los informes, datos o cooperación técnica que requieran para el desarrollo de sus funciones.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+Las unidades administrativas, la Procuraduría de Protección al Ambiente del Estado de Coahuila, en adelante la Procuraduría y demás órganos descentralizados adscritos a la Secretaría, actuarán de manera coordinada para brindar a las personas las condiciones propicias para un medio ambiente adecuado para su bienestar y desarrollo y se proporcionarán, a la brevedad posible, los informes, datos y cooperación técnica que requieran para el desarrollo de sus funciones.
 
 ### CAPÍTULO II. Atribuciones del titular de la Secretaría
 
@@ -365,7 +391,7 @@ XXVIII. Promover la restauración de las áreas degradadas del Estado;
 
 XXIX. Promover y difundir ante organismos locales nacionales e internacionales, el desarrollo de proyectos, estudios y actividades de educación, capacitación e investigación sobres las actividades encaminadas a la conservación y manejo de los recursos naturales, con el fin de lograr la presencia de la Secretaría, ante la comunidad mediante publicaciones, conferencias, talleres, cursos y demás de naturaleza análoga;
 
-XXX. Emitir dictámenes técnicos y disposiciones de manejo, conservación, aprovechamiento y restauración de los recursos naturales, y (sic)
+XXX. Emitir dictámenes técnicos y disposiciones de manejo, conservación, aprovechamiento y restauración de los recursos naturales, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2014)</small>
 
@@ -374,6 +400,56 @@ XXXI. Desarrollar y establecer, en conjunto con las unidades administrativas de 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XXXII. Las demás previstas en disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 9 BIS. Corresponde al titular de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas, además de las previstas en el artículo 7 de este reglamento, las siguientes facultades y obligaciones:
+
+I. Revisar, evaluar, y en su caso, proponer la adecuación del marco aplicable al desarrollo urbano en la entidad;
+
+II. Formular, revisar y actualizar los Programas Estatales de Desarrollo Urbano y de Ordenamiento Territorial, y dar seguimiento a los programas y acciones derivadas de éstos;
+
+III. Formular, conducir, ejecutar y evaluar en la esfera de su competencia, las políticas, planes, programas y acciones de ordenamiento y regulación de los asentamientos humanos en el Estado;
+
+IV. Coordinar, conforme a la normatividad aplicable, la planeación del desarrollo urbano y el ordenamiento territorial con los tres órdenes de gobierno: Federación, Estado y Municipios;
+
+V. Apoyar y vigilar el desarrollo urbano de las diversas comunidades y centros de población;
+
+VI. Promover la formulación, revisión y actualización de los planes y programas de desarrollo urbano y de ordenamiento territorial municipales, así como de los programas que se deriven de ellos;
+
+VII. Promover la formulación, revisión y actualización de los programas de desarrollo urbano de las zonas metropolitanas del Estado;
+
+VIII. A solicitud de las autoridades municipales realizar la gestión de recursos y elaborar sus planes y programas de desarrollo urbano y ordenamiento territorial, así como brindar asesoría y capacitación técnica;
+
+IX. Promover la ejecución de los programas derivados de las estrategias de desarrollo urbano señaladas en los planes directores;
+
+X. Coordinar la planeación y programación de obras y servicios de infraestructura con los municipios, organismos y dependencias estatales y federales correspondientes, de conformidad con las estrategias de desarrollo urbano derivadas de los planes directores;
+
+XI. Proponer y promover el ordenamiento del territorio estatal, en coordinación con las autoridades federales y municipales, y con la participación de los particulares;
+
+XII. Formular y proponer los acuerdos, convenios y contratos que en materia de ordenación territorial, asentamientos humanos y desarrollo urbano celebre el Gobierno del Estado, e instrumentar las medidas necesarias para que los mismos se cumplan;
+
+XIII. En la esfera de su competencia aplicar la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila y sus reglamentos, Normas Oficiales Mexicanas y demás disposiciones aplicables legales en materia de urbanismo, edificación y construcciones en general;
+
+XIV. Emitir opiniones o dictámenes de conformidad con las normas de desarrollo urbano en las acciones de planeación, administración y regularización de los asentamientos humanos irregulares;
+
+XV. Asesorar y apoyar a los municipios, en los términos de las disposiciones aplicables, respecto a la dictaminación y viabilidad de las solicitudes de uso del suelo, fraccionamientos, relotificaciones, fusiones, subdivisiones y régimen de propiedad en condominio;
+
+XVI. Elaborar las licencias de fraccionamientos de urbanización progresiva, cuando se trate de regularizar asentamientos humanos, conforme lo previsto por la ley;
+
+XVII. Proponer la expedición y modificación, cuando proceda, de las normas técnicas complementarias, los acuerdos, instructivos, circulares y demás disposiciones necesarias para el debido cumplimiento de los ordenamientos de la materia;
+
+XVIII. Formular y emitir los dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
+
+XIX. Formular y emitir los dictámenes de congruencia de los programas de desarrollo urbano municipal, de centros de población y parciales, así como de aquellas acciones que impacten el territorio;
+
+XX. Representar a la Secretaría en los comités, grupos de trabajo comisiones, consejos y organismos, que se constituyan en materia de ordenamiento territorial, asentamientos humanos y desarrollo urbano y metropolitano;
+
+XXI. Promover la creación de reservas territoriales estratégicas para el desarrollo urbano y la vivienda, obras públicas, vialidades y demás obras;
+
+XXII. Suscribir bajo su responsabilidad todos aquellos oficios, autorizaciones, informes, tarjetas y demás documentos que se deriven de las actividades o facultades inherentes a su encargo, así como las que en forma expresa le asigne el titular de la Secretaría;
+
+XXIII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el titular de la Secretaría.
 
 ### CAPÍTULO IV. La Secretaría Técnica
 
@@ -413,11 +489,87 @@ XV. Dar seguimiento a programas de orientación que tiendan a facilitar el acces
 
 XVI. Las demás atribuciones que le confieran otras disposiciones legales o reglamentarias, así como aquellas que le confiera el titular de la Secretaría.
 
-### CAPÍTULO V. Las Direcciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO V. Las Direcciones Generales y Direcciones de Área
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 11.
 
-Cada dirección de la Secretaría contará con un titular, quien se auxiliará de los subdirectores, jefes de departamento y demás personal técnico y administrativo requerido, atendiendo a la organización interna de la Secretaría y de acuerdo a las posibilidades presupuestarias.
+Al frente de las direcciones generales habrá un titular, quien se auxiliará de los titulares de las direcciones, subdirecciones de área, jefaturas de departamento y demás personal técnico y administrativo requerido, atendiendo a la organización interna de la Secretaría y de acuerdo a las posibilidades presupuestarias.
+
+Las direcciones de área tendrán un titular, que a su vez se auxiliará de los titulares de subdirecciones, jefaturas de departamento y demás personal que se le asigne.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 11 BIS. Corresponde a los titulares de las direcciones generales, previo acuerdo con su superior jerárquico, el despacho de las siguientes atribuciones generales:
+
+I. Planear, programar, presupuestar, organizar, dirigir, controlar y evaluar el funcionamiento de las áreas administrativas bajo su responsabilidad;
+
+II. Formular los dictámenes, opiniones e informes que les sean solicitados por la autoridad superior;
+
+III. Someter los proyectos, dictámenes, opiniones e informes que elaboren las áreas administrativas a su cargo, así como los acuerdos y resoluciones que llegaren a emitirse en el ejercicio de las atribuciones encomendadas, al acuerdo de su superior jerárquico;
+
+IV. Recabar de las dependencias y entidades de la Administración Pública, así como de las unidades de la propia Secretaría, la información necesaria para el ejercicio de las funciones que les competen;
+
+V. Elaborar y presentar a su superior jerárquico el anteproyecto del presupuesto de egresos de la dirección general a su cargo;
+
+VI. Coordinarse, cuando así lo ameriten las necesidades del servicio, con las demás direcciones de área de la Secretaría para el mejor desempeño de los asuntos de su competencia;
+
+VII. Asesorar a las demás unidades de la Secretaría en la materia de su competencia y prestar el apoyo que se requiera, por acuerdo de su superior jerárquico, a las dependencias, entidades de la Administración Pública Estatal y a los ayuntamientos;
+
+VIII. Proponer y participar en la elaboración de proyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos legales en el área de su competencia;
+
+IX. Rendir los informes de las actividades realizadas por la dirección a su cargo y someterlos a la consideración de su superior jerárquico, cuando éste lo requiera;
+
+X. Dirigir, coordinar, supervisar y evaluar el desempeño de las unidades que estén a su cargo, conforme a los manuales correspondientes y las demás disposiciones aplicables, procurando siempre la mayor eficiencia, eficacia y calidad en su desempeño;
+
+XI. Promover la capacitación permanente del personal a su cargo para el desarrollo profesional y la mejora continua en la prestación de sus servicios;
+
+XII. Suscribir bajo su responsabilidad todos aquellos oficios, informes, tarjetas y demás documentos que se deriven de las actividades o facultades inherentes a su encargo, así como las que en forma expresa le asigne su superior jerárquico;
+
+XIII. Expedir los oficios de comisión al personal que realice diligencias que ordena el Titular de la Secretaría, su superior jerárquico o quién sea competente;
+
+XIV. Certificar y expedir copias de las constancias que obren en su poder y en los archivos de las unidades administrativas que tenga adscritas, y no constituyan información confidencial o reservada, previo pago de los derechos correspondientes, excepto cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso o averiguación;
+
+XV. Aplicar en el ámbito de sus atribuciones las disposiciones en materia de acceso a la información pública y protección de datos personales;
+
+XVI. Representar a la Secretaría en los comités, comisiones, consejos, organismos, grupos técnicos e instancias sociales y de gobierno, que se constituyan en las materias de su competencia;
+
+XVII. Certificar las copias de los documentos y constancias que obren en su poder y no constituyan información confidencial o reservada, en los términos de las normas aplicables;
+
+XVIII. Las facultades que tengan las unidades administrativas que le sean adscritas; y
+
+XIX. Las demás previstas en las disposiciones aplicables, así como aquellas que les confiera el titular de la Secretaría y su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 11 BIS 1. Corresponde a la Dirección General de Administración y Cultura Urbana previo acuerdo con el titular de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas, además de las previstas en el artículo 11 BIS de este reglamento, las siguientes facultades y obligaciones:
+
+I. Revisar, evaluar, y en su caso, proponer la adecuación del marco aplicable al control del desarrollo urbano;
+
+II. Aplicar en la esfera de su competencia, las políticas, planes, programas y acciones de ordenamiento y regulación de los asentamientos humanos en el Estado;
+
+III. Apoyar y vigilar el desarrollo urbano de las diversas comunidades y centros de población;
+
+IV. Formular y proponer los acuerdos, convenios y contratos en materia de control urbano que celebre el Gobierno del Estado, e instrumentar las medidas necesarias para que los mismos se cumplan;
+
+V. Aplicar y vigilar el cumplimiento de la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila y sus reglamentos, normas oficiales mexicanas y demás disposiciones aplicables legales en materia de urbanismo, edificación y construcciones en general, calificar las infracciones e imponer las medidas de seguridad y las sanciones que procedan por la infracción de dichos ordenamientos, en el ámbito de su competencia;
+
+VI. Proponer criterios y acciones para la regularización y el mejoramiento de los asentamientos humanos irregulares;
+
+VII. Proponer acciones para coadyuvar en la vigilancia del cumplimiento de las disposiciones legales en materia de asentamientos humanos irregulares;
+
+VIII. Asesorar y apoyar a los ayuntamientos que lo soliciten, en los términos de las disposiciones aplicables, respecto a la dictaminación y viabilidad de las solicitudes de uso del suelo, fraccionamientos, relotificaciones, fusiones, subdivisiones y régimen de propiedad en condominio, así como en la supervisión de la ejecución de las obras de urbanización;
+
+IX. Elaborar las licencias de fraccionamientos de urbanización progresiva, cuando se trate de regularizar asentamientos humanos, conforme lo previsto por la ley;
+
+X. Formular y emitir los dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
+
+XI. Coordinar el seguimiento de los programas de inversión de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas; y
+
+XII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el titular de la Secretaría.
 
 ###### ARTÍCULO 12.
 
@@ -503,13 +655,9 @@ XXI. Promover la construcción de infraestructura de saneamiento ambiental en la
 
 XXII. Las demás relativas en la esfera de su competencia y que sean indispensables para el buen desempeño de su función y todas aquellas que le encomiende el titular de la Secretaría y el Superior jerárquico.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 14.
-
-(DEROGADO, P.O. 30 DE MAYO DE 2014)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2014)</small>
-
-###### ARTÍCULO 15.
 
 Corresponde al Director de Recursos Forestales, Vida Silvestre y Mejoramiento Ambiental, previo acuerdo con el Subsecretario de Recursos Naturales, además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
 
@@ -527,7 +675,7 @@ VI. Planear, dirigir, organizar y supervisar la implementación y establecimient
 
 VII. Supervisar y dar seguimiento a los diferentes convenios de carácter forestal y vida silvestre que se suscriban por parte del Estado conjuntamente con los tres órdenes de gobierno, organizaciones de la sociedad civil, instituciones educativas y de investigación;
 
-VIII. Elaborar, promover y dar seguimiento a los programas y proyectos de investigación científica en materia forestal y vida silvestre que tiendan a la protección y conservación de las especies existentes y/o en riesgo, delimitando las zonas forestales o de recuperación flora (sic) y señalando las especies adecuadas al medio ambiente y que resulten útiles a la economía del Estado;
+VIII. Elaborar, promover y dar seguimiento a los programas y proyectos de investigación científica en materia forestal y vida silvestre que tiendan a la protección y conservación de las especies existentes y/o en riesgo, delimitando las zonas forestales o de recuperación (sic) flora y señalando las especies adecuadas al medio ambiente y que resulten útiles a la economía del Estado;
 
 IX. Encauzar las acciones para el establecimiento y desarrollo de plantaciones forestales comercial, forestación y restauración, mediante la suma de esfuerzos con otras dependencias que inciden en el sector;
 
@@ -573,97 +721,53 @@ XXIX. Fomentar la creación de empresas sociales forestales y de vida silvestre,
 
 XXX. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos estatales forestales;
 
-XXXI. Promover los bienes y servicios ambientales de los ecosistemas forestales, elaborando estudios que sustenten las solicitudes al Ejecutivo Federal, el establecimiento de restricciones a la forestación y reforestación en el Estado; y (sic)
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2014)</small>
+XXXI. Promover los bienes y servicios ambientales de los ecosistemas forestales, elaborando estudios que sustenten las solicitudes al Ejecutivo Federal, el establecimiento de restricciones a la forestación y reforestación en el Estado; y
 
 XXXII. Apoyar la coordinación general de la Comisión Intersecretarial para el fomento al Uso Racional de la Energía;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XXXIII. Promover el diseño, expedición, difusión y ejecución del Plan Estatal de Ahorro de Energía;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XXXIV. Proponer campañas para concientizar sobre el ahorro y uso racional de la energía a las entidades públicas y privadas;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XXXV. Formular acciones y proyectos específicos que repercutan en una cultura de ahorro y uso eficiente de energía acorde con las características de las regiones y municipios del Estado;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XXXVI. Fomentar la coordinación de acciones que se lleven a cabo en las regiones y municipios del Estado en materia de uso racional de energía;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XXXVII. Promover la integración de comisiones u oficinas municipales especializadas en materia de uso racional de energía;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XXXVIII. Realizar los diagnósticos necesarios a fin de identificar las condiciones de consumo de energía en el Estado y el uso racional de la energía;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XXXIX. Proponer y ejecutar políticas estatales relacionadas con el ahorro y uso racional de energía;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XL. Apoyar la coordinación para el desarrollo de sus actividades con entidades públicas y privadas, para la implementación de campañas de asistencia técnica, capacitación, promoción, difusión, concientización y demás que se requieran para el cumplimiento del objeto de esta ley;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XLI. Diseñar mecanismos de vinculación que faciliten la ejecución de proyectos de inversión para el cumplimiento de su objeto;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XLII. Coadyuvar, en el ámbito de su competencia, en la debida observancia de las normas oficiales mexicanas en materia de eficiencia energética;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XLIII. Elaborar y aplicar normas técnicas estatales que regulen el ahorro y uso racional de energía;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XLIV. Proponer acciones para impulsar la participación de las instituciones de educación superior y asociaciones de profesionistas, en la investigación, capacitación y desarrollo de tecnologías en la materia;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XLV. Promover acciones en las instituciones educativas en todo el Estado, la realización de cursos, talleres, conferencias y diplomados en materia de uso racional de energía;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XLVI. Proponer acciones en materia de iluminación, uso de aparatos electrodomésticos, equipos de aire acondicionado y calefacción, y demás enseres que para su funcionamiento consuman energía, en beneficio de la economía familiar;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XLVII. Prestar asesoría técnica a los municipios y a los sectores público y privado que así lo soliciten en materia de ahorro y uso racional de energía y aprovechamiento de energías renovables;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 XLVIII. Realizar cuando así se acuerde con los titulares de las entidades públicas y privadas -cuando sea procedente- realización de visitas a sus instalaciones, a fin de verificar sus consumos de energía;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
-
 XLIX. Formular proyectos de recomendaciones a las entidades públicas y privadas, cuando sea procedente, para que procuren la aplicación de los criterios de uso racional de energía;
-
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
 
 L. Elaborar para su difusión el directorio de organismos relacionados con la materia de uso racional de energía y aprovechamiento de energía renovable;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+LI. Proponer celebrar convenios e instrumentos de coordinación con las instancias federales y municipales uso racional de energía y aprovechamiento de energía renovable; y
 
-LI. Proponer celebrar convenios e instrumentos de coordinación con las instancias federales y municipales uso (sic) racional de energía y aprovechamiento de energía renovable; y
+LII. Las demás que le confieran las disposiciones legales, así como aquellas que le asigne su superior jerárquico.
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2016)</small>
 
-LII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera su superior jerárquico.
-
-###### ARTÍCULO 16.
-
-(DEROGADO, P.O. 30 DE MAYO DE 2014)
-
-###### ARTÍCULO 17.
+###### ARTÍCULO 15.
 
 Corresponde al titular de la Dirección de Cultura Ambiental, previo acuerdo con su superior jerárquico, además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
 
@@ -677,7 +781,7 @@ IV. Formular e instrumentar proyectos y actividades en materia de cultura ambien
 
 V. Difundir ante organismos locales, nacionales e internacionales, los programas y proyectos impulsados por la Secretaría con el propósito de tener presencia en estos ámbitos, mediante informes, reportes, conferencias, talleres, cursos publicaciones y otros medios de naturaleza análoga;
 
-VI. Formular y aplicar, en coordinación con el área de Comunicación Social del Gobierno de (sic) Estado, acciones de comunicación educativa, en medios de comunicación masiva, impresos y electrónicos para promover una cultura ambiental en la comunidad, así como impulsar la participación de la ciudadanía en las diversas acciones;
+VI. Formular y aplicar, en coordinación con el área de Comunicación Social del Gobierno de Estado, acciones de comunicación educativa, en medios de comunicación masiva, impresos y electrónicos para promover una cultura ambiental en la comunidad, así como impulsar la participación de la ciudadanía en las diversas acciones;
 
 VII. Crear un programa de formación y capacitación de enlaces locales ambientales en los municipios del estado, a fin de articular eficientemente las acciones de la Secretaría, particularmente el tema de cultura ambiental;
 
@@ -699,7 +803,9 @@ XV. Promover la creación del acervo de materiales y recursos didácticos relaci
 
 XVI. Atender las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera su superior jerárquico.
 
-###### ARTÍCULO 18.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO 16.
 
 Corresponde al titular de la Dirección de Conservación del Patrimonio, previo acuerdo con su superior jerárquico y además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
 
@@ -768,6 +874,130 @@ XXXI. Diseñar, coordinar y ejecutar proyectos de formación, capacitación y ac
 XXXII. Ejercer las funciones que sobre las materias de preservación del equilibrio ecológico, protección del medio ambiente, conservación, manejo y restauración de recursos naturales, minería y otros, le transfiera la Federación al Estado a través de la legislación aplicable, acuerdos, convenios o cualquier otro instrumento; y
 
 XXXIII. Las demás que le encomiende su superior jerárquico y las que le otorguen otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO 17.
+
+Corresponde a la Dirección de Cultura y Normatividad Urbana, además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
+
+I. Supervisar la formulación, revisión y actualización de los planes y programas de desarrollo urbano, imagen urbana, centro (sic) históricos que le sean asignados;
+
+II. Proporcionar asesoría a las autoridades municipales, cuando así lo soliciten, para la formulación de los programas de desarrollo urbano;
+
+III. Coordinar y promover la formulación, articulación, operación, revisión, evaluación y actualización de las acciones de protección, conservación y recuperación del Patrimonio Construido y Zonas Protegidas derivadas de los planes y programas correspondientes y vigilar su cumplimiento;
+
+IV. Participar en la elaboración de los planes y programas de desarrollo urbano estatal y municipales, a efecto de que en los mismos se cumpla con los criterios y regulación en materia de Patrimonio Construido y Zonas Protegidas;
+
+V. Formular, participar, promover y ejecutar proyectos y actividades encaminadas a normar, identificar, proteger, difundir, conservar y restaurar los sitios y monumentos del estado;
+
+VI. Vigilar, supervisar y validar que los proyectos y obras, en materia de sitios y monumentos, cualquiera que sea su modalidad, se ejecuten bajo especificaciones de estudios preliminares y a la normatividad aplicable para cada tipo de obra;
+
+VII. Coordinar con otras instancias en sus diferentes niveles u organismos interesados, planes, proyectos y programas que se relacionen con la conservación del patrimonio cultural edificado en el estado;
+
+VIII. Apoyar y asesorar a otras dependencias, instituciones o particulares, para la elaboración de proyectos o propuestas de intervención en sitios y monumentos del patrimonio cultural edificado en el estado;
+
+IX. Coordinar y promover la identificación y registro de muebles e inmuebles monumentales a través de inventarios y catálogos;
+
+X. Coordinar y promover la delimitación de zonas de conservación del patrimonio cultural edificado, así como elaborar y proponer las declaratorias estatales y municipales correspondientes;
+
+XI. Brindar capacitación, asesoría y asistencia técnica a los servidores públicos de los gobiernos municipales que lo soliciten, para la ejecución de sus planes, programas e instrumentos jurídicos y administrativos en materia de Patrimonio Construido y Zonas Protegidas;
+
+XII. Coadyuvar en la vigilancia del cumplimiento de las disposiciones legales en materia de Patrimonio Construido y Zonas Protegidas;
+
+XIII. Tramitar el derecho de preferencia que tiene el Estado de adquirir áreas o predios que sean objeto de enajenación y que se encuentren en zonas de reserva de conformidad a los planes o programas de desarrollo urbano aplicables;
+
+XIV. Expedir autorizaciones y refrendos de Directores Responsables de Obra y Corresponsables, así como ordenar su inscripción en el registro estatal correspondiente;
+
+XV. Participar en las opiniones que sean solicitadas respecto de las provisiones en materia de Patrimonio Construido y Zonas Protegidas y de planes o programas de desarrollo urbano, a efecto de que sean congruentes con la legislación, el Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial, así como en las demás disposiciones aplicables;
+
+XVI. Organizar y fomentar, en coordinación con las instituciones de educación superior, las investigaciones relacionadas con la cultura urbana, el patrimonio construido y centros históricos;
+
+XVII. Proponer en coordinación con los municipios, los reglamentos y normas técnicas para la protección y conservación del patrimonio construido y centros históricos; y
+
+XVIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría o su superior jerárquico inmediato.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+###### ARTICULO 18.
+
+Corresponde a la Dirección de Operación y Programación Urbana, además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
+
+I. Prestar al titular de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas el apoyo y la asesoría que no estén expresamente encomendados a otras áreas de la Subsecretaría;
+
+II. Proponer las políticas, estrategias y prioridades que deben observarse en materia de gestión metropolitana;
+
+III. Llevar el seguimiento de los programas de inversión de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas;
+
+IV. Registrar los expedientes técnicos en el Sistema Integral de inversión pública;
+
+V. Gestionar el pago de estimaciones, previamente autorizadas;
+
+VI. Registrar los contratos y convenios en materia de obra pública, adquisiciones y Servicios;
+
+VII. Dar de alta en el Sistema Integral de Inversión Pública, los contratos y convenios;
+
+VIII. Dar seguimiento y rendir los informes correspondientes de los recursos autorizados, conforme a la normatividad aplicable;
+
+IX. Coordinar, con las direcciones generales y direcciones de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas, la participación en reuniones, ferias y exposiciones;
+
+X. Planear y coordinar los eventos que competan a la Subsecretaría de Gestión Urbana y Zonas Metropolitanas;
+
+XI. Convocar y dirigir las reuniones de trabajo que tengan por objeto informar a los titulares de las unidades administrativas de la Secretaría, las metas encomendadas a la propia Secretaría;
+
+XII. Trabajar en forma coordinada con las direcciones, con el fin de implementar programas de modernización, orientados al incremento de la eficiencia, calidad total y mejoramiento en el desempeño de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas;
+
+XIII. Cumplir en tiempo y forma con las disposiciones previstas en materia de acceso a la información pública mínima.
+
+XIV. Formular para los efectos que correspondan, los proyectos de presupuesto anual de egresos e ingresos de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas;
+
+XV. Gestionar recursos materiales y de servicios para el buen funcionamiento de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas;
+
+XVI. Informar periódicamente al titular de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas o a solicitud de éste, de la disponibilidad en el presupuesto para el seguimiento de proyectos;
+
+XVII. Promover e implementar programas de capacitación, adiestramiento y desarrollo de personal de las diferentes unidades adscritas a la Subsecretaría de Gestión Urbana y Zonas Metropolitanas;
+
+XVIII. Elaborar las estadísticas, informes y evaluaciones del área de su competencia;
+
+XIX. Coordinar la integración de los documentos del proceso presupuestario y de programación de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas;
+
+XX. Aplicar en el ámbito de su competencia, las leyes, reglamentos y demás disposiciones jurídicas y normativas en materia de adquisiciones, servicios y obra pública;
+
+XXI. Coadyuvar y dar seguimiento a los procesos de licitaciones públicas, de invitaciones a cuando menos tres personas y de adjudicaciones directas, relativos a la adquisición, así como para la contratación de servicios y obra pública;
+
+XXII. Elaborar los proyectos de contratos y convenios entre la Secretaría y los proveedores de bienes, contratistas y prestadores de servicios y someterlos a la opinión de la Dirección Jurídica, cuando sean de competencia de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas;
+
+XXIII. Verificar que los contratos, convenios y demás documentos que vinculen a la Subsecretaría de Gestión Urbana y Zonas Metropolitanas con proveedores de bienes, contratistas y prestadores de servicios, que se refieran a bienes que reciba o a servicios que coordine, sean cumplidos en las condiciones y términos pactados o fijados en cuanto a cantidad, calidad, precio y oportunidad, así como que los mismos presenten y mantengan vigentes las garantías con que deban contar para asegurar el cumplimiento de sus obligaciones; así como que estos cuenten con su registro de proveedores actualizado ante la autoridad competente;
+
+XXIV. Recopilar y proporcionar al área de informática información de desarrollo urbano, con el objeto de mantener actualizada su publicación en el sitio de Internet de la Secretaría, y
+
+XXV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el titular de la Subsecretaría o su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 18 BIS. Corresponde a la Dirección de Planeación Urbana, además de las previstas en el artículo 12 de este reglamento, las siguientes facultades y obligaciones:
+
+I. Proponer las políticas, estrategias y prioridades que deben observarse en los planes, programas y proyectos en materia de planeación urbana;
+
+II. Desarrollar mecanismos de evaluación y seguimiento (sic) planes y programas en materia de planeación urbana de su competencia;
+
+III. Realizar investigaciones y promover estudios y proyectos técnicos que apoyen y faciliten el desarrollo de los programas y propuestas específicas de planeación y desarrollo urbano de las ciudades y zonas metropolitanas del Estado;
+
+IV. Proponer el establecimiento y actualización de la normatividad técnica relacionada con la planeación y desarrollo urbano del Estado;
+
+V. Proponer, coordinar, autorizar y supervisar los programas oficiales de capacitación de programas especiales que requieran las ciudades;
+
+VI. Realizar los estudios técnicos correspondientes, que justifiquen la necesidad de modificar o ajustar los planes urbanos de su competencia para programas especiales y sectoriales;
+
+VII. Realizar los estudios referentes al desarrollo urbano para diseñar y actualizar el modelo de planeación urbana, estableciendo las mejoras a implementar;
+
+VIII. Integrar y actualizar el banco de datos e información respecto al crecimiento y desarrollo de las ciudades y zonas metropolitanas en el Estado; desarrollar, coordinar y dar seguimiento a los planes, proyectos y programas para la mejora de la habitabilidad en las ciudades y zonas metropolitanas;
+
+IX. Formular y emitir los dictámenes de congruencia de los programas de desarrollo urbano municipal de centros de población y parciales, así como de aquellas acciones que impacten el territorio;
+
+X. Diseñar y en su caso, implementar programas y sistemas tendientes a mejorar la calidad de vida de los habitantes de las ciudades y zonas metropolitanas del Estado;
+
+XI. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el titular de la Subsecretaría de Gestión Urbana y Zonas Metropolitanas.
 
 ###### ARTÍCULO 19.
 
@@ -893,7 +1123,7 @@ XX. Promover en coordinación con las Subsecretarías y demás unidades administ
 
 XXI. Tramitar la inscripción en los registros correspondientes de los planes, o programas, declaratorias y demás actos competencia de la Secretaría;
 
-XXII. Suscribir documentos en ausencia del titular de la Secretaría, y desahogar los trámites que correspondan a los casos urgentes relativos a términos, rendición de informes previos y justificados, imposición de recursos y recepción de notificaciones; y (sic)
+XXII. Suscribir documentos en ausencia del titular de la Secretaría, y desahogar los trámites que correspondan a los casos urgentes relativos a términos, rendición de informes previos y justificados, imposición de recursos y recepción de notificaciones; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2014)</small>
 
@@ -911,7 +1141,9 @@ Corresponde al titular de la Coordinación de la Región Laguna, además de las 
 
 I. Coordinar la ejecución de los programas y acciones relativas a las atribuciones que en este reglamento se le otorgan, con apego a las normas y lineamientos que determine el titular de la Secretaría y las unidades administrativas competentes, así como informar de los avances y resultados de su ejercicio;
 
-II. Proponer al titular de la Secretaría, subsecretarías o direcciones que correspondan, la realización de programas y acciones que satisfagan las necesidades en materia de recursos naturales, equilibrio ecológico, saneamiento ambiental, vida silvestre, protección y restauración ecológica y recursos forestales;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2016)</small>
+
+II. Proponer al titular de la Secretaría, subsecretarías o direcciones que correspondan, la realización de programas y acciones que satisfagan las necesidades en materia de recursos naturales, equilibrio ecológico, saneamiento ambiental, vida silvestre, protección y restauración ecológica, recursos forestales, desarrollo urbano, zonas metropolitanas, ordenamiento territorial y agua;
 
 III. Elaborar diagnósticos relativos a la problemática en la Región Laguna en las materias competencia de la Secretaría;
 
@@ -943,7 +1175,17 @@ XVI. Formular, conducir y ejecutar, en la esfera de su competencia, los mecanism
 
 XVII. Definir en acuerdo el titular de la Subsecretaría de Recursos Naturales, los mecanismos y métodos para la instrumentación de los planes, programas y acciones que lleven a cabo de manera coordinada; y
 
-XVIII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el titular de la Secretaría.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2016)</small>
+
+XVIII. Definir en acuerdo con el titular de la Subsecretaría de Recursos Naturales, los mecanismos y métodos para la instrumentación de los planes, programas y acciones que llevan a cabo de manera coordinada;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2016)</small>
+
+XIX. Coadyuvar con la Subsecretaría de Gestión Urbana y Zonas Metropolitanas, en las funciones y atribuciones que ésta tenga encomendada, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE JUNIO DE 2016)</small>
+
+XX. Las demás funciones previstas en las disposiciones que le sean aplicables, así como aquellas que le confiera el titular de la Secretaría.
 
 ### CAPÍTULO VI. La Procuraduría de Protección al Ambiente del Estado de Coahuila
 
@@ -1294,3 +1536,11 @@ P.O. 30 DE MAYO DE 2014.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se dejan sin efectos las disposiciones que se opongan a lo establecido en el presente decreto.
+
+P.O. 3 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
