@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-899
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-27"
-last_updated: "2014-04-12"
+last_updated: "2016-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2016.
 
 Reglamento publicado en el Suplemento No. 2 al Número 52 del Periódico Oficial del Estado de Colima, el sábado 27 de octubre de 2012.
 
@@ -1281,7 +1281,9 @@ IV. Solicitar al conductor el documento que lo faculte para conducir, y la tarje
 
 V. Hacer la boleta de infracción o amonestación en los formatos que se utilizan, entregando al conductor el original y firmando éste, de enterado, en la copia correspondiente;
 
-VI. Los elementos operativos de Tránsito y Vialidad retendrán cualquiera de los siguientes documentos: una placa, tarjeta de circulación o el documento que lo acredite como conductor, en garantía del pago de las infracciones a que hace mención el artículo 239 de este ordenamiento;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JUNIO DE 2016)</small>
+
+VI. Los elementos operativos de Tránsito y Vialidad en ningún caso deberán llevar a cabo la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que prevé la Ley del Transporte y de la Seguridad Vial, en garantía del pago de las infracciones a que hace mención el artículo 239 de este ordenamiento;
 
 En caso de que el conductor no cuente con licencia o permiso para conducir o esta no se encuentre vigente, o que el vehículo no cuente con placas para circular, o estas no estén vigentes; se procederá al aseguramiento del vehículo para su encierro en el corralón autorizado; y
 
@@ -1879,9 +1881,13 @@ IV. Retiro de personas en los casos a que se refiere el artículo 174 del presen
 
 V. Arresto hasta por 24 horas, por reincidencia o en el supuesto de desacato tratándose de una infracción continua, en el caso a que se refiere el artículo 174 de este Reglamento. Se entenderá por reincidencia la comisión de dichas infracciones por más de una vez.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 237.
 
-Para garantizar el pago de las multas por concepto de infracción a las normas establecidas en el presente reglamento, podrá asegurarse la placa de circulación, tarjeta de circulación, la licencia o permiso para conducir y en su caso el vehículo.
+Para garantizar el pago de las multas por concepto de infracción a las normas establecidas en el presente reglamento, podrá asegurarse el vehículo solo en los casos que proceda de acuerdo a las disposiciones del presente Reglamento.
+
+En ningún caso los elementos de tránsito por violaciones cometidas al presente Reglamento podrán llevar a cabo la retención de licencias o permisos para conducir, placas y tarjetas de circulación, placas y tarjetas de circulación provisionales o cualquier documento de identificación vehicular que prevé la Ley del Transporte y de la Seguridad Vial.
 
 ###### ARTÍCULO 238.
 
@@ -2508,3 +2514,9 @@ P.O. 12 DE ABRIL DE 2014.
 ## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ARTÍCULO 249 Y ADICIÓN DEL TABULADOR DE SANCIONES DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA”.]
 
 PRIMERO (SIC).- La presente reforma, modificación y adición iniciará su vigencia al día siguiente de su Publicación en el Periódico Oficial de "El Estado de Colima".
+
+P.O. 4 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DE “INICIATIVA DE REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA”.]
+
+PRIMERO.- La presente disposición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
