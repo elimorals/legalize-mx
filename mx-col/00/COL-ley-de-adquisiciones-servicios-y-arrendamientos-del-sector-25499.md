@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-servicios-y-arrendamientos-del-sector-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2016-03-12"
+last_updated: "2016-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 15 de junio del 2002.
 
@@ -167,11 +167,19 @@ En materia de adquisiciones, servicios y arrendamientos, los titulares de las de
 
 En los casos de adquisiciones, servicios o arrendamientos financiados con créditos o con el aval del Gobierno, los procedimientos, requisitos y demás disposiciones para su contratación serán establecidos por la Contraloría aplicando, en lo procedente, lo dispuesto por esta Ley, lo que deberá precisarse en las convocatorias, invitaciones, bases y contratos correspondientes.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 11.
+###### ARTÍCULO 11.
 
-En la adjudicación de las adquisiciones, servicios y arrendamientos se preferirá, en igualdad de circunstancias, a las personas físicas o morales que cuenten con el Certificado de Empresa Colimense, en los términos de la Ley de Fomento Económico para el Estado. Al efecto, las bases de la licitación podrán establecer porcentajes diferenciales de precio a favor de las mismas, los cuales nunca podrán ser superiores al siete por ciento. La aplicación del derecho de preferencia, estará condicionado a que no se exceda de la disponibilidad presupuestal correspondiente.
+En la adjudicación de las adquisiciones, servicios y arrendamientos se preferirá, en igualdad de circunstancias, a las personas físicas o morales que cuenten con el Certificado de Empresa Colimense, en los términos de la Ley de Fomento Económico para el Estado, o en general a las personas físicas o morales que radiquen en el Estado. Al efecto, las bases de la licitación podrán establecer porcentajes diferenciales de precio a favor de las mismas, los cuales nunca podrán ser superiores al siete por ciento. La aplicación del derecho de preferencia, estará condicionado a que no se exceda de la disponibilidad presupuestal correspondiente.
+
+Todas las dependencias y entidades a que se refiere el artículo primero de la presente ley, previo a celebrar contratos de adquisiciones, servicios o arrendamientos con personas físicas o morales externas al Estado de Colima, deberán emitir un dictamen donde se hagan constar obligatoriamente las siguientes circunstancias.
+
+I. Que fueron consideradas y agotadas todas las propuestas de proveedores de origen local, en el caso de licitación pública, y;
+
+II. Que al no encontrar proveedores locales por convocatoria de licitación, se ha agotado la búsqueda en el Estado, sin que existan personas físicas o morales que ofrezcan los bienes o servicios requeridos.
+
+El dictamen a que hacen referencia las fracciones anteriores, será elaborado por el respectivo comité de adquisiciones, servicios y arrendamientos, y se publicará en el sitio web oficial de la entidad o dependencia que realice la contratación.
 
 ###### ARTICULO 12.
 
@@ -185,9 +193,15 @@ Tratándose de bienes cuyo proceso de fabricación sea superior a 90 días, la d
 
 La Oficialía Mayor y el órgano administrativo correspondiente, en el ámbito de sus respectivas competencias, podrán autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
 
-###### ARTICULO 14.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2016)</small>
 
-En los procedimientos de contratación de carácter internacional, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y del Estado y por la adquisición y arrendamiento de bienes producidos en el país y que cuenten con el porcentaje de contenido nacional indicado en el artículo 28, fracción I, de esta Ley, los cuales deberán contar, en la comparación económica de las propuestas, con un margen hasta del 10% de preferencia en el precio respecto de los bienes de importación, conforme a las reglas que establezcan la Oficialía Mayor o el órgano administrativo correspondiente, en su caso, tomando como referencia las expedidas por la autoridad federal competente.
+###### ARTÍCULO 14.
+
+En los procedimientos de contratación de carácter internacional, las dependencias y entidades optarán en igualdad de condiciones por el empleo de los recursos humanos y por la adquisición y arrendamiento de los bienes que sean de origen estatal y nacional, en ese orden de prioridad, y que cuenten con el porcentaje de contenido nacional indicado en el artículo 28, fracción I, de esta Ley los cuales deberán contar, en la comparación económica de las propuestas, con un margen hasta del 10% de preferencia en el precio respecto de los bienes de importación, conforme a las reglas que establezcan la Oficialía Mayor o el órgano administrativo correspondiente, en su caso, tomando como referencia las expedidas por la autoridad federal competente.
+
+En el caso de optar por el empleo de recursos humanos, o por la adquisición y arrendamiento de bienes externos al Estado o al País, las dependencias y entidades deberán hacer público un dictamen elaborado por su respectivo comité de adquisiciones, servicios y arrendamientos, donde se haga constar que fueron consideradas y agotadas todas las propuestas, en el orden de prioridad indicado en el párrafo anterior.
+
+El dictamen a que hace referencia el párrafo anterior, será publicado en el sitio web oficial de la entidad o dependencia que realice la contratación.
 
 ###### ARTICULO 15.
 
@@ -562,6 +576,10 @@ XVI.- El objeto del contrato sea el diseño y fabricación de un bien que sirva 
 XVII.- Se trate de equipos especializados, sustancias y materiales de origen químico, físico químico o bioquímico para ser utilizadas en actividades experimentales requeridas en proyectos de investigación científica y desarrollo tecnológico, siempre que dichos proyectos se encuentren autorizados por quien determine el titular de la dependencia o el órgano de gobierno de la entidad; o
 
 XVIII.- Se acepte la adquisición de bienes o la prestación de servicios a título de dación en pago.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2016)</small>
+
+En todo caso, las dependencias y entidades deberán realizar una búsqueda de proveedores en el territorio estatal, a fin de realizar los procedimientos de invitación a cuando menos tres personas o adjudicación directa, cuando por convocatoria de licitación no se encuentren a proveedores locales que ofrezcan los bienes o servicios requeridos.
 
 ###### ARTICULO 42.
 
@@ -990,3 +1008,11 @@ Las dependencias y entidades obligadas contaran con un plazo de 60 días natural
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 95 SE REFORMAN LOS ARTÍCULOS 11 Y 14; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 41; TODOS DE LA LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Queda derogada cualquier disposición que contravenga el presente decreto.
