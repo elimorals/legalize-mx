@@ -4,7 +4,7 @@ identifier: "COL-ley-de-desarrollo-rural-sustentable-del-estado-de-colima-96836"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2013-12-07"
+last_updated: "2016-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 07 de diciembre de 2013.
 
@@ -73,7 +73,9 @@ III. Fomentar la protección y mejoramiento de los recursos naturales y los serv
 
 IV. Coadyuvar con el cumplimiento de las normas que aseguren la sanidad, inocuidad y calidad agroalimentaria; y,
 
-V. Contribuir a la seguridad agroalimentaria en el Estado.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2016)</small>
+
+V. Contribuir a la seguridad y autosuficiencia alimentaria en el Estado.
 
 ###### Artículo 3.
 
@@ -92,6 +94,10 @@ III. Agentes o Productores del Sector Rural: Las personas físicas o morales de 
 IV. Agroforestal: El proceso productivo desarrollado mediante la combinación de agricultura o, la ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
 
 V. Alimentos básicos y estratégicos: Los calificados por su importancia en la alimentación de la mayoría de la población o su importancia en la economía de los productores del campo o de la industria;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2016)</small>
+
+V bis. Autosuficiencia Alimentaria. La capacidad del Estado para satisfacer las necesidades alimentarias de su población mediante su producción estatal;
 
 VI. Bienestar Social: La satisfacción de las necesidades materiales y culturales de la población incluidas, entre otras: la seguridad social, vivienda, educación, salud e infraestructura básica;
 
@@ -181,7 +187,9 @@ III. Con la participación de los productores a través de sus organizaciones re
 
 IV. Promover la concurrencia y la transversalidad de las políticas públicas del Gobierno Federal y estatal, así como de los programas, proyectos y acciones que se desarrollan en el ámbito rural;
 
-V. Contribuir en la implementación de programas, proyectos y acciones orientadas a lograr la soberanía y seguridad alimentaria en el Estado mediante el impulso de la producción agropecuaria; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2016)</small>
+
+V. Contribuir en la implementación de programas, proyectos y acciones orientadas a lograr la soberanía, seguridad y autosuficiencia alimentaria en el Estado mediante el impulso de la producción agropecuaria; y
 
 VI. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales en el Estado, mediante su aprovechamiento sustentable.
 
@@ -623,6 +631,10 @@ XIV. Procurar la continuidad y suficiencia de los planes y programas de trabajo 
 
 XV. Generar, integrar y hacer accesible la información requerida para el seguimiento de la gestión y la toma de decisiones de todos los agentes vinculados al desarrollo rural.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2016)</small>
+
+Artículo 44 bis.- Como parte de las acciones para la soberanía, seguridad y autosuficiencia alimentaria, éstas deberán abarcar a todos los productores y agentes intervinientes, impulsando la integración de las cadenas productivas de alimentos.
+
 ### CAPÍTULO II. COORDINACIÓN PARA EL DESARROLLO RURAL SUSTENTABLE
 
 ###### Artículo 45.
@@ -855,6 +867,10 @@ V. Impulsar la creación de redes de valor para lograr el uso eficiente de los r
 
 Los programas y proyectos de reconversión productiva que sean promovidos y apoyados con recursos del Gobierno del Estado en coordinación con la Federación, de acuerdo a los convenios en la materia, serán sustentados para su viabilidad, con las mismas condiciones y requisitos establecidos y celebrados entre ambos ámbitos de gobierno y en las disposiciones normativas que fije el gobierno federal, considerando la opinión y propuestas del Consejo Estatal y del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2016)</small>
+
+Los programas y proyectos estimularán la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos, y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la soberanía, seguridad y autosuficiencia alimentaria y al óptimo uso de las tierras mediante apoyos e inversiones complementarias.
+
 ###### Artículo 69.
 
 Los apoyos a la reconversión productiva en la actividad rural se orientarán a impulsar preferentemente:
@@ -1061,7 +1077,9 @@ I. Analizar y definir las redes de valor existentes en el medio rural del estado
 
 II. Establecer e instrumentar reglas equitativas para el intercambio de productos ofertados por la sociedad rural, tanto en el mercado interior como exterior;
 
-III. Fortalecer las políticas de abasto interno, como una forma de propiciar la seguridad alimentaria y de servicios en el Estado.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2016)</small>
+
+III. Fortalecer las políticas de abasto interno, como una forma de propiciar seguridad y autosuficiencia alimentaria y de servicios en el Estado.
 
 IV. Procurar una mayor articulación de la producción primaria con los procesos de comercialización y transformación, así como elevar la competitividad del sector rural y de las cadenas productivas del mismo;
 
@@ -1538,3 +1556,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 05 cinco del mes de Diciembre del año 2013 dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, ING. ADALBERTO ZAMARRONI CISNEROS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 94 SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 2; LA FRACCIÓN V DEL ARTÍCULO 6; Y LA FRACCIÓN III, DEL ARTÍCULO 99; ASIMISMO SE ADICIONA LA FRACCIÓN V BIS, AL ARTÍCULO 4; EL ARTÍCULO 44 BIS; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 68; TODOS A LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Queda derogada cualquier disposición que contravenga el presente decreto.
