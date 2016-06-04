@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-103535"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-08"
-last_updated: "2014-11-18"
+last_updated: "2016-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO DEL DECRETO NÚMERO 409 DEL P.O. 18 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 31 DE DICIEMBRE DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -2163,7 +2163,9 @@ I. Ser ciudadano mexicano por nacimiento, que no tenga otra nacionalidad y esté
 
 II. Tener por lo menos 30 años de edad cumplidos al día de la designación;
 
-III. Poseer el grado mínimo de escolaridad de licenciatura, contando con título y cédula profesional expedidos por las autoridades correspondientes o estudios superiores afines en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2016)</small>
+
+III. Poseer el grado mínimo de escolaridad de licenciatura, preferentemente con posgrado, contando con título y cédula profesional expedidos por las autoridades correspondientes, estudios que deberán tener relación con la seguridad pública;
 
 IV. No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor público;
 
@@ -2179,7 +2181,9 @@ Para ser Director y/o Comisario respecto de la Policía Estatal o municipal, se 
 
 I. Ser ciudadano mexicano por nacimiento, no tener otra nacionalidad, y estar en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Preferentemente tener estudios de nivel Licenciatura o equivalente, y en su caso acreditarlo con documento expedido por una institución legalmente autorizada para ello;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2016)</small>
+
+II. Poseer el grado mínimo de escolaridad de licenciatura, contando con título y cédula profesional expedidos por las autoridades correspondientes, estudios que deberán tener relación con la seguridad pública;
 
 III. Tener por lo menos treinta años cumplidos al día de la designación;
 
@@ -3726,3 +3730,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. E
 P.O. 18 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 97 SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 133, Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 134 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
