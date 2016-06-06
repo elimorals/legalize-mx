@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2015-08-03"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -3575,11 +3575,9 @@ IV.- La confesión de la deuda hecha ante juez competente por el deudor o por su
 
 V.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios o en cualquier otra forma;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
-
-VI.- Los convenios celebrados ante las autoridades ministeriales, judiciales o ejecutoras, en términos de lo previsto por el Código de Procedimientos Penales para el Estado de Aguascalientes, por los sujetos procesales interesados;
+VI.- Los convenios celebrados ante las autoridades ministeriales, judiciales o ejecutoras, en términos de lo previsto por el Código Nacional de Procedimientos Penales, por los sujetos procesales interesados;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2004)</small>
 
@@ -6318,3 +6316,15 @@ P.O. 3 DE AGOSTO DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día en que inicie su vigencia el Decreto 201 publicado en el Periódico Oficial del Estado, el 22 de junio del 2015.
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- SE DEROGAN Y REFORMAN ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
