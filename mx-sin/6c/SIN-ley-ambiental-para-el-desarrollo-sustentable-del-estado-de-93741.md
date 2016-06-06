@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2013-04-08"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -511,7 +511,7 @@ Tendrán derecho a voz y voto; el Presidente, el vocal de la Secretaría de Desa
 
 La designación de cada uno de los integrantes del Consejo se hará de la manera siguiente:
 
-I. El Presidente Ejecutivo será nombrado por el Ejecutivo Estatal y este le dará posesión en la primer (sic) sesión del Consejo en Pleno;
+I. El Presidente Ejecutivo será nombrado por el Ejecutivo Estatal y este le dará posesión en la primer sesión del Consejo en Pleno;
 
 II. El Secretario Técnico será nombrado por el Presidente Ejecutivo del Consejo Estatal para el Desarrollo Sustentable;
 
@@ -1859,7 +1859,9 @@ En el territorio de la Entidad que cuente con cualquier tipo de vegetación prim
 
 I. La preservación y el aprovechamiento sustentable de los recursos florísticos, donde existan actividades agropecuarias establecidas;
 
-II. El cambio progresivo de la práctica de roza, tumba y quema a otras que no impliquen deterioro de los ecosistemas, o de aquéllas que no permitan su regeneración natural o que alteren los procesos de sucesión ecológica;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2016)</small>
+
+II. La destrucción y eliminación de soca y esquilmos agrícolas con métodos que no impliquen deterioro de los ecosistemas o de aquéllas que permitan su regeneración natural;
 
 III. El cumplimiento de las normas oficiales mexicanas y normas estatales en materia ambiental, que al efecto se expidan, en la extracción de recursos no renovables, de competencia estatal;
 
@@ -2023,11 +2025,17 @@ c) Cremación de cuerpos en funerarias;
 
 d) Quema a cielo abierto de residuos sólidos urbanos, incluida la quema en rellenos sanitarios, en forma no intencionada;
 
-e) Quema de soca y esquilmos agrícolas; y
+e) (DEROGADO, P.O. 6 DE JUNIO DE 2016)
 
 f) Incendios forestales.
 
 XXIII. Ejercer las demás facultades que les confieren las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2016)</small>
+
+###### Artículo 152 Bis.
+
+Queda prohibida la quema de soca y esquilmos agrícolas cuya destrucción y eliminación se hará mediante diversos métodos como: trilla, rastreo u otros, que permitan que sean utilizados como composta, abono orgánico, alimento para animales, o bien, que sean reintegrados a la capa arable de la tierra con el propósito de que se fortalezcan las propiedades del suelo al reintegrarle los nutrientes que la actividad del hombre ha tomado previamente.
 
 ###### Artículo 153.
 
@@ -2037,7 +2045,9 @@ I. Aplicar los criterios ecológicos para la protección a la atmósfera en los 
 
 II. Llevar a cabo campañas para racionalizar el uso de automóviles particulares, así como para la afinación y mantenimiento de sus motores;
 
-III. Emitir las disposiciones y establecer las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otros, así como la quema con fines de desmonte o deshierbe de terrenos; y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2016)</small>
+
+III. Emitir las disposiciones y establecer las medidas enfocadas para la destrucción y eliminación de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, soca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otros, así como los métodos o maneras de destrucción o eliminación de hierbas, follaje, arbustos o árboles, con fines de desmonte o deshierbe de terrenos; y,
 
 IV. Ejercer las demás facultades que le confiere el Artículo 11 fracción III de esta Ley.
 
@@ -2045,7 +2055,7 @@ IV. Ejercer las demás facultades que le confiere el Artículo 11 fracción III 
 
 Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, requerirán la autorización de la Secretaría.
 
-Para los efectos a que se refiere esta Ley, se consideran fuentes fijas de jurisdicción estatal, las industrias de alimentos, de bebidas, azucarera, del hule y sus derivados, ladrilleras, maquiladoras, textiles, tenerías y curtidurías, farmacéutica, de cosméticos, almacén de granos, hoteles y de tratamiento de residuos de baja peligrosidad..(sic)
+Para los efectos a que se refiere esta Ley, se consideran fuentes fijas de jurisdicción estatal, las industrias de alimentos, de bebidas, azucarera, del hule y sus derivados, ladrilleras, maquiladoras, textiles, tenerías y curtidurías, farmacéutica, de cosméticos, almacén de granos, hoteles y de tratamiento de residuos de baja peligrosidad..
 
 El Reglamento que al efecto se expida determinará los subsectores específicos pertenecientes a cada uno de los sectores industriales antes señalados, cuyos establecimientos se sujetarán a las disposiciones de la legislación estatal, en lo que se refiere a la emisión de contaminantes a la atmósfera.
 
@@ -2177,7 +2187,7 @@ II. Corresponde al Estado coadyuvar con la Federación y la sociedad para preven
 
 III. El aprovechamiento del agua en actividades productivas susceptibles de contaminarla, conlleva la responsabilidad del tratamiento de las aguas de desecho, ya sea por su reuso o para reintegrarlas en condiciones adecuadas para su utilización en otras actividades y para mantener el equilibrio de los ecosistemas; y
 
-IV. Las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en cuerpos de agua. (sic) incluyendo a las aguas del subsuelo.
+IV. Las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en cuerpos de agua. incluyendo a las aguas del subsuelo.
 
 ###### Artículo 178.
 
@@ -2189,7 +2199,7 @@ II. El establecimiento de las condiciones particulares de descarga para evitar r
 
 III. Las propuestas para la formulación de las normas oficiales mexicanas que deberá (sic) satisfacer el tratamiento del agua para el uso y consumo humanos, así como para la infiltración y descarga de aguas residuales al sistema de drenaje y alcantarillado y en su caso a los cuerpos de agua considerados nacionales que tenga a su cargo el Gobierno Estatal o el Municipal;
 
-IV. Las concesiones, asignaciones, permisos y en general autorizaciones que deban obtener los concesionarios. (sic) asignatarios o permisionarios, y en general los usuarios de las aguas de jurisdicción estatal y las de jurisdicción federal asignadas al Estado o a los Municipios;
+IV. Las concesiones, asignaciones, permisos y en general autorizaciones que deban obtener los concesionarios. asignatarios o permisionarios, y en general los usuarios de las aguas de jurisdicción estatal y las de jurisdicción federal asignadas al Estado o a los Municipios;
 
 V. La formulación de planes directores y parciales de desarrollo urbano y programa de ordenamiento ecológico del territorio estatal y local;
 
@@ -2507,7 +2517,7 @@ Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumí
 
 En la construcción de obras o instalaciones que generen ruido o vibraciones, energía térmica o lumínica y olores, así como en la operación o funcionamiento de las existentes en el territorio estatal, deberán sujetarse a las medidas reglamentarias que para el caso se expidan, y se llevarán a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
 
-La Secretaría, en coordinación con las autoridades de Salud del Gobierno del Estado, realizarán (sic) los análisis, estudios, investigaciones y vigilancia necesarias con el objeto de localizar el origen o procedencia, naturaleza, grado, magnitud y frecuencia de las emisiones para determinar cuándo se producen daños a la salud, al ambiente y al equilibrio ecológico. Además, aplicará las normas oficiales mexicanas, las cuales establecen los procedimientos a fin de prevenir y controlar la contaminación por ruido, vibraciones, energía lumínica, térmica y olores.
+La Secretaría, en coordinación con las autoridades de Salud del Gobierno del Estado, realizarán los análisis, estudios, investigaciones y vigilancia necesarias con el objeto de localizar el origen o procedencia, naturaleza, grado, magnitud y frecuencia de las emisiones para determinar cuándo se producen daños a la salud, al ambiente y al equilibrio ecológico. Además, aplicará las normas oficiales mexicanas, las cuales establecen los procedimientos a fin de prevenir y controlar la contaminación por ruido, vibraciones, energía lumínica, térmica y olores.
 
 ###### Artículo 219.
 
@@ -3250,3 +3260,11 @@ C. Gerardo O. Vargas Landeros
 Secretario de Desarrollo Social y Humano
 
 C. Juan Ernesto Millán Pietsch
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 554 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN LAS FRACCIONES II DEL ARTICULO 139; Y III DEL ARTICULO 153; SE ADICIONA EL ARTÍCULO 152 BIS; Y SE DEROGA EL INCISO E) DE LA FRACCIÓN XXII DEL ARTÍCULO 152 DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA”.].
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
