@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2015-03-23"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -103,7 +103,9 @@ XVI. Sistema Electrónico: El sistema electrónico de información pública sobr
 
 XVII. Sujetos de la Ley: los señalados en las fracciones I, II y III del artículo 1° de la presente Ley;
 
-XVIII. Sujetos de la Ley Contratantes: los que celebran los contratos de adquisiciones y arrendamientos de bienes y prestación de servicios, y que en los procedimientos de contratación tienen el carácter de convocante: la Oficialía Mayor para la Administración Pública Estatal Centralizada; las Entidades del Ejecutivo; los Municipios del Estado y sus Entidades;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2016)</small>
+
+XVIII. Sujetos de la Ley Contratantes: los que celebran los contratos de adquisiciones y arrendamientos de bienes y prestación de servicios, o que en los procedimientos de contratación tienen el carácter de convocante: la Oficialía Mayor para la Administración Pública Estatal Centralizada; las Entidades del Ejecutivo; los Municipios del Estado y sus Entidades;
 
 XIX. Tesorerías: Tesorerías Municipales o sus equivalentes en las entidades.
 
@@ -147,9 +149,11 @@ La Oficialía Mayor y su similar en los Municipios, así como las Autoridades fi
 
 Los Sujetos de la Ley Contratantes dictarán las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley. Las disposiciones de carácter general se publicarán en el Periódico Oficial del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
 ###### Artículo 6°.
 
-Será responsabilidad de los Entes requirentes obtener los servicios correspondientes para mantener adecuada y satisfactoriamente asegurados los bienes muebles e inmuebles con que cuenten o, se hayan asignado a las dependencias o entidades de la Administración Pública Estatal o Municipal, en los términos previstos por la Ley de Bienes del Estado.
+Será responsabilidad de los Entes requirentes obtener los servicios correspondientes para mantener adecuada y satisfactoriamente asegurados los bienes muebles e inmuebles con que cuenten o, se hayan asignado a las dependencias o entidades de la Administración Pública Estatal, en los términos previstos por la Ley de Bienes del Estado, tratándose de bienes muebles e inmuebles con que cuenten o se hayan asignado a las dependencias o entidades de la Administración Pública Municipal, se observarán las disposiciones que al efecto se expidan en el ámbito municipal.
 
 ###### Artículo 7°.
 
@@ -169,9 +173,11 @@ Los Entes requirentes podrán, dentro de su presupuesto autorizado, bajo su resp
 
 Los actos, contratos y convenios que realicen o celebren los Sujetos de la Ley en contravención a lo dispuesto por esta Ley, serán nulos previa determinación de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2016)</small>
+
 ###### Artículo 11.
 
-La Oficialía Mayor o su similar en los Municipios, mediante disposiciones de carácter general, determinarán, en su caso, los bienes, arrendamientos o servicios de uso generalizado que en forma consolidada, podrán requerir los Sujetos de la Ley con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, así como para fomentar la homologación y compatibilidad de los bienes y servicios a fin de simplificar las tareas de mantenimiento y servicio. Para tales efectos, la Oficialía Mayor o su similar en los Municipios, se limitarán a efectuar los procedimientos de contratación de las adquisiciones, arrendamientos y prestaciones de servicios solicitadas, siendo responsabilidad de Los Sujetos de la Ley Contratantes, la suscripción del contrato de que se trate.
+La Oficialía Mayor o su similar en los Municipios, mediante disposiciones de carácter general, determinarán, en su caso, los bienes, arrendamientos o servicios de uso generalizado que en forma consolidada, podrán requerir los Sujetos de la Ley con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, así como para fomentar la homologación y compatibilidad de los bienes y servicios a fin de simplificar las tareas de mantenimiento y servicio. Para tales efectos, la Oficialía Mayor o su similar en los Municipios, se limitarán a efectuar los procedimientos de contratación de las adquisiciones, arrendamientos y prestaciones de servicios solicitadas, siendo responsabilidad de los Sujetos de la Ley Contratantes que no formen parte de la administración pública centralizada del Estado o del Municipio, la preparación de los procesos, la suscripción, ejecución y cumplimiento del contrato de que se trate, la aplicación de penas convencionales y de las garantías correspondientes, así como la ejecución de las medidas conducentes en caso de incumplimiento. No obstante lo anterior, la Oficialía Mayor o su similar en los Municipios, podrán determinar cuándo uno o varios Sujetos de la Ley tendrán a su cargo las responsabilidades establecidas en el presente párrafo.
 
 Lo previsto en los párrafos anteriores, es sin perjuicio de que los Sujetos de la Ley Contratantes puedan agruparse para adquirir en forma consolidada sus bienes, arrendamientos o servicios.
 
@@ -421,9 +427,11 @@ En el supuesto de que se advierta la existencia de dichos trabajos y se comprueb
 
 Sólo se podrá contratar el arrendamiento de bienes muebles para el servicio de la Administración Pública Estatal o Municipal respectivamente, cuando no sea posible o conveniente su adquisición. Para tal efecto, los Entes requirentes, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de factibilidad correspondientes.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
 ###### Artículo 31.
 
-Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, los Entes requirentes deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá efectuarse mediante avalúo conforme a las disposiciones aplicables, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces el salario mínimo general vigente en el Estado, el cual deberá integrarse al expediente de la contratación respectiva.
+Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, los Entes requirentes deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá efectuarse mediante avalúo conforme a las disposiciones aplicables, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces el valor diario de la Unidad de Medida y Actualización, el cual deberá integrarse al expediente de la contratación respectiva.
 
 ###### Artículo 32.
 
@@ -455,7 +463,9 @@ Los Sujetos de la Ley, bajo su responsabilidad, podrán requerir adquisiciones, 
 
 Los sujetos de la Ley Contratantes se abstendrán de convocar o formalizar la adquisición, arrendamiento de bienes y contratación de servicios si no hubiese saldo disponible en las partidas correspondientes del presupuesto.
 
-La programación de las adquisiciones, podrá rebasar el ejercicio presupuestal en términos de lo dispuesto por el artículo 55 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
+La programación de las adquisiciones de bienes muebles, arrendamientos de bienes muebles e inmuebles y contrataciones de prestación de servicios podrá rebasar el ejercicio presupuestal en términos de lo dispuesto por el artículo 55 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
 
 ## TÍTULO QUINTO. DEL ARRENDAMIENTO DE BIENES INMUEBLES
 
@@ -503,9 +513,13 @@ III. Invitación a cuando menos tres personas por monto; y,
 
 IV. Adjudicación directa por tabla comparativa.
 
-Las contrataciones de adquisiciones, arrendamientos de bienes muebles y servicios con valor superior a quince mil veces el salario mínimo general vigente en el Estado, se adjudicarán, por regla general, a través de licitaciones, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado que será abierto públicamente, a fin de asegurar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, crecimiento económico, generación de empleo, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
 
-Las contrataciones de adquisiciones, arrendamientos de bienes muebles o prestación de servicios con valor inferior a quince mil veces el salario mínimo vigente en el Estado, se adjudicarán mediante los procedimientos de contratación previstos en las fracciones III y IV de este artículo, y en los términos establecidos en el artículo 64.
+Las contrataciones de adquisiciones, arrendamientos de bienes muebles y servicios con valor superior a quince mil veces el valor diario de la Unidad de Medida y Actualización, se adjudicarán, por regla general, a través de licitaciones, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado que será abierto públicamente, a fin de asegurar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, crecimiento económico, generación de empleo, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
+Las contrataciones de adquisiciones, arrendamientos de bienes muebles o prestación de servicios con valor inferior a quince mil veces el valor diario de la Unidad de Medida y Actualización, se adjudicarán mediante los procedimientos de contratación previstos en las Fracciones III y IV de este artículo, y en los términos establecidos en el Artículo 64.
 
 Las contrataciones de adquisiciones, arrendamientos de bienes muebles o prestación de servicios no podrán fraccionarse para simular y evadir los topes establecidos en esta Ley. Para el cálculo de dichos topes se tomará el precio de los bienes o servicios sin considerar el Impuesto al Valor Agregado.
 
@@ -777,7 +791,9 @@ La convocante podrá cancelar una licitación, partidas o conceptos incluidos en
 
 Un procedimiento de licitación o alguna de sus partidas, deberán declararse desiertos por no contar con al menos un Licitante inscrito para participar; por no contar con al menos una proposición que cumpla con los requisitos de la convocatoria, o cuando la o las presentadas excedan el techo presupuestal correspondiente.
 
-Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, la convocante podrá emitir una segunda convocatoria, o bien optar por el supuesto de excepción previsto en el artículo 63 fracción VI de esta Ley. Cuando los requisitos o el carácter sean modificados con respecto a la primera convocatoria, se deberá convocar a un nuevo procedimiento.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
+Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, la convocante podrá emitir una segunda convocatoria, o bien optar por el supuesto de excepción previsto en el artículo 63 fracción VI de esta Ley. Cuando el monto en conjunto de una o varias partidas declaradas desiertas no exceda de tres mil veces el valor diario de la Unidad de Medida y Actualización se podrá optar por llevar a cabo el procedimiento de adjudicación directa por tabla comparativa previsto en el artículo 39 fracción IV de esta Ley. Cuando los requisitos o el carácter sean modificados con respecto a la primera convocatoria, se deberá convocar a un nuevo procedimiento.
 
 Salvo en las cancelaciones por caso fortuito y fuerza mayor, la convocante cubrirá a los Licitantes los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el procedimiento de licitación correspondiente.
 
@@ -853,15 +869,21 @@ XIV. Cuando se trate de bienes o servicios adjudicados mediante licitación púb
 
 La dictaminación de la procedencia de la contratación y de que ésta se ubica en el supuesto contenido en la fracción V podrá hacerse de manera directa por el Titular del Ente requirente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2016)</small>
+
 ###### Artículo 64.
 
-Las contrataciones con monto hasta por un límite de tres mil veces el salario mínimo general vigente en el Estado, se efectuarán a través del procedimiento de adjudicación directa por tabla comparativa y se adjudicarán de entre los Proveedores que ofrezcan las mejores condiciones económicas para el Estado.
+Las contrataciones con monto hasta por un límite de tres mil veces el valor diario de la Unidad de Medida y Actualización, se efectuarán a través del procedimiento de adjudicación directa por tabla comparativa y se adjudicarán de entre los Proveedores que ofrezcan las mejores condiciones económicas para el Estado.
 
-Las contrataciones por invitación a cuando menos tres personas por monto, quedarán comprendidas entre los tres mil y quince mil veces el salario mínimo general vigente en el Estado, en los cuales se deberán invitar con la debida oportunidad un mínimo de tres distintos Proveedores inscritos en el Padrón de Proveedores. El procedimiento deberá sujetarse a lo dispuesto en el artículo 62 de esta Ley, con excepción de lo dispuesto en su fracción VI. La adjudicación se podrá decidir con un mínimo de dos propuestas, siempre y cuando la mejor oferta económica sea igual o menor al precio contenido en el estudio de mercado elaborado por el Ente requirente.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
+Las contrataciones por invitación a cuando menos tres personas por monto, quedarán comprendidas entre los tres mil y quince mil veces el valor diario de la Unidad de Medida y Actualización, en los cuales se deberán invitar con la debida oportunidad un mínimo de tres distintos Proveedores inscritos en el Padrón de Proveedores. El procedimiento deberá sujetarse a lo dispuesto en el artículo 62 de esta Ley, con excepción de lo dispuesto en su fracción V. La adjudicación se podrá decidir con un mínimo de dos propuestas, siempre y cuando la mejor oferta económica sea igual o menor al precio contenido en el estudio de mercado elaborado por el Ente requirente.
 
 Los procedimientos de contratación por invitación a cuando menos tres personas por monto o la adjudicación directa por tabla comparativa deberán ser normados por la Oficialía Mayor a través del Manual Único de Adquisiciones, Arrendamientos y Servicios.
 
-La dictaminación de la procedencia por adjudicación directa con base en las excepciones previstas en el artículo 63 de esta Ley, por lo que hace a los procedimientos previstos en el párrafo que antecede, corresponderá a la Oficialía Mayor o su similar en los Municipios o en las Entidades, a solicitud del titular del Ente Requirente, la que deberá cumplir con los requisitos de fundamentación y motivación establecidos en el segundo párrafo del artículo 60 de esta Ley.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
+La facultad de dictaminar y acordar la procedencia para contratar a través de adjudicación directa derivada de la actualización de alguno de los supuestos de excepción previstos en el artículo 63 de esta Ley, por lo que hace a los procedimientos de invitación a cuando menos tres personas por monto o de adjudicación directa por tabla comparativa, corresponderá a la Oficialía Mayor o su similar en los Municipios o en las Entidades, a solicitud del titular del Ente Requirente, la que deberá cumplir con los requisitos de fundamentación y motivación establecidos en el segundo párrafo del artículo 60 de esta Ley.
 
 En caso de que dos invitaciones a cuando menos tres por monto sean declarados desiertas consecutivamente, la contratación se adjudicará conforme a los lineamientos del procedimiento para adjudicación directa por tabla comparativa.
 
@@ -1101,11 +1123,13 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
 ###### Artículo 83.
 
-Los Proveedores que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por las Autoridades fiscalizadoras, con multa equivalente a la cantidad de cincuenta a trescientas veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de infracción.
+Los Proveedores que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por las Autoridades fiscalizadoras, con multa equivalente a la cantidad de cincuenta a trescientas veces el valor mensual de la Unidad de Medida y Actualización, en la fecha de infracción.
 
-Cuando los Proveedores injustificadamente y por causas imputables a los mismos, no formalicen contratos o pedidos, serán sancionados con multa equivalente a la cantidad de diez hasta cuarenta y cinco veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de la infracción.
+Cuando los Proveedores injustificadamente y por causas imputables a los mismos, no formalicen contratos o pedidos, serán sancionados con multa equivalente a la cantidad de diez hasta cuarenta y cinco veces el valor mensual de la Unidad de Medida y Actualización, en la fecha de la infracción.
 
 ###### Artículo 84.
 
@@ -1492,3 +1516,13 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 20 de marzo de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 345.- SE REFORMA LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
