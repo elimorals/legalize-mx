@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-fiscalizacion-y-80219"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-07"
-last_updated: "2011-03-07"
+last_updated: "2016-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS, DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE AGOSTO DE 2016 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FISCALIZACION Y RENDICION DE CUENTAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 7 de marzo de 2011.
 
@@ -31,7 +35,9 @@ JEFATURA DE GABINETE
 
 CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, en ejercicio de la facultad que me confiere el artículo 46 fracción I de la Constitución Política del Estado de Aguascalientes, y con fundamento en los artículos 2°, 3°, 10 fracción IV, 11 fracción IV y en el Artículo Décimo Primero Transitorio de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el día 28 de diciembre del año 2010, he tenido a bien expedir el Reglamento Interior de la Secretaría de Fiscalización y Rendición de Cuentas al tenor de los siguientes:
 
-C O N S I D E R A N D O S : .
+C O N S I D E R A N D O S :
+
+[...]
 
 Por lo que a los habitantes del Estado se hace sabed, que se promulga el presente:
 
@@ -480,3 +486,17 @@ JEFE DE GABINETE.
 Dr. Alberto Salís Farías,
 
 SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Fiscalización y Rendición de Cuentas, publicado en el Periódico Oficial del Estado el día catorce de febrero del año dos mil once.
