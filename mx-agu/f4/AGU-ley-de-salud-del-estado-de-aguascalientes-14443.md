@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2016-01-25"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1911,9 +1911,11 @@ ARTICULO 139 Undecies.- El personal médico que tenga a su cargo el cumplimiento
 
 ARTICULO 139 Duodecies.- El personal médico que, por decisión propia, deje de proporcionar los cuidados básicos o cualquier tratamiento o cuidado sin el consentimiento del enfermo en etapa terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o persona de confianza, será sancionado conforme lo establecido por las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2016)</small>
 
-ARTICULO 139 Terdecies.- Queda prohibida, la práctica de la eutanasia, entendida como la ayuda al suicidio conforme lo señala la legislación Penal, bajo el amparo de esta ley.
+ARTICULO 139 Terdecies.- Queda prohibida, la práctica de la eutanasia, entendida como la ayuda al suicidio conforme lo señala el Código Penal para el Estado de Aguascalientes, bajo el amparo de esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
 
 En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
@@ -3359,31 +3361,17 @@ P.O. 25 DE ENERO DE 2016.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 1/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA SEMIESPECIALIZACIÓN Y CAMBIO DE DENOMINACIÓN DE LOS TRIBUNALES COLEGIADOS DEL DECIMOCTAVO CIRCUITO CON SEDE EN CUERNAVACA, MORELOS; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS, ASÍ COMO AL CAMBIO DE DENOMINACIÓN DE LA ACTUAL OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS REFERIDOS Y A LA CREACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL CITADO CIRCUITO".]
+P.O. 6 DE JUNIO DE 2016.
 
-PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- SE DEROGAN Y REFORMAN ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO PRIMERO.
 
-TERCERO. Dese vista a la Comisión de Adscripción para efecto de la integración de los órganos colegiados conforme a las materias de la semiespecialización y especialización que se ordena.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-CUARTO. La Coordinación de Administración Regional del Consejo de la Judicatura Federal, deberá proveer a los tribunales colegiados que cambian de denominación y competencia, a los nuevos Plenos de Circuito Especializados, así como a las oficinas de correspondencia común, de los espacios, de los recursos materiales necesarios (entre otros, letreros de identificación, actualización de placas de directorios de edificios, sellos oficiales, papelería), conforme a su nueva denominación, para que a la brevedad posible cuenten con ellos.
+###### ARTÍCULO SEGUNDO.
 
-QUINTO. A partir del uno de marzo de dos mil dieciséis, se establecen dos Plenos Especializados del Decimoctavo Circuito: uno en Materia de Trabajo y otro en Materia Penal y Administrativa, los cuales funcionarán de marzo a diciembre de la referida anualidad. Lo anterior, en términos de lo previsto en el Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
-
-SEXTO. Se modifica el numeral SEGUNDO, apartado XVIII. DECIMOCTAVO CIRCUITO, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-XVIII.- DECIMOCTAVO CIRCUITO:
-
-1. Cinco tribunales colegiados especializados: dos en materia de trabajo, dos en materias penal y administrativa y uno en materia civil, todos con residencia en Cuernavaca, Morelos.
-
-2. …
-
-3. …”.
-
-D.O.F. 26 DE FEBRERO DE 2016.
+Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 12/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]
 
