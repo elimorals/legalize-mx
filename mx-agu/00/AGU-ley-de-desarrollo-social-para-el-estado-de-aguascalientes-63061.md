@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2015-06-15"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -741,9 +741,11 @@ Esta Ley garantiza el pleno ejercicio de la denuncia ciudadana, como un instrume
 
 Cualquier persona podrá denunciar ante la Contraloría Social los hechos que a su juicio impliquen incumplimiento de obligaciones, de las personas o los servidores públicos sujetos de esta Ley, para que las autoridades competentes determinen si existe o no responsabilidad administrativa, e impongan las sanciones correspondientes en su caso.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
 ###### Artículo 77.
 
-La Contraloría al tener conocimiento de las denuncias presentadas deberá actuar de manera inmediata, de conformidad con los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y la Legislación Penal para el Estado de Aguascalientes.
+La Contraloría al tener conocimiento de las denuncias presentadas deberá actuar de manera inmediata, de conformidad con los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 78.
 
@@ -765,7 +767,9 @@ El beneficiario, organización o unidad familiar que contravenga las disposicion
 
 Los recursos destinados al desarrollo social y combate a la pobreza no podrán ser utilizados para fines de proselitismo político, u otro fin distintos a los establecidos.
 
-El servidor público estatal o municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos del Estado de Aguascalientes y se le aplicará lo que al respecto dicte la Legislación Penal para el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
+El servidor público estatal o municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos del Estado de Aguascalientes y se le aplicará lo que al respecto dicte la Ley General en Materia de Delitos Electorales.
 
 En caso de ser servidor público federal, se deberá informar al órgano de control interno competente.
 
@@ -825,7 +829,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIóN SE TRANSCRIBEN LOS ARTíCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE JULIO DE 2010.
 
@@ -852,3 +856,15 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- SE DEROGAN Y REFORMAN ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
