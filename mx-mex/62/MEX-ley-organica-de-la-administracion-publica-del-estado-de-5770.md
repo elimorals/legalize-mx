@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-02-03"
+last_updated: "2016-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1373,55 +1371,95 @@ XXVII. Definir en coordinación con la Secretaría de Infraestructura, la operac
 
 XXVIII. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
-> <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
 
 ###### Artículo 34.
 
-La Secretaría de Desarrollo Agropecuario es la dependencia encargada de promover y regular el desarrollo agrícola, ganadero, forestal, pesquero e hidráulico y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
+La Secretaria de Desarrollo Agropecuario es la dependencia encargada de planear, promover, coordinar, supervisar y regular el desarrollo de la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero e hidráulico y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
+
+> <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
 
 A la Secretaría de Desarrollo Agropecuario corresponde el despacho de los siguientes asuntos:
 
-I. Rectoría, normatividad y programación de la producción agrícola, ganadera, forestal, pesquera, hidráulico y agroindustrial, así como la atención y solución de los problemas rurales en el Estado.
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-II. Realizar estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados a las ramas agrícolas, ganadera, forestal y pesquera, a fin de desarrollar potencial productivo y satisfacer las demandas populares;
+I. Rectoría, normatividad y programación de la producción en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquera, hidráulico y agroindustrial, así corno (sic) la atención y solución de los problemas rurales en el Estado.
 
-III. Elaborar, supervisar, evaluar y controlar los planes estatales de desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial de la entidad;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-IV. Supervisar la ejecución de los programas estatales de desarrollo agrícola, ganadero, forestal, hidráulico y agroindustrial, para desarrollar y difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y productividad.
+II. Realizar estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados a la agricultura, pecuaria, acuacultura, apicultura, el agave y pesquera, a fin de desarrollar potencial productivo y satisfacer las demandas populares.
 
-V. Establecer los programas estatales prioritarios de desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial, hacia los cuales se canalicen los apoyos financieros necesarios para el cumplimiento de sus objetivos;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-> <small>(F. DE E., G.G. 18 DE SEPTIEMBRE DE 2002)</small>
+III. Elaborar, supervisar, evaluar y controlar los planes estatales de desarrollo en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero, hidráulico y agroindustrial de la Entidad.
 
-VI. Planear la expansión, mejoramiento y tecnificación de todas las actividades relacionadas con la producción e industrialización agrícola, ganadera, forestal y pesquera en la Entidad, así como aquellas que permitan clasificar y evaluar los suelos para lograr su conservación, mejoramiento, zonificación y uso adecuado;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-> <small>(F. DE E., G.G. 18 DE SEPTIEMBRE DE 2002)</small>
+IV. Supervisar la ejecución de los programas estatales de desarrollo en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero, hidráulico y agroindustrial para desarrollar y difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y productividad.
 
-VII. Apoyar la elaboración de estudios, planes y programas tendientes a las actividades de acopio y comercialización de la producción primaria o industrializada, agrícola, ganadera, forestal y pesquera en la Entidad;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-VIII. Proponer la creación de unidades administrativas u organismos auxiliares del sector, o bien, los cambios a las estructuras orgánicas de los mismos, que se consideren necesarios para el incremento de la actividad agrícola, ganadera, forestal, pesquera y agroindustrial en el Estado.
+V. Establecer, impulsar y apoyar los programas estatales prioritarios de desarrollo en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquero, hidráulico y agroindustrial que generen empleos e ingresos a las familias rurales, hacia los cuales se canalicen los apoyos financieros necesarios para el cumplimiento de sus objetivos.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+VI. Planear la expansión, mejoramiento y tecnificación de todas las actividades relacionadas con la producción e industrialización en la agricultura, pecuaria, acuacultura, apicultura, el agave y pesquera en la Entidad, además de aquellas que permitan clasificar y evaluar los suelos para lograr su conservación, mejoramiento, zonificación y uso adecuado.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+VII. Apoyar la elaboración de estudios, planes y programas tendientes a las actividades de acopio y comercialización de la producción primaria o industrializada, en la agricultura, pecuaria, acuacultura, apicultura, el agave y pesquera, así como fomentar la capacitación y asistencia técnica de los productores y en general del sector rural en la Entidad.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+VIII. Proponer la creación de unidades administrativas u organismos auxiliares del sector, o bien, los cambios a las estructuras orgánicas de los mismos, que se consideren necesarios para el incremento de la actividad en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquera y agroindustrial en el Estado.
+
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
 
 IX. Promover el establecimiento y vigilar el funcionamiento de las estaciones que conforman el sistema meteorológico del Estado.
 
-X. Promover y organizar Congresos, ferias, exposiciones y concursos agrícolas, ganaderos, forestales y pesqueros en el Estado, así como participar en eventos de carácter nacional e internacional;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-XI. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas;
+X. Promover organizar congresos, ferias, exposiciones y concursos agrícolas, pecuarios, acuícolas, apícolas, del agave y pesqueros en el Estado, además de participar en eventos de carácter nacional e internacional.
 
-XII. Promover la constitución de organizaciones de productores agrícolas, ganaderas, forestales, pesqueras y agroindustriales y apoyarlas en el acceso al crédito y seguro para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando con ello su bienestar social;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-XIII. Intervenir en los convenios de coordinación que celebre el Ejecutivo con el Gobierno Federal en materia de desarrollo agropecuario, forestal, pesquero, hidráulico y agroindustrial, o con los municipios, así como con otras entidades públicas;
+XI. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades de la agricultura, pecuaria, acuacultura, apicultura, el agave, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas.
 
-XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en materia agrícola, ganadera, forestal, pesquera y agroindustrial, contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XII. Promover la constitución de organizaciones de productores en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesqueras y agroindustriales y apoyarlas en el acceso al crédito y seguro para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando con ello su bienestar social.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XIII. Intervenir en los convenios de coordinación que celebre el Ejecutivo con el Gobierno Federal en materia de desarrollo agropecuario, en la acuacultura, apicultura, el agave, pesquero, hidráulico y agroindustrial o con los municipios, así como con otras entidades públicas.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en la agricultura, pecuaria, acuacultura, apicultura, el agave, pesquera y agroindustrial contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal.
+
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
 
 XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia.
 
-XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, pecuarias, acuícolas, apícolas, del agave, pesqueras y agroindustriales.
+
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2002)</small>
 
 XVII. Conservar y fomentar el desarrollo de la flora y fauna fluvial y lacustre en el Estado;
 
-XVIII. Coordinar las actividades operativas de las Coordinaciones Regionales de Desarrollo Rural e implantar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, forestal e hidráulica se establezcan en la entidad;
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
-XIX. Las demás que señalen las leyes, reglamentos y disposiciones relativas en el Estado.
+XVIII. Coordinar las actividades operativas de las Coordinaciones Regionales de Desarrollo Rural e implantar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, en la acuacultura, apicultura, el agave, pesqueras, agroindustriales e hidráulica se establezcan en la Entidad, bajo criterios de innovación, eficiencia, productividad, sustentabilidad, ahorro en el gasto público y mayor cercanía y calidad de los servicios a la población.
+
+> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XIX. Elaborar inventarios, así como procesar y difundir la información estadística y geográfica referente a los recursos disponibles, el potencial productivo de las regiones del Estado, la oferta y la demanda de los productos del campo, a efecto de coadyuvar en la planeación del desarrollo rural y en la óptima utilización y preservación rural.
+
+> <small>(ADICIONADA, G.G. 6 DE JUNIO DE 2016)</small>
+
+XX. Las demás que señalen el Reglamento y otras disposiciones jurídicas relativas en la Entidad.
 
 ###### Artículo 35.
 
@@ -2927,13 +2965,15 @@ DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente D
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 332 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE LA AUDITORÍA SUPERIOR Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+G.G. 6 DE JUNIO DE 2016.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-P.O. 17 DE SEPTIEMBRE DE 2018.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 827 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SINALOA”.]
 
