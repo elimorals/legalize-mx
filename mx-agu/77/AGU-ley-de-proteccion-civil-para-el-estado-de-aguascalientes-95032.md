@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2013-07-08"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -1231,9 +1231,11 @@ Los donativos que en dinero reciban los municipios en los términos señalados e
 
 Las autoridades estatales o municipales correspondientes, deberán de verificar en todo momento que las donaciones se apliquen estrictamente para beneficiar a la población afectada por la emergencia o desastres y no para fines particulares, políticos o partidistas.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 124.
 
-En caso de que alguna autoridad estatal, municipal o servidor público obstaculice, interfiera, desvíe o haga mal uso de los donativos recibidos tanto en efectivo como en especie, será sancionada conforme al Capítulo de sanciones de la presente Ley y la Legislación Penal del Estado.
+En caso de que alguna autoridad estatal, municipal o servidor público obstaculice, interfiera, desvíe o haga mal uso de los donativos recibidos tanto en efectivo como en especie, será sancionada conforme al Capítulo de sanciones de la presente Ley y el Código Penal para el Estado de Aguascalientes.
 
 ### CAPÍTULO XXII. Detección de Zonas de Riesgo
 
@@ -1474,3 +1476,17 @@ Dip. Kendor Gregorio Macías Martínez,
 SEGUNDO SECRETARIO.
 
 En cumplimiento a lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 3 de julio de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- SE DEROGAN Y REFORMAN ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
