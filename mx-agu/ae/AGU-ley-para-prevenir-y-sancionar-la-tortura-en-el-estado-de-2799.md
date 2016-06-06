@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-2799"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-14"
-last_updated: "2016-02-22"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 14 de mayo de 1995.
 
@@ -155,13 +155,11 @@ En términos de la Ley General de Víctimas, el Estado y los municipios estarán
 
 Siempre que haya motivos fundados para creer que se ha cometido un acto de Tortura, las autoridades competentes del Estado procederán de oficio y con celeridad a realizar la investigación y, de existir denuncia o acusación y datos que acrediten los elementos del hecho punible, ejercitarán la acción penal correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 12.
 
-En todo lo no previsto por esta Ley, serán aplicables las disposiciones del Código Penal para el Estado de Aguascalientes y del Código de Procedimientos Penales para el Estado de Aguascalientes.
+En todo lo no previsto por esta Ley, serán aplicables las disposiciones del Código Penal para el Estado de Aguascalientes y del Código Nacional de Procedimientos Penales.
 
 TRANSITORIOS:
 
@@ -288,3 +286,15 @@ P.O. 22 DE FEBRERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- SE DEROGAN Y REFORMAN ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
