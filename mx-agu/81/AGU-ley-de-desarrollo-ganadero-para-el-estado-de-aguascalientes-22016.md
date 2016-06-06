@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-ganadero-para-el-estado-de-aguascalientes-220
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-23"
-last_updated: "2015-07-27"
+last_updated: "2016-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de julio de 2001.
 
@@ -219,9 +219,9 @@ m) La destrucción por cualquier medio, de productos y subproductos cárnicos pa
 
 n) La implementación de un programa de difusión sobre las unidades de producción pecuaria y de sacrificio de animales para consumo humano y de los establecimientos que comercialicen o distribuyan productos o subproductos cárnicos para consumo humano y se encuentren certificados como expendedores de productos libres de clorhidrato de Clenbuterol; y
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
 
-o) Con la información recibida sobre el uso de Clorhidrato de clenbuterol, la Secretaría dará cuenta a los tres niveles de gobierno para que instrumenten los procedimientos administrativos de calificación de infracciones e impongan las sanciones administrativas correspondientes, asimismo hará del conocimiento de las autoridades competentes, la existencia de hechos que pudieran ser constitutivos de figuras típicas constitutivas de un hecho punible previstas en la Legislación Penal para el Estado de Aguascalientes.
+o) Con la información recibida sobre el uso de Clorhidrato de clenbuterol, la Secretaría dará cuenta a los tres órdenes de gobierno para que instrumenten los procedimientos administrativos de calificación de infracciones e impongan las sanciones administrativas correspondientes, asimismo hará del conocimiento de las autoridades competentes, la existencia de hechos que pudieran ser constitutivos de delitos previstos en el Código Penal para el Estado de Aguascalientes.
 
 ###### ARTICULO 9o.
 
@@ -1038,3 +1038,15 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- SE DEROGAN Y REFORMAN ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
