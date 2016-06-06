@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2016-01-25"
+last_updated: "2016-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -165,11 +165,7 @@ IX.- Designar a Magistrados de una Sala para que transitoriamente integren otra 
 
 X.- Conocer los informes del Consejo de la Judicatura Estatal por lo que respecta a las licencias otorgadas a los Jueces y emitir opiniones de los mismos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
-
-XI.- Conocer y resolver las solicitudes de indemnización en términos de lo establecido en el apartado denominado “Procedencia de la Indemnización por Privación de la Libertad o Condena Injusta” del Código de Procedimientos Penales para el Estado de Aguascalientes;
+XI.- (DEROGADA, P.O. 6 DE JUNIO DE 2016)
 
 XII.- Excitar a los Jueces para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas;
 
@@ -233,9 +229,9 @@ Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Adminis
 
 Todo Magistrado que pretenda reelegirse, será sometido al procedimiento establecido en el artículo 10 de esta Ley, el cual iniciará, por lo menos, noventa días antes de que concluya su encargo.
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
 
-ARTICULO 10 B.- Luego de que por denuncia o querella se tenga conocimiento de la posible comisión de un delito del fuero común por parte de un juez, la Fiscalía General del Estado, procederá de inmediato a la investigación de los hechos, de conformidad con el Código de Procedimientos Penales aplicable al caso.
+ARTÍCULO 10 B.- Luego de que por denuncia o querella se tenga conocimiento de la posible comisión de un delito del fuero común por parte de un juez, la Fiscalía General del Estado, procederá de inmediato a la investigación de los hechos, de conformidad con el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -251,9 +247,9 @@ La falta de asistencia del Juez a su audiencia, no impedirá la celebración de 
 
 ARTICULO 10 E.- Si la resolución se pronuncia en el sentido de no haber lugar a formación de causa, se devolverá todo lo allegado al Supremo Tribunal de Justicia a la Fiscalía General del Estado, para que cuando el Juez deje de desempeñar su cargo, se proceda conforme a derecho.
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
 
-ARTICULO 10 F.- Si se declarare que ha lugar a formación de causa, se suspenderá en sus funciones al juez y con testimonio de dicha resolución, se devolverá todo lo allegado al Supremo Tribunal de Justicia a la Fiscalía General del Estado, para que consigne la averiguación previa o en su caso formule imputación ante el Juez legalmente competente, atendiendo a las reglas que al efecto establezca el Código de Procedimientos Penales aplicable.
+ARTÍCULO 10 F.- Si se declarare que ha lugar a formación de causa, se suspenderá en sus funciones al juez y con testimonio de dicha resolución, se devolverá todo lo allegado al Supremo Tribunal de Justicia a la Fiscalía General del Estado, para en su caso formule imputación ante el Juez legalmente competente, atendiendo a las reglas que al efecto establezca el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1093,25 +1089,51 @@ XVIII.- Depósito de personas; y
 
 XIX.- En los casos de interdicto a que se refiere el Artículo 377 del Código Civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO 41.
+
+La jurisdicción de primera instancia en materia penal estará a cargo de los juzgados de Control, de Juicio Oral y de Ejecución, y su competencia será conforme a lo establecido en el Código Nacional de Procedimientos Penales, las Leyes Federales que les atribuyan competencia, esta Legislación y demás normas relacionadas.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
-###### ARTICULO 41.
-
-La jurisdicción de primera instancia en materia penal estará a cargo de los juzgados de Control, de Juicio Oral y de Ejecución, y su competencia será conforme a lo establecido en del (sic) Código de Procedimientos Penales para el Estado de Aguascalientes, las Leyes Federales que les atribuyan competencia, esta Legislación y demás normas relacionadas.
-
 Los juzgados de Control y de Ejecución estarán integrados cada uno por un Juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los juzgados de Juicio Oral estarán conformados por uno o más jueces cuando así lo determine el Consejo de la Judicatura Estatal. En caso de ser colegiados, se integrarán por tres jueces, y sus decisiones se tomarán por unanimidad o mayoría de votos, pudiendo redactarse el voto particular que se agregarán a la sentencia definitiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
 Los jueces deberán estar presentes en todas las audiencias y trámites que les competan en el procedimiento penal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los jueces, en el despacho de los asuntos de su competencia, deberán portar toga, la cual contará con las características que determine el Consejo de la Judicatura.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
 El Consejo de la Judicatura determinará el número de jueces de Control, de Juicio Oral y de Ejecución que sean indispensables para la adecuada aplicación de la jurisdicción de primera instancia en materia penal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
 Los jueces de Control contarán con facultades de preparación de juicio oral, pero nunca podrán conocer de asuntos que hayan conocido en las etapas de investigación inicial y formalizada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
 
 Los jueces de Control, de Juicio Oral y de Ejecución estarán investidos de fe pública para constancia y certificación de sus actos.
 
@@ -1125,7 +1147,9 @@ ARTICULO 41 BIS. (DEROGADO, P.O. 25 DE MARZO DE 2013)
 
 ARTICULO 41 A.- Los jueces de Control tendrán las siguientes atribuciones:
 
-I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar actividades que afecten los derechos humanos y fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte, la Constitución Política del Estado de Aguascalientes, el Código de Procedimientos Penales del Estado de Aguascalientes, y demás normas aplicables;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2016)</small>
+
+I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar actividades que afecten los derechos humanos y fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte, la Constitución Política del Estado de Aguascalientes, el Código Nacional de Procedimientos Penales, y demás normas aplicables;
 
 II.- Asegurar los derechos del imputado y demás personas que intervengan en el procedimiento penal, de conformidad con las leyes aplicables;
 
@@ -1451,11 +1475,9 @@ Las faltas absolutas de los jueces civiles, mercantiles, familiares, mixtos, de 
 
 Las faltas temporales que no excedan de quince días en materias distintas a la penal, se suplirán por el primer secretario de estudio y proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y familiar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
-
-En los casos de impedimentos, recusación o excusa, conocerá del negocio de que se trate el juez que le siga en número y el último por el primero y en caso necesario, por los jueces de distinto ramo en el orden indicado, a excepción de los casos en materia penal, que se resolverán conforme a las reglas establecidas en el Código de Procedimientos Penales para el Estado de Aguascalientes.
+En los casos de impedimentos, recusación o excusa, conocerá del negocio de que se trate el juez que le siga en número y el último por el primero y en caso necesario, por los jueces de distinto ramo en el orden indicado, a excepción de los casos en materia penal, que se resolverán conforme a las reglas establecidas en el Código Nacional de Procedimientos Penales.
 
 ###### ARTICULO 69.
 
@@ -2486,3 +2508,15 @@ P.O. 25 DE ENERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- SE DEROGAN Y REFORMAN ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
