@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2015-04-13"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,45 @@ state: "VER"
 ---
 # LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+ACUERDO GENERAL 48/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN CINTALAPA DE FIGUEROA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 13 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, EXCEPTO SU TÍTULO TERCERO Y DEMÁS DISPOSICIONES RELATIVAS A LA MATERIA DE TRANSPORTE PÚBLICO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2015.
+Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador Del Estado De Veracruz de Ignacio de la Llave.
+ACUERDO GENERAL 48/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN CINTALAPA DE FIGUEROA.
 
-2006 del Bicentenario del natalicio del Benemérito de las Américas don Benito Juárez García. Xalapa-Enríquez, Ver., a 30 de octubre de 2006.
+CONSIDERANDO
 
-Fidel Herrera Beltrán, Gobernador del Estado Libre y soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del mismo, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus atribuciones;
 
-Que la Sexagésima Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
+SEGUNDO. Los artículos 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y 81, fracciones IV, V, VI y XXIV; y 144, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal determinar el número y límites territoriales y, en su caso, la especialización por materia de los juzgados de Distrito y tribunales de Circuito, en cada uno de los Circuitos en que se divide el territorio de la República Mexicana, así como proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal Federal, esta última, que ejerce a través de la Comisión de Creación de Nuevos Órganos, en términos del artículo 42, fracción II Bis, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado el veintidós de noviembre de dos mil trece en el Diario Oficial de la Federación;
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+TERCERO. El artículo 17 de la Constitución Política de los Estados Unidos Mexicanos establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes; por lo que para cumplir con el mandato constitucional es necesaria la creación de órganos jurisdiccionales, a fin de garantizar que la impartición de justicia sea pronta, completa, imparcial y gratuita;
 
-La Sexagésima Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de La Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política Local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
+CUARTO. El dieciocho de junio de dos mil ocho, se publicó en el Diario Oficial de la Federación el Decreto de modificación de diversos artículos constitucionales, para establecer en nuestro país el modelo de justicia procesal penal acusatorio y oral, que se rige por los principios de publicidad, contradicción, concentración, continuidad e inmediación. Como resultado de lo anterior, el Consejo de la Judicatura Federal en ejercicio de sus atribuciones debe dictar, en su ámbito de competencia, las disposiciones administrativas que sean necesarias para el cumplimiento de la norma constitucional, de manera tal que antes del dieciocho de junio de dos mil dieciséis, todo el territorio nacional opere bajo el nuevo modelo procesal penal;
 
-LEY Número 589
+QUINTO. En sesión de ocho de mayo de dos mil trece, el Pleno del Consejo de la Judicatura Federal aprobó el Plan Maestro de Implementación de la Reforma Penal, en el cual se incluyó la instalación de dos Centros de Justicia Penal Federal en el Estado de Chiapas;
 
-DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+SEXTO. En ese contexto, el cinco de marzo de dos mil catorce se publicó en el Diario Oficial de la Federación el Código Nacional de Procedimientos Penales, que en su artículo 2 precisa que el objeto del mismo es establecer las normas para la investigación, el procesamiento y la sanción de los delitos, esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y se repare el daño, señalando como ámbito de aplicación en la persecución de ilícitos, la competencia de los órganos jurisdiccionales federales en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano sea parte;
+
+SÉPTIMO. El artículo Segundo Transitorio, primer párrafo, del Código Nacional de Procedimientos Penales, señala que la entrada en vigor del mismo, a nivel federal será gradualmente en los términos previstos en la Declaratoria que al efecto emita el Congreso de la Unión, sin que pueda exceder del dieciocho de junio de dos mil dieciséis;
+
+OCTAVO. El diecinueve de noviembre de dos mil catorce se publicó en el Diario Oficial de la Federación el Acuerdo General 36/2014 del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y que reforma y adiciona disposiciones de diversos Acuerdos Generales;
+
+NOVENO. El Pleno del Consejo de la Judicatura Federal, en sesión de cuatro de febrero de dos mil quince, aprobó la propuesta del proyecto arquitectónico de edificación de los Centros de Justicia Penal Federal Provisionales, así como de la propuesta de la plantilla de personal de los mismos, en términos del modelo de 2 jueces de Distrito y 1 Sala de Audiencias;
+
+DÉCIMO. En sesión de cuatro de marzo de dos mil quince el Pleno del Consejo de la Judicatura Federal, aprobó el punto de acuerdo presentado por el grupo de trabajo para la Implementación del Sistema de Justicia Penal, relativo a la habilitación provisional como tribunales de alzada del nuevo Sistema de Justicia Penal a los Tribunales Unitarios de Circuito; y
+
+DÉCIMO PRIMERO. El veinticinco de septiembre de dos mil quince se publicó en el Diario Oficial de la Federación el Decreto del Congreso de la Unión de la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, a partir del treinta de noviembre de dos mil quince, en los estados de Chiapas, Chihuahua, Coahuila de Zaragoza, Nayarit, Oaxaca, Sinaloa y Tlaxcala.
+
+Actualmente se cuenta con la infraestructura física para la instalación de un Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa.
+
+Por lo anterior, se expide el siguiente
+
+ACUERDO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -53,233 +69,93 @@ DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, observancia general e interés social, y tiene por objeto regular el tránsito por las vías públicas y áreas o zonas privadas con acceso al público, comprendidas dentro del Estado que no sean de competencia federal, el transporte de personas y bienes, el estacionamiento de vehículos y los servicios auxiliares del transporte y el tránsito.
+El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones del Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa.
 
 ###### Artículo 2.
 
-La aplicación de esta Ley y sus reglamentos corresponderá a las autoridades estatales y municipales en los términos que la misma dispone. Los reglamentos municipales en materia de tránsito se ajustarán a la Ley.
+Para efectos del presente Acuerdo se entenderá por:
+
+I. Administrador: Juez de Distrito encargado de la administración del Centro de Justicia Penal Federal;
+
+II. Centro: Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa;
+
+III. Consejo: Consejo de la Judicatura Federal;
+
+IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
+
+V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio;
+
+VI. Juzgadores: Jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
+
+VII. Pleno: Pleno del Consejo; y
+
+VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio.
 
 ###### Artículo 3.
 
-Se declaran de orden e interés público la planeación, ordenación y reglamentación de los actos a que se refiere el artículo uno de esta Ley.
+El Centro iniciará funciones a partir de las cero horas del treinta de noviembre de dos mil quince.
 
 ###### Artículo 4.
 
-Para los efectos de esta Ley se entenderá por:
+El Centro se integrará por tres jueces de Distrito y un Tribunal de Alzada, y los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales. Uno de los jueces de Distrito fungirá como Administrador.
 
-I. Concesión: Título por el que el Estado otorga a una persona física o moral la prestación del servicio de transporte público, o de un servicio público relacionado con la materia de tránsito;
+El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-II. Concesionario: A la persona física o moral titular de una concesión para prestar el servicio de transporte público, o un servicio público relacionado con la materia de tránsito;
-
-III. Consejo: Al Consejo Técnico Estatal del Transporte;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-IV. Dirección de Tránsito: A la Dirección General de Tránsito del Estado;
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-IV Bis. Dirección de Transporte: A la Dirección General de Transporte del Estado;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-V. Director de Tránsito: Al Director General de Tránsito del Estado;
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-V Bis. Director de Transporte: Al Director General de Transporte del Estado;
-
-VI. Estado: El de Veracruz de Ignacio de la Llave;
-
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
-
-VI Bis. Estado de ebriedad: El que presenta una persona cuando ha ingerido alcohol en una cantidad tal que lo exhala en más de 0.4 (cero punto cuatro) miligramos por litro, o lo tiene en su sangre en proporción mayor a 0.8 (cero punto ocho) gramos por litro;
-
-VII. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2011)
-
-VIII. Ley: A la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave;
-
-IX. Operario: Al personal contratado por el concesionario o permisionario para conducir las unidades con las que presta el servicio de transporte público;
-
-X. Permiso: El acto por el cual el Estado confiere a una persona física o moral la prestación del servicio de transporte público de manera temporal;
-
-XI. Permisionario: Al titular del permiso para la prestación del servicio de transporte público de manera temporal;
-
-XII. Registro: Al Registro de Transporte Público;
-
-XIII. Reglamento: Al Reglamento de la Ley;
-
-XIV. Ruta: El recorrido autorizado para la prestación del servicio de transporte público;
-
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
-
-XIV Bis. Salario: El salario mínimo general vigente en la capital del estado;
-
-XV. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XV Bis. Secretaría de Seguridad Pública: A la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado;
-
-XVI. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XVI Bis. Secretario de Seguridad Pública: Al titular de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-XVII. Servicios Auxiliares: Todos los conexos al tránsito o al transporte, según corresponda;
-
-XVIII. Servicio de transporte particular: El que se utiliza para el traslado de personas, animales o cosas, sin retribución alguna y en vehículos adecuados al fin de que se trate;
-
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-XIX. Servicio de transporte particular para personas con discapacidad: El que se utiliza para el traslado, sin retribución alguna, de personas con discapacidad, mediante vehículos que cuenten con la calcomanía expedida por la autoridad competente y que, en el caso de que los conductores sean personas con discapacidad, contengan además las especificaciones técnicas necesarias;
-
-XX. Servicio de transporte público: El que, por concesión o permiso del Estado, se brinda para satisfacer necesidades colectivas, siendo prestado a terceros contra el pago de una tarifa;
-
-XXI. Tarifa: La contraprestación que otorga el usuario por la prestación del servicio de transporte público;
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-XXII. Terminal: Punto de salida y retorno de las unidades del servicio de transporte público;
-
-XXIII. Vía pública: A las carreteras, puentes, brechas y caminos vecinales, las avenidas, callejones, calzadas y banquetas, plazas, paseos, zonas peatonales, pasos a desnivel, andadores y calles comprendidas dentro de los límites del Estado;
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-XXIV. Vías públicas de competencia estatal: A las que entronquen con caminos o carreteras de otra entidad federativa, que no sean de competencia federal, así como las que comuniquen a dos o más municipios del Estado, y las que en su totalidad o en su mayor parte sean construidas por el Estado, con fondos estatales o por particulares mediante concesión estatal, excepto dentro de las áreas urbanas de los municipios;
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-XXV. Vías públicas de competencia municipal: Aquellas que no sean de competencia federal o estatal; y
-
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-XXVI. Zona privada con acceso al público: Área especial de naturaleza jurídica privada, en donde se preste el servicio de estacionamiento público o privado, así como todo lugar privado en donde se realice tránsito de personas, semovientes o vehículos.
+> <small>(REFORMADO POR EL TRANSITORIO DÉCIMO DEL ACUERDO GENERAL 39/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 ###### Artículo 5.
 
-Las disposiciones contenidas en la presente Ley son de observancia para toda persona que haga uso de las vías públicas, ya sea con el carácter de peatón, conductor, propietario de un vehículo, concesionario, permisionario o usuario del servicio del transporte público o privado o de servicios auxiliares del tránsito y transporte.
-
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
-
-En el caso de zonas privadas con acceso al público, se aplicará este ordenamiento cuando así lo soliciten las partes involucradas. El ingreso de la autoridad competente a dichas zonas deberá hacerse previo consentimiento del propietario del lugar, gerente, administrador, encargado, vigilante o representante legal facultado para ello; cuando quien deba dar la autorización correspondiente no se localice o niegue el acceso del personal de la autoridad competente, las partes involucradas ejercerán sus derechos conforme a las leyes aplicables.
+Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.
 
 ###### Artículo 6.
 
-En lo no previsto por la presente Ley se aplicará supletoriamente el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Chiapas, con la totalidad de sus municipios.
 
 ### Capítulo II. Autoridades de Tránsito y Transporte
 
 ###### Artículo 7.
 
-Las disposiciones en materia de tránsito serán aplicadas por las autoridades estatales en las vías públicas de competencia estatal y por las autoridades municipales en las vías públicas de competencia municipal.
+El domicilio del Centro será el ubicado en tramo carretero Tapanatepec Tuxtla Gutiérrez, Chiapas km 61+856.5, colonia Lázaro Cárdenas, Cintalapa de Figueroa, Chiapas, código postal 30410.
 
-Las autoridades estatales aplicarán las disposiciones en materia de tránsito en las vías públicas de competencia municipal cuando el servicio público de tránsito lo preste el Estado, directamente o en forma coordinada con los Ayuntamientos.
+Toda la correspondencia relacionada con los asuntos de la competencia del Centro deberá dirigirse al domicilio indicado.
 
 ###### Artículo 8.
 
-Corresponde al Ejecutivo del Estado planear, regular y supervisar la prestación del servicio de transporte público.
+El Centro contará con una Oficialía de Partes Común, que dará servicio a los juzgadores que lo integran, de conformidad con las disposiciones aplicables.
+
+El sistema de turno y distribución de asuntos será automatizado y aleatorio, con excepción de lo siguiente:
+
+I. Los asuntos urgentes que se reciban durante las guardias, cuya atención corresponderá al juez de Distrito que deba cubrirla; y
+
+II. Los asuntos relacionados durante las etapas procesales de investigación e intermedia o de preparación del juicio.
+
+Corresponde a las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
+
+En el diseño del sistema se deberá tomar en consideración las guardias, las vacaciones, las licencias, los impedimentos y las sustituciones de juzgadores.
+
+En aquellas situaciones en que por caso fortuito o fuerza mayor no pueda utilizarse el sistema automatizado, el Oficial de Partes con la anuencia y supervisión del Administrador turnará los asuntos nuevos en el estricto orden secuencial en que se presenten; y los relacionados a que se refiere la fracción II de este artículo al juzgador correspondiente, sin embargo, deberá observarse que aquellos jueces de Distrito que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 9.
 
-Las autoridades de tránsito y transporte coadyuvarán con las encargadas de la prevención, persecución de delitos e impartición de justicia, en términos de lo que dispongan las leyes.
+A partir de las cero horas del treinta de noviembre de dos mil quince, la Oficialía de Partes del Centro, funcionará las veinticuatro horas, todos los días del año, para la recepción, registro, turno y envío de los asuntos.
+
+No obstante lo dispuesto en el párrafo anterior, de lunes a viernes durante el horario de las dieciocho a las ocho horas con cincuenta y nueve minutos del día siguiente, así como los días inhábiles, la Oficialía de Partes sólo recibirá las promociones de término que se presenten.
 
 ### Capítulo III. Autoridades Estatales
 
 ###### Artículo 10.
 
-Son autoridades estatales en materia de tránsito y transporte:
-
-I. El Gobernador del Estado;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-II. El Secretario de Seguridad Pública;
-
-II Bis. (DEROGADA, G.O. 26 DE AGOSTO DE 2013)
-
-III. El Secretario de Finanzas y Planeación;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-IV. El Director de Tránsito;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-V. El Director de Transporte; y
-
-> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VI. Los servidores públicos dependientes de las Direcciones de Tránsito o de Transporte, que con fundamento en la Ley ordenan la ejecución, ejecutan o emiten actos administrativos susceptibles de exigirse mediante el uso de la fuerza pública;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+Los juzgadores, así como el personal adscrito a los mismos, laborarán de lunes a viernes de las nueve a las quince horas y de las dieciséis a las dieciocho horas, con una hora para la ingesta de alimentos, fuera de las instalaciones del Centro, de las quince a las dieciséis horas, sin perjuicio de las medidas de organización interna que adopten sus titulares atendiendo a las necesidades del servicio.
 
 ###### Artículo 11.
 
-El Secretario de Seguridad Pública, además de las facultades que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las siguientes:
+Las guardias de turno para la atención de asuntos en días y horas inhábiles de los jueces de Distrito en su función de control se realizarán de forma semanal, de conformidad con los registros y programación que realice el Administrador.
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+La guardia de turno en días y horas inhábiles, finaliza el día lunes de cada semana a las ocho horas con cincuenta y nueve minutos e inicia el mismo día a las nueve horas.
 
-I. Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de transporte;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-II. Implementar los programas de transporte, en los términos de las disposiciones legales vigentes y de los acuerdos emitidos por el Titular del Poder Ejecutivo del Estado;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-III. Proponer al Gobernador del Estado la celebración de acuerdos y convenios en materia de transporte, con dependencias u organismos de los sectores público, privado y social, así como con los Ayuntamientos, en los términos que establezcan las leyes;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-IV. Autorizar la transferencia de la titularidad de las concesiones de transporte en todas las modalidades;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-V. Autorizar las tarifas a que se sujetará la prestación del servicio de transporte público en todas sus modalidades y servicios conexos;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VI. Acordar la creación de coordinaciones y delegaciones regionales de Transporte;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-VII. Tramitar, por conducto de la Dirección de Transporte, los recursos administrativos que le competan en su materia;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-VIII. Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de tránsito;
-
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-IX. Implementar los programas en materia de tránsito, en los términos de las disposiciones legales vigentes y de los acuerdos emitidos por el Titular del Poder Ejecutivo del Estado;
-
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-X. Proponer al Gobernador del Estado la celebración de acuerdos y convenios en materia de tránsito, con dependencias u organismos de los sectores público, privado y social, así como con los Ayuntamientos, en los términos que establezcan las leyes;
-
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-XI. Autorizar las tarifas a que se sujetará la prestación de los servicios públicos de su competencia, en términos de las disposiciones aplicables;
-
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-XII. Acordar la creación de coordinaciones y delegaciones regionales de Tránsito;
-
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-XIII. Tramitar, por conducto de la Dirección de Tránsito, los recursos administrativos que le competan en su materia, y
-
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-XIV. Las demás que establezcan esta Ley y la legislación aplicable.
+El Administrador del Centro adoptará las medidas administrativas necesarias, a fin de que el Tribunal de Alzada del Centro esté en posibilidad de resolver las apelaciones de término previstas en el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 11 Bis.
 
@@ -287,93 +163,15 @@ XIV. Las demás que establezcan esta Ley y la legislación aplicable.
 
 ###### Artículo 12.
 
-El Secretario de Finanzas y Planeación tendrá, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, las siguientes:
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-I. Proveer, de conformidad con lo que dispongan esta Ley y su Reglamento, así como la Ley Orgánica del Poder Ejecutivo del Estado, el Reglamento Interior de la Secretaría de Finanzas y Planeación, el Presupuesto aprobado y demás normatividad aplicable, la expedición y entrega de los instrumentos de servicio de control vehicular, así como expedir calcomanías específicas para identificar los vehículos utilizados en el servicio de transporte particular para personas con discapacidad. Las placas de circulación y calcomanías con transponder o chip con que se doten a los vehículos deberán contar con las medidas de seguridad que permitan su rápida identificación;
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
-
-II. Mantener actualizado el padrón vehicular estatal, en los términos que dispongan las leyes, e informar al respecto a las Direcciones de Tránsito y a la de Transporte, a la conclusión del ejercicio mensual;
-
-III. Diseñar y emitir los formatos para el control vehicular, conforme a los lineamientos y normatividad correspondientes;
-
-IV. Recaudar los conceptos tributarios en materia de tránsito y transporte a que se refiere la presente Ley, su Reglamento y demás disposiciones normativas; y
-
-V. Las demás que establezcan esta Ley y su Reglamento.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+Los juzgadores que integran el Centro llevarán Libros de Gobierno Electrónicos, que se integrarán con la información que se registre en el sistema informático respectivo.
 
 ###### Artículo 13.
 
-Las Direcciones de Tránsito y la de Transporte, en su (sic) respectivos ámbitos de competencia, tendrán a su cargo, la aplicación y cumplimiento de esta Ley, su Reglamento y demás ordenamientos aplicables.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+Los reportes estadísticos deberán remitirse a la Dirección General de Estadística Judicial, en la forma y tiempos que ésta determine.
 
 ###### Artículo 14.
 
-Son facultades del Director de Transporte, las siguientes:
-
-I. Controlar y supervisar las actividades en materia de transporte;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-II. Ejecutar los programas de su competencia, en términos de ley y conforme a los actos administrativos que emita el Secretario de Seguridad Pública;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-III. Proponer al Secretario de Seguridad Pública los programas relativos a la protección de los peatones, conductores, operarios y usuarios de los servicios de transporte particular y público;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-IV. Proponer al Secretario de Seguridad Pública las medidas que considere necesarias para optimizar los servicios de transporte a que se refieren la presente Ley y su Reglamento;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-V. Proponer al Secretario de Seguridad Pública la creación de coordinaciones y delegaciones regionales de Transporte, en puntos estratégicos del Estado;
-
-VI. Establecer sistemas de escalafón, estímulos y recompensas al personal de la Dirección de Transporte, con base en el desempeño de sus actividades;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-VII. Proponer al Secretario de Seguridad Pública el diseño y aplicación de programas de capacitación, adiestramiento, actualización y especialización dirigidos al personal de la Dirección;
-
-VIII. Proporcionar la información que se le solicite, en los términos de la ley de la materia;
-
-IX. Autorizar el servicio de transporte particular a que se refieren esta Ley y su Reglamento;
-
-X. Vigilar que se cumplan los requisitos establecidos en esta Ley en el proceso de tramitación de concesiones para la prestación del servicio de transporte público en todas sus modalidades;
-
-XI. Otorgar, modificar, suspender o revocar, por acuerdo del Secretario, el ejercicio de una concesión, en los términos previstos por esta Ley, su Reglamento y demás disposiciones de la materia;
-
-XII. Autorizar, previo pago de los derechos respectivos, a personas físicas o morales la prestación del servicio público de estacionamiento de vehículos, en inmuebles particulares, o modificar, suspender o revocar, en los términos de esta Ley, su Reglamento y demás disposiciones de la materia;
-
-XIII. Autorizar escuelas de manejo de vehículos, de conformidad con esta Ley, su Reglamento y demás disposiciones de la materia;
-
-XIV. Vigilar el cumplimiento de las disposiciones contenidas en la presente Ley y su Reglamento, y ordenar visitas de inspección, designando a los servidores públicos que habrán de practicarlas;
-
-XV. Imponer las sanciones que sean aplicables por contravención a las disposiciones de esta Ley y su Reglamento, en materia de transporte;
-
-XVI. Resolver, de conformidad con lo establecido en el Código de Procedimientos Administrativos para el Estado, los recursos que se interpongan en contra de la aplicación de las disposiciones contenidas en esta Ley y su Reglamento, en materia de transporte;
-
-XVII. Ejecutar los mandamientos de autoridades judiciales y administrativas, cuando éstas así lo soliciten;
-
-XVIII. En coordinación con la Secretaría de Salud del Estado de Veracruz, operar y administrar el servicio de medicina preventiva en el transporte, realizando exámenes médicos a conductores del servicio de transporte público, con cargo a los concesionarios o permisionarios;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-XIX. Proponer al Secretario de Seguridad Pública, la designación o remoción de los servidores públicos que integren la plantilla del personal de la Dirección de Transporte;
-
-XX. Representar legalmente, por sí o mediante apoderado legal, a la Dirección de Transporte, a las coordinaciones y delegaciones dependientes de la misma, y ejercer cualquier acción en contra de terceros, en los casos en que se vean afectados los bienes muebles e inmuebles que tienen bajo su resguardo;
-
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
-
-XXI. Expedir y, en su caso, revocar o suspender las licencias de conducir en cualquiera de sus tipos y llevar su registro, así como emitir tarjetones de identificación por los medios escritos o electrónicos idóneos, a conductores de vehículos del transporte público; y
-
-XXII. Las demás que le confieran esta Ley y legislación aplicable.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+Los juzgadores del Centro, deberán levantar de manera individual un acta administrativa, por duplicado, del inicio de sus funciones, cuyo formato les será proporcionado por la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, debiendo remitir un ejemplar a la propia Secretaría Ejecutiva.
 
 ###### Artículo 14 Bis.
 
@@ -419,41 +217,11 @@ XVIII. Las demás que le confieran esta Ley, su Reglamento y otros ordenamientos
 
 ###### Artículo 15.
 
-El personal de las Direcciones de Tránsito y de la de Transporte que desempeñe trabajo, funciones o actividades de las materias que regula esta Ley y su Reglamento, se regirá por lo señalado en las disposiciones siguientes:
-
-I. Tendrán el carácter de auxiliares de la función de seguridad pública del Estado y, para todos los efectos laborales y administrativos, el personal operativo será considerado de confianza, y se sujetará los exámenes de evaluación y control de confianza, sin perjuicio de lo que establezcan otros ordenamientos legales;
-
-II. Contarán con atribuciones operativas y administrativas de acuerdo con las necesidades del servicio y, para estos efectos, se entenderá por personal operativo al nombrado para prestar sus servicios en las vías públicas y ejercer actos de autoridad, y por personal administrativo el nombrado para realizar trabajos propios del manejo interno y trámites de las oficinas;
-
-III. Las plazas vacantes del personal administrativo serán cubiertas, previa selección y capacitación de los aspirantes, en los términos que disponga el Reglamento y demás normatividad aplicable;
-
-IV. Asistir a los cursos de capacitación, adiestramiento, actualización y especialización que les imparta, en sus respectivos ámbitos de competencia, la Dirección de Tránsito o la de Transporte;
-
-V. Los ascensos del personal operativo y administrativo, se otorgarán a quienes aprueben los cursos de capacitación y actualización que para al efecto se impartan. En ningún caso se concederá un ascenso a quien no satisfaga los requisitos que señale la dependencia;
-
-VI. El salario del personal será fijado en el presupuesto de egresos que corresponda, y quien ascienda de grado o jerarquía tendrá un incremento a su sueldo en la misma proporción que sus iguales;
-
-VII. La jornada de trabajo del personal operativo se establecerá en atención a las necesidades del servicio y, las del personal administrativo, de acuerdo con los horarios de oficina; y
-
-VIII. Su conducta se basará en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos. La Dirección de Tránsito y la de Transporte establecerán normas de conducta del personal a ellas adscrito, así como las que se requieran para la mejor realización de sus funciones, las cuales deberán contener disposiciones relativas a:
-
-a) Grados jerárquicos;
-
-b) Reconocimientos y estímulos;
-
-c) Evaluación;
-
-d) Faltas; y
-
-e) Sanciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+El Centro contará con el número suficiente de defensores públicos y oficiales de apoyo, en razón de la cantidad de los juzgadores que lo integran.
 
 ###### Artículo 16.
 
-El personal operativo de la Dirección de Tránsito y de la de Transporte, conforme a su ámbito de competencia, está facultado para conocer de las infracciones que cometan a esta Ley y su Reglamento, los conductores de vehículos, concesionarios o cualquier otra persona, así como, en su caso, elaborar las actas en las que conste la infracción, para imponer la sanción correspondiente.
-
-Asimismo, deberá conservar el orden, preservar la tranquilidad pública y cuidar que se cumplan y apliquen las disposiciones de esta Ley y su Reglamento.
+Los jueces de control contarán con un sistema de acceso electrónico, mediante mecanismos tecnológicos que aseguren la confidencialidad de la información, para favorecer la comunicación con el Ministerio Público de la Federación y demás autoridades, así como con las personas autorizadas por éstas, que por razón de su función deban ingresar solicitudes de providencias precautorias o relacionadas con medidas de protección, así como actos de investigación que requieren autorización judicial, solicitudes de órdenes de aprehensión o comparecencia, entre otras.
 
 ### Capítulo IV. Autoridades Municipales
 
@@ -461,19 +229,23 @@ Asimismo, deberá conservar el orden, preservar la tranquilidad pública y cuida
 
 ###### Artículo 17.
 
-Conforme a lo dispuesto por la Constitución Federal y la del Estado, así como las leyes que de ambas deriven, los Ayuntamientos tendrán a su cargo el servicio público de Tránsito, pero podrán convenir con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de éste servicio, o bien lo presten o ejerzan coordinadamente por el Estado y el propio Ayuntamiento.
+En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
+
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro, con exclusión de aquel que funja como Administrador;
+
+II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en el Administrador, en términos del Artículo 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y
+
+III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano.
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita al Primer Tribunal Unitario del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas, para conocer, con ese carácter, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
-Son autoridades municipales de tránsito:
+El personal del Centro junto con sus juzgadores disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso deberán de permanecer dos jueces de Distrito en el Centro, para lo cual deberá contabilizarse al que funja como Administrador, supuesto en el cual se deberá observar lo previsto en el artículo 8, fracción I, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-I. Los Ayuntamientos;
+El personal del Tribunal de Alzada del Centro disfrutará de los períodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
 
-II. Los titulares de las dependencias de tránsito municipales; y
-
-III. Los servidores públicos de las dependencias de tránsito municipales.
-
-Cuando los municipios presten directamente el servicio público de tránsito deberán establecer en la reglamentación municipal respectiva las disposiciones atinentes al personal señaladas en el Capítulo anterior.
+La propia Comisión de Carrera Judicial, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
 
 ### Capítulo V. Organismos Auxiliares
 
@@ -481,9 +253,7 @@ Cuando los municipios presten directamente el servicio público de tránsito deb
 
 ###### Artículo 19.
 
-Son auxiliares en materia de tránsito y transporte las corporaciones de seguridad pública del Estado, la Secretaría de Salud del Estado, el Consejo y los Patronatos de Educación Vial.
-
-> <small>(DEROGADA SU DENOMINACIÓN, G.O. 30 DE DICIEMBRE DE 2011)</small>
+El Pleno y las Comisiones del Consejo, en el ámbito de su competencia, interpretarán y resolverán todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente Acuerdo.
 
 ### Capítulo VI. Instituto Veracruzano del Transporte
 
@@ -1475,7 +1245,57 @@ La Dirección de Transporte podrá suspender, en cualquier momento, la autorizac
 
 ###### Artículo 116.
 
-El servicio de transporte público es aquel que se presta para satisfacer necesidades colectivas, siendo ofrecido a terceros contra el pago de una retribución; corresponde al Estado proporcionarlo, pudiendo otorgarlo por sí mismo o a través de personas físicas o morales mediante concesión otorgada por el Gobernador del Estado, una vez satisfechos los requisitos establecidos en esta Ley y su Reglamento.
+El libro medidas precautorias y cautelares, así como técnicas de investigación constará de seis columnas con los rubros: Número de orden, Autoridad solicitante, Tipo de medida o técnica solicitada, Resolución, Fecha de notificación a la autoridad y Observaciones, las cuales deberán llenarse de la siguiente forma:
+
+I. Número de orden: se anotarán con numeración progresiva y ascendente las solicitudes, atendiendo a la fecha de su recepción, según corresponda, en la oficialía de partes o en el sistema electrónico del propio órgano que deba conocer de la misma; si la recibe un secretario de ese juzgado, esta será la fecha que se asiente, pero si el secretario corresponde a un juzgado diverso, la fecha que se anotará será aquella en que se reciba en el juzgado del conocimiento;
+
+II. Solicitante: se señalará la denominación de la autoridad que solicite la medida o técnica de investigación o, en su caso, el nombre de quien promueve;
+
+III. Tipo de solicitud: se especificará de manera clara y concreta, el tipo de medida o técnica de investigación que corresponda, o si se trata de una solicitud de conclusión;
+
+IV. …
+
+a) Fecha de resolución: se anotará el día, mes y año en que se pronuncie la resolución que recaiga a la solicitud; y
+
+b) Sentido: se asentará la expresión “librada” o “parcialmente librada”, según corresponda, cuando se otorgue la medida o autorización de técnica de investigación, o bien, la palabra “negada”, cuando sea el caso; o de ser procedente “concluida”;
+
+V. Fecha de notificación: se asentará el día, el mes y el año en que se notifique a la autoridad solicitante el proveído que resuelva la petición o, en su caso, la conclusión a quien proceda; y
+
+VI. Observaciones: se deberán anotar los supuestos en que se promueva la apelación en contra de la resolución, así como el resultado obtenido en el mencionado recurso.
+
+…
+
+TABLA 5.
+
+> <small>[N. DE E. VÉASE TABLA 5 EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, PÁGINA 90.]</small>
+
+DÉCIMO. Se reforma el artículo 5 de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 51/2014; 52/2014; 1/2015; 2/2015; 31/2015; 32/2015; 33/2015; 34/2015; 44/2015; 45/2015; 46/2015; 47/2015; 48/2015; 49/2015; 50/2015; 3/2016; 4/2016; 5/2016; 6/2016; 7/2016; 8/2016: 9/2016; 10/2016; 11/2016; 24/2016; 25/2016; 26/2016; 27/2016; 31/2016; 32/2016; 33/2016; y 37/2016 que crean los Centros de Justicia Penal Federal en los Estados de Puebla; Durango; Yucatán; Zacatecas; Guanajuato; Baja California Sur; Querétaro; San Luis Potosí; Coahuila de Zaragoza, con residencia en Torreón; Sinaloa, con residencia en Culiacán; Oaxaca, con residencia en San Bartolo Coyotepec; Chihuahua, con residencia en la ciudad del mismo nombre; Chiapas, con residencia en Cintalapa de Figueroa; Nayarit, con residencia en Tepic; Tlaxcala con residencia en Apizaco; Ciudad de México, con sede en los reclusorios Oriente, Sur y Norte; Estado de México, con residencia en Nezahualcóyotl; Morelos, con residencia en Cuernavaca; Hidalgo, con residencia en Pachuca; Colima, con residencia en la ciudad del mismo nombre; Aguascalientes, con residencia en la ciudad del mismo nombre; Tabasco, con residencia en Villahermosa; Nuevo León, con residencia en Cadereyta; Quintana Roo, con residencia en Cancún; Sonora, con residencia en Hermosillo; Veracruz, con residencia en las ciudades de Xalapa y Coatzacoalcos; Michoacán, con residencia en Morelia; Campeche, con residencia en San Francisco de Campeche; Tamaulipas, con residencia en Reynosa y Ciudad Victoria; Guerrero, con residencia en Acapulco; Baja California, con residencia en las ciudades de Mexicali y Tijuana; y Jalisco, con residencia en el complejo penitenciario Puente Grande; para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.”
+
+DÉCIMO PRIMERO. Se reforman los numerales SEGUNDO, fracción I, número 4; y CUARTO, fracción I, párrafo segundo; y se deroga el párrafo tercero de la fracción I del numeral CUARTO, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. a 3. …
+
+4. Ocho Juzgados Federales Penales Especializados: seis en Cateos, Arraigos e Intervención de Comunicaciones, y dos en Medidas Cautelares y Control de Técnicas de Investigación, todos con residencia en la Ciudad de México.
+
+5. …
+
+II. a XXXII. …
+
+CUARTO. …
+
+I. …
+
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones; los Juzgados de Distrito Especializados en Ejecución de Penas; y los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación; que ejercerán jurisdicción territorial, en toda la República Mexicana.
+
+Derogado.
+
+II. a XXXIII. …”.
 
 ###### Artículo 117.
 
@@ -2139,160 +1959,72 @@ Contra los actos y resoluciones que se dicten en materia de tránsito y transpor
 
 ## TRANSITORIOS
 
-Primero.- La presente Ley entrará en vigor a los quince días de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+PRIMERO. El presente Acuerdo entrará en vigor el treinta de noviembre de dos mil quince, con excepción de lo dispuesto en los párrafos siguientes:
 
-Segundo.- Se abroga la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial el día ocho de agosto del año dos mil tres y se derogan todas las disposiciones que se opongan a la presente Ley.
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
 
-Tercero.- Las autoridades estatales y, en su caso, las municipales expedirán o adecuarán los reglamentos respectivos para el cumplimiento de la Ley, dentro del plazo de noventa días posteriores a la entrada en vigor de la misma.
+El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
 
-Cuarto.- El presupuesto, mobiliario, equipo, archivo y en general todos los recursos humanos, materiales y financieros que tiene asignados el órgano desconcentrado de la Secretaría de Gobierno, denominado Instituto Veracruzano del Transporte, se adscriben e incorporan al patrimonio del organismo público descentralizado, que bajo el mismo nombre se crea mediante la presente ley.
+> <small>(REFORMADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
-Quinto.- En el término de sesenta días, contado a partir del inicio de la vigencia de la presente ley, los concesionarios y permisionarios deberán solicitar su inscripción en el Registro de Transporte Público.
+SEGUNDO. El turno como Administrador corresponderá al Juez de Distrito del Centro que sea designado por el Consejo, cuya duración en el cargo será determinada conforme lo dispuesto por el Acuerdo General 36/2014, del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-Dada en el salón de sesiones de La LX Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los once días del mes de septiembre del año dos mil seis.
+TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Segundo Tribunal Unitario del Vigésimo Circuito, con residencia en Tuxtla Gutiérrez, Chiapas, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
-Ramiro de la Vequia Bernardi, diputado presidente. Rúbrica. Gladys Merlín Castro, diputada secretaria.-Rúbrica.
+El tribunal unitario precisará en los actos procesales que celebre, la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
 
-Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/005403, de los diputados presidente y secretario de la Sexagésima Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta días del mes de octubre del año dos mil seis.
+Este tribunal unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
 
-A t e n t a m e n t e.
+CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información, implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17, último párrafo, y Tercero transitorio del presente Acuerdo.
 
-Sufragio Efectivo. No Reelección.
+QUINTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015 del Pleno del Consejo de la Judicatura Federal, mediante el cual se habilita a los Jueces de Distrito de los Centros de Justicia Penal Federal para que ejerzan funciones de ejecución de sanciones penales.
 
-Licenciado Fidel Herrera Beltrán.
+SEXTO. En tanto se ordena la utilización de los libros de control electrónicos, el Administrador del Centro con el apoyo de su personal deberá realizar los registros de los asuntos que ingresen en libretas auxiliares.
 
-Gobernador del Estado.- Rúbrica.
+SÉPTIMO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 48/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de once de noviembre de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a veinte de noviembre de dos mil quince.- Conste.- Rúbrica.
 
-G.O. 28 DE MARZO DE 2008.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+D.O.F. 22 DE FEBRERO DE 2016.
 
-Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR".]
 
-G.O. 26 DE SEPTIEMBRE DE 2008.
+PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
 
-Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, órgano el Gobierno del Estado.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
-Segundo. Sólo lo relativo a las medidas de seguridad con que deberán contar las calcomanías y las placas metálicas de circulación del Estado de Veracruz de Ignacio de la Llave tendrá vigencia a partir de que la Secretaría de Finanzas y Planeación dé a conocer, mediante publicación en la Gaceta Oficial, órgano del Gobierno del Estado, y medios de comunicación en toda la Entidad, la implementación de las mismas; por tanto, a partir de entonces, todo vehículo que no esté debidamente emplacado será retirado de la circulación de la vía pública.
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
+D.O.F. 17 DE JUNIO DE 2016.
 
-G.O. 22 DE FEBRERO DE 2010.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREAN JUZGADOS DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TÉCNICAS DE INVESTIGACIÓN”.]
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+PRIMERO. El presente Acuerdo entrará en vigor el veintiuno de junio de 2016, con excepción de lo dispuesto en el Transitorio OCTAVO.
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-Tercero. Dentro de los ciento ochenta días naturales siguientes al inicio de la vigencia del presente Decreto, se deberán realizar las adecuaciones correspondientes al Código Financiero para el estado de Veracruz de Ignacio de la Llave, en materia de derechos prestados por la Secretaría de Finanzas y Planeación, por Registro y Control de Vehículos de Servicio Privado.
+TERCERO. Los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación conocerán de las solicitudes que se presenten a partir de la entrada en vigor de este Acuerdo. Sin embargo, tratándose de las relacionadas con el nuevo sistema procesal penal acusatorio, además, tendrán que ser derivadas de asuntos iniciados a partir de la entrada en vigor de dicho sistema, con independencia de que los hechos hayan acontecido con anterioridad.
 
-G.O. 2 DE ABRIL DE 2010.
+CUARTO. Los asuntos regulados en el artículo 8 de este Acuerdo que a la entrada en vigor del mismo estén en trámite, en los Centros de Justicia Penal Federal, deberán concluirse con las disposiciones con las que fueron iniciados.
 
-Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+QUINTO. Las firmas electrónicas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán vigentes.
 
-Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+SEXTO. Se deroga toda disposición que se oponga al presente Acuerdo.
 
-Artículo tercero. Los concesionarios y permisionarios que presten el servicio de transporte público en sus modalidades de urbano, suburbano y foráneo, contarán con un tiempo perentorio de ciento veinte días hábiles para cumplir con lo establecido en el artículo 120 de esta ley, de lo contrario serán retiradas de circulación las unidades vehiculares autorizadas para prestar el servicio, sin perjuicio de la aplicación de cualquier otra sanción administrativa que pudiere proceder.
+SÉPTIMO. Los libros físicos que contengan las columnas que se modifican con motivo de la entrada en vigor de este Acuerdo que tengan en existencia el Consejo de la Judicatura Federal o los órganos jurisdiccionales o, cuya impresión ya haya sido contratada, podrán utilizarse.
 
-G.O. 18 DE OCTUBRE DE 2010.
+OCTAVO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para que los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación inicien funciones con los insumos necesarios, en la fecha señalada en el Transitorio Primero de este Acuerdo.
 
-Artículo primero. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+NOVENO. Se reforma el artículo 102, fracción VI; la denominación de la Sección Sexta del Capítulo Segundo del Título Tercero; el artículo 116, primer párrafo; las fracciones I a III; los incisos a) y b) de la fracción IV; y las fracciones V y VI del mismo precepto; así como la Tabla 5 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, para quedar como sigue:
 
-Artículo segundo. Se señala un término de cuatro meses para el cumplimiento de las disposiciones señaladas en los artículos 46 y 67 fracción IV de la Ley de Tránsito y Transporte para el estado.
+“Artículo 102. …
 
-Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+I. a V. …
 
-G.O. 14 DE ENERO DE 2011.
+VI. Libro seis: medidas precautorias y cautelares, así como técnicas de investigación;
 
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+VII. a XVII. …
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 13 DE ABRIL DE 2011.
-
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
-
-Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-G.O. 31 DE MAYO DE 2011.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
-
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 30 DE DICIEMBRE DE 2011.
-
-Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
-
-Artículo Segundo. Con pleno respeto a los derechos laborales de quienes integran los recursos humanos del Instituto Veracruzano del Transporte, así como sus recursos materiales y financieros, se transfieren a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave. En un plazo no mayor a treinta días naturales, se efectuarán las modificaciones reglamentarias necesarias para la creación del área o unidad administrativa responsable de las funciones en esta materia.
-
-Artículo Tercero. Los recursos humanos, materiales y financieros afectos al servicio público de tránsito, asignados presupuestalmente a la Dirección General de Tránsito y Transporte de la Secretaría de Gobierno, se transfieren a la Secretaría de Seguridad Pública, quedando los destinados a la prestación del servicio público del transporte adscritos a la Dirección General de Transporte que por este Decreto se crea y que formará parte de la estructura orgánica de la Secretaría de Gobierno.
-
-Artículo Cuarto. El personal del Instituto Veracruzano del Transporte y de la Dirección General de Tránsito y Transporte que por razón de este Decreto cambia de adscripción, conservará sus derechos laborales.
-
-Artículo Quinto. La Secretaría de Gobierno, en coordinación con las Secretaría de Seguridad Pública y la Secretaría de Finanzas y Planeación, de forma inmediata realizarán los trámites administrativos conducentes y las acciones necesarias para dar cumplimiento a lo dispuesto en este Decreto.
-
-Artículo Sexto. A la brevedad posible, la Secretaría de Gobierno y la Secretaría de Seguridad Pública propondrán al titular del Poder Ejecutivo del Estado sus respectivos proyectos de modificación a los Reglamentos Interiores que rigen a cada dependencia.
-
-Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 4 DE JULIO DE 2013.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
-
-Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
-
-Tercero. Las personas que actualmente prestan el servicio concesionado de transporte público, en la modalidad de colectivo, continuarán haciéndolo con los mismos derechos y obligaciones con que les fue otorgada la concesión por el Gobierno del Estado.
-
-G.O. 26 DE AGOSTO DE 2013.
-
-Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
-
-Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-Artículo Tercero. Los asuntos que a la entrada en vigor del presente decreto se encontraran en trámite ante alguna de las áreas administrativas de las Secretarías del Despacho que, como consecuencia de este decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
-
-Artículo Cuarto. A la brevedad posible, el Ejecutivo del Estado, en la esfera administrativa, efectuará las adecuaciones reglamentarias necesarias que establece el presente Decreto.
-
-Artículo Quinto. Los recursos humanos, financieros y materiales de las Direcciones Generales de Transporte, de la de Prevención y Reinserción Social y de la Dirección General de Ejecución de Medidas Sancionadoras, se transferirán a la Secretaría (sic) Seguridad Pública, con pleno respeto a los derechos laborales de sus trabajadores.
-
-Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga mención de la Dirección General de Transporte, de la Dirección General de Prevención y Reinserción Social, o de la Dirección General de Ejecución de Medidas Sancionadoras se deberán tener por referidas y adscritas a la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
-
-Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
-
-Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
-
-G.O. 16 DE JULIO DE 2014.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
-
-SEGUNDO. Las multas previstas en los artículos 139, fracción IV, y 142 de la Ley Estatal de Protección Ambiental podrán aplicarse, al actualizarse alguna de las infracciones previstas en dichos preceptos, a partir del primero de enero de dos mil quince.
-
-TERCERO. La Secretaría y las autoridades competentes del Gobierno del Estado de Veracruz de Ignacio de la Llave realizarán las adecuaciones correspondientes en los Programas y Reglamentos derivados del presente Decreto.
-
-CUARTO. Se derogan todas las disposiciones legales y administrativas que contravengan el presente Decreto.
-
-QUINTO. La Secretaría, a efecto de dar cumplimiento a lo establecido por el artículo 146 Bis de la Ley Estatal de Protección Ambiental, convocará a los concursos públicos para el otorgamiento de las concesiones dentro de un plazo que no excederá de cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, con el objeto de que los concesionarios comiencen a prestar el servicio público de verificación vehicular a la brevedad.
-
-SEXTO. La Secretaría deberá poner en funcionamiento el registro que agrupe a los verificentros concesionados a que se refiere la fracción VIII del Artículo 143 de la Ley Estatal de Protección Ambiental, dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
-
-G.O. 27 DE AGOSTO DE 2014.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
-
-Segundo. La Secretaría de Seguridad Pública contará con un plazo de seis meses, a partir de la entrada en vigor del presente Decreto, para integrar el padrón de choferes de transporte público del Estado de Veracruz.
-
-Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-G.O. 13 DE ABRIL DE 2015.
-
-PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz.
-
-SEGUNDO. Se deroga la Ley número 589 de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado de Veracruz el día lunes 6 de noviembre de 2006, excepto su Título Tercero y demás disposiciones relativas a la materia de transporte público, en tanto se emite la ley correspondiente.
-
-TERCERO. El Ejecutivo del Estado y en su caso, los ayuntamientos, expedirán o adecuarán los reglamentos respectivos par a (sic) el cumplimiento de la Ley, en un plazo no mayor a seis meses de la entrada en vigor de la misma.
-
-CUARTO. Los recursos humanos, materiales y financieros de la Dirección General de Tránsito del Estado, se transfieren a partir de la puesta en vigor de la presente Ley, a la Dirección General de Tránsito y Seguridad Vial, con pleno respeto a los derechos de sus trabajadores.
-
-QUINTO. En un plazo no mayor de noventa días naturales, contado a partir del inicio de vigencia de esta Ley, el Congreso del Estado adecuará las disposiciones del Código de Derechos para el Estado de Veracruz de Ignacio de la Llave a lo señalado en este ordenamiento.
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
