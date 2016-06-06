@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2015-04-13"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO 
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 13 DE ABRIL DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, EXCEPTO SU TÍTULO TERCERO Y DEMÁS DISPOSICIONES RELATIVAS A LA MATERIA DE TRANSPORTE PÚBLICO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -1533,9 +1533,9 @@ Los vehículos que se utilicen para prestar el servicio de transporte público r
 
 Los vehículos mencionados en el párrafo anterior deberán ser, por lo menos, del modelo correspondiente al año del otorgamiento de la concesión, en lo subsecuente estarán en circulación mientras el concesionario compruebe que la unidad está en condiciones de prestar el servicio con seguridad y comodidad para los usuarios y aprueben la verificación vehicular correspondiente.
 
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 6 DE JUNIO DE 2016)</small>
 
-A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y rural mixto no se les permitirá una antigüedad superior a los quince años. En el caso de las unidades de taxi, será de cinco años su antigüedad máxima.
+A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y rural mixto no se les permitirá una antigüedad superior a los quince años. En el caso de las unidades de taxi, será de ocho años su antigüedad máxima.
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -2296,3 +2296,11 @@ TERCERO. El Ejecutivo del Estado y en su caso, los ayuntamientos, expedirán o a
 CUARTO. Los recursos humanos, materiales y financieros de la Dirección General de Tránsito del Estado, se transfieren a partir de la puesta en vigor de la presente Ley, a la Dirección General de Tránsito y Seguridad Vial, con pleno respeto a los derechos de sus trabajadores.
 
 QUINTO. En un plazo no mayor de noventa días naturales, contado a partir del inicio de vigencia de esta Ley, el Congreso del Estado adecuará las disposiciones del Código de Derechos para el Estado de Veracruz de Ignacio de la Llave a lo señalado en este ordenamiento.
+
+G.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 870 QUE REFORMA EL ARTÍCULO 120 TERCER PÁRRAFO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
