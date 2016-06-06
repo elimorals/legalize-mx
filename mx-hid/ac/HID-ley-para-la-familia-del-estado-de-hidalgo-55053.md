@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2015-08-17"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -303,7 +303,7 @@ El matrimonio será público y gratuito cuando se celebre en las oficinas del Re
 
 Cuando los pretendientes no puedan concurrir personalmente al acto, los representará un mandatario especial con poder otorgado en escritura pública o en documento privado, firmado por el otorgante y dos testigos, ratificando las firmas ante notario público. Tratándose de extranjeros, el poder debe ser legalizado como lo prescriban las Leyes o tratados respectivos.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 37.
 
@@ -1239,7 +1239,7 @@ La filiación de los hijos se prueba con su acta de nacimiento o reconocimiento.
 
 A falta de actas o por ilegalidad de éstas, la filiación se establece por la posesión de estado de hijo, declarada judicialmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 188.
 
@@ -1319,7 +1319,7 @@ Cuando el padre y la madre no vivan juntos y reconozcan al hijo en el mismo acto
 
 El hijo reconocido por el padre, la madre o por ambos, tiene todos los derechos a su calidad de hijo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO IV. DE LOS ADULTOS MAYORES
 
@@ -1337,7 +1337,7 @@ Se concede acción popular para denunciar los malos tratos a los adultos mayores
 
 Los responsables de las instituciones de asistencia social pública o a través de los Directores o encargados de los centros asistenciales, en donde se reciban a adultos mayores, desempeñarán la Tutela de éstos, cuando así sea necesario y no tengan quien los represente, con arreglo a las leyes. En este caso no es necesario el discernimiento del cargo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO V. DE LA ADOPCION
 
@@ -1655,6 +1655,10 @@ VII.- Cuando el que la ejerza sea condenado en sentencia ejecutoriada por delito
 
 VIII.- Por inducir a quienes están bajo su cuidado al consumo de alcohol, al uso no terapéutico de sustancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos o al hábito de juego.
 
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2016)</small>
+
+IX.- Por cometer conductas de violencia familiar descritas en el artículo 243 Bis, del Código Penal para el Estado de Hidalgo.
+
 ###### Artículo 243.
 
 La patria potestad se suspende:
@@ -1725,7 +1729,7 @@ II.- Cuando por su mal estado de salud, no puedan atender debidamente a su desem
 
 La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa justificada, cuyo objeto es la guarda de la persona y administración de sus bienes de los que no estando sujetos a la patria potestad, tienen incapacidad natural y legal, o solamente la segunda, para ejercitar sus derechos y cumplir sus obligaciones por sí mismos. La tutela, puede también tener por objeto la representación interina del incapaz en los casos que señale la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 249.
 
@@ -1755,7 +1759,7 @@ Pueden ser tutores del incapaz, sus parientes y las personas no unidas a él, po
 
 Si durante el ejercicio de la tutela, se imposibilita al tutor, el Juez Familiar, designará un tutor interino. Desaparecida la imposibilidad, el tutor volverá a ejercer la tutela.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 253.
 
@@ -1849,7 +1853,7 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 ### CAPITULO V. DE LA TUTELA DE LOS MENORES EXPOSITOS O ABANDONADOS, ACOGIDOS O DEPOSITADOS EN INSTITUCIONES DE ASISTENCIA SOCIAL PUBLICA O PRIVADA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 264.
 
@@ -2953,7 +2957,9 @@ IV.- La causa que determinó la muerte y específicamente el lugar en que se sep
 
 V.- Los nombres y nacionalidad de los padres del difunto, si se supieren;
 
-VI.- La fecha y hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta; y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2016)</small>
+
+VI.- La fecha y hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta, debiendo asentar los datos de la investigación sobre los hechos que puedan constituir algún delito, con la que se encuentre relacionada, incluyendo la violencia familiar; y
 
 VII.- Nombre, apellidos, nacionalidad, número de cédula profesional y domicilio del médico que certifique la defunción.
 
@@ -3145,7 +3151,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE NOVIEMBRE DE 2007.
 
@@ -3164,3 +3170,9 @@ Artículo Cuarto.- El contenido del Título Décimo Tercero de la Ley para la Fa
 P.O. 17 DE AGOSTO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 660 QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 450, Y ADICIONA LA FRACCIÓN IX AL ARTÍCULO 242, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
