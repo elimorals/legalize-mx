@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-y-cultura-indigena-para-el-estado-de-hidalgo-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2014-03-24"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE DERECHOS Y CULTURA INDIGENA PARA EL ESTADO DE HIDALGO
 
-LEY DE DERECHOS Y CULTURA INDIGENA PARA EL ESTADO DE HIDALGO
+LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -2603,7 +2603,9 @@ Los pueblos indígenas tienen el derecho de manifestar, practicar y enseñar sus
 
 El Estado, a través de las dependencias o instituciones competentes, protegerá y promoverá el respeto y la integridad de los valores, creencias, costumbres, prácticas culturales y religiosas de los pueblos y comunidades indígenas. Asimismo, apoyará sus propuestas para fortalecer las formas mediante las cuales recreen, preserven y transmitan sus valores culturales y conocimientos específicos.
 
-Las lenguas indígenas serán válidas, al igual que el español, para cualquier asunto o trámite de carácter público y privado, así como para acceder plenamente a la gestión, servicios e información pública en el Estado de Hidalgo
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+
+Los Pueblos y Comunidades Indígenas tienen derecho a que sus lenguas originarias sean preservadas, las cuales son consideradas nacionales y serán válidas al igual que el español, para cualquier asunto o trámite de carácter público y privado, así como para acceder plenamente a la gestión, servicios e información pública en el Estado de Hidalgo, por lo que las autoridades públicas correspondientes respetarán y promoverán sus usos, garantizando en todo momento los derechos humanos a la no discriminación y acceso a la justicia de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia, de los que el Estado Mexicano sea parte.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
@@ -2986,3 +2988,9 @@ TERCERO.- De conformidad al artículo 2 de la Constitución Política de los Est
 CUARTO.- Los Ayuntamientos del Estado de Hidalgo, en uso de las facultades que les confiere el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberán emitir las disposiciones reglamentarias que sean exclusivas de su competencia.
 
 QUINTO.- El titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que el presente Decreto, se traduzca a las lenguas indígenas nacionales que se hablan en los diferentes pueblos y comunidades indígenas existentes en el Territorio Estatal, así como, la difusión entre las diferentes Dependencias Educativas y de Gobierno en sus respectivos órdenes.
+
+P.O. 6 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 661.- QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 38 DE LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
