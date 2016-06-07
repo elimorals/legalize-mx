@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2015-12-30"
+last_updated: "2016-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2016.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -1341,23 +1341,25 @@ pericial: 14 salarios mínimos
 
 Canje trianual: 6 salarios mínimos
 
-III. Expedición de licencia de
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2016)</small>
+
+III. Expedición de licencia permanente de
 
 automovilista, tipo C para conducir
 
-únicamente automóviles de servicio
+automóviles y motocicletas de servicio
 
 particular, de acuerdo con el
 
 Reglamento de la Ley de Tránsito
 
-y Transporte, previo examen
+y Seguridad Vial, previo examen
 
 médico y pericial: 12 salarios mínimos
 
-Canje trianual: 5 salarios mínimos
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2016)</small>
 
-IV. Expedición de licencia de
+IV. Expedición de licencia permanente de
 
 motociclista, tipo D para conducir
 
@@ -1365,13 +1367,11 @@ vehículos de dos o más
 
 ruedas, de acuerdo con el
 
-reglamento de la Ley de Tránsito
+Reglamento de la Ley de Tránsito
 
-y Transporte, previo examen
+y Seguridad Vial, previo examen
 
-médico y pericial: 8 salarios mínimos
-
-Canje trianual: 4 salarios mínimos
+médico y pericial: 10 salarios mínimos
 
 V. Expedición de licencia de
 
@@ -6906,3 +6906,15 @@ G.O. 30 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 7 DE JUNIO DE 2016.
+
+.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 872 QUE REFORMA EL ARTÍCULO 15 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Los ciudadanos que cuenten con licencia vigente al momento de la expedición de este Decreto, podrán solicitar, previo pago de los derechos correspondientes, la renovación de la misma en cualquier momento no siendo necesario que ésta expire para realizar dicho trámite.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
