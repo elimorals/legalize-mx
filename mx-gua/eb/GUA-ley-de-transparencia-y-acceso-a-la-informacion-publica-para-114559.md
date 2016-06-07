@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-13"
-last_updated: "2016-05-13"
+last_updated: "2016-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE JUNIO DE 2016.]</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de mayo de 2016.
 
@@ -1327,7 +1327,9 @@ Información reservada
 
 Como información reservada podrá clasificarse aquella cuya publicación:
 
-I. Comprometa la seguridad nacional y cuente con un propósito genuino y un efecto demostrable;
+> <small>(F. DE E., P.O. 7 DE JUNIO DE 2016)</small>
+
+I. Comprometa la seguridad pública y cuente con un propósito genuino y un efecto demostrable;
 
 II. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
 
