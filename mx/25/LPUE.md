@@ -4,7 +4,7 @@ identifier: "LPUE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-19"
-last_updated: "2014-01-23"
+last_updated: "2016-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPUE"
 
 LEY DE PUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 19 de julio de 1993.
 
@@ -329,6 +329,20 @@ Todas las concesiones a que se refiere esta ley, así como los permisos establec
 La Secretaría podrá otorgar las concesiones hasta por un plazo de 50 años, tomando en cuenta las características de los proyectos y los montos de inversión. Las concesiones podrán ser prorrogadas hasta por un plazo igual al señalado originalmente. Para tales efectos, el concesionario deberá presentar la solicitud correspondiente durante la última quinta parte del periodo original de vigencia y a más tardar un año antes de su conclusión. La Secretaría fijará los requisitos que deberán cumplirse.
 
 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 120 días naturales contados a partir de la fecha de presentación de la misma.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2016)</small>
+
+ARTICULO 23 BIS.- Para el otorgamiento de los títulos de concesión o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Hacienda y Crédito Público, en términos del Reglamento de esta Ley, lo siguiente:
+
+I. La opinión favorable sobre la rentabilidad económica del proyecto respectivo.
+
+Se entenderá por rentabilidad económica, el resultado de comparar los ingresos monetarios susceptibles de ser generados por el uso, aprovechamiento o explotación de los bienes de dominio público y servicios públicos concesionados, con respecto a los costos que se generarían por la realización del proyecto que se pretende concesionar, durante el horizonte temporal de evaluación.
+
+Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público la evaluación que llevó a cabo sobre la rentabilidad económica del proyecto, así como la documentación que utilizó para realizar dicha evaluación, a fin de que esta última dependencia en un plazo no mayor a treinta días naturales, contado a partir de la fecha en que recibió la evaluación y documentación a que se refiere este párrafo, emita su opinión al respecto. En caso de que la Secretaría de Hacienda y Crédito Público no emita esta opinión en el plazo establecido, se entenderá emitida en sentido afirmativo;
+
+II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y
+
+III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
 
 ###### ARTICULO 24.
 
@@ -881,3 +895,13 @@ D.O.F. 23 DE ENERO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las erogaciones que deban realizarse a fin de dar cumplimiento a las disposiciones del presente Decreto, se llevarán a cabo con base en la disponibilidad presupuestaria de la Secretaría de Comunicaciones y Transportes.
+
+D.O.F. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, DE PUERTOS, DE AEROPUERTOS, Y REGLAMENTARIA DEL SERVICIO FERROVIARIO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
+
+Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
