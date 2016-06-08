@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-05-31"
+last_updated: "2016-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -47,7 +47,9 @@ ACUERDO
 
 PRIMERO. El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
 
-I. PRIMER CIRCUITO: Distrito Federal.
+> <small>(REFORMADA POR TRANSITORIO CUARTO DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE JUNIO DE 2016)</small>
+
+I. PRIMER CIRCUITO: Ciudad de México.
 
 II. SEGUNDO CIRCUITO: Estado de México.
 
@@ -117,11 +119,9 @@ SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprender�
 
 I. PRIMER CIRCUITO:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+REFORMADO POR TRANSITORIO CUARTO DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE JUNIO DE 2016)
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL ACUERDO GENERAL 18/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE MAYO DE 2015)</small>
-
-1. Sesenta tribunales colegiados especializados: nueve en materia penal, veinte en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en el Distrito Federal.
+1. Sesenta y un tribunales colegiados especializados: diez en materia penal, veinte en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en la Ciudad de México.
 
 2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
@@ -2780,3 +2780,29 @@ XXII ...
 3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y siete de Amparo y Juicios Federales.
 
 XXIII. a XXXII. ...".
+
+D.O.F. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 30/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, COMPETENCIA Y FECHA DE INICIO DE FUNCIONES DEL DÉCIMO TRIBUNAL COLEGIADO EN MATERIA PENAL DEL PRIMER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de junio de dos mil dieciséis, con excepción de lo dispuesto en el artículo transitorio TERCERO, que entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+CUARTO. Se reforman los artículos PRIMERO, fracción I y SEGUNDO, fracción I, numeral 1 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"PRIMERO. El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
+
+I. PRIMER CIRCUITO: Ciudad de México.
+
+...
+
+SEGUNDO. ...
+
+I. PRIMER CIRCUITO:
+
+1. Sesenta y un tribunales colegiados especializados: diez en materia penal… todos con residencia en la Ciudad de México.
+
+...".
