@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-de-honor-y-justicia-de-los-69185"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-20"
-last_updated: "2016-02-27"
+last_updated: "2016-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de febrero de 2009.
 
@@ -63,25 +63,35 @@ Para los efectos del presente Reglamento se entenderá por:
 
 I. Comisión: La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Vialidad del Municipio de Monterrey,
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-II. Contraloría: La Contraloría Municipal de Monterrey;
+II. Contraloría Municipal: La Contraloría Municipal de Monterrey;
 
-III. Delegado: Funcionario Público designado por la Comisión de Honor y Justicia con las atribuciones establecidas en el presente Reglamento;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+III. Delegado: Delegado de la Comisión;
 
-IV. Elementos: Servidores Públicos del Municipio de Monterrey, pertenecientes a la Secretaría de Seguridad Pública y Vialidad que desempeñan labores operativas;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-V. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León; y,
+IV. Elementos: Servidores Públicos del Municipio de Monterrey, pertenecientes a la Secretaría de Seguridad Pública y Vialidad;
 
-VI. Ley de Seguridad: Ley de Seguridad Pública para el Estado de Nuevo León.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+V. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+VI. Ley de Seguridad: Ley de Seguridad Pública para el Estado de Nuevo León;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+VII. Secretaría: Secretaría de Seguridad Pública y Vialidad del Municipio de Monterrey.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 4.
 
-Para lo no previsto en este Reglamento, así como para lo no previsto en la substanciación del procedimiento de responsabilidad administrativa que señala el presente reglamento, se sujetará de manera supletoria a las disposiciones de la Ley de Seguridad, a falta de dicha ley, serán aplicables las disposiciones de la Ley de Responsabilidades, y a falta de esta, el Código de Procedimientos Civiles del Estado de Nuevo León.
+Para lo no previsto en este Reglamento, así como para lo no previsto en la substanciación del procedimiento de responsabilidad administrativa que señala el presente reglamento, se aplicarán de manera supletoria a las disposiciones de la Ley de Seguridad, en defecto de esta última serán aplicables las disposiciones de la Ley de Responsabilidades y en defecto de ésta, las del Código de Procedimientos Civiles del Estado de Nuevo León.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -93,7 +103,9 @@ Para lo no previsto en este Reglamento, así como para lo no previsto en la subs
 
 La Comisión estará integrada por:
 
-I. Presidente.- Será el Director de Normatividad de la Contraloría.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+I. Presidente. Será el Director de Régimen Interno de la Contraloría Municipal.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
 
@@ -109,49 +121,51 @@ IV. Vocal: Será el Coordinador de la Comisión de Seguridad Pública, Prevenci�
 
 V. Vocal: Será el Coordinador de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-VI. Vocal: Será el titular de la Dirección de Reclusorios y Prevención Social del Delito de la Secretaría de Seguridad Pública y Vialidad;
+VI. Vocal: Será el titular de la Dirección de Prevención Social del Delito de la Secretaría;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-VII. Vocal: Será el titular de la Dirección de Policía de la Secretaría de Seguridad Pública y Vialidad;
+VII. Vocal: Será el titular de la Dirección de Policía de la Secretaría;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-VIII. Vocal: Será el titular de la Dirección Administrativa de la Secretaría de Seguridad Pública y Vialidad;
+VIII. Vocal: Será el titular de la Dirección de Tránsito de la Secretaría;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-IX. Vocal: Será el Titular de la Dirección de Tránsito de la Secretaría de Seguridad Pública y Vialidad; y
+IX. Vocal: Será el Titular de la Dirección Administrativa de la Secretaría; y
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-X. Consejo Ciudadano: Que será integrado por 3-tres vocales ciudadanos elegidos por el Ayuntamiento.
+X. Comisionados Ciudadanos: Será integrado por tres Comisionados Ciudadanos elegidos por el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
-Los integrantes de las fracciones de la I a la V tendrán derecho a voz y a voto en las sesiones de la Comisión, a excepción de los señalados en las fracciones VI a X, los cuales sólo tendrán derecho a voz.
+Los integrantes de las fracciones de la I a la V tendrán derecho a voz y a voto en las sesiones de la Comisión; los señalados en las fracciones VI a X sólo tendrán derecho a voz.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
-Los integrantes de la Comisión de Honor y Justicia señalados de la fracción I a la V, podrán designar a un suplente, el cual podrá ser empleado de la Administración Pública o integrante del Ayuntamiento.
+Los integrantes de la Comisión señalados de la fracción I a la V, podrán designar a un suplente, el cual podrá ser empleado de la Administración Pública o integrante del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 Los integrantes de la Comisión señalados en las fracciones VI, VII, VIII y IX podrán designar a un suplente, el cual solo podrá ser personal adscrito de la misma área.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
-En caso de ausencia del titular, el integrante suplente podrá acudir a la sesión respectiva, con derecho a voz y voto, excepto los titulares de las fracciones VI, VII, VIII y IX, quienes sólo tendrán derecho a voz.
+En caso de ausencia del titular, el suplente podrá acudir a la sesión respectiva, con las atribuciones y responsabilidades que otorga a su titular el presente Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 6.
 
-A fin de verificar el buen desempeño y transparencia en los procedimientos de la Comisión, será creado un Consejo Ciudadano, el cual tendrá derecho a voz dentro de las sesiones de la Comisión y será elegido por el Ayuntamiento de entre una lista que se integrará, previa convocatoria pública, en la que se fijen las reglas correspondientes, misma que será expedida por el Ayuntamiento a propuesta de la Comisión de Participación Ciudadana.
+A fin de verificar el buen desempeño y transparencia en los procedimientos de la Comisión, los Comisionados Ciudadanos tendrán derecho a voz dentro de las sesiones de la Comisión. Serán elegidos por el Ayuntamiento dentro de una lista que se integrará, previa convocatoria pública, en la que se fijen las reglas correspondientes, misma que será expedida por el Ayuntamiento a propuesta de la Comisión de Participación Ciudadana.
 
-Para ser integrante Ciudadano se deberán acreditar los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2016)</small>
+
+Para ser Comisionado Ciudadano de la Comisión se deberán acreditar los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -159,7 +173,9 @@ I. Tener una residencia mínima de un año en el Municipio de Monterrey;
 
 II. Tener como mínimo veinticinco años cumplidos al día de su nominación;
 
-III. No haber desempeñado en el período de tres años anteriores a su designación, ningún cargo público en la Federación, las Entidades Federativas, Municipios u Organismos Descentralizados, excepto aquellas relacionadas con la docencia;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+III. No haber sido destituido o inhabilitado de cualquier cargo público;
 
 IV. No haber sido condenado por delitos de carácter intencional o que hayan sido sancionados con la privación de la libertad;
 
@@ -167,11 +183,15 @@ V. No haber sido dirigente de ningún Partido Político a nivel Nacional, Estata
 
 VI. No ser ministro o dirigente de algún culto o asociación religiosa.
 
-El cargo durará dos años, y podrán ser removidos por las mismas causas que este Reglamento prevé para los integrantes de la Comisión.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
+
+Los Comisionados Ciudadanos durarán en su cargo tres años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 7.
 
-Los integrantes de la Comisión, son inamovibles a excepción de que alguno de éstos incurra en alguna de las siguientes causas:
+Los Comisionados Ciudadanos son inamovibles a excepción de que alguno de éstos incurra en alguna de las siguientes causas:
 
 I.- Por incumplimiento de las obligaciones establecidas en este Reglamento;
 
@@ -183,11 +203,11 @@ III.- Por no asistir en forma consecutiva a más de tres sesiones de la Comisió
 
 IV.- Por causas que se estimen graves a juicio del Ayuntamiento de Monterrey.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 8.
 
-Los cargos antes conferidos, serán solamente por el período de la administración en la que desempeñan sus funciones, a excepción de lo establecido en el artículo 5 fracción IX de este Reglamento.
+El procedimiento de remoción a que se refiere el artículo anterior, iniciará con la denuncia por escrito que el Presidente de la Comisión realice al Ayuntamiento, acompañando la evidencia con la que cuente. El Ayuntamiento, antes de resolver sobre la remoción o no del Comisionado Ciudadano, lo citará para escuchar sus argumentos de defensa ante el propio órgano colegiado o ante alguna de sus comisiones
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -199,21 +219,21 @@ Los cargos antes conferidos, serán solamente por el período de la administraci
 
 Son atribuciones de la Comisión:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-I. Conocimiento, trámite y resolución de las quejas y denuncias que se interpongan en relación con la actuación de los Elementos pertenecientes a la Secretaría de Seguridad Pública y Vialidad;
+I. Recibir, investigar, tramitar y resolver las quejas y denuncias que se interpongan en relación con la actuación de los Elementos;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-II. Iniciar de oficio o a instancia de parte el procedimiento administrativo:
+II. Iniciar de oficio o a instancia de parte el Procedimiento de Responsabilidad Administrativa;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-III. Desahogar el procedimiento de responsabilidad administrativa en términos del presente Reglamento;
+III. Desahogar el Procedimiento de Responsabilidad Administrativa en términos del presente Reglamento;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-IV. Remitir a la Contraloría Municipal y a la Contraloría Interna del Gobierno del Estado de Nuevo León, copia de las resoluciones mediante las cuales se impongan sanciones a los pertenecientes a la Secretaría de Seguridad Pública y Vialidad, para efecto de inscribirlas en el Registro de Servidores Públicos Sancionados e Inhabilitados o para efectos laborales en los términos de la Ley del Servicio Civil del Estado de Nuevo León, dejando constancia de ello en el expediente respectivo;
+IV. Remitir a la Contraloría Municipal y a la Contrataría Interna del Gobierno del Estado de Nuevo León, copia de las resoluciones mediante las cuales se impongan sanciones a los Elementos, para efecto de inscribirlas en el Registro de Servidores Públicos Sancionados e Inhabilitados o para efectos laborales en los términos de la Ley del Servicio Civil del Estado de Nuevo León, así mismo se remitirá copia de las resoluciones en las que se impongan sanciones a la Secretaría de Seguridad Pública del Estado, a efecto de inscribirlas en el Registro del Sistema Estatal de Información para la Seguridad Pública, dejando constancia de todo lo anterior en el expediente respectivo;
 
 V.- Tener acceso a los expedientes personales de los elementos denunciados o implicados en alguna queja o denuncia, así como a la documentación necesaria para el mejor desempeño de sus funciones.
 
@@ -229,9 +249,11 @@ VII. Rendir un informe al Presidente Municipal sobre sus actividades, así como 
 
 VIII. Las demás atribuciones que sean conferidas en la Ley de Responsabilidades y en la Ley de Seguridad.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 10.
 
-La Comisión en pleno designará un delegado de entre una terna de aspirantes que le presente la Contraloría, siendo facultad de dicha Comisión su nombramiento, remoción o ratificación en el cargo.
+La Comisión en pleno designará un Delegado, entre una terna de aspirantes que le presente el Contralor Municipal, siendo facultad de dicha Comisión su nombramiento, remoción o ratificación en el cargo.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -243,39 +265,49 @@ Para ser Delegado de la Comisión, se deberán acreditar los siguientes requisit
 
 I. Tener residencia mínima de un año en el Municipio de Monterrey;
 
-II. Tener como mínimo 25-veinticinco años cumplidos al día de su designación;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-III. Ser Licenciado en Derecho con título legalmente expedido por la autoridad correspondiente y como mínimo de 3-tres años en el ejercicio de la profesión;
+II. Tener como mínimo veinticinco años cumplidos al día de su designación;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+III. Ser licenciado en Derecho con título legalmente expedido por la autoridad correspondiente y como mínimo de cinco años en el ejercicio de la profesión;
 
 IV. No haber sido condenados (sic) por delitos de carácter intencional o que haya sido sancionado con la privación de la libertad; y,
 
 V. No ser ministro o dirigente de algún culto o asociación religiosa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-El Delegado de la Comisión representará a la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Vialidad del Municipio de Monterrey, Nuevo León y tendrá además de las atribuciones que señala el artículo 9 del presente Reglamento; las siguientes:
+El Delegado de la Comisión representará a la Comisión y tendrá además de las atribuciones que señala el artículo 9 del presente Reglamento, las siguientes:
 
-I. Iniciar de oficio o a instancia de parte el Procedimiento Administrativo;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+I. Iniciar de oficio o a instancia de parte el Procedimiento de Responsabilidad Administrativa;
 
-II. Recibir las quejas o denuncias que se interpongan en relación con la actuación de los Elementos de la Secretaría de Seguridad Pública y Vialidad;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+II. Recibir las quejas o denuncias que se interpongan en relación con la actuación de los Elementos y realizar la investigación que corresponda;
 
 III. Resolver la admisión o desechamiento de las quejas o denuncias;
 
-IV. Desahogar el procedimiento de responsabilidad administrativa en términos del presente Reglamento;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+IV. Desahogar el Procedimiento de Responsabilidad Administrativa en términos del presente Reglamento;
 
-V. Realizar los proyectos de resolución derivados de las quejas y denuncias que se interpongan en relación con la actuación de los Elementos pertenecientes a la Secretaría de Seguridad Pública y Vialidad;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-VI. Someter ante la Comisión de Honor y Justicia, para su aprobación, modificación o rechazo, el proyecto de resolución referido en la fracción que antecede;
+V. Realizar los proyectos de resolución derivados de las quejas y denuncias que se interpongan en relación con la actuación de los Elementos;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
 
-VII. Tener a su cargo módulos que operen como oficialía de partes para la recepción de quejas y denuncias, los cuales se situarán en la Secretaría de la Contraloría Municipal y en la Secretaría de Seguridad Pública y Vialidad; y,
+VI. Someter ante la Comisión, para su aprobación, modificación o rechazo, el proyecto de resolución referido en la fracción que antecede;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+VII. Tener a su cargo los módulos de la Comisión que operen para la recepción de quejas y denuncias, los cuales se situarán en la Secretaría, y
 
 VIII. Las demás que sean conferidas por la Comisión, las cuales deberán estar publicadas en el Periódico Oficial del Estado
 
@@ -285,21 +317,21 @@ VIII. Las demás que sean conferidas por la Comisión, las cuales deberán estar
 
 Las sesiones de la Comisión tendrán el carácter de privadas y se realizarán de manera ordinaria mensualmente, de acuerdo a un calendario que será aprobado en su primera sesión ordinaria del año. Serán extraordinarias las sesiones a que convoque el Presidente de la Comisión con ese carácter.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
-La convocatoria, así como el orden del día, deberán ser notificados con una antelación mínima de 2-dos días hábiles antes de su realización en el caso de que la sesión tenga el carácter de ordinaria, mientras que se requerirá notificación de por lo menos 1-un día hábil para las extraordinarias, señalándose en todo caso lugar, fecha y hora para su realización, así como el correspondiente orden del día.
+La convocatoria, así como el orden del día, deberán ser notificados por escrito o de manera electrónica, con una antelación mínima de dos días hábiles antes de su realización en el caso de que la sesión tenga el carácter de ordinaria, mientras que se requerirá notificación de por lo menos un día hábil para las extraordinarias, señalándose en todo caso lugar, fecha y hora para su realización, así como el correspondiente orden del día.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
-La Comisión sesionará válidamente con la mitad más uno de sus integrantes, con derecho a voto, siempre y cuando entre ellos se encuentre su Presidente, en primera convocatoria, o con la asistencia de la mayoría de los presentes en segunda convocatoria, para la cual bastará que sean convocados con acuse de recibo de forma indubitable. Sus acuerdos o resoluciones se adoptarán por mayoría simple de los integrantes de la Comisión presentes.
+La Comisión sesionará válidamente con la mitad más uno de sus integrantes que tienen derecho a voto, siempre y cuando entre ellos se encuentre su Presidente, en primera convocatoria, o con la asistencia de la mayoría de los integrantes en segunda convocatoria siempre que entre ellos se encuentre su Presidente, para la cual bastará que sean convocados con acuse de recibo de forma indubitable. Sus acuerdos o resoluciones se adoptarán por mayoría simple de los integrantes de la Comisión presentes.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 En caso de empate, el Presidente ejercerá el voto de calidad.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
-De cada sesión, el Secretario formulará el acta que deberá foliarse con un número único e irrepetible, el cual incluirá el año al que corresponde y contendrá los pormenores de los acuerdos tomados, indicándose el sentido de cada votación y la firma de los asistentes con derecho a voz y voto, así como del Delegado.
+De cada sesión, el Secretario formulará el acta que deberá foliarse con un número único e irrepetible, el cual incluirá el año al que corresponde y contendrá los pormenores de los acuerdos tomados, indicándose el sentido de cada votación y la firma de los asistentes con derecho a voz y voto, así como la firma del Delegado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -307,29 +339,29 @@ De cada sesión, el Secretario formulará el acta que deberá foliarse con un n�
 
 DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA Y VIALIDAD DEL MUNICIPIO DE MONTERREY
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
-Las quejas o denuncias deberán presentarse por escrito o por comparecencia en las instalaciones o módulos de la Comisión, ubicados en la Secretaría de Seguridad Pública y Vialidad, o en su defecto deberán presentarse en las oficinas de la Contraloría, debiendo turnarse inmediatamente por escrito, adjuntando los documentos recibidos en un término que no exceda de 24-veinticuatro horas al Delegado de la Comisión.
+Las quejas o denuncias deberán presentarse por escrito o por comparecencia, en los módulos de la Comisión ubicados en la Secretaría. También podrán presentarse en las oficinas de la Contraloría Municipal, las cuales serán turnadas a los módulos de la Comisión en un término que no exceda de dos días hábiles.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 15.
 
-La Comisión de Honor y Justicia, impondrá las sanciones administrativas a través del siguiente procedimiento, el cual será desahogado por el Delegado:
+La Comisión impondrá las sanciones administrativas a través del siguiente procedimiento, el cual será desahogado por el Delegado:
 
-I. Las quejas o denuncias deberán presentarse bajo protesta de decir verdad por comparecencia o por escrito. La persona que presente por escrito la queja o denuncia deberá ser citada para que la ratifique, bajo el apercibimiento de que, de no hacerlo así y de no presentar en un término de 5-cinco días hábiles de prueba que hagan presumir la existencia de los hechos referidos en su promoción, se desechará la queja o denuncia correspondiente, quedando a salvo los derechos de iniciar el procedimiento de oficio;
+I. Las quejas o denuncias deberán presentarse bajo protesta de decir verdad por comparecencia o por escrito. La persona que presente por escrito la queja o denuncia deberá ratificarla en su presentación o ser citada para que la ratifique, bajo el apercibimiento de que, de no hacerlo así y de no presentar en un término de cinco días hábiles las pruebas que hagan presumir la existencia de los hechos referidos en su promoción, se desechará la queja o denuncia correspondiente, quedando a salvo los derechos de iniciar el procedimiento de oficio;
 
-II. En caso de que el quejoso o denunciante cumpla con lo previsto en este artículo o que la Comisión o el Delegado lo determinen, se procederá a iniciar el procedimiento de responsabilidades, se notificará el acuerdo de inicio del procedimiento al servidor público, haciéndole saber la infracción o infracciones que se le imputan, corriéndosele traslado de las pruebas ofrecidas, así como los documentos o anexos respectivos;
+II. En caso de que el quejoso o denunciante cumpla con lo previsto en este artículo o que la Comisión o el Delegado lo determinen, se procederá a iniciar el Procedimiento de Responsabilidad Administrativa, se notificará el acuerdo de inicio del procedimiento al Elemento imputado, haciéndole saber la infracción o infracciones que se le imputan, corriéndosele traslado de las pruebas ofrecidas, así como los documentos o anexos respectivos;
 
-III. En el mismo acuerdo de inicio se señalará el lugar, día y hora para la verificación de una audiencia que deberá realizarse dentro de un plazo no mayor de 5-cinco días hábiles, contados a partir de la fecha de la notificación. Se le indicará al presunto responsable que en la audiencia podrá alegar verbal o por escrito lo que a su derecho convenga respecto a la infracción o infracciones que se le imputan y tendrá derecho a ofrecer las pruebas y alegatos de su intención. El Delegado podrá fijar un término no mayor de 10-diez días para el desahogo de las pruebas;
+III. En el mismo acuerdo de inicio se señalará el lugar, día y hora para la verificación de una audiencia que deberá realizarse dentro de un plazo no menor de cinco días hábiles ni mayor de diez días hábiles, contados a partir de la fecha de la notificación. Se le indicará al Elemento imputado que en la audiencia podrá alegar verbal o por escrito lo que a su derecho convenga respecto a la infracción o infracciones que se le imputan y tendrá derecho a ofrecer las pruebas y alegatos de su intención. El Delegado podrá fijar un término no menor de cinco días hábiles ni mayor de diez días para el desahogo de las pruebas;
 
-IV. En cualquier momento, previo o posterior al acuerdo de inicio al que se refiere la fracción anterior, se podrá determinar la suspensión cautelar de su cargo, empleo o comisión, al presunto responsable, previa autorización de quien haya hecho la designación del servidor público;
+IV. En cualquier momento, desde la emisión del acuerdo de inicio al que se refiere la fracción anterior o posterior a éste, se podrá ordenar al superior jerárquico del Elemento imputado, para que presente a éste dentro del término de veinticuatro horas ante el Delegado y en una preaudiencia determinar la procedencia de una suspensión cautelar de su cargo, empleo o comisión. La suspensión cautelar del empleo no prejuzga sobre la responsabilidad que se impute al Elemento;
 
-V. Si celebrada la audiencia se advierten que impliquen la configuración de otras causales de responsabilidad administrativa del presunto responsable o de otros servidores públicos, se podrá disponer la práctica de investigaciones, y mediante diverso acuerdo de inicio fundado y motivado, se emplazará para otra u otras audiencias, con las mismas formalidades señaladas en la fracción II de este artículo; y,
+V. Si celebrada la audiencia se advierten conductas que impliquen la configuración de otras causales de responsabilidad administrativa del Elemento imputado o de otros servidores públicos, se podrá disponer la práctica de investigaciones, y mediante diverso acuerdo de inicio fundado y motivado, se emplazará para otra u otras audiencias, con las mismas formalidades señaladas en la fracción II de este artículo, y
 
-VI. Cerrada la instrucción, se resolverá dentro de los 10-diez días hábiles siguientes, sobre la existencia o inexistencia de responsabilidad y, en su caso, se impondrán al infractor las sanciones correspondientes, debiéndose notificar la resolución dentro de las 72-setenta y dos horas siguientes, al servidor público responsable y a su jefe inmediato.
+VI. Cerrada la instrucción, se resolverá dentro de los diez días hábiles siguientes, sobre la existencia o inexistencia de responsabilidad y, en su caso, se impondrán al infractor las sanciones correspondientes, debiéndose notificar la resolución dentro de los tres días hábiles siguientes, al Elemento imputado y a su jefe inmediato.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -343,23 +375,19 @@ Dentro del procedimiento de investigación, las actuaciones podrán realizarse i
 
 Podrá la Comisión por conducto del Delegado iniciar de oficio el procedimiento a que se refiere el artículo 15.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 18.
 
-La suspensión cautelar a que se refiere la fracción II del artículo 25 de este ordenamiento no prejuzga sobre la responsabilidad que se impute. El Delegado hará constar esta salvedad.
+La suspensión cautelar del empleo, cargo o comisión consiste en la interrupción provisional de las tareas que venía desempeñando el Elemento que se encuentre sujeto a investigación administrativa por actos u omisiones graves que pudieran derivarse en presuntas responsabilidades y cuya permanencia en el servicio pudiera afectar a la Secretaría o a la comunidad en general; será decretada por el Delegado mediante resolución fundada y motivada y, en todo caso, respetando la garantía de audiencia del Elemento sancionado.
 
-La suspensión cautelar a que se refiere el párrafo anterior interrumpe los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o a partir del momento que este último quede enterado de la resolución por cualquier medio.
+La suspensión cautelar cesará cuando el Delegado determine que han dejado de existir las causas que la originaron o cuando la Comisión resuelva la conclusión del Procedimiento de Responsabilidad Administrativa.
 
-La suspensión cautelar cesará cuando así lo resuelva la autoridad instructora, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo.
-
-Si los servidores públicos suspendidos cautelarmente no resultaren responsables de la falta o faltas que se les imputan, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones que debieron percibir durante el tiempo de la suspensión.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 19.
 
-Si el servidor público a quien se le impute la queja o denuncia confesare su responsabilidad, se procederá de inmediato a dictar resolución, a no ser que la Comisión disponga la recepción de pruebas para acreditar la veracidad de su confesión. En caso de que se acredite la plena validez probatoria de la confesión, la misma será considerada al momento de emitirse la resolución final en beneficio del imputado.
+Si el Elemento a quien se le impute la queja o denuncia admitiera su responsabilidad, se procederá de inmediato a dictar resolución, salvo que la Comisión disponga la recepción de pruebas para acreditar la veracidad de su confesión. En caso de que se acredite la plena validez probatoria de la confesión, la misma será considerada al momento de emitirse la resolución final en beneficio del imputado.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -375,15 +403,19 @@ III. Si existe resistencia al mandamiento legítimo de autoridad, se estará a l
 
 ### CAPITULO VI. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 21.
 
-Se entiende por sanción, la medida a que se hace acreedor el servidor público que cometa alguna falta a los principios de actuación previstos en la Ley de Responsabilidades, en la Ley de Seguridad, el presente Reglamento y en las normas disciplinarias especificas. La aplicación de sanciones será proporcional a la gravedad y reiteración de la falta cometida.
+Se entiende por sanción, la medida a que se hace acreedor el Elemento que cometa alguna violación a la Ley de Responsabilidades, la Ley de Seguridad, el presente Reglamento o en las normas disciplinarias específicas. La aplicación de sanciones será proporcional a la gravedad y reiteración de la falta cometida.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 Las sanciones deberán registrarse en el expediente personal de los infractores:
 
-La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes de las Instituciones Policiales de conformidad con la legislación aplicable.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
+
+La imposición de las sanciones que determine la Comisión se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes de las Instituciones Policiales de conformidad con la legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -407,11 +439,11 @@ VII. La reincidencia del infractor; y,
 
 VIII. El daño o perjuicio ocasionado a terceras personas.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 23.
 
-Las resoluciones que dicte la Comisión deberán ser dictadas en términos de lo establecido por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, conforme a la letra o a la interpretación jurídica de la Ley de Seguridad y a falta de ésta, en la Ley de Responsabilidades, y a falta de ambas, se fundará en los principios generales del derecho.
+Las resoluciones de la Comisión deberán ser dictadas en términos de lo establecido por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, conforme a la letra o a la interpretación jurídica de la Ley de Seguridad, en defecto de ésta, en la Ley de Responsabilidades, y en defecto de ambas, se fundará en los principios generales del derecho.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -427,19 +459,19 @@ Las sanciones son:
 
 I. Suspensión temporal: Que consiste en aquella que procede en contra de los Elementos que incurran en faltas o indisciplinas que por su naturaleza no ameritan la destitución del cargo. En este caso, la suspensión será de 1-un día a 3-tres meses.
 
-La sanción a que se refiere esta fracción será sin la percepción de su retribución; en el supuesto de que el Elemento sea declarado sin responsabilidad por la instancia competente, se le pagaran las percepciones retenidas y se le reincorporará inmediatamente a su puesto, recuperando sus derechos de antigüedad;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
 
-II. Suspensión cautelar: Que consiste en la medida cautelar al elemento que se encuentre sujeto a investigación administrativa o de averiguación previa, por actos u omisiones graves que pudieran derivarse en presuntas responsabilidades y cuya permanencia en el servicio pudiera afectar a la corporación policial, de tránsito o a la comunidad en general; será decretada por la autoridad que conozca del procedimiento, mediante resolución fundada y motivada y, en todo caso, respetando la garantía de audiencia del elemento sancionado;
+La sanción a que se refiere esta fracción será sin la percepción de su retribución;
+
+II. (DEROGADA, P.O. 8 DE JUNIO DE 2016)
 
 III. Destitución del cargo: Que consiste en la separación y baja definitiva del elemento policial, por causa grave en el desempeño de sus funciones; lo anterior sin que proceda ningún medio de defensa legal ordinario para su reinstalación, quedando impedido para desempeñar el servicio policial o de tránsito; y,
 
 IV. Inhabilitación: Que consiste en el impedimento para desempeñar cualquier cargo público hasta por 10-diez años.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
-
 ###### ARTÍCULO 26.
 
-La suspensión cautelar subsistirá hasta que el asunto de que se trate quede definitivamente resuelto en la instancia final del procedimiento correspondiente, de conformidad con lo establecido en la Ley de Responsabilidades o Ley de Seguridad. En caso de que el elemento resulte declarado sin responsabilidad, se le pagaran los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, por motivo de la suspensión cautelar, y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
+(DEROGADO, P.O. 8 DE JUNIO DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
 
@@ -540,3 +572,11 @@ P.O. 27 DE FEBRERO DE 2016.
 > <small>[N. DE E. TRANSITORIO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA Y VIALIDAD DE MONTERREY”.]</small>
 
 ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LOS "ACUERDOS DE LA SESIÓN ORDINARIA DE FECHA 31 DE MAYO DE 2016: SE AUTORIZA LA REFORMA DEL REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA Y VIALIDAD DEL MUNICIPIO DE MONTERREY".]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Procedimientos de Responsabilidad Administrativa iniciados con anterioridad al inicio de vigencia de las presentes reformas, se llevarán a cabo conforme a las reglas establecidas al inicio de dichos procedimientos.
