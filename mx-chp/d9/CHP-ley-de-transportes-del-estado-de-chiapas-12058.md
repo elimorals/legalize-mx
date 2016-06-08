@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transportes-del-estado-de-chiapas-12058"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2014-05-30"
+last_updated: "2016-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE TRANSPORTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 24 de junio de 1998.
 
@@ -527,7 +527,9 @@ ARTICULO 50 BIS.- EL COMITE CONSULTIVO EN MATERIA DE TRANSPORTE PUBLICO, ES UN O
 
 ARTICULO 50 TER.- EL COMITE CONSULTIVO EN MATERIA DE TRANSPORTE PUBLICO, ESTARA INTEGRADO POR:
 
-I.- UN PRESIDENTE QUE SERA EL TITULAR DEL PODER EJECUTIVO DEL ESTADO POR SI O A TRAVES DEL TITULAR DE LA SECRETARIA DE TRANSPORTES, QUIEN TENDRA EL DERECHO AL VOTO DE CALIDAD.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+I.- UN PRESIDENTE QUE SERA EL TITULAR DEL PODER EJECUTIVO DEL ESTADO POR SI O A TRAVES DEL TITULAR DE LA SECRETARIA DE TRANSPORTES, QUIEN VALIDARA TODOS LOS ACUERDOS DEL COMITE CONSULTIVO Y TENDRA EL DERECHO AL VOTO DE CALIDAD.
 
 II.- LOS VOCALES, QUIENES TENDRAN EL DERECHO DE VOZ Y VOTO, SERAN LOS TITULARES DE:
 
@@ -541,7 +543,9 @@ D) LA SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA DEL ESTADO DE CHIAPAS.
 
 E) LA SECRETARIA DEL TRABAJO DEL ESTADO DE CHIAPAS.
 
-F) EL REPRESENTANTE DE LA ORGANIZACION DE TRANSPORTISTAS QUE ACREDITE MAYOR ANTIGÜEDAD Y SE ENCUENTRE LEGALMENTE CONSTITUIDO Y CONCESIONADO EN EL MUNICIPIO DONDE SE INSTALE EL COMITE CONSULTIVO EN MATERIA DE TRANSPORTE PUBLICO.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
+
+F) LOS REPRESENTANTES DE LOS TRANSPORTISTAS QUE SE ENCUENTREN LEGALMENTE CONSTITUIDOS EN PERSONAS MORALES POR CONCESIONADOS EN EL MUNICIPIO DONDE SE INSTALE EL COMITE CONSULTIVO EN MATERIA DE TRANSPORTE PUBLICO.
 
 III.- LOS INVITADOS PERMANENTES, TENDRAN DERECHO A VOZ Y SIN VOTO:
 
@@ -1102,3 +1106,15 @@ Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- El Titular de la Secretaría de Transportes, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento General de la Ley de Transportes del Estado de Chiapas, para su aprobación, expedición y publicación correspondiente.
+
+P.O. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 219 POR EL QUE SE REFORMAN LA FRACCIÓN I Y EL INCISO F) DE LA FRACCIÓN II DEL ARTÍCULO 50 TER DE LA LEY DE TRANSPORTES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Titular de la Secretaría de Transportes, en el ámbito de su respectiva competencia, realizará las acciones necesarias para el debido cumplimiento del presente Decreto.
+
+Artículo Cuarto.- El Titular de la Secretaría de Transportes, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
