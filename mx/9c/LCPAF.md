@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2014-06-04"
+last_updated: "2016-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -160,15 +160,33 @@ Se requiere de concesión para construir, operar, explotar, conservar y mantener
 
 Las concesiones se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezcan esta Ley y los reglamentos respectivos.
 
-> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2016)</small>
 
-Las concesiones se otorgarán hasta por un plazo de 30 años. Éstas podrán ser prorrogadas, hasta por un plazo equivalente al señalado originalmente, en cualquier momento después del primer tercio de la vigencia de las mismas, cuando a juicio de la Secretaría, se justifique la necesidad de realizar inversiones que no se hubiesen previsto en las condiciones originales de los títulos de concesión respectivos. También podrán ser prorrogadas, en cualquier momento durante su vigencia, cuando se presenten causas que lo justifiquen, no atribuibles a los concesionarios, entre los que se incluyan demoras en la liberación del derecho de vía. A fin de que la prórroga pueda ser considerada, el concesionario deberá haber cumplido con las condiciones impuestas. En ambos casos, la Secretaría deberá obtener el registro a que se refieren las fracciones II y III del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Las concesiones se otorgarán hasta por un plazo de treinta años, las cuales podrán ser prorrogadas hasta por un plazo equivalente al señalado originalmente, en cualquier momento después del primer tercio de la vigencia de las mismas, cuando a juicio de la Secretaría, se justifique la necesidad de realizar inversiones que no se hubiesen previsto en las condiciones originales de los títulos de concesión respectivos. También podrán ser prorrogadas, en cualquier momento durante su vigencia, cuando se presenten causas que lo justifiquen, no atribuibles a los concesionarios, entre los que se incluyan demoras en la liberación del derecho de vía. La prórroga de las concesiones a que se refiere este párrafo se otorgará siempre que los concesionarios hayan cumplido con las condiciones y obligaciones impuestas en los títulos de concesión.
 
 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 60 días naturales contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2014)</small>
 
 Las concesiones que se otorguen para construir, conservar y mantener los caminos y puentes federales, podrán solicitar en sus características de construcción que se emplee caucho reciclado proveniente de neumáticos usados.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2016)</small>
+
+###### ARTICULO 6o. Bis.
+
+Para el otorgamiento de los títulos de concesión o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Hacienda y Crédito Público, en términos del Reglamento de esta Ley, lo siguiente:
+
+I. La opinión favorable sobre la rentabilidad económica del proyecto respectivo.
+
+Se entenderá por rentabilidad económica, el resultado de comparar los ingresos monetarios susceptibles de ser generados por el uso, aprovechamiento o explotación de los bienes de dominio público concesionados, con respecto a los costos que se generarían por la realización del proyecto que se pretende concesionar, durante el horizonte temporal de evaluación.
+
+Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público la evaluación que llevó a cabo sobre la rentabilidad económica del proyecto, así como la documentación que utilizó para realizar dicha evaluación, a fin de que esta última dependencia en un plazo no mayor a treinta días naturales, contado a partir de la fecha en que recibió la evaluación y documentación a que se refiere este párrafo, emita su opinión al respecto. En caso de que la Secretaría de Hacienda y Crédito Público no emita esta opinión en el plazo establecido, se entenderá emitida en sentido afirmativo.
+
+En todo caso, los recursos que se destinen para liberar el derecho de vía, se considerarán dentro de los costos totales del proyecto;
+
+II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y
+
+III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
 
 ###### ARTICULO 7o.
 
@@ -1083,3 +1101,13 @@ QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, 
 Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la presente Ley de conformidad con las disposiciones aplicables al momento de iniciar dicho trámite.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, DE PUERTOS, DE AEROPUERTOS, Y REGLAMENTARIA DEL SERVICIO FERROVIARIO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
+
+Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
