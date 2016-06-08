@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-derecho-de-acceso-a-la-informacion-publica-44022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-04"
-last_updated: "2016-02-27"
+last_updated: "2016-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CONSEJO CIUDADANO PARA EL GOBIERNO ABIERTO, LA TRANSPARENCIA Y LA RENDICIÓN DE CUENTAS DEL MUNICIPIO DE MONTERREY, PUBLICADO EN EL P.O. DE 8 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Monterrey, el viernes 4 de marzo de 2005.
 
@@ -664,3 +666,19 @@ P.O. 27 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE AUTORIZA EL REGLAMENTO DEL CONSEJO CIUDADANO PARA EL GOBIERNO ABIERTO, LA TRANSPARENCIA Y LA RENDICIÓN DE CUENTAS DEL MUNICIPIO DE MONTERREY”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se abrogan el Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey aprobado por (sic) Ayuntamiento de Monterrey el 23 de febrero de 2005 y publicado en el Periódico Oficial del Estado de Nuevo León el 4 de marzo de 2005 y sus reformas y el Reglamento Interior de la Oficina del Comisionado para la Transparencia Municipal aprobado el 28 de septiembre del 2005 y publicado en el Periódico Oficial el 21 de octubre de 2005 y sus reformas.
+
+Deberá atenderse la próxima promulgación de la Ley de Transparencia y Acceso a la Información del Estado Nuevo León, que expedirá el Poder Legislativo del Estado, para la correspondiente emisión del marco normativo municipal.
+
+TERCERO. Para la primera designación de las Consejeras Ciudadanas y los Consejeros Ciudadanos y la sesión de instalación del Consejo para el Gobierno Abierto, la Transparencia y la Rendición de Cuentas del Municipio de Monterrey, la convocatoria ciudadana a que alude el artículo 8 del presente Reglamento deberá efectuarse dentro de los quince días hábiles siguientes contados desde el día de su entrada en vigor, otorgando un periodo igual para la presentación de propuestas ciudadanas. La designación de los Consejeros Ciudadanos deberá llevarse a cabo en un periodo de diez días posteriores a que concluya la etapa de presentación de propuestas.
+
+CUARTO. Los Consejeros y las Consejeras que sean representantes ciudadanos, a que se refiere el artículo 7 del Reglamento Interior de la Oficina del Comisionado para la Transparencia Municipal que se abroga, podrán participar en la convocatoria a que se refiere el Artículo Transitorio Cuarto del presente Acuerdo.
+
+QUINTO. Publíquese el Acuerdo Cuarto en el Periódico Oficial del Estado. Difúndanse en la Gaceta Municipal y en la página de Internet del Municipio: www.mty.gob.mx.
