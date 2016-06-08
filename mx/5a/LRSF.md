@@ -4,7 +4,7 @@ identifier: "LRSF"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2015-01-26"
+last_updated: "2016-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRSF"
 
 LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -199,6 +199,24 @@ Las concesiones de que trata el presente artículo podrán comprender los permis
 ###### Artículo 8.
 
 Las vías generales de comunicación ferroviaria se mantendrán en todo momento dentro del dominio público de la Federación. Las vías férreas que se construyan al amparo de un título de concesión, pasarán a formar parte del dominio público inmediatamente, con independencia de las condiciones y plazo de la concesión.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2016)</small>
+
+###### Artículo 8 Bis.
+
+Para el otorgamiento de los títulos de concesión o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Hacienda y Crédito Público, en términos del Reglamento de esta Ley, lo siguiente:
+
+I. La opinión favorable sobre la rentabilidad económica del proyecto respectivo.
+
+Se entenderá por rentabilidad económica, el resultado de comparar los ingresos monetarios susceptibles de ser generados por el uso, aprovechamiento o explotación de los bienes de dominio público y servicios públicos concesionados, con respecto a los costos que se generarían por la realización del proyecto que se pretende concesionar, durante el horizonte temporal de evaluación.
+
+Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público la evaluación que llevó a cabo sobre la rentabilidad económica del proyecto, así como la documentación que utilizó para realizar dicha evaluación, a fin de que esta última dependencia en un plazo no mayor a treinta días naturales, contado a partir de la fecha en que recibió la evaluación y documentación a que se refiere este párrafo, emita su opinión al respecto. En caso de que la Secretaría de Hacienda y Crédito Público no emita esta opinión en el plazo establecido, se entenderá emitida en sentido afirmativo.
+
+En todo caso, los recursos que se destinen para liberar el derecho de vía, se considerarán dentro de los costos totales del proyecto;
+
+II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y
+
+III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
 
 ###### Artículo 9.
 
@@ -875,3 +893,13 @@ Noveno. Una vez que la Agencia se encuentre en funciones, requerirá a los conce
 Los concesionarios procederán a reintegrar las vías cortas o ramales sin demora y en el estado físico en que se encuentren, para lo cual se celebrará el acta de entrega-recepción respectiva. En ningún caso, la reintegración a la Nación de ramales o vías cortas no explotadas o en desuso será objeto de cualquier tipo de pago o contraprestación por ninguna de las partes.
 
 A partir de la reintegración de los ramales o vías para ser concesionadas cada una por separado, la Secretaría contará con un plazo de 180 días naturales para concesionarlas mediante licitación pública conforme a lo establecido por el artículo 9 de la presente Ley.
+
+D.O.F. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, DE PUERTOS, DE AEROPUERTOS, Y REGLAMENTARIA DEL SERVICIO FERROVIARIO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
+
+Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
