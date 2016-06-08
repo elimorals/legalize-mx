@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-26-2015-del-pleno-del-consejo-de-la-109058"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-21"
-last_updated: "2016-03-18"
+last_updated: "2016-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109058&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-06-10"
 
 ACUERDO GENERAL 26/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de julio de 2015.
 
@@ -63,7 +63,9 @@ Es procedente la solicitud de concentración de juicios de amparo en los siguien
 
 I. Cuando dos o más quejosos reclamen y aduzcan sobre un mismo acto u omisión ser titulares de un interés legítimo; y
 
-II. Cuando dos o más quejosos reclamen actos u omisiones distintos pero con perjuicios análogos, provenientes de la misma autoridad, y se tramiten en órganos jurisdiccionales distintos.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE JUNIO DE 2016)</small>
+
+II. Cuando en ese mismo carácter, esto es, quejosos que aduzcan ser titulares de un interés legítimo, reclamen actos u omisiones distintos pero con perjuicios análogos, provenientes de la misma autoridad, y se tramiten en órganos jurisdiccionales diversos.
 
 ###### Artículo 3.
 
@@ -102,6 +104,14 @@ EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CO
 D.O.F. 18 DE MARZO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
