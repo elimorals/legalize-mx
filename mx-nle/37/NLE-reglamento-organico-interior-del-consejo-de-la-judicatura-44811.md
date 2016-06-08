@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2015-09-14"
+last_updated: "2016-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -1847,9 +1847,11 @@ Las personas de nuevo ingreso al Poder Judicial del Estado de Nuevo León, que p
 
 La experiencia profesional de dos años requerida por la Ley Orgánica, para ser designado Secretario de Pleno, de Sala, de Juzgado de Primera Instancia o de Juzgado Menor, se computará a partir de la fecha en que el aspirante haya presentado su examen profesional para obtener el título de licenciado en derecho, salvo aquellos casos en que el profesionista haya laborado en órganos jurisdiccionales del Poder Judicial del Estado o de la Federación, al menos dos años, independientemente de la categoría que haya desempeñado.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
+
 ###### Artículo 115.
 
-Los secretarios, actuarios y escribientes que hayan aplicado examen de aptitud para ocupar una plaza vacante en forma interina o temporal, no requerirán realizar nuevo examen cuando sean propuestos para ocupar una vacante definitiva en el mismo órgano jurisdiccional o en otro, siempre que se trate de la misma categoría.
+Los secretarios, actuarios y escribientes que hayan cubierto una plaza vacante de forma interina o temporal, no requerirán realizar nuevo examen para ocupar una vacante definitiva en el mismo órgano jurisdiccional o en otro, siempre que se trate de la misma categoría y la propuesta sea presentada dentro del año siguiente al de la conclusión de la plaza interina o temporal.
 
 ###### Artículo 116.
 
@@ -2414,3 +2416,9 @@ Segundo: El Consejo de la Judicatura, establecerá, mediante Acuerdos Generales,
 P.O. 14 DE SEPTIEMBRE DE 2015.
 
 Primero.- Vigencia. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Poder Judicial del Estado, para su mayor difusión publíquese en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO GENERAL 11/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA POR EL CUAL SE REFORMA EL ARTÍCULO 115 DEL REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN, QUE SE INTEGRA EN EL CAPÍTULO III "DE LA CARRERA JUDICIAL", SECCIÓN PRIMERA "DEL INGRESO Y PROMOCIÓN”.]
+
+PRIMERO.- Vigencia. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y para su mayor difusión publíquese en el Boletín Judicial del Estado.
