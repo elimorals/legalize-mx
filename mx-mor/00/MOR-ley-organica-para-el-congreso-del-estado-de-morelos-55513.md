@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2015-12-09"
+last_updated: "2016-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -859,7 +859,9 @@ Las Comisiones Ordinarias serán las siguientes:
 
 17. Pueblos Indígenas;
 
-18. Equidad de Género.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
+
+18. Igualdad de Género.
 
 19. De la Juventud.
 
@@ -1193,13 +1195,17 @@ VII. Los referentes a las acciones que se realicen en materia de preservación y
 
 VIII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2016)</small>
+
 ###### Artículo 75.
 
-Corresponde a la Comisión de Equidad de Género conocer y dictaminar, en su caso, los siguientes asuntos:
+Corresponde a la Comisión de Igualdad de Género conocer y dictaminar, en su caso, los siguientes asuntos:
 
 I. Las iniciativas de ley, reformas o adiciones relacionadas con la promoción de igualdad de las personas, sin importar cuestiones de género, edad, creencias religiosas, posición económica, etnia y cultura y demás actividades y comportamientos que pudieran causar discriminación o segregación social;
 
-II. Las propuestas y medidas legislativas para dar cumplimiento a los acuerdos, convenios y convenciones internacionales suscritos y ratificados por México en materia de apoyo a la mujer, a la equidad de género, así como darle seguimiento a los mismos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+II. Las propuestas y medidas legislativas para dar cumplimiento a los acuerdos, convenios y convenciones internacionales suscritos y ratificados por México en materia de apoyo a la mujer, a la igualdad de género, así como darle seguimiento a los mismos;
 
 III. Promover la cultura de equidad de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social, que atiendan a la problemática de la mujer;
 
@@ -1211,7 +1217,9 @@ VI. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la 
 
 VII. La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa o situación socioeconómica, entre otros;
 
-VIII. Participar, en representación del Congreso del Estado, en los organismos públicos o sociales que atiendan la problemática de género, cuando así las disposiciones normativas lo permitan; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+VIII. Participar, en representación del Congreso del Estado, en los organismos públicos o sociales que atiendan la problemática de género, cuando así las disposiciones normativas lo permitan, y
 
 IX. Todos aquellos asuntos que le sean turnados y que sean materia de tratamiento de esta Comisión.
 
@@ -2496,3 +2504,11 @@ Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el pres
 ###### ARTÍCULO TERCERO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS TREINTA Y TRES POR EL QUE SE REFORMAN LOS ARTÍCULOS 59 NUMERAL 18, 62 Y 75 FRACCIONES II, III Y VI DE LA LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos a que se refiere la fracción XVII, inciso a, del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor el día de su aprobación por el Pleno de este Congreso.
