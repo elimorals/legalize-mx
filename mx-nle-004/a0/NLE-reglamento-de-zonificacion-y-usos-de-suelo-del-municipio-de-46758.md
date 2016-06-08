@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-de-suelo-del-municipio-de-467
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-16"
-last_updated: "2008-05-30"
+last_updated: "2016-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ZONIFICACION Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, NUEVO LEON
 
-REGLAMENTO DE ZONIFICACION Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, NUEVO LEON
+REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 31 de octubre de 2005.
 
@@ -1485,6 +1485,10 @@ e) Pago de derechos correspondientes;
 
 f) Anuencia de los vecinos colindantes al predio según el croquis de la figura no.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2016)</small>
+
+g. Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
+
 Los demás que señalen para tal efecto el ayuntamiento en las disposiciones de carácter general que al efecto expidan.
 
 ###### ARTÍCULO 123.
@@ -1502,6 +1506,10 @@ d) Indicar el uso del suelo con el que cuenta el predio, o bien, el que se prete
 e) Indicar la superficie que trata de construir con la respectiva distribución de áreas, o bien, únicamente la distribución de áreas, tratándose de edificaciones ya construidas;
 
 f) El cumplimiento en el pago de los derechos correspondientes;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2016)</small>
+
+f. bis) Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
 
 g) Los demás que señalen para tal efecto las disposiciones de carácter general que al efecto expida el Ayuntamiento.
 
@@ -1526,6 +1534,10 @@ a) Acreditar la propiedad o posesión;
 b) Presentar los proyectos arquitectónicos, estructurales de instalaciones y a solicitud de la Secretaria las memorias correspondientes con la responsiva otorgada por perito responsable inscrito en el registro respectivo;
 
 c) Pagar los derechos correspondientes;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2016)</small>
+
+c. bis) Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
 
 d) Acompañar la licencia de uso del suelo;
 
@@ -1601,6 +1613,10 @@ f) Plano de la localización del predio, indicando las vías públicas y las red
 
 g) Estudio geofísico realizado por perito registrado oficialmente, únicamente para las zonas consideradas de alto riesgo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2016)</small>
+
+h) Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
+
 ###### ARTICULO 136.
 
 De ser factible la urbanización del predio, el interesado podrá solicitar los lineamientos generales de diseño urbano par (sic) elaborar el proyecto urbanístico. Para esto deberá además de acreditar la personalidad con que comparece, presentar la siguiente documentación:
@@ -1637,6 +1653,10 @@ g) Acreditar personalidad jurídica;
 
 h) En el caso que la Autoridad lo requiera presentar estudio Hidrológico.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2016)</small>
+
+i) Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
+
 ###### ARTÍCULO 138.
 
 De requerirse modificaciones al Proyecto Urbanístico, una vez señaladas y notificadas, si transcurre un tiempo de 45 cuarenta y cinco días naturales sin tener noticias del interesado el proyecto se negará y será necesario reiniciar el trámite, de acuerdo con lo previsto en el Articulo 224 de la Ley.
@@ -1661,7 +1681,9 @@ c) Copia del plano autorizado de Rasantes;
 
 d) Fotografías de la situación actual del predio; (8) a las que determine la Secretaria.
 
-e) Acreditar que este al corriente en el pago del impuesto predial con el tarjetón correspondiente;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
+
+e) Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
 
 f) Avalúo Catastral;
 
@@ -1706,6 +1728,10 @@ f) Copia del plano autorizado del proyecto ejecutivo;
 g) Constancias del cumplimiento del pago por incorporación a las redes de agua potable y drenaje sanitario; (en caso de determinarlo así la Secretaria)
 
 h) Documento que acredite el pago de las contribuciones correspondientes;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2016)</small>
+
+h. bis) Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
 
 i) Acreditar la personalidad con facultades para actos de dominio de conformidad con la Ley de la materia.
 
@@ -1772,6 +1798,10 @@ b) Copia del acuerdo de autorización de Ventas inscrito en el Registro Publico 
 c) Fianza que garantice por (3) tres años la calidad de pavimentación, cordones, banquetas y drenaje pluvial;
 
 d) Documento que acredite el pago total de las contribuciones correspondientes al momento de entregar la solicitud;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2016)</small>
+
+d. bis) Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
 
 e) Acreditar la personalidad jurídica; y
 
@@ -2093,7 +2123,9 @@ f) En caso de existencia de algún gravamen se requerirá la autorización expre
 
 g) En caso de solicitarlo algún apoderado, este deberá estar facultado con poder para actos de dominio;
 
-h) Presentar documento que acredite estar al corriente en el pago de los impuestos y derechos a los que esté sujeto el predio;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2016)</small>
+
+h) Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
 
 i) Pagar los derechos correspondientes;
 
@@ -2376,3 +2408,9 @@ P.O. 30 DE MAYO DE 2008.
 > <small>[N. DE E. PARTE FINAL DEL ACUERDO DE “MODIFICACIÓN AL REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, N.L.”.]</small>
 
 La modificación y adición aprobadas a este Reglamento de Zonificación y Usos de Suelo de este Municipio de Allende, N.L. entrarán en vigor al día siguiente de su publicación en Periódico oficial del Estado y en la Gaceta Municipal.
+
+P.O. 8 DE JUNIO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE ALLENDE, NUEVO LEÓN”.]</small>
+
+UNICO.- La presente reforma al Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
