@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-publicos-para-el-municipio-de-43026"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-14"
-last_updated: "2005-01-14"
+last_updated: "2016-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ESPECTACULOS PUBLICOS PARA EL MUNICIPIO DE ALLENDE, N.L
 
-REGLAMENTO DE ESPECTACULOS PUBLICOS PARA EL MUNICIPIO DE ALLENDE, NUEVO LEON
+REGLAMENTO DE ESPECTÁCULOS PÚBLICOS PARA EL MUNICIPIO DE ALLENDE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de enero de 2005.
 
@@ -97,7 +97,9 @@ VII. Especificar el total de boletaje para su venta y respectivos precios, así 
 
 VIII. Presentar el total del boletaje, incluyendo las cortesías, foliados en orden progresivo y con la fecha del evento para su sellado o perforación, excepto cuando el titular del permiso utilice medios electrónicos de impresión para la venta de boletos.
 
-IX. No tener ningún adeudo con la Tesorería Municipal de Allende.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2016)</small>
+
+IX. Constancia expedida por la Secretaría de Finanzas y Tesorería Municipal de que el solicitante y el predio, no tiene adeudos municipales, incluyendo impuestos, derechos, contribuciones y aprovechamientos.
 
 X. Haber retirado en su totalidad la publicidad de algún espectáculo anterior.
 
@@ -658,3 +660,11 @@ FIRMA
 C. LIC. LUIS ENRIQUE SANTILLAN CHAVÉZ
 
 Síndico Segundo
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO “SE APRUEBA LA REFORMA DEL REGLAMENTO DE ESPECTÁCULOS PÚBLICOS PARA EL MUNICIPIO DE ALLENDE, NUEVO LEÓN”.]
+
+UNICO.- La presente reforma al Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
