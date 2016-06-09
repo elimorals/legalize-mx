@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-nacional-y-del-1113
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-01-15"
-last_updated: "2016-01-15"
+last_updated: "2016-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-10-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de enero de 2016.
 
@@ -5661,7 +5661,9 @@ Quinto.- En concordancia con el artículo 41, segundo párrafo, Base V, Apartado
 
 Sexto.- El Acuerdo para la Integración del Catálogo de Cargos y Puestos del Servicio deberá ser aprobado por el Consejo General a más tardar en enero de 2016, en el que se definirán los órganos del Instituto y de los OPLE que van a ser parte del Servicio, así como los cargos y puestos que mínimamente deberá contener. Mientras, el Catálogo de Cargos y Puestos del Servicio deberá ser aprobado por la Junta a más tardar el 29 de febrero de 2016.
 
-Séptimo.- Los OPLE deberán adecuar su estructura organizacional, cargos, puestos y demás elementos, conforme a lo establecido en el presente Estatuto y en el Catálogo del Servicio a más tardar el 31 de mayo de 2016.
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2016)</small>
+
+Séptimo.- Los OPLE deberán adecuar su estructura organizacional, cargos, puestos y demás elementos, conforme a lo establecido en el presente Estatuto y en el Catálogo del Servicio a más tardar el 30 de junio de 2016.
 
 Octavo.- Los cargos y puestos de los OPLE, que no estén incluidos en el Catálogo del Servicio serán considerados como de la rama administrativa.
 
@@ -5796,3 +5798,9 @@ Quincuagésimo tercero.- Una vez que el Congreso de la Unión expida las leyes g
 Quincuagésimo cuarto.- En tanto el Congreso de la Unión no expida las leyes generales derivadas de la reforma constitucional en materia de combate a la corrupción, se seguirá aplicando la normativa vigente emitida por el Órgano Interno de Control del Instituto, al igual que en aquellos procedimientos de responsabilidades administrativas iniciados previo a la vigencia de dichas leyes generales.
 
 Quincuagésimo quinto.- La normativa en materia de uso de firma electrónica o firma electrónica avanzada para efectos del Servicio deberá ser aprobada dentro de los doce meses posteriores a la entrada en vigor del presente Estatuto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE JUNIO DE 2016.
+
+> <small>[N. DE E. ACUERDO DEL CONSEJO GENERAL POR EL CUAL SE MODIFICA EL ARTÍCULO SÉPTIMO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA (ESTATUTO), NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
