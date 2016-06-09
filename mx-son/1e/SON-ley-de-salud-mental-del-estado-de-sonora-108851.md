@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-mental-del-estado-de-sonora-108851"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-16"
-last_updated: "2013-12-16"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SON"
 
 LEY DE SALUD MENTAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el lunes 16 de diciembre de 2013.
 
@@ -146,7 +146,9 @@ XXIV.- Secretaría de Educación: Secretaría de Educación del Estado de Sonora
 
 XXV.- Servicios de Salud de Sonora: Organismo Público Descentralizado del Gobierno del Estado de Sonora, dedicado a la operación de programas preventivos, así como a la atención médica y a la protección contra riesgos sanitarios;
 
-XXVI.- Sistema de Información: Sistema de Información, Vigilancia y Evaluación en Salud Mental, centro de información técnica, permanente y estratégico de consulta, dependiente de los Servicios de Salud de Sonora;
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+XXVI.- Sistema de Información: Sistema de Información, Vigilancia y Evaluación en Salud Mental y Adicciones, centro de información técnica, permanente y estratégico de consulta, dependiente de la Dirección General de Salud Mental y Adicciones;
 
 XXVII.- Primer nivel de atención: atención otorgada por los Servicios de Salud de Sonora, el Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado de Sonora, los Sistemas Municipales para el Desarrollo Integral de los Municipios, las Unidades Especializadas en Salud Mental (UNEMES-CISAME) y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general, mismos que deben estar actualizados en la materia;
 
@@ -212,7 +214,9 @@ La sensibilización, promoción, prevención, evaluación, diagnóstico, tratami
 
 Son derechos fundamentales de todas las personas que padezcan un trastorno mental o que estén siendo atendidas por esta causa, los establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, los establecidos en la Constitución Política del Estado Libre y Soberano de Sonora, y los ordenamientos que de ella deriven; así como los establecidos en los instrumentos y tratados internacionales de los que México sea estado parte, así como los siguientes derechos:
 
-I.- Al acceso oportuno y digno a los servicios de salud mental;
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+I.- Al acceso oportuno y digno a los servicios de salud mental y adicciones;
 
 II.- A la identidad, a la pertenencia, a su genealogía, a su historia y al reconocimiento de su personalidad jurídica;
 
@@ -262,17 +266,23 @@ XXIV.- A ser ingresado a un hospital por prescripción médica, cuando la severi
 
 XXV.- A ser egresado de hospital, sólo cuando el médico tratante considere que puede continuar su tratamiento en forma ambulatoria y que ya no exista el riesgo que su conducta o acciones puedan causarle daño físico inmediato o inminente a sí mismo o a terceros;
 
-XXVI.- A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional; y
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+XXVI.- A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental y adicciones; y
 
 XXVII.- A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral.
 
-## TÍTULO TERCERO. DE LAS ACCIONES PARA LA ATENCIÓN DE LA SALUD MENTAL
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE JUNIO DE 2016)</small>
+
+## TÍTULO TERCERO. DE LAS ACCIONES PARA LA ATENCIÓN DE SALUD MENTAL Y ADICCIONES
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS SERVICIOS DE SALUD DE SONORA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 11.
 
-Para la prevención y promoción de la salud mental, los Servicios de Salud de Sonora, a través del Servicio Estatal de Salud Mental, deberá:
+Para la prevención y promoción de la salud mental, los Servicios de Salud de Sonora, a través del (sic) Dirección General de Salud Mental y Adicciones, deberá:
 
 I.- Dar a conocer las acciones que procuran una vida saludable a través de actividades educativas, recreativas y cívicas;
 
@@ -288,9 +298,11 @@ VI.- Participar en las acciones de atención psicológica a personas afectadas e
 
 VII.- Elaborar, difundir y llevar a cabo los programas de salud mental, así como contribuir en su elaboración y aplicación cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 12.
 
-Corresponden al Servicio Estatal de Salud Mental, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
+Corresponden al (sic) Dirección General de Salud Mental y Adicciones, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
 
 I.- Elaborar el Programa de Salud Mental para el Estado de Sonora, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas, y el presente ordenamiento, fomentando la participación de los sectores social y privado;
 
@@ -324,23 +336,29 @@ XIV.- Las demás acciones que contribuyan a la promoción y fomento de la salud 
 
 Los Servicios de Salud de Sonora deberán disponer de lo necesario para que se establezcan programas permanentes especiales de atención en salud mental, de acuerdo con las normas oficiales en la materia.
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 14.
 
-Las instituciones del sector público, privado y social que participen en programas y acciones en materia de salud mental, deberán remitir al Servicio Estatal de Salud Mental, un informe anual sobre las estrategias implementadas y sus resultados.
+Las instituciones del sector público, privado y social que participen en programas y acciones en materia de salud mental, deberán remitir al (sic) Dirección General de Salud Mental y Adicciones, un informe anual sobre las estrategias implementadas y sus resultados.
 
 ### CAPÍTULO II. DEL PERSONAL DE SALUD PARA LA ATENCIÓN EN SALUD MENTAL
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 15.
 
-Para la prevención y atención de los trastornos mentales los Servicios de Salud de Sonora, a través del Servicio Estatal de Salud Mental, contará con la estructura orgánica administrativa necesaria para garantizar la atención oportuna y expedita tomando como base el presupuesto que para tal efecto se le asigne y demás disposiciones aplicables.
+Para la prevención y atención de los trastornos mentales los Servicios de Salud de Sonora, a través del (sic) Dirección General de Salud Mental y Adicciones, contará con la estructura orgánica administrativa necesaria para garantizar la atención oportuna y expedita tomando como base el presupuesto que para tal efecto se le asigne y demás disposiciones aplicables.
 
 ###### Artículo 16.
 
 La atención que preste el personal de salud mental, público, social y privado, se dispensará siempre con arreglo a esta Ley, a las normas éticas de los profesionales de salud mental, en particular las normas aceptadas internacionalmente, como los “Principios de Ética Médica Aplicables a la Función del Personal de Salud”, aprobadas por la Asamblea General de las Naciones Unidas. En ningún caso se hará uso indebido de los conocimientos y las técnicas terapéuticas.
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 17.
 
-Para efectos de contratación del personal necesario y considerando la prioridad de atención de salud mental en la población, los Servicios de Salud de Sonora, a través del Servicio Estatal de Salud Mental, determinará los criterios para el cumplimiento de los objetivos de la presente Ley.
+Para efectos de contratación del personal necesario y considerando la prioridad de atención de salud mental en la población, los Servicios de Salud de Sonora, a través del (sic) Dirección General de Salud Mental y Adicciones, determinará los criterios para el cumplimiento de los objetivos de la presente Ley.
 
 ###### Artículo 18.
 
@@ -372,7 +390,9 @@ La atención que proporcionen los prestadores de servicio de salud mental deber�
 
 Todos los prestadores de servicios de salud mental del sector social, público y privado, participarán y coadyuvarán con las instancias involucradas en el diseño, operación y seguimiento de programas de educación para la salud mental que contemplen la sensibilización, prevención y detección temprana de los trastornos mentales, mismos que serán dirigidos a la población en general, para tal efecto deberán:
 
-I.- Asistir a las convocatorias que realice el Servicio Estatal de Salud Mental;
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+I.- Asistir a las convocatorias que realice el (sic) Dirección General de Salud Mental y Adicciones;
 
 II.- Coordinarse con los Servicios de Salud de Sonora, para fomentar la suscripción de convenios o acuerdos para beneficio de la sociedad;
 
@@ -406,9 +426,11 @@ La evaluación y el diagnóstico clínico, deberán realizarse por el personal d
 
 El Psicoterapeuta, debe ser personal de salud con cédula profesional y con estudios en psicoterapia, realizados en instituciones que cuenten con validez oficial.
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 30.
 
-La consulta psicoterapéutica que proporcione el Servicio Estatal de Salud Mental se realizará en los Módulos de Salud Mental de los Centros de Salud o en la consulta externa de la unidad hospitalaria de los Servicios de Salud, que cuente con Módulo de Salud Mental.
+La consulta psicoterapéutica que proporcione el (sic) Dirección General de Salud Mental y Adicciones se realizará en los Módulos de Salud Mental de los Centros de Salud o en la consulta externa de la unidad hospitalaria de los Servicios de Salud, que cuente con Módulo de Salud Mental.
 
 ###### Artículo 31.
 
@@ -524,9 +546,11 @@ Para los internamientos voluntarios, de emergencia o por orden de autoridad, los
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL DE INFORMACIÓN, VIGILANCIA Y EVALUACIÓN EN SALUD MENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 50.
 
-El Sistema de Información, Vigilancia y Evaluación en Salud Mental, funcionará como un centro de información técnico, permanente y estratégico de consulta, dependiente del Servicio Estatal de Salud Mental, cuyo objetivo principal será llevar a cabo estudios científicos en materia de salud mental, dirigido hacia la población del Estado de Sonora, de conformidad con lo establecido en la Ley de Salud y demás ordenamientos aplicables.
+El Sistema de Información, Vigilancia y Evaluación en Salud Mental, funcionará como un centro de información técnico, permanente y estratégico de consulta, dependiente de la Dirección General de Salud Mental y Adicciones, cuyo objetivo principal será llevar a cabo estudios científicos en materia de salud mental, dirigido hacia la población del Estado de Sonora, de conformidad con lo establecido en la Ley de Salud y demás ordenamientos aplicables.
 
 Su integración y funcionamiento será determinado en el Reglamento de la presente Ley.
 
@@ -538,7 +562,9 @@ I.- Desarrollar los métodos científicos de información e investigación sobre
 
 II.- Proponer programas de actualización y capacitación para servidores públicos y privados para el manejo de información en materia de salud mental;
 
-III.- Brindar asesoría y proporcionar información a las Unidades del Servicio Estatal de Salud Mental;
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+III.- Brindar asesoría y proporcionar información a las Unidades del (sic) Dirección General de Salud Mental y Adicciones;
 
 IV.- Mantener la confidencialidad y protección de los datos e información de los derechos de las personas con algún trastorno mental, atendiendo en todo momento lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora y demás legislación aplicable; y
 
@@ -626,9 +652,11 @@ VIII.- Las demás que le reconozca la presente Ley y demás disposiciones normat
 
 El presupuesto en materia de salud mental constituye una acción de interés social, por ello resulta indispensable el financiamiento de las acciones y fines a que se refiere la presente Ley.
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 59.
 
-El Titular del Poder Ejecutivo al remitir al Congreso Local la Iniciativa de Decreto por el que se apruebe el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, deberá considerar dentro del rubro asignado a los Servicios de Salud de Sonora, los recursos suficientes para la operación, organización, planeación, supervisión y evaluación de los servicios en materia de salud mental.
+El Titular del Poder Ejecutivo al remitir al Congreso Local la Iniciativa de Decreto por el que se apruebe el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, deberá considerar dentro del rubro asignado a los Servicios de Salud de Sonora, los recursos suficientes para la operación, organización, planeación, supervisión y evaluación de la Dirección General de Salud Mental y Adicciones.
 
 ###### Artículo 60.
 
@@ -691,3 +719,17 @@ GUILLERMO PADRÉS ELÍAS
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO ROMERO LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 9 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59, QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular de los Servicios de Salud del Estado de Sonora, a partir de la entrada en vigor del presente Decreto, contará con un plazo no mayor a 60 días para actualizar su marco normativo, a fin de que el mismo sea acorde a lo dispuesto en el presente Decreto.
