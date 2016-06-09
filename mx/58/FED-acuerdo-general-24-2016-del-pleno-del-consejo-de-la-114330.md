@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2016-del-pleno-del-consejo-de-la-114330"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-04-28"
-last_updated: "2016-04-28"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-04-20"
 
 ACUERDO GENERAL 24/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SONORA, CON RESIDENCIA EN HERMOSILLO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de abril de 2016.
 
@@ -101,9 +101,11 @@ El Centro contará con la plantilla laboral autorizada, y la Administración del
 
 Los juzgadores del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 34/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. DE 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 6.
 
-La jurisdicción territorial de los juzgadores del Centro comprenderá el Estado de Sonora, con la totalidad de sus municipios.
+La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Sonora, con excepción del municipio de San Luis Río Colorado.
 
 ###### Artículo 7.
 
@@ -212,3 +214,13 @@ QUINTO. En tanto se ordena la utilización de los libros de control electrónico
 SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 24/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinte de abril de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- Ciudad de México, a veinte de abril de dos mil dieciséis.- Conste.- Rúbrica.
+
+D.O.F. 9 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 34/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 24/2016, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SONORA, CON RESIDENCIA EN HERMOSILLO, PARA MODIFICAR LA JURISDICCIÓN TERRITORIAL DE LOS JUZGADORES ADSCRITOS AL MISMO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el catorce de junio de dos mil dieciséis.
+
+SEGUNDO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Sonora con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
