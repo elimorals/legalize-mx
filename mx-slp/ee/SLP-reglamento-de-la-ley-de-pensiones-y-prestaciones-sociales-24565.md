@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-pensiones-y-prestaciones-sociales-24565
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-06"
-last_updated: "2013-02-19"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO PERTENECIENTES AL SECTOR DEL SISTEMA EDUCATIVO ESTATAL REGULAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2016.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de abril de 2002.
 
@@ -231,19 +231,19 @@ Los trabajadores que hubieren contribuido al Fondo Sectorizado durante un año c
 
 Los pensionados que hayan sido trabajadores gozarán de esta misma prestación.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 25.
 
-El monto de los préstamos quirografarios a corto plazo para el personal en activo, podrá ser solicitado hasta por $50,000.00. El sector, determinará el límite de los mismos de conformidad con la disponibilidad financiera.
+El monto de los préstamos quirografarios a corto plazo para el personal en activo, podrá ser solicitado hasta por $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.). El sector, determinara el límite de los mismos de conformidad con la disponibilidad financiera.
 
-En el caso de los pensionados que hubieren sido trabajadores, el monto será hasta de cuatro meses de su pensión, siempre y cuando no se rebase la cantidad de $50,000.00.
+En el caso de los pensionados que hubieren sido trabajadores, el monto será hasta de cuatro meses de su pensión, siempre y cuando no se rebase la cantidad de $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 26.
 
-El plazo para el pago de los préstamos podrá ser de 24, 36 y 48 quincenas, según lo solicite el derechohabiente.
+El plazo para el pago de los préstamos podrá ser de 24, 36, 48, 60 y 72 quincenas, según lo solicite el derechohabiente.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
@@ -283,7 +283,9 @@ c). El monto a prestar será lo que se tenga acumulado en la cuenta individual a
 
 d). Estos prestamos causarán un interés del 12% anual global.
 
-e). El plazo para el pago será de 24 y 36 quincenas.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2016)</small>
+
+e). El plazo para el pago será de 24, 36 y 48 quincenas.
 
 f). El pago del capital más sus intereses se hará en abonos quincenales iguales.
 
@@ -323,9 +325,11 @@ Se otorgarán préstamos con garantía hipotecaria en primer lugar sobre fincas 
 
 A la muerte del deudor hipotecario, la Dirección de Pensiones coadyuvará con los beneficiarios de aquél para la debida aplicación del seguro de vida relativo al crédito, y restituirá el saldo del mismo al Fondo Sectorizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 33.
 
-Los Préstamos Hipotecarios se destinarán exclusivamente a los fines siguientes:
+Los préstamos hipotecarios se destinarán exclusivamente para los fines siguientes:
 
 I. Adquirir casa;
 
@@ -333,15 +337,27 @@ II. Construir casa, en terreno propio para vivienda del trabajador;
 
 III. Efectuar mejoras o reparaciones a su casa habitación;
 
-IV. Redimir hipotecas que soporten tales inmuebles, y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2016)</small>
 
-V. Adquirir terreno para que el trabajador construya su casa habitación.
+IV. Redimir hipotecas que soporten tales inmuebles;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2016)</small>
+
+V. Adquirir terreno para que el trabajador construya su casa habitación, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2016)</small>
+
+VI. De liquidez, para que el trabajador tenga recursos para cubrir necesidades en general.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 34.
 
-Los Préstamos Hipotecarios se otorgarán hasta la cantidad equivalente al importe de 60 meses del salario mínimo vigente en el Estado cuando se solicite de manera individual, y mancomunado hasta por el importe de 75 meses de salario mínimo vigente en la Entidad.
+Los préstamos hipotecarios se otorgaran hasta por la cantidad de $500,000.00 (QUINIENTOS MIL PESOS 00/100 M.N.), cuando se soliciten de forma individual, cuando se tramite de forma mancomunada será hasta por $1,000,000.00 (UN MILLON DE PESOS 00/100 M.N.).
 
-Para los casos previstos en las fracciones I, II, III y IV señalados en el artículo anterior, cada préstamo no excederá de una cantidad recuperable en el término de quince años, y en el caso de la fracción V del mismo artículo no podrá ser mayor de cinco años, en ambos casos por medio de amortizaciones quincenales y sin sobrepasar el cincuenta por ciento del sueldo o sueldos que el trabajador disfrute y por los cuales se le practiquen descuentos para el Fondo Sectorizado. Se exceptúan los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo en las condiciones que fija este Capítulo.
+Para los casos previstos en las fracciones I, II, III, IV y VI señalados en el artículo anterior, cada préstamo no excederá de una cantidad recuperable en el término de 10 años, y en el caso de la fracción V del mismo artículo no podrán ser mayor de 5 años.
+
+Los pagos quincenales no deberán sobrepasar el cincuenta por ciento del sueldo o sueldos y los descuentos anuales no sobrepasaran los 60 días de aguinaldo que se les paga a los trabajadores del sector maestros sección 52.
 
 ###### ARTÍCULO 35.
 
@@ -349,11 +365,23 @@ El Préstamo Hipotecario no excederá del ochenta por ciento del valor fijado po
 
 Cuando el trabajador no estuviere de acuerdo con el avalúo practicado por la Dirección de Pensiones, podrá designar por su cuenta un perito que practique uno nuevo, y en caso de discrepar los peritajes, se podrá nombrar un tercero por ambas partes, cuyos honorarios se cubrirán por mitad. La Junta Directiva resolverá en definitiva.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-Los Préstamos Hipotecarios que se otorguen causarán el interés del dieciocho por ciento anual sobre saldos insolutos.
+Los préstamos hipotecarios que se otorguen causaran el interés del doce por ciento anual sobre saldos insolutos.
 
-La Junta Directiva, revisará y decidirá en sesión, la necesidad real y debidamente justificada que cada trabajador tenga al efectuar una operación de compra - venta de un inmueble a un familiar.
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 36 BIS.- Para tener acceso a este tipo de préstamo, el derechohabiente deberá de entregar a la Dirección de Pensiones los siguientes documentos:
+
+I.- Solicitud que obtendrá en la propia Dirección de Pensiones del Estado;
+
+II.- Escritura del inmueble a ofrecer en garantía, y
+
+III.- Todos aquellos que la Dirección de Pensiones del Estado considere necesarios para el otorgamiento del préstamo.
+
+En todas las operaciones, si transcurridos 30 (treinta) días hábiles a partir de la recepción de la solicitud y sin que medie justificación el (sic) derechohabiente no continúa con los trámites para obtener su préstamo, automáticamente se cancelará la solicitud y se le notificará al mismo.
 
 ###### ARTÍCULO 37.
 
@@ -492,3 +520,11 @@ TERCERO.- Los pensionados que adquirieron sus derechos conforme a las leyes de p
 CUARTO.- El bono de permanencia se pagará en la primera quincena del mes de julio de cada año a los trabajadores que cumplan los años de cotización durante el primer semestre del año y para los trabajadores que cumplan los años de cotización durante el segundo semestre, el pago se realizará en la primera quincena del mes de enero el (sic) año siguiente, de conformidad con el artículo noveno transitorio del decreto 730.
 
 QUINTO.- Se derogan todas las disposiciones administrativas de igual o menor jerarquía que se opongan a este Decreto.
+
+P.O. 9 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO PERTENECIENTES AL SECTOR DEL SISTEMA EDUCATIVO ESTATAL REGULAR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Estado Plan de San Luis.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
