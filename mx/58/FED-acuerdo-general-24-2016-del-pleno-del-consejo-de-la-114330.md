@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2016-del-pleno-del-consejo-de-la-114330"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-04-28"
-last_updated: "2016-04-28"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,175 +19,1723 @@ issue_date: "2016-04-20"
 ---
 # ACUERDO GENERAL 24/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SONORA, CON RESIDENCIA EN HERMOSILLO]
 
-ACUERDO GENERAL 24/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SONORA, CON RESIDENCIA EN HERMOSILLO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de abril de 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE DICIEMBRE DE 2023.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
-ACUERDO GENERAL 24/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SONORA, CON RESIDENCIA EN HERMOSILLO.
+TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-CONSIDERANDO
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del mismo, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus atribuciones;
+Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-SEGUNDO. Los artículos 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y 81, fracciones IV, V, VI y XXIV; y 144, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal determinar el número y límites territoriales y, en su caso, la especialización por materia de los juzgados de Distrito y tribunales de Circuito, en cada uno de los Circuitos en que se divide el territorio de la República Mexicana, así como proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal Federal, esta última, que ejerce a través de la Comisión de Creación de Nuevos Órganos, en términos del artículo 42, fracción II Bis, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado el veintidós de noviembre de dos mil trece en el Diario Oficial de la Federación;
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-TERCERO. El artículo 17 de la Constitución Política de los Estados Unidos Mexicanos establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes; por lo que para cumplir con el mandato constitucional es necesaria la creación de órganos jurisdiccionales, a fin de garantizar que la impartición de justicia sea pronta, completa, imparcial y gratuita;
+DE C R E T O No. 427
 
-CUARTO. El dieciocho de junio de dos mil ocho, se publicó en el Diario Oficial de la Federación el Decreto de modificación de diversos artículos constitucionales, para establecer en nuestro país el modelo de justicia procesal penal acusatorio y oral, que se rige por los principios de publicidad, contradicción, concentración, continuidad e inmediación. Como resultado de lo anterior, el Consejo de la Judicatura Federal en ejercicio de sus atribuciones debe dictar, en su ámbito de competencia, las disposiciones administrativas que sean necesarias para el cumplimiento de la norma constitucional, de manera tal que antes del dieciocho de junio de dos mil dieciséis, todo el territorio nacional opere bajo el nuevo modelo procesal penal;
+LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-QUINTO. En sesión de ocho de mayo de dos mil trece, el Pleno del Consejo de la Judicatura Federal aprobó el Plan Maestro de Implementación de la Reforma Penal, en el cual se incluyó la instalación de un Centro de Justicia Penal Federal en el Estado de Sonora;
+## TITULO PRIMERO. DEL SISTEMA DE PROTECCION CIVIL DEL ESTADO DE TAMAULIPAS
 
-SEXTO. En ese contexto, el cinco de marzo de dos mil catorce se publicó en el Diario Oficial de la Federación el Código Nacional de Procedimientos Penales, que en su artículo 2 precisa que el objeto del mismo es establecer las normas para la investigación, el procesamiento y la sanción de los delitos, esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y se repare el daño, señalando como ámbito de aplicación en la persecución de ilícitos, la competencia de los órganos jurisdiccionales federales en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano sea parte;
+### CAPITULO I. DISPOSICIONES GENERALES
 
-SÉPTIMO. El artículo Segundo Transitorio, primer párrafo, del Código Nacional de Procedimientos Penales, señala que la entrada en vigor del mismo, a nivel federal será gradualmente en los términos previstos en la Declaratoria que al efecto emita el Congreso de la Unión, sin que pueda exceder del dieciocho de junio de dos mil dieciséis;
+###### ARTICULO 1°.
 
-OCTAVO. El diecinueve de noviembre de dos mil catorce se publicó en el Diario Oficial de la Federación el Acuerdo General 36/2014 del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y que reforma y adiciona disposiciones de diversos Acuerdos Generales;
+La presente ley es de orden público e interés social, y tiene por objeto regular las acciones que en materia de protección civil se lleven a cabo en el Estado de Tamaulipas, siendo su observancia de carácter obligatorio para las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y, en general, para todas las personas que por cualquier motivo residan, habiten o transiten en la Entidad.
 
-NOVENO. El Pleno del Consejo de la Judicatura Federal, en sesión de cuatro de febrero de dos mil quince, aprobó la propuesta del proyecto arquitectónico de edificación de los Centros de Justicia Penal Federal Provisionales, así como de la propuesta de la plantilla de personal de los mismos, en términos del modelo de 2 jueces de Distrito y 1 Sala de Audiencias;
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-DÉCIMO. En sesión de cuatro de marzo de dos mil quince el Pleno del Consejo de la Judicatura Federal, aprobó el punto de acuerdo presentado por el grupo de trabajo para la Implementación del Sistema de Justicia Penal, relativo a la habilitación provisional como tribunales de alzada del nuevo Sistema de Justicia Penal a los Tribunales Unitarios de Circuito; y
+Cuando en la presente ley se haga referencia a las palabras "Ley o Reglamento", se referirá a la Ley de Protección Civil para el Estado de Tamaulipas o a su propio Reglamento, según corresponda.
 
-DÉCIMO PRIMERO. El veintiséis de febrero de dos mil dieciséis se publicó en el Diario Oficial de la Federación el Decreto del Congreso de la Unión de la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, a partir del veintinueve de abril de dos mil dieciséis, en los estados de Campeche, Michoacán, Sonora y Veracruz.
+###### ARTICULO 2°.
 
-Actualmente se cuenta con la infraestructura física para la instalación de un Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo.
+Para los efectos de esta Ley se entiende por:
 
-Por lo anterior, se expide el siguiente
+I.- Agentes Destructivos.- A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, y socio-organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre;
 
-ACUERDO
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 1.
+II.- Albergue.- Instalación temporal, estatal o municipal, o particular destinada a dar techo, cama y alimentos dignos, a los damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
-El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones del Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo.
+III.- Alto Riesgo.- Al inminente o muy probable ocurrencia de una emergencia o desastre;
 
-###### Artículo 2.
+IV.- Apoyo.- Al conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre;
 
-Para efectos del presente Acuerdo se entenderá por:
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-I. Administrador: Juez de Distrito encargado de la administración del Centro de Justicia Penal Federal;
+V.- Auxilio.- Las acciones destinadas primordialmente a salvaguardar la integridad física, salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda, salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
 
-II. Centro: Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo;
+VI.- Damnificado.- A la persona que sufre en su integridad física o en sus bienes daños de consideración, provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas;
 
-III. Consejo: Consejo de la Judicatura Federal;
+VII.- Desastre.- Al evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas humanas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad. También se les considera calamidades públicas;
 
-IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
+VIII.- Emergencia.- La situación derivada de fenómenos naturales, actividades humanas o desarrollo tecnológico que pueden afectar la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata;
 
-V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio;
+IX.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de esta ley, existen establecimientos de competencia Estatal, y de competencia Municipal;
 
-VI. Juzgadores: Jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-VII. Pleno: Pleno del Consejo; y
+IX Bis.- Fenómeno Antropogénico.- Agente perturbador producido por la actividad humana;
 
-VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-###### Artículo 3.
+X.- Fenómeno geológico.- Calamidad que tiene como causa las acciones y movimientos violentos de la corteza terrestre. A esta categoría pertenecen los sismos o terremotos, las erupciones volcánicas, los tsunamis o maremotos y la inestabilidad de suelos, también conocido como movimientos de tierra, los que pueden adoptar diferentes formas: arrastre lento o reptación, deslizamiento, flujo o corriente, avalancha o alud, derrumbe y hundimiento;
 
-El Centro iniciará funciones a partir de las cero horas del veintinueve de abril de dos mil dieciséis.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-###### Artículo 4.
+X Bis.- Fenómeno Natural Perturbador.- Agente perturbador producido por la naturaleza;
 
-El Centro se integrará por tres jueces de Distrito y un Tribunal de Alzada, y los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales. Uno de los jueces de Distrito fungirá como Administrador.
+XI.- Fenómeno hidrometeorológico.- Calamidad que se genera por la acción violenta de los agentes atmosféricos, tales como: ciclones tropicales, huracanes, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; tornados; sequías y las ondas cálidas y gélidas;
 
-El turno como Administrador corresponderá al Juez de Distrito del Centro que sea designado por el Consejo, cuya duración en el cargo será conforme a lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+XII.- Fenómeno químico-tecnológico.- Calamidad que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas y radiaciones;
 
-###### Artículo 5.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-Los juzgadores del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+XIII.- Fenómeno sanitario-ecológico.- Calamidad que se genera por la acción patógena de agentes biológicos que atacan a la población, a los animales y a las cosechas, causando su muerte o la alteración de salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
 
-###### Artículo 6.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-La jurisdicción territorial de los juzgadores del Centro comprenderá el Estado de Sonora, con la totalidad de sus municipios.
+XIV.- Fenómeno Socio-Organizativo.- Calamidad generada por motivo de errores o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres, e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
 
-###### Artículo 7.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-El domicilio del Centro será el ubicado en Boulevard Paseo Río Sonora número 76, fraccionamiento Río Sonora XXI, código postal 83270, Hermosillo, Sonora.
+XIV Bis.- Gestión Integral de Riesgos.- El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucre a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
-Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
+XV.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
 
-###### Artículo 8.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-El Centro contará con una Oficialía de Partes Común, que dará servicio a los juzgadores que lo integran, de conformidad con las disposiciones aplicables.
+XV Bis.- Mitigación.- Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
 
-El sistema de turno y distribución de asuntos será automatizado y aleatorio, con excepción de lo siguiente:
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-I. Los asuntos urgentes que se reciban durante las guardias, cuya atención corresponderá al juez de Distrito que deba cubrirla; y
+XV Ter.- Peligro.- Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
 
-II. Los asuntos relacionados durante las etapas procesales de investigación, e intermedia o de preparación del juicio.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Corresponde a las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
+XV Quater.- Preparación.- Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
 
-En el diseño del sistema se deberá tomar en consideración las guardias, las vacaciones, las licencias, los impedimentos y las sustituciones de juzgadores.
+XVI.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
 
-En aquellas situaciones en que por caso fortuito o fuerza mayor no pueda utilizarse el sistema automatizado, el Oficial de Partes con la anuencia y supervisión del Administrador turnará los asuntos nuevos en el estricto orden secuencial en que se presenten; y los relacionados a que se refiere la fracción II de este artículo al juzgador correspondiente, sin embargo, deberá observarse que aquellos jueces de Distrito que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-###### Artículo 9.
+XVII.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la integridad física, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
 
-A partir de las cero horas del veintinueve de abril de dos mil dieciséis, la Oficialía de Partes del Centro, funcionará las veinticuatro horas, todos los días del año, para la recepción, registro, turno y envío de los asuntos.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-No obstante lo dispuesto en el párrafo anterior, de lunes a viernes durante el horario de las dieciocho a las ocho horas con cincuenta y nueve minutos del día siguiente, así como los días inhábiles, la Oficialía de Partes sólo recibirá las promociones de término que se presenten.
+XVIII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos;
 
-###### Artículo 10.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Los juzgadores, así como el personal adscrito a los mismos, laborarán de lunes a viernes de las nueve a las quince horas y de las dieciséis a las dieciocho horas, con una hora para la ingesta de alimentos, fuera de las instalaciones del Centro, de las quince a las dieciséis horas, sin perjuicio de las medidas de organización interna que adopten sus titulares atendiendo a las necesidades del servicio.
+XVIII Bis.- Refugio Temporal.- La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
 
-###### Artículo 11.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Las guardias de turno para la atención de asuntos en días y horas inhábiles de los jueces de Distrito en su función de control se realizarán de forma semanal, de conformidad con los registros y programación que realice el Administrador.
+XVIII Ter.- Resiliencia.- Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
 
-La guardia de turno en días y horas inhábiles, finaliza el día lunes de cada semana a las ocho horas con cincuenta y nueve minutos e inicia el mismo día a las nueve horas.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-El Administrador del Centro adoptará las medidas administrativas necesarias, a fin de que el Tribunal de Alzada del Centro esté en posibilidad de resolver las apelaciones de término previstas en el Código Nacional de Procedimientos Penales.
+XIX.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre;
 
-###### Artículo 12.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Los juzgadores que integran el Centro llevarán Libros de Gobierno Electrónicos, que se integrarán con la información que se registre en el sistema informático respectivo.
+XIX Bis.- Simulacro.- Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
 
-###### Artículo 13.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Los reportes estadísticos deberán remitirse a la Dirección General de Estadística Judicial, en la forma y tiempos que ésta determine.
+XIX Ter.- Sistema Nacional.- El Sistema Nacional de Protección Civil;
 
-###### Artículo 14.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
 
-Los juzgadores del Centro, deberán levantar de manera individual un acta administrativa, por duplicado, del inicio de sus funciones, cuyo formato les será proporcionado por la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, debiendo remitir un ejemplar a la propia Secretaría Ejecutiva.
+XIX Quater.- Siniestro.- Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
 
-###### Artículo 15.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-El Centro contará con el número suficiente de defensores públicos y oficiales de apoyo, en razón de la cantidad de los juzgadores que lo integran.
+XX.- Zona de desastre.- Espacio territorial determinado en el tiempo para la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad; y
 
-###### Artículo 16.
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-Los jueces de control contarán con un sistema de acceso electrónico, mediante mecanismos tecnológicos que aseguren la confidencialidad de la información, para favorecer la comunicación con el Ministerio Público de la Federación y demás autoridades, así como con las personas autorizadas por éstas, que por razón de su función deban ingresar solicitudes de providencias precautorias o relacionadas con medidas de protección, así como actos de investigación que requieren autorización judicial, solicitudes de órdenes de aprehensión o comparecencia, entre otras.
+XXI.- Zona de salvaguarda.- Espacio territorial comprendido entre el área en la cual se realizan las actividades altamente riesgosas o riesgosas, con objeto de amortiguar las eventuales consecuencias para la población de la presencia de una contingencia o emergencia derivada de dichas actividades.
 
-###### Artículo 17.
+###### ARTICULO 3°.
 
-En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
+Para los efectos de esta ley, se considera de orden público e interés social:
 
-I. La sustitución recaerá en otro juez de Distrito del mismo Centro, con exclusión de aquel que funja como Administrador;
+I.- El establecimiento y consecución de la protección civil en el Estado de Tamaulipas;
 
-II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en el Administrador, en términos del artículo 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano.
+II.- La elaboración, aplicación, evaluación y difusión del Programa Estatal y Municipal de Protección Civil, según corresponda;
 
-Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Quinto Circuito con residencia en Hermosillo, Sonora, para conocer, con ese carácter y en el orden numérico de su denominación de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 18.
+III.- Las acciones de capacitación, prevención, auxilio, recuperación, y apoyo que para el cumplimiento de la presente ley se realicen; y
 
-El personal del Centro junto con sus juzgadores disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso deberán de permanecer dos jueces de Distrito en el Centro, para lo cual deberá contabilizarse al que funja como Administrador, supuesto en el cual se deberá observar lo previsto en el artículo 8, fracción I, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-El personal del Tribunal de Alzada del Centro disfrutará de los períodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
+IV.- La instalación de albergues temporales, por autoridades estatales, municipales, o privados, para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
-La propia Comisión de Carrera Judicial, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
+###### ARTICULO 4°.
 
-###### Artículo 19.
+Para los efectos de esta ley, se consideran autoridades de protección civil en el Estado, a:
 
-El Pleno y las Comisiones del Consejo, en el ámbito de su competencia, interpretarán y resolverán todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente Acuerdo.
+I.- El Gobernador del Estado;
+
+II.- El Secretario General de Gobierno;
+
+III.- Los Presidentes Municipales;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IV.- El Coordinador Estatal de Protección Civil; y
+
+V.- Los Titulares de las Unidades Administrativas de Protección Civil de los Municipios.
+
+###### ARTICULO 5°.
+
+Corresponde al Ejecutivo del Estado y a los Presidentes Municipales dentro de sus respectivas competencias:
+
+I.- La aplicación de la presente ley y de los ordenamientos que de ella se deriven, en el ámbito de sus respectivas competencias;
+
+II.- La elaboración, aplicación, evaluación y difusión del Programa Estatal o Municipal de Protección Civil, en el ámbito de sus respectivas competencias;
+
+III.- Promover la participación de la sociedad en la protección civil;
+
+IV.- Crear los Fondos de Desastres Estatal o Municipal según sea el caso, para la atención de emergencias originadas por riesgos, altos riesgos, emergencias o desastres. La aplicación de estos Fondos, se hará conforme a las disposiciones presupuestales y legales aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+V.- Incluir acciones y programas sobre la materia, en los Planes de Desarrollo Estatal y Municipal, según corresponda;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VI.- Instalar albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas; y
+
+VII.- Celebrar convenios de colaboración y coordinación en materia de esta ley.
+
+###### ARTICULO 6°.
+
+Las autoridades estatales y municipales, promoverán la creación de órganos especializados de emergencia, según sea la mayor presencia de riesgos ocasionados en una determinada zona por cualquiera de los cinco tipos de agentes destructivos.
+
+###### ARTICULO 7°.
+
+Es obligación de todas las Dependencias y Entidades de la Administración Pública del Estado y de los Municipios, así como de cualquier persona que resida o transite en la Entidad, el cooperar de manera coordinada con las autoridades competentes, en la consecución de la protección civil. Las autoridades que no proporcionen la cooperación y las facilidades a las unidades y personal de protección civil, incurrirán en las responsabilidades que fije la ley en la materia.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 8°.
+
+El Gobierno del Estado y el de los Municipios contemplarán dentro de sus respectivos, Presupuestos de Egresos, las partidas necesarias para el cumplimiento de las funciones y acciones que se establecen en la presente ley. Dichas Partidas no podrán ser reducidas o transferidas a otras acciones de Gobierno.
+
+### CAPITULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
+
+###### ARTICULO 9°.
+
+Se crea el Sistema Estatal de Protección Civil, como parte integrante del Sistema Nacional, el cual comprenderá las instancias, lineamientos y objetivos establecidos en la Entidad, para la materialización de la protección civil.
+
+###### ARTICULO 10.
+
+El Sistema Estatal de Protección Civil tendrá como objetivo fundamental ser el instrumento de información, en materia de protección civil, que reúna en conjunto los principios, normas, políticas, procedimientos y acciones, que en esa materia se hayan vertido, así como la información relativa a la estructura orgánica de los cuerpos de protección civil de los sectores público, privado o social, que operen en la Entidad, su rango de operación, personal, equipo y capacidad de auxilio que permita prevenir riesgos, y altos riesgos, así como desarrollar mecanismos de respuesta a desastres o emergencias, y planificar la logística operativa y de respuesta a ellos.
+
+Reglamentariamente se establecerán las bases de operación del Sistema Estatal de Protección Civil.
+
+###### ARTICULO 11.
+
+El Sistema Estatal de Protección Civil se integrará enunciativamente con la información de:
+
+I.- El Consejo Estatal de Protección Civil;
+
+II.- El Centro Estatal de Operaciones;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III.- La Coordinación Estatal de Protección Civil;
+
+IV.- Los Sistemas Municipales de Protección Civil;
+
+V.- Las Dependencias o Unidades Administrativas Municipales, cuyo objeto sea la protección civil;
+
+VI.- Los Grupos Voluntarios;
+
+VII.- Las Unidades de Respuesta en los Establecimientos; y
+
+VIII.- En general, la información relativa a las Unidades de Protección Civil, cualesquiera que sea su denominación, de los sectores público, social y privado, que operen en el Estado de Tamaulipas.
+
+###### ARTICULO 12.
+
+Debe integrarse además al Sistema Estatal de Protección Civil, la información aportada por las Delegaciones, Representaciones y Dependencias de la Administración Pública Federal que desarrollen actividades en el Estado, tendientes a la ejecución de programas de prevención, auxilio y apoyo de la población o que atiendan asuntos relacionados con el ramo.
+
+### CAPITULO III. DEL CONSEJO DE PROTECCION CIVIL DEL ESTADO DE TAMULIPAS (SIC)
+
+###### ARTICULO 13.
+
+El Consejo de Protección Civil del Estado de Tamaulipas es la institución de coordinación, planeación y supervisión del Sistema Estatal de Protección Civil, así como de colaboración y participación, que tiene como fin proteger la vida, la salud y el patrimonio de las personas; la planta productiva, la prestación de servicios públicos y el medio ambiente; ante los riesgos, altos riesgos, emergencias o desastres producidos por causas de origen natural o humano.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+El Consejo de Protección Civil del Estado ejercerá todas las acciones necesarias para garantizar la salud y seguridad de los habitantes del Estado ante la amenaza de cualquier peligro inminente, sin importar su tipo u origen.
+
+###### ARTICULO 14.
+
+El Consejo de Protección Civil del Estado de Tamaulipas, se integra por:
+
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- Un Secretario Ejecutivo, que será el Secretario General de Gobierno;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III.- Un Secretario Técnico, que será el Coordinador Estatal de Protección Civil del Estado;
+
+IV.- Un Diputado, representante del Congreso del Estado, quien asistirá con carácter de vocal;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+V.- El Secretario de Bienestar Social del Estado, quien asistirá con carácter de vocal;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+
+VI.- El Secretario de Educación, del Estado, quien asistirá con carácter de vocal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+
+VII.- El Secretario de Desarrollo Urbano y Medio Ambiente;
+
+VIII.- Un representante por cada uno de los Sistemas Municipales de Protección Civil, quienes tendrán el carácter de vocales; y
+
+IX.- Los representantes de los grupos voluntarios que operen en el Estado, quienes tendrán carácter de vocales.
+
+Con excepción del Secretario Técnico, cada Consejero propietario nombrará a un suplente.
+
+A convocatoria del Consejo, se invitará a participar a los representantes de las organizaciones del sector social y privado, y de las instituciones de educación superior del Estado, interviniendo en las sesiones con voz pero sin voto.
+
+Los cargos de Consejeros serán honoríficos.
+
+###### ARTICULO 15.
+
+El Consejo de Protección Civil del Estado de Tamaulipas tendrá las siguientes atribuciones:
+
+I.- Conducir y operar el Sistema Estatal de Protección Civil;
+
+II.- Fungir como órgano de consulta y de coordinación de acciones del Gobierno del Estado para integrar, concertar e inducir las actividades de los diversos participantes e interesados en la protección civil, con la finalidad de garantizar el objetivo fundamental del Sistema Estatal de Protección Civil;
+
+III.- Convocar, coordinar y armonizar, con pleno respeto a su autonomía, la participación de los Municipios y la de los diversos grupos sociales del Estado en la definición y ejecución de las acciones que se convenga realizar en la materia;
+
+IV.- Fomentar la participación comprometida y responsable de todos los sectores de la sociedad en la formulación y ejecución del Programa Estatal de Protección Civil y de los programas especiales destinados a satisfacer las necesidades de protección civil del Estado;
+
+V.- Vigilar el adecuado uso y aplicación de los recursos que se asignen a la prevención, apoyo, auxilio y recuperación a la población ante un desastre;
+
+VI.- Fomentar la creación de los Sistemas Municipales de Protección Civil;
+
+VII.- Constituir las Comisiones o Comités que estime necesarios para la realización de su objetivo, delegando las facultades o atribuciones correspondientes, sin perjuicio de su ejercicio directo;
+
+VIII.- Promover el estudio, la investigación y la capacitación en materia de protección civil;
+
+IX.- Aprobar los programas para la generación de una cultura de protección civil, gestionando ante las autoridades correspondientes su incorporación en el Sistema Educativo Estatal;
+
+X.- Elaborar, publicar y distribuir material informativo de protección civil, a efecto de difundirlo con fines de prevención y orientación;
+
+XI.- Convocar y coordinar, con pleno respeto a sus respectivas atribuciones, la participación de las Dependencias Federales establecidas en la Entidad;
+
+XII.- Recibir, estudiar y, en su caso, aprobar, el informe anual de los trabajos del Consejo; y
+
+XIII.- Las demás atribuciones afines a estas, que le sean encomendadas por el Gobernador del Estado, o que establezcan las leyes y sus reglamentos.
+
+###### ARTICULO 16.
+
+El Consejo de Protección Civil del Estado de Tamaulipas celebrará, en los términos de su reglamento interior, por lo menos dos sesiones ordinarias al año y las sesiones extraordinarias que se requieran, a convocatoria de su Presidente.
+
+Para que las sesiones sean válidas, se requiere la asistencia de cuando menos la mitad más uno de los integrantes del Consejo.
+
+###### ARTICULO 17.
+
+Para la aprobación de los asuntos planteados al Consejo, se requiere el voto de la mitad más uno de los asistentes a la sesión.
+
+Una vez realizada la votación, y aprobado el asunto planteado, se emitirá la resolución o el acuerdo respectivo.
+
+###### ARTICULO 18.
+
+Las convocatorias para las sesiones contendrán referencia expresa de la fecha y lugar en que se celebrarán, naturaleza de la sesión y el orden del día que contendrá, por lo menos, los siguientes puntos:
+
+I.- Verificación del quórum para declarar la apertura de la sesión;
+
+II.- Lectura y, en su caso, aprobación del acta de la sesión anterior; y
+
+III.- Los asuntos determinados a tratar.
+
+De cada sesión se levantará acta que contenga las resoluciones y acuerdos tomados.
+
+###### ARTICULO 19.
+
+Corresponde al Presidente del Consejo;
+
+I.- Presidir las sesiones del Consejo;
+
+II.- Ordenar se convoque a sesiones ordinarias y extraordinarias;
+
+III.- Proponer el orden del día a que se sujetará la sesión;
+
+IV.- Vigilar el cumplimiento de los acuerdos;
+
+V.- Contar con voto de calidad en caso de empate, en las sesiones;
+
+VI.- Aprobar y evaluar el Programa Estatal de Protección Civil, procurando además su más amplia difusión en el Estado;
+
+VII.- Expedir el reglamento de operación del Sistema Estatal de Protección Civil;
+
+VIII.- Vincular, coordinar y, en su caso, solicitar apoyo al Sistema Nacional de Protección Civil, para garantizar mediante una adecuada planeación, la seguridad, auxilio y rehabilitación de la población civil y su entorno ante algún riesgo, alto riesgo, emergencia o desastre;
+
+IX.- Coordinar acciones con las dependencias federales y con las instituciones privadas y del sector social, en la aplicación y distribución de la ayuda nacional e internacional que se reciba en caso de alto riesgo, emergencia o desastre;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+X.- Evaluar, ante una situación de emergencia o desastre, la capacidad de respuesta del Estado y, en su caso, la pertinencia de solicitar apoyo al Gobierno Federal, debiendo tomar las medidas preventivas inminentes para evitar cualquier daño a la población;
+
+XI.- Proponer al Consejo la integración de los comités o comisiones de trabajo que se estimen necesarias;
+
+XII.- Ordenar la integración y coordinación de los equipos de trabajo para dar respuesta frente a emergencias, y desastres, especialmente para asegurar el mantenimiento y pronto restablecimiento de los servicios fundamentales;
+
+XIII.- Hacer la declaratoria formal de emergencia;
+
+XIV.- Autorizar:
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+a).- La puesta en operación de los programas de emergencia para los diversos factores de riesgo, así como la implementación de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas; y
+
+b).- La difusión de los avisos y alertas respectivas;
+
+XV.- Convocar al Centro Estatal de Operaciones; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE OCTUBRE DE 2019)</small>
+
+XVI.- Las demás que le confiera la ley y las que le otorgue el Consejo.
+
+###### ARTICULO 20.
+
+Corresponde al Secretario Ejecutivo:
+
+I.- En ausencia del Presidente propietario, presidir las sesiones del Consejo, y realizar las declaratorias formales de emergencia;
+
+II.- Dar seguimiento a las disposiciones y acuerdos del Consejo;
+
+III.- Presentar al Consejo, para su aprobación, el Anteproyecto del Programa Estatal de Protección Civil;
+
+IV.- Ejercer la representación legal del Consejo; y
+
+V.- Las demás que le confieran la presente ley, sus reglamentos, y las que provengan de acuerdos del Consejo, o del Gobernador del Estado.
+
+###### ARTICULO 21.
+
+Corresponde al Secretario Técnico:
+
+I.- Elaborar y someter a la consideración del Secretario Ejecutivo el programa de trabajo del Consejo;
+
+II.- Previo acuerdo del Presidente del Consejo, formular el orden del día para cada sesión;
+
+III.- Convocar, por escrito, a las sesiones ordinarias y extraordinarias del Consejo, cuando su Presidente así lo determine;
+
+IV.- Verificar que el quórum legal para cada sesión del Consejo, se encuentre reunido y comunicarlo al Presidente del Consejo;
+
+V.- Elaborar y certificar las actas del Consejo, y dar fe de su contenido;
+
+VI.- Registrar las resoluciones y acuerdos del Consejo, y sistematizarlos para su seguimiento;
+
+VII.- Informar al Consejo sobre el estado que guarde el cumplimiento de los acuerdos y resoluciones;
+
+VIII.- Rendir un informe anual de los trabajos del Consejo;
+
+IX.- Previo acuerdo del Secretario Ejecutivo, ejercer la representación legal del Consejo;
+
+X.- Conducir operativamente al Sistema Estatal de Protección Civil;
+
+XI.- Reunir, introducir y mantener actualizada la información del Sistema Estatal de Protección Civil;
+
+XII.- Rendir cuenta al Consejo del estado operativo del Sistema Estatal de Protección Civil;
+
+XIII.- Llevar el registro de los recursos disponibles para casos de emergencias y desastres; y
+
+XIV.- Los demás que les confieran las leyes, sus reglamentos, el Consejo, su Presidente o su Secretario Ejecutivo.
+
+### CAPITULO IV. DEL CENTRO ESTATAL DE OPERACIONES
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 22.
+
+La Coordinación Estatal contará de manera permanente (sic) un Centro Estatal de Operaciones, responsable de atender operativamente los riesgos, emergencias o desastres que afecten al Estado y los albergues que se instalen. El Centro podrá integrar a los responsables de las dependencias de la administración pública estatal, municipal y, en su caso, de las federales que se encuentren establecidas en la entidad, así como representantes de los sectores social y privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 23.
+
+Compete al Centro Estatal de Operaciones:
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+I.- Coordinar y dirigir técnica y operativamente la atención del alto riesgo, emergencia o desastre y los albergues que se instalen albergues (sic) para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas;
+
+II.- Realizar la planeación táctica, logística y operativa, de los recursos necesarios, su aplicación, y las acciones a seguir;
+
+III.- Aplicar el plan de emergencia o los programas aprobados por el Consejo, y asegurar la adecuada coordinación de las acciones que realicen los grupos voluntarios; y
+
+IV.- Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+### CAPITULO V. DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 24.
+
+La Coordinación Estatal de Protección Civil es una dependencia del Poder Ejecutivo del Estado, con autonomía técnica y operativa, jerárquicamente subordinada a la Secretaría General de Gobierno, la cual tendrá por objeto ejecutar las políticas, programas y acciones de protección civil en la entidad con el fin de salvaguardar a las personas, su patrimonio y entorno, así como lo relativo a los servicios vitales y estratégicos, en casos de riesgo, emergencia, siniestro o desastre.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 25.
+
+La Coordinación Estatal de Protección Civil se integrará por:
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+I.- Un Coordinador Estatal;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+II.- Un Centro Estatal de Operaciones;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+III.- Los Centros Regionales que se establezcan, conforme al Plan Estatal de Protección Civil; y
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+IV.- El personal técnico, administrativo u operativo que sea necesario y el presupuesto permita.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Esta Ley y su Reglamento determinarán la estructura orgánica, atribuciones específicas y procedimientos de operación de la Coordinación Estatal, del Centro Estatal de Operaciones y de los Centros Regionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 25 BIS.- Los Centros Regionales de Protección Civil son la estructura operativa del Sistema Estatal de Protección Civil, dependientes de la Coordinación Estatal. Sus acciones las desplegarán en conjunto con las dependencias, entidades, instituciones y organismos del sector público, y la debida concertación con los sectores social y privado, con los grupos voluntarios y la población en general, en el ámbito de la competencia y jurisdicción territorial que le correspondan.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Los Centros Regionales de Protección Civil contarán con un Director y el personal técnico, administrativo y operativo necesario para el ejercicio de sus funciones, en los términos del Reglamento.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+En el caso de situaciones de emergencia, el Centro Regional recibirá en sus instalaciones a los miembros del Consejo Estatal de Protección Civil en sesión permanente, quienes, agrupados en sus comisiones particulares, se abocarán a la atención de los asuntos específicos de su área de competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 26.
+
+La Coordinación Estatal de Protección Civil tendrá las siguientes atribuciones:
+
+I.- Elaborar y presentar para su aprobación, al Presidente del Consejo de Protección Civil del Estado, por conducto de su Secretario Ejecutivo, el anteproyecto del Programa Estatal de Protección Civil, así como sus subprogramas, planes y programas especiales;
+
+II.- Elaborar el inventario de recursos humanos y materiales disponibles en la Entidad, para hacer frente a un riesgo, alto riesgo, emergencia o desastre; vigilar su existencia y coordinar su manejo;
+
+III.- Proponer, coordinar y ejecutar las acciones de auxilio y recuperación para hacer frente a las consecuencias de un riesgo, alto riesgo, emergencia o desastre, procurando el mantenimiento o pronto restablecimiento de los servicios públicos prioritarios en los lugares afectados;
+
+IV.- Establecer y operar los centros de acopio de recursos y abastecimientos, para recibir y brindar ayuda a la población afectada por un riesgo, alto riesgo, emergencia o desastre;
+
+V.- Organizar y llevar a cabo acciones de capacitación para la sociedad en materia de protección civil;
+
+VI.- Coadyuvar en la promoción de la cultura de protección civil, promoviendo lo conducente ante las autoridades del sector educativo;
+
+VII.- Proponer las medidas y los instrumentos que permitan el establecimiento de eficientes y oportunos canales de colaboración entre la Federación, el Estado y los Municipios en materia de protección civil;
+
+VIII.- Identificar los altos riesgos que se presenten en el Estado de Tamaulipas, integrando el atlas correspondiente y apoyar a las Unidades Municipales de Protección Civil para la elaboración de sus mapas de riesgos;
+
+IX.- Promover la integración de las Unidades Internas de Protección Civil en las Dependencias y Organismos de la Administración Pública Estatal y de la Federal establecidas en la Entidad y de manera supletoria en las municipales;
+
+X.- Proporcionar información y dar asesoría a los establecimientos, sean empresas, instituciones, organismos, asociaciones privadas y del sector social, para integrar sus unidades internas de respuesta y promover su participación en las acciones de protección civil;
+
+XI.- Llevar el registro, validar, capacitar y coordinar la participación de los grupos voluntarios;
+
+XII.- Establecer el subsistema de información de cobertura estatal en la materia, el cual deberá contar con mapas de riesgos y archivos históricos sobre emergencias y desastres ocurridos en el Estado;
+
+XIII.- En caso de alto riesgo, emergencia o desastre, formular la evaluación inicial de la magnitud de la contingencia, presentando de inmediato esta información al Presidente del Consejo de Protección Civil del Estado de Tamaulipas y al Secretario Ejecutivo;
+
+XIV.- Proponer un programa de premios y estímulos a ciudadanos u organizaciones gubernamentales, sociales, privadas y grupos voluntarios que realicen acciones relevantes en materia de protección civil;
+
+XV.- Fomentar la participación de los medios de comunicación masiva electrónicos o escritos, a fin de llevar a cabo campañas permanentes de difusión;
+
+XVI.- Promover la protección civil en sus aspectos normativo, operativo, de coordinación y de participación, buscando el beneficio de la población del Estado;
+
+XVII.- Realizar acciones de auxilio y recuperación para atender las consecuencias de los efectos destructivos de un desastre;
+
+XVIII.- Coordinarse con las autoridades federales y municipales, así como con Instituciones y grupos voluntarios para prevenir y controlar riesgos, altos riesgos, emergencias, y desastres;
+
+XIX.- Ejercer la inspección, control y vigilancia, de los establecimientos de competencia estatal siguientes:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+a).- Viviendas para diez familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos y centros vacacionales;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+b).- Universidades, Tecnológicos y centros de estudios superiores en general;
+
+c).- Hospitales, maternidades, centros médicos, clínicas y puestos de socorro;
+
+d).- Cinemas, teatros, auditorios, gimnasios, estadios, arenas, autódromos, plazas de toros, hipódromos y velódromos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+e).- Centros o clubes sociales o deportivos y balnearios;
+
+f).- Casinos, centros nocturnos, discotecas o salones de baile;
+
+g).- Museos, galerías de arte, centros de exposición, salas de conferencias y bibliotecas;
+
+h).- Templos y demás edificios destinados al culto;
+
+i).- Centros comerciales, supermercados, tiendas de departamentos y mercados;
+
+j).- Oficinas de la Administración Pública Estatal, incluyendo las correspondientes a organismos descentralizados y concesionarios de servicios públicos, así como las dedicadas a oficinas de administración privada, de profesionales, de la industria, de la banca y del comercio;
+
+k).- Centrales y delegaciones de policía, penitenciarias, y demás edificios e instalaciones destinados a proporcionar y preservar la seguridad pública;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+l).- Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a dos mil metros cuadrados;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+m).- Rastros de semovientes y aves, empacadoras, granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+n).- Centrales de correos, de teléfonos, estaciones y torres de radio, televisión y sistemas de microondas;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+o).- Terminales y estaciones de ferrocarriles, de transportes de carga, de transporte de pasajeros urbanos y foráneos, y aeropuertos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+p).- Edificios para estacionamientos de vehículos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+q).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor de mil quinientos metros cuadrados;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+r).- Edificaciones para almacenamiento, distribución o expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+s).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor a los mil quinientos metros cuadrados; y
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+t).- Albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
+
+XX.- Determinar la existencia de riesgos en los establecimientos, así como dictar las medidas para prevenir o controlarlos;
+
+XXI.- Señalar las medidas de seguridad necesarias e imponer las sanciones correspondientes conforme a la presente ley;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+XXII.- Coadyuvar, con el Consejo de Protección Civil del Estado de Tamaulipas, en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+XXIII.- Elaborar y presentar anualmente para su aprobación al Presidente del Consejo de Protección Civil, el Programa Escolar de Protección Civil, con el propósito de establecer acciones de prevención, auxilio, albergue y recuperación destinadas a salvaguardar la integridad física de la comunidad educativa, así como proteger las instalaciones, bienes muebles e información, ante la ocurrencia de cualquier situación de emergencia, del cual se deberá rendir informe anual que indicará sus alcances;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXIV.- Verificar la implementación del Protocolo de Seguridad Código Adam en todos los edificios públicos o privados que sean frecuentados por menores de edad dentro del Estado de Tamaulipas; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+
+XXV.- Elaborar el Protocolo de actuación para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores; y
+
+XXVI.- Las demás que le confiera el Ejecutivo del Estado, el Secretario General de Gobierno, la presente ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+El Reglamento de la Ley, determinará las respectivas competencias de vigilancia y aplicación de los órganos de la Coordinación Estatal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 27.
+
+La Coordinación Estatal de Protección Civil promoverá que los establecimientos a que se refiere esta ley, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las Unidades Municipales.
+
+Los establecimientos deberán realizar, asistidos por la Coordinación Estatal de Protección Civil o de la unidad municipal, según corresponda, cuando menos dos veces al año, simulacros para hacer frente a altos riesgos, emergencias o desastres.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+
+ARTICULO 27 BIS.- En el caso de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares, deberán contar con sus propias unidades internas de respuesta.
+
+Estos establecimientos deberán realizar, con la asistencia de personal de la Coordinación General de Protección Civil, simulacros de evacuación para hacer frente a altos riesgos, emergencias o desastres.
+
+Además deberán contar con un programa de seguridad y contingencia aprobado por la Secretaria de Seguridad Pública y la Coordinación General de Protección Civil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 28.
+
+Corresponde al Coordinador Estatal de Protección Civil:
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+I.- Dirigir, supervisar, y evaluar todas las acciones que se realicen en el desarrollo de las atribuciones de la Coordinación;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II.- Dirigir las acciones de la Coordinación con las autoridades Federales, Estatal y Municipales, así como con los sectores social y privado, para organizar la prevención y control de altos riesgos, emergencias y desastres;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+III.- Administrar los recursos humanos, materiales y financieros a cargo de la Coordinación;
+
+IV.- Designar al personal que fungirá como inspector, en las inspecciones que se realicen en los establecimientos de competencia estatal;
+
+V.- Ordenar la práctica de inspecciones a los establecimientos de competencia estatal, en la forma y términos que establece esta ley, así como, en su caso, aplicar y ejecutar las sanciones que correspondan; y
+
+VI.- Las demás que le confieran los ordenamientos legales aplicables, las que le confiera el Secretario General de Gobierno, o las que autorice el Consejo de Protección Civil del Estado de Tamaulipas.
+
+### CAPITULO VI. DE LOS SISTEMAS MUNICIPALES DE PROTECCION CIVIL
+
+###### ARTICULO 29.
+
+En cada uno de los Municipios del Estado se establecerán Sistemas de Protección Civil, con la finalidad de organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia o desastre. Al frente de cada Sistema, estará el Presidente Municipal.
+
+###### ARTICULO 30.
+
+Corresponde a los Ayuntamientos de la Entidad, dentro de sus respectivos Municipios:
+
+I.- Formular los reglamentos de protección civil municipal, en congruencia con lo establecido en el orden federal y estatal; así como conducir la política en esta materia;
+
+II.- Prevenir y controlar las emergencias y contingencias que pudieran presentarse en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Dar respuesta ante la (sic) situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, incluyendo la implementación de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas sin perjuicio de solicitar apoyo a las autoridades de protección civil;
+
+IV.- Concertar acciones con los sectores público, social y privado en materia de protección civil conforme a la ley;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)</small>
+
+V.- Establecer y mantener, a través de sus Sistemas Municipales de Protección Civil, un registro de riesgos de siniestros en los establecimientos comerciales, industriales y de servicios que operen en su Municipio, clasificándolos de la siguiente manera:
+
+1.- Alto Riesgo
+
+2.- Medio Riesgo
+
+3.- Bajo Riesgo
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 31.
+
+Los Ayuntamientos regularán la organización y operación de los Sistemas de Protección Civil municipales, en los términos establecidos en esta Ley y de acuerdo con la disponibilidad presupuestal, así como con base en la probabilidad de riesgos y desastres, incorporando a su organización a los sectores representativos del Municipio, tomando como referencia las bases que establece esta ley para integrar el Consejo Estatal y la Coordinación Estatal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 32.
+
+La estructura y operación de los Sistemas Municipales de Protección Civil será determinada en los reglamentos respectivos, debiendo contar por lo menos, con una unidad de protección civil de carácter operativo, considerando en su constitución y conformación lo siguiente:
+
+I.- La población residente en el Municipio;
+
+II.- Los antecedentes de los riesgos, altos riesgo, emergencias, siniestros y desastres que ha sido afectado el Municipio; y
+
+III.- La infraestructura o instalaciones industriales, agrícolas y comerciales que puedan ser factores de afectación a la población.
+
+###### ARTICULO 33.
+
+Los Municipios, por conducto de sus Sistemas Municipales de Protección Civil, elaborarán planes de prevención de riesgos, altos riesgos, emergencias o desastres, los que deberán ser dados a conocer a la población, mediante su publicación en el Periódico Oficial del Estado, y en uno de los de mayor circulación en la localidad.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 34.
+
+Los Sistemas Municipales, a través de la unidad correspondiente, estudiarán las formas para prevenir los riesgos, altos riesgos, emergencias o desastres, así como reducir y mitigar sus efectos, debiendo desarrollar sus programas en conjunto con la Coordinación Estatal de Protección Civil.
+
+###### ARTICULO 35.
+
+En caso de que los efectos de un alto riesgo, emergencia o desastre rebasen la capacidad de respuesta del correspondiente Sistema Municipal, el Presidente Municipal solicitará de inmediato el apoyo del Sistema Estatal, quien deberá prestar la ayuda respectiva en forma expedita.
+
+###### ARTICULO 36.
+
+Los Sistemas Municipales, sin importar la forma de organización que haya adoptado, deberán cumplir con los siguientes objetivos:
+
+I.- Poner a la consideración del Ayuntamiento y, en su caso, ejecutar el Programa Municipal;
+
+II.- Promover la cultura de protección civil, desarrollando acciones de educación y capacitación a la población, en coordinación con las autoridades de la materia;
+
+III.- Fomentar la participación activa y responsable de todos los habitantes del Municipio;
+
+IV.- Prestar y coordinar el auxilio a la población en caso de que acontezca un alto riesgo, emergencia o desastre;
+
+V.- Realizar la inspección, control y vigilancia de los establecimientos e instalaciones de competencia municipal siguientes:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+a).- Viviendas para hasta diez familias y edificaciones con habitaciones colectivas para menos de cuarenta personas, como asilos, conventos, internados, hoteles, moteles, internados o casas de asistencia, campamentos turísticos, centros vacacionales;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+b).- Edificios destinados a jardines de niños, escuelas de educación básica y media superior, escuelas de artes y educación especial, en general;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+c).- Guarderías, dispensarios, consultorios médicos o dentales y capillas de velación;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+d).- Edificios destinados a oficinas y servicios públicos de la administración pública municipal;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+e).- Mercados o Centrales de abasto;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+f).- Agua potable;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+g).- Alcantarillado;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+h).- Comunicaciones;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+i).- Desarrollo Urbano;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+j).- Electricidad;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+k).- Salud;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+I).- Seguridad Pública;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+m).- Transporte.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+n).- Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores hasta dos mil metros cuadrados;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+o).- Terrenos para estacionamiento de servicios y vehículos;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+p).- Lienzos charros, circos o ferias eventuales;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+q).- Actividades o establecimientos con una superficie menor de dos mil metros cuadrados de construcción;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+r).- Destino final de desechos sólidos;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+s).- Edificaciones para el almacenamiento, distribución y expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+t).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área hasta de mil quinientos metros cuadrados; y
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+u).- Implementación de Albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
+
+VI.- Diseñar y llevar a cabo campañas masivas de divulgación en materia de protección civil;
+
+VII.- Elaborar el respectivo Mapa Municipal de Riesgos;
+
+VIII.- Convocar a funcionarios públicos y a representantes de los sectores social, privado y grupos voluntarios para integrar el Centro Municipal de Operaciones;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+IX.- Promover el equipamiento de los cuerpos de respuesta;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+X.- Ejecutar y en su caso estandarizar el Programa Escolar de Protección Civil, así como implementar los mecanismos de coordinación, con las dependencias y organismos públicos, privados y sociales para su seguimiento; y
+
+XI.- Las demás que acuerde el propio Sistema Municipal.
+
+###### ARTICULO 37.
+
+Los Sistemas Municipales, a través de sus Presidentes, con aprobación del Ayuntamiento, podrán suscribir convenios de colaboración.
+
+### CAPITULO VII. DE LOS GRUPOS VOLUNTARIOS
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 38.
+
+Esta ley reconocerá como grupos voluntarios a las instituciones, organizaciones y asociaciones a que se refiere la fracción IX del artículo 2 de este ordenamiento, que cuenten con su respectivo registro ante la Unidad Municipal de Protección Civil, quien a su vez hará llegar dichos registros a la Coordinación Estatal de Protección Civil.
+
+###### ARTICULO 39.
+
+Los grupos voluntarios deberán organizarse conforme a las siguientes bases:
+
+I.- Territoriales: Formados por los habitantes de una colonia, de una zona, de un centro de población, de uno o varios Municipios del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+II.- Profesionales o de Oficios: Constituidos de acuerdo a la profesión u oficio que tengan;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- De Actividades Específicas: Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones específicas de auxilio; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV.- Planeación, implementación, organización y administración de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
+
+###### ARTICULO 40.
+
+A fin de que los grupos voluntarios internacionales nacionales, o regionales que deseen participar en las acciones de protección civil, obtengan el registro que las acredite como tales, deberán inscribirse previa solicitud ante la Unidad Municipal de Protección Civil.
+
+###### ARTICULO 41.
+
+La solicitud a que hace referencia el artículo anterior contendrá cuando menos:
+
+I.- Acta constitutiva y, en su caso, domicilio del grupo en el Estado;
+
+II.- Bases de organización del grupo;
+
+III.- Relación del equipo con el que cuenta; y
+
+IV.- Programa de capacitación y adiestramiento.
+
+###### ARTICULO 42.
+
+Las personas que deseen desempeñar labores de rescate y auxilio, deberán constituirse en grupos voluntarios organizados o integrarse a uno ya registrado, a fin de recibir información, capacitación y realizar en forma coordinada las acciones de protección civil.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 43.
+
+La preparación específica de los grupos voluntarios deberá complementarse con la ejecución de ejercicios y simulacros, coordinados por la Unidad Municipal y, en su caso, por la Coordinación Estatal de Protección Civil.
+
+###### ARTICULO 44.
+
+Corresponde a los grupos voluntarios:
+
+I.- Gozar del reconocimiento oficial una vez obtenido su registro en la Unidad de Protección Civil;
+
+II.- Participar en los programas de capacitación a la población o brigadas de auxilio;
+
+III.- Solicitar el auxilio de las autoridades de protección civil, para el desarrollo de sus actividades;
+
+IV.- Coordinarse bajo el mando de las autoridades de protección civil, ante la presencia de un alto riesgo, emergencia o desastre;
+
+V.- Cooperar en la difusión de programas y planes de protección civil;
+
+VI.- Coadyuvar en actividades de monitoreo, pronóstico y aviso a la Unidad Municipal de Protección Civil, de la presencia de cualquier riesgo, alto riesgo, emergencia o desastre;
+
+VII.- Realizar los trámites ante las autoridades competentes, para obtener la autorización de recibir donativos deducibles en el impuesto sobre la renta para sus donantes;
+
+VIII.- Aplicar los donativos que se obtengan, para los fines inherentes a la prestación de sus servicios;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX.- Refrendar anualmente su registro ante la Unidad Municipal y, en su caso, ante la Coordinación Estatal de Protección Civil;
+
+X.- Participar en todas aquellas actividades del Programa Estatal o Municipal, que estén en posibilidades de realizar; y
+
+XI.- Las demás que les confieran otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO VIII. OBLIGACIONES DE LAS PERSONAS FISICAS O MORALES EN MATERIA DE PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 45.
+
+Las personas físicas o morales que desarrollen actividades permanentes o transitorias que puedan ocasionar riesgos a la población en general, o a grupos especiales en particular, quedarán sujetas a las disposiciones de esta ley y deberán:
+
+I.- Informar a las autoridades competentes de cualquier acto u omisión que cause o pueda causar una situación de emergencia o desastre;
+
+II.- Cooperar con las autoridades correspondientes en la ejecución de acciones en casos de emergencias o desastres;
+
+III.- Colaborar con las autoridades estatales y los municipales para el debido cumplimiento de los programas de protección civil; y
+
+IV.- Participar, previa solicitud de la autoridad competente, en la difusión del Plan Estatal de Protección Civil y los programas de la materia, principalmente en aquellos relacionados con riesgos que se presenten en su barrio, colonia, zona o centro de población.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 45 BIS.- Para los efectos del presente capítulo, los patrones, propietarios o administradores de los establecimientos deberán capacitar a sus empleados y dotarlos del equipo necesario de respuesta, así como solicitar la asesoría de la Coordinación Estatal de Protección Civil o de la Unidad Municipal que corresponda, tanto para su capacitación, como para el desarrollo de la logística de respuesta a las contingencias.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Los organizadores de eventos especiales y transitorios, en los que se reúnan masivamente personas que eventualmente puedan correr riesgos por eventos emergentes, estarán obligados a contar con la unidad que atienda su plan de contingencias y, en todo caso, se obligarán a proporcionar los recursos humanos y materiales necesarios para realizar una eficaz labor de protección civil. En este caso se observará lo dispuesto por el artículo 93 de esta ley.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+Cuando los efectos de los altos riesgos, emergencias o desastres rebasen la capacidad de repuesta de las unidades internas, sus titulares, sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de las Unidades Municipales de Protección Civil o de la Coordinación Estatal de Protección Civil según la magnitud de la contingencia, sin perjuicio de que la respuesta sea proporcionada por ambas autoridades simultáneamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 46.
+
+Las personas físicas o morales, que desarrollen cualquier actividad que implique un riesgo a las personas, sus bienes o al medio ambiente, tienen el deber de contar con un programa específico de protección civil o plan de contingencias, el cual deberá estar autorizado y supervisado por la Coordinación Estatal de Protección Civil o la Unidad Municipal según corresponda y además tendrán las siguientes obligaciones:
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+I.- Elaborar y presentar ante las autoridades competentes y, a más tardar dentro de los quince días posteriores al inicio de sus actividades, los programas de prevención de accidentes internos y externos, conforme a las disposiciones que establezcan los ordenamientos aplicables;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II.- Elaborar y presentar anualmente, dentro de los dos primeros meses del año de que se trate y ante la Coordinación Estatal o la Unidad de Protección Civil Municipal, la auto-declaratoria de cumplimiento de obligaciones en materia de protección civil;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+III.- Formular las acciones de protección civil, de contingencias, simulacros, rutas de evacuación y demás que sean necesarias para la prevención de situaciones de riesgo, así como aquellos que conforme a las disposiciones aplicables, les requieran para tal efecto las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+IV.- Permitir a la autoridades (sic) en materia de protección civil el acceso a sus instalaciones, a efecto de que practiquen las actividades de inspección, supervisión y verificación que establecen la presente ley y otras disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+V.- Observar y, en su caso, aplicar las normas técnicas y demás medidas de prevención y protección civil que legalmente procedan;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VI.- Establecer y organizar las unidades internas de protección civil que se requiera para la prevención de accidentes, así como para responder ante la eventualidad de una emergencia o desastre;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VII.- Cumplir las medidas correctivas y sanciones que establezcan las autoridades competentes, como resultado de la inspección, supervisión y verificación que se realice en las instalaciones y procesos correspondientes;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Proporcionar la información que les sea requerida por las autoridades competentes para la integración de planes y programas tendientes a la prevención de accidentes y desastres;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+IX.- Prestar apoyo en caso de desastre en cualquier parte del Estado, cuando así se les requiera por parte de las autoridades de protección civil, con el personal y equipo especializado de que dispongan y que deberá estar registrado en el Atlas Estatal de Riesgos; y
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+X.- La demás que determinen la presente ley, las autoridades competentes y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 47.
+
+Los programas de prevención de accidentes de nivel interno que deberán ser presentados ante las autoridades competentes por las personas físicas o morales a que se refiere el presente capítulo, contendrán cuando menos los siguientes aspectos:
+
+I.- La organización para la prevención de accidentes en la empresa, planta o establecimiento de que se trate;
+
+II.- La descripción de los equipos y servicios de emergencia con que cuenten a nivel interno;
+
+III.- El plan de emergencia en que se determinen los procedimientos de respuesta ante la presencia de desastres;
+
+IV.- La descripción de los sistemas de comunicación y alarma, con que cuenten, incluyendo los canales de comunicación, claves, señales y mensajes concretos;
+
+V.- Los procedimientos para el retorno a condiciones normales de operación y de recuperación una vez declarada la conclusión de la emergencia;
+
+VI.- Los programas y constancias de capacitación y entrenamiento, dirigidos a personas de la empresa, planta o establecimiento;
+
+VII.- El programa de simulacros en el que participe exclusivamente el personal correspondiente;
+
+VIII.- La actualización del programa para la prevención de accidentes de nivel interno; y
+
+IX.- Los demás que determinen la presente ley, su reglamento, las autoridades competentes y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 48.
+
+Los programas de prevención de accidentes de nivel externo que deberán ser presentados ante las autoridades competentes por las personas físicas o morales a que se refiere el artículo 45, contendrán cuando menos los siguientes aspectos:
+
+I.- La organización local para la prevención de accidentes en la que participará la empresa, planta o establecimiento, para coordinar las actividades relacionadas con el nivel externo;
+
+II.- Los equipos y servicios de emergencia con que cuenten, para su posible aplicación en el exterior de la empresa, planta o establecimiento;
+
+III.- El plan de emergencia con capacidad de respuesta a desastres, incluyendo acciones de alarma, comunicación, atención, control, retorno y recuperación de los sectores externos de la comunidad afectados por aquellos causados por la empresa, planta o establecimiento;
+
+IV.- Los sistemas de comunicación y alarma necesarias para atender siniestros que rebasen o puedan rebasar los límites de la empresa, planta o establecimiento;
+
+V.- Los procedimientos para el retorno a condiciones normales y de recuperación de la población expuesta o afectada por los desastres producidos;
+
+VI.- Los programas y constancias de capacitación y entrenamiento dirigidos a los organismos, instituciones y población local expuesta a riesgos o desastres;
+
+VII.- Los programas de simulacros en los que participen autoridades, organismos, instituciones y la población;
+
+VIII.- La orientación necesaria para la prevención y acciones en caso de desastres dirigido a la comunidad local;
+
+IX.- La actualización del programa para la prevención de accidentes de nivel externo; y
+
+X.- Los demás que determinen la presente ley, su reglamento, las autoridades competentes y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 49.
+
+Toda persona que realice instalaciones físicas permanentes o transitorias en un lugar sujeto a restricciones especiales, conforme a criterios de las autoridades en materia de protección civil, previo conocimiento de dicha circunstancia, se considera que acepta el riesgo, sin derecho a exigir indemnizaciones o restituciones a la autoridad correspondiente.
+
+Tal presunción no podrá ser invocada por autoridad, si ésta autorizó la instalación en el lugar sin informar a la persona del riesgo. Esto no implica que la autoridad deje de prestar el auxilio correspondiente en caso de emergencia o desastre.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 49 BIS.- En los establecimientos deberá colocarse, en sitios visibles, equipos de seguridad, señales preventivas e informativas y equipo reglamentario.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 50.
+
+Cuando los efectos de los altos riesgos, emergencias o desastres rebasen la capacidad de repuesta de las unidades internas, sus titulares, sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de las Unidades Municipales de Protección Civil o de la Coordinación Estatal de Protección Civil según la magnitud de la contingencia, sin perjuicio de que la respuesta sea proporcionada por ambas autoridades simultáneamente.
+
+## TITULO SEGUNDO. DE LA OPERACION DE LA PROTECCION CIVIL
+
+### CAPITULO I. DEL PROGRAMA ESTATAL DE PROTECCION CIVIL
+
+###### ARTICULO 51.
+
+El Programa Estatal de Protección Civil es el instrumento de ejecución de los planes de protección en la Entidad; en él se precisan las acciones a realizar, se determinaran los responsables y se establecerán los plazos para su cumplimiento, de conformidad con los recursos y medios disponibles.
+
+Este programa deberá, en su caso, ajustarse a los procedimientos de programación, presupuestación y control correspondientes y a las bases establecidas en la materia, en convenios de coordinación.
+
+###### ARTICULO 52.
+
+El Programa Estatal de Protección Civil, así como los subprogramas, programas institucionales, específicos y operativos anuales que se deriven de los mismos, se expedirán, ejecutarán y revisarán conforme las normas generales vigentes en materia de planeación y las disposiciones especificas de esta ley, así como a los lineamientos del Programa Nacional de Protección Civil.
+
+###### ARTICULO 53.
+
+El Programa Estatal de Protección Civil contará con los siguientes Subprogramas:
+
+I.- De Prevención;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+II.- De Auxilio y Albergue; y
+
+III.- De Recuperación y Vuelta a la Normalidad.
+
+###### ARTICULO 54.
+
+El Programa Estatal de Protección Civil deberá contener cuando menos:
+
+I.- Los antecedentes históricos de los altos riesgos, emergencias o desastres en el Estado;
+
+II.- La identificación de los riesgos a que esta expuesto el Estado;
+
+III.- La identificación de los objetivos del Programa;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV.- Los Subprogramas de Prevención, de Auxilio, Albergue, Recuperación y Vuelta a la Normalidad, con sus respectivas metas, estrategias y líneas de acción;
+
+V.- La estimación de los recursos financieros; y
+
+VI.- Los mecanismos para el control y evaluación.
+
+###### ARTICULO 55.
+
+El Subprograma de Prevención agrupará las acciones tendientes a evitar o mitigar los efectos o a disminuir la ocurrencia de altos riesgos, emergencias o desastres; y a promover el desarrollo de la cultura de la protección civil en la comunidad.
+
+###### ARTICULO 56.
+
+El Subprograma de Prevención deberá contener:
+
+I.- Los estudios, investigaciones y proyectos de protección civil a ser realizados;
+
+II.- Los criterios para integrar el mapa de riesgo;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población, incluido el de Albergue;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IV.- Las acciones que la Coordinación Estatal de Protección Civil deberá ejecutar para proteger a las personas y sus bienes;
+
+V.- El inventario de los recursos disponibles;
+
+VI.- La política de comunicación social; y
+
+VII.- Los criterios y bases para la realización de simulacros.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 57.
+
+El Subprograma de Auxilio y Albergue integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riesgo, emergencia o desastre, la integridad física de las personas, sus bienes y el medio ambiente.
+
+Para realizar las acciones de auxilio y Albergue se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 58.
+
+El Subprograma de Auxilio y Albergue contendrá, entre otros, los siguientes criterios:
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+I.- Los establecidos o estipulados en acciones que desarrollen las dependencias y organismos de la Administración Pública del Estado y los Municipios;
+
+II.- Los establecidos en mecanismos de concentración y coordinación con los sectores social y privado; y
+
+III.- Los establecidos en coordinación con los grupos voluntarios.
+
+###### ARTICULO 59.
+
+El Subprograma de Recuperación y Vuelta a la Normalidad determinará las estrategias necesarias para la recuperación de la normalidad una vez ocurrida la emergencia o desastre.
+
+###### ARTICULO 60.
+
+En el caso de que se identifiquen riesgos o altos riesgos que puedan afectar de manera grave a la población de una determinada localidad o región, se podrán elaborar programas especiales de protección civil.
+
+###### ARTICULO 61.
+
+A fin de que la comunidad conozca el Programa Estatal de Protección Civil, éste al igual que sus Subprogramas, deberán ser publicados en el Periódico Oficial del Estado y en uno de los de mayor circulación en la Entidad.
+
+###### ARTICULO 62.
+
+En lo conducente, cada uno de los Municipios del Estado deberá elaborar y publicar su propio Programa Municipal de Protección Civil, de manera similar al del Estado, de conformidad con los lineamientos de esta ley.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 63.
+
+Cuando debido a la magnitud de los altos riesgos, emergencias o desastres sea necesaria la concurrencia simultánea de las autoridades estatales y municipales de protección civil, la Coordinación Estatal de Protección Civil será quien coordine los trabajos de respuesta ante la contingencia, en el lugar de los hechos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+### CAPITULO I BIS. DE LA IMPLEMENTACIÓN DEL CÓDIGO ADAM
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 63 BIS.- Se denomina Código Adam al Protocolo de Seguridad implementado en edificios públicos o privados frecuentados por menores de edad, para dar con la ubicación de éstos, en caso de que se hayan extraviado, se hayan perdido o hayan sido privados de su libertad.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 63 TER.- Para efecto de la implementación del Código Adam, son obligaciones de los patrones, propietarios o administradores de edificios públicos o privados frecuentados por menores de edad:
+
+I.- Incluir el Protocolo de Seguridad Código Adam, en el programa de prevención de accidentes internos;
+
+II.- Identificar el edificio adscrito al Código Adam. Esta identificación consiste en ubicar en lugares muy visibles, como entradas, ascensores y en todos los niveles, letreros de 30 centímetros por 30 centímetros de tamaño, color violeta, con letras blancas que lean: Código Adam;
+
+III.- Capacitar al personal responsable en la activación e implementación del Protocolo de Seguridad Código Adam;
+
+IV.- Vigilar el cumplimiento de la implementación del Protocolo de Seguridad Código Adam;
+
+V.- Realizar, por lo menos, dos simulacros anuales para la implementación del Protocolo de Seguridad Código Adam;
+
+VI.- Notificar semestralmente a la Coordinación Estatal de Protección Civil la capacitación que otorguen las organizaciones civiles, empresas capacitadoras e instructores independientes a sus brigadas internas de protección civil para la implementación del Protocolo de Seguridad Código Adam; y
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+VII.- Remitir a la Coordinación Estatal de Protección Civil del Estado, un informe anual de los casos de niñas, niños o adolescentes perdidos y encontrados mediante la implementación del Protocolo de Seguridad Código Adam.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 63 QUATER.- Quedan excluidos de la implementación del Código Adam los edificios públicos o privados que, por lo pequeño de sus estructuras y por la naturaleza de los servicios que brindan a la ciudadanía, no reciban visitas de niñas, niños y adolescentes, así como aquellos donde los menores de edad no acudan o donde no tengan permitido el acceso.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+ARTICULO 63 QUINQUIES.- El procedimiento del Protocolo de Seguridad Código Adam, se realizará conforme a las siguientes disposiciones:
+
+I.- Cuando un padre, madre, tutor o encargado notifique a cualquier persona que labore en el edificio público o privado que un menor de edad bajo su resguardo se ha extraviado, éste último de inmediato obtendrá del padre, madre, tutor o encargado una descripción detallada del mismo incluyendo, pero sin limitarse a:
+
+a) Fecha y hora de su desaparición;
+
+b) Fecha y hora en que fue recibida la información; y
+
+c) Detalles: Nombre completo, apodos por los que se le conoce y responde, sexo, edad, estatura, peso, vestimenta, color y tipo de zapatos, color de piel y ojos, color de pelo y tipo de peinado, o si tiene algún padecimiento o discapacidad y cualquier otra seña particular que permita identificarlo fácilmente, lugar de desaparición, datos completos del o de la querellante y foto reciente.
+
+II.- El trabajador alertará mediante altoparlante, u otro sistema de difusión similar, que se ha activado el "Código Adam" y proveerá la descripción provista por el padre, madre, tutor o encargado del menor de edad y proporcionará el número de teléfono o extensión de donde se está haciendo el anuncio. Será responsabilidad de los patrones, propietarios o administradores de cada edificio que al momento de la implementación de este Código se cuente con este sistema;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+
+III.- El empleado escoltará al padre, madre, tutor o encargado del menor de edad hacia la salida principal donde se encontrará con el administrador y simultáneamente, todas las puertas de salida serán vigiladas para evitar la salida de la niña, niño o adolescente sin su padre, madre, tutor o encargado;
+
+IV.- El patrón, propietario o administrador del edificio público o privado habrá de coordinar los recursos que estén a su disposición para una búsqueda primaria del menor de edad dentro y en los alrededores de la estructura que administra;
+
+V.- En las salidas del edificio, se le pedirá a aquellas personas que estén por abandonar el mismo en compañía de algún menor de edad, que pasen por la salida principal previamente designada por el patrón, propietario o administrador, si aún luego de llegar a ésta, insisten en abandonar el edificio, les será permitido una vez se determine que ningún menor de edad que salga es el que se está buscando y el presunto padre, madre, tutor o encargado presente una identificación oficial con foto;
+
+VI.- Después de anunciado el "Código Adam" por los altoparlantes, u otro sistema de difusión similar, los empleados buscarán por todo el edificio y se designarán dos o más de ellos, según se estime necesario, por cada área para que verifiquen que el menor de edad no se encuentra en el mismo. Los empleados que se encuentren atendiendo al público o aquellos que se excluyan con anterioridad por el patrón, propietario o administrador, no estarán obligados a llevar a cabo la búsqueda.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+
+Si la niña, niño o adolescente no es hallado en un período de diez minutos se llamará al número telefónico de emergencia 911 proporcionando toda la descripción del menor de edad y se le informará la situación para que personal de Seguridad Pública o Emergencias del Estado se apersonen inmediatamente en el lugar;
+
+VII.- Si el menor de edad es hallado ileso y aparenta haberse extraviado en el edificio, será entregado al padre, madre, tutor o encargado del mismo inmediatamente; y
+
+VIII.- Si fuera hallado acompañado por otra persona que no sea su padre, madre, tutor o encargado se deberán utilizar los medios más razonables para demorar la salida de esta persona del edificio, en lo que se da aviso a las autoridades.
+
+### CAPITULO II. DE LA DECLARATORIA DE EMERGENCIA
+
+###### ARTICULO 64.
+
+El Gobernador del Estado, en su carácter de Presidente del Consejo de Protección Civil del Estado de Tamaulipas, en los casos de alto riesgo, emergencia o desastre podrá emitir una declaratoria de emergencia, la que comunicara de inmediato al Consejo de Protección Civil del Estado, mandando se publique en el Periódico Oficial del Estado, y se difundirá a través de los medios de comunicación masiva.
+
+En ausencia del Presidente del Consejo, el Secretario Ejecutivo podrá realizar la declaratoria a que se refiere el artículo anterior.
+
+###### ARTICULO 65.
+
+La declaratoria de emergencia hará mención expresa, entre otros, de los siguientes aspectos:
+
+I.- Identificación del alto riesgo, emergencia o desastre;
+
+II.- Infraestructura, bienes y sistemas afectables;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Determinación de las acciones de prevención, auxilio y Albergue;
+
+IV.- Suspensión de actividades públicas que así lo ameriten;
+
+V.- Instrucciones dirigidas a la población de acuerdo al Programa Estatal; y
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VI.- Con base en los lineamientos del Sistema Nacional de Protección Civil, la Coordinación Estatal de Protección Civil, así como las Unidades Municipales de Protección Civil, son las autoridades competentes para definir donde habrá de establecerse un refugio temporal o Albergue. Dicha definición y los procedimientos subsecuentes deben estar enmarcados en los planes de protección civil de cada Municipio y Entidad, de manera que exista un registro de instalaciones susceptibles de ser transformadas en refugios o Albergues, en el que se señale la capacidad de alojamiento, y a partir de ese dato establecer las necesidades de todo tipo para la operación de cada refugio o Albergue.
+
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] P.O. 16 DE OCTUBRE DE 2019)</small>
+
+Los requisitos para establecer un refugio temporal o Albergue son:
+
+a).- Estar alejados de las zonas de peligro;
+
+b).- Tener un grado de vulnerabilidad bajo;
+
+c).- Contar con espacio suficiente para ofrecer los servicios básicos;
+
+d).- Situarse en lugares accesibles;
+
+e).- Contar con sistemas de comunicación externa;
+
+f).- Contar con agua potable suficiente;
+
+g).- Contar con servicios sanitarios;
+
+h).- Tener espacio para dormitorio;
+
+i).- Ofrecer los alimentos requeridos por día a cada persona; y
+
+j).- Los que se requieran para el bienestar de las personas.
+
+###### ARTICULO 66.
+
+El Presidente del Consejo o, en su ausencia, el Secretario Ejecutivo, una vez que la situación de emergencia haya terminado, lo comunicará formalmente, siguiendo el procedimiento establecido en el Artículo 64 de esta ley.
+
+###### ARTICULO 67.
+
+En lo conducente, se aplicarán a nivel municipal las disposiciones de este capítulo, siendo el responsable de llevar a cabo la declaratoria formal de emergencia, el Presidente Municipal.
+
+### CAPITULO III. DE LA DECLARATORIA DE ZONA DE DESASTRE
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 68.
+
+Se considerará zona de desastre de aplicación de recursos del Estado, aquella en la que para hacer frente a las consecuencias de un agente o fenómeno perturbador, sean insuficientes los recursos del o los municipios afectados, requiriéndose en consecuencia la ayuda del Gobierno Estatal. En estos casos, el Gobernador del Estado emitirá la declaratoria de zona de desastre, y pondrá en marcha las acciones necesarias, por conducto de la Coordinación Estatal de Protección Civil.
+
+###### ARTICULO 69.
+
+Se considerará zona de desastre de nivel municipal, aquella en la que para hacer frente a las consecuencias de un agente o fenómeno perturbador, no se requiera de la ayuda estatal.
+
+###### ARTICULO 70.
+
+Para que el Gobernador del Estado formule la declaratoria a que se refiere el Artículo 68 de esta ley, deberá agotarse el siguiente procedimiento:
+
+I.- Que sea solicitada por el o los Presidentes Municipales de los Municipios afectados;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+II.- Que las dependencias del Poder Ejecutivo Estatal encabezadas por la Coordinación Estatal de Protección Civil, realicen una evaluación de los daños causados; y
+
+III.- Que de la evaluación resulte necesaria la ayuda del Gobierno Estatal a que se refiere el artículo anterior.
+
+###### ARTICULO 71.
+
+Las medidas que el Gobierno del Estado podrá adoptar, cuando se haya declarado formalmente zona de desastre de aplicación de recursos estatales, son las siguientes:
+
+I.- Atención medica inmediata y gratuita;
+
+II.- Alojamiento, alimentación y recreación;
+
+III.- Restablecimiento de los servicios públicos afectados;
+
+IV.- Suspensión temporal de las relaciones laborales, sin perjuicio para el trabajador;
+
+V.- Suspensión de las actividades escolares en tanto se vuelve a la normalidad; y
+
+VI.- Las demás que determine el Consejo de Protección Civil del Estado de Tamaulipas.
+
+###### ARTICULO 72.
+
+La declaratoria formal de zona de desastre de aplicación de recursos estatales se hará siguiendo el procedimiento establecido en el Artículo 64 de esta ley, y concluirá cuando así se comunique por el Gobernador del Estado.
+
+###### ARTICULO 73.
+
+Para el caso de que la zona de desastre se declare a nivel municipal, se aplicarán en lo conducente, las disposiciones de este capítulo.
+
+### CAPITULO IV. DE LA ACCIÓN POPULAR
+
+###### ARTICULO 74.
+
+Todas las personas tienen el derecho y la obligación de denunciar, ante la autoridad estatal o municipal, todo hecho, acto u omisión que cause o pueda causar riesgo, alto riesgo, emergencia o desastre para la población.
+
+###### ARTICULO 75.
+
+La denuncia popular es el instrumento jurídico que tiene el pueblo de Tamaulipas para hacer del conocimiento de la autoridad los actos u omisiones que contravengan las disposiciones de la presente ley.
+
+###### ARTICULO 76.
+
+Para que la acción popular proceda bastará que la persona que la ejercite aporte los datos necesarios para su identificación y una relación de los hechos que se denuncian.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 77.
+
+Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmediato a la Coordinación Estatal de Protección Civil, o a la unidad municipal que corresponda, quienes procederán en su caso, conforme a esta ley. Lo anterior, sin perjuicio de que la autoridad receptora tome las medidas de urgencia necesarias para evitar que se ponga en riesgo la salud pública, la integridad o patrimonio de las personas.
+
+###### ARTICULO 78.
+
+Las autoridades del Estado y las municipales en los términos de esta ley, atenderán de manera permanente al público en general, en el ejercicio de la denuncia popular. Para ello, difundirán ampliamente domicilios y números telefónicos destinados a recibir las denuncias.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Es motivo de infracción en los términos de la presente Ley, solicitar los servicios de emergencia, policía, cuerpo de bomberos o de establecimientos médicos o asistenciales, públicos o privados, cuando no se requieran. Asimismo, proferir voces, realizar actos o adoptar actitudes que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos.
+
+### CAPITULO V. DE LA INSPECCION, CONTROL Y VIGILANCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 79.
+
+La Coordinación Estatal de Protección Civil y las Unidades Municipales, vigilarán en el ámbito de su competencia el cumplimiento de esta ley y demás disposiciones que se dicten con base en ella, y aplicarán las medidas de seguridad que correspondan.
+
+En caso de ser necesaria la aplicación de sanciones, las mismas se realizarán previa audiencia del interesado.
+
+###### ARTICULO 80.
+
+Las inspecciones de protección civil tienen el carácter de visitas domiciliarias, por lo que los establecimientos señalados por esta ley, están obligados a permitirlas, así como a proporcionar toda clase de información necesaria para el desahogo de las mismas.
+
+###### ARTICULO 81.
+
+La persona o personas designadas para practicar visitas de inspección o ejecutar medidas de seguridad, deberán estar provistas de identificación, orden escrita expedida por la autoridad competente, en la que se deberá precisar el lugar o zona en que se efectuará la inspección, el objeto de la visita, y las disposiciones legales que la fundamenten.
+
+###### ARTICULO 82.
+
+Es obligación de los propietarios, responsables, encargados u ocupantes de los inmuebles, obras o establecimientos permitir el acceso y dar facilidades a las personas mencionadas en el artículo anterior, para el desarrollo de la inspección, así como proporcionar la información que conduzca a la verificación de las normas de esta ley y sus reglamentos.
+
+###### ARTICULO 83.
+
+En la diligencia de inspección se deberán observar las siguientes reglas:
+
+I.- La persona o personas a quienes se haya encomendado la inspección, deberán exhibir su nombramiento o designación expedida por la autoridad competente, así como el oficio de comisión que los acredite legalmente para desempeñar su función. La anterior circunstancia deberá asentarse en el acta correspondiente; y
+
+II.- En el acta que se levante con motivo de la inspección, se harán constar las circunstancias de la diligencia, las deficiencias o irregularidades observadas y, en su caso, las medidas de seguridad que se ejecuten.
+
+###### ARTICULO 84.
+
+Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicte la autoridad competente, de conformidad con esta ley y demás ordenamientos aplicables, para proteger el interés público, o evitar los riesgos, altos riesgos, emergencias o desastres que puedan ocurrir en los establecimientos a que se refiere esta ley. Las medidas de seguridad, si no se trata de un caso de alto riesgo, emergencia o desastre, se notificarán antes de su aplicación al interesado, sin perjuicio de las sanciones que en su caso correspondieran.
+
+###### ARTICULO 85.
+
+Son medidas de seguridad las siguientes:
+
+I.- La suspensión de trabajos y servicios;
+
+II.- La desocupación o desalojo de casas, edificios, establecimientos o, en general, de cualquier inmueble;
+
+III.- La demolición de construcciones o el retiro de instalaciones;
+
+IV.- El aseguramiento y secuestro de objetos materiales;
+
+V.- La clausura temporal o definitiva, total o parcial, de establecimientos, construcciones, instalaciones u obras;
+
+VI.- La realización de actos, en rebeldía de los que están obligados a ejecutarlos;
+
+VII.- El auxilio de la fuerza pública; y
+
+VIII.- La emisión de mensajes de alerta.
+
+###### ARTICULO 86.
+
+Para los efectos de esta ley serán responsables:
+
+I.- Los propietarios, poseedores, administradores, representantes, organizadores y demás responsables, involucrados en las violaciones a esta ley; y
+
+II.- Quienes ejecuten, ordenen o favorezcan las acciones u omisiones constitutivas de una infracción, y los servidores públicos que intervengan o faciliten la comisión de una infracción.
+
+###### ARTICULO 87.
+
+Son conductas constitutivas de infracción las que se lleven a cabo para:
+
+I.- Ejecutar, ordenar o favorecer actos u omisiones que impidan u obstaculicen las acciones de prevención, auxilio o apoyo a la población en caso de desastre;
+
+II.- Impedir u obstaculizar al personal autorizado al realizar inspecciones o actuaciones en los términos de esta ley;
+
+III.- No dar cumplimiento a los requerimientos de la autoridad competente;
+
+IV.- No dar cumplimiento a las resoluciones de la autoridad competente que impongan cualquier medida de seguridad en los términos de esta ley; y
+
+V.- En general, cualquier acto u omisión que contravenga las disposiciones de la presente ley.
+
+###### ARTICULO 88.
+
+Las sanciones que podrán aplicarse consistirán en:
+
+I.- Amonestación;
+
+II.- Clausura temporal o definitiva, total o parcial, de los establecimientos;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III.- Multa equivalente al monto de veinte a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de dos mil veces el valor diario de la Unidad de Medida y Actualización, así como la clausura definitiva;
+
+IV.- Suspensión de obras, instalaciones o servicios; y
+
+V.- Arresto administrativo hasta por 36 horas.
+
+###### ARTICULO 89.
+
+La imposición de sanciones se hará sin perjuicio de la responsabilidad que conforme a otras leyes corresponda al infractor.
+
+###### ARTICULO 90.
+
+Al imponerse una sanción se tomara en cuenta:
+
+I.- El daño o peligro que se ocasione o pueda ocasionarse a la salud o a la seguridad de la población o a su entorno;
+
+II.- La gravedad de la infracción;
+
+III.- Las condiciones socioeconómicas del infractor; y
+
+IV.- La reincidencia, en su caso.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 91.
+
+Son autoridades competentes para imponer las sanciones a que se refiere el presente capítulo, el Coordinador Estatal de Protección Civil, y en los Municipios el titular de la Unidad Municipal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 91 BIS.- Las multas que se impongan por concepto de violación a lo previsto en la presente ley, podrán ser sustituidas por: la adquisición e instalación de equipos que tengan por objeto evitar mayores daños o atenuar lo que se hubiesen cometido; o, en su caso, la aportación de bienes en especie que contribuyan a reparar el daño cometido o la prestación de mejores servicios por parte de la autoridad, siempre y cuando se garanticen las obligaciones a que se sujetará el infractor.
+
+La sustitución a que se refiere este artículo sólo procederá previa solicitud escrita del infractor y una vez que se haya celebrado el convenio correspondiente con la autoridad que impuso la multa.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 91 TER.- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, su reglamento o demás disposiciones que de ella se deriven, se destinarán a la integración de fondos de protección civil para el desarrollo de programas vinculados con la protección civil de la población.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 92.
+
+Cuando en los establecimientos se realicen actos que constituyan riesgo a juicio de la Coordinación Estatal de Protección Civil, o de las Unidades Municipales, según corresponda, estas autoridades, en el ámbito de su competencia, procederán como sigue:
+
+I.- Se procederá a la suspensión de la construcción, servicios, o de las obras o actos relativos;
+
+II.- Se amonestará al propietario, responsable, encargado u ocupante del establecimiento, para que se apliquen las recomendaciones de las autoridades de protección civil, a fin de que se evite o extinga el riesgo;
+
+III.- En caso de que el riesgo se hubiera producido por la negligencia o irresponsabilidad del propietario, responsable, encargado u ocupante, en el manejo o uso de materiales, de personas, o por no haber sido atendidas las recomendaciones de la autoridad competente, las autoridades de protección civil, sin perjuicio de que se apliquen las medidas de seguridad o sanciones que se establezcan en este u otro ordenamiento, impondrán multa a quien resultase responsable; y
+
+IV.- Cuando no obstante la aplicación de las medidas a que se refieren las tres fracciones anteriores, no se hubiera evitado o extinguido el riesgo, las autoridades de protección civil, y previa audiencia del interesado, procederán, en su caso, a la clausura de los establecimientos, hasta en tanto no se demuestre que dicho riesgo ha sido definitivamente superado.
+
+En caso de que las autoridades de protección civil determinen, que por motivos de su naturaleza resulte imposible la suspensión de la construcción, obra, o actos relativos, o la clausura de los establecimientos, se publicarán avisos, a cuenta del propietario o responsable, en uno de los diarios de mayor circulación en la localidad de que se trate, advirtiendo a la población de los riesgos.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+###### ARTICULO 93.
+
+Cuando en los establecimientos se realicen actos o servicios que constituyan alto riesgo a juicio de la Coordinación Estatal de Protección Civil o de las Unidades Municipales, según corresponda, estas autoridades, en el ámbito de su competencia, procederán de inmediato a suspender dichas actividades, a ordenar el desalojo del inmueble, y a aplicar las demás medidas de seguridad que resulten procedentes enunciadas en los Artículos 84 y 85 de este ordenamiento, además de las sanciones que en su caso correspondan. Lo anterior, sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones señaladas en otros ordenamientos.
+
+###### ARTICULO 94.
+
+Cuando en los establecimientos se presenten emergencias o desastres, inherentes a los actos, servicios o funcionamiento de los mismos, las autoridades de protección civil procederán de inmediato a la desocupación del inmueble, a la suspensión de las actividades, y a clausurar los lugares en donde se realicen, imponiendo además cualquier otra medida de seguridad y sanción que resulte aplicable de acuerdo a este ordenamiento. Lo anterior, sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones que establezcan las demás leyes o reglamentos.
+
+###### ARTICULO 95.
+
+Las obras que se ordenen por parte de las autoridades de protección civil para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento, sin perjuicio de que sea la propia autoridad quien las realice en rebeldía del obligado. En este último caso, además del cobro de las cantidades correspondientes, se aplicaran las sanciones económicas que correspondan.
+
+Tanto las sanciones económicas, como en su caso, las cantidades por concepto de cobros por obras realizadas en rebeldía de los obligados, se consideran créditos fiscales, y serán cobrados mediante el procedimiento de ejecución, por la autoridad fiscal competente.
+
+###### ARTICULO 96.
+
+Los responsables de actos que generen daños en el medio ambiente serán sancionados en los términos de la legislación en materia de salud pública, equilibrio ecológico y protección al ambiente, los reglamentos de policía y buen gobierno y demás disposiciones aplicables.
+
+###### ARTICULO 97.
+
+La responsabilidad por daños o perjuicios derivados de acciones u omisiones que devengan en siniestros o desastres, se determinará y hará efectiva, conforme las disposiciones de la legislación aplicable.
+
+### CAPITULO VI. DE LAS NOTIFICACIONES Y RECURSOS
+
+###### ARTICULO 98.
+
+Los acuerdos que tomen las autoridades de protección civil en cualquier sentido, se notificarán a los interesados atendiendo en lo conducente, a lo dispuesto por el Código de Procedimientos Civiles del Estado.
+
+###### ARTICULO 99.
+
+Contra las resoluciones, determinaciones y acuerdos dictados por las autoridades de protección civil procede el recurso de revisión.
+
+###### ARTICULO 100.
+
+El recurso de revisión tiene por objeto que el superior jerárquico examine el acto o acuerdo que se reclama a fin de constatar si existe violación al respecto, pudiendo confirmarlo, modificarlo o revocarlo.
+
+###### ARTICULO 101.
+
+El recurso de revisión se interpondrá por escrito ante el superior jerárquico de la autoridad que dictó el acto que se impugna, en un plazo no mayor de quince días hábiles contados a partir de la fecha de su notificación o conocimiento.
+
+###### ARTICULO 102.
+
+El escrito de revisión deberá contener el nombre y domicilio del recurrente, el proveído, acto o resolución que se impugna, autoridad que lo emitió, fecha de notificación o conocimiento, exposición sucinta de hechos, preceptos legales violados, pruebas y demás elementos de convicción que estime el recurrente.
+
+###### ARTICULO 103.
+
+Si el escrito por el cual se interpone el recurso fuere obscuro o irregular, la autoridad receptora prevendrá al recurrente, por una sola vez, a efecto de que lo aclare, corrija o complete de acuerdo con la presente ley, señalándose en concreto sus defectos, con el apercibimiento de que si no cumple dentro del plazo de cinco días hábiles se tendrá por no interpuesto el recurso.
+
+###### ARTICULO 104.
+
+En la substanciación del recurso se admitirán toda clase de pruebas, con excepción de la confesional, así como aquellas que tengan el carácter de supervinientes; en su desahogo y valoración, se aplicara supletoriamente el Código de Procedimientos Civiles del Estado.
+
+###### ARTICULO 105.
+
+La autoridad que tramite el recurso, con base en la documentación, pruebas y demás elementos existentes dictara la resolución en un termino de treinta días hábiles, contados a partir de la fecha en que fue interpuesto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2021)</small>
+
+### CAPÍTULO VII. DE LA CULTURA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 106.
+
+Las autoridades estatales y municipales fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
+
+Las autoridades en la materia, establecerán mecanismos idóneos para que la sociedad participe en la planeación y supervisión de la protección civil, en los términos de esta Ley, su Reglamento y los demás ordenamientos aplicables. La población vulnerable y expuesta a un peligro, tiene derecho a estar informada de ello y a contar con las vías adecuadas de opinión y participación en la gestión del riesgo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 107.
+
+Corresponde a la Secretaría dictar los lineamientos generales y diseñar formas para inducir y conducir la formación de una cultura de protección civil.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+
+###### ARTICULO 108.
+
+A fin de fomentar dicha cultura, las autoridades correspondientes dentro de sus respectivos ámbitos de competencia, deberán:
+
+I.- Fomentar las actividades de protección civil;
+
+II.- Concretar el establecimiento de programas educativos a diferentes niveles académicos, que aborden en su amplitud el tema de la protección civil y la Gestión Integral de Riesgos;
+
+III.- Impulsar programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección;
+
+IV.- Elaborar, estructurar y promocionar campañas de difusión sobre temas de su competencia relacionados con la protección civil; y
+
+V.- Promover la celebración de convenios con los sectores público, social, privado y académico con el objeto de difundir la cultura de protección civil.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Dirección de Protección Civil en un plazo no mayor de noventa días contados a partir del día siguiente a la entrada en vigor del presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley de Protección Civil para el Estado de Tamaulipas, expedida por la Quincuagésima Quinta Legislatura del Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, mediante Decreto número 24, de fecha 31 de marzo de 1993 y publicada en el Periódico Oficial del Estado número 34, de fecha 28 de abril del mismo año, así como las reformas realizadas a la misma, mediante Decreto número 297, expedido por la Quincuagésima Sexta Legislatura del Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, el 31 de enero de 1998 y publicado en el Periódico Oficial del Estado número 14 del 18 de febrero del mismo año.
+
+###### ARTICULO CUARTO.
+
+El término que tienen los establecimientos públicos o privados a que se refiere el Artículo 48, para crear la Unidad Interna de Protección Civil es de ciento ochenta días contados a partir de la publicación de la presente Ley.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 23 de Mayo del Año 2001.- DIPUTADO PRESIDENTE.- C. OSCAR ALBERTO HINOJOSA SÁNCHEZ.- Rúbrica.- DIPUTADO SECRETARIO.- LIC. JUAN JOSÉ ANTONIO BRAÑA CARRANZA.- Rúbrica.- DIPUTADO SECRETARIO.- C. BERNARDO GÓMEZ VILLAGOMEZ.- Rúbrica."
+
+Por lo tanto, mando se imprima, publique, circule y se le de debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas a los veintiocho días del mes de mayo del año de dos mil uno.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 90 días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2008.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se establece un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para que los Municipios del Estado establezcan el registro de riesgos al que se refiere la fracción V del artículo 30 de este ordenamiento, a fin de dar cumplimiento a lo dispuesto por la presente ley.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las reformas que se requieran al Reglamento de la Ley de Protección Civil para el Estado de Tamaulipas, en un plazo no mayor de 30 días contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+La Dirección General de Protección Civil del Estado, deberá instrumentar una amplia campaña de difusión de las actuales reformas y adiciones contenidas en el presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Las personas morales y las públicas, así como las empresas o instituciones deberán implementar las medidas que correspondan, con base al presente Decreto y la Ley de Protección Civil, su Reglamento y aquéllas previsiones legales conducentes, en un término no mayor a 180 días contados a partir de la vigencia del presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2016.
 
 ## TRANSITORIOS
 
@@ -212,3 +1760,129 @@ QUINTO. En tanto se ordena la utilización de los libros de control electrónico
 SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 24/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veinte de abril de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- Ciudad de México, a veinte de abril de dos mil dieciséis.- Conste.- Rúbrica.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 1 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-169 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX, ADICIONANDO LA FRACCIÓN XXI Y RECORRIENDO EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN XXI, PARA PASAR A SER LA FRACCIÓN XXII DEL ARTÍCULO 30, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-370 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 172, FRACCIÓN III Y 173 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 78, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-388 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y EL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXIII-474 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2°, FRACCIONES IV Y XVI; 4°, FRACCIÓN IV; 11, FRACCIÓN III; 14 FRACCIÓN III, 22; 24; 25, PÁRRAFO PRIMERO Y SU FRACCIÓN I, Y PÁRRAFO SEGUNDO; 25 BIS, PÁRRAFOS PRIMERO Y SEGUNDO; 26 PÁRRAFO PRIMERO Y SU FRACCIÓN XXIII, Y PÁRRAFO SEGUNDO; 27; 28, PÁRRAFO PRIMERO Y SUS FRACCIONES I, II, Y III; 31; 34; 38; 43; 44, FRACCIÓN IX; 45 BIS, PÁRRAFOS PRIMERO Y TERCERO; 46, PÁRRAFO PRIMERO Y FRACCIÓN II; 50; 56, FRACCIÓN IV; 63; 65, FRACCIÓN VI; 68; 70, FRACCIÓN II; 77; 79, PÁRRAFO PRIMERO; 91; 92, PÁRRAFO PRIMERO; 93; ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO V PERTENECIENTE AL TÍTULO PRIMERO; Y SE ADICIONAN LA FRACCIÓN XXIV, RECORRIÉNDOSE LA ACTUAL PARA SER XXV AL ARTÍCULO 26; Y EL CAPÍTULO I BIS AL TÍTULO SEGUNDO DENOMINADO "DE LA IMPLEMENTACIÓN DEL CÓDIGO ADAM" QUE CONTIENE LOS ARTÍCULOS 63 BIS, 63 TER, 63 QUATER, Y 63 QUINQUIES, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo tendrá 120 días a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones en el Reglamento de la Ley de Protección Civil para el Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Los Municipios del Estado tendrán 180 días a partir de la entrada en vigor del presente Decreto para adecuar sus disposiciones reglamentarias.
+
+P.O. 22 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-531 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de un plazo de no más de sesenta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá el Reglamento que establezca los mecanismos y acciones que prevengan y regulen la atención integral a personas con ludopatía.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-1021 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El funcionamiento de los albergues a que se refiere el presente Decreto, se considerará dentro de la previsión presupuestal que atañe a los gobiernos estatal y municipal en el rubro de protección civil, con base en el artículo 8 de la Ley de Protección Civil para el Estado de Tamaulipas.
+
+P.O. 14 DE ABRIL DE 2020.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-78 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXV, RECORRIENDO EL ORDEN NATURAL DE LA SUBSECUENTE, AL ARTÍCULO 26, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-495 MEDIANTE EL CUAL SE ADICIONAN UN CAPÍTULO VII AL TÍTULO SEGUNDO, DENOMINADO “DE LA CULTURA DE PROTECCIÓN CIVIL” Y LOS ARTÍCULOS 106, 107, Y 108, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-741 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XI Y XIV; Y SE ADICIONAN LAS FRACCIONES IX BIS; X BIS; XIV BIS; XV BIS; XV TER; XV QUATER; XVIII BIS; XVIII TER; XIX BIS; XIX TER Y XIX QUATER AL ARTÍCULO 2 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
