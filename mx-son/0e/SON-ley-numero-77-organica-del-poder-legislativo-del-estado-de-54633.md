@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2016-04-07"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -851,13 +851,13 @@ El quórum legal para cada sesión de comisiones se constituye por la asistencia
 
 Los dictámenes que las comisiones emitan sobre asuntos que no llegue a resolver el pleno del Congreso del Estado y las iniciativas que por cualquier motivo no se llegasen a dictaminar, quedarán a disposición de la siguiente legislatura.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 97.
 
-Las comisiones deberán presentar sus dictámenes, en sentido positivo ó negativo, respecto de los asuntos que les sean turnados, dentro de los treinta días hábiles siguientes a aquél en que los hubieren recibido, salvo que el pleno del Congreso del Estado les determine por mayoría de votos un plazo distinto. Si pasado un año de turnada la iniciativa a la o las Comisiones competentes y ésta no ha sido dictaminada, se desechará de facto, a menos que, de manera razonada, la Comisión o Comisiones a las que les haya sido turnado el asunto a dictaminar, soliciten una prórroga, misma que en ningún caso excederá de un periodo igual al originalmente otorgado.
+Las Comisiones deberán presentar sus dictámenes, respecto de los asuntos que les sean turnados, dentro de los treinta días hábiles siguientes a aquel en que los hubieren recibido, cuando se trate de acuerdos o decretos y dentro de los cuarenta y cinco días hábiles cuando traten sobre iniciativas para crear leyes secundarias nuevas o modificaciones a la Constitución Política del Estado de Sonora, sin que dichos plazos puedan ser prorrogables.
 
-La caducidad legislativa se entenderá como el desechamiento de facto de toda iniciativa no dictaminada en el plazo establecido en el párrafo anterior. Esta figura no aplicará a las iniciativas referidas en el artículo 53, fracciones I, II, IV y V de la Constitución Política del Estado. Tampoco aplica para las denuncias de juicio político o de inicio de un procedimiento de declaratoria de procedencia.
+La caducidad legislativa se entenderá como el desechamiento de facto de toda iniciativa no dictaminada en el plazo de un año, contado a partir de que es turnada a la Comisión de Dictamen Legislativo. Esta figura no aplicará a las iniciativas referidas en el artículo 53, fracciones I, II, IV y V de la Constitución Política del Estado. Tampoco aplica para las denuncias de juicio político o de inicio de un procedimiento de declaratoria de procedencia.
 
 ###### ARTÍCULO 98.
 
@@ -875,9 +875,11 @@ V.- Proyecto de texto de ley, decreto o acuerdo; y
 
 VI.- Fecha, nombre y firma de los diputados integrantes de la o las comisiones que lo emiten.
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 99.
 
-Ante la falta de presentación oportuna de dictámenes en el plazo ordinario establecido en el artículo 97 de esta ley, la Comisión de Régimen Interno y Concertación Política podrá proponer al pleno del Congreso del Estado la creación de una comisión especial con carácter transitorio para que concluya el estudio y dictamen de la iniciativa o asunto que se trate, o bien la reasignación de la iniciativa o asunto a una comisión distinta.
+Ante la falta de presentación oportuna de dictámenes en el plazo ordinario establecido en el artículo 97 de esta Ley, la Dirección General Jurídica dará cuenta a la Comisión de Régimen Interno y Concertación Política, quien podrá proponer al pleno del Congreso del Estado la creación de una comisión especial con carácter de transitorio para que concluya el estudio y dictamen de la iniciativa o asunto que se trate, o bien la reasignación de la iniciativa o asunto a una comisión distinta.
 
 ###### ARTÍCULO 100.
 
@@ -2837,11 +2839,13 @@ B.O. 7 DE ABRIL DE 2016.
 
 El presente Decreto, previa su publicación en el Boletín Oficial del Gobierno del Estado, entrará en vigor el mismo día que inicie la vigencia de la Ley que reforma el artículo 36 de la Constitución Política del Estado de Sonora, aprobada por el Congreso del Estado el día 17 de marzo de 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA EL ARTÍCULO 158 BIS AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, PUBLICADO EL SEIS DE SEPTIEMBRE DE DOS MIL CATORCE".]
+B.O. 9 DE JUNIO DE 2016.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 66, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 21 DE DICIEMBRE DE 2018.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITOS CONTRA LA INTIMIDAD PERSONAL".]
 
