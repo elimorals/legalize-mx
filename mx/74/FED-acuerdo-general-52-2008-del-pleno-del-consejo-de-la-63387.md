@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2008-del-pleno-del-consejo-de-la-63387"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2016-04-15"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63387&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
@@ -61,9 +61,9 @@ ACUERDO
 
 PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Quinta Región, conformado por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno con sede en Los Mochis, Sinaloa, y uno con residencia en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y seis juzgados de distrito auxiliares, cinco con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
-> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 35/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA LOS SIMILARES 49/2015 QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN TEPIC; Y 52/2008, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN CULIACÁN, SINALOA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN, PARA ESTABLECER LA COMPETENCIA TERRITORIAL DE DICHO CENTRO SOBRE EL ARCHIPIÉLAGO DE LAS ISLAS MARÍAS, D.O.F. 9 DE JUNIO DE 2016)</small>
 
-Aunado a lo anterior, el Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, tendrá competencia mixta y jurisdicción territorial en el Distrito Judicial conformado por el territorio del Archipiélago de las Islas Marías.
+El Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, tendrá además competencia mixta y jurisdicción territorial en el Distrito Judicial conformado por el territorio del Archipiélago de las Islas Marías, con excepción de los asuntos que deban tramitarse conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, cuyo conocimiento será del Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en Tepic.
 
 > <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
@@ -103,7 +103,7 @@ Juzgado Quinto de Distrito del Centro Auxiliar de la Quinta Región, con residen
 
 Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa.
 
-El Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, tendrá competencia mixta y jurisdicción territorial en el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 35/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA LOS SIMILARES 49/2015 QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN TEPIC; Y 52/2008, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN CULIACÁN, SINALOA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN, PARA ESTABLECER LA COMPETENCIA TERRITORIAL DE DICHO CENTRO SOBRE EL ARCHIPIÉLAGO DE LAS ISLAS MARÍAS, D.O.F. 9 DE JUNIO DE 2016)</small>
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
@@ -248,3 +248,13 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se deroga el punto Quinto de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 20/2009, que crea el Centro Auxiliar de la Primera Región; 10/2008, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán; 18/2008, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán; 27/2008, por el que se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán; 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán; 53/2008, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán; 54/2008, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; 32/2010, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán; 51/2009, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán; 54/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán; y 33/2011, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán.
+
+D.O.F. 9 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 35/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA LOS SIMILARES 49/2015 QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN TEPIC; Y 52/2008, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN CULIACÁN, SINALOA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN, PARA ESTABLECER LA COMPETENCIA TERRITORIAL DE DICHO CENTRO SOBRE EL ARCHIPIÉLAGO DE LAS ISLAS MARÍAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el catorce de junio de dos mil dieciséis.
+
+SEGUNDO. Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que la sala remota del Centro de Justicia Penal a que se refiere este Acuerdo, entre en operación en la fecha señalada en el artículo anterior.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
