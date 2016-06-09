@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2016-02-29"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 29 DE FEBRERO DE 2016.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1581,9 +1579,9 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
-Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del Artículo 298 fracción II del presente ordenamiento, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año; esta reducción será efectiva en el Impuesto que corresponda al ejercicio fiscal en curso.
+Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del artículo 298, fracción II del presente ordenamiento o que presta sus servicios como socorrista de Cruz Roja Mexicana, I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año; esta reducción será efectiva en el Impuesto que corresponda al ejercicio fiscal en curso.
 
 ###### Artículo 189 Bis.
 
@@ -2729,9 +2727,9 @@ VII.- Contribuciones para obras públicas;
 
 VIII.- Impuesto a la prestación de servicios bajo la Dirección y dependencia de un tercero;
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
 
-IX.- Impuesto sobre traslación de dominio de bienes muebles, en los supuestos a que se refiere el artículo 189 último párrafo, de este ordenamiento y por el pago de los derechos a que se refiere el artículo 298 fracción I, de esta Ley, que realicen las personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados;
+IX.- Impuesto sobre traslación de dominio de bienes muebles, en los supuestos a que se refiere el artículo 189, último párrafo de este ordenamiento y por el pago de los derechos a que se refiere el artículo 298, fracción I de esta Ley, que realicen las personas adultas de 60 años o más edad, las que tengan el carácter de pensionados o jubilados o las que prestan sus servicios como socorristas de Cruz Roja Mexicana I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3137,7 +3135,9 @@ No causará la contribución a que se refiere este Capítulo, los pagos que se r
 
 I.- Impuesto por la prestación de un servicio prestado bajo la dirección y dependencia de un tercero; impuesto al ejercicio de profesiones liberales, artísticas e innominadas e impuesto para el sostenimiento de las Universidades de Sonora ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
 
-II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones a que se refiere el artículo 189 último párrafo y los derechos a que se refiere el artículo 298 fracción I de este ordenamiento, tratándose de personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados.
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones a que se refiere el artículo 189, último párrafo y los derechos a que se refiere el artículo 298, fracción I de este ordenamiento, tratándose de personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados, o las que prestan sus servicios como socorristas de Cruz Roja Mexicana I. A. P., en cualquiera de sus Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años.
 
 III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
@@ -3165,11 +3165,13 @@ Se causará una cuota adicional sobre impuestos y derechos del Estado, equivalen
 
 ###### Artículo 292 Bis
 
-l.- No causará la contribución a que se refiere este Capítulo, los pagos que se realicen por los siguientes conceptos:
+1.- No causará la contribución a que se refiere este Capítulo, los pagos que se realicen por los siguientes conceptos:
 
 I.- Impuesto por la prestación de un servicio prestado bajo la dirección y dependencia de un tercero; impuesto al ejercicio de profesiones liberales, artísticas e innominadas e impuesto para el sostenimiento de las Universidades de Sonora y las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública.
 
-II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones a que se refiere el artículo 189 último párrafo y los derechos a que se refiere el artículo 298 fracción I de este ordenamiento, tratándose de personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados.
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones a que se refiere el artículo 189, último párrafo y los derechos a que se refiere el artículo 298, fracción I de este ordenamiento, tratándose de personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados o las que prestan sus servicios como socorristas de Cruz Roja Mexicana I. A. P., en cualquiera de sus Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años.
 
 III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
@@ -3363,9 +3365,9 @@ Las cuotas de los derechos serán iguales, para quienes reciban servicios análo
 
 Para la determinación de las cuotas de los derechos, se tendrá en cuenta el costo de dichos servicios o el uso que se haga de ellos y la situación económica del obligado, conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
 
-I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad y sea el beneficiario directo del mismo, se aplicarán a las cuotas del ejercicio fiscal en curso que correspondan a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquellos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
+I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad o que presta sus servicios como socorrista de Cruz Roja Mexicana I. A. P., en cualquiera de sus Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, y sea el beneficiario directo del mismo, se aplicarán a las cuotas del ejercicio fiscal en curso que correspondan a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquellos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -3412,6 +3414,10 @@ f).- Otras instituciones de seguridad social de la federación, estados o munici
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 Las personas mayores de 60 años de edad que no cuenten con alguna identificación de las señaladas en los incisos anteriores, podrán demostrar su edad y hacerse acreedores a los beneficios correspondientes mediante la presentación de la credencial para votar expedida por el Instituto Federal Electoral.
+
+> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+III.- Para los efectos anteriores, se consideran personas que prestan sus servicios como socorristas de Cruz Roja Mexicana I. A. P., en cualquiera de sus Delegaciones o Bases en el Estado de Sonora, aquellas que acrediten la calidad correspondiente mediante la documentación expedida por la Delegación Estatal de Cruz Roja Mexicana en el Estado de Sonora.
 
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -7516,3 +7522,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b ",deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
+
+B.O. 9 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 65 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE SONORA Y DE LA LEY DE HACIENDA MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
