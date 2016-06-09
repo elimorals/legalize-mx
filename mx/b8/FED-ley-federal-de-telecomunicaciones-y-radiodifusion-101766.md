@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-y-radiodifusion-101766"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-07-14"
-last_updated: "2016-06-01"
+last_updated: "2016-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-07-14"
 ---
 # LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JUNIO DE 2016. EN EL D.O.F. SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE JUNIO DE 2016.]</small>
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -3067,11 +3067,11 @@ Tratándose de concursos que se transmitan a través de señales provenientes de
 
 Las transmisiones de carácter religioso se deben sujetar a lo establecido por la Ley de Asociaciones Religiosas y Culto Público y demás disposiciones en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2016) (F. DE E., D.O.F. 9 DE JUNIO DE 2016)
 
 ###### Artículo 230.
 
-En sus transmisiones, las estaciones radiodifusoras de los concesionarios podrán hacer uso de cualquiera de las leguas (sic) nacionales de conformidad con las disposiciones legales aplicables. Las concesiones de uso social indígena podrán hacer uso de la lengua del pueblo originario que corresponda.
+En sus transmisiones, las estaciones radiodifusoras de los concesionarios podrán hacer uso de cualquiera de las lenguas nacionales de conformidad con las disposiciones legales aplicables. Las concesiones de uso social indígena podrán hacer uso de la lengua del pueblo originario que corresponda.
 
 En caso de que las transmisiones sean en idioma extranjero, deberá utilizarse el subtitulaje o la traducción respectiva al español, en casos excepcionales, la Secretaría de Gobernación podrá autorizar el uso de idiomas extranjeros sin subtitulaje o traducción de conformidad con las disposiciones reglamentarias.
 
