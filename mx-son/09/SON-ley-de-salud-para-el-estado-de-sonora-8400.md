@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2015-11-09"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -1041,9 +1041,11 @@ III. La observación, en el grado que se requiera, de los contactos humanos y an
 
 IV. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
 
-> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
 
-V. La descontaminación microbiana, bacteriana o parasitaria, desinfección y desinsectación de zonas, establecimientos, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
+V. La descontaminación microbiana, bacteriana o parasitaria, desinfección, desinfección de alto nivel y desinsectación de zonas, establecimientos, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación.
+
+Se entiende por Desinfectación de Alto Nivel, el proceso de eliminación dirigidos a la destrucción de los microorganismos, incluyendo formas vegetativas, virus y esporas sicóticas, en cualquier objeto inanimado utilizado dentro de los establecimientos que indique la autoridad, así como la frecuencia necesaria de descontaminación, según sea el espacio a tratar;
 
 VI. La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando representen peligro para la salud;
 
@@ -1051,13 +1053,17 @@ VII. La inspección de pasajeros que puedan ser portadores de gérmenes, así co
 
 VIII. Las demás que determine esta ley, sus reglamentos y la Secretaría de Salud.
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 102.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta ley, las que expida el Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salud.
+Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salud, incluyendo la observancia y cumplimiento de las normas oficiales mexicanas, específicamente, las emitidas para el combate de enfermedades nosocomiales.
+
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 103.
 
-Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos necesarios para proteger la salud individual y colectiva.
+Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos necesarios para proteger la salud individual y colectiva, logrando así mantener un bajo riesgo en las posibilidades de contagio de las enfermedades transmisibles.
 
 ###### ARTICULO 104.
 
@@ -1083,9 +1089,11 @@ Las autoridades sanitarias del Estado podrán ordenar, por causas de epidemia, l
 
 El transporte de enfermos de afecciones transmisibles deberá efectuarse en vehículos acondicionados al efecto; a falta de éstos, podrán utilizarse los que autorice la autoridad sanitaria. Los mismos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 110.
 
-Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación u otras medidas de saneamientos de lugares, edificios, vehículos y objetos.
+Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfección de alto nivel, desinsectación u otras medidas de saneamientos de lugares, edificios, vehículos y objetos.
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
@@ -2007,6 +2015,8 @@ Los responsables de los reclusorios, centros de readaptación social y Centros d
 
 ### CAPITULO III. CERTIFICADOS
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 211.
 
 Para los efectos de esta ley, se entiende por baño público, el establecimiento destinado a utilizar el agua para el aseo corporal, deporte y otros propósitos bajo la forma de baño, y al que pueda concurrir el público. Quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
@@ -2269,7 +2279,7 @@ La resolución de revocación surtirá efectos, en su caso, de clausura definiti
 
 ###### ARTICULO 253.
 
-Para los efectos de esta ley, se entiende por certificado, la constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación o información de determinados hechos.
+Para los efectos de la (sic) esta Ley, se entiende por certificado, la constancia expedida en los términos que establezcan las autoridades sanitarias competentes o autorizadas a terceros para la comprobación o información de determinados hechos.
 
 ###### ARTICULO 254.
 
@@ -2279,9 +2289,17 @@ I. Prenupciales;
 
 II. De defunción;
 
-III. De muerte fetal; y
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
 
-IV. Los demás que determinen las disposiciones legales vigentes.
+III. De muerte fetal;
+
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+IV. Descontaminación microbiana; y
+
+> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+V. Los demás que determinen las disposiciones legales vigentes.
 
 ###### ARTICULO 255.
 
@@ -2290,6 +2308,10 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 ###### ARTICULO 256.
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la Secretaría.
+
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2016)</small>
+
+ARTICULO 256 BIS.- El certificado de descontaminación microbiana, se expedirá cuando se acredite ante la autoridad competente, la aplicación de Desinfectación de Alto Nivel en los establecimientos de servicios dedicados al tratamiento de la salud al que hace referencia el artículo 263 de la presente Ley.
 
 ###### ARTICULO 257.
 
@@ -2319,15 +2341,19 @@ También se realizará mediante informes de verificación que reúnan los requis
 
 Las autoridades sanitarias competentes en el Estado podrán encomendar a sus verificadores, además, actividades de orientación, asesoría, educación y aplicación, en su caso, de las medidas de seguridad a que se refiere el artículo 273 de esta ley.
 
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 263.
 
-Las visitas de verificación podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
+Las visitas de verificación podrán ser ordinarias y extraordinarias, en un lapso no mayor a 90 días. Las primeras se efectuarán en días y horas hábiles, y las segundas en cualquier tiempo.
 
-Para los efectos de esta ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual o autorizado.
+Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios dedicados al tratamiento de la salud como hospitales, clínicas, laboratorios, clínicas ambulatorias, transporte, así como todas aquellas que la autoridad de salud lo indique, se considerarán horas hábiles las de su funcionamiento habitual o autorizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 264.
 
-Los verificadores sanitarios, en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales y de servicios, y en general, a todos los lugares a que hace referencia esta ley.
+Los verificadores sanitarios, en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales y servicios dedicados al tratamiento de la salud como hospitales, clínicas, laboratorios, clínicas ambulatorias, transporte, así como todas aquellas que la autoridad de salud lo indique, y en general, a todos los lugares a que hace referencia esta Ley.
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación estarán obligados a permitir el acceso, a dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
@@ -2355,15 +2381,19 @@ IV. Al concluir la verificación, se dará oportunidad al propietario, responsab
 
 La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará la validez de la diligencia practicada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 267.
 
-La recolección de muestras para verificación sanitaria se efectuará con sujeción a las siguientes reglas:
+La recolección de muestras para verificación sanitaria deberán apegarse estrictamente a los términos referidos a esta ley, las normas oficiales mexicanas y las normas técnicas que emita la Secretaría, según se trate, en los establecimientos industriales, comerciales y de servicios dedicados al tratamiento de la salud como hospitales, clínicas, laboratorios, clínicas ambulatorias, transporte, así como todos aquellos establecimientos y lugares que la autoridad de salud lo indique, las cuales se efectuarán con sujeción a las siguientes reglas:
 
 I. Se observarán las formalidades y requisitos exigidos para las visitas de verificación;
 
 II. La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envase que puedan ser cerrados y sellados;
 
-III. Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra podrá quedar en poder de la misma persona a disposición de la autoridad sanitaria competente y tendrá el carácter de muestra testigo; la última será enviada por la autoridad competente al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra podrá quedar a disposición de la autoridad sanitaria competente y tendrá el carácter de muestra testigo; la última será enviada por la autoridad competente al laboratorio autorizado y habilitado por esta, para su análisis oficial;
 
 IV. El resultado del análisis oficial se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
 
@@ -2424,6 +2454,10 @@ I. El aislamiento;
 II. La cuarentena;
 
 III. La observación personal;
+
+> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2016)</small>
+
+III Bis.- La descontaminación de espacios y superficies por medio de desinfección de alto nivel en su fase de vapor de peróxido de hidrógeno.
 
 IV. La vacunación de personas;
 
@@ -3020,3 +3054,11 @@ B.O. 9 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 55, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
