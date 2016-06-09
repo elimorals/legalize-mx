@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-49-2015-del-pleno-del-consejo-de-la-110608"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2016-02-22"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110608&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-11-20"
 
 ACUERDO GENERAL 49/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN TEPIC
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el 27 de noviembre de 2015.
 
@@ -99,9 +99,11 @@ El Centro contará con la plantilla laboral autorizada, y la Administración del
 
 Los juzgadores del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ACUERDO PRIMERO DEL ACUERDO GENERAL 35/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JUNIO DE 2016)</small>
+
 ###### Artículo 6.
 
-La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Nayarit, con la totalidad de sus municipios.
+La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Nayarit, con la totalidad de sus municipios, así como el territorio del archipiélago de las Islas Marías.
 
 ###### Artículo 7.
 
@@ -224,5 +226,15 @@ D.O.F. 22 DE FEBRERO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 9 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 35/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA LOS SIMILARES 49/2015 QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN TEPIC; Y 52/2008, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN CULIACÁN, SINALOA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN, PARA ESTABLECER LA COMPETENCIA TERRITORIAL DE DICHO CENTRO SOBRE EL ARCHIPIÉLAGO DE LAS ISLAS MARÍAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el catorce de junio de dos mil dieciséis.
+
+SEGUNDO. Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que la sala remota del Centro de Justicia Penal a que se refiere este Acuerdo, entre en operación en la fecha señalada en el artículo anterior.
 
 TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
