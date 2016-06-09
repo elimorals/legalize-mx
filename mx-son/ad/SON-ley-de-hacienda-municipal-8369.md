@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2015-03-02"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 2 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -595,9 +593,9 @@ Cuando los sujetos del impuesto predial, a que se refieren las fracciones I y II
 
 Para los efectos anteriores, se consideran jubilados o pensionados aquellas personas que acrediten la calidad correspondiente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
-Si el sujeto del impuesto predial no posee la calidad de pensionado o jubilado, pero demuestra una edad superior a los sesenta y cinco años o ser discapacitado, tendrá derecho a la reducción del cincuenta por ciento del importe del impuesto predial de su vivienda, previo estudio socioeconómico que acredite ser de escasos recursos.
+Si el sujeto del impuesto predial no posee la calidad de pensionado o jubilado, pero demuestra una edad superior a los sesenta y cinco años o ser discapacitado, o acredita una antigüedad de cuatro años o más, prestando sus servicios como socorrista de Cruz Roja Mexicana I. A. P., en cualquiera de sus Delegaciones o Bases en el Estado de Sonora, tendrá derecho a la reducción del cincuenta por ciento del importe del impuesto predial de su vivienda, previo estudio socioeconómico que acredite ser de escasos recursos.
 
 ###### ARTICULO 54.
 
@@ -1949,7 +1947,7 @@ W).- Abarrotes.
 
 Deberá considerarse el caso de expedición de anuencias municipales por cambio de domicilio.
 
-lI.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
+Il.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
 
 A).- Fiestas sociales o familiares,
 
@@ -2952,3 +2950,11 @@ La afectación de las participaciones federales a que se refiere el párrafo ant
 La afectación de las aportaciones a que se refiere el párrafo primero y, en su caso, la afectación de las participaciones federales a que se refieren los párrafos segundo y tercero de este artículo, se otorgarán a favor del Poder Ejecutivo Federal por conducto del organismo denominado: Comisión Nacional del Agua, quién podrá solicitar al Gobierno del Estado de Sonora, la retención de los recursos afectados por virtud del presente artículo, siempre y cuando los adeudos por morosidad del municipio de que se trate, sean mayores a noventa días naturales.
 
 Para la ejecución del mecanismo de retención y pago de los adeudos generados que se señalan en el presente artículo, se estará a lo dispuesto por los artículos 9º para el caso de participaciones federales, y 51 en el caso de aportaciones del Ramo General 33 Fondo IV, ambas disposiciones de la Ley de Coordinación Fiscal.
+
+B.O. 9 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 65, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE SONORA Y DE LA LEY DE HACIENDA MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
