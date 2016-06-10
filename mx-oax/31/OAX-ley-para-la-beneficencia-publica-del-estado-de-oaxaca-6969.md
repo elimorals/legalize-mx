@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-beneficencia-publica-del-estado-de-oaxaca-6969"
 country: "mx"
 rank: "ley"
 publication_date: "1936-06-27"
-last_updated: "1939-12-30"
+last_updated: "2016-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY PARA LA BENEFICENCIA PUBLICA DEL ESTADO DE OAXACA
 
-LEY PARA LA BENEFICENCIA PUBLICA
+LEY PARA LA BENEFICENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1939.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 27 de Junio de 1936.
 
@@ -37,19 +37,37 @@ D E C R E T A :
 
 LEY PARA LA BENEFICENCIA PUBLICA
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+## TITULO I. DE LA BENEFICENCIA PUBLICA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2016)</small>
+
 ### CAPITULO I. DE LA BENEFICENCIA
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Artículo 1o.
 
-Son materia de la Beneficencia, el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados y cualquiera otro objeto lícito que tenga finalidades semejantes.
+La presente Ley tiene por objeto fijar las bases para la regulación, administración, funcionamiento, vigilancia, y fortalecimiento del Patrimonio de la Beneficencia Pública del Estado de Oaxaca.
+
+La Administración de la Beneficencia Pública es un órgano administrativo desconcentrado de la Administración Pública Estatal.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Artículo 2o.
 
+Son materia de la Beneficencia, el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados y cualquiera otro objeto lícito que tenga finalidades semejantes.
+
 La Beneficencia es pública o privada. Aquélla se imparte por el Estado o los Ayuntamientos; ésta por organizaciones, asociaciones o personas capacitadas para ello y por la Ley.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Artículo 3o.
 
 Las fundaciones de beneficencia son permanentes o transitorias; y siendo una modalidad de la cooperación social, su control, vigilancia e inspección corresponde al Estado.
+
+Ningún establecimiento u obra de beneficencia podrá funcionar o llevarse a cabo en el territorio del Estado, sin el conocimiento y autorización respectiva del Ejecutivo del mismo.
 
 ###### Artículo 4o.
 
@@ -77,9 +95,11 @@ Las disposiciones de la presente Ley no son aplicables a las instituciones de be
 
 ### CAPITULO II. DEL PATRIMONIO DE LA BENEFICENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+
 ###### Artículo 10.
 
-El Patrimonio de la Beneficencia Pública se formará:
+El Patrimonio de la Beneficencia Pública está formado:
 
 I.- Con el importe de las asignaciones que para este objeto se hagan en los Presupuestos de Egresos del Estado o de los Ayuntamientos.
 
@@ -88,6 +108,22 @@ II.- Con los bienes del Estado o de los Ayuntamientos destinados a ese objeto.
 III.- Con los donativos que se hagan con ese fin.
 
 IV.- Con los productos de las contribuciones y participaciones que para ello se decreten.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2016)</small>
+
+V.- Por todo bien mueble o inmueble y demás derechos adquiridos por sucesión testamentaria o no testamentaria, donación o por cualquier otro título afecto a actividades de carácter asistencial. Al efecto todo bien o derecho de quien fallezca sin tener herederos legítimos de conformidad con los lineamientos establecidos por el Código Civil será adjudicado al mencionado Patrimonio.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+Los Ayuntamientos informarán semestralmente a la Secretaría de Finanzas de aquellos bienes inmuebles cuyos propietarios no hayan cubierto el impuesto predial correspondiente en los últimos diez años, a efecto de conocer la posible existencia de bienes susceptibles de ingresar al Patrimonio de la Beneficencia Pública.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+Los bienes del Instituto, así como las operaciones que éste realice con motivo de sus funciones, estarán exentos del pago de impuestos o derechos, estatales y municipales, salvo las excepciones expresamente consignadas en la Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+Los bienes y derechos que constituyan el patrimonio del Instituto son equiparables a los del dominio público, por lo que serán inalienables, imprescriptibles, inembargables y solo podrán grabarse (sic) o enajenarse, previa autorización del Congreso del Estado; bajo el más estricto cumplimiento de las disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -351,7 +387,9 @@ Artículo 65 (sic).- Cuando una fundación u obra de beneficencia autorizada dej
 
 En todos los casos a que se contrae este Capítulo el Ejecutivo en la vía administrativa puede dictar las medidas que estime convenientes para la protección de los bienes o intereses de la Institución, entretanto se resuelva la contienda judicial.
 
-### CAPITULO VII. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2016)</small>
+
+### CAPITULO VII. DE LAS RESPONSABILIDADES
 
 ###### Artículo 58.
 
@@ -372,6 +410,34 @@ Ninguna asociación religiosa, sectaria o política, puede por medio de instituc
 ###### Artículo 62.
 
 Los fundadores tienen derecho para imponer todas las condiciones conducentes al fin que se propongan; con excepción de las que sean contrarias a la Ley o perjudiciales para el desarrollo social.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+###### Artículo 63.
+
+Quienes contravengan las disposiciones de esta ley o cualquiera otra relativa a la materia, serán sancionados conforme a la normatividad aplicable a cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+###### Artículo 64.
+
+Los patronos serán responsables penal, civil y administrativamente, de los actos contrarios a esta Ley, que ejecuten en el ejercicio de sus cargos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+###### Artículo 65.
+
+Las responsabilidades en que incurran los notarios y los jueces por no acatar o contravenir las disposiciones de esta Ley, serán sancionadas en los términos previstos en la ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE JUNIO DE 2016)</small>
+
+### CAPITULO VIII. DEL ACCESO A LA INFORMACION PUBLICA
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+###### Artículo 66.
+
+Para la aplicación de la Ley de Transparencia y Acceso a la Información Pública, la beneficencia contara con una unidad de enlace con las atribuciones que determine el reglamento.
 
 T R A N S I T O R I O S:
 
@@ -412,3 +478,17 @@ P.O. 30 DE DICIEMBRE DE 1939.
 Primero.- Se legalizan todos los acuerdos, disposiciones, trámites, etc., que en el ramo de Beneficencia Pública dictó y autorizó el Ejecutivo del Estado, del 9 de febrero último a la fecha.
 
 Segundo.- El presente decreto surtirá sus efectos a partir de la fecha.
+
+P.O. 10 DE JUNIO DE 2016.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL "DECRETO NÚM. 1982.- MEDIANTE EL CUAL ACEPTA PARCIALMENTE LAS OBSERVACIONES HECHAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO AL DECRETO 1898 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BENEFICENCIA PÚBLICA”.]</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1982.- MEDIANTE EL CUAL ACEPTA PARCIALMENTE LAS OBSERVACIONES HECHAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO AL DECRETO 1898 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BENEFICENCIA PÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Comuníquese al Titular del Ejecutivo del Estado, para los efectos legales correspondientes.
