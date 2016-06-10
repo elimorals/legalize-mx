@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2016-03-09"
+last_updated: "2016-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1225,11 +1225,11 @@ Las sesiones de las comisiones no podrán ser públicas.
 
 Sólo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 111.
 
-Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; y la de transparencia y acceso a la información.
+Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información; y la de reglamentación.
 
 Cada una de estas comisiones, estarán integradas cuando menos por un regidor de la primera minoría.
 
@@ -1284,6 +1284,22 @@ IX. Instruir a los servidores públicos del sujeto obligado, que generen y docum
 X. Declarar la inexistencia de la información.
 
 XI. Las demás que le confieran las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 113 BIS-1. La Comisión de Reglamentación, tendrá, además de las que se les señalen en el Reglamento Interior, las siguientes facultades y obligaciones:
+
+I. Estudiar, analizar y dictaminar los proyectos de iniciativa para modificar, derogar, abrogar o crear reglamentos municipales.
+
+II.- Analizar por cuenta propia cada dos meses los reglamentos y bandos del municipio que requieren ser corregidos, modificados, actualizados o armonizados de acuerdo a las necesidades de cada caso; presentando el dictamen o estudio correspondiente al cabildo para su conocimiento y, en su caso, aprobación.
+
+III.- Realizar los trabajos necesarios para asegurar que el municipio cuente con los reglamentos mínimos que establece el presente Código, sin menoscabo de las características de población y problemas de cada ayuntamiento, en cuyo caso se determinarán los reglamentos que son prioritarios.
+
+IV.- Cuando así lo considere y resulte procedente conforme a derecho, solicitar al cabildo la creación de comités o comisiones interinstitucionales, donde se garantice la participación ciudadana para apoyar en los trabajos encaminados a crear o modificar un reglamento determinado.
+
+V.- Recabar la opinión ciudadana sobre los reglamentos municipales mediante mecanismos de consulta aprobados por el cabildo en los términos de la legislación aplicable, y;
+
+VI. Revisar que la reglamentación municipal cumpla con lo establecido en los artículos 175 y 176 del presente Código, procediendo a realizar las observaciones pertinentes cuando resulte necesario.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -1981,7 +1997,9 @@ XI. Los artículos transitorios, en los cuales habrán de preverse las condicion
 
 La formulación, expedición, y publicación de los ordenamientos legales municipales se llevarán a cabo de conformidad con las siguientes bases normativas de carácter procesal:
 
-I. El derecho de iniciar el reglamento interior para la organización política del Municipio y los bandos de policía y buen gobierno, compete al presidente municipal y a los regidores.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+
+I. El derecho de iniciar el reglamento interior para la organización política del Municipio y los bandos de policía y buen gobierno, compete al presidente municipal, a los regidores y a los síndicos.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -4316,3 +4334,17 @@ NOVENO. Los órganos colegiados contemplados solo en la ley que se abroga deber�
 DÉCIMO. Las unidades administrativas establecidas en la ley abrogada y que al inicio de la vigencia de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza se encuentren en funcionamiento, se regirán conforme a ella y las leyes y reglamentos aplicables.
 
 UNDÉCIMO. Para el ejercicio fiscal del año 2016, la Secretaría de Finanzas con base en la disponibilidad presupuestal, dotará de los recursos financieros necesarios a las instituciones de seguridad pública estatales para el adecuado cumplimiento de las disposiciones del presente decreto.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 449.- SE MODIFICA EL CONTENIDO DEL ARTÍCULO 111, Y SE ADICIONA EL ARTÍCULO 113 BIS-1 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los municipios contarán con un plazo improrrogable de hasta 60 días naturales posteriores a la fecha de publicación del presente decreto, para que establezcan las comisiones de reglamentación, donde deberá garantizarse la participación plural de las fuerzas representadas en cada municipio en los términos del presente ordenamiento.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 450.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN I DEL ARTÍCULO 176 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
