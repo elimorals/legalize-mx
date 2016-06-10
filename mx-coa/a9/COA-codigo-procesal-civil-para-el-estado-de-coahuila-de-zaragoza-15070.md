@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2015-12-15"
+last_updated: "2016-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -13383,8 +13383,22 @@ P.O. 15 DE DICIEMBRE DE 2015.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 229.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA ASÍ COMO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
-PRIMERO.- El presente Decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+PRIMERO.- El presente Decreto entrará en vigor a los 180 días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado en el distrito judicial que determine el Consejo de la Judicatura del Poder Judicial del Estado, conforme al acuerdo que emita para tales efectos.
+
+Del mismo modo, corresponde al Consejo de la Judicatura determinar la gradualidad en la que entrará en vigor en el resto de los distritos judiciales, considerando las necesidades del servicio y la factibilidad presupuestal asignada para esos efectos. En todo caso, el proceso de gradualidad deberá considerar como fecha de conclusión el 31 de diciembre de 2016.
+
+Hasta en tanto entren en vigor las disposiciones previstas en este decreto conforme lo señalan los párrafos que anteceden, continuarán aplicándose las disposiciones previstas, en lo conducente, en el Código Civil para el Estado de Coahuila de Zaragoza, en el Código Procesal Civil para el Estado de Coahuila de Zaragoza y en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Todos los juicios en trámite o que se inicien hasta antes de la entrada en vigor de este decreto, se rigen hasta su conclusión por el Código Procesal Civil para el Estado de Coahuila de Zaragoza vigente en la fecha que se iniciaron.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 477.- SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
