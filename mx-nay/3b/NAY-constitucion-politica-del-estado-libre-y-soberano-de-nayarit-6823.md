@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2015-02-23"
+last_updated: "2016-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -77,11 +77,9 @@ La ley establecerá los límites, extensiones territoriales y colindancias entre
 
 Los municipios podrán convenir entre sí y en cualquier momento sus respectivos límites; dichos arreglos no tendrán efecto sin la aprobación del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-A falta de acuerdo, cualquier municipio podrá acudir ante la Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado, la que conocerá de los conflictos por límites territoriales en la vía contenciosa, en términos de lo dispuesto por el artículo 91 de esta Constitución. Sus resoluciones serán inatacables.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2012)</small>
+A falta de acuerdo, cualquier municipio podrá acudir ante la Sala Constitucional del Tribunal Superior de Justicia del Estado, la que conocerá de los conflictos por límites territoriales en la vía contenciosa, en términos de lo dispuesto por el artículo 91 de esta Constitución. Sus resoluciones serán inatacables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2012)</small>
 
@@ -409,13 +407,15 @@ III. Tener un modo honesto de vivir.
 
 Son derechos del ciudadano Nayarita:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
 
-I. Votar y ser votado en las elecciones estatales para los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación en la materia.
+I. Votar y ser votado en las elecciones estatales para los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y reúnan cuando menos el dos por ciento de apoyo ciudadano del padrón electoral de la geografía estatal, distrital, municipal o por demarcación, según corresponda; en ambos casos deben cumplir con los requisitos, condiciones y términos que determine la legislación en la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 2013)</small>
+Los ciudadanos que participen como candidatos independientes tendrán derecho a recibir financiamiento público y privado, en la forma y términos que establezca la ley de la materia.
 
-Participar en los procesos de plebiscito, referéndum e iniciativa popular, en los términos que establezcan las leyes.
+La fiscalización de los recursos financieros que utilicen los candidatos independientes, se realizará conforme a lo establecido en la ley de la materia.
+
+Los ciudadanos podrán participar en los procesos de consulta popular de plebiscito, referéndum e iniciativa popular, en los términos que establezcan las leyes.
 
 La ley regulará los mecanismos de participación ciudadana en los procesos de referéndum, plebiscito e iniciativa popular, los que se regirán por los siguientes principios:
 
@@ -523,15 +523,19 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+(NOTA: EL 26 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 55/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y hasta doce diputados electos por representación proporcional.
+El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y HASTA DOCE DIPUTADOS ELECTOS POR REPRESENTACIÓN PROPORCIONAL, quienes podrán ser electos hasta por cuatro períodos consecutivos.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+La postulación para ser elegido por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-La demarcación territorial de los dieciocho distritos electorales, será aprobada por el Instituto Estatal Electoral tomando en consideración la que resulte de dividir la población total del Estado, entre el número de los distritos señalados, considerando regiones geográficas de la Entidad.
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido politico no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+La delimitación territorial de los distritos electorales, será aprobada por el Instituto Nacional Electoral tomando en consideración la legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -539,21 +543,21 @@ La demarcación territorial de los dieciocho distritos electorales, será aproba
 
 Para la asignación de los diputados por el principio de representación proporcional, se observarán las disposiciones que establezcan la ley y las siguientes bases:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
 
-I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales, y
+I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
 
-II. Los partidos políticos que hayan obtenido un mínimo de 1.5 por ciento de la votación total, tendrán derecho a concurrir a la asignación;
+II. Los partidos políticos que hayan obtenido un mínimo de tres por ciento de la votación total, tendrán derecho a la asignación, y
 
 (ADICIONADA [N. DE E. REPUBLICADA], P.O. 6 DE OCTUBRE DE 2010
 
 III. Cada partido político que obtenga el mínimo de votación a que se refiere la fracción anterior tendrá derecho a la asignación de cuando menos un diputado de representación proporcional.
 
-(REPUBLICADO, P.O. 6 DE OCTUBRE DE 2010)
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-La ley determinará el procedimiento y requisitos a que se sujetará la asignación de diputados de representación proporcional.
+La ley determinará el procedimiento y requisitos a que se sujetará la asignación de diputados de representación proporcional, atendiendo lo establecido en el artículo anterior.
 
 (REPUBLICADO, P.O. 6 DE OCTUBRE DE 2010)
 
@@ -571,11 +575,13 @@ I. Ser mexicano por nacimiento.
 
 II. Tener 18 años cumplidos al día de la elección.
 
-III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
+III. (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2007)</small>
+(NOTA: EL 26 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 55/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IV. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+
+IV. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección EN EL MUNICIPIO AL QUE CORRESPONDA EL DISTRITO QUE VAYA A REPRESENTAR;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -585,11 +591,13 @@ V. No estar suspendido en sus derechos políticos; y
 
 VI. No ser ministro de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Art. 29.
 
-No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal o integrante de los organismos Electorales, con excepción de los representantes de los partidos políticos; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos 90 días antes del día de la elección. En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal señalados anteriormente, así como los integrantes de los organismos Electorales, el término de su separación se computará un año antes de la elección.
+No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal; consejeros y magistrados electorales del Estado; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos 90 días antes del día de la elección. En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal, así como consejeros y magistrados electorales del Estado señalados anteriormente, el término de su separación se computará un año antes de la elección.
+
+Para el caso de diputados que aspiren a la elección consecutiva, deberán separarse del cargo cuando menos noventa días antes de la elección.
 
 ###### Art. 30.
 
@@ -701,7 +709,7 @@ Al clausurarse el Periodo de Sesiones Ordinarias, se nombrará por el Congreso u
 
 Durante el receso, el Congreso solo podrá ser convocado a sesiones extraordinarias:
 
-l. Por la Diputación Permanente.
+I. Por la Diputación Permanente.
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
 
@@ -919,9 +927,7 @@ XXXIII. Ejercer las facultades que le correspondan conforme a la Constitución G
 
 XXXIV. Conceder el revalúo de cualquiera finca urbana o rústica con sujeción a las leyes de la materia.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
-
-XXXV. Designar al Presidente y a los Consejeros del Organo Electoral del Estado en los términos de la ley de la materia.
+XXXV. (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2011)</small>
 
@@ -1001,9 +1007,9 @@ Es materia de Decreto toda resolución que otorgue derechos y obligaciones a det
 
 Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de Ley o Decreto.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-Previo a la discusión y aprobación en el Congreso, la comisión legislativa encargada de la dictaminación, podrá consultar a la Sala Constitucional-Electoral del Tribunal Superior de Justicia respecto de la constitucionalidad de una iniciativa de ley o decreto presentada, opinión que deberá ser emitida en un término de diez días.
+Previo a la discusión y aprobación en el Congreso, la comisión legislativa encargada de la dictaminación, podrá consultar a la Sala Constitucional del Tribunal Superior de Justicia respecto de la constitucionalidad de una iniciativa de ley o decreto presentada, opinión que deberá ser emitida en un término de diez días.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1059,9 +1065,11 @@ I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer 
 
 II. Nombrar al Gobernador Provisional que deba sustituir al que esté en funciones.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
-III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia y del Órgano Electoral del Estado, del Fiscal General y del Secretario de Seguridad Pública que haga el Gobernador conforme a esta Constitución y a las leyes aplicables.
+III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia, del Fiscal General y del Secretario de Seguridad Pública que haga el Gobernador conforme a esta Constitución y a las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
 Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Diputados y a los empleados dependientes de la Legislatura.
 
@@ -1103,9 +1111,9 @@ I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del E
 
 II. Tener 30 años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
 
-III.- No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna Dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o Titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal o integrantes de los organismos Electorales, con excepción de los representantes de los partidos políticos; el titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público al menos 90 días antes del día de la elección. En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal señalados anteriormente, así como los integrantes de los organismos Electorales, el término de su separación se computará un año antes de la elección.
+III.- No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna Dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o Titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal; consejeros y magistrados electorales del Estado; el titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público al menos 90 días antes del día de la elección. En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal, así como consejeros y magistrados electorales del Estado señalados anteriormente, el término de su separación se computará un año antes de la elección.
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -1401,7 +1409,9 @@ El Secretario General de Gobierno substituirá al Gobernador en las faltas no pr
 
 El ejercicio de la función jurisdiccional corresponde al Poder Judicial, en el ámbito de su competencia y se deposita en el Tribunal Superior de Justicia y en los Juzgados que la ley determine.
 
-El Tribunal Superior de Justicia, se integrará por diecisiete Magistrados Numerarios y funcionará en Pleno o en Salas, Colegiadas o Unitarias.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+El Tribunal Superior de Justicia, se integrará por nueve Magistrados Numerarios y funcionará en Pleno o en Salas, Colegiadas o Unitarias, en los términos que disponga la ley.
 
 Se podrán nombrar hasta tres Magistrados Supernumerarios y durarán en su cargo 5 años.
 
@@ -1459,7 +1469,7 @@ II.- Garantizar y proteger los derechos fundamentales previstos en esta Constitu
 
 III.- Resolver las controversias del orden civil, familiar, penal, administrativo, de adolescentes del fuero común, y mercantil en jurisdicción concurrente;
 
-IV.- Resolver los medios de impugnación en materia electoral en los términos que disponga la ley de la materia; y
+IV.- (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
 V.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
 
@@ -1587,15 +1597,21 @@ Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, en 
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Art. 91.
 
-En el Tribunal Superior de Justicia funcionará una Sala Constitucional-Electoral integrada por cinco magistrados, designados por el Pleno.
+En el Tribunal Superior de Justicia habrá una Sala Constitucional que se integrará por cinco Magistrados y funcionará en los términos que disponga la ley.
 
-El Presidente del Tribunal Superior de Justicia será a su vez el Presidente de la Sala Constitucional-Electoral.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-La Sala Constitucional-Electoral, conocerá en los términos que señale la ley reglamentaria de los asuntos siguientes:
+El Presidente del Tribunal Superior de Justicia será a su vez el Presidente de la Sala Constitucional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+
+La Sala Constitucional, conocerá en los términos que señale la ley reglamentaria de los asuntos siguientes:
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 I.- De las controversias constitucionales que se susciten entre:
 
@@ -1613,9 +1629,13 @@ Lo anterior, siempre que tales controversias no sean competencia de la Suprema C
 
 Las controversias tendrán por objeto resolver si la disposición general, el acto o actos impugnados son conformes o contrarios a esta Constitución, y declarar su validez o invalidez.
 
-Siempre que las controversias versen sobre disposiciones generales y la resolución de la Sala Constitucional-Electoral las declare invalidas, dicha resolución tendrá efectos generales cuando hubieren sido aprobadas por una mayoría de por lo menos cuatro votos.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+Siempre que las controversias versen sobre disposiciones generales y la resolución de la Sala Constitucional las declare invalidas, dicha resolución tendrá efectos generales cuando hubieren sido aprobadas por una mayoría de por lo menos cuatro votos.
 
 En los demás casos la resolución tendrá efectos únicamente respecto de las partes en la controversia.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
 
@@ -1631,7 +1651,11 @@ c).- Cuando menos una tercera parte de los integrantes de algún Ayuntamiento, e
 
 d).- La Comisión Estatal de Defensa de los Derechos Humanos, en contra de normas generales que vulneren los derechos fundamentales previstos en esta Constitución.
 
-Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas cuando menos por cuatro votos de los integrantes de la Sala Constitucional-Electoral, y surtirán efectos a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas cuando menos por cuatro votos de los integrantes de la Sala Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 III.- De las acciones de inconstitucionalidad por omisión, en contra de cualquier autoridad, a quien la Constitución o una ley ordena expedir una norma de carácter general y dicha omisión produce violaciones a esta Constitución.
 
@@ -1639,13 +1663,15 @@ El ejercicio de esta acción corresponderá a cualquier autoridad o vecino del E
 
 La resolución que declare fundada la acción de inconstitucionalidad por omisión, deberá ser aprobada cuando menos por tres votos y fijará el plazo para que la autoridad omisa expida la norma, el cual no podrá exceder de un año.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 IV.- De las cuestiones de inconstitucionalidad planteadas por cualquier autoridad u organismo autónomo, cuando consideren de oficio o a petición de parte, que una norma con carácter general, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a esta Constitución, en los términos que establezca la ley;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 V.- Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos fundamentales, por actos u omisiones que vulneren los derechos reconocidos por esta Constitución, provenientes de cualquier autoridad;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
-
-VI.- De los medios de impugnación en materia electoral en los términos que disponga la ley de la materia;
+VI.- (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
@@ -1655,9 +1681,7 @@ VII.- De los conflictos por límites territoriales entre dos o más municipios d
 
 VIII.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2010)</small>
-
-La Sala Constitucional-Electoral podrá resolver la no aplicación de leyes en materia electoral contrarias a la presente Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ### CAPITULO II. Del Ministerio Público
 
@@ -1797,33 +1821,55 @@ Las leyes que rigen al Poder Judicial y la materia contenciosa administrativa, e
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un Síndico y el número de Regidores que la ley determine. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Art. 107.
 
-Los Ayuntamientos se renovarán en su totalidad cada tres años y sus integrantes, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato en los términos que prescribe la Ley Electoral del Estado.
+Los Ayuntamientos se renovarán en su totalidad cada tres años y sus integrantes, serán electos popularmente por elección directa hasta por dos períodos consecutivos para el mismo cargo, en los términos que prescribe la Constitución General de la República y la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+La postulación por un período adicional sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 La elección de Ayuntamientos, se realizará de la siguiente forma:
 
-I. Presidente y Síndico Municipal serán electos por fórmula, en votación de mayoría relativa;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+I. Presidente y Síndico Municipal serán electos por planilla, en votación de mayoría relativa;
 
-II. Los regidores de mayoría relativa, se elegirán individualmente, de conformidad al número que disponga la ley y territorialización que determine el Instituto Estatal Electoral.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+
+II. Los regidores de mayoría relativa, se elegirán por fórmula de conformidad al número que disponga la ley y territorialización que determine el órgano competente.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 La demarcación territorial de los municipios para la elección de regidores a que se refiere la fracción anterior será determinada tomando en consideración la que resulte de dividir la población total del Municipio, entre el número de regidurías a elegir, considerando regiones geográficas del Municipio.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 En todos los casos y bajo el procedimiento que establezca la Ley Electoral del Estado, se integrará a los Ayuntamientos el número de Regidores que les corresponda, bajo el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 Por cada integrante del Ayuntamiento se elegirá un suplente.
 
-Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad competente, desempeñen las funciones propias de esos cargos, cualesquiera que sea la denominación que se les dé, no podrán ser reelectos para el periodo inmediato.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
-Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el periodo inmediato como propietarios a menos que hayan estado en ejercicio.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+Ninguno de los funcionarios municipales mencionados en el artículo anterior, cuando hayan tenido el carácter de Propietarios, podrán ser electos para el periodo inmediato como suplentes, pero éstos sí podrán ser electos para el periodo inmediato como propietarios, pudiendo ser electos para el mismo cargo hasta por un periodo adicional.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 Si alguno de los miembros dejare de desempeñar su cargo será sustituido por su suplente, o se procederá según lo disponga la ley.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+
 En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni se celebren nuevas elecciones, la legislatura del Estado designará de entre los vecinos a los miembros de los Concejos Municipales que concluirán los periodos respectivos; estos Concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos en esta Constitución y la ley.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 Las autoridades y organismos auxiliares, así como las instituciones municipales dotadas de autonomía, se elegirán y funcionarán conforme lo establezca la ley.
 
@@ -1847,11 +1893,13 @@ II. Ser ciudadano nayarita en pleno ejercicio de sus derechos; originario del mu
 
 III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
 
-IV. No ser Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal; Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado; miembro del Consejo de la Judicatura Estatal o Federal o integrantes de los organismos Electorales, con excepción de los representantes de los partidos políticos, titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos noventa días antes del día de la elección.
+IV. No ser Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal; Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado; miembro del Consejo de la Judicatura Estatal o Federal; consejeros y magistrados electorales del Estado; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos noventa días antes del día de la elección.
 
-En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal señalados anteriormente, así como los integrantes de los organismos Electorales, el término de su separación se computará un año antes de la elección, y
+En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal, así como consejeros y magistrados electorales del estado señalados anteriormente, el término de su separación se computará un año antes de la elección.
+
+Para el caso de los integrantes de ayuntamientos que aspiren a la elección por un periodo adicional, deberán separarse del cargo por lo menos noventa días antes del día de la elección, y
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -2071,7 +2119,7 @@ La función de fiscalización será ejercida conforme a los principios de poster
 
 Apartado A. El Órgano de Fiscalización Superior del Estado tendrá a su cargo:
 
-l. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los de los (sic) poderes del estado, de los municipios, órganos autónomos, y demás entes públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes de desarrollo estatal y municipales, y en los programas gubernamentales que deriven de éstos, a través de los informes que se rendirán en los términos que disponga la ley.
+I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los de los (sic) poderes del estado, de los municipios, órganos autónomos, y demás entes públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes de desarrollo estatal y municipales, y en los programas gubernamentales que deriven de éstos, a través de los informes que se rendirán en los términos que disponga la ley.
 
 También fiscalizará los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
@@ -2369,43 +2417,65 @@ IV. Es responsabilidad del Gobierno del Estado y de los sectores social y privad
 
 V. El sistema de planeación de los municipios se sujetará a los principios, estrategias y bases establecidas por esta Constitución.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### Art. 135.
 
-Las elecciones del Gobernador del Estado, de los miembros del Congreso y de los integrantes de los Ayuntamientos se realizarán mediante elecciones libres, auténticas y periódicas, mediante sufragio universal, secreto y directo.
+Las elecciones del Gobernador del Estado, de los miembros del Congreso y de los integrantes de los Ayuntamientos se realizarán mediante elecciones libres, auténticas y periódicas, mismas que se celebrarán el primer domingo de junio del año que corresponda, mediante sufragio universal, secreto y directo.
 
-Apartado A.- De los partidos políticos.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal y las formas específicas de su intervención en el proceso electoral, respetando las bases que establece la Constitución General de la República.
+Apartado A.- De los partidos políticos y los candidatos independientes.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal y las formas específicas de su participación y organización en el proceso electoral, respetando las bases que establece la Constitución General de la República, esta Constitución y la ley de la materia.
 
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que establecen la Constitución General de la República, esta Constitución y la Ley.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre géneros, en candidaturas a legisladores locales e integrantes de ayuntamientos. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-II. La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+La postulación de candidatos atenderá al principio de paridad de los géneros a los cargos a diputados e integrantes de ayuntamientos por el principio de mayoría relativa y representación proporcional, en los términos que establezca la ley.
 
-III. El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, se otorgará a lo que disponga la ley.
+En caso de ser aritméticamente imposible, se atenderá lo que disponga la ley respectiva.
 
-IV. La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña de Gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+La ley definirá los criterios para garantizar que se cumpla con la paridad de género de forma horizontal y vertical en las candidaturas.
 
-V. Los gastos erogados en las precampañas serán contabilizados, al monto autorizado a cada partido para los efectos de los topes de campaña, con base en los límites a que se refiere la fracción anterior.
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que establecen la Constitución General de la República, esta Constitución y la Ley;
 
-VI. La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+II. La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado. Los candidatos independientes tendrán derecho de acceso a las prerrogativas destinadas para las campañas electorales en los términos que establezcan las leyes de la materia;
 
-Apartado B.- Del acceso de los partidos a los medios de comunicación social.
+III. El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, y se otorgará de acuerdo a lo que disponga la ley.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE OCTUBRE DE 2010)</small>
+El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización vigente para en la zona geográfica correspondiente a la entidad.
 
-I. El acceso equitativo, de los partidos políticos y candidatos, a los medios masivos de comunicación social tendrá las modalidades que al efecto fije la ley. El Instituto Estatal Electoral es la autoridad exclusiva para administrar los espacios en medios de comunicación social, a excepción de lo que en esa materia compete al Instituto Federal Electoral.
+El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las Leyes de la materia;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE OCTUBRE DE 2010)</small>
+IV. La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña de Gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones;
 
-II. Los partidos políticos en ningún momento por sí o por terceras personas podrán contratar o adquirir, tiempos en cualquier modalidad de radio y televisión, o medios masivos de comunicación social. La contratación o adquisición, en su caso, se hará en los términos que disponga la Constitución General de la República, esta Constitución y las leyes aplicables.
+V. Los gastos erogados en las precampañas serán contabilizados, al monto autorizado a cada partido para los efectos de los topes de campaña, con base en los límites a que se refiere la fracción anterior;
 
-Ninguna otra persona física o jurídica, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión o medios masivos de comunicación social dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+VI. El partido político con registro local que no obtenga, al menos, el 3 por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo en el Estado, le será cancelado el registro, y
 
-III. En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. Se prohíbe a los partidos políticos, simpatizantes, militantes, candidatos, o cualquier persona realizar expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas. La ley establecerá las sanciones por la violación a esta disposición.
+VII. La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+
+Apartado B.- Del acceso de los partidos y candidatos independientes a los medios de comunicación social.
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+
+I. El acceso equitativo, de los partidos políticos y candidatos, a los medios masivos de comunicación social tendrá las modalidades que al efecto fije la ley. El Instituto Estatal Electoral podrá administrar los espacios en medios de comunicación social, a excepción de lo que en esa materia compete al Instituto Nacional Electoral.
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+
+II. Los partidos políticos y candidatos independientes en ningún momento por sí o por terceras personas podrán contratar o adquirir, tiempos en cualquier modalidad de radio y televisión. La contratación o adquisición, en su caso, se hará en los términos que dispongan la Constitución General de la República y las leyes aplicables.
+
+Ninguna otra persona física o jurídica, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión o medios masivos de comunicación social dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio del estado de este tipo de mensajes contratados en el territorio nacional o en el extranjero.
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+
+III. En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. Se prohíbe a los partidos políticos, simpatizantes, militantes, candidatos o cualquier persona realizar expresiones que calumnien a las personas. La ley establecerá las sanciones por la violación a esta disposición.
+
+Tratándose de propaganda política o electoral que difundan los partidos políticos o candidatos independientes en medios distintos a radio y televisión, que calumnie a las personas, partidos e instituciones, será sancionada por el órgano competente en los términos que establezca la ley de la materia.
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 IV. La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales.
 
@@ -2421,33 +2491,61 @@ La ley definirá los actos anticipados de precampaña o campaña electoral y det
 
 Toda persona que realice actos de proselitismo o promoción personal de cualquier índole sin sujetarse a las disposiciones o tiempos que señale la legislación de la materia, se le impondrán las sanciones que señale la ley.
 
-V. Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación social, de toda propaganda gubernamental. La única excepción a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en caso de emergencia.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+
+V. En lo referente a la regulación de la propaganda gubernamental, se estará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 Apartado C.- Del Instituto Estatal Electoral.
 
-La organización de las elecciones estatales es una función pública que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Poder Legislativo, los partidos políticos con registro en el Estado y los ciudadanos, en los términos que ordene la ley.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+La organización de las elecciones estatales es una función pública que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Instituto Nacional Electoral, los partidos políticos con registro o acreditación en el Estado y los ciudadanos, en los términos de ley. Sus principios rectores son la certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad.
 
-El Instituto Estatal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, técnicos y de vigilancia. El Consejo Local Electoral, será su órgano superior de dirección y se integrará por un Consejero Presidente y cuatro consejeros electorales y concurrirán, con voz pero sin voto, los representantes de los partidos políticos. El Consejo funcionará sólo durante la preparación, desarrollo y conclusión del proceso electoral, o en los periodos fuera de proceso, en los términos que disponga la ley. La ley determinará las reglas para la organización y funcionamiento de sus órganos; los procedimientos y sanciones por violación a las leyes electorales. Las disposiciones de la ley electoral y del Estatuto que con base en ella apruebe el Instituto Estatal Electoral, regirán las relaciones de trabajo con los servidores del organismo público. Los consejos municipales y las mesas directivas de casilla estarán integradas por ciudadanos. Asimismo el Instituto Estatal Electoral en los términos que la Ley señale, determinará el ámbito territorial de los distritos electorales en la entidad y demarcaciones municipales electorales correspondientes a cada uno de los municipios.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-La ley establecerá los requisitos que deberán reunir para su designación el Consejero Presidente, los consejeros electorales, y sus órganos técnicos; no podrán ocupar, dentro de los dos años siguientes a la fecha de su retiro, cargos en los poderes públicos en cuya elección hayan participado.
+El Instituto Estatal Electoral será autoridad en la materia electoral y de participación ciudadana, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, técnicos y de vigilancia en los términos que disponga la ley. La ley determinará las reglas para la organización y funcionamiento de sus órganos; los procedimientos y sanciones por violación a las leyes electorales. Las disposiciones de la legislación electoral, regirán las relaciones de trabajo entre el Instituto Estatal Electoral y los servidores del organismo público. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado atendiendo al ejercicio fiscal del año correspondiente. Los consejos municipales y las mesas directivas de casilla estarán integradas por ciudadanos.
 
-La fiscalización de las finanzas de los partidos políticos con registro en el Estado, estará a su cargo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
-Apartado D.- Del Sistema de Medios de Impugnación.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+La fiscalización de las finanzas de los partidos políticos y candidatos independientes estará a cargo del Instituto Nacional Electoral en los términos de ley.
 
-Al Poder Judicial le corresponde garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, en los términos que dispone esta Constitución y la ley; actuará con autonomía e independencia en sus decisiones y dará definitividad a las distintas etapas de los procesos electorales en el ámbito de su competencia. Las sesiones y resoluciones serán públicas, en los términos que disponga la ley.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+Apartado D.- Del Tribunal Estatal Electoral y el Sistema de Medios de Impugnación.
 
-Las autoridades electorales sustentarán sus determinaciones en los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
+Habrá un Tribunal Electoral autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen esta Constitución y la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento en los términos que disponga la ley.
 
-La ley fijará las causales de nulidad de las elecciones de gobernador, diputados y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas. Asimismo, establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad, y señalarán los supuestos y las reglas para la realización en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
+Al Tribunal le corresponde garantizar los actos y resoluciones electorales, en los términos que disponen esta Constitución y la ley; actuará con autonomía e independencia en sus decisiones y serán definitivas en el ámbito de su competencia. Sus determinaciones se sustentarán en los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+
+Funcionará de conformidad a lo dispuesto por la ley secundaria del ámbito local, y se integrará por cinco Magistrados designados por la Cámara de Senadores del Congreso de la Unión. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado.
+
+Los Magistrados del Tribunal Electoral designarán a su Presidente por mayoría de votos cada tres años de conformidad a las formalidades y procedimiento previsto en la ley.
+
+Quien ocupe la Presidencia del Tribunal no podrá reelegirse.
+
+Quienes hayan fungido como magistrados electorales no podrán asumir un cargo público en los órganos emanados de las elecciones celebradas durante su periodo, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
 En materia electoral la interposición de los medios de impugnación, constitucionales o legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+El Tribunal Electoral podrá resolver la no aplicación de leyes en materia electoral contrarias a la presente Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio.
+
+La ley fijará las causales de nulidad de las elecciones de gobernador, diputados y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas por violaciones graves, dolosas y determinantes en los siguientes casos señalados de manera enunciativa:
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+En el manejo de recursos económicos, materiales y humanos, los servidores en la entidad, independientemente del cargo y nivel de gobierno, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos, precandidatos, aspirantes o candidatos.
 
 Las leyes correspondientes tipificarán los delitos en materia electoral y determinarán las sanciones que por ellos se impongan.
 
@@ -3516,3 +3614,35 @@ Tercero.- El Congreso del Estado deberá armonizar la Ley de Transparencia y Acc
 Cuarto.- Quedan a salvo los derechos adquiridos por el Licenciado Jesús Ramón Velázquez Gutiérrez, actual Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
 
 Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA POLÍTICO - ELECTORAL”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo dispuesto en los siguientes artículos.
+
+Segundo.- Considerando lo dispuesto en el artículo 63 de la Constitución Política del Estado Libre y Soberano de Nayarit, por única ocasión el ejercicio constitucional del Gobernador del Estado que resulte electo el primer domingo de junio del año dos mil diecisiete, comprenderá del día diecinueve de septiembre del año dos mil diecisiete, al día dieciocho de septiembre del año dos mil veintiuno.
+
+Tercero.- Los integrantes del Congreso del Estado que resulten electos en el proceso electoral a verificarse en el año dos mil diecisiete, durarán en su cargo por única ocasión cuatro años.
+
+Cuarto.- Los miembros de los ayuntamientos que resulten electos en el proceso electoral a verificarse en el año dos mil diecisiete, durarán en su cargo por única ocasión cuatro años.
+
+Quinto.- Para los efectos del artículo 135, apartado D, una vez concluido el proceso de reforma constitucional local, comuníquese el presente Decreto a la Cámara de Senadores del Honorable Congreso de la Unión.
+
+Sexto.- Una vez realizada la designación de los magistrados electorales, deberán hacerse todas las previsiones presupuestales y de orden procedimental, para el debido funcionamiento del Tribunal Estatal Electoral, incluyendo la transferencia de expedientes y asuntos pendientes en materia electoral en el Poder Judicial al nuevo Órgano de Jurisdicción Electoral Local.
+
+Séptimo.- El Poder Judicial del Estado, por conducto de su Presidente, el día de la entrada en vigor del funcionamiento del Tribunal Estatal Electoral deberá realizar las formalidades necesarias para hacer la entrega recepción de los asuntos en trámite.
+
+(NOTA: EL 26 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 55/2016, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO OCTAVO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+OCTAVO.- EL TRIBUNAL ESTATAL ELECTORAL ENTRARÁ EN FUNCIONES A PARTIR DEL DÍA 2 DE ENERO DEL AÑO 2017, FECHA EN LA QUE SE EXTINGUEN LA DENOMINACIÓN Y COMPETENCIA DE LA SALA CONSTITUCIONAL ELECTORAL DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+Noveno.- La integración de nueve Magistrados Numerarios del Tribunal Superior de Justica (sic) del Poder Judicial del Estado de Nayarit, surtirá sus efectos a partir del 19 de diciembre del año 2019.
+
+Décimo.- Los Magistrados que actualmente se encuentran en funciones seguirán en el cargo hasta la conclusión del periodo para el que fueron nombrados.
+
+Décimo Primero.- El Congreso del Estado deberá realizar las adecuaciones legales relativas al Poder Judicial en un plazo que no exceda al 19 de diciembre de 2019.
+
+Décimo Segundo.- En atención a lo previsto en el artículo 105, fracción II, penúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, en un plazo que no exceda a los noventa días previos del inicio del proceso electoral local a efectuarse en el año dos mil diecisiete, el Congreso del Estado deberá realizar las adecuaciones legales conducentes.
+
+Décimo Tercero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
