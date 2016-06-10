@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-familiares-para-el-estado-de-110811"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-15"
-last_updated: "2015-12-15"
+last_updated: "2016-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 477 PUBLICADO EN EL P.O. 10 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EN EL DISTRITO JUDICIAL QUE DETERMINE EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, CONFORME AL ACUERDO QUE EMITA PARA TALES EFECTOS]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -2395,7 +2397,11 @@ T R A N S I T O R I O S
 
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- El presente decreto entrará en vigor ciento ochenta días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 180 días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado en el distrito judicial que determine el Consejo de la Judicatura del Poder Judicial del Estado, conforme al acuerdo que emita para tales efectos.
+
+Del mismo modo, corresponde al Consejo de la Judicatura determinar la gradualidad en la que entrará en vigor en el resto de los distritos judiciales, considerando las necesidades del servicio y la factibilidad presupuestal asignada para esos efectos. En todo caso, el proceso de gradualidad deberá considerar como fecha de conclusión el 31 de diciembre de 2016.
 
 TERCERO.- Todos los juicios en trámite o que se inicien hasta antes de la entrada en vigor de este decreto, se rigen hasta su conclusión por el Código Procesal Civil para el Estado de Coahuila de Zaragoza vigente en la fecha que se iniciaron.
 
@@ -2448,3 +2454,11 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 477.- SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
