@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-fomento-agropecuario-956
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-09"
-last_updated: "2015-07-03"
+last_updated: "2016-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 9 de agosto de 2013.
 
@@ -123,11 +123,17 @@ G) Dirección de Agricultura.
 
 2) Departamento de Fortalecimiento Agrícola.
 
-III. Delegación Ensenada - San Quintín.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+
+III) Delegación Ensenada - San Quintín - Zona Sur.
 
 1) Subdelegación de San Quintín.
 
 2) Representación del Valle de la Trinidad.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+3) Subdelegación Zona Sur.
 
 IV. Delegación Tijuana - Tecate y Playas de Rosarito.
 
@@ -1081,11 +1087,17 @@ VII.- Las demás que le sean encomendadas por el superior inmediato, y aquellas 
 
 Para una oportuna atención y eficiente despacho de sus asuntos, la Secretaría contará con las siguientes Delegaciones, Subdelegaciones y una Representación:
 
-A) Delegación Ensenada - San Quintín.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+
+A) Delegación Ensenada - San Quintín - Zona Sur.
 
 1) Subdelegación San Quintín.
 
 2) Representación Valle de la Trinidad.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+3) Subdelegación Zona Sur.
 
 B) Delegación Tijuana - Tecate y Playas de Rosarito.
 
@@ -1155,10 +1167,18 @@ SECRETARIO DE FOMENTO AGROPECUARIO
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. DE 3 DE JULIO DE 2015.
+P.O. 3 DE JULIO DE 2015.
 
 PRIMERO.- La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las unidades administrativas con denominación nueva o distinta, que aparecen en el presente decreto y que tienen competencia en asuntos que anteriormente correspondían a otras áreas o unidades, se harán cargo de los mismos, terminarán su substanciación y dictarán las resoluciones que corresponda.
 
 TERCERO.- En tanto no se expidan los manuales que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que deban regularse para el mejor despacho y funcionamiento de la Secretaría.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN III, AGREGANDO –ZONA SUR A SU DENOMINACIÓN Y SE ADICIONA INCISO 3) DENOMINADO SUBDELEGACIÓN ZONA SUR; ARTÍCULO 46 INCISO A) AGREGANDO –ZONA SUR A SU DENOMINACIÓN, Y SE ADICIONA NUMERAL 3) DENOMINADO SUBDELEGACIÓN ZONA SUR; TODOS DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las unidades administrativas creadas que aparecen en el presente decreto y que tienen competencia en asuntos que anteriormente correspondían a otras áreas o unidades, se harán cargo de los mismos, terminarán su sustanciación y dictarán las resoluciones que corresponda.
