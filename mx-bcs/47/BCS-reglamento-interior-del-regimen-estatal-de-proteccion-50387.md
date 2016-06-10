@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-regimen-estatal-de-proteccion-50387"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-10"
-last_updated: "2006-04-10"
+last_updated: "2016-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50387&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DEL REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA SUR, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016 (ABROGADA).
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 10 de abril de 2006.
 
@@ -656,3 +658,13 @@ Lic. Víctor Manuel Guluarte Castro
 Secretario de Salud Estatal
 
 Dr. Francisco Cardoza Macías.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO INTERIOR DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA SUR”.]
+
+Primero: El presente reglamento entrará en vigor al día siguiente de su publicación en el Boletín oficial del Estado.
+
+Segundo: se abroga el Reglamento anterior del Régimen Estatal de Protección Social en Salud, publicado en el Boletín Oficial del Gobierno del Estado con número 17 Bis de fecha 10 de Abril de 2006.
