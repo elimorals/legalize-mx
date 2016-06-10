@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2016-05-31"
+last_updated: "2016-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,15 @@ state: "COA"
 ---
 # LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
+[NOTA: 1 DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR 180 DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE COAHUILA.]
+
+[NOTA: 2 DE CONFORMIDAD CON LA REFORMA AL ARTÍCULO TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EN EL DISTRITO JUDICIAL QUE DETERMINE EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, CONFORME AL ACUERDO QUE EMITA PARA TALES EFECTOS.
+
+DEL MISMO MODO, CORRESPONDE AL CONSEJO DE LA JUDICATURA DETERMINAR LA GRADUALIDAD EN LA QUE ENTRARÁ EN VIGOR EN EL RESTO DE LOS DISTRITOS JUDICIALES CONSIDERANDO LAS NECESIDADES DEL SERVICIO Y LA FACTIBILIDAD PRESUPUESTAL ASIGNADA PARA ESOS EFECTOS. EN TODO CASO, EL PROCESO DE GRADUALIDAD DEBERÁ CONSIDERAR COMO FECHA DE CONCLUSIÓN EL 31 DE DICIEMBRE DE 2016.]
+
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -4275,7 +4281,11 @@ Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes 
 
 T R A N S I T O R I O S
 
-PRIMERO.- El presente Decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+PRIMERO.- El presente decreto entrará en vigor a los 180 días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado en el distrito judicial que determine el Consejo de la Judicatura del Poder Judicial del Estado, conforme al acuerdo que emita para tales efectos.
+
+Del mismo modo, corresponde al Consejo de la Judicatura determinar la gradualidad en la que entrará en vigor en el resto de los distritos judiciales, considerando las necesidades del servicio y la factibilidad presupuestal asignada para esos efectos. En todo caso, el proceso de gradualidad deberá considerar como fecha de conclusión el 31 de diciembre de 2016.
 
 SEGUNDO.- Las disposiciones de la Ley para la Familia de Coahuila de Zaragoza, regirán a los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan derechos adquiridos.
 
@@ -4338,3 +4348,11 @@ P.O. 31 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 468.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; ASÍ MISMO, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 477. SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
