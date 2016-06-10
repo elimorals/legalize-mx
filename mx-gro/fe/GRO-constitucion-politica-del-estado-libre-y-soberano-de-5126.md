@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2014-06-30"
+last_updated: "2016-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -2545,31 +2545,55 @@ El Ministerio Público se organizará en una Fiscalía General del Estado de Gue
 
 #### SECCIÓN II. INTEGRACIÓN
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 140.
 
-La Fiscalía General se integra con:
+La Fiscalía General del Estado se integra con:
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Un Fiscal General nombrado por el Congreso del Estado;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 II. Un Consejo de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Fiscalías especializadas que, cuando menos, serán las que se prevén y que, amén de la custodia de la legalidad en sus respectivas materias, tendrán las facultades que les confiera la ley orgánica:
 
-a) Fiscalía de delitos electorales; y,
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
-b) Fiscalía de combate a la corrupción.
+a) Fiscalía de delitos electorales;
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+b) Fiscalía de combate a la corrupción, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2016)</small>
+
+c) Fiscalía especializada en materia de desaparición forzada y búsqueda de personas desaparecidas.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IV. Fiscalías especiales y regionales;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 V. Agencias del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VI. Una policía investigadora del delito, confiable y profesional;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VII. Un órgano de servicios periciales.
 
-La Fiscalía General contará con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley orgánica y en su reglamento Interior.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+La Fiscalía General contará con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley orgánica y en su reglamento interior.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -4583,7 +4607,9 @@ PRIMERO. El presente Decreto entrará en vigor a los treinta días hábiles sigu
 
 SEGUNDO. El titular del poder ejecutivo del Estado de Guerrero, dispondrá que el texto íntegro del presente decreto, se traduzca y sea plenamente difundido en forma oral y escrita en las lenguas indígenas del Estado, en un plazo no mayor a doce meses contados a partir de la entrada en vigor del presente Decreto.
 
-TERCERO. El Congreso del Estado de Guerrero, deberá aprobar y reformar, en un plazo no mayor de veinticuatro meses, contados a partir de la entrada en vigor del presente Decreto, las leyes que sean pertinentes para hacer concordar la legislación con las nuevas disposiciones constitucionales.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+
+TERCERO. El Congreso del Estado de Guerrero, deberá de aprobar y reformar, a más tardar el día 15 de marzo del año 2017, las Leyes que sean pertinentes para hacer concordar la legislación con las nuevas disposiciones constitucionales.
 
 CUARTO. En tanto se realizan las reformas correspondientes que se deriven de esta Constitución, las disposiciones de la legislación actual mantendrán su vigencia y aplicación.
 
@@ -4658,3 +4684,41 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase el presente Decreto a los Honorables Ayuntamientos de la entidad para los efectos en lo dispuesto por el Artículo 199, numeral 1 fracción III, de la Constitución Política del Estado Libre y Soberano de Guerrero y oportunamente en su caso, expídase el Acuerdo de ratificación respectiva.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, y en la página web de éste Poder Legislativo.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 175 POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 453 DE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los H. Ayuntamientos del Estado de Guerrero, para dar cumplimiento a lo dispuesto en el artículo 199, numeral 1, fracción III de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase la declaratoria respectiva conforme a lo dispuesto en el numeral 2 de (sic) artículo ya referido.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez emitida la Declaratoria por el Congreso del Estado, la presente reforma Constitucional entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO TERCERO.
+
+Remítase este Decreto al Lic. Héctor Antonio Astudillo Flores, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto para el conocimiento general en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese en el Portal Web del Congreso del Estado y désele la más amplia difusión para su conocimiento general.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 105 POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 140 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos de la entidad para efecto de lo dispuesto por la fracción III del numeral 1 del Artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, y oportunamente expídase la Declaratoria respectiva conforme a lo dispuesto por el numeral 2 del mismo artículo.
+
+SEGUNDO. Una vez emitida la Declaratoria por el Congreso del Estado, la presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+TERCERO. En un plazo de 60 días naturales a la entrada en vigor del presente decreto, la Fiscalía General del Estado deberá integrar en su organigrama a la Fiscalía Especializada en materia de desaparición forzada y búsqueda de personas desaparecidas, asimismo establecerá en su reglamento las funciones y atribuciones del órgano de procuración de justicia que se crea.
+
+CUARTO. Remítase este Decreto al Licenciado Héctor Astudillo Flores, Gobernador Constitucional del Estado de Guerrero, para su conocimiento y efectos procedentes.
+
+QUINTO. Publíquese el presente Decreto para el conocimiento general en el Periódico Oficial del Gobierno del Estado, en el portal Web del Congreso del Estado y difúndase a través de los medios de comunicación.
