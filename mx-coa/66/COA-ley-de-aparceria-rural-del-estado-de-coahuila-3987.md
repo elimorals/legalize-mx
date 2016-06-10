@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aparceria-rural-del-estado-de-coahuila-3987"
 country: "mx"
 rank: "ley"
 publication_date: "1935-08-14"
-last_updated: "1945-11-28"
+last_updated: "2016-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE APARCERIA RURAL DEL ESTADO DE COAHUILA
 
-LEY DE APARCERIA RURAL
+LEY DE APARCERÍA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1945.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO NÚMERO 454, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2016 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 14 de agosto de 1935.
 
@@ -414,3 +416,9 @@ Profr. Manuel Mijares V.
 P.O. 28 DE NOVIEMBRE DE 1945.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE, PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 10 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 454.- SE ABROGA LA LEY DE APARCERÍA RURAL, PUBLICADA EN EL PERIÓDICO OFICIAL EL 14 DE AGOSTO DE 1935”.]
+
+Artículo Único.- La Ley en mención quedará abrogada al día siguiente de la publicación del Decreto correspondiente en el Periódico Oficial del Gobierno del Estado.
