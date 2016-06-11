@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-universidad-del-papaloapan-del-77530"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-13"
-last_updated: "2010-11-13"
+last_updated: "2016-06-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA UNIVERSIDAD DEL PAPALOAPAN DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA UNIVERSIDAD DEL PAPALOAPAN, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de noviembre de 2010.
 
@@ -2707,3 +2709,15 @@ Se deja sin efecto todas aquellas disposiciones contenidas en los Reglamentos Un
 El presente reglamento tiene vigencia indefinida a partir de su publicación pudiendo ser reformado o adicionado por el Consejo Académico.
 
 Así lo acordaron y firman los integrantes del H. Consejo Académico de la Universidad integrado por: El Dr. Modesto Seara Vázquez en su calidad de Presidente de ese Órgano Colegiado, M.C. Héctor López Arjona en su calidad de Vice-Rector Académico, L.C.P. Rubén Jiménez Cervantes en su calidad de Vice-Rector Administrativo y Secretario de Actas, M.D.I. María Teresa Orrala Espinosa, M.C. Sergio Fabián Ruiz Paz, Dr. José Abad Zavaleta, M.C. Raúl, Moreno de la Torre, M.A. Luis Enrique Flores Chávez, M.C. Roxana Martínez Pascual, M.C. Miguel Ángel García Muñoz, Dr. Francisco Gutiérrez Zainos, Dra. Ana Karin Navarro Martinez, Dr. Miguel Velázquez Manzanares, Dr. Guillermo Ramírez Galicia, C. Oziel Ocampo Cazarín, C. Elvira Gaytán Zúñiga, C.P. José Luis Balbuena Marín, los Jefes de Carrera, los Directores de Instituto y demás miembros que integren el Consejo Académico de acuerdo al decreto de Creación. Aprobándose el citado reglamento por ese Órgano Colegiado con fundamento en los artículos 1, 2, 3, 4 Fracción I, 6, 9, 10 Fracción II y demás relativos aplicables en el Decreto de Creación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA UNIVERSIDAD DEL PAPALOAPAN”.]
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aún cuando no estén expresamente derogadas.
+
+TERCERO. Queda sin efecto el Reglamento Interno publicado el 13 (sic) noviembre del 2010 en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
