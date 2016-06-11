@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2016-02-17"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1126,6 +1128,10 @@ F.- Para que arme y ponga en servicio la Guardia Nacional.
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2011)</small>
 
 G.- Para que de conformidad con la ley de la materia, celebre contratos sobre proyectos de inversión pública a largo plazo. Las obligaciones derivadas de los citados proyectos de inversión no constituyen deuda pública.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+H.- El cierre definitivo de una institución educativa oficial.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2012)</small>
 
@@ -2291,9 +2297,15 @@ III. Tener título de Licenciado en Derecho debidamente registrado y cinco años
 
 IV. No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2016)</small>
+
 ###### Art. 122.
 
-(DEROGADO, P.O. 1 DE OCTUBRE DE 1986)
+Además de las fiscalías especializadas que determine la ley, habrá una Fiscalía Especializada Anticorrupción, con las atribuciones señaladas en el ordenamiento secundario.
+
+El titular de esta Fiscalía será nombrado y removido por el Fiscal General del Estado; dicha decisión podrá ser objetada por el Congreso del Estado con el voto de las dos terceras partes de los diputados presentes, en un plazo que no podrá exceder los treinta días naturales; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2786,6 +2798,10 @@ Los particulares podrán impartir educación en todos sus tipos y modalidades, e
 ###### Art. 153.
 
 La educación pública en el Estado estará a cargo del Ejecutivo por conducto de la dependencia que determine la ley.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Para el cierre definitivo de una institución educativa oficial, se requerirá la autorización del Congreso del Estado, por mayoría calificada de las dos terceras partes de los Diputados presentes en el Pleno.
 
 ###### Art. 154.
 
@@ -4428,3 +4444,29 @@ Conforme lo que dispone el artículo 202 de la Constitución Política del Estad
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1360/2016 II P.O., MEDIANTE EL CUAL SE ADICIONA UN INCISO H) A LA FRACCIÓN IX, DEL ARTÍCULO 64; ASÍ COMO UN SEGUNDO PÁRRAFO AL ARTÍCULO 153, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1364/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 122 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El ARTÍCULO PRIMERO del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; en tanto el ARTÍCULO SEGUNDO correspondiente a las reformas de la Ley Orgánica de la Fiscalía General del Estado, lo hará un día después de que entre en vigor la reforma constitucional.
