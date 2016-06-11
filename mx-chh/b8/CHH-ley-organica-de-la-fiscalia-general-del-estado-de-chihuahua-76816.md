@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2016-02-27"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -155,6 +157,28 @@ IV. Diseñar la política criminal para la aplicación de las medidas de segurid
 
 V. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE ADICIONÓ ESTE APARTADO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+E. EN MATERIA DE ANTICORRUPCIÓN.
+
+I. REVISAR LOS HECHOS Y EVIDENCIAS PARA LA DETECCIÓN E INVESTIGACIÓN DE ACTOS Y OMISIONES QUE SEAN CONSTITUTIVOS DE UN DELITO RELACIONADO CON HECHOS DE CORRUPCIÓN;
+
+II. SOLICITAR INFORMACIÓN A LAS INSTITUCIONES PÚBLICAS EN RELACIÓN CON ESTA MATERIA;
+
+III. COORDINAR SU ACTUACIÓN CON LAS DEMÁS UNIDADES ADMINISTRATIVAS DE LA FISCALÍA GENERAL DEL ESTADO;
+
+IV. FORMULAR LOS REQUERIMIENTOS DE INFORMACIÓN Y DE DOCUMENTOS RELATIVOS A HECHOS DE CORRUPCIÓN;
+
+V. RECIBIR LAS QUEJAS O DENUNCIAS DE LOS ORGANISMOS FISCALIZADORES, ASÍ COMO DE LOS CIUDADANOS, YA SEA DE SERVIDORES PÚBLICOS O ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL O PARAMUNICIPAL EN EJERCICIO O CON MOTIVO DE SU EMPLEO, CARGO O COMISIÓN, REFERENTES A HECHOS DE CORRUPCIÓN, PARA LA REVISIÓN CORRESPONDIENTE;
+
+VI. ESTABLECER TANTO MEDIDAS PRECAUTORIAS COMO MECANISMOS NECESARIOS PARA LA REPARACIÓN DEL DAÑO;
+
+VII. ESTABLECER MECANISMOS DE COOPERACIÓN Y COLABORACIÓN CON AUTORIDADES FEDERALES, ESTATALES Y MUNICIPALES, A TRAVÉS DE LA FIRMA DE CONVENIOS CON INSTITUCIONES U ORGANISMOS PÚBLICOS O PRIVADOS, NACIONALES O EXTRANJEROS, Y
+
+VIII. CREAR Y DIFUNDIR PROGRAMAS, PROYECTOS Y ESTUDIOS PERMANENTES DE INFORMACIÓN Y FOMENTO A LA CULTURA DE LA DENUNCIA Y DE LA LEGALIDAD EN RELACIÓN A ESTA MATERIA.
+
 ### CAPÍTULO II. De la Organización
 
 ###### Artículo 3.
@@ -175,15 +199,31 @@ IV. (DEROGADA, P.O. 27 DE FEBRERO DE 2016)
 
 V. La Fiscalía Especializada en Control, Análisis y Evaluación;
 
-VI. La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales; y
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VII. Los agentes del Ministerio Público.
+VI. LA FISCALÍA ESPECIALIZADA EN EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2012)</small>
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-El Fiscal General del Estado y los Fiscales Especializados en la Investigación y Persecución del Delito; en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación, y en la Ejecución de Penas y Medidas Judiciales, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VII. LA FISCALÍA ESPECIALIZADA ANTICORRUPCIÓN, Y
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE ADICIONÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VIII. LOS AGENTES DEL MINISTERIO PÚBLICO.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE REFORMÓ ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE LA PRESENTE REFORMA CORRESPONDE AL PENÚLTIMO PÁRRAFO.]</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+EL FISCAL GENERAL DEL ESTADO Y LOS FISCALES ESPECIALIZADOS EN LA INVESTIGACIÓN Y PERSECUCIÓN DEL DELITO; EN ATENCIÓN A MUJERES VÍCTIMAS DEL DELITO POR RAZONES DE GÉNERO; EN CONTROL, ANÁLISIS Y EVALUACIÓN; EN EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES, Y ANTICORRUPCIÓN, INTERVENDRÁN COMO REPRESENTANTES DEL MINISTERIO PÚBLICO, DE ACUERDO CON LAS FACULTADES OTORGADAS POR LA LEY Y LAS EXPRESAMENTE CONFERIDAS POR EL FISCAL GENERAL DEL ESTADO.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -339,6 +379,18 @@ c) Arresto hasta por treinta y seis horas.
 
 La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales ejercerá las atribuciones contenidas en el apartado D del artículo 2 de esta Ley y demás disposiciones legales aplicables.
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 11 BIS. La Fiscalía Especializada Anticorrupción, es una unidad adscrita a la oficina del Fiscal General del Estado, con autonomía técnica, de gestión y funcional conforme a las facultades otorgadas por la Ley al Ministerio Público.
+
+Esta tendrá como objeto realizar las acciones necesarias para llevar a cabo la planeación, atención, prevención, investigación y persecución de los delitos relacionados con hechos de corrupción en el ámbito estatal.
+
+Los delitos relacionados con hechos de corrupción comprenden los tipos penales que establece el Código Penal en el Título Décimo Séptimo denominado "Delitos contra el Servicio Público cometidos por Servidores Públicos" y Título Décimo Noveno llamado "Delitos contra el adecuado Desarrollo de la Justicia cometidos por Servidores Públicos", así como cualquier otro delito de contenido patrimonial tipificado en el mismo Código Penal o en Leyes Especiales, en cuya comisión hubiese intervenido como autor o partícipe, un servidor público del Estado o de los Municipios o de las entidades de la administración pública paraestatal o paramunicipal, respectivamente, en ejercicio o con motivo de su empleo, cargo o comisión.
+
+En caso de delitos de competencia federal referentes a actos de corrupción, esta Fiscalía Especializada conocerá únicamente de los delitos sobre corrupción en que se actualice su competencia, en caso contrario, deberá remitir su actuación a la unidad correspondiente.
+
 ###### Artículo 12.
 
 Son atribuciones de los agentes del Ministerio Público:
@@ -401,9 +453,13 @@ El Fiscal General del Estado será nombrado en los términos de la Constitución
 
 Para ser Fiscal General del Estado se requiere cumplir con los requisitos que establece el artículo 121 de la Constitución Política del Estado.
 
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, POR EL QUE SE REFORMÓ ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+
 ###### Artículo 19.
 
-Los Fiscales Especializados serán designados por el Fiscal General del Estado. El Gobernador les extenderá su nombramiento, pudiendo removerlos libremente.
+LOS FISCALES ESPECIALIZADOS SERÁN DESIGNADOS POR EL FISCAL GENERAL DEL ESTADO. EL GOBERNADOR LES EXTENDERÁ SU NOMBRAMIENTO, PUDIENDO REMOVERLOS LIBREMENTE. LA DECISIÓN DE NOMBRAMIENTO Y REMOCIÓN DEL FISCAL ESPECIALIZADO ANTICORRUPCIÓN PODRÁ SER OBJETADA POR EL CONGRESO DEL ESTADO EN LOS TÉRMINOS QUE SEÑALE LA CONSTITUCIÓN.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -449,7 +505,7 @@ Los estímulos, promoción y ascensos de los Integrantes de las Instituciones de
 
 ###### Artículo 25.
 
-Las faltas, sanciones y en general todo lo relativo al régimen disciplinario de los Integrantes de las Instituciones de Seguridad Pública, se determinará de acuerdo a las disposiciones, por los órganos y conforme al procedimiento administrativo previstos (sic) en la Ley del Sistema Estatal de Seguridad Pública.
+Las faltas, sanciones y en general todo lo relativo al régimen disciplinario de los Integrantes de las Instituciones de Seguridad Pública, se determinará de acuerdo a las disposiciones, por los órganos y conforme al procedimiento administrativo previstos en la Ley del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 26.
 
@@ -704,3 +760,17 @@ El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del 
 ###### ARTÍCULO QUINTO.
 
 Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua.
+
+(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 11 DE JUNIO DE 2016.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El ARTÍCULO PRIMERO del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; en tanto el ARTÍCULO SEGUNDO correspondiente a las reformas de la Ley Orgánica de la Fiscalía General del Estado, lo hará un día después de que entre en vigor la reforma constitucional.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1364/2016 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 122 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA".]
