@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2016-03-19"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -337,9 +337,9 @@ ART. 22.- El tercero obligado a la evicción deberá ser citado a juicio oportun
 
 ART. 23.- El tercero que, aduciendo derecho propio, intente excluir los derechos del actor y demandado o los del primero solamente, tiene la facultad de concurrir al pleito, aun cuando ya esté dictada sentencia ejecutoria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, relaciones conyugales o nulidad de éstas, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aún a los que no litigaron.
+ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aún a los que no litigaron.
 
 Las acciones de estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
@@ -621,9 +621,9 @@ ART. 57.- En las actuaciones judiciales no se emplearán abreviaturas ni se rasp
 
 ART. 58.- Las actuaciones judiciales deberán ser autorizadas bajo pena de nulidad por el funcionario público a quien corresponda dar fe o certificar el acto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 59.- Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de relaciones conyugales y las demás en que a juicio del tribunal convenga que sean secretas.
+ART. 59.- Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio y las demás en que a juicio del tribunal convenga que sean secretas.
 
 El acuerdo será reservado.
 
@@ -649,9 +649,9 @@ ART. 63.- Dentro de los tres días de haberse hecho saber una corrección discip
 
 ART. 64.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren festivos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Se entienden horas hábiles las comprendidas entre las siete y las diecinueve horas. En los juicios sobre alimentos, impedimentos para celebrar una relación conyugal, y en general, todas las cuestiones familiares que reclamen la intervención judicial; así como en los juicios sumarios sobre servidumbres legales, interdictos posesorios y los demás que determinen las leyes no hay ni días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+Se entienden horas hábiles las comprendidas entre las siete y las diecinueve horas. En los juicios sobre alimentos, impedimentos para celebrar matrimonio, y en general, todas las cuestiones familiares que reclamen la intervención judicial; así como en los juicios sumarios sobre servidumbres legales, interdictos posesorios y los demás que determinen las leyes no hay ni días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2000)</small>
 
@@ -1215,11 +1215,9 @@ II.- El del lugar convenido en el contrato para el cumplimiento de la obligació
 
 III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Si los bienes estuvieren situados en o abarcaren dos o más partidos judiciales, será competente el que prevenga en el conocimiento del negocio;
 
-IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el Juez del domicilio que escoja el actor, que se encuentre en turno;
+IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -1243,15 +1241,15 @@ VIII.- En los actos de jurisdicción voluntaria, el del domicilio del que promue
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor, y en los demás casos el del domicilio de este;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer una relación conyugal, el del lugar donde se hayan presentado los pretendientes;
+X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-XII.- En los juicios de divorcio, el Tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado; y
+XII.- En los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2008)</small>
 
@@ -3367,9 +3365,9 @@ ART. 428 BIS 34.- La ejecución de la sentencia o convenios se tramitará confor
 
 #### SECCION TERCERA. Del divorcio por mutuo consentimiento en materia de oralidad
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 428 BIS 35.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta (sic) matrimonio o en su defecto de la relación conyugal que los une, así como las correspondientes actas de nacimiento de los hijos menores, el juez al considerar que la solicitud de divorcio satisface los requisitos, señalará fecha para el desahogo de la audiencia de juicio dentro de los siguientes diez días de su radicación. Dando vista al agente del ministerio público adscrito a fin de que dentro del término de tres días manifieste lo que a su representación social corresponda en lo relacionado con los derechos de los menores.
+ART. 428 BIS 35.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta (sic) matrimonio que los une, así como las correspondientes actas de nacimiento de los hijos menores, el juez al considerar que la solicitud de divorcio satisface los requisitos, señalará fecha para el desahogo de la audiencia de juicio dentro de los siguientes diez días de su radicación. Dando vista al agente del ministerio público adscrito a fin de que dentro del término de tres días manifieste lo que a su representación social corresponda en lo relacionado con los derechos de los menores.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
 
@@ -3387,9 +3385,11 @@ ART. 428 BIS 37.- Si el convenio no contiene todos los puntos enumerados en el a
 
 ART. 428 BIS 38.- El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 428 BIS 39.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró el matrimonio o, en su defecto la relación conyugal, para proceder conforme a lo (sic) establecen los artículos 114 y 291 del Código Civil del Estado.
+ART. 428 BIS 39.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró el matrimonio, para proceder conforme a lo (sic) establecen los artículos 114 y 291 del Código Civil del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
 
 Cuando la sentencia haya causado ejecutoria las ulteriores solicitudes de modificación del convenio se plantearán ante el juzgador competente de conformidad a lo establecido en el título décimo sexto de este código.
 
@@ -4613,11 +4613,13 @@ I.- El derecho de recibir alimentos;
 
 II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III.- Las acciones de nulidad de relaciones conyugales
+III.- Las acciones de nulidad de los matrimonios;
 
-IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 339 del Código Civil;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 339 del Código Civil para el Estado de Colima; y
 
 V.- Los demás en que lo prohíba expresamente la ley.
 
@@ -4841,9 +4843,9 @@ Divorcio por mutuo consentimiento
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 673.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de relación conyugal y de los de nacimiento de los hijos menores.
+ART. 673.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de los (sic) de nacimiento de los hijos menores.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4885,9 +4887,9 @@ La oposición deberá presentarse por escrito dentro de los 3 días siguientes a
 
 ART. 680.- La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en efecto suspensivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 681.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró la relación conyugal, para los efectos de los artículos 114 y 291 del Código Civil.
+ART. 681.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró el matrimonio, para los efectos de los artículos 114 y 291 del Código Civil.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5107,9 +5109,9 @@ ART. 699.- Además de los casos determinados expresamente en la Ley, se admitir�
 
 I.- Contra las sentencias definitivas que se dicten en los Juicios Ordinarios;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-II.- Las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad de relación conyugal, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
+II.- Las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad del matrimonio y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
 
 III.- Contra las sentencias interlocutorias y los autos que paralicen o pongan término al juicio, haciendo imposible su continuación; y
 
@@ -5221,9 +5223,9 @@ ART. 713.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
 ART. 714.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 715.- La revisión de las sentencias recaídas en los juicios sobre nulidad de relación conyugal por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+ART. 715.- La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
 
 ### CAPITULO II. De la apelación extraordinaria
 
@@ -6397,9 +6399,9 @@ I.- La habilitación para comparecer en juicio que solicite el menor de más de 
 
 II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de 16 años sujetos a la patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III.- La autorización judicial que soliciten los emancipados por razón de relación conyugal para enajenar o gravar bienes raíces o para comparecer en juicio. En este último caso, se les nombrará un tutor especial;
+III.- La autorización judicial que soliciten los emancipados por razón de matrimonio para enajenar o gravar bienes raíces o para comparecer en juicio. En este último caso, se les nombrará un tutor especial;
 
 IV.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 
@@ -6409,9 +6411,9 @@ V.- (sic)
 
 ART. 938.- Podrá decretarse la guarda y cuidado de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela, que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-El menor de edad que deseando celebrar una relación conyugal necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su custodia.
+El menor de edad que deseando celebrar un matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su custodia.
 
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
@@ -6437,9 +6439,9 @@ En todos los asuntos de orden familiar, los jueces y tribunales están obligados
 
 En los asuntos familiares, con la salvedad de las prohibiciones legales relativas a los alimentos, el juez deberá exhortar a los interesados a lograr un avenimiento y resolver sus diferencias mediante convenio, con el que pueda evitarse la controversia y darse por terminado el procedimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 941.- No se requieren formalidades especiales para acudir ante el juez de lo familiar, cuando se le solicite la declaración, preservación, restitución o constitución de un derecho, o se alegue la violación del mismo o el desconocimiento de una obligación, cuando se trate de alimentos, calificación de impedimentos para celebrar una relación conyugal o las diferencias que surjan entre los cónyuges, sobre administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general, de todas las cuestiones familiares que requieran la intervención judicial.
+ART. 941.- No se requieren formalidades especiales para acudir ante el juez de lo familiar, cuando se le solicite la declaración, preservación, restitución o constitución de un derecho, o se alegue la violación del mismo o el desconocimiento de una obligación, cuando se trate de alimentos, calificación de impedimentos para celebrar el matrimonio o las diferencias que surjan entre los cónyuges, sobre administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general, de todas las cuestiones familiares que requieran la intervención judicial.
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -6928,3 +6930,11 @@ P.O. 19 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 63 POR EL QUE SE REFORMA EL ARTÍCULO 268 DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y ADICIONA UN TÍTULO SEXTO TER, Y UN CAPÍTULO ÚNICO, DENOMINADO DEL DIVORCIO SIN CAUSA, Y LOS ARTÍCULOS 428 TER, 428 TER 1, 428 TER 2 AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 103 SE REFORMA LA DENOMINACIÓN DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, PARA QUE EN LO SUCESIVO SE DENOMINE CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ASÍ COMO, DIVERSAS DISPOSICIONES DEL MISMO; IGUALMENTE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA El ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado: "El Estado de Colima".
+
+SEGUNDO.- Se reconoce plena validez legal a los contratos de Enlaces Conyugales celebrados con anterioridad al presente decreto, debiendo los contrayentes celebrar contrato de matrimonio, para lo cual los oficiales del Registro Civil deberán sustituir el acta de Relación Conyugal correspondiente, por una nueva acta de matrimonio en los términos en que se celebró el enlace referido; sin necesidad de presentar nuevamente la documentación requerida para celebrar tales actos jurídicos, ni realizar pago algo (sic) por esta sustitución.
