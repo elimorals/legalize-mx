@@ -4,7 +4,7 @@ identifier: "COL-ley-de-vivienda-para-el-estado-de-colima-89131"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-18"
-last_updated: "2014-05-31"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 18 de agosto de 2012.
 
@@ -1171,6 +1171,28 @@ SÉPTIMO.- La planta de trabajadores que actualmente integran el personal labora
 
 OCTAVO.- Los asuntos que se venían conociendo y tramitando por el Instituto de Vivienda del Estado de Colima, serán continuados hasta su conclusión con base a la normatividad vigente al momento en que se iniciaron, por el Instituto de Suelo, Urbanización y Vivienda del Estado de Colima; o con base en esta Ley, siempre que así lo manifieste de manera expresa el interesado.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+NOVENO.- Es de aprobarse y se aprueba la condonación, del 100% en los intereses moratorios generados a la fecha de la restructuración; correspondientes a los contratos de crédito celebrados entre el Instituto de Suelo, Urbanización y Vivienda del Estado de Colima (INSUVI), y los beneficiarios de sus programas de vivienda. La vigencia del programa será a partir del 1 de junio al 31 de octubre del año 2016.
+
+La promoción y reestructura se aplicará a todos los programas de vivienda del INSUVI, como son: lote con servicios, lote y pie de casa, vivienda terminada, pie de casa en lote propio, vivienda rural, mejoramiento de vivienda, vivienda progresiva, mejoramientos Fonhapo.
+
+Serán sujetos a la condonación y reestructuración señalada en el párrafo primero del presente artículo, toda persona que haya signado un contrato para los programas a que se refiere el párrafo anterior, celebrado ante el actual Instituto de Suelo, Urbanización y Vivienda del Estado de Colima, debiendo celebrar convenio de restructuración correspondiente. Las obligaciones de pagos derivados del convenio de restructuración que se refiere el párrafo anterior podrán realizarse, de forma mensual.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+DÉCIMO.- Los beneficiarios de créditos de vivienda contratados con el Instituto de Suelo, Urbanización y Vivienda del Estado de Colima INSUVI; para acceder a la condonación establecida en el artículo anterior del presente Decreto, deberán pagar al momento de la reestructura del crédito, el monto correspondiente al 10% (diez por ciento) sobre el capital vencido.
+
+Los acreditados que sean beneficiados con este programa, no deberán retrasarse en sus pagos por más de 12 meses, ya que de incurrir en esta falta, se dará por cancelada la reestructura y regresara al saldo anterior.
+
+El monto del pago mensual será de acuerdo a las necesidades de cada beneficiario, en base a un estudio Socio-Económico que previamente se realice.
+
+El plazo será de acuerdo al saldo a reestructurar y monto del pago mensual dependiendo de cada caso en particular.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+UNDÉCIMO.- El Instituto de Suelo, Urbanización y Vivienda del Estado de Colima, deberá celebrar con los deudores sujetos al presente Decreto, reuniones donde se brinde información particular sobre las cantidades que deberán pagar los beneficiarios.
+
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
 Dado en el Recinto Oficial del Poder Legislativo, a los catorce días del mes de agosto del año dos mil doce.
@@ -1188,3 +1210,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. R
 P.O. 31 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 96 SE ADICIONAN LOS ARTÍCULOS NOVENO, DÉCIMO Y UNDÉCIMO TRANSITORIOS, A LA LEY DE VIVIENDA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
