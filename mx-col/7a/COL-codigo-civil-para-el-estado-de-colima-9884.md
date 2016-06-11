@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2016-03-19"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
+CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -605,7 +605,9 @@ D E C R E T O N° 96
 
 Por lo que en uso de la facultad que me concede el anterior Decreto, expido el siguiente
 
-NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
+
+CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
 ART. 1°.- La Ley Civil es igual para todos, salvo los casos de excepción expresamente declarados.
 
@@ -759,9 +761,9 @@ El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerá
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 35.- En el Estado de Colima estará a cargo de los oficiales del Registro Civil autorizar con la firma autógrafa o con la firma electrónica certificada los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, relaciones conyugales, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+ART. 35.- En el Estado de Colima, estará a cargo de los oficiales del Registro Civil, autorizar con la firma autógrafa o con la firma electrónica certificada los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -779,9 +781,9 @@ Las formas del Registro Civil serán autorizadas y distribuidas de forma física
 
 De las actas que se levanten en forma electrónica los oficiales del Registro Civil entregarán una copia de ellas al interesado, ajustándose a lo establecido en relación a la guarda y distribución del respaldo electrónico y en caso de levantamiento mecanográfico, el original quedará en el archivo de la Oficialía, una copia se entregará al interesado y otra a la Dirección del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 37.- Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de relaciones conyugales; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+ART. 37.- Los oficiales del Registro Civil, llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -1035,25 +1037,25 @@ ART. 95.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
 ART. 96.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
 
-### CAPITULO VII. De las actas de relaciones conyugales
+### CAPITULO VII. De las actas de matrimonio
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 97.- Las personas que pretendan unirse en una relación conyugal presentarán un escrito al oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+ART. 97.- Las personas que pretendan unirse en matrimonio presentarán un escrito al oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si estos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan estado unidos en una relación conyugal, se expresará también el nombre de la persona con quien celebró la relación, la causa de su disolución y la fecha de ésta;
+I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan estado unidos en una relación matrimonial, se expresará también el nombre de la persona con quien celebró el matrimonio anterior, la causa de su disolución y la fecha de ésta;
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
 
 II.- Que no tienen impedimento legal para unirse, y
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III.- Que es su voluntad unirse en relación conyugal.
+III.- Que es su voluntad expresa unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
 
@@ -1071,53 +1073,53 @@ IV.- Un certificado suscrito por un médico titulado, que asegure, bajo protesta
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Se exceptúa este requisito, cuando los solicitantes firmen de conformidad de celebrar la relación conyugal aun cuando uno o ambos solicitantes se encontraren en el supuesto del primer párrafo de esta fracción.
+Se exceptúa este requisito, cuando los solicitantes firmen de conformidad de celebrar el matrimonio aún cuando uno o ambos solicitantes se encontraren en el supuesto del primer párrafo de esta fracción.
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante la relación conyugal. En el convenio se expresará con toda claridad si la relación conyugal se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración de la relación conyugal. No puede dejarse de presentar este convenio, ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante la relación conyugal. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211 de este Código, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
+V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Silos (sic) pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio, ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio .Al (sic) formularse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211 de este Código, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
 
-Si de acuerdo con lo dispuesto en el artículo 185 del presente ordenamiento fuere necesario que las capitulaciones conyugales consten en escritura pública, se acompañará un testimonio de esa escritura firmada en forma autógrafa o con la firma electrónica certificada;
+Si de acuerdo con lo dispuesto en el artículo 185 del presente ordenamiento fuere necesario quelas (sic) capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura firmada en forma autógrafa o con la firma electrónica certificada;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VI.- Copia del acta de defunción del cónyuge fallecido firmada en forma autógrafa o con la firma electrónica certificada si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de la relación conyugal, en caso de que alguno de los pretendientes se hubiese unido en alguna relación conyugal a que se refiere el artículo139 de este Código;
+VI.- Copia del acta de defunción del cónyuge fallecido firmada en forma autógrafa o con la firma electrónica certificada si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad del matrimonio, en caso de que alguno de los pretendientes se hubiese unido en alguna relación matrimonial a que se refiere el artículo 139 de este Código;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
 VII.- Copia de la dispensa de impedimentos, si los hubo; y
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VIII.- La constancia de que ambos pretendientes asistieron a las pláticas de orientación sobre relaciones conyugales, que estén avaladas por el Consejo Estatal de Población, misma que acreditará la instrucción en los siguientes temas: derechos y obligaciones de las relaciones conyugales; derechos protegidos de las relaciones conyugales; derechos y deberes de las niñas, los niños y adolescentes; deberes de los menores; patrimonio de familia; métodos anticonceptivos; violencia intrafamiliar; así como causas y procedimientos para el divorcio.
+VIII.- La constancia de que ambos pretendientes asistieron a las pláticas de orientación sobre relaciones matrimoniales, que estén avaladas por el Consejo Estatal de Población, misma que acreditará la instrucción en los siguientes temas: derechos y obligaciones de las relaciones matrimoniales; derechos protegidos de las relaciones matrimoniales; derechos y deberes de las niñas, los niños y adolescentes; deberes de los menores; patrimonio de familia; métodos anticonceptivos; violencia familiar; así como causas y procedimientos para el divorcio.
 
 ART. 99.- En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 100.- El oficial del Registro Civil a quien se presente una solicitud de relación conyugal que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 anterior serán ratificadas, bajo protesta de decir verdad, ante el mismo oficial del Registro Civil. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+ART. 100.- El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que cumpla los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 anterior serán ratificadas, bajo protesta de decir verdad, ante el mismo oficial del Registro Civil. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 101.- La relación conyugal se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el oficial del Registro Civil.
+ART. 101.- El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 102.- En el lugar, día y hora designados para la celebración de la relación conyugal deberán estar presentes, ante el oficial del Registro Civil, los pretendientes o su apoderado especial, constituido en la forma prevenida en el artículo 44 de este ordenamiento y dos testigos por cada uno de ellos, que acrediten su identidad.
+ART. 102.- En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su apoderado especial, constituido en la forma prevenida en el artículo 44 de este ordenamiento y dos testigos por cada uno de ellos, que acrediten su identidad.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de la relación conyugal, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, les será leída la carta de relación conyugal, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio o enlace conyugal, si aceptan los declarará unidos en legítimo (sic) relación conyugal en nombre de la ley y de la sociedad que representa ese acto.
+Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. Encaso (sic) afirmativo, les será leída la carta matrimonial, y preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, si aceptan los declarará unidos en legítimo matrimonio en nombre de la ley y de la sociedad que representa ese acto.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Siendo Carta de relación conyugal la siguiente:
+Siendo Carta matrimonial la siguiente:
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-El matrimonio y el enlace conyugal son un contrato civil que se celebra lícita y válidamente ante la autoridad civil. Para su validez es necesario que los pretendientes, previos las formalidades que establece la ley, se presenten ante la autoridad y expresen libremente su voluntad de unirse en relación conyugal.
+El matrimonio es un contrato civil que se celebra lícita y válidamente ante la autoridad civil. Para su validez es necesario que los pretendientes, previos las formalidades que establece la ley, se presenten ante la autoridad y expresen libremente su voluntad de unirse en matrimonio.
 
 La bigamia y la poligamia continúan prohibidas y sujetas a las penas que les tienen señaladas nuestras leyes.
 
@@ -1127,9 +1129,9 @@ El hombre, actuando con fortaleza y responsabilidad, debe proporcionar a la muje
 
 La mujer, con actuar igualmente entregada y responsable, debe dar a su esposo, aliento, comprensión, consuelo y buen consejo, tratándolo siempre con amor y con la misma generosidad con la cual desea ser tratada.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Los cónyuges, uno y el otro, se deben y tendrán siempre y en todo lugar respeto, fidelidad, confianza y ternura, y procurarán que lo que el uno esperaba del otro al unirse hoy en relación conyugal se convierta en una hermosa realidad.
+Los cónyuges, uno y el otro, se deben y tendrán siempre y en todo lugar respeto, fidelidad, confianza y ternura, y procurarán que lo que el uno esperaba del otro al unirse hoy en matrimonio y ésta se convierta en una hermosa realidad.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
@@ -1137,33 +1139,33 @@ Las parejas deberán ser prudentes y atenuar sus faltas, nunca se dirán injuria
 
 Ambos deberán prepararse, con el estudio amistoso y la mutua corrección de sus defectos para desempeñar de la mejor manera posible la mas alta magistratura de la vida que es la de ser padres de familia para que sus hijos encuentren en ustedes el buen ejemplo y una conducta digna de servirles de modelo.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Como escuchamos, este mensaje comienza diciendo que la relación conyugal es un contrato civil. Así lo prevé el Código Civil vigente en nuestro estado. La relación conyugal da lugar al nacimiento de derechos y obligaciones recíprocas para los cónyuges y crea un nuevo estado civil para ustedes, con todo lo que ello implica.
+Como escuchamos, este mensaje comienza diciendo que el matrimonio es un contrato civil. Así lo prevé el Código Civil vigente en nuestro Estado. El matrimonio da lugar al nacimiento de derechos y obligaciones recíprocas para los cónyuges y crea un nuevo estado civil para ustedes, con todo lo que ello implica.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Sin duda la relación conyugal es un vínculo precioso, en el que dos personas (sin perder su individualidad) deciden unirse para crear un proyecto de vida en común y trabajar juntos por ese proyecto. Afortunadamente, dado el marco Constitucional del que gozamos en nuestro país cada pareja puede decidir cuál será ese proyecto de vida con enorme libertad. Obviamente es un gran privilegio y a la vez una enorme responsabilidad.
+Sin duda el matrimonio es un vínculo precioso, en el que dos personas, sin perder su individualidad, deciden unirse para crear un proyecto de vida en común y trabajar juntos por ese proyecto. Afortunadamente, dado el marco Constitucional del que gozamos en nuestro País cada pareja puede decidir cuál será ese proyecto de vida con enorme libertad. Obviamente es un gran privilegio y a la vez una enorme responsabilidad.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-La decisión que han tomado, además de ser una decisión racional, ve involucrada la parte emocional como un factor determinante, pues se entiende que hay entre ambos un afecto lo suficientemente fuerte como para haberlos hecho llegar al punto de unir sus vidas en la relación que hubieren elegido. Los exhorto no solo a preservar, sino a fortalecer ese afecto.
+La decisión que han tomado, además de ser una decisión racional, ve involucrada la parte emocional como un factor determinante, pues se entiende que hay entre ambos un afecto lo suficientemente fuerte como para haberlos hecho llegar al punto de unir sus vidas en matrimonio que hoy han elegido. Los exhorto no solo a preservar, sino a fortalecer ese afecto.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-No podemos negar la posibilidad jurídica de disolver el vínculo jurídico de la relación conyugal, pero les recuerdo que la relación conyugal no debe ser visto (sic) como una unión liviana o pasajera, sino como un lazo con pretensión de perdurar y que logre proveerlos a ustedes y a la sociedad de la que formen parte del ambiente de estabilidad y solidez óptimo.
+No podemos negar la posibilidad jurídica de disolver el vínculo jurídico del matrimonio, pero les recuerdo que el matrimonio no debe ser visto como una unión liviana o pasajera, sino como un lazo con pretensión de perdurar y que logre proveerlos a ustedes y a la sociedad de la que formen parte del ambiente de estabilidad y solidez óptimo.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
 Les recuerdo también que aún cuando existen ciertas diferencias naturales somos iguales ante la ley, así lo expresa la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Construyan una relación conyugal digna, que sea de edificación para ustedes como individuos, para su familia y para toda la sociedad.
+Construyan un matrimonio digno, que sea de edificación para ustedes como individuos, para su familia y para toda la sociedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 103.- Se levantará luego el acta de matrimonio o enlace conyugal en la cual se hará constar:
+ART. 103.- Se levantará luego el acta de matrimonio en la cual se hará constar:
 
 I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
 
@@ -1173,19 +1175,21 @@ III.- Los nombres, apellidos, ocupación y domicilio de los padres;
 
 IV.- El consentimiento de éstos, de los abuelos o tutores o el de las autoridades que deban suplirlos;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-V.- Que no hubo impedimento para la relación conyugal o que éste se dispensó;
+V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VI.- La declaración de los pretendientes de ser su voluntad unirse en relación conyugal y la de haber quedado unidos, que hará el juez en nombre de la ley y de la sociedad;
+VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el juez en nombre de la ley y de la sociedad;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VII.- La manifestación de los cónyuges de la relación conyugal de someterse al régimen de sociedad conyugal o de separación de bienes;
+VII.- La manifestación de la relación de matrimonio de someterse al régimen de sociedad conyugal o de separación de bienes;
 
-VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VIII.- Los nombres apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea; y
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
@@ -1197,9 +1201,9 @@ Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 ART. 104.- Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 105.- El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para unirse en relación conyugal, levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta, firmada por los que en ella intervinieren, será remitida al juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+ART. 105.- El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para unirse en matrimonio, levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al Juez de lo Familiar que corresponda, para que haga la calificación del impedimento.
 
 ART. 106.- Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
 
@@ -1207,25 +1211,25 @@ ART. 107.- Antes de remitir el acta al juez de Primera Instancia, el oficial del
 
 ART. 108.- Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda y suspenderá todo procedimiento hasta que ésta resuelva.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 109.- Denunciado un impedimento para la relación conyugal no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+ART. 109.- Denunciado un impedimento para el matrimonio, éste no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 110.- El Oficial del Registro Civil que autorice una relación conyugal teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+ART. 110.- El Oficial del Registro Civil que autorice un matrimonio, teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal para el Estado de Colima.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 111.- Los Oficiales del Registro Civil sólo podrán negarse a autorizar una relación conyugal, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar una relación conyugal.
+ART. 111.- Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 112.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de una relación conyugal, será castigado, por la primera vez, con una multa de cien pesos y, en caso de reincidencia, con la destitución de su cargo.
+ART. 112.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de diez unidades de medida y actualización y, en caso de reincidencia, con la destitución de su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 113.- El Oficial del Registro Civil que reciba una solicitud de relación conyugal, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer una relación conyugal.
+ART. 113.- El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer el matrimonio.
 
 También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 98.
 
@@ -1235,13 +1239,13 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 ART. 114.- La sentencia ejecutoria que decrete un divorcio se remitirá en copia al oficial del Registro Civil para que levante el acta correspondiente, y haga las anotaciones pertinentes en el archivo físico y en la base de datos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 115.- El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró la relación conyugal, y la parte resolutiva de la sentencia que haya decretado el divorcio.
+ART. 115.- El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró el matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 116.- Extendida el acta se anotarán las de nacimiento y relación conyugal de los divorciados, y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+ART. 116.- Extendida el acta se anotarán las de nacimiento y de matrimonio de los divorciados, y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
 
 ### CAPITULO IX. De las actas de defunción
 
@@ -1253,15 +1257,17 @@ ART. 119.- El acta de fallecimiento contendrá:
 
 I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-II.- El estado civil de éste, y si estaba unido en relación conyugal o viudo, el nombre y apellidos de su cónyuge;
+II.- El estado civil de éste, y si estaba unido en matrimonio o viudo, el nombre y apellidos de su cónyuge;
 
 III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
 
 IV.- Los nombres de los padres del difunto si se supieren;
 
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+V.- La clase de enfermedad que determinó la muerte y específicamente el lugar en que se sepulte el cadáver; y
 
 VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
 
@@ -1295,9 +1301,9 @@ ART. 128.- Los Tribunales cuidarán de remitir de manera física o electrónica,
 
 ART. 129.- En todos los casos de muerte violenta en las prisiones o en las casas de detención, y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 119.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 130.- En los registros de nacimiento y de relaciones conyugales se hará referencia al acta de defunción, expresándose los folios físicos y electrónicos en que conste ésta.
+ART. 130.- En los registros de nacimiento y de matrimonio se hará referencia al acta de defunción, expresándose los folios físicos y electrónicos en que conste ésta.
 
 ### CAPITULO X. Inscripciones de las ejecutorias que declaren la incapacidad legal para administrar bienes, la ausencia o la presunción de muerte
 
@@ -1315,9 +1321,9 @@ ART. 133.- Cuando se recobre la capacidad legal para administrar, se presente la
 
 ART. 134.- La rectificación o modificación de las actas que se encuentran en los archivos físicos o electrónicos del Registro Civil, procede cuando se solicite variar el nombre de las personas que intervienen en el acta, o algún otro acto esencial y solamente podrá ser ordenada por la autoridad judicial o resolución administrativa emitida por la Dirección General del Registro Civil, salvo el reconocimiento que voluntariamente haga un padre respecto de su hijo. El cual se sujetará a las prescripciones de este Código.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-La nulidad de las Actas del Registro Civil, sólo podrá ser decretada por la autoridad judicial cuando se compruebe que el acto registrado no pasó o se está en los casos de nulidades de relaciones conyugales decretada conforme a este Código, por la autoridad judicial.
+La nulidad de las Actas del Registro Civil sólo podrá ser decretada por la autoridad judicial cuando se compruebe que el acto registrado no pasó o se está en los casos de nulidades de matrimonio decretado conforme a este Código por la autoridad judicial.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
@@ -1375,17 +1381,17 @@ ART. 137.- El juicio de rectificaciones de acta se seguirá en la forma que se e
 
 ART. 138.- La sentencia ejecutoria que ordene la rectificación del Acta del Estado Civil, también se comunicará a las mismas autoridades señaladas en el Artículo anterior, para que efectúen dichas rectificaciones o modificaciones en las actas respectivas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
 
-## TITULO QUINTO. De las relaciones conyugales
+## TITULO QUINTO. De las relaciones matrimoniales
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
 
-### CAPITULO I. De los Esponsales y Relaciones conyugales
+### CAPITULO I. De los esponsales y relaciones matrimoniales
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 139.- La promesa de relación conyugal que se hace por escrito y es aceptada, constituye los esponsales.
+ART. 139.- La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
@@ -1393,79 +1399,81 @@ ART. 140.- Cuando los prometidos son menores de edad, los esponsales no producen
 
 Sólo pueden celebrar esponsales, el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+ART. 141.- Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+
+ART. 142.- El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiera hecho con motivo de la promesa de matrimonio proyectada.
+
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-ART. 141.- Los esponsales no producen obligación de contraer una relación conyugal, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-ART. 142.- El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de relación conyugal o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiera hecho con motivo de la relación conyugal proyectada.
 
 En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
 
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando, por la duración del noviazgo la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad de la relación conyugal u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando, por la duración del noviazgo la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad de la celebración del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
 La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 143.- Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración de la relación conyugal.
+ART. 143.- Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración de la promesa del matrimonio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 144.- Si la relación conyugal no se celebra, tienen derecho los prometidos a exigir la devolución de lo que se hubieren donado con motivo de su concertada relación conyugal. Este derecho durará un año, contado desde el rompimiento de los esponsales.
+ART. 144.- Si el matrimonio no se celebra, tienen derecho los prometidos a exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contando desde el rompimiento de los esponsales.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 145.- Las relaciones conyugales se establecen por medio de un contrato civil celebrado entre dos personas, con la finalidad de formar una familia, establecer un hogar común, con voluntad de permanencia, para procurarse y ayudarse mutuamente en su vida.
+ART. 145.- El matrimonio se establece por medio de un contrato civil celebrado entre dos personas, con la finalidad de formar una familia, establecer un hogar común, con voluntad de permanencia, para procurarse y ayudarse mutuamente en su vida marital.
 
-En el Estado existen dos tipos de relaciones conyugales:
+A quienes celebren el acto jurídico del matrimonio se les denominará indistintamente, cónyuges.
 
-I.- Matrimonio: Es aquel que se celebra entre un solo hombre y una sola mujer; y
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
 
-II.- Enlace Conyugal: Es aquel que se celebra entre dos personas del mismo sexo.
+### CAPITULO II. De los requisitos para contraer matrimonio
 
-A quienes celebren una relación conyugal se les denominará indistintamente, cónyuges, consortes, esposos o casados.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2013)</small>
+ART. 146.- El matrimonio debe celebrarse ante los funcionarios que establece la ley con las formalidades que ella exige.
 
-### CAPITULO II. De los requisitos para contraer una relación conyugal
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+ART. 147.- Los cónyuges tendrán la libertad de decidir sobre el esparcimiento de sus hijos, siendo optativo sin obligatoriedad el tenerlos o no, sin que ello afecte como causalidad para impedimento del matrimonio, teniendo que observar únicamente que cualquier condición contraria a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta para la celebración del matrimonio.
 
-ART. 146.- La relación conyugal debe celebrarse ante los funcionarios que establece la ley con las formalidades que ella exige.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 147.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+ART. 148.- Para contraer matrimonio, cada uno de los contratantes necesitan haber cumplido dieciocho años. Los Presidentes Municipales pueden conceder dispensas de edad por causas graves y justificadas, pero nunca se podrá dispensar a menores de dieciséis años.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 148.- Para contraer una relación conyugal, cada uno de los contratantes necesitan haber cumplido dieciocho años. Los presidentes municipales pueden conceder dispensas de edad por causas graves y justificadas, pero nunca se podrá dispensar a menores de dieciséis años.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-ART. 149.- El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer relación conyugal sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+ART. 149.- El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene el padre o madre, aunque hayan contraído segundas nupcias, cuando el hijo o la hija cohabite con éste y se encuentre bajo su tutela. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
 ART. 150.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
 
 ART. 151.- Los interesados pueden ocurrir al Presidente Municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas, después de levantar una información sobre el particular, suplirán o no el consentimiento.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 152.- Si el juez, en el caso del artículo 150 de esta Ley, se niega a suplir el consentimiento para que se celebre una relación conyugal, los interesados ocurrirán al Supremo Tribunal de Justicia, en los términos que disponga el Código de Procedimientos Civiles.
+ART. 152.- Si el juez, en el caso del artículo 150 de esta Ley, se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán al Juez de lo Familiar, en los términos que disponga el Código de Procedimientos Civiles.
 
 ART. 153.- El ascendiente o tutor que ha prestado su consentimiento, firmando la solicitud respectiva y ratificándola ante el oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 154.- Si el ascendiente o tutor que ha firmado o ratificado la solicitud de la relación conyugal falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que la relación conyugal se verifique dentro del término fijado en el artículo 101 anterior.
+ART. 154.- Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 101 anterior.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 155.- El juez que hubiere autorizado a un menor para contraer una relación conyugal no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+ART. 155.- El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 156.- Son impedimentos para celebrar contrato de relación conyugal:
+ART. 156.- Son impedimentos para celebrar contrato de matrimonio:
 
 I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
@@ -1475,13 +1483,13 @@ III.- El parentesco de consanguinidad legítima o natural, sin limitación de gr
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-V.- El adulterio habido entre las personas que pretendan contraer una relación conyugal, cuando ese adulterio haya sido judicialmente comprobado;
+V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VI.- El atentado contra la vida de alguno de los casados para contraer relación conyugal con el que quede libre;
+VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
@@ -1497,49 +1505,51 @@ Para efectos de lo dispuesto en el párrafo anterior, procede la excepción prev
 
 IX.- Padecer alguno de los contrayentes discapacidad intelectual, aunque pudiera tener momentos de lucidez;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-X.- La relación conyugal subsistente con personas distintas de aquella con quien se pretenda contraer; y
+X.- El matrimonio subsistente con personas distintas de aquella con quien se pretenda contraer;
 
 XI. (DEROGADA, P.O. 10 DE AGOSTO DE 2013)
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-XII.- No haber asistido a las pláticas de orientación sobre relaciones conyugales.
+XII.- No haber asistido a las pláticas de orientación matrimonial.
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
 ART. 157.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 158.- La mujer no puede contraer nueva relación conyugal sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+ART. 158.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 159.- El tutor no puede contraer relación conyugal con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Presidente Municipal respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
+ART. 159.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Presidente Municipal respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
 
 Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 160.- Si la relación conyugal se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+ART. 160.- Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 161.- Tratándose de mexicanos que se hubieran unido en el extranjero, dentro de los tres meses después de su llegada a la República se transcribirá el acta de la celebración conforme a la relación conyugal que corresponda según lo estipulado en el artículo 145 de este Código; en el Registro Civil del lugar en que se domicilien los contrayentes.
+ART. 161.- Tratándose de mexicanos que se hubieran unido en el extranjero, dentro de los tres meses después de su llegada a la República se transcribirá el acta de la celebración de matrimonio con la determinación de régimen conyugal que corresponda; en el Registro Civil del lugar en que se domicilien los contrayentes.
 
-Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró la unión; si se hace después, sólo producirá efecto desde el día en que se hizo la transcripción.
+Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró la unión marital; si se hace después, sólo producirá efecto desde el día en que se hizo la transcripción.
 
 ART. 161 BIS.- (DEROGADO, P.O. 10 DE AGOSTO DE 2013)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
 
-### CAPITULO III. De los derechos y obligaciones que nacen de las relaciones conyugales
+### CAPITULO III. De los derechos y obligaciones que nacen del matrimonio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+
+ART. 162.- Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-ART. 162.- Los cónyuges están obligados a contribuir cada uno por su parte a los fines de la relación conyugal y a socorrerse mutuamente.
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos. Este derecho será ejercido de común acuerdo con los cónyuges.
 
@@ -1549,9 +1559,9 @@ ART. 163.- Los cónyuges vivirán juntos en el domicilio conyugal. Los tribunale
 
 ART. 164.- Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Los derechos y obligaciones que nacen de la relación conyugal serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -1561,9 +1571,9 @@ ART. 166.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
 
 ART. 167.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 168.- Los cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez de lo Civil resolverá lo conducente.
+ART. 168.- Los cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente.
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2011)</small>
 
@@ -1585,85 +1595,87 @@ ART. 174.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
 ART. 175.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+ART. 176.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+ART. 177.- Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
+
+### CAPITULO IV. Del contrato de matrimonio con relación a los bienes
+
+Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+
+ART. 178.- El contrato de matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes.
+
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-ART. 176.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando la relación conyugal esté sujeto (sic) al régimen de separación de bienes.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-ART. 177.- Los cónyuges, durante la relación conyugal, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure la relación conyugal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2013)</small>
-
-### CAPITULO IV. Del contrato de relación conyugal con relación a los bienes
-
-Disposiciones generales
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-ART. 178.- El contrato de la relación conyugal debe celebrarse bajo el régimen de sociedad conyugal, o bajo el de separación de bienes.
 
 En caso de que los contratantes omitan elegir el tipo de régimen bajo el cual se unan, se les aplicara las reglas relativas a la sociedad conyugal.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 179.- Las capitulaciones de la relación conyugal son los pactos que las parejas celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar la administración de éstos en uno y en otro caso.
+ART. 179.- Las capitulaciones del matrimonio son los pactos que las parejas celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar la administración de éstos en uno y en otro caso.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 180.- Las capitulaciones conyugales pueden otorgarse antes de la celebración de la relación conyugal o durante la misma, y pueden comprender no solamente los bienes de que sean dueños los cónyuges en el momento de hacer el pacto, sino también los que adquieran después.
+ART. 180.- Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante la misma, y pueden comprender no solamente los bienes de que sean dueños los cónyuges en el momento de hacer el pacto, sino también los que adquieran después.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 181.- El menor que con arreglo a la ley pueda contraer una relación conyugal, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración de la relación conyugal.
+ART. 181.- El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 182.- Son nulos los pactos que los cónyuges hicieren contra las leyes o los naturales fines de la relación conyugal.
+ART. 182.- Son nulos los pactos que los cónyuges hicieren contra las leyes o los naturales fines del matrimonio.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
 ### CAPITULO V. De la Sociedad Conyugal
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 183.- La sociedad se regirá por las capitulaciones conyugales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
+ART. 183.- La sociedad se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 184.- La sociedad conyugal nace al celebrarse la relación conyugal o durante él (sic). Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
+ART. 184.- La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 185.- Las capitulaciones conyugales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
+ART. 185.- Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando las partes pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
 
 ART. 186.- En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 187.- La sociedad conyugal puede terminar antes de que se disuelva la relación conyugal si así lo convienen los cónyuges, pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 181 de este Código.
+ART. 187.- La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen las partes, pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 181 de este Código.
 
 Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 188.- Puede también terminar la sociedad conyugal durante la relación conyugal, a petición de alguno de los cónyuges, por los siguientes motivos:
+ART. 188.- Puede también terminar la sociedad conyugal durante el matrimonio a petición de alguno de los cónyuges, por los siguientes motivos:
 
 I.- Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
 
 II.- Cuando el socio administrador hace cesión de bienes a sus acreedores, o es declarado en quiebra.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 189.- Las capitulaciones conyugales en que se establezca la sociedad conyugal, deben contener:
+ART. 189.- Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
 
 I.- La lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
 
 II.- La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III.- Nota pormenorizada de las deudas que tenga cada esposo al celebrar la relación conyugal, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante la relación conyugal, ya sea por ambos cónyuges o por cualquiera de ellos;
+III.- Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos cónyuges o por cualquiera de ellos;
 
 IV.- La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
 
@@ -1673,9 +1685,9 @@ VI.- La declaración de si el producto del trabajo de cada consorte corresponde 
 
 VII.- La declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VIII.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante la relación conyugal, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción, y
+VIII.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquiriente, o si deben repartirse entre ellos y en qué proporción; y
 
 IX.- Las bases para liquidar la sociedad.
 
@@ -1685,9 +1697,9 @@ ART. 191.- Cuando se establezca que uno de los consortes solo debe recibir una c
 
 ART. 192.- Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge, será considerado como donación y quedará sujeto a lo prevenido en el capítulo VIII de este título.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 193.- No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto (sic) la relación conyugal o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
+ART. 193.- No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
 
 ART. 194.- El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
 
@@ -1697,35 +1709,35 @@ ART. 195.- La sentencia que declare la ausencia de alguno de los cónyuges, modi
 
 ART. 196.- El abandono injustificado por más de tres meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Los bienes adquiridos individualmente por los cónyuges desde el día de la separación física libremente consentida y con el ánimo de concluir la relación conyugal, no formarán parte del caudal de la sociedad conyugal, salvo convenio expreso que establezca lo contrario.
+Los bienes adquiridos individualmente por los cónyuges desde el día de la separación física libremente consentida y con el ánimo de concluir el matrimonio, no formarán parte del caudal de la sociedad conyugal, salvo convenio expreso que establezca lo contrario.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 197.- La sociedad conyugal termina por la disolución de la relación conyugal, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 188 del presente ordenamiento.
+ART. 197.- La sociedad conyugal termina por la disolución del matrimonio, ó cuando por voluntad de los consortes decidan cambiar el régimen que constituye el matrimonio, o por sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 188 del presente ordenamiento.
 
 ART. 198.- En los casos de nulidad, la sociedad se considera subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges procedieron de buena fe.
 
 ART. 199.- Cuando uno solo de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario se considerará nula desde un principio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 200.- Si los dos cónyuges procedieron de mala fe, la sociedad se considera nula desde la celebración de la relación conyugal, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+ART. 200.- Si los dos cónyuges procedieron de mala fe, la sociedad conyugal se considera nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 201.- Si la disolución de la sociedad procede de nulidad de la relación conyugal, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos, y si no los hubiere, al cónyuge inocente.
+ART. 201.- Si la disolución de la sociedad procede de nulidad del matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas se aplicarán a los hijos, y si no los hubiere, al cónyuge inocente.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 202.- Si los dos procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere, se repartirán en proporción de lo que cada consorte llevó a la relación conyugal.
+ART. 202.- Si los dos procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere, se repartirán en proporción de lo que cada consorte llevó al matrimonio.
 
 ART. 203.- Disuelta la sociedad se procederá a formar inventario, en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de los consortes, que serán de éstos o de sus herederos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 204.- Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada cónyuge lo que llevó a la relación conyugal, y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas el importe de éstas se deducirá del haber de cada consorte en proporción a las utilidades que debían corresponderles, y si uno solo llevó capital, de éste se deducirá la pérdida total.
+ART. 204.- Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada cónyuge lo que llevó al matrimonio, y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas el importe de éstas se deducirá del haber de cada consorte en proporción a las utilidades que debían corresponderles y si uno solo llevó capital, de éste se deducirá la pérdida total.
 
 ART. 205.- Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición.
 
@@ -1733,25 +1745,25 @@ ART. 206.- Todo lo relativo a la formación de inventarios y solemnidades de la 
 
 ### CAPITULO VI. De la separación de bienes
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 207.- Puede haber separación de bienes en virtud de capitulaciones anteriores a la relación conyugal, o durante ésta por convenio de los consortes, o bien por sentencia judicial. La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrar la relación conyugal, sino también los que adquieran después.
+ART. 207.- Puede haber separación de bienes en virtud de capitulaciones anteriores al matrimonio, o durante ésta por convenio de los consortes, o bien por sentencia judicial. La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrar el matrimonio, sino también los que adquieran después
 
 ART. 208.- La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 209.- Durante la relación conyugal, la separación de bienes puede terminar para ser substituida por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 181.
+ART. 209. - Durante el matrimonio, la separación de bienes puede terminar para ser substituida por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 181.
 
 Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 210.- No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración de la relación conyugal. Si se pacta durante la relación conyugal, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
+ART. 210. - No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 211.- Las capitulaciones que establezcan separación de bienes, siempre contendrán un inventario de los bienes de que sea dueño cada cónyuge al celebrarse la relación conyugal, y nota especificada de las deudas que al casarse tenga cada consorte.
+ART. 211.- Las capitulaciones que establezcan separación de bienes, siempre contendrán un inventario de los bienes de que sea dueño cada cónyuge al celebrarse el matrimonio, y nota especificada de las deudas que al casarse tenga cada consorte.
 
 ART. 212.- En el régimen de separación de bienes los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenecen y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo del dueño de ellos.
 
@@ -1777,9 +1789,9 @@ ART. 218.- Los cónyuges responden entre sí, de los daños y perjuicios que se 
 
 ART. 219.- Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo al otro, cualquiera que sea el nombre que la costumbre les haya dado.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 220.- Son también donaciones antenupciales las que un extraño hace a alguno de los esposos o a ambos, en consideración a la relación conyugal.
+ART. 220.- Son también donaciones antenupciales las que un extraño hace a alguno de los esposos o a ambos, en consideración al matrimonio.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
@@ -1805,9 +1817,9 @@ ART. 228.- Las donaciones antenupciales son revocables y se entienden revocadas 
 
 ART. 229.- Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 230.- Las donaciones antenupciales quedarán sin efecto si la relación conyugal dejare de efectuarse.
+ART. 230.- Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efectuarse.
 
 ART. 231.- Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
 
@@ -1819,27 +1831,27 @@ ART. 233.- Las donaciones entre consortes pueden ser revocadas libremente y en t
 
 ART. 234.- Estas donaciones no se anularán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
 
-### CAPITULO IX. De las relaciones conyugales, nulas o ilícitas
+### CAPITULO IX. Del matrimonio nulo o ilícito
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 235.- Son causa de nulidad de una relación conyugal:
+ART. 235.- Son causas de nulidad de un matrimonio:
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-I.- El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar la relación conyugal con persona determinada, lo contrae con otra;
+I.- El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada; lo contrae con otra;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-II.- Que la relación conyugal se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 156; y
+II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 156; y
 
 III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 97, 98, 100, 102 y 103.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 236.- La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente la relación conyugal, a no ser que exista algún otro impedimento que lo anule.
+ART. 236.- La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
 ART. 237.- La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
 
@@ -1849,97 +1861,99 @@ I.- Cuando haya habido hijos;
 
 II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 238.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento de la relación conyugal.
+ART. 238.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento del matrimonio.
 
 ART. 239.- Cesa esta causa de nulidad:
 
 I.- Si han pasado los treinta días sin que se haya pedido;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en la relación conyugal, o tácitamente, haciendo donación a los hijos en consideración a la relación conyugal, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
+II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 240.- La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualesquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando la relación conyugal.
+ART. 240.- La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualesquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 241.- El parentesco de consanguinidad no dispensado anula la relación conyugal; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el oficial del Registro Civil, quedará revalidado (sic) la relación conyugal y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+ART. 241.- El parentesco de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 
 ART. 242.- La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualesquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 243.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 156 de esta Ley podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución de la relación conyugal anterior por causa de divorcio; y sólo por el Ministerio Público, si esta relación conyugal se ha disuelto por muerte del cónyuge ofendido.
+ART. 243.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 156 de este Código podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si éste matrimonio se ha disuelto por muerte del cónyuge ofendido.
 
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración de la relación conyugal de los adúlteros.
+En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 244.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró la nueva relación conyugal.
+ART. 244.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 245.- El miedo y la violencia serán causa de nulidad en la relación conyugal si concurren las circunstancias siguientes:
+ART. 245.- El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
 
 I.- Que uno u otro importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse la relación conyugal;
+II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio; y
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III.- Que uno u otro hayan subsistido al tiempo de celebrarse la relación conyugal.
+III.- Que uno u otro hayan subsistido al tiempo de celebrarse el matrimonio.
 
 La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 246.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 156 de este Código, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró la relación conyugal.
+ART. 246.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 156 de este Código, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
 
 ART. 247.- Tienen derecho de pedir la nulidad a que se refiere la fracción IX del artículo 156, el otro cónyuge o el tutor del incapacitado.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 248.- El vínculo de una relación conyugal anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge de la primera relación conyugal; por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+ART. 248.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio; por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 249.- La nulidad que se funde en la falta de formalidades esenciales para la validez de la relación conyugal, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay relación conyugal. También podrá declararse esa nulidad a instancia del Ministerio Público.
+ART. 249.- La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 250.- No se admitirá demanda de nulidad por falta de solemnidades en el acta de relación conyugal celebrado (sic) ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado de relación conyugal.
+ART. 250.- No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 251.- El derecho para demandar la nulidad de la relación conyugal corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
+ART. 251.- El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 252.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al oficial del Registro Civil ante quien pasó la relación conyugal, para que al margen del acta que conste en archivo físico y electrónico ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el tribunal que la pronuncio y el numero con que se marcó la copia, la cual será depositada en el archivo físico y digitalizarla en el electrónico.
+ART. 252.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta que conste en archivo físico y electrónico ponga nota circunstanciada en que conste la parte resolutiva de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo físico y digitalizarla en el electrónico.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 253.- La relación conyugal tiene a su favor la presunción de ser válido (sic); sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+ART. 253.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 254.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad de la relación conyugal.
+ART. 254.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 255.- La relación conyugal contraída de buena fe, aunque sea declarado nulo (sic), produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración de la relación conyugal, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+ART. 255.- El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 256.- Si ha habido buena fe de parte de uno solo de los cónyuges, la relación conyugal produce efectos civiles únicamente respecto de él y de los hijos.
+ART. 256.- Si ha habido buena fe de parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
 
-Si ha habido mala fe de parte de ambos consortes, la relación conyugal produce efectos civiles solamente respecto de los hijos.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
 
 ART. 257.- La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
@@ -1953,51 +1967,53 @@ ART. 259.- Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la 
 
 ART. 260.- El Juez en todo tiempo, podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 422, 423 y 444, fracción III.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 261.- Declarada la nulidad de la relación conyugal se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones de la relación conyugal; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
+ART. 261.- Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 262.- Declarada la nulidad de la relación conyugal, se observarán respecto de las donaciones antenupciales las reglas siguientes:
+ART. 262.- Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
 
 I.- Las hechas por un tercero a los cónyuges podrán ser revocadas;
 
 II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueren objeto de ellas se devolverán al donante con todos sus productos;
 
-III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes; y
 
 IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 263.- Si al declararse la nulidad de la relación conyugal la mujer estuviere encinta, se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Tercero.
+ART. 263.- Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Tercero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 264.- Es ilícito (sic), pero no nula la relación conyugal:
+ART. 264.- Es ilícito, pero no nulo el matrimonio:
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 158 y 289.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 265.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan relación conyugal con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen la relación conyugal incurrirá en las penas que señale el Código de la materia.
+ART. 265.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirá en las penas que señale el Código de la materia.
 
 ### CAPITULO X. Del divorcio
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 266.- El divorcio disuelve el vínculo de la relación conyugal y deja a los cónyuges en aptitud de contraer otra.
+ART. 266.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
 ART. 267.- Son causas de divorcio:
 
 I.- El adulterio debidamente probado de uno de los cónyuges;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-II.- El hecho de que la mujer dé a luz, durante la relación conyugal, un hijo concebido antes de celebrarse ese contrato, y que judicialmente sea declarado ilegítimo;
+II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse ese contrato, y que judicialmente sea declarado ilegítimo;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
@@ -2011,9 +2027,9 @@ IV.- La incitación o la violencia hecha por un cónyuge al otro para cometer al
 
 V.- Los actos ejecutados por alguno de los cónyuges a fin de corromper a los hijos sean de ambos o de uno sólo de ellos, así como la tolerancia en su corrupción basada en actos positivos o en omisiones graves;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VI.- Padecer uno (sic) los cónyuges cualquier enfermedad incurable, que sea además, contagiosa o hereditaria y la impotencia sexual incurable que sobrevenga después de celebrado (sic) la relación conyugal, exceptuando la que tenga su origen en la edad avanzada;
+VI.- Padecer uno (sic) los cónyuges cualquier enfermedad incurable, que sea además, contagiosa o hereditaria y la impotencia sexual incurable que sobrevenga después de celebrado el matrimonio, exceptuando la que tenga su origen en la edad avanzada;
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
 
@@ -2079,13 +2095,13 @@ ART. 270.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
 ART. 271.- Para que pueda pedirse el divorcio por causa de enfermedad mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que haya transcurrido, además un año desde que comenzó a padecerse la enfermedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos se encuentren emancipados, o sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen contrajeron la relación conyugal, y haya transcurrido un año o más de la celebración de la relación conyugal, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos se encuentren emancipados, o sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen contrajeron matrimonio, y haya transcurrido un año o más de la celebración del mismo, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-El oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente de la relación conyugal anterior.
+El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente del matrimonio anterior.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2007)</small>
 
@@ -2121,9 +2137,9 @@ ART. 275.- Mientras se decrete el divorcio, el juez autorizará la separación d
 
 ART. 276.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 277.- El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 267 podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por la relación conyugal.
+ART. 277.- El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 267 podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
 
@@ -2187,9 +2203,9 @@ ART. 286.- El cónyuge que diere causa al divorcio perderá todo lo que se le hu
 
 ART. 287.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-En el caso de que uno de los cónyuges carezca de bienes o que durante la relación conyugal mayor de diez años, se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, tomando en cuenta las siguientes circunstancias:
+En el caso de que uno de los cónyuges carezca de bienes o que durante el matrimonio mayor de diez años, se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, tomando en cuenta las siguientes circunstancias:
 
 I.- En caso de ser divorcio necesario sea el cónyuge inocente, por lo que también tendrá derecho a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado; y
 
@@ -2199,21 +2215,21 @@ II.- En caso de divorcio voluntario por vía judicial, la mujer tendrá derecho 
 
 El juez en la sentencia de divorcio, resolverá atendiendo a las circunstancias especiales de cada caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 287 BIS.- En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización y hasta el 50% del valor de los bienes que hubiera adquirido, durante la relación conyugal, siempre que:
+ART. 287 BIS.- En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización y hasta el 50% del valor de los bienes que hubiera adquirido, durante el matrimonio, siempre que:
 
 > <small>(ADICIONADA, P.O. 26 DE MAYO DE 2007)</small>
 
 I.- Hayan estado casados por el régimen de separación de bienes durante un periodo mayor de diez años;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-II.- El demandante se haya dedicado en el lapso en que duró la relación conyugal, preponderantemente al desempeño del trabajo del hogar y al cuidado de los hijos o, en su caso, al sostenimiento de los mismos; y
+II.- El demandante se haya dedicado en el lapso en que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y al cuidado de los hijos o, en su caso, al sostenimiento de los mismos; y
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III.- Durante la relación conyugal el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente inferiores a los de la contraparte.
+III.- Durante el matrimonio el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente inferiores a los de la contraparte.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2007)</small>
 
@@ -2229,9 +2245,9 @@ I.- La edad y el estado de salud de los cónyuges;
 
 II.- Su calificación profesional y posibilidad de acceso a un empleo;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III.- Duración de la relación conyugal;
+III.- Duración del matrimonio;
 
 IV.- Participación con su trabajo en las actividades económicas del cónyuge culpable;
 
@@ -2241,15 +2257,15 @@ VI.- Las demás obligaciones que tenga el cónyuge culpable.
 
 En la resolución se fijarán las bases para actualizar la pensión y las garantías para su cumplimiento. Extinguiéndose estas obligaciones cuando el acreedor contraiga nuevas nupcias o tenga una nueva pareja en unión libre, concubinato o cualquiera otra.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 289.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nueva relación conyugal.
+ART. 289.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
 ART. 290.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 291.- Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá copia de ella al oficial del Registro Civil ante quien se celebró la relación conyugal, para que levante el acta correspondiente y la incorpore al archivo físico y al electrónico, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+ART. 291.- Ejecutoriada una sentencia de divorcio, de oficio el Juez de lo Familiar o Mixto, remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y la incorpore al archivo físico y al electrónico, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
 ## TITULO SEXTO. Del parentesco y de los alimentos
 
@@ -2263,9 +2279,9 @@ ART. 293.- El parentesco de consanguinidad es el que existe entre personas que d
 
 En el caso de la adopción plena, se equiparará al parentesco por consanguinidad el que se establece entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 294.- El parentesco de afinidad es el que se contrae por la relación conyugal, entre un cónyuge y los parientes del otro.
+ART. 294.- El parentesco de afinidad es el que se contrae por el matrimonio, entre un cónyuge y los parientes del otro.
 
 ART. 295.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
@@ -3983,9 +3999,9 @@ ART. 640.- Tampoco pueden alegarla los menores, si han presentado certificados f
 
 ### CAPITULO I. De la emancipación
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 641.- La celebración de una relación conyugal del menor de dieciocho años produce de derecho la emancipación. Aunque la relación conyugal se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+ART. 641.- La celebración del matrimonio del menor de dieciocho años produce de (sic) derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
 ART. 642.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
@@ -4045,9 +4061,9 @@ ART. 656.- Tienen acción para pedir el nombramiento de depositario o de represe
 
 ART. 657.- En el nombramiento de representante se seguirá el orden establecido en el artículo 653.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 658.- Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos de la relación conyugal o relación (sic) conyugales anteriores, el juez dispondrá que el cónyuge presente y los hijos de la relación conyugal o relaciones conyugales anteriores, o sus legítimos representantes, en su caso, nombren de acuerdo el depositario representante, más si no estuvieren conformes, el juez lo nombrará libremente de entre las personas designadas por el artículo anterior.
+ART. 658.- Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes, en su caso, nombren de acuerdo el depositario representante, más si no estuvieren conformes, el juez lo nombrará libremente de entre las personas designadas por el artículo anterior.
 
 ART. 659.- A falta de cónyuge, de descendientes y de ascendientes, será representante el heredero presuntivo. Si hubiere varios con igual derecho, ellos mismos elegirán el que deba representarlo. Si no se ponen de acuerdo en la elección, la hará el juez prefiriendo al que tenga más interés en la conservación de los bienes del ausente.
 
@@ -5831,6 +5847,8 @@ ART. 1263.- Si el legado consistiere en prestación periódica, el legatario har
 
 ### CAPITULO V. De los bienes de que se puede disponer por testamento y de los testamentos inoficiosos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+
 ART. 1264.- El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
@@ -5841,15 +5859,15 @@ I.- A los descendientes menores de 18 años respecto de los cuales tenga obligac
 
 II.- A los descendientes que estén imposibilitados de trabajar cualquiera que sea su edad; cuando exista la obligación a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes, salvo otra disposición expresa del testador, este derecho subsistirá en tanto no celebre una relación conyugal y viva honestamente;
+III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes, salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
 
 IV.- A los ascendientes;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los cuatro años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de relación conyugal durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
+V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los cuatro años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos; y
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -6591,9 +6609,9 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el ca
 
 ### CAPITULO VI. De la sucesión de la concubina
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-ART. 1526.- La mujer o el hombre con quien el autor de la herencia vivió como si fuera su cónyuge en calidad de concubinos durante los cuatro años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de relación conyugal durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+ART. 1526.- La mujer o el hombre con quien el autor de la herencia vivió como si fuera su cónyuge en calidad de concubinos durante los cuatro años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
 
 I.- Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1,515 y 1,516;
 
@@ -7169,7 +7187,7 @@ II.- El mensaje de datos que reciba el destinatario o la parte que confía, resu
 
 Lo dispuesto en el presente artículo no se aplicará:
 
-I.- A partir del momento en que el destinatario haya sido informado por el Emisor de que el mensaje de datos no provenía de este, y haya dispuesto de un plazo razonable para actuar en consecuencia; y
+I.- A partir del momento en que el destinatario haya sido informado por el Emisor de que el mensaje de datos no provenía de éste, y haya dispuesto de un plazo razonable para actuar en consecuencia; y
 
 II.- A partir del momento en que el destinatario o la parte que confía, tenga conocimiento, o debiere tenerlo, de haber actuado con la debida diligencia o aplicado algún método convenido, que el mensaje de datos no provenía del emisor.
 
@@ -7225,7 +7243,7 @@ Para efectos de este artículo, se considerará que el contenido de un mensaje d
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 1702 I.- Salvo pacta en contrario entre el emisor y el destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el emisor tenga su residencia habitual y por recibido en el lugar donde el destinatario tenga el suyo.
+ART. 1702 I.- Salvo pacto en contrario entre el emisor y el destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el emisor tenga su residencia habitual y por recibido en el lugar donde el destinatario tenga el suyo.
 
 Para los fines del presente artículo.
 
@@ -11402,3 +11420,11 @@ P.O. 19 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 63 POR EL QUE SE REFORMA EL ARTÍCULO 268 DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y ADICIONA UN TÍTULO SEXTO TER, Y UN CAPÍTULO ÚNICO, DENOMINADO DEL DIVORCIO SIN CAUSA, Y LOS ARTÍCULOS 428 TER, 428 TER 1, 428 TER 2 AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 103 SE REFORMA LA DENOMINACIÓN DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, PARA QUE EN LO SUCESIVO SE DENOMINE CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ASÍ COMO, DIVERSAS DISPOSICIONES DEL MISMO; IGUALMENTE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado: "El Estado de Colima".
+
+SEGUNDO.- Se reconoce plena validez legal a los contratos de Enlaces Conyugales celebrados con anterioridad al presente decreto, debiendo los contrayentes celebrar contrato de matrimonio, para lo cual los oficiales del Registro Civil deberán sustituir el acta de Relación Conyugal correspondiente, por una nueva acta de matrimonio en los términos en que se celebró el enlace referido; sin necesidad de presentar nuevamente la documentación requerida para celebrar tales actos jurídicos, ni realizar pago algo por esta sustitución..
