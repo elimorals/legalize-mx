@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-desarrollo-urbano-sostenible-del-municipio-de-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-05"
-last_updated: "2013-10-05"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE DEL MUNICIPIO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Reglamento publicado en el Folleto Anexo al Número 80 del Periódico Oficial del Estado de Chihuahua, el sábado 5 de octubre de 2013.
 
@@ -1257,7 +1257,7 @@ I. Acreditar que la posesión que ejerce sobre el terreno en que construirá es 
 
 II. Que es el único bien inmueble que posee;
 
-III. Que las personas que ejecuten la construcción acrediten su personalidad y parentesco con el propietario, no debiendo en ningún caso percibir salario por el desempeño de su trabajo en la obra, y
+III. (DEROGADA, P.O. 11 DE JUNIO DE 2016)
 
 IV. La aprobación de la Licencia de autoconstrucción será otorgada previo análisis por parte de la Dirección.
 
@@ -1686,6 +1686,14 @@ II. Superficie de una hectárea o mayor;
 III. Frente a una vialidad con nivel de servicio C, D, E o F, y
 
 IV. Frente a una vialidad tipo Primaria, de Primer Orden o Regional.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+###### Artículo 68
+
+Bis. Es obligación de los constructores, promotores o de quienes promueven en la ejecución de acciones urbanas, instalar infraestructuras destinadas a usuarios del transporte urbano, como asientos con techumbres con materiales que converjan con el paisaje de la zona, cuando se trate de fraccionamientos habitacionales urbanos, habitacional suburbano y rural, comerciales y de servicios, Industriales, de cementerios o parques funerarios.
+
+En el caso de fraccionamientos habitacionales, deberán instalarse en los espacios a que alude el artículo 68 de este Reglamento y para el caso de los fraccionamientos comerciales y de servicios, industriales, de cementerios o parques industriales, deberá instalarse en las zonas que se destinen al ascenso y descenso y que presente el fraccionador en la etapa de anteproyecto.
 
 ###### Artículo 69.
 
@@ -4292,3 +4300,17 @@ Artículo Tercero. Para efectos del cumplimiento de la norma establecida en la f
 Artículo Cuarto. La Dirección de Desarrollo Urbano y Ecología del Municipio de Chihuahua deberá convocar en un plazo máximo de 30 días naturales, contados a partir del día siguiente al que entre en vigor el presente Reglamento, para la instalación formal de la Comisión de Admisión de Directores Responsables en Urbanismo.
 
 EL SECRETARIO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE CHIHUAHUA. LIC. FERNANDO RODRIGUEZ GARCIA. RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO 068 SE CREA EL ARTÍCULO 68 BIS DEL REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE DEL MUNICIPIO DE CHIHUAHUA”.]
+
+ARTICULO TRANSITORIO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO 069 SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 36 DEL REGLAMENTO DE DESARROLLO URBANO SOSTENIBLE DEL MUNICIPIO DE CHIHUAHUA”.]
+
+TRANSITORIO ÚNICO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR A PARTIR DEL DIA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
