@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2015-06-30"
+last_updated: "2016-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -865,43 +865,9 @@ Los planes y programas de estudio aplicables y obligatorios en el Estado, de edu
 
 De las Instituciones Autónomas de Educación Superior.
 
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+ARTICULO 46 BIS.- (DEROGADO, P.O. 11 DE JUNIO DE 2016)
 
-ARTICULO 46 BIS.- Las instituciones particulares de educación superior del sistema educativo del Estado, después de cinco años de contar con reconocimientos de validez oficial de estudios en los términos de esta Ley, obtendrán la condición de instituciones autónomas de Educación Superior, si además cumplen con los requisitos siguientes:
-
-I.- Acreditar que en lo general su planta de docentes tenga la preparación científica o tecnológica indispensable; y que por lo menos el cincuenta por ciento de ellos, tiene el grado de maestría en la rama del saber humano en que imparte su cátedra;
-
-II.- Disponer de local adecuado a la enseñanza que haya que impartirse; así como las instalaciones, equipo y laboratorios convenientes, según el caso;
-
-III.- Reunir las condiciones necesarias de seguridad e higiene en su establecimiento, y cumplir con todas las disposiciones de carácter administrativo;
-
-IV.- Obtener de la Secretaría de Educación de Gobierno del Estado, dictamen favorable en el sentido de que la educación que imparte tiene un alto nivel académico;
-
-V.- Declarar, bajo protesta de decir verdad, que mantendrán los altos niveles académicos, bajo pena de revocación del decreto donde se otorga autonomía a la institución; y que dará a la Secretaría de Educación todas las facilidades que requiera para que ejecute sus facultades de inspección y vigilancia, con la finalidad de constatar el mantenimiento permanente de los altos niveles académicos, y
-
-VI.- Publicar en el Periódico Oficial del Estado el compromiso de mantener los altos niveles académicos, bajo pena de revocación de su calidad de autónoma conforme al procedimiento previsto en el artículo siguiente.
-
-Reunidos los requisitos enumerados, el titular del Poder Ejecutivo del Estado, expedirá el decreto respectivo que reconozca la calidad de las instituciones autónomas de educación superior, en donde se hará una relación suscinta de los antecedentes académicos de la institución.
-
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
-
-ARTICULO 46 TER.- Las instituciones de educación superior que, conforme a esta Ley reciban la calidad de autónomas, gozarán de plena libertad académica, entendida no sólo como el ejercicio de la más irrestricta libertad de cátedra, sino como la autonomía para elaborar sus planes y programas de estudio, los que sólo deberán registrar ante la Secretaría de Educación de Gobierno del Estado.
-
-Las instituciones autónomas de educación superior:
-
-I.- Podrán impartir los conocimientos que ellas mismas determinen;
-
-II.- Señalarán los estudios que sirvan como antecedente propedéutico para cursar los que ellas mismas impartan;
-
-III.- Gozarán de libertad administrativa para el efecto de que puedan determinar libremente su estructura, órganos de gobierno, normatividad interna general y la forma de manejar, dirigir, controlar y vigilar la documentación y su propio patrimonio;
-
-IV.- Contarán con validez oficial los estudios que impartan, y los títulos que expidan serán registrados, una vez que satisfagan los requisitos de la ley federal reglamentaria al ejercicio de las profesiones;
-
-V.- Deberán publicar, en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación de la Entidad, un informe anual donde se expresen las labores desarrolladas durante ese término, sus estados financieros, así como los cambios hechos en su organización administrativa y régimen académico, y
-
-VI.- Estarán obligadas a mantener en forma permanente programas de investigación científica y tecnológica, sobre todo en su aspecto aplicado, con miras a acrecentar los campos de producción de bienes y servicios en el Estado.
-
-La calidad de institución autónoma de educación superior, sólo podrá ser revocada por decreto expreso del titular del Poder Ejecutivo del Estado, debidamente fundado y motivado, cuando a juicio de éste, la institución haya dejado de cumplir las condiciones y obligaciones impuestas por la legislación aplicable.
+ARTICULO 46 TER.- (DEROGADO, P.O. 11 DE JUNIO DE 2016)
 
 ### Capítulo III.
 
@@ -2241,6 +2207,8 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
+P.O. 11 DE JUNIO DE 2016.
+
 ## TRANSITORIOS
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado.
@@ -2262,3 +2230,9 @@ SEXTO.- El Gobierno del Estado, establece un plazo no mayor de 90 días a partir
 INDICE
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0224.- SE DEROGAN LOS ARTÍCULOS, 46 BIS, Y 46 TER, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
