@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2015-03-26"
+last_updated: "2016-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1029,9 +1029,17 @@ II. El secretario registrará a los que con las palabras "a favor" voten afirmat
 
 III. Antes de que vote la Directiva, el secretario preguntará hasta dos veces en voz alta, si aún falta por votar algún diputado, luego de verificar que no falte nadie, votarán los secretarios y, por último, el Presidente; después de la Directiva no podrá votar nadie que no lo haya hecho;
 
-IV. El secretario que corresponda hará el recuento de los votos; el escrutinio será público y el número de votos a favor como en contra se leerán en voz alta, y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-V. Los resultados los dará a conocer el Presidente de la Directiva del Congreso.
+IV. El secretario que corresponda hará el recuento de los votos; el escrutinio será público y el número de votos a favor como en contra se leerán en voz alta;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+V. Los resultados los dará a conocer el Presidente de la Directiva del Congreso, y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VI. En caso de que se verifique empate en la votación nominal, inmediatamente se llevará a cabo una segunda votación; si el empate persiste, el Presidente de la Directiva, o el legislador que se encuentre en esas funciones, tendrá voto de calidad.
 
 ###### ARTICULO 112.
 
@@ -2398,6 +2406,14 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 26 DE MARZO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- SE REFORMA EL ARTÍCULO 111 EN SUS FRACCIONES, IV, Y V; Y ADICIONA AL MISMO ARTÍCULO 111 LA FRACCIÓN VI, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
