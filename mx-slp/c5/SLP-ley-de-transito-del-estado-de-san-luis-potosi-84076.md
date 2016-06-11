@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2016-04-28"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1097,17 +1097,21 @@ En el reglamento de esta Ley y en los reglamentos municipales se definirá el pr
 
 ### Capítulo Unico. Del Procedimiento de Imposición de Sanciones
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
 ###### ARTICULO 89.
 
-Las sanciones por infracciones a esta Ley serán impuestas por las autoridades de tránsito respectivas, de conformidad con los conceptos y cuantías establecidas en las leyes correspondientes.
+Las sanciones por infracciones a esta Ley, su reglamento, o reglamentos municipales correspondientes, serán impuestas por los elementos de seguridad pública, los agentes de tránsito municipal, o bien por los elementos operativos competentes, de conformidad con los conceptos y cuantías establecidas en las leyes respectivas.
+
+Las sanciones referidas en el párrafo anterior, se aplicarán sin perjuicio de poner a disposición al infractor ante el Ministerio Público del fuero común o federal, cuando éste realice conductas que generen o pueden provocar la probable comisión de un delito.
 
 ###### ARTICULO 90.
 
-La aplicación de sanciones por violaciones a esta Ley, su reglamento o los reglamentos municipales, se harán sin perjuicio de poner a disposición al infractor ante el Ministerio Público del fuero común o, inclusive, federal, cuando éste despliegue conductas que entrañen o puedan entrañar la probable comisión de un delito.
+(DEROGADO, P.O. 11 DE JUNIO DE 2016)
 
 ###### ARTICULO 91.
 
-Las infracciones a esta Ley serán sancionadas por los elementos de seguridad pública, los agentes de tránsito municipal, o bien por los elementos operativos competentes en los términos de los reglamentos municipales.
+(DEROGADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)
 
 Para la aplicación de la sanción se levantará una boleta de infracción y sanción, que contendrá obligatoriamente los siguientes datos:
 
@@ -1480,6 +1484,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 28 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0207.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 87, DE LA LEY DE TRÁNSITO DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0221.- SE REFORMA EL ARTÍCULO 89; Y DEROGA LOS ARTÍCULOS, 90, Y 91 SU PÁRRAFO PRIMERO, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
