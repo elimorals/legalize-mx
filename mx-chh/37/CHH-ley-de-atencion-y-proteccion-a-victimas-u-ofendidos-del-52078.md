@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-atencion-y-proteccion-a-victimas-u-ofendidos-del-52078"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-21"
-last_updated: "2016-02-27"
+last_updated: "2016-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "CHH"
 ---
 # LEY DE ATENCION Y PROTECCION A VICTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE NOVIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NO. 915/2015 II P.O. POR EL QUE SE EXPIDE LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR AL MISMO TIEMPO QUE LO HAGA EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN TODO EL TERRITORIO DEL ESTADO, SEGÚN LA DECLARATORIA DE INICIO DE VIGENCIA CONTENIDA EN EL DECRETO NO. 852/2015 VII P.E., ES DECIR, A PARTIR DE LAS CERO HORAS DEL DÍA 13 DE JUNIO DE 2016, DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO NO. 915/2015 II P.O. POR EL QUE SE EXPIDE LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE ENERO DE 2017, SEGÚN LA DECLARATORIA DE INICIO DE VIGENCIA CONTENIDA EN EL DECRETO NO. 852/2015 VII P.E., Y LA REFORMA DE FECHA P.O. 11 DE JUNIO DE 2016.]</small>
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 21 de octubre del 2006.
 
@@ -429,9 +427,11 @@ P.O. 27 DE FEBRERO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 915/2015 II P.O. LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA”.]
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al mismo tiempo que lo haga el Código Nacional de Procedimientos Penales en todo el territorio del Estado, según la declaratoria de inicio de vigencia contenida en el Decreto No. 852/2015 VII P.E., es decir, a partir de las cero horas del día 13 de junio de 2016, después de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día primero de enero del año 2017.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -448,3 +448,23 @@ El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del 
 ###### ARTÍCULO QUINTO.
 
 Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General del Estado, a partir del día 13 de junio del 2016 y hasta el día en que entre en vigor el presente Decreto, deberá proveer de las medidas administrativas que estime convenientes, a efecto de proporcionar asesores jurídicos a las víctimas de delito que así lo soliciten, con las funciones que establece el Código Nacional de Procedimientos Penales y la Ley General de Víctimas.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento Interno del Consejo General a que aluden los artículos 17 y 18 del Decreto No. 915/2015 II P.O., en un plazo de 90 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1391/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO PRIMERO Y SE ADICIONAN LOS ARTÍCULOS SEXTO Y SÉPTIMO, TODOS ELLOS TRANSITORIOS DEL DECRETO NO. 915/2015 II P.O., DE FECHA 29 DE JUNIO DEL AÑO 2015, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DEL DÍA 27 DE FEBRERO DE 2016, POR VIRTUD DEL CUAL SE EXPIDIÓ LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
