@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2016-05-28"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2519,7 +2521,9 @@ XIII.- El Estado tiene una composición pluricultural sustentada originalmente e
 
 Ante ello, el Estado y los municipios en el ámbito de su competencia, promoverán la participación de la sociedad en el rescate, preservación y difusión de la cultura, lenguas, usos, costumbres y tradiciones indígenas.
 
-Así, esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas que residan de manera temporal o permanente en el territorio, a la libre determinación, a la autonomía, al reconocimiento como pueblo o comunidad indígena, a la identidad indígena, a aplicar sus propios sistemas normativos, a la preservación de su identidad cultural, a la tierra, de consulta y participación, a acceder plenamente a la jurisdicción del Estado y, al desarrollo. Derechos que se regularán en la ley correspondiente.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Esta Constitución reconoce y garantiza a las personas, pueblos y comunidades indígenas que residan de manera temporal o permanente en el territorio del Estado de Colima, los derechos humanos y demás prerrogativas establecidas a su favor en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
 
 El Estado y los municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
 
@@ -3498,6 +3502,12 @@ b) Nombrará a una o un Consejero, cuyo encargo concluirá el último día del m
 c) Nombrará a una o un Consejero, cuyo encargo concluirá el último día del mes de agosto de 2022.
 
 Un mes antes de concluir cada uno de los consejeros sus respectivos períodos, el Congreso del Estado deberá designar al Consejero que fungirá en el encargo, por un período de seis años, que invariablemente terminará el último día del mes de agosto del año en que se cumpla dicho período.
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 99 SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XIII DEL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
