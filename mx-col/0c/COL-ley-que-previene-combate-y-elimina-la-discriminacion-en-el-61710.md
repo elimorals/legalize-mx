@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2014-05-10"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "COL"
 ---
 # LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACION EN EL ESTADO DE COLIMA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2016 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
-LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
+LIC. JESÚS SILVERIO CAVAZOS CEVALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 
@@ -51,11 +53,47 @@ LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia obligatoria en todo el territorio del Estado de Colima. El objeto de la misma es prevenir y eliminar toda forma de discriminación que se ejerza o se pretenda ejercer contra cualquier persona en el territorio del Estado, así como promover la igualdad de oportunidades y de trato.
 
-###### Artículo 2°.
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-Queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional. El género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, las Ideologías o creencias religiosas, la migraci6n o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Artículo 1º BIS.- Para los efectos de esta Ley se entenderá por:
+
+I. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás;
+
+II. Comisión: A la Comisión Estatal de Derechos Humanos;
+
+III. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
+
+IV. Consejo Estatal: El Consejo Estatal Contra la Discriminación;
+
+V. Consejos Municipales: Los Consejos Municipales contra la Discriminación
+
+VI. Igualdad real de oportunidades: Es el acceso que tienen las personas o grupos de personas al igual disfrute de derechos, por la vía de las normas y los hechos, para el disfrute de sus derechos;
+
+VII. Ley: A la Ley que Previene, Combate y Elimina la Discriminación en el Estado de Colima;
+
+VIII. Programa: El Programa Estatal para Prevenir y Eliminar la Discriminación;
+
+IX. Resolución: Determinación emitida por el Consejo, con carácter vinculante, por medio de la cual se declara que se acreditó una conducta o práctica social discriminatoria, y por tanto, de manera fundada y motivada se imponen medidas administrativas y de reparación a quien resulte responsable de dichas conductas o prácticas; y
+
+X. Sistema Estatal: El Sistema Estatal Contra la Discriminación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+
+###### Artículo 2º.
+
+Queda prohibida toda práctica discriminatoria que tenga por objeto o efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del artículo 1o. constitucional y la fracción III del el (sic) artículo 1º BIS de esta Ley.
 
 Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deben combatirse.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+
+###### Artículo 3º.
+
+Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los poderes públicos Estatales y Municipales deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán la participación de las autoridades en la eliminación de dichos obstáculos.
+
+Se considera discriminatoria toda ley o acto que, siendo de aplicación igual para todas las personas, produzca consecuencias perjudiciales para las personas o grupos en situación de vulnerabilidad.
 
 ###### Artículo 3°.
 
@@ -69,11 +107,13 @@ Toda autoridad, órgano público estatal o municipal y servidor público que act
 
 Es obligación de las personas físicas que habiten transitoria, permanentemente o se encuentren en tránsito en el territorio estatal, y de las personas morales que realicen actividades sociales o comerciales en el mismo, abstenerse de efectuar prácticas discriminatorias, ya sea por acción u omisión.
 
-###### Artículo 5°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
-No se considerarán conductas discriminatorias las siguientes:
+###### Artículo 5º.
 
-l. Las acciones legislativas, educativas o de políticas públicas positivas o compensatorias que, sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de promover la igualdad real de oportunidades;
+No se considerarán discriminatorias las acciones afirmativas que tengan por efecto promover la igualdad real de oportunidades de las personas o grupos. Tampoco será juzgada como discriminatoria la distinción basada en criterios razonables, proporcionales y objetivos cuya finalidad no sea el menoscabo de derechos; así como las siguientes conductas:
+
+I. Las acciones legislativas, educativas o de políticas públicas positivas o compensatorias que, sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de promover la igualdad real de oportunidades;
 
 II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada o un empleo;
 
@@ -99,7 +139,9 @@ II. Al Supremo Tribunal de Justicia, en el ámbito de su competencia a efecto de
 
 III. A la Legislatura del Estado, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Legislativo;
 
-IV. A la Secretaria de Administración del Gobierno del Estado, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+IV. A la Secretaría de Planeación y Finanzas, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Ejecutivo;
 
 V. A los Ayuntamientos del Estado, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos municipales;
 
@@ -133,7 +175,9 @@ La enunciación de las conductas discriminatorias específicas señaladas en est
 
 Son conductas que discriminan a las mujeres, las siguientes:
 
-I. Impedir el acceso a la educación, así como a becas e incentivos para la permanencia en los centros educativos;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+I. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos en los centros educativos;
 
 II. Separar de cualquier centro educativo o laboral por razón de embarazo;
 
@@ -145,11 +189,15 @@ V. Restringir las oportunidades de acceso, permanencia y ascenso en el empleo, e
 
 VI. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajo de Igual valor;
 
-VII. Limitar el acceso a los programas de capacitación y de formación profesional;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VII. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional;
 
 VIII. Condicionar el acceso o la permanencia en el empleo por embarazo, o solicitar en cualquier momento la realización de pruebas de gravidez;
 
-IX. Negar información sobre sus derechos reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos o impedir su participación en las decisiones sobre su tratamiento médico o terapéutico, dentro de sus posibilidades o medios;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+IX. Negar o limitar información sobre sus derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos o impedir su participación en las decisiones sobre su tratamiento médico o terapéutico, dentro de sus posibilidades o medios;
 
 X. Negar o condicionar los servicios de asistencia médica;
 
@@ -159,7 +207,9 @@ XII. Negar o condicionar el derecho de participación política y, específicame
 
 XIII. Impedir el ejercicio de sus derechos de propiedad, administración y disposición de bienes, incluyendo los de régimen ejidal y comunal;
 
-XIV. Impedir su acceso a la justicia o generar cualquier tipo de violencia en su contra por parte de las instituciones de seguridad pública y de justicia;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+XIV. Impedir o limitar su acceso a la procuración e impartición de justicia o generar cualquier tipo de violencia en su contra por parte de las instituciones de seguridad pública y de justicia;
 
 XV. Aplicar cualquier tipo de uso o costumbre que atente contra su dignidad e integridad;
 
@@ -415,9 +465,73 @@ X. Impedir o negar su participación en la toma de decisiones de política públ
 
 XI. Todas las demás que se contemplen en las Leyes en la materia.
 
-### CAPÍTULO III. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN] , P.O. 11 DE JUNIO DE 2016)</small>
 
-### CAPÍTULO IV. DEL SISTEMA ESTATAL CONTRA LA DISCRIMINACIÓN
+### CAPÍTULO III. DE LAS MEDIDAS GENERALES DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 19 BIS.- Cada uno de los poderes públicos estatales y municipales y aquellas instituciones que estén bajo su regulación o competencia, están obligados a realizar las medidas de nivelación, las medidas de inclusión y las acciones afirmativas necesarias para garantizar a toda persona la igualdad real de oportunidades y el derecho a la no discriminación.
+
+La adopción de estas medidas forma parte de la perspectiva antidiscriminatoria, la cual debe ser incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas que lleven a cabo cada uno de los poderes públicos estatales.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 19 BIS 1.- Las medidas de nivelación son aquellas que buscan hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades de los grupos en situación de discriminación o vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 19 BIS 2.- Las medidas de nivelación incluyen, entre otras:
+
+I. Ajustes razonables en materia de accesibilidad física, de información y comunicaciones;
+
+II. Adaptación de los puestos de trabajo para personas con discapacidad;
+
+III. Diseño y distribución de comunicaciones oficiales, convocatorias públicas, libros de texto, licitaciones, entre otros, en formato braille o en lenguas indígenas;
+
+IV. Uso de intérpretes de lengua de señas mexicana en los eventos públicos de todas las dependencias gubernamentales y en los tiempos oficiales de televisión;
+
+V. Uso de intérpretes y traductores de lenguas indígenas;
+
+VI. La accesibilidad del entorno social, incluyendo acceso físico, de comunicaciones y de información;
+
+VII. Derogación o abrogación de las disposiciones normativas que impongan requisitos discriminatorios de ingreso y permanencia a escuelas, trabajos, entre otros; y
+
+VIII. Creación de licencias de paternidad, homologación de condiciones de derechos y prestaciones para los grupos en situación de discriminación o vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 19 BIS 3.- Las medidas de inclusión son aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 19 BIS 4.- Las medidas de inclusión podrán comprender, entre otras, las siguientes:
+
+I. La educación para la igualdad y la diversidad dentro del sistema educativo estatal;
+
+II. La integración en el diseño, instrumentación y evaluación de las políticas públicas del derecho a la igualdad y no discriminación;
+
+III. El desarrollo de políticas contra la homofobia, xenofobia, la misoginia, la discriminación por apariencia o el adultocentrismo;
+
+IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias; y
+
+V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 19 BIS 5.- Las acciones afirmativas son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad. Estas medidas no serán consideradas discriminatorias en términos del artículo 5 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 19 BIS 6.- Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y sub representados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas. Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, afro descendientes, mujeres, niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+Artículo 19 BIS 7.- Las instancias públicas que adopten medidas de nivelación, medidas de inclusión y acciones afirmativas, deben reportarlas periódicamente al Consejo Estatal para su registro y monitoreo. El Consejo Estatal determinará la información a recabar y la forma de hacerlo en los términos de sus ordenamientos legales.
+
+(ADICIONADO [N. DE E. REUBICADO ANTES CAPÍTULO III], P.O. 11 DE JUNIO DE 2016),
+
+### CAPÍTULO III BIS. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
 
 ###### Artículo 20.
 
@@ -433,7 +547,9 @@ IV. Ofrecer información completa y actualizada, así como asesoramiento persona
 
 V. Garantizar el derecho a decidir sobre el número y espaciamiento de sus hijos, estableciendo en las instituciones de salud y seguridad social las condiciones para la atención obligatoria de las mujeres que lo soliciten;
 
-VI. Garantizar la creación de centros de desarrollo infantil y de guarderías, asegurando el acceso a los mismos para sus hijos, cuando ellas lo soliciten; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VI. Garantizar la creación de centros de desarrollo infantil y de guarderías, asegurando el acceso a los mismos para sus hijos cuando ellas lo soliciten; y
 
 VII. Las demás que se contemplan en la legislación de protección de los derechos de las mujeres vigente en el Estado.
 
@@ -569,7 +685,9 @@ IV. Revisar las leyes y las prácticas administrativas para asegurar la igualdad
 
 V. Asegurar que en los centros educativos no se obligue a los niños, las niñas y los adolescentes a realizar prácticas o actos que atenten en contra de su ideología o creencia religiosa; y
 
-VI. Todas las demás que se contemplen en las Leyes en la materia.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VI. Todas las demás que se contemplen en las leyes en la materia.
 
 ###### Artículo 27.
 
@@ -585,15 +703,17 @@ IV. Revisar las leyes y las prácticas administrativas para asegurar la igualdad
 
 V. Promover programas permanentes de capacitación y actualización para los funcionarios públicos del sector educativo sobre la diversidad sexual; y
 
-VI. Todas las demás que se contemplen en las Leyes en la materia.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VI. Todas las demás que se contemplen en las leyes en la materia.
 
 ###### Artículo 28.
 
 Las autoridades estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de las personas migrantes o extranjeros:
 
-l. Consolidar programas a favor de los migrantes a efecto de crear una cultura de la no corrupción, violencia y maltrato, en su tránsito por el territorio estatal;
+I. Consolidar programas a favor de los migrantes a efecto de crear una cultura de la no corrupción, violencia y maltrato, en su tránsito por el territorio estatal;
 
-II. Establecer programas de orientación y atención de quejas y denuncias:
+II. Establecer programas de orientación y atención de quejas y denuncias;
 
 III. Garantizar a lo largo de cualquier proceso legal, el derecho a ser asistidos, si así lo solicitaran se facilitará la asistencia de intérpretes y defensores que tengan conocimiento de su lengua;
 
@@ -601,7 +721,9 @@ IV. Emprender campañas permanentes en los medios de información acerca de sus 
 
 V. Garantizar su participación individual o colectiva en la difusión de sus costumbres y especificidades culturales, respetando los preceptos de la Constitución; y
 
-VI. Todas las demás que se contemplen en las Leyes en la materia.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VI. Todas las demás que se contemplen en las leyes en la materia.
 
 ###### Artículo 29.
 
@@ -615,9 +737,11 @@ III. Crear programas permanentes de capacitación para el empleo y fomento para 
 
 IV. Revisar las leyes y las prácticas administrativas para asegurar la igualdad de derechos y de acceso a los recursos económicos; y
 
-V. Todas las demás que se contemplen en las Leyes en la materia.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-### CAPÍTULO V. DE LOS ÓRGANOS DE CONTROL
+V. Todas las demás que se contemplen en las leyes en la materia.
+
+### CAPÍTULO IV. DEL SISTEMA ESTATAL CONTRA LA DISCRIMINACIÓN
 
 #### SECCIÓN PRIMERA. DEL OBJETO E INTEGRACIÓN
 
@@ -747,9 +871,11 @@ X. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás ins
 
 XI. Las demás establecidas en esta Ley y su Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
 ###### Artículo 41.
 
-El Consejo difundirá periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
+El Consejo Estatal difundirá periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
 
 ###### Artículo 42.
 
@@ -777,7 +903,9 @@ Los acuerdos del Consejo Estatal se tomarán por mayoría de votos y, en caso de
 
 Artículo 42 BIS 1.- El Consejero Presidente tendrá las siguientes atribuciones:
 
-I. Convocar, a través del Secretario Ejecutivo, a los miembros del Consejo, a las sesiones que se desarrollen conforme al orden del día que para ese efecto se elabore;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+I. Convocar, a través de la persona que funja como Secretario Ejecutivo, a los miembros del Consejo Estatal, a las sesiones que se desarrollen conforme al orden del día que para ese efecto se elabore;
 
 II. Dirigir las sesiones del Consejo Estatal y declarar resueltos los asuntos en el sentido de las votaciones;
 
@@ -785,15 +913,25 @@ III. Resolver, bajo su más estricta responsabilidad, aquellos asuntos de los qu
 
 IV. Suscribir y autorizar, en unión de los Consejeros y del Secretario Ejecutivo, las actas que se levanten de las sesiones que celebre el Consejo Estatal;
 
-V. Planear, organizar, coordinar y dirigir el funcionamiento del Consejo, con sujeción a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VI. Presentar a la consideración del Pleno del Consejo el proyecto del Programa Estatal para Prevenir y Eliminar la Discriminación;
+V. Planear, organizar, coordinar y dirigir el funcionamiento del Consejo Estatal, con sujeción a las disposiciones aplicables;
 
-VII. Someter a la consideración del Consejo el informe anual de actividades y el relacionado con el ejercicio presupuestal;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VIII. Ejercer la representación legal del Consejo, así como delegarla cuando no exista prohibición expresa para ello;
+VI. Presentar a la consideración del Pleno del Consejo Estatal el proyecto del Programa Estatal para Prevenir y Eliminar la Discriminación;
 
-IX. Proponer al Consejo la celebración de acuerdos de colaboración con organismos nacionales e internacionales para el desarrollo de las atribuciones del Consejo, de conformidad con las normas aplicables;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VII. Someter a la consideración del Consejo Estatal el informe anual de actividades y el relacionado con el ejercicio presupuestal;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VIII. Ejercer la representación legal del Consejo Estatal, así como delegarla cuando no exista prohibición expresa para ello;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+IX. Proponer al Consejo Estatal la celebración de acuerdos de colaboración con organismos nacionales e internacionales para el desarrollo de las atribuciones del mismo, de conformidad con las normas aplicables;
 
 X. Realizar todos los actos que fuesen necesarios para el eficiente funcionamiento del Consejo Estatal; y
 
@@ -819,11 +957,15 @@ V. Expedir los testimonios o copias certificadas de las resoluciones y documento
 
 VI. Tener a su cargo y bajo su responsabilidad, el archivo y demás documentos y objetos pertenecientes al Consejo Estatal;
 
-VII. Ejecutar los acuerdos y demás disposiciones emitidas por el Consejo, así como supervisar su cumplimiento;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VII. Ejecutar los acuerdos y demás disposiciones emitidas por el Consejo Estatal, así como supervisar su cumplimiento;
 
 VIII. Enviar al Poder Legislativo un informe anual de actividades y de su ejercicio presupuestal;
 
-IX. Citar a los Consejeros de conformidad con los acuerdos del Pleno del Consejo y organizar las Sesiones; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+IX. Citar a los Consejeros de conformidad con los acuerdos del Pleno del Consejo Estatal y organizar las Sesiones; y
 
 X. Las demás facultades que le otorgue la presente Ley, su Reglamento y el Presidente del Consejo Estatal.
 
@@ -833,15 +975,23 @@ Artículo 42 BIS 4.- Los Consejeros representantes de la Legislatura Estatal, de
 
 I. Asistir puntualmente a las sesiones a las que se les convoque;
 
-II. Tener voz y voto en las sesiones que celebre el Consejo Directivo;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-III. Sugerir las medidas necesarias para el adecuado cumplimiento del objeto del Consejo y el mejor desempeño de las funciones a su cargo;
+II. Tener voz y voto en las sesiones que celebre el Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+III. Sugerir las medidas necesarias para el adecuado cumplimiento del objeto del Consejo Estatal y el mejor desempeño de las funciones a su cargo;
 
 IV. Discutir y, en su caso, aprobar los asuntos, planes y programas que sean presentados en las sesiones;
 
-V. Tomar las decisiones y medidas que en cada caso se requieran, a efecto de que el Consejo cumpla con los objetivos que le competen;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
-VI. Integrarse a los grupos de trabajo y participar en las comisiones que sean necesarias para el cumplimiento del objeto del Consejo;
+V. Tomar las decisiones y medidas que en cada caso se requieran, a efecto de que el Consejo Estatal cumpla con los objetivos que le competen;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+
+VI. Integrarse a los grupos de trabajo y participar en las comisiones que sean necesarias para el cumplimiento del objeto del Consejo Estatal;
 
 VII. Suscribir las actas de las sesiones a las que asistieren; y
 
@@ -895,7 +1045,7 @@ En el ámbito de su competencia y en lo conducente el Consejo Municipal tendrá 
 
 El funcionamiento y organización del Consejo Municipal se regulará además de lo dispuesto por esta Ley, en lo que establezca el Reglamento interno que al efecto expida el Ayuntamiento.
 
-### CAPÍTULO VI. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO V. DE LOS ÓRGANOS DE CONTROL
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
@@ -957,7 +1107,7 @@ En términos de las fracciones II, III, IV y V del artículo 6º de esta Ley, el
 
 Tratándose de conductas o prácticas discriminatorias provenientes de personas físicas o morales, la autoridad estatal y municipales, en el ámbito de su competencia, impondrán las sanciones administrativas previstas en el Capítulo VI de esta Ley, sin perjuicio de la aplicación de otras sanciones por infracciones a otras leyes y reglamentos administrativos en que hubiesen incurrido los particulares.
 
-### CAPÍTULO VII. DE LAS MEDIDAS ADMINISTRATIVAS ADICIONALES
+### CAPÍTULO VI. DE LAS SANCIONES ADMINISTRATIVAS
 
 #### SECCIÓN PRIMERA. DE LAS SANCIONES
 
@@ -1012,6 +1162,8 @@ El cobro de las multas corresponderá a la Secretaría de Finanzas del Gobierno 
 En contra de los actos y resoluciones administrativas dictadas con base en esta Ley y de las disposiciones jurídicas que de ella emanen, proceden los recursos de revisión e inconformidad contemplados en la Ley del Procedimiento Administrativo del Estado y sus Municipios.
 
 Será optativo para el particular sancionado, agotar los recursos impugnativos señalados en el párrafo anterior o promover juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
+
+### CAPÍTULO VII. DE LAS MEDIDAS ADMINISTRATIVAS ADICIONALES
 
 ###### Artículo 67.
 
@@ -1078,3 +1230,9 @@ Rúbrica.
 P.O. 10 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 101 SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA, Y SE DESECHA LA INICIATIVA DE LEY CON PROYECTO DE DECRETO, PRESENTADA POR EL DIPUTADO FEDERICO RANGEL LOZANO, Y DEMÁS INTEGRANTES DEL GRUPO PARLAMENTARIO DEL PARTIDO REVOLUCIONARIO INSTITUCIONAL".]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
