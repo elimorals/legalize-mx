@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-victimas-para-el-estado-de-chihuahua-113286"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-27"
-last_updated: "2016-02-27"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "CHH"
 ---
 # LEY DE VICTIMAS PARA EL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE NOVIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-> <small>[N. DE E. EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR AL MISMO TIEMPO QUE LO HAGA EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN TODO EL TERRITORIO DEL ESTADO, ES DECIR, A PARTIR DEL DÍA 13 DE JUNIO DE 2016, DESPUÉS DE SU PUBLICACIÓN.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO REFORMADO POR DECRETO N°. 1391/2016 XIV P.E., PUBLICADO EN EL P.O. 11 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA PRIMERO DE ENERO DE 2017.]</small>
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2016.
 
@@ -915,9 +913,11 @@ La estructura, operación, funcionamiento, atribuciones y facultades de la Aseso
 
 T R A N S I T O R I O S
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al mismo tiempo que lo haga el Código Nacional de Procedimientos Penales en todo el territorio del Estado, según la declaratoria de inicio de vigencia contenida en el Decreto No. 852/2015 VII P.E., es decir, a partir de las cero horas del día 13 de junio de 2016, después de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día primero de enero del año 2017.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -935,6 +935,18 @@ El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del 
 
 Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General del Estado, a partir del día 13 de junio del 2016 y hasta el día en que entre en vigor el presente Decreto, deberá proveer de las medidas administrativas que estime convenientes, a efecto de proporcionar asesores jurídicos a las víctimas de delito que así lo soliciten, con las funciones que establece el Código Nacional de Procedimientos Penales y la ley General de Víctimas.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2016)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento Interno del Consejo General a que aluden los artículos 17 y 18 del Decreto No. 915/2015 11 P.O., en un plazo de 90 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
 D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los veintinueve días del mes de junio del año dos mil quince.
 
 PRESIDENTE. DIP. CÉSAR AUGUSTO PACHECO HERNÁNDEZ. Rúbrica. SECRETARIO. DIP. ENRIQUE LICÓN CHÁVEZ. Rúbrica. SECRETARIO. DIP. HÉCTOR HUGO AVITIA CORRAL. Rúbrica.
@@ -944,3 +956,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintidós días del mes de diciembre del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1391/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO PRIMERO Y SE ADICIONAN LOS ARTÍCULOS SEXTO Y SÉPTIMO, TODOS ELLOS TRANSITORIOS DEL DECRETO NO. 915/2015 II P.O., DE FECHA 29 DE JUNIO DEL AÑO 2015, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DEL DÍA 27 DE FEBRERO DE 2016, POR VIRTUD DEL CUAL SE EXPIDIÓ LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
