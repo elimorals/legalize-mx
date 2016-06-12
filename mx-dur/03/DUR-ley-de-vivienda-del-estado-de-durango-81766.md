@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-vivienda-del-estado-de-durango-81766"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-22"
-last_updated: "2015-09-20"
+last_updated: "2016-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE VIVIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de mayo de 2011.
 
@@ -109,7 +109,9 @@ II.- Autoproducción de vivienda: Al proceso de gestión, uso de suelo, construc
 
 III.- Comisión Estatal: Comisión Estatal de Suelo y Vivienda de Durango;
 
-IV.- Junta de Gobierno: Autoridad Suprema, de la Comisión Estatal de Suelo y Vivienda de Durango;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+IV.- Junta de Gobierno: Autoridad Suprema, de la Comisión Estatal;
 
 V.- Consejo Estatal: Instancia de consulta y asesoría del Ejecutivo del Estado, el cual propondrá el seguimiento de las políticas públicas en lo que respecta al Programa Estatal de Vivienda;
 
@@ -203,7 +205,9 @@ III. Coordinar el Sistema Estatal de Vivienda, con la participación que corresp
 
 IV. Conducir la planeación, programación y presupuestación de las acciones en materias de suelo y vivienda en el Estado de Durango, otorgando atención preferente a la población en situación de pobreza, riesgo o vulnerabilidad;
 
-V. Designar y remover libremente al Director General de la Comisión Estatal de Suelo y Vivienda de Durango;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+V. Designar y remover libremente al Director General de la Comisión Estatal;
 
 VI. Promover la constitución de reservas territoriales para fines habitacionales, en los términos de la presente Ley y la Ley General de Desarrollo Urbano para el Estado de Durango, así como convenir programas y acciones en materia de suelo y vivienda con el Gobierno Federal y con los municipios;
 
@@ -241,7 +245,9 @@ X. Generar y proporcionar, según se requiera, la información sobre el avance d
 
 XI. Participar en el Sistema de Información, que permita conocer la situación real de la vivienda en el Municipio, tomando en cuenta el desarrollo y crecimiento de la misma, y las condiciones que inciden en ella, como son el rezago la calidad, los espacios y los servicios básicos;
 
-XII. Celebrar con dependencias y entidades de la Administración Pública Estatal, propietarios, desarrolladores y productores sociales de vivienda, toda clase de actos jurídicos para el desarrollo de programas de vivienda y acciones inmobiliarias, coordinar programas de construcción, autoconstrucción, mejoramiento, rehabilitación y ampliación de vivienda; regularización de la tenencia de la tierra; determinación y constitución de reservas territoriales con fines habitacionales, producción y distribución de materiales de construcción;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XII. Celebrar con dependencias y entidades de la Administración Pública Estatal, propietarios, desarrolladores, productores sociales de vivienda, e instituciones educativas de nivel superior públicas y privadas, toda clase de actos jurídicos para el desarrollo de programas de vivienda y acciones inmobiliarias, para coordinar programas de construcción, autoconstrucción, asistencia técnica, mejoramiento, rehabilitación y ampliación de vivienda; regularización de la tenencia de la tierra; determinación y constitución de reservas territoriales con fines habitacionales, producción y distribución de materiales de construcción;
 
 XIII. Fomentar la participación ciudadana y recibir las opiniones de los grupos sociales que integran la comunidad, respecto a la formulación, aprobación, ejecución, vigilancia y evaluación del Programa Municipal de Vivienda;
 
@@ -265,19 +271,21 @@ Se crea un Organismo Público Descentralizado, con personalidad jurídica y patr
 
 Domicilio
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
 
 ###### Artículo 10.
 
-El domicilio legal de la Comisión Estatal de Suelo y Vivienda de Durango, será la ciudad de Victoria de Durango, Durango, contando con la facultad, previa autorización de la Junta de Gobierno, para instalar unidades administrativas en otras localidades del Estado, cuando así sea necesario, atendiéndose además a la disponibilidad de carácter presupuestal con la que se cuente.
+El domicilio legal de la Comisión Estatal, será la ciudad de Victoria de Durango, Durango, contando con la facultad, previa autorización de la Junta de Gobierno, para instalar unidades administrativas en otras localidades del Estado, cuando así sea necesario, atendiéndose además a la disponibilidad de carácter presupuestal con la que se cuente.
 
 > <small>(ADICIONADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
 Objeto de la Comisión Estatal de Suelo y Vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 11.
 
-La Comisión Estatal de Suelo y Vivienda de Durango, tiene por objeto:
+La Comisión Estatal, tiene por objeto:
 
 I. Formular el Programa Estatal de Vivienda conjuntamente con su dependencia coordinadora de sector, en congruencia con la política nacional, así como con el Plan y programas, que integran el Sistema Estatal de Planeación, para su aprobación por el Titular del Ejecutivo del Estado de Durango;
 
@@ -329,9 +337,11 @@ XXIV. Vigilar en el ámbito de su competencia, el cumplimiento de la presente Le
 
 Patrimonio de la Comisión Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 12.
 
-El patrimonio de la Comisión Estatal de Suelo y Vivienda de Durango estará integrado por:
+El patrimonio de la Comisión Estatal estará integrado por:
 
 I. Los bienes inmuebles, numerario, servicios, subsidios y demás bienes muebles que le transmita o aporte los Gobiernos Federal, Estatal o Municipal;
 
@@ -343,23 +353,29 @@ IV. Los bienes y derechos que obtenga por cualquier título.
 
 Autonomía de Gestión
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 13.
 
-La Comisión Estatal de Suelo y Vivienda de Durango gozará de autonomía de gestión para el cabal cumplimiento de su objeto y de los objetivos y metas señalados en sus programas. Al efecto contará con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la Ley de Entidades Paraestatales del Estado de Durango.
+La Comisión Estatal gozará de autonomía de gestión para el cabal cumplimiento de su objeto y de los objetivos y metas señalados en sus programas. Al efecto contará con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la Ley de Entidades Paraestatales del Estado de Durango.
 
 Integración del Órgano de Gobierno de la Comisión Estatal
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 14.
 
-Para su operación, administración y funcionamiento, la Comisión Estatal de Suelo y Vivienda de Durango contará con una Junta (sic) Gobierno y un Director General, así como con las unidades administrativas necesarias para cumplir con su objeto.
+Para su operación, administración y funcionamiento, la Comisión Estatal contará con una Junta (sic) Gobierno y un Director General, así como con las unidades administrativas necesarias para cumplir con su objeto.
 
 > <small>(ADICIONADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
 Conformación de la Junta de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 15.
 
-La autoridad suprema de la Comisión Estatal de Suelo y Vivienda de Durango es su Junta de Gobierno que se integra con:
+La autoridad suprema de la Comisión Estatal es su Junta de Gobierno que se integra con:
 
 I. Un Presidente, quien será el titular de la Secretaría de Desarrollo Social, y
 
@@ -377,9 +393,13 @@ Cada uno de los integrantes de la Junta nombrará a su respectivo suplente quien
 
 La calidad de integrante de la Junta de Gobierno no da derecho a la percepción de remuneración alguna por su desempeño por tratarse de un cargo honorífico.
 
-El Comisario Público de la Comisión Estatal de Suelo y Vivienda de Durango, que será designado por la Secretaría de Contraloría y Modernización Administrativa del Estado de Durango participará en las sesiones ordinarias y extraordinarias de la misma que se lleven a cabo, teniendo derecho a voz, sin voto.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
 
-Así mismo el Director General de la Comisión Estatal de. Suelo y Vivienda de Durango fungirá como Secretario Técnico de la Junta de Gobierno, teniendo derecho a voz, sin voto.
+El Comisario Público de la Comisión Estatal, que será designado por la Secretaría de Contraloría del Estado de Durango, participará en las sesiones ordinarias y extraordinarias de la misma que se lleven a cabo, teniendo derecho a voz, sin voto.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
+Así mismo el Director General de la Comisión Estatal fungirá como Secretario Técnico de la Junta de Gobierno, teniendo derecho a voz, sin voto.
 
 Sesiones del Órgano de Gobierno de la Comisión Estatal
 
@@ -399,19 +419,29 @@ Atribuciones del Órgano de Gobierno de la Comisión Estatal
 
 La Junta de Gobierno tendrá las atribuciones indelegables siguientes:
 
-I. Aprobar el Reglamento Interior de la Comisión Estatal de Suelo y Vivienda de Durango;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+I. Aprobar el Reglamento Interior de la Comisión Estatal;
 
 II. Aprobar anualmente sus Presupuestos de Ingresos y Egresos, a propuesta de su Director General para su inclusión dentro de los respectivos de Gobierno del Estado; (sic)
 
-III. Aprobar el Programa Operativo Anual de la Comisión Estatal de Suelo y Vivienda de Durango;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-IV. Autorizar, con sujeción a las disposiciones legales aplicables, la estructura orgánica básica y los niveles de puestos de los trabajadores de la Comisión Estatal de Suelo y Vivienda de Durango, a propuesta del Director General;
+III. Aprobar el Programa Operativo Anual de la Comisión Estatal;
 
-V. Autorizar las políticas para la celebración de todo tipo de acuerdos, convenios, contratos, créditos, mandatos y comisiones relacionados con el objeto de la Comisión Estatal de Suelo y Vivienda de Durango;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+IV. Autorizar, con sujeción a las disposiciones legales aplicables, la estructura orgánica básica y los niveles de puestos de los trabajadores de la Comisión Estatal, a propuesta del Director General;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+V. Autorizar las políticas para la celebración de todo tipo de acuerdos, convenios, contratos, créditos, mandatos y comisiones relacionados con el objeto de la Comisión Estatal;
 
 VI. Formular los lineamientos de operación de los programas, así como de los precios, condiciones y tarifas de los bienes y servicios que produzca;
 
-VII. Autorizar el establecimiento, reubicación y cierre de las unidades administrativas de la Comisión Estatal de Suelo y Vivienda de Durango en los municipios del Estado, a propuesta del Director General;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VII. Autorizar el establecimiento, reubicación y cierre de las unidades administrativas de la Comisión Estatal en los municipios del Estado, a propuesta del Director General;
 
 VIII. Aprobar las normas y bases para la reducción, cancelación o reestructuración de adeudos a cargo de terceros, con sujeción a las disposiciones jurídicas aplicables;
 
@@ -419,31 +449,49 @@ IX. Analizar y en su caso, aprobar, los informes anuales que rinda el Director G
 
 X. Conocer y resolver aquellos asuntos que por su importancia, trascendencia o características especiales así lo ameriten y someta a su consideración el Director General, y
 
-XI. Las demás que determine la presente Ley, el Reglamento Interior de la Comisión Estatal de Suelo y Vivienda de Durango, y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XI. Las demás que determine la presente Ley, el Reglamento Interior de la Comisión Estatal, y demás disposiciones legales aplicables.
 
 Director General de la Comisión Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 18.
 
-El Director General de la Comisión Estatal de Suelo y Vivienda de Durango tendrá la representación legal del mismo y contará con las siguientes facultades:
+El Director General de la Comisión Estatal tendrá la representación legal del mismo y contará con las siguientes facultades:
 
 I. Conducir y coordinar los trabajos del organismo;
 
-II. Administrar los recursos humanos, materiales y financieros asignados a la Comisión Estatal de Suelo y Vivienda de Durango;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+II. Administrar los recursos humanos, materiales y financieros asignados a la Comisión Estatal;
 
 III. Autorizar modificaciones a las categorías y niveles de puestos de los trabajadores, cuyo objetivo sea el estimular al personal que demuestre eficiencia y responsabilidad en el desempeño de sus actividades;
 
-IV. Celebrar los actos jurídicos, convenios y contratos que sean necesarios para el adecuado ejercicio de los programas y las funciones de la Comisión Estatal de Suelo y Vivienda de Durango;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-V. Otorgar y revocar poderes, con arreglo a las disposiciones legales aplicables, para la representación de la Comisión Estatal de Suelo y Vivienda de Durango;
+IV. Celebrar los actos jurídicos, convenios y contratos que sean necesarios para el adecuado ejercicio de los programas y las funciones de la Comisión Estatal;
 
-VI. Proponer a la Junta de Gobierno para su aprobación, el Reglamento Interior de la Comisión Estatal de Suelo y Vivienda de Durango, así como los programas operativos del mismo;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-VII. Presentar ante el Ejecutivo del Estado y la Junta de Gobierno el Informe Anual de las actividades de la Comisión Estatal de Suelo y Vivienda de Durango;
+V. Otorgar y revocar poderes, con arreglo a las disposiciones legales aplicables, para la representación de la Comisión Estatal;
 
-VIII. Proponer a la Junta de Gobierno, las condiciones generales de trabajo de la Comisión Estatal de Suelo y Vivienda de Durango; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-IX. Las demás que determine la presente Ley, la Ley de Entidades Paraestatales del Estado de Durango, el Reglamento Interior de la Comisión Estatal de Suelo y Vivienda de Durango, y demás disposiciones legales aplicables.
+VI. Proponer a la Junta de Gobierno para su aprobación, el Reglamento Interior de la Comisión Estatal, así como los programas operativos del mismo;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VII. Presentar ante el Ejecutivo del Estado y la Junta de Gobierno el Informe Anual de las actividades de la Comisión Estatal;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VIII. Proponer a la Junta de Gobierno, las condiciones generales de trabajo de la Comisión Estatal; y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+IX. Las demás que determine la presente Ley, la Ley de Entidades Paraestatales del Estado de Durango, el Reglamento Interior de la Comisión Estatal y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
@@ -453,19 +501,21 @@ Artículo 18 bis. Las funciones de control, evaluación y vigilancia de la gesti
 
 Régimen Laboral de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 19.
 
-Los trabajadores de la Comisión Estatal de Suelo y Vivienda de Durango se regirán conforme a lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+Los trabajadores de la Comisión Estatal se regirán conforme a lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
 Control Interno de la Comisión Estatal
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
 
 ###### Artículo 20.
 
-La Comisión Estatal de Suelo y Vivienda de Durango, además del órgano de vigilancia, tendrá un órgano de control interno que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita dicha dependencia.
+La Comisión Estatal, además del órgano de vigilancia, tendrá un órgano de control interno que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita dicha dependencia.
 
 Órganos Auxiliares
 
@@ -497,7 +547,9 @@ I. El Programa Estatal de Vivienda;
 
 II. Los Programas Municipales de Vivienda, y
 
-III. El Programa Operativo Anual a cargo de la Comisión Estatal de Suelo y Vivienda de Durango, mismo que regirá la ejecución de acciones especificas.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+III.- El Programa Operativo Anual a cargo de la Comisión Estatal, mismo que regirá la ejecución de acciones específicas.
 
 Objeto del Programa Estatal de Vivienda
 
@@ -529,7 +581,9 @@ Los programas estatal y municipales de vivienda, una vez aprobados y publicados,
 
 La realización de acciones, obras e inversiones, tanto del Estado como de los municipios, deberán ser congruentes con dichos programas de vivienda.
 
-El Reglamento de esta Ley determinará los contenidos mínimos, metodología y demás elementos para la formulación, consulta, aprobación, registro y difusión del Programa Estatal de Vivienda, de los programas municipales en la materia, así como del Programa Operativo Anual de Vivienda a cargo de la Comisión Estatal de Suelo y Vivienda de Durango.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
+El Reglamento de esta Ley determinará los contenidos mínimos, metodología y demás elementos para la formulación, consulta, aprobación, registro y difusión del Programa Estatal de Vivienda, de los programas municipales en la materia, así como del Programa Operativo Anual de Vivienda a cargo de la Comisión Estatal.
 
 ### CAPÍTULO CUARTO. DE LA PROMOCIÓN Y CONCERTACIÓN CON LOS SECTORES SOCIAL Y PRIVADO
 
@@ -543,23 +597,31 @@ El Titular del Poder Ejecutivo del Estado y los municipios, fomentarán la celeb
 
 Participación de promotores privados
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 29.
 
-La participación de los promotores privados en los programas de vivienda que realice o promueva el Estado, estará sujeta a la coordinación, supervisión y certificación del Ayuntamiento respectivo y de la Comisión Estatal de Suelo y Vivienda de Durango, la cual dictará las normas para la ejecución de las obras e inversiones, incluyendo las de urbanización y contratación correspondientes, así como los requisitos y trámites, el registro de los promotores y la entrega de garantías, dependiendo del alcance de obra, en observancia de las disposiciones vigentes.
+La participación de los promotores privados en los programas de vivienda que realice o promueva el Estado, estará sujeta a la coordinación, supervisión y certificación del Ayuntamiento respectivo y de la Comisión Estatal, la cual dictará las normas para la ejecución de las obras e inversiones, incluyendo las de urbanización y contratación correspondientes, así como los requisitos y trámites, el registro de los promotores y la entrega de garantías, dependiendo del alcance de obra, en observancia de las disposiciones vigentes.
 
 Participación de promotores sociales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 30.
 
-La participación de los promotores sociales en los programas de vivienda del Estado, estará sujeta a la supervisión del Ayuntamiento correspondiente y la Comisión Estatal de Suelo y Vivienda de Durango, dependencia ante la que deberán estar acreditados y registrados, conforme a las disposiciones que emita, mismas que permitirán el desarrollo autónomo de los promotores sociales y básicamente estarán orientadas a garantizar la transparencia en el manejo y aplicación de los recursos, vigilando en todo momento el que estén a salvo los derechos de los beneficiarios y productores.
+La participación de los promotores sociales en los programas de vivienda del Estado, estará sujeta a la supervisión del Ayuntamiento correspondiente y la Comisión Estatal, dependencia ante la que deberán estar acreditados y registrados, conforme a las disposiciones que emita, mismas que permitirán el desarrollo autónomo de los promotores sociales y básicamente estarán orientadas a garantizar la transparencia en el manejo y aplicación de los recursos, vigilando en todo momento el que estén a salvo los derechos de los beneficiarios y productores.
 
-La Comisión Estatal de Suelo y Vivienda de Durango promoverá la celebración de convenios con las universidades e instituciones de educación superior, dirigidas a la investigación, asesoría y apoyo técnico calificado a favor de los productores sociales.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
+La Comisión Estatal y los municipios promoverán la celebración de convenios con dependencias y entidades de la administración pública estatal y municipal así como con instituciones de educación superior públicas y privadas, dirigidas a impulsar la investigación, asesoría, asistencia y apoyo técnico calificado en la construcción y el mejoramiento de vivienda de interés social y popular.
 
 Apoyo de Notarios Públicos
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 31.
 
-La Comisión Estatal de Suelo y Vivienda de Durango promoverá la celebración de acuerdos con el Colegio de Notarios del Estado de Durango, que tengan por objeto la simplificación y facilitación de trámites y procedimientos, así como la reducción de costos del proceso habitacional.
+La Comisión Estatal promoverá la celebración de acuerdos con el Colegio de Notarios del Estado de Durango, que tengan por objeto la simplificación y facilitación de trámites y procedimientos, así como la reducción de costos del proceso habitacional.
 
 ### CAPÍTULO QUINTO. DE LA ORGANIZACIÓN VECINAL
 
@@ -621,15 +683,19 @@ Para garantizar el derecho a la información, en los términos de la Ley de Tran
 
 Simplificación de trámites
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 39.
 
-La Comisión Estatal de Suelo y Vivienda de Durango promoverá, en coordinación con los municipios, la operación y puesta en marcha de un procedimiento único, sencillo y ágil, de acuerdo a sus posibilidades; que permita en una sola dependencia gestionar todos los trámites vinculados con los permisos, licencias y autorizaciones relacionados con la materia, con el objeto de reducir los trámites y costos relacionados con la producción de vivienda.
+La Comisión Estatal promoverá, en coordinación con los municipios, la operación y puesta en marcha de un procedimiento único, sencillo y ágil, de acuerdo a sus posibilidades; que permita en una sola dependencia gestionar todos los trámites vinculados con los permisos, licencias y autorizaciones relacionados con la materia, con el objeto de reducir los trámites y costos relacionados con la producción de vivienda.
 
 Facilidades Administrativas y Fiscales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 40.
 
-En los programas de adquisición de reservas territoriales, regularización de la tenencia de tierra o construcción o mejoramiento de viviendas de interés social o popular, dirigidos a la población en situación de pobreza, riesgo o vulnerabilidad, promovidos por la Comisión Estatal de Suelo y Vivienda de Durango, los gobiernos del Estado y de los municipios otorgarán los beneficios, exenciones, aplicación de subsidios y facilidades administrativas relacionadas con los siguientes actos:
+En los programas de adquisición de reservas territoriales, regularización de la tenencia de tierra o construcción o mejoramiento de viviendas de interés social o popular, dirigidos a la población en situación de pobreza, riesgo o vulnerabilidad, promovidos por la Comisión Estatal, los gobiernos del Estado y de los municipios otorgarán los beneficios, exenciones, aplicación de subsidios y facilidades administrativas relacionadas con los siguientes actos:
 
 I. Escrituración, registro y valoración de operaciones inmobiliarias;
 
@@ -641,9 +707,11 @@ Estos subsidios y facilidades podrán ser extensivos a otros productores sociale
 
 Disposiciones Reglamentarias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 41.
 
-El Reglamento de la presente Ley definirá las medidas e instrumentos necesarios para el financiamiento a la producción, mejoramiento y adquisición de vivienda, en especial de los recursos a cargo de la Comisión Estatal de Suelo y Vivienda de Durango; debiendo en todo caso, promover y fomentar la participación de los sectores social y privado, en el diseño y aplicación del ahorro, el crédito y el subsidio en los distintos programas de vivienda.
+El Reglamento de la presente Ley definirá las medidas e instrumentos necesarios para el financiamiento a la producción, mejoramiento y adquisición de vivienda, en especial de los recursos a cargo de la Comisión Estatal; debiendo en todo caso, promover y fomentar la participación de los sectores social y privado, en el diseño y aplicación del ahorro, el crédito y el subsidio en los distintos programas de vivienda.
 
 En igual sentido, las disposiciones reglamentarias de la presente Ley establecerán los elementos en materia de información ciudadana de las acciones que se realicen con recursos públicos.
 
@@ -677,9 +745,11 @@ VII. La prioridad en la asignación de los recursos públicos disponibles.
 
 Requerimientos de Suelo
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 44.
 
-El Titular del Poder Ejecutivo del Estado, por conducto de la Comisión Estatal de Suelo y Vivienda de Durango y de acuerdo con lo previsto en la presente Ley, deberá realizar los estudios que determinen los requerimientos de tierra para vivienda que permitan el desarrollo de los programas en la materia, en sus distintos tipos y modalidades. Los cuales tomarán en cuenta las necesidades presentes y futuras y, conforme a los resultados de estos, se diseñarán los programas de adquisición o incorporación de tierra específicos.
+El Titular del Poder Ejecutivo del Estado, por conducto de la Comisión Estatal y de acuerdo con lo previsto en la presente Ley, deberá realizar los estudios que determinen los requerimientos de tierra para vivienda que permitan el desarrollo de los programas en la materia, en sus distintos tipos y modalidades. Los cuales tomarán en cuenta las necesidades presentes y futuras y, conforme a los resultados de estos, se diseñarán los programas de adquisición o incorporación de tierra específicos.
 
 Articulación con la Ley General de Desarrollo Urbano
 
@@ -701,7 +771,9 @@ Reforzar el ordenamiento urbano y ambiental
 
 La adquisición de suelo, la constitución de reservas territoriales para uso habitacional o las acciones de regularización territorial deberán observar las disposiciones legales en materia de planeación urbana y ordenamiento ecológico aplicables. Esta disposición se aplicará a todo tipo de operaciones inmobiliarias.
 
-La Comisión Estatal de Suelo y Vivienda de Durango promoverá ante los organismos financieros de vivienda que solo sean elegibles en sus programas y líneas de acción, viviendas que se ubiquen en desarrollos, conjuntos o fraccionamientos que cumplan puntualmente con las normas urbanísticas y ambientales aplicables, así como aquellos que tiendan a la adecuada densificación del espacio urbano.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
+La Comisión Estatal promoverá ante los organismos financieros de vivienda que solo sean elegibles en sus programas y líneas de acción, viviendas que se ubiquen en desarrollos, conjuntos o fraccionamientos que cumplan puntualmente con las normas urbanísticas y ambientales aplicables, así como aquellos que tiendan a la adecuada densificación del espacio urbano.
 
 Normas para la regularización territorial
 
@@ -737,15 +809,19 @@ Todas las demás acciones de regularización territorial, que se realicen en el 
 
 Políticas Inclusivas
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 48.
 
-La Comisión Estatal de Suelo y Vivienda de Durango promoverá programas, acciones y estímulos que induzcan la colaboración y coordinación con el Gobierno Federal y los municipios, así como la participación de propietarios, promotores, desarrolladores, organizaciones vecinales y usuarios para generar o reutilizar suelo con oportunidad, calidad y servicios, preferentemente para beneficio de la población en situación de pobreza, riesgo o vulnerabilidad y de los productores sociales de vivienda.
+La Comisión Estatal promoverá programas, acciones y estímulos que induzcan la colaboración y coordinación con el Gobierno Federal y los municipios, así como la participación de propietarios, promotores, desarrolladores, organizaciones vecinales y usuarios para generar o reutilizar suelo con oportunidad, calidad y servicios, preferentemente para beneficio de la población en situación de pobreza, riesgo o vulnerabilidad y de los productores sociales de vivienda.
 
 Apoyo a ejidatarios y comuneros
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 49.
 
-La Comisión Estatal de Suelo y Vivienda de Durango promoverá e impulsará proyectos inmobiliarios en los que se transfieran tierras de uso común o parceladas, a sociedades mercantiles o civiles en las que participen ejidatarios o comuneros tenedores de las mismas, dando prioridad de acceso a los productores sociales de vivienda, de conformidad con la presente Ley, la Ley Agraria y demás disposiciones legales aplicables. En todo caso deberá asegurarse el cumplimiento de las disposiciones jurídicas en materia de asentamientos humanos, desarrollo urbano y fraccionamientos correspondientes.
+La Comisión Estatal promoverá e impulsará proyectos inmobiliarios en los que se transfieran tierras de uso común o parceladas, a sociedades mercantiles o civiles en las que participen ejidatarios o comuneros tenedores de las mismas, dando prioridad de acceso a los productores sociales de vivienda, de conformidad con la presente Ley, la Ley Agraria y demás disposiciones legales aplicables. En todo caso deberá asegurarse el cumplimiento de las disposiciones jurídicas en materia de asentamientos humanos, desarrollo urbano y fraccionamientos correspondientes.
 
 Incorporación de terrenos rurales a las ciudades
 
@@ -763,15 +839,19 @@ III. Deben contar con los esquemas financieros para su aprovechamiento y para la
 
 Reglamentación
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 51.
 
-El reglamento de la presente Ley contendrá las disposiciones relacionadas con los mecanismos de información, calificación y clasificación de los bienes de la Comisión Estatal de Suelo y Vivienda de Durango y de otras entidades u organismos, con el objeto de normar técnica, financiera y socialmente su aprovechamiento.
+El reglamento de la presente Ley contendrá las disposiciones relacionadas con los mecanismos de información, calificación y clasificación de los bienes de la Comisión Estatal y de otras entidades u organismos, con el objeto de normar técnica, financiera y socialmente su aprovechamiento.
 
 Derecho de Preferencia
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 52.
 
-La Comisión Estatal de Suelo y Vivienda de Durango, para desarrollar sus programas de suelo y reservas territoriales, podrá ejercer el derecho de preferencia en los predios comprendidos en las declaratorias de reservas, a que alude el artículo 47 de la Ley General de Asentamientos Humanos.
+La Comisión Estatal, para desarrollar sus programas de suelo y reservas territoriales, podrá ejercer el derecho de preferencia en los predios comprendidos en las declaratorias de reservas, a que alude el artículo 47 de la Ley General de Asentamientos Humanos.
 
 Fortalecimiento Financiero de los Municipios
 
@@ -791,17 +871,21 @@ Las acciones de vivienda que se realicen en la entidad y sus municipios, deberá
 
 Calidad y sustentabilidad de la vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 55.
 
-Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Comisión Estatal de Suelo y Vivienda de Durango promoverá, en coordinación con las autoridades competentes, que en el desarrollo de las acciones habitacionales, en sus distintos tipos y modalidades, así como en la utilización de recursos y servicios asociados, se asegure que las viviendas cuenten con los espacios habitables y de higiene suficientes, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres utilizando preferentemente bienes y servicios normalizados.
+Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Comisión Estatal promoverá, en coordinación con las autoridades competentes, que en el desarrollo de las acciones habitacionales, en sus distintos tipos y modalidades, así como en la utilización de recursos y servicios asociados, se asegure que las viviendas cuenten con los espacios habitables y de higiene suficientes, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, verificarán que se dé cumplimiento a lo dispuesto en la presente Ley en materia de calidad y sustentabilidad de la vivienda, y a las demás disposiciones legales y reglamentarias correspondientes.
 
 Eco-tecnologías
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 56.
 
-El Titular del Poder Ejecutivo del Estado a través de la Comisión Estatal de Suelo y Vivienda de Durango fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de eco-tecnologías y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda digna y decorosa.
+El Titular del Poder Ejecutivo del Estado a través de la Comisión Estatal fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de eco-tecnologías y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda digna y decorosa.
 
 Asimismo, promoverá que las tecnologías, sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
@@ -809,9 +893,11 @@ El Reglamento de esta Ley, con arreglo a las leyes ambientales de la materia, de
 
 Reglamentos de Construcción
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 57.
 
-La Comisión Estatal de Suelo y Vivienda de Durango promoverá que las autoridades municipales expidan y apliquen sus reglamentos de construcción y demás disposiciones que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan los responsables y las responsabilidades de los diferentes agentes que intervienen en cada etapa del proceso de producción de vivienda.
+La Comisión Estatal promoverá que las autoridades municipales expidan y apliquen sus reglamentos de construcción y demás disposiciones que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan los responsables y las responsabilidades de los diferentes agentes que intervienen en cada etapa del proceso de producción de vivienda.
 
 ### CAPÍTULO NOVENO. DE LA PRODUCCIÓN SOCIAL DE VIVIENDA
 
@@ -849,23 +935,29 @@ Tratándose de las comunidades rurales e indígenas deberán ser reconocidas y a
 
 Creación del Sistema de Información
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 61.
 
-Se crea el Sistema Estatal de Información e Indicadores de Suelo y Vivienda, cuya integración y administración estará a cargo de la Comisión Estatal de Suelo y Vivienda de Durango.
+Se crea el Sistema Estatal de Información e Indicadores de Suelo y Vivienda, cuya integración y administración estará a cargo de la Comisión Estatal.
 
 Contenido del Sistema de Información
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 62.
 
-El Sistema de Información contendrá los elementos que permitan mantener actualizado el inventario habitacional, determinar los cálculos sobre rezago y las necesidades presentes y futuras de vivienda, su calidad y espacios, su acceso a los servicios básicos así como la oferta de vivienda y los requerimientos de suelo. Igualmente contendrá la relación de beneficiarios de las acciones de suelo y vivienda de la Comisión Estatal de Suelo y Vivienda de Durango y de otros organismos habitacionales.
+El Sistema de Información contendrá los elementos que permitan mantener actualizado el inventario habitacional, determinar los cálculos sobre rezago y las necesidades presentes y futuras de vivienda, su calidad y espacios, su acceso a los servicios básicos así como la oferta de vivienda y los requerimientos de suelo. Igualmente contendrá la relación de beneficiarios de las acciones de suelo y vivienda de la Comisión Estatal y de otros organismos habitacionales.
 
 El Reglamento de esta Ley, establecerá las normas conforme a las cuales se dará la integración y operación del Sistema Estatal de Información e Indicadores de Suelo y Vivienda.
 
 Obligaciones de información pública
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### Artículo 63.
 
-La Comisión Estatal de Suelo y Vivienda de Durango diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de programas, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
+La Comisión Estatal diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de programas, acciones y financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
 
 Obligaciones para la integración del Sistema de Información
 
@@ -873,7 +965,9 @@ Obligaciones para la integración del Sistema de Información
 
 Las personas físicas y morales que produzcan o financien acciones habitacionales tendrán la obligación de proporcionar la información necesaria para la operación del Sistema de Información a que se refiere este Capítulo.
 
-En la generación de la información de vivienda deberá promoverse la utilización de los datos catastrales geo-referenciados de los predios o viviendas de que se trate, que permitan su fácil identificación y proceso. La Comisión Estatal de Suelo y Vivienda de Durango promoverá la expedición de los lineamientos en la materia.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
+En la generación de la información de vivienda deberá promoverse la utilización de los datos catastrales geo-referenciados de los predios o viviendas de que se trate, que permitan su fácil identificación y proceso. La Comisión Estatal promoverá la expedición de los lineamientos en la materia.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1036,3 +1130,11 @@ P.O. 20 DE SEPTIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 554 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
