@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2015-05-07"
+last_updated: "2016-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 7 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 12 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -468,6 +468,10 @@ VIII. Formular y aprobar el Bando de Policía y Gobierno con arreglo a las bases
 Tanto el Bando como la reglamentación que apruebe el Ayuntamiento, podrá ser reformada, adicionada, derogada o abrogada en todo tiempo.
 
 IX. Conceder y expedir licencias para el funcionamiento de espectáculos, establecimientos con venta de bebidas con contenido alcohólico, bailes y diversiones públicas en general.
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+X.- Expedir cartas de origen, atendiendo a las prevenciones de esta Ley así como a los requisitos que se establezcan en la normatividad de cada Ayuntamiento.
 
 C). EN MATERIA DE HACIENDA PÚBLICA MUNICIPAL:
 
@@ -919,7 +923,9 @@ VI. Colaborar en las acciones de inspección y vigilancia que lleve a cabo la ad
 
 VII. Coordinar las acciones de las juntas municipales y demás representantes del Ayuntamiento en la división política territorial del municipio.
 
-VIII. Expedir certificaciones.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VIII.- Expedir certificaciones; tratándose de cartas de origen se procurará que estas contengan, por lo menos, el nombre, lugar y fecha de nacimiento, así como una fotografía reciente del interesado;
 
 IX. Coordinar la elaboración de los informes anuales del presidente municipal.
 
@@ -2274,3 +2280,13 @@ P.O. 7 DE MAYO DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 12 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. Los ayuntamientos del Estado adecuarán, en su caso, la normatividad interna que corresponda, conforme a lo dispuesto en el presente Decreto en un plazo no mayor a 60 días a partir de la entrada en vigor del presente.
+
+En tanto los ayuntamientos llevan a cabo las adecuaciones que correspondan, las cartas de origen se tramitarán atendiendo a las prevenciones de este decreto.
