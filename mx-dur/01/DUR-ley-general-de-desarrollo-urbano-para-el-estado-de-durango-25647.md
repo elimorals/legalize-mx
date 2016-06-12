@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2013-08-25"
+last_updated: "2016-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -181,7 +181,9 @@ XXVII. Infracción: La violación a cualquiera de las disposiciones establecidas
 
 XXVIII. Infraestructura Urbana: Los sistemas, redes de organización y distribución de personas, bienes y servicios, para el buen funcionamiento de los centros de población en beneficio de la comunidad, tales como estructura vial, electricidad, teléfonos, agua potable y drenaje;
 
-XXIX. Instituto: Al Instituto de la Vivienda del Estado de Durango;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XXIX.- COESVI: Comisión Estatal de Suelo y Vivienda de Durango;
 
 XXX. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su relevancia arqueológica, arquitectónica, artística, histórica, cultural y natural en el país;
 
@@ -325,7 +327,9 @@ II. La Secretaría de Comunicaciones y Obras Públicas del Estado;
 
 III. Los Ayuntamientos de la entidad; y
 
-IV. El Instituto de la Vivienda del Estado de Durango.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+IV.- La COESVI.
 
 ###### ARTÍCULO 8.
 
@@ -369,7 +373,9 @@ II.- Proyectar, ejecutar, mantener, conservar y operar directamente a través de
 
 III.- Coordinar con los ayuntamientos la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano, así como la realización de los programas estatales de obras públicas en los ayuntamientos de la entidad federativa;
 
-IV.- Promover y adquirir con base en los planes y programas de Desarrollo Urbano, Vivienda, Obras y Servicios Públicos, las reservas territoriales por parte del Gobierno del Estado, en coordinación con el Instituto y en su caso juntamente con los ayuntamientos para la ejecución de dichos programas;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+IV.- Promover y adquirir con base en los planes y programas de Desarrollo Urbano, Vivienda, Obras y Servicios Públicos, las reservas territoriales por parte del Gobierno del Estado, en coordinación con COESVI y en su caso juntamente con los ayuntamientos para la ejecución de dichos programas;
 
 V.- Proponer a la Legislatura del Estado, por conducto del titular del Poder Ejecutivo Estatal, y previo dictamen de la Comisión Estatal de Desarrollo Urbano, la fundación de nuevos centros de población, inscripción de las resoluciones, programas y zonificación del suelo de desarrollo urbano que expidan las autoridades competentes en el Registro Público de la Propiedad y del Comercio;
 
@@ -405,23 +411,25 @@ VI.- Calificar en el ámbito de su competencia las infracciones e imponer las me
 
 VII.- Inspeccionar y supervisar las obras que se realicen en fraccionamientos y colonias, controlando a los fraccionadores, peritos de obra o promoventes para que cumplan con lo dispuesto en la legislación y los programas de Desarrollo Urbano;
 
-VIII.- Formular y administrar la zonificación y el control de los usos y destinos del suelo que se deriven de la planeación Municipal del Desarrollo Urbano, así como autorizar la fusión, etc.;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-IX.- Coordinar los Planes y programas de Desarrollo Urbano Municipal con el estatal y con el Plan Nacional de Desarrollo;
+VIII.- Celebrar convenios con dependencias y entidades de la Administración Pública Estatal, propietarios, desarrolladores, productores sociales de vivienda e instituciones educativas de nivel superior públicas y privadas, para el desarrollo de programas de vivienda y acciones inmobiliarias, para coordinar programas de construcción, autoconstrucción, asistencia técnica, mejoramiento, rehabilitación y ampliación de vivienda; o cualquier otra acción encaminada al cumplimiento de la Política Estatal de Vivienda;
 
-X.- Coordinar con el apoyo y asesoría de la Secretaría, la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de Desarrollo Urbano;
+IX.- Formular y administrar la zonificación y el control de los usos y destinos del suelo que se deriven de la planeación Municipal del Desarrollo Urbano, así como autorizar la fusión, etc.;
 
-XI.- Proponer al Titular del Poder Ejecutivo, la fundación de nuevos centros de población previo dictamen de la Comisión Estatal de Desarrollo Urbano; y (sic)
+X.- Coordinar los Planes y programas de Desarrollo Urbano Municipal con el estatal y con el Plan Nacional de Desarrollo;
 
-XII.- Promover la participación de los sectores social y privado en la formulación, ejecución, modificación, actualización y evaluación de los programas municipales de desarrollo urbano, de centros de población, y los que de estos se deriven;
+XI.- Coordinar con el apoyo y asesoría de la Secretaría, la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de Desarrollo Urbano;
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-XIII.- Municipalizar los fraccionamientos cuando se hayan cubierto los requisitos legales y reglamentarios; y
+XII.- Proponer al Titular del Poder Ejecutivo, la fundación de nuevos centros de población previo dictamen de la Comisión Estatal de Desarrollo Urbano;
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2007)</small>
+XIII.- Promover la participación de los sectores social y privado en la formulación, ejecución, modificación, actualización y evaluación de los programas municipales de desarrollo urbano, de centros de población, y los que de estos se deriven.
 
-XIV.- Vigilar los fraccionamientos que no hayan sido municipalizados, para que los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a esta Ley.
+XIV.- Municipalizar los fraccionamientos cuando se hayan cubierto los requisitos legales y reglamentarios; y
+
+XV.- Vigilar los fraccionamientos que no hayan sido municipalizados, para que los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a esta Ley.
 
 ###### ARTÍCULO 12.
 
@@ -607,7 +615,9 @@ I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
 II.- Un Secretario Técnico, que será el Secretario de Comunicaciones y Obras Públicas del Estado, quien tendrá el carácter de suplente del Titular del Ejecutivo;
 
-III.- Un Coordinador Ejecutivo, que será el Director General del Instituto de la Vivienda del Estado de Durango; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+III.- Un Coordinador Ejecutivo, que será el Director General de COESVI; y
 
 IV.- Representantes de cada una de las dependencias y entidades de la administración pública estatal, federal y municipal que se relacionen con el desarrollo urbano y la vivienda; cámaras, colegios y asociaciones de los sectores privado y social que a juicio del Presidente deban integrarse al mismo, en virtud de las actividades que realicen y que incidan en el quehacer de la vivienda.
 
@@ -667,17 +677,25 @@ III.- Ejecutar las actividades que le sean encomendadas por el Presidente del Co
 
 IV.-. Las demás que le asigne la presente Ley, el reglamento interior y las demás disposiciones aplicables.
 
-### CAPÍTULO VII. DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE DURANGO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2016)</small>
+
+### CAPÍTULO VII. DE LA COMISIÓN ESTATAL DE SUELO Y VIVIENDA DE DURANGO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 31.
 
-El Instituto de la Vivienda del Estado de Durango, es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, de carácter técnico, sujeto a los lineamientos que en política de vivienda fije el Estado.
+La COESVI, es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, de carácter técnico, sujeto a los lineamientos que en política de vivienda fije el Estado.
 
-El Instituto de la Vivienda del Estado de Durango, será el organismo rector en materia de vivienda en el Estado y estará por lo tanto facultado para ejecutar programas y construir viviendas de interés social y popular, así como sus obras de urbanización, conocerá y coordinará las acciones que en materia de vivienda desarrollen las diversas instancias tanto federales, estatales y municipales de conformidad a lo previsto por la presente Ley y las demás disposiciones aplicables, el Instituto funcionará permanentemente en la ciudad Capital del Estado y con jurisdicción en toda la entidad federativa, pudiendo establecer representaciones en otras poblaciones del Estado.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
+La COESVI, será el organismo rector en materia de vivienda en el Estado y estará por lo tanto facultado para ejecutar programas y construir viviendas de interés social y popular, así como sus obras de urbanización, conocerá y coordinará las acciones que en materia de vivienda desarrollen las diversas instancias tanto federales, estatales y municipales de conformidad a lo previsto por la presente Ley y las demás disposiciones aplicables, el Instituto funcionará permanentemente en la ciudad Capital del Estado y con jurisdicción en toda la entidad federativa, pudiendo establecer representaciones en otras poblaciones del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 32.
 
-El Instituto, para el cumplimiento de sus atribuciones contará con los siguientes órganos:
+La COESVI, para el cumplimiento de sus atribuciones contará con los siguientes órganos:
 
 I.- El Consejo de Administración;
 
@@ -687,9 +705,11 @@ III.- El Comité de Asignaciones, y
 
 IV.- Las unidades administrativas de apoyo y operación que se requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 33.
 
-El Consejo de Administración del Instituto se integrará por:
+El Consejo de Administración de la COESVI, se integrará por:
 
 I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
@@ -703,33 +723,45 @@ b) El Secretario de Comunicaciones y Obras Públicas del Estado;
 
 c) El Director General de Catastro del Estado;
 
-d) El Director General del Instituto;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+d) El Director General de la COESVI;
 
 A falta del Presidente asumirá las funciones, el Titular de la Dependencia relacionada con la materia.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 34.
 
-Por cada representante propietario del Consejo de Administración del Instituto, se designará un suplente, que lo sustituirá en sus faltas temporales y en todo caso, será el Secretario quien supla las faltas del Presidente.
+Por cada representante propietario del Consejo de Administración de la COESVI, se designará un suplente, que lo sustituirá en sus faltas temporales y en todo caso, será el Secretario quien supla las faltas del Presidente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 35.
 
-El Consejo de Administración del Instituto, celebrará sesiones ordinarias semestrales y extraordinarias cada vez que su Presidente lo estime necesario.
+El Consejo de Administración de la COESVI celebrará sesiones ordinarias semestrales y extraordinarias cada vez que su Presidente lo estime necesario.
 
 Las decisiones se tomarán por mayoría de votos y cada uno de sus integrantes tendrá voz y voto, teniendo el Presidente voto de calidad en caso de empate.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-El reglamento interior, que para el efecto expida el Instituto a propuesta de su Presidente, normará la organización y el funcionamiento interno del mismo.
+El reglamento interior, que para el efecto expida la COESVI a propuesta de su Presidente, normará la organización y el funcionamiento interno del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 37.
 
-El Instituto tendrá las siguientes atribuciones:
+La COESVI tendrá las siguientes atribuciones:
 
 I.- Promover y coordinar en colaboración con la Secretaría, con los sectores social y privado, programas de construcción, mejoramiento y rehabilitación de vivienda de interés social y popular, así como programas de lotes con servicios;
 
 II.- Elaborar, en coordinación con el Consejo Consultivo de Vivienda, el Programa Estatal de Vivienda, así como los programas operativos anuales;
 
-III.- Diseñar, implantar y operar el Sistema Estatal de Vivienda, en coordinación con el Consejo respectivo, coordinado (sic) además los programas de vivienda que a través del mismo Instituto se desarrollen en el Estado y operar los fondos de vivienda que para el efecto, se constituyan;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+III.- Diseñar, implantar y operar el Sistema Estatal de Vivienda, en coordinación con el Consejo respectivo, coordinado (sic) además los programas de vivienda que a través de la misma COESVI se desarrollen en el Estado y operar los fondos de vivienda que para el efecto, se constituyan;
 
 IV.- Intervenir conjuntamente con el Consejo Consultivo de Vivienda, en la formulación de acciones, obras y servicios en materia de vivienda;
 
@@ -739,7 +771,9 @@ VI.- Promover, coordinar y realizar, directamente o a través de terceros, con l
 
 VII.- Fomentar o ejecutar directamente o con la participación de los sectores social y privado, acciones de vivienda de interés social y popular;
 
-VIII.- Asignar y enajenar las viviendas que construya el Instituto, de conformidad con las normas establecidas en la presente Ley;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VIII.- Asignar y enajenar las viviendas que construya la COESVI, de conformidad con las normas establecidas en la presente Ley;
 
 IX.- Promover y participar en el proceso de la regularización de la tenencia de tierra urbana de propiedad privada o pública;
 
@@ -749,7 +783,9 @@ XI.- Promover y participar en la introducción de servicios públicos; dentro de
 
 XII.- Promover y realizar la construcción de viviendas para todos aquellos solicitantes no afiliados a un régimen de vivienda;
 
-XIII.- Comercializar los inmuebles propiedad del Instituto, teniendo la facultad de adquirir, vender, arrendar, permutar o realizar cualquier contrato translativo de dominio o de uso sobre dichos inmuebles de acuerdo con la autorización del Consejo de Administración;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XIII.- Comercializar los inmuebles propiedad de la COESVI, teniendo la facultad de adquirir, vender, arrendar, permutar o realizar cualquier contrato translativo (sic) de dominio o de uso sobre dichos inmuebles de acuerdo con la autorización del Consejo de Administración;
 
 XIV.- Ejecutar las obras de construcción de viviendas, por si ó a través de terceros acatando las disposiciones de la Ley de Adquisiciones y Obra Pública;
 
@@ -769,7 +805,9 @@ XXI.- Elaborar periódicamente las estadísticas de vivienda para lo cual se apo
 
 XXII.- Orientar a las personas de escasos recursos sobre los medios de financiamiento para adquirir lotes y viviendas en fraccionamientos de interés social o popular y condominios de orden público;
 
-XXIII.- Fomentar la autoconstrucción de vivienda de interés social y popular proporcionando asesoría técnica;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XXIII.- Fomentar la autoconstrucción, mejoramiento, rehabilitación y ampliación de vivienda de interés social y popular, proporcionando asistencia técnica, para lo cual podrá celebrar convenios con dependencias y entidades de la Administración Pública Estatal y Municipal, propietarios, desarrolladores, productores sociales de vivienda e instituciones educativas de nivel superior públicas y privadas que tengan los conocimientos en la materia;
 
 XXIV.- Coordinar la satisfacción de necesidades de vivienda en caso de siniestros que afecten centros de población en el Estado, cuando así lo señale el titular del poder Ejecutivo del Estado;
 
@@ -779,9 +817,11 @@ XXVI.- Gestionar la obtención de créditos para la construcción de viviendas a
 
 XXVII.- Las demás que le señalen la presente Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 38.
 
-El patrimonio del Instituto de la Vivienda del Estado de Durango; se integrará con:
+El patrimonio de la COESVI; se integrará con:
 
 I.- Los bienes muebles e inmuebles, obras, servicios, derechos y obligaciones que le asigne y trasmita el Gobierno del Estado;
 
@@ -789,7 +829,9 @@ II.- Los subsidios y aportaciones que reciba de los gobiernos federal, estatal o
 
 III.- Los créditos que obtenga para la realización de sus fines;
 
-IV.- Los recursos que se otorgan por la comercialización o ejecución de los programas del Instituto, los rendimientos, frutos, productos y aprovechamientos que obtenga de sus operaciones o que le correspondan por cualquier título;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+IV.- Los recursos que se otorgan por la comercialización o ejecución de los programas de la COESVI, los rendimientos, frutos, productos y aprovechamientos que obtenga de sus operaciones o que le correspondan por cualquier título:
 
 V.- Los fondos obtenidos para el financiamiento de programas específicos;
 
@@ -799,33 +841,51 @@ VII.- Los demás bienes, servicios, derechos y aprovechamientos que le fijen las
 
 Los bienes inmuebles propiedad del Instituto cuyo destino sea la construcción de vivienda de interés social o popular, tratándose de su primera enajenación quedarán exentos del pago de derechos que se causen por tal concepto, conforme lo prevea la Ley de Hacienda del Estado; así mismo recibirán los beneficios considerados en la Ley de Protección y Fomento a la Construcción de viviendas de interés social para el Estado de Durango y las demás aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 39.
 
-El Consejo de Administración, será el órgano rector del Instituto y tendrá las siguientes facultades:
+El Consejo de Administración, será el órgano rector de la COESVI y tendrá las siguientes facultades:
 
-I.- Expedir el reglamento interno del Instituto, aprobando la estructura básica para la organización del Instituto de la Vivienda y las modificaciones que posteriormente sean procedentes;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-II.- Procurar el incremento del patrimonio del Instituto y vigilar su administración mediante la práctica de las auditorias que estime necesarias;
+I.- Expedir el reglamento interno de la COESVI, aprobando la estructura básica para la organización de la propia COESVI y las modificaciones que posteriormente sean procedentes;
 
-III.- Las actividades y servicios de interés público a cargo del Instituto de la Vivienda, se examinarán y en su caso se aprobarán dentro de los últimos tres meses del año término en el cual se aprobarán los programas anuales y especiales de operación y los presupuestos de ingresos y egresos que se cumplirán en cada ejercicio anual;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+II.- Procurar el incremento del patrimonio de la COESVI y vigilar su administración mediante la práctica de las auditorias que estime necesarias;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+III.- Las actividades y servicios de interés público a cargo de la COESVI, se examinarán y en su caso se aprobarán dentro de los últimos tres meses del año término en el cual se aprobarán los programas anuales y especiales de operación y los presupuestos de ingresos y egresos que se cumplirán en cada ejercicio anual;
 
 IV.- Examinar y en su caso aprobar dentro de los tres primeros meses del año, los estados financieros y balances que resulten del último ejercicio así como el informe de actividades de la institución;
 
 V.- Establecer las normas para el otorgamiento de créditos;
 
-VI.- Vigilar la aplicación correcta de los recursos que por cualquier titulo obtenga el Instituto;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-VII.- Solicitar la asesoría de organismos cuyas funciones se realicen con los objetivos del Instituto, cuando lo estime conveniente;
+VI.- Vigilar la aplicación correcta de los recursos que por cualquier título obtenga la COESVI;
 
-VIII.- Establecer en congruencia con el Plan Estatal de Desarrollo y el Programa Estatal de Vivienda, las políticas generales y definir las prioridades a que deberán sujetarse las actividades del Instituto de la Vivienda;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VII.- Solicitar la asesoría de organismos cuyas funciones se realicen con los objetivos de la COESVI, cuando lo estime conveniente;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VIII.- Establecer en congruencia con el Plan Estatal de Desarrollo y el Programa Estatal de Vivienda, las políticas generales y definir las prioridades a que deberán sujetarse las actividades de la COESVI;
 
 IX.- Establecer en los términos de las leyes aplicables, sistemas de cooperación y coordinación con las entidades de los sectores público, social y privado que realicen o tengan interés en realizar programas de vivienda;
 
-X.- Aprobar la concertación de empréstitos para el financiamiento de las actividades del Instituto;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+X.- Aprobar la concertación de empréstitos para el financiamiento de las actividades de la COESVI;
 
 XI.- Constituir el comité de adjudicaciones; y
 
-XII.- Decidir sobre los asuntos que plantee el Director General del Instituto, así como resolver lo no previsto por la presente Ley y que sea objeto de las funciones que realice el Instituto.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XII.- Decidir sobre los asuntos que plantee el Director General de la COESVI, así como resolver lo no previsto por la presente Ley y que sea objeto de las funciones que realice el Instituto.
 
 ###### ARTÍCULO 40.
 
@@ -841,15 +901,23 @@ III.- Autorizará en unión del Secretario, las actas y acuerdos de las sesiones
 
 IV.- Analizar y aprobar en su caso los nombramientos que realice el Director General, y
 
-V.- En general realizar y autorizar lo necesario para el mejor funcionamiento del Instituto.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+V.- En general realizar y autorizar lo necesario para el mejor funcionamiento de la COESVI.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 41.
 
-El Director del Instituto, tendrá las siguientes facultades y obligaciones:
+El Director de la COESVI, tendrá las siguientes facultades y obligaciones:
 
-I.- Administrar y representar legalmente al Instituto de la Vivienda del Estado de Durango, y:
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2016)</small>
 
-a) Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Instituto;
+I.- Administrar y representar legalmente a la COESVI, así como:
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
+a) Celebrar y otorgar toda clase de actos y documentos inherentes al objeto de la COESVI;
 
 b) Ejercer facultades de dominio, con la autorización del Consejo Directivo así como facultades como mandatario general para pleitos y cobranzas, comprendiendo aquellas facultades que requieran cláusula especial según otras disposiciones legales y reglamentarias;
 
@@ -863,49 +931,77 @@ f) Otorgar poderes generales y especiales con las facultades que le competen, en
 
 g) Sustituir o revocar poderes generales o especiales.
 
-II.- El Director del Instituto no podrá vender, ceder, enajenar o gravar los bienes que formen el patrimonio del organismo, sin la autorización del Consejo Directivo;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-III.- Presentar anualmente al Consejo de Administración y remitir al Ejecutivo del Estado, para la integración de la cuenta pública informes del desempeño de las actividades del Instituto, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
+II.- El Director de la COESVI no podrá vender, ceder, enajenar o gravar los bienes que formen el patrimonio del organismo, sin la autorización del Consejo Directivo;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+III.- Presentar anualmente al Consejo de Administración y remitir al Ejecutivo del Estado, para la integración de la cuenta pública informes del desempeño de las actividades de la COESVI, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
 
 IV.- Aplicar las reglas aprobadas por el Consejo, para el otorgamiento de créditos;
 
 V.- Formular los presupuestos de ingresos y egresos;
 
-VI.- Publicar el balance anual, estados financieros y el informe de actividades del Instituto en el Periódico Oficial del Gobierno del Estado y en uno o más de los periódicos de mayor circulación, dentro de los treinta días siguientes a la fecha de su aprobación;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VI.- Publicar el balance anual, estados financieros y el informe de actividades de la COESVI en el Periódico Oficial del Gobierno del Estado y en uno o más de los periódicos de mayor circulación, dentro de los treinta días siguientes a la fecha de su aprobación;
 
 VII.- Ejecutar los acuerdos del Consejo de Administración y del Comité de Asignaciones;
 
-VIII.- Dirigir, administrar y supervisar todos los asuntos de la competencia del Instituto;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+VIII.- Dirigir, administrar y supervisar todos los asuntos de la competencia de la COESVI;
 
 IX.- Seleccionar y contratar al personal con la aprobación del Presidente del Consejo de Administración;
 
-X.- Ejecutar los programas de obras del Instituto;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-XI.- Establecer los métodos que permitan un optimo aprovechamiento de los bienes, muebles e inmuebles de que disponga el Instituto para la realización de su objeto;
+X.- Ejecutar los programas de obras de la COESVI;
 
-XII.- Proponer al Consejo las medidas que considere convenientes para el mejor funcionamiento del Instituto;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-XIII.- Formular los programas operativos del Instituto, así como establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos;
+XI.- Establecer los métodos que permitan un óptimo aprovechamiento de los bienes, muebles e inmuebles de que disponga la COESVI para la realización de su objeto;
 
-XIV.- Suscribir en su caso los nombramientos de los servidores públicos del Instituto, sean eventuales, a obra determinada o de planta; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-XI (SIC).- Las demás que le señalen el Consejo de Administración y las disposiciones legales que se expidan.
+XII.- Proponer al Consejo las medidas que considere convenientes para el mejor funcionamiento de la COESVI;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XIII.- Formular los programas operativos de la COESVI, así como establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XIV.- Suscribir en su caso los nombramientos de los servidores públicos de la COESVI, sean eventuales, a obra determinada o de planta; y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+XV.- Las demás que le señalen el Consejo de Administración y las disposiciones legales que se expidan.
 
 ###### ARTÍCULO 42.
 
 El Comité de asignaciones se integrará por:
 
-I.- Un Presidente, que será el Director General del Instituto;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
 
-II.- Un Secretario, que será el Subdirector General del Instituto; y
+I.- Un Presidente, que será el Director General de la COESVI;
 
-III.- Tres vocales, que serán: el Subdirector Técnico, el Subdirector Social y el Subdirector Jurídico del Instituto.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+II.- Un Secretario, que será el Subdirector General de la COESVI; y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+III.- Tres vocales, que serán: el Subdirector Técnico, el Subdirector Social y el Subdirector Jurídico de la COESVI.
 
 ###### ARTÍCULO 43.
 
 El Comité de asignaciones tendrá las siguientes atribuciones:
 
-I.- Determinar los grupos que deban considerarse como posibles adquirientes en los programas que realice el Instituto, y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2016)</small>
+
+I.- Determinar los grupos que deban considerarse como posibles adquirientes en los programas que realice la COESVI, y
 
 II.- Seleccionar de entre los grupos y solicitantes, a los beneficiarios de los programas antes mencionados.
 
@@ -1637,9 +1733,11 @@ De igual manera, cuando se trate de núcleos agrarios que se ubiquen inmersos pa
 
 La regularización de la tenencia de la tierra como una acción de mejoramiento urbano, deberá considerar la ejecución por cooperación de las obras de infraestructura, equipamiento o servicios urbanos que requiera el asentamiento humano correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2016)</small>
+
 ###### ARTÍCULO 128.
 
-Las instancias reguladoras como Comisión Reguladora de la Tenencia de la Tierra (CORETT), el Instituto de la Vivienda del Estado (IVED), sector agrario y las que resultaren, solicitaran a los ayuntamientos, las autorizaciones urbanísticas para llevar a cabo los procesos de regularización de la tenencia de la tierra.
+Las instancias reguladoras como Comisión Reguladora de la Tenencia de la Tierra (CORETT), la Comisión Estatal de Suelo y Vivienda de Durango (COESVI), sector agrario y las que resultaren, solicitarán a los ayuntamientos, las autorizaciones urbanísticas para llevar a cabo los procesos de regularización de la tenencia de la tierra.
 
 ## TITULO QUINTO. DE LA REGULACIÓN DE TERRENOS PARA EL DESARROLLO URBANO
 
@@ -3892,3 +3990,11 @@ Los Ayuntamientos deberán adecuar su normatividad y dispondrán de un plazo de 
 ###### ARTICULO CUARTO.
 
 Los Ayuntamientos deberán publicar y notificar anualmente al Congreso del Estado y a la ciudadanía en general, el punto inicial o punto cero de referencia de los centros de población.
+
+P.O. 12 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 554.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE VIVIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
