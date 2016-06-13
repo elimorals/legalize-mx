@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-de-acceso-a-la-61650"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-20"
-last_updated: "2008-06-20"
+last_updated: "2016-06-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO PARA EJERCER EL DERECHO DE ACCESO A LA INFORMACION PUBLICA ANTE EL H. AYUNTAMIENTO DE YURECUARO, MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PARA EL MUNICIPIO DE YURÉCUARO, MICHOACÁN, PUBLICADO EN EL P.O. DE 13 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2016 (SIN EFECTOS).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 20 de junio de 2008.
 
@@ -280,3 +282,15 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Comisionado Presidente de la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán de Ocampo, para su conocimiento y efectos legales conducentes.
 
 Yurécuaro, Michoacán de Ocampo, a los 27 días del mes de Abril del 2008 dos mil ocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PARA EL MUNICIPIO DE YURÉCUARO, MICHOACÁN”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo. Para el conocimiento de la ciudadanía se publicará en los estrados del H. Ayuntamiento y lugares que este estime pertinentes para la difusión del mismo.
+
+Segundo.- Conforme a lo previsto en los artículos 145 y 149 de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo; 113, 115 Fracción II, 123 fracción IV de la Constitución Política de los Estados Unidos Mexicanos y 33-45 del Bando de Gobierno Municipal de Yurécuaro, Michoacán, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Comisionado Presidente de la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán de Ocampo, para su conocimiento y efectos legales conducentes.
+
+Tercero.- Quedando sin efectos el Reglamento de acceso a la información, que fue publicada (sic) en el Periódico Oficial del Estado de fecha viernes 20 de Junio de 2008, Tomo CXLIV, Num 14, estipulado en el Acta número 22, en la Décima Sexta Sesión Ordinaria.
