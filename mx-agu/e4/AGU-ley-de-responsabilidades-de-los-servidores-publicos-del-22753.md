@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2015-12-31"
+last_updated: "2016-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -552,6 +552,10 @@ XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener p
 XVII.- Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de las personas mencionadas en la fracción XIV;
 
 XVIII.- Abstenerse, durante el ejercicio de sus funciones, de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, bienes muebles o inmuebles, mediante enajenación a su favor, en precio notoriamente inferior al que tenga el bien de que se trate en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí o las personas a que se refiere la fracción XIV y que procedan de cualquier persona física o moral, cuyas actividades profesionales, comerciales o industriales que se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2016)</small>
+
+Los servidores públicos de las instituciones de educación, los Centros y las entidades de la Administración Pública del Estado a que se refiere (sic) artículo 53 de la Ley de Ciencia, Tecnología, Innovación y Sociedad del Conocimiento para el Estado de Aguascalientes, que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios. Dichas actividades serán, además de las previstas en el citado artículo, la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichos servidores públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en caso de contravenir las disposiciones aplicables de las instituciones de educación, los centros de investigación y las entidades de la Administración Pública del Estado.
 
 XIX.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Contraloría General del Estado en los términos que señala la Ley;
 
@@ -1334,5 +1338,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 269: REFORMAS A LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 349.- SE ADICIONA EL ARTÍCULO 70 A LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
