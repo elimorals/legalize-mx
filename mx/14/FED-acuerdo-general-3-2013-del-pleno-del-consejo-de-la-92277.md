@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-06-09"
+last_updated: "2016-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -157,9 +157,9 @@ III. TERCER CIRCUITO:
 
 2. Cinco tribunales unitarios con residencia en Zapopan.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 41/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 19/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2016)</small>
 
-3. Veintinueve juzgados de Distrito especializados: seis de amparo en materia penal, ocho en materias administrativa y de trabajo y seis en materia civil, todos ellos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
+3. Treinta y un juzgados de Distrito especializados: siete de amparo en materia penal, ocho en materias administrativa y de trabajo, siete en materia civil, todos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
 
 > <small>(ADICIONADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 12/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE ABRIL DE 2013)</small>
 
@@ -297,9 +297,9 @@ XIV. DECIMOCUARTO CIRCUITO:
 
 XV. DECIMOQUINTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 31/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 29/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2016)</small>
 
-1. Seis tribunales colegiados con residencia en Mexicali.
+1. Ocho tribunales colegiados: seis con residencia en Mexicali y dos especializados en materias civil y de trabajo, con residencia en Tijuana.
 
 > <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 50/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
 
@@ -539,7 +539,11 @@ XIII. DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
 XIV. DECIMOCUARTO CIRCUITO: Estado de Yucatán.
 
-XV. DECIMOQUINTO CIRCUITO: En los tribunales colegiados es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora.
+> <small>(REFORMADA POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 29/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2016)</small>
+
+XV. DECIMOQUINTO CIRCUITO: En los tribunales colegiados con residencia en Mexicali, para las materias penal y administrativa, su jurisdicción es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora y por lo que toca a las materias civil y de trabajo, dicha jurisdicción se limita al municipio de San Luis Río Colorado del Estado de Sonora y a Mexicali, Baja California.
+
+Los tribunales colegiados en materias civil y de trabajo con residencia en Tijuana, tendrán jurisdicción en el territorio que comprende dicho municipio y en los diversos de Ensenada, Playas de Rosarito y Tecate, en el Estado de Baja California.
 
 Los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
 
@@ -2778,3 +2782,71 @@ D.O.F. 9 DE JUNIO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor el catorce de junio de dos mil dieciséis.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 13 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 19/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SÉPTIMO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES DE LA MATERIA, ENTIDAD Y SEDE MENCIONADAS".]
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se modifica el punto SEGUNDO, apartado III. TERCER CIRCUITO, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+III. TERCER CIRCUITO: ...
+
+1. a 2. …
+
+3. Treinta y un juzgados de Distrito especializados: siete de amparo en materia penal, ocho en materias administrativa y de trabajo, siete en materia civil, todos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
+
+4. …".
+
+CUARTO. Se modifica el rol de guardias para la recepción de asuntos en días y horas inhábiles de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco a partir del dieciocho de julio de dos mil dieciséis, para quedar como sigue: del dieciocho al veinticinco de julio de dos mil dieciséis, estará de guardia el Juzgado Séptimo de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del veinticinco de julio al uno de agosto de dos mil dieciséis, estará de guardia el Juzgado Primero de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del uno al ocho de agosto de dos mil dieciséis, estará de guardia el Juzgado Segundo de Distrito de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del ocho al quince de agosto de dos mil dieciséis, estará de guardia el Juzgado Tercero de Distrito en de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del quince al veintidós de agosto de dos mil dieciséis, estará de guardia el Juzgado Cuarto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del veintidós al veintinueve de agosto de dos mil dieciséis, estará de guardia el Juzgado Quinto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del veintinueve de agosto al cinco de septiembre de dos mil dieciséis, estará de guardia el Juzgado Sexto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Zapopan; del cinco al doce de septiembre de dos mil dieciséis, estará de guardia el Juzgado Séptimo de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Zapopan y así sucesivamente.
+
+D.O.F. 13 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 29/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, FECHA DE INICIO DE FUNCIONES Y DOMICILIO DE DOS TRIBUNALES COLEGIADOS EN MATERIAS CIVIL Y DE TRABAJO DEL DECIMOQUINTO CIRCUITO CON RESIDENCIA EN TIJUANA, BAJA CALIFORNIA; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS, ASÍ COMO LA CREACIÓN DE SU OFICINA DE CORRESPONDENCIA COMÚN Y A LA NUEVA COMPETENCIA QUE TENDRÁN LOS SEIS TRIBUNALES COLEGIADOS DEL DECIMOQUINTO CIRCUITO CON RESIDENCIA EN MEXICALI”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de junio de dos mil dieciséis, con excepción de lo previsto en el transitorio sexto, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal para su mayor difusión.
+
+TERCERO. Se reforman los numerales SEGUNDO, fracción XV, número 1; y TERCERO, fracción XV, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XIV. …
+
+XV. …
+
+1. Ocho tribunales colegiados: seis con residencia en Mexicali y dos especializados en materias civil y de trabajo, con residencia en Tijuana.
+
+2. a 3. …
+
+XVI. a XXXII. …
+
+TERCERO. …
+
+I. a XIV. …
+
+XV. DECIMOQUINTO CIRCUITO: En los tribunales colegiados con residencia en Mexicali, para las materias penal y administrativa, su jurisdicción es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora y por lo que toca a las materias civil y de trabajo, dicha jurisdicción se limita al municipio de San Luis Río Colorado del Estado de Sonora y a Mexicali, Baja California.
+
+Los tribunales colegiados en materias civil y de trabajo con residencia en Tijuana, tendrán jurisdicción en el territorio que comprende dicho municipio y en los diversos de Ensenada, Playas de Rosarito y Tecate, en el Estado de Baja California.
+
+Los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
+
+Los tribunales unitarios con residencia en Tijuana tendrán la misma que la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
+
+XVI. a XXXII. …”.
+
+CUARTO. Los Tribunales Colegiados del Decimoquinto Circuito con residencia en Mexicali, Baja California, conservarán su competencia originaria para la atención de los asuntos que les fueron turnados antes de la entrada en vigor de este Acuerdo, hasta su conclusión y archivo definitivo.
+
+QUINTO. El Pleno del Decimoquinto Circuito con residencia en Mexicali, Baja California, continuará con su conformación y denominación actual, adecuando su competencia territorial en términos del presente Acuerdo.
+
+Una vez que entre en vigor el presente Acuerdo, se deberá integrar el Pleno del Decimoquinto Circuito en Materias Civil y de Trabajo, con residencia en Tijuana, Baja California.
+
+Lo anterior, de conformidad con el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
+
+SEXTO. La Secretaría Ejecutiva de Administración con sus respectivas áreas, se coordinarán entre sí, a efecto de realizar oportunamente la instalación de los órganos jurisdiccionales de que se trata, dotándolos de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
