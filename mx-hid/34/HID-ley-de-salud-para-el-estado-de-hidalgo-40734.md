@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2013-09-02"
+last_updated: "2016-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -161,11 +161,11 @@ a).- La salud materno-infantil y planificación familiar y/o salud sexual y repr
 
 b).- La promoción y conservación de la salud física;
 
-c).- La medicina preventiva y (sic)
+c).- La medicina preventiva y
 
 d).- La vigilancia epidemiológica;
 
-e).- Los servicios de atención médica y asistencia social; y (sic)
+e).- Los servicios de atención médica y asistencia social; y
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
@@ -1121,9 +1121,11 @@ Los establecimientos a que se refiere este capítulo requieren de licencia sanit
 
 La Autoridad Sanitaria, aprobará la instalación de estos establecimientos cuando hayan cumplido con las disposiciones correspondientes sobre las instalaciones físicas, de equipamiento y de recursos humanos para su atención, efectuando el control, vigilancia sanitaria y verificación de la aplicación de los lineamientos de rehabilitación y tratamiento conforme a la normatividad vigente.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2016)</small>
+
 ###### Artículo 142.
 
-En estos establecimientos, se garantizará el respeto a los derechos humanos y a la dignidad de las personas, quedando prohibido cualquier acto de agresión física o moral, tortura, mutilación, abuso sexual, así como toda conducta que atente contra la vida o la integridad de las personas.
+En estos establecimientos, se garantizará el respeto a los derechos humanos y a la dignidad de las personas, teniendo comunicación con el exterior, quedando prohibido cualquier acto de discriminación basada en origen étnico, sexo, edad, discapacidad, condición social o económica, condiciones de salud, creencia religiosa, preferencias sexuales, estado civil, también cualquier agresión física, moral o psicológica, tortura, mutilación, abuso sexual, así como toda conducta que atente contra la vida o la integridad de las personas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
@@ -1736,3 +1738,9 @@ P.O. 2 DE SEPTIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 13 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 142 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
